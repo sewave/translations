@@ -1,0 +1,5 @@
+set T_FILENAME="M.U.S.H.A (U) [!].bin"
+set SCRIPTNAME="musha"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false E48-E6C-00,78C-821-00,D7C-DFD-00,2082-208F-00,239E-23CD-00,2444-246D-00,13576-1374C-00,156BA-15A7A-00,
+java -jar Hextractor.jar -a %SCRIPTNAME%Alt.tbl %T_FILENAME% %SCRIPTNAME%Alt.txt false 1D984-1DE94-FB,2992-2B8D-00
+pause

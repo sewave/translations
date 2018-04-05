@@ -1,0 +1,1 @@
+java -jar Hextractor.jar -h scoobydoo.tbl blake_es.txt "Scooby Doo Mystery (W) [!].bin" 1F7500 B5B64 > out.txt

@@ -1,0 +1,88 @@
+@0000D130-0000D51F-FF
+;00000000{                                GOOD EVENING, BOYS...                                                              I'VE GOT A JOB FOR YOU                               THAT'S RIGHT UP YOUR ALLEY.                                                           WE'RE GOING TO CLEAN UP                                BADVILLE ONCE AND FOR ALL.                                                                                         TO DO THAT, WE NEED                                          EVIDENCE.           AND IT'S UP TO YOU TO GET                                 IT FROM THOSE CROOKED                                    JOINTS THAT ARE RUN                                     BY COUNTERFEITERS AND                                CHEATING CASINO OPERATORS.                                                                                                                  OKAY... LET'S GO GET 'EM!                                                                                                                  }#1008#1008
+                                GOOD EVENING, BOYS...                                                              I'VE GOT A JOB FOR YOU                               THAT'S RIGHT UP YOUR ALLEY.                                                           WE'RE GOING TO CLEAN UP                                BADVILLE ONCE AND FOR ALL.                                                                                         TO DO THAT, WE NEED                                          EVIDENCE.           AND IT'S UP TO YOU TO GET                                 IT FROM THOSE CROOKED                                    JOINTS THAT ARE RUN                                     BY COUNTERFEITERS AND                                CHEATING CASINO OPERATORS.                                                                                                                  OKAY... LET'S GO GET 'EM!                                                                                                                  #1008
+|1008
+@0000DE28-0000DF53-FF
+;00000000{ STAGE 1   STAGE 2   STAGE 3   STAGE 4   STAGE 5   STAGE 6   STAGE 7   STAGE 8   STAGE 9   STAGE 10       THE BANK          THE MANSION          THE CASINO           THE MINT      THE DEPARTMENT STORE THE JEWELRY STORE     THE LABORATORY    THE ANTIQUE STORE    THE ART GALLERY       THE PYRAMID     }#300#300
+ STAGE 1   STAGE 2   STAGE 3   STAGE 4   STAGE 5   STAGE 6   STAGE 7   STAGE 8   STAGE 9   STAGE 10       THE BANK          THE MANSION          THE CASINO           THE MINT      THE DEPARTMENT STORE THE JEWELRY STORE     THE LABORATORY    THE ANTIQUE STORE    THE ART GALLERY       THE PYRAMID     #300
+|300
+@0000E4B0-0000E551-00
+;00000000{- OPTIONS -~D0~~78~~01~~10~~00~}#031#016
+- OPTIONS -~D0~~78~~01~~10~~00~#016
+;00000010{PLAYER         3P~79~~01~~10~~00~}#033#021
+PLAYER         3P~79~~01~~10~~00~#021
+;00000025{TIME   3 MINUTES~D0~~79~~01~~10~~00~}#036#021
+TIME   3 MINUTES~D0~~79~~01~~10~~00~#021
+;0000003A{CONTINUE       3P~7A~~01~~10~~00~}#033#021
+CONTINUE       3P~7A~~01~~10~~00~#021
+;0000004F{PLAYER CHARACTER~E0~~7A~~01~~05~~00~}#036#021
+PLAYER CHARACTER~E0~~7A~~01~~05~~00~#021
+;00000064{ROBO P~7B~~01~~10~~00~}#022#010
+ROBO P~7B~~01~~10~~00~#010
+;0000006E{SOUND        M80~D0~~7B~~01~~10~~00~}#036#021
+SOUND        M80~D0~~7B~~01~~10~~00~#021
+;00000083{STAGE          1~DA~~7C~~01~~04~~00~}#036#021
+STAGE          1~DA~~7C~~01~~04~~00~#021
+;00000098{EXITMOBO ~00~}#013#010
+EXITMOBO ~00~#010
+|162
+@0000E5CD-0000E5CF-FF
+;00000000{END}#003#003
+END#003
+|3
+@0000E72A-0000E75B-00
+;00000000{CONTINUE ~3F~~D6~~7B~~01~~0A~~00~}#033#015
+CONTINUE ~3F~~D6~~7B~~01~~0A~~00~#015
+;0000000F{CREDITS  1.~7C~~01~~03~~00~}#027#015
+CREDITS  1.~7C~~01~~03~~00~#015
+;0000001E{YES~96~~7D~~01~~08~~00~}#023#008
+YES~96~~7D~~01~~08~~00~#008
+;00000026{TIME  20NO ~00~}#015#012
+TIME  20NO ~00~#012
+|50
+@0000E782-0000E78B-FF
+;00000000{HIGH SCORE}#010#010
+HIGH SCORE#010
+|10
+@0000E818-0000E829-FF
+;00000000{END~D6~~7C~~01~~0A~~08~NAME  ----}#033#018
+END~D6~~7C~~01~~0A~~08~NAME  ----#018
+|18
+@0000E835-0000E83A-FF
+;00000000{TIME  }#006#006
+TIME  #006
+|6
+@0000E90D-0000E937-00
+;00000000{HIGH SCORE~06~~79~~01~~1A~~00~}#030#015
+HIGH SCORE~06~~79~~01~~1A~~00~#015
+;0000000F{RANK   SCORE   STAGE  NAME~11~~00~}#034#028
+RANK   SCORE   STAGE  NAME~11~~00~#028
+|43
+@0000E984-0000E995-FF
+;00000000{PRESS START BUTTON}#018#018
+PRESS START BUTTON#018
+|18
+@0000FA98-0000FAE5-00
+;00000000{TIME~A0~~79~~01~~01~~00~}#024#009
+TIME~A0~~79~~01~~01~~00~#009
+;00000009{~60~~12~~7A~~01~~05~~00~}#024#006
+~60~~12~~7A~~01~~05~~00~#006
+;0000000F{SCORE~0A~~7B~~01~~17~~00~}#025#010
+SCORE~0A~~7B~~01~~17~~00~#010
+;00000019{YOU CLEARED THIS STAGE.~C8~~7B~~01~~18~~00~}#043#028
+YOU CLEARED THIS STAGE.~C8~~7B~~01~~18~~00~#028
+;00000035{  NOW TRY THE NEXT ONE. ~00~}#028#025
+  NOW TRY THE NEXT ONE. ~00~#025
+|78
+@000169AD-000169D0-FF
+;00000000{BONUS STAGEYOU FAILED.SPECIAL BONUS }#036#036
+BONUS STAGEYOU FAILED.SPECIAL BONUS #036
+|36
+@0001E8BE-0001E93D-FF
+;00000000{ --- STAFF ---  ORIGINAL PLANNER     PLANNER       PROGRAMMER       DESIGNER     SOUND COMPOSER  SPECIAL THANKS                 }#128#128
+ --- STAFF ---  ORIGINAL PLANNER     PLANNER       PROGRAMMER       DESIGNER     SOUND COMPOSER  SPECIAL THANKS                 #128
+|128
+@0001F0C4-0001F0D4-00
+;00000000{CONGRATULATIONS!~00~}#020#017
+CONGRATULATIONS!~00~#017
+|17

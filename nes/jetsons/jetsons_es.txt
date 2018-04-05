@@ -1,0 +1,238 @@
+@00021071-00021E90-FF
+;00000000{~40~~0B~~09~<YOU CAN'T USE THAT~0D~~09~NOW.>~FF~}#045#030
+~40~~0B~~09~<No puede usarlo ahora.>~0D~~09~~FF~#030
+;0000001E{~40~~0B~~09~<MR.<J>! IF YOU USE~0D~~09~ITEMS HERE,~0A~~09~YOU MAY GET INTO~0D~~09~TROUBLE!>~FF~}#092#065
+~40~~0B~~09~<¡Sr.<J>! Si usa objetos~0D~~09~aquí, ¡se meterá en~0D~~09~problemas!>~FF~#065
+;0000005F{~40~~00~~09~JETSONS.~FF~}#021#012
+~40~~00~~09~Jetsons.~FF~#012
+;0000006B{~40~~0B~~09~<HOW ARE YOU FEELING,~0D~~09~MR.<J>?~0A~~09~YOU WILL NEED THESE~0D~~09~POWER PACKS ON YOUR~0D~~09~ADVENTURE~0A~~09~SO BE SURE~0D~~09~TO TAKE PLENTY~0D~~09~OF THEM WITH YOU.~0A~~09~WITHOUT THEM YOU~0D~~09~WILL NOT BE ABLE TO~0D~~09~USE THE ITEMS.>~FF~}#259#190
+~40~~0B~~09~<¿Cómo se siente,Sr.<J>?~0A~~09~Necesitará estos Packs de~0D~~09~Poder en su aventura asi~0A~~09~que llévese varios con~0D~~09~usted.~0A~~09~Sin ellos no será capaz~0D~~09~de utilizar los objetos.>~FF~#190
+;00000129{~40~~0B~~09~<THIS IS THE STARTER~0D~~09~SWITCH. STAND IN FRONT OF~0D~~09~THE SWITCH~0A~~09~AND TRY PRESSING~0D~~09~BUTTON B.>~FF~}#126#093
+~40~~0B~~09~<Este es el interruptor~0D~~09~de inicio. Ponte delante ~0D~~09~de él y~0A~~09~pulsa el botón B.>       ~0D~~09~~FF~#093
+;00000186{~40~~0B~~09~<THIS SWITCH IS FOR~0D~~09~REVERSING GRAVITY.~0A~~09~BE CAREFUL, AS IT ONLY~0D~~09~WORKS FOR A LIMITED TIME.~0A~~09~GOOD LUCK, MR.<J>!>~FF~}#148#115
+~40~~0B~~09~<Este interruptor~0D~~09~invierte la gravedad.~0A~~09~Cuidado, solo funciona~0D~~09~durante un tiempo.~0A~~09~¡Suerte, Sr.<J>!>~FF~#115
+;000001F9{~40~~0B~~09~<MR.<J>, ASTRO HAS THE~0D~~09~REMOTE CONTROL.>~FF~}#059#044
+~40~~0B~~09~<Sr.<J>, Astro tiene el~0D~~09~remoto.>~FF~#044
+;00000225{~40~~0B~~09~<MR.<J>,~0D~~09~ELROY IS PRACTICING AT~0D~~09~THE SPACE BALL STADIUM.>~FF~}#083#062
+~40~~0B~~09~<Sr.<J>,~0D~~09~Elroy practica en el~0D~~09~Estadio Bola Espacial.>~FF~#062
+;00000263{~40~~0B~~09~<JUDY'S NOT HOME~0D~~09~MR.<J>.~0A~~09~SHE'S GONE TO~0D~~09~JET SCREAMER'S~0D~~09~CONCERT.>~FF~}#104#071
+~40~~0B~~09~<Judy ha salido~0D~~09~Sr.<J>.~0A~~09~Fue al concierto de los~0D~~09~Jet Screamer.>~FF~#071
+;000002AA{~40~~08~~09~<OUCH! DUMP THAT~0D~~09~ROBOT INTO THE TRASH!~0A~~09~WELL, FANCY MEETING A~0D~~09~HUMAN AFTER ALL THIS~0D~~09~TIME!~0A~~09~YOU OUGHT TO VISIT~0D~~09~MY HOME AT THE~0D~~09~BOTANICAL GARDENS.~0A~~09~IT'S A GREAT PLACE.~0D~~09~WELL, SO LONG.>~FF~}#252#189
+~40~~08~~09~<¡AU! ¡Tira ese robot a~0D~~09~la basura!~0A~~09~Bueno, ¡está bien ver~0D~~09~a un humano después de~0D~~09~tanto tiempo!~0A~~09~Tienes que visitar mi~0D~~09~hogar en los Jardines~0D~~09~Botánicos.~0A~~09~Es un sitio genial.~0D~~09~Adiós.>~FF~#189
+;00000367{~40~~0D~~09~<BOY, THAT WAS SCARY!~0A~~09~I PICKED YOU UP TO~0D~~09~THANK YOU FOR~0D~~09~HELPING ME OUT.~0A~~09~I WANTED TO GIVE YOU~0D~~09~THIS GLIDER, TOO.&~11~~01~~0A~~09~THOUGH IT LOOKS LIKE IT~0D~~09~DOESN'T WORK WITHOUT~0A~~09~THE REMOTE CONTROL.>~FF~}#253#190
+~40~~0D~~09~<¡Chico, que miedo!~0A~~09~Te recogí para darte las~0D~~09~gracias por ayudarme.~0A~~09~También quería darte~0D~~09~este ala delta.&~11~~01~~0A~~09~Aunque parece que no~0D~~09~funciona sin el control~0A~~09~remoto.>~FF~#190
+;00000425{~40~~0A~~09~<I'M DR.FAROUT.~0D~~09~I'M DOING RESEARCH ON~0D~~09~COG WHEELS.~0A~~09~YOU ARE ABOUT TO ENTER~0D~~09~DREAMLAND, A DANGEROUS~0D~~09~PLACE WHERE~0A~~09~YOUR DREAM~0D~~09~CAN BE STOLEN.~0A~~09~BE CAREFUL, GEORGE.>~FF~}#223#166
+~40~~0A~~09~<Soy el Dr. Farout.~0D~~09~Investigo ruedas~0D~~09~dentadas.~0A~~09~Vas a entrar a~0D~~09~SueñoLandia, un lugar~0D~~09~peligroso donde tus~0A~~09~sueños pueden ser~0D~~09~robados.~0A~~09~Cuidado, George.>~FF~#166
+;000004CB{~40~~01~~09~<HI!~0D~~09~I'M THE HARDWARE ROBOT.~0A~~09~WHY DON'T YOU COME AND~0D~~09~VISIT THE COSMO WORLD~0D~~09~I DESIGNED?~0A~~09~IT WILL MAKE YOU FEEL~0D~~09~GREAT!!>~FF~}#171#126
+~40~~01~~09~<¡Hola!~0D~~09~Soy el robot de hardware.~0A~~09~¿Por qué no viene a~0D~~09~visitar el Mundo que~0D~~09~Cosmo Diseñó? ~0A~~09~¡Le hará sentir bien!~0D~~09~>~FF~#126
+;00000549{~40~~01~~09~<BOY, AM I GLAD~0D~~09~YOU CAME!~0A~~09~COSMO WORLD HAS BEEN~0D~~09~TAKEN OVER BY A~0D~~09~PAIR OF ALIENS.~0A~~09~GEORGE, YOU MUST~0D~~09~STOP THEM!~0D~~09~DON'T LET ME DOWN NOW!>~FF~}#192#141
+~40~~01~~09~<¡Me alegro de que~0D~~09~vinieras!~0A~~09~Mundo Cosmo ha sido~0D~~09~tomado por un par de~0D~~09~aliens.~0A~~09~George, ¡Debes~0D~~09~detenerles!~0D~~09~¡No me dejes tirado!>~FF~#141
+;000005D6{~40~~01~~09~<BRAVO!~0D~~09~HERE IS A SPECIAL FLASH~0D~~09~LIGHT.&~11~~04~~0A~~09~IT WILL ELIMINATE~0D~~09~EVERYTHING IN SIGHT.~0A~~09~GOOD LUCK, GEORGE.>~FF~}#154#109
+~40~~01~~09~<¡Bravo!~0D~~09~Toma una linterna~0D~~09~especial.&~11~~04~~0A~~09~Eliminará todo a la~0D~~09~vista.~0A~~09~Buena suerte, George.>~FF~#109
+;00000643{~40~~0C~~09~<COGSWELL'S COMPUTER~0D~~09~WAS GOING BERSERK!~0A~~09~WE TRIED TO STOP IT BY~0D~~09~REPROGRAMMING IT,~0A~~09~BUT WE FAILED.~0A~~09~IT ONLY DID MORE~0D~~09~DAMAGE TO OUR COLONY!>~FF~}#190#145
+~40~~0C~~09~<¡El ordenador de~0D~~09~Cogswell estaba loco!~0A~~09~Intentamos pararlo~0D~~09~reprogramándolo,~0A~~09~pero fallamos.~0A~~09~¡Sólo hizo más daño~0D~~09~a nuestra colonia!>~FF~#145
+;000006D4{~40~~0C~~09~<THE DESTRUCTION~0D~~09~CONTINUES AND WE NEED~0D~~09~YOUR HELP!~0A~~09~THE MOTHER COMPUTER~0D~~09~IS UNDERGROUND.~0A~~09~YOU'VE GO TO GO DOWN~0D~~09~THERE AND STOP IT!>~FF~}#181#136
+~40~~0C~~09~<¡La destrucción~0D~~09~continua y necesitamos~0D~~09~tu ayuda!~0A~~09~El ordenador madre~0D~~09~esta bajo tierra.~0A~~09~¡Tienes que bajar ahí~0D~~09~y detenerlo!>~FF~#136
+;0000075C{~40~~05~~09~<HA,HA,HA,~0D~~09~WELCOME, JETSON.~0A~~09~LOOKS LIKE YOU SNIFFED~0D~~09~US OUT!~0A~~09~BUT YOU WON'T~0D~~09~BE LUCKY~0D~~09~AGAINST MY PET DOG.~0A~~09~HE WON'T LET YOU~0D~~09~OUT OF HERE!~0A~~09~SIC'EM SENTRO!>~FF~}#223#160
+~40~~05~~09~<Ja, Ja, Ja~0D~~09~Hola Jetson.~0A~~09~¡Parece que nos~0D~~09~pillaste!~0A~~09~No tendrás tanta suerte~0D~~09~contra mi perro~0D~~09~guardián.~0A~~09~¡No saldrás de aquí!~0D~~09~~0A~~09~¡Adelante Sentro!>~FF~#160
+;000007FC{~40~~05~~09~<THIS TIME YOU'RE NOT~0D~~09~GOING TO BE SO LUCKY.~0A~~09~HEY, HOW ARE YOU~0D~~09~FEELING NOW, JETSON?>~FF~}#116#089
+~40~~05~~09~<Esta vez no tendrás~0D~~09~tanta suerte.~0A~~09~Eh, ¿cómo te sientes~0D~~09~ahora, Jetson?>~FF~#089
+;00000855{~40~~05~~09~<LET'S SEE HOW YOU DO~0D~~09~WITH REVERSED GRAVITY!>~FF~}#065#050
+~40~~05~~09~<¡Veamos que tal con~0D~~09~gravedad invertida!>~FF~#050
+;00000887{~40~~05~~09~<JETSON, YOU'RE JUST~0D~~09~A BORN SURVIVOR!~0A~~09~BUT I HAVE A FEELING~0D~~09~YOU WON'T~0D~~09~LAST MUCH LONGER!>~FF~}#128#095
+~40~~05~~09~<Jetson, ¡Eres un~0D~~09~superviviente nato!~0A~~09~Pero siento que no~0D~~09~aguantarás mucho más!>~0D~~09~~FF~#095
+;000008E6{~40~~05~~09~<BOY, YOU DON'T~0D~~09~GIVE UP, JETSON!~0A~~09~YOU WON'T BE SO LUCKY~0D~~09~THIS TIME!>~FF~}#100#073
+~40~~05~~09~<¡No te rindes Jetson!~0D~~09~~0A~~09~¡No tendrás tanta suerte~0D~~09~esta vez!>~FF~#073
+;0000092F{~40~~0B~~09~<WAY TO GO MR.<J>!>~FF~}#032#023
+~40~~0B~~09~<¡Así Sr.<J>!>~FF~#023
+;00000946{~40~~09~~09~<I'M LEAVING FOR~0D~~09~JET SCREAMER'S~0D~~09~CONCERT NOW.~0A~~09~BYE, DAD.>~0D~~FF~}#093#063
+~40~~09~~09~<Me voy al concierto de~0D~~09~Jet Screamer.~0D~~09~~0A~~09~Adiós, papá.>~0D~~FF~#063
+;00000985{~40~~04~~09~<GOOD JOB, GEORGE!~0D~~09~HOW'S THE REMOTE CONTROL~0D~~09~WORKING?~0A~~09~THE BONE GEORGE,~0D~~09~GIVE ME THE BONE!>~0D~~FF~}#133#097
+~40~~04~~09~<¡Bien hecho George!~0D~~09~¿Que tal va el control~0D~~09~remoto?~0A~~09~Detalles George,~0D~~09~¡dame detalles!>~0D~~FF~#097
+;000009E6{~40~~06~~09~<HEY, DAD!~0D~~09~WE HAVE A GAME TODAY!~0A~~09~YOU'LL COME CHEER~0D~~09~US ON AGAIN,~0D~~09~WON'T YOU?>~FF~}#116#083
+~40~~06~~09~<¡Eh papa!~0D~~09~¡Hoy tenemos partido!~0A~~09~Vendrás a animarnos de~0D~~09~nuevo,~0D~~09~¿verdad?>~FF~#083
+;00000A39{~40~~0F~~09~<RIGHT!~0A~~09~I'M CLOSING SHOP NOW,~0D~~09~SO YOU'LL HAVE TO EXCUSE~0D~~09~ME!~0A~~09~YOU CAN BE INVINCIBLE~0D~~09~FOR A WHILE USING~0D~~09~THIS SHIELD.&~11~~02~~0A~~09~USEFUL, EH?~0A~~09~GOOD JOB, GEORGE.>~FF~}#220#157
+~40~~0F~~09~<¡Bien!~0A~~09~Ahora cierro mi tienda,~0D~~09~¡así que si me perdonas!~0D~~09~~0A~~09~Puedes ser invencible~0D~~09~un rato usando este~0D~~09~escudo.&~11~~02~~0A~~09~¿Util, eh?~0A~~09~Bien hecho, George.>~FF~#157
+;00000AD6{~0B~<DAD, WHAT ARE YOU~0D~~0B~DOING HERE?~0A~~0B~OH! YOU WANT TO USE~0D~~0B~MY JET BOARD!~0A~~0B~O.K. BUT REMEMBER,&~11~~00~~0A~~0B~ONCE YOU GET ON IT YOU~0D~~0B~MOVE AUTOMATICALLY.~0A~~0B~OH, LOOK,~0D~~0B~THERE'S JET SCREAMER.~0A~~0B~SEE YOU LATER, DAD!>~0A~~FF~}#263#194
+~0B~<Papa, ¿qué haces~0D~~0B~aquí?~0A~~0B~¡Oh! ¡Quieres usar mi~0D~~0B~Tabla Jet!~0A~~0B~Vale, pero recuerda,&~11~~00~~0A~~0B~cuando te subes a ella~0D~~0B~se mueve sola.~0A~~0B~Oh, mira,~0D~~0B~ahi está Jet Screamer.~0A~~0B~¡Hasta luego papa!>~0A~~FF~#194
+;00000B98{~0B~<HEY, DAD!~0D~~0B~THANKS FOR COMING TO~0D~~0B~CHEER US ON!~0A~~0B~HERE, LET ME GIVE YOU~0D~~0B~THESE MAGNETIC BOOTS.&~11~~00~~0A~~0B~YOU CAN WALK ON THE ~0D~~0B~CEILING WITH THEM!~0D~~0B~BUT BE CAREFUL,~0A~~0B~YOU DON'T HAVE~0D~~0B~MANY POWER PACKS LEFT!~0A~~0B~GOOD-BYE DAD!>~0A~~FF~}#288#213
+~0B~<¡Eh papa!~0D~~0B~¡Gracias por venir a~0D~~0B~animarnos!~0A~~0B~Toma, déjame darte~0D~~0B~estas botas magnéticas.&~11~~00~~0A~~0B~¡Puedes caminar por el~0D~~0B~techo con ellas!~0D~~0B~Pero ten cuidado,~0A~~0B~¡no te quedan~0D~~0B~muchos Packs de Poder!~0A~~0B~¡Adiós papa!>~0A~~FF~#213
+;00000C6D{~0B~<WELL, IF IT ISN'T GEORGE!~0A~~0B~WHAT'S GOING ON,~0D~~0B~YOU LOOK TIRED?~0A~~0B~YOU CAN MOVE THE ITEMS~0D~~0B~WITH THIS REMOTE CONTROL~0A~~0B~TO MAKE YOUR JOB EASIER.&~11~~00~~0A~~0B~HEY, YOU OUGHT TO BUILD UP~0D~~0B~YOUR STRENGTH, LIKE ME!>~0A~~FF~}#254#197
+~0B~<Bueno, ¡pero si es George!~0A~~0B~Que pasa, ~0D~~0B~¿estás cansado?  ~0A~~0B~Puedes mover los objetos~0D~~0B~con el control remoto~0A~~0B~para hacerlo más fácil.&~11~~00~~0A~~0B~Eh, ¡tienes que mejorar tu~0D~~0B~fuerza, como yo!>~0A~~FF~#197
+;00000D32{~0B~<WHY, GEORGE, YOU'RE BACK.~0A~~0B~A ROCKET HAS ARRIVED~0D~~0B~FOR YOU FROM COGSWELL'S.~0A~~0B~WHAT?! YOU'VE GOT TO~0D~~0B~GO OUT TO SPACE TO WORK?!~0A~~0B~OH DEAR!~0D~~0B~WELL, I KNOW IT'S NOT MUCH,~0A~~0B~BUT WILL YOU TAKE THESE~0D~~0B~POWER PACKS WITH YOU?~0A~~0B~BE CAREFUL, GEORGE!>&~11~~00~~0A~~FF~}#307#238
+~0B~<George, has vuelto.~0A~~0B~Ha llegado un cohete~0D~~0B~para tí de Cogswell.~0A~~0B~¡¿Qué?! ¡¿Has de ir al~0D~~0B~espacio a trabajar?!~0A~~0B~¡Querido!~0D~~0B~Bueno, si no es demasiado,~0A~~0B~¿Pero te llevarás estos~0D~~0B~Packs de Poder contigo?~0A~~0B~¡Ten cuidado George!>&~11~~00~~0A~~FF~#238
+|3616
+@00020A90-00020AE4-FF
+;00000000{~8C~´GEORGE JETSON~FF~}#022#016
+~8C~´George Jetson~FF~#016
+;00000010{~8C~´ELROY JETSON~FF~}#021#015
+~8C~´Elroy Jetson~FF~#015
+;0000001F{~8C~´JANE JETSON~FF~}#020#014
+~8C~´Jane Jetson~FF~#014
+;0000002D{~8C~´JUDY JETSON~FF~}#020#014
+~8C~´Judy Jetson~FF~#014
+;0000003B{~8C~´ASTRO~FF~}#014#008
+~8C~´Astro~FF~#008
+;00000043{~8C~´ROSIE THE ROBOT~FF~}#024#018
+~8C~´Rosie la Robot~FF~#018
+|85
+@00005309-0000531A-FF
+;00000000{PUSH START BUTTON~FF~}#021#018
+Pulsa Botón Start~FF~#018
+|18
+@000227EE-00022802-FF
+;00000000{CONTINUE?~FF~}#013#010
+CONTINUA?~FF~#010
+;0000000A{~D6~!YES~FF~}#012#006
+~D6~!SI ~FF~#006
+;00000010{~16~`NO~FF~}#011#005
+~16~`NO~FF~#005
+|21
+@00023062-00023585-FF-0A
+;00000000{<COGSWELL IS SETTING~0D~~0B~UP A MINING FACTORY~0D~~0B~ON PLANET M38~0A~}#072#057
+<Cogswell está poniendo una~0D~~0B~mineria en el planeta M38~0A~#057
+;00000039{~0B~AND MAKING LOTS OF MONEY.~0A~}#033#027
+~0B~y haciendo mucho dinero.~0A~#027
+;00000054{~0B~THIS FACTORY COULD~0D~~0B~DESTROY THE PLANET!~0A~}#053#041
+~0B~¡Esta fábrica destruirá el~0D~~0B~planeta!~0A~#041
+;0000007D{~0B~WHAT'S MORE, COGSWELL IS~0D~~0B~WALKING~0A~}#047#035
+~0B~Además, ¡Cogswell está~0D~~0B~pisando~0A~#035
+;000000A0{~0B~ALL OVER THE RIGHTS~0D~~0B~OF THE ALIENS!~0A~}#049#037
+~0B~los derechos de los aliens!~0D~~0B~~0A~#037
+;000000C5{~FF~}#004#001
+~FF~#001
+;000000C6{~0B~YOU'VE GOT TO GET INTO~0D~~0B~COGSWELL'S FACTORY~0A~}#056#044
+~0B~¡Tienes que entrar en la~0D~~0B~Fábrica y~0A~#044
+;000000F2{~0B~AND PUT A STOP TO THIS RIGHT~0D~~0B~AWAY!>~0A~}#050#038
+~0B~parar esto de inmediato!>~0A~#038
+;00000118{~FF~}#004#001
+~FF~#001
+;00000119{~0B~CONGRATULATIONS GEORGE!~5C~~0B~YOU HAVE STOPPED~0D~~0B~COGSWELL'S MINING FACTORY~0D~~0B~AND~5C~~0B~BROUGHT BACK PEACEFULL TIMES~0D~~0B~TO PLANET M38 AND~5C~~0B~SPACELY SPROCKETS.~5C~ ~0D~~5C~~0B~AND TODAY...~5C~~0B~GEORGE IS BACK IN~0D~~0B~HIS EASY CHAIR,~0D~~0B~HALF ASLEEP AS USUAL.~5C~~FF~}#296#221
+~0B~¡Felicidades George!~5C~~0B~Paraste la Fábrica~0D~~0B~Minera de Cogswell y~0D~~0B~has~5C~~0B~devuelto los tiempos de paz ~0D~~0B~al planeta M38 y a~5C~~0B~Spacely Sprockets.~5C~ ~0D~~5C~~0B~Y hoy...~5C~~0B~George está de vuelta~0D~~0B~en su silla, medio~0D~~0B~dormido como siempre.~5C~~FF~#221
+;000001F6{´~10~~0B~         THE END~FF~}#029#020
+´~10~~0B~           FIN  ~FF~#020
+;0000020A{~0B~<TURN OFF THE MAIN POWER~0D~~0B~OF THE COLONY, NOW!>~0A~}#060#048
+~0B~<Quita la corriente de la~0D~~0B~colonia, ¡Ahora!>~0A~#048
+;0000023A{~0B~<B-BUT...~0D~~0B~THAT MEANS THE CENTRAL~0D~~0B~CONTROLS~0A~}#063#045
+~0B~<P-pero...~0D~~0B~Entonces los controles ya no~0D~~0B~~0A~#045
+;00000267{~0B~WON'T WORK ANY MORE...>~5C~~FF~}#035#026
+~0B~funcionarán...>~5C~~FF~#026
+;00000281{~0B~<BOSS,~0D~~0B~THE WORKER ROBOTS CONTROLLED~0D~~0B~BY THE MOTHER COMPUTER~0A~}#080#062
+~0B~<Jefe,~0D~~0B~¡los robots trabajadores que~0D~~0B~controla el ordenador~0A~#062
+;000002BF{~0B~ARE RUNNING WILD!~0A~}#025#019
+~0B~están salvajes!~0A~#019
+;000002D2{~0B~WE CAN'T DO ANYTHING~0D~~0B~TO STOP THEM!~0A~}#049#037
+~0B~¡No sabemos como poder~0D~~0B~pararlos!~0A~#037
+;000002F7{~0B~QUICK, YOU'VE GOT TO DO~0D~~0B~SOMETHING!!>~5C~~FF~}#055#040
+~0B~Rápido, ¡¡has de hacer~0D~~0B~algo!!>~5C~~FF~#040
+;0000031F{´~13~~0B~<OH MY GOSH!>~5C~~FF~}#030#018
+´~13~~0B~<¡Dios mío!> ~5C~~FF~#018
+;00000331{´~14~~0B~COGSWELL HAS PERSUADED~0D~~0B~GULLIBLE OLD GEORGE TO~0A~}#065#050
+´~14~~0B~Cogswell persuadió al~0D~~0B~crédulo de George para~0A~#050
+;00000363{~0B~GO OUT TO PLANET M38.~5C~ ~0D~~5C~ ~0D~~5C~~FF~}#051#030
+~0B~dejar el planeta M38.~5C~ ~0D~~5C~ ~0D~~5C~~FF~#030
+;00000381{~08~´PACKING~40~FACTORY~FF~}#027#018
+~08~´Paqueteria~40~~40~~40~~40~~40~~FF~#018
+;00000393{~FF~}#004#001
+~FF~#001
+;00000394{~07~´BOTANICAL~40~GARDEN~FF~}#028#019
+~07~´Jardin~40~Botanico~40~~FF~#019
+;000003A7{~FF~}#004#001
+~FF~#001
+;000003A8{~0A~}#004#001
+~0A~#001
+;000003A9{´SPORTS~40~GYM~FF~}#018#012
+´Gimnasio~40~~40~~FF~#012
+;000003B5{~FF~}#004#001
+~FF~#001
+;000003B6{~08~´GEAR~40~FACTORY~FF~}#024#015
+~08~´Engranajes~40~~40~~FF~#015
+;000003C5{~FF~}#004#001
+~FF~#001
+;000003C6{~0A~}#004#001
+~0A~#001
+;000003C7{´DREAM~40~LAND~FF~}#018#012
+´SuenoLand~40~~FF~#012
+;000003D3{~FF~}#004#001
+~FF~#001
+;000003D4{~06~´SPACE~40~BALL~40~STADIUM~FF~}#033#021
+~06~´Estadio~40~Spaceball~40~~FF~#021
+;000003E9{~FF~}#004#001
+~FF~#001
+;000003EA{~08~´BLAST~40~FURNACE~FF~}#025#016
+~08~´Horno~40~Explota~FF~#016
+;000003FA{~FF~}#004#001
+~FF~#001
+;000003FB{~0A~}#004#001
+~0A~#001
+;000003FC{´COSMO~40~WORLD~FF~}#019#013
+´Mundo~40~Cosmo~FF~#013
+;00000409{~FF~}#004#001
+~FF~#001
+;0000040A{~06~´ROCK~40~CONCERT~40~HALL~FF~}#032#020
+~06~´Sala~40~Concierto~40~~40~~40~~FF~#020
+;0000041E{~FF~}#004#001
+~FF~#001
+;0000041F{~06~´COGSWELL'S~40~OFFICE~FF~}#029#020
+~06~´Oficina~40~Cogswell~40~~FF~#020
+;00000433{~FF~}#004#001
+~FF~#001
+;00000434{~0E~´HOME~FF~}#013#007
+~0E~´Casa~FF~#007
+;0000043B{~FF~}#004#001
+~FF~#001
+;0000043C{~08~´MINING~40~FACTORY~FF~}#026#017
+~08~´Mineria~40~~40~~40~~40~~40~~40~~40~~FF~#017
+;0000044D{~FF~}#004#001
+~FF~#001
+;0000044E{~EA~`THE JETSONS~FF~}#020#014
+~EA~`Los Jetsons~FF~#014
+;0000045C{~07~´COGSWELL'S CAPER!~FF~}#026#020
+~07~´!Lio de Cogswell!~FF~#020
+;00000470{L´STAFF~FF~}#011#008
+L´STAFF~FF~#008
+;00000478{~FF~}#004#001
+~FF~#001
+;00000479{~E4~`PLANNER~FF~}#016#010
+~E4~`PLANNER~FF~#010
+;00000483{~0C~´I.MATONO~FF~}#017#011
+~0C~´I.MATONO~FF~#011
+;0000048E{,´S.NISHIYAMA~FF~}#017#014
+,´S.NISHIYAMA~FF~#014
+;0000049C{L´ONIJUST~FF~}#013#010
+L´ONIJUST~FF~#010
+;000004A6{~FF~}#004#001
+~FF~#001
+;000004A7{~E4~`PROGRAM~FF~}#016#010
+~E4~`PROGRAM~FF~#010
+;000004B1{~0C~´K.SAKAI~FF~}#016#010
+~0C~´K.SAKAI~FF~#010
+;000004BB{,´H.HISHIKAWA~FF~}#017#014
+,´H.HISHIKAWA~FF~#014
+;000004C9{~FF~}#004#001
+~FF~#001
+;000004CA{~E4~`GRAPHICS~FF~}#017#011
+~E4~`GRAPHICS~FF~#011
+;000004D5{~0C~´S.TAKAOKA~FF~}#018#012
+~0C~´S.TAKAOKA~FF~#012
+;000004E1{,´A.TAKINO~FF~}#014#011
+,´A.TAKINO~FF~#011
+;000004EC{~FF~}#004#001
+~FF~#001
+;000004ED{~E4~`GRAPHICS~FF~}#017#011
+~E4~`GRAPHICS~FF~#011
+;000004F8{~0C~´T.OHYAMA~FF~}#017#011
+~0C~´T.OHYAMA~FF~#011
+;00000503{,´T.KANAME~FF~}#014#011
+,´T.KANAME~FF~#011
+;0000050E{~FF~}#004#001
+~FF~#001
+;0000050F{~E4~`SOUND~FF~}#014#008
+~E4~`SOUND~FF~#008
+;00000517{~0C~´I.MIZUTANI~FF~}#019#013
+~0C~´I.MIZUTANI~FF~#013
+|1316
+@000058B1-000058BC-FF
+;00000000{`JETSON !!!~FF~}#015#012
+`¡¡JETSON!!~FF~#012
+|12

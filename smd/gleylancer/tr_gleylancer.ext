@@ -1,0 +1,778 @@
+@000001B0-0000026F-FF
+;00000000{                Gleylancer (DL) by MIJET 5234 v. 061023 (yymmdd)UJ              This softwear was producted by  Nippon Computer Systems Corporation in 1992.    Copyright (c) 1992 NCS/MASAYA   }#192#192
+                Gleylancer (DL) by MIJET 5234 v. 061023 (yymmdd)UJ              Este software fue producido por Nippon Computer Systems Corporation en 1992.    Copyright (c) 1992 NCS/MASAYA   #192
+|192
+@000029E2-00002A01-00
+;00000000{ EASY ~00~}#010#007
+FÁCIL ~00~#007
+;00000007{NORMAL~00~}#010#007
+NORMAL~00~#007
+;0000000E{ HARD ~00~}#010#007
+DIFÍCI~00~#007
+;00000015{MANIA ~00~}#010#007
+MANIA ~00~#007
+;0000001C{~00~}#004#001
+~00~#001
+;0000001D{~0E~~00~}#008#002
+~0E~~00~#002
+;0000001F{~16~}#004#001
+~16~#001
+|32
+@00002A0C-00002A43-00
+;00000000{NORMAL ~00~}#011#008
+NORMAL ~00~#008
+;00000008{REVERSE~00~}#011#008
+INVERSO~00~#008
+;00000010{SEARCH ~00~}#011#008
+BUSCAR ~00~#008
+;00000018{MULTI  ~00~}#011#008
+MULTI  ~00~#008
+;00000020{MULTI^R~00~}#011#008
+MULTI^I~00~#008
+;00000028{SHADOW ~00~}#011#008
+SOMBRA ~00~#008
+;00000030{ROLL   ~00~}#011#008
+GIRA   ~00~#008
+|56
+@00012C80-00012D9C-00
+;00000000{keyhis.dat~00~}#014#011
+keyhis.dat~00~#011
+;0000000B{RANK~00~}#008#005
+RANG~00~#005
+;00000010{SPEED~00~}#009#006
+VELOZ~00~#006
+;00000016{MOVER~00~}#009#006
+MOVER~00~#006
+;0000001C{DEBUG~00~}#009#006
+DEBUG~00~#006
+;00000022{GUNNER~00~}#010#007
+TIRADO~00~#007
+;00000029{REST~00~}#008#005
+VIDA~00~#005
+;0000002E{STAGE~00~}#009#006
+ESCEN~00~#006
+;00000034{KEY REC~00~}#011#008
+MAX REC~00~#008
+;0000003C{MUTEKI~00~}#010#007
+MUTEKI~00~#007
+;00000043{GUNNER~00~}#010#007
+TIRADO~00~#007
+;0000004A{MISSILE~00~}#011#008
+MISIL  ~00~#008
+;00000052{AUTOSHOT~00~}#012#009
+AUTOTIRO~00~#009
+;0000005B{TWIN   ~00~}#011#008
+GEMELO ~00~#008
+;00000063{BOUND  ~00~}#011#008
+LIGADO ~00~#008
+;0000006B{LASER  ~00~}#011#008
+LASER  ~00~#008
+;00000073{SPREAD ~00~}#011#008
+ESPARCE~00~#008
+;0000007B{SABER  ~00~}#011#008
+SABLE  ~00~#008
+;00000083{BURNER ~00~}#011#008
+QUEMA  ~00~#008
+;0000008B{5WAY   ~00~}#011#008
+5LADOS ~00~#008
+;00000093{THUNDER~00~}#011#008
+TRUENO ~00~#008
+;0000009B{NORMAL ~00~}#011#008
+NORMAL ~00~#008
+;000000A3{REVERSE~00~}#011#008
+INVERSO~00~#008
+;000000AB{SEARCH ~00~}#011#008
+BUSCAR ~00~#008
+;000000B3{MULTI  ~00~}#011#008
+MULTI  ~00~#008
+;000000BB{MULTI R~00~}#011#008
+MULTI I~00~#008
+;000000C3{SHADOW ~00~}#011#008
+SOMBRA ~00~#008
+;000000CB{ROLL   ~00~}#011#008
+GIRO   ~00~#008
+;000000D3{3WAY   ~00~}#011#008
+3LADOS ~00~#008
+;000000DB{UP DOWN~00~}#011#008
+ARR ABA~00~#008
+;000000E3{DIR8   ~00~}#011#008
+8DIR   ~00~#008
+;000000EB{GRADIUS~00~}#011#008
+GRADIUS~00~#008
+;000000F3{EASY    ~00~}#012#009
+FÁCIL   ~00~#009
+;000000FC{NORMAL  ~00~}#012#009
+NORMAL  ~00~#009
+;00000105{HARD    ~00~}#012#009
+DIFÍCIL ~00~#009
+;0000010E{MANIA   ~00~}#012#009
+MANIA   ~00~#009
+;00000117{~00~}#004#001
+~00~#001
+;00000118{/   ~00~}#008#005
+/   ~00~#005
+|285
+@00012DAC-00012DB7-00
+;00000000{HOLD~00~}#008#005
+MANT~00~#005
+;00000005{~00~}#004#001
+~00~#001
+;00000006{0    ~00~}#009#006
+0    ~00~#006
+|12
+@00012DB8-00012E0D-00
+;00000000{1    ~00~}#009#006
+1    ~00~#006
+;00000006{2    ~00~}#009#006
+2    ~00~#006
+;0000000C{3    ~00~}#009#006
+3    ~00~#006
+;00000012{4    ~00~}#009#006
+4    ~00~#006
+;00000018{5    ~00~}#009#006
+5    ~00~#006
+;0000001E{6    ~00~}#009#006
+6    ~00~#006
+;00000024{7    ~00~}#009#006
+7    ~00~#006
+;0000002A{8    ~00~}#009#006
+8    ~00~#006
+;00000030{9    ~00~}#009#006
+9    ~00~#006
+;00000036{10   ~00~}#009#006
+10   ~00~#006
+;0000003C{11   ~00~}#009#006
+11   ~00~#006
+;00000042{DEBUG~00~}#009#006
+DEBUG~00~#006
+;00000048{ON ~00~}#007#004
+SI ~00~#004
+;0000004C{OFF~00~}#007#004
+NO ~00~#004
+;00000050{ON ~00~}#007#004
+SI ~00~#004
+;00000054{N~B9~}#005#002
+N~B9~#002
+|86
+@00014308-00014326-00
+;00000000{CONTINUE_~00~}#013#010
+CONTINUA_~00~#010
+;0000000A{MOVER CHANGE_~00~}#017#014
+CAMBIA MOVER_~00~#014
+;00000018{YES~00~}#007#004
+SI ~00~#004
+;0000001C{NO~00~}#006#003
+NO~00~#003
+|31
+@000147AA-000147D9-00
+;00000000{SCORE RANKING~00~}#017#014
+PTS   RANKING~00~#014
+;0000000E{RANK  SCORE  NAME ST LEVEL  MOVER~00~}#037#034
+RANGO NIVEL  NOMB ES NIVEL  MOVER~00~#034
+|48
+@000148F0-00014939-00
+;00000000{ EASY NORMAL HARD MANIA NORMAL REVERSESEARCH MULTI  MULTI RSHADOW ROLL   ~00~}#077#074
+ FÁCI NORMAL DIFÍ MANIA NORMAL INVERSOBUSCAR MULTI  MULTI ISOMBRA GIRO   ~00~#074
+|74
+@00014E6E-00014E78-00
+;00000000{YES~00~}#007#004
+SI ~00~#004
+;00000004{NO~00~}#006#003
+NO~00~#003
+;00000007{OK_~00~}#007#004
+OK_~00~#004
+|11
+@00014EA4-00014EB5-00
+;00000000{C~40~BUTTON~40~~40~NEXT~00~}#027#015
+C~40~BOTÓN ~40~~40~PRÓX~00~#015
+;0000000F{~40~A~40~}#009#003
+~40~A~40~#003
+|18
+@00014EB7-00014EC3-00
+;00000000{BUTTON~40~~40~BACK~00~}#022#013
+BOTÓN ~40~~40~ATRÁ~00~#013
+|13
+@000153C8-000153D7-00
+;00000000{SCORE RANKING~00~}#017#014
+PTS   RANKING~00~#014
+;0000000E{H~E7~}#005#002
+H~E7~#002
+|16
+@000154D2-000154E3-00
+;00000000{PUSH START BUTTON~00~}#021#018
+PULSA BOTÓN START~00~#018
+|18
+@000154F6-0001551F-00
+;00000000{GAME START~00~}#014#011
+EMPEZAR   ~00~#011
+;0000000B{OPTION~00~}#010#007
+OPCIÓN~00~#007
+;00000012{COPYRIGHT 1992 NCS CORP~00~}#027#024
+COPYRIGHT 1992 NCS CORP~00~#024
+|42
+@000181F0-0001829E-00
+;00000000{ A STANDARD MOVER WHICH YOU CAN   ~0D~AIM IN 16 DIRECTIONS WITH THE     ~0D~CONTROL PAD] THE GUNNER WILL FACE ~0D~THE DIRECTION OF YOUR MOVEMENT]   ~0D~                                  ~0D~}#190#175
+ UN MOVER ESTÁNDAR QUE PUEDE      ~0D~APUNTAR EN 16 DIRECCIONES CON EL  ~0D~CONTROL PAD] EL TIRADOR SE ENCARA ~0D~A LA DIRECCIÓN DE TU MOVIMIENTO]  ~0D~                                  ~0D~#175
+|175
+@0001829F-00018394-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~}#076#070
+BOTÓN C[ MANTÉN PARA BLOQUEAR LA  ~0D~     DIRECCIÓN ACTUAL DEL TIRADOR]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ THIS IS THE SAME AS THE NORMAL   ~0D~MOVER EXCEPT THAT THE GUNNER TURNS~0D~IN THE OPPOSITE DIRECTION THAT IS ~0D~BEING PRESSED ON THE CONTROL PAD] ~0D~                                  ~0D~}#190#175
+ ESTO ES LO MISMO QUE EL MOVER    ~0D~NORMAL EXCEPTO QUE EL TIRADOR SE  ~0D~GIRA A LA DIRECCIÓN OPUESTA A LA  ~0D~QUE SE PULSA EN EL CONTROL PAD]   ~0D~                                  ~0D~#175
+|246
+@00018395-0001848A-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~}#076#070
+BOTÓN C[ MANTÉN PARA BLOQUEAR LA  ~0D~     DIRECCIÓN ACTUAL DEL TIRADOR]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ YOU WILL AIM AT ENEMIES AUTOMATI^~0D~CALLY\ BUT IT DOES NOT NECESSARILY~0D~MOVE AS YOU LIKE] DO NOT COUNT ON ~0D~IT TOO MUCH]                      ~0D~                                  ~0D~}#190#175
+ APUNTARÁS A TUS ENEMIGOS         ~0D~AUTOMÁTICAMENTE\ PERO NO SE MUEVE ~0D~NECESARIAMENTE COMO TU QUIERES]   ~0D~NO CUENTES CON EL DEMASIADO]      ~0D~                                  ~0D~#175
+|246
+@0001848B-00018580-00
+;00000000{C BUTTON[ PRESS TO CHANGE THE     ~0D~                   SEARCH PROGRAM]~00~}#076#070
+BOTÓN C[ PULSA PARA CAMBIAR EL    ~0D~             PROGRAMA DE BÚSQUEDA]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ YOU CAN DELIVER A 3^WAY ATTACK]  ~0D~THE RANGE OF ATTACK CAN BE WIDE\  ~0D~BUT YOU CANNOT CONCENTRATE YOUR   ~0D~SHOTS IN THE VERTICAL DIRECTIONS] ~0D~                                  ~0D~}#190#175
+ PUEDES ATACAR A 3^LADOS]         ~0D~EL RANGO DEL ATAQUE PUEDE SER     ~0D~ANCHO\ PERO NO PUEDES CONCENTRAR  ~0D~TUS TIROS EN DIRECCIONES          ~0D~VERTICALES]                       ~0D~#175
+|246
+@00018581-00018676-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~}#076#070
+BOTÓN C[ MANTÉN PARA BLOQUEAR LA  ~0D~     DIRECCIÓN ACTUAL DEL TIRADOR]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ THIS IS IDENTICAL TO THE MULTI   ~0D~MOVER EXCEPT THAT THE GUNNER FACES~0D~THE OPPOSITE DIRECTION THAT YOUR  ~0D~FIGHTER IS MOVING TOWARDS]        ~0D~                                  ~0D~}#190#175
+ ESTO ES IDÉNTICO AL MULTI MOVER  ~0D~EXCEPTO QUE EL TIRADOR SE ENCARA A~0D~LA DIRECCIÓN OPUESTA A LA QUE TU  ~0D~CAZA SE ESTÁ MOVIENDO]            ~0D~                                  ~0D~#175
+|246
+@00018677-0001876C-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~}#076#070
+BOTÓN C[ MANTÉN PARA BLOQUEAR LA  ~0D~     DIRECCIÓN ACTUAL DEL TIRADOR]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ THE GUNNER FOLLOWS YOUR FIGHTER] ~0D~THIS IS THE ONLY MOVER THAT CAN BE~0D~USED TO ATTACK REMOTELY\ BUT THE  ~0D~DIRECTION IS LIMITED TO FORWARD]  ~0D~                                  ~0D~}#190#175
+ EL TIRADOR SIGUE A TU CAZA]      ~0D~ESTE ES EL ÚNICO MOVER QUE PUEDE  ~0D~SER USADO PARA ATACAR REMOTAMENTE\~0D~PERO SOLO APUNTA HACIA DELANTE]   ~0D~                                  ~0D~#175
+|246
+@0001876D-00018862-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          POSITION OF THE GUNNER] ~00~}#076#070
+BOTÓN C[ MANTÉN PARA BLOQUEAR LA  ~0D~      POSICIÓN ACTUAL DEL TIRADOR]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ THE GUNNER WILL ROTATE AROUND THE~0D~FIGHTER] IT CAN COVER ALL 16 DIRE^~0D~CTIONS RAPIDLY BUT IT IS DIFFICULT~0D~TO CONCENTRATE YOUR FIREPOWER]    ~0D~                                  ~0D~}#190#175
+ EL TIRADOR ROTARÁ ALREDEDOR DEL  ~0D~CAZA] PUEDE CUBRIR LAS 16         ~0D~DIRECCIONES RÁPIDAMENTE PERO ES   ~0D~DIFÍCIL CONCENTRAR TU POTENCIA DE ~0D~FUEGO]                            ~0D~#175
+|246
+@00018863-000188AC-00
+;00000000{C BUTTON[ PRESS TO CHANGE THE     ~0D~                  ROLLING PROGRAM]~00~}#076#070
+BOTÓN C[ PÚLSALO PARA CAMBIAR EL  ~0D~                 PROGRAMA DE GIRO]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{~00~}#004#001
+~00~#001
+;00000048{~00~}#004#001
+~00~#001
+;00000049{~00~}#004#001
+~00~#001
+|74
+@0001E0A4-0001E4B3-00
+;00000000{THE BATTLE WAS OVER]~00~}#024#021
+LA BATALLA TERMINÓ] ~00~#021
+;00000015{WITH LUCIA AS ITS PILOT\ THE~00~}#032#029
+CON LUCIA COMO SU PILOTO\ EL~00~#029
+;00000032{ADVANCED BUSTERHAWK GLEYLANCER~00~}#034#031
+ADVANCED BUSTERHAWK GLEYLANCER~00~#031
+;00000051{WIPED OUT THE ALIENS AND RESTORED~00~}#037#034
+ARRASO A LOS ALIENS Y DEVOLVIÓ LA~00~#034
+;00000073{PEACE TO THE EARTH FEDERATION]~00~}#034#031
+PAZ A LA FEDERACIÓN TERRESTRE]~00~#031
+;00000092{BUT SOME PEOPLE FEARED THAT THIS~00~}#036#033
+PERO ALGUNAS PERSONAS TEMÍAN QUE~00~#033
+;000000B3{BATTLE MIGHT ONLY BE THE BEGINNING~00~}#038#035
+LA BATALLA SOLO SERÍA EL PRINCIPIO~00~#035
+;000000D6{OF A MUCH LARGER CONFLICT]~00~}#030#027
+DE UN CONFLICTO MAYOR]    ~00~#027
+;000000F1{DOCTOR GLEY\ THE INVENTOR OF THE~00~}#036#033
+EL DOCTOR GLEY\ EL INVENTOR DEL ~00~#033
+;00000112{GUNNER SYSTEM\ CONTINUES HIS~00~}#032#029
+SISTEMA TIRADOR\ CONTINUA SU~00~#029
+;0000012F{RESEARCH IN HOPES OF FURTHER~00~}#032#029
+INVESTIGACIÓN ESPERANDO     ~00~#029
+;0000014C{IMPROVING ITS ABILITIES]~00~}#028#025
+MEJORAR SUS HABILIDADES]~00~#025
+;00000165{MANKIND BELIEVES THAT THE POWER OF~00~}#038#035
+LA HUMANIDAD CREE QUE EL PODER DEL~00~#035
+;00000188{STARHAWK AND BUSTERHAWK WILL LEAD~00~}#037#034
+STARHAWK Y BUSTERHAWK LES LLEVARÁ~00~#034
+;000001AA{THEM TO VICTORY]]]~00~}#022#019
+A LA VICTORIA]]   ~00~#019
+;000001BD{STAFF~00~}#009#006
+STAFF~00~#006
+;000001C3{PRODUCER~00~}#012#009
+PRODUCE ~00~#009
+;000001CC{T]TUCHIDA~00~}#013#010
+T]TUCHIDA~00~#010
+;000001D6{GAME DESIGN~00~}#015#012
+DISEÑO JUEG~00~#012
+;000001E2{H]SATOH~00~}#011#008
+H]SATOH~00~#008
+;000001EA{PROGRAM~00~}#011#008
+PROGRAM~00~#008
+;000001F2{Y]HIGUCHI~00~}#013#010
+Y]HIGUCHI~00~#010
+;000001FC{SCROLL~00~}#010#007
+SCROLL~00~#007
+;00000203{E]KOYAMA~00~}#012#009
+E]KOYAMA~00~#009
+;0000020C{OBJECT~00~}#010#007
+OBJECT~00~#007
+;00000213{H]HAYASHI~00~}#013#010
+H]HAYASHI~00~#010
+;0000021D{MUSIC AND SOUND EFFECTS~00~}#027#024
+MUSICA Y EFECTOS SONIDO~00~#024
+;00000235{CUBE~00~}#008#005
+CUBE~00~#005
+;0000023A{Y]KUBOTERA~00~}#014#011
+Y]KUBOTERA~00~#011
+;00000245{M]HIKICHI~00~}#013#010
+M]HIKICHI~00~#010
+;0000024F{I]MIZOGUCHI~00~}#015#012
+I]MIZOGUCHI~00~#012
+;0000025B{N]IWADARE~00~}#013#010
+N]IWADARE~00~#010
+;00000265{ESTABLISHMENT~00~}#017#014
+ORGANIZACIÓN ~00~#014
+;00000273{K]SATOH~00~}#011#008
+K]SATOH~00~#008
+;0000027B{CHARACTER DESIGN~00~}#020#017
+DISEÑO PERSONAJE~00~#017
+;0000028C{H]AIZAWA~00~}#012#009
+H]AIZAWA~00~#009
+;00000295{ANIMATION~00~}#013#010
+ANIMACIÓN~00~#010
+;0000029F{H]KAMATA~00~}#012#009
+H]KAMATA~00~#009
+;000002A8{VISUAL~00~}#010#007
+VISUAL~00~#007
+;000002AF{M]SAKURAI~00~}#013#010
+M]SAKURAI~00~#010
+;000002B9{H]HAYASHI~00~}#013#010
+H]HAYASHI~00~#010
+;000002C3{BUSINESS PROMOTION~00~}#022#019
+PROMOCIÓN NEGOCIO ~00~#019
+;000002D6{M]UCHIDA~00~}#012#009
+M]UCHIDA~00~#009
+;000002DF{J]MIMURA~00~}#012#009
+J]MIMURA~00~#009
+;000002E8{Y]YOKOE~00~}#011#008
+Y]YOKOE~00~#008
+;000002F0{K]KATAGIRI~00~}#014#011
+K]KATAGIRI~00~#011
+;000002FB{SALES PROMOTION~00~}#019#016
+PROMOCIÓN VENTA~00~#016
+;0000030B{A]MATUDA~00~}#012#009
+A]MATUDA~00~#009
+;00000314{N]YONESAKA~00~}#014#011
+N]YONESAKA~00~#011
+;0000031F{K]MATUDA~00~}#012#009
+K]MATUDA~00~#009
+;00000328{P]R]~00~}#008#005
+P]R]~00~#005
+;0000032D{T]KIKUCHI~00~}#013#010
+T]KIKUCHI~00~#010
+;00000337{H]IWASAKI~00~}#013#010
+H]IWASAKI~00~#010
+;00000341{SPECIAL THANKS~00~}#018#015
+MUCHAS GRACIAS~00~#015
+;00000350{M]TAKASUGI~00~}#014#011
+M]TAKASUGI~00~#011
+;0000035B{T]OHYA~00~}#010#007
+T]OHYA~00~#007
+;00000362{M]IWASHITA~00~}#014#011
+M]IWASHITA~00~#011
+;0000036D{H]SUZUKI~00~}#012#009
+H]SUZUKI~00~#009
+;00000376{T]JINGU~00~}#011#008
+T]JINGU~00~#008
+;0000037E{SUPERVISER~00~}#014#011
+SUPERVISOR~00~#011
+;00000389{Y]SHIRAKURA~00~}#015#012
+Y]SHIRAKURA~00~#012
+;00000395{TRANSLATED BY~00~}#017#014
+TRADUCIDO POR~00~#014
+;000003A3{M]I]J]E]T] ~00~}#015#012
+M]I]J]E]T] ~00~#012
+;000003AF{GLEYLANCER~00~}#014#011
+GLEYLANCER~00~#011
+;000003BA{PRESENTED BY~00~}#016#013
+PRESENTA    ~00~#013
+;000003C7{NIPPON COMPUTER SYSTEMS CORPORATION~00~}#039#036
+NIPPON COMPUTER SYSTEMS CORPORATION~00~#036
+;000003EB{NCS~00~}#007#004
+NCS~00~#004
+;000003EF{COPYRIGHT 1992 NCS~00~}#022#019
+COPYRIGHT 1992 NCS~00~#019
+;00000402{(C) 1992 NCS~00~}#016#013
+(C) 1992 NCS~00~#013
+;0000040F{~FF~}#004#001
+~FF~#001
+|1040
+@0001E55A-0001E72B-00
+;00000000{YOU CLEARED EASY MODE~00~}#025#022
+TERMINASTE MODO FÁCIL~00~#022
+;00000016{YOU CLEARED NORMAL MODE~00~}#027#024
+TERMINASTE MODO NORMAL ~00~#024
+;0000002E{YOU CLEARED HARD MODE~00~}#025#022
+TERMINASTE MODO DIFÍC~00~#022
+;00000044{YOU CLEARED MANIA MODE~00~}#026#023
+TERMINASTE MODO MANIA ~00~#023
+;0000005B{CONGRATULATIONS~23~~23~~00~}#027#018
+FELICIDADES~23~~23~    ~00~#018
+;0000006D{INPUT SECRET CODE AT TITLEBACK]~00~}#035#032
+PON CÓDIGO SECRETO EN TÍTULO]  ~00~#032
+;0000008D{NEXT CHALLENGE NORMAL MODE]~00~}#031#028
+AHORA A POR EL MODO NORMAL]~00~#028
+;000000A9{NEXT CHALLENGE HARD MODE]~00~}#029#026
+AHORA A POR EL MODO DIFÍ]~00~#026
+;000000C3{YOU HAVE TO CHALLENGE MANIA MODE]~00~}#037#034
+TIENES QUE PROBAR EL MODO MANIA] ~00~#034
+;000000E5{UDLRBA~00~}#010#007
+UDLRBA~00~#007
+;000000EC{GOOD LUCK~23~~00~}#017#011
+SUERTE~23~   ~00~#011
+;000000F7{WHAT DO YOU FEEL ABOUT THIS GAME_~00~}#037#034
+  QUÉ SIENTES SOBRE ESTE JUEGO_  ~00~#034
+;00000119{PLEASE TELL US\~00~}#019#016
+   DÍNOSLO\    ~00~#016
+;00000129{AND WE WILL LISTEN WHAT YOU SAY]~00~}#036#033
+  Y ESCUCHAREMOS LO QUE DIGAS]  ~00~#033
+;0000014A{SEE YOU AGAIN NEXT]~00~}#023#020
+NOS VEMOS PRONTO]  ~00~#020
+;0000015E{YOU CLEARD NO CONTINUATION]~00~}#031#028
+ TERMINASTE SIN CONTINUAR] ~00~#028
+;0000017A{YOU CAN CONTROL OBJECTS AT NAME]~00~}#036#033
+ CONTROLAS OBJETOS POR NOMBRE]  ~00~#033
+;0000019B{PUSH START AND DIRECTIONAL BUTTON]~00~}#038#035
+ TOCA START Y BOTÓN DIRECCIONAL]  ~00~#035
+;000001BE{PUSH START FOR QUIT~00~}#023#020
+ START PARA SALIR  ~00~#020
+|466
+@0001E82B-0001E898-00
+;00000000{SPEED CHANGE  ~00~}#018#015
+VELOCIDAD     ~00~#015
+;0000000F{~01~FIRE          ~00~}#022#016
+~01~FUEGO         ~00~#016
+;0000001F{~02~GUNNER CONTROL~00~}#022#016
+~02~CONTROL TIRADO~00~#016
+;0000002F{EASY    ~00~}#012#009
+FÁCIL   ~00~#009
+;00000038{NORMAL  ~00~}#012#009
+NORMAL  ~00~#009
+;00000041{HARD    ~00~}#012#009
+DIFÍCIL ~00~#009
+;0000004A{MANIA   ~00~}#012#009
+MANIA   ~00~#009
+;00000053{ON ~00~}#007#004
+SI ~00~#004
+;00000057{OFF~00~}#007#004
+NO ~00~#004
+;0000005B{MANUAL~00~}#010#007
+MANUAL~00~#007
+;00000062{AUTO  ~00~}#010#007
+AUTO  ~00~#007
+;00000069{/   ~00~}#008#005
+/   ~00~#005
+|110
+@0001E8A8-0001E8B0-00
+;00000000{HOLD~00~}#008#005
+MANT~00~#005
+;00000005{~00~}#004#001
+~00~#001
+;00000006{~00~}#004#001
+~00~#001
+;00000007{~00~}#004#001
+~00~#001
+;00000008{~00~}#004#001
+~00~#001
+|9
+@000F022A-000F0282-00
+;00000000{NEXT CHALLENGE NORMAL MODE~23~~00~}#034#028
+AHORA A POR EL NORMAL~23~     ~00~#028
+;0000001C{NEXT CHALLENGE HARD MODE~23~~00~}#032#026
+AHORA A POR EL DIFÍCIL~23~  ~00~#026
+;00000036{YOU HAVE TO CHALLENGE MANIA MODE~23~ ~00~}#041#035
+TIENES QUE PROBAR EL MODO MANIA~23~  ~00~#035
+|89
+@000F0283-000F032D-00
+;00000000{YOU CLEARED MANIA MODE~23~~00~}#030#024
+TERMINASTE MODO MANIA~23~ ~00~#024
+;00000018{INPUT SECRET CODE AT TITLE SCREEN]~00~}#038#035
+ENTRA CÓDIGO SECRETO EN EL TITULO]~00~#035
+;0000003B{WHAT DO YOU THINK ABOUT THIS GAME_~00~}#038#035
+  QUE PIENSAS SOBRE ESTE JUEGO_   ~00~#035
+;0000005E{PLEASE TELL US\~00~}#019#016
+   DÍNOSLO\    ~00~#016
+;0000006E{AND WE WILL LISTEN TO WHAT YOU SAY]~00~}#039#036
+   Y ESCUCHAREMOS LO QUE DIGAS]    ~00~#036
+;00000092{SEE YOU AGAIN NEXT TIME~23~~00~}#031#025
+  NOS VEMOS OTRA VEZ~23~   ~00~#025
+|171
+@000F09B6-000F0BAD-00
+;00000000{Year 2025 of the Universal Era~00~}#034#031
+Año 2025 de la Era universal  ~00~#031
+;0000001F{Invaders attacked from deep space, heavily~0A~outnumbering the Earth Federation's forces.~00~}#093#087
+Los invasores atacaron del espacio, superando~0A~en número a la Federación Terrestre.    ~00~#087
+;00000076{The Earth Federation Navy's First Fleet~00~}#043#040
+La Primera Flota de la Armada Terrestre~00~#040
+;0000009E{The Flagship [Oberon]~00~}#025#022
+Insignia [Oberon]    ~00~#022
+;000000B4{Major damage to the battleship Carn Galva!~0A~The heavy cruiser Cormoran has been sunk!~00~}#091#085
+Daños graves al acorazado Carn Galva!   ~0A~El crucero pesado Cormoran ha sido hundido!~00~#085
+;00000109{We've lost 15% of our fleet...~00~}#034#031
+Perdimos el 15% de la flota...~00~#031
+;00000128{How can they have this much power...~00~}#040#037
+Cómo pueden tener tanto poder...    ~00~#037
+;0000014D{Sir, it will be seven minutes before we can~0A~commence the withdrawal of the entire fleet.~00~}#095#089
+Sr, serán siete minutos antes de que podamos~0A~comenzar la retirada de toda la flota.     ~00~#089
+;000001A6{If the enemy fleet maintains their formation~0A~our losses will reach 30%...~00~}#080#074
+Si la flota enemiga mantiene su formación~0A~perderemos un 30%...           ~00~#074
+;000001F0{30%...?~00~}#011#008
+30%...?~00~#008
+|504
+@000F0BAE-000F148D-00
+;00000000{The enemy fleet is starting to move!~00~}#040#037
+La flota enemiga comienza a moverse!~00~#037
+;00000025{They are amassing at one o'clock, distance 20!~00~}#050#047
+Se están amontonando a la una, distancia 20!  ~00~#047
+;00000054{What are they doing...?~00~}#027#024
+Qué están haciendo...? ~00~#024
+;0000006C{Hostile warp signature detected!~0A~It's right beside us!~00~}#061#055
+Firma hostil detectada!~0A~Está justo detrás nuestro!    ~00~#055
+;000000A3{What's happening?~00~}#021#018
+Qué sucede?      ~00~#018
+;000000B5{The Heavy Cruiser [Titania]~00~}#031#028
+Acorazado Pesado [Titania] ~00~#028
+;000000D1{What's that?~00~}#016#013
+Qué es eso? ~00~#013
+;000000DE{Ah!~00~}#007#004
+Ah!~00~#004
+;000000E2{What's the matter?~00~}#022#019
+Que problema hay? ~00~#019
+;000000F5{The Oberon!~00~}#015#012
+El Oberon! ~00~#012
+;00000101{This can't be...~00~}#020#017
+No puede ser... ~00~#017
+;00000112{There was no warp reaction~0A~from the flagship itself!~00~}#059#053
+No hubo reacción de deformación de la~0A~propia nave!  ~00~#053
+;00000147{You're saying they captured the entire ship?~00~}#048#045
+Estás diciendo que capturaron toda la nave? ~00~#045
+;00000174{Possibly...~00~}#015#012
+Es posible.~00~#012
+;00000180{Incredible...~00~}#017#014
+Increíble... ~00~#014
+;0000018E{The Earth Federation Navy's Second Fleet~00~}#044#041
+Segunda Flota de la Federación Terrestre~00~#041
+;000001B7{The Carrier [Ariel]~00~}#023#020
+Transporte [Ariel] ~00~#020
+;000001CB{Come in, Ensign Cabrock.~00~}#028#025
+Pase, Alférez Cabrock.  ~00~#025
+;000001E4{Ensign Cabrock...~0A~No, Lucia...~00~}#037#031
+Alférez Cabrock, ~0A~no, Lucia...~00~#031
+;00000203{Captain?~00~}#012#009
+Capitán?~00~#009
+;0000020C{You need to steady yourself for what~0A~I'm about to tell you.~00~}#066#060
+Tienes que mantenerte firme para lo ~0A~que voy a contarte.   ~00~#060
+;00000248{Your father, Admiral Cabrock's vessel...~00~}#044#041
+Tu padre, el buque del Almirante...     ~00~#041
+;00000271{Did something happen to my father!?~00~}#039#036
+Le ha pasado algo a mi padre!?     ~00~#036
+;00000295{We recently received a report. We don't know~0A~the exact circumstances...~00~}#078#072
+Recibimos hace poco un informe. No sabemos~0A~las circunstancias...       ~00~#072
+;000002DD{...but it seems that the Admiral's ship was~0A~warped to another sector by the enemy.~00~}#089#083
+...pero parece que la nave del Almirante ha~0A~sido transportada a otro sector.      ~00~#083
+;00000330{How is it being pursued?~00~}#028#025
+Cómo se le sigue?       ~00~#025
+;00000349{By tracing the stellar wake we know~0A~approximately where it ended up, but...~00~}#082#076
+Rastreando el levantamiento estelar~0A~sabemos más o menos donde está, pero...~00~#076
+;00000395{Are you saying that they are on their own!?~00~}#047#044
+Estás diciendo que están a su suerte!?     ~00~#044
+;000003C1{The enemy fleet has much more firepower~0A~than we anticipated.~00~}#067#061
+La flota enemiga tiene mucho más poder ~0A~del que anticipamos.~00~#061
+;000003FE{Right now their strength probably exceeds~0A~our own~3B~ we have nothing to match it.~00~}#089#080
+Ahora mismo su fuerza probablemente supera~0A~a la nuestra~3B~ no podemos hacer nada.~00~#080
+;0000044E{How awful...~00~}#016#013
+Horrible... ~00~#013
+;0000045B{However, we are hurriedly completing~0A~a new type of fighter.~00~}#066#060
+Pero, estamos completando rápidamente~0A~un nuevo caza.       ~00~#060
+;00000497{If we can use it in this war, we might be~0A~able to win. We must be patient for a while.~00~}#093#087
+Si podemos usarlo en esta guerra, quizá ~0A~podamos ganar. Debemos ser un poco pacientes.~00~#087
+;000004EE{Lucia...~00~}#012#009
+Lucia...~00~#009
+;000004F7{But he'll be dead by then!~00~}#030#027
+Entonces ya estará muerto!~00~#027
+;00000512{This is the military's decision.~0A~I'm sorry Lucia...~00~}#058#052
+Esta es la decisión militar.    ~0A~Lo siento Lucia...~00~#052
+;00000546{Father...~00~}#013#010
+Padre... ~00~#010
+;00000550{What's the matter, Lucia?~00~}#029#026
+Qué problema hay, Lucia? ~00~#026
+;0000056A{My father's ship... the enemy, they...~00~}#042#039
+La nave de padre... el enemigo...     ~00~#039
+;00000591{No way!~0A~They sunk it?!~00~}#029#023
+No!    ~0A~La hundieron?!~00~#023
+;000005A8{No, it's somewhere in another sector of space.~0A~Apparently they have ship-transporter devices...~00~}#102#096
+No, está en otro lugar en otro sector espacial.~0A~Parece que tienen aparatos transportanaves...  ~00~#096
+;00000608{Well, he's still alive then, right?~00~}#039#036
+Bueno, aún está vivo pues, no?     ~00~#036
+;0000062C{I don't know...~0A~I just don't know...~00~}#043#037
+No lo se...    ~0A~Sólo no lo se...    ~00~#037
+;00000651{What about the navy?~0A~What are they doing!?~00~}#049#043
+Y la armada?        ~0A~Qué están haciendo!? ~00~#043
+;0000067C{With their current military strength~0A~there's no hope that they can win.~00~}#078#072
+Con su fuerza militar actual no hay ~0A~esperanza de que puedan ganar.    ~00~#072
+;000006C4{That's terrible...~00~}#022#019
+Eso es terrible...~00~#019
+;000006D7{But there is a new fighter in development.~0A~If they use that, then...~00~}#075#069
+Pero hay un nuevo caza en desarrollo.     ~0A~Si usan eso, entonces... ~00~#069
+;0000071C{You can't wait for that!~0A~You must go now!~00~}#048#042
+No puedes esperar a eso!~0A~Debes ir ahora! ~00~#042
+;00000746{But...~00~}#010#007
+Pero..~00~#007
+;0000074D{If it's the same machine you're talking about,~0A~there's a prototype on this ship.~00~}#087#081
+Si es la misma máquina de la que hablas,      ~0A~hay un prototipo en esta nave.   ~00~#081
+;0000079E{I heard Commander Rues talking about it.~00~}#044#041
+Oí que al Comandante Rues hablar de eso.~00~#041
+;000007C7{Huh?~00~}#008#005
+Eh? ~00~#005
+;000007CC{I'll help you!~0A~Go save your father!~00~}#042#036
+Yo te ayudaré!~0A~Salva a tu padre!   ~00~#036
+;000007F0{Teim...!~00~}#012#009
+Teim...!~00~#009
+;000007F9{What's the matter?~00~}#022#019
+Qué problema hay? ~00~#019
+;0000080C{Something's happening in the dock...~0A~It's Bay 14! Someone's in the new fighter!~00~}#086#080
+Pasa algo en el muelle... En la Bahía 14!~0A~Hay alguien en el nuevo caza!        ~00~#080
+;0000085C{What?!~00~}#010#007
+Qué?! ~00~#007
+;00000863{Communication link established!~00~}#035#032
+Comunicación establecida!      ~00~#032
+;00000883{To whoever is piloting the CSH-01-XA:~0A~This is Control, respond!~00~}#070#064
+A quién esté pilotando el CSH-01-XA:~0A~Aquí Control, responda!   ~00~#064
+;000008C3{This is Ensign Cabrock.~0A~I...~00~}#035#029
+Aquí Alférez Cabrock. ~0A~Yo...~00~#029
+|2272
+@000F148E-000F153C-00
+;00000000{Lucia?!~00~}#011#008
+Lucia?!~00~#008
+;00000008{It's still being tested!~0A~We don't know what will happen!~00~}#063#057
+Aún está siendo probado!~0A~No sabemos que sucederá!       ~00~#057
+;00000041{Stop immediately!~00~}#021#018
+Para ahora mismo!~00~#018
+;00000053{My father... he'll be killed...~0A~I...~00~}#043#037
+Mi padre... le matarán...     ~0A~Yo...~00~#037
+;00000078{I understand how you feel,~0A~but it's too dangerous!~00~}#057#051
+Entiendo como te sientes, ~0A~pero es muy peligroso! ~00~#051
+;000000AB{...~00~}#007#004
+...~00~#004
+|175
+@000F153D-000F1CB2-00
+;00000000{The hatch is opening!~0A~We won't be able to stop her in time!~00~}#066#060
+La escotilla se abre!~0A~No podremos pararla a tiempo!        ~00~#060
+;0000003C{I will definitely return home alive.~0A~Please let me go!~00~}#061#055
+Os aseguro que volveré a casa viva.~0A~Por favor dejadme!~00~#055
+;00000073{...Let her go.~00~}#018#015
+...Dejadla ir.~00~#015
+;00000082{But...~00~}#010#007
+Pero..~00~#007
+;00000089{This situation is heart-rending for me too.~0A~Let her go.~00~}#062#056
+Esto también es desgarrador para mí.       ~0A~Dejadla ir.~00~#056
+;000000C1{Father... please don't die!~00~}#031#028
+Padre... no te mueras!     ~00~#028
+;000000DD{...is...   ...brock...  ...ear...      ...nav...  ...first...~00~}#065#062
+...aq...   ...brock...  ...esc...      ...nav...  ...prime...~00~#062
+;0000011B{Is this... my father...?~00~}#028#025
+Es este... mi padre...? ~00~#025
+;00000134{...Ken Cabrock of...  ...Earth Feder...    ...Fleet.~00~}#056#053
+...Ken Cabrock de...  ...Federación...    ...Flota. ~00~#053
+;00000169{Father!? It's me!~0A~Can you hear me!? It's Lucia!~00~}#054#048
+Padre!? Soy yo!  ~0A~Puedes oírme!? Soy Lucia!    ~00~#048
+;00000199{Lucia? Lucia?~00~}#017#014
+Lucia? Lucia?~00~#014
+;000001A7{I'm coming to rescue you!~0A~I'll be there soon!~00~}#052#046
+Voy a rescatarte!        ~0A~Estaré ahí pronto! ~00~#046
+;000001D5{Lu...~00~}#009#006
+Lu...~00~#006
+;000001DB{What's going on!?~0A~Father??~00~}#033#027
+Que esta pasando!?~0A~Padre??~00~#027
+;000001F6{Lucia!~00~}#010#007
+Lucia!~00~#007
+;000001FD{Lieutenant!?~00~}#016#013
+Teniente!?  ~00~#013
+;0000020A{That was a selfish thing you did.~00~}#037#034
+Has hecho una cosa muy egoísta.  ~00~#034
+;0000022C{There is no excuse for what I have done, but I...~00~}#053#050
+No hay escusa para lo que he hecho, pero yo...   ~00~#050
+;0000025E{Well, at least you're safe.~0A~We'll be there soon.~00~}#055#049
+Bueno, al menos estás bien.~0A~Llegaremos pronto.  ~00~#049
+;0000028F{Huh?~00~}#008#005
+Eh? ~00~#005
+;00000294{The captain is requesting permission from~0A~Federation Headquarters for a fleet sortie.~00~}#092#086
+El capitán está pidiendo permiso al      ~0A~Cuartel General para salir con la flota.   ~00~#086
+;000002EA{Should they decline, I'll come myself.~00~}#042#039
+Si declinaran, iré yo mismo.          ~00~#039
+;00000311{Lieutenant...~00~}#017#014
+Teniente...  ~00~#014
+;0000031F{Lucia...~0A~Don't get yourself killed.~00~}#042#036
+Lucia...~0A~Que no te maten.          ~00~#036
+;00000343{Lucia! Lucia!~0A~Can you hear me? Lucia!?~00~}#045#039
+Lucia! Lucia!~0A~Puedes oírme? Lucia!?   ~00~#039
+;0000036A{Father?~0A~Father, is that you!?~00~}#036#030
+Padre? ~0A~Padre, eres tu!?     ~00~#030
+;00000388{We are being pursued by enemy fighters!~0A~Our shields won't last much longer!~00~}#082#076
+Nos persiguen cazas enemigos!       ~0A~Nuestros escudos no durarán mucho más!~00~#076
+;000003D4{Hold on father!~0A~I'll be there soon!~00~}#042#036
+Aguanta padre! ~0A~Estaré ahí pronto! ~00~#036
+;000003F8{ Father...!~0A~ Thank God you're alive!~00~}#043#037
+ Padre...!~0A~ Estás vivo!             ~00~#037
+;0000041D{ Lucia...~00~}#013#010
+ Lucia...~00~#010
+;00000427{ Lucia!~00~}#011#008
+ Lucia!~00~#008
+;0000042F{ Admiral!~00~}#013#010
+ Almira.!~00~#010
+;00000439{ Teim!~0A~ Eddy!~00~}#020#014
+ Teim!~0A~ Eddy!~00~#014
+;00000447{ The enemy's main forces~0A~ are gathering nearby...~0A~ Now's our chance!~00~}#078#069
+ Las fuerzas principales~0A~ se concentran cerca...~0A~ Es la oportunidad!~00~#069
+;0000048C{ Even though you say we have a chance,~0A~ what are the odds of defeating the~0A~ entire enemy fleet...~00~}#107#098
+ Aunque digas que tenemos oportunidad,~0A~ cuales son las de vencer a una ~0A~ flota enemiga entera... ~00~#098
+;000004EE{ What are you saying?!~0A~ You came all this way by yourself!~00~}#065#059
+ Qué estás diciendo?!~0A~ Hiciste todo este camino sola!     ~00~#059
+;00000529{ That's right! And the enemy forces~0A~ are steadily increasing!~0A~ This may be our only chance!~00~}#101#092
+ Es cierto! Y las fuerzas enemigas~0A~ aumentan por momentos!~0A~ Puede ser la única oportunidad!~00~#092
+;00000585{ Father...~00~}#014#011
+ Padre... ~00~#011
+;00000590{ Lucia...~00~}#013#010
+ Lucia...~00~#010
+;0000059A{ I'll go...                                                   ~0A~ ...and I will definitely come back alive!~00~}#112#106
+ Iré...                                                       ~0A~ ...y definitivamente volveré con vida!   ~00~#106
+;00000604{ Father!!~00~}#013#010
+ Padre!!!~00~#010
+;0000060E{ Lucia!~00~}#011#008
+ Lucia!~00~#008
+;00000616{ Father's capsule...!~00~}#025#022
+ La capsula de padre!~00~#022
+;0000062C{ Leave the Admiral to us!~0A~ You take care of the enemy!~00~}#061#055
+ Déjanos al Almirante!   ~0A~ Tu encárgate del enemigo!  ~00~#055
+;00000663{ The enemy's main force is assembling!~0A~ Only the Gleylancer can match them now...~0A~ We cannot waste even a moment!~00~}#123#114
+ Las fuerzas principales se reúnen!~0A~ Solo el Gleylancer puede igualarles...~0A~ No podemos malgastar ni un momento! ~00~#114
+;000006D5{ Father... surely...~00~}#024#021
+ Padre... seguro... ~00~#021
+;000006EA{ ...surely you must still be alive...~00~}#041#038
+ ...seguro que aún estás vivo...     ~00~#038
+;00000710{ This is not just about the Admiral!~0A~ We're in this to save everyone!~00~}#076#070
+ Esto no es solo por el Almirante!~0A~ Estamos aquí para salvar a todos!~00~#070
+;00000756{ You're right.~0A~ I can do this!~00~}#037#031
+ Tienes razón.~0A~ Puedo hacerlo!~00~#031
+;00000775{~00~}#004#001
+~00~#001
+|1910

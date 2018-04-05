@@ -1,0 +1,152 @@
+@000062CC-000062D7-FF
+;00000000{state~FF~}#009#006
+elige~FF~#006
+;00000006{select}#006#006
+estado#006
+|12
+@00006F58-00007220-FF
+;00000000{GAME STARTT ~83~6 ~50~GAME MODE SELECT' 6 ~50~1 PLAYER  VS CPU~30~ ~50~2 PLAYERS VS CPU~30~ ~55~PLAYER 1  VS PLAYER 2K ~84~6 ~53~GAME  CONFIGURATIONG ~86~6 IAI~55~~30~AAAA~85~6 J ~4E~RANK :  NORMALR ~82~6 ~50~STAGE :  DAYTONA~85~Q ~4B~POINT :  15X ~82~6 ~49~SET :   1G ~85~Q ~53~RULE :  RALLY.POINTI ~82~6 ~50~AUTO TOSS :  O NK ~87~Q ~44~EXITO ~85~6 ~82~ZAE~55~KAAAA~87~6 K ~4A~GAME  MODEM ~83~6 F ~52~TOURNAMENT  SINGLEJ 6 F ~53~TOURNAMENT  DOUBLESI ~82~6 F ~56~1 PLAYER  VS  1 PLAYERF ~81~6 F ~56~2 PLAYERS VS  1 PLAYERF 6 F ~57~2 PLAYERS VS  2 PLAYERSE ~8B~6 AAA~87~6 L ~4A~GAME  MENUL ~83~6 J ~4A~GAME STARTN ~82~6 J ~50~CHARACTER SELECTH 6 J ~4C~STATE SELECTL 6 J ~4D~CONFIGURATIONK ~8B~6 AAA~86~6 I ~4D~CONFIGURATIONL ~81~~45~ ~44~RANKH ~41~:~47~ NORMAL* ~45~STAGEG ~41~:= DAYTONA: ~45~POINTG ~44~: 15~31~ ~43~SETI ~44~:  1~31~ ~44~RULEH ~4D~: RALLY-POINT^ ~50~AUTO TOSS  : YES~30~ ~50~TRACK BALL : N OK ~82~6 G ~44~EXIT}#926#713
+EMPEZAR   T ~83~6 ~50~ELIGE MODO JUEGO' 6 ~50~1 JUGADOR VS CPU~30~ ~50~2 JUGADRS VS CPU~30~ ~55~JUGADR 1 VS JGDR 2  2K ~84~6 ~53~CONFIGURACIÓN JUEGOG ~86~6 IAI~55~~30~AAAA~85~6 J ~4E~RANGO:  NORMALR ~82~6 ~50~ETAPA :  DAYTONA~85~Q ~4B~PUNTOS:  15X ~82~6 ~49~SET :   1G ~85~Q ~53~REGLA:  PUNTO.RALLYI ~82~6 ~50~AUTO TIRO :  O NK ~87~Q ~44~SALEO ~85~6 ~82~ZAE~55~KAAAA~87~6 K ~4A~MODO JUEGOM ~83~6 F ~52~TORNEO INDIVIDUAL J 6 F ~53~TORNEO A DOBLES    I ~82~6 F ~56~1 JUGADOR VS 1 JUGADORF ~81~6 F ~56~2 JUGADRS VS 1 JUGADORF 6 F ~57~2 JUGADRS VS 2 JUGADRS E ~8B~6 AAA~87~6 L ~4A~MENU JUEGOL ~83~6 J ~4A~EMPEZAR   N ~82~6 J ~50~ELIGE PERSONAJESH 6 J ~4C~ELIGE ESTADOL 6 J ~4D~CONFIGURACIÓNK ~8B~6 AAA~86~6 I ~4D~CONFIGURACIÓNL ~81~~45~ ~44~RANGH ~41~:~47~ NORMAL* ~45~ETAPAG ~41~:= DAYTONA: ~45~PUNTOG ~44~: 15~31~ ~43~SETI ~44~:  1~31~ ~44~REGLH ~4D~: PUNTO-RALLY^ ~50~AUTO TIRO  : S Í~30~ ~50~SIGUE BOLA : N OK ~82~6 G ~44~SALE#713
+|713
+@0001D3FD-0001D782-FF
+;00000000{EASY  ~FF~}#010#007
+FÁCIL ~FF~#007
+;00000007{NORMAL     ~FF~}#015#012
+NORMAL     ~FF~#012
+;00000013{HARD  ~FF~}#010#007
+DIFÍCI~FF~#007
+;0000001A{DAYTONA   ~FF~}#014#011
+DAYTONA   ~FF~#011
+;00000025{NEW YORK  ~FF~}#014#011
+NUEVA YORK~FF~#011
+;00000030{CHICAGO   ~FF~}#014#011
+CHICAGO   ~FF~#011
+;0000003B{LAS VEGAS ~FF~}#014#011
+LAS VEGAS ~FF~#011
+;00000046{LOS ANGELS~FF~}#014#011
+LOS ANGELS~FF~#011
+;00000051{HAWAII    ~FF~}#014#011
+HAWAII    ~FF~#011
+;0000005C{AIR CRAFT ~FF~}#014#011
+AERONAVE  ~FF~#011
+;00000067{USSR      ~FF~}#014#011
+URSS      ~FF~#011
+;00000072{ 1~FF~}#006#003
+ 1~FF~#003
+;00000075{ 3~FF~}#006#003
+ 3~FF~#003
+;00000078{ 5~FF~}#006#003
+ 5~FF~#003
+;0000007B{10~FF~}#006#003
+10~FF~#003
+;0000007E{15~FF~}#006#003
+15~FF~#003
+;00000081{20~FF~}#006#003
+20~FF~#003
+;00000084{RALLY-POINT~FF~}#015#012
+PUNTO-RALLY~FF~#012
+;00000090{YES~FF~}#007#004
+S Í~FF~#004
+;00000094{N O~FF~}#007#004
+N O~FF~#004
+;00000098{alabama=======~FF~}#018#015
+alabama=======~FF~#015
+;000000A7{alaska========~FF~}#018#015
+alaska========~FF~#015
+;000000B6{arizona=======~FF~}#018#015
+arizona=======~FF~#015
+;000000C5{arkansas======~FF~}#018#015
+arkansas======~FF~#015
+;000000D4{california====~FF~}#018#015
+california====~FF~#015
+;000000E3{colorado======~FF~}#018#015
+colorado======~FF~#015
+;000000F2{connecticut===~FF~}#018#015
+connecticut===~FF~#015
+;00000101{delaware======~FF~}#018#015
+delaware======~FF~#015
+;00000110{florida=======~FF~}#018#015
+florida=======~FF~#015
+;0000011F{georgia=======~FF~}#018#015
+georgia=======~FF~#015
+;0000012E{hawaii========~FF~}#018#015
+hawaii========~FF~#015
+;0000013D{idaho=========~FF~}#018#015
+idaho=========~FF~#015
+;0000014C{illinois======~FF~}#018#015
+illinois======~FF~#015
+;0000015B{indiana=======~FF~}#018#015
+indiana=======~FF~#015
+;0000016A{iowa==========~FF~}#018#015
+iowa==========~FF~#015
+;00000179{kansas========~FF~}#018#015
+kansas========~FF~#015
+;00000188{kentucky======~FF~}#018#015
+kentucky======~FF~#015
+;00000197{louisiana=====~FF~}#018#015
+louisiana=====~FF~#015
+;000001A6{maine=========~FF~}#018#015
+maine=========~FF~#015
+;000001B5{maryland======~FF~}#018#015
+maryland======~FF~#015
+;000001C4{massachusetts=~FF~}#018#015
+massachusetts=~FF~#015
+;000001D3{michigan======~FF~}#018#015
+michigan======~FF~#015
+;000001E2{minnesota=====~FF~}#018#015
+minnesota=====~FF~#015
+;000001F1{mississippi===~FF~}#018#015
+mississippi===~FF~#015
+;00000200{missouri======~FF~}#018#015
+missouri======~FF~#015
+;0000020F{montana=======~FF~}#018#015
+montana=======~FF~#015
+;0000021E{nebraska======~FF~}#018#015
+nebraska======~FF~#015
+;0000022D{nevada========~FF~}#018#015
+nevada========~FF~#015
+;0000023C{new=york======~FF~}#018#015
+nueva=york====~FF~#015
+;0000024B{new=mexico====~FF~}#018#015
+nuevo=méjico==~FF~#015
+;0000025A{new=hampshire=~FF~}#018#015
+new=hampshire=~FF~#015
+;00000269{new=jersey====~FF~}#018#015
+nueva=jersey==~FF~#015
+;00000278{north=dakota==~FF~}#018#015
+dakota=norte==~FF~#015
+;00000287{north=carolina~FF~}#018#015
+carolina=norte~FF~#015
+;00000296{ohio==========~FF~}#018#015
+ohio==========~FF~#015
+;000002A5{oklahoma======~FF~}#018#015
+oklahoma======~FF~#015
+;000002B4{oregon========~FF~}#018#015
+oregon========~FF~#015
+;000002C3{pennsylvania==~FF~}#018#015
+pennsylvania==~FF~#015
+;000002D2{rhode=island==~FF~}#018#015
+rhode=island==~FF~#015
+;000002E1{south=dakota==~FF~}#018#015
+dakota=sur====~FF~#015
+;000002F0{south=carolina~FF~}#018#015
+carolina=sur==~FF~#015
+;000002FF{tennessee=====~FF~}#018#015
+tennessee=====~FF~#015
+;0000030E{texas=========~FF~}#018#015
+tejas=========~FF~#015
+;0000031D{utah==========~FF~}#018#015
+utah==========~FF~#015
+;0000032C{vermont=======~FF~}#018#015
+vermont=======~FF~#015
+;0000033B{virginia======~FF~}#018#015
+virginia======~FF~#015
+;0000034A{washington====~FF~}#018#015
+washington====~FF~#015
+;00000359{west=virginia=~FF~}#018#015
+virginia=oeste~FF~#015
+;00000368{wisconsin=====~FF~}#018#015
+wisconsin=====~FF~#015
+;00000377{wyoming=======~FF~}#018#015
+wyoming=======~FF~#015
+|902

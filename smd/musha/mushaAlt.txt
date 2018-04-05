@@ -1,0 +1,90 @@
+@0001D984-0001DE94-FB
+;00000000{The enemy ships have all been       destroyed sir!                      ~FF~~FE~x~FF~~FB~}#089#077
+The enemy ships have all been       destroyed sir!                      ~FF~~FE~x~FF~~FB~#077
+;0000004D{~FF~~FD~~06~(They were just scouts,             ~FF~~FE~~14~are you picking up any enemy radio  messages?)~FF~~FE~x~FF~~FB~}#123#093
+~FF~~FD~~06~(They were just scouts,             ~FF~~FE~~14~are you picking up any enemy radio  messages?)~FF~~FE~x~FF~~FB~#093
+;000000AA{~FF~~FD~~00~No sir, nothing on the radio or     radar.~FF~~FE~<~FF~~FB~}#071#050
+~FF~~FD~~00~No sir, nothing on the radio or     radar.~FF~~FE~<~FF~~FB~#050
+;000000DC{~FF~~FD~~06~O.K., let's go in low and fast.     ~FF~~FC~~FF~~FE~<~FF~~FF~~FF~~FD~~02~(How can you expect the five of us  to attack this massive enemy        armada?)~FF~~FE~<~FF~~FB~}#182#134
+~FF~~FD~~06~O.K., let's go in low and fast.     ~FF~~FC~~FF~~FE~<~FF~~FF~~FF~~FD~~02~(How can you expect the five of us  to attack this massive enemy        armada?)~FF~~FE~<~FF~~FB~#134
+;00000162{~FF~~FD~~07~(Shut up Greg, all you ever do is   complain!)~FF~~FE~<~FF~~FB~}#075#054
+~FF~~FD~~07~(Shut up Greg, all you ever do is   complain!)~FF~~FE~<~FF~~FB~#054
+;00000198{~FF~~FD~~01~(Stop this chatter!! Only with a    small force do we have any chance!  Target sighted, 30,000 meters!)~FF~~FE~<~FF~~FB~}#132#111
+~FF~~FD~~01~(Stop this chatter!! Only with a    small force do we have any chance!  Target sighted, 30,000 meters!)~FF~~FE~<~FF~~FB~#111
+;00000207{~FF~~FC~~FF~~FF~(This base is known to have         a powerful air defense system,      so stay alert!)~FF~~FE~x~FF~~FB~}#120#096
+~FF~~FC~~FF~~FF~(This base is known to have         a powerful air defense system,      so stay alert!)~FF~~FE~x~FF~~FB~#096
+;00000267{~FF~~FD~~04~(AAAHHHH!!!)                        ~FF~~FE~~1E~~FF~~FD~~08~Lt. Amelio!!                        ~FF~~FC~~FF~~FE~<~FF~~FB~}#133#088
+~FF~~FD~~04~(AAAHHHH!!!)                        ~FF~~FE~~1E~~FF~~FD~~08~Lt. Amelio!!                        ~FF~~FC~~FF~~FE~<~FF~~FB~#088
+;000002BF{(They can attack from that distance? There's no hope!!)~FF~~FE~<~FF~~FB~}#072#060
+(They can attack from that distance? There's no hope!!)~FF~~FE~<~FF~~FB~#060
+;000002FB{~FF~~FD~~03~(Here comes the second barrage,      there's no escape! UUGGG!!!)       ~FF~~FA~_~00~~FF~~FC~~FF~~FE~~14~~FF~~FD~~04~(AAAAA!!!)~FF~~FE~~14~~FF~~FB~}#159#102
+~FF~~FD~~03~(Here comes the second barrage,      there's no escape! UUGGG!!!)       ~FF~~FA~_~00~~FF~~FC~~FF~~FE~~14~~FF~~FD~~04~(AAAAA!!!)~FF~~FE~~14~~FF~~FB~#102
+;00000361{~FF~~FD~~09~Greg!! Commander!!!~FF~~FE~<~FF~~FC~~FF~~FB~}#056#029
+~FF~~FD~~09~Greg!! Commander!!!~FF~~FE~<~FF~~FC~~FF~~FB~#029
+;0000037E{~FF~~FF~(Red leader! LOOK OUT!!! They're    attacking again!!)~FF~~FE~<~FF~~FD~~05~~FF~~FB~}#091#064
+~FF~~FF~(Red leader! LOOK OUT!!! They're    attacking again!!)~FF~~FE~<~FF~~FD~~05~~FF~~FB~#064
+;000003BE{Is the firepower of this base       unstoppable?!?!~FF~~FC~~FF~~FE~<~FF~~FB~}#076#058
+Is the firepower of this base       unstoppable?!?!~FF~~FC~~FF~~FE~<~FF~~FB~#058
+;000003F8{(AHHH, Red leader, I'm hit, I'm hightailing it now!!!)~FF~~FE~<~FF~~FB~}#071#059
+(AHHH, Red leader, I'm hit, I'm hightailing it now!!!)~FF~~FE~<~FF~~FB~#059
+;00000433{~FF~~FD~~05~~23~%$*, This mission is a failure,     RETREAT!!~FF~~FE~<~FF~~FC~~FF~~FB~}#086#056
+~FF~~FD~~05~~23~%$*, This mission is a failure,     RETREAT!!~FF~~FE~<~FF~~FC~~FF~~FB~#056
+;0000046B{(That won't do Red leader, we can't help our people by running away!     I'm going in!!!)~FF~~FE~<~FF~~FB~}#106#094
+(That won't do Red leader, we can't help our people by running away!     I'm going in!!!)~FF~~FE~<~FF~~FB~#094
+;000004C9{~FF~~FD~~05~Wait Terri, this is an order,        RETREAT NOW! Don't play hero!!!~FF~}#084#072
+~FF~~FD~~05~Wait Terri, this is an order,        RETREAT NOW! Don't play hero!!!~FF~#072
+|1297
+@00002992-00002B8D-00
+;00000000{OPTION MODE~00~}#015#012
+OPTION MODE~00~#012
+;0000000C{~03~~0A~MUSIC~00~}#017#008
+~03~~0A~MUSIC~00~#008
+;00000014{~03~~0D~GAME LEVEL~00~}#022#013
+~03~~0D~GAME LEVEL~00~#013
+;00000021{~03~~10~SOUND~00~}#017#008
+~03~~10~SOUND~00~#008
+;00000029{~03~~13~EXIT~00~}#016#007
+~03~~13~EXIT~00~#007
+;00000030{~0F~~0D~EASY  ~00~}#018#009
+~0F~~0D~EASY  ~00~#009
+;00000039{~0F~~0D~NORMAL~00~}#018#009
+~0F~~0D~NORMAL~00~#009
+;00000042{~0F~~0D~HARD  ~00~}#018#009
+~0F~~0D~HARD  ~00~#009
+;0000004B{~03~~10~ROUND~00~}#017#008
+~03~~10~ROUND~00~#008
+;00000053{~0F~~0A~STOP                  ~00~}#034#025
+~0F~~0A~STOP                  ~00~#025
+;0000006C{~0F~~0A~THEME OF MUSHA ALESTE ~00~}#034#025
+~0F~~0A~THEME OF MUSHA ALESTE ~00~#025
+;00000085{~0F~~0A~FULLMETAL FIGHTER     ~00~}#034#025
+~0F~~0A~FULLMETAL FIGHTER     ~00~#025
+;0000009E{~0F~~0A~GALVANIC GEAR         ~00~}#034#025
+~0F~~0A~GALVANIC GEAR         ~00~#025
+;000000B7{~0F~~0A~ARMED ARMOR           ~00~}#034#025
+~0F~~0A~ARMED ARMOR           ~00~#025
+;000000D0{~0F~~0A~DIVINE DEVISE         ~00~}#034#025
+~0F~~0A~DIVINE DEVISE         ~00~#025
+;000000E9{~0F~~0A~NOH SPECTER           ~00~}#034#025
+~0F~~0A~NOH SPECTER           ~00~#025
+;00000102{~0F~~0A~OFFENSIVE OVERDRIVE   ~00~}#034#025
+~0F~~0A~OFFENSIVE OVERDRIVE   ~00~#025
+;0000011B{~0F~~0A~AGGRESSIVE ATTACK     ~00~}#034#025
+~0F~~0A~AGGRESSIVE ATTACK     ~00~#025
+;00000134{~0F~~0A~ALPHA WAVE            ~00~}#034#025
+~0F~~0A~ALPHA WAVE            ~00~#025
+;0000014D{~0F~~0A~ROUND CLEAR           ~00~}#034#025
+~0F~~0A~ROUND CLEAR           ~00~#025
+;00000166{~0F~~0A~GAME OVER             ~00~}#034#025
+~0F~~0A~GAME OVER             ~00~#025
+;0000017F{~0F~~0A~FOR THE LOVE OF[[[    ~00~}#034#025
+~0F~~0A~FOR THE LOVE OF[[[    ~00~#025
+;00000198{~0F~~0A~VANISH INTO THE NIGHT ~00~}#034#025
+~0F~~0A~VANISH INTO THE NIGHT ~00~#025
+;000001B1{~0F~~0A~PHASE OF THE PHANTOM  ~00~}#034#025
+~0F~~0A~PHASE OF THE PHANTOM  ~00~#025
+;000001CA{~0F~~0A~STRATOSPHERIC STRUGGLE~00~}#034#025
+~0F~~0A~STRATOSPHERIC STRUGGLE~00~#025
+;000001E3{~0F~~0A~PRESSURE POWER        ~00~}#034#025
+~0F~~0A~PRESSURE POWER        ~00~#025
+|508

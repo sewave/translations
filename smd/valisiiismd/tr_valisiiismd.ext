@@ -1,0 +1,716 @@
+@00003354-0000335E-00
+;00000000{SELECT MAP~00~}#014#011
+ELIGE MAPA~00~#011
+|11
+@000033E2-00003409-00
+;00000000{SELECT ~00~}#011#008
+ELIGE  ~00~#008
+;00000008{ ~40~GAME   VISUAL~00~}#022#016
+ ~40~JUEGO  VISUAL~00~#016
+;00000018{  GAME  ~40~VISUAL~00~}#022#016
+  JUEGO ~40~VISUAL~00~#016
+|40
+@00003E4E-00003E6F-00
+;00000000{PRESS START BUTTON~00~}#022#019
+PULSA BOTON START ~00~#019
+;00000013{   TO CONTINUE~00~}#018#015
+PARA CONTINUAR~00~#015
+|34
+@00003F90-000057D6-00
+;00000000{My Valis sword has been_stolen by somebody...!  I've_got to get it back as soon as_possible.~00~}#105#093
+¡Mi espada Valis fue robada_por alguien...!      _Tengo que recuperarla cuanto_antes.       ~00~#093
+;0000005D{I cannot use my BATTLE-CHANGE_ability without the sword!~00~}#063#057
+¡No puedo usar mi habilidad  _CAMBIO-BATALLA sin espada!~00~#057
+;00000096{I have to go now.~00~}#021#018
+Debo ir ahora.   ~00~#018
+;000000A8{My name is Cham.~00~}#020#017
+Me llamo Cham.  ~00~#017
+;000000B9{I need the power of the sword_to beat GLAMES.  If we cannot_get to it in time...the Human_and Dreamland worlds are going_to be...?!~00~}#147#132
+Necesito la espada para vencer_a GLAMES. Si no podemos llegar_a tiempo...   _¡¿los mundos Humano y de los_Sueños van a ser...?!    ~00~#132
+;0000013D{That's it!  I finally found_you!!~00~}#040#034
+¡Eso es! ¡¡Al fin te _encontré!! ~00~#034
+;0000015F{Somebody's chasing me?_I didn't think they would find_me this quickly!!~00~}#081#072
+¿Alguien me persigue? _¡¡No pensé que me encontrarían_tan rápidamente!!~00~#072
+;000001A7{Aaahhh!~00~}#011#008
+¡Aaahh!~00~#008
+;000001AF{...???~00~}#010#007
+¿...? ~00~#007
+;000001B6{Yuko, help me!~00~}#018#015
+¡Yuko, ayuda! ~00~#015
+;000001C5{Oh no! I need the Valis sword!~00~}#034#031
+¡No, necesito la espada Valis!~00~#031
+;000001E4{Return it to me!!~00~}#021#018
+¡¡Devuélvemela!! ~00~#018
+;000001F6{This meeting was done_quickly.  Do you understand_why, warrior of Valis?~00~}#082#073
+Esta reunión se ha hecho_rápido. ¿Sabes por qué, _guerrera de Valis?    ~00~#073
+;0000023F{Why did you do such a thing?~00~}#032#029
+¿Por qué has hecho tal cosa?~00~#029
+;0000025C{Ask your sword!!~00~}#020#017
+¡Por la espada! ~00~#017
+;0000026D{It's said that Princess Valna_has been imprisoned in the_Tower of Gul at the center of_this lake. Is there any future_for Dreamland...??~00~}#152#137
+Se dice que la Princesa Valna_ha sido encarcelada en la_Torre de Gul en el centro de_este lago. ¿¿Hay algún futuro_para SueñoLandia...??~00~#137
+;000002F6{~00~}#004#001
+~00~#001
+;000002F7{~00~}#004#001
+~00~#001
+;000002F8{B~92~~00~}#009#003
+B~92~~00~#003
+;000002FB{~00~}#004#001
+~00~#001
+;000002FC{B~92~~00~}#009#003
+B~92~~00~#003
+;000002FF{~00~}#004#001
+~00~#001
+;00000300{B~F1~I have to get to the tower_by any means possible.  Will_you please give me a ride on_the boat?~00~}#112#097
+B~F1~Tengo que llegar a la torre_por cualquier medio. ¿Me   _darás por favor un viaje en _la barca?~00~#097
+;00000361{Hey, boatman!  We've got to go_to the tower. Give us a ride,_please!!~00~}#079#070
+¡Eh, barquero! Tenemos que ir_a la torre. ¡Danos un paseo,_por favor!~00~#070
+;000003A7{Okay,  but this boat is only_for two people. One of you_must stay.~00~}#076#067
+Vale, pero esta barca es sólo_para dos personas. Una se_quedará.  ~00~#067
+;000003EA{~00~}#004#001
+~00~#001
+;000003EB{~00~}#004#001
+~00~#001
+;000003EC{C~86~~00~}#009#003
+C~86~~00~#003
+;000003EF{~00~}#004#001
+~00~#001
+;000003F0{C~86~~00~}#009#003
+C~86~~00~#003
+;000003F3{~00~}#004#001
+~00~#001
+;000003F4{C~B9~Only one person...If I go, I_can't depend on Cham.~00~}#062#053
+C~B9~Solo una persona... Si voy, _no dependeré de Cham.~00~#053
+;00000429{One person, hmmm.  If I go, I_cannot be helped by Yuko...~00~}#064#058
+Una persona, hmm. Si voy,   _no me ayudará Yuko...       ~00~#058
+;00000463{Which one of you will take the_chance?~00~}#045#039
+¿Quién de vosotros tomará el  _riesgo?~00~#039
+;0000048A{  < Yuko >    Cham~00~}#022#019
+  < Yuko >    Cham~00~#019
+;0000049D{    Yuko    < Cham >~00~}#024#021
+    Yuko    < Cham >~00~#021
+;000004B2{~00~}#004#001
+~00~#001
+;000004B3{~00~}#004#001
+~00~#001
+;000004B4{DN~00~}#006#003
+DN~00~#003
+;000004B7{~00~}#004#001
+~00~#001
+;000004B8{DN~00~}#006#003
+DN~00~#003
+;000004BB{~00~}#004#001
+~00~#001
+;000004BC{DsI will go. Cham, I'll see you_later.~00~}#045#039
+DsYo iré. Cham, nos veremos  _después.~00~#039
+;000004E3{Yuko, don't worry.  I will_rescue Princess, Valna.~00~}#057#051
+Yuko, espérame.    _Rescataré a la Princesa Valna.~00~#051
+;00000516{All right.  Hurry up!  We need_to take off.~00~}#050#044
+Muy bien. ¡Deprisa! Tenemos_que irnos.     ~00~#044
+;00000542{~00~}#004#001
+~00~#001
+;00000543{~00~}#004#001
+~00~#001
+;00000544{D~EA~~00~}#009#003
+D~EA~~00~#003
+;00000547{~00~}#004#001
+~00~#001
+;00000548{D~EA~~00~}#009#003
+D~EA~~00~#003
+;0000054B{~00~}#004#001
+~00~#001
+;0000054C{EQ~00~}#006#003
+EQ~00~#003
+;0000054F{~00~}#004#001
+~00~#001
+;00000550{E~05~~00~}#009#003
+E~05~~00~#003
+;00000553{~00~}#004#001
+~00~#001
+;00000554{E~05~~00~}#009#003
+E~05~~00~#003
+;00000557{~00~}#004#001
+~00~#001
+;00000558{ElWhy are you stopping here?~00~}#032#029
+El¿Por qué te paras aquí?   ~00~#029
+;00000575{I must collect additional_fare beyond this point..._So, give me your sword!~00~}#085#076
+He de recoger un pago  _adicional en este punto..._¡Así que dame tu espada!~00~#076
+;000005C1{Why are you stopping here?~00~}#030#027
+¿Por qué te paras aquí?   ~00~#027
+;000005DC{I must collect additional_fare beyond this point._The fare is costly...~00~}#081#072
+He de recoger un pago   _adicional en este punto._El pago es costoso...~00~#072
+;00000624{That is the Fireguard,_'KOLILANBA' who is standing at_the top of the tower. Princess_Valna has been imprisoned_in crystal. KOLILANBA is_taking her prisoner to King_GLAMES...~00~}#201#174
+Quién está en la cima         _'KOLILANBA', es la Guarda del _fuego. La princesa Valna ha  _sido apresada en cristal._KOLILANBA la lleva prisionera_al Rey GLAMES...         ~00~#174
+;000006D2{Princess Valna has been_trapped in crystal at the_tower.~00~}#066#057
+La Princesa Valna está _atrapada en cristal en la_torre.~00~#057
+;0000070B{It is said that anybody from_Dreamland who is frozen in_crystal will never be seen_again.~00~}#102#090
+Dicen que si alguien de   _SueñoLandia es congelado en_cristal no se le volverá a_ver.   ~00~#090
+;00000765{...~00~}#007#004
+...~00~#004
+;00000769{~00~}#004#001
+~00~#001
+;0000076A{~00~}#004#001
+~00~#001
+;0000076B{~00~}#004#001
+~00~#001
+;0000076C{G~06~~00~}#009#003
+G~06~~00~#003
+;0000076F{~00~}#004#001
+~00~#001
+;00000770{G~06~~00~}#009#003
+G~06~~00~#003
+;00000773{~00~}#004#001
+~00~#001
+;00000774{G!Valna!  Are you all right?~00~}#032#029
+G!¡Valna!  ¿Estás bien?     ~00~#029
+;00000791{Are you Valna?_My name is Cham.  I've come_with Yuko to rescue you.~00~}#077#068
+¿Eres Valna?  _Me llamo Cham. He venido con_Yuko a rescatarte.     ~00~#068
+;000007D5{I do appreciate your help, but_I think it's just a matter of_time before Dreamland will be_conquered by GLAMES...~00~}#126#114
+Agradezco tu ayuda, pero creo _que es cuestión de tiempo que_SueñoLandia sea conquistada  _por GLAMES...         ~00~#114
+;00000847{~00~}#004#001
+~00~#001
+;00000848{~00~}#004#001
+~00~#001
+;00000849{~00~}#004#001
+~00~#001
+;0000084A{G~E4~~00~}#009#003
+G~E4~~00~#003
+;0000084D{~00~}#004#001
+~00~#001
+;0000084E{G~E4~~00~}#009#003
+G~E4~~00~#003
+;00000851{~00~}#004#001
+~00~#001
+;00000852{G~ED~Valna...~00~}#017#011
+G~ED~Valna...~00~#011
+;0000085D{.......~00~}#011#008
+.......~00~#008
+;00000865{Where is KOLILANBA?~00~}#023#020
+¿Y KOLILANBA?      ~00~#020
+;00000879{~00~}#004#001
+~00~#001
+;0000087A{~00~}#004#001
+~00~#001
+;0000087B{~00~}#004#001
+~00~#001
+;0000087C{H~16~~00~}#009#003
+H~16~~00~#003
+;0000087F{~00~}#004#001
+~00~#001
+;00000880{H~16~~00~}#009#003
+H~16~~00~#003
+;00000883{~00~}#004#001
+~00~#001
+;00000884{HAI suspect he is on the roof of_this tower.~00~}#051#045
+HASospecho que en la cima de    _esta torre.~00~#045
+;000008B1{I suspect he is on the roof of_this tower.~00~}#049#043
+Sospecho que en la cima de    _esta torre.~00~#043
+;000008DC{This is to be the fate of_Dreamland...we cannot change_what's happened.  But, as_Ruler of this world, I must_defeat KOLILANBA.~00~}#142#127
+Este debe ser el destino_de SueñoLandia... No podemos_cambiar lo que ha pasado._Pero como gobernante, debo_vencer a KOLILANBA.~00~#127
+;0000095B{Come to the top later!_I will now go to the top_alone!~00~}#064#055
+¡Ven a la cima luego!      _¡Ahora iré a la cima sola!~00~#055
+;00000992{You, Princess what do you_think you are doing?~00~}#053#047
+Tú, Princesa, ¿qué crees que_estás haciendo?  ~00~#047
+;000009C1{I cannot forgive you for what_you have done to this world._You have shown a lack of_respect!_I must take you with me!!~00~}#134#119
+No puedo perdonarte por lo que_le has hecho a este mundo.  _¡Has mostrado falta de _respeto!_¡¡Debo llevarte conmigo!!~00~#119
+;00000A38{Sister, we must go to the_Dark world and stop King_GLAMES.~00~}#068#059
+Hermana, debemos ir al_Mundo Oscuro y parar al rey_GLAMES.~00~#059
+;00000A73{Yes, if not, the Human world_will follow the same destiny_as Dreamland.  Let's go.~00~}#092#083
+Sí, sino, el mundo Humano   _seguirá el mismo destino que_SueñoLandia. Vamos.     ~00~#083
+;00000AC6{Wait a second,Yuko. You can't_defeat GLAMES with the sword_you have. I remember what my_father said...'the sword has_to be at full power so it can_fight GLAMES' sword,LEETHUS.'~00~}#201#177
+Espera, Yuko. No puedes vencer_a GLAMES con la espada que _tienes. Recuerdo que mi_padre dijo... 'la espada ha _de estar al máximo poder para_luchar con la de GLAMES,_LEETHUS.'~00~#177
+;00000B77{Release the sword's power?!_How can I...?~00~}#048#042
+¿Liberar el poder de la_Espada? ¿Cómo...?~00~#042
+;00000BA1{There is a country called_'Sutherland' which is the_closest of the countries to_being perfect. Nizetti, the_elder, lives there. He knows_how to release the power of_the sword.~00~}#203#176
+Hay un país llamado      _'Sutherland' que es lo mas_cercano a un país perfecto._Nizetti, el anciano, vive _allí. Sabe cómo liberar el  _poder de la espada.        _          ~00~#176
+;00000C51{Sister, we've got to go to_Sutherland as soon as_possible.~00~}#068#059
+Hermana, tenemos que ir a   _Sutherland en cuanto podamos.~00~#059
+;00000C8C{Three chimes of the bells of_justice, truth, and bravery_will open the door to the_mighty power.~00~}#109#097
+Tres campanadas de la_justicia, de la verdad y de la_valentía abrirán la puerta a_un gran poder.~00~#097
+;00000CED{That was the bell of justice!~00~}#033#030
+¡La campanada de la justicia!~00~#030
+;00000D0B{That was the bell of truth!~00~}#031#028
+¡La campanada de la verdad!~00~#028
+;00000D27{Finally, that was the bell of_bravery!!~00~}#046#040
+Y al fin, ¡la campanada de la_valentía!~00~#040
+;00000D4F{Nizetti already knows about_the purpose of your visit._Take the 'Nilvarn Road' to get_there.~00~}#111#093
+Nizetti ya sabe el propósito_de tu visita.       _Coge el 'Camino Nilvarn'_para llegar allí.~00~#093
+;00000DAC{An illusion stops her and asks_her a question.~00~}#053#047
+Una ilusión le para y le hace _una pregunta.  ~00~#047
+;00000DDB{What is driving you to do_this?~00~}#038#032
+¿Qué te lleva a hacer    _esto?~00~#032
+;00000DFB{I do this for justice._I do this for the powerless_people._It's the destiny of powerful_people.~00~}#111#096
+Lo hago por justicia. _Lo hago por la gente sin   _poder. _Es el destino de la gente _poderosa.~00~#096
+;00000E5B{~00~}#004#001
+~00~#001
+;00000E5C{~00~}#004#001
+~00~#001
+;00000E5D{~00~}#004#001
+~00~#001
+;00000E5E{M~F8~~00~}#009#003
+M~F8~~00~#003
+;00000E61{~00~}#004#001
+~00~#001
+;00000E62{N~12~~00~}#009#003
+N~12~~00~#003
+;00000E65{~00~}#004#001
+~00~#001
+;00000E66{N~02~...Reiko?~00~}#018#012
+N~02~¿Reiko?  ~00~#012
+;00000E72{It disappeared.~00~}#019#016
+Desapareció.   ~00~#016
+;00000E82{The illusion went away.~00~}#027#024
+La ilusión se fue.     ~00~#024
+;00000E9A{An illusion stops her and asks_her a question.~00~}#053#047
+Una ilusión le para y le hace _una pregunta.  ~00~#047
+;00000EC9{What are you after in this_world?~00~}#040#034
+¿Qué buscas en este mundo?_      ~00~#034
+;00000EEB{I'm after justice._I seek to illuminate this dark_world._I want to achieve a peaceful_world.~00~}#108#093
+Busco justicia.   _Busco iluminar este mundo   _oscuro. _Quiero conseguir un mundo_pacífico.~00~#093
+;00000F48{~00~}#004#001
+~00~#001
+;00000F49{~00~}#004#001
+~00~#001
+;00000F4A{N~E4~~00~}#009#003
+N~E4~~00~#003
+;00000F4D{~00~}#004#001
+~00~#001
+;00000F4E{O~0B~~00~}#009#003
+O~0B~~00~#003
+;00000F51{~00~}#004#001
+~00~#001
+;00000F52{N~EB~Valia?~00~}#015#009
+N~EB~Valia?~00~#009
+;00000F5B{The illusion disappeared_again.~00~}#038#032
+La ilusión se volvió a ir._    ~00~#032
+;00000F7B{Mother?~00~}#011#008
+¿Madre?~00~#008
+;00000F83{Only the brave and true are_able to come this far. From_here, only fate can decide_your destiny!!!~00~}#111#099
+Sólo los valientes y fieles_pueden llegar aquí. Desde _aquí,_¡¡¡sólo el destino te_guiará!!!      ~00~#099
+;00000FE6{You have passed the test for_braveness. Come closer._I will predict your fate.~00~}#088#079
+Has pasado la prueba de la  _valentía. Acércate.    _Predeciré tu destino.    ~00~#079
+;00001035{You...you are Nizetti.~00~}#026#023
+Tú... tú eres Nizetti.~00~#023
+;0000104C{You...you are going to release_my sister's Valis sword to its_full power?~00~}#083#074
+Tú... ¿tú vas a liberar todo_el poder de la espada de mi  _hermana Valis?~00~#074
+;00001096{This is 'Iceworld'.The coldest_place of the Dark world._The ground is icy and_slippery. Watch your step!~00~}#123#105
+Esto es 'Mundo Hielo'. El_lugar mas frío del Mundo_Oscuro._El suelo está helado y _patina. ¡Ten cuidado!~00~#105
+;000010FF{We haven't seen GLAMES.~00~}#027#024
+No vimos a GLAMES.     ~00~#024
+;00001117{We heard that ZALUDE was_defeated, Beware of_ASURA of Iceworld._He is most powerful.~00~}#097#085
+Oímos que ZALUDE fue vencido,_cuidado con ASURA de Mundo_Helado._El es más poderoso.~00~#085
+;0000116C{~00~}#004#001
+~00~#001
+;0000116D{~00~}#004#001
+~00~#001
+;0000116E{Q~08~~00~}#009#003
+Q~08~~00~#003
+;00001171{~00~}#004#001
+~00~#001
+;00001172{Q~A3~~00~}#009#003
+Q~A3~~00~#003
+;00001175{~00~}#004#001
+~00~#001
+;00001176{QWOh, the brilliance of the_sword is beautiful. Yuko, is_the sword all-powerful?~00~}#090#081
+QWOh, el brillo de la espada es_hermoso. Yuko, ¿es la espada_todopoderosa?      ~00~#081
+;000011C7{Ha! Ha! Ha! Ha! Your spirit is_respectable. I feel myself_getting stronger.~00~}#085#076
+¡Ja! ¡Ja! ¡Ja! Tu espíritu es _respetable. Siento que me hago_más fuerte.  ~00~#076
+;00001213{You are a beautiful Princess_indeed! But,we don't need two_beauties in this world!!~00~}#093#084
+¡Eres una bella Princesa sin_duda! Pero, ¡no necesitamos_dos bellezas en el mundo! ~00~#084
+;00001267{~00~}#004#001
+~00~#001
+;00001268{~00~}#004#001
+~00~#001
+;00001269{~00~}#004#001
+~00~#001
+;0000126A{R~04~~00~}#009#003
+R~04~~00~#003
+;0000126D{~00~}#004#001
+~00~#001
+;0000126E{R~81~~00~}#009#003
+R~81~~00~#003
+;00001271{~00~}#004#001
+~00~#001
+;00001272{RSThe brilliance of the sword is_our strength. You have nothing_to do with this.~00~}#090#081
+RSEl brillo de la espada es_nuestra fuerza. No tienes nada_que ver con esto.    ~00~#081
+;000012C3{Do not speak to me! I am_prepared for Battle!~00~}#052#046
+¡No hables de mi!_¡Me preparé para Luchar!   ~00~#046
+;000012F1{Ha! Ha! Ha! ...Thank you very_much, but your last words_mean nothing.~00~}#079#070
+¡Ja Ja Ja!... Muchas gracias, _pero tus últimas palabras no_son nada.~00~#070
+;00001337{Yuko,you are very strong. But,_it is only a matter of time_before GLAMES becomes King of_the three worlds.~00~}#119#107
+Yuko, eres muy fuerte. Pero,  _solo es cuestión de tiempo _que GLAMES se haga Rey de los_tres mundos.     ~00~#107
+;000013A2{????!!!!~00~}#012#009
+¡¡¿¿??!!~00~#009
+;000013AB{GLAMES imprisoned me. He has_led you to this Dark world.~00~}#063#057
+GLAMES me encarceló. Te ha  _guiado a este Mundo Oscuro.~00~#057
+;000013E4{GLAMES has built a tower of_his own in the Human world.~00~}#062#056
+GLAMES ha construido una torre_en el Mundo Humano.     ~00~#056
+;0000141C{Ha, Ha, Ha, Ha.....~00~}#023#020
+Ja, Ja, Ja, Ja.....~00~#020
+;00001430{Sister, the human world is_in danger!!!!!!~00~}#049#043
+¡Hermana, el mundo humano _corre peligro! ~00~#043
+;0000145B{We've been deceived, haven't_we?  We must go back_quickly!!!!~00~}#071#062
+Nos han engañado, ¿verdad?  _Debemos volver,_¡¡¡¡¡rápido!!!!!~00~#062
+;00001499{~00~}#004#001
+~00~#001
+;0000149A{~00~}#004#001
+~00~#001
+;0000149B{~00~}#004#001
+~00~#001
+;0000149C{TB~00~}#006#003
+TB~00~#003
+;0000149F{~00~}#004#001
+~00~#001
+;000014A0{Ue~00~}#006#003
+Ue~00~#003
+;000014A3{~00~}#004#001
+~00~#001
+;000014A4{T~E7~~00~}#009#003
+T~E7~~00~#003
+;000014A7{~00~}#004#001
+~00~#001
+;000014A8{T~87~~00~}#009#003
+T~87~~00~#003
+;000014AB{~00~}#004#001
+~00~#001
+;000014AC{U~BC~~00~}#009#003
+U~BC~~00~#003
+;000014AF{~00~}#004#001
+~00~#001
+;000014B0{U/My name is ZALUDE.  It is_unbelievable that you, have_beat ROGLES!!!~00~}#080#071
+U/Me llamo ZALUDE. Es increíble_que tu, ¡¡¡hayas vencido a_ROGLES!!!  ~00~#071
+;000014F7{Vicious power is useless_compared to the brilliance_of the sword._ZALUDE, you are the next one!~00~}#108#096
+El poder perverso es inútil_contra el brillo de la _espada.      _ZALUDE, ¡eres el siguiente!  ~00~#096
+;00001557{GLAMES has underestimated me!_Ordering me to battle with_a mere girl...~00~}#081#072
+¡GLAMES me infravaloró!      _Ordenándome luchar con una_chiquilla...  ~00~#072
+;0000159F{Be quiet, creature!_Cham's lash will put fear in_you!~00~}#063#054
+¡Cállate, criatura!_¡El lazo de Cham te_aterrorizará!~00~#054
+;000015D5{My desire is to battle with_the Valis sword. I have no_time to bother with a_Princess.~00~}#099#087
+Mi deseo es pelear con la  _espada Valis. No tengo tiempo_que perder con una_Princesa.~00~#087
+;0000162C{We have no desire to waste the_magic of the Valis sword._I will fight for my sister and_defeat you.~00~}#112#100
+No vamos a malgastar la magia _de la espada Valis.      _Lucharé por mi hermana y te   _venceré.   ~00~#100
+;00001690{Beyond this point nobody_except Yuko with the Valis_sword can enter.  GLAMES is_waiting inside.~00~}#108#096
+A partir de aquí nadie excepto_Yuko con la espada Valis puede_entrar. GLAMES espera dentro._   ~00~#096
+;000016F0{He will attack with magic_flames, ice, and thunder using_the power of his Leethus_sword...Be prepared, Yuko!!~00~}#122#110
+El atacará con llamas mágicas,_hielo y trueno usando el poder_de su espada Leethus...     _¡¡Prepárate Yuko!!~00~#110
+;0000175E{GLAMES, I bet my Valis sword_and my life on your defeat._I will defeat you!!~00~}#086#077
+GLAMES, apuesto mi espada_Valis y mi vida contra_vencerte. ¡¡Te derrotaré!! ~00~#077
+;000017AB{Valis against Leethus. Now is_the time to duel!!!~00~}#056#050
+Valis contra Leethus.  _¡¡Es la hora del duelo!!!~00~#050
+;000017DD{I challenge you, Yuko._I'll get your sword and I'll_fight against the Perfect_world!!!!!~00~}#101#089
+Te reto, Yuko.        _¡¡¡¡Conseguiré tu espada y  _lucharé contra el Mundo_Perfecto!!!!~00~#089
+;00001836{GLAMES..........~00~}#020#017
+GLAMES..........~00~#017
+|6215
+@0001E3B7-0001FC44-FF
+;00000000{Nizetti:~FF~}#012#009
+Nizetti:~FF~#009
+;00000009{   Yuko, I am fearful that=  you will not be able to=  defeat GLAMES, even with=  your Valis sword.~FF~}#112#100
+   Yuko, temo que no seas  =  capaz de vencer a GLAMES,=  ni con tu espada Valis.=                 ~FF~#100
+;0000006D{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000073{   ......really...~FF~}#022#019
+   ...en serio... ~FF~#019
+;00000086{Nizetti:~FF~}#012#009
+Nizetti:~FF~#009
+;0000008F{  And, if I release the sword= to its full power, you and= the sword must return~FF~}#090#081
+  Y, si libero todo el poder = de la espada, tú y la= espada debéis volver.     ~FF~#081
+;000000E0{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;000000E6{!!!!!~FF~}#009#006
+¡¡!! ~FF~#006
+;000000EC{Nizetti:~FF~}#012#009
+Nizetti:~FF~#009
+;000000F5{  Yuko, are you prepared for= this?!~FF~}#043#037
+  Yuko, ¿estás preparada= para esto?~FF~#037
+;0000011A{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000120{  Yes! Even if I= were to fail...= ~FF~}#045#036
+  ¡Sí! Aunque fuera a= fracasar... ~FF~#036
+;00000144{Nizetti:~FF~}#012#009
+Nizetti:~FF~#009
+;0000014D{... All right.~FF~}#018#015
+... Muy bien. ~FF~#015
+;0000015C{Nizetti:~FF~}#012#009
+Nizetti:~FF~#009
+;00000165{   Yuko, go to the land of=  GLAMES.~FF~}#043#037
+   Yuko, ve a la tierra de=  GLAMES.~FF~#037
+;0000018A{        The Dark world~FF~}#026#023
+       El mundo Oscuro~FF~#023
+;000001A1{=GLAMES:~FF~}#015#009
+=GLAMES:~FF~#009
+;000001AA{    Leigh, how soon before=   the Dark world is=   destroyed.~FF~}#071#062
+    Leigh, ¿cuánto queda=   para destruir el=   mundo Oscuro?~FF~#062
+;000001E8{Fortuneteller Leigh:~FF~}#024#021
+Adivino Leigh:      ~FF~#021
+;000001FD{=    Half a year... All of it=   will vanish into nether=   space.~FF~}#079#067
+=    Medio año... Todo se=   desvanecerá en el espacio =   abisal.~FF~#067
+;00000240{=GLAMES:~FF~}#015#009
+=GLAMES:~FF~#009
+;00000249{    To save our people,=   we have no choice but to=   go to the Human world=   and to Dreamland.=    Can you think of any=   other way?~FF~}#155#137
+    Para salvar a los  =   nuestros, solo podemos  =   ir al mundo Humano y =   a SueñoLandia.   =    ¿Puedes pensar otra =   manera?   ~FF~#137
+;000002D2{Leigh:~FF~}#010#007
+Leigh:~FF~#007
+;000002D9{    No.  Where there is=   destruction to the weak,=   strength prospers.~FF~}#083#074
+    No. Donde hay      =   destrucción al débil, la=   fuerza prospera.  ~FF~#074
+;00000323{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;0000032B{    What about Yuko and the=   Valis sword?=    What if Nizetti releases=   the Valis sword to=   the full power,it's going=   to be a messy situation...~FF~}#172#154
+    ¿Qué hay de Yuko y la=   espada Valis?=    ¿Qué pasa si Nizetti=   libera todo el poder de  =   la espada Valis?, va a   =   ser algo complicado...  ~FF~#154
+;000003C5{Leigh:~FF~}#010#007
+Leigh:~FF~#007
+;000003CC{   You don't have to worry,=  we are prepared.~FF~}#053#047
+   No te preocupes, estamos=  preparados.     ~FF~#047
+;000003FB{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00000403{  We, will see how powerful= the Valis sword is.  Ha! Ha!= Ha! Ha!~FF~}#076#067
+  Veremos cuan poderosa es = la espada Valis.= ¡Ja! ¡Ja! ¡Ja! ¡Ja!~FF~#067
+;00000446{Cham:~FF~}#009#006
+Cham:~FF~#006
+;0000044C{    This is.... Yuko.....~FF~}#029#026
+    Esta es.... Yuko.....~FF~#026
+;00000466{Cham:~FF~}#009#006
+Cham:~FF~#006
+;0000046C{    Warrior of Valis!!!!!!~FF~}#030#027
+   ¡¡¡Guerrera de Valis!!!~FF~#027
+;00000487{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;0000048D{   The Dark world is going=  to be absorbed into =  nether space.~FF~}#075#066
+   El mundo Oscuro va a ser=  absorbido al espacio=  abisal.     ~FF~#066
+;000004CF{Cham:~FF~}#009#006
+Cham:~FF~#006
+;000004D5{    This is true.~FF~}#021#018
+  Eso es cierto. ~FF~#018
+;000004E7{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;000004ED{    Is that why you wanted=   my Valis sword?~FF~}#052#046
+    ¿Por eso querías mi  =   espada Valis?   ~FF~#046
+;0000051B{Cham:~FF~}#009#006
+Cham:~FF~#006
+;00000521{  ...Yes, I needed= the Valis sword.=  In the legends of the Dark= world, there are two = swords.~FF~}#113#098
+  ...Sí, necesitaba= la espada Valis.=  En las leyendas del mundo= Oscuro, hay dos espadas.=     ~FF~#098
+;00000583{Cham:~FF~}#009#006
+Cham:~FF~#006
+;00000589{   One of them is yours,=  Valis,~FF~}#040#034
+   Una es la tuya,      =  Valis,~FF~#034
+;000005AB{Cham:~FF~}#009#006
+Cham:~FF~#006
+;000005B1{   the other one, Leethus, is=  now owned by GLAMES.~FF~}#059#053
+   y la otra, Leethus, ahora =  la tiene GLAMES.    ~FF~#053
+;000005E6{Cham:~FF~}#009#006
+Cham:~FF~#006
+;000005EC{~FF~}#004#001
+~FF~#001
+;000005ED{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;000005F3{    GLAMES?=   Who is he?~FF~}#032#026
+    ¿GLAMES?=   ¿Quién?  ~FF~#026
+;0000060D{Cham:~FF~}#009#006
+Cham:~FF~#006
+;00000613{    He is the King of the=   Dark world.~FF~}#047#041
+    Es el Rey del mundo  =   Oscuro.    ~FF~#041
+;0000063C{Cham:~FF~}#009#006
+Cham:~FF~#006
+;00000642{   He has told his people to=  go to the Human world and=  to Dreamland.~FF~}#082#073
+   Le ha dicho a su gente que=  vaya al mundo Humano y a=  SueñoLandia. ~FF~#073
+;0000068B{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000691{    What if that happens,=   how would the lives of=   people in the Human=   world and Dreamland be=   affected?~FF~}#129#114
+    Y si eso sucede,=   ¿cómo se verá afectada=   la vida de la gente del=   mundo Humano y de   =   SueñoLandia?~FF~#114
+;00000703{Cham:~FF~}#009#006
+Cham:~FF~#006
+;00000709{  GLAMES is going to destroy= us. Dreamland is being= invaded by GLAMES' army now!~FF~}#092#083
+  GLAMES va a destruirnos. = ¡SueñoLandia la está= invadiendo el ejército= GLAMES!~FF~#083
+;0000075C{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000762{    Dreamland?~FF~}#018#015
+ ¿SueñoLandia?~FF~#015
+;00000771{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00000779{ Full power has been released=to the Valis sword....= My Leethus sword is=summoning the Valis sword.~FF~}#113#101
+ Todo el poder ha sido=liberado a la Espada Valis...= Mi espada Leethus invoca=a la espada Valis.   ~FF~#101
+;000007DE{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;000007E6{   Which one of us will win,=  Yuko or Me?=   Tell me my fortune.~FF~}#075#066
+   ¿Quien de nosotros=  ganará,=  Yuko o yo? =   Dime mi fortuna.~FF~#066
+;00000828{Leigh:~FF~}#010#007
+Leigh:~FF~#007
+;0000082F{    Yes, sir!!!~FF~}#019#016
+    ¡¡Sí, Sr!! ~FF~#016
+;0000083F{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00000847{   No, it's not necessary.=   I will make my own=  fortune!!~FF~}#070#061
+   No, no es necesario.   =   ¡¡Haré mi propia  =  fortuna!!~FF~#061
+;00000884{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;0000088C{ It is very interesting=to know there is somebody=stronger than me.  Yuko, why=are you willing to fight?~FF~}#117#105
+ Es muy interesante saber=que hay alguien más fuerte   =que yo. Yuko, ¿por qué=estás dispuesta a luchar?~FF~#105
+;000008F5{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;000008FB{  For the strife of the= people who have been lost= because of you!!~FF~}#078#069
+  ¡¡Por la contienda de la= gente que se ha perdido= por tu culpa!! ~FF~#069
+;00000940{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00000948{  What a silly thing!=  The stronger power is= always followed by the= destruction of the weak...~FF~}#110#098
+  ¡Qué cosa mas tonta!=  El poder más fuerte= siempre va seguido de la = destrucción del débil...~FF~#098
+;000009AA{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;000009B2{  Did you ever count the= number of people you have= destroyed~FF~}#072#063
+  ¿Has contado alguna vez a= cuantas personas    = destruiste?~FF~#063
+;000009F1{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;000009F7{  All the battles were for= justice!!~FF~}#044#038
+  ¡¡Todo fue por la = justicia!!     ~FF~#038
+;00000A1D{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00000A25{  Ha! Ha! Ha!...=  All right, Yuko...=  Do me a favor?~FF~}#064#055
+  ¡Ja! ¡Ja! ¡Ja!...=  Muy bien, Yuko... =  ¿Un favor? ~FF~#055
+;00000A5C{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000A62{  What?~FF~}#011#008
+  ¿Qué?~FF~#008
+;00000A6A{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00000A72{  I want you to return the= Leethus sword.=  We no longer need this= swords.~FF~}#089#077
+  Quiero que devuelvas la= espada Leethus.=  Ya no necesitamos las= espadas.~FF~#077
+;00000ABF{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00000AC7{  And, one more thing...take= care of the survivers of the= Dark world, please.~FF~}#089#080
+  Y una cosa más... cuida a = los supervivientes del= mundo Oscuro, por favor. ~FF~#080
+;00000B17{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000B1D{  All right.~FF~}#016#013
+  Muy bien. ~FF~#013
+;00000B2A{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00000B32{  Good-bye.~FF~}#015#012
+  Adiós.   ~FF~#012
+;00000B3E{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000B44{  GLAMES -- Everything= is over...~FF~}#041#035
+  GLAMES -- Todo ha = terminado...~FF~#035
+;00000B67{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000B6D{  Valna, Cham.~FF~}#018#015
+  Valna, Cham.~FF~#015
+;00000B7C{Valna/Cham:~FF~}#015#012
+Valna/Cham:~FF~#012
+;00000B88{  Yes.~FF~}#010#007
+  Sí. ~FF~#007
+;00000B8F{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000B95{  We cannot prevent the Dark= world from being absorbed= into nether world.~FF~}#085#076
+  No podemos prevenir que el= mundo Oscuro sea absorbido= al mundo abisal. ~FF~#076
+;00000BE1{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000BE7{ Lead the survivers of the=Dark world and establish a=new country of Vecanti once=again.= Never, never will we have a=war... We will have a=peaceful world!!!~FF~}#179#158
+ Dirige a los supervivientes=del mundo Oscuro y crea=un nuevo país de Vecanti de=nuevo.= Nunca, nunca tendremos una=guerra... ¡¡Tendremos un=mundo pacífico!!~FF~#158
+;00000C85{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000C8B{  I will return the Valis= sword and the Leethus sword.=  We will never use them= again.~FF~}#101#089
+  Devolveré la espada    = Valis y la espada Leethus.  =  Nunca las volveremos a= usar. ~FF~#089
+;00000CE4{Yuko:~FF~}#009#006
+Yuko:~FF~#006
+;00000CEA{  Valna, Cham, good luck!!~FF~}#030#027
+  Valna, Cham, ¡¡suerte!! ~FF~#027
+;00000D05{ A once corrupted world has=been reborn.  Nobody has=seen Yuko since then...=nobody.~FF~}#097#085
+ Un mundo antes corrompido =ha renacido. Nadie ha=vuelto a ver a Yuko...=nadie.     ~FF~#085
+;00000D5A{        VALIS I~FF~}#019#016
+        VALIS I~FF~#016
+;00000D6A{ Valia, Queen of Dreamland,=realized that she could not=stop the vicious power of=ROGLES and summoned Yuko to=give her the Valis sword.~FF~}#151#136
+ Valia, Reina de=SueñoLandia, se dio cuenta=de que no podía parar el=poder de ROGLES e invocó a=Yuko para darle la espada=Valis.       ~FF~#136
+;00000DF2{ After a severe fight, Yuko=defeated King ROGLES, but she=was obliged to defeat her=best friend, Reiko, who was=being controlled by ROGLES.~FF~}#155#140
+ Después de luchar, Yuko   =venció al Rey ROGLES, pero=se vio obligada a vencer a=su mejor amiga, Reiko, que =estaba controlada por=ROGLES.~FF~#140
+;00000E7E{        VALIS II~FF~}#020#017
+        VALIS II~FF~#017
+;00000E8F{ Several years later, Emperor=MEGAS appeared.  His plan was=to conquer Dreamland.~FF~}#091#082
+ Varios años después=apareció el emperador=MEGAS. Quería conquistar=SueñoLandia. ~FF~#082
+;00000EE1{ The MEGAS army defeated the=survivors of the ROGLES army=and proceeded to the castle=Vanity where Valia was=staying.~FF~}#133#118
+ El ejército MEGAS venció a=los supervivientes del=ejército ROGLES y procedió=al castillo Vanity donde=residía Valia.~FF~#118
+;00000F57{ Yuko went to Dreamland to=help Valia, but it was too=late. She found that Valia=had already taken.~FF~}#112#100
+ Yuko fue a SueñoLandia a=ayudar a Valia, pero era=tarde. Encontró que Valia =ya había sido tomada.~FF~#100
+;00000FBB{ Yuko learned from Valia's=will that princess Valna is=her twin sister.~FF~}#081#072
+ Yuko aprendió de Valia que=la Princesa Valna era su=hermana gemela.   ~FF~#072
+;00001003{ With fresh determination,=Yuko went forth and defeated=the MEGAS army.~FF~}#081#072
+ Con nueva determinación, =Yuko avanzo y venció al=ejército de MEGAS.  ~FF~#072
+;0000104B{ It was then that her fate=became clear to her. She was=committed to saving the=future of Dreamland.~FF~}#113#101
+ Fue entonces cuando vio=claro su destino. Ella=estaba entregada a salvar=el futuro de SueñoLandia. ~FF~#101
+;000010B0{        VALIS III~FF~}#021#018
+        VALIS III~FF~#018
+;000010C2{ The Dark world will be=absorbed into nether world.= The King of the Dark world=will abandon his world and=try to invade the other=worlds.~FF~}#157#139
+ El mundo Oscuro será =absorbido por el=inframundo.= El Rey del mundo Oscuro   =abandonará su mundo e=intentará invadir los=otros mundos. ~FF~#139
+;0000114D{ Dreamland and the Human=world are in danger!!==     Cheer up, Yuko!!~FF~}#082#070
+ ¡SueñoLandia y el mundo=Humano corren peligro!==     ¡Anímate, Yuko!~FF~#070
+;00001193{ Yuko's Valis sword and its=counterpart, Leethus, owned=by GLAMES -- these swords=can destroy everything.~FF~}#118#106
+ La espada Valis de Yuko y =su contra, Leethus, la de  =GLAMES -- estas espadas  =pueden destruirlo todo.~FF~#106
+;000011FD{== The bringing together of=these two swords after=millions of years!!~FF~}#086#071
+== ¡¡¡La reunión de estas dos =espadas después de =millones de años!!!~FF~#071
+;00001244{==   Can Yuko ever save the=  three worlds?~FF~}#056#044
+==   ¿Puede Yuko salvar los=  tres mundos? ~FF~#044
+;00001270{==  All three are depending= on Yuko's weapons!~FF~}#060#048
+==  ¡Los tres dependen de las = armas de Yuko! ~FF~#048
+;000012A0{=== Now,nothing can stop Yuko...~FF~}#045#033
+=== Ahora, nada parará a=Yuko...~FF~#033
+;000012C1{ZALUDE:~FF~}#011#008
+ZALUDE:~FF~#008
+;000012C9{  Yes, sir, Mr.GLAMES.~FF~}#026#023
+  Sí, Sr, Sr.GLAMES.  ~FF~#023
+;000012E0{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;000012E8{  Yuko has gotten to the= Dark world with the Valis= sword.=  Her sword has been released= to its full power.~FF~}#125#110
+  Yuko ha ido al mundo  = Oscuro con la espada     = Valis.=  Su espada ha liberado todo = su poder.         ~FF~#110
+;00001356{  Be prepared for it.~FF~}#025#022
+  Prepárate.         ~FF~#022
+;0000136C{ASURA:~FF~}#010#007
+ASURA:~FF~#007
+;00001373{  Ha, ha, ha, ha...=  The Valis sword has even= more brilliance!!=  Beautiful, isn't it?~FF~}#101#089
+  Ja, ja, ja, ja...=  ¡¡¡La espada Valis tiene= aún más brillo!!!=  ¿Hermosa, verdad?   ~FF~#089
+;000013CC{ASURA:~FF~}#010#007
+ASURA:~FF~#007
+;000013D3{  A beautiful sword requires= an appropriate owner,= doesn't it?~FF~}#074#065
+  Una espada hermosa= necesita un propietario= adecuado,= ¿no?  ~FF~#065
+;00001414{ASURA:~FF~}#010#007
+ASURA:~FF~#007
+;0000141B{   I will get the Valis sword=  by any means.~FF~}#052#046
+   Recuperaré la espada=  Valis cómo sea.    ~FF~#046
+;00001449{GLAMES:~FF~}#011#008
+GLAMES:~FF~#008
+;00001451{  I'm looking forward to it.= Ha! Ha! Ha!~FF~}#048#042
+  Lo estoy esperando.    = ¡Ja! ¡Ja! ¡Ja!~FF~#042
+;0000147B{=======   Licensed By=        Sega Enterprises LTD.~FF~}#079#052
+=======   Licencia   =        Sega Enterprises LTD.~FF~#052
+;000014AF{=  [VALIS III] Making Staff~FF~}#034#028
+=  [VALIS III] Equipo      ~FF~#028
+;000014CB{ Programmer==      Masayasu Yamamoto==      Yoshiki UAI Yamauchi~FF~}#080#065
+ Programador ==     Masayasu Yamamoto==     Yoshiki UAI Yamauchi~FF~#065
+;0000150C{ Graphic designer==      Kiku==      David Iwata~FF~}#064#049
+ Diseñador Gráfico ==     Kiku==     David Iwata~FF~#049
+;0000153D{ Graphic designer==      Yoshihisa Shimizu==      Seiichirou Nagatomo==      Sophy Kinoshita~FF~}#114#093
+ Diseñador Gráfico  ==     Yoshihisa Shimizu==     Seiichirou Nagatomo==     Sophy Kinoshita~FF~#093
+;0000159A{ Scenario writer==      Ohta(Hachiohji)~FF~}#049#040
+ Escritor Escenas==     Ohta(Hachiohji)~FF~#040
+;000015C2{ Music==      Takaharu Umezu==      Michiko Naruke==      Minoru Yuasa~FF~}#092#071
+ Música  ==     Takaharu Umezu==     Michiko Naruke==     Minoru Yuasa~FF~#071
+;00001609{ Music director==      Shinobu Ogawa== Special thanks to ==      Business suport Co.,Ltd.~FF~}#111#090
+ Director Música ==     Shinobu Ogawa== Muchas Gracias a  ==     Business suport Co.,Ltd.~FF~#090
+;00001663{ Art  work  director==      T. Neko Miura~FF~}#051#042
+ Director Arte       ==     T. Neko Miura~FF~#042
+;0000168D{ Art  work  staff==      Takao Yoshioka==      Masahisa Ohno~FF~}#076#061
+ Equipo Arte       ==     Takao Yoshioka==     Masahisa Ohno~FF~#061
+;000016CA{ Art  work  staff==      Yuma Miura==      Mitsuho Abe~FF~}#070#055
+ Equipo Arte       ==     Yuma Miura==     Mitsuho Abe~FF~#055
+;00001701{ Special thanks to==      Kazuyuki Fukushima==      Yuji     Fukushima~FF~}#086#071
+ Muchas Gracias a   ==     Kazuyuki Fukushima==     Yuji     Fukushima~FF~#071
+;00001748{ Special thanks to==      Jiro Fukushima==      Yoshinobu Abe~FF~}#077#062
+ Muchas Gracias a   ==     Jiro Fukushima==     Yoshinobu Abe~FF~#062
+;00001786{ Special thanks to==      Takami  Kinoshita==      Tetsuji Matsuzawa==      Mie Nakahara~FF~}#110#089
+ Muchas Gracias a    ==     Takami  Kinoshita==     Tetsuji Matsuzawa==     Mie Nakahara~FF~#089
+;000017DF{ Original game licenced  by== Shin-nihon Laser Soft Co.,Ltd.~FF~}#070#061
+ Juego original licenciado == Shin-nihon Laser Soft Co.,Ltd.~FF~#061
+;0000181C{ Total producer==      Takashi Fukusima~FF~}#049#040
+ Productor      ==     Takashi Fukusima~FF~#040
+;00001844{==   (c) TELENET JAPAN CO.,LTD.~FF~}#041#032
+==   (c) TELENET JAPAN CO.,LTD.~FF~#032
+;00001864{ Special Thanks to==      Hiroshi Yoshida~FF~}#051#042
+ Muchas Gracias a  ==     Hiroshi Yoshida~FF~#042
+|6286

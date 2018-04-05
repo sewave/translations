@@ -1,0 +1,8 @@
+@00000000-00000016-FF
+;00000000{PUSH STARTNORMAL EASY >}#023#023
+TOCA STARTNORMALFÁCIL >#023
+|23
+@00000023-000000CD-FF
+;00000000{LEVEL SELECT               NORMAL                PUSH START CONTINUE                      YES               NO    GAME OVER             PUSH START              c1991 IREM }#171#171
+ELIGE  NIVEL               NORMAL                TOCA START CONTINUAR                     SÍ                NO    GAME OVER             TOCA START              c1991 IREM #171
+|171

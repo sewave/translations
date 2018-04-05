@@ -1,0 +1,449 @@
+@000010EF-00001581-00
+;00000000{DEMO~00~}#008#005
+DEMO~00~#005
+;00000005{~16~$K~7E~PUSH  START~00~}#025#016
+~16~$K~7E~PULSA START~00~#016
+;00000015{~1C~$h~7C~F F  TEST MODE~0A~ ~0C~}COLOR~06~ L}I/O~12~ ~8C~}DOT CROSS~08~ ~CC~}CHAR~06~ ~0C~~7E~OBJ~0C~ L~7E~SCROLL~08~ ~8C~~7E~EXIT~00~}#135#081
+~1C~$h~7C~F F  MODO TEST~0A~ ~0C~}COLOR~06~ L}E S~12~ ~8C~}CRUZ PUNT~08~ ~CC~}CARA~06~ ~0C~~7E~OBJ~0C~ L~7E~SCROLL~08~ ~8C~~7E~SALE~00~#081
+;00000066{~16~ ~0B~~7F~NORMAL MODE~16~ K~7F~BATTLE MODE~00~}#049#031
+~16~ ~0B~~7F~MODO NORMAL~16~ K~7F~MODO PELEA ~00~#031
+;00000085{~0A~ ~EE~~7E~START~0E~ .~7F~OPTIONS~0C~ n~7F~BATTLE~00~}#055#031
+~0A~ ~EE~~7E~NUEVA~0E~ .~7F~OPCIÓN ~0C~ n~7F~PELEA ~00~#031
+;000000A4{~1C~ )~7C~OPTIONS SELECT~0A~ c~7C~NANDO~0C~ ~E3~~7C~NANDO2~0C~ c}EXTEND~14~ ~E3~}PLAYER SUU~0A~ c~7E~STAGE~08~ ~E3~~7E~AREA$ i~7F~PUSH START TO EXIT~00~}#152#101
+~1C~ )~7C~ELIGE OPCIONES~0A~ c~7C~NANDO~0C~ ~E3~~7C~NANDO2~0C~ c}VIDA E~14~ ~E3~}VISA   SUU~0A~ c~7E~ETAPA~08~ ~E3~~7E~AREA$ i~7F~ START PARA SALIR ~00~#101
+;00000109{~14~ +~7C~CHAR  TEST~06~ ~CE~~7C~OBJ~06~ ~0E~}BG1~06~ N}BG2~14~ ~8E~}BG3 (VRAM)~06~ ~CE~}BG4~14~ ~8C~~7E~PUSH START~00~}#119#071
+~14~ +~7C~TEST  CHAR~06~ ~CE~~7C~OBJ~06~ ~0E~}BG1~06~ N}BG2~14~ ~8E~}BG3 (VRAM)~06~ ~CE~}BG4~14~ ~8C~~7E~TOCA START~00~#071
+;00000150{~12~ ,~7C~BG3  TEST~0A~ f~7C~COLOR~02~ p~7C~H~02~ u~7C~V  (}0123456789ABCDEF~00~}#080#053
+~12~ ,~7C~TEST  BG3~0A~ f~7C~COLOR~02~ p~7C~H~02~ u~7C~V  (}0123456789ABCDEF~00~#053
+;00000185{~12~ ,~7C~OBJ  TEST~0A~ f~7C~COLOR~02~ p~7C~H~02~ u~7C~V  ~A8~~7C~0123456789ABCDEF~00~}#086#053
+~12~ ,~7C~TEST  OBJ~0A~ f~7C~COLOR~02~ p~7C~H~02~ u~7C~V  ~A8~~7C~0123456789ABCDEF~00~#053
+;000001BA{~12~ ,~7C~I/O  TEST~06~ f~7C~JOY~02~ l~7C~1~02~ p~7C~2~02~ t~7C~3~02~ x~7C~4~02~ ~A3~~7C~A~02~ ~C3~~7C~X~04~ ~E3~~7C~TL~04~ ~03~}TR~02~ C}B~02~ c}Y~0C~ ~83~}SELECT~0A~ ~A3~}START~04~ ~E3~}UP~08~ ~03~~7E~DOWN~08~ ~23~~7E~LEFT~0A~ C~7E~RIGHT~00~}#243#123
+~12~ ,~7C~TEST E S ~06~ f~7C~JOY~02~ l~7C~1~02~ p~7C~2~02~ t~7C~3~02~ x~7C~4~02~ ~A3~~7C~A~02~ ~C3~~7C~X~04~ ~E3~~7C~TL~04~ ~03~}TR~02~ C}B~02~ c}Y~0C~ ~83~}SELECT~0A~ ~A3~}START~04~ ~E3~}AR~08~ ~03~~7E~ABAJ~08~ ~23~~7E~IZQU~0A~ C~7E~DEREC~00~#123
+;00000235{~12~ ,~7C~BG1  TEST~0A~ f~7C~COLOR~02~ p~7C~H~02~ u~7C~V  ~A8~~7C~0123456789ABCDEF~00~}#086#053
+~12~ ,~7C~TEST  BG1~0A~ f~7C~COLOR~02~ p~7C~H~02~ u~7C~V  ~A8~~7C~0123456789ABCDEF~00~#053
+;0000026A{~12~ ,~7C~BG2  TEST~0A~ f~7C~COLOR~02~ p~7C~H~02~ u~7C~V~40~ ~A0~~7C~0 1 2 3 4 5 6 7 8 9 A B C D E F ~00~}#105#069
+~12~ ,~7C~TEST  BG2~0A~ f~7C~COLOR~02~ p~7C~H~02~ u~7C~V~40~ ~A0~~7C~0 1 2 3 4 5 6 7 8 9 A B C D E F ~00~#069
+;000002AF{~08~ .~7C~TIME~0A~ C~7C~CODDY~04~ A~7C~~14~~14~~04~ a~7C~~14~~14~~16~ c~7C~~11~~11~~11~~11~~11~~11~~11~~11~~13~~13~~13~~0C~ T~7C~ANDORE~04~ R~7C~~14~~14~~04~ r~7C~~14~~14~~16~ t~7C~~11~~11~~11~~11~~11~~11~~11~~11~~13~~13~~13~~00~}#229#082
+~08~ .~7C~TIEM~0A~ C~7C~CODDY~04~ A~7C~~14~~14~~04~ a~7C~~14~~14~~16~ c~7C~~11~~11~~11~~11~~11~~11~~11~~11~~13~~13~~13~~0C~ T~7C~ANDORE~04~ R~7C~~14~~14~~04~ r~7C~~14~~14~~16~ t~7C~~11~~11~~11~~11~~11~~11~~11~~11~~13~~13~~13~~00~#082
+;00000301{~0E~ ~F8~~7C~R  G  B~02~ 0}0~02~ P}1~02~ p}2~02~ ~90~}3~02~ ~B0~}4~02~ ~D0~}5~02~ ~F0~}6~02~ ~10~~7E~7~02~ 0~7E~8~02~ P~7E~9~02~ p~7E~A~02~ ~90~~7E~B~02~ ~B0~~7E~C~02~ ~D0~~7E~D~02~ ~F0~~7E~E~02~ ~10~~7F~F~00~}#209#092
+~0E~ ~F8~~7C~R  G  B~02~ 0}0~02~ P}1~02~ p}2~02~ ~90~}3~02~ ~B0~}4~02~ ~D0~}5~02~ ~F0~}6~02~ ~10~~7E~7~02~ 0~7E~8~02~ P~7E~9~02~ p~7E~A~02~ ~90~~7E~B~02~ ~B0~~7E~C~02~ ~D0~~7E~D~02~ ~F0~~7E~E~02~ ~10~~7F~F~00~#092
+;0000035D{0$~C4~~7E~S E L E C T  P L A Y E R~00~}#038#029
+0$~C4~~7E~E L I G E  J U G A D O R~00~#029
+;0000037A{~16~$j~7C~COLOR  TEST~02~ ~23~}R~02~ ~A3~}G~02~ ~23~~7E~B~02~ ~C3~~7E~W& ~C6~~7C~02468ACE02468ACE 1F~00~}#104#059
+~16~$j~7C~TEST  COLOR~02~ ~23~}R~02~ ~A3~}G~02~ ~23~~7E~B~02~ ~C3~~7E~W& ~C6~~7C~02468ACE02468ACE 1F~00~#059
+;000003B5{~14~$c~7F~~23~1989,1990~0C~%n~7F~xyz{~7C~}~10~$u~7F~CO.,LTD.~16~(~0A~~7E~PRESS START~00~}#088#052
+~14~$c~7F~~23~1989,1990~0C~%n~7F~xyz{~7C~}~10~$u~7F~CO.,LTD.~16~(~0A~~7E~PULSA START~00~#052
+;000003E9{~10~ ~8C~}'~E1~~E2~~E3~~E4~~E5~~E6~~E7~~10~$~AC~}~F0~~F1~~F2~~F3~~F4~~F5~~F6~~F7~~16~(~EB~}~E8~~E9~~EA~~EB~~EC~~ED~~EE~~EF~~F8~~F9~~FA~~00~}#139#040
+~10~ ~8C~}'~E1~~E2~~E3~~E4~~E5~~E6~~E7~~10~$~AC~}~F0~~F1~~F2~~F3~~F4~~F5~~F6~~F7~~16~(~EB~}~E8~~E9~~EA~~EB~~EC~~ED~~EE~~EF~~F8~~F9~~FA~~00~#040
+;00000411{~14~$~C2~}OH! MY CAR~00~}#024#015
+~14~$~C2~}¡MI COCHE!~00~#015
+;00000420{~0E~ x~7F~CREDIT ~00~}#021#012
+~0E~ x~7F~CREDIT ~00~#012
+;0000042C{4$~E3~~7E~~23~CAPCOM CO.,LTD. 1989 1990~00~}#043#031
+4$~E3~~7E~~23~CAPCOM CO.,LTD. 1989 1990~00~#031
+;0000044B{4$~23~~7F~~23~CAPCOM USA.INC. 1989 1991~00~}#043#031
+4$~23~~7F~~23~CAPCOM USA.INC. 1989 1991~00~#031
+;0000046A{($f~7F~LICENSED BY NINTENDO~00~}#031#025
+($f~7F~LICENCIA DE NINTENDO~00~#025
+;00000483{~16~$K~7E~PRESS START~00~}#025#016
+~16~$K~7E~PULSA START~00~#016
+|1171
+@00006768-00006A67-00
+;00000000{ GUY   =  ~01~ CODY  =  ~02~HAGGAR =  ~03~ BRED     ~04~ DUG      ~05~ JAKE     ~06~ SIMONS   ~07~ J        ~08~ TWO.P    ~09~ AXL      ~0A~ SLASH    $ANDORE Jr.~0B~ ANDORE   ~0B~ G.ANDORE ~0B~ U.ANDORE ~0B~ F.ANDORE ~0C~ G.ORIBER ~0D~ BILL BULL~0E~ WONG WHO ~0F~HOLLY WOOD~10~ EL GADO  ~11~ SID      ~12~ BILLY    ~13~ THRASHER ~14~ KATANA   ~15~ EDI.E    ~16~ ROLENTO  ~17~ ABIGAIL  ~18~ BELGER   ~19~ KNIFE    ~1A~ MURAMASA!~1A~ MASAMUNE!~1B~ PIPE     ~23~ SHELL    ~23~ BOTTLE   ~23~ ARROW    % JESSICA  ~23~ DOOR     ~1C~ DRUMCAN  ~23~CHANDELIER~23~ BILLBOARD~23~ FREIGHT  ~1D~ DUSTBIN  ~1E~ BARREL   ~1F~ TIRE       TEL.BOOTH~23~ GLASS    ~23~ GRANADE  ~23~ FLAME    ~23~WHEELCHAIR! BARBECUE ! HAMBURGER! PIZZA    ! CURRY    ! BANANA   ! APPLE    ! GRAPES   ! ROOTBEER !SOFT DRINK! VITAMINE ! GUM      " DIAMOND  " GOLD BAR " RUBY     " NECKLACE " DOLLAR   " YEN      " HAT      " RADIO    " HAMMER  }#906#768
+ GUY   =  ~01~ CODY  =  ~02~HAGGAR =  ~03~ BRED     ~04~ DUG      ~05~ JAKE     ~06~ SIMONS   ~07~ J        ~08~ TWO.P    ~09~ AXL      ~0A~ SLASH    $ANDORE Jr.~0B~ ANDORE   ~0B~ G.ANDORE ~0B~ U.ANDORE ~0B~ F.ANDORE ~0C~ G.ORIBER ~0D~ BILL BULL~0E~ WONG WHO ~0F~HOLLY WOOD~10~ EL GADO  ~11~ SID      ~12~ BILLY    ~13~ THRASHER ~14~ KATANA   ~15~ EDI.E    ~16~ ROLENTO  ~17~ ABIGAIL  ~18~ BELGER   ~19~ CUCHILLO ~1A~ MURAMASA!~1A~ MASAMUNE!~1B~ TUBERÍA  ~23~ CONCHA   ~23~ BOTELLA  ~23~ FLECHA   % JESSICA  ~23~ PUERTA   ~1C~ BARRIL   ~23~CANDELABRO~23~ CARTELERA~23~ MERCANCÍA~1D~ PAPELERA ~1E~ TONEL    ~1F~ RUEDAS     CABINA   ~23~ CRISTAL  ~23~ GRANADA  ~23~ LLAMA    ~23~SILLA RUE.! BARBACOA ! HAMBURGU.! PIZZA    ! CURRY    ! BANANA   ! MANZANA  ! UVAS     ! CERVEZA  !REFRESCO  ! VITAMINA ! CHICLE   " DIAMANTE " LINGOTE  " RUBÍ     " COLLAR   " DÓLAR    " YEN      " SOMBRERO " RADIO    " MARTILLO#768
+|768
+@0000DAB2-0000DD87-FC
+;00000000{ PLANNER  ~A4~~FC~}#018#012
+   PLAN   ~A4~~FC~#012
+;0000000C{~FC~}#004#001
+~FC~#001
+;0000000D{  MICKEY  ~FC~}#014#011
+  MICKEY  ~FC~#011
+;00000018{~FC~}#004#001
+~FC~#001
+;00000019{~FA~~A8~  MUSIC      SOUND  ~A4~~FC~}#036#024
+~FA~~A8~ MÚSICA Y   SONIDO  ~A4~~FC~#024
+;00000031{~FC~}#004#001
+~FC~#001
+;00000032{   BULL   ~FC~}#014#011
+   BULL   ~FC~#011
+;0000003D{~FC~}#004#001
+~FC~#001
+;0000003E{~FA~~A8~PROGRAMMER~A4~~FC~}#026#014
+~FA~~A8~ PROGRAMA ~A4~~FC~#014
+;0000004C{~FC~}#004#001
+~FC~#001
+;0000004D{ KANEKON  ~FA~   IMO    ~FA~ YOSHILIM ~FA~   LEO    ~FA~   IMG    ~FC~}#070#055
+ KANEKON  ~FA~   IMO    ~FA~ YOSHILIM ~FA~   LEO    ~FA~   IMG    ~FC~#055
+;00000084{~FC~}#004#001
+~FC~#001
+;00000085{~FA~~A8~  OBJECT    DESIGN  ~A4~~FC~}#036#024
+~FA~~A8~DISEÑO DE  OBJETOS  ~A4~~FC~#024
+;0000009D{~FC~}#004#001
+~FC~#001
+;0000009E{ LEXUS.M  ~FA~ FISH MAN ~FA~  MAGURO  ~FA~  LAWSON  ~FA~ SHOJI.K  ~FC~}#070#055
+ LEXUS.M  ~FA~ FISH MAN ~FA~  MAGURO  ~FA~  LAWSON  ~FA~ SHOJI.K  ~FC~#055
+;000000D5{~FC~}#004#001
+~FC~#001
+;000000D6{~FA~~A8~BACKGROUND  DESIGN  ~A4~~FC~}#036#024
+~FA~~A8~DISEÑO DE   FONDOS  ~A4~~FC~#024
+;000000EE{~FC~}#004#001
+~FC~#001
+;000000EF{ MANASHI  ~FA~  UCCHAN  ~FA~  NONNON  ~FA~ MIKI VAI ~FA~  KAKKUN  ~FC~}#070#055
+ MANASHI  ~FA~  UCCHAN  ~FA~  NONNON  ~FA~ MIKI VAI ~FA~  KAKKUN  ~FC~#055
+;00000126{~FC~}#004#001
+~FC~#001
+;00000127{~FA~~A8~ SPECIAL     THANKS ~A4~~FC~}#036#024
+~FA~~A8~ GRACIAS  ESPECIALES~A4~~FC~#024
+;0000013F{~FC~}#004#001
+~FC~#001
+;00000140{~FC~}#004#001
+~FC~#001
+;00000141{ T.ARTHUR ~FA~ MAKICHAN ~FC~}#028#022
+ T.ARTHUR ~FA~ MAKICHAN ~FC~#022
+;00000157{~FC~}#004#001
+~FC~#001
+;00000158{~FC~}#004#001
+~FC~#001
+;00000159{~FC~}#004#001
+~FC~#001
+;0000015A{~FC~}#004#001
+~FC~#001
+;0000015B{~FA~~FA~~AC~ <ARCADE> ~FA~~FA~~A8~ PLANNER  ~A4~~FC~}#052#028
+~FA~~FA~~AC~ (ARCADE) ~FA~~FA~~A8~   PLAN   ~A4~~FC~#028
+;00000177{~FC~}#004#001
+~FC~#001
+;00000178{   NIN    ~FA~  AKIMAN  ~FC~}#028#022
+   NIN    ~FA~  AKIMAN  ~FC~#022
+;0000018E{~FC~}#004#001
+~FC~#001
+;0000018F{~FA~~A8~  MUSIC      SOUND  ~A4~~FC~}#036#024
+~FA~~A8~ MÚSICA Y   SONIDO  ~A4~~FC~#024
+;000001A7{~FC~}#004#001
+~FC~#001
+;000001A8{         ,YOUKICHANS   PAPA   ~FC~}#034#031
+         ,YOUKICHANS   PAPA   ~FC~#031
+;000001C7{~FC~}#004#001
+~FC~#001
+;000001C8{~FA~~A8~PROGRAMMER~A4~~FC~}#026#014
+~FA~~A8~ PROGRAMA ~A4~~FC~#014
+;000001D6{~FC~}#004#001
+~FC~#001
+;000001D7{ KANEKON  ~FA~   SHIN   ~FA~ TOMIYAN  ~FA~ YOKOYAN  ~FC~}#056#044
+ KANEKON  ~FA~   SHIN   ~FA~ TOMIYAN  ~FA~ YOKOYAN  ~FC~#044
+;00000203{~FC~}#004#001
+~FC~#001
+;00000204{~FA~~A8~  OBJECT    DESIGN  ~A4~~FC~}#036#024
+~FA~~A8~DISEÑO DE  OBJETOS  ~A4~~FC~#024
+;0000021C{~FC~}#004#001
+~FC~#001
+;0000021D{   S.Y    ~FA~  TESSUE  ~FA~  PRINCE  ~FC~}#042#033
+   S.Y    ~FA~  TESSUE  ~FA~  PRINCE  ~FC~#033
+;0000023E{~FC~}#004#001
+~FC~#001
+;0000023F{~FA~~A8~BACKGROUND  DESIGN  ~A4~~FC~}#036#024
+~FA~~A8~DISEÑO DE   FONDOS  ~A4~~FC~#024
+;00000257{~FC~}#004#001
+~FC~#001
+;00000258{ MIKIMAN  ~FA~ OKACHAN  ~FA~ FUKUMARY ~FA~  NISSUI  ~FC~}#056#044
+ MIKIMAN  ~FA~ OKACHAN  ~FA~ FUKUMARY ~FA~  NISSUI  ~FC~#044
+;00000284{~FC~}#004#001
+~FC~#001
+;00000285{~FA~~A8~ SPECIAL     THANKS ~A4~~FC~}#036#024
+~FA~~A8~ GRACIAS  ESPECIALES~A4~~FC~#024
+;0000029D{~FC~}#004#001
+~FC~#001
+;0000029E{~FC~}#004#001
+~FC~#001
+;0000029F{   CBX    ~FA~   POO    ~FA~   CHIN   ~FA~ YAMACHAN ~FA~ KUCCHAN  ~FC~}#070#055
+   CBX    ~FA~   POO    ~FA~   CHIN   ~FA~ YAMACHAN ~FA~ KUCCHAN  ~FC~#055
+|726
+@0000E4CD-0000E502-FC
+;00000000{100000 ONLY 200000 ONLY 200000 EVERYNOTHING     ON OFF}#054#054
+100000 SOLO 200000 SOLO 200000 CADA NADA        SÍ NO #054
+|54
+@0000E95F-0000E97A-FC
+;00000000{    THANKS FOR PLAYING !!   }#028#028
+    ¡¡GRACIAS POR JUGAR!!   #028
+|28
+@0000E97F-0000E98C-FC
+;00000000{PRESENTED BY~10~ }#017#014
+  PRESENTA  ~10~ #014
+|14
+@0000E9A8-0000E9B5-00
+;00000000{Height}5.97\~18~~00~}#020#014
+Altura}}185\~18~~00~#014
+|14
+@0000E9B8-0000E9C5-00
+;00000000{Weight}}187]~18~~00~}#020#014
+Peso}}}}}80]~18~~00~#014
+|14
+@0000E9C8-0000E9D5-00
+;00000000{Height}6.64\~18~~00~}#020#014
+Altura}}202\~18~~00~#014
+|14
+@0000E9D8-0000E9E4-00
+;00000000{Weight}}297]~00~}#016#013
+Peso}}}}140]~00~#013
+|13
+@0000EB1B-0000EC26-00
+;00000000{CREDIT~00~}#010#007
+CRÉDIT~00~#007
+;00000007{~00~}#004#001
+~00~#001
+;00000008{~16~~00~}#008#002
+~16~~00~#002
+;0000000A{d~7C~OPTION MODE~18~~00~}#024#015
+d~7C~MODO OPCIÓN~18~~00~#015
+;00000019{~C4~~7C~DIFFICULTY}a~18~~00~}#028#016
+~C4~~7C~DIFICULTAD}a~18~~00~#016
+;00000029{~04~}DIFFICULTY}b~0C~~00~}#025#016
+~04~}DIFICULTAD}b~0C~~00~#016
+;00000039{D}PLAYER~0C~~00~}#016#010
+D}VIDAS ~0C~~00~#010
+;00000043{~84~}EXTEND~0A~~00~}#019#010
+~84~}EXTRA ~0A~~00~#010
+;0000004D{~C4~}MUSIC~0A~~00~}#018#009
+~C4~}MÚSIC~0A~~00~#009
+;00000056{~04~~7E~SOUND~0C~~00~}#021#009
+~04~~7E~SONID~0C~~00~#009
+;0000005F{D~7E~STEREO~12~~00~}#019#010
+D~7E~STEREO~12~~00~#010
+;00000069{~84~~7E~EXTRA JOY~08~~00~}#025#013
+~84~~7E~MANDO EXT~08~~00~#013
+;00000076{~C4~~7E~EXIT~00~}#016#007
+~C4~~7E~SALE~00~#007
+;0000007D{~18~~04~~C4~~7C~DIFFICULTY}a~00~}#032#017
+~18~~04~~C4~~7C~DIFICULTAD}a~00~#017
+;0000008E{~18~~04~~04~}DIFFICULTY}b~00~}#029#017
+~18~~04~~04~}DIFICULTAD}b~00~#017
+;0000009F{~0C~~04~D}PLAYER~00~}#020#011
+~0C~~04~D}VIDAS ~00~#011
+;000000AA{~0C~~04~~84~}EXTEND~00~}#023#011
+~0C~~04~~84~}EXTRA ~00~#011
+;000000B5{~0A~~04~~C4~}MUSIC~00~}#022#010
+~0A~~04~~C4~}MÚSIC~00~#010
+;000000BF{~0A~~04~~04~~7E~SOUND~00~}#025#010
+~0A~~04~~04~~7E~SONID~00~#010
+;000000C9{~0C~~04~D~7E~STEREO~00~}#023#011
+~0C~~04~D~7E~STEREO~00~#011
+;000000D4{~12~~04~~84~~7E~EXTRA JOY~00~}#029#014
+~12~~04~~84~~7E~MANDO EXT~00~#014
+;000000E2{~08~~04~~C4~~7E~EXIT~00~}#024#009
+~08~~04~~C4~~7E~SALE~00~#009
+;000000EB{~10~~00~}#008#002
+~10~~00~#002
+;000000ED{j~7C~POINT OF~00~}#017#011
+j~7C~PUNTO DE~00~#011
+;000000F8{~08~~00~}#008#002
+~08~~00~#002
+;000000FA{s~7C~CODY~00~}#013#007
+s~7C~CODY~00~#007
+;00000101{~0C~~00~}#008#002
+~0C~~00~#002
+;00000103{s~7C~HAGGAR~00~}#015#009
+s~7C~HAGGAR~00~#009
+|268
+@0000ECCB-0000F5EC-FF-FD-FC
+;00000000{Metro City, a well known~FE~~04~~A4~~7E~Crime Capital, has been~FE~~04~~E4~~7E~ruled by violence and~FE~~04~$~7F~death for many years.~FC~}#138#102
+Metro City, una conocida~FE~~04~~A4~~7E~
+Capital del Crimen, ha~FE~~04~~E4~~7E~
+sido gobernada por la~FE~~04~$~7F~
+violencia muchos años.~FC~#102
+;00000066{~1E~~04~d~7E~A fact which the newly-~FE~~04~~A4~~7E~elected mayor and former~FE~~04~~E4~~7E~Street Fighter, Mike Haggar,~FE~~04~$~7F~plans to change.~FC~}#153#108
+~1E~~04~d~7E~
+Un hecho que el recién~FE~~04~~A4~~7E~
+elegido alcalde y ex~FE~~04~~E4~~7E~
+Luchador Callejero, Mike ~FE~~04~$~7F~
+Haggar, planea cambiar. ~FC~#108
+;000000D2{~1E~~04~d~7E~At the center of the~FE~~04~~A4~~7E~problem is the huge gang~FE~~04~~E4~~7E~known as Mad Gear.~FC~}#111#075
+~1E~~04~d~7E~
+En el centro del problema~FE~~04~~A4~~7E~
+está una gran banda ~FE~~04~~E4~~7E~
+llamada Mad Gear.~FC~#075
+;0000011D{~1E~~04~d~7E~Mad Gear controls all of~FE~~04~~A4~~7E~the major criminal~FE~~04~~E4~~7E~activity in the city.~FC~}#112#076
+~1E~~04~d~7E~
+Mad Gear controla toda la~FE~~04~~A4~~7E~
+actividad criminal grande~FE~~04~~E4~~7E~
+de la ciudad.~FC~#076
+;00000169{~1E~~04~d~7E~When they learned of~FE~~04~~A4~~7E~Haggar's plans,~FC~}#068#044
+~1E~~04~d~7E~
+Al saber los planes de ~FE~~04~~A4~~7E~
+Haggar,     ~FC~#044
+;00000195{~1E~~FF~}#008#002
+~1E~~FF~#002
+;00000197{~04~d~7E~they took immediate~FE~~04~~A4~~7E~action to bring this new~FE~~04~~E4~~7E~mayor under their control.~FD~}#114#081
+~04~d~7E~
+tomaron acción inmediata~FE~~04~~A4~~7E~
+para traer al nuevo~FE~~04~~E4~~7E~
+alcalde bajo su control.  ~FD~#081
+;000001E8{~1E~~FF~}#008#002
+~1E~~FF~#002
+;000001EA{~04~~A4~~7E~Hello, Mike Haggar here.~FC~}#040#028
+~04~~A4~~7E~Hola, aquí Mike Haggar. ~FC~#028
+;00000206{~1E~~08~~A4~~7E~Hee hee hee, Mr. Haggar.~FE~~08~~E4~~7E~So pleased to make your~FE~~08~$~7F~acquaintance.~FC~}#109#073
+~1E~~08~~A4~~7E~
+Hee hee hee, Sr. Haggar.~FE~~08~~E4~~7E~
+Estoy muy contento de~FE~~08~$~7F~
+conocerle.     ~FC~#073
+;0000024F{~1E~~FF~}#008#002
+~1E~~FF~#002
+;00000251{~08~~A4~~7E~I believe you know~FE~~08~~E4~~7E~who I am.~FE~~08~$~7F~Don't hang up!~FC~}#086#053
+~08~~A4~~7E~
+Creo que sabe quien soy.~FE~~08~~E4~~7E~
+¡No cuelgue!   ~FE~~08~$~7F~
+  ~FC~#053
+;00000286{~1E~~08~~A4~~7E~We have a little business~FE~~08~~E4~~7E~proposition for you...~FC~}#083#056
+~1E~~08~~A4~~7E~
+Tenemos una pequeña oferta~FE~~08~~E4~~7E~
+de negocio para Vd...~FC~#056
+;000002BE{~1E~~08~~A4~~7E~Your daughter for your~FE~~08~~E4~~7E~cooperation.~FE~~08~$~7F~And we'll throw in the~FC~}#105#069
+~1E~~08~~A4~~7E~
+Su hija por su        ~FE~~08~~E4~~7E~
+cooperación.~FE~~08~$~7F~
+También le daremos el ~FC~#069
+;00000303{~1E~~08~~A4~~7E~regular monthly bonus to~FE~~08~~E4~~7E~your salary we offered~FE~~08~$~7F~before.~FC~}#102#066
+~1E~~08~~A4~~7E~
+bono regular mensual a~FE~~08~~E4~~7E~
+su salario que le ~FE~~08~$~7F~
+ofrecimos.   ~FC~#066
+;00000345{~1E~~04~~A4~~7E~What?! What's happened to~FE~~04~~E4~~7E~Jessica?~FE~~04~$~7F~Who is this?!~FC~}#095#059
+~1E~~04~~A4~~7E~¡¿Qué?! ¿Qué le pasó a   ~FE~~04~~E4~~7E~Jessica?~FE~~04~$~7F~¡¿Quién es?! ~FC~#059
+;00000380{~1E~~08~~A4~~7E~Not so fast, Mike.~FE~~08~~E4~~7E~Turn on your TV.~FF~}#070#043
+~1E~~08~~A4~~7E~Más despacio, Mike.~FE~~08~~E4~~7E~Encienda su TV.~FF~#043
+;000003AB{~04~~A4~~7E~You fiend !~FE~~04~~E4~~7E~What have you done to~FE~~04~$~7F~her?~FC~}#081#048
+~04~~A4~~7E~¡Desalmado!~FE~~04~~E4~~7E~¿Qué le habeis hecho?~FE~~04~$~7F~    ~FC~#048
+;000003DB{<~08~~A4~~7E~Nothing yet...but we will~FE~~08~~E4~~7E~if you don't cooperate~FE~~08~$~7F~Listen to reason.~FC~}#110#077
+<~08~~A4~~7E~Nada aún... pero se lo~FE~~08~~E4~~7E~haremos si no coopera. ~FE~~08~$~7F~
+Sea sensato.       ~FC~#077
+;00000428{~1E~~08~~A4~~7E~Why make your job~FE~~08~~E4~~7E~difficult?~FC~}#063#036
+~1E~~08~~A4~~7E~
+¿Por qué lo hace ~FE~~08~~E4~~7E~
+difícil?  ~FC~#036
+;0000044C{~1E~~FF~}#008#002
+~1E~~FF~#002
+;0000044E{~08~~A4~~7E~Just let us do as we~FE~~08~~E4~~7E~please like the mayor~FE~~08~$~7F~before you did.~FD~}#101#068
+~08~~A4~~7E~
+Sólo déjenos hacer lo que~FE~~08~~E4~~7E~
+queramos como el ex   ~FE~~08~$~7F~
+alcalde. ~FD~#068
+;00000492{~1E~~FF~}#008#002
+~1E~~FF~#002
+;00000494{~04~~A4~~7E~What?! Jessica was~FE~~04~~E4~~7E~kidnapped?!~FE~~04~$~7F~The Mad Gears must pay!~FD~}#097#064
+~04~~A4~~7E~
+¿¡Qué?!~FE~~04~~E4~~7E~
+¿Jessica fue raptada?!~FE~~04~$~7F~
+¡El Mad Gear lo pagará!~FD~#064
+;000004D4{P~FF~}#005#002
+P~FF~#002
+;000004D6{~04~b~7C~PROFILE OF CODY~FE~~04~~EC~~7C~Cody~FE~~04~,}Age: 22~FE~~04~l}Height: 5'11''~FE~~04~~AC~}Weight: 187pounds~FE~~04~~EC~}Favorite foods:~FE~~04~0~7E~Spinach, Milk~FE~~04~l~7E~He is a martialarts~FE~~04~~AC~~7E~expert. He is~FE~~04~~EC~~7E~especially good~FE~~04~,~7F~with knives.~FC~}#290#188
+~04~b~7C~
+PERFIL DE CODY~FE~~04~~EC~~7C~Cody~FE~~04~,}
+Edad: 22~FE~~04~l}
+Altura: 185 cm~FE~~04~~AC~}
+Peso:   80 kg~FE~~04~~EC~}
+Comida favorita:~FE~~04~.~7E~
+Espinacas, Leche~FE~~04~l~7E~
+Es experto en artes~FE~~04~~AC~~7E~
+marciales.   ~FE~~04~~EC~~7E~
+Muy bueno con los~FE~~04~,~7F~
+cuchillos.~FC~#188
+;00000592{<~04~~EC~~7C~His girlfriend,~FE~~04~,}Jessica, was~FE~~04~l}Kidnapped by the~FE~~04~~AC~}Mad Gear gang.~FD~}#107#074
+<~04~~EC~~7C~
+Su novia,   ~FE~~04~,}
+Jessica, fue~FE~~04~l}
+secuestrada por la~FE~~04~~AC~}
+banda Mad Gear.~FD~#074
+;000005DC{<~FF~}#005#002
+<~FF~#002
+;000005DE{~04~b~7C~PROFILE OF HAGGAR~FE~~04~~EC~~7C~Haggar~FE~~04~,}Age: 46~FE~~04~l}Height: 6'8''~FE~~04~~AC~}Weight: 267pounds~FE~~04~~EC~}Favorite Foods:~FE~~04~.~7E~Hamburger,~FE~~04~n~7E~Baked potato~FE~~04~~AC~~7E~He is a former~FE~~04~~EC~~7E~champion Street~FE~~04~,~7F~Fighter.~FC~}#280#178
+~04~b~7C~
+PERFIL DE HAGGAR~FE~~04~~EC~~7C~Haggar~FE~~04~,}
+Edad: 46~FE~~04~l}
+Altura: 202 cm~FE~~04~~AC~}
+Peso:   140 kg ~FE~~04~~EC~}
+Comida favorita:~FE~~04~.~7E~
+Hamburguesa ~FE~~04~n~7E~
+Patata al horno ~FE~~04~~AC~~7E~
+Es excampeón de~FE~~04~~EC~~7E~
+Lucha Callejera.~FE~~04~,~7F~
+~FC~#178
+;00000690{<~04~~EC~~7C~He's the new mayor~FE~~04~,}of Metro City.~FE~~04~l}He has mastered~FE~~04~~AC~}Professional~FE~~04~~EC~}wrestling skills~FE~~04~,~7E~and is expert in~FE~~04~l~7E~the BACK DROP and~FE~~04~~AC~~7E~the PILE DRIVER.~FD~}#229#157
+<~04~~EC~~7C~
+Es el nuevo alcalde~FE~~04~,}
+de Metro City.~FE~~04~l}
+Ha dominado  ~FE~~04~~AC~}
+habilidades de~FE~~04~~EC~}
+lucha libre y es un~FE~~04~,~7E~
+experto con el~FE~~04~l~7E~
+Back Drop y el Pile~FE~~04~~AC~~7E~
+Driver.     ~FD~#157
+;0000072D{<~FF~}#005#002
+<~FF~#002
+;0000072F{~08~~EF~~7C~Oh father!~FE~~08~/}I was so~FE~~08~o}scared...~FD~}#063#039
+~08~~EF~~7C~
+¡Oh, padre!~FE~~08~/}
+Tenía  ~FE~~08~o}
+miedo... ~FD~#039
+;00000756{<~FE~~04~~EF~}I'm so glad to~FE~~04~/~7E~see they didn't~FE~~04~o~7E~hurt you.~FE~~04~~AF~~7E~I'm so sorry,~FE~~04~~EF~~7E~Jessica.~FC~}#135#081
+<~FE~~04~~EF~}
+Me alegra tanto~FE~~04~/~7E~
+ver que no te ~FE~~04~o~7E~
+hirieron.~FE~~04~~AF~~7E~
+Lo siento,   ~FE~~04~~EF~~7E~
+Jessica.~FC~#081
+;000007A7{~1E~~04~~EF~~7C~I thought I'd~FE~~04~/}lost you like~FE~~04~o}I lost your~FE~~04~~AF~}mother. I'll~FE~~04~~EF~}never let~FE~~04~/~7E~anything bad~FE~~04~o~7E~happen to you~FE~~04~~AF~~7E~again.~FD~}#197#122
+~1E~~04~~EF~~7C~
+Pensé que te~FE~~04~/}
+perdía como  ~FE~~04~o}
+perdí a tu ~FE~~04~~AF~}
+madre.~FE~~04~~EF~}
+No dejaré que~FE~~04~/~7E~
+te pase nada~FE~~04~o~7E~
+malo nunca   ~FE~~04~~AF~~7E~
+más.     ~FD~#122
+;00000821{<~FF~}#005#002
+<~FF~#002
+;00000823{~08~~0F~~7F~I love you~FE~~08~U~7F~father.~FD~}#046#025
+~08~~0F~~7F~Te quiero ~FE~~08~U~7F~padre. ~FD~#025
+;0000083C{x~FF~}#005#002
+x~FF~#002
+;0000083E{~08~~EF~~7C~Where are you~FD~}#029#017
+~08~~EF~~7C~¿A dónde vas?~FD~#017
+;0000084F{~16~~FE~~08~/}going?~FD~}#024#012
+~16~~FE~~08~/}      ~FD~#012
+;0000085B{p~FE~~08~o}How can you~FD~}#026#017
+p~FE~~08~o}¿Cómo vas a~FD~#017
+;0000086C{~16~~FE~~08~~AF~}just walk away~FD~}#035#020
+~16~~FE~~08~~AF~}irte así?     ~FD~#020
+;00000880{~16~~FE~~08~~EF~}now?~FD~}#025#010
+~16~~FE~~08~~EF~}    ~FD~#010
+;0000088A{p~FE~~04~O~7E~I want to stay~FD~}#032#020
+p~FE~~04~O~7E~Quiero estar  ~FD~#020
+;0000089E{~16~~FE~~04~~8F~~7E~here with you~FD~}#037#019
+~16~~FE~~04~~8F~~7E~aquí contigo,~FD~#019
+;000008B1{~16~~FE~~04~~CF~~7E~Jessica, ~FD~}#033#015
+~16~~FE~~04~~CF~~7E~Jessica, ~FD~#015
+;000008C0{~16~~FE~~04~~0F~~7F~but I can't~FD~}#035#017
+~16~~FE~~04~~0F~~7F~pero no... ~FD~#017
+;000008D1{~10~.~FD~}#009#003
+~10~ ~FD~#003
+;000008D4{~10~.~FD~}#009#003
+~10~ ~FD~#003
+;000008D7{~10~.~FC~}#009#003
+~10~ ~FC~#003
+;000008DA{j~04~~EF~~7C~not while evil~FD~}#031#019
+j~04~~EF~~7C~puedo mientras~FD~#019
+;000008ED{~16~~FE~~04~/}still stalks~FD~}#030#018
+~16~~FE~~04~/}el mal siga ~FD~#018
+;000008FF{~16~~FE~~04~o}the streets.~FD~}#030#018
+~16~~FE~~04~o}en la calle.~FD~#018
+;00000911{p~FE~~08~~CF~}Oh Cody...~FD~}#028#016
+p~FE~~08~~CF~}Oh Cody...~FD~#016
+;00000921{~FF~}#004#001
+~FF~#001
+|2338
+@0001F5CC-0001F76E-FE
+;00000000{SELECT PLAYER%~7C~ ~10~CODY1~7C~ ~18~HAGGAR~87~},$GAME OVERE} ,BONUS STAGEd~7E~ ~14~ROUNDr~7E~ ~14~CLEARG} $BREAK CARo~7E~ ~04~1o~7E~ ~04~2o~7E~ ~04~3o~7E~ ~04~4o~7E~ ~04~4O~7E~ ~04~5E} ,BREAK GLASSK}(~14~CODY!~A3~~7E~(~0C~1ST~A3~~7E~(~0C~2ND~A3~~7E~(~0C~3RDK} ~14~READYK}$~14~START~09~} ~1C~PERFECTd~7E~$~14~ROUNDr~7E~$~14~CLEARo~7E~$~04~1o~7E~$~04~2o~7E~$~04~3o~7E~$~04~4o~7E~$~04~4O~7E~$~04~5~87~}$$TIME OVERG}$$BREAK CARE}$,BREAK GLASS~09~}$~1C~PERFECT~86~~7E~$(CONTINUE10~96~~7E~$~08~ 9~96~~7E~$~08~ 8~96~~7E~$~08~ 7~96~~7E~$~08~ 6~96~~7E~$~08~ 5~96~~7E~$~08~ 4~96~~7E~$~08~ 3~96~~7E~$~08~ 2~96~~7E~$~08~ 1~96~~7E~$~08~ 0~18~~7F~,~04~E~1A~~7F~,~04~N~1C~~7F~,~04~DD~7E~ ~14~ROUNDR~7E~ ~14~CLEARD~7E~$~14~ROUNDR~7E~$~14~CLEAR}#728#419
+ELIGE JUGADOR%~7C~ ~10~CODY1~7C~ ~18~HAGGAR~87~},$GAME OVERE} ,ESCENA BONOd~7E~ ~14~RONDAr~7E~ ~14~ACABAG} $ ROMPELO o~7E~ ~04~1o~7E~ ~04~2o~7E~ ~04~3o~7E~ ~04~4o~7E~ ~04~4O~7E~ ~04~5E} ,  ROMPELO  K}(~14~CODY!~A3~~7E~(~0C~1RO~A3~~7E~(~0C~2DO~A3~~7E~(~0C~3ROK} ~14~LISTOK}$~14~ YA  ~09~} ~1C~GENIAL d~7E~$~14~RONDAr~7E~$~14~ACABAo~7E~$~04~1o~7E~$~04~2o~7E~$~04~3o~7E~$~04~4o~7E~$~04~4O~7E~$~04~5~87~}$$NO TIEMPOG}$$ ROMPELO E}$,  ROMPELO  ~09~}$~1C~GENIAL ~86~~7E~$(CONTINUA10~96~~7E~$~08~ 9~96~~7E~$~08~ 8~96~~7E~$~08~ 7~96~~7E~$~08~ 6~96~~7E~$~08~ 5~96~~7E~$~08~ 4~96~~7E~$~08~ 3~96~~7E~$~08~ 2~96~~7E~$~08~ 1~96~~7E~$~08~ 0~18~~7F~,~04~E~1A~~7F~,~04~N~1C~~7F~,~04~DD~7E~ ~14~RONDAR~7E~ ~14~ACABAD~7E~$~14~RONDAR~7E~$~14~ACABA#419
+|419

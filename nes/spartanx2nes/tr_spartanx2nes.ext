@@ -1,0 +1,84 @@
+@000000D3-00000A72-00
+;00000000{STAGE ~26~ CLEAR~00~}#020#014
+ETAPA ~26~ ACABA~00~#014
+;0000000E{~21~~71~=~21~~AF~Flamey Joe=^~0F~SMUGGLER~00~}#045#027
+~21~~71~=~21~~AF~Flamey Joe=^~0F~{CO}{NT}{RA}{BA}{ND}{IS}{TA} ~00~#027
+;00000029{~21~~71~=~21~~AF~Chin Gen Sai=^~0F~SMUGGLER~00~}#047#029
+~21~~71~=~21~~AF~Chin Gen Sai=^~0F~{CO}{NT}{RA}{BA}{ND}{IS}{TA} ~00~#029
+;00000046{~21~~71~=~21~~AF~Billy Bailey=^~0F~SMUGGLER~00~}#047#029
+~21~~71~=~21~~AF~Billy Bailey=^~0F~{CO}{NT}{RA}{BA}{ND}{IS}{TA} ~00~#029
+;00000063{~21~~71~=~21~~AF~Mr. Benjamin=^~0F~SMUGGLER~00~}#047#029
+~21~~71~=~21~~AF~Mr. Benjamin=^~0F~{CO}{NT}{RA}{BA}{ND}{IS}{TA} ~00~#029
+;00000080{~21~~71~=~21~~AF~Madda Lin=^~0F~SMUGGLER~00~}#044#026
+~21~~71~=~21~~AF~Madda Lin=^~0F~{CO}{NT}{RA}{BA}{ND}{IS}{TA} ~00~#026
+;0000009A{~21~~48~=~21~~AC~ALL CLEAR~00~}#030#015
+~21~~48~=~21~~AC~TERMINADO~00~#015
+;000000A9{~21~~06~=^hTRACY:Hi Jonny!~21~~86~=/^JONNY:Hey Tracy!^~0C~~21~~06~=^hTRACY:Did you find Flamey?^~0C~~21~~86~=^hJONNY:I'm after him now.=/\He's headed downtown=/~68~on the train.^~0C~=^hJONNY:Gotta go catch him=/\before he arrives!~21~~06~=/~62~TRACY:Got it!~00~}#261#213
+~21~~06~=^hTRACY:¡Jonny!  ~21~~86~=/^
+JONNY:¡Eh Tracy!^~0C~~21~~06~=^h
+TRACY:¿Hallaste a Flamey? ^~0C~~21~~86~=^h
+JONNY:Voy tras él ahora.=/\Va a los bajos fondos =/~68~en tren.   ^~0C~=^h
+JONNY:¡Voy a atraparle antes=/\de que llegue!~21~~06~=/~62~
+TRACY:¡Vale! ~00~#213
+;0000017E{~21~~86~=^hJONNY:Hey Steve!~21~~06~=/^STEVE:Hey Jonny!=/~68~How'd it go?^~0C~~21~~86~=^hJONNY:I put the heat on=/\him. But...^~0C~=^hJONNY:I hear there's a drug=/\deal going down at=/~68~the docks.^~0C~=^hJONNY:This magician, Chin=/\Gen Sai, is buying.^~0C~~21~~06~=^hSTEVE:Gotcha! Don't do=/\anything foolish!=/~68~Wait for backup!~00~}#336#288
+~21~~86~=^h
+JONNY:¡Eh Steve!~21~~06~=/^
+STEVE:¡Eh Jonny!=/~68~¿Cómo fue?  ^~0C~~21~~86~=^h
+JONNY:Le puse calor.   =/\Pero...    ^~0C~=^h
+JONNY:Oí que hay un trato de=/\drogas en los muelles.=/~68~     ^~0C~=^h
+JONNY:Este mago, Chin Gen=/\Sai, va a comprar. ^~0C~~21~~06~=^h
+STEVE:¡Bien! ¡No hagas nada=/\estúpido!=/~68~¡Espera refuerzos! ~00~#288
+;0000029E{~21~~86~=^hJONNY:Hey Steve!~21~~06~=/^STEVE:What is it?^~0C~~21~~86~=^hJONNY:The drug shipment=/\is coming in!^~0C~=^hJONNY:I'm going to check=/\something out.^~0C~~21~~06~=^hSTEVE:Don't tell me you=/\already got rid of=/~68~Sai?!^~0C~~21~~86~=^hJONNY:Er...^~0C~~21~~06~=^hSTEVE:Arrgh!=/\I said to wait...!~00~}#310#253
+~21~~86~=^h
+JONNY:¡Eh Steve!~21~~06~=/^
+STEVE:¿Qué pasa? ^~0C~~21~~86~=^h
+JONNY:¡Llega el envío de=/\drogas!     ^~0C~=^h
+JONNY:Voy a comprobar una=/\cosa.   ^~0C~~21~~06~=^h
+STEVE:¡¿No me digas que ya=/\te libraste de Sai?!^~0C~~21~~86~=^h
+JONNY:Er...^~0C~~21~~06~=^h
+STEVE:¡Argh!=/\¡Dije que =/~68~esperaras...!~00~#253
+;0000039B{~21~~86~=^hJONNY:Hey Tracy!~21~~06~=/^TRACY:Hi Jonny!=/~68~Steve is in a rage!^~0C~~21~~86~=^hJONNY:I know. By the way,=/\there's more to this=/~68~than just one ship.^~0C~=^hJONNY:I've got a tip that=/\a circus troupe is=/~68~transporting drugs.^~0C~=^hJONNY:Tracy, get a heli-=/\copter ready!^~0C~~21~~06~=^hTRACY:OK! What are you=/\doing?^~0C~~21~~86~=^hJONNY:No time to explain!=/\Gotta go!^~0C~~21~~06~=^hTRACY:Got it!=/\...I hope Steve isn't=/~68~mad...~00~}#463#394
+~21~~86~=^h
+JONNY:¡Eh Tracy!~21~~06~=/^
+TRACY:¡Eh Jonny! =/~68~¡Steve se enfadó!^~0C~~21~~86~=^h
+JONNY:Lo sé. Por cierto, =/\hay más en esto que un=/~68~solo barco.      ^~0C~=^h
+JONNY:Tengo una pista de que=/\un circo está=/~68~transportando drogas.^~0C~=^h
+JONNY:Tracy, ¡prepara un=/\helicóptero! ^~0C~~21~~06~=^h
+TRACY:¡OK! ¿Qué vas a hacer?^~0C~~21~~86~=^h
+JONNY:¡No tengo tiempo!=/\¡Debo irme!   ^~0C~~21~~06~=^h
+TRACY:¡Vale!=/\Ojalá Steve no se  =/~68~enfade...~00~#394
+;00000525{~21~~86~=^hJONNY:Hey Steve!~21~~06~=/^STEVE:Hey what?=/~68~Where are you?^~0C~~21~~86~=^hJONNY:I'm not sure...=/\The circus is a long=/~68~way away.^~0C~~21~~06~=^hSTEVE:Don't joke around!~21~~86~=/^JONNY:No, really!^~0C~=^hJONNY:I think I'm on my way=/\to the smuggling boss=/~68~Shi Son's lair.^~0C~~21~~06~=^hSTEVE:No! That's beyond=/\foolish!~00~}#350#290
+~21~~86~=^h
+JONNY:¡Ey Steve!~21~~06~=/^
+STEVE:¿Ey qué? =/~68~¿Dónde estás? ^~0C~~21~~86~=^h
+JONNY:No lo sé...    =/\El circo está muy   =/~68~lejos.   ^~0C~~21~~06~=^h
+STEVE:¡No bromees!      ~21~~86~=/^
+JONNY:¡En serio! ^~0C~=^h
+JONNY:Creo que voy de camino=/\a la guarida del jefe=/~68~Shi Son.      ^~0C~~21~~06~=^h
+STEVE:¡No! ¡Eso es de =/\estúpido!~00~#290
+;00000647{~21~~86~=^hJONNY:Hey Tracy!~21~~06~=/^TRACY:Jonny! You're safe!^~0C~~21~~86~=^hJONNY:I beat Shi Son, but=/\I found an even=/~68~bigger drug factory.^~0C~=^hJONNY:Will you come meet=/\me?^~0C~~21~~06~=^hTRACY:Oh, don't worry.=/\Steve is sending out=/~68~the SWAT team.^~0C~~21~~86~=^hJONNY:Huh?! Well, okay.^~0C~=^hJONNY:Can you do me a=/\favor, and say that=/~68~I'm dead?~00~}#376#319
+~21~~86~=^h
+JONNY:¡Ey Tracy!~21~~06~=/^
+TRACY:Jonny, ¡estás bien!^~0C~~21~~86~=^h
+JONNY:Vencí a Shi Son, pero=/\hallé una fábrica de=/~68~drogas mayor.^~0C~=^h
+JONNY:¿Vendrás a verme? =/\   ^~0C~~21~~06~=^h
+TRACY:No te preocupes.=/\Steve te envía al   =/~68~equipo SWAT.  ^~0C~~21~~86~=^h
+JONNY:¡¿Eh?¡ Bueno.    ^~0C~=^h
+JONNY:¿Puedes hacerme un=/\favor y decir que  =/~68~morí? ~00~#319
+;00000786{~21~~06~=^jSON:Welcome, Keiji=/\Thomas! Er, now it's=/~68~Jonny Spartan, eh?^~0C~=^jSON:It's been a while.~21~~86~=/^JONNY:Where are you?!^~0C~~21~~06~=^jSON:You've done pretty=/\well up until now.^~0C~=^jSON:You know, it wouldn't=/\be very interesting=/~68~just to shoot you.^~0C~=^jSON:Instead, I've=/\prepared a special=/~68~stage.^~0C~=^jSON:Clear it, and you can=/\fight me.^~0C~=^jSON:Although I'll simply=/\kill you.=/~68~Hahaha!~00~}#440#389
+~21~~06~=^j
+SON:Bienvenido, ¡Keiji=/\Thomas! Bueno...=/~68~¿Jonny Spartan?   ^~0C~=^j
+SON:Ha pasado tiempo. ~21~~86~=/^
+JONNY:¡¿Dónde estás?!^~0C~~21~~06~=^j
+SON:Lo has hecho bien=/\hasta ahora.       ^~0C~=^j
+SON:Ya sabes, no sería muy=/\interesante solo=/~68~dispararte.       ^~0C~=^j
+SON:En vez de eso,=/\he preparado una =/~68~etapa.^~0C~=^j
+SON:Acábala si puedes y=/\lucharemos.^~0C~=^j
+SON:Aunque simplemente te=/\mataré. =/~68~¡JaJaJa! ~00~#389
+;0000090B{~21~n=^n199X:Jonny Spartan=/\destroyed the drug=/~68~ring.~00~}#062#053
+~21~n=^n199X:Jonny Spartan=/\cerró la red de =/~68~drogas.~00~#053
+;00000940{~21~n~0C~=^nBut his job does not=/\end here.~00~}#048#039
+~21~n~0C~=^nPero su trabajo no=/\ha acabado.~00~#039
+;00000967{~21~n~0C~=^nAs long as crime=/\exists, the battle=/~68~continues.~00~}#069#057
+~21~n~0C~=^nMientras exista =/\crimen, la batalla=/~68~continua. ~00~#057
+|2464

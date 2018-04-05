@@ -1,0 +1,4 @@
+set T_FILENAME="Kabuki - Quantum Fighter (U) [!].nes"
+set SCRIPTNAME="kabuki"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false 4011-4CFE-FF,7AC8-7F09-FF,FC67-FCEF-FF,FD41-FDC2-FF,10024-1005F-FF,118B0-11C4D-FF,11C4E-11F2F-FF,1BFA4-1BFE9-FF
+pause

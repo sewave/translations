@@ -1,0 +1,28 @@
+~B0~ = his, her 		=>" y "," y "END
+~B1~ = himself, herself =>
+~B2~ = he, she 			=> o, a
+~B3~ = him, her 		=>
+~B4~ = man, lady		=>
+~B5~ = He's, She's 		=> hijo, hijaEND
+~B6~ = son, daughter	=>
+~B7~ = null sin compañeros, s con compañeros
+~EB~ = salto de linea en texto de npc
+
+(inverso?)
+~B9~ = she 
+~BA~ = her
+~BB~ = lady
+~BC~ = she's
+~BD~ = daughter
+
+~BE~ = y
+~BF~ = an
+
+~C0~ = s si mas de uno (en batalla)
+
+~6B~ = guion
+
+73A MAX MP (4)
+72b MAX HP (4)
+
+7bc => 3 bytes money

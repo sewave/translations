@@ -1,0 +1,12 @@
+@00028FA7-00028FB5-FF
+;00000000{Game Select    }#015#015
+Slige Modo     #015
+|15
+@00028FD0-00028FDD-FF
+;00000000{Standard Mode }#014#014
+Modo Gormal   #014
+|14
+@00028FF8-00029005-FF
+;00000000{Light Mode    }#014#014
+Modo Ligero   #014
+|14

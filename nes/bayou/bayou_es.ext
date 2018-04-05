@@ -1,0 +1,334 @@
+@00007B57-00007B60-FF
+;00000000{GAME~01~~01~OVER}#016#010
+GAME~01~~01~OVER#010
+|10
+@000136F9-0001375C-FF-FE
+;00000000{YOUR SCORE~69~~FF~}#018#012
+TUS PUNTOS~69~~FF~#012
+;0000000C{~20~~C7~YOUR SCORE~69~~FF~}#026#014
+~20~~C7~TUS PUNTOS~69~~FF~#014
+;0000001A{~21~~6A~YOUR  BONUS~FE~}#023#014
+~21~~6A~ TU  BONUS ~FE~#014
+;00000028{~21~~AB~~46~~41~~41~~41~  PTS~FE~}#033#012
+~21~~AB~~46~~41~~41~~41~  PTS~FE~#012
+;00000034{~21~~AB~~44~~41~~41~~41~  PTS~FE~}#033#012
+~21~~AB~~44~~41~~41~~41~  PTS~FE~#012
+;00000040{~21~~AB~~43~~41~~41~~41~  PTS~FE~}#033#012
+~21~~AB~~43~~41~~41~~41~  PTS~FE~#012
+;0000004C{~21~~AB~~42~~41~~41~~41~  PTS~FE~}#033#012
+~21~~AB~~42~~41~~41~~41~  PTS~FE~#012
+;00000058{~21~~AB~~46~~41~~41~   PTS~FE~}#030#012
+~21~~AB~~46~~41~~41~   PTS~FE~#012
+|100
+@0001378E-00013799-FF-FE
+;00000000{PLAY SELECT~FE~}#015#012
+MODO JUEGO ~FE~#012
+|12
+@00013832-0001384C-FF-FE
+;00000000{HI~69~~FF~}#010#004
+HI~69~~FF~#004
+;00000004{~20~~01~PL~69~~FF~}#018#006
+~20~~01~JU~69~~FF~#006
+;0000000A{~20~ABULLET~69~~FF~}#019#010
+~20~A BALAS~69~~FF~#010
+;00000014{~23~~6D~QUIZ~FE~}#016#007
+~23~~6D~PREG~FE~#007
+|27
+@0001379C-0001379E-FF
+;00000000{L~69~~FF~}#009#003
+V~69~~FF~#003
+|3
+@000137C4-000137C6-FF
+;00000000{R~69~~FF~}#009#003
+R~69~~FF~#003
+|3
+@00013991-00013999-FF-FE
+;00000000{CONTINUE~FE~}#012#009
+~6F~ONTINUA~FE~#009
+|9
+@000139B8-000139BE-FF
+;00000000{STAGE ~FF~}#010#007
+ETAPA ~FF~#007
+|7
+@000139C1-000139CB-FE
+;00000000{GAME  OVER~FE~}#014#011
+GAME  OVER~FE~#011
+|11
+@000139D3-000139D8-FF
+;00000000{TIME~69~~FF~}#012#006
+TIE.~69~~FF~#006
+|6
+@00013A90-00013AD8-FF-FD
+;00000000{THIS STAGE~FD~}#014#011
+ESTE STAGE~FD~#011
+;0000000B{~22~w USE THE~FD~}#017#011
+~22~w USA EL ~FD~#011
+;00000016{~22~~CA~CONTROLLER~6C~~FE~~22~ATHIS STAGE~FD~}#045#027
+~22~~CA~~6F~ONTROL~6C~   ~FE~~22~AESTE STAGE~FD~#027
+;00000031{~22~x  USE THE~FD~}#018#012
+~22~x  USA LA ~FD~#012
+;0000003D{~22~~CB~  ZAPPER~6C~~FE~}#024#012
+~22~~CB~  ZAPPER~6C~~FE~#012
+|73
+@00013BE9-00013BEF-FF
+;00000000{STAGE ~FF~}#010#007
+STAGE ~FF~#007
+|7
+@00013C08-00013C12-FF
+;00000000{new orleans}#011#011
+new orleans#011
+|11
+@00013C25-00013C49-FE
+;00000000{THE~FD~~21~AADVENTURES~FD~~21~~8F~OF~FD~~21~~CA~BAYOU  BILLY~FE~}#064#037
+LAS~FD~~21~AAVENTURAS ~FD~~21~~8F~DE~FD~~21~~CA~BAYOU  BILLY~FE~#037
+|37
+@00013C64-00013C6F-FF
+;00000000{SOUND SELECT}#012#012
+ELIGE SONIDO#012
+|12
+@00013C78-00013C93-FD-FE
+;00000000{·· BGM STOP~FD~}#015#012
+·· PARA MUS~FD~#012
+;0000000C{~22~~AF~B·· BGM START~FE~}#025#016
+~22~~AF~B·· TOCA MUSI~FE~#016
+|28
+@0001620C-000166DD-FF
+;00000000{PRACTICE MODE~FF~}#017#014
+MODO PRÁCTICA~FF~#014
+;0000000E{STREET FIGHTING GAME~FF~}#024#021
+JUEGO LUCHA CALLE   ~FF~#021
+;00000023{ACTION DRIVING GAME~FF~}#023#020
+JUEGO CONDUCCIÓN   ~FF~#020
+;00000037{SHOOT-'EM-UP GAME A~FF~}#023#020
+JUEGO DE DISPAROS A~FF~#020
+;0000004B{SHOOT-'EM-UP GAME B~FF~}#023#020
+JUEGO DE DISPAROS B~FF~#020
+;0000005F{THUGS MCGRAW~FF~}#016#013
+THUGS MCGRAW~FF~#013
+;0000006C{KID CREOLE~FF~}#014#011
+KID CREOLE~FF~#011
+;00000077{DAN GOULD~FF~}#013#010
+DAN GOULD~FF~#010
+;00000081{HURRICANE HANK~FF~}#018#015
+HURRICANE HANK~FF~#015
+;00000090{TOLOUSE L'ATTACK~FF~}#020#017
+TOLOUSE L'ATTACK~FF~#017
+;000000A1{LOUIS TOR-TURE~FF~}#018#015
+LOUIS TOR-TURE~FF~#015
+;000000B0{MIGRANE MIKE~FF~}#016#013
+MIGRANE MIKE~FF~#013
+;000000BD{THE CAJUN~FE~  CUT THROAT~FF~}#029#023
+ EL CAJUN~FE~  CUT THROAT~FF~#023
+;000000D4{A.L. HURT~FF~}#013#010
+A.L. HURT~FF~#010
+;000000DE{SWAMP GAS CHARLIE~FF~}#021#018
+SWAMP GAS CHARLIE~FF~#018
+;000000F0{    ROCKY~FF~}#013#010
+    ROCKY~FF~#010
+;000000FA{    ROCCO~FF~}#013#010
+    ROCCO~FF~#010
+;00000104{BLACKIE BLUE~FF~}#016#013
+BLACKIE BLUE~FF~#013
+;00000111{GODFATHER GORDON~FE~ THE GANGSTER~FE~  KING OF~FE~   BOURBON STREET~FF~}#071#059
+GODFATHER GORDON~FE~  EL GANGSTER~FE~  REY DE ~FE~   CALLE BOURBON ~FF~#059
+;0000014C{BILLY WEST~FF~}#014#011
+BILLY WEST~FF~#011
+;00000157{ANNABELLE LANE~FF~}#018#015
+ANNABELLE LANE~FF~#015
+;00000166{BAD GUY A,B,C~FF~}#017#014
+BAD GUY A,B,C~FF~#014
+;00000174{PUNK~FF~}#008#005
+PUNK~FF~#005
+;00000179{FROGMAN~FF~}#011#008
+FROGMAN~FF~#008
+;00000181{FATMAN~FF~}#010#007
+FATMAN~FF~#007
+;00000188{CHAINMAN~FF~}#012#009
+CHAINMAN~FF~#009
+;00000191{WHIPMASTER~FF~}#014#011
+WHIPMASTER~FF~#011
+;0000019C{DOGMASTER~FF~}#013#010
+DOGMASTER~FF~#010
+;000001A6{BOSS A,B~FF~}#012#009
+BOSS A,B~FF~#009
+;000001AF{HEIRS TO GORDON'S~FE~  UNDERWORLD THRONE~FF~}#044#038
+HEREDERO DEL TRONO~FE~ DEL INFRAMUNDO   ~FF~#038
+;000001D5{BILLY~FF~}#009#006
+BILLY~FF~#006
+;000001DB{ANNABELLE~FF~}#013#010
+ANNABELLE~FF~#010
+;000001E5{IRONMAN~FF~}#011#008
+IRONMAN~FF~#008
+;000001ED{   KI UTO~FF~}#013#010
+   KI UTO~FF~#010
+;000001F7{                          ~FF~}#030#027
+                          ~FF~#027
+;00000212{-STAFF-~FF~}#011#008
+-STAFF-~FF~#008
+;0000021A{PROGRAM~FF~}#011#008
+CÓDIGO ~FF~#008
+;00000222{CHARACTER DESIGN~FF~}#020#017
+DISEÑO PERSONAJE~FF~#017
+;00000233{~62~ MUSIC AND SOUND ~62~~FF~}#029#020
+~62~ MÚSICA Y SONIDO ~62~~FF~#020
+;00000247{SHINAMON AOYAMA~FF~}#019#016
+SHINAMON AOYAMA~FF~#016
+;00000257{GRASSHOPPER OGAWA~FF~}#021#018
+GRASSHOPPER OGAWA~FF~#018
+;00000269{SAI TSUKASA~FF~}#015#012
+SAI TSUKASA~FF~#012
+;00000275{MOON NAKAMOTO~FF~}#017#014
+MOON NAKAMOTO~FF~#014
+;00000283{SUSUMU KUSAKA~FF~}#017#014
+SUSUMU KUSAKA~FF~#014
+;00000291{BONO BONO EBISU~FF~}#019#016
+BONO BONO EBISU~FF~#016
+;000002A1{MAD JUN~FF~}#011#008
+MAD JUN~FF~#008
+;000002A9{MANAGER~FF~}#011#008
+GERENTE~FF~#008
+;000002B1{DIRECTOR~FF~}#012#009
+DIRECTOR~FF~#009
+;000002BA{ORIGINAL WRITER~FF~}#019#016
+GUIÓN ORIGINAL ~FF~#016
+;000002CA{GAME PLANNER~FF~}#016#013
+PLAN JUEGO  ~FF~#013
+;000002D7{ASSISTANT~FF~}#013#010
+AYUDANTE ~FF~#010
+;000002E1{GRAPHIC DESIGN~FF~}#018#015
+DISEÑO GRÁFICO~FF~#015
+;000002F0{VISUAL DESIGN~FF~}#017#014
+DISEÑO VISUAL~FF~#014
+;000002FE{KONAMI BUG CHECKERS~FF~}#023#020
+BUSCA BUGS KONAMI  ~FF~#020
+;00000312{TITLE DESIGN~FF~}#016#013
+DISEÑO TÍTUL~FF~#013
+;0000031F{NEW ORINZU~FF~}#014#011
+NEW ORINZU~FF~#011
+;0000032A{Mt.FUJIO~FF~}#012#009
+Mt.FUJIO~FF~#009
+;00000333{NEW CUPLE OGURA~FF~}#019#016
+NEW CUPLE OGURA~FF~#016
+;00000343{Mr.KINOSHITA~FF~}#016#013
+Mr.KINOSHITA~FF~#013
+;00000350{Miss.KITAOKA~FF~}#016#013
+Miss.KITAOKA~FF~#013
+;0000035D{K AOYAMA    K AOYAMA~FF~}#024#021
+K AOYAMA    K AOYAMA~FF~#021
+;00000372{Mr.KONAMI~FF~}#013#010
+Mr.KONAMI~FF~#010
+;0000037C{A.KOIKE     A.NOZAKI~FF~}#024#021
+A.KOIKE     A.NOZAKI~FF~#021
+;00000391{E.EBISU     H.EDA~FF~}#021#018
+E.EBISU     H.EDA~FF~#018
+;000003A3{H.YAMANE    J.HANDA~FF~}#023#020
+H.YAMANE    J.HANDA~FF~#020
+;000003B7{KAZUCHAN    K.KAWAMINAMI~FF~}#028#025
+KAZUCHAN    K.KAWAMINAMI~FF~#025
+;000003D0{K.SYO       M.KURONO~FF~}#024#021
+K.SYO       M.KURONO~FF~#021
+;000003E5{N.NAKAZATO  OSUMI~FF~}#021#018
+N.NAKAZATO  OSUMI~FF~#018
+;000003F7{NOBUCHAN    FUJIMOTO NIGOU~FF~}#030#027
+NOBUCHAN    FUJIMOTO NIGOU~FF~#027
+;00000412{SHINSAN     S.MURATA~FF~}#024#021
+SHINSAN     S.MURATA~FF~#021
+;00000427{SOUP        T.HAGIHARA~FF~}#026#023
+SOUP        T.HAGIHARA~FF~#023
+;0000043E{URAT        Y.KIKUCHI~FF~}#025#022
+URAT        Y.KIKUCHI~FF~#022
+;00000454{SHIMONETA KENJI~FF~}#019#016
+SHIMONETA KENJI~FF~#016
+;00000464{NAKAMOTO ICHIGOU~FF~}#020#017
+NAKAMOTO ICHIGOU~FF~#017
+;00000475{LONELY KAMBE~FF~}#016#013
+LONELY KAMBE~FF~#013
+;00000482{SHINAMON AND SAIMON~FF~}#023#020
+SHINAMON Y SAIMON  ~FF~#020
+;00000496{MICHAEL MAEZAWA~FF~}#019#016
+MICHAEL MAEZAWA~FF~#016
+;000004A6{JACQUE KILLSTOW~FF~}#019#016
+JACQUE KILLSTOW~FF~#016
+;000004B6{SPECIAL THANKS~FF~}#018#015
+MUCAS GRACIAS ~FF~#015
+;000004C5{Mr.KOBAYASHI~FF~}#016#013
+Mr.KOBAYASHI~FF~#013
+|1234
+@0001685F-00016FC2-FF
+;00000000{Billy!~FE~I'm taking Annabelle away.~FF~}#040#034
+Billy!~FE~Me llevo a Annabelle.~FF~#034
+;00000022{If you want her back, you~FE~will have to come to my~FF~}#056#050
+Si la quieres de vuelta,~FE~tendrás que venir a mi~FF~#050
+;00000054{estate. You will find that~FE~before reaching the estate~FF~}#060#054
+finca. Veras que antes de ~FE~llegar a la finca habrá   ~FF~#054
+;0000008A{there will be many~FE~obstacles to overcome.~FF~}#048#042
+muchos obstáculos que~FE~superar.~FF~#042
+;000000B4{Let's see if you have what~FE~it takes to get here.~FF~}#055#049
+Veamos si tienes lo que~FE~hay que tener y vienes.~FF~#049
+;000000E5{Billy, don't worry,~FE~your lovely Annabelle is~FE~safe with me.~FF~}#068#059
+Billy, no te preocupes,~FE~Annabelle esta a salvo~FE~aquí.~FF~#059
+;00000120{You're pretty good with~FE~guns--but don't be too~FE~confident.~FF~}#067#058
+Eres bueno con las armas--~FE~pero no te confíes~FE~demasiado.~FF~#058
+;0000015A{You'll be finished before~FE~you know it.~FF~}#045#039
+Estarás acabado antes de~FE~que lo sepas.~FF~#039
+;00000181{I'm surprised you were~FE~able to do away with my~FE~men.~FF~}#061#052
+Me sorprende que pudieras~FE~con mis hombres.~FF~#052
+;000001B5{But just wait and see--I'm~FE~sending out the best to~FE~deal with you.~FF~}#075#066
+Pero espera y mira--Estoy~FE~enviando a lo mejor a por~FE~ti.~FF~#066
+;000001F7{You better be ready!~FF~}#024#021
+Estate preparado!   ~FF~#021
+;0000020C{Did you enjoy your drive?~FE~The fun is over now.~FF~}#053#047
+Disfrutaste conduciendo?~FE~Se acabo lo bueno.~FF~#047
+;0000023B{The road you are about to~FE~take is full of obstacles.~FE~Watch out, Billy!~FF~}#080#071
+La carretera que vas a~FE~coger esta llena de ~FE~obstáculos. Cuidado Billy!~FF~#071
+;00000282{Why don't you just give~FE~up! Go back home and catch~FE~some alligators.~FF~}#077#068
+Por que no te rindes!~FE~Vuelve a casa y caza algún~FE~caimán.~FF~#068
+;000002C6{You're better suited for~FE~gator hunting.~FF~}#046#040
+Se te da mejor cazar~FE~caimanes.~FF~#040
+;000002EE{How was Bourbon Street?~FE~Did you like the present~FE~I sent you?!~FF~}#071#062
+Como fue Calle Bourbon?~FE~Te gusto el regalo que te~FE~mande?!~FF~#062
+;0000032C{Welcome Billy,~FE~to my estate. I'm going to~FE~have a party for you.~FF~}#073#064
+Bienvenido Billy,~FE~a mi finca. Voy a hacerte~FE~una fiesta.~FF~#064
+;0000036C{And it will be the last~FE~one for you. HA! HA! HA!~FF~}#055#049
+Y sera la ultima para ti.~FE~HA! HA! HA! ~FF~#049
+;0000039D{I'm surprised you have~FE~come this far.~FF~}#044#038
+Me sorprende que llegues~FE~tan lejos.~FF~#038
+;000003C3{I can see that your love~FE~for Annabelle is strong.~FF~}#056#050
+Veo que tu amor por     ~FE~Annabelle es fuerte.    ~FF~#050
+;000003F5{But, I cannot let you have~FE~her.~FE~If you want Annabelle,~FF~}#064#055
+Pero no puedo dejarte~FE~tenerla.~FE~Si quieres a Annabelle,~FF~#055
+;0000042C{you'll have to take me on~FE~first.~FE~Let's see what you've got!~FF~}#069#060
+primero deberás librarte~FE~de mi.      ~FE~Veamos lo que tienes!~FF~#060
+;00000468{You're pretty good~FE~with guns!~FE~Don't be afraid of Gordon.~FE~As a reward,~FE~you will receive~FE~extra bullets.~FF~}#120#102
+Eres bueno con las armas! ~FE~No tengas miedo de Gordon.~FE~Como recompensa,        ~FE~recibirás balas extra.~FF~#102
+;000004CE{Your physical skills are~FE~great!~FE~You can outdo~FE~Gordon and his men with~FE~your punches and kicks.~FE~As a reward,~FE~you will receive a meatball.~FF~}#157#136
+Tienes una gran habilidad~FE~física!~FE~Superas a Gordon y sus~FE~hombres con tus punos y~FE~patadas.~FE~Como recompensa, recibirás~FE~una bola de carne.~FF~#136
+;00000556{You're an ace behind~FE~the wheel! As a reward,~FE~you will receive an extra~FE~life.~FE~Now go and rescue Annabelle!~FF~}#121#106
+Eres un as detrás del~FE~volante! Como recompensa,~FE~recibirás una vida extra.~FE~Ahora ve y rescata a~FE~Annabelle!~FF~#106
+;000005C0{You have the same power~FE~as Gordon.~FE~Hurry and rescue~FE~Annabelle--~FE~She is waiting for you!~FF~}#103#088
+Tienes el mismo poder que~FE~Gordon.~FE~Apúrate y rescata a~FE~Annabelle--~FE~Te esta esperando!~FF~#088
+;00000618{Thank you, Billy!~FF~}#021#018
+Gracias, Billy!~FF~#018
+;0000062A{Are you alright?~FF~}#020#017
+Estas bien?~FF~#017
+;0000063B{For a while I didn't~FE~know what was going to~FE~happen--~FF~}#062#053
+Durante un rato no supe~FE~que era lo que iba a~FE~pasar--~FF~#053
+;00000670{but I knew you would come.~FF~}#030#027
+pero sabia que vendrías.~FF~#027
+;0000068B{Just thinking of you is~FE~what got me this far.~FF~}#052#046
+Pensar en ti es lo que~FE~me ha llevado aquí.~FF~#046
+;000006B9{I'm never going to let~FE~you go.~FF~}#037#031
+No voy a dejarte ir nunca~FE~mas.~FF~#031
+;000006D8{I can never let you~FE~experience something~FE~like this again.~FF~}#067#058
+No puedo dejarte volver~FE~a pasar por esto nunca~FE~más.~FF~#058
+;00000712{I don't want to ever be~FE~apart from you again.~FF~}#052#046
+No quiero separarme nunca~FE~más de ti.~FF~#046
+;00000740{I love you, Annabelle.~FF~}#026#023
+Te quiero, Annabelle.~FF~#023
+;00000757{Oh, Billy···~FF~}#016#013
+Oh, Billy···~FF~#013
+|1892
+@0001A4C0-0001A5DF-FF
+;00000000{ BGM A   BGM B   BGM C   HIGHWAY BOSS    GLASS   PAUSE   SELECT  PL OUT  CLEAR   OVER    BULLET  LIFE    ONE UP  PUNCH   FALL    DOG A   DOG B   GATOR   CHAIN   WHIP    TRUCK   WO!     WOO!    YO!     ZAPPER  PISTOL  DAMAGE  REBOUND BAZOOKA HELI    PLANE   BOSS OUT                ENDING }#288#288
+ BGM A   BGM B   BGM C   HIGHWAY BOSS    GLASS   PAUSE   SELECT  PL OUT  CLEAR   OVER    BULLET  LIFE    ONE UP  PUNCH   FALL    DOG A   DOG B   GATOR   CHAIN   WHIP    TRUCK   WO!     WOO!    YO!     ZAPPER  PISTOL  DAMAGE  REBOUND BAZOOKA HELI    PLANE   BOSS OUT                ENDING #288
+|288

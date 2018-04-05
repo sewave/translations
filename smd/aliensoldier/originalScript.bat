@@ -1,0 +1,4 @@
+set T_FILENAME="Alien Soldier (E) [!].gen"
+set SCRIPTNAME="aliensoldier"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false 4748-4927-FF,5B3E-6BB6-FF,B05F-B0D7-FF,BC7C-BCD9-FF,20180-20371-FF,20DDE-210DA-FF,22347-226AE-40-FF,22D52-24145-FF,
+pause

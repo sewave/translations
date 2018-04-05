@@ -1,0 +1,3 @@
+java -jar Hextractor.jar -a powerblade.tbl "Power Blade (U) [!].nes" powerblade.txt false 743F-7DAA-FF,1c85f-1c9ac-FD-FE,6d0-802-ff,1caf6-1cafb-fe,1cb0a-1cb0f-fe,1cb1e-1cb23-fe,1cb32-1cb37-fe,1cb46-1cb4b-fe,1cb5a-1cb5f-fe
+java -jar Hextractor.jar -a powerbladeTitle.tbl "Power Blade (U) [!].nes" powerbladeTitle.txt false 1CA54-1ca59-fe,1CA5C-1ca64-fe,1cc0b-1cc19-fd,1Cc1c-1cc25-fe,10f38-10f3c-ff,10f51-10f58-ff,10f79-10f8d-ff
+pause

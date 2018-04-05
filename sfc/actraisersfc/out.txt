@@ -1,0 +1,888 @@
+        1 archivo(s) copiado(s).
+HEXTRACTOR v0.8 (c) Wave 14/07/2017 
+ Type -? for help. / Escribe -? para ayuda
+Inserting hex file "actraisersfc.hex"
+ to file "TR_ActRaiser (J) [T+ENG].smc".
+DUMPING 020C04180478720C7E7CFECC22CC0976020C0418023C196677667F7E1E60023C020C0418180004381C181C180418023C020C0418023C1966776677661166023C020C041811661166776677661166053A0039314E0000007C7F66776611661166100C100C180038183818783840304030100C1C001C0C3C0C7838E7638463403E0106020C021C3F2637267F7F186310630000023C9966FF70FE3CBF0E9966023C00000A04040E040E000E000E000E0A0400000E0C0E0C04080A040600000000000000383038302810182030000000000000003F363F3612242D121B00000000000000FCD8FCD8B4486C90D80000000000000000000000000038303830081018200000000000000000FFFEFF0000000000000000000000000000000000E0C0E0C0000005060A0C141828305060A0C0C000
+TO @000E5860:000E598F 304 BYTES
+
+DUMPING 000007070704070407040704070407060000FF9CFF1CFF26FF26FF7FFF63FF630000FF3EFF63FF60FF60FF61FF73FF3E0000FF7FFF4CFF0CFF0CFF0CFF0CFF1E0000FF9FFFB1FF31FF31FF31FF31FF1F0000F030F090F090F090F090F090F030
+TO @000E5220:000E527F 96 BYTES
+
+DUMPING 0000FFE3FF07FF06FF06FF06FF07FFE30000FFE7FF33FF03FF03FF13FF33FFE70000FFE7FF34FF30FFE0FF40FF60FF310000FFF9FFC8FFC0FFC0FFC0FFC0FFE704064466FEFF447E44664C6E406C3C3E000000FF4AB5BD31393139310831047B000000FF649BDD99DF9DDF99449B00FF0000811E44B9FDF9FF5FDF188418821C0000027C39C6E7C6E7C6E7C631C6027C00000003000303030303030300030003000012ECC23CBE3CFEECEE0C820C8007000024D822DCFFDEFFDFFFDB24D94498000000FF126D6F4CEE4CEECC22CC21DE0000023D04191D191D19FDD924D9087000004499449BDF9BDF9BDF9B449B08F1000010E168918302FB72FF17499609F60000408F4986E7C6E7C6F7E61166106F0000408F26D9FDD9FDD9FDD924D9408F0000827C19E6F7E6FEFCFCE812EC9166000002FD9A65776179717961126502FD0000449B06C9EDC9FDE9FDB944B9449B000002FC619EDF8FEFCDEF8C429C02FC0000017E02ECEEECEE6C6E6C026C017E0000027C19E6E0C0FFDEFFC611E6017E0000027C39C6E7C6E7C6E7C631C6027C000001FE718E9E1C3C38787011E201FE0000027C39C6E7C6E7C6E7C631C6027C000021C611E2FBF2FFFAFFDE21CE21C60000043804387E4C6E4CFFFE31C621C600000000000103020302070701060106106021C620C7F7677767FFF689360936000008338817DF96FFD6FFF608770833
+TO @000E55B0:000E57AF 512 BYTES
+
+DUMPING 000004FB30CFEFCFFFFBFBC320C320C1000089368837BF37BF37BF36893611E60000003F841BDB93FBD3FBF308730837000001DE8C73FB33BB33BB338C33419E0000023C9966FF70FE3CBF0E9966023C
+TO @000E59B0:000E59FF 80 BYTES
+
+DUMPING 077002000403830200050AA6C000050FA6C0000514A6C0000619A6C0060001077042000403834200030AA68000030FA680000314A680000219A68004000404A00000FF08A00000080CA000000210A00004000404A10000FF08A10000080CA100
+TO @0000E5B0:0000E60F 96 BYTES
+
+HEXTRACTOR v0.8 (c) Wave 14/07/2017 
+ Type -? for help. / Escribe -? para ayuda
+Inserting ascii file "tr_actraisersfc.ext"
+ using table "actraisersfc.tbl"
+ to file "TR_ActRaiser (J) [T+ENG].smc".
+WARNING!!! STRING TOO SMALL (0095 - 0104)!!!
+~05~¡Santo Padre eterno!=Desde que la última=guarida fue sellada, ha=ido pasando algo=singular...~02~
+WARNING!!! STRING TOO SMALL (0066 - 0068)!!!
+He estado teniendo la=misma pesadilla una=y otra vez, cada noche.~02~
+WARNING!!! STRING TOO SMALL (0122 - 0127)!!!
+En mi sueño, un monstruo=llamado Minotauro sale de=un gran agujero al=sureste y mata a toda la=gente con una maldición...~02~
+WARNING!!! STRING TOO SMALL (0112 - 0114)!!!
+Puede que sea por mi=habilidad profética, pero=siento que la maldición=del monstruo ya ha=empezado a afectarme,~02~
+WARNING!!! STRING TOO SMALL (0031 - 0037)!!!
+y me está comiendo por=dentro.~02~
+WARNING!!! STRING TOO SMALL (0114 - 0118)!!!
+Padre, antes de que el=desastre ocurra, ¡por=favor descienda para=terminar con el Minotauro=de una vez por todas!~00~
+WARNING!!! STRING TOO SMALL (0063 - 0067)!!!
+~05~Te alabamos, Santo Padre.=Ya no quedan monstruos=en Fillmore.~02~
+WARNING!!! STRING TOO SMALL (0083 - 0089)!!!
+Pero mi marido fue=afligido por la maldición=del monstruo y murió hace=un momento.~02~
+WARNING!!! STRING TOO SMALL (0110 - 0122)!!!
+Con su último aliento,=dijo que al final su=habilidad profética=fue de utilidad para la=gente de Fillmore...=~02~
+WARNING!!! STRING TOO SMALL (0089 - 0096)!!!
+En cualquier caso, ya no=hay ningún monstruo. Desde=ahora, podemos hacerlo=bien sin vos.~02~
+WARNING!!! STRING TOO SMALL (0071 - 0078)!!!
+Fuera de este templo,=la gente esta cantando=sus alabanzas a su=Padre.~00~
+WARNING!!! STRING TOO SMALL (0082 - 0086)!!!
+~05~¡Santo Padre eterno!=Aquí en Fillmore, ¡hemos=desarrollado una nueva=tecnología!~02~
+WARNING!!! STRING TOO SMALL (0100 - 0102)!!!
+Hemos aprendido a=construir puentes sobre=ríos. Ahora podemos=construir casas al otro=lado del río.~00~
+WARNING!!! STRING TOO SMALL (0105 - 0110)!!!
+~05~¡Santo Padre eterno!=¡Ha estallado un incendio=en el asentamiento al=norte! Por favor,=¡¡envíe lluvia!!~00~
+WARNING!!! STRING TOO SMALL (0096 - 0098)!!!
+~05~¡Santo Padre eterno!=Hemos aprendido a cazar=animales. Ahora podemos=luchar con los monstruos.~02~
+WARNING!!! STRING TOO SMALL (0078 - 0082)!!!
+~05~Santo Padre, siento poder=sagrado de la gran roca en=el acantilado sureste.=~02~
+WARNING!!! STRING TOO SMALL (0045 - 0047)!!!
+Sospecho que puede haber=algo enterrado ahí.~00~
+WARNING!!! STRING TOO SMALL (0080 - 0083)!!!
+~05~Santo Padre.=He venido para decirle=que hemos descubierto=una misteriosa gema.~02~
+WARNING!!! STRING TOO SMALL (0070 - 0071)!!!
+Humildemente le=presentamos la gema como=ofrenda, acéptela por favor.~00~
+WARNING!!! STRING TOO SMALL (0081 - 0083)!!!
+He venido a decirle que=hemos descubierto un=pergamino en el bosque=más al este.~02~
+WARNING!!! STRING TOO SMALL (0104 - 0105)!!!
+He estado viendo extrañas=visiones en mi mente que=muy frecuentemente se=vuelven realidad en el=futuro.~02~
+WARNING!!! STRING TOO SMALL (0123 - 0128)!!!
+Si esto es realmente algún=tipo de poder y no solo=coincidencia, entonces=siento algo de poder en=el bosque más al este...~00~
+WARNING!!! STRING TOO SMALL (0090 - 0102)!!!
+En los océanos lejanos,=no solo pescamos=peces. A veces descubrimos=artefactos inusuales.~02~
+WARNING!!! STRING TOO SMALL (0049 - 0051)!!!
+Si encontramos algo=notable, se lo=informaremos.~00~
+WARNING!!! STRING TOO SMALL (0081 - 0082)!!!
+~05~¡Santo Padre eterno!=Hemos descubierto una=misteriosa gema mientras=pescábamos.~02~
+WARNING!!! STRING TOO SMALL (0105 - 0113)!!!
+~05~¡Santo Padre eterno!=Estoy aquí para decirle=que hemos descubierto una=escultura en forma de=esqueleto.~02~
+WARNING!!! STRING TOO SMALL (0123 - 0134)!!!
+~05~Santo Padre...=Aquí en Fillmore, hay un=follaje muy denso en el=paisaje, haciendo=extremadamente=difícil construir casas.~02~
+WARNING!!! STRING TOO SMALL (0097 - 0098)!!!
+Por favor use su relámpago=para quemar los árboles,=y diríjanos a donde quiere=que construyamos.~00~
+WARNING!!! STRING TOO SMALL (0094 - 0097)!!!
+~05~¡Santo Padre eterno!=Estoy aquí para decirle=que hemos descubierto una=misteriosa escultura.~02~
+WARNING!!! STRING TOO SMALL (0078 - 0087)!!!
+~05~Santo Padre...=Ha pasado algo terrible=desde que sellamos la=última guarida.~02~
+WARNING!!! STRING TOO SMALL (0102 - 0103)!!!
+Aparecieron monstruos del=castillo solitario cercano=al lago, ¡pidiendo=sacrificios humanos=nuestros!~02~
+WARNING!!! STRING TOO SMALL (0073 - 0077)!!!
+¡Padre, se lo imploro!=¡Vaya a luchar con los=monstruos en el castillo!=~02~
+WARNING!!! STRING TOO SMALL (0101 - 0103)!!!
+Mi hijo Teddy era un      =temerario. Estando en el=castillo como sacrificio,=encontró un pergamino.~02~
+WARNING!!! STRING TOO SMALL (0062 - 0068)!!!
+Ya no necesitamos que=nos vigile, podemos=apañárnoslas solos.~02~
+WARNING!!! STRING TOO SMALL (0071 - 0079)!!!
+Por favor vaya a otras=zonas y hágalas tan=pacíficas como a=Bloodpool.~00~
+WARNING!!! STRING TOO SMALL (0077 - 0089)!!!
+~05~Santo Padre...=Creo que ya sabe que hay=muchos ríos aquí en     =Bloodpool.~02~
+WARNING!!! STRING TOO SMALL (0034 - 0036)!!!
+¡Por favor, enséñenos=a crearlos!~00~
+WARNING!!! STRING TOO SMALL (0071 - 0072)!!!
+~05~Santo Padre...=Aquí en Bloodpool, hemos=empezado a pescar en el=lago.~02~
+WARNING!!! STRING TOO SMALL (0066 - 0072)!!!
+El otro día, encontramos=uno de sus hechizos en=una de las redes.~02~
+WARNING!!! STRING TOO SMALL (0069 - 0072)!!!
+~05~Santo Padre...=Hemos creado un camino a=Fillmore, la ciudad=vecina.~02~
+WARNING!!! STRING TOO SMALL (0064 - 0065)!!!
+Pretendemos enseñar a=la gente de Fillmore cómo=cultivar arroz.~00~
+WARNING!!! STRING TOO SMALL (0091 - 0094)!!!
+~05~Santo Padre...=Aquí en Bloodpool,=aprendimos a criar y=cultivar un cultivo=llamado arroz.~02~
+WARNING!!! STRING TOO SMALL (0080 - 0083)!!!
+Por favor comparta esta=tecnología con otras=zonas que no saben=cultivarlo aún.~00~
+WARNING!!! STRING TOO SMALL (0049 - 0053)!!!
+~05~Santo Padre...=¡Mi hijo Teddy ha huido de=casa!~02~
+WARNING!!! STRING TOO SMALL (0090 - 0093)!!!
+Todos lo han buscado por=todas partes, pero al   =final nadie fue capaz de  =encontrarle.~02~
+WARNING!!! STRING TOO SMALL (0125 - 0130)!!!
+Seguro que esté donde=esté, debe estar=hambriento. Tengo algo de=pan. Padre, por favor=llévele este trozo de pan=donde esté.~00~
+WARNING!!! STRING TOO SMALL (0118 - 0121)!!!
+~05~¡Santo Padre eterno!=¡¡Teddy ha vuelto a casa!!=Después de comer mi pan=casero, comenzó a sentir=nostalgia y volvió.~02~
+WARNING!!! STRING TOO SMALL (0102 - 0111)!!!
+Resulta que él no se=escapó de casa, sino que=intentaba descubrir por=que el lago es rojo y=venenoso.~02~
+WARNING!!! STRING TOO SMALL (0083 - 0094)!!!
+Según Teddy, el veneno del=agua viene de la Guarida=de Monstruos al lado del=lago.~02~
+WARNING!!! STRING TOO SMALL (0073 - 0079)!!!
+Le ofrecemos este cráneo=blanqueado que encontró=en la cueva.=Quédeselo.~00~
+WARNING!!! STRING TOO SMALL (0136 - 0145)!!!
+Apreté a la gente de la=ciudad tanto a desarrollar=más la misma sin tener=en cuenta sus propias=situaciones que les llevé= al límite...~02~
+WARNING!!! STRING TOO SMALL (0085 - 0086)!!!
+Padre, ¿tiene algún tipo=de milagro maravilloso que=pueda calmar sus almas=turbadas?~00~
+WARNING!!! STRING TOO SMALL (0068 - 0074)!!!
+Humildemente le damos el=aparato como=ofrenda, por=favor, acéptelo.~00~
+WARNING!!! STRING TOO SMALL (0034 - 0043)!!!
+Es con nuestro hijo mayor,=Teddy.~02~
+WARNING!!! STRING TOO SMALL (0008 - 0012)!!!
+Pues...~02~
+WARNING!!! STRING TOO SMALL (0076 - 0089)!!!
+Es un poco revoltoso y por=eso, está causando un buen=número de problemas.=~02~
+WARNING!!! STRING TOO SMALL (0098 - 0101)!!!
+Yo... no importa, minucias=como estas no deberían=preocuparle. Siento=haber estado molestándole.=~00~
+WARNING!!! STRING TOO SMALL (0084 - 0090)!!!
+~05~Santo Padre...=Aquí en Bloodpool, hay=zonas pantanosas donde no=podemos construir.~02~
+WARNING!!! STRING TOO SMALL (0057 - 0058)!!!
+~05~Santo Padre...=El diluvio reciente ha=inundado el lago.~02~
+WARNING!!! STRING TOO SMALL (0116 - 0117)!!!
+Cuando las aguas bajaron,=descubrimos una misteriosa=gema en las orillas del=lago. Por favor acéptela=como ofrenda.~00~
+WARNING!!! STRING TOO SMALL (0081 - 0086)!!!
+~05~Santo Padre...=Descubrimos una misteriosa=escultura cuando sellamos=la Guarida.~02~
+WARNING!!! STRING TOO SMALL (0095 - 0107)!!!
+~05~Santo Padre...=Cuando sellamos la=Guarida, Teddy buscó en=ella y descubrió un Arco=y Flechas.~02~
+WARNING!!! STRING TOO SMALL (0032 - 0033)!!!
+~05~Esa Pirámide nos=ha fascinado.~02~
+WARNING!!! STRING TOO SMALL (0094 - 0097)!!!
+Fuimos a investigarla=varias veces, pero nadie=que haya estado en el     =interior ha vuelto.~02~
+WARNING!!! STRING TOO SMALL (0096 - 0103)!!!
+Al sellar la última=Guarida, la pirámide=mostró su verdadera=cara... ¡Es un cubil de=monstruos!~02~
+WARNING!!! STRING TOO SMALL (0062 - 0064)!!!
+Padre, ¡por favor=descienda a la tierra y=selle esa pirámide!~00~
+WARNING!!! STRING TOO SMALL (0062 - 0068)!!!
+Ya no necesitamos que=nos vigile, podemos=apañárnoslas solos.~02~
+WARNING!!! STRING TOO SMALL (0072 - 0079)!!!
+Por favor, vaya a otras=zonas y hágalas tan=pacíficas como a=Cassandra.~00~
+WARNING!!! STRING TOO SMALL (0099 - 0100)!!!
+~05~Santo Padre...=Uno de nosotros deambuló=en el gran desierto y se=perdió. ¡Por favor guíenos=a él!~00~
+WARNING!!! STRING TOO SMALL (0065 - 0066)!!!
+~05~Santo Padre...=Muchísimas gracias por=guiarnos a nuestro amigo.~02~
+WARNING!!! STRING TOO SMALL (0103 - 0111)!!!
+Sin embargo cuando=llegamos a él, ya estaba=muerto. Estamos pensando=en enterrarlo cerca de su=templo.~02~
+WARNING!!! STRING TOO SMALL (0079 - 0084)!!!
+También, el hombre=agarraba un misterioso=pergamino en su mano=al encontrarle.~02~
+WARNING!!! STRING TOO SMALL (0036 - 0039)!!!
+Padre, le presentamos el=pergamino.~00~
+WARNING!!! STRING TOO SMALL (0076 - 0077)!!!
+~05~Santo Padre...=Aquí en Cassandra, hemos=desarrollado una nueva=tecnología.~02~
+WARNING!!! STRING TOO SMALL (0104 - 0108)!!!
+Se llama "música,~2B~ y la=inventé el otro día en=memoria del hombre que=tristemente murió en el=desierto.~02~
+WARNING!!! STRING TOO SMALL (0101 - 0106)!!!
+La música es una cosa=misteriosa, y cuando la=escuchas, calma tu corazón=sin importar la situación.=~02~
+WARNING!!! STRING TOO SMALL (0058 - 0060)!!!
+Padre, le ofrecemos esta=música como ofrenda de=este año.~00~
+WARNING!!! STRING TOO SMALL (0110 - 0111)!!!
+~05~Santo Padre...=Estoy aquí para informarle=de que hemos descubierto=un pergamino al pie de la=montaña al sur.~02~
+WARNING!!! STRING TOO SMALL (0111 - 0120)!!!
+~05~Hubo una gran lluvia en el=desierto al norte, y=cuando la arena se fue=había una pirámide gigante=tras ellas.~02~
+WARNING!!! STRING TOO SMALL (0134 - 0144)!!!
+Sentimos una presencia=maligna de esa pirámide.=En el futuro cercano=planeamos investigarla, y=le informaremos de lo que=encontremos.~00~
+WARNING!!! STRING TOO SMALL (0067 - 0070)!!!
+~05~Hemos descubierto una=antigua tabla bajo una=roca en el geoglifo.~02~
+WARNING!!! STRING TOO SMALL (0087 - 0092)!!!
+Parece hablar de una isla=en un lugar lejano que=tiene la misma forma que=el geoglifo.~02~
+WARNING!!! STRING TOO SMALL (0060 - 0067)!!!
+Le presentamos esta tabla=como ofrenda, por favor=acéptela.~00~
+WARNING!!! STRING TOO SMALL (0078 - 0095)!!!
+Eso solo no sería un=problema, pero hay algo=muy raro acerca de esa=pirámide.~02~
+WARNING!!! STRING TOO SMALL (0056 - 0061)!!!
+Ni una persona de las que=fue a investigarla ha=vuelto.~00~
+WARNING!!! STRING TOO SMALL (0073 - 0077)!!!
+Es como si la vida de la=gente se aspirara tan=fácilmente como una vela.~02~
+WARNING!!! STRING TOO SMALL (0072 - 0076)!!!
+Por favor, ¡denos=medicina! ¡Libérenos de=este tormento y denos la=paz!~00~
+WARNING!!! STRING TOO SMALL (0069 - 0070)!!!
+~05~Santo Padre...=La tierra de Cassandra=está en una región=desértica.~02~
+WARNING!!! STRING TOO SMALL (0091 - 0101)!!!
+Invoque tormentas donde=quiera que vayamos, para=volver el desierto verde y=lleno de vida.~00~
+WARNING!!! STRING TOO SMALL (0042 - 0044)!!!
+~05~Aquí en ~08~/~03~~F1~~AC~,=evolucionamos sin parar.=~02~
+WARNING!!! STRING TOO SMALL (0046 - 0047)!!!
+Es gracias a vos que=podemos trabajar en paz.~00~
+WARNING!!! STRING TOO SMALL (0085 - 0093)!!!
+~05~Santo Padre... Parte del=muro exterior de la=pirámide cayó con el=último terremoto.~02~
+WARNING!!! STRING TOO SMALL (0085 - 0089)!!!
+Al buscar en los=escombros, encontramos una=misteriosa gema.=Acéptela como ofrenda.=~00~
+WARNING!!! STRING TOO SMALL (0019 - 0025)!!!
+~05~Padre, ¡sálvenos!~02~
+WARNING!!! STRING TOO SMALL (0109 - 0116)!!!
+El volcán durmiente ha=vuelto a la vida y=erupcionado, y hay sonidos=de monstruos moviéndose=por el valle...~02~
+WARNING!!! STRING TOO SMALL (0081 - 0087)!!!
+Aitos no puede hacer nada=con un volcán en erupción=y una invasión de=monstruos.~02~
+WARNING!!! STRING TOO SMALL (0109 - 0113)!!!
+Por favor, descienda a la=tierra y luche, ¡por el=bien de la gente que=arriesgó sus vidas=sellando Guaridas!~00~
+WARNING!!! STRING TOO SMALL (0069 - 0070)!!!
+~05~¡Santo Padre eterno!=Los monstruos ya no=plagan la tierra de Aitos.~02~
+WARNING!!! STRING TOO SMALL (0062 - 0068)!!!
+Ya no necesitamos que=nos vigile, podemos=apañárnoslas solos.~02~
+WARNING!!! STRING TOO SMALL (0068 - 0075)!!!
+Por favor vaya a otras=zonas y hágalas tan=pacíficas como a Aitos.=~00~
+WARNING!!! STRING TOO SMALL (0094 - 0095)!!!
+~05~Padre! =Mi marido fue a sellar la=Guarida de Monstruos,=¡aunque ya estaba=gravemente herido!~02~
+WARNING!!! STRING TOO SMALL (0059 - 0073)!!!
+Con sus últimas fuerzas,=está en pie delante de su=templo.~02~
+WARNING!!! STRING TOO SMALL (0103 - 0107)!!!
+Sus últimas palabras=fueron "Al final, quiero=descansar mientras me lavo=en las lágrimas del=padre...~2B~~02~
+WARNING!!! STRING TOO SMALL (0045 - 0048)!!!
+Por favor invoque lluvia y=conceda su deseo.~00~
+WARNING!!! STRING TOO SMALL (0068 - 0072)!!!
+Hasta que mejore, yo=dirigiré el desarrollo=de Aitos por mí misma.=~00~
+WARNING!!! STRING TOO SMALL (0091 - 0092)!!!
+~05~¡Santo Padre eterno!=Aquí en Aitos, hemos=desarrollado la tecnología=de escalar-montañas.~02~
+WARNING!!! STRING TOO SMALL (0079 - 0080)!!!
+A veces encontramos cosas=que no hemos visto antes=en la cima de las=montañas.~02~
+WARNING!!! STRING TOO SMALL (0073 - 0078)!!!
+Si encontramos algo=especialmente inusual,=se lo diremos=inmediatamente.~00~
+WARNING!!! STRING TOO SMALL (0106 - 0111)!!!
+~05~¡Santo Padre eterno!=Estoy aquí para decirle=que hemos encontrado un=pergamino en la montaña al=noreste.~00~
+WARNING!!! STRING TOO SMALL (0096 - 0097)!!!
+~05~¡Santo Padre eterno!      =El viento ha muerto, y=nuestros molinos no=operan como quisiéramos.~02~
+WARNING!!! STRING TOO SMALL (0049 - 0051)!!!
+¿Podría mandar viento para=que vuelvan a operar?~00~
+WARNING!!! STRING TOO SMALL (0058 - 0060)!!!
+~05~Padre, hemos aprendido a=crear ropa de la piel de=oveja.~02~
+WARNING!!! STRING TOO SMALL (0075 - 0076)!!!
+Este año, nos gustaría    =presentarle estas pieles=de oveja como ofrenda.~00~
+WARNING!!! STRING TOO SMALL (0090 - 0104)!!!
+~05~Mi marido ha muerto.=Como no fue llovido, no=debió ser lo=suficientemente leal a=vos....~02~
+WARNING!!! STRING TOO SMALL (0082 - 0086)!!!
+~05~Mi marido parecía feliz y=en paz, siendo envuelto en=las lágrimas del padre....=~02~
+WARNING!!! STRING TOO SMALL (0040 - 0045)!!!
+Padre, gracias por=respetar sus deseos.~00~
+WARNING!!! STRING TOO SMALL (0083 - 0089)!!!
+~05~Santo Padre...=Esta tierra de Aitos es=un altiplano, lleno de=páramos y peñascos.~02~
+WARNING!!! STRING TOO SMALL (0102 - 0106)!!!
+Por favor destruya=la formaciones de rocas=con su relámpago,=para que la gente pueda=construir casas.~00~
+WARNING!!! STRING TOO SMALL (0077 - 0088)!!!
+~05~Santo Padre...=Estoy aquí para decirle=que encontramos uno de=sus hechizos.~02~
+WARNING!!! STRING TOO SMALL (0025 - 0026)!!!
+Señor ~06~, no hay=nadie...~02~
+WARNING!!! STRING TOO SMALL (0104 - 0105)!!!
+Señor ~06~, parece que=la única forma de resolver=este problema para vos es=luchar en ese templo=usted....~00~
+WARNING!!! STRING TOO SMALL (0113 - 0119)!!!
+Sin importar cuantas veces=construyamos casas, solo=son destruidas y sus=ocupantes asesinados por=los monstruos.~02~
+WARNING!!! STRING TOO SMALL (0128 - 0129)!!!
+Mientras intentábamos=descifrar que hacer con el=problema, vino un clérigo=sugirió que nos hiciéramos=siervos de los monstruos.~02~
+WARNING!!! STRING TOO SMALL (0098 - 0103)!!!
+No solo dejarían de=matarnos, sino que=viviríamos una vida=pacífica y agradable.=Y nos engañaron.~02~
+WARNING!!! STRING TOO SMALL (0126 - 0127)!!!
+Comprendo completamente=lo débil que es la=humanidad por esta=experiencia, y pienso que=soy una mejor persona como=resultado.~02~
+WARNING!!! STRING TOO SMALL (0045 - 0047)!!!
+Desde ahora, nunca más=nos opondremos a vos.~02~
+WARNING!!! STRING TOO SMALL (0062 - 0068)!!!
+Ya no necesitamos que=nos vigile, podemos=apañárnoslas solos.~02~
+WARNING!!! STRING TOO SMALL (0069 - 0076)!!!
+Por favor vaya a otras=zonas y hágalas tan=pacíficas como a Marana.=~00~
+WARNING!!! STRING TOO SMALL (0068 - 0069)!!!
+~05~Santo Padre...=Como jungla, Marana tiene=portadores de enfermedad.~02~
+WARNING!!! STRING TOO SMALL (0059 - 0065)!!!
+Este año, le ofrecemos=algo de esta medicina como=ofrenda.~02~
+WARNING!!! STRING TOO SMALL (0117 - 0118)!!!
+Si hay alguna otra tierra=lejana que esté sufriendo=de la plaga, por favor use=esta medicina para ayudar=a su gente.~00~
+WARNING!!! STRING TOO SMALL (0085 - 0088)!!!
+~05~Un número que incrementa=de gente ha empezado a=oponerse a vos, ~06~,=el Padre eterno.~02~
+WARNING!!! STRING TOO SMALL (0097 - 0105)!!!
+Es nuestro problema, así=que lo resolveremos, pero=pensé que debería=decírselo a vos=igualmente.~00~
+WARNING!!! STRING TOO SMALL (0066 - 0067)!!!
+~05~Santo Padre...=Encontramos una antigua=tabla que cayó del cielo.~02~
+WARNING!!! STRING TOO SMALL (0095 - 0103)!!!
+~05~Santo Padre...=Desafortunadamente no=descubrimos nada digno de=mención en la isla al=noreste.~02~
+WARNING!!! STRING TOO SMALL (0117 - 0121)!!!
+Sospechamos que allí hay=alguna cosa, pero hay=demasiados árboles y=espesa maleza que no=nos deja buscar=fácilmente.~02~
+WARNING!!! STRING TOO SMALL (0080 - 0084)!!!
+Pero no nos rendiremos.=Seguiremos volviendo hasta=que descubramos alguna=cosa.~00~
+WARNING!!! STRING TOO SMALL (0076 - 0082)!!!
+~05~Santo Padre...=Descubrimos uno de sus=hechizos mágicos en la=isla noreste.~02~
+WARNING!!! STRING TOO SMALL (0080 - 0095)!!!
+La gente dice que lo han=construido para adorarle,=pero hay algo extraño en=él.~02~
+WARNING!!! STRING TOO SMALL (0066 - 0070)!!!
+No como a los otros=edificios, los monstruos=no atacan el templo.~02~
+WARNING!!! STRING TOO SMALL (0065 - 0066)!!!
+Tengo un mal=presentimiento, pero quizá=solo sea mi imaginación.~00~
+WARNING!!! STRING TOO SMALL (0075 - 0080)!!!
+~05~Santo Padre...=Queremos proceder a la=isla noroeste y expandir=la ciudad.~02~
+WARNING!!! STRING TOO SMALL (0082 - 0086)!!!
+~05~¡Santo Padre eterno!=Pescando profundo, los=pescadores encontraron un=pergamino.~02~
+WARNING!!! STRING TOO SMALL (0067 - 0071)!!!
+~05~¡Santo Padre eterno!=Hemos comenzado a pescar=profundo en Marana.~02~
+WARNING!!! STRING TOO SMALL (0100 - 0102)!!!
+En los océanos lejanos,=no solo cazamos peces.    =A veces descubrimos       =artefactos inusuales.~02~
+WARNING!!! STRING TOO SMALL (0047 - 0051)!!!
+Si encontramos algo=destacable, se lo=diremos.~00~
+WARNING!!! STRING TOO SMALL (0071 - 0074)!!!
+¿Podemos hacer algo para=deshacernos de los bosques=y poder construir?~00~
+WARNING!!! STRING TOO SMALL (0067 - 0078)!!!
+~05~Santo Padre...=Hace un rato, cayó un=antigua tabla de los=cielos.~00~
+WARNING!!! STRING TOO SMALL (0084 - 0087)!!!
+~05~Santo Padre...=Estoy aquí para decirle=que hemos descubierto un=misterioso bastón.~02~
+WARNING!!! STRING TOO SMALL (0082 - 0083)!!!
+~05~Santo Padre...=¡Aparecieron monstruos en=el árbol gigante, símbolo=de Northwall!~02~
+WARNING!!! STRING TOO SMALL (0112 - 0119)!!!
+Cuando miramos ese árbol,=nos da un sentimiento de=admiración y nostalgia que=no podemos expresar con=palabras.~02~
+WARNING!!! STRING TOO SMALL (0086 - 0087)!!!
+Padre, ¡por favor proteja=el árbol! ¡Descienda a=tierra y luche contra los=monstruos!~00~
+WARNING!!! STRING TOO SMALL (0062 - 0073)!!!
+Ahora podemos hacer las=cosas solos. Muchas=gracias por todo.~00~
+WARNING!!! STRING TOO SMALL (0068 - 0069)!!!
+~05~Santo Padre...=Aquí en Northwall, hemos=aprendido a crear puentes.~02~
+WARNING!!! STRING TOO SMALL (0052 - 0056)!!!
+Ahora podemos construir=casas al otro lado del=río.~00~
+WARNING!!! STRING TOO SMALL (0111 - 0114)!!!
+~05~Santo Padre...=El lago finalmente se ha=mostrado desde debajo de=la gruesa capa de hielo=que lo cubría antes.~02~
+WARNING!!! STRING TOO SMALL (0041 - 0044)!!!
+Ahora empezaremos a pescar=en Northwall.~02~
+WARNING!!! STRING TOO SMALL (0070 - 0074)!!!
+Padre, ahora hasta este=lejano y duro entorno se=ha vuelto habitable.~00~
+WARNING!!! STRING TOO SMALL (0093 - 0099)!!!
+~05~La temperatura aquí es=terriblemente fría, tanto=que la ropa normal sirve=para calentarnos.~02~
+WARNING!!! STRING TOO SMALL (0081 - 0087)!!!
+Padre, ¿puede darnos=alguna prima que podamos=utilizar para hacer ropa=con ella?~00~
+WARNING!!! STRING TOO SMALL (0066 - 0067)!!!
+~05~Santo Padre...=¿Conoce ese árbol tan=grande que hay al noreste?=~02~
+WARNING!!! STRING TOO SMALL (0089 - 0093)!!!
+El otro día, dos de=nosotros fuimos al pie de=ese árbol, y encontramos=algo interesante.~02~
+WARNING!!! STRING TOO SMALL (0044 - 0054)!!!
+Había dos iniciales=grabadas en su tronco.=~02~
+WARNING!!! STRING TOO SMALL (0078 - 0083)!!!
+Esto es evidencia de que=había gente viviendo en la=zona hace miles de años.=~02~
+WARNING!!! STRING TOO SMALL (0089 - 0094)!!!
+También, entonces,=encontramos un pergamino=en las raíces del árbol.=Por favor acéptelo.~00~
+WARNING!!! STRING TOO SMALL (0069 - 0071)!!!
+~05~Santo Padre...=Esta tierra lejana de=Northwall está llena de=nieve.~02~
+WARNING!!! STRING TOO SMALL (0082 - 0086)!!!
+Por favor use la luz del=sol para derretir la nieve=y mostrarnos la tierra=verde.~00~
+WARNING!!! STRING TOO SMALL (0066 - 0074)!!!
+~05~Santo Padre...=Por favor perdóneme.=Le he estado ocultando=algo.~02~
+WARNING!!! STRING TOO SMALL (0085 - 0097)!!!
+El otro día, encontré una=misteriosa gema, pero era=tan hermosa que no se la=ofrecí.~02~
+WARNING!!! STRING TOO SMALL (0056 - 0063)!!!
+Le presento esta gema como=ofrenda, por favor=acéptela.~00~
+WARNING!!! STRING TOO SMALL (0087 - 0090)!!!
+~05~Santo Padre...=En las profundidades del=lago helado, encontramos=uno de sus hechizos.~02~
+WARNING!!! STRING TOO SMALL (0052 - 0053)!!!
+~05~Así que ha decidido no=hacer un milagro. Muy bien.~00~
+WARNING!!! STRING TOO SMALL (0061 - 0062)!!!
+~05~Su relámpago puede=destruir casas, campos,=rocas y árboles.~00~
+WARNING!!! STRING TOO SMALL (0061 - 0065)!!!
+=Señor ~06~, necesita=al menos 12 PH para=invocar al Relámpago.~00~
+WARNING!!! STRING TOO SMALL (0073 - 0082)!!!
+=Muy bien, entonces por=favor indique donde quiere=mandar el relámpago.=~00~
+WARNING!!! STRING TOO SMALL (0040 - 0041)!!!
+~05~Así que ha cambiado de=idea. Muy bien.~00~
+WARNING!!! STRING TOO SMALL (0022 - 0025)!!!
+~05~¿Usará el relámpago?~01~
+WARNING!!! STRING TOO SMALL (0102 - 0104)!!!
+~05~Enviando lluvias, puede=estimular el crecimiento=de la hierba y devolver la=vida a los campos secos.~00~
+WARNING!!! STRING TOO SMALL (0056 - 0060)!!!
+=Señor ~06~, necesita=al menos 16 PH para=invocar lluvias.~00~
+WARNING!!! STRING TOO SMALL (0040 - 0041)!!!
+~05~Así que ha cambiado de=idea. Muy bien.~00~
+WARNING!!! STRING TOO SMALL (0018 - 0021)!!!
+~05~¿Enviará lluvia?~01~
+WARNING!!! STRING TOO SMALL (0077 - 0078)!!!
+~05~Invocando al viento, puede=rechazar a los monstruos=que vuelan en el cielo.~00~
+WARNING!!! STRING TOO SMALL (0052 - 0056)!!!
+Muy bien, entonces los=vientos soplarán.=¿Correcto?~01~
+WARNING!!! STRING TOO SMALL (0040 - 0041)!!!
+~05~Así que ha cambiado de=idea. Muy bien.~00~
+WARNING!!! STRING TOO SMALL (0018 - 0024)!!!
+~05~¿Creará vientos?~01~
+WARNING!!! STRING TOO SMALL (0061 - 0068)!!!
+~05~Si invoca un terremoto=puede cambiar la forma de=la tierra.~00~
+WARNING!!! STRING TOO SMALL (0060 - 0061)!!!
+=Señor ~06~, necesita=al menos 60 PH para=causar un terremoto.~00~
+WARNING!!! STRING TOO SMALL (0063 - 0067)!!!
+=Esto probablemente=destruya unas cuantas=casas. ¿Está seguro?~01~
+WARNING!!! STRING TOO SMALL (0040 - 0041)!!!
+~05~Así que ha cambiado de=idea. Muy bien.~00~
+WARNING!!! STRING TOO SMALL (0025 - 0031)!!!
+~05~¿Causará un terremoto?=~01~
+WARNING!!! STRING TOO SMALL (0058 - 0060)!!!
+~05~La luz del sol secará los=pantanos y derretirá la=nieve.~00~
+WARNING!!! STRING TOO SMALL (0051 - 0055)!!!
+=Señor ~06~, necesita=al menos 18 PH para=que brille.~00~
+WARNING!!! STRING TOO SMALL (0046 - 0052)!!!
+=Enséñeme donde quiere=hacer brillar la luz.=~00~
+WARNING!!! STRING TOO SMALL (0040 - 0041)!!!
+~05~Así que ha cambiado de=idea. Muy bien.~00~
+WARNING!!! STRING TOO SMALL (0023 - 0027)!!!
+~05~¿Hará brillar la luz?~01~
+WARNING!!! STRING TOO SMALL (0069 - 0071)!!!
+~05~Señor ~06~, ¿en qué=dirección dejará a la=gente desarrollar la=ciudad?~00~
+WARNING!!! STRING TOO SMALL (0059 - 0061)!!!
+~05~~08~-~03~~5F~~D0~ se desarrollará=ahora en la dirección=especificada.~00~
+WARNING!!! STRING TOO SMALL (0030 - 0031)!!!
+~05~Así que ha cambiado de=idea.~00~
+WARNING!!! STRING TOO SMALL (0070 - 0074)!!!
+~05~Santo Padre...=Os agradecemos mucho=habernos dado esta bella=tierra.~02~
+WARNING!!! STRING TOO SMALL (0102 - 0106)!!!
+~05~Santo Padre...~08~-~03~~5F~~D0~=está falta de producción,=así que se ha vuelto=difícil incrementar la=población.~00~
+WARNING!!! STRING TOO SMALL (0103 - 0104)!!!
+~05~Santo Padre...=Hay algunos campos secos=en la ciudad. Por favor=devuélvales la vida con=sus milagros.~00~
+WARNING!!! STRING TOO SMALL (0060 - 0063)!!!
+~05~Santo Padre...=No hay espacio para=que construyamos casas.~02~
+WARNING!!! STRING TOO SMALL (0063 - 0064)!!!
+Por favor guíenos a=tierras sin desarrollar=para construir.   ~00~
+WARNING!!! STRING TOO SMALL (0094 - 0100)!!!
+~05~Santo Padre...=~08~-~03~~5F~~D0~ está=completamente desarrollada=no hay sitio donde=construir más casas.~00~
+WARNING!!! STRING TOO SMALL (0082 - 0091)!!!
+Oh, es verdad.=No olvidéis apagar la=consola mientras pulsáis=el Botón de Reset.=~01~
+WARNING!!! STRING TOO SMALL (0066 - 0068)!!!
+~05~El guardado se ha=completado.=¿Continuará construyendo=el mundo?~01~
+WARNING!!! STRING TOO SMALL (0041 - 0049)!!!
+~05~Señor ~06~, ¿grabará=el estado del mundo?=~01~
+WARNING!!! STRING TOO SMALL (0030 - 0031)!!!
+~05~Así que ha cambiado de=idea.~00~
+WARNING!!! STRING TOO SMALL (0064 - 0067)!!!
+m~D4~~D8~~D4~~F3~~D4~~0E~~D5~S~D5~~6F~~D5~ñ~D5~~A7~~D5~s~D5~~DF~~D5~~FB~~D5~~17~~D6~3~D6~O~D6~~6B~~D6~é~D6~~A3~~D6~o~D6~~DB~~D6~~F7~~D6~9Fuente de   = Vida    ~00~
+WARNING!!! STRING TOO SMALL (0007 - 0010)!!!
+Cráneo~00~
+WARNING!!! STRING TOO SMALL (0020 - 0026)!!!
+1~AD~ en esta=Guarida.~00~
+WARNING!!! STRING TOO SMALL (0044 - 0050)!!!
+~05~Señor ~06~, en=esta Guarida no hay=monstruos.~02~
+WARNING!!! STRING TOO SMALL (0058 - 0061)!!!
+¡¡Debemos apresurarnos y=guiar a la gente para=sellarla!!~00~
+WARNING!!! STRING TOO SMALL (0033 - 0037)!!!
+~F1~~AC~ ha=mejorado su Civilización.=~00~
+WARNING!!! STRING TOO SMALL (0002 - 0009)!!!
+.~00~
+WARNING!!! STRING TOO SMALL (0056 - 0063)!!!
+Señor ~06~, ¡veo que=ha recuperado su fuerza=por completo!~00~
+WARNING!!! STRING TOO SMALL (0029 - 0041)!!!
+~F1~~AC~,=tiene algo que contarle.~00~
+WARNING!!! STRING TOO SMALL (0064 - 0068)!!!
+~05~¡Parece que la gente=encontró algo en la=Guarida de Monstruos!~00~
+WARNING!!! STRING TOO SMALL (0101 - 0104)!!!
+~05~Señor ~06~, siento=interrumpirle, pero parece=que los humanos han=encontrado una Guarida de=Monstruos.~02~
+WARNING!!! STRING TOO SMALL (0057 - 0062)!!!
+Sin embargo, les ha=entrado el pánico y no se=acercarán.~02~
+WARNING!!! STRING TOO SMALL (0088 - 0089)!!!
+¿Quizá deberíamos guiarles=a la Guarida cuando la=población haya aumentado=un poco más?~00~
+WARNING!!! STRING TOO SMALL (0046 - 0053)!!!
+Observémosles un minuto=y veamos que sucede.=~00~
+WARNING!!! STRING TOO SMALL (0074 - 0076)!!!
+~05~¡Señor ~06~!=¡Los humanos sellaron=magistralmente la Guarida=por sí mismos!~02~
+WARNING!!! STRING TOO SMALL (0072 - 0076)!!!
+~05~¡Señor ~06~!=¡Volvamos rápido al=Castillo del Cielo y vamos=a la batalla!~00~
+WARNING!!! STRING TOO SMALL (0059 - 0060)!!!
+~F1~~AC~=estará bien por si misma=sin que les estemos=vigilando.~02~
+WARNING!!! STRING TOO SMALL (0082 - 0087)!!!
+~05~Ahora debemos proteger a=la gente y mantener sus=vidas a salvo de los=monstruos.~02~
+WARNING!!! STRING TOO SMALL (0051 - 0061)!!!
+Los círculos del suelo=son Guaridas de Monstruos.=~02~
+WARNING!!! STRING TOO SMALL (0077 - 0082)!!!
+Si guía a los humanos=hacia estas Guaridas,=ellos las sellarán para=siempre.~02~
+WARNING!!! STRING TOO SMALL (0026 - 0029)!!!
+~F1~~AC~=quedará sin monstruos,~02~
+WARNING!!! STRING TOO SMALL (0031 - 0040)!!!
+y será tierra solo de=humanos.~02~
+WARNING!!! STRING TOO SMALL (0067 - 0074)!!!
+~05~Bueno, Señor ~06~,=trabajemos por el bien de=esos pequeños humanos.=~00~
+WARNING!!! STRING TOO SMALL (0058 - 0066)!!!
+~05~Ese rayo destruyó un gran=peñasco debajo del=acantilado.~02~
+WARNING!!! STRING TOO SMALL (0074 - 0079)!!!
+Toda la magia era suya=originalmente, así que se=la devolvemos.=Acéptela.~00~
+WARNING!!! STRING TOO SMALL (0075 - 0080)!!!
+~05~Toda la magia era suya=originalmente, así que se=la devolvemos.=Acéptela.~00~
+WARNING!!! STRING TOO SMALL (0062 - 0064)!!!
+Solo mirándolo, siento un=gran poder creciendo=por mi cuerpo.~00~
+WARNING!!! STRING TOO SMALL (0065 - 0066)!!!
+~05~Santo Padre, esta es la=fuente de su magia.=Por favor acéptela.~00~
+WARNING!!! STRING TOO SMALL (0080 - 0084)!!!
+Por favor utilícelo para=transformar los campos de=otras personas en=arrozales.~00~
+WARNING!!! STRING TOO SMALL (0038 - 0039)!!!
+~05~Santo Padre, esto se llama=medicina.~02~
+WARNING!!! STRING TOO SMALL (0078 - 0089)!!!
+Si la hierves en agua y la=bebes, curará todo tipo de=plagas y enfermedades.=~00~
+WARNING!!! STRING TOO SMALL (0081 - 0082)!!!
+~05~Santo Padre, ese es el=orgullo de Fillmore, la=tecnología de construir=puentes.~02~
+WARNING!!! STRING TOO SMALL (0080 - 0082)!!!
+Con esta tecnología, la=gente puede cruzar ríos=y construir casas al otro=lado.~00~
+WARNING!!! STRING TOO SMALL (0090 - 0091)!!!
+~05~De acuerdo a la adivina,=esta gema emite una luz=que destruirá una Guarida=de Monstruos.~00~
+WARNING!!! STRING TOO SMALL (0105 - 0106)!!!
+Si se la das a la gente de=una zona con una isla así,=quizá puedan decirte      =alguna cosa sobre ella.~00~
+WARNING!!! STRING TOO SMALL (0085 - 0091)!!!
+~05~De acuerdo a la adivina,=esto emite una luz que=destruirá una Guarida de=Monstruos.~02~
+WARNING!!! STRING TOO SMALL (0063 - 0065)!!!
+Por favor úsela en una=Guarida que no podamos=sellar nosotros.~00~
+WARNING!!! STRING TOO SMALL (0041 - 0043)!!!
+~05~Santo Padre, esta es una=piel de oveja.~02~
+WARNING!!! STRING TOO SMALL (0077 - 0080)!!!
+~05~Si alza esto al aire,=destruirá a todos los=monstruos que vuelan=alrededor.~00~
+WARNING!!! STRING TOO SMALL (0109 - 0111)!!!
+Este es un aparato=maravilloso que te dice la=dirección en la que=viajas, hasta cuando estas=en mar abierto.~02~
+WARNING!!! STRING TOO SMALL (0056 - 0058)!!!
+Con él, la gente podrá=pescar en los mares más=lejanos.~00~
+WARNING!!! STRING TOO SMALL (0029 - 0031)!!!
+~05~Parece el Arco de un=Ángel.~00~
+WARNING!!! STRING TOO SMALL (0023 - 0024)!!!
+No tiene nada escrito.~00~
+WARNING!!! STRING TOO SMALL (0063 - 0069)!!!
+~05~¿Dónde lo usara?=Por favor indique donde=quiere que lo ponga.~00~
+WARNING!!! STRING TOO SMALL (0085 - 0086)!!!
+~05~Señor ~06~, ¡ha ganado=una vida extra para la=próxima vez que luche con=los monstruos!~00~
+WARNING!!! STRING TOO SMALL (0033 - 0039)!!!
+~05~Señor ~06~, ¡¡ha=ganado PM extra!!~00~
+WARNING!!! STRING TOO SMALL (0078 - 0096)!!!
+~05~Señor ~06~, ¿va a=darle esto a Teddy el=fugitivo, ¿verdad?=No lo tire por ahí.=~00~
+WARNING!!! STRING TOO SMALL (0071 - 0073)!!!
+~05~Me pregunto que pensará=Teddy cuando vea el trozo=de pan de su madre.~00~
+WARNING!!! STRING TOO SMALL (0057 - 0065)!!!
+Señor ~06~, cuando dio=el arroz al arrozal, ¡ganó=otro más!~00~
+WARNING!!! STRING TOO SMALL (0065 - 0066)!!!
+~05~Señor ~06~, no tiene=sentido usar el arroz si=no es en un arrozal.~00~
+WARNING!!! STRING TOO SMALL (0024 - 0025)!!!
+~05~No tiene nada escrito.~00~
+WARNING!!! STRING TOO SMALL (0049 - 0053)!!!
+~05~Señor ~06~, esta zona=no está afectada con=plagas.~00~
+WARNING!!! STRING TOO SMALL (0065 - 0074)!!!
+~05~Ahora, la gente de esta=tierra ya no se infectará=con la plaga.~00~
+WARNING!!! STRING TOO SMALL (0038 - 0043)!!!
+~05~Señor ~06~, no hay=ríos en esta tierra.~00~
+WARNING!!! STRING TOO SMALL (0061 - 0064)!!!
+~05~Señor ~06~, la tierra=ya tiene la=tecnología de crear=puentes.~00~
+WARNING!!! STRING TOO SMALL (0053 - 0054)!!!
+~05~Señor ~06~, ahora esta=tierra podrá construir=puentes.~00~
+WARNING!!! STRING TOO SMALL (0069 - 0072)!!!
+~05~Señor ~06~, creo que=esta tierra podrá=construir puentes más=adelante.~00~
+WARNING!!! STRING TOO SMALL (0082 - 0089)!!!
+~05~Puedes sentir los=sentimientos del hombre=que escribió la canción al=escucharla.~02~
+WARNING!!! STRING TOO SMALL (0065 - 0070)!!!
+Pero Señor ~06~, la=música calma los corazones=de quien la escucha.~02~
+WARNING!!! STRING TOO SMALL (0081 - 0082)!!!
+Pienso que sería mejor si=se lo diera a la gente que=esté angustiada y furiosa.=~00~
+WARNING!!! STRING TOO SMALL (0082 - 0089)!!!
+~05~Puedes sentir los=sentimientos del hombre=que escribió la canción al=escucharla.~02~
+WARNING!!! STRING TOO SMALL (0075 - 0092)!!!
+Señor ~06~, esto=debería calmar a la gente,=y pararán de luchar entre=ellos.=~00~
+WARNING!!! STRING TOO SMALL (0109 - 0112)!!!
+~05~En efecto hay una isla con=forma de pájaro en esta=tierra. Veamos que pasa=si le damos a la gente la=tabla.~00~
+WARNING!!! STRING TOO SMALL (0072 - 0079)!!!
+~05~Si no usa esto encima de=una Guarida de Monstruos,=no podrá sellarla.=~00~
+WARNING!!! STRING TOO SMALL (0041 - 0044)!!!
+~05~Señor ~06~, ¡¡la=Guarida ha sido sellada!!~00~
+WARNING!!! STRING TOO SMALL (0061 - 0063)!!!
+~05~Señor ~06~, ¿está=seguro de que es una buena=idea usarlo aquí?~02~
+WARNING!!! STRING TOO SMALL (0072 - 0078)!!!
+Creo que será mejor que lo=piense un poco más=detenidamente primero...=~00~
+WARNING!!! STRING TOO SMALL (0066 - 0072)!!!
+~05~Ahora la gente de=Northwall será capaz de=vivir sin congelarse.=~00~
+WARNING!!! STRING TOO SMALL (0062 - 0067)!!!
+~05~No tiene sentido darle=esto a una tierra donde no=hace frío.~00~
+WARNING!!! STRING TOO SMALL (0055 - 0057)!!!
+~05~Esta tierra ya tiene la=tecnología de hacer=brújulas.~00~
+WARNING!!! STRING TOO SMALL (0062 - 0067)!!!
+~05~Ahora esta tierra será=capaz de ir de pesca en=mar profundo.~00~
+WARNING!!! STRING TOO SMALL (0075 - 0083)!!!
+~05~No tiene sentido darle=esto a una tierra que aún=no pesca en el océano.=.~00~
+WARNING!!! STRING TOO SMALL (0041 - 0044)!!!
+~05~Mis Flechas de Ángel=son mas poderosas.~00~
+WARNING!!! STRING TOO SMALL (0022 - 0024)!!!
+~05~¿Está despierto, =~06~?~02~
+WARNING!!! STRING TOO SMALL (0065 - 0076)!!!
+Soy el Ángel que le=ayudará, ahora que ha=perdido todo su poder.~02~
+WARNING!!! STRING TOO SMALL (0067 - 0078)!!!
+Es obra del Señor Oscuro=Satanás, que robó todo su=poder, Señor ~06~.~02~
+WARNING!!! STRING TOO SMALL (0073 - 0090)!!!
+Para poder recuperar su=poder, necesitará la fe=y adoración de la gente,~02~
+WARNING!!! STRING TOO SMALL (0124 - 0134)!!!
+pero antes necesitará=descender a la tierra y=luchar con monstruos para=hacer la tierra habitable=para los humanos primero.~00~
+WARNING!!! STRING TOO SMALL (0058 - 0064)!!!
+~05~Bienvenido, Señor=~06~.=¿Está descansado y se=siente mejor?~02~
+WARNING!!! STRING TOO SMALL (0042 - 0048)!!!
+~05~Ahora elegirá el nombre=del Santo Padre.~02~
+WARNING!!! STRING TOO SMALL (0077 - 0081)!!!
+Pulse B para elegir letra=y el botón Y para cancelar.=Cuando termine, Start.~00~
+WARNING!!! STRING TOO SMALL (0053 - 0055)!!!
+pués de todo el trabajo=la gente ya no nos=necesita.~03~
+WARNING!!! STRING TOO SMALL (0058 - 0063)!!!
+=Vayamos y echemos un=vistazo a cada ciudad=desarrollada.~03~
+WARNING!!! STRING TOO SMALL (0076 - 0077)!!!
+~05~~04~Esto es Fillmore.=La gente se asentó en el=bosque y creó una gran=ciudad.~03~
+WARNING!!! STRING TOO SMALL (0123 - 0125)!!!
+=Este lugar tenía un hombre=cuyas visiones contaban=el futuro, ¿no?=Su habilidad salvó Filmoa,=pero le mató en el=proceso.~03~
+WARNING!!! STRING TOO SMALL (0086 - 0090)!!!
+=Aunque por supuesto, con=su habilidad, quizá ya=sabía que estaba a punto=de morir...~03~
+WARNING!!! STRING TOO SMALL (0061 - 0065)!!!
+=Desde el nacimiento, están=ligados a los hilos del=destino.~03~
+WARNING!!! STRING TOO SMALL (0124 - 0131)!!!
+=¿No crees que ese hombre=era un gran ejemplo de=humano y líder, que sabía=su destino de antemano, y=aún y así lo aceptaba?~03~
+WARNING!!! STRING TOO SMALL (0090 - 0103)!!!
+~05~~04~Esto es Bloodpool, aunque=ahora el lago es azul,=parece algo inapropiado=llamarle así.=~03~
+WARNING!!! STRING TOO SMALL (0043 - 0045)!!!
+=Aquel revoltoso joven,=Teddy, vivía aquí.~03~
+WARNING!!! STRING TOO SMALL (0081 - 0082)!!!
+=cuando un chico despunta=de esa forma, quiero darle=a él una atención=especial.~03~
+WARNING!!! STRING TOO SMALL (0088 - 0093)!!!
+=¿Recuerdas cómo la gente=de Bloodpool sorteaba=para decidir quien sería=el sacrificio?~03~
+WARNING!!! STRING TOO SMALL (0059 - 0069)!!!
+=En realidad, sé algo de=esa lotería que nadie más=conoce.~03~
+WARNING!!! STRING TOO SMALL (0106 - 0113)!!!
+=Estaba observando y vi que=Teddy deliberadamente=amañó la lotería para ser=elegido como el=sacrificio...~03~
+WARNING!!! STRING TOO SMALL (0102 - 0116)!!!
+~05~~04~Esta es la ciudad desierto=de Cassandra.=Aunque ahora no queda=mucho en forma de arenas=o residuos.~03~
+WARNING!!! STRING TOO SMALL (0087 - 0090)!!!
+=La gente de esta ciudad=dijo que eran cautivados=por la magia de la=pirámide de aquí.~03~
+WARNING!!! STRING TOO SMALL (0030 - 0035)!!!
+=¿Qué piensas de esta=teoría?~03~
+WARNING!!! STRING TOO SMALL (0127 - 0128)!!!
+=Los monstruos de la época=eran en realidad humanos-=esclavos forzados a      =construir la tumba donde=nacían como monstruos.~03~
+WARNING!!! STRING TOO SMALL (0094 - 0097)!!!
+=La energía dejada atrás=de sus memorias como=humanos fue lo que=fascinaba a toda la=gente...~03~
+WARNING!!! STRING TOO SMALL (0048 - 0052)!!!
+~05~~04~Esto es Aitos, la ciudad=al pie de un volcán.~03~
+WARNING!!! STRING TOO SMALL (0104 - 0106)!!!
+=Me conmovió la gente que=se esforzó tanto para=construir casas a pesar de=la constante lluvia de lava.~03~
+WARNING!!! STRING TOO SMALL (0134 - 0136)!!!
+=Uno de los líderes de aquí=murió mientras trabajaba=para vos, y creo que él lo=daba todo para hacer que=la gente supiera que=existe.~03~
+WARNING!!! STRING TOO SMALL (0071 - 0080)!!!
+=Espero que Aitos acabe=siendo una maravillosa=metrópolis por su bien.~03~
+WARNING!!! STRING TOO SMALL (0126 - 0129)!!!
+~05~~04~Esta es la jungla de=Marana. ¡Es un logro para=los humanos haber=construido tantas casas en=una zona tan pequeña como=esta!~03~
+WARNING!!! STRING TOO SMALL (0084 - 0090)!!!
+=Me decepcionó un poco=cuando los dos líderes se=volvieron de esa religión=maligna,~03~
+WARNING!!! STRING TOO SMALL (0080 - 0081)!!!
+=pero bajo coacción=extrema, la gente a menudo=encuentra la salida más=fácil...~03~
+WARNING!!! STRING TOO SMALL (0092 - 0094)!!!
+=Cuando los líderes la=ciudad vieron las iniciales=grabadas en el tronco del=árbol gigante,~03~
+WARNING!!! STRING TOO SMALL (0090 - 0093)!!!
+=dijeron que les golpeó un=sentimiento nostálgico que="no podían describir=con palabras.~2B~~03~
+WARNING!!! STRING TOO SMALL (0111 - 0114)!!!
+=Esta es mi teoría=favorita, creo que en un=pasado antiguo, esos dos=fueron amantes que=vivieron en esta zona,~03~
+WARNING!!! STRING TOO SMALL (0120 - 0130)!!!
+=y después de ser matados=por monstruos, sus almas=se buscaron, y fueron=renacidos en los cuerpos=de esos dos líderes.=~03~
+WARNING!!! STRING TOO SMALL (0055 - 0075)!!!
+=Aunque no recuerdan nada,=Creo que es muy romántico.=~03~
+WARNING!!! STRING TOO SMALL (0110 - 0111)!!!
+=Mirando atrás, trabajó muy=duro para llegar tan=lejos, Señor ~06~, pero=los humanos han trabajado=aún más duro.~03~
+WARNING!!! STRING TOO SMALL (0042 - 0053)!!!
+=Señor ~06~,=¿deberíamos mirar en el=templo?~03~
+WARNING!!! STRING TOO SMALL (0015 - 0016)!!!
+=No hay nadie.~03~
+WARNING!!! STRING TOO SMALL (0102 - 0109)!!!
+=Antes siempre había aquí=gente llorando...="¡Ayúdame Padre!~2B~ o=similar, así que es un=gran cambio...~03~
+WARNING!!! STRING TOO SMALL (0081 - 0086)!!!
+=Supongo que cuanto más    =crece la ciudad, nos=volvemos más y más=olvidados...~03~
+WARNING!!! STRING TOO SMALL (0133 - 0138)!!!
+=Pero de alguna forma=pienso que es lo mejor.=Pienso que los humanos son=más felices cuando no=necesitan a los dioses y=los olvidan.~03~
+WARNING!!! STRING TOO SMALL (0053 - 0057)!!!
+=Señor ~06~, ¡recemos=para que nunca más nos=necesiten!~03~
+WARNING!!! STRING TOO SMALL (0108 - 0120)!!!
+~05~Señor ~06~, cuando=venció al último monstruo,=la isla del Señor Oscuro=Satán salió de los=océanos al noreste.~02~
+WARNING!!! STRING TOO SMALL (0100 - 0104)!!!
+Satán debe estar esperando=en las entrañas de la=tierra para la batalla=final de Dios y el=Demonio.~02~
+WARNING!!! STRING TOO SMALL (0065 - 0066)!!!
+Señor ~06~, ha sido un=largo y difícil camino pero=hemos terminado.~03~
+WARNING!!! STRING TOO SMALL (0080 - 0084)!!!
+=Es un poco lástima que=después de todo el trabajo=la gente ya no nos=necesite.~03~
+WARNING!!! STRING TOO SMALL (0058 - 0063)!!!
+=Vayamos y echemos un=vistazo a cada ciudad=desarrollada.~03~
+WARNING!!! STRING TOO SMALL (0076 - 0077)!!!
+~05~~04~Esto es Fillmore.=La gente se asentó en el=bosque y creó una gran=ciudad.~03~
+WARNING!!! STRING TOO SMALL (0086 - 0090)!!!
+=Aunque por supuesto, con=su habilidad, quizá ya=sabía que estaba a punto=de morir...~03~
+WARNING!!! STRING TOO SMALL (0061 - 0065)!!!
+=Desde el nacimiento, están=ligados a los hilos del=destino.~03~
+WARNING!!! STRING TOO SMALL (0124 - 0131)!!!
+=¿No crees que ese hombre=era un gran ejemplo de=humano y líder, que sabía=su destino de antemano, y=aún y así lo aceptaba?~03~
+WARNING!!! STRING TOO SMALL (0090 - 0103)!!!
+~05~~04~Esto es Bloodpool, aunque=ahora el lago es azul,=parece algo inapropiado=llamarle así.=~03~
+WARNING!!! STRING TOO SMALL (0043 - 0045)!!!
+=Aquel revoltoso joven,=Teddy, vivía aquí.~03~
+WARNING!!! STRING TOO SMALL (0081 - 0082)!!!
+=cuando un chico despunta=de esa forma, quiero darle=a él una atención=especial.~03~
+WARNING!!! STRING TOO SMALL (0088 - 0093)!!!
+=¿Recuerdas cómo la gente=de Bloodpool sorteaba=para decidir quien sería=el sacrificio?~03~
+WARNING!!! STRING TOO SMALL (0059 - 0069)!!!
+=En realidad, sé algo de=esa lotería que nadie más=conoce.~03~
+WARNING!!! STRING TOO SMALL (0106 - 0113)!!!
+=Estaba observando y vi que=Teddy deliberadamente=amañó la lotería para ser=elegido como el=sacrificio...~03~
+WARNING!!! STRING TOO SMALL (0102 - 0116)!!!
+~05~~04~Esta es la ciudad desierto=de Cassandra.=Aunque ahora no queda=mucho en forma de arenas=o residuos.~03~
+WARNING!!! STRING TOO SMALL (0087 - 0090)!!!
+=La gente de esta ciudad=dijo que eran cautivados=por la magia de la=pirámide de aquí.~03~
+WARNING!!! STRING TOO SMALL (0030 - 0035)!!!
+=¿Qué piensas de esta=teoría?~03~
+WARNING!!! STRING TOO SMALL (0127 - 0128)!!!
+=Los monstruos de la época=eran en realidad humanos-=esclavos forzados a      =construir la tumba donde=nacian como monstruos.~03~
+WARNING!!! STRING TOO SMALL (0094 - 0097)!!!
+=La energía dejada atrás=de sus memorias como=humanos fue lo que=fascinaba a toda la=gente...~03~
+WARNING!!! STRING TOO SMALL (0048 - 0052)!!!
+~05~~04~Esto es Aitos, la ciudad=al pie de un volcán.~03~
+WARNING!!! STRING TOO SMALL (0104 - 0106)!!!
+=Me conmovió la gente que=se esforzó tanto para=construir casas a pesar de=la constante lluvia de lava.~03~
+WARNING!!! STRING TOO SMALL (0134 - 0136)!!!
+=Uno de los líderes de aquí=murió mientras trabajaba=para vos, y creo que él lo=daba todo para hacer que=la gente supiera que=existe.~03~
+WARNING!!! STRING TOO SMALL (0071 - 0080)!!!
+=Espero que Aitos acabe=siendo una maravillosa=metrópolis por su bien.~03~
+WARNING!!! STRING TOO SMALL (0126 - 0129)!!!
+~05~~04~Esta es la jungla de=Marana. ¡Es un logro para=los humanos haber=construido tantas casas en=una zona tan pequeña como=esta!~03~
+WARNING!!! STRING TOO SMALL (0084 - 0090)!!!
+=Me decepcionó un poco=cuando los dos líderes se=volvieron de esa religión=maligna,~03~
+WARNING!!! STRING TOO SMALL (0080 - 0081)!!!
+=pero bajo coacción=extrema, la gente a menudo=encuentra la salida más=fácil...~03~
+WARNING!!! STRING TOO SMALL (0092 - 0094)!!!
+=Cuando los líderes la=ciudad vieron las iniciales=grabadas en el tronco del=árbol gigante,~03~
+WARNING!!! STRING TOO SMALL (0090 - 0093)!!!
+=dijeron que les golpeó un=sentimiento nostálgico que="no podían describir=con palabras.~2B~~03~
+WARNING!!! STRING TOO SMALL (0111 - 0114)!!!
+=Esta es mi teoría=favorita, creo que en un=pasado antiguo, esos dos=fueron amantes que=vivieron en esta zona,~03~
+WARNING!!! STRING TOO SMALL (0120 - 0130)!!!
+=y después de ser matados=por monstruos, sus almas=se buscaron, y fueron=renacidos en los cuerpos=de esos dos líderes.=~03~
+WARNING!!! STRING TOO SMALL (0055 - 0075)!!!
+=Aunque no recuerdan nada,=Creo que es muy romántico.=~03~
+WARNING!!! STRING TOO SMALL (0110 - 0111)!!!
+=Mirando atrás, trabajó muy=duro para llegar tan=lejos, Señor ~06~, pero=los humanos han trabajado=aún más duro.~03~
+WARNING!!! STRING TOO SMALL (0042 - 0053)!!!
+=Señor ~06~,=¿deberíamos mirar en el=templo?~03~
+WARNING!!! STRING TOO SMALL (0015 - 0016)!!!
+=No hay nadie.~03~
+WARNING!!! STRING TOO SMALL (0102 - 0112)!!!
+=Antes siempre había aquí=gente llorando...="¡Ayúdame Padre!~2B~ o=similar, así que es un=gran cambio...~03~
+WARNING!!! STRING TOO SMALL (0081 - 0086)!!!
+=Supongo que cuanto más    =crece la ciudad, nos=volvemos más y más=olvidados...~03~
+WARNING!!! STRING TOO SMALL (0133 - 0137)!!!
+=Pero de alguna forma=pienso que es lo mejor.=Pienso que los humanos son=más felices cuando no=necesitan a los dioses y=los olvidan.~03~
+WARNING!!! STRING TOO SMALL (0053 - 0057)!!!
+=Señor ~06~, ¡recemos=para que nunca más nos=necesiten!~03~
+WARNING!!! STRING TOO SMALL (0108 - 0120)!!!
+~05~Señor ~06~, cuando=venció al último monstruo,=la isla del Señor Oscuro=Satán salió de los=océanos al noreste.~02~
+WARNING!!! STRING TOO SMALL (0057 - 0059)!!!
+~05~Qué lástima.=Pero no es del tipo que se=rinde, Señor ~06~.~02~
+WARNING!!! STRING TOO SMALL (0077 - 0079)!!!
+Quedo a la espera de verle=volver de pelear con los=monstruos, ¡triunfante!=~00~
+WARNING!!! STRING TOO SMALL (0080 - 0091)!!!
+~05~Señor ~06~, me disculpo=por interrumpir, pero=parece que hay=problemas aquí en=~08~/~03~
+WARNING!!! STRING TOO SMALL (0030 - 0031)!!!
+No hay suficiente=producción.~00~
+WARNING!!! STRING TOO SMALL (0044 - 0047)!!!
+Hay obstáculos en el=camino del desarrollo.~00~
+WARNING!!! STRING TOO SMALL (0024 - 0025)!!!
+La gente está inquieta.~00~
+WARNING!!! STRING TOO SMALL (0021 - 0022)!!!
+Los campos se secan.~00~
+WARNING!!! STRING TOO SMALL (0040 - 0046)!!!
+La tierra se ha=desarrollado al=máximo.~00~
+WARNING!!! STRING TOO SMALL (0053 - 0054)!!!
+~05~Parece que el Poder del=Ángel ha perdido su efecto.~00~
+WARNING!!! STRING TOO SMALL (0036 - 0038)!!!
+~05~Parece que el fuego se=ha apagado.~02~
+WARNING!!! STRING TOO SMALL (0091 - 0098)!!!
+Pero creo que la necedad=de los humanos es parte=de su encanto...=¿Tú que opinas, Señor=~06~?~00~
+WARNING!!! STRING TOO SMALL (0105 - 0115)!!!
+~05~Parece que el fuego se ha=apagado. Aún y así, esa=fue una manera...fuerte de=resolver el problema,=¿no?~02~
+WARNING!!! STRING TOO SMALL (0113 - 0125)!!!
+Destruir el asentamiento=apagó el fuego sin duda,=pero creo que pudo=haber habido una manera=mejor de hacerlo...~00~
+WARNING!!! STRING TOO SMALL (0118 - 0125)!!!
+~05~Los humanos han estado=montando alboroto sobre=algo desde que el=relámpago cayó.=Escuchemos lo que tienen=que decir.~00~
+WARNING!!! STRING TOO SMALL (0071 - 0075)!!!
+~05~¡Oh! ¡Señor ~06~!=¡¡Ha aparecido una=pirámide de la arena=del desierto!!~00~
+WARNING!!! STRING TOO SMALL (0055 - 0059)!!!
+~05~Señor ~06~, ¡¡mire!!=¡Pasa algo en el lago de=Bloodpool!~00~
+WARNING!!! STRING TOO SMALL (0053 - 0062)!!!
+~05~Señor ~06~, ¡Mire!=¡Pasa algo en la playa=al noroeste!~00~
+WARNING!!! STRING TOO SMALL (0076 - 0077)!!!
+~05~Señor ~06~, creo=que la última Guarida de=Monstruos está=en la isla noroeste.~02~
+WARNING!!! STRING TOO SMALL (0071 - 0073)!!!
+Me pregunto si hay=alguna forma de conectar=la isla con el continente.~00~
+WARNING!!! STRING TOO SMALL
+|17800
+
+WARNING!!! STRING TOO SMALL (0006 - 0007)!!!
+¡FIN~3E~~00~
+WARNING!!! STRING TOO SMALL (0006 - 0007)!!!
+PAUSA~00~
+WARNING!!! STRING TOO SMALL (0037 - 0039)!!!
+~05~Señor ~06~, no hay=nadie en esta zona.~00~
+WARNING!!! STRING TOO SMALL (0035 - 0043)!!!
+~05~Señor ~06~,=no puede descender aquí.~02~
+WARNING!!! STRING TOO SMALL (0095 - 0103)!!!
+Movamos el Castillo del=Cielo donde se muestre=el nombre de una zona en=la ~2D~caja~2D~a la derecha.~00~
+WARNING!!! STRING TOO SMALL (0050 - 0056)!!!
+Señor ~06~, no veo=signos de monstruos=en esta zona.~00~
+WARNING!!! STRING TOO SMALL (0089 - 0091)!!!
+~05~Señor ~06~, ya ha=vencido a todos los=monstruos aquí. Ahora solo=viven humanos en la zona.~00~
+WARNING!!! STRING TOO SMALL (0084 - 0097)!!!
+~05~Señor ~06~, si vence=a los monstruos, los=humanos podrán empezar a=vivir en la zona.=~02~
+WARNING!!! STRING TOO SMALL (0086 - 0101)!!!
+~05~Señor ~06~, si vence a=los monstruos, esta zona=ya no temblará bajo la=sombra del mal.=~02~
+WARNING!!! STRING TOO SMALL (0116 - 0118)!!!
+~05~Vamos, es hora de la=batalla final.=Cuando gane, los monstruos=desaparecerán de la faz de=la tierra completamente.~02~
+WARNING!!! STRING TOO SMALL (0023 - 0024)!!!
+~05~Señor ~06~, ¿está=listo?~01~
+WARNING!!! STRING TOO SMALL (0030 - 0037)!!!
+~05~Así que ha cambiado de=idea.~00~
+WARNING!!! STRING TOO SMALL (0036 - 0042)!!!
+~05~Señor ~06~, no=siento monstruos aquí.~00~
+WARNING!!! STRING TOO SMALL (0040 - 0045)!!!
+~05~Señor ~06~, ¿qué magia=llevará con usted?~01~
+WARNING!!! STRING TOO SMALL (0030 - 0037)!!!
+~05~Así que ha cambiado de=idea.~00~
+WARNING!!! STRING TOO SMALL (0049 - 0050)!!!
+~05~¿Así que va a llevar la=Magia de Fuego consigo?~02~
+WARNING!!! STRING TOO SMALL (0057 - 0059)!!!
+~05~¿Así que va a llevarse la=Magia de Estrellas con=usted?~02~
+WARNING!!! STRING TOO SMALL (0082 - 0086)!!!
+Esta magia llama a=estrellas fugaces que=golpean el suelo.=Cuesta 2 PM de lanzar.~00~
+WARNING!!! STRING TOO SMALL (0048 - 0050)!!!
+~05~¿Así que va a llevar la=Magia de Aura consigo?~02~
+WARNING!!! STRING TOO SMALL (0088 - 0098)!!!
+Esa magia invoca su=aura en una gran bola de=luz que da vueltas.=Cuesta 3 PM de lanzar.~00~
+WARNING!!! STRING TOO SMALL (0047 - 0051)!!!
+~05~¿Así que va a llevar la=Magia de Luz consigo?~02~
+WARNING!!! STRING TOO SMALL (0090 - 0092)!!!
+Esa magia invoca un=pilar de luz desde el=Castillo del Cielo para=quemar a los monstruos.~02~
+WARNING!!! STRING TOO SMALL (0029 - 0033)!!!
+~05~Señor ~06~, ¿qué=objeto usará?~01~
+WARNING!!! STRING TOO SMALL (0033 - 0039)!!!
+~05~Señor ~06~, ¡no lleva=nada encima!~00~
+WARNING!!! STRING TOO SMALL (0024 - 0025)!!!
+~05~¡Su magia ha cambiado!~00~
+WARNING!!! STRING TOO SMALL (0033 - 0034)!!!
+~05~Señor ~06~,=¿qué rapidez de texto?~01~
+WARNING!!! STRING TOO SMALL (0007 - 0012)!!!
+~05~¿Así?~00~
+WARNING!!! STRING TOO SMALL (0030 - 0031)!!!
+~05~Así que ha cambiado de=idea.~00~
+WARNING!!! STRING TOO SMALL (0044 - 0052)!!!
+~05~~05~Este año no hay=ofrendas para vos, Padre.~00~
+WARNING!!! STRING TOO SMALL (0085 - 0100)!!!
+~05~Este año, estas son las=únicas ofrendas que=podemos ofrecerle, Padre.=¿Cual acepta?~01~
+WARNING!!! STRING TOO SMALL (0059 - 0062)!!!
+~05~Esta cargando demasiado,=así que no puede coger=nada más.~00~
+WARNING!!! STRING TOO SMALL (0022 - 0032)!!!
+~05~¿Aceptaría algo=más?~01~
+WARNING!!! STRING TOO SMALL (0043 - 0048)!!!
+~05~Señor ~06~, no parece=que haya nadie aquí...~00~
+WARNING!!! STRING TOO SMALL (0085 - 0090)!!!
+=Eso es todo lo que tenemos=para ofrecer este año.=Gracias por aceptar las=ofrendas.~00~
+WARNING!!! STRING TOO SMALL (0030 - 0031)!!!
+=Así que ha cambiado de=idea.~00~
+WARNING!!! STRING TOO SMALL (0025 - 0026)!!!
+~04~~08~Ciudad en Construcción~00~
+WARNING!!! STRING TOO SMALL (0025 - 0026)!!!
+~04~~08~   Sellando la Guarida~00~
+TOTAL BYTES WRITTEN: 00044469 / 0000ADB5 Hex
+HEXTRACTOR v0.8 (c) Wave 14/07/2017 
+ Type -? for help. / Escribe -? para ayuda
+Fixing SNES checksum for "TR_ActRaiser (J) [T+ENG].smc".
+ROM size: 8 Mbit
+With NO SMC header
+ROM NAME: "ACTRAISER AGTP       "
+Size correct, File (Expanded): 8 MBit, ROM info: 5 - 8 MBit
+Detected LOROM
+ROM checksum           : 25C0
+ROM checksum not       : DA3F
+Calculated checksum    : 32DB
+Calculated checksum not: CD24
+Updating checksum.
+Updating checksumNot.
+Presione una tecla para continuar . . . 

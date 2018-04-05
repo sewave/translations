@@ -1,0 +1,4 @@
+set T_FILENAME="Aerial Assault (UE) [!].sms"
+set SCRIPTNAME="aerial"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false 3801C-384A2-20,384C1-38803-20,38822-38DAE-20,38F90-39236-20,4BCF-4C01-FF,22BA-22FF-FF
+pause

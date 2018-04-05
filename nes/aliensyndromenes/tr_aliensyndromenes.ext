@@ -1,0 +1,138 @@
+@00010806-00010825-FF
+;00000000{        TENGEN  PRESENTS        }#032#032
+        TENGEN  PRESENTA        #032
+|32
+@00010A3B-00010B26-FF-01
+;00000000{      ROUND NO  1                ~01~}#037#034
+      RONDA NUM 1                ~01~#034
+;00000022{          TOP 0000000            ~01~}#037#034
+          MÁX 0000000            ~01~#034
+;00000044{       PUSH START BUTTON         ~01~}#037#034
+       PULSA EL BOTÓN START      ~01~#034
+;00000066{      1 PLAYER   2 PLAYERS       ~01~}#037#034
+      1 JUGADOR  2 JUGADORES     ~01~#034
+;00000088{       c 1987   sega             ~01~}#037#034
+       c 1987   sega             ~01~#034
+;000000AA{       c 1989   TENGEN INC       ~01~}#037#034
+       c 1989   TENGEN INC       ~01~#034
+;000000CC{         c 1988   SANRITSU      }#032#032
+         c 1988   SANRITSU      #032
+|236
+@00010B67-00010C30-FF-01
+;00000000{    SELECT PLAYER CHARACTER      ~01~}#037#034
+    ELIGE PERSONAJE JUGADOR      ~01~#034
+;00000022{           PLAYER1               ~01~}#037#034
+           JUGADOR 1             ~01~#034
+;00000044{       SELECT BY PLAYER 1        ~01~}#037#034
+      ELIGE PARA JUGADOR 1       ~01~#034
+;00000066{         CONTROL BUTTON          ~01~}#037#034
+         BOTÓN CONTROL           ~01~#034
+;00000088{              AND                ~01~}#037#034
+               Y                 ~01~#034
+;000000AA{        PUSH SHOT BUTTON        }#032#032
+       BOTÓN DE DISPARO         #032
+|202
+@00010EE6-00010F49-FF-01
+;00000000{      THE TIME BOMB IS SET       ~01~}#037#034
+    SE HA COLOCADO LA BOMBA      ~01~#034
+;00000022{       RESCUE 12 COMRADES        ~01~}#037#034
+    RESCATA A 12 CAMARADAS       ~01~#034
+;00000044{    PREPARE TO FACE KING CORE   }#032#032
+    PREPÁRATE PARA REY NÚCLEO   #032
+|100
+@00011B62-00011B94-FF-01
+;00000000{  CONTINUE                          END            }#051#051
+  CONTINUAR                         FIN            #051
+|51
+@00011C69-00011CEE-FF-01
+;00000000{   BONUS POINT         0 PTS     ~01~}#037#034
+   PUNTOS BONO         0 PTS     ~01~#034
+;00000022{   TIME  BONUS         0 PTS     ~01~}#037#034
+   BONO TIEMPO         0 PTS     ~01~#034
+;00000044{   1P=      0     2P=      0     ~01~}#037#034
+   J1=      0     J2=      0     ~01~#034
+;00000066{      1P=   0     2P=   0       }#032#032
+      J1=   0     J2=   0       #032
+|134
+@00016180-0001619D-FF-01
+;00000000{ YOUR COMRADES ARE IN DANGER! }#030#030
+   ¡TUS CAMARADAS PELIGRAN!   #030
+|30
+@00016467-00016494-FF-01
+;00000000{  THE BATTLE HAS JUST BEGUN                   }#046#046
+  LA BATALLA ACABA DE EMPEZAR                 #046
+|46
+@00017854-00017B53-FF-01
+;00000000{            EPILOGUE               IT'S  THE YEAR  2089  EARTH    COMMAND TROOPERS  RICKY  AND    MARY HAVE COMPLETED A DANGE-    ROUS MISSION TO RESCUE THEIR    FELLOW TROOPERS FROM THE IN-    VADING ALIEN FLEET.   IN THE    COURSE OF THEIR MISSION. THE    BRAVE TROOPERS DESTROYED THE    ALIEN SPACE SHIPS  AND THEIR    EVIL LEADERS  BLASTING  THEM    OUT OF THE GALAXY. RICKY AND    MARY  RECEIVED  THE MEDAL OF    HONOR FOR THEIR BRAVERY.         BUT THE BATTLE HAS ONLY BE-    GUN!  IN THE DARKEST REACHES    OF SPACE...MILLIONS OF LIGHT    YEARS FROM KNOWN TERRITORY...   THE ALIENS  THIRST  FOR  RE-    VENGE!                           WHEN THEY RETURN, RICKY AND    MARY WILL BE THERE, READY TO    ONCE AGAIN  FIGHT THE  ALIEN    SYNDROME!                     }#768#768
+            EPÍLOGO             
+   EN EL AÑO 2089,LOS SOLDADOS  
+  DE MANDO  RICKY  Y MARY  HAN  
+  COMPLETADO   UNA   PELIGROSA  
+  MISIÓN  PARA  RESCATAR A SUS  
+  SOLDADOS  COMPAÑEROS  DE  LA  
+  FLOTA ALIENÍGENA INVASORA.    
+  DURANTE   SU   MISIÓN,   LOS  
+  BRAVOS SOLDADOS  DESTRUYERON  
+  LAS  NAVES  ALIENÍGENAS  Y A  
+  SUS MALVADOS  LÍDERES ECHÁN-  
+  DOLES DE LA GALAXIA. RICKY Y  
+  MARY RECIBIERON  LA  MEDALLA  
+  AL HONOR POR SU VALENTÍA.     
+   ¡PERO  LA  BATALLA SOLO  HA  
+  COMENZADO!  EN LA  OSCURIDAD  
+  DEL ESPACIO... A MILLONES DE  
+  AÑOS  LUZ DE LO  CONOCIDO...  
+  ¡LOS ALIENÍGENAS  TIENEN SED  
+  DE VENGANZA!                  
+   CUANDO  VUELVAN,   RICKY  Y  
+  MARY  ESTARÁN  AHÍ,  ¡LISTOS  
+  DE NUEVO PARA LUCHAR  CONTRA  
+  EL SÍNDROME ALIENÍGENA!       #768
+|768
+@00017B54-00017DF3-FF-01
+;00000000{                                          ALIENS STAFF                                                     PROGRAMMER                     NAOKI OKABE                                                      DESIGNERS                   TETSUSHI NAKAMURA                  YUJI KOHARU                                                     SOUND EDITOR                   NOBORU MACHIDA                                                                                                                                                  c 1987   SEGA               PRESENTED  BY  TENGEN                                                                                                      }#672#672
+                                
+         EQUIPO ALIENS          
+                                
+          PROGRAMADOR           
+          NAOKI OKABE           
+                                
+          DISEÑADORES           
+       TETSUSHI NAKAMURA        
+          YUJI KOHARU           
+                                
+        EDITOR DE SONIDO        
+         NOBORU MACHIDA         
+                                
+                                
+                                
+                                
+         c 1987   SEGA          
+     PRESENTADO POR TENGEN      
+                                
+                                
+                                #672
+|672
+@0001ED17-0001ED36-FF-01
+;00000000{  1UP=4        TOP     2UP=4    }#032#032
+  JU1=4        MÁX     JU2=4    #032
+|32
+@0001ED7A-0001ED86-FF-01
+;00000000{   TIME 120  }#013#013
+ TIEMPO 120  #013
+|13
+@0001ED8F-0001EDBB-FF-01
+;00000000{ CAUTION        HURRY UP       GO TO THE EXIT}#045#045
+ CUIDADO        DATE PRISA      A LA SALIDA  #045
+|45
+@0001EFC0-0001F09F-FF-01
+;00000000{  HUGGER              TIME 240    ASOPHY              TIME 240    TACADY              TIME 240    HALPHA              TIME 240    TEETSIE             TIME 240    MINEMOR             TIME 240    KING CORE           TIME 240  }#224#224
+  
+ABRAZADOR         TIEMPO 240    
+ASOPHY            TIEMPO 240    
+TACADY            TIEMPO 240    
+HALPHA            TIEMPO 240    
+TEETSIE           TIEMPO 240    
+MINEMOR           TIEMPO 240    
+REY NÚCLEO        TIEMPO 240  #224
+|224

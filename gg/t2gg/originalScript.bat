@@ -1,0 +1,4 @@
+set T_FILENAME="Terminator 2 - Judgment Day (USA, Europe).gg"
+set SCRIPTNAME="t2gg"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false 3D-5F-FF,E0-F4-FF,53B-57D-FF,613-6B7-FF,21E9-2387-FF,3EAF-3EB8-FF,44AE-44C4-FF,46CF-46F6-FF,4768-4925-FF,17E72-17FEB-FF,5C7F-5CA3-FF
+pause

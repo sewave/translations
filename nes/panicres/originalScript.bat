@@ -1,0 +1,7 @@
+@echo off 
+set T_FILENAME="Panic Restaurant (U) [!].nes"
+set SCRIPTNAME="panicres"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt 00018228-000183E6-FF,000183E6-00018439-FF,00018439-0001845D-FF,0001E451-0001E4AC-FF,0001E4B5-0001E50A-FF,0001E513-0001E560-FF,
+java -jar Hextractor.jar -a %SCRIPTNAME%Alt.tbl %T_FILENAME% %SCRIPTNAME%Alt.ext %SCRIPTNAME%Alt.off
+java -jar Hextractor.jar -a %SCRIPTNAME%Alt2.tbl %T_FILENAME% %SCRIPTNAME%Alt2.ext %SCRIPTNAME%Alt2.off
+pause 

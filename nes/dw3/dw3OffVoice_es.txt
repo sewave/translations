@@ -1,0 +1,804 @@
+@00040010-000400D1-EE
+;00000000{~F5~~F2~ is assessing the situation.~EE~}#040#031
+~F5~~F2~ analiza la situación.~EE~#031
+;0000001F{~F5~~F2~ attacks!~EE~}#021#012
+¡~F5~~F2~ ataca!~EE~#012
+;0000002B{~F5~~F2~ chants ~F3~.~EE~}#025#013
+~F5~~F2~ canta ~F3~.~EE~#013
+;00000038{~F5~ uses the ~F4~.~EE~}#023#014
+~F5~ usa el ~F4~.~EE~#014
+;00000046{~F5~~F2~ protects itself.~EE~}#029#020
+~F5~~F2~ se protege.~EE~#020
+;0000005A{~FD~~EF~~F5~ grabs the ~F4~.~EE~}#032#017
+~FD~~EF~~F5~ coge el ~F4~.~EE~#017
+;0000006B{~F5~~F2~ dodges nimbly.~EE~}#027#018
+~F5~~F2~ esquiva ágil.~EE~#018
+;0000007D{~F9~ñs party attempts to flee.~EE~}#034#028
+El grupo de ~F9~ intenta huir.~EE~#028
+;00000099{~F5~ appears!~EE~}#017#011
+¡~F5~ emerge!~EE~#011
+;000000A4{~F5~ is numb and unable to move.~EE~}#036#030
+~F5~ entumecido está inmóvil.~EE~#030
+|194
+@00040130-00043FD7-EE-EF
+;00000000{~F8~ damage point~C0~ for ~F5~~F2~.~EE~}#039#024
+~F8~ punto~C0~ de daño a ~F5~~F2~.~EE~#024
+;00000018{~F5~~F2~ is defeated!~EE~}#025#016
+¡~F5~~F2~ es vencido!~EE~#016
+;00000028{You have defeated ~F5~.~EE~}#027#021
+Has vencido a ~F5~.~EE~#021
+;0000003D{You have vanquished all your foes.~EE~}#038#035
+Has vencido a todos tus enemigos.~EE~#035
+;00000060{A tremendous hit!~EE~}#021#018
+¡Golpe tremendo!~EE~#018
+;00000072{A terrible blow!~EE~}#020#017
+¡Golpe terrible!~EE~#017
+;00000083{It has no effect on ~F5~~F2~.~EE~}#033#024
+No tiene efecto en ~F5~~F2~.~EE~#024
+;0000009B{~F8~ damage point~C0~ for ~F5~.~EE~}#035#023
+~F8~ punto~C0~ de daño a ~F5~.~EE~#023
+;000000B2{~F5~~F2~ has recovered!~EE~}#027#018
+¡~F5~~F2~ se recupera!~EE~#018
+;000000C4{~F5~~F2~ñs Defense Power is lowered ~F8~ point~C0~.~EE~}#055#040
+La Defensa de ~F5~~F2~ baja ~F8~ punto~C0~.~EE~#040
+;000000EC{~F5~~F2~ñs Defense Power has gone down ~F8~ point~C0~.~EE~}#058#043
+La Defensa de ~F5~~F2~ ha bajado ~F8~ punto~C0~.~EE~#043
+;00000117{But all escape paths are blocked.~EE~}#037#034
+Pero no hay escapatoria.~EE~#034
+;00000139{~F5~ falls asleep!~EE~}#022#016
+¡~F5~ se duerme!~EE~#016
+;00000149{~F5~~F2~ is put to sleep.~EE~}#029#020
+~F5~~F2~ queda dormido.~EE~#020
+;0000015D{~F5~~F2~ is not asleep!~EE~}#027#018
+¡~F5~~F2~ no duerme!~EE~#018
+;0000016F{~F5~~F2~ is asleep.~EE~}#023#014
+~F5~~F2~ duerme.~EE~#014
+;0000017D{~F5~~F2~ has awakened!~EE~}#026#017
+¡~F5~~F2~ despierta!~EE~#017
+;0000018E{The poison has affected ~F5~.~EE~}#033#027
+El veneno ha afectado a ~F5~.~EE~#027
+;000001A9{But the spell is contained.~EE~}#031#028
+Pero el hechizo se bloquea.~EE~#028
+;000001C5{It has no effect on ~F5~~F2~.~EE~}#033#024
+No tiene efecto en ~F5~~F2~.~EE~#024
+;000001DD{MP is not high enough!~EE~}#026#023
+¡PM insuficientes!~EE~#023
+;000001F4{~F5~ thereby gains ~F8~ experience point~C0~.~EE~}#049#037
+~F5~ gana así ~F8~ punto~C0~ de experiencia.~EE~#037
+;00000219{Missed!~EB~No damage to ~F5~~F2~!~EE~}#037#025
+¡Falla!~EB~¡Sin daño a ~F5~~F2~!~EE~#025
+;00000232{~F5~ attacks ~B0~ party.~EE~}#028#019
+~F5~ ataca al grupo.~EE~#019
+;00000245{But ~F5~~F2~ is awake!~EE~}#026#017
+¡~F5~~F2~ está alerta!~EE~#017
+;00000256{But ~F5~~F2~ is not awake.~EE~}#030#021
+~F5~~F2~ no está alerta.~EE~#021
+;0000026B{You obtain ~F8~ piece~C0~ of gold.~EE~}#038#029
+Obtienes ~F8~ pieza~C0~ de oro.~EE~#029
+;00000288{~F5~~F2~ is dead.~EE~}#021#012
+~F5~~F2~ muerto.~EE~#012
+;00000294{It has no effect on ~F5~~F2~.~EE~}#033#024
+No tiene efecto en ~F5~~F2~.~EE~#024
+;000002AC{And so the day breaks¡.~EE~}#027#024
+Y así sale el sol.~EE~#024
+;000002C4{~FD~~EB~   ~EB~The false king is no more!~FD~~EB~Thereupon, the true king is rescued from prison.~FD~~EB~   ~EB~~EE~}#116#089
+~FD~~EB~   ~EB~¡Ya no hay un falso rey!~FD~~EB~Luego, el verdadero rey es rescatado de prisión.~FD~~EB~   ~EB~~EE~#089
+;0000031D{~F9~ñs party is wiped out.~EE~}#030#024
+El grupo de ~F9~ murió.~EE~#024
+;00000335{~F5~~F2~ shatters into pieces.~EE~}#034#025
+~F5~~F2~ se rompe en pedazos.~EE~#025
+;0000034E{~F5~~F2~ñs power wanes and its life comes to an end.~EE~}#056#047
+El poder de ~F5~~F2~ mengua y su vida llega al fin.~EE~#047
+;0000037D{~F5~~F2~ñs spell is contained.~EE~}#034#025
+Hechizo de ~F5~~F2~ retenido.~EE~#025
+;00000396{~F5~~F2~ is surrounded by a cloud of mirages.~EE~}#049#040
+A ~F5~~F2~ le rodea una nube de espejismos.~EE~#040
+;000003BE{~F5~~F2~ emits gales of sweet breath.~EE~}#041#032
+~F5~~F2~ emite un dulce aliento.~EE~#032
+;000003DE{~F5~~F2~ emits gales of toxic breath.~EE~}#041#032
+~F5~~F2~ emite un aliento tóxico.~EE~#032
+;000003FE{~F5~~F2~ repels the poison.~EE~}#031#022
+~F5~~F2~ repele el veneno.~EE~#022
+;00000414{~F5~~F2~ emits gales of scorching breath.~EE~}#045#036
+~F5~~F2~ emite un aliento abrasador.~EE~#036
+;00000438{~F5~ is numb and unable to move.~EE~}#036#030
+~F5~ entumecido está inmóvil.~EE~#030
+;00000456{~F5~ dodges the gale of breath.~EE~}#035#029
+~F5~ esquiva el aliento.~EE~#029
+;00000473{~F5~~F2~ emits gales of flaming breath.~EE~}#043#034
+~F5~~F2~ emite un aliento llameante.~EE~#034
+;00000495{~F5~~F2~ emits gales of blizzard breath.~EE~}#044#035
+~F5~~F2~ emite un aliento de ventísca.~EE~#035
+;000004B8{~F5~~F2~ is numb and unable to move.~EE~}#040#031
+~F5~~F2~ entumecido está inmóvil.~EE~#030
+;000004D7{~F8~ MP point~C0~ are snatched from ~F5~~F2~.~EE~}#049#034
+~F8~ PM són arrebatados a ~F5~~F2~.~EE~#034
+;000004F9{~F5~~F2~ dances a curious dance.~EE~}#036#027
+~F5~~F2~ danza un curioso baile.~EE~#027
+;00000514{~F5~~F2~ñs defense power goes up ~F8~ point~C0~.~EE~}#052#037
+La Defensa de ~F5~~F2~ sube ~F8~ punto~C0~.~EE~#037
+;00000539{~F5~~F2~ comes back to life.~EE~}#032#023
+~F5~~F2~ vuelve a la vida.~EE~#023
+;00000550{~F5~~F2~ does not come back to life.~EE~}#040#031
+~F5~~F2~ no vuelve a la vida.~EE~#031
+;0000056F{~F5~~F2~ñs Agility goes down ~F8~ point~C0~.~EE~}#048#033
+La Agilidad de ~F5~~F2~ baja ~F8~ punto~C0~.~EE~#033
+;00000590{~F5~~F2~ñs life is snuffed out.~EE~}#035#026
+La vida de ~F5~~F2~ se aspira.~EE~#026
+;000005AA{But nothing happens!~EE~}#024#021
+ ¡Pero no pasa nada!~EE~#021
+;000005BF{~F5~~F2~ñs spell is deflected.~EE~}#034#025
+Hechizo de ~F5~~F2~ desviado.~EE~#025
+;000005D8{~F5~ñs numbness goes away.~EE~}#030#024
+Entumecido de ~F5~ se va.~EE~#024
+;000005F0{~F5~ changes into the spitting image of ~F5~.~EE~}#049#040
+~F5~ se convierte en una copia de ~F5~.~EE~#040
+;00000618{The poison leaves ~F5~ñs body.~EE~}#034#028
+El veneno sale de ~F5~.~EE~#028
+;00000634{~F5~~F2~ñs Agility goes up ~F8~ point~C0~.~EE~}#046#031
+Agilidad de ~F5~~F2~ sube ~F8~ punto~C0~.~EE~#031
+;00000653{~F5~~F2~ is confused.~EE~}#025#016
+~F5~~F2~ se confunde.~EE~#016
+;00000663{~F5~ assumes the shape of a huge dragon!~EE~}#044#038
+¡~F5~ toma la forma de un gran dragón!~EE~#038
+;00000689{A wall of light appears before ~F5~~F2~.~EE~}#044#035
+Un muro de luz aparece ante ~F5~~F2~.~EE~#035
+;000006AC{A garment of light, like unto silk, surrounds the ~F9~.~EE~}#059#053
+Un vestido de luz, semejante a la seda, rodea a ~F9~.~EE~#053
+;000006E1{~F5~~F2~ñs Attack Power increases!~EE~}#038#029
+¡El Ataque de ~F5~~F2~ aumenta!~EE~#029
+;000006FE{~F5~~F2~ calls for reinforcements.~EE~}#038#029
+~F5~~F2~ llama a refuerzos.~EE~#029
+;0000071B{Another ~F5~~F2~ appears.~EE~}#029#020
+Aparece otro ~F5~~F2~.~EE~#020
+;0000072F{But no help arrives!~EE~}#024#021
+¡Pero no hay ayuda!~EE~#021
+;00000744{~F5~~F2~ is sent flying into the far distance.~EE~}#050#041
+~F5~~F2~ es mandado volando a la lejanía.~EE~#041
+;0000076D{~F5~ is sent flying far away.~EE~}#033#027
+~F5~ sale volando muy lejos.~EE~#027
+;00000788{~F5~~F2~ starts to flee.~EE~}#028#019
+ ~F5~~F2~ huye.~EE~#019
+;0000079B{All your foes start to flee.~EE~}#032#029
+Tus enemigos intentan huir.~EE~#029
+;000007B8{~F5~ is ironized, impervious to attack.~EE~}#043#037
+~F5~ es metalizado, resiste ataques.~EE~#037
+;000007DD{~F9~ñs party is ironized, impervious to attack.~EE~}#051#045
+Grupo  ~F9~ metalizado, resisten los ataques.~EE~#045
+;0000080A{~F9~ñs party is ironized!~EE~}#029#023
+¡Grupo ~F9~ metalizado!~EE~#023
+;00000821{Ironize is no longer effective.~EE~}#035#032
+El metalizado ya no afecta.~EE~#032
+;00000841{The wall of light reflects the spell back.~EE~}#046#043
+El muro de luz refleja el hechizo.~EE~#043
+;0000086C{~F5~ calls forth something unbelievably frightening.~EE~}#056#050
+~F5~ llama a algo increíblemente aterrador.~EE~#050
+;0000089E{The area is engulfed in a fierce darkness.~EE~}#046#043
+A la zona la engulle una oscuridad feroz.~EE~#043
+;000008C9{~F9~ñs party gains additional Attack Power.~EE~}#047#041
+El grupo de ~F9~ gana Ataque adicional.~EE~#041
+;000008F2{Time ceases!~EE~}#016#013
+¡Sin tiempo!~EE~#013
+;000008FF{The foe is taken off guard.~EE~}#031#028
+Enemigo con guardia baja.~EE~#028
+;0000091B{~F5~~F2~ suddenly ceases the attack and withdraws.~EE~}#054#045
+~F5~~F2~ de repente cesa el ataque y se retira.~EE~#045
+;00000948{~F5~ departs.~EE~}#017#011
+~F5~ parte.~EE~#011
+;00000953{All your foes depart.~EE~}#025#022
+Tus enemigos parten.~EE~#022
+;00000969{~F5~~F2~ is unable to flee.~EE~}#031#022
+~F5~~F2~ no puede huir.~EE~#022
+;0000097F{Wait! You better not give up now!~FD~~EB~~EF~}#045#036
+¡Espera! ¡No te rindas ahora!~FD~~EB~~EF~#036
+;000009A3{Regretfully, Adventure Log ~F8~ has vanished.~EE~}#049#043
+Con pesar, la Aventura Num ~F8~ se esfumó.~EE~#043
+;000009CE{~F5~ had a treasure chest.~FD~~EB~~EF~}#038#026
+~F5~ tenía un cofre.~FD~~EB~~EF~#026
+;000009E8{Your foes had a treasure chest.~FD~~EB~~EF~}#043#034
+Tus enemigos tenian un cofre.~FD~~EB~~EF~#034
+;00000A0A{~F5~ opens the treasure chest!~FD~~EB~~EF~}#042#030
+¡~F5~ abre el cofre!~FD~~EB~~EF~#030
+;00000A28{~F5~ finds the ~F4~!~EE~}#024#015
+¡~F5~ halla el ~F4~!~EE~#015
+;00000A37{~FD~~EB~   ~EB~However, ~F9~ñs party canñt carry any more items.~EE~}#068#053
+~FD~~EB~   ~EB~Pero el equipo ~F9~ no puede cargar más objetos.~EE~#053
+;00000A6C{~FD~~EB~   ~EB~However, ~F9~ñs party canñt carry any more items.~EE~}#068#053
+~FD~~EB~   ~EB~Pero el equipo ~F9~ no puede cargar más objetos.~EE~#053
+;00000AA1{   ~EB~What will you discard?~EF~}#033#027
+   ~EB~¿Qué vas a desechar?~EF~#027
+;00000ABC{   ~EB~~F5~ gives up the ~F4~.~EE~}#034#022
+   ~EB~~F5~ deja el ~F4~.~EE~#022
+;00000AD2{   ~EB~Who will discard something?~EE~}#038#032
+   ~EB~¿Quién desechará algo?~EE~#032
+;00000AF2{   ~EB~~F5~ discards the ~F4~ and acquires the ~F4~.~EE~}#056#041
+   ~EB~~F5~ desecha el ~F4~ y adquiere el ~F4~.~EE~#041
+;00000B1B{The spell is reflected back by the wall of light.~EE~}#053#050
+El hechizo se refleja por el muro de luz.~EE~#050
+;00000B4D{~F5~ suddenly mounts an attack.~EE~}#035#029
+~F5~ ataca de repente.~EE~#029
+;00000B6A{Your foes suddenly mount an attack.~EE~}#039#036
+Los enemigos atacan de repente.~EE~#036
+;00000B8E{`Yikes! This is cold!´~EF~}#026#023
+`¡Ay! ¡Qué frío!´~EF~#023
+;00000BA5{`Cñmon! Stop that!´~EF~}#023#020
+`¡Venga! ¡Dejalo!´~EF~#020
+;00000BB9{~F5~ is taken off guard and bewildered.~EE~}#043#037
+~F5~ es cogido indefenso y perplejo.~EE~#037
+;00000BDE{Your foes are taken off guard and bewildered.~EE~}#049#046
+Tus enemigos están indefensos y perplejos.~EE~#046
+;00000C0C{~F5~~F2~ is confused.~EE~}#025#016
+~F5~~F2~ confundido.~EE~#016
+;00000C1C{~F5~~F2~ has come to its senses.~EE~}#036#027
+~F5~~F2~ vuelve en si.~EE~#027
+;00000C37{~F8~ MP point~C0~ are snatched from ~F5~~F2~.~EE~}#049#034
+~F8~ PM son arrebatados a ~F5~~F2~.~EE~#034
+;00000C59{Zoma nullifies the power of all the spells of ~F9~ñs party.~EE~}#063#057
+Zoma anula el poder de todos los hechizos del grupo.~EE~#057
+;00000C92{~F5~ assumes ~B0~ original shape.~EE~}#037#028
+~F5~ toma su forma inicial ~B0~.~EE~#028
+;00000CAE{The effect of the ~F3~ is gone.~EE~}#035#029
+El efecto de ~F3~ se acaba.~EE~#029
+;00000CCB{~F5~~F2~ is unhurt.~EE~}#023#014
+~F5~~F2~ ileso.~EE~#014
+;00000CD9{Missed!~EB~~F5~~F2~ is unhurt.~EE~}#034#022
+¡Fallo!~EB~~F5~~F2~ ileso.~EE~#022
+;00000CEF{However, the intended foe isnñt there.~EE~}#042#039
+Pero el enemigo ya no está ahí.~EE~#039
+;00000D16{Canñt move because of a curse!~EE~}#034#031
+¡Inmóvil por una maldición!~EE~#031
+;00000D35{The Poison Needle penetrates ~F5~~F2~ñs vital spot.~EE~}#055#046
+La Aguja Venenosa toca el punto vital de ~F5~~F2~.~EE~#046
+;00000D63{The Stone of Life shatters in ~F5~ñs place.~EE~}#047#041
+La Piedra de Vida se rompe en vez de ~F5~.~EE~#041
+;00000D8C{A warm light engulfs the area.~EE~}#034#031
+Una luz cálida llena la zona.~EE~#031
+;00000DAB{~F5~~F2~ gets ~F8~ damage point~C0~ and becomes paralyzed.~EE~}#062#047
+~F5~~F2~ recibe ~F8~ punto~C0~ de daño y queda paralizado.~EE~#047
+;00000DDA{However, the spell is broken.~EE~}#033#030
+Pero el hechizo se rompe.~EE~#030
+;00000DF8{~F5~ obtains the ~F4~.~EE~}#026#017
+~F5~ obtiene el ~F4~.~EE~#017
+;00000E09{~F5~~F2~ did not die.~EE~}#025#016
+~F5~~F2~ no murió.~EE~#016
+;00000E19{~F8~ MP point~C0~ are snatched from ~F5~~F2~.~EE~}#049#034
+~F8~ PM son arrebatados a ~F5~~F2~.~EE~#034
+;00000E3B{~F5~~F2~ becomes even more confused.~EE~}#040#031
+~F5~~F2~ queda aún más confuso.~EE~#031
+;00000E5A{But, alas, it is the same as before.~EE~}#040#037
+Pero, ay, es lo mismo de antes.~EE~#037
+;00000E7F{~F5~ assumes ~B0~ original shape.~EE~}#037#028
+~F5~ toma su forma inicial ~B0~.~EE~#028
+;00000E9B{~F5~~F2~ disappears into the light.~EE~}#039#030
+~F5~~F2~ desaparece en la luz.~EE~#030
+;00000EB9{~F5~ faints.~EE~}#016#010
+~F5~ cae.~EE~#010
+;00000EC3{~F5~ñs strength is sapped by poison.~EE~}#040#034
+Fuerza de ~F5~ minada por el veneno.~EE~#034
+;00000EE5{~F9~ñs party changes its formation.~EE~}#039#033
+Grupo de ~F9~ cambia su formación.~EE~#033
+;00000F06{~62~~57~¡Chance¡. chance¡. chance¡~69~,~EB~the echo of ~F5~ñs voice resounded all through the area.~EE~}#103#085
+~62~~57~...Oportunidad...oportunidad...~69~,~EB~el eco de la voz de ~F5~ resuena por toda la zona.~EE~#085
+;00000F5B{~F5~~F2~ñs life comes to an end.~EE~}#036#027
+La vida de ~F5~~F2~ finaliza.~EE~#027
+;00000F76{~F5~ raises the ~F4~ overhead.~EE~}#034#025
+~F5~ eleva el ~F4~ a lo alto.~EE~#025
+;00000F8F{Fireballs burst forth from the staff.~EE~}#041#038
+Salen bolas de fuego de la vara.~EE~#038
+;00000FB5{A deafening thunderclap rips through the air.~EE~}#049#046
+Un tronido ensordecedor viaja por el aire.~EE~#046
+;00000FE3{A blast of snow storms out from the sword.~EE~}#046#043
+Una tormenta de nieve sale del sable.~EE~#043
+;0000100E{A lightning bolt bursts from the sword.~EE~}#043#040
+Un relámpago aparece del sable.~EE~#040
+;00001036{A thunderclap peals from the staff.~EE~}#039#036
+Un tronido sonido sale de la vara.~EE~#036
+;0000105A{~F5~ raises the ~F4~ overhead.~EE~}#034#025
+~F5~ eleva el ~F4~ a lo alto.~EE~#025
+;00001073{A blue light dances across the ground.~EE~}#042#039
+Una luz azul baila por el suelo.~EE~#039
+;0000109A{The fireballs burst forth and split into pieces.~EE~}#052#049
+Las bolas de fuego avanzan y se dividen.~EE~#049
+;000010CB{Black rain clouds engulf your foe.~EE~}#038#035
+Nubes negras cubren a tu enemigo.~EE~#035
+;000010EE{Ripples of light form a shining wall.~EE~}#041#038
+Ondas de luz hacen un muro brillante.~EE~#038
+;00001114{A pink fog flows out from the sword.~EE~}#040#037
+Una niebla rosa sale del sable.~EE~#037
+;00001139{~F5~ raises the ~F4~ to the skies.~EE~}#038#029
+~F5~ eleva el ~F4~ a los cielos.~EE~#029
+;00001156{~F5~ scatters the ~F4~.~EE~}#027#018
+~F5~ esparce el ~F4~.~EE~#018
+;00001168{~F5~~F2~ sneezes!~FF~~F5~~F2~ doesnñt sneeze.~EE~}#049#031
+~F5~~F2~ estornuda.~FF~~F5~~F2~ no estornuda.~EE~#031
+;00001187{~F5~ looks inside the ~F4~.~EE~}#031#022
+~F5~ mira dentro del~F4~.~EE~#022
+;0000119D{~F5~ puts the ~F4~ on.~EE~}#026#017
+~F5~ se pone el ~F4~.~EE~#017
+;000011AE{Strength goes up ~F8~ point~C0~.~EE~}#036#027
+ Fuerza sube ~F8~ punto~C0~.~EE~#027
+;000011C9{Agility goes up ~F8~ point~C0~.~EE~}#035#026
+Agilidad sube ~F8~ punto~C0~.~EE~#026
+;000011E3{Vitality goes up ~F8~ point~C0~.~EE~}#036#027
+Vitalidad sube ~F8~ punto~C0~.~EE~#027
+;000011FE{Luck goes up ~F8~ point~C0~.~EE~}#032#023
+Suerte sube ~F8~ punto~C0~.~EE~#023
+;00001215{Intelligence goes up ~F8~ point~C0~.~EE~}#040#031
+Inteligencia sube ~F8~ punto~C0~.~EE~#031
+;00001234{~F5~ puts the ~F4~ on ~B0~ finger and makes a wish.~EF~}#055#043
+~F5~ pone ~F4~ en el dedo de ~B0~ y pide un deseo.~EF~#043
+;0000125F{The ring silently crumbles into pieces.~EF~}#043#040
+El anillo se rompe sileciosamente.~EF~#040
+;00001287{~F5~ peels the ~F4~ and puts it in ~B0~ mouth.~EF~}#050#038
+~F5~ pela el ~F4~ y se lo pone en la boca.~EF~#038
+;000012AD{The Maximum HP goes up ~F8~ point~C0~!~EE~}#042#033
+¡Los PV Máximos suben ~F8~ punto~C0~!~EE~#033
+;000012CE{~F5~ scatters the ~F4~.~EF~}#027#018
+~F5~ esparce el ~F4~.~EF~#018
+;000012E0{~F5~ flings the ~F4~ into the air.~EF~}#038#029
+~F5~ lanza el ~F4~ al aire.~EF~#029
+;000012FD{~F5~ grinds up the ~F4~ and gives it to ~F5~.~EF~}#049#037
+~F5~ muele el ~F4~ y se lo da a ~F5~.~EF~#037
+;00001322{~EF~}#004#001
+~EF~#001
+;00001323{A freeze beam shoots out from Zomañs fingertip.~EE~}#051#048
+Un rayo congelante sale de un dedo de Zoma.~EE~#048
+;00001353{~F5~ blows the ~F4~.~EE~}#024#015
+~F5~ sopla el ~F4~.~EE~#015
+;00001362{~F5~ strums the ~F4~.~EF~}#025#016
+~F5~ rasguea el ~F4~.~EF~#016
+;00001372{~F5~~F2~ is delighted.~EE~}#026#017
+~F5~~F2~ se maravilla.~EE~#017
+;00001383{The ball glows even more brightly.~EE~}#038#035
+La bola brilla aún más brillante.~EE~#035
+;000013A6{The thread of light twines around the Archfiend and removes his robe of darkness.~EE~}#085#082
+El hilo de luz se enrosca en el Señor Demonio y elimina su manto de oscuridad.~EE~#082
+;000013F8{~F5~ heaves the ~F4~.~EE~}#025#016
+~F5~ empuja el ~F4~.~EE~#016
+;00001408{`Huh!?´~EF~}#011#008
+`¿uh?´~EF~#008
+;00001410{All party members gain ~F8~ experience point~C0~.~EE~}#053#044
+Todo el grupo gana ~F8~ punto~C0~ de experiencia.~EE~#044
+;0000143C{~FD~~EB~   ~EB~~F5~ has also found ~F8~ piece~C0~ of gold.~EE~}#062#041
+~FD~~EB~   ~EB~~F5~ también halla ~F8~ pieza~C0~ de oro.~EE~#041
+;00001465{But the treasure chest is empty!~EE~}#036#033
+¡Pero el cofre está vacío!~EE~#033
+;00001486{The Maximum HP goes up ~F8~ point~C0~.~EE~}#042#033
+Los PV Máximos suben ~F8~ punto~C0~.~EE~#033
+;000014A7{The Maximum MP goes up ~F8~ point~C0~.~EE~}#042#033
+Los PM Máximos suben ~F8~ punto~C0~.~EE~#033
+;000014C8{~F5~ learns a new spell.~EE~}#028#022
+~F5~ aprende un hechizo.~EE~#022
+;000014DE{~F5~ obtains the ~F4~.~EE~}#026#017
+~F5~ obtiene el ~F4~.~EE~#017
+;000014EF{~F5~ cannot equip ~B1~ with the ~F4~.~EE~}#041#029
+~F5~ no puede equiparse con ~F4~.~EE~#029
+;0000150C{The Maximum MP goes up ~F8~ point~C0~.~EE~}#042#033
+Los PM Máximos suben ~F8~ punto~C0~.~EE~#033
+;0000152D{You canñt get off here!~EE~}#027#024
+¡No puedes irte!~EE~#024
+;00001545{~F5~ cannot use the ~F4~.~EE~}#029#020
+~F5~ no puede usar ~F4~.~EE~#020
+;00001559{~F5~ goes up to the next level!~EE~}#035#029
+ ¡~F5~ sube al siguiente nivel!~EE~#029
+;00001576{~F9~ canñt use a spell.~EE~}#027#021
+~F9~ no usa magia.~EE~#021
+;0000158B{~F9~ canñt use a spell.~EE~}#027#021
+~F9~ no usa magia.~EE~#021
+;000015A0{The curse on ~F5~ is gone.~EE~}#030#024
+Maldición de ~F5~ quitada.~EE~#024
+;000015B8{~F5~ doesnñt know any spells that can be used while on the move.~EE~}#068#062
+~F5~ no conoce hechizos que se puedan usar mientras se mueve.~EE~#062
+;000015F6{~F5~ is dead and cannot cast the spell.~EE~}#043#037
+~F5~ está muerto y no puede usar magia.~EE~#037
+;0000161B{~F5~ is confused and cannot cast the spell.~EE~}#047#041
+~F5~ confuso no puede utilizar la magia.~EE~#041
+;00001644{~F5~ gives the ~F4~ as an offering.~EE~}#039#030
+~F5~ da el ~F4~ como ofrenda.~EE~#030
+;00001662{~EF~}#004#001
+~EF~#001
+;00001663{~EF~}#004#001
+~EF~#001
+;00001664{~EF~}#004#001
+~EF~#001
+;00001665{`Oh, calling it quits?~EB~Is it OK with you to lose your bet?´~EF~}#066#060
+`¿Oh, ya lo dejas?~EB~¿Seguro que quieres perder tu apuesta?´~EF~#060
+;000016A1{`Very well. Please come again~69~~EF~}#037#031
+`Muy bien. Vuelva pronto.~69~~EF~#031
+;000016C0{`Oh, packing it in?~EB~What a shame!´~EF~}#041#035
+`¿Oh, recogiendo?~EB~¡Qué pena!´~EF~#035
+;000016E3{~F5~~F2~ comes out on top!~EB~~F9~ obtains ~F8~ piece~C0~ of gold.~EE~}#070#049
+¡~F5~~F2~ gana!~EB~~F9~ obtiene ~F8~ pieza~C0~ de oro.~EE~#049
+;00001714{~F5~~F2~ comes out a winner.~EB~~F9~ñs bet is lost.~EE~}#055#040
+~F5~~F2~ sale vencedor.~EB~~F9~ pierde la apuesta.~EE~#040
+;0000173C{`Ladies and gentlemen of the court, now hear ye~69~~FD~~EB~`This match has ended in a draw~69~~FD~~EB~`Thy bets shalt be returned and we prithee enjoy the coming match~69~~EF~}#175#151
+`Señoras y caballeros de la corte, escuchen~69~~FD~~EB~`El combate ha acabado en empate~69~~FD~~EB~`Sus apuestas serán devueltas y les animaos a disfrutar el siguiente~69~~EF~#151
+;000017D3{~F5~ does not have items.~EE~}#029#023
+~F5~ no tiene objetos.~EE~#023
+;000017EA{~F5~ is numb and cannot cast the spell.~EE~}#043#037
+~F5~ entumecido no puede hacer magia.~EE~#037
+;0000180F{~EF~}#004#001
+~EF~#001
+;00001810{~EF~}#004#001
+~EF~#001
+;00001811{~EF~}#004#001
+~EF~#001
+;00001812{~F5~ suddenly starts to flee.~EE~}#033#027
+~F5~ de repente intenta huir.~EE~#027
+;0000182D{~F5~ catches a whiff of the socks.~EE~}#038#032
+~F5~ coge olor en los calcetines.~EE~#032
+;0000184D{~F5~ begins to mimic the arms shopkeeper:~EB~~62~This store deals in weapons and armor¡~69~~EE~}#095#080
+~F5~ imita al tendero de armas:~EB~~62~Esta tienda comercia con armas y armaduras...~69~~EE~#080
+;0000189D{~F5~ casts the spell, Explodet.~EE~}#035#029
+~F5~ lanza una magia, Explodet.~EE~#029
+;000018BA{~F5~ speaks ill of ~F5~~F2~.~EE~}#032#020
+~F5~ habla mal de ~F5~~F2~.~EE~#020
+;000018CE{~F5~~F2~ becomes enraged.~EE~}#029#020
+~F5~~F2~ se enfurece.~EE~#020
+;000018E2{~F5~~F2~ is not listening.~EE~}#030#021
+~F5~~F2~ no te hace caso.~EE~#021
+;000018F7{~F5~ is honing his body to be ready for anything.~EE~}#053#047
+~F5~ afina su cuerpo para estar listo para todo.~EE~#047
+;00001926{~F5~ starts doing Jazzercise!~EE~}#033#027
+¡~F5~ empieza el Jazzercise!~EE~#027
+;00001941{~F5~ suddenly becomes enlightened.~EE~}#038#032
+~F5~ de repente se ilumina.~EE~#032
+;00001961{~F5~ points ~B0~ finger at ~F5~~F2~ and guffaws.~EE~}#052#037
+~F5~ apunta el dedo de ~B0~ a ~F5~~F2~ y rie.~EE~#037
+;00001986{~F5~ gets tangled up in his own legs and falls down.~EE~}#056#050
+~F5~ se tropieza con sus propios pies y cae.~EE~#050
+;000019B8{~F5~ pokes at the dead monster.~EE~}#035#029
+~F5~ hurga al monstruo muerto.~EE~#029
+;000019D5{~F5~ remarks smugly:~EB~~62~I wouldnñt fight if I were you. Even a victory would be hollow~69~~EE~}#098#083
+~F5~ observa creído:~EB~~62~No lucharía si fuera tu. Incluso una victoria sería  vacía~69~~EE~#083
+;00001A28{~F5~ is confused for some reason.~EE~}#037#031
+~F5~ está confundido por algo.~EE~#031
+;00001A47{~F5~ lies down for a nap.~EE~}#029#023
+~F5~ se tira a dormir.~EE~#023
+;00001A5E{~F5~ spruces ~B1~ up.~EE~}#025#016
+~F5~ asea a ~B1~.~EE~#016
+;00001A6E{~F5~ is lost in thought.~EE~}#028#022
+~F5~ está en su mundo.~EE~#022
+;00001A84{~F5~ is taking a break.~EE~}#027#021
+~F5~ está descansando.~EE~#021
+;00001A99{~F5~ recoils!~EE~}#017#011
+¡~F5~ recula!~EE~#011
+;00001AA4{~F5~ cheers on ~B0~ companions.~EE~}#035#026
+~F5~ aplaude al grupo de ~B0~.~EE~#026
+;00001ABE{But ~B0~ companions are not there.~EE~}#038#032
+Pero ~B0~ los compañeros no están.~EE~#032
+;00001ADE{But no one is listening.~EE~}#028#025
+Pero nadie escucha.~EE~#025
+;00001AF7{~F5~ suddenly found ~B2~ couldnñt move a single muscle.~EE~}#059#050
+~F5~ descubre que ~B2~ no puede mover ni un músculo.~EE~#050
+;00001B29{~F5~ beckons the heavens.~EE~}#029#023
+~F5~ hace señas al cielo.~EE~#023
+;00001B40{~F5~ breaks out in a smile.~EE~}#031#025
+~F5~ rompe en una sonrisa.~EE~#025
+;00001B59{~F5~ suddenly pinches ~F5~.~EE~}#031#022
+~F5~ pellizca a ~F5~.~EE~#022
+;00001B6F{~F5~ :~EB~~62~Hey!! What do you think youñre doing?´~EE~}#056#044
+~F5~ :~EB~~62~¡Ey! ¿Qué crees que estás haciendo?´~EE~#044
+;00001B9B{~F5~ blusters:~EB~~62~Do you realize who you are speaking to? Impertinent!´~EE~}#079#067
+~F5~ fanfarronea:~EB~~62~¿Sabes con quien estás hablando? ¡Impertienente!´~EE~#067
+;00001BDE{~F5~ gives a kind glance.~EE~}#029#023
+~F5~ mira atentamente.~EE~#023
+;00001BF5{~F5~ pretends to be dead.~EE~}#029#023
+~F5~ se hace el muerto.~EE~#023
+;00001C0C{But fools no one!~EE~}#021#018
+¡Pero no engaña!~EE~#018
+;00001C1E{~F5~ soft soaps ~F5~~F2~.~EE~}#029#017
+~F5~ adula a ~F5~~F2~.~EE~#017
+;00001C2F{~F5~ is chewing onion~6B~flavored gum.~EE~}#042#033
+~F5~ mastica chicle~6B~de cebolla.~EE~#033
+;00001C50{The strong smell is drifting everywhere.~EE~}#044#041
+El fuerte olor flota por todos lados.~EE~#041
+;00001C79{~F5~ blows a kiss.~EE~}#022#016
+~F5~ tira un beso.~EE~#016
+;00001C89{~F5~ suddenly turns around and rolls up a sleeve.~EE~}#053#047
+~F5~ de repente se gira y enrolla una manga.~EE~#047
+;00001CB8{~57~¡exposing a small tatoo!~EE~}#032#026
+~57~¡enseñando un tatuaje!~EE~#026
+;00001CD2{~F5~ is momentarily transfixed.~EE~}#035#029
+~F5~ se paraliza un momento.~EE~#029
+;00001CEF{~F5~ sings a song.~EE~}#022#016
+~F5~ canta algo.~EE~#016
+;00001CFF{~F5~ makes an awful pun.~EE~}#028#022
+~F5~ hace un mal chiste.~EE~#022
+;00001D15{~F5~ is momentarily transfixed.~EE~}#035#029
+~F5~ se paraliza un momento.~EE~#029
+;00001D32{~FD~~EB~The key doesnñt fit.~EE~}#032#023
+~FD~~EB~La llave no encaja.~EE~#023
+;00001D49{But nothing is happening here.~EE~}#034#031
+Pero aquí no sucede nada.~EE~#031
+;00001D68{   ~EB~But nothing is happening now.~EE~}#040#034
+   ~EB~Pero ahora no sucede nada.~EE~#034
+;00001D8A{`Wake up dear! Wake up ~F5~~69~~EF~}#035#026
+`¡Arriba cariño! Vamos ~F5~~69~~EF~#026
+;00001DA4{   ~EB~A darkness oozes out from the lamp and covers everything with the blackness of night.~EE~}#096#090
+   ~EB~La oscuridad rezuma de la lámpara y cubre todo con la oscuridad de la noche.~EE~#090
+;00001DFE{The effect of the Invisibility Herb has worn off.~EE~}#053#050
+El efecto de la Hierba de Invisibilidad se fué.~EE~#050
+;00001E30{   ~EB~However, Norud is not here.~EE~}#038#032
+   ~EB~Pero, Norud no está aquí.~EE~#032
+;00001E50{It seems the power of the ring is used up.~EE~}#046#043
+El poder del anillo parece agotado.~EE~#043
+;00001E7B{~FD~~EB~   ~EB~The spirit of Errol and Oliviañs devotion to each other radiates from the area.~FD~~EE~}#102#087
+~FD~~EB~   ~EB~El espíritu de la devoción entre Errol y Olivia irradia desde esta zona.~FD~~EE~#087
+;00001ED2{The curse on Olivia is broken.~EE~}#034#031
+Olivia ya no está maldita.~EE~#031
+;00001EF1{From out of nowhere, a plaintive voice is heard¡.~EE~}#053#050
+De la nada, se escucha una voz dolorida...~EE~#050
+;00001F23{`Oh, Errol, my beloved! Iñve been waiting for you such a long time!´~FD~~EB~`My dear Olivia. Never again shall we be parted!´~FD~~EB~`Errol!´~FD~~EF~}#149#131
+`¡Oh, Errol, querido! ¡Te he estado esperando tanto tiempo!´~FD~~EB~`Mi querida Olivia.~EB~¡Nunca más nos separaremos!´~FD~~EB~`¡Errol!´~FD~~EF~#131
+;00001FA6{~F5~ peers inside the ~F4~.~EE~}#031#022
+~F5~ mira dentro de ~F4~.~EE~#022
+;00001FBC{~FD~~EB~But from here, no echo comes back.~EE~}#046#037
+~FD~~EB~Pero desde aquí, no hay eco.~EE~#037
+;00001FE1{There is no one in that direction.~EE~}#038#035
+No hay nadie en esa dirección.~EE~#035
+;00002004{Gosh! A stairway!~EE~}#021#018
+¡Uy! ¡Escaleras!~EE~#018
+;00002016{~F8~ to the north~EF~}#021#015
+~F8~ al norte~EF~#015
+;00002025{~F8~ to the east~EF~}#020#014
+~F8~ al este~EF~#014
+;00002033{~F8~ to the south~EF~}#021#015
+~F8~ al sur~EF~#015
+;00002042{~F8~ to the west~EF~}#020#014
+~F8~ al oeste~EF~#014
+;00002050{is the direction indicated.~EF~}#031#028
+es la dirección indicada.~EF~#028
+;0000206C{~F5~ is confused by the Noh Mask.~EE~}#037#031
+~F5~ confundido por Máscara Noh.~EE~#031
+;0000208B{~FD~~EB~   ~EB~~F5~ :~EB~`It doesnñt look especially cursed~69~~EF~}#067#046
+~FD~~EB~   ~EB~~F5~ :~EB~`No parece especialmente maldito~69~~EF~#046
+;000020B9{~F5~ sets up the ~F4~ on the wall.~EE~}#038#029
+~F5~ pone el ~F4~ en el muro.~EE~#029
+;000020D6{The Magic Ball canñt be used here.~EE~}#038#035
+La Bola Mágica no se usa aquí.~EE~#035
+;000020F9{The powder rides on the wind and spreads throughout the area¡.~FD~~EB~   ~EB~~EE~}#081#069
+El polvo cabalga en el viento y se esparce por la zona...~FD~~EB~   ~EB~~EE~#069
+;0000213E{Look! The villagers are starting to wake up!~EE~}#048#045
+¡Mira! ¡Los aldeanos comienzan a despertar!~EE~#045
+;0000216B{~F5~ takes the ~F4~ and checks it out.~FD~~EB~   ~EB~~EE~}#057#039
+~F5~ coge el ~F4~ y lo examina.~FD~~EB~   ~EB~~EE~#039
+;00002192{~F5~ dives headfirst from the ship into the water.~FD~~EB~   ~EB~~EE~}#069#054
+~F5~ se tira de cabeza del barco al agua.~FD~~EB~   ~EB~~EE~#054
+;000021C8{~F5~ :~EB~`This looks like a weapon~69~~EF~}#043#031
+~F5~ :~EB~`Esto parece un arma~69~~EF~#031
+;000021E7{~F5~ :~EB~`This looks like armor~69~~EF~}#040#028
+~F5~ :~EB~`Parece una armadura~69~~EF~#028
+;00002203{~F5~ :~EB~`This looks like a shield~69~~EF~}#043#031
+~F5~ :~EB~`Esto parece un escudo~69~~EF~#031
+;00002222{~F5~ :~EB~`This looks like a helmet~69~~EF~}#043#031
+~F5~ :~EB~`Esto parece un casco~69~~EF~#031
+;00002241{~FD~~EB~   ~EB~~F5~ :~EB~`This is worth ~F8~ piece~C0~ of gold if sold to an item store~69~~EF~}#095#068
+~FD~~EB~   ~EB~~F5~ :~EB~`Esto vale ~F8~ piezas~C0~ de oro si se vende en una tienda~69~~EF~#068
+;00002285{~F5~ :~EB~`This looks like a useful item~69~~EF~}#048#036
+~F5~ :~EB~`Esto parece un obeto útil~69~~EF~#036
+;000022A9{~F5~ :~EB~`This is a nice piece of work, isnñt it~69~~FD~~EF~}#061#046
+~F5~ :~EB~`Esto es un gran trabajo, ¿no?~69~~FD~~EF~#046
+;000022D7{~F5~ :~EB~`I doubt even the shopkeeper could put a price on this~69~~EF~}#072#060
+~F5~ :~EB~`Dudo que ni un tendero pueda ponerle precio a esto~69~~EF~#060
+;00002313{~F5~ is unable to move and canñt use the item.~EE~}#050#044
+~F5~ no puede moverse ni usar el objeto.~EE~#044
+;0000233F{~F5~ is dead and canñt use the item.~EE~}#040#034
+~F5~ está muerto y no puede usarlo.~EE~#034
+;00002361{~F5~ throws away the ~F4~.~EE~}#030#021
+~F5~ tira el ~F4~.~EE~#021
+;00002376{~F5~ takes the ~F4~ from ~F5~ñs Tool Bag and throws it away.~EE~}#064#052
+~F5~ coge el ~F4~ de la Bolsa de ~F5~ y lo tira.~EE~#052
+;000023AA{~F5~ takes the ~F4~ from ~F5~ñs ghost and throws it away.~EE~}#061#049
+~F5~ coge el ~F4~ del fantasma de ~F5~ y lo tira.~EE~#049
+;000023DB{It must not be thrown away!~EE~}#031#028
+¡No debe tirarse!~EE~#028
+;000023F7{~F5~ transfers the ~F4~ to ~F5~.~EE~}#036#024
+~F5~ transfiere el ~F4~ a ~F5~.~EE~#024
+;0000240F{~F5~ puts the ~F4~ in ~F5~ñs Tool Bag.~EE~}#042#030
+~F5~ pone el ~F4~ en la Bolsa de ~F5~.~EE~#030
+;0000242D{~F5~ gives the ~F4~ to ~F5~ñs ghost.~EE~}#040#028
+~F5~ da el ~F4~ al fantasma de ~F5~.~EE~#028
+;00002449{~F5~ takes the ~F4~ from ~F5~ñs Tool Bag.~EE~}#045#033
+~F5~ coge el ~F4~ de la Bolsa de ~F5~.~EE~#033
+;0000246A{~F5~ takes the ~F4~ from ~F5~ñs Tool Bag and puts it in ~F5~ñs Tool Bag.~EE~}#076#061
+~F5~ coge el ~F4~ de la Bolsa de ~F5~ y lo pone en la Bolsa de ~F5~.~EE~#061
+;000024A7{~F5~ takes the ~F4~ from ~F5~ñs Tool Bag and gives it to ~F5~ñs ghost.~EE~}#074#059
+~F5~ coge el ~F4~ de la Bolsa de ~F5~ y se lo da al fantasma de ~F5~.~EE~#059
+;000024E2{~F5~ takes the ~F4~ from ~F5~ñs ghost.~EE~}#042#030
+~F5~ coge ~F4~ del fantasma de ~F5~.~EE~#030
+;00002500{~F5~ takes the ~F4~ from ~F5~ñs ghost and puts it in ~F5~ñs Tool Bag.~EE~}#073#058
+~F5~ coge el ~F4~ del fantasma de ~F5~ y lo pone en la Bolsa de ~F5~.~EE~#058
+;0000253A{~F5~ takes the ~F4~ from ~F5~ñs ghost and gives it to ~F5~ñs ghost.~EE~}#071#056
+~F5~ coge el ~F4~ del fantasma de ~F5~ y se lo da al de ~F5~.~EE~#056
+;00002572{~F5~ makes as if to transfer something but keeps it.~EE~}#056#050
+~F5~ hace el gesto de dar algo pero se lo queda.~EE~#050
+;000025A4{~F5~ takes the ~F4~ from ~F5~ñs Tool Bag and returns it to ~F5~ñs Tool Bag.~EE~}#079#064
+~F5~ coge el ~F4~ de la Bolsa de ~F5~ y lo devuelve a la Bolsa de ~F5~.~EE~#064
+;000025E4{~F5~ takes the ~F4~ from ~F5~ñs ghost and returns it to ~F5~ñs ghost.~EE~}#073#058
+~F5~ coge el ~F4~ del fantasma de ~F5~ y se lo devuelve.~EE~#058
+;0000261E{A red light glows within the treasure chest.~EE~}#048#045
+Una luz roja brilla dentro del cofre.~EE~#045
+;0000264B{A yellow light glows within the treasure chest.~EE~}#051#048
+Una luz amarilla brilla dentro del cofre.~EE~#048
+;0000267B{A blue light glows within the treasure chest.~EE~}#049#046
+Una luz azul brilla dentro del cofre.~EE~#046
+;000026A9{The treasure chest seems to be empty.~EE~}#041#038
+El cofre parece estar vacío.~EE~#038
+;000026CF{~F5~ examines the wall.~FD~~EB~   ~EB~~EE~}#042#027
+~F5~ examina la pared.~FD~~EB~   ~EB~~EE~#027
+;000026EA{~F5~ throws the ~F4~ in the crater!~EE~}#039#030
+¡~F5~ tira el ~F4~ al cráter!~EE~#030
+;00002708{`Cursed be those who disturb my sleep!´~EF~}#043#040
+`¡Malditos los que perturban mi sueño!´~EF~#040
+;00002730{From out of nowhere, eerie voices are heard¡.~FD~~EB~   ~EB~:~EB~`Who dares to raid the Kingñs treasure?´~FD~~EB~   ~EB~:~EB~`Who dares to disturb our slumber?´~EB~~EF~}#168#138
+De la nada, se escuchan voces misteriosas...~FD~~EB~   ~EB~:~EB~`¿Quién osa asaltar el tesoro del Rey?´~FD~~EB~   ~EB~:~EB~`¿Quién perturba nuestro sueño?´~EB~~EF~#138
+;000027BA{~F5~ takes the ~F4~ from ~F5~ñs ghost and lets it have the ~F4~.~EE~}#068#053
+~F5~ coge el ~F4~ del fantasma de ~F5~ y le deja tener el ~F4~.~EE~#053
+;000027EF{~F5~ throws away the ~F4~ from ~F5~ñs Tool Bag and lets it have the ~F4~.~EE~}#077#062
+~F5~ tira el ~F4~ de la Bolsa de ~F5~ y le deja tener el ~F4~.~EE~#062
+;0000282D{There is a small button in the wall.~EB~Do you want to push it?~EF~}#067#061
+Hay un pequeño botón en la pared.~EB~¡Quieres pulsarlo?~EF~#061
+;0000286A{~F5~ examines the door.~FD~~EB~It is written on the door that a curse shall befall all those who enter herein.~EF~}#114#102
+~F5~ examina la puerta.~FD~~EB~Está escrito ella que una maldición caerá sobre aquellos que entren.~EF~#102
+;000028D0{~F9~ has no companions.~EE~}#027#021
+~F9~ no tiene grupo.~EE~#021
+;000028E5{~F5~ examines the casket.~FD~~EB~   ~EB~~EE~}#044#029
+~F5~ examina el ataúd.~FD~~EB~   ~EB~~EE~#029
+;00002902{Do you want to discard something?~EE~}#037#034
+¿Quieres desechar algo?~EE~#034
+;00002924{But nothing can be found!~EE~}#029#026
+¡Pero no encuentra nada!~EE~#026
+;0000293E{~F5~ examines the ground at ~B0~ feet.~FD~~EB~   ~EB~~EE~}#057#039
+~F5~ examina el suelo a sus pies.~FD~~EB~   ~EB~~EE~#039
+;00002965{~F5~ doesnñt have an item yet.~EE~}#034#028
+~F5~ aún no tiene objetos.~EE~#028
+;00002981{However the treasure chest is empty!~EE~}#040#037
+¡Pero el cofre está vacío!~EE~#037
+;000029A6{~F5~ discards the ~F4~ and obtains the ~F4~.~EE~}#048#036
+~F5~ desecha el ~F4~ y obtiene el ~F4~.~EE~#036
+;000029CA{~FD~A message is also found in the treasure chest.~EB~~F5~ reads the message.~FD~~EB~`Forgive me, mother, for departing this world ahead of you~69~~FD~~EB~`If my love for him, that of elf for human, is forbidden in this world~69~~FD~~EB~`At least I can be with him in the one beyond¡. Anne´~EF~}#294#258
+~FD~También hay un mensaje en el cofre.~EB~~F5~ lee el mensaje.~FD~~EB~`Perdóname, madre, por irme de este mundo antes que tú~69~~FD~~EB~`Si mi amor por él, sea elfo o humano, está prohibido en este mundo~69~~FD~~EB~`Por lo menos puedo estar con él en el más allá...´~EF~#258
+;00002ACC{However, ~F5~ cannot have one thing more.~EE~}#045#039
+Pero ~F5~ no puede cargas más cosas.~EE~#039
+;00002AF3{~F5~ gives up the ~F4~.~EE~}#027#018
+~F5~ tira el ~F4~.~EE~#018
+;00002B05{What do you want to discard?~EE~}#032#029
+¿Qué quieres desechar?~EE~#029
+;00002B22{Who among you will discard it?~EE~}#034#031
+¿Quién lo desechará?~EE~#031
+;00002B41{~F5~ is dead and cannot equip ~B1~ with anything.~EE~}#053#044
+~F5~ está muerto y no puede equipar a ~B1~.~EE~#044
+;00002B6D{That ~F4~ is cursed.~EE~}#024#018
+~F4~ está maldito.~EE~#018
+;00002B7F{   ~EB~The ~F4~ is stuck to the body because of the curse.~EE~}#062#053
+   ~EB~El ~F4~ está pegado al cuerpo por la maldición.~EE~#053
+;00002BB4{~F5~ uses the ~F4~.~EE~}#023#014
+~F5~ usa el ~F4~.~EE~#014
+;00002BC2{~F5~ puts the ~F4~ on.~EE~}#026#017
+~F5~ se pone el ~F4~.~EE~#017
+;00002BD3{~EF~}#004#001
+~EF~#001
+;00002BD4{~F5~ lights the ~F4~.~EE~}#025#016
+~F5~ enciende ~F4~.~EE~#016
+;00002BE4{~F5~ sprinkles the ~F4~ on ~B0~ body.~EE~}#041#029
+~F5~ rocía el ~F4~ en ~B0~.~EE~#029
+;00002C01{~F5~ reads the Royal Scroll.~FD~~EB~   ~EB~:~EB~`My dear Norud´~FD~~EB~   ~EB~:~EB~`Please guide the bearers of this scroll to the secret passage called Bolefñs Path~69~~FD~~EB~   ~EB~:~EB~`signed, King of Portoga~69~~EF~}#221#173
+~F5~ lee el Pergamino Real.~FD~~EB~   ~EB~:~EB~`Querido Norud´~FD~~EB~   ~EB~:~EB~`Por favor guía a los portadores de este pergamino al pasadizo secreto Camino Bolef~69~~FD~~EB~   ~EB~:~EB~`firmado, Rey de Portoga~69~~EF~#173
+;00002CAE{~F5~ blows the ~F4~.~EE~}#024#015
+~F5~ sopla el ~F4~.~EE~#015
+;00002CBD{~EF~}#004#001
+~EF~#001
+;00002CBE{~F5~ shoots the ~F4~!~EE~}#025#016
+¡~F5~ dispara ~F4~!~EE~#016
+;00002CCE{~F5~ holds the ~F4~ by the thread~FD~~EB~and the Sailorñs Thigh Bone begins to spin.~FD~~EB~   ~EB~~EE~}#103#079
+~F5~ aguanta el ~F4~ con un hilo~FD~~EB~y el Fémur del Marinero comienza a girar.~FD~~EB~   ~EB~~EE~#079
+;00002D1D{~F5~ sets the ~F4~ afloat on the ocean.~EE~}#043#034
+~F5~ pone a flotar el ~F4~ en el mar.~EE~#034
+;00002D3F{~F5~ sets the ~F4~ on the ground.~EE~}#037#028
+~F5~ pone el ~F4~ en el suelo.~EE~#028
+;00002D5B{~F5~ raises the ~F4~ to the skies.~EE~}#038#029
+~F5~ alza el ~F4~ a los cielos.~EE~#029
+;00002D78{~F5~ raises the ~F4~ over ~B0~ head.~EE~}#040#028
+~F5~ alza el ~F4~ a su cabeza.~EE~#028
+;00002D94{~F5~ sprinkles the ~F4~ all around.~EE~}#039#030
+~F5~ rocía el ~F4~ por todos lados.~EE~#030
+;00002DB2{~F5~ puts the ~F4~ in the palm of ~B0~ hand.~FD~~EB~   ~EB~~EE~}#063#042
+~F5~ pone el ~F4~ en su palma.~FD~~EB~   ~EB~~EE~#042
+;00002DDC{~F5~ has already put the ~F4~ on.~EE~}#037#028
+~F5~ ya se ha puesto el ~F4~.~EE~#028
+;00002DF8{The king cannot use that spell.~EE~}#035#032
+El rey no puede usar esa magia.~EE~#032
+;00002E18{The king is already wearing the royal robes.~EE~}#048#045
+El rey ya lleva puestos los ropajes reales.~EE~#045
+;00002E45{It is said that long ago the king was very powerful.~EE~}#056#053
+Se dice que no hace mucho el rey era muy poderoso.~EE~#053
+;00002E7A{The king bears no items.~EE~}#028#025
+El rey no lleva objetos.~EE~#025
+;00002E93{The king examines the area at his feet but finds nothing.~EE~}#061#058
+El rey examina la zona a sus pies pero no encuentra nada.~EE~#058
+;00002ECD{However, ~F5~ cannot have one thing more.~EE~}#045#039
+Pero ~F5~ no puede llevar más cosas.~EE~#039
+;00002EF4{`Wretches! How didst thou enter herein? Methinks thee indeed scoundrels!´~FD~~FF~`Cast these varlets into prison!´~EF~}#118#109
+`¡Infelices!~EB~¿Cómo habéis entrado?~EB~¡Creo que son ciertamente canallas!´~FD~~FF~`¡Tira a estos trúhanes a prisión!´~EF~#109
+;00002F61{`All right, come along!´~EF~}#028#025
+`¡Muy bien, adelante!´~EF~#025
+;00002F7A{`Over here!´~EF~}#016#013
+`¡Por aquí!´~EF~#013
+;00002F87{`Get in!´~EF~}#013#010
+`¡Entra!´~EF~#010
+;00002F91{`Keep quiet!´~EF~}#017#014
+`¡Silencio!´~EF~#014
+;00002F9F{`How didst thou get out of jail?´~EB~`Thou art indeed imbeciles to return here!´~FD~~EF~}#088#079
+`¿Cómo saliste de la cárcel?´~EB~`¡Sois muy estúpidos por volver aquí!´~FD~~EF~#079
+;00002FEE{`So, who would you be now?´~EB~`Youñre thinking you want to join us, huh?´~EF~}#078#072
+`¿Así que, quién serás?´~EB~`¿Estás pensando en unirte a nosotros,~EB~¿eh?´~EF~#072
+;00003036{`Well, we canñt let you pass, now can we boys?´~EB~`Get ñem!´~EF~}#065#059
+`¿No podemos dejarte pasar, ¿eh chicos?´~EB~`¡Cogedlo!´~EF~#059
+;00003071{`The boss is out now. Come back later!´~EF~}#043#040
+`El jefe ha salido. ¡Vuelve más tarde!´~EF~#040
+;00003099{`Oh, brave hero! Save me!´~EB~`I am Tania, kidnapped from the town of Baharata~69~~EF~}#086#077
+`¡Oh héroe! ¡Sálvame!´~EB~`Soy Tania, secuestrada en Baharata~69~~FD~~FD~~EF~#077
+;000030E6{`The button that opens this door should be near the table at the end of the corridor~69~~EF~}#092#086
+`El botón que abre esta puerta debería estar cerca de la mesa al final del pasillo~69~~FD~~EF~#086
+;0000313C{Galen :~EB~`Oh, Tania!´~EB~   ~EB~Tania :~EB~`Dearest!´~EF~}#059#044
+Galen :~EB~`¡Oh, Tania!´~EB~   ~EB~Tania :~EB~`¡Amor!´~FD~~EF~#044
+;00003168{Tania :~EB~`Weñll be able to go home, wonñt we?´~FD~~EB~   ~EB~Galen :~EB~`When we get back letñs get married!´~FD~~EB~   ~EB~Tania :~EB~`Oh, my darling!´~EF~}#158#128
+Tania :~EB~`¿Podremos ir a casa, verdad?´~FD~~EB~   ~EB~Galen :~EB~`¡Cuando volvamos casémonos!´~FD~~EB~   ~EB~Tania :~EB~`¡Oh, querido!´~EF~#128
+;000031E8{Tania :~EB~`Thank you, brave hero~69~~EF~}#041#032
+Tania :~EB~`Muchas gracias, héroe~69~~EF~#032
+;00003208{Tania :~EB~`Aaah!!´~FD~~EB~   ~EB~Kandar :~EB~`Nya, ah, ah. Now that Iñm back, youñll never get away!´~FD~~EB~   ~EB~Tania :~EB~`Save me, brave hero!´~EF~}#154#124
+Tania :~EB~`¡Aah!´~FD~~EB~   ~EB~Kandar :~EB~`Nya, ah, ah. ¡Ahora que he vuelto, no te escaparás!´~FD~~EB~   ~EB~Tania :~EB~`¡Sálvame héroe!´~EF~#124
+;00003284{~F5~ :~EB~`Leave him to us! Run! Quick!´~FD~~EB~   ~EB~Tania :~EB~`Iñll never forget this!´~FD~~EB~   ~EB~Kandar :~EB~`You again? Who are you guys anyway? This time Iñll finish you off!´~EF~}#190#157
+~F5~ :~EB~`¡Déjanoslo! ¡Corre! ¡Rápido!´~FD~~EB~   ~EB~Tania :~EB~`¡Nunca olvidaré esto!´~FD~~EB~   ~EB~Kandar :~EB~`¿Tú otra vez? ¿Pero quienes sois? ¡Esta vez terminaré con vosotros!´~EF~#157
+;00003321{Kandar :~EB~`Curses! Iñm no match for you~69~~FD~~EF~}#053#041
+Kandar :~EB~`¡Maldición! No puedo ganaros~69~~FD~~EF~#041
+;0000334A{Kandar :~EB~`I beg of you! I promise you Iñll change! Iñve seen the error of my ways! Spare me! I beg you!´~EF~}#111#105
+Kandar :~EB~`¡Te lo suplico! ¡Te prometo que cambiaré! ¡He visto el error en mis actos! ¡Perdóname!´~EF~#105
+;000033B3{Kandar :~EB~`Donñt be so cold~6B~hearted! Donñt say things like that! Cñmon! Please!´~FD~~EF~}#093#081
+Kandar :~EB~`¡No seas tan frío! ¡No digas cosas como esa! ¡Porfa! ¡Plis!´~FD~~EF~#081
+;00003404{Kandar :~EB~`Thanks! Thanks! I really mean it! Be well! Until we meet again!´~EF~}#081#075
+Kandar :~EB~`¡Gracias! ¡Gracias! ¡De verdad lo digo! ¡Hasta la próxima!´~EF~#075
+;0000344F{From out of nowhere, ominous voices are heard¡.~FD~~EB~`We are the guards of the Archfiendñs Chamber! To enter youñll have to defeat us first!´~EF~}#147#138
+De la nada, se escuchan voces siniestras...~FD~~EB~`¡Somos los guardianes de la Cámara del Señor Demonio!~EB~¡Para entrar deberás vencernos!´~EF~#138
+;000034D9{~F5~ pushes the button~FD~~EB~The sound of a boulder moving is heard from some quarter.~EF~}#091#079
+ ~F5~ pulsa el botón~FD~~EB~Se escucha el sonido de una roca moviéndose en algún lugar.~EF~#079
+;00003528{Zoma :~EB~`~F5~!´~EB~`I bid thee welcome to thine altar of offering!´~FD~~EB~   ~EB~Zoma :~EB~`It is I who will bring about the destruction of all things!´~FD~~EB~   ~EB~Zoma :~EB~`All living beings shall be demolished by me and the entire world shall sink into despair~69~~FD~~EB~   ~EB~Zoma :~EB~`Commencing with thine own demise, ~F5~!´~FD~~EB~   ~EB~Zoma :~EB~`Come, my servants. Destroy them so that I may thrive on their suffering~69~~EF~}#444#375
+Zoma :~EB~`¡~F5~!´~EB~`¡Bienvenid~B2~ al altar de las ofrendas!´~FD~~EB~   ~EB~Zoma :~EB~`¡Soy el que traerá la destrucción a todas las cosas!´~FD~~EB~   ~EB~Zoma :~EB~`Todos los seres vivos serán destruidos por mí y todo el mundo se sumirá en la desesperación~69~~FD~~EB~   ~EB~Zoma :~EB~`¡Comenzando con tu defunción, ~F5~!´~FD~~EB~   ~EB~Zoma :~EB~`Venid, siervos. Destruidles para que pueda prosperar su sufrimiento~69~~EF~#375
+;0000369F{Zoma :~EB~`~F5~!´~EB~`Why do you struggle to live?´~FD~~EB~   ~EB~Zoma :~EB~`My joy is thy destruction. My beauty thy death!´~FD~~EB~   ~EB~Zoma :~EB~`Come forward then, and die in peace!´~EF~}#192#156
+Zoma :~EB~`¡~F5~!´~EB~`¿Por qué te aferras a la vida?´~FD~~EB~   ~EB~Zoma :~EB~`Disfruto la destrucción.~EB~¡Mi belleza es la muerte!´~FD~~EB~   ~EB~Zoma :~EB~`¡Ven entonces y muere en paz!´~EF~#156
+;0000373B{It was ~F9~ñs sixteenth birthday.~EE~}#037#031
+Fué el 16 cumpleaños de ~F9~.~EE~#031
+;0000375A{`Wake up, ~F9~.~EB~Itñs morning!´~FD~~EB~`Today is a very important day. ~EB~This is the first time that you, ~F9~, shall go to the castle~69~~FD~~EB~`I have raised you as a brave young lad for this very day~69~~EF~}#215#182
+`Levanta, ~F9~.~EB~¡Es de día!´~FD~~EB~`Hoy es un día muy importante. ~EB~Es la primera vez que tú, ~F9~, irás al castillo~69~~FD~~EB~`Te he criado cómo a un joven valiente para este día~69~~EF~#182
+;00003810{`So, come with your mother~69~~EF~}#034#028
+`Así que, ven con tu madre~69~~EF~#028
+;0000382C{`If you go straight, youñll come to the castle~69~~FD~~EB~`Remember your manners in front of the king. All right, be on your way now~69~~EF~}#140#125
+`Si sigues adelante, llegarás al castillo~69~~FD~~EB~`Recuerda tus modales delante del rey. Muy bien, adelante~69~~EF~#125
+;000038A9{`Whatñs the matter, ~F9~. Go along and meet the king~69~~EF~}#060#051
+`¿Cuál es el problema, ~F9~?. Ve y conoce al rey~69~~EF~#051
+;000038DC{`Welcome unto thee, ~F9~, son of the brave Ortega!´~FD~~EB~`It is said that thy father Ortega met his end when he fell into a volcanoñs crater at the end of a battle~69~~FD~~EB~`We do hereby accept your petition to follow in the footsteps of your brave father~69~~FD~~EB~`Thy enemy shall be the Archfiend Baramos~69~~FD~~EB~`The name of the Archfiend Baramos is yet unknown in the world of men~69~~FD~~FF~`Farewell! Until we meet once more, ~F9~!´~EF~}#451#400
+`¡Te doy la bienvenida, ~F9~, hij~B2~ del valiente Ortega!´~FD~~EB~`Dicen que tu padre Ortega encontró su fin cuando cayó en el cráter de un volcán al final de una batalla~69~~FD~~EB~`Por la presente aceptamos tu petición de seguir los pasos de tu valiente padre~69~~FD~~EB~`El enemigo es el Señor Demonio Baramos~69~~FD~~EB~`El Señor Demonio Baramos es desconocido en el mundo de los hombres~69~~FD~~FF~`¡Adiós! ¡Hasta que nos volvamos a ver, ~F9~!´~EF~#400
+;00003A6C{Look! A hero is fighting a monster alone!~EF~}#045#042
+¡Mira!~EB~¡Un héroe lucha con un monstruo!~EF~#042
+;00003A96{`The hero has won, but in winning seems to have spent his last ounce of power~69~~FD~~EF~}#089#080
+`El héroe ha ganado, pero al ganar parece haber gastado sus últimas fuerzas~69~~FD~~EF~#080
+;00003AE6{`Itñs all over for me¡~69~~EB~`Oh, traveler. Please hear my dying words~69~~FD~~EB~`I am Ortega of Aliahan~69~~FD~~EB~`If you happen to go to Aliahan in your travels, please visit ~F5~ and tell of what transpired here~69~~FD~~EB~`Ask ~B3~ to forgive ~B0~ father who could not bring peace to this world. Tell h¡Aaah!´~EF~}#320#275
+`Se acabó para mí...~69~~EB~`Oh, viajero. Por favor escucha mis últimas palabras~69~~FD~~EB~`Soy Ortega de Aliahan~69~~FD~~EB~`Si vas a Aliahan en tus viajes, por favor visita a ~F5~ y dile lo que ha pasado aquí~69~~FD~~EB~`Dile que perdone a su padre que no pudo traer la paz a este mundo. Dile... ¡Aaah!´~EF~#275
+;00003BF9{`If things remain unchanged, before long the world will be destroyed by the Archfiend~69~~FD~~EB~`Baramos must be defeated!´~FD~~EB~`Seek companions at the local eatery and start your quest~69~~FD~~EB~   ~EB~~F5~ receives money for his party.~FD~~FF~`Whoa! Get a load of these weirdos!´~FD~~EF~}#294#252
+`Si nada cambia, dentro de poco el mundo será destruido por el Señor Demonio~69~~FD~~EB~`¡Baramos debe ser vencido!´~FD~~EB~`¡Busca compañeros en el restaurante y empieza tu aventura!~69~~FD~~EB~   ~EB~~F5~ recibe dinero para su grupo.~FD~       ~FF~`¡Whoa! ¡Qué tipos más raritos!´~FD~~EF~#252
+;00003CF5{`Yep! We better go tell the boss~69~~EF~}#040#034
+`¡Sip! Mejor decírselo al jefe~69~~EF~#034
+;00003D17{`You done well to get this far. I gotta hand it to ya~69~~FD~~EB~`Just one thing. Ainñt no one can catch us! See ya, suckers! Ha, ha, ha~69~~EF~}#144#129
+`Lo has hecho bien hasta ahora. Te lo admito~69~~FD~~EB~`Solo una cosa. ¡Nadie nos puede coger! ¡Adiós pringaos! Ja, ja, ja~69~~EF~#129
+;00003D98{Kandar :~EB~`Donñt talk like that! Forgive me! I beg you! Please!´~EB~~EF~}#074#065
+Kandar :~EB~`¡No digas eso! ¡Perdóname! ¡Lo suplico! ¡Por favor!´~EB~~EF~#065
+;00003DD9{Kandar :~EB~`Thanks! Iñll never forget this! Gñbye!´~EF~}#056#050
+Kandar :~EB~`¡Gracias! ¡Nunca lo olvidaré! ¡Adiós!´~EF~#050
+;00003E0B{Kandar :~EB~`Stubborn fools! Iñll show you whoñs boss!´~EF~}#059#053
+Kandar :~EB~`¡Cabezotas! ¡Te enseñaré quien manda!´~EF~#053
+;00003E40{Kandar :~EB~`I give!´~FD~~EB~`Will you let me go if I give you the Golden Crown? Will ya? Please!´~EB~~EF~}#106#091
+Kandar :~EB~`¡Me rindo!´~FD~~EB~`¡Me dejarás ir si te doy la Corona Dorada? ¿Sí? ¡Por favor!´~EB~~EF~#091
+;00003E9B{`Turn back!´~EF~}#016#013
+`¡Vete!´~EF~#013
+|16040

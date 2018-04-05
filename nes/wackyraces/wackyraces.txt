@@ -1,0 +1,108 @@
+@00004F9C-00004FB1-FF-FE
+;00000000{ 0A  -  HIP  HOP 9~C7~~C2~4~C6~}#031#022
+ 0A  -  HIP  HOP 9~C7~~C2~4~C6~#022
+|22
+@00004FB8-00004FD3-FF-FE
+;00000000{ 0B  -  SPLISH  SPLASH 3~C7~~C2~4~C6~}#037#028
+ 0B  -  SPLISH  SPLASH 3~C7~~C2~4~C6~#028
+|28
+@00004FDA-00004FF6-FF-FE
+;00000000{ 0C  -  GO  GO  AMERICA 3~C7~~C2~4~C6~}#038#029
+ 0C  -  GO  GO  AMERICA 3~C7~~C2~4~C6~#029
+|29
+@000051B0-000051DF-FF-FE
+;00000000{G  A  M  E 0O  V  E  R Í~B5~CONTINUE nEND ~FC~~95~l 4~FA~~FF~}#061#046
+G  A  M  E 0O  V  E  R Í~B5~CONTINUE nEND ~FC~~95~l 4~FA~~FF~#046
+;0000002E{ ~29~}#005#002
+ ~29~#002
+|48
+@000058AF-00005CFC-FF-FE
+;00000000{While chasing a homing~FD~pigeon,DASTARDLY'S~FD~plane crashes!~FE~}#066#057
+While chasing a homing~FD~pigeon,DASTARDLY'S~FD~plane crashes!~FE~#057
+;00000039{MUTTLEY grumbles and~FD~hurries to rescue~FD~DASTARDLY...~FF~}#061#052
+MUTTLEY grumbles and~FD~hurries to rescue~FD~DASTARDLY...~FF~#052
+;0000006D{DASTARDLY'S Mean~FD~Machine suddenly~FD~BREAKS DOWN!~FE~}#056#047
+DASTARDLY'S Mean~FD~Machine suddenly~FD~BREAKS DOWN!~FE~#047
+;0000009C{DASTARDLY:~FD~ "Rats! the engine~FD~ conked out! MUTTLEY~FD~ go find a new engine~FD~ immediately!"~FE~}#103#088
+DASTARDLY:~FD~ "Rats! the engine~FD~ conked out! MUTTLEY~FD~ go find a new engine~FD~ immediately!"~FE~#088
+;000000F4{MUTTLEY mumbles and~FD~sets out to find a~FD~new engine.~FF~}#060#051
+MUTTLEY mumbles and~FD~sets out to find a~FD~new engine.~FF~#051
+;00000127{DASTARDLY tries to~FD~head off the other~FD~WACKY RACERS and is~FD~captured by desperados~FE~}#093#081
+DASTARDLY tries to~FD~head off the other~FD~WACKY RACERS and is~FD~captured by desperados~FE~#081
+;00000178{DASTARDLY:~FD~"MUTTLEY!! Help me!"~FE~}#038#032
+DASTARDLY:~FD~"MUTTLEY!! Help me!"~FE~#032
+;00000198{If MUTTLEY doesn't~FD~hurry they will surely~FD~finish in last place!~FE~}#073#064
+If MUTTLEY doesn't~FD~hurry they will surely~FD~finish in last place!~FE~#064
+;000001D8{MUTTLEY groans and~FD~sets off to save~FD~DASTARDLY.~FF~}#056#047
+MUTTLEY groans and~FD~sets off to save~FD~DASTARDLY.~FF~#047
+;00000207{MUTTLEY saves~FD~DASTARDLY only~FD~to be yelled at!~FE~}#055#046
+MUTTLEY saves~FD~DASTARDLY only~FD~to be yelled at!~FE~#046
+;00000235{DASTARDLY:~FD~ "MUTTLEY! catch that~FD~ bird! or else,it's no~FD~ dinner for you!"~FE~}#086#074
+DASTARDLY:~FD~ "MUTTLEY! catch that~FD~ bird! or else,it's no~FD~ dinner for you!"~FE~#074
+;0000027F{MUTTLEY:~FD~ "Grumble,grumble...~FD~ I always get stuck~FD~ doing all the dirty~FD~ work!"~FF~}#094#079
+MUTTLEY:~FD~ "Grumble,grumble...~FD~ I always get stuck~FD~ doing all the dirty~FD~ work!"~FF~#079
+;000002CE{DASTARDLY:~FD~ "Hey! I said to get~FD~ an engine! What are~FD~ we going to do with a~FD~ boat mast!?"~FE~}#105#090
+DASTARDLY:~FD~ "Hey! I said to get~FD~ an engine! What are~FD~ we going to do with a~FD~ boat mast!?"~FE~#090
+;00000328{MUTTLEY:~FD~ "HEE,HEE,HEE"~FE~}#030#024
+MUTTLEY:~FD~ "HEE,HEE,HEE"~FE~#024
+;00000340{DASTARDLY:~FD~ "There's no time for~FD~ your silly laughing!~FD~ We're still stuck in~FD~ last place!"~FF~}#106#091
+DASTARDLY:~FD~ "There's no time for~FD~ your silly laughing!~FD~ We're still stuck in~FD~ last place!"~FF~#091
+;0000039B{DASTARDLY:~FD~"Now what?! You got~FD~caught too?! Drats~FD~and double drats!~FE~}#080#068
+DASTARDLY:~FD~"Now what?! You got~FD~caught too?! Drats~FD~and double drats!~FE~#068
+;000003DF{Thanks to you,we~FD~came in last place~FD~again!~FE~}#052#043
+Thanks to you,we~FD~came in last place~FD~again!~FE~#043
+;0000040A{MUTTLEY:~FD~"HEY,HEY,HEY"~FE~}#029#023
+MUTTLEY:~FD~"HEY,HEY,HEY"~FE~#023
+;00000421{DASTARDLY:~FD~"Stop that dumbfounded~FD~laughing!"~FF~}#054#045
+DASTARDLY:~FD~"Stop that dumbfounded~FD~laughing!"~FF~#045
+|1102
+@0000620E-000065CC-FF-FE
+;00000000{     PRODUCER~FD~         H.YOKOYAMA~FE~}#040#034
+     PRODUCER~FD~         H.YOKOYAMA~FE~#034
+;00000022{     U.S.A. STAFF~FD~       JOHN YAMAMOTO~FE~}#045#039
+     U.S.A. STAFF~FD~       JOHN YAMAMOTO~FE~#039
+;00000049{     U.S.A. STAFF~FD~         GRADY HUNT~FD~         MAE HORA~FE~}#065#056
+     U.S.A. STAFF~FD~         GRADY HUNT~FD~         MAE HORA~FE~#056
+;00000081{     PLANNER~FD~         H.KUBOTA~FE~}#037#031
+     PLANNER~FD~         H.KUBOTA~FE~#031
+;000000A0{     PLANNER~FD~         N.SATO~FE~}#035#029
+     PLANNER~FD~         N.SATO~FE~#029
+;000000BD{     STAR PROGRAMMER~FD~         H.TAKAGI~FE~}#045#039
+     STAR PROGRAMMER~FD~         H.TAKAGI~FE~#039
+;000000E4{     PROGRAMMER~FD~         K.MUKAE~FE~}#039#033
+     PROGRAMMER~FD~         K.MUKAE~FE~#033
+;00000105{     PROGRAMMER~FD~         T.TERUI~FE~}#039#033
+     PROGRAMMER~FD~         T.TERUI~FE~#033
+;00000126{     GRAPHIC DESIGNER~FD~         S.SATO~FE~}#044#038
+     GRAPHIC DESIGNER~FD~         S.SATO~FE~#038
+;0000014C{     GRAPHIC DESIGNER~FD~         H.KODATE~FE~}#046#040
+     GRAPHIC DESIGNER~FD~         H.KODATE~FE~#040
+;00000174{     GRAPHIC DESIGNER~FD~         Y.NOGUCHI~FE~}#047#041
+     GRAPHIC DESIGNER~FD~         Y.NOGUCHI~FE~#041
+;0000019D{     SOUND COMPOSER~FD~         HIDEHITO AOKI~FE~}#049#043
+     SOUND COMPOSER~FD~         HIDEHITO AOKI~FE~#043
+;000001C8{     ADVISER~FD~         C.OKADA~FD~         Y.IWATA~FE~}#056#047
+     ADVISER~FD~         C.OKADA~FD~         Y.IWATA~FE~#047
+;000001F7{     MARKETING STAFF~FD~         N.KAWAI~FD~         Y.NIINO~FE~}#064#055
+     MARKETING STAFF~FD~         N.KAWAI~FD~         Y.NIINO~FE~#055
+;0000022E{     ADVERTISING~FD~         T.KOMATSU~FE~}#042#036
+     ADVERTISING~FD~         T.KOMATSU~FE~#036
+;00000252{     DEBUGGER~FD~         T.SUEYOSHI~FD~         K.FUJIOKA~FE~}#062#053
+     DEBUGGER~FD~         T.SUEYOSHI~FD~         K.FUJIOKA~FE~#053
+;00000287{     DEBUGGER~FD~         K.UMEDA~FD~         T.KUNIEDA~FE~}#059#050
+     DEBUGGER~FD~         K.UMEDA~FD~         T.KUNIEDA~FE~#050
+;000002B9{     DEBUGGER~FD~         M.SANO~FD~         T.MORIGUCHI~FE~}#060#051
+     DEBUGGER~FD~         M.SANO~FD~         T.MORIGUCHI~FE~#051
+;000002EC{     SPECIAL THANKS TO~FD~         K.AOYAMA~FD~         H.KATO~FE~}#066#057
+     SPECIAL THANKS TO~FD~         K.AOYAMA~FD~         H.KATO~FE~#057
+;00000325{~FE~}#004#001
+~FE~#001
+;00000326{DASTARDLY:~FD~ "YES! The trophy is~FD~ all mine!"~FE~}#053#044
+DASTARDLY:~FD~ "YES! The trophy is~FD~ all mine!"~FE~#044
+;00000352{MUTTLEY:~FD~ "We'll see snicker"~FF~}#036#030
+MUTTLEY:~FD~ "We'll see snicker"~FF~#030
+;00000370{DASTARDLY:~FD~ "DRAT! Why does this~FD~ always happen?!"~FF~}#060#051
+DASTARDLY:~FD~ "DRAT! Why does this~FD~ always happen?!"~FF~#051
+;000003A3{MUTTLEY:~FD~ "SNICKER SNICKER"~FF~}#034#028
+MUTTLEY:~FD~ "SNICKER SNICKER"~FF~#028
+|959

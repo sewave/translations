@@ -1,0 +1,194 @@
+@000008D8-000008DE-00
+;00000000{TOP___~00~}#010#007
+TOP___~00~#007
+|7
+@000008E6-000008EC-00
+;00000000{SCORE_~00~}#010#007
+SCORE_~00~#007
+|7
+@00000C40-00000C58-00
+;00000000{DO_YOU_WANT_TO_CONTINUEg~00~}#028#025
+DO_YOU_WANT_TO_CONTINUEg~00~#025
+|25
+@00000C84-00000C89-00
+;00000000{TIME~00~}#008#005
+TIME~00~#005
+;00000005{~00~}#004#001
+~00~#001
+|6
+@00000CB4-00000CC5-00
+;00000000{PUSH_START_BUTTON~00~}#021#018
+PUSH_START_BUTTON~00~#018
+|18
+@0000617F-0000618D-00
+;00000000{6MISSION_LEVEL~00~}#018#015
+6MISSION_LEVEL~00~#015
+|15
+@0000619A-000061A0-00
+;00000000{NORMAL~00~}#010#007
+NORMAL~00~#007
+|7
+@000061AE-000061B2-00
+;00000000{HARD~00~}#008#005
+HARD~00~#005
+|5
+@000061C0-000061C5-00
+;00000000{MANIA~00~}#009#006
+MANIA~00~#006
+|6
+@000061D4-000061E6-00
+;00000000{DEMONSTRATION_MODE~00~}#022#019
+DEMONSTRATION_MODE~00~#019
+|19
+@000061F6-00006204-00
+;00000000{DATA_SAVE_MODE~00~}#018#015
+DATA_SAVE_MODE~00~#015
+|15
+@000065C4-000067B6-00
+;00000000{STAGE~0D~~02~  HYDRA~0D~~0D~~04~TARGET~0D~~02~  GARGOYLE~0D~~0D~~04~WEAK POINT~0D~~02~  STOMACH~00~}#099#060
+STAGE~0D~~02~  HYDRA~0D~~0D~~04~TARGET~0D~~02~  GARGOYLE~0D~~0D~~04~WEAK POINT~0D~~02~  STOMACH~00~#060
+;0000003C{STAGE~0D~~02~  GORGON~0D~~0D~~04~TARGET~0D~~02~  TWIN VULCAN~0D~~0D~~04~WEAK POINT~0D~~02~  SEARCH RADAR~00~}#108#069
+STAGE~0D~~02~  GORGON~0D~~0D~~04~TARGET~0D~~02~  TWIN VULCAN~0D~~0D~~04~WEAK POINT~0D~~02~  SEARCH RADAR~00~#069
+;00000081{STAGE~0D~~02~  SEIREN~0D~~0D~~04~TARGET~0D~~02~  KING FISH~0D~~0D~~04~WEAK POINT~0D~~02~  EYE~00~}#097#058
+STAGE~0D~~02~  SEIREN~0D~~0D~~04~TARGET~0D~~02~  KING FISH~0D~~0D~~04~WEAK POINT~0D~~02~  EYE~00~#058
+;000000BB{STAGE~0D~~02~  HAIDES~0D~~0D~~04~TARGET~0D~~02~  G LOBSTER~0D~~0D~~04~WEAK POINT~0D~~02~  EYE~00~}#097#058
+STAGE~0D~~02~  HAIDES~0D~~0D~~04~TARGET~0D~~02~  G LOBSTER~0D~~0D~~04~WEAK POINT~0D~~02~  EYE~00~#058
+;000000F5{STAGE~0D~~02~  ELLIS~0D~~0D~~04~TARGET~0D~~02~  MOBILE FORT~0D~~0D~~04~WEAK POINT~0D~~02~  CONTROL UNIT~00~}#107#068
+STAGE~0D~~02~  ELLIS~0D~~0D~~04~TARGET~0D~~02~  MOBILE FORT~0D~~0D~~04~WEAK POINT~0D~~02~  CONTROL UNIT~00~#068
+;00000139{STAGE~0D~~02~  CERBERUS~0D~~0D~~04~TARGET~0D~~02~  CERBERUS~0D~~0D~~04~WEAK POINT~0D~~02~  NO DATA~00~}#102#063
+STAGE~0D~~02~  CERBERUS~0D~~0D~~04~TARGET~0D~~02~  CERBERUS~0D~~0D~~04~WEAK POINT~0D~~02~  NO DATA~00~#063
+;00000178{STAGE~0D~~02~  ORN BASE~0D~~0D~~04~TARGET~0D~~02~  NO DATA~0D~~0D~~04~WEAK POINT~0D~~02~  NO DATA~00~}#101#062
+STAGE~0D~~02~  ORN BASE~0D~~0D~~04~TARGET~0D~~02~  NO DATA~0D~~0D~~04~WEAK POINT~0D~~02~  NO DATA~00~#062
+;000001B6{STAGE~0D~~02~  ORN CORE~0D~~0D~~04~TARGET~0D~~02~  CHA OS~0D~~0D~~04~WEAK POINT~0D~~02~  NO DATA~00~}#100#061
+STAGE~0D~~02~  ORN CORE~0D~~0D~~04~TARGET~0D~~02~  CHA OS~0D~~0D~~04~WEAK POINT~0D~~02~  NO DATA~00~#061
+|499
+@0000683A-0000684C-00
+;00000000{CONFIGURATION_MODE~00~}#022#019
+CONFIGURATION_MODE~00~#019
+|19
+@00006854-0000685F-00
+;00000000{SHIP_SPEED_~00~}#015#012
+SHIP_SPEED_~00~#012
+|12
+@0000686A-00006875-00
+;00000000{GAME_LEVEL_~00~}#015#012
+GAME_LEVEL_~00~#012
+|12
+@00006880-0000688B-00
+;00000000{MUSIC_TEST_~00~}#015#012
+MUSIC_TEST_~00~#012
+|12
+@00006896-000068A1-00
+;00000000{SOUND_TEST_~00~}#015#012
+SOUND_TEST_~00~#012
+|12
+@000068AC-000068B7-00
+;00000000{VOICE_TEST_~00~}#015#012
+VOICE_TEST_~00~#012
+|12
+@000068C2-000068CD-00
+;00000000{CONTROL_PAD~00~}#015#012
+CONTROL_PAD~00~#012
+|12
+@000068D8-000068E3-00
+;00000000{EXIT_______~00~}#015#012
+EXIT_______~00~#012
+|12
+@000069D8-000069EB-00
+;00000000{LOW_~00~}#008#005
+LOW_~00~#005
+;00000005{MID_~00~}#008#005
+MID_~00~#005
+;0000000A{HIGH~00~}#008#005
+HIGH~00~#005
+;0000000F{TOP_~00~}#008#005
+TOP_~00~#005
+|20
+@00006A70-00006A84-00
+;00000000{NORMAL~00~}#010#007
+NORMAL~00~#007
+;00000007{HARD__~00~}#010#007
+HARD__~00~#007
+;0000000E{MANIA_~00~}#010#007
+MANIA_~00~#007
+|21
+@00006D48-00006D71-00
+;00000000{SPEED_CHANGE_~00~}#017#014
+SPEED_CHANGE_~00~#014
+;0000000E{FIRE_BUTTON__~00~}#017#014
+FIRE_BUTTON__~00~#014
+;0000001C{WEAPON_SELECT~00~}#017#014
+WEAPON_SELECT~00~#014
+|42
+@00006D8A-00006DB3-00
+;00000000{TYPE_1~00~}#010#007
+TYPE_1~00~#007
+;00000007{TYPE_2~00~}#010#007
+TYPE_2~00~#007
+;0000000E{TYPE_3~00~}#010#007
+TYPE_3~00~#007
+;00000015{TYPE_4~00~}#010#007
+TYPE_4~00~#007
+;0000001C{TYPE_5~00~}#010#007
+TYPE_5~00~#007
+;00000023{TYPE_6~00~}#010#007
+TYPE_6~00~#007
+|42
+@00006E1C-00006E28-00
+;00000000{STAGE_SELECT~00~}#016#013
+STAGE_SELECT~00~#013
+|13
+@00006F92-00006FE1-00
+;00000000{__HYDRA__~00~}#013#010
+__HYDRA__~00~#010
+;0000000A{__GORGON_~00~}#013#010
+__GORGON_~00~#010
+;00000014{__SEIREN_~00~}#013#010
+__SEIREN_~00~#010
+;0000001E{__HAIDES_~00~}#013#010
+__HAIDES_~00~#010
+;00000028{__ELLIS__~00~}#013#010
+__ELLIS__~00~#010
+;00000032{_KERBEROS~00~}#013#010
+_KERBEROS~00~#010
+;0000003C{_ORN_BASE~00~}#013#010
+_ORN_BASE~00~#010
+;00000046{_ORN_CORE~00~}#013#010
+_ORN_CORE~00~#010
+|80
+@00063780-00063781-FF
+;00000000{~03~~06~}#008#002
+~03~~06~#002
+|2
+@00063782-00063BA3-FF
+;00000000{In a flash the planet of ORN~0D~~03~~08~disappeared completely.~0D~~02~~08~~03~~06~ORN could no longer control~0D~~03~~06~the huge amount of energy~0D~~03~~09~that had accumulated~0D~~03~~08~after he lost his owner.~0D~~02~~0C~~03~~0C~The Emperor ORN~0D~~03~~0A~had been  disturbing~0D~~03~~06~the Union of the Milky Way~0D~~03~~0C~for a long time.~0D~~03~~06~What was his true character?~0D~~03~~04~It was a huge bio-computer which~0D~~03~~05~had been made in the beginning~0D~~03~~0C~of the space age.~0D~~02~~10~~03~~04~Besides, his computer brain was~0D~ developing extraordinary,and he began~0D~~03~~0A~to have his own will.~0D~~02~~08~~03~~04~He denied the existance of human~0D~~03~~05~beings and finally he exercised~0D~~03~~0B~a program to kill~0D~~03~~0A~the whole human race.~0D~~03~~05~It was evidently human beings~0D~~03~~06~who had given him this idea.~0D~~03~~05~Therefore human beings should~0D~~03~~06~think of the meaning deeply.~0D~~0D~~03~~08~Anyway the war was over.~0D~~02~~0C~~03~~05~And a peaceful time came soon.~0D~~03~~05~It might be for a short time.~0D~~03~~07~Human beings, think about~0D~~03~~0B~what you have done.~0D~~02~~0C~~03~~04~After the important mission was~0D~~03~~06~completed, STYX turned over~0D~~03~~08~his airframe to the base~0D~~03~~08~fellows waiting for them.~0D~~02~~10~  Jean and Shely , you might aware of~0D~~03~~0A~the real meaning of~0D~~0D~~03~~0D~"true peace"}#1418#1058
+In a flash the planet of ORN~0D~~03~~08~disappeared completely.~0D~~02~~08~~03~~06~ORN could no longer control~0D~~03~~06~the huge amount of energy~0D~~03~~09~that had accumulated~0D~~03~~08~after he lost his owner.~0D~~02~~0C~~03~~0C~The Emperor ORN~0D~~03~~0A~had been  disturbing~0D~~03~~06~the Union of the Milky Way~0D~~03~~0C~for a long time.~0D~~03~~06~What was his true character?~0D~~03~~04~It was a huge bio-computer which~0D~~03~~05~had been made in the beginning~0D~~03~~0C~of the space age.~0D~~02~~10~~03~~04~Besides, his computer brain was~0D~ developing extraordinary,and he began~0D~~03~~0A~to have his own will.~0D~~02~~08~~03~~04~He denied the existance of human~0D~~03~~05~beings and finally he exercised~0D~~03~~0B~a program to kill~0D~~03~~0A~the whole human race.~0D~~03~~05~It was evidently human beings~0D~~03~~06~who had given him this idea.~0D~~03~~05~Therefore human beings should~0D~~03~~06~think of the meaning deeply.~0D~~0D~~03~~08~Anyway the war was over.~0D~~02~~0C~~03~~05~And a peaceful time came soon.~0D~~03~~05~It might be for a short time.~0D~~03~~07~Human beings, think about~0D~~03~~0B~what you have done.~0D~~02~~0C~~03~~04~After the important mission was~0D~~03~~06~completed, STYX turned over~0D~~03~~08~his airframe to the base~0D~~03~~08~fellows waiting for them.~0D~~02~~10~  Jean and Shely , you might aware of~0D~~03~~0A~the real meaning of~0D~~0D~~03~~0D~"true peace"#1058
+|1058
+@00063BAD-00063DC9-00
+;00000000{STAFF~00~}#009#006
+STAFF~00~#006
+;00000006{~01~~03~~10~PROGRAM~0D~~0D~~02~~03~~0E~Izumi Fukuda~00~}#055#028
+~01~~03~~10~PROGRAM~0D~~0D~~02~~03~~0E~Izumi Fukuda~00~#028
+;00000022{~04~~01~~90~~01~~03~~10~PROGRAM~0D~~0D~~02~~03~~0C~Takashi Iwanaga~0D~~03~~0B~Haruhiko Ohtsuka~00~}#098#053
+~04~~01~~90~~01~~03~~10~PROGRAM~0D~~0D~~02~~03~~0C~Takashi Iwanaga~0D~~03~~0B~Haruhiko Ohtsuka~00~#053
+;00000057{~04~~01~~90~~01~~03~~0D~GRAPHICS~0D~~03~~13~& DESIGN~0D~~0D~~02~~03~~0C~Osamu Tsujikawa~0D~~03~~0E~Yoichi Muto~00~}#114#060
+~04~~01~~90~~01~~03~~0D~GRAPHICS~0D~~03~~13~& DESIGN~0D~~0D~~02~~03~~0C~Osamu Tsujikawa~0D~~03~~0E~Yoichi Muto~00~#060
+;00000093{~01~~03~~0E~STAGE DESIGN~0D~~0D~~02~~03~~0D~Takashi Iwanaga~1A~~04~~01~~90~~01~~03~~0D~MUSIC COMPOSE~0D~~0D~~02~~03~~0A~Toshiharu Yamanishi~0D~~03~~0D~Tomomi Ohtani~00~}#168#096
+~01~~03~~0E~STAGE DESIGN~0D~~0D~~02~~03~~0D~Takashi Iwanaga~1A~~04~~01~~90~~01~~03~~0D~MUSIC COMPOSE~0D~~0D~~02~~03~~0A~Toshiharu Yamanishi~0D~~03~~0D~Tomomi Ohtani~00~#096
+;000000F3{~01~~03~~0D~SOUND EFFECTS~0D~~0D~~02~~03~~0E~Naosuke Arai~00~}#061#034
+~01~~03~~0D~SOUND EFFECTS~0D~~0D~~02~~03~~0E~Naosuke Arai~00~#034
+;00000115{~01~~03~~11~VOICE~0D~~0D~~02~~03~~11~kaoru~00~}#046#019
+~01~~03~~11~VOICE~0D~~0D~~02~~03~~11~kaoru~00~#019
+;00000128{~01~~03~~11~MANUAL~0D~~0D~~02~~03~~0E~Fumio Sugano~00~}#054#027
+~01~~03~~11~MANUAL~0D~~0D~~02~~03~~0E~Fumio Sugano~00~#027
+;00000143{~01~~03~~10~WORDING~0D~~0D~~02~~03~~0D~Kazue Matsuoka~1A~~04~~02~X~03~~10~PRODUCE~0D~~0D~~01~~03~~0F~Tecno Soft~1A~~04~~02~X~03~~10~PRODUCE~0D~~0D~~01~~03~~0E~Techno Soft~1A~~80~ Mission completed bonus ~80~~00~}#211#115
+~01~~03~~10~WORDING~0D~~0D~~02~~03~~0D~Kazue Matsuoka~1A~~04~~02~X~03~~10~PRODUCE~0D~~0D~~01~~03~~0F~Tecno Soft~1A~~04~~02~X~03~~10~PRODUCE~0D~~0D~~01~~03~~0E~Techno Soft~1A~~80~ Mission completed bonus ~80~~00~#115
+;000001B6{left bonus        10000~81~~00~}#031#025
+left bonus        10000~81~~00~#025
+;000001CF{credit bonus      50000~81~~00~}#031#025
+credit bonus      50000~81~~00~#025
+;000001E8{game level bonus  score~81~~00~}#031#025
+game level bonus  score~81~~00~#025
+;00000201{score                      ~00~}#031#028
+score                      ~00~#028
+|541

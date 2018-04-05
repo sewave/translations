@@ -1,0 +1,218 @@
+@000001A3-000001A6-FF
+;00000000{ SC }#004#004
+ SC #004
+|4
+@000001AC-000001B0-FF
+;00000000{SHOT }#005#005
+SHOT #005
+|5
+@000001B7-000001BC-FF
+;00000000{  CHIP}#006#006
+  CHIP#006
+|6
+@0001E175-0001E178-FF
+;00000000{AREA}#004#004
+AREA#004
+|4
+@0000024A-00000252-FF
+;00000000{GAME OVER}#009#009
+GAME OVER#009
+|9
+@00000298-000002AC-FF
+;00000000{CONTINUE  PUSH START }#021#021
+CONTINUE  PUSH START #021
+|21
+@000006C6-000006D9-FF
+;00000000{PRESS START TO BEGIN}#020#020
+PRESS START TO BEGIN#020
+|20
+@00000855-0000085F-FF
+;00000000{GAME SELECT}#011#011
+GAME SELECT#011
+|11
+@00000870-00000879-FF
+;00000000{NEW GAME  }#010#010
+NEW GAME  #010
+|10
+@0000088D-0000089E-FF
+;00000000{PASSWORD CONTINUE~FF~}#021#018
+PASSWORD CONTINUE~FF~#018
+|18
+@00000A0B-00000A12-FF
+;00000000{MISSION~FF~}#011#008
+MISSION~FF~#008
+|8
+@00000A16-00000A1D-FF
+;00000000{COMPLETE}#008#008
+COMPLETE#008
+|8
+@00000A22-00000A2D-FF
+;00000000{YOU ARE THE~FF~}#015#012
+YOU ARE THE~FF~#012
+|12
+@00000A31-00000A39-FF
+;00000000{GREATEST~FF~}#012#009
+GREATEST~FF~#009
+|9
+@00008A61-00008A70-FF
+;00000000{CONGRATULATIONS.}#016#016
+CONGRATULATIONS.#016
+|16
+@0000C16E-0000C181-FF
+;00000000{GO TO THE NEXT SPACE}#020#020
+GO TO THE NEXT SPACE#020
+|20
+@0000C243-0000C24C-FF
+;00000000{SOUND TEST}#010#010
+SOUND TEST#010
+|10
+@0000C742-0000C74B
+;00000000{WORD CHECK}#010#010
+WORD CHECK#010
+|10
+@0000C788-0000C791-FF
+;00000000{WRONG WORD}#010#010
+WRONG WORD#010
+|10
+@0000C7E0-0000C7E9-FF
+;00000000{THE ABOVE }#010#010
+THE ABOVE #010
+|10
+@0000C811-0000C81D-FF
+;00000000{WORD IS RIGHT}#013#013
+WORD IS RIGHT#013
+|13
+@0000CB6F-0000CB79-FF
+;00000000{FR. BA. END}#011#011
+FR. BA. END#011
+|11
+@00014798-0001479D-FF
+;00000000{ATTACK}#006#006
+ATTACK#006
+|6
+@000147B5-000147BA-FF
+;00000000{SHIELD}#006#006
+SHIELD#006
+|6
+@0001F5DD-0001F5E8-FF
+;00000000{ YOU GOT KEY}#012#012
+ YOU GOT KEY#012
+|12
+@0001F69A-0001F6AA-FF
+;00000000{YOUR FINAL SCORE }#017#017
+YOUR FINAL SCORE #017
+|17
+@000006FA-00000715-FF
+;00000000{LONG AGO,AN ALIEN RACE SENT~FF~}#031#028
+LONG AGO,AN ALIEN RACE SENT~FF~#028
+|28
+@00000719-00000735-FF
+;00000000{A HUGE WORLD HURTLING TOWARD~FF~}#032#029
+A HUGE WORLD HURTLING TOWARD~FF~#029
+|29
+@00000739-00000756-FF
+;00000000{THE EARTH,LOADED WITH A CARGO~FF~}#033#030
+THE EARTH,LOADED WITH A CARGO~FF~#030
+|30
+@0000075A-00000772-FF
+;00000000{OF MYSTERIOUS LIFEFORMS.~FF~}#028#025
+OF MYSTERIOUS LIFEFORMS.~FF~#025
+|25
+@00000776-0000078E-FF
+;00000000{YOU MUST BATTLE YOUR WAY~FF~}#028#025
+YOU MUST BATTLE YOUR WAY~FF~#025
+|25
+@00000792-000007AD-FF
+;00000000{DEEP WITHIN THE ALIEN WORLD~FF~}#031#028
+DEEP WITHIN THE ALIEN WORLD~FF~#028
+|28
+@000007B1-000007C7-FF
+;00000000{TO DESTROY ITS VICIOUS~FF~}#026#023
+TO DESTROY ITS VICIOUS~FF~#023
+|23
+@000007CB-000007D7-FF
+;00000000{INHABITANTS.~FF~}#016#013
+INHABITANTS.~FF~#013
+|13
+@000007DB-000007F2-FF
+;00000000{YOU ARE THE GUARDIAN OF~FF~}#027#024
+YOU ARE THE GUARDIAN OF~FF~#024
+|24
+@000007F6-00000812-FF
+;00000000{THE EARTH AND YOUR SAGA WILL~FF~}#032#029
+THE EARTH AND YOUR SAGA WILL~FF~#029
+|29
+@00000816-00000830-FF
+;00000000{BECOME THE GUARDIAN LEGEND.}#027#027
+BECOME THE GUARDIAN LEGEND.#027
+|27
+@00014541-00014544-FF
+;00000000{KEY }#004#004
+KEY #004
+|4
+@00014615-00014617-FF
+;00000000{USE}#003#003
+USE#003
+|3
+@0001463B-00014642-FF
+;00000000{CHIP MAX}#008#008
+CHIP MAX#008
+|8
+@00014662-0001466E-FF
+;00000000{WEAPON POWER }#013#013
+WEAPON POWER #013
+|13
+@00014674-0001467C-FF
+;00000000{USE CHIP }#009#009
+USE CHIP #009
+|9
+@00015649-00015F1E-00
+;00000000{If someone is~0D~reading this...~0D~I must have~0D~failed.~01~This star "NAJU"~0D~was our home~3C~~01~but we were~0D~invaded by~0D~evil life-forms.~01~Everyone except~0D~me was killed.~01~I am going to~0D~try to activate~0D~the self-~0D~destruct device.~01~If I fail~3C~~0D~I would like you~0D~to do this task~0D~so this cannot~01~happen to any~0D~other race.~01~The self-~0D~destruct~0D~mechanism~01~is protected by~0D~a safety device~01~which is located~0D~in~0D~the underground~0D~corridors.~01~Remove each seal~0D~and go deep~0D~inside NAJU.~01~If you destroy~0D~all 10 safety~0D~devices~3C~the~0D~self-destruct~01~sequence will be~0D~activated.~01~I don~60~t have~0D~much time.~01~I hope this~0D~message will~0D~not be read by~0D~anyone...~01~it will mean~0D~that I have~0D~failed.~00~}#790#634
+If someone is~0D~reading this...~0D~I must have~0D~failed.~01~This star "NAJU"~0D~was our home~3C~~01~but we were~0D~invaded by~0D~evil life-forms.~01~Everyone except~0D~me was killed.~01~I am going to~0D~try to activate~0D~the self-~0D~destruct device.~01~If I fail~3C~~0D~I would like you~0D~to do this task~0D~so this cannot~01~happen to any~0D~other race.~01~The self-~0D~destruct~0D~mechanism~01~is protected by~0D~a safety device~01~which is located~0D~in~0D~the underground~0D~corridors.~01~Remove each seal~0D~and go deep~0D~inside NAJU.~01~If you destroy~0D~all 10 safety~0D~devices~3C~the~0D~self-destruct~01~sequence will be~0D~activated.~01~I don~60~t have~0D~much time.~01~I hope this~0D~message will~0D~not be read by~0D~anyone...~01~it will mean~0D~that I have~0D~failed.~00~#634
+;0000027A{I put some~0D~weapons~0D~in these boxes.~01~Take them out of~0D~the boxes to use~0D~them.~01~Some weapons~0D~have been stolen~0D~by some of~0D~the life-forms~3B~~01~if you need~0D~these weapons~01~you will have to~0D~destroy~0D~the life-forms.~01~All the weapons~0D~need~0D~Power Chips.~01~You must search~0D~for them.~00~}#322#259
+I put some~0D~weapons~0D~in these boxes.~01~Take them out of~0D~the boxes to use~0D~them.~01~Some weapons~0D~have been stolen~0D~by some of~0D~the life-forms~3B~~01~if you need~0D~these weapons~01~you will have to~0D~destroy~0D~the life-forms.~01~All the weapons~0D~need~0D~Power Chips.~01~You must search~0D~for them.~00~#259
+;0000037D{I had all the~0D~corridors~0D~sealed.~01~If you need to~0D~know how to~0D~remove the seal~3C~~01~ask the person~0D~who sealed it.~01~To remove the~0D~seal at corridor~0D~NO.1~3C~fire~0D~at the gate.~01~All the rooms~0D~leading to the~0D~corridors are~0D~locked~3C~~01~so use the~0D~"Warp panel" to~0D~get into the~0D~room.~01~To use the~0D~"Warp panel"~3C~~0D~blast through~0D~the cover.~01~You will also~0D~need the key~0D~for the panel.~00~}#442#349
+I had all the~0D~corridors~0D~sealed.~01~If you need to~0D~know how to~0D~remove the seal~3C~~01~ask the person~0D~who sealed it.~01~To remove the~0D~seal at corridor~0D~NO.1~3C~fire~0D~at the gate.~01~All the rooms~0D~leading to the~0D~corridors are~0D~locked~3C~~01~so use the~0D~"Warp panel" to~0D~get into the~0D~room.~01~To use the~0D~"Warp panel"~3C~~0D~blast through~0D~the cover.~01~You will also~0D~need the key~0D~for the panel.~00~#349
+;000004DA{There is a~0D~round creature~0D~in this room.~01~It will give you~0D~items in~0D~exchange for~0D~Power Chips.~00~}#113#092
+There is a~0D~round creature~0D~in this room.~01~It will give you~0D~items in~0D~exchange for~0D~Power Chips.~00~#092
+;00000536{Do you want~0D~me to record~0D~your~0D~progress?~01~Set your~0D~weapon to~0D~"NO USE" and~01~press~0D~button"A".~00~}#116#089
+Do you want~0D~me to record~0D~your~0D~progress?~01~Set your~0D~weapon to~0D~"NO USE" and~01~press~0D~button"A".~00~#089
+;0000058F{Corridor~00~}#012#009
+Corridor~00~#009
+;00000598{I will sell~0D~this to you~01~in exchange~0D~for Power~0D~Chips.~00~}#068#053
+I will sell~0D~this to you~01~in exchange~0D~for Power~0D~Chips.~00~#053
+;000005CD{I will sell~0D~only one~0D~of these~0D~to you.~00~}#050#038
+I will sell~0D~only one~0D~of these~0D~to you.~00~#038
+;000005F3{~0D~Good Luck!~00~}#018#012
+~0D~Good Luck!~00~#012
+;000005FF{~0D~Any luck?~00~}#017#011
+~0D~Any luck?~00~#011
+;0000060A{I see you~0D~are trying~0D~very hard~3C~~0D~so I will~01~remove the~0D~seal for~0D~Corridor~0D~No.4.~00~}#104#077
+I see you~0D~are trying~0D~very hard~3C~~0D~so I will~01~remove the~0D~seal for~0D~Corridor~0D~No.4.~00~#077
+;00000657{To remove~0D~the seal for~0D~Corridor No.2~3C~~01~touch~0D~everywhere.~00~}#074#056
+To remove~0D~the seal for~0D~Corridor No.2~3C~~01~touch~0D~everywhere.~00~#056
+;0000068F{Wait~3C~~0D~wait forever...~01~The seal for~0D~No.3 will be~0D~removed.~01~What are you~0D~doing here?~0D~Do not wait~0D~here!~00~}#130#100
+Wait~3C~~0D~wait forever...~01~The seal for~0D~No.3 will be~0D~removed.~01~What are you~0D~doing here?~0D~Do not wait~0D~here!~00~#100
+;000006F3{Seal No.4~0D~cannot~0D~be removed~3B~~01~I think I~0D~goofed up when~0D~I sealed it.~01~Ask for help~0D~from the round~0D~creature~0D~several times.~00~}#152#119
+Seal No.4~0D~cannot~0D~be removed~3B~~01~I think I~0D~goofed up when~0D~I sealed it.~01~Ask for help~0D~from the round~0D~creature~0D~several times.~00~#119
+;0000076A{Fire into the~0D~corridor~3C~~01~then the seal~0D~on No.5 will be~0D~removed.~00~}#081#063
+Fire into the~0D~corridor~3C~~01~then the seal~0D~on No.5 will be~0D~removed.~00~#063
+;000007A9{I set seal 6~0D~very well~3B~~01~you will need~0D~a special weapon~0D~to break it.~00~}#086#068
+I set seal 6~0D~very well~3B~~01~you will need~0D~a special weapon~0D~to break it.~00~#068
+;000007ED{Try to enter~0D~the room in~0D~the corridor~0D~several times~3B~~01~only then will~0D~seal 7 be~0D~removed.~00~}#111#087
+Try to enter~0D~the room in~0D~the corridor~0D~several times~3B~~01~only then will~0D~seal 7 be~0D~removed.~00~#087
+;00000844{To remove seal 8~3C~~0D~set your weapon~0D~to "NO USE" and~0D~fire.~00~}#071#056
+To remove seal 8~3C~~0D~set your weapon~0D~to "NO USE" and~0D~fire.~00~#056
+;0000087C{Seal 9 can be~0D~removed by~0D~standing on~0D~the gate.~00~}#059#047
+Seal 9 can be~0D~removed by~0D~standing on~0D~the gate.~00~#047
+;000008AB{Keep firing~3C~ the~0D~last seal will~0D~be removed.}#052#043
+Keep firing~3C~ the~0D~last seal will~0D~be removed.#043
+|2262
+@00000A3D-00000A43-FF
+;00000000{PLAYER.}#007#007
+PLAYER.#007
+|7
+@0000C736-0000C73C-FF
+;00000000{GO OUT }#007#007
+GO OUT #007
+|7

@@ -1,0 +1,1828 @@
+@00002814-000028B4-00
+;00000000{ FILMOA~00~}#011#008
+ FILMOA~00~#008
+;00000008{~01~~02~~02~~02~BLOODPOOL~00~}#029#014
+~01~~02~~02~~02~BLOODPOOL~00~#014
+;00000016{~01~~02~~02~~02~~02~~02~~02~~02~CASANDRA~00~}#044#017
+~01~~02~~02~~02~~02~~02~~02~~02~CASANDRA~00~#017
+;00000027{~01~~01~~02~~02~~02~~02~  AITOS~00~}#035#014
+~01~~01~~02~~02~~02~~02~  AITOS~00~#014
+;00000035{~01~~01~~01~~02~~02~~02~~02~ MARANA~00~}#039#015
+~01~~01~~01~~02~~02~~02~~02~ MARANA~00~#015
+;00000044{~01~~01~~01~~02~~02~~02~~02~~02~NORTHWALL~00~}#045#018
+~01~~01~~01~~02~~02~~02~~02~~02~NORTHWALL~00~#018
+;00000056{~01~~01~~01~~01~~02~~02~~02~~02~DEATH HEIM~00~}#046#019
+~01~~01~~01~~01~~02~~02~~02~~02~DEATH HEIM~00~#019
+;00000069{~03~~01~~01~~01~~01~~01~~01~~01~ñ~A8~~91~~A8~~97~~A8~ACT 1~00~}#062#020
+~03~~01~~01~~01~~01~~01~~01~~01~ñ~A8~~91~~A8~~97~~A8~ACT 1~00~#020
+;0000007D{ACT 2~00~}#009#006
+ACT 2~00~#006
+;00000083{~00~}#004#001
+~00~#001
+;00000084{CLEAR~3E~~00~}#013#007
+CLEAR~3E~~00~#007
+;0000008B{READY~00~}#009#006
+READY~00~#006
+;00000091{TIME UP~3E~~00~}#015#009
+TIME UP~3E~~00~#009
+;0000009A{PAUSE~3E~~00~}#013#007
+PAUSE~3E~~00~#007
+|161
+@0000ED34-0000ED4C-FF
+;00000000{ Please enter God´s name.}#025#025
+ Please enter God´s name.#025
+|25
+@0000EE18-0000EE6A-FF
+;00000000{Lord ~06~, until your=level is at least ~08~~02~~00~~FE~~ED~,=it is too dangerous to go=to this area.}#101#083
+Lord ~06~, until your=level is at least ~08~~02~~00~~FE~~ED~,=it is too dangerous to go=to this area.#083
+|83
+@0000EE93-0000EEFD-00
+;00000000{Fire        = Magic      ~00~}#029#026
+Fire        = Magic      ~00~#026
+;0000001A{~26~Shooting    = Star Magic ~00~}#033#027
+~26~Shooting    = Star Magic ~00~#027
+;00000035{~27~Aura        = Magic      ~00~}#033#027
+~27~Aura        = Magic      ~00~#027
+;00000050{`Light       = Magic      ~00~}#030#027
+`Light       = Magic      ~00~#027
+|107
+@0000EF29-0000F092-00
+;00000000{Source of   = Life       ~00~}#029#026
+Source of   = Life       ~00~#026
+;0000001A{~07~~3A~Source of   = Magic      ~00~}#037#028
+~07~~3A~Source of   = Magic      ~00~#028
+;00000036{~07~~3B~Scrap of    = Bread      ~00~}#037#028
+~07~~3B~Scrap of    = Bread      ~00~#028
+;00000052{~01~>Rice        =            ~00~}#034#028
+~01~>Rice        =            ~00~#028
+;0000006E{~05~<Medicine    =            ~00~}#034#028
+~05~<Medicine    =            ~00~#028
+;0000008A{~04~~3E~Bridge      = Technology ~00~}#037#028
+~04~~3E~Bridge      = Technology ~00~#028
+;000000A6{~04~?Wonderful   = Music      ~00~}#034#028
+~04~?Wonderful   = Music      ~00~#028
+;000000C2{~04~~40~Dragon      = Egg        ~00~}#037#028
+~04~~40~Dragon      = Egg        ~00~#028
+;000000DE{~05~AAncient     = Tablet     ~00~}#034#028
+~05~AAncient     = Tablet     ~00~#028
+;000000FA{~05~BSkull of    = Destruction~00~}#034#028
+~05~BSkull of    = Destruction~00~#028
+;00000116{~05~CSheepskin   =            ~00~}#034#028
+~05~CSheepskin   =            ~00~#028
+;00000132{~04~DWonderful   = Dog        ~00~}#034#028
+~04~DWonderful   = Dog        ~00~#028
+;0000014E{~04~EFertilizer  =            ~00~}#034#028
+~04~EFertilizer  =            ~00~#028
+|362
+@0000F144-0000F183-00
+;00000000{Shining     = Sphere     ~00~}#029#026
+Shining     = Sphere     ~00~#026
+;0000001A{~04~GCompass     =            ~00~}#034#028
+~04~GCompass     =            ~00~#028
+;00000036{~04~HAngel  ~00~}#016#010
+~04~HAngel  ~00~#010
+|64
+@0000F1BD-0000F1D6-00
+;00000000{Angel       = Power      ~00~}#029#026
+Angel       = Power      ~00~#026
+|26
+@0000F1E6-0000F22E-00
+;00000000{Fillmore~00~}#012#009
+Fillmore~00~#009
+;00000009{Bloodpool~00~}#013#010
+Bloodpool~00~#010
+;00000013{Cassandra~00~}#013#010
+Cassandra~00~#010
+;0000001D{Aitos~00~}#009#006
+Aitos~00~#006
+;00000023{Marana~00~}#010#007
+Marana~00~#007
+;0000002A{Northwall~00~}#013#010
+Northwall~00~#010
+;00000034{Deathheim~00~}#013#010
+Deathheim~00~#010
+;0000003E{orth~00~}#008#005
+orth~00~#005
+;00000043{~2B~East~00~}#012#006
+~2B~East~00~#006
+|73
+@0000F278-0000F290-00
+;00000000{North~00~}#009#006
+North~00~#006
+;00000006{~2B~East~00~}#012#006
+~2B~East~00~#006
+;0000000C{-South~00~}#010#007
+-South~00~#007
+;00000013{/West~00~}#009#006
+/West~00~#006
+|25
+@0000F29F-0000F577-00
+;00000000{Make an     = Announcement~00~}#030#027
+Make an     = Announcement~00~#027
+;0000001B{Listen to   = the People ~00~}#029#026
+Listen to   = the People ~00~#026
+;00000035{Accept an   = Offering   ~00~}#029#026
+Accept an   = Offering   ~00~#026
+;0000004F{Move        =            ~00~}#029#026
+Move        =            ~00~#026
+;00000069{Move Heaven =            ~00~}#029#026
+Move Heaven =            ~00~#026
+;00000083{Observe the = People     ~00~}#029#026
+Observe the = People     ~00~#026
+;0000009D{Battle      =            ~00~}#029#026
+Battle      =            ~00~#026
+;000000B7{Fight       = Monsters   ~00~}#029#026
+Fight       = Monsters   ~00~#026
+;000000D1{Choose      = Magic      ~00~}#029#026
+Choose      = Magic      ~00~#026
+;000000EB{Status      =            ~00~}#029#026
+Status      =            ~00~#026
+;00000105{Status of   = the Father ~00~}#029#026
+Status of   = the Father ~00~#026
+;0000011F{Status of   = your Cities~00~}#029#026
+Status of   = your Cities~00~#026
+;00000139{Other       =            ~00~}#029#026
+Other       =            ~00~#026
+;00000153{Record of   = the World  ~00~}#029#026
+Record of   = the World  ~00~#026
+;0000016D{Text Speed  =            ~00~}#029#026
+Text Speed  =            ~00~#026
+;00000187{Castle of   = Heaven     ~00~}#029#026
+Castle of   = Heaven     ~00~#026
+;000001A1{Guide the   = People     ~00~}#029#026
+Guide the   = People     ~00~#026
+;000001BB{Town        = Direction  ~00~}#029#026
+Town        = Direction  ~00~#026
+;000001D5{Listen to   = the People ~00~}#029#026
+Listen to   = the People ~00~#026
+;000001EF{Miracles    =            ~00~}#029#026
+Miracles    =            ~00~#026
+;00000209{Lightning   =     Strike ~00~}#029#026
+Lightning   =     Strike ~00~#026
+;00000223{Send the    = Rains      ~00~}#029#026
+Send the    = Rains      ~00~#026
+;0000023D{Brilliant   = Sunlight   ~00~}#029#026
+Brilliant   = Sunlight   ~00~#026
+;00000257{Stir up the = Winds      ~00~}#029#026
+Stir up the = Winds      ~00~#026
+;00000271{Cause an    = Earthquake ~00~}#029#026
+Cause an    = Earthquake ~00~#026
+;0000028B{Offerings   =            ~00~}#029#026
+Offerings   =            ~00~#026
+;000002A5{Accept an   = Offering   ~00~}#029#026
+Accept an   = Offering   ~00~#026
+;000002BF{Use an      = Item       ~00~}#029#026
+Use an      = Item       ~00~#026
+|729
+@0000F58F-0000FDF2-00-01-02-03
+;00000000{Yes===No~00~}#012#009
+Yes===No~00~#009
+;00000009{~05~Lord ~06~, there is=nobody in this area.~00~}#048#039
+~05~Lord ~06~, there is=nobody in this area.~00~#039
+;00000030{~05~Lord ~06~,=you cannot descend to=earth here.~02~}#052#043
+~05~Lord ~06~,=you cannot descend to=earth here.~02~#043
+;0000005B{Let´s move the Castle of=Heaven to a place where=it displays an area name=in the upper-right-hand=box.~00~}#106#103
+Let´s move the Castle of=Heaven to a place where=it displays an area name=in the upper-right-hand=box.~00~#103
+;000000C2{Lord ~06~, I can´t see=any signs of monsters in=this area.~00~}#062#056
+Lord ~06~, I can´t see=any signs of monsters in=this area.~00~#056
+;000000FA{~05~Lord ~06~, you´ve=already defeated all the=monsters here. Only humans=live in this area now.~00~}#100#091
+~05~Lord ~06~, you´ve=already defeated all the=monsters here. Only humans=live in this area now.~00~#091
+;00000155{~05~Lord ~06~, if you=defeat the monsters here,=the humans will be able=to begin to live in this=area.~02~}#106#097
+~05~Lord ~06~, if you=defeat the monsters here,=the humans will be able=to begin to live in this=area.~02~#097
+;000001B6{~01~}#004#001
+~01~#001
+;000001B7{~05~Lord ~06~, if you=defeat the monsters here,=this area will no longer=tremble under the shadow=of evil.~02~}#110#101
+~05~Lord ~06~, if you=defeat the monsters here,=this area will no longer=tremble under the shadow=of evil.~02~#101
+;0000021C{~01~}#004#001
+~01~#001
+;0000021D{~05~Come, it is time for the=final battle. Once you=win, the monsters will=vanish from the face of=the earth completely.~02~}#124#118
+~05~Come, it is time for the=final battle. Once you=win, the monsters will=vanish from the face of=the earth completely.~02~#118
+;00000293{~01~}#004#001
+~01~#001
+;00000294{~05~Please be careful!~00~}#026#020
+~05~Please be careful!~00~#020
+;000002A8{~05~Lord ~06~, are you=ready?~01~}#033#024
+~05~Lord ~06~, are you=ready?~01~#024
+;000002C0{~05~I see, so you´ve changed=your mind.~00~}#043#037
+~05~I see, so you´ve changed=your mind.~00~#037
+;000002E5{~05~Lord ~06~, I don´t=sense any monsters here.~00~}#051#042
+~05~Lord ~06~, I don´t=sense any monsters here.~00~#042
+;0000030F{~05~Lord ~06~, which magic=will you take with you?~01~}#054#045
+~05~Lord ~06~, which magic=will you take with you?~01~#045
+;0000033C{~05~Lord ~06~, you don´t=have any magic!~00~}#044#035
+~05~Lord ~06~, you don´t=have any magic!~00~#035
+;0000035F{~05~I see, so you´ve changed=your mind.~00~}#043#037
+~05~I see, so you´ve changed=your mind.~00~#037
+;00000384{~05~So you´re going to take=the Fire Magic with you?~02~}#056#050
+~05~So you´re going to take=the Fire Magic with you?~02~#050
+;000003B6{That magic shoots fire to=your right and left.=It takes 1 MP to cast.~00~}#073#070
+That magic shoots fire to=your right and left.=It takes 1 MP to cast.~00~#070
+;000003FC{~05~So you´re going to take=the Shooting Star Magic=with you?~02~}#065#059
+~05~So you´re going to take=the Shooting Star Magic=with you?~02~#059
+;00000437{That magic calls countless=falling stars to strike=the ground.=It takes 2 MP to cast.~00~}#089#086
+That magic calls countless=falling stars to strike=the ground.=It takes 2 MP to cast.~00~#086
+;0000048D{~05~So you´re going to take=the Aura Magic with you?~02~}#056#050
+~05~So you´re going to take=the Aura Magic with you?~02~#050
+;000004BF{That magic summons your=aura into a huge ball of=light which spins around.=It takes 3 MP to cast.~00~}#101#098
+That magic summons your=aura into a huge ball of=light which spins around.=It takes 3 MP to cast.~00~#098
+;00000521{~05~So you´re going to take=the Light Magic with you?~02~}#057#051
+~05~So you´re going to take=the Light Magic with you?~02~#051
+;00000554{That magic summons a=pillar of light from the=Castle of Heaven to burn=all nearby monsters.~02~}#095#092
+That magic summons a=pillar of light from the=Castle of Heaven to burn=all nearby monsters.~02~#092
+;000005B0{It takes 4 MP to cast.~00~}#026#023
+It takes 4 MP to cast.~00~#023
+;000005C7{~05~Lord ~06~, what item=will you use?~01~}#042#033
+~05~Lord ~06~, what item=will you use?~01~#033
+;000005E8{~05~Lord ~06~, you´re not=carrying anything!~00~}#048#039
+~05~Lord ~06~, you´re not=carrying anything!~00~#039
+;0000060F{~05~Your magic has changed!~00~}#031#025
+~05~Your magic has changed!~00~#025
+;00000628{~05~Lord ~06~,=what text speed is best?~01~}#043#034
+~05~Lord ~06~,=what text speed is best?~01~#034
+;0000064A{ ~1F~ ~01~}#010#004
+ ~1F~ ~01~#004
+;0000064E{~12~~0C~ 01234567==Fast~1D~~1C~Slow~01~}#039#024
+~12~~0C~ 01234567==Fast~1D~~1C~Slow~01~#024
+;00000666{~05~Like this?~00~}#018#012
+~05~Like this?~00~#012
+;00000672{~05~So, you´ve changed your=mind.~00~}#037#031
+~05~So, you´ve changed your=mind.~00~#031
+;00000691{~05~~05~This year there are no=offerings for you, Father.~00~}#061#052
+~05~~05~This year there are no=offerings for you, Father.~00~#052
+;000006C5{~05~This year, these are the=only offerings that we=can present to you,=Father.=Which will you accept?~01~}#106#100
+~05~This year, these are the=only offerings that we=can present to you,=Father.=Which will you accept?~01~#100
+;00000729{~05~You are carrying too=much, so you cannot take=anything more.~00~}#068#062
+~05~You are carrying too=much, so you cannot take=anything more.~00~#062
+;00000767{~05~Will you accept anything=else?~01~}#038#032
+~05~Will you accept anything=else?~01~#032
+;00000787{~05~Lord ~06~, it doesn´t=seem as if anyone´s=here...~00~}#057#048
+~05~Lord ~06~, it doesn´t=seem as if anyone´s=here...~00~#048
+;000007B7{=That is all we have to=offer this year. Thank you=very much for accepting=our offerings.~00~}#093#090
+=That is all we have to=offer this year. Thank you=very much for accepting=our offerings.~00~#090
+;00000811{=So, you´ve changed your=mind.~00~}#034#031
+=So, you´ve changed your=mind.~00~#031
+;00000830{~04~~08~Town Under Construction~00~}#035#026
+~04~~08~Town Under Construction~00~#026
+;0000084A{~04~~08~Sealing Monsters´ Lair ~00~}#035#026
+~04~~08~Sealing Monsters´ Lair ~00~#026
+|2148
+@00010E11-00010E15-00
+;00000000{S~04~P~04~~00~}#014#005
+S~04~P~04~~00~#005
+|5
+@00012720-0001278B-00
+;00000000{           CONTINUE==              NEW GAME~00~}#047#044
+           CONTINUE==              NEW GAME~00~#044
+;0000002C{~1B~ START~00~}#014#008
+~1B~ START~00~#008
+;00000034{      ALL RIGHTS RESERVED=  COPYRIGHT 1990 QUINTET/ENIX~00~}#059#056
+      ALL RIGHTS RESERVED=  COPYRIGHT 1990 QUINTET/ENIX~00~#056
+|108
+@000127B3-000127BB-00
+;00000000{ SPECIAL~00~}#012#009
+ SPECIAL~00~#009
+|9
+@00013327-000178AE-00-01-02-03
+;00000000{El Dorado~00~}#013#010
+El Dorado~00~#010
+;0000000A{Fillmore~00~}#012#009
+Fillmore~00~#009
+;00000013{Bloodpool~00~}#013#010
+Bloodpool~00~#010
+;0000001D{Cassandra~00~}#013#010
+Cassandra~00~#010
+;00000027{Aitos~00~}#009#006
+Aitos~00~#006
+;0000002D{Marana~00~}#010#007
+Marana~00~#007
+;00000034{Northwall~00~}#013#010
+Northwall~00~#010
+;0000003E{Blue~D0~Dragon~00~}#018#012
+Blue~D0~Dragon~00~#012
+;0000004A{Napper~D0~Bat~00~}#017#011
+Napper~D0~Bat~00~#011
+;00000055{Red~D0~Devil~00~}#016#010
+Red~D0~Devil~00~#010
+;0000005F{Skullhead~00~}#013#010
+Skullhead~00~#010
+;00000069{~05~It appears that there are=~09~~03~}#038#029
+~05~It appears that there are=~09~~03~#029
+;00000086{~06~~00~}#008#002
+~06~~00~#002
+;00000088{ ~08~~02~}#009#003
+ ~08~~02~#003
+;0000008B{~00~}#004#001
+~00~#001
+;0000008C{1~AD~s in this=Monster Lair.~00~}#032#026
+1~AD~s in this=Monster Lair.~00~#026
+;000000A6{~05~Lord ~06~, not a=single monster lives=in this Lair.~02~}#059#050
+~05~Lord ~06~, not a=single monster lives=in this Lair.~02~#050
+;000000D8{We must hurry and lead the=people here so they can=seal it!!~00~}#064#061
+We must hurry and lead the=people here so they can=seal it!!~00~#061
+;00000115{~05~Lord ~06~!=It seems that ~08~/~03~}#038#026
+~05~Lord ~06~!=It seems that ~08~/~03~#026
+;0000012F{~F1~~AC~´s=Civilization Level has=gone up.~00~}#046#037
+~F1~~AC~´s=Civilization Level has=gone up.~00~#037
+;00000154{~00~}#004#001
+~00~#001
+;00000155{~05~Lord ~06~!=Just as I had hoped, your=Level has gone up!!~02~}#064#055
+~05~Lord ~06~!=Just as I had hoped, your=Level has gone up!!~02~#055
+;0000018C{~01~}#004#001
+~01~#001
+;0000018D{Truly, this is cause for=congratulations!=Now, your Level is ~09~~02~}#069#063
+Truly, this is cause for=congratulations!=Now, your Level is ~09~~02~#063
+;000001CC{~90~~02~}#008#002
+~90~~02~#002
+;000001CE{,=and your HP has become ~09~~02~}#033#027
+,=and your HP has become ~09~~02~#027
+;000001E9{~92~~02~}#008#002
+~92~~02~#002
+;000001EB{.~02~}#005#002
+.~02~#002
+;000001ED{Also, Lord ~06~, the=next time your Level will=go up is when the Total=Population rises to=~09~~04~~96~~02~}#107#092
+Also, Lord ~06~, the=next time your Level will=go up is when the Total=Population rises to=~09~~04~~96~~02~#092
+;00000249{ people.~00~}#012#009
+ people.~00~#009
+;00000252{Truly, this is cause for=congratulations!!=Now your Level is ~09~~02~}#069#063
+Truly, this is cause for=congratulations!!=Now your Level is ~09~~02~#063
+;00000291{~90~~02~}#008#002
+~90~~02~#002
+;00000293{,=and your HP has become ~09~~02~}#033#027
+,=and your HP has become ~09~~02~#027
+;000002AE{~92~~02~}#008#002
+~92~~02~#002
+;000002B0{.~02~}#005#002
+.~02~#002
+;000002B2{Lord ~06~, I see that=you have regained your=full strength again!~00~}#069#063
+Lord ~06~, I see that=you have regained your=full strength again!~00~#063
+;000002F1{~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears the people here in=~08~/~03~}#095#083
+~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears the people here in=~08~/~03~#083
+;00000344{~F1~~AC~ have something=they wish to tell you.~00~}#050#041
+~F1~~AC~ have something=they wish to tell you.~00~#041
+;0000036D{~05~It seems that the people=have found something in=the Monster Lair!~00~}#074#068
+~05~It seems that the people=have found something in=the Monster Lair!~00~#068
+;000003B1{~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears that the humans=have found a Monster Lair.~02~}#113#104
+~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears that the humans=have found a Monster Lair.~02~#104
+;00000419{However, they are stricken=with terror and will not=approach.~02~}#065#062
+However, they are stricken=with terror and will not=approach.~02~#062
+;00000457{Perhaps we should lead=them to the Lair once the=population has increased a=little more?~00~}#092#089
+Perhaps we should lead=them to the Lair once the=population has increased a=little more?~00~#089
+;000004B0{~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears the humans have=found a Monster Lair.~02~}#108#099
+~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears the humans have=found a Monster Lair.~02~#099
+;00000513{Let us watch them for a=minute and see what=happens.~00~}#056#053
+Let us watch them for a=minute and see what=happens.~00~#053
+;00000548{~05~Lord ~06~! The humans=have masterfully sealed=the Monster Lair by=themselves!~02~}#085#076
+~05~Lord ~06~! The humans=have masterfully sealed=the Monster Lair by=themselves!~02~#076
+;00000594{~01~}#004#001
+~01~#001
+;00000595{~00~}#004#001
+~00~#001
+;00000596{~05~Lord ~06~!=Let us return posthaste to=Heaven´s Castle and=proceed to battle!!~00~}#085#076
+~05~Lord ~06~!=Let us return posthaste to=Heaven´s Castle and=proceed to battle!!~00~#076
+;000005E2{~05~Lord ~06~!=The town of ~08~/~03~}#036#024
+~05~Lord ~06~!=The town of ~08~/~03~#024
+;000005FA{~F1~~AC~=will be fine on their own=without us watching over=them.~02~}#069#060
+~F1~~AC~=will be fine on their own=without us watching over=them.~02~#060
+;00000636{Shall we proceed to=another area and fight=the monsters there?~00~}#066#063
+Shall we proceed to=another area and fight=the monsters there?~00~#063
+;00000675{~05~Lord ~06~!=The land of ~08~/~03~}#036#024
+~05~Lord ~06~!=The land of ~08~/~03~#024
+;0000068D{~F1~~AC~ has=has finally become=habitable for humans.~02~}#057#048
+~F1~~AC~ has=has finally become=habitable for humans.~02~#048
+;000006BD{~01~}#004#001
+~01~#001
+;000006BE{~05~We must now protect the=people and keep their=lives from being disrupted=by monsters.~02~}#093#087
+~05~We must now protect the=people and keep their=lives from being disrupted=by monsters.~02~#087
+;00000715{Lord ~06~, I will go=wherever you command me,=so please direct me to=defeat monsters with my=Angel Arrows.~02~}#110#104
+Lord ~06~, I will go=wherever you command me,=so please direct me to=defeat monsters with my=Angel Arrows.~02~#104
+;0000077D{The thaumaturgic circles=dotting the land are=Monster Lairs.~02~}#064#061
+The thaumaturgic circles=dotting the land are=Monster Lairs.~02~#061
+;000007BA{If you lead the humans=toward these Lairs, they=will surely seal them off=forver.~02~}#085#082
+If you lead the humans=toward these Lairs, they=will surely seal them off=forver.~02~#082
+;0000080C{When all of the Monster=Lairs are sealed, the lead=monster controlling this=area will appear, and once=you defeat it, ~08~/~03~}#127#121
+When all of the Monster=Lairs are sealed, the lead=monster controlling this=area will appear, and once=you defeat it, ~08~/~03~#121
+;00000885{~F1~~AC~=will be free of monsters,~02~}#038#029
+~F1~~AC~=will be free of monsters,~02~#029
+;000008A2{and become a land for the=humans alone.~02~}#043#040
+and become a land for the=humans alone.~02~#040
+;000008CA{~01~}#004#001
+~01~#001
+;000008CB{~05~Well then, Lord ~06~,=let us work for the sake=of these dear little=humans.~00~}#083#074
+~05~Well then, Lord ~06~,=let us work for the sake=of these dear little=humans.~00~#074
+;00000915{~05~That lightning bolt=destroyed the large=boulder below the cliff.~02~}#072#066
+~05~That lightning bolt=destroyed the large=boulder below the cliff.~02~#066
+;00000957{From the rubble, we=discovered this Fire=Magic.~02~}#051#048
+From the rubble, we=discovered this Fire=Magic.~02~#048
+;00000987{All magic was yours=originally, so we are=returning it to you.=Please take it.~00~}#082#079
+All magic was yours=originally, so we are=returning it to you.=Please take it.~00~#079
+;000009D6{~05~All magic was yours=originally, so we are=returning it to you.=Please take it.~00~}#086#080
+~05~All magic was yours=originally, so we are=returning it to you.=Please take it.~00~#080
+;00000A26{~05~Greetings, Holy Father.=This is a mysterious gem,=isn´t it?~02~}#067#061
+~05~Greetings, Holy Father.=This is a mysterious gem,=isn´t it?~02~#061
+;00000A63{Just by looking at it,=I feel power surging=throughout my body.~00~}#067#064
+Just by looking at it,=I feel power surging=throughout my body.~00~#064
+;00000AA3{~05~Holy Father, this is the=source of your magic.=Please accept it.~00~}#072#066
+~05~Holy Father, this is the=source of your magic.=Please accept it.~00~#066
+;00000AE5{~05~Holy Father, please give=this bread to poor Teddy,=who´s out there all alone.~00~}#085#079
+~05~Holy Father, please give=this bread to poor Teddy,=who´s out there all alone.~00~#079
+;00000B34{~05~Holy Father, this crop is=called rice. It can feed=more people than wheat=can.~02~}#086#080
+~05~Holy Father, this crop is=called rice. It can feed=more people than wheat=can.~02~#080
+;00000B84{Please use this to turn=the fields of other hard-=working people into rice=paddies.~00~}#087#084
+Please use this to turn=the fields of other hard-=working people into rice=paddies.~00~#084
+;00000BD8{~05~Holy Father, this is=called medicine.~02~}#045#039
+~05~Holy Father, this is=called medicine.~02~#039
+;00000BFF{If you boil it in water=and drink it, then it will=cure all sorts of plague=and disease.~00~}#092#089
+If you boil it in water=and drink it, then it will=cure all sorts of plague=and disease.~00~#089
+;00000C58{~05~Holy Father, that is the=pride of Fillmore, the=technology to construct=bridges.~02~}#088#082
+~05~Holy Father, that is the=pride of Fillmore, the=technology to construct=bridges.~02~#082
+;00000CAA{With this technology,=people can cross rivers=and build houses on the=other side.~00~}#085#082
+With this technology,=people can cross rivers=and build houses on the=other side.~00~#082
+;00000CFC{~05~Holy Father, that is the=cultural phenomenon born=in Cassandra called music.~02~}#084#078
+~05~Holy Father, that is the=cultural phenomenon born=in Cassandra called music.~02~#078
+;00000D4A{People that listen to=music are calmed, and=all thoughts of strife=and anger vanish.~00~}#088#085
+People that listen to=music are calmed, and=all thoughts of strife=and anger vanish.~00~#085
+;00000D9F{~05~According to the fortune=teller, this gem emits a=light that will destroy=a Monster Lair.~00~}#097#091
+~05~According to the fortune=teller, this gem emits a=light that will destroy=a Monster Lair.~00~#091
+;00000DFA{~05~A description of a bird-=shaped island is written=on this tablet.~02~}#073#067
+~05~A description of a bird-=shaped island is written=on this tablet.~02~#067
+;00000E3D{If you give this to the=people of an area  with=such an island, they might=be able to tell you=something.~00~}#109#106
+If you give this to the=people of an area  with=such an island, they might=be able to tell you=something.~00~#106
+;00000EA7{~05~According to the fortune=teller, this gem emits a=light that will destroy=a Monster Lair.~02~}#097#091
+~05~According to the fortune=teller, this gem emits a=light that will destroy=a Monster Lair.~02~#091
+;00000F02{Please use it on any=Monster Lair that we=cannot seal ourselves.~00~}#068#065
+Please use it on any=Monster Lair that we=cannot seal ourselves.~00~#065
+;00000F43{~05~Holy Father, this is the=skin of a sheep.~02~}#049#043
+~05~Holy Father, this is the=skin of a sheep.~02~#043
+;00000F6E{If you make it into=clothing, the people that=wear it will be warm=enough to survive in any=climate, no matter how=cold.~00~}#124#121
+If you make it into=clothing, the people that=wear it will be warm=enough to survive in any=climate, no matter how=cold.~00~#121
+;00000FE7{~05~If you hold this up in the=air, it will destroy all=the monsters flying about.~00~}#086#080
+~05~If you hold this up in the=air, it will destroy all=the monsters flying about.~00~#080
+;00001037{~05~Holy Father, this is=called a compass.~02~}#046#040
+~05~Holy Father, this is=called a compass.~02~#040
+;0000105F{This is a wonderful device=that will tell you the=direction you are=traveling, even when out=on the open seas.~02~}#114#111
+This is a wonderful device=that will tell you the=direction you are=traveling, even when out=on the open seas.~02~#111
+;000010CE{With it, people will be=able to fish out on the=far seas.~00~}#061#058
+With it, people will be=able to fish out on the=far seas.~00~#058
+;00001108{~05~This looks like an=Angel Bow.~00~}#037#031
+~05~This looks like an=Angel Bow.~00~#031
+;00001127{Nothing is written yet.~00~}#027#024
+Nothing is written yet.~00~#024
+;0000113F{~05~Where will you use it?=Please indicate where=you want me to put it.~00~}#075#069
+~05~Where will you use it?=Please indicate where=you want me to put it.~00~#069
+;00001184{~05~Lord ~06~, you have=gained an extra life=for the next time you=fight with the monsters!~00~}#095#086
+~05~Lord ~06~, you have=gained an extra life=for the next time you=fight with the monsters!~00~#086
+;000011DA{~05~Lord ~06~, you have=gained an extra MP!!~00~}#048#039
+~05~Lord ~06~, you have=gained an extra MP!!~00~#039
+;00001201{~05~Lord ~06~, you´re=going to give this to=the runaway Teddy, right?=Don´t just throw it away=there.~00~}#105#096
+~05~Lord ~06~, you´re=going to give this to=the runaway Teddy, right?=Don´t just throw it away=there.~00~#096
+;00001261{~05~I wonder what Teddy will=think once he sees the=bread his mother baked?~00~}#079#073
+~05~I wonder what Teddy will=think once he sees the=bread his mother baked?~00~#073
+;000012AA{Lord ~06~, when you=gave the rice to the=paddy, you gained another!~00~}#071#065
+Lord ~06~, when you=gave the rice to the=paddy, you gained another!~00~#065
+;000012EB{~05~Lord ~06~, there´s no=point in using the rice=anywhere but a field.~00~}#075#066
+~05~Lord ~06~, there´s no=point in using the rice=anywhere but a field.~00~#066
+;0000132D{~05~Nothing is written yet.~00~}#031#025
+~05~Nothing is written yet.~00~#025
+;00001346{~05~Lord ~06~, this area=is not stricken with=any plagues.~00~}#062#053
+~05~Lord ~06~, this area=is not stricken with=any plagues.~00~#053
+;0000137B{~05~Now, the people of this=land will no longer become=infected with plague.~00~}#080#074
+~05~Now, the people of this=land will no longer become=infected with plague.~00~#074
+;000013C5{~05~Lord ~06~, there are=no rivers in this land.~00~}#052#043
+~05~Lord ~06~, there are=no rivers in this land.~00~#043
+;000013F0{~05~Lord ~06~, this land=already has the technology=to build bridges.~00~}#073#064
+~05~Lord ~06~, this land=already has the technology=to build bridges.~00~#064
+;00001430{~05~Lord ~06~, now this=land will be able to=build bridges.~00~}#063#054
+~05~Lord ~06~, now this=land will be able to=build bridges.~00~#054
+;00001466{~05~Lord ~06~, I think=that this land will=be able to build=bridges later on.~00~}#081#072
+~05~Lord ~06~, I think=that this land will=be able to build=bridges later on.~00~#072
+;000014AE{~05~You can really sense the=feelings of the man who=wrote this song when you=listen to it.~02~}#095#089
+~05~You can really sense the=feelings of the man who=wrote this song when you=listen to it.~02~#089
+;00001507{But Lord ~06~, music=puts the hearts of the=people that hear it at=ease.~02~}#076#070
+But Lord ~06~, music=puts the hearts of the=people that hear it at=ease.~02~#070
+;0000154D{I think it would be better=if you gave it to people=who are distressed and=angry.~00~}#085#082
+I think it would be better=if you gave it to people=who are distressed and=angry.~00~#082
+;0000159F{~05~You can really sense the=feelings of the man who=wrote this song when you=listen to it.~02~}#095#089
+~05~You can really sense the=feelings of the man who=wrote this song when you=listen to it.~02~#089
+;000015F8{Lord ~06~, this should=put the people at ease,=and they will stop=fighting amongst each=other.~00~}#098#092
+Lord ~06~, this should=put the people at ease,=and they will stop=fighting amongst each=other.~00~#092
+;00001654{~05~~00~}#008#002
+~05~~00~#002
+;00001656{~05~Lord ~06~, there isn´t=any bird-shaped island=in this land...~00~}#069#060
+~05~Lord ~06~, there isn´t=any bird-shaped island=in this land...~00~#060
+;00001692{~05~There is indeed a bird-=shaped island in this=land. Let´s see what=happens when we give the=people the tablet.~00~}#118#112
+~05~There is indeed a bird-=shaped island in this=land. Let´s see what=happens when we give the=people the tablet.~00~#112
+;00001702{~05~If you don´t use this on=top of a Monster Lair,=you won´t be able to seal=it.~00~}#085#079
+~05~If you don´t use this on=top of a Monster Lair,=you won´t be able to seal=it.~00~#079
+;00001751{~05~Lord ~06~, the Monster=Lair has been sealed!!~00~}#053#044
+~05~Lord ~06~, the Monster=Lair has been sealed!!~00~#044
+;0000177D{~05~Lord ~06~, are you=sure it´s such a good=idea to use that there?~02~}#072#063
+~05~Lord ~06~, are you=sure it´s such a good=idea to use that there?~02~#063
+;000017BC{I think that you´d better=think a little bit more=carefully about it=first...~00~}#081#078
+I think that you´d better=think a little bit more=carefully about it=first...~00~#078
+;0000180A{~05~Now the people of=Northwall will be=able to live without=being frozen.~00~}#078#072
+~05~Now the people of=Northwall will be=able to live without=being frozen.~00~#072
+;00001852{~05~There´s no point in giving=this to a land that isn´t=really cold.~00~}#073#067
+~05~There´s no point in giving=this to a land that isn´t=really cold.~00~#067
+;00001895{~05~This land already has the=technology to make=compasses.~00~}#063#057
+~05~This land already has the=technology to make=compasses.~00~#057
+;000018CE{~05~Now this land will be able=to go on deep-sea fishing=expeditions.~00~}#073#067
+~05~Now this land will be able=to go on deep-sea fishing=expeditions.~00~#067
+;00001911{~05~There´s no point in giving=this to a land that=doesn´t fish in the ocean=already.~00~}#089#083
+~05~There´s no point in giving=this to a land that=doesn´t fish in the ocean=already.~00~#083
+;00001964{~05~My Angel Arrows have=gotten more powerful.~00~}#050#044
+~05~My Angel Arrows have=gotten more powerful.~00~#044
+;00001990{~05~Are you awake, Lord=~06~?~02~}#033#024
+~05~Are you awake, Lord=~06~?~02~#024
+;000019A8{I am the Angel who will=help you, now that you=have lost all of your=power.~02~}#079#076
+I am the Angel who will=help you, now that you=have lost all of your=power.~02~#076
+;000019F4{The earth is in ruins,=and only monsters roam=the lands.~02~}#060#057
+The earth is in ruins,=and only monsters roam=the lands.~02~#057
+;00001A2D{This is the work of the=Dark Lord Satan, who stole=all of your power, Lord=~06~.~02~}#084#078
+This is the work of the=Dark Lord Satan, who stole=all of your power, Lord=~06~.~02~#078
+;00001A7B{In order for you to regain=your power, you will need=the faith and worship of=the people,~02~}#093#090
+In order for you to regain=your power, you will need=the faith and worship of=the people,~02~#090
+;00001AD5{but first you will need to=descend to earth and fight=monsters so that you can=make the land habitable=for humans in the first=place.~00~}#137#134
+but first you will need to=descend to earth and fight=monsters so that you can=make the land habitable=for humans in the first=place.~00~#134
+;00001B5B{~05~Welcome back, Lord=~06~. Are you well-=rested and feeling better?~02~}#073#064
+~05~Welcome back, Lord=~06~. Are you well-=rested and feeling better?~02~#064
+;00001B9B{Let´s work together to=create a world for you,=my Lord, and the humans.~00~}#075#072
+Let´s work together to=create a world for you,=my Lord, and the humans.~00~#072
+;00001BE3{~05~Now you will pick the name=of the Holy Father.~02~}#054#048
+~05~Now you will pick the name=of the Holy Father.~02~#048
+;00001C13{Press B to pick a letter=and Y button to cancel.=Once you are done, press=Start.~00~}#084#081
+Press B to pick a letter=and Y button to cancel.=Once you are done, press=Start.~00~#081
+;00001C64{ter all that work the=people no longer really=need us.~03~}#058#055
+ter all that work the=people no longer really=need us.~03~#055
+;00001C9B{~03~}#004#001
+~03~#001
+;00001C9C{=Let´s go and have a look=at each of the now-=developed towns.~03~}#066#063
+=Let´s go and have a look=at each of the now-=developed towns.~03~#063
+;00001CDB{~03~}#004#001
+~03~#001
+;00001CDC{~03~}#004#001
+~03~#001
+;00001CDD{~03~}#004#001
+~03~#001
+;00001CDE{~03~}#004#001
+~03~#001
+;00001CDF{~03~}#004#001
+~03~#001
+;00001CE0{~01~}#004#001
+~01~#001
+;00001CE1{~05~~04~This is Fillmore.=The people settled in the=forest and built a large=city.~03~}#086#077
+~05~~04~This is Fillmore.=The people settled in the=forest and built a large=city.~03~#077
+;00001D2E{~03~}#004#001
+~03~#001
+;00001D2F{=This place had a man whose=visions foretold the=future, didn´t it?=His ability saved Filmoa,=but killed him in the=process.~03~}#128#125
+=This place had a man whose=visions foretold the=future, didn´t it?=His ability saved Filmoa,=but killed him in the=process.~03~#125
+;00001DAC{~03~}#004#001
+~03~#001
+;00001DAD{=Though of course, with his=ability, he probably=already knew that he was=about to die...~03~}#093#090
+=Though of course, with his=ability, he probably=already knew that he was=about to die...~03~#090
+;00001E07{~03~}#004#001
+~03~#001
+;00001E08{=Ever since birth, humans=are bound down by the=threads of fate.~03~}#068#065
+=Ever since birth, humans=are bound down by the=threads of fate.~03~#065
+;00001E49{~03~}#004#001
+~03~#001
+;00001E4A{=Because they´re blissfully=unaware of that fact, they=can live to the fullest=day by day.~03~}#094#091
+=Because they´re blissfully=unaware of that fact, they=can live to the fullest=day by day.~03~#091
+;00001EA5{~03~}#004#001
+~03~#001
+;00001EA6{=Don´t you think that man=was a real shining example=of a human being and a=leader, knowing his fate=in advance, yet accepting=it?~03~}#134#131
+=Don´t you think that man=was a real shining example=of a human being and a=leader, knowing his fate=in advance, yet accepting=it?~03~#131
+;00001F29{~03~}#004#001
+~03~#001
+;00001F2A{~03~}#004#001
+~03~#001
+;00001F2B{~03~}#004#001
+~03~#001
+;00001F2C{~01~}#004#001
+~01~#001
+;00001F2D{~05~~04~This is Bloodpool, though=now that the lake is blue,=it seems kind of=inappropriate to call it=that.~03~}#112#103
+~05~~04~This is Bloodpool, though=now that the lake is blue,=it seems kind of=inappropriate to call it=that.~03~#103
+;00001F94{~03~}#004#001
+~03~#001
+;00001F95{=That boisterous young boy=Teddy lived here.~03~}#048#045
+=That boisterous young boy=Teddy lived here.~03~#045
+;00001FC2{~03~}#004#001
+~03~#001
+;00001FC3{=Though you and I are=supposed to treat all=humans equally,~03~}#063#060
+=Though you and I are=supposed to treat all=humans equally,~03~#060
+;00001FFF{~03~}#004#001
+~03~#001
+;00002000{=when a child stands out=like that, I kind of want=to give him special=attention.~03~}#085#082
+=when a child stands out=like that, I kind of want=to give him special=attention.~03~#082
+;00002052{~03~}#004#001
+~03~#001
+;00002053{=Do you remember how the=people of Bloodpool drew=lots to decide who would=be the sacrifice?~03~}#096#093
+=Do you remember how the=people of Bloodpool drew=lots to decide who would=be the sacrifice?~03~#093
+;000020B0{~03~}#004#001
+~03~#001
+;000020B1{=Actually, I know something=about that lottery that=nobody else did.~03~}#072#069
+=Actually, I know something=about that lottery that=nobody else did.~03~#069
+;000020F6{~03~}#004#001
+~03~#001
+;000020F7{=I was watching, and saw=that Teddy deliberately=set up the lottery so that=he would be chosen as a=sacrifice...~03~}#116#113
+=I was watching, and saw=that Teddy deliberately=set up the lottery so that=he would be chosen as a=sacrifice...~03~#113
+;00002168{~03~}#004#001
+~03~#001
+;00002169{~03~}#004#001
+~03~#001
+;0000216A{~03~}#004#001
+~03~#001
+;0000216B{~01~}#004#001
+~01~#001
+;0000216C{~05~~04~This is the desert town of=Cassandra.=Though there´s not really=that much left in the way=of sands or wastes now.~03~}#125#116
+~05~~04~This is the desert town of=Cassandra.=Though there´s not really=that much left in the way=of sands or wastes now.~03~#116
+;000021E0{~03~}#004#001
+~03~#001
+;000021E1{=The people of this town=said that they were=enthralled by the magic of=the pyramid here.~03~}#093#090
+=The people of this town=said that they were=enthralled by the magic of=the pyramid here.~03~#090
+;0000223B{~03~}#004#001
+~03~#001
+;0000223C{=What do you think of this=theory?~03~}#038#035
+=What do you think of this=theory?~03~#035
+;0000225F{~03~}#004#001
+~03~#001
+;00002260{=The monsters that were in=the period were actually=humans--slaves forced to=build that huge tomb that=were reborn as monsters.~03~}#131#128
+=The monsters that were in=the period were actually=humans--slaves forced to=build that huge tomb that=were reborn as monsters.~03~#128
+;000022E0{~03~}#004#001
+~03~#001
+;000022E1{=The energy left behind=from their memories as=humans was what was=enthralling all the=people...~03~}#100#097
+=The energy left behind=from their memories as=humans was what was=enthralling all the=people...~03~#097
+;00002342{~03~}#004#001
+~03~#001
+;00002343{=Now that the pyramid is=sealed, their souls are=saved, and they will=probably be reborn as=humans once more.~03~}#113#110
+=Now that the pyramid is=sealed, their souls are=saved, and they will=probably be reborn as=humans once more.~03~#110
+;000023B1{~03~}#004#001
+~03~#001
+;000023B2{~03~}#004#001
+~03~#001
+;000023B3{~03~}#004#001
+~03~#001
+;000023B4{~01~}#004#001
+~01~#001
+;000023B5{~05~~04~This is Aitos, the city at=the foot of a volcano.~03~}#061#052
+~05~~04~This is Aitos, the city at=the foot of a volcano.~03~#052
+;000023E9{~03~}#004#001
+~03~#001
+;000023EA{=I was really moved by the=people who strived hard to=build houses despite the=constant downpour of lava.~03~}#109#106
+=I was really moved by the=people who strived hard to=build houses despite the=constant downpour of lava.~03~#106
+;00002454{~03~}#004#001
+~03~#001
+;00002455{=One of the leaders here=died while working for=you, and I get the sense=he was giving his all to=let the people know that=you existed.~03~}#139#136
+=One of the leaders here=died while working for=you, and I get the sense=he was giving his all to=let the people know that=you existed.~03~#136
+;000024DD{~03~}#004#001
+~03~#001
+;000024DE{=I hope that Aitos develops=into a wonderful, thriving=metropolis for his sake.~03~}#083#080
+=I hope that Aitos develops=into a wonderful, thriving=metropolis for his sake.~03~#080
+;0000252E{~03~}#004#001
+~03~#001
+;0000252F{~03~}#004#001
+~03~#001
+;00002530{~03~}#004#001
+~03~#001
+;00002531{~01~}#004#001
+~01~#001
+;00002532{~05~~04~This is the jungle of=Marana. It´s quite an=accomplishment for the=humans to have built this=many houses in such a=small area!~03~}#138#129
+~05~~04~This is the jungle of=Marana. It´s quite an=accomplishment for the=humans to have built this=many houses in such a=small area!~03~#129
+;000025B3{~03~}#004#001
+~03~#001
+;000025B4{=I was a bit disappointed=when the two leaders of=this town turned to that=evil religion,~03~}#093#090
+=I was a bit disappointed=when the two leaders of=this town turned to that=evil religion,~03~#090
+;0000260E{~03~}#004#001
+~03~#001
+;0000260F{=but when under extreme=duress, people often look=to find the easiest way=out...~03~}#084#081
+=but when under extreme=duress, people often look=to find the easiest way=out...~03~#081
+;00002660{~03~}#004#001
+~03~#001
+;00002661{=After seeing the weak side=of humanity, it made me=feel a duty to guide them=to the right path even=more.~03~}#110#107
+=After seeing the weak side=of humanity, it made me=feel a duty to guide them=to the right path even=more.~03~#107
+;000026CC{~03~}#004#001
+~03~#001
+;000026CD{~03~}#004#001
+~03~#001
+;000026CE{~03~}#004#001
+~03~#001
+;000026CF{~01~}#004#001
+~01~#001
+;000026D0{~05~~04~This is the Northwall, a=town at the far end of the=earth.~03~}#070#061
+~05~~04~This is the Northwall, a=town at the far end of the=earth.~03~#061
+;0000270D{~03~}#004#001
+~03~#001
+;0000270E{=I felt a little sorry=making people live in such=a harsh environment, but=they tamed the land quite=spectacularly in the end.~03~}#130#127
+=I felt a little sorry=making people live in such=a harsh environment, but=they tamed the land quite=spectacularly in the end.~03~#127
+;0000278D{~03~}#004#001
+~03~#001
+;0000278E{=When the leaders of this=town saw the initials=carved into the trunk of=the giant tree here,~03~}#097#094
+=When the leaders of this=town saw the initials=carved into the trunk of=the giant tree here,~03~#094
+;000027EC{=they said that they were=struck by a nostalgic=feeling that they="couldn´t put into words.~2B~~03~}#099#093
+=they said that they were=struck by a nostalgic=feeling that they="couldn´t put into words.~2B~~03~#093
+;00002849{~03~}#004#001
+~03~#001
+;0000284A{=This is just my pet=theory, but I think that=in the ancient past,=those two were lovers that=lived in this area,~03~}#117#114
+=This is just my pet=theory, but I think that=in the ancient past,=those two were lovers that=lived in this area,~03~#114
+;000028BC{=and after getting killed=by monsters, their souls=sought each other still,=and were reborn into the=bodies of those two=leaders.~03~}#133#130
+=and after getting killed=by monsters, their souls=sought each other still,=and were reborn into the=bodies of those two=leaders.~03~#130
+;0000293E{~03~}#004#001
+~03~#001
+;0000293F{=If that´s true, then it=means that the two lovers=transcended time to come=together again.~03~}#095#092
+=If that´s true, then it=means that the two lovers=transcended time to come=together again.~03~#092
+;0000299B{~03~}#004#001
+~03~#001
+;0000299C{=Even though they don´t=remember anything, I=think that´s really=romantic.~03~}#078#075
+=Even though they don´t=remember anything, I=think that´s really=romantic.~03~#075
+;000029E7{~03~}#004#001
+~03~#001
+;000029E8{=Looking back, you worked=really hard to get this=far, Lord ~06~, but=the humans worked even=harder than you did.~03~}#117#111
+=Looking back, you worked=really hard to get this=far, Lord ~06~, but=the humans worked even=harder than you did.~03~#111
+;00002A57{~03~}#004#001
+~03~#001
+;00002A58{=Lord ~06~, shall we=have a look in the humans´=temple?~03~}#059#053
+=Lord ~06~, shall we=have a look in the humans´=temple?~03~#053
+;00002A8D{~03~}#004#001
+~03~#001
+;00002A8E{~03~}#004#001
+~03~#001
+;00002A8F{~03~}#004#001
+~03~#001
+;00002A90{~01~}#004#001
+~01~#001
+;00002A91{~05~~04~~03~}#012#003
+~05~~04~~03~#003
+;00002A94{.......~03~}#011#008
+.......~03~#008
+;00002A9C{~03~}#004#001
+~03~#001
+;00002A9D{=Nobody´s here.~03~}#019#016
+=Nobody´s here.~03~#016
+;00002AAD{~03~}#004#001
+~03~#001
+;00002AAE{=Before there would always=be people here crying out="Help me, God!~2B~ or=somesuch, so it´s quite a=change....~03~}#115#109
+=Before there would always=be people here crying out="Help me, God!~2B~ or=somesuch, so it´s quite a=change....~03~#109
+;00002B1B{~03~}#004#001
+~03~#001
+;00002B1C{=I suppose that the larger=the town becomes, the more=and more we become=forgotten...~03~}#089#086
+=I suppose that the larger=the town becomes, the more=and more we become=forgotten...~03~#086
+;00002B72{~03~}#004#001
+~03~#001
+;00002B73{=But in a way I think=that´s for the best.= I think that humans are=happiest when they no=longer need gods and have=forgotten about them.~03~}#141#138
+=But in a way I think=that´s for the best.= I think that humans are=happiest when they no=longer need gods and have=forgotten about them.~03~#138
+;00002BFD{~03~}#004#001
+~03~#001
+;00002BFE{=Lord ~06~, let us pray=that they will never need=us again!~03~}#063#057
+=Lord ~06~, let us pray=that they will never need=us again!~03~#057
+;00002C37{~03~}#004#001
+~03~#001
+;00002C38{~03~}#004#001
+~03~#001
+;00002C39{~03~}#004#001
+~03~#001
+;00002C3A{~03~}#004#001
+~03~#001
+;00002C3B{~03~}#004#001
+~03~#001
+;00002C3C{~03~}#004#001
+~03~#001
+;00002C3D{~03~}#004#001
+~03~#001
+;00002C3E{~03~}#004#001
+~03~#001
+;00002C3F{~03~}#004#001
+~03~#001
+;00002C40{~01~}#004#001
+~01~#001
+;00002C41{~05~Lord ~06~, when you=defeated the last monster,=the island of the Dark=Lord Satan rose out of the=oceans to the northeast.~02~}#129#120
+~05~Lord ~06~, when you=defeated the last monster,=the island of the Dark=Lord Satan rose out of the=oceans to the northeast.~02~#120
+;00002CB9{Satan must be lying in=wait in the bowels of=the earth, for the final=battle between God and=the Devil.~02~}#107#104
+Satan must be lying in=wait in the bowels of=the earth, for the final=battle between God and=the Devil.~02~#104
+;00002D21{Let´s go, Lord ~06~!=To Deathheim>l~FD~l~FD~l~FD~lMmzm~0C~n~5B~n~FF~n~7F~o~23~pvp!q~CE~q~6A~r~0E~s~0E~s~0E~s~5E~s/tNt~05~~04~~03~}#129#075
+Let´s go, Lord ~06~!=To Deathheim>l~FD~l~FD~l~FD~lMmzm~0C~n~5B~n~FF~n~7F~o~23~pvp!q~CE~q~6A~r~0E~s~0E~s~0E~s~5E~s/tNt~05~~04~~03~#075
+;00002D6C{Lord ~06~, it´s been=a long, hard road, but our=job is finally over.~03~}#072#066
+Lord ~06~, it´s been=a long, hard road, but our=job is finally over.~03~#066
+;00002DAE{~03~}#004#001
+~03~#001
+;00002DAF{=It´s kind of too bad that=after all that work the=people no longer really=need us.~03~}#087#084
+=It´s kind of too bad that=after all that work the=people no longer really=need us.~03~#084
+;00002E03{~03~}#004#001
+~03~#001
+;00002E04{=Let´s go and have a look=at each of the now-=developed towns.~03~}#066#063
+=Let´s go and have a look=at each of the now-=developed towns.~03~#063
+;00002E43{~03~}#004#001
+~03~#001
+;00002E44{~03~}#004#001
+~03~#001
+;00002E45{~03~}#004#001
+~03~#001
+;00002E46{~03~}#004#001
+~03~#001
+;00002E47{~03~}#004#001
+~03~#001
+;00002E48{~01~}#004#001
+~01~#001
+;00002E49{~05~~04~This is Fillmore.=The people settled in the=forest and built a large=city.~03~}#086#077
+~05~~04~This is Fillmore.=The people settled in the=forest and built a large=city.~03~#077
+;00002E96{~03~}#004#001
+~03~#001
+;00002E97{=This place had a man whose=visions foretold the=future, didn´t it?=His ability saved=Fillmore, but killed him=in the process.~03~}#130#127
+=This place had a man whose=visions foretold the=future, didn´t it?=His ability saved=Fillmore, but killed him=in the process.~03~#127
+;00002F16{~03~}#004#001
+~03~#001
+;00002F17{=Though of course, with his=ability, he probably=already knew that he was=about to die...~03~}#093#090
+=Though of course, with his=ability, he probably=already knew that he was=about to die...~03~#090
+;00002F71{~03~}#004#001
+~03~#001
+;00002F72{=Ever since birth, humans=are bound down by the=threads of fate.~03~}#068#065
+=Ever since birth, humans=are bound down by the=threads of fate.~03~#065
+;00002FB3{~03~}#004#001
+~03~#001
+;00002FB4{=Because they´re blissfully=unaware of that fact, they=can live to the fullest=day by day.~03~}#094#091
+=Because they´re blissfully=unaware of that fact, they=can live to the fullest=day by day.~03~#091
+;0000300F{~03~}#004#001
+~03~#001
+;00003010{=Don´t you think that man=was a real shining example=of a human being and a=leader, knowing his fate=in advance, yet accepting=it?~03~}#134#131
+=Don´t you think that man=was a real shining example=of a human being and a=leader, knowing his fate=in advance, yet accepting=it?~03~#131
+;00003093{~03~}#004#001
+~03~#001
+;00003094{~03~}#004#001
+~03~#001
+;00003095{~03~}#004#001
+~03~#001
+;00003096{~01~}#004#001
+~01~#001
+;00003097{~05~~04~This is Bloodpool, though=now that the lake is blue,=it seems kind of=inappropriate to call it=that.~03~}#112#103
+~05~~04~This is Bloodpool, though=now that the lake is blue,=it seems kind of=inappropriate to call it=that.~03~#103
+;000030FE{~03~}#004#001
+~03~#001
+;000030FF{=That boisterous young boy=Teddy lived here.~03~}#048#045
+=That boisterous young boy=Teddy lived here.~03~#045
+;0000312C{~03~}#004#001
+~03~#001
+;0000312D{=Though you and I are=supposed to treat all=humans equally,~03~}#063#060
+=Though you and I are=supposed to treat all=humans equally,~03~#060
+;00003169{~03~}#004#001
+~03~#001
+;0000316A{=when a child stands out=like that, I kind of want=to give him special=attention.~03~}#085#082
+=when a child stands out=like that, I kind of want=to give him special=attention.~03~#082
+;000031BC{~03~}#004#001
+~03~#001
+;000031BD{=Do you remember how the=people of Bloodpool drew=lots to decide who would=be the sacrifice?~03~}#096#093
+=Do you remember how the=people of Bloodpool drew=lots to decide who would=be the sacrifice?~03~#093
+;0000321A{~03~}#004#001
+~03~#001
+;0000321B{=Actually, I know something=about that lottery that=nobody else did.~03~}#072#069
+=Actually, I know something=about that lottery that=nobody else did.~03~#069
+;00003260{~03~}#004#001
+~03~#001
+;00003261{=I was watching, and saw=that Teddy deliberately=set up the lottery so that=he would be chosen as a=sacrifice...~03~}#116#113
+=I was watching, and saw=that Teddy deliberately=set up the lottery so that=he would be chosen as a=sacrifice...~03~#113
+;000032D2{~03~}#004#001
+~03~#001
+;000032D3{~03~}#004#001
+~03~#001
+;000032D4{~03~}#004#001
+~03~#001
+;000032D5{~01~}#004#001
+~01~#001
+;000032D6{~05~~04~This is the desert town of=Cassandra.=Though there´s not really=that much left in the way=of sands or wastes now.~03~}#125#116
+~05~~04~This is the desert town of=Cassandra.=Though there´s not really=that much left in the way=of sands or wastes now.~03~#116
+;0000334A{~03~}#004#001
+~03~#001
+;0000334B{=The people of this town=said that they were=enthralled by the magic of=the pyramid here.~03~}#093#090
+=The people of this town=said that they were=enthralled by the magic of=the pyramid here.~03~#090
+;000033A5{~03~}#004#001
+~03~#001
+;000033A6{=What do you think of this=theory?~03~}#038#035
+=What do you think of this=theory?~03~#035
+;000033C9{~03~}#004#001
+~03~#001
+;000033CA{=The monsters that were in=the period were actually=humans--slaves forced to=build that huge tomb that=were reborn as monsters.~03~}#131#128
+=The monsters that were in=the period were actually=humans--slaves forced to=build that huge tomb that=were reborn as monsters.~03~#128
+;0000344A{~03~}#004#001
+~03~#001
+;0000344B{=The energy left behind=from their memories as=humans was what was=enthralling all the=people...~03~}#100#097
+=The energy left behind=from their memories as=humans was what was=enthralling all the=people...~03~#097
+;000034AC{~03~}#004#001
+~03~#001
+;000034AD{=Now that the pyramid is=sealed, their souls are=saved, and they will=probably be reborn as=humans once more.~03~}#113#110
+=Now that the pyramid is=sealed, their souls are=saved, and they will=probably be reborn as=humans once more.~03~#110
+;0000351B{~03~}#004#001
+~03~#001
+;0000351C{~03~}#004#001
+~03~#001
+;0000351D{~03~}#004#001
+~03~#001
+;0000351E{~01~}#004#001
+~01~#001
+;0000351F{~05~~04~This is Aitos, the city at=the foot of a volcano.~03~}#061#052
+~05~~04~This is Aitos, the city at=the foot of a volcano.~03~#052
+;00003553{~03~}#004#001
+~03~#001
+;00003554{=I was really moved by the=people who strived hard to=build houses despite the=constant downpour of lava.~03~}#109#106
+=I was really moved by the=people who strived hard to=build houses despite the=constant downpour of lava.~03~#106
+;000035BE{~03~}#004#001
+~03~#001
+;000035BF{=One of the leaders here=died while working for=you, and I get the sense=he was giving his all to=let the people know that=you existed.~03~}#139#136
+=One of the leaders here=died while working for=you, and I get the sense=he was giving his all to=let the people know that=you existed.~03~#136
+;00003647{~03~}#004#001
+~03~#001
+;00003648{=I hope that Aitos develops=into a wonderful, thriving=metropolis for his sake.~03~}#083#080
+=I hope that Aitos develops=into a wonderful, thriving=metropolis for his sake.~03~#080
+;00003698{~03~}#004#001
+~03~#001
+;00003699{~03~}#004#001
+~03~#001
+;0000369A{~03~}#004#001
+~03~#001
+;0000369B{~01~}#004#001
+~01~#001
+;0000369C{~05~~04~This is the jungle of=Marana. It´s quite an=accomplishment for the=humans to have built this=many houses in such a=small area!~03~}#138#129
+~05~~04~This is the jungle of=Marana. It´s quite an=accomplishment for the=humans to have built this=many houses in such a=small area!~03~#129
+;0000371D{~03~}#004#001
+~03~#001
+;0000371E{=I was a bit disappointed=when the two leaders of=this town turned to that=evil religion,~03~}#093#090
+=I was a bit disappointed=when the two leaders of=this town turned to that=evil religion,~03~#090
+;00003778{~03~}#004#001
+~03~#001
+;00003779{=but when under extreme=duress, people often look=to find the easiest way=out...~03~}#084#081
+=but when under extreme=duress, people often look=to find the easiest way=out...~03~#081
+;000037CA{~03~}#004#001
+~03~#001
+;000037CB{=After seeing the weak side=of humanity, it made me=feel a duty to guide them=to the right path even=more.~03~}#110#107
+=After seeing the weak side=of humanity, it made me=feel a duty to guide them=to the right path even=more.~03~#107
+;00003836{~03~}#004#001
+~03~#001
+;00003837{~03~}#004#001
+~03~#001
+;00003838{~03~}#004#001
+~03~#001
+;00003839{~01~}#004#001
+~01~#001
+;0000383A{~05~~04~This is the Northwall, a=town at the far end of the=earth.~03~}#070#061
+~05~~04~This is the Northwall, a=town at the far end of the=earth.~03~#061
+;00003877{~03~}#004#001
+~03~#001
+;00003878{=I felt a little sorry=making people live in such=a harsh environment, but=they tamed the land quite=spectacularly in the end.~03~}#130#127
+=I felt a little sorry=making people live in such=a harsh environment, but=they tamed the land quite=spectacularly in the end.~03~#127
+;000038F7{~03~}#004#001
+~03~#001
+;000038F8{=When the leaders of this=town saw the initials=carved into the trunk of=the giant tree here,~03~}#097#094
+=When the leaders of this=town saw the initials=carved into the trunk of=the giant tree here,~03~#094
+;00003956{=they said that they were=struck by a nostalgic=feeling that they="couldn´t put into words.~2B~~03~}#099#093
+=they said that they were=struck by a nostalgic=feeling that they="couldn´t put into words.~2B~~03~#093
+;000039B3{~03~}#004#001
+~03~#001
+;000039B4{=This is just my pet=theory, but I think that=in the ancient past,=those two were lovers that=lived in this area,~03~}#117#114
+=This is just my pet=theory, but I think that=in the ancient past,=those two were lovers that=lived in this area,~03~#114
+;00003A26{=and after getting killed=by monsters, their souls=sought each other still,=and were reborn into the=bodies of those two=leaders.~03~}#133#130
+=and after getting killed=by monsters, their souls=sought each other still,=and were reborn into the=bodies of those two=leaders.~03~#130
+;00003AA8{~03~}#004#001
+~03~#001
+;00003AA9{=If that´s true, then it=means that the two lovers=transcended time to come=together again.~03~}#095#092
+=If that´s true, then it=means that the two lovers=transcended time to come=together again.~03~#092
+;00003B05{~03~}#004#001
+~03~#001
+;00003B06{=Even though they don´t=remember anything, I=think that´s really=romantic.~03~}#078#075
+=Even though they don´t=remember anything, I=think that´s really=romantic.~03~#075
+;00003B51{~03~}#004#001
+~03~#001
+;00003B52{=Looking back, you worked=really hard to get this=far, Lord ~06~, but=the humans worked even=harder than you did.~03~}#117#111
+=Looking back, you worked=really hard to get this=far, Lord ~06~, but=the humans worked even=harder than you did.~03~#111
+;00003BC1{~03~}#004#001
+~03~#001
+;00003BC2{=Lord ~06~, shall we=have a look in the humans´=temple?~03~}#059#053
+=Lord ~06~, shall we=have a look in the humans´=temple?~03~#053
+;00003BF7{~03~}#004#001
+~03~#001
+;00003BF8{~03~}#004#001
+~03~#001
+;00003BF9{~03~}#004#001
+~03~#001
+;00003BFA{~01~}#004#001
+~01~#001
+;00003BFB{~05~~04~~03~}#012#003
+~05~~04~~03~#003
+;00003BFE{.......~03~}#011#008
+.......~03~#008
+;00003C06{~03~}#004#001
+~03~#001
+;00003C07{=Nobody´s here.~03~}#019#016
+=Nobody´s here.~03~#016
+;00003C17{~03~}#004#001
+~03~#001
+;00003C18{=Before there would always=be people here crying out="Help me, Father!~2B~ or=somesuch, so it´s quite a=change....~03~}#118#112
+=Before there would always=be people here crying out="Help me, Father!~2B~ or=somesuch, so it´s quite a=change....~03~#112
+;00003C88{~03~}#004#001
+~03~#001
+;00003C89{=I suppose that the larger=the town becomes, the more=and more we become=forgotten...~03~}#089#086
+=I suppose that the larger=the town becomes, the more=and more we become=forgotten...~03~#086
+;00003CDF{~03~}#004#001
+~03~#001
+;00003CE0{=But in a way I think=that´s for the best.=I think that humans are=happiest when they no=longer need gods and have=forgotten about them.~03~}#140#137
+=But in a way I think=that´s for the best.=I think that humans are=happiest when they no=longer need gods and have=forgotten about them.~03~#137
+;00003D69{~03~}#004#001
+~03~#001
+;00003D6A{=Lord ~06~, let us pray=that they will never need=us again!~03~}#063#057
+=Lord ~06~, let us pray=that they will never need=us again!~03~#057
+;00003DA3{~03~}#004#001
+~03~#001
+;00003DA4{~03~}#004#001
+~03~#001
+;00003DA5{~03~}#004#001
+~03~#001
+;00003DA6{~03~}#004#001
+~03~#001
+;00003DA7{~03~}#004#001
+~03~#001
+;00003DA8{~03~}#004#001
+~03~#001
+;00003DA9{~03~}#004#001
+~03~#001
+;00003DAA{~03~}#004#001
+~03~#001
+;00003DAB{~03~}#004#001
+~03~#001
+;00003DAC{~01~}#004#001
+~01~#001
+;00003DAD{~05~Lord ~06~, when you=defeated the last monster,=the island of the Dark=Lord Satan rose out of the=oceans to the northeast.~02~}#129#120
+~05~Lord ~06~, when you=defeated the last monster,=the island of the Dark=Lord Satan rose out of the=oceans to the northeast.~02~#120
+;00003E25{Satan must be lying in=wait in the bowels of=the earth, for the final=battle between the Holy=Father and the Devil.~02~}#119#116
+Satan must be lying in=wait in the bowels of=the earth, for the final=battle between the Holy=Father and the Devil.~02~#116
+;00003E99{Let´s go, Lord ~06~!=To Deathheim, the land=of death and destruction=where Satan awaits!!~00~}#093#087
+Let´s go, Lord ~06~!=To Deathheim, the land=of death and destruction=where Satan awaits!!~00~#087
+;00003EF0{~05~What a shame.=But you´re not the type to=give up, Lord ~06~.~02~}#068#059
+~05~What a shame.=But you´re not the type to=give up, Lord ~06~.~02~#059
+;00003F2B{I look forward to seeing=you return from battle=with the monsters,=triumphant!~00~}#082#079
+I look forward to seeing=you return from battle=with the monsters,=triumphant!~00~#079
+;00003F7A{~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears there are=problems here in=~08~/~03~}#103#091
+~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears there are=problems here in=~08~/~03~#091
+;00003FD5{~F1~~AC~.~02~}#013#004
+~F1~~AC~.~02~#004
+;00003FD9{The problems are as=follows... ~01~}#035#032
+The problems are as=follows... ~01~#032
+;00003FF9{There´s not enough=production.~00~}#034#031
+There´s not enough=production.~00~#031
+;00004018{There are obstacles in=the way of development.~00~}#050#047
+There are obstacles in=the way of development.~00~#047
+;00004047{The people are troubled.~00~}#028#025
+The people are troubled.~00~#025
+;00004060{Fields have dried up.~00~}#025#022
+Fields have dried up.~00~#022
+;00004076{There is no space to=build houses.~00~}#038#035
+There is no space to=build houses.~00~#035
+;00004099{The land has been=developed to full=capacity.~00~}#049#046
+The land has been=developed to full=capacity.~00~#046
+;000040C7{That´s all.~00~}#015#012
+That´s all.~00~#012
+;000040D3{~05~It appears that the Angel=Power has lost its effect.~00~}#060#054
+~05~It appears that the Angel=Power has lost its effect.~00~#054
+;00004109{~05~It would seem the fire=has gone out.~02~}#044#038
+~05~It would seem the fire=has gone out.~02~#038
+;0000412F{Those humans are always=only thinking of=themselves, starting a=fire themselves, then=having to come to us for=help in putting it out.~02~}#138#135
+Those humans are always=only thinking of=themselves, starting a=fire themselves, then=having to come to us for=help in putting it out.~02~#135
+;000041B6{But I think the humans´=foolishness is one of=their charming points...=What do you think, Lord=~06~?~00~}#104#098
+But I think the humans´=foolishness is one of=their charming points...=What do you think, Lord=~06~?~00~#098
+;00004218{~05~It looks like the fire has=gone out. Still, that was=a somewhat...forceful way=of solving the problem,=wasn´t it?~02~}#121#115
+~05~It looks like the fire has=gone out. Still, that was=a somewhat...forceful way=of solving the problem,=wasn´t it?~02~#115
+;0000428B{Destroying the settlment=did indeed put out the=fire, but I think there=might have been a better=way to go about doing=it...~00~}#128#125
+Destroying the settlment=did indeed put out the=fire, but I think there=might have been a better=way to go about doing=it...~00~#125
+;00004308{~05~The humans have been=making a fuss about=something ever since=that lightning bolt=struck. Let´s hear what=they have to say.~00~}#131#125
+~05~The humans have been=making a fuss about=something ever since=that lightning bolt=struck. Let´s hear what=they have to say.~00~#125
+;00004385{~05~Oh! Lord ~06~!=A pyramid has appeared=from beneath the sands=of the desert!!~00~}#084#075
+~05~Oh! Lord ~06~!=A pyramid has appeared=from beneath the sands=of the desert!!~00~#075
+;000043D0{~05~Lord ~06~, look!!=Something´s happening to=Bloodpool´s lake!~00~}#068#059
+~05~Lord ~06~, look!!=Something´s happening to=Bloodpool´s lake!~00~#059
+;0000440B{~05~Ah, I see! The Red Devil=Lair must have been where=all the poisonous water=in Bloodpool´s lake was=coming from.~00~}#119#113
+~05~Ah, I see! The Red Devil=Lair must have been where=all the poisonous water=in Bloodpool´s lake was=coming from.~00~#113
+;0000447C{~05~Lord ~06~, look!!=Something´s happening to=the northwest beach!~00~}#071#062
+~05~Lord ~06~, look!!=Something´s happening to=the northwest beach!~00~#062
+;000044BA{~05~Oh! A land bridge to the=northwest island has=formed!!~00~}#062#056
+~05~Oh! A land bridge to the=northwest island has=formed!!~00~#056
+;000044F2{~05~Lord ~06~, I think=that the last Monster=Lair must be on the=northwest island.~02~}#086#077
+~05~Lord ~06~, I think=that the last Monster=Lair must be on the=northwest island.~02~#077
+;0000453F{I wonder if there´s any=way we can connect the=island with the mainland?~00~}#076#073
+I wonder if there´s any=way we can connect the=island with the mainland?~00~#073
+|17800
+@000E8000-000ED8DC-02-00-01
+;00000000{~05~Holy Father eternal!=Since the final Monster=Lair was sealed, a=remarkable thing has been=happening...~02~}#110#104
+~05~Holy Father eternal!=Since the final Monster=Lair was sealed, a=remarkable thing has been=happening...~02~#104
+;00000068{I have been having the=same nightmare again=and again, every night.~02~}#071#068
+I have been having the=same nightmare again=and again, every night.~02~#068
+;000000AC{In my dream, a monster=called Minotauros came out=of the large hole to the=southeast and killed all=the people with a curse...~02~}#130#127
+In my dream, a monster=called Minotauros came out=of the large hole to the=southeast and killed all=the people with a curse...~02~#127
+;0000012B{Maybe it´s because of my=prophetic ability, but I=feel that the monster´s=curse has already started=to affect me,~02~}#117#114
+Maybe it´s because of my=prophetic ability, but I=feel that the monster´s=curse has already started=to affect me,~02~#114
+;0000019D{and is eating away at my=very being.~02~}#040#037
+and is eating away at my=very being.~02~#037
+;000001C2{Father, before disaster=strikes, please descend to=the earth to fight and put=an end to Minotauros once=and for all!!~00~}#121#118
+Father, before disaster=strikes, please descend to=the earth to fight and put=an end to Minotauros once=and for all!!~00~#118
+;00000238{~05~Praise, Holy Father.=The monsters are finally=gone from Fillmore.~02~}#073#067
+~05~Praise, Holy Father.=The monsters are finally=gone from Fillmore.~02~#067
+;0000027B{But my husband was=stricken with the=monster´s curse, and=passed away just a moment=ago.~02~}#092#089
+But my husband was=stricken with the=monster´s curse, and=passed away just a moment=ago.~02~#089
+;000002D4{In his final breath, he=said that he felt that his=prophetic ability had=finally been of use to the=people of Fillmore...~02~}#125#122
+In his final breath, he=said that he felt that his=prophetic ability had=finally been of use to the=people of Fillmore...~02~#122
+;0000034E{In any case, the monsters=are now all gone. From now=on, we can do fine on our=own without you.~02~}#099#096
+In any case, the monsters=are now all gone. From now=on, we can do fine on our=own without you.~02~#096
+;000003AE{Please, go to other areas=and make them as peaceful=as this land of Fillmore.~00~}#081#078
+Please, go to other areas=and make them as peaceful=as this land of Fillmore.~00~#078
+;000003FC{Outside of this temple,=the people are singing=their praises to their=Father.~00~}#081#078
+Outside of this temple,=the people are singing=their praises to their=Father.~00~#078
+;0000044A{~05~Holy Father eternal!=Here in Fillmore, we have=developed a wonderful new=technology!~02~}#092#086
+~05~Holy Father eternal!=Here in Fillmore, we have=developed a wonderful new=technology!~02~#086
+;000004A0{We have learned to build=bridges over rivers. Now=we can build houses on the=other side of the river.~00~}#105#102
+We have learned to build=bridges over rivers. Now=we can build houses on the=other side of the river.~00~#102
+;00000506{~05~Holy Father eternal!=A fire has broken out in=the settlement to the=north! Please, send rain=to put it out!!~00~}#116#110
+~05~Holy Father eternal!=A fire has broken out in=the settlement to the=north! Please, send rain=to put it out!!~00~#110
+;00000574{~05~Holy Father eternal!=We have learned to hunt=animals. Now we have the=ability to fight monsters.~02~}#104#098
+~05~Holy Father eternal!=We have learned to hunt=animals. Now we have the=ability to fight monsters.~02~#098
+;000005D6{Please lead us to the=Monster Lairs.~00~}#040#037
+Please lead us to the=Monster Lairs.~00~#037
+;000005FB{~05~Holy Father, I sense=sacred power from the=large boulder by the=southeast cliff.~02~}#088#082
+~05~Holy Father, I sense=sacred power from the=large boulder by the=southeast cliff.~02~#082
+;0000064D{I suspect there may be=something buried there.~00~}#050#047
+I suspect there may be=something buried there.~00~#047
+;0000067C{~05~Holy Father.=I am here to report to you=that we have discovered a=mysterious gem.~02~}#089#083
+~05~Holy Father.=I am here to report to you=that we have discovered a=mysterious gem.~02~#083
+;000006CF{We humbly present this gem=to you as an offering, so=please accept it.~00~}#074#071
+We humbly present this gem=to you as an offering, so=please accept it.~00~#071
+;00000716{~05~Holy Father, hear our=prayer...~02~}#039#033
+~05~Holy Father, hear our=prayer...~02~#033
+;00000737{I am here to report to you=that we have discovered a=scroll in the eastern=forest.~02~}#086#083
+I am here to report to you=that we have discovered a=scroll in the eastern=forest.~02~#083
+;0000078A{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;000007CB{~05~Father!=I have been feeling very=strange lately.~02~}#056#050
+~05~Father!=I have been feeling very=strange lately.~02~#050
+;000007FD{I have been seeing strange=visions in my mind that=quite frequently turn out=to come true in the=future.~02~}#108#105
+I have been seeing strange=visions in my mind that=quite frequently turn out=to come true in the=future.~02~#105
+;00000866{If this is truly some sort=of power and not just a=coincidence, then I sense=some sort of holy power=from the eastern forest...~00~}#131#128
+If this is truly some sort=of power and not just a=coincidence, then I sense=some sort of holy power=from the eastern forest...~00~#128
+;000008E6{~05~Holy Father eternal!=We have started deep-sea=fishing here in Fillmore.~02~}#079#073
+~05~Holy Father eternal!=We have started deep-sea=fishing here in Fillmore.~02~#073
+;0000092F{In the far-off oceans,=fish are not the only=thing we catch. Sometimes=we discover unusual=artifacts.~02~}#105#102
+In the far-off oceans,=fish are not the only=thing we catch. Sometimes=we discover unusual=artifacts.~02~#102
+;00000995{If we find anything of=note, I will report to=you.~00~}#054#051
+If we find anything of=note, I will report to=you.~00~#051
+;000009C8{~05~Holy Father eternal!=We have discovered a=mysterious gem while=deep-sea fishing.~02~}#088#082
+~05~Holy Father eternal!=We have discovered a=mysterious gem while=deep-sea fishing.~02~#082
+;00000A1A{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00000A5B{~05~Holy Father eternal!=I am here to report to you=that we have discovered=one of your magic spells=nearby the southeast=cliff.~02~}#132#126
+~05~Holy Father eternal!=I am here to report to you=that we have discovered=one of your magic spells=nearby the southeast=cliff.~02~#126
+;00000AD9{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00000B1A{~05~Holy Father eternal!=Here in Fillmore, we have=started fishing.~02~}#071#065
+~05~Holy Father eternal!=Here in Fillmore, we have=started fishing.~02~#065
+;00000B5B{The other day, while=repairing his ship on the=shore, a fisherman found=a scroll.~02~}#085#082
+The other day, while=repairing his ship on the=shore, a fisherman found=a scroll.~02~#082
+;00000BAD{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00000BEE{~05~Holy Father eternal!=I am here to report to you=that we have discovered a=sculpture in the shape of=a skeleton.~02~}#119#113
+~05~Holy Father eternal!=I am here to report to you=that we have discovered a=sculpture in the shape of=a skeleton.~02~#113
+;00000C5F{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00000CA0{~05~Holy Father...=Here in Fillmore, there is=a lot of dense foliage=about the landscape,=making it extremely=difficult to build houses.~02~}#140#134
+~05~Holy Father...=Here in Fillmore, there is=a lot of dense foliage=about the landscape,=making it extremely=difficult to build houses.~02~#134
+;00000D26{Please use your lightning=to burn down the trees,=and direct us where you=would like us to build.~00~}#101#098
+Please use your lightning=to burn down the trees,=and direct us where you=would like us to build.~00~#098
+;00000D88{~05~Holy Father eternal!=I am here to report to you=that we have discovered a=mysterious sculpture.~02~}#103#097
+~05~Holy Father eternal!=I am here to report to you=that we have discovered a=mysterious sculpture.~02~#097
+;00000DE9{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00000E2A{~05~Holy Father...=I am here to report to you=that we have found a=mysterious bow and arrow.~02~}#096#090
+~05~Holy Father...=I am here to report to you=that we have found a=mysterious bow and arrow.~02~#090
+;00000E84{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00000EC5{~05~Holy Father...=Something terrible has=happened since we sealed=the last Monster Lair.~02~}#093#087
+~05~Holy Father...=Something terrible has=happened since we sealed=the last Monster Lair.~02~#087
+;00000F1C{Monsters appeared from the=lone castle sitting=alongside the lake,=demanding human sacrifices=from us!~02~}#106#103
+Monsters appeared from the=lone castle sitting=alongside the lake,=demanding human sacrifices=from us!~02~#103
+;00000F83{After much hard thought,=we decided to pick three=sacrifices by drawing=lots, and my son, Teddy,=was one of those who was=picked...~02~}#135#132
+After much hard thought,=we decided to pick three=sacrifices by drawing=lots, and my son, Teddy,=was one of those who was=picked...~02~#132
+;00001007{Father, I beg of you!=Please head to battle with=the monsters in the=castle!~02~}#080#077
+Father, I beg of you!=Please head to battle with=the monsters in the=castle!~02~#077
+;00001054{Please rescue our son,=and all of Bloodpool!~00~}#048#045
+Please rescue our son,=and all of Bloodpool!~00~#045
+;00001081{~05~Holy Father...=Thanks to you, the=monsters are now=completely gone from=Bloodpool.~02~}#090#084
+~05~Holy Father...=Thanks to you, the=monsters are now=completely gone from=Bloodpool.~02~#084
+;000010D5{My son Teddy was rather=brash. While at the castle=as a sacrifice, searched=around and found a scroll.~02~}#106#103
+My son Teddy was rather=brash. While at the castle=as a sacrifice, searched=around and found a scroll.~02~#103
+;0000113C{We humbly present it to=you as an offering, so=please accept it.~02~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~02~#065
+;0000117D{We no longer need you=watching over us, and can=do fine on our own.~02~}#071#068
+We no longer need you=watching over us, and can=do fine on our own.~02~#068
+;000011C1{Please, go to other areas=and make them as peaceful=as this land of Bloodpool.~00~}#082#079
+Please, go to other areas=and make them as peaceful=as this land of Bloodpool.~00~#079
+;00001210{~05~Holy Father...=I believe you already know=that there are many rivers=here in Bloodpool.~02~}#095#089
+~05~Holy Father...=I believe you already know=that there are many rivers=here in Bloodpool.~02~#089
+;00001269{We would like to build=houses on the other side=of the river, but we lack=the technology to build=bridges.~02~}#110#107
+We would like to build=houses on the other side=of the river, but we lack=the technology to build=bridges.~02~#107
+;000012D4{Please, teach us how to=build them!~00~}#039#036
+Please, teach us how to=build them!~00~#036
+;000012F8{~05~Holy Father...=Here in Bloodpool, we have=started fishing in the=lake.~02~}#078#072
+~05~Holy Father...=Here in Bloodpool, we have=started fishing in the=lake.~02~#072
+;00001340{The other day, we found=one of your magic spells=caught up in our nets.~02~}#075#072
+The other day, we found=one of your magic spells=caught up in our nets.~02~#072
+;00001388{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;000013C9{~05~Holy Father...=We have built a road to=Fillmore, the neighboring=town.~02~}#078#072
+~05~Holy Father...=We have built a road to=Fillmore, the neighboring=town.~02~#072
+;00001411{We intend to teach the=people of Fillmore how=to cultivate rice.~00~}#068#065
+We intend to teach the=people of Fillmore how=to cultivate rice.~00~#065
+;00001452{~05~Holy Father...=Here in Bloodpool, we have=learned to raise and=cultivate a crop called=rice.~02~}#100#094
+~05~Holy Father...=Here in Bloodpool, we have=learned to raise and=cultivate a crop called=rice.~02~#094
+;000014B0{Please share this=technology with other=areas that do not know=how to grow it yet.~00~}#086#083
+Please share this=technology with other=areas that do not know=how to grow it yet.~00~#083
+;00001503{~05~Holy Father...=My son Teddy has run away=from home!~02~}#059#053
+~05~Holy Father...=My son Teddy has run away=from home!~02~#053
+;00001538{Everyone has searched all=over for him, but in the=end nobody was able to=find him anywhere.~02~}#096#093
+Everyone has searched all=over for him, but in the=end nobody was able to=find him anywhere.~02~#093
+;00001595{I am sure that wherever he=is, he must be hungry. I=have some bread here.=Father, wherever he is,=please bring this bread=to him.~00~}#133#130
+I am sure that wherever he=is, he must be hungry. I=have some bread here.=Father, wherever he is,=please bring this bread=to him.~00~#130
+;00001617{~05~Holy Father eternal!=Teddy has come home!!=After eating my homecooked=bread, he started to feel=homesick and came back.~02~}#127#121
+~05~Holy Father eternal!=Teddy has come home!!=After eating my homecooked=bread, he started to feel=homesick and came back.~02~#121
+;00001690{It turns out that he did=not run away from home,=but was trying to discover=why the lake is red and=poisonous.~02~}#114#111
+It turns out that he did=not run away from home,=but was trying to discover=why the lake is red and=poisonous.~02~#111
+;000016FF{I always thought of him as=a child, but all of a=sudden he´s grown up...=It was quite a surprise.~02~}#101#098
+I always thought of him as=a child, but all of a=sudden he´s grown up...=It was quite a surprise.~02~#098
+;00001761{According to Teddy, the=poison in the water is=coming from the Monster=Lair next to the lake.~02~}#097#094
+According to Teddy, the=poison in the water is=coming from the Monster=Lair next to the lake.~02~#094
+;000017BF{We offer to you this=bleached skull that he=found in the cave.=Please take it.~00~}#082#079
+We offer to you this=bleached skull that he=found in the cave.=Please take it.~00~#079
+;0000180E{~05~Holy Father...=It is a shameful state of=affairs that this should=be a problem, but you=should know what is going=on.~02~}#125#119
+~05~Holy Father...=It is a shameful state of=affairs that this should=be a problem, but you=should know what is going=on.~02~#119
+;00001885{The people here have=become uncivilized and=savage, and Bloodpool has=become a place of endless=conflict and strife.~02~}#120#117
+The people here have=become uncivilized and=savage, and Bloodpool has=become a place of endless=conflict and strife.~02~#117
+;000018FA{I pushed the people of the=town so hard to develop=the city further without=any care for their own=situations that I drove=them over the edge...~02~}#148#145
+I pushed the people of the=town so hard to develop=the city further without=any care for their own=situations that I drove=them over the edge...~02~#145
+;0000198B{Father, do you have any=sort of wonderful miracle=that can calm their=troubled souls?~00~}#089#086
+Father, do you have any=sort of wonderful miracle=that can calm their=troubled souls?~00~#086
+;000019E1{~05~Holy Father eternal!=Our fishing industry here=in Bloodpool has proceeded=into the deep seas.~02~}#101#095
+~05~Holy Father eternal!=Our fishing industry here=in Bloodpool has proceeded=into the deep seas.~02~#095
+;00001A40{Because one man here=developed a device called=a compass, we can now=navigate the oceans.~02~}#093#090
+Because one man here=developed a device called=a compass, we can now=navigate the oceans.~02~#090
+;00001A9A{We humbly present this=device to you as an=offering, so please accept=it.~00~}#077#074
+We humbly present this=device to you as an=offering, so please accept=it.~00~#074
+;00001AE4{~05~Holy Father eternal!=We are somewhat troubled=right now.~02~}#064#058
+~05~Holy Father eternal!=We are somewhat troubled=right now.~02~#058
+;00001B1E{Our problem is with our=eldest son, Teddy.~02~}#046#043
+Our problem is with our=eldest son, Teddy.~02~#043
+;00001B49{Actually...~02~}#015#012
+Actually...~02~#012
+;00001B55{He´s a bit too boisterous,=and because of that, he is=causing a fair number of=problems.~02~}#092#089
+He´s a bit too boisterous,=and because of that, he is=causing a fair number of=problems.~02~#089
+;00001BAE{I... never mind, trifles=such as these should not=be of your concern.=I apologize for bothering=you.~00~}#104#101
+I... never mind, trifles=such as these should not=be of your concern.=I apologize for bothering=you.~00~#101
+;00001C13{~05~Holy Father...=Here in Bloodpool, there=are many swampy areas=unfit for building houses.~02~}#096#090
+~05~Holy Father...=Here in Bloodpool, there=are many swampy areas=unfit for building houses.~02~#090
+;00001C6D{Please use the power of=the sun to dry up the=swampy areas so that we=can expand.~00~}#085#082
+Please use the power of=the sun to dry up the=swampy areas so that we=can expand.~00~#082
+;00001CBF{~05~Holy Father...=The recent downpour has=flooded the lake.~02~}#064#058
+~05~Holy Father...=The recent downpour has=flooded the lake.~02~#058
+;00001CF9{After the waters receded,=we discovered a mysterious=gem on the shores of the=lake. Please accept it as=an offering.~00~}#120#117
+After the waters receded,=we discovered a mysterious=gem on the shores of the=lake. Please accept it as=an offering.~00~#117
+;00001D6E{~05~Holy Father...=We discovered a mysterious=sculpture when we sealed=the Monster Lair.~02~}#092#086
+~05~Holy Father...=We discovered a mysterious=sculpture when we sealed=the Monster Lair.~02~#086
+;00001DC4{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00001E05{~05~Holy Father...=When we sealed the Monster=Lair, Teddy searched=through it and discovered=a bow and arrow.~02~}#113#107
+~05~Holy Father...=When we sealed the Monster=Lair, Teddy searched=through it and discovered=a bow and arrow.~02~#107
+;00001E70{He is quite skilled at=finding strange and=unusual things.~02~}#062#059
+He is quite skilled at=finding strange and=unusual things.~02~#059
+;00001EAB{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00001EEC{~05~That pyramid was=bewitching us.~02~}#039#033
+~05~That pyramid was=bewitching us.~02~#033
+;00001F0D{We went to investigate it=several times, but nobody=who ever actually went=inside ever returned.~02~}#100#097
+We went to investigate it=several times, but nobody=who ever actually went=inside ever returned.~02~#097
+;00001F6E{Once the final Monster=Lair was sealed, the=pyramid showed its true=colors... it is a den of=monsters!~02~}#106#103
+Once the final Monster=Lair was sealed, the=pyramid showed its true=colors... it is a den of=monsters!~02~#103
+;00001FD5{Father, please descend to=earth and seal off that=evil pyramid!~00~}#067#064
+Father, please descend to=earth and seal off that=evil pyramid!~00~#064
+;00002015{~05~Holy Father...=Thanks to you, the evil=pyramid has been sealed=off forever.~02~}#083#077
+~05~Holy Father...=Thanks to you, the evil=pyramid has been sealed=off forever.~02~#077
+;00002062{Now that I think about it,=I wouldn´t be surprised=if the man that died after=wandering off into the=desert was drawn by the=power of the pyramid...~02~}#152#149
+Now that I think about it,=I wouldn´t be surprised=if the man that died after=wandering off into the=desert was drawn by the=power of the pyramid...~02~#149
+;000020F7{We no longer need you=watching over us, and can=do fine on our own.~02~}#071#068
+We no longer need you=watching over us, and can=do fine on our own.~02~#068
+;0000213B{Please, go to other areas=and make them as peaceful=as this land of Cassandra.~00~}#082#079
+Please, go to other areas=and make them as peaceful=as this land of Cassandra.~00~#079
+;0000218A{~05~Holy Father...=One of us has wandered=into the huge desert and=gotten lost. Please lead=us to him!~00~}#106#100
+~05~Holy Father...=One of us has wandered=into the huge desert and=gotten lost. Please lead=us to him!~00~#100
+;000021EE{~05~Holy Father...=Thank you very much for=leading us to our friend.~02~}#072#066
+~05~Holy Father...=Thank you very much for=leading us to our friend.~02~#066
+;00002230{However when we reached=the missing man, he was=already dead. We are=thinking of burying him=near your temple.~02~}#114#111
+However when we reached=the missing man, he was=already dead. We are=thinking of burying him=near your temple.~02~#111
+;0000229F{Also, the dead man was=clutching a mysterious=scroll in his hand when=we found him.~02~}#087#084
+Also, the dead man was=clutching a mysterious=scroll in his hand when=we found him.~02~#084
+;000022F3{Father, we present this=scroll to you.~00~}#042#039
+Father, we present this=scroll to you.~00~#039
+;0000231A{~05~Holy Father...=Here in Cassandra, we have=developed a wonderful=technology.~02~}#083#077
+~05~Holy Father...=Here in Cassandra, we have=developed a wonderful=technology.~02~#077
+;00002367{It is called "music,~2B~ and=I invented it the other=day in memory of the man=who so sadly died in the=desert.~02~}#114#108
+It is called "music,~2B~ and=I invented it the other=day in memory of the man=who so sadly died in the=desert.~02~#108
+;000023D3{Music is a mysterious=thing, and when you listen=to it, it calms your heart=no matter what the=situation.~02~}#109#106
+Music is a mysterious=thing, and when you listen=to it, it calms your heart=no matter what the=situation.~02~#106
+;0000243D{Father, we offer this=music to you as this=year´s offering.~00~}#063#060
+Father, we offer this=music to you as this=year´s offering.~00~#060
+;00002479{~00~}#004#001
+~00~#001
+;0000247A{~05~Holy Father...=I am here to report that=we have discovered a=scroll at the foot of the=mountain to the south.~02~}#117#111
+~05~Holy Father...=I am here to report that=we have discovered a=scroll at the foot of the=mountain to the south.~02~#111
+;000024E9{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;0000252A{~05~There was a great rain in=the northern desert, and=when the sand was washed=away there was a giant=pyramid beneath it.~02~}#126#120
+~05~There was a great rain in=the northern desert, and=when the sand was washed=away there was a giant=pyramid beneath it.~02~#120
+;000025A2{We sense an evil presence=from within that pyramid.=In the near future we plan=to investigate it, and=will report to you=anything that we find.~00~}#147#144
+We sense an evil presence=from within that pyramid.=In the near future we plan=to investigate it, and=will report to you=anything that we find.~00~#144
+;00002632{~05~We have discovered an=ancient tablet beneath a=rock at the geoglyph.~02~}#076#070
+~05~We have discovered an=ancient tablet beneath a=rock at the geoglyph.~02~#070
+;00002678{It seems to talk of an=island in a far off place=that is in the same shape=of the geoglyph.~02~}#095#092
+It seems to talk of an=island in a far off place=that is in the same shape=of the geoglyph.~02~#092
+;000026D4{We present this tablet to=you as an offering, so=please accept it.~00~}#070#067
+We present this tablet to=you as an offering, so=please accept it.~00~#067
+;00002717{~05~Ruins have an enticing=mystique to them.=One by one, our friends=became obsessed with the=pyramid.~02~}#106#100
+~05~Ruins have an enticing=mystique to them.=One by one, our friends=became obsessed with the=pyramid.~02~#100
+;0000277B{That by itself wouldn´t be=a problem, but there´s=something really strange=about that pyramid.~02~}#098#095
+That by itself wouldn´t be=a problem, but there´s=something really strange=about that pyramid.~02~#095
+;000027DA{Not a single person who=went to investigate it has=returned.~00~}#064#061
+Not a single person who=went to investigate it has=returned.~00~#061
+;00002817{~05~Holy Father...=We are stricken with a=terrible plague, and=people are dying left=and right!~02~}#099#093
+~05~Holy Father...=We are stricken with a=terrible plague, and=people are dying left=and right!~02~#093
+;00002874{First the disease ravages=the body and creates=terrible suffering before=killing the host.~02~}#094#091
+First the disease ravages=the body and creates=terrible suffering before=killing the host.~02~#091
+;000028CF{It is as the lives of the=people are being snuffed=out as easily as candles.~02~}#080#077
+It is as the lives of the=people are being snuffed=out as easily as candles.~02~#077
+;0000291C{Please, give us some=medicine! Free us from=this torment and give us=peace!~00~}#079#076
+Please, give us some=medicine! Free us from=this torment and give us=peace!~00~#076
+;00002968{~05~Holy Father...=The land of Cassandra is=in a region of great=desert.~02~}#076#070
+~05~Holy Father...=The land of Cassandra is=in a region of great=desert.~02~#070
+;000029AE{Please summon storms where=you want us to develop,=to turn the pallid desert=green and full of life.~00~}#104#101
+Please summon storms where=you want us to develop,=to turn the pallid desert=green and full of life.~00~#101
+;00002A13{~05~Here in ~08~/~03~~F1~~AC~,=we are developing=steadily.~02~}#062#044
+~05~Here in ~08~/~03~~F1~~AC~,=we are developing=steadily.~02~#044
+;00002A3F{It is thanks to you that=we can work in peace.~00~}#050#047
+It is thanks to you that=we can work in peace.~00~#047
+;00002A6E{~05~Holy Father... Part of the=outer wall of the pyramid=collapsed with that recent=earthquake.~02~}#099#093
+~05~Holy Father... Part of the=outer wall of the pyramid=collapsed with that recent=earthquake.~02~#093
+;00002ACB{When we searched the=rubble, we found a=mysterious gem.=Please accept it as an=offering.~00~}#092#089
+When we searched the=rubble, we found a=mysterious gem.=Please accept it as an=offering.~00~#089
+;00002B24{~05~Father, please save us!~02~}#031#025
+~05~Father, please save us!~02~#025
+;00002B3D{The dormant volcano has=come to life and erupted,=and the sounds of monsters=moving echoes throughout=the valley...~02~}#119#116
+The dormant volcano has=come to life and erupted,=and the sounds of monsters=moving echoes throughout=the valley...~02~#116
+;00002BB1{Aitos does not stand a=chance between an erupting=volcano and an invasion of=monsters.~02~}#090#087
+Aitos does not stand a=chance between an erupting=volcano and an invasion of=monsters.~02~#087
+;00002C08{Please, descend to earth=and fight, for the sake=of the people who risked=their lives sealing the=Monster Lairs!~00~}#116#113
+Please, descend to earth=and fight, for the sake=of the people who risked=their lives sealing the=Monster Lairs!~00~#113
+;00002C79{~05~Holy Father eternal!=No longer do monsters=plague the land of Aitos.~02~}#076#070
+~05~Holy Father eternal!=No longer do monsters=plague the land of Aitos.~02~#070
+;00002CBF{We no longer need you=watching over us, and can=do fine on our own.~02~}#071#068
+We no longer need you=watching over us, and can=do fine on our own.~02~#068
+;00002D03{Please, go to other areas=and make them as peaceful=as this land of Aitos.~00~}#078#075
+Please, go to other areas=and make them as peaceful=as this land of Aitos.~00~#075
+;00002D4E{~05~Father!=My husband went to seal=the Monster Lair, even=though he was already=injured heavily!~02~}#101#095
+~05~Father!=My husband went to seal=the Monster Lair, even=though he was already=injured heavily!~02~#095
+;00002DAD{The Lair was sealed=successfully, but at a=price, as my husband was=mortally wounded in the=battle.~02~}#103#100
+The Lair was sealed=successfully, but at a=price, as my husband was=mortally wounded in the=battle.~02~#100
+;00002E11{With his last ounce of=strength, he is standing=in front of your temple.~02~}#076#073
+With his last ounce of=strength, he is standing=in front of your temple.~02~#073
+;00002E5A{The last words he said to=me were "At the end, I=want to rest while being=washed in our Father´s=tears...~2B~~02~}#113#107
+The last words he said to=me were "At the end, I=want to rest while being=washed in our Father´s=tears...~2B~~02~#107
+;00002EC5{Please summon rain upon=him and grant his wish.~00~}#051#048
+Please summon rain upon=him and grant his wish.~00~#048
+;00002EF5{~05~Holy Father eternal!=My husband was wounded=badly while sealing the=monster lair.~02~}#089#083
+~05~Holy Father eternal!=My husband was wounded=badly while sealing the=monster lair.~02~#083
+;00002F48{Until he gets better,=I will direct the=development of Aitos by=myself.~00~}#075#072
+Until he gets better,=I will direct the=development of Aitos by=myself.~00~#072
+;00002F90{~05~Holy Father eternal!=Here in Aitos, we have=developed the technology=of mountain-climbing.~02~}#098#092
+~05~Holy Father eternal!=Here in Aitos, we have=developed the technology=of mountain-climbing.~02~#092
+;00002FEC{Sometimes we find things=that we´ve never seen=before on the tops of=mountains.~02~}#083#080
+Sometimes we find things=that we´ve never seen=before on the tops of=mountains.~02~#080
+;0000303C{If we find anything=especially unusual, we=will report it to you=immediately.~00~}#081#078
+If we find anything=especially unusual, we=will report it to you=immediately.~00~#078
+;0000308A{~05~Holy Father eternal!=I am here to report to=you that we discovered a=scroll on the mountain to=the northeast.~00~}#117#111
+~05~Holy Father eternal!=I am here to report to=you that we discovered a=scroll on the mountain to=the northeast.~00~#111
+;000030F9{~05~Holy Father eternal!=The wind has died down,=and our windmills do not=operate as we would like.~02~}#103#097
+~05~Holy Father eternal!=The wind has died down,=and our windmills do not=operate as we would like.~02~#097
+;0000315A{Could you send the wind=to get them working again?~00~}#054#051
+Could you send the wind=to get them working again?~00~#051
+;0000318D{~05~Holy Father eternal!=This year, some people=have started to raise=horses in the pastures.~00~}#097#091
+~05~Holy Father eternal!=This year, some people=have started to raise=horses in the pastures.~00~#091
+;000031E8{~05~Father, we have learned to=create clothes from=sheepskins.~02~}#066#060
+~05~Father, we have learned to=create clothes from=sheepskins.~02~#060
+;00003224{These sheepskins are very=warm, and are very useful=in a cold, high-altitude=area like Aitos.~02~}#097#094
+These sheepskins are very=warm, and are very useful=in a cold, high-altitude=area like Aitos.~02~#094
+;00003282{This year, we would like=to present these=sheepskins to you as an=offering.~00~}#079#076
+This year, we would like=to present these=sheepskins to you as an=offering.~00~#076
+;000032CE{~05~My husband just died.=As he was not rained upon,=he must somehow not have=been loyal enough to=you....~02~}#110#104
+~05~My husband just died.=As he was not rained upon,=he must somehow not have=been loyal enough to=you....~02~#104
+;00003336{At least, that´s what he=muttered just as he=died...~00~}#056#053
+At least, that´s what he=muttered just as he=died...~00~#053
+;0000336B{~05~My husband looked happy=and at peace, being=enveloped in the tears of=the Father....~02~}#092#086
+~05~My husband looked happy=and at peace, being=enveloped in the tears of=the Father....~02~#086
+;000033C1{Father, thank you for=respecting his wishes.~00~}#048#045
+Father, thank you for=respecting his wishes.~00~#045
+;000033EE{~05~Holy Father...=This land of Aitos is a=high plateau, filled with=badlands and boulders.~02~}#095#089
+~05~Holy Father...=This land of Aitos is a=high plateau, filled with=badlands and boulders.~02~#089
+;00003447{Please destroy the=boulders and rock=formations with your=lightning, so that the=people can build houses.~00~}#109#106
+Please destroy the=boulders and rock=formations with your=lightning, so that the=people can build houses.~00~#106
+;000034B1{~05~Holy Father...=I am here to report to=you that we have found=one of your magic spells.~02~}#094#088
+~05~Holy Father...=I am here to report to=you that we have found=one of your magic spells.~02~#088
+;00003509{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;0000354A{~05~.......~02~}#015#009
+~05~.......~02~#009
+;00003553{Lord ~06~, nobody is=here...~02~}#032#026
+Lord ~06~, nobody is=here...~02~#026
+;0000356D{Could it be that even=those two have been lost=to the wiles of that evil=religion?~02~}#086#083
+Could it be that even=those two have been lost=to the wiles of that evil=religion?~02~#083
+;000035C0{Lord ~06~, it looks=like the only way to solve=this problem is for you to=fight at that temple=yourself....~00~}#111#105
+Lord ~06~, it looks=like the only way to solve=this problem is for you to=fight at that temple=yourself....~00~#105
+;00003629{~05~Building a settlement in=Marana was very hard on=all of us.~02~}#067#061
+~05~Building a settlement in=Marana was very hard on=all of us.~02~#061
+;00003666{No matter how many times=we built new houses, they=would only be destroyed=and their occupants killed=by the monsters.~02~}#122#119
+No matter how many times=we built new houses, they=would only be destroyed=and their occupants killed=by the monsters.~02~#119
+;000036DD{While trying to figure out=what to do about the=problem, a priest came and=suggested that if we=become servants to=the monsters.~02~}#132#129
+While trying to figure out=what to do about the=problem, a priest came and=suggested that if we=become servants to=the monsters.~02~#129
+;0000375E{Not only would they stop=killing us, but we could=live a peaceful, enjoyable=life. And we were fooled.~02~}#106#103
+Not only would they stop=killing us, but we could=live a peaceful, enjoyable=life. And we were fooled.~02~#103
+;000037C5{I fully understand just=how weak humankind is=through this experience,=and think that I´ve become=a better person as a=result.~02~}#130#127
+I fully understand just=how weak humankind is=through this experience,=and think that I´ve become=a better person as a=result.~02~#127
+;00003844{From now on, we will never=dare to oppose you.~02~}#050#047
+From now on, we will never=dare to oppose you.~02~#047
+;00003873{We no longer need you=watching over us, and can=do fine on our own.~02~}#071#068
+We no longer need you=watching over us, and can=do fine on our own.~02~#068
+;000038B7{Please, go to other areas=and make them as peaceful=as this land of Marana.~00~}#079#076
+Please, go to other areas=and make them as peaceful=as this land of Marana.~00~#076
+;00003903{~05~Holy Father...=Being a jungle, Marana has=lots of disease carriers.~02~}#075#069
+~05~Holy Father...=Being a jungle, Marana has=lots of disease carriers.~02~#069
+;00003948{As a result there are lots=of plagues here, so having=a good stock of medicine=is essential for survival.~02~}#109#106
+As a result there are lots=of plagues here, so having=a good stock of medicine=is essential for survival.~02~#106
+;000039B2{This year, we offer to you=some of this medicine as=an offering.~02~}#068#065
+This year, we offer to you=some of this medicine as=an offering.~02~#065
+;000039F3{If there is any other land=far away that is suffering=from plague, please use=this medicine to help the=people there.~00~}#121#118
+If there is any other land=far away that is suffering=from plague, please use=this medicine to help the=people there.~00~#118
+;00003A69{~05~An ever-increasing number=of people have started to=oppose you, ~06~, the=eternal Father.~02~}#097#088
+~05~An ever-increasing number=of people have started to=oppose you, ~06~, the=eternal Father.~02~#088
+;00003AC1{It seems that the nearby=temple is what is causing=people to turn against=you.~02~}#082#079
+It seems that the nearby=temple is what is causing=people to turn against=you.~02~#079
+;00003B10{This is our problem, so we=will solve it ourselves,=but I thought I should=report it to you=nonetheless.~00~}#108#105
+This is our problem, so we=will solve it ourselves,=but I thought I should=report it to you=nonetheless.~00~#105
+;00003B79{~05~Holy Father...=We found an ancient tablet=that fell from the sky.~02~}#073#067
+~05~Holy Father...=We found an ancient tablet=that fell from the sky.~02~#067
+;00003BBC{As the tablet directs, we=will investigate the=nearby bird-shaped island.~00~}#077#074
+As the tablet directs, we=will investigate the=nearby bird-shaped island.~00~#074
+;00003C06{~05~Holy Father...=Unfortunately we were not=able to discover anything=of note from the northeast=island.~02~}#109#103
+~05~Holy Father...=Unfortunately we were not=able to discover anything=of note from the northeast=island.~02~#103
+;00003C6D{We suspect there´s=something there, but there=are so many trees and=thick undergrowth there=that we can´t search=easily.~02~}#124#121
+We suspect there´s=something there, but there=are so many trees and=thick undergrowth there=that we can´t search=easily.~02~#121
+;00003CE6{But we will not give up.=We will keep going back=there until we discover=something.~00~}#087#084
+But we will not give up.=We will keep going back=there until we discover=something.~00~#084
+;00003D3A{~05~Holy Father...=We discovered one of your=magic spells from the=northeast island.~02~}#088#082
+~05~Holy Father...=We discovered one of your=magic spells from the=northeast island.~02~#082
+;00003D8C{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00003DCD{~05~Holy Father...=A temple has been built at=one of the edges of=Marana.~02~}#077#071
+~05~Holy Father...=A temple has been built at=one of the edges of=Marana.~02~#071
+;00003E14{The people say that they=have built it to worship=you, but there´s something=strange about it.~02~}#098#095
+The people say that they=have built it to worship=you, but there´s something=strange about it.~02~#095
+;00003E73{Unlike all the other=buildings, the monsters=won´t attack the temple.~02~}#073#070
+Unlike all the other=buildings, the monsters=won´t attack the temple.~02~#070
+;00003EB9{I have a bad feeling about=it, but it may just be my=imagination.~00~}#069#066
+I have a bad feeling about=it, but it may just be my=imagination.~00~#066
+;00003EFB{~05~Holy Father...=We want to proceed to the=northwest island and=expand the town.~02~}#086#080
+~05~Holy Father...=We want to proceed to the=northwest island and=expand the town.~02~#080
+;00003F4B{Is there any way you could=create a land bridge over=the channel to it?~00~}#075#072
+Is there any way you could=create a land bridge over=the channel to it?~00~#072
+;00003F93{~05~Holy Father eternal!=While out deep-sea=fishing, some fishermen=discovered a scroll.~02~}#092#086
+~05~Holy Father eternal!=While out deep-sea=fishing, some fishermen=discovered a scroll.~02~#086
+;00003FE9{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;0000402A{~05~Holy Father eternal!=We have started deep-sea=fishing here in Marana.~02~}#077#071
+~05~Holy Father eternal!=We have started deep-sea=fishing here in Marana.~02~#071
+;00004071{In the far-off oceans,=fish are not the only=thing we catch. Sometimes=we discover unusual=artifacts.~02~}#105#102
+In the far-off oceans,=fish are not the only=thing we catch. Sometimes=we discover unusual=artifacts.~02~#102
+;000040D7{If we find anything of=note, I will report to=you.~00~}#054#051
+If we find anything of=note, I will report to=you.~00~#051
+;0000410A{~05~Holy Father...=The island of Marana is=surrounded by forests,=and is very confined as a=result.~02~}#103#097
+~05~Holy Father...=The island of Marana is=surrounded by forests,=and is very confined as a=result.~02~#097
+;0000416B{Is there anything you=could do to get rid of=the forests so we can=build?~00~}#077#074
+Is there anything you=could do to get rid of=the forests so we can=build?~00~#074
+;000041B5{~05~Holy Father...=Just a little earlier, an=ancient tablet fell from=the skies.~00~}#084#078
+~05~Holy Father...=Just a little earlier, an=ancient tablet fell from=the skies.~00~#078
+;00004203{~05~Holy Father...=I am here to report to you=that we have discovered a=mysterious staff.~02~}#093#087
+~05~Holy Father...=I am here to report to you=that we have discovered a=mysterious staff.~02~#087
+;0000425A{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;0000429B{~05~Holy Father...=Monsters have appeared in=the giant tree, the symbol=of Northwall!~02~}#089#083
+~05~Holy Father...=Monsters have appeared in=the giant tree, the symbol=of Northwall!~02~#083
+;000042EE{When we look at that tree,=we are struck with a=feeling of awe and=nostalgia that we can´t=effectively put into=words.~02~}#122#119
+When we look at that tree,=we are struck with a=feeling of awe and=nostalgia that we can´t=effectively put into=words.~02~#119
+;00004365{Father, please protect our=tree! Descend to earth=and fight the monsters=attacking it!~00~}#090#087
+Father, please protect our=tree! Descend to earth=and fight the monsters=attacking it!~00~#087
+;000043BC{~05~Holy Father...=Northwall has been freed=from the shadow of the=monsters!!~02~}#081#075
+~05~Holy Father...=Northwall has been freed=from the shadow of the=monsters!!~02~#075
+;00004407{We can handle things on=our own now. Thank you=very much for everything.~00~}#076#073
+We can handle things on=our own now. Thank you=very much for everything.~00~#073
+;00004450{~05~Holy Father...=Here in Northwall, we have=learned to build bridges.~02~}#075#069
+~05~Holy Father...=Here in Northwall, we have=learned to build bridges.~02~#069
+;00004495{Now we can build houses=on the other side of the=river.~00~}#059#056
+Now we can build houses=on the other side of the=river.~00~#056
+;000044CD{~05~Holy Father...=The lake has finally=showed itself from under=the thick sheet of ice=that was covering it=before.~02~}#120#114
+~05~Holy Father...=The lake has finally=showed itself from under=the thick sheet of ice=that was covering it=before.~02~#114
+;0000453F{Now we can start fishing=here in Northwall.~02~}#047#044
+Now we can start fishing=here in Northwall.~02~#044
+;0000456B{Father, now even this=far-off and harsh=environment has become=habitable.~00~}#077#074
+Father, now even this=far-off and harsh=environment has become=habitable.~00~#074
+;000045B5{~05~The temperature here is=terribly frigid, such that=normal clothes are not=enough to keep us warm.~02~}#105#099
+~05~The temperature here is=terribly frigid, such that=normal clothes are not=enough to keep us warm.~02~#099
+;00004618{Father, can you give us=any raw materials that=we can use to make warm=clothes out of?~00~}#090#087
+Father, can you give us=any raw materials that=we can use to make warm=clothes out of?~00~#087
+;0000466F{~05~Holy Father...=Did you know about the=huge tree to the=northeast?~02~}#073#067
+~05~Holy Father...=Did you know about the=huge tree to the=northeast?~02~#067
+;000046B2{The other day, the two of=us went to the foot of=that tree, and found=something interesting.~02~}#096#093
+The other day, the two of=us went to the foot of=that tree, and found=something interesting.~02~#093
+;0000470F{There were two sets of=intials carved into the=trunk.~02~}#057#054
+There were two sets of=intials carved into the=trunk.~02~#054
+;00004745{This is surely evidence=that people lived in this=area several thousand=years ago.~02~}#086#083
+This is surely evidence=that people lived in this=area several thousand=years ago.~02~#083
+;00004798{Also, at the same time, we=discovered a scroll among=the roots of the tree.=Please accept it.~00~}#097#094
+Also, at the same time, we=discovered a scroll among=the roots of the tree.=Please accept it.~00~#094
+;000047F6{~05~Holy Father...=This far-off land of=Northwall is blanketed=with snow.~02~}#077#071
+~05~Holy Father...=This far-off land of=Northwall is blanketed=with snow.~02~#071
+;0000483D{Please use the light of=the sun to melt the snow=and show us the green=earth beneath.~00~}#089#086
+Please use the light of=the sun to melt the snow=and show us the green=earth beneath.~00~#086
+;00004893{~05~Holy Father...=Please forgive me.=I have been hiding=something from you.~02~}#080#074
+~05~Holy Father...=Please forgive me.=I have been hiding=something from you.~02~#074
+;000048DD{The other day, I found a=mysterious gem, but it was=so beautiful that I did=not offer it to you.~02~}#100#097
+The other day, I found a=mysterious gem, but it was=so beautiful that I did=not offer it to you.~02~#097
+;0000493E{I will never do such a=thing again.~02~}#039#036
+I will never do such a=thing again.~02~#036
+;00004962{I present this gem to you=as an offering, so please=accept it.~00~}#066#063
+I present this gem to you=as an offering, so please=accept it.~00~#063
+;000049A1{~05~Holy Father...=From the depths of the=cold lake, we have found=one of your magic spells.~02~}#096#090
+~05~Holy Father...=From the depths of the=cold lake, we have found=one of your magic spells.~02~#090
+;000049FB{We humbly present it to=you as an offering, so=please accept it.~00~}#068#065
+We humbly present it to=you as an offering, so=please accept it.~00~#065
+;00004A3C{~00~}#004#001
+~00~#001
+;00004A3D{~05~So you´ve decided not to=work a miracle. Very well.~00~}#059#053
+~05~So you´ve decided not to=work a miracle. Very well.~00~#053
+;00004A72{~05~Lord ~06~,=unfortunately nothing=has happened.~00~}#054#045
+~05~Lord ~06~,=unfortunately nothing=has happened.~00~#045
+;00004A9F{~05~Your lightning can destroy=houses, fields, rocks, and=trees.~00~}#068#062
+~05~Your lightning can destroy=houses, fields, rocks, and=trees.~00~#062
+;00004ADD{=But Lord ~06~, you=need at least 12 SP to=summon a lightning bolt.~00~}#071#065
+=But Lord ~06~, you=need at least 12 SP to=summon a lightning bolt.~00~#065
+;00004B1E{=Very well, then please=indicate where you would=like to send the lightning=bolt.~00~}#085#082
+=Very well, then please=indicate where you would=like to send the lightning=bolt.~00~#082
+;00004B70{~05~So you´ve changed your=mind. Very well.~00~}#047#041
+~05~So you´ve changed your=mind. Very well.~00~#041
+;00004B99{~05~Will you use Lightning?~01~}#031#025
+~05~Will you use Lightning?~01~#025
+;00004BB2{~05~By sending rain showers,=you can stimulate the=growth of grass and bring=dried-up fields back to=life.~00~}#110#104
+~05~By sending rain showers,=you can stimulate the=growth of grass and bring=dried-up fields back to=life.~00~#104
+;00004C1A{=But Lord ~06~, you=need at least 16 SP to=summon a raincloud.~00~}#066#060
+=But Lord ~06~, you=need at least 16 SP to=summon a raincloud.~00~#060
+;00004C56{=Very well, then please=show me where you would=like to summon the=rainclouds.~00~}#082#079
+=Very well, then please=show me where you would=like to summon the=rainclouds.~00~#079
+;00004CA5{~05~So you´ve changed your=mind. Very well.~00~}#047#041
+~05~So you´ve changed your=mind. Very well.~00~#041
+;00004CCE{~05~Will you send rain?~01~}#027#021
+~05~Will you send rain?~01~#021
+;00004CE3{~05~By summoning wind, you can=blow away all the monsters=that fly in the skies.~00~}#084#078
+~05~By summoning wind, you can=blow away all the monsters=that fly in the skies.~00~#078
+;00004D31{=But Lord ~06~, you=need at least 24 SP to=summon the winds.~00~}#064#058
+=But Lord ~06~, you=need at least 24 SP to=summon the winds.~00~#058
+;00004D6B{Very well, then the winds=will blow. Is this all=right?~01~}#059#056
+Very well, then the winds=will blow. Is this all=right?~01~#056
+;00004DA3{~05~So you´ve changed your=mind. Very well.~00~}#047#041
+~05~So you´ve changed your=mind. Very well.~00~#041
+;00004DCC{~05~Will you create winds?~01~}#030#024
+~05~Will you create winds?~01~#024
+;00004DE4{~05~If you summon an=earthquake it might change=the shape of the land.~00~}#074#068
+~05~If you summon an=earthquake it might change=the shape of the land.~00~#068
+;00004E28{=But Lord ~06~, you=need at least 60 SP to=cause an earthquake.~00~}#067#061
+=But Lord ~06~, you=need at least 60 SP to=cause an earthquake.~00~#061
+;00004E65{=This will probably=destroy a fair number=of houses. Are you sure?~01~}#070#067
+=This will probably=destroy a fair number=of houses. Are you sure?~01~#067
+;00004EA8{~05~So you´ve changed your=mind. Very well.~00~}#047#041
+~05~So you´ve changed your=mind. Very well.~00~#041
+;00004ED1{~05~Will you cause an=earthquake?~01~}#037#031
+~05~Will you cause an=earthquake?~01~#031
+;00004EF0{~05~The light of the sun will=dry up swamplands and melt=snow.~00~}#066#060
+~05~The light of the sun will=dry up swamplands and melt=snow.~00~#060
+;00004F2C{=But Lord ~06~, you=need at least 18 SP to=shine the sun.~00~}#061#055
+=But Lord ~06~, you=need at least 18 SP to=shine the sun.~00~#055
+;00004F63{=Then show me where you=want to bring the light=to.~00~}#055#052
+=Then show me where you=want to bring the light=to.~00~#052
+;00004F97{~05~So you´ve changed your=mind. Very well.~00~}#047#041
+~05~So you´ve changed your=mind. Very well.~00~#041
+;00004FC0{~05~Will you shine the light?~01~}#033#027
+~05~Will you shine the light?~01~#027
+;00004FDB{~05~Lord ~06~, in which=direction will you have=the people develop the=town?~00~}#080#071
+~05~Lord ~06~, in which=direction will you have=the people develop the=town?~00~#071
+;00005022{~05~~08~-~03~~5F~~D0~ will now develop=in the direction you have=specified.~00~}#079#061
+~05~~08~-~03~~5F~~D0~ will now develop=in the direction you have=specified.~00~#061
+;0000505F{~6D~~D0~~76~~D0~~80~~D0~ú~D0~~90~~D0~~97~~D0~~A1~~D0~Fillmore~00~}#065#023
+~6D~~D0~~76~~D0~~80~~D0~ú~D0~~90~~D0~~97~~D0~~A1~~D0~Fillmore~00~#023
+;00005076{Bloodpool~00~}#013#010
+Bloodpool~00~#010
+;00005080{Cassandra~00~}#013#010
+Cassandra~00~#010
+;0000508A{Aitos~00~}#009#006
+Aitos~00~#006
+;00005090{Marana~00~}#010#007
+Marana~00~#007
+;00005097{Northwall~00~}#013#010
+Northwall~00~#010
+;000050A1{Deathheim~00~}#013#010
+Deathheim~00~#010
+;000050AB{~05~So, you´ve changed your=mind.~00~}#037#031
+~05~So, you´ve changed your=mind.~00~#031
+;000050CA{~05~Holy Father...=We thank you very much=for giving us this=beautiful land.~02~}#080#074
+~05~Holy Father...=We thank you very much=for giving us this=beautiful land.~02~#074
+;00005114{It is thanks to you=watching over us that we=can work and live like=this.~00~}#077#074
+It is thanks to you=watching over us that we=can work and live like=this.~00~#074
+;0000515E{~05~Holy Father...~08~-~03~~5F~~D0~ is=lacking in production,=so it has become difficult=for the population to=increase.~00~}#124#106
+~05~Holy Father...~08~-~03~~5F~~D0~ is=lacking in production,=so it has become difficult=for the population to=increase.~00~#106
+;000051C8{~05~Holy Father...=There are some dried-up=fields in town. Please=restore life to them with=your miracles.~00~}#110#104
+~05~Holy Father...=There are some dried-up=fields in town. Please=restore life to them with=your miracles.~00~#104
+;00005230{~05~Holy Father...=There is no more space for=us to build houses.~02~}#069#063
+~05~Holy Father...=There is no more space for=us to build houses.~02~#063
+;0000526F{Please guide us to=undeveloped lands so=that we can build more.~00~}#067#064
+Please guide us to=undeveloped lands so=that we can build more.~00~#064
+;000052AF{~05~Holy Father...=~08~-~03~~5F~~D0~ has become=completely developed, so=there are no more places=to build houses.~00~}#118#100
+~05~Holy Father...=~08~-~03~~5F~~D0~ has become=completely developed, so=there are no more places=to build houses.~00~#100
+;00005313{~05~You have worked really=hard. Sleep well, for=tomorrow we will build=a wonderful world.~02~}#094#088
+~05~You have worked really=hard. Sleep well, for=tomorrow we will build=a wonderful world.~02~#088
+;0000536B{Oh, that´s right.=Don´t forget to turn off=the power while holding=down the Reset Button.=~01~}#094#091
+Oh, that´s right.=Don´t forget to turn off=the power while holding=down the Reset Button.=~01~#091
+;000053C6{~05~The recording has=completed. Will you=continue to build the=world?~01~}#074#068
+~05~The recording has=completed. Will you=continue to build the=world?~01~#068
+;0000540A{~05~Lord ~06~, will you=record the state of the=world?~01~}#058#049
+~05~Lord ~06~, will you=record the state of the=world?~01~#049
+;0000543B{~05~Lord ~06~, you=certainly never get=tired, do you?=Let´s work together to=create the world!~00~}#098#089
+~05~Lord ~06~, you=certainly never get=tired, do you?=Let´s work together to=create the world!~00~#089
+;00005494{~05~So, you´ve changed your=mind.~00~}#037#031
+~05~So, you´ve changed your=mind.~00~#031
+;000054B3{~98~~02~}#008#002
+~98~~02~#002
+;000054B5{m~D4~~D8~~D4~~F3~~D4~~0E~~D5~~25~Fire        = Magic      ~00~}#062#035
+m~D4~~D8~~D4~~F3~~D4~~0E~~D5~~25~Fire        = Magic      ~00~#035
+;000054D8{~26~Shooting    = Star Magic ~00~}#033#027
+~26~Shooting    = Star Magic ~00~#027
+;000054F3{~27~Aura        = Magic      ~00~}#033#027
+~27~Aura        = Magic      ~00~#027
+;0000550E{`Light       = Magic      ~00~}#030#027
+`Light       = Magic      ~00~#027
+;00005529{~A1~~02~}#008#002
+~A1~~02~#002
+;0000552B{m~D4~~D8~~D4~~F3~~D4~~0E~~D5~S~D5~~6F~~D5~ñ~D5~~A7~~D5~s~D5~~DF~~D5~~FB~~D5~~17~~D6~3~D6~O~D6~~6B~~D6~é~D6~~A3~~D6~o~D6~~DB~~D6~~F7~~D6~9Source of   = Life       ~00~}#166#067
+m~D4~~D8~~D4~~F3~~D4~~0E~~D5~S~D5~~6F~~D5~ñ~D5~~A7~~D5~s~D5~~DF~~D5~~FB~~D5~~17~~D6~3~D6~O~D6~~6B~~D6~é~D6~~A3~~D6~o~D6~~DB~~D6~~F7~~D6~9Source of   = Life       ~00~#067
+;0000556E{~07~~3A~Source of   = Magic      ~00~}#037#028
+~07~~3A~Source of   = Magic      ~00~#028
+;0000558A{~07~~3B~Scrap of    = Bread      ~00~}#037#028
+~07~~3B~Scrap of    = Bread      ~00~#028
+;000055A6{~01~}#004#001
+~01~#001
+;000055A7{>Rice        =            ~00~}#030#027
+>Rice        =            ~00~#027
+;000055C2{~05~<Medicine    =            ~00~}#034#028
+~05~<Medicine    =            ~00~#028
+;000055DE{~04~~3E~Bridge      = Technology ~00~}#037#028
+~04~~3E~Bridge      = Technology ~00~#028
+;000055FA{~04~?Wonderful   = Music      ~00~}#034#028
+~04~?Wonderful   = Music      ~00~#028
+;00005616{~04~~40~Dragon      = Egg        ~00~}#037#028
+~04~~40~Dragon      = Egg        ~00~#028
+;00005632{~05~AAncient     = Tablet     ~00~}#034#028
+~05~AAncient     = Tablet     ~00~#028
+;0000564E{~05~BSkull of    = Destruction~00~}#034#028
+~05~BSkull of    = Destruction~00~#028
+;0000566A{~05~CSheepskin   =            ~00~}#034#028
+~05~CSheepskin   =            ~00~#028
+;00005686{~04~DWonderful   = Dog        ~00~}#034#028
+~04~DWonderful   = Dog        ~00~#028
+;000056A2{~04~EFertilizer  =            ~00~}#034#028
+~04~EFertilizer  =            ~00~#028
+;000056BE{~01~}#004#001
+~01~#001
+;000056BF{FShining     = Sphere     ~00~}#030#027
+FShining     = Sphere     ~00~#027
+;000056DA{~04~GCompass     =            ~00~}#034#028
+~04~GCompass     =            ~00~#028
+;000056F6{~04~HAngel       = Power      ~00~}#034#028
+~04~HAngel       = Power      ~00~#028
+;00005712{~04~~0A~~06~~06~´s= Status==Lv  ~09~~02~}#040#022
+~04~~0A~~06~~06~´s= Status==Lv  ~09~~02~#022
+;00005728{~90~~02~}#008#002
+~90~~02~#002
+;0000572A{ HP ~09~~02~}#012#006
+ HP ~09~~02~#006
+;00005730{~92~~02~}#008#002
+~92~~02~#002
+;00005732{==SP ~09~~03~~81~~02~}#021#009
+==SP ~09~~03~~81~~02~#009
+;0000573B{ MP ~09~~02~}#012#006
+ MP ~09~~02~#006
+;00005741{~94~~02~}#008#002
+~94~~02~#002
+;00005743{==Next    ~09~~04~~96~~02~}#026#014
+==Next    ~09~~04~~96~~02~#014
+;00005751{==Total   ~09~~04~~17~~02~}#026#014
+==Total   ~09~~04~~17~~02~#014
+;0000575F{===Magic===Items~00~}#020#017
+===Magic===Items~00~#017
+;00005770{~03~~05~                          = Cities   Population ~09~~04~~17~~02~}#072#054
+~03~~05~                          = Cities   Population ~09~~04~~17~~02~#054
+;000057A6{ ===   Area   ~3A~~3B~  Stat Lv Item==--------------------------==Fillmore  ~09~~03~~1B~~02~}#092#074
+ ===   Area   ~3A~~3B~  Stat Lv Item==--------------------------==Fillmore  ~09~~03~~1B~~02~#074
+;000057F0{ ~08~~27~~02~}#013#004
+ ~08~~27~~02~#004
+;000057F4{c~D8~  ~09~~01~}#015#006
+c~D8~  ~09~~01~#006
+;000057FA{-~02~}#005#002
+-~02~#002
+;000057FC{   ~09~~01~}#011#005
+   ~09~~01~#005
+;00005801{9~02~}#005#002
+9~02~#002
+;00005803{==Bloodpool ~09~~03~~1D~~02~}#028#016
+==Bloodpool ~09~~03~~1D~~02~#016
+;00005813{ ~08~`~02~}#010#004
+ ~08~`~02~#004
+;00005817{c~D8~  ~09~~01~}#015#006
+c~D8~  ~09~~01~#006
+;0000581D{/~02~}#005#002
+/~02~#002
+;0000581F{   ~09~~01~}#011#005
+   ~09~~01~#005
+;00005824{~3B~~02~}#008#002
+~3B~~02~#002
+;00005826{==Cassandra ~09~~03~~1F~~02~}#028#016
+==Cassandra ~09~~03~~1F~~02~#016
+;00005836{ ~08~´~02~}#010#004
+ ~08~´~02~#004
+;0000583A{c~D8~  ~09~~01~}#015#006
+c~D8~  ~09~~01~#006
+;00005840{1~02~}#005#002
+1~02~#002
+;00005842{   ~09~~01~}#011#005
+   ~09~~01~#005
+;00005847{<~02~}#005#002
+<~02~#002
+;00005849{==Aitos     ~09~~03~!~02~}#025#016
+==Aitos     ~09~~03~!~02~#016
+;00005859{ ~08~"~02~}#010#004
+ ~08~"~02~#004
+;0000585D{c~D8~  ~09~~01~}#015#006
+c~D8~  ~09~~01~#006
+;00005863{3~02~}#005#002
+3~02~#002
+;00005865{   ~09~~01~}#011#005
+   ~09~~01~#005
+;0000586A{?~02~}#005#002
+?~02~#002
+;0000586C{==Marana    ~09~~03~~23~~02~}#028#016
+==Marana    ~09~~03~~23~~02~#016
+;0000587C{ ~08~~2B~~02~}#013#004
+ ~08~~2B~~02~#004
+;00005880{c~D8~  ~09~~01~}#015#006
+c~D8~  ~09~~01~#006
+;00005886{5~02~}#005#002
+5~02~#002
+;00005888{   ~09~~01~}#011#005
+   ~09~~01~#005
+;0000588D{A~02~}#005#002
+A~02~#002
+;0000588F{==Northwall ~09~~03~~25~~02~}#028#016
+==Northwall ~09~~03~~25~~02~#016
+;0000589F{ ~08~,~02~}#010#004
+ ~08~,~02~#004
+;000058A3{c~D8~  ~09~~01~}#015#006
+c~D8~  ~09~~01~#006
+;000058A9{7~02~}#005#002
+7~02~#002
+;000058AB{   ~09~~01~}#011#005
+   ~09~~01~#005
+;000058B0{C~02~}#005#002
+C~02~#002
+;000058B2{~00~}#004#001
+~00~#001
+;000058B3{o~D8~t~D8~y~D8~~CE~~D8~~D3~~D8~~D8~~D8~None~00~}#047#017
+o~D8~t~D8~y~D8~~CE~~D8~~D3~~D8~~D8~~D8~None~00~#017
+;000058C4{Stop~00~}#008#005
+Stop~00~#005
+;000058C9{Slow~00~}#008#005
+Slow~00~#005
+;000058CE{Norm~00~}#008#005
+Norm~00~#005
+;000058D3{Fast~00~}#008#005
+Fast~00~#005
+;000058D8{Max!~00~}#008#005
+Max!~00~#005
+|22749

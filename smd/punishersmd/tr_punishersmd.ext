@@ -1,0 +1,680 @@
+@0002D63A-0002D717-24
+;00000000{STAGE_1_CLEAR~24~}#017#014
+_FIN_ESCENA_1~24~#014
+;0000000E{STAGE_2_CLEAR~24~}#017#014
+_FIN_ESCENA_2~24~#014
+;0000001C{STAGE_3_CLEAR~24~}#017#014
+_FIN_ESCENA_3~24~#014
+;0000002A{STAGE_4_CLEAR~24~}#017#014
+_FIN_ESCENA_4~24~#014
+;00000038{STAGE_5_CLEAR~24~}#017#014
+_FIN_ESCENA_5~24~#014
+;00000046{STAGE_6_CLEAR~24~}#017#014
+_FIN_ESCENA_6~24~#014
+;00000054{___SCULLY_~26~___120000~24~}#027#021
+___SCULLY_~26~___120000~24~#021
+;00000069{__GUARDROID~26~___240000~24~}#028#022
+__GUARDROID~26~___240000~24~#022
+;0000007F{_BONE_BREAKER~26~____360000~24~}#031#025
+_BONE_BREAKER~26~____360000~24~#025
+;00000098{__BUSHWACKER~26~____480000~24~}#030#024
+__BUSHWACKER~26~____480000~24~#024
+;000000B0{_GUARDROID_2~26~____640000~24~}#030#024
+_GUARDROID_2~26~____640000~24~#024
+;000000C8{___KINGPIN~26~___1200000~24~}#028#022
+___KINGPIN~26~___1200000~24~#022
+|222
+@0002F352-0002F412-24
+;00000000{TOTAL_____________TOTAL~24~}#027#024
+TOTAL_____________TOTAL~24~#024
+;00000018{Time______________Time~26~Vitality__________Vitality~26~BombsX____________BombsX~26~ItemsX____________ItemsX~24~}#112#100
+Tiem______________Tiem~26~Vital_____________Vital___~26~BombaX____________BombaX~26~ObjetX____________ObjetX~24~#100
+;0000007C{_______TOTAL~24~}#016#013
+_______TOTAL~24~#013
+;00000089{_______Time~26~_______Vitality~26~_______BombsX~26~_______ItemsX~24~}#068#056
+____Tiempo_~26~____Vitalidad__~26~____Bombas__X~26~____Objetos_X~24~#056
+|193
+@000543D8-000549D4-24
+;00000000{VER S1~24~}#010#007
+VER S1~24~#007
+;00000007{             ~24~}#017#014
+             ~24~#014
+;00000015{NICK FURY    ~24~}#017#014
+NICK FURY    ~24~#014
+;00000023{GUARDROID    ~24~}#017#014
+GUARDROID    ~24~#014
+;00000031{LEON         ~24~}#017#014
+LEON         ~24~#014
+;0000003F{BAKOSU       ~24~}#017#014
+BAKOSU       ~24~#014
+;0000004D{YAN LEE      ~24~}#017#014
+YAN LEE      ~24~#014
+;0000005B{HAWKE        ~24~}#017#014
+HAWKE        ~24~#014
+;00000069{BUSHWACKER   ~24~}#017#014
+BUSHWACKER   ~24~#014
+;00000077{RED LAMP     ~24~}#017#014
+RED LAMP     ~24~#014
+;00000085{SHONE        ~24~}#017#014
+SHONE        ~24~#014
+;00000093{MAX          ~24~}#017#014
+MAX          ~24~#014
+;000000A1{JACK         ~24~}#017#014
+JACK         ~24~#014
+;000000AF{BRUNO COSTA  ~24~}#017#014
+BRUNO COSTA  ~24~#014
+;000000BD{KINGPIN      ~24~}#017#014
+KINGPIN      ~24~#014
+;000000CB{MIZUKI       ~24~}#017#014
+MIZUKI       ~24~#014
+;000000D9{MIDORI       ~24~}#017#014
+MIDORI       ~24~#014
+;000000E7{SCULLY       ~24~}#017#014
+SCULLY       ~24~#014
+;000000F5{GUS          ~24~}#017#014
+GUS          ~24~#014
+;00000103{KOLSKY       ~24~}#017#014
+KOLSKY       ~24~#014
+;00000111{COOL         ~24~}#017#014
+COOL         ~24~#014
+;0000011F{TRENCH       ~24~}#017#014
+TRENCH       ~24~#014
+;0000012D{JIGSAW       ~24~}#017#014
+JIGSAW       ~24~#014
+;0000013B{GAULLEE      ~24~}#017#014
+GAULLEE      ~24~#014
+;00000149{PRETTY BOY   ~24~}#017#014
+PRETTY BOY   ~24~#014
+;00000157{BONE BREAKER ~24~}#017#014
+BONE BREAKER ~24~#014
+;00000165{BARREL       ~24~}#017#014
+BARRIL       ~24~#014
+;00000173{OIL DRUM     ~24~}#017#014
+BIDÓN ACEITE ~24~#014
+;00000181{BUCKET       ~24~}#017#014
+CUBO         ~24~#014
+;0000018F{OIL DRUM     ~24~}#017#014
+BIDÓN ACEITE ~24~#014
+;0000019D{PLANT        ~24~}#017#014
+PLANTA       ~24~#014
+;000001AB{PLANT        ~24~}#017#014
+PLANTA       ~24~#014
+;000001B9{PHONE BOOTH  ~24~}#017#014
+CABINA TELEFO~24~#014
+;000001C7{DOG HOUSE    ~24~}#017#014
+CASA PERRO   ~24~#014
+;000001D5{RECLINER     ~24~}#017#014
+RECLINADOR   ~24~#014
+;000001E3{SOFA         ~24~}#017#014
+SOFA         ~24~#014
+;000001F1{READING CHAIR~24~}#017#014
+SILLA LECTURA~24~#014
+;000001FF{TIRE         ~24~}#017#014
+RUEDA        ~24~#014
+;0000020D{BIZEN OSAFUNE~24~}#017#014
+BIZEN OSAFUNE~24~#014
+;0000021B{HAMMER       ~24~}#017#014
+MARTILLO     ~24~#014
+;00000229{BATTLE AX    ~24~}#017#014
+HACHA BATALLA~24~#014
+;00000237{BAT          ~24~}#017#014
+BATE         ~24~#014
+;00000245{BROKEN BAT   ~24~}#017#014
+BATE ROTO    ~24~#014
+;00000253{PIPE         ~24~}#017#014
+TUBERÍA      ~24~#014
+;00000261{CHAIR        ~24~}#017#014
+SILLA        ~24~#014
+;0000026F{IRON PLATE   ~24~}#017#014
+PLACA HIERRO ~24~#014
+;0000027D{BAG OF CEMENT~24~}#017#014
+BOLSA CEMENTO~24~#014
+;0000028B{PRETTY LEGS  ~24~}#017#014
+PIES BONITOS ~24~#014
+;00000299{MACHINE GUN  ~24~}#017#014
+AMETRALLADORA~24~#014
+;000002A7{INGRAM       ~24~}#017#014
+INGRAM       ~24~#014
+;000002B5{EXTINGUISHER ~24~}#017#014
+EXTINTOR     ~24~#014
+;000002C3{BOOMERANG    ~24~}#017#014
+BUMERÁN      ~24~#014
+;000002D1{SWORD        ~24~}#017#014
+ESPADA       ~24~#014
+;000002DF{THROWING STAR~24~}#017#014
+ESTRELLA NINJ~24~#014
+;000002ED{STONE        ~24~}#017#014
+PIEDRA       ~24~#014
+;000002FB{LANCE        ~24~}#017#014
+LANZA        ~24~#014
+;00000309{HAND GRENADE ~24~}#017#014
+GRANADA MANO ~24~#014
+;00000317{PRETTY HEAD  ~24~}#017#014
+PRETTY HEAD  ~24~#014
+;00000325{DYNAMITE     ~24~}#017#014
+DINAMITA     ~24~#014
+;00000333{FOOD         ~24~}#017#014
+COMIDA       ~24~#014
+;00000341{JEWELY       ~24~}#017#014
+JOYERÍA      ~24~#014
+;0000034F{GOLD         ~24~}#017#014
+ORO          ~24~#014
+;0000035D{MONEY        ~24~}#017#014
+DINERO       ~24~#014
+;0000036B{SKINNER      ~24~}#017#014
+SKINNER      ~24~#014
+;00000379{B HANNIGAN   ~24~}#017#014
+B HANNIGAN   ~24~#014
+;00000387{LUIS ALLEGRE ~24~}#017#014
+LUIS ALLEGRE ~24~#014
+;00000395{FLAME THROWER~24~}#017#014
+LANZALLAMAS  ~24~#014
+;000003A3{ARMOR        ~24~}#017#014
+ARMADURA     ~24~#014
+;000003B1{L  SHOULDER  ~24~}#017#014
+HOMBRO IZQUIE~24~#014
+;000003BF{L  ARM       ~24~}#017#014
+BRAZO IZQUIER~24~#014
+;000003CD{R  SHOULDER  ~24~}#017#014
+HOMBRO DERECH~24~#014
+;000003DB{R  ARM       ~24~}#017#014
+BRAZO DERECHO~24~#014
+;000003E9{MARY         ~24~}#017#014
+MARY         ~24~#014
+;000003F7{BARBARA      ~24~}#017#014
+BARBARA      ~24~#014
+;00000405{JENNY        ~24~}#017#014
+JENNY        ~24~#014
+;00000413{DARK SAPPHIRE~24~}#017#014
+ZAFIRO OSCURO~24~#014
+;00000421{MEAT         ~24~}#017#014
+CARNE        ~24~#014
+;0000042F{HOTDOGS      ~24~}#017#014
+PERRITOS CALI~24~#014
+;0000043D{PUDDING      ~24~}#017#014
+PUDIN        ~24~#014
+;0000044B{CHICKEN      ~24~}#017#014
+POLLO        ~24~#014
+;00000459{CHEESE       ~24~}#017#014
+QUESO        ~24~#014
+;00000467{SLICE PIZZA  ~24~}#017#014
+TROZO PIZZA  ~24~#014
+;00000475{PIZZA        ~24~}#017#014
+PIZZA        ~24~#014
+;00000483{AQUAMARIN    ~24~}#017#014
+AGUAMARINA   ~24~#014
+;00000491{RUBY         ~24~}#017#014
+RUBI         ~24~#014
+;0000049F{EMERALD      ~24~}#017#014
+ESMERALDA    ~24~#014
+;000004AD{COINS        ~24~}#017#014
+MONEDAS      ~24~#014
+;000004BB{PISTOL       ~24~}#017#014
+PISTOLA      ~24~#014
+;000004C9{KNIFE        ~24~}#017#014
+CUCHILLO     ~24~#014
+;000004D7{TRUNK        ~24~}#017#014
+BAÚL         ~24~#014
+;000004E5{CHRYS        ~24~}#017#014
+CHRYS        ~24~#014
+;000004F3{DEAN         ~24~}#017#014
+DEAN         ~24~#014
+;00000501{JAGGER       ~24~}#017#014
+JAGGER       ~24~#014
+;0000050F{DYLAN        ~24~}#017#014
+DYLAN        ~24~#014
+;0000051D{LUNA         ~24~}#017#014
+LUNA         ~24~#014
+;0000052B{MISA         ~24~}#017#014
+MISA         ~24~#014
+;00000539{RED          ~24~}#017#014
+ROJO         ~24~#014
+;00000547{SAXON        ~24~}#017#014
+SAXON        ~24~#014
+;00000555{GUARDROID    ~24~}#017#014
+GUARDROID    ~24~#014
+;00000563{RUSKIN       ~24~}#017#014
+RUSKIN       ~24~#014
+;00000571{WOW CAT      ~24~}#017#014
+WOW CAT      ~24~#014
+;0000057F{BAKOSU       ~24~}#017#014
+BAKOSU       ~24~#014
+;0000058D{BOGART       ~24~}#017#014
+BOGART       ~24~#014
+;0000059B{BUDDY        ~24~}#017#014
+BUDDY        ~24~#014
+;000005A9{SMILE MASTER ~24~}#017#014
+SMILE MASTER ~24~#014
+;000005B7{NIWATORI     ~24~}#017#014
+NIWATORI     ~24~#014
+;000005C5{PLANT        ~24~}#017#014
+PLANTA       ~24~#014
+;000005D3{MOUSE        ~24~}#017#014
+RATÓN        ~24~#014
+;000005E1{CYBORG       ~24~}#017#014
+ANDROIDE     ~24~#014
+;000005EF{CYBORG       ~24~}#017#014
+ANDROIDE     ~24~#014
+|1533
+@00054BF8-000555CD-24
+;00000000{  New York, a jungle of steel and~26~  concrete. Where predators of all~26~  kinds mercilessly prey on all.~26~  Anytime, anywhere.~24~}#141#123
+  Nueva York, una jungla de acero~26~  y cemento. Donde depredadores~26~  de todo tipo depredan a todos.   ~26~  En todos lados.   ~24~#123
+;0000007B{In Central Park,~26~U.S. Marine captain Frank Castle~26~enjoys a picnic with his family.~26~~26~On that day, the Castle family~26~accidentally discovered a brutal~26~mob killing. Fearing any witnesses,~26~the killers gunned down the hapless~26~family.~26~~26~On that day Frank Castle's family~26~died.~26~~26~On that day Frank Castle died.~24~}#352#301
+En Central Park,~26~el capitán Marine Frank Castle~26~disfruta de un picnic con su~26~familia.~26~~26~Ese día, la familia Castle vio por~26~accidente un asesinato de la mafia.~26~Temiendo a los testigos,~26~los asesinos tirotearon a la pobre ~26~familia.~26~~26~Ese día la familia de Frank Castle~26~murió.~26~~26~Ese día Frank Castle murió. ~24~#301
+;000001A8{        On that day I was born.      ~24~}#041#038
+        En ese día nací yo.          ~24~#038
+;000001CE{To avenge them, and others like them.~24~}#044#038
+Para vengarles, y a otros como ellos.~24~#038
+;000001F4{          I am the Punisher!         ~24~}#041#038
+           Soy el Punisher!          ~24~#038
+;0000021A{If you're guilty, you're dead.~24~}#037#031
+Si eres culpable, vas a morir.~24~#031
+;00000239{             THE PUNISHER~26~~26~~26~          TM ! ~3C~ 1993, 1994~26~~26~    MARVEL ENTERTAINMENT GROUP, INC.~26~~26~          ALL RIGHTS RESERVED~24~}#158#125
+             THE PUNISHER~26~~26~~26~          TM ! ~3C~ 1993, 1994~26~~26~    MARVEL ENTERTAINMENT GROUP, INC.~26~~26~          DERECHOS RESERVADOS~24~#125
+;000002B6{ ~24~}#005#002
+ ~24~#002
+;000002B8{This time you've gone too far!~24~}#034#031
+Esta vez has ido muy lejos!   ~24~#031
+;000002D7{    STAGE 5~24~}#015#012
+   ESCENA 5~24~#012
+;000002E3{ I'll crush you under my heel~26~ like the insects you are.~24~}#063#057
+ Os aplastare bajo mi talon~26~ como los insectos que sois.~24~#057
+;0000031C{      STAGE 2~24~}#017#014
+     ESCENA 2~24~#014
+;0000032A{We can get inside the castle via~26~the pool drain.  Once inside I~26~can nail Bruno for good.~24~}#098#089
+Podemos entrar al castillo por el~26~desague de la Piscina.~26~Dentro podre darle a Bruno.    ~24~#089
+;00000383{I'm supposed to be at Waikiki beach~26~in Hawaii now, so why am I sewer~26~dipping with you?~24~}#099#087
+Debería estar en una playa Waikiki ~26~en Hawaii ahora, por que buceamos~26~por una cloaca? ~24~#087
+;000003DA{Let's hope Bruno doesn't go for~26~midnight swims.~24~}#054#048
+Esperemos que Bruno no haga nados~26~nocturnos.   ~24~#048
+;0000040A{The only way to get into that castle,~26~would be via the drain pipe of the~26~swimming pool.~24~}#100#088
+La única forma de entrar en el~26~castillo, seria por el desague de la~26~piscina.           ~24~#088
+;00000462{      STAGE 3~24~}#017#014
+     ESCENA 3~24~#014
+;00000470{There's a major drug deal going down~26~at the harbor tonight.  We can flush~26~that scum right back into the ocean.~24~}#120#111
+Hay un gran trato de drogas en el   ~26~puerto esta noche. Podemos descargar~26~esa basura de vuelta al océano.     ~24~#111
+;000004DF{You're a real charm boy, aren't you~26~Castle. Lets try not to rack up too~26~big a body count, ok?~24~}#109#094
+Eres un chico encantador, verdad   ~26~Castle? Intentemos no apilar muchos~26~cuerpos, vale?       ~24~#094
+;0000053D{There's a major drug deal going~26~down at the harbor tonight.~24~}#066#060
+Hay un gran trato de drogas en el ~26~puerto esta noche.      ~24~#060
+;00000579{It's a chance for me to blow them~26~out of the water.~24~}#058#052
+Es una oportunidad para sacarlos del~26~agua.         ~24~#052
+;000005AD{The information I got on the harbor~26~drug deal checks out.~24~}#064#058
+La información que recibí del trato~26~de drogas coincide.  ~24~#058
+;000005E7{I can go in there and knock them~26~on their butts before they can~26~peddle their poison.~24~}#094#085
+Puedo ir allí y patearles los culos~26~antes de que puedan difundir su~26~veneno.         ~24~#085
+;0000063C{Bruno won't escape me this time.~24~}#036#033
+Bruno no escapara esta vez.     ~24~#033
+;0000065D{The Punisher has caused me enough~26~damage!~24~}#048#042
+Punisher me ha causado suficiente~26~daño!  ~24~#042
+;00000687{Find where he's hiding and bring me~26~his head!~24~}#052#046
+Encontrad donde se oculta y traed~26~su cabeza! ~24~#046
+;000006B5{Blast you Fury!~24~}#019#016
+Maldito Fury!  ~24~#016
+;000006C5{You've just signed your death warrant!~24~}#042#039
+Has firmado tu sentencia de muerte!   ~24~#039
+;000006EC{   STAGE 4~24~}#014#011
+  ESCENA 4~24~#011
+;000006F7{They've got a huge poppy field~26~and a mobile factory, all~26~in one underground cave in Arizona.~24~}#105#093
+Tienen un gran campo de amapolas y~26~una fabrica móvil,  ~26~en una cueva subterránea en Arizona.~24~#093
+;00000754{Let's throw a little wrench~26~in the Kingpin's plans!~24~}#058#052
+Vamos a torcer un poco los planes de~26~Kingpin!      ~24~#052
+;00000788{My info says the Kingpin's got a huge~26~poppy field complete with mobile~26~processing factory, underground in~26~Arizona.~24~}#130#115
+Mi info dice que Kingpin tiene un  ~26~gran campo de amapolas con fabrica~26~de procesado móvil, subterráneo en~26~Arizona.~24~#115
+;000007FB{Humble spice dealer, ha~2D~Pretty potent~26~spice.~24~}#057#045
+Vendedor de especias, ja~2D~ Especias~26~potentes.~24~#045
+;00000828{Their main poppy field~26~and factory are located in an~26~underground cave in Arizona.~24~}#091#082
+Su campo de amapolas y fabrica~26~están en una cueva cueva subterránea~26~de Arizona.  ~24~#082
+;0000087A{Well, let's pay them a little visit,~26~help with the weeding~26~and vermin elimination!~24~}#098#083
+Bueno, hagámosle una pequeña visita,~26~ayuda con el deshierbo~26~y exterminio de plaga!~24~#083
+;000008CD{   LAST STAGE~24~}#017#014
+ULTIMA ESCENA~24~#014
+;000008DB{He must be in that hotel.~24~}#029#026
+Debe estar en ese hotel. ~24~#026
+;000008F5{It's time to nail~26~that scumbag once and for all!~24~}#055#049
+Es hora de coger a esa mierda~26~de una vez!       ~24~#049
+;00000926{A bazooka! Get real Castle!~26~When this is done you and I~26~are going to have a long talk!~24~}#096#087
+Un bazuca! En serio Castle!~26~Cuando esto termine tu y yo~26~vamos a tener una charla!     ~24~#087
+;0000097D{I know he's hiding somewhere~26~in this hotel!~24~}#050#044
+Se que se oculta en algún lugar del~26~hotel! ~24~#044
+;000009A9{It ends for you tonight Kingpin,~26~I swear it!~24~}#054#045
+Esta noche termina para ti Kingpin,~26~Lo juro!~24~#045
+|2518
+@000555CE-000562B9-24
+;00000000{BONUS STAGE~24~}#015#012
+ESCENA BONO~24~#012
+;0000000C{READY~24~}#009#006
+LISTO~24~#006
+;00000012{GO~24~}#006#003
+YA~24~#003
+;00000015{    STAGE 1~24~}#015#012
+   ESCENA 1~24~#012
+;00000021{Intro~24~}#009#006
+Intro~24~#006
+;00000027{AREA 1~24~}#010#007
+ZONA 1~24~#007
+;0000002E{AREA 2~24~}#010#007
+ZONA 2~24~#007
+;00000035{AREA 3~24~}#010#007
+ZONA 3~24~#007
+;0000003C{AREA 4~24~}#010#007
+ZONA 4~24~#007
+;00000043{AREA 5~24~}#010#007
+ZONA 5~24~#007
+;0000004A{AREA 6~24~}#010#007
+ZONA 6~24~#007
+;00000051{GO BACK~24~}#011#008
+VUELVE ~24~#008
+;00000059{ T H E  E N D~24~}#017#014
+     FIN     ~24~#014
+;00000067{G A M E  O V E R~24~}#020#017
+G A M E  O V E R~24~#017
+;00000078{DIFFICULTY~24~}#014#011
+DIFICULTAD~24~#011
+;00000083{SOUNDS~24~}#010#007
+SONIDO~24~#007
+;0000008A{MUSIC~24~}#009#006
+MUSIC~24~#006
+;00000090{CONTROLS~24~}#012#009
+CONTROL ~24~#009
+;00000099{ATTACK~24~}#010#007
+ATAQUE~24~#007
+;000000A0{JUMP~24~}#008#005
+SALT~24~#005
+;000000A5{SPECIAL MOVES~24~}#017#014
+ESPECIAL     ~24~#014
+;000000B3{EXIT~24~}#008#005
+SALE~24~#005
+;000000B8{A  ~24~}#007#004
+A  ~24~#004
+;000000BC{B  ~24~}#007#004
+B  ~24~#004
+;000000C0{C  ~24~}#007#004
+C  ~24~#004
+;000000C4{A~2D~B~24~}#010#004
+A~2D~B~24~#004
+;000000C8{B~2D~C~24~}#010#004
+B~2D~C~24~#004
+;000000CC{EASY  ~24~}#010#007
+FÁCIL ~24~#007
+;000000D3{NORMAL~24~}#010#007
+NORMAL~24~#007
+;000000DA{HARD  ~24~}#010#007
+DIFÍCI~24~#007
+;000000E1{EXPERT~24~}#010#007
+EXPERT~24~#007
+;000000E8{P1~2D~PUNISHER     P2~2D~NICK FURY ~24~}#039#030
+J1~2D~PUNISHER     J2~2D~NICK FURY ~24~#030
+;00000106{P1~2D~NICK FURY    P2~2D~PUNISHER  ~24~}#039#030
+J1~2D~NICK FURY    J2~2D~PUNISHER  ~24~#030
+;00000124{DEVELOPED FOR USE ONLY~26~WITH NTSC GENESIS SYSTEMS~24~}#055#049
+DESARROLLADO SOLO PARA~26~USAR CON SISTEMAS GENESIS~24~#049
+;00000155{~2D~~2D~OPTIONS~2D~~2D~~24~}#027#012
+~2D~~2D~OPCIÓN~2D~~2D~ ~24~#012
+;00000161{BONUS N DEMOS~24~}#017#014
+BONOS Y DEMOS~24~#014
+;0000016F{BONUS~24~}#009#006
+BONOS~24~#006
+;00000175{BONUS2~24~}#010#007
+BONOS2~24~#007
+;0000017C{PUN DEMO~24~}#012#009
+DEMO PUN~24~#009
+;00000185{NICK DEMO~24~}#013#010
+DEMO NICK~24~#010
+;0000018F{BOTH DEMO~24~}#013#010
+DEMO AMBO~24~#010
+;00000199{RECORD DEMO~24~}#015#012
+GUARDA DEMO~24~#012
+;000001A5{PLAY RECORDING~24~}#018#015
+GRABANDO JUEGO~24~#015
+;000001B4{ Play Game~24~}#014#011
+  Jugar   ~24~#011
+;000001BF{  Options~24~}#013#010
+ Opciones~24~#010
+;000001C9{Press  Start~24~}#016#013
+Pulsa  Start~24~#013
+;000001D6{~3C~ CAPCOM CO., LTD. 1994~26~  ALL RIGHTS RESERVED~24~}#058#046
+~3C~ CAPCOM CO., LTD. 1994~26~  DERECHOS RESERVADOS~24~#046
+;00000204{~3C~ CAPCOM U.S.A. INC. 1994~26~   ALL RIGHTS RESERVED~24~}#058#049
+~3C~ CAPCOM U.S.A. INC. 1994~26~   DERECHOS RESERVADOS~24~#049
+;00000235{  THIS VIDEO GAME IS PRODUCED~26~    UNDER LICENSE FROM THE~26~MARVEL ENTERTAINMENT GROUP, INC.~26~~26~~26~  PORT FROM THE COIN~2D~OP GAME~26~  BY SCULPTURED SOFTWARE INC.~26~         LICENSED BY~26~     SEGA ENTERPRISES, LTD.~24~}#236#200
+  ESTE VIDEOJUEGO SE PRODUJO ~26~      BAJO LICENCIA DEL   ~26~MARVEL ENTERTAINMENT GROUP, INC.~26~~26~~26~   PORT DEL JUEGO DE ARCADE ~26~ POR SCULPTURED SOFTWARE INC.~26~         LICENCIA DE~26~     SEGA ENTERPRISES, LTD.~24~#200
+;000002FD{As the Kingpin faced his final~26~defeat at the Punisher's hands,~26~the King building, it's support~26~structure badly damaged, collapsed,~26~it's dying echo reverberating~26~through the city like the anguished~26~roar of an exorcised demon.~26~~26~With his defeat and the King~26~building's collapse, the~26~Kingpin's empire of sin began to~26~disintegrate. Without his powerful~26~guiding hand it soon tore itself~26~apart.~26~~26~But for the Punisher, while the~26~battle has been won, the war goes on.~26~For him there is no rest from the~26~war until there is no evil left on~26~the earth to fight.~26~~26~An impossible task? Perhaps. Is it ~26~his fate to fight a neverending war?~26~A war he can never really win?~26~It doesn't matter. For he is a~26~man who has accepted his fate. A man~26~unable to escape his cruel destiny.~26~~26~~26~That night, the Punisher vanished~26~into the dark. Melting back into the~26~shadows to stalk his prey. And the~26~predators of New York shudder.~26~Knowing that now they are being~26~hunted.~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~24~}#1133#953
+Mientras Kingpin afrontaba su~26~derrota final a manos de Punisher,~26~la estructura del edificio King,~26~muy dañada, se derrumbo,~26~su eco moribundo retumbaba por la~26~ciudad cual angustiado rugido de un~26~demonio exorcizado.~26~~26~Con su derrota y el derrumbe del~26~edificio King, el imperio de~26~Kingpin comenzó a deshacerse.~26~Sin su poderosa mano guiando pronto~26~comenzó a caerse a trozos.~26~~26~Pero para Punisher, mientras la~26~batalla se ha ganado, la guerra sigue.~26~Para el no hay descanso de la guerra~26~hasta que no quede mal en la tierra~26~con el que luchar.~26~~26~Una tarea imposible? Quizás. Es su~26~destino luchar una guerra sin fin?~26~Una guerra que nunca podrá ganar?~26~No importa. Porque el es un hombre~26~que ha aceptado su destino.~26~Un hombre incapaz de escapar de su~26~destino.~26~~26~~26~Esa noche, el Punisher se desvaneció~26~en la oscuridad. Deshaciéndose en~26~las sombras para acosar a su presa.~26~Los depredadores de Nueva York se~26~estremecen. Sabiendo que están~26~siendo cazados. ~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~24~#953
+;000006B6{The next morning, the police~26~searched through the rubble of the~26~King Building. They found over~26~~24~}#111#096
+La mañana siguiente, la policía~26~busco por las ruinas del edificio~26~King. Encontraron mas de    ~26~~24~#096
+;00000716{ex~2D~criminals. But they could not~24~}#039#033
+ex~2D~criminales. Pero no pudieron ~24~#033
+;00000737{find any body that could be~26~identified as the Kingpin.~26~~26~~26~Vengeance burns eternal.~24~}#097#082
+encontrar un cuerpo que se~26~identificara como Kingpin.~26~~26~~26~La venganza quema eterna.~24~#082
+;00000789{As the Kingpin faced his final~26~defeat at the Furys' hands,~26~the King building, it's support~26~structure badly damaged, collapsed,~26~it's dying echo reverberating~26~through the city like the anguished~26~roar of an exorcised demon.~26~~26~With his defeat and the King~26~building's collapse, the~26~Kingpin's empire of sin began to~26~disintegrate. Without his powerful~26~guiding hand it soon tore itself~26~apart.~26~~26~But for the Fury, while the battle~26~has been won, the war goes on. For~26~him there is no rest from the war~26~until there is no evIl left on the~26~earth to fight.~26~~26~An impossible task? Perhaps. Is it~26~his fate to fight a neverending~26~war? A war he can never really win?~26~It doesn't matter. For he is a~26~man who has accepted his fate. A man~26~unable to escape his cruel destiny.~26~~26~~26~That night, the Fury vanished into~26~the dark. Melting back into the~26~shadows to stalk his prey. And the~26~predators of New York shudder.~26~Knowing that now they are being~26~hunted.~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~24~}#1120#940
+Mientras Kingpin afrontaba su~26~derrota final a manos de Fury,~26~la estructura del edificio King,~26~muy dañada, se derrumbo,~26~su eco moribundo retumbaba por la~26~ciudad cual angustiado rugido de un~26~demonio exorcizado.~26~~26~Con su derrota y el derrumbe del~26~edificio King, el imperio de~26~Kingpin comenzó a deshacerse.~26~Sin su poderosa mano guiando pronto~26~comenzó a caerse a trozos.~26~~26~Pero para Fury, mientras la~26~batalla se ha ganado, la guerra sigue.~26~Para el no hay descanso de la guerra~26~hasta que no quede mal en la tierra~26~con el que luchar.~26~~26~Una tarea imposible? Quizás. Es su~26~destino luchar una guerra sin fin?~26~Una guerra que nunca podrá ganar?~26~No importa. Porque el es un hombre~26~que ha aceptado su destino.~26~Un hombre incapaz de escapar de su~26~destino.~26~~26~~26~Esa noche, Fury se desvaneció~26~en la oscuridad. Deshaciéndose en~26~las sombras para acosar a su presa.~26~Los depredadores de Nueva York se~26~estremecen. Sabiendo que están~26~siendo cazados.   ~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~26~~24~#940
+;00000B35{THE END~24~}#011#008
+  FIN  ~24~#008
+;00000B3D{ Quite a pitiful attempt~26~  to bring down my~26~  organization.~26~~26~ Why don't you try~26~  the NORMAL mode,~26~  tough guy!~24~}#136#112
+ Un intento lamentable de~26~  hacer caer mi   ~26~  organización.~26~~26~ Por que no pruebas~26~  el modo NORMAL,~26~  tío duro!~24~#112
+;00000BAD{Now fight like the Punisher!~24~}#032#029
+Ahora lucha como Punisher!  ~24~#029
+;00000BCA{Congratulations!~24~}#020#017
+Felicidades!    ~24~#017
+;00000BDB{The war rages on!~24~}#021#018
+La guerra sigue! ~24~#018
+;00000BED{You have survived the EXPERT mode!~24~}#038#035
+Has sobrevivido al modo EXPERT!   ~24~#035
+;00000C10{The war is over for now...~24~}#030#027
+Por ahora no mas guerra...~24~#027
+;00000C2B{ENDINGS~24~}#011#008
+FINALES~24~#008
+;00000C33{EASY ENDING~24~}#015#012
+FINAL FÁCIL~24~#012
+;00000C3F{NORMAL ENDING~24~}#017#014
+FINAL NORMAL ~24~#014
+;00000C4D{HARD ENDING~24~}#015#012
+FINAL DIFÍC~24~#012
+;00000C59{EXPERT ENDING~24~}#017#014
+EXPERT ENDING~24~#014
+;00000C67{END STORY~24~}#013#010
+END STORY~24~#010
+;00000C71{~24~}#004#001
+~24~#001
+;00000C72{Try the HARD mode.~24~}#022#019
+Prueba DIFÍCIL.   ~24~#019
+;00000C85{Try the EXPERT mode.~24~}#024#021
+Prueba modo EXPERTO.~24~#021
+;00000C9A{                                             ~24~}#049#046
+                                             ~24~#046
+;00000CC8{2P DAMAGE~24~}#013#010
+DAÑO A J2~24~#010
+;00000CD2{OFF~24~}#007#004
+NO ~24~#004
+;00000CD6{ON ~24~}#007#004
+SI ~24~#004
+;00000CDA{SUPER BONUS STAGE~24~}#021#018
+ESCENA SUPER BONO~24~#018
+|3308
+@0005645E-000570F6-24
+;00000000{   Stage 1 V2.1~26~Back to the war~24~}#038#032
+  Escena 1 V2.1~26~Guerra de nuevo~24~#032
+;00000020{What the?~24~}#013#010
+Pero que?~24~#010
+;0000002A{How did you get in?~24~}#023#020
+Como has entrado?  ~24~#020
+;0000003E{Time to face justice!~26~Lets have a little chat.~24~}#053#047
+Hora de la justicia! ~26~Charlemos un poco.      ~24~#047
+;0000006D{What's going on back here?~24~}#030#027
+Qué pasa ahí atrás?       ~24~#027
+;00000088{The Punisher!                  ~24~}#035#032
+El Punisher!                   ~24~#032
+;000000A8{You can run but you can't hide!~24~}#035#032
+Puedes huir pero no ocultarte! ~24~#032
+;000000C8{Knock off the noise!~24~}#024#021
+Parad el ruido!     ~24~#021
+;000000DD{Fury!               ~24~}#024#021
+Fury!               ~24~#021
+;000000F2{Same old dirty tricks bruno?~24~}#032#029
+Los trucos de siempre Bruno?~24~#029
+;0000010F{You're finished now Bruno!~24~}#030#027
+Estas acabado ahora Bruno!~24~#027
+;0000012A{It's all over Bruno.~24~}#024#021
+Termina todo Bruno. ~24~#021
+;0000013F{Now you'll get what you deserve!~26~Give it up Bruno!~24~}#057#051
+Ahora recibirás lo que mereces! ~26~Ríndete Bruno!   ~24~#051
+;00000172{Scully, get him!~24~}#023#017
+Atrápale Scully!~24~#017
+;00000183{I leave him to your tender care!~24~}#036#033
+Le dejo a tu tierno cuidado!    ~24~#033
+;000001A4{You're real funny for a couple of dead~26~guys!~24~}#051#045
+Sois muy divertidos para ser dos   ~26~muertos!~24~#045
+;000001D1{Tell me where your boss is!~24~}#031#028
+Dime quien es tu jefe!     ~24~#028
+;000001ED{Where's Bruno's hideout!~24~}#028#025
+Donde esta el escondite!~24~#025
+;00000206{Where can I find Bruno!~26~He's just a stooge, let him go.~24~}#065#056
+Donde encuentro a Bruno!~26~Solo es un matón, déjale ir.  ~24~#056
+;0000023E{Please, don't kill me.~26~He's at Castle Pantaberde, Florida.~24~}#071#059
+No me mates.        ~26~Esta en Castillo Pantaberde, Florida.~24~#059
+;00000279{Wait! I'll talk, I'll talk!~26~He's at Castle Pantaberde, Florida!~24~}#076#064
+Espera! Hablaré, hablaré!~26~Esta en Castillo Pantaberde, Florida!~24~#064
+;000002B9{Ok, Just don't kill me!~26~He's at Castle Pantaberde, Florida.~24~}#072#060
+Ok, solo no me mates!~26~Esta en Castillo Pantaberde, Florida.~24~#060
+;000002F5{Thanks and good bye!~24~}#024#021
+Gracias y adiós!    ~24~#021
+;0000030A{Thanks and pleasant dreams.~24~}#031#028
+Gracias y felices suenos.  ~24~#028
+;00000326{Say hello to Bruno when you see him!~26~Hey! You son of a..~24~}#063#057
+Dile hola a Bruno cuando le veas!   ~26~Eh! Hijo de...     ~24~#057
+;0000035F{I don't die so easily.~24~}#026#023
+No muero tan fácil.   ~24~#023
+;00000376{You're a dead man Fury!~24~}#027#024
+Estas muerto Fury!     ~24~#024
+;0000038E{Don't insult my IQ!~24~}#023#020
+No insultes mi CI! ~24~#020
+;000003A2{Time for justice!~24~}#021#018
+Hora de justicia!~24~#018
+;000003B4{Can't you think of something better~26~than that?~24~}#053#047
+No puedes pensar en algo mejor que ~26~eso?      ~24~#047
+;000003E3{Say hello to Scully.~26~Wait Castle! Don't kill him!~24~}#056#050
+Saluda a Scully.     ~26~Espera Castle! No le mates!~24~#050
+;00000415{What the.. Bruno!~24~}#021#018
+Pero que.. Bruno!~24~#018
+;00000427{What in Sam Hill, Bruno!~24~}#031#025
+Pero que rayos, Bruno!  ~24~#025
+;00000440{Bruno!!~26~Why?!~24~}#020#014
+Bruno!!~26~Qué?!~24~#014
+;0000044E{I have been programmed by the Kingpin~26~to terminate you!~24~}#062#056
+He sido programado por Kingpin para  ~26~terminarte!      ~24~#056
+;00000486{By the order of Kingpin you are to be~26~terminated.~24~}#056#050
+Por la orden de Kingpin vas a ser    ~26~terminado. ~24~#050
+;000004B8{I have been programmed by the Kingpin~26~to terminate you!~24~}#062#056
+He sido programado por Kingpin para  ~26~terminarte!      ~24~#056
+;000004F0{Kingpin!~26~I knew he was behind all of this!~24~}#049#043
+Kingpin!~26~Sabia que estabas tras todo esto!~24~#043
+;0000051B{Kingpin!~26~You're going down this time Fisk!~24~}#049#043
+Kingpin!~26~Esta vez vas a caer Fisk!        ~24~#043
+;00000546{Kingpin!~26~The top boss in the mob!~24~}#040#034
+Kingpin!~26~El gran jefe mafioso!   ~24~#034
+;00000568{Die in your own blood, baby!~24~}#035#029
+Muere en tu sangre, bebe!   ~24~#029
+;00000585{I'll grind you into tread jam!~24~}#034#031
+Te hare mermelada moliéndote! ~24~#031
+;000005A4{I'll roll all over you, baby!~24~}#036#030
+Rodare por encima tuyo, bebe!~24~#030
+;000005C2{Welcome Punisher,~26~all aboard the Death Express!~24~}#057#048
+Saludos Punisher,~26~a bordo en el Muerte Express!~24~#048
+;000005F2{You look chilled.~24~}#021#018
+Pareces enfriado.~24~#018
+;00000604{Let me warm you to the bone!~24~}#032#029
+Voy a calentarte los huesos!~24~#029
+;00000621{Welcome gentlemen! It's showtime!~24~}#037#034
+Saludos caballeros! Juguemos!    ~24~#034
+;00000643{Someone's here already!~24~}#027#024
+Ya hay alguien aquí!   ~24~#024
+;0000065B{I smell a rat nearby!~24~}#025#022
+Huelo una rata cerca!~24~#022
+;00000671{We're surrounded!~26~You noticed!~26~By the way, where's my lighter?~24~}#075#063
+Estamos rodeados!~26~Lo viste!~26~Por cierto, donde esta mi mechero?~24~#063
+;000006B0{Target confirmed.~26~Terminate immediately!~24~}#047#041
+Objetivo confirmado.~26~A exterminarlo!    ~24~#041
+;000006D9{Target confirmed.~26~Neutralize immediately!~24~}#048#042
+Objetivo confirmado.~26~A neutralizarlo!    ~24~#042
+;00000703{Targets confirmed.~26~Proceed and terminate!~24~}#048#042
+Objetivos confirmados.~26~Voy a terminarlos!~24~#042
+;0000072D{Kingpin!~26~Your luck's finally run out.~24~}#044#038
+Kingpin!~26~Se ha terminado tu suerte.  ~24~#038
+;00000753{Come on Fisk, lets put an end to this,~26~so's I can grab a good cigar and ~26~a little rest.~24~}#103#088
+Vamos Fisk, pongamos final a esto,    ~26~para que pueda coger un buen puro~26~y descansar.  ~24~#088
+;000007AB{Kingpin! You're finally gonna pay for all~26~that you've done!~26~Knock it off, Castle! I told you we~26~don't kill these punks. Unless we have to.~24~}#154#139
+Kingpin! Al fin vas a pagar por todo lo  ~26~que has hecho!  ~26~Déjalo ya, Castle! Te dije que no  ~26~matamos a esos tipos. A no ser que debamos.~24~#139
+;00000836{Your ridiculous little vendetta ends~26~now Punisher!~24~}#057#051
+Tu ridícula pequeña vendetta acaba~26~ahora Punisher!~24~#051
+;00000869{Mr. Fury you have annoyed me long~26~enough!~24~}#048#042
+Sr. Fury me has molestado mucho  ~26~tiempo!~24~#042
+;00000893{Do you realize how outclassed you are?~26~Neither of you will leave here alive!~24~}#083#077
+Os enteráis de la clase que os falta?~26~Ninguno de vosotros saldrá vivo!      ~24~#077
+;000008E0{It's all over Kingpin, you're through!~24~}#045#039
+Aquí acaba todo Kingpin, terminado!   ~24~#039
+;00000907{Slow down, smile once in a while.~26~You'll live longer.~24~}#063#054
+Relájate, sonríe de vez en cuando.~26~Vivirás mas.      ~24~#054
+;0000093D{You're all alone now, no one can help you!~26~Castle, you and I are going to have it~26~out someday, and you won't like the~26~results!~24~}#148#127
+Ahora estas solo, nadie puede ayudarte!   ~26~Castle, tu y yo vamos a tenerla algún ~26~día, y no te van a gustar los   ~26~resultados!~24~#127
+;000009BC{Back to the War~24~}#019#016
+Guerra de nuevo~24~#016
+;000009CC{  First Strike~24~}#018#015
+  Primer Golpe~24~#015
+;000009DB{  Raid on Pantaberde~24~}#024#021
+Incursion Pantaberde~24~#021
+;000009F0{Assault on Pantaberde~24~}#025#022
+ Asalto en Pantaberde~24~#022
+;00000A06{Waterfront Warfare~24~}#022#019
+Guerra Frente Mar ~24~#019
+;00000A19{ Tricks and Traps~24~}#021#018
+ Trucos y Trampas~24~#018
+;00000A2B{    Death on Rails~24~}#022#019
+  Muerte en Raíles~24~#019
+;00000A3E{Next Stop, Destruction~24~}#029#023
+   Parada, Destrucción~24~#023
+;00000A55{    Kingpin's Wrath~24~}#023#020
+   Furia de Kingpin~24~#020
+;00000A69{The Wrath and the Fury~24~}#026#023
+  La Ira y la Furia   ~24~#023
+;00000A80{Final Punishment~24~}#020#017
+   Castigo Final~24~#017
+;00000A91{  Final Verdict~24~}#019#016
+Veredicto Final~24~#016
+;00000AA1{I finally found you, Punisher!~24~}#037#031
+Te encontré al fin, Punisher! ~24~#031
+;00000AC0{I finally found you, Fury!~24~}#033#027
+Te encontré al fin, Fury! ~24~#027
+;00000ADB{Now I'll have your head!~24~}#028#025
+Ahora tendré tu cabeza! ~24~#025
+;00000AF4{Oh No! The whole building is gonna~26~blow!~24~}#047#041
+Oh No! Todo el edificio va a~26~explotar!  ~24~#041
+;00000B1D{Damn! We've got to get out of here!~24~}#039#036
+Mierda! Tenemos que salir de aquí! ~24~#036
+;00000B41{Goodnight fat boy!~24~}#022#019
+Buenas noches!    ~24~#019
+;00000B54{So, this is where Fisk and~26~I will have our final battle.~24~}#066#057
+Así que aquí es donde Fisk~26~y yo tendremos la batalla.   ~24~#057
+;00000B8D{We better make it quick.~26~I have a date with Kate tonight!~24~}#064#058
+Que sea rápido.      ~26~Esta noche tengo una cita con Kate!~24~#058
+;00000BC7{Ga Ga Ga ...~24~}#016#013
+Ga Ga Ga ...~24~#013
+;00000BD4{THE INVESTIGATOR~24~}#020#017
+EL INVESTIGADOR ~24~#017
+;00000BE5{Everybody just calls me~24~}#027#024
+Todo el mundo me llama ~24~#024
+;00000BFD{Punisher.~24~}#013#010
+Punisher.~24~#010
+;00000C07{Shoot 16 to continue~24~}#024#021
+Tira 16 para seguir ~24~#021
+;00000C1C{Shoot 22 to continue~24~}#024#021
+Tira 22 para seguir ~24~#021
+;00000C31{Shoot 28 to continue~24~}#024#021
+Tira 28 para seguir ~24~#021
+;00000C46{Shoot 36 to continue~24~}#024#021
+Tira 36 para seguir ~24~#021
+;00000C5B{Shoot all 40 for~26~  Super Bonus~24~}#037#031
+Tira a 40 para  ~26~  Super Bono ~24~#031
+;00000C7A{Shoot all 50 for~26~  Super Bonus~24~}#037#031
+Tira a 50 para  ~26~  Super Bono ~24~#031
+|3225

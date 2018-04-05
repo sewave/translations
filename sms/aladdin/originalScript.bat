@@ -1,0 +1,4 @@
+set T_FILENAME="Aladdin (E) [!].sms"
+set SCRIPTNAME="aladdin"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false 78A65-78A88-,70D4-719B-FF,7260-726F-FF,7811-7819-FF,32688-32839-FF,7896D-7897E-FF,7E1EE-7FD5D-FD
+pause

@@ -1,0 +1,162 @@
+@00005C16-00005C3A-01
+;00000000{Welcome!~0D~~06~~0A~Buy something!!_______~01~}#046#034
+Welcome!~0D~~06~~0A~Buy something!!_______~01~#034
+;00000022{~01~}#004#001
+~01~#001
+;00000023{~0F~~01~}#008#002
+~0F~~01~#002
+|37
+@00005C44-00005C5B-01
+;00000000{Anything else?______~01~}#024#021
+Anything else?______~01~#021
+;00000015{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|24
+@00005C61-00005C8F-01
+;00000000{Thank you very much.~0D~~06~~08~Thank you very much.~0F~~00~~01~}#064#046
+Thank you very much.~0D~~06~~08~Thank you very much.~0F~~00~~01~#046
+;0000002E{~02~}#004#001
+~02~#001
+|47
+@00005C93-00005CB5-01
+;00000000{Sorry.~0D~~06~~0A~You need more coins.__~01~}#044#032
+Sorry.~0D~~06~~0A~You need more coins.__~01~#032
+;00000020{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|35
+@00005CBB-00005CDD-01
+;00000000{Sorry.~0D~~06~~0A~We're out of stock.___~01~}#044#032
+Sorry.~0D~~06~~0A~We're out of stock.___~01~#032
+;00000020{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|35
+@00005CE3-00005D09-01
+;00000000{Leave store.~0D~~06~~0C~ (A button chooses) ~01~}#048#036
+Leave store.~0D~~06~~0C~ (A button chooses) ~01~#036
+;00000024{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|39
+@00005D0F-00005D41-01
+;00000000{Psycho wave!~0D~~06~~0A~Buy it?  ~0D~~06~~0C~_(A button chooses)_~01~}#069#048
+Psycho wave!~0D~~06~~0A~Buy it?  ~0D~~06~~0C~_(A button chooses)_~01~#048
+;00000030{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|51
+@00005D47-00005D7A-01
+;00000000{Super-sonic!~0D~~06~~0A~Buy it?___~0D~~06~~0C~_(A button chooses)_~01~}#070#049
+Super-sonic!~0D~~06~~0A~Buy it?___~0D~~06~~0C~_(A button chooses)_~01~#049
+;00000031{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|52
+@00005D80-00005DB2-01
+;00000000{Hyper aura!~0D~~06~~0A~Buy it?___~0D~~06~~0C~_(A button chooses)_~01~}#069#048
+Hyper aura!~0D~~06~~0A~Buy it?___~0D~~06~~0C~_(A button chooses)_~01~#048
+;00000030{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|51
+@00005DB8-00005DEC-01
+;00000000{Super condor!~0D~~06~~0A~Buy it?___~0D~~06~~0C~_(A button chooses)_~01~}#071#050
+Super condor!~0D~~06~~0A~Buy it?___~0D~~06~~0C~_(A button chooses)_~01~#050
+;00000032{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|53
+@00005DF2-00005E1C-01
+;00000000{1UP!!!~0D~~06~~0A~Buy it?~0D~~06~~0C~_(A button chooses)_~01~}#061#040
+1UP!!!~0D~~06~~0A~Buy it?~0D~~06~~0C~_(A button chooses)_~01~#040
+;00000028{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|43
+@00005E22-00005E52-01
+;00000000{Super cake.~0D~~06~~0A~Buy it?_~0D~~06~~0C~_(A button chooses)_~01~}#067#046
+Super cake.~0D~~06~~0A~Buy it?_~0D~~06~~0C~_(A button chooses)_~01~#046
+;0000002E{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|49
+@00005E58-00005E8A-01
+;00000000{First aid kit.~0D~~06~~0A~Buy it?~0D~~06~~0C~_(A button chooses)_~01~}#069#048
+First aid kit.~0D~~06~~0A~Buy it?~0D~~06~~0C~_(A button chooses)_~01~#048
+;00000030{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|51
+@00005E90-00005ED3-01
+;00000000{Allows you to aim~0D~~06~~0A~your shots.__________~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~}#098#065
+Allows you to aim~0D~~06~~0A~your shots.__________~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~#065
+;00000041{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|68
+@00005ED9-00005F18-01
+;00000000{Quicker shots~0D~~06~~0A~with a wide path.____~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~}#094#061
+Quicker shots~0D~~06~~0A~with a wide path.____~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~#061
+;0000003D{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|64
+@00005F1E-00005F4D-01
+;00000000{Shoot with big aura. ~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~}#069#045
+Shoot with big aura. ~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~#045
+;0000002D{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|48
+@00005F53-00005F83-01
+;00000000{Condor's power up.    ~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~}#070#046
+Condor's power up.    ~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~#046
+;0000002E{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|49
+@00005F89-00005FB3-01
+;00000000{One more life.  ~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~}#064#040
+One more life.  ~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~#040
+;00000028{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|43
+@00005FB9-00005FF3-01
+;00000000{This is a~0D~~06~~0A~tasty looking cake._~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~}#089#056
+This is a~0D~~06~~0A~tasty looking cake._~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~#056
+;00000038{~00~~0F~~00~}#012#003
+~00~~0F~~00~#003
+|59
+@00005FF9-00006027-01
+;00000000{Recovers strength.__~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~}#068#044
+Recovers strength.__~0D~~06~~0C~_(A~A5~~A5~Buy_/_B~A5~~A5~Stop)_~01~#044
+;0000002C{~00~~0F~~02~}#012#003
+~00~~0F~~02~#003
+|47
+@0000602B-00006069-01
+;00000000{Mitsume defeated the~0D~~06~~17~goblin_boy.~0D~~06~~19~But it wasn't over... ~0F~~02~~0D~~06~}#093#063
+Mitsume defeated the~0D~~06~~17~goblin_boy.~0D~~06~~19~But it wasn't over... ~0F~~02~~0D~~06~#063
+|63
+@0000606B-0000608F-01
+;00000000{His journey had only ~0D~~06~~17~begun.   ~0F~~02~~0D~~06~}#058#037
+His journey had only ~0D~~06~~17~begun.   ~0F~~02~~0D~~06~#037
+|37
+@00006091-000060CF-01
+;00000000{The strange, plant-~0D~~06~~17~like creature was ~0D~~06~~19~now defeated.   ~0F~~02~~0D~~06~}#093#063
+The strange, plant-~0D~~06~~17~like creature was ~0D~~06~~19~now defeated.   ~0F~~02~~0D~~06~#063
+|63
+@000060D1-00006104-01
+;00000000{But there was still   ~0D~~06~~17~more work to be done.  ~0F~~02~~0D~~06~}#073#052
+But there was still   ~0D~~06~~17~more work to be done.  ~0F~~02~~0D~~06~#052
+|52
+@00006106-00006147-01
+;00000000{The area's abnormal ~0D~~06~~17~boss was put out of  ~0D~~06~~19~operation.     ~0F~~02~~0D~~06~}#096#066
+The area's abnormal ~0D~~06~~17~boss was put out of  ~0D~~06~~19~operation.     ~0F~~02~~0D~~06~#066
+|66
+@00006149-0000616E-01
+;00000000{Now there was a new  ~0D~~06~~17~problem.  ~0F~~02~~0D~~06~}#059#038
+Now there was a new  ~0D~~06~~17~problem.  ~0F~~02~~0D~~06~#038
+|38
+@00006170-000061BB-01
+;00000000{The ship's ghostly boss~0D~~06~~17~had been destroyed.  ~0D~~06~~19~But all was not well. ~0F~~02~~0D~~06~}#106#076
+The ship's ghostly boss~0D~~06~~17~had been destroyed.  ~0D~~06~~19~But all was not well. ~0F~~02~~0D~~06~#076
+|76
+@000061BD-000061EE-01
+;00000000{The biggest battle   ~0D~~06~~17~was yet to come.     ~0D~~06~~19~_~0F~}#071#050
+The biggest battle   ~0D~~06~~17~was yet to come.     ~0D~~06~~19~_~0F~#050
+|50
+@000061F3-00006233-01
+;00000000{The evil had been   ~0D~~06~~17~defeated and  ~0D~~06~~19~peace was restored.  ~0F~~02~~0D~~06~}#095#065
+The evil had been   ~0D~~06~~17~defeated and  ~0D~~06~~19~peace was restored.  ~0F~~02~~0D~~06~#065
+|65
+@00006235-00006270-01
+;00000000{A voice spoke.~0D~~06~~17~You have done well,_~0D~~06~~19~you spoony bard!~0F~~02~~0F~~02~}#090#060
+A voice spoke.~0D~~06~~17~You have done well,_~0D~~06~~19~you spoony bard!~0F~~02~~0F~~02~#060
+|60

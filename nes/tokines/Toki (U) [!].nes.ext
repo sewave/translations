@@ -1,0 +1,32 @@
+@00000386-000003B8-FF
+;00000000{`PUSH START BUTTON    1 PLAYER         2 PLAYERS    g~04~~00~Xw~04~~00~X~A0~}#076#061
+`PUSH START BUTTON    1 PLAYER         2 PLAYERS    g~04~~00~Xw~04~~00~X~A0~#061
+|61
+@0000045B-00000470-FF
+;00000000{`1UP  HIGH SCORE     2UP~A9~m~85~}#033#027
+`1UP  HIGH SCORE     2UP~A9~m~85~#027
+|27
+@0000047F-00000492-00
+;00000000{%1 PLAYER~00~~EC~%2 PLAYERS~00~~00~~00~~A2~~00~}#047#026
+%1 PLAYER~00~~EC~%2 PLAYERS~00~~00~~00~~A2~~00~#026
+|26
+@00000A1F-00000A35-00
+;00000000{!STAGE~00~~00~~CF~!PLAYER~00~~0D~"STAGE~00~~00~~AD~~16~~01~}#059#029
+!STAGE~00~~00~~CF~!PLAYER~00~~0D~"STAGE~00~~00~~AD~~16~~01~#029
+|29
+@00000AD5-00000B12-00
+;00000000{ `~EC~%GAME OVER~00~~00~~EA~%PLAYER  GAME OVER~00~~00~~ED~%THE END~00~~00~~EB~%PLAYER  THE END~00~~00~~A9~+~85~}#111#069
+ `~EC~%GAME OVER~00~~00~~EA~%PLAYER  GAME OVER~00~~00~~ED~%THE END~00~~00~~EB~%PLAYER  THE END~00~~00~~A9~+~85~#069
+|69
+@00000B3D-00000BE2-FF
+;00000000{ `~23~!Won't you press the A or B~00~C! button again and challenge~00~c!your own ability ?~00~~A3~!Otherwise, you shall remain~00~~C3~!as an ape the rest of your~00~~E3~!life !~00~X"YES~00~~98~"NO~00~~C2~"CREDIT~00~~00~~A2~~00~~A0~}#231#174
+ `~23~!Won't you press the A or B~00~C! button again and challenge~00~c!your own ability ?~00~~A3~!Otherwise, you shall remain~00~~C3~!as an ape the rest of your~00~~E3~!life !~00~X"YES~00~~98~"NO~00~~C2~"CREDIT~00~~00~~A2~~00~~A0~#174
+|174
+@000512DC-000513DC-FF
+;00000000{TAITO 1991                                                LICENSED BY TAD CORP.                                                LICENSED BY              NINTENDO OF AMERICA INC.                                                                    UUUUUUUU~00~~00~~00~~00~~00~}#272#257
+TAITO 1991                                                LICENSED BY TAD CORP.                                                LICENSED BY              NINTENDO OF AMERICA INC.                                                                    UUUUUUUU~00~~00~~00~~00~~00~#257
+|257
+@00052410-00052F50-FF
+;00000000{      1:LABYRINTH OF CAVES                                        The evil hand of ~81~~80~~8E~~86~~8F~}#103#088
+      1:LABYRINTH OF CAVES                                        The evil hand of ~81~~80~~8E~~86~~8F~#088
+|88

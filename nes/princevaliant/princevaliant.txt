@@ -1,0 +1,96 @@
+@000000B1-0000022E-FF
+;00000000{Congratulations !~00~~00~King Arthur is impressed~00~and astounded at the way~00~Valiant braved and bested~00~ dungeon, traps and the~00~snares of Knights and~00~guards alike. He therefore~00~grants the young Prince~00~permission to enter a~00~training programme in~00~preparation for becoming~00~a Knight of the~00~Round Table.~00~~00~You have helped Valiant~00~complete his quest for~00~Camelot.~00~~00~And now ,~00~~00~The Legend Begins ....~00~}#448#382
+Congratulations !~00~~00~King Arthur is impressed~00~and astounded at the way~00~Valiant braved and bested~00~ dungeon, traps and the~00~snares of Knights and~00~guards alike. He therefore~00~grants the young Prince~00~permission to enter a~00~training programme in~00~preparation for becoming~00~a Knight of the~00~Round Table.~00~~00~You have helped Valiant~00~complete his quest for~00~Camelot.~00~~00~And now ,~00~~00~The Legend Begins ....~00~#382
+|382
+@0001A6AA-0001A74A-FF
+;00000000{CONTINUE~FF~}#012#009
+CONTINUE~FF~#009
+;00000009{ppWEITER~FF~}#012#009
+ppWEITER~FF~#009
+;00000012{~60~PGAME OVER~FF~}#018#012
+~60~PGAME OVER~FF~#012
+;0000001E{hPSPIEL AUS~FF~}#015#012
+hPSPIEL AUS~FF~#012
+;0000002A{~60~PFIN DE JEU~FF~}#019#013
+~60~PFIN DE JEU~FF~#013
+;00000037{~60~8SORRY OUT~00~  OF TIME~FF~}#031#022
+~60~8SORRY OUT~00~  OF TIME~FF~#022
+;0000004D{h8 DIE ZEIT~00~      IST~00~LEIDER UM~FF~}#041#032
+h8 DIE ZEIT~00~      IST~00~LEIDER UM~FF~#032
+;0000006D{d(   D~5C~SOL~5C~~00~VOUS AVEZ~00~  D~5C~PASS~5C~~00~ LE TEMPS~00~   PERMIS~FF~}#079#052
+d(   D~5C~SOL~5C~~00~VOUS AVEZ~00~  D~5C~PASS~5C~~00~ LE TEMPS~00~   PERMIS~FF~#052
+|161
+@0001B36F-0001B4A2-00
+;00000000{CONGRATULATIONS !~00~}#021#018
+CONGRATULATIONS !~00~#018
+;00000012{~02~~05~~06~YOU ARE IN THE TOP SIX~00~}#038#026
+~02~~05~~06~YOU ARE IN THE TOP SIX~00~#026
+;0000002C{~02~~05~~0C~PLEASE ENTER YOUR NAME.~00~}#039#027
+~02~~05~~0C~PLEASE ENTER YOUR NAME.~00~#027
+;00000047{~02~~0C~~12~"      "~00~}#024#012
+~02~~0C~~12~"      "~00~#012
+;00000053{~00~}#004#001
+~00~#001
+;00000054{~00~}#004#001
+~00~#001
+;00000055{~0A~~00~}#008#002
+~0A~~00~#002
+;00000057{~00~}#004#001
+~00~#001
+;00000058{~04~ ~23~~E0~U~00~}#018#006
+~04~ ~23~~E0~U~00~#006
+;0000005E{~02~~0A~~10~LEVEL X COMPLETE~00~}#032#020
+~02~~0A~~10~LEVEL X COMPLETE~00~#020
+;00000072{~02~~0A~~18~SCORE:~00~}#022#010
+~02~~0A~~18~SCORE:~00~#010
+;0000007C{~00~}#004#001
+~00~#001
+;0000007D{ LIVES = @@@@ X 500  TIME = @@:@@ X 10TOKENS = @@@ X 50  ENERGY = @@@@ X 10 DIST   = @@@@ X 10 GUNS = @@@@@@ X 100~06~~23~!SCORE~60~~05~~23~5TIME~60~~07~~23~uTOKENS~60~~06~~23~.~03~~04~~05~~06~~07~~08~~06~~23~aENERGY~04~~23~uDIST~06~~23~a~60~ENEMY~04~~23~uGUNS~01~}#264#183
+ LIVES = @@@@ X 500  TIME = @@:@@ X 10TOKENS = @@@ X 50  ENERGY = @@@@ X 10 DIST   = @@@@ X 10 GUNS = @@@@@@ X 100~06~~23~!SCORE~60~~05~~23~5TIME~60~~07~~23~uTOKENS~60~~06~~23~.~03~~04~~05~~06~~07~~08~~06~~23~aENERGY~04~~23~uDIST~06~~23~a~60~ENEMY~04~~23~uGUNS~01~#183
+|308
+@0001FC45-0001FC92-FF
+;00000000{GAME~60~~60~PAUSED~60~~60~SILENCE~60~~60~~60~~60~MUSIC~60~~60~~60~~60~EFFECTS~60~~60~MUSIC+FX~60~A+B~60~=~60~QUIT~60~~60~~60~~60~START~60~=~60~GO~60~~60~}#153#078
+GAME~60~~60~PAUSED~60~~60~SILENCE~60~~60~~60~~60~MUSIC~60~~60~~60~~60~EFFECTS~60~~60~MUSIC+FX~60~A+B~60~=~60~QUIT~60~~60~~60~~60~START~60~=~60~GO~60~~60~#078
+|78
+@0000C073-0000C0FD-00
+;00000000{Valiant's  highest scores~00~}#029#026
+Valiant's  highest scores~00~#026
+;0000001A{  1 ~01~~05~~00~}#016#007
+  1 ~01~~05~~00~#007
+;00000021{ ~01~~07~~00~}#013#004
+ ~01~~07~~00~#004
+;00000025{Lev ~01~~06~~00~}#016#007
+Lev ~01~~06~~00~#007
+;0000002C{~00~}#004#001
+~00~#001
+;0000002D{  2 ~01~~05~~01~ ~01~~07~~01~Lev ~01~~06~~01~~00~}#049#019
+  2 ~01~~05~~01~ ~01~~07~~01~Lev ~01~~06~~01~~00~#019
+;00000040{  3 ~01~~05~~02~ ~01~~07~~02~Lev ~01~~06~~02~~00~}#049#019
+  3 ~01~~05~~02~ ~01~~07~~02~Lev ~01~~06~~02~~00~#019
+;00000053{  4 ~01~~05~~03~ ~01~~07~~03~Lev ~01~~06~~03~~00~}#049#019
+  4 ~01~~05~~03~ ~01~~07~~03~Lev ~01~~06~~03~~00~#019
+;00000066{  5 ~01~~05~~04~ ~01~~07~~04~Lev ~01~~06~~04~~00~}#049#019
+  5 ~01~~05~~04~ ~01~~07~~04~Lev ~01~~06~~04~~00~#019
+;00000079{  6 ~01~~05~~05~ ~01~~07~~05~Lev ~01~~06~~05~}#045#018
+  6 ~01~~05~~05~ ~01~~07~~05~Lev ~01~~06~~05~#018
+|139
+@0001A753-0001A95C-FF
+;00000000{The Legend Begins ......~00~~00~The saga of Prince Valiant~00~and his quest for Camelot.~00~~00~Of brave Knights and~00~shadowy practitioners~00~of evil.~00~~00~Level 1 - The Marsh~00~~00~Valiant encounters a marsh,~00~which he knows he must~00~cross if he is to realize his~00~dream of finding Camelot.~00~~00~But the path across seems~00~broken and in places~00~uncrossable.~00~~00~Valiant must cross the marsh~00~any way he can using safe~00~areas.~00~~00~This marsh is inhabited~00~by a large monster~00~which he must encounter~00~and destroy in order to~00~continue on his Quest~00~for Camelot.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#639#522
+The Legend Begins ......~00~~00~The saga of Prince Valiant~00~and his quest for Camelot.~00~~00~Of brave Knights and~00~shadowy practitioners~00~of evil.~00~~00~Level 1 - The Marsh~00~~00~Valiant encounters a marsh,~00~which he knows he must~00~cross if he is to realize his~00~dream of finding Camelot.~00~~00~But the path across seems~00~broken and in places~00~uncrossable.~00~~00~Valiant must cross the marsh~00~any way he can using safe~00~areas.~00~~00~This marsh is inhabited~00~by a large monster~00~which he must encounter~00~and destroy in order to~00~continue on his Quest~00~for Camelot.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#522
+|522
+@0001A967-0001AB70-FF
+;00000000{Level 2 - The Forest~00~~00~After a short rest, Valiant~00~must continue onto the~00~next stage of his journey.~00~~00~This involves crossing~00~through a large forest~00~armed with a crossbow~00~he took from a robber~00~who attacked him in the~00~marsh.~00~~00~The forest is inhabited by~00~a host of evil cut-throats,~00~all with a common aim.~00~~00~To rob Valiant.~00~~00~Progress through the forest~00~will be most successful in~00~short bursts~3B~ crossing~00~open areas then taking cover~00~behind a tree.~00~~00~Valiant must emerge safely~00~from the forest to go~00~onto the next stage.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#639#522
+Level 2 - The Forest~00~~00~After a short rest, Valiant~00~must continue onto the~00~next stage of his journey.~00~~00~This involves crossing~00~through a large forest~00~armed with a crossbow~00~he took from a robber~00~who attacked him in the~00~marsh.~00~~00~The forest is inhabited by~00~a host of evil cut-throats,~00~all with a common aim.~00~~00~To rob Valiant.~00~~00~Progress through the forest~00~will be most successful in~00~short bursts~3B~ crossing~00~open areas then taking cover~00~behind a tree.~00~~00~Valiant must emerge safely~00~from the forest to go~00~onto the next stage.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#522
+|522
+@0001AB7B-0001AE78-FF
+;00000000{Level 3 - The Viking~00~~00~Valiant has discovered~00~the skeleton of a man~00~who, judging by his~00~dress, must have been~00~a Viking.~00~~00~On closer inspection~00~Valiant sees an arrow~00~lodged in the man's~00~armour which, being~00~inquisitive, Valiant~00~tries to draw free.~00~~00~On doing so the ground~00~beneath his feet opens up~00~and he plunges into a cave~00~deep below.~00~~00~Valiant soon discovers~00~someone, in fact many~00~people, have been there~00~before him, as a maze of~00~wooden bridges and~00~platforms have been~00~built, extending far out~00~of sight.~00~~00~It soon becomes apparent~00~that the platforms are~00~in fact an intricate maze~00~with some deadly built-in~00~booby-traps to hinder his~00~movements rather than~00~aid them.~00~~00~Valiant is a natural~00~athlete and his talents~00~will be needed if he is to~00~escape with his life.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#919#766
+Level 3 - The Viking~00~~00~Valiant has discovered~00~the skeleton of a man~00~who, judging by his~00~dress, must have been~00~a Viking.~00~~00~On closer inspection~00~Valiant sees an arrow~00~lodged in the man's~00~armour which, being~00~inquisitive, Valiant~00~tries to draw free.~00~~00~On doing so the ground~00~beneath his feet opens up~00~and he plunges into a cave~00~deep below.~00~~00~Valiant soon discovers~00~someone, in fact many~00~people, have been there~00~before him, as a maze of~00~wooden bridges and~00~platforms have been~00~built, extending far out~00~of sight.~00~~00~It soon becomes apparent~00~that the platforms are~00~in fact an intricate maze~00~with some deadly built-in~00~booby-traps to hinder his~00~movements rather than~00~aid them.~00~~00~Valiant is a natural~00~athlete and his talents~00~will be needed if he is to~00~escape with his life.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#766
+|766
+@0001AE83-0001B051-FF
+;00000000{Level 4 - The Sea Battle~00~~00~Now, with the Viking~00~ring in his possession,~00~Valiant is more determined~00~than ever to reach Camelot~00~and fulfil his dream of~00~becoming a Knight.~00~~00~His journey now involves a~00~treacherous sea-crossing.~00~The voyage is a rough one.~00~Valiant's ship is set upon~00~by both elements, and a~00~band of hostile sea-going~00~Vikings.~00~~00~The young Prince realizes~00~that there is no chance of~00~out-running this evil~00~armada, hence a fierce~00~sea battle ensues.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#559#463
+Level 4 - The Sea Battle~00~~00~Now, with the Viking~00~ring in his possession,~00~Valiant is more determined~00~than ever to reach Camelot~00~and fulfil his dream of~00~becoming a Knight.~00~~00~His journey now involves a~00~treacherous sea-crossing.~00~The voyage is a rough one.~00~Valiant's ship is set upon~00~by both elements, and a~00~band of hostile sea-going~00~Vikings.~00~~00~The young Prince realizes~00~that there is no chance of~00~out-running this evil~00~armada, hence a fierce~00~sea battle ensues.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#463
+|463
+@0001B05C-0001B2CD-FF
+;00000000{Level 5 - Camelot~00~~00~Valiant wakes up one~00~morning to the sound~00~of mighty hoofbeats~00~approaching the~00~castle-keep.~00~~00~He Quickly stands to~00~witness an incredible~00~vision of a Knight with~00~the emblem of Camelot on~00~his shield galloping~00~past him.~00~~00~Certain that this is~00~the way to King Arthur's~00~castle, he follows the~00~Knight.~00~~00~Soon he is standing in~00~front of one of the most~00~splendid spectacles on~00~earth ... Camelot!~00~~00~However, his entrance is~00~not met with the grandeur~00~he expected.~00~~00~When he shows the guard~00~at the gate the Viking~00~ring and announces his~00~mission to speak with~00~King Arthur, he is~00~immediately escorted~00~ to a dungeon.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#764#626
+Level 5 - Camelot~00~~00~Valiant wakes up one~00~morning to the sound~00~of mighty hoofbeats~00~approaching the~00~castle-keep.~00~~00~He Quickly stands to~00~witness an incredible~00~vision of a Knight with~00~the emblem of Camelot on~00~his shield galloping~00~past him.~00~~00~Certain that this is~00~the way to King Arthur's~00~castle, he follows the~00~Knight.~00~~00~Soon he is standing in~00~front of one of the most~00~splendid spectacles on~00~earth ... Camelot!~00~~00~However, his entrance is~00~not met with the grandeur~00~he expected.~00~~00~When he shows the guard~00~at the gate the Viking~00~ring and announces his~00~mission to speak with~00~King Arthur, he is~00~immediately escorted~00~ to a dungeon.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#626
+|626

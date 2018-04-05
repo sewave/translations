@@ -1,0 +1,292 @@
+@00004F74-0000505A-00
+;00000000{PRESS START BUTTON~00~}#022#019
+PRESS START BUTTON~00~#019
+;00000013{~00~}#004#001
+~00~#001
+;00000014{~CA~~16~~A0~~00~}#016#004
+~CA~~16~~A0~~00~#004
+;00000018{~00~}#004#001
+~00~#001
+;00000019{~11~PRESS START BUTTON~00~}#026#020
+~11~PRESS START BUTTON~00~#020
+;0000002D{~00~}#004#001
+~00~#001
+;0000002E{~CA~~16~~A0~~00~}#016#004
+~CA~~16~~A0~~00~#004
+;00000032{~00~}#004#001
+~00~#001
+;00000033{~11~                  ~00~}#026#020
+~11~                  ~00~#020
+;00000047{~00~}#004#001
+~00~#001
+;00000048{~CC~~8A~~80~~00~}#016#004
+~CC~~8A~~80~~00~#004
+;0000004C{~00~}#004#001
+~00~#001
+;0000004D{~1D~~00~}#008#002
+~1D~~00~#002
+;0000004F{~01~    ~40~ 1989 TAD CORPORATION    REPROGRAMMED GAME  ~40~ 1991 SEGA~00~}#074#062
+~01~    ~40~ 1989 TAD CORPORATION    REPROGRAMMED GAME  ~40~ 1991 SEGA~00~#062
+;0000008D{~00~}#004#001
+~00~#001
+;0000008E{~C7~~9A~~80~~00~}#016#004
+~C7~~9A~~80~~00~#004
+;00000092{~00~}#004#001
+~00~#001
+;00000093{~0F~~00~}#008#002
+~0F~~00~#002
+;00000095{~04~  1 PLAYER START                  2 PLAYER START                  OPTIONS       ~00~}#088#082
+~04~  1 PLAYER START                  2 PLAYER START                  OPTIONS       ~00~#082
+|231
+@000050EE-00005132-00
+;00000000{ OPTION MENU                  ~00~}#034#031
+ OPTION MENU                  ~00~#031
+;0000001F{~00~}#004#001
+~00~#001
+;00000020{~C1~~0A~~C0~~00~}#016#004
+~C1~~0A~~C0~~00~#004
+;00000024{~00~}#004#001
+~00~#001
+;00000025{~1C~ OPTION MENU                  ~00~}#038#032
+~1C~ OPTION MENU                  ~00~#032
+|69
+@00005154-00005351-00
+;00000000{ OPTION MENU                                                 PLAYERS                       DIFFICULTY    NOMAL           EXTENDED PLAY  70000/150000   CONTINUES     3                                             CONTROL PAD   A : SHOT                      B : JUMP                      C : JUMP                                      MUSIC         00              S.E.          00              VOICE         00                                            EXIT : PUSH START BUTTOM!                                  }#510#510
+ OPTION MENU                                                 PLAYERS                       DIFFICULTY    NOMAL           EXTENDED PLAY  70000/150000   CONTINUES     3                                             CONTROL PAD   A : SHOT                      B : JUMP                      C : JUMP                                      MUSIC         00              S.E.          00              VOICE         00                                            EXIT : PUSH START BUTTOM!                                  #510
+|510
+@00005590-00005712-00
+;00000000{NORMAL  EASY    HARD    HARDEST ~80~~00~}#040#034
+NORMAL  EASY    HARD    HARDEST ~80~~00~#034
+;00000022{~00~}#004#001
+~00~#001
+;00000023{~05~ONLY  ~80~~00~}#018#009
+~05~ONLY  ~80~~00~#009
+;0000002C{~00~}#004#001
+~00~#001
+;0000002D{~05~EVERY ~80~~00~}#018#009
+~05~EVERY ~80~~00~#009
+;00000036{~00~}#004#001
+~00~#001
+;00000037{~05~000000~80~~00~}#018#009
+~05~000000~80~~00~#009
+;00000040{~00~}#004#001
+~00~#001
+;00000041{~03~NO  FREE~80~~00~}#020#011
+~03~NO  FREE~80~~00~#011
+;0000004C{~00~}#004#001
+~00~#001
+;0000004D{~03~ON  ~80~~00~}#016#007
+~03~ON  ~80~~00~#007
+;00000054{~00~}#004#001
+~00~#001
+;00000055{~03~OFF ~80~~00~}#016#007
+~03~OFF ~80~~00~#007
+;0000005C{~00~}#004#001
+~00~#001
+;0000005D{~09~~00~}#008#002
+~09~~00~#002
+;0000005F{~02~A : JUMP  B : SHOT  C : JUMP  A : SHOT  B : JUMP  C : SHOT  A : JUMP  B : SHOT  C : JUMP  A : SHOT  B : JUMP  C : SHOT  ~00~}#128#122
+~02~A : JUMP  B : SHOT  C : JUMP  A : SHOT  B : JUMP  C : SHOT  A : JUMP  B : SHOT  C : JUMP  A : SHOT  B : JUMP  C : SHOT  ~00~#122
+;000000D9{~00~}#004#001
+~00~#001
+;000000DA{~AC~~00~}#008#002
+~AC~~00~#002
+;000000DC{~80~~00~}#008#002
+~80~~00~#002
+;000000DE{~00~}#004#001
+~00~#001
+;000000DF{'~00~}#005#002
+'~00~#002
+;000000E1{~03~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~  PLAYER x  TIME            JUJU  FOOD    xxxxxxxx  x:xx             xx    xx                                           ~00~}#288#162
+~03~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~~7E~  PLAYER x  TIME            JUJU  FOOD    xxxxxxxx  x:xx             xx    xx                                           ~00~#162
+|387
+@00005744-000057F0-00
+;00000000{                 PAUSE!                   HIGH SCORE   STAGE  x-x     LEVEL         12345678   CREDIT  x      xxxxxx                                            ~00~}#164#161
+                 PAUSE!                   HIGH SCORE   STAGE  x-x     LEVEL         12345678   CREDIT  x      xxxxxx                                            ~00~#161
+;000000A1{~00~}#004#001
+~00~#001
+;000000A2{~AC~~B8~~80~~00~}#016#004
+~AC~~B8~~80~~00~#004
+;000000A6{~00~}#004#001
+~00~#001
+;000000A7{~03~TOKI~00~}#012#006
+~03~TOKI~00~#006
+|173
+@0000583E-0000585C-00
+;00000000{FREE PLAY!~00~}#014#011
+FREE PLAY!~00~#011
+;0000000B{~00~}#004#001
+~00~#001
+;0000000C{~AB~~1E~~80~~00~}#016#004
+~AB~~1E~~80~~00~#004
+;00000010{~00~}#004#001
+~00~#001
+;00000011{~0B~NO CONTINUE!~00~}#020#014
+~0B~NO CONTINUE!~00~#014
+|31
+@000058E4-00005984-00
+;00000000{               PLAYER x                                                                       TIME OUT !                                                        ~00~}#164#161
+               PLAYER x                                                                       TIME OUT !                                                        ~00~#161
+|161
+@000059B6-00005A56-00
+;00000000{               PLAYER x                                                                     GO TO START !!                                                      ~00~}#164#161
+               PLAYER x                                                                     GO TO START !!                                                      ~00~#161
+|161
+@00005AE0-00005CB2-00
+;00000000{GATE OF MOORNAH:      BOLORAGOG:      SARUMARIN:       RAMBACHA:       MOGULVAR:      ZORZAMOTH:        BASHTAR:          JIJIE:          JIJIE:     VOOKIMEDLO:~00~}#164#161
+GATE OF MOORNAH:      BOLORAGOG:      SARUMARIN:       RAMBACHA:       MOGULVAR:      ZORZAMOTH:        BASHTAR:          JIJIE:          JIJIE:     VOOKIMEDLO:~00~#161
+;000000A1{~00~}#004#001
+~00~#001
+;000000A2{~AB~~06~~80~~00~}#016#004
+~AB~~06~~80~~00~#004
+;000000A6{~00~}#004#001
+~00~#001
+;000000A7{~0F~STARK=S MACHINE:       PRIMEVAL:         BOOMER:        EYESORE:        BELCHER:CRYSTAL MAMMOTH:        BASHTAR:          STARK:          STARK:       MEMBRANE:~00~}#168#162
+~0F~STARK=S MACHINE:       PRIMEVAL:         BOOMER:        EYESORE:        BELCHER:CRYSTAL MAMMOTH:        BASHTAR:          STARK:          STARK:       MEMBRANE:~00~#162
+;00000149{~00~}#004#001
+~00~#001
+;0000014A{~C6~~16~~A0~~00~}#016#004
+~C6~~16~~A0~~00~#004
+;0000014E{~00~}#004#001
+~00~#001
+;0000014F{~11~PLAYER x GAME OVER~00~}#026#020
+~11~PLAYER x GAME OVER~00~#020
+;00000163{~00~}#004#001
+~00~#001
+;00000164{~C6~$~A0~~00~}#013#004
+~C6~$~A0~~00~#004
+;00000168{~00~}#004#001
+~00~#001
+;00000169{~00~}#004#001
+~00~#001
+;0000016A{~C9~~12~~80~~00~}#016#004
+~C9~~12~~80~~00~#004
+;0000016E{~00~}#004#001
+~00~#001
+;0000016F{~09~~00~}#008#002
+~09~~00~#002
+;00000171{~05~ PLAYER x           ~40~CONTINUE  E N D               TIME : xx~00~}#071#062
+~05~ PLAYER x           ~40~CONTINUE  E N D               TIME : xx~00~#062
+;000001AF{~00~}#004#001
+~00~#001
+;000001B0{~CC~~AC~~80~~00~}#016#004
+~CC~~AC~~80~~00~#004
+;000001B4{~00~}#004#001
+~00~#001
+;000001B5{~09~CREDIT  x ~00~}#018#012
+~09~CREDIT  x ~00~#012
+;000001C1{~00~}#004#001
+~00~#001
+;000001C2{~CC~~AC~~80~~00~}#016#004
+~CC~~AC~~80~~00~#004
+;000001C6{~00~}#004#001
+~00~#001
+;000001C7{~09~FREE PLAY!~00~}#018#012
+~09~FREE PLAY!~00~#012
+|467
+@00005E4E-00005EBA-00
+;00000000{                                                                                           PRESS START BUTTON}#109#109
+                                                                                           PRESS START BUTTON#109
+|109
+@00005ED8-00005F02-00
+;00000000{   STAGE  x                 PLAYER x START~00~}#046#043
+   STAGE  x                 PLAYER x START~00~#043
+|43
+@00005F18-00006120-00
+;00000000{           < LEGEND OF JUJU >                       MEGA DRIVE STAFF                                                             GAME DESIGN   GONCHAN                    PROGRAMMER   YAJIMA                                  AOKI                        CHARACTER   KANCHAN                                 TORIUMI                                 HIRAMA                                  OKIYAMA                         SOUND   NAGAO                                   MURASAKI                                AKIYAMA          ~00~}#524#521
+           < LEGEND OF JUJU >                       MEGA DRIVE STAFF                                                             GAME DESIGN   GONCHAN                    PROGRAMMER   YAJIMA                                  AOKI                        CHARACTER   KANCHAN                                 TORIUMI                                 HIRAMA                                  OKIYAMA                         SOUND   NAGAO                                   MURASAKI                                AKIYAMA          ~00~#521
+|521
+@0000612A-00006379-00
+;00000000{                                                        THE END                                                                                                                                                     SEE YOU AGAIN !!            ~00~}#244#241
+                                                        THE END                                                                                                                                                     SEE YOU AGAIN !!            ~00~#241
+;000000F1{~00~}#004#001
+~00~#001
+;000000F2{~CC~~00~}#008#002
+~CC~~00~#002
+;000000F4{~80~~00~}#008#002
+~80~~00~#002
+;000000F6{~00~}#004#001
+~00~#001
+;000000F7{'~00~}#005#002
+'~00~#002
+;000000F9{~01~  INVINCIBLE COMMAND : =U A R B D C L=       WHEN=PRESS START ...=ENTER THIS.   ~00~}#088#082
+~01~  INVINCIBLE COMMAND : =U A R B D C L=       WHEN=PRESS START ...=ENTER THIS.   ~00~#082
+;0000014B{~00~}#004#001
+~00~#001
+;0000014C{~C4~~1A~~81~~40~~00~}#020#005
+~C4~~1A~~81~~40~~00~#005
+;00000151{~0F~~00~}#008#002
+~0F~~00~#002
+;00000153{~02~    PLAYER x                    STAGE x CLEAR !!~00~}#056#050
+~02~    PLAYER x                    STAGE x CLEAR !!~00~#050
+;00000185{~00~}#004#001
+~00~#001
+;00000186{~C4~0~81~~40~~00~}#017#005
+~C4~0~81~~40~~00~#005
+;0000018B{~00~}#004#001
+~00~#001
+;0000018C{~C5~&~81~~40~~00~}#017#005
+~C5~&~81~~40~~00~#005
+;00000191{~00~}#004#001
+~00~#001
+;00000192{~C4~~1A~~81~~40~~00~}#020#005
+~C4~~1A~~81~~40~~00~#005
+;00000197{~11~~00~}#008#002
+~11~~00~#002
+;00000199{~02~    PLAYER x                        ALL STAGE CLEARED ~00~}#062#056
+~02~    PLAYER x                        ALL STAGE CLEARED ~00~#056
+;000001D1{~00~}#004#001
+~00~#001
+;000001D2{~C1~~1E~~80~~00~}#016#004
+~C1~~1E~~80~~00~#004
+;000001D6{~00~}#004#001
+~00~#001
+;000001D7{~03~TOKI~00~}#012#006
+~03~TOKI~00~#006
+;000001DD{~00~}#004#001
+~00~#001
+;000001DE{~CC~~A0~~80~~00~}#016#004
+~CC~~A0~~80~~00~#004
+;000001E2{~00~}#004#001
+~00~#001
+;000001E3{~05~TIME: ~00~}#014#008
+~05~TIME: ~00~#008
+;000001EB{~00~}#004#001
+~00~#001
+;000001EC{~CC~~AA~~00~}#012#003
+~CC~~AA~~00~#003
+;000001EF{~00~}#004#001
+~00~#001
+;000001F0{~C1~~0A~~80~~00~}#016#004
+~C1~~0A~~80~~00~#004
+;000001F4{~00~}#004#001
+~00~#001
+;000001F5{~1C~~00~}#008#002
+~1C~~00~#002
+;000001F7{~15~LEGEND OF JUJU BEST PLAYERS!!                             RANK    SCORE  NAME      AREA }#092#089
+~15~LEGEND OF JUJU BEST PLAYERS!!                             RANK    SCORE  NAME      AREA #089
+|592
+@000065A8-000065B8-00
+;00000000{LEGEND OF JUJUM~F9~~00~}#023#017
+LEGEND OF JUJUM~F9~~00~#017
+|17
+@0000CAD2-0000CB74-00
+;00000000{           CONGRATULATIONS...                                                      BUT TRUE PEACE WILL NOT COME UNTIL     YOU PLAY AND DEFEAT THE HARDER MODES. 09~00~}#166#163
+           CONGRATULATIONS...                                                      BUT TRUE PEACE WILL NOT COME UNTIL     YOU PLAY AND DEFEAT THE HARDER MODES. 09~00~#163
+|163
+@0000D792-0000D7B2-00
+;00000000{      CAST            CAST      ~00~}#036#033
+      CAST            CAST      ~00~#033
+|33
+@0000E112-0000E132-00
+;00000000{     STAFF           STAFF      ~00~}#036#033
+     STAFF           STAFF      ~00~#033
+|33
+@0003CEBE-0003CFBE-FF
+;00000000{<JUJU ALL STAFF>TAKESI MATUHASHITOSHIAKI YAJIMA HIROYUKI HIRAMA ATUSHI OKIYAMA  KAYOKO SATO     TOSHIKO TORIUMI MASAYUKI NAGAO  HIROSHI MURASAKIMORIHIKO AKIYAMAIZUMI KATAOKA   YUKA TANABE     TOMOKO YUMOTO   NOZOMI SIMADA   TUKASA AOKI      MCMXCI (C)SEGA ~FF~}#260#257
+<JUJU ALL STAFF>TAKESI MATUHASHITOSHIAKI YAJIMA HIROYUKI HIRAMA ATUSHI OKIYAMA  KAYOKO SATO     TOSHIKO TORIUMI MASAYUKI NAGAO  HIROSHI MURASAKIMORIHIKO AKIYAMAIZUMI KATAOKA   YUKA TANABE     TOMOKO YUMOTO   NOZOMI SIMADA   TUKASA AOKI      MCMXCI (C)SEGA ~FF~#257
+|257
+@00008FB4-00008FB7-FF
+;00000000{ALL }#004#004
+ALL #004
+|4

@@ -1,0 +1,5 @@
+set T_FILENAME="Mighty Morphin Power Rangers - The Movie (U) [!].gg"
+set SCRIPTNAME="mmprm"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false 258F-26F1-01,39A7-39C9-01,3C8F-3CB2-10,535B-5382-FF,8146-816B-FF,833E-83FC-0B-0C-0D-0E-0F-08-09-DD,9646-A23F-FF,14446-14457-FF,252F-253D-FF,6261-626C-FF,6EB3-6EB7-FF
+java -jar Hextractor.jar -a %SCRIPTNAME%Alt.tbl %T_FILENAME% %SCRIPTNAME%Alt.txt false 95C5-95D2-FF
+pause

@@ -1,0 +1,946 @@
+@00004748-00004927-FF
+;00000000{                ~FF~}#020#017
+                ~FF~#017
+;00000011{R E A D Y~FF~}#013#010
+R E A D Y~FF~#010
+;0000001B{0000000000000000~FF~}#020#017
+0000000000000000~FF~#017
+;0000002C{00000000PTS~FF~}#015#012
+00000000PTS~FF~#012
+;00000038{GAME START~FF~}#014#011
+GAME START~FF~#011
+;00000043{OPTIONS~FF~}#011#008
+OPTIONS~FF~#008
+;0000004B{PASSWORD~FF~}#012#009
+PASSWORD~FF~#009
+;00000054{VISUALSHOCK! SPEEDSHOCK! SOUNDSHOCK!~FF~}#040#037
+VISUALSHOCK! SPEEDSHOCK! SOUNDSHOCK!~FF~#037
+;00000079{NOW IS TIME TO THE 68000 HEART ON FIRE!~FF~}#043#040
+NOW IS TIME TO THE 68000 HEART ON FIRE!~FF~#040
+;000000A1{FOR MEGADRIVERS CUSTOM~FF~}#026#023
+FOR MEGADRIVERS CUSTOM~FF~#023
+;000000B8{ ~2F~SEGA ENTERPRISES,LTD.1995~FF~}#034#028
+ ~2F~SEGA ENTERPRISES,LTD.1995~FF~#028
+;000000D4{LEVEL~FF~}#009#006
+LEVEL~FF~#006
+;000000DA{MESSAGE SWITCH~FF~}#018#015
+MESSAGE SWITCH~FF~#015
+;000000E9{BGM SWITCH~FF~}#014#011
+BGM SWITCH~FF~#011
+;000000F4{S,E SWITCH~FF~}#014#011
+S,E SWITCH~FF~#011
+;000000FF{BGM TEST~FF~}#012#009
+BGM TEST~FF~#009
+;00000108{S,E TEST~FF~}#012#009
+S,E TEST~FF~#009
+;00000111{VOICE TEST~FF~}#014#011
+VOICE TEST~FF~#011
+;0000011C{PRESS START TO EXIT~FF~}#023#020
+PRESS START TO EXIT~FF~#020
+;00000130{CONTINUE~FF~}#012#009
+CONTINUE~FF~#009
+;00000139{GAMEEND~FF~}#011#008
+GAMEEND~FF~#008
+;00000141{STAGE-~FF~}#010#007
+STAGE-~FF~#007
+;00000148{PASSWORD-~FF~}#013#010
+PASSWORD-~FF~#010
+;00000152{CREDIT-~FF~}#011#008
+CREDIT-~FF~#008
+;0000015A{LEVEL-~FF~}#010#007
+LEVEL-~FF~#007
+;00000161{EASY~FF~}#008#005
+EASY~FF~#005
+;00000166{HARD~FF~}#008#005
+HARD~FF~#005
+;0000016B{~C9~~CA~~CB~~CC~~CD~~FF~}#024#006
+~C9~~CA~~CB~~CC~~CD~~FF~#006
+;00000171{YOU LOST 3CHANCES...~FF~}#024#021
+YOU LOST 3CHANCES...~FF~#021
+;00000186{TRY AGAIN!!~FF~}#015#012
+TRY AGAIN!!~FF~#012
+;00000192{PRESS START~FF~}#015#012
+PRESS START~FF~#012
+;0000019E{RESULTS~FF~}#011#008
+RESULTS~FF~#008
+;000001A6{HIGH SCORE~FF~}#014#011
+HIGH SCORE~FF~#011
+;000001B1{SCORE~FF~}#009#006
+SCORE~FF~#006
+;000001B7{CONTINUE~FF~}#012#009
+CONTINUE~FF~#009
+;000001C0{DESTROYED ENEMIES~FF~}#021#018
+DESTROYED ENEMIES~FF~#018
+;000001D2{PLAYER DAMAGE~FF~}#017#014
+PLAYER DAMAGE~FF~#014
+|480
+@00005B3E-00006BB6-FF
+;00000000{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000022{THE YEAR IS 2015. THE PLANET     ~FF~}#037#034
+THE YEAR IS 2015. THE PLANET     ~FF~#034
+;00000044{SIERRA IS GRIPPED BY FEAR AND IS ~FF~}#037#034
+SIERRA IS GRIPPED BY FEAR AND IS ~FF~#034
+;00000066{IN THE MIDST OF A DEEP CRISIS.   ~FF~}#037#034
+IN THE MIDST OF A DEEP CRISIS.   ~FF~#034
+;00000088{                                 ~FF~}#037#034
+                                 ~FF~#034
+;000000AA{THE EVIL TERRORIST GROUP, SCARLET~FF~}#037#034
+THE EVIL TERRORIST GROUP, SCARLET~FF~#034
+;000000CC{ARE STILL A COMMANDING FORCE.    ~FF~}#037#034
+ARE STILL A COMMANDING FORCE.    ~FF~#034
+;000000EE{THEY HAVE THE POWER TO PREVENT   ~FF~}#037#034
+THEY HAVE THE POWER TO PREVENT   ~FF~#034
+;00000110{HUMANS TRAVELLING TO AND FROM THE~FF~}#037#034
+HUMANS TRAVELLING TO AND FROM THE~FF~#034
+;00000132{OUTSIDE UNIVERSE.                ~FF~}#037#034
+OUTSIDE UNIVERSE.                ~FF~#034
+;00000154{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000176{SCARLET'S MEMBERS CONSIST OF     ~FF~}#037#034
+SCARLET'S MEMBERS CONSIST OF     ~FF~#034
+;00000198{ARTIFICIAL BEINGS CREATED USING  ~FF~}#037#034
+ARTIFICIAL BEINGS CREATED USING  ~FF~#034
+;000001BA{SUPER GENETIC ENGINEERING BY THE ~FF~}#037#034
+SUPER GENETIC ENGINEERING BY THE ~FF~#034
+;000001DC{SIERRANS. SCARLET IS AN          ~FF~}#037#034
+SIERRANS. SCARLET IS AN          ~FF~#034
+;000001FE{UNDERGROUND ORGANIZATION THAT HAS~FF~}#037#034
+UNDERGROUND ORGANIZATION THAT HAS~FF~#034
+;00000220{BEEN SECRETLY FORMED WITH THE    ~FF~}#037#034
+BEEN SECRETLY FORMED WITH THE    ~FF~#034
+;00000242{EXPRESS INTENTION OF DESTROYING  ~FF~}#037#034
+EXPRESS INTENTION OF DESTROYING  ~FF~#034
+;00000264{THE HUMAN RACE.                  ~FF~}#037#034
+THE HUMAN RACE.                  ~FF~#034
+;00000286{                                 ~FF~}#037#034
+                                 ~FF~#034
+;000002A8{IN ADDITION TO THEIR HIGH LEVEL  ~FF~}#037#034
+IN ADDITION TO THEIR HIGH LEVEL  ~FF~#034
+;000002CA{OF INTELLIGENCE AND AWESOME      ~FF~}#037#034
+OF INTELLIGENCE AND AWESOME      ~FF~#034
+;000002EC{STRENGTH, SCARLET'S MEMBERS ARE  ~FF~}#037#034
+STRENGTH, SCARLET'S MEMBERS ARE  ~FF~#034
+;0000030E{EQUIPPED WITH PARASITIC ABILITIES~FF~}#037#034
+EQUIPPED WITH PARASITIC ABILITIES~FF~#034
+;00000330{THAT ALLOW THEM TO LIVE WITHIN   ~FF~}#037#034
+THAT ALLOW THEM TO LIVE WITHIN   ~FF~#034
+;00000352{HUMAN BEINGS, ANIMALS AND        ~FF~}#037#034
+HUMAN BEINGS, ANIMALS AND        ~FF~#034
+;00000374{MACHINERY. EQUIPPED WITH THESE   ~FF~}#037#034
+MACHINERY. EQUIPPED WITH THESE   ~FF~#034
+;00000396{ABILITIES THEY CONQUERED THE     ~FF~}#037#034
+ABILITIES THEY CONQUERED THE     ~FF~#034
+;000003B8{SIERRANS AND STAND ON THE BRINK  ~FF~}#037#034
+SIERRANS AND STAND ON THE BRINK  ~FF~#034
+;000003DA{OF OBTAINING SUPREMACY OVER      ~FF~}#037#034
+OF OBTAINING SUPREMACY OVER      ~FF~#034
+;000003FC{SIERRA.                          ~FF~}#037#034
+SIERRA.                          ~FF~#034
+;0000041E{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000440{EPSILON-EAGLE, THE BOSS OF THE   ~FF~}#037#034
+EPSILON-EAGLE, THE BOSS OF THE   ~FF~#034
+;00000462{SCARLET GROUP, IS THE INTENDED   ~FF~}#037#034
+SCARLET GROUP, IS THE INTENDED   ~FF~#034
+;00000484{TARGET OF AN ASSASSINATION       ~FF~}#037#034
+TARGET OF AN ASSASSINATION       ~FF~#034
+;000004A6{ATTEMPT BEING PLANNED BY         ~FF~}#037#034
+ATTEMPT BEING PLANNED BY         ~FF~#034
+;000004C8{SIERRANS. A SPECIAL COMBAT GROUP,~FF~}#037#034
+SIERRANS. A SPECIAL COMBAT GROUP,~FF~#034
+;000004EA{CAPABLE OF USING SUPER POWERS,   ~FF~}#037#034
+CAPABLE OF USING SUPER POWERS,   ~FF~#034
+;0000050C{WAS SECRETLY DISPATCHED TO CARRY ~FF~}#037#034
+WAS SECRETLY DISPATCHED TO CARRY ~FF~#034
+;0000052E{OUT THIS MISSION.                ~FF~}#037#034
+OUT THIS MISSION.                ~FF~#034
+;00000550{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000572{SCARLET UNLEASHED A SUDDEN ATTACK~FF~}#037#034
+SCARLET UNLEASHED A SUDDEN ATTACK~FF~#034
+;00000594{ON EPSILON WITH THEIR SUPER      ~FF~}#037#034
+ON EPSILON WITH THEIR SUPER      ~FF~#034
+;000005B6{POWERS. EPSILON, SERIOUSLY       ~FF~}#037#034
+POWERS. EPSILON, SERIOUSLY       ~FF~#034
+;000005D8{DAMAGED BY THE ATTACK, WAS THROWN~FF~}#037#034
+DAMAGED BY THE ATTACK, WAS THROWN~FF~#034
+;000005FA{INTO THE TIME-SPACE CONTINUUM    ~FF~}#037#034
+INTO THE TIME-SPACE CONTINUUM    ~FF~#034
+;0000061C{WHICH HAD BEEN ACTIVATED BY      ~FF~}#037#034
+WHICH HAD BEEN ACTIVATED BY      ~FF~#034
+;0000063E{SCARLET'S USE OF SUPER POWERS.   ~FF~}#037#034
+SCARLET'S USE OF SUPER POWERS.   ~FF~#034
+;00000660{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000682{                                 ~FF~}#037#034
+                                 ~FF~#034
+;000006A4{WITH EPSILON SEEMINGLY GONE      ~FF~}#037#034
+WITH EPSILON SEEMINGLY GONE      ~FF~#034
+;000006C6{FOREVER, XI-TIGER TOOK CONTROL OF~FF~}#037#034
+FOREVER, XI-TIGER TOOK CONTROL OF~FF~#034
+;000006E8{SCARLET AMIDST THE RESULTING     ~FF~}#037#034
+SCARLET AMIDST THE RESULTING     ~FF~#034
+;0000070A{CONFUSION. WITH XI-TIGER NOW IN  ~FF~}#037#034
+CONFUSION. WITH XI-TIGER NOW IN  ~FF~#034
+;0000072C{CHARGE, THE TERRORIST ATTACKS    ~FF~}#037#034
+CHARGE, THE TERRORIST ATTACKS    ~FF~#034
+;0000074E{AGAINST SIERRANS BECAME MORE     ~FF~}#037#034
+AGAINST SIERRANS BECAME MORE     ~FF~#034
+;00000770{FREQUENT AND BRUTAL.             ~FF~}#037#034
+FREQUENT AND BRUTAL.             ~FF~#034
+;00000792{                                 ~FF~}#037#034
+                                 ~FF~#034
+;000007B4{WITH THIS INCREASE IN ATTACKS    ~FF~}#037#034
+WITH THIS INCREASE IN ATTACKS    ~FF~#034
+;000007D6{TOWARDS SIERRANS, XI-TIGER SOON  ~FF~}#037#034
+TOWARDS SIERRANS, XI-TIGER SOON  ~FF~#034
+;000007F8{BECAME UNPOPULAR AMONGST SCARLET ~FF~}#037#034
+BECAME UNPOPULAR AMONGST SCARLET ~FF~#034
+;0000081A{MEMBERS. AS A RESULT, THE DEMANDS~FF~}#037#034
+MEMBERS. AS A RESULT, THE DEMANDS~FF~#034
+;0000083C{FOR THE RE-INSTATEMENT OF EPSILON~FF~}#037#034
+FOR THE RE-INSTATEMENT OF EPSILON~FF~#034
+;0000085E{AS THE LEADER OF THE SCARLET     ~FF~}#037#034
+AS THE LEADER OF THE SCARLET     ~FF~#034
+;00000880{GROUP BECAME STRONGER.           ~FF~}#037#034
+GROUP BECAME STRONGER.           ~FF~#034
+;000008A2{                                 ~FF~}#037#034
+                                 ~FF~#034
+;000008C4{HAVING BEEN ISOLATED FROM THE    ~FF~}#037#034
+HAVING BEEN ISOLATED FROM THE    ~FF~#034
+;000008E6{OTHER SCARLET MEMBERS, XI-TIGER  ~FF~}#037#034
+OTHER SCARLET MEMBERS, XI-TIGER  ~FF~#034
+;00000908{DECIDED TO ASSASSINATE EPSILON.  ~FF~}#037#034
+DECIDED TO ASSASSINATE EPSILON.  ~FF~#034
+;0000092A{IN AN ATTEMPT TO ACTIVATE THE    ~FF~}#037#034
+IN AN ATTEMPT TO ACTIVATE THE    ~FF~#034
+;0000094C{TIME-SPACE CONTINUUM, XI-TIGER   ~FF~}#037#034
+TIME-SPACE CONTINUUM, XI-TIGER   ~FF~#034
+;0000096E{ORDERED AN ATTACK ON THE         ~FF~}#037#034
+ORDERED AN ATTACK ON THE         ~FF~#034
+;00000990{SIERRANS' RESEARCH LABORATORY,   ~FF~}#037#034
+SIERRANS' RESEARCH LABORATORY,   ~FF~#034
+;000009B2{WHERE CHILDREN WITH SUPER POWERS ~FF~}#037#034
+WHERE CHILDREN WITH SUPER POWERS ~FF~#034
+;000009D4{WERE BEING HELD HOSTAGE HAVING   ~FF~}#037#034
+WERE BEING HELD HOSTAGE HAVING   ~FF~#034
+;000009F6{BEEN KIDNAPPED.                  ~FF~}#037#034
+BEEN KIDNAPPED.                  ~FF~#034
+;00000A18{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000A3A{XI-TIGER SENSED SOMETHING WAS    ~FF~}#037#034
+XI-TIGER SENSED SOMETHING WAS    ~FF~#034
+;00000A5C{WRONG. HE COULD FEEL THE PRESENCE~FF~}#037#034
+WRONG. HE COULD FEEL THE PRESENCE~FF~#034
+;00000A7E{OF EPSILON IN ONE OF THE BOYS.   ~FF~}#037#034
+OF EPSILON IN ONE OF THE BOYS.   ~FF~#034
+;00000AA0{HOWEVER, HE WAS UNSURE BECAUSE HE~FF~}#037#034
+HOWEVER, HE WAS UNSURE BECAUSE HE~FF~#034
+;00000AC2{COULDN'T PINPOINT THE EVIL FROM  ~FF~}#037#034
+COULDN'T PINPOINT THE EVIL FROM  ~FF~#034
+;00000AE4{EPSILON, WHO HAD ENTERED THE     ~FF~}#037#034
+EPSILON, WHO HAD ENTERED THE     ~FF~#034
+;00000B06{BOY'S BODY AND WAS NOW LIVING AS ~FF~}#037#034
+BOY'S BODY AND WAS NOW LIVING AS ~FF~#034
+;00000B28{A PARASITE INSIDE OF HIM. IN AN  ~FF~}#037#034
+A PARASITE INSIDE OF HIM. IN AN  ~FF~#034
+;00000B4A{ATTEMPT TO GET EPSILON OUT OF THE~FF~}#037#034
+ATTEMPT TO GET EPSILON OUT OF THE~FF~#034
+;00000B6C{BOY'S BODY, XI-TIGER TOOK A YOUNG~FF~}#037#034
+BOY'S BODY, XI-TIGER TOOK A YOUNG~FF~#034
+;00000B8E{GIRL HOSTAGE AND THREATENED TO   ~FF~}#037#034
+GIRL HOSTAGE AND THREATENED TO   ~FF~#034
+;00000BB0{KILL HER UNLESS EPSILON RELEASED ~FF~}#037#034
+KILL HER UNLESS EPSILON RELEASED ~FF~#034
+;00000BD2{THE BOY.                         ~FF~}#037#034
+THE BOY.                         ~FF~#034
+;00000BF4{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000C16{THE BOY FLEW INTO A RAGE AND     ~FF~}#037#034
+THE BOY FLEW INTO A RAGE AND     ~FF~#034
+;00000C38{MORPHED HIS BODY INTO EPSILON.   ~FF~}#037#034
+MORPHED HIS BODY INTO EPSILON.   ~FF~#034
+;00000C5A{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000C7C{SUDDENLY, WHERE THE BOY HAD BEEN ~FF~}#037#034
+SUDDENLY, WHERE THE BOY HAD BEEN ~FF~#034
+;00000C9E{STANDING, NOW STOOD A 'BIRDMAN'  ~FF~}#037#034
+STANDING, NOW STOOD A 'BIRDMAN'  ~FF~#034
+;00000CC0{WITH STEEL WINGS.                ~FF~}#037#034
+WITH STEEL WINGS.                ~FF~#034
+;00000CE2{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000D04{EPSILON'S MIND WAS IN CONFLICT   ~FF~}#037#034
+EPSILON'S MIND WAS IN CONFLICT   ~FF~#034
+;00000D26{AS A BATTLE BETWEEN IT'S REAL    ~FF~}#037#034
+AS A BATTLE BETWEEN IT'S REAL    ~FF~#034
+;00000D48{NATURE, HUMAN JUSTICE, AND THE   ~FF~}#037#034
+NATURE, HUMAN JUSTICE, AND THE   ~FF~#034
+;00000D6A{FOREIGN FORCE RAGED ON.          ~FF~}#037#034
+FOREIGN FORCE RAGED ON.          ~FF~#034
+;00000D8C{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000DAE{XI-TIGER COULD SENSE AN UNKNOWN  ~FF~}#037#034
+XI-TIGER COULD SENSE AN UNKNOWN  ~FF~#034
+;00000DD0{POWER WITHIN EPSILON, AND FLED   ~FF~}#037#034
+POWER WITHIN EPSILON, AND FLED   ~FF~#034
+;00000DF2{IMMEDIATELY HAVING KILLED THE    ~FF~}#037#034
+IMMEDIATELY HAVING KILLED THE    ~FF~#034
+;00000E14{GIRL FIRST.                      ~FF~}#037#034
+GIRL FIRST.                      ~FF~#034
+;00000E36{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000E58{---EPSILON---                    ~FF~}#037#034
+---EPSILON---                    ~FF~#034
+;00000E7A{'XI-TIGER,I WILL NEVER LET YOU   ~FF~}#037#034
+'XI-TIGER,I WILL NEVER LET YOU   ~FF~#034
+;00000E9C{GET AWAY.'                       ~FF~}#037#034
+GET AWAY.'                       ~FF~#034
+;00000EBE{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00000EE0{EPSILON IS NOT THE ONLY CREATURE ~FF~}#037#034
+EPSILON IS NOT THE ONLY CREATURE ~FF~#034
+;00000F02{OF HIS KIND. SOMEHOW ANOTHER     ~FF~}#037#034
+OF HIS KIND. SOMEHOW ANOTHER     ~FF~#034
+;00000F24{'BIRDMAN' WITH A SIMILAR BODY HAD~FF~}#037#034
+'BIRDMAN' WITH A SIMILAR BODY HAD~FF~#034
+;00000F46{BEEN CREATED. ALTHOUGH THEIR     ~FF~}#037#034
+BEEN CREATED. ALTHOUGH THEIR     ~FF~#034
+;00000F68{BODIES WERE IDENTICAL, THEIR     ~FF~}#037#034
+BODIES WERE IDENTICAL, THEIR     ~FF~#034
+;00000F8A{MINDS WERE VERY DIFFERENT.       ~FF~}#037#034
+MINDS WERE VERY DIFFERENT.       ~FF~#034
+;00000FAC{UNKNOWN TO EVERYBODY, THE MIND OF~FF~}#037#034
+UNKNOWN TO EVERYBODY, THE MIND OF~FF~#034
+;00000FCE{THE MYSTERIOUS NEW 'BIRDMAN' WAS ~FF~}#037#034
+THE MYSTERIOUS NEW 'BIRDMAN' WAS ~FF~#034
+;00000FF0{FILLED WITH AN EVIL AMBITION.    ~FF~}#037#034
+FILLED WITH AN EVIL AMBITION.    ~FF~#034
+;00001012{                                 ~FF~}#037#034
+                                 ~FF~#034
+;00001034{HE ALSO FLEW OFF IN SEARCH OF    ~FF~}#037#034
+HE ALSO FLEW OFF IN SEARCH OF    ~FF~#034
+;00001056{XI-TIGER..............           ~FF~}#037#034
+XI-TIGER..............           ~FF~#034
+;00001078{~FE~}#004#001
+~FE~#001
+|4217
+@0000B05F-0000B0D7-FF
+;00000000{INPUT PASSWORD~FF~}#018#015
+INPUT PASSWORD~FF~#015
+;0000000F{2 ~FF~}#006#003
+2 ~FF~#003
+;00000012{2PASSWORD ERROR~FF~}#019#016
+2PASSWORD ERROR~FF~#016
+;00000022{  ~FF~}#006#003
+  ~FF~#003
+;00000025{ STAGE-    LEVEL-EASY~FF~}#025#022
+ STAGE-    LEVEL-EASY~FF~#022
+;0000003B{2PRESS C BUTTON~FF~}#019#016
+2PRESS C BUTTON~FF~#016
+;0000004B{ STAGE-    LEVEL-NORMAL~FF~}#027#024
+ STAGE-    LEVEL-NORMAL~FF~#024
+;00000063{ STAGE-    LEVEL-HARD~FF~}#025#022
+ STAGE-    LEVEL-HARD~FF~#022
+|121
+@0000BC7C-0000BCD9-FF
+;00000000{STAGE1  WING OF THE LOSANGELES~FF~}#034#031
+STAGE1  WING OF THE LOSANGELES~FF~#031
+;0000001F{ 0123456789STAGE~FF~}#020#017
+ 0123456789STAGE~FF~#017
+;00000030{READYFIGHT!!!~FF~}#017#014
+READYFIGHT!!!~FF~#014
+;0000003E{0123456789STAGECLRBONU~FF~}#026#023
+0123456789STAGECLRBONU~FF~#023
+;00000055{ EMRGNCY~FF~}#012#009
+ EMRGNCY~FF~#009
+|94
+@00020180-00020371-FF
+;00000000{ SETUP YOUR WEAPONS ~FF~}#024#021
+ SETUP YOUR WEAPONS ~FF~#021
+;00000015{BUSTER FORCE~FF~}#016#013
+BUSTER FORCE~FF~#013
+;00000022{RANGER FORCE~FF~}#016#013
+RANGER FORCE~FF~#013
+;0000002F{FLAME FORCE~FF~}#015#012
+FLAME FORCE~FF~#012
+;0000003B{HOMING FORCE~FF~}#016#013
+HOMING FORCE~FF~#013
+;00000048{SWORD FORCE~FF~}#015#012
+SWORD FORCE~FF~#012
+;00000054{LANCER FORCE~FF~}#016#013
+LANCER FORCE~FF~#013
+;00000061{SHOOTING MODE~FF~}#017#014
+SHOOTING MODE~FF~#014
+;0000006F{MOVING~FF~}#010#007
+MOVING~FF~#007
+;00000076{FIX~FF~}#007#004
+FIX~FF~#004
+;0000007A{STATUS WINDOW~FF~}#017#014
+STATUS WINDOW~FF~#014
+;00000088{TYPE-1 ~FF~}#011#008
+TYPE-1 ~FF~#008
+;00000090{TYPE-2 ~FF~}#011#008
+TYPE-2 ~FF~#008
+;00000098{TYPE-3 ~FF~}#011#008
+TYPE-3 ~FF~#008
+;000000A0{TYPE-4 ~FF~}#011#008
+TYPE-4 ~FF~#008
+;000000A8{TYPE-5 ~FF~}#011#008
+TYPE-5 ~FF~#008
+;000000B0{TYPE-6 ~FF~}#011#008
+TYPE-6 ~FF~#008
+;000000B8{TYPE-7 ~FF~}#011#008
+TYPE-7 ~FF~#008
+;000000C0{TYPE-8 ~FF~}#011#008
+TYPE-8 ~FF~#008
+;000000C8{TYPE-9 ~FF~}#011#008
+TYPE-9 ~FF~#008
+;000000D0{TYPE-10~FF~}#011#008
+TYPE-10~FF~#008
+;000000D8{TYPE-11~FF~}#011#008
+TYPE-11~FF~#008
+;000000E0{TYPE-12~FF~}#011#008
+TYPE-12~FF~#008
+;000000E8{TYPE-13~FF~}#011#008
+TYPE-13~FF~#008
+;000000F0{TYPE-14~FF~}#011#008
+TYPE-14~FF~#008
+;000000F8{TYPE-15~FF~}#011#008
+TYPE-15~FF~#008
+;00000100{TYPE-16~FF~}#011#008
+TYPE-16~FF~#008
+;00000108{TYPE-17~FF~}#011#008
+TYPE-17~FF~#008
+;00000110{TYPE-18~FF~}#011#008
+TYPE-18~FF~#008
+;00000118{TYPE-19~FF~}#011#008
+TYPE-19~FF~#008
+;00000120{TYPE-20~FF~}#011#008
+TYPE-20~FF~#008
+;00000128{TYPE-21~FF~}#011#008
+TYPE-21~FF~#008
+;00000130{TYPE-22~FF~}#011#008
+TYPE-22~FF~#008
+;00000138{TYPE-23~FF~}#011#008
+TYPE-23~FF~#008
+;00000140{TYPE-24~FF~}#011#008
+TYPE-24~FF~#008
+;00000148{TYPE-25~FF~}#011#008
+TYPE-25~FF~#008
+;00000150{TYPE-26~FF~}#011#008
+TYPE-26~FF~#008
+;00000158{EXIT~FF~}#008#005
+EXIT~FF~#005
+;0000015D{CONTROL TEST~FF~}#016#013
+CONTROL TEST~FF~#013
+;0000016A{WEAPON SELECT - ~E0~~E1~~FF~}#028#019
+WEAPON SELECT - ~E0~~E1~~FF~#019
+;0000017D{SHOT - ~E2~~E3~~FF~}#019#010
+SHOT - ~E2~~E3~~FF~#010
+;00000187{JUMP - ~E4~~E5~~FF~}#019#010
+JUMP - ~E4~~E5~~FF~#010
+;00000191{SHOOT MODE CHANGE - ~E6~~E7~ ~E8~ ~E0~~E1~~FF~}#046#028
+SHOOT MODE CHANGE - ~E6~~E7~ ~E8~ ~E0~~E1~~FF~#028
+;000001AD{ZERO TELEPORT - ~E6~~E7~ ~E8~ ~E4~~E5~~FF~}#042#024
+ZERO TELEPORT - ~E6~~E7~ ~E8~ ~E4~~E5~~FF~#024
+;000001C5{COUNTER FORCE - ~E2~~E3~ ~E8~ ~E2~~E3~~FF~}#042#024
+COUNTER FORCE - ~E2~~E3~ ~E8~ ~E2~~E3~~FF~#024
+;000001DD{HOVERING - JUMP ~E8~ ~E4~~E5~~FF~}#033#021
+HOVERING - JUMP ~E8~ ~E4~~E5~~FF~#021
+|498
+@00020DDE-000210DA-FF
+;00000000{             ~FF~}#017#014
+             ~FF~#014
+;0000000E{JETSRIPPER           ~FF~}#025#022
+JETSRIPPER           ~FF~#022
+;00000024{ANTROID              ~FF~}#025#022
+ANTROID              ~FF~#022
+;0000003A{ROLLING~2C~SHELLSHOGUN  ~FF~}#028#022
+ROLLING~2C~SHELLSHOGUN  ~FF~#022
+;00000050{SNIPER HONEYVIPER    ~FF~}#025#022
+SNIPER HONEYVIPER    ~FF~#022
+;00000066{MADAM BARBAR         ~FF~}#025#022
+MADAM BARBAR         ~FF~#022
+;0000007C{JOKER                ~FF~}#025#022
+JOKER                ~FF~#022
+;00000092{ST-210-TEROBUSTER    ~FF~}#025#022
+ST-210-TEROBUSTER    ~FF~#022
+;000000A8{FLYING-NEO           ~FF~}#025#022
+FLYING-NEO           ~FF~#022
+;000000BE{XI-TIGER             ~FF~}#025#022
+XI-TIGER             ~FF~#022
+;000000D4{DEEP STRIDER         ~FF~}#025#022
+DEEP STRIDER         ~FF~#022
+;000000EA{GUSTHEAD             ~FF~}#025#022
+GUSTHEAD             ~FF~#022
+;00000100{SHARPSTEEL           ~FF~}#025#022
+SHARPSTEEL           ~FF~#022
+;00000116{BUGMAX               ~FF~}#025#022
+BUGMAX               ~FF~#022
+;0000012C{VICTOR               ~FF~}#025#022
+VICTOR               ~FF~#022
+;00000142{SUNSET STING         ~FF~}#025#022
+SUNSET STING         ~FF~#022
+;00000158{VIBLACK~2C~BACK STRINGER~FF~}#028#022
+VIBLACK~2C~BACK STRINGER~FF~#022
+;0000016E{EPSILON1             ~FF~}#025#022
+EPSILON1             ~FF~#022
+;00000184{DESTROYER-MK2        ~FF~}#025#022
+DESTROYER-MK2        ~FF~#022
+;0000019A{JAMPAN               ~FF~}#025#022
+JAMPAN               ~FF~#022
+;000001B0{SEVEN FORCE          ~FF~}#025#022
+SEVEN FORCE          ~FF~#022
+;000001C6{DESTROYER PROTOTYPE  ~FF~}#025#022
+DESTROYER PROTOTYPE  ~FF~#022
+;000001DC{SHIELD VIPER         ~FF~}#025#022
+SHIELD VIPER         ~FF~#022
+;000001F2{WOLFGUNBLOOD~2C~GAROPA  ~FF~}#028#022
+WOLFGUNBLOOD~2C~GAROPA  ~FF~#022
+;00000208{MISSIRAY             ~FF~}#025#022
+MISSIRAY             ~FF~#022
+;0000021E{Z-LEO                ~FF~}#025#022
+Z-LEO                ~FF~#022
+;00000234{                     ~FF~}#025#022
+                     ~FF~#022
+;0000024A{                     ~FF~}#025#022
+                     ~FF~#022
+;00000260{                     ~FF~}#025#022
+                     ~FF~#022
+;00000276{                     ~FF~}#025#022
+                     ~FF~#022
+;0000028C{                     ~FF~}#025#022
+                     ~FF~#022
+;000002A2{                     ~FF~}#025#022
+                     ~FF~#022
+;000002B8{  TOTAL LIMIT TIME    ~FF~}#026#023
+  TOTAL LIMIT TIME    ~FF~#023
+;000002CF{  TOTAL CLEAR TIME    ~FF~}#026#023
+  TOTAL CLEAR TIME    ~FF~#023
+;000002E6{  TOTAL CONTINUE      ~FF~}#026#023
+  TOTAL CONTINUE      ~FF~#023
+|765
+@00022347-000226AE-40-FF
+;00000000{CALIEN SOLDIER~60~4STAFF~40~}#028#022
+CALIEN SOLDIER~60~4STAFF~40~#022
+;00000016{EMAIN PROGRAMMER~40~}#020#017
+EMAIN PROGRAMMER~40~#017
+;00000027{KVIVA! CHOCO MONKEY DX~40~}#026#023
+KVIVA! CHOCO MONKEY DX~40~#023
+;0000003E{9PROGRAMMER~40~}#015#012
+9PROGRAMMER~40~#012
+;0000004A{7K.FUJITA~40~}#013#010
+7K.FUJITA~40~#010
+;00000054{9PROGRAMMER~40~}#015#012
+9PROGRAMMER~40~#012
+;00000060{8M.MAEGAWA~40~}#014#011
+8M.MAEGAWA~40~#011
+;0000006B{9PROGRAMMER~40~}#015#012
+9PROGRAMMER~40~#012
+;00000077{6FUKURYU~40~}#012#009
+6FUKURYU~40~#009
+;00000080{FSOUND PROGRAMMER~40~}#021#018
+FSOUND PROGRAMMER~40~#018
+;00000092{6M.YAIDA~40~}#012#009
+6M.YAIDA~40~#009
+;0000009B{FCHARACTER DESIGN~40~}#021#018
+FCHARACTER DESIGN~40~#018
+;000000AD{8K.SHINDOH~40~}#014#011
+8K.SHINDOH~40~#011
+;000000B8{EBACKGROUND ARTS~40~}#020#017
+EBACKGROUND ARTS~40~#017
+;000000C9{8H.IUCHI 8~40~}#014#011
+8H.IUCHI 8~40~#011
+;000000D4{GBACKGROUND DESIGN~40~}#022#019
+GBACKGROUND DESIGN~40~#019
+;000000E7{8TSUNEHISA~40~}#014#011
+8TSUNEHISA~40~#011
+;000000F2{DGUEST DESIGNER~40~}#019#016
+DGUEST DESIGNER~40~#016
+;00000102{6T.SHIGA~40~}#012#009
+6T.SHIGA~40~#009
+;0000010B{7MUSIC BY~40~}#013#010
+7MUSIC BY~40~#010
+;00000115{8N.HANZAWA~40~}#014#011
+8N.HANZAWA~40~#011
+;00000120{CSOUND EFFECTS~40~}#018#015
+CSOUND EFFECTS~40~#015
+;0000012F{7S.MURATA~40~}#013#010
+7S.MURATA~40~#010
+;00000139{7PRODUCER~40~}#013#010
+7PRODUCER~40~#010
+;00000143{KVIVA! CHOCO MONKEY DX~40~}#026#023
+KVIVA! CHOCO MONKEY DX~40~#023
+;0000015A{9SUPERVISOR~40~}#015#012
+9SUPERVISOR~40~#012
+;00000166{8M.MAEGAWA~60~IBOSSES INTRODUCTION~60~ ~40~}#043#034
+8M.MAEGAWA~60~IBOSSES INTRODUCTION~60~ ~40~#034
+;00000188{6STAGE02~40~}#012#009
+6STAGE02~40~#009
+;00000191{6ANTROID~40~}#012#009
+6ANTROID~40~#009
+;0000019A{6STAGE16~40~}#012#009
+6STAGE16~40~#009
+;000001A3{CBACK STRINGER~40~}#018#015
+CBACK STRINGER~40~#015
+;000001B2{6STAGE18~40~}#012#009
+6STAGE18~40~#009
+;000001BB{CDESTROYER-MK2~40~}#018#015
+CDESTROYER-MK2~40~#015
+;000001CA{6STAGE13~40~}#012#009
+6STAGE13~40~#009
+;000001D3{5BUGMAX~40~}#011#008
+5BUGMAX~40~#008
+;000001DB{6STAGE06~40~}#012#009
+6STAGE06~40~#009
+;000001E4{4JOKER~40~}#010#007
+4JOKER~40~#007
+;000001EB{6STAGE17~40~}#012#009
+6STAGE17~40~#009
+;000001F4{7EPSILON1~40~}#013#010
+7EPSILON1~40~#010
+;000001FE{6STAGE03~40~}#012#009
+6STAGE03~40~#009
+;00000207{ASHELLSHOGUN~40~}#016#013
+ASHELLSHOGUN~40~#013
+;00000214{6STAGE04~40~}#012#009
+6STAGE04~40~#009
+;0000021D{GSNIPER HONEYVIPER~40~}#022#019
+GSNIPER HONEYVIPER~40~#019
+;00000230{6STAGE05~40~}#012#009
+6STAGE05~40~#009
+;00000239{BMADAM BARBAR~40~}#017#014
+BMADAM BARBAR~40~#014
+;00000247{6STAGE21~40~}#012#009
+6STAGE21~40~#009
+;00000250{IDESTROYER PROTOTYPE~40~}#024#021
+IDESTROYER PROTOTYPE~40~#021
+;00000265{6STAGE08~40~}#012#009
+6STAGE08~40~#009
+;0000026E{9FLYING-NEO~40~}#015#012
+9FLYING-NEO~40~#012
+;0000027A{6STAGE15~40~}#012#009
+6STAGE15~40~#009
+;00000283{BSUNSET STING~40~}#017#014
+BSUNSET STING~40~#014
+;00000291{6STAGE23~40~}#012#009
+6STAGE23~40~#009
+;0000029A{IWOLFGUNBLOOD GAROPA~40~}#024#021
+IWOLFGUNBLOOD GAROPA~40~#021
+;000002AF{6STAGE09~40~}#012#009
+6STAGE09~40~#009
+;000002B8{7XI-TIGER~40~}#013#010
+7XI-TIGER~40~#010
+;000002C2{6STAGE20~40~}#012#009
+6STAGE20~40~#009
+;000002CB{DVALKIRIE FORCE~40~}#019#016
+DVALKIRIE FORCE~40~#016
+;000002DB{ ~40~}#005#002
+ ~40~#002
+;000002DD{BMEDUSA FORCE~40~}#017#014
+BMEDUSA FORCE~40~#014
+;000002EB{ ~40~}#005#002
+ ~40~#002
+;000002ED{DSYLPHEED FORCE~40~}#019#016
+DSYLPHEED FORCE~40~#016
+;000002FD{ ~40~}#005#002
+ ~40~#002
+;000002FF{CARTEMIS FORCE~40~}#018#015
+CARTEMIS FORCE~40~#015
+;0000030E{ ~40~}#005#002
+ ~40~#002
+;00000310{BSIRENE FORCE~40~}#017#014
+BSIRENE FORCE~40~#014
+;0000031E{6STAGE25~40~}#012#009
+6STAGE25~40~#009
+;00000327{4Z-LEO~7F~JCOMPUTER DESIGNED BY~7F~7TREASURE~7F~BPRESENTED BY~7F~9~2F~SEGA 1995~FF~}#083#065
+4Z-LEO~7F~JCOMPUTER DESIGNED BY~7F~7TREASURE~7F~BPRESENTED BY~7F~9~2F~SEGA 1995~FF~#065
+|872
+@00022D52-00024145-FF
+;00000000{             STAFF             ~FF~}#035#032
+             STAFF             ~FF~#032
+;00000020{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000044{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000068{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000008C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000000B0{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000000D4{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000000F8{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000011C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000140{        MAIN PROGRAMER             ~FF~}#039#036
+        MAIN PROGRAMER             ~FF~#036
+;00000164{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;00000188{                  H.S              ~FF~}#039#036
+                  H.S              ~FF~#036
+;000001AC{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;000001D0{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000001F4{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000218{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000023C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000260{        PROGRAMER                  ~FF~}#039#036
+        PROGRAMER                  ~FF~#036
+;00000284{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;000002A8{                K.FUJITA           ~FF~}#039#036
+                K.FUJITA           ~FF~#036
+;000002CC{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;000002F0{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000314{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000338{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000035C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000380{        PROGRAMER                  ~FF~}#039#036
+        PROGRAMER                  ~FF~#036
+;000003A4{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;000003C8{               M.MAEGAWA           ~FF~}#039#036
+               M.MAEGAWA           ~FF~#036
+;000003EC{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00000410{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000434{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000458{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000047C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000004A0{        PROGRAMER                  ~FF~}#039#036
+        PROGRAMER                  ~FF~#036
+;000004C4{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;000004E8{                FUKURYU            ~FF~}#039#036
+                FUKURYU            ~FF~#036
+;0000050C{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00000530{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000554{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000578{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000059C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000005C0{        SOUND PROGRAMER            ~FF~}#039#036
+        SOUND PROGRAMER            ~FF~#036
+;000005E4{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;00000608{                M.YAIDA            ~FF~}#039#036
+                M.YAIDA            ~FF~#036
+;0000062C{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00000650{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000674{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000698{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000006BC{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000006E0{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000704{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000728{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000074C{        CHARACTER DESIGNE          ~FF~}#039#036
+        CHARACTER DESIGNE          ~FF~#036
+;00000770{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;00000794{               K.SHINDOH           ~FF~}#039#036
+               K.SHINDOH           ~FF~#036
+;000007B8{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;000007DC{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000800{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000824{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000848{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000086C{        BACKGROUND ARTS            ~FF~}#039#036
+        BACKGROUND ARTS            ~FF~#036
+;00000890{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;000008B4{               H.IUCHI 8           ~FF~}#039#036
+               H.IUCHI 8           ~FF~#036
+;000008D8{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;000008FC{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000920{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000944{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000968{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000098C{      CHARACTER AND BG DESIGNE     ~FF~}#039#036
+      CHARACTER AND BG DESIGNE     ~FF~#036
+;000009B0{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;000009D4{               TSUNEHISA           ~FF~}#039#036
+               TSUNEHISA           ~FF~#036
+;000009F8{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00000A1C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000A40{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000A64{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000A88{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000AAC{        GUEST DESIGNER             ~FF~}#039#036
+        GUEST DESIGNER             ~FF~#036
+;00000AD0{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;00000AF4{                T.SHIGA            ~FF~}#039#036
+                T.SHIGA            ~FF~#036
+;00000B18{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00000B3C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000B60{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000B84{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000BA8{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000BCC{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000BF0{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000C14{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000C38{        MUSIC BY                   ~FF~}#039#036
+        MUSIC BY                   ~FF~#036
+;00000C5C{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;00000C80{               N.HANZAWA           ~FF~}#039#036
+               N.HANZAWA           ~FF~#036
+;00000CA4{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00000CC8{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000CEC{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000D10{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000D34{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000D58{        SOUND EFFECTS              ~FF~}#039#036
+        SOUND EFFECTS              ~FF~#036
+;00000D7C{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;00000DA0{               S.MURATA            ~FF~}#039#036
+               S.MURATA            ~FF~#036
+;00000DC4{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00000DE8{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000E0C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000E30{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000E54{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000E78{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000E9C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000EC0{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000EE4{        PRODUCER                   ~FF~}#039#036
+        PRODUCER                   ~FF~#036
+;00000F08{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;00000F2C{                  H.S              ~FF~}#039#036
+                  H.S              ~FF~#036
+;00000F50{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00000F74{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000F98{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000FBC{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00000FE0{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001004{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001028{   0                               ~FF~}#039#036
+   0                               ~FF~#036
+;0000104C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001070{   0    SUPERVISOR                 ~FF~}#039#036
+   0    SUPERVISOR                 ~FF~#036
+;00001094{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;000010B8{               M.MAEGAWA           ~FF~}#039#036
+               M.MAEGAWA           ~FF~#036
+;000010DC{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;00001100{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001124{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001148{                                   ~FF~}#039#036
+                                   ~FF~#036
+;0000116C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001190{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000011B4{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000011D8{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000011FC{        COMPUTER DESIGNED BY       ~FF~}#039#036
+        COMPUTER DESIGNED BY       ~FF~#036
+;00001220{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;00001244{               TREASURE            ~FF~}#039#036
+               TREASURE            ~FF~#036
+;00001268{~60~                                  ~FF~}#042#036
+~60~                                  ~FF~#036
+;0000128C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000012B0{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000012D4{                                   ~FF~}#039#036
+                                   ~FF~#036
+;000012F8{   0                               ~FF~}#039#036
+   0                               ~FF~#036
+;0000131C{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001340{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001364{                                   ~FF~}#039#036
+                                   ~FF~#036
+;00001388{        PRESENTED BY               ~FF~}#039#036
+        PRESENTED BY               ~FF~#036
+;000013AC{V                                  ~FF~}#039#036
+V                                  ~FF~#036
+;000013D0{              ~2F~SEGA 1995           ~FF~}#042#036
+              ~2F~SEGA 1995           ~FF~#036
+|5108

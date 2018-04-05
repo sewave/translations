@@ -1,0 +1,236 @@
+@00000E18-00000E2F-FF
+;00000000{ATTACK ~FF~}#011#008
+ATTACK ~FF~#008
+;00000008{ROLL   ~FF~}#011#008
+ROLL   ~FF~#008
+;00000010{SPECIAL~FF~}#011#008
+SPECIAL~FF~#008
+|24
+@0000305C-0000327A-FF
+;00000000{1P PLAY==~FD~~FD~2P PLAY~FF~}#028#019
+1P PLAY==~FD~~FD~2P PLAY~FF~#019
+;00000013{ARCADE==~FD~THE DUEL==~FD~1P VS 2P==~FC~OPTIONS==SOUND TEST==DEMO~FF~}#069#057
+ARCADE==~FD~THE DUEL==~FD~1P VS 2P==~FC~OPTIONS==SOUND TEST==DEMO~FF~#057
+;0000004C{OPTIONS~FF~}#011#008
+OPTIONS~FF~#008
+;00000054{CREDITS==GAME DIFFICULTY==ENERGY LEVEL==RAPID FIRE==CONTROL PAD=    A=    B=    C~FF~}#085#082
+CREDITS==GAME DIFFICULTY==ENERGY LEVEL==RAPID FIRE==CONTROL PAD=    A=    B=    C~FF~#082
+;000000A6{EASY   ~FF~}#011#008
+EASY   ~FF~#008
+;000000AE{NORMAL ~FF~}#011#008
+NORMAL ~FF~#008
+;000000B6{HARD   ~FF~}#011#008
+HARD   ~FF~#008
+;000000BE{OFF~FF~}#007#004
+OFF~FF~#004
+;000000C2{ON ~FF~}#007#004
+ON ~FF~#004
+;000000C6{ SOUND TEST===B.G.M. NO.===S.E.   NO.~FF~}#041#038
+ SOUND TEST===B.G.M. NO.===S.E.   NO.~FF~#038
+;000000EC{-- BGM STOP -- ~FF~}#019#016
+-- BGM STOP -- ~FF~#016
+;000000FC{Player Select  ~FF~}#019#016
+Player Select  ~FF~#016
+;0000010C{Theme `BUSTERS´~FF~}#019#016
+Theme `BUSTERS´~FF~#016
+;0000011C{Break Out      ~FF~}#019#016
+Break Out      ~FF~#016
+;0000012C{Cybernate-Q    ~FF~}#019#016
+Cybernate-Q    ~FF~#016
+;0000013C{Noise Of Act!  ~FF~}#019#016
+Noise Of Act!  ~FF~#016
+;0000014C{That's G.G.    ~FF~}#019#016
+That's G.G.    ~FF~#016
+;0000015C{Dark Alley     ~FF~}#019#016
+Dark Alley     ~FF~#016
+;0000016C{`Beyond´ Dance ~FF~}#019#016
+`Beyond´ Dance ~FF~#016
+;0000017C{Cybernate-P   ~FF~}#018#015
+Cybernate-P   ~FF~#015
+;0000018B{We Are `BUSTERS´~FF~}#020#017
+We Are `BUSTERS´~FF~#017
+;0000019C{Neuropath      ~FF~}#019#016
+Neuropath      ~FF~#016
+;000001AC{Speed Queen!   ~FF~}#019#016
+Speed Queen!   ~FF~#016
+;000001BC{Tireless       ~FF~}#019#016
+Tireless       ~FF~#016
+;000001CC{Ulcer          ~FF~}#019#016
+Ulcer          ~FF~#016
+;000001DC{Here We Go!    ~FF~}#019#016
+Here We Go!    ~FF~#016
+;000001EC{Game Over      ~FF~}#019#016
+Game Over      ~FF~#016
+;000001FC{Nuclear Dance! ~FF~}#019#016
+Nuclear Dance! ~FF~#016
+;0000020C{PRESS START BUTTON~FF~}#022#019
+PRESS START BUTTON~FF~#019
+|543
+@00004408-0000443B-FF
+;00000000{DIFFICULTY...~FF~}#017#014
+DIFFICULTY...~FF~#014
+;0000000E{ EASY  ~FF~}#011#008
+ EASY  ~FF~#008
+;00000016{NORMAL ~FF~}#011#008
+NORMAL ~FF~#008
+;0000001E{ HARD  ~FF~}#011#008
+ HARD  ~FF~#008
+;00000026{THE DUEL MODE~FF~}#017#014
+THE DUEL MODE~FF~#014
+|52
+@00004763-00004809-FF
+;00000000{ RANK~FF~}#009#006
+ RANK~FF~#006
+;00000006{  ~96~ ~88~ ~78~ ~68~ ~58~ - o a V H 1SUPREME RULER~FF~}#055#037
+  ~96~ ~88~ ~78~ ~68~ ~58~ - o a V H 1SUPREME RULER~FF~#037
+;0000002B{     RULER~FF~}#014#011
+     RULER~FF~#011
+;00000036{    CHAMPION~FF~}#016#013
+    CHAMPION~FF~#013
+;00000043{    KNIGHT~FF~}#014#011
+    KNIGHT~FF~#011
+;0000004E{    SOLDIER~FF~}#015#012
+    SOLDIER~FF~#012
+;0000005A{    FIGHTER~FF~}#015#012
+    FIGHTER~FF~#012
+;00000066{    MERCENARY~FF~}#017#014
+    MERCENARY~FF~#014
+;00000074{    BARBARIAN~FF~}#017#014
+    BARBARIAN~FF~#014
+;00000082{   APPRENTICE~FF~}#017#014
+   APPRENTICE~FF~#014
+;00000090{     PEASANT~FF~}#016#013
+     PEASANT~FF~#013
+;0000009D{     SERF~FF~}#013#010
+     SERF~FF~#010
+|167
+@00004B4E-00004B52-FF
+;00000000{GAME~FF~}#008#005
+GAME~FF~#005
+|5
+@00004C92-00004C9C-FF
+;00000000{BATTLE ~FF~}#011#008
+BATTLE ~FF~#008
+;00000008{VS~FF~}#006#003
+VS~FF~#003
+|11
+@00004D9A-00004E12-FF
+;00000000{       Excellent!====You beat all the enemies.===   Your name will be==  remembered forever.===You are the real fighter!~FF~}#124#121
+       Excellent!====You beat all the enemies.===   Your name will be==  remembered forever.===You are the real fighter!~FF~#121
+|121
+@00004E5C-00004E90-FF
+;00000000{=P        What a pity!=== You were killed in action.~FF~}#056#053
+=P        What a pity!=== You were killed in action.~FF~#053
+|53
+@00005068-0000508E-FF
+;00000000{PLAYER   WINS!~FF~}#018#015
+PLAYER   WINS!~FF~#015
+;0000000F{THE WINNER IS=  PLAYER ~FF~}#027#024
+THE WINNER IS=  PLAYER ~FF~#024
+|39
+@0000589A-000058B3-FF
+;00000000{ROUND ~FF~}#010#007
+ROUND ~FF~#007
+;00000007{ PLAYER 1~FF~}#013#010
+ PLAYER 1~FF~#010
+;00000011{PLAYER 2~FF~}#012#009
+PLAYER 2~FF~#009
+|26
+@000086FA-000087AF-FF
+;00000000{    `Save the people´~FF~}#025#022
+    `Save the people´~FF~#022
+;00000016{   `Expel the aliens´~FF~}#025#022
+   `Expel the aliens´~FF~#022
+;0000002C{     `Alien's nest´~FF~}#023#020
+     `Alien's nest´~FF~#020
+;00000040{`Duel_in_broad_daylight´~FF~}#028#025
+`Duel_in_broad_daylight´~FF~#025
+;00000059{   `Save the laboratory´~FF~}#028#025
+   `Save the laboratory´~FF~#025
+;00000072{     `Night crawler´~FF~}#024#021
+     `Night crawler´~FF~#021
+;00000087{     `Destroy the UFO´   ~FF~}#029#026
+     `Destroy the UFO´   ~FF~#026
+;000000A1{      `Final battle´~FF~}#024#021
+      `Final battle´~FF~#021
+|182
+@00009570-0000980D-FF
+;00000000{ The ambition of the aliens to~FF~}#034#031
+ The ambition of the aliens to~FF~#031
+;0000001F{invade planet Earth has been~FF~}#032#029
+invade planet Earth has been~FF~#029
+;0000003C{foiled. Peace is restored.~FF~}#030#027
+foiled. Peace is restored.~FF~#027
+;00000057{~FF~}#004#001
+~FF~#001
+;00000058{ But what has become of the ~FF~}#032#029
+ But what has become of the ~FF~#029
+;00000075{tremendous three? Did they~FF~}#030#027
+tremendous three? Did they~FF~#027
+;00000090{survive? Nobody knows and~FF~}#029#026
+survive? Nobody knows and~FF~#026
+;000000AA{there is no way to find out.~FF~}#032#029
+there is no way to find out.~FF~#029
+;000000C7{~FF~}#004#001
+~FF~#001
+;000000C8{ But, if any aggression is~FF~}#030#027
+ But, if any aggression is~FF~#027
+;000000E3{made to our planet again,~FF~}#029#026
+made to our planet again,~FF~#026
+;000000FD{they are the ones who will~FF~}#030#027
+they are the ones who will~FF~#027
+;00000118{fight back.~FF~}#015#012
+fight back.~FF~#012
+;00000124{ Until then, their names shall~FF~}#034#031
+ Until then, their names shall~FF~#031
+;00000143{be engraved on our minds.~FF~}#029#026
+be engraved on our minds.~FF~#026
+;0000015D{~FF~}#004#001
+~FF~#001
+;0000015E{       `ALIEN BUSTERS´= `~5C~STAFF=`~50~MAIN PROGRAMMER~FF~}#059#050
+       `ALIEN BUSTERS´= `~5C~STAFF=`~50~MAIN PROGRAMMER~FF~#050
+;00000190{~FF~}#004#001
+~FF~#001
+;00000191{     TOP=`~52~SUB PROGRAMMER~FF~}#032#026
+     TOP=`~52~SUB PROGRAMMER~FF~#026
+;000001AB{~FF~}#004#001
+~FF~#001
+;000001AC{    M.R.N.=`~54~GAME DESIGNER~FF~}#033#027
+    M.R.N.=`~54~GAME DESIGNER~FF~#027
+;000001C7{~FF~}#004#001
+~FF~#001
+;000001C8{   VALENTS=`~4E~CHARACTER DESIGNER~FF~}#038#032
+   VALENTS=`~4E~CHARACTER DESIGNER~FF~#032
+;000001E8{~FF~}#004#001
+~FF~#001
+;000001E9{     MIYAPON=`~50~ MUSIC COMPOSER~FF~}#037#031
+     MIYAPON=`~50~ MUSIC COMPOSER~FF~#031
+;00000208{~FF~}#004#001
+~FF~#001
+;00000209{PSYCHEDELIC CHUNG~FF~}#021#018
+PSYCHEDELIC CHUNG~FF~#018
+;0000021B{    SOUSEKI=`~56~THANKS TO~FF~}#030#024
+    SOUSEKI=`~56~THANKS TO~FF~#024
+;00000233{~FF~}#004#001
+~FF~#001
+;00000234{~FF~}#004#001
+~FF~#001
+;00000235{ BROS.400=`~4E~SPECIAL THANKS TO~FF~}#036#030
+ BROS.400=`~4E~SPECIAL THANKS TO~FF~#030
+;00000253{~FF~}#004#001
+~FF~#001
+;00000254{~FF~}#004#001
+~FF~#001
+;00000255{   TEAM SHINOBI=`?PRESENTED FOR YOU BY~FF~}#042#039
+   TEAM SHINOBI=`?PRESENTED FOR YOU BY~FF~#039
+;0000027C{~FF~}#004#001
+~FF~#001
+;0000027D{~FF~}#004#001
+~FF~#001
+;0000027E{~FF~}#004#001
+~FF~#001
+;0000027F{~FF~}#004#001
+~FF~#001
+;00000280{ SEE YOU NEXT GAME.=`~5A~THE END=}#033#030
+ SEE YOU NEXT GAME.=`~5A~THE END=#030
+|670

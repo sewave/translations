@@ -1,0 +1,5 @@
+set T_FILENAME="Alex Kidd in High Tech World (UE) [!].sms"
+set SCRIPTNAME="alexhtw"
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false A0C-A1C-FF
+java -jar Hextractor.jar -a %SCRIPTNAME%Alt.tbl %T_FILENAME% %SCRIPTNAME%Alt.txt false 184EF-1B250-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F-00,13E30-13E8E-FF,54D3-54F2-FF,5AD7-5AE5-FF,5112-5160-FF,51B6-51BD-FF,13AD3-13CBC-FF,ED2E-FE9D-00
+pause

@@ -1,0 +1,808 @@
+@00000100-00000122-00
+;00000000{SEGA MEGA DRIVE (C)T-25 1992.APR~83~O~83~}#041#035
+SEGA MEGA DRIVE (C)T-25 1992.APR~83~O~83~#035
+|35
+@000001B0-00000272-00
+;00000000{                Gleylancer (DL) by MIJET 5234 v. 061023 (yymmdd)UJ              This softwear was producted by  Nippon Computer Systems Corporation in 1992.    Copyright (c) 1992 NCS/MASAYA   C~F8~~00~}#201#195
+                Gleylancer (DL) by MIJET 5234 v. 061023 (yymmdd)UJ              This softwear was producted by  Nippon Computer Systems Corporation in 1992.    Copyright (c) 1992 NCS/MASAYA   C~F8~~00~#195
+;000000C3{~00~}#004#001
+~00~#001
+;000000C4{.Y"QN~D1~J~B9~}#014#008
+.Y"QN~D1~J~B9~#008
+|204
+@000029E2-00002A01-00
+;00000000{ EASY ~00~}#010#007
+ EASY ~00~#007
+;00000007{NORMAL~00~}#010#007
+NORMAL~00~#007
+;0000000E{ HARD ~00~}#010#007
+ HARD ~00~#007
+;00000015{MANIA ~00~}#010#007
+MANIA ~00~#007
+;0000001C{~00~}#004#001
+~00~#001
+;0000001D{~0E~~00~}#008#002
+~0E~~00~#002
+;0000001F{~16~}#004#001
+~16~#001
+|32
+@00002A0C-00002A49-00
+;00000000{>NORMAL ~00~}#012#009
+>NORMAL ~00~#009
+;00000009{REVERSE~00~}#011#008
+REVERSE~00~#008
+;00000011{SEARCH ~00~}#011#008
+SEARCH ~00~#008
+;00000019{MULTI  ~00~}#011#008
+MULTI  ~00~#008
+;00000021{MULTI^R~00~}#011#008
+MULTI^R~00~#008
+;00000029{SHADOW ~00~}#011#008
+SHADOW ~00~#008
+;00000031{ROLL   ~00~}#011#008
+ROLL   ~00~#008
+;00000039{ x~86~\0~FC~}#012#006
+ x~86~\0~FC~#006
+|63
+@00012C80-00012D9C-00
+;00000000{keyhis.dat~00~}#014#011
+keyhis.dat~00~#011
+;0000000B{RANK~00~}#008#005
+RANK~00~#005
+;00000010{SPEED~00~}#009#006
+SPEED~00~#006
+;00000016{MOVER~00~}#009#006
+MOVER~00~#006
+;0000001C{DEBUG~00~}#009#006
+DEBUG~00~#006
+;00000022{GUNNER~00~}#010#007
+GUNNER~00~#007
+;00000029{REST~00~}#008#005
+REST~00~#005
+;0000002E{STAGE~00~}#009#006
+STAGE~00~#006
+;00000034{KEY REC~00~}#011#008
+KEY REC~00~#008
+;0000003C{MUTEKI~00~}#010#007
+MUTEKI~00~#007
+;00000043{GUNNER~00~}#010#007
+GUNNER~00~#007
+;0000004A{MISSILE~00~}#011#008
+MISSILE~00~#008
+;00000052{AUTOSHOT~00~}#012#009
+AUTOSHOT~00~#009
+;0000005B{TWIN   ~00~}#011#008
+TWIN   ~00~#008
+;00000063{BOUND  ~00~}#011#008
+BOUND  ~00~#008
+;0000006B{LASER  ~00~}#011#008
+LASER  ~00~#008
+;00000073{SPREAD ~00~}#011#008
+SPREAD ~00~#008
+;0000007B{SABER  ~00~}#011#008
+SABER  ~00~#008
+;00000083{BURNER ~00~}#011#008
+BURNER ~00~#008
+;0000008B{5WAY   ~00~}#011#008
+5WAY   ~00~#008
+;00000093{THUNDER~00~}#011#008
+THUNDER~00~#008
+;0000009B{NORMAL ~00~}#011#008
+NORMAL ~00~#008
+;000000A3{REVERSE~00~}#011#008
+REVERSE~00~#008
+;000000AB{SEARCH ~00~}#011#008
+SEARCH ~00~#008
+;000000B3{MULTI  ~00~}#011#008
+MULTI  ~00~#008
+;000000BB{MULTI R~00~}#011#008
+MULTI R~00~#008
+;000000C3{SHADOW ~00~}#011#008
+SHADOW ~00~#008
+;000000CB{ROLL   ~00~}#011#008
+ROLL   ~00~#008
+;000000D3{3WAY   ~00~}#011#008
+3WAY   ~00~#008
+;000000DB{UP DOWN~00~}#011#008
+UP DOWN~00~#008
+;000000E3{DIR8   ~00~}#011#008
+DIR8   ~00~#008
+;000000EB{GRADIUS~00~}#011#008
+GRADIUS~00~#008
+;000000F3{EASY    ~00~}#012#009
+EASY    ~00~#009
+;000000FC{NORMAL  ~00~}#012#009
+NORMAL  ~00~#009
+;00000105{HARD    ~00~}#012#009
+HARD    ~00~#009
+;0000010E{MANIA   ~00~}#012#009
+MANIA   ~00~#009
+;00000117{~00~}#004#001
+~00~#001
+;00000118{/   ~00~}#008#005
+/   ~00~#005
+|285
+@00012DAC-00012DB7-00
+;00000000{HOLD~00~}#008#005
+HOLD~00~#005
+;00000005{~00~}#004#001
+~00~#001
+;00000006{0    ~00~}#009#006
+0    ~00~#006
+|12
+@00012DB8-00012E0D-00
+;00000000{1    ~00~}#009#006
+1    ~00~#006
+;00000006{2    ~00~}#009#006
+2    ~00~#006
+;0000000C{3    ~00~}#009#006
+3    ~00~#006
+;00000012{4    ~00~}#009#006
+4    ~00~#006
+;00000018{5    ~00~}#009#006
+5    ~00~#006
+;0000001E{6    ~00~}#009#006
+6    ~00~#006
+;00000024{7    ~00~}#009#006
+7    ~00~#006
+;0000002A{8    ~00~}#009#006
+8    ~00~#006
+;00000030{9    ~00~}#009#006
+9    ~00~#006
+;00000036{10   ~00~}#009#006
+10   ~00~#006
+;0000003C{11   ~00~}#009#006
+11   ~00~#006
+;00000042{DEBUG~00~}#009#006
+DEBUG~00~#006
+;00000048{ON ~00~}#007#004
+ON ~00~#004
+;0000004C{OFF~00~}#007#004
+OFF~00~#004
+;00000050{ON ~00~}#007#004
+ON ~00~#004
+;00000054{N~B9~}#005#002
+N~B9~#002
+|86
+@00014308-0001432A-00
+;00000000{CONTINUE_~00~}#013#010
+CONTINUE_~00~#010
+;0000000A{MOVER CHANGE_~00~}#017#014
+MOVER CHANGE_~00~#014
+;00000018{YES~00~}#007#004
+YES~00~#004
+;0000001C{NO~00~}#006#003
+NO~00~#003
+;0000001F{~00~}#004#001
+~00~#001
+;00000020{0<~00~}#006#003
+0<~00~#003
+|35
+@000147A8-000147DB-00
+;00000000{NuSCORE RANKING~00~}#019#016
+NuSCORE RANKING~00~#016
+;00000010{RANK  SCORE  NAME ST LEVEL  MOVER~00~}#037#034
+RANK  SCORE  NAME ST LEVEL  MOVER~00~#034
+;00000032{H~E7~}#005#002
+H~E7~#002
+|52
+@000148ED-0001493B-00
+;00000000{?Nu EASY NORMAL HARD MANIA NORMAL REVERSESEARCH MULTI  MULTI RSHADOW ROLL   ~00~}#080#077
+?Nu EASY NORMAL HARD MANIA NORMAL REVERSESEARCH MULTI  MULTI RSHADOW ROLL   ~00~#077
+;0000004D{N~B9~}#005#002
+N~B9~#002
+|79
+@00014EA2-00014EB5-00
+;00000000{B]C~40~BUTTON~40~~40~NEXT~00~}#029#017
+B]C~40~BUTTON~40~~40~NEXT~00~#017
+;00000011{~40~A~40~}#009#003
+~40~A~40~#003
+|20
+@00014EB7-00014EC5-00
+;00000000{BUTTON~40~~40~BACK~00~}#022#013
+BUTTON~40~~40~BACK~00~#013
+;0000000D{N~B9~}#005#002
+N~B9~#002
+|15
+@000153C6-000153D7-00
+;00000000{NuSCORE RANKING~00~}#019#016
+NuSCORE RANKING~00~#016
+;00000010{H~E7~}#005#002
+H~E7~#002
+|18
+@000154D0-000154E7-00
+;00000000{NuPUSH START BUTTON~00~}#023#020
+NuPUSH START BUTTON~00~#020
+;00000014{~40~~40~~40~~40~}#016#004
+~40~~40~~40~~40~#004
+|24
+@000154F6-00015521-00
+;00000000{GAME START~00~}#014#011
+GAME START~00~#011
+;0000000B{OPTION~00~}#010#007
+OPTION~00~#007
+;00000012{COPYRIGHT 1992 NCS CORP~00~}#027#024
+COPYRIGHT 1992 NCS CORP~00~#024
+;0000002A{p~00~}#005#002
+p~00~#002
+|44
+@000181F0-0001829E-00
+;00000000{ A STANDARD MOVER WHICH YOU CAN   ~0D~AIM IN 16 DIRECTIONS WITH THE     ~0D~CONTROL PAD] THE GUNNER WILL FACE ~0D~THE DIRECTION OF YOUR MOVEMENT]   ~0D~                                  ~0D~}#190#175
+ A STANDARD MOVER WHICH YOU CAN   ~0D~AIM IN 16 DIRECTIONS WITH THE     ~0D~CONTROL PAD] THE GUNNER WILL FACE ~0D~THE DIRECTION OF YOUR MOVEMENT]   ~0D~                                  ~0D~#175
+|175
+@0001829F-00018394-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~}#076#070
+C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ THIS IS THE SAME AS THE NORMAL   ~0D~MOVER EXCEPT THAT THE GUNNER TURNS~0D~IN THE OPPOSITE DIRECTION THAT IS ~0D~BEING PRESSED ON THE CONTROL PAD] ~0D~                                  ~0D~}#190#175
+ THIS IS THE SAME AS THE NORMAL   ~0D~MOVER EXCEPT THAT THE GUNNER TURNS~0D~IN THE OPPOSITE DIRECTION THAT IS ~0D~BEING PRESSED ON THE CONTROL PAD] ~0D~                                  ~0D~#175
+|246
+@00018395-0001848A-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~}#076#070
+C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ YOU WILL AIM AT ENEMIES AUTOMATI^~0D~CALLY\ BUT IT DOES NOT NECESSARILY~0D~MOVE AS YOU LIKE] DO NOT COUNT ON ~0D~IT TOO MUCH]                      ~0D~                                  ~0D~}#190#175
+ YOU WILL AIM AT ENEMIES AUTOMATI^~0D~CALLY\ BUT IT DOES NOT NECESSARILY~0D~MOVE AS YOU LIKE] DO NOT COUNT ON ~0D~IT TOO MUCH]                      ~0D~                                  ~0D~#175
+|246
+@0001848B-00018580-00
+;00000000{C BUTTON[ PRESS TO CHANGE THE     ~0D~                   SEARCH PROGRAM]~00~}#076#070
+C BUTTON[ PRESS TO CHANGE THE     ~0D~                   SEARCH PROGRAM]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ YOU CAN DELIVER A 3^WAY ATTACK]  ~0D~THE RANGE OF ATTACK CAN BE WIDE\  ~0D~BUT YOU CANNOT CONCENTRATE YOUR   ~0D~SHOTS IN THE VERTICAL DIRECTIONS] ~0D~                                  ~0D~}#190#175
+ YOU CAN DELIVER A 3^WAY ATTACK]  ~0D~THE RANGE OF ATTACK CAN BE WIDE\  ~0D~BUT YOU CANNOT CONCENTRATE YOUR   ~0D~SHOTS IN THE VERTICAL DIRECTIONS] ~0D~                                  ~0D~#175
+|246
+@00018581-00018676-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~}#076#070
+C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ THIS IS IDENTICAL TO THE MULTI   ~0D~MOVER EXCEPT THAT THE GUNNER FACES~0D~THE OPPOSITE DIRECTION THAT YOUR  ~0D~FIGHTER IS MOVING TOWARDS]        ~0D~                                  ~0D~}#190#175
+ THIS IS IDENTICAL TO THE MULTI   ~0D~MOVER EXCEPT THAT THE GUNNER FACES~0D~THE OPPOSITE DIRECTION THAT YOUR  ~0D~FIGHTER IS MOVING TOWARDS]        ~0D~                                  ~0D~#175
+|246
+@00018677-0001876C-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~}#076#070
+C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          DIRECTION OF THE GUNNER]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ THE GUNNER FOLLOWS YOUR FIGHTER] ~0D~THIS IS THE ONLY MOVER THAT CAN BE~0D~USED TO ATTACK REMOTELY\ BUT THE  ~0D~DIRECTION IS LIMITED TO FORWARD]  ~0D~                                  ~0D~}#190#175
+ THE GUNNER FOLLOWS YOUR FIGHTER] ~0D~THIS IS THE ONLY MOVER THAT CAN BE~0D~USED TO ATTACK REMOTELY\ BUT THE  ~0D~DIRECTION IS LIMITED TO FORWARD]  ~0D~                                  ~0D~#175
+|246
+@0001876D-00018862-00
+;00000000{C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          POSITION OF THE GUNNER] ~00~}#076#070
+C BUTTON[ HOLD TO LOCK THE CURRENT~0D~          POSITION OF THE GUNNER] ~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{ THE GUNNER WILL ROTATE AROUND THE~0D~FIGHTER] IT CAN COVER ALL 16 DIRE^~0D~CTIONS RAPIDLY BUT IT IS DIFFICULT~0D~TO CONCENTRATE YOUR FIREPOWER]    ~0D~                                  ~0D~}#190#175
+ THE GUNNER WILL ROTATE AROUND THE~0D~FIGHTER] IT CAN COVER ALL 16 DIRE^~0D~CTIONS RAPIDLY BUT IT IS DIFFICULT~0D~TO CONCENTRATE YOUR FIREPOWER]    ~0D~                                  ~0D~#175
+|246
+@00018863-000188AC-00
+;00000000{C BUTTON[ PRESS TO CHANGE THE     ~0D~                  ROLLING PROGRAM]~00~}#076#070
+C BUTTON[ PRESS TO CHANGE THE     ~0D~                  ROLLING PROGRAM]~00~#070
+;00000046{~00~}#004#001
+~00~#001
+;00000047{~00~}#004#001
+~00~#001
+;00000048{~00~}#004#001
+~00~#001
+;00000049{~00~}#004#001
+~00~#001
+|74
+@0001E0A4-0001E4B3-00
+;00000000{THE BATTLE WAS OVER]~00~}#024#021
+THE BATTLE WAS OVER]~00~#021
+;00000015{WITH LUCIA AS ITS PILOT\ THE~00~}#032#029
+WITH LUCIA AS ITS PILOT\ THE~00~#029
+;00000032{ADVANCED BUSTERHAWK GLEYLANCER~00~}#034#031
+ADVANCED BUSTERHAWK GLEYLANCER~00~#031
+;00000051{WIPED OUT THE ALIENS AND RESTORED~00~}#037#034
+WIPED OUT THE ALIENS AND RESTORED~00~#034
+;00000073{PEACE TO THE EARTH FEDERATION]~00~}#034#031
+PEACE TO THE EARTH FEDERATION]~00~#031
+;00000092{BUT SOME PEOPLE FEARED THAT THIS~00~}#036#033
+BUT SOME PEOPLE FEARED THAT THIS~00~#033
+;000000B3{BATTLE MIGHT ONLY BE THE BEGINNING~00~}#038#035
+BATTLE MIGHT ONLY BE THE BEGINNING~00~#035
+;000000D6{OF A MUCH LARGER CONFLICT]~00~}#030#027
+OF A MUCH LARGER CONFLICT]~00~#027
+;000000F1{DOCTOR GLEY\ THE INVENTOR OF THE~00~}#036#033
+DOCTOR GLEY\ THE INVENTOR OF THE~00~#033
+;00000112{GUNNER SYSTEM\ CONTINUES HIS~00~}#032#029
+GUNNER SYSTEM\ CONTINUES HIS~00~#029
+;0000012F{RESEARCH IN HOPES OF FURTHER~00~}#032#029
+RESEARCH IN HOPES OF FURTHER~00~#029
+;0000014C{IMPROVING ITS ABILITIES]~00~}#028#025
+IMPROVING ITS ABILITIES]~00~#025
+;00000165{MANKIND BELIEVES THAT THE POWER OF~00~}#038#035
+MANKIND BELIEVES THAT THE POWER OF~00~#035
+;00000188{STARHAWK AND BUSTERHAWK WILL LEAD~00~}#037#034
+STARHAWK AND BUSTERHAWK WILL LEAD~00~#034
+;000001AA{THEM TO VICTORY]]]~00~}#022#019
+THEM TO VICTORY]]]~00~#019
+;000001BD{STAFF~00~}#009#006
+STAFF~00~#006
+;000001C3{PRODUCER~00~}#012#009
+PRODUCER~00~#009
+;000001CC{T]TUCHIDA~00~}#013#010
+T]TUCHIDA~00~#010
+;000001D6{GAME DESIGN~00~}#015#012
+GAME DESIGN~00~#012
+;000001E2{H]SATOH~00~}#011#008
+H]SATOH~00~#008
+;000001EA{PROGRAM~00~}#011#008
+PROGRAM~00~#008
+;000001F2{Y]HIGUCHI~00~}#013#010
+Y]HIGUCHI~00~#010
+;000001FC{SCROLL~00~}#010#007
+SCROLL~00~#007
+;00000203{E]KOYAMA~00~}#012#009
+E]KOYAMA~00~#009
+;0000020C{OBJECT~00~}#010#007
+OBJECT~00~#007
+;00000213{H]HAYASHI~00~}#013#010
+H]HAYASHI~00~#010
+;0000021D{MUSIC AND SOUND EFFECTS~00~}#027#024
+MUSIC AND SOUND EFFECTS~00~#024
+;00000235{CUBE~00~}#008#005
+CUBE~00~#005
+;0000023A{Y]KUBOTERA~00~}#014#011
+Y]KUBOTERA~00~#011
+;00000245{M]HIKICHI~00~}#013#010
+M]HIKICHI~00~#010
+;0000024F{I]MIZOGUCHI~00~}#015#012
+I]MIZOGUCHI~00~#012
+;0000025B{N]IWADARE~00~}#013#010
+N]IWADARE~00~#010
+;00000265{ESTABLISHMENT~00~}#017#014
+ESTABLISHMENT~00~#014
+;00000273{K]SATOH~00~}#011#008
+K]SATOH~00~#008
+;0000027B{CHARACTER DESIGN~00~}#020#017
+CHARACTER DESIGN~00~#017
+;0000028C{H]AIZAWA~00~}#012#009
+H]AIZAWA~00~#009
+;00000295{ANIMATION~00~}#013#010
+ANIMATION~00~#010
+;0000029F{H]KAMATA~00~}#012#009
+H]KAMATA~00~#009
+;000002A8{VISUAL~00~}#010#007
+VISUAL~00~#007
+;000002AF{M]SAKURAI~00~}#013#010
+M]SAKURAI~00~#010
+;000002B9{H]HAYASHI~00~}#013#010
+H]HAYASHI~00~#010
+;000002C3{BUSINESS PROMOTION~00~}#022#019
+BUSINESS PROMOTION~00~#019
+;000002D6{M]UCHIDA~00~}#012#009
+M]UCHIDA~00~#009
+;000002DF{J]MIMURA~00~}#012#009
+J]MIMURA~00~#009
+;000002E8{Y]YOKOE~00~}#011#008
+Y]YOKOE~00~#008
+;000002F0{K]KATAGIRI~00~}#014#011
+K]KATAGIRI~00~#011
+;000002FB{SALES PROMOTION~00~}#019#016
+SALES PROMOTION~00~#016
+;0000030B{A]MATUDA~00~}#012#009
+A]MATUDA~00~#009
+;00000314{N]YONESAKA~00~}#014#011
+N]YONESAKA~00~#011
+;0000031F{K]MATUDA~00~}#012#009
+K]MATUDA~00~#009
+;00000328{P]R]~00~}#008#005
+P]R]~00~#005
+;0000032D{T]KIKUCHI~00~}#013#010
+T]KIKUCHI~00~#010
+;00000337{H]IWASAKI~00~}#013#010
+H]IWASAKI~00~#010
+;00000341{SPECIAL THANKS~00~}#018#015
+SPECIAL THANKS~00~#015
+;00000350{M]TAKASUGI~00~}#014#011
+M]TAKASUGI~00~#011
+;0000035B{T]OHYA~00~}#010#007
+T]OHYA~00~#007
+;00000362{M]IWASHITA~00~}#014#011
+M]IWASHITA~00~#011
+;0000036D{H]SUZUKI~00~}#012#009
+H]SUZUKI~00~#009
+;00000376{T]JINGU~00~}#011#008
+T]JINGU~00~#008
+;0000037E{SUPERVISER~00~}#014#011
+SUPERVISER~00~#011
+;00000389{Y]SHIRAKURA~00~}#015#012
+Y]SHIRAKURA~00~#012
+;00000395{TRANSLATED BY~00~}#017#014
+TRANSLATED BY~00~#014
+;000003A3{M]I]J]E]T] ~00~}#015#012
+M]I]J]E]T] ~00~#012
+;000003AF{GLEYLANCER~00~}#014#011
+GLEYLANCER~00~#011
+;000003BA{PRESENTED BY~00~}#016#013
+PRESENTED BY~00~#013
+;000003C7{NIPPON COMPUTER SYSTEMS CORPORATION~00~}#039#036
+NIPPON COMPUTER SYSTEMS CORPORATION~00~#036
+;000003EB{NCS~00~}#007#004
+NCS~00~#004
+;000003EF{COPYRIGHT 1992 NCS~00~}#022#019
+COPYRIGHT 1992 NCS~00~#019
+;00000402{(C) 1992 NCS~00~}#016#013
+(C) 1992 NCS~00~#013
+;0000040F{~FF~}#004#001
+~FF~#001
+|1040
+@0001E55A-0001E72F-00
+;00000000{YOU CLEARED EASY MODE~00~}#025#022
+YOU CLEARED EASY MODE~00~#022
+;00000016{YOU CLEARED NORMAL MODE~00~}#027#024
+YOU CLEARED NORMAL MODE~00~#024
+;0000002E{YOU CLEARED HARD MODE~00~}#025#022
+YOU CLEARED HARD MODE~00~#022
+;00000044{YOU CLEARED MANIA MODE~00~}#026#023
+YOU CLEARED MANIA MODE~00~#023
+;0000005B{CONGRATULATIONS~23~~23~~00~}#027#018
+CONGRATULATIONS~23~~23~~00~#018
+;0000006D{INPUT SECRET CODE AT TITLEBACK]~00~}#035#032
+INPUT SECRET CODE AT TITLEBACK]~00~#032
+;0000008D{NEXT CHALLENGE NORMAL MODE]~00~}#031#028
+NEXT CHALLENGE NORMAL MODE]~00~#028
+;000000A9{NEXT CHALLENGE HARD MODE]~00~}#029#026
+NEXT CHALLENGE HARD MODE]~00~#026
+;000000C3{YOU HAVE TO CHALLENGE MANIA MODE]~00~}#037#034
+YOU HAVE TO CHALLENGE MANIA MODE]~00~#034
+;000000E5{UDLRBA~00~}#010#007
+UDLRBA~00~#007
+;000000EC{GOOD LUCK~23~~00~}#017#011
+GOOD LUCK~23~~00~#011
+;000000F7{WHAT DO YOU FEEL ABOUT THIS GAME_~00~}#037#034
+WHAT DO YOU FEEL ABOUT THIS GAME_~00~#034
+;00000119{PLEASE TELL US\~00~}#019#016
+PLEASE TELL US\~00~#016
+;00000129{AND WE WILL LISTEN WHAT YOU SAY]~00~}#036#033
+AND WE WILL LISTEN WHAT YOU SAY]~00~#033
+;0000014A{SEE YOU AGAIN NEXT]~00~}#023#020
+SEE YOU AGAIN NEXT]~00~#020
+;0000015E{YOU CLEARD NO CONTINUATION]~00~}#031#028
+YOU CLEARD NO CONTINUATION]~00~#028
+;0000017A{YOU CAN CONTROL OBJECTS AT NAME]~00~}#036#033
+YOU CAN CONTROL OBJECTS AT NAME]~00~#033
+;0000019B{PUSH START AND DIRECTIONAL BUTTON]~00~}#038#035
+PUSH START AND DIRECTIONAL BUTTON]~00~#035
+;000001BE{PUSH START FOR QUIT~00~}#023#020
+PUSH START FOR QUIT~00~#020
+;000001D2{~00~}#004#001
+~00~#001
+;000001D3{~0F~~00~}#008#002
+~0F~~00~#002
+;000001D5{~02~}#004#001
+~02~#001
+|470
+@0001E82B-0001E898-00
+;00000000{SPEED CHANGE  ~00~}#018#015
+SPEED CHANGE  ~00~#015
+;0000000F{~01~FIRE          ~00~}#022#016
+~01~FIRE          ~00~#016
+;0000001F{~02~GUNNER CONTROL~00~}#022#016
+~02~GUNNER CONTROL~00~#016
+;0000002F{EASY    ~00~}#012#009
+EASY    ~00~#009
+;00000038{NORMAL  ~00~}#012#009
+NORMAL  ~00~#009
+;00000041{HARD    ~00~}#012#009
+HARD    ~00~#009
+;0000004A{MANIA   ~00~}#012#009
+MANIA   ~00~#009
+;00000053{ON ~00~}#007#004
+ON ~00~#004
+;00000057{OFF~00~}#007#004
+OFF~00~#004
+;0000005B{MANUAL~00~}#010#007
+MANUAL~00~#007
+;00000062{AUTO  ~00~}#010#007
+AUTO  ~00~#007
+;00000069{/   ~00~}#008#005
+/   ~00~#005
+|110
+@0001E8A8-0001E8B0-00
+;00000000{HOLD~00~}#008#005
+HOLD~00~#005
+;00000005{~00~}#004#001
+~00~#001
+;00000006{~00~}#004#001
+~00~#001
+;00000007{~00~}#004#001
+~00~#001
+;00000008{~00~}#004#001
+~00~#001
+|9
+@000F022A-000F0282-00
+;00000000{NEXT CHALLENGE NORMAL MODE~23~~00~}#034#028
+NEXT CHALLENGE NORMAL MODE~23~~00~#028
+;0000001C{NEXT CHALLENGE HARD MODE~23~~00~}#032#026
+NEXT CHALLENGE HARD MODE~23~~00~#026
+;00000036{YOU HAVE TO CHALLENGE MANIA MODE~23~ ~00~}#041#035
+YOU HAVE TO CHALLENGE MANIA MODE~23~ ~00~#035
+|89
+@000F0283-000F0335-00
+;00000000{YOU CLEARED MANIA MODE~23~~00~}#030#024
+YOU CLEARED MANIA MODE~23~~00~#024
+;00000018{INPUT SECRET CODE AT TITLE SCREEN]~00~}#038#035
+INPUT SECRET CODE AT TITLE SCREEN]~00~#035
+;0000003B{WHAT DO YOU THINK ABOUT THIS GAME_~00~}#038#035
+WHAT DO YOU THINK ABOUT THIS GAME_~00~#035
+;0000005E{PLEASE TELL US\~00~}#019#016
+PLEASE TELL US\~00~#016
+;0000006E{AND WE WILL LISTEN TO WHAT YOU SAY]~00~}#039#036
+AND WE WILL LISTEN TO WHAT YOU SAY]~00~#036
+;00000092{SEE YOU AGAIN NEXT TIME~23~~00~}#031#025
+SEE YOU AGAIN NEXT TIME~23~~00~#025
+;000000AB{"HN~B9~~00~}#011#005
+"HN~B9~~00~#005
+;000000B0{~00~}#004#001
+~00~#001
+;000000B1{~A9~~8E~}#008#002
+~A9~~8E~#002
+|179
+@000F09B6-000F0BAD-00
+;00000000{Year 2025 of the Universal Era~00~}#034#031
+Year 2025 of the Universal Era~00~#031
+;0000001F{Invaders attacked from deep space, heavily~0A~outnumbering the Earth Federation's forces.~00~}#093#087
+Invaders attacked from deep space, heavily~0A~outnumbering the Earth Federation's forces.~00~#087
+;00000076{The Earth Federation Navy's First Fleet~00~}#043#040
+The Earth Federation Navy's First Fleet~00~#040
+;0000009E{The Flagship [Oberon]~00~}#025#022
+The Flagship [Oberon]~00~#022
+;000000B4{Major damage to the battleship Carn Galva!~0A~The heavy cruiser Cormoran has been sunk!~00~}#091#085
+Major damage to the battleship Carn Galva!~0A~The heavy cruiser Cormoran has been sunk!~00~#085
+;00000109{We've lost 15% of our fleet...~00~}#034#031
+We've lost 15% of our fleet...~00~#031
+;00000128{How can they have this much power...~00~}#040#037
+How can they have this much power...~00~#037
+;0000014D{Sir, it will be seven minutes before we can~0A~commence the withdrawal of the entire fleet.~00~}#095#089
+Sir, it will be seven minutes before we can~0A~commence the withdrawal of the entire fleet.~00~#089
+;000001A6{If the enemy fleet maintains their formation~0A~our losses will reach 30%...~00~}#080#074
+If the enemy fleet maintains their formation~0A~our losses will reach 30%...~00~#074
+;000001F0{30%...?~00~}#011#008
+30%...?~00~#008
+|504
+@000F0BAE-000F148D-00
+;00000000{The enemy fleet is starting to move!~00~}#040#037
+The enemy fleet is starting to move!~00~#037
+;00000025{They are amassing at one o'clock, distance 20!~00~}#050#047
+They are amassing at one o'clock, distance 20!~00~#047
+;00000054{What are they doing...?~00~}#027#024
+What are they doing...?~00~#024
+;0000006C{Hostile warp signature detected!~0A~It's right beside us!~00~}#061#055
+Hostile warp signature detected!~0A~It's right beside us!~00~#055
+;000000A3{What's happening?~00~}#021#018
+What's happening?~00~#018
+;000000B5{The Heavy Cruiser [Titania]~00~}#031#028
+The Heavy Cruiser [Titania]~00~#028
+;000000D1{What's that?~00~}#016#013
+What's that?~00~#013
+;000000DE{Ah!~00~}#007#004
+Ah!~00~#004
+;000000E2{What's the matter?~00~}#022#019
+What's the matter?~00~#019
+;000000F5{The Oberon!~00~}#015#012
+The Oberon!~00~#012
+;00000101{This can't be...~00~}#020#017
+This can't be...~00~#017
+;00000112{There was no warp reaction~0A~from the flagship itself!~00~}#059#053
+There was no warp reaction~0A~from the flagship itself!~00~#053
+;00000147{You're saying they captured the entire ship?~00~}#048#045
+You're saying they captured the entire ship?~00~#045
+;00000174{Possibly...~00~}#015#012
+Possibly...~00~#012
+;00000180{Incredible...~00~}#017#014
+Incredible...~00~#014
+;0000018E{The Earth Federation Navy's Second Fleet~00~}#044#041
+The Earth Federation Navy's Second Fleet~00~#041
+;000001B7{The Carrier [Ariel]~00~}#023#020
+The Carrier [Ariel]~00~#020
+;000001CB{Come in, Ensign Cabrock.~00~}#028#025
+Come in, Ensign Cabrock.~00~#025
+;000001E4{Ensign Cabrock...~0A~No, Lucia...~00~}#037#031
+Ensign Cabrock...~0A~No, Lucia...~00~#031
+;00000203{Captain?~00~}#012#009
+Captain?~00~#009
+;0000020C{You need to steady yourself for what~0A~I'm about to tell you.~00~}#066#060
+You need to steady yourself for what~0A~I'm about to tell you.~00~#060
+;00000248{Your father, Admiral Cabrock's vessel...~00~}#044#041
+Your father, Admiral Cabrock's vessel...~00~#041
+;00000271{Did something happen to my father!?~00~}#039#036
+Did something happen to my father!?~00~#036
+;00000295{We recently received a report. We don't know~0A~the exact circumstances...~00~}#078#072
+We recently received a report. We don't know~0A~the exact circumstances...~00~#072
+;000002DD{...but it seems that the Admiral's ship was~0A~warped to another sector by the enemy.~00~}#089#083
+...but it seems that the Admiral's ship was~0A~warped to another sector by the enemy.~00~#083
+;00000330{How is it being pursued?~00~}#028#025
+How is it being pursued?~00~#025
+;00000349{By tracing the stellar wake we know~0A~approximately where it ended up, but...~00~}#082#076
+By tracing the stellar wake we know~0A~approximately where it ended up, but...~00~#076
+;00000395{Are you saying that they are on their own!?~00~}#047#044
+Are you saying that they are on their own!?~00~#044
+;000003C1{The enemy fleet has much more firepower~0A~than we anticipated.~00~}#067#061
+The enemy fleet has much more firepower~0A~than we anticipated.~00~#061
+;000003FE{Right now their strength probably exceeds~0A~our own~3B~ we have nothing to match it.~00~}#089#080
+Right now their strength probably exceeds~0A~our own~3B~ we have nothing to match it.~00~#080
+;0000044E{How awful...~00~}#016#013
+How awful...~00~#013
+;0000045B{However, we are hurriedly completing~0A~a new type of fighter.~00~}#066#060
+However, we are hurriedly completing~0A~a new type of fighter.~00~#060
+;00000497{If we can use it in this war, we might be~0A~able to win. We must be patient for a while.~00~}#093#087
+If we can use it in this war, we might be~0A~able to win. We must be patient for a while.~00~#087
+;000004EE{Lucia...~00~}#012#009
+Lucia...~00~#009
+;000004F7{But he'll be dead by then!~00~}#030#027
+But he'll be dead by then!~00~#027
+;00000512{This is the military's decision.~0A~I'm sorry Lucia...~00~}#058#052
+This is the military's decision.~0A~I'm sorry Lucia...~00~#052
+;00000546{Father...~00~}#013#010
+Father...~00~#010
+;00000550{What's the matter, Lucia?~00~}#029#026
+What's the matter, Lucia?~00~#026
+;0000056A{My father's ship... the enemy, they...~00~}#042#039
+My father's ship... the enemy, they...~00~#039
+;00000591{No way!~0A~They sunk it?!~00~}#029#023
+No way!~0A~They sunk it?!~00~#023
+;000005A8{No, it's somewhere in another sector of space.~0A~Apparently they have ship-transporter devices...~00~}#102#096
+No, it's somewhere in another sector of space.~0A~Apparently they have ship-transporter devices...~00~#096
+;00000608{Well, he's still alive then, right?~00~}#039#036
+Well, he's still alive then, right?~00~#036
+;0000062C{I don't know...~0A~I just don't know...~00~}#043#037
+I don't know...~0A~I just don't know...~00~#037
+;00000651{What about the navy?~0A~What are they doing!?~00~}#049#043
+What about the navy?~0A~What are they doing!?~00~#043
+;0000067C{With their current military strength~0A~there's no hope that they can win.~00~}#078#072
+With their current military strength~0A~there's no hope that they can win.~00~#072
+;000006C4{That's terrible...~00~}#022#019
+That's terrible...~00~#019
+;000006D7{But there is a new fighter in development.~0A~If they use that, then...~00~}#075#069
+But there is a new fighter in development.~0A~If they use that, then...~00~#069
+;0000071C{You can't wait for that!~0A~You must go now!~00~}#048#042
+You can't wait for that!~0A~You must go now!~00~#042
+;00000746{But...~00~}#010#007
+But...~00~#007
+;0000074D{If it's the same machine you're talking about,~0A~there's a prototype on this ship.~00~}#087#081
+If it's the same machine you're talking about,~0A~there's a prototype on this ship.~00~#081
+;0000079E{I heard Commander Rues talking about it.~00~}#044#041
+I heard Commander Rues talking about it.~00~#041
+;000007C7{Huh?~00~}#008#005
+Huh?~00~#005
+;000007CC{I'll help you!~0A~Go save your father!~00~}#042#036
+I'll help you!~0A~Go save your father!~00~#036
+;000007F0{Teim...!~00~}#012#009
+Teim...!~00~#009
+;000007F9{What's the matter?~00~}#022#019
+What's the matter?~00~#019
+;0000080C{Something's happening in the dock...~0A~It's Bay 14! Someone's in the new fighter!~00~}#086#080
+Something's happening in the dock...~0A~It's Bay 14! Someone's in the new fighter!~00~#080
+;0000085C{What?!~00~}#010#007
+What?!~00~#007
+;00000863{Communication link established!~00~}#035#032
+Communication link established!~00~#032
+;00000883{To whoever is piloting the CSH-01-XA:~0A~This is Control, respond!~00~}#070#064
+To whoever is piloting the CSH-01-XA:~0A~This is Control, respond!~00~#064
+;000008C3{This is Ensign Cabrock.~0A~I...~00~}#035#029
+This is Ensign Cabrock.~0A~I...~00~#029
+|2272
+@000F148E-000F1505-00
+;00000000{Lucia?!~00~}#011#008
+Lucia?!~00~#008
+;00000008{It's still being tested!~0A~We don't know what will happen!~00~}#063#057
+It's still being tested!~0A~We don't know what will happen!~00~#057
+;00000041{Stop immediately!~00~}#021#018
+Stop immediately!~00~#018
+;00000053{My father... he'll be killed...~0A~I...~00~}#043#037
+My father... he'll be killed...~0A~I...~00~#037
+|120
+@000F1506-000F153C-00
+;00000000{I understand how you feel,~0A~but it's too dangerous!~00~}#057#051
+I understand how you feel,~0A~but it's too dangerous!~00~#051
+;00000033{...~00~}#007#004
+...~00~#004
+|55
+@000F153D-000F1CB2-00
+;00000000{The hatch is opening!~0A~We won't be able to stop her in time!~00~}#066#060
+The hatch is opening!~0A~We won't be able to stop her in time!~00~#060
+;0000003C{I will definitely return home alive.~0A~Please let me go!~00~}#061#055
+I will definitely return home alive.~0A~Please let me go!~00~#055
+;00000073{...Let her go.~00~}#018#015
+...Let her go.~00~#015
+;00000082{But...~00~}#010#007
+But...~00~#007
+;00000089{This situation is heart-rending for me too.~0A~Let her go.~00~}#062#056
+This situation is heart-rending for me too.~0A~Let her go.~00~#056
+;000000C1{Father... please don't die!~00~}#031#028
+Father... please don't die!~00~#028
+;000000DD{...is...   ...brock...  ...ear...      ...nav...  ...first...~00~}#065#062
+...is...   ...brock...  ...ear...      ...nav...  ...first...~00~#062
+;0000011B{Is this... my father...?~00~}#028#025
+Is this... my father...?~00~#025
+;00000134{...Ken Cabrock of...  ...Earth Feder...    ...Fleet.~00~}#056#053
+...Ken Cabrock of...  ...Earth Feder...    ...Fleet.~00~#053
+;00000169{Father!? It's me!~0A~Can you hear me!? It's Lucia!~00~}#054#048
+Father!? It's me!~0A~Can you hear me!? It's Lucia!~00~#048
+;00000199{Lucia? Lucia?~00~}#017#014
+Lucia? Lucia?~00~#014
+;000001A7{I'm coming to rescue you!~0A~I'll be there soon!~00~}#052#046
+I'm coming to rescue you!~0A~I'll be there soon!~00~#046
+;000001D5{Lu...~00~}#009#006
+Lu...~00~#006
+;000001DB{What's going on!?~0A~Father??~00~}#033#027
+What's going on!?~0A~Father??~00~#027
+;000001F6{Lucia!~00~}#010#007
+Lucia!~00~#007
+;000001FD{Lieutenant!?~00~}#016#013
+Lieutenant!?~00~#013
+;0000020A{That was a selfish thing you did.~00~}#037#034
+That was a selfish thing you did.~00~#034
+;0000022C{There is no excuse for what I have done, but I...~00~}#053#050
+There is no excuse for what I have done, but I...~00~#050
+;0000025E{Well, at least you're safe.~0A~We'll be there soon.~00~}#055#049
+Well, at least you're safe.~0A~We'll be there soon.~00~#049
+;0000028F{Huh?~00~}#008#005
+Huh?~00~#005
+;00000294{The captain is requesting permission from~0A~Federation Headquarters for a fleet sortie.~00~}#092#086
+The captain is requesting permission from~0A~Federation Headquarters for a fleet sortie.~00~#086
+;000002EA{Should they decline, I'll come myself.~00~}#042#039
+Should they decline, I'll come myself.~00~#039
+;00000311{Lieutenant...~00~}#017#014
+Lieutenant...~00~#014
+;0000031F{Lucia...~0A~Don't get yourself killed.~00~}#042#036
+Lucia...~0A~Don't get yourself killed.~00~#036
+;00000343{Lucia! Lucia!~0A~Can you hear me? Lucia!?~00~}#045#039
+Lucia! Lucia!~0A~Can you hear me? Lucia!?~00~#039
+;0000036A{Father?~0A~Father, is that you!?~00~}#036#030
+Father?~0A~Father, is that you!?~00~#030
+;00000388{We are being pursued by enemy fighters!~0A~Our shields won't last much longer!~00~}#082#076
+We are being pursued by enemy fighters!~0A~Our shields won't last much longer!~00~#076
+;000003D4{Hold on father!~0A~I'll be there soon!~00~}#042#036
+Hold on father!~0A~I'll be there soon!~00~#036
+;000003F8{ Father...!~0A~ Thank God you're alive!~00~}#043#037
+ Father...!~0A~ Thank God you're alive!~00~#037
+;0000041D{ Lucia...~00~}#013#010
+ Lucia...~00~#010
+;00000427{ Lucia!~00~}#011#008
+ Lucia!~00~#008
+;0000042F{ Admiral!~00~}#013#010
+ Admiral!~00~#010
+;00000439{ Teim!~0A~ Eddy!~00~}#020#014
+ Teim!~0A~ Eddy!~00~#014
+;00000447{ The enemy's main forces~0A~ are gathering nearby...~0A~ Now's our chance!~00~}#078#069
+ The enemy's main forces~0A~ are gathering nearby...~0A~ Now's our chance!~00~#069
+;0000048C{ Even though you say we have a chance,~0A~ what are the odds of defeating the~0A~ entire enemy fleet...~00~}#107#098
+ Even though you say we have a chance,~0A~ what are the odds of defeating the~0A~ entire enemy fleet...~00~#098
+;000004EE{ What are you saying?!~0A~ You came all this way by yourself!~00~}#065#059
+ What are you saying?!~0A~ You came all this way by yourself!~00~#059
+;00000529{ That's right! And the enemy forces~0A~ are steadily increasing!~0A~ This may be our only chance!~00~}#101#092
+ That's right! And the enemy forces~0A~ are steadily increasing!~0A~ This may be our only chance!~00~#092
+;00000585{ Father...~00~}#014#011
+ Father...~00~#011
+;00000590{ Lucia...~00~}#013#010
+ Lucia...~00~#010
+;0000059A{ I'll go...                                                   ~0A~ ...and I will definitely come back alive!~00~}#112#106
+ I'll go...                                                   ~0A~ ...and I will definitely come back alive!~00~#106
+;00000604{ Father!!~00~}#013#010
+ Father!!~00~#010
+;0000060E{ Lucia!~00~}#011#008
+ Lucia!~00~#008
+;00000616{ Father's capsule...!~00~}#025#022
+ Father's capsule...!~00~#022
+;0000062C{ Leave the Admiral to us!~0A~ You take care of the enemy!~00~}#061#055
+ Leave the Admiral to us!~0A~ You take care of the enemy!~00~#055
+;00000663{ The enemy's main force is assembling!~0A~ Only the Gleylancer can match them now...~0A~ We cannot waste even a moment!~00~}#123#114
+ The enemy's main force is assembling!~0A~ Only the Gleylancer can match them now...~0A~ We cannot waste even a moment!~00~#114
+;000006D5{ Father... surely...~00~}#024#021
+ Father... surely...~00~#021
+;000006EA{ ...surely you must still be alive...~00~}#041#038
+ ...surely you must still be alive...~00~#038
+;00000710{ This is not just about the Admiral!~0A~ We're in this to save everyone!~00~}#076#070
+ This is not just about the Admiral!~0A~ We're in this to save everyone!~00~#070
+;00000756{ You're right.~0A~ I can do this!~00~}#037#031
+ You're right.~0A~ I can do this!~00~#031
+;00000775{~00~}#004#001
+~00~#001
+|1910

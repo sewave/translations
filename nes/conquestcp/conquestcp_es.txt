@@ -1,0 +1,112 @@
+@0000F028-0000F356-FF
+;00000000{THANK YOU FOR~F0~RESCUING ME. NOW I AM~F0~BEAUTIFUL AGAIN. IN MY~F0~GRATITUDE TO YOU, I~F0~WANT YOU TO HAVE A~F0~SPECIAL GIFT.~F0~FARRON HAS EARNED A~F0~MOON MIRROR.~FF~}#169#145
+Gracias por rescatarme.~F0~Ahora soy bella de ~F0~nuevo. ~F0~Como muestra de  ~F0~gratitud, quiero darte~F0~un regalo especial.~F0~Farron obtiene un~F0~Espejo Lunar.~FF~#145
+;00000091{THE LIFE CRYSTAL~F0~INCREASES YOUR HEALTH.~FF~}#046#040
+El cristal de vida~F0~incrementa tu salud.~FF~#040
+;000000B9{THE SPIRIT CRYSTAL IN_~F0~CREASES YOUR WEAPONRY.~FF~}#052#046
+El cristal de espíritu~F0~mejora tus armas.     ~FF~#046
+;000000E7{THE FLIGHT CRYSTAL IN_~F0~CREASES JUMPING SKILL.~FF~}#052#046
+El cristal de vuelo   ~F0~mejora tus saltos.    ~FF~#046
+;00000115{HELLO FARRON!  IM ZAP,~F0~YOUR GUARDIAN DOG!~F0~NOW I CAN REVEAL THE~F0~TRUTH: I WAS ONCE A~F0~KEEPER OF THE CRYSTAL~F0~PALACE.~F0~AND YOU WERE A PRINCE ~F0~IN THIS MIGHTY ~F0~KINGDOM.~F0~~F0~~F2~MANY YEARS AGO, ZARAS~F0~OF THE INFERNAL~F0~PLATEAU, CONQUERED THE~F0~CRYSTAL PALACE AND~F0~CROWNED HIMSELF KING.~F0~~F0~YOU WERE JUST A~F0~BABY THEN.~F0~NOW WE ARE THE ONLY~F0~SURVIVORS.~F0~BEFORE I ESCAPED, I~F0~SEALED THE CRYSTAL~F0~POWERS.~F0~~F0~~F2~THE TIME HAS COME TO~F0~TAKE THESE CRYSTALS~F0~AND BRING BACK OUR~F0~KINGDOM.~F0~FOR NOW, TAKE ONLY ONE~F0~CRYSTAL.~F0~~FF~}#577#475
+¡Hola Farron! Soy Zap,~F0~¡tu perro guardián!~F0~Ahora puedo revelarte~F0~la verdad: yo era~F0~guardián del Palacio de~F0~Cristal.~F0~Tu eras un príncipe ~F0~en este poderoso~F0~reino.~F0~~F0~~F2~Hace unos años, Zaras~F0~de la meseta~F0~infernal, conquistó el~F0~Palacio de Cristal y se~F0~coronó rey.~F0~~F0~Solo eras un bebé~F0~entonces.~F0~Somos los únicos~F0~supervivientes.~F0~Antes de escapar,~F0~sellé los Cristales~F0~de poder.    ~F0~~F0~~F2~Ha llegado la hora de~F0~coger esos cristales y~F0~recuperar el reino.~F0~Por ahora, coge solo un~F0~Cristal.   ~F0~~FF~#475
+;000002F0{THE CRYSTALS ARE~F0~GLOWING !?~FF~}#034#028
+¿¡ Los cristales~F0~brillan !?~FF~#028
+;0000030C{WE ARE READY TO DEFEAT~F0~KING ZARAS.~FF~}#041#035
+Ya podemos vencer al~F0~rey Zaras.   ~FF~#035
+|815
+@0000DC14-0000E4A9-00-01-02-03-04-05-06-07-08-09
+;00000000{WELCOME~FE~TO THE ASTRAL MART!~FE~~01~}#038#029
+¡Este es el super~FE~astral!  ~FE~~01~#029
+;0000001D{[~01~}#005#002
+[~01~#002
+;0000001F{[~01~}#005#002
+[~01~#002
+;00000021{WHAT DO YOU DESIRE?~FE~~01~}#027#021
+¿Qué deseas?       ~FE~~01~#021
+;00000036{THE COST IS~FE~~01~}#019#013
+El coste es~FE~~01~#013
+;00000043{IN GOLD.~FE~~02~}#016#010
+de oro. ~FE~~02~#010
+;0000004D{YOU ALREADY HAVE~FE~THAT ITEM.~FE~~01~}#038#029
+Ya tienes ese objeto.~FE~     ~FE~~01~#029
+;0000006A{THANK YOU.~FE~~02~}#018#012
+Gracias.  ~FE~~02~#012
+;00000076{SORRY, YOU DON'T HAVE~FE~ENOUGH MONEY.~FE~~03~}#049#037
+Perdona, pero te falta~FE~dinero.     ~FE~~03~#037
+;0000009B{YOU DON'T HAVE ENOUGH~FE~MONEY.~FE~QUIT BUGGING ME!~FE~~02~}#062#047
+No tienes dinero~FE~suficiente.~FE~¡No me molestes!~FE~~02~#047
+;000000CA{THANKS FOR COMING!~FE~PLEASE COME AGAIN!~FE~~03~}#048#039
+¡Gracias por venir!~FE~¡Vuelva otra vez!~FE~~03~#039
+;000000F1{THANK YOU FOR BUYING~FE~SO MANY ITEMS,~FE~GOOD_LOOKING.~FE~~03~}#063#051
+Gracias por comprar~FE~tantos objetos,~FE~guapetón.    ~FE~~03~#051
+;00000124{THANK YOU FOR BUYING~FE~SO MANY ITEMS,~FE~BIG_SPENDER.~FE~~02~}#062#050
+Gracias por comprar~FE~tantos objetos,~FE~gastador.   ~FE~~02~#050
+;00000156{I AM KIM. MAY I TELL~FE~YOU ABOUT THIS WEAPON?~FE~~04~}#054#045
+Soy Kim. ¿Te cuento ~FE~cosas de esta arma?   ~FE~~04~#045
+;00000183{AT FIRST GLANCE, IT MAY~FE~LOOK HARMLESS, BUT IT~FE~WORKS WELL AGAINST THE~FE~FIRE DEMON.~FE~~03~}#097#082
+Quizá parezca          ~FE~inofensivo, pero es~FE~útil contra el demonio~FE~de fuego.    ~FE~~03~#082
+;000001D5{THIS SPHERICAL WEAPON~FE~WILL RETURN TO YOU~FE~LIKE A BOOMERANG.~FE~~03~}#072#060
+Este arma esférica   ~FE~volverá a ti como un ~FE~búmeran.      ~FE~~03~#060
+;00000211{THIS SPHERICAL WEAPON~FE~WILL SPIRAL AND SPLIT~FE~IN TWO.~FE~~03~}#065#053
+Este arma esférica hace~FE~una espiral y se~FE~bifurca.  ~FE~~03~#053
+;00000246{THIS SPHERICAL WEAPON~FE~ROLLS AND DESTROYS MANY~FE~OBSTACLES.~FE~~02~}#070#058
+Este arma esférica gira~FE~y destruye varios~FE~obstáculos.   ~FE~~02~#058
+;00000280{QNN NEWS REPORT:~FE~DO YOU WANT TO HEAR IT?~FE~~01~}#051#042
+Noticiero QNN:  ~FE~¿Quieres oírlo?        ~FE~~01~#042
+;000002AA{HERE IT IS:~FE~~FE~~01~}#023#014
+Aquí está: ~FE~~FE~~01~#014
+;000002B8{`~FE~~01~}#009#003
+`~FE~~01~#003
+;000002BB{NEWS BUREAU REPORTING_~FE~~02~}#030#024
+Oficina de noticias__ ~FE~~02~#024
+;000002D3{THAT'S THE NEWS.~FE~HAVE A NICE DAY!~FE~~09~}#047#035
+Son las noticias.~FE~¡Ten buen día! ~FE~~09~#035
+;000002F6{A NEW DEVELOPMENT HAS~FE~EMERGED IN THE KIDNAP_~FE~PING CASE OF THE~FE~CRYSTAL PRINCESS.~FE~SOURCES SAY SHE HAS~FE~BEEN TAKEN TO THE~FE~REALM OF THE GUARDIAN~FE~BY ONE OF EVIL KING~FE~ZARAS' HENCHMEN.~FE~~06~}#211#178
+Ha emergido un nuevo ~FE~acontecimiento en el~FE~caso del rapto de la~FE~princesa de cristal.~FE~Las fuentes dicen que~FE~la ha llevado al reino ~FE~del guardian un secuaz~FE~del malvado rey~FE~Zaras.~FE~~06~#178
+;000003A8{THE KEEPERS OF MOUNT~FE~CRYSTAL, KENTAR AND~FE~KELLIX, HAVE FINALLY~FE~MET THEIR FIENDISH END.~FE~THEIR ANGRY FATHER HAS~FE~VOWED REVENGE.~FE~~05~}#146#125
+Los guardianes del monte~FE~de cristal,    ~FE~Kentar y Kellix,    ~FE~han conocido su final. ~FE~Su enfadado padre ha~FE~jurado venganza.~FE~~05~#125
+;00000425{A LARGE STORM SYSTEM IS~FE~HEADING THIS WAY. ORGES~FE~WILL FALL FROM THE SKY~FE~AND ACID RAIN IS~FE~EXPECTED IN SOME AREAS.~FE~~06~}#131#113
+Un gran sistema de    ~FE~tormentas se acerca.  ~FE~Caerá grano del cielo ~FE~y habrá lluvia ácida en~FE~algunas zonas.    ~FE~~06~#113
+;00000496{A LARGE FIRE AT THE~FE~GATEWAY OF FLAME WILL~FE~CONTINUE INDEFINITELY.~FE~TAKE YOUR FUEGO WITH~FE~YOU IF YOU PLAN TO GO~FE~OUT.~FE~~06~}#135#114
+El gran incendio de la ~FE~puerta de llama arderá ~FE~indefinidamente. ~FE~Lleva tu fuego contigo~FE~si planeas salir.~FE~     ~FE~~06~#114
+;00000508{THE STORM IS SHOWING~FE~NO SIGNS OF STOPPING...~FE~SEVERE THUNDERSTORMS~FE~HAVE BEEN REPORTED...~FE~BE CAREFUL IF YOU'RE~FE~ON THE ROAD.~FE~~02~}#147#123
+La tormenta no muestra~FE~indicios de parar...~FE~Se han reportado serias~FE~tormentas electricas...~FE~Ten cuidado si sales~FE~fuera.  ~FE~~02~#123
+;00000583{HERBS RESTORE SOME OF~FE~YOUR LIFE POWER.~FE~~03~}#049#040
+La hierba recupera algo~FE~de tu vida.   ~FE~~03~#040
+;000005AB{SUPER HERBS WILL~FE~RESTORE ALL OF YOUR~FE~LIFE POWER.~FE~~02~}#062#050
+Las super hierbas~FE~restaurarán toda tu~FE~vida.     ~FE~~02~#050
+;000005DD{THE FIGURINE WILL GIVE~FE~YOU AN EXTRA LIFE.~FE~~02~}#052#043
+La figurita te dará una~FE~vida extra.      ~FE~~02~#043
+;00000608{THE POTION WILL EXTEND~FE~YOUR LIFE POWER.~FE~~02~}#050#041
+La poción extenderá tu~FE~poder vital.    ~FE~~02~#041
+;00000631{ZAP CHOW WILL RESTORE~FE~SOME OF ZAP'S POWER.~FE~~04~}#056#044
+Zap chow restaurará  ~FE~algo de vida a Zap. ~FE~~04~#044
+;0000065D{IF YOU BUY THE DOG~FE~WHISTLE YOU CAN USE THE~FE~UP BUTTON FOR SOMETHING~FE~GREAT.~FE~~02~}#090#075
+Si compras el silvato de~FE~perro pulsa hacia arriba~FE~para hacer algo~FE~genial.~FE~~02~#075
+;000006A8{BUY THE FIRE SCROLL AND~FE~YOU CAN HANDLE FIRE.~FE~~02~}#055#046
+El pergamino de fuego~FE~permite usar el fuego.~FE~~02~#046
+;000006D6{FUEGO: YOU'LL NEED IT TO~FE~DEFEAT THE FIRE DEMON.~FE~~03~}#061#049
+Fuego: Usado para vencer~FE~al demonio de fuego.  ~FE~~03~#049
+;00000707{BOOMERANG ANNIHILATOR:~FE~THE SELF RETURNING ~FE~WEAPON.~FE~~02~}#064#052
+Búmeran aniquilador:  ~FE~El arma que vuelve ~FE~sola.  ~FE~~02~#052
+;0000073B{DOUBLE DEATH: THE DUAL~FE~SPIRALING WEAPON.~FE~~02~}#051#042
+Doble muerte: El arma de~FE~espiral dual.  ~FE~~02~#042
+;00000765{THE NUKER: THE POWERFUL~FE~EXPLODING WEAPON.~FE~~02~}#052#043
+La nuke: La poderosa   ~FE~arma explosiva.  ~FE~~02~#043
+;00000790{JUMPING SHOES GIVE YOU~FE~MORE JUMPING SKILL.~FE~~02~}#053#044
+Las zapatillas salto te~FE~hacen saltar más. ~FE~~02~#044
+;000007BC{MOUNT CRYSTAL~FE~NEWS BUREAU REPORTING.~FE~~02~}#047#038
+Monte cristal~FE~oficina de noticias.  ~FE~~02~#038
+;000007E2{REALM OF THE GUARDIAN~FE~NEWS BUREAU REPORTING.~FE~~02~}#055#046
+Reino del guardián   ~FE~oficina de noticias.  ~FE~~02~#046
+;00000810{LAIR OF HUNGRY GHOSTS~FE~NEWS BUREAU REPORTING.~FE~~02~}#055#046
+Guarida fantasmas ham.~FE~oficina de noticias. ~FE~~02~#046
+;0000083E{GATEWAY OF FLAME~FE~NEWS BUREAU REPORTING.~FE~~02~}#050#041
+Puerta de llama ~FE~oficina de noticias.  ~FE~~02~#041
+;00000867{REALM OF JEALOUS GHOSTS~FE~NEWS BUREAU REPORTING.~FE~}#053#047
+Reino fantasmas celosos~FE~oficina de noticias.  ~FE~#047
+|2198
+@0000CDE8-0000CDF1-FE
+;00000000{ IN GOLD.~FE~}#013#010
+ de oro. ~FE~#010
+|10

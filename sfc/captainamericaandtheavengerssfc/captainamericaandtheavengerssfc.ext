@@ -1,0 +1,238 @@
+@0000051C-00000521-FF
+;00000000{Pause~FF~}#009#006
+Pause~FF~#006
+|6
+@00000D1A-00000D3C-FF
+;00000000{GAME  = OVER ~FF~}#017#014
+GAME  = OVER ~FF~#014
+;0000000E{Choose=  A   = Hero ~FF~}#024#021
+Choose=  A   = Hero ~FF~#021
+|35
+@00001E3D-00001E7C-FF
+;00000000{Awesome.Radical.Gnarly. Good JobCool    Fair    PracticeWeak    }#064#064
+Awesome.Radical.Gnarly. Good JobCool    Fair    PracticeWeak    #064
+|64
+@00001E97-00001FFA-FF
+;00000000{ Copyright )1993 Marvel=Entertainment Group, Inc.=  Captain America and= The Avengers, Iron Man,=   Hawkeye, Vision:= ( and Copyright ) 1993=  Marvel Entertainment=      Group, Inc.==Game Concept Copyright )=   1992 Data East USA==    Copyright )1993=     Mindscape Inc.=  A Software Toolworks=        Company=  All Rights Reserved==  Licensed by Nintendo~FF~}#359#356
+ Copyright )1993 Marvel=Entertainment Group, Inc.=  Captain America and= The Avengers, Iron Man,=   Hawkeye, Vision:= ( and Copyright ) 1993=  Marvel Entertainment=      Group, Inc.==Game Concept Copyright )=   1992 Data East USA==    Copyright )1993=     Mindscape Inc.=  A Software Toolworks=        Company=  All Rights Reserved==  Licensed by Nintendo~FF~#356
+|356
+@00005009-0000545E-FF
+;00000000{(~3D~[\\\\\\\\\\\\\]=^             %=^ I'll handle %=^ this!       %=^             %=`{{{{{{{{{{{{{}~FF~}#104#098
+(~3D~[\\\\\\\\\\\\\]=^             %=^ I'll handle %=^ this!       %=^             %=`{{{{{{{{{{{{{}~FF~#098
+;00000062{*~3D~[\\\\\\\\\\\\\\\\\\]=^                  %=^ Don't interfere, %=^ Avenger!         %=^                  %=`{{{{{{{{{{{{{{{{{{}~FF~}#134#128
+*~3D~[\\\\\\\\\\\\\\\\\\]=^                  %=^ Don't interfere, %=^ Avenger!         %=^                  %=`{{{{{{{{{{{{{{{{{{}~FF~#128
+;000000E2{"~3D~[\\\\\\\\\\\\\\\\\\\]=^                   %=^ Villains like you %=^ must be crushed!  %=^                   %=`{{{{{{{{{{{{{{{{{{{}~FF~}#140#134
+"~3D~[\\\\\\\\\\\\\\\\\\\]=^                   %=^ Villains like you %=^ must be crushed!  %=^                   %=`{{{{{{{{{{{{{{{{{{{}~FF~#134
+;00000168{"~3D~[\\\\\\\\\\\\\\\\\\\]=^                   %=^ You can't escape! %=^                   %=`{{{{{{{{{{{{{{{{{{{}~FF~}#118#112
+"~3D~[\\\\\\\\\\\\\\\\\\\]=^                   %=^ You can't escape! %=^                   %=`{{{{{{{{{{{{{{{{{{{}~FF~#112
+;000001D8{+~3D~[\\\\\\\\\\\\\\\\\]=^                 %=^ You will wish   %=^ you never came! %=^                 %=`{{{{{{{{{{{{{{{{{}~FF~}#128#122
++~3D~[\\\\\\\\\\\\\\\\\]=^                 %=^ You will wish   %=^ you never came! %=^                 %=`{{{{{{{{{{{{{{{{{}~FF~#122
+;00000252{"~3D~[\\\\\\\\\\\\\\\\\\\]=^                   %=^ I'm here to teach %=^ you a lesson!     %=^                   %=`{{{{{{{{{{{{{{{{{{{}~FF~}#140#134
+"~3D~[\\\\\\\\\\\\\\\\\\\]=^                   %=^ I'm here to teach %=^ you a lesson!     %=^                   %=`{{{{{{{{{{{{{{{{{{{}~FF~#134
+;000002D8{)~3D~[\\\\\\\\\\\\\\\\\\\]=^                   %=^ Puny superheroes, %=^ all talk and no   %=^ action!           %=^                   %=`{{{{{{{{{{{{{{{{{{{}~FF~}#162#156
+)~3D~[\\\\\\\\\\\\\\\\\\\]=^                   %=^ Puny superheroes, %=^ all talk and no   %=^ action!           %=^                   %=`{{{{{{{{{{{{{{{{{{{}~FF~#156
+;00000374{*~3D~[\\\\\\\\\\\\\\\\\\]=^                  %=^ They're in an    %=^ underwater cave! %=^                  %=`{{{{{{{{{{{{{{{{{{}~FF~}#134#128
+*~3D~[\\\\\\\\\\\\\\\\\\]=^                  %=^ They're in an    %=^ underwater cave! %=^                  %=`{{{{{{{{{{{{{{{{{{}~FF~#128
+;000003F4{"~3D~[\\\\\\\\\\\\\]=^             %=^ Thank you,  %=^ Submariner! %=^             %=`{{{{{{{{{{{{{}~FF~}#104#098
+"~3D~[\\\\\\\\\\\\\]=^             %=^ Thank you,  %=^ Submariner! %=^             %=`{{{{{{{{{{{{{}~FF~#098
+|1110
+@0000545F-00005887-FF
+;00000000{-~3D~[\\\\\\\\\\\\\\\]=^               %=^ See my POWER! %=^               %=`{{{{{{{{{{{{{{{}~FF~}#098#092
+-~3D~[\\\\\\\\\\\\\\\]=^               %=^ See my POWER! %=^               %=`{{{{{{{{{{{{{{{}~FF~#092
+;0000005C{*~3D~[\\\\\\\\\\\\\\\\\\]=^                  %=^ You will not     %=^ escape me alive! %=^                  %=`{{{{{{{{{{{{{{{{{{}~FF~}#134#128
+*~3D~[\\\\\\\\\\\\\\\\\\]=^                  %=^ You will not     %=^ escape me alive! %=^                  %=`{{{{{{{{{{{{{{{{{{}~FF~#128
+;000000DC{+~3D~[\\\\\\\\\\\\\\\\\]=^                 %=^ My function is  %=^ to destroy you! %=^                 %=`{{{{{{{{{{{{{{{{{}~FF~}#128#122
++~3D~[\\\\\\\\\\\\\\\\\]=^                 %=^ My function is  %=^ to destroy you! %=^                 %=`{{{{{{{{{{{{{{{{{}~FF~#122
+;00000156{"~3D~[\\\\\\\\\\\\\\\\\\\\\]=^                     %=^ Where is the        %=^ giant laser cannon? %=^                     %=`{{{{{{{{{{{{{{{{{{{{{}~FF~}#152#146
+"~3D~[\\\\\\\\\\\\\\\\\\\\\]=^                     %=^ Where is the        %=^ giant laser cannon? %=^                     %=`{{{{{{{{{{{{{{{{{{{{{}~FF~#146
+;000001E8{*~3D~[\\\\\\\\\\\\\\\\\\]=^                  %=^ I will tell you, %=^ then I will      %=^ eliminate you!   %=^                  %=`{{{{{{{{{{{{{{{{{{}~FF~}#155#149
+*~3D~[\\\\\\\\\\\\\\\\\\]=^                  %=^ I will tell you, %=^ then I will      %=^ eliminate you!   %=^                  %=`{{{{{{{{{{{{{{{{{{}~FF~#149
+;0000027D{+~3D~[\\\\\\\\\\\\\\\\\]=^                 %=^ Adios, Avenger! %=^ You're history. %=^                 %=`{{{{{{{{{{{{{{{{{}~FF~}#128#122
++~3D~[\\\\\\\\\\\\\\\\\]=^                 %=^ Adios, Avenger! %=^ You're history. %=^                 %=`{{{{{{{{{{{{{{{{{}~FF~#122
+;000002F7{-~3D~[\\\\\\\\\\\\\\\]=^               %=^ You'll never  %=^ get past me!  %=^               %=`{{{{{{{{{{{{{{{}~FF~}#116#110
+-~3D~[\\\\\\\\\\\\\\\]=^               %=^ You'll never  %=^ get past me!  %=^               %=`{{{{{{{{{{{{{{{}~FF~#110
+;00000365{"~3D~[\\\\\\\\\\\\]=^            %=^ It's over, %=^ Red Skull! %=^            %=`{{{{{{{{{{{{}~FF~}#098#092
+"~3D~[\\\\\\\\\\\\]=^            %=^ It's over, %=^ Red Skull! %=^            %=`{{{{{{{{{{{{}~FF~#092
+;000003C1{.~3D~[\\\\\\\\\\\\\\]=^              %=^ That's what  %=^ you think!   %=^              %=`{{{{{{{{{{{{{{}~FF~}#110#104
+.~3D~[\\\\\\\\\\\\\\]=^              %=^ That's what  %=^ you think!   %=^              %=`{{{{{{{{{{{{{{}~FF~#104
+|1065
+@00005888-00005AED-FF
+;00000000{'~3D~[\\\\\\\\\\\\\\\\\\\\\\]=^                      %=^ You fools! You       %=^ thought you could    %=^ defeat me so easily! %=^                      %=`{{{{{{{{{{{{{{{{{{{{{{}~FF~}#183#177
+'~3D~[\\\\\\\\\\\\\\\\\\\\\\]=^                      %=^ You fools! You       %=^ thought you could    %=^ defeat me so easily! %=^                      %=`{{{{{{{{{{{{{{{{{{{{{{}~FF~#177
+;000000B1{"~3D~[\\\\\\\\\\\\\\\\\\\\]=^                    %=^ The forces of good %=^ will triumph!      %=^                    %=`{{{{{{{{{{{{{{{{{{{{}~FF~}#146#140
+"~3D~[\\\\\\\\\\\\\\\\\\\\]=^                    %=^ The forces of good %=^ will triumph!      %=^                    %=`{{{{{{{{{{{{{{{{{{{{}~FF~#140
+;0000013D{"~3D~[\\\\\\\\\\\\\\]=^              %=^ WHAT'S THIS? %=^              %=`{{{{{{{{{{{{{{}~FF~}#093#087
+"~3D~[\\\\\\\\\\\\\\]=^              %=^ WHAT'S THIS? %=^              %=`{{{{{{{{{{{{{{}~FF~#087
+;00000194{"~3D~[\\\\\\\\\]=^         %=^ Get On! %=^         %=`{{{{{{{{{}~FF~}#068#062
+"~3D~[\\\\\\\\\]=^         %=^ Get On! %=^         %=`{{{{{{{{{}~FF~#062
+;000001D2{"~3D~[\\\\\\\\\]=^         %=^ OK! GO! %=^         %=`{{{{{{{{{}~FF~}#068#062
+"~3D~[\\\\\\\\\]=^         %=^ OK! GO! %=^         %=`{{{{{{{{{}~FF~#062
+;00000210{"~3D~[\\\\\\\\\\\\\\\\\\\\\\\\\]=^ S T A G E   C L E A R ! %=`{{{{{{{{{{{{{{{{{{{{{{{{{}~FF~}#092#086
+"~3D~[\\\\\\\\\\\\\\\\\\\\\\\\\]=^ S T A G E   C L E A R ! %=`{{{{{{{{{{{{{{{{{{{{{{{{{}~FF~#086
+|614
+@00010004-00010262-FF
+;00000000{ Thanks to the=   brave and=valiant efforts= of our heroes,= the Avengers,= Red Skull and= his evil plan= were crushed,= and the world=  could once= again breathe=    easily.~FF~}#178#175
+ Thanks to the=   brave and=valiant efforts= of our heroes,= the Avengers,= Red Skull and= his evil plan= were crushed,= and the world=  could once= again breathe=    easily.~FF~#175
+;000000AF{~01~~08~~01~~1F~  But for the= Avengers, the=battle doesn't=   end here.= Wherever evil= exists in this=  world, they= must confront=     it...~FF~}#147#132
+~01~~08~~01~~1F~  But for the= Avengers, the=battle doesn't=   end here.= Wherever evil= exists in this=  world, they= must confront=     it...~FF~#132
+;00000133{~01~~0D~~01~~1F~In the name of=   justice,=AVENGERS UNITE!~FF~}#062#047
+~01~~0D~~01~~1F~In the name of=   justice,=AVENGERS UNITE!~FF~#047
+;00000162{~03~~1B~~01~~1F~Choose A Hero~FF~}#033#018
+~03~~1B~~01~~1F~Choose A Hero~FF~#018
+;00000174{~01~~12~~01~~1F~  The laser=  cannon has=been completed.~FF~}#060#045
+~01~~12~~01~~1F~  The laser=  cannon has=been completed.~FF~#045
+;000001A1{~01~~11~~01~~1F~ There's only a=  short time=  before the=laser is set to=     fire!~FF~}#088#073
+~01~~11~~01~~1F~ There's only a=  short time=  before the=laser is set to=     fire!~FF~#073
+;000001EA{~01~~18~~01~~1F~Hurry Avengers!=   Crush Red= Skulls plot!~FF~}#062#047
+~01~~18~~01~~1F~Hurry Avengers!=   Crush Red= Skulls plot!~FF~#047
+;00000219{~05~~08~~05~~1F~  Scene 5==== Red Skull~FF~}#043#028
+~05~~08~~05~~1F~  Scene 5==== Red Skull~FF~#028
+;00000235{~06~~0E~~05~~1F~The End of~FF~}#030#015
+~06~~0E~~05~~1F~The End of~FF~#015
+;00000244{~05~~14~~01~~1F~You cannot=   beat me!~FF~}#042#027
+~05~~14~~01~~1F~You cannot=   beat me!~FF~#027
+|607
+@00010267-00010869-FF
+;00000000{CAPTAIN AMERICA==Real Name:=Steve= Rogers=Health: 140=Height:6'2"=Weight: 240=Job:=Illustrator~FF~}#098#095
+CAPTAIN AMERICA==Real Name:=Steve= Rogers=Health: 140=Height:6'2"=Weight: 240=Job:=Illustrator~FF~#095
+;0000005F{~01~~07~~01~~1F~CAPTAIN AMERICA= Steve Rogers== Picked for the=  experimental= Super Soldier= project during=  World War II.~FF~}#128#113
+~01~~07~~01~~1F~CAPTAIN AMERICA= Steve Rogers== Picked for the=  experimental= Super Soldier= project during=  World War II.~FF~#113
+;000000D0{~01~~0D~~01~~1F~               =  Trained to   =   become a    = one man army. =               ~FF~}#099#084
+~01~~0D~~01~~1F~               =  Trained to   =   become a    = one man army. =               ~FF~#084
+;00000124{~01~~0D~~01~~1F~   A combat   =  expert, his = special skill= is his shield=   throwing   =   ability.   ~FF~}#109#094
+~01~~0D~~01~~1F~   A combat   =  expert, his = special skill= is his shield=   throwing   =   ability.   ~FF~#094
+;00000182{~01~~07~~09~~1F~    IRON MAN==Real Name:=Tony Stark=Health: 155=Height:6'4"=Weight: 425=Job:=Inventor~FF~}#105#090
+~01~~07~~09~~1F~    IRON MAN==Real Name:=Tony Stark=Health: 155=Height:6'4"=Weight: 425=Job:=Inventor~FF~#090
+;000001DC{~01~~07~~01~~1F~    IRON MAN   =   Tony Stark  == President of=    Stark=Industries, he=is an inventor=of new weapons.~FF~}#122#107
+~01~~07~~01~~1F~    IRON MAN   =   Tony Stark  == President of=    Stark=Industries, he=is an inventor=of new weapons.~FF~#107
+;00000247{~01~~0D~~01~~1F~               =His power comes=from his steel =suit of armor. =               ~FF~}#099#084
+~01~~0D~~01~~1F~               =His power comes=from his steel =suit of armor. =               ~FF~#084
+;0000029B{~01~~0D~~01~~1F~               = With his suit = he can travel= underwater or=   in space.  ~FF~}#096#081
+~01~~0D~~01~~1F~               = With his suit = he can travel= underwater or=   in space.  ~FF~#081
+;000002EC{~01~~07~~09~~1F~    VISION==Android=Health: 140=Height:6'3"=Weight: 300=Job:=Adventurer~FF~}#091#076
+~01~~07~~09~~1F~    VISION==Android=Health: 140=Height:6'3"=Weight: 300=Job:=Adventurer~FF~#076
+;00000338{~01~~07~~01~~1F~    VISION=    Android== An artificial=  being with=     great= knowledge of= biology and = engineering.~FF~}#124#109
+~01~~07~~01~~1F~    VISION=    Android== An artificial=  being with=     great= knowledge of= biology and = engineering.~FF~#109
+;000003A5{~01~~0D~~01~~1F~   His power   =  comes from   =light, gathered= by the gem in = his forehead. =               ~FF~}#115#100
+~01~~0D~~01~~1F~   His power   =  comes from   =light, gathered= by the gem in = his forehead. =               ~FF~#100
+;00000409{~01~~0D~~01~~1F~   He uses     =  this light   =energy to fire =his solar beam.=               =               ~FF~}#115#100
+~01~~0D~~01~~1F~   He uses     =  this light   =energy to fire =his solar beam.=               =               ~FF~#100
+;0000046D{~01~~07~~09~~1F~   HAWKEYE==Real Name:=Clint= Barton=Health: 70=Height:6'3"=Weight: 230=Job:=Security= guard~FF~}#112#097
+~01~~07~~09~~1F~   HAWKEYE==Real Name:=Clint= Barton=Health: 70=Height:6'3"=Weight: 230=Job:=Security= guard~FF~#097
+;000004CE{~01~~07~~01~~1F~   HAWKEYE= Clint Barton==   Hawkeye= received his=training under=   Captain=   America.~FF~}#108#093
+~01~~07~~01~~1F~   HAWKEYE= Clint Barton==   Hawkeye= received his=training under=   Captain=   America.~FF~#093
+;0000052B{~01~~0D~~01~~1F~  He is also   =  a naturally  =    skilled    =marksman  with = any thrown or = aimed weapon. ~FF~}#115#100
+~01~~0D~~01~~1F~  He is also   =  a naturally  =    skilled    =marksman  with = any thrown or = aimed weapon. ~FF~#100
+;0000058F{~01~~0D~~01~~1F~    He has     =  superhuman   =   power of    =  sight and    =  is skilled   =  with a bow   =  and arrow.   ~FF~}#131#116
+~01~~0D~~01~~1F~    He has     =  superhuman   =   power of    =  sight and    =  is skilled   =  with a bow   =  and arrow.   ~FF~#116
+|1539
+@0001086E-0001095B-FF
+;00000000{1 Player=2 Players=Options=Training~FF~}#039#036
+1 Player=2 Players=Options=Training~FF~#036
+;00000024{~06~~08~~08~~1F~DIFFICULTY~FF~}#030#015
+~06~~08~~08~~1F~DIFFICULTY~FF~#015
+;00000033{~07~~0F~~08~~1F~CONTINUES~FF~}#029#014
+~07~~0F~~08~~1F~CONTINUES~FF~#014
+;00000041{~06~~16~~08~~1F~CONTROLLER~FF~}#030#015
+~06~~16~~08~~1F~CONTROLLER~FF~#015
+;00000050{~02~~0B~~08~~1F~Easy~FF~}#024#009
+~02~~0B~~08~~1F~Easy~FF~#009
+;00000059{~0D~~0B~~08~~1F~Med.~FF~}#024#009
+~0D~~0B~~08~~1F~Med.~FF~#009
+;00000062{~17~~0B~~08~~1F~Hard~FF~}#024#009
+~17~~0B~~08~~1F~Hard~FF~#009
+;0000006B{~0B~~12~~08~~1F~3~FF~}#021#006
+~0B~~12~~08~~1F~3~FF~#006
+;00000071{~0F~~12~~08~~1F~4~FF~}#021#006
+~0F~~12~~08~~1F~4~FF~#006
+;00000077{~13~~12~~08~~1F~5~FF~}#021#006
+~13~~12~~08~~1F~5~FF~#006
+;0000007D{~01~~1A~~01~  Please press =START to resume~FF~}#047#035
+~01~~1A~~01~  Please press =START to resume~FF~#035
+;000000A0{~05~~05~~08~ HIGH SCORES~FF~}#028#016
+~05~~05~~08~ HIGH SCORES~FF~#016
+;000000B0{~05~~1A~~05~ Great Score= Player 1!~FF~}#039#027
+~05~~1A~~05~ Great Score= Player 1!~FF~#027
+;000000CB{~15~~1C~~05~ 2~FF~}#018#006
+~15~~1C~~05~ 2~FF~#006
+;000000D1{Jump ~FF~}#009#006
+Jump ~FF~#006
+;000000D7{Punch ~FF~}#010#007
+Punch ~FF~#007
+;000000DE{Attk. ~FF~}#010#007
+Attk. ~FF~#007
+;000000E5{Y:~FF~}#006#003
+Y:~FF~#003
+;000000E8{B:~FF~}#006#003
+B:~FF~#003
+;000000EB{A:~FF~}#006#003
+A:~FF~#003
+|238
+@0001095F-00010C6D-FF
+;00000000{ Conversion=Programming== Lennard= Feddersen==Additional=Routines== Rick Koenig~FF~}#083#080
+ Conversion=Programming== Lennard= Feddersen==Additional=Routines== Rick Koenig~FF~#080
+;00000050{~02~~08~~02~ Animation=Conversion== Lance Hutto= Chuck Osieja==Backgrounds== Ellen Drucker~FF~}#094#082
+~02~~08~~02~ Animation=Conversion== Lance Hutto= Chuck Osieja==Backgrounds== Ellen Drucker~FF~#082
+;000000A2{~02~~08~~02~ Layouts== David A. Bean= Alan Hickey==Music and=Sounds== Eric Swanson~FF~}#086#074
+~02~~08~~02~ Layouts== David A. Bean= Alan Hickey==Music and=Sounds== Eric Swanson~FF~#074
+;000000EC{~02~~08~~02~ Testing Lead= Ken George~FF~}#041#029
+~02~~08~~02~ Testing Lead= Ken George~FF~#029
+;00000109{~00~~08~~00~ Test Team= Robert Arellano= Frank Coles= Paul Collett= Brent Petersen= Dave Poloyn= Bryan Smith= Wi Kian Tang= James=   Thornton III~FF~}#149#137
+~00~~08~~00~ Test Team= Robert Arellano= Frank Coles= Paul Collett= Brent Petersen= Dave Poloyn= Bryan Smith= Wi Kian Tang= James=   Thornton III~FF~#137
+;00000192{~02~~08~~02~ Additional=  Testing= Daryl Bunting= Greg Dawson= Kevin= Handyboy= Hugh Mason= Rico Mendez= Chris Sabosky~FF~}#122#110
+~02~~08~~02~ Additional=  Testing= Daryl Bunting= Greg Dawson= Kevin= Handyboy= Hugh Mason= Rico Mendez= Chris Sabosky~FF~#110
+;00000200{~02~~08~~02~ Production=Manager== Ann Lediaev==Thanks to= David Sullivan~FF~}#076#064
+~02~~08~~02~ Production=Manager== Ann Lediaev==Thanks to= David Sullivan~FF~#064
+;00000240{~02~~08~~02~ Producer for=Mindscape== Steve= Hutchins~FF~}#057#045
+~02~~08~~02~ Producer for=Mindscape== Steve= Hutchins~FF~#045
+;0000026D{~02~~08~~02~ Produced by== David Warhol~FF~}#043#031
+~02~~08~~02~ Produced by== David Warhol~FF~#031
+;0000028C{~02~~08~~02~ Mr. Feddersen=appears=courtesy of== Ironwind= Software~FF~}#071#059
+~02~~08~~02~ Mr. Feddersen=appears=courtesy of== Ironwind= Software~FF~#059
+;000002C7{~02~~08~~02~       A=   Realtime=  Associates=  Production==     for=  Mindscape~FF~}#084#072
+~02~~08~~02~       A=   Realtime=  Associates=  Production==     for=  Mindscape~FF~#072
+|783
+@00010C72-0001105F-FF
+;00000000{Red Skull seeks=to conquer the= world with a= team of super=   villains.~FF~}#076#073
+Red Skull seeks=to conquer the= world with a= team of super=   villains.~FF~#073
+;00000049{~01~~0B~~01~~1F~He=has=used=a=mind=control machine=to bring them=under his=power.~FF~}#085#070
+~01~~0B~~01~~1F~He=has=used=a=mind=control machine=to bring them=under his=power.~FF~#070
+;0000008F{~01~~06~~01~~1F~Now he controls=  their every=    action.~FF~}#061#046
+~01~~06~~01~~1F~Now he controls=  their every=    action.~FF~#046
+;000000BD{~01~~05~~01~~1F~  Go at once   = Avengers! Try = to crush his  = evil scheme!  ~FF~}#083#068
+~01~~05~~01~~1F~  Go at once   = Avengers! Try = to crush his  = evil scheme!  ~FF~#068
+;00000101{~03~~08~~03~~1F~   Scene 1~FF~}#030#015
+~03~~08~~03~~1F~   Scene 1~FF~#015
+;00000110{~04~~0C~~03~~1F~The Avengers~FF~}#032#017
+~04~~0C~~03~~1F~The Avengers~FF~#017
+;00000121{~01~~10~~01~~1F~  Whirlwind's=attack was just=   a setup!~FF~}#061#046
+~01~~10~~01~~1F~  Whirlwind's=attack was just=   a setup!~FF~#046
+;0000014F{~01~~10~~01~~1F~Other towns are=  being taken=     over.~FF~}#060#045
+~01~~10~~01~~1F~Other towns are=  being taken=     over.~FF~#045
+;0000017C{~01~~19~~01~~1F~Hurry Avengers!~FF~}#035#020
+~01~~19~~01~~1F~Hurry Avengers!~FF~#020
+;00000190{~05~~08~~05~~1F~  Scene 2==Target Town~FF~}#042#027
+~05~~08~~05~~1F~  Scene 2==Target Town~FF~#027
+;000001AB{~01~~14~~01~~1F~ Red Skull has= commanded his= team of= villains~FF~}#068#053
+~01~~14~~01~~1F~ Red Skull has= commanded his= team of= villains~FF~#053
+;000001E0{~01~~14~~01~~1F~ to fight the= Avengers to= the finish!~FF~}#059#044
+~01~~14~~01~~1F~ to fight the= Avengers to= the finish!~FF~#044
+;0000020C{~01~~14~~01~~1F~ What has Red= Skull planned=     next?~FF~}#059#044
+~01~~14~~01~~1F~ What has Red= Skull planned=     next?~FF~#044
+;00000238{~02~~08~~01~~1F~    Scene 3== Challenge From= The Bottom Of=    The Sea~FF~}#075#060
+~02~~08~~01~~1F~    Scene 3== Challenge From= The Bottom Of=    The Sea~FF~#060
+;00000274{~01~~10~~01~~1F~ The Avengers= have located= Red Skull's=    hideout,~FF~}#073#058
+~01~~10~~01~~1F~ The Avengers= have located= Red Skull's=    hideout,~FF~#058
+;000002AE{~01~~10~~01~~1F~have uncovered= his plans to=build a secret=  base on the=     moon,~FF~}#088#073
+~01~~10~~01~~1F~have uncovered= his plans to=build a secret=  base on the=     moon,~FF~#073
+;000002F7{~01~~11~~01~~1F~ and to arm it= with a giant= laser cannon.~FF~}#063#048
+~01~~11~~01~~1F~ and to arm it= with a giant= laser cannon.~FF~#048
+;00000327{~01~~18~~01~~1F~ If his plan is= carried out it= will mean the~FF~}#066#051
+~01~~18~~01~~1F~ If his plan is= carried out it= will mean the~FF~#051
+;0000035A{~01~~18~~01~~1F~ destruction of=   not only    =America, but of~FF~}#067#052
+~01~~18~~01~~1F~ destruction of=   not only    =America, but of~FF~#052
+;0000038E{~01~~18~~01~~1F~the whole earth=   as well.    =               ~FF~}#067#052
+~01~~18~~01~~1F~the whole earth=   as well.    =               ~FF~#052
+;000003C2{~01~~08~~01~~1F~    Scene 4==   The Giant= Laser Cannon~FF~}#059#044
+~01~~08~~01~~1F~    Scene 4==   The Giant= Laser Cannon~FF~#044
+|1006

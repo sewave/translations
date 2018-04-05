@@ -1,0 +1,316 @@
+@00001EAE-00002121-00
+;00000000{O P T I O N S~00~}#017#014
+O P T I O N S~00~#014
+;0000000E{Level~00~}#009#006
+Level~00~#006
+;00000014{Easy  ~00~}#010#007
+Easy  ~00~#007
+;0000001B{~00~}#004#001
+~00~#001
+;0000001C{Normal~00~}#010#007
+Normal~00~#007
+;00000023{~00~}#004#001
+~00~#001
+;00000024{Hard  ~00~}#010#007
+Hard  ~00~#007
+;0000002B{~00~}#004#001
+~00~#001
+;0000002C{Trigger~00~}#011#008
+Trigger~00~#008
+;00000034{Right Hand~00~}#014#011
+Right Hand~00~#011
+;0000003F{~00~}#004#001
+~00~#001
+;00000040{Left  Hand~00~}#014#011
+Left  Hand~00~#011
+;0000004B{~00~}#004#001
+~00~#001
+;0000004C{Jump      ~00~}#014#011
+Jump      ~00~#011
+;00000057{~00~}#004#001
+~00~#001
+;00000058{Pause Music~00~}#015#012
+Pause Music~00~#012
+;00000064{On ~00~}#007#004
+On ~00~#004
+;00000068{Off~00~}#007#004
+Off~00~#004
+;0000006C{Sound Test~00~}#014#011
+Sound Test~00~#011
+;00000077{~00~}#004#001
+~00~#001
+;00000078{Scene~00~}#009#006
+Scene~00~#006
+;0000007E{Exit~00~}#008#005
+Exit~00~#005
+;00000083{~00~}#004#001
+~00~#001
+;00000084{Title~00~}#009#006
+Title~00~#006
+;0000008A{A~00~}#005#002
+A~00~#002
+;0000008C{B~00~}#005#002
+B~00~#002
+;0000008E{C~00~}#005#002
+C~00~#002
+;00000090{Alone in Love       ~00~}#024#021
+Alone in Love       ~00~#021
+;000000A5{~00~}#004#001
+~00~#001
+;000000A6{King Turtle         ~00~}#024#021
+King Turtle         ~00~#021
+;000000BB{~00~}#004#001
+~00~#001
+;000000BC{Now you're Gone     ~00~}#024#021
+Now you're Gone     ~00~#021
+;000000D1{~00~}#004#001
+~00~#001
+;000000D2{Fire Bird           ~00~}#024#021
+Fire Bird           ~00~#021
+;000000E7{~00~}#004#001
+~00~#001
+;000000E8{Jewel Master        ~00~}#024#021
+Jewel Master        ~00~#021
+;000000FD{~00~}#004#001
+~00~#001
+;000000FE{The Gate of Delirium~00~}#024#021
+The Gate of Delirium~00~#021
+;00000113{~00~}#004#001
+~00~#001
+;00000114{Vital Signs         ~00~}#024#021
+Vital Signs         ~00~#021
+;00000129{~00~}#004#001
+~00~#001
+;0000012A{Darkness            ~00~}#024#021
+Darkness            ~00~#021
+;0000013F{~00~}#004#001
+~00~#001
+;00000140{Spier Tiger         ~00~}#024#021
+Spier Tiger         ~00~#021
+;00000155{~00~}#004#001
+~00~#001
+;00000156{Intergalactic Strut ~00~}#024#021
+Intergalactic Strut ~00~#021
+;0000016B{~00~}#004#001
+~00~#001
+;0000016C{I Got It !          ~00~}#024#021
+I Got It !          ~00~#021
+;00000181{~00~}#004#001
+~00~#001
+;00000182{Dragonspawn         ~00~}#024#021
+Dragonspawn         ~00~#021
+;00000197{~00~}#004#001
+~00~#001
+;00000198{Demon King          ~00~}#024#021
+Demon King          ~00~#021
+;000001AD{~00~}#004#001
+~00~#001
+;000001AE{Chaos Dragon        ~00~}#024#021
+Chaos Dragon        ~00~#021
+;000001C3{~00~}#004#001
+~00~#001
+;000001C4{Time to Kill        ~00~}#024#021
+Time to Kill        ~00~#021
+;000001D9{~00~}#004#001
+~00~#001
+;000001DA{The Dream's Over     ~00~}#025#022
+The Dream's Over     ~00~#022
+;000001F0{Talk to the Wind    ~00~}#024#021
+Talk to the Wind    ~00~#021
+;00000205{~00~}#004#001
+~00~#001
+;00000206{Fish Out of Water   ~00~}#024#021
+Fish Out of Water   ~00~#021
+;0000021B{~00~}#004#001
+~00~#001
+;0000021C{Burning Bridges     ~00~}#024#021
+Burning Bridges     ~00~#021
+;00000231{~00~}#004#001
+~00~#001
+;00000232{To Be Over          ~00~}#024#021
+To Be Over          ~00~#021
+;00000247{~00~}#004#001
+~00~#001
+;00000248{Close to the Edge   ~00~}#024#021
+Close to the Edge   ~00~#021
+;0000025D{~00~}#004#001
+~00~#001
+;0000025E{Tinkle of Rings     ~00~}#024#021
+Tinkle of Rings     ~00~#021
+;00000273{~00~}#004#001
+~00~#001
+|628
+@00002696-000028A1-FF
+;00000000{Once upon a moment in time,~00~there was a kingdom~00~known to all as Mythgard.~00~Mythgard prospered in peace~00~until the first coming of~00~the Demon King,Jardine the Mad.~00~Leading his Dark Legion,~00~Jardine was but~00~a step away from obliterating~00~the kingdom...~00~It was then that the Twelve~00~Masters of the Elements~00~rose up to put an end to~00~the Demon King's evil designs.~00~A fierce battle ensued until~00~there remained but four~00~Masters opposing Jardine.~00~~00~Pooling their powers into~00~a Holy Blade,~00~the four Masters prepared~00~for the Final Battle...~00~}#590#524
+Once upon a moment in time,~00~there was a kingdom~00~known to all as Mythgard.~00~Mythgard prospered in peace~00~until the first coming of~00~the Demon King,Jardine the Mad.~00~Leading his Dark Legion,~00~Jardine was but~00~a step away from obliterating~00~the kingdom...~00~It was then that the Twelve~00~Masters of the Elements~00~rose up to put an end to~00~the Demon King's evil designs.~00~A fierce battle ensued until~00~there remained but four~00~Masters opposing Jardine.~00~~00~Pooling their powers into~00~a Holy Blade,~00~the four Masters prepared~00~for the Final Battle...~00~#524
+|524
+@00002CE4-00002D19-00
+;00000000{C O N T I N U E ?~00~}#021#018
+C O N T I N U E ?~00~#018
+;00000012{CREDITS:~00~}#012#009
+CREDITS:~00~#009
+;0000001B{~00~}#004#001
+~00~#001
+;0000001C{CREDIT: ~00~}#012#009
+CREDIT: ~00~#009
+;00000025{~00~}#004#001
+~00~#001
+;00000026{CREDITS~00~}#011#008
+CREDITS~00~#008
+;0000002E{CREDIT ~00~}#011#008
+CREDIT ~00~#008
+|54
+@00002EFB-00002F17-00
+;00000000{~8E~S T A G E     C L E A R E D~00~}#035#029
+~8E~S T A G E     C L E A R E D~00~#029
+|29
+@00003286-00003365-FF
+;00000000{There is no mention in history~00~of the battle waged between~00~the Jewel Master~00~and the forces of evil.~00~But legends do speak~00~of twelve magical gems~00~and an ancient kingdom~00~that flourished in peace.~00~~00~Such is the stuff~00~of legends.~00~}#257#224
+There is no mention in history~00~of the battle waged between~00~the Jewel Master~00~and the forces of evil.~00~But legends do speak~00~of twelve magical gems~00~and an ancient kingdom~00~that flourished in peace.~00~~00~Such is the stuff~00~of legends.~00~#224
+|224
+@0000552E-0000554F-00
+;00000000{R I N G  S E L E C T~00~}#024#021
+R I N G  S E L E C T~00~#021
+;00000015{~00~}#004#001
+~00~#001
+;00000016{DOBBLE JUMP~00~}#015#012
+DOBBLE JUMP~00~#012
+|34
+@00008768-00008943-00
+;00000000{           ~00~}#015#012
+           ~00~#012
+;0000000C{ EARTHQUAKE~00~}#015#012
+ EARTHQUAKE~00~#012
+;00000018{    BARRIER~00~}#015#012
+    BARRIER~00~#012
+;00000024{      FLAME~00~}#015#012
+      FLAME~00~#012
+;00000030{DOUBLE JUMP~00~}#015#012
+DOUBLE JUMP~00~#012
+;0000003C{  FIRE WALL~00~}#015#012
+  FIRE WALL~00~#012
+;00000048{ FIRE VIPER~00~}#015#012
+ FIRE VIPER~00~#012
+;00000054{       WAVE~00~}#015#012
+       WAVE~00~#012
+;00000060{ ICE DAGGER~00~}#015#012
+ ICE DAGGER~00~#012
+;0000006C{  FIRE BALL~00~}#015#012
+  FIRE BALL~00~#012
+;00000078{      BLADE~00~}#015#012
+      BLADE~00~#012
+;00000084{     FREEZE~00~}#015#012
+     FREEZE~00~#012
+;00000090{      SHOCK~00~}#015#012
+      SHOCK~00~#012
+;0000009C{  BIG SHOCK~00~}#015#012
+  BIG SHOCK~00~#012
+;000000A8{   SPEED UP~00~}#015#012
+   SPEED UP~00~#012
+;000000B4{  HIGH JUMP~00~}#015#012
+  HIGH JUMP~00~#012
+;000000C0{DOUBLE JUMP~00~}#015#012
+DOUBLE JUMP~00~#012
+;000000CC{~00~}#004#001
+~00~#001
+;000000CD{~00~}#004#001
+~00~#001
+;000000CE{~88~x~00~}#009#003
+~88~x~00~#003
+;000000D1{~00~}#004#001
+~00~#001
+;000000D2{~88~~84~~00~}#012#003
+~88~~84~~00~#003
+;000000D5{~00~}#004#001
+~00~#001
+;000000D6{~88~~90~~00~}#012#003
+~88~~90~~00~#003
+;000000D9{~00~}#004#001
+~00~#001
+;000000DA{~88~~9C~~00~}#012#003
+~88~~9C~~00~#003
+;000000DD{~00~}#004#001
+~00~#001
+;000000DE{~88~~A8~~00~}#012#003
+~88~~A8~~00~#003
+;000000E1{~00~}#004#001
+~00~#001
+;000000E2{~88~~B4~~00~}#012#003
+~88~~B4~~00~#003
+;000000E5{~00~}#004#001
+~00~#001
+;000000E6{~88~~C0~~00~}#012#003
+~88~~C0~~00~#003
+;000000E9{~00~}#004#001
+~00~#001
+;000000EA{~88~~CC~~00~}#012#003
+~88~~CC~~00~#003
+;000000ED{~00~}#004#001
+~00~#001
+;000000EE{~88~~D8~~00~}#012#003
+~88~~D8~~00~#003
+;000000F1{~00~}#004#001
+~00~#001
+;000000F2{~88~~E4~~00~}#012#003
+~88~~E4~~00~#003
+;000000F5{~00~}#004#001
+~00~#001
+;000000F6{~88~~F0~~00~}#012#003
+~88~~F0~~00~#003
+;000000F9{~00~}#004#001
+~00~#001
+;000000FA{~88~~84~~00~}#012#003
+~88~~84~~00~#003
+;000000FD{~00~}#004#001
+~00~#001
+;000000FE{~88~~84~~00~}#012#003
+~88~~84~~00~#003
+;00000101{~00~}#004#001
+~00~#001
+;00000102{~88~~84~~00~}#012#003
+~88~~84~~00~#003
+;00000105{~00~}#004#001
+~00~#001
+;00000106{~89~ ~00~}#009#003
+~89~ ~00~#003
+;00000109{~00~}#004#001
+~00~#001
+;0000010A{~89~,~00~}#009#003
+~89~,~00~#003
+;0000010D{~00~}#004#001
+~00~#001
+;0000010E{~89~8           ~00~}#020#014
+~89~8           ~00~#014
+;0000011C{EARTHQUAKE ~00~}#015#012
+EARTHQUAKE ~00~#012
+;00000128{BARRIER    ~00~}#015#012
+BARRIER    ~00~#012
+;00000134{FLAME      ~00~}#015#012
+FLAME      ~00~#012
+;00000140{DOUBLE JUMP~00~}#015#012
+DOUBLE JUMP~00~#012
+;0000014C{FIRE WALL  ~00~}#015#012
+FIRE WALL  ~00~#012
+;00000158{FIRE VIPER ~00~}#015#012
+FIRE VIPER ~00~#012
+;00000164{WAVE       ~00~}#015#012
+WAVE       ~00~#012
+;00000170{ICE DAGGER ~00~}#015#012
+ICE DAGGER ~00~#012
+;0000017C{FIRE BALL  ~00~}#015#012
+FIRE BALL  ~00~#012
+;00000188{BLADE      ~00~}#015#012
+BLADE      ~00~#012
+;00000194{FREEZE     ~00~}#015#012
+FREEZE     ~00~#012
+;000001A0{SHOCK      ~00~}#015#012
+SHOCK      ~00~#012
+;000001AC{BIG SHOCK  ~00~}#015#012
+BIG SHOCK  ~00~#012
+;000001B8{SPEED UP   ~00~}#015#012
+SPEED UP   ~00~#012
+;000001C4{HIGH JUMP  ~00~}#015#012
+HIGH JUMP  ~00~#012
+;000001D0{DOUBLE JUMP~00~}#015#012
+DOUBLE JUMP~00~#012
+|476

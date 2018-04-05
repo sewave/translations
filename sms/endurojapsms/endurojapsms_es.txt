@@ -1,0 +1,58 @@
+@000047E9-00004805-FF
+;00000000{BEST TIME~FF~}#013#010
+  MEJOR  ~FF~#010
+;0000000A{~09~PUSH START BUTTON~FF~}#025#019
+~09~PULSA BOTON START~FF~#019
+|29
+@00004C2E-00004C4E-FF
+;00000000{STAGE    LAP TIME  PASSED~FF~}#029#026
+ESCENA VUELT TIEMPO PASAS~FF~#026
+;0000001A{~00~TOTAL~FF~}#013#007
+~00~TOTAL~FF~#007
+|33
+@00004CB1-00004CC4-FF
+;00000000{YOUR POINTS    PTS.~FF~}#023#020
+TUS PUNTOS     PTS.~FF~#020
+|20
+@00005138-0000515E-FF
+;00000000{CONGRATULATIONS!~FF~}#020#017
+FELICIDADES!    ~FF~#017
+;00000011{~00~YOU FINALLY MADE IT!~FF~}#028#022
+~00~LO HAS LOGRADO!     ~FF~#022
+|39
+@0000516D-000051A3-FF
+;00000000{YOU SUCCESSFULLY COMPLETED~FF~}#030#027
+HAS COMPLETADO CON EXITO  ~FF~#027
+;0000001B{~00~ALL OF THE STAGES!~FF~}#026#020
+~00~TODAS LAS ESCENAS!~FF~#020
+;0000002F{~00~RECORD~FF~}#014#008
+~00~RECORD~FF~#008
+|55
+@000051A4-00005704-FF
+;00000000{  "ENDURO"IS A SYMBOLIC           JOURNEY THROUGH LIFE VIA THE    MEDIA OF A RACE.                                                THE RESULTS ARE                 INSIGNIFICANT AND WHAT          REALLY COUNTS IS COMPETING.                                     OF PARTICULAR IMPORTANCE ARE    THE LESSONS TO BE LEARNED       CONCERNING ONE'S SELF FROM      THE VARIOUS ENCOUNTERS YOU      EXPERIENCE ALONG THE WAY.                                       THERE IS NO VICTOR OR LOSER     IN THIS TEST OF ENDURANCE.                                      THE ONLY THING THAT REALLY      MATTERS IS THAT YOU MAKE A      COMMITMENT TO BEGIN THE LONG    AND TRYING TREK.                                                THIS GAME IS THEN DEDICATED     TO ALL OF THE "LIFE RIDERS"     WHO HAVE STARTED OUT ON THE     SOLITARY TRIP TO FIND THEIR     OWN INDIVIDUAL LIMITS.                                          LAST,BUT NOT LEAST,MAY WE       SINCERELY CONGRATULATE YOU      ON A PERFECT RUN.                                                                                                                                                                                                                         THE END                                                                                                                                                                             ~FF~}#1380#1377
+  "ENDURO" ES UN VIAJE            SIMBOLICO POR LA VIDA           MEDIANTE UNA CARRERA.                                           LOS RESULTADOS SON              INSIGNIFICANTES Y LO QUE        REALMENTE CUENTA ES COMPETIR.                                   DE PARTICULAR IMPORTANCIA SON   LAS LECCIONES A SER             APRENDIDAS RESPECTO A UNO       MISMO DE LOS VARIOS             ENCUENTROS QUE EXPERIMENTARAS   POR EL CAMINO.                  NO HAY VENCEDOR O PERDEDOR EN   ESTA PRUEBA DE RESISTENCIA.                                     LA UNICA COSA QUE DE VERDAD     IMPORTA ES QUE HAGAS UN         COMPROMISO A COMENZAR LA        LARGA Y DIFICIL TRAVESIA.                                       ESTE JUEGO ESTA PUES DEDICADO   A TODOS LOS "PILOTOS DE LA      VIDA" QUE HAN COMENZADO EL      SOLITARIO VIAJE PARA            ENCONTRAR SUS PROPIOS LIMITES   INDIVIDUALES.                                                   POR ULTIMO, PERO NO MENOS       IMPORTANTE, TE FELICITAMOS      SINCERAMENTE POR LA CARRERA     PERFECTA.                                                                                                                                                                   FIN                                                                                                                                                                               ~FF~#1377
+|1377
+@0000612A-00006195-FF
+;00000000{TUNE UP~FF~}#011#008
+COLOCA ~FF~#008
+;00000008{~00~YOUR POINTS    PTS.~FF~}#027#021
+~00~TUS PUNTOS     PTS.~FF~#021
+;0000001D{~00~YOUR DAMAGE~FF~}#019#013
+~00~TUS DANOS  ~FF~#013
+;0000002A{~00~PRICE~FF~}#013#007
+~00~COSTE~FF~#007
+;00000031{~00~ACCELERATOR~FF~}#019#013
+~00~ACELERADOR ~FF~#013
+;0000003E{~00~HANDLE~FF~}#014#008
+~00~MANGO ~FF~#008
+;00000046{~00~TIRE~FF~}#012#006
+~00~RUED~FF~#006
+;0000004C{~00~ENGINE~FF~}#014#008
+~00~MOTOR ~FF~#008
+;00000054{~00~SUSPENSION~FF~}#018#012
+~00~SUSPENSION~FF~#012
+;00000060{~00~ITEM~FF~}#012#006
+~00~OBJT~FF~#006
+;00000066{~00~EXIT~FF~}#012#006
+~00~SALE~FF~#006
+|108

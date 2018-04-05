@@ -1,0 +1,64 @@
+@000044DB-000044F7-FF
+;00000000{BEST TIME~FF~}#013#010
+BEST TIME~FF~#010
+;0000000A{~09~PUSH START BUTTON~FF~}#025#019
+~09~PUSH START BUTTON~FF~#019
+|29
+@00004854-00004874-FF
+;00000000{STAGE    LAP TIME  PASSED~FF~}#029#026
+STAGE    LAP TIME  PASSED~FF~#026
+;0000001A{~00~TOTAL~FF~}#013#007
+~00~TOTAL~FF~#007
+|33
+@000048C3-000048D6-FF
+;00000000{YOUR POINTS    PTS.~FF~}#023#020
+YOUR POINTS    PTS.~FF~#020
+|20
+@00004AE8-000050A9-FF
+;00000000{GAME OVER~FF~}#013#010
+GAME OVER~FF~#010
+;0000000A{~03~P~7A~~FF~}#013#004
+~03~P~7A~~FF~#004
+;0000000E{J~C6~~7A~~11~KN~7B~-K~00~CONGRATULATIONS!~FF~}#045#027
+J~C6~~7A~~11~KN~7B~-K~00~CONGRATULATIONS!~FF~#027
+;00000029{~00~YOU SUCCESSFULLY COMPLETED~FF~}#034#028
+~00~YOU SUCCESSFULLY COMPLETED~FF~#028
+;00000045{~00~ALL OF THE STAGES!~FF~}#026#020
+~00~ALL OF THE STAGES!~FF~#020
+;00000059{~00~RECORD~FF~}#014#008
+~00~RECORD~FF~#008
+;00000061{  "ENDURO"IS A SYMBOLIC           JOURNEY THROUGH LIFE VIA THE    MEDIA OF A RACE.                                                THE RESULTS ARE                 INSIGNIFICANT AND WHAT          REALLY COUNTS IS COMPETING.                                     OF PARTICULAR IMPORTANCE ARE    THE LESSONS TO BE LEARNED       CONCERNING ONE'S SELF FROM      THE VARIOUS ENCOUNTERS YOU      EXPERIENCE ALONG THE WAY.                                       THERE IS NO VICTOR OR LOSER     IN THIS TEST OF ENDURANCE.                                      THE ONLY THING THAT REALLY      MATTERS IS THAT YOU MAKE A      COMMITMENT TO BEGIN THE LONG    AND TRYING TREK.                                                THIS GAME IS THEN DEDICATED     TO ALL OF THE "LIFE RIDERS"     WHO HAVE STARTED OUT ON THE     SOLITARY TRIP TO FIND THEIR     OWN INDIVIDUAL LIMITS.                                          LAST,BUT NOT LEAST,MAY WE       SINCERELY CONGRATULATE YOU      ON A PERFECT RUN.                                                                                                                                                                                                                         THE END                                                                                                                                                                             ~FF~}#1380#1377
+  "ENDURO"IS A SYMBOLIC           JOURNEY THROUGH LIFE VIA THE    MEDIA OF A RACE.                                                THE RESULTS ARE                 INSIGNIFICANT AND WHAT          REALLY COUNTS IS COMPETING.                                     OF PARTICULAR IMPORTANCE ARE    THE LESSONS TO BE LEARNED       CONCERNING ONE'S SELF FROM      THE VARIOUS ENCOUNTERS YOU      EXPERIENCE ALONG THE WAY.                                       THERE IS NO VICTOR OR LOSER     IN THIS TEST OF ENDURANCE.                                      THE ONLY THING THAT REALLY      MATTERS IS THAT YOU MAKE A      COMMITMENT TO BEGIN THE LONG    AND TRYING TREK.                                                THIS GAME IS THEN DEDICATED     TO ALL OF THE "LIFE RIDERS"     WHO HAVE STARTED OUT ON THE     SOLITARY TRIP TO FIND THEIR     OWN INDIVIDUAL LIMITS.                                          LAST,BUT NOT LEAST,MAY WE       SINCERELY CONGRATULATE YOU      ON A PERFECT RUN.                                                                                                                                                                                                                         THE END                                                                                                                                                                             ~FF~#1377
+|1474
+@000052A9-00005366-FF
+;00000000{TUNE UP~FF~}#011#008
+TUNE UP~FF~#008
+;00000008{~00~YOUR POINTS    PTS.~FF~}#027#021
+~00~YOUR POINTS    PTS.~FF~#021
+;0000001D{~00~YOUR DAMAGE~FF~}#019#013
+~00~YOUR DAMAGE~FF~#013
+;0000002A{~00~PRICE~FF~}#013#007
+~00~PRICE~FF~#007
+;00000031{~00~ACCELERATOR~FF~}#019#013
+~00~ACCELERATOR~FF~#013
+;0000003E{~00~HANDLE~FF~}#014#008
+~00~HANDLE~FF~#008
+;00000046{~00~TIRE~FF~}#012#006
+~00~TIRE~FF~#006
+;0000004C{~00~ENGINE~FF~}#014#008
+~00~ENGINE~FF~#008
+;00000054{~00~SUSPENSION~FF~}#018#012
+~00~SUSPENSION~FF~#012
+;00000060{~00~ITEM~FF~}#012#006
+~00~ITEM~FF~#006
+;00000066{~00~EXIT~FF~}#012#006
+~00~EXIT~FF~#006
+;0000006C{~06~~AC~~7A~.S,~7B~.S~AC~~7B~.S,~7C~6S~AC~~7C~6S,~7D~6S~00~ 5PTS.~FF~}#069#033
+~06~~AC~~7A~.S,~7B~.S~AC~~7B~.S,~7C~6S~AC~~7C~6S,~7D~6S~00~ 5PTS.~FF~#033
+;0000008D{~00~10PTS.~FF~}#014#008
+~00~10PTS.~FF~#008
+;00000095{~06~~AC~~7A~WS,~7B~WS~AC~~7B~WS,~7C~~5F~S~AC~~7C~~5F~S,~7D~~5F~S~00~10PTS.~FF~}#078#033
+~06~~AC~~7A~WS,~7B~WS~AC~~7B~WS,~7C~~5F~S~AC~~7C~~5F~S,~7D~~5F~S~00~10PTS.~FF~#033
+;000000B6{~00~20PTS.~FF~}#014#008
+~00~20PTS.~FF~#008
+|190

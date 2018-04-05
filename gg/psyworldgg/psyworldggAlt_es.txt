@@ -1,0 +1,12 @@
+@00000DFD-00000EB2-FF
+;00000000{SOUND TEST - ED                          SPECIAL MODE                             ESP FULL                               RONDA SELECT                            RONDA NO -         ED}#182#182
+PRUEBA SND - ED                          MODO ESPECIAL                            PES LLENA                              ELIGE RONDA                             RONDA NUM-         ED#182
+|182
+@00001416-00001481-FF
+;00000000{  GAME OVER               CONTINUE                TIME ~31~~30~                B   YES                     NO     }#114#108
+  GAME OVER               CONTINUA                TIEM ~31~~30~                B   SI                      NO     #108
+|108
+@00003C44-00003CA7-FF
+;00000000{RONDA~00~~60~~00~PRAIRIE~00~~00~~00~~00~~00~RONDA~00~~61~~00~ICE~00~FIELD~00~~00~~00~RONDA~00~~62~~00~RUINS~00~~00~~00~~00~~00~~00~~00~RONDA~00~'~00~FORTRESS~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#253#100
+RONDA~00~~60~~00~PRADERA~00~~00~~00~~00~~00~RONDA~00~~61~~00~CAMPO~00~HELADORONDA~00~~62~~00~RUINAS~00~~00~~00~~00~~00~~00~RONDA~00~'~00~FORTALEZA~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#100
+|100

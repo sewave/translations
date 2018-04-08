@@ -1,0 +1,319 @@
+@0000046D-00000497-00
+;00000000{           PLAYER   ==           GET READY~00~}#046#043
+          JUGADOR   ==           PREPÁRATE~00~#043
+|43
+@000004D0-000004E4-00
+;00000000{           P A U S E~00~}#024#021
+           P A U S A~00~#021
+|21
+@0000054C-000005EA-00
+;00000000{      daze before christmas~00~}#031#028
+  aturdido antes de navidad~00~#028
+;0000001C{====~00~}#008#005
+====~00~#005
+;00000021{     santa says: "ho ho ho!"~00~}#032#029
+     santa dice: "ho ho ho!"~00~#029
+;0000003E{==~00~}#006#003
+==~00~#003
+;00000041{    you found the secret code~00~}#033#030
+   hallaste el código secreto~00~#030
+;0000005F{===~00~}#007#004
+===~00~#004
+;00000063{    select level with up/down~00~}#033#030
+    elige nivel con arri/abaj~00~#030
+;00000081{==~00~}#006#003
+==~00~#003
+;00000084{       press start to play~00~}#030#027
+        start para jugar  ~00~#027
+|159
+@00001453-0000145E-00
+;00000000{PRESS START~00~}#015#012
+PULSA START~00~#012
+|12
+@0000146F-00001830-00
+;00000000{ ONLY DAYS BEFORE CHRISTMAS= SANTA SLEPT IN HIS HOUSE,= AN EVIL PLOT WAS BREWING= COOKED UP BY AWFUL LOUSE==== THE COLD AND EVIL SNOWMAN= SCARED ALL THE ELVES AWAY.= TIMEKEEPER STOLE PLANS= FROM SANTAS HOUSE THAT DAY==== BUT FOR THE VICIOUS LOUSE= THIS WASN'T BAD ENOUGH~3B~= -I'M REALLY GONNA SHOW'EM= I'M GONNA PLAY ROUGH!!!~00~}#330#324
+ DÍAS ANTES DE NAVIDAD SANTA  =
+ DURMIÓ EN SU CASA,  =
+ HORRIBLE LOUSE COCÍA UNA  =
+ TRAMA MALVADA.        ====
+ EL MALVADO MUÑECO DE NIEVE=
+ ASUSTÓ A TODOS LOS ELFOS.=
+ TIMEKEEPER ROBÓ PLANES DE=
+ LA CASA DE SANTA ESE DÍA.====
+ PERO PARA EL CRUEL LOUSE =
+ ESTO NO ERA SUFICIENTE~3B~=
+ -VOY A ENSEÑARLES QUE VOY=
+ A JUGAR DURO!!!        ~00~#324
+;00000144{ HE TORE THE PRESENTS OPEN= AND ON THEM CAST A SPELL= THAT'S WHEN SANTA WOKE UP= -SOMETHING WASN'T WELL!==== ALL HIS ELVES HAD VANISHED= HIS PRESENTS ALSO GONE= AND THREATS WERE AWAITING= SURELY MORE THAN ONE!==== BEWARE THE MAGIC POTION= CALLING SANTA'S EVIL TWIN= THE ANGRY ANTI-CLAUS= HIS FIEND FROM WITHIN!~00~}#314#311
+ ABRIÓ LOS REGALOS Y LANZÓ=
+ EN ELLOS UN HECHIZO. =
+ ENTONCES SANTA DESPERTÓ. =
+ -ALGO NO MARCHA BIEN!====
+ SUS ELFOS YA NO ESTABAN Y =
+ SUS REGALOS TAMPOCO.=
+ Y SEGURO QUE LE ESPERABA =
+ MÁS DE UNA AMENAZA!====
+ CUIDADO CON LA POCIÓN=
+ MÁGICA QUE LLAMA AL GEMELO=
+ MALVADO DE SANTA,ANTI-CLAUS,=
+ SU MALVADO DEL MÁS ALLÁ!~00~#311
+;0000027B{ SO ANTI MUST BE SANTA= PICK PRESENTS ALL THE WAY= TO FACE THE FOES SO BRAVELY= AND MAKE IT THROUGH THE DAY==== GO BEAT THE EVIL BOSSES= WHO'S LURKING IN THE DARK= FIND HIS SLEIGH & REINDEER= SET OUT TO MAKE HIS MARK==== FIND EVERY STOLEN PRESENT= THAT WAS UNJUSTLY CRAVED= FOR EVERY KID ON THE EARTH= CHRISTMAS MUST BE SAVED!~00~}#330#327
+ ANTI DEBE SER SANTA. =
+ COGE LOS REGALOS PARA    =
+ ENFRENTARTE A LOS ENEMIGOS =
+ Y LOGRAR PASAR EL DÍA.  ====
+ VE A VENCER A LOS MALVADOS=
+ QUE ACECHAN EN LO OSCURO.=
+ HALLA SU TRINEO Y RENOS Y =
+ SAL A HACER SU MARCA.   ====
+ HALLA CADA REGALO ROBADO =
+ QUE FUE INJUSTAMENTE    =
+ ANSIADO POR CADA NIÑO.    =
+ DEBES SALVAR LA NAVIDAD!~00~#327
+|962
+@00001835-00001877-00
+;00000000{             options==~00~}#026#023
+            opciones==~00~#023
+;00000017{        %s: %s==~00~}#020#017
+        %s: %s==~00~#017
+;00000028{       press start to exit~00~}#030#027
+        start para salir  ~00~#027
+|67
+@000018BC-000018D0-00
+;00000000{10 SEC~00~}#010#007
+10 SEG~00~#007
+;00000007{20 SEC~00~}#010#007
+20 SEG~00~#007
+;0000000E{30 SEC~00~}#010#007
+30 SEG~00~#007
+|21
+@00001912-0000196B-00
+;00000000{skill     ~00~}#014#011
+habilidad ~00~#011
+;0000000B{music     ~00~}#014#011
+música    ~00~#011
+;00000016{sound fx  ~00~}#014#011
+sonido fx ~00~#011
+;00000021{sound test~00~}#014#011
+test sonid~00~#011
+;0000002C{throw     ~00~}#014#011
+tirar     ~00~#011
+;00000037{jump      ~00~}#014#011
+saltar    ~00~#011
+;00000042{password  ~00~}#014#011
+password  ~00~#011
+;0000004D{anti time ~00~}#014#011
+antitiempo~00~#011
+;00000058{x~00~}#005#002
+x~00~#002
+|90
+@0000196E-00001985-00
+;00000000{easy~00~}#008#005
+fáci~00~#005
+;00000005{normal~00~}#010#007
+normal~00~#007
+;0000000C{hard~00~}#008#005
+difí~00~#005
+;00000011{on~00~}#006#003
+sí~00~#003
+;00000014{off~00~}#007#004
+no ~00~#004
+|24
+@000019AF-000019D0-00
+;00000000{   daze before christmas     ====~00~}#037#034
+   aturdido antes de navidad ====~00~#034
+|34
+@000019D1-00001A16-00
+;00000000{    1994 sunsoft of america    ==~00~}#037#034
+    1994 sunsoft de américa    ==~00~#034
+;00000022{      all rights reserved      ====~00~}#039#036
+  todos los derechos reservados====~00~#036
+|70
+@00001A17-00001A5C-00
+;00000000{         developed by          ==~00~}#037#034
+        desarrollado por       ==~00~#034
+;00000022{     funcom productions a/s    ====~00~}#039#036
+     funcom productions a/s    ====~00~#036
+|70
+@00001A5D-00001A7C-00
+;00000000{      licensed by nintendo     =}#032#032
+    licenciado por nintendo    =#032
+|32
+@00001A8B-00001ACD-00
+;00000000{           game over           ==~00~}#037#034
+           game over           ==~00~#034
+;00000022{           player %d           =~00~}#036#033
+           jugador %d          =~00~#033
+|67
+@00001AD2-00001B45-00
+;00000000{      todays heroic santas==~00~}#032#029
+      santas héroes de hoy==~00~#029
+;0000001D{   %2d %s %4x%04x ==~00~}#024#021
+   %2d %s %4x%04x ==~00~#021
+;00000032{=     please enter your name    ~00~}#036#033
+= por favor introduce tu nombre ~00~#033
+;00000053{=       press start to exit     ~00~}#036#033
+=     pulsa start para salir    ~00~#033
+|116
+@00001B9B-00001BBD-00
+;00000000{YOUR MAGICAL===ACCESS CODE IS===%s~00~}#038#035
+ TU CÓDIGO  ===  MÁGICO ES   ===%s~00~#035
+|35
+@00001D08-00001F61-00
+;00000000{JEG ELSKER DEG, SONJA! 01  SANTAS HOUSE~00~}#043#040
+JEG ELSKER DEG, SONJA! 01  CASA SANTA  ~00~#040
+;00000028{02  GIFT WRAPPING DEPT~00~}#026#023
+02  DEPT ENVOLVER REGA~00~#023
+;0000003F{03a NORTH POLE~00~}#018#015
+03a POLO NORTE~00~#015
+;0000004E{03b peace & love~00~}#020#017
+03b  paz y amor ~00~#017
+;0000005F{03c DEEP DOWN~00~}#017#014
+03c MUY ABAJO~00~#014
+;0000006D{04  WOOD FACTORY~00~}#020#017
+04  FÁBRICA MADE~00~#017
+;0000007E{05  FLOODED BASEMENT~00~}#024#021
+05  SÓTANO INUNDADO ~00~#021
+;00000093{06  THE EVIL SNOWMAN~00~}#024#021
+06  MUÑECO NIEVE MAL~00~#021
+;000000A8{07  MAGIC BUBBLES~00~}#021#018
+07  BURBUJAS MÁGI~00~#018
+;000000BA{08  STEEL FACTORY~00~}#021#018
+08  FÁBRICA ACERO~00~#018
+;000000CC{09  save the whales~00~}#023#020
+09  salva ballenas ~00~#020
+;000000E0{10  STEEL ELEVATORS~00~}#023#020
+10  ASCENSOR ACERO ~00~#020
+;000000F4{11  CREEPY BASEMENT~00~}#023#020
+11  SÓTANO SINIESTR~00~#020
+;00000108{12  THE TIMEKEEPER~00~}#022#019
+12  EL TIMEKEEPER ~00~#019
+;0000011B{13  never trust producers~00~}#029#026
+13  no confíes productor ~00~#026
+;00000135{14  MAGIC CAVE~00~}#018#015
+14  CUEVA MÁGI~00~#015
+;00000144{15a LET IT SNOW~00~}#019#016
+15a  QUE NIEVE ~00~#016
+;00000154{15b ICE CAVE~00~}#016#013
+15b CUEVA HI~00~#013
+;00000161{16  BLUE MAGIC~00~}#018#015
+16  MAGIA AZUL~00~#015
+;00000170{17  WINTER WATERS~00~}#021#018
+17  AGUAS INVIERN~00~#018
+;00000182{18a THE ATTIC~00~}#017#014
+18a EL ÁTICO ~00~#014
+;00000190{18b roof~00~}#012#009
+18b teja~00~#009
+;00000199{18c attic 2~00~}#015#012
+18c ático 2~00~#012
+;000001A5{18d louse the mouse~00~}#023#020
+18d louse el ratón ~00~#020
+;000001B9{18e chimney up~00~}#018#015
+18e chimenea a~00~#015
+;000001C8{18f chimney down~00~}#020#017
+18f  chimenea b ~00~#017
+;000001D9{19  OVER ENGLAND~00~}#020#017
+19   INGLATERRA ~00~#017
+;000001EA{20  OVER RUSSIA~00~}#019#016
+20     RUSIA   ~00~#016
+;000001FA{21  i wanna kiss you in paris~00~}#033#030
+21  quiero besarte en paris  ~00~#030
+;00000218{22  OVER JAPAN~00~}#018#015
+22    JAPÓN   ~00~#015
+;00000227{23  OVER THE USA~00~}#020#017
+23      EEUU    ~00~#017
+;00000238{24  MR WEATHER~00~}#018#015
+24   SR CLIMA ~00~#015
+;00000247{25  SANTAS HALLWAY~00~}#022#019
+25  PASILLO SANTA ~00~#019
+|602
+@00007FC0-00007FD4-00
+;00000000{DAZE BEFORE CHRISTMAS}#021#021
+;Es el nombre de la rom
+DAZE BEFORE CHRISTMAS#021
+|21
+@0000FB0C-0000FC40-00
+;00000000{ Any dramatic game the producers want us to take seriously as arepresentation of contemporary reality cannot be taken seriously as arepresentation of anything -- except a game to be ignored by anyonecapable of sitting upright in a chair and chewing gum simultaneously. -- Richard Schickel (slightly modified) }#309#309
+ Cualquier juego dramático que los productores quieran que nos   
+tomemos en serio como representación de la realidad no puede tomarse 
+en serio como representación -- excepto un juego a ser ignorado  
+por cualquiera que pueda sentarse en una silla y mascar chicle.       
+-- Richard Schickel (algo modificado)   #309
+|309
+@00010000-00010033-00
+;00000000{THIS IS THE ONLY INFORMATION CONTAINED ON THIS PAGE~00~}#055#052
+ESTA ES LA ÚNICA INFORMACIÓN DE ESTA PÁGINA        ~00~#052
+|52
+@00015F11-00016333-0A
+;00000000{... Now you're ready for the actual shopping.  Your goal should be to~0D~=get it over with as quickly as possible, because the longer you stay in~0D~=the mall, the longer your children will have to listen to holiday songs~0D~=on the mall public-address system, and many of these songs can damage~0D~=children emotionally.  For example: "Frosty the Snowman" is about a~0D~=snowman who befriends some children, plays with them until they learn~0D~=to love him, then melts.  And "Rudolph the Red-Nosed Reindeer" is about~0D~=a young reindeer who, because of a physical deformity, is treated as an~0D~=outcast by the other reindeer.  Then along comes good, old Santa.  Does~0D~=he ignore the deformity?  Does he look past Rudolph's nose and respect~0D~=Rudolph for the sensitive reindeer he is underneath?  No.  Santa asks~0D~=Rudolph to guide his sleigh, as if Rudolph were nothing more than some~0D~=kind of headlight with legs and a tail.  So unless you want your~0D~=children exposed to this kind of insensitivity, you should shop~0D~=quickly. -- Dave Barry, "Christmas Shopping: A Survivor's Guide"~0D~=}#1104#1059
+... Ahora estás listo para ir de compras.  Tu meta debería ser pasar~0D~=
+por ello lo más rápidamente posible, porque cuanto más te quedes en el~0D~=
+centro comercial, más tendrán que escuchar tus hijos canciones navideñas~0D~=
+en el sistema de megafonía, y varias de esas canciones pueden dañar a~0D~=
+los niños emocionalmente.   Por ejemplo : "Frosty el Muñeco" es sobre~0D~=
+un muñeco de nieve amigo de niños, que juega con ellos hasta que~0D~=
+aprenden a amarle, y se funde.  "Rudoplh el Reno de Nariz Roja" es sobre~0D~=
+un joven reno que, por culpa de una deformidad física, es tratado como ~0D~=
+un extranjero por los otros renos.  Luego viene el bueno, viejo Santa.~0D~=
+Ignora la deformidad?  Mira más allá de la nariz de Rudolph y le  ~0D~=
+respeta por el reno sensible que es por debajo?  No.  Santa pide a~0D~=
+Rudolph que guíe su trineo, como si Rudolph no fuera más que algún tipo~0D~=
+de luz de cabeza con piernas y cola.  Así que a no ser que quieras~0D~=
+exponer a tus hijos a este tipo de insensibilidad, deberías comprar~0D~=
+rápidamente. -- Dave Barry, "Compras de Navidad: Guía Supervivencia"~0D~=#1059
+|1059
+@00016E88-00016F1C-00
+;00000000{ I stopped believing in Santa Claus when I was six. Mother took me to see him in a department store and he asked for my autograph. -- Shirley Temple }#149#149
+ Deje de creer en Santa Claus cuando tenia seis años. Mi madre me llevó a verle a unos grandes almacenes y me pidió un autógrafo. -- Shirley Temple  #149
+|149
+@00056FD3-000579B3-00
+;00000000{THANKS FOR PLAYING SUNSOFT'S=DAZE BEFORE CHRISTMAS=====INSPIRED BY=-----------=RITA ZIMMERER===========EXECUTIVE PRODUCERS=-------------------=DAVID SILLER=ERIK GL$ERSEN=====PRODUCERS=---------=SAM PATEL=HENNING ROKLING=====MAIN PROGRAMMING=----------------=OLAV M$RKRID=====ADDITIONAL PROGRAMMING=----------------------=CARL-HENRIK SK~23~RSTEDT=====ENGINE DESIGN=-------------=ROAR FL$LO=MORTEN OFSTAD=====ENVIRONMENT PROGRAMMING=----------------------=EIVIND EKLUND=IVAR JUST OLSEN=JOHAN K$HLER=====DATA CRUNCHING PROGRAM=----------------------=EIVIND HAGEN=====TECHNICAL MANAGER - SUNSOFT=---------------------------=AL ARTUS=====MUSIC AND SOUND EFFECTS=-----------------------=KIM M JENSEN=GEIR TJELTA=====MAIN GRAPHICS ARTISTS=---------------------=JOACHIM BARRUM=TORE BLYSTAD=OLE-PETTER ROSENLUND=====MAIN CHARACTER ANIMATION=------------------------=OLE-PETTER ROSENLUND=====ADDITIONAL GRAPHICS=-------------------=LARS PETTER ANFINSEN=ERIK BAKKEN=TORKELL BERNSEN=CHRISTOPHE BRANCHE=RONNIE JENSEN=GLENN KRISTOFFERSEN=COLIN MC MAHON=TOMMY SVENSSON=====LEVEL EDITING=-------------=JACK KRISTOFFERSEN=====GAME DESIGN=-----------=GAUTE GODAGER=BJ$RN R$ST$EN=TOMMY SYDS%TER=====PLAY TESTING=------------=SAM PATEL=STEVE RIZOR=RENE BOUTIN=STEVE GEHRKE=DAN MACARTHUR=JUSTIN SILLER=MARIO ZAVALA=====CHAIRMAN, SUNSOFT=-----------------=MASAMI MAEDA=====VICE CHAIRMAN, SUNSOFT=----------------------=TAD SHIMAMOTO=====DIRECTOR, SUNSOFT JAPAN=-----------------------=KIHARU YOSHIDA=====GENERAL MANAGER=AND INTERNATIONAL=DEVELOPMENT COORDINATOR=-----------------------=KENJI YOSHIOKA=====MARKETING DIRECTOR=------------------=KAREN SHADLEY=====GAME PLAY MANUAL=----------------=ALISON QUIRION=====EXECUTIVE ASSISTANT=-------------------=NANETTE HYSSONG=====CUSTOMER SERVICE=----------------=KAZ HARMAN=JUNE ECKERT=CONNIE PEREZ=JULIE WILLIAMS=JAMIE JORGENSON=ERIN BERRY=JAUPALE LASTER=====BEST REGARDS TO=---------------=SONJA=MARI=MERETHE=MARTE=TONE=SILJE=KAROLINE=MARIA + PUSEN=ENDRE=HEIDI=ALTA=WALT=TROND=SKYNET=MACK=CHEESE & INGER=ROAR=ANDRE=ANDERS=TOMMY=LISA=ERIK + JANNE=SUPER GB=VEBJ$RN=THOMAS=STEIN=SUPERGEI=JENS-HARALD=K%LLIF$RD & P~23~L=VEGARD OG GJENGEN=K$LLA=BADLA=$KS=ZUMO=ANTIMON=RICHARD & MARIUS=SPACEY=TOMTEN=SONROP AD=JONATHAN SK~23~RSTEDT=SEBASTIAN SK~23~RSTEDT=MARTIN RANANG=DIDERICH BUCH=SLUMS$STRENE=BRUCE REILLY=CATHY JUBY=DARIN HORGAN=MARK LUSZCZ=TOKO OKANO=KAZUAKI GOTO=MASATO KAWAI=AKITO TAKEUCHI=KAREN LILLIE=SHERRY ROSS=========HAPPY HOLIDAYS==FROM==SUNSOFT AND FUNCOM==========THE END!=================================~00~}#2544#2529
+GRACIAS POR JUGAR A SUNSOFT=DAZE BEFORE CHRISTMAS=====
+INSPIRADO POR=-----------=RITA ZIMMERER===========
+PRODUCTOR EJECUTIVO=-------------------=DAVID SILLER=ERIK GL$ERSEN=====
+PRODUCTOR=---------=SAM PATEL=HENNING ROKLING=====
+PROGRAMACIÓN PRINCIPAL=----------------=OLAV M$RKRID=====
+PROGRAMACIÓN ADICIONAL=----------------------=CARL-HENRIK SK~23~RSTEDT=====
+DISEÑO MOTOR=-------------=ROAR FL$LO=MORTEN OFSTAD=====
+PROGRAMACIÓN ENTORNO=----------------------=EIVIND EKLUND=IVAR JUST OLSEN=JOHAN K$HLER=====
+ PROGRAMA COMPRESIÓN =----------------------=EIVIND HAGEN=====
+GERENTE TÉCNICO - SUNSOFT=---------------------------=AL ARTUS=====
+MÚSICA Y EFECTOS SONIDO=-----------------------=KIM M JENSEN=GEIR TJELTA=====
+ARTISTAS GRÁFICOS PRI=---------------------=JOACHIM BARRUM=TORE BLYSTAD=OLE-PETTER ROSENLUND=====
+ANIMACIÓN PERSONAJE PRIN=------------------------=OLE-PETTER ROSENLUND=====
+GRÁFICOS ADICIONALES=-------------------=LARS PETTER ANFINSEN=ERIK BAKKEN=TORKELL BERNSEN=CHRISTOPHE BRANCHE=RONNIE JENSEN=GLENN KRISTOFFERSEN=COLIN MC MAHON=TOMMY SVENSSON=====
+EDICIÓN NIVEL=-------------=JACK KRISTOFFERSEN=====
+DISEÑO JUEGO=-----------=GAUTE GODAGER=BJ$RN R$ST$EN=TOMMY SYDS%TER=====
+TEST JUEGO =------------=SAM PATEL=STEVE RIZOR=RENE BOUTIN=STEVE GEHRKE=DAN MACARTHUR=JUSTIN SILLER=MARIO ZAVALA=====
+PRESIDENTE, SUNSOFT=-----------------=MASAMI MAEDA=====
+VICEPRESIDENTE, SUNSOFT=----------------------=TAD SHIMAMOTO=====
+DIRECTOR, SUNSOFT JAPAN=-----------------------=KIHARU YOSHIDA=====
+GERENTE GENERAL=Y COORDINADOR DE=DESARROLLO INTERNACIONAL=-----------------------=KENJI YOSHIOKA=====
+DIRECTOR MARKETING=------------------=KAREN SHADLEY=====
+MANUAL DE JUEGO=----------------=ALISON QUIRION=====
+AYUDANTE EJECUTIVO=-------------------=NANETTE HYSSONG=====
+SERVICIO CLIENTE=----------------=KAZ HARMAN=JUNE ECKERT=CONNIE PEREZ=JULIE WILLIAMS=JAMIE JORGENSON=ERIN BERRY=JAUPALE LASTER=====
+MEJORES DESEOS A=---------------=SONJA=MARI=MERETHE=MARTE=TONE=SILJE=KAROLINE=MARIA + PUSEN=ENDRE=HEIDI=ALTA=WALT=TROND=SKYNET=MACK=CHEESE & INGER=ROAR=ANDRE=ANDERS=TOMMY=LISA=ERIK + JANNE=SUPER GB=VEBJ$RN=THOMAS=STEIN=SUPERGEI=JENS-HARALD=K%LLIF$RD & P~23~L=VEGARD OG GJENGEN=K$LLA=BADLA=$KS=ZUMO=ANTIMON=RICHARD & MARIUS=SPACEY=TOMTEN=SONROP AD=JONATHAN SK~23~RSTEDT=SEBASTIAN SK~23~RSTEDT=MARTIN RANANG=DIDERICH BUCH=SLUMS$STRENE=BRUCE REILLY=CATHY JUBY=DARIN HORGAN=MARK LUSZCZ=TOKO OKANO=KAZUAKI GOTO=MASATO KAWAI=AKITO TAKEUCHI=KAREN LILLIE=SHERRY ROSS=========
+FELICES FIESTAS==
+DE==
+SUNSOFT Y FUNCOM==========
+  FIN!  =================================~00~#2529
+|2529
+@00057F35-00057FA4-00
+;00000000{santa claus  ~00~}#017#014
+santa claus  ~00~#014
+;0000000E{sonja        ~00~}#017#014
+sonja        ~00~#014
+;0000001C{merethe      ~00~}#017#014
+merethe      ~00~#014
+;0000002A{carl henrik  ~00~}#017#014
+carl henrik  ~00~#014
+;00000038{badla        ~00~}#017#014
+badla        ~00~#014
+;00000046{claudia      ~00~}#017#014
+claudia      ~00~#014
+;00000054{joni mitchell~00~}#017#014
+joni mitchell~00~#014
+;00000062{slums$strene ~00~}#017#014
+slums$strene ~00~#014
+|112

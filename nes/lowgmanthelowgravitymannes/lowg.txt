@@ -1,0 +1,11 @@
+IPS Peek Version 0.6.0.0.
+
+File: Low G Man crash fix.ips
+
+Offset End    Size  Type IPS Offset IPS End  IPS Size 
+------ ------ ----- ID   00000000   00000004 5        
+01F41C 01F41E 3     PAT  00000005   0000000C 8        
+01F466 01F46B 6     PAT  0000000D   00000017 11       
+01FFC0 01FFF2 51    PAT  00000018   0000004F 56       
+------ ------ ----- EOF  00000050   00000052 3        
+Rows: 5 (5), Patches: 3 (3), Modified: 3C (60)

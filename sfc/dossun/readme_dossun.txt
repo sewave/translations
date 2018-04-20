@@ -1,6 +1,6 @@
 Dossun! Ganseki Battle
-Traducción al Español v1.0 (10/01/2017)
-(C) 2017 Wave Translations
+Traducción al Español v1.1 (14/04/2018)
+(C) 2018 Wave Translations
 
 ---
 TdC
@@ -16,11 +16,12 @@ TdC
 1. Sobre Dossun! Ganseki Battle
 -----------------
 Curioso juego de puzzles estilo columns.
+v1.1:Revisión script.
 
 ---------------------
 2. Notas del Proyecto
 ---------------------
-Esta traducción y hacking esta basado en la traduccion de Aeon Genesis.
+Esta traducción y hacking esta basado en la traducción de Aeon Genesis.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)

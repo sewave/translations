@@ -1,5 +1,5 @@
 Rolling Thunder 3
-Traducción al Español v1.1 (16/04/2018)
+Traducción al Español v1.2 (21/04/2018)
 (C) 2018 Wave Translations
 
 ---
@@ -22,6 +22,7 @@ Tercera parte de Rolling Thunder exclusiva para Mega Drive.
 ---------------------
 Esta traducción y hacking es completamente original.
 v1.1: Revisión script
+v1.2: Arreglada ficha de Jay
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)

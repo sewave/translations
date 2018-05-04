@@ -1,5 +1,5 @@
 Kid Klown
-Traducción al Español v1.1 (01/03/2018)
+Traducción al Español v1.2 (04/05/2018)
 (C) 2018 Wave Translations
 
 ---
@@ -23,6 +23,7 @@ Este parche lo traduce completamente al español excepto la pantalla de final de 
 ---------------------
 Esta traducción y hacking es original y solo añade minúsculas y caracteres especiales.
 V1.1: Corrige el texto final del juego.
+v1.2: Corrección palabra repetida.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)

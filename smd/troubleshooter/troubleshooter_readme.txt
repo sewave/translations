@@ -1,6 +1,6 @@
 Trouble Shooter 
-Traducción al Español v1.0 (26/06/2017)
-(C) 2017 Wave Translations
+Traducción al Español v1.1 (08/05/2018)
+(C) 2018 Wave Translations
 
 ---
 TdC
@@ -21,6 +21,8 @@ Shoot em up original de la 16 bits de sega.
 2. Notas del Proyecto
 ---------------------
 Esta traducción y hacking es completamente original.
+
+V1.1: Corregida palabra duplicada.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)

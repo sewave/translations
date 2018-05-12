@@ -1,6 +1,6 @@
 Circus Caper
-Traducción al Español v1.0 (14/09/2016)
-(C) 2016 Wave Translations
+Traducción al Español v1.1 (08/05/2018)
+(C) 2018 Wave Translations
 
 ---
 TdC
@@ -15,13 +15,15 @@ TdC
 -----------------
 1. Sobre Circus Caper
 -----------------
-Un plataformas con buenas ideas con unas colisiones y fisicas que desgraciadamente arruinan el juego :(
+Un plataformas con buenas ideas con unas colisiones y físicas que desgraciadamente arruinan el juego :(
 Este parche lo traduce completamente al español excepto pantalla de inicio y de juego.
+
+v1.1: Revisión de script y fallos en minijuegos.
 
 ---------------------
 2. Notas del Proyecto
 ---------------------
-Esta traducción y hacking es original y solo añade minusculas y caracteres especiales.
+Esta traducción y hacking es original y solo añade minúsculas y caracteres especiales.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)

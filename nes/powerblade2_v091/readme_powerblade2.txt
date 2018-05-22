@@ -1,6 +1,6 @@
 Power Blade 2
-Traducción al Español v0.91 (29/08/2016)
-(C) 2016 Traducciones Wave
+Traducción al Español v1.0 (18/05/2018)
+(C) 2018 Traducciones Wave
 
 ---
 TdC
@@ -22,8 +22,9 @@ Este parche lo traduce completamente al español y añade áéíóú¡¿ñ.
 2. Notas del Proyecto
 ---------------------
 Esta traducción y hacking es completamente original.
-Añadidos áéíóú¡¿ñ, cambiados graficos de STAGE, POW, Trajes, Vida, CHANGE y el gracias del final.
+Añadidos áéíóú¡¿ñ, cambiados gráficos de STAGE, POW, Trajes, Vida, CHANGE y el gracias del final.
 v0.91: cambiada rom compatible a version goodnes
+V1.0: revisión de script
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)

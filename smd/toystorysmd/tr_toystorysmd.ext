@@ -25,8 +25,8 @@
  AYUDA A LOS OTROS JUGUETES 
  A LLEGAR A SUS SITIOS ANTES
  DE QUE ANDY ENTRE.         
- REX, HAMM AND Y ROBOT DEBEN
- IR EN EL COFRE DE JUGUETE. 
+ REX, HAMM Y ROBOT DEBEN IR 
+ EN EL COFRE DE JUGUETE.    
  COCHE RC Y ROCKY DEBEN IR  
  BAJO LA CAMA Y TU NECESITAS
  PONERTE ENCIMA DE LA CAMA. 
@@ -188,11 +188,12 @@ POR CADA BATERÍA QUE RECOJAS
 |58
 @00022914-00022B44-FF
 ;00000000{                                                                 WELL DONE!                                       YOU HAVE MANAGED TO WIN                                    0 EXTRA HIT POINT                                                                                                                                                             WHOOPS!                                         YOU FAILED TO WIN ANY                                      EXTRA HIT POINTS                                                                                           }#561#561
-                                                                 BIEN HECHO!                                        HAS CONSEGUIDO GANAR                                     0 PUNTOS DE VIDA EXTRA                                                                                                                                                        WHOOPS!                                         FALLASTE GANAR ALGÚN                                     PUNTO DE VIDA EXTRA                                                                                          #561
+                                                                 BIEN HECHO!                                        HAS CONSEGUIDO GANAR                                     0 
+   PUNTOS EXTRAS                                                                                                                                                            WHOOPS!                                         FALLASTE GANAR ALGÚN                                     PUNTO DE VIDA EXTRA                                                                                          #561
 |561
 @00023B6C-00023C2B-FF
 ;00000000{"REX~00~"~00~~1E~ROCKY~00~~16~GIBRALTAR~00~ HAMM~00~~18~~00~~1E~ROBOT~00~~18~~00~~1E~SNAKE~00~~18~~00~~1C~RC CAR~00~~18~~00~~0C~MR POTATO HEAD~00~~18~~00~~06~SQUEEZE TOY ALIEN~00~~18~~00~ SCUD~00~~18~~00~~14~ROLLER BOB~00~~18~~00~ LEGS~00~~18~~00~~12~ROCK MOBILE~00~~18~~00~~16~BABY FACE~00~~18~~00~~0C~BUZZ LIGHTYEAR~00~~18~~00~~0C~NIGHTMARE BUZZ~00~}#351#192
-"REX~00~"~00~~1E~ROCKY~00~~16~GIBRALTAR~00~ HAMM~00~~18~~00~~1E~ROBOT~00~~18~~00~~1E~SNAKE~00~~18~~00~~1C~RC CAR~00~~18~~00~~0C~  SR PATATA   ~00~~18~~00~~06~SQUEEZE TOY ALIEN~00~~18~~00~ SCUD~00~~18~~00~~14~ROLLER BOB~00~~18~~00~ LEGS~00~~18~~00~~12~ROCK MOBILE~00~~18~~00~~16~BABY FACE~00~~18~~00~~0C~BUZZ LIGHTYEAR~00~~18~~00~~0C~PESADILLA BUZZ~00~#192
+"REX~00~"~00~~1E~ROCKY~00~~16~GIBRALTAR~00~ HAMM~00~~18~~00~~1E~ROBOT~00~~18~~00~~1E~SNAKE~00~~18~~00~~1C~RC CAR~00~~18~~00~~0C~ SEÑOR PATATA ~00~~18~~00~~06~SQUEEZE TOY ALIEN~00~~18~~00~ SCUD~00~~18~~00~~14~ROLLER BOB~00~~18~~00~ LEGS~00~~18~~00~~12~ROCK MOBILE~00~~18~~00~~16~BABY FACE~00~~18~~00~~0C~BUZZ LIGHTYEAR~00~~18~~00~~0C~PESADILLA BUZZ~00~#192
 |192
 @00023DE0-00023E81-FF
 ;00000000{WELL DONE~00~YOU HAVE COMPLETED~00~TOY STORY~00~HOPE YOU ENJOYED IT~00~THANKS FOR PLAYING~00~OUTSTANDING~00~YOU HAVE COMPLETED~00~TOY STORY AND~00~FOUND EVERY STAR~00~THANKS FOR PLAYING~00~~00~N~B8~}#198#162
@@ -298,7 +299,7 @@ MUY BIEN ~00~  HAS COMPLETADO  ~00~TOY STORY~00~ OJALÁ DISFRUTARAS ~00~GRACIAS 
 ;00000ADB{                                        ~00~}#044#041
                                         ~00~#041
 ;00000B04{                                        =            SENIOR SOFTWARE             =        PRODUCTION ADMINISTRATOR        ~00~}#126#123
-                                        =ADMINISTRADOR DE PRODUCCION DE SOFTWARE =                 SENIOR                 ~00~#123
+                                        =ADMINISTRADOR DE PRODUCCIÓN DE SOFTWARE =                 SENIOR                 ~00~#123
 ;00000B7F{                                        ~00~}#044#041
                                         ~00~#041
 ;00000BA8{            MICHAEL CLEMENT             ~00~}#044#041
@@ -420,7 +421,7 @@ MUY BIEN ~00~  HAS COMPLETADO  ~00~TOY STORY~00~ OJALÁ DISFRUTARAS ~00~GRACIAS 
 ;000016B5{                                        ~00~}#044#041
                                         ~00~#041
 ;000016DE{                                        =           MUSIC COMPOSITION            =            AND  ADAPTATION             ~00~}#126#123
-                                        =           COMPOSICIÓN MUSICAL          =              Y ADACPTACIÓN             ~00~#123
+                                        =           COMPOSICIÓN MUSICAL          =              Y ADAPTACIÓN              ~00~#123
 ;00001759{                                        ~00~}#044#041
                                         ~00~#041
 ;00001782{              ANDY BLYTHE               ~00~}#044#041
@@ -594,7 +595,7 @@ NUEVO JUGUETE.
 SERÁ MEJOR QUE   
 SUBA Y MIRE!"   
 "EH! REX, HAMM,   
-SEÑOR POTATO...  
+SEÑOR PATATA...  
 VENID A VER EL   
 NUEVO JUGUETE DE 
 ANDY...                           #460

@@ -1,0 +1,69 @@
+@00001FBB-00001FD7-FF
+;00000000{PRESS START BUTTONc 1992 SEGA}#029#029
+PULSA BOTÓN START c 1992 SEGA#029
+|29
+@00001FE0-00001FEC-FF
+;00000000{C~B0~R~B8~E~C0~D~C8~I~D8~S~E8~5}#031#013
+C~B0~R~B8~E~C0~D~C8~I~D8~O~E8~5#013
+|13
+@000041C7-000043FE-FF
+;00000000{PRESS 2P BUTTON TO EXITON INPUT TEST                             UP                        DOWN                      LEFT                      RIGHT                     BUTTON L                  BUTTON R                                                                                   TEST MODE                                             RONDA                                  SOUND                                  INERTIA                                HELI                                   INPUT                                  EXIT                             }#568#568
+ BOTÓN DE J2 PARA SALIR
+OK
+ TEST INPUT                            
+ARRIBA                    
+ABAJO                     
+IZQUIERDA                 
+DERECHA                   
+BOTÓN L                   
+BOTÓN R                                                                                    
+ MODO TEST                                             
+RONDA                                  
+SONIDO                                 
+INERCIA                                
+VIDAS                                  
+CONTROL                                
+SALIR                            #568
+|568
+@00004414-00004435-FF
+;00000000{DIFFICULTYNORMAL            HARD  }#034#034
+DIFICULTAD
+NORMAL            DIFÍCI#034
+|34
+@00004826-000048BE-FF
+;00000000{      ROUND 1~21~DANGEROUS HOLIDAY~20~      ROUND 2~21~    FIRE STORM~20~      ROUND 3~21~    COUNT DOWN~20~      ROUND 4~21~    PANIC OCEAN~20~      ROUND 5~21~BREAKDOWN DARKSTAR~20~}#183#153
+      RONDA 1~21~ VACACIÓN PELIGRO~20~
+      RONDA 2~21~TORMENTA FUEGO~20~
+      RONDA 3~21~  CUENTA ATRÁS~20~
+      RONDA 4~21~  PÁNICO OCÉANO~20~
+      RONDA 5~21~ ROTURA DARKSTAR  ~20~#153
+|153
+@0000535B-000053A8-FF
+;00000000{RONDA CLEAR!HIGH SCORE       00                        SCORE       00GAME OVER}#078#078
+RONDA ACABA!MEJORES PTS      00                           PTS      00GAME OVER#078
+|78
+@000053B3-000053BF-FF
+;00000000{CONTINUE~87~~B0~~B0~~B0~~B0~}#028#013
+CONTINUA~87~~B0~~B0~~B0~~B0~#013
+|13
+@000053C6-000053DB-FF
+;00000000{C~B0~R~B8~E~C0~D~C8~I~D0~T~D8~SYES   NO }#040#022
+C~B0~R~B8~E~C0~D~C8~I~D0~T~D8~OSÍ    NO #022
+|22
+@00005631-000056AB-FF
+;00000000{.TIME OUTTIME BONUS  :  X100 PTS.BONUS    X1000 PTS.SHOT BONUS   100000 PTS.SHOT BONUS   150000 PTS.HELI BONUS   X10000 PTS}#123#123
+.TIEMPO  
+BONO TIEM.  :  X100 PTS.
+BONOS    X1000 PTS.
+BONO DISPARO 100000 PTS.
+BONO DISPARO 150000 PTS.
+BONO HELI    X10000 PTS#123
+|123
+@000056DD-00005955-FF
+;00000000{XVY                   STAFF                                    PLANNER                      MANMA                    PROGRAMMER                    S.KAWA     PRETTY TOSHI    DESIGNER                      MANMA       SENKICHI   MUSIC COMPOSER                  NASUBI                  SPECIAL THANKS                    TO                                       FUMI                                                MIKIYO OHNO   AZUSA SENOH   ERIKA HANEDA                RIEKO MIURA   MAKI MIYAMAE                PRESENTED BY                    SEGA                    PRESENTED BY                    COCO                     SINCE 1989  }#633#633
+XVY                 EQUIPO                                      PLAN                        MANMA                     PROGRAMA                     S.KAWA     PRETTY TOSHI     DISEÑO                       MANMA       SENKICHI   COMPONE MÚSICA                  NASUBI                  MUCHAS GRACIAS                    A                                        FUMI                                                MIKIYO OHNO   AZUSA SENOH   ERIKA HANEDA                RIEKO MIURA   MAKI MIYAMAE                  PRESENTA                      SEGA                      PRESENTA                      COCO                     DESDE 1989  #633
+|633
+@0000599D-000059AE-FF
+;00000000{MISSION COMPLETED!}#018#018
+MISIÓN COMPLETADA!#018
+|18

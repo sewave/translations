@@ -1,5 +1,5 @@
 Toy Story
-Traducción al Español v1.0 (11/05/2018)
+Traducción al Español v1.1 (25/05/2018)
 (C) 2018 Wave Translations
 
 ---
@@ -21,6 +21,7 @@ Adaptación de la película de Pixar para Mega Drive.
 2. Notas del Proyecto
 ---------------------
 Esta traducción y hacking es completamente original.
+v1.1.: Traducido señor patata y 2 fallos en bonus y créditos.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)

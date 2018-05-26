@@ -1,0 +1,44 @@
+@00001FBB-00001FD7-FF
+;00000000{PRESS START BUTTONc 1992 SEGA}#029#029
+PRESS START BUTTONc 1992 SEGA#029
+|29
+@00001FE0-00001FEC-FF
+;00000000{C~B0~R~B8~E~C0~D~C8~I~D8~S~E8~5}#031#013
+C~B0~R~B8~E~C0~D~C8~I~D8~S~E8~5#013
+|13
+@000041C7-000043FE-FF
+;00000000{PRESS 2P BUTTON TO EXITON INPUT TEST                             UP                        DOWN                      LEFT                      RIGHT                     BUTTON L                  BUTTON R                                                                                   TEST MODE                                             ROUND                                  SOUND                                  INERTIA                                HELI                                   INPUT                                  EXIT                             }#568#568
+PRESS 2P BUTTON TO EXITON INPUT TEST                             UP                        DOWN                      LEFT                      RIGHT                     BUTTON L                  BUTTON R                                                                                   TEST MODE                                             ROUND                                  SOUND                                  INERTIA                                HELI                                   INPUT                                  EXIT                             #568
+|568
+@00004414-00004435-FF
+;00000000{DIFFICULTYNORMAL            HARD  }#034#034
+DIFFICULTYNORMAL            HARD  #034
+|34
+@00004826-000048BE-FF
+;00000000{      ROUND 1~21~DANGEROUS HOLIDAY~20~      ROUND 2~21~    FIRE STORM~20~      ROUND 3~21~    COUNT DOWN~20~      ROUND 4~21~    PANIC OCEAN~20~      ROUND 5~21~BREAKDOWN DARKSTAR~20~}#183#153
+      ROUND 1~21~DANGEROUS HOLIDAY~20~      ROUND 2~21~    FIRE STORM~20~      ROUND 3~21~    COUNT DOWN~20~      ROUND 4~21~    PANIC OCEAN~20~      ROUND 5~21~BREAKDOWN DARKSTAR~20~#153
+|153
+@0000535B-000053A8-FF
+;00000000{ROUND CLEAR!HIGH SCORE       00                        SCORE       00GAME OVER}#078#078
+ROUND CLEAR!HIGH SCORE       00                        SCORE       00GAME OVER#078
+|78
+@000053B3-000053BF-FF
+;00000000{CONTINUE~87~~B0~~B0~~B0~~B0~}#028#013
+CONTINUE~87~~B0~~B0~~B0~~B0~#013
+|13
+@000053C6-000053DB-FF
+;00000000{C~B0~R~B8~E~C0~D~C8~I~D0~T~D8~SYES   NO }#040#022
+C~B0~R~B8~E~C0~D~C8~I~D0~T~D8~SYES   NO #022
+|22
+@00005631-000056AB-FF
+;00000000{.TIME OUTTIME BONUS  :  X100 PTS.BONUS    X1000 PTS.SHOT BONUS   100000 PTS.SHOT BONUS   150000 PTS.HELI BONUS   X10000 PTS}#123#123
+.TIME OUTTIME BONUS  :  X100 PTS.BONUS    X1000 PTS.SHOT BONUS   100000 PTS.SHOT BONUS   150000 PTS.HELI BONUS   X10000 PTS#123
+|123
+@000056DD-00005955-FF
+;00000000{XVY                   STAFF                                    PLANNER                      MANMA                    PROGRAMMER                    S.KAWA     PRETTY TOSHI    DESIGNER                      MANMA       SENKICHI   MUSIC COMPOSER                  NASUBI                  SPECIAL THANKS                    TO                                       FUMI                                                MIKIYO OHNO   AZUSA SENOH   ERIKA HANEDA                RIEKO MIURA   MAKI MIYAMAE                PRESENTED BY                    SEGA                    PRESENTED BY                    COCO                     SINCE 1989  }#633#633
+XVY                   STAFF                                    PLANNER                      MANMA                    PROGRAMMER                    S.KAWA     PRETTY TOSHI    DESIGNER                      MANMA       SENKICHI   MUSIC COMPOSER                  NASUBI                  SPECIAL THANKS                    TO                                       FUMI                                                MIKIYO OHNO   AZUSA SENOH   ERIKA HANEDA                RIEKO MIURA   MAKI MIYAMAE                PRESENTED BY                    SEGA                    PRESENTED BY                    COCO                     SINCE 1989  #633
+|633
+@0000599D-000059AE-FF
+;00000000{MISSION COMPLETED!}#018#018
+MISSION COMPLETED!#018
+|18

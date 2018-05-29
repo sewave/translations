@@ -1,5 +1,5 @@
 Bucky O'Hare
-Traducción al Español v1.1 (04/03/2018)
+Traducción al Español v1.2 (29/05/2018)
 (C) 2018 Wave Translations
 
 ---
@@ -22,6 +22,7 @@ En run'n gun con alta calidad técnica basada en al serie.
 ---------------------
 Esta traducción y hacking es completamente original.
 V1.1: Revisión de los diálogos y añadido de áéíóúñ¡¿.
+v1.2: Arreglado texto al rescatar al pato.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)

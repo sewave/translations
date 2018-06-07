@@ -1,0 +1,430 @@
+@0000F4ED-0000F785-FF
+;00000000{  On the very edge of the=  universe a weird spaceship=  is sucking up the stars.~FF~}#085#082
+  En el filo del universo=
+  una rara nave espacial    =
+  absorbe estrellas.      ~FF~#082
+;00000052{The evil intergalactic goblin,=Grim Squidge, is imprisoning=the stars...~FF~}#076#073
+El malo goblin intergaláctico,=
+Grim Squidge, encarcela las =
+estrellas...~FF~#073
+;0000009B{and scattering them across the=far away worlds.   The fiend!~FF~}#064#061
+y las esparce por los mundos  =
+lejanos.   El desalmado!     ~FF~#061
+;000000D8{  Meanwhile, a nearby space=  station picks up a distress=  signal.~FF~}#071#068
+  Mientras, una estación   =
+  cercana recibe una señal de=
+  ayuda. ~FF~#068
+;0000011C{ Tinhead, the robot who guards= the edge of the universe,= hears the cry for help.~FF~}#086#083
+ Tinhead, el robot que protege=
+ el filo del universo, oye=
+ los gritos de ayuda.   ~FF~#083
+;0000016F{ With a mighty bound, Tinhead= leaps to the rescue!~FF~}#055#052
+ De un poderoso bote, Tinhead=
+ va al rescate!      ~FF~#052
+;000001A3{ As Grim Squidge's spaceship= explodes, all the remaining= stars are released.~FF~}#082#079
+ Mientras la nave de Grim   =
+ Squidge explota, libera las=
+ últimas estrellas. ~FF~#079
+;000001F2{ One by one, the stars return= to their celestial homes.~FF~}#060#057
+ Una a una, las estrellas    =
+ vuelven a sus hogares.   ~FF~#057
+;0000022B{  For his bravery, Tinhead=becomes an interstellar hero.~FF~}#060#057
+  Por su bravura, Tinhead =
+se vuelve héroe interestelar.~FF~#057
+;00000264{  But what has become of that=  nasty Grim Squidge ?~FF~}#056#053
+  Pero que fue del horrible y=
+  feo Grim Squidge?   ~FF~#053
+|665
+@000D63C9-000D66B5-FF
+;00000000{         Programmer==        Gordon Fong=      Software Sorcery~FF~}#067#064
+         Programa  ==        Gordon Fong=      Software Sorcery~FF~#064
+;00000040{           Artists==        Trevor Slater=        Theo Pantazi=        Mark Wilson=        Allan Holloway=        Paul Ayeliffe=        Martin Severn=         John Rietze~FF~}#174#171
+           Artista==        Trevor Slater=        Theo Pantazi=        Mark Wilson=        Allan Holloway=        Paul Ayeliffe=        Martin Severn=         John Rietze~FF~#171
+;000000EB{== Original game and map design==     Richard Lemarchand~FF~}#060#057
+== Juego original y diseño mapa==     Richard Lemarchand~FF~#057
+;00000124{==        Music and SFX==          Paul Tonge=       Alistair Brimble~FF~}#073#070
+==        Música y EFE ==          Paul Tonge=       Alistair Brimble~FF~#070
+;0000016A{==      Quality Assurance==       Richard Bakewell=         Andy Luckett=         Robert Wong=        Justin Manning~FF~}#120#117
+==      Garantía Calidad ==       Richard Bakewell=         Andy Luckett=         Robert Wong=        Justin Manning~FF~#117
+;000001DF{        Thanks to==  Tim Cannell,John Broomhall=  Nick Thompson,Harvey Lee=  Jason Sampson,Darren Kirby=  Robert Husband,Rob Northern=  Laurie Sinnett,Seth Walker=        and WALDO.~FF~}#185#182
+        Gracias a==  Tim Cannell,John Broomhall=  Nick Thompson,Harvey Lee=  Jason Sampson,Darren Kirby=  Robert Husband,Rob Northern=  Laurie Sinnett,Seth Walker=         y WALDO. ~FF~#182
+;00000295{==          Producer==        Stuart Whyte~FF~}#046#043
+==          Produce ==        Stuart Whyte~FF~#043
+;000002C0{==          Publisher==        Paul Hibbard~FF~}#047#044
+==          Publica  ==        Paul Hibbard~FF~#044
+;000002EC{=}#001#001
+=#001
+|749
+@000D9721-000D9D59-FF
+;00000000{Off~FF~}#007#004
+No ~FF~#004
+;00000004{On ~FF~}#007#004
+Sí ~FF~#004
+;00000008{Boing          ~FF~}#019#016
+Boing          ~FF~#016
+;00000018{Start          ~FF~}#019#016
+Start          ~FF~#016
+;00000028{Collect globe  ~FF~}#019#016
+Collect globe  ~FF~#016
+;00000038{Tinhead crouch ~FF~}#019#016
+Tinhead crouch ~FF~#016
+;00000048{Tinhead teeter ~FF~}#019#016
+Tinhead teeter ~FF~#016
+;00000058{Tinhead hit    ~FF~}#019#016
+Tinhead hit    ~FF~#016
+;00000068{Swap weapon 1  ~FF~}#019#016
+Swap weapon 1  ~FF~#016
+;00000078{Swap weapon 2  ~FF~}#019#016
+Swap weapon 2  ~FF~#016
+;00000088{Swap weapon 3  ~FF~}#019#016
+Swap weapon 3  ~FF~#016
+;00000098{Collect key    ~FF~}#019#016
+Collect key    ~FF~#016
+;000000A8{Collect key    ~FF~}#019#016
+Collect key    ~FF~#016
+;000000B8{Collect bonus  ~FF~}#019#016
+Collect bonus  ~FF~#016
+;000000C8{Explosion 1    ~FF~}#019#016
+Explosion 1    ~FF~#016
+;000000D8{Explosion 2    ~FF~}#019#016
+Explosion 2    ~FF~#016
+;000000E8{Explosion 3    ~FF~}#019#016
+Explosion 3    ~FF~#016
+;000000F8{Explosion 4    ~FF~}#019#016
+Explosion 4    ~FF~#016
+;00000108{Explosion 5    ~FF~}#019#016
+Explosion 5    ~FF~#016
+;00000118{Tinhead fire 1 ~FF~}#019#016
+Tinhead fire 1 ~FF~#016
+;00000128{Tinhead fire 2 ~FF~}#019#016
+Tinhead fire 2 ~FF~#016
+;00000138{Tinhead fire 3 ~FF~}#019#016
+Tinhead fire 3 ~FF~#016
+;00000148{Mortar explode ~FF~}#019#016
+Mortar explode ~FF~#016
+;00000158{Collect life   ~FF~}#019#016
+Collect life   ~FF~#016
+;00000168{Robot jump     ~FF~}#019#016
+Robot jump     ~FF~#016
+;00000178{Hit head       ~FF~}#019#016
+Hit head       ~FF~#016
+;00000188{Acid drop      ~FF~}#019#016
+Acid drop      ~FF~#016
+;00000198{Bouncer fire   ~FF~}#019#016
+Bouncer fire   ~FF~#016
+;000001A8{Crystal spin   ~FF~}#019#016
+Crystal spin   ~FF~#016
+;000001B8{Teleport       ~FF~}#019#016
+Teleport       ~FF~#016
+;000001C8{Tin head jump  ~FF~}#019#016
+Tin head jump  ~FF~#016
+;000001D8{Collect special~FF~}#019#016
+Collect special~FF~#016
+;000001E8{Chime 1        ~FF~}#019#016
+Chime 1        ~FF~#016
+;000001F8{Chime 2        ~FF~}#019#016
+Chime 2        ~FF~#016
+;00000208{Chime 3        ~FF~}#019#016
+Chime 3        ~FF~#016
+;00000218{Smash egg      ~FF~}#019#016
+Smash egg      ~FF~#016
+;00000228{Drop egg       ~FF~}#019#016
+Drop egg       ~FF~#016
+;00000238{Blow pipe      ~FF~}#019#016
+Blow pipe      ~FF~#016
+;00000248{Spit shot      ~FF~}#019#016
+Spit shot      ~FF~#016
+;00000258{Unicycle rev   ~FF~}#019#016
+Unicycle rev   ~FF~#016
+;00000268{Collect bullet1~FF~}#019#016
+Collect bullet1~FF~#016
+;00000278{Collect bullet2~FF~}#019#016
+Collect bullet2~FF~#016
+;00000288{Collect bullet3~FF~}#019#016
+Collect bullet3~FF~#016
+;00000298{Collect battery~FF~}#019#016
+Collect battery~FF~#016
+;000002A8{Blip 1         ~FF~}#019#016
+Blip 1         ~FF~#016
+;000002B8{Blip 2         ~FF~}#019#016
+Blip 2         ~FF~#016
+;000002C8{Blip 3         ~FF~}#019#016
+Blip 3         ~FF~#016
+;000002D8{Enemy up       ~FF~}#019#016
+Enemy up       ~FF~#016
+;000002E8{Through pipe   ~FF~}#019#016
+Through pipe   ~FF~#016
+;000002F8{pipe off sound ~FF~}#019#016
+pipe off sound ~FF~#016
+;00000308{Collect belisha~FF~}#019#016
+Collect belisha~FF~#016
+;00000318{Guardian land  ~FF~}#019#016
+Guardian land  ~FF~#016
+;00000328{Catty release  ~FF~}#019#016
+Catty release  ~FF~#016
+;00000338{Catty stretch  ~FF~}#019#016
+Catty stretch  ~FF~#016
+;00000348{Widget jump    ~FF~}#019#016
+Widget jump    ~FF~#016
+;00000358{Guardian fire 2~FF~}#019#016
+Guardian fire 2~FF~#016
+;00000368{Blow tank      ~FF~}#019#016
+Blow tank      ~FF~#016
+;00000378{Humunculus fire~FF~}#019#016
+Humunculus fire~FF~#016
+;00000388{Collect flower ~FF~}#019#016
+Collect flower ~FF~#016
+;00000398{wing flap      ~FF~}#019#016
+wing flap      ~FF~#016
+;000003A8{Droid          ~FF~}#019#016
+Droid          ~FF~#016
+;000003B8{UFO fire       ~FF~}#019#016
+UFO fire       ~FF~#016
+;000003C8{Robot fire     ~FF~}#019#016
+Robot fire     ~FF~#016
+;000003D8{Airlock open   ~FF~}#019#016
+Airlock open   ~FF~#016
+;000003E8{Switch         ~FF~}#019#016
+Switch         ~FF~#016
+;000003F8{Rex hit        ~FF~}#019#016
+Rex hit        ~FF~#016
+;00000408{Guardian fire 1~FF~}#019#016
+Guardian fire 1~FF~#016
+;00000418{Drop egg       ~FF~}#019#016
+Drop egg       ~FF~#016
+;00000428{Collect chimney~FF~}#019#016
+Collect chimney~FF~#016
+;00000438{Hammer         ~FF~}#019#016
+Hammer         ~FF~#016
+;00000448{Collect hatch  ~FF~}#019#016
+Collect hatch  ~FF~#016
+;00000458{Jaguar fall    ~FF~}#019#016
+Jaguar fall    ~FF~#016
+;00000468{Guardian scream~FF~}#019#016
+Guardian scream~FF~#016
+;00000478{Tuff transform ~FF~}#019#016
+Tuff transform ~FF~#016
+;00000488{Pod fire       ~FF~}#019#016
+Pod fire       ~FF~#016
+;00000498{Pincers        ~FF~}#019#016
+Pincers        ~FF~#016
+;000004A8{Head extends   ~FF~}#019#016
+Head extends   ~FF~#016
+;000004B8{Head retracts  ~FF~}#019#016
+Head retracts  ~FF~#016
+;000004C8{Wrong switch   ~FF~}#019#016
+Wrong switch   ~FF~#016
+;000004D8{Collect spark  ~FF~}#019#016
+Collect spark  ~FF~#016
+;000004E8{Bubble flap    ~FF~}#019#016
+Bubble flap    ~FF~#016
+;000004F8{Heli head      ~FF~}#019#016
+Heli head      ~FF~#016
+;00000508{Rocket thrust  ~FF~}#019#016
+Rocket thrust  ~FF~#016
+;00000518{Heli rise      ~FF~}#019#016
+Heli rise      ~FF~#016
+;00000528{Gantry extend  ~FF~}#019#016
+Gantry extend  ~FF~#016
+;00000538{LIFT           ~FF~}#019#016
+LIFT           ~FF~#016
+;00000548{Extra ~23~2       ~FF~}#022#016
+Extra ~23~2       ~FF~#016
+;00000558{Unicycle       ~FF~}#019#016
+Unicycle       ~FF~#016
+;00000568{Extra ~23~4       ~FF~}#022#016
+Extra ~23~4       ~FF~#016
+;00000578{Extra ~23~5       ~FF~}#022#016
+Extra ~23~5       ~FF~#016
+;00000588{Siren          ~FF~}#019#016
+Siren          ~FF~#016
+;00000598{Title    ~FF~}#013#010
+Title    ~FF~#010
+;000005A2{Game over~FF~}#013#010
+Game over~FF~#010
+;000005AC{Goal     ~FF~}#013#010
+Goal     ~FF~#010
+;000005B6{Level in ~FF~}#013#010
+Level in ~FF~#010
+;000005C0{Level out~FF~}#013#010
+Level out~FF~#010
+;000005CA{MPS      ~FF~}#013#010
+MPS      ~FF~#010
+;000005D4{Win game ~FF~}#013#010
+Win game ~FF~#010
+;000005DE{Boss lev1~FF~}#013#010
+Boss lev1~FF~#010
+;000005E8{Boss lev2~FF~}#013#010
+Boss lev2~FF~#010
+;000005F2{Boss lev3~FF~}#013#010
+Boss lev3~FF~#010
+;000005FC{Boss lev4~FF~}#013#010
+Boss lev4~FF~#010
+;00000606{Level 1  ~FF~}#013#010
+Level 1  ~FF~#010
+;00000610{Level 2  ~FF~}#013#010
+Level 2  ~FF~#010
+;0000061A{Level 3  ~FF~}#013#010
+Level 3  ~FF~#010
+;00000624{Level 4  ~FF~}#013#010
+Level 4  ~FF~#010
+;0000062E{Music off~FF~}#013#010
+No Música~FF~#010
+;00000638{=}#001#001
+=#001
+|1593
+@0000838F-000084E5-FF
+;00000000{      TINHEAD==    TEST VERSION== WRITTEN BY G FONG= FOR MICROPROSE LTD=== <> TO SELECT NIVEL======PUSH START TO START~FF~}#122#119
+      TINHEAD==    VERSIÓN TEST== ESCRITO  G FONG = PARA MICROPROSE LTD=== <> ELIGE NIVEL    ======START PARA EMPEZAR ~FF~#119
+;00000077{L1S1M1~FF~}#010#007
+L1S1M1~FF~#007
+;0000007E{=L1S1M2~FF~}#011#008
+=L1S1M2~FF~#008
+;00000086{=L1S2M1~FF~}#011#008
+=L1S2M1~FF~#008
+;0000008E{=L1S2M2~FF~}#011#008
+=L1S2M2~FF~#008
+;00000096{=L1S3M1~FF~}#011#008
+=L1S3M1~FF~#008
+;0000009E{=L1S3M2~FF~}#011#008
+=L1S3M2~FF~#008
+;000000A6{=L1:END~FF~}#011#008
+=L1:END~FF~#008
+;000000AE{=L2S1M1~FF~}#011#008
+=L2S1M1~FF~#008
+;000000B6{=L2S1M2~FF~}#011#008
+=L2S1M2~FF~#008
+;000000BE{=L2S2M1~FF~}#011#008
+=L2S2M1~FF~#008
+;000000C6{=L2S2M2~FF~}#011#008
+=L2S2M2~FF~#008
+;000000CE{=L2S3M1~FF~}#011#008
+=L2S3M1~FF~#008
+;000000D6{=L2S3M2~FF~}#011#008
+=L2S3M2~FF~#008
+;000000DE{=L2:END~FF~}#011#008
+=L2:END~FF~#008
+;000000E6{=L3S1M1~FF~}#011#008
+=L3S1M1~FF~#008
+;000000EE{=L3S1M2~FF~}#011#008
+=L3S1M2~FF~#008
+;000000F6{=L3S2M1~FF~}#011#008
+=L3S2M1~FF~#008
+;000000FE{=L3S2M2~FF~}#011#008
+=L3S2M2~FF~#008
+;00000106{=L3S3M1~FF~}#011#008
+=L3S3M1~FF~#008
+;0000010E{=L3S3M2~FF~}#011#008
+=L3S3M2~FF~#008
+;00000116{=L3:END~FF~}#011#008
+=L3:END~FF~#008
+;0000011E{=L4S1M1~FF~}#011#008
+=L4S1M1~FF~#008
+;00000126{=L4S1M2~FF~}#011#008
+=L4S1M2~FF~#008
+;0000012E{=L4S2M1~FF~}#011#008
+=L4S2M1~FF~#008
+;00000136{=L4S2M2~FF~}#011#008
+=L4S2M2~FF~#008
+;0000013E{=L4S3M1~FF~}#011#008
+=L4S3M1~FF~#008
+;00000146{=L4S3M2~FF~}#011#008
+=L4S3M2~FF~#008
+;0000014E{=L4:END~FF~}#011#008
+=L4:END~FF~#008
+;00000156{=}#001#001
+=#001
+|343
+@0000C8E1-0000C984-FF
+;00000000{!HIGH SCORE TABLE====EMMA    00600000==GORDON  00550000==VICKY   00500000==DAVID   00450000==CATHY   00400000==MIKE    00350000==JENNY   00300000==CHRIS   00250000=}#164#164
+!TABLA PUNTOS MÁX====EMMA    00600000==GORDON  00550000==VICKY   00500000==DAVID   00450000==CATHY   00400000==MIKE    00350000==JENNY   00300000==CHRIS   00250000=#164
+|164
+@0000F247-0000F2BA-FF
+;00000000{Copyright ~40~1994 Microprose=  LICENSED BY NINTENDO~FF~}#056#050
+Copyright ~40~1994 Microprose=  LICENCIA DE NINTENDO~FF~#050
+;00000032{      START==  ENTER PASSWORD==     OPTIONS~FF~}#047#044
+      NUEVA==  ENTRA PASSWORD==     OPCIÓN ~FF~#044
+;0000005E{PLEASE ENTER PASSWORD=}#022#022
+INTRODUCE TU PASSWORD=#022
+|116
+@0000F2FF-0000F357-FF
+;00000000{ DEL OK EXIT==       ______~FF~}#031#028
+ BOR OK SALE==       ______~FF~#028
+;0000001C{      OPTIONS===DIFFICULTY==MUSIC     ==SOUND TEST==CONTROLS=}#061#061
+      OPCIÓN ===DIFICULTAD==MÚSICA    ==SONIDO    ==CONTROL =#061
+|89
+@0000F35C-0000F4EC-FF
+;00000000{       EXIT~FF~}#015#012
+       SALE~FF~#012
+;0000000C{Normal  ~FF~}#012#009
+Normal  ~FF~#009
+;00000015{Practice~FF~}#012#009
+Practica~FF~#009
+;0000001E{MUSIC -==SOUND -==EXIT~FF~}#026#023
+MÚSICA-==SONIDO-==SALE~FF~#023
+;00000035{~23~1 ~FF~}#010#004
+~23~1 ~FF~#004
+;00000039{~23~2 ~FF~}#010#004
+~23~2 ~FF~#004
+;0000003D{~23~3 ~FF~}#010#004
+~23~3 ~FF~#004
+;00000041{~23~4 ~FF~}#010#004
+~23~4 ~FF~#004
+;00000045{A-HORIZONTAL SHOT=B-BOUNCING SHOT  =X-DIAGONAL SHOT  =Y-JUMP           ~FF~}#075#072
+A-TIRO HORIZONTAL=B-TIRO REBOTE    =X-TIRO DIAGONAL  =Y-SALTO          ~FF~#072
+;0000008D{A-HORIZONTAL SHOT=B-JUMP           =X-DIAGONAL SHOT  =Y-BOUNCING SHOT  ~FF~}#075#072
+A-TIRO HORIZONTAL=B-SALTO          =X-TIRO DIAGONAL  =Y-TIRO REBOTE    ~FF~#072
+;000000D5{A-BOUNCING SHOT  =B-JUMP           =X-DIAGONAL SHOT  =Y-HORIZONTAL SHOT~FF~}#075#072
+A-TIRO REBOTE    =B-SALTO          =X-TIRO DIAGONAL  =Y-TIRO HORIZONTAL~FF~#072
+;0000011D{A-HORIZONTAL SHOT=B-BOUNCING SHOT  =X-JUMP           =Y-DIAGONAL SHOT  ~FF~}#075#072
+A-TIRO HORIZONTAL=B-TIRO REBOTE    =X-SALTO          =Y-TIRO DIAGONAL  ~FF~#072
+;00000165{  PASSWORD ACCEPTED  ~FF~}#025#022
+  PASSWORD ACEPTADO  ~FF~#022
+;0000017B{PASSWORD NOT ACCEPTED~FF~}#025#022
+PASSWORD NO ACEPTADO ~FF~#022
+|401
+@0000F787-0000F7F1-FF
+;00000000{  CONGRATULATIONS!==  You have completed=  the practice game.== Now use your skills=to win the full game..~FF~}#110#107
+  FELICIDADES!    ==
+  Has completado el =
+  juego de práctica.==
+ Usa tus habilidades=
+en el juego normal... ~FF~#107
+|107
+@0000F7F2-0000F9A0-FF
+;00000000{   NIVEL ONE   ~FF~}#019#016
+   NIVEL UNO   ~FF~#016
+;00000010{   NIVEL TWO   ~FF~}#019#016
+   NIVEL DOS   ~FF~#016
+;00000020{  NIVEL THREE  ~FF~}#019#016
+  NIVEL TRES   ~FF~#016
+;00000030{  NIVEL FOUR   ~FF~}#019#016
+ NIVEL CUATRO  ~FF~#016
+;00000040{ CRYSTAL WORLD ~FF~}#019#016
+ MUNDO CRISTAL ~FF~#016
+;00000050{  SPACE PORT   ~FF~}#019#016
+PUERTO ESPACIO ~FF~#016
+;00000060{  SPACE HULK   ~FF~}#019#016
+ HULK ESPACIAL ~FF~#016
+;00000070{ INCTEC PLANET ~FF~}#019#016
+PLANETA INCTEC ~FF~#016
+;00000080{  SECTOR ONE   ~FF~}#019#016
+  SECTOR UNO   ~FF~#016
+;00000090{  SECTOR TWO   ~FF~}#019#016
+  SECTOR DOS   ~FF~#016
+;000000A0{ SECTOR THREE  ~FF~}#019#016
+  SECTOR TRES  ~FF~#016
+;000000B0{  PUSH START~FF~}#016#013
+ PULSA START~FF~#013
+;000000BD{NIVEL SECTOR COMPLETE[==PASSWORD LAMBDA==SCORE  00000000==   \ 0000======SKILLS BONUS 0000~FF~}#094#091
+NIVEL SECTOR COMPLETO[==PASSWORD LAMBDA==PTS    00000000==   \ 0000======BONO HABIL   0000~FF~#091
+;00000118{SKILLS BONUSSECRET BONUSFEEBLE BONUSSKIMPY BONUSLUCKY  BONUSMAGIC  BONUSGROOVY BONUS     WELL DONE!=You have made the grade...=PLEASE ENTER YOUR NAME.~FF~}#154#151
+BONO HÁBIL  
+BONO SECRETO
+BONO DÉBIL  
+BONO ESCASO 
+BONO SUERTE 
+BONO MÁGICO 
+BONO GENIAL 
+     MUY BIEN! =Has logrado marcar...     =INTRODUCE TU NOMBRE.   ~FF~#151
+|431

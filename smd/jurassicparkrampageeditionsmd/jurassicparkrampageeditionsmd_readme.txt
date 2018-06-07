@@ -1,0 +1,47 @@
+Jurassic Park - Rampage Edition
+Traducción al Español v1.0 (25/05/2018)
+(C) 2018 Wave Translations
+
+---
+TdC
+---
+
+1. Sobre Jurassic Park - Rampage Edition
+2. Notas del Proyecto
+3. Fallos Conocidos (o: Bugs que no son bugs)
+4. Instrucciones de Parcheo
+5. Créditos del Parche
+
+-----------------
+1. Sobre Jurassic Park - Rampage Edition
+-----------------
+Segunda parte del plataformas de Jurassic Park de Mega Drive.
+
+---------------------
+2. Notas del Proyecto
+---------------------
+Esta traducción y hacking es completamente original.
+
+--------------------------------------------
+3. Fallos Conocidos (o: Bugs que no son bugs)
+--------------------------------------------
+Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
+También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
+
+---------------------------
+4. Instrucciones de Parcheo
+---------------------------
+El parche está en formato IPS, recomiendo usar LunarIPS.
+Archivo utilizado:
+Jurassic Park - Rampage Edition (UE) [!].bin
+2.097.152 bytes
+CRC32: 98b4aa1b
+MD5: 67c489b34827bb4fae2ba93e8d2a919e
+SHA1: 535c78d91f76302a882d69ff40b3d0f030a5b6ae
+
+----------------------
+5. Créditos del Parche
+----------------------
+Wave - Hacking y traducción
+
+-- END OF README --

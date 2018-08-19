@@ -1,0 +1,60 @@
+@000001F1-000001FC-00
+;000001F1{ GAME OVER ~00~}#015#012
+ GAME OVER ~00~#012
+|12
+@00000243-00000253-00
+;00000243{YOU ARE HI-SCORE~00~}#020#017
+TIENES UN RÉCORD~00~#017
+|17
+@00000743-0000074A-00
+;00000743{HUNTER=~00~}#011#008
+CAZADR=~00~#008
+|8
+@00000E78-00000E84-00
+;00000E78{ NEXT ROUND ~00~}#016#013
+ OTRA RONDA ~00~#013
+|13
+@0000148B-00001493-00
+;0000148B{HI-SCORE~00~}#012#009
+MÁXIMO  ~00~#009
+|9
+@0000149D-000014A3-00
+;0000149D{ROUND=~00~}#010#007
+RONDA=~00~#007
+|7
+@00001663-00001963-00
+;00001663{+**_**_*_*_*____*_*_*_*_*__*_*_%(                              )(            PLAY              ](                              )[        SAFARI HUNTING        )[                              )[                              )[      ANIMAL 20-50 POINTS     )[                              ][      FUEL UP   60 POINTS     )[                              ][    NEXT ROUND 400 POINTS     ](                              )(                              ](                              )(     PUSH J-STICK BUTTON      )[                              )[             OR               )(                              ][       PUSH INS-DEL KEY       )[                              ](                              )[               c SEGA 1983    ]+&&$&&$$$$&$&$$$&&$$&$&$$$&$&$&%~00~}#772#769
++**_**_*_*_*____*_*_*_*_*__*_*_%
+(                              )
+(         CÓMO JUGAR A         ]
+[      CAZANDO EN SAFARI       )
+[                              )
+[                              ]
+[ CADA ANIMAL DA 20-50 PUNTOS  )
+(                              ]
+(                              )
+[   RECIBES COMBUSTIBLE CADA   ]
+[          60 PUNTOS           )
+[                              ]
+[                              ]
+( PASAS DE RONDA CONSIGUIENDO  )
+[   400 PUNTOS ATURDIENDO A    )
+( TODOS LOS ANIMALES A LA VEZ  ]
+(                              )
+(                              )
+[     PULSA BOTÓN J-STICK      )
+[              O               )
+[     PULSA TECLA INS-DEL      )
+(                              )
+[               c SEGA 1983    ]
++&&$&&$$$$&$&$$$&&$$&$&$$$&$&$&%
+~00~#769
+|769
+@00001C75-00001C79-00
+;00001C75{SCR:~00~}#008#005
+PUN:~00~#005
+|5
+@00001C80-00001C87-00
+;00001C80{cSEGA83~00~}#011#008
+cSEGA83~00~#008
+|8

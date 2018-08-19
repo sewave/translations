@@ -1,0 +1,169 @@
+@00000072-000000AF-FF
+;00000000{(C)1991 PROBE   SOFTWARE LTD     BY A.R.LILL  D3-06/03-KBS-001}#062#062
+(C)1991 PROBE   SOFTWARE LTD     DE A.R.LILL  D3-06/03-KBS-001#062
+|62
+@00005C8B-00005C9D-FF
+;00000000{High score~FF~}#014#011
+Mej puntos~FF~#011
+;0000000B{  Score~FF~}#011#008
+ Puntos~FF~#008
+|19
+@00005E5E-00006108-FF
+;00000000{     You didn't reach Clara!    ~FF~}#036#033
+    ¡No alcanzaste a Clara!     ~FF~#033
+;00000021{   Oh no, You have been shot!~FF~}#033#030
+   ¡Oh no, Te han disparado! ~FF~#030
+;0000003F{          Out of time!~FF~}#026#023
+         ¡Sin tiempo! ~FF~#023
+;00000056{       You reached Clara!~FF~}#029#026
+     ¡Alcanzaste a Clara!~FF~#026
+;00000070{   You've beaten Buford's men!~FF~}#034#031
+     ¡Ganaste a los Buford!   ~FF~#031
+;0000008F{        You've succeeded!~FF~}#029#026
+       ¡Has tenido éxito!~FF~#026
+;000000A9{~0D~~5F~~60~~5F~~A0~~5F~      The Buckboard's out of~FF~}#056#035
+~0D~~5F~~60~~5F~~A0~~5F~
+        ¡La diligencia se   ~FF~#035
+;000000CC{             control,~FF~}#025#022
+          descontroló~FF~#022
+;000000E2{   It's Heading for the ravine!~FF~}#035#032
+    y se dirige al barranco!   ~FF~#032
+;00000102{  I'm getting a bit saddlesore,~FF~}#035#032
+    Me está dando hormigueo,   ~FF~#032
+;00000122{   but it's worth another try.~FF~}#034#031
+    pero merece otro intento. ~FF~#031
+;00000141{~FF~}#004#001
+~FF~#001
+;00000142{    Forget it Doc, I'll do it.~FF~}#034#031
+    Olvídalo Doc, yo lo haré. ~FF~#031
+;00000161{     No, no I'll try again!~FF~}#031#028
+     ¡No, no, lo haré yo!  ~FF~#028
+;0000017D{~FF~}#004#001
+~FF~#001
+;0000017E{ ~60~Y~60~~E2~~5F~~FF~}#022#007
+ ~60~Y~60~~E2~~5F~~FF~#007
+;00000185{  Are you sure that nice Mr. Doc~FF~}#036#033
+    ¿Estás seguro de que Doc    ~FF~#033
+;000001A6{       is paying for these?~FF~}#031#028
+        pagará todo esto?  ~FF~#028
+;000001C2{~FF~}#004#001
+~FF~#001
+;000001C3{   Sure, and have another piece~FF~}#035#032
+     Claro, tome otro trozo    ~FF~#032
+;000001E3{          Mr. Eastwood.~FF~}#027#024
+          Sr. Eastwood.~FF~#024
+;000001FB{~FF~}#004#001
+~FF~#001
+;000001FC{   I haven't got many more left,~FF~}#036#033
+  ¡Ya no me queda ninguna más,  ~FF~#033
+;0000021D{             sir!~FF~}#021#018
+              Sr!~FF~#018
+;0000022F{~93~~60~~AF~~60~~E9~~60~~FF~}#028#007
+~93~~60~~AF~~60~~E9~~60~~FF~#007
+;00000236{          Let's go Marty!~FF~}#029#026
+         ¡Vamos ya Marty!~FF~#026
+;00000250{~FF~}#004#001
+~FF~#001
+;00000251{~FF~}#004#001
+~FF~#001
+;00000252{           C'mon marty!~FF~}#027#024
+          ¡Vamos marty!~FF~#024
+;0000026A{  we've got to finish this game!~FF~}#036#033
+ ¡Tenemos que acabar este juego!~FF~#033
+;0000028B{~FF~}#004#001
+~FF~#001
+;0000028C{    Let's find the buffet car!~FF~}#034#031
+   ¡Hallemos el vagón buffet! ~FF~#031
+|683
+@0000610A-000063A1-FF
+;00000000{ Back to the Future Part III TM~FF~}#035#032
+ Regreso al Futuro Parte III TM~FF~#032
+;00000020{         Image works TM~FF~}#027#024
+         Image works TM~FF~#024
+;00000038{     Arena Entertainment TM~FF~}#031#028
+     Arena Entertainment TM~FF~#028
+;00000054{ Copyright MIRRORSOFT Ltd. 1991~FF~}#035#032
+ Copyright MIRRORSOFT Ltd. 1991~FF~#032
+;00000074{     Image Works is a brand~FF~}#031#028
+      Image Works es marca ~FF~#028
+;00000090{     name of Mirrorsoft Ltd.~FF~}#032#029
+       de Mirrorsoft Ltd.   ~FF~#029
+;000000AD{    Arena Entertainment is a~FF~}#032#029
+     Arena Entertainment es ~FF~#029
+;000000CA{ brand name  of Mirrorsoft Ltd.~FF~}#035#032
+  una marca de Mirrorsoft Ltd. ~FF~#032
+;000000EA{Licenced by~FF~}#015#012
+ Licencia  ~FF~#012
+;000000F6{Sega Enterprises Ltd.~FF~}#025#022
+Sega Enterprises Ltd.~FF~#022
+;0000010C{Presents~FF~}#012#009
+Presenta~FF~#009
+;00000115{A~FF~}#005#002
+ ~FF~#002
+;00000117{Production of~FF~}#017#014
+Producción de~FF~#014
+;00000125{~FF~}#004#001
+~FF~#001
+;00000126{  Produced by Probe Software Ltd.~FF~}#037#034
+ Producción Probe Software Ltd.  ~FF~#034
+;00000148{~FF~}#004#001
+~FF~#001
+;00000149{  Programming by Keith Burkhill~FF~}#035#032
+   Programación Keith Burkhill ~FF~#032
+;00000169{   Graphics by Hugh Riley and~FF~}#033#030
+    Gráficos de Hugh Riley y ~FF~#030
+;00000187{    Mark (Northampton) Jones~FF~}#032#029
+    Mark (Northampton) Jones~FF~#029
+;000001A4{            Music by~FF~}#024#021
+             Música ~FF~#021
+;000001B9{     Marvellous Matt Furniss~FF~}#032#029
+     Marvellous Matt Furniss~FF~#029
+;000001D6{    for Krisalis Software Ltd.~FF~}#034#031
+   para Krisalis Software Ltd.~FF~#031
+;000001F5{  Design by Probe Software Ltd.~FF~}#035#032
+  Diseño de Probe Software Ltd.~FF~#032
+;00000215{   Production by Jo Bonar and~FF~}#033#030
+    Producción de Jo Bonar y ~FF~#030
+;00000233{           Neil Young~FF~}#025#022
+           Neil Young~FF~#022
+;00000249{~FF~}#004#001
+~FF~#001
+;0000024A{ Copyright UCS and  Amblin 1991~FF~}#035#032
+   Copyright UCS y Amblin 1991 ~FF~#032
+;0000026A{      All rights reserved~FF~}#029#026
+      Derechos reservados~FF~#026
+;00000284{Press START to play~FF~}#023#020
+  START para jugar ~FF~#020
+|664
+@0002467F-000246AD-FF
+;00000000{          AaaRGh!~FF~}#021#018
+         ¡AaaRGh!~FF~#018
+;00000012{ I wish I was  Mary Poppins!~FF~}#032#029
+¡Desearía ser  Mary Poppins!~FF~#029
+|47
+@00024A41-00024A48-FF
+;00000000{Phew!!!~FF~}#011#008
+¡¡Fiu!!~FF~#008
+|8
+@00029E1F-00029E91-FF
+;00000000{You threw 10 plates and hit~FF~}#031#028
+Tiraste 10 placas y diste a~FF~#028
+;0000001C{Buford's men ~FF~}#017#014
+los H.Buford ~FF~#014
+;0000002A{times~FF~}#009#006
+veces~FF~#006
+;00000030{Well done!~FF~}#014#011
+¡Muy bien!~FF~#011
+;0000003B{Press fire to continue, or~FF~}#030#027
+Pulsa fuego para seguir, o~FF~#027
+;00000056{Q to quit~FF~}#013#010
+Q salir  ~FF~#010
+;00000060{Not very w~FF~}#014#011
+No muy   w~FF~#011
+;0000006B{Not bad~FF~}#011#008
+No mal ~FF~#008
+|115
+@0002E128-0002E265-FF
+;00000000{Well Done! You've Succeded in your task and helped Marty save Doc and get BACK TO THE FUTURE           Your future hasn't been written yet...          ...No one's has. It's whatever you make it...                So make it a good one.                     All of you...                              ~81~                  ~FF~}#324#318
+¡Bien Hecho! Tuviste Éxito en tu tarea y ayudaste a Marty a salvar a Doc y VOLVISTE AL FUTURO          Tu futuro aún no ha sido escrito...             ...El de nadie. Es lo que tu hagas de él...                  Así que haz uno bueno.                     Todos vosotros...                          ~81~                  ~FF~#318
+|318

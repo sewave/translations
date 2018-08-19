@@ -1,0 +1,20 @@
+@000001F1-000001FF-FF
+;000001F1{ GAME OVER ~00~**~C0~}#021#015
+ GAME OVER ~00~**~C0~#015
+|15
+@00000743-0000074C-FF
+;00000743{HUNTER=~00~:~13~}#016#010
+HUNTER=~00~:~13~#010
+|10
+@00000E78-00000E88-FF
+;00000E78{ NEXT ROUND ~00~~06~~03~~CD~~C3~}#032#017
+ NEXT ROUND ~00~~06~~03~~CD~~C3~#017
+|17
+@0000149D-000014A7-FF
+;0000149D{ROUND=~00~~CD~~C6~~03~~CD~}#026#011
+ROUND=~00~~CD~~C6~~03~~CD~#011
+|11
+@00001663-00001967-FF
+;00001663{.,,-,,-,-,-,----,-,-,-,-,--,-,-/+                              (+            PLAY              )+                              (*        SAFARI HUNTING        (*                              (*                              (*      ANIMAL 20<50 POINTS     (*                              )*      FUEL UP   60 POINTS     (*                              )*    NEXT ROUND 400 POINTS     )+                              (+                              )+                              (+     PUSH J<STICK BUTTON      (*                              (*             OR               (+                              )*       PUSH INS<DEL KEY       (*                              )+                              (*               ~3B~ SEGA 1983    ).%%&%%&&&&%&%&&&%%&&%&%&&&%&%&%/~00~~C9~~CD~~D8~~15~}#791#773
+.,,-,,-,-,-,----,-,-,-,-,--,-,-/+                              (+            PLAY              )+                              (*        SAFARI HUNTING        (*                              (*                              (*      ANIMAL 20<50 POINTS     (*                              )*      FUEL UP   60 POINTS     (*                              )*    NEXT ROUND 400 POINTS     )+                              (+                              )+                              (+     PUSH J<STICK BUTTON      (*                              (*             OR               (+                              )*       PUSH INS<DEL KEY       (*                              )+                              (*               ~3B~ SEGA 1983    ).%%&%%&&&&%&%&&&%%&&%&%&&&%&%&%/~00~~C9~~CD~~D8~~15~#773
+|773

@@ -1,0 +1,40 @@
+@0000004C-0000005A-FF
+;0000004C{     PAUSE~00~~00~~00~~00~~00~}#030#015
+     PAUSE~00~~00~~00~~00~~00~#015
+|15
+@0000077C-0000078A-FF
+;0000077C{GAME OVER:~05~~C0~~FE~~02~~C2~}#030#015
+GAME OVER:~05~~C0~~FE~~02~~C2~#015
+|15
+@000007EC-00000810-FF
+;000007EC{xL3~F7~~7E~~D3~~BE~zg~F9~dw~F3~~C9~PLAYER CHANGE~AF~2r~C0~~E7~xr~C0~4~7E~}#073#037
+xL3~F7~~7E~~D3~~BE~zg~F9~dw~F3~~C9~PLAYER CHANGE~AF~2r~C0~~E7~xr~C0~4~7E~#037
+|37
+@00000C34-00000C57-FF
+;00000C34{PUSH START BUTTONREADYSTAGE :~05~~C0~~A7~~C8~:e~C0~}#051#036
+PUSH START BUTTONREADYSTAGE :~05~~C0~~A7~~C8~:e~C0~#036
+|36
+@000037FF-0000382E-FF
+;000037FF{     1 PLAY START      ~00~                       ~00~}#054#048
+     1 PLAY START      ~00~                       ~00~#048
+|48
+@0000382F-0000388E-FF
+;0000382F{ PUSH 1ST J_STICK BUTTON        OR             ~00~ PUSH INS/DEL KEY      ~00~                       ~00~}#105#096
+ PUSH 1ST J_STICK BUTTON        OR             ~00~ PUSH INS/DEL KEY      ~00~                       ~00~#096
+|96
+@0000388F-000038BE-FF
+;0000388F{     2 PLAY START      ~00~                       ~00~}#054#048
+     2 PLAY START      ~00~                       ~00~#048
+|48
+@000038BF-0000391E-FF
+;000038BF{ PUSH 2ND J_STICK BUTTON        OR             ~00~ PUSH FUNC KEY         ~00~                       ~00~}#105#096
+ PUSH 2ND J_STICK BUTTON        OR             ~00~ PUSH FUNC KEY         ~00~                       ~00~#096
+|96
+@0000391F-0000394E-FF
+;0000391F{ MANUFACTURED & SOLD BY~00~                       ~00~}#054#048
+ MANUFACTURED & SOLD BY~00~                       ~00~#048
+|48
+@0000394F-0000397E-FF
+;0000394F{ SEGA ENTERPRISES LTD. ~00~                       ~00~}#054#048
+ SEGA ENTERPRISES LTD. ~00~                       ~00~#048
+|48

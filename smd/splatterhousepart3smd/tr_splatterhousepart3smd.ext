@@ -1,0 +1,562 @@
+@00002C82-00002D09-00
+;00002C82{PRESS START BUTTON~00~}#022#019
+PULSA BOTÓN START ~00~#019
+;00002C95{~0B~~13~                  ~00~}#030#021
+~0B~~13~                  ~00~#021
+;00002CAA{~11~~13~START~00~}#017#008
+~11~~13~NUEVA~00~#008
+;00002CB2{~11~~14~OPTIONS~00~}#019#010
+~11~~14~OPCIÓN ~00~#010
+;00002CBC{~11~~15~PASSWORD~00~}#020#011
+~11~~15~PASSWORD~00~#011
+;00002CC7{~11~~16~STAGE NO ~00~}#021#012
+~11~~16~ETAPA NO ~00~#012
+;00002CD3{~0E~~17~PLAYER STOCK ~00~}#025#016
+~0E~~17~VIDA JUGADOR ~00~#016
+;00002CE3{~02~~18~^1993 NAMCO LTD\ ALL RIGHTS RESERVED~00~}#048#039
+~02~~18~^1993 NAMCO LTD\ DERECHOS RESERVADOS~00~#039
+|136
+@00004F5A-00005085-00
+;00004F5A{OPTION MENU~00~}#015#012
+MENÚ OPCIÓN~00~#012
+;00004F66{~0B~~08~LEVEL~00~}#017#008
+~0B~~08~NIVEL~00~#008
+;00004F6E{~18~~08~EASY       ~00~}#023#014
+~18~~08~FÁCIL      ~00~#014
+;00004F7C{~18~~08~NORMAL     ~00~}#023#014
+~18~~08~NORMAL     ~00~#014
+;00004F8A{~18~~08~DIFFICULT  ~00~}#023#014
+~18~~08~DIFÍCIL    ~00~#014
+;00004F98{~18~~08~GAME MASTER~00~}#023#014
+~18~~08~GAME MASTER~00~#014
+;00004FA6{~0B~~0A~MUSIC~00~}#017#008
+~0B~~0A~MUSIC~00~#008
+;00004FAE{~0B~~0C~S E ~00~}#016#007
+~0B~~0C~E S ~00~#007
+;00004FB5{~0B~~0E~VOICE~00~}#017#008
+~0B~~0E~VOZ  ~00~#008
+;00004FBD{~0B~~10~CONTROL~00~}#019#010
+~0B~~10~CONTROL~00~#010
+;00004FC7{~18~~10~A POWER UP~00~}#022#013
+~18~~10~A MEJORAR ~00~#013
+;00004FD4{~18~~11~B ATTACK  ~00~}#022#013
+~18~~11~B ATACAR  ~00~#013
+;00004FE1{~18~~12~C JUMP    ~00~}#022#013
+~18~~12~C SALTAR  ~00~#013
+;00004FEE{~18~~10~A ATTACK  ~00~}#022#013
+~18~~10~A ATACAR  ~00~#013
+;00004FFB{~18~~11~B JUMP    ~00~}#022#013
+~18~~11~B SALTAR  ~00~#013
+;00005008{~18~~12~C POWER UP~00~}#022#013
+~18~~12~C MEJORAR ~00~#013
+;00005015{~0B~~12~OBJ TEST~00~}#020#011
+~0B~~12~TEST OBJ~00~#011
+;00005020{~0B~~14~PLAYER TEST~00~}#023#014
+~0B~~14~TEST JUGADR~00~#014
+;0000502E{~0B~~16~EXIT~00~}#016#007
+~0B~~16~SALE~00~#007
+;00005035{~0B~~14~EXIT~00~}#016#007
+~0B~~14~SALE~00~#007
+;0000503C{~10~~05~PASSWORD~00~}#020#011
+~10~~05~PASSWORD~00~#011
+;00005047{~07~~10~A B C D E F G H I J K L M~00~}#037#028
+~07~~10~A B C D E F G H I J K L M~00~#028
+;00005063{~07~~12~N O P Q R S T U V W X Y Z~00~}#037#028
+~07~~12~N O P Q R S T U V W X Y Z~00~#028
+;0000507F{~1D~~14~EXIT~00~}#016#007
+~1D~~14~SALE~00~#007
+|300
+@0000562E-0000566F-00
+;0000562E{   OBJ TEST   ~00~}#018#015
+ TEST OBJETOS ~00~#015
+;0000563D{~02~~15~TRANSFER NO~00~}#023#014
+~02~~15~NO TRANSFER~00~#014
+;0000564B{~02~~16~PALETTE BLOCK NO~00~}#028#019
+~02~~16~NO BLOQUE PALETA~00~#019
+;0000565E{~02~~17~PATTERN NO~00~}#022#013
+~02~~17~NO PATRÓN ~00~#013
+;0000566B{~02~~18~OK~00~}#014#005
+~02~~18~OK~00~#005
+|66
+@00005990-000059A0-00
+;00005990{PLAYER TEST~00~}#015#012
+TEST JUGADR~00~#012
+;0000599C{~0C~~16~NO~00~}#014#005
+~0C~~16~NO~00~#005
+|17
+@00006428-0000643A-00
+;00006428{GAME OVER~00~}#013#010
+GAME OVER~00~#010
+;00006432{~0B~~0B~RETRY?~00~}#018#009
+~0B~~0B~OTRA? ~00~#009
+|19
+@00006446-00006449-00
+;00006446{YES~00~}#007#004
+SÍ ~00~#004
+|4
+@00006452-00006454-00
+;00006452{NO~00~}#006#003
+NO~00~#003
+|3
+@0000645C-00006464-00
+;0000645C{PASSWORD~00~}#012#009
+PASSWORD~00~#009
+|9
+@0000698C-0000699B-00
+;0000698C{TO BE CONTINUE ~00~}#019#016
+  CONTINUARÁ   ~00~#016
+|16
+@00006C6B-00006F95-00
+;00006C6B{Splatter House Part 3~00~}#025#022
+Splatter House Parte3~00~#022
+;00006C81{~02~Directed and Creature Designed by~00~}#041#035
+~02~ Dirección y Diseño de Criaturas ~00~#035
+;00006CA4{~0D~Naga! Yama!~00~}#019#013
+~0D~Naga! Yama!~00~#013
+;00006CB1{~0B~Programmed by~00~}#021#015
+~0B~Programación ~00~#015
+;00006CC0{~0C~Pori2 Oohori~00~}#020#014
+~0C~Pori2 Oohori~00~#014
+;00006CCE{~03~Game Designed and Produced by~00~}#037#031
+~03~Diseño de Juego y Producción ~00~#031
+;00006CED{~08~Sammy Shimotsuma~00~}#024#018
+~08~Sammy Shimotsuma~00~#018
+;00006CFF{~09~Associate Producer~00~}#026#020
+~09~Productor Asociado~00~#020
+;00006D13{~0B~Papaya Payapaya~00~}#023#017
+~0B~Papaya Payapaya~00~#017
+;00006D24{~09~Character Designer~00~}#026#020
+~09~Diseño Personajes ~00~#020
+;00006D38{~0B~Gyoee! Miyazaki~00~}#023#017
+~0B~Gyoee! Miyazaki~00~#017
+;00006D49{~09~Background Designer~00~}#027#021
+~09~Diseñador de Fondos~00~#021
+;00006D5E{~0F~Daiya.Y~00~}#015#009
+~0F~Daiya.Y~00~#009
+;00006D67{~05~Assistant Graphic Designer~00~}#034#028
+~05~ Ayudante Diseño Gráficos ~00~#028
+;00006D83{~0F~K.327~00~}#013#007
+~0F~K.327~00~#007
+;00006D8A{~0F~Senpuuki~00~}#016#010
+~0F~Senpuuki~00~#010
+;00006D94{~0E~Kunfu Man~00~}#017#011
+~0E~Kunfu Man~00~#011
+;00006D9F{~08~Assistant Programmer~00~}#028#022
+~08~Programador Ayudante~00~#022
+;00006DB5{~11~Hey!~00~}#012#006
+~11~Hey!~00~#006
+;00006DBB{~07~Special Visual Effect~00~}#029#023
+~07~  Efectos Visuales   ~00~#023
+;00006DD2{~11~Oja~00~}#011#005
+~11~Oja~00~#005
+;00006DD7{~11~Yuko~00~}#012#006
+~11~Yuko~00~#006
+;00006DDD{~11~Mokkn~00~}#013#007
+~11~Mokkn~00~#007
+;00006DE4{~03~Composed and Sound Designed by~00~}#038#032
+~03~Compone y Diseño de Sonido por~00~#032
+;00006E04{~0D~Milky Eiko~00~}#018#012
+~0D~Milky Eiko~00~#012
+;00006E10{~0A~Sound Supervisor~00~}#024#018
+~0A~Supervisa Sonido~00~#018
+;00006E22{~10~Kiyoshi~00~}#015#009
+~10~Kiyoshi~00~#009
+;00006E2B{~0D~Voice Maker~00~}#019#013
+~0D~Crea Voces ~00~#013
+;00006E38{~0F~Kawagen~00~}#015#009
+~0F~Kawagen~00~#009
+;00006E41{~11~Gaku~00~}#012#006
+~11~Gaku~00~#006
+;00006E47{~07~Special Make up Artist~00~}#030#024
+~07~Artista de Maquillaje ~00~#024
+;00006E5F{~0C~Sakusaku Koya~00~}#021#015
+~0C~Sakusaku Koya~00~#015
+;00006E6E{~07~Director of Photography~00~}#031#025
+~07~Director de Fotografía ~00~#025
+;00006E87{~0D~Silky No.1~00~}#018#012
+~0D~Silky No.1~00~#012
+;00006E93{~07~Cast of Video Graphics~00~}#030#024
+~07~Elenco Gráficos Video ~00~#024
+;00006EAB{~05~Rick the monster...Phychic~00~}#034#028
+~05~Rick el monstruo...Phychic~00~#028
+;00006EC7{~05~Jennifer.............Pascal~00~}#035#029
+~05~Jennifer.............Pascal~00~#029
+;00006EE4{~05~David...............Mikurin~00~}#035#029
+~05~David...............Mikurin~00~#029
+;00006F01{~05~Rick the human.........Oja~00~}#034#028
+~05~Rick el humano.........Oja~00~#028
+;00006F1D{~0C~Special Thanks~00~}#022#016
+~0C~Muchas Gracias~00~#016
+;00006F2D{~10~Funanin~00~}#015#009
+~10~Funanin~00~#009
+;00006F36{~0D~Union Bikers~00~}#020#014
+~0D~Union Bikers~00~#014
+;00006F44{~10~Ms.Kanai~00~}#016#010
+~10~SraKanai~00~#010
+;00006F4E{~0D~Presented by~00~}#020#014
+~0D~  Presenta  ~00~#014
+;00006F5C{~10~Namcot~00~}#014#008
+~10~Namcot~00~#008
+;00006F64{~0F~The End~00~}#015#009
+~0F~  Fin  ~00~#009
+;00006F6D{                                        ~00~}#044#041
+                                        ~00~#041
+|811
+@00006F96-000070BA-00
+;00006F96{Thanks!!~00~}#012#009
+Gracias!~00~#009
+;00006F9F{Congratulations!!~00~}#021#018
+  Felicidades!!  ~00~#018
+;00006FB1{Yes!! By beating this setting you've~00~}#040#037
+ Sí!! Venciendo en esta dificultad  ~00~#037
+;00006FD6{shown yourself a cut above~00~}#030#027
+te mostraste superior a la~00~#027
+;00006FF1{the majority of gamers,~00~}#027#024
+ mayoría de jugadores, ~00~#024
+;00007009{but are you up~00~}#018#015
+ pero podrás  ~00~#015
+;00007018{to the Game Master level?~00~}#029#026
+  con el nivel Maestro?  ~00~#026
+;00007032{Congratulations!!~00~}#021#018
+  Felicidades!!  ~00~#018
+;00007044{There is no stopping you!!~00~}#030#027
+    Nada te detiene!!     ~00~#027
+;0000705F{Welcome~00~}#011#008
+Llegas ~00~#008
+;00007067{to the elite league of players.~00~}#035#032
+ a la élite de los jugadores.  ~00~#032
+;00007087{Our games are made for you,~00~}#031#028
+Nuestros juegos son para ti~00~#028
+;000070A3{Game Master.~00~}#016#013
+  Maestro.  ~00~#013
+;000070B0{Rep'em up!~00~}#014#011
+Rómpelos! ~00~#011
+|293
+@00008A4C-00008E5E-00
+;00008A4C{Jennifer cowers in hinding~00~}#030#027
+Jennifer se encoge oculta ~00~#027
+;00008A67{      and escapes from the monsters.~00~}#040#037
+      y escapa de los monstruos.    ~00~#037
+;00008A8C{Jennifer smells of rot .....~00~}#032#029
+Jennifer huele a podrido ...~00~#029
+;00008AA9{                   .....of the grave.~00~}#041#038
+                   .....de la tumba. ~00~#038
+;00008ACF{Jennifer:\.....!!\~00~}#022#019
+Jennifer:\.....!!\~00~#019
+;00008AE2{The monster emits a foul smell~00~}#034#031
+El monstruo huele nauseabundo ~00~#031
+;00008B01{       and moves closer to Jennifer.~00~}#040#037
+        y se acerca más a Jennifer. ~00~#037
+;00008B26{Jennifer is destroyed~00~}#025#022
+Jennifer es destruida~00~#022
+;00008B3C{                   by the foul beast.~00~}#041#038
+                     por la bestia.  ~00~#038
+;00008B62{Rick:\Jennifer!\~00~}#020#017
+Rick:\Jennifer!\~00~#017
+;00008B73{Jennifer:\Rick.....\~00~}#024#021
+Jennifer:\Rick.....\~00~#021
+;00008B88{Jennifer:\David made it to the~00~}#034#031
+Jennifer:\David llegó a la 3ra~00~#031
+;00008BA7{           3rd floor. Help him.\~00~}#036#033
+           planta. Ayúdale.\    ~00~#033
+;00008BC8{Jennifer leaves the room~00~}#028#025
+Jennifer deja la sala y ~00~#025
+;00008BE1{    and Rick heads to the 3rd floor.~00~}#040#037
+    Rick se dirige a la 3ra planta. ~00~#037
+;00008C06{Rick:\Huh....What's this?\~00~}#030#027
+Rick:\Eh... Qué es esto?\ ~00~#027
+;00008C21{Mask:\It's a Boreworm.~00~}#026#023
+Máscara:\Es un Gusano.~00~#023
+;00008C38{       TheMalvado puts them~00~}#031#028
+       ElMaligno los pone  ~00~#028
+;00008C54{       in the bodies of his victims.\~00~}#041#038
+       en el cuerpo de sus víctimas.\~00~#038
+;00008C7A{Mask:\They devour them from~00~}#031#028
+Máscara:\Les devoran desde ~00~#028
+;00008C96{       the inside and turn them into~00~}#040#037
+       el interior y les vuelven    ~00~#037
+;00008CBB{       mindless monsters.\~00~}#030#027
+       monstruos locos.\  ~00~#027
+;00008CD6{Mask:\You have to destroy the Giant~00~}#039#036
+Máscara:\Destruye al Gusano Gigante~00~#036
+;00008CFA{       Boreworm to stop it.\~00~}#032#029
+       para pararle.\       ~00~#029
+;00008D17{Rick filled with rage,~00~}#026#023
+Rick lleno de rabia,  ~00~#023
+;00008D2E{            ascends to the 2nd floor.~00~}#041#038
+            asciende a la 2da planta.~00~#038
+;00008D54{Rick stands in front of~00~}#027#024
+Rick está delante del  ~00~#024
+;00008D6C{             Jennifers lifeless body.~00~}#041#038
+             cuerpo de Jennifer.     ~00~#038
+;00008D92{Mask:\He's killed her!~00~}#026#023
+Máscara:\La ha matado!~00~#023
+;00008DA9{       Use your rage against him!!\~00~}#039#036
+       Usa tu rabia contra él!!\   ~00~#036
+;00008DCD{Rick climbs the stairs to the 2nd~00~}#037#034
+Rick sube las escaleras a la 2da ~00~#034
+;00008DEF{ floor. The rage growing in him~00~}#035#032
+ planta. Su rabia crece con    ~00~#032
+;00008E0F{ with each step.~00~}#020#017
+ cada paso.     ~00~#017
+;00008E20{The Boreworm in Jennifer moves~00~}#034#031
+El Gusano de Jennifer se mueve~00~#031
+;00008E3F{ under her skin sending ghastly~00~}#035#032
+ bajo su piel enviando ondas   ~00~#032
+|1043
+@00008E5F-00009262-00
+;00008E5F{ waves across her flesh.~00~}#028#025
+ pálidas por su carne.  ~00~#025
+;00008E78{It begins to devour her.~00~}#028#025
+Comienza a devorarla.   ~00~#025
+;00008E91{The worm grows.~00~}#019#016
+El gusano crece~00~#016
+;00008EA1{It feasts on her organs.~00~}#028#025
+Se come sus órganos.    ~00~#025
+;00008EBA{The worm gorges~00~}#019#016
+El gusano ataca~00~#016
+;00008ECA{             on Jennifer's brain.~00~}#037#034
+          el cerebro de Jennifer.~00~#034
+;00008EEC{It squirms bloated in her skull.~00~}#036#033
+Se retuerce dentro de su cabeza.~00~#033
+;00008F0D{You didn't save her in time.~00~}#032#029
+No la salvaste a tiempo.    ~00~#029
+;00008F2A{Jennifer has become~00~}#023#020
+Jennifer se volvió ~00~#020
+;00008F3E{                  a mindless beast.~00~}#039#036
+                una bestia salvaje.~00~#036
+;00008F62{Deformed by the Boreworm even~00~}#033#030
+Deformada por el Gusano ni   ~00~#030
+;00008F80{   Rick couldn't recognize her now.~00~}#039#036
+   Rick podría reconocerla ahora.  ~00~#036
+;00008FA4{She is changed.....forever.~00~}#031#028
+Cambió... para siempre.    ~00~#028
+;00008FC0{Malvado:\Rick.....You will suffer~00~}#037#034
+Maligno:\Rick.....Sufrirás       ~00~#034
+;00008FE2{            .....you will die! Just~00~}#039#036
+            .....morirás! Como tu  ~00~#036
+;00009006{            like your preclous wife.\~00~}#041#038
+            preciosa mujer.\         ~00~#038
+;0000902C{Mask:\Rick,Ignore it!~00~}#025#022
+Más.:\Rick, Ignórale!~00~#022
+;00009042{       The Evil One is using~00~}#032#029
+      El Malvado usa su     ~00~#029
+;0000905F{       telepathy to stop you.\~00~}#034#031
+      telepatía para pararte.\~00~#031
+;0000907E{Malvado:\You are weak.you have~00~}#034#031
+Malvado:\Eres débil. No tienes~00~#031
+;0000909D{            not the power to defeat~00~}#039#036
+           el poder para vencerme.\~00~#036
+;000090C1{            me.\~00~}#020#017
+                ~00~#017
+;000090D2{Malvado:\You can not win.\~00~}#030#027
+Malvado:\No puedes ganar.\~00~#027
+;000090ED{Malvado:\You belong in the Abyss~00~}#036#033
+Malvado:\Perteneces al Abismo y ~00~#033
+;0000910E{             and I will send you~00~}#036#033
+             te enviaré allí.\  ~00~#033
+;0000912F{             there.\~00~}#024#021
+                    ~00~#021
+;00009144{The Boreworm has stopped feasting~00~}#037#034
+El Gusano ha dejado de comerse la~00~#034
+;00009166{ on Jennifers flesh.~00~}#024#021
+carne de Jennifer.  ~00~#021
+;0000917B{Rick:\That voice.....\~00~}#026#023
+Rick:\Esa voz...\     ~00~#023
+;00009192{Rick:\Davids!!~00~}#018#015
+Rick:\David!!!~00~#015
+;000091A1{       They must have grabbed him~00~}#037#034
+       Deben haberle traído...   ~00~#034
+;000091C3{        here .....but why!\~00~}#031#028
+        Pero por qué!\     ~00~#028
+;000091DF{Mask:\He is the key~00~}#023#020
+Másc.:\Es la llave ~00~#020
+;000091F3{        to the Dark Stone.\~00~}#031#028
+       a la Piedra Oscura.\~00~#028
+;0000920F{Rick:\Dark Stone?\~00~}#022#019
+Rick:\Piedra?\    ~00~#019
+;00009222{Mask:\The Elders placed in that~00~}#035#032
+Más.:\Los ancianos pusieron la ~00~#032
+;00009242{        stone the Black Magic of~00~}#036#033
+        Magia Negra del mundo en~00~#033
+|1028
+@00009263-00009677-00
+;00009263{        the world.\~00~}#023#020
+        ella.\     ~00~#020
+;00009277{Mask:\If the Dark Stone is freed~00~}#036#033
+Más.:\Si la Piedra Oscura es    ~00~#033
+;00009298{        those horrors would once~00~}#036#033
+        liberada esos horrores  ~00~#033
+;000092B9{        again plague the world.\~00~}#036#033
+        plagarán el mundo.\     ~00~#033
+;000092DA{Mask:\David is his key.\~00~}#028#025
+Más.:\David es su llave\~00~#025
+;000092F3{Mask:\A child with psychic powers~00~}#037#034
+Más.:\Un niño psíquico debe      ~00~#034
+;00009315{        must be used in a ritual~00~}#036#033
+        usarse en un ritual bajo~00~#033
+;00009336{        under the full moon.\~00~}#033#030
+        la luna llena.\      ~00~#030
+;00009354{Mask:\David it that child.\~00~}#031#028
+Más.:\David es ese niño.\  ~00~#028
+;00009370{Rick:\David.....I'm coming!\~00~}#032#029
+Rick:\David.....Ya voy!\    ~00~#029
+;0000938D{Rick descends into the basement.~00~}#036#033
+Rick desciende al sótano.       ~00~#033
+;000093AE{Mask:\She's gone.~00~}#021#018
+Más.:\Se ha ido. ~00~#018
+;000093C0{       You didn't make it in time.\~00~}#039#036
+       No llegaste a tiempo.\      ~00~#036
+;000093E4{Rick:\Jennifer.....\~00~}#024#021
+Rick:\Jennifer.....\~00~#021
+;000093F9{Mask:\He is Evil.~00~}#021#018
+Más.:\Es malvado.~00~#018
+;0000940B{       Remember your  wife.\~00~}#032#029
+       Recuerda a tu mujer.\~00~#029
+;00009428{Mask:\Focus your pain and anger.~00~}#036#033
+Más.:\Focaliza tu dolor y rabia.~00~#033
+;00009449{       Use that power to defeat him.\~00~}#041#038
+       Usa ese poder para vencerle.\ ~00~#038
+;0000946F{Rick:\That voice.....\~00~}#026#023
+Rick:\Esa voz...\     ~00~#023
+;00009486{Rick:\David!....I'm coming!\~00~}#032#029
+Rick:\David!....Ya voy!\    ~00~#029
+;000094A3{Rick follows the voice to the 3rd~00~}#037#034
+Rick sigue la voz a la 3a planta.~00~#034
+;000094C5{ floor.~00~}#011#008
+       ~00~#008
+;000094CD{David escaped from the monsters to~00~}#038#035
+David escapó de los monstruos a su~00~#035
+;000094F0{ his room.~00~}#014#011
+ cuarto.  ~00~#011
+;000094FB{As David plays in his room~00~}#030#027
+Mientras David juega en su~00~#027
+;00009516{ a monsters hand appears behind him...~00~}#042#039
+ cuarto aparece una mano por detrás...~00~#039
+;0000953D{David's room is empty.~00~}#026#023
+No hay nadie dentro.  ~00~#023
+;00009554{Where is he?~00~}#016#013
+Dónde está? ~00~#013
+;00009561{             .....??~00~}#024#021
+             .....??~00~#021
+;00009576{Rick:\Where is the real David?\~00~}#035#032
+Rick:\Dónde está David?\       ~00~#032
+;00009596{Rick:\SoDavid was..that voice?\~00~}#035#032
+Rick:\David era... Esa voz?\   ~00~#032
+;000095B6{Rick:\That voice....David....They~00~}#037#034
+Rick:\Esa voz... David... Le han ~00~#034
+;000095D8{        took him from this room!~00~}#036#033
+        sacado de este cuarto!  ~00~#033
+;000095F9{       I'm going to get him.\~00~}#033#030
+       Voy a ir a por él.\   ~00~#030
+;00009617{Rick goes to the basement.~00~}#030#027
+Rick va al sótano.        ~00~#027
+;00009632{EvilOne:\When the moon is covered~00~}#037#034
+Malvado:\Cuando la luna esté     ~00~#034
+;00009654{           by the black cloudI will~00~}#039#036
+           tapada por la nube negra~00~#036
+|1045
+@00009678-00009A8A-00
+;00009678{           free the Dark Stone.....\~00~}#040#037
+           liberaré la Piedra...\   ~00~#037
+;0000969D{EvilOne:\..and unleash its wraith.\~00~}#039#036
+Malvado:\..y desataré su fantasma.\~00~#036
+;000096C1{Malvado:\All the powers that have~00~}#037#034
+Malvado:\Todos los poderes que me~00~#034
+;000096E3{           been taken from me will~00~}#038#035
+           han quitado volverán a ~00~#035
+;00009706{           be returned.\~00~}#028#025
+           mi.\         ~00~#025
+;0000971F{Malvado:\I will rule the earth.\~00~}#036#033
+Malvado:\Gobernaré la tierra.\  ~00~#033
+;00009740{Malvado:\The child....the key....~00~}#037#034
+Malvado:\El niño... la llave...  ~00~#034
+;00009762{           I will free the stone!!\~00~}#039#036
+           Liberaré la piedra!!\   ~00~#036
+;00009786{Malvado:\I will free it!!\~00~}#030#027
+Malvado:\La liberaré!!\   ~00~#027
+;000097A1{Malvado:\You won't stop me.\~00~}#032#029
+Malvado:\No me detendrás.\  ~00~#029
+;000097BE{Rick:\David, you're alright!\~00~}#033#030
+Rick:\David, estás bien!\    ~00~#030
+;000097DC{Mask:\Hurry fool!!~00~}#022#019
+Más.:\Rápido!!    ~00~#019
+;000097EF{       The Evil One is attempting~00~}#037#034
+       El Malvado intenta liberar~00~#034
+;00009811{        to free the Dark Stone!!\~00~}#037#034
+        la Piedra Oscura!!\      ~00~#034
+;00009833{Rick:\David.....I failed you.....\~00~}#038#035
+Rick:\David...  Te he fallado...\ ~00~#035
+;00009856{Malvado:\I will rule!\~00~}#026#023
+Malvado:\Gobernaré!\  ~00~#023
+;0000986D{Malvado:\With the Stone I will~00~}#034#031
+Malvado:\Con la Piedra voy a  ~00~#031
+;0000988C{           rule!!\~00~}#022#019
+          mandar!\~00~#019
+;0000989F{Malvado:\The power... give it me!\~00~}#038#035
+Malvado:\El poder... Dámelo!\     ~00~#035
+;000098C2{Malvado:\.....ha,ha,ha.....\~00~}#032#029
+Malvado:\.....ha,ha,ha.....\~00~#029
+;000098DF{Rick:\It's over.....\~00~}#025#022
+Rick:\Se acabó.....\ ~00~#022
+;000098F5{Mask:\Good job Rick!~00~}#024#021
+Más.:\Muy bien Rick!~00~#021
+;0000990A{      Now I can rule the world.....~00~}#039#036
+      Ahora gobernaré el mundo...  ~00~#036
+;0000992E{      .....ha,ha,ha.....\~00~}#029#026
+      .....ha,ha,ha.....\~00~#026
+;00009948{Rick:\What!\~00~}#016#013
+Rick:\Qué!\ ~00~#013
+;00009955{Mask:\Can't see.....can't hear....~00~}#038#035
+Más.:\No veo... no oigo...        ~00~#035
+;00009978{      I'm dying....!!\~00~}#026#023
+      me muero...!!\  ~00~#023
+;0000998F{The horror of last night battle has~00~}#039#036
+El horror de la última batalla se  ~00~#036
+;000099B3{ vanished.The sky is clear and blue.~00~}#040#037
+ esfumó. El cielo esta claro y azul.~00~#037
+;000099D8{Evil has once again been banished to~00~}#040#037
+El mal ha sido de nuevo desterrado a~00~#037
+;000099FD{ the bowels of the earth.~00~}#029#026
+ las entrañas terrestres.~00~#026
+;00009A17{Rick returns to his family.~00~}#031#028
+Rick vuelve con su familia.~00~#028
+;00009A33{Family:\.........\~00~}#022#019
+Familia:\........\~00~#019
+;00009A46{Mask:\Rick,I can feel the suffering~00~}#039#036
+Máscara:\Rick,siento el sufrimiento~00~#036
+;00009A6A{       of humans. As long as I'm~00~}#036#033
+       humano. Mientras esté    ~00~#033
+|1043
+@00009A8B-00009BFF-00
+;00009A8B{       near people I will continue.\~00~}#040#037
+       cerca de gente continuaré.\  ~00~#037
+;00009AB0{Jennifers exists only in Rick and~00~}#037#034
+Jennifer solo está en la memoria ~00~#034
+;00009AD2{Davids memories.~00~}#020#017
+de Rick y David.~00~#017
+;00009AE3{David:\Daddy,where's Mommy?\~00~}#032#029
+David:\Papi, y Mami?\       ~00~#029
+;00009B00{David is only memory, but Jennifer~00~}#038#035
+David es una memoria,pero Jennifer~00~#035
+;00009B23{ lives on...~00~}#016#013
+ vive...    ~00~#013
+;00009B30{Jennifer:\Rick! Where's David?~00~}#034#031
+Jennifer:\Rick! Y David?      ~00~#031
+;00009B4F{           No....!\~00~}#023#020
+           No....!\~00~#020
+;00009B63{Rick stands alone,~00~}#022#019
+Rick está solo,   ~00~#019
+;00009B76{ the weight of failure hanging heavy~00~}#040#037
+ el peso del fracaso pesa mucho     ~00~#037
+;00009B9B{ upon him.~00~}#014#011
+ sobre él.~00~#011
+;00009BA6{His family are just memories.~00~}#033#030
+Su familia solo son memorias.~00~#030
+;00009BC4{Rick:\Alone. All alone.....\~00~}#032#029
+Rick:\Solo. Todo solo......\~00~#029
+;00009BE1{Rick:\......?\~00~}#018#015
+Rick:\......?\~00~#015
+;00009BF0{Rick:\......!!\~00~}#019#016
+Rick:\......!!\~00~#016
+|373

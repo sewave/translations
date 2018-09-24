@@ -1,0 +1,604 @@
+@000019C4-000019F6-00
+;000019C4{DEVELOPED FOR USE ONLY WITH NTSC~00~}#036#033
+DEVELOPED FOR USE ONLY WITH NTSC~00~#033
+;000019E5{~0D~~0F~GENESIS SYSTEMS~00~}#027#018
+~0D~~0F~GENESIS SYSTEMS~00~#018
+|51
+@00002D52-00002DDF-00
+;00002D52{PRESS START BUTTON~00~}#022#019
+PRESS START BUTTON~00~#019
+;00002D65{~0B~~13~                  ~00~}#030#021
+~0B~~13~                  ~00~#021
+;00002D7A{~11~~13~START~00~}#017#008
+~11~~13~START~00~#008
+;00002D82{~11~~14~OPTIONS~00~}#019#010
+~11~~14~OPTIONS~00~#010
+;00002D8C{~11~~15~PASSWORD~00~}#020#011
+~11~~15~PASSWORD~00~#011
+;00002D97{~11~~16~STAGE NO ~00~}#021#012
+~11~~16~STAGE NO ~00~#012
+;00002DA3{~0E~~17~PLAYER STOCK ~00~}#025#016
+~0E~~17~PLAYER STOCK ~00~#016
+;00002DB3{~0B~~17~TM&^ 1993 NAMCO LTD\~00~}#032#023
+~0B~~17~TM&^ 1993 NAMCO LTD\~00~#023
+;00002DCA{~0B~~18~ALL RIGHTS RESERVED~00~}#031#022
+~0B~~18~ALL RIGHTS RESERVED~00~#022
+|142
+@00005068-00005193-00
+;00005068{OPTION MENU~00~}#015#012
+OPTION MENU~00~#012
+;00005074{~0B~~08~LEVEL~00~}#017#008
+~0B~~08~LEVEL~00~#008
+;0000507C{~18~~08~EASY       ~00~}#023#014
+~18~~08~EASY       ~00~#014
+;0000508A{~18~~08~NORMAL     ~00~}#023#014
+~18~~08~NORMAL     ~00~#014
+;00005098{~18~~08~DIFFICULT  ~00~}#023#014
+~18~~08~DIFFICULT  ~00~#014
+;000050A6{~18~~08~GAME MASTER~00~}#023#014
+~18~~08~GAME MASTER~00~#014
+;000050B4{~0B~~0A~MUSIC~00~}#017#008
+~0B~~0A~MUSIC~00~#008
+;000050BC{~0B~~0C~S E ~00~}#016#007
+~0B~~0C~S E ~00~#007
+;000050C3{~0B~~0E~VOICE~00~}#017#008
+~0B~~0E~VOICE~00~#008
+;000050CB{~0B~~10~CONTROL~00~}#019#010
+~0B~~10~CONTROL~00~#010
+;000050D5{~18~~10~A POWER UP~00~}#022#013
+~18~~10~A POWER UP~00~#013
+;000050E2{~18~~11~B ATTACK  ~00~}#022#013
+~18~~11~B ATTACK  ~00~#013
+;000050EF{~18~~12~C JUMP    ~00~}#022#013
+~18~~12~C JUMP    ~00~#013
+;000050FC{~18~~10~A ATTACK  ~00~}#022#013
+~18~~10~A ATTACK  ~00~#013
+;00005109{~18~~11~B JUMP    ~00~}#022#013
+~18~~11~B JUMP    ~00~#013
+;00005116{~18~~12~C POWER UP~00~}#022#013
+~18~~12~C POWER UP~00~#013
+;00005123{~0B~~12~OBJ TEST~00~}#020#011
+~0B~~12~OBJ TEST~00~#011
+;0000512E{~0B~~14~PLAYER TEST~00~}#023#014
+~0B~~14~PLAYER TEST~00~#014
+;0000513C{~0B~~16~EXIT~00~}#016#007
+~0B~~16~EXIT~00~#007
+;00005143{~0B~~14~EXIT~00~}#016#007
+~0B~~14~EXIT~00~#007
+;0000514A{~10~~05~PASSWORD~00~}#020#011
+~10~~05~PASSWORD~00~#011
+;00005155{~07~~10~A B C D E F G H I J K L M~00~}#037#028
+~07~~10~A B C D E F G H I J K L M~00~#028
+;00005171{~07~~12~N O P Q R S T U V W X Y Z~00~}#037#028
+~07~~12~N O P Q R S T U V W X Y Z~00~#028
+;0000518D{~1D~~14~EXIT~00~}#016#007
+~1D~~14~EXIT~00~#007
+|300
+@0000573C-0000577D-00
+;0000573C{   OBJ TEST   ~00~}#018#015
+   OBJ TEST   ~00~#015
+;0000574B{~02~~15~TRANSFER NO~00~}#023#014
+~02~~15~TRANSFER NO~00~#014
+;00005759{~02~~16~PALETTE BLOCK NO~00~}#028#019
+~02~~16~PALETTE BLOCK NO~00~#019
+;0000576C{~02~~17~PATTERN NO~00~}#022#013
+~02~~17~PATTERN NO~00~#013
+;00005779{~02~~18~OK~00~}#014#005
+~02~~18~OK~00~#005
+|66
+@00005A9E-00005AAE-00
+;00005A9E{PLAYER TEST~00~}#015#012
+PLAYER TEST~00~#012
+;00005AAA{~0C~~16~NO~00~}#014#005
+~0C~~16~NO~00~#005
+|17
+@00006536-00006548-00
+;00006536{GAME OVER~00~}#013#010
+GAME OVER~00~#010
+;00006540{~0B~~0B~RETRY?~00~}#018#009
+~0B~~0B~RETRY?~00~#009
+|19
+@00006554-00006557-00
+;00006554{YES~00~}#007#004
+YES~00~#004
+|4
+@00006560-00006562-00
+;00006560{NO~00~}#006#003
+NO~00~#003
+|3
+@0000656A-00006572-00
+;0000656A{PASSWORD~00~}#012#009
+PASSWORD~00~#009
+|9
+@00006ABA-00006AC9-00
+;00006ABA{TO BE CONTINUE ~00~}#019#016
+TO BE CONTINUE ~00~#016
+|16
+@00006D81-000070B0-00
+;00006D81{Splatter House 3~00~}#020#017
+Splatter House 3~00~#017
+;00006D92{~02~Directed and Creature Designed by~00~}#041#035
+~02~Directed and Creature Designed by~00~#035
+;00006DB5{~0D~Naga! Yama!~00~}#019#013
+~0D~Naga! Yama!~00~#013
+;00006DC2{~0B~Programmed by~00~}#021#015
+~0B~Programmed by~00~#015
+;00006DD1{~0C~Pori2 Oohori~00~}#020#014
+~0C~Pori2 Oohori~00~#014
+;00006DDF{~03~Game Designed and Produced by~00~}#037#031
+~03~Game Designed and Produced by~00~#031
+;00006DFE{~08~Sammy Shimotsuma~00~}#024#018
+~08~Sammy Shimotsuma~00~#018
+;00006E10{~09~Associate Producer~00~}#026#020
+~09~Associate Producer~00~#020
+;00006E24{~0B~Papaya Payapaya~00~}#023#017
+~0B~Papaya Payapaya~00~#017
+;00006E35{~09~Character Designer~00~}#026#020
+~09~Character Designer~00~#020
+;00006E49{~0B~Gyoee! Miyazaki~00~}#023#017
+~0B~Gyoee! Miyazaki~00~#017
+;00006E5A{~09~Background Designer~00~}#027#021
+~09~Background Designer~00~#021
+;00006E6F{~0F~Daiya.Y~00~}#015#009
+~0F~Daiya.Y~00~#009
+;00006E78{~05~Assistant Graphic Designer~00~}#034#028
+~05~Assistant Graphic Designer~00~#028
+;00006E94{~0F~K.327~00~}#013#007
+~0F~K.327~00~#007
+;00006E9B{~0F~Senpuuki~00~}#016#010
+~0F~Senpuuki~00~#010
+;00006EA5{~0E~Kunfu Man~00~}#017#011
+~0E~Kunfu Man~00~#011
+;00006EB0{~08~Assistant Programmer~00~}#028#022
+~08~Assistant Programmer~00~#022
+;00006EC6{~11~Hey!~00~}#012#006
+~11~Hey!~00~#006
+;00006ECC{~07~Special Visual Effect~00~}#029#023
+~07~Special Visual Effect~00~#023
+;00006EE3{~11~Oja~00~}#011#005
+~11~Oja~00~#005
+;00006EE8{~11~Yuko~00~}#012#006
+~11~Yuko~00~#006
+;00006EEE{~11~Mokkn~00~}#013#007
+~11~Mokkn~00~#007
+;00006EF5{~03~Composed and Sound Designed by~00~}#038#032
+~03~Composed and Sound Designed by~00~#032
+;00006F15{~0D~Milky Eiko~00~}#018#012
+~0D~Milky Eiko~00~#012
+;00006F21{~0A~Sound Supervisor~00~}#024#018
+~0A~Sound Supervisor~00~#018
+;00006F33{~10~Kiyoshi~00~}#015#009
+~10~Kiyoshi~00~#009
+;00006F3C{~0D~Voice Maker~00~}#019#013
+~0D~Voice Maker~00~#013
+;00006F49{~0F~Kawagen~00~}#015#009
+~0F~Kawagen~00~#009
+;00006F52{~11~Gaku~00~}#012#006
+~11~Gaku~00~#006
+;00006F58{~07~Special Make up Artist~00~}#030#024
+~07~Special Make up Artist~00~#024
+;00006F70{~0C~Sakusaku Koya~00~}#021#015
+~0C~Sakusaku Koya~00~#015
+;00006F7F{~07~Director of Photography~00~}#031#025
+~07~Director of Photography~00~#025
+;00006F98{~0D~Silky No.1~00~}#018#012
+~0D~Silky No.1~00~#012
+;00006FA4{~07~Cast of Video Graphics~00~}#030#024
+~07~Cast of Video Graphics~00~#024
+;00006FBC{~05~Rick the monster...Phychic~00~}#034#028
+~05~Rick the monster...Phychic~00~#028
+;00006FD8{~05~Jennifer.............Pascal~00~}#035#029
+~05~Jennifer.............Pascal~00~#029
+;00006FF5{~05~David...............Mikurin~00~}#035#029
+~05~David...............Mikurin~00~#029
+;00007012{~05~Rick the human.........Oja~00~}#034#028
+~05~Rick the human.........Oja~00~#028
+;0000702E{~0C~Special Thanks~00~}#022#016
+~0C~Special Thanks~00~#016
+;0000703E{~10~Funanin~00~}#015#009
+~10~Funanin~00~#009
+;00007047{~0D~Union Bikers~00~}#020#014
+~0D~Union Bikers~00~#014
+;00007055{~10~Ms.Kanai~00~}#016#010
+~10~Ms.Kanai~00~#010
+;0000705F{~0D~Presented by~00~}#020#014
+~0D~Presented by~00~#014
+;0000706D{~11~Namco~00~}#013#007
+~11~Namco~00~#007
+;00007074{~0F~The End~00~}#015#009
+~0F~The End~00~#009
+;0000707D{~0E~Ken & Jim~00~}#017#011
+~0E~Ken & Jim~00~#011
+;00007088{                                        ~00~}#044#041
+                                        ~00~#041
+|816
+@000070B1-000071DD-00
+;000070B1{Thanks!!~00~}#012#009
+Thanks!!~00~#009
+;000070BA{Congratulations!!~00~}#021#018
+Congratulations!!~00~#018
+;000070CC{Yes!!~00~}#009#006
+Yes!!~00~#006
+;000070D2{By beating this setting you've~00~}#034#031
+By beating this setting you've~00~#031
+;000070F1{shown yourself to be a cut above~00~}#036#033
+shown yourself to be a cut above~00~#033
+;00007112{the majority of gamers,~00~}#027#024
+the majority of gamers,~00~#024
+;0000712A{Are you up~00~}#014#011
+Are you up~00~#011
+;00007135{to the Game Master level?~00~}#029#026
+to the Game Master level?~00~#026
+;0000714F{KAL~00~}#007#004
+KAL~00~#004
+;00007153{Congratulations!!~00~}#021#018
+Congratulations!!~00~#018
+;00007165{There's no stopping you!!~00~}#029#026
+There's no stopping you!!~00~#026
+;0000717F{Welcome~00~}#011#008
+Welcome~00~#008
+;00007187{to the elite league of players.~00~}#035#032
+to the elite league of players.~00~#032
+;000071A7{Our games are made for you,~00~}#031#028
+Our games are made for you,~00~#028
+;000071C3{Game Master!!!!!~00~}#020#017
+Game Master!!!!!~00~#017
+;000071D4{Rip'em up~00~}#013#010
+Rip'em up~00~#010
+|301
+@00008BAC-00008FB8-00
+;00008BAC{If you wonder aimlessly,~00~}#028#025
+If you wonder aimlessly,~00~#025
+;00008BC5{ you will surely fail in your~00~}#033#030
+ you will surely fail in your~00~#030
+;00008BE3{ quest.~00~}#011#008
+ quest.~00~#008
+;00008BEB{After completing a room,~00~}#028#025
+After completing a room,~00~#025
+;00008C04{ press the start button to reveal~00~}#037#034
+ press the start button to reveal~00~#034
+;00008C26{ a map of the current floor.~00~}#032#029
+ a map of the current floor.~00~#029
+;00008C43{Gather the power stones,~00~}#028#025
+Gather the power stones,~00~#025
+;00008C5C{ and save them for emergencies.~00~}#035#032
+ and save them for emergencies.~00~#032
+;00008C7C{The power of these stones can~00~}#033#030
+The power of these stones can~00~#030
+;00008C9A{ be released with the 'A' button,~00~}#037#034
+ be released with the 'A' button,~00~#034
+;00008CBC{ whence your flesh will~00~}#027#024
+ whence your flesh will~00~#024
+;00008CD4{ expand with a surge of power!~00~}#034#031
+ expand with a surge of power!~00~#031
+;00008CF3{Jennifer cowers in hiding,~00~}#030#027
+Jennifer cowers in hiding,~00~#027
+;00008D0E{  avoiding capture from the monster.~00~}#040#037
+  avoiding capture from the monster.~00~#037
+;00008D33{Jennifer begins to smell~00~}#028#025
+Jennifer begins to smell~00~#025
+;00008D4C{             of rot.....of the grave.~00~}#041#038
+             of rot.....of the grave.~00~#038
+;00008D72{Jennifer:\.....!!\~00~}#022#019
+Jennifer:\.....!!\~00~#019
+;00008D85{The monster emits a foul smell~00~}#034#031
+The monster emits a foul smell~00~#031
+;00008DA4{       and moves closer to Jennifer.~00~}#040#037
+       and moves closer to Jennifer.~00~#037
+;00008DC9{Jennifer is destroyed~00~}#025#022
+Jennifer is destroyed~00~#022
+;00008DDF{                   by the foul beast.~00~}#041#038
+                   by the foul beast.~00~#038
+;00008E05{Rick:\Jennifer!\~00~}#020#017
+Rick:\Jennifer!\~00~#017
+;00008E16{Jennifer:\Rick.....\~00~}#024#021
+Jennifer:\Rick.....\~00~#021
+;00008E2B{Jennifer:\David made it to~00~}#030#027
+Jennifer:\David made it to~00~#027
+;00008E46{          the 3rd floor. Help him.\~00~}#039#036
+          the 3rd floor. Help him.\~00~#036
+;00008E6A{Jennifer leaves the room~00~}#028#025
+Jennifer leaves the room~00~#025
+;00008E83{    and Rick heads to the 3rd floor.~00~}#040#037
+    and Rick heads to the 3rd floor.~00~#037
+;00008EA8{Rick:\Huh....What's this?\~00~}#030#027
+Rick:\Huh....What's this?\~00~#027
+;00008EC3{Mask:\It's a Boreworm.~00~}#026#023
+Mask:\It's a Boreworm.~00~#023
+;00008EDA{       TheEvilOne puts them~00~}#031#028
+       TheEvilOne puts them~00~#028
+;00008EF6{       in the bodies of his victims.\~00~}#041#038
+       in the bodies of his victims.\~00~#038
+;00008F1C{Mask:\They devour them from~00~}#031#028
+Mask:\They devour them from~00~#028
+;00008F38{       the inside and turn them into~00~}#040#037
+       the inside and turn them into~00~#037
+;00008F5D{       mindless monsters.\~00~}#030#027
+       mindless monsters.\~00~#027
+;00008F78{Mask:\You have to destroy the Giant~00~}#039#036
+Mask:\You have to destroy the Giant~00~#036
+;00008F9C{       Boreworm to stop it.\~00~}#032#029
+       Boreworm to stop it.\~00~#029
+|1037
+@00008FB9-000093CB-00
+;00008FB9{Rick filled with rage,~00~}#026#023
+Rick filled with rage,~00~#023
+;00008FD0{            ascends to the 2nd floor.~00~}#041#038
+            ascends to the 2nd floor.~00~#038
+;00008FF6{Rick stands in front of~00~}#027#024
+Rick stands in front of~00~#024
+;0000900E{             Jennifers lifeless body.~00~}#041#038
+             Jennifers lifeless body.~00~#038
+;00009034{Mask:\He's killed her!~00~}#026#023
+Mask:\He's killed her!~00~#023
+;0000904B{       Use your rage against him!!\~00~}#039#036
+       Use your rage against him!!\~00~#036
+;0000906F{Rick climbs the stairs to the 2nd~00~}#037#034
+Rick climbs the stairs to the 2nd~00~#034
+;00009091{ floor.  His rage growing with~00~}#034#031
+ floor.  His rage growing with~00~#031
+;000090B0{ each step.~00~}#015#012
+ each step.~00~#012
+;000090BC{The Boreworm in Jennifer moves~00~}#034#031
+The Boreworm in Jennifer moves~00~#031
+;000090DB{ under her skin sending ghastly~00~}#035#032
+ under her skin sending ghastly~00~#032
+;000090FB{ waves across her flesh.~00~}#028#025
+ waves across her flesh.~00~#025
+;00009114{It begins to devour her.~00~}#028#025
+It begins to devour her.~00~#025
+;0000912D{The worm grows, feasting on her~00~}#035#032
+The worm grows, feasting on her~00~#032
+;0000914D{ organs.~00~}#012#009
+ organs.~00~#009
+;00009156{The worm gorges~00~}#019#016
+The worm gorges~00~#016
+;00009166{             on Jennifer's brain.~00~}#037#034
+             on Jennifer's brain.~00~#034
+;00009188{It squirms bloated in her skull.~00~}#036#033
+It squirms bloated in her skull.~00~#033
+;000091A9{You didn't save her in time.~00~}#032#029
+You didn't save her in time.~00~#029
+;000091C6{Jennifer has become~00~}#023#020
+Jennifer has become~00~#020
+;000091DA{                  a mindless beast.~00~}#039#036
+                  a mindless beast.~00~#036
+;000091FE{Deformed by the Boreworm even~00~}#033#030
+Deformed by the Boreworm even~00~#030
+;0000921C{   Rick couldn't recognize her now.~00~}#039#036
+   Rick couldn't recognize her now.~00~#036
+;00009240{She is changed.....forever.~00~}#031#028
+She is changed.....forever.~00~#028
+;0000925C{EvilOne:\Rick.....You will suffer~00~}#037#034
+EvilOne:\Rick.....You will suffer~00~#034
+;0000927E{            .....you will die! Just~00~}#039#036
+            .....you will die! Just~00~#036
+;000092A2{            like your preclous wife.\~00~}#041#038
+            like your preclous wife.\~00~#038
+;000092C8{Mask:\Rick,Ignore it!~00~}#025#022
+Mask:\Rick,Ignore it!~00~#022
+;000092DE{       The Evil One is using~00~}#032#029
+       The Evil One is using~00~#029
+;000092FB{        telepathy to stop you.\~00~}#035#032
+        telepathy to stop you.\~00~#032
+;0000931B{EvilOne:\You are weak.you have~00~}#034#031
+EvilOne:\You are weak.you have~00~#031
+;0000933A{            not the power to defeat~00~}#039#036
+            not the power to defeat~00~#036
+;0000935E{            me.\~00~}#020#017
+            me.\~00~#017
+;0000936F{EvilOne:\You can not win.\~00~}#030#027
+EvilOne:\You can not win.\~00~#027
+;0000938A{EvilOne:\You belong in the Abyss~00~}#036#033
+EvilOne:\You belong in the Abyss~00~#033
+;000093AB{             and I will send you~00~}#036#033
+             and I will send you~00~#033
+|1043
+@000093CC-000097D8-00
+;000093CC{             there.\~00~}#024#021
+             there.\~00~#021
+;000093E1{The Boreworm has stopped feasting~00~}#037#034
+The Boreworm has stopped feasting~00~#034
+;00009403{ on Jennifers flesh.~00~}#024#021
+ on Jennifers flesh.~00~#021
+;00009418{Rick:\That voice.....\~00~}#026#023
+Rick:\That voice.....\~00~#023
+;0000942F{Rick:\Davids!!~00~}#018#015
+Rick:\Davids!!~00~#015
+;0000943E{       They must have grabbed him~00~}#037#034
+       They must have grabbed him~00~#034
+;00009460{        here .....but why!\~00~}#031#028
+        here .....but why!\~00~#028
+;0000947C{Mask:\He is the key~00~}#023#020
+Mask:\He is the key~00~#020
+;00009490{        to the Dark Stone.\~00~}#031#028
+        to the Dark Stone.\~00~#028
+;000094AC{Rick:\Dark Stone?\~00~}#022#019
+Rick:\Dark Stone?\~00~#019
+;000094BF{Mask:\The Elders placed in that~00~}#035#032
+Mask:\The Elders placed in that~00~#032
+;000094DF{        stone the Black Magic of~00~}#036#033
+        stone the Black Magic of~00~#033
+;00009500{        the world.\~00~}#023#020
+        the world.\~00~#020
+;00009514{Mask:\If the Dark Stone is freed~00~}#036#033
+Mask:\If the Dark Stone is freed~00~#033
+;00009535{        those horrors will once~00~}#035#032
+        those horrors will once~00~#032
+;00009555{        again plague the world.\~00~}#036#033
+        again plague the world.\~00~#033
+;00009576{Mask:\David is his key.\~00~}#028#025
+Mask:\David is his key.\~00~#025
+;0000958F{Mask:\A child with psychic powers~00~}#037#034
+Mask:\A child with psychic powers~00~#034
+;000095B1{        must be used in a ritual~00~}#036#033
+        must be used in a ritual~00~#033
+;000095D2{        under the full moon.\~00~}#033#030
+        under the full moon.\~00~#030
+;000095F0{Mask:\David is that child.\~00~}#031#028
+Mask:\David is that child.\~00~#028
+;0000960C{Rick:\David.....I'm coming!\~00~}#032#029
+Rick:\David.....I'm coming!\~00~#029
+;00009629{Rick descends into the basement.~00~}#036#033
+Rick descends into the basement.~00~#033
+;0000964A{Mask:\She's gone.~00~}#021#018
+Mask:\She's gone.~00~#018
+;0000965C{       You didn't make it in time.\~00~}#039#036
+       You didn't make it in time.\~00~#036
+;00009680{Rick:\Jennifer.....\~00~}#024#021
+Rick:\Jennifer.....\~00~#021
+;00009695{Mask:\He is Evil.~00~}#021#018
+Mask:\He is Evil.~00~#018
+;000096A7{       Remember your  wife.\~00~}#032#029
+       Remember your  wife.\~00~#029
+;000096C4{Mask:\Focus your pain and anger.~00~}#036#033
+Mask:\Focus your pain and anger.~00~#033
+;000096E5{       Use that power to defeat him.\~00~}#041#038
+       Use that power to defeat him.\~00~#038
+;0000970B{Rick:\That voice.....\~00~}#026#023
+Rick:\That voice.....\~00~#023
+;00009722{Rick:\David!....I'm coming!\~00~}#032#029
+Rick:\David!....I'm coming!\~00~#029
+;0000973F{Rick follows the voice to the 3rd~00~}#037#034
+Rick follows the voice to the 3rd~00~#034
+;00009761{ floor.~00~}#011#008
+ floor.~00~#008
+;00009769{David escaped from the monsters to~00~}#038#035
+David escaped from the monsters to~00~#035
+;0000978C{ his room.~00~}#014#011
+ his room.~00~#011
+;00009797{As David plays in his room~00~}#030#027
+As David plays in his room~00~#027
+;000097B2{ a monsters hand appears behind him...~00~}#042#039
+ a monsters hand appears behind him...~00~#039
+|1037
+@000097D9-00009BD9-00
+;000097D9{David's room is empty.~00~}#026#023
+David's room is empty.~00~#023
+;000097F0{Where is he?~00~}#016#013
+Where is he?~00~#013
+;000097FD{             .....??~00~}#024#021
+             .....??~00~#021
+;00009812{Rick:\Where is the real David?\~00~}#035#032
+Rick:\Where is the real David?\~00~#032
+;00009832{Rick:\SoDavid was..that voice?\~00~}#035#032
+Rick:\SoDavid was..that voice?\~00~#032
+;00009852{Rick:\That voice....David....They~00~}#037#034
+Rick:\That voice....David....They~00~#034
+;00009874{        took him from this room!~00~}#036#033
+        took him from this room!~00~#033
+;00009895{       I'm going to get him.\~00~}#033#030
+       I'm going to get him.\~00~#030
+;000098B3{Rick goes to the basement.~00~}#030#027
+Rick goes to the basement.~00~#027
+;000098CE{EvilOne:\When the moon is covered~00~}#037#034
+EvilOne:\When the moon is covered~00~#034
+;000098F0{           by the black cloudI will~00~}#039#036
+           by the black cloudI will~00~#036
+;00009914{           free the Dark Stone.....\~00~}#040#037
+           free the Dark Stone.....\~00~#037
+;00009939{EvilOne:\..and release it's storm.\~00~}#039#036
+EvilOne:\..and release it's storm.\~00~#036
+;0000995D{EvilOne:\All the powers that have~00~}#037#034
+EvilOne:\All the powers that have~00~#034
+;0000997F{           been taken from me will~00~}#038#035
+           been taken from me will~00~#035
+;000099A2{           be returned.\~00~}#028#025
+           be returned.\~00~#025
+;000099BB{EvilOne:\I will rule the earth.\~00~}#036#033
+EvilOne:\I will rule the earth.\~00~#033
+;000099DC{EvilOne:\The child is the key....~00~}#037#034
+EvilOne:\The child is the key....~00~#034
+;000099FE{           I will free the stone!!\~00~}#039#036
+           I will free the stone!!\~00~#036
+;00009A22{EvilOne:\I will free it!!\~00~}#030#027
+EvilOne:\I will free it!!\~00~#027
+;00009A3D{EvilOne:\You won't stop me.\~00~}#032#029
+EvilOne:\You won't stop me.\~00~#029
+;00009A5A{Rick:\David, you're alright!\~00~}#033#030
+Rick:\David, you're alright!\~00~#030
+;00009A78{Mask:\Hurry fool!!~00~}#022#019
+Mask:\Hurry fool!!~00~#019
+;00009A8B{       The Evil One is attempting~00~}#037#034
+       The Evil One is attempting~00~#034
+;00009AAD{        to free the Dark Stone!!\~00~}#037#034
+        to free the Dark Stone!!\~00~#034
+;00009ACF{Rick:\David.....I failed you.....\~00~}#038#035
+Rick:\David.....I failed you.....\~00~#035
+;00009AF2{EvilOne:\I will rule!\~00~}#026#023
+EvilOne:\I will rule!\~00~#023
+;00009B09{EvilOne:\With the Stone I will~00~}#034#031
+EvilOne:\With the Stone I will~00~#031
+;00009B28{           rule!!\~00~}#022#019
+           rule!!\~00~#019
+;00009B3B{EvilOne:\The power...~00~}#025#022
+EvilOne:\The power...~00~#022
+;00009B51{            ...give it to me!\~00~}#034#031
+            ...give it to me!\~00~#031
+;00009B70{EvilOne:\.....ha,ha,ha.....\~00~}#032#029
+EvilOne:\.....ha,ha,ha.....\~00~#029
+;00009B8D{Rick:\It's over.....\~00~}#025#022
+Rick:\It's over.....\~00~#022
+;00009BA3{Mask:\Good job Rick!~00~}#024#021
+Mask:\Good job Rick!~00~#021
+;00009BB8{       Now I can rule the world..~00~}#037#034
+       Now I can rule the world..~00~#034
+|1025
+@00009BDA-00009EC5-00
+;00009BDA{       ....ha,ha,ha....\~00~}#028#025
+       ....ha,ha,ha....\~00~#025
+;00009BF3{Rick:\What!\~00~}#016#013
+Rick:\What!\~00~#013
+;00009C00{Mask:\Can't see....can't hear....~00~}#037#034
+Mask:\Can't see....can't hear....~00~#034
+;00009C22{      I'm dying....!!\~00~}#026#023
+      I'm dying....!!\~00~#023
+;00009C39{The horror of last nights battle has~00~}#040#037
+The horror of last nights battle has~00~#037
+;00009C5E{ vanished. The sky is clear and blue.~00~}#041#038
+ vanished. The sky is clear and blue.~00~#038
+;00009C84{ The evil one has once again been~00~}#037#034
+ The evil one has once again been~00~#034
+;00009CA6{ banished to the bowels of the earth.~00~}#041#038
+ banished to the bowels of the earth.~00~#038
+;00009CCC{Rick returns to his family.~00~}#031#028
+Rick returns to his family.~00~#028
+;00009CE8{Family:\.........\~00~}#022#019
+Family:\.........\~00~#019
+;00009CFB{Mask:\I feed off the suffering of~00~}#037#034
+Mask:\I feed off the suffering of~00~#034
+;00009D1D{       humans. As long as there~00~}#035#032
+       humans. As long as there~00~#032
+;00009D3D{       is human suffering I will~00~}#036#033
+       is human suffering I will~00~#033
+;00009D5E{       continue to exist!\~00~}#030#027
+       continue to exist!\~00~#027
+;00009D79{Jennifers exists only in Rick and~00~}#037#034
+Jennifers exists only in Rick and~00~#034
+;00009D9B{Davids memories.~00~}#020#017
+Davids memories.~00~#017
+;00009DAC{David:\Daddy,where's Mommy?\~00~}#032#029
+David:\Daddy,where's Mommy?\~00~#029
+;00009DC9{David is only memory, but Jennifer~00~}#038#035
+David is only memory, but Jennifer~00~#035
+;00009DEC{ lives on.~00~}#014#011
+ lives on.~00~#011
+;00009DF7{Jennifer:\Rick! Where's David?~00~}#034#031
+Jennifer:\Rick! Where's David?~00~#031
+;00009E16{           No....!\~00~}#023#020
+           No....!\~00~#020
+;00009E2A{Rick stands alone,~00~}#022#019
+Rick stands alone,~00~#019
+;00009E3D{ the weight of failure hanging heavy~00~}#040#037
+ the weight of failure hanging heavy~00~#037
+;00009E62{ upon him.~00~}#014#011
+ upon him.~00~#011
+;00009E6D{His family is just a memory.~00~}#032#029
+His family is just a memory.~00~#029
+;00009E8A{Rick:\Alone. All alone.....\~00~}#032#029
+Rick:\Alone. All alone.....\~00~#029
+;00009EA7{Rick:\......?\~00~}#018#015
+Rick:\......?\~00~#015
+;00009EB6{Rick:\......!!\~00~}#019#016
+Rick:\......!!\~00~#016
+|748

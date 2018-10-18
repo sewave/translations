@@ -1,0 +1,860 @@
+@00000443-00000461-00-0C
+;00000000{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DESARROLLADO PARA USARSE EN~00~#028
+;0000001C{~12~&~00~}#009#003
+~12~Y~00~#003
+|31
+@00000463-000004B1-00-0C
+;00000000{SYSTEMS.~00~}#012#009
+SISTEMA.~00~#009
+;00000009{~0A~JAPANESE MEGA DRIVE~00~}#027#021
+~0A~MEGA DRIVE JAPONESA~00~#021
+;0000001E{~0D~NTSC GENESIS~00~}#020#014
+~0D~GENESIS NTSC~00~#014
+;0000002C{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~MEGA DRIVE PAL Y SECAM FRANCESA~00~#033
+;0000004D{~00~}#004#001
+~00~#001
+;0000004E{~00~}#004#001
+~00~#001
+|79
+@0001749E-000174AE-00-0C
+;00000000{NuLEVEL SELECT~00~}#018#015
+NuELIGE NIVEL ~00~#015
+;0000000F{~00~}#004#001
+~00~#001
+;00000010{~00~}#004#001
+~00~#001
+|17
+@0001758A-00017849-00-0C
+;00000000{JUNGLE 1    ~00~}#016#013
+JUNGLA 1    ~00~#013
+;0000000D{JUNGLE 2    ~00~}#016#013
+JUNGLA 2    ~00~#013
+;0000001A{PORT 1      ~00~}#016#013
+PUERTO 1    ~00~#013
+;00000027{PORT 2      ~00~}#016#013
+PUERTO 2    ~00~#013
+;00000034{PORT 3      ~00~}#016#013
+PUERTO 3    ~00~#013
+;00000041{KONK BOSS   ~00~}#016#013
+JEFE KONK   ~00~#013
+;0000004E{VILLAGE 1   ~00~}#016#013
+ALDEA 1     ~00~#013
+;0000005B{VILLAGE 2   ~00~}#016#013
+ALDEA 2     ~00~#013
+;00000068{VILLAGE 3   ~00~}#016#013
+ALDEA 3     ~00~#013
+;00000075{MOUNTAIN 1  ~00~}#016#013
+MONTANA 1   ~00~#013
+;00000082{MOUNTAIN 2  ~00~}#016#013
+MONTANA 2   ~00~#013
+;0000008F{MOUNTAIN 3  ~00~}#016#013
+MONTANA 3   ~00~#013
+;0000009C{MOUNTAIN 4  ~00~}#016#013
+MONTANA 4   ~00~#013
+;000000A9{CITADEL 1   ~00~}#016#013
+CIUDADELA 1 ~00~#013
+;000000B6{CITADEL 2   ~00~}#016#013
+CIUDADELA 2 ~00~#013
+;000000C3{CITADEL 3   ~00~}#016#013
+CIUDADELA 3 ~00~#013
+;000000D0{CITADEL 4   ~00~}#016#013
+CIUDADELA 4 ~00~#013
+;000000DD{CITADEL 5   ~00~}#016#013
+CIUDADELA 5 ~00~#013
+;000000EA{CITADEL 6   ~00~}#016#013
+CIUDADELA 6 ~00~#013
+;000000F7{CITADEL 7   ~00~}#016#013
+CIUDADELA 7 ~00~#013
+;00000104{CITADEL 8   ~00~}#016#013
+CIUDADELA 8 ~00~#013
+;00000111{CITADEL 9   ~00~}#016#013
+CIUDADELA 9 ~00~#013
+;0000011E{CITADEL 10  ~00~}#016#013
+CIUDADELA 10~00~#013
+;0000012B{CITADEL 11  ~00~}#016#013
+CIUDADELA 11~00~#013
+;00000138{CITADEL 12  ~00~}#016#013
+CIUDADELA 12~00~#013
+;00000145{JANDA 1     ~00~}#016#013
+JANDA 1     ~00~#013
+;00000152{MANTUS BOSS ~00~}#016#013
+JEFE MANTUS ~00~#013
+;0000015F{JANDA 2     ~00~}#016#013
+JANDA 2     ~00~#013
+;0000016C{JOAT BOSS   ~00~}#016#013
+JEFE JOAT   ~00~#013
+;00000179{CAVES 1     ~00~}#016#013
+CUEVAS 1    ~00~#013
+;00000186{CAVES 2     ~00~}#016#013
+CUEVAS 2    ~00~#013
+;00000193{CAVES 3     ~00~}#016#013
+CUEVAS 3    ~00~#013
+;000001A0{TEMPLE 1    ~00~}#016#013
+TEMPLO 1    ~00~#013
+;000001AD{TEMPLE 2    ~00~}#016#013
+TEMPLO 2    ~00~#013
+;000001BA{TEMPLE 3    ~00~}#016#013
+TEMPLE 3    ~00~#013
+;000001C7{TEMPLE 4    ~00~}#016#013
+TEMPLO 4    ~00~#013
+;000001D4{TEMPLE 5    ~00~}#016#013
+TEMPLO 5    ~00~#013
+;000001E1{TEMPLE 6    ~00~}#016#013
+TEMPLO 6    ~00~#013
+;000001EE{TEMPLE 7    ~00~}#016#013
+TEMPLO 7    ~00~#013
+;000001FB{BRIDGE 1    ~00~}#016#013
+PUENTE 1    ~00~#013
+;00000208{BRIDGE 2    ~00~}#016#013
+PUENTE 2    ~00~#013
+;00000215{BRIDGE 3    ~00~}#016#013
+PUENTE 3    ~00~#013
+;00000222{BRIDGE 4    ~00~}#016#013
+PUENTE 4    ~00~#013
+;0000022F{BRIDGE 5    ~00~}#016#013
+PUENTE 5    ~00~#013
+;0000023C{BRIDGE 6    ~00~}#016#013
+PUENTE 6    ~00~#013
+;00000249{BRIDGE 7    ~00~}#016#013
+PUENTE 7    ~00~#013
+;00000256{LOWER 1     ~00~}#016#013
+BAJO 1      ~00~#013
+;00000263{LOWER 2     ~00~}#016#013
+BAJO 2      ~00~#013
+;00000270{LOWER 3     ~00~}#016#013
+BAJO 3      ~00~#013
+;0000027D{UPPER 1     ~00~}#016#013
+ALTO 1      ~00~#013
+;0000028A{UPPER 2     ~00~}#016#013
+ALTO 2      ~00~#013
+;00000297{UPPER 3     ~00~}#016#013
+ALTO 3      ~00~#013
+;000002A4{CAVERN 1    ~00~}#016#013
+CAVERNA 1   ~00~#013
+;000002B1{DARK BOSS   ~00~}#016#013
+JEFE DARK   ~00~#013
+;000002BE{~00~}#004#001
+~00~#001
+;000002BF{~01~}#004#001
+~01~#001
+|704
+@0004ADD3-0004AEC0-00-0C
+;00000000{     Our story begins within the watery land of Mer, where the Kingdom of octopon has been ravaged by Dark Water.~00~}#117#114
+     Esta historia comienza en la acuosa tierra de Mer, donde el Reino de octopon fue devastado por Agua Oscura. ~00~#114
+;00000072{~05~     The source of the Dark Water is unknown.~00~}#053#047
+~05~     El origen del Agua Oscura se desconoce. ~00~#047
+;000000A1{~0D~     Only one thing is certain, it is slowly taking over the whole world!~00~}#081#075
+~0D~     Solo una cosa es segura, ¡está conquistando el mundo poco a poco!   ~00~#075
+;000000EC{~FF~~05~}#008#002
+~FF~~05~#002
+|238
+@0004AEC1-0004AFB2-00-0C
+;00000000{     The only hope lies in one young man, named Ren.~00~}#056#053
+     La única esperanza es un joven, llamado Ren.   ~00~#053
+;00000035{~08~     Through a chance encounter with his dying father, the long-lost king Primus,~00~}#089#083
+~08~     A través de un encuentro con su padre moribundo, el perdido rey Primus,     ~00~#083
+;00000088{~0E~     Ren learns of the fabled six treasures of rule, and a magical compass that will lead him to them.~00~}#110#104
+~0E~   Ren aprende sobre los seis tesoros legendarios de Rule y una brújula mágica que le llevará a ellos.~00~#104
+;000000F0{~FF~~0A~}#008#002
+~FF~~0A~#002
+|242
+@0004AFB3-0004B087-00-0C
+;00000000{     Thinking his father is dead, Ren journeys onward to one of the most southerly locations, known as Janda town.~00~}#118#115
+     Creyendo que su padre murió, Ren se aventura a un lugar de los más sureños, conocido como Ciudad Janda.      ~00~#115
+;00000073{~0D~     Janda town is one of the main ports within Mer where pirates and thieves are always rife.~00~}#102#096
+~0D~     Ciudad Janda es uno de los puertos principales de Mer donde piratas y ladrones abundan.  ~00~#096
+;000000D3{~FF~~06~}#008#002
+~FF~~06~#002
+|213
+@0004B088-0004B471-00-0C
+;00000000{     While exploring the town for worthy shipmates, Ren comes across a monkey bird named Niddler.~00~}#101#098
+     Mientras explora la ciudad buscando compañeros, Ren se cruza con el pájaro-mono Niddler.    ~00~#098
+;00000062{~06~     On hearing of Ren's quest, Niddler decides to join him, for he has a vast knowledge of the land of Mer.~00~}#116#110
+~06~     Al oír la aventura, Niddler decide unírsele, porque tiene vasto conocimiento de la tierra de Mer.      ~00~#110
+;000000D0{~06~     Together they scour the town, when by chance they meet up with a beautiful warrior from Andorus.~00~}#109#103
+~06~     Juntos baten la ciudad, cuando por casualidad se encuentran con una bella guerrera de Andorus.  ~00~#103
+;00000137{~06~     Her name is Tula and she is of a dying breed, the Ecomancers.~00~}#074#068
+~06~     Su nombre es Tula y es de una raza moribunda, los Ecomantes. ~00~#068
+;0000017B{~06~     When Ren learns this, he asks her to join him on his quest for the treasures of rule.~00~}#098#092
+~06~     Cuando Ren descubre esto, le pide unirse a su aventura por los tesoros de rule.      ~00~#092
+;000001D7{~06~     Ren, Tula and Niddler find their way to the jetty area where they meet an ex-pirate named Ioz.~00~}#107#101
+~06~     Ren, Tula y Niddler encuentran el camino a un muelle donde conocen a un ex-pirata llamado Ioz.~00~#101
+;0000023C{~06~     Ioz brags that he owns the fastest ship in the harbor, the Wraith.~00~}#079#073
+~06~     Ioz alardea de tener el barco más rápido del puerto, la Espectro. ~00~#073
+;00000285{~06~     If he can join Ren and his fellow shipmates he will gladly lead them to the Wraith.~00~}#096#090
+~06~     Si puede unirse a Ren y a sus compañeros, con gusto les guiará al Espectro.        ~00~#090
+;000002DF{~06~     Unbeknown to Ren, Tula and Niddler, Ioz does not own the Wraith.~00~}#077#071
+~06~     Ren, Tula y Niddler desconocen que Ioz no posee la Espectro.    ~00~#071
+;00000326{~06~     Together they board the stolen ship and sail out of reach of the harbor.~00~}#085#079
+~06~     Juntos abordan el barco robado y zarpan fuera del alcance del puerto.   ~00~#079
+;00000375{~06~     With only the memories of his father, Ren begins his adventure into the unknown.~00~}#093#087
+~06~     Solo con las memorias de su padre, Ren comienza su aventura a lo desconocido.   ~00~#087
+;000003CC{~09~             So Begins...~00~}#033#027
+~09~           Así Empieza...~00~#027
+;000003E7{~FF~?~00~}#009#003
+~FF~?~00~#003
+|1002
+@0004C2F2-0004C3B0-00-0C
+;00000000{THROWING DAGGER.~00~}#020#017
+  DAGA LANZABLE.~00~#017
+;00000011{ECOMANCER ENERGY.~00~}#021#018
+ENERGIA ECOMANTE.~00~#018
+;00000023{DRAGONBOW ARROW.~00~}#020#017
+FLECHA DRACOARCO~00~#017
+;00000034{BRONZE DOOR KEY.~00~}#020#017
+LLAVE PUERTA BR.~00~#017
+;00000045{   SOME FOOD.~00~}#017#014
+      COMIDA.~00~#014
+;00000053{VITALITY ENHANCER.~00~}#022#019
+ MEJORA VITALIDAD.~00~#019
+;00000066{ GRAVITY POTION.~00~}#020#017
+POCION GRAVEDAD.~00~#017
+;00000077{  STONE ELIXIR.~00~}#019#016
+ ELIXIR PIEDRA.~00~#016
+;00000087{  SHIELD MAGIC.~00~}#019#016
+  MAGIA ESCUDO.~00~#016
+;00000097{  VORTEX MAGIC.~00~}#019#016
+  MAGIA VORTEX.~00~#016
+;000000A7{                       ~00~}#027#024
+                       ~00~#024
+|191
+@0004D330-0004D343-00-0C
+;00000000{ RETURN TO GAME ~00~}#020#017
+VOLVER AL JUEGO ~00~#017
+;00000011{~00~}#004#001
+~00~#001
+;00000012{A~F9~}#005#002
+A~F9~#002
+|20
+@0004D36C-0004D373-00-0C
+;00000000{SCORE~00~}#009#006
+PTS  ~00~#006
+;00000006{A~F9~}#005#002
+A~F9~#002
+|8
+@0004D39C-0004D3A1-00-0C
+;00000000{MEN~00~}#007#004
+HOM~00~#004
+;00000004{H~E7~}#005#002
+H~E7~#002
+|6
+@0004DE20-0004E25E-00-0C
+;00000000{            Squawk!~0E~~0E~OOOooo my aching stomach needs some food.~0E~I haven't eaten for hours so there's no way I could lift you up right now, but if you find me ten minga melons to give some energy, I could come back and try again.~00~}#240#228
+            ¡Craaa!~0E~~0E~OOoo mi dolorido estómago necesita comida.~0E~No he comido en horas así que de ninguna manera podría levantarte ahora, pero si me encuentras diez melones minga para darme energía, podría volver y reintentarlo.~00~#228
+;000000E4{            Squawk!~0E~~0E~Niddler's the name, and I've sailed the seas with many pirates. I could tell you a thing or two about the Land of Mer~0E~But first, you must help me!~0E~The Jungle of Pandawa was my home. Maybe you've heard of it. It's where we monkey-birds come from.~0E~Now it is an Island of Slavery! Pirate-Hunters sail from the far reaches of Mer in hopes of capturing a monkey-bird in the jungle.~0C~}#416#398
+            ¡Craaa!~0E~~0E~Niddler es mi nombre, y he navegado los mares con varios piratas. Podría decirte una cosa o dos sobre la Tierra de Mer~0E~Pero antes, ¡debes ayudarme! ~0E~La Jungla de Pandawa era mi hogar. Quizá hayas oído hablar de ella. De ahí vienen los pájaros-mono.~0E~¡Ahora es una Isla de Esclavitud! Cazadores-Pirata zarpan de donde alcanza Mer esperando capturar un pájaro-mono en la jungla. ~0C~#398
+;00000272{Please go into the Jungle and defend my home. You never know, maybe one of the monkey-birds can help us in our quest.~0E~~00~}#125#119
+Por favor ve a la Jungla y defiende mi hogar. Nunca se sabe, quizá uno de los pájaros-mono pueda ayudarte.           ~0E~~00~#119
+;000002E9{The Port of Pandawa, now that is a place that I never want to see again.~0E~When the monkey-birds are captured within the Jungle they are taken to the port.~0E~Once there they are sold as slaves. That's how I got off the island.~0E~Last I heard, the monkey-bird Queen was taken there.~0E~If you free the Queen, I'm sure she will reward you in some way.~0E~~00~}#360#342
+El Puerto de Pandawa, ese es un lugar que no quiero volver a ver.~0E~Cuando los pájaros-monos son capturados en la Jungla se les lleva al puerto.~0E~Una vez allí se venden como esclavos. Así es como salí de la isla.~0E~Lo último que oí, es que llevaron a la Reina pájaro-mono allí.~0E~Si la liberas, estoy seguro de que te recompensará de alguna forma.~0E~~00~#342
+|1087
+@0004E25F-0004E77E-00-0C
+;00000000{Not the Citadel! Everyone knows it's haunted by the ghosts of dead pirates!~0E~Treasure seekers who enter the Citadel roam through its misty halls in search of the Magical Compass.~0E~~0E~Storytellers say that the Compass once belonged to King Primus.~0E~It is said, when the Compass is wielded, the Bridge of the Half-Sword will appear.~0E~What that means I do not know!~0C~}#375#357
+¡La Ciudadela no! ¡Todos saben que está encantada por fantasmas de piratas!~0E~Los buscadores de tesoros que entran en la Ciudadela vagan por sus salas brumosas buscando la Brújula Mágica.~0E~~0E~Los cuentistas dicen que la Brújula perteneció al Rey Primus.~0E~Se dice, que cuando la Brújula se empuñe, el Puente de la Media-Espada aparecerá.~0E~¡No sé lo que significa! ~0C~#357
+;00000165{What I do know is that most who enter the Citadel are turned into zombies, and the ones who escape go insane! Eeeek!~0E~~00~}#124#118
+Lo que sé es que la mayoría de los que entran en la Ciudadela se vuelven zombies, ¡y los que escapan enloquecen!    ~0E~~00~#118
+;000001DB{Oh no!~0E~The compass points towards Bobo Mountain!~0E~It is a place where many have sailed in the hope of finding treasure, Gulp, but few ever escaped.~0E~If you sail there, keep away from Mobo Village. Vicious natives live there. They protect Bobo Mountain from trespassing pirates.~0E~Don't get captured or they'll be eating monkey-bird broth for lunch!!!~0E~Squawk!~00~}#373#355
+¡Oh no!~0E~¡La brújula apunta a la Montaña Bobo!~0E~Es un lugar al que muchos han zarpado esperando encontrar tesoros, Glups, pero pocos escaparon.~0E~Si zarpas allá, aléjate de la Aldea Mobo. Crueles nativos viven allí. Protegen la Montaña Bobo de piratas que pasan.~0E~¡¡¡Que no te capturen o estarán comiendo pájaro-mono para almorzar!!!~0E~¡Craaaa!                 ~00~#355
+;0000033E{Where will the Compass lead us this time?~0E~Squawk! Janda Town.~0E~~0E~It is the largest port within the Land of Mer.~0E~Why would it lead us here?~0D~The whole place is full of thieves and pirates. It is not a place for a cowardly monkey-bird like myself, Gulp!~0E~I have an idea, our friend Zoolie can be found here. Maybe he can help us in our quest.~0C~}#358#337
+¿Dónde nos llevará la Brújula esta vez?~0E~¡Craaaa! Ciudad Janda.~0E~~0E~Es el puerto más grande de la Tierra de Mer.~0E~¿Por qué nos llevará allí?~0D~Está todo lleno de ladrones y piratas. No es un lugar para un pájaro-mono cobarde como yo, ¡Glup! ~0E~Tengo una idea, mi amigo Zoolie se encuentra allí. Quizá pueda ayudarnos en nuestra aventura.        ~0C~#337
+;0000048F{Let's wait until night time. That way everyone will still be asleep, except for the thieves of course!~0E~Oh dear, what have I gotten myself into?~0E~~00~}#154#145
+Esperemos al anochecer. Así todos aún estarán durmiendo, ¡excepto los ladrones claro!                  ~0E~Oh querido, ¿en que me he metido?      ~0E~~00~#145
+|1312
+@0004E77F-0004ED5C-00-0C
+;00000000{Oh dear! I'm afraid I have some bad news for all of you.~0E~The compass points in the direction of Andorus.~0E~While we were in Janda Town, Tula's home Andorus, was ravaged by Dark Water!~0E~The whole island may have been destroyed, including the Temple of the Ecomancers where Tula was born and taught the Ecomancer's way.~0C~}#327#315
+¡Oh querido! Me temo que tengo malas noticias para vosotros.~0E~La brújula apunta en dirección a Andorus.  ~0E~Mientras estábamos en Ciudad Janda, el hogar de Tula, Andorus, ¡fue devastada!~0E~Toda la isla puede haber sido destruida, incluyendo el Templo de los Ecomantes donde Tula nació y le enseñaron Ecomancia.         ~0C~#315
+;0000013B{We must enter the Caves of Andorus and see if anyone is still there. Maybe we can find help, or we may never be able to find the entrance to the Temple!~0E~You go ahead, I'll follow, I promise.~0E~~00~}#201#192
+Debemos entrar en las Cuevas de Andorus y ver si alguien sigue allí. Quizá podamos encontrar ayuda, ¡o puede que nunca encontremos la entrada al Templo!~0E~Id delante, os seguiré, lo prometo.  ~0E~~00~#192
+;000001FB{Wow! A bridge appeared!~0E~The Storyteller was right. There really is a secret bridge.~0E~Even I've never heard of such a place, and I've been around.~0E~It must have been you Ren. You are carrying the half-sword, but what about the secret item?~0E~What could it be?~0E~Anyway, our quest is to get the Treasure of Rule at the end of the bridge, so let's stick to that.~0E~~00~}#376#355
+¡Wow! ¡Apareció un puente!~0E~El cuentacuentos tenía razón. Realmente hay un puente secreto.~0E~Aunque nunca había oído hablar de ello, y he estado aquí.~0E~Debes haber sido tu Ren. Llevas la medio-espada, ¿pero que hay del objeto secreto?~0E~¿Qué podría ser?~0E~Igualmente, nuestra aventura es conseguir el Tesoro de Rule al final del puente, así que ciñámonos a eso.~0E~~00~#355
+;0000035E{Eeeeeeek!~0E~The Compass points towards...... Gulp!!!~0E~The Maelstrom!!!~0E~~0E~That's Bloth's ship. He is a cut-throat pirate and must not be fought.~0E~His ship, the Maelstrom, is an evil carcass made from bones and pieces of wood from other pirate ships.~0E~Please don't sail to it or we'll be swallowed inside it's vast hull, and become prisoners in its labyrinth forever!~0C~}#381#360
+¡Eeeeeeek!~0E~La Brújula apunta hacia... ¡Glup! ~0E~¡El Remolino!~0E~~0E~Es el barco de Bloth. Es un pirata despiadado y no debe ser combatido.~0E~Su barco, el Remolino, es una carcasa maligna hecha de huesos y piezas de madera de otros barcos pirata.~0E~Por favor no zarpes hacia el o seremos tragados dentro de su enorme casco, ¡y nos perderemos en su laberinto para siempre!~0C~#360
+;000004C6{Only Konk and the Constrictus' have ever escaped the labyrinth.~0E~Please don't go there, I was Bloth's slave and I know the Ship inside and out.~0E~But what about the last Treasure of Rule. Bloth has it!~0E~~0E~Oh, what a dilemma. My feathers are shaking!~0E~Do we give up, or do we set-sail?~0E~~00~}#301#280
+Solo Konk y los Constrictus han conseguido escapar del laberinto.~0E~Por favor no vayas, fui esclavo de Bloth y conozco el Barco por dentro y fuera.~0E~Pero que hay del último tesoro de Rule. ¡Bloth lo tiene!~0E~~0E~Oh, que dilema. ¡Mis plumas tiemblan!    ~0E~¿Nos rendimos, o zarpamos?      ~0E~~00~#280
+|1502
+@0004ED5D-0004F19B-00-0C
+;00000000{Eeeeeek! Squawk!~0E~~0E~I'm so frightened!~0E~~0E~Nobody has ever seen the Dark Dweller face to face, except for King Primus! It must be the most powerful creature in the Land of Mer. I hope it doesn't have a taste for monkey-birds.~0E~Use the Six Treasures of Rule carefully, or should I say the Six Magic Seals.~0E~If we fail, the whole Land of Mer will be destroyed forever!!!~0E~~00~}#387#363
+¡Eeeeeek! ¡Craaaa!~0E~~0E~Tengo tanto miedo!~0E~~0E~Nadie ha visto al Morador Oscuro cara a cara, ¡excepto el Rey Primus! Debe ser la criatura más poderosa de la Tierra de Mer. Espero que no le gusten los pájaros-mono.    ~0E~Usa los Seis Tesoros de Rul con cuidado, o debería decir los Seis Sellos Mágicos.~0E~Si fallamos, ¡¡¡toda la Tierra de Mer será destruida para siempre!!!~0E~~00~#363
+;0000016B{Eeeeeek!~0E~Help us please.~0E~~0E~A gang of Pirate-Hunters came through here led by a pirate named, Konk.~0E~They took all our children and the monkey-bird Queen.~0E~They are heading to the slave market within the Port.~0E~Who knows what will happen to them there.~0E~Will we ever see our children again, and what about our Queen?~0E~Maybe you could help us?~00~}#363#336
+¡Eeeeeek!~0E~Ayúdanos por favor.~0E~~0E~Una panda de Cazadores-Pirata vino dirigida por un pirata llamado Konk.~0E~Se llevaron a nuestros hijos y a la Reina pájaro-mono.~0E~Se dirigen al mercado de esclavos del Puerto.  ~0E~Quien sabe lo que les pasará allí. ~0E~¿Volveremos a ver a nuestros hijos? ¿Y qué hay de nuestra Reina?~0E~¿Quizá tú podrías ayudarnos?~00~#336
+;000002BB{Thank you friend, five gold coins is a very generous gift.~0E~In return I must warn you. Konk entered the port with the monkey-bird Queen. She was carrying something of great value.~0E~See that door over there, it is locked and the key is hidden inside a chest above this gatehouse.~0E~Go now, I cannot tell you any more.~0E~~00~}#329#314
+Gracias amigo, cinco monedas de oro son un regalo generoso.~0E~A cambio debo avisarte. Konk entró al puerto con la Reina pájaro-mono. Ella llevaba algo de gran valor.~0E~¿Ves esa puerta de ahí? Está cerrada y la llave está oculta dentro de un cofre encima de esta puerta de entrada.~0E~Ve ahora, no puedo decirte más.    ~0E~~00~#314
+;000003F5{I beg you, part with five gold coins and I will help you enter the Port.~0E~~00~}#080#074
+Te lo ruego, dame cinco monedas de oro y te ayudaré a entrar al Puerto. ~0E~~00~#074
+|1087
+@0004F19C-0004F734-00-0C
+;00000000{Ah, my friend, I will gladly open this doorway for the sum of ten gold coins.~0E~Thank you, the door is now open.~0E~It was a privilege doing business with you.~0E~~00~}#168#156
+Ah, amigo mío, con gusto abriré esta puerta por la suma de diez monedas.     ~0E~Gracias, la puerta está abierta.~0E~Fue un privilegio hacer negocios contigo.  ~0E~~00~#156
+;0000009C{The Door is locked and I have the key, Hah Hah!~0E~What? You don't have ten gold coins. Be gone you pirate scum.~0E~~00~}#120#111
+La puerta está cerrada y tengo la llave, ¡Ha ha!~0E~¿Qué? No tienes diez monedas de oro. Lárgate escoria pirata.~0E~~00~#111
+;0000010B{Psssst!~0E~We are two monkey-birds in disguise.~0E~We snuck into this port to save our children.~0E~While we were exploring we found the room where our Queen is being kept.~0E~It is at the end of the port, behind a locked door.~0E~Free our five children and we will meet you at the end of the port and open the door.~0E~Go now, quickly!~0E~~00~}#344#320
+¡Pssst!~0E~Somos dos pájaros-mono disfrazados. ~0E~Nos colamos para salvar a nuestros hijos.~0E~Mientras explorábamos encontramos la sala donde tienen a la Reina. ~0E~Está al final del puerto, tras una puerta cerrada. ~0E~Libera a nuestros cinco hijos y nos veremos al final del puerto y abriremos la puerta.~0E~¡Ve ahora, rápido!      ~0E~~00~#320
+;0000024B{Squawk!~0E~We meet again, but you still haven't freed all five of our children.~0E~Go and explore the port carefully.~0E~~00~}#125#113
+¡Craaa!~0E~Volvemos a vernos, pero aún no has liberado a nuestros cinco hijos.~0E~Ve y explora el puerto con cuidado.~0E~~00~#113
+;000002BC{Wow, we didn't think you had it in you.~0E~All you have to do is sneak into Konk's room and free our Queen.~0E~Just one moment and the lock will be picked.~0E~There, it is done.~0E~Good luck.~0E~~00~}#199#181
+Wow, no pensábamos que pudieras hacerlo.~0E~Todo lo que debes hacer es colarte en la sala de Konk y liberar a la Reina.     ~0E~Espera un momento y abriremos el cierre.~0E~Ya está.~0E~Suerte.~0E~~00~#181
+;00000371{Who are you and what do you want?~0E~So, you are looking for a Treasure of Rule, Eh?~0E~Well, you won't find one here, just the monkey-bird Queen who I'm protecting for my master, Bloth the Pirate Sea Lord.~0E~So you want to challenge me!~0E~You have no chance against the likes of me. Errrr, I am the most feared pirate in the Land of Mer. Everybody knows that.~0C~}#366#351
+¿Quién eres y que es lo que quieres?~0E~Entonces, buscas el Tesoro de Rule, ¿eh?       ~0E~Bueno, no encontrarás uno aquí, solo la Reina pájaro-mono que protejo para mi maestro, Bloth, el Pirata Señor del Mar.~0E~¡Así que quieres retarme!~0E~No tienes oportunidad contra alguien como yo. Errr, soy el pirata más temido en la Tierra de Mer. Todo el mundo lo sabe.~0C~#351
+;000004D0{So you won't surrender, Eh?~0E~Gulp! Before we fight, I promise you that Bloth will hear of your fabled quest for the Treasures of Rule. I am sure he will find it interesting.~0E~Gulp! Lets fight, matey!!!~0E~~00~}#213#201
+Así que no te rindes, ¿eh?~0E~¡Glup! Antes de luchar, te prometo que Bloth oirá acerca de tu fabulosa aventura de los Tesoros de Rule. Estoy seguro de que le interesará.~0E~¡Glup! ¡¡¡Luchemos, chico!!!    ~0E~~00~#201
+|1433
+@0004F735-0004FC15-00-0C
+;00000000{Oh thank you.~0E~You have saved all my children and freed us all from the clutches of the Slave-traders.~0E~However can I pay you?~0E~All I have is this small treasure. Take it, it's yours.~0E~Before you leave, take care of young Niddler for me. He may seem like a coward but he holds answers to many questions. If you ever get stuck within your adventures, call him and he will help you, but remember, he really enjoys a minga melon or two.~00~}#445#430
+Oh, gracias. ~0E~Has salvado a mis hijos y nos has liberado de las garras de los Esclavistas.~0E~Sin embargo, ¿cómo puedo pagarte?          ~0E~Todo lo que tengo es este pequeño tesoro. Tómalo, es tuyo.~0E~Antes de irte, cuida del pequeño Niddler por mí. Puede parecer un cobarde pero tiene respuestas a muchas preguntas. Si alguna vez te atascas en tus aventuras, llámale y él te ayudará, pero recuerda, disfruta mucho un melón minga o dos.~00~#430
+;000001AE{oooOOOoooOOOhhh!~0E~~0E~I am the Specter of the Citadel.~0E~You may enter the Citadel freely, but beware.~0E~If you fail in your quest to find the Magical Compass, you will be turned into one of the walking dead!~0E~Remember, You must not fail or you will never leave this Citadel.~0E~If you do collect the compass I will.......I am sorry, I am forbidden to tell you!~0E~I will be watching you on your quest.~0E~~00~}#416#389
+¡oooOOOoooOOOhhh!~0E~~0E~Soy el Espectro de la Ciudadela.~0E~Puedes entrar libremente a la Ciudadela, pero ten cuidado. ~0E~Si fallas en tu aventura de encontrar la Brújula Mágica, ¡te convertirás en uno de los muertos andantes!~0E~Recuerda, no debes fallar o nunca saldrás de esta Ciudadela.~0E~Si recoges la brújula yo te.......lo siento, ¡no se me permite decírtelo!~0E~Estaré vigilando tu aventura.      ~0E~~00~#389
+;00000333{I am surprised to see you again.~0E~You have ten gold coins. I must open this door for you.~0E~Beyond the door is the Magical Compass.~0E~I should not say this but, 'Good Luck!'.~0E~~00~}#186#171
+Me sorprende verte de nuevo.~0E~Tienes diez monedas de oro. Debo abrir esta puerta para ti.~0E~Tras esta puerta está la Brújula Mágica.~0E~No debería decir esto pero, '¡Suerte!'.~0E~~00~#171
+;000003DE{Ah!, you have made it this far.~0E~Only one more door to open, but I am forbidden to do so unless I am given ten gold coins.~0E~To help you I must tell you that there are many Treasure Chests that contain gold coins hidden within this Citadel.~0E~You must find them!~0E~~00~}#274#259
+¡Ah!, has llegado hasta aquí.~0E~Solo una puerta más que abrir, pero se me prohíbe hacerlo si no me dan diez monedas de oro.~0E~Para ayudarte debo decirte que hay mucho Cofres del Tesoro que contienen monedas de oro ocultos en esta Ciudadela.~0E~¡Debes encontrarlos!~0E~~00~#259
+|1249
+@0004FC16-0005037C-00-0C
+;00000000{At last I am saved.~0E~I too was a pirate when I entered this Citadel many years ago. The whole place was empty until I met an evil spirit.~0E~The spirit told me that no one will ever get the Magical Compass and that I will be made into a Specter that must guard the Citadel.~0E~I was forced to turn everyone into the walking dead if they failed. I lost all hope of finding a true hero, until now.~0C~}#401#389
+Al fin estoy salvado.~0E~Yo también fui un pirata cuando entré en esta Ciudadela hace años. Todo estaba vacío hasta que encontré a un espíritu.~0E~El espíritu me dijo que nadie conseguiría nunca la Brújula Mágica y que a mi me harían Espectro que debe guardar la Ciudadela. ~0E~Me forzaban a hacer a todos muertos caminantes si fallaban. Perdí toda la esperanza de encontrar un héroe, hasta ahora.~0C~#389
+;00000185{Now that you have found the Compass, the spell has been broken.~0E~The living dead may leave this Citadel as they once entered, as Pirates. I too can leave this place.~0E~Please, take the Compass. It will guide you towards your destiny!~00~}#240#231
+Ahora que has encontrado la Brújula, el hechizo se ha roto.   ~0E~Los muertos vivientes pueden dejar esta Ciudadela como entraron una vez, como Piratas. Yo también puedo irme.~0E~Por favor, coge la Brújula. ¡Te guiará hacia tu destino! ~00~#231
+;0000026C{Help me please!!!~0E~I'm a pirate, and I was sent to this island by Captain Bloth in search of a Treasure of Rule.~0E~Aye, but the natives caught me, and if ye sets me free, I'll let ye in on a little secret.~0E~I know how those land lovers reach the top of Bobo Mountain. They use gliders to sail upon the wind.~0E~There's a glider at the end of the village. Maybe ye could use it to reach the mountain. I'll leave the Treasure of Rule to you, if you just cut me loose.~0C~}#474#459
+¡¡¡Ayúdame por favor!!!          ~0E~Soy un pirata, y me envió a esta isla el Capitán Bloth para buscar un Tesoro de Rule.~0E~Sí, pero los nativos me atraparon, y si me liberas, te contaré un pequeño secreto.~0E~Sé como estos amantes de la tierra llegan a la cima de la Montaña Bobo. Usan planeadores para volar.~0E~Hay un planeador al final de la aldea. Quizá puedas usarlo para alcanzar la montaña. Te dejaré el Tesoro de Rule, solo si me liberas.                     ~0C~#459
+;00000437{Oh, before I forget, there is an old vagabond who lives up in the mountain. Find him and he will help ye find the Treasure of Rule.~0E~A thousand thanks for releasing me. I'll not set foot on this island again for as long as I live!!!~00~}#238#232
+Oh, antes de que me olvide, hay un viejo vagabundo que vive en la montaña. Encuéntrale y te ayudará a encontrar el Tesoro de Rule. ~0E~Mil gracias por liberarme. ¡¡¡No volveré a pisar esta isla de nuevo mientras viva!!!               ~00~#232
+;0000051F{Mercy, fifteen gold coins for an old Pirates-Tale.~0E~Now where shall I start?~0E~Ah yes...~0E~It is said that the natives worship a stone statue.~0E~The statue is a link to their mountain-god named, Tork.~0E~Tork is a fierce god who takes no prisoners. It is said that he awaits the Pirates who will save the Land of Mer.~0C~}#326#308
+Piedad, quince monedas de oro por una vieja historia Pirata.~0E~¿Por dónde empiezo?~0E~Ah sí...~0E~Se dice que los nativos adoran una estatua de piedra.~0E~La estatua es un enlace con su dios-montaña, Tork.~0E~Tork es un feroz dios que no toma prisioneros. Se dice que espera a los Piratas que salvarán la Tierra de Mer.  ~0C~#308
+;00000653{To make the statue appear, stand upon the stone between the stones and the statue will be revealed.~0E~I have no more to tell, Thank you for the gold my Pirate friend.~00~}#171#165
+Para hacer aparecer la estatua, quédate delante de la piedra entre las piedras y la estatua aparecerá.  ~0E~No tengo más que decir, Gracias por el oro mi amigo Pirata.~00~#165
+;000006F8{I am just an old vagabond with only one tale to tell.~0E~Part with fifteen gold coins and you will hear my tale.~0E~~00~}#120#111
+Solo soy un viejo vagabundo con una sola historia.   ~0E~Ven con quince monedas de oro y oirás mi historia.     ~0E~~00~#111
+|1895
+@0005037D-00050B43-00-0C
+;00000000{Grrrrrr! Who dares summon me from my sleep?~0E~~0E~Ah! What have we here?~0E~~0E~Just a small, insignificant pirate. What could you possibly want with the likes of Tork, the God of Bobo Mountain?~0E~So, you carry the Magical Compass.~0E~You must be the one!~0C~}#261#240
+¡Grrrrr! ¿Quien osa invocarme de mi sueño?~0E~~0E~¡Ah! ¿Qué tenemos aquí?~0E~~0E~Solo un pequeño, insignificante pirata. ¿Qué podrías querer de los parecidos a Tork, el Dios de la Montaña Bobo?~0E~Así que, llevas la Brújula Mágica.~0E~¡Debes ser el elegido!~0C~#240
+;000000F0{With all my power and strength, I must now turn to my wisdom. I have a feeling that you will need this Treasure of Rule, more than I.~0E~Take it and get off my mountain before I change my mind and get angry, Grrrrrrrr!~0E~~00~}#226#217
+Con todo mi poder y fuerza, ahora debo apelar a mi sabiduría. Tengo el presentimiento de que necesitarás este Tesoro de Rule, más que yo.~0E~Cógelo y sal de mi montaña antes de que cambie de idea y me enfurezca, ¡Grrr!~0E~~00~#217
+;000001C9{Hick!~0E~You should not be out this late at night, young pirate. There is bad weather coming this way. I can feel it in my bones.~0E~What did you say? You are looking for Zoolie.~0E~I know him well. After all he does run the local tavern, Hah Hah Hick.~0E~He is at the end of the jetty, but all the harbor gates have been locked and thieves and pirates roam everywhere.~0C~}#373#358
+¡Hip!~0E~No deberías estar fuera tan tarde, joven pirata. Viene mal clima hacia aquí. Puedo sentirlo en mis huesos.~0E~¿Qué dijiste? Estas buscando a Zoolie.  ~0E~Le conozco bien. Después de todo lleva la taverna local, Hah Hah Hip. ~0E~Está al final del embarcadero, pero todas las puertas del puerto han sido cerradas y ladrones y piratas vagan por todos lados.      ~0C~#358
+;0000032F{If you really want to find him, you must find the keys to the gates.~0E~May the Seas of Mer bestow luck upon you, shipmate, Hick!~0E~~00~}#137#128
+Si de verdad quieres encontrarle, has de encontrar todas las llaves.~0E~Que los Mares de Mer te otorguen suerte, compañero, ¡Hip!~0E~~00~#128
+;000003AF{Greetings.~0E~I've been awaiting your arrival.~0E~I have some free information that may interest you. Joat, one of Captain Bloth's main men, is in town, and he has scouts out looking for the son of King Primus and his unworthy crew.~0E~He accused Primus' son of stealing his ship, the Wraith. If it's true, I'd say you are all in trouble.~0C~}#342#330
+Saludos.~0E~He estado esperando tu llegada. ~0E~Tengo alguna información que podría interesarte. Joat, un hombre importante del Capitan Bloth, está en la ciudad, y tiene gente buscando al hijo del Rey Primus y a su tripulación.~0E~Ha acusado al hijo de Primus de robar su barco, la Espectro. Si es verdad, diría que tenéis un problema.   ~0C~#330
+;000004F9{As if you haven't enough problems already, I met a Storyteller from Octopon. He told me some information that I must only tell to Ren, the son of King Primus.~0E~This may sound crazy, my friend but he said that there is a bridge somewhere within the Land of Mer.~0E~The bridge will appear to the one carrying the half-sword and that at the end of the bridge, a Treasure of Rule can be found.~0C~}#395#386
+Como si no tuvieras suficientes problemas ya, conocí a un Cuentacuentos de Octopon. Me dio alguna información que he de dar solo a Ren, hijo del Rey Primus. ~0E~Esto puede sonar a locura, amigo mio, pero dijo que hay un puente en algún lugar de la Tierra de Mer.~0E~El puente aparecerá a quien porte la medio-espada y que al final del puente, se puede encontrar un Tesoro de Rule.           ~0C~#386
+;0000067B{The Storyteller also said that a special item can also be found on the bridge. What that item is, he did not say!~0E~Anyway, it is probably just a fairy tale, so I wouldn't take it seriously.~0E~That is all the information I have, my old shipmate.~0E~Travel with care my friend, and stay out of trouble.~0E~Joat is in one mean mood!~0E~Farewell.~0E~~00~}#353#332
+El Cuentacuentos también dijo que se puede encontrar un objeto especial en el puente. Lo que es, ¡no lo dijo!~0E~Igualmente, probablemente solo sea un cuento, así que no te lo tomes en serio.~0E~Esa es toda la información que tengo, viejo compañero.~0E~Viaja con cuidado, amigo, y aléjate de los problemas.~0E~¡Joat está muy enfadado! ~0E~Adiós.~0E~~00~#332
+|1991
+@00050B44-00050F9C-00-0C
+;00000000{Ah, at last I have found you!~0E~My name is Joat, and you have something of mine!~0E~I have sent many scouts out looking for the thieves who stole my beautiful ship, The Wraith. Yet you come to me. Isn't that a bit of luck?~0E~Maybe it has something to do with your quest for the Treasures of Rule?~0C~}#302#290
+Ah, ¡al fin te encuentro!~0E~Me llamo Joat, ¡y tienes algo que es mio!       ~0E~He enviado a mis exploradores a buscar a los ladrones que me robaron mi bello barco, la Espectro. Y tu vienes a mi. ¿No es eso algo de suerte?~0E~¿Quizá tiene algo que ver con tu aventura por los Tesoros de Rule?     ~0C~#290
+;00000122{Hmmmm! I suppose you have no idea what I am carrying. It is a very important item that I acquired for Bloth. He will be very pleased with me.~0E~Ah hah! I notice you are carrying two Treasures of Rule, yourself. Bloth will be very happy when I hand over not one, but three Treasures of Rule!~0E~Enough talking. Let's get down to business.~0C~}#342#333
+¡Hmmm! Supongo que no tienes ni idea de lo que transporto. Es un objeto muy importante que adquirí para Bloth. Estará muy satisfecho conmigo.~0E~¡Ah hah! Veo que llevas dos Tesoros de Rule, tu mismo. Bloth estará muy feliz cuando no le de uno, ¡sino tres Tesoros de Rule!~0E~Basta de hablar. Vayamos a los negocios.                       ~0C~#333
+;0000026F{I want my ship back and the two Treasures that you carry. You want the Treasure that belongs to Bloth.~0E~This is a difficult situation, isn't it?~0E~There is only one way to end our problem.~0E~I will fight you till the end!!!~0E~~00~}#235#220
+Quiero mi barco de vuelta y los dos Tesoros que tienes. Quieres el Tesoro que pertenece a Bloth.~0E~Esta es una situación difícil, ¿verdad?~0E~Solo hay una forma de terminar nuestro problema.~0E~¡¡Pelearé contigo hasta el fin!!~0E~~00~#220
+;0000034B{You have been a worthy opponent and have beaten me fair and square.~0E~Because I am a Pirate to my word, here is my Treasure. Take it quickly before I change my mind.~0E~As for my ship, The Wraith, I will never forget the thieves who stole it. One day it will be mine again!~0E~~00~}#282#270
+Has sido un oponente digno y me has vencido justamente.       ~0E~Como soy un Pirata con palabra, aquí está mi Tesoro. Tómalo rápidamente antes de que cambie de idea.~0E~Y mi barco, La Espectro, nunca olvidaré a los ladrones que lo robaron. ¡Un día será mia de nuevo!       ~0E~~00~#270
+|1113
+@00050F9D-000515DB-00-0C
+;00000000{Ah, I knew a hero would come. My name is Teron. I am the last surviving Ecomancer.~0E~Dark Water has taken its toll on me. I grow weaker by the second.~0E~I have been searching the caves for the entrance to the Temple.~0E~All I have found so far is five locked doors, but the keys, I know not where they are. Somebody must have locked the doors and entered the Temple!~0C~}#372#360
+Ah, sabía que vendría un héroe. Me llamo Teron. Soy el último Ecomante superviviente.~0E~Agua Oscura ha cogido su peaje de mí. Me hago débil por segundos.~0E~He estado buscando en las cuevas la entrada al Templo.~0E~Todo lo que he encontrado hasta ahora son cinco puertas, pero las llaves no se donde están. ¡Alguien debe haber cerrado las puertas y entrado al Templo!~0C~#360
+;00000168{You go on ahead and find the keys, but beware of the Dark Water pools, they are alive!~0E~I will rest awhile. When I am strong enough I will meet you in the Temple. I have a lot to tell you.~0E~Right now, I must rest......zzzzzzz~0E~~00~}#237#225
+Sigue adelante y encuentra las llaves, ¡pero cuidado con los pozos de Agua Oscura!~0E~Descansaré un rato. Cuando tenga fuerzas me reuniré contigo en el Templo. Tengo mucho que contarte.~0E~Ahora mismo, debo descansar... zzz      ~0E~~00~#225
+;00000249{Well done, you found the keys. Luckily I found a secret way in.~0E~Now I must tell you what has happened.~0E~We were given a sacred Treasure of Rule to protect by King Primus.~0E~We took great pride in protecting the treasure, until one day, Dark Water ravaged the whole island. Rivers of Dark Water poured through the caves, its destination, this Temple. It's as if the water knew that the Treasure of Rule was here.~0C~}#421#409
+Bien hecho, encontraste las llaves. Por suerte encontré una entrada secreta.~0E~Ahora debo decirte lo que ha pasado.~0E~Nos dieron un Tesoro de Rule para que lo protegiera el Rey Primus.~0E~Nos enorgulleció proteger el tesoro, hasta que un día, el Agua Oscura devastó la isla. Rios de Agua Oscura se derramaron por las cuevas, su destino, este Templo. Es como si el agua supiera que el Tesoro de Rule estaba aquí.    ~0C~#409
+;000003E2{As the water flowed, the whole Temple started to crumble and split. Everyone fled and I was left alone to protect the treasure by myself.~0E~Now things have changed, King Primus said that if he does not return for the Treasure, someone else will and that someone is you, my friend.~0E~I'm afraid that someone has already beaten you. A pirate called Mantus was the one responsible for locking the doors. He must want the Treasure for himself!~0C~}#445#436
+Mientras fluía el agua, todo el Templo comenzó a derrumbarse y separarse. Todos huyeron y a mi me dejaron solo para proteger el tesoro.  ~0E~Ahora las cosas han cambiado, el Rey Primus dijo que si él no volvía a por el Tesoro, alguien más vendría y ese alguien eres tú, amigo mío. ~0E~Me temo que alguien te ha ganado. Un pirata llamado Mantus fue el responsable de cerrar las puertas. ¡Debe querer el Tesoro para él!                        ~0C~#436
+;00000596{Go quickly. Search the Temple well and you may beat Mantus to the Treasure of Rule, but be careful, as you have seen already, Andorus is full of Mantus' pirate-slaves.~0E~~00~}#175#169
+Ve rápido. Busca bien en el Templo y quizá venzas a Mantus por el Tesoro de Rule, pero ten cuidado, como ya vistes, Andorus está lleno de piratas-esclavos de Mantus.  ~0E~~00~#169
+|1599
+@000515DC-00051A0B-00-0C
+;00000000{Greetings. My name is Mantus, second in command under Bloth.~0E~Excuse me for saying this, but I am a little surprised at what I see before me.~0E~I can't believe that you and your shipmates outwitted Konk and Joat.~0E~Those two idiots obviously underestimated you, but I am afraid I'm too intelligent to be tricked.~0E~I happen to be the greatest swordsman in the Land of Mer.~0C~}#381#366
+Saludos. Me llamo Mantus, segundo al mando bajo Bloth.~0E~Perdóname por decir esto, pero estoy un poco sorprendido con lo que veo ante mí.~0E~No puedo creer que tu y tus compañeros os burlarais de Konk y Joat. ~0E~Esos dos idiotas obviamente os infravaloraron, pero me temo que soy demasiado listo para ser engañado. ~0E~Resulta que soy el mejor espadachín de la Tierra de Mer.~0C~#366
+;0000016E{It is a title that everyone takes seriously. That is why only Bloth and myself carry the last two Treasures of Rule.~0E~Enough with niceties. I have a Treasure of Rule in my chest.~0E~If you defeat me, which of course is impossible, you may freely take the Treasure.~0E~If I defeat you, I will gladly accept all of your gold.~0E~Oh, I do like a fight when there is gold involved!~0E~Are you ready?~0E~En-garde!!!~0E~~00~}#420#396
+Es un título que todos se toman en serio. Es por eso que solo Bloth y yo cargamos con los últimos dos Tesoros de Rule.~0E~Basta de delicadezas. Tengo el Tesoro de Rule en mi cofre.~0E~Si me vences, que por supuesto es imposible, puede tomar libremente el Tesoro.~0E~Si te venzo, con gusto aceptaré todo tu oro.~0E~Oh, ¡me encanta luchar cuando hay oro involucrado!~0E~¿Estás listo?~0E~¡¡¡En-garde!!!             ~0E~~00~#396
+;000002FA{I am honored to be defeated by such a skillful pirate.~0E~The Treasure that I carry is indeed yours, but I'll take your gold.~0E~I know it wasn't part of the bargain, but oh! how I love gold.~0E~I must dash~0E~I hope to meet your Gold, errrr, I mean you again someday.~0E~Farewell my young pirate.~0E~Until we meet again......~0E~~00~}#334#310
+Me honra haber sido vencido por tan hábil pirata.~0E~El Tesoro que cargo es sin duda tuyo, pero me quedaré con tu oro.~0E~Sé que no era parte del trato, ¡pero oh! cómo me gusta el oro.~0E~Debo darme prisa. ~0E~Espero verme con tu Oro, errr, contigo de nuevo algún día.~0E~Adiós mi joven pirata.~0E~Hasta que volvamos a vernos.~0E~~00~#310
+|1072
+@00051A0C-0005217D-00-0C
+;00000000{I am a Storyteller and I have a tale to tell.~0E~Listen to my tale and follow it good.~0E~Ah Hum!~0E~Seek the Towers with no base, for there lies the broken blade.~0E~Trust your instincts, not your eyes. The blade will be yours and that's no lie.~0E~~00~}#254#236
+Soy un cuentacuentos con un cuento que contar.~0E~Escucha mi cuento y síguelo bien.~0E~¡Ah hum!~0E~Busca las Torres sin base, porque allí está la hoja partida.~0E~Cree en tus instintos, no en tus ojos. La hoja será tuya y eso no es mentira.      ~0E~~00~#236
+;000000EC{Hello my child, give me your time, I have a story to tell.~0E~Ah Hum!~0E~Long ago there were Six Treasures of Rule, called so because of their magical powers against evil.~0E~The six Kings of Mer, including the King Primus of Octopon, sailed to the center of the Dark Dweller's whirlpool. With the protection of the treasures they journey'd safely down into the Dark Dweller's cave.~0C~}#386#374
+Hola hijo mio, dame tu tiempo, tengo una historia a contar.~0E~¡Ah Hum!~0E~Hace mucho había Seis Tesoros de Rule, llamados así por sus poderes mágicos contra el mal.      ~0E~Los seis Reyes de Mer, incluyendo al Rey Primus de Octopon, zarparon al centro del torbellino del Morador Oscuro. Con la protección de los tesoros viajaron a salvo hacia la cueva del Morador Oscuro.         ~0C~#374
+;00000262{Each king located a special plinth and placed in it a Treasure of Rule. The six treasures formed a seal, a protective barrier of Good.~0E~~0E~This was no easy task for the six kings. Except for King Primus, all the Kings were attacked and defeated by all manner of Dark Water creatures never seen before!!!~0C~}#310#301
+Cada rey localizó un zócalo especial y puso en él un Tesoro de Rule. Los seis tesoros formaron un sello, una barrera protectora de Bien.~0E~~0E~No fue una tarea fácil para los seis reyes. Excepto el Rey Primus, ¡¡¡Todos los Reyes fueron atacados y vencidos por criaturas del Agua Oscura nunca vistas!!!    ~0C~#301
+;0000038F{Alone, King Primus placed the last seal and confronted the Dark Dweller. A long and hard battle ensued and the Dark Dweller was weakened. Sensing his weakness, the Six Seals joined together and formed the protective barrier. The DarkDweller was imprisoned within his own cave where he would remain forever.~0C~}#310#307
+Solo, el Rey Primus colocó el último sello y se enfrentó al Morador Oscuro. Siguió una larga y dura batalla y el Morador Oscuro fue debilitado. Sintiéndolo, los Seis Sellos se unieron y formaron una barrera protectora. El Morador Oscuro fue encarcelado en su propia cueva donde permanecerá para siempre.   ~0C~#307
+;000004C2{However, an unexpected earthquake took place within the cave. It's effect was disastrous! A small droplet of Dark Water escaped through the barrier. The hole grew larger and larger until it was big enough for the Dark Dweller to send Dark Water lakes to ravage the Lands of Mer.~0E~Although it could not escape, the Dark Dweller could rule the world from deep within its cave!!!~0C~}#382#376
+Sin embargo, un terremoto inesperado tuvo lugar en la cueva. ¡Su efecto fue desastroso! Una pequeña gota de Agua Oscura escapó por la barrera. El agujero se hizo más grande hasta que fue suficientemente grande para poder enviar lagos de Agua Oscura destruyendo la Tierra de Mer.~0E~Aunque no podía escapar, ¡¡el Morador podía gobernar el mundo desde la profundidad de su cueva!!~0C~#376
+;0000063A{Now, only a hero carrying the Six Seals can defeat the Dark Dweller. He will be sealed in his cave again and the Land of Mer will return to its former glory!~0E~You must go now. Bloth has the final Treasure of Rule and he is up on deck.~0E~Good luck in your quest.The love of King Primus will travel with you always.~0E~~00~}#324#312
+Ahora, solo un héroe con los Seis Sellos puede vencer al Morador Oscuro. ¡Será sellado en esta cueva de nuevo y la Tierra de Mer volverá a su antigua gloria!~0E~Ahora debes ir. Bloth tiene el último Tesoro de Rule y está en su cubierta.~0E~Buena suerte en tu aventura. El amor del Rey Primus viajará contigo siempre.~0E~~00~#312
+|1906
+@0005217E-000526B8-00-0C
+;00000000{Blast you to the Abyss! How did you escape my labyrinth?~0E~Well, I trust my pets, the constrictus', did you no harm.~0E~Ah! And  I see you have the other five Treasures of Rule!!!~0E~This may well be the best day of my life. Now that all Six Treasures of Rule are on-board my ship, I will control the Dark Water.~0C~}#317#305
+¡Maldito seas! ¿Cómo escapaste de mi laberinto? ~0E~Bueno, supongo que mis mascotas, los constrictus, no te dañaron.~0E~¡Ah! ¡¡¡Veo que tienes los otros cinco Tesoros de Rule!!!~0E~Este podría ser el mejor día de mi vida. Ahora que los Seis Tesoros de Rule están en mi barco, controlaré el Agua Oscura.           ~0C~#305
+;00000131{With that power I will become Ruler of Mer! Hah hah hah!~0E~But first I need your five Treasures.~0E~Come then, hand them over before I become angry!~0E~~00~}#157#145
+¡Con ese poder seré el Gobernante de Mer! ¡Hah hah hah!~0E~Pero primero necesito tus cinco Tesoros.~0E~Ven pues, ¡dámelos antes de que me enfade!    ~0E~~00~#145
+;000001C2{You may have won this time!~0E~Take the Treasure of Rule and leave my ship before I get nasty!~0E~We will meet again young pirate, but in the meantime there are plenty of ships that I can attack to keep myself busy.~0E~As for my idiot crew-members, they will be spending some time with the constrictus.~0E~~00~}#310#295
+¡Puede que ganaras esta vez!~0E~¡Coge el Tesoro de Rule y sal de mi barco antes de que me enfade!  ~0E~Nos veremos de nuevo joven pirata, pero mientras tanto hay muchos barcos que puedo atacar para estar ocupado.~0E~Y los idiotas de mi tripulación, pasarán algún tiempo con los constrictus.            ~0E~~00~#295
+;000002E9{Roaaaaaar! Who dares enter my realm?~0E~Hah hah hah, just a pirate looking for treasure, I see~0E~You chose the wrong cave to explore, pirate.~0E~I can destroy you with a single thought! Prepare to die, human!~0E~Wait, what is this? It can't be! Arrrrr, I feel the force of the Six Seals!!!~0C~}#294#279
+¡Roaaaaar! ¿Quien osa entrar en mi reino?~0E~Ja Ja Ja , solo un pirata buscando tesoros, veo.~0E~Elegiste una mala cueva a explorar, pirata.~0E~¡Puedo destruirte con un pensamiento! ¡Prepárate a morir, humano!~0E~Eh, ¿qué es esto? ¡No puede ser! Arrr, ¡siento la fuerza de los Seis Sellos! ~0C~#279
+;00000400{The six Kings of Mer already used them to imprison me once, and even they failed in the end. What makes you think you are any different?~0E~Primus was the King of Octopon, You are just a pirate in the wrong place!~0E~What chance do you have in weakening me?~0E~Surrender, and I will have pity, and end your life quickly!!!~0E~~00~}#330#315
+Los seis Reyes de Mer ya los usaron para encarcelarme una vez, y fallaron al final. ¿Qué te hace pensar que eres diferente?       ~0E~Primus era el Rey de Octopon, ¡tu solo eres un pirata en el lugar equivocado!~0E~¿Qué posibilidades tienes de debilitarme?~0E~Ríndete, y tendré piedad, ¡¡¡y terminaré rápido con tu vida!!!~0E~~00~#315
+|1339
+@000526B9-00052798-00-0C
+;00000000{Noooo! Please, I beg you!~0E~~0E~Don't let the Seals activate. The Barrier of Good will seal me here forever!~0E~~0E~I will make you joint-ruler of Mer!~0E~~0E~Please consider it. No, stop!~0E~~0E~Oh No. It's too late!~0E~~0E~Ahhhhhhhhhhhhhhh!!!!!!!!!~00~}#255#222
+¡Noooo! ¡Te lo suplico!~0E~~0E~No dejes que se activen los Sellos. ¡La Barrera de Bien me sellará para siempre!~0E~~0E~¡Te haré cogobernante de Mer!~0E~~0E~Por favor considéralo. ¡No, para!~0E~~0E~Oh No. ¡Es muy tarde!~0E~~0E~¡¡¡¡¡Ahhhhhhhhhhhhhhh!!!!~00~#222
+;000000DE{~00~}#004#001
+~00~#001
+;000000DF{~00~}#004#001
+~00~#001
+|224
+@0005279C-00052805-00-0C
+;00000000{CHOOSE YOUR HERO WISELY.~00~}#028#025
+ELIGE HEROE SABIAMENTE. ~00~#025
+;00000019{  START LEVEL   ~00~}#020#017
+EMPEZAR EL NIVEL~00~#017
+;0000002A{TALK TO NIDDLER~00~}#019#016
+HABLA A NIDDLER~00~#016
+;0000003A{   MAP SCREEN   ~00~}#020#017
+PANTALLA DE MAPA~00~#017
+;0000004B{ CHOOSE A HERO ~00~}#019#016
+ELIGE UN HEROE ~00~#016
+;0000005B{REN~00~}#007#004
+REN~00~#004
+;0000005F{TULA~00~}#008#005
+TULA~00~#005
+;00000064{IOZ~00~}#007#004
+IOZ~00~#004
+;00000068{~00~}#004#001
+~00~#001
+;00000069{~0E~}#004#001
+~0E~#001
+|106
+@00052808-0005281D-00-0C
+;00000000{You listen to Konk.~00~}#023#020
+Escuchas a Konk.   ~00~#020
+;00000014{~00~}#004#001
+~00~#001
+;00000015{~0E~}#004#001
+~0E~#001
+|22
+@00052820-00052835-00-0C
+;00000000{You listen to Tork.~00~}#023#020
+Escuchas a Tork.   ~00~#020
+;00000014{~00~}#004#001
+~00~#001
+;00000015{~0E~}#004#001
+~0E~#001
+|22
+@00052838-0005284D-00-0C
+;00000000{You listen to Joat.~00~}#023#020
+Escuchas a Joat.   ~00~#020
+;00000014{~00~}#004#001
+~00~#001
+;00000015{~0C~}#004#001
+~0C~#001
+|22
+@00052850-00052867-00-0C
+;00000000{You listen to Mantus.~00~}#025#022
+Escuchas a Mantus.   ~00~#022
+;00000016{~00~}#004#001
+~00~#001
+;00000017{~0E~}#004#001
+~0E~#001
+|24
+@0005286A-00052880-00-0C
+;00000000{You listen to Bloth.~00~}#024#021
+Escuchas a Bloth.   ~00~#021
+;00000015{~00~}#004#001
+~00~#001
+;00000016{~00~}#004#001
+~00~#001
+|23
+@00052884-00052897-00-0C
+;00000000{The Dark Dweller.~00~}#021#018
+Morador Oscuro.  ~00~#018
+;00000012{~00~}#004#001
+~00~#001
+;00000013{~0D~}#004#001
+~0D~#001
+|20
+@0005289A-000528B2-00-0C
+;00000000{You listen to Niddler.~00~}#026#023
+Escuchas a Niddler.   ~00~#023
+;00000017{~00~}#004#001
+~00~#001
+;00000018{~00~}#004#001
+~00~#001
+|25
+@000528B6-000528D1-00-0C
+;00000000{You listen to the pirate.~00~}#029#026
+Escuchas al pirata.      ~00~#026
+;0000001A{~00~}#004#001
+~00~#001
+;0000001B{~0C~}#004#001
+~0C~#001
+|28
+@000528D4-000528EF-00-0C
+;00000000{You listen to the beggar.~00~}#029#026
+Escuchas al mendigo.     ~00~#026
+;0000001A{~00~}#004#001
+~00~#001
+;0000001B{~0B~}#004#001
+~0B~#001
+|28
+@000528F2-0005290F-00-0C
+;00000000{You listen to the merchant.~00~}#031#028
+Escuchas al mercader.      ~00~#028
+;0000001C{~00~}#004#001
+~00~#001
+;0000001D{~0A~}#004#001
+~0A~#001
+|30
+@00052912-00052931-00-0C
+;00000000{You listen to the monkey bird~00~}#033#030
+Escuchas al pájaro mono.     ~00~#030
+;0000001E{~00~}#004#001
+~00~#001
+;0000001F{~0B~}#004#001
+~0B~#001
+|32
+@00052934-0005294E-00-0C
+;00000000{You listen to the Queen.~00~}#028#025
+Escuchas a la Reina.    ~00~#025
+;00000019{~00~}#004#001
+~00~#001
+;0000001A{~00~}#004#001
+~00~#001
+|27
+@00052952-0005296C-00-0C
+;00000000{You listen to the Ghost.~00~}#028#025
+Escuchas al Fantasma.   ~00~#025
+;00000019{~00~}#004#001
+~00~#001
+;0000001A{~00~}#004#001
+~00~#001
+|27
+@00052970-0005298A-00-0C
+;00000000{You listen to the drunk.~00~}#028#025
+Escuchas al borracho.   ~00~#025
+;00000019{~00~}#004#001
+~00~#001
+;0000001A{~00~}#004#001
+~00~#001
+|27
+@0005298E-000529A4-00-0C
+;00000000{You listen to Teron.~00~}#024#021
+Escuchas a Teron.   ~00~#021
+;00000015{~00~}#004#001
+~00~#001
+;00000016{~00~}#004#001
+~00~#001
+|23
+@000529A8-000529C7-00-0C
+;00000000{You listen to the storyteller~00~}#033#030
+Escuchas al cuentista.       ~00~#030
+;0000001E{~00~}#004#001
+~00~#001
+;0000001F{~0B~}#004#001
+~0B~#001
+|32
+@000529CA-000529E6-00-0C
+;00000000{You listen to Zoolie.~00~}#025#022
+Escuchas a Zoolie.   ~00~#022
+;00000016{MORE~00~}#008#005
+MAS ~00~#005
+;0000001B{~00~}#004#001
+~00~#001
+;0000001C{~00~}#004#001
+~00~#001
+|29
+@000529EA-00052D02-00-0C
+;00000000{SELECT AN ITEM.~00~}#019#016
+ELIGE OBJETO.  ~00~#016
+;00000010{ CALL NIDDLER ~00~}#018#015
+LLAMA NIDDLER ~00~#015
+;0000001F{~00~}#004#001
+~00~#001
+;00000020{                        REN~0D~~0D~AGE      17.~0D~HEIGHT   5'7"~0D~WEIGHT   155 LBS.~0D~ADDRESS  ISLAND OF OCTOPON.~0D~PHRASE   'ALWAYS THE QUEST'~0D~~0D~LIKES    HONOR, TRUTH,~0D~         FRIENDS OF THE~0D~         QUEST, HIS SWORD.~0D~~0D~DISLIKES BLOTH AND HIS MEN,~0D~         THIEVES, INJUSTICE.~00~}#305#263
+                        REN~0D~~0D~EDAD     17~0D~ALTURA   170 CM~0D~PESO     70 KG.~0D~HOGAR    ISLA OCTOPON.~0D~FRASE    'SIEMPRE AVENTURA'~0D~~0D~LE GUSTA HONOR, VERDAD,~0D~         AMIGOS DE LA~0D~         AVENTURA, SU ESPADA.~0D~~0D~NO GUSTA BLOTH Y SUS HOMBRES,~0D~         LADRONES, INJUSTICIA.~00~#263
+;00000127{                        TULA~0D~~0D~AGE      18.~0D~HEIGHT   5'4"~0D~WEIGHT   110 LBS.~0D~ADDRESS  ANDORUS.~0D~PHRASE   'LETS NOT FIGHT.'~0D~~0D~LIKES    WELL PLANNED~0D~         STRATEGIES, REN'S~0D~         SENSE OF PURPOSE.~0D~~0D~DISLIKES THE DECAY OF ANDORUS~0D~         IOZ'S CHAUVINISM.~00~}#297#255
+                        TULA~0D~~0D~EDAD     18 ~0D~ALTURA   162 CM~0D~PESO     50 KG.~0D~HOGAR    ANDORUS.~0D~FRASE    'NO LUCHEMOS.'~0D~~0D~LE GUSTA ESTRATEGIAS BIEN~0D~         PLANEADAS, SENTIDO~0D~         PROPOSITO DE REN.~0D~~0D~NO GUSTA DECAER DE ANDORUS~0D~         CHOVINISMO DE IOZ.~00~#255
+;00000226{                        IOZ~0D~~0D~AGE      30.~0D~HEIGHT   6'4"~0D~WEIGHT   230 LBS.~0D~ADDRESS  ISLE OF TAYHOJ.~0D~PHRASE   'NOY JITAT.'~0D~~0D~LIKES    GOLD, TREASURE,~0D~         DRAGONBOW, A GOOD~0D~         SWORD FIGHT.~0D~~0D~DISLIKES INDEPENDANT WOMEN,~0D~         BLOTH.~00~}#283#241
+                        IOZ~0D~~0D~EDAD     30 ~0D~ALTURA   193 CM~0D~PESO     104 KG.~0D~HOGAR    ISLA TAYHOJ.~0D~FRASE    'NOY JITAT.'~0D~~0D~LE GUSTA ORO, TESOROS,~0D~         DRACOARCO,~0D~         LUCHA DE ESPADAS.~0D~~0D~NO GUSTA BLOTH Y MUJERES~0D~         INDEPENDIENTES.~00~#241
+;00000317{~00~}#004#001
+~00~#001
+;00000318{~00~}#004#001
+~00~#001
+|793
+@0006D4CC-0006D4E3-00-0C
+;00000000{Continue >~0D~~0D~End Game~00~}#030#021
+Continua >~0D~~0D~Fin     ~00~#021
+;00000015{~00~}#004#001
+~00~#001
+;00000016{F~FC~}#005#002
+F~FC~#002
+|24
+@0006DD14-0006DD33-00-0C
+;00000000{NuYour new level password is.~00~}#033#030
+NuTu nuevo password de nivel.~00~#030
+;0000001E{~00~}#004#001
+~00~#001
+;0000001F{~06~}#004#001
+~06~#001
+|32
+@0006DF78-0006E007-00-0C
+;00000000{Control choice~0D~~0D~   Attack~0D~~0D~   Jump~0D~~0D~   Use~0D~~0D~Password~0D~~0D~Exit~00~}#092#059
+Elige control~0D~~0D~  Atacar~0D~~0D~  Saltar~0D~~0D~  Usar~0D~~0D~Password~0D~~0D~Salir~00~#059
+;0000003B{On ~00~}#007#004
+Sí ~00~#004
+;0000003F{Off~00~}#007#004
+No ~00~#004
+;00000043{~00~}#004#001
+~00~#001
+;00000044{  A B C D E F G H~0D~~0D~  I J K L M N O P~0D~~0D~Q R S T U V W X Y Z~0D~~0D~      < END >~0D~~00~}#098#074
+  A B C D E F G H~0D~~0D~  I J K L M N O P~0D~~0D~Q R S T U V W X Y Z~0D~~0D~      < FIN >~0D~~00~#074
+;0000008E{G~F9~}#005#002
+G~F9~#002
+|144
+@00075D0E-00075EB2-00-0C
+;00000000{1994 Hanna-Barbera Productions, Inc.~0D~          All Rights Reserved.~0D~~0D~     The Pirates of Dark Water TM~0D~           is a trademark of~0D~             Hanna-Barbera~0D~           Productions, Inc.~0D~~0D~              Developed by~0D~      Iguana Entertainment, Inc.~0D~~0D~             Copyright 1994~0D~      Sun Corporation of America.~0D~~0D~    Licensed by Sega Enterprises, Ltd.~00~}#397#352
+1994 Hanna-Barbera Productions, Inc.~0D~ Todos los Derechos Reservados.~0D~~0D~     The Pirates of Dark Water TM~0D~            es una marca de~0D~             Hanna-Barbera~0D~          Producciones, Inc.~0D~~0D~          Desarrollado por~0D~      Iguana Entertainment, Inc.~0D~~0D~             Copyright 1994~0D~      Sun Corporation de América.~0D~~0D~    Licencia de Sega Enterprises, Ltd.~00~#352
+;00000160{  Pirates of Dark Water TM Created by~0D~            David Kirschner.~0D~~00~}#077#068
+  Pirates of Dark Water TM Creado por~0D~            David Kirschner.~0D~~00~#068
+;000001A4{~00~}#004#001
+~00~#001
+|421
+@001D0B5F-001D0BD3-00-0C
+;00000000{Success !~00~}#013#010
+¡Exito!  ~00~#010
+;0000000A{~09~As The Six Seals activate their magical powers leave the Dark Dweller trapped inside a shield of magic.~00~}#111#105
+~09~Al activarse los Seis Sellos sus poderes mágicos dejan al Oscuro atrapado dentro de un escudo de magia.~00~#105
+;00000073{~FF~~09~}#008#002
+~FF~~09~#002
+|117
+@001D0BD4-001D0C28-00-0C
+;00000000{With compass in hand, our heroes move closer as they prepare for their final task.~00~}#086#083
+Brújula en mano, nuestros héroes se acercan y se preparan para su tarea final.    ~00~#083
+;00000053{~FF~~08~}#008#002
+~FF~~08~#002
+|85
+@001D0C29-001D0CC3-00-0C
+;00000000{As they group together, the compass vibrates, pulling the immense energy from the Six Seals.~00~}#096#093
+Al agruparse, la brújula vibra, atrayendo una energía inmensa de los Seis Sellos.           ~00~#093
+;0000005D{~08~With one powerful release,the compass fires a single beam.~00~}#066#060
+~08~Con una poderosa liberación, la brújula dispara un rayo.  ~00~#060
+;00000099{~FF~~03~}#008#002
+~FF~~03~#002
+|155
+@001D0CC4-001D0D33-00-0C
+;00000000{The aim was good ! ~00~}#023#020
+¡Apuntaste bien!   ~00~#020
+;00000014{~0A~The Dark Dweller is hit and is made a prisoner within the magic shield of the Six Seals.~00~}#096#090
+~0A~El Morador Oscuro es golpeado y hecho prisionero en el escudo mágico de los Seis Sellos.~00~#090
+;0000006E{~FF~~07~}#008#002
+~FF~~07~#002
+|112
+@001D0D34-001D0DC4-00-0C
+;00000000{Our heroes set sail for distant shores, knowing the land of Mer is safe again.~00~}#082#079
+Los héroes zarpan a orillas distantes, sabiendo que Mer está a salvo de nuevo.~00~#079
+;0000004F{~04~   So ends the adventures of...~00~}#039#033
+~04~ Así acaban las aventuras de...~00~#033
+;00000070{~07~      Pirates of Dark Water.~00~}#036#030
+~07~     Piratas de Agua Oscura.~00~#030
+;0000008E{~02~ ~00~}#009#003
+~02~ ~00~#003
+|145
+@001D0DC6-001D0E2F-00-0C
+;00000000{The Pirates of Dark Water~FF~Team Iguana~FF~PROGRAMMING~00~}#059#050
+The Pirates of Dark Water~FF~Team Iguana~FF~ PROGRAMA  ~00~#050
+;00000032{David Crummack~FF~ADDITIONAL CODE~00~}#037#031
+David Crummack~FF~ CODIGO EXTRA  ~00~#031
+;00000051{Carl Wade~00~}#013#010
+Carl Wade~00~#010
+;0000005B{Brian Watson~00~}#016#013
+Brian Watson~00~#013
+;00000068{ ~00~}#005#002
+ ~00~#002
+|106
+@001D0E30-001D11FE-00-0C
+;00000000{ASSISTED BY~00~}#015#012
+AYUDADO POR~00~#012
+;0000000C{Dave Brevik~FF~PRODUCER~00~}#027#021
+Dave Brevik~FF~PRODUCE ~00~#021
+;00000021{Darrin Stubbington~FF~PRODUCTION MANAGEMENT~00~}#047#041
+Darrin Stubbington~FF~ GERENTE PRODUCCION  ~00~#041
+;0000004A{J Moon~00~}#010#007
+J Moon~00~#007
+;00000051{Pete Suarez~FF~EXECUTIVE PRODUCER~00~}#037#031
+Pete Suarez~FF~PRODUCTOR EJECUTIV~00~#031
+;00000070{Jeff Spangenberg~FF~PROJECT LEADERS~00~}#039#033
+Jeff Spangenberg~FF~JEFES PROYECTO ~00~#033
+;00000091{Nigel Cook~00~}#014#011
+Nigel Cook~00~#011
+;0000009C{Adrian Ludley~FF~ART DIRECTOR~00~}#033#027
+Adrian Ludley~FF~DIRECTOR ART~00~#027
+;000000B7{Matt Stubbington~FF~MUSIC~00~}#029#023
+Matt Stubbington~FF~MUSIC~00~#023
+;000000CE{Fox Productions~FF~GAME DESIGN~00~}#034#028
+Fox Productions~FF~DISENO JUEG~00~#028
+;000000EA{Nigel Cook~FF~OPENING SEQUENCE~00~}#034#028
+Nigel Cook~FF~SECUENCIA INICIO~00~#028
+;00000106{Adam McCarthy~00~}#017#014
+Adam McCarthy~00~#014
+;00000114{Bill Yeatts~00~}#015#012
+Bill Yeatts~00~#012
+;00000120{Matt Stubbington~FF~TITLE SCREEN~00~}#036#030
+Matt Stubbington~FF~PANTALLA TIT~00~#030
+;0000013E{Adrian Ludley~FF~HEROES + HEROINES~00~}#038#032
+Adrian Ludley~FF~HEROES Y HEROINAS~00~#032
+;0000015E{Jonathan Casco~00~}#018#015
+Jonathan Casco~00~#015
+;0000016D{Jools Watsham~00~}#017#014
+Jools Watsham~00~#014
+;0000017B{Adrian Ludley~00~}#017#014
+Adrian Ludley~00~#014
+;00000189{Matt Stubbington~FF~VILLAINS~00~}#032#026
+Matt Stubbington~FF~VILLANOS~00~#026
+;000001A3{Bill Yeatts~FF~WORLD MAP OF MER~00~}#035#029
+Bill Yeatts~FF~MAPAMUNDI DE MER~00~#029
+;000001C0{Mark Pitcher~00~}#016#013
+Mark Pitcher~00~#013
+;000001CD{Robbie Miller~FF~JUNGLE OF PANDAWA~00~}#038#032
+Robbie Miller~FF~JUNGLA DE PANDAWA~00~#032
+;000001ED{Adrian Ludley~FF~PORT OF PANDAWA~00~}#036#030
+Adrian Ludley~FF~PUERTO PANDAWA ~00~#030
+;0000020B{Adrian Ludley~00~}#017#014
+Adrian Ludley~00~#014
+;00000219{Jools Watsham~FF~CITADEL~00~}#028#022
+Jools Watsham~FF~CIUDADE~00~#022
+;0000022F{Matt Stubbington~FF~MOBO VILLAGE~00~}#036#030
+Matt Stubbington~FF~ ALDEA MOBO ~00~#030
+;0000024D{Adrian Ludley~00~}#017#014
+Adrian Ludley~00~#014
+;0000025B{Bill Yeatts~FF~BOBO MOUNTAIN~00~}#032#026
+Bill Yeatts~FF~MONTANA BOBO ~00~#026
+;00000275{Matt Stubbington~FF~CAVES OF ANDORUS~00~}#040#034
+Matt Stubbington~FF~ CUEVAS ANDORUS ~00~#034
+;00000297{Adrian Ludley~00~}#017#014
+Adrian Ludley~00~#014
+;000002A5{Jools Watsham~FF~TEMPLE OF ANDORUS~00~}#038#032
+Jools Watsham~FF~TEMPLO DE ANDORUS~00~#032
+;000002C5{Robbie Miller~00~}#017#014
+Robbie Miller~00~#014
+;000002D3{Mark Pitcher~FF~STORMY BRIDGE~00~}#033#027
+Mark Pitcher~FF~PUENTE STORMY~00~#027
+;000002EE{Adrian Ludley~FF~LOWER MAELSTROM DECKS~00~}#042#036
+Adrian Ludley~FF~CUBIERTAS INFERIORES ~00~#036
+;00000312{Jonathan Casco~00~}#018#015
+Jonathan Casco~00~#015
+;00000321{Bill Yeatts~FF~UPPER MAELSTROM DECKS~00~}#040#034
+Bill Yeatts~FF~CUBIERTAS SUPERIORES ~00~#034
+;00000343{Mark Pitcher~00~}#016#013
+Mark Pitcher~00~#013
+;00000350{Jools Watsham~FF~DARK DWELLERS CAVE~00~}#039#033
+Jools Watsham~FF~CUEVA MORADOR OSCU~00~#033
+;00000371{Adam McCarthy~00~}#017#014
+Adam McCarthy~00~#014
+;0000037F{Robbie Miller~FF~DARK DWELLER~00~}#033#027
+Robbie Miller~FF~MORADOR OSCU~00~#027
+;0000039A{Bill Yeatts~FF~END SEQUENCE~00~}#031#025
+Bill Yeatts~FF~ULTIMA SECUE~00~#025
+;000003B3{Bill Yeatts~00~}#015#012
+Bill Yeatts~00~#012
+;000003BF{Adam McCarthy~FF~ ~FF~}#022#016
+Adam McCarthy~FF~ ~FF~#016
+|975
+@001D11FF-001D1572-00-0C
+;00000000{Team Sunsoft~FF~EXECUTIVE PRODUCER~00~}#038#032
+Team Sunsoft~FF~PRODUCTOR EJECUTIV~00~#032
+;00000020{David Siller~FF~EXECUTIVE VICE PRESIDENT~00~}#044#038
+David Siller~FF~VICEPRESIDENTE EJECUTIVO~00~#038
+;00000046{LICENSING~00~}#013#010
+LICENCIAS~00~#010
+;00000050{Rita Zimmerer~FF~PRODUCER~00~}#029#023
+Rita Zimmerer~FF~PRODUCE ~00~#023
+;00000067{Dan MacArthur~FF~TECHNICAL MANAGER~00~}#038#032
+Dan MacArthur~FF~ GERENTE TECNICO ~00~#032
+;00000087{Al Artus~FF~CHAIRMAN~00~}#024#018
+Al Artus~FF~PRESIDEN~00~#018
+;00000099{Masami Maeda~FF~VICE CHAIRMAN~00~}#033#027
+Masami Maeda~FF~VICEPRESIDENT~00~#027
+;000000B4{Tad Shimamoto~FF~DIRECTOR, SUNSOFT JAPAN~00~}#044#038
+Tad Shimamoto~FF~DIRECTOR, SUNSOFT JAPON~00~#038
+;000000DA{Kiharu Yoshida~FF~MARKETING DIRECTOR~00~}#040#034
+Kiharu Yoshida~FF~DIRECTOR MARKETING~00~#034
+;000000FC{Karen Shadley~FF~DEBUGGING MANAGER~00~}#038#032
+Karen Shadley~FF~GERENTE DE DEBUG ~00~#032
+;0000011C{Sam Patel~FF~EXECUTIVE ASSISTANT~00~}#036#030
+Sam Patel~FF~ASISTENTE EJECUTIVO~00~#030
+;0000013A{Nanette Hyssong~FF~GAME PLAY MANUAL~00~}#039#033
+Nanette Hyssong~FF~  MANUAL JUEGO  ~00~#033
+;0000015B{Alison Quirion~FF~GAME TESTING~00~}#034#028
+Alison Quirion~FF~TESTEO JUEGO~00~#028
+;00000177{Darin Horgan~00~}#016#013
+Darin Horgan~00~#013
+;00000184{Mario Zavala~00~}#016#013
+Mario Zavala~00~#013
+;00000191{Rene Boutin~00~}#015#012
+Rene Boutin~00~#012
+;0000019D{Steve Rizor~FF~Milo Stubbington~00~}#035#029
+Steve Rizor~FF~Milo Stubbington~00~#029
+;000001BA{Paul Z. Suarez~00~}#018#015
+Paul Z. Suarez~00~#015
+;000001C9{Shawn Barney~00~}#016#013
+Shawn Barney~00~#013
+;000001D6{Justin Siller~FF~CUSTOMER SERVICE~00~}#037#031
+Justin Siller~FF~SERVICIO CLIENTE~00~#031
+;000001F5{Kaz Harman~00~}#014#011
+Kaz Harman~00~#011
+;00000200{June Eckert~00~}#015#012
+June Eckert~00~#012
+;0000020C{Julie Williams~FF~Jamie Jorgensen~00~}#037#031
+Julie Williams~FF~Jamie Jorgensen~00~#031
+;0000022B{Erin Berry~00~}#014#011
+Erin Berry~00~#011
+;00000236{Dawn Phillips~FF~SPECIAL THANKS TO~00~}#038#032
+Dawn Phillips~FF~MUCHAS GRACIAS A ~00~#032
+;00000256{Bruce Reilly~00~}#016#013
+Bruce Reilly~00~#013
+;00000263{Cathy Juby~00~}#014#011
+Cathy Juby~00~#011
+;0000026E{Mark Luszsz~00~}#015#012
+Mark Luszsz~00~#012
+;0000027A{Toko Okano~FF~Milo Stubbington~00~}#034#028
+Toko Okano~FF~Milo Stubbington~00~#028
+;00000296{Connie Perez~00~}#016#013
+Connie Perez~00~#013
+;000002A3{Steve Gehrke~00~}#016#013
+Steve Gehrke~00~#013
+;000002B0{Kazuaki Goto~FF~SPECIAL THANKS TO~00~}#037#031
+Kazuaki Goto~FF~MUCHAS GRACIAS A ~00~#031
+;000002CF{Masato Kawai~00~}#016#013
+Masato Kawai~00~#013
+;000002DC{Geoff Gillis~00~}#016#013
+Geoff Gillis~00~#013
+;000002E9{Tom Juarez~00~}#014#011
+Tom Juarez~00~#011
+;000002F4{Karen Lillie~FF~Akito Takeuchi~00~}#034#028
+Karen Lillie~FF~Akito Takeuchi~00~#028
+;00000310{Sherry Ross~00~}#015#012
+Sherry Ross~00~#012
+;0000031C{Jaupale Laster~00~}#018#015
+Jaupale Laster~00~#015
+;0000032B{Michelle Carlton~00~}#020#017
+Michelle Carlton~00~#017
+;0000033C{Kenji Yoshioka~FF~VERY SPECIAL THANKS TO~00~}#044#038
+Kenji Yoshioka~FF~GRACIAS MUY ESPECIALES~00~#038
+;00000362{David Kirschner~FF~ ~FF~}#024#018
+David Kirschner~FF~ ~FF~#018
+|884
+@001D1573-001D1593-00-0C
+;00000000{Thank you for Playing~00~}#025#022
+Gracias por Jugar a  ~00~#022
+;00000016{Sunsofts~00~}#012#009
+Sunsoft ~00~#009
+;0000001F{ ~00~}#005#002
+ ~00~#002
+|33
+@001D1594-001D15AB-00-0C
+;00000000{PIRATES OF DARK WATER~FF~ ~FF~}#030#024
+PIRATES OF DARK WATER~FF~ ~FF~#024
+|24

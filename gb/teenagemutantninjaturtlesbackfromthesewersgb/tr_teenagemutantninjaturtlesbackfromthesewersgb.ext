@@ -1,0 +1,61 @@
+@0001BE71-0001BF0A-FF
+;00000000{turtles power~FF~}#017#014
+turtles power~FF~#014
+;0000000E{down town    ~FF~}#017#014
+down town    ~FF~#014
+;0000001C{tension      ~FF~}#017#014
+tension      ~FF~#014
+;0000002A{bump me      ~FF~}#017#014
+bump me      ~FF~#014
+;00000038{battle field ~FF~}#017#014
+battle field ~FF~#014
+;00000046{shell down   ~FF~}#017#014
+shell down   ~FF~#014
+;00000054{shell shock  ~FF~}#017#014
+shell shock  ~FF~#014
+;00000062{dead end     ~FF~}#017#014
+dead end     ~FF~#014
+;00000070{last fight   ~FF~}#017#014
+last fight   ~FF~#014
+;0000007E{cowabunga    ~FF~}#017#014
+cowabunga    ~FF~#014
+;0000008C{pizza time   ~FF~}#017#014
+pizza time   ~FF~#014
+|154
+@0001BF0D-0001BF4D-FF
+;00000000{easy  ~FF~}#010#007
+fácil ~FF~#007
+;00000007{~C6~~98~normal~FF~}#018#009
+~C6~~98~normal~FF~#009
+;00000010{~C6~~98~hard  ~FF~}#018#009
+~C6~~98~duro  ~FF~#009
+;00000019{R~99~Q~FE~f~99~~61~jump ~62~attack~FF~}#038#020
+R~99~Q~FE~f~99~~61~bota ~62~ataca ~FF~#020
+;0000002D{R~99~R~FE~f~99~~61~attack ~62~jump~FF~}#038#020
+R~99~R~FE~f~99~~61~ataca  ~62~bota~FF~#020
+|65
+@000358C1-00035969-FF
+;00000000{teenage mutant ninja~FE~~60~~98~turtles~72~ is a~FE~~80~~98~registered trademark~FE~~A0~~98~of mirage studiosL~FE~~C0~~98~usaN~FE~=~99~~63~QYYQ mirage studios~FE~ ~99~Lusa~FE~~60~~99~exclusively licensed~FE~~80~~99~by surge licensing~FE~~A0~~99~incN~FF~}#253#169
+teenage mutant ninja~FE~~60~~98~
+turtles~72~ es  ~FE~~80~~98~
+una marca registrada~FE~~A0~~98~
+de mirage studiosL~FE~~C0~~98~usaN~FE~=~99~~63~QYYQ mirage studios~FE~ ~99~Lusa~FE~~60~~99~
+licencia exclusiva  ~FE~~80~~99~
+de surge licensing~FE~~A0~~99~incN~FF~#169
+|169
+@00036FF1-00036FF8-FF
+;00000000{:LEVEL~03~=}#011#008
+:NIVEL~03~=#008
+|8
+@0003701F-0003702D-FF
+;00000000{:TRIGGER=TYPE~0E~=}#018#015
+:TIPO=BOTONES~0E~=#015
+|15
+@0003704F-00037058-FF
+;00000000{:BGM=TEST=}#010#010
+:MÚSICA===#010
+|10
+@00037063-00037072-FF
+;00000000{:TURTLES=POWER~0D~=}#019#016
+:TURTLES=POWER~0D~=#016
+|16

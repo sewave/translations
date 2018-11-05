@@ -1,0 +1,74 @@
+@00000009-00000030-00
+;00000009{MONACO GP9/15 -1983 VERSION 1.0 24K~00~}#039#036
+MONACO GP9/15 -1983 VERSION 1.0 24K~00~#036
+;0000002D{~00~}#004#001
+~00~#001
+;0000002E{~00~}#004#001
+~00~#001
+;0000002F{~00~}#004#001
+~00~#001
+;00000030{~00~}#004#001
+~00~#001
+|40
+@0000003B-00000063-00
+;0000003B{ PROGRAMED BY Y.KAWAMURA & M.KIDOOKA~00~}#040#037
+ PROGRAMED BY Y.KAWAMURA & M.KIDOOKA~00~#037
+;00000060{~00~}#004#001
+~00~#001
+;00000061{~00~}#004#001
+~00~#001
+;00000062{~00~}#004#001
+~00~#001
+;00000063{~00~}#004#001
+~00~#001
+|41
+@00000382-000003B0-00
+;00000382{GAME DIFFICULTY LEVEL  1LEVEL  2LEVEL  3??~1F~~0F~!N~C2~}#056#047
+GAME DIFFICULTY LEVEL  1LEVEL  2LEVEL  3??~1F~~0F~!N~C2~#047
+|47
+@00001214-00001221-00
+;00001214{GAME OVER~06~~05~~FD~!~40~}#026#014
+GAME OVER~06~~05~~FD~!~40~#014
+|14
+@00001F78-00002032-00
+;00001F78{GAME  OVERINDIVIDUAL GAME STARTPUSH J~7C~STICK RIGHT BUTTONORPUSH HOMEfCLR KEYCONTINUOUS GAME STARTPUSH J~7C~STICK LEFT BUTTONPUSH INSfDEL KEYGAME STARTPUSH J~7C~STICK BUTTONORPUSH INSfDEL KEY~11~~A7~8~CD~}#205#187
+GAME  OVERINDIVIDUAL GAME STARTPUSH J~7C~STICK RIGHT BUTTONORPUSH HOMEfCLR KEYCONTINUOUS GAME STARTPUSH J~7C~STICK LEFT BUTTONPUSH INSfDEL KEYGAME STARTPUSH J~7C~STICK BUTTONORPUSH INSfDEL KEY~11~~A7~8~CD~#187
+|187
+@000022AD-000022F4-00
+;000022AD{CONGRATULATIONS ~F6~I HAVE NO MORE PURSEeYOUR SCORE IS 999999 POINTSe:~01~~C2~~FE~~04~~D0~}#090#072
+CONGRATULATIONS ~F6~I HAVE NO MORE PURSEeYOUR SCORE IS 999999 POINTSe:~01~~C2~~FE~~04~~D0~#072
+|72
+@00002453-00002464-00
+;00002453{FREE   PLAY :P~C2~~CB~G~CA~}#027#018
+FREE   PLAY :P~C2~~CB~G~CA~#018
+|18
+@000040F1-000040FF-00
+;000040F1{ GAME OVER ~00~}#015#012
+ GAME OVER ~00~#012
+;000040FD{**~C0~}#006#003
+**~C0~#003
+|15
+@00004643-0000464C-00
+;00004643{HUNTER=~00~}#011#008
+HUNTER=~00~#008
+;0000464B{:~13~}#005#002
+:~13~#002
+|10
+@00004D78-00004D88-00
+;00004D78{ NEXT ROUND ~00~}#016#013
+ NEXT ROUND ~00~#013
+;00004D85{~06~~03~~CD~~C3~}#016#004
+~06~~03~~CD~~C3~#004
+|17
+@0000539D-000053A7-00
+;0000539D{ROUND=~00~}#010#007
+ROUND=~00~#007
+;000053A4{~CD~~C6~~03~~CD~}#016#004
+~CD~~C6~~03~~CD~#004
+|11
+@00005563-00005867-00
+;00005563{.,,-,,-,-,-,----,-,-,-,-,--,-,-/+                              (+            PLAY              )+                              (*        SAFARI HUNTING        (*                              (*                              (*      ANIMAL 20<50 POINTS     (*                              )*      FUEL UP   60 POINTS     (*                              )*    NEXT ROUND 400 POINTS     )+                              (+                              )+                              (+     PUSH J<STICK BUTTON      (*                              (*             OR               (+                              )*       PUSH INS<DEL KEY       (*                              )+                              (*               ~3B~ SEGA 1983    ).%%&%%&&&&%&%&&&%%&&%&%&&&%&%&%/~00~}#775#769
+.,,-,,-,-,-,----,-,-,-,-,--,-,-/+                              (+            PLAY              )+                              (*        SAFARI HUNTING        (*                              (*                              (*      ANIMAL 20<50 POINTS     (*                              )*      FUEL UP   60 POINTS     (*                              )*    NEXT ROUND 400 POINTS     )+                              (+                              )+                              (+     PUSH J<STICK BUTTON      (*                              (*             OR               (+                              )*       PUSH INS<DEL KEY       (*                              )+                              (*               ~3B~ SEGA 1983    ).%%&%%&&&&%&%&&&%%&&%&%&&&%&%&%/~00~#769
+;00005864{~C9~~CD~~D8~~15~}#016#004
+~C9~~CD~~D8~~15~#004
+|773

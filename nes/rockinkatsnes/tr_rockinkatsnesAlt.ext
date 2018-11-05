@@ -1,0 +1,201 @@
+@00009D0F-00009D12-F4
+;00009D0F{END }#004#004
+FIN #004
+|4
+@0000AC21-0000AC2B-F4
+;0000AC21{CHANNEL-   }#011#011
+  CANAL-   #011
+|11
+@0000B339-0000B340-F4
+;0000B339{>YES  NO}#008#008
+>Sí   No#008
+|8
+@0000D590-0000D599-F4
+;0000D590{ roulette }#010#010
+ Ruleta   #010
+|10
+@0000D5C6-0000D5CF-F4
+;0000D5C6{ basketba{ll}}#013#010
+ Basket   #010
+|10
+@0000D5FC-0000D605-F4
+;0000D5FC{ pipe toss}#010#010
+ Tira Tubo#010
+|10
+@0000D64F-0000D93D-F4
+;0000D64F{  `DOWNTOWN=     STREET´~F4~}#028#025
+  `Calle de=  Suburbios´~F4~#025
+;0000D668{  `SKY ACE´~F4~}#015#012
+ `As Aéreo´~F4~#012
+;0000D674{  `PLAYLAND´~F4~}#016#013
+ `JuegaLand´~F4~#013
+;0000D681{  `WESTERN=   ADVENTURE´~F4~}#028#025
+  `Aventura=  del Oeste´~F4~#025
+;0000D69A{  `I LOVE=   NEW YORK!´~F4~}#027#024
+ `¡Te amo= Nueva York!´~F4~#024
+;0000D6B2{WHICH CHANNEL=WILL YOU=CHOOSE?~F4~}#034#031
+¿Qué canal vas=a elegir?      ~F4~#031
+;0000D6D1{IS THIS=CHANNEL OKAY?~F5~~F4~}#029#023
+¿Este canal te=sirve?~F5~~F4~#023
+;0000D6E8{DO YOU WANT=TO CONTINUE?~F5~~F4~}#032#026
+¿Quieres=continuar?     ~F5~~F4~#026
+;0000D702{  FINISHED=  AIRING.~F4~}#024#021
+  Emisión=  acabada.~F4~#021
+;0000D717{THIS CHANNEL=HAS NOT BEEN=AIRED YET.~F4~}#040#037
+Este canal aún=no ha salido=al aire.~F4~#037
+;0000D73C{YOU CANNOT=CHOOSE THIS=CHANNEL YET.~F4~}#039#036
+Aún no puedes=elegir este=canal.   ~F4~#036
+;0000D760{`BONUS STAGE´=WHICH GAME DO=YOU WANT?~F4~}#041#038
+`Etapa Bonos´=¿Qué juego=quieres?    ~F4~#038
+;0000D786{IS THIS=ALL RIGHT?~F5~~F4~}#026#020
+¿Es esto=correcto?~F5~~F4~#020
+;0000D79A{HOW ABOUT THE=OTHER GAMES?~F4~}#030#027
+¿Y los otros=juegos?      ~F4~#027
+;0000D7B5{YOU DO NOT=HAVE ENOUGH=MONEY.~F4~}#033#030
+No tienes=suficiente=dinero. ~F4~#030
+;0000D7D3{`SHOP CHANNEL´=WHAT DO YOU=WANT TO BUY?~F4~}#043#040
+`Canal Tienda´=¿Qué quieres=comprar?   ~F4~#040
+;0000D7FB{THIS IS A=BOMBER!~F4~}#021#018
+¡Un=Bombardero!  ~F4~#018
+;0000D80D{THIS SHOOTS=TWIN BALLS!~F4~}#027#024
+¡Dispara Bolas=Dobles! ~F4~#024
+;0000D825{THIS IS A=HAMMER PUNCH!~F4~}#027#024
+¡Es un Puño=Martillo!  ~F4~#024
+;0000D83D{THESE ARE JET=SNEAKERS!~F4~}#027#024
+¡Son=Zapatillas=Jet!   ~F4~#024
+;0000D855{ONE UP!~F4~}#011#008
+¡Vida! ~F4~#008
+;0000D85D{SORRY THIS=ITEM IS SOLD=OUT.~F4~}#032#029
+Perdón,este=objeto se=agotó.~F4~#029
+;0000D87A{OKAY, DO YOU=WANT ANYTHING=ELSE?~F4~}#036#033
+Vale, ¿quieres=alguna cosa=más? ~F4~#033
+;0000D89B{THANK YOU!~F4~}#014#011
+¡Gracias! ~F4~#011
+;0000D8A6{PLEASE KEEP A=MEMO OF YOUR=PASSWORD.~F4~}#040#037
+Por favor=apúntate tu=PASSWORD.     ~F4~#037
+;0000D8CB{enter password~F4~}#018#015
+Entra password~F4~#015
+;0000D8DA{password is wrong~F4~}#021#018
+Password erróneo ~F4~#018
+;0000D8EC{                =                =                ~F4~}#054#051
+                =                =                ~F4~#051
+;0000D91F{                 ~F4~}#021#018
+                 ~F4~#018
+;0000D931{ROCKIN' KATS~F4~}#016#013
+ROCKIN' KATS~F4~#013
+|751
+@0001B9EA-0001BCE1-F4
+;0001B9EA{HELP ME=Willy!~F4~}#018#015
+¡Ayuda =Willy!~F4~#015
+;0001B9F9{WAIT!=I'M COMING AS=FAST AS I CAN~F4~}#037#034
+¡Eh! =Voy tan rápido=como puedo. ~F4~#034
+;0001BA1B{HEY Willy! I=WILL NOT GIVE=JILL TO YOU!~F3~I'LL GIVE YOU=SOME OF MY=HEAVY SOUND!~F3~HIT IT=BULL-BAND!~F4~}#105#096
+¡Eh Willy!    =¡No te daré a=Jill!     ~F3~
+¡Te daré algo=de mi sonido=pesado!   ~F3~
+¡Dale=Banda-Bull!~F4~#096
+;0001BA7B{¡JaJaJa!   =THIS IS THE=END FOR YOU!~F3~MY POWERFUL=MACHINE IS=COMING!~F4~}#074#068
+¡JaJaJa!   =¡Este es tu=final!     ~F3~
+¡Mi poderosa=máquina se=acerca!~F4~#068
+;0001BABF{¡JaJaJa!   =IT'S TIME FOR=SOME MORE FUN~F3~CLOWN-DOG=SHOW TIME=CLAP! CLAP!~F4~}#078#072
+¡JaJaJa! =Es hora de más=diversión.~F3~
+Hora de=Perro-Payaso.=¡Plas! ¡Plas!~F4~#072
+;0001BB07{¡JaJaJa!   =I'M GLAD YOU=CAME HERE!~F3~YOU CAN PLAY=WITH MY PET,=BIG EAGLE!~F4~}#079#073
+¡JaJaJa!  =¡Me alegra que=vinieras!~F3~
+¡Juega con mi=mascota,=Gran Águila! ~F4~#073
+;0001BB50{    Willy, YOU ARE=    VERY PERSISTENT=    BUT I WILL NOT=    RELEASE JILL!~F4~}#079#076
+    Willy, ¡eres muy=    perseverante,=    pero no liberaré=    a Jill!    ~F4~#076
+;0001BB9C{THIS WILL BE THE END=FOR YOU Willy!=MEET MY GUARD MR.KONG!~F4~}#062#059
+¡Este será tu final=Willy!=¡Conoce a mi guardia=Sr.Kong!  ~F4~#059
+;0001BBD7{Willy, THIS=TIME I WILL=FIGHT!COME ON~F4~}#041#038
+Willy, ¡esta=vez lucharé!=Vamos.     ~F4~#038
+;0001BBFD{THANK YOU=Willy,=I LOVE YOU!~F4~}#032#029
+Gracias Willy,=¡te quiero!  ~F4~#029
+;0001BC1A{I ONLY DID=WHAT I HAD TO=DO.~F4~}#032#029
+Sólo hice lo =que debía.    ~F4~#029
+;0001BC37{LET'S GET OUT=OF HERE!~F4~}#026#023
+¡Larguémonos=de aquí! ~F4~#023
+;0001BC4E{DON'T DO THAT=I'M=EMBARRASSED!~F4~}#034#031
+¡No hagas eso=me da=vergüenza!~F4~#031
+;0001BC6D{LET'S GO BACK=TO NEW YORK!~F4~}#030#027
+¡Volvamos a=Nueva York!   ~F4~#027
+;0001BC88{  HEY PUNK!=  I'LL GET YOU YET!\Willy, LET'S FIGHT=ONE MORE ROUND!=I GOT MONEY AND ITEMS!~F4~}#093#090
+  ¡Eh Punky!=  ¡Te atraparé!   \Willy, ¡luchemos=una ronda más!   =¡Tengo dinero e items!~F4~#090
+|760
+@0001BCE2-0001BDA3-F4
+;0001BCE2{                ~F4~}#020#017
+                ~F4~#017
+;0001BCF3{     PUNCH\~F4~}#015#012
+      Puño\~F4~#012
+;0001BCFF{      JUMP\~F4~}#015#012
+     Salto\~F4~#012
+;0001BD0B{  PUNCH'N JUMP\~F4~}#019#016
+  Salto y Puño\~F4~#016
+;0001BD1B{  SMASH ATTACK\~F4~}#019#016
+Ataque Aplasta\~F4~#016
+;0001BD2B{  SPIN ATTACK\~F4~}#018#015
+  Ataque Giro\~F4~#015
+;0001BD3A{   SPIN JUMP\~F4~}#017#014
+  Salto Giro\~F4~#014
+;0001BD48{CATCH AND THROW\~F4~}#020#017
+ Atrapa y Lanza\~F4~#017
+;0001BD59{     BOMBER\~F4~}#016#013
+     Bombas\~F4~#013
+;0001BD66{   TWIN BALLS\~F4~}#018#015
+   Bola Doble\~F4~#015
+;0001BD75{  HAMMER PUNCH\~F4~}#019#016
+ Puño Martillo\~F4~#016
+;0001BD85{  JET SNEAKERS\~F4~}#019#016
+Zapatillas Jet\~F4~#016
+;0001BD95{`ROCKIN' KATS´~F4~}#018#015
+`ROCKIN' KATS´~F4~#015
+|194
+@0001BDA4-0001BF1C-F4
+;0001BDA4{STAFF~F4~}#009#006
+STAFF~F4~#006
+;0001BDAA{   PLANNER~F4~}#014#011
+    Planes~F4~#011
+;0001BDB5{ = H.KUBOTA~F4~}#015#012
+ = H.KUBOTA~F4~#012
+;0001BDC1{  PROGRAMER~F4~}#015#012
+   Programa~F4~#012
+;0001BDCD{ =  M.SATOH~F4~}#015#012
+ =  M.SATOH~F4~#012
+;0001BDD9{  GRAPHIC=  DESIGNER~F4~}#024#021
+  Diseño =  Gráfico ~F4~#021
+;0001BDEE{ =  S.SATOH~F4~}#015#012
+ =  S.SATOH~F4~#012
+;0001BDFA{  PROGRAMER~F4~}#015#012
+   Programa~F4~#012
+;0001BE06{ =  H.TAKAGI~F4~}#016#013
+ =  H.TAKAGI~F4~#013
+;0001BE13{    SOUND~F4~}#013#010
+   Sonido~F4~#010
+;0001BE1D{ =   MACCO~F4~}#014#011
+ =   MACCO~F4~#011
+;0001BE28{THE ORIGINAL=    PLAN~F4~}#025#022
+  El Plan=  Original ~F4~#022
+;0001BE3E{ YOKOYAMA= KANEKO= YAMAGISO~F4~}#031#028
+ YOKOYAMA= KANEKO= YAMAGISO~F4~#028
+;0001BE5A{ SUPERVISION~F4~}#016#013
+ Supervisión~F4~#013
+;0001BE67{   NIINO=   AIHARA=   OKADA~F4~}#031#028
+   NIINO=   AIHARA=   OKADA~F4~#028
+;0001BE83{   SPECIAL=   THANKS~F4~}#024#021
+    MUCHAS=  GRACIAS~F4~#021
+;0001BE98{Mr.YAMAMOTO=Mr.HUNT~F4~}#023#020
+Sr.YAMAMOTO=Sr.HUNT~F4~#020
+;0001BEAC{  REGULATOR~F4~}#015#012
+  Regulador~F4~#012
+;0001BEB8{   IWATA=   DOKU~07~~09~~F4~}#028#019
+   IWATA=   DOKU~07~~09~~F4~#019
+;0001BECB{  REGULATOR~F4~}#015#012
+  Regulador~F4~#012
+;0001BED7{ ITOH= MATSUYAMA= NAOTO~F4~}#027#024
+ ITOH= MATSUYAMA= NAOTO~F4~#024
+;0001BEEF{  DEBUGGER~F4~}#014#011
+  Debugger~F4~#011
+;0001BEFA{ SUEYOSHI= SAITOH= TSUKAMOTO~F4~}#032#029
+ SUEYOSHI= SAITOH= TSUKAMOTO~F4~#029
+;0001BF17{ATLUS~F4~}#009#006
+ATLUS~F4~#006
+|377

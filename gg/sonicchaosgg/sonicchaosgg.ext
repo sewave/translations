@@ -1,0 +1,56 @@
+@00000089-0000008D-FF
+;00000089{ERROR}#005#005
+ERROR#005
+|5
+@000000C0-000000FF-FF
+;000000C0{GG SONIC~A5~CHAOS    < Ver1.00 >   1993/09/01 {(C)}SEGA/Aspect Co.,Ltd }#071#064
+GG SONIC~A5~CHAOS    < Ver1.00 >   1993/09/01 {(C)}SEGA/Aspect Co.,Ltd #064
+|64
+@0000098A-00000B05-FF
+;0000098A{  - ZONE SELECT -                     TURQUOISE     ACT-1 HILL    ZONE ACT-2              ACT-3GIGAPOLIS     ACT-1         ZONE ACT-2              ACT-3SLEEPING EGG  ACT-1         ZONE ACT-2              ACT-3MECHA GREEN   ACT-1 HILL    ZONE ACT-2              ACT-3AQUA PLANET   ACT-1         ZONE ACT-2              ACT-3ELECTRIC EGG  ACT-1         ZONE ACT-2              ACT-3}#380#380
+  - ZONE SELECT -                     TURQUOISE     ACT-1 HILL    ZONE ACT-2              ACT-3GIGAPOLIS     ACT-1         ZONE ACT-2              ACT-3SLEEPING EGG  ACT-1         ZONE ACT-2              ACT-3MECHA GREEN   ACT-1 HILL    ZONE ACT-2              ACT-3AQUA PLANET   ACT-1         ZONE ACT-2              ACT-3ELECTRIC EGG  ACT-1         ZONE ACT-2              ACT-3#380
+|380
+@00000B2F-00000B3C-FF
+;00000B2F{- SOUND TEST -}#014#014
+- SOUND TEST -#014
+|14
+@00000B50-00000B59-FF
+;00000B50{SOUND CODE}#010#010
+SOUND CODE#010
+|10
+@00000C5E-00000C61-FF
+;00000C5E{EXIT}#004#004
+EXIT#004
+|4
+@0006A8B3-0006AAD5-FF-01
+;0006A8B3{    CAST    =   SONIC    =MILES PROWER\=  ROBOTNIK  =            ~01~}#069#066
+    CAST    =   SONIC    =MILES PROWER\=  ROBOTNIK  =            ~01~#066
+;0006A8F5{GAME DESIGN =  M.SHIMA   =    RAY     =   500ZO    =            ~01~}#068#065
+GAME DESIGN =  M.SHIMA   =    RAY     =   500ZO    =            ~01~#065
+;0006A936{    ART     =7LY.BIGKING \=    GEN$    =  NOBURIN   \=    EAST    =            ~01~}#083#080
+    ART     =7LY.BIGKING \=    GEN$    =  NOBURIN   \=    EAST    =            ~01~#080
+;0006A986{   SOUND    =    MIX     =NAGAO N.GEE =            ~01~}#055#052
+   SOUND    =    MIX     =NAGAO N.GEE =            ~01~#052
+;0006A9BA{PROGRAMMING \=    KOKO    \=  HIRO 777  \=  TOSHIYAN  =  TOMOYAN   =            ~01~}#084#081
+PROGRAMMING \=    KOKO    \=  HIRO 777  \=  TOSHIYAN  =  TOMOYAN   =            ~01~#081
+;0006AA0B{ THANKS TO  \=   HITMEN   \=  THE HASE  \=   KENSAN   =   GADAI    =  MIKARIN   =    LLG     =    J.S     \=   K.DASH   \=   HASUWO   =YOKOYAMASAN \=   TOMOZO   =  AND YOU.  ==~01~}#180#177
+ THANKS TO  \=   HITMEN   \=  THE HASE  \=   KENSAN   =   GADAI    =  MIKARIN   =    LLG     =    J.S     \=   K.DASH   \=   HASUWO   =YOKOYAMASAN \=   TOMOZO   =  AND YOU.  ==~01~#177
+;0006AABC{            =            ~FF~}#029#026
+            =            ~FF~#026
+|547
+@00072DF7-00072FF0-FF-01
+;00072DF7{    CAST   =   SONIC   =MILES POWER\=  ROBOTNIK =           ~01~}#064#061
+    CAST   =   SONIC   =MILES POWER\=  ROBOTNIK =           ~01~#061
+;00072E34{GAME DESIGN=  M.SHIMA  =    RAY    =   500ZO   =           ~01~}#063#060
+GAME DESIGN=  M.SHIMA  =    RAY    =   500ZO   =           ~01~#060
+;00072E70{    ART    =7LY.BIGKING=    GEN    =  NOBURIN  \=    EAST   =           ~01~}#076#073
+    ART    =7LY.BIGKING=    GEN    =  NOBURIN  \=    EAST   =           ~01~#073
+;00072EB9{   SOUND   =    MIX    =NAGAO N.GEE=           ~01~}#051#048
+   SOUND   =    MIX    =NAGAO N.GEE=           ~01~#048
+;00072EE9{  PROGRAM  \=    KOKO   \=  HIRO 777 \=  FUJIYAMA =  TOMOYAN  =           ~01~}#078#075
+  PROGRAM  \=    KOKO   \=  HIRO 777 \=  FUJIYAMA =  TOMOYAN  =           ~01~#075
+;00072F34{ THANKS TO \=   HITMEN  \=  THE HASE \=   KENSAN  =   GADAI   =  MIKARIN  =    LLG    =    J.S    \=   K.DASH  \=   HASUWO  =YOKOYAMASAN\=   TOMOZO  =  AND YOU. ===~01~}#168#165
+ THANKS TO \=   HITMEN  \=  THE HASE \=   KENSAN  =   GADAI   =  MIKARIN  =    LLG    =    J.S    \=   K.DASH  \=   HASUWO  =YOKOYAMASAN\=   TOMOZO  =  AND YOU. ===~01~#165
+;00072FD9{           =           ~FF~}#027#024
+           =           ~FF~#024
+|506

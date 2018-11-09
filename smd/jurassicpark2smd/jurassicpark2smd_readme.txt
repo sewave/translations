@@ -1,10 +1,11 @@
 Jurassic Park 2 - The Lost World (Mega Drive)
-Traducción al Español v1.0 (25/10/2018)
+Traducción al Español v1.1 (08/11/2018)
 (C) 2018 Wave Translations
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
+v1.1: Corrección del final y un par de textos.
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com

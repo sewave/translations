@@ -1,0 +1,184 @@
+@00000100-000001A4-FF
+;00000100{SEGA GENESIS    (C)VRGN 1992.JANCHUCK ROCK                                      CHUCK ROCK                                      GM T-70036 -00~1F~JJ               ~00~~00~~00~~00~~00~}#183#165
+SEGA GENESIS    (C)VRGN 1992.JANCHUCK ROCK                                      CHUCK ROCK                                      GM T-70036 -00~1F~JJ               ~00~~00~~00~~00~~00~#165
+|165
+@0000B3CE-0000B3D6-FF
+;0000B3CE{DARn~00~~40~~B2~n~00~}#021#009
+DARn~00~~40~~B2~n~00~#009
+|9
+@0001EFCA-0001EFE3-FF
+;0001EFCA{Nupress start~FF~}#017#014
+Nupress start~FF~#014
+;0001EFD8{           ~FF~}#015#012
+           ~FF~#012
+|26
+@0001EFE4-0001F055-FF
+;0001EFE4{start game!~FF~}#015#012
+start game!~FF~#012
+;0001EFF0{ options  ~FF~}#014#011
+ options  ~FF~#011
+;0001EFFB{ game music on   ~FF~}#021#018
+ game music on   ~FF~#018
+;0001F00D{sound effects on ~FF~}#021#018
+sound effects on ~FF~#018
+;0001F01F{   start game   ~FF~}#020#017
+   start game   ~FF~#017
+;0001F030{ game music off  ~FF~}#021#018
+ game music off  ~FF~#018
+;0001F042{sound effects off~FF~}#021#018
+sound effects off~FF~#018
+;0001F054{A~FA~}#005#002
+A~FA~#002
+|114
+@000206F5-0002074A-FF
+;000206F5{&one  ~FF~}#010#007
+&one  ~FF~#007
+;000206FC{two  ~FF~}#009#006
+two  ~FF~#006
+;00020702{three~FF~}#009#006
+three~FF~#006
+;00020708{four ~FF~}#009#006
+four ~FF~#006
+;0002070E{five ~FF~}#009#006
+five ~FF~#006
+;00020714{six  ~FF~}#009#006
+six  ~FF~#006
+;0002071A{seven~FF~}#009#006
+seven~FF~#006
+;00020720{eight~FF~}#009#006
+eight~FF~#006
+;00020726{nine ~FF~}#009#006
+nine ~FF~#006
+;0002072C{game over.~FF~}#014#011
+game over.~FF~#011
+;00020737{continue... nine~FF~}#020#017
+continue... nine~FF~#017
+;00020748{~0C~y~01~}#009#003
+~0C~y~01~#003
+|86
+@0002092C-0002098D-FF
+;0002092C{level one clear~FF~}#019#016
+level one clear~FF~#016
+;0002093C{level two clear~FF~}#019#016
+level two clear~FF~#016
+;0002094C{level three clear~FF~}#021#018
+level three clear~FF~#018
+;0002095E{level four clear~FF~}#020#017
+level four clear~FF~#017
+;0002096F{level five clear~FF~}#020#017
+level five clear~FF~#017
+;00020980{get ready !~FF~}#015#012
+get ready !~FF~#012
+;0002098C{N~BA~}#005#002
+N~BA~#002
+|98
+@00020B9B-00020C49-FF
+;00020B9B{congratulations!~FF~}#020#017
+congratulations!~FF~#017
+;00020BAC{~FF~}#004#001
+~FF~#001
+;00020BAD{gary is crushed..... i guess~FF~}#032#029
+gary is crushed..... i guess~FF~#029
+;00020BCA{he never had the stomach for it.~FF~}#036#033
+he never had the stomach for it.~FF~#033
+;00020BEB{chuck can not wait to get home and out~FF~}#042#039
+chuck can not wait to get home and out~FF~#039
+;00020C12{of his leaves... and take a well~FF~}#036#033
+of his leaves... and take a well~FF~#033
+;00020C33{deserved vacation.~FF~}#022#019
+deserved vacation.~FF~#019
+;00020C46{~FF~}#004#001
+~FF~#001
+;00020C47{~FF~}#004#001
+~FF~#001
+;00020C48{~FF~}#004#001
+~FF~#001
+;00020C49{~FF~}#004#001
+~FF~#001
+|175
+@00020C4C-00020CE0-FF
+;00020C4C{ the credits.~FF~}#017#014
+ the credits.~FF~#014
+;00020C5A{~FF~}#004#001
+~FF~#001
+;00020C5B{written and designed by~FF~}#027#024
+written and designed by~FF~#024
+;00020C73{the chuck rock team.~FF~}#024#021
+the chuck rock team.~FF~#021
+;00020C88{core design ltd.~FF~}#020#017
+core design ltd.~FF~#017
+;00020C99{~FF~}#004#001
+~FF~#001
+;00020C9A{music and fx by~FF~}#019#016
+music and fx by~FF~#016
+;00020CAA{krisalis software ltd.~FF~}#026#023
+krisalis software ltd.~FF~#023
+;00020CC1{~FF~}#004#001
+~FF~#001
+;00020CC2{presented by~FF~}#016#013
+presented by~FF~#013
+;00020CCF{virgin games.~FF~}#017#014
+virgin games.~FF~#014
+;00020CDD{~FF~}#004#001
+~FF~#001
+;00020CDE{~FF~}#004#001
+~FF~#001
+;00020CDF{~FF~}#004#001
+~FF~#001
+;00020CE0{~FD~}#004#001
+~FD~#001
+|149
+@00020CE7-00020D26-FF
+;00020CE7{chuck rock was brought to you~FF~}#033#030
+chuck rock was brought to you~FF~#030
+;00020D05{by the following people......~FF~}#033#030
+by the following people......~FF~#030
+;00020D23{~FF~}#004#001
+~FF~#001
+;00020D24{~FF~}#004#001
+~FF~#001
+;00020D25{~FF~}#004#001
+~FF~#001
+;00020D26{~FF~}#004#001
+~FF~#001
+|64
+@00020D2A-00020DB1-FF
+;00020D2A{chris long.~FF~}#015#012
+chris long.~FF~#012
+;00020D36{~FF~}#004#001
+~FF~#001
+;00020D37{lee pullen.~FF~}#015#012
+lee pullen.~FF~#012
+;00020D43{~FF~}#004#001
+~FF~#001
+;00020D44{bob .out en it. churchill.~FF~}#030#027
+bob .out en it. churchill.~FF~#027
+;00020D5F{~FF~}#004#001
+~FF~#001
+;00020D60{mark price.~FF~}#015#012
+mark price.~FF~#012
+;00020D6C{~FF~}#004#001
+~FF~#001
+;00020D6D{jeremy smith.~FF~}#017#014
+jeremy smith.~FF~#014
+;00020D7B{~FF~}#004#001
+~FF~#001
+;00020D7C{matt furniss.~FF~}#017#014
+matt furniss.~FF~#014
+;00020D8A{~FF~}#004#001
+~FF~#001
+;00020D8B{s. hollingworth.~FF~}#020#017
+s. hollingworth.~FF~#017
+;00020D9C{~FF~}#004#001
+~FF~#001
+;00020D9D{lyle j. hall ii.~FF~}#020#017
+lyle j. hall ii.~FF~#017
+;00020DAE{~FF~}#004#001
+~FF~#001
+;00020DAF{~FF~}#004#001
+~FF~#001
+;00020DB0{~FF~}#004#001
+~FF~#001
+;00020DB1{~FF~}#004#001
+~FF~#001
+|136

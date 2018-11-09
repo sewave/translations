@@ -1,0 +1,438 @@
+@000000FF-000001A4-FF
+;000000FF{dSEGA GENESIS    (C)CORE 1993.APR   CHUCK ROCK 2                                    CHUCK ROCK 2                                 GM T-115016-00~A2~~9E~J               ~00~~00~~00~~00~~00~}#187#166
+dSEGA GENESIS    (C)CORE 1993.APR   CHUCK ROCK 2                                    CHUCK ROCK 2                                 GM T-115016-00~A2~~9E~J               ~00~~00~~00~~00~~00~#166
+|166
+@0000496F-0000497D-FF
+;0000496F{PeeVe~19~~A0~ef?~03~~17~~FF~}#028#013
+PeeVe~19~~A0~ef?~03~~17~~FF~#013
+;0000497C{~ED~~F7~}#008#002
+~ED~~F7~#002
+|15
+@00017EC6-00017ED3-FF
+;00017EC6{FuF!E~CD~EyE$D~D0~D~7B~}#023#014
+FuF!E~CD~EyE$D~D0~D~7B~#014
+|14
+@00019DCE-00019DD5-FF
+;00019DCE{ JaBS~40~k~1A~}#014#008
+ JaBS~40~k~1A~#008
+|8
+@0001A728-0001A7B6-FF
+;0001A728{Nu start game ~FF~}#018#015
+Nu start game ~FF~#015
+;0001A737{~FF~}#004#001
+~FF~#001
+;0001A738{   options  ~FF~}#016#013
+   options  ~FF~#013
+;0001A745{~FF~}#004#001
+~FF~#001
+;0001A746{~FE~~00~level~7B~normal~FF~}#027#015
+~FE~~00~level~7B~normal~FF~#015
+;0001A755{~FF~}#004#001
+~FF~#001
+;0001A756{ sound test ~FF~}#016#013
+ sound test ~FF~#013
+;0001A763{~FF~}#004#001
+~FF~#001
+;0001A764{   control  ~FF~}#016#013
+   control  ~FF~#013
+;0001A771{~FF~}#004#001
+~FF~#001
+;0001A772{    exit    ~FF~}#016#013
+    exit    ~FF~#013
+;0001A77F{~FE~ bgm ~7B~   00 ~FF~}#023#014
+~FE~ bgm ~7B~   00 ~FF~#014
+;0001A78D{~FF~}#004#001
+~FF~#001
+;0001A78E{ sfx ~7B~   00 ~FF~}#019#013
+ sfx ~7B~   00 ~FF~#013
+;0001A79B{~FF~}#004#001
+~FF~#001
+;0001A79C{    exit    ~FF~}#016#013
+    exit    ~FF~#013
+;0001A7A9{~FF~}#004#001
+~FF~#001
+;0001A7AA{            ~FF~}#016#013
+            ~FF~#013
+|143
+@0001A7B8-0001A7F2-FF
+;0001A7B8{ jump ~7B~  a  ~FF~}#019#013
+ jump ~7B~  a  ~FF~#013
+;0001A7C5{~FF~}#004#001
+~FF~#001
+;0001A7C6{ fire ~7B~  a  ~FF~}#019#013
+ fire ~7B~  a  ~FF~#013
+;0001A7D3{~FF~}#004#001
+~FF~#001
+;0001A7D4{ ride ~7B~  a  ~FF~}#019#013
+ ride ~7B~  a  ~FF~#013
+;0001A7E1{~FF~}#004#001
+~FF~#001
+;0001A7E2{    exit    ~FE~~00~~00~~01~~A7~}#032#017
+    exit    ~FE~~00~~00~~01~~A7~#017
+|59
+@0001C4AC-0001C508-FF
+;0001C4AC{Nu~00~~10~~00~chuck is so proud of~FF~}#038#026
+Nu~00~~10~~00~chuck is so proud of~FF~#026
+;0001C4C6{~00~~13~~00~his son he gives him~FF~}#036#024
+~00~~13~~00~his son he gives him~FF~#024
+;0001C4DE{~00~~16~~00~ a big fat stoneage ~FF~}#036#024
+~00~~16~~00~ a big fat stoneage ~FF~#024
+;0001C4F6{~00~~19~~00~        hug~FE~~00~~00~~10~~00~}#043#019
+~00~~19~~00~        hug~FE~~00~~00~~10~~00~#019
+|93
+@0001C509-0001C62D-FF
+;0001C509{    they set off    ~FF~}#024#021
+    they set off    ~FF~#021
+;0001C51E{~00~~13~~00~  on the long walk  ~FF~}#036#024
+~00~~13~~00~  on the long walk  ~FF~#024
+;0001C536{~01~~16~~00~  back home for a   ~FF~}#036#024
+~01~~16~~00~  back home for a   ~FF~#024
+;0001C54E{~00~~19~~00~    slap up meal~FE~~01~~10~~00~ophelia is over the ~FF~}#068#044
+~00~~19~~00~    slap up meal~FE~~01~~10~~00~ophelia is over the ~FF~#044
+;0001C57A{~01~~13~~00~  moon to see her   ~FF~}#036#024
+~01~~13~~00~  moon to see her   ~FF~#024
+;0001C592{~00~~16~~00~  oversized man in  ~FF~}#036#024
+~00~~16~~00~  oversized man in  ~FF~#024
+;0001C5AA{~01~~19~~00~     one piece  ~FE~~00~~10~~00~ meanwhile poor old ~FF~}#068#044
+~01~~19~~00~     one piece  ~FE~~00~~10~~00~ meanwhile poor old ~FF~#044
+;0001C5D6{~01~~13~~00~ brick jagger gets  ~FF~}#036#024
+~01~~13~~00~ brick jagger gets  ~FF~#024
+;0001C5EE{~01~~16~~00~ a big rock all of  ~FF~}#036#024
+~01~~16~~00~ a big rock all of  ~FF~#024
+;0001C606{~00~~19~~00~    his very own~FE~~06~~0C~~00~the characters~FE~N~B9~}#067#040
+~00~~19~~00~    his very own~FE~~06~~0C~~00~the characters~FE~N~B9~#040
+|293
+@0001CB33-0001CB48-FF
+;0001CB33{colin the caveman ~FE~~00~ ~00~}#031#022
+colin the caveman ~FE~~00~ ~00~#022
+|22
+@0001CB53-0001CB5E-FF
+;0001CB53{suit man~FE~~00~ ~00~}#021#012
+suit man~FE~~00~ ~00~#012
+|12
+@0001CB69-0001CB73-FF
+;0001CB69{oscar ~FE~~00~~10~~00~~10~}#026#011
+oscar ~FE~~00~~10~~00~~10~#011
+|11
+@0001CB7D-0001CB84-FF
+;0001CB7D{eric~FE~~00~ ~00~}#017#008
+eric~FE~~00~ ~00~#008
+|8
+@0001CBA1-0001CBAE-FF
+;0001CBA1{huge bird ~FE~~00~0~00~}#023#014
+huge bird ~FE~~00~0~00~#014
+|14
+@0001CBB9-0001CBD0-FF
+;0001CBB9{geoff the strongman ~FE~~00~ ~00~}#033#024
+geoff the strongman ~FE~~00~ ~00~#024
+|24
+@0001CBDB-0001CBEF-FF
+;0001CBDB{norm the native ~FE~~00~~40~~00~~10~}#036#021
+norm the native ~FE~~00~~40~~00~~10~#021
+|21
+@0001CBF9-0001CC03-FF
+;0001CBF9{gideon~FE~~00~~10~~00~~10~}#026#011
+gideon~FE~~00~~10~~00~~10~#011
+|11
+@0001CC0D-0001CC1C-FF
+;0001CC0D{little bird ~FE~~00~ ~00~}#025#016
+little bird ~FE~~00~ ~00~#016
+|16
+@0001CC55-0001CC5F-FF
+;0001CC55{porker~FE~~00~~40~~00~~10~}#026#011
+porker~FE~~00~~40~~00~~10~#011
+|11
+@0001CC69-0001CC7B-FF
+;0001CC69{bird reynolds ~FE~~00~~10~~00~~10~}#034#019
+bird reynolds ~FE~~00~~10~~00~~10~#019
+|19
+@0001CC85-0001CC9A-FF
+;0001CC85{harry hermit crab ~FE~~00~ ~00~}#031#022
+harry hermit crab ~FE~~00~ ~00~#022
+|22
+@0001CCA5-0001CCB4-FF
+;0001CCA5{barry bather~FE~~00~0~00~}#025#016
+barry bather~FE~~00~0~00~#016
+|16
+@0001CCBF-0001CCD6-FF
+;0001CCBF{vinny venus flytrap ~FE~~00~ ~00~}#033#024
+vinny venus flytrap ~FE~~00~ ~00~#024
+|24
+@0001CCE1-0001CCF4-FF
+;0001CCE1{maud the monkey ~FE~~00~ ~00~}#029#020
+maud the monkey ~FE~~00~ ~00~#020
+|20
+@0001CCFF-0001CD14-FF
+;0001CCFF{wally water blower~FE~~00~ ~00~}#031#022
+wally water blower~FE~~00~ ~00~#022
+|22
+@0001CD1F-0001CD2A-FF
+;0001CD1F{anthony ~FE~~00~ ~00~}#021#012
+anthony ~FE~~00~ ~00~#012
+|12
+@0001CD30-0001CD3E-FF
+;0001CD30{Jf~0F~~18~~03~polka ~FE~~00~ ~00~}#033#015
+Jf~0F~~18~~03~polka ~FE~~00~ ~00~#015
+|15
+@0001CD49-0001CD5C-FF
+;0001CD49{pete the popper ~FE~~00~ ~00~}#029#020
+pete the popper ~FE~~00~ ~00~#020
+|20
+@0001CD62-0001CD78-FF
+;0001CD62{FT~06~~18~~03~sim the surfer~FE~~00~ ~00~}#041#023
+FT~06~~18~~03~sim the surfer~FE~~00~ ~00~#023
+|23
+@0001CD83-0001CD98-FF
+;0001CD83{orson the ostrich ~FE~~00~ ~00~}#031#022
+orson the ostrich ~FE~~00~ ~00~#022
+|22
+@0001CDA3-0001CDB1-FF
+;0001CDA3{big bertha~FE~~00~~10~~00~~10~}#030#015
+big bertha~FE~~00~~10~~00~~10~#015
+|15
+@0001CDBB-0001CDD0-FF
+;0001CDBB{big berthas sprog ~FE~~00~ ~00~}#031#022
+big berthas sprog ~FE~~00~ ~00~#022
+|22
+@0001CDDB-0001CDE2-FF
+;0001CDDB{john~FE~~00~ ~00~}#017#008
+john~FE~~00~ ~00~#008
+|8
+@0001CDED-0001CDF4-FF
+;0001CDED{paul~FE~~00~ ~00~}#017#008
+paul~FE~~00~ ~00~#008
+|8
+@0001CDFF-0001CE12-FF
+;0001CDFF{barnaby fox bat ~FE~~00~ ~00~}#029#020
+barnaby fox bat ~FE~~00~ ~00~#020
+|20
+@0001CE1D-0001CE31-FF
+;0001CE1D{steve stilt dude~FE~~00~~10~~00~~10~}#036#021
+steve stilt dude~FE~~00~~10~~00~~10~#021
+|21
+@0001CE59-0001CE6C-FF
+;0001CE59{fenny fire suit ~FE~~00~(~00~}#029#020
+fenny fire suit ~FE~~00~(~00~#020
+|20
+@0001CE8C-0001CE9A-FF
+;0001CE8C{qP~0F~~18~~03~rover ~FE~~00~ ~00~}#033#015
+qP~0F~~18~~03~rover ~FE~~00~ ~00~#015
+|15
+@0001CEA0-0001CEB6-FF
+;0001CEA0{pF~07~~18~~03~turtle thomas ~FE~~00~0~00~}#041#023
+pF~07~~18~~03~turtle thomas ~FE~~00~0~00~#023
+|23
+@0001CEC1-0001CECE-FF
+;0001CEC1{crazy jane~FE~~00~P~00~}#023#014
+crazy jane~FE~~00~P~00~#014
+|14
+@0001CEED-0001CEFC-FF
+;0001CEED{morgan moose~FE~~00~ ~00~}#025#016
+morgan moose~FE~~00~ ~00~#016
+|16
+@0001CF07-0001CF10-FF
+;0001CF07{frank ~FE~~00~0~00~}#019#010
+frank ~FE~~00~0~00~#010
+|10
+@0001CF1B-0001CF2A-FF
+;0001CF1B{breezy brian~FE~~00~0~00~}#025#016
+breezy brian~FE~~00~0~00~#016
+|16
+@0001CF47-0001CF56-FF
+;0001CF47{goaty beard ~FE~~00~ ~00~}#025#016
+goaty beard ~FE~~00~ ~00~#016
+|16
+@0001CF61-0001CF70-FF
+;0001CF61{horris hippo~FE~~00~ ~00~}#025#016
+horris hippo~FE~~00~ ~00~#016
+|16
+@0001CF7B-0001CF89-FF
+;0001CF7B{dippy dave~FE~~FF~}#018#012
+dippy dave~FE~~FF~#012
+;0001CF87{~FF~}#004#001
+~FF~#001
+;0001CF88{a~00~}#005#002
+a~00~#002
+|15
+@0001D12D-0001D136-FF
+;0001D12D{staff~FE~~00~~00~~00~~FE~}#025#010
+staff~FE~~00~~00~~00~~FE~#010
+|10
+@0001D13A-0001D154-FF
+;0001D13A{graphics~FE~~00~~00~~01~lee pullen~FE~~00~~00~~00~~FE~}#054#027
+graphics~FE~~00~~00~~01~lee pullen~FE~~00~~00~~00~~FE~#027
+|27
+@0001D158-0001D173-FF
+;0001D158{design~FE~~00~~00~~01~bob churchill~FE~~00~~00~~00~~FE~}#055#028
+design~FE~~00~~00~~01~bob churchill~FE~~00~~00~~00~~FE~#028
+|28
+@0001D177-0001D194-FF
+;0001D177{programming~FE~~00~~00~~01~chris long~FE~~00~~00~~00~~FE~}#057#030
+programming~FE~~00~~00~~01~chris long~FE~~00~~00~~00~~FE~#030
+|30
+@0001D198-0001D20A-FF
+;0001D198{quality assurance~FE~~00~~00~~01~lisa fegraus~FE~~00~~00~~01~adam ryan~FE~~00~~00~~01~noah tool~FE~~00~~00~~01~paul shoener~FE~~00~~00~~01~scott manning~FE~~00~~00~~01~jared brinkley~FE~~00~~00~~00~~FE~}#202#115
+quality assurance~FE~~00~~00~~01~lisa fegraus~FE~~00~~00~~01~adam ryan~FE~~00~~00~~01~noah tool~FE~~00~~00~~01~paul shoener~FE~~00~~00~~01~scott manning~FE~~00~~00~~01~jared brinkley~FE~~00~~00~~00~~FE~#115
+|115
+@0001D20E-0001D231-FF
+;0001D20E{original music~FE~~00~~00~~01~martin iveson~FE~~00~~00~~00~~FE~}#063#036
+original music~FE~~00~~00~~01~martin iveson~FE~~00~~00~~00~~FE~#036
+|36
+@0001D235-0001D25F-FF
+;0001D235{music conversions~FE~~00~~00~~01~krisalis software~FE~~00~~00~~00~~FE~}#070#043
+music conversions~FE~~00~~00~~01~krisalis software~FE~~00~~00~~00~~FE~#043
+|43
+@0001D263-0001D2BA-FF
+;0001D263{thanks to~FE~~00~~00~~01~dan scott~FE~~00~~00~~01~richard morton~FE~~00~~00~~01~ian sabine~FE~~00~~00~~01~tim swann~FE~~00~~00~~01~barry irvine~FE~~00~~00~~01~~FE~}#163#088
+thanks to~FE~~00~~00~~01~dan scott~FE~~00~~00~~01~richard morton~FE~~00~~00~~01~ian sabine~FE~~00~~00~~01~tim swann~FE~~00~~00~~01~barry irvine~FE~~00~~00~~01~~FE~#088
+|88
+@0001D2BE-0001D2DE-FF
+;0001D2BE{and everyone~FE~~00~~00~~01~else at core~FE~~00~~00~~01~~FE~}#060#033
+and everyone~FE~~00~~00~~01~else at core~FE~~00~~00~~01~~FE~#033
+|33
+@0001D2E6-0001D2F8-FF
+;0001D2E6{the management~FE~~00~~00~~01~~FE~}#034#019
+the management~FE~~00~~00~~01~~FE~#019
+|19
+@0001D2FC-0001D341-FF
+;0001D2FC{jeremy smith~FE~~00~~00~~01~richard barclay~FE~~00~~00~~01~sharon gordon~FE~~00~~00~~01~lydia philips~FE~~00~~00~~01~~FE~}#121#070
+jeremy smith~FE~~00~~00~~01~richard barclay~FE~~00~~00~~01~sharon gordon~FE~~00~~00~~01~lydia philips~FE~~00~~00~~01~~FE~#070
+|70
+@0001D355-0001D39B-FF
+;0001D355{also thanks to~FE~~00~~00~~01~doug mathieson~FE~~00~~00~~03~of ontario for~FE~~00~~00~~03~the feedback~FE~~00~~00~~01~~FE~}#122#071
+also thanks to~FE~~00~~00~~01~doug mathieson~FE~~00~~00~~03~of ontario for~FE~~00~~00~~03~the feedback~FE~~00~~00~~01~~FE~#071
+|71
+@0001D3AF-0001D3FC-FF
+;0001D3AF{finally thanks to~FE~~00~~00~~00~you for playing~FE~~00~~00~~00~the game through~FE~~00~~00~~00~to the finish~FE~~00~~00~~01~~FE~}#129#078
+finally thanks to~FE~~00~~00~~00~you for playing~FE~~00~~00~~00~the game through~FE~~00~~00~~00~to the finish~FE~~00~~00~~01~~FE~#078
+|78
+@00024801-00024816-FF
+;00024801{stone age suburbs~FE~~00~~02~~04~~00~}#037#022
+stone age suburbs~FE~~00~~02~~04~~00~#022
+|22
+@00024817-00024840-FF
+;00024817{dippy the dinosaur~FE~~05~~04~~00~butterfly grove~FE~~00~~04~~04~~00~}#069#042
+dippy the dinosaur~FE~~05~~04~~00~butterfly grove~FE~~00~~04~~04~~00~#042
+|42
+@00024841-0002487A-FF
+;00024841{wacky waterfalls~FE~~07~~04~~00~watch out for~FF~}#049#034
+wacky waterfalls~FE~~07~~04~~00~watch out for~FF~#034
+;00024863{~04~~07~~00~ozrics tentacles~FE~~00~~09~~04~~00~}#048#024
+~04~~07~~00~ozrics tentacles~FE~~00~~09~~04~~00~#024
+|58
+@0002487B-0002488A-FF
+;0002487B{lively lava~FE~~00~~05~~02~~00~}#031#016
+lively lava~FE~~00~~05~~02~~00~#016
+|16
+@0002488B-000248A8-FF
+;0002488B{the spooky cave~FF~}#019#016
+the spooky cave~FF~#016
+;0002489B{~0E~~05~~00~ooohhh~FE~~00~~03~~04~~00~}#038#014
+~0E~~05~~00~ooohhh~FE~~00~~03~~04~~00~#014
+|30
+@000248A9-000248BE-FF
+;000248A9{going up the tree~FE~~00~~01~~04~~00~}#037#022
+going up the tree~FE~~00~~01~~04~~00~#022
+|22
+@000248BF-000248D6-FF
+;000248BF{going down the tree~FE~~00~~07~~04~~00~}#039#024
+going down the tree~FE~~00~~07~~04~~00~#024
+|24
+@000248D7-000248E8-FF
+;000248D7{the lava tree~FE~~00~~03~~04~~00~}#033#018
+the lava tree~FE~~00~~03~~04~~00~#018
+|18
+@000248E9-00024944-FF
+;000248E9{the fruit mountain~FE~~08~~04~~00~snow problem~FE~~03~~04~~00~meet morgan moose~FF~}#083#056
+the fruit mountain~FE~~08~~04~~00~snow problem~FE~~03~~04~~00~meet morgan moose~FF~#056
+;00024921{~06~~0A~~00~it will take a~FF~}#030#018
+~06~~0A~~00~it will take a~FF~#018
+;00024933{~0A~~0D~~00~sweet jump~FE~~00~~01~~04~~00~}#042#018
+~0A~~0D~~00~sweet jump~FE~~00~~01~~04~~00~#018
+|92
+@00024945-0002495C-FF
+;00024945{sergei the sea slug~FE~~00~~00~~04~~00~}#039#024
+sergei the sea slug~FE~~00~~00~~04~~00~#024
+|24
+@0002495D-00024988-FF
+;0002495D{in the smelly sewers~FE~~05~~04~~00~the car factory~FE~~00~~04~~02~~00~}#071#044
+in the smelly sewers~FE~~05~~04~~00~the car factory~FE~~00~~04~~02~~00~#044
+|44
+@00024989-000249F1-FF
+;00024989{uhoh brick jagger~FF~}#021#018
+uhoh brick jagger~FF~#018
+;0002499B{~08~~05~~00~and his robot~FE~~06~~04~~00~the apple tree~FE~~06~~04~~00~the river race~FE~~06~~04~~00~statue carving~FE~~0A~~15~~01~get ready~FE~~00~a~00~}#153#087
+~08~~05~~00~and his robot~FE~~06~~04~~00~the apple tree~FE~~06~~04~~00~the river race~FE~~06~~04~~00~statue carving~FE~~0A~~15~~01~get ready~FE~~00~a~00~#087
+|105
+@00029C14-00029C1D-FF
+;00029C14{core~FF~}#008#005
+core~FF~#005
+;00029C19{~FF~}#004#001
+~FF~#001
+;00029C1A{~00~~B2~g~12~}#013#004
+~00~~B2~g~12~#004
+|10
+@00029C20-00029C29-FF
+;00029C20{core~FF~}#008#005
+core~FF~#005
+;00029C25{~FF~}#004#001
+~FF~#001
+;00029C26{~00~~B2~B~B9~}#013#004
+~00~~B2~B~B9~#004
+|10
+@0002A343-0002A387-FF
+;0002A343{game over~FF~}#013#010
+game over~FF~#010
+;0002A34D{~01~~17~~01~credits 1~FF~}#025#013
+~01~~17~~01~credits 1~FF~#013
+;0002A35A{~0A~~10~~01~continue 9~FE~~0B~~0C~~00~game over~FF~}#051#027
+~0A~~10~~01~continue 9~FE~~0B~~0C~~00~game over~FF~#027
+;0002A375{~01~~17~~01~credits 0~FE~Jm~0B~~7C~f~00~}#040#019
+~01~~17~~01~credits 0~FE~Jm~0B~~7C~f~00~#019
+|69
+@0002A714-0002A790-FF
+;0002A714{e2N~BA~~A4~~E8~Bm~01~~CC~Nu~0D~~0C~~03~unlucky~FF~}#050#023
+e2N~BA~~A4~~E8~Bm~01~~CC~Nu~0D~~0C~~03~unlucky~FF~#023
+;0002A72B{~01~~10~~03~you ran out of time~FE~~06~~08~~01~congratulations~FF~}#066#042
+~01~~10~~03~you ran out of time~FE~~06~~08~~01~congratulations~FF~#042
+;0002A755{~05~~0B~~01~you won the race~FF~}#032#020
+~05~~0B~~01~you won the race~FF~#020
+;0002A769{~0F~~10~~01~bonus~FF~}#021#009
+~0F~~10~~01~bonus~FF~#009
+;0002A772{~09~~13~~00~5000 points~FF~}#027#015
+~09~~13~~00~5000 points~FF~#015
+;0002A781{~0C~~15~~00~1 credit~FE~~00~~0E~~08~~01~}#040#016
+~0C~~15~~00~1 credit~FE~~00~~0E~~08~~01~#016
+|125
+@0002A791-0002A7C7-FF
+;0002A791{unlucky~FF~}#011#008
+unlucky~FF~#008
+;0002A799{~04~~0B~~01~you lost the race~FF~}#033#021
+~04~~0B~~01~you lost the race~FF~#021
+;0002A7AE{~07~~11~~01~sorry no bonus~FE~~0C~mww~01~~A8~g~00~}#050#026
+~07~~11~~01~sorry no bonus~FE~~0C~mww~01~~A8~g~00~#026
+|55
+@00038AEF-00038B04-FF
+;00038AEF{nBl~00~rBl~00~tBl~00~~7E~NuRl~00~~0C~~0C~l~00~}#046#022
+nBl~00~rBl~00~tBl~00~~7E~NuRl~00~~0C~~0C~l~00~#022
+|22
+@0003EFCB-0003EFF6-FF
+;0003EFCB{jNu~0F~~06~~01~bonus~FF~}#024#012
+jNu~0F~~06~~01~bonus~FF~#012
+;0003EFD7{~09~~09~~01~5000 points~FF~}#027#015
+~09~~09~~01~5000 points~FF~#015
+;0003EFE6{~0A~~0B~~01~ 1 credit~FE~~00~~00~$~00~}#038#017
+~0A~~0B~~01~ 1 credit~FE~~00~~00~$~00~#017
+|44
+@0003F839-0003F868-FF
+;0003F839{jNu~0F~~0A~~01~bonus~FF~}#024#012
+jNu~0F~~0A~~01~bonus~FF~#012
+;0003F845{~09~~0D~~01~5000 points~FF~}#027#015
+~09~~0D~~01~5000 points~FF~#015
+;0003F854{~0C~~0F~~01~1 credit~FE~RNC~01~~00~~00~E.~00~}#045#021
+~0C~~0F~~01~1 credit~FE~RNC~01~~00~~00~E.~00~#021
+|48
+@00048420-00048428-FF
+;00048420{mOLT~FB~~DA~~B7~~C8~~0B~}#024#009
+mOLT~FB~~DA~~B7~~C8~~0B~#009
+|9

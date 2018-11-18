@@ -1,5 +1,5 @@
 Takahashi Meijin no Bouken Shima IV
-Traducción al Español v1.0 (18/12/2016)
+Traducción al Español v1.1 (15/11/2018)
 (C) 2016 Wave Translations
 
 ---
@@ -20,6 +20,7 @@ Cuarta parte de la aventura que se pasa a un estilo "metroidvania".
 ---------------------
 2. Notas del Proyecto
 ---------------------
+V1.1: Arreglo de Higgins y varios acentos.
 Esta traducción y hacking esta basado en la de demiforce.
 
 --------------------------------------------

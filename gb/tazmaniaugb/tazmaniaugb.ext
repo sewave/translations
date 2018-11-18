@@ -1,0 +1,378 @@
+@00002A36-00002A3F-00
+;00000000{CONTINUES~00~}#013#010
+CONTINUES~00~#010
+|10
+@00002A7C-00002AA7-00
+;00000000{CONTINUE  YES/NO~00~}#020#017
+CONTINUE  YES/NO~00~#017
+;00000011{YES/  ~00~}#010#007
+YES/  ~00~#007
+;00000018{   /NO~00~}#010#007
+   /NO~00~#007
+;0000001F{PRESS  START~00~}#016#013
+PRESS  START~00~#013
+|44
+@000076A7-00007784-00
+;00000000{8       BONUS       ~00~}#024#021
+8       BONUS       ~00~#021
+;00000015{DIAMONDS  COLLECTED~00~}#023#020
+DIAMONDS  COLLECTED~00~#020
+;00000029{     00  X  50     ~00~}#023#020
+     00  X  50     ~00~#020
+;0000003D{    SCORE 00000    ~00~}#023#020
+    SCORE 00000    ~00~#020
+;00000051{    PRESS START    ~00~}#023#020
+    PRESS START    ~00~#020
+;00000065{PASSWORD IS ~00~}#016#013
+PASSWORD IS ~00~#013
+;00000072{775992~00~}#010#007
+775992~00~#007
+;00000079{~00~}#004#001
+~00~#001
+;0000007A{345371~00~}#010#007
+345371~00~#007
+;00000081{~00~}#004#001
+~00~#001
+;00000082{745577~00~}#010#007
+745577~00~#007
+;00000089{~00~}#004#001
+~00~#001
+;0000008A{367123~00~}#010#007
+367123~00~#007
+;00000091{~00~}#004#001
+~00~#001
+;00000092{662077~00~}#010#007
+662077~00~#007
+;00000099{~00~}#004#001
+~00~#001
+;0000009A{366882~00~}#010#007
+366882~00~#007
+;000000A1{~00~}#004#001
+~00~#001
+;000000A2{ SECTION  COMPLETE ~00~}#023#020
+ SECTION  COMPLETE ~00~#020
+;000000B6{  LEVEL  COMPLETE  ~00~}#023#020
+  LEVEL  COMPLETE  ~00~#020
+;000000CA{    PRESS START    ~00~}#023#020
+    PRESS START    ~00~#020
+|222
+@0000B862-0000BC68-00
+;00000000{            ~00~}#016#013
+            ~00~#013
+;0000000D{            ~00~}#016#013
+            ~00~#013
+;0000001A{            ~00~}#016#013
+            ~00~#013
+;00000027{  TAZ-MANIA ~00~}#016#013
+  TAZ-MANIA ~00~#013
+;00000034{     IN     ~00~}#016#013
+     IN     ~00~#013
+;00000041{            ~00~}#016#013
+            ~00~#013
+;0000004E{            ~00~}#016#013
+            ~00~#013
+;0000005B{  CHRISTMAS ~00~}#016#013
+  CHRISTMAS ~00~#013
+;00000068{   ISLAND   ~00~}#016#013
+   ISLAND   ~00~#013
+;00000075{   CAPERS   ~00~}#016#013
+   CAPERS   ~00~#013
+;00000082{            ~00~}#016#013
+            ~00~#013
+;0000008F{            ~00~}#016#013
+            ~00~#013
+;0000009C{            ~00~}#016#013
+            ~00~#013
+;000000A9{            ~00~}#016#013
+            ~00~#013
+;000000B6{PRESS  START~00~}#016#013
+PRESS  START~00~#013
+;000000C3{            ~00~}#016#013
+            ~00~#013
+;000000D0{            ~00~}#016#013
+            ~00~#013
+;000000DD{            ~00~}#016#013
+            ~00~#013
+;000000EA{            ~00~}#016#013
+            ~00~#013
+;000000F7{~FF~            ~00~}#020#014
+~FF~            ~00~#014
+;00000105{            ~00~}#016#013
+            ~00~#013
+;00000112{            ~00~}#016#013
+            ~00~#013
+;0000011F{  TAZ-MANIA ~00~}#016#013
+  TAZ-MANIA ~00~#013
+;0000012C{     IN     ~00~}#016#013
+     IN     ~00~#013
+;00000139{            ~00~}#016#013
+            ~00~#013
+;00000146{            ~00~}#016#013
+            ~00~#013
+;00000153{   EASTER   ~00~}#016#013
+   EASTER   ~00~#013
+;00000160{   ISLAND   ~00~}#016#013
+   ISLAND   ~00~#013
+;0000016D{   ANTICS   ~00~}#016#013
+   ANTICS   ~00~#013
+;0000017A{            ~00~}#016#013
+            ~00~#013
+;00000187{            ~00~}#016#013
+            ~00~#013
+;00000194{            ~00~}#016#013
+            ~00~#013
+;000001A1{            ~00~}#016#013
+            ~00~#013
+;000001AE{PRESS  START~00~}#016#013
+PRESS  START~00~#013
+;000001BB{            ~00~}#016#013
+            ~00~#013
+;000001C8{            ~00~}#016#013
+            ~00~#013
+;000001D5{            ~00~}#016#013
+            ~00~#013
+;000001E2{            ~00~}#016#013
+            ~00~#013
+;000001EF{~FF~            ~00~}#020#014
+~FF~            ~00~#014
+;000001FD{            ~00~}#016#013
+            ~00~#013
+;0000020A{            ~00~}#016#013
+            ~00~#013
+;00000217{  TAZ-MANIA ~00~}#016#013
+  TAZ-MANIA ~00~#013
+;00000224{     IN     ~00~}#016#013
+     IN     ~00~#013
+;00000231{            ~00~}#016#013
+            ~00~#013
+;0000023E{            ~00~}#016#013
+            ~00~#013
+;0000024B{   FANTASY  ~00~}#016#013
+   FANTASY  ~00~#013
+;00000258{   ISLAND   ~00~}#016#013
+   ISLAND   ~00~#013
+;00000265{   FROLICS  ~00~}#016#013
+   FROLICS  ~00~#013
+;00000272{            ~00~}#016#013
+            ~00~#013
+;0000027F{            ~00~}#016#013
+            ~00~#013
+;0000028C{            ~00~}#016#013
+            ~00~#013
+;00000299{            ~00~}#016#013
+            ~00~#013
+;000002A6{PRESS  START~00~}#016#013
+PRESS  START~00~#013
+;000002B3{            ~00~}#016#013
+            ~00~#013
+;000002C0{            ~00~}#016#013
+            ~00~#013
+;000002CD{            ~00~}#016#013
+            ~00~#013
+;000002DA{            ~00~}#016#013
+            ~00~#013
+;000002E7{~FF~            ~00~}#020#014
+~FF~            ~00~#014
+;000002F5{            ~00~}#016#013
+            ~00~#013
+;00000302{            ~00~}#016#013
+            ~00~#013
+;0000030F{  TAZ-MANIA ~00~}#016#013
+  TAZ-MANIA ~00~#013
+;0000031C{     IN     ~00~}#016#013
+     IN     ~00~#013
+;00000329{            ~00~}#016#013
+            ~00~#013
+;00000336{            ~00~}#016#013
+            ~00~#013
+;00000343{    DARK    ~00~}#016#013
+    DARK    ~00~#013
+;00000350{   ISLAND   ~00~}#016#013
+   ISLAND   ~00~#013
+;0000035D{    DRIP    ~00~}#016#013
+    DRIP    ~00~#013
+;0000036A{            ~00~}#016#013
+            ~00~#013
+;00000377{            ~00~}#016#013
+            ~00~#013
+;00000384{            ~00~}#016#013
+            ~00~#013
+;00000391{            ~00~}#016#013
+            ~00~#013
+;0000039E{PRESS  START~00~}#016#013
+PRESS  START~00~#013
+;000003AB{            ~00~}#016#013
+            ~00~#013
+;000003B8{            ~00~}#016#013
+            ~00~#013
+;000003C5{            ~00~}#016#013
+            ~00~#013
+;000003D2{            ~00~}#016#013
+            ~00~#013
+;000003DF{~FF~            ~00~}#020#014
+~FF~            ~00~#014
+;000003ED{            ~00~}#016#013
+            ~00~#013
+;000003FA{            ~00~}#016#013
+            ~00~#013
+|1031
+@0000BC69-0000BE30-00
+;00000000{  TAZ-MANIA ~00~}#016#013
+  TAZ-MANIA ~00~#013
+;0000000D{     IN     ~00~}#016#013
+     IN     ~00~#013
+;0000001A{            ~00~}#016#013
+            ~00~#013
+;00000027{            ~00~}#016#013
+            ~00~#013
+;00000034{    DODO    ~00~}#016#013
+    DODO    ~00~#013
+;00000041{   ISLAND   ~00~}#016#013
+   ISLAND   ~00~#013
+;0000004E{   DEVILS   ~00~}#016#013
+   DEVILS   ~00~#013
+;0000005B{            ~00~}#016#013
+            ~00~#013
+;00000068{            ~00~}#016#013
+            ~00~#013
+;00000075{            ~00~}#016#013
+            ~00~#013
+;00000082{            ~00~}#016#013
+            ~00~#013
+;0000008F{PRESS  START~00~}#016#013
+PRESS  START~00~#013
+;0000009C{            ~00~}#016#013
+            ~00~#013
+;000000A9{            ~00~}#016#013
+            ~00~#013
+;000000B6{            ~00~}#016#013
+            ~00~#013
+;000000C3{            ~00~}#016#013
+            ~00~#013
+;000000D0{~FF~            ~00~}#020#014
+~FF~            ~00~#014
+;000000DE{            ~00~}#016#013
+            ~00~#013
+;000000EB{            ~00~}#016#013
+            ~00~#013
+;000000F8{  TAZ-MANIA ~00~}#016#013
+  TAZ-MANIA ~00~#013
+;00000105{     IN     ~00~}#016#013
+     IN     ~00~#013
+;00000112{            ~00~}#016#013
+            ~00~#013
+;0000011F{            ~00~}#016#013
+            ~00~#013
+;0000012C{    ZOO     ~00~}#016#013
+    ZOO     ~00~#013
+;00000139{   KEEPER   ~00~}#016#013
+   KEEPER   ~00~#013
+;00000146{   COPTER   ~00~}#016#013
+   COPTER   ~00~#013
+;00000153{            ~00~}#016#013
+            ~00~#013
+;00000160{            ~00~}#016#013
+            ~00~#013
+;0000016D{            ~00~}#016#013
+            ~00~#013
+;0000017A{            ~00~}#016#013
+            ~00~#013
+;00000187{PRESS  START~00~}#016#013
+PRESS  START~00~#013
+;00000194{            ~00~}#016#013
+            ~00~#013
+;000001A1{            ~00~}#016#013
+            ~00~#013
+;000001AE{            ~00~}#016#013
+            ~00~#013
+;000001BB{            ~00~}#016#013
+            ~00~#013
+|456
+@0000C590-0000C619-00
+;00000000{TAZ-MANIA,~00~}#014#011
+TAZ-MANIA,~00~#011
+;0000000B{CHARACTERS,~00~}#015#012
+CHARACTERS,~00~#012
+;00000017{NAMES AND ALL~00~}#017#014
+NAMES AND ALL~00~#014
+;00000025{RELATED INDICIA ARE~00~}#023#020
+RELATED INDICIA ARE~00~#020
+;00000039{TRADEMARKS OF~00~}#017#014
+TRADEMARKS OF~00~#014
+;00000047{WARNER BROS.~00~}#016#013
+WARNER BROS.~00~#013
+;00000054{c 1994. ALL RIGHTS~00~}#022#019
+c 1994. ALL RIGHTS~00~#019
+;00000067{    RESERVED.~00~}#017#014
+    RESERVED.~00~#014
+;00000075{LICENSED BY NINTENDO~00~}#024#021
+LICENSED BY NINTENDO~00~#021
+|138
+@000333AD-000333CC-00
+;00000000{OPTIONS~00~}#011#008
+OPTIONS~00~#008
+;00000008{CONTINUES~00~}#013#010
+CONTINUES~00~#010
+;00000012{SPINS    ~00~}#013#010
+SPINS    ~00~#010
+;0000001C{   ~00~}#007#004
+   ~00~#004
+|32
+@000333CD-000333F8-00
+;00000000{INF~00~}#007#004
+INF~00~#004
+;00000004{ 9 ~00~}#007#004
+ 9 ~00~#004
+;00000008{ 8 ~00~}#007#004
+ 8 ~00~#004
+;0000000C{ 7 ~00~}#007#004
+ 7 ~00~#004
+;00000010{ 6 ~00~}#007#004
+ 6 ~00~#004
+;00000014{ 5 ~00~}#007#004
+ 5 ~00~#004
+;00000018{ 4 ~00~}#007#004
+ 4 ~00~#004
+;0000001C{ 3 ~00~}#007#004
+ 3 ~00~#004
+;00000020{ 2 ~00~}#007#004
+ 2 ~00~#004
+;00000024{ 1 ~00~}#007#004
+ 1 ~00~#004
+;00000028{ 0 ~00~}#007#004
+ 0 ~00~#004
+|44
+@0003359B-0003368A-00
+;00000000{ WELL DONE YOU HAVE     DEFEATED THE         ZOO KEEPER                           YOU SCORED                               THANK YOU FOR     PLAYING  SUNSOFT'S     'TAZ-MANIA'                                                                 }#240#240
+ WELL DONE YOU HAVE     DEFEATED THE         ZOO KEEPER                           YOU SCORED                               THANK YOU FOR     PLAYING  SUNSOFT'S     'TAZ-MANIA'                                                                 #240
+|240
+@0003368B-00033D1A-00
+;00000000{ DESIGN AND CONCEPT  BY DAVID A. PALMER   IMS PRODUCTIONS    EXECUTIVE PRODUCER     DAVID SILLER                           EXECUTIVE VICE   PRESIDENT~63~ LICENSING   RITA  ZIMMERER         PRODUCER           SAM  PATEL                          TECHNICAL  MANAGER       AL ARTUS                                CHAIRMAN          MASAMI MAEDA                           VICE  CHAIRMAN      TAD  SHIMAMOTO                             DIRECTOR,        SUNSOFT  JAPAN      KIHARU YOSHIDA   INTERNATIONAL DEVEL-OPMENT  CO-ORDINATOR   KENJI YOSHIOKA    MARKETING DIRECTOR    KAREN  SHADLEY                        MANAGER  DEBUGGING      SAM  PATEL                             GAME TESTING                            DARIN HORGAN        STEVE  RIZOR        MARIO ZAVALA        RENE  BOUTIN       JUSTIN  SILLER      DAN  MACARTHUR       STEVE GEHRKE      GAME PLAY MANUAL     ALISON QUIRION                       EXECUTIVE  ASSISTANT  NANETTE  HYSSONG                        CUSTOMER SERVICE                           KAZ HARMAN         JUNE  ECKERT       JULIE WILLIAMS     JAMIE  JORGENSEN       ERIN BERRY        DAWN  PHILLIPS                                            SPECIAL THANKS TO-                         BRUCE REILLY         CATHY JUBY         MARK  LUSZSZ         TOKO OKANO         CONNIE PEREZ        KAZUAKI GOTO        MASATO KAWAI        GEOFF GILLIS        KAREN LILLIE       AKITO TAKEUCHI       SHERRY  ROSS                           JAUPALE LASTER     MICHELLE CARLTON                              VERY         SPECIAL THANKS TO-                      LUANA CHAMBERS AND    HOLLY STEIN AT         W.B.C.P.                                                                  }#1683#1680
+ DESIGN AND CONCEPT  BY DAVID A. PALMER   IMS PRODUCTIONS    EXECUTIVE PRODUCER     DAVID SILLER                           EXECUTIVE VICE   PRESIDENT~63~ LICENSING   RITA  ZIMMERER         PRODUCER           SAM  PATEL                          TECHNICAL  MANAGER       AL ARTUS                                CHAIRMAN          MASAMI MAEDA                           VICE  CHAIRMAN      TAD  SHIMAMOTO                             DIRECTOR,        SUNSOFT  JAPAN      KIHARU YOSHIDA   INTERNATIONAL DEVEL-OPMENT  CO-ORDINATOR   KENJI YOSHIOKA    MARKETING DIRECTOR    KAREN  SHADLEY                        MANAGER  DEBUGGING      SAM  PATEL                             GAME TESTING                            DARIN HORGAN        STEVE  RIZOR        MARIO ZAVALA        RENE  BOUTIN       JUSTIN  SILLER      DAN  MACARTHUR       STEVE GEHRKE      GAME PLAY MANUAL     ALISON QUIRION                       EXECUTIVE  ASSISTANT  NANETTE  HYSSONG                        CUSTOMER SERVICE                           KAZ HARMAN         JUNE  ECKERT       JULIE WILLIAMS     JAMIE  JORGENSEN       ERIN BERRY        DAWN  PHILLIPS                                            SPECIAL THANKS TO-                         BRUCE REILLY         CATHY JUBY         MARK  LUSZSZ         TOKO OKANO         CONNIE PEREZ        KAZUAKI GOTO        MASATO KAWAI        GEOFF GILLIS        KAREN LILLIE       AKITO TAKEUCHI       SHERRY  ROSS                           JAUPALE LASTER     MICHELLE CARLTON                              VERY         SPECIAL THANKS TO-                      LUANA CHAMBERS AND    HOLLY STEIN AT         W.B.C.P.                                                                  #1680
+|1680
+@00033D1B-00033EFA-00
+;00000000{ DESIGN AND CONCEPT  BY DAVID A. PALMER   IMS PRODUCTIONS        GRAFIX  BY        DAVID GARRISON       WAYNE DALTON      MUSIC AND SOUNDS           BY             MARK COOKSEY       THANKS ALSO TO        TONY LLOYD        MICK  HANRAHAN       PAUL TANKARD       AND A CERTAIN       OTHER INVOLVED           AND             JAMES ALLEN                         SPECIAL THANKS AGAIN         TO               AL ARTUS                                                                  }#480#480
+ DESIGN AND CONCEPT  BY DAVID A. PALMER   IMS PRODUCTIONS        GRAFIX  BY        DAVID GARRISON       WAYNE DALTON      MUSIC AND SOUNDS           BY             MARK COOKSEY       THANKS ALSO TO        TONY LLOYD        MICK  HANRAHAN       PAUL TANKARD       AND A CERTAIN       OTHER INVOLVED           AND             JAMES ALLEN                         SPECIAL THANKS AGAIN         TO               AL ARTUS                                                                  #480
+|480
+@00037B6B-00037BC4-00
+;00000000{ENTER PASSWORD~00~}#018#015
+ENTER PASSWORD~00~#015
+;0000000F{ PASSWORD WRONG ~00~}#020#017
+ PASSWORD WRONG ~00~#017
+;00000020{PASSWORD CORRECT~00~}#020#017
+PASSWORD CORRECT~00~#017
+;00000031{775992345371745577367123662077366882~FF~~FF~~FF~~FF~~FF~}#056#041
+775992345371745577367123662077366882~FF~~FF~~FF~~FF~~FF~#041
+|90
+@0003BACB-0003BB33-00
+;00000000{     PLAY  GAME     ~00~}#024#021
+     PLAY  GAME     ~00~#021
+;00000015{   ENTER PASSWORD   ~00~}#024#021
+   ENTER PASSWORD   ~00~#021
+;0000002A{    GAME OPTIONS    ~00~}#024#021
+    GAME OPTIONS    ~00~#021
+;0000003F{LICENSED BY NINTENDO~00~}#024#021
+LICENSED BY NINTENDO~00~#021
+;00000054{                    ~00~}#024#021
+                    ~00~#021
+|105

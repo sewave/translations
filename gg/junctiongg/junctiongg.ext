@@ -1,0 +1,46 @@
+@000001F8-000001FD-00
+;000001F8{PAUSE~00~}#009#006
+PAUSE~00~#006
+|6
+@00000D9C-00000E16-00
+;00000D9C{YOU LOST A RED BALL.    TRY THIS SCREEN AGAIN.~00~}#050#047
+YOU LOST A RED BALL.    TRY THIS SCREEN AGAIN.~00~#047
+;00000DCB{THAT WAS LAST YOUR RED BALL.~00~}#032#029
+THAT WAS LAST YOUR RED BALL.~00~#029
+;00000DE8{YOU RAN OUT OF TIME.    TRY THIS SCREEN AGAIN.~00~}#050#047
+YOU RAN OUT OF TIME.    TRY THIS SCREEN AGAIN.~00~#047
+|123
+@00000F26-00000F84-00
+;00000F26{CONGRATULATIONS!   NOW FOR THE NEXT SCREEN...~00~}#049#046
+CONGRATULATIONS!   NOW FOR THE NEXT SCREEN...~00~#046
+;00000F54{CONGRATULATIONS!   YOU CLEARED ALL THE SCREENS..~00~}#052#049
+CONGRATULATIONS!   YOU CLEARED ALL THE SCREENS..~00~#049
+|95
+@00001EB5-00001F0B-00
+;00001EB5{..CONFIGURATION..~00~}#021#018
+..CONFIGURATION..~00~#018
+;00001EC7{   STAGE~00~}#012#009
+   STAGE~00~#009
+;00001ED0{   STOCK~00~}#012#009
+   STOCK~00~#009
+;00001ED9{   RANK~00~}#011#008
+   RANK~00~#008
+;00001EE1{   BONUS GAME~00~}#017#014
+   BONUS GAME~00~#014
+;00001EEF{   EXIT~00~}#011#008
+   EXIT~00~#008
+;00001EF7{NORMAL~00~}#010#007
+NORMAL~00~#007
+;00001EFE{EASY  ~00~}#010#007
+EASY  ~00~#007
+;00001F05{HARD  ~00~}#010#007
+HARD  ~00~#007
+|87
+@00001FDF-00002281-FF
+;00001FDF{         STAFF          ~08~        DIREDTOR        =         SHAKA          =                        ~08~     ORIGINAL CONSEPT   =         SHIHO          =         SHAKA          =                        ~08~       PROGRAMMING      =         SHAKA          =          KAZ           =                        ~08~         DESIGN         =         SHIHO          =          NAO           =                        ~08~         MUSIC          =         SHAKA          =          KII           =                        ~08~                        ~04~        PRODUCER        ~08~    MURAKAMI AKIHIKO    =  1991 MICRONET NIPPON  ~04~                        =                        ~08~        THE END         ~FF~}#708#675
+         STAFF          ~08~        DIREDTOR        =         SHAKA          =                        ~08~     ORIGINAL CONSEPT   =         SHIHO          =         SHAKA          =                        ~08~       PROGRAMMING      =         SHAKA          =          KAZ           =                        ~08~         DESIGN         =         SHIHO          =          NAO           =                        ~08~         MUSIC          =         SHAKA          =          KII           =                        ~08~                        ~04~        PRODUCER        ~08~    MURAKAMI AKIHIKO    =  1991 MICRONET NIPPON  ~04~                        =                        ~08~        THE END         ~FF~#675
+|675
+@000183C3-000183D5-00
+;000183C3{.... HI SCORE ....~00~}#022#019
+.... HI SCORE ....~00~#019
+|19

@@ -1,0 +1,74 @@
+@00029782-00029788-00
+;00000000{OPTIONS}#007#007
+OPCIÓN #007
+|7
+@000297E6-000297F5-00
+;00000000{DIFFICULTV      }#016#016
+DIFICULTAD      #016
+|16
+@0002980E-0002981D-00
+;00000000{MUSIC           }#016#016
+MÚSIC           #016
+|16
+@00029836-00029845-00
+;00000000{SOUND FX        }#016#016
+EFECT           #016
+|16
+@00029965-0002996E-00
+;00000000{ 1 PLAYER }#010#010
+ 1 JUGADR #010
+|10
+@0002998D-00029996-00
+;00000000{ 2 PLAYER }#010#010
+ 2 JUGADR #010
+|10
+@000299B5-000299BE-00
+;00000000{ OPTIONS  }#010#010
+  OPCIÓN  #010
+|10
+@000299DD-000299E6-00
+;00000000{ PASSWORD }#010#010
+ PASSWORD #010
+|10
+@00029A52-00029A59-00
+;00000000{PASSWORD}#008#008
+PASSWORD#008
+|8
+@0002A0AA-0002A19E-00
+;00000000{NORMHARDEASVON  OFF                INVALID CODE    ETAPA 28      ETAPA 24      ETAPA 20      ETAPA 16      ETAPA 12      ETAPA 08      ETAPA 04      ETAPA 01      CREDITS      MAX  LIVES    MAX  ROLLS    DESI  DUDE       2042      TECHNO ALLAH G}#245#245
+NORMDIFÍFÁCI
+SÍ  NO    
+            CÓDIGO ERRÓNEO   ETAPA 28      ETAPA 24      ETAPA 20      ETAPA 16      ETAPA 12      ETAPA 08      ETAPA 04      ETAPA 01      CRÉDITO      VIDAS  MÁX    GIROS  MAX    DESI  DUDE       2042      TECHNO ALLAH G#245
+|245
+@0002B1E0-0002B271-00
+;00000000{                                                                                    NEW PASSWORD                                                  }#146#146
+                                                                                    UN  PASSWORD                                                  #146
+|146
+@0002B4CD-0002B634-00
+;00000000{                                                                                                                                                  CONTINUE                                                       YES                                     NO                                                                                                             }#360#360
+                                                                                                                                                 CONTINUAR                                                       SÍ                                      NO                                                                                                             #360
+|360
+@0002E0C0-0002E19E-00
+;00000000{             INVALID CODE    ETAPA 28      ETAPA 24      ETAPA 20      ETAPA 16      ETAPA 12      ETAPA 08      ETAPA 04      ETAPA 01      CREDITS      MAX  LIVES    MAX  ROLLS    DESI  DUDE       2042      TECHNO ALLAH G}#223#223
+             INVALID CODE    ETAPA 28      ETAPA 24      ETAPA 20      ETAPA 16      ETAPA 12      ETAPA 08      ETAPA 04      ETAPA 01      CRÉDITO      VIDAS  MÁX    GIROS  MÁX    DESI  DUDE       2042      TECHNO ALLAH G#223
+|223
+@0002F1E0-0002F271-00
+;00000000{                                                                                    NEW PASSWORD                                                  }#146#146
+                                                                                    UN  PASSWORD                                                  #146
+|146
+@0002F4CD-0002F634-00
+;00000000{                                                                                                                                                  CONTINUE                                                       YES                                     NO                                                                                                             }#360#360
+                                                                                                                                                 CONTINUAR                                                       SÍ                                      NO                                                                                                             #360
+|360
+@000320C0-0003219E-00
+;00000000{             INVALID CODE    ETAPA 28      ETAPA 24      ETAPA 20      ETAPA 16      ETAPA 12      ETAPA 08      ETAPA 04      ETAPA 01      CREDITS      MAX  LIVES    MAX  ROLLS    DESI  DUDE       2042      TECHNO ALLAH G}#223#223
+             INVALID CODE    ETAPA 28      ETAPA 24      ETAPA 20      ETAPA 16      ETAPA 12      ETAPA 08      ETAPA 04      ETAPA 01      CRÉDITO      VIDAS  MÁX    GIROS  MÁX    DESI  DUDE       2042      TECHNO ALLAH G#223
+|223
+@000331E0-00033271-00
+;00000000{                                                                                    NEW PASSWORD                                                  }#146#146
+                                                                                    UN  PASSWORD                                                  #146
+|146
+@000334CD-00033634-00
+;00000000{                                                                                                                                                  CONTINUE                                                       YES                                     NO                                                                                                             }#360#360
+                                                                                                                                                 CONTINUAR                                                       SÍ                                      NO                                                                                                             #360
+|360

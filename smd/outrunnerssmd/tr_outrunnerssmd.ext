@@ -1,0 +1,240 @@
+@0000374A-00003829-FF
+;00000000{  DEVELOPED FOR USE ONLY WITH          NTSC MEGA DRIVE                        AND               PAL AND FRENCH SECAM MEGA DRIVE             SYSTEMS.                 NTSC GENESIS SYSTEMS.          NTSC MEGA DRIVE SYSTEMS.    }#224#224
+  DESARROLLADO PARA USARSE EN          MEGA DRIVE NTSC                         Y                MEGA DRIVE PAL Y SECAM FRANCESA.                                     SISTEMA GENESIS NTSC.          SISTEMA MEGA DRIVE NTSC.    #224
+|224
+@00003F46-00003F78-FF
+;00000000{LICENSED BY SEGA ENTERPRISES,LTD.                  }#051#051
+LICENCIA DE SEGA ENTERPRISES,LTD.                  #051
+|51
+@000540D9-000543BA-80
+;00000000{       PRESS  ~82~~05~~82~~FB~START  ~82~~05~~82~~FB~BUTTON  ~82~~09~~82~~F7~~80~}#081#042
+       PULSA  ~82~~05~~82~~FB~BOTÓN  ~82~~05~~82~~FB~ START  ~82~~09~~82~~F7~~80~#042
+;0000002A{~83~~08~       WAIT   ~82~~04~~81~~85~~83~ ~26~PAUSE~26~P~84~~02~~82~~01~~81~~85~~83~ ~26~PAUSE~26~P~84~~03~~82~~01~~81~~83~~08~~3A~ SPEED KING         ~80~}#156#075
+~83~~08~     ESPERA   ~82~~04~~81~~85~~83~ ~26~PAUSA~26~P~84~~02~~82~~01~~81~~85~~83~ ~26~PAUSA~26~P~84~~03~~82~~01~~81~~83~~08~~3A~ SPEED KING         ~80~#075
+;00000075{~83~~08~~3A~ PICTURE THE RIVERS         ~80~}#044#032
+~83~~08~~3A~ PICTURE THE RIVERS         ~80~#032
+;00000095{~83~~08~~3A~ BLOW YOUR COOL         ~80~}#040#028
+~83~~08~~3A~ BLOW YOUR COOL         ~80~#028
+;000000B1{~83~~08~~3A~ SONIC CONTROL         ~80~}#039#027
+~83~~08~~3A~ SONIC CONTROL         ~80~#027
+;000000CC{~83~~08~~3A~ LOOKING FOR THE RAINBOW         ~80~}#049#037
+~83~~08~~3A~ LOOKING FOR THE RAINBOW         ~80~#037
+;000000F1{~83~~08~~3A~ ADVENTURE         ~80~}#035#023
+~83~~08~~3A~ ADVENTURE         ~80~#023
+;00000108{~83~~08~~3A~ SPLASH WAVE         ~80~}#037#025
+~83~~08~~3A~ SPLASH WAVE         ~80~#025
+;00000121{~83~~08~~3A~ MAGICAL SOUND SHOWER         ~80~}#046#034
+~83~~08~~3A~ MAGICAL SOUND SHOWER         ~80~#034
+;00000143{~83~~08~~3A~ PASSING BREEZE         ~80~}#040#028
+~83~~08~~3A~ PASSING BREEZE         ~80~#028
+;0000015F{~83~~08~~3A~ LAST WAVE         ~80~}#035#023
+~83~~08~~3A~ LAST WAVE         ~80~#023
+;00000176{~83~~08~~3A~ MEGA RADIO STATION         ~80~}#044#032
+~83~~08~~3A~ MEGA RADIO STATION         ~80~#032
+;00000196{~83~~08~~3A~ VS VR MUSIC         ~80~}#037#025
+~83~~08~~3A~ VS VR MUSIC         ~80~#025
+;000001AF{~83~~08~~3A~ JINGLE BELL         ~80~}#037#025
+~83~~08~~3A~ JINGLE BELL         ~80~#025
+;000001C8{~83~~08~       PRESS  ~82~~05~~82~~FB~C~26~BUTTON ~82~~09~~82~~F7~~80~}#070#034
+~83~~08~       PULSA  ~82~~05~~82~~FB~BOTÓN~26~C  ~82~~09~~82~~F7~~80~#034
+;000001EA{~85~~83~~08~~2C~~2C~~2C~ CHECK POINT ~2C~~2C~~2C~         ~80~}#062#032
+~85~~83~~08~~2C~~2C~~2C~ CHECK POINT ~2C~~2C~~2C~         ~80~#032
+;0000020A{~85~~83~~08~~2B~~2B~~2B~ CHECK POINT ~2B~~2B~~2B~         ~80~}#062#032
+~85~~83~~08~~2B~~2B~~2B~ CHECK POINT ~2B~~2B~~2B~         ~80~#032
+;0000022A{~85~~83~ ~2A~FINISH~2A~~80~}#027#012
+~85~~83~ ~2A~ACABAS~2A~~80~#012
+;00000236{~85~~83~~08~~3A~ DREAM FLYING         ~80~}#042#027
+~85~~83~~08~~3A~ DREAM FLYING         ~80~#027
+;00000251{~85~~83~~08~~3A~ MEANING OF THE LIGHT         ~80~}#050#035
+~85~~83~~08~~3A~ MEANING OF THE LIGHT         ~80~#035
+;00000274{~85~~83~~08~THANK YOU FOR PLAYING         ~80~}#046#034
+~85~~83~~08~GRACIAS POR JUGAR             ~80~#034
+;00000296{~85~~80~}#008#002
+~85~~80~#002
+;00000298{~85~~83~ ENTRY~25~~02~~26~~80~}#030#012
+~85~~83~ ENTRA~25~~02~~26~~80~#012
+;000002A4{~83~~08~       DEMO PLAY~82~~04~~81~~85~~83~~08~P~02~ OFF ~3A~         ~80~}#075#042
+~83~~08~       DEMO     ~82~~04~~81~~85~~83~~08~P~02~ NO  ~3A~         ~80~#042
+;000002CE{~85~~83~~08~P~03~ OFF ~3A~         }#035#020
+~85~~83~~08~P~03~ NO  ~3A~         #020
+|738
+@000EBF9A-000EC029-07-06-05-04-03-02-01
+;00000000{   MAD POWER   ~07~}#019#016
+ POTENCIA LOCA ~07~#016
+;00000010{ EASY HANDLING ~06~}#019#016
+  FÁCIL MANEJO ~06~#016
+;00000020{ QUICK REACTOR ~05~}#019#016
+RÁPIDA REACCIÓN~05~#016
+;00000030{ ROAD MONSTER  ~04~}#019#016
+MONSTRUO CARRET~04~#016
+;00000040{  WILD CHASER  ~04~}#019#016
+PERSIGUE SALVAJ~04~#016
+;00000050{ SPEED BUSTER  ~03~}#019#016
+ ALTA VELOCIDAD~03~#016
+;00000060{SMOOTH OPERATOR~03~}#019#016
+ OPERADOR SUAVE~03~#016
+;00000070{    BAD BOY    ~03~}#019#016
+  CHICO MALO   ~03~#016
+;00000080{ VIRTUA FORMULA~07~}#019#016
+ FORMULA VIRTUA~07~#016
+|144
+@000EF9D1-000EFA9C-FF
+;00000000{ARCADE ORIGINAL OPTIONS           OPTIONSLEVELSOUNDCONTROLEXITLEVELLEVELTIME EXTENDENGINE SOUNDEXITSOUNDBGMS.E.EXITCONTROLCONTROLUPDOWNBUTTON ABUTTON BBUTTON CEXITCONTROLUPDOWNBUTTON ABUTTON BBUTTON CEXIT}#204#204
+ARCADE ORIGINAL OPCIÓN            
+OPCIÓN 
+NIVEL
+SONID
+CONTROL
+SALE
+NIVEL
+NIVEL
+MÁS TIEMPO 
+SONIDO MOTOR
+SALE
+SONID
+MUS
+E.S.
+SALE
+CONTROL
+CONTROL
+AR
+ABAJ
+BOTÓN A 
+BOTÓN B 
+BOTÓN C 
+SALE
+CONTROL
+AR
+ABAJ
+BOTÓN A 
+BOTÓN B 
+BOTÓN C 
+SALE#204
+|204
+@000EFAE9-000F012E-FF
+;00000000{ BEASY        NORMAL      HARD        PROFESSIONAL~29~~06~SEC ~29~~05~SEC ~29~~04~SEC ~29~~03~SEC ~29~~02~SEC NORMAL~02~SEC  ~03~SEC  ~04~SEC  ~05~SEC  ~06~SEC  LOW   NORMALNOISY SPEED KING              ~FF~}#207#159
+ BFÁCIL       NORMAL      DIFÍCIL     PROFESIONAL ~29~~06~SEG ~29~~05~SEG ~29~~04~SEG ~29~~03~SEG ~29~~02~SEG NORMAL~02~SEG  ~03~SEG  ~04~SEG  ~05~SEG  ~06~SEG  
+BAJO  
+NORMAL
+NOISY SPEED KING              ~FF~#159
+;0000009F{         PICTURE THE RIVERS      ~FF~}#037#034
+         PICTURE THE RIVERS      ~FF~#034
+;000000C1{         BLOW YOUR COOL          ~FF~}#037#034
+         BLOW YOUR COOL          ~FF~#034
+;000000E3{         SONIC CONTROL           ~FF~}#037#034
+         SONIC CONTROL           ~FF~#034
+;00000105{         LOOKING FOR THE RAINBOW ~FF~}#037#034
+         LOOKING FOR THE RAINBOW ~FF~#034
+;00000127{         ADVENTURE               ~FF~}#037#034
+         ADVENTURE               ~FF~#034
+;00000149{         SPLASH WAVE             ~FF~}#037#034
+         SPLASH WAVE             ~FF~#034
+;0000016B{         MAGICAL SOUND SHOWER    ~FF~}#037#034
+         MAGICAL SOUND SHOWER    ~FF~#034
+;0000018D{         PASSING BREEZE          ~FF~}#037#034
+         PASSING BREEZE          ~FF~#034
+;000001AF{         LAST WAVE               ~FF~}#037#034
+         LAST WAVE               ~FF~#034
+;000001D1{         PRE~29~STAGE               ~FF~}#040#034
+         PRE~29~STAGE               ~FF~#034
+;000001F3{         GRAND~29~CANYON            ~FF~}#040#034
+         GRAND~29~CANYON            ~FF~#034
+;00000215{         SAN~29~FRANCISCO           ~FF~}#040#034
+         SAN~29~FRANCISCO           ~FF~#034
+;00000237{         NIAGARA FALLS           ~FF~}#037#034
+         NIAGARA FALLS           ~FF~#034
+;00000259{         SOUTH~29~AMERICA           ~FF~}#040#034
+         SOUTH~29~AMERICA           ~FF~#034
+;0000027B{         HAWAII                  ~FF~}#037#034
+         HAWAII                  ~FF~#034
+;0000029D{         PACIFIC OCEAN~FF~}#026#023
+         PACIFIC OCEAN~FF~#023
+;000002B4{CROSSWAY BRIDGE     SWITZERLAND             ~FF~}#048#045
+CROSSWAY BRIDGE     SWITZERLAND             ~FF~#045
+;000002E1{         ATLANTIC OCEAN~FF~}#027#024
+         ATLANTIC OCEAN~FF~#024
+;000002F9{UNDER WATER TUNNEL SPAIN                   ~FF~}#047#044
+UNDER WATER TUNNEL SPAIN                   ~FF~#044
+;00000325{         CHINA                   ~FF~}#037#034
+         CHINA                   ~FF~#034
+;00000347{         JAPAN                   ~FF~}#037#034
+         JAPAN                   ~FF~#034
+;00000369{         HONGKONG                ~FF~}#037#034
+         HONGKONG                ~FF~#034
+;0000038B{         GERMANY                 ~FF~}#037#034
+         GERMANY                 ~FF~#034
+;000003AD{         FRANCE                  ~FF~}#037#034
+         FRANCE                  ~FF~#034
+;000003CF{         MEDITERRANEAN SEA       ~FF~}#037#034
+         MEDITERRANEAN SEA       ~FF~#034
+;000003F1{         EGYPT                   ~FF~}#037#034
+         EGYPT                   ~FF~#034
+;00000413{         FINAL~29~STAGE             ~FF~}#040#034
+         FINAL~29~STAGE             ~FF~#034
+;00000435{         JINGLE BELL             ~FF~}#037#034
+         JINGLE BELL             ~FF~#034
+;00000457{         CHECK POINT             ~FF~}#037#034
+         CHECK POINT             ~FF~#034
+;00000479{         MEGA DRIVER             ~FF~}#037#034
+         MEGA DRIVER             ~FF~#034
+;0000049B{         DREAM FLYING            ~FF~}#037#034
+         DREAM FLYING            ~FF~#034
+;000004BD{         MEANING OF THE LIGHT    ~FF~}#037#034
+         MEANING OF THE LIGHT    ~FF~#034
+;000004DF{         GAME START              ~FF~}#037#034
+         GAME START              ~FF~#034
+;00000501{         TITLE                   ~FF~}#037#034
+         TITLE                   ~FF~#034
+;00000523{         TRAVEL SEAWARD          ~FF~}#037#034
+         TRAVEL SEAWARD          ~FF~#034
+;00000545{         STAFF ROLL              ~FF~}#037#034
+         STAFF ROLL              ~FF~#034
+;00000567{         CAR SELECT              ~FF~}#037#034
+         CAR SELECT              ~FF~#034
+;00000589{         FINISH                  ~FF~}#037#034
+         FINISH                  ~FF~#034
+;000005AB{         MODE SELECT             ~FF~}#037#034
+         MODE SELECT             ~FF~#034
+;000005CD{         BEGINNER START          ~FF~}#037#034
+         BEGINNER START          ~FF~#034
+;000005EF{         ~01~~02~~03~~04~~05~~06~~07~~08~~09~~0A~ABCDEFSHIFT DOWN  SHIFT UP    MUSIC SELECTACCELERATOR BRAKE         }#117#087
+         ~01~~02~~03~~04~~05~~06~~07~~08~~09~~0A~ABCDEF
+BAJA MARCHA 
+SUBE MARCHA 
+ELIGE MÚSICA
+ACELERADOR  
+FRENO         #087
+|1606
+@000F0206-000F0235-FF
+;00000000{LENGTH,WIDTH ,HEIGHT,MMTRANSMISSION,AUTO. SPEED.}#048#048
+LARGO ,ANCHO ,ALTO  ,MMTRANSMISION, AUTO  MARCHA#048
+|48
+@0019662A-00196649-FF
+;0019662A{  =P=L=A=Y=E=R  =~02~      _T_I_M_E}#035#032
+  =J=U=G=A=D=O=R=~02~  _T_I_E_M_P_O#032
+|32
+@00196660-00196667-FF
+;00196660{_P_O_S  }#008#008
+_P_O_S  #008
+|8
+@001966A8-001966C1-FF
+;001966A8{  _G_E_A_R  *A*U*T*O      }#026#026
+_M_A_R_C_H_A*A*U*T*O      #026
+|26
+@00196728-00196731-FF
+;00196728{  _L_A_P  }#010#010
+  _V_U_E  #010
+|10
+@000EF7FC-000EF942-FF
+;000EF7FC{             K E N Y A                       S P A I N                 T H E   A T L A N T I C           S W I T Z E R L A N D       N O R T H E R N   E U R O P E           R U S S I A                     C H I N A                       J A P A N                     H O N G K O N G                 A U S T R A L I A           }#327#327
+             K E N I A                       E S P A Ñ A           
+    E L   A T L Á N T I C O    
+             S U I Z A          
+     E U R O P A   N O R T E    
+           R U S I A            
+           C H I N A            
+           J A P Ó N            
+         H O N G K O N G        
+         A U S T R A L I A      
+     #327
+|327

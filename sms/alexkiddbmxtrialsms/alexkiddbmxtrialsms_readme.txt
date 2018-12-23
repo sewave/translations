@@ -1,13 +1,15 @@
 Alex Kidd - BMX Trial (Master System)
-Traducción al Español v1.0 (27/11/2018)
+Traducción al Español v1.1 (22/12/2018)
 (C) 2018 Wave Translations
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducción y hacking es completamente original.
+Esta traducción es completamente original.
+Pad Hack por mangaman3000.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+V1.2: Añadido pad hack
 
 ------------------------
 Instrucciones de Parcheo
@@ -24,5 +26,8 @@ CRC32: f9dbb533
 Créditos
 --------
 Wave - Hacking, traducción y pruebas.
+
+Paddle Hack 
+mangaman3000 : http://www.smspower.org/forums/16125-PaddleGameControlPadPatches
 
 -- FIN --

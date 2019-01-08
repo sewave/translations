@@ -1,0 +1,77 @@
+@00001B4C-00001B69-FF
+;00000000{BONUS POINTS  .      100000~00~2~00~}#036#030
+BONUS POINTS  .      100000~00~2~00~#030
+|30
+@00006650-000066D1-FF
+;00000000{Nu~FF~}#006#003
+Nu~FF~#003
+;00000003{~04~~01~SELECT TRANSMISSION~FF~}#031#022
+~04~~01~SELECT TRANSMISSION~FF~#022
+;00000019{~05~~0F~MANUAL~FF~}#018#009
+~05~~0F~MANUAL~FF~#009
+;00000022{~13~~0F~AUTOMATIC~FE~~FF~}#025#013
+~13~~0F~AUTOMATIC~FE~~FF~#013
+;0000002F{~03~~01~SELECT TUNE UP PARTS~FF~}#032#023
+~03~~01~SELECT TUNE UP PARTS~FF~#023
+;00000046{~03~~0E~HIPOWER    HIGRIP  SPECIAL~FF~}#038#029
+~03~~0E~HIPOWER    HIGRIP  SPECIAL~FF~#029
+;00000063{~03~~10~ENGINE     TIRES   TURBO~FE~~01~~00~~01~~00~}#052#031
+~03~~10~ENGINE     TIRES   TURBO~FE~~01~~00~~01~~00~#031
+|130
+@000087AC-000088A4-FF
+;00000000{Very easy~00~~0D~~12~Easy     ~00~~0D~~12~Normal   ~00~~0D~~12~Hard     ~00~~0D~~12~Very hard~00~~09~~1A~~40~1989,1992 SEGA~00~~0D~~0C~START~FF~}#144#084
+Very easy~00~~0D~~12~Easy     ~00~~0D~~12~Normal   ~00~~0D~~12~Hard     ~00~~0D~~12~Very hard~00~~09~~1A~~40~1989,1992 SEGA~00~~0D~~0C~START~FF~#084
+;00000054{~0D~~0E~OPTIONS~00~~07~~0C~Exit~0D~~0D~Bgm:~0D~~0D~Se:~0D~~0D~Level:~0D~~0D~Control:~00~~08~~15~~FB~BUTTON A   ~FC~ Brake      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD DOWN   ~FC~ Gear change~0D~~FB~           ~FC~}#255#165
+~0D~~0E~OPTIONS~00~~07~~0C~Exit~0D~~0D~Bgm:~0D~~0D~Se:~0D~~0D~Level:~0D~~0D~Control:~00~~08~~15~~FB~BUTTON A   ~FC~ Brake      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD DOWN   ~FC~ Gear change~0D~~FB~           ~FC~#165
+|249
+@000088B5-00008928-FF
+;00000000{BUTTON A   ~FC~ Accelerate ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD DOWN   ~FC~ Gear change~0D~~FB~           ~FC~}#155#116
+BUTTON A   ~FC~ Accelerate ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD DOWN   ~FC~ Gear change~0D~~FB~           ~FC~#116
+|116
+@00008939-000089AC-FF
+;00000000{BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Accelerate ~0D~~FB~PAD DOWN   ~FC~ Gear change~0D~~FB~           ~FC~}#155#116
+BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Accelerate ~0D~~FB~PAD DOWN   ~FC~ Gear change~0D~~FB~           ~FC~#116
+|116
+@000089BD-00008A30-FF
+;00000000{BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Brake      ~0D~~FB~PAD DOWN   ~FC~ Gear change~0D~~FB~           ~FC~}#155#116
+BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Brake      ~0D~~FB~PAD DOWN   ~FC~ Gear change~0D~~FB~           ~FC~#116
+|116
+@00008A41-00008AB4-FF
+;00000000{BUTTON A   ~FC~ Brake      ~0D~~FB~BUTTON B   ~FC~ Gear change~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ Accelerate ~0D~~FB~           ~FC~}#155#116
+BUTTON A   ~FC~ Brake      ~0D~~FB~BUTTON B   ~FC~ Gear change~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ Accelerate ~0D~~FB~           ~FC~#116
+|116
+@00008AC5-00008B38-FF
+;00000000{BUTTON A   ~FC~ Gear change~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ Accelerate ~0D~~FB~           ~FC~}#155#116
+BUTTON A   ~FC~ Gear change~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ Accelerate ~0D~~FB~           ~FC~#116
+|116
+@00008B49-00008BBC-FF
+;00000000{BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Gear change~0D~~FB~PAD UP     ~FC~ Accelerate ~0D~~FB~           ~FC~}#155#116
+BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Gear change~0D~~FB~PAD UP     ~FC~ Accelerate ~0D~~FB~           ~FC~#116
+|116
+@00008BCD-00008C40-FF
+;00000000{BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Gear change~0D~~FB~BUTTON C   ~FC~ Brake      ~0D~~FB~PAD UP     ~FC~ Accelerate ~0D~~FB~           ~FC~}#155#116
+BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Gear change~0D~~FB~BUTTON C   ~FC~ Brake      ~0D~~FB~PAD UP     ~FC~ Accelerate ~0D~~FB~           ~FC~#116
+|116
+@00008C51-00009071-FF
+;00000000{BUTTON A   ~FC~ Brake      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ High Gear  ~0D~~FB~PAD DOWN   ~FC~ Low Gear   ~00~~08~~15~~FB~BUTTON A   ~FC~ Accelerate ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ High Gear  ~0D~~FB~PAD DOWN   ~FC~ Low Gear   ~00~~08~~15~~FB~BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Accelerate ~0D~~FB~PAD UP     ~FC~ High Gear  ~0D~~FB~PAD DOWN   ~FC~ Low Gear   ~00~~08~~15~~FB~BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Brake      ~0D~~FB~PAD UP     ~FC~ High Gear  ~0D~~FB~PAD DOWN   ~FC~ Low Gear   ~00~~08~~15~~FB~BUTTON A   ~FC~ Brake      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ Low Gear   ~0D~~FB~PAD DOWN   ~FC~ High Gear  ~00~~08~~15~~FB~BUTTON A   ~FC~ Accelerate ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ Low Gear   ~0D~~FB~PAD DOWN   ~FC~ High Gear  ~00~~08~~15~~FB~BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Accelerate ~0D~~FB~PAD UP     ~FC~ Low Gear   ~0D~~FB~PAD DOWN   ~FC~ High Gear  ~00~~08~~15~~FB~BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Brake      ~0D~~FB~PAD UP     ~FC~ Low Gear   ~0D~~FB~PAD DOWN   ~FC~ High Gear  ~00~J9~00~~FF~}#1462#1057
+BUTTON A   ~FC~ Brake      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ High Gear  ~0D~~FB~PAD DOWN   ~FC~ Low Gear   ~00~~08~~15~~FB~BUTTON A   ~FC~ Accelerate ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ High Gear  ~0D~~FB~PAD DOWN   ~FC~ Low Gear   ~00~~08~~15~~FB~BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Accelerate ~0D~~FB~PAD UP     ~FC~ High Gear  ~0D~~FB~PAD DOWN   ~FC~ Low Gear   ~00~~08~~15~~FB~BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Brake      ~0D~~FB~PAD UP     ~FC~ High Gear  ~0D~~FB~PAD DOWN   ~FC~ Low Gear   ~00~~08~~15~~FB~BUTTON A   ~FC~ Brake      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ Low Gear   ~0D~~FB~PAD DOWN   ~FC~ High Gear  ~00~~08~~15~~FB~BUTTON A   ~FC~ Accelerate ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Turbo      ~0D~~FB~PAD UP     ~FC~ Low Gear   ~0D~~FB~PAD DOWN   ~FC~ High Gear  ~00~~08~~15~~FB~BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Brake      ~0D~~FB~BUTTON C   ~FC~ Accelerate ~0D~~FB~PAD UP     ~FC~ Low Gear   ~0D~~FB~PAD DOWN   ~FC~ High Gear  ~00~~08~~15~~FB~BUTTON A   ~FC~ Turbo      ~0D~~FB~BUTTON B   ~FC~ Accelerate ~0D~~FB~BUTTON C   ~FC~ Brake      ~0D~~FB~PAD UP     ~FC~ Low Gear   ~0D~~FB~PAD DOWN   ~FC~ High Gear  ~00~J9~00~~FF~#1057
+|1057
+@00009772-00009785-FF
+;00000000{BEST OUTRUNNERS~F8~~FF~}#023#017
+BEST OUTRUNNERS~F8~~FF~#017
+;00000011{~01~~05~~FE~}#012#003
+~01~~05~~FE~#003
+|20
+@00009786-000097A8-FF
+;00000000{   SCORE   NAME STAGE   RECORD~0D~~0D~~01~~16~~FD~}#050#035
+   SCORE   NAME STAGE   RECORD~0D~~0D~~01~~16~~FD~#035
+|35
+@0000FEAE-0000FF82-FF
+;00000000{  NEW YORK   WASHINGTON DC PITTSBURGH  INDIANAPOLIS   CHICAGO      ST.LOUIS      MEMPHIS      ATLANTA       MIAMI     NEW ORLEANS  SAN ANTONIO    DALLAS      OKLAHOMA      DENVER    GRAND CANYON  LOS ANGELES ~40~~04~~00~~00~~40~}#228#213
+  NEW YORK   WASHINGTON DC PITTSBURGH  INDIANAPOLIS   CHICAGO      ST.LOUIS      MEMPHIS      ATLANTA       MIAMI     NEW ORLEANS  SAN ANTONIO    DALLAS      OKLAHOMA      DENVER    GRAND CANYON  LOS ANGELES ~40~~04~~00~~00~~40~#213
+|213
+@00010C0E-00010C89-FF
+;00000000{NuNuNuMusic off~00~Main Theme~00~Pit Stop~00~Norma's theme~00~Overture~00~Shine county~00~Night ride~00~Highway~00~Hairspray~00~Insanity~00~Funky run~00~~00~~00~~00~~00~}#169#124
+NuNuNuMusic off~00~Main Theme~00~Pit Stop~00~Norma's theme~00~Overture~00~Shine county~00~Night ride~00~Highway~00~Hairspray~00~Insanity~00~Funky run~00~~00~~00~~00~~00~#124
+|124
+

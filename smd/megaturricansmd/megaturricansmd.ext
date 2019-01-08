@@ -1,0 +1,114 @@
+@00007FE4-0000803F-00
+;00007FE4{START~00~}#009#006
+START~00~#006
+;00007FEA{OPTIONS~00~}#011#008
+OPTIONS~00~#008
+;00007FF2{(1994 FACTOR 5~00~}#018#015
+(1994 FACTOR 5~00~#015
+;00008001{PUBLISHED BY DATA EAST USA~00~}#030#027
+PUBLISHED BY DATA EAST USA~00~#027
+;0000801C{LICENSED  BY~00~}#016#013
+LICENSED  BY~00~#013
+;00008029{SEGA ENTERPRISES, LTD.~00~}#026#023
+SEGA ENTERPRISES, LTD.~00~#023
+|92
+@0000807E-000080B9-00
+;0000807E{GAME OPTIONS~00~}#016#013
+GAME OPTIONS~00~#013
+;0000808B{GAME LEVEL~00~}#014#011
+GAME LEVEL~00~#011
+;00008096{RAPID FIRE~00~}#014#011
+RAPID FIRE~00~#011
+;000080A1{CONTROLS~00~}#012#009
+CONTROLS~00~#009
+;000080AA{MUSIC-TEST~00~}#014#011
+MUSIC-TEST~00~#011
+;000080B5{EXIT~00~}#008#005
+EXIT~00~#005
+|60
+@000080C6-000080E2-00
+;000080C6{ EASY ~00~}#010#007
+ EASY ~00~#007
+;000080CD{NORMAL~00~}#010#007
+NORMAL~00~#007
+;000080D4{ HARD ~00~}#010#007
+ HARD ~00~#007
+;000080DB{ON ~00~}#007#004
+ON ~00~#004
+;000080DF{OFF~00~}#007#004
+OFF~00~#004
+|29
+@0000814C-000081BF-00
+;0000814C{A - ROPE   B - FIRE~00~}#023#020
+A - ROPE   B - FIRE~00~#020
+;00008160{C - JUMP~00~}#012#009
+C - JUMP~00~#009
+;00008169{A - JUMP   B - FIRE~00~}#023#020
+A - JUMP   B - FIRE~00~#020
+;0000817D{C - ROPE~00~}#012#009
+C - ROPE~00~#009
+;00008186{A - FIRE   B - JUMP~00~}#023#020
+A - FIRE   B - JUMP~00~#020
+;0000819A{C - ROPE~00~}#012#009
+C - ROPE~00~#009
+;000081A3{A - ROPE   B - JUMP~00~}#023#020
+A - ROPE   B - JUMP~00~#020
+;000081B7{C - FIRE~00~}#012#009
+C - FIRE~00~#009
+|116
+@000081D6-000081E0-00
+;000081D6{GAME  OVER~00~}#014#011
+GAME  OVER~00~#011
+|11
+@000081F8-00008221-00
+;000081F8{THIS GAME IS FOR U.S.~00~}#025#022
+THIS GAME IS FOR U.S.~00~#022
+;0000820E{NTSC MACHINES ONLY.~00~}#023#020
+NTSC MACHINES ONLY.~00~#020
+|42
+@0000824C-0000826F-00
+;0000824C{CONTINUE ?~00~}#014#011
+CONTINUE ?~00~#011
+;00008257{CONTINUES LEFT 00~00~}#021#018
+CONTINUES LEFT 00~00~#018
+;00008269{YES~00~}#007#004
+YES~00~#004
+;0000826D{NO~00~}#006#003
+NO~00~#003
+|36
+@000082A4-000082D3-00
+;000082A4{DIAMONDS COLLECTED~00~}#022#019
+DIAMONDS COLLECTED~00~#019
+;000082B7{MISSED~00~}#010#007
+MISSED~00~#007
+;000082BE{LIVES COLLECTED~00~}#019#016
+LIVES COLLECTED~00~#016
+;000082CE{SCORE~00~}#009#006
+SCORE~00~#006
+|48
+@000082F4-00008330-FF
+;000082F4{CONGRATULATIONS!~00~YOU COMPLETED EASY MODE.~00~NOW TRY NORMAL...~00~~FF~}#073#061
+CONGRATULATIONS!~00~YOU COMPLETED EASY MODE.~00~NOW TRY NORMAL...~00~~FF~#061
+|61
+@0009DE33-0009E1A7-FF
+;0009DE33{eons have passed,~00~/since mankind last~00~/heard of the evil~00~/machine.~00~~00~~00~~02~X~00~~18~~00~~08~~00~~07~~FF~}#120#078
+eons have passed,~00~/since mankind last~00~/heard of the evil~00~/machine.~00~~00~~00~~02~X~00~~18~~00~~08~~00~~07~~FF~#078
+;0009DE81{~F8~~FF~}#008#002
+~F8~~FF~#002
+;0009DE83{~F8~/but now, after many~00~/generations enjoyed~00~/freedom and peace in~00~/the galaxy, the dark~00~/forces assemble~00~/again.~00~~00~~02~X~00~~18~~00~~08~~00~~05~~FF~}#170#122
+~F8~/but now, after many~00~/generations enjoyed~00~/freedom and peace in~00~/the galaxy, the dark~00~/forces assemble~00~/again.~00~~00~~02~X~00~~18~~00~~08~~00~~05~~FF~#122
+;0009DEFD{~F8~~00~~00~/in a sweep of terror~00~/the machine destroys~00~/dozens of planets and~00~/enslaves hundreds of~00~/peaceful people.~00~~00~~02~X~00~~18~~00~~08~~00~~07~~FF~}#171#120
+~F8~~00~~00~/in a sweep of terror~00~/the machine destroys~00~/dozens of planets and~00~/enslaves hundreds of~00~/peaceful people.~00~~00~~02~X~00~~18~~00~~08~~00~~07~~FF~#120
+;0009DF75{~F8~~00~~10~/their cries are heard~00~/throughout the farthest~00~/reaches of the galaxy.~00~~00~~00~~02~X~00~~18~~00~~08~~00~~03~~FF~}#134#086
+~F8~~00~~10~/their cries are heard~00~/throughout the farthest~00~/reaches of the galaxy.~00~~00~~00~~02~X~00~~18~~00~~08~~00~~03~~FF~#086
+;0009DFCB{~F8~~00~~10~/only one force is left~00~/which can rescue the~00~/lost souls: the brave~00~/fighters of the~00~/uss freedom forces.~00~/led by bren mc guire,~00~/these men fight for the~00~/innocent.~00~~00~~00~~03~~84~~00~(~00~~04~~00~~00~~00~~00~~00~~10~/as bren receives the last message of~00~/a young and beautiful girl crying~00~/in despair, he slips into his turrican~00~/assault suit and swears final revenge.~00~~00~~02~~08~~00~(~00~~04~~00~~00~~00~~00~~00~~10~/a lone warrior against the evil~00~/hordes of the machine,~00~/bren jumps out of the ship to face~00~/the ultimate challenge.~00~~00~~00~F~FC~'~00~M~F9~~00~~FF~}#630#477
+~F8~~00~~10~/only one force is left~00~/which can rescue the~00~/lost souls: the brave~00~/fighters of the~00~/uss freedom forces.~00~/led by bren mc guire,~00~/these men fight for the~00~/innocent.~00~~00~~00~~03~~84~~00~(~00~~04~~00~~00~~00~~00~~00~~10~/as bren receives the last message of~00~/a young and beautiful girl crying~00~/in despair, he slips into his turrican~00~/assault suit and swears final revenge.~00~~00~~02~~08~~00~(~00~~04~~00~~00~~00~~00~~00~~10~/a lone warrior against the evil~00~/hordes of the machine,~00~/bren jumps out of the ship to face~00~/the ultimate challenge.~00~~00~~00~F~FC~'~00~M~F9~~00~~FF~#477
+|885
+@0009E4D7-0009E6B7-FF
+;0009E4D7{as the machine and~00~its planet blew to~00~pieces, bren had~00~brought peace and~00~freedom to the galaxy.~00~~00~freeing himself from~00~the turrican suit he~00~moved towards the girl~00~he rescued....~00~~00~silently bren and~00~beautiful juko watched~00~the sunset on earth~00~and finally forgot about~00~the terrors they had~00~experienced.~00~~00~~00~but the struggle between~00~good and evil did not~00~end.~00~~00~soon the brave fighters~00~could be forced to~00~confront new dangers~00~beyond their~00~imagination.~00~~00~~00~the adventure is~00~just beginning....~00~}#577#481
+as the machine and~00~its planet blew to~00~pieces, bren had~00~brought peace and~00~freedom to the galaxy.~00~~00~freeing himself from~00~the turrican suit he~00~moved towards the girl~00~he rescued....~00~~00~silently bren and~00~beautiful juko watched~00~the sunset on earth~00~and finally forgot about~00~the terrors they had~00~experienced.~00~~00~~00~but the struggle between~00~good and evil did not~00~end.~00~~00~soon the brave fighters~00~could be forced to~00~confront new dangers~00~beyond their~00~imagination.~00~~00~~00~the adventure is~00~just beginning....~00~#481
+|481
+@0009E6BC-0009EBEC-FF
+;0009E6BC{a factor 5 production~00~~00~~00~a game by thomas engel~00~~00~~00~mega turrican~00~~00~~00~~00~~00~designed by~00~~00~thomas engel~00~frank matzke~00~julian eggebrecht~00~~00~~00~~00~main programming~00~~00~thomas engel~00~~00~~00~~00~additional programming~00~~00~holger schmidt~00~~00~~00~~00~graphics design~00~~00~frank matzke~00~~00~~00~~00~additional graphics~00~~00~ramiro vaca~00~~00~~00~~00~music and soundeffects~00~~00~chris h~81~lsbeck~00~~00~~00~~00~map design~00~~00~thomas engel~00~julian eggebrecht~00~willi b~84~cker~00~lutz osterkorn~00~~00~~00~~00~additional production~00~and support~00~~00~rene henke~00~silvia schmidt~00~anja~00~jens petersam~00~peter drescher~00~rudolf stember~00~~00~~00~~00~produced by~00~~00~julian eggebrecht~00~~00~~00~~00~based on a character~00~created by~00~~00~manfred trenz~00~~00~~00~~00~this game was created~00~using~00~~00~pegasus mega drive~00~~00~~00~~00~~00~all programs, graphics,~00~music, soundeffects, and~00~other data in any form~00~related to this game~00~~00~C 1994 by~00~factor 5 productions~00~~00~~00~~00~~00~~00~regards to~00~~00~achim moller~00~stefan tsuparidis~00~nils meier~00~sven meier~00~~00~andreas escher~00~andreas hagemann~00~axel bialke~00~bitmap brothers~00~blue byte~00~christian awizio~00~christoph weise~00~cybermedia~00~dirk jagalski~00~doc bobo~00~graftgold~00~hans ippisch~00~heinrich lenhardt~00~jan delgado~00~klaus dieter hartwig~00~kristin dodt~00~lucasfilm games~00~marc bonn~00~neon~00~renegade~00~sirus ahmadi~00~sven werner~00~thalion~00~torsten opperman~00~tina lustig~00~ulli m~81~hl~00~powerplay~00~~00~~00~and the chillur empire~00~~00~~00~~00~~00~~00~if you want to contact~00~factor 5, write to~00~~00~p.o. box 320251~00~50796 cologne~00~germany~00~~00~~00~~00~presented by~00~data east~00~~00~~00~the end ?!~00~}#1815#1329
+a factor 5 production~00~~00~~00~a game by thomas engel~00~~00~~00~mega turrican~00~~00~~00~~00~~00~designed by~00~~00~thomas engel~00~frank matzke~00~julian eggebrecht~00~~00~~00~~00~main programming~00~~00~thomas engel~00~~00~~00~~00~additional programming~00~~00~holger schmidt~00~~00~~00~~00~graphics design~00~~00~frank matzke~00~~00~~00~~00~additional graphics~00~~00~ramiro vaca~00~~00~~00~~00~music and soundeffects~00~~00~chris h~81~lsbeck~00~~00~~00~~00~map design~00~~00~thomas engel~00~julian eggebrecht~00~willi b~84~cker~00~lutz osterkorn~00~~00~~00~~00~additional production~00~and support~00~~00~rene henke~00~silvia schmidt~00~anja~00~jens petersam~00~peter drescher~00~rudolf stember~00~~00~~00~~00~produced by~00~~00~julian eggebrecht~00~~00~~00~~00~based on a character~00~created by~00~~00~manfred trenz~00~~00~~00~~00~this game was created~00~using~00~~00~pegasus mega drive~00~~00~~00~~00~~00~all programs, graphics,~00~music, soundeffects, and~00~other data in any form~00~related to this game~00~~00~C 1994 by~00~factor 5 productions~00~~00~~00~~00~~00~~00~regards to~00~~00~achim moller~00~stefan tsuparidis~00~nils meier~00~sven meier~00~~00~andreas escher~00~andreas hagemann~00~axel bialke~00~bitmap brothers~00~blue byte~00~christian awizio~00~christoph weise~00~cybermedia~00~dirk jagalski~00~doc bobo~00~graftgold~00~hans ippisch~00~heinrich lenhardt~00~jan delgado~00~klaus dieter hartwig~00~kristin dodt~00~lucasfilm games~00~marc bonn~00~neon~00~renegade~00~sirus ahmadi~00~sven werner~00~thalion~00~torsten opperman~00~tina lustig~00~ulli m~81~hl~00~powerplay~00~~00~~00~and the chillur empire~00~~00~~00~~00~~00~~00~if you want to contact~00~factor 5, write to~00~~00~p.o. box 320251~00~50796 cologne~00~germany~00~~00~~00~~00~presented by~00~data east~00~~00~~00~the end ?!~00~#1329
+|1329

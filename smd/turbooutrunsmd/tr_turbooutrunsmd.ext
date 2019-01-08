@@ -1,0 +1,119 @@
+@00001B4C-00001B67-00
+;00000000{BONUS POINTS  .      100000~00~}#031#028
+PUNTOS BONO   .      100000~00~#028
+|28
+@00006655-000066CD-FF
+;00000000{SELECT TRANSMISSION~FF~}#023#020
+ ELIGE TRANSMISIÓN ~FF~#020
+;00000014{~05~~0F~MANUAL~FF~}#018#009
+~05~~0F~MANUAL~FF~#009
+;0000001D{~13~~0F~AUTOMATIC~FE~~FF~}#025#013
+~13~~0F~  AUTO   ~FE~~FF~#013
+;0000002A{~03~~01~SELECT TUNE UP PARTS~FF~}#032#023
+~03~~01~ELIGE PARTES AFINAR ~FF~#023
+;00000041{~03~~0E~HIPOWER    HIGRIP  SPECIAL~FF~}#038#029
+~03~~0E~POTENCIA   AGARRE ESPECIAL~FF~#029
+;0000005E{~03~~10~ENGINE     TIRES   TURBO~FE~}#036#027
+~03~~10~MOTOR      RUEDAS  TURBO~FE~#027
+|121
+@000087AC-0000882D-00
+;00000000{Very easy~00~}#013#010
+Muy fácil~00~#010
+;0000000A{~0D~~12~Easy     ~00~}#021#012
+~0D~~12~Fácil    ~00~#012
+;00000016{~0D~~12~Normal   ~00~}#021#012
+~0D~~12~Normal   ~00~#012
+;00000022{~0D~~12~Hard     ~00~}#021#012
+~0D~~12~Difícil  ~00~#012
+;0000002E{~0D~~12~Very hard~00~}#021#012
+~0D~~12~Muy Duro ~00~#012
+;0000003A{~09~~1A~~40~1989,1992 SEGA~00~}#030#018
+~09~~1A~~40~1989,1992 SEGA~00~#018
+;0000004C{~0D~~0C~START~FF~~0D~~0E~OPTIONS~00~}#036#018
+~0D~~0C~JUGAR~FF~~0D~~0E~OPCIÓN ~00~#018
+;0000005E{~07~~0C~Exit~0D~~0D~Bgm:~0D~~0D~Se:~0D~~0D~Level:~0D~~0D~Control:~00~}#069#036
+~07~~0C~Sale~0D~~0D~Mús:~0D~~0D~Es:~0D~~0D~Nivel:~0D~~0D~Control:~00~#036
+|130
+@0000882E-0000906D-00
+;00000000{~08~~15~~FB~BOTÓN A    ~FC~ Freno      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ABAJO  ~FC~ Marcha     ~0D~~FB~           ~FC~            ~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Freno      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ABAJO  ~FC~ Marcha     ~0D~~FB~           ~FC~            ~00~#132
+;00000084{~08~~15~~FB~BOTÓN A    ~FC~ Acelerar   ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ABAJO  ~FC~ Marcha     ~0D~~FB~           ~FC~            ~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Acelerar   ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ABAJO  ~FC~ Marcha     ~0D~~FB~           ~FC~            ~00~#132
+;00000108{~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Acelerar   ~0D~~FB~PAD ABAJO  ~FC~ Marcha     ~0D~~FB~           ~FC~            ~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Acelerar   ~0D~~FB~PAD ABAJO  ~FC~ Marcha     ~0D~~FB~           ~FC~            ~00~#132
+;0000018C{~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Freno      ~0D~~FB~PAD ABAJO  ~FC~ Marcha     ~0D~~FB~           ~FC~            ~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Freno      ~0D~~FB~PAD ABAJO  ~FC~ Marcha     ~0D~~FB~           ~FC~            ~00~#132
+;00000210{~08~~15~~FB~BOTÓN A    ~FC~ Freno      ~0D~~FB~BOTÓN B    ~FC~ Marcha     ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Acelerar   ~0D~~FB~           ~FC~            ~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Freno      ~0D~~FB~BOTÓN B    ~FC~ Marcha     ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Acelerar   ~0D~~FB~           ~FC~            ~00~#132
+;00000294{~08~~15~~FB~BOTÓN A    ~FC~ Marcha     ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Acelerar   ~0D~~FB~           ~FC~            ~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Marcha     ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Acelerar   ~0D~~FB~           ~FC~            ~00~#132
+;00000318{~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Marcha     ~0D~~FB~PAD ARRIBA ~FC~ Acelerar   ~0D~~FB~           ~FC~            ~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Marcha     ~0D~~FB~PAD ARRIBA ~FC~ Acelerar   ~0D~~FB~           ~FC~            ~00~#132
+;0000039C{~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Marcha     ~0D~~FB~BOTÓN C    ~FC~ Freno      ~0D~~FB~PAD ARRIBA ~FC~ Acelerar   ~0D~~FB~           ~FC~            ~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Marcha     ~0D~~FB~BOTÓN C    ~FC~ Freno      ~0D~~FB~PAD ARRIBA ~FC~ Acelerar   ~0D~~FB~           ~FC~            ~00~#132
+;00000420{~08~~15~~FB~BOTÓN A    ~FC~ Freno      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Alta~0D~~FB~PAD ABAJO  ~FC~ Marcha Baja~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Freno      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Alta~0D~~FB~PAD ABAJO  ~FC~ Marcha Baja~00~#132
+;000004A4{~08~~15~~FB~BOTÓN A    ~FC~ Acelerar   ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Alta~0D~~FB~PAD ABAJO  ~FC~ Marcha Baja~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Acelerar   ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Alta~0D~~FB~PAD ABAJO  ~FC~ Marcha Baja~00~#132
+;00000528{~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Acelerar   ~0D~~FB~PAD ARRIBA ~FC~ Marcha Alta~0D~~FB~PAD ABAJO  ~FC~ Marcha Baja~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Acelerar   ~0D~~FB~PAD ARRIBA ~FC~ Marcha Alta~0D~~FB~PAD ABAJO  ~FC~ Marcha Baja~00~#132
+;000005AC{~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Freno      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Alta~0D~~FB~PAD ABAJO  ~FC~ Marcha Baja~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Freno      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Alta~0D~~FB~PAD ABAJO  ~FC~ Marcha Baja~00~#132
+;00000630{~08~~15~~FB~BOTÓN A    ~FC~ Freno      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Baja~0D~~FB~PAD ABAJO  ~FC~ Marcha Alta~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Freno      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Baja~0D~~FB~PAD ABAJO  ~FC~ Marcha Alta~00~#132
+;000006B4{~08~~15~~FB~BOTÓN A    ~FC~ Acelerar   ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Baja~0D~~FB~PAD ABAJO  ~FC~ Marcha Alta~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Acelerar   ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Turbo      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Baja~0D~~FB~PAD ABAJO  ~FC~ Marcha Alta~00~#132
+;00000738{~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Acelerar   ~0D~~FB~PAD ARRIBA ~FC~ Marcha Baja~0D~~FB~PAD ABAJO  ~FC~ Marcha Alta~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Freno      ~0D~~FB~BOTÓN C    ~FC~ Acelerar   ~0D~~FB~PAD ARRIBA ~FC~ Marcha Baja~0D~~FB~PAD ABAJO  ~FC~ Marcha Alta~00~#132
+;000007BC{~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Freno      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Baja~0D~~FB~PAD ABAJO  ~FC~ Marcha Alta~00~}#183#132
+~08~~15~~FB~BOTÓN A    ~FC~ Turbo      ~0D~~FB~BOTÓN B    ~FC~ Acelerar   ~0D~~FB~BOTÓN C    ~FC~ Freno      ~0D~~FB~PAD ARRIBA ~FC~ Marcha Baja~0D~~FB~PAD ABAJO  ~FC~ Marcha Alta~00~#132
+|2112
+@00009772-000097A3-FF
+;00000000{BEST OUTRUNNERS~F8~~FF~}#023#017
+MEJ. CORREDORES~F8~~FF~#017
+;00000011{~01~~05~~FE~   SCORE   NAME STAGE   RECORD}#042#033
+~01~~05~~FE~   PUNTOS  NOMB ETAPA   RECORD#033
+|50
+@0000FEAE-0000FF7D-FF
+;00000000{  NEW YORK   WASHINGTON DC PITTSBURGH  INDIANAPOLIS   CHICAGO      ST.LOUIS      MEMPHIS      ATLANTA       MIAMI     NEW ORLEANS  SAN ANTONIO    DALLAS      OKLAHOMA      DENVER    GRAND CANYON  LOS ANGELES }#208#208
+ NUEVA YORK  
+WASHINGTON DC
+ PITTSBURGH  
+INDIANAPOLIS 
+  CHICAGO    
+  ST.LOUIS   
+   MEMPHIS   
+   ATLANTA   
+    MIAMI    
+NUEVA ORLEANS
+ SAN ANTONIO 
+   DALLAS    
+  OKLAHOMA   
+   DENVER    
+ GRAN CAÑÓN  
+ LOS ÁNGELES #208
+|208
+@00010C14-00010C85-00
+;00000000{Music off~00~}#013#010
+No Música~00~#010
+;0000000A{Main Theme~00~}#014#011
+Main Theme~00~#011
+;00000015{Pit Stop~00~}#012#009
+Pit Stop~00~#009
+;0000001E{Norma's theme~00~}#017#014
+Norma's theme~00~#014
+;0000002C{Overture~00~}#012#009
+Overture~00~#009
+;00000035{Shine county~00~}#016#013
+Shine county~00~#013
+;00000042{Night ride~00~}#014#011
+Night ride~00~#011
+;0000004D{Highway~00~}#011#008
+Highway~00~#008
+;00000055{Hairspray~00~}#013#010
+Hairspray~00~#010
+;0000005F{Insanity~00~}#012#009
+Insanity~00~#009
+;00000068{Funky run~00~}#013#010
+Funky run~00~#010
+|114

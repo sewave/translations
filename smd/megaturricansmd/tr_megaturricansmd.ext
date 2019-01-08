@@ -1,0 +1,188 @@
+@00007FE4-0000803F-00
+;00007FE4{START~00~}#009#006
+JUGAR~00~#006
+;00007FEA{OPTIONS~00~}#011#008
+ OPCIÓN~00~#008
+;00007FF2{(1994 FACTOR 5~00~}#018#015
+(1994 FACTOR 5~00~#015
+;00008001{PUBLISHED BY DATA EAST USA~00~}#030#027
+  PUBLICA DATA EAST USA   ~00~#027
+;0000801C{LICENSED  BY~00~}#016#013
+LICENCIA POR~00~#013
+;00008029{SEGA ENTERPRISES, LTD.~00~}#026#023
+SEGA ENTERPRISES, LTD.~00~#023
+|92
+@0000807E-000080B9-00
+;0000807E{GAME OPTIONS~00~}#016#013
+  OPCIONES  ~00~#013
+;0000808B{GAME LEVEL~00~}#014#011
+DIFICULTAD~00~#011
+;00008096{RAPID FIRE~00~}#014#011
+TIRO RÁPID~00~#011
+;000080A1{CONTROLS~00~}#012#009
+CONTROL ~00~#009
+;000080AA{MUSIC-TEST~00~}#014#011
+ MÚSICAS  ~00~#011
+;000080B5{EXIT~00~}#008#005
+SALE~00~#005
+|60
+@000080C6-000080E2-00
+;000080C6{ EASY ~00~}#010#007
+FÁCIL ~00~#007
+;000080CD{NORMAL~00~}#010#007
+NORMAL~00~#007
+;000080D4{ HARD ~00~}#010#007
+ DURO ~00~#007
+;000080DB{ON ~00~}#007#004
+SÍ ~00~#004
+;000080DF{OFF~00~}#007#004
+NO ~00~#004
+|29
+@0000814C-000081BF-00
+;0000814C{A - ROPE   B - FIRE~00~}#023#020
+A - SOGA   B - TIRO~00~#020
+;00008160{C - JUMP~00~}#012#009
+C - BOTE~00~#009
+;00008169{A - JUMP   B - FIRE~00~}#023#020
+A - BOTE   B - TIRO~00~#020
+;0000817D{C - ROPE~00~}#012#009
+C - SOGA~00~#009
+;00008186{A - FIRE   B - JUMP~00~}#023#020
+A - TIRO   B - BOTE~00~#020
+;0000819A{C - ROPE~00~}#012#009
+C - SOGA~00~#009
+;000081A3{A - ROPE   B - JUMP~00~}#023#020
+A - SOGA   B - BOTE~00~#020
+;000081B7{C - FIRE~00~}#012#009
+C - TIRO~00~#009
+|116
+@000081D6-000081E0-00
+;000081D6{GAME  OVER~00~}#014#011
+GAME  OVER~00~#011
+|11
+@000081F8-00008221-00
+;000081F8{THIS GAME IS FOR U.S.~00~}#025#022
+ ESTE JUEGO ES SOLO  ~00~#022
+;0000820E{NTSC MACHINES ONLY.~00~}#023#020
+PARA MÁQUINAS EUA. ~00~#020
+|42
+@0000824C-0000826F-00
+;0000824C{CONTINUE ?~00~}#014#011
+CONTINUAR?~00~#011
+;00008257{CONTINUES LEFT 00~00~}#021#018
+CONTINUACIONES 00~00~#018
+;00008269{YES~00~}#007#004
+SÍ ~00~#004
+;0000826D{NO~00~}#006#003
+NO~00~#003
+|36
+@000082A4-000082D3-00
+;000082A4{DIAMONDS COLLECTED~00~}#022#019
+ DIAMANTES COGIDOS~00~#019
+;000082B7{MISSED~00~}#010#007
+ DEJAS~00~#007
+;000082BE{LIVES COLLECTED~00~}#019#016
+VIDAS RECOGIDAS~00~#016
+;000082CE{SCORE~00~}#009#006
+MARCA~00~#006
+|48
+@000082F4-00008330-FF
+;000082F4{CONGRATULATIONS!~00~YOU COMPLETED EASY MODE.~00~NOW TRY NORMAL...~00~~FF~}#073#061
+FELICIDADES!~00~HAS COMPLETADO EL MODO FÁCIL.~00~PRUEBA NORMAL...~00~~FF~#061
+|61
+@0009DE33-0009E1A7-FF
+;0009DE33{eons have passed,/\since mankind last/\heard of the evil/\machine.///~02~X/~18~/~08~/~07~~FF~}#120#078
+han pasado eones,/\
+desde que la humanidad/\
+vio la máquina malvada./
+//~02~X/~18~/~08~/~07~~FF~#078
+;0009DE81{~F8~~FF~}#008#002
+~F8~~FF~#002
+;0009DE83{~F8~\but now, after many/\generations enjoyed/\freedom and peace in/\the galaxy, the dark/\forces assemble/\again.//~02~X/~18~/~08~/~05~~FF~}#170#122
+~F8~\
+pero ahora, tras varias/\
+generaciones de paz y/\
+libertad en la galaxia,/\
+las fuerzas oscuras se/\
+reúnen./\   /
+/~02~X/~18~/~08~/~05~~FF~#122
+;0009DEFD{~F8~//\in a sweep of terror/\the machine destroys/\dozens of planets and/\enslaves hundreds of/\peaceful people.//~02~X/~18~/~08~/~07~~FF~}#171#120
+~F8~//\
+en un barrido de terror/\
+la máquina destruye/\
+docenas de planetas /\
+y esclaviza a cientos /\
+de personas. /
+/~02~X/~18~/~08~/~07~~FF~#120
+;0009DF75{~F8~/~10~\their cries are heard/\throughout the farthest/\reaches of the galaxy.///~02~X/~18~/~08~/~03~~FF~}#134#086
+~F8~/~10~\
+sus llantos se oyen por/\
+los tramos más lejanos/\
+de la galaxia./\     /
+//~02~X/~18~/~08~/~03~~FF~#086
+;0009DFCB{~F8~/~10~\only one force is left/\which can rescue the/\lost souls: the brave/\fighters of the/\uss freedom forces./\led by bren mc guire,/\these men fight for the/\innocent.///~03~~84~/(/~04~/////~10~\as bren receives the last message of/\a young and beautiful girl crying/\in despair, he slips into his turrican/\assault suit and swears final revenge.//~02~~08~/(/~04~/////~10~\a lone warrior against the evil/\hordes of the machine,/\bren jumps out of the ship to face/\the ultimate challenge.///F~FC~'/M~F9~/~FF~}#630#477
+~F8~/~10~\
+solo los valientes de la/\
+fuerza de libertad de/\
+los eua pueden rescatar/\
+a las almas perdidas./\
+guiados por bren mc/\
+guire, luchan por los/\
+inocentes./\           ///~03~~84~/(/~04~/////~10~\
+al recibir bren el último mensaje de/\
+una joven y bella chica llorando/\
+desesperada, se enfunda su traje de/\
+asalto turrican y jura vengarse./\        //~02~~08~/(/~04~/////~10~\
+un guerrero solitario contra las/\
+hordas de la máquina,/\
+bren sale de su nave para enfrentarse/\
+al reto definitivo. ///F~FC~'/M~F9~/~FF~#477
+|885
+@0009E4D7-0009E6B7-FF
+;0009E4D7{as the machine and/its planet blew to/pieces, bren had/brought peace and/freedom to the galaxy.//freeing himself from/the turrican suit he/moved towards the girl/he rescued....//silently bren and/beautiful juko watched/the sunset on earth/and finally forgot about/the terrors they had/experienced.///but the struggle between/good and evil did not/end.//soon the brave fighters/could be forced to/confront new dangers/beyond their/imagination.///the adventure is/just beginning..../}#577#481
+mientras la máquina y su/
+planeta explotaban, bren/
+había traído la paz y la/
+libertad a la galaxia.//
+liberándose del traje/
+turrican se acercó a la/
+chica que había/
+rescatado....//
+en silencio bren y la/
+bella juko miraron el/
+ocaso en la tierra y/
+finalmente olvidaron los/
+terrores que habían/
+pasado.///
+pero la lucha entre el/
+bien y el mal no había/
+acabado.//
+pronto los valientes/
+podrían ser forzados a/
+enfrentarse a nuevos/
+peligros inimaginables.///
+la aventura acaba de/
+comenzar..../   /#481
+|481
+@0009E6BC-0009EBEC-FF
+;0009E6BC{a factor 5 production///a game by thomas engel///mega turrican/////designed by//thomas engel/frank matzke/julian eggebrecht////main programming//thomas engel////additional programming//holger schmidt////graphics design//frank matzke////additional graphics//ramiro vaca////music and soundeffects//chris h~81~lsbeck////map design//thomas engel/julian eggebrecht/willi b~84~cker/lutz osterkorn////additional production/and support//rene henke/silvia schmidt/anja/jens petersam/peter drescher/rudolf stember////produced by//julian eggebrecht////based on a character/created by//manfred trenz////this game was created/using//pegasus mega drive/////all programs, graphics,/music, soundeffects, and/other data in any form/related to this game//C 1994 by/factor 5 productions//////regards to//achim moller/stefan tsuparidis/nils meier/sven meier//andreas escher/andreas hagemann/axel bialke/bitmap brothers/blue byte/christian awizio/christoph weise/cybermedia/dirk jagalski/doc bobo/graftgold/hans ippisch/heinrich lenhardt/jan delgado/klaus dieter hartwig/kristin dodt/lucasfilm games/marc bonn/neon/renegade/sirus ahmadi/sven werner/thalion/torsten opperman/tina lustig/ulli m~81~hl/powerplay///and the chillur empire//////if you want to contact/factor 5, write to//p.o. box 320251/50796 cologne/germany////presented by/data east///the end ?!/}#1815#1329
+producción factor 5///
+un juego de thomas engel///mega turrican/////
+diseñado por//thomas engel/frank matzke/julian eggebrecht////
+programa principal//thomas engel////
+programa adicional//holger schmidt////
+diseño gráfico//frank matzke////
+gráficos adicionales//ramiro vaca////
+música y efectos//chris h~81~lsbeck////
+diseño de mapas//thomas engel/julian eggebrecht/willi b~84~cker/lutz osterkorn////
+producción adicional y/soporte//rene henke/silvia schmidt/anja/jens petersam/peter drescher/rudolf stember////
+producido por//julian eggebrecht////
+basado en personaje/creado por//manfred trenz////
+este juego fue creado/usando una//mega drive pegasus/////
+los programas, gráficos,/música, efectos y otros/datos en cualquier forma/de este juego son//
+C 1994 por/factor 5 productions//////
+saludos a//achim moller/stefan tsuparidis/nils meier/sven meier//andreas escher/andreas hagemann/axel bialke/bitmap brothers/blue byte/christian awizio/christoph weise/cybermedia/dirk jagalski/doc bobo/graftgold/hans ippisch/heinrich lenhardt/jan delgado/klaus dieter hartwig/kristin dodt/lucasfilm games/marc bonn/neon/renegade/sirus ahmadi/sven werner/thalion/torsten opperman/tina lustig/ulli m~81~hl/
+powerplay///y el imperio chillur//////
+si quieres contactar con/factor 5, escribe a//p.o. box 320251/50796 cologne/alemania////
+presentado por/data east///fin ?!/#1329
+|1329

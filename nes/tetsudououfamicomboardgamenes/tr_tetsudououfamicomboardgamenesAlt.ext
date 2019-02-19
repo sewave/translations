@@ -1,0 +1,166 @@
+@000024AF-000028C1-FF
+;000024AF{Lottery won! $1000!~FF~}#023#020
+La lotería! $1000! ~FF~#020
+;000024C3{Spin to win!/{NUM}{x]}$100! ~FF~}#032#022
+Gira y gana!/{NUM}{x]}$100! ~FF~#022
+;000024D9{Spin to win!/{NUM}{x]}$50!   ~FF~}#033#023
+Gira y gana!/{NUM}{x]}$50!   ~FF~#023
+;000024F0{You got a $100 gift! ~FF~}#025#022
+Regalo de $100!      ~FF~#022
+;00002506{Got $200 bonus! ~FF~}#020#017
+Bono de $200!   ~FF~#017
+;00002517{~F7~ swaps  /money!~FF~}#023#017
+~F7~ cambia/dinero!~FF~#017
+;00002528{~F7~ swaps/all RRs~FF~}#022#016
+~F7~ cambia/FCS   ~FF~#016
+;00002538{~F7~,swaps out/assets! _~FF~}#028#022
+~F7~,cambia  /activos! _~FF~#022
+;0000254E{Spin!/{NUM}{x]}$100 to win~FF~}#030#020
+Gira!/{NUM}{x]}$100 y gana~FF~#020
+;00002562{RR profits!/RR{NUM}{x]}$100! ~FF~}#033#023
+Dinero FC! /{NUM}FC{x]}$100! ~FF~#023
+;00002579{Earthquake! Rail/damage occured!~FF~}#036#033
+Terremoto! Hubo /daños en vías! ~FF~#033
+;0000259A{~F7~ gives you/$200!   ~FF~}#027#021
+~F7~ te da/$200!       ~FF~#021
+;000025AF{Teleported!~FF~}#015#012
+Teletrans.!~FF~#012
+;000025BB{Buy RR station/for $500. ~FF~}#029#026
+Compra estación/por $500.~FF~#026
+;000025D5{DEST.Chng~FF~}#013#010
+DEST.Chng~FF~#010
+;000025DF{STRIKE!/Your rails locked/for a single turn.~FF~}#048#045
+HUELGA!/Tus vías cerradas/durante un turno. ~FF~#045
+;0000260C{Nothing.../~F7~, please/try again.  ~FF~}#040#034
+Nada...  /~F7~, por/favor reintenta.~FF~#034
+;0000262E{An accident happened!/-$500..~FF~}#033#030
+Ocurrió un accidente!/-$500..~FF~#030
+;0000264C{Lost money!/-ROLL{NUM}{x]}$100.~FF~}#035#025
+Pierdes! /-{NUM}TIRADA{x]}$100.~FF~#025
+;00002665{Pay RR taxes!/{NUM}RRs{x]}$100... ~FF~}#038#028
+Paga tasas FC!/{NUM}FCs{x]}$100...~FF~#028
+;00002681{Repairs!/-ROLL{NUM}{x]}$100..~FF~}#033#023
+Reparas!/-{NUM}TIRADA{x]}$100~FF~#023
+;00002698{Repairs!/-{NUM}{x]}$100...~FF~}#030#020
+Reparas!/-{NUM}{x]}$100...~FF~#020
+;000026AC{A show! Paid $200~FF~}#021#018
+Show! Pagas $200 ~FF~#018
+;000026BE{Snow storm!/Some tracks/damages!_~FF~}#037#034
+Tormenta!  /Daño en las/vías!   _~FF~#034
+;000026E0{You are ~FB~stucked  /in cal~FB~amity~FF~}#041#032
+Estás ~FB~parado en/una cala~FB~midad~FF~#032
+;00002700{Gave~F7~/$100{x]}ROLL{NUM}/as gift.~FF~}#039#026
+Diste ~F7~/$100{x]}{NUM}TIRADA./   ~FF~#026
+;0000271A{Doctor bill!/$100{x]}ROLL~FF~}#029#023
+Médico!   /$100{x]}TIRADA~FF~#023
+;00002731{+$100 per Mark!  ~FF~}#021#018
++$100 por Marca! ~FF~#018
+;00002743{Take oppnt. RR free!~FF~}#024#021
+Roba FC de oponente!~FF~#021
+;00002758{Take a RR for free!  ~FF~}#025#022
+Toma un FC gratis!   ~FF~#022
+;0000276E{Someone messed/up~FB~ wi~FB~t~FB~h the d~FB~i~FB~ce~FF~}#055#037
+Alguien pifió el/~FB~dad~FB~o~FB~.      ~FB~ ~FB~  ~FF~#037
+;00002793{Sell_1_RR you own!    _~FF~}#027#024
+Vende uno de tus FCs! _~FF~#024
+;000027AB{Get +1 turn~FF~}#015#012
+Ganas turno~FF~#012
+;000027B7{$150_to own a RR.  __~FF~}#025#022
+$150_adueñarte FC. __~FF~#022
+;000027CD{Fire rampages/around a station!!~FF~}#036#033
+Fuego descontrolado/en estación!~FF~#033
+;000027EE{Block a RR/station. $150. ~FF~}#030#027
+Bloquea estación./$150.   ~FF~#027
+;00002809{Buy a RR for $500.   ~FF~}#025#022
+Compra FC por $500.  ~FF~#022
+;0000281F{Horse racing event!/Are_you interested..  /<A> To Bet - <B> Pass ~FF~}#069#066
+Carreras de/caballos! /Estás interesado?  /<A> Apuesta - <B> Pasa~FF~#066
+;00002861{~F7~ is/broke! Sell a/RR for cash.~FF~}#038#032
+~F7~ se/arruinó!/Vende FCs por $. ~FF~#032
+;00002881{Destination!/~F5~ Moves{x]}$50/$~FD~gained!~FF~}#047#035
+Destino!  /~F5~ Movido{x]}$50/$~FD~ganados!~FF~#035
+;000028A4{Select a new/destination.    ~FF~}#033#030
+Elige nuevo/destino.         ~FF~#030
+|1043
+@000028C2-0000298A-FF
+;000028C2{Set new destination.~FF~}#024#021
+Establece destino.  ~FF~#021
+;000028D7{~F7~  /head to ~F6~~FF~}#023#014
+~F7~ va/hacia ~F6~.~FF~#014
+;000028E5{      ~FF~}#010#007
+      ~FF~#007
+;000028EC{Uh oh! Youre stuck/here!~FF~}#028#025
+Uh oh!/Estás atascado!  ~FF~#025
+;00002905{~F7~repair/charges. /~F5~{x]}$300 ~FB~$~FD~ paid.~FF~}#053#035
+~F7~cargos/reparar. /~F5~{x]}$300 ~FB~$~FD~ pagó.~FF~#035
+;00002928{~F6~,gets hit by/the earthquake!~FF~}#036#030
+~F6~,golpeado /por el terremoto!~FF~#030
+;00002946{At ~F6~,a house/is on fire!    ~FF~}#035#029
+En ~F6~,una/casa está ardiendo!~FF~#029
+;00002963{~F6~ city.~FC~~FF~}#018#009
+~F6~ ciud.~FC~~FF~#009
+;0000296C{Nothing to take...  ~FF~}#024#021
+Nada a tomar...     ~FF~#021
+;00002981{~F7~new DONE }#013#010
+~F7~nue HECH #010
+|201
+@000029A9-000029EA-FF
+;000029A9{no{x]}$100   /$~FD~_gain~FF~}#028#019
+no{x]}$100   /$~FD~_gana~FF~#019
+;000029BC{LN  ~F5~no{x]}$100   /$~FD~_paid~FF~}#036#024
+LN  ~F5~no{x]}$100   /$~FD~_pagó~FF~#024
+;000029D4{Got ~F5~ {x]}$100./$~FD~ made! ~FF~}#035#023
+Rec ~F5~ {x]}$100./$~FD~ reci.!~FF~#023
+|66
+@00002A13-00002A27-FF
+;00002A13{~F7~ is out of/funds!  ~FF~}#027#021
+~F7~ no tiene/dinero!  ~FF~#021
+|21
+@00002A88-00002AC3-FF
+;00002A88{has won the game·   /Congrats and thanks/   for playing·   ~FF~}#063#060
+ganó la partida·    /Felicidades y      /gracias por jugar·~FF~#060
+|60
+@000041D5-00004282-FF
+;000041D5{Select 1  ~FF~}#014#011
+Elige 1   ~FF~#011
+;000041E0{Rail Road station.  Press B to return to game.    Select a RR.~FF~}#066#063
+Estación Ferrocar.  Vuelve al juego pulsando B.   Elige un FC.~FF~#063
+;0000421F{___             Return to game~FF~}#034#031
+___             Volver a juego~FF~#031
+;0000423E{_              Not enough $~FF~}#031#028
+_              Faltan     $~FF~#028
+;0000425A{Cannnot buy it.                          }#041#041
+No puede comprarlo.                      #041
+|174
+@000054AE-000054D4-FF
+;000054AE{1 STORM  {x]}2 CONNOR {x]}3 NOVITA {x]}4 AIRIDE }#048#039
+1 STORM  {x]}2 CONNOR {x]}3 NOVITA {x]}4 AIRIDE #039
+|39
+@00006D75-00006E3C-FF
+;00006D75{BirminghBristol London  CambridgPortsmouDover   CherbourLe HarveNantes  Le Mans Paris   Lyon    BrusselsLuxembrgBerne   AmsterdmBergstrmDortmundHamburg Hanover FrankfrtNurnbergStuttgrdMunich  Zurich  }#200#200
+Birmingh
+Bristol 
+Londres 
+Cambridg
+Portsmou
+Dover   
+Cherbour
+Le Havre
+Nantes  
+Le Mans 
+París   
+Lyon    
+Bruselas
+Luxembgo
+Berna   
+Amsterdm
+Bergstrm
+Dortmund
+Hamburgo
+Hanovre 
+Frankfrt
+Nurnberg
+Stuttgrd
+Munich  
+Zurich  #200
+|200

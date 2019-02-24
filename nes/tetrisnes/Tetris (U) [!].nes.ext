@@ -1,0 +1,88 @@
+@000006CB-000006D7-FF
+;000006CB{ZN~3B~HEIGHT~3C~~FE~Z~37~}#025#013
+ZN~3B~HEIGHT~3C~~FE~Z~37~#013
+|13
+@00002DAF-000031F5-FF
+;00002DAF{00000W00G005000095009500 W0W                                WWW                                W~40~W                                W~60~W                                W~80~W                                W~A0~W                                W~C0~W         TM AND c 1987          W~E0~W                                X0W     V/O ELECTRONORGTECHNICA    XWW                                X~40~W           ("ELORG")            X~60~W                                X~80~W   TETRIS LICENSED TO NINTENDO  X~A0~W                                X~C0~W       c 1989 NINTENDO          X~E0~W                                Y0W      ALL RIGHTS RESERVED       YWW                                Y~40~W    ORIGINAL CONCEPT,DESIGN     Y~60~W                                Y~80~W           AND PROGRAM          Y~A0~W                                Y~C0~W       BY ALEXEY PAZHITNOV      Y~E0~W                                Z0W                                ZWW                                Z~40~W                                Z~60~W                                Z~80~W                                Z~A0~W                                Z~C0~W            )~DF~  ~BF~}#1170#1095
+00000W00G005000095009500 W0W                                WWW                                W~40~W                                W~60~W                                W~80~W                                W~A0~W                                W~C0~W         TM AND c 1987          W~E0~W                                X0W     V/O ELECTRONORGTECHNICA    XWW                                X~40~W           ("ELORG")            X~60~W                                X~80~W   TETRIS LICENSED TO NINTENDO  X~A0~W                                X~C0~W       c 1989 NINTENDO          X~E0~W                                Y0W      ALL RIGHTS RESERVED       YWW                                Y~40~W    ORIGINAL CONCEPT,DESIGN     Y~60~W                                Y~80~W           AND PROGRAM          Y~A0~W                                Y~C0~W       BY ALEXEY PAZHITNOV      Y~E0~W                                Z0W                                ZWW                                Z~40~W                                Z~60~W                                Z~80~W                                Z~A0~W                                Z~C0~W            )~DF~  ~BF~#1095
+|1095
+@000034EB-00003500-FF
+;000034EB{    PUSH START   ~84~~85~~86~~87~~88~}#037#022
+    PUSH START   ~84~~85~~86~~87~~88~#022
+|22
+@0000371D-0000372D-FF
+;0000371D{ GAME  TYPE ~34~~A0~~81~~83~~A0~}#032#017
+ GAME  TYPE ~34~~A0~~81~~83~~A0~#017
+|17
+@00003858-00003868-FF
+;00003858{ MUSIC TYPE ~34~~80~~43~~73~~A0~}#032#017
+ MUSIC TYPE ~34~~80~~43~~73~~A0~#017
+|17
+@0000390F-0000391E-FF
+;0000390F{b MUSIC~53~~54~1 ~2C~~62~~80~~61~~60~}#037#016
+b MUSIC~53~~54~1 ~2C~~62~~80~~61~~60~#016
+|16
+@00003955-00003964-FF
+;00003955{b MUSIC~53~~54~2 ~2C~~62~~82~~82~~62~}#037#016
+b MUSIC~53~~54~2 ~2C~~62~~82~~82~~62~#016
+|16
+@0000399B-000039AA-FF
+;0000399B{b MUSIC~53~~54~3 ~2C~~82~~90~~73~~82~}#037#016
+b MUSIC~53~~54~3 ~2C~~82~~90~~73~~82~#016
+|16
+@00003C0F-00003C19-FF
+;00003C0F{LEVEL~48~    ~47~}#017#011
+LEVEL~48~    ~47~#011
+|11
+@00003C1A-00003C22-FF
+;00003C1A{HEIGHT~48~ ~3C~}#015#009
+HEIGHT~48~ ~3C~#009
+|9
+@00003D68-00003D80-FF
+;00003D68{ b    NAME  SCORE  LV ~2C~ ~3C~}#031#025
+ b    NAME  SCORE  LV ~2C~ ~3C~#025
+|25
+@00003FC4-00003FD6-FF
+;00003FC4{ LINES-   ~3C~~3B~      ~3C~}#028#019
+ LINES-   ~3C~~3B~      ~3C~#019
+|19
+@00003FDE-00003FE8-FF
+;00003FDE{ -TYPE~3C~~77~~3D~~3E~~3E~}#026#011
+ -TYPE~3C~~77~~3D~~3E~~3E~#011
+|11
+@0000405C-0000406B-FF
+;0000405C{SCORE ~3C~~67~X0W~73~~38~~39~~39~~39~}#037#016
+SCORE ~3C~~67~X0W~73~~38~~39~~39~~39~#016
+|16
+@0000412E-00004137-FF
+;0000412E{NEXT~34~~72~~83~~78~X~C0~}#025#010
+NEXT~34~~72~~83~~78~X~C0~#010
+|10
+@00004223-0000422C-FF
+;00004223{LEVEL~3C~~77~~78~Y~A0~}#022#010
+LEVEL~3C~~77~~78~Y~A0~#010
+|10
+@00004425-00004431-FF
+;00004425{  -TYPE ~3C~~39~~39~~39~~39~}#028#013
+  -TYPE ~3C~~39~~39~~39~~39~#013
+|13
+@000044A9-000044E4-FF
+;000044A9{     CONGRATULATIONS    ~3C~~72~~60~~61~X0W~40~~83~~62~~3B~                        ~3C~}#087#060
+     CONGRATULATIONS    ~3C~~72~~60~~61~X0W~40~~83~~62~~3B~                        ~3C~#060
+|60
+@00004558-00004570-FF
+;00004558{     TETRIS MASTER~6F~     ~3C~}#031#025
+     TETRIS MASTER~6F~     ~3C~#025
+|25
+@000045C1-000045FC-FF
+;000045C1{ PLEASE ENTER YOUR NAME ~3C~~82~~82~~62~Y0W~40~~83~~62~~3B~                        ~3C~}#087#060
+ PLEASE ENTER YOUR NAME ~3C~~82~~82~~62~Y0W~40~~83~~62~~3B~                        ~3C~#060
+|60
+@0000462A-00004642-FF
+;0000462A{ b    NAME  SCORE  LV ~2C~ ~3C~}#031#025
+ b    NAME  SCORE  LV ~2C~ ~3C~#025
+|25
+@00004838-00004850-FF
+;00004838{ b    NAME  SCORE  LV ~2C~ ~3C~}#031#025
+ b    NAME  SCORE  LV ~2C~ ~3C~#025
+|25

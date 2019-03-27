@@ -1,0 +1,113 @@
+@00001240-00001288-FF
+;00000000{1=S=T= = =-=2=N=D= = =-=3=R=D= = =-=4=T=H= = =-=5=T=H= = =-=B=E=S=T= =5=~FF~}#076#073
+1=R=O= = =-=2=D=O= = =-=3=R=O= = =-=4=T=O= = =-=5=T=O= = =-=5=M=E=J=O=R=~FF~#073
+|73
+@0000208E-00002097-00
+;00000000{GAME OVER~00~}#013#010
+FIN JUEGO~00~#010
+|10
+@0000217E-000021A6-00
+;00000000{SELECT AND PUSH RUN~00~}#023#020
+ ELIGE Y PULSA RUN ~00~#020
+;00000014{CONTINUE~00~}#012#009
+CONTINUA~00~#009
+;0000001D{END~00~}#007#004
+FIN~00~#004
+;00000021{CREDIT ~00~}#011#008
+CRÉDITO~00~#008
+|41
+@000022CF-000022D6-00
+;00000000{D=E=M=O=}#008#008
+D=E=M=O=#008
+|8
+@000022ED-000022F8-00
+;00000000{ROUND FINAL~00~}#015#012
+RONDA FINAL~00~#012
+|12
+@000023B7-000023CE-00
+;00000000{R=O=U=N=D= = =-= =X= = =}#024#024
+R=O=N=D=A= = =-= =X= = =#024
+|24
+@00002D97-00002DC1-00
+;00000000{TAITO CORPORATION 1990~00~}#026#023
+TAITO CORPORATION 1990~00~#023
+;00000017{ALL RIGHTS RESERVED~00~}#023#020
+DERECHOS RESERVADOS~00~#020
+|43
+@00002DE9-00002E0C-00
+;00000000{THANK YOU FOR PLAYING~00~}#025#022
+  GRACIAS POR JUGAR  ~00~#022
+;00000016{SEE YOU AGAIN~00~}#017#014
+  NOS VEMOS  ~00~#014
+|36
+@0000316C-00003198-00
+;00000000{The New Zealand Story~00~}#025#022
+The New Zealand Story~00~#022
+;00000016{~00~}#004#001
+~00~#001
+;00000017{~00~}#004#001
+~00~#001
+;00000018{~00~}#004#001
+~00~#001
+;00000019{DAIKOKU HISAYA 1989~00~}#023#020
+DAIKOKU HISAYA 1989~00~#020
+|45
+@0000345A-00003463-00
+;00000000{ICE-WHALE~00~}#013#010
+BALLENA-H~00~#010
+|10
+@00004033-0000403F-00
+;00000000{ROCK-OCTOPUS~00~}#016#013
+PULPO-ROCA  ~00~#013
+|13
+@00004AD0-00004AE2-00
+;00000000{MECHANICAL-TUMBLER~00~}#022#019
+VOLTEADOR-MECÁNICO~00~#019
+|19
+@00005420-0000542C-00
+;00000000{LEOPARD SEAL~00~}#016#013
+FOCA LEOPARD~00~#013
+|13
+@00009BEC-0000A210-FF
+;00000000{H=E=R=E= =I=S= =N=A=T=U=R=E= =Z=O=O=L=O=G=-=I=C=A=L= =G=A=R=D=E=N=S= =I=N= =N=O=R=T=H= =I=S=L=A=N=D= =T=W=O= =K=I=W=I=S= =C=A=L=L=-=E=D= =T=I=K=I= =A=N=D= =P=H=E=E=-=P=H=E=E= =L=I=V=E= =T=O=G=E=T=H=E=R= =W=I=T=H= = = = =M=A=N=Y= =F=E=L=L=O=W=S=.= = = = = = = = = =O=N=E= =D=A=Y=,= =P=H=E=E=-=P=H=E=E= =A=N=D=O=T=H=E=R= =F=E=L=L=O=W=S= =A=R=E= =C=A=R=-=R=I=E=D= =O=F=F= =B=Y= =A= =L=E=O=P=A=R=D= =S=E=A=L= =W=H=O= =C=A=M=E= =F=R=O=M= =T=H=E=A=N=T=A=R=C=T=I=C= =O=C=E=A=N=.= = =A=N=D= =T=H=E= =L=E=O=P=A=R=D= =S=E=A=L= =I=S= = = =S=E=L=L=I=N=G= =K=I=W=I=S= =I=N= =V=A=R=I=-=O=U=S= =P=L=A=C=E=S=.=.=.= = = = = = = = = =T=I=K=I= =G=O=E=S= =O=N= =A= =J=O=U=R=N=E=Y=T=O= =H=E=L=P= =P=H=E=E=-=P=H=E=E= =A=N=D= =O=T=H=E=R= =F=E=L=L=O=W=S= =O=U=T= =O=F= = =T=H=E= =D=A=N=G=E=R=O=U=S= =P=L=A=C=E=S=.=.=Y=O=U= =S=H=O=U=L=D= =K=N=O=W= =W=E=L=L= = =T=H=E= =S=T=O=R=Y= =A=F=T=E=R= =T=H=I=S=.= =B=E=C=A=U=S=E= =Y=O=U= =W=O=U=L=D= =M=A=K=E=T=H=E= =S=T=O=R=Y= =A=F=T=E=R= =T=H=I=S= = =B=Y= =Y=O=U=R=S=E=L=F=.=.=.=.=.= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =P=U=S=H= =R=U=N= =T=O= =S=T=A=R=T= = =                                                                                                                                                                                             "                   "                   "                   "                   "                   "                   "!!!!!!!!!!!!!!!!!!!!                   "                   "                                                            ~FF~}#1576#1573
+E=S=T=O=S= =S=O=N= =L=O=S= =J=A=R=D=I=N=E=S=
+D=E=L= =Z=O=O=L=Ó=G=I=C=O= =N=A=T=U=R=A=L= =
+D=E= =I=S=L=A= =N=O=R=T=E= =D=O=N=D=E= = = =
+L=O=S= =K=I=W=I=S= =T=I=K=I= =Y= = = = = = =
+P=H=E=E=-=P=H=E=E= =V=I=V=E=N= =J=U=N=T=O=S=
+C=O=N= =M=U=C=H=O=S= =A=M=I=G=O=S=.= = = = =
+U=N= =D=Í=A=,= =P=H=E=E=-=P=H=E=E= =Y= = = =
+O=T=R=O=S= =A=M=I=G=O=S= =S=O=N= = = = = = =
+R=A=P=T=A=D=O=S= =P=O=R= =U=N=A= =F=O=C=A= =
+L=E=O=P=A=R=D=O= =Q=U=E= =V=I=N=O= =D=E=L= =
+O=C=É=A=N=O= =A=N=T=Á=R=T=I=C=O=.= = = = = =
+Y= =L=A= =F=O=C=A= =L=E=O=P=A=R=D=O= = = = =
+E=S=T=Á= =V=E=N=D=I=E=N=D=O= =K=I=W=I=S= = =
+E=N= =V=A=R=I=O=S= =L=U=G=A=R=E=S=.=.=.= = =
+T=I=K=I= =S=E= =A=V=E=N=T=U=R=A= =A= = = = =
+A=Y=U=D=A=R= =A= =P=H=E=E=-=P=H=E=E= =Y= =A=
+O=T=R=O=S= =A=M=I=G=O=S= =A= =S=A=L=I=R= = =
+D=E= =S=I=T=I=O=S= =P=E=L=I=G=R=O=S=O=S=.= =
+D=E=B=E=R=Í=A=S= =C=O=N=O=C=E=R= =B=I=E=N= =
+L=A= =H=I=S=T=O=R=I=A= =T=R=A=S= =E=S=T=O=.=
+P=O=R=Q=U=E= =T=U= =M=I=S=M=O= =H=A=R=Á=S= =
+L=A= =H=I=S=T=O=R=Í=A= =D=E=S=P=U=É=S= =D=E=
+E=S=T=O=.=.=.= = = = = = = = = = = = = = = =
+ = = = = = = = = = = = = = = = = = = = = = =
+ = = = = = = = = = = = = = = = = = = = = = =
+P=U=L=S=A= =R=U=N= =P=A=R=A= =E=M=P=E=Z=A=R=
+                                            
+                                            
+                                            
+                                            
+           "                   "            
+       "                   "                
+   "                   "                   "
+!!!!!!!!!!!!!!!!!!!!                   "    
+               "                            
+                                ~FF~#1573
+|1573
+@00014009-00014014-FF
+;00000000{GAME SOUND ~FF~}#015#012
+AUDIO JUEGO~FF~#012
+|12

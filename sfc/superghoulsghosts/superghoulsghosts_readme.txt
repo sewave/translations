@@ -1,11 +1,12 @@
 Super Ghouls 'N Ghosts (Super Nintendo)
-Traducción al Español v1.0 (23/12/2018)
+Traducción al Español v1.1 (08/04/2018)
 (C) 2018 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
 Esta traducción y hacking es completamente original.
+V1.1: Arregla cadena al derrotar a un jefe.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 

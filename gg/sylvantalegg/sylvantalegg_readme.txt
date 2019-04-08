@@ -1,11 +1,12 @@
 Sylvan Tale (Game Gear)
-Traducción al Español v1.0 (02/04/2019)
+Traducción al Español v1.1 (08/04/2019)
 (C) 2019 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
 Esta traducción y hacking está basada en la inglesa de Aeon Genesis.
+V1.1: Arregla textos demasiado largos que causaban bugs.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 

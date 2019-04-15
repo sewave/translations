@@ -1,0 +1,174 @@
+@00000100-000001A4-00
+;00000100{SEGA MEGA DRIVE (C)T-32 1991.MayDINO LAND                                       DINO LAND                                       GM T-32043 -00i~12~J               ~00~}#167#161
+SEGA MEGA DRIVE (C)T-32 1991.MayDINO LAND                                       DINO LAND                                       GM T-32043 -00i~12~J               ~00~#161
+;000001A1{~00~}#004#001
+~00~#001
+;000001A2{~00~}#004#001
+~00~#001
+;000001A3{~00~}#004#001
+~00~#001
+;000001A4{~00~}#004#001
+~00~#001
+|165
+@0000034A-00000351-00
+;0000034A{init~FF~~FC~g~00~}#017#008
+init~FF~~FC~g~00~#008
+|8
+@00000366-0000036D-00
+;00000366{init~FF~~FC~M~F9~}#017#008
+init~FF~~FC~M~F9~#008
+|8
+@00002888-0000288F-00
+;00002888{DAKs~E6~~03~y~E0~}#017#008
+DAKs~E6~~03~y~E0~#008
+|8
+@00003710-00003739-00
+;00003710{Nu~02~PRESS START BUTTON~00~}#028#022
+Nu~02~PRESS START BUTTON~00~#022
+;00003726{~00~}#004#001
+~00~#001
+;00003727{                  ~00~}#022#019
+                  ~00~#019
+|42
+@0000373C-000037A9-00
+;0000373C{ 1991 WOLF TEAM~00~}#019#016
+ 1991 WOLF TEAM~00~#016
+;0000374C{~02~     LICENSED BY     ~00~}#029#023
+~02~     LICENSED BY     ~00~#023
+;00003763{~02~SEGA ENTERPRISES LTD?~00~}#029#023
+~02~SEGA ENTERPRISES LTD?~00~#023
+;0000377A{~01~  1PLAYER~00~}#017#011
+~01~  1PLAYER~00~#011
+;00003785{~01~  2PLAYER~00~}#017#011
+~01~  2PLAYER~00~#011
+;00003790{~01~   CONFIG~00~}#017#011
+~01~   CONFIG~00~#011
+;0000379B{~01~  CONTINUE~00~}#018#012
+~01~  CONTINUE~00~#012
+;000037A7{~00~}#004#001
+~00~#001
+;000037A8{C~F8~}#005#002
+C~F8~#002
+|110
+@00012A5D-00012AB4-00
+;00012A5D{CONFIGURATION~00~}#017#014
+CONFIGURATION~00~#014
+;00012A6B{~02~LEVEL~00~}#013#007
+~02~LEVEL~00~#007
+;00012A72{~02~NORMAL~00~}#014#008
+~02~NORMAL~00~#008
+;00012A7A{~02~HARD~00~}#012#006
+~02~HARD~00~#006
+;00012A80{~02~DANGEROUS~00~}#017#011
+~02~DANGEROUS~00~#011
+;00012A8B{~02~BIGINNER~00~}#016#010
+~02~BIGINNER~00~#010
+;00012A95{~02~INTERMEDIATE~00~}#020#014
+~02~INTERMEDIATE~00~#014
+;00012AA3{~02~EXPERT~00~}#014#008
+~02~EXPERT~00~#008
+;00012AAB{~02~MUSIC~00~}#013#007
+~02~MUSIC~00~#007
+;00012AB2{~02~0~00~}#009#003
+~02~0~00~#003
+|88
+@00012AB6-00012B59-00
+;00012AB6{EXIT~00~}#008#005
+EXIT~00~#005
+;00012ABB{~01~LEVEL~00~}#013#007
+~01~LEVEL~00~#007
+;00012AC2{~01~MUSIC~00~}#013#007
+~01~MUSIC~00~#007
+;00012AC9{~01~EXIT~00~}#012#006
+~01~EXIT~00~#006
+;00012ACF{~00~}#004#001
+~00~#001
+;00012AD0{LEVEL~00~}#009#006
+LEVEL~00~#006
+;00012AD6{~00~}#004#001
+~00~#001
+;00012AD7{MUSIC~00~}#009#006
+MUSIC~00~#006
+;00012ADD{~00~}#004#001
+~00~#001
+;00012ADE{EXIT~00~}#008#005
+EXIT~00~#005
+;00012AE3{~00~}#004#001
+~00~#001
+;00012AE4{NORMAL~00~}#010#007
+NORMAL~00~#007
+;00012AEB{~00~}#004#001
+~00~#001
+;00012AEC{HARD~00~}#008#005
+HARD~00~#005
+;00012AF1{~00~}#004#001
+~00~#001
+;00012AF2{DANGEROUS~00~}#013#010
+DANGEROUS~00~#010
+;00012AFC{~00~}#004#001
+~00~#001
+;00012AFD{BIGINNER~00~}#012#009
+BIGINNER~00~#009
+;00012B06{~00~}#004#001
+~00~#001
+;00012B07{INTERMEDIATE~00~}#016#013
+INTERMEDIATE~00~#013
+;00012B14{~00~}#004#001
+~00~#001
+;00012B15{EXPERT~00~}#010#007
+EXPERT~00~#007
+;00012B1C{~01~NORMAL~00~}#014#008
+~01~NORMAL~00~#008
+;00012B24{~01~HARD~00~}#012#006
+~01~HARD~00~#006
+;00012B2A{~01~DANGEROUS~00~}#017#011
+~01~DANGEROUS~00~#011
+;00012B35{~01~BIGINNER~00~}#016#010
+~01~BIGINNER~00~#010
+;00012B3F{~01~INTERMEDIATE~00~}#020#014
+~01~INTERMEDIATE~00~#014
+;00012B4D{~01~EXPERT~00~}#014#008
+~01~EXPERT~00~#008
+;00012B55{~00~}#004#001
+~00~#001
+;00012B56{~12~~18~H~81~}#013#004
+~12~~18~H~81~#004
+|164
+@0002531B-00025324-00
+;0002531B{feff~F7~CX~88~<~40~}#019#010
+feff~F7~CX~88~<~40~#010
+|10
+@0002B364-0002BB91-00
+;0002B364{Nu        STAFF                                                                       DIRECTOR                           KATSUTA                                                               MAIN PROGRAMMER            HIROSHI IZUMINO                                          SUB PROGRAMMER                    BUGTAROU                                                               MUSIC COMPOSER                 ICHIRO HADA                                                               GRAPHIC DESIGN             KAZUHIRO NAGATA  MASAYUKI MATSUSHIMA            YAMA CHAN           JUN HOYANO                                                               BUSINESS WORK                  JOE ASANUMA                                                               PRODUCER                       MASAAKI UNO                                          ASSISTANT PRODUCER         HIROYUKI KAYANO                                                               THANKS                       MANABU UCHIDA      HISAO KUNIMATSU      HIROYUKI SASAKI            HASHIMOTO                                                               SPECIAL THANKS          KAZUYUKI FUKUSHIMA                                                               EXECUTIVE PRODUCER       MASAHIRO AKISHINO                                                                                                                                                                                                   PRESENTED                                    BY                                     WOLF TEAM                                                                                                                                                                                                                                                                                                            ~FF~~FF~I FEEL COLD.~FF~I DON'T THINK WE CAN~FE~LIVE HERE ANY LONGER.~FF~I HEARD THAT IT'S~FE~STILL WARM DOWN SOUTH.~FE~LET'S GO DOWN AND~FE~CHECK IT OUT.~FF~THERE ARE MANY VIEWS~FE~ON THE DESTRUCTION OF~FE~THE DINOSAURS, BUT,~FE~THE TRUE CAUSE HAS~FE~BEEN SHROUDED IN~FE~MYSTERY...~FF~~00~}#2140#2092
+Nu        STAFF                                                                       DIRECTOR                           KATSUTA                                                               MAIN PROGRAMMER            HIROSHI IZUMINO                                          SUB PROGRAMMER                    BUGTAROU                                                               MUSIC COMPOSER                 ICHIRO HADA                                                               GRAPHIC DESIGN             KAZUHIRO NAGATA  MASAYUKI MATSUSHIMA            YAMA CHAN           JUN HOYANO                                                               BUSINESS WORK                  JOE ASANUMA                                                               PRODUCER                       MASAAKI UNO                                          ASSISTANT PRODUCER         HIROYUKI KAYANO                                                               THANKS                       MANABU UCHIDA      HISAO KUNIMATSU      HIROYUKI SASAKI            HASHIMOTO                                                               SPECIAL THANKS          KAZUYUKI FUKUSHIMA                                                               EXECUTIVE PRODUCER       MASAHIRO AKISHINO                                                                                                                                                                                                   PRESENTED                                    BY                                     WOLF TEAM                                                                                                                                                                                                                                                                                                            ~FF~~FF~I FEEL COLD.~FF~I DON'T THINK WE CAN~FE~LIVE HERE ANY LONGER.~FF~I HEARD THAT IT'S~FE~STILL WARM DOWN SOUTH.~FE~LET'S GO DOWN AND~FE~CHECK IT OUT.~FF~THERE ARE MANY VIEWS~FE~ON THE DESTRUCTION OF~FE~THE DINOSAURS, BUT,~FE~THE TRUE CAUSE HAS~FE~BEEN SHROUDED IN~FE~MYSTERY...~FF~~00~#2092
+;0002BB90{A~F9~}#005#002
+A~F9~#002
+|2094
+@0005554D-0005555A-00
+;0005554D{REVE~7E~ODB~C1~E3~9E~M~00~}#026#014
+REVE~7E~ODB~C1~E3~9E~M~00~#014
+|14
+@00057039-00057042-00
+;00057039{TUAn~DF~~80~~DE~~81~2~80~}#025#010
+TUAn~DF~~80~~DE~~81~2~80~#010
+|10
+@00070AD1-00070ADF-00
+;00070AD1{WP_~89~~9F~~9E~waUl~88~~9F~~97~~93~~8A~}#039#015
+WP_~89~~9F~~9E~waUl~88~~9F~~97~~93~~8A~#015
+|15
+@00070D88-00070D97-00
+;00070D88{pgl~7F~~87~~86~~7D~snee~7E~~8A~~91~~A5~~A4~}#043#016
+pgl~7F~~87~~86~~7D~snee~7E~~8A~~91~~A5~~A4~#016
+|16
+@000749E4-000749F1-00
+;000749E4{w\t~9F~~91~~89~TIPi~8C~~91~v~80~}#032#014
+w\t~9F~~91~~89~TIPi~8C~~91~v~80~#014
+|14
+@0007BBDB-0007BBE7-00
+;0007BBDB{dOXy~7B~gGY~88~~CA~~FC~~B7~~90~}#031#013
+dOXy~7B~gGY~88~~CA~~FC~~B7~~90~#013
+|13
+@0007DC76-0007DC86-00
+;0007DC76{tmmu~80~~8C~~93~~82~bOId~95~~B1~~A9~~93~~85~}#044#017
+tmmu~80~~8C~~93~~82~bOId~95~~B1~~A9~~93~~85~#017
+|17

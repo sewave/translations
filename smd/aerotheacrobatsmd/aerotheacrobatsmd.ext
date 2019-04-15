@@ -1,0 +1,268 @@
+@00000443-000004AF-00
+;00000443{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DEVELOPED FOR USE ONLY WITH~00~#028
+;0000045F{~12~&~00~}#009#003
+~12~&~00~#003
+;00000462{~0F~SYSTEMS.~00~}#016#010
+~0F~SYSTEMS.~00~#010
+;0000046C{~0A~JAPANESE MEGA DRIVE~00~}#027#021
+~0A~JAPANESE MEGA DRIVE~00~#021
+;00000481{=NTSC GENESIS~00~}#017#014
+=NTSC GENESIS~00~#014
+;0000048F{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~PAL AND FRENCH SECAM MEGA DRIVE~00~#033
+|109
+@0002580C-0002583C-00
+;0002580C{CIRCUS  ~00~}#012#009
+CIRCUS  ~00~#009
+;00025815{FUNPARK ~00~}#012#009
+FUNPARK ~00~#009
+;0002581E{OUTSIDE ~00~}#012#009
+OUTSIDE ~00~#009
+;00025827{MUSEUM  ~00~}#012#009
+MUSEUM  ~00~#009
+;00025830{LEVEL SELECT~00~}#016#013
+LEVEL SELECT~00~#013
+|49
+@0002585B-000258B9-00
+;0002585B{STAGE 1     ~00~}#016#013
+STAGE 1     ~00~#013
+;00025868{=STAGE 2     ~00~}#017#014
+=STAGE 2     ~00~#014
+;00025876{=STAGE 3     ~00~}#017#014
+=STAGE 3     ~00~#014
+;00025884{=STAGE 4     ~00~}#017#014
+=STAGE 4     ~00~#014
+;00025892{=STAGE 5     ~00~}#017#014
+=STAGE 5     ~00~#014
+;000258A0{=BONUS STAGE~00~}#016#013
+=BONUS STAGE~00~#013
+;000258AD{=BOSS STAGE ~00~}#016#013
+=BOSS STAGE ~00~#013
+|95
+@000258C2-000258DD-00
+;000258C2{NORMAL LIFE  ~00~}#017#014
+NORMAL LIFE  ~00~#014
+;000258D0{INFINITE LIFE~00~}#017#014
+INFINITE LIFE~00~#014
+|28
+@000258E6-00025903-00
+;000258E6{NORMAL STARS  ~00~}#018#015
+NORMAL STARS  ~00~#015
+;000258F5{INFINITE STARS~00~}#018#015
+INFINITE STARS~00~#015
+|30
+@0002590C-00025927-00
+;0002590C{COLLISION ON ~00~}#017#014
+COLLISION ON ~00~#014
+;0002591A{COLLISION OFF~00~}#017#014
+COLLISION OFF~00~#014
+|28
+@00025AAC-00025B87-00
+;00025AAC{STARBAR   ~00~}#014#011
+STARBAR   ~00~#011
+;00025AB7{BIGPINK   ~00~}#014#011
+BIGPINK   ~00~#011
+;00025AC2{HITCHIKE  ~00~}#014#011
+HITCHIKE  ~00~#011
+;00025ACD{PARSONS   ~00~}#014#011
+PARSONS   ~00~#011
+;00025AD8{COOKY     ~00~}#014#011
+COOKY     ~00~#011
+;00025AE3{FLIGHT    ~00~}#014#011
+FLIGHT    ~00~#011
+;00025AEE{MR KITE   ~00~}#014#011
+MR KITE   ~00~#011
+;00025AF9{CARDO     ~00~}#014#011
+CARDO     ~00~#011
+;00025B04{DANCE     ~00~}#014#011
+DANCE     ~00~#011
+;00025B0F{FLUME     ~00~}#014#011
+FLUME     ~00~#011
+;00025B1A{CARNIVAL  ~00~}#014#011
+CARNIVAL  ~00~#011
+;00025B25{LICKY LICK~00~}#014#011
+LICKY LICK~00~#011
+;00025B30{MOUNTAIN  ~00~}#014#011
+MOUNTAIN  ~00~#011
+;00025B3B{LEMLAR    ~00~}#014#011
+LEMLAR    ~00~#011
+;00025B46{WILHELM   ~00~}#014#011
+WILHELM   ~00~#011
+;00025B51{THE HAT   ~00~}#014#011
+THE HAT   ~00~#011
+;00025B5C{HILWELM   ~00~}#014#011
+HILWELM   ~00~#011
+;00025B67{BONUS     ~00~}#014#011
+BONUS     ~00~#011
+;00025B72{LOGARYTHM ~00~}#014#011
+LOGARYTHM ~00~#011
+;00025B7D{AERORYTHM ~00~}#014#011
+AERORYTHM ~00~#011
+|220
+@00026EEA-00027040-00
+;00026EEA{TIME REMAINING       X 5==ENEMIES DEFEATED     X 50==PICKUPS COLLECTED    X 100==STARS COLLECTED      X 150~00~}#111#108
+TIME REMAINING       X 5==ENEMIES DEFEATED     X 50==PICKUPS COLLECTED    X 100==STARS COLLECTED      X 150~00~#108
+;00026F56{BONUS POINTS         X 50~00~}#029#026
+BONUS POINTS         X 50~00~#026
+;00026F70{BOSS DEFEATED        X 50~00~}#029#026
+BOSS DEFEATED        X 50~00~#026
+;00026F8A{   ACT=COMPLETED~00~}#020#017
+   ACT=COMPLETED~00~#017
+;00026F9B{BONUS ACT=COMPLETED~00~}#023#020
+BONUS ACT=COMPLETED~00~#020
+;00026FAF{ BOSS ACT=COMPLETED~00~}#023#020
+ BOSS ACT=COMPLETED~00~#020
+;00026FC3{BONUS ACT= FAILED~00~}#021#018
+BONUS ACT= FAILED~00~#018
+;00026FD5{ATTEMPTS LEFT~00~}#017#014
+ATTEMPTS LEFT~00~#014
+;00026FE3{ATTEMPT LEFT~00~}#016#013
+ATTEMPT LEFT~00~#013
+;00026FF0{CONTINUE=  QUIT~00~}#019#016
+CONTINUE=  QUIT~00~#016
+;00027000{        ~00~}#012#009
+        ~00~#009
+;00027009{PERFECT ROUND!= 1 FREE AERO~00~}#031#028
+PERFECT ROUND!= 1 FREE AERO~00~#028
+;00027025{              =            ~00~}#031#028
+              =            ~00~#028
+|343
+@00027E18-00027E25-00
+;00027E18{start=options~00~}#017#014
+start=options~00~#014
+|14
+@00028070-0002808B-00
+;00028070{joypad config=sound 00=exit~00~}#031#028
+joypad config=sound 00=exit~00~#028
+|28
+@000281A0-00028288-00
+;000281A0{choice 1= a$fire= b$jump= c$look~00~}#036#033
+choice 1= a$fire= b$jump= c$look~00~#033
+;000281C1{~00~}#004#001
+~00~#001
+;000281C2{~00~}#004#001
+~00~#001
+;000281C3{~06~~00~}#008#002
+~06~~00~#002
+;000281C5{~04~~00~}#008#002
+~04~~00~#002
+;000281C7{~05~choice 2= a$jump= b$look= c$fire~00~}#040#034
+~05~choice 2= a$jump= b$look= c$fire~00~#034
+;000281E9{~00~}#004#001
+~00~#001
+;000281EA{~00~}#004#001
+~00~#001
+;000281EB{~05~~00~}#008#002
+~05~~00~#002
+;000281ED{~06~~00~}#008#002
+~06~~00~#002
+;000281EF{~04~choice 3= a$look= b$fire= c$jump~00~}#040#034
+~04~choice 3= a$look= b$fire= c$jump~00~#034
+;00028211{~00~}#004#001
+~00~#001
+;00028212{~00~}#004#001
+~00~#001
+;00028213{~04~~00~}#008#002
+~04~~00~#002
+;00028215{~05~~00~}#008#002
+~05~~00~#002
+;00028217{~06~choice 4= a$jump= b$fire= c$look~00~}#040#034
+~06~choice 4= a$jump= b$fire= c$look~00~#034
+;00028239{~00~}#004#001
+~00~#001
+;0002823A{~00~}#004#001
+~00~#001
+;0002823B{~04~~00~}#008#002
+~04~~00~#002
+;0002823D{~06~~00~}#008#002
+~06~~00~#002
+;0002823F{~05~choice 5= a$fire= b$look= c$jump~00~}#040#034
+~05~choice 5= a$fire= b$look= c$jump~00~#034
+;00028261{~00~}#004#001
+~00~#001
+;00028262{~00~}#004#001
+~00~#001
+;00028263{~06~~00~}#008#002
+~06~~00~#002
+;00028265{~05~~00~}#008#002
+~05~~00~#002
+;00028267{~04~choice 6= a$look= b$jump= c$fire~00~}#040#034
+~04~choice 6= a$look= b$jump= c$fire~00~#034
+|233
+@00028514-000286B9-00
+;00028514{             COPYRIGHT 1993=       SUN CORPORATION OF AMERICA==               SUNSOFT (R)===     CREATED AND ORIGINAL DESIGN BY=              DAVID SILLER===              DEVELOPED BY=          IGUANA ENTERTAINMENT===   LICENSED BY SEGA ENTERPRISES, LTD.==     "AERO THE ACRO-BAT", AND THE=     AERO THE ACRO-BAT CHARACTER,=           ARE TRADEMARKS OF =   SUN CORPORATION OF AMERICA (C)1993=          ALL RIGHTS RESERVED~00~}#425#422
+             COPYRIGHT 1993=       SUN CORPORATION OF AMERICA==               SUNSOFT (R)===     CREATED AND ORIGINAL DESIGN BY=              DAVID SILLER===              DEVELOPED BY=          IGUANA ENTERTAINMENT===   LICENSED BY SEGA ENTERPRISES, LTD.==     "AERO THE ACRO-BAT", AND THE=     AERO THE ACRO-BAT CHARACTER,=           ARE TRADEMARKS OF =   SUN CORPORATION OF AMERICA (C)1993=          ALL RIGHTS RESERVED~00~#422
+|422
+@00029E5F-0002A075-00
+;00029E5F{jump on=7 star=platforms~00~}#028#025
+jump on=7 star=platforms~00~#025
+;00029E78{~FF~find the=key and=rescue=aeriel~00~}#038#032
+~FF~find the=key and=rescue=aeriel~00~#032
+;00029E98{~FF~jump on=15 star=platforms~00~}#033#027
+~FF~jump on=15 star=platforms~00~#027
+;00029EB3{~FF~jump through=25 magic=hoops~00~}#035#029
+~FF~jump through=25 magic=hoops~00~#029
+;00029ED0{~FF~turn on=all the=lights~00~}#030#024
+~FF~turn on=all the=lights~00~#024
+;00029EE8{~FF~meet the=stilt brothers~00~}#031#025
+~FF~meet the=stilt brothers~00~#025
+;00029F01{~FF~dive into=the tank~00~}#026#020
+~FF~dive into=the tank~00~#020
+;00029F15{~FF~jump on=5 star=platforms~00~}#032#026
+~FF~jump on=5 star=platforms~00~#026
+;00029F2F{~FF~ride the=roller=coaster~00~}#031#025
+~FF~ride the=roller=coaster~00~#025
+;00029F48{~FF~keys=open=doors~00~}#023#017
+~FF~keys=open=doors~00~#017
+;00029F59{~FF~ride=the=rotor~00~}#022#016
+~FF~ride=the=rotor~00~#016
+;00029F69{~FF~jump through=25 magic=hoops~00~}#035#029
+~FF~jump through=25 magic=hoops~00~#029
+;00029F86{~FF~meet=mr bubbles~00~}#023#017
+~FF~meet=mr bubbles~00~#017
+;00029F97{~FF~stay alive~00~}#018#012
+~FF~stay alive~00~#012
+;00029FA3{~FF~find=the=exit~00~}#021#015
+~FF~find=the=exit~00~#015
+;00029FB2{~FF~the=barrel=roll~00~}#023#017
+~FF~the=barrel=roll~00~#017
+;00029FC3{~FF~do=the=bungee~00~}#021#015
+~FF~do=the=bungee~00~#015
+;00029FD2{~FF~ride=the=rapids~00~}#023#017
+~FF~ride=the=rapids~00~#017
+;00029FE3{~FF~explore=the=museum~00~}#026#020
+~FF~explore=the=museum~00~#020
+;00029FF7{~FF~ride the=conveyor=belts~00~}#031#025
+~FF~ride the=conveyor=belts~00~#025
+;0002A010{~FF~the=tower~00~}#017#011
+~FF~the=tower~00~#011
+;0002A01B{~FF~explore the=secret=passages~00~}#035#029
+~FF~explore the=secret=passages~00~#029
+;0002A038{~FF~the=laboratory~00~}#022#016
+~FF~the=laboratory~00~#016
+;0002A048{~FF~edgar=ektors=domain~00~}#027#021
+~FF~edgar=ektors=domain~00~#021
+;0002A05D{~FF~jump=on the=trampolines~00~}#031#025
+~FF~jump=on the=trampolines~00~#025
+|535
+@0002A6F6-0002A766-00
+;0002A6F6{FINAL STATISTICS~00~}#020#017
+FINAL STATISTICS~00~#017
+;0002A707{~00~}#004#001
+~00~#001
+;0002A708{LIVES REMAINING==LIVES USED==STARS USED==SPINS USED==DRILLS USED==ENEMIES DEFEATED~00~}#086#083
+LIVES REMAINING==LIVES USED==STARS USED==SPINS USED==DRILLS USED==ENEMIES DEFEATED~00~#083
+;0002A75B{FINAL SCORE~00~}#015#012
+FINAL SCORE~00~#012
+|113
+@0002A8FA-0002A90B-00
+;0002A8FA{THE END~00~}#011#008
+THE END~00~#008
+;0002A902{OR IS IT?~00~}#013#010
+OR IS IT?~00~#010
+|18
+@0002AA23-0002B9C9-00
+;0002AA23{                     = CREATED AND ORIGINAL=      DESIGN BY      =~FE~     DAVID SILLER    =                     =~FD~                     =  DESIGN AND LAYOUT  =         BY          =~FE~     NIGEL COOK      =                     =                     =~FD~  ADDITIONAL DESIGN  =         BY          =~FE~     TEAM AERO       =                     =                     =~FD~  AERO TEAM LEADER   =~FE~     CARL WADE       =                     =                     =~FD~  AERO PROGRAMMERS  =~FE~     CARL WADE       =    DAVID BREVIK     =    RICHARD COWIE    =  JEFF SPANGENBERG   =  DARRIN STUBBINGTON =   DAVE CRUMMACK     =                     =                     =~FD~    AERO ARTISTS    =~FE~   JONATHAN CASCO    =    ADRIAN LUDLEY    =  MATT STUBBINGTON   =   JOOLS WATSHAM     =                     =                     =~FD~ CHARACTER DESIGNERS =~FE~     DAVID SILLER    =    JUSTIN SILLER    =     NIGEL COOK      =                     =                     =~FD~  MUSIC AND SFX BY   =~FE~  FOX PRODUCTIONS    =                     =                     =~FD~     PRODUCED BY     =~FE~  JEFF SPANGENBERG   =       J MOON        =                     =                     =~FD~ EXECUTIVE PRODUCER  =~FE~    DAVID SILLER     =                     =                     =~FD~     DIRECTED BY     =~FE~     NIGEL COOK      =                     =                     =~FD~    ART DIRECTOR     =~FE~  MATT STUBBINGTON   =                     =                     =~FD~      CHAIRMAN       =~FE~    MASAMI MAEDA     =                     =                     =~FD~    VICE CHAIRMAN    =~FE~    TAD SHIMAMOTO    =                     =                     =~FD~   EXECUTIVE VICE    =     PRESIDENT       =    CO PRODUCER      =~FE~   RITA ZIMMERER     =                     =                     =~FD~      DIRECTOR       =   SUNSOFT JAPAN     =~FE~   KIHARU YOSHIDA    =                     =                     =~FD~    CO PRODUCERS     =~FE~    JUSTIN SILLER    =     RENE BOUTIN     =    DAN MACARTHUR    =                     =                     =~FD~  TECHNICAL MANAGER  =~FE~      AL ARTUS       =                     =                     =~FD~  DIRECTOR MARKETING =~FE~    KAREN SHADLEY    =                     =                     =~FD~    GAME MANUAL      =~FE~   ALISON QUIRION    =                     =                     =~FD~ EXECUTIVE ASSISTANT =~FE~   NANETTE HYSSONG   =                     =                     =~FD~    GAME TESTERS     =~FE~     SAM PATEL       =    DAVID LUSZCZ     =    DARIN HORGAN     =     MATT ROSS       =    JAKE HARMAN      =    GEOFF GILLIS     =    STEVE GEHRKE     =    LAURA LUSZCZ     =    RYAN SILLER      =    TEAM IGUANA      =                     =                     =~FD~     THANKS TO       =~FE~    KAZUAKI GOTO     =    MASATO KAWAI     =   AKITO TAKEUCHI    =                     =                     =~FD~  CUSTOMER SERVICE   =~FE~     ERIN BERRY      =    JUNE EKERT      =    KAZ HARMAN      =  JAMIE JORGENSEN    =   JULIE WILLIAMS    =                     =                     =~FD~  SPECIAL THANKS TO  =~FE~    KENJI YOSHIOKA    =    BRUCE REILLY     =     CATHY JUBY      =    MARTHA HART     =    KAREN LILLIE     =    MARK LUSZCZ      =     TOKO OKANO      =    CONNIE PEREZ     =    SHERRY ROSS     =     WUNDERMAN       =    CATO JOHNSON     =      TORME CO       =                     =                     =~FD~ VERY SPECIAL THANKS =~FE~    DEBRA SILLER     =  BETH SPANGENBERG   =         BO          =                     =                     =                     =                     =~FD~ THANKS FOR PLAYING  =                     =~FE~     WATCH FOR       =       MANY          =  NEW AND EXCITING  =       GAMES         =       FROM         =~FD~                     =      SUNSOFT        =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     ~00~}#4172#4007
+                     = CREATED AND ORIGINAL=      DESIGN BY      =~FE~     DAVID SILLER    =                     =~FD~                     =  DESIGN AND LAYOUT  =         BY          =~FE~     NIGEL COOK      =                     =                     =~FD~  ADDITIONAL DESIGN  =         BY          =~FE~     TEAM AERO       =                     =                     =~FD~  AERO TEAM LEADER   =~FE~     CARL WADE       =                     =                     =~FD~  AERO PROGRAMMERS  =~FE~     CARL WADE       =    DAVID BREVIK     =    RICHARD COWIE    =  JEFF SPANGENBERG   =  DARRIN STUBBINGTON =   DAVE CRUMMACK     =                     =                     =~FD~    AERO ARTISTS    =~FE~   JONATHAN CASCO    =    ADRIAN LUDLEY    =  MATT STUBBINGTON   =   JOOLS WATSHAM     =                     =                     =~FD~ CHARACTER DESIGNERS =~FE~     DAVID SILLER    =    JUSTIN SILLER    =     NIGEL COOK      =                     =                     =~FD~  MUSIC AND SFX BY   =~FE~  FOX PRODUCTIONS    =                     =                     =~FD~     PRODUCED BY     =~FE~  JEFF SPANGENBERG   =       J MOON        =                     =                     =~FD~ EXECUTIVE PRODUCER  =~FE~    DAVID SILLER     =                     =                     =~FD~     DIRECTED BY     =~FE~     NIGEL COOK      =                     =                     =~FD~    ART DIRECTOR     =~FE~  MATT STUBBINGTON   =                     =                     =~FD~      CHAIRMAN       =~FE~    MASAMI MAEDA     =                     =                     =~FD~    VICE CHAIRMAN    =~FE~    TAD SHIMAMOTO    =                     =                     =~FD~   EXECUTIVE VICE    =     PRESIDENT       =    CO PRODUCER      =~FE~   RITA ZIMMERER     =                     =                     =~FD~      DIRECTOR       =   SUNSOFT JAPAN     =~FE~   KIHARU YOSHIDA    =                     =                     =~FD~    CO PRODUCERS     =~FE~    JUSTIN SILLER    =     RENE BOUTIN     =    DAN MACARTHUR    =                     =                     =~FD~  TECHNICAL MANAGER  =~FE~      AL ARTUS       =                     =                     =~FD~  DIRECTOR MARKETING =~FE~    KAREN SHADLEY    =                     =                     =~FD~    GAME MANUAL      =~FE~   ALISON QUIRION    =                     =                     =~FD~ EXECUTIVE ASSISTANT =~FE~   NANETTE HYSSONG   =                     =                     =~FD~    GAME TESTERS     =~FE~     SAM PATEL       =    DAVID LUSZCZ     =    DARIN HORGAN     =     MATT ROSS       =    JAKE HARMAN      =    GEOFF GILLIS     =    STEVE GEHRKE     =    LAURA LUSZCZ     =    RYAN SILLER      =    TEAM IGUANA      =                     =                     =~FD~     THANKS TO       =~FE~    KAZUAKI GOTO     =    MASATO KAWAI     =   AKITO TAKEUCHI    =                     =                     =~FD~  CUSTOMER SERVICE   =~FE~     ERIN BERRY      =    JUNE EKERT      =    KAZ HARMAN      =  JAMIE JORGENSEN    =   JULIE WILLIAMS    =                     =                     =~FD~  SPECIAL THANKS TO  =~FE~    KENJI YOSHIOKA    =    BRUCE REILLY     =     CATHY JUBY      =    MARTHA HART     =    KAREN LILLIE     =    MARK LUSZCZ      =     TOKO OKANO      =    CONNIE PEREZ     =    SHERRY ROSS     =     WUNDERMAN       =    CATO JOHNSON     =      TORME CO       =                     =                     =~FD~ VERY SPECIAL THANKS =~FE~    DEBRA SILLER     =  BETH SPANGENBERG   =         BO          =                     =                     =                     =                     =~FD~ THANKS FOR PLAYING  =                     =~FE~     WATCH FOR       =       MANY          =  NEW AND EXCITING  =       GAMES         =       FROM         =~FD~                     =      SUNSOFT        =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     =                     ~00~#4007
+|4007

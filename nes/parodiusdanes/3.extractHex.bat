@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Parodius da! (J) [T+ENG].nes"
+set SCRIPTNAME="parodiusdanes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 57810:700,4E010:200,4EA10:200,4C440:10,4C630:20,4CAC0:10,4CB90:80,4B220:50,4B320:40,4BA30:40,4E910:10,4B2F0:10,4BB10:50
+pause

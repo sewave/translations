@@ -1,0 +1,164 @@
+@00024D0A-00024DC6-FF
+;00024D0A{~0C~~03~OPTIONS~FF~}#019#010
+~0C~~03~OPTIONS~FF~#010
+;00024D14{~06~~07~DIFFICULTY  NORMAL~FF~}#030#021
+~06~~07~DIFFICULTY  NORMAL~FF~#021
+;00024D29{~06~~09~SHIPS       3~FF~}#025#016
+~06~~09~SHIPS       3~FF~#016
+;00024D39{~06~~11~SOUND TEST  1 ~FF~}#026#017
+~06~~11~SOUND TEST  1 ~FF~#017
+;00024D4A{~06~=CONTROL     A  SUPER BOMB~FF~}#034#028
+~06~=CONTROL     A  SUPER BOMB~FF~#028
+;00024D66{~06~~0E~            B  LEFT  SHOT~FF~}#037#028
+~06~~0E~            B  LEFT  SHOT~FF~#028
+;00024D82{~06~~0F~            C  RIGHT SHOT~FF~}#037#028
+~06~~0F~            C  RIGHT SHOT~FF~#028
+;00024D9E{~06~~0B~CONTINUES   2~FF~}#025#016
+~06~~0B~CONTINUES   2~FF~#016
+;00024DAE{~06~~13~EXIT~FF~}#016#007
+~06~~13~EXIT~FF~#007
+;00024DB5{~FE~~FE~~06~~15~ROUND       1~FF~}#033#018
+~FE~~FE~~06~~15~ROUND       1~FF~#018
+|189
+@00024E50-00024E64-FF
+;00024E50{EASY  ~FF~}#010#007
+EASY  ~FF~#007
+;00024E57{NORMAL~FF~}#010#007
+NORMAL~FF~#007
+;00024E5E{HARD  ~FF~}#010#007
+HARD  ~FF~#007
+|21
+@00024F95-0002518C-FF
+;00024F95{A  SUPER BOMB~FF~}#017#014
+A  SUPER BOMB~FF~#014
+;00024FA3{B  LEFT  SHOT~FF~}#017#014
+B  LEFT  SHOT~FF~#014
+;00024FB1{C  RIGHT SHOT~FF~}#017#014
+C  RIGHT SHOT~FF~#014
+;00024FBF{A  LEFT  SHOT~FF~}#017#014
+A  LEFT  SHOT~FF~#014
+;00024FCD{B  RIGHT SHOT~FF~}#017#014
+B  RIGHT SHOT~FF~#014
+;00024FDB{C  SUPER BOMB~FF~}#017#014
+C  SUPER BOMB~FF~#014
+;00024FE9{A  LEFT  SHOT~FF~}#017#014
+A  LEFT  SHOT~FF~#014
+;00024FF7{B  SUPER BOMB~FF~}#017#014
+B  SUPER BOMB~FF~#014
+;00025005{C  RIGHT SHOT~FF~}#017#014
+C  RIGHT SHOT~FF~#014
+;00025013{A  SUPER BOMB~FF~}#017#014
+A  SUPER BOMB~FF~#014
+;00025021{B  RIGHT SHOT~FF~}#017#014
+B  RIGHT SHOT~FF~#014
+;0002502F{C  LEFT  SHOT~FF~}#017#014
+C  LEFT  SHOT~FF~#014
+;0002503D{A  RIGHT SHOT~FF~}#017#014
+A  RIGHT SHOT~FF~#014
+;0002504B{B  LEFT  SHOT~FF~}#017#014
+B  LEFT  SHOT~FF~#014
+;00025059{C  SUPER BOMB~FF~}#017#014
+C  SUPER BOMB~FF~#014
+;00025067{A  RIGHT SHOT~FF~}#017#014
+A  RIGHT SHOT~FF~#014
+;00025075{B  SUPER BOMB~FF~}#017#014
+B  SUPER BOMB~FF~#014
+;00025083{C  LEFT  SHOT~FF~}#017#014
+C  LEFT  SHOT~FF~#014
+;00025091{A  SUPER BOMB~FF~}#017#014
+A  SUPER BOMB~FF~#014
+;0002509F{B  SHOT      ~FF~}#017#014
+B  SHOT      ~FF~#014
+;000250AD{C  REVERSE   ~FF~}#017#014
+C  REVERSE   ~FF~#014
+;000250BB{A  SUPER BOMB~FF~}#017#014
+A  SUPER BOMB~FF~#014
+;000250C9{B  REVERSE   ~FF~}#017#014
+B  REVERSE   ~FF~#014
+;000250D7{C  SHOT      ~FF~}#017#014
+C  SHOT      ~FF~#014
+;000250E5{A  SHOT      ~FF~}#017#014
+A  SHOT      ~FF~#014
+;000250F3{B  REVERSE   ~FF~}#017#014
+B  REVERSE   ~FF~#014
+;00025101{C  SUPER BOMB~FF~}#017#014
+C  SUPER BOMB~FF~#014
+;0002510F{A  REVERSE   ~FF~}#017#014
+A  REVERSE   ~FF~#014
+;0002511D{B  SHOT      ~FF~}#017#014
+B  SHOT      ~FF~#014
+;0002512B{C  SUPER BOMB~FF~}#017#014
+C  SUPER BOMB~FF~#014
+;00025139{A  REVERSE   ~FF~}#017#014
+A  REVERSE   ~FF~#014
+;00025147{B  SUPER BOMB~FF~}#017#014
+B  SUPER BOMB~FF~#014
+;00025155{C  SHOT      ~FF~}#017#014
+C  SHOT      ~FF~#014
+;00025163{A  SHOT      ~FF~}#017#014
+A  SHOT      ~FF~#014
+;00025171{B  SUPER BOMB~FF~}#017#014
+B  SUPER BOMB~FF~#014
+;0002517F{C  REVERSE   ~FF~}#017#014
+C  REVERSE   ~FF~#014
+|504
+@00026386-00026391-FF
+;00026386{DELETE ERROR}#012#012
+DELETE ERROR#012
+|12
+@0002740E-000277A0-00
+;0002740E{   FROM THE BRAST FURNACE AND     SMOIDERING BOILERS, AN       AMAZING INVENTION WAS ABOUT    TO EMERGE. DEVELOPED BY       THE SCIENTISTS, IT IS THE     UITIMATE WEAPON,`012X´.       IT IS THUNDER IMAMIO !    ~00~}#214#211
+   FROM THE BRAST FURNACE AND     SMOIDERING BOILERS, AN       AMAZING INVENTION WAS ABOUT    TO EMERGE. DEVELOPED BY       THE SCIENTISTS, IT IS THE     UITIMATE WEAPON,`012X´.       IT IS THUNDER IMAMIO !    ~00~#211
+;000274E1{~1F~~00~}#008#002
+~1F~~00~#002
+;000274E3{~07~   UNDER THE DICTATOR SAURON,      A MILITARY NATION OF THE      MORTERHEAD EMPIRE INVADED    THE SURROUDING COUNTRIES ARMY   BRUTALLY SLAUGHTERING PEOPLE, MANY FEARED THAT THIS WORLD BE  THE DESTRUCTION OF MAKIND.   ~00~}#225#219
+~07~   UNDER THE DICTATOR SAURON,      A MILITARY NATION OF THE      MORTERHEAD EMPIRE INVADED    THE SURROUDING COUNTRIES ARMY   BRUTALLY SLAUGHTERING PEOPLE, MANY FEARED THAT THIS WORLD BE  THE DESTRUCTION OF MAKIND.   ~00~#219
+;000275BE{~00~}#004#001
+~00~#001
+;000275BF{ ~00~}#005#002
+ ~00~#002
+;000275C1{~07~    BUT THERE WAS ONE BLAVE      COUNTRY. SILVERHEAD,IN DIFIANCE  STOOD UP TO ARMY A HEVY BLOW.      WITH  THUNDER IMAMIO,           THE LATEST BATTLESHIP        ETOPIRICA SHOWED ITS MAJESTIC   FIGUE IN THE LIGHT OF HOPE.   ~00~}#232#226
+~07~    BUT THERE WAS ONE BLAVE      COUNTRY. SILVERHEAD,IN DIFIANCE  STOOD UP TO ARMY A HEVY BLOW.      WITH  THUNDER IMAMIO,           THE LATEST BATTLESHIP        ETOPIRICA SHOWED ITS MAJESTIC   FIGUE IN THE LIGHT OF HOPE.   ~00~#226
+;000276A3{ ~00~}#005#002
+ ~00~#002
+;000276A5{~07~                                                                                                                                                                                                                                ~00~}#232#226
+~07~                                                                                                                                                                                                                                ~00~#226
+;00027787{~0A~PUSH START~00~}#018#012
+~0A~PUSH START~00~#012
+;00027793{~06~START OPTION~00~}#020#014
+~06~START OPTION~00~#014
+|915
+@00029EE6-0002A332-FF
+;00029EE6{the motorhead empire has=\\never failed to conquer=\\it's enemies.~FF~}#070#067
+the motorhead empire has=\\never failed to conquer=\\it's enemies.~FF~#067
+;00029F29{\\\\\\...until now!=\\the devestating lightning=\\bomb is changing history.~FF~}#079#076
+\\\\\\...until now!=\\the devestating lightning=\\bomb is changing history.~FF~#076
+;00029F75{\a command communique just in=\states that our leading mine=\city, rahl, is under attack.~FF~}#093#090
+\a command communique just in=\states that our leading mine=\city, rahl, is under attack.~FF~#090
+;00029FCF{\report there, at once! take=\a striker or zeppelin and=\retake rahl!~FF~}#073#070
+\report there, at once! take=\a striker or zeppelin and=\retake rahl!~FF~#070
+;0002A015{~00~~00~~03~\\communique in: enemy=\\forces secreted in massive=\\caverns at liedengel~FF~}#090#078
+~00~~00~~03~\\communique in: enemy=\\forces secreted in massive=\\caverns at liedengel~FF~#078
+;0002A063{\\exercise caution, low=\\light levels camoflage=\\enemy craft.~FF~}#067#064
+\\exercise caution, low=\\light levels camoflage=\\enemy craft.~FF~#064
+;0002A0A3{\\also watch for rockfalls=\\and potentially explosive=\\gasses.~FF~}#068#065
+\\also watch for rockfalls=\\and potentially explosive=\\gasses.~FF~#065
+;0002A0E4{~00~~02~\\alert! motorhead's floating=\\fortress has entered sky=\\district zektor.~FF~}#087#078
+~00~~02~\\alert! motorhead's floating=\\fortress has entered sky=\\district zektor.~FF~#078
+;0002A132{\\destroy it before it comes=\\within striking range of=\\our main defenses.~FF~}#080#077
+\\destroy it before it comes=\\within striking range of=\\our main defenses.~FF~#077
+;0002A17F{~00~~00~~03~\\republican forces are=\\advancing on damd city=\\...capital of motorhead.~FF~}#091#079
+~00~~00~~03~\\republican forces are=\\advancing on damd city=\\...capital of motorhead.~FF~#079
+;0002A1CE{\\only gardandi beach stands=\\between the capital and us.~FF~}#062#059
+\\only gardandi beach stands=\\between the capital and us.~FF~#059
+;0002A209{\\storm the beach=\\immediately.~FF~}#036#033
+\\storm the beach=\\immediately.~FF~#033
+;0002A22A{~00~~03~\\at last... the attack on=\\damd city and the victory=\\of the republic.~FF~}#085#076
+~00~~03~\\at last... the attack on=\\damd city and the victory=\\of the republic.~FF~#076
+;0002A276{\\destroy the enemy and=\\find motorhead's evil=\\dictator, general styron.~FF~}#079#076
+\\destroy the enemy and=\\find motorhead's evil=\\dictator, general styron.~FF~#076
+;0002A2C2{\\he must pay for his crimes!=\\do not let him escape...=\\no matter where he goes!~FF~}#087#084
+\\he must pay for his crimes!=\\do not let him escape...=\\no matter where he goes!~FF~#084
+;0002A316{~00~~01~\\no matter where he goes!~FF~}#038#029
+~00~~01~\\no matter where he goes!~FF~#029
+|1101

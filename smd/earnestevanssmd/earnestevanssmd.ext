@@ -1,0 +1,86 @@
+@00003946-00003B50-00
+;00003946{PRESS START BUTTON~00~}#022#019
+PRESS START BUTTON~00~#019
+;00003959{© WOLF TEAM 1992~00~}#020#017
+© WOLF TEAM 1992~00~#017
+;0000396A{     LICENSED BY     ~00~}#025#022
+     LICENSED BY     ~00~#022
+;00003980{SEGA ENTERPRISES LTD.~00~}#025#022
+SEGA ENTERPRISES LTD.~00~#022
+;00003996{                  ~00~}#022#019
+                  ~00~#019
+;000039A9{    START         ~00~}#022#019
+    START         ~00~#019
+;000039BC{    OPTIONS       ~00~}#022#019
+    OPTIONS       ~00~#019
+;000039CF{            OPTIONS             ~00~}#036#033
+            OPTIONS             ~00~#033
+;000039F0{    MUSIC                       ~00~}#036#033
+    MUSIC                       ~00~#033
+;00003A11{    SOUND EFFECTS               ~00~}#036#033
+    SOUND EFFECTS               ~00~#033
+;00003A32{    CONTROL                     ~00~}#036#033
+    CONTROL                     ~00~#033
+;00003A53{    EXIT                        ~00~}#036#033
+    EXIT                        ~00~#033
+;00003A74{    VISUAL SCENE                ~00~}#036#033
+    VISUAL SCENE                ~00~#033
+;00003A95{ON ~00~}#007#004
+ON ~00~#004
+;00003A99{OFF~00~}#007#004
+OFF~00~#004
+;00003A9D{(A) - ATTACK       ~00~}#023#020
+(A) - ATTACK       ~00~#020
+;00003AB1{(B) - JUMP         ~00~}#023#020
+(B) - JUMP         ~00~#020
+;00003AC5{(C) - CHANGE WEAPON~00~}#023#020
+(C) - CHANGE WEAPON~00~#020
+;00003AD9{(A) - JUMP         ~00~}#023#020
+(A) - JUMP         ~00~#020
+;00003AED{(B) - ATTACK       ~00~}#023#020
+(B) - ATTACK       ~00~#020
+;00003B01{(C) - CHANGE WEAPON~00~}#023#020
+(C) - CHANGE WEAPON~00~#020
+;00003B15{(A) - CHANGE WEAPON~00~}#023#020
+(A) - CHANGE WEAPON~00~#020
+;00003B29{(B) - ATTACK       ~00~}#023#020
+(B) - ATTACK       ~00~#020
+;00003B3D{(C) - JUMP         ~00~}#023#020
+(C) - JUMP         ~00~#020
+|523
+@0001AFCC-0001C1CC-FF
+;0001AFCC{                                                                  EARNEST EVANS                                                                                   - STAFF -                                                                                                                                                                                       PRODUCED BY                                                                                     Masaaki Uno                                                                                                                                                                                     DIRECTED BY                                                                                     Bugtarou                                                                                                                                                                                        PROGRAMMED BY                                                                                   Bugtarou                                                                                                                                                                                        GRAPHICS BY                                                                                     Tosio Yamamoto                                                                                  Masayuki Kaneda                                                                                 Kazuhiro Nagata                                                                                 Jun Hoyano                                                                                                                                                                                      MUSIC COMPOSED BY                                                                               Motoi Sakuraba                                                                                                                                                                                  EXECTIVE PRODUCER                                                                               Masahiro Akishino                                                                                                                                                                               COOPERRATION BY                                                                                 Ryota Furuya                                                                                    Jun Hoyano                                                                                                                                                                                      THANKS TO                                                                                       Chikaaki Tokuhiro                                                                               Fumiaki Fukaya                                                                                  Hiroshi Ogawa                                                                                   Jo Asanuma                                                                                                                                                                                                                      SPECIAL THANKS TO                                               Kazuyuki Fukushima                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ALL PRODUCED                                                        BY                                                                                           WOLF TEAM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ~FF~}#4612#4609
+                                                                  EARNEST EVANS                                                                                   - STAFF -                                                                                                                                                                                       PRODUCED BY                                                                                     Masaaki Uno                                                                                                                                                                                     DIRECTED BY                                                                                     Bugtarou                                                                                                                                                                                        PROGRAMMED BY                                                                                   Bugtarou                                                                                                                                                                                        GRAPHICS BY                                                                                     Tosio Yamamoto                                                                                  Masayuki Kaneda                                                                                 Kazuhiro Nagata                                                                                 Jun Hoyano                                                                                                                                                                                      MUSIC COMPOSED BY                                                                               Motoi Sakuraba                                                                                                                                                                                  EXECTIVE PRODUCER                                                                               Masahiro Akishino                                                                                                                                                                               COOPERRATION BY                                                                                 Ryota Furuya                                                                                    Jun Hoyano                                                                                                                                                                                      THANKS TO                                                                                       Chikaaki Tokuhiro                                                                               Fumiaki Fukaya                                                                                  Hiroshi Ogawa                                                                                   Jo Asanuma                                                                                                                                                                                                                      SPECIAL THANKS TO                                               Kazuyuki Fukushima                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ALL PRODUCED                                                        BY                                                                                           WOLF TEAM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ~FF~#4609
+|4609
+@0002ADB5-0002ADD5-FF
+;0002ADB5{HISCORE:00000000:LIFE::::::::::::}#033#033
+HISCORE:00000000:LIFE::::::::::::#033
+|33
+@0002ADF7-0002AE05-FF
+;0002ADF7{SCORE:00000000:}#015#015
+SCORE:00000000:#015
+|15
+@0002AE0E-0002AE15-FF
+;0002AE0E{::WEAPON}#008#008
+::WEAPON#008
+|8
+@000F336A-000F3379-FF
+;000F336A{  BOSS EE0010   }#016#016
+  BOSS EE0010   #016
+|16
+@000F3E58-000F3E65-FF
+;000F3E58{   CONTINUE   }#014#014
+   CONTINUE   #014
+|14
+@000F41DC-000F41E5-FF
+;000F41DC{   OPEN   }#010#010
+   OPEN   #010
+|10
+@000F5212-000F5222-FF
+;000F5212{     GAME OVER  \}#017#017
+     GAME OVER  \#017
+|17
+@000F5390-000F539F-FF
+;000F5390{     CONTINUE   }#016#016
+     CONTINUE   #016
+|16

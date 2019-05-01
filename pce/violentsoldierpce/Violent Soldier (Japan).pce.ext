@@ -1,0 +1,58 @@
+@0000A82A-0000A845-FF
+;0000A82A{74 PUSH RUN BUTTON~FF~}#022#019
+74 PUSH RUN BUTTON~FF~#019
+;0000A83D{~DD~2TM~FF~}#011#005
+~DD~2TM~FF~#005
+;0000A842{~A2~~55~~A9~~C2~}#016#004
+~A2~~55~~A9~~C2~#004
+|28
+@0000A9E0-0000AA0F-FF
+;0000A9E0{2NORMAL LEVEL~FF~}#017#014
+2NORMAL LEVEL~FF~#014
+;0000A9EE{~4C~2EASY LEVEL  ~FF~}#021#015
+~4C~2EASY LEVEL  ~FF~#015
+;0000A9FD{~CC~2MUSIC~FF~}#014#008
+~CC~2MUSIC~FF~#008
+;0000AA05{~4C~3SOUND~FF~}#014#008
+~4C~3SOUND~FF~#008
+;0000AA0D{~A0~1~C4~}#009#003
+~A0~1~C4~#003
+|48
+@0000AA7B-0000AAF1-FF
+;0000AA7B{1GAME  OVER~FF~}#015#012
+1GAME  OVER~FF~#012
+;0000AA87{~4C~2CONTINUE~FF~}#017#011
+~4C~2CONTINUE~FF~#011
+;0000AA92{~CC~2  END   ~FF~}#017#011
+~CC~2  END   ~FF~#011
+;0000AA9D{~8A~3 FIRST POINT~FF~}#021#015
+~8A~3 FIRST POINT~FF~#015
+;0000AAAC{94 CHECK POINT~FF~}#018#015
+94 CHECK POINT~FF~#015
+;0000AABB{~89~2CONGRATULATIONS~FF~}#024#018
+~89~2CONGRATULATIONS~FF~#018
+;0000AACD{~45~3PLEASE TRY NORMAL LEVEL~FF~}#032#026
+~45~3PLEASE TRY NORMAL LEVEL~FF~#026
+;0000AAE7{~CA~~4A~~89~82234~AD~0~3A~}#026#011
+~CA~~4A~~89~82234~AD~0~3A~#011
+|119
+@00039FAD-0003A376-FF
+;00039FAD{C19 53454~41~~42~53D9CE983D34~49~C 3~49~BC8C341LMBC434B9BCLM3LMRS BCBC 34 RSBRSIIIIIIIIIIIIIIII 056 012 056 0 0~3A~8D~2A~~2B~89A56DE5678~42~LC~31~~32~2C0DC12D~49~ 044789AJ81~2A~~2B~56878M9~26~~27~13456~31~~32~DE0 M7E~28~~29~9B~39~~3A~ERS 78 MRC 9LM~41~~42~478MM5M 42MERS B 3FGHIR8LM34 888MSNOPQR8RSBC~49~822RBTUVW71 CLMCR58D2XYZ~25~69~2A~~2B~3454~39~~3A~53DD8AL8~31~~32~34DC~41~~42~DBCBC E1LMBC434B9BCLM3~2A~~2B~RS BCBC 3~49~ RSB~31~~32~IIIIIIIIIIIIIIII                                                                                                                                                                                                                                                                                                                                                  MAIN PROGRAM                         F~25~K                                                                                                                                                                                                                         SUB PROGRAM                     C~25~M~25~}#1093#970
+C19 53454~41~~42~53D9CE983D34~49~C 3~49~BC8C341LMBC434B9BCLM3LMRS BCBC 34 RSBRSIIIIIIIIIIIIIIII 056 012 056 0 0~3A~8D~2A~~2B~89A56DE5678~42~LC~31~~32~2C0DC12D~49~ 044789AJ81~2A~~2B~56878M9~26~~27~13456~31~~32~DE0 M7E~28~~29~9B~39~~3A~ERS 78 MRC 9LM~41~~42~478MM5M 42MERS B 3FGHIR8LM34 888MSNOPQR8RSBC~49~822RBTUVW71 CLMCR58D2XYZ~25~69~2A~~2B~3454~39~~3A~53DD8AL8~31~~32~34DC~41~~42~DBCBC E1LMBC434B9BCLM3~2A~~2B~RS BCBC 3~49~ RSB~31~~32~IIIIIIIIIIIIIIII                                                                                                                                                                                                                                                                                                                                                  MAIN PROGRAM                         F~25~K                                                                                                                                                                                                                         SUB PROGRAM                     C~25~M~25~#970
+|970
+@0003A377-0003AB64-FF
+;0003A377{HIGEPIN                        TEKITO                                                                                                                                                                                        GRAPHICS                        YUICHI~25~M                      SHIMIZU TAKU                      J~25~MIKAWA                                                                                                                                                          MUSIC                           TERRA                                                                                                                                                                                                                         DIRECTOR                      LORD RUNNER                                                                                                                                                                                                                     SPECIAL                         THANKS TO~25~~25~~25~                                                                                                                                                                                                                      OKAMOTO                         GIBA                            S~25~KAMIO                                                                                                                                                                                       Y~25~KATANO                        KOBAYASHI                                                                                                                                                                                                                       AND                             MARKETING                       STAFF                                                                                                                           MESSAGE FROM                    DEVELOPMENT                        STAFF      ~26~~26~~26~~26~~26~}#2066#2030
+HIGEPIN                        TEKITO                                                                                                                                                                                        GRAPHICS                        YUICHI~25~M                      SHIMIZU TAKU                      J~25~MIKAWA                                                                                                                                                          MUSIC                           TERRA                                                                                                                                                                                                                         DIRECTOR                      LORD RUNNER                                                                                                                                                                                                                     SPECIAL                         THANKS TO~25~~25~~25~                                                                                                                                                                                                                      OKAMOTO                         GIBA                            S~25~KAMIO                                                                                                                                                                                       Y~25~KATANO                        KOBAYASHI                                                                                                                                                                                                                       AND                             MARKETING                       STAFF                                                                                                                           MESSAGE FROM                    DEVELOPMENT                        STAFF      ~26~~26~~26~~26~~26~#2030
+|2030
+@0003AB70-0003ABC0-FF
+;0003AB70{   COME BACK                       SUMMER                          VACATION~25~~25~~25~  ~26~}#093#081
+   COME BACK                       SUMMER                          VACATION~25~~25~~25~  ~26~#081
+|81
+@0003ABD0-0003AC89-FF
+;0003ABD0{                                                                                                                    COPYRIGHT                        1990 BY                          I~25~G~25~}#192#186
+                                                                                                                    COPYRIGHT                        1990 BY                          I~25~G~25~#186
+|186
+@0003AC8C-0003B164-FF
+;0003AC8C{                                                                                                                                                                                         THE END                                        THANK YOU                      FOR PLAYING                                                                                                                                                                                                                                                                                                                                                                   0 0 0 0 0 0 0 07878787878787878 0 0 0 0 0 0 0 07878787878787878 0 0 0UVWX 0 0 0787878YZ~25~~26~787878 0 0 0~27~~28~~29~~2A~ 0 0 0787878~2C~~2D~~2E~~2F~787878 0 0 0 0 0 0 0 07878787878787878 0UVWX 0 0 0 0 078YZ~25~~26~7878787878 0~27~~28~~29~~2A~ 0UVWX 0 078~2C~~2D~~2E~~2F~78YZ~25~~26~7878 0 0 0 0~27~~28~~29~~2A~ 0 078787878~2C~~2D~~2E~~2F~7878 0 0 0 0 0 0 0 0K212331233124512 0 0 0 0 0 0 0 07878787878787878 0 0 0 0 0 0 0 07878787878787878 0 0 0K2331233127878787878787878 0 0UVWX 0 0 0 07878YZ~25~~26~78787878 0 0~27~~28~~29~~2A~ 0UVWX 07878~2C~~2D~~2E~~2F~78YZ~25~~26~78 0 0 0 0 0~27~~28~~29~~2A~ 07878787878~2C~~2D~~2E~~2F~78 0 0 0 0 0 0 0 0K21245451212451L 0 0 0 0 0 0 0 04512451212121212 0 0 0 0 0 0UVWX787878787878YZ~25~~26~ 0 0UVWX 0 0~27~~28~~29~~2A~7878YZ~25~~26~7878~2C~~2D~~2E~~2F~12~47~0~27~}#1433#1241
+                                                                                                                                                                                         THE END                                        THANK YOU                      FOR PLAYING                                                                                                                                                                                                                                                                                                                                                                   0 0 0 0 0 0 0 07878787878787878 0 0 0 0 0 0 0 07878787878787878 0 0 0UVWX 0 0 0787878YZ~25~~26~787878 0 0 0~27~~28~~29~~2A~ 0 0 0787878~2C~~2D~~2E~~2F~787878 0 0 0 0 0 0 0 07878787878787878 0UVWX 0 0 0 0 078YZ~25~~26~7878787878 0~27~~28~~29~~2A~ 0UVWX 0 078~2C~~2D~~2E~~2F~78YZ~25~~26~7878 0 0 0 0~27~~28~~29~~2A~ 0 078787878~2C~~2D~~2E~~2F~7878 0 0 0 0 0 0 0 0K212331233124512 0 0 0 0 0 0 0 07878787878787878 0 0 0 0 0 0 0 07878787878787878 0 0 0K2331233127878787878787878 0 0UVWX 0 0 0 07878YZ~25~~26~78787878 0 0~27~~28~~29~~2A~ 0UVWX 07878~2C~~2D~~2E~~2F~78YZ~25~~26~78 0 0 0 0 0~27~~28~~29~~2A~ 07878787878~2C~~2D~~2E~~2F~78 0 0 0 0 0 0 0 0K21245451212451L 0 0 0 0 0 0 0 04512451212121212 0 0 0 0 0 0UVWX787878787878YZ~25~~26~ 0 0UVWX 0 0~27~~28~~29~~2A~7878YZ~25~~26~7878~2C~~2D~~2E~~2F~12~47~0~27~#1241
+|1241

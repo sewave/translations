@@ -1,0 +1,48 @@
+@0000A47B-0000A493-FF
+;0000A47B{SV~CA~~C7~~A9~CV~CA~~C7~~A9~OV~CA~~C7~~A9~RV~CA~~C7~~A9~EV~CA~~C7~~A9~}#070#025
+SV~CA~~C7~~A9~CV~CA~~C7~~A9~OV~CA~~C7~~A9~RV~CA~~C7~~A9~EV~CA~~C7~~A9~#025
+|25
+@0000A73C-0000A747-FF
+;0000A73C{GAMEDEMOREC }#012#012
+GAMEDEMOREC #012
+|12
+@0000A82A-0000A841-FF
+;0000A82A{74 PUSH RUN BUTTON~FF~}#022#019
+74 PUSH RUN BUTTON~FF~#019
+;0000A83D{~DD~2TM~FF~}#011#005
+~DD~2TM~FF~#005
+|24
+@0000A9DF-0000AA0C-FF
+;0000A9DF{~4C~2NORMAL LEVEL~FF~}#021#015
+~4C~2NORMAL LEVEL~FF~#015
+;0000A9EE{~4C~2EASY LEVEL  ~FF~}#021#015
+~4C~2EASY LEVEL  ~FF~#015
+;0000A9FD{~CC~2MUSIC~FF~}#014#008
+~CC~2MUSIC~FF~#008
+;0000AA05{~4C~3SOUND~FF~}#014#008
+~4C~3SOUND~FF~#008
+|46
+@0000AA7A-0000AAE6-FF
+;0000AA7A{~4B~1GAME  OVER~FF~}#019#013
+~4B~1GAME  OVER~FF~#013
+;0000AA87{~4C~2CONTINUE~FF~}#017#011
+~4C~2CONTINUE~FF~#011
+;0000AA92{~CC~2  END   ~FF~}#017#011
+~CC~2  END   ~FF~#011
+;0000AA9D{~8A~3 FIRST POINT~FF~}#021#015
+~8A~3 FIRST POINT~FF~#015
+;0000AAAC{94 CHECK POINT~FF~}#018#015
+94 CHECK POINT~FF~#015
+;0000AABB{~89~2CONGRATULATIONS~FF~}#024#018
+~89~2CONGRATULATIONS~FF~#018
+;0000AACD{~45~3PLEASE TRY NORMAL LEVEL~FF~}#032#026
+~45~3PLEASE TRY NORMAL LEVEL~FF~#026
+|109
+@0003A108-0003AB07-FF
+;0003A108{                                                                                                                                                                                                                                                                                                                                          MAIN PROGRAM                         F.K                                                                                                                                                                                                                         SUB PROGRAM                     C.M.HIGEPIN                        TEKITO                                                                                                                                                                                        GRAPHICS                        YUICHI.M                      SHIMIZU TAKU                      J.MIKAWA                                                                                                                                                          MUSIC                           TERRA                                                                                                                                                                                                                         DIRECTOR                      LORD RUNNER                                                                                                                                                                                                                     SPECIAL                         THANKS TO...                                                                                                                                                                                                                      OKAMOTO                         GIBA                            S.KAMIO                                                                                                                                                                                       Y.KATANO                        KOBAYASHI                                                                                                                                                                                                                       AND                             MARKETING                       STAFF                                                                                                                 }#2560#2560
+                                                                                                                                                                                                                                                                                                                                          MAIN PROGRAM                         F.K                                                                                                                                                                                                                         SUB PROGRAM                     C.M.HIGEPIN                        TEKITO                                                                                                                                                                                        GRAPHICS                        YUICHI.M                      SHIMIZU TAKU                      J.MIKAWA                                                                                                                                                          MUSIC                           TERRA                                                                                                                                                                                                                         DIRECTOR                      LORD RUNNER                                                                                                                                                                                                                     SPECIAL                         THANKS TO...                                                                                                                                                                                                                      OKAMOTO                         GIBA                            S.KAMIO                                                                                                                                                                                       Y.KATANO                        KOBAYASHI                                                                                                                                                                                                                       AND                             MARKETING                       STAFF                                                                                                                 #2560
+|2560
+@0003AB08-0003AEE7-FF
+;0003AB08{          MESSAGE FROM                    DEVELOPMENT                        STAFF      ****************   COME BACK                       SUMMER                          VACATION...  ****************                                                                                                                    COPYRIGHT                        1990 BY                          I.G.S.                                                                                                                                                                                         THE END                                        THANK YOU                      FOR PLAYING                                                                                                                                                                                                                                                                                                                                          }#992#992
+          MESSAGE FROM                    DEVELOPMENT                        STAFF      ****************   COME BACK                       SUMMER                          VACATION...  ****************                                                                                                                    COPYRIGHT                        1990 BY                          I.G.S.                                                                                                                                                                                         THE END                                        THANK YOU                      FOR PLAYING                                                                                                                                                                                                                                                                                                                                          #992
+|992

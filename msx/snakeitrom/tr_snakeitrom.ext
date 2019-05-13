@@ -1,0 +1,17 @@
+@000044E6-000044EF-24
+;000044E6{GAME OVER$}#010#010
+FIN JUEGO$#010
+|10
+@00004532-000046D2-00
+;00004532{SNAKE IT...   Copyright (C) 1986 EAGLESOFT...   Program by Ronald Pieket...   Speech by Ronald van der Putten...                  Eat all the clover, 20 points...   Eat those delicious flowers, 30 points...   Catch the lonely hearts for bonus points...   And chase the bonus multipliers...   But remember: whatever you eat...   DON'T EAT THE MUSHROOMS!!!                  Press space key to play...                  ~00~}#420#417
+SNAKE IT...   Copyright (C) 1986 EAGLESOFT...   Programa por Ronald Pieket...   Voz de Ronald van der Putten...                  Cómete esos tréboles, 20 puntos...   Cómete esas deliciosas flores, 30 puntos...   Captura los corazones para puntos bono...   Y persigue multiplicador de bono...   Pero recuerda: comas lo que comas...   NO TE COMAS LAS SETAS!!!                Pulsa espacio para jugar...                ~00~#417
+|417
+@00004852-00004905-00
+;00004852{**************************** HI HACKER! **************************** Sun is going down, disappearing behind the boulevard. It's Sharky's night tonight!**************************** }#180#180
+**************************** EH HACKER! ****************************
+ El sol está cayendo, desaparece tras el bulevar. Hoy hay una noche de tiburones!****************************** #180
+|180
+@00004D33-00004D4E-24
+;00004D33{SCORE:$LIVES:$BONUS:$ROUND:$}#028#028
+MARCA:$VIDAS:$BONOS:$RONDA:$#028
+|28

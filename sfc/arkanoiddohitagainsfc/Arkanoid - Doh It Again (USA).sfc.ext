@@ -1,0 +1,190 @@
+@00002924-00002B88-FF
+;00002924{          DEBUG  MODE                                                  ENDING A                                                        ENDING B                                                        ENDING C                                                        ASCII CHECK                                                     Stage select                                                    etc                                                             etc                                                             EXIT                                                            05/30 16:25 version      ~FF~}#612#609
+          DEBUG  MODE                                                  ENDING A                                                        ENDING B                                                        ENDING C                                                        ASCII CHECK                                                     Stage select                                                    etc                                                             etc                                                             EXIT                                                            05/30 16:25 version      ~FF~#609
+;00002B85{~FF~}#004#001
+~FF~#001
+;00002B86{~FF~}#004#001
+~FF~#001
+;00002B87{~FF~}#004#001
+~FF~#001
+;00002B88{~FF~}#004#001
+~FF~#001
+|613
+@00007FC0-00007FDB-FF
+;00007FC0{ARKANOID DOH IT AGAIN0~00~~09~~00~~01~3~00~}#043#028
+ARKANOID DOH IT AGAIN0~00~~09~~00~~01~3~00~#028
+|28
+@0000D17E-0000D197-FF
+;0000D17E{HIGH~00~SCORE~00~1UP ~00~2UP ~00~    ~00~}#041#026
+HIGH~00~SCORE~00~1UP ~00~2UP ~00~    ~00~#026
+|26
+@0000D198-0000D1AB-FF
+;0000D198{ROUND~00~EDIT~00~~A9~~03~~85~ d$~B9~-~1A~}#041#020
+ROUND~00~EDIT~00~~A9~~03~~85~ d$~B9~-~1A~#020
+|20
+@0000D84E-0000D861-FF
+;0000D84E{(kGAME~00~   OVER~00~~08~~C2~~10~ ~C1~}#038#020
+(kGAME~00~   OVER~00~~08~~C2~~10~ ~C1~#020
+|20
+@00010154-000101AA-FF
+;00010154{      Taito Signeture~09~~09~       Story Demo.~09~~09~       Super Arkanoid~09~~09~       Play Demo.~09~~09~ ~08~}#114#087
+      Taito Signeture~09~~09~       Story Demo.~09~~09~       Super Arkanoid~09~~09~       Play Demo.~09~~09~ ~08~#087
+|87
+@00013CC8-00014073-FF
+;00013CC8{0SAVELOAD                                                                                       EDIT                              MODE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ~C2~ ~AD~}#946#940
+0SAVELOAD                                                                                       EDIT                              MODE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ~C2~ ~AD~#940
+|940
+@0001851F-0001854C-FF
+;0001851F{  EASYNORMAL  HARD  STEREOMONAURAL========~18~~00~p~E8~}#055#046
+  EASYNORMAL  HARD  STEREOMONAURAL========~18~~00~p~E8~#046
+|46
+@00018590-000187F5-FF
+;00018590{ABC          OPTION MODE                                                  PLAYER SPEED                                                     <SLOW ======== FAST>                                           PLAYER STOCK                                                    GAME LEVEL                                                      EDIT                                                            SOUND                                                           B.G.M.           00                                             SE               00                                             EXIT                     ~C2~ ~9C~}#620#614
+ABC          OPTION MODE                                                  PLAYER SPEED                                                     <SLOW ======== FAST>                                           PLAYER STOCK                                                    GAME LEVEL                                                      EDIT                                                            SOUND                                                           B.G.M.           00                                             SE               00                                             EXIT                     ~C2~ ~9C~#614
+|614
+@00019BEF-00019C5D-FF
+;00019BEF{ TAITO 1993~00~LICENSED BY NINTENDO~00~PUSH START BUTTON~00~1 PLAYER~00~2 PLAYERS~00~PASSWORD~00~OPTION~00~~FF~}#111#087
+ TAITO 1993~00~LICENSED BY NINTENDO~00~PUSH START BUTTON~00~1 PLAYER~00~2 PLAYERS~00~PASSWORD~00~OPTION~00~~FF~#087
+;00019C46{GAME A~00~GAME B~00~GAME C~00~~FF~}#034#022
+GAME A~00~GAME B~00~GAME C~00~~FF~#022
+;00019C5C{_~7E~}#005#002
+_~7E~#002
+|111
+@0001BB07-0001BB63-FF
+;0001BB07{BDFH~FF~}#008#005
+BDFH~FF~#005
+;0001BB0C{~FF~}#004#001
+~FF~#001
+;0001BB0D{~FF~}#004#001
+~FF~#001
+;0001BB0E{`bdfh~FF~}#009#006
+`bdfh~FF~#006
+;0001BB14{~FF~}#004#001
+~FF~#001
+;0001BB15{~FF~}#004#001
+~FF~#001
+;0001BB16{I DISPATCHED OUR SCOUT SHIP~00~"VAUS" TO CONDUCT INITIAL~00~COLONIZATION SURVEYS.~00~ ~00~}#090#078
+I DISPATCHED OUR SCOUT SHIP~00~"VAUS" TO CONDUCT INITIAL~00~COLONIZATION SURVEYS.~00~ ~00~#078
+|93
+@0001BB64-0001BB80-FF
+;0001BB64{OUR JOY WAS SHORT LIVED.~00~~FF~}#032#026
+OUR JOY WAS SHORT LIVED.~00~~FF~#026
+;0001BB7E{~A8~~00~~CA~}#012#003
+~A8~~00~~CA~#003
+|29
+@0001DAB7-0001DAFA-FF
+;0001DAB7{ENTER YOUR PASSWORD~00~CORRECT PASSWORD~00~TRY AGAIN~00~~FF~}#060#048
+ENTER YOUR PASSWORD~00~CORRECT PASSWORD~00~TRY AGAIN~00~~FF~#048
+;0001DAE7{B C D F G H J K~89~~8A~~8B~~00~~00~}#035#020
+B C D F G H J K~89~~8A~~8B~~00~~00~#020
+|68
+@0001E1A7-0001E1DA-FF
+;0001E1A7{PASSWORD:~00~DELTA OMICRON~00~PROCEED COMMANDER THERLE.~00~ ~00~}#064#052
+PASSWORD:~00~DELTA OMICRON~00~PROCEED COMMANDER THERLE.~00~ ~00~#052
+|52
+@0001E1DB-0001E20A-FF
+;0001E1DB{DATE:~00~THE 9TH STARDAWN~00~144.3 PT (PULSAR TIME)~00~ ~00~}#060#048
+DATE:~00~THE 9TH STARDAWN~00~144.3 PT (PULSAR TIME)~00~ ~00~#048
+|48
+@0001E20B-0001E2A9-FF
+;0001E20B{ENTRY:~00~THE PAST HAUNTS ME.~00~FIVE YEARS SINCE WE MET~00~OUR DREADFUL NEMESIS DOH.~00~THE SEARCH FOR A NEW WORLD~00~GOES ON. OUR GOAL REMAINS~00~ELUSIVE. WHEN WILL IT END?~00~ ~00~}#183#159
+ENTRY:~00~THE PAST HAUNTS ME.~00~FIVE YEARS SINCE WE MET~00~OUR DREADFUL NEMESIS DOH.~00~THE SEARCH FOR A NEW WORLD~00~GOES ON. OUR GOAL REMAINS~00~ELUSIVE. WHEN WILL IT END?~00~ ~00~#159
+|159
+@0001E2AB-0001E31D-FF
+;0001E2AB{YET, I KNOW HE'S OUT THERE~00~WATCHING...WAITING...~00~~FF~}#059#050
+YET, I KNOW HE'S OUT THERE~00~WATCHING...WAITING...~00~~FF~#050
+;0001E2DD{END LOG ENTRY.~00~~FF~}#022#016
+END LOG ENTRY.~00~~FF~#016
+;0001E2ED{DATE:~00~THE 11TH STARDAWN~00~75.05 PT (PULSAR TIME)~00~ ~00~}#061#049
+DATE:~00~THE 11TH STARDAWN~00~75.05 PT (PULSAR TIME)~00~ ~00~#049
+|115
+@0001E31F-0001E364-FF
+;0001E31F{ENTRY:~00~OUR SENSORS HAVE~00~DETECTED A STUNNING NEW~00~TERRA CLASS PLANET.~00~ ~00~}#085#070
+ENTRY:~00~OUR SENSORS HAVE~00~DETECTED A STUNNING NEW~00~TERRA CLASS PLANET.~00~ ~00~#070
+|70
+@0001E366-0001E3B3-FF
+;0001E366{I DISPATCHED OUR SCOUT SHIP~00~"VAUS" TO CONDUCT INITIAL~00~COLONIZATION SURVEYS.~00~ ~00~}#090#078
+I DISPATCHED OUR SCOUT SHIP~00~"VAUS" TO CONDUCT INITIAL~00~COLONIZATION SURVEYS.~00~ ~00~#078
+|78
+@0001E3B4-0001E3FE-FF
+;0001E3B4{OUR JOY WAS SHORT LIVED.~00~~FF~}#032#026
+OUR JOY WAS SHORT LIVED.~00~~FF~#026
+;0001E3CE{DATE:~00~THE 14TH STARDAWN~00~136.8 PT (PULSAR TIME)~00~ ~00~}#061#049
+DATE:~00~THE 14TH STARDAWN~00~136.8 PT (PULSAR TIME)~00~ ~00~#049
+|75
+@0001E3FF-0001E46A-FF
+;0001E3FF{ENTRY:~00~THE MISSION HAS~00~ENDED IN TRAGEDY. OUR~00~DREAM WORLD WAS A HOAX,~00~CREATED BY THE VENGEFUL~00~MIND OF DOH.~00~ ~00~}#129#108
+ENTRY:~00~THE MISSION HAS~00~ENDED IN TRAGEDY. OUR~00~DREAM WORLD WAS A HOAX,~00~CREATED BY THE VENGEFUL~00~MIND OF DOH.~00~ ~00~#108
+|108
+@0001E46B-0001E4CE-FF
+;0001E46B{YET, WE MUST NOT GIVE UP.~00~OUR QUEST WILL CONTINUE.~00~SOME DAY WE WILL FIND THE~00~PEACE WHICH WE SEEK.~00~ ~00~}#115#100
+YET, WE MUST NOT GIVE UP.~00~OUR QUEST WILL CONTINUE.~00~SOME DAY WE WILL FIND THE~00~PEACE WHICH WE SEEK.~00~ ~00~#100
+|100
+@0001E4CF-0001E4DF-FF
+;0001E4CF{END LOG ENTRY.~00~ ~00~}#023#017
+END LOG ENTRY.~00~ ~00~#017
+|17
+@0001E4E1-0001E512-FF
+;0001E4E1{DATE:~00~THE 13TH STARDAWN~00~113.49 PT (PULSAR TIME)~00~ ~00~}#062#050
+DATE:~00~THE 13TH STARDAWN~00~113.49 PT (PULSAR TIME)~00~ ~00~#050
+|50
+@0001E513-0001E559-FF
+;0001E513{ENTRY:~00~THE JOURNEY IS~00~AT AN END! WE HAVE FOUND~00~OUR LONG SOUGHT HOME.~00~ ~00~}#086#071
+ENTRY:~00~THE JOURNEY IS~00~AT AN END! WE HAVE FOUND~00~OUR LONG SOUGHT HOME.~00~ ~00~#071
+|71
+@0001E55A-0001E5BB-FF
+;0001E55A{WE WILL NEVER REPEAT~00~THE MISTAKES OF THE PAST.~00~HUMANITY AND ENVIRONMENT~00~WILL CO-EXIST TOGETHER.~00~ ~00~}#113#098
+WE WILL NEVER REPEAT~00~THE MISTAKES OF THE PAST.~00~HUMANITY AND ENVIRONMENT~00~WILL CO-EXIST TOGETHER.~00~ ~00~#098
+|98
+@0001E5BD-0001E5EB-FF
+;0001E5BD{DOH IS GONE FOREVER,~00~BANISHED INTO OBLIVION!~00~ ~00~}#056#047
+DOH IS GONE FOREVER,~00~BANISHED INTO OBLIVION!~00~ ~00~#047
+|47
+@0001E5EC-0001E609-FF
+;0001E5EC{I NOW END MY FINAL ENTRY.~00~~FF~}#033#027
+I NOW END MY FINAL ENTRY.~00~~FF~#027
+;0001E607{~FF~}#004#001
+~FF~#001
+;0001E608{~FF~}#004#001
+~FF~#001
+;0001E609{~FF~}#004#001
+~FF~#001
+|30
+@00020FC4-00020FFA-FF
+;00020FC4{(`PASSWORDTotal time~80~~A8~~19~CONGRATULATIONS !~80~~EB~~19~PLAY TIME~80~'~1A~}#079#055
+(`PASSWORDTotal time~80~~A8~~19~CONGRATULATIONS !~80~~EB~~19~PLAY TIME~80~'~1A~#055
+|55
+@00021303-00021315-FF
+;00021303{Stage Select"~AB~~90~~80~~E2~ ~C2~}#034#019
+Stage Select"~AB~~90~~80~~E2~ ~C2~#019
+|19
+@0002336D-0002339E-FF
+;0002336D{`DATE:~00~THE 14TH STARDAWN~00~136.8 PT (PULSAR TIME)~00~ ~00~}#062#050
+`DATE:~00~THE 14TH STARDAWN~00~136.8 PT (PULSAR TIME)~00~ ~00~#050
+|50
+@0002339F-0002340A-FF
+;0002339F{ENTRY:~00~THE MISSION HAS~00~ENDED IN TRAGEDY. OUR~00~DREAM WORLD WAS A HOAX,~00~CREATED BY THE VENGEFUL~00~MIND OF DOH.~00~ ~00~}#129#108
+ENTRY:~00~THE MISSION HAS~00~ENDED IN TRAGEDY. OUR~00~DREAM WORLD WAS A HOAX,~00~CREATED BY THE VENGEFUL~00~MIND OF DOH.~00~ ~00~#108
+|108
+@0002340B-0002346E-FF
+;0002340B{YET, WE MUST NOT GIVE UP.~00~OUR QUEST WILL CONTINUE.~00~SOME DAY WE WILL FIND THE~00~PEACE WHICH WE SEEK.~00~ ~00~}#115#100
+YET, WE MUST NOT GIVE UP.~00~OUR QUEST WILL CONTINUE.~00~SOME DAY WE WILL FIND THE~00~PEACE WHICH WE SEEK.~00~ ~00~#100
+|100
+@0002346F-00023481-FF
+;0002346F{END LOG ENTRY.~00~~FF~}#022#016
+END LOG ENTRY.~00~~FF~#016
+;0002347F{~C2~0~A9~}#009#003
+~C2~0~A9~#003
+|19
+@00076B21-00077DA7-FF
+;00076B21{%<g\~A1~ta<~F3~~7F~        PRODUCER                                                          KEISUKE HASEGAWA              EXECUTIVE                       PRODUCERS                                                         SEIZO MATSUTAKA                                                 TAKEO SHIRASAKA               PROGRAMMERS                                                       KAZUHIKO SUGIYAMA                                               TATSUYA KITASAWA                                                RYO OHNO                                                        DAISUKE SAITO                 CHARACTER                       DESIGNERS                                                         HIROMI SUKEGAWA                                                 MAKOTO SONODA                                                   TORU KAWAISHI                                                   YUJI KOGA                        SOUND                                                              MOMOI                                                           BABI                      PLANNERS                                                          YUJI KOGA                                                       DAISUKE SAITO                 DIRECTED                              BY                                                          SHOUJI TAKAHASHI                ~40~ TAITO 1997                                                LICENSED BY NINTENDO              THE CREW                                                                                  PRODUCER                                          KEISUKE HASEGAWA                                                                              EXECUTIVE               PRODUCERS                                         SEIZO MATSUTAKA                                 TAKEO SHIRASAKA                                                                                                                               PROGRAMMERS                                       KAZUHIKO SUGIYAMA                               TATSUYA KITASAWA                                RYO OHNO                                        DAISUKE SAITO                                                                                 CHARACTER               DESIGNERS                                         HIROMI SUKEGAWA                                 MAKOTO SONODA                                   TORU KAWAISHI                                   YUJI KOGA                                                                                     SOUND                                             MOMOI                                           BABI                                                                                          GAME                    CHECKERS                                          KIYOSHI BANDOU                                  AYUMI KAWANO                                    YOICHI SATO                                                                                   SPECIAL                 THANKS TO                                         TOMIO TAKEDA                                    YOSHIAKI ISHII                                  MANABU SHIRATO                                  SHIRO YASUDA                                    KAZUHIRO OHHARA                                 NOBUAKI KUROKI                                  ANTHONY GURR                                                                                                                                  PLANNERS                                          YUJI KOGA                                       DAISUKE SAITO                                                                                 DIRECTED                      BY                                          SHOUJI TAKAHASHI                                                                                                                                  ~40~ TAITO 1997                                LICENSED BY NINTENDO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ~FF~}#4757#4739
+%<g\~A1~ta<~F3~~7F~        PRODUCER                                                          KEISUKE HASEGAWA              EXECUTIVE                       PRODUCERS                                                         SEIZO MATSUTAKA                                                 TAKEO SHIRASAKA               PROGRAMMERS                                                       KAZUHIKO SUGIYAMA                                               TATSUYA KITASAWA                                                RYO OHNO                                                        DAISUKE SAITO                 CHARACTER                       DESIGNERS                                                         HIROMI SUKEGAWA                                                 MAKOTO SONODA                                                   TORU KAWAISHI                                                   YUJI KOGA                        SOUND                                                              MOMOI                                                           BABI                      PLANNERS                                                          YUJI KOGA                                                       DAISUKE SAITO                 DIRECTED                              BY                                                          SHOUJI TAKAHASHI                ~40~ TAITO 1997                                                LICENSED BY NINTENDO              THE CREW                                                                                  PRODUCER                                          KEISUKE HASEGAWA                                                                              EXECUTIVE               PRODUCERS                                         SEIZO MATSUTAKA                                 TAKEO SHIRASAKA                                                                                                                               PROGRAMMERS                                       KAZUHIKO SUGIYAMA                               TATSUYA KITASAWA                                RYO OHNO                                        DAISUKE SAITO                                                                                 CHARACTER               DESIGNERS                                         HIROMI SUKEGAWA                                 MAKOTO SONODA                                   TORU KAWAISHI                                   YUJI KOGA                                                                                     SOUND                                             MOMOI                                           BABI                                                                                          GAME                    CHECKERS                                          KIYOSHI BANDOU                                  AYUMI KAWANO                                    YOICHI SATO                                                                                   SPECIAL                 THANKS TO                                         TOMIO TAKEDA                                    YOSHIAKI ISHII                                  MANABU SHIRATO                                  SHIRO YASUDA                                    KAZUHIRO OHHARA                                 NOBUAKI KUROKI                                  ANTHONY GURR                                                                                                                                  PLANNERS                                          YUJI KOGA                                       DAISUKE SAITO                                                                                 DIRECTED                      BY                                          SHOUJI TAKAHASHI                                                                                                                                  ~40~ TAITO 1997                                LICENSED BY NINTENDO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ~FF~#4739
+;00077DA4{~FF~}#004#001
+~FF~#001
+;00077DA5{~FF~}#004#001
+~FF~#001
+;00077DA6{~FF~}#004#001
+~FF~#001
+;00077DA7{~FF~}#004#001
+~FF~#001
+|4743

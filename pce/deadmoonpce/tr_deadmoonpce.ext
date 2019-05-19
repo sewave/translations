@@ -1,0 +1,78 @@
+@000023E2-00002436-FF
+;000023E2{ETAPA = CLEAR=ENEMY TOTAL ----=DESTRUCTIVE ----=RATE =BONUS  =00 PTS.=SORRY NO BONUS=}#085#085
+ETAPA = ACABA=ENEMIGOS    ----=DESTRUIDOS  ----=RATIO=BONOS  =00 PTS.=PERDÓN NO BONO=#085
+|85
+@0000263B-0000265B-FF
+;0000263B{GAME  OVER=CONTINUE ?   YES,=NO,=}#033#033
+FIN  JUEGO=CONTINUAR?   SÍ, =NO,=#033
+|33
+@00002C42-0000321D-FF
+;00002C42{ It was about two centuries   =after the beginning of human  =space exploration that the    =monitor center located at the =~FF~}#128#125
+ Fue sobre dos siglos tras el =inicio de la exploración del  =espacio por los humanos que el=centro de monitorización en   =~FF~#125
+;00002CBF{far reaches of the solar      =system, near pluto, had       =reported the presence of a new=comet.  According to          =~FF~}#128#125
+los confines lejanos del      =sistema solar, cerca de pluto,=informó de la presencia de un =nuevo cometa. Según los       =~FF~#125
+;00002D3C{calculations this comet was   =supposed to miss the earth by =about 1,200,000,000           =kilometers.  Space probes were=~FF~}#128#125
+cálculos este cometa se       =suponía que no iba a dar a la =tierra por 1.200.000.000      =kilómetros.  Se enviaron      =~FF~#125
+;00002DB9{sent towards this comet to    =relay information to the earth=about its position.           =When the probes were about    =~FF~}#128#125
+sondas hacia este cometa para =pasar información a la tierra =sobre su posición.            =Cuando las sondas estaban a   =~FF~#125
+;00002E36{200,000 kilometers away from  =the comet, they began to send =data back to the earth.  All  =of a sudden the comet became  =~FF~}#128#125
+200.000 kilómetros del cometa,=empezaron a enviar datos de   =vuelta a la tierra.  De       =repente el cometa se volvió   =~FF~#125
+;00002EB3{brighter and shifted course   =towards the probes,           =disintegrating them, after    =which the comet began to head =~FF~}#128#125
+más brillante y cambió su ruta=hacia las sondas,             =desintegrándolas, tras lo cual=el cometa comenzó a dirigirse =~FF~#125
+;00002F30{directly towards the earth.   = All U.N. countries with space=programs began working to     =avert the disaster which would=~FF~}#128#125
+directamente hacia la tierra. = Todos los países de la ONU   =con programas espaciales      =trabajaban para evitar el     =~FF~#125
+;00002FAD{come several weeks later.     =Orbit shifting [ATFI] missiles=were launched towords the     =oncoming comet.               =~FF~}#128#125
+desastre dentro de semanas.   =Se lanzaron misiles [ATFI]    =orbitales hacia el cometa     =venidero.                     =~FF~#125
+;0000302A{ The result was that the comet=shifted course just enough to =avoid the earth, but collided =instead with our moon.        =~FF~}#128#125
+ El resultado fue que el      =cometa cambió su rumbo para   =evitar la tierra, pero en vez =de eso colisionó con la luna. =~FF~#125
+;000030A7{ Since the comet was only     =several kilometers in         =diameter, it seemed that the  =only damage was a sizable     =~FF~}#128#125
+ Como el cometa solo medía    =varios kilómetros de diámetro,=parecía que el único daño era =un pequeño crater en la luna. =~FF~#125
+;00003124{crater on the moon.           = When probes were sent to the =moon to inspect the damages,  =no trace of the comet was to  =~FF~}#128#125
+ Cuando se enviaron sondas a  =la luna para inspeccionar los =daños, no se encontraron      =trazas del cometa.            =~FF~#125
+;000031A1{be found.  Instead, what they =discovered were a host of     =alien military spacecraft.    =                              =~FF~}#128#125
+ En su lugar, lo que          =descubrieron fue un anfitrión =de una nave espacial militar. =                              =~FF~#125
+|1500
+@00003281-00003295-FF
+;00003281{PRESENTED BY NATSUME=}#021#021
+LO PRESENTA NATSUME =#021
+|21
+@00003397-000033B3-FF
+;00003397{TM=~FF~}#007#004
+TM=~FF~#004
+;0000339B{FROM NEC=~FF~}#013#010
+ DE NEC =~FF~#010
+;000033A5{~40~1991 NATSUME=~FF~}#021#015
+~40~1991 NATSUME=~FF~#015
+|29
+@00003A7F-00003CF7-FF
+;00003A7F{DEAD MOON STAFF=~08~~02~~03~~12~T.YOSHIMINE=~09~~01~~03~~05~GAME DESIGN=~0B~~02~~03~~12~M.TAMURA=~0E~~02~~03~~12~K.KAWAHATA=~14~~02~~03~~12~T.YOSHIMINE=~15~~01~~03~~09~PROGRAM=~1A~~02~~03~~12~M.TAMURA=~1B~~01~~03~~09~GRAPHIC=~1D~~02~~03~~12~K.KAWAHATA=~03~~02~~03~~12~M.ISHIMODA=~04~~01~~03~~0B~MUSIC=~06~~02~~03~~12~Y.SONODA=~0C~~02~~03~~12~H.NISHIKAWA=~0D~~01~~03~~05~SOUND EFECT=~12~~02~~03~~12~E.UEDA=~13~~01~~03~~09~ADVISER=~15~~02~~03~~12~T.KAJII=~18~~02~~03~~12~A.KAYAMOTO=~1B~~02~~03~~12~H.HAYASHI=~01~~02~~03~~12~COZONO=~02~~01~~03~~02~SPECIAL THANKS=~04~~02~~03~~12~J.KOJIMA=~07~~02~~03~~12~SANBON'S=~0A~~02~~03~~12~T.TAGAMI=~0D~~02~~03~~12~N.SATOH=~10~~02~~03~~12~Y.HONDA=~13~~02~~03~~12~Y.KAWADA=~16~~02~~03~~12~H.KOJIMA=~19~~02~~03~~12~H.TANITA=~1C~~02~~03~~12~A.ISHIDA==~02~~02~~12~AND YOU=~0F~~01~~03~~09~YOUR PLAY DATA=~13~~02~~07~~06~ENEMY TOTAL --- =~16~~02~~0B~~06~DESTRUCTIVE --- =~19~~02~~0F~~06~ALL ROUND RATE =~1C~~02~~13~~04~LAST SCORE =~12~~02~~03~~02~1991 CREATED BY STUDIO DUCKS=~16~~02~~03~~0A~1991 ~40~NATSUME=~1E~~03~~03~~0D~END=~05~~FF~}#1067#593
+GRUPO DEAD MOON=~08~~02~~03~~12~T.YOSHIMINE=~09~~01~~03~~05~
+DISEÑO JUEGO=~0B~~02~~03~~12~M.TAMURA=~0E~~02~~03~~12~K.KAWAHATA=~14~~02~~03~~12~
+T.YOSHIMINE=~15~~01~~03~~09~
+CÓDIGO=~1A~~02~~03~~12~M.TAMURA=~1B~~01~~03~~09~
+GRÁFICOS=~1D~~02~~03~~12~
+K.KAWAHATA=~03~~02~~03~~12~M.ISHIMODA=~04~~01~~03~~0B~
+MÚSICA=~06~~02~~03~~12~Y.SONODA=~0C~~02~~03~~12~H.NISHIKAWA=~0D~~01~~03~~05~
+  EFECTOS=~12~~02~~03~~12~E.UEDA=~13~~01~~03~~09~
+ASESOR =~15~~02~~03~~12~T.KAJII=~18~~02~~03~~12~A.KAYAMOTO=~1B~~02~~03~~12~
+H.HAYASHI=~01~~02~~03~~12~COZONO=~02~~01~~03~~02~
+MUCHAS GRACIAS=~04~~02~~03~~12~J.KOJIMA=~07~~02~~03~~12~SANBON'S=~0A~~02~~03~~12~
+T.TAGAMI=~0D~~02~~03~~12~N.SATOH=~10~~02~~03~~12~Y.HONDA=~13~~02~~03~~12~
+Y.KAWADA=~16~~02~~03~~12~H.KOJIMA=~19~~02~~03~~12~H.TANITA=~1C~~02~~03~~12~A.ISHIDA==~02~~02~~12~
+ Y TU  =~0F~~01~~03~~09~DATOS PARTIDA =~13~~02~~07~~06~
+ENEMIGOS    --- =~16~~02~~0B~~06~
+DESTRUIDOS  --- =~19~~02~~0F~~06~RATIO GLOBAL   =~1C~~02~~13~~04~
+ÚLTI.MARCA =~12~~02~~03~~02~
+1991 CREADO POR STUDIO DUCKS=~16~~02~~03~~0A~1991 ~40~NATSUME=~1E~~03~~03~~0D~
+FIN=~05~~FF~#593
+;00003CD0{                                =0 PTS.=}#040#040
+                                =0 PTS.=#040
+|633
+@00003EC5-00003ED9-FF
+;00003EC5{STAGE =BGM   =LEVEL =}#021#021
+ETAPA =MÚS   =NIVEL =#021
+|21
+@00003F8D-00003FE6-FF
+;00003F8D{ETAPA 1   CITY=ETAPA 2  SPACE=ETAPA 3   MOON=ETAPA 4   CAVE=ETAPA 5   LAKE=ETAPA 6   CORE=}#090#090
+ETAPA 1 CIUDAD=ETAPA2 ESPACIO=ETAPA 3   LUNA=ETAPA 4  CUEVA=ETAPA 5   LAGO=ETAPA 6 NÚCLEO=#090
+|90

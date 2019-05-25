@@ -1,0 +1,750 @@
+@0000044F-0000046D-00
+;0000044F{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DEVELOPED FOR USE ONLY WITH~00~#028
+;0000046B{~12~&~00~}#009#003
+~12~&~00~#003
+|31
+@0000046F-000004BB-00
+;0000046F{SYSTEMS.~00~}#012#009
+SYSTEMS.~00~#009
+;00000478{~0C~NTSC MEGA DRIVE~00~}#023#017
+~0C~NTSC MEGA DRIVE~00~#017
+;00000489{~0D~NTSC GENESIS~00~}#020#014
+~0D~NTSC GENESIS~00~#014
+;00000497{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~PAL AND FRENCH SECAM MEGA DRIVE~00~#033
+;000004B8{~00~}#004#001
+~00~#001
+;000004B9{~00~}#004#001
+~00~#001
+;000004BA{~00~}#004#001
+~00~#001
+;000004BB{~00~}#004#001
+~00~#001
+|77
+@00001620-000016A3-00
+;00001620{NuDifficulty  Easy  ~00~}#024#021
+NuDifficulty  Easy  ~00~#021
+;00001635{Difficulty  Medium~00~}#022#019
+Difficulty  Medium~00~#019
+;00001648{Difficulty  Hard  ~00~}#022#019
+Difficulty  Hard  ~00~#019
+;0000165B{Control     A-%s~00~}#020#017
+Control     A-%s~00~#017
+;0000166C{            B-%s~00~}#020#017
+            B-%s~00~#017
+;0000167D{            C-%s~00~}#020#017
+            C-%s~00~#017
+;0000168E{Change Pony Colors~00~}#022#019
+Change Pony Colors~00~#019
+;000016A1{%s~00~}#006#003
+%s~00~#003
+|132
+@000016A4-00001731-00
+;000016A4{Press Start~00~}#015#012
+Press Start~00~#012
+;000016B0{Difficulty  Easy  ~00~}#022#019
+Difficulty  Easy  ~00~#019
+;000016C3{Difficulty  Medium~00~}#022#019
+Difficulty  Medium~00~#019
+;000016D6{Difficulty  Hard  ~00~}#022#019
+Difficulty  Hard  ~00~#019
+;000016E9{Control     A-%s~00~}#020#017
+Control     A-%s~00~#017
+;000016FA{            B-%s~00~}#020#017
+            B-%s~00~#017
+;0000170B{            C-%s~00~}#020#017
+            C-%s~00~#017
+;0000171C{Change Pony Colors~00~}#022#019
+Change Pony Colors~00~#019
+;0000172F{%s~00~}#006#003
+%s~00~#003
+|142
+@00001732-00001786-00
+;00001732{Press Start~00~}#015#012
+Press Start~00~#012
+;0000173E{Control     A-%s~00~}#020#017
+Control     A-%s~00~#017
+;0000174F{            B-%s~00~}#020#017
+            B-%s~00~#017
+;00001760{            C-%s~00~}#020#017
+            C-%s~00~#017
+;00001771{Change Pony Colors~00~}#022#019
+Change Pony Colors~00~#019
+;00001784{%s~00~}#006#003
+%s~00~#003
+|85
+@00001787-00001795-00
+;00001787{Press Start~00~}#015#012
+Press Start~00~#012
+;00001793{~00~}#004#001
+~00~#001
+;00001794{H~E7~}#005#002
+H~E7~#002
+|15
+@00007F06-00007F9C-00
+;00007F06{** Warp To Screen : %2d **~00~}#030#027
+** Warp To Screen : %2d **~00~#027
+;00007F21{** Horseshoes     : %2d **~00~}#030#027
+** Horseshoes     : %2d **~00~#027
+;00007F3C{** Keys           : %2d **~00~}#030#027
+** Keys           : %2d **~00~#027
+;00007F57{** Crystals :  %7s **~00~}#025#022
+** Crystals :  %7s **~00~#022
+;00007F6D{** Ponies   :  %7s **~00~}#025#022
+** Ponies   :  %7s **~00~#022
+;00007F83{*************************~00~}#029#026
+*************************~00~#026
+|151
+@00008740-000087A3-00
+;00008740{wl$~1F~Nu%3d Frames/Sec~0A~~00~}#031#022
+wl$~1F~Nu%3d Frames/Sec~0A~~00~#022
+;00008756{%3d Frames/Sec~0A~~00~}#022#016
+%3d Frames/Sec~0A~~00~#016
+;00008766{Free Pats: %3d~00~}#018#015
+Free Pats: %3d~00~#015
+;00008775{Free Pats: %3d~00~}#018#015
+Free Pats: %3d~00~#015
+;00008784{Scr %2d  X %3d~00~}#018#015
+Scr %2d  X %3d~00~#015
+;00008793{Scr %2d  X %3d~00~}#018#015
+Scr %2d  X %3d~00~#015
+;000087A2{/~02~}#005#002
+/~02~#002
+|100
+@0000E004-0000E019-00
+;0000E004{Nu%2d~00~}#009#006
+Nu%2d~00~#006
+;0000E00A{%2d~00~}#007#004
+%2d~00~#004
+;0000E00E{Good Job!~00~}#013#010
+Good Job!~00~#010
+;0000E018{/~03~}#005#002
+/~03~#002
+|22
+@0000E324-0000E333-00
+;0000E324{NuTry Again!~00~}#016#013
+NuTry Again!~00~#013
+;0000E331{~00~}#004#001
+~00~#001
+;0000E332{/~03~}#005#002
+/~03~#002
+|16
+@00011332-0001137D-00
+;00011332{Crystal's Pony Tale!~00~}#024#021
+Crystal's Pony Tale!~00~#021
+;00011347{Developed By Artech Studios~00~}#031#028
+Developed By Artech Studios~00~#028
+;00011363{Copyright & TM Sega 1994~00~}#028#025
+Copyright & TM Sega 1994~00~#025
+;0001137C{ ~00~}#005#002
+ ~00~#002
+|76
+@0001137E-0001139D-00
+;0001137E{Sega Producer:~00~}#018#015
+Sega Producer:~00~#015
+;0001138D{Cindy Claveran~00~}#018#015
+Cindy Claveran~00~#015
+;0001139C{ ~00~}#005#002
+ ~00~#002
+|32
+@0001139E-000113C7-00
+;0001139E{Sega Product Manager:~00~}#025#022
+Sega Product Manager:~00~#022
+;000113B4{Charlie Altekruse~00~}#021#018
+Charlie Altekruse~00~#018
+;000113C6{ ~00~}#005#002
+ ~00~#002
+|42
+@000113C8-000113ED-00
+;000113C8{Artech Project Manager:~00~}#027#024
+Artech Project Manager:~00~#024
+;000113E0{Paul Butler~00~}#015#012
+Paul Butler~00~#012
+;000113EC{ ~00~}#005#002
+ ~00~#002
+|38
+@000113EE-00011413-00
+;000113EE{Designed by:~00~}#016#013
+Designed by:~00~#013
+;000113FB{Paul Butler~00~}#015#012
+Paul Butler~00~#012
+;00011407{Rick Banks~00~}#014#011
+Rick Banks~00~#011
+;00011412{ ~00~}#005#002
+ ~00~#002
+|38
+@00011414-0001143F-00
+;00011414{Programming by:~00~}#019#016
+Programming by:~00~#016
+;00011424{Larry Donais~00~}#016#013
+Larry Donais~00~#013
+;00011431{Dan Fanthome~00~}#016#013
+Dan Fanthome~00~#013
+;0001143E{ ~00~}#005#002
+ ~00~#002
+|44
+@00011440-0001145C-00
+;00011440{Artwork by:~00~}#015#012
+Artwork by:~00~#012
+;0001144C{Grant Campbell~00~}#018#015
+Grant Campbell~00~#015
+;0001145B{ ~00~}#005#002
+ ~00~#002
+|29
+@0001145D-0001147C-00
+;0001145D{Animations by:~00~}#018#015
+Animations by:~00~#015
+;0001146C{Grant Campbell~00~}#018#015
+Grant Campbell~00~#015
+;0001147B{ ~00~}#005#002
+ ~00~#002
+|32
+@0001147D-0001149C-00
+;0001147D{Musical Scores:~00~}#019#016
+Musical Scores:~00~#016
+;0001148D{Mark Mitchell~00~}#017#014
+Mark Mitchell~00~#014
+;0001149B{ ~00~}#005#002
+ ~00~#002
+|32
+@0001149D-000114D5-00
+;0001149D{Sega Special Assistance:~00~}#028#025
+Sega Special Assistance:~00~#025
+;000114B6{Keith Higashihara~00~}#021#018
+Keith Higashihara~00~#018
+;000114C8{Vince Nason~00~}#015#012
+Vince Nason~00~#012
+;000114D4{ ~00~}#005#002
+ ~00~#002
+|57
+@000114D6-000114F9-00
+;000114D6{Pony Animations by:~00~}#023#020
+Pony Animations by:~00~#020
+;000114EA{Colleen Holub~00~}#017#014
+Colleen Holub~00~#014
+;000114F8{ ~00~}#005#002
+ ~00~#002
+|36
+@000114FA-0001153E-00
+;000114FA{Sega Special Thanks:~00~}#024#021
+Sega Special Thanks:~00~#021
+;0001150F{Mike Latham~00~}#015#012
+Mike Latham~00~#012
+;0001151B{Willie Mancero~00~}#018#015
+Willie Mancero~00~#015
+;0001152A{Marilynn Churchill~00~}#022#019
+Marilynn Churchill~00~#019
+;0001153D{ ~00~}#005#002
+ ~00~#002
+|69
+@0001153F-0001155B-00
+;0001153F{Library Code:~00~}#017#014
+Library Code:~00~#014
+;0001154D{Larry Donais~00~}#016#013
+Larry Donais~00~#013
+;0001155A{ ~00~}#005#002
+ ~00~#002
+|29
+@0001155C-0001159A-00
+;0001155C{Additional Programming:~00~}#027#024
+Additional Programming:~00~#024
+;00011574{Andrew Szczeszynski~00~}#023#020
+Andrew Szczeszynski~00~#020
+;00011588{Michel De Breyne~00~}#020#017
+Michel De Breyne~00~#017
+;00011599{ ~00~}#005#002
+ ~00~#002
+|63
+@0001159B-000115CD-00
+;0001159B{Additional Design by:~00~}#025#022
+Additional Design by:~00~#022
+;000115B1{Mark Mitchell~00~}#017#014
+Mark Mitchell~00~#014
+;000115BF{Larry Donais~00~}#016#013
+Larry Donais~00~#013
+;000115CC{ ~00~}#005#002
+ ~00~#002
+|51
+@000115CE-000115EC-00
+;000115CE{Sound Effects:~00~}#018#015
+Sound Effects:~00~#015
+;000115DD{Mark Mitchell~00~}#017#014
+Mark Mitchell~00~#014
+;000115EB{ ~00~}#005#002
+ ~00~#002
+|31
+@000115ED-00011610-00
+;000115ED{Sega Lead Tester:~00~}#021#018
+Sega Lead Tester:~00~#018
+;000115FF{Crisi Albertson~00~}#019#016
+Crisi Albertson~00~#016
+;0001160F{ ~00~}#005#002
+ ~00~#002
+|36
+@00011611-00011641-00
+;00011611{Assistant Lead Testers:~00~}#027#024
+Assistant Lead Testers:~00~#024
+;00011629{Janine Cook~00~}#015#012
+Janine Cook~00~#012
+;00011635{Kim Rogers~00~}#014#011
+Kim Rogers~00~#011
+;00011640{ ~00~}#005#002
+ ~00~#002
+|49
+@00011642-0001170B-00
+;00011642{Testers:~00~}#012#009
+Testers:~00~#009
+;0001164B{Greg Becksted~00~}#017#014
+Greg Becksted~00~#014
+;00011659{Joe Cain~00~}#012#009
+Joe Cain~00~#009
+;00011662{Christine Watson~00~}#020#017
+Christine Watson~00~#017
+;00011673{Conan Tigard~00~}#016#013
+Conan Tigard~00~#013
+;00011680{Tony Lynch~00~}#014#011
+Tony Lynch~00~#011
+;0001168B{Jeff Kessler~00~}#016#013
+Jeff Kessler~00~#013
+;00011698{Stan Weaver~00~}#015#012
+Stan Weaver~00~#012
+;000116A4{Chris Sinclair~00~}#018#015
+Chris Sinclair~00~#015
+;000116B3{Manuel Sousa~00~}#016#013
+Manuel Sousa~00~#013
+;000116C0{Matt Underwood~00~}#018#015
+Matt Underwood~00~#015
+;000116CF{Alexander Villagran~00~}#023#020
+Alexander Villagran~00~#020
+;000116E3{Lorne Asuncion~00~}#018#015
+Lorne Asuncion~00~#015
+;000116F2{John Jansen~00~}#015#012
+John Jansen~00~#012
+;000116FE{Ben Cureton~00~}#015#012
+Ben Cureton~00~#012
+;0001170A{ ~00~}#005#002
+ ~00~#002
+|202
+@0001170C-00011773-00
+;0001170C{Extra Special Thanks:~00~}#025#022
+Extra Special Thanks:~00~#022
+;00011722{Aja~00~}#007#004
+Aja~00~#004
+;00011726{Alexandra~00~}#013#010
+Alexandra~00~#010
+;00011730{Alishka~00~}#011#008
+Alishka~00~#008
+;00011738{Amy~00~}#007#004
+Amy~00~#004
+;0001173C{Hartley~00~}#011#008
+Hartley~00~#008
+;00011744{Jacqueline~00~}#014#011
+Jacqueline~00~#011
+;0001174F{Jonathan~00~}#012#009
+Jonathan~00~#009
+;00011758{Laurel~00~}#010#007
+Laurel~00~#007
+;0001175F{Lyra~00~}#008#005
+Lyra~00~#005
+;00011764{Roger~00~}#009#006
+Roger~00~#006
+;0001176A{Sugan~00~}#009#006
+Sugan~00~#006
+;00011770{~40~~00~}#008#002
+~40~~00~#002
+;00011772{~00~}#004#001
+~00~#001
+;00011773{~00~}#004#001
+~00~#001
+|104
+@00019BF3-00019C09-00
+;00019BF3{bE0: Out of Patterns~00~}#024#021
+bE0: Out of Patterns~00~#021
+;00019C08{6~FC~}#005#002
+6~FC~#002
+|23
+@0001A0F8-0001A113-00
+;0001A0F8{E1: Out of Patterns~00~}#023#020
+E1: Out of Patterns~00~#020
+;0001A10C{TJ6~FC~~00~}#011#005
+TJ6~FC~~00~#005
+;0001A111{~00~}#004#001
+~00~#001
+;0001A112{`~D4~}#005#002
+`~D4~#002
+|28
+@0001A1C0-0001A1DB-00
+;0001A1C0{E2: Out of Patterns~00~}#023#020
+E2: Out of Patterns~00~#020
+;0001A1D4{TJ6~FC~~00~}#011#005
+TJ6~FC~~00~#005
+;0001A1D9{~00~}#004#001
+~00~#001
+;0001A1DA{`~D4~}#005#002
+`~D4~#002
+|28
+@0001B408-0001B489-00
+;0001B408{NuOld Picture Array Overflow~00~}#032#029
+NuOld Picture Array Overflow~00~#029
+;0001B425{Old Picture Array Overflow~00~}#030#027
+Old Picture Array Overflow~00~#027
+;0001B440{Old Set Anim Picture Array Overflow~00~}#039#036
+Old Set Anim Picture Array Overflow~00~#036
+;0001B464{Old Set Anim Picture Array Overflow~00~}#039#036
+Old Set Anim Picture Array Overflow~00~#036
+;0001B488{H~E7~}#005#002
+H~E7~#002
+|130
+@0001C57E-0001C59B-00
+;0001C57E{NuE3: Out of Sprite Buffers~00~}#031#028
+NuE3: Out of Sprite Buffers~00~#028
+;0001C59A{H~E7~}#005#002
+H~E7~#002
+|30
+@0001D566-0001D599-00
+;0001D566{NuOut of Animated Objects~00~}#029#026
+NuOut of Animated Objects~00~#026
+;0001D580{Out of Animated Objects~00~}#027#024
+Out of Animated Objects~00~#024
+;0001D598{/~0A~}#005#002
+/~0A~#002
+|52
+@0001D6E5-0001D727-00
+;0001D6E5{xR9~00~}#007#004
+xR9~00~#004
+;0001D6E9{~FF~~F4~~84~$ANuOut of Interactive Objects~00~}#046#034
+~FF~~F4~~84~$ANuOut of Interactive Objects~00~#034
+;0001D70B{Out of Interactive Objects~00~}#030#027
+Out of Interactive Objects~00~#027
+;0001D726{/~0A~}#005#002
+/~0A~#002
+|67
+@0001D904-0001D925-00
+;0001D904{NuOut of Objects~00~}#020#017
+NuOut of Objects~00~#017
+;0001D915{Out of Objects~00~}#018#015
+Out of Objects~00~#015
+;0001D924{/~0A~}#005#002
+/~0A~#002
+|34
+@00020748-000207C9-00
+;00020748{N^Nu~0A~Math library must precede standard C library on linker command line~0A~ to access printf() that supports floating point.~0A~~00~}#136#124
+N^Nu~0A~Math library must precede standard C library on linker command line~0A~ to access printf() that supports floating point.~0A~~00~#124
+;000207C4{NV~FF~~A8~H~EE~}#015#006
+NV~FF~~A8~H~EE~#006
+|130
+@0002112C-00021272-00
+;0002112C{N^Nu         BUS ERROR         ~00~}#035#032
+N^Nu         BUS ERROR         ~00~#032
+;0002114C{ FLOATING POINT EXCEPTION  ~00~}#031#028
+ FLOATING POINT EXCEPTION  ~00~#028
+;00021168{ CHK INSTRUCTION EXCEPTION ~00~}#031#028
+ CHK INSTRUCTION EXCEPTION ~00~#028
+;00021184{    KEYBOARD INTERRUPT     ~00~}#031#028
+    KEYBOARD INTERRUPT     ~00~#028
+;000211A0{    ILLEGAL INSTRUCTION    ~00~}#031#028
+    ILLEGAL INSTRUCTION    ~00~#028
+;000211BC{       TRAPV - TRAPcc      ~00~}#031#028
+       TRAPV - TRAPcc      ~00~#028
+;000211D8{    PRIVILEGE VIOLATION    ~00~}#031#028
+    PRIVILEGE VIOLATION    ~00~#028
+;000211F4{       ADDRESS ERROR       ~00~}#031#028
+       ADDRESS ERROR       ~00~#028
+;00021210{    SPURIOUS INTERRUPT     ~00~}#031#028
+    SPURIOUS INTERRUPT     ~00~#028
+;0002122C{      DIVIDE BY ZERO       ~00~}#031#028
+      DIVIDE BY ZERO       ~00~#028
+;00021248{     UNDEFINED SIGNAL      ~00~}#031#028
+     UNDEFINED SIGNAL      ~00~#028
+;00021264{~0A~************ ~00~}#021#015
+~0A~************ ~00~#015
+|327
+@00021281-00021399-00
+;00021281{               Integer Divide by Zero~00~}#041#038
+               Integer Divide by Zero~00~#038
+;000212A7{~0A~ PC = ~00~}#014#008
+~0A~ PC = ~00~#008
+;000212AF{~0A~ SR = ~00~}#014#008
+~0A~ SR = ~00~#008
+;000212B7{~0A~~00~}#008#002
+~0A~~00~#002
+;000212B9{~0A~ PC = ~00~}#014#008
+~0A~ PC = ~00~#008
+;000212C1{~0A~ SR = ~00~}#014#008
+~0A~ SR = ~00~#008
+;000212C9{~0A~ First word of instruction being executed:     ~00~}#055#049
+~0A~ First word of instruction being executed:     ~00~#049
+;000212FA{~0A~ Address being accessed:                   ~00~}#051#045
+~0A~ Address being accessed:                   ~00~#045
+;00021327{~0A~ Access information:                          ~00~}#054#048
+~0A~ Access information:                          ~00~#048
+;00021357{ read~0A~~00~}#013#007
+ read~0A~~00~#007
+;0002135E{write~0A~~00~}#013#007
+write~0A~~00~#007
+;00021365{----------------------------------------------------~0A~}#056#053
+----------------------------------------------------~0A~#053
+|281
+@00021A02-00021BB9-00
+;00021A02{N^NuAbnormal Program Termination~00~}#036#033
+N^NuAbnormal Program Termination~00~#033
+;00021A23{Bus Error~00~}#013#010
+Bus Error~00~#010
+;00021A2D{Chk Instruction Exception~00~}#029#026
+Chk Instruction Exception~00~#026
+;00021A47{Floating Point Exception~00~}#028#025
+Floating Point Exception~00~#025
+;00021A60{Illegal Instruction~00~}#023#020
+Illegal Instruction~00~#020
+;00021A74{Protocol Violation~00~}#022#019
+Protocol Violation~00~#019
+;00021A87{Branch Set on Unordered Condition~00~}#037#034
+Branch Set on Unordered Condition~00~#034
+;00021AA9{Inexact Result~00~}#018#015
+Inexact Result~00~#015
+;00021AB8{Divide by Zero~00~}#018#015
+Divide by Zero~00~#015
+;00021AC7{Underflow~00~}#013#010
+Underflow~00~#010
+;00021AD1{Operand Error~00~}#017#014
+Operand Error~00~#014
+;00021ADF{Overflow~00~}#012#009
+Overflow~00~#009
+;00021AE8{Signaling NaN~00~}#017#014
+Signaling NaN~00~#014
+;00021AF6{Unimplemented Data Type~00~}#027#024
+Unimplemented Data Type~00~#024
+;00021B0E{Integer Divide By Zero~00~}#026#023
+Integer Divide By Zero~00~#023
+;00021B25{Illegal Instruction~00~}#023#020
+Illegal Instruction~00~#020
+;00021B39{^C~00~}#006#003
+^C~00~#003
+;00021B3C{TRAPV - TRAPcc~00~}#018#015
+TRAPV - TRAPcc~00~#015
+;00021B4B{Privilege Violation~00~}#023#020
+Privilege Violation~00~#020
+;00021B5F{Address Error~00~}#017#014
+Address Error~00~#014
+;00021B6D{Termination~00~}#015#012
+Termination~00~#012
+;00021B79{Spurious Interrupt~00~}#022#019
+Spurious Interrupt~00~#019
+;00021B8C{Divide By Zero~00~}#018#015
+Divide By Zero~00~#015
+;00021B9B{Undefined Signal~00~}#020#017
+Undefined Signal~00~#017
+;00021BAC{ ---- ~00~}#010#007
+ ---- ~00~#007
+;00021BB3{~00~}#004#001
+~00~#001
+;00021BB4{NV~FF~~F0~H~EE~}#015#006
+NV~FF~~F0~H~EE~#006
+|440
+@00071B08-000720C1-00
+;00071B08{Brahms 4th Symphony ~00~}#024#021
+Brahms 4th Symphony ~00~#021
+;00071B1D{~00~}#004#001
+~00~#001
+;00071B1E{Rachmaninov/Paganini~00~}#024#021
+Rachmaninov/Paganini~00~#021
+;00071B33{~0B~Carousel Music      ~00~}#028#022
+~0B~Carousel Music      ~00~#022
+;00071B49{~01~The Puppet Wagon    ~00~}#028#022
+~01~The Puppet Wagon    ~00~#022
+;00071B5F{~02~Puppet Show         ~00~}#028#022
+~02~Puppet Show         ~00~#022
+;00071B75{VFlute Surprize      ~00~}#025#022
+VFlute Surprize      ~00~#022
+;00071B8B{~03~Butterfly (Grieg)   ~00~}#028#022
+~03~Butterfly (Grieg)   ~00~#022
+;00071BA1{~04~Dolly (Faure)       ~00~}#028#022
+~04~Dolly (Faure)       ~00~#022
+;00071BB7{~05~Pony Theme          ~00~}#028#022
+~05~Pony Theme          ~00~#022
+;00071BCD{~07~Witch Curse         ~00~}#028#022
+~07~Witch Curse         ~00~#022
+;00071BE3{"ErlKonig (Schubert) ~00~}#025#022
+"ErlKonig (Schubert) ~00~#022
+;00071BF9{~09~Sugar Plum Fairies  ~00~}#028#022
+~09~Sugar Plum Fairies  ~00~#022
+;00071C0F{~0D~Hall of the Mtn King~00~}#028#022
+~0D~Hall of the Mtn King~00~#022
+;00071C25{~0E~Lullaby (Mitchell)  ~00~}#028#022
+~0E~Lullaby (Mitchell)  ~00~#022
+;00071C3B{~0F~Country Tune        ~00~}#028#022
+~0F~Country Tune        ~00~#022
+;00071C51{~10~March of the Dwarves~00~}#028#022
+~10~March of the Dwarves~00~#022
+;00071C67{~15~Dwarves II (Grieg)  ~00~}#028#022
+~15~Dwarves II (Grieg)  ~00~#022
+;00071C7D{~1B~Flight Of Bumblebees~00~}#028#022
+~1B~Flight Of Bumblebees~00~#022
+;00071C93{SPony Theme (Ver. 2) ~00~}#025#022
+SPony Theme (Ver. 2) ~00~#022
+;00071CA9{PPony Theme (Ver. 3) ~00~}#025#022
+PPony Theme (Ver. 3) ~00~#022
+;00071CBF{fThe Pony Castle     ~00~}#025#022
+fThe Pony Castle     ~00~#022
+;00071CD5{QBloop          ~00~}#020#017
+QBloop          ~00~#017
+;00071CE6{~06~Chimes         ~00~}#023#017
+~06~Chimes         ~00~#017
+;00071CF7{~0C~Magic Gate     ~00~}#023#017
+~0C~Magic Gate     ~00~#017
+;00071D08{~11~Magic Wand     ~00~}#023#017
+~11~Magic Wand     ~00~#017
+;00071D19{jPony Hearts    ~00~}#020#017
+jPony Hearts    ~00~#017
+;00071D2A{kKey            ~00~}#020#017
+kKey            ~00~#017
+;00071D3B{~12~Howling Wind   ~00~}#023#017
+~12~Howling Wind   ~00~#017
+;00071D4C{~13~Freed Pony     ~00~}#023#017
+~13~Freed Pony     ~00~#017
+;00071D5D{~16~Balloon Pop    ~00~}#023#017
+~16~Balloon Pop    ~00~#017
+;00071D6E{~1A~Fish Splash    ~00~}#023#017
+~1A~Fish Splash    ~00~#017
+;00071D7F{~1F~Pulleys        ~00~}#023#017
+~1F~Pulleys        ~00~#017
+;00071D90{ Creaky Door    ~00~}#020#017
+ Creaky Door    ~00~#017
+;00071DA1{!Jack-In-The-Box~00~}#020#017
+!Jack-In-The-Box~00~#017
+;00071DB2{~23~Magic Note 1   ~00~}#023#017
+~23~Magic Note 1   ~00~#017
+;00071DC3{&Magic Note 2   ~00~}#020#017
+&Magic Note 2   ~00~#017
+;00071DD4{'Magic Note 3   ~00~}#020#017
+'Magic Note 3   ~00~#017
+;00071DE5{(Treasure Chest ~00~}#020#017
+(Treasure Chest ~00~#017
+;00071DF6{)Scary Eyes 1   ~00~}#020#017
+)Scary Eyes 1   ~00~#017
+;00071E07{*Scary Eyes 2   ~00~}#020#017
+*Scary Eyes 2   ~00~#017
+;00071E18{+Scary Eyes 3   ~00~}#020#017
++Scary Eyes 3   ~00~#017
+;00071E29{,Scary Eyes 4   ~00~}#020#017
+,Scary Eyes 4   ~00~#017
+;00071E3A{-Rusty Hinges   ~00~}#020#017
+-Rusty Hinges   ~00~#017
+;00071E4B{/Whoops         ~00~}#020#017
+/Whoops         ~00~#017
+;00071E5C{5Water Tap      ~00~}#020#017
+5Water Tap      ~00~#017
+;00071E6D{6Fish Spit L    ~00~}#020#017
+6Fish Spit L    ~00~#017
+;00071E7E{7Fish Spit R    ~00~}#020#017
+7Fish Spit R    ~00~#017
+;00071E8F{AMagic Flowers  ~00~}#020#017
+AMagic Flowers  ~00~#017
+;00071EA0{:Drip Right     ~00~}#020#017
+:Drip Right     ~00~#017
+;00071EB1{=Drip High      ~00~}#020#017
+=Drip High      ~00~#017
+;00071EC2{>Drip Left      ~00~}#020#017
+>Drip Left      ~00~#017
+;00071ED3{?Soft Brook     ~00~}#020#017
+?Soft Brook     ~00~#017
+;00071EE4{]Loud Brook     ~00~}#020#017
+]Loud Brook     ~00~#017
+;00071EF5{~40~Zap Rainbow    ~00~}#023#017
+~40~Zap Rainbow    ~00~#017
+;00071F06{BZap Ponies     ~00~}#020#017
+BZap Ponies     ~00~#017
+;00071F17{CZAP            ~00~}#020#017
+CZAP            ~00~#017
+;00071F28{DHoneycomb      ~00~}#020#017
+DHoneycomb      ~00~#017
+;00071F39{MWitch Cackle   ~00~}#020#017
+MWitch Cackle   ~00~#017
+;00071F4A{NTumbleweed     ~00~}#020#017
+NTumbleweed     ~00~#017
+;00071F5B{OSpider         ~00~}#020#017
+OSpider         ~00~#017
+;00071F6C{TClue           ~00~}#020#017
+TClue           ~00~#017
+;00071F7D{WFalling Rock   ~00~}#020#017
+WFalling Rock   ~00~#017
+;00071F8E{XWagon          ~00~}#020#017
+XWagon          ~00~#017
+;00071F9F{YSting          ~00~}#020#017
+YSting          ~00~#017
+;00071FB0{\Horseshoe      ~00~}#020#017
+\Horseshoe      ~00~#017
+;00071FC1{^Flying Crystal ~00~}#020#017
+^Flying Crystal ~00~#017
+;00071FD2{gBoat Ripples   ~00~}#020#017
+gBoat Ripples   ~00~#017
+;00071FE3{hSnake Hiss     ~00~}#020#017
+hSnake Hiss     ~00~#017
+;00071FF4{~08~Owl            ~00~}#023#017
+~08~Owl            ~00~#017
+;00072005{~1C~Bats           ~00~}#023#017
+~1C~Bats           ~00~#017
+;00072016{~1D~Frog           ~00~}#023#017
+~1D~Frog           ~00~#017
+;00072027{~1E~Cow            ~00~}#023#017
+~1E~Cow            ~00~#017
+;00072038{9Bird 1         ~00~}#020#017
+9Bird 1         ~00~#017
+;00072049{0Bird 2         ~00~}#020#017
+0Bird 2         ~00~#017
+;0007205A{1Squirrel       ~00~}#020#017
+1Squirrel       ~00~#017
+;0007206B{3Pony Snort     ~00~}#020#017
+3Pony Snort     ~00~#017
+;0007207C{$Whinny         ~00~}#020#017
+$Whinny         ~00~#017
+;0007208D{%Pony Landing   ~00~}#020#017
+%Pony Landing   ~00~#017
+;0007209E{<Galloping      ~00~}#020#017
+<Galloping      ~00~#017
+;000720AF{ZEchoing Hooves ~00~}#020#017
+ZEchoing Hooves ~00~#017
+;000720C0{`~00~}#005#002
+`~00~#002
+|1466
+@000720C2-0007210A-00
+;000720C2{Action~00~}#010#007
+Action~00~#007
+;000720C9{Action~00~}#010#007
+Action~00~#007
+;000720D0{Jump  ~00~}#010#007
+Jump  ~00~#007
+;000720D7{~00~}#004#001
+~00~#001
+;000720D8{~01~~02~Jump  ~00~}#018#009
+~01~~02~Jump  ~00~#009
+;000720E1{Action~00~}#010#007
+Action~00~#007
+;000720E8{Action~00~}#010#007
+Action~00~#007
+;000720EF{~02~~00~}#008#002
+~02~~00~#002
+;000720F1{~01~Action~00~}#014#008
+~01~Action~00~#008
+;000720F9{Jump  ~00~}#010#007
+Jump  ~00~#007
+;00072100{Action~00~}#010#007
+Action~00~#007
+;00072107{~01~~02~~00~}#012#003
+~01~~02~~00~#003
+;0007210A{~00~}#004#001
+~00~#001
+|73
+@000721BB-000721DD-00
+;000721BB{ Sprite not found when freeing~00~}#034#031
+ Sprite not found when freeing~00~#031
+;000721DA{~00~}#004#001
+~00~#001
+;000721DB{~00~}#004#001
+~00~#001
+;000721DC{~00~}#004#001
+~00~#001
+;000721DD{~00~}#004#001
+~00~#001
+|35

@@ -1,0 +1,112 @@
+@000013BA-00001AB0-FF
+;000013BA{                                                                                 STAFF                                                                                  PRODUCER                              S.NAKAMURA                                                                        DIRECTOR                             T.YOSHIKAWA                                                                        PROGRAM                                CRAZY TOM                                                                        CHARACTER DESIGN                     UNDEAD TAMAOPENING DESIGN                       R.NAKASHIMA                                                                        COMPOSER                                 SHOTAROSOUND                                   I.KOICHI                                                                        EIGYOU                                   T.TANGO                                                                        JIM                                     T.KAWADA                                                                        OTHERS                                 H.YAGIANI               T.YAGIOTO                 K.KONDO                                                                                                TAKE IT EASY                             TOM BOY             UNDEAD TAMA                                                                                                                                                                               PRESENTED                  BY                                            ATHENA                                                                                                                                                          ~FF~}#1780#1777
+                                                                                 STAFF                                                                                  PRODUCER                              S.NAKAMURA                                                                        DIRECTOR                             T.YOSHIKAWA                                                                        PROGRAM                                CRAZY TOM                                                                        CHARACTER DESIGN                     UNDEAD TAMAOPENING DESIGN                       R.NAKASHIMA                                                                        COMPOSER                                 SHOTAROSOUND                                   I.KOICHI                                                                        EIGYOU                                   T.TANGO                                                                        JIM                                     T.KAWADA                                                                        OTHERS                                 H.YAGIANI               T.YAGIOTO                 K.KONDO                                                                                                TAKE IT EASY                             TOM BOY             UNDEAD TAMA                                                                                                                                                                               PRESENTED                  BY                                            ATHENA                                                                                                                                                          ~FF~#1777
+;00001AAB{~BE~~BA~~A5~8)~01~}#018#006
+~BE~~BA~~A5~8)~01~#006
+|1783
+@0000B3BA-0000BAB0-FF
+;0000B3BA{                                                                                 STAFF                                                                                  PRODUCER                              S.NAKAMURA                                                                        DIRECTOR                             T.YOSHIKAWA                                                                        PROGRAM                                CRAZY TOM                                                                        CHARACTER DESIGN                     UNDEAD TAMAOPENING DESIGN                       R.NAKASHIMA                                                                        COMPOSER                                 SHOTAROSOUND                                   I.KOICHI                                                                        EIGYOU                                   T.TANGO                                                                        JIM                                     T.KAWADA                                                                        OTHERS                                 H.YAGIANI               T.YAGIOTO                 K.KONDO                                                                                                TAKE IT EASY                             TOM BOY             UNDEAD TAMA                                                                                                                                                                               PRESENTED                  BY                                            ATHENA                                                                                                                                                          ~FF~}#1780#1777
+                                                                                 STAFF                                                                                  PRODUCER                              S.NAKAMURA                                                                        DIRECTOR                             T.YOSHIKAWA                                                                        PROGRAM                                CRAZY TOM                                                                        CHARACTER DESIGN                     UNDEAD TAMAOPENING DESIGN                       R.NAKASHIMA                                                                        COMPOSER                                 SHOTAROSOUND                                   I.KOICHI                                                                        EIGYOU                                   T.TANGO                                                                        JIM                                     T.KAWADA                                                                        OTHERS                                 H.YAGIANI               T.YAGIOTO                 K.KONDO                                                                                                TAKE IT EASY                             TOM BOY             UNDEAD TAMA                                                                                                                                                                               PRESENTED                  BY                                            ATHENA                                                                                                                                                          ~FF~#1777
+;0000BAAB{~BE~~BA~~A5~8)~01~}#018#006
+~BE~~BA~~A5~8)~01~#006
+|1783
+@0000C812-0000C8C6-FF
+;0000C812{FLAG   = 01   U:D~FF~}#021#018
+FLAG   = 01   U:D~FF~#018
+;0000C824{STYL   = 00   L:R~FF~}#021#018
+STYL   = 00   L:R~FF~#018
+;0000C836{BANK   = 40   SEL:START~FF~}#027#024
+BANK   = 40   SEL:START~FF~#024
+;0000C84E{COLOR  = 00   FIRE:WARP~FF~}#027#024
+COLOR  = 00   FIRE:WARP~FF~#024
+;0000C866{SCR ADDR = 2000~FF~}#019#016
+SCR ADDR = 2000~FF~#016
+;0000C876{    CODE = 20~FF~}#017#014
+    CODE = 20~FF~#014
+;0000C884{MAP X = 0200~FF~}#016#013
+MAP X = 0200~FF~#013
+;0000C891{    Y = 0000~FF~}#016#013
+    Y = 0000~FF~#013
+;0000C89E{TEST DATA 0 1 2 3~FF~}#021#018
+TEST DATA 0 1 2 3~FF~#018
+;0000C8B0{TEST DATA 5 6 7 8~FF~}#021#018
+TEST DATA 5 6 7 8~FF~#018
+;0000C8C2{~A9~~00~~85~n~AD~}#017#005
+~A9~~00~~85~n~AD~#005
+|181
+@0000CD60-0000CDC5-FF
+;0000CD60{HIT DATA CHECK~FF~}#018#015
+HIT DATA CHECK~FF~#015
+;0000CD6F{~FF~}#004#001
+~FF~#001
+;0000CD70{H OFF =~FF~}#011#008
+H OFF =~FF~#008
+;0000CD78{~FF~}#004#001
+~FF~#001
+;0000CD79{H LIM =~FF~}#011#008
+H LIM =~FF~#008
+;0000CD81{~FF~}#004#001
+~FF~#001
+;0000CD82{V OFF =~FF~}#011#008
+V OFF =~FF~#008
+;0000CD8A{~FF~}#004#001
+~FF~#001
+;0000CD8B{V LIM =~FF~}#011#008
+V LIM =~FF~#008
+;0000CD93{~FF~}#004#001
+~FF~#001
+;0000CD94{REV H =~FF~}#011#008
+REV H =~FF~#008
+;0000CD9C{~FF~}#004#001
+~FF~#001
+;0000CD9D{M FLAG=~FF~}#011#008
+M FLAG=~FF~#008
+;0000CDA5{~FF~}#004#001
+~FF~#001
+;0000CDA6{M STYL=~FF~}#011#008
+M STYL=~FF~#008
+;0000CDAE{~FF~}#004#001
+~FF~#001
+;0000CDAF{T FLAG=~FF~}#011#008
+T FLAG=~FF~#008
+;0000CDB7{~FF~}#004#001
+~FF~#001
+;0000CDB8{T STYL=~FF~}#011#008
+T STYL=~FF~#008
+;0000CDC0{~FF~}#004#001
+~FF~#001
+;0000CDC1{~A9~~04~%!~F0~}#014#005
+~A9~~04~%!~F0~#005
+|102
+@0000D010-0000D02F-FF
+;0000D010{ENEMY MOVE CHECK~FF~}#020#017
+ENEMY MOVE CHECK~FF~#017
+;0000D021{~FF~}#004#001
+~FF~#001
+;0000D022{ENE FLAG =~FF~}#014#011
+ENE FLAG =~FF~#011
+;0000D02D{~FF~}#004#001
+~FF~#001
+;0000D02E{`~00~}#005#002
+`~00~#002
+|32
+@0001E9FE-0001EA38-FF
+;0001E9FE{x f~FF~}#007#004
+x f~FF~#004
+;0001EA02{ ^~E5~~A9~~1E~ f~FF~}#020#008
+ ^~E5~~A9~~1E~ f~FF~#008
+;0001EA0A{`GAME OVER~FF~}#014#011
+`GAME OVER~FF~#011
+;0001EA15{CONTINUE  YES NO~FF~}#020#017
+CONTINUE  YES NO~FF~#017
+;0001EA26{CREDIT~FF~}#010#007
+CREDIT~FF~#007
+;0001EA2D{TIME 10~FF~}#011#008
+TIME 10~FF~#008
+;0001EA35{~A9~~00~`~A9~}#013#004
+~A9~~00~`~A9~#004
+|59
+@0001FFEF-0002000A-FF
+;0001FFEF{`    SWORD MASTER~C3~~C9~~19~K3~04~~01~~0B~~E7~r~ED~}#052#028
+`    SWORD MASTER~C3~~C9~~19~K3~04~~01~~0B~~E7~r~ED~#028
+|28

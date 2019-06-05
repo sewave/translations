@@ -1,5 +1,5 @@
-Punch-Out!! (NES)
-Traducción al Español v1.2 (04/06/2019)
+King & Balloon (MSX)
+Traducción al Español v1.0 (31/05/2019)
 (C) 2019 Traducciones Wave
 
 ------------------------
@@ -8,19 +8,17 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
-v1.1: Arreglado título, algunos textos, cambiado ¡Lucha! por ¡Pelea! y añadidos ¡ y ¿.
-V1.2: Arreglos menores para alinearlo con Myke Tyson Punch Out.
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Punch-Out!! (U) [!].nes
-MD5: 3e4af91097aece830b3039af3f2c0802
-SHA1: 025faf9059c06d6706409b66fb0cb2ee17deb548
-CRC32: a827ff1b
-262160 bytes
+King & Balloon (1984) (Namcot) (J).rom
+MD5: 8c307660c8fb29cfd8ff8342c95218cb
+SHA1: ed15174dec31a29f9d41a06de3008db04af11a25
+CRC32: 2aba2253
+32768 bytes
 
 --------
 Créditos

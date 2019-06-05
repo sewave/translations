@@ -1,5 +1,5 @@
-Punch-Out!! (NES)
-Traducción al Español v1.2 (04/06/2019)
+Choplifter (MSX)
+Traducción al Español v1.0 (31/05/2019)
 (C) 2019 Traducciones Wave
 
 ------------------------
@@ -8,19 +8,17 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
-v1.1: Arreglado título, algunos textos, cambiado ¡Lucha! por ¡Pelea! y añadidos ¡ y ¿.
-V1.2: Arreglos menores para alinearlo con Myke Tyson Punch Out.
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Punch-Out!! (U) [!].nes
-MD5: 3e4af91097aece830b3039af3f2c0802
-SHA1: 025faf9059c06d6706409b66fb0cb2ee17deb548
-CRC32: a827ff1b
-262160 bytes
+Choplifter (1985) (Sony) (J).rom
+MD5: 27121600b9c989885fae3dcece2cf07a
+SHA1: a2a7c93c9c8b55a5cce4c9005f3c194e3b762e9c
+CRC32: 1f5eafc8
+32768 bytes
 
 --------
 Créditos

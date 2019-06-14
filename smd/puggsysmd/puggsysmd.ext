@@ -1,0 +1,198 @@
+@00039692-00039745-00-01-02-03-04-05
+;00039692{     WRITTEN BY        JON BURTON AND       ANDY INGRAM.     MUSIC AND AUDIO BY   MATT FURNISS AND     S.HOLLINGWORTH                          COPYRIGHT [!!:      PSYGNOSIS LTD.   }#180#180
+     WRITTEN BY        JON BURTON AND       ANDY INGRAM.     MUSIC AND AUDIO BY   MATT FURNISS AND     S.HOLLINGWORTH                          COPYRIGHT [!!:      PSYGNOSIS LTD.   #180
+|180
+@0003B758-0003B8C3-00
+;0003B758{LIVES*******CONTROL                                             ENTER PASSWORD1~B2~~B3~~B4~~B5~~B6~A USE        B PICKUP,DROPC JUMP       ~00~}#142#124
+LIVES*******CONTROL                                             ENTER PASSWORD1~B2~~B3~~B4~~B5~~B6~A USE        B PICKUP,DROPC JUMP       ~00~#124
+;0003B7D4{~00~}#004#001
+~00~#001
+;0003B7D5{~00~}#004#001
+~00~#001
+;0003B7D6{~B1~2~B3~~B4~~B5~~B6~A USE        B JUMP       C PICKUP,DROP~00~}#064#046
+~B1~2~B3~~B4~~B5~~B6~A USE        B JUMP       C PICKUP,DROP~00~#046
+;0003B804{~00~}#004#001
+~00~#001
+;0003B805{~00~}#004#001
+~00~#001
+;0003B806{~B1~~B2~3~B4~~B5~~B6~A PICKUP,DROPB USE        C JUMP       ~00~}#064#046
+~B1~~B2~3~B4~~B5~~B6~A PICKUP,DROPB USE        C JUMP       ~00~#046
+;0003B834{~00~}#004#001
+~00~#001
+;0003B835{~00~}#004#001
+~00~#001
+;0003B836{~B1~~B2~~B3~4~B5~~B6~A PICKUP,DROPB JUMP       C USE        ~00~}#064#046
+~B1~~B2~~B3~4~B5~~B6~A PICKUP,DROPB JUMP       C USE        ~00~#046
+;0003B864{~00~}#004#001
+~00~#001
+;0003B865{~00~}#004#001
+~00~#001
+;0003B866{~B1~~B2~~B3~~B4~5~B6~A JUMP       B PICKUP,DROPC USE        ~00~}#064#046
+~B1~~B2~~B3~~B4~5~B6~A JUMP       B PICKUP,DROPC USE        ~00~#046
+;0003B894{~00~}#004#001
+~00~#001
+;0003B895{~00~}#004#001
+~00~#001
+;0003B896{~B1~~B2~~B3~~B4~~B5~6A JUMP       B USE        C PICKUP,DROP~00~}#064#046
+~B1~~B2~~B3~~B4~~B5~6A JUMP       B USE        C PICKUP,DROP~00~#046
+|364
+@0003F0CE-0003F0D2-00
+;0003F0CE{LIFE~00~}#008#005
+LIFE~00~#005
+|5
+@0003F230-0003F403-00
+;0003F230{    WELL DONE!                       LEVEL  COMPLETE!                       ITEM BONUS                                                                                                                                    SCORE :            GET READY TO                      DEFEAT GUARDIAN!                       ITEM BONUS                                                                                                                                    SCORE :         }#468#468
+    WELL DONE!                       LEVEL  COMPLETE!                       ITEM BONUS                                                                                                                                    SCORE :            GET READY TO                      DEFEAT GUARDIAN!                       ITEM BONUS                                                                                                                                    SCORE :         #468
+|468
+@00040B1A-00040B39-00
+;00040B1A{WORLD GUARDIANS~00~}#019#016
+WORLD GUARDIANS~00~#016
+;00040B2A{SCORE :        ~00~}#019#016
+SCORE :        ~00~#016
+|32
+@0004251E-000428FD-00-01-02-03-04-05
+;0004251E{   THE   BEACH ~02~}#019#016
+   THE   BEACH ~02~#016
+;0004252E{   THE   BEACH ~02~}#019#016
+   THE   BEACH ~02~#016
+;0004253E{   THE   BEACH ~02~}#019#016
+   THE   BEACH ~02~#016
+;0004254E{   THE    COVE ~00~}#019#016
+   THE    COVE ~00~#016
+;0004255E{TREASURE TROVE ~03~}#019#016
+TREASURE TROVE ~03~#016
+;0004256E{   THE    COVE ~00~}#019#016
+   THE    COVE ~00~#016
+;0004257E{ THE RED WOODS ~02~}#019#016
+ THE RED WOODS ~02~#016
+;0004258E{ WABBITS WORLD ~02~}#019#016
+ WABBITS WORLD ~02~#016
+;0004259E{ THE RED WOODS ~02~}#019#016
+ THE RED WOODS ~02~#016
+;000425AE{ REDWOOD  KEEP ~00~}#019#016
+ REDWOOD  KEEP ~00~#016
+;000425BE{ SECRET  TUNNEL~01~}#019#016
+ SECRET  TUNNEL~01~#016
+;000425CE{ REDWOOD  KEEP ~00~}#019#016
+ REDWOOD  KEEP ~00~#016
+;000425DE{STAR FALL LAKE ~00~}#019#016
+STAR FALL LAKE ~00~#016
+;000425EE{STAR FALL POOL ~00~}#019#016
+STAR FALL POOL ~00~#016
+;000425FE{STAR FALL LAKE ~00~}#019#016
+STAR FALL LAKE ~00~#016
+;0004260E{THE LIGHTHOUSE ~02~}#019#016
+THE LIGHTHOUSE ~02~#016
+;0004261E{A HIDDEN PLACE ~03~}#019#016
+A HIDDEN PLACE ~03~#016
+;0004262E{THE LIGHTHOUSE ~02~}#019#016
+THE LIGHTHOUSE ~02~#016
+;0004263E{SPLINTER  TOWN ~01~}#019#016
+SPLINTER  TOWN ~01~#016
+;0004264E{SPLINTER  TOWN ~01~}#019#016
+SPLINTER  TOWN ~01~#016
+;0004265E{PUGGS IN SPACE ~03~}#019#016
+PUGGS IN SPACE ~03~#016
+;0004266E{PYRAMIDS       ~01~}#019#016
+PYRAMIDS       ~01~#016
+;0004267E{PYRAMIDS       ~01~}#019#016
+PYRAMIDS       ~01~#016
+;0004268E{PYRAMIDS       ~01~}#019#016
+PYRAMIDS       ~01~#016
+;0004269E{DARKBLADEFOREST~00~}#019#016
+DARKBLADEFOREST~00~#016
+;000426AE{DARKBLADEFOREST~00~}#019#016
+DARKBLADEFOREST~00~#016
+;000426BE{DARKBLADEFOREST~00~}#019#016
+DARKBLADEFOREST~00~#016
+;000426CE{ DIAMOND MINES ~02~}#019#016
+ DIAMOND MINES ~02~#016
+;000426DE{ DIAMOND MINES ~02~}#019#016
+ DIAMOND MINES ~02~#016
+;000426EE{ DIAMOND MINES ~02~}#019#016
+ DIAMOND MINES ~02~#016
+;000426FE{ BADGER   MILL ~01~}#019#016
+ BADGER   MILL ~01~#016
+;0004270E{ BADGER   MILL ~01~}#019#016
+ BADGER   MILL ~01~#016
+;0004271E{ BADGER   MILL ~01~}#019#016
+ BADGER   MILL ~01~#016
+;0004272E{DARKSKULLCASTLE~00~}#019#016
+DARKSKULLCASTLE~00~#016
+;0004273E{DARKSKULLCASTLE~00~}#019#016
+DARKSKULLCASTLE~00~#016
+;0004274E{DARKSKULLCASTLE~00~}#019#016
+DARKSKULLCASTLE~00~#016
+;0004275E{  AZTEC  TEMPLE~00~}#019#016
+  AZTEC  TEMPLE~00~#016
+;0004276E{  AZTEC  TEMPLE~00~}#019#016
+  AZTEC  TEMPLE~00~#016
+;0004277E{  AZTEC  GAMES ~02~}#019#016
+  AZTEC  GAMES ~02~#016
+;0004278E{  FIRE   HEART ~03~}#019#016
+  FIRE   HEART ~03~#016
+;0004279E{  FIRE   HEART ~03~}#019#016
+  FIRE   HEART ~03~#016
+;000427AE{  FIRE   HEART ~03~}#019#016
+  FIRE   HEART ~03~#016
+;000427BE{ RACROCK FORGE ~02~}#019#016
+ RACROCK FORGE ~02~#016
+;000427CE{ RACROCK FORGE ~02~}#019#016
+ RACROCK FORGE ~02~#016
+;000427DE{PUGSANOID      ~00~}#019#016
+PUGSANOID      ~00~#016
+;000427EE{ANGELTIERFALLS ~02~}#019#016
+ANGELTIERFALLS ~02~#016
+;000427FE{ANGELTIERFALLS ~02~}#019#016
+ANGELTIERFALLS ~02~#016
+;0004280E{LUNAR JET PUG  ~02~}#019#016
+LUNAR JET PUG  ~02~#016
+;0004281E{RACLANTISDOCKS ~02~}#019#016
+RACLANTISDOCKS ~02~#016
+;0004282E{RACLANTISDOCKS ~02~}#019#016
+RACLANTISDOCKS ~02~#016
+;0004283E{RACLANTIS MAZE ~00~}#019#016
+RACLANTIS MAZE ~00~#016
+;0004284E{  SHELL  SHOCK ~02~}#019#016
+  SHELL  SHOCK ~02~#016
+;0004285E{ FAIR OHS TOMB ~02~}#019#016
+ FAIR OHS TOMB ~02~#016
+;0004286E{  WILLS  WORLD ~02~}#019#016
+  WILLS  WORLD ~02~#016
+;0004287E{  NEVER  MINED ~02~}#019#016
+  NEVER  MINED ~02~#016
+;0004288E{ LEE AND ERRR[[~00~}#019#016
+ LEE AND ERRR[[~00~#016
+;0004289E{ THE END OF ALL~00~}#019#016
+ THE END OF ALL~00~#016
+;000428AE{ JUNIOR  LEV 1 ~03~}#019#016
+ JUNIOR  LEV 1 ~03~#016
+;000428BE{ JUNIOR  LEV 2 ~03~}#019#016
+ JUNIOR  LEV 2 ~03~#016
+;000428CE{ JUNIOR  LEV 3 ~03~}#019#016
+ JUNIOR  LEV 3 ~03~#016
+;000428DE{ JUNIOR  LEV 4 ~03~}#019#016
+ JUNIOR  LEV 4 ~03~#016
+;000428EE{ JUNIOR  LEV 5 ~03~}#019#016
+ JUNIOR  LEV 5 ~03~#016
+|992
+@00049FE4-0004A19D-00-01-02-03-04-05
+;00049FE4{                                        WELL DONE. YOU HAVE  COMPLETED PUGGSY!                                                                                                       PUGGSY HAS ESCAPED  WITH THE SPACESHIP  AND IS OFF TO VIEW   SOME MORE OF THE        UNIVERSE.                                                                                                         LOOK OUT FOR PUGGSY PART II COMING SOON.                      }#442#442
+                                        WELL DONE. YOU HAVE  COMPLETED PUGGSY!                                                                                                       PUGGSY HAS ESCAPED  WITH THE SPACESHIP  AND IS OFF TO VIEW   SOME MORE OF THE        UNIVERSE.                                                                                                         LOOK OUT FOR PUGGSY PART II COMING SOON.                      #442
+|442
+@0004A19E-0004AD1D-00-01-02-03-04-05
+;0004A19E{                                                          CREDITS                                                                                             GAME DESIGN AND     PROGRAMMING BY                                    JON BURTON                                                            GRAPHIC DESIGN AND  ARTWORK BY                                       ANDY INGRAM                                                            LEVEL PROBLEMS AND  DESIGN BY                                         JON BURTON                                                            CREATURE SKETCHES BY       WILL THOMPSON                                                            MUSIC AND SOUNDFX BY                            MATT FURNISS      S.HOLLINGWORTHOF KRISALIS SOFTWARE                                                            PROJECT MANAGEMENT                              STEVE RIDING                                                            PLAY TESTING BY                           CHARLES MCNAIR AND         TONY PARKES                      PUGGSY HAS BEEN       JAMIE TESTED                                              THANKS TO MARTYN  CHUDLEY 4 WIZ N LIZ        STUFF                                                                    TRY TO COMPLETE ALL 51 LEVELS FOR EXTRA       ENDING                                                 THERE ARE VARIOUS  HIDDEN CHEATS IF YOU CAN FIND THE PLACE  TO CARRY THEM OUT.                                         A BIG HI TO                             CHRIS DAVE MARK WILLCHAZ MARTYN STU PHIL AND EVERYONE ELSE                      AND REMEMBER THAT                       11125 SQRD MINUS 18113307 SQRD MINUS 71221385X21386 SUB 1875                      IS A SILLY MATHS        QUESTION                                                                                                                                 O.K. LETS SEE        SOME OF THE           OBJECTS                                                                                                                                                                          THIS GAME USED                         SCREEN ROTATION                         PARTICLE SYSTEM                          SPRITE SCALING                         OVER 230 COLOURS    ON SCREEN AT ONCE                        OVER 50 LEVELS                         OVER 80 BAD GUYS                         17 BACKGROUNDS                             34 TUNES                                                                                                                                                    THESE ARE HIDDEN      THINGS THAT       YOU MAY NOT HAVE        FOUND YET                            PUGS IN SPACE                           LUNAR JET PUG                          VECTOR GRAPHICS                            PUGSANOID                              AZTEC GAMES                                                                       }#2944#2944
+                                                          CREDITS                                                                                             GAME DESIGN AND     PROGRAMMING BY                                    JON BURTON                                                            GRAPHIC DESIGN AND  ARTWORK BY                                       ANDY INGRAM                                                            LEVEL PROBLEMS AND  DESIGN BY                                         JON BURTON                                                            CREATURE SKETCHES BY       WILL THOMPSON                                                            MUSIC AND SOUNDFX BY                            MATT FURNISS      S.HOLLINGWORTHOF KRISALIS SOFTWARE                                                            PROJECT MANAGEMENT                              STEVE RIDING                                                            PLAY TESTING BY                           CHARLES MCNAIR AND         TONY PARKES                      PUGGSY HAS BEEN       JAMIE TESTED                                              THANKS TO MARTYN  CHUDLEY 4 WIZ N LIZ        STUFF                                                                    TRY TO COMPLETE ALL 51 LEVELS FOR EXTRA       ENDING                                                 THERE ARE VARIOUS  HIDDEN CHEATS IF YOU CAN FIND THE PLACE  TO CARRY THEM OUT.                                         A BIG HI TO                             CHRIS DAVE MARK WILLCHAZ MARTYN STU PHIL AND EVERYONE ELSE                      AND REMEMBER THAT                       11125 SQRD MINUS 18113307 SQRD MINUS 71221385X21386 SUB 1875                      IS A SILLY MATHS        QUESTION                                                                                                                                 O.K. LETS SEE        SOME OF THE           OBJECTS                                                                                                                                                                          THIS GAME USED                         SCREEN ROTATION                         PARTICLE SYSTEM                          SPRITE SCALING                         OVER 230 COLOURS    ON SCREEN AT ONCE                        OVER 50 LEVELS                         OVER 80 BAD GUYS                         17 BACKGROUNDS                             34 TUNES                                                                                                                                                    THESE ARE HIDDEN      THINGS THAT       YOU MAY NOT HAVE        FOUND YET                            PUGS IN SPACE                           LUNAR JET PUG                          VECTOR GRAPHICS                            PUGSANOID                              AZTEC GAMES                                                                       #2944
+|2944
+@0004AD1E-0004B32F-00-01-02-03-04-05
+;0004AD1E{                                                                                                 HINTS AND TIPS                         I KNOW YOU HAVE     FINISHED THE GAME   AND PROBABLY DONT   NEED THEM BUT...                         NEVER RAISE OR     LOWER A STACK OF    OBJECTS THAT YOU    ARE CARRYING IF     YOU ARE WALKING      LEFT OR RIGHT                                              THE KING CAN BE      DEFEATED MUCH       MORE SIMPLY IF      YOU STAND JUST     TO THE RIGHT OF     HIM WHEN HE FIRES      HIS LASERS                                                GO BACK TO OLD      LEVELS TO GET      SHADES OR SHOES      TO HELP YOU ON      LEVELS THAT YOU      ARE STUCK ON                                              EACH ZONE HAS 3     LEVELS ON IT SO     TRY TO FIND ALL     THE HIDDEN ONES                                             IF YOU FIND THE     HIDDEN PLACE TRY    TAKING OUT WORDS    LIKE  H E R O S        FOR HIDDEN           FEATURES                                                                                                                                THANKS                    FOR                    PLAYING                                                                                                                                                                                                                 PUGGSY                              COPYRIGHT 1993                             PSYGNOSIS                                                                                                         }#1554#1554
+                                                                                                 HINTS AND TIPS                         I KNOW YOU HAVE     FINISHED THE GAME   AND PROBABLY DONT   NEED THEM BUT...                         NEVER RAISE OR     LOWER A STACK OF    OBJECTS THAT YOU    ARE CARRYING IF     YOU ARE WALKING      LEFT OR RIGHT                                              THE KING CAN BE      DEFEATED MUCH       MORE SIMPLY IF      YOU STAND JUST     TO THE RIGHT OF     HIM WHEN HE FIRES      HIS LASERS                                                GO BACK TO OLD      LEVELS TO GET      SHADES OR SHOES      TO HELP YOU ON      LEVELS THAT YOU      ARE STUCK ON                                              EACH ZONE HAS 3     LEVELS ON IT SO     TRY TO FIND ALL     THE HIDDEN ONES                                             IF YOU FIND THE     HIDDEN PLACE TRY    TAKING OUT WORDS    LIKE  H E R O S        FOR HIDDEN           FEATURES                                                                                                                                THANKS                    FOR                    PLAYING                                                                                                                                                                                                                 PUGGSY                              COPYRIGHT 1993                             PSYGNOSIS                                                                                                         #1554
+|1554
+@0004B84A-0004BAB5-00
+;0004B84A{     WELL DONE!      YOU HAVE COMPLETED  THE JUNIOR LEVELS!       NOW PLAY            THE FULL              GAME             WELL DONE!      YOU HAVE COMPLETED    ALL 51 LEVELS!   BUT ARE YOU GOOD AT        MATHS[        O.K. THATS ALL THE THE LEVELS OF PUGGSY COMPLETED. THANKS   FOR PLAYING. HOPE  YOU ENJOYED THE GAMEAND WILL WANT TO BUY FUTURE TRAVELLERS    TALES RELEASES.   UNTIL THEN.......BYETRAVELLERS TALES 93  O.K. THATS ALL THE THE LEVELS OF PUGGSYYOUR ALLOWED TO PLAY NOW GO AND PLAY A  CARTRIDGE VERSION OFTHE GAME INSTEAD OF   THIS SILLY COPY.                      UNTIL THEN.......BYETRAVELLERS TALES 93 }#620#620
+     WELL DONE!      YOU HAVE COMPLETED  THE JUNIOR LEVELS!       NOW PLAY            THE FULL              GAME             WELL DONE!      YOU HAVE COMPLETED    ALL 51 LEVELS!   BUT ARE YOU GOOD AT        MATHS[        O.K. THATS ALL THE THE LEVELS OF PUGGSY COMPLETED. THANKS   FOR PLAYING. HOPE  YOU ENJOYED THE GAMEAND WILL WANT TO BUY FUTURE TRAVELLERS    TALES RELEASES.   UNTIL THEN.......BYETRAVELLERS TALES 93  O.K. THATS ALL THE THE LEVELS OF PUGGSYYOUR ALLOWED TO PLAY NOW GO AND PLAY A  CARTRIDGE VERSION OFTHE GAME INSTEAD OF   THIS SILLY COPY.                      UNTIL THEN.......BYETRAVELLERS TALES 93 #620
+|620
+@0004E07C-0004E30C-00
+;0004E07C{                                        O.K. SO YOU HAVE FOUND ANOTHER SECRET BIT. THIS SCROLL TEXT IS JUST TO SAY THAT PUGGSY WAS WRITTEN BY JON BURTON AND ANDY INGRAM. ALL THE GFX WERE DRAWN BY ANDY INGRAM AND THE GAME WAS DESIGNED AND PROGRAMMED BY JON BURTON. THE LEVEL DESIGNS WERE ALSO BY JON BURTON. MUSIC WAS BY MATT FURNISS AND S. HOLLINGWORTH OF KRISALIS SOFTWARE. HOPE YOU ENJOY THE REST OF THE GAME. THERE IS MORE TOO IT THAN MEETS THE EYE. A BIG THANKS TO M.R.CHUDLEY FOR THE USE OF THE FLUFFY WUFFY BUNNY WABBITS GFX.     IN TRUE DEMO STYLE IT IS TIME TO WRAP   SEE YA..................................                                        ~00~}#660#657
+                                        O.K. SO YOU HAVE FOUND ANOTHER SECRET BIT. THIS SCROLL TEXT IS JUST TO SAY THAT PUGGSY WAS WRITTEN BY JON BURTON AND ANDY INGRAM. ALL THE GFX WERE DRAWN BY ANDY INGRAM AND THE GAME WAS DESIGNED AND PROGRAMMED BY JON BURTON. THE LEVEL DESIGNS WERE ALSO BY JON BURTON. MUSIC WAS BY MATT FURNISS AND S. HOLLINGWORTH OF KRISALIS SOFTWARE. HOPE YOU ENJOY THE REST OF THE GAME. THERE IS MORE TOO IT THAN MEETS THE EYE. A BIG THANKS TO M.R.CHUDLEY FOR THE USE OF THE FLUFFY WUFFY BUNNY WABBITS GFX.     IN TRUE DEMO STYLE IT IS TIME TO WRAP   SEE YA..................................                                        ~00~#657
+|657

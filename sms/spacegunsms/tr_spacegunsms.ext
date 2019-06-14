@@ -1,0 +1,236 @@
+@0002B640-0002B673-00
+;0002B640{PRESS THE BUTTON~00~}#020#017
+ PULSA UN BOTÓN ~00~#017
+;0002B651{PULL THE TRIGGER~00~}#020#017
+TOCA EL GATILLO ~00~#017
+;0002B662{STAGE SELECT 0001~00~}#021#018
+ELIGE ETAPA  0001~00~#018
+|52
+@0003E6A3-0003E6CF-00
+;0003E6A3{CONTINUE ^~00~}#014#011
+CONTINUAR^~00~#011
+;0003E6AE{YES 1 BUTTON , NO 2 BUTTON~00~}#030#027
+  SÍ BOTÓN 1, NO BOTÓN 2  ~00~#027
+;0003E6C9{CREDIT~00~}#010#007
+CRÉDIT~00~#007
+|45
+@0003E702-0003E767-00
+;0003E702{YOU RECEIVED A FATAL WOUND.~00~}#031#028
+RECIBISTE UNA HERIDA FATAL.~00~#028
+;0003E71E{ THE PLAN OF OPERATION~00~}#026#023
+ EL PLAN DE OPERACIÓN ~00~#023
+;0003E735{HAS FAILED , SACRIFICING~00~}#028#025
+HA FALLADO, SACRIFICANDO~00~#025
+;0003E74E{THE LIVES OF MANY PEOPLE.~00~}#029#026
+LAS VIDAS DE MUCHA GENTE.~00~#026
+|102
+@0006B4E8-0006B5AD-00
+;0006B4E8{     2039 A.D.... MAN BEGINS    ~00~}#036#033
+  2039 DC...EL HOMBRE EMPIEZA   ~00~#033
+;0006B509{     DEEP SPACE EXPLORATION     ~00~}#036#033
+  LA EXPLORACIÓN DEL ESPACIO.   ~00~#033
+;0006B52A{                                ~00~}#036#033
+                                ~00~#033
+;0006B54B{                                ~00~}#036#033
+                                ~00~#033
+;0006B56C{     HOWEVER, THERE ARE MANY    ~00~}#036#033
+  SIN EMBARGO, HAY MUCHOS       ~00~#033
+;0006B58D{     UNKNOWN DANGERS IN SPACE.  ~00~}#036#033
+  PELIGROS DESCONOCIDOS.        ~00~#033
+|198
+@0006B5C0-0006B601-00
+;0006B5C0{    ON A CRIPPLED SPACE SHIP,   ~00~}#036#033
+  EN UNA NAVE ESPACIAL ROTA,    ~00~#033
+;0006B5E1{    SIGNALLING FOR HELP.....    ~00~}#036#033
+  PIDIENDO AYUDA...             ~00~#033
+|66
+@0006B60C-0006B62C-00
+;0006B60C{    A NEW HORROR IS AWAKENED.   ~00~}#036#033
+  DESPIERTA UN NUEVO HORROR.    ~00~#033
+|33
+@0006B635-0006B676-00
+;0006B635{   MONSTERS ATTACK THE CREW...  ~00~}#036#033
+ MONSTRUOS ATACAN AL EQUIPO...  ~00~#033
+;0006B656{   WILL ANY OF THEM SURVIVE?    ~00~}#036#033
+ ALGUNO SOBREVIVIRÁ?            ~00~#033
+|66
+@0006B681-0006B6C2-00
+;0006B681{    ALL COMMUNICATION FROM      ~00~}#036#033
+  TODA COMUNICACIÓN DE LA       ~00~#033
+;0006B6A2{    STAR BASE 'R' HAS CEASED.   ~00~}#036#033
+  BASE ESTELAR 'R' HA CESADO.   ~00~#033
+|66
+@0006B6CD-0006B72F-00
+;0006B6CD{        TAKE COMMAND OF         ~00~}#036#033
+  TOMA EL MANDO DE              ~00~#033
+;0006B6EE{        A SPACE SHUTTLE         ~00~}#036#033
+  UNA LANZADERA ESPACIAL        ~00~#033
+;0006B70F{        AND INVESTIGATE!        ~00~}#036#033
+  E INVESTIGA!                  ~00~#033
+|99
+@0006B73C-0006B79E-00
+;0006B73C{      WE'VE ARRIVED AT          ~00~}#036#033
+  HEMOS LLEGADO A LA BASE       ~00~#033
+;0006B75D{      THE STAR BASE. ARE THE    ~00~}#036#033
+  ESTELAR. ESTÁN LOS            ~00~#033
+;0006B77E{      OCCUPANTS IN DANGER?      ~00~}#036#033
+  OCUPANTES EN PELIGRO?         ~00~#033
+|99
+@0006B7AB-0006B7EC-00
+;0006B7AB{   ARE SOME PEOPLE STILL ALIVE  ~00~}#036#033
+  HAY AÚN GENTE VIVA EN LAS     ~00~#033
+;0006B7CC{   IN THE DEPTHS OF THE BASE?   ~00~}#036#033
+  PROFUNDIDADES DE LA BASE?     ~00~#033
+|66
+@0006B7F7-0006B859-00
+;0006B7F7{    THE SITUATION AT THE BASE   ~00~}#036#033
+  LA SITUACIÓN EN LA BASE       ~00~#033
+;0006B818{    HAS WORSENED.               ~00~}#036#033
+  HA EMPEORADO.                 ~00~#033
+;0006B839{    INITIATE SELF DESTRUCT!     ~00~}#036#033
+  INICIA AUTODESTRUCCIÓN!       ~00~#033
+|99
+@0006B866-0006B8C8-00
+;0006B866{   ESCAPE FROM HERE IMMEDIATELY ~00~}#036#033
+  ESCAPA DE AQUÍ DE INMEDIATO   ~00~#033
+;0006B887{   USING THE SPACE SHIP         ~00~}#036#033
+  USANDO LA NAVE ESPACIAL DE    ~00~#033
+;0006B8A8{   AT THE BASE!                 ~00~}#036#033
+  LA BASE!                      ~00~#033
+|99
+@0006B8D5-0006B916-00
+;0006B8D5{     NOW, ENTER THE COCKPIT     ~00~}#036#033
+  AHORA, ENTRA EN LA CABINA Y   ~00~#033
+;0006B8F6{     AND RETURN TO EARTH!       ~00~}#036#033
+  VUELVE A LA TIERRA!           ~00~#033
+|66
+@0006B921-0006B9E6-00
+;0006B921{        WE HAVE SUCCEEDED       ~00~}#036#033
+  TUVIMOS ÉXITO                 ~00~#033
+;0006B942{        IN OUR ESCAPE!          ~00~}#036#033
+  EN NUESTRO ESCAPE!            ~00~#033
+;0006B963{                                ~00~}#036#033
+                                ~00~#033
+;0006B984{                                ~00~}#036#033
+                                ~00~#033
+;0006B9A5{     BUT WHO ARE THEY           ~00~}#036#033
+  PERO QUIENES SON              ~00~#033
+;0006B9C6{     AND WHAT DO THEY WANT?     ~00~}#036#033
+  Y QUÉ ES LO QUE QUIEREN?      ~00~#033
+|198
+@0006B9F9-0006BCC8-00
+;0006B9F9{SPACE GUN PROJECT~00~}#021#018
+SPACE GUN PROJECT~00~#018
+;0006BA0B{    PROGRAMMER   ~00~}#021#018
+   PROGRAMADOR   ~00~#018
+;0006BA1D{     I.KASAI     ~00~}#021#018
+     I.KASAI     ~00~#018
+;0006BA2F{                 ~00~}#021#018
+                 ~00~#018
+;0006BA41{     S.OHKUBO    ~00~}#021#018
+     S.OHKUBO    ~00~#018
+;0006BA53{                 ~00~}#021#018
+                 ~00~#018
+;0006BA65{                 ~00~}#021#018
+                 ~00~#018
+;0006BA77{      SOUND      ~00~}#021#018
+     SONIDO      ~00~#018
+;0006BA89{     ZUNTATA     ~00~}#021#018
+     ZUNTATA     ~00~#018
+;0006BA9B{                 ~00~}#021#018
+                 ~00~#018
+;0006BAAD{     K.TANUMA    ~00~}#021#018
+     K.TANUMA    ~00~#018
+;0006BABF{                 ~00~}#021#018
+                 ~00~#018
+;0006BAD1{     I.KASAI     ~00~}#021#018
+     I.KASAI     ~00~#018
+;0006BAE3{                 ~00~}#021#018
+                 ~00~#018
+;0006BAF5{     S.OHKUBO    ~00~}#021#018
+     S.OHKUBO    ~00~#018
+;0006BB07{                 ~00~}#021#018
+                 ~00~#018
+;0006BB19{     M.KATO      ~00~}#021#018
+     M.KATO      ~00~#018
+;0006BB2B{                 ~00~}#021#018
+                 ~00~#018
+;0006BB3D{                 ~00~}#021#018
+                 ~00~#018
+;0006BB4F{    DESIGNER     ~00~}#021#018
+    DISEÑADOR    ~00~#018
+;0006BB61{     M.KUMANO    ~00~}#021#018
+     M.KUMANO    ~00~#018
+;0006BB73{                 ~00~}#021#018
+                 ~00~#018
+;0006BB85{     H.ISHIYAMA  ~00~}#021#018
+     H.ISHIYAMA  ~00~#018
+;0006BB97{                 ~00~}#021#018
+                 ~00~#018
+;0006BBA9{     M.ENDO      ~00~}#021#018
+     M.ENDO      ~00~#018
+;0006BBBB{                 ~00~}#021#018
+                 ~00~#018
+;0006BBCD{     H.DOBASHI   ~00~}#021#018
+     H.DOBASHI   ~00~#018
+;0006BBDF{                 ~00~}#021#018
+                 ~00~#018
+;0006BBF1{     M.KATO      ~00~}#021#018
+     M.KATO      ~00~#018
+;0006BC03{                 ~00~}#021#018
+                 ~00~#018
+;0006BC15{     Y.KOBAYASHI ~00~}#021#018
+     Y.KOBAYASHI ~00~#018
+;0006BC27{                 ~00~}#021#018
+                 ~00~#018
+;0006BC39{                 ~00~}#021#018
+                 ~00~#018
+;0006BC4B{  SPECIAL THANKS ~00~}#021#018
+ MUCHAS GRACIAS  ~00~#018
+;0006BC5D{     T.MOMOI     ~00~}#021#018
+     T.MOMOI     ~00~#018
+;0006BC6F{                 ~00~}#021#018
+                 ~00~#018
+;0006BC81{     N.MIKAMI    ~00~}#021#018
+     N.MIKAMI    ~00~#018
+;0006BC93{                 ~00~}#021#018
+                 ~00~#018
+;0006BCA5{                 ~00~}#021#018
+                 ~00~#018
+;0006BCB7{                 ~00~}#021#018
+                 ~00~#018
+|720
+@0006BD1F-0006BE26-00
+;0006BD1F{    THIS WAR HAS JUST STARTED.  ~00~}#036#033
+  ESTA GUERRA JUSTO COMENZÓ.    ~00~#033
+;0006BD40{    WHEN THEY INVADE            ~00~}#036#033
+  CUANDO INVADAN NUESTRO        ~00~#033
+;0006BD61{    OUR MOTHER PLANET EARTH.    ~00~}#036#033
+  PLANETA MADRE TIERRA.         ~00~#033
+;0006BD82{                                ~00~}#036#033
+                                ~00~#033
+;0006BDA3{                                ~00~}#036#033
+                                ~00~#033
+;0006BDC4{                                ~00~}#036#033
+                                ~00~#033
+;0006BDE5{     WE MUST UNITE              ~00~}#036#033
+  DEBEMOS UNIRNOS               ~00~#033
+;0006BE06{     AND FIGHT AGAINST THEM.    ~00~}#036#033
+  Y LUCHAR CONTRA ELLOS.        ~00~#033
+|264
+@0006BE3D-0006BF23-00
+;0006BE3D{     OH NO!                     ~00~}#036#033
+  OH NO!                        ~00~#033
+;0006BE5E{     SOMETHING WENT WRONG!      ~00~}#036#033
+  ALGO HA IDO MAL!              ~00~#033
+;0006BE7F{                                ~00~}#036#033
+                                ~00~#033
+;0006BEA0{                                ~00~}#036#033
+                                ~00~#033
+;0006BEC1{     THE SPACE SHUTTLE WAS      ~00~}#036#033
+  LA NAVE ESPACIAL FUE          ~00~#033
+;0006BEE2{     DESTROYED!                 ~00~}#036#033
+  DESTRUIDA!                    ~00~#033
+;0006BF03{  SHOULD WE GIVE OURSELVES UP ? ~00~}#036#033
+  DEBERÍAMOS ENTREGARNOS ?      ~00~#033
+|231

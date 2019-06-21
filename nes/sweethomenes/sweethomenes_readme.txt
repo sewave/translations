@@ -1,6 +1,6 @@
 Sweet Home
-Traducción al Español v1.0 (29/12/2017)
-(C) 2017 Wave Translations
+Traducción al Español v1.1 (20/06/2019)
+(C) 2019 Wave Translations
 
 ---
 TdC
@@ -20,7 +20,8 @@ Terrorífico rpg, precursor de resident evil.
 ---------------------
 2. Notas del Proyecto
 ---------------------
-Esta traducción y hacking está basado en la traducción de JMN y The Siege
+Esta traducción y hacking está basado en la traducción de JMN y The Siege.
+V1.1: Arreglada la pantalla de game over gracias a Jackic.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
@@ -43,6 +44,7 @@ SHA1: 54bfe479c12247e8b9996c6c5f331977035e1276
 5. Créditos del Parche
 ----------------------
 Wave - Hacking y traducción
+Jackic - Ayuda con el arreglo de la pantalla de game over
 
 Original:
 JMN y The Siege - Hacking y traducción

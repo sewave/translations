@@ -1,6 +1,10 @@
+@0002B4A7-0002B4B9-FF
+;00000000{\\\\\\\\\\\\\\\\\\\}#019#019
+~21~~89~~0D~Fin del juego\\\#019
+|19
 @00033701-00033868-FF
 ;00000000{ STAFF=~FF~}#011#008
- STAFF=~FF~#008
+ GRUPO=~FF~#008
 ;00000008{*^~52~PRODUC.R==   JUEO ITAMI=~FF~}#034#028
 *^~52~PRODUC. ==   JUEO ITAMI=~FF~#028
 ;00000024{*^~52~PLANN.R==^~52~HATCHAN=^~52~ TOMO=~FF~}#043#031
@@ -358,7 +362,7 @@ Golpeas al ~4F~./~FF~#015
 ;000008D8{You dig¨/But canñ focus¨=         /~FF~}#048#036
 Cavas¨  /Pero no te   =concentras¨/~FF~#036
 ;000008FC{You dig=furiously¨/Eltower=crumbles!! /~FF~}#058#040
-Cavas=furioso¨/¡La torre se=derrumba!/~FF~#040
+Cavas=furioso¨/¡La torre se=derrumba! /~FF~#040
 ;00000924{Somethinges=inside./~FF~}#033#021
 Hay algo dentro.  =/~FF~#021
 ;00000939{Elbasement=Low~41~!!   /~FF~}#037#022
@@ -792,7 +796,7 @@ Proy~FF~#005
 ;00000079{point~FF~}#009#006
 punto~FF~#006
 ;0000007F{there~FF~}#009#006
-ahí. ~FF~#006
+ahí\ ~FF~#006
 ;00000085{The ~FF~}#008#005
 El  ~FF~#005
 ;0000008A{ecto~FF~}#008#005

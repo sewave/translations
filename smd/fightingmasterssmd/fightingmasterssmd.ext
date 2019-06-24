@@ -1,0 +1,216 @@
+@000518DA-000518EC-00
+;000518DA{press start button~00~}#022#019
+press start button~00~#019
+|19
+@000518FA-0005194F-00
+;000518FA{ GAME START                         OPTIONS                            WATCH         ~00~}#089#086
+ GAME START                         OPTIONS                            WATCH         ~00~#086
+|86
+@0005195E-000519D5-00
+;0005195E{ ONE PLAYER                        TWO PLAYERS                         WATCH                           PRACTICE        ~00~}#123#120
+ ONE PLAYER                        TWO PLAYERS                         WATCH                           PRACTICE        ~00~#120
+|120
+@000519E4-00051A1A-00
+;000519E4{]TRECO 1992    LICENSED BY   SEGA ENTERPRISES LTD.    ~00~}#058#055
+]TRECO 1992    LICENSED BY   SEGA ENTERPRISES LTD.    ~00~#055
+|55
+@00051A28-00051A33-00
+;00051A28{]TRECO 1991~00~}#015#012
+]TRECO 1991~00~#012
+|12
+@00051A42-00051AA2-00
+;00051A42{LEVEL SELECT            CONTINUE                MUSIC SELECT            SOUND SELECT            ~00~}#100#097
+LEVEL SELECT            CONTINUE                MUSIC SELECT            SOUND SELECT            ~00~#097
+|97
+@00051AB0-00051AB6-00
+;00051AB0{easy  ~00~}#010#007
+easy  ~00~#007
+|7
+@00051AC4-00051ACA-00
+;00051AC4{normal~00~}#010#007
+normal~00~#007
+|7
+@00051AD8-00051ADE-00
+;00051AD8{hard  ~00~}#010#007
+hard  ~00~#007
+|7
+@00051AEC-00051B05-00
+;00051AEC{PUSH START BUTTON TO EXIT.}#026#026
+PUSH START BUTTON TO EXIT.#026
+|26
+@0005257E-0005258F-00
+;0005257E{    DEMO PLAY    ~00~}#021#018
+    DEMO PLAY    ~00~#018
+|18
+@000525FE-000529FE-00
+;000525FE{                                                                                                                                 A GIANT RED SUN WILL GO NOVA                                          WITHIN HOURS...                                                                                                                 12 STAR SYSTEMS                                           INHABITED BY SENTIENT BEINGS                                         WILL BE DESTROYED.                                                                                                                                                                              AN OMNIPOTENT RACE,                                           KNOWN ONLY AS PRIMARIES,                                             DECLARE THEIR                                                 POWER TO SAVE ONE                                         CIVILIZATION FROM EXTINCTION.                                                                                                  ~00~}#1028#1025
+                                                                                                                                 A GIANT RED SUN WILL GO NOVA                                          WITHIN HOURS...                                                                                                                 12 STAR SYSTEMS                                           INHABITED BY SENTIENT BEINGS                                         WILL BE DESTROYED.                                                                                                                                                                              AN OMNIPOTENT RACE,                                           KNOWN ONLY AS PRIMARIES,                                             DECLARE THEIR                                                 POWER TO SAVE ONE                                         CIVILIZATION FROM EXTINCTION.                                                                                                  ~00~#1025
+|1025
+@00052A0C-00052DAC-00
+;00052A0C{            TO WIN                                                   THE RIGHT TO SURVIVE,                                           EACH RACE MUST CHOOSE                                          A CHAMPION STRONG ENOUGH                                       TO COMPETE IN A TOURNAMENT                                            TO THE DEATH.                                                                                                                                                                                  ONLY ONE WARRIOR                                            CAN EMERGE TRIUMPHANT...                                                                                                                                                                                                                                                                                                                                    ~00~}#932#929
+            TO WIN                                                   THE RIGHT TO SURVIVE,                                           EACH RACE MUST CHOOSE                                          A CHAMPION STRONG ENOUGH                                       TO COMPETE IN A TOURNAMENT                                            TO THE DEATH.                                                                                                                                                                                  ONLY ONE WARRIOR                                            CAN EMERGE TRIUMPHANT...                                                                                                                                                                                                                                                                                                                                    ~00~#929
+|929
+@0005399E-000539B2-00
+;0005399E{test      1234567890~00~}#024#021
+test      1234567890~00~#021
+|21
+@000539C0-00053A60-00
+;000539C0{INPUT               ASCII               BACK                CHAR                SOUND               GAME SET            2 STAGE             5 STAGE             ~00~}#164#161
+INPUT               ASCII               BACK                CHAR                SOUND               GAME SET            2 STAGE             5 STAGE             ~00~#161
+|161
+@00053A6E-00053A86-00
+;00053A6E{MONITER MODE            ~00~}#028#025
+MONITER MODE            ~00~#025
+|25
+@00053AD0-00053B24-00
+;00053AD0{SOUND NO  80SE        90            start returna play      b stop      c fade out  ~00~}#088#085
+SOUND NO  80SE        90            start returna play      b stop      c fade out  ~00~#085
+|85
+@00056A32-00056AF2-00
+;00056A32{DIRK            MASTODON        EQUUS           MORIN           GRINDER         GOLDROCK        PHOENIX         ZYGRUNT         ROTUNDO         XENON           D I O           UPPERCUT        ~00~}#196#193
+DIRK            MASTODON        EQUUS           MORIN           GRINDER         GOLDROCK        PHOENIX         ZYGRUNT         ROTUNDO         XENON           D I O           UPPERCUT        ~00~#193
+|193
+@00056B00-00056B10-00
+;00056B00{COLOR 0         ~00~}#020#017
+COLOR 0         ~00~#017
+|17
+@00056B1E-00056B2E-00
+;00056B1E{COLOR 1         ~00~}#020#017
+COLOR 1         ~00~#017
+|17
+@00056B3C-00056B4C-00
+;00056B3C{COLOR 2         ~00~}#020#017
+COLOR 2         ~00~#017
+|17
+@00056B5A-00056B6A-00
+;00056B5A{COLOR 3         ~00~}#020#017
+COLOR 3         ~00~#017
+|17
+@00056B78-00056B99-00
+;00056B78{        YESREADY?             N O~00~}#037#034
+        YESREADY?             N O~00~#034
+|34
+@00056BD8-00056BE2-00
+;00056BD8{PLAYER-ONE~00~}#014#011
+PLAYER-ONE~00~#011
+|11
+@00056BF0-00056BFA-00
+;00056BF0{PLAYER-TWO~00~}#014#011
+PLAYER-TWO~00~#011
+|11
+@00056C08-00056C12-00
+;00056C08{ENEMY -ONE~00~}#014#011
+ENEMY -ONE~00~#011
+|11
+@00056C20-00056C2A-00
+;00056C20{ENEMY -TWO~00~}#014#011
+ENEMY -TWO~00~#011
+|11
+@00056C38-00056C42-00
+;00056C38{NEXT MATCH~00~}#014#011
+NEXT MATCH~00~#011
+|11
+@00056C50-00056C64-00
+;00056C50{LAST BOSS  FIGHTING ~00~}#024#021
+LAST BOSS  FIGHTING ~00~#021
+|21
+@00056C88-00056C92-00
+;00056C88{STAGE     ~00~}#014#011
+STAGE     ~00~#011
+|11
+@00056CA0-00056CAA-00
+;00056CA0{ BATTLE   ~00~}#014#011
+ BATTLE   ~00~#011
+|11
+@00056CCE-00057216-00
+;00056CCE{  DIRK                     57F~09~ 2200L~0A~              ATTACK   6~09~               MAX POW 33~09~                 MASTODON                 60F~09~ 3530L~0A~              ATTACK   5~09~               MAX POW 39~09~                 EQUUS                    64F~09~ 2310L~0A~              ATTACK   5~09~               MAX POW 25~09~                 MORIN                    54F~09~ 1540L~0A~              ATTACK   5~09~               MAX POW 31~09~                 GRINDER                  60F~09~ 2090L~0A~              ATTACK   5~09~               MAX POW 32~09~                 GOLDROCK                 55F~09~ 9990L~0A~              ATTACK   6~09~               MAX POW 40~09~                 PHOENIX                  55F~09~ 1980L~0A~              ATTACK   5~09~               MAX POW 32~09~                 ZYGRUNT                  56F~09~ 2420L~0A~              ATTACK   6~09~               MAX POW 33~09~                 ROTUNDO                  51F~09~ 3970L~0A~              ATTACK   6~09~               MAX POW 41~09~                 XENON                    72F~09~ 3090L~0A~              ATTACK   8~09~               MAX POW 48~09~                 D I O                    55F~09~ 2200L~0A~              ATTACK   5~09~               MAX POW 32~09~                 UPPERCUT                 57F~09~ 2420L~0A~              ATTACK   7~09~               MAX POW 24~09~                 VALGASU                  96F~09~ 6660L~0A~              ATTACK  ? ~09~               MAX POW ? ~09~               ~00~}#1512#1353
+  DIRK                     57F~09~ 2200L~0A~              ATTACK   6~09~               MAX POW 33~09~                 MASTODON                 60F~09~ 3530L~0A~              ATTACK   5~09~               MAX POW 39~09~                 EQUUS                    64F~09~ 2310L~0A~              ATTACK   5~09~               MAX POW 25~09~                 MORIN                    54F~09~ 1540L~0A~              ATTACK   5~09~               MAX POW 31~09~                 GRINDER                  60F~09~ 2090L~0A~              ATTACK   5~09~               MAX POW 32~09~                 GOLDROCK                 55F~09~ 9990L~0A~              ATTACK   6~09~               MAX POW 40~09~                 PHOENIX                  55F~09~ 1980L~0A~              ATTACK   5~09~               MAX POW 32~09~                 ZYGRUNT                  56F~09~ 2420L~0A~              ATTACK   6~09~               MAX POW 33~09~                 ROTUNDO                  51F~09~ 3970L~0A~              ATTACK   6~09~               MAX POW 41~09~                 XENON                    72F~09~ 3090L~0A~              ATTACK   8~09~               MAX POW 48~09~                 D I O                    55F~09~ 2200L~0A~              ATTACK   5~09~               MAX POW 32~09~                 UPPERCUT                 57F~09~ 2420L~0A~              ATTACK   7~09~               MAX POW 24~09~                 VALGASU                  96F~09~ 6660L~0A~              ATTACK  ? ~09~               MAX POW ? ~09~               ~00~#1353
+|1353
+@0005F4C8-0005F4D6-00
+;0005F4C8{ 1P VS COM    ~00~}#018#015
+ 1P VS COM    ~00~#015
+|15
+@0005F4E4-0005F4F2-00
+;0005F4E4{ 1P VS 2P     ~00~}#018#015
+ 1P VS 2P     ~00~#015
+|15
+@0005F500-0005F50E-00
+;0005F500{COM VS COM    ~00~}#018#015
+COM VS COM    ~00~#015
+|15
+@0005F51C-0005F52A-00
+;0005F51C{PLAYER ENEMY  ~00~}#018#015
+PLAYER ENEMY  ~00~#015
+|15
+@0005F538-0005F53F-00
+;0005F538{PLAYER1~00~}#011#008
+PLAYER1~00~#008
+|8
+@0005F56A-0005F571-00
+;0005F56A{PLAYER2~00~}#011#008
+PLAYER2~00~#008
+|8
+@0005F580-0005F587-00
+;0005F580{ENEMY  ~00~}#011#008
+ENEMY  ~00~#008
+|8
+@0005F5AC-0005F5BE-00
+;0005F5AC{WINNER IS PLAYER 1~00~}#022#019
+WINNER IS PLAYER 1~00~#019
+|19
+@0005F5DA-0005F5EC-00
+;0005F5DA{WINNER IS PLAYER 2~00~}#022#019
+WINNER IS PLAYER 2~00~#019
+|19
+@0005F608-0005F644-00
+;0005F608{greatest                                         PLAYER 1   ~00~}#064#061
+greatest                                         PLAYER 1   ~00~#061
+|61
+@0005F652-0005F68E-00
+;0005F652{greatest                                         PLAYER 2   ~00~}#064#061
+greatest                                         PLAYER 2   ~00~#061
+|61
+@0005F69C-0005F6AE-00
+;0005F69C{WIN    LOST       ~00~}#022#019
+WIN    LOST       ~00~#019
+|19
+@0005F6BC-0005F6E0-00
+;0005F6BC{CONTINUE ?                YES  NO   ~00~}#040#037
+CONTINUE ?                YES  NO   ~00~#037
+|37
+@0005F6EE-0005F6FA-00
+;0005F6EE{GAMEOVER    ~00~}#016#013
+GAMEOVER    ~00~#013
+|13
+@0005F708-0005F732-00
+;0005F708{RETURN MATCH ?                YES  NO     ~00~}#046#043
+RETURN MATCH ?                YES  NO     ~00~#043
+|43
+@0005F740-0005FB40-00
+;0005F740{                                      THE ARENA IS SILENT.            THE CONTEST IS OVER.                                        THE BATTLEGROUNDS LIE EMPTY,          AND ONE WARRIOR            STANDS ALONE...VICTORIOUS.                                       THE GALAXY IS IN CHAOS,           AWAITING ITS IMMINENT               DEVASTATION.                TRUE TO THEIR WORD,           THE PRIMARIES CALL UPON        FORCES TO TAKE YOUR PEOPLE           AWAY TO SAFETY.             ALL THAT IS LEFT OF YOUR           WORLD IS A FADING,         WHITE GLARE IN THE DISTANCE.                                         YOUR CIVILIZATION                HAS BEEN ENSURED            FOR ANOTHER GENERATION,        WHILE OTHERS HAVE PERISHED     IN THE GALACTIC DESTRUCTION               WROUGHT                  BY NOVA OF THE RED SUN.                                           ALL IS QUIET NOW,                      BUT                           HOW LONG                  WILL IT REMAIN SO...                                      ~00~}#1028#1025
+                                      THE ARENA IS SILENT.            THE CONTEST IS OVER.                                        THE BATTLEGROUNDS LIE EMPTY,          AND ONE WARRIOR            STANDS ALONE...VICTORIOUS.                                       THE GALAXY IS IN CHAOS,           AWAITING ITS IMMINENT               DEVASTATION.                TRUE TO THEIR WORD,           THE PRIMARIES CALL UPON        FORCES TO TAKE YOUR PEOPLE           AWAY TO SAFETY.             ALL THAT IS LEFT OF YOUR           WORLD IS A FADING,         WHITE GLARE IN THE DISTANCE.                                         YOUR CIVILIZATION                HAS BEEN ENSURED            FOR ANOTHER GENERATION,        WHILE OTHERS HAVE PERISHED     IN THE GALACTIC DESTRUCTION               WROUGHT                  BY NOVA OF THE RED SUN.                                           ALL IS QUIET NOW,                      BUT                           HOW LONG                  WILL IT REMAIN SO...                                      ~00~#1025
+|1025
+@0005FEFC-0006014E-00
+;0005FEFC{ YOU ARE              VICTORIOUS.                                       FIGHTING MASTERS    DESIGN STAFF                      cg design           MASAMI TAKIZAWA   NAO.YUKI          T SHIGEMURA       ASHIN                             back design         WAKATUKI          N E N K O                         title design        UJITA             WAKATUKI                          sound               MASAPI            SHIOYA                            assistant director  RAMOU KOBAYASHI   HAJIME KUSANO                     test play           YASUHISA KIMURA   AKAHOUSHI                         ~00~}#598#595
+ YOU ARE              VICTORIOUS.                                       FIGHTING MASTERS    DESIGN STAFF                      cg design           MASAMI TAKIZAWA   NAO.YUKI          T SHIGEMURA       ASHIN                             back design         WAKATUKI          N E N K O                         title design        UJITA             WAKATUKI                          sound               MASAPI            SHIOYA                            assistant director  RAMOU KOBAYASHI   HAJIME KUSANO                     test play           YASUHISA KIMURA   AKAHOUSHI                         ~00~#595
+|595
+@0006015C-000602C4-00
+;0006015C{                  game system         Y A Z A W A       N E N K O                         program             Y A Z A W A                                         thanks              OKAMURA                           u.s.a. staff        K.ADACHI          N.EVANGELISTA     R.BELL            T.KOWALEWSKI      L.HUFFMAN                                           ~00~}#364#361
+                  game system         Y A Z A W A       N E N K O                         program             Y A Z A W A                                         thanks              OKAMURA                           u.s.a. staff        K.ADACHI          N.EVANGELISTA     R.BELL            T.KOWALEWSKI      L.HUFFMAN                                           ~00~#361
+|361
+@0006060C-0006061E-00
+;0006060C{      LEVEL normal~00~}#022#019
+      LEVEL normal~00~#019
+|19
+@0006062C-0006063E-00
+;0006062C{      LEVEL hard  ~00~}#022#019
+      LEVEL hard  ~00~#019
+|19
+@0006064C-0006065E-00
+;0006064C{      LEVEL EASY  ~00~}#022#019
+      LEVEL EASY  ~00~#019
+|19
+@0006066C-00060694-00
+;0006066C{THE FIGHTINGMASTER  the fightingmaster  ~00~}#044#041
+THE FIGHTINGMASTER  the fightingmaster  ~00~#041
+|41

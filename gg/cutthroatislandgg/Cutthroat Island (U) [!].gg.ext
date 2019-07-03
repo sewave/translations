@@ -1,0 +1,372 @@
+@0000139E-000013B2-FF
+;0000139E{STAGE~00~CLEAR~00~HEALTH~00~=~00~}#033#021
+STAGE~00~CLEAR~00~HEALTH~00~=~00~#021
+|21
+@000013B5-000013DC-FF
+;000013B5{LIVES~00~ACCURACY~00~MAP PIECES~00~BONUS~00~SCORE~00~>~1B~}#058#040
+LIVES~00~ACCURACY~00~MAP PIECES~00~BONUS~00~SCORE~00~>~1B~#040
+|40
+@0006999A-00069A52-FF
+;0006999A{ C'Mon  Work You Dogs !        ~00~  Up To Your Old Tricks Eh Warden ?        ~00~ Well If It Ain't Morgan Adams,Suppose You Came For The Map ?     You'll Have To Kill Me First !        ~00~~FD~~FF~}#198#183
+ C'Mon  Work You Dogs !        ~00~  Up To Your Old Tricks Eh Warden ?        ~00~ Well If It Ain't Morgan Adams,Suppose You Came For The Map ?     You'll Have To Kill Me First !        ~00~~FD~~FF~#183
+;00069A51{~01~~00~}#008#002
+~01~~00~#002
+|185
+@0006A3D6-0006A3E6-FF
+;0006A3D6{BTHUNDER ROLL~FF~}#017#014
+BTHUNDER ROLL~FF~#014
+;0006A3E4{< ~7B~}#006#003
+< ~7B~#003
+|17
+@0006A3EB-0006A3FC-FF
+;0006A3EB{CHARGING LUNGE~FF~}#018#015
+CHARGING LUNGE~FF~#015
+;0006A3FA{~3B~ ~3B~}#009#003
+~3B~ ~3B~#003
+|18
+@0006A402-0006A413-FF
+;0006A402{RISING~FF~}#010#007
+RISING~FF~#007
+;0006A409{UPPERCUT~FF~}#012#009
+UPPERCUT~FF~#009
+;0006A412{<~7D~}#005#002
+<~7D~#002
+|18
+@0006A41A-0006A427-FF
+;0006A41A{LAST DITCH~FF~}#014#011
+LAST DITCH~FF~#011
+;0006A425{~3B~ ~3B~}#009#003
+~3B~ ~3B~#003
+|14
+@0006A42E-0006A43B-FF
+;0006A42E{360 SLICE ~FF~}#014#011
+360 SLICE ~FF~#011
+;0006A439{  ~7B~}#006#003
+  ~7B~#003
+|14
+@0006AED4-0006AEF5-FF
+;0006AED4{=Continue X~FE~~FE~~FE~~FE~    YES~FE~    NO ~FF~}#049#031
+=Continue X~FE~~FE~~FE~~FE~    YES~FE~    NO ~FF~#031
+;0006AEF3{  ~FF~}#006#003
+  ~FF~#003
+|34
+@0006AEF6-0006B242-FF
+;0006AEF6{It is 1688~7D~ an age~FE~when pirates with a~FE~thirst for~FE~adventure sailed~FE~under a black banner~FE~bearing a skull and~FE~crossbones... The~FE~Jolly Roger. The~FE~most dangerous~FE~pirate of all~7D~ Dawg~FE~Brown~7D~ terrorized~FE~the Caribbean in a~FE~quest to find the~FE~three map pieces of~FE~the legendary~FE~Cutthroat Island.~FF~}#342#285
+It is 1688~7D~ an age~FE~when pirates with a~FE~thirst for~FE~adventure sailed~FE~under a black banner~FE~bearing a skull and~FE~crossbones... The~FE~Jolly Roger. The~FE~most dangerous~FE~pirate of all~7D~ Dawg~FE~Brown~7D~ terrorized~FE~the Caribbean in a~FE~quest to find the~FE~three map pieces of~FE~the legendary~FE~Cutthroat Island.~FF~#285
+;0006B013{Morgan Adams~7D~ the~FE~notorious lady~FE~pirate~7D~ was given a~FE~piece of this map~FE~by her dying~FE~father. Dawg will~FE~stop at nothing to~FE~get it. But Morgan~FE~also seeks the~FE~treasure which is~FE~hidden in Cutthroat~FE~Island. The pirate~FE~hunter Governor~FE~Ainslee of Jamaica~FE~has sworn to stop~FE~them all.~FF~}#329#275
+Morgan Adams~7D~ the~FE~notorious lady~FE~pirate~7D~ was given a~FE~piece of this map~FE~by her dying~FE~father. Dawg will~FE~stop at nothing to~FE~get it. But Morgan~FE~also seeks the~FE~treasure which is~FE~hidden in Cutthroat~FE~Island. The pirate~FE~hunter Governor~FE~Ainslee of Jamaica~FE~has sworn to stop~FE~them all.~FF~#275
+;0006B126{Now as captain of~FE~her father~23~s ship~7D~~FE~the Morning Star~7D~~FE~Morgan is out to~FE~find the treasure~FE~for herself. But~FE~before she can set~FE~sail for the lost~FE~island~7D~ she must~FE~find the three map~FE~pieces. Her journey~FE~begins in a prison~FE~in Jamaica~7D~ run by~FE~a vile man simply~FE~known as "The~FE~Warden"...~FF~}#344#281
+Now as captain of~FE~her father~23~s ship~7D~~FE~the Morning Star~7D~~FE~Morgan is out to~FE~find the treasure~FE~for herself. But~FE~before she can set~FE~sail for the lost~FE~island~7D~ she must~FE~find the three map~FE~pieces. Her journey~FE~begins in a prison~FE~in Jamaica~7D~ run by~FE~a vile man simply~FE~known as "The~FE~Warden"...~FF~#281
+;0006B23F{~FD~~FF~}#008#002
+~FD~~FF~#002
+;0006B241{~01~~0D~}#008#002
+~01~~0D~#002
+|845
+@0006B47E-0006B4A7-FF
+;0006B47E{CUTTHROAT ISLAND    ~FF~}#024#021
+CUTTHROAT ISLAND    ~FF~#021
+;0006B493{                    ~FF~}#024#021
+                    ~FF~#021
+|42
+@0006B4D2-0006B510-FF
+;0006B4D2{ACCLAIM             ~FF~}#024#021
+ACCLAIM             ~FF~#021
+;0006B4E7{ENTERTAINMENT       ~FF~}#024#021
+ENTERTAINMENT       ~FF~#021
+;0006B4FC{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B526-0006B564-FF
+;0006B526{PRODUCED BY THE     ~FF~}#024#021
+PRODUCED BY THE     ~FF~#021
+;0006B53B{GREY TEAM           ~FF~}#024#021
+GREY TEAM           ~FF~#021
+;0006B550{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B57A-0006B5B8-FF
+;0006B57A{PRODUCER            ~FF~}#024#021
+PRODUCER            ~FF~#021
+;0006B58F{ROB LEINGANG        ~FF~}#024#021
+ROB LEINGANG        ~FF~#021
+;0006B5A4{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B5B9-0006B5F7-FF
+;0006B5B9{ASSOCIATE PRODUCER  ~FF~}#024#021
+ASSOCIATE PRODUCER  ~FF~#021
+;0006B5CE{GREGG GILES         ~FF~}#024#021
+GREGG GILES         ~FF~#021
+;0006B5E3{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B5F8-0006B64B-FF
+;0006B5F8{ANALYSTS            ~FF~}#024#021
+ANALYSTS            ~FF~#021
+;0006B60D{MARK MERMELSTEIN    ~FF~}#024#021
+MARK MERMELSTEIN    ~FF~#021
+;0006B622{STEFFAN LEVINE      ~FF~}#024#021
+STEFFAN LEVINE      ~FF~#021
+;0006B637{                    ~FF~}#024#021
+                    ~FF~#021
+|84
+@0006B64C-0006B69F-FF
+;0006B64C{ADMINISTRATIVE      ~FF~}#024#021
+ADMINISTRATIVE      ~FF~#021
+;0006B661{ASSISTANT           ~FF~}#024#021
+ASSISTANT           ~FF~#021
+;0006B676{DIANE CAMBRIA       ~FF~}#024#021
+DIANE CAMBRIA       ~FF~#021
+;0006B68B{                    ~FF~}#024#021
+                    ~FF~#021
+|84
+@0006B6CA-0006B6F3-FF
+;0006B6CA{SOFTWARE CREATIONS  ~FF~}#024#021
+SOFTWARE CREATIONS  ~FF~#021
+;0006B6DF{                    ~FF~}#024#021
+                    ~FF~#021
+|42
+@0006B71E-0006B75C-FF
+;0006B71E{PROGRAMMING         ~FF~}#024#021
+PROGRAMMING         ~FF~#021
+;0006B733{CHRIS SHAY          ~FF~}#024#021
+CHRIS SHAY          ~FF~#021
+;0006B748{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B75D-0006B79B-FF
+;0006B75D{MAIN ARTIST         ~FF~}#024#021
+MAIN ARTIST         ~FF~#021
+;0006B772{GAVIN EAGLETON      ~FF~}#024#021
+GAVIN EAGLETON      ~FF~#021
+;0006B787{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B79C-0006B7DA-FF
+;0006B79C{PROJECT ARTIST      ~FF~}#024#021
+PROJECT ARTIST      ~FF~#021
+;0006B7B1{PHIL BRETHERTON     ~FF~}#024#021
+PHIL BRETHERTON     ~FF~#021
+;0006B7C6{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B7DB-0006B819-FF
+;0006B7DB{MAIN ANIMATOR       ~FF~}#024#021
+MAIN ANIMATOR       ~FF~#021
+;0006B7F0{STEVE THOMAS        ~FF~}#024#021
+STEVE THOMAS        ~FF~#021
+;0006B805{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B81A-0006B897-FF
+;0006B81A{ANIMATION           ~FF~}#024#021
+ANIMATION           ~FF~#021
+;0006B82F{CLINTON J.PRIEST    ~FF~}#024#021
+CLINTON J.PRIEST    ~FF~#021
+;0006B844{SCOTT PLEYDELL      ~FF~}#024#021
+SCOTT PLEYDELL      ~FF~#021
+;0006B859{PEARCE              ~FF~}#024#021
+PEARCE              ~FF~#021
+;0006B86E{ALAN MOULT          ~FF~}#024#021
+ALAN MOULT          ~FF~#021
+;0006B883{                    ~FF~}#024#021
+                    ~FF~#021
+|126
+@0006B898-0006B8EB-FF
+;0006B898{MUSIC AND SOUND FX  ~FF~}#024#021
+MUSIC AND SOUND FX  ~FF~#021
+;0006B8AD{CONVERSION          ~FF~}#024#021
+CONVERSION          ~FF~#021
+;0006B8C2{MARTIN WALKER       ~FF~}#024#021
+MARTIN WALKER       ~FF~#021
+;0006B8D7{                    ~FF~}#024#021
+                    ~FF~#021
+|84
+@0006B8EC-0006B954-FF
+;0006B8EC{ORIGINAL MUSIC AND  ~FF~}#024#021
+ORIGINAL MUSIC AND  ~FF~#021
+;0006B901{SOUND FX            ~FF~}#024#021
+SOUND FX            ~FF~#021
+;0006B916{JAMES HANNINGAN     ~FF~}#024#021
+JAMES HANNINGAN     ~FF~#021
+;0006B92B{MARTIN GOODALL      ~FF~}#024#021
+MARTIN GOODALL      ~FF~#021
+;0006B940{                    ~FF~}#024#021
+                    ~FF~#021
+|105
+@0006B955-0006B993-FF
+;0006B955{ORIGINAL TITLE MUSIC~FF~}#024#021
+ORIGINAL TITLE MUSIC~FF~#021
+;0006B96A{CHRIS JOJO          ~FF~}#024#021
+CHRIS JOJO          ~FF~#021
+;0006B97F{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006B994-0006BA11-FF
+;0006B994{GAME TESTERS        ~FF~}#024#021
+GAME TESTERS        ~FF~#021
+;0006B9A9{CHRIS BROOKES       ~FF~}#024#021
+CHRIS BROOKES       ~FF~#021
+;0006B9BE{CRAIG DOBSON        ~FF~}#024#021
+CRAIG DOBSON        ~FF~#021
+;0006B9D3{PAUL ESSUE          ~FF~}#024#021
+PAUL ESSUE          ~FF~#021
+;0006B9E8{ADRIAN COPSEY       ~FF~}#024#021
+ADRIAN COPSEY       ~FF~#021
+;0006B9FD{                    ~FF~}#024#021
+                    ~FF~#021
+|126
+@0006BA12-0006BA50-FF
+;0006BA12{TECHNICAL SUPPORT   ~FF~}#024#021
+TECHNICAL SUPPORT   ~FF~#021
+;0006BA27{PAUL LEE            ~FF~}#024#021
+PAUL LEE            ~FF~#021
+;0006BA3C{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BA51-0006BA8F-FF
+;0006BA51{PRODUCER            ~FF~}#024#021
+PRODUCER            ~FF~#021
+;0006BA66{LORRAINE STARR      ~FF~}#024#021
+LORRAINE STARR      ~FF~#021
+;0006BA7B{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BA90-0006BACE-FF
+;0006BA90{PRODUCTION ASSISTANT~FF~}#024#021
+PRODUCTION ASSISTANT~FF~#021
+;0006BAA5{ANNIE LEE           ~FF~}#024#021
+ANNIE LEE           ~FF~#021
+;0006BABA{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BACF-0006BB0D-FF
+;0006BACF{ART DIRECTOR        ~FF~}#024#021
+ART DIRECTOR        ~FF~#021
+;0006BAE4{STE PICKFORD        ~FF~}#024#021
+STE PICKFORD        ~FF~#021
+;0006BAF9{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BB0E-0006BB4C-FF
+;0006BB0E{CREATIVE DIRECTOR   ~FF~}#024#021
+CREATIVE DIRECTOR   ~FF~#021
+;0006BB23{JOHN PICKFORD       ~FF~}#024#021
+JOHN PICKFORD       ~FF~#021
+;0006BB38{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BB4D-0006BBA0-FF
+;0006BB4D{EXECUTIVE PRODUCERS ~FF~}#024#021
+EXECUTIVE PRODUCERS ~FF~#021
+;0006BB62{RICHARD KAY         ~FF~}#024#021
+RICHARD KAY         ~FF~#021
+;0006BB77{MIKE WEBB           ~FF~}#024#021
+MIKE WEBB           ~FF~#021
+;0006BB8C{                    ~FF~}#024#021
+                    ~FF~#021
+|84
+@0006BBCB-0006BC09-FF
+;0006BBCB{ACCLAIM QUALITY     ~FF~}#024#021
+ACCLAIM QUALITY     ~FF~#021
+;0006BBE0{ASSURANCE           ~FF~}#024#021
+ASSURANCE           ~FF~#021
+;0006BBF5{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BC34-0006BC72-FF
+;0006BC34{SENIOR MANAGER      ~FF~}#024#021
+SENIOR MANAGER      ~FF~#021
+;0006BC49{MICHAEL WEINER      ~FF~}#024#021
+MICHAEL WEINER      ~FF~#021
+;0006BC5E{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BC73-0006BCC6-FF
+;0006BC73{SUPERVISORS         ~FF~}#024#021
+SUPERVISORS         ~FF~#021
+;0006BC88{CAROL CARACCIOLO    ~FF~}#024#021
+CAROL CARACCIOLO    ~FF~#021
+;0006BC9D{ADAM INGBERMAN, ESQ.~FF~}#024#021
+ADAM INGBERMAN, ESQ.~FF~#021
+;0006BCB2{                    ~FF~}#024#021
+                    ~FF~#021
+|84
+@0006BCC7-0006BD05-FF
+;0006BCC7{LEAD TESTER         ~FF~}#024#021
+LEAD TESTER         ~FF~#021
+;0006BCDC{MIKE HONG           ~FF~}#024#021
+MIKE HONG           ~FF~#021
+;0006BCF1{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BD06-0006BD44-FF
+;0006BD06{GAME ANALYST        ~FF~}#024#021
+GAME ANALYST        ~FF~#021
+;0006BD1B{DAMON TABB          ~FF~}#024#021
+DAMON TABB          ~FF~#021
+;0006BD30{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BD45-0006BD98-FF
+;0006BD45{TECHNICAL SUPPORT   ~FF~}#024#021
+TECHNICAL SUPPORT   ~FF~#021
+;0006BD5A{SUPERVISOR          ~FF~}#024#021
+SUPERVISOR          ~FF~#021
+;0006BD6F{HARRY REIMER        ~FF~}#024#021
+HARRY REIMER        ~FF~#021
+;0006BD84{                    ~FF~}#024#021
+                    ~FF~#021
+|84
+@0006BD99-0006BDD7-FF
+;0006BD99{TECHNICAL SUPPORT   ~FF~}#024#021
+TECHNICAL SUPPORT   ~FF~#021
+;0006BDAE{JOHN F. GONZALES    ~FF~}#024#021
+JOHN F. GONZALES    ~FF~#021
+;0006BDC3{                    ~FF~}#024#021
+                    ~FF~#021
+|63
+@0006BDD8-0006BE55-FF
+;0006BDD8{TESTERS             ~FF~}#024#021
+TESTERS             ~FF~#021
+;0006BDED{CHRISTIAN MOY       ~FF~}#024#021
+CHRISTIAN MOY       ~FF~#021
+;0006BE02{JEFF ZENTIL         ~FF~}#024#021
+JEFF ZENTIL         ~FF~#021
+;0006BE17{JACKIE A. WILLIAMS  ~FF~}#024#021
+JACKIE A. WILLIAMS  ~FF~#021
+;0006BE2C{RUSS TUCKER         ~FF~}#024#021
+RUSS TUCKER         ~FF~#021
+;0006BE41{                    ~FF~}#024#021
+                    ~FF~#021
+|126
+@0006BE80-0006BEA9-FF
+;0006BE80{SPECIAL THANKS      ~FF~}#024#021
+SPECIAL THANKS      ~FF~#021
+;0006BE95{                    ~FF~}#024#021
+                    ~FF~#021
+|42
+@0006BEAA-0006BF51-FF
+;0006BEAA{MARK WILKINSON      ~FF~}#024#021
+MARK WILKINSON      ~FF~#021
+;0006BEBF{REBECCA SPIKINGS    ~FF~}#024#021
+REBECCA SPIKINGS    ~FF~#021
+;0006BED4{THE ENTIRE CUTTHROAT~FF~}#024#021
+THE ENTIRE CUTTHROAT~FF~#021
+;0006BEE9{ISLAND FILM CREW    ~FF~}#024#021
+ISLAND FILM CREW    ~FF~#021
+;0006BEFE{CREW OF THE S.V.    ~FF~}#024#021
+CREW OF THE S.V.    ~FF~#021
+;0006BF13{KASKELOT            ~FF~}#024#021
+KASKELOT            ~FF~#021
+;0006BF28{ELMO GREY           ~FF~}#024#021
+ELMO GREY           ~FF~#021
+;0006BF3D{                    ~FF~}#024#021
+                    ~FF~#021
+|168
+@0006BF7C-0006BFA5-FF
+;0006BF7C{EXTRA SPECIAL THANKS~FF~}#024#021
+EXTRA SPECIAL THANKS~FF~#021
+;0006BF91{                    ~FF~}#024#021
+                    ~FF~#021
+|42

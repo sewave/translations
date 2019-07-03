@@ -1,0 +1,30 @@
+@00002632-000027AA-00
+;00000000{DifficultyA~01~c~04~~C4~QTimeA~01~c~13~~C5~QController     ~AC~~A1~P~AC~~00~}#076#046
+DificultadA~01~c~04~~C4~QTiemA~01~c~13~~C5~QControl        ~AC~~A1~P~AC~~00~#046
+;0000002E{A~01~c~0A~~C6~YA button ~AC~A~01~c~0A~~C7~~18~B button ~AC~A~01~c~0A~~C7~YC button ~AC~A~01~c~08~~C2~QLanguageA~01~c~0A~~C8~QSound modeA~01~c~08~~CA~QBGM testA~01~c~07~~CB~QSE test~00~}#184#106
+A~01~c~0A~~C6~YBotón A  ~AC~A~01~c~0A~~C7~~18~Botón B  ~AC~A~01~c~0A~~C7~YBotón C  ~AC~A~01~c~08~~C2~QIdioma  A~01~c~0A~~C8~QModo AudioA~01~c~08~~CA~QMúsica  A~01~c~07~~CB~QEfecto ~00~#106
+;00000098{A~01~c~04~~CC~QExitA~01~c~07~~C4~~B4~minutes~00~}#048#024
+A~01~c~04~~CC~QSaleA~01~c~07~~C4~~B4~minutos~00~#024
+;000000B0{A~01~c~08~~C9~QGame BGMA~01~c~0A~~C3~~AE~Easy       ~00~}#056#032
+A~01~c~08~~C9~QMúsica JA~01~c~0A~~C3~~AE~Fácil      ~00~#032
+;000000D0{A~01~c~0A~~C3~~AE~Normal     ~00~}#033#018
+A~01~c~0A~~C3~~AE~Normal     ~00~#018
+;000000E2{A~01~c~0A~~C3~~AE~Hard       ~00~}#033#018
+A~01~c~0A~~C3~~AE~Difícil    ~00~#018
+;000000F4{A~01~c~0A~~C3~~AE~Extra hardA~01~c~08~~C8~~AE~Stereo  A~01~c~08~~C8~~AE~Monaural~C0~~01~c~0B~Shoot~9B~Cut  ~00~}#111#060
+A~01~c~0A~~C3~~AE~Extra DuroA~01~c~08~~C8~~AE~Estéreo A~01~c~08~~C8~~AE~Monaural~C0~~01~c~0B~Tira ~9B~Corta~00~#060
+;00000130{~C0~~01~c~0B~Pass~9B~Change~00~}#031#016
+~C0~~01~c~0B~Pasa~9B~Cambia~00~#016
+;00000140{~C0~~01~c~0B~S~9A~action   ~00~}#031#016
+~C0~~01~c~0B~S~9A~acción   ~00~#016
+;00000150{A~01~c~08~~C2~~AE~English A~01~c~08~~C2~~AE~French  A~01~c~08~~C2~~AE~German }#077#041
+A~01~c~08~~C2~~AE~Español A~01~c~08~~C2~~AE~Francés A~01~c~08~~C2~~AE~Alemán #041
+|377
+@0000289A-000028AF-FF
+;00000000{New gameA~01~~C5~~08~~CB~yPassword}#034#022
+Empezar A~01~~C5~~08~~CB~yPassword#022
+|22
+@000154D9-00015558-00
+;00000000{shots:00~FE~headings:00~FE~ o~6C~heads:00~FE~ d~6C~heads:00~FE~   super:00~FD~   shots:00~FE~ 3points:00~FE~   dunks:00~FE~   super:00~FE~rebounds:00~FE~  steals:00}#164#128
+tiros:00~FE~encabeza:00~FE~ o~6C~cabez:00~FE~ d~6C~cabez:00~FE~   super:00~FD~   tiros:00~FE~ 3puntos:00~FE~   mates:00~FE~   super:00~FE~ rebotes:00~FE~   robos:00#128
+|128

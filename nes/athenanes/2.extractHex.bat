@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Athena (U) [!].nes"
+set SCRIPTNAME="athenanes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 140C0:50,141C0:50,150C0:50,151C0:50,160C0:50,161C0:50,170C0:50,171C0:50,17560:30,178A0:30,17910:10,17A10:200
+pause

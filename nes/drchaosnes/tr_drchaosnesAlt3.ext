@@ -1,0 +1,42 @@
+@00011530-00011537-FF
+;00011530{$L$I$F$E}#008#008
+$V$I$D$A#008
+|8
+@00011542-00011549-FF
+;00011542{$I$T$E$M}#008#008
+$O$B$J$·#008
+|8
+@000181C0-000181E0-FF
+;000181C0{ N         W           S     E   }#033#033
+ N         O           S     E   #033
+|33
+@00018357-0001838A-FF
+;00018357{MENU         {AB}{OLP}{PEA}         GET         GO          HIT}#063#052
+MENÚ         {AB}RE         {RE}{CO}{GE}         VE          G{OLP}{PEA}#052
+|52
+@00018EC9-00018F9A-FF
+;00018EC9{~10~                                ~0E~               OPEN SESAME !~08~         GOT IT.~0D~              HERE WE GO !~0B~            GO,GET IT.~0F~                NOTHING THERE.~09~          NO WAY !~0F~                NOTHING THERE.}#234#210
+~10~                                ~0E~
+ ¡ÁBRETE       
+ SÉSAMO!     ~08~
+ LO     
+ TENGO. ~0D~
+             
+ ¡AQUÍ VAMOS!~0B~
+ VA,       
+ RECÓGELO. ~0F~
+ AHÍ NO HAY    
+ NADA.         ~09~
+ ¡NI     
+ HABLAR! ~0F~
+ AHÍ NO HAY    
+ NADA.         #210
+|210
+@000190D2-000190D9-FF
+;000190D2{$L$I$F$E}#008#008
+$V$I$D$A#008
+|8
+@000190E4-000190EB-FF
+;000190E4{$I$T$E$M}#008#008
+$O$B$J$·#008
+|8

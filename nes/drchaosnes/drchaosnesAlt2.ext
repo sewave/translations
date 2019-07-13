@@ -1,0 +1,48 @@
+@0001589C-00015CF3-FF
+;0001589C{                      Congratulations!                         You are great.                       =                                               Staff                                                =                          Producer        Kunihiko Kagawa                                           =                          Designer         Seishi Yokota                                            =                       Music composer      Ponii Ichinen                                            =                         Programmer      Yoshiaki Sakaguchi   Takayuki Onodera                      =                          Assistant         Alex Hikonori       Punk Tadokoro                       =                        Game designed            by         S.R.S. incorporation                    =                      Computer designed          by          Marionette co.,ltd.                    =                          Presented              by           Pony Canyon inc.                      =~FF~}#1014#1011
+                      Congratulations!                         You are great.                       =                                               Staff                                                =                          Producer        Kunihiko Kagawa                                           =                          Designer         Seishi Yokota                                            =                       Music composer      Ponii Ichinen                                            =                         Programmer      Yoshiaki Sakaguchi   Takayuki Onodera                      =                          Assistant         Alex Hikonori       Punk Tadokoro                       =                        Game designed            by         S.R.S. incorporation                    =                      Computer designed          by          Marionette co.,ltd.                    =                          Presented              by           Pony Canyon inc.                      =~FF~#1011
+;00015C8F{                           ©1988          FCI/PONY CANYON                             The end       =}#101#101
+                           ©1988          FCI/PONY CANYON                             The end       =#101
+|1112
+@00015ECA-00015EEC-FF
+;00015ECA{!~09~GAME OVER~AC~!~08~CONTINUE~0C~"~08~PASSWORD ~F8~}#053#035
+!~09~GAME OVER~AC~!~08~CONTINUE~0C~"~08~PASSWORD ~F8~#035
+|35
+@00016209-0001622C-FF
+;00016209{!~0A~GAME START~AC~!~08~NEW GAME~0C~"~08~CONTINUE ~F8~}#054#036
+!~0A~GAME START~AC~!~08~NEW GAME~0C~"~08~CONTINUE ~F8~#036
+|36
+@00016AAD-00016AD3-FF
+;00016AAD{~09~PLEASE MAKE A COPY.~FF~}#027#021
+~09~PLEASE MAKE A COPY.~FF~#021
+;00016AC2{~0A~~0E~~14~_PASSWORD____~16~~FF~}#033#018
+~0A~~0E~~14~_PASSWORD____~16~~FF~#018
+|39
+@00016B59-00016B6A-FF
+;00016B59{_WORD_____________}#018#018
+_WORD_____________#018
+|18
+@00016B97-00016B9E-FF
+;00016B97{FORWARD }#008#008
+FORWARD #008
+|8
+@00016BCB-00016BD2-FF
+;00016BCB{BACK    }#008#008
+BACK    #008
+|8
+@00016BFF-00016C01-FF
+;00016BFF{END}#003#003
+END#003
+|3
+@00016C68-00016C6F-FF
+;00016C68{PASSWORD}#008#008
+PASSWORD#008
+|8
+@00016D89-00016D91-FF
+;00016D89{INVALID~1B~~FF~}#015#009
+INVALID~1B~~FF~#009
+|9
+@00016DBD-00016DBF-FF
+;00016DBD{END}#003#003
+END#003
+|3

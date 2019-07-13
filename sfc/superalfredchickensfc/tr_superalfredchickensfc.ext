@@ -1,0 +1,206 @@
+@000B937A-000B9381-00-FF
+;000B937A{SCORE:~E2~ }#011#008
+MARCA:~E2~ #008
+|8
+@00001DA0-00001DBB-00-FF
+;00001DA0{~08~~0A~~01~EXAMPLE TEST/~0A~~0C~~00~}#037#019
+~08~~0A~~01~ CADENA  DE /~0A~~0C~~00~#019
+;00001DB3{STRING~FF~}#010#007
+PRUEBA~FF~#007
+;00001DBA{~05~~00~}#008#002
+~05~~00~#002
+|28
+@00001DE8-00001E35-00-FF
+;00001DE8{~05~~00~}#008#002
+~05~~00~#002
+;00001DEA{~00~}#004#001
+~00~#001
+;00001DEB{     ALFRED     /~07~~04~~02~THIS WILL/~08~~04~~02~HELP YOU:~FF~}#064#043
+     ALFRED     /~07~~04~~02~ESTO TE  /~08~~04~~02~AYUDARÁ: ~FF~#043
+;00001E16{~06~~08~~00~}#012#003
+~06~~08~~00~#003
+;00001E19{TIME OUT ALFRED~FF~}#019#016
+ TIEMPO ALFRED ~FF~#016
+;00001E29{STRINGS HERE~00~}#016#013
+CADENAS AQUÍ~00~#013
+|78
+@00003704-0000370A-00-FF
+;00003704{PAUSED~FF~}#010#007
+PAUSA ~FF~#007
+|7
+@00027826-0002783D-00-FF
+;00027826{MINDSCAPE INTERNATIONAL~00~}#027#024
+MINDSCAPE INTERNACIONAL~00~#024
+|24
+@000B9CAD-000B9D90-00-FF
+;000B9CAD{~04~~08~~00~}#012#003
+~04~~08~~00~#003
+;000B9CB0{THE EGGS ARE FAR/~06~~09~~00~}#029#020
+LOS HUEVOS ESTÁN/~06~~09~~00~#020
+;000B9CC4{AWAY: YOU WILL/~08~~09~~00~}#027#018
+ LEJOS: NUNCA /~08~~09~~00~#018
+;000B9CD6{NEVER SEE THEM/~0A~~09~~00~}#027#018
+  VOLVERÁS A  /~0A~~09~~00~#018
+;000B9CE8{AGAIN. HA HA !~FF~}#018#015
+VERLOS. JA JA!~FF~#015
+;000B9CF7{~04~~08~~00~}#012#003
+~04~~08~~00~#003
+;000B9CFA{YOUR POWER IS NO /~06~~0A~~00~}#030#021
+ TU PODER NO ES  /~06~~0A~~00~#021
+;000B9D0F{MATCH FOR THE/~08~~0B~~00~}#026#017
+RIVAL PARA EL/~08~~0B~~00~#017
+;000B9D20{MIGHTY MEKA/~0A~~08~~00~}#024#015
+DE LOS MEKA/~0A~~08~~00~#015
+;000B9D2F{CHICKENS. HA HA !~FF~}#021#018
+ POLLOS. JA JA!  ~FF~#018
+;000B9D41{~04~~08~~00~}#012#003
+~04~~08~~00~#003
+;000B9D44{ALFRED: THE TIME /~06~~08~~00~}#030#021
+ALFRED: LLEGÓ LA /~06~~08~~00~#021
+;000B9D59{HAS COME FOR OUR /~08~~09~~00~}#030#021
+ HORA DE NUESTRA /~08~~09~~00~#021
+;000B9D6E{FINAL BATTLE./~0A~~08~~00~}#026#017
+PELEA FINAL. /~0A~~08~~00~#017
+;000B9D7F{HA HA HA HA !!!!!~FF~}#021#018
+JA JA JA JA !!!!!~FF~#018
+|228
+@000BCC7F-000BCCA1-00-FF
+;000BCC7F{WELL DONEALFRED.YOUR QUEST IS OVER!}#035#035
+MUY  BIEN
+ALFRED.
+TU COLECTA TERMINÓ!#035
+|35
+@000BF4F8-000BF5D3-FF
+;000BF4F8{YOU HAVE GOT A PASSWORD  WELL DONE  YOU HAVE ALLFAR         THE CANS SO     ENTER   ~FF~}#088#085
+HAS RECIBIDO
+UN PASSWORD 
+ BIEN HECHO 
+ TIENES LAS 
+            
+ REGADERAS  
+   ENTRAR   ~FF~#085
+;000BF54D{  PASSWORD  YOU HAVE GOT A PASSWORD BUT YOU NEED~FF~}#052#049
+  PASSWORD  
+HAS RECIBIDO
+UN PASSWORD 
+PERO FALTAN ~FF~#049
+;000BF57E{ MORE CANS   BAD PASSWORD   SELECT   E           PLAY THE GAMUSE PASSWORDYOU MUST GET~FF~}#089#086
+ REGADERAS   MAL PASSWORD    ELIGE               
+JUEGA       
+USA PASSWORD
+    HAY     ~FF~#086
+|220
+@000BF5D4-000BF9E9-FF
+;000BF5D4{  17 CANS                \ CAST \                                                                                         ALFRED   ~FF~}#135#132
+17 REGADERAS             \ELENCO\                                                                                         ALFRED   ~FF~#132
+;000BF658{  CHICKEN        \\     ~FF~}#028#025
+   POLLO         \\     ~FF~#025
+;000BF671{ MR PEKLES       \\     ~FF~}#028#025
+ SR PEKLES       \\     ~FF~#025
+;000BF68A{ BILLY EGG  ~FF~}#016#013
+BILLY HUEVO ~FF~#013
+;000BF697{    AND       BROTHERS       \\     ~FF~}#040#037
+     Y        HERMANOS       \\     ~FF~#037
+;000BF6BC{  FLOELLA   ~FF~}#016#013
+  FLOELLA   ~FF~#013
+;000BF6C9{  CHICKEN        \\       THE EVIL      MEKA      CHICKENS       \\                                                                             ~FF~}#148#145
+  GALLINA        \\       MALVADOS      MEKA       POLLOS        \\                                                                             ~FF~#145
+;000BF75A{\ CREDITS \                                                                           BASED ON    ORIGINAL   CHARACTERS  CREATED BY             JASON M·GANN~FF~}#160#157
+\ CRÉDITO \                                                                         
+ BASADO EN  
+ PERSONAJES  ORIGINALES  CREADOS POR            JASON M·GANN~FF~#157
+;000BF7F7{    AND         PETE     TATTERSALL                  \\                 MAIN PROGRAM     BY                 ~FF~}#112#109
+     Y          PETE     TATTERSALL                  \\                   PROGRAMA       POR                ~FF~#109
+;000BF864{STUART COOK                  \\                     MAIN    ~FF~}#064#061
+STUART COOK                  \\                   GRÁFICOS  ~FF~#061
+;000BF8A1{GRAPHICS BY                 PETE     TATTERSALL                  \\                 MUSIC AND FX     BY                     MARK      'SKIMPY'     KNIGHT                    \\                 EXTRA GRAFIX     BY                 ~FF~}#232#229
+PRINCIPALES                 PETE     TATTERSALL                  \\
+                 
+MÚSICA Y EFE     POR                    MARK      'SKIMPY'     KNIGHT                    \\                 
+  GRÁFICOS  
+  EXTRA DE              ~FF~#229
+;000BF986{   STEVE     'GRAFFITI' ~FF~}#028#025
+   STEVE     'GRAFFITI' ~FF~#025
+;000BF99F{  WILDING               ~FF~}#028#025
+  WILDING               ~FF~#025
+;000BF9B8{    IAN     ~FF~}#016#013
+    IAN     ~FF~#013
+;000BF9C5{  'RAVEN'     FAICHNIE              ~FF~}#040#037
+  'RAVEN'     FAICHNIE              ~FF~#037
+|1046
+@000BF9EA-000BFDF6-FF
+;000BF9EA{   STEVE      'GODBER'  ~FF~}#028#025
+   STEVE      'GODBER'  ~FF~#025
+;000BFA03{   LENEY                ~FF~}#028#025
+   LENEY                ~FF~#025
+;000BFA1C{    AND                 ~FF~}#028#025
+     Y                  ~FF~#025
+;000BFA35{GAV 'BLUTO' ~FF~}#016#013
+GAV 'BLUTO' ~FF~#013
+;000BFA42{   MOORE                     \\                 EXTRA CODIN'     BY                 ANDY 'ICE T'  KERRIDGE              ~FF~}#124#121
+   MÁÁÁS                     \\                 CÓDIGO EXTRA     DE                 ANDY 'ICE T'  KERRIDGE              ~FF~#121
+;000BFABB{    AND                     JEFF      'PEEWEE'  ~FF~}#052#049
+     Y                      JEFF      'PEEWEE'  ~FF~#049
+;000BFAEC{   GAMON                     \\                 ~FF~}#052#049
+   GAMON                     \\                 ~FF~#049
+;000BFB1D{PLAYTESTING      BY                  NEIL SOANE      \\     ~FF~}#064#061
+TEST  JUEGO      DE                  NEIL SOANE      \\     ~FF~#061
+;000BFB5A{MARK MACHIN ~FF~}#016#013
+MARK MACHIN ~FF~#013
+;000BFB67{MIA GARSIDE ~FF~}#016#013
+MIA GARSIDE ~FF~#013
+;000BFB74{DANNY ISAAC ~FF~}#016#013
+DANNY ISAAC ~FF~#013
+;000BFB81{    AND     SIMON HARRIS                 \\                  MAP DESIGN~2C~~FF~}#079#073
+     Y      SIMON HARRIS                 \\                 DISEÑO MAPA~2C~~FF~#073
+;000BFBCA{ LAYOUT BY                  PAUL    ~FF~}#040#037
+  PLAN DE                   PAUL    ~FF~#037
+;000BFBEF{ 'MILITIA'  ~FF~}#016#013
+ 'MILITIA'  ~FF~#013
+;000BFBFC{  STEVENS               ~FF~}#028#025
+  STEVENS               ~FF~#025
+;000BFC15{   STEVE    ~FF~}#016#013
+   STEVE    ~FF~#013
+;000BFC22{  WILDING               ~FF~}#028#025
+  WILDING               ~FF~#025
+;000BFC3B{    IAN       FAICHNIE              ~FF~}#040#037
+    IAN       FAICHNIE              ~FF~#037
+;000BFC60{STEVE LENEY             JASON M·GANN            ~FF~}#052#049
+STEVE LENEY             JASON M·GANN            ~FF~#049
+;000BFC91{    AND                 ~FF~}#028#025
+     Y                  ~FF~#025
+;000BFCAA{MARK MACHIN                  \\                 ~FF~}#052#049
+MARK MACHIN                  \\                 ~FF~#049
+;000BFCDB{ UTILITIES  ~FF~}#016#013
+ UTILIDADES ~FF~#013
+;000BFCE8{ AND TOOLS               MARK MASON                  \\                                              \\                 ~FF~}#124#121
+  Y ÚTILES               MARK MASON                  \\                                              \\                 ~FF~#121
+;000BFD61{  SPECIAL   ~FF~}#016#013
+  GRACIAS   ~FF~#013
+;000BFD6E{ THANKS TO              ~FF~}#028#025
+ ESPECIALES             ~FF~#025
+;000BFD87{ JOHN COOK              JAMES M·GANN            ~FF~}#052#049
+ JOHN COOK              JAMES M·GANN            ~FF~#049
+;000BFDB8{  RICHARD   ~FF~}#016#013
+  RICHARD   ~FF~#013
+;000BFDC5{   'LOM'    ~FF~}#016#013
+   'LOM'    ~FF~#013
+;000BFDD2{LEINFELLNER             'LOM' BLOWER~FF~}#040#037
+LEINFELLNER             'LOM' BLOWER~FF~#037
+|1037
+@000BFDF7-000BFF33-FF
+;000BFDF7{   STEVE    ~FF~}#016#013
+   STEVE    ~FF~#013
+;000BFE04{  WHITTLE               ~FF~}#028#025
+  WHITTLE               ~FF~#025
+;000BFE1D{   'POG'                 AND ANYONE WHO KNOWS US                 \\                                                      THANKS FOR ~FF~}#136#133
+   'POG'    
+            
+ Y A QUIEN  
+NOS CONOZCA 
+                 \\                                                     GRACIAS POR ~FF~#133
+;000BFEA2{  PLAYING                                                                           ~FF~}#088#085
+   JUGAR                                                                            ~FF~#085
+;000BFEF7{ \THE END\                                                  ~FF~}#064#061
+ \  FIN  \                                                  ~FF~#061
+|317

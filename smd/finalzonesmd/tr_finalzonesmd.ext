@@ -1,0 +1,313 @@
+@0000CA60-0000CA6A-00
+;0000CA60{HANDOPTION~00~}#014#011
+MANO
+OPCIÓN~00~#011
+|11
+@0000451E-000046EA-00
+;0000451E{PUSH START BUTTONPRESS START BUTTON                   c 1990 WOLF TEAM   c RENOVATION   ~00~}#092#089
+PULSA BOTÓN START
+PULSA BOTÓN START                    c 1990 WOLF TEAM   c RENOVATION   ~00~#089
+;00004577{     LICENSED BY     SEGA ENTERPRISES LTD. START GAME            CONFIG       C O N F I G      KEY    A                  B                  C                              MUSIC                                 LEVEL                                                                       EXIT               MAP               ~00~}#326#323
+   LICENCIADO POR    SEGA ENTERPRISES LTD. 
+EMPEZAR               CONFIGURAR   CONFIGURAR       BOTÓN  A                  B                  C                              MÚSICA                                NIVEL                                                                       SALIR              MAPA              ~00~#323
+;000046BA{HAND    OPTION  SELECT  EASY    NORMAL  HARD    ~00~}#052#049
+MANO    OPCIÓN  ELIGE   FÁCIL   NORMAL  DIFÍCIL ~00~#049
+|461
+@0000CAB2-0000CB51-00
+;0000CAB2{NORMAL ~00~}#011#008
+NORMAL ~00~#008
+;0000CABA{SHOT G ~00~}#011#008
+TIRO   ~00~#008
+;0000CAC2{WAVE   ~00~}#011#008
+ONDA   ~00~#008
+;0000CACA{VULCAN ~00~}#011#008
+VULCANO~00~#008
+;0000CAD2{TWIN   ~00~}#011#008
+GEMELO ~00~#008
+;0000CADA{GRENADE~00~}#011#008
+GRANADA~00~#008
+;0000CAE2{RAY    ~00~}#011#008
+RAYO   ~00~#008
+;0000CAEA{NAPALM ~00~}#011#008
+NAPALM ~00~#008
+;0000CAF2{H NAP  ~00~}#011#008
+NAP M  ~00~#008
+;0000CAFA{ROPE G ~00~}#011#008
+CUERDA ~00~#008
+;0000CB02{MINE   ~00~}#011#008
+MINA   ~00~#008
+;0000CB0A{BAZOOKA~00~}#011#008
+BAZUCA ~00~#008
+;0000CB12{SPREAD ~00~}#011#008
+ESPARCE~00~#008
+;0000CB1A{SIDE   ~00~}#011#008
+LADO   ~00~#008
+;0000CB22{AIR    ~00~}#011#008
+AIRE   ~00~#008
+;0000CB2A{HELP   ~00~}#011#008
+AYUDA  ~00~#008
+;0000CB32{MIS CAN~00~}#011#008
+CAÑ.MIS~00~#008
+;0000CB3A{PA CAN ~00~}#011#008
+CAÑ.PAR~00~#008
+;0000CB42{GIANT  ~00~}#011#008
+GIGANTE~00~#008
+;0000CB4A{HUNTER ~00~}#011#008
+CAZADOR~00~#008
+|160
+@000110CE-000112FB-00
+;000110CE{GREEN~00~}#009#006
+VERDE~00~#006
+;000110D4{   COPPER~00~}#013#010
+   COBRE ~00~#010
+;000110DE{  SILVER~00~}#012#009
+   PLATA~00~#009
+;000110E7{  BRONZE~00~}#012#009
+  BRONCE~00~#009
+;000110F0{  YELLOW~00~}#012#009
+  AMARIL~00~#009
+;000110F9{  RED~00~}#009#006
+  ROJ~00~#006
+;000110FF{     GOLD~00~}#013#010
+      ORO~00~#010
+;00011109{    NO~00~}#010#007
+    NO~00~#007
+;00011110{      NO~00~}#012#009
+      NO~00~#009
+;00011119{      NO~00~}#012#009
+      NO~00~#009
+;00011122{      FLY~00~}#013#010
+      MOS~00~#010
+;0001112C{     HORNET~00~}#015#012
+     AVISPA~00~#012
+;00011138{  WOLF~00~}#010#007
+  LOBO~00~#007
+;0001113F{    JACKAL~00~}#014#011
+    CHACAL~00~#011
+;0001114A{  SCORPION~00~}#014#011
+ ESCORPIÓN~00~#011
+;00011155{CRAWLER~00~}#011#008
+CANGREJ~00~#008
+;0001115D{ GOLEM~00~}#010#007
+ GÓLEM~00~#007
+;00011164{   BATTERY~00~}#014#011
+   BATERÍA~00~#011
+;0001116F{        ~00~}#012#009
+        ~00~#009
+;00011178{NORMAL ~00~}#011#008
+NORMAL ~00~#008
+;00011180{SHOT G ~00~}#011#008
+TIRO   ~00~#008
+;00011188{WAVE   ~00~}#011#008
+ONDA   ~00~#008
+;00011190{VULCAN ~00~}#011#008
+VULCANO~00~#008
+;00011198{TWIN   ~00~}#011#008
+GEMELO ~00~#008
+;000111A0{GRENADE~00~}#011#008
+GRANADA~00~#008
+;000111A8{RAY    ~00~}#011#008
+RAYO   ~00~#008
+;000111B0{NAPALM ~00~}#011#008
+NAPALM ~00~#008
+;000111B8{H NAP  ~00~}#011#008
+NAP M  ~00~#008
+;000111C0{ROPE G ~00~}#011#008
+CUERDA ~00~#008
+;000111C8{MINE   ~00~}#011#008
+MINA   ~00~#008
+;000111D0{BAZOOKA~00~}#011#008
+BAZUCA ~00~#008
+;000111D8{SPREAD ~00~}#011#008
+ESPARCE~00~#008
+;000111E0{SIDE   ~00~}#011#008
+LADO   ~00~#008
+;000111E8{AIR    ~00~}#011#008
+AIRE   ~00~#008
+;000111F0{HELP   ~00~}#011#008
+AYUDA  ~00~#008
+;000111F8{MIS CAN~00~}#011#008
+CAÑ.MIS~00~#008
+;00011200{PA CAN ~00~}#011#008
+CAÑ.PAR~00~#008
+;00011208{GIANT  ~00~}#011#008
+GIGANTE~00~#008
+;00011210{HUNTER ~00~}#011#008
+CAZADOR~00~#008
+;00011218{~00~}#004#001
+~00~#001
+;00011219{~00~}#004#001
+~00~#001
+;0001121A{GAME OVER CONTINUE  TIMEDESTROYED ENEMIES THE DEFENSIVE BOSS APPEARSSTAGE  CLEARBONUS 00000 PTS· ENEMIESFIN                           HAND ~00~}#146#140
+GAME OVER 
+CONTINUA
+   EN 
+ENEMIGOS DESTRUI. 
+EL JEFE DEFENSIVO APARECE 
+ETAPA  ACABA
+BONOS 00000 PTS· ENEMIES
+FIN                           MANO ~00~#140
+;000112A6{OPTION ~00~}#011#008
+OPCIÓN ~00~#008
+;000112AE{TOTAL~00~}#009#006
+TOTAL~00~#006
+;000112B4{TARGET ENEMIESEQUIPPED WEAPONS ~00~}#035#032
+  OBJETIVOS   
+ARMAS EQUIPADAS  ~00~#032
+;000112D4{ESCAPE ~00~}#011#008
+ESCAPA ~00~#008
+;000112DC{UNIT ~00~}#009#006
+UNID ~00~#006
+;000112E2{LAST BATTLE~00~}#015#012
+ÚLT BATALLA~00~#012
+;000112EE{ABCD BATTLE~00~}#015#012
+PELEA ABCD ~00~#012
+;000112FA{VS}#002#002
+VS#002
+|558
+@00013722-00013789-00
+;00013722{STAGE 6~00~}#011#008
+ETAPA 6~00~#008
+;0001372A{ GREAT BULL    ~00~}#019#016
+ GRAN TORO     ~00~#016
+;0001373A{BLACK KNIGHTS  ~00~}#019#016
+CABALLEROS N.  ~00~#016
+;0001374A{ TWIN EAGLE    ~00~}#019#016
+ÁGUILA GEMELA  ~00~#016
+;0001375A{ SPIDER WEB    ~00~}#019#016
+ RED ARAÑA     ~00~#016
+;0001376A{  MOLE HILL    ~00~}#019#016
+ COLINA TOPO   ~00~#016
+;0001377A{    AXIS       ~00~}#019#016
+    EJE        ~00~#016
+|104
+@0005DA28-0005E027-00
+;0005DA28{    STAFF               ORIGNAL       M·AKISHINO            PROGRAM        H·IZUMINO  M·SUGIYAMA            SUB PROGRAM       K·UENO      Y·TANI  C·TOKUHIRO            IMAGE ILLUST  H·MIKIMOTO            GRAPHICS         F·ISHII      M·SATOM·MATSUSHIMA    K·NAGATA S·KINEBUCHI   Y·OHNISHI  Y·USHIJIMA            MUSIC              M·UNO  M·SAKURABA    Y·SHIONO            S·E·            Y·SHIONO            PLANNING         K·INOUE            PLANNING         ADVISER      K·GOTO            AD DESIGN        F·ISHII            BUSINESS           WORKS   J·ASANUMA       M·UNO    H·KAYANO            THANKS          K·IIJIMA H·OGASAWARA     T·OGURA    A·KABAYA    Y·KOHAMA F·SHIMOYAMA    K·SUZUKI    H·SUZUKI  S·SEKIZUKA       T·SOU    T·TAKEDA    K·TAJIMA    T·TOYOTA  T·HAGIWARA    T·HAMADA A·HIGURASHI    F·FUKAYA      T·HORI   S·MIYOSHI  T·YAMAMOTO  S·ROKUMOTO  O·WATANABE            U·S· STAFF       S·YAZEL    H·HIRAGA       R·LEE      D·IZAT            SPECIAL        THANKS TO K·FUKUSHIMA            PRODUCER      M·AKISHINO                                                                                                                                                                                                PRESENTED BY    WOLFTEAM                                                                                                                                                                                                                                                                                                }#1704#1536
+   EQUIPO   
+            
+ORIGINAL    
+  M·AKISHINO
+            
+PROGRAMA    
+   H·IZUMINO
+  M·SUGIYAMA
+            
+SUB PROGRAMA
+      K·UENO
+      Y·TANI
+  C·TOKUHIRO
+            
+ILUSTRADOR  
+  H·MIKIMOTO
+            
+GRÁFICOS    
+     F·ISHII
+      M·SATO
+M·MATSUSHIMA
+    K·NAGATA
+ S·KINEBUCHI
+   Y·OHNISHI
+  Y·USHIJIMA
+            
+MÚSICA      
+       M·UNO
+  M·SAKURABA
+    Y·SHIONO
+            
+EFECTOS     
+    Y·SHIONO
+            
+PLAN        
+     K·INOUE
+            
+PLAN        
+     ADVISER
+      K·GOTO
+            
+DISEÑO AD   
+     F·ISHII
+            
+NEGOCIO     
+       WORKS
+   J·ASANUMA
+       M·UNO
+    H·KAYANO
+            
+GRACIAS     
+    K·IIJIMA
+ H·OGASAWARA
+     T·OGURA
+    A·KABAYA
+    Y·KOHAMA
+ F·SHIMOYAMA
+    K·SUZUKI
+    H·SUZUKI
+  S·SEKIZUKA
+       T·SOU
+    T·TAKEDA
+    K·TAJIMA
+    T·TOYOTA
+  T·HAGIWARA
+    T·HAMADA
+ A·HIGURASHI
+    F·FUKAYA
+      T·HORI
+   S·MIYOSHI
+  T·YAMAMOTO
+  S·ROKUMOTO
+  O·WATANABE
+            
+EQUIPO EEUU 
+     S·YAZEL
+    H·HIRAGA
+       R·LEE
+      D·IZAT
+            
+GRACIAS     
+ESPECIALES A
+ K·FUKUSHIMA
+            
+PRODUCTOR   
+  M·AKISHINO
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+PRESENTADO  
+         POR
+    WOLFTEAM
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                        #1536
+|1536

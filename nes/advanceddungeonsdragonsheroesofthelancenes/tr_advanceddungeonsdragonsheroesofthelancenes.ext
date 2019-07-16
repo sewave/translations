@@ -1,0 +1,330 @@
+@000106AF-00010ACC-FF
+;00000000{ERROR~FF~}#009#006
+ERROR~FF~#006
+;00000006{Only death will==force Goldmoon to==give up the Staff~FF~}#057#054
+Solo la muerte ==forzará a Goldmoon==a dejar la Vara ~FF~#054
+;0000003C{Raistlin will not==part with the Staff~FF~}#042#039
+Raistlin no dejará  ==la Vara         ~FF~#039
+;00000063{Sturm will not give==up his Sword~FF~}#037#034
+Sturm no dejará su ==Espada      ~FF~#034
+;00000085{The Staff flares==as you attempt==to give it to==~40~~FF~}#057#051
+La Vara llamea al  ==intentar       ==dársela a==~40~~FF~#051
+;000000B8{There are no==items to be==dropped~FF~}#038#035
+No hay objetos ==a soltar         ~FF~#035
+;000000DB{There are no==items available~FF~}#033#030
+No hay objetos==disponibles  ~FF~#030
+;000000F9{There is==nothing to give==to anyone~FF~}#040#037
+No hay  ==nada a dar a   ==nadie    ~FF~#037
+;0000011E{The Staff of Magius==burns your hands as==you touch it~FF~}#058#055
+La Vara de Magius  ==quema tus manos al ==tocarla     ~FF~#055
+;00000155{A brief blue flare==from the Staff burns==your arm~FF~}#054#051
+Una breve llama azul==de la Vara quema  ==tu brazo~FF~#051
+;00000188{The dead person will==not accept the item~FF~}#045#042
+La persona muerta no==aceptará el objeto ~FF~#042
+;000001B2{Cannot carry,==overloaded~FF~}#029#026
+No puede,  ==sobrecargado~FF~#026
+;000001CC{Raistlin is not==one of the first==four héroes~FF~}#050#047
+Raistlin no es ==uno de los 1os==cuatro héroes~FF~#047
+;000001FB{None of héroes 1-4==have the Blue==Crystal Staff~FF~}#052#049
+Los héroes 1-4 no==tienen la Vara==Cristal Azul ~FF~#049
+;0000022C{Raistlin must be==party leader for==this Spell~FF~}#050#047
+Raistlin debe ser==líder para usar==el hechizo~FF~#047
+;0000025B{The Staff of Magius==has no power at==the present time~FF~}#058#055
+La Vara de Magius  ==no tiene poder ==ahora mismo     ~FF~#055
+;00000292{The Blue Crystal==Staff has no power==at the present~FF~}#056#053
+La Vara del Cristal==Azul no tiene poder==ahora     ~FF~#053
+;000002C7{Tasslehoff locates==and removes a trap~FF~}#042#039
+Tasslehoff ubica y==elimina una trampa~FF~#039
+;000002EE{The Waterfall has==cured some of your==wounds~FF~}#049#046
+La Cascada ha==curado algunas de==tus heridas~FF~#046
+;0000031C{You hear the sound==of distant alarm==bells~FF~}#047#044
+Oyes campanas de ==alarma a lo lejos ==    ~FF~#044
+;00000348{Riverwind moves to==the front to protect==Goldmoon~FF~}#054#051
+Riverwind va al   ==frente a proteger a ==Goldmoon~FF~#051
+;0000037B{The Potion cures==some of your wounds~FF~}#041#038
+La Poción cura  ==algunas heridas    ~FF~#038
+;000003A1{You feel stronger==now~FF~}#026#023
+Te sientes más==fuerte~FF~#023
+;000003B8{The Monsters appear==to slow down~FF~}#037#034
+Los monstruos ==parecen ir lento ~FF~#034
+;000003DA{You feel more==confident~FF~}#028#025
+Te sientes más==seguro  ~FF~#025
+;000003F3{You feel more==confident wearing==the Ring~FF~}#046#043
+Te sientes más==seguro llevando==el Anillo~FF~#043
+|1054
+@00010ACD-00010CAE-FF
+;00000000{~40~=cannot use this item~FF~}#029#023
+~40~=no puede usar eso   ~FF~#023
+;00000017{took~FF~}#008#005
+tomó~FF~#005
+;0000001C{dropped~FF~}#011#008
+soltó  ~FF~#008
+;00000024{gave~FF~}#008#005
+dio ~FF~#005
+;00000029{SAVED DATA ==INCOMPATIBLE==WITH CURRENT GAME.~FF~}#049#046
+DATOS NO  ==COMPATIBLES CON EL==JUEGO ACTUAL.~FF~#046
+;00000057{GAME DATA SAVED.==TURN OFF THE POWER AS==PUSHING RESET BUTTON.==OR THE DATA MAY BE==ERASED BY ACCIDENT.~FF~}#107#104
+DATOS GUARDADOS.==APAGA MIENTRAS PULSAS==EL BOTÓN RESET.    ==O LOS DATOS SE      ==PODRÍAN BORRAR.    ~FF~#104
+;000000BF{Lair of the Dragon..==Save game not==allowed~FF~}#048#045
+Guarida del Dragón..==No se puede  ==guardar~FF~#045
+;000000EC{Lair of the Dragon..==Load game not==allowed~FF~}#048#045
+Guarida del Dragón..==No se puede  ==cargar ~FF~#045
+;00000119{Raistlin prepares to==use this spell~FF~}#040#037
+Raistlin se prepara   ==este hechizo~FF~#037
+;0000013E{==Do you want==save this game?===      YES==      NO~FF~}#056#053
+==¿Quieres guardar==este juego?===      SÍ==      NO~FF~#053
+;00000173{=GAME DATA LOADED.~FF~}#022#019
+=JUEGO CARGADO.   ~FF~#019
+;00000186{==Do you want==use this spell?===      YES==      NO~FF~}#056#053
+==¿Quieres usar==este hechizo?===      SÍ ==      NO~FF~#053
+;000001BB{Party found==The Waterfall~FF~}#030#027
+Grupo halló==La Cascada   ~FF~#027
+;000001D6{to ~FF~}#007#004
+a  ~FF~#004
+;000001DA{CHARGE'~FF~}#011#008
+CARGAR'~FF~#008
+|482
+@00010CB9-00010D44-FF
+;00000000{    Hero select       Give=~FF~}#031#028
+    Elige Héroe       Da  =~FF~#028
+;0000001C{  Magic User spells   Drop=~FF~}#031#028
+  Hechizos de Mago    Deja=~FF~#028
+;00000038{Clerical staff Spells Take=~FF~}#031#028
+ Hechizos de Clérigo  Toma=~FF~#028
+;00000054{       Use            Save=~FF~}#031#028
+       Usa            Salv=~FF~#028
+;00000070{      Score           Load=~FF~}#031#028
+      Puntos          Carg=~FF~#028
+|140
+@00010D56-00010DB3-FF
+;00000000{Charm~FF~}#009#006
+Encan~FF~#006
+;00000006{=Sleep~FF~}#010#007
+=Dormi~FF~#007
+;0000000D{=Magic missile~FF~}#018#015
+=Misil Mágico ~FF~#015
+;0000001C{=Web~FF~}#008#005
+=Red~FF~#005
+;00000021{=Detect magic~FF~}#017#014
+=Detec. magia~FF~#014
+;0000002F{=Detect invisible~FF~}#021#018
+=Detec. invisible~FF~#018
+;00000041{=Final strike~FF~}#017#014
+=Golpe final ~FF~#014
+;0000004F{=Burning hands~FF~}#018#015
+=Mano Ardiente~FF~#015
+|94
+@00010DC7-00010E5A-FF
+;00000000{Cure light wound~FF~}#020#017
+Cura ligera     ~FF~#017
+;00000011{=Protection from evil~FF~}#025#022
+=Protección del mal  ~FF~#022
+;00000027{=Find  traps~FF~}#016#013
+=Halla tramp~FF~#013
+;00000034{=Hold person~FF~}#016#013
+=Inmovilizar~FF~#013
+;00000041{=Spiritual hammer~FF~}#021#018
+=Martillo espirit~FF~#018
+;00000053{=prayer~FF~}#011#008
+=Orar  ~FF~#008
+;0000005B{=Cure critical wounds~FF~}#025#022
+=Cura herida crítica ~FF~#022
+;00000071{=Raise dead~FF~}#015#012
+=Levanta mu~FF~#012
+;0000007D{=Deflect dragon breath~FF~}#026#023
+=Desvía aliento dragón~FF~#023
+|148
+@00010E6C-00010E8E-FF
+;00000000{    Game 1~FF~}#014#011
+   Juego 1~FF~#011
+;0000000B{=    Game 2~FF~}#015#012
+=   Juego 2~FF~#012
+;00000017{=    Game 3~FF~}#015#012
+=   Juego 3~FF~#012
+|35
+@00010E9A-00010EA6-FF
+;00000000{    New Game~FF~}#016#013
+   Empezar  ~FF~#013
+|13
+@00010ECE-00010F3C-FF
+;00000000{        MAIN MENU        MAGIC USER SPELLS   CLERICAL STAFF SPELLS       SAVE GAME             LOAD GAME       }#111#111
+     MENÚ PRINCIPAL     
+  HECHIZOS DE MAGO   
+ HECHIZOS DE CLÉRIGO 
+    SALVAR JUEGO     
+      CARGAR JUEGO      #111
+|111
+@00011BA9-00011BBB-FF
+;00000000{Please Select Game~FF~}#022#019
+Elige una Partida ~FF~#019
+|19
+@00013350-00013438-FF
+;00000000{Tanis           Caramon         Raistlin        Sturm           Goldmoon        Riverwind       Tasselhoff      Flint           DEAD            ~E0~~B3~~E7~~B3~~F0~~B3~~FA~~B3~~01~~B4~~0B~~B4~~16~~B4~"~B4~Tanis ~FF~}#215#167
+Tanis           Caramon         Raistlin        Sturm           Goldmoon        Riverwind       Tasselhoff      Flint          MUERTO           ~E0~~B3~~E7~~B3~~F0~~B3~~FA~~B3~~01~~B4~~0B~~B4~~16~~B4~"~B4~Tanis ~FF~#167
+;000000A7{Caramon ~FF~}#012#009
+Caramon ~FF~#009
+;000000B0{Raistlin ~FF~}#013#010
+Raistlin ~FF~#010
+;000000BA{Sturm ~FF~}#010#007
+Sturm ~FF~#007
+;000000C1{Goldmoon ~FF~}#013#010
+Goldmoon ~FF~#010
+;000000CB{Riverwind ~FF~}#014#011
+Riverwind ~FF~#011
+;000000D6{Tasslehoff ~FF~}#015#012
+Tasslehoff ~FF~#012
+;000000E2{Flint ~FF~}#010#007
+Flint ~FF~#007
+|233
+@00014A6F-00014AC9-FF
+;00000000{Experience Points==Goldmoon==Sturm==Caramon==Raistlin==Tanis==Tasselhoff==Riverwind==Flint~FF~}#094#091
+Puntos Experienc.==Goldmoon==Sturm==Caramon==Raistlin==Tanis==Tasselhoff==Riverwind==Flint~FF~#091
+|91
+@00014FF8-0001540C-FF
+;00000000{You failed in your==quest for the==Disks of Mishakal==~FF~}#058#055
+Fallaste en tu==aventura por los==Discos de Mishakal==~FF~#055
+;00000037{Congratulations!===You have recovered==the Disks of Mishakal~FF~}#064#061
+¡Felicidades!   ===Has recuperado los==Discos de Mishakal   ~FF~#061
+;00000074{Khisanth is dead. But==you left her treasure==the Disks of Mishakal~FF~}#071#068
+Khisanth murió. Pero ==le dejaste guardar los ==Discos de Mishakal ~FF~#068
+;000000B8{Prepare to enter==Xak Tsaroth~FF~}#033#030
+ Prepárate para ==Xak Tsaroth~FF~#030
+;000000D6{    Game developed by=   U.S. Gold Ltd and=Strategic Simulations,Inc.==_1988,1990 TSR, Inc.=       All Rights Reserved=_1988,1990 SSI, Inc.=       All Rights Reserved=  Presented by FCI, Inc.=    and Pony Canyon, Inc.==     LICENSED BY=NINTENDO OF AMERICA INC.~FF~}#264#261
+    Desarrollado por =    U.S. Gold Ltd y =Strategic Simulations,Inc.==_1988,1990 TSR, Inc.=       Derechos Reservados=_1988,1990 SSI, Inc.=       Derechos Reservados=    Presenta FCI, Inc.  =     y Pony Canyon, Inc. ==     LICENCIA DE=NINTENDO DE AMÉRICA INC.~FF~#261
+;000001DB{        SSI PRESENTS==    HEROES OF THE LANCE==        AN OFFICIAL==ADVANCED DUNGEONS [ DRAGONS ^==      COMPUTER PRODUCT==A DRAGONLANCE\] ACTION GAME===ADVANCED DUNGEONS [ DRAGONS,==    AD[D,DRAGONLANCE and=the TSR logo are trademarks=     owned by TSR,INC.,==Lake Geneva,WI,USA and used=     under license from=Strategic Simulations,inc,=     Sunnyvale,CA,USA~FF~}#365#362
+        SSI PRESENTA==    HEROES DE LA LANZA ==        UN PRODUCTO==OFICIAL DE ADVANCED DUNGEONS ==      AND DRAGONS ^   ==JUEGO ACCIÓN \] DRAGONLANCE===ADVANCED DUNGEONS [ DRAGONS,==    AD[D,DRAGONLANCE y  = el logo TSR son marcas de =        TSR,INC.,      ==Lake Geneva,WI,USA y usadas=      bajo licencia de =Strategic Simulations,inc,=     Sunnyvale,CA,USA~FF~#362
+;00000345{=    CONGRATULATIONS!===  YOU HAVE RECOVERED== THE DISKS OF MISHAKAL==AND THE GODS RESCUE YOU==  FROM Xak Tsaroth.==PLEASE LOOK FOR FURTHER ==ADVENTURES IN THE SEQUEL,==    DRAGONS OF FLAME.~FF~}#194#191
+=     ¡FELICIDADES!  ===  HAS RECUPERADO LOS== DISCOS DE MISHAKAL Y ==LOS DIOSES TE RESCATAN ==   DE Xak Tsaroth. ==POR FAVOR MIRA PRÓXIMAS ==AVENTURAS EN LA SECUELA, ==   DRAGONES DE LLAMA.~FF~#191
+;00000404{TO BE CONTINUED.~FF~}#020#017
+CONTINUARÁ.     ~FF~#017
+|1045
+@00015A1F-00015A36-FF
+;00000000{MAP No. 0123456789ABCDEF}#024#024
+MAPA N. 0123456789ABCDEF#024
+|24
+@00015B40-00015B78-FF
+;00000000{ GAME START== LOAD GAME~FF~}#027#024
+  EMPEZAR  ==  CARGAR  ~FF~#024
+;00000018{          PUSH START            ~FF~}#036#033
+         PULSA START            ~FF~#033
+|57
+@000173C6-000173D8-FF
+;00000000{HEROES OF THE LANCE}#019#019
+HEROES DE LA LANZA #019
+|19
+@0001761A-0001763E-FF
+;00000000{ Total Points   ~E0~~E1~~00~~E6~                 }#049#037
+ Puntos Total   ~E0~~E1~~00~~E6~                 #037
+|37
+@00017656-00017679-FF
+;00000000{ Game Points     ~E7~~A0~~82~~83~               }#048#036
+ Puntos Juego    ~E7~~A0~~82~~83~               #036
+|36
+@0001AF36-0001AFC0-FF
+;00000000{            SCORE       =   Baaz   ~40~  Bozak  ~40~==   Troll  ~40~  Wraith ~40~==   Minion ~40~  Aghar1 ~40~==   Aghar2 ~40~  men    ~40~==   Spider ~40~  Dragon ~40~~FF~}#172#139
+            PUNTOS      =   Baaz   ~40~  Bozak  ~40~==   Troll  ~40~  Fantas ~40~==   Secuaz ~40~  Aghar1 ~40~==   Aghar2 ~40~  hom    ~40~==   Araña  ~40~  Dragón ~40~~FF~#139
+|139
+@0001B07F-0001B08F-FF
+;00000000{Party Experience }#017#017
+Experiencia Grup #017
+|17
+@0001FFF0-00020009-FF
+;00000000{HEROES OF THE LA~BC~~09~~E3~N3~04~~01~~0F~~CE~~BA~}#050#026
+HEROES OF THE LA~BC~~09~~E3~N3~04~~01~~0F~~CE~~BA~#026
+|26
+@000102D8-000102E8-FF
+;00000000{             Str }#017#017
+             Fue #017
+|17
+@00010318-00010328-FF
+;00000000{             lnt }#017#017
+             Int #017
+|17
+@00010338-00010354-FF
+;00000000{ Using                       }#029#029
+ Usando                      #029
+|29
+@00010359-00010368-FF
+;00000000{            Wis }#016#016
+            Sab #016
+|16
+@00010398-000103A8-FF
+;00000000{ Item        Con }#017#017
+ Objeto      Con #017
+|17
+@000103D9-000103E8-FF
+;00000000{            Dex }#016#016
+            Des #016
+|16
+@00010418-00010428-FF
+;00000000{             Cha }#017#017
+             Car #017
+|17
+@00010459-00010468-FF
+;00000000{Hit points 00/99}#016#016
+Vida       00/99#016
+|16
+@0001051C-00010652-FF
+;00000000{Staff of= Magius~FF~}#020#017
+Vara de = Magius~FF~#017
+;00000011{Sword~FF~}#009#006
+Espad~FF~#006
+;00000017{Dagger~FF~}#010#007
+Daga  ~FF~#007
+;0000001E{Sling~FF~}#009#006
+Honda~FF~#006
+;00000024{Jo-stick~FF~}#012#009
+Palo-Jo ~FF~#009
+;0000002D{Long Sword~FF~}#014#011
+Espada Lar~FF~#011
+;00000038{Hand axe~FF~}#012#009
+Hacha ma~FF~#009
+;00000041{Red Quiver~FF~}#014#011
+Carcaj Roj~FF~#011
+;0000004C{Quiver~FF~}#010#007
+Carcaj~FF~#007
+;00000053{Pouch~FF~}#009#006
+Bolsa~FF~#006
+;00000059{Bracelet~FF~}#012#009
+Brazalet~FF~#009
+;00000062{Shield~FF~}#010#007
+Escudo~FF~#007
+;00000069{Gem~FF~}#007#004
+Gem~FF~#004
+;0000006D{Gold Bar~FF~}#012#009
+Barra Or~FF~#009
+;00000076{Silver Bar~FF~}#014#011
+Barra Plat~FF~#011
+;00000081{Gold Chalice~FF~}#016#013
+Cáliz Dorado~FF~#013
+;0000008E{Silver Chalice~FF~}#018#015
+Cáliz Plateado~FF~#015
+;0000009D{Coins~FF~}#009#006
+Moned~FF~#006
+;000000A3{Hunting Knife~FF~}#017#014
+Cuchillo Caza~FF~#014
+;000000B1{Scroll~FF~}#010#007
+Pergam~FF~#007
+;000000B8{Green Potion~FF~}#016#013
+Poción Verde~FF~#013
+;000000C5{Brown Potion~FF~}#016#013
+Poción Marró~FF~#013
+;000000D2{Red Potion~FF~}#014#011
+Poción Roj~FF~#011
+;000000DD{Blue Potion~FF~}#015#012
+Poción Azul~FF~#012
+;000000E9{Yellow Potion~FF~}#017#014
+Poción Amaril~FF~#014
+;000000F7{Ring~FF~}#008#005
+Anil~FF~#005
+;000000FC{Gem Ring~FF~}#012#009
+Anillo G~FF~#009
+;00000105{Wand~FF~}#008#005
+Vara~FF~#005
+;0000010A{Disks of= Mishakal~FF~}#022#019
+Discos de=Mishakal~FF~#019
+;0000011D{Blue Crystal= Staff~FF~}#023#020
+Vara Cristal= Azul ~FF~#020
+;00000131{Spear~FF~}#009#006
+Lanza~FF~#006
+|311

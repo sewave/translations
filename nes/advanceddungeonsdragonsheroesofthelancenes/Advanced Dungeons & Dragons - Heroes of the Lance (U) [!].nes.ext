@@ -1,0 +1,130 @@
+@000102D8-00010314-00
+;00000000{             Str '::::::::& ~81~~91~~00~}#040#031
+             Str '::::::::& ~81~~91~~00~#031
+;0000001F{~E6~                            ~90~}#036#030
+~E6~                            ~90~#030
+|61
+@00010318-00010378-00
+;00000000{             lnt '::::::::& ~E0~~E1~~00~}#040#031
+             lnt '::::::::& ~E0~~E1~~00~#031
+;0000001F{~8F~ Using                       ~E7~~00~}#041#032
+~8F~ Using                       ~E7~~00~#032
+;0000003F{~82~~83~            Wis '::::::::& ~E0~~E1~~00~}#047#032
+~82~~83~            Wis '::::::::& ~E0~~E1~~00~#032
+;0000005F{~92~~93~}#008#002
+~92~~93~#002
+|97
+@00010398-000103D5-00
+;00000000{ Item        Con '::::::::& ~E0~~E1~~00~}#040#031
+ Item        Con '::::::::& ~E0~~E1~~00~#031
+;0000001F{~E6~                             ~E7~}#037#031
+~E6~                             ~E7~#031
+|62
+@000103D9-000103F8-00
+;00000000{            Dex '::::::::& ~81~~91~~00~}#039#030
+            Dex '::::::::& ~81~~91~~00~#030
+;0000001E{~92~~93~}#008#002
+~92~~93~#002
+|32
+@00010418-00010455-00
+;00000000{             Cha '::::::::&  ~E7~~00~}#037#031
+             Cha '::::::::&  ~E7~~00~#031
+;0000001F{~8F~                             ~E7~}#037#031
+~8F~                             ~E7~#031
+|62
+@00010459-00010478-00
+;00000000{Hit points 00/99'::::::::& ~8C~~8D~~00~}#039#030
+Hit points 00/99'::::::::& ~8C~~8D~~00~#030
+;0000001E{~00~}#004#001
+~00~#001
+;0000001F{~9B~}#004#001
+~9B~#001
+|32
+@0001051C-00010656-00
+;00000000{Staff of~0D~ Magius~FF~Sword~FF~Dagger~FF~Sling~FF~Jo-stick~FF~Long Sword~FF~Hand axe~FF~Red Quiver~FF~Quiver~FF~Pouch~FF~Bracelet~FF~Shield~FF~Gem~FF~Gold Bar~FF~Silver Bar~FF~Gold Chalice~FF~Silver Chalice~FF~Coins~FF~Hunting Knife~FF~Scroll~FF~Green Potion~FF~Brown Potion~FF~Red Potion~FF~Blue Potion~FF~Yellow Potion~FF~Ring~FF~Gem Ring~FF~Wand~FF~Disks of~0D~ Mishakal~FF~Blue Crystal~0D~ Staff~FF~Spear~FF~~9F~~86~~9F~~86~}#429#315
+Staff of~0D~ Magius~FF~Sword~FF~Dagger~FF~Sling~FF~Jo-stick~FF~Long Sword~FF~Hand axe~FF~Red Quiver~FF~Quiver~FF~Pouch~FF~Bracelet~FF~Shield~FF~Gem~FF~Gold Bar~FF~Silver Bar~FF~Gold Chalice~FF~Silver Chalice~FF~Coins~FF~Hunting Knife~FF~Scroll~FF~Green Potion~FF~Brown Potion~FF~Red Potion~FF~Blue Potion~FF~Yellow Potion~FF~Ring~FF~Gem Ring~FF~Wand~FF~Disks of~0D~ Mishakal~FF~Blue Crystal~0D~ Staff~FF~Spear~FF~~9F~~86~~9F~~86~#315
+|315
+@000106AF-00010CB2-00
+;00000000{ERROR~FF~Only death will~0D~~0D~force Goldmoon to~0D~~0D~give up the Staff~FF~Raistlin will not~0D~~0D~part with the Staff~FF~Sturm will not give~0D~~0D~up his Sword~FF~The Staff flares~0D~~0D~as you attempt~0D~~0D~to give it to~0D~~0D~~40~~FF~There are no~0D~~0D~items to be~0D~~0D~dropped~FF~There are no~0D~~0D~items available~FF~There is~0D~~0D~nothing to give~0D~~0D~to anyone~FF~The Staff of Magius~0D~~0D~burns your hands as~0D~~0D~you touch it~FF~A brief blue flare~0D~~0D~from the Staff burns~0D~~0D~your arm~FF~The dead person will~0D~~0D~not accept the item~FF~Cannot carry,~0D~~0D~overloaded~FF~Raistlin is not~0D~~0D~one of the first~0D~~0D~four heroes~FF~None of heroes 1-4~0D~~0D~have the Blue~0D~~0D~Crystal Staff~FF~Raistlin must be~0D~~0D~party leader for~0D~~0D~this Spell~FF~The Staff of Magius~0D~~0D~has no power at~0D~~0D~the present time~FF~The Blue Crystal~0D~~0D~Staff has no power~0D~~0D~at the present~FF~Tasslehoff locates~0D~~0D~and removes a trap~FF~The Waterfall has~0D~~0D~cured some of your~0D~~0D~wounds~FF~You hear the sound~0D~~0D~of distant alarm~0D~~0D~bells~FF~Riverwind moves to~0D~~0D~the front to protect~0D~~0D~Goldmoon~FF~The Potion cures~0D~~0D~some of your wounds~FF~You feel stronger~0D~~0D~now~FF~The Monsters appear~0D~~0D~to slow down~FF~You feel more~0D~~0D~confident~FF~You feel more~0D~~0D~confident wearing~0D~~0D~the Ring~FF~~40~~0D~cannot use this item~FF~took~FF~dropped~FF~gave~FF~SAVED DATA ~0D~~0D~INCOMPATIBLE~0D~~0D~WITH CURRENT GAME.~FF~GAME DATA SAVED.~0D~~0D~TURN OFF THE POWER AS~0D~~0D~PUSHING RESET BUTTON.~0D~~0D~OR THE DATA MAY BE~0D~~0D~ERASED BY ACCIDENT.~FF~Lair of the Dragon..~0D~~0D~Save game not~0D~~0D~allowed~FF~Lair of the Dragon..~0D~~0D~Load game not~0D~~0D~allowed~FF~Raistlin prepares to~0D~~0D~use this spell~FF~~0D~~0D~Do you want~0D~~0D~save this game?~0D~~0D~~0D~      YES~0D~~0D~      NO~FF~~0D~GAME DATA LOADED.~FF~~0D~~0D~Do you want~0D~~0D~use this spell?~0D~~0D~~0D~      YES~0D~~0D~      NO~FF~Party found~0D~~0D~The Waterfall~FF~to ~FF~CHARGE'~FF~~A9~~8C~~C5~~8C~}#2059#1540
+ERROR~FF~Only death will~0D~~0D~force Goldmoon to~0D~~0D~give up the Staff~FF~Raistlin will not~0D~~0D~part with the Staff~FF~Sturm will not give~0D~~0D~up his Sword~FF~The Staff flares~0D~~0D~as you attempt~0D~~0D~to give it to~0D~~0D~~40~~FF~There are no~0D~~0D~items to be~0D~~0D~dropped~FF~There are no~0D~~0D~items available~FF~There is~0D~~0D~nothing to give~0D~~0D~to anyone~FF~The Staff of Magius~0D~~0D~burns your hands as~0D~~0D~you touch it~FF~A brief blue flare~0D~~0D~from the Staff burns~0D~~0D~your arm~FF~The dead person will~0D~~0D~not accept the item~FF~Cannot carry,~0D~~0D~overloaded~FF~Raistlin is not~0D~~0D~one of the first~0D~~0D~four heroes~FF~None of heroes 1-4~0D~~0D~have the Blue~0D~~0D~Crystal Staff~FF~Raistlin must be~0D~~0D~party leader for~0D~~0D~this Spell~FF~The Staff of Magius~0D~~0D~has no power at~0D~~0D~the present time~FF~The Blue Crystal~0D~~0D~Staff has no power~0D~~0D~at the present~FF~Tasslehoff locates~0D~~0D~and removes a trap~FF~The Waterfall has~0D~~0D~cured some of your~0D~~0D~wounds~FF~You hear the sound~0D~~0D~of distant alarm~0D~~0D~bells~FF~Riverwind moves to~0D~~0D~the front to protect~0D~~0D~Goldmoon~FF~The Potion cures~0D~~0D~some of your wounds~FF~You feel stronger~0D~~0D~now~FF~The Monsters appear~0D~~0D~to slow down~FF~You feel more~0D~~0D~confident~FF~You feel more~0D~~0D~confident wearing~0D~~0D~the Ring~FF~~40~~0D~cannot use this item~FF~took~FF~dropped~FF~gave~FF~SAVED DATA ~0D~~0D~INCOMPATIBLE~0D~~0D~WITH CURRENT GAME.~FF~GAME DATA SAVED.~0D~~0D~TURN OFF THE POWER AS~0D~~0D~PUSHING RESET BUTTON.~0D~~0D~OR THE DATA MAY BE~0D~~0D~ERASED BY ACCIDENT.~FF~Lair of the Dragon..~0D~~0D~Save game not~0D~~0D~allowed~FF~Lair of the Dragon..~0D~~0D~Load game not~0D~~0D~allowed~FF~Raistlin prepares to~0D~~0D~use this spell~FF~~0D~~0D~Do you want~0D~~0D~save this game?~0D~~0D~~0D~      YES~0D~~0D~      NO~FF~~0D~GAME DATA LOADED.~FF~~0D~~0D~Do you want~0D~~0D~use this spell?~0D~~0D~~0D~      YES~0D~~0D~      NO~FF~Party found~0D~~0D~The Waterfall~FF~to ~FF~CHARGE'~FF~~A9~~8C~~C5~~8C~#1540
+|1540
+@00010CB9-00010D46-00
+;00000000{    Hero select       Give~0D~~FF~  Magic User spells   Drop~0D~~FF~Clerical staff Spells Take~0D~~FF~       Use            Save~0D~~FF~      Score           Load~0D~~FF~E~8D~}#175#142
+    Hero select       Give~0D~~FF~  Magic User spells   Drop~0D~~FF~Clerical staff Spells Take~0D~~FF~       Use            Save~0D~~FF~      Score           Load~0D~~FF~E~8D~#142
+|142
+@00010D56-00010DB7-00
+;00000000{Charm~FF~~0D~Sleep~FF~~0D~Magic missile~FF~~0D~Web~FF~~0D~Detect magic~FF~~0D~Detect invisible~FF~~0D~Final strike~FF~~0D~Burning hands~FF~~B6~~8D~~C8~~8D~}#155#098
+Charm~FF~~0D~Sleep~FF~~0D~Magic missile~FF~~0D~Web~FF~~0D~Detect magic~FF~~0D~Detect invisible~FF~~0D~Final strike~FF~~0D~Burning hands~FF~~B6~~8D~~C8~~8D~#098
+|98
+@00010DC7-00010E5E-00
+;00000000{Cure light wound~FF~~0D~Protection from evil~FF~~0D~Find  traps~FF~~0D~Hold person~FF~~0D~Spiritual hammer~FF~~0D~prayer~FF~~0D~Cure critical wounds~FF~~0D~Raise dead~FF~~0D~Deflect dragon breath~FF~~B6~~8D~~DE~~8D~}#215#152
+Cure light wound~FF~~0D~Protection from evil~FF~~0D~Find  traps~FF~~0D~Hold person~FF~~0D~Spiritual hammer~FF~~0D~prayer~FF~~0D~Cure critical wounds~FF~~0D~Raise dead~FF~~0D~Deflect dragon breath~FF~~B6~~8D~~DE~~8D~#152
+|152
+@00010E6C-00010E92-00
+;00000000{    Game 1~FF~~0D~    Game 2~FF~~0D~    Game 3~FF~~0D~~FF~[~8E~}#063#039
+    Game 1~FF~~0D~    Game 2~FF~~0D~    Game 3~FF~~0D~~FF~[~8E~#039
+|39
+@00010E9A-00010EAA-00
+;00000000{    New Game~FF~~0A~~A8~~B9~~B4~}#032#017
+    New Game~FF~~0A~~A8~~B9~~B4~#017
+|17
+@00010ECE-00010F42-00
+;00000000{        MAIN MENU        MAGIC USER SPELLS   CLERICAL STAFF SPELLS       SAVE GAME             LOAD GAME       ~96~~B6~~A9~~02~ ~E1~}#132#117
+        MAIN MENU        MAGIC USER SPELLS   CLERICAL STAFF SPELLS       SAVE GAME             LOAD GAME       ~96~~B6~~A9~~02~ ~E1~#117
+|117
+@00011BA4-00011BBD-00
+;00000000{CL~AE~~B2~~FF~Please Select Game~FF~ ~96~}#041#026
+CL~AE~~B2~~FF~Please Select Game~FF~ ~96~#026
+|26
+@0001334F-000133E4-00
+;00000000{`Tanis           Caramon         Raistlin        Sturm           Goldmoon        Riverwind       Tasselhoff      Flint           DEAD            ~E0~~B3~~E7~~B3~~F0~}#165#150
+`Tanis           Caramon         Raistlin        Sturm           Goldmoon        Riverwind       Tasselhoff      Flint           DEAD            ~E0~~B3~~E7~~B3~~F0~#150
+|150
+@000133F0-0001343C-00
+;00000000{Tanis ~FF~Caramon ~FF~Raistlin ~FF~Sturm ~FF~Goldmoon ~FF~Riverwind ~FF~Tasslehoff ~FF~Flint ~FF~~0E~~0B~~0C~~0F~}#113#077
+Tanis ~FF~Caramon ~FF~Raistlin ~FF~Sturm ~FF~Goldmoon ~FF~Riverwind ~FF~Tasslehoff ~FF~Flint ~FF~~0E~~0B~~0C~~0F~#077
+|77
+@00014A6B-00014ACD-00
+;00000000{DL~A2~~8F~Experience Points~0D~~0D~Goldmoon~0D~~0D~Sturm~0D~~0D~Caramon~0D~~0D~Raistlin~0D~~0D~Tanis~0D~~0D~Tasselhoff~0D~~0D~Riverwind~0D~~0D~Flint~FF~~A5~~9E~~C9~~0B~}#168#099
+DL~A2~~8F~Experience Points~0D~~0D~Goldmoon~0D~~0D~Sturm~0D~~0D~Caramon~0D~~0D~Raistlin~0D~~0D~Tanis~0D~~0D~Tasselhoff~0D~~0D~Riverwind~0D~~0D~Flint~FF~~A5~~9E~~C9~~0B~#099
+|99
+@00014FF8-0001540F-00
+;00000000{You failed in your~0D~~0D~quest for the~0D~~0D~Disks of Mishakal~0D~~0D~~FF~Congratulations!~0D~~0D~~0D~You have recovered~0D~~0D~the Disks of Mishakal~FF~Khisanth is dead. But~0D~~0D~you left her treasure~0D~~0D~the Disks of Mishakal~FF~Prepare to enter~0D~~0D~Xak Tsaroth~FF~    Game developed by~0D~   U.S. Gold Ltd and~0D~Strategic Simulations,Inc.~0D~~0D~_1988,1990 TSR, Inc.~0D~       All Rights Reserved~0D~_1988,1990 SSI, Inc.~0D~       All Rights Reserved~0D~  Presented by FCI, Inc.~0D~    and Pony Canyon, Inc.~0D~~0D~     LICENSED BY~0D~NINTENDO OF AMERICA INC.~FF~        SSI PRESENTS~0D~~0D~    HEROES OF THE LANCE~0D~~0D~        AN OFFICIAL~0D~~0D~ADVANCED DUNGEONS [ DRAGONS ^~0D~~0D~      COMPUTER PRODUCT~0D~~0D~A DRAGONLANCE\] ACTION GAME~0D~~0D~~0D~ADVANCED DUNGEONS [ DRAGONS,~0D~~0D~    AD[D,DRAGONLANCE and~0D~the TSR logo are trademarks~0D~     owned by TSR,INC.,~0D~~0D~Lake Geneva,WI,USA and used~0D~     under license from~0D~Strategic Simulations,inc,~0D~     Sunnyvale,CA,USA~FF~~0D~    CONGRATULATIONS!~0D~~0D~~0D~  YOU HAVE RECOVERED~0D~~0D~ THE DISKS OF MISHAKAL~0D~~0D~AND THE GODS RESCUE YOU~0D~~0D~  FROM Xak Tsaroth.~0D~~0D~PLEASE LOOK FOR FURTHER ~0D~~0D~ADVENTURES IN THE SEQUEL,~0D~~0D~    DRAGONS OF FLAME.~FF~TO BE CONTINUED.~FF~~8A~H~A9~}#1279#1048
+You failed in your~0D~~0D~quest for the~0D~~0D~Disks of Mishakal~0D~~0D~~FF~Congratulations!~0D~~0D~~0D~You have recovered~0D~~0D~the Disks of Mishakal~FF~Khisanth is dead. But~0D~~0D~you left her treasure~0D~~0D~the Disks of Mishakal~FF~Prepare to enter~0D~~0D~Xak Tsaroth~FF~    Game developed by~0D~   U.S. Gold Ltd and~0D~Strategic Simulations,Inc.~0D~~0D~_1988,1990 TSR, Inc.~0D~       All Rights Reserved~0D~_1988,1990 SSI, Inc.~0D~       All Rights Reserved~0D~  Presented by FCI, Inc.~0D~    and Pony Canyon, Inc.~0D~~0D~     LICENSED BY~0D~NINTENDO OF AMERICA INC.~FF~        SSI PRESENTS~0D~~0D~    HEROES OF THE LANCE~0D~~0D~        AN OFFICIAL~0D~~0D~ADVANCED DUNGEONS [ DRAGONS ^~0D~~0D~      COMPUTER PRODUCT~0D~~0D~A DRAGONLANCE\] ACTION GAME~0D~~0D~~0D~ADVANCED DUNGEONS [ DRAGONS,~0D~~0D~    AD[D,DRAGONLANCE and~0D~the TSR logo are trademarks~0D~     owned by TSR,INC.,~0D~~0D~Lake Geneva,WI,USA and used~0D~     under license from~0D~Strategic Simulations,inc,~0D~     Sunnyvale,CA,USA~FF~~0D~    CONGRATULATIONS!~0D~~0D~~0D~  YOU HAVE RECOVERED~0D~~0D~ THE DISKS OF MISHAKAL~0D~~0D~AND THE GODS RESCUE YOU~0D~~0D~  FROM Xak Tsaroth.~0D~~0D~PLEASE LOOK FOR FURTHER ~0D~~0D~ADVENTURES IN THE SEQUEL,~0D~~0D~    DRAGONS OF FLAME.~FF~TO BE CONTINUED.~FF~~8A~H~A9~#1048
+|1048
+@00015A1B-00015A3A-00
+;00000000{ Li~9B~MAP No. 0123456789ABCDEF~A9~~00~}#039#030
+ Li~9B~MAP No. 0123456789ABCDEF~A9~~00~#030
+;0000001E{ ~C0~}#005#002
+ ~C0~#002
+|32
+@00015B40-00015B7D-00
+;00000000{ GAME START~0D~~0D~ LOAD GAME~FF~          PUSH START            ~FF~~A5~~99~~F0~D~C9~}#086#062
+ GAME START~0D~~0D~ LOAD GAME~FF~          PUSH START            ~FF~~A5~~99~~F0~D~C9~#062
+|62
+@000173C6-000173DD-00
+;00000000{HEROES OF THE LANCE~1B~~19~~19~~19~~19~}#039#024
+HEROES OF THE LANCE~1B~~19~~19~~19~~19~#024
+|24
+@0001761A-0001763F-00
+;00000000{ Total Points   ~E0~~E1~~00~}#028#019
+ Total Points   ~E0~~E1~~00~#019
+;00000013{~E6~                 ~E7~}#025#019
+~E6~                 ~E7~#019
+|38
+@00017656-0001767A-00
+;00000000{ Game Points     ~E7~~A0~~82~~83~               ~E0~}#052#037
+ Game Points     ~E7~~A0~~82~~83~               ~E0~#037
+|37
+@0001AF36-0001AFC3-00
+;00000000{            SCORE       ~0D~   Baaz   ~40~  Bozak  ~40~~0D~~0D~   Troll  ~40~  Wraith ~40~~0D~~0D~   Minion ~40~  Aghar1 ~40~~0D~~0D~   Aghar2 ~40~  men    ~40~~0D~~0D~   Spider ~40~  Dragon ~40~~FF~~A5~~9E~~85~}#211#142
+            SCORE       ~0D~   Baaz   ~40~  Bozak  ~40~~0D~~0D~   Troll  ~40~  Wraith ~40~~0D~~0D~   Minion ~40~  Aghar1 ~40~~0D~~0D~   Aghar2 ~40~  men    ~40~~0D~~0D~   Spider ~40~  Dragon ~40~~FF~~A5~~9E~~85~#142
+|142
+@0001B07F-0001B092-00
+;00000000{Party Experience ~FC~ ~E2~}#026#020
+Party Experience ~FC~ ~E2~#020
+|20
+@0001FFF0-00020009-00
+;00000000{HEROES OF THE LA~BC~~09~~E3~N3~04~~01~~0F~~CE~~BA~}#050#026
+HEROES OF THE LA~BC~~09~~E3~N3~04~~01~~0F~~CE~~BA~#026
+|26

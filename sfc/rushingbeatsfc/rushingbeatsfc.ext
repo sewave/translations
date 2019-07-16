@@ -1,0 +1,140 @@
+@00000A77-00000A8A-FE
+;00000A77{PUSH STARTGAME OVER }#020#020
+PUSH STARTGAME OVER #020
+|20
+@00009FE7-00009FFC-FE
+;00009FE7{TITLEPUSH START 1 OR 2}#022#022
+TITLEPUSH START 1 OR 2#022
+|22
+@0000D555-0000D5E0-FE
+;0000D555{OPTION MODELEVELSTOCKCONTINUE2PLAY HITANGRY MODESOUND MODES.E.  SAMPLERMUSIC SAMPLERPLAYER1 JUMPNORMAL  ATTACKSPECIAL ATTACKPLAYER2 JUMPEXIT}#140#140
+OPTION MODELEVELSTOCKCONTINUE2PLAY HITANGRY MODESOUND MODES.E.  SAMPLERMUSIC SAMPLERPLAYER1 JUMPNORMAL  ATTACKSPECIAL ATTACKPLAYER2 JUMPEXIT#140
+|140
+@0000D61D-0000D644-FE
+;0000D61D{OFF ON  STEREOMONAURAL  EASYNORMAL  HARD}#040#040
+OFF ON  STEREOMONAURAL  EASYNORMAL  HARD#040
+|40
+@0000F1AD-0000F645-FE
+;0000F1AD{ ~A0~~A1~~A2~e~A3~~A4~~A5~~A6~_~B7~~AD~e~A7~~B0~~B9~~7C~ms yr~7B~~82~ yr~9E~~7C~v ~7C~n~9E~~7F~x~FE~}#100#037
+ ~A0~~A1~~A2~e~A3~~A4~~A5~~A6~_~B7~~AD~e~A7~~B0~~B9~~7C~ms yr~7B~~82~ yr~9E~~7C~v ~7C~n~9E~~7F~x~FE~#037
+;0000F1D2{0~7F~zf s~9E~zx~85~a_~A0~~A1~~A2~e~A3~~A4~~A5~~A6~~9E~~80~~85~?~FE~}#067#025
+0~7F~zf s~9E~zx~85~a_~A0~~A1~~A2~e~A3~~A4~~A5~~A6~~9E~~80~~85~?~FE~#025
+;0000F1EB{,~7F~s~9E~~80~~9E~vdro~80~r ~85~~9D~~89~~96~s~9E~~80~?~FD~0_u~8F~t~89~r~93~s~84~~8A~_~9C~~9A~~9C~~9A~~9E~v q~9E~~7D~vo~80~a~FE~}#127#049
+,~7F~s~9E~~80~~9E~vdro~80~r ~85~~9D~~89~~96~s~9E~~80~?~FD~0_u~8F~t~89~r~93~s~84~~8A~_~9C~~9A~~9C~~9A~~9E~v q~9E~~7D~vo~80~a~FE~#049
+;0000F21C{,~85~~9D~~9E~~80~~84~!w~7B~~8F~dro~80~r ~85~~9D~~89~~80~~92~~86~!?~FD~0_~9C~~9A~~9C~~9A~~9E~v ~8E~~7C~r~89~~8A~d_r~93~s~84~~9E~v u~8F~t~86~q~9E~~7D~y~80~ ~9E~~AB~~9E~~AC~~AD~~AC~~A4~~9F~~AE~~9E~~80~a~FE~}#203#071
+,~85~~9D~~9E~~80~~84~!w~7B~~8F~dro~80~r ~85~~9D~~89~~80~~92~~86~!?~FD~0_~9C~~9A~~9C~~9A~~9E~v ~8E~~7C~r~89~~8A~d_r~93~s~84~~9E~v u~8F~t~86~q~9E~~7D~y~80~ ~9E~~AB~~9E~~AC~~AD~~AC~~A4~~9F~~AE~~9E~~80~a~FE~#071
+;0000F263{0~7F~~89~~AC~~A4~~9F~~AE~f~93~o~83~d_q~7D~~89~q~7B~d~A7~~AC~~AF~e~B0~~B1~~9E~~A7~~AA~~BA~~8F~~9E~~83~dw~85~a~FE~}#112#037
+0~7F~~89~~AC~~A4~~9F~~AE~f~93~o~83~d_q~7D~~89~q~7B~d~A7~~AC~~AF~e~B0~~B1~~9E~~A7~~AA~~BA~~8F~~9E~~83~dw~85~a~FE~#037
+;0000F288{0q~89~~AC~~A4~~9F~~AE~~9E~vq~99~~84~d~94~ovr~85~~9D~~9E~~80~~96~¨~FE~}#069#024
+0q~89~~AC~~A4~~9F~~AE~~9E~vq~99~~84~d~94~ovr~85~~9D~~9E~~80~~96~¨~FE~#024
+;0000F2A0{,~E2~~A0~~AA~¨a~FE~}#019#007
+,~E2~~A0~~AA~¨a~FE~#007
+;0000F2A7{(u~D1~~81~l~9D~d~E3~~B0~~A2~~A4~~9F~~AE~~96~a_~9E~~A7~~A4~~B2~~B0~~89~ ~84~~98~~8B~w~9E~y~9D~~9E~~8A~f ~84~~97~t~80~~89~a~FE~}#125#041
+(u~D1~~81~l~9D~d~E3~~B0~~A2~~A4~~9F~~AE~~96~a_~9E~~A7~~A4~~B2~~B0~~89~ ~84~~98~~8B~w~9E~y~9D~~9E~~8A~f ~84~~97~t~80~~89~a~FE~#041
+;0000F2D0{(z~9A~~9E~~83~ ~9C~~80~~7C~~93~d_r~81~~98~ms~89~~B3~~9F~~B4~~B5~~B6~~B1~~A4~~84~~7C~~83~ ~90~~84~~92~~97~~9A~~99~~9C~¨~FE~}#122#038
+(z~9A~~9E~~83~ ~9C~~80~~7C~~93~d_r~81~~98~ms~89~~B3~~9F~~B4~~B5~~B6~~B1~~A4~~84~~7C~~83~ ~90~~84~~92~~97~~9A~~99~~9C~¨~FE~#038
+;0000F2F6{,~E2~~A0~~AA~¨a_~8F~o~83~r~9B~dwo~84~u~8F~tf ~80~~7D~y~9E~~80~~7C~~83~~94~~99~~9E~~7F~a~FE~}#091#034
+,~E2~~A0~~AA~¨a_~8F~o~83~r~9B~dwo~84~u~8F~tf ~80~~7D~y~9E~~80~~7C~~83~~94~~99~~9E~~7F~a~FE~#034
+;0000F318{ z~89~ ~7D~s~88~~9D~dzz~B7~~AD~e~A7~~B0~~B9~~9E~~83~~8A~_~9E~~A7~~A4~~B2~~B0~~84~~96~~9E~~8A~~9A~~99~ ~7C~~9D~~9E~v~80~ vx~7E~r~9E~~7B~r~9E~v_~8F~~9D~t~9D~~7C~~83~r~80~a~FE~}#173#059
+ z~89~ ~7D~s~88~~9D~dzz~B7~~AD~e~A7~~B0~~B9~~9E~~83~~8A~_~9E~~A7~~A4~~B2~~B0~~84~~96~~9E~~8A~~9A~~99~ ~7C~~9D~~9E~v~80~ vx~7E~r~9E~~7B~r~9E~v_~8F~~9D~t~9D~~7C~~83~r~80~a~FE~#059
+;0000F353{ ~7F~~89~ ~90~~82~~9E~~8A~r~7F~~7C~w~89~ ~9E~~7C~o~80~r~8A~d_~9E~~A7~~C2~~BB~~B2~~B3~~84~rs ~85~~8F~tr~9E~vr ~85~~9E~~7F~~86~~82~~82~~8F~~9A~d_~8F~~81~~8A~ zs~8A~r~89~ ro~84~f ~80~~9E~~84~o~83~r~80~¨~FE~}#203#074
+ ~7F~~89~ ~90~~82~~9E~~8A~r~7F~~7C~w~89~ ~9E~~7C~o~80~r~8A~d_~9E~~A7~~C2~~BB~~B2~~B3~~84~rs ~85~~8F~tr~9E~vr ~85~~9E~~7F~~86~~82~~82~~8F~~9A~d_~8F~~81~~8A~ zs~8A~r~89~ ro~84~f ~80~~9E~~84~o~83~r~80~¨~FE~#074
+;0000F39D{ ~9E~~B1~~9E~~A2~~B5~~B0~e~9E~~AB~~B3~~9E~~A5~_~B7~~AD~e~A7~~B0~~B9~~7C~ms yr~7B~~82~ ~9E~~7C~m~9D~~7B~~9E~~8C~~81~nsa~FE~}#122#041
+ ~9E~~B1~~9E~~A2~~B5~~B0~e~9E~~AB~~B3~~9E~~A5~_~B7~~AD~e~A7~~B0~~B9~~7C~ms yr~7B~~82~ ~9E~~7C~m~9D~~7B~~9E~~8C~~81~nsa~FE~#041
+;0000F3C6{$~A3~~A4~~A5~~A6~d~9C~~80~~7C~~93~ro~7C~n~86~ ~80~~80~v~9C~~7E~~83~x~9A~a~FE~}#077#026
+$~A3~~A4~~A5~~A6~d~9C~~80~~7C~~93~ro~7C~n~86~ ~80~~80~v~9C~~7E~~83~x~9A~a~FE~#026
+;0000F3E0{$~9C~~80~~7C~~8A~dw~90~~80~~81~~9E~v ~81~r~7B~~85~z~9B~v~97~_~D7~u~94~~9E~v~9C~~98~~89~ ~82~~93~~98~~9E~~83~ ~90~~8F~~93~o~83~w~80~a_~94~~8A~~98~dw~90~~80~~81~f ~8E~so~83~~8A~ uy~9D~~96~a~FE~}#191#068
+$~9C~~80~~7C~~8A~dw~90~~80~~81~~9E~v ~81~r~7B~~85~z~9B~v~97~_~D7~u~94~~9E~v~9C~~98~~89~ ~82~~93~~98~~9E~~83~ ~90~~8F~~93~o~83~w~80~a_~94~~8A~~98~dw~90~~80~~81~f ~8E~so~83~~8A~ uy~9D~~96~a~FE~#068
+;0000F424{,~9E~~AB~~B3~~9E~~A5~~7B~~9D~¨~FE~}#034#010
+,~9E~~AB~~B3~~9E~~A5~~7B~~9D~¨~FE~#010
+;0000F42E{,~E2~~A0~~AA~~8A~~9E~~84~z~9E~~80~a~8A~x~9E~~7C~ns~7C~~9B~!~FD~$_~7B~qdv~9D~~88~~9D~ ~7D~~99~~9D~~9E~~80~~85~a~FE~}#114#039
+,~E2~~A0~~AA~~8A~~9E~~84~z~9E~~80~a~8A~x~9E~~7C~ns~7C~~9B~!~FD~$_~7B~qdv~9D~~88~~9D~ ~7D~~99~~9D~~9E~~80~~85~a~FE~#039
+;0000F455{(~93~s~94~~92~~83~!u~D1~~81~l~9D~du~9E~~7C~~7B~~8F~!~FE~}#056#020
+(~93~s~94~~92~~83~!u~D1~~81~l~9D~du~9E~~7C~~7B~~8F~!~FE~#020
+;0000F469{,~E2~~A0~~AA~!ro~80~rd~9E~~84~s~7C~~83~¨~FD~(_u~D1~~81~l~9D~dz~89~~D6~~8A~¨~FE~}#079#031
+,~E2~~A0~~AA~!ro~80~rd~9E~~84~s~7C~~83~¨~FD~(_u~D1~~81~l~9D~dz~89~~D6~~8A~¨~FE~#031
+;0000F488{(z~89~~D6~~8A~d~9C~~80~~7C~~80~~81~~89~ u~D7~~7B~~9D~~85~~89~!~FD~$_~85~~9D~~9E~~80~o~83~!zr~82~~9E~v w~90~~80~~81~~89~¨?!~FE~}#126#045
+(z~89~~D6~~8A~d~9C~~80~~7C~~80~~81~~89~ u~D7~~7B~~9D~~85~~89~!~FD~$_~85~~9D~~9E~~80~o~83~!zr~82~~9E~v w~90~~80~~81~~89~¨?!~FE~#045
+;0000F4B5{,~D7~~7B~~9D~¨dro~80~rd~9E~~84~s~7C~~83~¨~FE~}#045#018
+,~D7~~7B~~9D~¨dro~80~rd~9E~~84~s~7C~~83~¨~FE~#018
+;0000F4C7{0~9E~~A7~~A4~~B2~~B0~~8A~ ~93~~84~~93~~84~d_~86~x~80~r~89~~9F~~C0~~C1~~A4~f ~7B~r~9E~~80~r~8F~~9E~~83~ ~8B~w~9E~~80~~7D~~80~~92~~86~_~9C~~80~~7C~~9E~v vr~8A~~82~~7C~~80~~93~~89~¨~FE~}#182#059
+0~9E~~A7~~A4~~B2~~B0~~8A~ ~93~~84~~93~~84~d_~86~x~80~r~89~~9F~~C0~~C1~~A4~f ~7B~r~9E~~80~r~8F~~9E~~83~ ~8B~w~9E~~80~~7D~~80~~92~~86~_~9C~~80~~7C~~9E~v vr~8A~~82~~7C~~80~~93~~89~¨~FE~#059
+;0000F502{0~7C~v~7C~~7F~~9A~~8A~d_vx~84~sv~84~~7C~~83~~89~ ~9C~~80~~7C~f_~94~~90~~89~~7E~vr~8D~ ~90~~81~~9E~~8B~x~93~~89~~9E~~83~~93~qo~80~¨~FE~}#134#047
+0~7C~v~7C~~7F~~9A~~8A~d_vx~84~sv~84~~7C~~83~~89~ ~9C~~80~~7C~f_~94~~90~~89~~7E~vr~8D~ ~90~~81~~9E~~8B~x~93~~89~~9E~~83~~93~qo~80~¨~FE~#047
+;0000F531{0~9C~~80~~7C~~9E~v ~9E~~A7~~C2~~BB~~B2~~B3~f yo~7E~r~7C~~80~~89~~8A~d_z~89~ ~7E~vrf ~94~~90~~86~vt~99~~80~~92~¨_~9C~~80~~7C~~8A~d~7F~s~7C~~83~~DB~w~99~~96~~98~~8E~v~86~~85~vo~80~¨~FE~}#183#066
+0~9C~~80~~7C~~9E~v ~9E~~A7~~C2~~BB~~B2~~B3~f yo~7E~r~7C~~80~~89~~8A~d_z~89~ ~7E~vrf ~94~~90~~86~vt~99~~80~~92~¨_~9C~~80~~7C~~8A~d~7F~s~7C~~83~~DB~w~99~~96~~98~~8E~v~86~~85~vo~80~¨~FE~#066
+;0000F573{0~A0~~A1~~A2~d~82~~96~x~85~o~80~~85~¨_~7C~v~7C~du~8F~t~8A~d_yo~7C~~83~d~94~~90~~89~~7E~vr~86~d~90~r~97~~9A~~83~~8A~~85~~97~~9D~a~FE~}#132#048
+0~A0~~A1~~A2~d~82~~96~x~85~o~80~~85~¨_~7C~v~7C~du~8F~t~8A~d_yo~7C~~83~d~94~~90~~89~~7E~vr~86~d~90~r~97~~9A~~83~~8A~~85~~97~~9D~a~FE~#048
+;0000F5A3{0s~7C~~85~s~93~~89~~9E~vduuw~7D~~9E~w~99~v~97~~85~¨~FE~}#055#022
+0s~7C~~85~s~93~~89~~9E~vduuw~7D~~9E~w~99~v~97~~85~¨~FE~#022
+;0000F5B9{(u~D7~~7B~~9D~du~D7~~7B~~9D~!~FD~,_z~9A~~9E~~83~rr~9D~~9E~~80~az~9A~~9E~~83~rr~9D~~9E~~80~~96~¨a~FE~}#100#037
+(u~D7~~7B~~9D~du~D7~~7B~~9D~!~FD~,_z~9A~~9E~~83~rr~9D~~9E~~80~az~9A~~9E~~83~rr~9D~~9E~~80~~96~¨a~FE~#037
+;0000F5DE{,~96~s~94~x ~D7~~7B~~9D~~8A~d_~94~~90~~89~~7E~vrv~97~ ~89~~9E~v~9A~~97~~9A~~80~~9D~~9E~~80~¨~FE~}#096#033
+,~96~s~94~x ~D7~~7B~~9D~~8A~d_~94~~90~~89~~7E~vrv~97~ ~89~~9E~v~9A~~97~~9A~~80~~9D~~9E~~80~¨~FE~#033
+;0000F5FF{$~94~~7D~~97~v~86~~88~~91~o~83~x~9A~¨a_u~8F~t~89~ r~7C~~8A~dyo~7C~~83~ wt~99~z~84~~8A~~85~ra~FE~}#096#039
+$~94~~7D~~97~v~86~~88~~91~o~83~x~9A~¨a_u~8F~t~89~ r~7C~~8A~dyo~7C~~83~ wt~99~z~84~~8A~~85~ra~FE~#039
+;0000F626{$~A0~~A1~~A2~~89~~DE~~89~~D4~~9E~~83~dr~82~~8F~~9E~~83~~93~_~DB~w~82~~9E~~82~y~99~~89~~9E~~80~¨~FE~}#099#030
+$~A0~~A1~~A2~~89~~DE~~89~~D4~~9E~~83~dr~82~~8F~~9E~~83~~93~_~DB~w~82~~9E~~82~y~99~~89~~9E~~80~¨~FE~#030
+;0000F644{$ }#002#002
+$ #002
+|1177
+@0000F646-0000FB2B-FE
+;0000F646{         STAFF         _                        ~FE~}#052#049
+         STAFF         _                        ~FE~#049
+;0000F677{$MAIN PROGRAMMER_~FD~(              PANIC YUMA_                        ~FE~}#075#069
+$MAIN PROGRAMMER_~FD~(              PANIC YUMA_                        ~FE~#069
+;0000F6BC{$SUB PROGRAMMER_~FD~                 AZVEAR-S_        KURONEKO T.OHARA_                        ~FE~}#099#093
+$SUB PROGRAMMER_~FD~                 AZVEAR-S_        KURONEKO T.OHARA_                        ~FE~#093
+;0000F719{$SUPPORT PROGRAMMER_~FD~              PAPA SEKIYA_                        ~FE~}#078#072
+$SUPPORT PROGRAMMER_~FD~              PAPA SEKIYA_                        ~FE~#072
+;0000F761{$SUPPORT PROGRAMMER_~FD~       DRAGONS2 M.SHIRATO_             --- HYU ---_                        ~FE~}#103#097
+$SUPPORT PROGRAMMER_~FD~       DRAGONS2 M.SHIRATO_             --- HYU ---_                        ~FE~#097
+;0000F7C2{$GRAPHIC DESIGNER_~FD~     x~97~~93~~81~ ~89~~9E~~8C~~95~w~8F~~99~ ~7B~r~9E~~80~r24~93~~9E~~7C~_                        ~FE~}#124#073
+$GRAPHIC DESIGNER_~FD~     x~97~~93~~81~ ~89~~9E~~8C~~95~w~8F~~99~ ~7B~r~9E~~80~r24~93~~9E~~7C~_                        ~FE~#073
+;0000F80B{$GRAPHIC DESIGNER_~FD~              LAKUKU ~8F~tv~9C~_             BG-TADAHIKO_                        ~FE~}#107#095
+$GRAPHIC DESIGNER_~FD~              LAKUKU ~8F~tv~9C~_             BG-TADAHIKO_                        ~FE~#095
+;0000F86A{$GRAPHIC DESIGNER_~FD~(         HASEGAWA~FD~ (~9F~~8A~~9D~~81~~92~~9D~)_~FD~(          RIT~FD~0~84~~FD~ TAM~FD~0~89~ s~90~~89~u~94~_                        ~FE~}#160#106
+$GRAPHIC DESIGNER_~FD~(         HASEGAWA~FD~ (~9F~~8A~~9D~~81~~92~~9D~)_~FD~(          RIT~FD~0~84~~FD~ TAM~FD~0~89~ s~90~~89~u~94~_                        ~FE~#106
+;0000F8D4{$SOUND COMPOSER_~FD~           ZOSOeTAKASHIBA_            ATSU.ISEMURA_                        ~FE~}#099#093
+$SOUND COMPOSER_~FD~           ZOSOeTAKASHIBA_            ATSU.ISEMURA_                        ~FE~#093
+;0000F931{$CONCEPTION_~FD~            USELESS KURA1_                        ~FE~}#070#064
+$CONCEPTION_~FD~            USELESS KURA1_                        ~FE~#064
+;0000F971{$NAVIGATOR_~FD~                YUKI.ARAI_                        ~FE~}#069#063
+$NAVIGATOR_~FD~                YUKI.ARAI_                        ~FE~#063
+;0000F9B0{$SPECIAL THANKS TO_~FD~        CYNTHIA LAN.G-x~9A~~8C~_   GROOBTUBE(M2)~FD~( AXZ-KEI_                        ~FE~}#113#098
+$SPECIAL THANKS TO_~FD~        CYNTHIA LAN.G-x~9A~~8C~_   GROOBTUBE(M2)~FD~( AXZ-KEI_                        ~FE~#098
+;0000FA12{$SPECIAL THANKS TO_~FD~                   ~BC~~A4~~A0~~A6~~9E~~A2~~D1~_               AOKI CODY_                        ~FE~}#124#097
+$SPECIAL THANKS TO_~FD~                   ~BC~~A4~~A0~~A6~~9E~~A2~~D1~_               AOKI CODY_                        ~FE~#097
+;0000FA73{$SPECIAL THANKS TO_~FD~              MORITA v~81~~7B~~84~_~FD~(   AND JALECO ALL STAFFS_                        ~FE~}#116#098
+$SPECIAL THANKS TO_~FD~              MORITA v~81~~7B~~84~_~FD~(   AND JALECO ALL STAFFS_                        ~FE~#098
+;0000FAD5{       RUSHING BEAT      _                        ~FE~}#054#051
+       RUSHING BEAT      _                        ~FE~#051
+;0000FB08{ PRESENTED BY_             JALECO LT}#036#036
+ PRESENTED BY_             JALECO LT#036
+|1254
+@0000FB2C-0000FB66-FE
+;0000FB2C{D.~FE~}#006#003
+D.~FE~#003
+;0000FB2F{(NAME ENTRY~FD~ ~9E~~83~~FD~(CHRCONF~FD~ ~84~r~9A~~99~~84~_~9E~~7C~~9E~~8C~~9D~~84~~83~w~89~~85~~8F~tfEDIT~9E~~83~w~99~~96~a~FE~}#128#056
+(NAME ENTRY~FD~ ~9E~~83~~FD~(CHRCONF~FD~ ~84~r~9A~~99~~84~_~9E~~7C~~9E~~8C~~9D~~84~~83~w~89~~85~~8F~tfEDIT~9E~~83~w~99~~96~a~FE~#056
+|59
+@00011B2F-00011B36-FF
+;00011B2F{CONTINUE}#008#008
+CONTINUE#008
+|8
+@0001485C-00014957-FF
+;0001485C{H I S C O R E ==R A N K I N G 1 S T 2 N D 3 R D 4 T H 5 T H E N T E R ==Y O U R ==N A M E A ==B ==C ==D ==E ==F ==G ==H I ==J ==K ==L ==M ==N ==O ==P Q ==R ==S ==T ==U ==V ==W ==X Y ==Z ==< ==~3D~ ==> ==? ======~E4~ C H A R A C T E R ==N A M E ==C O N F I G }#258#252
+H I S C O R E ==R A N K I N G 1 S T 2 N D 3 R D 4 T H 5 T H E N T E R ==Y O U R ==N A M E A ==B ==C ==D ==E ==F ==G ==H I ==J ==K ==L ==M ==N ==O ==P Q ==R ==S ==T ==U ==V ==W ==X Y ==Z ==< ==~3D~ ==> ==? ======~E4~ C H A R A C T E R ==N A M E ==C O N F I G #252
+|252
+@00014C77-00014CAA-FF
+;00014C77{==1 ==P L A Y E R 2 ==P L A Y E R S V S O P=T I O N }#052#052
+==1 ==P L A Y E R 2 ==P L A Y E R S V S O P=T I O N #052
+|52
+@00015468-00015473-FE
+;00015468{==E===N===D=}#012#012
+==E===N===D=#012
+|12
+@0008DE80-0008DF93-FE
+;0008DE80{S$T$A$G$E$ $1$          q v ~82~ w ~89~   ~B0~ ~A5~ ~A0~ ~A4~ ~A5~ S$T$A$G$E$ $2$            ~B0~ ~B1~ ~A7~ ~AA~ ~BA~ ~89~   ~E4~ ~84~ s S$T$A$G$E$ $3$          ~95~ s ~94~ ~90~ ~89~   ~8F~ ~83~ ~9D~ ~9B~ s S$T$A$G$E$ $4$    q ~9D~ z x ~89~   ~85~ ~9D~ ~8D~ r ~80~ r ~98~ x S$T$A$G$E$ $5$              ~7E~ ~9D~ ~98~ ~82~ ~89~   ~90~ ~85~ ~84~ S$T$A$G$E$ $6$~E5~ ~7E~ ~9D~ ! ~A7~ ~C2~ ~BB~ ~B2~ ~B3~ y ~9D~ w m s ~7C~ n }#420#276
+S$T$A$G$E$ $1$          q v ~82~ w ~89~   ~B0~ ~A5~ ~A0~ ~A4~ ~A5~ S$T$A$G$E$ $2$            ~B0~ ~B1~ ~A7~ ~AA~ ~BA~ ~89~   ~E4~ ~84~ s S$T$A$G$E$ $3$          ~95~ s ~94~ ~90~ ~89~   ~8F~ ~83~ ~9D~ ~9B~ s S$T$A$G$E$ $4$    q ~9D~ z x ~89~   ~85~ ~9D~ ~8D~ r ~80~ r ~98~ x S$T$A$G$E$ $5$              ~7E~ ~9D~ ~98~ ~82~ ~89~   ~90~ ~85~ ~84~ S$T$A$G$E$ $6$~E5~ ~7E~ ~9D~ ! ~A7~ ~C2~ ~BB~ ~B2~ ~B3~ y ~9D~ w m s ~7C~ n #276
+|276

@@ -1,0 +1,20 @@
+@00019E12-00019E26-FF
+;00019E12{ L E V E L           }#021#021
+ L E V E L           #021
+|21
+@00019FF2-0001A006-FF
+;00019FF2{ C O N T R O L       }#021#021
+ C O N T R O L       #021
+|21
+@0001A1D2-0001A1E6-FF
+;0001A1D2{ S O U N D           }#021#021
+ S O U N D           #021
+|21
+@0001A3B2-0001A3D1-FF
+;0001A3B2{ E X I T                        }#032#032
+ E X I T                        #032
+|32
+@0001A4DE-0001A54D-FF
+;0001A4DE{ L E V E L     l e v e l     C O N T R O ] c o n t r o [ S O U N D     s o u n d     E X I T       e x i t      }#112#112
+ L E V E L     l e v e l     C O N T R O ] c o n t r o [ S O U N D     s o u n d     E X I T       e x i t      #112
+|112

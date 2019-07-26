@@ -1,0 +1,142 @@
+@0001D710-0001D911-FF
+;0001D710{JUGADOR1====JUGADOR2======JUGADOR1====JUGADOR2====JUGADOR1==JUGADOR2~FF~}#072#069
+JUGADOR1====JUGADOR2======JUGADOR1====JUGADOR2====JUGADOR1==JUGADOR2~FF~#069
+;0001D755{~00~=~03~2P MATCH=NINE BALL GAME~FF~}#036#027
+~00~=~03~2JUGADRS=JUEGO 9 BOLAS ~FF~#027
+;0001D770{~04~~18~JUGADOR1       VS       JUGADOR2~FF~}#044#035
+~04~~18~JUGADOR 1      VS      JUGADOR 2~FF~#035
+;0001D793{~00~~0E~~03~2P MATCH=POCKET GAME~FF~}#036#024
+~00~~0E~~03~2JUGADRS=JUE. POCKET~FF~#024
+;0001D7AB{~00~~0C~~06~1UP~FF~}#019#007
+~00~~0C~~06~JU1~FF~#007
+;0001D7B2{~10~~06~2UP~FF~}#015#006
+~10~~06~JU2~FF~#006
+;0001D7B8{~00~~0A~    AND==GAME WINER!~FF~}#032#023
+~00~~0A~      Y==GANA JUEGO!~FF~#023
+;0001D7CF{~00~~00~~0A~CITY CHALLENGER~FF~}#031#019
+~00~~00~~0A~DESAFÍO CIUDAD ~FF~#019
+;0001D7E2{~00~~0A~CITY MASTER~FF~}#023#014
+~00~~0A~MAESTRO CI.~FF~#014
+;0001D7F0{~00~~0A~CITY CHAMPION~FF~}#025#016
+~00~~0A~CAMPEÓN CIUD.~FF~#016
+;0001D800{~00~~0A~JAPAN CHALLENGER~FF~}#028#019
+~00~~0A~DESAFÍO JAPÓN   ~FF~#019
+;0001D813{~00~~00~~0A~JAPAN MASTER~FF~}#028#016
+~00~~00~~0A~MAESTRO JAP.~FF~#016
+;0001D823{~00~~00~~0A~JAPAN CHAMPION~FF~}#030#018
+~00~~00~~0A~CAMPEÓN JAPÓN ~FF~#018
+;0001D835{~00~~00~~0A~U.S.A.CHALLENGER~FF~}#032#020
+~00~~00~~0A~DESAFÍO EEUU    ~FF~#020
+;0001D849{~00~~00~~0A~U.S.A.MASTER~FF~}#028#016
+~00~~00~~0A~MAESTRO EEUU~FF~#016
+;0001D859{~00~~00~~0A~U.S.A.CHAMPION~FF~}#030#018
+~00~~00~~0A~CAMPEÓN EEUU  ~FF~#018
+;0001D86B{~00~~00~~0A~WORLD CHALLENGER~FF~}#032#020
+~00~~00~~0A~DESAFÍO MUNDIAL ~FF~#020
+;0001D87F{~00~~00~~0A~WORLD MASTER~FF~}#028#016
+~00~~00~~0A~MAESTRO MUN.~FF~#016
+;0001D88F{~00~~00~~0A~WORLD CHAMPION~FF~}#030#018
+~00~~00~~0A~CAMPEÓN MUNDO ~FF~#018
+;0001D8A1{~00~~00~~0A~LET'S CHALLENGE SHOT~FF~}#036#024
+~00~~00~~0A~PROBEMOS RETO TIRO  ~FF~#024
+;0001D8B9{~00~~0A~~0A~~3D~NEXT~FF~}#024#009
+~00~~0A~~0A~~3D~PRÓX~FF~#009
+;0001D8C2{~14~~0A~~3D~NEXT~FF~}#020#008
+~14~~0A~~3D~PRÓX~FF~#008
+;0001D8CA{~0A~~02~POCKETED IN A ROW.~FF~}#030#021
+~0A~~02~METIDAS SEGUIDAS. ~FF~#021
+;0001D8DF{~00~~0A~~0C~NUMBER SEQUENCE.~FF~}#032#020
+~00~~0A~~0C~SECUENCIA NÚMER.~FF~#020
+;0001D8F3{~00~~06~~16~iiiiiiiiii TOTAL iiiiiiiiii~FF~}#043#031
+~00~~06~~16~iiiiiiiiii TOTAL iiiiiiiiii~FF~#031
+|514
+@0002374D-000237E0-FF
+;0002374D{=BANKING=START !~FF~}#020#017
+=EMPIEZA=BANQUEO~FF~#017
+;0002375E{~00~~0C~~00~=FOUL=RETRY !~FF~}#029#017
+~00~~0C~~00~=FALTA=OTRA !~FF~#017
+;0002376F{~00~~00~~0C~~00~=DRAW=RETRY !~FF~}#033#018
+~00~~00~~0C~~00~=EMPA=REINTE!~FF~#018
+;00023781{~00~~00~~0C~~00~=SAFE PLAY=CHANGE~FF~}#037#022
+~00~~00~~0C~~00~=JUEGO SE.=CAMBIO~FF~#022
+;00023797{~00~~00~~0C~~00~=FOUL !!=PENALTY !~FF~}#038#023
+~00~~00~~0C~~00~=FALTA!!=PENALIZA!~FF~#023
+;000237AE{~00~~0C~~00~=GET READY !=JUGADOR1~FF~}#037#025
+~00~~0C~~00~=PREPÁRATE !=JUGADOR1~FF~#025
+;000237C7{~00~~00~~0C~~00~=GET READY !=JUGADOR2~FF~}#041#026
+~00~~00~~0C~~00~=PREPÁRATE !=JUGADOR2~FF~#026
+|148
+@0002473F-00024798-FF
+;0002473F{PRESS START BUTTON~FF~}#022#019
+PULSA BOTÓN START ~FF~#019
+;00024752{~EC~~90~~00~~40~ 1992 DATA EAST CORPORATION.~FF~}#048#033
+~EC~~90~~00~~40~ 1992 DATA EAST CORPORATION.~FF~#033
+;00024773{~00~~ED~~14~~00~LICENSED BY SEGA ENTERPRISES LTD.~FF~}#053#038
+~00~~ED~~14~~00~LICENCIA DE SEGA ENTERPRISES LTD.~FF~#038
+|90
+@000256D9-00025969-FF
+;000256D9{\      Whispers       ~FF~}#026#023
+\      Whispers       ~FF~#023
+;000256F0{~C9~~90~~01~\     The Lounge      ~FF~}#038#026
+~C9~~90~~01~\     The Lounge      ~FF~#026
+;0002570A{~C9~~90~~01~\       Groovin'      ~FF~}#038#026
+~C9~~90~~01~\       Groovin'      ~FF~#026
+;00025724{~C9~~90~~01~\   Cue Ball Boogie   ~FF~}#038#026
+~C9~~90~~01~\   Cue Ball Boogie   ~FF~#026
+;0002573E{~C9~~90~~01~\    Play'n It Cool!  ~FF~}#038#026
+~C9~~90~~01~\    Play'n It Cool!  ~FF~#026
+;00025758{~C9~~90~~01~\      Las Vegas      ~FF~}#038#026
+~C9~~90~~01~\      Las Vegas      ~FF~#026
+;00025772{~C9~~90~~01~\     Come on Over    ~FF~}#038#026
+~C9~~90~~01~\     Come on Over    ~FF~#026
+;0002578C{~C9~~90~~01~\    Sunny Morning    ~FF~}#038#026
+~C9~~90~~01~\    Sunny Morning    ~FF~#026
+;000257A6{~C9~~90~~01~\    Midnight Kiss    ~FF~}#038#026
+~C9~~90~~01~\    Midnight Kiss    ~FF~#026
+;000257C0{~C9~~90~~01~\   Lazy Afternoon    ~FF~}#038#026
+~C9~~90~~01~\   Lazy Afternoon    ~FF~#026
+;000257DA{~C9~~90~~01~\    Natural Shot!    ~FF~}#038#026
+~C9~~90~~01~\    Natural Shot!    ~FF~#026
+;000257F4{~C9~~90~~01~\   Slow Down, Dude   ~FF~}#038#026
+~C9~~90~~01~\   Slow Down, Dude   ~FF~#026
+;0002580E{~C9~~90~~01~\   Ace In The Hole   ~FF~}#038#026
+~C9~~90~~01~\   Ace In The Hole   ~FF~#026
+;00025828{~C9~~90~~01~\     Meteor-Man      ~FF~}#038#026
+~C9~~90~~01~\     Meteor-Man      ~FF~#026
+;00025842{~C9~~90~~01~\   Round And Round   ~FF~}#038#026
+~C9~~90~~01~\   Round And Round   ~FF~#026
+;0002585C{~C9~~90~~01~\   Dinner for Two    ~FF~}#038#026
+~C9~~90~~01~\   Dinner for Two    ~FF~#026
+;00025876{~C9~~90~~01~\       Stylin'       ~FF~}#038#026
+~C9~~90~~01~\       Stylin'       ~FF~#026
+;00025890{~C9~~90~~01~\    Fight It Out     ~FF~}#038#026
+~C9~~90~~01~\    Fight It Out     ~FF~#026
+;000258AA{~C9~~90~~01~\      Chillin'       ~FF~}#038#026
+~C9~~90~~01~\      Chillin'       ~FF~#026
+;000258C4{~C9~~90~~01~\ California Lemonade ~FF~}#038#026
+~C9~~90~~01~\ California Lemonade ~FF~#026
+;000258DE{~C9~~90~~01~\    Don't Go, Baby   ~FF~}#038#026
+~C9~~90~~01~\    Don't Go, Baby   ~FF~#026
+;000258F8{~C9~~90~~01~\     Wrappin' Up     ~FF~}#038#026
+~C9~~90~~01~\     Wrappin' Up     ~FF~#026
+;00025912{~C9~~90~~01~       - EXIT -       ~FF~}#038#026
+~C9~~90~~01~       -SALIR-        ~FF~#026
+;0002592C{~C1~~08~~01~Jukebox.~FF~}#024#012
+~C1~~08~~01~Jukebox.~FF~#012
+;00025938{~CC~~18~~01~All music composed==           By Emi Shimizu.~FF~}#062#050
+~CC~~18~~01~Músicas compuestas==          Por Emi Shimizu.~FF~#050
+|657
+@000289F3-00028B47-FF
+;000289F3{- Director -=              Y.Koideya ~FF~}#041#038
+-Director-  =              Y.Koideya ~FF~#038
+;00028A19{~00~~CB~~90~~01~- Planner -=           Daore.Tsuzawa~FF~}#056#041
+~00~~CB~~90~~01~-Plan-     =           Daore.Tsuzawa~FF~#041
+;00028A42{~CB~~90~~01~- Programmers -=                   TALA.=                   Fuji.~FF~}#081#069
+~CB~~90~~01~-Programadores-=                   TALA.=                   Fuji.~FF~#069
+;00028A87{~00~~CB~~90~~01~- Sound -=             Koremasa.  =             Emi.Shimizu~FF~}#079#064
+~00~~CB~~90~~01~-Sonido- =             Koremasa.  =             Emi.Shimizu~FF~#064
+;00028AC7{~00~~CB~~90~~01~- Graphics -=                Pochi. =                MAO.   =                Megupi.~FF~}#104#089
+~00~~CB~~90~~01~-Gráficos-  =                Pochi. =                MAO.   =                Megupi.~FF~#089
+;00028B20{~CB~~90~~01~Presented By=              DATA EAST~FF~}#052#040
+~CB~~90~~01~Lo Presenta =              DATA EAST~FF~#040
+|341

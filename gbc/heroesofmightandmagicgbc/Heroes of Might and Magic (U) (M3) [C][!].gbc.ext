@@ -1,0 +1,665 @@
+@00005F5F-00005F9D-FF
+;00000000{0Cast Spel~EC~Flee from Battl~E5~Surrender to Enem~F9~Return to Comba~F4~*~DA~}#078#063
+0Cast Spel~EC~Flee from Battl~E5~Surrender to Enem~F9~Return to Comba~F4~*~DA~#063
+|63
+@000184E4-00018CCF-FF
+;00000000{hNew Gam~E5~Load Gam~E5~High Score~F3~Credit~F3~Languag~E5~~7E~ 2000 The 3DO Company~AE~All Rights Reserved~AE~~A0~3DO, Heroes of Might an~E4~Magic, and their respectiv~E5~logos, are trademarks and/o~F2~service marks o~E6~The 3DO Company in the U.S~AE~and other countries~AE~~A0~All other trademarks belon~E7~to their respective owners~AE~~A0~Developed b~F9~KnowWonder, Inc~AE~~A0~LICENSED BY NINTEND~CF~~A0~Scenario~BA~Map Size~BA~Difficulty~BA~Initial Resources~BA~Opponents~BA~Rating~BA~Small~A0~Medium~A0~Large~A0~Lot~F3~Som~E5~Fe~F7~Non~E5~Easy ~A0~Normal~A0~Hard~A0~Dumb  ~A0~Averag~E5~Smart ~A0~Initial Resource~F3~Opponent~F3~Rating:~A0~~A5~Are you sure? _Your game will be lost~A1~Kingdom Overvie~F7~World Ma~F0~View Puzzl~E5~Dig For Artifac~F4~Game Summar~F9~Game Option~F3~Exi~F4~Music Of~E6~Music O~EE~Sound Of~E6~Sound O~EE~Auto Save Of~E6~Auto Save O~EE~Show Path Of~E6~Show Path O~EE~New Gam~E5~Load Gam~E5~Save Gam~E5~Exi~F4~Auto Save Of~E6~Auto Save Slot ~B1~Auto Save Slot ~B2~Auto Save Slot ~B3~The Mage Guild is where heroes learn and replenish spells~AE~The Thieves'' Guild provides information on enemy players~AE~The Tavern increases morale for troops defending the castle~AE~The Shipyard is where ships are built~AE~The Well increases the growth rate of all dwellings~AE~The Castle improves town defense and income~AE~The Thatched Hut produces Peasants~AE~The Archery Range produces Archers~AE~The Blacksmith produces Pikemen~AE~The Armory produces Swordsmen~AE~The Jousting Arena produces Cavalries~AE~The Cathedral produces Paladins~AE~The Hut produces Goblins~AE~The Stick Hut produces Orcs~AE~The Den produces Wolves~AE~The Adobe produces Ogres~AE~The Bridge produces Trolls~AE~The Pyramid produces Cyclopes~AE~The Treehouse produces Sprites~AE~The Cottage produces Dwarves~AE~The Archery Range produces Elves~AE~Stonehenge produces Druids~AE~The Fenced Meadow produces Unicorns~AE~The Red Tower produces Phoenix~AE~The Cave produces Centaurs~AE~The Crypt produces Gargoyles~AE~The Nest produces Griffins~AE~The Maze produces Minotaurs~AE~The Swamp produces Hydras~AE~The Black Tower produces Dragon~F3~Press 'A' to exit~AE~ _You only have 7 days left to capture a town, or you will be banished from this land~AE~ _This is your last day to capture a town, or you will be banished from this land~AE~Available: ~40~1~A0~}#2346#2028
+hNew Gam~E5~Load Gam~E5~High Score~F3~Credit~F3~Languag~E5~~7E~ 2000 The 3DO Company~AE~All Rights Reserved~AE~~A0~3DO, Heroes of Might an~E4~Magic, and their respectiv~E5~logos, are trademarks and/o~F2~service marks o~E6~The 3DO Company in the U.S~AE~and other countries~AE~~A0~All other trademarks belon~E7~to their respective owners~AE~~A0~Developed b~F9~KnowWonder, Inc~AE~~A0~LICENSED BY NINTEND~CF~~A0~Scenario~BA~Map Size~BA~Difficulty~BA~Initial Resources~BA~Opponents~BA~Rating~BA~Small~A0~Medium~A0~Large~A0~Lot~F3~Som~E5~Fe~F7~Non~E5~Easy ~A0~Normal~A0~Hard~A0~Dumb  ~A0~Averag~E5~Smart ~A0~Initial Resource~F3~Opponent~F3~Rating:~A0~~A5~Are you sure? _Your game will be lost~A1~Kingdom Overvie~F7~World Ma~F0~View Puzzl~E5~Dig For Artifac~F4~Game Summar~F9~Game Option~F3~Exi~F4~Music Of~E6~Music O~EE~Sound Of~E6~Sound O~EE~Auto Save Of~E6~Auto Save O~EE~Show Path Of~E6~Show Path O~EE~New Gam~E5~Load Gam~E5~Save Gam~E5~Exi~F4~Auto Save Of~E6~Auto Save Slot ~B1~Auto Save Slot ~B2~Auto Save Slot ~B3~The Mage Guild is where heroes learn and replenish spells~AE~The Thieves'' Guild provides information on enemy players~AE~The Tavern increases morale for troops defending the castle~AE~The Shipyard is where ships are built~AE~The Well increases the growth rate of all dwellings~AE~The Castle improves town defense and income~AE~The Thatched Hut produces Peasants~AE~The Archery Range produces Archers~AE~The Blacksmith produces Pikemen~AE~The Armory produces Swordsmen~AE~The Jousting Arena produces Cavalries~AE~The Cathedral produces Paladins~AE~The Hut produces Goblins~AE~The Stick Hut produces Orcs~AE~The Den produces Wolves~AE~The Adobe produces Ogres~AE~The Bridge produces Trolls~AE~The Pyramid produces Cyclopes~AE~The Treehouse produces Sprites~AE~The Cottage produces Dwarves~AE~The Archery Range produces Elves~AE~Stonehenge produces Druids~AE~The Fenced Meadow produces Unicorns~AE~The Red Tower produces Phoenix~AE~The Cave produces Centaurs~AE~The Crypt produces Gargoyles~AE~The Nest produces Griffins~AE~The Maze produces Minotaurs~AE~The Swamp produces Hydras~AE~The Black Tower produces Dragon~F3~Press 'A' to exit~AE~ _You only have 7 days left to capture a town, or you will be banished from this land~AE~ _This is your last day to capture a town, or you will be banished from this land~AE~Available: ~40~1~A0~#2028
+|2028
+@00018CD0-00018F53-FF
+;00000000{Cost per troop:~A0~Sir Gallan~F4~Lord Haar~F4~Lord Kilbur~EE~Arturiu~F3~Tyr~EF~Maximu~F3~Ecto~F2~Dimitr~E9~Ambros~E5~Thunda~F8~Ergo~EE~Kelze~EE~Tsab~F5~Crag Hac~EB~Jojos~E8~Atla~F3~Yo~E7~Antoin~E5~Arie~EC~Vatawn~E1~Carlaw~EE~Rebecc~E1~Lun~E1~Astr~E1~Natash~E1~Ge~ED~Troya~EE~Aga~F2~Crod~EF~Falaga~F2~Baro~EB~Ari~E5~Kastor~E5~Sandr~EF~Wrathmon~F4~Vespe~F2~Attack Skill +~B1~Defense Skill +~B1~Spell Power +~B1~Knowledge +~B1~has gained a level~AE~Blackridg~E5~Pinehurs~F4~Woodhave~EE~Hillston~E5~Whiteshiel~E4~Bloodreig~EE~Dragontoot~E8~Greywin~E4~Portsmit~E8~Middle Gat~E5~Tundar~E1~Vulcani~E1~Sansoba~F2~Atlantiu~ED~Baywatc~E8~Wildaba~F2~Vertig~EF~Winterkil~EC~Nightshado~F7~Sandcaste~F2~Lakesid~E5~Olympu~F3~Necropoli~F3~Burloc~EB~Dragadun~E5~Alama~F2~Kalindr~E1~Blackfan~E7~Basenj~E9~Algar~F9~Sorpiga~EC~Dus~EB~Blackwin~E4~Fountainhea~E4~Xabra~EE~Erliqui~EE~Attack Skill: ~40~1~A0~}#884#644
+Cost per troop:~A0~Sir Gallan~F4~Lord Haar~F4~Lord Kilbur~EE~Arturiu~F3~Tyr~EF~Maximu~F3~Ecto~F2~Dimitr~E9~Ambros~E5~Thunda~F8~Ergo~EE~Kelze~EE~Tsab~F5~Crag Hac~EB~Jojos~E8~Atla~F3~Yo~E7~Antoin~E5~Arie~EC~Vatawn~E1~Carlaw~EE~Rebecc~E1~Lun~E1~Astr~E1~Natash~E1~Ge~ED~Troya~EE~Aga~F2~Crod~EF~Falaga~F2~Baro~EB~Ari~E5~Kastor~E5~Sandr~EF~Wrathmon~F4~Vespe~F2~Attack Skill +~B1~Defense Skill +~B1~Spell Power +~B1~Knowledge +~B1~has gained a level~AE~Blackridg~E5~Pinehurs~F4~Woodhave~EE~Hillston~E5~Whiteshiel~E4~Bloodreig~EE~Dragontoot~E8~Greywin~E4~Portsmit~E8~Middle Gat~E5~Tundar~E1~Vulcani~E1~Sansoba~F2~Atlantiu~ED~Baywatc~E8~Wildaba~F2~Vertig~EF~Winterkil~EC~Nightshado~F7~Sandcaste~F2~Lakesid~E5~Olympu~F3~Necropoli~F3~Burloc~EB~Dragadun~E5~Alama~F2~Kalindr~E1~Blackfan~E7~Basenj~E9~Algar~F9~Sorpiga~EC~Dus~EB~Blackwin~E4~Fountainhea~E4~Xabra~EE~Erliqui~EE~Attack Skill: ~40~1~A0~#644
+|644
+@00018F54-00018F65-FF
+;00000000{Defense Skill: ~40~1~A0~}#024#018
+Defense Skill: ~40~1~A0~#018
+|18
+@00018F66-00018F75-FF
+;00000000{Spell Power: ~40~1~A0~}#022#016
+Spell Power: ~40~1~A0~#016
+|16
+@00018F76-00018F83-FF
+;00000000{Knowledge: ~40~1~A0~}#020#014
+Knowledge: ~40~1~A0~#014
+|14
+@00018F84-00018F8E-FF
+;00000000{Morale: ~40~1~A0~}#017#011
+Morale: ~40~1~A0~#011
+|11
+@00018F8F-00018F97-FF
+;00000000{Luck: ~40~1~A0~}#015#009
+Luck: ~40~1~A0~#009
+|9
+@00018F98-00019E78-FF
+;00000000{Magic Boo~EB~Ultimate Book of Knowledg~E5~Ultimate Sword of Dominio~EE~Ultimate Cloak of Protectio~EE~Ultimate Wand of Magi~E3~Arcane Necklace of Magi~E3~Spell Bracelet of Magi~E3~Mage's Ring of Powe~F2~Witch's Brooch of Magi~E3~Medal of Valo~F2~Medal of Courag~E5~Medal of Hono~F2~Medal of Distinctio~EE~Fizbin of Misfortun~E5~Thunder Mac~E5~Gauntlets of Protectio~EE~Helm of Protectio~EE~Giant Flail of Dominio~EE~Ballista of Quicknes~F3~Shield of Protectio~EE~Sword of Dominio~EE~Axe of Dominio~EE~Divine Breastplat~E5~Minor Knowledge Scrol~EC~Major Knowledge Scrol~EC~Superior Knowledge Scrol~EC~Foremost Knowledge Scrol~EC~Endless Sack of Gol~E4~Endless Bag of Gol~E4~Endless Purse of Gol~E4~Nomad Mobility Boot~F3~Traveler's Mobility Boot~F3~Lucky Rabbit's Foo~F4~Golden Horsesho~E5~Gambler's Lucky Coi~EE~Four-Leaf Clove~F2~Compass of Mobilit~F9~Astrolabe of Mobilit~F9~The Magic Book enables you to cast spells~AE~Increases your knowledge by 12~AE~Increases your attack skill by 12~AE~Increases your defense skill by 12~AE~Increases your spell power by 12~AE~Increases your spell power by 4~AE~Increases your spell power by 2~AE~Increases your spell power by 3~AE~Increases your morale by 1~AE~Decreases your morale by 2~AE~Increases your attack skill by 1~AE~Increases your defense skill by 1~AE~Allows your catapult to fire twice per combat round~AE~Increases your defense skill by 2~AE~Increases your attack skill by 3~AE~Increases your attack skill by 2~AE~Increases your defense skill by 3~AE~Increases your knowledge by 2~AE~Increases your knowledge by 3~AE~Increases your knowledge by 4~AE~Increases your knowledge by 5~AE~Provides you with 1000 gold per day~AE~Provides you with 750 gold per day~AE~Provides you with 500 gold per day~AE~Increase your movement on land~AE~Increases your luck by 1~AE~Increases your movement on land and sea~AE~No artifact to view~AE~No creature to view~AE~Obelis~EB~Fountai~EE~Statu~E5~Stone Lith~F3~Sawmil~EC~Alchemis~F4~Ore Min~E5~Sulfur Min~E5~Crystal Min~E5~Gem Min~E5~Gold Min~E5~Faerie Rin~E7~Gazeb~EF~Skeleto~EE~Shrin~E5~Straw Hu~F4~Hous~E5~Cabi~EE~Buo~F9~Whirlpoo~EC~Shipwrec~EB~Dragon Cit~F9~Lighthous~E5~~A0~Graveyar~E4~Waterwhee~EC~Wagon Cam~F0~Windmil~EC~Daemon Cav~E5~Desert Ten~F4~Oasi~F3~Treasur~E5~Resourc~E5~Artifac~F4~Army Cam~F0~Boa~F4~Uncharted territor~F9~Resourc~E5~You find a small quantity o~E6~Woo~E4~Mercur~F9~Or~E5~Sulfu~F2~Crysta~EC~Gem~F3~Gol~E4~Dismiss hero _Are you sure you want to dismiss this Hero~BF~Obelisk _You come upon an obelisk made from unfamiliar stone.  As you gaze in wonder, a pattern emerges. It seems to be part of a map. After you copy it down, the pattern abruptly vanishes~AE~Obelisk _You have already visited this obelisk~AE~Gazebo _An ancient knight appears before the gazebo. _  _'My liege, I will teach you all that I know to aid you in your quest.' _  _You gain 1000 experience~AE~Gazebo _An ancient knight appears before the gazebo.  'I am sorry, my liege, I have taught you all I can.~A7~Buoy _Your armies spot a navigational buoy, confirming that you are on course and increasing their morale~AE~Buoy _Your armies spot a navigational buoy,confirming that you are on course~AE~Oasis _A nomad merchant hails you. His horse spooked and left him stranded.  In return for your escort, he guides your army to an oasis, raising its morale for one battle~AE~Oasis _You spot an oasis, but it is dry and you depart thirsty~AE~Statue _The gigantic statue of an angel towers above you.  Its eyes open, bathing your troops in golden light. They cheer as their morale rises~AE~Statue _The towering statue of an angel looms above you.  Your army encircles it, waiting for a sign.  But nothing happens~AE~Faerie Ring _Upon entering the mystical faerie ring, your army gains luck for its next battle~AE~Faerie Ring _You enter the faerie ring, but nothing happens~AE~Fountain _As you sip the sweet water, you are infused with luck for your next battle~AE~Fountain _You drink from the still waters, but nothing happens~AE~Graveyard _You enter the strangely silent burial ground of ancient warriors.  Do you want to search the graves~BF~Graveyard _Upon defeating the ghosts, you search the graves and find ~40~1~A0~}#4202#3809
+Magic Boo~EB~Ultimate Book of Knowledg~E5~Ultimate Sword of Dominio~EE~Ultimate Cloak of Protectio~EE~Ultimate Wand of Magi~E3~Arcane Necklace of Magi~E3~Spell Bracelet of Magi~E3~Mage's Ring of Powe~F2~Witch's Brooch of Magi~E3~Medal of Valo~F2~Medal of Courag~E5~Medal of Hono~F2~Medal of Distinctio~EE~Fizbin of Misfortun~E5~Thunder Mac~E5~Gauntlets of Protectio~EE~Helm of Protectio~EE~Giant Flail of Dominio~EE~Ballista of Quicknes~F3~Shield of Protectio~EE~Sword of Dominio~EE~Axe of Dominio~EE~Divine Breastplat~E5~Minor Knowledge Scrol~EC~Major Knowledge Scrol~EC~Superior Knowledge Scrol~EC~Foremost Knowledge Scrol~EC~Endless Sack of Gol~E4~Endless Bag of Gol~E4~Endless Purse of Gol~E4~Nomad Mobility Boot~F3~Traveler's Mobility Boot~F3~Lucky Rabbit's Foo~F4~Golden Horsesho~E5~Gambler's Lucky Coi~EE~Four-Leaf Clove~F2~Compass of Mobilit~F9~Astrolabe of Mobilit~F9~The Magic Book enables you to cast spells~AE~Increases your knowledge by 12~AE~Increases your attack skill by 12~AE~Increases your defense skill by 12~AE~Increases your spell power by 12~AE~Increases your spell power by 4~AE~Increases your spell power by 2~AE~Increases your spell power by 3~AE~Increases your morale by 1~AE~Decreases your morale by 2~AE~Increases your attack skill by 1~AE~Increases your defense skill by 1~AE~Allows your catapult to fire twice per combat round~AE~Increases your defense skill by 2~AE~Increases your attack skill by 3~AE~Increases your attack skill by 2~AE~Increases your defense skill by 3~AE~Increases your knowledge by 2~AE~Increases your knowledge by 3~AE~Increases your knowledge by 4~AE~Increases your knowledge by 5~AE~Provides you with 1000 gold per day~AE~Provides you with 750 gold per day~AE~Provides you with 500 gold per day~AE~Increase your movement on land~AE~Increases your luck by 1~AE~Increases your movement on land and sea~AE~No artifact to view~AE~No creature to view~AE~Obelis~EB~Fountai~EE~Statu~E5~Stone Lith~F3~Sawmil~EC~Alchemis~F4~Ore Min~E5~Sulfur Min~E5~Crystal Min~E5~Gem Min~E5~Gold Min~E5~Faerie Rin~E7~Gazeb~EF~Skeleto~EE~Shrin~E5~Straw Hu~F4~Hous~E5~Cabi~EE~Buo~F9~Whirlpoo~EC~Shipwrec~EB~Dragon Cit~F9~Lighthous~E5~~A0~Graveyar~E4~Waterwhee~EC~Wagon Cam~F0~Windmil~EC~Daemon Cav~E5~Desert Ten~F4~Oasi~F3~Treasur~E5~Resourc~E5~Artifac~F4~Army Cam~F0~Boa~F4~Uncharted territor~F9~Resourc~E5~You find a small quantity o~E6~Woo~E4~Mercur~F9~Or~E5~Sulfu~F2~Crysta~EC~Gem~F3~Gol~E4~Dismiss hero _Are you sure you want to dismiss this Hero~BF~Obelisk _You come upon an obelisk made from unfamiliar stone.  As you gaze in wonder, a pattern emerges. It seems to be part of a map. After you copy it down, the pattern abruptly vanishes~AE~Obelisk _You have already visited this obelisk~AE~Gazebo _An ancient knight appears before the gazebo. _  _'My liege, I will teach you all that I know to aid you in your quest.' _  _You gain 1000 experience~AE~Gazebo _An ancient knight appears before the gazebo.  'I am sorry, my liege, I have taught you all I can.~A7~Buoy _Your armies spot a navigational buoy, confirming that you are on course and increasing their morale~AE~Buoy _Your armies spot a navigational buoy,confirming that you are on course~AE~Oasis _A nomad merchant hails you. His horse spooked and left him stranded.  In return for your escort, he guides your army to an oasis, raising its morale for one battle~AE~Oasis _You spot an oasis, but it is dry and you depart thirsty~AE~Statue _The gigantic statue of an angel towers above you.  Its eyes open, bathing your troops in golden light. They cheer as their morale rises~AE~Statue _The towering statue of an angel looms above you.  Your army encircles it, waiting for a sign.  But nothing happens~AE~Faerie Ring _Upon entering the mystical faerie ring, your army gains luck for its next battle~AE~Faerie Ring _You enter the faerie ring, but nothing happens~AE~Fountain _As you sip the sweet water, you are infused with luck for your next battle~AE~Fountain _You drink from the still waters, but nothing happens~AE~Graveyard _You enter the strangely silent burial ground of ancient warriors.  Do you want to search the graves~BF~Graveyard _Upon defeating the ghosts, you search the graves and find ~40~1~A0~#3809
+|3809
+@00019E79-00019FCC-FF
+;00000000{Graveyard _You defeat the ghosts and then greedily search the graves. You find nothing.  This disrespectful act reduces your army's morale~AE~Shipwreck _The haunted wreck of a pirate ship groans eerily in the wind and surf in a deserted cove.  Do you wish to search it~BF~Shipwreck _After exorcising the ghosts, you search the debris and find ~40~1~A0~}#352#340
+Graveyard _You defeat the ghosts and then greedily search the graves. You find nothing.  This disrespectful act reduces your army's morale~AE~Shipwreck _The haunted wreck of a pirate ship groans eerily in the wind and surf in a deserted cove.  Do you wish to search it~BF~Shipwreck _After exorcising the ghosts, you search the debris and find ~40~1~A0~#340
+|340
+@00019FCD-0001A30D-FF
+;00000000{Shipwreck _You search the debris on the deck and find nothing.  The lack of treasure makes your army's morale sink~AE~Sawmill _Going out on a limb, you obtain a sawmill.  It will produce two units of wood per day~AE~Alchemist _A local Alchemist shop comes under your control.  It will provide you with one unit of Mercury per day~AE~Ore Mine _You add an ore mine to your holdings.  It will produce two units of Ore per day~AE~Sulfer Mine _With a quick strike, you seize a sulfur mine.  It will produce one unit of Sulfur per day~AE~Crystal Mine _You gain control of a crystal mine.  It will produce one unit of Crystal per day~AE~Gem Mine _A gem mine becomes a new facet of your estate.  It will provide you with one unit of Gems per day~AE~Gold Mine _You enhance your glittering reputation by acquiring a gold mine.  It will produce 1000 Gold per day~AE~'~40~}#860#833
+Shipwreck _You search the debris on the deck and find nothing.  The lack of treasure makes your army's morale sink~AE~Sawmill _Going out on a limb, you obtain a sawmill.  It will produce two units of wood per day~AE~Alchemist _A local Alchemist shop comes under your control.  It will provide you with one unit of Mercury per day~AE~Ore Mine _You add an ore mine to your holdings.  It will produce two units of Ore per day~AE~Sulfer Mine _With a quick strike, you seize a sulfur mine.  It will produce one unit of Sulfur per day~AE~Crystal Mine _You gain control of a crystal mine.  It will produce one unit of Crystal per day~AE~Gem Mine _A gem mine becomes a new facet of your estate.  It will provide you with one unit of Gems per day~AE~Gold Mine _You enhance your glittering reputation by acquiring a gold mine.  It will produce 1000 Gold per day~AE~'~40~#833
+|833
+@0001A30E-0001A347-FF
+;00000000{1' morale may give your armies extra attacks in combat.~A0~'~40~}#064#058
+1' morale may give your armies extra attacks in combat.~A0~'~40~#058
+|58
+@0001A348-0001A396-FF
+;00000000{1' morale means your armies will never receive nor lose an attack in combat.~A0~'~40~}#085#079
+1' morale means your armies will never receive nor lose an attack in combat.~A0~'~40~#079
+|79
+@0001A397-0001A3CD-FF
+;00000000{1' morale may cause your armies to freeze in combat.~A0~'~40~}#061#055
+1' morale may cause your armies to freeze in combat.~A0~'~40~#055
+|55
+@0001A3CE-0001A412-FF
+;00000000{1' luck may let your armies get double strength attacks in combat.~A0~'~40~}#075#069
+1' luck may let your armies get double strength attacks in combat.~A0~'~40~#069
+|69
+@0001A413-0001A457-FF
+;00000000{1' luck means your armies will never get lucky or unlucky attacks.~A0~'~40~}#075#069
+1' luck means your armies will never get lucky or unlucky attacks.~A0~'~40~#069
+|69
+@0001A458-0001A5B0-FF
+;00000000{1' luck sometimes causes armies attacks to only do half damage.~A0~Your attack skill is a bonus added to each creature's attack skill~AE~Your defense skill is a bonus added to each creature's defense skill~AE~Your spell power determines the length or power of a spell~AE~Your knowledge is the number of each spell you are able to memorize~AE~Current Level: ~40~1~A0~}#366#345
+1' luck sometimes causes armies attacks to only do half damage.~A0~Your attack skill is a bonus added to each creature's attack skill~AE~Your defense skill is a bonus added to each creature's defense skill~AE~Your spell power determines the length or power of a spell~AE~Your knowledge is the number of each spell you are able to memorize~AE~Current Level: ~40~1~A0~#345
+|345
+@0001A5B1-0001A5DB-FF
+;00000000{Total experience needed~A0~for next level: ~40~1~A0~}#052#043
+Total experience needed~A0~for next level: ~40~1~A0~#043
+|43
+@0001A5DC-0001A63F-FF
+;00000000{Press B to view Creature Inf~EF~Press A to dismiss this hero~AE~Exit Hero Scree~EE~View Spell~F3~ Exp:~A0~ Lev: ~40~1~A0~}#121#100
+Press B to view Creature Inf~EF~Press A to dismiss this hero~AE~Exit Hero Scree~EE~View Spell~F3~ Exp:~A0~ Lev: ~40~1~A0~#100
+|100
+@0001A640-0001A66E-FF
+;00000000{Fe~F7~Severa~EC~Pac~EB~Lot~F3~Hord~E5~Zounds~A1~Attack Skill: ~40~1~A0~}#071#047
+Fe~F7~Severa~EC~Pac~EB~Lot~F3~Hord~E5~Zounds~A1~Attack Skill: ~40~1~A0~#047
+|47
+@0001A66F-0001A680-FF
+;00000000{Defense Skill: ~40~1~A0~}#024#018
+Defense Skill: ~40~1~A0~#018
+|18
+@0001A681-0001A68B-FF
+;00000000{Damage: ~40~1~A0~}#017#011
+Damage: ~40~1~A0~#011
+|11
+@0001A68C-0001A69B-FF
+;00000000{Damage: ~40~1 - ~40~2~A0~}#025#016
+Damage: ~40~1 - ~40~2~A0~#016
+|16
+@0001A69C-0001A6AA-FF
+;00000000{Hit Points: ~40~1~A0~}#021#015
+Hit Points: ~40~1~A0~#015
+|15
+@0001A6AB-0001A6B4-FF
+;00000000{Speed: ~40~1~A0~}#016#010
+Speed: ~40~1~A0~#010
+|10
+@0001A6B5-0001A6BF-FF
+;00000000{Morale: ~40~1~A0~}#017#011
+Morale: ~40~1~A0~#011
+|11
+@0001A6C0-0001A6C8-FF
+;00000000{Luck: ~40~1~A0~}#015#009
+Luck: ~40~1~A0~#009
+|9
+@0001A6C9-0001A6D2-FF
+;00000000{Shots: ~40~1~A0~}#016#010
+Shots: ~40~1~A0~#010
+|10
+@0001A6D3-0001A6DC-FF
+;00000000{Spell: ~40~1~A0~}#016#010
+Spell: ~40~1~A0~#010
+|10
+@0001A6DD-0001B21E-FF
+;00000000{Slo~F7~Mediu~ED~Fas~F4~Treaso~EE~Awfu~EC~Poo~F2~Norma~EC~Goo~E4~Grea~F4~Blood~A1~Curse~E4~Awfu~EC~Ba~E4~Norma~EC~Goo~E4~Grea~F4~Iris~E8~Cost: 2~B0~Cost: 15~B0~Cost: 20~B0~Cost: 25~B0~Cost: 30~B0~Cost: 60~B0~Cost: 4~B0~Cost: 14~B0~Cost: 20~B0~Cost: 30~B0~Cost: 60~B0~Cost: 750 + 1 Crysta~EC~Cost: 5~B0~Cost: 20~B0~Cost: 25~B0~Cost: 35~B0~Cost: 50~B0~Cost: 1500 + 1 Mercur~F9~Cost: 6~B0~Cost: 20~B0~Cost: 30~B0~Cost: 40~B0~Cost: 80~B0~Cost: 3000 + 1 Sulfu~F2~Cost: 5~B0~Cost: 20~B0~~A0~Cost: 650 + 1 Ge~ED~Peasan~F4~Arche~F2~Pikema~EE~Swordsma~EE~Cavalr~F9~Paladi~EE~Gobli~EE~Or~E3~Wol~E6~Ogr~E5~Trol~EC~Cyclop~F3~Sprit~E5~Dwar~E6~El~E6~Drui~E4~Unicor~EE~Phoeni~F8~Centau~F2~Gargoyl~E5~Griffi~EE~Minotau~F2~Hydr~E1~Drago~EE~Rogu~E5~Noma~E4~Ghos~F4~Geni~E5~Grasshoppe~F2~An~F4~Dragonfl~F9~Spide~F2~Butterfl~F9~Bumblebe~E5~Locus~F4~Earthwor~ED~Horne~F4~Beetl~E5~Squirre~EC~Rabbi~F4~Gophe~F2~Badge~F2~Ra~F4~Eagl~E5~Wease~EC~Rave~EE~Mongoos~E5~Do~E7~Aardvar~EB~Lizar~E4~Tortois~E5~Hedgeho~E7~Condo~F2~Press START to exit~AE~Income:~A0~Cast Spel~EC~Flee from Battl~E5~Surrender to Enem~F9~Return to Comba~F4~Hit The Beac~E8~A grassy domain surrounded by beaches that are no picnic~AE~~A0~Right Angle~F3~Get ready to make a lot of sharp turns, on land and at sea~AE~~A0~Safe Corners~BF~No boats...how will you get around~BF~~A0~Corner Pocket~F3~Different terrains require different strategies~AE~~A0~Hail Britanni~E1~Rule the waves to rule Britannia~AE~~A0~New Worl~E4~A fast win can lie at the edge, but power comes from the middle~AE~~A0~Cold Sna~F0~Wood and sulfur are valuable in this frozen realm.  And one town gives a warm welcome~AE~~A0~Island Hoppin~E7~Gold is easy to find on these islands. The trick is to get it~AE~~A0~Mud and Ic~E5~Warm in the north, cold in the south, congested in the middle~AE~~A0~Obelisk Isle~F3~Clues to the ultimate artifact are isolated, and guarded well~AE~~A0~The Aren~E1~Four Warlocks duel in a specially constructed arena of magic~AE~~A0~Valley Relic~F3~Invade forbidden valleys to find artifacts of power~AE~~A0~Atlanti~F3~A thriving continent. But why is that volcano rumbling~BF~~A0~Golden Island~F3~Want gold? Build boats~AE~~A0~~A0~Lake Countr~F9~Great lakes, but greater treasure~AE~~A0~Town Hau~EC~Towns have cool stuff, but don't ignore the countryside~AE~~A0~Arabian Knight~F3~The desert holds great wealth. Follow the Bedouin trails~AE~~A0~Bullsey~E5~Take aim at the riches in the middle of a varied continent~AE~~A0~The Cla~F7~Nail the treasure on this island's fingers~AE~~A0~Neighbor~F3~Is the grass greener on the other side? Ask the monsters~AE~~A0~Shifting Sand~F3~Traveling overland can be faster than going by road~AE~~A0~Snow Bunnie~F3~In a frozen land, those who are warmest are wealthiest~AE~~A0~Bayo~F5~The pathways keep you safe, but you will need to take risks to triumph~AE~~A0~Archipelag~EF~Everything you need is on the swampy islands...almost~AE~~A0~Barrier Reef~F3~Riches dot the outer reefs,  but greater wealth lies within~AE~~A0~Cross Purpose~F3~Paths are bound to cross on your quest for what you need~AE~~A0~Goblin Empir~E5~It's a Goblins' world. You have to take it from them~AE~~A0~Green Field~F3~Leave your green realm to find fortune beyond volcanic wastes~AE~~A0~Big Ben~E4~The river keeps you apart, when it isn't forcing you together~AE~~A0~Hidden Spir~E5~There's only one obelisk, but it has many guards~AE~~A0~Middle Se~E1~You need to come full circle to conquer these realms~AE~~A0~Income: ~A0~Att: ~40~1~A0~}#3485#2882
+Slo~F7~Mediu~ED~Fas~F4~Treaso~EE~Awfu~EC~Poo~F2~Norma~EC~Goo~E4~Grea~F4~Blood~A1~Curse~E4~Awfu~EC~Ba~E4~Norma~EC~Goo~E4~Grea~F4~Iris~E8~Cost: 2~B0~Cost: 15~B0~Cost: 20~B0~Cost: 25~B0~Cost: 30~B0~Cost: 60~B0~Cost: 4~B0~Cost: 14~B0~Cost: 20~B0~Cost: 30~B0~Cost: 60~B0~Cost: 750 + 1 Crysta~EC~Cost: 5~B0~Cost: 20~B0~Cost: 25~B0~Cost: 35~B0~Cost: 50~B0~Cost: 1500 + 1 Mercur~F9~Cost: 6~B0~Cost: 20~B0~Cost: 30~B0~Cost: 40~B0~Cost: 80~B0~Cost: 3000 + 1 Sulfu~F2~Cost: 5~B0~Cost: 20~B0~~A0~Cost: 650 + 1 Ge~ED~Peasan~F4~Arche~F2~Pikema~EE~Swordsma~EE~Cavalr~F9~Paladi~EE~Gobli~EE~Or~E3~Wol~E6~Ogr~E5~Trol~EC~Cyclop~F3~Sprit~E5~Dwar~E6~El~E6~Drui~E4~Unicor~EE~Phoeni~F8~Centau~F2~Gargoyl~E5~Griffi~EE~Minotau~F2~Hydr~E1~Drago~EE~Rogu~E5~Noma~E4~Ghos~F4~Geni~E5~Grasshoppe~F2~An~F4~Dragonfl~F9~Spide~F2~Butterfl~F9~Bumblebe~E5~Locus~F4~Earthwor~ED~Horne~F4~Beetl~E5~Squirre~EC~Rabbi~F4~Gophe~F2~Badge~F2~Ra~F4~Eagl~E5~Wease~EC~Rave~EE~Mongoos~E5~Do~E7~Aardvar~EB~Lizar~E4~Tortois~E5~Hedgeho~E7~Condo~F2~Press START to exit~AE~Income:~A0~Cast Spel~EC~Flee from Battl~E5~Surrender to Enem~F9~Return to Comba~F4~Hit The Beac~E8~A grassy domain surrounded by beaches that are no picnic~AE~~A0~Right Angle~F3~Get ready to make a lot of sharp turns, on land and at sea~AE~~A0~Safe Corners~BF~No boats...how will you get around~BF~~A0~Corner Pocket~F3~Different terrains require different strategies~AE~~A0~Hail Britanni~E1~Rule the waves to rule Britannia~AE~~A0~New Worl~E4~A fast win can lie at the edge, but power comes from the middle~AE~~A0~Cold Sna~F0~Wood and sulfur are valuable in this frozen realm.  And one town gives a warm welcome~AE~~A0~Island Hoppin~E7~Gold is easy to find on these islands. The trick is to get it~AE~~A0~Mud and Ic~E5~Warm in the north, cold in the south, congested in the middle~AE~~A0~Obelisk Isle~F3~Clues to the ultimate artifact are isolated, and guarded well~AE~~A0~The Aren~E1~Four Warlocks duel in a specially constructed arena of magic~AE~~A0~Valley Relic~F3~Invade forbidden valleys to find artifacts of power~AE~~A0~Atlanti~F3~A thriving continent. But why is that volcano rumbling~BF~~A0~Golden Island~F3~Want gold? Build boats~AE~~A0~~A0~Lake Countr~F9~Great lakes, but greater treasure~AE~~A0~Town Hau~EC~Towns have cool stuff, but don't ignore the countryside~AE~~A0~Arabian Knight~F3~The desert holds great wealth. Follow the Bedouin trails~AE~~A0~Bullsey~E5~Take aim at the riches in the middle of a varied continent~AE~~A0~The Cla~F7~Nail the treasure on this island's fingers~AE~~A0~Neighbor~F3~Is the grass greener on the other side? Ask the monsters~AE~~A0~Shifting Sand~F3~Traveling overland can be faster than going by road~AE~~A0~Snow Bunnie~F3~In a frozen land, those who are warmest are wealthiest~AE~~A0~Bayo~F5~The pathways keep you safe, but you will need to take risks to triumph~AE~~A0~Archipelag~EF~Everything you need is on the swampy islands...almost~AE~~A0~Barrier Reef~F3~Riches dot the outer reefs,  but greater wealth lies within~AE~~A0~Cross Purpose~F3~Paths are bound to cross on your quest for what you need~AE~~A0~Goblin Empir~E5~It's a Goblins' world. You have to take it from them~AE~~A0~Green Field~F3~Leave your green realm to find fortune beyond volcanic wastes~AE~~A0~Big Ben~E4~The river keeps you apart, when it isn't forcing you together~AE~~A0~Hidden Spir~E5~There's only one obelisk, but it has many guards~AE~~A0~Middle Se~E1~You need to come full circle to conquer these realms~AE~~A0~Income: ~A0~Att: ~40~1~A0~#2882
+|2882
+@0001B21F-0001B226-FF
+;00000000{Def: ~40~1~A0~}#014#008
+Def: ~40~1~A0~#008
+|8
+@0001B236-0001B765-FF
+;00000000{Press 'A' to trade artifacts~AE~Press 'A' to trade armies~AE~Press 'A' to exit~AE~Press 'A' to return~AE~No artifact to select~AE~Press 'A' to select artifact~AE~Press 'A' to cancel trade~AE~Press 'A' to complete trade~AE~Spellbooks cannot be traded~AE~No army to select~AE~Press 'A' to select army~AE~Press 'A' to cancel trade~AE~Press 'A' to complete trade~AE~Press 'B' to split army~AE~You cannot trade your last army~AE~~AF~No game to load~AE~Slot is empty~AE~Slot is used. Are you sure~BF~Game saved successfull~F9~AutoSav~E5~Building a ship will cost you 500 Gold and 10 Wood.  Do you wish to build a ship now~BF~Sorry, you cannot afford to build a ship at this time~A1~Sorry, your dock is full.  You cannot build another ship at this time~A1~~40~1 states~BA~`I will accept your surrender and grant you and your troops safe passage for the price of ~40~20 gold.'~A0~You don't have enough gold~A1~Are you sur~E5~you want t~EF~retreat~BF~Worl~E4~Mine~F3~  Resource~F3~Artifact~F3~  Town~F3~ Heroe~F3~  Al~EC~Vie~F7~Legen~E4~A glorious victory~A1~The enemy has fled~A1~The enemy has surrendered~A1~Defeat~A1~Retreat~A1~Surrender~A1~For valor in combat, ~40~1 receives ~40~2 experience~AE~Your forces suffer a bitter defeat, and ~40~1 abandons your cause~AE~The cowardly ~40~1 flees from battle and abandons your cause~AE~~40~1 surrenders to the enemy, and departs in shame~AE~Your forces suffer a bitter defeat~AE~Your cowardly forces flee from battle~AE~~A0~Battlefield Casualtie~F3~Attacke~F2~Defende~F2~Non~E5~~FF~}#1520#1328
+Press 'A' to trade artifacts~AE~Press 'A' to trade armies~AE~Press 'A' to exit~AE~Press 'A' to return~AE~No artifact to select~AE~Press 'A' to select artifact~AE~Press 'A' to cancel trade~AE~Press 'A' to complete trade~AE~Spellbooks cannot be traded~AE~No army to select~AE~Press 'A' to select army~AE~Press 'A' to cancel trade~AE~Press 'A' to complete trade~AE~Press 'B' to split army~AE~You cannot trade your last army~AE~~AF~No game to load~AE~Slot is empty~AE~Slot is used. Are you sure~BF~Game saved successfull~F9~AutoSav~E5~Building a ship will cost you 500 Gold and 10 Wood.  Do you wish to build a ship now~BF~Sorry, you cannot afford to build a ship at this time~A1~Sorry, your dock is full.  You cannot build another ship at this time~A1~~40~1 states~BA~`I will accept your surrender and grant you and your troops safe passage for the price of ~40~20 gold.'~A0~You don't have enough gold~A1~Are you sur~E5~you want t~EF~retreat~BF~Worl~E4~Mine~F3~  Resource~F3~Artifact~F3~  Town~F3~ Heroe~F3~  Al~EC~Vie~F7~Legen~E4~A glorious victory~A1~The enemy has fled~A1~The enemy has surrendered~A1~Defeat~A1~Retreat~A1~Surrender~A1~For valor in combat, ~40~1 receives ~40~2 experience~AE~Your forces suffer a bitter defeat, and ~40~1 abandons your cause~AE~The cowardly ~40~1 flees from battle and abandons your cause~AE~~40~1 surrenders to the enemy, and departs in shame~AE~Your forces suffer a bitter defeat~AE~Your cowardly forces flee from battle~AE~~A0~Battlefield Casualtie~F3~Attacke~F2~Defende~F2~Non~E5~~FF~#1328
+|1328
+@0001C164-0001C220-FF
+;00000000{q4qHqNqYqdqpq{qFollowers _A group of ~40~1 with a desire for greater glory wish to join you.  Do you accept~BF~Followers _Insulted by your refusal of their offer, the monsters attack~A1~Artifac~F4~~A0~~A0~~A0~~A0~}#213#189
+q4qHqNqYqdqpq{qFollowers _A group of ~40~1 with a desire for greater glory wish to join you.  Do you accept~BF~Followers _Insulted by your refusal of their offer, the monsters attack~A1~Artifac~F4~~A0~~A0~~A0~~A0~#189
+|189
+@0001C222-0001E788-FF
+;00000000{You rescue a shackled Sorceress from a Necromancer's tower.  She rewards you with an exquisite jeweled necklace~AE~You free a group of Dwarves trapped in a collapsed mine.  Grateful, the leader gives you a golden bracelet~AE~A cry of pain and rage leads you to a Centaur whose  hoof is caught between two rocks.  You set him free, and in gratitude he gives you a dazzling jeweled ring~AE~In the ashes outside a slain dragon's former lair is an intricately tooled brooch.  You wipe the greasy soot off of it and claim it as your own~AE~You free a virtuous damsel from a Gargoyle's filthy lair.  The King's herald thereupon awards you the Medal of Valor~AE~After saving a young boy from a vicious pack of Wolves, you return him to his father's manor.  The grateful nobleman awards you with a Medal of Courage~AE~You free a fair princess from a marauding band of rebel soldiers.  She awards you with a Medal of Honor~AE~You rid the countryside of a Minotaur who had made daily snacks of the region's finest knights.  The locals honor you with the Medal of Distinction~AE~You stumble over a medal laying in the empty road.  As you touch it, your army's morale plummets.  You realize too late you have found the woeful Fizbin of Misfortune~AE~During a violent storm, a bolt of lightning shatters a mighty oak.  You find a mysterious mace within the smoldering trunk~AE~You confront the dread Black Knight!  An epic duel ensues, ending in a draw.  The Knight, with newfound respect, offers you his pair of armored gauntlets~AE~Within a cave, a golden helmed skeleton sits on an iron throne.  You take the helmet and the skeleton nods once, as if in approval~AE~You challenge a clumsy Giant, who kills himself with his own flail.  Confident of your own skill with the huge weapon, you pry it from his dead grasp~AE~Walking through the ruins of an ancient walled city, you discover an elaborately crafted ballista~AE~A stone statue of a warrior holds a silver shield.  As you remove the shield, the statue crumbles into dust~AE~As you walk along a twisting path, a nearby bush suddenly bursts into flames.  The fire takes the shape of a beautiful woman, who holds out a shining sword to you~AE~You see a silver axe embedded deeply in a jagged black stone.  Your army tries futilely to wrench it free.  But you grasp the axe's handle and effortlessly pull it out~AE~A gang of Rogues is searching the bodies of several dead warriors.  You scare off the scavengers, and then note they left behind a beautiful breastplate~AE~A glass case appears before you, floating in midair.  In it, a scroll lays on cloth of gold.  At your touch, the lid opens and the scroll floats into your waiting hand~AE~You visit a wise man and explain your quest.  He nods his approval and hands you a yellowed parchment scroll~AE~You come across the remains of an ancient Druid.  A skull grins from the ragged hood of her robe.  You search the garment and discover a scroll in a hidden pocket~AE~A flowering briar has entwined the remains of an ancient Druid.  Carefully searching the body, you discover a hidden scroll~AE~An Orc dances gleefully around a bag.  He sees you, squeals with fright, and runs away.  You look in the bag and see it is crammed with gold~AE~A noblewoman separated from her traveling companions pleads for help.  You escort her home, and she rewards you with a bag filled with gold~AE~You find a leather purse filled with gold.  A message inside says it once belonged to a wily alchemist who could transmute anything into precious metal~AE~You rescue a Nomad trader from a pack of Wolves.  For your assistance, he gives you a fine pair of boots.  The vague outline of ancient sigils are etched into the leather~AE~Prodding a hidden niche, you find a pair of beautiful boots made from fine supple leather.  Thanking the anonymous donor, you add them to your inventory~AE~You escort a rich merchant across a perilous chasm.  He rewards you with a rabbit's foot with glittering silver fur.  The merchant says it will increase your luck~AE~A unicorn caught in a hunter's snare whinnies in fright.  Murmuring soothing words, you set her free.  She stamps a front hoof and runs away, leaving you a golden horseshoe~AE~You capture an imp who has been terrorizing the region.  In return for his life, he gives you a magic coin and promises to leave forever~AE~To your surprise, you find a shiny green four-leaf clover in a patch of scorched vegetation~AE~An old man claiming to be a tinker hands you his latest invention, and says you'll go far with it~AE~You save an old sea captain whom Orcs were using for target practice.  In return he gives you a object he says measures distances at sea~AE~Ambush! _You come upon an ancient artifact.  As you reach for it, a gang of Rogues bursts from the underbrush to defend their stolen loot~AE~Leprechaun _A leprechaun offers you an ancient artifact for the low, low price of 2000 gold. Do you wish to buy it~BF~Victory! _You steal victory from the Rogues, search their bodies, and recover the ancient artifact~AE~Leprechaun _You accept the little man's offer, but quickly realize that you don't have 2000 gold. The Leprechaun turns his back and ignores you~AE~Leprechaun _Insulted when you refuse his generous offer, the Leprechaun snorts in anger and vanishes~AE~Backpack Full _You have no room to carry another artifact~A1~Daemon Cave _Moisture condenses on the walls and trickles slowly down to the ground.  Except for the evidence of a battle, the cave is empty~AE~Daemon Cave _The dank cave reeks of blood.  Two large red eyes glow eerily in the gloom.  Do you wish to enter~BF~Daemon Cave _A vile daemon lunges from the shadows and battle is joined.  You emerge victorious from the exhausting struggle, earning 1000 experience points~AE~Daemon cave _A howling daemon hurtles out of the murk and you face it in combat.  You win the terrible clash and earn 1000 experience points and an artifact~AE~Daemon Cave _A hideous daemon leaps from the gloom and clashes with your forces.  The wild affray ends with your triumph and you receive 1000 experience points and 2500 gold~AE~Daemon cave _You are captured by an enormous daemon.  Grinning, he offers to let you free for 2500 gold.  Otherwise, he will devour you.  Do you pay~BF~Daemon Cave _Seeing that you don't have 2500 gold, the daemon rends you with its sword-like claws.  The last thing you see is its terrible smile~AE~Dragon City _You stand before Dragon City.  Wealth and danger are both plentiful here.  Do you wish to attack~BF~Dragon City _You have conquered the mighty dragons, who now pay you homage.  They offer 1000 gold a day to your noble cause, and will defend the city from your enemies~AE~Lighthouse _The lighthouse is now under your control.  Henceforth, all your ships will move further each turn~AE~Shrine _A half-hidden shrine shelters a rustic wooden altar.  A golden plaque is set into the altar. It bears the formula for an ancient magical spell~AE~Shrine _A half-hidden shrine shelters a rustic wooden altar.  A golden plaque is set into the altar. It bears the formula for an ancient magical spell.  Unfortunately, you don't have a spellbook~AE~Skeleton _You come upon the remains of an unfortunate adventurer.  Searching among his bleached bones, you find nothing~AE~Skeleton _The bones of an unfortunate adventurer lay at your feet.  Searching his meager remains, you find something~A1~Mill _The keeper of the mill announces: 'Milord, I am sorry, there is no gold currently available.  Please try again next week.~A7~Mill _The keeper of the mill announces: 'Milord, I have  been working very hard to provide you with this gold, come back next week for more.~A7~Windmill _The keeper of the mill announces: 'Milord, I regret we have no treasures for you right now.  Please try again next week.~A7~Windmill _The keeper of the mill announces: 'Milord, I have been working very hard to provide you with these resources, come back next week for more.~A7~Thatched Hut _A band of Peasants with a hunger for adventure wish to join you.  Do you accept~BF~Cottage _A formation of Archers eager for strife wish to join you.  Do you accept~BF~Hut _A tribe of Goblins who yearn for decisive leadership wish to join you.  Do you accept~BF~Cottage _A troop of Dwarves clamoring for battle wish to join you.  Do you accept~BF~Wagon _The din of music and laughter draw you to an encampment of Rogues.  Do you wish to have any Rogues join your army~BF~Tents _Nomadic tents, shimmering in the desert heat, beckon you.  Do you wish to have any nomads join you during your travels~BF~Genie Lamp _An odd-looking tarnished lamp is lodged deep in a crevice.  Do you pull it free and rub it~BF~Thatched Hut _As you look down at the Peasant cottage, you can tell it is vacant~AE~Cottage _As you draw near the Archer abode, you notice that there is no one here~AE~Hut _As you approach the Goblin den, you notice that there is no one here~AE~Cottage _As you stop short before the Dwarven lodge, you see no one is there~AE~Wagon _A gaudy Rogues' wagon stands empty.  Perhaps more Rogues will be here later~AE~Tents _A group of colorful Nomad tents billow in the desert wind, beckoning you.  Alas, they are empty.  Perhaps more Nomads will be here later~AE~~A0~No Room _You are unable to recruit at this time.  Your ranks are full~AE~Chest _You discover a hidden treasure cache.  You may keep the gold or generously distribute it to the peasants for experience.  Do you wish to keep the gold~BF~Campfire _Ransacking an enemy camp, you discover a hidden cache of treasures~AE~Whirlpool _A whirlpool engulfs your ship.  Some of your army falls overboard into the vortex~AE~Digging for artifacts requires a whole day.  Try again tomorrow~AE~Congratulations! After spending many hours digging here you have uncovered the ~40~3.~A0~}#9809#9575
+You rescue a shackled Sorceress from a Necromancer's tower.  She rewards you with an exquisite jeweled necklace~AE~You free a group of Dwarves trapped in a collapsed mine.  Grateful, the leader gives you a golden bracelet~AE~A cry of pain and rage leads you to a Centaur whose  hoof is caught between two rocks.  You set him free, and in gratitude he gives you a dazzling jeweled ring~AE~In the ashes outside a slain dragon's former lair is an intricately tooled brooch.  You wipe the greasy soot off of it and claim it as your own~AE~You free a virtuous damsel from a Gargoyle's filthy lair.  The King's herald thereupon awards you the Medal of Valor~AE~After saving a young boy from a vicious pack of Wolves, you return him to his father's manor.  The grateful nobleman awards you with a Medal of Courage~AE~You free a fair princess from a marauding band of rebel soldiers.  She awards you with a Medal of Honor~AE~You rid the countryside of a Minotaur who had made daily snacks of the region's finest knights.  The locals honor you with the Medal of Distinction~AE~You stumble over a medal laying in the empty road.  As you touch it, your army's morale plummets.  You realize too late you have found the woeful Fizbin of Misfortune~AE~During a violent storm, a bolt of lightning shatters a mighty oak.  You find a mysterious mace within the smoldering trunk~AE~You confront the dread Black Knight!  An epic duel ensues, ending in a draw.  The Knight, with newfound respect, offers you his pair of armored gauntlets~AE~Within a cave, a golden helmed skeleton sits on an iron throne.  You take the helmet and the skeleton nods once, as if in approval~AE~You challenge a clumsy Giant, who kills himself with his own flail.  Confident of your own skill with the huge weapon, you pry it from his dead grasp~AE~Walking through the ruins of an ancient walled city, you discover an elaborately crafted ballista~AE~A stone statue of a warrior holds a silver shield.  As you remove the shield, the statue crumbles into dust~AE~As you walk along a twisting path, a nearby bush suddenly bursts into flames.  The fire takes the shape of a beautiful woman, who holds out a shining sword to you~AE~You see a silver axe embedded deeply in a jagged black stone.  Your army tries futilely to wrench it free.  But you grasp the axe's handle and effortlessly pull it out~AE~A gang of Rogues is searching the bodies of several dead warriors.  You scare off the scavengers, and then note they left behind a beautiful breastplate~AE~A glass case appears before you, floating in midair.  In it, a scroll lays on cloth of gold.  At your touch, the lid opens and the scroll floats into your waiting hand~AE~You visit a wise man and explain your quest.  He nods his approval and hands you a yellowed parchment scroll~AE~You come across the remains of an ancient Druid.  A skull grins from the ragged hood of her robe.  You search the garment and discover a scroll in a hidden pocket~AE~A flowering briar has entwined the remains of an ancient Druid.  Carefully searching the body, you discover a hidden scroll~AE~An Orc dances gleefully around a bag.  He sees you, squeals with fright, and runs away.  You look in the bag and see it is crammed with gold~AE~A noblewoman separated from her traveling companions pleads for help.  You escort her home, and she rewards you with a bag filled with gold~AE~You find a leather purse filled with gold.  A message inside says it once belonged to a wily alchemist who could transmute anything into precious metal~AE~You rescue a Nomad trader from a pack of Wolves.  For your assistance, he gives you a fine pair of boots.  The vague outline of ancient sigils are etched into the leather~AE~Prodding a hidden niche, you find a pair of beautiful boots made from fine supple leather.  Thanking the anonymous donor, you add them to your inventory~AE~You escort a rich merchant across a perilous chasm.  He rewards you with a rabbit's foot with glittering silver fur.  The merchant says it will increase your luck~AE~A unicorn caught in a hunter's snare whinnies in fright.  Murmuring soothing words, you set her free.  She stamps a front hoof and runs away, leaving you a golden horseshoe~AE~You capture an imp who has been terrorizing the region.  In return for his life, he gives you a magic coin and promises to leave forever~AE~To your surprise, you find a shiny green four-leaf clover in a patch of scorched vegetation~AE~An old man claiming to be a tinker hands you his latest invention, and says you'll go far with it~AE~You save an old sea captain whom Orcs were using for target practice.  In return he gives you a object he says measures distances at sea~AE~Ambush! _You come upon an ancient artifact.  As you reach for it, a gang of Rogues bursts from the underbrush to defend their stolen loot~AE~Leprechaun _A leprechaun offers you an ancient artifact for the low, low price of 2000 gold. Do you wish to buy it~BF~Victory! _You steal victory from the Rogues, search their bodies, and recover the ancient artifact~AE~Leprechaun _You accept the little man's offer, but quickly realize that you don't have 2000 gold. The Leprechaun turns his back and ignores you~AE~Leprechaun _Insulted when you refuse his generous offer, the Leprechaun snorts in anger and vanishes~AE~Backpack Full _You have no room to carry another artifact~A1~Daemon Cave _Moisture condenses on the walls and trickles slowly down to the ground.  Except for the evidence of a battle, the cave is empty~AE~Daemon Cave _The dank cave reeks of blood.  Two large red eyes glow eerily in the gloom.  Do you wish to enter~BF~Daemon Cave _A vile daemon lunges from the shadows and battle is joined.  You emerge victorious from the exhausting struggle, earning 1000 experience points~AE~Daemon cave _A howling daemon hurtles out of the murk and you face it in combat.  You win the terrible clash and earn 1000 experience points and an artifact~AE~Daemon Cave _A hideous daemon leaps from the gloom and clashes with your forces.  The wild affray ends with your triumph and you receive 1000 experience points and 2500 gold~AE~Daemon cave _You are captured by an enormous daemon.  Grinning, he offers to let you free for 2500 gold.  Otherwise, he will devour you.  Do you pay~BF~Daemon Cave _Seeing that you don't have 2500 gold, the daemon rends you with its sword-like claws.  The last thing you see is its terrible smile~AE~Dragon City _You stand before Dragon City.  Wealth and danger are both plentiful here.  Do you wish to attack~BF~Dragon City _You have conquered the mighty dragons, who now pay you homage.  They offer 1000 gold a day to your noble cause, and will defend the city from your enemies~AE~Lighthouse _The lighthouse is now under your control.  Henceforth, all your ships will move further each turn~AE~Shrine _A half-hidden shrine shelters a rustic wooden altar.  A golden plaque is set into the altar. It bears the formula for an ancient magical spell~AE~Shrine _A half-hidden shrine shelters a rustic wooden altar.  A golden plaque is set into the altar. It bears the formula for an ancient magical spell.  Unfortunately, you don't have a spellbook~AE~Skeleton _You come upon the remains of an unfortunate adventurer.  Searching among his bleached bones, you find nothing~AE~Skeleton _The bones of an unfortunate adventurer lay at your feet.  Searching his meager remains, you find something~A1~Mill _The keeper of the mill announces: 'Milord, I am sorry, there is no gold currently available.  Please try again next week.~A7~Mill _The keeper of the mill announces: 'Milord, I have  been working very hard to provide you with this gold, come back next week for more.~A7~Windmill _The keeper of the mill announces: 'Milord, I regret we have no treasures for you right now.  Please try again next week.~A7~Windmill _The keeper of the mill announces: 'Milord, I have been working very hard to provide you with these resources, come back next week for more.~A7~Thatched Hut _A band of Peasants with a hunger for adventure wish to join you.  Do you accept~BF~Cottage _A formation of Archers eager for strife wish to join you.  Do you accept~BF~Hut _A tribe of Goblins who yearn for decisive leadership wish to join you.  Do you accept~BF~Cottage _A troop of Dwarves clamoring for battle wish to join you.  Do you accept~BF~Wagon _The din of music and laughter draw you to an encampment of Rogues.  Do you wish to have any Rogues join your army~BF~Tents _Nomadic tents, shimmering in the desert heat, beckon you.  Do you wish to have any nomads join you during your travels~BF~Genie Lamp _An odd-looking tarnished lamp is lodged deep in a crevice.  Do you pull it free and rub it~BF~Thatched Hut _As you look down at the Peasant cottage, you can tell it is vacant~AE~Cottage _As you draw near the Archer abode, you notice that there is no one here~AE~Hut _As you approach the Goblin den, you notice that there is no one here~AE~Cottage _As you stop short before the Dwarven lodge, you see no one is there~AE~Wagon _A gaudy Rogues' wagon stands empty.  Perhaps more Rogues will be here later~AE~Tents _A group of colorful Nomad tents billow in the desert wind, beckoning you.  Alas, they are empty.  Perhaps more Nomads will be here later~AE~~A0~No Room _You are unable to recruit at this time.  Your ranks are full~AE~Chest _You discover a hidden treasure cache.  You may keep the gold or generously distribute it to the peasants for experience.  Do you wish to keep the gold~BF~Campfire _Ransacking an enemy camp, you discover a hidden cache of treasures~AE~Whirlpool _A whirlpool engulfs your ship.  Some of your army falls overboard into the vortex~AE~Digging for artifacts requires a whole day.  Try again tomorrow~AE~Congratulations! After spending many hours digging here you have uncovered the ~40~3.~A0~#9575
+|9575
+@0001E789-0001E7F9-FF
+;00000000{Nothing here. _Where could it be~BF~Try looking on land!!~A1~Try searching on clear ground~AE~New Mont~E8~New Wee~EB~ _Month ~40~2~40~}#134#113
+Nothing here. _Where could it be~BF~Try looking on land!!~A1~Try searching on clear ground~AE~New Mont~E8~New Wee~EB~ _Month ~40~2~40~#113
+|113
+@0001E7FA-0001E82B-FF
+;00000000{1.  All dwellings increase population.~A0~ _Month ~40~2~40~}#059#050
+1.  All dwellings increase population.~A0~ _Month ~40~2~40~#050
+|50
+@0001E82C-0001E8A8-FF
+;00000000{1.  ~40~1 population doubles!  All dwellings increase population.~A0~ _Month of the PLAGUE!  All populations are halved.~A0~ _Week ~40~2~40~}#140#125
+1.  ~40~1 population doubles!  All dwellings increase population.~A0~ _Month of the PLAGUE!  All populations are halved.~A0~ _Week ~40~2~40~#125
+|125
+@0001E8A9-0001E8D9-FF
+;00000000{1.  All dwellings increase population.~A0~ _Week ~40~2~40~}#058#049
+1.  All dwellings increase population.~A0~ _Week ~40~2~40~#049
+|49
+@0001E8DA-0001EC4A-FF
+;00000000{1.  ~40~1 dwellings +5 growth.  All dwellings increase population.~A0~of the~A0~~A0~~A0~You currently have no room for a spell book.  Try giving one of your artifacts to another hero~AE~You cannot pick up this artifact, you already have a full load~A1~No spells to cast~AE~You have no hero to cast a spell~AE~Your hero is too tired to cast this spell today.  Try again tomorrow~AE~Dimension Door failed!!~A1~Summon Boat Failed! _You must be next to water and a boat must be available to summon~AE~Town Gate Failed~A1~Town Gate Failed! _You must be on land for this spell to work~AE~Town Gate Failed! _The nearest town is occupied~AE~Town Gate Failed! _No town is available~AE~You have already cast a spell this round~AE~~40~1 resurrected~A1~The spell does ~40~1 damage~AE~Enemy heroes are now fully identifiable~AE~Select troop~AE~Select destination~AE~Invalid destination~AE~~40~1 cast~AE~Dragons resisted~A1~Dwarves resisted~A1~Move how many ~40~1 troops from ~40~2 to ~40~3~BF~}#980#881
+1.  ~40~1 dwellings +5 growth.  All dwellings increase population.~A0~of the~A0~~A0~~A0~You currently have no room for a spell book.  Try giving one of your artifacts to another hero~AE~You cannot pick up this artifact, you already have a full load~A1~No spells to cast~AE~You have no hero to cast a spell~AE~Your hero is too tired to cast this spell today.  Try again tomorrow~AE~Dimension Door failed!!~A1~Summon Boat Failed! _You must be next to water and a boat must be available to summon~AE~Town Gate Failed~A1~Town Gate Failed! _You must be on land for this spell to work~AE~Town Gate Failed! _The nearest town is occupied~AE~Town Gate Failed! _No town is available~AE~You have already cast a spell this round~AE~~40~1 resurrected~A1~The spell does ~40~1 damage~AE~Enemy heroes are now fully identifiable~AE~Select troop~AE~Select destination~AE~Invalid destination~AE~~40~1 cast~AE~Dragons resisted~A1~Dwarves resisted~A1~Move how many ~40~1 troops from ~40~2 to ~40~3~BF~#881
+|881
+@0001EC4B-0001EC8C-FF
+;00000000{Press 'A' to pass~AE~Press 'B' for info~AE~Move here~AE~Fly here~AE~Attack ~40~1~AE~}#084#066
+Press 'A' to pass~AE~Press 'B' for info~AE~Move here~AE~Fly here~AE~Attack ~40~1~AE~#066
+|66
+@0001EC8D-0001EC95-FF
+;00000000{Shoot ~40~1~AE~}#015#009
+Shoot ~40~1~AE~#009
+|9
+@0001EC97-0001EEFB-FF
+;00000000{Press 'A' to view hero~AE~Select Spell Targe~F4~Good luck~A1~Bad luck~A1~High morale~A1~Low morale~A1~~40~1 damage~AE~~40~1 destroyed~A1~~40~1 blinded~A1~~40~1 paralyzed~A1~~40~1 obliterated~A1~End Turn _One or more Heroes may still move, are you sure you want to end your turn~BF~  _You have captured an enemy artifact~A1~Blu~E5~Gree~EE~Re~E4~Yello~F7~~40~1 player has been vanquished!~A0~~40~1 player's heroes have abandoned him, and he is banished from this land.~A0~You have lost your last town.  If you do not conquer another town in the next week, you will be eliminated~AE~Your heroes abandon you, and you are banished from this land~AE~Days Spent~BA~Base Score~BA~Difficulty~BA~Final Score~BA~Rank~BA~~40~1~A5~}#718#613
+Press 'A' to view hero~AE~Select Spell Targe~F4~Good luck~A1~Bad luck~A1~High morale~A1~Low morale~A1~~40~1 damage~AE~~40~1 destroyed~A1~~40~1 blinded~A1~~40~1 paralyzed~A1~~40~1 obliterated~A1~End Turn _One or more Heroes may still move, are you sure you want to end your turn~BF~  _You have captured an enemy artifact~A1~Blu~E5~Gree~EE~Re~E4~Yello~F7~~40~1 player has been vanquished!~A0~~40~1 player's heroes have abandoned him, and he is banished from this land.~A0~You have lost your last town.  If you do not conquer another town in the next week, you will be eliminated~AE~Your heroes abandon you, and you are banished from this land~AE~Days Spent~BA~Base Score~BA~Difficulty~BA~Final Score~BA~Rank~BA~~40~1~A5~#613
+|613
+@0001EEFC-0001F191-FF
+;00000000{Owned by: Blue Playe~F2~Owned by: Green Playe~F2~Owned by: Red Playe~F2~Owned by: Yellow Playe~F2~Owned by: No On~E5~Press 'A' to move troop~AE~Press 'A' to cancel move~AE~Press 'A' to swap troops~AE~Press 'A' to move troops~AE~Press 'A' to merge troops~AE~Press 'A' to complete split~AE~Needs~BA~Needs: Thatched Hu~F4~Needs: Thatched Hut + Wel~EC~Needs: Thatched Hut + Taver~EE~Needs: Blacksmith + Armor~F9~Needs: Blacksmith + Armor~F9~Needs~BA~Needs: Straw Hu~F4~Needs: Straw Hu~F4~Needs: Straw Hu~F4~Needs: Adobe Hous~E5~Needs: Bridg~E5~Needs~BA~Needs: Treehouse + Taver~EE~Needs: Treehous~E5~Needs: Archery Range + Mage Guil~E4~Needs: Stoneheng~E5~Needs: Fenced Meado~F7~Needs~BA~Needs: Cav~E5~Needs: Cav~E5~Needs: Cryp~F4~Needs: Nes~F4~Needs: Maze + Swam~F0~~FF~}#767#659
+Owned by: Blue Playe~F2~Owned by: Green Playe~F2~Owned by: Red Playe~F2~Owned by: Yellow Playe~F2~Owned by: No On~E5~Press 'A' to move troop~AE~Press 'A' to cancel move~AE~Press 'A' to swap troops~AE~Press 'A' to move troops~AE~Press 'A' to merge troops~AE~Press 'A' to complete split~AE~Needs~BA~Needs: Thatched Hu~F4~Needs: Thatched Hut + Wel~EC~Needs: Thatched Hut + Taver~EE~Needs: Blacksmith + Armor~F9~Needs: Blacksmith + Armor~F9~Needs~BA~Needs: Straw Hu~F4~Needs: Straw Hu~F4~Needs: Straw Hu~F4~Needs: Adobe Hous~E5~Needs: Bridg~E5~Needs~BA~Needs: Treehouse + Taver~EE~Needs: Treehous~E5~Needs: Archery Range + Mage Guil~E4~Needs: Stoneheng~E5~Needs: Fenced Meado~F7~Needs~BA~Needs: Cav~E5~Needs: Cav~E5~Needs: Cryp~F4~Needs: Nes~F4~Needs: Maze + Swam~F0~~FF~#659
+;00000293{~FF~}#004#001
+~FF~#001
+;00000294{~FF~}#004#001
+~FF~#001
+;00000295{~FF~}#004#001
+~FF~#001
+|662
+@000200A4-0002034F-FF
+;00000000{MKnowWonde~F2~~A0~Programmed b~F9~Doug Schillin~E7~an~E4~ Michael Dorga~EE~~A0~Art and Animatio~EE~Mike Plattete~F2~~A0~Additional Programmin~E7~ Stephen Cuong Nguye~EE~Tom Power~F3~ Steve Ettinge~F2~~A0~KnowWonde~F2~~A0~Map Desig~EE~Michael Hume~F3~~A0~ Additional Ar~F4~Phil Knowle~F3~ Kerwin Burto~EE~~A0~Additional Animatio~EE~Laura Raines Smit~E8~~A0~ Music and Sound Effect~F3~Greg Turne~F2~~A0~KnowWonde~F2~~A0~Executive Produce~F2~ Steve Ettinge~F2~~A0~Director of Testin~E7~ Jack Brumme~F4~~A0~ Test Lea~E4~Wyeth Orestes Johnsto~EE~~A0~Tester~F3~ Cara Dieh~ED~Jeff Clinto~EE~ Hira Blueston~E5~ 3D~CF~~A0~Executive Produce~F2~Bill Hindorf~E6~~A0~Produce~F2~Ed Gwyn~EE~~A0~Assistant Produce~F2~ Darion Lowenstei~EE~~A0~Test Superviso~F2~Glen Cureto~EE~~A0~~A0~ 3D~CF~~A0~  Test Lea~E4~ Mark McCunne~F9~~A0~Tester~F3~Tony Le~E5~Jack Osorn~EF~Inga Lin~E4~Laurent Philipp~E5~  Amy Lian~E7~~A0~~A0~~A0~~A0~}#909#684
+MKnowWonde~F2~~A0~Programmed b~F9~Doug Schillin~E7~an~E4~ Michael Dorga~EE~~A0~Art and Animatio~EE~Mike Plattete~F2~~A0~Additional Programmin~E7~ Stephen Cuong Nguye~EE~Tom Power~F3~ Steve Ettinge~F2~~A0~KnowWonde~F2~~A0~Map Desig~EE~Michael Hume~F3~~A0~ Additional Ar~F4~Phil Knowle~F3~ Kerwin Burto~EE~~A0~Additional Animatio~EE~Laura Raines Smit~E8~~A0~ Music and Sound Effect~F3~Greg Turne~F2~~A0~KnowWonde~F2~~A0~Executive Produce~F2~ Steve Ettinge~F2~~A0~Director of Testin~E7~ Jack Brumme~F4~~A0~ Test Lea~E4~Wyeth Orestes Johnsto~EE~~A0~Tester~F3~ Cara Dieh~ED~Jeff Clinto~EE~ Hira Blueston~E5~ 3D~CF~~A0~Executive Produce~F2~Bill Hindorf~E6~~A0~Produce~F2~Ed Gwyn~EE~~A0~Assistant Produce~F2~ Darion Lowenstei~EE~~A0~Test Superviso~F2~Glen Cureto~EE~~A0~~A0~ 3D~CF~~A0~  Test Lea~E4~ Mark McCunne~F9~~A0~Tester~F3~Tony Le~E5~Jack Osorn~EF~Inga Lin~E4~Laurent Philipp~E5~  Amy Lian~E7~~A0~~A0~~A0~~A0~#684
+|684
+@00020350-0002039F-FF
+;00000000{ 3D~CF~~A0~  German Translation~F3~  Saskia Gillma~EE~~A0~French Translation~F3~Florence Zano~EE~~A0~~A0~~A0~~A0~}#113#080
+ 3D~CF~~A0~  German Translation~F3~  Saskia Gillma~EE~~A0~French Translation~F3~Florence Zano~EE~~A0~~A0~~A0~~A0~#080
+|80
+@000203A4-00020452-FF
+;00000000{Special Thank~F3~~A0~Susan and Stewart Schilling ~A0~Katy Dorgan ~A0~Martin Korth~A0~Scott McDermot~F4~Marc, Max and Athen~E1~Mike and Maria Plattete~F2~~A0~~A0~Original Concept by~A0~New World Computing~7C~~A0~~A0~~A0~~A0~}#223#175
+Special Thank~F3~~A0~Susan and Stewart Schilling ~A0~Katy Dorgan ~A0~Martin Korth~A0~Scott McDermot~F4~Marc, Max and Athen~E1~Mike and Maria Plattete~F2~~A0~~A0~Original Concept by~A0~New World Computing~7C~~A0~~A0~~A0~~A0~#175
+|175
+@00020456-00020D11-FF
+;00000000{Firebal~EC~Lightning Bol~F4~Telepor~F4~Cur~E5~Resurrec~F4~Hast~E5~Slo~F7~Blin~E4~Bles~F3~Protectio~EE~Curs~E5~Turn Undea~E4~Anti-Magi~E3~Dispel Magi~E3~Berzerke~F2~Armageddo~EE~Stor~ED~Meteor Showe~F2~Paralyz~E5~View Mine~F3~View Resource~F3~View Artifact~F3~View Town~F3~View Heroe~F3~View Al~EC~Identify Her~EF~Summon Boa~F4~Dimension Doo~F2~Town Gat~E5~No Spell Selecte~E4~Press 'A' to Exi~F4~Press 'A' to Upgrage Mage Guil~E4~Press 'A' to Buy a Spell Boo~EB~~40~1: Flaming death strikes the ground, hurting nearby creatures~AE~~40~1: Causes a bolt of electrical energy to strike the selected creature~AE~~40~1: Teleports a selected creature to any open battlefield position~AE~~40~1: Removes all negative spells cast upon your forces~AE~~40~1: Resurrects creatures from a damaged monster group~AE~~40~1: Increases the speed of any creature to 'very fast'~AE~~40~1: Slows down even the fastest enemy creature~AE~~40~1: Clouds the inflicted creatures' eyes, making them unable to act~AE~~40~1: Causes the selected creatures to inflict maximum damage~AE~~40~1: Magically increases the defense skill of the selected creatures~AE~~40~1: Causes the selected creatures to inflict minimum damage~AE~~40~1: Instantly sends a group of ghosts back to the grave~AE~~40~1: Prevents harmful magic against the selected creatures~AE~~40~1: Removes all magic spells from all parties in the battle~AE~~40~1: Causes a creature to attack its nearest neighbor~AE~~40~1: Holy terror strikes the battlefield, damaging all creatures~AE~~40~1: Magical elements engulf the battlefield, hurting all creatures~AE~~40~1: Rocks shower the battlefield, damaging nearby creatures~AE~~40~1: Targeted creatures are frozen, unable to act or retaliate~AE~~40~1: Causes all mines across the land to become visible~AE~~40~1: Causes all resources across the land to become visible~AE~~40~1: Causes all artifacts across the land to become visible~AE~~40~1: Causes all towns and castles across the land to become visible~AE~~40~1: Causes all Heroes across the land to become visible~AE~~40~1: Causes the entire land to become visible~AE~~40~1: Allows the caster to view detailed information on enemy Heroes~AE~~40~1: Summons the closest empty boat to an adjacent shore location~AE~~40~1: Magically transports the caster to a nearby location~AE~~40~1: Returns the caster to the nearest town or castle currently owned~AE~~A0~1000 gold!~A0~2000 gold!~A0~5000 gold!~A0~2000 gold and an artifact!~A0~~40~1 ~40~2 _ Cost: 250~B0~the Knigh~F4~the Barbaria~EE~the Sorceres~F3~the Warloc~EB~~FF~}#2548#2236
+Firebal~EC~Lightning Bol~F4~Telepor~F4~Cur~E5~Resurrec~F4~Hast~E5~Slo~F7~Blin~E4~Bles~F3~Protectio~EE~Curs~E5~Turn Undea~E4~Anti-Magi~E3~Dispel Magi~E3~Berzerke~F2~Armageddo~EE~Stor~ED~Meteor Showe~F2~Paralyz~E5~View Mine~F3~View Resource~F3~View Artifact~F3~View Town~F3~View Heroe~F3~View Al~EC~Identify Her~EF~Summon Boa~F4~Dimension Doo~F2~Town Gat~E5~No Spell Selecte~E4~Press 'A' to Exi~F4~Press 'A' to Upgrage Mage Guil~E4~Press 'A' to Buy a Spell Boo~EB~~40~1: Flaming death strikes the ground, hurting nearby creatures~AE~~40~1: Causes a bolt of electrical energy to strike the selected creature~AE~~40~1: Teleports a selected creature to any open battlefield position~AE~~40~1: Removes all negative spells cast upon your forces~AE~~40~1: Resurrects creatures from a damaged monster group~AE~~40~1: Increases the speed of any creature to 'very fast'~AE~~40~1: Slows down even the fastest enemy creature~AE~~40~1: Clouds the inflicted creatures' eyes, making them unable to act~AE~~40~1: Causes the selected creatures to inflict maximum damage~AE~~40~1: Magically increases the defense skill of the selected creatures~AE~~40~1: Causes the selected creatures to inflict minimum damage~AE~~40~1: Instantly sends a group of ghosts back to the grave~AE~~40~1: Prevents harmful magic against the selected creatures~AE~~40~1: Removes all magic spells from all parties in the battle~AE~~40~1: Causes a creature to attack its nearest neighbor~AE~~40~1: Holy terror strikes the battlefield, damaging all creatures~AE~~40~1: Magical elements engulf the battlefield, hurting all creatures~AE~~40~1: Rocks shower the battlefield, damaging nearby creatures~AE~~40~1: Targeted creatures are frozen, unable to act or retaliate~AE~~40~1: Causes all mines across the land to become visible~AE~~40~1: Causes all resources across the land to become visible~AE~~40~1: Causes all artifacts across the land to become visible~AE~~40~1: Causes all towns and castles across the land to become visible~AE~~40~1: Causes all Heroes across the land to become visible~AE~~40~1: Causes the entire land to become visible~AE~~40~1: Allows the caster to view detailed information on enemy Heroes~AE~~40~1: Summons the closest empty boat to an adjacent shore location~AE~~40~1: Magically transports the caster to a nearby location~AE~~40~1: Returns the caster to the nearest town or castle currently owned~AE~~A0~1000 gold!~A0~2000 gold!~A0~5000 gold!~A0~2000 gold and an artifact!~A0~~40~1 ~40~2 _ Cost: 250~B0~the Knigh~F4~the Barbaria~EE~the Sorceres~F3~the Warloc~EB~~FF~#2236
+|2236
+@00048003-00048023-FF
+;00000000{Hit The Beac~E8~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#057#033
+Hit The Beac~E8~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@0004C003-0004C023-FF
+;00000000{Right Angle~F3~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#060#033
+Right Angle~F3~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@00050003-00050038-FF
+;00000000{Safe Corners~BF~~00~~00~No boats...How will you get around~BF~~A0~~A0~~00~~00~}#078#054
+Safe Corners~BF~~00~~00~No boats...How will you get around~BF~~A0~~A0~~00~~00~#054
+|54
+@00054003-00054023-FF
+;00000000{Corner Pocket~F3~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#054#033
+Corner Pocket~F3~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@00058003-00058038-FF
+;00000000{Hail Britanni~E1~~00~Rule the waves to rule Britannia!!~A1~~A0~~A0~~00~~00~}#075#054
+Hail Britanni~E1~~00~Rule the waves to rule Britannia!!~A1~~A0~~A0~~00~~00~#054
+|54
+@000594BB-000594C4-FF
+;00000000{xyz{"~0E~~05~~10~~00~~00~}#025#010
+xyz{"~0E~~05~~10~~00~~00~#010
+|10
+@0005AA60-0005AA6C-FF
+;00000000{ ppB~18~? Ivo~00~v~BF~}#022#013
+ ppB~18~? Ivo~00~v~BF~#013
+|13
+@0005AE3B-0005AE44-FF
+;00000000{:*pPd~01~~40~~F0~~00~~F0~}#025#010
+:*pPd~01~~40~~F0~~00~~F0~#010
+|10
+@0005B343-0005B348-FF
+;00000000{CaP~D1~1~FE~}#012#006
+CaP~D1~1~FE~#006
+|6
+@0005C003-0005C00F-FF
+;00000000{New Worl~E4~~00~~00~~00~~00~}#028#013
+New Worl~E4~~00~~00~~00~~00~#013
+|13
+@0005C012-0005C065-FF
+;00000000{The fastest victory can lie on the outer edges, but power comes from the center~AE~~A0~~A0~~00~~00~}#099#084
+The fastest victory can lie on the outer edges, but power comes from the center~AE~~A0~~A0~~00~~00~#084
+|84
+@0005E892-0005E899-FF
+;00000000{HE}E~7E~~00~B~7F~}#017#008
+HE}E~7E~~00~B~7F~#008
+|8
+@00060003-0006000F-FF
+;00000000{Cold Sna~F0~~00~~00~~00~~00~}#028#013
+Cold Sna~F0~~00~~00~~00~~00~#013
+|13
+@00060012-0006006A-FF
+;00000000{Wood and sulfur are valuable in this frozen realm. And one town gives a warm welcome~AE~~A0~~A0~~00~~00~}#104#089
+Wood and sulfur are valuable in this frozen realm. And one town gives a warm welcome~AE~~A0~~A0~~00~~00~#089
+|89
+@00061267-0006127F-FF
+;00000000{JAAA~15~~16~EE34DAAAB~0E~~06~JAB~0E~~05~~05~~05~~06~}#052#025
+JAAA~15~~16~EE34DAAAB~0E~~06~JAB~0E~~05~~05~~05~~06~#025
+|25
+@00061303-00061317-FF
+;00000000{DAAAAAB~0E~~06~JAB~0E~~06~JB~0E~~10~~00~~00~~00~}#048#021
+DAAAAAB~0E~~06~JAB~0E~~06~JB~0E~~10~~00~~00~~00~#021
+|21
+@000614D2-000614DE-FF
+;00000000{JAL~40~~40~DAB~0E~~05~~10~~00~~00~}#034#013
+JAL~40~~40~DAB~0E~~05~~10~~00~~00~#013
+|13
+@00061513-00061520-FF
+;00000000{Nx~40~~40~~40~~40~DAB~0B~~00~~00~~00~~00~}#041#014
+Nx~40~~40~~40~~40~DAB~0B~~00~~00~~00~~00~#014
+|14
+@000618CD-000618D5-FF
+;00000000{HEEP~40~~14~~15~E~12~}#021#009
+HEEP~40~~14~~15~E~12~#009
+|9
+@00061D88-00061D90-FF
+;00000000{wEEP~40~~40~~14~~15~~40~}#024#009
+wEEP~40~~40~~14~~15~~40~#009
+|9
+@00061E3C-00061E48-FF
+;00000000{HEEP~40~~1B~EF~0A~~01~~0C~~00~~00~}#034#013
+HEEP~40~~1B~EF~0A~~01~~0C~~00~~00~#013
+|13
+@00061E7F-00061E86-FF
+;00000000{NEF~0A~~01~~0C~~00~~00~}#023#008
+NEF~0A~~01~~0C~~00~~00~#008
+|8
+@00061EB6-00061EBD-FF
+;00000000{NEP~40~~40~~40~C~0B~}#020#008
+NEP~40~~40~~40~C~0B~#008
+|8
+@000638C8-000638CD-FF
+;00000000{bAa~40~`~C0~}#012#006
+bAa~40~`~C0~#006
+|6
+@00064003-00064023-FF
+;00000000{Island Hoppin~E7~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#054#033
+Island Hoppin~E7~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@00065A86-00065A8D-FF
+;00000000{jab~0E~~10~~00~~00~~00~}#023#008
+jab~0E~~10~~00~~00~~00~#008
+|8
+@00065A8F-00065A96-FF
+;00000000{kab~0B~~04~~01~~01~~0C~}#023#008
+kab~0B~~04~~01~~01~~0C~#008
+|8
+@00067393-0006739F-FF
+;00000000{IOx~00~OHO~C8~~CF~~D8~~F8~l~00~}#031#013
+IOx~00~OHO~C8~~CF~~D8~~F8~l~00~#013
+|13
+@00068003-00068011-FF
+;00000000{Mud and Ic~E5~~00~~00~~00~~00~}#030#015
+Mud and Ic~E5~~00~~00~~00~~00~#015
+|15
+@000691EC-000691FD-FF
+;00000000{jab~0E~~1B~ldab+    ~17~~18~ ~94~}#033#018
+jab~0E~~1B~ldab+    ~17~~18~ ~94~#018
+|18
+@00069246-0006925C-FF
+;00000000{jl~12~~13~aaa~12~~13~```~17~~18~~17~~18~`c~0B~~00~~00~~00~~00~}#062#023
+jl~12~~13~aaa~12~~13~```~17~~18~~17~~18~`c~0B~~00~~00~~00~~00~#023
+|23
+@00069767-00069779-FF
+;00000000{k`c~0E~~03~nef~12~~13~qrrs~40~~15~~16~~12~~13~}#046#019
+k`c~0E~~03~nef~12~~13~qrrs~40~~15~~16~~12~~13~#019
+|19
+@00069CFD-00069D12-FF
+;00000000{NF~0A~~01~~01~~02~NEF~0A~~01~~01~~02~NEEF~0A~~01~~0C~~00~~00~}#061#022
+NF~0A~~01~~01~~02~NEF~0A~~01~~01~~02~NEEF~0A~~01~~0C~~00~~00~#022
+|22
+@0006B356-0006B35C-FF
+;00000000{bAa~00~~40~`~C0~}#016#007
+bAa~00~~40~`~C0~#007
+|7
+@0006BDBA-0006BDC2-FF
+;00000000{ aPH~19~~10~~3B~~83~~87~}#024#009
+ aPH~19~~10~~3B~~83~~87~#009
+|9
+@0006C003-0006C023-FF
+;00000000{Obelisk Isle~F3~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#057#033
+Obelisk Isle~F3~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@00070003-0007000F-FF
+;00000000{The Aren~E1~~00~~00~~00~~00~}#028#013
+The Aren~E1~~00~~00~~00~~00~#013
+|13
+@00070012-00070052-FF
+;00000000{Four Warlocks duel in a specially constructed arena of magic~AE~~A0~~A0~~00~~00~}#080#065
+Four Warlocks duel in a specially constructed arena of magic~AE~~A0~~A0~~00~~00~#065
+|65
+@000710FA-00071102-FF
+;00000000{u}tu}~7E~t}~7E~}#015#009
+u}tu}~7E~t}~7E~#009
+|9
+@00073145-0007314B-FF
+;00000000{t0aa~EA~b~EE~}#013#007
+t0aa~EA~b~EE~#007
+|7
+@00074003-00074023-FF
+;00000000{Valley Relic~F3~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#057#033
+Valley Relic~F3~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@000756F1-000756FF-FF
+;00000000{  xyz{ 78 ~12~~13~  ~19~}#024#015
+  xyz{ 78 ~12~~13~  ~19~#015
+|15
+@00078012-0007806E-FF
+;00000000{A thriving continent. But why is that volcano rumbling... and what's this about a secret~BF~~A0~~A0~~00~~00~}#108#093
+A thriving continent. But why is that volcano rumbling... and what's this about a secret~BF~~A0~~A0~~00~~00~#093
+|93
+@00079DB8-00079DBF-FF
+;00000000{XYZ~0B~~00~~00~~00~~00~}#023#008
+XYZ~0B~~00~~00~~00~~00~#008
+|8
+@0007C003-0007C023-FF
+;00000000{Golden Island~F3~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#054#033
+Golden Island~F3~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@00080003-00080023-FF
+;00000000{Lake Countr~F9~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#060#033
+Lake Countr~F9~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@0008126D-00081297-FF
+;00000000{AAA~16~AAAAAAAAA~16~AAAAAAAAAA~16~A89AAAAAAAAAB~0E~~08~~09~~00~~00~}#067#043
+AAA~16~AAAAAAAAA~16~AAAAAAAAAA~16~A89AAAAAAAAAB~0E~~08~~09~~00~~00~#043
+|43
+@000814A8-000814B8-FF
+;00000000{NEE~12~~13~~16~~16~EEEEP~40~~40~~12~~13~~14~}#044#017
+NEE~12~~13~~16~~16~EEEEP~40~~40~~12~~13~~14~#017
+|17
+@00081546-00081554-FF
+;00000000{HEE~12~~13~EEEEE~19~~C0~~C0~~19~~C0~}#036#015
+HEE~12~~13~EEEEE~19~~C0~~C0~~19~~C0~#015
+|15
+@0008163A-00081649-FF
+;00000000{NEEP~15~~16~~12~~13~``c~0B~~00~~00~~00~~00~}#043#016
+NEEP~15~~16~~12~~13~``c~0B~~00~~00~~00~~00~#016
+|16
+@00081A79-00081A87-FF
+;00000000{nef~14~~15~~15~~16~tuvw~11~!,~11~}#033#015
+nef~14~~15~~15~~16~tuvw~11~!,~11~#015
+|15
+@00084003-0008400F-FF
+;00000000{Town Hau~EC~~00~~00~~00~~00~}#028#013
+Town Hau~EC~~00~~00~~00~~00~#013
+|13
+@00084012-0008405E-FF
+;00000000{The towns have all the neat stuff, but don't ignore the rougher terrains~A1~~A0~~A0~~00~~00~}#092#077
+The towns have all the neat stuff, but don't ignore the rougher terrains~A1~~A0~~A0~~00~~00~#077
+|77
+@00086566-0008656C-FF
+;00000000{TAT~00~~10~`~03~}#016#007
+TAT~00~~10~`~03~#007
+|7
+@00088003-0008806C-FF
+;00000000{Arabian Night~F3~~00~The desert holds great wealth for those who can brave it. Follow the Bedouin trails...~A0~~A0~~A0~~00~~00~}#127#106
+Arabian Night~F3~~00~The desert holds great wealth for those who can brave it. Follow the Bedouin trails...~A0~~A0~~A0~~00~~00~#106
+|106
+@00089269-00089270-FF
+;00000000{XYZ~A0~~A0~~A0~~A8~~A5~}#023#008
+XYZ~A0~~A0~~A0~~A8~~A5~#008
+|8
+@00089442-00089449-FF
+;00000000{XYZ~1A~~A0~~A8~~A5~~A5~}#023#008
+XYZ~1A~~A0~~A8~~A5~~A5~#008
+|8
+@00089553-0008955A-FF
+;00000000{XYZ~C0~~C0~~C0~~C0~~C0~}#023#008
+XYZ~C0~~C0~~C0~~C0~~C0~#008
+|8
+@0008972A-00089731-FF
+;00000000{XYZ~A6~~C0~~C0~~AA~~12~}#023#008
+XYZ~A6~~C0~~C0~~AA~~12~#008
+|8
+@0008981B-00089822-FF
+;00000000{XYZ~12~~13~~0B~~00~~00~}#023#008
+XYZ~12~~13~~0B~~00~~00~#008
+|8
+@00089993-0008999A-FF
+;00000000{XYZ~C0~~C0~~12~~13~~A0~}#023#008
+XYZ~C0~~C0~~12~~13~~A0~#008
+|8
+@00089C86-00089C8D-FF
+;00000000{XYZ~AC~~12~~13~~A0~~A0~}#023#008
+XYZ~AC~~12~~13~~A0~~A0~#008
+|8
+@00089CB3-00089CBA-FF
+;00000000{XYZ~A0~~A0~~A0~~A0~~A0~}#023#008
+XYZ~A0~~A0~~A0~~A0~~A0~#008
+|8
+@00089E16-00089E1D-FF
+;00000000{XYZ~A0~~12~~13~~C0~~1E~}#023#008
+XYZ~A0~~12~~13~~C0~~1E~#008
+|8
+@00089F07-00089F0F-FF
+;00000000{XYZ~A0~~12~~13~~19~T~A0~}#024#009
+XYZ~A0~~12~~13~~19~T~A0~#009
+|9
+@0008D49A-0008D4A1-FF
+;00000000{dab~0E~~10~~00~~00~~00~}#023#008
+dab~0E~~10~~00~~00~~00~#008
+|8
+@0008D53B-0008D561-FF
+;00000000{jyaaa~1E~aaaaaaaa~12~~13~aaaaaaaal```c~0A~~02~nef~0A~~0C~~00~~00~~00~}#069#039
+jyaaa~1E~aaaaaaaa~12~~13~aaaaaaaal```c~0A~~02~nef~0A~~0C~~00~~00~~00~#039
+|39
+@00094003-0009400F-FF
+;00000000{Neighbor~F3~~00~~00~~00~~00~}#028#013
+Neighbor~F3~~00~~00~~00~~00~#013
+|13
+@00094012-0009406F-FF
+;00000000{They say the grass is greener on the other side, but you'll have to get there to find out~A1~~A0~~A0~~00~~00~}#109#094
+They say the grass is greener on the other side, but you'll have to get there to find out~A1~~A0~~A0~~00~~00~#094
+|94
+@00095265-0009526F-FF
+;00000000{xyz{  ~17~~18~~17~~18~~17~}#026#011
+xyz{  ~17~~18~~17~~18~~17~#011
+|11
+@00095D86-00095D93-FF
+;00000000{AAA~15~~16~~14~~15~      ~14~}#029#014
+AAA~15~~16~~14~~15~      ~14~#014
+|14
+@00095E0A-00095E12-FF
+;00000000{DAB+~15~~16~~14~~15~~14~}#024#009
+DAB+~15~~16~~14~~15~~14~#009
+|9
+@00096047-0009604E-FF
+;00000000{NEF~0A~~0C~~00~~00~~00~}#023#008
+NEF~0A~~0C~~00~~00~~00~#008
+|8
+@00097C75-00097C80-FF
+;00000000{BCD~23~EFG3H~3B~I~3B~}#021#012
+BCD~23~EFG3H~3B~I~3B~#012
+|12
+@00098003-00098023-FF
+;00000000{Shifting Sand~F3~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#054#033
+Shifting Sand~F3~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@00099447-0009944E-FF
+;00000000{XYZ~A3~~C0~~12~~13~~C0~}#023#008
+XYZ~A3~~C0~~12~~13~~C0~#008
+|8
+@00099839-00099840-FF
+;00000000{XYZ~A0~~A0~~A4~~A2~~12~}#023#008
+XYZ~A0~~A0~~A4~~A2~~12~#008
+|8
+@00099B4A-00099B51-FF
+;00000000{XYZ~17~~18~~C0~~C0~~1B~}#023#008
+XYZ~17~~18~~C0~~C0~~1B~#008
+|8
+@0009B1E4-0009B1F0-FF
+;00000000{ABC~23~~23~/7892~23~:~3B~}#025#013
+ABC~23~~23~/7892~23~:~3B~#013
+|13
+@0009B1F8-0009B1FF-FF
+;00000000{ABC~23~~23~~00~~00~~00~}#023#008
+ABC~23~~23~~00~~00~~00~#008
+|8
+@0009B963-0009B972-FF
+;00000000{ABC~17~~17~DEFGHI~17~~17~~17~~17~~17~}#037#016
+ABC~17~~17~DEFGHI~17~~17~~17~~17~~17~#016
+|16
+@0009B98B-0009B99A-FF
+;00000000{ABC~17~~17~DEFGHI~17~~17~~17~~00~~17~}#037#016
+ABC~17~~17~DEFGHI~17~~17~~17~~00~~17~#016
+|16
+@0009B9B3-0009B9C2-FF
+;00000000{ABY~17~~17~DEFGHI~17~~17~~17~~17~~17~}#037#016
+ABY~17~~17~DEFGHI~17~~17~~17~~17~~17~#016
+|16
+@0009C003-0009C023-FF
+;00000000{Snow Bunnie~F3~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#060#033
+Snow Bunnie~F3~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@0009D7EB-0009D7F2-FF
+;00000000{AAL~40~~40~~12~~13~~40~}#023#008
+AAL~40~~40~~12~~13~~40~#008
+|8
+@0009DB27-0009DB34-FF
+;00000000{NEE~17~~18~~12~~13~EE~12~~13~~40~~11~~40~}#041#014
+NEE~17~~18~~12~~13~EE~12~~13~~40~~11~~40~#014
+|14
+@0009DD2F-0009DD36-FF
+;00000000{XYZ~A0~~A0~~A0~~A3~~0E~}#023#008
+XYZ~A0~~A0~~A0~~A3~~0E~#008
+|8
+@0009E4B3-0009E4BA-FF
+;00000000{ABC~A7~~17~~18~~A7~~01~}#023#008
+ABC~A7~~17~~18~~A7~~01~#008
+|8
+@000A0012-000A006B-FF
+;00000000{The pathways keep you safe, but you'll need to take risks to conquer this marshy land~AE~~A0~~A0~~00~~00~}#105#090
+The pathways keep you safe, but you'll need to take risks to conquer this marshy land~AE~~A0~~A0~~00~~00~#090
+|90
+@000A11AC-000A11C0-FF
+;00000000{XYZ[ldyaay~0E~~05~~06~jab~0E~~05~~05~~10~~03~}#045#021
+XYZ[ldyaay~0E~~05~~06~jab~0E~~05~~05~~10~~03~#021
+|21
+@000A1D30-000A1D37-FF
+;00000000{hye~19~~17~~18~~C0~~C0~}#023#008
+hye~19~~17~~18~~C0~~C0~#008
+|8
+@000A1D92-000A1D99-FF
+;00000000{hey~17~~18~~C0~~C0~~C0~}#023#008
+hey~17~~18~~C0~~C0~~C0~#008
+|8
+@000A1E0A-000A1E11-FF
+;00000000{jab~C0~~C0~~C0~~C0~~1A~}#023#008
+jab~C0~~C0~~C0~~C0~~1A~#008
+|8
+@000A1FF5-000A2001-FF
+;00000000{eef~0A~~02~nep~17~~18~~0A~~01~~01~}#034#013
+eef~0A~~02~nep~17~~18~~0A~~01~~01~#013
+|13
+@000A200C-000A2013-FF
+;00000000{neep~17~~18~`~19~}#017#008
+neep~17~~18~`~19~#008
+|8
+@000A23E0-000A2453-FF
+;00000000{$    '()*+,-./01'    2345234523    '6789:~3B~<=>?'    ~40~ABC~40~ABC~40~A    'DEFGHIJKLM'    NOPQNOPQNO    'RSTUVWXYZ['    ~23~$%&~23~}#134#116
+$    '()*+,-./01'    2345234523    '6789:~3B~<=>?'    ~40~ABC~40~ABC~40~A    'DEFGHIJKLM'    NOPQNOPQNO    'RSTUVWXYZ['    ~23~$%&~23~#116
+|116
+@000A24B3-000A2526-FF
+;00000000{pqqqqqqqqqqqqqqqqqqr3234523452sttttttttttttttttttuA~40~ABC~40~ABC~40~sttttttttttttttttttuONOPQNOPQNsttttttttttttttttttu$~23~$%&~23~}#131#116
+pqqqqqqqqqqqqqqqqqqr3234523452sttttttttttttttttttuA~40~ABC~40~ABC~40~sttttttttttttttttttuONOPQNOPQNsttttttttttttttttttu$~23~$%&~23~#116
+|116
+@000A25BA-000A25F1-FF
+;00000000{ABC~40~ABC                    NONOPQNOPQ()*+,-./01yyyyz{~7C~}~7E~}#065#056
+ABC~40~ABC                    NONOPQNOPQ()*+,-./01yyyyz{~7C~}~7E~#056
+|56
+@000A268D-000A2697-FF
+;00000000{ABC~40~AB~A4~~A5~~A6~~A7~~A4~}#029#011
+ABC~40~AB~A4~~A5~~A6~~A7~~A4~#011
+|11
+@000A530C-000A531D-FF
+;00000000{jb~0E~~06~jab~0E~~05~~06~jab~0E~~05~~10~~00~~00~}#048#018
+jb~0E~~06~jab~0E~~05~~06~jab~0E~~05~~10~~00~~00~#018
+|18
+@000A536B-000A5381-FF
+;00000000{jb~0E~~05~~06~jldQRab~0E~~05~~06~jab~0B~~00~~00~~00~~00~}#056#023
+jb~0E~~05~~06~jldQRab~0E~~05~~06~jab~0B~~00~~00~~00~~00~#023
+|23
+@000A586B-000A5872-FF
+;00000000{nef~0A~~01~~02~~17~~18~}#023#008
+nef~0A~~01~~02~~17~~18~#008
+|8
+@000A594C-000A5953-FF
+;00000000{jab~0E~~05~~01~~02~~C0~}#023#008
+jab~0E~~05~~01~~02~~C0~#008
+|8
+@000A5F6D-000A5F87-FF
+;00000000{nee~1C~eep`~12~~13~ehQRp````89~0B~~00~~00~~00~z~00~}#051#027
+nee~1C~eep`~12~~13~ehQRp````89~0B~~00~~00~~00~z~00~#027
+|27
+@000A5F8A-000A5F9E-FF
+;00000000{nee:~3B~<eeee~19~p```h~19~~0B~~00~~00~~00~}#042#021
+nee:~3B~<eeee~19~p```h~19~~0B~~00~~00~~00~#021
+|21
+@000A721A-000A7224-FF
+;00000000{(I(I(I~87~~88~~89~~8A~~83~}#026#011
+(I(I(I~87~~88~~89~~8A~~83~#011
+|11
+@000A7228-000A7232-FF
+;00000000{(I(I(I~87~~88~~89~~8A~~8B~}#026#011
+(I(I(I~87~~88~~89~~8A~~8B~#011
+|11
+@000A8003-000A8068-FF
+;00000000{Barrier Reef~F3~~00~~00~Treasure dots the outer reefs, but the secret of the greatest treasure lies within~AE~~A0~~A0~~00~~00~}#126#102
+Barrier Reef~F3~~00~~00~Treasure dots the outer reefs, but the secret of the greatest treasure lies within~AE~~A0~~A0~~00~~00~#102
+|102
+@000AC003-000AC023-FF
+;00000000{Cross Purpose~F3~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#054#033
+Cross Purpose~F3~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@000AF3A3-000AF3DF-FF
+;00000000{NOP~A9~QRS~A9~TUV~A9~WXY~A9~Z[\]^_`abcbcbcbcdefghijklmnopqprpsptuvwx(y~F3~(~A9~}#079#061
+NOP~A9~QRS~A9~TUV~A9~WXY~A9~Z[\]^_`abcbcbcbcdefghijklmnopqprpsptuvwx(y~F3~(~A9~#061
+|61
+@000AF667-000AF6B3-FF
+;00000000{ABCDEFGHIJKL~C5~MN~C5~OPQ~A9~RST~A9~UVW~A9~XYZ~A9~[\]^_`abcdcdcdcdefghijklmnopqrqsqtquvwxy~18~~19~~F3~~18~~A9~}#110#077
+ABCDEFGHIJKL~C5~MN~C5~OPQ~A9~RST~A9~UVW~A9~XYZ~A9~[\]^_`abcdcdcdcdefghijklmnopqrqsqtquvwxy~18~~19~~F3~~18~~A9~#077
+|77
+@000B0003-000B0069-FF
+;00000000{Goblin Empir~E5~~00~~00~Goblins hold all towns and castles. Try to pry them out before the other knights do~AE~~A0~~A0~~00~~00~}#127#103
+Goblin Empir~E5~~00~~00~Goblins hold all towns and castles. Try to pry them out before the other knights do~AE~~A0~~A0~~00~~00~#103
+|103
+@000B25FB-000B2608-FF
+;00000000{ABC~E2~~E3~RSTS~FC~~FD~~FE~~FF~}#031#013
+ABC~E2~~E3~RSTS~FC~~FD~~FE~~FF~#013
+;0000000D{~00~}#004#001
+~00~#001
+|14
+@000B4003-000B4023-FF
+;00000000{Green Field~F3~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#060#033
+Green Field~F3~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+@000B73EE-000B73F7-FF
+;00000000{ABBA~40~?>=<~3B~}#016#010
+ABBA~40~?>=<~3B~#010
+|10
+@000B8003-000B800E-FF
+;00000000{Big Ben~E4~~00~~00~~00~~00~}#027#012
+Big Ben~E4~~00~~00~~00~~00~#012
+|12
+@000BC003-000BC023-FF
+;00000000{Hidden Spir~E5~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~}#060#033
+Hidden Spir~E5~~00~~00~~00~No Descriptio~EE~~A0~~A0~~00~~00~#033
+|33
+

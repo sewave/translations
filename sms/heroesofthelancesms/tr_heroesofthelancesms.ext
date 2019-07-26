@@ -1,0 +1,269 @@
+@0000A003-0000A439-FF
+;00000000{TANIS:==Tanthalas, better=known as Tanis=half-elven, is a=master swordsman=and archer, making=the best of his=mixed parentage to=become one of the=deadliest fighters=of the age.=The natural leader=of the Companions.~FF~}#219#216
+Tanis ==Tanthalas, más=conocido como=Tanis el semielfo,=es maestro=espadachín y=arquero,=sacando lo mejor=de su linaje=mezclado para=hacerle uno de los=luchadores más=mortíferos. =El líder natural de=los Compañeros.~FF~#216
+;000000D8{~FE~~96~8GOLDMOON ==A human cleric,=daughter of the=Que-Shu's=Chieftain, she is=betrothed to=Riverwind. Goldmoon=carries the Blue=Crystal Staff, it's=full powers as yet=unknown but only=available to her.~FF~}#207#198
+~FE~~96~8
+Goldmoon ==Clériga humana,=hija del Jefe  =Que Shu,  =está prometida con=Riverwind.=Goldmoon lleva la=Vara del Cristal=Azul, sus poderes=completos aún se=desconocen pero=solo están para=ella.   ~FF~#198
+;0000019E{~FE~~9E~8CARAMON ==Trained as a=warrior, Caramon=Majere gained=the experience=to make him a=mighty warrior,=by his travels=with Flint and=Tanis.  Armed~0E~with spear and=longsword,=he is a valued=member of the=Companions.~FF~}#225#213
+~FE~~9E~8
+Caramon ==Entrenado como=guerrero,=Caramon=Majere ganó la=experiencia=para hacerle un=guerrero =poderoso =viajando con=Flint y Tanis.=Armado con=lanza y espada~0E~larga, es un=miembro=valioso de los=Compañeros.  ~FF~#213
+;00000273{~FE~~9E~8FLINT ==Born and bred=a Hill Dwarf,=Flint Fireforge=is a master=metalsmith,=fearless fighter=and elf-friend. =Few enemies care=to face his=battleaxe at=close range,=fewer still get=past his=throwing axes.~FF~}#217#208
+~FE~~9E~8
+Flint ==Criado como=Enano de=Colina,=Flint Fireforge=es un maestro=orfebre,=luchador sin=miedo y amigo=de elfos.=Pocos enemigos=se atreven con=su hacha de=batalla,=aún menos pasan=de sus hachas=lanzables.~FF~#208
+;00000343{~FE~~98~8RAISTLIN ==The brother of=Caramon, his=incredible talent=for magic led him=to become the=youngest Mage ever=to pass 'The TEST'=which confirmed=his abilities but=left him a=physical wreck.=During this ordeal=he acquired the='Staff of Magius'~FF~}#253#244
+~FE~~98~8
+Raistlin ==El hermano de=Caramon, su=increíble talento=para la magia le=hizo el Mago más=joven en pasar='La PRUEBA', lo=que confirmó sus=habilidades pero=le dejó mal=físicamente.=Durante esta=prueba obtuvo la='Vara de Magius'=              ~FF~#244
+|1079
+@0000A43A-0000A870-FF
+;00000000{~FE~~9E~8RIVERWIND ==An outcast of=the Que-Shu=tribe, he had=the temerity to=fall in love~0E~with Goldmoon.=With the skills=of a human=ranger, he=fights with bow=and longsword.=With his=betrothed, he=is seeking the=secrets of the=Blue Crystal~0E~ Staff.~FF~}#257#242
+~FE~~9E~8
+Riverwind ==Un proscrito de=la tribu Que=Shu, tuvo la=temeridad de=enamorarse de~0E~Goldmoon.     =Con las=habilidades de=un explorador=humano, lucha=con arco y=espada larga.=Con su=prometida,=busca los=secretos de la=Vara del =Cristal Azul.~FF~#242
+;000000F2{~FE~~98~8STURM ==The son of a Knight=of Solamnia, Sturm=Brightblade is a=human fighter.=Taught his=wilderness skills=by Flint, he is=bound by his code=of honor to disdain=ranged weapons as=cowardly, fighting=with his two-handed=sword in close=combat.~FF~}#254#245
+~FE~~98~8
+Sturm ==Hijo de un=Caballero de=Solamnia, Sturm=Brightblade es un=guerrero humano.=Sus habilidades=silvestres las=aprendió de Flint,=está unido a su=código de honor de=no usar cobardes=armas a distancia,=luchando con su=espada a dos=manos.  ~FF~#245
+;000001E7{~FE~~96~8TASSLEHOFF ==As a Kender,=Tasslehoff Burrfoot=has their insatiable=curiousity,=especially about=other peoples'=possessions. Calling=him a thief is a=deadly insult but he~FE~Z~3B~doesn't really=understand why=people get annoyed=when he acquires=their property.=Fights with the=Hoopak.~FF~}#296#281
+~FE~~96~8
+Tasslehoff ==Como Kender,  =Tasslehoff Burrfoot=tiene su insaciable =curiosidad,=especialmente sobre=posesiones de=otros.=Llamarle ladrón es=un insulto mortal,=~FE~Z~3B~ pero él no=entiende=realmente por que=la gente se=enfada cuando=adquiere sus=propiedades.=Lucha con el   =Hoopak.~FF~#281
+;00000300{~FE~~A2~~3D~Press Button~FF~}#028#016
+~FE~~A2~~3D~Pulsa Botón ~FF~#016
+;00000310{            MIN       MAX=Strength=Intelligence=Wisdom=Constitution=Dexterity=Charisma==Hit points==Using ~FF~}#110#107
+            Mín       Máx=Fuerza=Inteligencia=Sabiduría=Constitución=Destreza=Carisma==Puntos Vida==Usando~FF~#107
+;0000037B{      SCORE==    Monsters killed ==Baaz        Bozak=Troll       Wraith=Spectral    Aghar lrg=Aghar       Men=Spider      Hatchling==Party Experience==Points for Combat =Points for items:~FF~}#191#188
+     PUNTOS==
+       Muertes      ==
+Baaz        Bozak=
+Troll       Fantasma=
+Espectral   Aghar lrg=
+Aghar       Hombre=
+Araña       Crias==
+Experiencia Grupo==
+Puntos Combates=
+Puntos Objetos    ~FF~#188
+|1079
+@0000A871-0000AC9B-FF
+;00000000{  MAIN MENU=Hero select=Magic user spells=Clerical staff spells=Use=Take=Give=Drop=Score=Exit menu~FF~}#102#099
+  MENÚ PRIN =
+Elige Héroe=
+Hechizos de Mago =
+Hechizos de Clérigo =
+Usa=
+Coge=
+Da=
+Deja=
+Puntos=
+Salir Menú~FF~#099
+;00000063{===The monsters appear==to slow down~FF~}#040#037
+===Los monstruos ==parecen ir lentos~FF~#037
+;00000088{===The potion cures==some of your wounds~FF~}#044#041
+===La poción cura  ==algunas heridas    ~FF~#041
+;000000B1{===You feel stronger~FF~}#024#021
+===Te sientes fuerte~FF~#021
+;000000C6{===You feel more==confident~FF~}#031#028
+===Te sientes más==seguro  ~FF~#028
+;000000E2{===You feel more==confident wearing==the ring~FF~}#049#046
+===Te sientes más==seguro llevando el==anillo~FF~#046
+;00000110{   TAKE MENU====You cannot carry any==more items===Exit menu~FF~}#064#061
+   MENÚ COGE====No puedes cargar con==más items===Salir menú~FF~#061
+;0000014D{   GIVE MENU===selected character==cannot carry any==more items==Exit menu~FF~}#078#075
+   MENÚ DA ===el personaje elegido==no puede cargar más==items==Salir menú~FF~#075
+;00000198{HECHIZOS DE MAGOS===  Raistlin has not==    readied the==  Staff of Magius==Exit menu~FF~}#089#086
+HECHIZOS DE MAGO ===   Raistlin no ha==    preparado la==  Vara de Magius==Salir menú~FF~#086
+;000001EE{HECHIZOS DE MAGOS===Raistlin is not one of==  the first four==    characters==Exit menu~FF~}#091#088
+HECHIZOS DE MAGO ===Raistlin no es uno de==  los cuatro 1os==    personajes==Salir menú~FF~#088
+;00000246{===Only Raistlin can==use this item~FF~}#039#036
+===Solo Raistlin puede==usarlo     ~FF~#036
+;0000026A{===Raistlin must be==party leader to use==this spell~FF~}#056#053
+===Raistlin debe ser el==líder para usar el==hechizo~FF~#053
+;0000029F{HECHIZOS DE MAGOS=Charm=Sleep=Magic missile=Web=Detect Magic=Detect invisible=Final strike=Burning hands=Exit menu~FF~}#118#115
+HECHIZOS DE MAGO =Encanta=Duerme=Misil mágico=Red=Det. Magia=Det. invisible=Golpe final=Manos ardientes=Salir menú~FF~#115
+;00000312{===The Staff of Magius==burns your hands as==you touch it~FF~}#061#058
+===La vara de Magius te==quema las manos al  ==tocarla   ~FF~#058
+;0000034C{===A brief blue flare==burns your hands as==you touch it~FF~}#060#057
+===Una breve llama azul==quema en tu mano al ==tocarla  ~FF~#057
+;00000385{===The staff flares==as you attempt to give==it to this character~FF~}#069#066
+===La vara se enciende al ==intentar dársela a este ==personaje  ~FF~#066
+;000003C7{===You can not give==an object to a==dead character~FF~}#055#052
+===No puedes darle un==objeto a un muerto==        ~FF~#052
+;000003FB{WATERFALL===The waterfall cures all=your wounds~FF~}#051#048
+CASCADA  ===La cascada cura todas=tus heridas  ~FF~#048
+|1067
+@0000AC9C-0000AF5E-FF
+;00000000{WATERFALL===The waterfall has no=effect on your party~FF~}#057#054
+CASCADA  ===La cascada no tiene efecto=en tu grupo   ~FF~#054
+;00000036{===Tasslehoff locates==and removes a trap~FF~}#045#042
+===Tasslehoff ubica y==elimina una trampa~FF~#042
+;00000060{===Riverwind moves to==the front to==protect Goldmoon~FF~}#057#054
+===Riverwind va al   ==frente a proteger ==a Goldmoon~FF~#054
+;00000096{===You hear alarm==bells in the distance~FF~}#044#041
+===Oyes campanas de ==alarma a lo lejos ~FF~#041
+;000000BF{HECHIZOS DE CLÉRIGOS= ==Characters 1 to 4==  are not holding the==  Blue Crystal Staff==Exit menu~FF~}#101#098
+HECHIZOS DE CLÉRIGO = ==Personajes 1 a 4==  No tienen la Vara   ==  del Cristal Azul ==Salir menú~FF~#098
+;00000121{HECHIZOS DE CLÉRIGOS= Cure light wounds=Protection from evil=Find traps=Hold person=Spiritual hammer=Prayer=Cure critical wounds=Raise dead=Deflect dragon breath=Exit menu~FF~}#175#172
+HECHIZOS DE CLÉRIGO =Cura leve=Protección del mal=Buscar trampas=Inmovilizar=Martillo Espiritual=Oración=Cura crítica=Levantar Muertos    =Desvía aliento dragón=Salir menú~FF~#172
+;000001CD{HECHIZOS DE CLÉRIGOS= Cure light wounds=Find traps=Cure critical wounds=Deflect dragon breath=Exit menu~FF~}#107#104
+HECHIZOS DE CLÉRIGO =Cura leve=Buscar trampas    =Cura crítica        =Desvía aliento dragón=Salir menú~FF~#104
+;00000235{===Raistlin prepares==this spell~FF~}#036#033
+===Raistlin prepara ==el hechizo~FF~#033
+;00000256{You failed in your quest=for the Disks of Mishakal~FF~}#054#051
+Fallaste en tu aventura=por los Discos de Mishakal~FF~#051
+;00000289{Congratulations. You have=recovered the=Disks of Mishakal~FF~}#061#058
+Felicidades.   =Has recuperado los    =Discos de Mishakal~FF~#058
+|707
+@00005B05-00005B5B-FF
+;00000000{The blue staff has==no power at==present~FF~}#044#041
+La vara azul no==tiene poder ahora==    ~FF~#041
+;00000029{The staff of Magius==has no power at==present~FF~}#049#046
+La vara de Magius  ==no tiene poder ==ahora  ~FF~#046
+|87
+@0000677E-00006A1C-FF
+;00000000{   TAKE MENU=~FF~}#017#014
+   MENÚ COGE=~FF~#014
+;0000000E{   DROP MENU=~FF~}#017#014
+   MENÚ DEJA=~FF~#014
+;0000001C{   GIVE MENU=~FF~}#017#014
+   MENÚ DA  =~FF~#014
+;0000002A{   USE MENU=~FF~}#016#013
+   MENÚ USA=~FF~#013
+;00000037{==There are no items==    available==~FF~}#041#038
+==  No hay objetos==   disponibles ==~FF~#038
+;0000005D{Exit menu=~FF~}#014#011
+Salir    =~FF~#011
+;00000068{no range Weapon~FF~}#019#016
+Sin Arma Distan~FF~#016
+;00000078{                  ~FF~}#022#019
+                  ~FF~#019
+;0000008B{~FF~}#004#001
+~FF~#001
+;0000008C{Blue Crystal Staff=~FF~}#023#020
+Vara Cristal Azul =~FF~#020
+;000000A0{Staff of Magius=~FF~}#020#017
+Vara de Magius =~FF~#017
+;000000B1{Bow=~FF~}#008#005
+Arc=~FF~#005
+;000000B6{Longsword=~FF~}#014#011
+Espada La=~FF~#011
+;000000C1{Dagger=~FF~}#011#008
+Daga  =~FF~#008
+;000000C9{Hoopak=~FF~}#011#008
+Hoopak=~FF~#008
+;000000D1{Jo stick=~FF~}#013#010
+Palo Jo =~FF~#010
+;000000DB{Hunting Knife=~FF~}#018#015
+Cuchillo Caza=~FF~#015
+;000000EA{Spear=~FF~}#010#007
+Lanza=~FF~#007
+;000000F1{Two handed sword=~FF~}#021#018
+Espada dos manos=~FF~#018
+;00000103{Hand axe=~FF~}#013#010
+Hacha ma=~FF~#010
+;0000010D{Sword=~FF~}#010#007
+Espad=~FF~#007
+;00000114{Sword=~FF~}#010#007
+Espad=~FF~#007
+;0000011B{Green Quiver=~FF~}#017#014
+Carcaj Verde=~FF~#014
+;00000129{Red Quiver=~FF~}#015#012
+Carcaj Roj=~FF~#012
+;00000135{Pouch=~FF~}#010#007
+Bolsa=~FF~#007
+;0000013C{Bracelet=~FF~}#013#010
+Brazalet=~FF~#010
+;00000146{Shield=~FF~}#011#008
+Escudo=~FF~#008
+;0000014E{Shield=~FF~}#011#008
+Escudo=~FF~#008
+;00000156{Shield=~FF~}#011#008
+Escudo=~FF~#008
+;0000015E{Shield=~FF~}#011#008
+Escudo=~FF~#008
+;00000166{Shield=~FF~}#011#008
+Escudo=~FF~#008
+;0000016E{Gem=~FF~}#008#005
+Gem=~FF~#005
+;00000173{Gem=~FF~}#008#005
+Gem=~FF~#005
+;00000178{Gem=~FF~}#008#005
+Gem=~FF~#005
+;0000017D{Gem=~FF~}#008#005
+Gem=~FF~#005
+;00000182{Gem=~FF~}#008#005
+Gem=~FF~#005
+;00000187{Gold Bar=~FF~}#013#010
+Barra Or=~FF~#010
+;00000191{Silver Bar=~FF~}#015#012
+Barra Plat=~FF~#012
+;0000019D{Gold Chalice=~FF~}#017#014
+Cáliz Dorado=~FF~#014
+;000001AB{Silver Chalice=~FF~}#019#016
+Cáliz Plateado=~FF~#016
+;000001BB{Coins=~FF~}#010#007
+Moned=~FF~#007
+;000001C2{TBD=~FF~}#008#005
+VAC=~FF~#005
+;000001C7{TBD=~FF~}#008#005
+VAC=~FF~#005
+;000001CC{TBD=~FF~}#008#005
+VAC=~FF~#005
+;000001D1{TBD=~FF~}#008#005
+VAC=~FF~#005
+;000001D6{TBD=~FF~}#008#005
+VAC=~FF~#005
+;000001DB{TBD=~FF~}#008#005
+VAC=~FF~#005
+;000001E0{TBD=~FF~}#008#005
+VAC=~FF~#005
+;000001E5{Bow=~FF~}#008#005
+Arc=~FF~#005
+;000001EA{Longsword=~FF~}#014#011
+Espada La=~FF~#011
+;000001F5{Sword=~FF~}#010#007
+Espad=~FF~#007
+;000001FC{Dagger=~FF~}#011#008
+Daga  =~FF~#008
+;00000204{Hunting Knife=~FF~}#018#015
+Cuchillo Caza=~FF~#015
+;00000213{Scroll=~FF~}#011#008
+Pergam=~FF~#008
+;0000021B{Scroll=~FF~}#011#008
+Pergam=~FF~#008
+;00000223{Green Potion=~FF~}#017#014
+poción Verde=~FF~#014
+;00000231{Orange Potion=~FF~}#018#015
+Poción Naranj=~FF~#015
+;00000240{Red Potion=~FF~}#015#012
+Poción Roj=~FF~#012
+;0000024C{Blue Potion=~FF~}#016#013
+Poción Azul=~FF~#013
+;00000259{Yellow Potion=~FF~}#018#015
+Poción Amaril=~FF~#015
+;00000268{Ring=~FF~}#009#006
+Anil=~FF~#006
+;0000026E{Gem Ring=~FF~}#013#010
+Anillo G=~FF~#010
+;00000278{Wand=~FF~}#009#006
+Vara=~FF~#006
+;0000027E{Disks of Mishakal=~FF~}#022#019
+Discos Mishakal  =~FF~#019
+;00000291{Brown Potion=~FF~}#017#014
+Poción Marró=~FF~#014
+|671
+@00006D39-00006DC7-FF
+;00000000{ Goldmoon     ~FF~}#018#015
+ Goldmoon     ~FF~#015
+;0000000F{~00~  Sturm       ~FF~}#022#016
+~00~  Sturm       ~FF~#016
+;0000001F{~00~ Caramon      ~FF~}#022#016
+~00~ Caramon      ~FF~#016
+;0000002F{~00~ Raistlin     ~FF~}#022#016
+~00~ Raistlin     ~FF~#016
+;0000003F{~00~  Tanis       ~FF~}#022#016
+~00~  Tanis       ~FF~#016
+;0000004F{~00~Tasslehoff    ~FF~}#022#016
+~00~Tasslehoff    ~FF~#016
+;0000005F{~00~Riverwind     ~FF~}#022#016
+~00~Riverwind     ~FF~#016
+;0000006F{~00~  Flint       ~FF~}#022#016
+~00~  Flint       ~FF~#016
+;0000007F{~00~Dead character~FF~}#022#016
+~00~ Está muerto  ~FF~#016
+|143

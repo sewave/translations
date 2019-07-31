@@ -1,0 +1,102 @@
+@00001218-00001671-00
+;00001218{A stone must be placednext to another stone.~00~}#048#045
+A stone must be placednext to another stone.~00~#045
+;00001245{~05~~00~}#008#002
+~05~~00~#002
+;00001247{~00~}#004#001
+~00~#001
+;00001248{~00~}#004#001
+~00~#001
+;00001249{~03~~00~}#008#002
+~03~~00~#002
+;0000124B{~80~When you place a stonenext to another, it   must match by either  color or symbol.      ~00~}#096#090
+~80~When you place a stonenext to another, it   must match by either  color or symbol.      ~00~#090
+;000012A5{~06~~00~}#008#002
+~06~~00~#002
+;000012A7{~00~}#004#001
+~00~#001
+;000012A8{~00~}#004#001
+~00~#001
+;000012A9{~04~~00~}#008#002
+~04~~00~#002
+;000012AB{~80~When you place a stonenext to two others, itmust match one by     color and one by      symbol.               ~00~}#118#112
+~80~When you place a stonenext to two others, itmust match one by     color and one by      symbol.               ~00~#112
+;0000131B{~06~~00~}#008#002
+~06~~00~#002
+;0000131D{~00~}#004#001
+~00~#001
+;0000131E{~00~}#004#001
+~00~#001
+;0000131F{~05~~00~}#008#002
+~05~~00~#002
+;00001321{~80~When you place a stonenext to three others, it must match one by  symbol and two by     color, or one by colorand two by symbol.    ~00~}#140#134
+~80~When you place a stonenext to three others, it must match one by  symbol and two by     color, or one by colorand two by symbol.    ~00~#134
+;000013A7{~06~~00~}#008#002
+~06~~00~#002
+;000013A9{~00~}#004#001
+~00~#001
+;000013AA{~00~}#004#001
+~00~#001
+;000013AB{~04~~00~}#008#002
+~04~~00~#002
+;000013AD{~80~When you place a stonenext to four others,  it must match two by  symbol and two by     color.                ~00~}#118#112
+~80~When you place a stonenext to four others,  it must match two by  symbol and two by     color.                ~00~#112
+;0000141D{~05~~00~}#008#002
+~05~~00~#002
+;0000141F{~80~~00~}#008#002
+~80~~00~#002
+;00001421{~03~~01~~00~}#012#003
+~03~~01~~00~#003
+;00001424{     There are no          moves left.                                  GAME OVER       ~00~}#092#089
+     There are no          moves left.                                  GAME OVER       ~00~#089
+;0000147D{~04~~00~}#008#002
+~04~~00~#002
+;0000147F{~80~~00~}#008#002
+~80~~00~#002
+;00001481{~02~~01~~00~}#012#003
+~02~~01~~00~#003
+;00001484{  The pouch is empty.                             GAME OVER       ~00~}#070#067
+  The pouch is empty.                             GAME OVER       ~00~#067
+;000014C7{~03~~01~~00~}#012#003
+~03~~01~~00~#003
+;000014CA{~00~}#004#001
+~00~#001
+;000014CB{~01~~01~~80~ You have already      placed a stone there.~00~}#060#048
+~01~~01~~80~ You have already      placed a stone there.~00~#048
+;000014FB{~05~~00~}#008#002
+~05~~00~#002
+;000014FD{~00~}#004#001
+~00~#001
+;000014FE{~00~}#004#001
+~00~#001
+;000014FF{~03~~00~}#008#002
+~03~~00~#002
+;00001501{~80~When you place a stonenext to another, it   must match by either  color or by symbol.   ~00~}#096#090
+~80~When you place a stonenext to another, it   must match by either  color or by symbol.   ~00~#090
+;0000155B{~06~~00~}#008#002
+~06~~00~#002
+;0000155D{~00~}#004#001
+~00~#001
+;0000155E{~00~}#004#001
+~00~#001
+;0000155F{~04~~00~}#008#002
+~04~~00~#002
+;00001561{~80~ Press  A, B or C.                           A. continue game      B. begin new game     C. repeat this game  ~00~}#118#112
+~80~ Press  A, B or C.                           A. continue game      B. begin new game     C. repeat this game  ~00~#112
+;000015D1{~06~~00~}#008#002
+~06~~00~#002
+;000015D3{~00~}#004#001
+~00~#001
+;000015D4{~00~}#004#001
+~00~#001
+;000015D5{~06~~00~}#008#002
+~06~~00~#002
+;000015D7{~00~}#004#001
+~00~#001
+;000015D8{Press A, B or C.                            A. continue game      B. show pouch         C. show possible moves                      No Hi Score if B or C.}#154#154
+Press A, B or C.                            A. continue game      B. show pouch         C. show possible moves                      No Hi Score if B or C.#154
+|1114
+@00001770-000017A5-00
+;00001770{HI SCORE~A0~ POINTS ~A0~4WAYS-  ~A0~ POUCH ~A0~  NEW   ~A0~  OLD   ~A0~~00~}#075#054
+HI SCORE~A0~ POINTS ~A0~4WAYS-  ~A0~ POUCH ~A0~  NEW   ~A0~  OLD   ~A0~~00~#054
+|54

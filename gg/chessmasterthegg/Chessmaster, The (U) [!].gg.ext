@@ -1,0 +1,219 @@
+@00002C5D-00002F7A-FF
+;00002C5D{THE CHESSMASTER~0C~~0D~~FF~}#027#018
+THE CHESSMASTER~0C~~0D~~FF~#018
+;00002C6F{Actions~FF~}#011#008
+Actions~FF~#008
+;00002C77{Settings~FF~}#012#009
+Settings~FF~#009
+;00002C80{Setup Menu~FF~}#014#011
+Setup Menu~FF~#011
+;00002C8B{Human Players:   ~01~~01~ Change Sides     ~01~~01~ Force Move       ~01~~01~ Takeback/Replay  ~01~~01~ Set Up Board     ~01~~01~ Solve For Mate   ~01~~01~ Offer Draw       ~01~~01~ Load Game        ~01~~01~ Save Game        ~01~~01~ Begin New Game   ~FF~}#255#198
+Human Players:   ~01~~01~ Change Sides     ~01~~01~ Force Move       ~01~~01~ Takeback/Replay  ~01~~01~ Set Up Board     ~01~~01~ Solve For Mate   ~01~~01~ Offer Draw       ~01~~01~ Load Game        ~01~~01~ Save Game        ~01~~01~ Begin New Game   ~FF~#198
+;00002D51{Mate in   moves  ~01~~01~ Level            ~01~~01~ Deep Thinking O  ~01~~01~ Opening Book  O  ~01~~01~ Teaching Mode O  ~01~~01~ Coordinates   O  ~01~~01~ Chess Clock   O  ~01~~01~ Touching rule O  ~01~~01~ White            ~01~~01~ Black            ~01~~01~ White On         ~FF~}#281#218
+Mate in   moves  ~01~~01~ Level            ~01~~01~ Deep Thinking O  ~01~~01~ Opening Book  O  ~01~~01~ Teaching Mode O  ~01~~01~ Coordinates   O  ~01~~01~ Chess Clock   O  ~01~~01~ Touching rule O  ~01~~01~ White            ~01~~01~ Black            ~01~~01~ White On         ~FF~#218
+;00002E2B{Clear The Board  ~01~~01~ Initial Position ~01~~01~ First Move       ~01~~01~ Setup Complete   ~01~~01~ Abandon Changes~FF~}#123#096
+Clear The Board  ~01~~01~ Initial Position ~01~~01~ First Move       ~01~~01~ Setup Complete   ~01~~01~ Abandon Changes~FF~#096
+;00002E8B{: Newcomer 1~FF~}#016#013
+: Newcomer 1~FF~#013
+;00002E98{: Newcomer 2~FF~}#016#013
+: Newcomer 2~FF~#013
+;00002EA5{  1: 60/5   ~FF~}#016#013
+  1: 60/5   ~FF~#013
+;00002EB2{ 2: 40/5~FF~}#012#009
+ 2: 40/5~FF~#009
+;00002EBB{ 3: 60/10~FF~}#013#010
+ 3: 60/10~FF~#010
+;00002EC5{ 4: 60/30~FF~}#013#010
+ 4: 60/30~FF~#010
+;00002ECF{ 5: 60/45~FF~}#013#010
+ 5: 60/45~FF~#010
+;00002ED9{ 6: 60/60~FF~}#013#010
+ 6: 60/60~FF~#010
+;00002EE3{ 7: 30/45~FF~}#013#010
+ 7: 30/45~FF~#010
+;00002EED{ 8: 30/60~FF~}#013#010
+ 8: 30/60~FF~#010
+;00002EF7{ 9: 40/90~FF~}#013#010
+ 9: 40/90~FF~#010
+;00002F01{10: 40/100~FF~}#014#011
+10: 40/100~FF~#011
+;00002F0C{11: 40/120~FF~}#014#011
+11: 40/120~FF~#011
+;00002F17{12: 40/150~FF~}#014#011
+12: 40/150~FF~#011
+;00002F22{13: 40/180~FF~}#014#011
+13: 40/180~FF~#011
+;00002F2D{: Infinite ~FF~}#015#012
+: Infinite ~FF~#012
+;00002F39{ff~FF~}#006#003
+No~FF~#003
+;00002F3C{n ~FF~}#006#003
+Sí~FF~#003
+;00002F3F{Visible~FF~}#011#008
+Visible~FF~#008
+;00002F47{Hidden ~FF~}#011#008
+Hidden ~FF~#008
+;00002F4F{Bottom~FF~}#010#007
+Bottom~FF~#007
+;00002F56{Left  ~FF~}#010#007
+Left  ~FF~#007
+;00002F5D{Top   ~FF~}#010#007
+Top   ~FF~#007
+;00002F64{Right ~FF~}#010#007
+Right ~FF~#007
+;00002F6B{White~FF~}#009#006
+White~FF~#006
+;00002F71{Black~FF~}#009#006
+Black~FF~#006
+;00002F77{~03~~02~~02~~02~}#016#004
+~03~~02~~02~~02~#004
+|798
+@00002F8C-00002FAC-FF
+;00002F8C{White  Black~01~Hint ~01~~01~            ~01~}#045#033
+White  Black~01~Hint ~01~~01~            ~01~#033
+|33
+@00002FD5-00002FE8-FF
+;00002FD5{Best ~01~~01~            ~01~}#029#020
+Best ~01~~01~            ~01~#020
+|20
+@00003068-000030FA-FF
+;00003068{Enter  game code  bymoving the cursor tochoose  the  lettersof  the saved  game.                      ________________    ________________  ~FF~}#144#141
+Enter  game code  bymoving the cursor tochoose  the  lettersof  the saved  game.                      ________________    ________________  ~FF~#141
+;000030F5{     ~03~}#009#006
+     ~03~#006
+|147
+@000031E8-00003221-FF
+;000031E8{  THAT IS NOT A  ~FE~~FE~~FE~    LEGAL MOVE   ~FE~~FE~~FE~                 ~FE~}#079#058
+  THAT IS NOT A  ~FE~~FE~~FE~    LEGAL MOVE   ~FE~~FE~~FE~                 ~FE~#058
+|58
+@00003261-00003273-FF
+;00003261{   WHITE IS   ~FE~~FE~~FE~~FE~~FE~}#034#019
+   WHITE IS   ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@00003275-00003287-FF
+;00003275{  CHECKMATED  ~FE~~FE~~FE~~FE~~FE~}#034#019
+  CHECKMATED  ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@000032D7-000032E9-FF
+;000032D7{   BLACK IS   ~FE~~FE~~FE~~FE~~FE~}#034#019
+   BLACK IS   ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@000032EB-000032FD-FF
+;000032EB{  CHECKMATED  ~FE~~FE~~FE~~FE~~FE~}#034#019
+  CHECKMATED  ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@0000334D-0000335F-FF
+;0000334D{   WHITE IS   ~FE~~FE~~FE~~FE~~FE~}#034#019
+   WHITE IS   ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@00003361-00003373-FF
+;00003361{  STALEMATED  ~FE~~FE~~FE~~FE~~FE~}#034#019
+  STALEMATED  ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@000033C3-000033D5-FF
+;000033C3{   BLACK IS   ~FE~~FE~~FE~~FE~~FE~}#034#019
+   BLACK IS   ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@000033D7-000033E9-FF
+;000033D7{  STALEMATED  ~FE~~FE~~FE~~FE~~FE~}#034#019
+  STALEMATED  ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@00003438-00003471-FF
+;00003438{  No More Moves  ~FE~~FE~~FE~    To Replay    ~FE~~FE~~FE~                 ~FE~}#079#058
+  No More Moves  ~FE~~FE~~FE~    To Replay    ~FE~~FE~~FE~                 ~FE~#058
+|58
+@000034B0-000034E9-FF
+;000034B0{  No More Moves  ~FE~~FE~~FE~  To Take Back   ~FE~~FE~~FE~                 ~FE~}#079#058
+  No More Moves  ~FE~~FE~~FE~  To Take Back   ~FE~~FE~~FE~                 ~FE~#058
+|58
+@00003516-00003526-FF
+;00003516{   Pawn     ~FE~~FE~~FE~~FE~~FE~}#032#017
+   Pawn     ~FE~~FE~~FE~~FE~~FE~#017
+|17
+@0000352A-0000353A-FF
+;0000352A{ Promotion  ~FE~~FE~~FE~~FE~~FE~}#032#017
+ Promotion  ~FE~~FE~~FE~~FE~~FE~#017
+|17
+@0000353E-0000354E-FF
+;0000353E{ 1 - Change ~FE~~FE~~FE~~FE~~FE~}#032#017
+ 1 - Change ~FE~~FE~~FE~~FE~~FE~#017
+|17
+@00003577-00003704-FF
+;00003577{Save game code~FF~}#018#015
+Save game code~FF~#015
+;00003586{                                          The Board is Not     Setup Properly                                           ~FF~}#124#121
+                                          The Board is Not     Setup Properly                                           ~FF~#121
+;000035FF{                                           The King cannot       Be Removed                                             ~FF~}#124#121
+                                           The King cannot       Be Removed                                             ~FF~#121
+;00003678{                                          Pawns Cannot Be     In Rows 1 Or 8                                            ~FF~}#124#121
+                                          Pawns Cannot Be     In Rows 1 Or 8                                            ~FF~#121
+;000036F1{~FE~                  ~FE~}#026#020
+~FE~                  ~FE~#020
+|398
+@0000371A-00003754-FF
+;0000371A{  Game Is A Draw  ~FE~~FE~   50 Move Rule   ~FE~~FE~                  ~FE~}#074#059
+  Game Is A Draw  ~FE~~FE~   50 Move Rule   ~FE~~FE~                  ~FE~#059
+|59
+@00003769-000037F4-FF
+;00003769{                                           Game Is A Draw     3 Repetition Rule                                         ~FF~}#124#121
+                                           Game Is A Draw     3 Repetition Rule                                         ~FF~#121
+;000037E2{~FE~                 ~FE~}#025#019
+~FE~                 ~FE~#019
+|140
+@0000380B-00003830-FF
+;0000380B{  Draw Accepted  ~FE~~FE~~FE~                 ~FE~}#050#038
+  Draw Accepted  ~FE~~FE~~FE~                 ~FE~#038
+|38
+@0000386E-00003893-FF
+;0000386E{  Draw Declined  ~FE~~FE~~FE~                 ~FE~}#050#038
+  Draw Declined  ~FE~~FE~~FE~                 ~FE~#038
+|38
+@000038D3-000038E5-FF
+;000038D3{  Mate Found  ~FE~~FE~~FE~~FE~~FE~}#034#019
+  Mate Found  ~FE~~FE~~FE~~FE~~FE~#019
+|19
+@00003936-00003970-FF
+;00003936{   No  Solution   ~FE~~FE~  Found For Mate  ~FE~~FE~                  ~FE~}#074#059
+   No  Solution   ~FE~~FE~  Found For Mate  ~FE~~FE~                  ~FE~#059
+|59
+@00003986-00003996-FF
+;00003986{HI TECH     ~01~~FE~~FE~~FE~~FE~}#032#017
+HI TECH     ~01~~FE~~FE~~FE~~FE~#017
+|17
+@000039A8-000039BE-FF
+;000039A8{    Expressions   ~01~~FE~~FE~~FE~~FE~}#038#023
+    Expressions   ~01~~FE~~FE~~FE~~FE~#023
+|23
+@000039F8-00003A18-FF
+;000039F8{     Presents~FF~}#017#014
+     Presents~FF~#014
+;00003A06{~FE~~FE~                ~FE~}#028#019
+~FE~~FE~                ~FE~#019
+|33
+@00003A30-00003A68-FF
+;00003A30{   That Piece   ~FE~~FE~~FE~~FE~  Can Not Move  ~FE~~FE~~FE~~FE~                ~FE~}#084#057
+   That Piece   ~FE~~FE~~FE~~FE~  Can Not Move  ~FE~~FE~~FE~~FE~                ~FE~#057
+|57
+@00003ABA-00003B1C-FF
+;00003ABA{   Game Design:   ~01~~01~ Copyright ~40~ 1990 ~01~~01~   The Software   ~01~~01~    Toolworks     ~01~~01~                  ~01~}#129#099
+   Game Design:   ~01~~01~ Copyright ~40~ 1990 ~01~~01~   The Software   ~01~~01~    Toolworks     ~01~~01~                  ~01~#099
+|99
+@00003B1E-00003B80-FF
+;00003B1E{   Sega Version:  ~01~~01~ Copyright ~40~ 1991 ~01~~01~ Sega, All Rights ~01~~01~     Reserved.    ~01~~01~                  ~01~}#129#099
+   Sega Version:  ~01~~01~ Copyright ~40~ 1991 ~01~~01~ Sega, All Rights ~01~~01~     Reserved.    ~01~~01~                  ~01~#099
+|99
+@00003B82-00003BAC-FF
+;00003B82{  Programmed by   ~01~~01~   Nova Logic     ~01~~05~~02~~02~~02~}#064#043
+  Programmed by   ~01~~01~   Nova Logic     ~01~~05~~02~~02~~02~#043
+|43
+@00003BBD-00003BE8-FF
+;00003BBD{    Press Start                         ~FF~}#044#041
+    Press Start                         ~FF~#041
+;00003BE6{~00~w~7B~}#009#003
+~00~w~7B~#003
+|44
+@0000BD25-0000BD94-FF
+;0000BD25{m6~E3~m6~DB~q6~DB~m6~DB~m6~DB~m6~DB~m6~DB~m6~DC~mG~1C~PROGRAMMED      BY CRAIG B.     SEASTROM        LAST MOD.       10/11/90        ~00~~00~~00~~00~~00~}#154#112
+m6~E3~m6~DB~q6~DB~m6~DB~m6~DB~m6~DB~m6~DB~m6~DC~mG~1C~PROGRAMMED      BY CRAIG B.     SEASTROM        LAST MOD.       10/11/90        ~00~~00~~00~~00~~00~#112
+|112
+

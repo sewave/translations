@@ -1,0 +1,165 @@
+@00002C5D-00002F76-FF
+;00002C5D{THE CHESSMASTER~0C~~0D~~FF~}#027#018
+THE CHESSMASTER~0C~~0D~~FF~#018
+;00002C6F{Actions~FF~}#011#008
+Actuar ~FF~#008
+;00002C77{Settings~FF~}#012#009
+Ajustar ~FF~#009
+;00002C80{Setup Menu~FF~}#014#011
+Configurar~FF~#011
+;00002C8B{Human Players:   == Change Sides     == Force Move       == Takeback/Replay  == Set Up Board     == Solve For Mate   == Offer Draw       == Load Game        == Save Game        == Begin New Game   ~FF~}#201#198
+Humanos:         ==
+ Cambiar Lados    == Forzar Movimiento==
+ Rehacer/Rejugar  == Ajustar Tablero  ==
+ Resolver Mate    == Ofrecer Empate   ==
+ Cargar Juego     == Guardar Juego    == Juego Nuevo      ~FF~#198
+;00002D51{Mate in   moves  == Level            == Deep Thinking O  == Opening Book  O  == Teaching Mode O  == Coordinates   O  == Chess Clock   O  == Touching rule O  == White            == Black            == White On         ~FF~}#221#218
+Mate en   jugadas== Nivel            == Pensar Mucho     == Libro Apertura   == Modo Enseñar     == Coordenadas      == Reloj Ajedrez    == Regla tocar      == Blanco           == Negro            == Blanco           ~FF~#218
+;00002E2B{Clear The Board  == Initial Position == First Move       == Setup Complete   == Abandon Changes~FF~}#099#096
+Limpiar Tablero  == Posición Inicial == 1er Movim.       == Configurado      == Abandona Cambio~FF~#096
+;00002E8B{: Newcomer 1~FF~}#016#013
+: Novato 1  ~FF~#013
+;00002E98{: Newcomer 2~FF~}#016#013
+: Novato 2  ~FF~#013
+;00002EA5{  1: 60/5   ~FF~}#016#013
+  1: 60/5   ~FF~#013
+;00002EB2{ 2: 40/5~FF~}#012#009
+ 2: 40/5~FF~#009
+;00002EBB{ 3: 60/10~FF~}#013#010
+ 3: 60/10~FF~#010
+;00002EC5{ 4: 60/30~FF~}#013#010
+ 4: 60/30~FF~#010
+;00002ECF{ 5: 60/45~FF~}#013#010
+ 5: 60/45~FF~#010
+;00002ED9{ 6: 60/60~FF~}#013#010
+ 6: 60/60~FF~#010
+;00002EE3{ 7: 30/45~FF~}#013#010
+ 7: 30/45~FF~#010
+;00002EED{ 8: 30/60~FF~}#013#010
+ 8: 30/60~FF~#010
+;00002EF7{ 9: 40/90~FF~}#013#010
+ 9: 40/90~FF~#010
+;00002F01{10: 40/100~FF~}#014#011
+10: 40/100~FF~#011
+;00002F0C{11: 40/120~FF~}#014#011
+11: 40/120~FF~#011
+;00002F17{12: 40/150~FF~}#014#011
+12: 40/150~FF~#011
+;00002F22{13: 40/180~FF~}#014#011
+13: 40/180~FF~#011
+;00002F2D{: Infinite ~FF~}#015#012
+: Infinito ~FF~#012
+;00002F39{ff~FF~}#006#003
+No~FF~#003
+;00002F3C{n ~FF~}#006#003
+Sí~FF~#003
+;00002F3F{Visible~FF~}#011#008
+Visible~FF~#008
+;00002F47{Hidden ~FF~}#011#008
+Oculto ~FF~#008
+;00002F4F{Bottom~FF~}#010#007
+Abajo ~FF~#007
+;00002F56{Left  ~FF~}#010#007
+Izqui.~FF~#007
+;00002F5D{Top   ~FF~}#010#007
+Arriba~FF~#007
+;00002F64{Right ~FF~}#010#007
+Derec.~FF~#007
+;00002F6B{White~FF~}#009#006
+Blanc~FF~#006
+;00002F71{Black~FF~}#009#006
+Negro~FF~#006
+|794
+@00002F8B-00003052-FF
+;00002F8B{=White  Black=Hint ==            =     ==            ~09~~02~~02~~02~~02~~02~~0A~=            =Best ==            =     ==            =     ==            =     ==            =     ==            =     ==            =     =}#221#200
+=Blanco Negro=Pista==            =     ==            ~09~~02~~02~~02~~02~~02~~0A~=            =Mejor==            =     ==            =     ==            =     ==            =     ==            =     ==            =     =#200
+|200
+@00003068-000030F4-FF
+;00003068{Enter  game code  bymoving the cursor tochoose  the  lettersof  the saved  game.                      ________________    ________________  ~FF~}#144#141
+Entra    código   de
+juego  moviendo   el
+cursor  para  elegir
+las          letras.
+                    
+  ________________   
+ ________________  ~FF~#141
+|141
+@000031BE-000035FE-FF
+;000031BE{\\                 \\\                 \\\  THAT IS NOT A  \\\    LEGAL MOVE   \\\                 \\\                 ~FF~}#123#120
+\\                 \\\                 \\\  ESE NO ES UN   \\\   MOVIMIENTO    \\\      LEGAL      \\\                 ~FF~#120
+;00003236{\\\              \\\\\\              \\\\\\ BLANCO ESTÁ  \\\\\\EN JAQUE MATE \\\\\\              \\\\\\              ~FF~}#121#118
+\\\              \\\\\\              \\\\\\ BLANCO ESTÁ  \\\\\\EN JAQUE MATE \\\\\\              \\\\\\              ~FF~#118
+;000032AC{\\\              \\\\\\              \\\\\\  NEGRO ESTÁ  \\\\\\EN JAQUE MATE \\\\\\              \\\\\\              ~FF~}#121#118
+\\\              \\\\\\              \\\\\\  NEGRO ESTÁ  \\\\\\EN JAQUE MATE \\\\\\              \\\\\\              ~FF~#118
+;00003322{\\\              \\\\\\              \\\\\\ BLANCO ESTÁ  \\\\\\  STALEMATED  \\\\\\              \\\\\\              ~FF~}#121#118
+\\\              \\\\\\              \\\\\\ BLANCO ESTÁ  \\\\\\  ESTANCADO   \\\\\\              \\\\\\              ~FF~#118
+;00003398{\\\              \\\\\\              \\\\\\  NEGRO ESTÁ  \\\\\\  STALEMATED  \\\\\\              \\\\\\              ~FF~}#121#118
+\\\              \\\\\\              \\\\\\  NEGRO ESTÁ  \\\\\\  ESTANCADO   \\\\\\              \\\\\\              ~FF~#118
+;0000340E{\\                 \\\                 \\\  No More Moves  \\\    To Replay    \\\                 \\\                 ~FF~}#123#120
+\\                 \\\                 \\\ Sin Movimiento  \\\    A Repetir    \\\                 \\\                 ~FF~#120
+;00003486{\\                 \\\                 \\\  No More Moves  \\\  To Take Back   \\\                 \\\                 ~FF~}#123#120
+\\                 \\\                 \\\ Sin Movimientos \\\ Para Desdecirse \\\                 \\\                 ~FF~#120
+;000034FE{\\\\            \\\\\\\\   Pawn     \\\\\\\\ Promotion  \\\\\\\\ 1 - Change \\\\\\\\ START-Exit \\\\\\\\            \\\\~FF~}#124#121
+\\\\            \\\\\\\\   Peón     \\\\\\\\ Promoción  \\\\\\\\ 1 - Cambio \\\\\\\\ START-Salir\\\\\\\\            \\\\~FF~#121
+;00003577{Save game code~FF~}#018#015
+Código Salvado~FF~#015
+;00003586{                                          The Board is Not     Setup Properly                                           ~FF~}#124#121
+                    
+                    
+  Tablero No Está   
+  Bien Configurado  
+                    
+                    ~FF~#121
+|1089
+@000035FF-00003A05-FF
+;000035FF{                                           The King cannot       Be Removed                                             ~FF~}#124#121
+                    
+                    
+  El Rey no puede   
+     Eliminarse     
+                    
+                    ~FF~#121
+;00003678{                                          Pawns Cannot Be     In Rows 1 Or 8                                            ~FF~}#124#121
+                    
+                    
+Los Peones no Pueden
+Estar en Filas 1 u 8
+                    
+                    ~FF~#121
+;000036F1{\                  \\                  \\  Game Is A Draw  \\   50 Move Rule   \\                  \\                  ~FF~}#123#120
+\                  \\                  \\  Juego Empatado  \\     Regla 50     \\   Movimientos    \\                  ~FF~#120
+;00003769{                                           Game Is A Draw     3 Repetition Rule                                         ~FF~}#124#121
+                    
+                    
+   Juego Empatado   
+Regla 3 Repeticiones
+                    
+                    ~FF~#121
+;000037E2{\                 \\\                 \\\  Draw Accepted  \\\                 \\\                 ~FF~}#102#099
+\                 \\\                 \\\ Empate Aceptado \\\                 \\\                 ~FF~#099
+;00003845{\                 \\\                 \\\  Draw Declined  \\\                 \\\                 ~FF~}#102#099
+\                 \\\                 \\\     Empate      \\\    Rechazado    \\\                 ~FF~#099
+;000038A8{\\\              \\\\\\              \\\\\\  Mate Found  \\\\\\              \\\\\\              \\\~FF~}#104#101
+\\\              \\\\\\              \\\\\\ Mate Hallado \\\\\\              \\\\\\              \\\~FF~#101
+;0000390D{\                  \\                  \\   No  Solution   \\  Found For Mate  \\                  \\                  \~FF~}#124#121
+\                  \\                  \\   Sin Solución   \\   Para El Mate   \\                  \\                  \~FF~#121
+;00003986{HI TECH     =\\\\\\\\\\\\\\\\\\\\=    Expressions   =\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\=     Presents~FF~}#131#128
+HI TECH     =\\\\\\\\\\\\\\\\\\\\=    Expressions   =\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\=     Presenta~FF~#128
+|1031
+@00003A06-00003A7C-FF
+;00003A06{\\                \\\\                \\\\   That Piece   \\\\  Can Not Move  \\\\                \\\\                ~FF~}#122#119
+\\                \\\\                \\\\  Esa Pieza No  \\\\ Puede Moverse  \\\\                \\\\                ~FF~#119
+|119
+@00003A92-00003BA8-FF
+;00003A92{ The ChessMaster~0C~~0D~==                  ==   Game Design:   == Copyright © 1990 ==   The Software   ==    Toolworks     ==                  ==   Sega Version:  == Copyright © 1991 == Sega, All Rights ==     Reserved.    ==                  ==  Programmed by   ==   Nova Logic     =}#285#279
+ The ChessMaster~0C~~0D~==                  ==  Diseño Juego:   == Copyright © 1990 ==   The Software   ==    Toolworks     ==                  ==   Versión Sega:  == Copyright © 1991 ==  Sega, Derechos  ==
+   Reservados.    ==                  ==  Programado por  ==   Nova Logic     =#279
+|279
+@00003BBD-00003BE5-FF
+;00003BBD{    Press Start                         ~FF~}#044#041
+    Pulsa Start                         ~FF~#041
+|41
+@0000BD40-0000BD8F-FF
+;0000BD40{PROGRAMMED      BY CRAIG B.     SEASTROM        LAST MOD.       10/11/90        }#080#080
+PROGRAMADO      POR CRAIG B.    SEASTROM        ÚLTIMA MOD.     10/11/90        #080
+|80

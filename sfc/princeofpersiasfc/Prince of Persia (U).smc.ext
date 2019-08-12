@@ -1,0 +1,368 @@
+@000010A0-000010C6-00
+;000010A0{``~01~~00~}#010#004
+``~01~~00~#004
+;000010A4{~00~}#004#001
+~00~#001
+;000010A5{ STATUS  ~01~~00~}#017#011
+ STATUS  ~01~~00~#011
+;000010B0{~01~LV  TIME ~01~~00~}#021#012
+~01~LV  TIME ~01~~00~#012
+;000010BC{~02~00 ---:--~00~}#017#011
+~02~00 ---:--~00~#011
+|39
+@000010F5-0000114D-00
+;000010F5{TRAINING MODE !!~00~}#020#017
+TRAINING MODE !!~00~#017
+;00001106{~01~~00~}#008#002
+~01~~00~#002
+;00001108{~00~}#004#001
+~00~#001
+;00001109{   MENU   ~01~~00~}#018#012
+   MENU   ~01~~00~#012
+;00001115{~01~ BEST TIME~01~~00~}#022#013
+~01~ BEST TIME~01~~00~#013
+;00001122{~02~ PASSWORD ~01~~00~}#022#013
+~02~ PASSWORD ~01~~00~#013
+;0000112F{~03~ GAME END ~01~~00~}#022#013
+~03~ GAME END ~01~~00~#013
+;0000113C{~04~ OPTION   ~00~}#018#012
+~04~ OPTION   ~00~#012
+;00001148{~08~~8B~~C2~0H~DA~}#018#006
+~08~~8B~~C2~0H~DA~#006
+|89
+@0000125F-000012A5-00
+;0000125F{   MENU~01~~00~}#015#009
+   MENU~01~~00~#009
+;00001268{~01~ GAME START~01~~00~}#023#014
+~01~ GAME START~01~~00~#014
+;00001276{~02~ CONTINUE~01~~00~}#021#012
+~02~ CONTINUE~01~~00~#012
+;00001282{~03~ TRAINING~01~~00~}#021#012
+~03~ TRAINING~01~~00~#012
+;0000128E{~04~ BEST TIME~01~~00~}#022#013
+~04~ BEST TIME~01~~00~#013
+;0000129B{~05~ OPTION~00~}#015#009
+~05~ OPTION~00~#009
+;000012A4{H~DA~}#005#002
+H~DA~#002
+|71
+@00007FC0-00007FDA-00
+;00007FC0{PRINCE OF PERSIA      ~00~}#026#023
+PRINCE OF PERSIA      ~00~#023
+;00007FD7{~0A~~00~}#008#002
+~0A~~00~#002
+;00007FD9{~01~~A4~}#008#002
+~01~~A4~#002
+|27
+@0000CA27-0000CA3D-00
+;0000CA27{TIME UP~00~}#011#008
+TIME UP~00~#008
+;0000CA2F{TRAINING !!~00~}#015#012
+TRAINING !!~00~#012
+;0000CA3B{~AD~y~05~}#009#003
+~AD~y~05~#003
+|23
+@0000CAE7-0000CAFB-00
+;0000CAE7{NLEVEL ~00~}#011#008
+NLEVEL ~00~#008
+;0000CAEF{TRAINING ~00~}#013#010
+TRAINING ~00~#010
+;0000CAF9{~AD~y~05~}#009#003
+~AD~y~05~#003
+|21
+@0000CB17-0000CB39-00
+;0000CB17{hhhh~80~~19~Press button to continue~00~}#040#031
+hhhh~80~~19~Press button to continue~00~#031
+;0000CB36{~08~~8B~~A9~~02~}#016#004
+~08~~8B~~A9~~02~#004
+|35
+@00012BC5-00012BDD-00
+;00012BC5{DSP. ADDR=~00~}#014#011
+DSP. ADDR=~00~#011
+;00012BD0{ : DATA=~00~}#012#009
+ : DATA=~00~#009
+;00012BD9{~8B~~08~~AF~y~05~}#017#005
+~8B~~08~~AF~y~05~#005
+|25
+@00014B97-00014BA8-00
+;00014B97{L^~CD~GAME OVER~00~}#019#013
+L^~CD~GAME OVER~00~#013
+;00014BA4{~A9~~06~~8D~4~05~}#017#005
+~A9~~06~~8D~4~05~#005
+|18
+@000154DA-00015517-00
+;000154DA{   ENTER PASSWORD~01~~00~}#025#019
+   ENTER PASSWORD~01~~00~#019
+;000154ED{~02~  PASSWORD:        ~01~~00~}#031#022
+~02~  PASSWORD:        ~01~~00~#022
+;00015503{~03~                   ~01~}#027#021
+~03~                   ~01~#021
+|62
+@00015577-000155AB-00
+;00015577{ CANCEL  OK~00~}#015#012
+ CANCEL  OK~00~#012
+;00015583{123456789BCDFGHJKLMNPQRSTVWXYZ+!----~08~~09~~1B~~0D~~01~}#056#041
+123456789BCDFGHJKLMNPQRSTVWXYZ+!----~08~~09~~1B~~0D~~01~#041
+|53
+@000156DF-000157E6-00
+;000156DF{     BEST TIME     ~01~~00~}#027#021
+     BEST TIME     ~01~~00~#021
+;000156F4{~01~LV  TIME  LV  TIME ~01~~00~}#031#022
+~01~LV  TIME  LV  TIME ~01~~00~#022
+;0001570A{~02~ 1 ---:-- 11 ---:--~01~~00~}#031#022
+~02~ 1 ---:-- 11 ---:--~01~~00~#022
+;00015720{~03~ 2 ---:-- 12 ---:--~01~~00~}#031#022
+~03~ 2 ---:-- 12 ---:--~01~~00~#022
+;00015736{~04~ 3 ---:-- 13 ---:--~01~~00~}#031#022
+~04~ 3 ---:-- 13 ---:--~01~~00~#022
+;0001574C{~05~ 4 ---:-- 14 ---:--~01~~00~}#031#022
+~05~ 4 ---:-- 14 ---:--~01~~00~#022
+;00015762{~06~ 5 ---:-- 15 ---:--~01~~00~}#031#022
+~06~ 5 ---:-- 15 ---:--~01~~00~#022
+;00015778{~07~ 6 ---:-- 16 ---:--~01~~00~}#031#022
+~07~ 6 ---:-- 16 ---:--~01~~00~#022
+;0001578E{~08~ 7 ---:-- 17 ---:--~01~~00~}#031#022
+~08~ 7 ---:-- 17 ---:--~01~~00~#022
+;000157A4{~09~ 8 ---:-- 18 ---:--~01~~00~}#031#022
+~09~ 8 ---:-- 18 ---:--~01~~00~#022
+;000157BA{~0A~ 9 ---:-- 19 ---:--~01~~00~}#031#022
+~0A~ 9 ---:-- 19 ---:--~01~~00~#022
+;000157D0{~0B~10 ---:-- 20 ---:--~00~}#027#021
+~0B~10 ---:-- 20 ---:--~00~#021
+;000157E5{H~DA~}#005#002
+H~DA~#002
+|264
+@00015D0E-00015D39-00
+;00015D0E{CLEAR TIME  ---:--~01~~00~}#026#020
+CLEAR TIME  ---:--~01~~00~#020
+;00015D22{~01~PASSWORD   1234567~01~~0C~~00~}#034#022
+~01~PASSWORD   1234567~01~~0C~~00~#022
+;00015D38{~00~}#004#001
+~00~#001
+;00015D39{~08~}#004#001
+~08~#001
+|44
+@00015D7F-00015D94-00
+;00015D7F{PASSWORD  1234567~00~}#021#018
+PASSWORD  1234567~00~#018
+;00015D91{~8B~~08~~C2~~10~}#016#004
+~8B~~08~~C2~~10~#004
+|22
+@000161E0-000161F2-00
+;000161E0{        OPTION~01~~00~}#022#016
+        OPTION~01~~00~#016
+;000161F0{~02~A~01~}#009#003
+~02~A~01~#003
+|19
+@00016205-00016261-00
+;00016205{R  345678901234  789012~01~~00~}#031#025
+R  345678901234  789012~01~~00~#025
+;0001621E{~09~      SOUND ~01~~00~}#024#015
+~09~      SOUND ~01~~00~#015
+;0001622D{~0A~     REPEAT ~01~~00~}#024#015
+~0A~     REPEAT ~01~~00~#015
+;0001623C{~0C~ OK  CANCEL  INITIALIZE~00~}#031#025
+~0C~ OK  CANCEL  INITIALIZE~00~#025
+;00016255{------------~00~}#016#013
+------------~00~#013
+|93
+@00016262-000162B6-00
+;00016262{CROUCH      ~00~}#016#013
+CROUCH      ~00~#013
+;0001626F{SPECIAL     ~00~}#016#013
+SPECIAL     ~00~#013
+;0001627C{JUMP FORWARD~00~}#016#013
+JUMP FORWARD~00~#013
+;00016289{HANG        ~00~}#016#013
+HANG        ~00~#013
+;00016296{TIME        ~00~}#016#013
+TIME        ~00~#013
+;000162A3{KILL        ~00~}#016#013
+KILL        ~00~#013
+;000162B0{------~00~}#010#007
+------~00~#007
+|85
+@000162B7-000162EA-00
+;000162B7{STRIKE~00~}#010#007
+STRIKE~00~#007
+;000162BE{BLOCK ~00~}#010#007
+BLOCK ~00~#007
+;000162C5{~01~~0D~~09~STEREO~00~}#022#010
+~01~~0D~~09~STEREO~00~#010
+;000162CF{~01~~0D~~09~MONO  ~00~}#022#010
+~01~~0D~~09~MONO  ~00~#010
+;000162D9{~01~~0D~~0A~ON ~00~}#019#007
+~01~~0D~~0A~ON ~00~#007
+;000162E0{~01~~0D~~0A~OFF~00~}#019#007
+~01~~0D~~0A~OFF~00~#007
+;000162E7{~02~~02~~02~~02~}#016#004
+~02~~02~~02~~02~#004
+|52
+@00016615-00016647-00
+;00016615{ LEVEL SELECT~01~~00~}#021#015
+ LEVEL SELECT~01~~00~#015
+;00016624{~01~ SOUND SELECT~01~~00~}#025#016
+~01~ SOUND SELECT~01~~00~#016
+;00016634{~02~ BOOST METER~00~}#020#014
+~02~ BOOST METER~00~#014
+;00016642{~08~~8B~~C2~0H~DA~}#018#006
+~08~~8B~~C2~0H~DA~#006
+|51
+@00016763-00016777-00
+;00016763{mT~00~}#006#003
+mT~00~#003
+;00016766{~1A~` LEVEL ??~00~}#018#012
+~1A~` LEVEL ??~00~#012
+;00016772{~08~~8B~~C2~0H~DA~}#018#006
+~08~~8B~~C2~0H~DA~#006
+|21
+@00016961-00016971-00
+;00016961{mT~00~}#006#003
+mT~00~#003
+;00016964{~1A~` SOUND ??~00~}#018#012
+~1A~` SOUND ??~00~#012
+;00016970{H~DA~}#005#002
+H~DA~#002
+|17
+@0001717B-00017182-00
+;0001717B{OOOO~FA~~01~O~FA~}#017#008
+OOOO~FA~~01~O~FA~#008
+|8
+@00018258-00018329-00
+;00018258{ In the Sultan's absence the   ~0D~~0D~ Grand Vizier JAFFAR rules with~0D~~0D~ an iron fist of tyranny.~0D~~00~}#111#093
+ In the Sultan's absence the   ~0D~~0D~ Grand Vizier JAFFAR rules with~0D~~0D~ an iron fist of tyranny.~0D~~00~#093
+;000182B5{~07~ Only one obstacle remains     ~0D~~0D~ between Jaffar and the throne,~0D~~0D~ the Sultan's beautiful young  ~0D~~0D~ daughter...~0D~~00~}#141#114
+~07~ Only one obstacle remains     ~0D~~0D~ between Jaffar and the throne,~0D~~0D~ the Sultan's beautiful young  ~0D~~0D~ daughter...~0D~~00~#114
+;00018327{~00~}#004#001
+~00~#001
+;00018328{~00~}#004#001
+~00~#001
+;00018329{~0F~}#004#001
+~0F~#001
+|210
+@00018659-000186A6-00
+;00018659{ An adventurer from a foreign  ~0D~~0D~ land has won the Princess's   ~0D~~0D~ heart.~0D~~00~}#093#075
+ An adventurer from a foreign  ~0D~~0D~ land has won the Princess's   ~0D~~0D~ heart.~0D~~00~#075
+;000186A4{~80~~00~}#008#002
+~80~~00~#002
+;000186A6{~80~}#004#001
+~80~#001
+|78
+@000189C9-00018A23-00
+;000189C9{  On Jaffar's orders, he is    ~0D~~0D~  arrested and thrown into the ~0D~~0D~  Sultan's dungeons.~0D~~00~}#106#088
+  On Jaffar's orders, he is    ~0D~~0D~  arrested and thrown into the ~0D~~0D~  Sultan's dungeons.~0D~~00~#088
+;00018A21{~80~~00~}#008#002
+~80~~00~#002
+;00018A23{~80~}#004#001
+~80~#001
+|91
+@000194AC-000195E7-00
+;000194AC{ Jaffar gives her a choice and ~0D~~0D~ two hours to decide.          ~0D~~0D~ Marry him ... or die.         ~0D~~0D~~00~}#121#100
+ Jaffar gives her a choice and ~0D~~0D~ two hours to decide.          ~0D~~0D~ Marry him ... or die.         ~0D~~0D~~00~#100
+;00019510{~07~ Locked in her room high in    ~0D~~0D~ the palace tower,the Princess ~0D~~0D~ rests all her hopes on the    ~0D~~0D~ brave youth she loves.~0D~~00~}#152#125
+~07~ Locked in her room high in    ~0D~~0D~ the palace tower,the Princess ~0D~~0D~ rests all her hopes on the    ~0D~~0D~ brave youth she loves.~0D~~00~#125
+;0001958D{~05~  Little does she know that   ~0D~~0D~  he is already a prisoner in ~0D~~0D~  Jaffar's dungeons...~0D~~00~}#110#089
+~05~  Little does she know that   ~0D~~0D~  he is already a prisoner in ~0D~~0D~  Jaffar's dungeons...~0D~~00~#089
+;000195E6{"~0B~}#005#002
+"~0B~#002
+|316
+@0001B863-0001B892-00
+;0001B863{           Producer~0D~~02~~0D~~02~       Keiichi Onogi~0D~~02~~0D~~02~~0D~}#075#048
+           Producer~0D~~02~~0D~~02~       Keiichi Onogi~0D~~02~~0D~~02~~0D~#048
+|48
+@0001B896-0001B8C6-00
+;0001B896{           Director~0D~~02~~0D~~02~       Keisuke Yasaka~0D~~02~~0D~~02~~0D~}#076#049
+           Director~0D~~02~~0D~~02~       Keisuke Yasaka~0D~~02~~0D~~02~~0D~#049
+|49
+@0001B8CA-0001B949-00
+;0001B8CA{          Programming~0D~~02~~0D~~02~       Seiichi Ikiuo~0D~~01~                (Arsys)~0D~~01~~0D~~02~     Katsunori Yoshimura~0D~~01~                (Arsys)~0D~~02~~0D~~02~~0D~}#179#128
+          Programming~0D~~02~~0D~~02~       Seiichi Ikiuo~0D~~01~                (Arsys)~0D~~01~~0D~~02~     Katsunori Yoshimura~0D~~01~                (Arsys)~0D~~02~~0D~~02~~0D~#128
+|128
+@0001B94D-0001B9CE-00
+;0001B94D{      Art and Animations~0D~~02~~0D~~02~      Takaharu Matsuo~0D~~01~                (Arsys)~0D~~01~~0D~~02~       Kenichi Yaguchi~0D~~01~                (Arsys)~0D~~02~~0D~~02~~0D~}#181#130
+      Art and Animations~0D~~02~~0D~~02~      Takaharu Matsuo~0D~~01~                (Arsys)~0D~~01~~0D~~02~       Kenichi Yaguchi~0D~~01~                (Arsys)~0D~~02~~0D~~02~~0D~#130
+|130
+@0001B9D2-0001BA4E-00
+;0001B9D2{             Music~0D~~02~~0D~~02~       Toshiya Yamanaka~0D~~01~                (Arsys)~0D~~01~~0D~~02~       Tetsuya Nakano~0D~~01~                (Arsys)~0D~~02~~0D~~02~~0D~}#176#125
+             Music~0D~~02~~0D~~02~       Toshiya Yamanaka~0D~~01~                (Arsys)~0D~~01~~0D~~02~       Tetsuya Nakano~0D~~01~                (Arsys)~0D~~02~~0D~~02~~0D~#125
+|125
+@0001BA52-0001BAB7-00
+;0001BA52{         Thanks to ....~0D~~02~~0D~~02~          Akio Matsuda~0D~~01~~0D~~02~         Taiji Hida~0D~~01~~0D~~02~   and all staffs of ~81~~0D~~01~~0D~~01~}#153#102
+         Thanks to ....~0D~~02~~0D~~02~          Akio Matsuda~0D~~01~~0D~~02~         Taiji Hida~0D~~01~~0D~~02~   and all staffs of ~81~~0D~~01~~0D~~01~#102
+|102
+@0001BAC7-0001BAE6-00
+;0001BAC7{     Nippon Imageworks Inc.~0D~~02~~0D~~02~~0D~}#047#032
+     Nippon Imageworks Inc.~0D~~02~~0D~~02~~0D~#032
+|32
+@0001BAEA-0001BB68-00
+;0001BAEA{            Marketing~0D~~02~~0D~~02~        Masaki Uchida~0D~~01~~0D~~02~        Kyohko Katagiri~0D~~01~~0D~~02~       Yasuaki Yokoe~0D~~01~~0D~~02~           Jun Mimura~0D~~02~~0D~~02~~0D~}#190#127
+            Marketing~0D~~02~~0D~~02~        Masaki Uchida~0D~~01~~0D~~02~        Kyohko Katagiri~0D~~01~~0D~~02~       Yasuaki Yokoe~0D~~01~~0D~~02~           Jun Mimura~0D~~02~~0D~~02~~0D~#127
+|127
+@0001BB6C-0001BBA4-00
+;0001BB6C{       Exective Producer~0D~~02~~0D~~02~      Yasumasa Shirakura~0D~~02~~0D~~02~~0D~}#084#057
+       Exective Producer~0D~~02~~0D~~02~      Yasumasa Shirakura~0D~~02~~0D~~02~~0D~#057
+|57
+@0001BBA6-0001BBDA-00
+;0001BBA6{         Original Game~0D~~02~~0D~~02~        Jordan Mechner~0D~~02~~0D~~02~~0D~}#080#053
+         Original Game~0D~~02~~0D~~02~        Jordan Mechner~0D~~02~~0D~~02~~0D~#053
+|53
+@0001BD36-0001BD57-00
+;0001BD36{ The tyrant Jaffar lies        ~00~}#035#032
+ The tyrant Jaffar lies        ~00~#032
+;0001BD56{ ~00~}#005#002
+ ~00~#002
+|34
+@0001BD58-0001BD79-00
+;0001BD58{ defeated, his power shattered.~00~}#035#032
+ defeated, his power shattered.~00~#032
+;0001BD78{ ~00~}#005#002
+ ~00~#002
+|34
+@0001BD7A-0001BD9B-00
+;0001BD7A{ Throughout the land the people~00~}#035#032
+ Throughout the land the people~00~#032
+;0001BD9A{ ~00~}#005#002
+ ~00~#002
+|34
+@0001BD9C-0001BDBD-00
+;0001BD9C{ of Persia hail their Princess ~00~}#035#032
+ of Persia hail their Princess ~00~#032
+;0001BDBC{ ~00~}#005#002
+ ~00~#002
+|34
+@0001BDBE-0001BDDF-00
+;0001BDBE{ ... and the brave youth who   ~00~}#035#032
+ ... and the brave youth who   ~00~#032
+;0001BDDE{ ~00~}#005#002
+ ~00~#002
+|34
+@0001BDE0-0001BE01-00
+;0001BDE0{ saved her from the force of   ~00~}#035#032
+ saved her from the force of   ~00~#032
+;0001BE00{ ~00~}#005#002
+ ~00~#002
+|34
+@0001BE02-0001BE0E-00
+;0001BE02{ darkness.~00~}#014#011
+ darkness.~00~#011
+;0001BE0D{ ~00~}#005#002
+ ~00~#002
+|13
+@0001BE0F-0001BE30-00
+;0001BE0F{ No longer a stranger,he shall ~00~}#035#032
+ No longer a stranger,he shall ~00~#032
+;0001BE2F{ ~00~}#005#002
+ ~00~#002
+|34
+@0001BE31-0001BE52-00
+;0001BE31{ from this day forth be known  ~00~}#035#032
+ from this day forth be known  ~00~#032
+;0001BE51{ ~00~}#005#002
+ ~00~#002
+|34
+@0001BE53-0001BE6E-00
+;0001BE53{ as ... PRINCE OF PERSIA.~00~}#029#026
+ as ... PRINCE OF PERSIA.~00~#026
+;0001BE6D{ ~00~}#005#002
+ ~00~#002
+|28

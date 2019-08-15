@@ -1,6 +1,6 @@
 Streets of Rage (Mega Drive)
-Traducción al Español v1.0 (07/09/2018)
-(C) 2018 Wave Translations
+Traducción al Español v1.1 (15/08/2019)
+(C) 2019 Wave Translations
 
 ------------------------
 Notas y Fallos Conocidos
@@ -8,6 +8,8 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+V1.1: Arreglado parche para REV01.
 
 ------------------------
 Instrucciones de Parcheo

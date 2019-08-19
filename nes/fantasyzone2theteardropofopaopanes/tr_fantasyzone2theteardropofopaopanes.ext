@@ -1,0 +1,35 @@
+@0000B87E-0000B8A1-FF
+;00000000{speed upparts selectweapon {1]}weapon {2]}}#042#036
+=prisa==
+elige=partes
+=arma={1]}=
+=arma={2]}=#036
+|36
+@0001A198-0001A549-FF
+;00000000{          BIG      WINGS    ~0C~~0D~~08~~09~    ~10~~11~~0A~~0B~          NORMAL   ENGINE   ~0C~~0D~~0E~~0F~    ~10~~11~~12~~13~          JET      ENGINE   ~0C~~0D~~0E~~0F~    ~14~~15~~16~~16~          TURBO    ENGINE   ~18~~19~~0E~~0F~    ~1A~~1B~~12~~13~          ROCKET   ENGINE   ~1C~~1D~~1E~~1F~    ~20~~21~~22~~23~          BIG      SHOT     ~28~~29~~24~~25~    ~2C~~2D~~26~~27~          LASER    BEAM     ~28~~29~~2A~~2B~    ~2C~~2D~~2E~~2F~          WIDE     BEAM     ~30~~31~~32~~33~    ~34~~35~~36~~37~          ~EC~WAY     SHOT     ~28~~29~~2A~~38~    ~2C~~2D~~2E~~39~          ~ED~WAY     SHOT     ~3A~~3B~~3C~~3D~    ~3E~~3F~~40~~41~          FIRE     BALL     ~42~~43~~42~~43~    ~44~~45~~44~~45~          TWIN     BOMB      ~46~~47~      ~48~~49~           BIG      BOMB     ~46~~47~~46~~47~    ~48~~49~~48~~49~          TWIN     BIGBOMB  ~52~~53~~54~~55~    ~56~~57~~58~~59~          SMART    BOMB     ~5A~~5B~~5C~~5D~    ~5E~~5F~~60~~61~          HEAVY    BOMB     ~62~~63~~64~~65~    ~66~~67~~68~~69~          EXTRA    SHIP     ~28~~29~~6A~~6B~    ~2C~~2D~~6C~~6D~          AUTO     BEAM     ~6E~~6F~~70~~71~    ~72~~73~~74~~75~          SHIELD            ~76~~77~~78~~79~    ~7A~~7B~~7C~~7D~          RED      BOTTLE   ~7E~~7F~~80~~81~    ~82~~83~~84~~85~          BLUE     BOTTLE   ~86~~87~~88~~89~    ~8A~~8B~~8C~~8D~          SMALL    WINGS    ~8E~~8F~~90~~91~    ~92~~93~~94~~95~          TWIN     SHOT      ~42~~43~      ~44~~45~           SINGLE   BOMB   }#1480#946
+          
+ALAS     GRANDES  ~0C~~0D~~08~~09~    ~10~~11~~0A~~0B~          
+MOTOR    NORMAL   ~0C~~0D~~0E~~0F~    ~10~~11~~12~~13~          
+MOTOR    JET      ~0C~~0D~~0E~~0F~    ~14~~15~~16~~16~          
+MOTOR    TURBO    ~18~~19~~0E~~0F~    ~1A~~1B~~12~~13~          
+MOTOR    COHETE   ~1C~~1D~~1E~~1F~    ~20~~21~~22~~23~          
+DISPARO  GRANDE   ~28~~29~~24~~25~    ~2C~~2D~~26~~27~          
+RAYO     LÁSER    ~28~~29~~2A~~2B~    ~2C~~2D~~2E~~2F~          
+RAYO     ANCHO    ~30~~31~~32~~33~    ~34~~35~~36~~37~          
+TIRO     3 LADOS  ~28~~29~~2A~~38~    ~2C~~2D~~2E~~39~          
+TIRO     7 LADOS  ~3A~~3B~~3C~~3D~    ~3E~~3F~~40~~41~          
+BOLA DE  FUEGO    ~42~~43~~42~~43~    ~44~~45~~44~~45~          
+BOMBA    GEMELA    ~46~~47~      ~48~~49~          
+ GRAN     BOMBA    ~46~~47~~46~~47~    ~48~~49~~48~~49~          
+GR BOMBA GEMELA   ~52~~53~~54~~55~    ~56~~57~~58~~59~          
+BOMBA    LISTA    ~5A~~5B~~5C~~5D~    ~5E~~5F~~60~~61~          
+BOMBA    PESADA   ~62~~63~~64~~65~    ~66~~67~~68~~69~          
+NAVE     EXTRA    ~28~~29~~6A~~6B~    ~2C~~2D~~6C~~6D~          
+AUTO     RAYO     ~6E~~6F~~70~~71~    ~72~~73~~74~~75~          
+ESCUDO            ~76~~77~~78~~79~    ~7A~~7B~~7C~~7D~          
+BOTELLA  ROJA     ~7E~~7F~~80~~81~    ~82~~83~~84~~85~          
+BOTELLA  AZUL     ~86~~87~~88~~89~    ~8A~~8B~~8C~~8D~          
+ALAS    PEQUEÑAS  ~8E~~8F~~90~~91~    ~92~~93~~94~~95~          
+DISPARO  GEMELO    ~42~~43~      ~44~~45~           
+BOMBA    SOLA   #946
+|946

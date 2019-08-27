@@ -32,7 +32,7 @@ La fuerza es=muy poderosa. ~A0~#036
 Chewie,=¡sácanos de=aquí!  ~A0~#058
 ;00000260{~0C~~92~~B1~~0A~~04~~D4~~B1~~0B~Thanks kid.=Those bounty=hunters were=after me.=Let's get out=of here.~A0~}#121#079
 ~0C~~92~~B1~~0A~~04~~D4~~B1~~0B~
-Gracias.     =Los=caza-=rrecompensas=me siguen.=Salgamos de=aquí.     ~A0~#079
+Gracias.   =Esos caza-  =rrecompensas=me siguen.=Salgamos de=aquí.    ~A0~#079
 ;000002AF{~0C~~92~~B1~~0A~~04~'~B2~~0A~~04~~04~~B2~~0B~What an=incredible=smell you've=discovered!~A0~}#101#056
 ~0C~~92~~B1~~0A~~04~'~B2~~0A~~04~~04~~B2~~0B~
 ¡Que increíble=olor has  =descubierto!=    ~A0~#056
@@ -45,11 +45,11 @@ Soy Han Solo,=capitán del   =Halcón=Milenario.=Chewie dijo=que estás=buscando
 |984
 @0000136F-00001378-A0
 ;00000000{GAME OVER~A0~}#013#010
-GAME OVER~A0~#010
+FIN JUEGO~A0~#010
 |10
 @0000139D-000013B6-A0
 ;00000000{CONTINUE *        ~A0~}#022#019
-CONTINUA *        ~A0~#019
+CONTINÚA *        ~A0~#019
 ;00000013{YES~A0~}#007#004
 SÍ ~A0~#004
 ;00000017{NO~A0~}#006#003

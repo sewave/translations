@@ -1,0 +1,92 @@
+@00001806-00001810-FF
+;00001806{1 PLAYER~FE~X~B2~}#017#011
+1 PLAYER~FE~X~B2~#011
+|11
+@00001811-00001827-FF
+;00001811{2 PLAYERS~FE~W21P SCORE~FD~W~44~}#032#023
+2 PLAYERS~FE~W21P SCORE~FD~W~44~#023
+|23
+@00001830-0000183C-FF
+;00001830{WK2P SCORE~FD~W~56~}#019#013
+WK2P SCORE~FD~W~56~#013
+|13
+@00001847-00001851-FF
+;00001847{HI SCORE~FD~V~CD~}#017#011
+HI SCORE~FD~V~CD~#011
+|11
+@0000185C-00001865-FF
+;0000185C{REST   ~FE~W~96~}#016#010
+REST   ~FE~W~96~#010
+|10
+@00001866-0000186F-FF
+;00001866{REST   ~FE~X~4D~}#016#010
+REST   ~FE~X~4D~#010
+|10
+@00001870-00001878-FF
+;00001870{AREA  ~FE~X~4C~}#015#009
+AREA  ~FE~X~4C~#009
+|9
+@00001879-00001884-FF
+;00001879{GAME OVER~FE~X~4C~}#018#012
+GAME OVER~FE~X~4C~#012
+|12
+@00001885-00001890-FF
+;00001885{CONTINUE ~FD~X~AC~}#018#012
+CONTINUE ~FD~X~AC~#012
+|12
+@00001897-000018A0-FF
+;00001897{AREA 1~FE~~A9~3~85~}#019#010
+AREA 1~FE~~A9~3~85~#010
+|10
+@00001A25-00001A32-FF
+;00001A25{PLAY SELECT~31~ ~88~}#020#014
+PLAY SELECT~31~ ~88~#014
+|14
+@00001A33-00001A49-FF
+;00001A33{1 PLAYER3 ~89~2 PLAYERS~2E~ ~8D~}#032#023
+1 PLAYER3 ~89~2 PLAYERS~2E~ ~8D~#023
+|23
+@00001A4A-00001AA2-FF
+;00001A4A{TM AND c 1990D ~98~KONAMI INDUSTRY CO.,LTD.D ~8B~LICENSED BYE ~98~NINTENDO OF AMERICA INC.~70~ 2~F0~~8B~  ~40~}#110#089
+TM AND c 1990D ~98~KONAMI INDUSTRY CO.,LTD.D ~8B~LICENSED BYE ~98~NINTENDO OF AMERICA INC.~70~ 2~F0~~8B~  ~40~#089
+|89
+@0000254B-000025F6-FF
+;0000254B{144STAFF929PROGRAMMERD28S.UMEZAKIL0DGRAPHIC DESIGNP37S.MURAKIX1BSOUND DESIGN.28H.MAEZAWA~2E~0DSPECIAL THANKS~32~29K.SHIMOIDE~35~1BSUPER C TEAM~3D~1ADIRECTED BY~41~1BUMECHAN TEAM~50~~FE~~51~2A~2E~~2F~~35~~36~~37~}#211#172
+144STAFF929PROGRAMMERD28S.UMEZAKIL0DGRAPHIC DESIGNP37S.MURAKIX1BSOUND DESIGN.28H.MAEZAWA~2E~0DSPECIAL THANKS~32~29K.SHIMOIDE~35~1BSUPER C TEAM~3D~1ADIRECTED BY~41~1BUMECHAN TEAM~50~~FE~~51~2A~2E~~2F~~35~~36~~37~#172
+|172
+@00009CC2-00009E1A-FF
+;00009CC2{59ACDEFGHIJKLNOPQRUVWY·.~FF~}#028#025
+59ACDEFGHIJKLNOPQRUVWY·.~FF~#025
+;00009CDB{~CD~~9C~BGM1    BGM2    BGM3    BGM4    BGM5    BGM6    BGM7    GREAT   BOSS BGMBOSS2BGMP CLEAR A CLEAR OVER    ENDING  SUTA    THUNDER SHOT    LASER   SPREAD  FIRE    B SHOT  T DAMEGEHARETSU T OUT   Z OUT   A OUT   ROLL    APPEAR  POWER   BOSS BK BAKUHA1 BAKUHA2 ARUKU   JIWARE  SILEN   P 1UP   P OUT   B OUT   MEDOLEY W~9E~~45~~9E~~55~~9E~}#341#320
+~CD~~9C~BGM1    BGM2    BGM3    BGM4    BGM5    BGM6    BGM7    GREAT   BOSS BGMBOSS2BGMP CLEAR A CLEAR OVER    ENDING  SUTA    THUNDER SHOT    LASER   SPREAD  FIRE    B SHOT  T DAMEGEHARETSU T OUT   Z OUT   A OUT   ROLL    APPEAR  POWER   BOSS BK BAKUHA1 BAKUHA2 ARUKU   JIWARE  SILEN   P 1UP   P OUT   B OUT   MEDOLEY W~9E~~45~~9E~~55~~9E~#320
+|345
+@00009E69-00009E76-FF
+;00009E69{SOUND MODE~2D~~FF~}#018#012
+SOUND MODE~2D~~FF~#012
+;00009E75{X~4A~}#005#002
+X~4A~#002
+|14
+@0000A990-0000A99F-FF
+;0000A990{   PURS~7C~  C~62~~6A~~6B~~6C~~6D~}#034#016
+   PURS~7C~  C~62~~6A~~6B~~6C~~6D~#016
+|16
+@0000ADAC-0000ADBC-FF
+;0000ADAC{    MMMM~3F~~3F~~3F~~3F~HJ~82~ ~38~}#035#017
+    MMMM~3F~~3F~~3F~~3F~HJ~82~ ~38~#017
+|17
+@0000AE08-0000AE27-FF
+;0000AE08{        MMMM~3F~~3F~~3F~~3F~        MMM~3E~~3F~~3F~~3F~~3F~}#059#032
+        MMMM~3F~~3F~~3F~~3F~        MMM~3E~~3F~~3F~~3F~~3F~#032
+|32
+@00029DD3-00029DE4-FF
+;00029DD3{1VGFD~BA~~BB~~BA~~3B~REDD~CF~~DF~~CE~~C0~~CC~}#045#018
+1VGFD~BA~~BB~~BA~~3B~REDD~CF~~DF~~CE~~C0~~CC~#018
+|18
+@0002ADD3-0002ADE4-FF
+;0002ADD3{1VGFD~BA~~BB~~BA~~3B~REDD~CF~~DF~~CE~~C0~~CC~}#045#018
+1VGFD~BA~~BB~~BA~~3B~REDD~CF~~DF~~CE~~C0~~CC~#018
+|18
+@0003FCEC-0004000F-FF
+;0003FCEC{5R~FB~~E7~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }#810#804
+5R~FB~~E7~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                #804
+|804

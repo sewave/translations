@@ -1,0 +1,115 @@
+@000D15D7-000D15F8-FF
+;00000000{ SELECT=PLAYER[1~FF~}#020#017
+ ELIGE =JUGADOR1~FF~#017
+;00000011{ SELECT=PLAYER[2~FF~}#020#017
+ ELIGE =JUGADOR2~FF~#017
+|34
+@000D26AE-000D2A85-FF
+;00000000{      A==BITMAP BROTHERS==     GAME~FF~}#039#036
+UN JUEGO==DE      ==BITMAP BROTHERS~FF~#036
+;00000024{!INVALID PASSWORD~FF~}#021#018
+!PASSWORD ERRÓNEO~FF~#018
+;00000036{PRESS FIRE~FF~}#014#011
+TOCA FUEGO~FF~#011
+;00000041{ %SELECT%PLAYERS====!%ONE%PLAYER & CPU==   TWO PLAYERS==     OPTIONS ~FF~}#073#070
+ %ELIGE%JUGADORS====!%UN%JUGADOR Y CPU== DOS JUGADORES==     OPCIONES~FF~#070
+;00000087{%  SELECT GAME!==== START NEW GAME== ENTER PASSWORD~FF~}#055#052
+%  ELIGE JUEGO!==== EMPIEZA JUEGO == ENTRA PASSWORD~FF~#052
+;000000BB{PASSWORD~FF~}#012#009
+PASSWORD~FF~#009
+;000000C4{     WORLD  !==                  ===     !LEVEL  !==                 ~FF~}#073#070
+     MUNDO  !==                  ===     !NIVEL  !==                 ~FF~#070
+;0000010A{     OPTIONS!====  PLAY TUNE 00==PLAY SOUND FX 00==%      EXIT~FF~}#066#063
+    OPCIONES!====  MÚSICA    00==SONIDO FX     00==%     SALIR~FF~#063
+;00000149{++%    GAME OVER==+ ~2A~MERCENARY 000000=+ WORLD 8  LEVEL 8!==+ ~2A~MERCENARY 000000=+ WORLD 8  LEVEL 8~FF~}#107#098
+++%    GAME OVER==+ ~2A~MERCENARI 000000=+ MUNDO 8  NIVEL 8!==+ ~2A~MERCENARI 000000=+ MUNDO 8  NIVEL 8~FF~#098
+;000001AB{~FF~}#004#001
+~FF~#001
+;000001AC{    %PASSWORD!==B C D F G H J K L==M N P Q R S T V W==X Y Z 0 1 2 3 4 5==6 7 8 9 *   & < ~3D~~FF~}#097#091
+    %PASSWORD!==B C D F G H J K L==M N P Q R S T V W==X Y Z 0 1 2 3 4 5==6 7 8 9 *   & < ~3D~~FF~#091
+;00000207{BCDFGHJKLMNPQRSTVWXYZ0123456789*::::PASSWORD~FF~}#048#045
+BCDFGHJKLMNPQRSTVWXYZ0123456789*::::PASSWORD~FF~#045
+;00000234{BCDFGHJKLMNPQRSTVWXYZ0123456789* &<~3D~BRIGAND  MERCENARYGENTLEMANNAVVIE   THUG     SCIENTIST%   THE FOREST      THE WORKSHOPS   FORTESQUE MANSION    THE CELLARS      THE BEGINNING %   MUD RIVERS        RINGS          ROCKIES    %      MAZE           TRAPS           STEAM     %    QUARTERS   %    THE PITS       CONFUSION        REVERSE         WAY OUT          SEWER         PUMP ROOM   HALL OF MACHINES% TIME FOR CHAOS  }#423#420
+BCDFGHJKLMNPQRSTVWXYZ0123456789* &<~3D~
+BANDIDO  
+MERCENARI
+CABALLERO
+FORTACHÓN
+MATÓN    
+CIENTÍFIC%
+   EL BOSQUE       LOS TALLERES    MANSIÓN FORTESQUE    LAS BODEGAS      EL PRINCIPIO  %
+  RIOS DE LODO      ANILLOS         ROCOSAS    %
+    LABERINTO       TRAMPAS          VAPOR     %
+    QUARTERS   %
+    LOS FOSOS      CONFUSIÓN        REVERSO         SALIDA          CLOACAS        SALA ROOM   SALÓN DE MÁQUINA%
+  HORA DEL CAOS  #420
+|984
+@000D2C1A-000D2D87-FF
+;00000000{ EXTRA= LIFE~FF~}#016#013
+ VIDA= EXTRA~FF~#013
+;0000000D{ SKILL~FF~}#010#007
+ HÁBIL~FF~#007
+;00000014{ HEALTH~FF~}#011#008
+ SALUD ~FF~#008
+;0000001C{ SPEED~FF~}#010#007
+ PRISA~FF~#007
+;00000023{ WISDOM~FF~}#011#008
+ SABER ~FF~#008
+;0000002B{SPECIAL= POWER~FF~}#018#015
+PODER=ESPECIAL~FF~#015
+;0000003A{COMPLETE=TRAINING~FF~}#021#018
+COMPLETA=ENTRENAM~FF~#018
+;0000004C{ WEAPON=POWER UP~FF~}#020#017
+  ARMA =MEJORADA~FF~#017
+;0000005D{  EXIT~FF~}#010#007
+ SALIR~FF~#007
+;00000064{  BOMB~FF~}#010#007
+ BOMBA~FF~#007
+;0000006B{  SHOT=  BURST~FF~}#018#015
+  TIRO= RÁFAGA~FF~#015
+;0000007A{  MAP~FF~}#009#006
+ MAPA~FF~#006
+;00000080{ DESTROY=  NODES~FF~}#020#017
+DESTRUYE=  NODOS~FF~#017
+;00000091{  REPEL= MONSTER~FF~}#020#017
+ REPELE=MONSTRUO~FF~#017
+;000000A2{  FIRST=   AID~FF~}#018#015
+PRIMEROS=AUXIL~FF~#015
+;000000B1{ FREEZE= MONSTER~FF~}#020#017
+CONGELA=MONSTRUO~FF~#017
+;000000C2{ SHIELD~FF~}#011#008
+ ESCUDO~FF~#008
+;000000CA{ PARTY= POWER~FF~}#017#014
+ PODER=EQUIPO~FF~#014
+;000000D8{  AIR= BURST~FF~}#016#013
+RÁFAGA= AIRE~FF~#013
+;000000E5{DISTRACT=MONSTER~FF~}#020#017
+DISTRAE=MONSTRUO~FF~#017
+;000000F6{ MOLOTOV~FF~}#012#009
+ MOLOTOV~FF~#009
+;000000FF{ GROUND=  MINE~FF~}#018#015
+  MINA= TIERRA~FF~#015
+;0000010E{DYNAMITE~FF~}#012#009
+DINAMITA~FF~#009
+;00000117{YOU CANT= AFFORD~FF~}#020#017
+TE FALTA= DINERO~FF~#017
+;00000128{MAXIMUM=REACHED~FF~}#019#016
+ MÁXIMO=LOGRADO~FF~#016
+;00000138{SELECT=SPECIAL~FF~}#018#015
+ELIGE=ESPECIAL~FF~#015
+;00000147{ EQUIP= PLAYER~FF~}#018#015
+EQUIPA=JUGADOR~FF~#015
+;00000156{PLAYER= ONE~FF~}#015#012
+JUGADR= UNO~FF~#012
+;00000162{PLAYER= TWO~FF~}#015#012
+JUGADR= DOS~FF~#012
+|366
+@0010E2FA-0010E4AB-00
+;00000000{sometime in the last century the baron fortesque invented a bizarre machine called~FF~the chaos engine...=the device became incredibly powerful and turned against its creator. its power to corrupt time and matter was out of control.=a cloud of chaos descended over the land, turning humans and animals into ravening beasts.=enter six hard-nailed mercenaries for hire...=one player ~26~ cpu=two players=options=start new game=enter password=}#440#434
+en algún momento de este siglo el barón fortesque inventó una rara máquina llamada~FF~motor del caos...= =
+el dispositivo se hizo muy poderoso y se volvió contra su creador. su poder para corromper tiempo y materia se descontroló.=  =una nube de caos descendió sobre la tierra, convirtiendo a humanos y animales en bestias. =aparecen seis duros mercenarios...=          =un jugador y cpu=dos jugadrs=opcion =empieza juego =entra password=#434
+|434
+@00119731-00119862-00
+;00000000{design=simon knight=eric matthews=graphic design=dan malone=graphic conversion=herman seranno=original code=steve cargill=code conversion=rob trevellyan=gordon fong=mike montgomery=game music ~26~ sfx=richard joseph=title music=joi=project management=graeme boxall=the chaos engine=C the bitmap brothers 1993=}#309#306
+diseño=simon knight=eric matthews=diseño gráfico=dan malone=conversión gráfica=herman seranno=código origin=steve cargill=conversión codi=rob trevellyan=gordon fong=mike montgomery=música y efectos=richard joseph=música titu=joi=gestión proyecto  =graeme boxall=the chaos engine=C the bitmap brothers 1993=#306
+|306

@@ -1,0 +1,51 @@
+@00008199-0000820A-FF
+;00008199{~0B~~15~c SEGA 1988=~02~~17~MANUFACTURED AND DISTRIBUTED=~05~~18~BY ASMIK CORPORATION=~07~~1A~UNDER LICENSE FROM=~06~~1B~SEGA ENTERPRISES,LTD.=~FF~}#147#114
+~0B~~15~c SEGA 1988=~02~~17~FABRICADO Y DISTRIBUIDO POR =~05~~18~ ASMIK CORPORATION  =~07~~1A~ BAJO LICENCIA DE =~06~~1B~SEGA ENTERPRISES,LTD.=~FF~#114
+|114
+@00008765-0000878B-FF
+;00008765{~0C~~18~PUSH RUN=~04~~1A~c SEGA 1988 / ASMIK 1990=~FF~}#054#039
+~0C~~18~TOCA RUN=~04~~1A~c SEGA 1988 / ASMIK 1990=~FF~#039
+|39
+@00008EC9-00008EF4-FF
+;00008EC9{NAME=SCORE=TOTAL TIME=STAGE=PRIZE=RACE TIME=}#044#044
+NOMB=MARCA=TIEMPO TO.=ETAPA=PREMI=T.CARRERA=#044
+|44
+@0000AE1B-0000AE2E-FF
+;0000AE1B{~08~~0E~PUSH I BUTTON !!=~FF~}#029#020
+~08~~0E~PULSA BOTÓN I !!=~FF~#020
+|20
+@00017000-00017BA8-FF
+;00017000{        POWER DRIFT STAFF       ______     -- ORIGINAL CONCEPT --     ____      SEGA ENTERPRISES LTD.     ___                                ___  -- CONVERSION TO PC-ENGINE -- ____         - PROGRAMMING -        ___            ISHIKAWA            __     KUDO JOHNNY B.GOOD EIJI    __                                __            - MUSIC -           ___               DON              __                                __          - GRAPHICS -          ___         METALI KAWACHI         __                                __          - TEST PLAY -         ___          PUSH POP MASA         __            ONTAKESAN           __             GEORGE             __          ANDLLE KAZAMA         __                                __       - SPECIAL THANKS -       ___         C.S. ALL STARS         __                                __      - MUSIC PROGRAMMING -     ___            ISHIKAWA            __                                __       - SYSTEM CREATOR -       ___      EIJI KUDO / ISHIKAWA      __                                __       - SPECIAL ADVISOR -      ___         HIROSHI OKAMOTO        __        KAZUYUKI TAKASAKI       __                                __            - TOOLS -           ___            TRR TEAM            __                                __      - DATA ORGANIZATION -     ___         BAJA BAJA KUDO         __                                __        - VISUAL SKETCH -       ___         METALI KAWACHI         __                                __       - MUSIC DIRECTION -      ___          BAKABON PAPA          __                                __     - GRAPHICS DIRECTION -     ___             ZEPHER             __                                __     - PROGRAM  DIRECTION -     ___          KYUSYU DANJI          __                                __         - COORDINATOR -        ___          PUSH POP MASA         __                                __          - PRODUCER -          ___        KAZUYUKI TAKASAKI       __                                __          - DIRECTOR -          ___            O-BOSS Y.           __                                __           - SUPPORT -          ___             NANCHAN            __         MARIKO KOIZUMI         __        MICHIYO SUGAWARA        __            GIM KEIKO           __                                __           - JAMMER -           ___           MEKO SAITOU          __          KAERU SAKURAI         __           YUCO MATUI           __          HOKKEN KATSU          __             TAKION             __            NARI OZZY           __                                __          - OCHAKUMI -          ___       JYOSHIDAISEI YURIKO      __            NARI OZZY           __         NAAA KAAA JIEEE        __                                __     - EXECUTIVE DIRECTOR -     ___       TOSHIYUKI FUTAMURA       __                                __     - EXECUTIVE PRODUCER -     ___         TAKAHIRO MINAMI        __                                ______________________________~FF~}#2988#2985
+     EQUIPO DE POWER DRIFT      ______
+    -- CONCEPTO ORIGINAL --     ____      SEGA ENTERPRISES LTD.     ___                                ___
+  -- CONVERSION A PC-ENGINE --  ____
+        - PROGRAMACIÓN -        ___            ISHIKAWA            __     KUDO JOHNNY B.GOOD EIJI    __                                __
+           - MÚSICA -           ___               DON              __                                __
+          - GRÁFICOS -          ___         METALI KAWACHI         __                                __
+          - PRUEBAS -           ___          PUSH POP MASA         __            ONTAKESAN           __             GEORGE             __          ANDLLE KAZAMA         __                                __
+     - GRACIAS ESPECIALES -     ___         C.S. ALL STARS         __                                __
+ - PROGRAMACIÓN DE LA MÚSICA -  ___            ISHIKAWA            __                                __
+    - CREADOR DEL SISTEMA -     ___      EIJI KUDO / ISHIKAWA      __                                __
+    - INSTRUCTOR ESPECIAL -     ___         HIROSHI OKAMOTO        __        KAZUYUKI TAKASAKI       __                                __
+        - HERRAMIENTAS -        ___            TRR TEAM            __                                __
+   - ORGANIZACIÓN DE DATOS -    ___         BAJA BAJA KUDO         __                                __
+      - BOSQUEJO VISUAL -       ___         METALI KAWACHI         __                                __
+    - DIRECCIÓN DE MÚSICA -     ___          BAKABON PAPA          __                                __
+   - DIRECCIÓN DE GRÁFICOS -    ___             ZEPHER             __                                __
+   - DIRECCIÓN DE PROGRAMA -    ___          KYUSYU DANJI          __                                __
+
+         - COORDINADOR -        ___          PUSH POP MASA         __                                __
+         - PRODUCTOR -          ___        KAZUYUKI TAKASAKI       __                                __ 
+         - DIRECTOR -          ___            O-BOSS Y.           __                                __ 
+          - SOPORTE -          ___             NANCHAN            __         MARIKO KOIZUMI         __        MICHIYO SUGAWARA        __            GIM KEIKO           __                                __           - JAMMER -           ___           MEKO SAITOU          __          KAERU SAKURAI         __           YUCO MATUI           __          HOKKEN KATSU          __             TAKION             __            NARI OZZY           __                                __          - OCHAKUMI -          ___       JYOSHIDAISEI YURIKO      __            NARI OZZY           __         NAAA KAAA JIEEE        __                                __
+    - PRODUCTOR EJECUTIVO -     ___       TOSHIYUKI FUTAMURA       __                                __
+    - PRODUCTOR EJECUTIVO -     ___         TAKAHIRO MINAMI        __                                ______________________________~FF~#2985
+|2985
+@00077BE5-00077C43-FF
+;00077BE5{~02~~02~SPECIAL THANKS TO=~FF~}#030#021
+~02~~02~MUCHAS GRACIAS A =~FF~#021
+;00077BFA{~15~~02~MINTA !=~FF~}#020#011
+~15~~02~MINTA !=~FF~#011
+;00077C05{~02~~14~GOOD BY   POWER DRIFT STAFF=~02~~15~            EIJI KUDO , MINTA=~FF~}#078#063
+~02~~14~ADIÓS    EQUIPO POWER DRIFT=~02~~15~            EIJI KUDO , MINTA=~FF~#063
+|95

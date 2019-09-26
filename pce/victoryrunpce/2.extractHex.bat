@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Victory Run (U).pce"
+set SCRIPTNAME="victoryrunpce"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 1A240:A0,347A0:60,174E0:60,178E0:60,17A60:40,17B60:40,17CE0:60,17DE0:20,17E60:60,17F40:60,18000:20,17BE0:20,FE00:40
+pause

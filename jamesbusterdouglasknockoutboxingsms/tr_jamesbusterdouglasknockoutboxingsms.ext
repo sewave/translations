@@ -1,0 +1,167 @@
+@00000A37-00000A40-FF
+;00000A37{"BUSTER" L}#010#010
+"BUSTER" L#010
+|10
+@00000A4C-00000A7D-FF
+;00000A4C{B.SANTANA T.WHITE   M.WILLIAMSR.BERNARD K.GIBSON  }#050#050
+B.SANTANA T.WHITE   M.WILLIAMSR.BERNARD K.GIBSON  #050
+|50
+@00000CD7-00000D22-FF
+;00000CD7{   PRESS                START BUTTON                        = SEGA 1990 TM *}#076#076
+   PULSA                BOTÓN START                         = SEGA 1990 TM *#076
+|76
+@0000102E-00001057-FF
+;0000102E{SLOW SPEED                  FAST SPEED    }#042#042
+LENTO                       RÁPIDO        #042
+|42
+@00001142-0000115F-FF
+;00001142{1 PLAYER            2 PLAYERS }#030#030
+1JUGADOR            2JUGADORES#030
+|30
+@00001342-00001351-FF
+;00001342{VSP   R   F   SP}#016#016
+VS
+FU  RE  VE  PE#016
+|16
+@00001D67-00001E1C-FF
+;00001D67{    ROUND           1            2            3            4            5            6            7            8            9           10           11           12         TOTAL    }#182#182
+    RONDA           1            2            3            4            5            6            7            8            9           10           11           12         TOTAL    #182
+|182
+@0000216C-00002176-FF
+;0000216C{S.PUNCH +1 }#011#011
+PUÑO E. +1 #011
+|11
+@0000218A-00002195-FF
+;0000218A{RECOVER +40 }#012#012
+RECUPERA+40 #012
+|12
+@000028E6-000028FA-FF
+;000028E6{REMATCH       END    }#021#021
+OTRO          FIN    #021
+|21
+@00002B72-00002B81-FF
+;00002B72{*G*A*M*E*O*V*E*R}#016#016
+*G*A*M*E*O*V*E*R#016
+|16
+@0000B092-0000B181-20
+;0000B092{THIS TIME YOU'VE GOT TO=PUT HIM AWAY!~20~}#041#038
+ESTA VEZ DEBES ALEJARLE!=            ~20~#038
+;0000B0B8{MAKE THE FIRST MOVE AND=THE MATCH IS YOURS!=REMEMBER NO GUTS,NO GLORY!~20~}#074#071
+HAZ EL PRIMER MOVIMIENTO Y=GANARÁS!=
+RECUERDA, NO HAY GLORIA SIN=VALOR!~20~#071
+;0000B0FF{STAY CLEAR OF HIS BODY=BLOWS!~20~}#033#030
+ALÉJATE DEL GOLPE AL CUERPO! ~20~#030
+;0000B11D{BE CAREFUL!=THIS GUY LOOKS TOUGH.  ~20~}#039#036
+CUIDADO!    =ESTE TIPO PARECE DURO.~20~#036
+;0000B141{LOOK FOR HIS WEAKNESSES!~20~}#028#025
+BUSCA SUS DEBILIDADES!  ~20~#025
+;0000B15A{ENOUGH SAID. NOW GIVE IT ALLYOU'VE GOT!~20~}#043#040
+BASTA DE CHARLA.  =
+AHORA DALE CON TODO!~20~#040
+|240
+@0000B1AA-0000B3FD-20
+;0000B1AA{IF YOU SEE AN OPENING,=GO FOR IT!~20~}#037#034
+SI VES UNA APERTURA VE TRAS=ELLA!~20~#034
+;0000B1CC{HE'S READY TO GO DOWN!~20~}#026#023
+ESTÁ LISTO PARA CAER! ~20~#023
+;0000B1E3{YOU'VE GOT HIM ON THE RUN!~20~}#030#027
+LE TIENES CORRIENDO!      ~20~#027
+;0000B1FE{YOU'RE LOOKING=GOOD OUT THERE...~20~}#036#033
+SE TE VE BIEN AHÍ...=           ~20~#033
+;0000B21F{NICE COMBINATIONS!=KEEP IT UP!~20~}#034#031
+BUENAS COMBINACIONES!=SIGUE!  ~20~#031
+;0000B23E{DON'T FORGET TO KEEP=YOUR GUARD UP...~20~}#041#038
+NO OLVIDES MANTENER TU=GUARDIA ALTA. ~20~#038
+;0000B264{STAY LOW AND KEEP PUNCHING!~20~}#031#028
+MANTENTE BAJO Y GOLPEA!    ~20~#028
+;0000B280{LET'S SEE SOME MORE ACTION!~20~}#031#028
+VEAMOS ALGO MÁS DE ACCIÓN! ~20~#028
+;0000B29C{MAKE EVERY ROUND COUNT!~20~}#027#024
+CADA RONDA DEBE CONTAR!~20~#024
+;0000B2B4{KEEP YOUR EYE ON=YOUR OPPONENT!~20~}#035#032
+SIGUE MIRANDO A TU OPONENTE!   ~20~#032
+;0000B2D4{YOU'RE CATCHING TOO MANY=PUNCHES OUT THERE...~20~}#049#046
+ESTÁS RECIBIENDO DEMASIADOS=PUÑETAZOS...     ~20~#046
+;0000B302{DON'T WAIT FOR HIM=TO HIT YOU!~20~}#034#031
+NO ESPERES A SUS GOLPES!=     ~20~#031
+;0000B321{HE'S WALKING ALL OVER YOU!~20~}#030#027
+TE ESTÁ PISOTEANDO!=      ~20~#027
+;0000B33C{WHAT'S THE MATTER WITH YOU?!COME ON!=WAKE UP OUT THERE!~20~}#059#056
+CUAL ES TU PROBLEMA?! VAMOS!
+LEVÁNTATE DE AHÍ!          ~20~#056
+;0000B374{YOU GET   POINTS.=GREAT BOXING!!~20~}#036#033
+RECIBES   PUNTOS.=BUEN BOXEO!!  ~20~#033
+;0000B395{ALL RIGHT! YOU'RE=THE NEW HEAVYWEIGHT=CHAMPION OF THE WORLD!~20~}#064#061
+BIEN! ERES EL NUEVO CAMPEÓN 
+DE LOS PESOS PESADOS DEL=
+MUNDO! ~20~#061
+;0000B3D2{YOU HAVE   MORE POINTSFOR POWER UP!         }#044#044
+TIENES          PUNTOS
+PARA MEJORAR!         #044
+|596
+@0000B3FE-0000B61D-20
+;0000B3FE{        CONGRATULATIONS!                                            TODAY YOU SHOWED WHAT IT       TAKES TO BE A GREAT BOXER.      NO MATTER HOW HARD YOUR         OPPONENT FOUGHT,YOU HELD        YOUR GROUND AND WENT THE        DISTANCE!                       AND NOW YOU ARE THE             UNDISPUTED BOXING CHAMPION      OF THE WORLD!                                                                                                                                                                                                                }#544#544
+          FELICIDADES!          
+                                
+    HOY HAS MOSTRADO COMO SE    
+   HACE A UN GRAN BOXEADOR.     
+   SIN IMPORTAR CUAN DURO       
+   LUCHARA TU OPONENTE, TÚ      
+   MANTUVISTE TU POSICIÓN E     
+   HICISTE LA DISTANCIA!        
+   Y AHORA ERES EL              
+   INDISCUTIBLE CAMPEÓN DE      
+   BOXEO DEL MUNDO!             
+                                
+                                
+                                
+                                
+                                                                
+#544
+|544
+@0000B61E-0000BB7D-20
+;0000B61E{                                                                                                                                              STAFF                                                  PLANNERS                                    ALL MEMBERS                                         PROGRAMMERS                                 NONCHAN                         S.KAWA                                              DESIGNERS                                   YASUKUNI                        TOMMY                                               SOUND COMPOSER                              KIN                                                                                                                                                                                                                                                                                                                                                                                   PRESENTED BY SEGA                                                                                                                                                                                                                                                                                                                                                                                                        }#1376#1376
+                                
+                                
+                                
+                                
+             GRUPO              
+                                
+     PLANIFICADORES             
+                 TODOS          
+                                
+     PROGRAMADORES              
+                 NONCHAN        
+                 S.KAWA         
+                                
+     DISEÑADORES                
+                 YASUKUNI       
+                 TOMMY          
+                                
+     COMPOSITOR DE SONIDO       
+                 KIN            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+      PRESENTADO POR SEGA       
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                #1376
+|1376

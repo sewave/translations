@@ -1,0 +1,614 @@
+@00000410-00000448-00
+;00000410{Europe~00~}#010#007
+Europe~00~#007
+;00000417{South America~00~}#017#014
+South America~00~#014
+;00000425{Africa~00~}#010#007
+Africa~00~#007
+;0000042C{North America~00~}#017#014
+North America~00~#014
+;0000043A{Asia~00~}#008#005
+Asia~00~#005
+;0000043F{Error~00~}#009#006
+Error~00~#006
+;00000445{~00~}#004#001
+~00~#001
+;00000446{~00~}#004#001
+~00~#001
+;00000447{~00~}#004#001
+~00~#001
+;00000448{~00~}#004#001
+~00~#001
+|57
+@0004BFE8-0004C355-00
+;0004BFE8{World Trophy~00~}#016#013
+World Trophy~00~#013
+;0004BFF5{First Round~00~}#015#012
+First Round~00~#012
+;0004C001{Second Round~00~}#016#013
+Second Round~00~#013
+;0004C00E{Third Round~00~}#015#012
+Third Round~00~#012
+;0004C01A{Quarter Finals~00~}#018#015
+Quarter Finals~00~#015
+;0004C029{Semi Finals~00~}#015#012
+Semi Finals~00~#012
+;0004C035{Final~00~}#009#006
+Final~00~#006
+;0004C03B{First Leg~00~}#013#010
+First Leg~00~#010
+;0004C045{Second Leg~00~}#014#011
+Second Leg~00~#011
+;0004C050{~00~}#004#001
+~00~#001
+;0004C051{Results~00~}#011#008
+Results~00~#008
+;0004C059{Result~00~}#010#007
+Result~00~#007
+;0004C060{won on Aggregate~00~}#020#017
+won on Aggregate~00~#017
+;0004C071{won on Away Goals~00~}#021#018
+won on Away Goals~00~#018
+;0004C083{won on Penalties~00~}#020#017
+won on Penalties~00~#017
+;0004C094{Friendly Match~00~}#018#015
+Friendly Match~00~#015
+;0004C0A3{Soccer Superbowl~00~}#020#017
+Soccer Superbowl~00~#017
+;0004C0B4{European Champions~00~}#022#019
+European Champions~00~#019
+;0004C0C7{South American Champions~00~}#028#025
+South American Champions~00~#025
+;0004C0E0{Versus~00~}#010#007
+Versus~00~#007
+;0004C0E7{Score~00~}#009#006
+Score~00~#006
+;0004C0ED{Cup Winners~00~}#015#012
+Cup Winners~00~#012
+;0004C0F9{Really Quit Season?~00~}#023#020
+Really Quit Season?~00~#020
+;0004C10D{Won on Goals Scored~00~}#023#020
+Won on Goals Scored~00~#020
+;0004C121{Penalty Shootout~00~}#020#017
+Penalty Shootout~00~#017
+;0004C132{Extra Time~00~}#014#011
+Extra Time~00~#011
+;0004C13D{Arguing with Ref~00~}#020#017
+Arguing with Ref~00~#017
+;0004C14E{Dangerous Play~00~}#018#015
+Dangerous Play~00~#015
+;0004C15D{Sent Off~00~}#012#009
+Sent Off~00~#009
+;0004C166{Cautioned~00~}#013#010
+Cautioned~00~#010
+;0004C170{Professional Foul~00~}#021#018
+Professional Foul~00~#018
+;0004C182{First Half~00~}#014#011
+First Half~00~#011
+;0004C18D{Second Half~00~}#015#012
+Second Half~00~#012
+;0004C199{Press Start~00~}#015#012
+Press Start~00~#012
+;0004C1A5{Options~00~}#011#008
+Options~00~#008
+;0004C1AD{Exhibition~00~}#014#011
+Exhibition~00~#011
+;0004C1B8{Tournament~00~}#014#011
+Tournament~00~#011
+;0004C1C3{Difficulty~00~}#014#011
+Difficulty~00~#011
+;0004C1CE{Match Length~00~}#016#013
+Match Length~00~#013
+;0004C1DB{Exit~00~}#008#005
+Exit~00~#005
+;0004C1E0{BGM Test~00~}#012#009
+BGM Test~00~#009
+;0004C1E9{Normal~00~}#010#007
+Normal~00~#007
+;0004C1F0{Hard~00~}#008#005
+Hard~00~#005
+;0004C1F5{Easy~00~}#008#005
+Easy~00~#005
+;0004C1FA{Control Select~00~}#018#015
+Control Select~00~#015
+;0004C209{Uniform Design~00~}#018#015
+Uniform Design~00~#015
+;0004C218{Shirt~00~}#009#006
+Shirt~00~#006
+;0004C21E{Shorts~00~}#010#007
+Shorts~00~#007
+;0004C225{Socks~00~}#009#006
+Socks~00~#006
+;0004C22B{Trim~00~}#008#005
+Trim~00~#005
+;0004C230{Choose~00~}#010#007
+Choose~00~#007
+;0004C237{New Game~00~}#012#009
+New Game~00~#009
+;0004C240{Enter Password~00~}#018#015
+Enter Password~00~#015
+;0004C24F{Number of Players~00~}#021#018
+Number of Players~00~#018
+;0004C261{View Round~00~}#014#011
+View Round~00~#011
+;0004C26C{Play Round~00~}#014#011
+Play Round~00~#011
+;0004C277{Show Password~00~}#017#014
+Show Password~00~#014
+;0004C285{Sound Mode~00~}#014#011
+Sound Mode~00~#011
+;0004C290{MUSIC ON - FX ON ~00~}#021#018
+MUSIC ON - FX ON ~00~#018
+;0004C2A2{MUSIC OFF- FX ON ~00~}#021#018
+MUSIC OFF- FX ON ~00~#018
+;0004C2B4{MUSIC ON - FX OFF~00~}#021#018
+MUSIC ON - FX OFF~00~#018
+;0004C2C6{MUSIC OFF- FX OFF~00~}#021#018
+MUSIC OFF- FX OFF~00~#018
+;0004C2D8{MORE OPTIONS~00~}#016#013
+MORE OPTIONS~00~#013
+;0004C2E5{SUB/CHANGE BUTTON~00~}#021#018
+SUB/CHANGE BUTTON~00~#018
+;0004C2F7{Substitutes~00~}#015#012
+Substitutes~00~#012
+;0004C303{Nearest Player~00~}#018#015
+Nearest Player~00~#015
+;0004C312{Selects~00~}#011#008
+Selects~00~#008
+;0004C31A{Push Start To Exit~00~}#022#019
+Push Start To Exit~00~#019
+;0004C32D{THREE~FF~SHREDDED~FF~WHEAT~00~}#030#021
+THREE~FF~SHREDDED~FF~WHEAT~00~#021
+;0004C342{QUITTER~00~}#011#008
+QUITTER~00~#008
+;0004C34A{CREDITS~00~}#011#008
+CREDITS~00~#008
+;0004C352{~40~~00~}#008#002
+~40~~00~#002
+;0004C354{ ~00~}#005#002
+ ~00~#002
+|878
+@0004C356-0004C501-00
+;0004C356{Player 1~00~}#012#009
+Player 1~00~#009
+;0004C35F{Player 2~00~}#012#009
+Player 2~00~#009
+;0004C368{4 mins~00~}#010#007
+4 mins~00~#007
+;0004C36F{~00~}#004#001
+~00~#001
+;0004C370{10 mins~00~}#011#008
+10 mins~00~#008
+;0004C378{20 mins~00~}#011#008
+20 mins~00~#008
+;0004C380{30 mins~00~}#011#008
+30 mins~00~#008
+;0004C388{40 mins~00~}#011#008
+40 mins~00~#008
+;0004C390{50 mins~00~}#011#008
+50 mins~00~#008
+;0004C398{60 mins~00~}#011#008
+60 mins~00~#008
+;0004C3A0{70 mins~00~}#011#008
+70 mins~00~#008
+;0004C3A8{80 mins~00~}#011#008
+80 mins~00~#008
+;0004C3B0{90 mins~00~}#011#008
+90 mins~00~#008
+;0004C3B8{Music Off~00~}#013#010
+Music Off~00~#010
+;0004C3C2{World Anthem~00~}#016#013
+World Anthem~00~#013
+;0004C3CF{Kick Off~00~}#012#009
+Kick Off~00~#009
+;0004C3D8{Goal~00~}#008#005
+Goal~00~#005
+;0004C3DD{Ready to Play~00~}#017#014
+Ready to Play~00~#014
+;0004C3EB{Half Time~00~}#013#010
+Half Time~00~#010
+;0004C3F5{Final Whistle~00~}#017#014
+Final Whistle~00~#014
+;0004C403{European Stars~00~}#018#015
+European Stars~00~#015
+;0004C412{Latin Heat~00~}#014#011
+Latin Heat~00~#011
+;0004C41D{Eastern Power~00~}#017#014
+Eastern Power~00~#014
+;0004C42B{Penalties~00~}#013#010
+Penalties~00~#010
+;0004C435{Team Selection~00~}#018#015
+Team Selection~00~#015
+;0004C444{United Kingdom~00~}#018#015
+United Kingdom~00~#015
+;0004C453{Defeated~00~}#012#009
+Defeated~00~#009
+;0004C45C{Krisalis Logo~00~}#017#014
+Krisalis Logo~00~#014
+;0004C46A{Design~00~}#010#007
+Design~00~#007
+;0004C471{Well Done~00~}#013#010
+Well Done~00~#010
+;0004C47B{Club Mediterrania~00~}#021#018
+Club Mediterrania~00~#018
+;0004C48D{Match Winner~00~}#016#013
+Match Winner~00~#013
+;0004C49A{Sub/Change~00~}#014#011
+Sub/Change~00~#011
+;0004C4A5{Kick/Slide~00~}#014#011
+Kick/Slide~00~#011
+;0004C4B0{Lob/Header~00~}#014#011
+Lob/Header~00~#011
+;0004C4BB{P1 Press Start~00~}#018#015
+P1 Press Start~00~#015
+;0004C4CA{P2 Press Start~00~}#018#015
+P2 Press Start~00~#015
+;0004C4D9{Player Selected~00~}#019#016
+Player Selected~00~#016
+;0004C4E9{CPU~00~}#007#004
+CPU~00~#004
+;0004C4ED{Select~00~}#010#007
+Select~00~#007
+;0004C4F4{Ready ~00~}#010#007
+Ready ~00~#007
+;0004C4FB{      ~00~}#010#007
+      ~00~#007
+|428
+@0004C502-0004C534-00
+;0004C502{Select Formation~00~}#020#017
+Select Formation~00~#017
+;0004C513{     Ready      ~00~}#020#017
+     Ready      ~00~#017
+;0004C524{                ~00~}#020#017
+                ~00~#017
+|51
+@0004C535-0004C676-00
+;0004C535{EUROPEAN CUP~00~}#016#013
+EUROPEAN CUP~00~#013
+;0004C542{UEFA CUP~00~}#012#009
+UEFA CUP~00~#009
+;0004C54B{CUP WINNERS' CUP~00~}#020#017
+CUP WINNERS' CUP~00~#017
+;0004C55C{OWN GOAL~00~}#012#009
+OWN GOAL~00~#009
+;0004C565{ GOAL~00~}#009#006
+ GOAL~00~#006
+;0004C56B{ IN ~00~}#008#005
+ IN ~00~#005
+;0004C570{Home~00~}#008#005
+Home~00~#005
+;0004C575{Away~00~}#008#005
+Away~00~#005
+;0004C57A{red~00~}#007#004
+red~00~#004
+;0004C57E{amber~00~}#009#006
+amber~00~#006
+;0004C584{yellow~00~}#010#007
+yellow~00~#007
+;0004C58B{white~00~}#009#006
+white~00~#006
+;0004C591{black~00~}#009#006
+black~00~#006
+;0004C597{Dark green~00~}#014#011
+Dark green~00~#011
+;0004C5A2{Light Blue~00~}#014#011
+Light Blue~00~#011
+;0004C5AD{Dark Blue~00~}#013#010
+Dark Blue~00~#010
+;0004C5B7{Sky Blue~00~}#012#009
+Sky Blue~00~#009
+;0004C5C0{Dark Red~00~}#012#009
+Dark Red~00~#009
+;0004C5C9{Silver Grey~00~}#015#012
+Silver Grey~00~#012
+;0004C5D5{Purple~00~}#010#007
+Purple~00~#007
+;0004C5DC{Orange~00~}#010#007
+Orange~00~#007
+;0004C5E3{Blue Green~00~}#014#011
+Blue Green~00~#011
+;0004C5EE{   Paused    ~00~}#017#014
+   Paused    ~00~#014
+;0004C5FC{Action Replay~00~}#017#014
+Action Replay~00~#014
+;0004C60A{Substitute~00~}#014#011
+Substitute~00~#011
+;0004C615{Quit Match~00~}#014#011
+Quit Match~00~#011
+;0004C620{Are you sure~00~}#016#013
+Are you sure~00~#013
+;0004C62D{Yes~00~}#007#004
+Yes~00~#004
+;0004C631{No~00~}#006#003
+No~00~#003
+;0004C634{Continue~00~}#012#009
+Continue~00~#009
+;0004C63D{Penalty Taker ~00~}#018#015
+Penalty Taker ~00~#015
+;0004C64C{Current Score~00~}#017#014
+Current Score~00~#014
+;0004C65A{Current Password~00~}#020#017
+Current Password~00~#017
+;0004C66B{Error~00~}#009#006
+Error~00~#006
+;0004C671{     ~00~}#009#006
+     ~00~#006
+|322
+@0004C677-0004C6A1-00
+;0004C677{HALF~00~}#008#005
+HALF~00~#005
+;0004C67C{TIME~00~}#008#005
+TIME~00~#005
+;0004C681{EXTRA~00~}#009#006
+EXTRA~00~#006
+;0004C687{FIRST~00~}#009#006
+FIRST~00~#006
+;0004C68D{SECOND~00~}#010#007
+SECOND~00~#007
+;0004C694{FULL~00~}#008#005
+FULL~00~#005
+;0004C699{STAFF~00~}#009#006
+STAFF~00~#006
+;0004C69F{~00~}#004#001
+~00~#001
+;0004C6A0{P~F9~}#005#002
+P~F9~#002
+|43
+@00051D15-00051D24-00
+;00051D15{1 ~FC~PLAY0~FC~ER~10~~FC~~00~}#029#014
+1 ~FC~PLAY0~FC~ER~10~~FC~~00~#014
+;00051D23{ ~10~}#005#002
+ ~10~#002
+|16
+@0005534C-00055363-00
+;0005534C{Nu~00~}#006#003
+Nu~00~#003
+;0005534F{~00~}#004#001
+~00~#001
+;00055350{Production Team~00~}#019#016
+Production Team~00~#016
+;00055360{~00~}#004#001
+~00~#001
+;00055361{~40~~00~}#008#002
+~40~~00~#002
+;00055363{~00~}#004#001
+~00~#001
+|24
+@00055364-00055384-00
+;00055364{Chief Programmer~00~}#020#017
+Chief Programmer~00~#017
+;00055375{Pete Harrap~00~}#015#012
+Pete Harrap~00~#012
+;00055381{~00~}#004#001
+~00~#001
+;00055382{~40~~00~}#008#002
+~40~~00~#002
+;00055384{~00~}#004#001
+~00~#001
+|33
+@00055385-000553A3-00
+;00055385{Guest Programmer~00~}#020#017
+Guest Programmer~00~#017
+;00055396{Andy Ware~00~}#013#010
+Andy Ware~00~#010
+;000553A0{~00~}#004#001
+~00~#001
+;000553A1{~40~~00~}#008#002
+~40~~00~#002
+;000553A3{~00~}#004#001
+~00~#001
+|31
+@000553A4-000553CA-00
+;000553A4{Additional Code~00~}#019#016
+Additional Code~00~#016
+;000553B4{Shaun Hollingworth~00~}#022#019
+Shaun Hollingworth~00~#019
+;000553C7{~00~}#004#001
+~00~#001
+;000553C8{~40~~00~}#008#002
+~40~~00~#002
+;000553CA{~00~}#004#001
+~00~#001
+|39
+@000553CB-000553EA-00
+;000553CB{Graphic Artist~00~}#018#015
+Graphic Artist~00~#015
+;000553DA{Neil Adamson~00~}#016#013
+Neil Adamson~00~#013
+;000553E7{~00~}#004#001
+~00~#001
+;000553E8{~40~~00~}#008#002
+~40~~00~#002
+;000553EA{~00~}#004#001
+~00~#001
+|32
+@000553EB-0005540A-00
+;000553EB{Music Composer~00~}#018#015
+Music Composer~00~#015
+;000553FA{Matt Furniss~00~}#016#013
+Matt Furniss~00~#013
+;00055407{~00~}#004#001
+~00~#001
+;00055408{~40~~00~}#008#002
+~40~~00~#002
+;0005540A{~00~}#004#001
+~00~#001
+|32
+@0005540B-00055430-00
+;0005540B{Audio Engineer~00~}#018#015
+Audio Engineer~00~#015
+;0005541A{Shaun Hollingworth~00~}#022#019
+Shaun Hollingworth~00~#019
+;0005542D{~00~}#004#001
+~00~#001
+;0005542E{~40~~00~}#008#002
+~40~~00~#002
+;00055430{~00~}#004#001
+~00~#001
+|38
+@00055431-00055467-00
+;00055431{Game Design~00~}#015#012
+Game Design~00~#012
+;0005543D{Neil Adamson~00~}#016#013
+Neil Adamson~00~#013
+;0005544A{Pete Harrap~00~}#015#012
+Pete Harrap~00~#012
+;00055456{Tony Kavanagh~00~}#017#014
+Tony Kavanagh~00~#014
+;00055464{~00~}#004#001
+~00~#001
+;00055465{~40~~00~}#008#002
+~40~~00~#002
+;00055467{~00~}#004#001
+~00~#001
+|55
+@00055468-00055488-00
+;00055468{1ST Game Tester~00~}#019#016
+1ST Game Tester~00~#016
+;00055478{Neil Adamson~00~}#016#013
+Neil Adamson~00~#013
+;00055485{~00~}#004#001
+~00~#001
+;00055486{~40~~00~}#008#002
+~40~~00~#002
+;00055488{~00~}#004#001
+~00~#001
+|33
+@00055489-000554A9-00
+;00055489{2ND Game Tester~00~}#019#016
+2ND Game Tester~00~#016
+;00055499{Matt Furniss~00~}#016#013
+Matt Furniss~00~#013
+;000554A6{~00~}#004#001
+~00~#001
+;000554A7{~40~~00~}#008#002
+~40~~00~#002
+;000554A9{~00~}#004#001
+~00~#001
+|33
+@000554AA-000554C8-00
+;000554AA{Team Manager~00~}#016#013
+Team Manager~00~#013
+;000554B7{Tony Kavanagh~00~}#017#014
+Tony Kavanagh~00~#014
+;000554C5{~00~}#004#001
+~00~#001
+;000554C6{~00~}#004#001
+~00~#001
+;000554C7{~00~}#004#001
+~00~#001
+;000554C8{~00~}#004#001
+~00~#001
+|31
+@000554CD-000554DF-00
+;000554CD{Krisalis Staff~00~}#018#015
+Krisalis Staff~00~#015
+;000554DC{~00~}#004#001
+~00~#001
+;000554DD{~40~~00~}#008#002
+~40~~00~#002
+;000554DF{~00~}#004#001
+~00~#001
+|19
+@000554E0-00055567-00
+;000554E0{Programmers~00~}#015#012
+Programmers~00~#012
+;000554EC{~00~}#004#001
+~00~#001
+;000554ED{Pete Harrap~00~}#015#012
+Pete Harrap~00~#012
+;000554F9{Shaun Hollingworth~00~}#022#019
+Shaun Hollingworth~00~#019
+;0005550C{Andy Ware~00~}#013#010
+Andy Ware~00~#010
+;00055516{Mark Incley~00~}#015#012
+Mark Incley~00~#012
+;00055522{Rob Hill~00~}#012#009
+Rob Hill~00~#009
+;0005552B{Nigel Little~00~}#016#013
+Nigel Little~00~#013
+;00055538{Simeon Pashley~00~}#018#015
+Simeon Pashley~00~#015
+;00055547{Richard Teather~00~}#019#016
+Richard Teather~00~#016
+;00055557{John Stevens~00~}#016#013
+John Stevens~00~#013
+;00055564{~00~}#004#001
+~00~#001
+;00055565{~40~~00~}#008#002
+~40~~00~#002
+;00055567{~00~}#004#001
+~00~#001
+|136
+@00055568-000555B5-00
+;00055568{Artists~00~}#011#008
+Artists~00~#008
+;00055570{~00~}#004#001
+~00~#001
+;00055571{Neil Adamson~00~}#016#013
+Neil Adamson~00~#013
+;0005557E{Dave Colledge~00~}#017#014
+Dave Colledge~00~#014
+;0005558C{Phil Hackney~00~}#016#013
+Phil Hackney~00~#013
+;00055599{Mark Potente~00~}#016#013
+Mark Potente~00~#013
+;000555A6{Mark Harrap~00~}#015#012
+Mark Harrap~00~#012
+;000555B2{~00~}#004#001
+~00~#001
+;000555B3{~40~~00~}#008#002
+~40~~00~#002
+;000555B5{~00~}#004#001
+~00~#001
+|78
+@000555B6-000555D0-00
+;000555B6{Musician~00~}#012#009
+Musician~00~#009
+;000555BF{~00~}#004#001
+~00~#001
+;000555C0{Matt Furniss~00~}#016#013
+Matt Furniss~00~#013
+;000555CD{~00~}#004#001
+~00~#001
+;000555CE{~40~~00~}#008#002
+~40~~00~#002
+;000555D0{~00~}#004#001
+~00~#001
+|27
+@000555D1-00055619-00
+;000555D1{Management~00~}#014#011
+Management~00~#011
+;000555DC{~00~}#004#001
+~00~#001
+;000555DD{Tony Kavanagh~00~}#017#014
+Tony Kavanagh~00~#014
+;000555EB{Pete Harrap~00~}#015#012
+Pete Harrap~00~#012
+;000555F7{Shaun Hollingworth~00~}#022#019
+Shaun Hollingworth~00~#019
+;0005560A{Amanda Pugh~00~}#015#012
+Amanda Pugh~00~#012
+;00055616{~00~}#004#001
+~00~#001
+;00055617{~40~~00~}#008#002
+~40~~00~#002
+;00055619{~00~}#004#001
+~00~#001
+|73
+@0005561A-00055638-00
+;0005561A{Office Staff~00~}#016#013
+Office Staff~00~#013
+;00055627{~00~}#004#001
+~00~#001
+;00055628{Claire Brown~00~}#016#013
+Claire Brown~00~#013
+;00055635{~00~}#004#001
+~00~#001
+;00055636{~00~}#004#001
+~00~#001
+;00055637{~00~}#004#001
+~00~#001
+;00055638{~00~}#004#001
+~00~#001
+|31

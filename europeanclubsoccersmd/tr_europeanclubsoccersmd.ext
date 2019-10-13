@@ -1,0 +1,71 @@
+@00000DE4-00000DEE-00
+;00000DE4{Fiorentina=}#011#011
+Fiorentina=#011
+|11
+@00000E00-00000E08-00
+;00000E00{Flamengo=}#009#009
+Flamengo=#009
+|9
+@00000E1C-00000F42-00
+;00000E1C{Albania=Austria=Belgium=Bulgaria=Cyprus=Czechoslovakia=Denmark=England=Finland=France=Germany=Greece=Holland=Hungary=Iceland=Italy=Rep.Ireland=N.Ireland=Luxembourg=Malta=Norway=Poland=Portugal=Rumania=Scotland=Spain=Sweden=Switzerland=Turkey=USSR=Wales=Yugoslavia=Argentina=Uruguay=Brazil=Error=}#295#295
+Albania=Austria=Bélgica=Bulgaria=Chipre=Checoslovaquia=Dinamarca=R.U.=Finlandia=Francia=
+Alemania=Grecia=Holanda=Hungría=Islandia=Italia=R.Irlanda=Irlanda N=Luxemburgo=Malta=
+Noruega=Polonia=Portugal=Rumania=Escocia=España=Suecia=Suiza=Turquía=
+URSS=Wales=Yugoslavia=Argentina=Uruguay=Brasil=Error=#295
+|295
+@0005F966-0005FB18-FF
+;0005F966{European Cup=First Round=Second Round=Third Round=Quarter Finals=Semi Finals=Final=First Leg=Second Leg==Results=Result=won on Aggregate=won on Away Goals=won on Penalties=Friendly Match=World Championship=European Champions=South American Champions=Versus=Score=Cup Winners=Really Quit Season?=Won on Goals Scored=Penalty Shootout=Extra Time=Arguing with Ref=Dangerous Play=Sent Off=Cautioned=Professional Foul=First Half=Second Half=}#435#435
+Copa de Europa=Primera Ronda=Segunda Ronda=Tercera Ronda=Cuartos Final=Semifinal=Final=Ida=Vuelta==
+Resultados=Resultado=gana por Agregado=gana por Goles Fuera=gana por Penaltis=Amistoso=
+Campeonato Mundo=Campeones de Europa=Campeones Sudamérica=
+Contra=Marca=Ganadores Copa=Dejar la Temporada?=Gana por Goles=Penaltis=Tiempo Extra=Discute con Árbitro=Juego Peligroso=Al Banquillo=
+Amonestado=Falta Profesional=Primera Parte=Segunda Parte=#435
+|435
+@0005FB19-0005FCA4-FF
+;0005FB19{Press Start=Options=Arcade=Simulation=Difficulty=Match Length=Exit=BGM Test=Normal=Hard=Easy=Control Select=Strip Design=Shirt=Shorts=Socks=Trim=Choose=New Game=Enter Password=Number of Players=View Round=Play Round=Show Password=Sound Mode=MUSIC ON - FX ON =MUSIC OFF- FX ON =MUSIC ON - FX OFF=MUSIC OFF- FX OFF=MORE OPTIONS=CHANGE BUTTON=Automatic=Manual=Player Select=Push Start To Exit=THREE~FF~}#399#396
+Pulsa Start=Opciones=Arcade=Simulación=Dificultad=Duración Partido=Salir=MÚSICA=Normal=Duro=Fácil=Elige Control=
+Uniformes=Camiseta=Pantalón=Calcetín=Borde=Elige=Empieza=Entra Password=Número Jugadores=
+Ver Ronda=Jugar Ronda=Ver Password=Modo Audio=
+MÚSICA SÍ - ES SÍ=MÚSICA NO - ES SÍ=MÚSICA SÍ - ES NO=MÚSICA NO - ES NO=MÁS OPCIONES=
+BOTÓN CAMBIOS=Automático=Manual=Elige Jugador=Start Salir=TRES ~FF~#396
+|396
+@0005FCA5-0005FD33-FF
+;0005FCA5{SHREDDED~FF~}#012#009
+TRITURAR~FF~#009
+;0005FCAE{WHEAT=QUITTER=CREDITS=\= =Player 1=Player 2=4 mins==10 mins=20 mins=30 mins=40 mins=50 mins=60 mins=70 mins=80 mins=90 mins=Music Off=}#134#134
+TRIGO=COBARDE=CRÉDITO=\= =Jugador1=Jugador2=4 mins==10 mins=20 mins=30 mins=40 mins=50 mins=60 mins=70 mins=80 mins=90 mins=Música No=#134
+|143
+@0005FD34-0005FEE1-FF
+;0005FD34{World Anthem=Kick Off=Goal=Ready to Play=Half Time=Final Whistle=European Stars=Latin Heat=Eastern Power=Penalties=Team Selection=United Kingdom=Defeated=Krisalis Logo=Design=Well Done=Club Mediterrania=Match Winner=Change    =Kick/Slide=Lob/Header=P1 Press Start=P2 Press Start=Player Selected=CPU=Select=Ready =      =Select Formation=     Ready      =                =EUROPEAN CUP=UEFA CUP=CUP WINNERS' CUP=OWN GOAL= GOAL= IN =}#430#430
+World Anthem=Kick Off=Goal=Ready to Play=Half Time=Final Whistle=European Stars=Latin Heat=Eastern Power=Penalties=Team Selection=United Kingdom=Defeated=Krisalis Logo=Design=Well Done=Club Mediterrania=Match Winner=Change    =Kick/Slide=Lob/Header=
+J1 Pulsa Start=J2 Pulsa Start=Jugador Elegido=CPU=Elige= Listo=       =Elige Formación=     Listo      =                =COPA EUROPA=COPA UEFA=COPA GANADORES=GOL PROPIA= GOL=      =#430
+|430
+@0005FEE2-0006000F-FF
+;0005FEE2{Home=Away=red=amber=yellow=white=black=Dark green=Light Blue=Dark Blue=Sky Blue=Dark Red=Silver Grey=Purple=Orange=Blue Green=   Paused    =Action Replay=Substitute=Quit Match=Are you sure=Yes=No=Continue=Penalty Taker =Current Score=Current Password=Error=     =HALF=TIME=EXTRA=FIRST=SECOND=FULL=STAFF}#302#302
+Casa=Visi=roj=ámbar=amaril=blanc=negro=Osc. Verde=Claro Azul=Azul Osc.=Azul Ci.=Rojo Os.=Gris Plata = Lila =Naranj= Turquesa =
+  Pausado    = Repetición  =Sustituto =  Salir    =   Seguro  =Sí =No=Continua=Lanza Penaltis =Marca Actual=Password Actual=Error=      =
+MED.=PART=EXTRA= 1RA = 2DA  =FIN =GRUPO#302
+|302
+@000655DB-000655E8-00
+;000655DB{1 ~FC~PLAY0~FC~ER~10~~FC~=}#026#014
+1 ~FC~JUGA0~FC~DR~10~~FC~=#014
+|14
+@0006AAA6-0006ADA1-00
+;0006AAA6{Production Team==\==Chief Programmer=Pete Harrap==\==Guest Programmer=Andy Ware==\==Additional Code=Shaun Hollingworth==\==Graphic Artist=Neil Adamson==\==Music Composer=Matt Furniss==\==Audio Engineer=Shaun Hollingworth==\==Game Design=Neil Adamson=Pete Harrap=Tony Kavanagh==\==1ST Game Tester=Neil Adamson==\==2ND Game Tester=Matt Furniss==\==Team Manager=Tony Kavanagh=========Krisalis Staff==\==Programmers==Pete Harrap=Shaun Hollingworth=Andy Ware=Mark Incley=Rob Hill=Nigel Little=Simeon Pashley=Richard Teather=John Stevens==\==Artists==Neil Adamson=Dave Colledge=Phil Hackney=Mark Potente=Mark Harrap==\==Musician==Matt Furniss==\==Management==Tony Kavanagh=Pete Harrap=Shaun Hollingworth=Amanda Pugh==\==Office Staff==Claire Brown============= ==The End=}#764#764
+Equipo Producción==\==Programador Jefe=Pete Harrap==\==
+Programador Huésped=Andy Ware==\==
+Código Extra=Shaun Hollingworth==\==
+Arte Gráfico=Neil Adamson==\==
+Compone Música=Matt Furniss==\==
+Ingeniero Audio=Shaun Hollingworth==\==
+Diseño Juego=Neil Adamson=Pete Harrap=Tony Kavanagh==\==
+1ER Tester Juego=Neil Adamson==\==
+2DO Tester Juego=Matt Furniss==\==
+Jefe Equipo=Tony Kavanagh=========
+Equipo Krisalis==\==
+Programador==Pete Harrap=Shaun Hollingworth=Andy Ware=Mark Incley=Rob Hill=Nigel Little=Simeon Pashley=Richard Teather=John Stevens==\==
+Artista==Neil Adamson=Dave Colledge=Phil Hackney=Mark Potente=Mark Harrap==\==
+Músico==Matt Furniss==\==
+Gerencia==Tony Kavanagh=Pete Harrap=Shaun Hollingworth=Amanda Pugh==\==
+Oficinistas==Claire Brown=============     ==FIN=#764
+|764

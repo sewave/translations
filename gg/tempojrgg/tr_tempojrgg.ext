@@ -1,0 +1,291 @@
+@0002818A-0002819B-FF
+;0002818A{I*N*S*E*R*T* * * *}#018#018
+I*N*S*E*R*T*A* * *#018
+|18
+@000281A0-000281B1-FF
+;000281A0{ * * * * *C*O*I*N*}#018#018
+ * * *M*O*N*E*D*A*#018
+|18
+@000281E2-000281F3-FF
+;000281E2{C*O*N*T*I*N*U*E*?*}#018#018
+C*O*N*T*I*N*U*A*?*#018
+|18
+@000281F8-00028209-FF
+;000281F8{ * * *Y*E*S* * * *}#018#018
+ * * *S*Í* * * * *#018
+|18
+@00028222-0002822D-FF
+;00028222{Y*E*S*N*O* *}#012#012
+S*Í* *N*O* *#012
+|12
+@0000B890-0000B9F7-FF
+;0000B890{                                             STAGE CLEAR                            SCORE 0000000                        HI SCORE 0000000                            LEFT 00                                COINS 00                                                                                                                                                    }#360#360
+                    
+                    
+   ETAPA ACABADA    
+                    
+    MARCA 0000000   
+                    
+ ME MARCA 0000000   
+                    
+    VIDAS 00        
+                    
+  MONEDAS 00        
+                    
+                    
+                    
+                    
+                    
+                    
+                    #360
+|360
+@0000BBFA-0000BC5C-FF
+;0000BBFA{O P T I O N                                 SOUND TEST            TEMPO LEFT            EXIT       }#099#099
+O P C I Ó N                                 
+TEST AUDIO            
+VIDAS TEMPO           
+SALIR      #099
+|99
+@00016B9F-00016D06-FF
+;00016B9F{                                                                                                         GAME  OVER                             SCORE 0000000                        HI SCORE 0000000                                                                                                                                                                   }#360#360
+                    
+                    
+                    
+                    
+                    
+     FIN  JUEGO     
+                    
+    
+MARCA 0000000  
+                    
+  
+ME MARCA 0000000 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+  #360
+|360
+@00016E20-00016E60-FF
+;00016E20{SCORE 0000000              LEFT 00                   COIN 00     }#065#065
+MARCA 0000000             VIDAS 00                  MONE. 00     #065
+|65
+@00016E7F-00016FE5-FF
+;00016E7F{                        INNER CITY          PERFORMANCE           THROUGH          THE WOODWINDS        PERFORMANCE                          WINTER WONDERLAND      PERFORMANCE                             NIGHT LIGHTS        PERFORMANCE                             GRUDGE MATCH        PERFORMANCE                         THE FINAL SHOWDOWN     PERFORMANCE     }#359#359
+                    
+  ACTUACIÓN EN EL   
+CENTRO DE LA CIUDAD 
+ ACTUACIÓN A TRAVÉS 
+DE LOS INSTRUMENTOS 
+     DE VIENTO      
+  ACTUACIÓN EN LA   
+ TIERRA MARAVILLOSA 
+    EN INVIERNO     
+                    
+ ACTUACIÓN CON LAS  
+  LUCES NOCTURNAS   
+                    
+ACTUACIÓN DE AJUSTE 
+     DE CUENTAS     
+                    
+  ACTUACIÓN DE LA  
+CONFRONTACIÓN FINAL #359
+|359
+@0001A204-0001A36B-FF
+;0001A204{                                                                                                              ,          TEMPO JR. S STAFF                                                                                                                                                                                                                              }#360#360
+                    
+                    
+                    
+                    
+                    
+                    
+EQUIPO DE TEMPO JR. 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    #360
+|360
+@0001A3A2-0001A8B5-FF
+;0001A3A2{PRODUCER                                 MOTOSHIGE HOKOYAMA                      MIKE LARSEN        DIRECTOR                                 HIDEKI KATAGIRI                                            PLANNER                                  MASAKAZU SATO                                              PROGRAMMER                               HIROHIKO YONEDA                                            CHIEF DESIGNER                           HIROKI MAEDA                                               DESIGNERS                                HIROKO KATO                             MASAKAZU SATO      SOUND PROGRAMMER                         KEISUKE NISHINO                                            MUCHAS GRACIAS A...                      MASARU SETSUMARU                        MANABU MORINAGA    MUCHAS GRACIAS A...                      RYOICHI HASEGAWA                        YOKO YAMAMOTO      MUCHAS GRACIAS A...                      NOBUO MATSUSHIMA                        BILL PERSON        MUCHAS GRACIAS A...   ,                  T S MUSIC CO.                           RED COMPANY            SCORE 0000000                        HI SCORE 0000000                                                                                    PRESENTED BY SEGA                                          }#1300#1300
+PRODUCTOR           
+                    
+ MOTOSHIGE HOKOYAMA 
+                    
+ MIKE LARSEN        
+DIRECTOR            
+                    
+ HIDEKI KATAGIRI    
+                    
+                    
+PLANIFICADOR        
+                    
+ MASAKAZU SATO      
+                    
+                    
+PROGRAMADOR         
+                    
+ HIROHIKO YONEDA    
+                    
+                    
+DISEÑADOR JEFE      
+                    
+ HIROKI MAEDA       
+                    
+                    
+DISEÑADORES         
+                    
+ HIROKO KATO        
+                    
+ MASAKAZU SATO      
+PROGRAMADOR SONIDO  
+                    
+ KEISUKE NISHINO    
+                    
+                    
+MUCHAS GRACIAS A... 
+                    
+ MASARU SETSUMARU   
+                    
+ MANABU MORINAGA    
+MUCHAS GRACIAS A... 
+                    
+ RYOICHI HASEGAWA   
+                    
+ YOKO YAMAMOTO      
+MUCHAS GRACIAS A... 
+                    
+ NOBUO MATSUSHIMA   
+                    
+ BILL PERSON        
+MUCHAS GRACIAS A... 
+  ,                 
+ T S MUSIC CO.      
+                    
+ RED COMPANY        
+    MARCA 0000000   
+                    
+ ME MARCA 0000000   
+                    
+                    
+                    
+                    
+PRESENTADO POR SEGA 
+                    
+                    #1300
+|1300
+@000284BA-000284CB-FF
+;000284BA{DOREMIFASOLASIDD  }#018#018
+DOREMIFASOLASIDD  #018
+|18
+@00028971-000289EA-FF
+;00028971{COIN:  BONUS              +100PT      +500PT      +1000PT     +5000PT     +1UP        +10000PT    +10000PT+1UP+20000PT+2UP}#122#122
+MONE:  BONOS              +100PT      +500PT      +1000PT     +5000PT     +1VI        +10000PT    +10000PT+1VI+20000PT+2VI#122
+|122
+@00028A63-00028A6E-FF
+;00028A63{S*T*A*R*T*!*}#012#012
+I*N*I*C*I*O*#012
+|12
+@00028A8F-00028A96-FF
+;00028A8F{M*I*S*S*}#008#008
+E*R*R*A*#008
+|8
+@00028AC3-00028ADA-FF
+;00028AC3{ * *P*E*R*F*E*C*T*!* * *}#024#024
+ * *P*E*R*F*E*C*T*O* * *#024
+|24
+@00028ADF-00028AF6-FF
+;00028ADF{ * * * * * * * * * * * *}#024#024
+ * * * * * * * * * * * *#024
+|24
+@00028AFB-00028B12-FF
+;00028AFB{+*2*0*0*0*0*P*T*&*2*U*P*}#024#024
++*2*0*0*0*0*P*T*+*2*V*I*#024
+|24
+@00028B33-00028B4A-FF
+;00028B33{ * * * * * * * * * * * *}#024#024
+ * * * * * * * * * * * *#024
+|24
+@00028B4F-00028B66-FF
+;00028B4F{ * * * *B*O*N*U*S* * * *}#024#024
+ * * * *B*O*N*O*S* * * *#024
+|24
+@00028B6B-00028B82-FF
+;00028B6B{ * * * * * * * * * * * *}#024#024
+ * * * * * * * * * * * *#024
+|24
+@00028B87-00028B9E-FF
+;00028B87{ * *1*0*0*0*0*x* * * * *}#024#024
+ * *1*0*0*0*0*x* * * * *#024
+|24
+@00028BA3-00028BBA-FF
+;00028BA3{ * * * * * * * * * * * *}#024#024
+ * * * * * * * * * * * *#024
+|24
+@00028BBF-00028BD6-FF
+;00028BBF{ * *=* * *0*0*0*0* * * *}#024#024
+ * *=* * *0*0*0*0* * * *#024
+|24
+@00028C3B-00028C4A-FF
+;00028C3B{N*O* *B*O*N*U*S*}#016#016
+S*I*N* *B*O*N*O*#016
+|16
+@00028C73-00028C7E-FF
+;00028C73{+*1*0*0*P*T*}#012#012
++*1*0*0*P*T*#012
+|12
+@00028CA3-00028CAE-FF
+;00028CA3{+*5*0*0*P*T*}#012#012
++*5*0*0*P*T*#012
+|12
+@00028CD5-00028CE2-FF
+;00028CD5{+*1*0*0*0*P*T*}#014#014
++*1*0*0*0*P*T*#014
+|14
+@00028D0B-00028D18-FF
+;00028D0B{+*5*0*0*0*P*T*}#014#014
++*5*0*0*0*P*T*#014
+|14
+@00028D3B-00028D42-FF
+;00028D3B{+*1*U*P*}#008#008
++*1*V*I*#008
+|8
+@00028D67-00028D76-FF
+;00028D67{+*1*0*0*0*0*P*T*}#016#016
++*1*0*0*0*0*P*T*#016
+|16
+@00028DAB-00028DC2-FF
+;00028DAB{+*1*0*0*0*0*P*T*&*1*U*P*}#024#024
++*1*0*0*0*0*P*T*+*1*V*I*#024
+|24
+@00028F89-000290F0-FF
+;00028F89{                                            BONUS RESULT                            BONUS 0000000                           SCORE 0000000                           TEMPO  00                               COINS  00                                                                                                                                                   }#360#360
+                    
+                    
+ RESULTADO DE BONOS 
+                    
+    BONOS 0000000   
+                    
+    MARCA 0000000   
+                    
+    TEMPO  00       
+                    
+   MONEDAS 00       
+                    
+                    
+                    
+                    
+                    
+                    
+                    #360
+|360

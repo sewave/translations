@@ -1,0 +1,23 @@
+@0000260B-00002618-FF
+;0000260B{PUSH SPACE KEY}#014#014
+PULSA ESPACIO #014
+|14
+@00002621-0000264E-FF
+;00002621{( 1980 1984 namco ltd.all rights reserved     }#046#046
+( 1980 1984 namco ltd.
+derechos reservados     #046
+|46
+@0000274C-00002758-FF
+;0000274C{scorehi_score}#013#013
+marca
+me_marca#013
+|13
+@00000633-00000638-FF
+;00000633{round%}#006#006
+ronda%#006
+|6
+@0000077C-0000078F-FF
+;0000077C{challenging stageno.}#020#020
+etapa de desafío 
+no.#020
+|20

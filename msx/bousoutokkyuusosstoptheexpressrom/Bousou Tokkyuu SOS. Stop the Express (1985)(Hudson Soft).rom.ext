@@ -1,0 +1,96 @@
+@00000013-00000054-00
+;00000013{File does not contain a valid binary~00~}#040#037
+File does not contain a valid binary~00~#037
+;00000038{JerryWare ROM conversion~00~}#028#025
+JerryWare ROM conversion~00~#025
+;00000051{~7E~~B7~~C8~~CD~}#016#004
+~7E~~B7~~C8~~CD~#004
+|66
+@0000064F-00000683-00
+;0000064F{CONGRATURATION! YOU SUCSESS!~00~}#032#029
+CONGRATURATION! YOU SUCSESS!~00~#029
+;0000066C{THE TRAIN IS STOPPED!~00~}#025#022
+THE TRAIN IS STOPPED!~00~#022
+;00000682{:~1D~}#005#002
+:~1D~#002
+|53
+@00000690-000006A3-00
+;00000690{TRY NEXT ROUND!!~00~}#020#017
+TRY NEXT ROUND!!~00~#017
+;000006A1{:z~E3~}#006#003
+:z~E3~#003
+|20
+@00000C53-00000C66-00
+;00000C53{STAGE 1  READY!~00~}#019#016
+STAGE 1  READY!~00~#016
+;00000C63{~14~~00~}#008#002
+~14~~00~#002
+;00000C65{~1E~~00~}#008#002
+~1E~~00~#002
+|20
+@00000D07-00000D18-00
+;00000D07{STAGE 2  READY!~00~}#019#016
+STAGE 2  READY!~00~#016
+;00000D17{:~1D~}#005#002
+:~1D~#002
+|18
+@00000D78-00000D94-00
+;00000D78{BONUS    *10=   0 POINTS~00~}#028#025
+BONUS    *10=   0 POINTS~00~#025
+;00000D91{~00~}#004#001
+~00~#001
+;00000D92{~01~~80~~01~}#012#003
+~01~~80~~01~#003
+|29
+@00000DA8-00000DC0-00
+;00000DA8{STAGE 1  COMPLETE!~00~}#022#019
+STAGE 1  COMPLETE!~00~#019
+;00000DBB{~01~~87~~E0~!F~8C~}#018#006
+~01~~87~~E0~!F~8C~#006
+|25
+@00000DC3-00000DDB-00
+;00000DC3{STAGE 2  COMPLETE!~00~}#022#019
+STAGE 2  COMPLETE!~00~#019
+;00000DD6{~01~~80~~E1~>h~16~}#018#006
+~01~~80~~E1~>h~16~#006
+|25
+@00001B5F-00001B6A-00
+;00001B5F{CAUTION!~00~}#012#009
+CAUTION!~00~#009
+;00001B68{:t~E3~}#006#003
+:t~E3~#003
+|12
+@00001F38-00001F51-00
+;00001F38{TOP   SCORE TIM DIS [R]~00~}#027#024
+TOP   SCORE TIM DIS [R]~00~#024
+;00001F50{:~1D~}#005#002
+:~1D~#002
+|26
+@00001F8B-000020BB-00
+;00001F8B{GAME   OVER~00~}#015#012
+GAME   OVER~00~#012
+;00001F97{                                PLAY  [ BOUSOU TOKKYUU SOS ] !        KEY CONTROL : [~04~] LEFT   [~05~] RIGHT   [~06~] JUMP   [~07~] LAY   [SPACE] PUT SNAKE IF YOU HAVE IT   (OR JOYSTICK)        CAN YOU STOP THE TRAIN "ITA EXPRESS" ?   HIT [SPACE] KEY TO START!        ~40~ HUDSON SOFT.     BY ITASAN. ~00~}#307#289
+                                PLAY  [ BOUSOU TOKKYUU SOS ] !        KEY CONTROL : [~04~] LEFT   [~05~] RIGHT   [~06~] JUMP   [~07~] LAY   [SPACE] PUT SNAKE IF YOU HAVE IT   (OR JOYSTICK)        CAN YOU STOP THE TRAIN "ITA EXPRESS" ?   HIT [SPACE] KEY TO START!        ~40~ HUDSON SOFT.     BY ITASAN. ~00~#289
+;000020B8{~7E~~B7~ ~05~}#013#004
+~7E~~B7~ ~05~#004
+|305
+@000027C5-00002834-00
+;000027C5{            ALL CAST                                                           ~80~~81~                              ~90~}#121#112
+            ALL CAST                                                           ~80~~81~                              ~90~#112
+|112
+@00002910-0000296D-00
+;00002910{ TRAIN GANG                  ~BA~~BB~                                                              ~EA~}#103#094
+ TRAIN GANG                  ~BA~~BB~                                                              ~EA~#094
+|94
+@0000298F-000029ED-00
+;0000298F{  SNAKE BIRD                                                  ~CA~~CB~                              ~DA~}#104#095
+  SNAKE BIRD                                                  ~CA~~CB~                              ~DA~#095
+|95
+@000029EF-00002AE9-00
+;000029EF{  SNAKE BIRD                          ( PLUCKED WING )                                                                    HIT [SPACE] KEY TO START!                                                                           THIS GAME IS FICTION ...~DD~~01~~00~}#258#249
+  SNAKE BIRD                          ( PLUCKED WING )                                                                    HIT [SPACE] KEY TO START!                                                                           THIS GAME IS FICTION ...~DD~~01~~00~#249
+;00002AE8{~00~}#004#001
+~00~#001
+;00002AE9{~00~}#004#001
+~00~#001
+|251

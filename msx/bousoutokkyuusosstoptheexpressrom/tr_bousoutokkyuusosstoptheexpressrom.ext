@@ -1,0 +1,66 @@
+@00000013-00000050-00
+;00000013{File does not contain a valid binary~00~}#040#037
+Archivo no tiene un binario válido  ~00~#037
+;00000038{JerryWare ROM conversion~00~}#028#025
+Conversión ROM JerryWare~00~#025
+|62
+@0000064F-00000681-00
+;0000064F{CONGRATURATION! YOU SUCSESS!~00~}#032#029
+FELICIDADES! TUVISTE ÉXITO! ~00~#029
+;0000066C{THE TRAIN IS STOPPED!~00~}#025#022
+EL TREN SE HA PARADO!~00~#022
+|51
+@00000690-000006A0-00
+;00000690{TRY NEXT ROUND!!~00~}#020#017
+PRÓXIMA RONDA!!!~00~#017
+|17
+@00000C53-00000C62-00
+;00000C53{STAGE 1  READY!~00~}#019#016
+ETAPA 1  LISTO!~00~#016
+|16
+@00000D07-00000D16-00
+;00000D07{STAGE 2  READY!~00~}#019#016
+ETAPA 2  LISTO!~00~#016
+|16
+@00000D78-00000D90-00
+;00000D78{BONUS    *10=   0 POINTS~00~}#028#025
+BONOS    *10=   0 PUNTOS~00~#025
+|25
+@00000DA8-00000DBA-00
+;00000DA8{STAGE 1  COMPLETE!~00~}#022#019
+ETAPA 1  COMPLETA!~00~#019
+|19
+@00000DC3-00000DD5-00
+;00000DC3{STAGE 2  COMPLETE!~00~}#022#019
+ETAPA 2  COMPLETA!~00~#019
+|19
+@00001B5F-00001B67-00
+;00001B5F{CAUTION!~00~}#012#009
+ALERTA! ~00~#009
+|9
+@00001F38-00001F4F-00
+;00001F38{TOP   SCORE TIM DIS [R]~00~}#027#024
+ALTA  MARCA TIM DIS [R]~00~#024
+|24
+@00001F8B-000020B7-00
+;00001F8B{GAME   OVER~00~}#015#012
+FIN   JUEGO~00~#012
+;00001F97{                                PLAY  [ BOUSOU TOKKYUU SOS ] !        KEY CONTROL : [~04~] LEFT   [~05~] RIGHT   [~06~] JUMP   [~07~] LAY   [SPACE] PUT SNAKE IF YOU HAVE IT   (OR JOYSTICK)        CAN YOU STOP THE TRAIN "ITA EXPRESS" ?   HIT [SPACE] KEY TO START!        ~40~ HUDSON SOFT.     BY ITASAN. ~00~}#307#289
+                             JUEGA A  [ BOUSOU TOKKYUU SOS ] !        CONTROLES : [~04~] IZQUIERDA [~05~] DERECHA [~06~] SALTO  [~07~] AGACHA [ESPACIO] PONER SERPIENTE SI TIENES (O JOYSTICK)        PUEDES PARAR EL TREN "ITA EXPRESS" ? PULSA [ESPACIO] PARA EMPEZAR!      ~40~ HUDSON SOFT.    POR ITASAN. ~00~#289
+|301
+@000027C5-00002AE4-00
+;000027C5{            ALL CAST                                                           ~80~~81~                              ~90~~91~                              ~A0~~A1~                                                       YOU ARE "NONTA".                                                                                ~8E~~8F~                              ~AA~~AB~~E9~ TRAIN GANG                  ~BA~~BB~                                                              ~EA~~EB~                              ~FA~~FB~  SNAKE BIRD                                                  ~CA~~CB~                              ~DA~~DB~  SNAKE BIRD                          ( PLUCKED WING )                                                                    HIT [SPACE] KEY TO START!                                                                           THIS GAME IS FICTION ...}#863#800
+         TODO EL ELENCO         
+                                
+               ~80~~81~                              ~90~~91~                              ~A0~~A1~                                               
+        TU ERES "NONTA".                                                                                ~8E~~8F~                              
+~AA~~AB~~E9~ TRAIN GANG                  ~BA~~BB~                                                              ~EA~~EB~                              
+~FA~~FB~  PÁJARO SERPIENTE                                            ~CA~~CB~                       
+       ~DA~~DB~  PÁJARO SERPIENTE     
+               ( ALA ARRANCADA )
+                                                               
+ PULSA [ESPACIO] PARA EMPEZAR!  
+                                
+                                
+        ESTE JUEGO ES FICCIÓN...#800
+|800

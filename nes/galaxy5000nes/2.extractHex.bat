@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Galaxy 5000 (U) [!].nes"
+set SCRIPTNAME="galaxy5000nes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 3F110:100,2A7E0:20,2A8C0:20,2E140:200,3B810:220,3C050:80,3C170:40,3C590:110,3C6C0:100,2BF10:80
+pause

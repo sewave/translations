@@ -1,0 +1,1118 @@
+@00003F42-00003F4B-FF
+;00000000{TOCA START}#010#010
+TOCA START#010
+|10
+@00003F82-00003F95-FF
+;00000000{LICENCIA A NINTENDO }#020#020
+LICENCIA A NINTENDO #020
+|20
+@00003FA0-00003FB8-FF
+;00000000{   TM MARCA DE NINTENDO  }#025#025
+   TM MARCA DE NINTENDO  #025
+|25
+@0000549E-0000553C-FC
+;00000000{wFELICIDADES~60~    ~FC~}#024#018
+wFELICIDADES~60~    ~FC~#018
+;00000012{.xHAS DEVUELTO LA   ~FC~}#024#021
+.xHAS DEVUELTO LA   ~FC~#021
+;00000027{~86~xPAZ AL MUNDO~60~ PERO   ~FC~}#033#024
+~86~xPAZ AL MUNDO~60~ PERO   ~FC~#024
+;0000003F{~E4~xAUN HAY VARIOS CAMINOS  ~FC~}#033#027
+~E4~xAUN HAY VARIOS CAMINOS  ~FC~#027
+;0000005A{FyPOR VIAJAR~61~   ~FC~}#023#017
+FyPOR VIAJAR~61~   ~FC~#017
+;0000006B{~89~yQUE LA LUZ TE~FC~}#022#016
+~89~yQUE LA LUZ TE~FC~#016
+;0000007B{~C8~yBRILLE~61~         /~88~xDRAGON WARRIOR~FC~}#048#036
+~C8~yBRILLE~61~         /~88~xDRAGON WARRIOR~FC~#036
+|159
+@00006FC7-0000752C-FF-80
+;00000000{NV~82~~A0~PV=~90~PM=~94~O~98~E~A8~xbkR~88~~85~NOMB:~B1~~80~}#059#029
+NV~82~~A0~PV=~90~PM=~94~O~98~E~A8~xbkR~88~~85~NOMB:~B1~~80~#029
+;0000001D{~86~  FUERZA:~D8~~80~}#021#012
+~86~  FUERZA:~D8~~80~#012
+;00000029{~87~AGILIDA:~D9~~80~}#020#011
+~87~AGILIDA:~D9~~80~#011
+;00000034{~84~PV=MAXIMOS:~DC~~80~}#023#014
+~84~PV=MAXIMOS:~DC~~80~#014
+;00000042{~84~PM=MAXIMOS:~DD~~80~}#023#014
+~84~PM=MAXIMOS:~DD~~80~#014
+;00000050{~82~PODER=ATAQUE:~DA~~80~}#025#016
+~82~PODER=ATAQUE:~DA~~80~#016
+;00000060{=PODER=DEFENSA:~DB~~80~}#023#017
+=PODER=DEFENSA:~DB~~80~#017
+;00000071{~82~  ARMA:~B8~~87~~83~~B8~~83~ARMAD:~B9~~87~~83~~B9~~82~ESCUDO:~BA~~87~~83~~BA~15o~92~~88~~80~}#095#041
+~82~  ARMA:~B8~~87~~83~~B8~~83~ARMAD:~B9~~87~~83~~B9~~82~ESCUDO:~BA~~87~~83~~BA~15o~92~~88~~80~#041
+;0000009A{~80~}#004#001
+~80~#001
+;0000009B{~80~}#004#001
+~80~#001
+;0000009C{~80~}#004#001
+~80~#001
+;0000009D{~80~}#004#001
+~80~#001
+;0000009E{5gm8x~8B~COMANDO~88~=HABL~84~MAGIA=ESTADO~82~OBJ.~80~}#053#038
+5gm8x~8B~COMANDO~88~=HABL~84~MAGIA=ESTADO~82~OBJ.~80~#038
+;000000C4{=ESCALE~82~PUER~80~}#019#013
+=ESCALE~82~PUER~80~#013
+;000000D1{=BUSCAR~82~COGE~80~}#019#013
+=BUSCAR~82~COGE~80~#013
+;000000DE{~80~}#004#001
+~80~#001
+;000000DF{3gm8x~8B~COMANDO~88~=LUCHA~83~MAGIA=HUY~85~OBJ.~80~}#051#036
+3gm8x~8B~COMANDO~88~=LUCHA~83~MAGIA=HUY~85~OBJ.~80~#036
+;00000103{~80~}#004#001
+~80~#001
+;00000104{bcF0x~8B~MAGIA~88~~D6~=~C0~~E8~~E9~~A0~bcV0h~88~~D4~=~BB~~82~~BB~~E8~~E9~~A0~8iB0h~88~~D5~=~BC~=~C8~~82~~BC~~80~}#112#046
+bcF0x~8B~MAGIA~88~~D6~=~C0~~E8~~E9~~A0~bcV0h~88~~D4~=~BB~~82~~BB~~E8~~E9~~A0~8iB0h~88~~D5~=~BC~=~C8~~82~~BC~~80~#046
+;00000132{~E8~~E9~~80~}#012#003
+~E8~~E9~~80~#003
+;00000135{38B0x~88~=Sí ~80~}#017#011
+38B0x~88~=Sí ~80~#011
+;00000140{=No~80~}#007#004
+=No~80~#004
+;00000144{~80~}#004#001
+~80~#001
+;00000145{38B0x~88~=COM~80~}#017#011
+38B0x~88~=COM~80~#011
+;00000150{=VEND~80~}#009#006
+=VEND~80~#006
+;00000156{17o´~88~=A=B=C=D=E=F=G=H=I=J=K=L=M=N=O=P=Q=R=S=T=U=V=W=X=Y=Z=-=}=!=?=¡=¿~80~}#076#070
+17o´~88~=A=B=C=D=E=F=G=H=I=J=K=L=M=N=O=P=Q=R=S=T=U=V=W=X=Y=Z=-=}=!=?=¡=¿~80~#070
+;0000019C{=a=b=c=d=e=f=g=h=i=j=k=l=m=n=o=p=q=r=s=t=u=v=w=x=y=z=,=.=ATRA~82~FIN~A1~7i~74~0~86~~88~=¿Qué=Rapidez=~80~}#105#087
+=a=b=c=d=e=f=g=h=i=j=k=l=m=n=o=p=q=r=s=t=u=v=w=x=y=z=,=.=ATRA~82~FIN~A1~7i~74~0~86~~88~=¿Qué=Rapidez=~80~#087
+;000001F3{~80~}#004#001
+~80~#001
+;000001F4{=De=Mensaje==~80~}#017#014
+=De=Mensaje==~80~#014
+;00000202{~80~}#004#001
+~80~#001
+;00000203{=Quieres?====~80~}#017#014
+=Quieres?====~80~#014
+;00000211{~80~}#004#001
+~80~#001
+;00000212{~80~}#004#001
+~80~#001
+;00000213{~86~RAPI~80~}#012#006
+~86~RAPI~80~#006
+;00000219{~80~}#004#001
+~80~#001
+;0000021A{~86~NORMAL~80~}#014#008
+~86~NORMAL~80~#008
+;00000222{~80~}#004#001
+~80~#001
+;00000223{~86~LENT~80~}#012#006
+~86~LENT~80~#006
+;00000229{12k~73~~88~=¡PON=TU=NOMBRE! ~80~}#032#023
+12k~73~~88~=¡PON=TU=NOMBRE! ~80~#023
+;00000240{13cR~8B~NOMB~88~=********~80~}#029#020
+13cR~8B~NOMB~88~=********~80~#020
+;00000254{=4o>0x~88~=SIGUE=AVENTURA==~80~}#031#025
+=4o>0x~88~=SIGUE=AVENTURA==~80~#025
+;0000026D{=CAMBIA=VELOCIDAD=MSJ~80~}#025#022
+=CAMBIA=VELOCIDAD=MSJ~80~#022
+;00000283{=BORRA=AVENTU.~80~}#018#015
+=BORRA=AVENTU.~80~#015
+;00000292{=6o>0x~88~=SIGUE=AVENTURA==~80~}#031#025
+=6o>0x~88~=SIGUE=AVENTURA==~80~#025
+;000002AB{=CAMBIA=VELOCIDAD=MSJ~80~}#025#022
+=CAMBIA=VELOCIDAD=MSJ~80~#022
+;000002C1{=EMPEZAR=AVENTURA=~80~}#022#019
+=EMPEZAR=AVENTURA=~80~#019
+;000002D4{=COPIA=AVENT.~80~}#017#014
+=COPIA=AVENT.~80~#014
+;000002E2{=BORRA=AVENTU.~80~}#018#015
+=BORRA=AVENTU.~80~#015
+;000002F1{=2o>0x~88~=EMPEZAR=AVENTURA=~80~}#032#026
+=2o>0x~88~=EMPEZAR=AVENTURA=~80~#026
+;0000030B{=2k~95~0x~88~=AVENTURA=NUM.=1~80~}#033#024
+=2k~95~0x~88~=AVENTURA=NUM.=1~80~#024
+;00000323{=2k~95~0x~88~=AVENTURA=NUM.=2~80~}#033#024
+=2k~95~0x~88~=AVENTURA=NUM.=2~80~#024
+;0000033B{=3k~95~0x~88~=AVENTURA=NUM.=1~80~}#033#024
+=3k~95~0x~88~=AVENTURA=NUM.=1~80~#024
+;00000353{=AVENTURA=NUM.=2~80~}#020#017
+=AVENTURA=NUM.=2~80~#017
+;00000364{=2k~95~0x~88~=AVENTURA=NUM.=3~80~}#033#024
+=2k~95~0x~88~=AVENTURA=NUM.=3~80~#024
+;0000037C{=3k~95~0x~88~=AVENTURA=NUM.=1~80~}#033#024
+=3k~95~0x~88~=AVENTURA=NUM.=1~80~#024
+;00000394{=AVENTURA=NUM.=3~80~}#020#017
+=AVENTURA=NUM.=3~80~#017
+;000003A5{=3k~95~0x~88~=AVENTURA=NUM.=2~80~}#033#024
+=3k~95~0x~88~=AVENTURA=NUM.=2~80~#024
+;000003BD{=AVENTURA=NUM.=3~80~}#020#017
+=AVENTURA=NUM.=3~80~#017
+;000003CE{=4k~95~0x~88~=AVENTURA=NUM.=1~80~}#033#024
+=4k~95~0x~88~=AVENTURA=NUM.=1~80~#024
+;000003E6{=AVENTURA=NUM.=2~80~}#020#017
+=AVENTURA=NUM.=2~80~#017
+;000003F7{=AVENTURA=NUM.=3~80~}#020#017
+=AVENTURA=NUM.=3~80~#017
+;00000408{=2o~63~0x~88~=AVENTURA=NUM.=1:~B5~~80~}#038#026
+=2o~63~0x~88~=AVENTURA=NUM.=1:~B5~~80~#026
+;00000422{=2o~63~0x~88~=AVENTURA=NUM.=2:~B6~~80~}#038#026
+=2o~63~0x~88~=AVENTURA=NUM.=2:~B6~~80~#026
+;0000043C{=3o~63~0x~88~=AVENTURA=NUM.=1:~B5~~80~}#038#026
+=3o~63~0x~88~=AVENTURA=NUM.=1:~B5~~80~#026
+;00000456{=AVENTURA=NUM.=2:~B6~~80~}#025#019
+=AVENTURA=NUM.=2:~B6~~80~#019
+;00000469{=2o~63~0x~88~=AVENTURA=NUM.=3:~B7~~80~}#038#026
+=2o~63~0x~88~=AVENTURA=NUM.=3:~B7~~80~#026
+;00000483{=3o~63~0x~88~=AVENTURA=NUM.=1:~B5~~80~}#038#026
+=3o~63~0x~88~=AVENTURA=NUM.=1:~B5~~80~#026
+;0000049D{=AVENTURA=NUM.=3:~B7~~80~}#025#019
+=AVENTURA=NUM.=3:~B7~~80~#019
+;000004B0{=3o~63~0x~88~=AVENTURA=NUM.=2:~B6~~80~}#038#026
+=3o~63~0x~88~=AVENTURA=NUM.=2:~B6~~80~#026
+;000004CA{=AVENTURA=NUM.=3:~B7~~80~}#025#019
+=AVENTURA=NUM.=3:~B7~~80~#019
+;000004DD{=4o~63~0x~88~=AVENTURA=NUM.=1:~B5~~80~}#038#026
+=4o~63~0x~88~=AVENTURA=NUM.=1:~B5~~80~#026
+;000004F7{=AVENTURA=NUM.=2:~B6~~80~}#025#019
+=AVENTURA=NUM.=2:~B6~~80~#019
+;0000050A{=AVENTURA=NUM.=3:~B7~~80~}#025#019
+=AVENTURA=NUM.=3:~B7~~80~#019
+;0000051D{16k~73~~88~=~B4~~80~}#020#008
+16k~73~~88~=~B4~~80~#008
+;00000525{=NIVEL~82~~A1~~80~}#018#009
+=NIVEL~82~~A1~~80~#009
+;0000052E{=¿Quieres======~80~}#019#016
+=¿Quieres======~80~#016
+;0000053E{=Borrar=El=~80~}#015#012
+=Borrar=El=~80~#012
+;0000054A{=Personaje?~80~}#015#012
+=Personaje?~80~#012
+;00000556{~80~}#004#001
+~80~#001
+;00000557{38W0x~88~=Sí ~80~}#017#011
+38W0x~88~=Sí ~80~#011
+;00000562{=No~80~}#007#004
+=No~80~#004
+|1382
+@00007AC7-00007EAE-FF
+;00000000{Bambú ~FF~}#010#007
+Bambú ~FF~#007
+;00000007{Porr~FF~}#008#005
+Porr~FF~#005
+;0000000C{Cobre ~FF~}#010#007
+Cobre ~FF~#007
+;00000013{Mano~FF~}#008#005
+Mano~FF~#005
+;00000018{Ancha~FF~}#009#006
+Ancha~FF~#006
+;0000001E{Llama~FF~}#009#006
+Llama~FF~#006
+;00000024{Erdrick  ~FF~}#013#010
+Erdrick  ~FF~#010
+;0000002E{Ropas  ~FF~}#011#008
+Ropas  ~FF~#008
+;00000036{Cuero  ~FF~}#011#008
+Cuero  ~FF~#008
+;0000003E{Caden~FF~}#009#006
+Caden~FF~#006
+;00000044{Medi~FF~}#008#005
+Medi~FF~#005
+;00000049{Toda~FF~}#008#005
+Toda~FF~#005
+;0000004E{Magia~FF~}#009#006
+Magia~FF~#006
+;00000054{Erdrick  ~FF~}#013#010
+Erdrick  ~FF~#010
+;0000005E{Peque~FF~}#009#006
+Peque~FF~#006
+;00000064{Gran ~FF~}#009#006
+Gran ~FF~#006
+;0000006A{Plata ~FF~}#010#007
+Plata ~FF~#007
+;00000071{Hier~FF~}#008#005
+Hier~FF~#005
+;00000076{Antor~FF~}#009#006
+Antor~FF~#006
+;0000007C{Dragon  ~FF~}#012#009
+Dragon  ~FF~#009
+;00000085{Alas ~FF~}#009#006
+Alas ~FF~#006
+;0000008B{Magia~FF~}#009#006
+Magia~FF~#006
+;00000091{Hada ~FF~}#009#006
+Hada ~FF~#006
+;00000097{Bola de~FF~}#011#008
+Bola de~FF~#008
+;0000009F{Tabla ~FF~}#010#007
+Tabla ~FF~#007
+;000000A6{Hada ~FF~}#009#006
+Hada ~FF~#006
+;000000AC{Plata ~FF~}#010#007
+Plata ~FF~#007
+;000000B3{Vara de ~FF~}#012#009
+Vara de ~FF~#009
+;000000BC{Piedra de~FF~}#013#010
+Piedra de~FF~#010
+;000000C6{Gwaelin  ~FF~}#013#010
+Gwaelin  ~FF~#010
+;000000D0{Arcoiri~FF~}#011#008
+Arcoiri~FF~#008
+;000000D8{Maldit~FF~}#010#007
+Maldit~FF~#007
+;000000DF{Muert~FF~}#009#006
+Muert~FF~#006
+;000000E5{Luchador ~FF~}#013#010
+Luchador ~FF~#010
+;000000EF{Erdrick  ~FF~}#013#010
+Erdrick  ~FF~#010
+;000000F9{Secret~FF~}#010#007
+Secret~FF~#007
+;00000100{Palo~FF~}#008#005
+Palo~FF~#005
+;00000105{~FF~}#004#001
+~FF~#001
+;00000106{Sable~FF~}#009#006
+Sable~FF~#006
+;0000010C{Hac~FF~}#007#004
+Hac~FF~#004
+;00000110{Sable~FF~}#009#006
+Sable~FF~#006
+;00000116{Sable~FF~}#009#006
+Sable~FF~#006
+;0000011C{Sable~FF~}#009#006
+Sable~FF~#006
+;00000122{~FF~}#004#001
+~FF~#001
+;00000123{Armad~FF~}#009#006
+Armad~FF~#006
+;00000129{Cota~FF~}#008#005
+Cota~FF~#005
+;0000012E{Chapa~FF~}#009#006
+Chapa~FF~#006
+;00000134{Chapa~FF~}#009#006
+Chapa~FF~#006
+;0000013A{Armad~FF~}#009#006
+Armad~FF~#006
+;00000140{Armad~FF~}#009#006
+Armad~FF~#006
+;00000146{Escudo~FF~}#010#007
+Escudo~FF~#007
+;0000014D{Escudo~FF~}#010#007
+Escudo~FF~#007
+;00000154{Escudo~FF~}#010#007
+Escudo~FF~#007
+;0000015B{~FF~}#004#001
+~FF~#001
+;0000015C{~FF~}#004#001
+~FF~#001
+;0000015D{Escam~FF~}#009#006
+Escam~FF~#006
+;00000163{~FF~}#004#001
+~FF~#001
+;00000164{Lla~FF~}#007#004
+Lla~FF~#004
+;00000168{Aguar~FF~}#009#006
+Aguar~FF~#006
+;0000016E{Luz  ~FF~}#009#006
+Luz  ~FF~#006
+;00000174{~FF~}#004#001
+~FF~#001
+;00000175{Flaut~FF~}#009#006
+Flaut~FF~#006
+;0000017B{Arpa~FF~}#008#005
+Arpa~FF~#005
+;00000180{Lluv~FF~}#008#005
+Lluv~FF~#005
+;00000185{LuzSolar~FF~}#012#009
+LuzSolar~FF~#009
+;0000018E{Amor~FF~}#008#005
+Amor~FF~#005
+;00000193{Gota~FF~}#008#005
+Gota~FF~#005
+;00000198{Cint~FF~}#008#005
+Cint~FF~#005
+;0000019D{Collar  ~FF~}#012#009
+Collar  ~FF~#009
+;000001A6{Anil~FF~}#008#005
+Anil~FF~#005
+;000001AB{Ficha~FF~}#009#006
+Ficha~FF~#006
+;000001B1{Paso   ~FF~}#011#008
+Paso   ~FF~#008
+;000001B9{Slime~FF~}#009#006
+Slime~FF~#006
+;000001BF{Red~FF~}#007#004
+Red~FF~#004
+;000001C3{Drakee~FF~}#010#007
+Drakee~FF~#007
+;000001CA{Ghost~FF~}#009#006
+Ghost~FF~#006
+;000001D0{Magician~FF~}#012#009
+Magician~FF~#009
+;000001D9{Magidrakee~FF~}#014#011
+Magidrakee~FF~#011
+;000001E4{Scorpion~FF~}#012#009
+Scorpion~FF~#009
+;000001ED{Druin~FF~}#009#006
+Druin~FF~#006
+;000001F3{Poltergeist~FF~}#015#012
+Poltergeist~FF~#012
+;000001FF{Droll~FF~}#009#006
+Droll~FF~#006
+;00000205{Drakeema~FF~}#012#009
+Drakeema~FF~#009
+;0000020E{Skeleton~FF~}#012#009
+Skeleton~FF~#009
+;00000217{Warlock~FF~}#011#008
+Warlock~FF~#008
+;0000021F{Metal~FF~}#009#006
+Metal~FF~#006
+;00000225{Lobo~FF~}#008#005
+Lobo~FF~#005
+;0000022A{Wraith~FF~}#010#007
+Wraith~FF~#007
+;00000231{Metal~FF~}#009#006
+Metal~FF~#006
+;00000237{Specter~FF~}#011#008
+Specter~FF~#008
+;0000023F{Wolflord~FF~}#012#009
+Wolflord~FF~#009
+;00000248{Druinlord~FF~}#013#010
+Druinlord~FF~#010
+;00000252{Drollmagi~FF~}#013#010
+Drollmagi~FF~#010
+;0000025C{Wyvern~FF~}#010#007
+Wyvern~FF~#007
+;00000263{Rogue~FF~}#009#006
+Rogue~FF~#006
+;00000269{Wraith~FF~}#010#007
+Wraith~FF~#007
+;00000270{Golem~FF~}#009#006
+Golem~FF~#006
+;00000276{Goldman~FF~}#011#008
+Goldman~FF~#008
+;0000027E{Knight~FF~}#010#007
+Knight~FF~#007
+;00000285{Magiwyvern~FF~}#014#011
+Magiwyvern~FF~#011
+;00000290{Demon~FF~}#009#006
+Demon~FF~#006
+;00000296{Werewolf~FF~}#012#009
+Werewolf~FF~#009
+;0000029F{Verde~FF~}#009#006
+Verde~FF~#006
+;000002A5{Starwyvern~FF~}#014#011
+Starwyvern~FF~#011
+;000002B0{Wizard~FF~}#010#007
+Wizard~FF~#007
+;000002B7{Axe~FF~}#007#004
+Axe~FF~#004
+;000002BB{Azul~FF~}#008#005
+Azul~FF~#005
+;000002C0{Stoneman~FF~}#012#009
+Stoneman~FF~#009
+;000002C9{Armored~FF~}#011#008
+Armored~FF~#008
+;000002D1{Red~FF~}#007#004
+Red~FF~#004
+;000002D5{Rey Dragón~FF~}#014#011
+Rey Dragón~FF~#011
+;000002E0{Rey Dragón~FF~}#014#011
+Rey Dragón~FF~#011
+;000002EB{~FF~}#004#001
+~FF~#001
+;000002EC{Slime~FF~}#009#006
+Slime~FF~#006
+;000002F2{~FF~}#004#001
+~FF~#001
+;000002F3{~FF~}#004#001
+~FF~#001
+;000002F4{~FF~}#004#001
+~FF~#001
+;000002F5{~FF~}#004#001
+~FF~#001
+;000002F6{~FF~}#004#001
+~FF~#001
+;000002F7{~FF~}#004#001
+~FF~#001
+;000002F8{~FF~}#004#001
+~FF~#001
+;000002F9{~FF~}#004#001
+~FF~#001
+;000002FA{~FF~}#004#001
+~FF~#001
+;000002FB{~FF~}#004#001
+~FF~#001
+;000002FC{~FF~}#004#001
+~FF~#001
+;000002FD{Scorpion~FF~}#012#009
+Scorpion~FF~#009
+;00000306{~FF~}#004#001
+~FF~#001
+;00000307{~FF~}#004#001
+~FF~#001
+;00000308{Slime~FF~}#009#006
+Slime~FF~#006
+;0000030E{~FF~}#004#001
+~FF~#001
+;0000030F{~FF~}#004#001
+~FF~#001
+;00000310{~FF~}#004#001
+~FF~#001
+;00000311{~FF~}#004#001
+~FF~#001
+;00000312{~FF~}#004#001
+~FF~#001
+;00000313{Scorpion~FF~}#012#009
+Scorpion~FF~#009
+;0000031C{Knight~FF~}#010#007
+Knight~FF~#007
+;00000323{~FF~}#004#001
+~FF~#001
+;00000324{~FF~}#004#001
+~FF~#001
+;00000325{~FF~}#004#001
+~FF~#001
+;00000326{~FF~}#004#001
+~FF~#001
+;00000327{Knight~FF~}#010#007
+Knight~FF~#007
+;0000032E{~FF~}#004#001
+~FF~#001
+;0000032F{Dragon~FF~}#010#007
+Dragon~FF~#007
+;00000336{~FF~}#004#001
+~FF~#001
+;00000337{~FF~}#004#001
+~FF~#001
+;00000338{Knight~FF~}#010#007
+Knight~FF~#007
+;0000033F{Dragon~FF~}#010#007
+Dragon~FF~#007
+;00000346{~FF~}#004#001
+~FF~#001
+;00000347{Knight~FF~}#010#007
+Knight~FF~#007
+;0000034E{Dragon~FF~}#010#007
+Dragon~FF~#007
+;00000355{~FF~}#004#001
+~FF~#001
+;00000356{~FF~}#004#001
+~FF~#001
+;00000357{g~BE~a0Y0~B4~0M2~DC~5,C20k0~46~0I1~E8~3~B8~bku20~5A~0w3~D0~Vo080k0~46~0R0C00000000000000000~68~1~60~9u000CURA~FF~}#113#077
+g~BE~a0Y0~B4~0M2~DC~5,C20k0~46~0I1~E8~3~B8~bku20~5A~0w3~D0~Vo080k0~46~0R0C00000000000000000~68~1~60~9u000CURA~FF~#077
+;000003A4{PEGA~FF~}#008#005
+PEGA~FF~#005
+;000003A9{DUERM~FF~}#009#006
+DUERM~FF~#006
+;000003AF{RADIA  ~FF~}#011#008
+RADIA  ~FF~#008
+;000003B7{PARA     ~FF~}#013#010
+PARA     ~FF~#010
+;000003C1{FUERA  ~FF~}#011#008
+FUERA  ~FF~#008
+;000003C9{VUELVE~FF~}#010#007
+VUELVE~FF~#007
+;000003D0{REPEL~FF~}#009#006
+REPEL~FF~#006
+;000003D6{CURAMAS ~FF~}#012#009
+CURAMAS ~FF~#009
+;000003DF{PEGAMAS ~FF~}#012#009
+PEGAMAS ~FF~#009
+|1000
+@00008038-00008A06-FC
+;00000000{~F4~ se levanta.   ~FC~}#023#017
+~F4~ se levanta.   ~FC~#017
+;00000011{~60~/Estás muerto. ~FC~}#023#017
+~60~/Estás muerto. ~FC~#017
+;00000022{`¡Eres muy fuerte!/¿Por qué no puedes vencer al Rey Dragón?´~FB~     ~FC~}#073#067
+`¡Eres muy fuerte!/¿Por qué no puedes vencer al Rey Dragón?´~FB~     ~FC~#067
+;00000065{`Si vas a tomar un descanso, primero visita al Rey Lorik´  ~FC~}#063#060
+`Si vas a tomar un descanso, primero visita al Rey Lorik´  ~FC~#060
+;000000A1{~F8~ sube la Gota Arcoíris hacia el cielo./~60~~FB~~FC~}#055#043
+~F8~ sube la Gota Arcoíris hacia el cielo./~60~~FB~~FC~#043
+;000000CC{Pero no apareció un arcoíris.~FC~}#033#030
+Pero no apareció un arcoíris.~FC~#030
+;000000EA{`Buenos días./Espero que haya tenido una buen descanso´~FB~  ~FC~}#065#059
+`Buenos días./Espero que haya tenido una buen descanso´~FB~  ~FC~#059
+;00000125{`Le veré de nuevo´      ~FC~}#028#025
+`Le veré de nuevo´      ~FC~#025
+;0000013E{`Saludos./Parece que ha pasado una buena noche´~FB~      ~FC~}#061#055
+`Saludos./Parece que ha pasado una buena noche´~FB~      ~FC~#055
+;00000175{`Buen sueño´/~FC~}#017#014
+`Buen sueño´/~FC~#014
+;00000183{`Vale./Adiós, viajero´    ~FC~}#030#027
+`Vale./Adiós, viajero´    ~FC~#027
+;0000019E{`Bienvenido a la posada del viajero./El cuarto son ~F5~ de ORO la noche./¿Quiere un cuarto?´/  ~FC~}#099#093
+`Bienvenido a la posada del viajero./El cuarto son ~F5~ de ORO la noche./¿Quiere un cuarto?´/  ~FC~#093
+;000001FB{`Lo mejor para ti´    ~FC~}#026#023
+`Lo mejor para ti´    ~FC~#023
+;00000212{Aquí no hay escaleras.    ~FC~}#030#027
+Aquí no hay escaleras.    ~FC~#027
+;0000022D{No puedes entrar ahí.   ~FC~}#028#025
+No puedes entrar ahí.   ~FC~#025
+;00000246{Aquí no hay nadie.     ~FC~}#027#024
+Aquí no hay nadie.     ~FC~#024
+;0000025E{`Se lo agradezco./¿No comprará otra botella?´/  ~FC~}#052#049
+`Se lo agradezco./¿No comprará otra botella?´/  ~FC~#049
+;0000028F{`¿Comprará algo de Agua Hada a 38 de ORO que aleja a los esbirros del Rey Dragón?´/ ~FC~}#088#085
+`¿Comprará algo de Agua Hada a 38 de ORO que aleja a los esbirros del Rey Dragón?´/ ~FC~#085
+;000002E4{`Le veré más tarde´    ~FC~}#027#024
+`Le veré más tarde´    ~FC~#024
+;000002FC{`No tiene suficiente dinero´~FB~~FC~}#036#030
+`No tiene suficiente dinero´~FB~~FC~#030
+;0000031A{`Lo siento, pero no puedo venderle más´     ~FC~}#048#045
+`Lo siento, pero no puedo venderle más´     ~FC~#045
+;00000347{`Tome esta llave./¿Quiere comprar más?´/               ~FC~}#059#056
+`Tome esta llave./¿Quiere comprar más?´/               ~FC~#056
+;0000037F{`¡Llaves Mágicas!/Abren cualquier puerta./¿Quiere comprar una por ~F5~ de ORO?´/       ~FC~}#091#085
+`¡Llaves Mágicas!/Abren cualquier puerta./¿Quiere comprar una por ~F5~ de ORO?´/       ~FC~#085
+;000003D4{`Lo siento´~FB~ ~FC~}#020#014
+`Lo siento´~FB~ ~FC~#014
+;000003E2{Tiene una maldición.~FB~     ~FC~}#033#027
+Tiene una maldición.~FB~     ~FC~#027
+;000003FD{`No tiene posesiones´     ~FC~}#030#027
+`No tiene posesiones´     ~FC~#027
+;00000418{`¿Venderá algo más?´/           ~FC~}#036#033
+`¿Venderá algo más?´/           ~FC~#033
+;00000439{`No compro eso´  ~FC~}#021#018
+`No compro eso´  ~FC~#018
+;0000044B{`Dijo el ~F7~./Compraré el ~F7~ por ~F5~ de ORO./¿De acuerdo?´/             ~FC~}#080#068
+`Dijo el ~F7~./Compraré el ~F7~ por ~F5~ de ORO./¿De acuerdo?´/             ~FC~#068
+;0000048F{`¿Que está vendiendo?´/  ~FC~}#029#026
+`¿Que está vendiendo?´/  ~FC~#026
+;000004A9{`Esperaré su próxima visita´          ~FC~}#042#039
+`Esperaré su próxima visita´          ~FC~#039
+;000004D0{`¿Quiere alguna cosa más?´/     ~FC~}#036#033
+`¿Quiere alguna cosa más?´/     ~FC~#033
+;000004F1{`No puede cargar más Hierbas´~FB~~FC~}#037#031
+`No puede cargar más Hierbas´~FB~~FC~#031
+;00000510{`No puede cargar nada más´~FB~ ~FC~}#035#029
+`No puede cargar nada más´~FB~ ~FC~#029
+;0000052D{`No tiene suficiente dinero´~FB~~FC~}#036#030
+`No tiene suficiente dinero´~FB~~FC~#030
+;0000054B{`¿El ~F7~?/Muchas gracias´~FB~     ~FC~}#039#030
+`¿El ~F7~?/Muchas gracias´~FB~     ~FC~#030
+;00000569{`¿Que quiere?´/        ~FC~}#027#024
+`¿Que quiere?´/        ~FC~#024
+;00000581{`Bienvenido./Comerciamos herramientas./¿Que desea?´/ ~FC~}#057#054
+`Bienvenido./Comerciamos herramientas./¿Que desea?´/ ~FC~#054
+;000005B7{`¿Oh, si?/Pues que mal´~FB~  ~FC~}#033#027
+`¿Oh, si?/Pues que mal´~FB~  ~FC~#027
+;000005D2{`¿Es correcto?´/  ~FC~}#022#019
+`¿Es correcto?´/  ~FC~#019
+;000005E5{`Comerciamos armas y armaduras./¿Quiere comprar alguna cosa hoy?´/    ~FC~}#074#071
+`Comerciamos armas y armaduras./¿Quiere comprar alguna cosa hoy?´/    ~FC~#071
+;0000062C{`¿El ~F7~?´~FB~~FC~}#019#010
+`¿El ~F7~?´~FB~~FC~#010
+;00000636{`Compraré el ~F7~ por ~F5~ de ORO´~FB~      ~FC~}#048#036
+`Compraré el ~F7~ por ~F5~ de ORO´~FB~      ~FC~#036
+;0000065A{`Perdón./No le llega el dinero´~FB~    ~FC~}#043#037
+`Perdón./No le llega el dinero´~FB~    ~FC~#037
+;0000067F{`¿Quiere comprar alguna cosa más?´/    ~FC~}#043#040
+`¿Quiere comprar alguna cosa más?´/    ~FC~#040
+;000006A7{`¿Que quiere comprar?´/       ~FC~}#034#031
+`¿Que quiere comprar?´/       ~FC~#031
+;000006C6{`Gracias´/     ~FC~}#019#016
+`Gracias´/     ~FC~#016
+;000006D6{`Por favor, vuelva´ ~FC~}#024#021
+`Por favor, vuelva´ ~FC~#021
+;000006EB{~F8~ cantó el hechizo ~F6~.    ~FC~}#035#026
+~F8~ cantó el hechizo ~F6~.    ~FC~#026
+;00000705{~F8~ no puede usarlo.         ~FC~}#034#028
+~F8~ no puede usarlo.         ~FC~#028
+;00000721{PM insuficientes. ~FC~}#022#019
+PM insuficientes. ~FC~#019
+;00000734{~60~/Pero no pasa nada.   ~FC~}#030#024
+~60~/Pero no pasa nada.   ~FC~#024
+;0000074C{REPELER perdió el efecto. ~FC~}#030#027
+REPELER perdió el efecto. ~FC~#027
+;00000767{La antorcha se usa en sitios oscuros.   ~FC~}#044#041
+La antorcha se usa en sitios oscuros.   ~FC~#041
+;00000790{~F8~ se roció el cuerpo con el Agua de Hada. ~FC~}#049#043
+~F8~ se roció el cuerpo con el Agua de Hada. ~FC~#043
+;000007BB{El Agua de Hada ha perdió su efecto.~FC~}#040#037
+El Agua de Hada ha perdió su efecto.~FC~#037
+;000007E0{Las Alas del Wyvern no se pueden usar aquí. ~FC~}#048#045
+Las Alas del Wyvern no se pueden usar aquí. ~FC~#045
+;0000080D{~F8~ tiró las Alas del Wyvern al cielo.            ~FC~}#055#049
+~F8~ tiró las Alas del Wyvern al cielo.            ~FC~#049
+;0000083E{~F8~ se puso la escama del dragón.  ~FC~}#040#034
+~F8~ se puso la escama del dragón.  ~FC~#034
+;00000860{Ya estás llevando la escama del dragón.          ~FC~}#053#050
+Ya estás llevando la escama del dragón.          ~FC~#050
+;00000892{~F8~ toca la Flauta del Hada.~FC~}#033#027
+~F8~ toca la Flauta del Hada.~FC~#027
+;000008AD{Aún no se te ha dado nada de utilidad.    ~FC~}#046#043
+Aún no se te ha dado nada de utilidad.    ~FC~#043
+;000008D8{~F8~ se pone el Anillo Lucha.  ~FC~}#035#029
+~F8~ se pone el Anillo Lucha.  ~FC~#029
+;000008F5{~F8~ se ajusta la posición del Anillo Luchador.  ~FC~}#053#047
+~F8~ se ajusta la posición del Anillo Luchador.  ~FC~#047
+;00000924{~F8~ coge el ~F7~ fuerte.  ~FC~}#031#022
+~F8~ coge el ~F7~ fuerte.  ~FC~#022
+;0000093A{~F8~ tocó una dulce melodía en el arpa.~FC~}#043#037
+~F8~ tocó una dulce melodía en el arpa.~FC~#037
+;0000095F{¡~F8~ se puso el ~F7~ y se maldijo!.~FB~/Sientes el cuerpo apretado. ~FC~}#073#061
+¡~F8~ se puso el ~F7~ y se maldijo!.~FB~/Sientes el cuerpo apretado. ~FC~#061
+;0000099C{El ~F7~ te aprieta.            ~FC~}#035#029
+El ~F7~ te aprieta.            ~FC~#029
+;000009B9{`Maldito, lárgate!´  ~FC~}#025#022
+`Maldito, lárgate!´  ~FC~#022
+|2511
+@00008A07-0000BCBF-FC
+;00000000{`Busco la bodega del castillo./He oído es difícil de encontrar´     ~FC~}#072#069
+`Busco la bodega del castillo./He oído es difícil de encontrar´     ~FC~#069
+;00000045{`Las puertas se abren con una llave´ ~FC~}#041#038
+`Las puertas se abren con una llave´ ~FC~#038
+;0000006B{`Para fortalecerte para futuras pruebas debes pelear antes con muchos enemigos´ ~FC~}#084#081
+`Para fortalecerte para futuras pruebas debes pelear antes con muchos enemigos´ ~FC~#081
+;000000BC{`El Rey Lorik escribirá tus hazañas en su Pergamino Imperial para que puedas volver más tarde´ ~FC~}#099#096
+`El Rey Lorik escribirá tus hazañas en su Pergamino Imperial para que puedas volver más tarde´ ~FC~#096
+;0000011C{`Cuando sol y lluvia se juntan, aparece un Puente Arcoíris´~FC~}#063#060
+`Cuando sol y lluvia se juntan, aparece un Puente Arcoíris´~FC~#060
+;00000158{`Una persona valiente no roba´   ~FC~}#037#034
+`Una persona valiente no roba´   ~FC~#034
+;0000017A{`Hace un tiempo Brecconary era un paraíso./Pero llegaron los esbirros del Rey Dragón´~FC~}#089#086
+`Hace un tiempo Brecconary era un paraíso./Pero llegaron los esbirros del Rey Dragón´~FC~#086
+;000001D0{`¡Deseémosle el bien al guerrero!´~FB~/`¡Que la luz sea tu fuerza!´ ~FC~}#072#066
+`¡Deseémosle el bien al guerrero!´~FB~/`¡Que la luz sea tu fuerza!´ ~FC~#066
+;00000212{`Si tus Puntos de Vida son altos, entonces, entra´      ~FC~}#060#057
+`Si tus Puntos de Vida son altos, entonces, entra´      ~FC~#057
+;0000024B{`Somos mercaderes que viajamos mucho por esta tierra./Varios de los nuestros fueron asesinados por siervos del Rey Dragón´   ~FC~}#129#126
+`Somos mercaderes que viajamos mucho por esta tierra./Varios de los nuestros fueron asesinados por siervos del Rey Dragón´   ~FC~#126
+;000002C9{`El rumor dice que los siervos del Rey Dragón destruyeron ciudades enteras´      ~FC~}#085#082
+`El rumor dice que los siervos del Rey Dragón destruyeron ciudades enteras´      ~FC~#082
+;0000031B{`Esto es Castillo Tantegel´ ~FC~}#032#029
+`Esto es Castillo Tantegel´ ~FC~#029
+;00000338{`En Garinham, busca la tumba de Garin./Debes pulsar un muro de oscuridad ahí´        ~FC~}#089#086
+`En Garinham, busca la tumba de Garin./Debes pulsar un muro de oscuridad ahí´        ~FC~#086
+;0000038E{`Un consejo´~FB~/`Ahorra dinero para una armadura más cara´     ~FC~}#068#062
+`Un consejo´~FB~/`Ahorra dinero para una armadura más cara´     ~FC~#062
+;000003CC{`Escucha a la gente./Puede ser de gran ayuda´       ~FC~}#056#053
+`Escucha a la gente./Puede ser de gran ayuda´       ~FC~#053
+;00000401{`¡Alerta con el puente!´~FB~/`Sube el peligro al cruzarlo´~FC~}#062#056
+`¡Alerta con el puente!´~FB~/`Sube el peligro al cruzarlo´~FC~#056
+;00000439{`Hay una ciudad donde venden llaves mágicas´       ~FC~}#055#052
+`Hay una ciudad donde venden llaves mágicas´       ~FC~#052
+;0000046D{`Dicen que la tumba de Garin lleva al Arpa de Plata´  ~FC~}#058#055
+`Dicen que la tumba de Garin lleva al Arpa de Plata´  ~FC~#055
+;000004A4{`Entra donde puedas´  ~FC~}#026#023
+`Entra donde puedas´  ~FC~#023
+;000004BB{`¡Hola!/Entra en la tienda y habla con el tendero desde tu lado´ ~FC~}#069#066
+`¡Hola!/Entra en la tienda y habla con el tendero desde tu lado´ ~FC~#066
+;000004FD{`Eres bienvenido en Brecconary´      ~FC~}#041#038
+`Eres bienvenido en Brecconary´      ~FC~#038
+;00000523{`Vigila tus PV cuando pises la Ciénaga Venenosa´  ~FC~}#054#051
+`Vigila tus PV cuando pises la Ciénaga Venenosa´  ~FC~#051
+;00000556{`Ve al norte a la costa, entonces sigue la linea costera oeste hasta llegar a Garinham´    ~FC~}#095#092
+`Ve al norte a la costa, entonces sigue la linea costera oeste hasta llegar a Garinham´    ~FC~#092
+;000005B2{`No soy la Princesa Gwaelin´  ~FC~}#034#031
+`No soy la Princesa Gwaelin´  ~FC~#031
+;000005D1{`Por favor, elimine a los esbirros del Rey Dragón´ ~FC~}#055#052
+`Por favor, elimine a los esbirros del Rey Dragón´ ~FC~#052
+;00000605{`Ve a ver al Rey Lorik cuando tu nivel se incremente´ ~FC~}#058#055
+`Ve a ver al Rey Lorik cuando tu nivel se incremente´ ~FC~#055
+;0000063C{`¿Eres descendiente de Erdrick?/¿Tienes alguna prueba?´   ~FC~}#062#059
+`¿Eres descendiente de Erdrick?/¿Tienes alguna prueba?´   ~FC~#059
+;00000677{`A vista desde el Castillo Tantegel al sur está Charlock,´~FB~/`La fortaleza del Rey Dragón´    ~FC~}#100#094
+`A vista desde el Castillo Tantegel al sur está Charlock,´~FB~/`La fortaleza del Rey Dragón´    ~FC~#094
+;000006D5{`Este baño cura el reuma´   ~FC~}#032#029
+`Este baño cura el reuma´   ~FC~#029
+;000006F2{`Al este de Hauksness hay una ciudad, dicen, donde se pueden comprar armas de extraordinaria calidad´  ~FC~}#107#104
+`Al este de Hauksness hay una ciudad, dicen, donde se pueden comprar armas de extraordinaria calidad´  ~FC~#104
+;0000075A{`En Rimuldar puedes comprar llaves´~FC~}#039#036
+`En Rimuldar puedes comprar llaves´~FC~#036
+;0000077E{`¿Has visto a Nester?/Creo que necesita ayuda´   ~FC~}#053#050
+`¿Has visto a Nester?/Creo que necesita ayuda´   ~FC~#050
+;000007B0{`Dreadful es la Isla Sur´~FB~/`Solo gran fuerza, habilidad e ingenio te devolverán de ese lugar´               ~FC~}#115#109
+`Dreadful es la Isla Sur´~FB~/`Solo gran fuerza, habilidad e ingenio te devolverán de ese lugar´               ~FC~#109
+;0000081D{`El Golem le teme a la música de la flauta, o eso dicen´ ~FC~}#061#058
+`El Golem le teme a la música de la flauta, o eso dicen´ ~FC~#058
+;00000857{`Esta es la aldea de Kol´   ~FC~}#032#029
+`Esta es la aldea de Kol´   ~FC~#029
+;00000874{`En leyendas se dice que las hadas saben como dormir al Golem´     ~FC~}#071#068
+`En leyendas se dice que las hadas saben como dormir al Golem´     ~FC~#068
+;000008B8{`El arpa atrae enemigos./Aléjate de la tumba en Garinham´        ~FC~}#069#066
+`El arpa atrae enemigos./Aléjate de la tumba en Garinham´        ~FC~#066
+;000008FA{`Estoy ocupado./Pregunta al otro´  ~FC~}#039#036
+`Estoy ocupado./Pregunta al otro´  ~FC~#036
+;0000091E{`Te sugiero hacerte un mapa si tu camino va a la oscuridad´ ~FC~}#064#061
+`Te sugiero hacerte un mapa si tu camino va a la oscuridad´ ~FC~#061
+;0000095B{`Había una ciudad llamada Hauksness muy al sur, pero no sé si aún existe´                     ~FC~}#098#095
+`Había una ciudad llamada Hauksness muy al sur, pero no sé si aún existe´                     ~FC~#095
+;000009BA{`¡Odio a la gente!/¡Vete!´    ~FC~}#034#031
+`¡Odio a la gente!/¡Vete!´    ~FC~#031
+;000009D9{`Oí la armadura de Erdrick se ocultó hace mucho´   ~FC~}#055#052
+`Oí la armadura de Erdrick se ocultó hace mucho´   ~FC~#052
+;00000A0D{`Se dice que la Princesa Gwaelin esta oculta en una cueva´   ~FC~}#065#062
+`Se dice que la Princesa Gwaelin esta oculta en una cueva´   ~FC~#062
+;00000A4B{`He oído acerca de uno llamado Nester./¿Conoces a uno?´       ~FC~}#066#063
+`He oído acerca de uno llamado Nester./¿Conoces a uno?´       ~FC~#063
+;00000A8A{`Se dice que Garin, un juglar errante de fama legendaria, construyó esta ciudad´~FC~}#084#081
+`Se dice que Garin, un juglar errante de fama legendaria, construyó esta ciudad´~FC~#081
+;00000ADB{`Bienvenido a Garinham./Que tu estancia sea pacífica´~FC~}#057#054
+`Bienvenido a Garinham./Que tu estancia sea pacífica´~FC~#054
+;00000B11{`Se dice que la Princesa fue secuestrada y llevada al este´    ~FC~}#067#064
+`Se dice que la Princesa fue secuestrada y llevada al este´    ~FC~#064
+;00000B51{`¡Compra mis rábanos! Son frescos y baratos./¡Compra los rábanos hoy!´   ~FC~}#077#074
+`¡Compra mis rábanos! Son frescos y baratos./¡Compra los rábanos hoy!´   ~FC~#074
+;00000B9B{`Para saber como obtener pruebas de que tu ancestro fue el gran Erdrick, busca a un hombre en la ciudad´ ~FC~}#109#106
+`Para saber como obtener pruebas de que tu ancestro fue el gran Erdrick, busca a un hombre en la ciudad´ ~FC~#106
+;00000C05{`Se dice que la espada de Erdrick hendía el acero´ ~FC~}#055#052
+`Se dice que la espada de Erdrick hendía el acero´ ~FC~#052
+;00000C39{`Esto es Cantlin, ciudad castillo´   ~FC~}#041#038
+`Esto es Cantlin, ciudad castillo´   ~FC~#038
+;00000C5F{`¿Que debería traerte para comer?´~FC~}#038#035
+`¿Que debería traerte para comer?´~FC~#035
+;00000C82{`No sé nada´    ~FC~}#020#017
+`No sé nada´    ~FC~#017
+;00000C93{`Soy Nester./¿Dónde estoy? No, ¡no me lo digas!´ ~FC~}#053#050
+`Soy Nester./¿Dónde estoy? No, ¡no me lo digas!´ ~FC~#050
+;00000CC5{`El abuelo solía decir que su amigo, Wynn, enterró algo de gran valor al pie del árbol detrás de su tienda´               ~FC~}#126#123
+`El abuelo solía decir que su amigo, Wynn, enterró algo de gran valor al pie del árbol detrás de su tienda´               ~FC~#123
+;00000D40{`Se dice que muchos llevaron la armadura de Erdrick~FB~/`El último fue un hombre llamado Wynn´    ~FC~}#102#096
+`Se dice que muchos llevaron la armadura de Erdrick~FB~/`El último fue un hombre llamado Wynn´    ~FC~#096
+;00000DA0{`Mi abuelo Wynn tuvo una vez una tienda en el este de Hauksness´   ~FC~}#071#068
+`Mi abuelo Wynn tuvo una vez una tienda en el este de Hauksness´   ~FC~#068
+;00000DE4{`¡Hola!´  ~FC~}#014#011
+`¡Hola!´  ~FC~#011
+;00000DEF{`¿Quién eres?/Vete ya o llamaré a mis amigos´          ~FC~}#059#056
+`¿Quién eres?/Vete ya o llamaré a mis amigos´          ~FC~#056
+;00000E27{`Soy Orwick, y estoy esperando a mi novia´        ~FC~}#054#051
+`Soy Orwick, y estoy esperando a mi novia´        ~FC~#051
+;00000E5A{`Las escamas del Rey Dragón son duras como acero´  ~FC~}#055#052
+`Las escamas del Rey Dragón son duras como acero´  ~FC~#052
+;00000E8E{`Por la parte oeste de esta isla Erdrick creó un arcoíris´~FB~/`También se dice que entró en la oscuridad desde una entrada secreta en la habitación del Rey Dragón´   ~FC~}#171#165
+`Por la parte oeste de esta isla Erdrick creó un arcoíris´~FB~/`También se dice que entró en la oscuridad desde una entrada secreta en la habitación del Rey Dragón´   ~FC~#165
+;00000F33{`Encontrarás las Piedras de la Luz Solar en el Castillo de Tantegel,/si aún no las tienes´ ~FC~}#095#092
+`Encontrarás las Piedras de la Luz Solar en el Castillo de Tantegel,/si aún no las tienes´ ~FC~#092
+;00000F8F{`Bienvenido a ciudad Rimuldar´   ~FC~}#037#034
+`Bienvenido a ciudad Rimuldar´   ~FC~#034
+;00000FB1{`No, no tengo tomates./Hoy no tengo tomates´      ~FC~}#054#051
+`No, no tengo tomates./Hoy no tengo tomates´      ~FC~#051
+;00000FE4{`¿Eres ~F8~?/Ha pasado mucho desde que nos vimos´ ~FC~}#054#048
+`¿Eres ~F8~?/Ha pasado mucho desde que nos vimos´ ~FC~#048
+;00001014{`Buenos días, soy Howard. A cuatro pasos del baño de Kol encontrarás un objeto mágico´  ~FC~}#092#089
+`Buenos días, soy Howard. A cuatro pasos del baño de Kol encontrarás un objeto mágico´  ~FC~#089
+;0000106D{`Dentro de poco llegará el enemigo´~FC~}#039#036
+`Dentro de poco llegará el enemigo´~FC~#036
+;00001091{`¡Escucha mi aviso! No viajes al sur porque los monstruos son feroces y terribles´       ~FC~}#093#090
+`¡Escucha mi aviso! No viajes al sur porque los monstruos son feroces y terribles´       ~FC~#090
+;000010EB{`¿En este mundo hay alguna espada que atraviese las escamas del Rey Dragón?´    ~FC~}#084#081
+`¿En este mundo hay alguna espada que atraviese las escamas del Rey Dragón?´    ~FC~#081
+;0000113C{`Orwick llega tarde. Tengo hambre´  ~FC~}#040#037
+`Orwick llega tarde. Tengo hambre´  ~FC~#037
+;00001161{`Varios han sido los guerreros que han muerto en esta tarea´~FB~/`Pero te deseo éxito, ~F8~´         ~FC~}#105#096
+`Varios han sido los guerreros que han muerto en esta tarea´~FB~/`Pero te deseo éxito, ~F8~´         ~FC~#096
+;000011C1{`¿Encontraste la flauta?´/   ~FC~}#033#030
+`¿Encontraste la flauta?´/   ~FC~#030
+;000011DF{`¿Has estado en la isla más al sur?´/    ~FC~}#045#042
+`¿Has estado en la isla más al sur?´/    ~FC~#042
+;00001209{`Se dice que el Rey Dragón tiene garras que hienden acero y aliento de fuego que derrite la piedra´~FB~/`¿Aún quieres ir?´  /             ~FC~}#142#136
+`Se dice que el Rey Dragón tiene garras que hienden acero y aliento de fuego que derrite la piedra´~FB~/`¿Aún quieres ir?´  /             ~FC~#136
+;00001291{`Este lugar es mágico./¿Encontraste un templo mágico?´/  ~FC~}#061#058
+`Este lugar es mágico./¿Encontraste un templo mágico?´/  ~FC~#058
+;000012CB{`Cuando entres en una cueva, lleva una antorcha´~FC~}#052#049
+`Cuando entres en una cueva, lleva una antorcha´~FC~#049
+;000012FC{`Ve a la ciudad de Cantlin´~FC~}#031#028
+`Ve a la ciudad de Cantlin´~FC~#028
+;00001318{`He oído que ahí viven enemigos poderosos´     ~FC~}#051#048
+`He oído que ahí viven enemigos poderosos´     ~FC~#048
+;00001348{`Eres muy valiente´   ~FC~}#026#023
+`Eres muy valiente´   ~FC~#023
+;0000135F{`En este templo se juntan sol y lluvia´  ~FC~}#045#042
+`En este templo se juntan sol y lluvia´  ~FC~#042
+;00001389{~FC~}#004#001
+~FC~#001
+;0000138A{`Howard la tenia, pero fue a Rimuldar y nunca volvió´      ~FC~}#063#060
+`Howard la tenia, pero fue a Rimuldar y nunca volvió´      ~FC~#060
+;000013C6{`Al sur, creo, hay una ciudad llamada Rimuldar´           ~FC~}#062#059
+`Al sur, creo, hay una ciudad llamada Rimuldar´           ~FC~#059
+;00001401{`Eso es bueno´/`Nadie dirá que tienes miedo´    ~FC~}#052#049
+`Eso es bueno´/`Nadie dirá que tienes miedo´    ~FC~#049
+;00001432{`Ve al sur´      ~FC~}#021#018
+`Ve al sur´      ~FC~#018
+;00001444{`¿Dónde se encuentra la Princesa Gwaelin?´   ~FC~}#049#046
+`¿Dónde se encuentra la Princesa Gwaelin?´   ~FC~#046
+;00001472{`Gracias por salvar a la Princesa´ ~FC~}#039#036
+`Gracias por salvar a la Princesa´ ~FC~#036
+;00001496{`Oh, ¡mi querida Gwaelin!´/`Te odio, ~F8~´   ~FC~}#049#043
+`Oh, ¡mi querida Gwaelin!´/`Te odio, ~F8~´   ~FC~#043
+;000014C1{`Dile al Rey Lorik que la búsqueda de su hija ha fallado´~FB~/`Ha llegado mi hora~45~~45~´   ~FC~}#097#085
+`Dile al Rey Lorik que la búsqueda de su hija ha fallado´~FB~/`Ha llegado mi hora~45~~45~´   ~FC~#085
+;00001516{`¿Quien me toca?´/`No veo nada, ni escucho´      ~FC~}#053#050
+`¿Quien me toca?´/`No veo nada, ni escucho´      ~FC~#050
+;00001548{`¿Sabes sobre la Princesa Gwaelin?´/     ~FC~}#045#042
+`¿Sabes sobre la Princesa Gwaelin?´/     ~FC~#042
+;00001572{`Ha pasado medio año desde que la Princesa fue secuestrada por el enemigo´~FB~/`El rey nunca habla de ello, pero debe estar sufriendo mucho´~FB~    ~FC~}#152#143
+`Ha pasado medio año desde que la Princesa fue secuestrada por el enemigo´~FB~/`El rey nunca habla de ello, pero debe estar sufriendo mucho´~FB~    ~FC~#143
+;00001601{`~F8~, salva a la Princesa´     ~FC~}#036#030
+`~F8~, salva a la Princesa´     ~FC~#030
+;0000161F{`Valiente ~F8~´ ~FC~}#020#014
+`Valiente ~F8~´ ~FC~#014
+;0000162D{`He estado esperando a alguien como tú´~FB~        ~FC~}#055#049
+`He estado esperando a alguien como tú´~FB~        ~FC~#049
+;0000165E{`No tienes nada que hacer aquí./Vete´~FC~}#041#038
+`No tienes nada que hacer aquí./Vete´~FC~#038
+;00001684{`Si te maldicen, vuelve´        ~FC~}#036#033
+`Si te maldicen, vuelve´        ~FC~#033
+;000016A5{`Te libraré de la maldición´~FB~     ~FC~}#041#035
+`Te libraré de la maldición´~FB~     ~FC~#035
+;000016C8{`Ve´     ~FC~}#013#010
+`Ve´     ~FC~#010
+;000016D2{`Aunque eres tan valiente como tu ancestro, ~F8~, no puedes vencer al gran Rey Dragón con esas armas´~FB~/`Tendrás que volver otra vez´        ~FC~}#147#138
+`Aunque eres tan valiente como tu ancestro, ~F8~, no puedes vencer al gran Rey Dragón con esas armas´~FB~/`Tendrás que volver otra vez´        ~FC~#138
+;0000175C{`Al final lo has obtenido, ~F8~´     ~FC~}#041#035
+`Al final lo has obtenido, ~F8~´     ~FC~#035
+;0000177F{`¿Es un anillo de boda?´/`Pareces muy joven para estar casado´~FC~}#066#063
+`¿Es un anillo de boda?´/`Pareces muy joven para estar casado´~FC~#063
+;000017BE{`Los guerreros llevan anillos´ ~FC~}#035#032
+`Los guerreros llevan anillos´ ~FC~#032
+;000017DE{`La llegada de ~F8~ es una leyenda./Que la luz brille en este valiente guerrero´   ~FC~}#087#081
+`La llegada de ~F8~ es una leyenda./Que la luz brille en este valiente guerrero´   ~FC~#081
+;0000182F{~FB~`Puedes ir y buscar´    ~FC~}#032#026
+~FB~`Puedes ir y buscar´    ~FC~#026
+;00001849{~FB~`Desde el Castillo Tantegel viaja 70 leguas al sur y 40 al este´        ~FC~}#080#074
+~FB~`Desde el Castillo Tantegel viaja 70 leguas al sur y 40 al este´        ~FC~#074
+;00001893{~FB~`Es leyenda´   ~FC~}#023#017
+~FB~`Es leyenda´   ~FC~#017
+;000018A4{`Tu valor debe ser probado´~FB~/`Propongo una prueba´~FB~/`Hay un Arpa Plateada que atrae a las criaturas del Rey Dragón´~FB~/`Tráemela y te recompensaré con la Vara de la Lluvia´                        ~FC~}#207#195
+`Tu valor debe ser probado´~FB~/`Propongo una prueba´~FB~/`Hay un Arpa Plateada que atrae a las criaturas del Rey Dragón´~FB~/`Tráemela y te recompensaré con la Vara de la Lluvia´                        ~FC~#195
+;00001967{`Has traído el arpa. Bien´~FB~        ~FC~}#042#036
+`Has traído el arpa. Bien´~FB~        ~FC~#036
+;0000198B{`Has fallado en su tarea. Así, me temo que no seas el Erdrick predestinado a salvarnos´~FB~/`¡Ahora ve!´       ~FC~}#115#109
+`Has fallado en su tarea. Así, me temo que no seas el Erdrick predestinado a salvarnos´~FB~/`¡Ahora ve!´       ~FC~#109
+;000019F8{`Ahora sol y lluvia se juntarán y la Gota Arcoíris podrá custodiarse´       ~FC~}#080#077
+`Ahora sol y lluvia se juntarán y la Gota Arcoíris podrá custodiarse´       ~FC~#077
+;00001A45{`Eres muy valiente para rescatarme, ~F8~´~FB~/`Soy Gwaelin, hija de Lorik´~FB~      ~FC~}#088#076
+`Eres muy valiente para rescatarme, ~F8~´~FB~/`Soy Gwaelin, hija de Lorik´~FB~      ~FC~#076
+;00001A91{`Pero debes´~FB~   ~FC~}#023#017
+`Pero debes´~FB~   ~FC~#017
+;00001AA2{La princesa Gwaelin te abraza./~60~ ~FC~}#040#034
+La princesa Gwaelin te abraza./~60~ ~FC~#034
+;00001AC4{`¡Soy feliz!´  ~FC~}#019#016
+`¡Soy feliz!´  ~FC~#016
+;00001AD4{`Para siempre estaré agradecido por el regalo de que mi hija vuelva a su hogar, ~F8~./Acepta mis gracias´~FB~/`Ahora, Gwaelin, ven a mi lado´~FB~/Gwaelin entonces susurra:/`Espera un momento./Le daré un regalo a ~F8~´~FB~/`Por favor acepta mi amor, ~F8~´~FB~~FC~}#262#238
+`Para siempre estaré agradecido por el regalo de que mi hija vuelva a su hogar, ~F8~./Acepta mis gracias´~FB~/`Ahora, Gwaelin, ven a mi lado´~FB~/Gwaelin entonces susurra:/`Espera un momento./Le daré un regalo a ~F8~´~FB~/`Por favor acepta mi amor, ~F8~´~FB~~FC~#238
+;00001BC2{`Y me gustaría tener algo de ti -- algo simbólico´~FB~/`Por favor dame tu ~F7~´     ~FC~}#088#079
+`Y me gustaría tener algo de ti -- algo simbólico´~FB~/`Por favor dame tu ~F7~´     ~FC~#079
+;00001C11{`Aún cuando estemos separados por una gran distancia, estaré contigo´ ~FC~}#074#071
+`Aún cuando estemos separados por una gran distancia, estaré contigo´ ~FC~#071
+;00001C58{~FB~`Adiós, ~F8~´~FB~   ~FC~}#028#016
+~FB~`Adiós, ~F8~´~FB~   ~FC~#016
+;00001C68{`Te amo, ~F8~´/     ~FC~}#024#018
+`Te amo, ~F8~´/     ~FC~#018
+;00001C7A{`¿Tu me amas, ~F8~?´/      ~FC~}#031#025
+`¿Tu me amas, ~F8~?´/      ~FC~#025
+;00001C93{`Cuando termines de prepararte para partir, por favor ven a verme./Esperaré´     ~FC~}#085#082
+`Cuando termines de prepararte para partir, por favor ven a verme./Esperaré´     ~FC~#082
+;00001CE5{`Estoy muy contento de que hayas vuelto, ~F8~´~FB~      ~FC~}#060#051
+`Estoy muy contento de que hayas vuelto, ~F8~´~FB~      ~FC~#051
+;00001D18{`Para el siguiente nivel necesitas ~F5~ puntos de experiencia´~FB~    ~FC~}#074#065
+`Para el siguiente nivel necesitas ~F5~ puntos de experiencia´~FB~    ~FC~#065
+;00001D59{`Si mueres puedo traerte de vuelta para intentarlo de nuevo sin perder las hazañas´~FB~       ~FC~}#098#092
+`Si mueres puedo traerte de vuelta para intentarlo de nuevo sin perder las hazañas´~FB~       ~FC~#092
+;00001DB5{~FC~}#004#001
+~FC~#001
+;00001DB6{`Adiós, ~F8~./Ten cuidado y no tientes al Destino´    ~FC~}#058#052
+`Adiós, ~F8~./Ten cuidado y no tientes al Destino´    ~FC~#052
+;00001DEA{`¿Me llevarás al castillo?´/       ~FC~}#039#036
+`¿Me llevarás al castillo?´/       ~FC~#036
+;00001E0E{`Coge el Cofre´          ~FC~}#029#026
+`Coge el Cofre´          ~FC~#026
+;00001E28{`Bienvenido, ~F8~./Soy el Rey Dragón--Rey de Reyes´~FB~~FC~}#059#050
+`Bienvenido, ~F8~./Soy el Rey Dragón--Rey de Reyes´~FB~~FC~#050
+;00001E5A{`Te doy la oportunidad de compartir este mundo y gobernar la mitad de él si te quedas a mi lado´~FB~/`¿Que me dices?/¿Se quedará el gran guerrero conmigo?´/         ~FC~}#169#163
+`Te doy la oportunidad de compartir este mundo y gobernar la mitad de él si te quedas a mi lado´~FB~/`¿Que me dices?/¿Se quedará el gran guerrero conmigo?´/         ~FC~#163
+;00001EFD{`¡Eres un tonto! ~FC~}#021#018
+`¡Eres un tonto! ~FC~#018
+;00001F0F{~57~/`Entonces medio mundo es tuyo, mitad de la oscuridad, y~45~~45~´~FB~     ~FC~}#082#067
+~57~/`Entonces medio mundo es tuyo, mitad de la oscuridad, y~45~~45~´~FB~     ~FC~#067
+;00001F52{Se acabó el viaje./Tómate un largo descanso./Hahahaha~45~~45~    ~FC~}#069#060
+Se acabó el viaje./Tómate un largo descanso./Hahahaha~45~~45~    ~FC~#060
+;00001F8E{~FB~Si recoges el ~F7~, debes tirar algún otro objeto./¿Quieres tener el ~F7~?                          ~FC~}#108#096
+~FB~Si recoges el ~F7~, debes tirar algún otro objeto./¿Quieres tener el ~F7~?                          ~FC~#096
+;00001FEE{Has dejado el ~F7~.         ~FC~}#032#026
+Has dejado el ~F7~.         ~FC~#026
+;00002008{¿Que objeto tiras?   ~FC~}#025#022
+¿Que objeto tiras?   ~FC~#022
+;0000201E{Has tirado el ~F7~.        ~FC~}#031#025
+Has tirado el ~F7~.        ~FC~#025
+;00002037{Y obtenido el ~F7~.   ~FC~}#026#020
+Y obtenido el ~F7~.   ~FC~#020
+;0000204B{Es demasiado importante para tirarlo.    ~FC~}#045#042
+Es demasiado importante para tirarlo.    ~FC~#042
+;00002075{~F8~ buscó por todo el suelo.~FB~/      ~FC~}#044#035
+~F8~ buscó por todo el suelo.~FB~/      ~FC~#035
+;00002098{Pero no encontró nada.  ~FC~}#028#025
+Pero no encontró nada.  ~FC~#025
+;000020B1{Hay un cofre del tesoro.~FC~}#028#025
+Hay un cofre del tesoro.~FC~#025
+;000020CA{~F8~ descubre el ~F7~.  ~FC~}#028#019
+~F8~ descubre el ~F7~.  ~FC~#019
+;000020DD{Siente el viento soplando de tras el trono.  ~FC~}#049#046
+Siente el viento soplando de tras el trono.  ~FC~#046
+;0000210B{No hay nada que coger aquí, ~F8~.   ~FC~}#040#034
+No hay nada que coger aquí, ~F8~.   ~FC~#034
+;0000212D{De ORO has ganado ~F5~.      ~FC~}#033#027
+De ORO has ganado ~F5~.      ~FC~#027
+;00002148{La fortuna te sonríe, ~F8~./Has encontrado el ~F7~.      ~FC~}#061#052
+La fortuna te sonríe, ~F8~./Has encontrado el ~F7~.      ~FC~#052
+;0000217C{Por desgracia, está vacío. ~FC~}#031#028
+Por desgracia, está vacío. ~FC~#028
+;00002198{Atento a mi voz,/`~F8~, yo soy Gwaelin./Para alcanzar el siguiente nivel incrementa la experiencia en ~F5~./Tienes mi esperanza´~FB~ ~FC~}#137#125
+Atento a mi voz,/`~F8~, yo soy Gwaelin./Para alcanzar el siguiente nivel incrementa la experiencia en ~F5~./Tienes mi esperanza´~FB~ ~FC~#125
+;00002215{`Desde donde estas, mi castillo está a~45~  ~FC~}#048#042
+`Desde donde estas, mi castillo está a~45~  ~FC~#042
+;0000223F{~FC~}#004#001
+~FC~#001
+;00002240{~57~~F5~ hacia el norte y~45~~FC~}#033#021
+~57~~F5~ hacia el norte y~45~~FC~#021
+;00002255{~57~~F5~ hacia el sur y~45~  ~FC~}#033#021
+~57~~F5~ hacia el sur y~45~  ~FC~#021
+;0000226A{~57~~F5~ al este´~FB~    ~FC~}#029#017
+~57~~F5~ al este´~FB~    ~FC~#017
+;0000227B{~57~~F5~ al oeste´~FB~   ~FC~}#029#017
+~57~~F5~ al oeste´~FB~   ~FC~#017
+;0000228C{¡Aparece un~F1~! ~FC~}#021#015
+¡Aparece un~F1~! ~FC~#015
+;0000229B{~60~/El ~F4~ sale huyendo.    ~FC~}#034#025
+~60~/El ~F4~ sale huyendo.    ~FC~#025
+;000022B4{~60~/El ~F4~ ataca antes que ~F8~ esté listo.~FC~}#049#037
+~60~/El ~F4~ ataca antes que ~F8~ esté listo.~FC~#037
+;000022D9{¡~F8~ ataca! ~FC~}#017#011
+¡~F8~ ataca! ~FC~#011
+;000022E4{Los PV de ~F4~ se han reducido en ~F5~.   ~FC~}#046#037
+Los PV de ~F4~ se han reducido en ~F5~.   ~FC~#037
+;00002309{¡El ataque ha fallado y no se han perdido PV!         ~FC~}#058#055
+¡El ataque ha fallado y no se han perdido PV!         ~FC~#055
+;00002340{~60~/¿Acción?~FC~}#017#011
+~60~/¿Acción?~FC~#011
+;0000234B{Eso no puede usarse peleando. ~FC~}#034#031
+Eso no puede usarse peleando. ~FC~#031
+;0000236A{~60~/Pero el hechizo fue bloqueado.   ~FC~}#042#036
+~60~/Pero el hechizo fue bloqueado.   ~FC~#036
+;0000238E{El hechizo no funciona. ~FC~}#028#025
+El hechizo no funciona. ~FC~#025
+;000023A7{Has puesto al ~F4~ a dormir.    ~FC~}#036#030
+Has puesto al ~F4~ a dormir.    ~FC~#030
+;000023C5{El hechizo de ~F4~ fue bloqueado.  ~FC~}#039#033
+El hechizo de ~F4~ fue bloqueado.  ~FC~#033
+;000023E6{~60~/Lo hiciste bien derrotando al ~F4~./~60~       ~FC~}#056#044
+~60~/Lo hiciste bien derrotando al ~F4~./~60~       ~FC~#044
+;00002412{Tu Experiencia aumenta ~F5~.     ~FC~}#037#031
+Tu Experiencia aumenta ~F5~.     ~FC~#031
+;00002431{Tu ORO aumenta ~F5~.       ~FC~}#031#025
+Tu ORO aumenta ~F5~.       ~FC~#025
+;0000244A{~60~~FB~/El valor y el coraje te han servido./Has sido promocionado al siguiente nivel.~FB~   ~FC~}#098#086
+~60~~FB~/El valor y el coraje te han servido./Has sido promocionado al siguiente nivel.~FB~   ~FC~#086
+;000024A0{~60~/Aprendes un nuevo hechizo.    ~FC~}#039#033
+~60~/Aprendes un nuevo hechizo.    ~FC~#033
+;000024C1{En silencio el Golem cierra los ojos y se duerme.    ~FC~}#057#054
+En silencio el Golem cierra los ojos y se duerme.    ~FC~#054
+;000024F7{~F4~ se ve feliz.~FC~}#021#015
+~F4~ se ve feliz.~FC~#015
+;00002506{~60~/~F8~ empezó a huir.      ~FC~}#034#025
+~60~/~F8~ empezó a huir.      ~FC~#025
+;0000251F{Pero fue bloqueado.      ~FC~}#029#026
+Pero fue bloqueado.      ~FC~#026
+;00002539{~F8~ usa la Hierba.~FC~}#023#017
+~F8~ usa la Hierba.~FC~#017
+;0000254A{~60~/El ~F4~ duerme.    ~FC~}#028#019
+~60~/El ~F4~ duerme.    ~FC~#019
+;0000255D{~60~/¡El ~F4~ ataca!  ~FC~}#026#017
+~60~/¡El ~F4~ ataca!  ~FC~#017
+;0000256E{Tus PV bajan ~F5~.         ~FC~}#031#025
+Tus PV bajan ~F5~.         ~FC~#025
+;00002587{¡Fallo! ¡No se hace ningún daño!   ~FC~}#039#036
+¡Fallo! ¡No se hace ningún daño!   ~FC~#036
+;000025AB{~60~/~F4~~FC~}#013#004
+~60~/~F4~~FC~#004
+;000025AF{canta el hechizo de ~F6~.~FC~}#029#023
+canta el hechizo de ~F6~.~FC~#023
+;000025C6{Hechizo de ~F8~ parado. ~FC~}#028#022
+Hechizo de ~F8~ parado. ~FC~#022
+;000025DC{~60~/El ~F4~ rezuma fuego.      ~FC~}#036#027
+~60~/El ~F4~ rezuma fuego.      ~FC~#027
+;000025F7{`Si has recogido todos los Cofres, encontrarás una llave´~FB~/`Cuando se usa, la llave desaparece, pero la puerta se queda abierta y puedes pasar´                ~FC~}#166#160
+`Si has recogido todos los Cofres, encontrarás una llave´~FB~/`Cuando se usa, la llave desaparece, pero la puerta se queda abierta y puedes pasar´                ~FC~#160
+;00002697{`Al este del castillo hay una ciudad donde puedes comprar armas, armaduras y otros objetos´~FB~/`Vuelve a la Posada a descansar si te hieren en batalla, ~F8~´~FB~/`Dormir lo cura todo´~FC~}#188#176
+`Al este del castillo hay una ciudad donde puedes comprar armas, armaduras y otros objetos´~FB~/`Vuelve a la Posada a descansar si te hieren en batalla, ~F8~´~FB~/`Dormir lo cura todo´~FC~#176
+;00002747{`Descendiente de Erdrick, escucha mis palabras´~FB~/`Se dice que hace mucho Erdrick luchó contra demonios con una Bola de Luz´~FB~/`Entonces vino el Rey Dragón que robó el globo y lo escondió en la oscuridad´~FB~/`Ahora, ~F8~, debes ayudarnos a recuperar la Bola de Luz y restaurar la paz en la tierra´~FB~/`El Rey Dragón debe ser vencido´~FB~/`Coge ahora lo que puedas encontrar en estos Cofres para que te ayude en tu aventura´~FB~/`Habla con los guardas, tienen mucho conocimiento y podrían ayudarte´~FB~/`Que la luz brille en ti, ~F8~´             ~FC~}#556#526
+`Descendiente de Erdrick, escucha mis palabras´~FB~/`Se dice que hace mucho Erdrick luchó contra demonios con una Bola de Luz´~FB~/`Entonces vino el Rey Dragón que robó el globo y lo escondió en la oscuridad´~FB~/`Ahora, ~F8~, debes ayudarnos a recuperar la Bola de Luz y restaurar la paz en la tierra´~FB~/`El Rey Dragón debe ser vencido´~FB~/`Coge ahora lo que puedas encontrar en estos Cofres para que te ayude en tu aventura´~FB~/`Habla con los guardas, tienen mucho conocimiento y podrían ayudarte´~FB~/`Que la luz brille en ti, ~F8~´             ~FC~#526
+;00002955{~FB~La tabla dice lo siguiente:~FB~/~60~/ `Soy Erdrick y tu eres mi descendiente´~FB~/ `Hacen falta tres objetos para ir a la Isla de Dragones, que está al sur de Brecconary´~FB~/ `Junté estos objetos, alcancé la isla, y vencí allí a una criatura de gran maldad´~FB~/ `Ahora le he dado estos tres objetos a tres guardianes confiables´~FB~/ `Sus descendientes protegerán los objetos hasta que tu aventura te lleve a buscarlos´~FB~/ `Cuando surja un nuevo mal, encuentra los objetos, ¡y lucha!´  ~FC~}#498#471
+~FB~La tabla dice lo siguiente:~FB~/~60~/ `Soy Erdrick y tu eres mi descendiente´~FB~/ `Hacen falta tres objetos para ir a la Isla de Dragones, que está al sur de Brecconary´~FB~/ `Junté estos objetos, alcancé la isla, y vencí allí a una criatura de gran maldad´~FB~/ `Ahora le he dado estos tres objetos a tres guardianes confiables´~FB~/ `Sus descendientes protegerán los objetos hasta que tu aventura te lleve a buscarlos´~FB~/ `Cuando surja un nuevo mal, encuentra los objetos, ¡y lucha!´  ~FC~#471
+;00002B2C{¡Buen golpe!   ~FC~}#019#016
+¡Buen golpe!   ~FC~#016
+;00002B3C{`¿~F8~?/Aquí Gwaelin./Que sepas que has alcanzado el último nivel´~FB~  ~FC~}#076#067
+`¿~F8~?/Aquí Gwaelin./Que sepas que has alcanzado el último nivel´~FB~  ~FC~#067
+;00002B7F{Estás dormido.  ~FC~}#020#017
+Estás dormido.  ~FC~#017
+;00002B90{~60~/Aún estás dormido.    ~FC~}#031#025
+~60~/Aún estás dormido.    ~FC~#025
+;00002BA9{~60~/~F8~ levanta~FC~}#021#012
+~60~/~F8~ levanta~FC~#012
+;00002BB5{El ~F4~ se recuperó.    ~FC~}#028#022
+El ~F4~ se recuperó.    ~FC~#022
+;00002BCB{¡Esquivando!  ~FC~}#018#015
+¡Esquivando!  ~FC~#015
+;00002BDA{Aquí no hay puerta.   ~FC~}#026#023
+Aquí no hay puerta.   ~FC~#023
+;00002BF1{No tienes llave que usar.  ~FC~}#031#028
+No tienes llave que usar.  ~FC~#028
+;00002C0D{`La muerte no debió llevársete, ~F8~´~FB~/`Te daré otra oportunidad´~FB~          ~FC~}#086#074
+`La muerte no debió llevársete, ~F8~´~FB~/`Te daré otra oportunidad´~FB~          ~FC~#074
+;00002C57{Tu Poder aumenta ~F5~.      ~FC~}#032#026
+Tu Poder aumenta ~F5~.      ~FC~#026
+;00002C71{Tu Velocidad de Respuesta sube ~F5~. ~FC~}#041#035
+Tu Velocidad de Respuesta sube ~F5~. ~FC~#035
+;00002C94{~FB~ Tus PV Máximos suben ~F5~.        ~FC~}#043#034
+~FB~ Tus PV Máximos suben ~F5~.        ~FC~#034
+;00002CB6{~FB~ Tus PM Máximos suben ~F5~.          ~FC~}#045#036
+~FB~ Tus PM Máximos suben ~F5~.          ~FC~#036
+;00002CDA{`Para el siguiente nivel, debes conseguir ~F5~ puntos´~FB~          ~FC~}#072#063
+`Para el siguiente nivel, debes conseguir ~F5~ puntos´~FB~          ~FC~#063
+;00002D19{`¡Ve, ~F8~!´    ~FC~}#020#014
+`¡Ve, ~F8~!´    ~FC~#014
+;00002D27{`Has fallado y ahora estás maldito´~FB~/`¡Márchate!´       ~FC~}#063#057
+`Has fallado y ahora estás maldito´~FB~/`¡Márchate!´       ~FC~#057
+;00002D60{`~45~~45~´~FC~}#014#005
+`~45~~45~´~FC~#005
+;00002D65{`¿Si?´/   ~FC~}#014#011
+`¿Si?´/   ~FC~#011
+;00002D70{`Me alegra que hayas vuelto./Pusimos nuestras esperanzas en ti´~FB~ ~FC~}#072#066
+`Me alegra que hayas vuelto./Pusimos nuestras esperanzas en ti´~FB~ ~FC~#066
+;00002DB2{`Vuelve a verme cuando suba tu nivel´~FB~      ~FC~}#051#045
+`Vuelve a verme cuando suba tu nivel´~FB~      ~FC~#045
+;00002DDF{¡El Rey Dragón revela su forma real!  ~FC~}#042#039
+¡El Rey Dragón revela su forma real!  ~FC~#039
+;00002E06{~FB~Has encontrado la Bola de Luz.~FB~/Irradia resplandor mientras tus manos tocan el objeto y lo sostienen.~FB~/Por toda la tierra se esparce el brillo hasta que se desvanecen todas las sombras y vuelve paz.   ~FC~}#215#203
+~FB~Has encontrado la Bola de Luz.~FB~/Irradia resplandor mientras tus manos tocan el objeto y lo sostienen.~FB~/Por toda la tierra se esparce el brillo hasta que se desvanecen todas las sombras y vuelve paz.   ~FC~#203
+;00002ED1{`La leyenda ha sido probada´~FB~/`Estas de verdad en la línea de Erdrick´~FB~/`Es tu derecho gobernar esta tierra´~FB~/`¿Tomarás mi lugar?´~FB~/~F8~ se lo piensa profundamente antes de responder.~FB~/`No puedo,´/dijo ~F8~.~FB~/`Si alguna vez gobierno un país, debe ser una tierra que encuentre yo´ ~FC~}#302#275
+`La leyenda ha sido probada´~FB~/`Estas de verdad en la línea de Erdrick´~FB~/`Es tu derecho gobernar esta tierra´~FB~/`¿Tomarás mi lugar?´~FB~/~F8~ se lo piensa profundamente antes de responder.~FB~/`No puedo,´/dijo ~F8~.~FB~/`Si alguna vez gobierno un país, debe ser una tierra que encuentre yo´ ~FC~#275
+;00002FE4{~FB~Gwaelin dijo:/`Espera´/      ~FC~}#037#031
+~FB~Gwaelin dijo:/`Espera´/      ~FC~#031
+;00003003{`Me gustaría ir contigo de aventuras´~FB~  ~FC~}#047#041
+`Me gustaría ir contigo de aventuras´~FB~  ~FC~#041
+;0000302C{`¿Puedo ser tu acompañante?´/    ~FC~}#037#034
+`¿Puedo ser tu acompañante?´/    ~FC~#034
+;0000304E{`¡Hurra!/¡Hurra!/¡Viva ~F8~!´/    ~FC~}#038#032
+`¡Hurra!/¡Hurra!/¡Viva ~F8~!´/    ~FC~#032
+;0000306E{`Nos has traído la paz, de nuevo´  ~FC~}#039#036
+`Nos has traído la paz, de nuevo´  ~FC~#036
+;00003092{`Ven, el Rey Lorik espera´   ~FC~}#033#030
+`Ven, el Rey Lorik espera´   ~FC~#030
+;000030B0{~FB~/~60~/~60~/~60~/~60~/~60~/~60~/Y así termina la historia si no  ~45~~45~/vuelven los dragones.           /~60~/~60~/~60~/~FC~}#129#090
+~FB~/~60~/~60~/~60~/~60~/~60~/~60~/Y así termina la historia si no  ~45~~45~/vuelven los dragones.           /~60~/~60~/~60~/~FC~#090
+;0000310A{`¿Me contará sus hazañas para que no sean olvidadas?´/           ~FC~}#069#066
+`¿Me contará sus hazañas para que no sean olvidadas?´/           ~FC~#066
+;0000314C{`Sus hazañas han sido guardadas en el Pergamino Imperial´~FB~      ~FC~}#071#065
+`Sus hazañas han sido guardadas en el Pergamino Imperial´~FB~      ~FC~#065
+;0000318D{`¿Quiere continuar la aventura?´/       ~FC~}#044#041
+`¿Quiere continuar la aventura?´/       ~FC~#041
+;000031B6{`Descanse un rato´~FB~    ~FC~}#030#024
+`Descanse un rato´~FB~    ~FC~#024
+;000031CE{`Ve ~F8~!´~FC~}#014#008
+`Ve ~F8~!´~FC~#008
+;000031D6{Por favor pulse RESET, manténgalo, entonces apague POWER.~FB~/Si apaga primero, el Pergamino Imperial del Honor que contiene sus hazañas se podría perder.  /~60~/~60~/~FC~}#171#159
+Por favor pulse RESET, manténgalo, entonces apague POWER.~FB~/Si apaga primero, el Pergamino Imperial del Honor que contiene sus hazañas se podría perder.  /~60~/~60~/~FC~#159
+;00003275{Sin embargo, NO había hazañas guardadas en el Pergamino número ~F5~. ~FB~~FC~}#077#068
+Sin embargo, NO había hazañas guardadas en el Pergamino número ~F5~. ~FB~~FC~#068
+|12985

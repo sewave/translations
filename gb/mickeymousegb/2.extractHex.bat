@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Mickey Mouse (UE) [!].gb"
+set SCRIPTNAME="mickeymousegb"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex DD9E:10,C3BE:10,D2AE:30,8410:20,8510:20,8C10:20,8D10:20,9410:20,9510:20,9C10:20,9D10:20,A410:20,A510:20,AC10:20,AD10:20,B410:20,B510:20,1A43F:60,1A53F:60
+pause

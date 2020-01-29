@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Adventure Island II (UE) [!].gb"
+set SCRIPTNAME="adventureislandiigb"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 2C0CA:20,2C88A:10,2C99A:10,2EBAA:200,362AA:180,3656A:80,3757A:100,3790A:280,3B9AA:A0,3F97A:80,3FC1A:80,108A2:10,10972:30,10AA2:20,10C82:10
+pause

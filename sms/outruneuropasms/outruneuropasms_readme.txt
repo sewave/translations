@@ -1,5 +1,5 @@
 OutRun Europa (Master System)
-Traducción al Español v1.0 (18/12/2018)
+Traducción al Español v1.1 (28/02/2020)
 (C) 2018 Traducciones Wave
 
 ------------------------
@@ -8,6 +8,11 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+V1.1: 
+-Arreglada fase de las motos
+-Añadida traducción de gráficos de BONUS y HURRY UP
+-Pequeños arreglos en el resto del texto
 
 ------------------------
 Instrucciones de Parcheo

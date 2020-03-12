@@ -1,0 +1,923 @@
+@003F8446-003F88CB-FE
+;003F8446{/~01~LARA=/\.....or what?=/\ =/~01~JANE=/\You will die!=/\You must find Pino Lamor.=/\He is an old shaman who=/\lives in a disused part=/\of the subway, somewhere=/\under the old Bergen=/\Street line.=~FE~}#205#196
+/~01~LARA=/\.....¿o qué?=/\ =
+/~01~JANE=/\¡Morirás!=/\Debes hallar a Pino Lamor.=/\Es un viejo chamán que=/\vive en una parte sin uso=/\del metro, bajo la vieja=/\línea de la Calle=/\Bergen.=/\        =~FE~#196
+;003F850A{/~01~LARA=/\Why does he live there?=/\ =/~01~JANE=/\He was part of the=/\movement dedicated to=/\destroying the Bokor.=/\He lives in hiding but=/\he will help you, once=/\he sees you are marked.=~FE~}#199#190
+/~01~LARA=/\¿Por qué vive aquí?=/\ =/\ =
+/~01~JANE=/\Era parte del=/\movimiento dedicado a=/\destruir a los Bokor.=/\
+Vive oculto pero te=/\ayudará. una vez vea que=/\estás marcada.=/\            =~FE~#190
+;003F85C8{/~01~JANE=/\Go as quick as you can,=/\they will be after you!=/\Good luck.=~FE~}#079#073
+/~01~JANE=/\Ve tan rápido como puedas,=/\¡vendrán a por ti!=/\Suerte.=/\  =~FE~#073
+;003F8611{/~01~PINO=/\Glad to see you made=/\it Ms.Croft.=/\Jane sent word=/\that you were coming.=~FE~}#093#087
+/~01~PINO=/\Me alegra verla aquí,=/\ Srta.Croft. =/\
+Jane me dijo que=/\venías para aquí.=~FE~#087
+;003F8668{/~01~LARA=/\Mr. Lamor, what were=/\those creatures=/\back there?=/\Were they the Bokor?=~FE~}#092#086
+/~01~LARA=/\Sr. Lamor, ¿qué eran=/\esas criaturas=/\de ahí?=/\
+¿Eran los Bokor?=/\      =~FE~#086
+;003F86BE{/~01~PINO=/\Those creatures were=/\zombies. The sword can=/\be used to raise=/\the dead.=/\It seems the Bokor are=/\trying to restore their=/\leader, Paveaux.=/\Because you have been=/\marked they will try=/\to use your body=/\as a vessel!=~FE~}#244#238
+/~01~PINO=/\Esas criaturas eran=/\zombis. La espada puede=/\ser usada para=/\levantar a los muertos.=/\
+Parece que los Bokor=/\intentan devolver a su=/\líder, Paveaux.=/\
+¡Como fuiste marcada=/\intentarán usar tu=/\cuerpo como recipiente!=/\=~FE~#238
+;003F87AC{/~01~PINO=/\I have discovered that=/\they have warehouses at=/\the harbor. If you can=/\find out where they are=/\going, we can get=/\the sword.=~FE~}#149#143
+/~01~PINO=/\He descubierto que=/\tienen varios almacenes=/\en el puerto. Si puedes=/\hallar adónde van,=/\podemos recuperar=/\la espada.=/\     =~FE~#143
+;003F883B{/~01~PINO=/\I do not have any=/\equipment here!=/\You will need to infiltrate=/\the warehouses and use=/\theirs. This train=/\will take you there.=~FE~}#151#145
+/~01~PINO=/\¡Aquí no tengo mi=/\equipo!=/\
+Tendrás que infiltrarte en=/\los almacenes y usar el=/\suyo. Este tren te=/\llevará allí.=/\            =~FE~#145
+|1158
+@003F88CC-003F8D09-FE
+;003F88CC{/~01~PINO=/\I will start the power=/\for the train. Once=/\I throw this switch=/\you can only stop the=/\train in the front=/\carriage.=/\Hurry! You will not=/\have much time!=~FE~}#180#174
+/~01~PINO=/\Le daré corriente al=/\tren. Cuando tire de este=/\interruptor solo podrás=/\parar el tren del vagón=/\delantero.=/\
+¡Date prisa! ¡No tendrás=/\mucho tiempo!=/\    =~FE~#174
+;003F897A{/~01~LARA=/\I will Pino, and thanks!=~FE~}#041#035
+/~01~LARA=/\¡Lo haré Pino y gracias!=~FE~#035
+;003F899D{/~01~LARA=/\The Helicopter!=/\ =/\So they ARE going=/\to travel by sea!=/\I must find some way=/\of tracking the boat.=/\ =~FE~}#127#121
+/~01~LARA=/\¡El Helicóptero!=/\ =/\¡Así que VAN a viajar=/\por mar!=/\
+Debo hallar una forma=/\de seguir la barca..=/\     =~FE~#121
+;003F8A16{/~02~Teterboro Airport=~FE~}#027#021
+/~02~Aeropue.Teterboro=~FE~#021
+;003F8A2B{/~01~JANE=/\Well done Lara.=/\The bug you placed=/\on the ship worked!=/\Now we know where=/\their base is located.=~FE~}#120#114
+/~01~JANE=/\Bien hecho Lara.=/\¡El transmisor que=/\pusiste funcionó!=/\
+Ahora sabemos donde=/\está su base.=/\     =~FE~#114
+;003F8A9D{/~01~JANE=/\We traced them to a=/\small group of islands=/\in the Caribbean,=/\called the Backlin Islands.=~FE~}#111#105
+/~01~JANE=/\Les rastreamos a un=/\pequeño grupo de islas=/\en el Caribe,=/\
+llamadas las Islas Backlin.=/\ =~FE~#105
+;003F8B06{/~01~JANE=/\It was once a prison=/\island, and has many=/\old caves and traps.=/\Be careful Lara!=~FE~}#102#096
+/~01~JANE=/\Antes era una isla=/\cárcel, tiene varias=/\cuevas viejas y trampas.=/\
+¡Cuidado Lara!=~FE~#096
+;003F8B66{/~01~INTRUDER ALERT!=~FE~}#025#019
+/~01~¡INTRUSOS!=/\  =~FE~#019
+;003F8B79{/~01~LARA=/\What the ..... ?=~FE~}#033#027
+/~01~LARA=/\¿Pero qué.....? =~FE~#027
+;003F8B94{/~01~LARA=/\So much for the=/\element of surprise!=~FE~}#055#049
+/~01~LARA=/\¡Se acabó el elemento=/\sorpresa!=/\  =~FE~#049
+;003F8BC5{/\Aaaarrrgghhh!!=~FE~}#021#018
+/\¡¡Aaarrrgghh!!=~FE~#018
+;003F8BD7{/~01~LARA=/\At last. I am free=/\of the curse!=~FE~}#051#045
+/~01~LARA=/\Al fin, ¡Libre de=/\la maldición! =~FE~#045
+;003F8C04{/~01~LARA=/\I must make sure this=/\can never happen again.=~FE~}#064#058
+/~01~LARA=/\Debo asegurarme de que=/\esto no pase de nuevo.=~FE~#058
+;003F8C3E{/~02~TWO DAYS LATER...=~FE~}#027#021
+/~02~DOS DÍAS...=/\   =~FE~#021
+;003F8C53{/~01~JANE=/\Lara! You're back!=/\Is everything okay?=~FE~}#057#051
+/~01~JANE=/\¡Lara! ¡Volviste!=/\¿Está todo bien?=/\ =~FE~#051
+;003F8C86{/~01~LARA=/\Everything's fine.=/\The cult is finished.=~FE~}#059#053
+/~01~LARA=/\Todo está bien.=/\ El culto está acabado. =~FE~#053
+;003F8CBB{/~01~JANE=/\But what about the=/\sword? Can it still be=/\used to raise Paveaux?=~FE~}#085#079
+/~01~JANE=/\¿Qué hay de la espada?=/\¿Aún puede usarse para=/\
+liberar a Paveaux?=~FE~#079
+|1086
+@003F8D0A-003F8D39-FE
+;003F8D0A{/~01~LARA=/\Don't worry!=/\I've taken care of it.=~FE~}#054#048
+/~01~LARA=/\¡Tranquila!=/\Me he ocupado de ella. =~FE~#048
+|48
+@0000D60D-0000D66D-FE
+;0000D60D{Tomb Raider==/Curse Of The Sword==/This software is intended=/for use with the=/Game Boy Color.=~FE~}#100#097
+Tomb Raider==/La Espada Maldita ==/
+Este software se destinó =/
+para usarse en  =/
+Game Boy Color.=~FE~#097
+|97
+@0000D66E-0000D681-FF
+;0000D66E{Overwrite savegame?=}#020#020
+¿Escribir en juego?=#020
+|20
+@0000D6D4-0000D6DD-FF
+;0000D6D4{Yes    No=}#010#010
+Sí     No=#010
+|10
+@0000D712-0000D829-FF
+;0000D712{Museo ~FF~}#010#007
+Museo ~FF~#007
+;0000D719{Museo ~FF~}#010#007
+Museo ~FF~#007
+;0000D720{Museo ~FF~}#010#007
+Museo ~FF~#007
+;0000D727{Museo ~FF~}#010#007
+Museo ~FF~#007
+;0000D72E{Museo ~FF~}#010#007
+Museo ~FF~#007
+;0000D735{Tejados ~FF~}#012#009
+Tejados ~FF~#009
+;0000D73E{Tejados ~FF~}#012#009
+Tejados ~FF~#009
+;0000D747{Tejados ~FF~}#012#009
+Tejados ~FF~#009
+;0000D750{Tejados ~FF~}#012#009
+Tejados ~FF~#009
+;0000D759{Tejados ~FF~}#012#009
+Tejados ~FF~#009
+;0000D762{Metro ~FF~}#010#007
+Metro ~FF~#007
+;0000D769{Metro ~FF~}#010#007
+Metro ~FF~#007
+;0000D770{Metro ~FF~}#010#007
+Metro ~FF~#007
+;0000D777{Metro ~FF~}#010#007
+Metro ~FF~#007
+;0000D77E{Metro ~FF~}#010#007
+Metro ~FF~#007
+;0000D785{Tren descont.~FF~}#017#014
+Tren descont.~FF~#014
+;0000D793{Tren descont.~FF~}#017#014
+Tren descont.~FF~#014
+;0000D7A1{Tren descont.~FF~}#017#014
+Tren descont.~FF~#014
+;0000D7AF{Tren descont.~FF~}#017#014
+Tren descont.~FF~#014
+;0000D7BD{Tren descont.~FF~}#017#014
+Tren descont.~FF~#014
+;0000D7CB{Muel.~FF~}#009#006
+Muel.~FF~#006
+;0000D7D1{Muel.~FF~}#009#006
+Muel.~FF~#006
+;0000D7D7{Muel.~FF~}#009#006
+Muel.~FF~#006
+;0000D7DD{Muel.~FF~}#009#006
+Muel.~FF~#006
+;0000D7E3{Muel.~FF~}#009#006
+Muel.~FF~#006
+;0000D7E9{Jungla~FF~}#010#007
+Jungla~FF~#007
+;0000D7F0{Jungla~FF~}#010#007
+Jungla~FF~#007
+;0000D7F7{Jungla~FF~}#010#007
+Jungla~FF~#007
+;0000D7FE{Jungla~FF~}#010#007
+Jungla~FF~#007
+;0000D805{Jungla~FF~}#010#007
+Jungla~FF~#007
+;0000D80C{Caves~FF~}#009#006
+Cueva~FF~#006
+;0000D812{Caves~FF~}#009#006
+Cueva~FF~#006
+;0000D818{Caves~FF~}#009#006
+Cueva~FF~#006
+;0000D81E{Caves~FF~}#009#006
+Cueva~FF~#006
+;0000D824{Caves~FF~}#009#006
+Cueva~FF~#006
+|280
+@00028F4D-00029353-FF
+;00028F4D{Large Medipak~FF~}#017#014
+Gran Medipak ~FF~#014
+;00028F5B{Grand Medipak~FF~}#017#014
+Grand Medipak~FF~#014
+;00028F69{Gro~E1~e Medipak~FF~}#020#014
+Gro~E1~e Medipak~FF~#014
+;00028F77{Medikit grande~FF~}#018#015
+Medikit grande~FF~#015
+;00028F86{Medipak Grande~FF~}#018#015
+Medipak Grande~FF~#015
+;00028F95{Large Medipaks~FF~}#018#015
+Medipaks Gran.~FF~#015
+;00028FA4{Grand Medipaks~FF~}#018#015
+Grand Medipaks~FF~#015
+;00028FB3{Gro~E1~e Medipaks~FF~}#021#015
+Gro~E1~e Medipaks~FF~#015
+;00028FC2{Medikit grandi~FF~}#018#015
+Medikit grandi~FF~#015
+;00028FD1{Medipaks Grandes~FF~}#020#017
+Medipaks Grandes~FF~#017
+;00028FE2{Small Medipak~FF~}#017#014
+Medipak Pequ.~FF~#014
+;00028FF0{petits Medipak~FF~}#018#015
+petits Medipak~FF~#015
+;00028FFF{Kleines Medipak~FF~}#019#016
+Kleines Medipak~FF~#016
+;0002900F{Medikit piccolo~FF~}#019#016
+Medikit piccolo~FF~#016
+;0002901F{Medipak Pequeño~FF~}#019#016
+Medipak Pequeño~FF~#016
+;0002902F{Small Medipaks~FF~}#018#015
+Medipaks Pequ.~FF~#015
+;0002903E{Petits Medipaks~FF~}#019#016
+Petits Medipaks~FF~#016
+;0002904E{Kleine Medipak~FF~}#018#015
+Kleine Medipak~FF~#015
+;0002905D{Medikit piccoli~FF~}#019#016
+Medikit piccoli~FF~#016
+;0002906D{Medipaks Pequeños~FF~}#021#018
+Medipaks Pequeños~FF~#018
+;0002907F{Door Key~FF~}#012#009
+L.Puerta~FF~#009
+;00029088{Clé~FF~}#007#004
+Clé~FF~#004
+;0002908C{Türschlüssel~FF~}#016#013
+Türschlüssel~FF~#013
+;00029099{Chiave~FF~}#010#007
+Chiave~FF~#007
+;000290A0{Llave de Puerta~FF~}#019#016
+Llave de Puerta~FF~#016
+;000290B0{Door Keys~FF~}#013#010
+Ls.Puerta~FF~#010
+;000290BA{Clés~FF~}#008#005
+Clés~FF~#005
+;000290BF{Türschlüssel~FF~}#016#013
+Türschlüssel~FF~#013
+;000290CC{Chiavi~FF~}#010#007
+Chiavi~FF~#007
+;000290D3{Llaves de Puertas~FF~}#021#018
+Llaves de Puertas~FF~#018
+;000290E5{LlaveIncendio~FF~}#017#014
+LlaveIncendio~FF~#014
+;000290F3{LlaveIncendio~FF~}#017#014
+LlaveIncendio~FF~#014
+;00029101{LlaveIncendio~FF~}#017#014
+LlaveIncendio~FF~#014
+;0002910F{LlaveIncendio~FF~}#017#014
+LlaveIncendio~FF~#014
+;0002911D{Llave Genera.~FF~}#017#014
+Llave Genera.~FF~#014
+;0002912B{Llave Genera.~FF~}#017#014
+Llave Genera.~FF~#014
+;00029139{Llave Genera.~FF~}#017#014
+Llave Genera.~FF~#014
+;00029147{Llave Genera.~FF~}#017#014
+Llave Genera.~FF~#014
+;00029155{Llave Genera.~FF~}#017#014
+Llave Genera.~FF~#014
+;00029163{Lla.Planta Química~FF~}#022#019
+Lla.Planta Química~FF~#019
+;00029176{Lla.Planta Química~FF~}#022#019
+Lla.Planta Química~FF~#019
+;00029189{Lla.Planta Química~FF~}#022#019
+Lla.Planta Química~FF~#019
+;0002919C{Lla.Planta Química~FF~}#022#019
+Lla.Planta Química~FF~#019
+;000291AF{Lla.Planta Química~FF~}#022#019
+Lla.Planta Química~FF~#019
+;000291C2{Llave Muelle~FF~}#016#013
+Llave Muelle~FF~#013
+;000291CF{Llave Muelle~FF~}#016#013
+Llave Muelle~FF~#013
+;000291DC{Llave Muelle~FF~}#016#013
+Llave Muelle~FF~#013
+;000291E9{Llave Muelle~FF~}#016#013
+Llave Muelle~FF~#013
+;000291F6{Llave Muelle~FF~}#016#013
+Llave Muelle~FF~#013
+;00029203{Arma Norm.~FF~}#014#011
+Arma Norm.~FF~#011
+;0002920E{Arma Norm.~FF~}#014#011
+Arma Norm.~FF~#011
+;00029219{Arma Norm.~FF~}#014#011
+Arma Norm.~FF~#011
+;00029224{Arma Norm.~FF~}#014#011
+Arma Norm.~FF~#011
+;0002922F{Arma Norm.~FF~}#014#011
+Arma Norm.~FF~#011
+;0002923A{Rapid Bullets~FF~}#017#014
+Balas Rápidas~FF~#014
+;00029248{Balles de Vélocité~FF~}#022#019
+Balles de Vélocité~FF~#019
+;0002925B{Schnellgescho~E1~~FF~}#021#015
+Schnellgescho~E1~~FF~#015
+;0002926A{Proittile veloce~FF~}#020#017
+Proittile veloce~FF~#017
+;0002927B{Bala Rápida~FF~}#015#012
+Bala Rápida~FF~#012
+;00029287{Shotgun Rounds~FF~}#018#015
+Cartuchos Esc.~FF~#015
+;00029296{Balles Explosives~FF~}#021#018
+Balles Explosives~FF~#018
+;000292A8{Schweres Gescho~E1~~FF~}#023#017
+Schweres Gescho~E1~~FF~#017
+;000292B9{Proittile pesante~FF~}#021#018
+Proittile pesante~FF~#018
+;000292CB{Bala Poderosa~FF~}#017#014
+Bala Poderosa~FF~#014
+;000292D9{Cart. Dinamita~FF~}#018#015
+Cart. Dinamita~FF~#015
+;000292E8{Cart. Dinamita~FF~}#018#015
+Cart. Dinamita~FF~#015
+;000292F7{Cart. Dinamita~FF~}#018#015
+Cart. Dinamita~FF~#015
+;00029306{Cart. Dinamita~FF~}#018#015
+Cart. Dinamita~FF~#015
+;00029315{Cart. Dinamita~FF~}#018#015
+Cart. Dinamita~FF~#015
+;00029324{Carts. Dinamita~FF~}#019#016
+Carts. Dinamita~FF~#016
+;00029334{Carts. Dinamita~FF~}#019#016
+Carts. Dinamita~FF~#016
+;00029344{Carts. Dinamita~FF~}#019#016
+Carts. Dinamita~FF~#016
+|1031
+@00029354-0002975D-FF
+;00029354{Carts. Dinamita~FF~}#019#016
+Carts. Dinamita~FF~#016
+;00029364{Carts. Dinamita~FF~}#019#016
+Carts. Dinamita~FF~#016
+;00029374{Batería~FF~}#011#008
+Batería~FF~#008
+;0002937C{Batería~FF~}#011#008
+Batería~FF~#008
+;00029384{Batería~FF~}#011#008
+Batería~FF~#008
+;0002938C{Batería~FF~}#011#008
+Batería~FF~#008
+;00029394{Batería~FF~}#011#008
+Batería~FF~#008
+;0002939C{Baterías ~FF~}#013#010
+Baterías ~FF~#010
+;000293A6{Baterías ~FF~}#013#010
+Baterías ~FF~#010
+;000293B0{Baterías ~FF~}#013#010
+Baterías ~FF~#010
+;000293BA{Baterías ~FF~}#013#010
+Baterías ~FF~#010
+;000293C4{Baterías ~FF~}#013#010
+Baterías ~FF~#010
+;000293CE{Fuse~FF~}#008#005
+Fusi~FF~#005
+;000293D3{Fuse~FF~}#008#005
+Fusi~FF~#005
+;000293D8{Fuse~FF~}#008#005
+Fusi~FF~#005
+;000293DD{Fuse~FF~}#008#005
+Fusi~FF~#005
+;000293E2{Fuse~FF~}#008#005
+Fusi~FF~#005
+;000293E7{Fuses~FF~}#009#006
+Fusis~FF~#006
+;000293ED{Fuses~FF~}#009#006
+Fusis~FF~#006
+;000293F3{Fuses~FF~}#009#006
+Fusis~FF~#006
+;000293F9{Fuses~FF~}#009#006
+Fusis~FF~#006
+;000293FF{Fuses~FF~}#009#006
+Fusis~FF~#006
+;00029405{Un Dólar~FF~}#012#009
+Un Dólar~FF~#009
+;0002940E{Un Dólar~FF~}#012#009
+Un Dólar~FF~#009
+;00029417{Un Dólar~FF~}#012#009
+Un Dólar~FF~#009
+;00029420{Un Dólar~FF~}#012#009
+Un Dólar~FF~#009
+;00029429{Un Dólar~FF~}#012#009
+Un Dólar~FF~#009
+;00029432{Dólares~FF~}#011#008
+Dólares~FF~#008
+;0002943A{Dólares~FF~}#011#008
+Dólares~FF~#008
+;00029442{Dólares~FF~}#011#008
+Dólares~FF~#008
+;0002944A{Dólares~FF~}#011#008
+Dólares~FF~#008
+;00029452{Dólares~FF~}#011#008
+Dólares~FF~#008
+;0002945A{Válvula V~FF~}#013#010
+Válvula V~FF~#010
+;00029464{Válvula V~FF~}#013#010
+Válvula V~FF~#010
+;0002946E{Válvula V~FF~}#013#010
+Válvula V~FF~#010
+;00029478{Válvula V~FF~}#013#010
+Válvula V~FF~#010
+;00029482{Válvula V~FF~}#013#010
+Válvula V~FF~#010
+;0002948C{Válvula Vs~FF~}#014#011
+Válvula Vs~FF~#011
+;00029497{Válvula Vs~FF~}#014#011
+Válvula Vs~FF~#011
+;000294A2{Válvula Vs~FF~}#014#011
+Válvula Vs~FF~#011
+;000294AD{Válvula Vs~FF~}#014#011
+Válvula Vs~FF~#011
+;000294B8{Válvula Vs~FF~}#014#011
+Válvula Vs~FF~#011
+;000294C3{Bola Cañón ~FF~}#015#012
+Bola Cañón ~FF~#012
+;000294CF{Bola Cañón ~FF~}#015#012
+Bola Cañón ~FF~#012
+;000294DB{Bola Cañón ~FF~}#015#012
+Bola Cañón ~FF~#012
+;000294E7{Bola Cañón ~FF~}#015#012
+Bola Cañón ~FF~#012
+;000294F3{Bola Cañón ~FF~}#015#012
+Bola Cañón ~FF~#012
+;000294FF{Bolas Cañón ~FF~}#016#013
+Bolas Cañón ~FF~#013
+;0002950C{Bolas Cañón ~FF~}#016#013
+Bolas Cañón ~FF~#013
+;00029519{Bolas Cañón ~FF~}#016#013
+Bolas Cañón ~FF~#013
+;00029526{Bolas Cañón ~FF~}#016#013
+Bolas Cañón ~FF~#013
+;00029533{Bolas Cañón ~FF~}#016#013
+Bolas Cañón ~FF~#013
+;00029540{Tarjeta ~FF~}#012#009
+Tarjeta ~FF~#009
+;00029549{Tarjeta ~FF~}#012#009
+Tarjeta ~FF~#009
+;00029552{Tarjeta ~FF~}#012#009
+Tarjeta ~FF~#009
+;0002955B{Tarjeta ~FF~}#012#009
+Tarjeta ~FF~#009
+;00029564{Tarjeta ~FF~}#012#009
+Tarjeta ~FF~#009
+;0002956D{Tarjetas ~FF~}#013#010
+Tarjetas ~FF~#010
+;00029577{Tarjetas ~FF~}#013#010
+Tarjetas ~FF~#010
+;00029581{Tarjetas ~FF~}#013#010
+Tarjetas ~FF~#010
+;0002958B{Tarjetas ~FF~}#013#010
+Tarjetas ~FF~#010
+;00029595{Tarjetas ~FF~}#013#010
+Tarjetas ~FF~#010
+;0002959F{Batería Vacía~FF~}#017#014
+Batería Vacía~FF~#014
+;000295AD{Batería Vacía~FF~}#017#014
+Batería Vacía~FF~#014
+;000295BB{Batería Vacía~FF~}#017#014
+Batería Vacía~FF~#014
+;000295C9{Batería Vacía~FF~}#017#014
+Batería Vacía~FF~#014
+;000295D7{Batería Vacía~FF~}#017#014
+Batería Vacía~FF~#014
+;000295E5{Baterías Vacías~FF~}#019#016
+Baterías Vacías~FF~#016
+;000295F5{Baterías Vacías~FF~}#019#016
+Baterías Vacías~FF~#016
+;00029605{Baterías Vacías~FF~}#019#016
+Baterías Vacías~FF~#016
+;00029615{Baterías Vacías~FF~}#019#016
+Baterías Vacías~FF~#016
+;00029625{Baterías Vacías~FF~}#019#016
+Baterías Vacías~FF~#016
+;00029635{Batería Cargada~FF~}#019#016
+Batería Cargada~FF~#016
+;00029645{Batería Cargada~FF~}#019#016
+Batería Cargada~FF~#016
+;00029655{Batería Cargada~FF~}#019#016
+Batería Cargada~FF~#016
+;00029665{Batería Cargada~FF~}#019#016
+Batería Cargada~FF~#016
+;00029675{Batería Cargada~FF~}#019#016
+Batería Cargada~FF~#016
+;00029685{Baterías Cargadas~FF~}#021#018
+Baterías Cargadas~FF~#018
+;00029697{Baterías Cargadas~FF~}#021#018
+Baterías Cargadas~FF~#018
+;000296A9{Baterías Cargadas~FF~}#021#018
+Baterías Cargadas~FF~#018
+;000296BB{Baterías Cargadas~FF~}#021#018
+Baterías Cargadas~FF~#018
+;000296CD{Baterías Cargadas~FF~}#021#018
+Baterías Cargadas~FF~#018
+;000296DF{Escudo Antiguo~FF~}#018#015
+Escudo Antiguo~FF~#015
+;000296EE{Escudo Antiguo~FF~}#018#015
+Escudo Antiguo~FF~#015
+;000296FD{Escudo Antiguo~FF~}#018#015
+Escudo Antiguo~FF~#015
+;0002970C{Escudo Antiguo~FF~}#018#015
+Escudo Antiguo~FF~#015
+;0002971B{Escudo Antiguo~FF~}#018#015
+Escudo Antiguo~FF~#015
+;0002972A{Boleto Tren ~FF~}#016#013
+Boleto Tren ~FF~#013
+;00029737{Boleto Tren ~FF~}#016#013
+Boleto Tren ~FF~#013
+;00029744{Boleto Tren ~FF~}#016#013
+Boleto Tren ~FF~#013
+;00029751{Boleto Tren ~FF~}#016#013
+Boleto Tren ~FF~#013
+|1034
+@0002975E-00029B6B-FF
+;0002975E{Boleto Tren ~FF~}#016#013
+Boleto Tren ~FF~#013
+;0002976B{PaseSeguridad~FF~}#017#014
+PaseSeguridad~FF~#014
+;00029779{PaseSeguridad~FF~}#017#014
+PaseSeguridad~FF~#014
+;00029787{PaseSeguridad~FF~}#017#014
+PaseSeguridad~FF~#014
+;00029795{PaseSeguridad~FF~}#017#014
+PaseSeguridad~FF~#014
+;000297A3{PaseSeguridad~FF~}#017#014
+PaseSeguridad~FF~#014
+;000297B1{Palanca ~FF~}#012#009
+Palanca ~FF~#009
+;000297BA{Palanca ~FF~}#012#009
+Palanca ~FF~#009
+;000297C3{Palanca ~FF~}#012#009
+Palanca ~FF~#009
+;000297CC{Palanca ~FF~}#012#009
+Palanca ~FF~#009
+;000297D5{Palanca ~FF~}#012#009
+Palanca ~FF~#009
+;000297DE{LataComb~FF~}#012#009
+LataComb~FF~#009
+;000297E7{LataComb~FF~}#012#009
+LataComb~FF~#009
+;000297F0{LataComb~FF~}#012#009
+LataComb~FF~#009
+;000297F9{LataComb~FF~}#012#009
+LataComb~FF~#009
+;00029802{LataComb~FF~}#012#009
+LataComb~FF~#009
+;0002980B{PalancaTren~FF~}#015#012
+PalancaTren~FF~#012
+;00029817{PalancaTren~FF~}#015#012
+PalancaTren~FF~#012
+;00029823{PalancaTren~FF~}#015#012
+PalancaTren~FF~#012
+;0002982F{PalancaTren~FF~}#015#012
+PalancaTren~FF~#012
+;0002983B{PalancaTren~FF~}#015#012
+PalancaTren~FF~#012
+;00029847{ Código Asegurado ~FF~}#022#019
+ Código Asegurado ~FF~#019
+;0002985A{ Código Asegurado ~FF~}#022#019
+ Código Asegurado ~FF~#019
+;0002986D{ Código Asegurado ~FF~}#022#019
+ Código Asegurado ~FF~#019
+;00029880{ Código Asegurado ~FF~}#022#019
+ Código Asegurado ~FF~#019
+;00029893{ Código Asegurado ~FF~}#022#019
+ Código Asegurado ~FF~#019
+;000298A6{ ~FF~}#005#002
+ ~FF~#002
+;000298A8{ ~FF~}#005#002
+ ~FF~#002
+;000298AA{ ~FF~}#005#002
+ ~FF~#002
+;000298AC{ ~FF~}#005#002
+ ~FF~#002
+;000298AE{ ~FF~}#005#002
+ ~FF~#002
+;000298B0{Puerta Cerrada~FF~}#018#015
+Puerta Cerrada~FF~#015
+;000298BF{Puerta Cerrada~FF~}#018#015
+Puerta Cerrada~FF~#015
+;000298CE{Puerta Cerrada~FF~}#018#015
+Puerta Cerrada~FF~#015
+;000298DD{Puerta Cerrada~FF~}#018#015
+Puerta Cerrada~FF~#015
+;000298EC{Puerta Cerrada~FF~}#018#015
+Puerta Cerrada~FF~#015
+;000298FB{ Ascensor No Va ~FF~}#020#017
+ Ascensor No Va ~FF~#017
+;0002990C{ Ascensor No Va ~FF~}#020#017
+ Ascensor No Va ~FF~#017
+;0002991D{ Ascensor No Va ~FF~}#020#017
+ Ascensor No Va ~FF~#017
+;0002992E{ Ascensor No Va ~FF~}#020#017
+ Ascensor No Va ~FF~#017
+;0002993F{ Ascensor No Va ~FF~}#020#017
+ Ascensor No Va ~FF~#017
+;00029950{ Oyes Puerta Abrirse ~FF~}#025#022
+ Oyes Puerta Abrirse ~FF~#022
+;00029966{ Oyes Puerta Abrirse ~FF~}#025#022
+ Oyes Puerta Abrirse ~FF~#022
+;0002997C{ Oyes Puerta Abrirse ~FF~}#025#022
+ Oyes Puerta Abrirse ~FF~#022
+;00029992{ Oyes Puerta Abrirse ~FF~}#025#022
+ Oyes Puerta Abrirse ~FF~#022
+;000299A8{ Oyes Puerta Abrirse ~FF~}#025#022
+ Oyes Puerta Abrirse ~FF~#022
+;000299BE{Neces.Bolas Cañón~FF~}#021#018
+Neces.Bolas Cañón~FF~#018
+;000299D0{Neces.Bolas Cañón~FF~}#021#018
+Neces.Bolas Cañón~FF~#018
+;000299E2{Neces.Bolas Cañón~FF~}#021#018
+Neces.Bolas Cañón~FF~#018
+;000299F4{Neces.Bolas Cañón~FF~}#021#018
+Neces.Bolas Cañón~FF~#018
+;00029A06{Neces.Bolas Cañón~FF~}#021#018
+Neces.Bolas Cañón~FF~#018
+;00029A18{ Escudo Ausente  ~FF~}#021#018
+ Escudo Ausente  ~FF~#018
+;00029A2A{ Escudo Ausente  ~FF~}#021#018
+ Escudo Ausente  ~FF~#018
+;00029A3C{ Escudo Ausente  ~FF~}#021#018
+ Escudo Ausente  ~FF~#018
+;00029A4E{ Escudo Ausente  ~FF~}#021#018
+ Escudo Ausente  ~FF~#018
+;00029A60{ Escudo Ausente  ~FF~}#021#018
+ Escudo Ausente  ~FF~#018
+;00029A72{ Falta Palanca ~FF~}#019#016
+ Falta Palanca ~FF~#016
+;00029A82{ Falta Palanca ~FF~}#019#016
+ Falta Palanca ~FF~#016
+;00029A92{ Falta Palanca ~FF~}#019#016
+ Falta Palanca ~FF~#016
+;00029AA2{ Falta Palanca ~FF~}#019#016
+ Falta Palanca ~FF~#016
+;00029AB2{ Falta Palanca ~FF~}#019#016
+ Falta Palanca ~FF~#016
+;00029AC2{Nece.LlaveIncendio~FF~}#022#019
+Nece.LlaveIncendio~FF~#019
+;00029AD5{Nece.LlaveIncendio~FF~}#022#019
+Nece.LlaveIncendio~FF~#019
+;00029AE8{Nece.LlaveIncendio~FF~}#022#019
+Nece.LlaveIncendio~FF~#019
+;00029AFB{Nece.LlaveIncendio~FF~}#022#019
+Nece.LlaveIncendio~FF~#019
+;00029B0E{Nece.LlaveIncendio~FF~}#022#019
+Nece.LlaveIncendio~FF~#019
+;00029B21{ Suerte Lara  ~FF~}#018#015
+ Suerte Lara  ~FF~#015
+;00029B30{ Suerte Lara  ~FF~}#018#015
+ Suerte Lara  ~FF~#015
+;00029B3F{ Suerte Lara  ~FF~}#018#015
+ Suerte Lara  ~FF~#015
+;00029B4E{ Suerte Lara  ~FF~}#018#015
+ Suerte Lara  ~FF~#015
+;00029B5D{ Suerte Lara  ~FF~}#018#015
+ Suerte Lara  ~FF~#015
+|1038
+@00029B6C-00029F6C-FF
+;00029B6C{Faltan4Fusibles~FF~}#019#016
+Faltan4Fusibles~FF~#016
+;00029B7C{Faltan4Fusibles~FF~}#019#016
+Faltan4Fusibles~FF~#016
+;00029B8C{Faltan4Fusibles~FF~}#019#016
+Faltan4Fusibles~FF~#016
+;00029B9C{Faltan4Fusibles~FF~}#019#016
+Faltan4Fusibles~FF~#016
+;00029BAC{Faltan4Fusibles~FF~}#019#016
+Faltan4Fusibles~FF~#016
+;00029BBC{Ticket Costs 3 Dólares~FF~}#026#023
+Boleto Cuesta 3Dólares~FF~#023
+;00029BD3{Ticket Costs 3 Dólares~FF~}#026#023
+Boleto Cuesta 3Dólares~FF~#023
+;00029BEA{Ticket Costs 3 Dólares~FF~}#026#023
+Boleto Cuesta 3Dólares~FF~#023
+;00029C01{Ticket Costs 3 Dólares~FF~}#026#023
+Boleto Cuesta 3Dólares~FF~#023
+;00029C18{Ticket Costs 3 Dólares~FF~}#026#023
+Boleto Cuesta 3Dólares~FF~#023
+;00029C2F{Ticket Required~FF~}#019#016
+Requiere Boleto~FF~#016
+;00029C3F{Ticket Required~FF~}#019#016
+Requiere Boleto~FF~#016
+;00029C4F{Ticket Required~FF~}#019#016
+Requiere Boleto~FF~#016
+;00029C5F{Ticket Required~FF~}#019#016
+Requiere Boleto~FF~#016
+;00029C6F{Ticket Required~FF~}#019#016
+Requiere Boleto~FF~#016
+;00029C7F{Falta 2 Válvulas~FF~}#020#017
+Falta 2 Válvulas~FF~#017
+;00029C90{Falta 2 Válvulas~FF~}#020#017
+Falta 2 Válvulas~FF~#017
+;00029CA1{Falta 2 Válvulas~FF~}#020#017
+Falta 2 Válvulas~FF~#017
+;00029CB2{Falta 2 Válvulas~FF~}#020#017
+Falta 2 Válvulas~FF~#017
+;00029CC3{Falta 2 Válvulas~FF~}#020#017
+Falta 2 Válvulas~FF~#017
+;00029CD4{No sucede nada ~FF~}#019#016
+No sucede nada ~FF~#016
+;00029CE4{No sucede nada ~FF~}#019#016
+No sucede nada ~FF~#016
+;00029CF4{No sucede nada ~FF~}#019#016
+No sucede nada ~FF~#016
+;00029D04{No sucede nada ~FF~}#019#016
+No sucede nada ~FF~#016
+;00029D14{No sucede nada ~FF~}#019#016
+No sucede nada ~FF~#016
+;00029D24{Bomba Nec.Comb.~FF~}#019#016
+Bomba Nec.Comb.~FF~#016
+;00029D34{Bomba Nec.Comb.~FF~}#019#016
+Bomba Nec.Comb.~FF~#016
+;00029D44{Bomba Nec.Comb.~FF~}#019#016
+Bomba Nec.Comb.~FF~#016
+;00029D54{Bomba Nec.Comb.~FF~}#019#016
+Bomba Nec.Comb.~FF~#016
+;00029D64{Bomba Nec.Comb.~FF~}#019#016
+Bomba Nec.Comb.~FF~#016
+;00029D74{Falta Palanca~FF~}#017#014
+Falta Palanca~FF~#014
+;00029D82{Falta Palanca~FF~}#017#014
+Falta Palanca~FF~#014
+;00029D90{Falta Palanca~FF~}#017#014
+Falta Palanca~FF~#014
+;00029D9E{Falta Palanca~FF~}#017#014
+Falta Palanca~FF~#014
+;00029DAC{Falta Palanca~FF~}#017#014
+Falta Palanca~FF~#014
+;00029DBA{Need Llave Genera.~FF~}#022#019
+Nece.Llave Genera.~FF~#019
+;00029DCD{Need Llave Genera.~FF~}#022#019
+Nece.Llave Genera.~FF~#019
+;00029DE0{Need Llave Genera.~FF~}#022#019
+Nece.Llave Genera.~FF~#019
+;00029DF3{Need Llave Genera.~FF~}#022#019
+Nece.Llave Genera.~FF~#019
+;00029E06{Need Llave Genera.~FF~}#022#019
+Nece.Llave Genera.~FF~#019
+;00029E19{Para Apagar ~FF~}#016#013
+Para Apagar ~FF~#013
+;00029E26{Para Apagar ~FF~}#016#013
+Para Apagar ~FF~#013
+;00029E33{Para Apagar ~FF~}#016#013
+Para Apagar ~FF~#013
+;00029E40{Para Apagar ~FF~}#016#013
+Para Apagar ~FF~#013
+;00029E4D{Para Apagar ~FF~}#016#013
+Para Apagar ~FF~#013
+;00029E5A{Necesi.Tarjeta~FF~}#018#015
+Necesi.Tarjeta~FF~#015
+;00029E69{Necesi.Tarjeta~FF~}#018#015
+Necesi.Tarjeta~FF~#015
+;00029E78{Necesi.Tarjeta~FF~}#018#015
+Necesi.Tarjeta~FF~#015
+;00029E87{Necesi.Tarjeta~FF~}#018#015
+Necesi.Tarjeta~FF~#015
+;00029E96{Necesi.Tarjeta~FF~}#018#015
+Necesi.Tarjeta~FF~#015
+;00029EA5{Need PaseSeguridad~FF~}#022#019
+Nece.PaseSeguridad~FF~#019
+;00029EB8{Need PaseSeguridad~FF~}#022#019
+Nece.PaseSeguridad~FF~#019
+;00029ECB{Need PaseSeguridad~FF~}#022#019
+Nece.PaseSeguridad~FF~#019
+;00029EDE{Need PaseSeguridad~FF~}#022#019
+Nece.PaseSeguridad~FF~#019
+;00029EF1{Need PaseSeguridad~FF~}#022#019
+Nece.PaseSeguridad~FF~#019
+;00029F04{Agua Empieza A Fluir~FF~}#024#021
+Agua Empieza A Fluir~FF~#021
+;00029F19{Agua Empieza A Fluir~FF~}#024#021
+Agua Empieza A Fluir~FF~#021
+;00029F2E{Agua Empieza A Fluir~FF~}#024#021
+Agua Empieza A Fluir~FF~#021
+;00029F43{Agua Empieza A Fluir~FF~}#024#021
+Agua Empieza A Fluir~FF~#021
+;00029F58{Agua Empieza A Fluir~FF~}#024#021
+Agua Empieza A Fluir~FF~#021
+|1025
+@00029F6D-0002A2B9-FF
+;00029F6D{ No Hallas Nada ~FF~}#020#017
+ No Hallas Nada ~FF~#017
+;00029F7E{ No Hallas Nada ~FF~}#020#017
+ No Hallas Nada ~FF~#017
+;00029F8F{ No Hallas Nada ~FF~}#020#017
+ No Hallas Nada ~FF~#017
+;00029FA0{ No Hallas Nada ~FF~}#020#017
+ No Hallas Nada ~FF~#017
+;00029FB1{ No Hallas Nada ~FF~}#020#017
+ No Hallas Nada ~FF~#017
+;00029FC2{ Parte Código de Caja ~FF~}#026#023
+ Parte Código de Caja ~FF~#023
+;00029FD9{ Parte Código de Caja ~FF~}#026#023
+ Parte Código de Caja ~FF~#023
+;00029FF0{ Parte Código de Caja ~FF~}#026#023
+ Parte Código de Caja ~FF~#023
+;0002A007{ Parte Código de Caja ~FF~}#026#023
+ Parte Código de Caja ~FF~#023
+;0002A01E{ Parte Código de Caja ~FF~}#026#023
+ Parte Código de Caja ~FF~#023
+;0002A035{ Falta Código Caja ~FF~}#023#020
+ Falta Código Caja ~FF~#020
+;0002A049{ Falta Código Caja ~FF~}#023#020
+ Falta Código Caja ~FF~#020
+;0002A05D{ Falta Código Caja ~FF~}#023#020
+ Falta Código Caja ~FF~#020
+;0002A071{ Falta Código Caja ~FF~}#023#020
+ Falta Código Caja ~FF~#020
+;0002A085{ Falta Código Caja ~FF~}#023#020
+ Falta Código Caja ~FF~#020
+;0002A099{ Caja Cerrada ~FF~}#018#015
+ Caja Cerrada ~FF~#015
+;0002A0A8{ Caja Cerrada ~FF~}#018#015
+ Caja Cerrada ~FF~#015
+;0002A0B7{ Caja Cerrada ~FF~}#018#015
+ Caja Cerrada ~FF~#015
+;0002A0C6{ Caja Cerrada ~FF~}#018#015
+ Caja Cerrada ~FF~#015
+;0002A0D5{ Caja Cerrada ~FF~}#018#015
+ Caja Cerrada ~FF~#015
+;0002A0E4{Toda Salud ~FF~}#015#012
+Toda Salud ~FF~#012
+;0002A0F0{Toda Salud ~FF~}#015#012
+Toda Salud ~FF~#012
+;0002A0FC{Toda Salud ~FF~}#015#012
+Toda Salud ~FF~#012
+;0002A108{Toda Salud ~FF~}#015#012
+Toda Salud ~FF~#012
+;0002A114{Toda Salud ~FF~}#015#012
+Toda Salud ~FF~#012
+;0002A120{1 Batería Charged~FF~}#021#018
+1 Batería Cargada~FF~#018
+;0002A132{1 Batería Charged~FF~}#021#018
+1 Batería Cargada~FF~#018
+;0002A144{1 Batería Charged~FF~}#021#018
+1 Batería Cargada~FF~#018
+;0002A156{1 Batería Charged~FF~}#021#018
+1 Batería Cargada~FF~#018
+;0002A168{1 Batería Charged~FF~}#021#018
+1 Batería Cargada~FF~#018
+;0002A17A{Falta Batería A Cargar~FF~}#026#023
+Falta Batería A Cargar~FF~#023
+;0002A191{Falta Batería A Cargar~FF~}#026#023
+Falta Batería A Cargar~FF~#023
+;0002A1A8{Falta Batería A Cargar~FF~}#026#023
+Falta Batería A Cargar~FF~#023
+;0002A1BF{Falta Batería A Cargar~FF~}#026#023
+Falta Batería A Cargar~FF~#023
+;0002A1D6{Falta Batería A Cargar~FF~}#026#023
+Falta Batería A Cargar~FF~#023
+;0002A1ED{Nec.6 Baterías Llenas~FF~}#025#022
+Nec.6 Baterías Llenas~FF~#022
+;0002A203{Nec.6 Baterías Llenas~FF~}#025#022
+Nec.6 Baterías Llenas~FF~#022
+;0002A219{Nec.6 Baterías Llenas~FF~}#025#022
+Nec.6 Baterías Llenas~FF~#022
+;0002A22F{Nec.6 Baterías Llenas~FF~}#025#022
+Nec.6 Baterías Llenas~FF~#022
+;0002A245{Nec.6 Baterías Llenas~FF~}#025#022
+Nec.6 Baterías Llenas~FF~#022
+;0002A25B{Neces.Llave SubPen~FF~}#022#019
+Neces.Llave SubPen~FF~#019
+;0002A26E{Neces.Llave SubPen~FF~}#022#019
+Neces.Llave SubPen~FF~#019
+;0002A281{Neces.Llave SubPen~FF~}#022#019
+Neces.Llave SubPen~FF~#019
+;0002A294{Neces.Llave SubPen~FF~}#022#019
+Neces.Llave SubPen~FF~#019
+;0002A2A7{Neces.Llave SubPen~FF~}#022#019
+Neces.Llave SubPen~FF~#019
+|845
+@00036840-00036947-FF
+;00036840{SONG00: Title...........01: INITIAL CUTSCN..02: OTHER CUTSCENS..03: GAME OVER.......04: LEVEL1 .........05: LEVEL2..........06: LEVEL3..........07: LEVEL4..........08: LEVEL5..........09: ROOFTOP CHASE...10: BOSS............11: THE END.........12: EMPTY...........}#264#264
+SONG
+00: Título..........
+01: CINEMÁTICA INIC.
+02: OTRA CINEMÁTICA.
+03: FIN DE JUEGO....
+04: NIVEL1 .........
+05: NIVEL2..........
+06: NIVEL3..........
+07: NIVEL4..........
+08: NIVEL5..........
+09: PERSECUCIÓN TEJ.
+10: JEFE............
+11: FINAL...........
+12: VACÍO...........#264
+|264
+@0003A840-0003A947-FF
+;0003A840{SONG00: Title...........01: INITIAL CUTSCN..02: OTHER CUTSCENS..03: GAME OVER.......04: LEVEL1 .........05: LEVEL2..........06: LEVEL3..........07: LEVEL4..........08: LEVEL5..........09: ROOFTOP CHASE...10: BOSS............11: THE END.........12: EMPTY...........}#264#264
+SONG
+00: Título..........
+01: CINEMÁTICA INIC.
+02: OTRA CINEMÁTICA.
+03: FIN DE JUEGO....
+04: NIVEL1 .........
+05: NIVEL2..........
+06: NIVEL3..........
+07: NIVEL4..........
+08: NIVEL5..........
+09: PERSECUCIÓN TEJ.
+10: JEFE............
+11: FINAL...........
+12: VACÍO...........#264
+|264
+@003F8000-003F8445-FE
+;003F8000{/\Soon Master...=~FE~}#021#018
+/\Maestro...=/\ =~FE~#018
+;003F8012{/\Soon you will be free...=~FE~}#031#028
+/\Pronto serás liberado...=~FE~#028
+;003F802E{/\Free once again....=~FE~}#026#023
+/\Una vez más...=/\  =~FE~#023
+;003F8045{/~02~NEW YORK=/~02~ =/~02~Museo  Of Antiquities=~FE~}#052#040
+/~02~NEW YORK=/~02~ =/~02~Museo De Antigüedades=~FE~#040
+;003F806D{/~01~LARA=/\It's a wonderful=/\piece Jane. Where did=/\you acquire it ?=/\ =/~01~JANE=/\It was found in a=/\shipwreck off the=/\coast of Florida.=~FE~}#150#141
+/~01~LARA=/\Es una pieza=/\maravillosa Jane.=/\¿Dónde la adquiriste?=/\      =/~01~JANE=/\Fue hallada en un=/\naufragio en la=/\costa de Florida.=~FE~#141
+;003F80FA{/~01~JANE=/\We believe it was=/\used in rituals of=/\Dark Magic.=~FE~}#069#063
+/~01~JANE=/\Creemos que se usó=/\ en rituales de =/\Magia Negra.=~FE~#063
+;003F8139{/~01~JANE=/\What the ..... ?=~FE~}#033#027
+/~01~JANE=/\¿Pero qué.....? =~FE~#027
+;003F8154{/~01~LARA=/\Watch out Jane!=~FE~}#032#026
+/~01~LARA=/\¡Cuidado Jane! =~FE~#026
+;003F816E{/~01~JANE=/\Lara! He's stealing=/\the sword!=~FE~}#049#043
+/~01~JANE=/\   ¡Lara!   =/\¡Roban la espada!=~FE~#043
+;003F8199{/~01~LARA=/\Don't worry Jane,=/\I'll get them.=~FE~}#051#045
+/~01~LARA=/\ Tranquila Jane, =/\les atraparé. =~FE~#045
+;003F81C6{/~01~LARA=/\Oh no! I haven't=/\got my guns.=~FE~}#048#042
+/~01~LARA=/\ ¡Oh no! =/\No tengo mis armas.=~FE~#042
+;003F81F0{/~01~RADIO=/\Leader to team!=/\Helicopter leaves=/\in five minutes!=~FE~}#072#066
+/~01~RADIO=/\¡Líder a equipo!=/\¡Helicóptero sale=/\ en 5 minutos! =~FE~#066
+;003F8232{/~01~LARA=/\Five minutes!=/\I have to stop them!=~FE~}#053#047
+/~01~LARA=/\ ¡Cinco minutos! =/\¡Debo pararles! =~FE~#047
+;003F8261{/\You have sealed your=/\fate. You will become=/\the chosen one!=~FE~}#069#066
+/\Has sellado tu=/\destino. =/\¡Te convertirás en la=/\elegida! =~FE~#066
+;003F82A3{/~01~LARA=/\Aaaargh!=~FE~}#025#019
+/~01~LARA=/\¡Aaargh!=~FE~#019
+;003F82B6{/~01~LARA=/\Chosen one?=/\What did he mean?=~FE~}#048#042
+/~01~LARA=/\¿Elegida? =/\¿A qué se refiere?=~FE~#042
+;003F82E0{/~02~Later at the Museo =~FE~}#029#023
+/~02~Después en el Museo=~FE~#023
+;003F82F7{/~01~LARA=/\He said I was =/\the chosen one.=~FE~}#049#043
+/~01~LARA=/\Dijo que yo era la=/\ elegida.  =~FE~#043
+;003F8322{/~01~JANE=/\Oh no! Lara you have=/\been cursed! Those men=/\must have been from the=/\cult of the Dark Queen!=~FE~}#114#108
+/~01~JANE=/\¡Oh no! ¡Lara has sido=/\maldecida! ¡Esos hombres=/\debían ser del culto=/\de la Reina Oscura!=/\=~FE~#108
+;003F838E{/~01~JANE=/\They believe whoever has=/\been cut by the sword=/\can be used as a vessel=/\for the spirit of=/\their Queen!=/\You must find their=/\lair and defeat their=/\leader or......=~FE~}#190#184
+/~01~JANE=/\¡Creen que quien ha sido=/\cortado por la espada=/\puede ser usado como=/\recipiente del espíritu=/\de su Reina!=/\Debes hallar su guarida=/\y vencer a su líder=/\o......=/\=~FE~#184
+|1094

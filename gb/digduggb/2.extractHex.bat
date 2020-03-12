@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Dig Dug (U) [!].gb"
+set SCRIPTNAME="digduggb"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 8026:10,8066:10,8386:40,8426:10,80F6:10,F331:20,F731:20,9AE6:10,9C36:60,A2E6:10,A436:60,AAE6:10,AC36:60,1B1B2:10,1B302:60
+pause

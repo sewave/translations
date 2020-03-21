@@ -10,7 +10,7 @@ java -jar Hextractor.jar -h %SCRIPTNAME%Alt.tbl tr_%SCRIPTNAME%Alt.ext %T_FILENA
 java -jar Hextractor.jar -h %SCRIPTNAME%Alt2.tbl tr_%SCRIPTNAME%Alt2.ext %T_FILENAME%
 java -jar Hextractor.jar -h %SCRIPTNAME%Alt3.tbl tr_%SCRIPTNAME%Alt3.ext %T_FILENAME%
 REM EXCEEDS COMPRESSED SIZE
-REM java -jar Hextractor.jar -if %T_FILENAME% 0023BFBE_t_c.smd 23BFBE
-java -jar Hextractor.jar -if %T_FILENAME% 002695D0_t_c.smd 2695D0
+REM java -jar Hextractor.jar -if %T_FILENAME% 0023BFBE_t_c.dat 23BFBE
+java -jar Hextractor.jar -if %T_FILENAME% 002695D0_t_c.dat 2695D0
 java -jar Hextractor.jar -fcm %T_FILENAME%
 pause

@@ -1,0 +1,84 @@
+@00001B76-00001BE8-FF
+;00001B76{  EDIT ROUND SELECTROUND 1 ROUND 2 ROUND 3 ROUND 4 ROUND 5 round 1 round 2 round 3 round 4 round 5 END        ~2C~~34~~2C~~3C~~2C~}#130#115
+  EDIT ROUND SELECTROUND 1 ROUND 2 ROUND 3 ROUND 4 ROUND 5 round 1 round 2 round 3 round 4 round 5 END        ~2C~~34~~2C~~3C~~2C~#115
+|115
+@00001FA0-00001FC2-FF
+;00001FA0{ [ ITEM   [ ~55~~56~     ] PATTERN/ ~51~~52~~61~~62~~71~}#056#035
+ [ ITEM   [ ~55~~56~     ] PATTERN/ ~51~~52~~61~~62~~71~#035
+|35
+@000029EF-00002A04-FF
+;000029EF{VS MODE ROUND-12345~CD~7~40~}#028#022
+VS MODE ROUND-12345~CD~7~40~#022
+|22
+@00003FB3-00003FC0-FF
+;00003FB3{GAME OVER~FF~}#013#010
+GAME OVER~FF~#010
+;00003FBD{~FF~}#004#001
+~FF~#001
+;00003FBE{~FF~}#004#001
+~FF~#001
+;00003FBF{~FF~}#004#001
+~FF~#001
+;00003FC0{~FF~}#004#001
+~FF~#001
+|14
+@0000583B-0000584D-FF
+;0000583B{op~B2~~B3~~6A~def~6E~~6F~~F0~READY~25~ ~3A~}#043#019
+op~B2~~B3~~6A~def~6E~~6F~~F0~READY~25~ ~3A~#019
+|19
+@00005FB3-00005FC0-FF
+;00005FB3{GAME OVER~FF~}#013#010
+GAME OVER~FF~#010
+;00005FBD{~FF~}#004#001
+~FF~#001
+;00005FBE{~FF~}#004#001
+~FF~#001
+;00005FBF{~FF~}#004#001
+~FF~#001
+;00005FC0{~FF~}#004#001
+~FF~#001
+|14
+@00007FB3-00007FC0-FF
+;00007FB3{GAME OVER~FF~}#013#010
+GAME OVER~FF~#010
+;00007FBD{~FF~}#004#001
+~FF~#001
+;00007FBE{~FF~}#004#001
+~FF~#001
+;00007FBF{~FF~}#004#001
+~FF~#001
+;00007FC0{~FF~}#004#001
+~FF~#001
+|14
+@0000DDB9-0000DEBD-FF
+;0000DDB9{          MODE SELECT       1 PLAYER        2 PLAYERS       VS COMPUTER     VS FRIEND       EDIT MODE        PLAYER - 1      ROUND -   EDIT MODE SELECT     EDIT            PLAY            LOAD            SAVE            END            GAME OVER    P~30~//////////~F0~}#267#261
+          MODE SELECT       1 PLAYER        2 PLAYERS       VS COMPUTER     VS FRIEND       EDIT MODE        PLAYER - 1      ROUND -   EDIT MODE SELECT     EDIT            PLAY            LOAD            SAVE            END            GAME OVER    P~30~//////////~F0~#261
+|261
+@0000E2B4-0000E344-FF
+;0000E2B4{                                                                                © TAITO CORPORATION 1987                                    ~40~~41~~41~~41~~42~}#160#145
+                                                                                © TAITO CORPORATION 1987                                    ~40~~41~~41~~41~~42~#145
+|145
+@0000E3DF-0000E694-FF
+;0000E3DF{ \                      \        [                      [ HIGH   [                      [   SCORE]                      ]  100000/                      /        \                      \ 1UP    [                      [      00[                      [        ]                      ] 2UP    /                      /      00\                      \        [                      [        [                      [        ]                      ]   .·.· /                      /        \                      \   ROUND[                      [     0-C[                      [        ]                      ] 1P-TIME/                      /   00:00\                      \        ~83~                   ~83~}#700#694
+ \                      \        [                      [ HIGH   [                      [   SCORE]                      ]  100000/                      /        \                      \ 1UP    [                      [      00[                      [        ]                      ] 2UP    /                      /      00\                      \        [                      [        [                      [        ]                      ]   .·.· /                      /        \                      \   ROUND[                      [     0-C[                      [        ]                      ] 1P-TIME/                      /   00:00\                      \        ~83~                   ~83~#694
+|694
+@0000ECFB-0000EF9B-FF
+;0000ECFB{ghi~7E~~7F~              staff                     program designer                   K. NAKAMURA                     H. TAKAOKA                     URATRA MAN 2                   EDITER HIROYUKI                  VAUS-2 TAKAKO              KUMICHAN   PAKKUN YUICHI             music author                  T.KIMIJIMA : taito                 art creator                 KAZUOKUN ~2A~ KENTAROU               KID. TET. 004                      director                        A. SATOH                       JOE TAMURA                    special thanks                     MASAJIN.H                   M. KATOH : taito                H.YABUSAKI:taito             CHIKOKU-OH MIYA ~2C~hoh~C8~i~2C~}#691#673
+ghi~7E~~7F~              staff                     program designer                   K. NAKAMURA                     H. TAKAOKA                     URATRA MAN 2                   EDITER HIROYUKI                  VAUS-2 TAKAKO              KUMICHAN   PAKKUN YUICHI             music author                  T.KIMIJIMA : taito                 art creator                 KAZUOKUN ~2A~ KENTAROU               KID. TET. 004                      director                        A. SATOH                       JOE TAMURA                    special thanks                     MASAJIN.H                   M. KATOH : taito                H.YABUSAKI:taito             CHIKOKU-OH MIYA ~2C~hoh~C8~i~2C~#673
+|673
+@0000EF9C-0000F084-FF
+;0000EF9C{            CALL FUKAZAWARETT                   producer                    F.KUROSAWA:taito                M. EZAKI : taito            TAITO CORPORATION © 1987               management                     NIDECOM SOFT          ~C3~~88~/6~A7~}#242#233
+            CALL FUKAZAWARETT                   producer                    F.KUROSAWA:taito                M. EZAKI : taito            TAITO CORPORATION © 1987               management                     NIDECOM SOFT          ~C3~~88~/6~A7~#233
+|233
+@0000F658-0000F65E-FF
+;0000F658{OOOO~E6~G~5F~}#013#007
+OOOO~E6~G~5F~#007
+|7
+@000129FB-00012AF0-FF
+;000129FB{ef~6E~~6F~~F0~                       JJ~C8~JJJ~C8~JJ  J       J  J       J  J KKKKK J  J K   K J  J K ~C6~ K J  ~C8~ K ~C7~ K ~C8~  J K ~C7~ K J  J K ~C6~ K J  J K   K J  J KKKKK J  J       J  J       J  JJJJJJJJJ A A A A A A A A A A A A A A A A A A A A DABB  DE F      ~F0~~7A~gh~65~~66~~5C~c~5E~}#297#246
+ef~6E~~6F~~F0~                       JJ~C8~JJJ~C8~JJ  J       J  J       J  J KKKKK J  J K   K J  J K ~C6~ K J  ~C8~ K ~C7~ K ~C8~  J K ~C7~ K J  J K ~C6~ K J  J K   K J  J KKKKK J  J       J  J       J  JJJJJJJJJ A A A A A A A A A A A A A A A A A A A A DABB  DE F      ~F0~~7A~gh~65~~66~~5C~c~5E~#246
+|246
+@0001FFED-0001FFFF-FF
+;0001FFED{7                 ~FF~}#022#019
+7                 ~FF~#019
+|19

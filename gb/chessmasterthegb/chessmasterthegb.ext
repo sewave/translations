@@ -1,0 +1,82 @@
+@00002A8D-00002D87-FF
+;00002A8D{Actions~FF~}#011#008
+Actions~FF~#008
+;00002A95{Settings~FF~}#012#009
+Settings~FF~#009
+;00002A9E{Setup Menu~FF~}#014#011
+Setup Menu~FF~#011
+;00002AA9{Human Players:   [[ Change Sides     [[ Force Move       [[ Takeback/Replay  [[ Set Up Board     [[ Solve For Mate   [[ Offer Draw       [[ Load Game        [[ Save Game        [[ Begin New Game~FF~}#198#195
+Human Players:   [[ Change Sides     [[ Force Move       [[ Takeback/Replay  [[ Set Up Board     [[ Solve For Mate   [[ Offer Draw       [[ Load Game        [[ Save Game        [[ Begin New Game~FF~#195
+;00002B6C{Mate In   Moves  [[ Level            [[ Deep Thinking O  [[ Opening Book O   [[ Teaching Mode O  [[ Coordinates O    [[ Chess Clock O    [[ Touching Rule O  [[ White            [[ Black            [[ White On       ~FF~}#219#216
+Mate In   Moves  [[ Level            [[ Deep Thinking O  [[ Opening Book O   [[ Teaching Mode O  [[ Coordinates O    [[ Chess Clock O    [[ Touching Rule O  [[ White            [[ Black            [[ White On       ~FF~#216
+;00002C44{Clear the Board  [[ Initial Position [[ First Move       [[ Setup Complete   [[ Abandon Changes~FF~}#099#096
+Clear the Board  [[ Initial Position [[ First Move       [[ Setup Complete   [[ Abandon Changes~FF~#096
+;00002CA4{: Newcomer 1~FF~}#016#013
+: Newcomer 1~FF~#013
+;00002CB1{: Newcomer 2~FF~}#016#013
+: Newcomer 2~FF~#013
+;00002CBE{ 1: 60/5    ~FF~}#016#013
+ 1: 60/5    ~FF~#013
+;00002CCB{2: 40/5~FF~}#011#008
+2: 40/5~FF~#008
+;00002CD3{3: 60/10~FF~}#012#009
+3: 60/10~FF~#009
+;00002CDC{4: 60/30~FF~}#012#009
+4: 60/30~FF~#009
+;00002CE5{5: 60/45~FF~}#012#009
+5: 60/45~FF~#009
+;00002CEE{6: 60/60~FF~}#012#009
+6: 60/60~FF~#009
+;00002CF7{7: 30/45~FF~}#012#009
+7: 30/45~FF~#009
+;00002D00{8: 30/60~FF~}#012#009
+8: 30/60~FF~#009
+;00002D09{9: 40/90~FF~}#012#009
+9: 40/90~FF~#009
+;00002D12{10: 40/100~FF~}#014#011
+10: 40/100~FF~#011
+;00002D1D{11: 40/120~FF~}#014#011
+11: 40/120~FF~#011
+;00002D28{12: 40/150~FF~}#014#011
+12: 40/150~FF~#011
+;00002D33{13: 40/180~FF~}#014#011
+13: 40/180~FF~#011
+;00002D3E{: Infinite ~FF~}#015#012
+: Infinite ~FF~#012
+;00002D4A{ff~FF~}#006#003
+ff~FF~#003
+;00002D4D{n ~FF~}#006#003
+n ~FF~#003
+;00002D50{Visible~FF~}#011#008
+Visible~FF~#008
+;00002D58{Hidden ~FF~}#011#008
+Hidden ~FF~#008
+;00002D60{Bottom~FF~}#010#007
+Bottom~FF~#007
+;00002D67{Left  ~FF~}#010#007
+Left  ~FF~#007
+;00002D6E{Top   ~FF~}#010#007
+Top   ~FF~#007
+;00002D75{Right ~FF~}#010#007
+Right ~FF~#007
+;00002D7C{White~FF~}#009#006
+White~FF~#006
+;00002D82{Black~FF~}#009#006
+Black~FF~#006
+|763
+@00002E79-00002F05-FF
+;00002E79{ Enter game code by  moving  cursor  to  choose the letters  of the saved game.                       ----------------    ----------------  ~FF~}#144#141
+ Enter game code by  moving  cursor  to  choose the letters  of the saved game.                       ----------------    ----------------  ~FF~#141
+|141
+@00003387-00003395-FF
+;00003387{Save Game Code~FF~}#018#015
+Save Game Code~FF~#015
+|15
+@00003803-00003811-FF
+;00003803{[     presents~FF~}#018#015
+[     presents~FF~#015
+|15
+@0000FF69-0000FFDD-FF
+;0000FF69{Programmed    [\\\\\\\\\\\\\\\\\\\\[        by        [\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[ }#117#117
+Programmed    [\\\\\\\\\\\\\\\\\\\\[        by        [\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[ #117
+|117

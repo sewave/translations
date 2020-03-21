@@ -1,0 +1,141 @@
+@00001B76-00001BE3-FF
+;00001B76{  EDIT RONDA SELECTRONDA 1 RONDA 2 RONDA 3 RONDA 4 RONDA 5 ronda 1 ronda 2 ronda 3 ronda 4 ronda 5 END        }#110#110
+  
+ELIGE RONDA EDITA
+RONDA 1 RONDA 2 RONDA 3 RONDA 4 RONDA 5 ronda 1 ronda 2 ronda 3 ronda 4 ronda 5 FIN        #110
+|110
+@00001DD6-00001DDF-FF
+;00001DD6{EDITRONDA-}#010#010
+CREA
+RONDA-#010
+|10
+@00001F6B-00001F74-FF
+;00001F6B{\ N-WALL [}#010#010
+\ MURO-N [#010
+|10
+@00001F8F-00001F98-FF
+;00001F8F{/ S-WALL \}#010#010
+/ MURO-E \#010
+|10
+@00001FA1-00001FAA-FF
+;00001FA1{[ ITEM   [}#010#010
+[ OBJETO [#010
+|10
+@00001FB3-00001FBC-FF
+;00001FB3{] PATTERN/}#010#010
+] PATRÓN /#010
+|10
+@00001FD7-00001FE0-FF
+;00001FD7{[ DEL    ]}#010#010
+[ BORRA  ]#010
+|10
+@00001FE9-00001FF2-FF
+;00001FE9{/ A~A2~C    \}#013#010
+/ LIMPIA \#010
+|10
+@00001FFB-00002005-FF
+;00001FFB{[ END    N]}#011#011
+[ FIN    N]#011
+|11
+@000029EF-00002A01-FF
+;000029EF{VS MODE RONDA-12345}#019#019
+MODO VS RONDA-12345#019
+|19
+@00002BFD-00002C04-FF
+;00002BFD{PLAYER-1}#008#008
+JUGADOR1#008
+|8
+@00002C13-00002C1A-FF
+;00002C13{PLAYER-2}#008#008
+JUGADOR2#008
+|8
+@00003FB3-00003FBC-FF
+;00003FB3{FIN JUEGO~FF~}#013#010
+FIN JUEGO~FF~#010
+|10
+@00005846-0000584B-FF
+;00005846{READY!}#006#006
+LISTO!#006
+|6
+@00005FB3-00005FBC-FF
+;00005FB3{FIN JUEGO~FF~}#013#010
+FIN JUEGO~FF~#010
+|10
+@00007FB3-00007FBC-FF
+;00007FB3{FIN JUEGO~FF~}#013#010
+FIN JUEGO~FF~#010
+|10
+@0000DDB9-0000DEB0-FF
+;0000DDB9{          MODE SELECT       1 PLAYER        2 PLAYERS       VS COMPUTER     VS FRIEND       EDIT MODE        PLAYER - 1      RONDA -   EDIT MODE SELECT     EDIT            PLAY            LOAD            SAVE            END            FIN JUEGO    }#248#248
+       
+   ELIGE MODO   
+     1 JUGADOR  
+     2 JUGADORES
+     VS MSX     
+     VS AMIGO   
+     MODO EDITAR
+      JUGADOR- 1
+      RONDA -   
+
+ ELIGE OPCIÓN  
+      EDITAR          JUGAR           CARGAR          SALVAR          FIN            FIN JUEGO    #248
+|248
+@0000E300-0000E31F-FF
+;0000E300{    © TAITO CORPORATION 1987    }#032#032
+    © TAITO CORPORATION 1987    #032
+|32
+@0000E3E0-0000E67F-FF
+;0000E3E0{\                      \        [                      [ HIGH   [                      [   SCORE]                      ]  100000/                      /        \                      \ 1UP    [                      [      00[                      [        ]                      ] 2UP    /                      /      00\                      \        [                      [        [                      [        ]                      ]   .·.· /                      /        \                      \   RONDA[                      [     0-C[                      [        ]                      ] 1P-TIME/                      /   00:00\                      \        }#672#672
+\                      \        
+[                      [ MEJOR  
+[                      [   MARCA
+]                      ]  100000
+/                      /        
+\                      \ JU1    
+[                      [      00
+[                      [        
+]                      ] JU2    
+/                      /      00
+\                      \        
+[                      [        
+[                      [        
+]                      ]   .·.· 
+/                      /        
+\                      \   RONDA
+[                      [     0-C
+[                      [ TIEMPO-
+]                      ] 1J     
+/                      /   00:00
+\                      \        #672
+|672
+@0000ED00-0000F07F-FF
+;0000ED00{              staff                     program designer                   K. NAKAMURA                     H. TAKAOKA                     URATRA MAN 2                   EDITER HIROYUKI                  VAUS-2 TAKAKO              KUMICHAN   PAKKUN YUICHI             music author                  T.KIMIJIMA : taito                 art creator                 KAZUOKUN & KENTAROU               KID. TET. 004                      director                        A. SATOH                       JOE TAMURA                    special thanks                     MASAJIN.H                   M. KATOH : taito                H.YABUSAKI:taito             CHIKOKU-OH MIYA "hohzi"            CALL FUKAZAWARETT                   producer                    F.KUROSAWA:taito                M. EZAKI : taito            TAITO CORPORATION © 1987               management                     NIDECOM SOFT          }#896#896
+              grupo             
+      diseno del programa       
+           K. NAKAMURA          
+           H. TAKAOKA           
+          URATRA MAN 2          
+         EDITER HIROYUKI        
+          VAUS-2 TAKAKO         
+     KUMICHAN   PAKKUN YUICHI   
+       autor de la musica       
+        T.KIMIJIMA : taito      
+        creador del arte        
+       KAZUOKUN Y KENTAROU      
+         KID. TET. 004          
+            director            
+            A. SATOH            
+           JOE TAMURA           
+         muchas gracias         
+            MASAJIN.H           
+        M. KATOH : taito        
+        H.YABUSAKI:taito        
+     CHIKOKU-OH MIYA "hohzi"    
+        CALL FUKAZAWARETT       
+           productor            
+        F.KUROSAWA:taito        
+        M. EZAKI : taito        
+    TAITO CORPORATION © 1987    
+            gerencia            
+          NIDECOM SOFT          #896
+|896

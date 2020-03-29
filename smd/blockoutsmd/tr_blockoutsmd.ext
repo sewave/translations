@@ -1,0 +1,146 @@
+@0000E570-0000E84C-00
+;0000E570{=~0D~~18~copyright 1991=~0C~~19~California Dreams=~0B~~1A~and electronic arts~00~}#081#060
+=~0D~~18~copyright 1991=~0C~~19~California Dreams=~0C~~1A~y electronic arts\ ~00~#060
+;0000E5AC{=~09~~18~Blockout is a trademark=~08~~1A~of Kadon Enterprises Inc.~00~}#070#055
+=~0A~~18~Blockout es una marca=~08~~1A~de Kadon Enterprises Inc.\ ~00~#055
+;0000E5E3{=~0E~~18~licensed by=~0A~~1A~sega enterprises ltd.~00~}#054#039
+=~0E~~18~licencia de=~0A~~1A~sega enterprises ltd.~00~#039
+;0000E60A{=~0B~~18~original design by=~09~~1A~alexander ustaszewski~00~}#061#046
+=~0B~~18~diseño original de=~09~~1A~alexander ustaszewski~00~#046
+;0000E638{=~09~~19~press start to begin~00~}#033#024
+=~0A~~19~start para empezar\ ~00~#024
+;0000E650{=~10~~19~credits~00~}#020#011
+=~10~~19~crédito~00~#011
+;0000E65B{=~0A~~18~genesis programming=~12~~1A~by~00~}#043#028
+=~0B~~18~programa genesis=~12~~1A~de\  ~00~#028
+;0000E677{=~0A~~19~edwin w. reich, jr.~00~}#032#023
+=~0A~~19~edwin w. reich, jr.~00~#023
+;0000E68E{=~0E~~19~steve hayes~00~}#024#015
+=~0E~~19~steve hayes~00~#015
+;0000E69D{=~0B~~18~sound and music by=~0C~~1A~Michael Bartlow~00~}#055#040
+=~0B~~18~música y sonido de=~0C~~1A~Michael Bartlow~00~#040
+;0000E6C5{=~0E~~18~graphics by=~0E~~1A~gary martin~00~}#044#029
+=~0E~~18~gráficos de=~0E~~1A~gary martin~00~#029
+;0000E6E2{=~0A~~19~assistant producers~00~}#032#023
+=~0A~~19~productor ayudante\~00~#023
+;0000E6F9{=~0F~~19~jeff haas~00~}#022#013
+=~0F~~19~jeff haas~00~#013
+;0000E706{=~0E~~19~john manley~00~}#024#015
+=~0E~~19~john manley~00~#015
+;0000E715{=~0E~~19~produced by~00~}#024#015
+=~0F~~19~productor\ ~00~#015
+;0000E724{=~0C~~19~richard robbins~00~}#028#019
+=~0C~~19~richard robbins~00~#019
+;0000E737{=~0A~~18~technical director=~0D~~1A~richard hicks~00~}#053#038
+=~0B~~18~director técnico=~0D~~1A~richard hicks\ ~00~#038
+;0000E75D{=~0B~~18~special thanks to=~0D~~1A~john tomlinson~00~}#053#038
+=~0B~~18~muchas gracias a=~0D~~1A~john tomlinson\~00~#038
+;0000E783{=~00~}#005#002
+=~00~#002
+;0000E785{~18~________________________________________________________________=~00~}#073#067
+~18~________________________________________________________________=~00~#067
+;0000E7C8{~19~________________________________________________________________=~00~}#073#067
+~19~________________________________________________________________=~00~#067
+;0000E80B{~1A~________________________________________________________________~00~}#072#066
+~1A~________________________________________________________________~00~#066
+|733
+@0001D0EE-0001D29F-00
+;0001D0EE{DEMO~00~}#008#005
+DEMO~00~#005
+;0001D0F3{NPRACTICE~00~}#013#010
+N
+PRÁCTICA~00~#010
+;0001D0FD{MEDIUM~00~}#010#007
+MEDIO ~00~#007
+;0001D104{FAST~00~}#008#005
+RÁP.~00~#005
+;0001D109{ARCADE~00~}#010#007
+ARCADE~00~#007
+;0001D110{CUSTOM~00~}#010#007
+PERSO.~00~#007
+;0001D117{SELECT SCREEN~00~}#017#014
+SELECCIÓN    ~00~#014
+;0001D125{ONE~00~}#007#004
+ UN~00~#004
+;0001D129{TWO~00~}#007#004
+DOS~00~#004
+;0001D12D{PLAYER~00~}#010#007
+JUGADR~00~#007
+;0001D134{START~00~}#009#006
+JUGAR~00~#006
+;0001D13A{OPTIONS~00~}#011#008
+OPCIÓN ~00~#008
+;0001D142{STARTING LEVEL: ~00~}#020#017
+NIVEL INICIAL:  ~00~#017
+;0001D153{SETUP: ~00~}#011#008
+CONF.: ~00~#008
+;0001D15B{BLOCK SET: ~00~}#015#012
+BLOQUES:   ~00~#012
+;0001D167{PIT DIMENSIONS:~00~}#019#016
+DIMENSIÓN FOSO:~00~#016
+;0001D177{DEPTH ~00~}#010#007
+HONDO ~00~#007
+;0001D17E{WIDTH ~00~}#010#007
+ANCHO ~00~#007
+;0001D185{HEIGHT ~00~}#011#008
+ALTO   ~00~#008
+;0001D18D{START GAME~00~}#014#011
+INICIAR   ~00~#011
+;0001D198{EXIT TO SELECT SCREEN~00~}#025#022
+VOLVER A LA SELECCIÓN~00~#022
+;0001D1AE{FILLS TO WIN: ~00~}#018#015
+LLENA GANAR:  ~00~#015
+;0001D1BD{FLAT    ~00~}#012#009
+LISO    ~00~#009
+;0001D1C6{BASIC   ~00~}#012#009
+BÁSICO  ~00~#009
+;0001D1CF{EXTENDED~00~}#012#009
+EXTRA   ~00~#009
+;0001D1D8{3~40~5~40~10  ~00~}#018#009
+3~40~5~40~10  ~00~#009
+;0001D1E1{4~40~5~40~10  ~00~}#018#009
+4~40~5~40~10  ~00~#009
+;0001D1EA{4~40~4~40~10  ~00~}#018#009
+4~40~4~40~10  ~00~#009
+;0001D1F3{N~40~~00~}#009#003
+N~40~~00~#003
+;0001D1F6{~40~~00~}#008#002
+~40~~00~#002
+;0001D1F8{!~00~}#005#002
+!~00~#002
+;0001D1FA{PRESS START~00~}#015#012
+PULSA START~00~#012
+;0001D206{SCORE:~00~}#010#007
+MARCA:~00~#007
+;0001D20D{CONTINUE~00~}#012#009
+CONTINÚA~00~#009
+;0001D216{EXIT~00~}#008#005
+SALE~00~#005
+;0001D21B{         ~00~}#013#010
+         ~00~#010
+;0001D225{NGAME PAUSED~00~}#016#013
+N
+ EN PAUSA  ~00~#013
+;0001D232{           ~00~}#015#012
+           ~00~#012
+;0001D23E{FLAT FUN      ~00~}#018#015
+DIVERSIÓN LISA~00~#015
+;0001D24D{3D MANIA      ~00~}#018#015
+3D MANIA      ~00~#015
+;0001D25C{OUT OF CONTROL~00~}#018#015
+DESCONTROLADO ~00~#015
+;0001D26B{CUSTOM        ~00~}#018#015
+A TU GUSTO    ~00~#015
+;0001D27A{SLOW~00~}#008#005
+LEN.~00~#005
+;0001D27F{MEDIUM~00~}#010#007
+MEDIO ~00~#007
+;0001D286{FAST~00~}#008#005
+RÁP.~00~#005
+;0001D28B{FLAT  ~00~}#010#007
+LISO  ~00~#007
+;0001D292{BASIC ~00~}#010#007
+BÁSICO~00~#007
+;0001D299{EXTEND~00~}#010#007
+EXTRA ~00~#007
+|434

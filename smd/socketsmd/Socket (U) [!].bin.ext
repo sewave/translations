@@ -1,0 +1,304 @@
+@00004C35-00004C40-FF
+;00004C35{OPTIONS~9D~~9A~~9B~ ~FF~}#024#012
+OPTIONS~9D~~9A~~9B~ ~FF~#012
+|12
+@00004C45-00004C4E-FF
+;00004C45{options~9D~ ~9D~}#016#010
+options~9D~ ~9D~#010
+|10
+@00006278-00006300-FF
+;00006278{EMERALD FOREST  TREASURE CASTLE OLEIN CAVERN    STONE AGE       ANTIQUITY       FUTURE          TIME CASTLE     HIGH SPEED AREA p~78~~C0~Bi.~C0~B~70~}#149#137
+EMERALD FOREST  TREASURE CASTLE OLEIN CAVERN    STONE AGE       ANTIQUITY       FUTURE          TIME CASTLE     HIGH SPEED AREA p~78~~C0~Bi.~C0~B~70~#137
+|137
+@00006500-00006523-FF
+;00006500{ATHLETIC AREA LABYRINTH AREAp~78~~C0~ex~BC~ ~A8~}#048#036
+ATHLETIC AREA LABYRINTH AREAp~78~~C0~ex~BC~ ~A8~#036
+|36
+@000068BC-000068CE-FF
+;000068BC{COURSE SELECT~9D~~9A~~9B~~FF~}#029#017
+COURSE SELECT~9D~~9A~~9B~~FF~#017
+;000068CD{ ~FF~}#005#002
+ ~FF~#002
+|19
+@000068D2-000068E1-FF
+;000068D2{course select~9D~ ~9D~}#022#016
+course select~9D~ ~9D~#016
+|16
+@0000693D-00006951-FF
+;0000693D{ HIGH SPED COURSE ~9D~ ~FF~}#027#021
+ HIGH SPED COURSE ~9D~ ~FF~#021
+|21
+@00006954-00006969-FF
+;00006954{ high sped course ~9D~~FF~}#026#020
+ high sped course ~9D~~FF~#020
+;00006968{ ~FF~}#005#002
+ ~FF~#002
+|22
+@00006C2E-00006C70-FF
+;00006C2E{ I A~48~g B  ~6C~~3C~~FF~}#025#013
+ I A~48~g B  ~6C~~3C~~FF~#013
+;00006C3B{~FF~}#004#001
+~FF~#001
+;00006C3C{PRESS START BUTTONpress start Button I A~48~g B~FF~}#051#045
+PRESS START BUTTONpress start Button I A~48~g B~FF~#045
+;00006C69{~FF~}#004#001
+~FF~#001
+;00006C6A{~70~ h.~FD~n~80~}#016#007
+~70~ h.~FD~n~80~#007
+|67
+@00006DE1-00006DED-FF
+;00006DE1{CONTINUE ~9A~~9B~ ~FF~}#022#013
+CONTINUE ~9A~~9B~ ~FF~#013
+|13
+@00006DF2-00006DFF-FF
+;00006DF2{ continue ~9D~~FF~}#018#012
+ continue ~9D~~FF~#012
+;00006DFE{ ~FF~}#005#002
+ ~FF~#002
+|14
+@00006E24-00006E2C-FF
+;00006E24{ TIME ~9C~ ~9D~}#015#009
+ TIME ~9C~ ~9D~#009
+|9
+@00006E3E-00006E46-FF
+;00006E3E{ time ~9C~ ~9D~}#015#009
+ time ~9C~ ~9D~#009
+|9
+@00007686-0000769C-FF
+;00007686{TIME TRIAL COURSE ~9D~~9A~~9B~ ~FF~}#035#023
+TIME TRIAL COURSE ~9D~~9A~~9B~ ~FF~#023
+|23
+@000076A1-000076B5-FF
+;000076A1{time trial course ~9D~ ~9D~}#027#021
+time trial course ~9D~ ~9D~#021
+|21
+@0000778B-0000779B-FF
+;0000778B{ RECORD _'_"_ ~9D~ ~FF~}#023#017
+ RECORD _'_"_ ~9D~ ~FF~#017
+|17
+@0000779E-000077A9-FF
+;0000779E{ record ~9D~~FF~}#016#010
+ record ~9D~~FF~#010
+;000077A8{ ~FF~}#005#002
+ ~FF~#002
+|12
+@0001FF7A-0001FF85-FF
+;0001FF7A{AlAp ~92~AlA~80~ ~92~}#021#012
+AlAp ~92~AlA~80~ ~92~#012
+|12
+@00028C46-00028C6C-FF
+;00028C46{AA ~3E~ft ~B4~ R~62~  e~52~t R~60~ ap~42~t R~60~ afft " R~62~i~52~}#066#039
+AA ~3E~ft ~B4~ R~62~  e~52~t R~60~ ap~42~t R~60~ afft " R~62~i~52~#039
+|39
+@0002BDE0-0002BF33-FF
+;0002BDE0{ A A A AhHgGfFeE AaBBCcDCCBBBBBBBa dA~50~ DA~52~ cA~54~ CA~56~ BA~58~ BA~5A~ aA~5C~ AA~5E~  A~60~  A~62~  A~64~  A~66~  A~68~  A~6A~  A~6C~  A~6E~  A~70~  A~70~  A~70~  A~70~ d B d d B d d d d B d d B d d dAA  A A A A   AA  AA A A A AAA      eW    e' B BC~3F~ B B ~43~nOoP  AaBBCcDDDDjJiIhhHgGfFeEEEE~FF~}#304#235
+ A A A AhHgGfFeE AaBBCcDCCBBBBBBBa dA~50~ DA~52~ cA~54~ CA~56~ BA~58~ BA~5A~ aA~5C~ AA~5E~  A~60~  A~62~  A~64~  A~66~  A~68~  A~6A~  A~6C~  A~6E~  A~70~  A~70~  A~70~  A~70~ d B d d B d d d d B d d B d d dAA  A A A A   AA  AA A A A AAA      eW    e' B BC~3F~ B B ~43~nOoP  AaBBCcDDDDjJiIhhHgGfFeEEEE~FF~#235
+;0002BECB{~FE~~FF~}#008#002
+~FE~~FF~#002
+;0002BECD{~FE~ a~FF~}#010#004
+~FE~ a~FF~#004
+;0002BED1{~FE~~FF~}#008#002
+~FE~~FF~#002
+;0002BED3{~FE~ a a aLkKjJiIhHgGfFeEdDcCBBaA PoOnNmMlMmNnOoP AaBBCcDdEeFfGgHhIiJjKkLl             HB  p   HB~42~ ~40~}#106#097
+~FE~ a a aLkKjJiIhHgGfFeEdDcCBBaA PoOnNmMlMmNnOoP AaBBCcDdEeFfGgHhIiJjKkLl             HB  p   HB~42~ ~40~#097
+|340
+@0002D71C-0002D74B-FF
+;0002D71C{ aa  ~B0~ HahA~E0~ aB ap aBxat IB  ~E0~ HBhA~A0~ aBpa~80~ aB~A0~a~60~}#069#048
+ aa  ~B0~ HahA~E0~ aB ap aBxat IB  ~E0~ HBhA~A0~ aBpa~80~ aB~A0~a~60~#048
+|48
+@0002E074-0002E089-FF
+;0002E074{a Bx ~4C~arad ~4D~apB~90~ Ha~50~a~80~}#037#022
+a Bx ~4C~arad ~4D~apB~90~ Ha~50~a~80~#022
+|22
+@0002E636-0002E647-FF
+;0002E636{ kApA~90~ WApB~D0~ kA~50~C~40~}#030#018
+ kApA~90~ WApB~D0~ kA~50~C~40~#018
+|18
+@000335CD-00033710-FF
+;000335CD{YYk L PiPi e e     k k~3C~yy~51~~42~o f PlPoDPDP    JcJcyY~70~~71~YjNQ ~5B~PPPH  f    ~F7~DDmv~51~~51~YYk L PiPP     A A ' '~3C~~52~~52~YYQ l PiPP H H A A " "~3C~~52~~52~YYQ l PiPP H H E E " "v~51~~51~YYK j PiPP H H E E ' '-j~51~ CQN  PPPPjc      SKCd-j~51~ CQN  PPPPjc      SKCd-j~51~ CQN  PPPPjc      SKCd-j~51~ CQN  PPPPjc      SKCd-j~51~ CQN  PPPPjc      SKCd.ca aNoR PPPP  c FFFD~FF~}#388#319
+YYk L PiPi e e     k k~3C~yy~51~~42~o f PlPoDPDP    JcJcyY~70~~71~YjNQ ~5B~PPPH  f    ~F7~DDmv~51~~51~YYk L PiPP     A A ' '~3C~~52~~52~YYQ l PiPP H H A A " "~3C~~52~~52~YYQ l PiPP H H E E " "v~51~~51~YYK j PiPP H H E E ' '-j~51~ CQN  PPPPjc      SKCd-j~51~ CQN  PPPPjc      SKCd-j~51~ CQN  PPPPjc      SKCd-j~51~ CQN  PPPPjc      SKCd-j~51~ CQN  PPPPjc      SKCd.ca aNoR PPPP  c FFFD~FF~#319
+;0003370C{~FF~}#004#001
+~FF~#001
+;0003370D{~FF~}#004#001
+~FF~#001
+;0003370E{~FF~}#004#001
+~FF~#001
+;0003370F{ ~F3~}#005#002
+ ~F3~#002
+|324
+@00040CC6-00040CD7-FF
+;00040CC6{MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~}#039#018
+MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~#018
+|18
+@00043131-000431B5-FF
+;00043131{A  AAmA  tAtA  CtCt  ~DA~~DC~~CA~~DF~  tmtt  ABAB  ~98~~99~~9A~~9B~II~D8~~D9~~DE~~C9~  A~8E~AB  ~8F~~A2~BA  aCaC  ~64~~4B~~65~~66~  BeBA  AjAr  KASA  t~AC~tA   B B  BABA  tttt   j r  KASA   ~D8~ ~C8~}#199#133
+A  AAmA  tAtA  CtCt  ~DA~~DC~~CA~~DF~  tmtt  ABAB  ~98~~99~~9A~~9B~II~D8~~D9~~DE~~C9~  A~8E~AB  ~8F~~A2~BA  aCaC  ~64~~4B~~65~~66~  BeBA  AjAr  KASA  t~AC~tA   B B  BABA  tttt   j r  KASA   ~D8~ ~C8~#133
+|133
+@00045332-00045381-FF
+;00045332{AB  ~8F~~A2~BA  aCaC  ~64~~4B~~65~~66~  BeBA  AjAr  KASA  t~AC~tA   B B  BABA  tttt   j r  KASA   ~D8~ ~C8~}#107#080
+AB  ~8F~~A2~BA  aCaC  ~64~~4B~~65~~66~  BeBA  AjAr  KASA  t~AC~tA   B B  BABA  tttt   j r  KASA   ~D8~ ~C8~#080
+|80
+@000455E7-000455ED-FF
+;000455E7{DoDo~6E~o~75~}#013#007
+DoDo~6E~o~75~#007
+|7
+@00046F2B-00046F31-FF
+;00046F2B{DaBB~54~g~75~}#013#007
+DaBB~54~g~75~#007
+|7
+@000472F0-00047301-FF
+;000472F0{MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~}#039#018
+MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~#018
+|18
+@0004A495-0004A49B-FF
+;0004A495{zoBO~B8~ ~C0~}#013#007
+zoBO~B8~ ~C0~#007
+|7
+@00055800-00055811-FF
+;00055800{MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~}#039#018
+MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~#018
+|18
+@00059AA0-00059AAA-FF
+;00059AA0{dIlL  ~F0~~F1~~57~~58~~88~}#026#011
+dIlL  ~F0~~F1~~57~~58~~88~#011
+|11
+@00059CB0-00059CBA-FF
+;00059CB0{asia  ~79~~7A~~6D~~6E~~99~}#026#011
+asia  ~79~~7A~~6D~~6E~~99~#011
+|11
+@0005B6AC-0005B6BD-FF
+;0005B6AC{MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~}#039#018
+MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~#018
+|18
+@000616C2-000616D3-FF
+;000616C2{MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~}#039#018
+MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~#018
+|18
+@00063460-00063487-FF
+;00063460{GGOO  aair  GoOo  LlLl~88~~88~MmMm~88~~88~NnNn~88~~88~~E2~~E3~T~41~}#067#040
+GGOO  aair  GoOo  LlLl~88~~88~MmMm~88~~88~NnNn~88~~88~~E2~~E3~T~41~#040
+|40
+@000660EF-00066144-FF
+;000660EF{pqC~50~ Dip JENp dowy~D1~~BE~~D0~ dovz~CE~~AF~~B4~ JNp~CE~~AF~~B4~ dv~A8~~B0~~B8~iUNR dW~AA~~B2~~BA~iYnr dsiwi~CE~~AF~~B4~ dsiwnp di~D1~~BE~~D0~ di~CE~~AE~~B4~ ~E6~}#164#086
+pqC~50~ Dip JENp dowy~D1~~BE~~D0~ dovz~CE~~AF~~B4~ JNp~CE~~AF~~B4~ dv~A8~~B0~~B8~iUNR dW~AA~~B2~~BA~iYnr dsiwi~CE~~AF~~B4~ dsiwnp di~D1~~BE~~D0~ di~CE~~AE~~B4~ ~E6~#086
+|86
+@00066280-000662D8-FF
+;00066280{qYnYnYn_iq '~87~doMs_ip JR ~8F~~6D~Tdw~E5~~B4~ dq '~87~dw~E4~~D0~ dq '~87~dw~E5~~B4~UNp ~8F~~6D~~95~Tdp~D1~~BE~~F4~q '~87~doUR~CE~~AF~~AE~~ED~q '~87~doYr~D1~~BE~~F4~q~61~}#170#089
+qYnYnYn_iq '~87~doMs_ip JR ~8F~~6D~Tdw~E5~~B4~ dq '~87~dw~E4~~D0~ dq '~87~dw~E5~~B4~UNp ~8F~~6D~~95~Tdp~D1~~BE~~F4~q '~87~doUR~CE~~AF~~AE~~ED~q '~87~doYr~D1~~BE~~F4~q~61~#089
+|89
+@00066328-00066331-FF
+;00066328{ dopy~D1~~BE~~D0~~47~~4F~}#025#010
+ dopy~D1~~BE~~D0~~47~~4F~#010
+|10
+@00066332-000663B6-FF
+;00066332{gGdos_~D1~~BE~~D0~ISI~4A~fBdos_~CE~~AF~~B4~RISI~4A~fBdoW_~CE~~AF~~B4~qCI~4A~fBdowp~CE~~AF~~B4~qC~57~~4E~Lkdosp~D1~~BE~~D0~q dowp~CE~~AF~~B4~q ~8F~~6D~~95~Tdopq '~87~doq r ~B6~~75~~96~~65~doq dop dos domUNR doi_iq jenYnr Dw~E5~~B4~ ~E6~}#235#133
+gGdos_~D1~~BE~~D0~ISI~4A~fBdos_~CE~~AF~~B4~RISI~4A~fBdoW_~CE~~AF~~B4~qCI~4A~fBdowp~CE~~AF~~B4~qC~57~~4E~Lkdosp~D1~~BE~~D0~q dowp~CE~~AF~~B4~q ~8F~~6D~~95~Tdopq '~87~doq r ~B6~~75~~96~~65~doq dop dos domUNR doi_iq jenYnr Dw~E5~~B4~ ~E6~#133
+|133
+@0006769C-000676AD-FF
+;0006769C{MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~}#039#018
+MC~88~~88~CmCC~88~~88~clEe~88~~88~l~96~#018
+|18
+@0006B2C8-0006B2E0-FF
+;0006B2C8{AA~47~JAABBrrAAJA~48~AJAJA~64~~68~~78~~78~~59~}#046#025
+AA~47~JAABBrrAAJA~48~AJAJA~64~~68~~78~~78~~59~#025
+|25
+@0006B8DD-0006B8E5-FF
+;0006B8DD{OssA~41~~6C~~6D~~6E~~6F~}#024#009
+OssA~41~~6C~~6D~~6E~~6F~#009
+|9
+@0006F7AC-0006F8A2-FF
+;0006F7AC{Ds S T"T_T A S s CS S s NMnMko Ses B S LP S ~48~MnMNM c S S C NMNM d ko E LP a d c B c E MnMnM S S MnMNMnp S S Ss S MNM~47~F j Ss S d Sf K Ss SAtE NMp c Ss S Ut s Ss S uyt hl s nM~46~s S VZUtI gs S ~48~MNMT~3F~uyt s S d hl ~40~TVZUt s SDE I T~40~T uT ~48~MNMnMnT~3F~w S S~3F~T~45~}#280#247
+Ds S T"T_T A S s CS S s NMnMko Ses B S LP S ~48~MnMNM c S S C NMNM d ko E LP a d c B c E MnMnM S S MnMNMnp S S Ss S MNM~47~F j Ss S d Sf K Ss SAtE NMp c Ss S Ut s Ss S uyt hl s nM~46~s S VZUtI gs S ~48~MNMT~3F~uyt s S d hl ~40~TVZUt s SDE I T~40~T uT ~48~MNMnMnT~3F~w S S~3F~T~45~#247
+|247
+@000702CC-000704B6-FF
+;000702CC{ko QR aLP D qr e B QM qR j Qr B c DKc qM Q d D c q E C A FG c hl imD f e I c J nMnMnMnMSA S S S S S A S S g NMnMNMnMNMNM~47~ c SD S C d SD S c S D E S MNMnMNMp c SA S D s S C S sC NMNMp s g As s D s ~48~MnMpMp c Ds e S s s s SD s s cs S a s~47~s e s S B sSs D s c S ~48~Ss s S D Ss a s d S c Ss B cs E S Ss s S Ss ~48~MNMpSs hl j sSs I K sSs ~49~MOSs s B j Sscs c Ss ~48~Mp eSs D A C cs Ss ~48~MSs S~48~MpMS s S ~48~Mp S s S C j cs FG S K B s f D S ~49~MO NMOMp s c ko s a D LPD s B ~48~MnM~47~ nMS S S S A j d S S S K E NM~46~~49~S ~49~M~47~}#542#491
+ko QR aLP D qr e B QM qR j Qr B c DKc qM Q d D c q E C A FG c hl imD f e I c J nMnMnMnMSA S S S S S A S S g NMnMNMnMNMNM~47~ c SD S C d SD S c S D E S MNMnMNMp c SA S D s S C S sC NMNMp s g As s D s ~48~MnMpMp c Ds e S s s s SD s s cs S a s~47~s e s S B sSs D s c S ~48~Ss s S D Ss a s d S c Ss B cs E S Ss s S Ss ~48~MNMpSs hl j sSs I K sSs ~49~MOSs s B j Sscs c Ss ~48~Mp eSs D A C cs Ss ~48~MSs S~48~MpMS s S ~48~Mp S s S C j cs FG S K B s f D S ~49~MO NMOMp s c ko s a D LPD s B ~48~MnM~47~ nMS S S S A j d S S S K E NM~46~~49~S ~49~M~47~#491
+|491
+@00071830-0007213C-FF
+;00071830{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    EEd                             cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd              Edd            cDcD            cDlM            mNt             A pQ            qR              sTIi            uVvW            hKHK            yZz_            cDcD            HgBBC           Uddq            KgFfG            ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            uVvW            KEKE            yZz_            dddd            gHBBC           ahlM            gHFfG           ehpQ            lMJj            cDmN            pQA             UHqR            sTsT             HuV            Iidd            nOoP            hht            .->cD            Ii             ~40~~41~~42~si            hh a            kLrS            hhAe            AKKE            hsTK            KcDc            hEdK            KdmN            KccKKccKKccKKccKKccK            cKKDcKKccKKDcKKDcKKD                aBiJ  hIVv~3B~ Ww  X ~3F~ ~40~}#2335#2317
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    EEd                             cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd              Edd            cDcD            cDlM            mNt             A pQ            qR              sTIi            uVvW            hKHK            yZz_            cDcD            HgBBC           Uddq            KgFfG            ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            uVvW            KEKE            yZz_            dddd            gHBBC           ahlM            gHFfG           ehpQ            lMJj            cDmN            pQA             UHqR            sTsT             HuV            Iidd            nOoP            hht            .->cD            Ii             ~40~~41~~42~si            hh a            kLrS            hhAe            AKKE            hsTK            KcDc            hEdK            KdmN            KccKKccKKccKKccKKccK            cKKDcKKccKKDcKKDcKKD                aBiJ  hIVv~3B~ Ww  X ~3F~ ~40~#2317
+|2317
+@00072230-00072F3C-FF
+;00072230{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd              Edd            cDcD            cDlM            mNt             A pQ            qR              sTIi            uVvW            hKHK            yZz_            cDcD            HgBBC           Uddq            KgFfG            ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            uVvW            KEKE            yZz_            dddd            gHBBC           ahlM            gHFfG           ehpQ            lMJj            cDmN            pQA             UHqR            sTsT             HuV            Iidd            nOoP            hht            .->cD            Ii             ~40~~41~~42~si            hh a            kLrS            hhAe            AKKE            hsTK            KcDc            hEdK            KdmN            KccKKccKKccKKccKKccK            cKKDcKKccKKDcKKDcKKD                aBiJ  hIVv~3B~ Ww  X ~3F~ ~40~}#3359#3341
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd              Edd            cDcD            cDlM            mNt             A pQ            qR              sTIi            uVvW            hKHK            yZz_            cDcD            HgBBC           Uddq            KgFfG            ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            uVvW            KEKE            yZz_            dddd            gHBBC           ahlM            gHFfG           ehpQ            lMJj            cDmN            pQA             UHqR            sTsT             HuV            Iidd            nOoP            hht            .->cD            Ii             ~40~~41~~42~si            hh a            kLrS            hhAe            AKKE            hsTK            KcDc            hEdK            KdmN            KccKKccKKccKKccKKccK            cKKDcKKccKKDcKKDcKKD                aBiJ  hIVv~3B~ Ww  X ~3F~ ~40~#3341
+|3341
+@00073030-0007412C-FF
+;00073030{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            uVvW            KEKE            cDcD            cDlM            mNt             A pQ            qR              sTIi            uVvW            hKHK            yZz_            cDcD            HgBBC           Uddq            KgFfG            ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            uVvW            KEKE            yZz_            dddd            gHBBC           ahlM            gHFfG           ehpQ            lMJj            cDmN            pQA             UHqR            sTsT             HuV            Iidd            nOoP            hht            .->cD            Ii             ~40~~41~~42~si            hh a            kLrS            hhAe            AKKE            hsTK            KcDc            hEdK            KdmN            KccKKccKKccKKccKKccK            cKKDcKKccKKDcKKDcKKD                ~88~~88~~59~~5A~~5D~}#4373#4349
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            EEd             kLEd            cDcD              lM            mNt             A pQ            qR              sTIi            uVa             hKHK            yZe             cDcD            HgE             Uddq            KgsT             ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            uVvW            KEKE            cDcD            cDlM            mNt             A pQ            qR              sTIi            uVvW            hKHK            yZz_            cDcD            HgBBC           Uddq            KgFfG            ddu            dgJj            cDcD            IiAA            UHHH            EKKK            mNmN            hddd            sTIi            lMt              dEd            pQ              lMlM            mN              cDcD            qR               AHH            uVvW            KEKE            yZz_            dddd            gHBBC           ahlM            gHFfG           ehpQ            lMJj            cDmN            pQA             UHqR            sTsT             HuV            Iidd            nOoP            hht            .->cD            Ii             ~40~~41~~42~si            hh a            kLrS            hhAe            AKKE            hsTK            KcDc            hEdK            KdmN            KccKKccKKccKKccKKccK            cKKDcKKccKKDcKKDcKKD                ~88~~88~~59~~5A~~5D~#4349
+|4349
+@0007605B-000760DA-FF
+;0007605B{HunK~74~nimhlHAEBFCGD~74~nVJNIMdaeBfcgH~74~nWHAEud~74~nTdaenj~74~nS~59~DunK~74~nSHunD~74~nSHDnunH~74~nSHjAEhld~74~nSdaeIMj~74~nSHdBFK~74~nSjBfD~74~nWdnH~74~nThld~74~nIMj~4B~~4D~p~4F~}#182#128
+HunK~74~nimhlHAEBFCGD~74~nVJNIMdaeBfcgH~74~nWHAEud~74~nTdaenj~74~nS~59~DunK~74~nSHunD~74~nSHDnunH~74~nSHjAEhld~74~nSdaeIMj~74~nSHdBFK~74~nSjBfD~74~nWdnH~74~nThld~74~nIMj~4B~~4D~p~4F~#128
+|128
+@00076209-00076238-FF
+;00076209{Hund~74~nBFZk~3B~dunj~74~nBfO~3B~kHunK~74~nimZL~3B~CGBFunD~74~nJNZ~3B~k~3B~}#075#048
+Hund~74~nBFZk~3B~dunj~74~nBfO~3B~kHunK~74~nimZL~3B~CGBFunD~74~nJNZ~3B~k~3B~#048
+|48
+@0007EB34-0007EB3C-FF
+;0007EB34{adad~7F~~F0~~7F~~F0~~7F~}#024#009
+adad~7F~~F0~~7F~~F0~~7F~#009
+|9
+@0007EB49-0007EC64-FF
+;0007EB49{.adad~7F~~F8~kBq Bqjf BqrG BqSg BqLH K kDXC nRVO nRVO aWC oNms oNms aWC dhWC EIWC eiWC FJWC d~3F~~3E~vB z~3D~~3B~vB _~3D~>WC '~3D~-wc F"~3C~wc lptx lptx aWC MQUY MQUY aWCKPTC   A A a B B C A A A A A A a B B C A A c D D D D D D D D D D D D d E e F f G g H h I I i J F f G g j K k D D D D D D D D D D D D    ~AC~~AD~~50~~51~~4A~}#326#284
+.adad~7F~~F8~kBq Bqjf BqrG BqSg BqLH K kDXC nRVO nRVO aWC oNms oNms aWC dhWC EIWC eiWC FJWC d~3F~~3E~vB z~3D~~3B~vB _~3D~>WC '~3D~-wc F"~3C~wc lptx lptx aWC MQUY MQUY aWCKPTC   A A a B B C A A A A A A a B B C A A c D D D D D D D D D D D D d E e F f G g H h I I i J F f G g j K k D D D D D D D D D D D D    ~AC~~AD~~50~~51~~4A~#284
+|284
+@0008AC84-0008ACA7-FF
+;0008AC84{A.B~E8~A.Cta~88~Cta~B8~C. ~58~C.a~78~C.a~C8~C.B.C.B~48~C~40~}#060#036
+A.B~E8~A.Cta~88~Cta~B8~C. ~58~C.a~78~C.a~C8~C.B.C.B~48~C~40~#036
+|36
+@0008BF0A-0008BF1B-FF
+;0008BF0A{D.A.D.A~58~D.A~88~D.A~A8~D~60~}#030#018
+D.A.D.A~58~D.A~88~D.A~A8~D~60~#018
+|18
+@0008CDE2-0008CE05-FF
+;0008CDE2{Cha~48~Cla~68~Cla~88~ClAtC.A~48~C.A~68~C.alC~58~atC~58~ ~48~}#060#036
+Cha~48~Cla~68~Cla~88~ClAtC.A~48~C.A~68~C.alC~58~atC~58~ ~48~#036
+|36
+@00097D80-00097DC5-FF
+;00097D80{p pr~54~~44~ A A QpdAh~40~~48~  B ~60~~40~  pAB~C2~    ZVJ~3F~    d I BurEt BJ~44~ a hiIih ~80~~80~~44~  ~54~}#109#070
+p pr~54~~44~ A A QpdAh~40~~48~  B ~60~~40~  pAB~C2~    ZVJ~3F~    d I BurEt BJ~44~ a hiIih ~80~~80~~44~  ~54~#070
+|70
+@000991DD-00099205-FF
+;000991DD{MMI~F7~~4C~~46~~C4~IMAA~C4~~4C~~46~~C4~IMMI~40~RZy~66~~66~~66~~66~ZZZZ    Y~98~~CC~~66~~66~~44~}#095#041
+MMI~F7~~4C~~46~~C4~IMAA~C4~~4C~~46~~C4~IMMI~40~RZy~66~~66~~66~~66~ZZZZ    Y~98~~CC~~66~~66~~44~#041
+|41
+@000ACBC9-000ACBD8-FF
+;000ACBC9{pBDp p pApA~77~~F7~~FF~}#023#014
+pBDp p pApA~77~~F7~~FF~#014
+;000ACBD7{~7F~~77~}#008#002
+~7F~~77~#002
+|16
+@000B44BF-000B44E3-FF
+;000B44BF{qR~42~qJqIqQI~42~qIJ~42~IJZYJZdl~88~~81~PIlI~AA~~FF~}#052#031
+qR~42~qJqIqQI~42~qIJ~42~IJZYJZdl~88~~81~PIlI~AA~~FF~#031
+;000B44DE{Ii~AA~~F1~u~56~}#015#006
+Ii~AA~~F1~u~56~#006
+|37
+@000B8866-000B8881-FF
+;000B8866{ZZ  c~66~  aq  AI  AI~49~MILD~7F~~77~~70~ ~4E~}#046#028
+ZZ  c~66~  aq  AI  AI~49~MILD~7F~~77~~70~ ~4E~#028
+|28
+@000C9036-000C9070-FF
+;000C9036{DG~42~NAhA~60~Dg~4A~NApA~80~cH~42~RAhA~80~ch~4A~RApA~70~AI~42~lAdA~70~Ai~4A~lAxA~88~ J~42~mAdA~88~  ~4A~}#104#059
+DG~42~NAhA~60~Dg~4A~NApA~80~cH~42~RAhA~80~ch~4A~RApA~70~AI~42~lAdA~70~Ai~4A~lAxA~88~ J~42~mAdA~88~  ~4A~#059
+|59
+@000C9698-000C990C-FF
+;000C9698{ f~97~  f~97~  f~97~n f~97~x f~97~~52~ f~97~~6A~ f~97~~82~ f~97~~A0~ f~97~~C4~ f~97~~DA~ f~97~~F6~ f~98~d f~98~q f~98~~42~ f~98~~60~ f~98~~8E~ f~98~~AE~ f~98~~D0~ f~98~~E2~ f~99~a f~99~p f~99~~3E~ f~99~~5E~ f~99~~7C~ f~99~~96~ f~99~~BA~ F~C3~ SOCKET STAFFsocket staff D~E3~ DIRECTORdirector g~C3~ DARK SIDE TOSHIdark side toshi E~E3~ MAP DESIGNmap design E~C3~ LOVELY NAOlovely nao f~C3~ GOOD BY MITSUgood By mitsu H~E3~ CHARACTER DESIGNcharacter design d~C3~ BIRD WESTBird west F~E3~ MAIN PROGRAMmain program c~C3~ GANTAROgantaro e~E3~ MAP PROGRAMmap program G~C3~ HONEY ISHIHARAhoney ishihara f~E3~ ENEMY PROGRAMenemy program j~C3~ NORIMONO HAKUBUTSUKANnorimono hakuButsukan G~E3~ SOUND COMPOSERsound composer g~C3~ FUMITO TAMAYAMAfumito tamayama c~E3~ PLANNERplanner G~C3~ TOSHI NAO MITUtoshi.nao.mitu f~C3~       ~40~}#821#629
+ f~97~  f~97~  f~97~n f~97~x f~97~~52~ f~97~~6A~ f~97~~82~ f~97~~A0~ f~97~~C4~ f~97~~DA~ f~97~~F6~ f~98~d f~98~q f~98~~42~ f~98~~60~ f~98~~8E~ f~98~~AE~ f~98~~D0~ f~98~~E2~ f~99~a f~99~p f~99~~3E~ f~99~~5E~ f~99~~7C~ f~99~~96~ f~99~~BA~ F~C3~ SOCKET STAFFsocket staff D~E3~ DIRECTORdirector g~C3~ DARK SIDE TOSHIdark side toshi E~E3~ MAP DESIGNmap design E~C3~ LOVELY NAOlovely nao f~C3~ GOOD BY MITSUgood By mitsu H~E3~ CHARACTER DESIGNcharacter design d~C3~ BIRD WESTBird west F~E3~ MAIN PROGRAMmain program c~C3~ GANTAROgantaro e~E3~ MAP PROGRAMmap program G~C3~ HONEY ISHIHARAhoney ishihara f~E3~ ENEMY PROGRAMenemy program j~C3~ NORIMONO HAKUBUTSUKANnorimono hakuButsukan G~E3~ SOUND COMPOSERsound composer g~C3~ FUMITO TAMAYAMAfumito tamayama c~E3~ PLANNERplanner G~C3~ TOSHI NAO MITUtoshi.nao.mitu f~C3~       ~40~#629
+|629
+@000C996F-000C99EB-FF
+;000C996F{              e~C3~ YOKO SUZUKIyoko suzuki H~C3~ SHIGENORI MASUKOshigenori masuko g~C3~ YASUYUKI HAMADAyasuyuki hamada ~5F~ap  Bpdpgpg~40~g~80~}#143#125
+              e~C3~ YOKO SUZUKIyoko suzuki H~C3~ SHIGENORI MASUKOshigenori masuko g~C3~ YASUYUKI HAMADAyasuyuki hamada ~5F~ap  Bpdpgpg~40~g~80~#125
+|125
+@000CE35D-000CE380-FF
+;000CE35D{ HayZ IQiZIqIQiIiIQIQIiIiIiIiIm~AA~~AD~~9A~~AA~~D9~}#051#036
+ HayZ IQiZIqIQiIiIQIQIiIiIiIiIm~AA~~AD~~9A~~AA~~D9~#036
+|36
+@000DEE6B-000DEED0-FF
+;000DEE6B{I dIq diU diU dIU ElI  ~99~~99~  Eq  D~74~   L   A   A               D   i  Bt AryL~72~~82~ JZ  qq      ~88~   l~80~  Q~89~  ~92~}#129#102
+I dIq diU diU dIU ElI  ~99~~99~  Eq  D~74~   L   A   A               D   i  Bt AryL~72~~82~ JZ  qq      ~88~   l~80~  Q~89~  ~92~#102
+|102
+@000FFF71-000FFFFF-FF
+;000FFF71{                                                                                                                                               }#143#143
+                                                                                                                                               #143
+|143

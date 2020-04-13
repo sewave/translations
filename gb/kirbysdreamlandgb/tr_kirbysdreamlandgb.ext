@@ -1,0 +1,107 @@
+@0000C4E7-0000C4F2-FF
+;0000C4E7{__SOUND_TEST}#012#012
+__TEST_AUDIO#012
+|12
+@0000C4FC-0000C505-FF
+;0000C4FC{_>MUSIC_00}#010#010
+_>MÚSICA00#010
+|10
+@0000C506-0000C50D-FF
+;0000C506{Q~37~~00~~AF~~84~~00~~85~~02~}#029#008
+Q~37~~00~~AF~~84~~00~~8A~~02~#008
+|8
+@0000C50E-0000C510-FF
+;0000C50E{_00}#003#003
+_00#003
+|3
+@0000C597-0000C5A8-FF
+;0000C597{CONFIGURATION*MODE}#018#018
+MODO~A2~CONFIGURACIÓN#018
+|18
+@0000C5D1-0000C5D6-FF
+;0000C5D1{VITAL:}#006#006
+VIDA~A5~:#006
+|6
+@0000C5F7-0000C5FD-FF
+;0000C5F7{>KIRBY:}#007#007
+>KIRBY:#007
+|7
+@0000C617-0000C621-FF
+;0000C617{>SOUND/TEST}#011#011
+>TEST~A8~AUDIO#011
+|11
+@0000C641-0000C646-FF
+;0000C641{>EXIT~AB~}#009#006
+>SALIR#006
+|6
+@0000C685-0000C68E-FF
+;0000C685{GAME__OVER}#010#010
+FIN__JUEGO#010
+|10
+@00019E86-0001A385-FF
+;00019E86{                        THE CREDITS                                              DIRECTOR             CHIEF DESIGNER          MASA SAKURAI                       CHIEF PROGRAMMER                            KYOUHEI MIYABI                      PROGRAMMER                                    SUNDAY RAIN                       GDV PROGRAMMER                                MAMMY PRECO                       GDV PROGRAMMER                              TETSUYA NOTOYA                      DESIGNER                                     MOGAMI KURAND                      SOUND COMPOSER                               JUN ISHIKAWA                       SPECIAL THANKS                                   BUBBY                          SPECIAL THANKS                                  CIPHER                          SUPERVISOR                                   BOU NAKAJIMA                       PRODUCER                                     MAKOTO KANAI                       AND                                       SO MANY PLAYERS.                      KIRBY'S DREAM LAND                      PRESENTED BY...                         HAL LABORATORY,INC.                        AND NINTENDO                         THANK YOU FOR                                     PLAYING.                     }#1280#1280
+                    
+    LOS CRÉDITOS    
+                    
+                    
+ DIRECTOR           
+  JEFE DISEÑO       
+      MASA SAKURAI  
+                    
+ PROGRAMADOR JEFE   
+                    
+     KYOUHEI MIYABI 
+                    
+ PROGRAMADOR        
+                    
+       SUNDAY RAIN  
+                    
+ PROGRAMADOR GDV    
+                    
+       MAMMY PRECO  
+                    
+ PROGRAMADOR GDV    
+                    
+     TETSUYA NOTOYA 
+                    
+ DISEÑADOR          
+                    
+      MOGAMI KURAND 
+                    
+ COMPOSITOR SONIDO  
+                    
+      JUN ISHIKAWA  
+                    
+ GRACIAS ESPECIALES 
+                    
+          BUBBY     
+                    
+ GRACIAS ESPECIALES 
+                    
+         CIPHER     
+                    
+ SUPERVISOR         
+                    
+      BOU NAKAJIMA  
+                    
+ PRODUCTOR          
+                    
+      MAKOTO KANAI  
+                    
+ Y                  
+                    
+  TANTOS JUGADORES. 
+                    
+ KIRBY'S DREAM LAND 
+                    
+ PRESENTADO POR...  
+                    
+ HAL LABORATORY,INC.
+                    
+     Y NINTENDO     
+                    
+ GRACIAS POR        
+                    
+             JUGAR. 
+                    #1280
+|1280

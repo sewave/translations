@@ -1,0 +1,918 @@
+@00015EEE-00015FE7-00
+;00000000{Not Enough Memory!!~0A~< COBRA MISSION > requires 512K to run!!~0A~~00~}#071#062
+Not Enough Memory!!~0A~< COBRA MISSION > requires 512K to run!!~0A~~00~#062
+;0000003E{~1B~[1m~00~}#011#005
+~1B~[1m~00~#005
+;00000043{MCG.VOL~00~}#011#008
+MCG.VOL~00~#008
+;0000004B{ECG.VOL~00~}#011#008
+ECG.VOL~00~#008
+;00000053{~1B~[0m~1B~[2J~00~}#018#009
+~1B~[0m~1B~[2J~00~#009
+;0000005C{Not Enough Memory~00~}#021#018
+Not Enough Memory~00~#018
+;0000006E{Out of Near Heap~00~}#020#017
+Out of Near Heap~00~#017
+;0000007F{Text File Error!~00~}#020#017
+Text File Error!~00~#017
+;00000090{Out of Far Heap~00~}#019#016
+Out of Far Heap~00~#016
+;000000A0{Bad Index~00~}#013#010
+Bad Index~00~#010
+;000000AA{System error~00~}#016#013
+System error~00~#013
+;000000B7{%s~0A~~00~}#010#004
+%s~0A~~00~#004
+;000000BB{Far heap left: %lu bytes~0A~~00~}#032#026
+Far heap left: %lu bytes~0A~~00~#026
+;000000D5{%s (%i): Load Error. Program Abort.~0A~~00~}#043#037
+%s (%i): Load Error. Program Abort.~0A~~00~#037
+|250
+@000160D4-00016103-00
+;00000000{MONEY~00~}#009#006
+MONEY~00~#006
+;00000006{$%u~00~}#007#004
+$%u~00~#004
+;0000000A{L%2u~00~}#008#005
+L%2u~00~#005
+;0000000F{LVL%2u~00~}#010#007
+LVL%2u~00~#007
+;00000016{%u/%u~00~}#009#006
+%u/%u~00~#006
+;0000001C{DOWN~00~}#008#005
+DOWN~00~#005
+;00000021{~00~}#004#001
+~00~#001
+;00000022{ - continue -~00~}#017#014
+ - continue -~00~#014
+|48
+@000162AB-00016666-00
+;00000000{ in the bushes~00~}#018#015
+ in the bushes~00~#015
+;0000000F{ behind the plant~00~}#021#018
+ behind the plant~00~#018
+;00000021{ in the wardrobe~00~}#020#017
+ in the wardrobe~00~#017
+;00000032{ on the shelf~00~}#017#014
+ on the shelf~00~#014
+;00000040{ in the box~00~}#015#012
+ in the box~00~#012
+;0000004C{ under the carpet~00~}#021#018
+ under the carpet~00~#018
+;0000005E{ on the ground~00~}#018#015
+ on the ground~00~#015
+;0000006D{ in the pipe~00~}#016#013
+ in the pipe~00~#013
+;0000007A{ in the fountain~00~}#020#017
+ in the fountain~00~#017
+;0000008B{ on the floor~00~}#017#014
+ on the floor~00~#014
+;00000099{ in the darkness~00~}#020#017
+ in the darkness~00~#017
+;000000AA{ under the tree~00~}#019#016
+ under the tree~00~#016
+;000000BA{ under the table~00~}#020#017
+ under the table~00~#017
+;000000CB{ on the bed~00~}#015#012
+ on the bed~00~#012
+;000000D7{ beside the bath tub~00~}#024#021
+ beside the bath tub~00~#021
+;000000EC{ on the sofa~00~}#016#013
+ on the sofa~00~#013
+;000000F9{ on the TV~00~}#014#011
+ on the TV~00~#011
+;00000104{ on the chair~00~}#017#014
+ on the chair~00~#014
+;00000112{The Gang~00~}#012#009
+The Gang~00~#009
+;0000011B{The Old Woman~00~}#017#014
+The Old Woman~00~#014
+;00000129{The station officer~00~}#023#020
+The station officer~00~#020
+;0000013D{The Engineer~00~}#016#013
+The Engineer~00~#013
+;0000014A{King Kong Jr.~00~}#017#014
+King Kong Jr.~00~#014
+;00000158{The City Clerk~00~}#018#015
+The City Clerk~00~#015
+;00000167{The Mayor~00~}#013#010
+The Mayor~00~#010
+;00000171{Joe~00~}#007#004
+Joe~00~#004
+;00000175{Hugo~00~}#008#005
+Hugo~00~#005
+;0000017A{Beck~00~}#008#005
+Beck~00~#005
+;0000017F{The woman~00~}#013#010
+The woman~00~#010
+;00000189{Tacker~00~}#010#007
+Tacker~00~#007
+;00000190{The Girl~00~}#012#009
+The Girl~00~#009
+;00000199{The Old Man~00~}#015#012
+The Old Man~00~#012
+;000001A5{The staff~00~}#013#010
+The staff~00~#010
+;000001AF{The front man~00~}#017#014
+The front man~00~#014
+;000001BD{Wendell~00~}#011#008
+Wendell~00~#008
+;000001C5{Monty~00~}#009#006
+Monty~00~#006
+;000001CB{Guile~00~}#009#006
+Guile~00~#006
+;000001D1{Winter~00~}#010#007
+Winter~00~#007
+;000001D8{Derek~00~}#009#006
+Derek~00~#006
+;000001DE{Dominique~00~}#013#010
+Dominique~00~#010
+;000001E8{The Man~00~}#011#008
+The Man~00~#008
+;000001F0{The Owner~00~}#013#010
+The Owner~00~#010
+;000001FA{The Boy~00~}#011#008
+The Boy~00~#008
+;00000202{The Instructor~00~}#018#015
+The Instructor~00~#015
+;00000211{The Employee~00~}#016#013
+The Employee~00~#013
+;0000021E{The S&M Girl~00~}#016#013
+The S&M Girl~00~#013
+;0000022B{Grandma~00~}#011#008
+Grandma~00~#008
+;00000233{Bo~00~}#006#003
+Bo~00~#003
+;00000236{Fritz~00~}#009#006
+Fritz~00~#006
+;0000023C{Mick~00~}#008#005
+Mick~00~#005
+;00000241{The Soldier~00~}#015#012
+The Soldier~00~#012
+;0000024D{Geppel~00~}#010#007
+Geppel~00~#007
+;00000254{The Security~00~}#016#013
+The Security~00~#013
+;00000261{Fist~00~}#008#005
+Fist~00~#005
+;00000266{The Townsfolk~00~}#017#014
+The Townsfolk~00~#014
+;00000274{The Master~00~}#014#011
+The Master~00~#011
+;0000027F{The Office Clerk~00~}#020#017
+The Office Clerk~00~#017
+;00000290{The Guard~00~}#013#010
+The Guard~00~#010
+;0000029A{Arnie~00~}#009#006
+Arnie~00~#006
+;000002A0{Clay~00~}#008#005
+Clay~00~#005
+;000002A5{Duncan~00~}#010#007
+Duncan~00~#007
+;000002AC{Vinny~00~}#009#006
+Vinny~00~#006
+;000002B2{The child~00~}#013#010
+The child~00~#010
+;000002BC{Mechachrome~00~}#015#012
+Mechachrome~00~#012
+;000002C8{The Police Chief~00~}#020#017
+The Police Chief~00~#017
+;000002D9{Gaia~00~}#008#005
+Gaia~00~#005
+;000002DE{Captain Hawk~00~}#016#013
+Captain Hawk~00~#013
+;000002EB{Chrissy~00~}#011#008
+Chrissy~00~#008
+;000002F3{Sasha~00~}#009#006
+Sasha~00~#006
+;000002F9{The Lady~00~}#012#009
+The Lady~00~#009
+;00000302{The Voice~00~}#013#010
+The Voice~00~#010
+;0000030C{Cook~00~}#008#005
+Cook~00~#005
+;00000311{Carissa~00~}#011#008
+Carissa~00~#008
+;00000319{The Bartender~00~}#017#014
+The Bartender~00~#014
+;00000327{The Shopkeeper~00~}#018#015
+The Shopkeeper~00~#015
+;00000336{The Caller~00~}#014#011
+The Caller~00~#011
+;00000341{The Worker~00~}#014#011
+The Worker~00~#011
+;0000034C{Photo Junkie~00~}#016#013
+Photo Junkie~00~#013
+;00000359{The Ghost~00~}#013#010
+The Ghost~00~#010
+;00000363{%s ...~00~}#010#007
+%s ...~00~#007
+;0000036A{%s %s~00~}#009#006
+%s %s~00~#006
+;00000370{%u %ss~00~}#010#007
+%u %ss~00~#007
+;00000377{Hey look....t~00~}#017#014
+Hey look....t~00~#014
+;00000385{!!!~00~}#007#004
+!!!~00~#004
+;00000389{nothing~00~}#011#008
+nothing~00~#008
+;00000391{T~00~}#005#002
+T~00~#002
+;00000393{$%u~00~}#007#004
+$%u~00~#004
+;00000397{%s%shere's %s%s%s~00~}#021#018
+%s%shere's %s%s%s~00~#018
+;000003A9{%s%Fs%s~00~}#011#008
+%s%Fs%s~00~#008
+;000003B1{Select ...~00~}#014#011
+Select ...~00~#011
+|956
+@000166E9-000169BB-00
+;00000000{Next Enemy~00~}#014#011
+Next Enemy~00~#011
+;0000000B{Last Enemy~00~}#014#011
+Last Enemy~00~#011
+;00000016{Exit Battle~00~}#015#012
+Exit Battle~00~#012
+;00000022{Cancel~00~}#010#007
+Cancel~00~#007
+;00000029{Fight~00~}#009#006
+Fight~00~#006
+;0000002F{Defend~00~}#010#007
+Defend~00~#007
+;00000036{Retreat~00~}#011#008
+Retreat~00~#008
+;0000003E{Item~00~}#008#005
+Item~00~#005
+;00000043{Use Item~00~}#012#009
+Use Item~00~#009
+;0000004C{Weapon~00~}#010#007
+Weapon~00~#007
+;00000053{The Karate Gang~00~}#019#016
+The Karate Gang~00~#016
+;00000063{The Gang~00~}#012#009
+The Gang~00~#009
+;0000006C{The Bugee~00~}#013#010
+The Bugee~00~#010
+;00000076{The Karoshic~00~}#016#013
+The Karoshic~00~#013
+;00000083{The aerobee~00~}#015#012
+The aerobee~00~#012
+;0000008F{Tacker~00~}#010#007
+Tacker~00~#007
+;00000096{The Muscle Crow~00~}#019#016
+The Muscle Crow~00~#016
+;000000A6{The Street Killer~00~}#021#018
+The Street Killer~00~#018
+;000000B8{Rockster~00~}#012#009
+Rockster~00~#009
+;000000C1{The Abnormal~00~}#016#013
+The Abnormal~00~#013
+;000000CE{The S&M Girl~00~}#016#013
+The S&M Girl~00~#013
+;000000DB{Derek~00~}#009#006
+Derek~00~#006
+;000000E1{The Zamurai~00~}#015#012
+The Zamurai~00~#012
+;000000ED{The Armie~00~}#013#010
+The Armie~00~#010
+;000000F7{The Dark Knight~00~}#019#016
+The Dark Knight~00~#016
+;00000107{Geppel~00~}#010#007
+Geppel~00~#007
+;0000010E{The Yakusa~00~}#014#011
+The Yakusa~00~#011
+;00000119{The Robot Girl~00~}#018#015
+The Robot Girl~00~#015
+;00000128{The Robot~00~}#013#010
+The Robot~00~#010
+;00000132{Mechachrome~00~}#015#012
+Mechachrome~00~#012
+;0000013E{The Iron Crow~00~}#017#014
+The Iron Crow~00~#014
+;0000014C{The Street Destroyer~00~}#024#021
+The Street Destroyer~00~#021
+;00000161{The Ghost Fighter~00~}#021#018
+The Ghost Fighter~00~#018
+;00000173{The Combat~00~}#014#011
+The Combat~00~#011
+;0000017E{The Electric Killer~00~}#023#020
+The Electric Killer~00~#020
+;00000192{The Ghost Wolfee~00~}#020#017
+The Ghost Wolfee~00~#017
+;000001A3{The Witch~00~}#013#010
+The Witch~00~#010
+;000001AD{The Guardian~00~}#016#013
+The Guardian~00~#013
+;000001BA{Captain Hawk~00~}#016#013
+Captain Hawk~00~#013
+;000001C7{%s is blocking your way!!!~00~}#030#027
+%s is blocking your way!!!~00~#027
+;000001E2{%s is challenging you!!~00~}#027#024
+%s is challenging you!!~00~#024
+;000001FA{You lost the battle!!!~00~}#026#023
+You lost the battle!!!~00~#023
+;00000211{The party escapes!~00~}#022#019
+The party escapes!~00~#019
+;00000224{%s attacks!~00~}#015#012
+%s attacks!~00~#012
+;00000230{%s attacks at %s!~00~}#021#018
+%s attacks at %s!~00~#018
+;00000242{%s received %u damage%s.~00~}#028#025
+%s received %u damage%s.~00~#025
+;0000025B{%s dodged the blow.~00~}#023#020
+%s dodged the blow.~00~#020
+;0000026F{%s received no damage.~00~}#026#023
+%s received no damage.~00~#023
+;00000286{%s missed!~00~}#014#011
+%s missed!~00~#011
+;00000291{ENEMY!!~00~}#011#008
+ENEMY!!~00~#008
+;00000299{%s %s~00~}#009#006
+%s %s~00~#006
+;0000029F{is down!~00~}#012#009
+is down!~00~#009
+;000002A8{dispersed.~00~}#014#011
+dispersed.~00~#011
+;000002B3{Another %s challenges you!~00~}#030#027
+Another %s challenges you!~00~#027
+;000002CE{The ~00~}#008#005
+The ~00~#005
+|723
+@00016C3A-000172D9-00
+;00000000{Nothing~00~}#011#008
+Nothing~00~#008
+;00000008{Steel Pipe~00~}#014#011
+Steel Pipe~00~#011
+;00000013{Pocket Knife~00~}#016#013
+Pocket Knife~00~#013
+;00000020{Baseball Bat~00~}#016#013
+Baseball Bat~00~#013
+;0000002D{Metallic Bat~00~}#016#013
+Metallic Bat~00~#013
+;0000003A{Bull Whip~00~}#013#010
+Bull Whip~00~#010
+;00000044{Dagger~00~}#010#007
+Dagger~00~#007
+;0000004B{Bamboo Cutter~00~}#017#014
+Bamboo Cutter~00~#014
+;00000059{Steel Rod~00~}#013#010
+Steel Rod~00~#010
+;00000063{Ax~00~}#006#003
+Ax~00~#003
+;00000066{Ancient Sword~00~}#017#014
+Ancient Sword~00~#014
+;00000074{Sword of Gaia~00~}#017#014
+Sword of Gaia~00~#014
+;00000082{Esper Rod~00~}#013#010
+Esper Rod~00~#010
+;0000008C{Stun Gun~00~}#012#009
+Stun Gun~00~#009
+;00000095{M10 Revolver~00~}#016#013
+M10 Revolver~00~#013
+;000000A2{Magnum 44~00~}#013#010
+Magnum 44~00~#010
+;000000AC{PI Hat~00~}#010#007
+PI Hat~00~#007
+;000000B3{ROCKET Cap~00~}#014#011
+ROCKET Cap~00~#011
+;000000BE{Leather Hat~00~}#015#012
+Leather Hat~00~#012
+;000000CA{Army Cap~00~}#012#009
+Army Cap~00~#009
+;000000D3{Aluminum Helmet~00~}#019#016
+Aluminum Helmet~00~#016
+;000000E3{Trench Coat~00~}#015#012
+Trench Coat~00~#012
+;000000EF{Thick Coat~00~}#014#011
+Thick Coat~00~#011
+;000000FA{Army Uniform~00~}#016#013
+Army Uniform~00~#013
+;00000107{Leather Coat~00~}#016#013
+Leather Coat~00~#013
+;00000114{Winter Coat~00~}#015#012
+Winter Coat~00~#012
+;00000120{POLYTHIX Coat~00~}#017#014
+POLYTHIX Coat~00~#014
+;0000012E{Fashion Dress~00~}#017#014
+Fashion Dress~00~#014
+;0000013C{Jean Jacket~00~}#015#012
+Jean Jacket~00~#012
+;00000148{Leather Jacket~00~}#018#015
+Leather Jacket~00~#015
+;00000157{Winter Jacket~00~}#017#014
+Winter Jacket~00~#014
+;00000165{POLYTHIX Jacket~00~}#019#016
+POLYTHIX Jacket~00~#016
+;00000175{Polyester Pants~00~}#019#016
+Polyester Pants~00~#016
+;00000185{Cotton Pants~00~}#016#013
+Cotton Pants~00~#013
+;00000192{Military Pants~00~}#018#015
+Military Pants~00~#015
+;000001A1{Blue Jeans~00~}#014#011
+Blue Jeans~00~#011
+;000001AC{Leather Jeans~00~}#017#014
+Leather Jeans~00~#014
+;000001BA{POLYTHIX Jeans~00~}#018#015
+POLYTHIX Jeans~00~#015
+;000001C9{Fashion Skirt~00~}#017#014
+Fashion Skirt~00~#014
+;000001D7{Cotton Skirt~00~}#016#013
+Cotton Skirt~00~#013
+;000001E4{Jean Skirt~00~}#014#011
+Jean Skirt~00~#011
+;000001EF{Leather Skirt~00~}#017#014
+Leather Skirt~00~#014
+;000001FD{POLYTHIX Skirt~00~}#018#015
+POLYTHIX Skirt~00~#015
+;0000020C{Sneakers~00~}#012#009
+Sneakers~00~#009
+;00000215{Army Boots~00~}#014#011
+Army Boots~00~#011
+;00000220{Edidas Sneakers~00~}#019#016
+Edidas Sneakers~00~#016
+;00000230{Leather Boots~00~}#017#014
+Leather Boots~00~#014
+;0000023E{POLYTHIX Boots~00~}#018#015
+POLYTHIX Boots~00~#015
+;0000024D{Vitamax~00~}#011#008
+Vitamax~00~#008
+;00000255{Vitamax+~00~}#012#009
+Vitamax+~00~#009
+;0000025E{Vitamax++~00~}#013#010
+Vitamax++~00~#010
+;00000268{Super Vitamax~00~}#017#014
+Super Vitamax~00~#014
+;00000276{Fire Cracker~00~}#016#013
+Fire Cracker~00~#013
+;00000283{Poisonous Dart~00~}#018#015
+Poisonous Dart~00~#015
+;00000292{M-80~00~}#008#005
+M-80~00~#005
+;00000297{Ninja Star~00~}#014#011
+Ninja Star~00~#011
+;000002A2{Molotov Cocktail~00~}#020#017
+Molotov Cocktail~00~#017
+;000002B3{Hand Grenade~00~}#016#013
+Hand Grenade~00~#013
+;000002C0{Tear Gas Spray~00~}#018#015
+Tear Gas Spray~00~#015
+;000002CF{SHERR Spray~00~}#015#012
+SHERR Spray~00~#012
+;000002DB{Shanel No.555~00~}#017#014
+Shanel No.555~00~#014
+;000002E9{Megatech Torch~00~}#018#015
+Megatech Torch~00~#015
+;000002F8{Magic Spray~00~}#015#012
+Magic Spray~00~#012
+;00000304{Bottle of Gin~00~}#017#014
+Bottle of Gin~00~#014
+;00000312{Map of Central Cobra~00~}#024#021
+Map of Central Cobra~00~#021
+;00000327{Map of W.Cobra~00~}#018#015
+Map of W.Cobra~00~#015
+;00000336{Map of S.Cobra~00~}#018#015
+Map of S.Cobra~00~#015
+;00000345{Map of E.Cobra~00~}#018#015
+Map of E.Cobra~00~#015
+;00000354{Map of Cemetery~00~}#019#016
+Map of Cemetery~00~#016
+;00000364{Map of Police/Military HQ~00~}#029#026
+Map of Police/Military HQ~00~#026
+;0000037E{Map of Fist's Base(1)~00~}#025#022
+Map of Fist's Base(1)~00~#022
+;00000394{Map of Fist's Base(2)~00~}#025#022
+Map of Fist's Base(2)~00~#022
+;000003AA{Map of C.P.R.C.~00~}#019#016
+Map of C.P.R.C.~00~#016
+;000003BA{Map of Underground~00~}#022#019
+Map of Underground~00~#019
+;000003CD{Map of the Castle(1F)~00~}#025#022
+Map of the Castle(1F)~00~#022
+;000003E3{Map of the Castle(2F)~00~}#025#022
+Map of the Castle(2F)~00~#022
+;000003F9{Girly Magazine~00~}#018#015
+Girly Magazine~00~#015
+;00000408{Map of the Castle~00~}#021#018
+Map of the Castle~00~#018
+;0000041A{Goods~00~}#009#006
+Goods~00~#006
+;00000420{M10 Revolver Ammo~00~}#021#018
+M10 Revolver Ammo~00~#018
+;00000432{44 Caliber Ammo~00~}#019#016
+44 Caliber Ammo~00~#016
+;00000442{VitaUp~00~}#010#007
+VitaUp~00~#007
+;00000449{Box of M10 Ammo~00~}#019#016
+Box of M10 Ammo~00~#016
+;00000459{Box of 44 Caliber Ammo~00~}#026#023
+Box of 44 Caliber Ammo~00~#023
+;00000470{Tranquilizer~00~}#016#013
+Tranquilizer~00~#013
+;0000047D{Antidote~00~}#012#009
+Antidote~00~#009
+;00000486{Key chain~00~}#013#010
+Key chain~00~#010
+;00000490{Small Key~00~}#013#010
+Small Key~00~#010
+;0000049A{VSOP Cognac~00~}#015#012
+VSOP Cognac~00~#012
+;000004A6{HLC Membership Card~00~}#023#020
+HLC Membership Card~00~#020
+;000004BA{Whistle~00~}#011#008
+Whistle~00~#008
+;000004C2{Discount Coupon~00~}#019#016
+Discount Coupon~00~#016
+;000004D2{Candle~00~}#010#007
+Candle~00~#007
+;000004D9{Rotary Vibrator~00~}#019#016
+Rotary Vibrator~00~#016
+;000004E9{Silver Key~00~}#014#011
+Silver Key~00~#011
+;000004F4{Key Chain~00~}#013#010
+Key Chain~00~#010
+;000004FE{Diamond Pendant~00~}#019#016
+Diamond Pendant~00~#016
+;0000050E{Carrot Cake~00~}#015#012
+Carrot Cake~00~#012
+;0000051A{Cookie~00~}#010#007
+Cookie~00~#007
+;00000521{Sapphire Ring~00~}#017#014
+Sapphire Ring~00~#014
+;0000052F{Orchid Brooch~00~}#017#014
+Orchid Brooch~00~#014
+;0000053D{Power Capsule~00~}#017#014
+Power Capsule~00~#014
+;0000054B{Key of Side Entrance~00~}#024#021
+Key of Side Entrance~00~#021
+;00000560{Rusted Key~00~}#014#011
+Rusted Key~00~#011
+;0000056B{Dynamite~00~}#012#009
+Dynamite~00~#009
+;00000574{Bronze Key~00~}#014#011
+Bronze Key~00~#011
+;0000057F{Swastika Key~00~}#016#013
+Swastika Key~00~#013
+;0000058C{Crystal Ball~00~}#016#013
+Crystal Ball~00~#013
+;00000599{Lighter~00~}#011#008
+Lighter~00~#008
+;000005A1{Lady's panty~00~}#016#013
+Lady's panty~00~#013
+;000005AE{Lady's bra~00~}#014#011
+Lady's bra~00~#011
+;000005B9{Lady's Lingerie~00~}#019#016
+Lady's Lingerie~00~#016
+;000005C9{Girl's Photo~00~}#016#013
+Girl's Photo~00~#013
+;000005D6{Mr B.Thomson~00~}#016#013
+Mr B.Thomson~00~#013
+;000005E3{Mr J.Class~00~}#014#011
+Mr J.Class~00~#011
+;000005EE{Mrs O.Pow~00~}#013#010
+Mrs O.Pow~00~#010
+;000005F8{Mr K.Stein~00~}#014#011
+Mr K.Stein~00~#011
+;00000603{Mrs W.Vitt~00~}#014#011
+Mrs W.Vitt~00~#011
+;0000060E{Mr T.Winter~00~}#015#012
+Mr T.Winter~00~#012
+;0000061A{Mr C.Bettime~00~}#016#013
+Mr C.Bettime~00~#013
+;00000627{Mr E.Owen~00~}#013#010
+Mr E.Owen~00~#010
+;00000631{Melissa's House~00~}#019#016
+Melissa's House~00~#016
+;00000641{Mick's House~00~}#016#013
+Mick's House~00~#013
+;0000064E{Fritz's House~00~}#017#014
+Fritz's House~00~#014
+;0000065C{Atlas Constr.~00~}#017#014
+Atlas Constr.~00~#014
+;0000066A{Duncan's House~00~}#018#015
+Duncan's House~00~#015
+;00000679{Vinny's House~00~}#017#014
+Vinny's House~00~#014
+;00000687{Mrs Crissy~00~}#014#011
+Mrs Crissy~00~#011
+;00000692{Confectionary~00~}#017#014
+Confectionary~00~#014
+|1696
+@00017338-000173E3-00
+;00000000{New Game~00~}#012#009
+New Game~00~#009
+;00000009{Load Game~00~}#013#010
+Load Game~00~#010
+;00000013{Back to DOS~00~}#015#012
+Back to DOS~00~#012
+;0000001F{Item~00~}#008#005
+Item~00~#005
+;00000024{Status~00~}#010#007
+Status~00~#007
+;0000002B{Save Game~00~}#013#010
+Save Game~00~#010
+;00000035{Quit Game~00~}#013#010
+Quit Game~00~#010
+;0000003F{Setup~00~}#009#006
+Setup~00~#006
+;00000045{Phone~00~}#009#006
+Phone~00~#006
+;0000004B{Change Names & Settings~00~}#027#024
+Change Names & Settings~00~#024
+;00000063{Change Personal Password~00~}#028#025
+Change Personal Password~00~#025
+;0000007C{Change Scroll Speed~00~}#023#020
+Change Scroll Speed~00~#020
+;00000090{Change Message Speed~00~}#024#021
+Change Message Speed~00~#021
+;000000A5{Cancel~00~}#010#007
+Cancel~00~#007
+|172
+@0001741A-000174A2-00
+;00000000{Jan~00~}#007#004
+Jan~00~#004
+;00000004{Feb~00~}#007#004
+Feb~00~#004
+;00000008{Mar~00~}#007#004
+Mar~00~#004
+;0000000C{Apr~00~}#007#004
+Apr~00~#004
+;00000010{May~00~}#007#004
+May~00~#004
+;00000014{Jun~00~}#007#004
+Jun~00~#004
+;00000018{Jul~00~}#007#004
+Jul~00~#004
+;0000001C{Aug~00~}#007#004
+Aug~00~#004
+;00000020{Sep~00~}#007#004
+Sep~00~#004
+;00000024{Oct~00~}#007#004
+Oct~00~#004
+;00000028{Nov~00~}#007#004
+Nov~00~#004
+;0000002C{Dec~00~}#007#004
+Dec~00~#004
+;00000030{%02u:%02u~00~}#013#010
+%02u:%02u~00~#010
+;0000003A{%s %2u~00~}#010#007
+%s %2u~00~#007
+;00000041{%02u:%02u:%02u~00~}#018#015
+%02u:%02u:%02u~00~#015
+;00000050{%s %2u, %04u~00~}#016#013
+%s %2u, %04u~00~#013
+;0000005D{SAVE GAME~00~}#013#010
+SAVE GAME~00~#010
+;00000067{LOAD GAME~00~}#013#010
+LOAD GAME~00~#010
+;00000071{[%u]~00~}#008#005
+[%u]~00~#005
+;00000076{Not saved~00~}#013#010
+Not saved~00~#010
+;00000080{Untitled~00~}#012#009
+Untitled~00~#009
+|137
+@000174BF-00017519-00
+;00000000{Use your hand~00~}#017#014
+Use your hand~00~#014
+;0000000E{Use your lips~00~}#017#014
+Use your lips~00~#014
+;0000001C{Whisper~00~}#011#008
+Whisper~00~#008
+;00000024{Rotary Vibrator~00~}#019#016
+Rotary Vibrator~00~#016
+;00000034{Candle~00~}#010#007
+Candle~00~#007
+;0000003B{READY to GO!!~00~}#017#014
+READY to GO!!~00~#014
+;00000049{OR_ IS IT ???....~00~}#021#018
+OR_ IS IT ???....~00~#018
+|91
+@0001755C-000176E9-00
+;00000000{Use Item~00~}#012#009
+Use Item~00~#009
+;00000009{Weapon~00~}#010#007
+Weapon~00~#007
+;00000010{Clothing~00~}#012#009
+Clothing~00~#009
+;00000019{Inventory~00~}#013#010
+Inventory~00~#010
+;00000023{USE ITEM~00~}#012#009
+USE ITEM~00~#009
+;0000002C{INVENTORY~00~}#013#010
+INVENTORY~00~#010
+;00000036{NEXT~00~}#008#005
+NEXT~00~#005
+;0000003B{BACK~00~}#008#005
+BACK~00~#005
+;00000040{NEXT PAGE~00~}#013#010
+NEXT PAGE~00~#010
+;0000004A{BACK PAGE~00~}#013#010
+BACK PAGE~00~#010
+;00000054{** NOTHING **~00~}#017#014
+** NOTHING **~00~#014
+;00000062{%s ~00~}#007#004
+%s ~00~#004
+;00000066{ %3u ~00~}#009#006
+ %3u ~00~#006
+;0000006C{%s feels tougher than before. MAXHP %u UP!!~00~}#047#044
+%s feels tougher than before. MAXHP %u UP!!~00~#044
+;00000098{This is a POWER-UP Capsule!!~0A~%s's strength up by %u!!~00~}#060#054
+This is a POWER-UP Capsule!!~0A~%s's strength up by %u!!~00~#054
+;000000CE{%s doesn't need it.~00~}#023#020
+%s doesn't need it.~00~#020
+;000000E2{%s recovers %u HP.~00~}#022#019
+%s recovers %u HP.~00~#019
+;000000F5{Your Position~00~}#017#014
+Your Position~00~#014
+;00000103{Should be delivered to: %s~00~}#030#027
+Should be delivered to: %s~00~#027
+;0000011E{~16~%s drops %s.~00~}#020#014
+~16~%s drops %s.~00~#014
+;0000012C{NAME OF MALE CHARACTER~00~}#026#023
+NAME OF MALE CHARACTER~00~#023
+;00000143{NAME OF FEMALE CHARACTER~00~}#028#025
+NAME OF FEMALE CHARACTER~00~#025
+;0000015C{NAME OF THE %sCRIMINAL OVERLORD~00~}#035#032
+NAME OF THE %sCRIMINAL OVERLORD~00~#032
+;0000017C{PSYCHOTIC MASTER ~00~}#021#018
+PSYCHOTIC MASTER ~00~#018
+|398
+@0001773C-00017924-00
+;00000000{Internal Speaker~00~}#020#017
+Internal Speaker~00~#017
+;00000011{ADLIB Sound Card~00~}#020#017
+ADLIB Sound Card~00~#017
+;00000022{Covox Sound Master II~00~}#025#022
+Covox Sound Master II~00~#022
+;00000038{Sound Blaster~00~}#017#014
+Sound Blaster~00~#014
+;00000046{Sound Blaster Pro~00~}#021#018
+Sound Blaster Pro~00~#018
+;00000058{Thunder Board~00~}#017#014
+Thunder Board~00~#014
+;00000066{PAS16 / PAS+ / PAS CDPC~00~}#027#024
+PAS16 / PAS+ / PAS CDPC~00~#024
+;0000007E{Cont. on Destination~00~}#024#021
+Cont. on Destination~00~#021
+;00000093{Stop at Destination~00~}#023#020
+Stop at Destination~00~#020
+;000000A7{%s %s~00~}#009#006
+%s %s~00~#006
+;000000AD{Sound Board : ~00~}#018#015
+Sound Board : ~00~#015
+;000000BC{Mouse : ~00~}#012#009
+Mouse : ~00~#009
+;000000C5{Mouse Mode :  ~00~}#018#015
+Mouse Mode :  ~00~#015
+;000000D4{ : ON~00~}#009#006
+ : ON~00~#006
+;000000DA{ : OFF~00~}#010#007
+ : OFF~00~#007
+;000000E1{MUSIC~00~}#009#006
+MUSIC~00~#006
+;000000E7{SOUND~00~}#009#006
+SOUND~00~#006
+;000000ED{First name: ~00~}#016#013
+First name: ~00~#013
+;000000FA{Last name: ~00~}#015#012
+Last name: ~00~#012
+;00000106{New name: ~00~}#014#011
+New name: ~00~#011
+;00000111{You can't change this setting here.~0A~Type "INSTALL" at the DOS command line~0A~to change this setting.~00~}#108#099
+You can't change this setting here.~0A~Type "INSTALL" at the DOS command line~0A~to change this setting.~00~#099
+;00000174{EFFECT~00~}#010#007
+EFFECT~00~#007
+;0000017B{FIGHTING~00~}#012#009
+FIGHTING~00~#009
+;00000184{"X"~00~}#007#004
+"X"~00~#004
+;00000188{%s SOUND %s~00~}#015#012
+%s SOUND %s~00~#012
+;00000194{END OF SETTING~00~}#018#015
+END OF SETTING~00~#015
+;000001A3{SPEED %u%s~00~}#014#011
+SPEED %u%s~00~#011
+;000001AE{ (FAST)~00~}#011#008
+ (FAST)~00~#008
+;000001B6{ (SLOW)~00~}#011#008
+ (SLOW)~00~#008
+;000001BE{NO DELAY~00~}#012#009
+NO DELAY~00~#009
+;000001C7{HIGH SPEED~00~}#014#011
+HIGH SPEED~00~#011
+;000001D2{MIDDLE SPEED~00~}#016#013
+MIDDLE SPEED~00~#013
+;000001DF{LOW SPEED~00~}#013#010
+LOW SPEED~00~#010
+|489
+@0001797B-00017A9D-00
+;00000000{%s reached level %u.~00~}#024#021
+%s reached level %u.~00~#021
+;00000015{~16~%s gains %u EXP.~00~}#024#018
+~16~%s gains %u EXP.~00~#018
+;00000027{~16~%s gains $%u.~00~}#021#015
+~16~%s gains $%u.~00~#015
+;00000036{The party~00~}#013#010
+The party~00~#010
+;00000040{%u~00~}#006#003
+%u~00~#003
+;00000043{%u~0A~~00~}#010#004
+%u~0A~~00~#004
+;00000047{, %s~00~}#008#005
+, %s~00~#005
+;0000004C{,~0A~~00~}#009#003
+,~0A~~00~#003
+;0000004F{STATUS OF %s~00~}#016#013
+STATUS OF %s~00~#013
+;0000005C{EXP~00~}#007#004
+EXP~00~#004
+;00000060{EXPERIENCE~00~}#014#011
+EXPERIENCE~00~#011
+;0000006B{%lu~0A~~00~}#011#005
+%lu~0A~~00~#005
+;00000070{+%lu -> Next Level~0A~~00~}#026#020
++%lu -> Next Level~0A~~00~#020
+;00000084{Need %lu to reach Next Level~0A~~00~}#036#030
+Need %lu to reach Next Level~0A~~00~#030
+;000000A2{ATTACK~00~}#010#007
+ATTACK~00~#007
+;000000A9{DEFEND~00~}#010#007
+DEFEND~00~#007
+;000000B0{HIT~00~}#007#004
+HIT~00~#004
+;000000B4{%u%%~00~}#008#005
+%u%%~00~#005
+;000000B9{EVADE~00~}#009#006
+EVADE~00~#006
+;000000BF{%u%%~0A~~00~}#012#006
+%u%%~0A~~00~#006
+;000000C5{SPEED~00~}#009#006
+SPEED~00~#006
+;000000CB{STEADY~00~}#010#007
+STEADY~00~#007
+;000000D2{STABILITY~00~}#013#010
+STABILITY~00~#010
+;000000DC{STR~00~}#007#004
+STR~00~#004
+;000000E0{MENTAL~00~}#010#007
+MENTAL~00~#007
+;000000E7{DEX~00~}#007#004
+DEX~00~#004
+;000000EB{TECHS~00~}#009#006
+TECHS~00~#006
+;000000F1{WEAPON~00~}#010#007
+WEAPON~00~#007
+;000000F8{(Empty)~00~}#011#008
+(Empty)~00~#008
+;00000100{(Loaded)~00~}#012#009
+(Loaded)~00~#009
+;00000109{ (Loaded: %u Ammo%c)~00~}#024#021
+ (Loaded: %u Ammo%c)~00~#021
+;0000011E{WEAR~00~}#008#005
+WEAR~00~#005
+|291
+@00017ABF-00017C94-00
+;00000000{You don't have enough money.~00~}#032#029
+You don't have enough money.~00~#029
+;0000001D{You can't carry any more of this item.~00~}#042#039
+You can't carry any more of this item.~00~#039
+;00000044{It's $%u. Thank you!~00~}#024#021
+It's $%u. Thank you!~00~#021
+;00000059{BUY ITEMS~00~}#013#010
+BUY ITEMS~00~#010
+;00000063{SELL ITEMS~00~}#014#011
+SELL ITEMS~00~#011
+;0000006E{SELL ITEM~00~}#013#010
+SELL ITEM~00~#010
+;00000078{It's a deal!~00~}#016#013
+It's a deal!~00~#013
+;00000085{I don't want to sell it.~00~}#028#025
+I don't want to sell it.~00~#025
+;0000009E{The shopkeeper...~0A~Sorry, I can't take this stuff.~00~}#056#050
+The shopkeeper...~0A~Sorry, I can't take this stuff.~00~#050
+;000000D0{The shopkeeper ...~0A~I'll pay  $%u  for it. OK?~00~}#052#046
+The shopkeeper ...~0A~I'll pay  $%u  for it. OK?~00~#046
+;000000FE{Please input a passcode for <%c%02u> %sfrom the code list.~0A~PASSCODE : ~00~}#077#071
+Please input a passcode for <%c%02u> %sfrom the code list.~0A~PASSCODE : ~00~#071
+;00000145{~0A~~00~}#008#002
+~0A~~00~#002
+;00000147{Please input your personal password :~0A~PASSWORD: ~00~}#055#049
+Please input your personal password :~0A~PASSWORD: ~00~#049
+;00000178{Incorrect Password!!!~00~}#025#022
+Incorrect Password!!!~00~#022
+;0000018E{Sorry! Access to COBRA MISSION denied!~00~}#042#039
+Sorry! Access to COBRA MISSION denied!~00~#039
+;000001B5{Change Your personal password :~0A~~00~}#039#033
+Change Your personal password :~0A~~00~#033
+|470
+@00018514-00018522-00
+;00000000{CANCEL~00~}#010#007
+CANCEL~00~#007
+;00000007{OK~00~}#006#003
+OK~00~#003
+;0000000A{EXIT~00~}#008#005
+EXIT~00~#005
+|15

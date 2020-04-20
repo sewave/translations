@@ -1,6 +1,6 @@
 Phantasy Star Gaiden (Game Gear)
-Traducción al Español v1.1 (22/08/2019)
-(C) 2019 Traducciones Wave
+Traducción al Español v1.2 (20/04/2020)
+(C) 2020 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -9,6 +9,7 @@ Esta traducción y hacking está basado en la traducción de Magic Translations.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 V1.1: Arreglo de textos del final.
+V1.2: Arreglada frase final de Cablon y repaso del script.
 
 ------------------------
 Instrucciones de Parcheo

@@ -1,1500 +1,2162 @@
-@00000216-0000025D-00
-;00000000{1PLAYER~0D~~0D~2PLAYERS~00~}#027#018
-1PLAYER~0D~~0D~2PLAYERS~00~#018
-;00000012{Start ~0D~~0D~Resume~00~}#024#015
-Start ~0D~~0D~Resume~00~#015
-;00000021{Sav1~0D~~0D~Sav2~0D~~0D~Sav3~00~}#032#017
-Sav1~0D~~0D~Sav2~0D~~0D~Sav3~00~#017
-;00000032{No Saved Games!  ~00~}#021#018
-No Saved Games!  ~00~#018
-;00000044{~F5~~DB~~BF~~CB~}#016#004
-~F5~~DB~~BF~~CB~#004
-|72
-@000304E8-00030580-00
-;00000000{Long ago, the evil~0D~Cablon ravaged the~0D~Copto Planet~A0~~18~~0C~~00~}#072#054
-Long ago, the evil~0D~Cablon ravaged the~0D~Copto Planet~A0~~18~~0C~~00~#054
-;00000036{One light-year~0D~distant from the~0D~Algol System.~18~~0C~In defeat, Cablon~0D~was sealed on a~0D~colony planet~A0~~18~~0C~~00~}#128#098
-One light-year~0D~distant from the~0D~Algol System.~18~~0C~In defeat, Cablon~0D~was sealed on a~0D~colony planet~A0~~18~~0C~~00~#098
-;00000098{~A0~}#004#001
-~A0~#001
-|153
-@00030581-000305BE-00
-;00000000{discovered by~0D~Alis, and named~0D~Alisland.~18~~0C~~00~}#057#042
-discovered by~0D~Alis, and named~0D~Alisland.~18~~0C~~00~#042
-;0000002A{Now, it's AW813~A0~~18~~0C~~0D~~A0~}#035#020
-Now, it's AW813~A0~~18~~0C~~0D~~A0~#020
-|62
-@000305BF-00030637-00
-;00000000{a time of growing~0D~unrest.~18~~0C~~00~}#040#028
-a time of growing~0D~unrest.~18~~0C~~00~#028
-;0000001C{Alec and Mina are~0D~two youths from~0D~Tedo Village~A0~~18~~0C~~A0~who revere the~0D~legend of Alis~0D~and Odin~A0~~18~~0C~~00~}#128#092
-Alec and Mina are~0D~two youths from~0D~Tedo Village~A0~~18~~0C~~A0~who revere the~0D~legend of Alis~0D~and Odin~A0~~18~~0C~~00~#092
-;00000078{~A0~}#004#001
-~A0~#001
-|121
-@00030638-000309F7-00
-;00000000{as told by the~0D~Elder who raised~0D~Mina, an orphan.~18~~0C~~00~}#066#051
-as told by the~0D~Elder who raised~0D~Mina, an orphan.~18~~0C~~00~#051
-;00000033{One day, Mina~0D~found an old~0D~artifact~A0~~18~~0C~~00~}#057#039
-One day, Mina~0D~found an old~0D~artifact~A0~~18~~0C~~00~#039
-;0000005A{Mina: Hey, Alec!~0D~Take a look at~0D~this~A0~~18~~0C~~00~}#058#040
-Mina: Hey, Alec!~0D~Take a look at~0D~this~A0~~18~~0C~~00~#040
-;00000082{Alec: Wow! That~0D~pendant looks old,~0D~but quite ornate.~18~~0C~~00~}#070#055
-Alec: Wow! That~0D~pendant looks old,~0D~but quite ornate.~18~~0C~~00~#055
-;000000B9{Mina: I'll let~0D~Morg examine it~0D~later.~18~~0C~~00~}#055#040
-Mina: I'll let~0D~Morg examine it~0D~later.~18~~0C~~00~#040
-;000000E1{Alec: Yep, Dad's~0D~due back with the~0D~Laconia ore.~18~~0C~~00~}#065#050
-Alec: Yep, Dad's~0D~due back with the~0D~Laconia ore.~18~~0C~~00~#050
-;00000113{Mina: He's been~0D~gone for weeks~A0~~0D~I'm worried.~18~~0C~~00~}#065#047
-Mina: He's been~0D~gone for weeks~A0~~0D~I'm worried.~18~~0C~~00~#047
-;00000142{Alec: Me too~A0~~0D~I'm also tired of~0D~running his shop.~18~~0C~~00~}#070#052
-Alec: Me too~A0~~0D~I'm also tired of~0D~running his shop.~18~~0C~~00~#052
-;00000176{Tailor: Er~A0~~0D~Excuse me~A0~~0D~I-I need~A0~~18~~0C~~00~}#059#035
-Tailor: Er~A0~~0D~Excuse me~A0~~0D~I-I need~A0~~18~~0C~~00~#035
-;00000199{Mina: Oh, Alec!~0D~That poor man~A0~~0D~He's bleeding!~18~~0C~~00~}#066#048
-Mina: Oh, Alec!~0D~That poor man~A0~~0D~He's bleeding!~18~~0C~~00~#048
-;000001C9{Alec: Whoa!~0D~What happened to~0D~you, Sir?~18~~0C~~00~}#056#041
-Alec: Whoa!~0D~What happened to~0D~you, Sir?~18~~0C~~00~#041
-;000001F2{Tailor: Wa~A0~~0D~Water~A0~~0D~(Gasp!)~18~~0C~~00~}#050#029
-Tailor: Wa~A0~~0D~Water~A0~~0D~(Gasp!)~18~~0C~~00~#029
-;0000020F{Mina: Here, Sir~A0~~0D~Have a sip of~0D~this.~18~~0C~~00~}#057#039
-Mina: Here, Sir~A0~~0D~Have a sip of~0D~this.~18~~0C~~00~#039
-;00000236{Tailor: Th-Thank~0D~you! I'm Tailor,~0D~a couturier.~18~~0C~~00~}#064#049
-Tailor: Th-Thank~0D~you! I'm Tailor,~0D~a couturier.~18~~0C~~00~#049
-;00000267{Mountain bandits~0D~have been holding~0D~me captive.~18~~0C~~00~}#064#049
-Mountain bandits~0D~have been holding~0D~me captive.~18~~0C~~00~#049
-;00000298{This man, Morg~A0~~0D~from Tedo~A0~ he~0D~was with me.~18~~0C~Both of us made a~0D~dash for it, but~0D~only I escaped.~18~~0C~~00~}#130#097
-This man, Morg~A0~~0D~from Tedo~A0~ he~0D~was with me.~18~~0C~Both of us made a~0D~dash for it, but~0D~only I escaped.~18~~0C~~00~#097
-;000002F9{Alec: M-Morg~A0~~0D~You mean my~0D~father!?~18~~0C~~00~}#055#037
-Alec: M-Morg~A0~~0D~You mean my~0D~father!?~18~~0C~~00~#037
-;0000031E{Mina: What!?~0D~How did this~0D~happen!?~18~~0C~~00~}#052#037
-Mina: What!?~0D~How did this~0D~happen!?~18~~0C~~00~#037
-;00000343{Tailor: Ambushed~A0~~0D~Looking for ore~A0~~0D~Same as I~A0~~18~~0C~~00~}#072#048
-Tailor: Ambushed~A0~~0D~Looking for ore~A0~~0D~Same as I~A0~~18~~0C~~00~#048
-;00000373{Are you Alec?~18~~0C~~00~}#025#016
-Are you Alec?~18~~0C~~00~#016
-;00000383{Here, Son~A0~~0D~Morg sent you~0D~this~A0~~18~~0C~Got Wisdom Mirror.~18~~0C~~00~}#080#053
-Here, Son~A0~~0D~Morg sent you~0D~this~A0~~18~~0C~Got Wisdom Mirror.~18~~0C~~00~#053
-;000003B8{Ooooh~A0~ ~A0~}#014#008
-Ooooh~A0~ ~A0~#008
-|960
-@000309FA-00030AFC-00
-;00000000{Tailor fell~0D~unconscious.~18~~0C~~00~}#039#027
-Tailor fell~0D~unconscious.~18~~0C~~00~#027
-;0000001B{Mina: Wow! The~0D~Elder should hear~0D~of this!~18~~0C~~00~}#059#044
-Mina: Wow! The~0D~Elder should hear~0D~of this!~18~~0C~~00~#044
-;00000047{Alec: Indeed! I~0D~must act fast,~0D~too!~18~~0C~~00~}#053#038
-Alec: Indeed! I~0D~must act fast,~0D~too!~18~~0C~~00~#038
-;0000006D{Elder: Oh, Alec~A0~~0D~Your face~A0~~0D~What's wrong!?~18~~0C~~00~}#066#045
-Elder: Oh, Alec~A0~~0D~Your face~A0~~0D~What's wrong!?~18~~0C~~00~#045
-;0000009A{Mina: Morg fell~0D~into the clutches~0D~of bandits!~18~~0C~~00~}#063#048
-Mina: Morg fell~0D~into the clutches~0D~of bandits!~18~~0C~~00~#048
-;000000CA{Elder: Oh my! I've~0D~heard that those~0D~Daedalus Bandits~A0~~18~~0C~~00~}#074#056
-Elder: Oh my! I've~0D~heard that those~0D~Daedalus Bandits~A0~~18~~0C~~00~#056
-;00000102{~A0~}#004#001
-~A0~#001
-|259
-@00030AFD-00030D7C-00
-;00000000{control robots~0D~and a lot of~0D~strange monsters!~18~~0C~~00~}#063#048
-control robots~0D~and a lot of~0D~strange monsters!~18~~0C~~00~#048
-;00000030{Alec: Doesn't~0D~matter~A0~ I'm going~0D~after him!~18~~0C~~00~}#063#045
-Alec: Doesn't~0D~matter~A0~ I'm going~0D~after him!~18~~0C~~00~#045
-;0000005D{Elder: (Sigh)~0D~Well, see Old Rob~0D~before you go.~18~~0C~~00~}#064#049
-Elder: (Sigh)~0D~Well, see Old Rob~0D~before you go.~18~~0C~~00~#049
-;0000008E{You'll need a few~0D~supplies outside~0D~of the village.~18~~0C~~00~}#068#053
-You'll need a few~0D~supplies outside~0D~of the village.~18~~0C~~00~#053
-;000000C3{Got Short Sword.~18~~0C~Got Wood Cane.~18~~0C~Got Leather~0D~Armor.~18~~0C~Got 50 Meseta.~18~~0C~~00~}#101#071
-Got Short Sword.~18~~0C~Got Wood Cane.~18~~0C~Got Leather~0D~Armor.~18~~0C~Got 50 Meseta.~18~~0C~~00~#071
-;0000010A{Mina: Come, Alec,~0D~let's find Old Rob~0D~without delay!~18~~0C~~00~}#069#054
-Mina: Come, Alec,~0D~let's find Old Rob~0D~without delay!~18~~0C~~00~#054
-;00000140{Old Rob: Wow!!~0D~Alec and Mina,~0D~You have brought~18~~0C~us peace!~18~~0C~~00~}#081#060
-Old Rob: Wow!!~0D~Alec and Mina,~0D~You have brought~18~~0C~us peace!~18~~0C~~00~#060
-;0000017C{Alec: I wonder~A0~~0D~Is it ever really~0D~safe?~18~~0C~~00~}#060#042
-Alec: I wonder~A0~~0D~Is it ever really~0D~safe?~18~~0C~~00~#042
-;000001A6{Alis: Don't worry~0D~about it, Dear~A0~~18~~0C~~00~}#051#036
-Alis: Don't worry~0D~about it, Dear~A0~~18~~0C~~00~#036
-;000001CA{This planet should~0D~be secure now.~18~~0C~However, a greater~0D~evil is awakening~A0~~18~~0C~~00~}#099#075
-This planet should~0D~be secure now.~18~~0C~However, a greater~0D~evil is awakening~A0~~18~~0C~~00~#075
-;00000215{Not in Copto~A0~~0D~Still, I must~A0~~18~~0C~~00~}#049#031
-Not in Copto~A0~~0D~Still, I must~A0~~18~~0C~~00~#031
-;00000234{Mina: Oh, Mother!~0D~How can you~A0~~18~~0C~~00~}#048#033
-Mina: Oh, Mother!~0D~How can you~A0~~18~~0C~~00~#033
-;00000255{abandon me again,~0D~like this!?~18~~0C~~00~}#044#032
-abandon me again,~0D~like this!?~18~~0C~~00~#032
-;00000275{Alis: ~A0~~A0~~18~~0C~~00~}#026#011
-Alis: ~A0~~A0~~18~~0C~~00~#011
-|640
-@00030D7D-00030E4B-00
-;00000000{Alis: Oh, Alec,~0D~watch over Mina~A0~~18~~0C~~00~}#050#035
-Alis: Oh, Alec,~0D~watch over Mina~A0~~18~~0C~~00~#035
-;00000023{Take care of~0D~each other~A0~~18~~0C~~00~}#042#027
-Take care of~0D~each other~A0~~18~~0C~~00~#027
-;0000003E{I love you, Mina!~18~~0C~Someday we'll have~0D~a long talk~A0~~18~~0C~~00~}#074#053
-I love you, Mina!~18~~0C~Someday we'll have~0D~a long talk~A0~~18~~0C~~00~#053
-;00000073{Meanwhile, I must~0D~try to save the~0D~Algos system from~18~~0C~this new menace!~18~~00~}#089#071
-Meanwhile, I must~0D~try to save the~0D~Algos system from~18~~0C~this new menace!~18~~00~#071
-;000000BA{CTC/Magic Team   ~0D~  ~00~}#027#021
-CTC/Magic Team   ~0D~  ~00~#021
-|207
-@00030E61-00030E75-00
-;00000000{Translation      ~0D~  ~00~}#027#021
-Translation      ~0D~  ~00~#021
+@000001EA-00000261-FF
+;000001EA{]{el}B'~1C~~1C~{el}+'[~BA~{ia}~C5~~11~~FF~}#042#015
+]{el}B'~1C~~1C~{el}+'[~BA~{ia}~C5~~11~~FF~#015
+;000001F9{\{el}~81~[{el}w$O~B2~~B3~~FE~~FF~}#033#012
+\{el}~81~[{el}w$O~B2~~B3~~FE~~FF~#012
+;00000205{ ]Ay/Oz/~B1~~A3~~5F~P[{de}~C1~{rt}{ie}1PLAYER==2PLAYERS\Start ==Resume\Sav1==Sav2==Sav3\No Saved Games!  \~F5~{ca}~BF~{di}~7F~~C4~h~02~}#135#093
+ ]Ay/Oz/~B1~~A3~~5F~P[{de}~C1~{rt}{ie}1PLAYER==2PLAYERS\Start ==Resume\Sav1==Sav2==Sav3\No Saved Games!  \~F5~{ca}~BF~{di}~7F~~C4~h~02~#093
+|120
+@0000026F-00000289-FF
+;0000026F{4{el}~01~:{el}~FE~~1E~{el}~AF~~1E~{el}Ú~02~{el}~84~~02~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:~F6~}#096#027
+4{el}~01~:{el}~FE~~1E~{el}~AF~~1E~{el}Ú~02~{el}~84~~02~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:~F6~#027
+|27
+@00000291-00000297-FF
+;00000291{{ta}{rt}~C1~{ie}~F5~:~F6~}#025#007
+{ta}{rt}~C1~{ie}~F5~:~F6~#007
+|7
+@000002FD-0000031B-FF
+;000002FD{{el}~8C~~1F~{el}{or}~1F~{ta}{rt}~C1~{ie}~F5~{ia}>\~16~~08~{el}S~23~{rt}~F1~{ie}{ha}!~FE~~FF~}#092#026
+{el}~8C~~1F~{el}{or}~1F~{ta}{rt}~C1~{ie}~F5~{ia}>\~16~~08~{el}S~23~{rt}~F1~{ie}{ha}!~FE~~FF~#026
+;00000317{f{ar}~F5~>~01~}#014#005
+f{ar}~F5~>~01~#005
+|31
+@00000378-00000385-FF
+;00000378{{ta}{rt}~C1~{ie}~C5~~F5~{ha}~EB~~11~~08~~C0~:(~C0~}#050#014
+{ta}{rt}~C1~{ie}~C5~~F5~{ha}~EB~~11~~08~~C0~:(~C0~#014
+|14
+@000003A3-000003AB-FF
+;000003A3{{ha}~EB~{ta}{el}~AD~~03~~23~~F1~~C1~}#036#009
+{ha}~EB~{ta}{el}~AD~~03~~23~~F1~~C1~#009
+|9
+@000004AA-000004C6-FF
+;000004AA{{tu}~03~{tu}"K~C0~~FD~{ta}{tu}{ta}~F1~{ta}{rt}~C1~{ie}~F5~{ia}:{ha}~C5~{di}?{di}?{di}?~ED~D~82~}#095#029
+{tu}~03~{tu}"K~C0~~FD~{ta}{tu}{ta}~F1~{ta}{rt}~C1~{ie}~F5~{ia}:{ha}~C5~{di}?{di}?{di}?~ED~D~82~#029
+|29
+@00000BE2-00000BE8-FF
+;00000BE2{R{ui}N~0B~*n~C0~}#016#007
+R{ui}N~0B~*n~C0~#007
+|7
+@00000CAC-00000CB2-FF
+;00000CAC{R{ui}N~0B~*l~C0~}#016#007
+R{ui}N~0B~*l~C0~#007
+|7
+@00000CDB-00000CE1-FF
+;00000CDB{R{ui}N~0B~*l~C0~}#016#007
+R{ui}N~0B~*l~C0~#007
+|7
+@00001212-0000121F-FF
+;00001212{{el}~1A~~12~{ta}{rt}~C1~~F1~{ie}~7E~{el}'~12~:~5C~}#050#014
+{el}~1A~~12~{ta}{rt}~C1~~F1~{ie}~7E~{el}'~12~:~5C~#014
+|14
+@00001280-0000129E-FF
+;00001280{{el}~D0~~23~~01~~1D~\{ia}~ED~~B0~{tu}{ar}!{ic}f{el}~1E~~03~{tu}{ta}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~!.~C5~}#109#031
+{el}~D0~~23~~01~~1D~\{ia}~ED~~B0~{tu}{ar}!{ic}f{el}~1E~~03~{tu}{ta}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~!.~C5~#031
+|31
+@000012AB-000012D6-FF
+;000012AB{{ta}{rt}~C1~{ie}6\{ha}{tu}{ar}{tu}~7E~~11~{el}~13~~13~{tu}~7E~~12~{el}~13~~13~{tu}~7E~~13~{el}~13~~13~{tu}{ta}{el}~D0~~12~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:.~C5~}#164#044
+{ta}{rt}~C1~{ie}6\{ha}{tu}{ar}{tu}~7E~~11~{el}~13~~13~{tu}~7E~~12~{el}~13~~13~{tu}~7E~~13~{el}~13~~13~{tu}{ta}{el}~D0~~12~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:.~C5~#044
+|44
+@00001301-0000131B-FF
+;00001301{{el}~09~~13~~F1~{ta}{rt}~C1~{ie}T~5D~~13~~01~~1C~\p~ED~~B0~{ie}~C5~{ia}{ha}~F5~{Ca}~1E~8=~5F~}#093#027
+{el}~09~~13~~F1~{ta}{rt}~C1~{ie}T~5D~~13~~01~~1C~\p~ED~~B0~{ie}~C5~{ia}{ha}~F5~{Ca}~1E~8=~5F~#027
+|27
+@00001329-00001330-FF
+;00001329{{ta}{rt}~C1~{ie}Z~13~C~13~}#026#008
+{ta}{rt}~C1~{ie}Z~13~C~13~#008
+|8
+@000016E7-00001712-FF
+;000016E7{{ta}~F1~{ta}{rt}~C1~{ie}\\\\\\\\\\\\~90~~03~~1B~\\\\\\\\\0~03~~09~~40~~15~=P]~15~~60~~17~~1B~P~0A~}#098#044
+{ta}~F1~{ta}{rt}~C1~{ie}\\\\\\\\\\\\~90~~03~~1B~\\\\\\\\\0~03~~09~~40~~15~=P]~15~~60~~17~~1B~P~0A~#044
+|44
+@000018A6-000018BE-FF
+;000018A6{{di}~C6~~14~~10~~EF~{rt}~C1~~1C~= {de}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~C5~{ia}~80~0~05~}#091#025
+{di}~C6~~14~~10~~EF~{rt}~C1~~1C~= {de}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~C5~{ia}~80~0~05~#025
+|25
+@000018DE-000018F2-FF
+;000018DE{{di}~C6~~1C~= {Ca}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~C5~{ia}{ha}~F5~2~A4~}#075#021
+{di}~C6~~1C~= {Ca}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~C5~{ia}{ha}~F5~2~A4~#021
 |21
-@00030E76-00030E8A-00
-;00000000{          Faraday~0D~  ~00~}#027#021
-          Faraday~0D~  ~00~#021
-|21
-@00030E8C-00030EA0-00
-;00000000{List Translation ~0D~  ~00~}#027#021
-List Translation ~0D~  ~00~#021
-|21
-@00030EA1-00030EB5-00
-;00000000{          Faraday~0D~  ~00~}#027#021
-          Faraday~0D~  ~00~#021
-|21
-@00030EE1-00030EF5-00
-;00000000{Hacking          ~0D~  ~00~}#027#021
-Hacking          ~0D~  ~00~#021
-|21
-@00030F0C-00030F20-00
-;00000000{Utils programmer ~0D~  ~00~}#027#021
-Utils programmer ~0D~  ~00~#021
-|21
-@00030F37-00030F4B-00
-;00000000{Script Editing   ~0D~  ~00~}#027#021
-Script Editing   ~0D~  ~00~#021
-|21
-@00030F62-00030F76-00
-;00000000{Special Thanks   ~0D~  ~00~}#027#021
-Special Thanks   ~0D~  ~00~#021
-|21
-@00030F8C-00030FA0-00
-;00000000{             imid~0D~  ~00~}#027#021
-             imid~0D~  ~00~#021
-|21
-@00030FA1-00030FB5-00
-;00000000{  Spiffmaster Cow~0D~  ~00~}#027#021
-  Spiffmaster Cow~0D~  ~00~#021
-|21
-@00030FB6-00030FCA-00
-;00000000{     The End     ~0D~  ~00~}#027#021
-     The End     ~0D~  ~00~#021
-|21
-@00030FCB-000313FC-00
-;00000000{ got~18~~00~}#012#006
- got~18~~00~#006
-;00000006{Empty!~18~~00~}#014#008
-Empty!~18~~00~#008
-;0000000E{Locked!~18~~00~}#015#009
-Locked!~18~~00~#009
-;00000017{Opened!~18~~00~}#015#009
-Opened!~18~~00~#009
-;00000020{Alec's Mom:~0D~Welcome Home! You~0D~must rest now.~18~~0C~~00~}#062#047
-Alec's Mom:~0D~Welcome Home! You~0D~must rest now.~18~~0C~~00~#047
-;0000004F{Be careful, Son.~18~~0C~~00~}#028#019
-Be careful, Son.~18~~0C~~00~#019
-;00000062{Alec's Mom:~0D~Oh my! Run to the~0D~church quickly!~18~~0C~~00~}#063#048
-Alec's Mom:~0D~Oh my! Run to the~0D~church quickly!~18~~0C~~00~#048
-;00000092{Alec's Mom:~0D~Welcome back, Son.~0D~Go see Old Rob.~18~~0C~~00~}#064#049
-Alec's Mom:~0D~Welcome back, Son.~0D~Go see Old Rob.~18~~0C~~00~#049
-;000000C3{Mina: Come Alec,~18~~0C~let's go visit~0D~Old Rob first!~18~~0C~~00~}#068#050
-Mina: Come Alec,~18~~0C~let's go visit~0D~Old Rob first!~18~~0C~~00~#050
-;000000F5{Old Rob: I've~0D~already heard~0D~about Morg~A0~~18~~0C~Oh~A0~~18~~0C~Wow! Could that be~0D~the legendary~0D~Light Pendant!?~18~~0C~~00~}#136#097
-Old Rob: I've~0D~already heard~0D~about Morg~A0~~18~~0C~Oh~A0~~18~~0C~Wow! Could that be~0D~the legendary~0D~Light Pendant!?~18~~0C~~00~#097
-;00000156{It surely looks~0D~like the one in~0D~the Old Tome!~18~~0C~How did you young~0D~whippersnappers~0D~get ahold of it?~18~~0C~~00~}#127#100
-It surely looks~0D~like the one in~0D~the Old Tome!~18~~0C~How did you young~0D~whippersnappers~0D~get ahold of it?~18~~0C~~00~#100
-;000001BA{Well, anyway~A0~~0D~A prophecy reads~0D~that two souls~A0~~18~~0C~~A0~shall acquire~0D~the Pendant, then~0D~save our planet~A0~~18~~0C~~00~}#139#100
-Well, anyway~A0~~0D~A prophecy reads~0D~that two souls~A0~~18~~0C~~A0~shall acquire~0D~the Pendant, then~0D~save our planet~A0~~18~~0C~~00~#100
-;0000021E{Whoa!! Could it be~0D~YOU mentioned in~0D~the prophecy!?~18~~0C~Go west~A0~~18~~0C~Find the Scroll~0D~of Truth!~18~~0C~~00~}#123#090
-Whoa!! Could it be~0D~YOU mentioned in~0D~the prophecy!?~18~~0C~Go west~A0~~18~~0C~Find the Scroll~0D~of Truth!~18~~0C~~00~#090
-;00000278{Check the cave,~0D~then return here!~18~~0C~You'll need this.~0D~Use it to warp~0D~back to town.~18~~0C~Got a Telepipe.~18~~0C~~00~}#131#101
-Check the cave,~0D~then return here!~18~~0C~You'll need this.~0D~Use it to warp~0D~back to town.~18~~0C~Got a Telepipe.~18~~0C~~00~#101
-;000002DD{Fetch me that~0D~Scroll of Truth!~18~~0C~~00~}#045#033
-Fetch me that~0D~Scroll of Truth!~18~~0C~~00~#033
-;000002FE{Old Rob: Ah!!~0D~An old parchment~A0~~18~~0C~How odd~A0~ Mina's~0D~name is written~0D~here~A0~~18~~0C~~00~}#106#073
-Old Rob: Ah!!~0D~An old parchment~A0~~18~~0C~How odd~A0~ Mina's~0D~name is written~0D~here~A0~~18~~0C~~00~#073
-;00000347{What!? It also~0D~reads that Mina~0D~is of Alis~A0~~18~~0C~and Alec is her~0D~champion~A0~~18~~0C~~00~}#102#072
-What!? It also~0D~reads that Mina~0D~is of Alis~A0~~18~~0C~and Alec is her~0D~champion~A0~~18~~0C~~00~#072
-;0000038F{These Chosen~0D~shall seal the~0D~Evil~A0~~18~~0C~Wow!! You'll~0D~journey far~A0~~0D~confront Cablon~A0~~18~~0C~and vanquish him!~18~~0C~~00~}#141#099
-These Chosen~0D~shall seal the~0D~Evil~A0~~18~~0C~Wow!! You'll~0D~journey far~A0~~0D~confront Cablon~A0~~18~~0C~and vanquish him!~18~~0C~~00~#099
-;000003F2{Alec: Whoa! Not~0D~so fast, Sir~A0~~18~~0C~My only concern~0D~is for my dad.~18~~0C~~00~}#088#064
-Alec: Whoa! Not~0D~so fast, Sir~A0~~18~~0C~My only concern~0D~is for my dad.~18~~0C~~00~#064
-|1074
-@000313FD-000315AB-00
-;00000000{Mina: Either way,~0D~you're not leaving~0D~me behind!~18~~0C~~00~}#065#050
-Mina: Either way,~0D~you're not leaving~0D~me behind!~18~~0C~~00~#050
-;00000032{Oh, absolutely!~0D~You must be Alis's~0D~descendant!~18~~0C~~00~}#064#049
-Oh, absolutely!~0D~You must be Alis's~0D~descendant!~18~~0C~~00~#049
-;00000063{Find Dirk~A0~~0D~my elder brother.~18~~0C~He'll know what~0D~to do.~18~~0C~~00~}#079#055
-Find Dirk~A0~~0D~my elder brother.~18~~0C~He'll know what~0D~to do.~18~~0C~~00~#055
-;0000009A{Also, look for the~0D~three Laconia~0D~weapons.~18~~0C~~00~}#059#044
-Also, look for the~0D~three Laconia~0D~weapons.~18~~0C~~00~#044
-;000000C6{And the Bracelet~0D~of Kura~A0~~0D~Don't forget!!~18~~0C~~00~}#061#043
-And the Bracelet~0D~of Kura~A0~~0D~Don't forget!!~18~~0C~~00~#043
-;000000F1{Got the Scroll~0D~of Truth.~18~~0C~~00~}#039#027
-Got the Scroll~0D~of Truth.~18~~0C~~00~#027
-;0000010C{Mina: This is it.~18~~0C~Now, let's hurry~0D~back to Old Rob.~18~~0C~~00~}#073#055
-Mina: This is it.~18~~0C~Now, let's hurry~0D~back to Old Rob.~18~~0C~~00~#055
-;00000143{Ah, visitors!~18~~0C~How about a ride?~0D~Only 30 Meseta~A0~~18~~0C~~00~}#072#051
-Ah, visitors!~18~~0C~How about a ride?~0D~Only 30 Meseta~A0~~18~~0C~~00~#051
-;00000176{Yes~00~}#007#004
-Yes~00~#004
-;0000017A{No~00~}#006#003
-No~00~#003
-;0000017D{Aw c'mon!~00~}#013#010
-Aw c'mon!~00~#010
-;00000187{Damn! A bunch of~0D~cheapskates~A0~~0D~(mutter~A0~)~18~}#055#040
-Damn! A bunch of~0D~cheapskates~A0~~0D~(mutter~A0~)~18~#040
-|431
-@000315AE-000319E2-00
-;00000000{Yo, travellers~A0~~0D~enjoy the tour!~00~}#041#032
-Yo, travellers~A0~~0D~enjoy the tour!~00~#032
-;00000020{Popo's Teacher:~0D~You've done well.~18~~0C~I know all about~0D~your mission.~18~~0C~~00~}#089#068
-Popo's Teacher:~0D~You've done well.~18~~0C~I know all about~0D~your mission.~18~~0C~~00~#068
-;00000064{Take this item~0D~that Popo stole,~18~~0C~and good luck!~18~~0C~~00~}#068#050
-Take this item~0D~that Popo stole,~18~~0C~and good luck!~18~~0C~~00~#050
-;00000096{Got a World Map!~18~~0C~~00~}#028#019
-Got a World Map!~18~~0C~~00~#019
-;000000A9{Guard: I can't~0D~allow you in the~0D~ancient ruins~A0~~18~~0C~By the way, my~0D~weakness is Ouzo.~18~~0C~~00~}#110#083
-Guard: I can't~0D~allow you in the~0D~ancient ruins~A0~~18~~0C~By the way, my~0D~weakness is Ouzo.~18~~0C~~00~#083
-;000000FC{Guard: Oh! Is~0D~that Ouzo? Wow!~18~~0C~For me? Thanks!~18~~0C~~00~}#067#049
-Guard: Oh! Is~0D~that Ouzo? Wow!~18~~0C~For me? Thanks!~18~~0C~~00~#049
-;0000012D{What! You still~0D~want inside? Oh,~0D~if you insist~A0~~18~~0C~~00~}#068#050
-What! You still~0D~want inside? Oh,~0D~if you insist~A0~~18~~0C~~00~#050
-;0000015F{Guard: Boy, do I~0D~LOVE Ouzo!!~18~~0C~~00~}#043#031
-Guard: Boy, do I~0D~LOVE Ouzo!!~18~~0C~~00~#031
-;0000017E{Do you want your~0D~fortune told?~18~~0C~~00~}#045#033
-Do you want your~0D~fortune told?~18~~0C~~00~#033
-;0000019F{Yes~00~}#007#004
-Yes~00~#004
-;000001A3{No~00~}#006#003
-No~00~#003
-;000001A6{Short of Meseta.~18~~0C~~00~}#028#019
-Short of Meseta.~18~~0C~~00~#019
-;000001B9{I can use tarots~0D~only once.~18~~0C~~00~}#042#030
-I can use tarots~0D~only once.~18~~0C~~00~#030
-;000001D7{How about a~0D~reading?~18~~0C~~00~}#035#023
-How about a~0D~reading?~18~~0C~~00~#023
-;000001EE{I can help solve~0D~your problems.~18~~0C~~00~}#046#034
-I can help solve~0D~your problems.~18~~0C~~00~#034
-;00000210{Close the sluice~0D~to stop the river~0D~from flowing.~18~~0C~~00~}#066#051
-Close the sluice~0D~to stop the river~0D~from flowing.~18~~0C~~00~#051
-;00000243{Find Dirk in the~0D~Lost Forest~A0~ 3~0D~right and 2 left.~18~~0C~~00~}#070#052
-Find Dirk in the~0D~Lost Forest~A0~ 3~0D~right and 2 left.~18~~0C~~00~#052
-;00000277{A wee enemy will~0D~join~3B~ a big one~0D~will guide.~18~~0C~A boat will appear~0D~when the Master is~0D~found. Take this~A0~~18~~0C~Got the Bracelet~0D~of Kura.~18~~0C~~00~}#173#131
-A wee enemy will~0D~join~3B~ a big one~0D~will guide.~18~~0C~A boat will appear~0D~when the Master is~0D~found. Take this~A0~~18~~0C~Got the Bracelet~0D~of Kura.~18~~0C~~00~#131
-;000002FA{Don't consult me~0D~unless you're~0D~having trouble.~18~~0C~~00~}#064#049
-Don't consult me~0D~unless you're~0D~having trouble.~18~~0C~~00~#049
-;0000032B{Dirk: Hello! I~A0~~0D~ah~A0~ er~A0~ seem to~0D~be lost!~18~~0C~~00~}#067#043
-Dirk: Hello! I~A0~~0D~ah~A0~ er~A0~ seem to~0D~be lost!~18~~0C~~00~#043
-;00000356{Mina: Sir, we're~0D~looking for Old~0D~Rob's brother~A0~~18~~0C~~A0~a fellow called~0D~Dirk.~18~~0C~~00~}#104#074
-Mina: Sir, we're~0D~looking for Old~0D~Rob's brother~A0~~18~~0C~~A0~a fellow called~0D~Dirk.~18~~0C~~00~#074
-;000003A0{Dirk: Why~A0~~0D~Hey, I'm Dirk!~18~~0C~~00~}#043#028
-Dirk: Why~A0~~0D~Hey, I'm Dirk!~18~~0C~~00~#028
-;000003BC{Alec: We need to~0D~close the sluice.~18~~0C~~00~}#049#037
-Alec: We need to~0D~close the sluice.~18~~0C~~00~#037
-;000003E1{Dirk: Hmm~A0~~0D~Only if you help~0D~me get home.~18~~0C~I seem to have~0D~used up all of my~0D~magic!~18~~0C~~00~}#114#084
-Dirk: Hmm~A0~~0D~Only if you help~0D~me get home.~18~~0C~I seem to have~0D~used up all of my~0D~magic!~18~~0C~~00~#084
-|1077
-@000319E3-00031BC9-00
-;00000000{My house is in~0D~the center of~0D~the forest.~18~~0C~~00~}#058#043
-My house is in~0D~the center of~0D~the forest.~18~~0C~~00~#043
-;0000002B{Mina: Of course,~0D~we'll help you~0D~get home.~18~~0C~~00~}#059#044
-Mina: Of course,~0D~we'll help you~0D~get home.~18~~0C~~00~#044
-;00000057{Dirk joined.~18~~0C~~00~}#024#015
-Dirk joined.~18~~0C~~00~#015
-;00000066{Found the Diary~A0~~0D~Will you record~0D~your journey?~18~~0C~~00~}#067#049
-Found the Diary~A0~~0D~Will you record~0D~your journey?~18~~0C~~00~#049
-;00000097{Dirk: I'm in~0D~your debt~A0~~18~~0C~Let's go close~0D~that sluice!~18~~0C~~00~}#079#055
-Dirk: I'm in~0D~your debt~A0~~18~~0C~Let's go close~0D~that sluice!~18~~0C~~00~#055
-;000000CE{Got Sluice Key.~18~~0C~~00~}#027#018
-Got Sluice Key.~18~~0C~~00~#018
-;000000E0{Dirk: Which way~0D~should we turn~0D~the valve?~18~~0C~~00~}#059#044
-Dirk: Which way~0D~should we turn~0D~the valve?~18~~0C~~00~#044
-;0000010C{Right~00~}#009#006
-Right~00~#006
-;00000112{Left~00~}#008#005
-Left~00~#005
-;00000117{Done~00~}#008#005
-Done~00~#005
-;0000011C{I'm becoming~0D~forgetful!~18~~0C~~00~}#038#026
-I'm becoming~0D~forgetful!~18~~0C~~00~#026
-;00000136{It's closing.~18~~0C~~00~}#025#016
-It's closing.~18~~0C~~00~#016
-;00000146{The sluice is~0D~already closed.~18~~0C~~00~}#044#032
-The sluice is~0D~already closed.~18~~0C~~00~#032
-;00000166{Guard: Hey! The~0D~Daedalus mine is~18~~0C~off limits!~18~~0C~~00~}#066#048
-Guard: Hey! The~0D~Daedalus mine is~18~~0C~off limits!~18~~0C~~00~#048
-;00000196{Daedalus: I am~0D~the servant of~18~~0C~Cablon~A0~~18~~0C~Leave now~A0~~0D~or perish!!~18~~0C~~00~}#098#065
-Daedalus: I am~0D~the servant of~18~~0C~Cablon~A0~~18~~0C~Leave now~A0~~0D~or perish!!~18~~0C~~00~#065
-;000001D7{Daedalus: Wha~A0~?~0D~}#022#016
-Daedalus: Wha~A0~?~0D~#016
-|487
-@00031BCA-00031FDB-00
-;00000000{I can't move! Must~0D~find the Master!~18~~0C~~00~}#050#038
-I can't move! Must~0D~find the Master!~18~~0C~~00~#038
-;00000026{Cablon must be~0D~defeated now!~18~~0C~~00~}#043#031
-Cablon must be~0D~defeated now!~18~~0C~~00~#031
-;00000045{Alec: What's going~0D~on here?~18~~0C~He's changed his~0D~tune completely!~18~~0C~~00~}#086#065
-Alec: What's going~0D~on here?~18~~0C~He's changed his~0D~tune completely!~18~~0C~~00~#065
-;00000086{Mina: Shut up!~0D~He's trying to~0D~say something~A0~~18~~0C~~00~}#065#047
-Mina: Shut up!~0D~He's trying to~0D~say something~A0~~18~~0C~~00~#047
-;000000B5{Daedalus: You~0D~there! Turn the~0D~knob in my ear~A0~~18~~0C~~A0~right side!~18~~0C~~00~}#089#062
-Daedalus: You~0D~there! Turn the~0D~knob in my ear~A0~~18~~0C~~A0~right side!~18~~0C~~00~#062
-;000000F3{I must find the~0D~Master~A0~ help one~0D~called Mina~A0~~18~~0C~~00~}#069#048
-I must find the~0D~Master~A0~ help one~0D~called Mina~A0~~18~~0C~~00~#048
-;00000123{Alec: What's he~0D~babbling about~0D~now?~18~~0C~~00~}#053#038
-Alec: What's he~0D~babbling about~0D~now?~18~~0C~~00~#038
-;00000149{Dirk: It's not~0D~babble~A0~ Rob told~0D~me a story once~A0~~18~~0C~~00~}#072#051
-Dirk: It's not~0D~babble~A0~ Rob told~0D~me a story once~A0~~18~~0C~~00~#051
-;0000017C{This must be the~0D~Guardian of~0D~Alis's Champion!~18~~0C~~00~}#063#048
-This must be the~0D~Guardian of~0D~Alis's Champion!~18~~0C~~00~#048
-;000001AC{Mina: What? You~0D~mean he's on our~0D~side?~18~~0C~~00~}#056#041
-Mina: What? You~0D~mean he's on our~0D~side?~18~~0C~~00~#041
-;000001D5{Dirk: Could be~A0~~0D~Then again, maybe~0D~not~A0~~18~~0C~~00~}#062#041
-Dirk: Could be~A0~~0D~Then again, maybe~0D~not~A0~~18~~0C~~00~#041
-;000001FE{Alec: Thank you~0D~for being so~0D~definite!~18~~0C~~00~}#056#041
-Alec: Thank you~0D~for being so~0D~definite!~18~~0C~~00~#041
-;00000227{Dirk: Oh, don't~0D~be a worry wart!~18~~0C~He's too beat up~0D~to harm us.~18~~0C~~00~}#086#065
-Dirk: Oh, don't~0D~be a worry wart!~18~~0C~He's too beat up~0D~to harm us.~18~~0C~~00~#065
-;00000268{Mina: Well Dirk,~0D~do something,~0D~will ya!?~18~~0C~~00~}#058#043
-Mina: Well Dirk,~0D~do something,~0D~will ya!?~18~~0C~~00~#043
-;00000293{Dirk repaired~0D~the robot.~18~~0C~~00~}#039#027
-Dirk repaired~0D~the robot.~18~~0C~~00~#027
-;000002AE{Daedalus: Oh my~A0~~0D~Thank you!! I'm~0D~actually Lars.~18~~0C~~00~}#068#050
-Daedalus: Oh my~A0~~0D~Thank you!! I'm~0D~actually Lars.~18~~0C~~00~#050
-;000002E0{My program? Find~0D~Mina of Tedo~A0~~18~~0C~The Master awaits~A0~~0D~Cave of Mizurina~A0~~0D~Must hurry~A0~~18~~0C~~00~}#119#083
-My program? Find~0D~Mina of Tedo~A0~~18~~0C~The Master awaits~A0~~0D~Cave of Mizurina~A0~~0D~Must hurry~A0~~18~~0C~~00~#083
-;00000333{Mina: But I-I'm~0D~Mina of Tedo~A0~~18~~0C~~00~}#047#032
-Mina: But I-I'm~0D~Mina of Tedo~A0~~18~~0C~~00~#032
-;00000353{Lars: Then SHOW~0D~me your Light~0D~Pendant!~18~~0C~~00~}#056#041
-Lars: Then SHOW~0D~me your Light~0D~Pendant!~18~~0C~~00~#041
-;0000037C{Mina: What?~0D~You mean this~0D~old relic?~18~~0C~~00~}#054#039
-Mina: What?~0D~You mean this~0D~old relic?~18~~0C~~00~#039
-;000003A3{Lars: YES!!~0D~You ARE the~0D~Chosen!~18~~0C~Come now~A0~~18~~0C~The Master awaits.~0D~We must vanquish~0D~the Evil!~18~~0C~~00~}#128#092
-Lars: YES!!~0D~You ARE the~0D~Chosen!~18~~0C~Come now~A0~~18~~0C~The Master awaits.~0D~We must vanquish~0D~the Evil!~18~~0C~~00~#092
-;000003FF{I am your guide.~18~~0C~~00~}#028#019
-I am your guide.~18~~0C~~00~#019
-|1042
-@00031FDC-00032227-00
-;00000000{Morg: Ohhh!! My~0D~son? Is that you,~0D~Alec?~18~~0C~~00~}#057#042
-Morg: Ohhh!! My~0D~son? Is that you,~0D~Alec?~18~~0C~~00~#042
-;0000002A{Alec: F-father!?~18~~0C~~00~}#028#019
-Alec: F-father!?~18~~0C~~00~#019
-;0000003D{Morg: Oh, Alec!~0D~I thought I was~0D~a goner!~18~~0C~~00~}#058#043
-Morg: Oh, Alec!~0D~I thought I was~0D~a goner!~18~~0C~~00~#043
-;00000068{I'll save the~0D~rest~A0~ Alec, take~0D~Mina home now.~18~~0C~~00~}#066#048
-I'll save the~0D~rest~A0~ Alec, take~0D~Mina home now.~18~~0C~~00~#048
-;00000098{Mina: Sorry,~0D~Sir~A0~ but I have~0D~another mission~A0~~18~~0C~~A0~and I'm taking~0D~Alec with me.~18~~0C~~00~}#112#079
-Mina: Sorry,~0D~Sir~A0~ but I have~0D~another mission~A0~~18~~0C~~A0~and I'm taking~0D~Alec with me.~18~~0C~~00~#079
-;000000E7{Alec: Say what!?~18~~0C~~00~}#028#019
-Alec: Say what!?~18~~0C~~00~#019
-;000000FA{Dirk: Ahem~A0~ well~A0~~0D~I'll leave you two~0D~to sort this out~A0~~18~~0C~~00~}#081#057
-Dirk: Ahem~A0~ well~A0~~0D~I'll leave you two~0D~to sort this out~A0~~18~~0C~~00~#057
-;00000133{Meanwhile, I'll~0D~go visit Rob in~0D~Tedo.~18~~0C~~00~}#055#040
-Meanwhile, I'll~0D~go visit Rob in~0D~Tedo.~18~~0C~~00~#040
-;0000015B{Dirk left and~0D~Lars joined.~18~~0C~~00~}#041#029
-Dirk left and~0D~Lars joined.~18~~0C~~00~#029
-;00000178{Mina: What's~0D~that thing!?~18~~0C~~00~}#040#028
-Mina: What's~0D~that thing!?~18~~0C~~00~#028
-;00000194{Alec: Er~A0~ looks~0D~sort of like a~0D~cryonic vault.~18~~0C~~00~}#066#048
-Alec: Er~A0~ looks~0D~sort of like a~0D~cryonic vault.~18~~0C~~00~#048
-;000001C4{Lars reversed~0D~the cryogenics~0D~control system~A0~~18~~0C~Alis emerged~A0~~18~~0C~~00~}#089#062
-Lars reversed~0D~the cryogenics~0D~control system~A0~~18~~0C~Alis emerged~A0~~18~~0C~~00~#062
-;00000202{Lars: Oh,~0D~Master!~18~~0C~~00~}#032#020
-Lars: Oh,~0D~Master!~18~~0C~~00~#020
-;00000216{Alis: Brrr~A0~~0D~Oh hi, Lars~A0~~0D~Find Mina yet?~18~~0C~~00~}#063#042
-Alis: Brrr~A0~~0D~Oh hi, Lars~A0~~0D~Find Mina yet?~18~~0C~~00~#042
-;00000240{Mina: You~A0~?~0D~}#018#012
-Mina: You~A0~?~0D~#012
-|588
-@00032228-00032231-00
-;00000000{Are you~A0~?~18~}#016#010
-Are you~A0~?~18~#010
-|10
-@00032234-0003263C-00
-;00000000{Alis: Oh, Mina~A0~~0D~Yes, my dear, I~0D~AM your mother.~18~~0C~~00~}#068#050
-Alis: Oh, Mina~A0~~0D~Yes, my dear, I~0D~AM your mother.~18~~0C~~00~#050
-;00000032{You have done well~0D~to come this far.~18~~0C~~00~}#051#039
-You have done well~0D~to come this far.~18~~0C~~00~#039
-;00000059{Our reunion was~0D~preordained by~0D~prophesy~A0~~18~~0C~It was I who~0D~created the~0D~Scroll of Truth.~18~~0C~~00~}#116#086
-Our reunion was~0D~preordained by~0D~prophesy~A0~~18~~0C~It was I who~0D~created the~0D~Scroll of Truth.~18~~0C~~00~#086
-;000000AF{You too, Alec~A0~~0D~We were destined~0D~to meet.~18~~0C~Now, we shall go~0D~forth and defeat~0D~the evil Cablon.~18~~0C~~00~}#125#095
-You too, Alec~A0~~0D~We were destined~0D~to meet.~18~~0C~Now, we shall go~0D~forth and defeat~0D~the evil Cablon.~18~~0C~~00~#095
-;0000010E{Lars transformed~0D~into a Land Rover.~0D~Alis joined.~18~~0C~~00~}#066#051
-Lars transformed~0D~into a Land Rover.~0D~Alis joined.~18~~0C~~00~#051
-;00000141{Mina: This place~0D~is INFESTED with~0D~monsters!~18~~0C~~00~}#061#046
-Mina: This place~0D~is INFESTED with~0D~monsters!~18~~0C~~00~#046
-;0000016F{Lars: Go then~A0~~0D~I'll mop up here.~18~~0C~~00~}#050#035
-Lars: Go then~A0~~0D~I'll mop up here.~18~~0C~~00~#035
-;00000192{Lars left.~18~~0C~~00~}#022#013
-Lars left.~18~~0C~~00~#013
-;0000019F{Lars: The odds~0D~overwhelm~A0~ We'll~0D~return later.~18~~0C~~00~}#066#048
-Lars: The odds~0D~overwhelm~A0~ We'll~0D~return later.~18~~0C~~00~#048
-;000001CF{Cablon: Hi-Ho,~0D~little heroes!~0D~Welcome!~18~~0C~~00~}#056#041
-Cablon: Hi-Ho,~0D~little heroes!~0D~Welcome!~18~~0C~~00~#041
-;000001F8{That Lars-gizmo~0D~thingy helped me~0D~regain my power!~18~~0C~~00~}#067#052
-That Lars-gizmo~0D~thingy helped me~0D~regain my power!~18~~0C~~00~#052
-;0000022C{Alis: Cablon, you~0D~will strangle on~0D~that power~A0~~18~~0C~~A0~with your dying~0D~breath!!~18~~0C~~00~}#106#076
-Alis: Cablon, you~0D~will strangle on~0D~that power~A0~~18~~0C~~A0~with your dying~0D~breath!!~18~~0C~~00~#076
-;00000278{Cablon: Whoa!!~0D~Some gall~A0~~18~~0C~Say! How about a~0D~a deal? I'll give~0D~you this planet!~18~~0C~~00~}#108#081
-Cablon: Whoa!!~0D~Some gall~A0~~18~~0C~Say! How about a~0D~a deal? I'll give~0D~you this planet!~18~~0C~~00~#081
-;000002C9{Alec: A deal!!?~18~~0C~Please NO, Ma'am!~0D~He's hurt too many~0D~good people!!~18~~0C~~00~}#091#070
-Alec: A deal!!?~18~~0C~Please NO, Ma'am!~0D~He's hurt too many~0D~good people!!~18~~0C~~00~#070
-;0000030F{Cablon: Bwahaha!!~0D~Fools!!~18~~0C~~00~}#040#028
-Cablon: Bwahaha!!~0D~Fools!!~18~~0C~~00~#028
-;0000032B{Cablon attacked!!~18~~0C~~00~}#029#020
-Cablon attacked!!~18~~0C~~00~#020
-;0000033F{Cablon was slain!~18~~0C~Alec: Oh, my Lady~0D~Alis, we did it!~0D~We REALLY did it!~18~~0C~~00~}#095#074
-Cablon was slain!~18~~0C~Alec: Oh, my Lady~0D~Alis, we did it!~0D~We REALLY did it!~18~~0C~~00~#074
-;00000389{Alis: Yes, Dear,~0D~thanks to YOU and~0D~my lovely Mina!~18~~0C~She has been so~0D~ALONE, I know!~18~~0C~~00~}#109#085
-Alis: Yes, Dear,~0D~thanks to YOU and~0D~my lovely Mina!~18~~0C~She has been so~0D~ALONE, I know!~18~~0C~~00~#085
-;000003DE{Mina: No,~0D~Mother~A0~ I've~0D~never been alone.~18~~0C~~00~}#061#043
-Mina: No,~0D~Mother~A0~ I've~0D~never been alone.~18~~0C~~00~#043
-|1033
-@0003263D-00032A43-00
-;00000000{Alis: Ah yes,~0D~your wonderful~0D~man, Alec~A0~~18~~0C~~00~}#060#042
-Alis: Ah yes,~0D~your wonderful~0D~man, Alec~A0~~18~~0C~~00~#042
-;0000002A{Mina: Yes~A0~~18~~0C~~00~}#025#013
-Mina: Yes~A0~~18~~0C~~00~#013
-;00000037{Lars: Er~A0~~0D~Master!~18~~0C~The monsters have~0D~all vanished!~18~~0C~~00~}#077#053
-Lars: Er~A0~~0D~Master!~18~~0C~The monsters have~0D~all vanished!~18~~0C~~00~#053
-;0000006C{Alis: It was~0D~Cablon's evil that~0D~spawned them.~18~~0C~~00~}#063#048
-Alis: It was~0D~Cablon's evil that~0D~spawned them.~18~~0C~~00~#048
-;0000009C{Mina: Oh, Lars,~0D~you're all beat~0D~up again!~18~~0C~~00~}#059#044
-Mina: Oh, Lars,~0D~you're all beat~0D~up again!~18~~0C~~00~#044
-;000000C8{Lars: Ah~A0~~0D~need rest~A0~ get~0D~Mr. Dirk and~A0~~18~~0C~Sproing!! (Lars~0D~malfunctioned.)~18~~0C~~00~}#107#074
-Lars: Ah~A0~~0D~need rest~A0~ get~0D~Mr. Dirk and~A0~~18~~0C~Sproing!! (Lars~0D~malfunctioned.)~18~~0C~~00~#074
-;00000112{Alis: Let's hurry~0D~back to Tedo.~18~~0C~~00~}#046#034
-Alis: Let's hurry~0D~back to Tedo.~18~~0C~~00~#034
-;00000134{This is a Gypsy~0D~encampment~A0~~18~~0C~Hot, isn't it?~18~~00~}#063#045
-This is a Gypsy~0D~encampment~A0~~18~~0C~Hot, isn't it?~18~~00~#045
-;00000161{Welcome to Mektor.~18~~00~}#026#020
-Welcome to Mektor.~18~~00~#020
-;00000175{This is Tinyville.~18~~0C~We were growing~0D~until recently!~18~~00~}#068#053
-This is Tinyville.~18~~0C~We were growing~0D~until recently!~18~~00~#053
-;000001AA{This is Karkato.~18~~00~}#024#018
-This is Karkato.~18~~00~#018
-;000001BC{Welcome to Porum.~18~~0C~Tarrytown is on~0D~the other side.~18~~00~}#067#052
-Welcome to Porum.~18~~0C~Tarrytown is on~0D~the other side.~18~~00~#052
-;000001F0{This is Tarrytown~A0~~18~~0C~donut capital of~0D~the world!~18~~00~}#067#049
-This is Tarrytown~A0~~18~~0C~donut capital of~0D~the world!~18~~00~#049
-;00000221{What a relief!~18~~00~}#022#016
-What a relief!~18~~00~#016
-;00000231{Many thanks!~18~~00~}#020#014
-Many thanks!~18~~00~#014
-;0000023F{Peace, at last!~18~~00~}#023#017
-Peace, at last!~18~~00~#017
-;00000250{The western cave~0D~is crawling with~18~~0C~monsters!~18~~00~}#061#046
-The western cave~0D~is crawling with~18~~0C~monsters!~18~~00~#046
-;0000027E{I'm scared to~18~~0C~walk in the~0D~countryside!~18~~00~}#056#041
-I'm scared to~18~~0C~walk in the~0D~countryside!~18~~00~#041
-;000002A7{Oh, Alec, you're~0D~all grown up!~18~~00~}#041#032
-Oh, Alec, you're~0D~all grown up!~18~~00~#032
-;000002C7{Find an ATV~A0~~18~~0C~~A0~to cross the~0D~scorching desert.~18~~00~}#068#047
-Find an ATV~A0~~18~~0C~~A0~to cross the~0D~scorching desert.~18~~00~#047
-;000002F6{Oh no~A0~ we've been~0D~routed!~18~~00~}#039#027
-Oh no~A0~ we've been~0D~routed!~18~~00~#027
-;00000311{Thanks, Alec.~18~~00~}#021#015
-Thanks, Alec.~18~~00~#015
-;00000320{Mina, it's so nice~0D~to meet your mom!~18~~00~}#047#038
-Mina, it's so nice~0D~to meet your mom!~18~~00~#038
-;00000346{What a relief!~18~~00~}#022#016
-What a relief!~18~~00~#016
-;00000356{Peace, at last!~18~~00~}#023#017
-Peace, at last!~18~~00~#017
-;00000367{Daedalus has~0D~nabbed some~0D~more people!~18~~00~}#051#039
-Daedalus has~0D~nabbed some~0D~more people!~18~~00~#039
-;0000038E{The church lady~0D~can revive ailing~0D~heroes.~18~~00~}#055#043
-The church lady~0D~can revive ailing~0D~heroes.~18~~00~#043
-;000003B9{Fight slimes while~0D~you're weak, until~0D~you increase HP.~18~~00~}#068#056
-Fight slimes while~0D~you're weak, until~0D~you increase HP.~18~~00~#056
-;000003F1{Elder: Do your~0D~best!~18~~00~}#031#022
-Elder: Do your~0D~best!~18~~00~#022
-|1031
-@00032A44-00032E52-00
-;00000000{What!? Daedalus~0D~joined our side?~18~~00~}#043#034
-What!? Daedalus~0D~joined our side?~18~~00~#034
-;00000022{Mina, I'm so happy~0D~you found your~18~~0C~mother.~18~~00~}#059#044
-Mina, I'm so happy~0D~you found your~18~~0C~mother.~18~~00~#044
-;0000004E{I'll never take~0D~peace for granted,~18~~0C~again!~18~~00~}#059#044
-I'll never take~0D~peace for granted,~18~~0C~again!~18~~00~#044
-;0000007A{Elder: You're our~0D~heroes!~18~~00~}#036#027
-Elder: You're our~0D~heroes!~18~~00~#027
-;00000095{Morg crossed the~0D~southern desert.~18~~00~}#044#035
-Morg crossed the~0D~southern desert.~18~~00~#035
-;000000B8{The Laconian sword~18~~0C~can slice through~0D~anything.~18~~00~}#064#049
-The Laconian sword~18~~0C~can slice through~0D~anything.~18~~00~#049
-;000000E9{You can't just~0D~trot across the~18~~0C~desert.~18~~00~}#056#041
-You can't just~0D~trot across the~18~~0C~desert.~18~~00~#041
-;00000112{Porum lies beyond~0D~the desert.~18~~00~}#040#031
-Porum lies beyond~0D~the desert.~18~~00~#031
-;00000131{The Laconian~0D~Shield will~0D~stop any sword.~18~~00~}#054#042
-The Laconian~0D~Shield will~0D~stop any sword.~18~~00~#042
-;0000015B{Our fortuneteller~0D~is very wise.~18~~00~}#042#033
-Our fortuneteller~0D~is very wise.~18~~00~#033
-;0000017C{How's Old Rob~0D~doing in Tedo?~18~~00~}#039#030
-How's Old Rob~0D~doing in Tedo?~18~~00~#030
-;0000019A{Oh, this awful~0D~drought! Pray~0D~for rain!~18~~00~}#052#040
-Oh, this awful~0D~drought! Pray~0D~for rain!~18~~00~#040
-;000001C2{I run tours.~18~~00~}#020#014
-I run tours.~18~~00~#014
-;000001D0{Morg headed toward~0D~Karkato.~18~~00~}#038#029
-Morg headed toward~0D~Karkato.~18~~00~#029
-;000001ED{Wow! You really~18~~0C~scared the crap~0D~out of me!~18~~00~}#060#045
-Wow! You really~18~~0C~scared the crap~0D~out of me!~18~~00~#045
-;0000021A{I never talk to~0D~strangers.~18~~00~}#037#028
-I never talk to~0D~strangers.~18~~00~#028
-;00000236{Look for a Map in~0D~Tinyville.~18~~00~}#039#030
-Look for a Map in~0D~Tinyville.~18~~00~#030
-;00000254{Trade in your old~0D~items for cash!~18~~00~}#044#035
-Trade in your old~0D~items for cash!~18~~00~#035
-;00000277{Take a tour~0D~out front.~18~~00~}#033#024
-Take a tour~0D~out front.~18~~00~#024
-;0000028F{Trading goods is~0D~risky business.~18~~00~}#043#034
-Trading goods is~0D~risky business.~18~~00~#034
-;000002B1{Tinyville? Head~0D~upstream a ways.~18~~00~}#043#034
-Tinyville? Head~0D~upstream a ways.~18~~00~#034
-;000002D3{Are you from Tedo?~18~~00~}#026#020
-Are you from Tedo?~18~~00~#020
-;000002E7{The Ancient Ruins~0D~lie to the south,~0D~but are guarded.~18~~00~}#066#054
-The Ancient Ruins~0D~lie to the south,~0D~but are guarded.~18~~00~#054
-;0000031D{A hermit lives in~0D~the mountains.~18~~00~}#043#034
-A hermit lives in~0D~the mountains.~18~~00~#034
-;0000033F{Go visit Popo's~0D~museum!~18~~00~}#034#025
-Go visit Popo's~0D~museum!~18~~00~#025
-;00000358{Popo's a complete~0D~jerk!~18~~00~}#034#025
-Popo's a complete~0D~jerk!~18~~00~#025
-;00000371{Nice day, huh?~18~~00~}#022#016
-Nice day, huh?~18~~00~#016
-;00000381{I'm the clever~0D~Popo. I'll use~0D~the Map to make~A0~~18~~0C~~A0~lots of money!~18~~00~}#089#065
-I'm the clever~0D~Popo. I'll use~0D~the Map to make~A0~~18~~0C~~A0~lots of money!~18~~00~#065
-;000003C2{We have seven~0D~towns on this~0D~planet.~18~~00~}#049#037
-We have seven~0D~towns on this~0D~planet.~18~~00~#037
-;000003E7{Popo's teacher~0D~lives in the~0D~mountains.~18~~00~}#052#040
-Popo's teacher~0D~lives in the~0D~mountains.~18~~00~#040
-|1039
-@00032E53-0003319C-00
-;00000000{Popo's Map has~0D~been stolen!~18~~00~}#038#029
-Popo's Map has~0D~been stolen!~18~~00~#029
-;0000001D{Our village is~0D~very poor now.~18~~00~}#040#031
-Our village is~0D~very poor now.~18~~00~#031
-;0000003C{We are fishermen~0D~without boats!~18~~00~}#042#033
-We are fishermen~0D~without boats!~18~~00~#033
-;0000005D{You wish to buy~0D~some Ouzo? Hmm~A0~~18~~00~}#045#033
-You wish to buy~0D~some Ouzo? Hmm~A0~~18~~00~#033
-;0000007E{Have you seen my~0D~husband?~18~~00~}#036#027
-Have you seen my~0D~husband?~18~~00~#027
-;00000099{At night, I hear~0D~a dreadful voice~0D~across the lake.~18~~00~}#064#052
-At night, I hear~0D~a dreadful voice~0D~across the lake.~18~~00~#052
-;000000CD{Our special local~0D~liqueur is Ouzo,~0D~like licorice!~18~~00~}#063#051
-Our special local~0D~liqueur is Ouzo,~0D~like licorice!~18~~00~#051
-;00000100{Wah! The monsters~0D~sank our boats!~18~~00~}#044#035
-Wah! The monsters~0D~sank our boats!~18~~00~#035
-;00000123{We're idle without~0D~our boats.~18~~00~}#040#031
-We're idle without~0D~our boats.~18~~00~#031
-;00000142{The lousy bandits~0D~destroyed our~18~~0C~bridge!~18~~00~}#057#042
-The lousy bandits~0D~destroyed our~18~~0C~bridge!~18~~00~#042
-;0000016C{My daughter got~0D~stranded on the~18~~0C~other side!~18~~00~}#061#046
-My daughter got~0D~stranded on the~18~~0C~other side!~18~~00~#046
-;0000019A{Try a Tarrytown~0D~jelly donut!~18~~00~}#039#030
-Try a Tarrytown~0D~jelly donut!~18~~00~#030
-;000001B8{Those northern~0D~bandits are a~18~~0C~bloody lot!~18~~00~}#058#043
-Those northern~0D~bandits are a~18~~0C~bloody lot!~18~~00~#043
-;000001E3{Search all of the~0D~old mines in the~18~~0C~north, thoroughly.~18~~00~}#071#056
-Search all of the~0D~old mines in the~18~~0C~north, thoroughly.~18~~00~#056
-;0000021B{My daughter came~0D~home safely!~18~~00~}#040#031
-My daughter came~0D~home safely!~18~~00~#031
-;0000023A{Have a donut!~18~~00~}#021#015
-Have a donut!~18~~00~#015
-;00000249{The sluice is~0D~upstream a bit.~18~~00~}#040#031
-The sluice is~0D~upstream a bit.~18~~00~#031
-;00000268{The Lost Forest~0D~is south of~0D~Mizurin Hill.~18~~00~}#055#043
-The Lost Forest~0D~is south of~0D~Mizurin Hill.~18~~00~#043
-;00000293{Dirk has the~0D~gatehouse key.~18~~00~}#038#029
-Dirk has the~0D~gatehouse key.~18~~00~#029
-;000002B0{No one has ever~0D~returned from~0D~the Lost Forest.~18~~00~}#060#048
-No one has ever~0D~returned from~0D~the Lost Forest.~18~~00~#048
-;000002E0{Did you open~0D~the sluice?~18~~00~}#035#026
-Did you open~0D~the sluice?~18~~00~#026
-;000002FA{Wow! You people~0D~are amazing!~18~~00~}#039#030
-Wow! You people~0D~are amazing!~18~~00~#030
-;00000318{Please stay in~0D~our town!~18~~00~}#035#026
-Please stay in~0D~our town!~18~~00~#026
-;00000332{Are you Alis?~18~~00~}#021#015
-Are you Alis?~18~~00~#015
-;00000341{Aaargh~A0~!~18~}#015#009
-Aaargh~A0~!~18~#009
-|842
-@0003319E-000335A9-00
-;00000000{I thought you~0D~were bandits!~18~~00~}#038#029
-I thought you~0D~were bandits!~18~~00~#029
-;0000001D{Watch out for~0D~bandits in the~18~~0C~north!~18~~00~}#053#038
-Watch out for~0D~bandits in the~18~~0C~north!~18~~00~#038
-;00000043{I will build~18~~0C~the bridge much~0D~stronger.~18~~00~}#056#041
-I will build~18~~0C~the bridge much~0D~stronger.~18~~00~#041
-;0000006C{Our specialty~0D~is pastries!~18~~00~}#037#028
-Our specialty~0D~is pastries!~18~~00~#028
-;00000088{Thanks, Alec~A0~~0D~You're the MAN!!~18~~00~}#044#032
-Thanks, Alec~A0~~0D~You're the MAN!!~18~~00~#032
-;000000A8{You're ALL~0D~heroes!~18~~00~}#029#020
-You're ALL~0D~heroes!~18~~00~#020
-;000000BC{What? Daedalus was~0D~on our side all~18~~0C~the time!?~18~~00~}#063#048
-What? Daedalus was~0D~on our side all~18~~0C~the time!?~18~~00~#048
-;000000EC{Oh, Mina! You~0D~were amazing!~18~~00~}#038#029
-Oh, Mina! You~0D~were amazing!~18~~00~#029
-;00000109{Did Alis come~0D~from this town?~18~~00~}#040#031
-Did Alis come~0D~from this town?~18~~00~#031
-;00000128{Don't stray too~0D~far away~A0~ Bandits~0D~are afoot.~18~~00~}#061#046
-Don't stray too~0D~far away~A0~ Bandits~0D~are afoot.~18~~00~#046
-;00000156{Alis is our idol!~18~~00~}#025#019
-Alis is our idol!~18~~00~#019
-;00000169{There's a lake~0D~across the river~A0~~0D~very mysterious!~18~~00~}#066#051
-There's a lake~0D~across the river~A0~~0D~very mysterious!~18~~00~#051
-;0000019C{The mines were~0D~once rich in~0D~Laconia ore.~18~~00~}#054#042
-The mines were~0D~once rich in~0D~Laconia ore.~18~~00~#042
-;000001C6{It's been fairly~0D~quiet around here~0D~recently.~18~~00~}#058#046
-It's been fairly~0D~quiet around here~0D~recently.~18~~00~#046
-;000001F4{Why is the sky~0D~so blue these~0D~days?~18~~00~}#048#036
-Why is the sky~0D~so blue these~0D~days?~18~~00~#036
-;00000218{Buy~00~}#007#004
-Buy~00~#004
-;0000021C{Sell~00~}#008#005
-Sell~00~#005
-;00000221{End~00~}#007#004
-End~00~#004
-;00000225{Yes~00~}#007#004
-Yes~00~#004
-;00000229{End~00~}#007#004
-End~00~#004
-;0000022D{Meseta~00~}#010#007
-Meseta~00~#007
-;00000234{Not enough money.~18~~0C~~00~}#029#020
-Not enough money.~18~~0C~~00~#020
-;00000248{My pleasure!~18~~0C~~00~}#024#015
-My pleasure!~18~~0C~~00~#015
-;00000257{May I help you?~18~~0C~~00~}#027#018
-May I help you?~18~~0C~~00~#018
-;00000269{Anything else?~00~}#018#015
-Anything else?~00~#015
-;00000278{Thanks!~18~~0C~~00~}#019#010
-Thanks!~18~~0C~~00~#010
-;00000282{~0D~Not enough money.~18~~0C~~00~}#033#021
-~0D~Not enough money.~18~~0C~~00~#021
-;00000297{Come Again!~18~~0C~~00~}#023#014
-Come Again!~18~~0C~~00~#014
-;000002A5{ is for~0D~level ~00~}#021#015
- is for~0D~level ~00~#015
-;000002B4{, Still~0D~want it?~00~}#023#017
-, Still~0D~want it?~00~#017
-;000002C5{~00~}#004#001
-~00~#001
-;000002C6{~00~}#004#001
-~00~#001
-;000002C7{~00~}#004#001
-~00~#001
-;000002C8{We don't deal~0D~in that item.~0D~~00~}#038#029
-We don't deal~0D~in that item.~0D~~00~#029
-;000002E5{You have nothing.~00~}#021#018
-You have nothing.~00~#018
-;000002F7{~00~}#004#001
-~00~#001
-;000002F8{~00~}#004#001
-~00~#001
-;000002F9{~00~}#004#001
-~00~#001
-;000002FA{Who will use it?~00~}#020#017
-Who will use it?~00~#017
-;0000030B{That person~0D~has it already.~0D~~00~}#038#029
-That person~0D~has it already.~0D~~00~#029
-;00000328{ is for~0D~level ~00~}#021#015
- is for~0D~level ~00~#015
-;00000337{, Still~0D~want it?~00~}#023#017
-, Still~0D~want it?~00~#017
-;00000348{Who will sell~0D~a spell?~00~}#029#023
-Who will sell~0D~a spell?~00~#023
-;0000035F{That person has~0D~no spells.~00~}#033#027
-That person has~0D~no spells.~00~#027
-;0000037A{Are you conscious~0D~now?~18~~0C~~00~}#037#025
-Are you conscious~0D~now?~18~~0C~~00~#025
-;00000393{God is watching~0D~over you.~0D~May I help?~00~}#047#038
-God is watching~0D~over you.~0D~May I help?~00~#038
-;000003B9{~00~}#004#001
-~00~#001
-;000003BA{God be with you.~18~~00~}#024#018
-God be with you.~18~~00~#018
-;000003CC{Pray~00~}#008#005
-Pray~00~#005
-;000003D1{Save~00~}#008#005
-Save~00~#005
-;000003D6{Exit~00~}#008#005
-Exit~00~#005
-;000003DB{ is~0D~re-animated!~18~~0C~~00~}#031#019
- is~0D~re-animated!~18~~0C~~00~#019
-;000003EE{But no one needs~0D~a miracle.~18~~0C~~00~}#042#030
-But no one needs~0D~a miracle.~18~~0C~~00~#030
-|1036
-@000335AA-000336EA-00
-;00000000{Choose a slot~0D~to save.~00~}#029#023
-Choose a slot~0D~to save.~00~#023
-;00000017{Recorded!~18~~0C~~00~}#021#012
-Recorded!~18~~0C~~00~#012
-;00000023{Sav1~00~}#008#005
-Sav1~00~#005
-;00000028{Sav2~00~}#008#005
-Sav2~00~#005
-;0000002D{Sav3~00~}#008#005
-Sav3~00~#005
-;00000032{~00~}#004#001
-~00~#001
-;00000033{For two people,~0D~~00~}#023#017
-For two people,~0D~~00~#017
-;00000044{For three people,~0D~~00~}#025#019
-For three people,~0D~~00~#019
-;00000057{ meseta to~0D~stay, is that OK?~00~}#035#029
- meseta to~0D~stay, is that OK?~00~#029
-;00000074{~00~}#004#001
-~00~#001
-;00000075{Stay~00~}#008#005
-Stay~00~#005
-;0000007A{~0C~Rest well!~18~~00~}#022#013
-~0C~Rest well!~18~~00~#013
-;00000087{~0C~Have a safe~0D~journey!~18~~0C~~00~}#039#024
-~0C~Have a safe~0D~journey!~18~~0C~~00~#024
-;0000009F{Atk~00~}#007#004
-Atk~00~#004
-;000000A3{Mag~00~}#007#004
-Mag~00~#004
-;000000A7{Def~00~}#007#004
-Def~00~#004
-;000000AB{Run~00~}#007#004
-Run~00~#004
-;000000AF{Item~00~}#008#005
-Item~00~#005
-;000000B4{the party~00~}#013#010
-the party~00~#010
-;000000BE{Mina~00~}#008#005
-Mina~00~#005
-;000000C3{Alec~00~}#008#005
-Alec~00~#005
-;000000C8{Dirk~00~}#008#005
-Dirk~00~#005
-;000000CD{Lars~00~}#008#005
-Lars~00~#005
-;000000D2{Alis~00~}#008#005
-Alis~00~#005
-;000000D7{Monsters~00~}#012#009
-Monsters~00~#009
-;000000E0{ with~A0~~18~~0D~~00~}#021#009
- with~A0~~18~~0D~~00~#009
-;000000E9{Mina~00~}#008#005
-Mina~00~#005
-;000000EE{Alec~00~}#008#005
-Alec~00~#005
-;000000F3{Dirk~00~}#008#005
-Dirk~00~#005
-;000000F8{Lars~00~}#008#005
-Lars~00~#005
-;000000FD{Alis~00~}#008#005
-Alis~00~#005
-;00000102{HP:~00~}#007#004
-HP:~00~#004
-;00000106{MP:~00~}#007#004
-MP:~00~#004
-;0000010A{ found!~00~}#011#008
- found!~00~#008
-;00000112{'s ~00~}#007#004
-'s ~00~#004
-;00000116{ took~0D~~00~}#013#007
- took~0D~~00~#007
-;0000011D{ and~0D~~00~}#012#006
- and~0D~~00~#006
-;00000123{ zapped~0D~~00~}#015#009
- zapped~0D~~00~#009
-;0000012C{ used~0D~~00~}#013#007
- used~0D~~00~#007
-;00000133{~0D~drew near.~00~}#018#012
-~0D~drew near.~00~#012
-;0000013F{ ~0D~}#005#002
- ~0D~#002
-|321
-@000336EB-00033738-00
-;00000000{attacked.~18~~0D~~00~}#021#012
-attacked.~18~~0D~~00~#012
-;0000000C{Attack where?~00~}#017#014
-Attack where?~00~#014
-;0000001A{ is~0D~attacked~18~~00~}#023#014
- is~0D~attacked~18~~00~#014
-;00000028{'s~0D~brain is warped.~18~~0D~~00~}#034#022
-'s~0D~brain is warped.~18~~0D~~00~#022
-;0000003E{ is~0D~attacked~18~~00~}#023#014
- is~0D~attacked~18~~00~#014
-;0000004C{.~00~}#005#002
-.~00~#002
-|78
-@00033739-00033782-00
-;00000000{Can't use.~00~}#014#011
-Can't use.~00~#011
-;0000000B{Not here.~00~}#013#010
-Not here.~00~#010
-;00000015{MP too low.~00~}#015#012
-MP too low.~00~#012
-;00000021{Level too low.~00~}#018#015
-Level too low.~00~#015
-;00000030{Spells can be~0D~used now.~00~}#030#024
-Spells can be~0D~used now.~00~#024
-;00000048{.~18~}#005#002
-.~18~#002
-|74
-@00033784-0003379A-00
-;00000000{Can't use.~00~}#014#011
-Can't use.~00~#011
-;0000000B{Not here.~00~}#013#010
-Not here.~00~#010
-;00000015{ ~0D~}#005#002
- ~0D~#002
-|23
-@0003379B-000337A6-00
-;00000000{defended.~00~}#013#010
-defended.~00~#010
-;0000000A{ ~0D~}#005#002
- ~0D~#002
+@00001924-00001935-FF
+;00001924{{el}~7C~~03~~03~[{pi}~F1~{ta}{rt}~C1~BP~7E~~23~~B7~(A~FE~}#057#018
+{el}~7C~~03~~03~[{pi}~F1~{ta}{rt}~C1~BP~7E~~23~~B7~(A~FE~#018
+|18
+@00001977-00001982-FF
+;00001977{{ta}{rt}~C1~{ie}~C5~{ha}~F5~{el}~B5~~19~!~A6~}#045#012
+{ta}{rt}~C1~{ie}~C5~{ha}~F5~{el}~B5~~19~!~A6~#012
 |12
-@000337A7-000337C0-00
-;00000000{ran away!~00~}#013#010
-ran away!~00~#010
-;0000000A{Can't Escape!~00~}#017#014
-Can't Escape!~00~#014
-;00000018{ ~0D~}#005#002
- ~0D~#002
-|26
-@000337C1-000337F6-00
-;00000000{ran away!~00~}#013#010
-ran away!~00~#010
-;0000000A{Can't run!~00~}#014#011
-Can't run!~00~#011
-;00000015{Hogman: Sorry!~18~~00~}#022#016
-Hogman: Sorry!~18~~00~#016
-;00000025{Hogman split!~18~~00~}#021#015
-Hogman split!~18~~00~#015
-;00000034{ ~0D~}#005#002
- ~0D~#002
-|54
-@000337F7-00033904-00
-;00000000{increased ~00~}#014#011
-increased ~00~#011
-;0000000B{~00~}#004#001
-~00~#001
-;0000000C{ HP.~18~~00~}#012#006
- HP.~18~~00~#006
-;00000012{'s HP did~0D~not go up.~18~~00~}#031#022
-'s HP did~0D~not go up.~18~~00~#022
-;00000028{'s~0D~spells are muted!~00~}#027#021
-'s~0D~spells are muted!~00~#021
-;0000003D{'s~0D~strength is down.~00~}#027#021
-'s~0D~strength is down.~00~#021
-;00000052{'s brain~0D~is warped.~00~}#026#020
-'s brain~0D~is warped.~00~#020
-;00000066{'s brain is~0D~NOT warped.~00~}#030#024
-'s brain is~0D~NOT warped.~00~#024
-;0000007E{'s strength~0D~increased.~00~}#029#023
-'s strength~0D~increased.~00~#023
-;00000095{'s strength~0D~doubled!~18~~00~}#031#022
-'s strength~0D~doubled!~18~~00~#022
-;000000AB{but it was~0D~fatal!~00~}#024#018
-but it was~0D~fatal!~00~#018
-;000000BD{'s HP is~0D~full!~00~}#021#015
-'s HP is~0D~full!~00~#015
-;000000CC{ HP.~0D~to everyone.~18~~00~}#028#019
- HP.~0D~to everyone.~18~~00~#019
-;000000DF{ MP.~18~~00~}#012#006
- MP.~18~~00~#006
-;000000E5{'s speed~0D~went up.~18~~00~}#028#019
-'s speed~0D~went up.~18~~00~#019
-;000000F8{~00~}#004#001
-~00~#001
-;000000F9{~00~}#004#001
-~00~#001
-;000000FA{ damage.~18~~00~}#016#010
- damage.~18~~00~#010
-;00000104{Missed!~00~}#011#008
-Missed!~00~#008
-;0000010C{ ~0D~}#005#002
- ~0D~#002
-|270
-@00033905-00033A3D-00
-;00000000{was defeated!~00~}#017#014
-was defeated!~00~#014
-;0000000E{ took~0D~flight!~00~}#020#014
- took~0D~flight!~00~#014
-;0000001C{ has~0D~died!~00~}#017#011
- has~0D~died!~00~#011
-;00000027{ is~0D~dead~A0~~00~}#019#010
- is~0D~dead~A0~~00~#010
-;00000031{ was~0D~revived!~00~}#020#014
- was~0D~revived!~00~#014
-;0000003F{ is NOT~0D~dead!~00~}#020#014
- is NOT~0D~dead!~00~#014
-;0000004D{'s time~0D~is frozen.~00~}#025#019
-'s time~0D~is frozen.~00~#019
-;00000060{'s time~0D~is frozen.~00~}#025#019
-'s time~0D~is frozen.~00~#019
-;00000073{ is stunned!~00~}#016#013
- is stunned!~00~#013
-;00000080{ is still~0D~stunned~A0~~00~}#028#019
- is still~0D~stunned~A0~~00~#019
-;00000093{ is NOT~0D~stunned.~00~}#023#017
- is NOT~0D~stunned.~00~#017
-;000000A4{ is NOT~0D~stunned.~00~}#023#017
- is NOT~0D~stunned.~00~#017
-;000000B5{ is~0D~frozen!~00~}#018#012
- is~0D~frozen!~00~#012
-;000000C1{ is~0D~frozen!~00~}#018#012
- is~0D~frozen!~00~#012
-;000000CD{ is NOT~0D~frozen.~00~}#022#016
- is NOT~0D~frozen.~00~#016
-;000000DD{ is~0D~frozen!~00~}#018#012
- is~0D~frozen!~00~#012
-;000000E9{ Meseta~0D~earned.~00~}#022#016
- Meseta~0D~earned.~00~#016
-;000000F9{ EXP.~18~~00~}#013#007
- EXP.~18~~00~#007
-;00000100{'s Level~0D~increased!~18~~00~}#030#021
-'s Level~0D~increased!~18~~00~#021
-;00000115{ found.~00~}#011#008
- found.~00~#008
-;0000011D{Cablon:  Aarrgg~A0~~0D~Wha~A0~? No~A0~!~0D~}#043#028
-Cablon:  Aarrgg~A0~~0D~Wha~A0~? No~A0~!~0D~#028
-|313
-@00033A3E-00033B4F-00
-;00000000{Not like this~A0~~18~~0C~Hah! Sucker!!~18~~0C~~00~}#050#032
-Not like this~A0~~18~~0C~Hah! Sucker!!~18~~0C~~00~#032
-;00000020{Cablon's HP~0D~is full again!~18~~00~}#037#028
-Cablon's HP~0D~is full again!~18~~00~#028
-;0000003C{Cablon ~A0~~A0~~18~~00~}#023#011
-Cablon ~A0~~A0~~18~~00~#011
-;00000047{Ah, the Bracelet~0D~of Kura~A0~ Hmmm~A0~~18~~00~}#048#033
-Ah, the Bracelet~0D~of Kura~A0~ Hmmm~A0~~18~~00~#033
-;00000068{~00~}#004#001
-~00~#001
-;00000069{Heal~00~}#008#005
-Heal~00~#005
-;0000006E{Quinine~00~}#011#008
-Quinine~00~#008
-;00000076{Flaeli~00~}#010#007
-Flaeli~00~#007
-;0000007D{Relocate~00~}#012#009
-Relocate~00~#009
-;00000086{Rope~00~}#008#005
-Rope~00~#005
-;0000008B{Protect~00~}#011#008
-Protect~00~#008
-;00000093{Terror~00~}#010#007
-Terror~00~#007
-;0000009A{MindWarp~00~}#012#009
-MindWarp~00~#009
-;000000A3{Hewn~00~}#008#005
-Hewn~00~#005
-;000000A8{Leave~00~}#009#006
-Leave~00~#006
-;000000AE{Bi-heal~00~}#011#008
-Bi-heal~00~#008
-;000000B6{DejaVu~00~}#010#007
-DejaVu~00~#007
-;000000BD{Mobile~00~}#010#007
-Mobile~00~#007
-;000000C4{Power~00~}#009#006
-Power~00~#006
-;000000CA{Tandle~00~}#010#007
-Tandle~00~#007
-;000000D1{Martyr~00~}#010#007
-Martyr~00~#007
-;000000D8{Medice~00~}#010#007
-Medice~00~#007
-;000000DF{Repel~00~}#009#006
-Repel~00~#006
-;000000E5{Bash~00~}#008#005
-Bash~00~#005
-;000000EA{Time~00~}#008#005
-Time~00~#005
-;000000EF{MegaHeal~00~}#012#009
-MegaHeal~00~#009
-;000000F8{Adol~00~}#008#005
-Adol~00~#005
-;000000FD{Miracle~00~}#011#008
-Miracle~00~#008
-;00000105{Luminant~00~}#012#009
-Luminant~00~#009
-;0000010E{~00~}#004#001
-~00~#001
-;0000010F{~00~}#004#001
-~00~#001
-;00000110{~00~}#004#001
-~00~#001
-;00000111{~00~}#004#001
-~00~#001
-|274
-@00033B53-00033BD6-00
-;00000000{Wood~00~}#008#005
-Wood~00~#005
-;00000005{~A1~Short~00~}#013#007
-~A1~Short~00~#007
-;0000000C{~A1~Iron~00~}#012#006
-~A1~Iron~00~#006
-;00000012{~A3~Psycho~00~}#014#008
-~A3~Psycho~00~#008
-;0000001A{~A1~Silver~00~}#014#008
-~A1~Silver~00~#008
-;00000022{~A4~Iron~00~}#012#006
-~A4~Iron~00~#006
-;00000028{~A1~Titanium~00~}#016#010
-~A1~Titanium~00~#010
-;00000032{~A1~Ceramic~00~}#015#009
-~A1~Ceramic~00~#009
-;0000003B{~A5~Stun~00~}#012#006
-~A5~Stun~00~#006
-;00000041{~A6~Heat~00~}#012#006
-~A6~Heat~00~#006
-;00000047{~A6~Laser~00~}#013#007
-~A6~Laser~00~#007
-;0000004E{~A1~Bastard~00~}#015#009
-~A1~Bastard~00~#009
-;00000057{~AC~Rapier~00~}#014#008
-~AC~Rapier~00~#008
-;0000005F{~AC~Slasher~00~}#015#009
-~AC~Slasher~00~#009
-;00000068{~A4~Pole~00~}#012#006
-~A4~Pole~00~#006
-;0000006E{~A4~Battle~00~}#014#008
-~A4~Battle~00~#008
-;00000076{~A1~Laconian~00~}#016#010
-~A1~Laconian~00~#010
-;00000080{~00~}#004#001
-~00~#001
-;00000081{~00~}#004#001
-~00~#001
-;00000082{~00~}#004#001
-~00~#001
-;00000083{~A8~}#004#001
-~A8~#001
-|132
-@00033BD7-00033C37-00
-;00000000{Leather~00~}#011#008
-Leather~00~#008
-;00000008{~A9~White~00~}#013#007
-~A9~White~00~#007
-;0000000F{~A8~Light~00~}#013#007
-~A8~Light~00~#007
-;00000016{~A8~Iron~00~}#012#006
-~A8~Iron~00~#006
-;0000001C{~A9~Wind~00~}#012#006
-~A9~Wind~00~#006
-;00000022{~A8~Reflect~00~}#015#009
-~A8~Reflect~00~#009
-;0000002B{~A9~Magic~00~}#013#007
-~A9~Magic~00~#007
-;00000032{~A8~Draconia~00~}#016#010
-~A8~Draconia~00~#010
-;0000003C{~A9~Royal~00~}#013#007
-~A9~Royal~00~#007
-;00000043{~A8~Diamond~00~}#015#009
-~A8~Diamond~00~#009
-;0000004C{~A9~Frade~00~}#013#007
-~A9~Frade~00~#007
-;00000053{~A8~Laconian~00~}#016#010
-~A8~Laconian~00~#010
-;0000005D{~00~}#004#001
-~00~#001
-;0000005E{~00~}#004#001
-~00~#001
-;0000005F{~00~}#004#001
-~00~#001
-;00000060{~00~}#004#001
-~00~#001
-|97
-@00033C3D-00033C71-00
-;00000000{Leather~00~}#011#008
-Leather~00~#008
-;00000008{~AA~Iron~00~}#012#006
-~AA~Iron~00~#006
-;0000000E{~AA~Ceramic~00~}#015#009
-~AA~Ceramic~00~#009
-;00000017{~AA~Perseus~00~}#015#009
-~AA~Perseus~00~#009
-;00000020{~AA~Laser~00~}#013#007
-~AA~Laser~00~#007
-;00000027{~AA~Laconian~00~}#016#010
-~AA~Laconian~00~#010
-;00000031{~00~}#004#001
-~00~#001
-;00000032{~00~}#004#001
-~00~#001
-;00000033{~00~}#004#001
-~00~#001
-;00000034{~00~}#004#001
-~00~#001
-|53
-@00033C73-00033D46-00
-;00000000{Monomate~00~}#012#009
-Monomate~00~#009
-;00000009{~AB~Dimate~00~}#014#008
-~AB~Dimate~00~#008
-;00000011{~AB~Torch~00~}#013#007
-~AB~Torch~00~#007
-;00000018{~B0~Escapipe~00~}#016#010
-~B0~Escapipe~00~#010
-;00000022{~AB~Raise~00~}#013#007
-~AB~Raise~00~#007
-;00000029{~AB~Trimate~00~}#015#009
-~AB~Trimate~00~#009
-;00000032{~AB~Cure~00~}#012#006
-~AB~Cure~00~#006
-;00000038{~AE~Laser~00~}#013#007
-~AE~Laser~00~#007
-;0000003F{~AB~Sage~00~}#012#006
-~AB~Sage~00~#006
-;00000045{~B5~Spirit~00~}#014#008
-~B5~Spirit~00~#008
-;0000004D{~AE~Patriot~00~}#015#009
-~AE~Patriot~00~#009
-;00000056{~B7~Jet~00~}#011#005
-~B7~Jet~00~#005
-;0000005B{~B0~Call~00~}#012#006
-~B0~Call~00~#006
-;00000061{~AB~Needle~00~}#014#008
-~AB~Needle~00~#008
-;00000069{~AB~Bait~00~}#012#006
-~AB~Bait~00~#006
-;0000006F{~B1~Flash~00~}#013#007
-~B1~Flash~00~#007
-;00000076{~B1~Typhoon~00~}#015#009
-~B1~Typhoon~00~#009
-;0000007F{~AB~Ouzo~00~}#012#006
-~AB~Ouzo~00~#006
-;00000085{~AB~Policy~00~}#014#008
-~AB~Policy~00~#008
-;0000008D{~AB~Net~00~}#011#005
-~AB~Net~00~#005
-;00000092{~B6~Wisdom~00~}#014#008
-~B6~Wisdom~00~#008
-;0000009A{~B5~Light~00~}#013#007
-~B5~Light~00~#007
-;000000A1{~B0~Telepipe~00~}#016#010
-~B0~Telepipe~00~#010
-;000000AB{~B2~Truth~00~}#013#007
-~B2~Truth~00~#007
-;000000B2{~B2~Map~00~}#011#005
-~B2~Map~00~#005
-;000000B7{~B3~Cave~00~}#012#006
-~B3~Cave~00~#006
-;000000BD{~AF~ATV~00~}#011#005
-~AF~ATV~00~#005
-;000000C2{~B3~Sluice~00~}#014#008
-~B3~Sluice~00~#008
-;000000CA{~B4~Kura~00~}#012#006
-~B4~Kura~00~#006
-;000000D0{~00~}#004#001
-~00~#001
-;000000D1{~00~}#004#001
-~00~#001
-;000000D2{~00~}#004#001
-~00~#001
-;000000D3{~00~}#004#001
-~00~#001
-|212
-@00033D4E-00033D74-00
-;00000000{Inspiration~00~}#015#012
-Inspiration~00~#012
-;0000000C{Crystal Ball~00~}#016#013
-Crystal Ball~00~#013
-;00000019{Tarot Cards~00~}#015#012
-Tarot Cards~00~#012
-;00000025{ ~00~}#005#002
- ~00~#002
-|39
-@00033D75-00033DE8-00
-;00000000{Mina~00~}#008#005
-Mina~00~#005
-;00000005{Alec~00~}#008#005
-Alec~00~#005
-;0000000A{Dirk~00~}#008#005
-Dirk~00~#005
-;0000000F{Lars~00~}#008#005
-Lars~00~#005
-;00000014{Alis~00~}#008#005
-Alis~00~#005
-;00000019{End~00~}#007#004
-End~00~#004
-;0000001D{~00~}#004#001
-~00~#001
-;0000001E{~00~}#004#001
-~00~#001
-;0000001F{~00~}#004#001
-~00~#001
-;00000020{Status~00~}#010#007
-Status~00~#007
-;00000027{Item~00~}#008#005
-Item~00~#005
-;0000002C{Magic~00~}#009#006
-Magic~00~#006
-;00000032{Equip~00~}#009#006
-Equip~00~#006
-;00000038{Order~00~}#009#006
-Order~00~#006
-;0000003E{Speed~00~}#009#006
-Speed~00~#006
-;00000044{End~00~}#007#004
-End~00~#004
-;00000048{Spd~00~}#007#004
-Spd~00~#004
-;0000004C{Eqp~0D~~0D~End~00~}#018#009
-Eqp~0D~~0D~End~00~#009
-;00000055{Use~0D~~0D~End~00~}#018#009
-Use~0D~~0D~End~00~#009
-;0000005E{LEVEL~00~}#009#006
-LEVEL~00~#006
-;00000064{EXP~00~}#007#004
-EXP~00~#004
-;00000068{MST~00~}#007#004
-MST~00~#004
-;0000006C{HP~00~}#006#003
-HP~00~#003
-;0000006F{MP~00~}#006#003
-MP~00~#003
-;00000072{/~00~}#005#002
-/~00~#002
-|116
-@00033DE9-00033EF5-00
-;00000000{STR~00~}#007#004
-STR~00~#004
-;00000004{INT~00~}#007#004
-INT~00~#004
-;00000008{AGL~00~}#007#004
-AGL~00~#004
-;0000000C{PRT~00~}#007#004
-PRT~00~#004
-;00000010{WEAPON ~00~}#011#008
-WEAPON ~00~#008
-;00000018{ ARMOR ~00~}#011#008
- ARMOR ~00~#008
-;00000020{SHIELD ~00~}#011#008
-SHIELD ~00~#008
-;00000028{~00~}#004#001
-~00~#001
-;00000029{'s HP went~18~~0C~up by ~00~}#028#019
-'s HP went~18~~0C~up by ~00~#019
-;0000003C{'s MP went~18~~0C~up by ~00~}#028#019
-'s MP went~18~~0C~up by ~00~#019
-;0000004F{ points.~18~~00~}#016#010
- points.~18~~00~#010
-;00000059{Level too low.~18~~00~}#022#016
-Level too low.~18~~00~#016
-;00000069{MP too low.~18~~00~}#019#013
-MP too low.~18~~00~#013
-;00000076{The door opened.~18~~00~}#024#018
-The door opened.~18~~00~#018
-;00000088{ is dead!~00~}#013#010
- is dead!~00~#010
-;00000092{ is dead!~18~~00~}#017#011
- is dead!~18~~00~#011
-;0000009D{ is NOT~18~~0C~dead!~18~~00~}#028#016
- is NOT~18~~0C~dead!~18~~00~#016
-;000000AD{ has been~18~~0C~revived!~18~~00~}#033#021
- has been~18~~0C~revived!~18~~00~#021
-;000000C2{~00~}#004#001
-~00~#001
-;000000C3{ is stunned!~00~}#016#013
- is stunned!~00~#013
-;000000D0{ is stunned!~18~~00~}#020#014
- is stunned!~18~~00~#014
-;000000DE{ is NOT~18~~0C~stunned!~18~~00~}#031#019
- is NOT~18~~0C~stunned!~18~~00~#019
-;000000F1{ has been~18~~0C~reenergized!~18~~00~}#037#025
- has been~18~~0C~reenergized!~18~~00~#025
-;0000010A{~00~}#004#001
-~00~#001
-;0000010B{~18~~0C~}#008#002
-~18~~0C~#002
-|269
-@00033EF6-00033FC3-00
-;00000000{equipped.~18~~00~}#017#011
-equipped.~18~~00~#011
-;0000000B{ works~0D~by carrying it!~18~~00~}#033#024
- works~0D~by carrying it!~18~~00~#024
-;00000023{Can't be used!~18~~00~}#022#016
-Can't be used!~18~~00~#016
-;00000033{Not here!~18~~00~}#017#011
-Not here!~18~~00~#011
-;0000003E{Not now!~18~~00~}#016#010
-Not now!~18~~00~#010
-;00000048{ doesn't~18~~0C~know spells!~18~~00~}#036#024
- doesn't~18~~0C~know spells!~18~~00~#024
-;00000060{Can't be used!~18~~00~}#022#016
-Can't be used!~18~~00~#016
-;00000070{Not here!~18~~00~}#017#011
-Not here!~18~~00~#011
-;0000007B{Not now!~18~~00~}#016#010
-Not now!~18~~00~#010
-;00000085{~00~}#004#001
-~00~#001
-;00000086{The writing makes~0D~no sense!~18~~00~}#038#029
-The writing makes~0D~no sense!~18~~00~#029
-;000000A3{ is NOT~18~~0C~equipped.~18~~00~}#032#020
- is NOT~18~~0C~equipped.~18~~00~#020
-;000000B7{Next level ~00~}#015#012
-Next level ~00~#012
-;000000C3{Rem~0D~~0D~End~00~}#018#009
-Rem~0D~~0D~End~00~#009
-;000000CC{d~00~}#005#002
-d~00~#002
-|206
-@00033FC6-00033FED-00
-;00000000{Next level ~00~}#015#012
-Next level ~00~#012
-;0000000C{Rem~0D~~0D~End~00~}#018#009
-Rem~0D~~0D~End~00~#009
-;00000015{evel ~00~}#009#006
-evel ~00~#006
-;0000001B{Rem~0D~~0D~End~00~}#018#009
-Rem~0D~~0D~End~00~#009
-;00000024{~00~}#004#001
-~00~#001
-;00000025{~00~}#004#001
-~00~#001
-;00000026{~00~}#004#001
-~00~#001
-;00000027{~00~}#004#001
-~00~#001
+@00001A33-00001A4A-FF
+;00001A33{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~16~\YH~06~~14~{ia}{el}~B9~~04~{el}~F0~~19~~14~~10~~F7~}#087#024
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~16~\YH~06~~14~{ia}{el}~B9~~04~{el}~F0~~19~~14~~10~~F7~#024
+|24
+@00001A51-00001A5B-FF
+;00001A51{{ta}{rt}~C1~{ie}{ia}{ha}~F5~~11~~A6~~C0~~7E~}#044#011
+{ta}{rt}~C1~{ie}{ia}{ha}~F5~~11~~A6~~C0~~7E~#011
+|11
+@00001A86-00001AAD-FF
+;00001A86{>12(~C0~:{lo}~C0~{al}~FE~2{Ca}~C1~{el}{pa}~1B~{el}~B8~~1B~~F1~{ta}{rt}~C1~{ie}2~8A~~C5~{ie}:~8A~~C5~{ie}~C5~{ia}{ha}~F5~~B7~(]~3D~}#130#040
+>12(~C0~:{lo}~C0~{al}~FE~2{Ca}~C1~{el}{pa}~1B~{el}~B8~~1B~~F1~{ta}{rt}~C1~{ie}2~8A~~C5~{ie}:~8A~~C5~{ie}~C5~{ia}{ha}~F5~~B7~(]~3D~#040
 |40
-@0003F298-0003F464-00
-;00000000{Slime~00~}#009#006
-Slime~00~#006
-;00000006{BigFly~00~}#010#007
-BigFly~00~#007
-;0000000D{Scorpius~00~}#012#009
-Scorpius~00~#009
-;00000016{RSlime~00~}#010#007
-RSlime~00~#007
-;0000001D{PSlime~00~}#010#007
-PSlime~00~#007
-;00000024{Scorpion~00~}#012#009
-Scorpion~00~#009
-;0000002D{Swarm~00~}#009#006
-Swarm~00~#006
-;00000033{Chila~00~}#009#006
-Chila~00~#006
-;00000039{Metajon~00~}#011#008
-Metajon~00~#008
-;00000041{Demon~00~}#009#006
-Demon~00~#006
-;00000047{GSlime~00~}#010#007
-GSlime~00~#007
-;0000004E{Metabil~00~}#011#008
-Metabil~00~#008
-;00000056{Goldlens~00~}#012#009
-Goldlens~00~#009
-;0000005F{Pua~00~}#007#004
-Pua~00~#004
-;00000063{Elephant~00~}#012#009
-Elephant~00~#009
-;0000006C{Helm~00~}#008#005
-Helm~00~#005
-;00000071{Vampire~00~}#011#008
-Vampire~00~#008
-;00000079{Weevil~00~}#010#007
-Weevil~00~#007
-;00000080{Annelid~00~}#011#008
-Annelid~00~#008
-;00000088{Wurm~00~}#008#005
-Wurm~00~#005
-;0000008D{Sandworm~00~}#012#009
-Sandworm~00~#009
-;00000096{Antlion~00~}#011#008
-Antlion~00~#008
-;0000009E{Talos~00~}#009#006
-Talos~00~#006
-;000000A4{Ammonite~00~}#012#009
-Ammonite~00~#009
-;000000AD{Dezorian~00~}#012#009
-Dezorian~00~#009
-;000000B6{BigSuke~00~}#011#008
-BigSuke~00~#008
-;000000BE{Hellion~00~}#011#008
-Hellion~00~#008
-;000000C6{Hulk~00~}#008#005
-Hulk~00~#005
-;000000CB{Serpent~00~}#011#008
-Serpent~00~#008
-;000000D3{EvilHead~00~}#012#009
-EvilHead~00~#009
-;000000DC{Manticor~00~}#012#009
-Manticor~00~#009
-;000000E5{Daemon~00~}#010#007
-Daemon~00~#007
-;000000EC{Climber~00~}#011#008
-Climber~00~#008
-;000000F4{Sphinx~00~}#010#007
-Sphinx~00~#007
-;000000FB{Mammoth~00~}#011#008
-Mammoth~00~#008
-;00000103{Armor~00~}#009#006
-Armor~00~#006
-;00000109{Dron~00~}#008#005
-Dron~00~#005
-;0000010E{Marauder~00~}#012#009
-Marauder~00~#009
-;00000117{GrDragon~00~}#012#009
-GrDragon~00~#009
-;00000120{Slayer~00~}#010#007
-Slayer~00~#007
-;00000127{Shadow~00~}#010#007
-Shadow~00~#007
-;0000012E{RDragon~00~}#011#008
-RDragon~00~#008
-;00000136{FrDragon~00~}#012#009
-FrDragon~00~#009
-;0000013F{WDragon~00~}#011#008
-WDragon~00~#008
-;00000147{Charmer~00~}#011#008
-Charmer~00~#008
-;0000014F{Lich~00~}#008#005
-Lich~00~#005
-;00000154{Crab~00~}#008#005
-Crab~00~#005
-;00000159{Tarantula~00~}#013#010
-Tarantula~00~#010
-;00000163{Devil~00~}#009#006
-Devil~00~#006
-;00000169{Cop~00~}#007#004
-Cop~00~#004
-;0000016D{RobotCop~00~}#012#009
-RobotCop~00~#009
-;00000176{Gorgon~00~}#010#007
-Gorgon~00~#007
-;0000017D{Medusa~00~}#010#007
-Medusa~00~#007
-;00000184{Skeleton~00~}#012#009
-Skeleton~00~#009
-;0000018D{Reaper~00~}#010#007
-Reaper~00~#007
-;00000194{Octopus~00~}#011#008
-Octopus~00~#008
-;0000019C{Hydra~00~}#009#006
-Hydra~00~#006
-;000001A2{QMedusa~00~}#011#008
-QMedusa~00~#008
-;000001AA{HogMan~00~}#010#007
-HogMan~00~#007
-;000001B1{Lao-tse~00~}#011#008
-Lao-tse~00~#008
-;000001B9{Daedalus~00~}#012#009
-Daedalus~00~#009
-;000001C2{Cablon~00~}#010#007
-Cablon~00~#007
-;000001C9{~00~}#004#001
-~00~#001
-;000001CA{~00~}#004#001
-~00~#001
-;000001CB{~08~~05~}#008#002
-~08~~05~#002
-|461
+@00001AF7-00001B0A-FF
+;00001AF7{{ta}{rt}~C1~{ie}~FE~ 0G!~06~~1B~{el}~D0~~23~{lo}~B4~~1B~~B4~~1B~~B4~}#068#020
+{ta}{rt}~C1~{ie}~FE~ 0G!~06~~1B~{el}~D0~~23~{lo}~B4~~1B~~B4~~1B~~B4~#020
+|20
+@00001C24-00001C6D-FF
+;00001C24{{ta}"{se}~C0~{ie}{el}~88~~1D~{ie}:{ha}~C0~W:{de}~C0~<2{de}~C0~~BA~{re}:{de}~C0~~B7~{ra}~AF~2{de}~C0~:{rc}~C0~{di}?W:{al}~C0~<2{al}~C0~~BA~{re}z~3D~2{al}~C0~{el}w~1C~{el}w~1C~*{se}~C0~{ha}!{je}~C0~~11~{se}~C0~~ED~K{rc}~C0~==~06~}#227#074
+{ta}"{se}~C0~{ie}{el}~88~~1D~{ie}:{ha}~C0~W:{de}~C0~<2{de}~C0~~BA~{re}:{de}~C0~~B7~{ra}~AF~2{de}~C0~:{rc}~C0~{di}?W:{al}~C0~<2{al}~C0~~BA~{re}z~3D~2{al}~C0~{el}w~1C~{el}w~1C~*{se}~C0~{ha}!{je}~C0~~11~{se}~C0~~ED~K{rc}~C0~==~06~#074
+|74
+@00001CC9-00001CD8-FF
+;00001CC9{{je}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:{ha}~C0~G!~FA~}#055#016
+{je}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:{ha}~C0~G!~FA~#016
+|16
+@00001CF1-00001D00-FF
+;00001CF1{{se}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:{ha}~C0~G!~04~}#055#016
+{se}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:{ha}~C0~G!~04~#016
+|16
+@00001D02-00001D2B-FF
+;00001D02{:{Ca}~C1~~B4~g{ha}{el}~B9~~04~~F3~{el}y~23~{ta}~7D~{pi}~BE~{di}F{di}F~7C~{pi}~BE~~FB~~14~~10~{lo}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~FD~{ha}~FD~!~A6~}#150#042
+:{Ca}~C1~~B4~g{ha}{el}~B9~~04~~F3~{el}y~23~{ta}~7D~{pi}~BE~{di}F{di}F~7C~{pi}~BE~~FB~~14~~10~{lo}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~FD~{ha}~FD~!~A6~#042
+|42
+@00001D4E-00001D58-FF
+;00001D4E{{ta}~F1~{ta}{rt}~C1~{ie}~F5~> +~23~}#035#011
+{ta}~F1~{ta}{rt}~C1~{ie}~F5~> +~23~#011
+|11
+@00001E24-00001E3C-FF
+;00001E24{{io}{el}~81~~1E~~06~~02~{el}¨~1E~~C1~= {di}~F1~{ta}{rt}~C1~{ie}~C5~{ha}~F5~~01~~0F~ ~C5~}#088#025
+{io}{el}~81~~1E~~06~~02~{el}¨~1E~~C1~= {di}~F1~{ta}{rt}~C1~{ie}~C5~{ha}~F5~~01~~0F~ ~C5~#025
+|25
+@00001E74-00001E8C-FF
+;00001E74{?\p~ED~~B0~{el}~81~~1E~~F1~{ta}{rt}~C1~{ie}~C5~{ha}~F5~{ca}~7E~~FE~{re}8~FA~![~C2~}#082#025
+?\p~ED~~B0~{el}~81~~1E~~F1~{ta}{rt}~C1~{ie}~C5~{ha}~F5~{ca}~7E~~FE~{re}8~FA~![~C2~#025
+|25
+@00001F47-00001F51-FF
+;00001F47{{el}~81~~1E~~F1~{ta}{rt}~C1~{ie}~60~¨~80~}#041#011
+{el}~81~~1E~~F1~{ta}{rt}~C1~{ie}~60~¨~80~#011
+|11
+@00001FD0-00001FD6-FF
+;00001FD0{{ta}{rt}~C1~{ie}~F5~:~5C~}#025#007
+{ta}{rt}~C1~{ie}~F5~:~5C~#007
+|7
+@00002000-00002010-FF
+;00002000{{pi}~BE~~FB~{ta}{rt}~C1~~F1~{ie}{el}y~23~~1A~~13~{pi}~BE~\~10~}#062#017
+{pi}~BE~~FB~{ta}{rt}~C1~~F1~{ie}{el}y~23~~1A~~13~{pi}~BE~\~10~#017
+|17
+@000020AC-000020B6-FF
+;000020AC{{ta}~F1~{ta}{rt}~C1~{tu}{ar}{ie}~AF~2~A5~}#041#011
+{ta}~F1~{ta}{rt}~C1~{tu}{ar}{ie}~AF~2~A5~#011
+|11
+@0000246B-00002487-FF
+;0000246B{{ta}{rt}~C1~~B7~{ie}>~FF~}#025#007
+{ta}{rt}~C1~~B7~{ie}>~FF~#007
+;00002472{{ta}{rt}~C1~7{ie}{ca}\~07~{ca}{ri}~17~~0F~~F6~~40~{ie}{el}w$~FE~~FF~}#068#020
+{ta}{rt}~C1~7{ie}{ca}\~07~{ca}{ri}~17~~0F~~F6~~40~{ie}{el}w$~FE~~FF~#020
+;00002486{(~F9~}#005#002
+(~F9~#002
+|29
+@000024F9-0000251D-FF
+;000024F9{{ta}{rt}~C1~{ie}~F5~~F3~{el}y~23~~7B~{pi}~BE~[\[\z{pi}~BE~~F1~~FB~{ie}~C5~{ia}W~01~\0{el}w$~F6~~40~~FE~~FF~}#107#035
+{ta}{rt}~C1~{ie}~F5~~F3~{el}y~23~~7B~{pi}~BE~[\[\z{pi}~BE~~F1~~FB~{ie}~C5~{ia}W~01~\0{el}w$~F6~~40~~FE~~FF~#035
+;0000251C{(~0B~}#005#002
+(~0B~#002
+|37
+@0000254E-0000255E-FF
+;0000254E{\{el}{to}~03~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~5F~~87~~87~~83~}#065#017
+\{el}{to}~03~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~5F~~87~~87~~83~#017
+|17
+@0000257B-00002582-FF
+;0000257B{{ta}{rt}~C1~{ie}~01~~06~\~0E~}#029#008
+{ta}{rt}~C1~{ie}~01~~06~\~0E~#008
+|8
+@0000273E-00002753-FF
+;0000273E{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B9~~04~{el}g~23~{di}~9F~{el}~5F~~23~~14~~10~~F2~}#085#022
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B9~~04~{el}g~23~{di}~9F~{el}~5F~~23~~14~~10~~F2~#022
+|22
+@00002755-0000275F-FF
+;00002755{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:$~C3~}#038#011
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:$~C3~#011
+|11
+@00002802-0000281A-FF
+;00002802{{ta}{rt}~C1~{ie}\¨\¨ ¨~40~¨ ¨ ¨ ¨ ¨ ¨~60~¨~60~}#046#025
+{ta}{rt}~C1~{ie}\¨\¨ ¨~40~¨ ¨ ¨ ¨ ¨ ¨~60~¨~60~#025
+|25
+@000028C9-000028D9-FF
+;000028C9{{ta}{rt}~C1~{ie}~C5~~F5~{ia}{el}~12~~05~~ED~S4~C3~:(~C3~}#056#017
+{ta}{rt}~C1~{ie}~C5~~F5~{ia}{el}~12~~05~~ED~S4~C3~:(~C3~#017
+|17
+@000029D1-000029E4-FF
+;000029D1{] {re}~F1~{ta}{rt}~C1~{ie}~C5~{ia}~F5~~06~~FF~}#046#013
+] {re}~F1~{ta}{rt}~C1~{ie}~C5~{ia}~F5~~06~~FF~#013
+;000029DE{W{el}-,~04~x~FE~}#016#007
+W{el}-,~04~x~FE~#007
+|20
+@00002A35-00002A51-FF
+;00002A35{]y~FE~~0A~ {Ca}~F1~{ta}{rt}~C1~{ie}:~87~~C5~~FE~~07~ {se}~16~~3D~[{rc}:~87~~C5~~FE~~08~(~04~}#092#029
+]y~FE~~0A~ {Ca}~F1~{ta}{rt}~C1~{ie}:~87~~C5~~FE~~07~ {se}~16~~3D~[{rc}:~87~~C5~~FE~~08~(~04~#029
+|29
+@00002F74-00002F9C-FF
+;00002F74{ {de}{tu}{ta}~F1~{ta}{rt}~C1~{ie}{tu}~7E~~02~~FE~2{or}é/{tu}V~03~{tu}~5E~~04~{el}{ra}/{el}%0{tu}{ta}~F1~{ta}{rt}~C1~{ie}{Ca}2~F5~!~F0~}#134#041
+ {de}{tu}{ta}~F1~{ta}{rt}~C1~{ie}{tu}~7E~~02~~FE~2{or}é/{tu}V~03~{tu}~5E~~04~{el}{ra}/{el}%0{tu}{ta}~F1~{ta}{rt}~C1~{ie}{Ca}2~F5~!~F0~#041
+|41
+@000030B8-000030CA-FF
+;000030B8{{el}V~08~~7E~2P~C0~~F1~{ta}{rt}~C1~{ie}~02~1{ll}2~07~3~12~}#058#019
+{el}V~08~~7E~2P~C0~~F1~{ta}{rt}~C1~{ie}~02~1{ll}2~07~3~12~#019
+|19
+@00003A29-00003A3B-FF
+;00003A29{{to}~90~~3B~~3D~{to}v~3B~~3D~{to}{ng}:~3D~{to}(~3B~~FD~~7E~~03~~FE~}#067#019
+{to}~90~~3B~~3D~{to}v~3B~~3D~{to}{ng}:~3D~{to}(~3B~~FD~~7E~~03~~FE~#019
+|19
+@00003CAC-00003CCD-FF
+;00003CAC{{tu}6~17~\{tu}~7E~~19~{el}w>z{el}F~3D~~C5~z<{el}F~3D~{ta}{ha}~AF~~ED~B{di}~3D~{tu}F~0F~~04~~AF~~C3~~D0~}#103#034
+{tu}6~17~\{tu}~7E~~19~{el}w>z{el}F~3D~~C5~z<{el}F~3D~{ta}{ha}~AF~~ED~B{di}~3D~{tu}F~0F~~04~~AF~~C3~~D0~#034
+|34
+@00004076-000040A1-FF
+;00004076{x{al}~0F~~B7~{to}~B0~~40~~3D~{to}~B5~~40~~3D~{to}~C3~~40~~3D~{to}{pi}~40~~3D~{to}{ca}~40~~3D~{to}{ta}~40~~3D~{to}{de}~40~~3D~{to}~F0~~40~~3D~{to}~FE~~40~~3D~{to}~06~A~3D~}#170#044
+x{al}~0F~~B7~{to}~B0~~40~~3D~{to}~B5~~40~~3D~{to}~C3~~40~~3D~{to}{pi}~40~~3D~{to}{ca}~40~~3D~{to}{ta}~40~~3D~{to}{de}~40~~3D~{to}~F0~~40~~3D~{to}~FE~~40~~3D~{to}~06~A~3D~#044
+|44
+@00004DA5-00004DB5-FF
+;00004DA5{DéC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~}#035#017
+DéC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~#017
+|17
+@00004DB8-00004DCF-FF
+;00004DB8{ACé?<{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~}#048#024
+ACé?<{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~#024
+|24
+@00004DD2-00004DE9-FF
+;00004DD2{ACé?A{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~}#048#024
+ACé?A{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~#024
+|24
+@00004DEC-00004E03-FF
+;00004DEC{ACé?<{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~}#048#024
+ACé?<{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~#024
+|24
+@00004E6A-00004E7F-FF
+;00004E6A{IH{pa}{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~}#049#022
+IH{pa}{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~#022
+|22
+@00004E82-00004E99-FF
+;00004E82{ACé?<{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~}#048#024
+ACé?<{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~#024
+|24
+@00004E9C-00004EB3-FF
+;00004E9C{ACé?A{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~}#048#024
+ACé?A{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~#024
+|24
+@00004EB6-00004ECD-FF
+;00004EB6{ACé?<{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~}#048#024
+ACé?<{ra}~7F~éDC~8C~~7F~~86~ACé<A{ra}~7F~éA?~8C~#024
+|24
+@00004ED0-00004EDF-FF
+;00004ED0{ACé?A{ra}~7F~éA?ÉA~86~?é~3D~}#028#016
+ACé?A{ra}~7F~éA?ÉA~86~?é~3D~#016
+|16
+@00004EFA-00004F00-FF
+;00004EFA{:<{pa}{ra}~7F~é~3D~}#019#007
+:<{pa}{ra}~7F~é~3D~#007
+|7
+@00005365-00005383-FF
+;00005365{FFF~7F~~B0~~80~~C1~?{pa}<{pa}~80~~C4~~7F~~8C~13568:~3B~~3D~568:~3B~~3D~>~80~}#076#031
+FFF~7F~~B0~~80~~C1~?{pa}<{pa}~80~~C4~~7F~~8C~13568:~3B~~3D~568:~3B~~3D~>~80~#031
+|31
+@00005385-0000538D-FF
+;00005385{?{pa}?{pa}~80~~C4~~7F~~8C~~3D~}#030#009
+?{pa}?{pa}~80~~C4~~7F~~8C~~3D~#009
+|9
+@0000539F-000053BA-FF
+;0000539F{{pa}~3B~{pa}:{pa}~7F~{pa}~3B~{pa}~3B~{pa}:{pa}?{pa}~3B~{pa}~3B~{pa}:{pa}:{pa}~80~~A1~~02~\~7F~}#094#028
+{pa}~3B~{pa}:{pa}~7F~{pa}~3B~{pa}~3B~{pa}:{pa}?{pa}~3B~{pa}~3B~{pa}:{pa}:{pa}~80~~A1~~02~\~7F~#028
+|28
+@00005A57-00005A5F-FF
+;00005A57{Á{li}{er}~A8~~05~~B1~~AA~/~86~}#030#009
+Á{li}{er}~A8~~05~~B1~~AA~/~86~#009
+|9
+@00005BE7-00005BEF-FF
+;00005BE7{Á{li}{er}~A8~~05~~B1~~AB~*~86~}#030#009
+Á{li}{er}~A8~~05~~B1~~AB~*~86~#009
+|9
+@00006628-00006636-FF
+;00006628{\{el}~A6~~1A~{el}2(~C3~{di}dy~B7~()~3D~}#039#015
+\{el}~A6~~1A~{el}2(~C3~{di}dy~B7~()~3D~#015
+|15
+@000066B0-000066C7-FF
+;000066B0{\{tu}~09~{tu}~7E~~11~{tu}6~11~\{el}{or}w{el}{se}d~C3~{di}dy~87~~C6~=~5F~}#072#024
+\{tu}~09~{tu}~7E~~11~{tu}6~11~\{el}{or}w{el}{se}d~C3~{di}dy~87~~C6~=~5F~#024
+|24
+@000068FE-0000690E-FF
+;000068FE{\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ ~60~}#062#017
+\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ ~60~#017
+|17
+@00006958-0000696A-FF
+;00006958{{tu}n~13~&\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~!~A6~}#064#019
+{tu}n~13~&\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~!~A6~#019
+|19
+@000069A2-000069AB-FF
+;000069A2{{ta}{rt}~C1~{ie}\\q~8A~Q~87~}#028#010
+{ta}{rt}~C1~{ie}\\q~8A~Q~87~#010
+|10
+@000069DE-00006A0F-FF
+;000069DE{\{el}~A6~~1A~{ta}>12(~C0~~7D~{ta}{rt}{el}{lo}[~F1~{ta}{rt}~C1~{ie}:{el}~C3~2p~C4~:{rr}~C3~2q~C4~{el}hj{el}Am{el}Bn8R2t~C4~:p~C4~}#128#050
+\{el}~A6~~1A~{ta}>12(~C0~~7D~{ta}{rt}{el}{lo}[~F1~{ta}{rt}~C1~{ie}:{el}~C3~2p~C4~:{rr}~C3~2q~C4~{el}hj{el}Am{el}Bn8R2t~C4~:p~C4~#050
+|50
+@00006A77-00006A8B-FF
+;00006A77{O\6\~ED~~B0~~F1~{ta}{rt}~C1~~11~{li}~C5~!{la}~C3~~0E~~1E~~06~P~1A~}#066#021
+O\6\~ED~~B0~~F1~{ta}{rt}~C1~~11~{li}~C5~!{la}~C3~~0E~~1E~~06~P~1A~#021
+|21
+@00006A9E-00006AB9-FF
+;00006A9E{{di}/2o~C4~~F1~{ta}{rt}~C1~{ie}{el}{rt}n8Q2r~C4~{el}~23~p{tu}~7E~~05~~B7~(K~AF~}#079#028
+{di}/2o~C4~~F1~{ta}{rt}~C1~{ie}{el}{rt}n8Q2r~C4~{el}~23~p{tu}~7E~~05~~B7~(K~AF~#028
+|28
+@00006BBA-00006BCA-FF
+;00006BBA{O\6\~ED~~B0~~F1~{ta}{rt}~C1~!{la}~C3~~0E~~03~~16~~01~}#053#017
+O\6\~ED~~B0~~F1~{ta}{rt}~C1~!{la}~C3~~0E~~03~~16~~01~#017
+|17
+@00006C1D-00006C5A-FF
+;00006C1D{{el}%l~F1~{ta}{rt}~C1~{ie}{ha}~F5~~C6~~0A~o&\>~0B~{el}~A6~~1A~~F1~{ta}{ie}~C5~{ia}{ha}~F5~{el}Rl{el}+'~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}Rl{el}B'~F1~{ta}{rt}~C1~{ie}:{to}~C3~~5F~:{di}~C3~Í~87~}#197#062
+{el}%l~F1~{ta}{rt}~C1~{ie}{ha}~F5~~C6~~0A~o&\>~0B~{el}~A6~~1A~~F1~{ta}{ie}~C5~{ia}{ha}~F5~{el}Rl{el}+'~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}Rl{el}B'~F1~{ta}{rt}~C1~{ie}:{to}~C3~~5F~:{di}~C3~Í~87~#062
+|62
+@00006C95-00006CA2-FF
+;00006C95{{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~>~19~}#047#014
+{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~>~19~#014
+|14
+@00006CAF-00006CEB-FF
+;00006CAF{{el}Ó[~16~~01~~1E~~06~{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}!{to}~C3~~11~{di}~C3~{el}cl{el}4l{el}~89~${el}~81~${di}o(~0E~{di}g(~16~{di}O(7{di}G(~13~[{se}{el}~7F~ x~01~\~1A~}#172#061
+{el}Ó[~16~~01~~1E~~06~{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}!{to}~C3~~11~{di}~C3~{el}cl{el}4l{el}~89~${el}~81~${di}o(~0E~{di}g(~16~{di}O(7{di}G(~13~[{se}{el}~7F~ x~01~\~1A~#061
+|61
+@00006CED-00006D0A-FF
+;00006CED{{ta}{rt}~C1~{ie}7{ta}{rt}~C1~{ie}~1A~~B7~({pi}{el}Cl~1A~~3D~~12~~BE~0{er}{el}¡l5{ha}~AF~!~0F~}#093#030
+{ta}{rt}~C1~{ie}7{ta}{rt}~C1~{ie}~1A~~B7~({pi}{el}Cl~1A~~3D~~12~~BE~0{er}{el}¡l5{ha}~AF~!~0F~#030
+|30
+@00006D70-00006D96-FF
+;00006D70{{el}xm~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~87~~5F~~16~\!{la}~C3~~19~~7E~~B7~(%{ha}n&\>~0A~{el}~A6~~1A~{ta}~7E~~FE~~1E~8~10~}#123#039
+{el}xm~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~87~~5F~~16~\!{la}~C3~~19~~7E~~B7~(%{ha}n&\>~0A~{el}~A6~~1A~{ta}~7E~~FE~~1E~8~10~#039
+|39
+@00006D99-00006DD7-FF
+;00006D99{{el}~AB~~1D~~23~n&\>~03~~06~~03~{el}~A6~~1A~~F1~{ta}{rt}~C1~~B7~{ie}~F1~{ta}{rt}~C1~7{ie}~C5~{ia}{ha}~F5~{el}{rt}m{el}+'~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}{rt}m{el}B'~F1~{ta}{rt}~C1~{ie}:p~C4~~5F~:q~C4~}#207#063
+{el}~AB~~1D~~23~n&\>~03~~06~~03~{el}~A6~~1A~~F1~{ta}{rt}~C1~~B7~{ie}~F1~{ta}{rt}~C1~7{ie}~C5~{ia}{ha}~F5~{el}{rt}m{el}+'~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}{rt}m{el}B'~F1~{ta}{rt}~C1~{ie}:p~C4~~5F~:q~C4~#063
+|63
+@00006E19-00006E26-FF
+;00006E19{{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~>~19~}#047#014
+{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~>~19~#014
+|14
+@00006E33-00006E4A-FF
+;00006E33{{el}Ó[~16~~12~~1E~~10~{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}!p~C4~~11~q~C4~}#075#024
+{el}Ó[~16~~12~~1E~~10~{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}!p~C4~~11~q~C4~#024
+|24
+@00006E73-00006E8A-FF
+;00006E73{\!{la}~C3~~19~~7E~~B7~{ta}{rt}~C1~{ie}7{ta}{rt}~C1~{ie}~1A~~B7~({to}{el}~C2~m~1A~}#081#024
+\!{la}~C3~~19~~7E~~B7~{ta}{rt}~C1~{ie}7{ta}{rt}~C1~{ie}~1A~~B7~({to}{el}~C2~m~1A~#024
+|24
+@00007029-0000703E-FF
+;00007029{\{el}Á~23~~EB~{tu}!.~C5~{tu}~19~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~!~08~}#073#022
+\{el}Á~23~~EB~{tu}!.~C5~{tu}~19~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~!~08~#022
+|22
+@0000704B-00007093-FF
+;0000704B{{ta}{rt}~C1~{ie}~C5~{ia}{ha}aO~87~~83~~5F~{el}+'{el}~89~${el}~81~${di}G(~0E~{di}O(~19~{di}o(${di}g(/[{se}y~B7~({rc}={el}B'~1D~~1D~{el}+'[{jo}y~BC~({ia}]{el}B'~1C~~1C~{el}+'[{to}y~BC~(~0B~}#187#073
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}aO~87~~83~~5F~{el}+'{el}~89~${el}~81~${di}G(~0E~{di}O(~19~{di}o(${di}g(/[{se}y~B7~({rc}={el}B'~1D~~1D~{el}+'[{jo}y~BC~({ia}]{el}B'~1C~~1C~{el}+'[{to}y~BC~(~0B~#073
+|73
+@00007094-000070AC-FF
+;00007094{{el}~7F~ x~01~\{ta}{rt}~C1~~B7~{ie}>~FF~}#040#013
+{el}~7F~ x~01~\{ta}{rt}~C1~~B7~{ie}>~FF~#013
+;000070A1{{ta}{rt}~C1~7{ie}:~87~~C5~~B7~~C0~:~85~}#039#012
+{ta}{rt}~C1~7{ie}:~87~~C5~~B7~~C0~:~85~#012
+|25
+@0000759F-000075AD-FF
+;0000759F{w{el}>w:t~C4~{el}~EE~w{el}i~1E~:~88~}#036#015
+w{el}>w:t~C4~{el}~EE~w{el}i~1E~:~88~#015
+|15
+@000075D5-000075E5-FF
+;000075D5{!<\{el}~A6~~1A~~C3~~0E~w{el}i~1E~{el}~7F~  ~08~}#047#017
+!<\{el}~A6~~1A~~C3~~0E~w{el}i~1E~{el}~7F~  ~08~#017
+|17
+@00007721-00007733-FF
+;00007721{{el}Bz~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ x~07~\~11~}#061#019
+{el}Bz~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ x~07~\~11~#019
+|19
+@00007736-00007748-FF
+;00007736{{el}Bz~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ x~06~\~11~}#061#019
+{el}Bz~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ x~06~\~11~#019
+|19
+@0000774A-0000775D-FF
+;0000774A{\{el}Bz~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ x~07~\~11~}#062#020
+\{el}Bz~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ x~07~\~11~#020
+|20
+@0000775F-00007776-FF
+;0000775F{\{el}Bz~F1~{ta}{rt}~C1~{ie}{el}~23~p{tu}~7E~~05~~B7~{ie}:~87~~C5~~FE~~09~8~0A~}#078#024
+\{el}Bz~F1~{ta}{rt}~C1~{ie}{el}~23~p{tu}~7E~~05~~B7~{ie}:~87~~C5~~FE~~09~8~0A~#024
+|24
+@00007796-000077A5-FF
+;00007796{{el}f~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ ~60~}#058#016
+{el}f~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ ~60~#016
+|16
+@000077B1-000077C0-FF
+;000077B1{{el}f~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ ~60~}#058#016
+{el}f~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7F~ ~60~#016
+|16
+@000077CC-000077DC-FF
+;000077CC{{el}f~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{Ca}~1E~8=~5F~}#059#017
+{el}f~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{Ca}~1E~8=~5F~#017
+|17
+@000077EA-00007800-FF
+;000077EA{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{Ca}~1E~8]~5F~~16~\!{li}~C5~~19~~7E~~B7~(~01~}#077#023
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{Ca}~1E~8]~5F~~16~\!{li}~C5~~19~~7E~~B7~(~01~#023
+|23
+@00007803-0000780D-FF
+;00007803{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:r~C4~}#038#011
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:r~C4~#011
+|11
+@00007824-00007832-FF
+;00007824{{tu}w~07~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:s~C4~}#051#015
+{tu}w~07~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:s~C4~#015
+|15
+@00007875-00007886-FF
+;00007875{!$\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:s~C4~}#057#018
+!$\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:s~C4~#018
+|18
+@000078C9-000078E4-FF
+;000078C9{!$\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿wo&\>~0A~{el}~A6~~1A~>~0B~}#082#028
+!$\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿wo&\>~0A~{el}~A6~~1A~>~0B~#028
+|28
+@000078E5-000079C5-FF
+;000078E5{!2\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!/\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!0\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!)\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!*\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!+\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!4\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!5\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!6\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B9~w*t~C4~&\>~0A~}#669#225
+!2\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!/\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!0\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!)\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!*\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!+\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!4\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!5\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!6\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B9~w*t~C4~&\>~0A~#225
+|225
+@000079CB-000079E8-FF
+;000079CB{!3\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!~3D~}#087#030
+!3\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~{tu}n\&\{el}~A6~~1A~!~3D~#030
+|30
+@000079E9-00007A4D-FF
+;000079E9{\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!8\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!9\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!:\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!'\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{ia}!{re}~C1~~11~~B6~~C4~~01~}#326#101
+\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!8\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!9\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!:\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}¿w>~0B~!'\{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{ia}!{re}~C1~~11~~B6~~C4~~01~#101
+|101
+@00007A4F-00007A5A-FF
+;00007A4F{\{ha}~ED~~B0~{ta}{rt}~06~ s~23~r~23~}#036#012
+\{ha}~ED~~B0~{ta}{rt}~06~ s~23~r~23~#012
+|12
+@00007A6B-00007A7A-FF
+;00007A6B{{el}sz~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~01~~0F~ ~C5~}#055#016
+{el}sz~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~01~~0F~ ~C5~#016
+|16
+@00007AC5-00007AE5-FF
+;00007AC5{{ta}{rt}~C1~{ie}sovi~B8~{tu}~A4~~B5~~C1~~AC~{ui}\~81~{al}~81~{ci}~82~~C5~{ia}{ha}!{or}z{el}~D0~~23~~11~~F7~~C4~}#111#033
+{ta}{rt}~C1~{ie}sovi~B8~{tu}~A4~~B5~~C1~~AC~{ui}\~81~{al}~81~{ci}~82~~C5~{ia}{ha}!{or}z{el}~D0~~23~~11~~F7~~C4~#033
+|33
+@00007B44-00007B62-FF
+;00007B44{>\2~FC~~FF~}#011#005
+>\2~FC~~FF~#005
+;00007B49{~FB~~F1~{ta}{rt}~C1~{ie}!~F8~~C4~~01~{ha}\~AF~~86~~ED~~A1~{je}V~7B~{ie}!~F7~~C4~~11~~F8~~C4~}#092#026
+~FB~~F1~{ta}{rt}~C1~{ie}!~F8~~C4~~01~{ha}\~AF~~86~~ED~~A1~{je}V~7B~{ie}!~F7~~C4~~11~~F8~~C4~#026
+|31
+@00007C94-00008003-FF
+;00007C94{2\0\{ie}~40~1992 SEGA\ Patch ~40~CTC/Magic \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\TMR SEGA\\\\~05~4\P>~FF~}#893#878
+2\0\{ie}~40~1992 SEGA\ Patch ~40~CTC/Magic \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\TMR SEGA\\\\~05~4\P>~FF~#878
+;00008002{2~F6~}#005#002
+2~F6~#002
+|880
+@000082C5-000082EE-FF
+;000082C5{:F{ra}~A7~~C4~Fr~AF~2F{ra}~AF~2O{ra}{tu}!.~C5~{el}~0A~C{tu}!K~C5~{el}~0A~C{tu}!h~C5~{el}~0A~C:O{ra}~A7~(~05~}#108#042
+:F{ra}~A7~~C4~Fr~AF~2F{ra}~AF~2O{ra}{tu}!.~C5~{el}~0A~C{tu}!K~C5~{el}~0A~C{tu}!h~C5~{el}~0A~C:O{ra}~A7~(~05~#042
+|42
+@00008337-00008348-FF
+;00008337{{ra}{ia}>~01~2F{ra}{el}:r{tu}~7E~\{el}~FB~p!~14~}#048#018
+{ra}{ia}>~01~2F{ra}{el}:r{tu}~7E~\{el}~FB~p!~14~#018
+|18
+@0000886C-00008882-FF
+;0000886C{{je}~5D~~5D~{ie}b~5F~~F2~~5E~~5E~{ca}ca~FA~~5F~~5F~~F0~db~0F~~06~~04~\~03~}#074#023
+{je}~5D~~5D~{ie}b~5F~~F2~~5E~~5E~{ca}ca~FA~~5F~~5F~~F0~db~0F~~06~~04~\~03~#023
+|23
+@00008D7E-00008D8A-FF
+;00008D7E{óQ{tu}{ha}~FD~{ta}{el}~B0~W{ic}~BF~Q~F5~}#040#013
+óQ{tu}{ha}~FD~{ta}{el}~B0~W{ic}~BF~Q~F5~#013
+|13
+@00009012-0000902A-FF
+;00009012{{tu}{ha}~FD~{ha}{tu}{ta}{el}~AB~f{tu}{ta}~C3~~F6~Q{tu}{ha}~FD~{ta}{el}~B0~W{ic}~BF~Q~F5~}#088#025
+{tu}{ha}~FD~{ha}{tu}{ta}{el}~AB~f{tu}{ta}~C3~~F6~Q{tu}{ha}~FD~{ta}{el}~B0~W{ic}~BF~Q~F5~#025
+|25
+@000092B4-000092EE-FF
+;000092B4{{el}{je}n:~AC~{ie}~FE~~FF~}#026#008
+{el}{je}n:~AC~{ie}~FE~~FF~#008
+;000092BC{{to}*W{tu}~7E~[2D{ra}{el}~FE~k{el}~A5~i{ic}~7D~J2I{ra}:I{ra}{tu}w[~FE~n{ui}~7D~J{Ca}Q{ic}~7D~J!{se}R{el}~D0~~23~{lo}"S"S~7D~J~7D~}#129#051
+{to}*W{tu}~7E~[2D{ra}{el}~FE~k{el}~A5~i{ic}~7D~J2I{ra}:I{ra}{tu}w[~FE~n{ui}~7D~J{Ca}Q{ic}~7D~J!{se}R{el}~D0~~23~{lo}"S"S~7D~J~7D~#051
+|59
+@0000A4C0-0000A4F0-FF
+;0000A4C0{{tu}6~10~\{tu}~7E~~02~{tu}w~11~{tu}~7E~~03~{tu}w~12~{tu}~7E~~04~{tu}w~13~{tu}~7E~~05~{tu}w~14~{tu}~7E~~06~{tu}w~15~~F1~{ta}{rt}~C1~{ie}~A7~{ra}~F5~{ha}~C5~{ia}~FE~'0~14~}#169#049
+{tu}6~10~\{tu}~7E~~02~{tu}w~11~{tu}~7E~~03~{tu}w~12~{tu}~7E~~04~{tu}w~13~{tu}~7E~~05~{tu}w~14~{tu}~7E~~06~{tu}w~15~~F1~{ta}{rt}~C1~{ie}~A7~{ra}~F5~{ha}~C5~{ia}~FE~'0~14~#049
+|49
+@0000A59E-0000A5A9-FF
+;0000A59E{{to}~F1~{ta}{rt}~C1~{ie}{el}L5~F5~>~05~}#039#012
+{to}~F1~{ta}{rt}~C1~{ie}{el}L5~F5~>~05~#012
+|12
+@0000A6F8-0000A726-FF
+;0000A6F8{{tu}w~06~{tu}w~05~~7E~~23~{tu}w~09~~7E~~23~{tu}w]~7E~~23~{tu}w~08~{tu}w~07~~7E~~23~{tu}w~0B~~7E~{tu}w~0A~~F1~{ta}{rt}~C1~{ie}>~01~{el}W%!~06~\~AF~}#146#047
+{tu}w~06~{tu}w~05~~7E~~23~{tu}w~09~~7E~~23~{tu}w]~7E~~23~{tu}w~08~{tu}w~07~~7E~~23~{tu}w~0B~~7E~{tu}w~0A~~F1~{ta}{rt}~C1~{ie}>~01~{el}W%!~06~\~AF~#047
+|47
+@0000A809-0000A81A-FF
+;0000A809{{to}rh~C5~{ha}~C6~~05~~16~~01~{el}Ñmy~C6~~05~O>~12~}#051#018
+{to}rh~C5~{ha}~C6~~05~~16~~01~{el}Ñmy~C6~~05~O>~12~#018
+|18
+@0000A81D-0000A838-FF
+;0000A81D{{el}Ñm]]]y~06~~03~~16~~08~{tu}n~05~&\{el}ñ~19~~16~~0B~{ta}{ha}~C5~~7C~~01~~01~~08~}#082#028
+{el}Ñm]]]y~06~~03~~16~~08~{tu}n~05~&\{el}ñ~19~~16~~0B~{ta}{ha}~C5~~7C~~01~~01~~08~#028
+|28
+@0000A839-0000A860-FF
+;0000A839{{el}Ó[~C1~~1C~]]]>~13~~16~~05~{el}Ñm]]]y~06~~03~~16~~08~{tu}n~07~&\{el}ñ~19~~16~~0B~{ta}{ha}~C5~~7C~~C6~~08~~01~}#112#040
+{el}Ó[~C1~~1C~]]]>~13~~16~~05~{el}Ñm]]]y~06~~03~~16~~08~{tu}n~07~&\{el}ñ~19~~16~~0B~{ta}{ha}~C5~~7C~~C6~~08~~01~#040
+|40
+@0000AB47-0000AB51-FF
+;0000AB47{{ta}{rt}~C1~{ie}{ia}{ha}~5F~~16~\!~AC~}#038#011
+{ta}{rt}~C1~{ie}{ia}{ha}~5F~~16~\!~AC~#011
+|11
+@0000AB64-0000AB73-FF
+;0000AB64{{el}yn~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7D~k~06~}#055#016
+{el}yn~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~7D~k~06~#016
+|16
+@0000AB79-0000AB89-FF
+;0000AB79{{ta}{rt}~C1~{ie}~16~~01~{di}G(~02~~16~~0A~{al}~FE~~C6~=~5F~}#059#017
+{ta}{rt}~C1~{ie}~16~~01~{di}G(~02~~16~~0A~{al}~FE~~C6~=~5F~#017
+|17
+@0000ABD1-0000ABDC-FF
+;0000ABD1{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~11~~0B~~12~~01~}#048#012
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~11~~0B~~12~~01~#012
+|12
+@0000ABFA-0000AC04-FF
+;0000ABFA{{ta}{rt}~C1~{ie}:D{ra}~06~\!~AC~}#032#011
+{ta}{rt}~C1~{ie}:D{ra}~06~\!~AC~#011
+|11
+@0000ACE7-0000ACF8-FF
+;0000ACE7{>[{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~11~~09~~09~~06~}#060#018
+>[{el}Ó[~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~11~~09~~09~~06~#018
+|18
+@0000AD10-0000AD17-FF
+;0000AD10{{ta}{rt}~C1~{ie}~F5~:G~C3~}#026#008
+{ta}{rt}~C1~{ie}~F5~:G~C3~#008
+|8
+@0000ADB1-0000ADBD-FF
+;0000ADB1{{el}{lo}[~F1~{ta}{rt}~C1~{ie}~11~~02~~01~~0E~~07~}#049#013
+{el}{lo}[~F1~{ta}{rt}~C1~{ie}~11~~02~~01~~0E~~07~#013
+|13
+@0000AE8C-0000AE97-FF
+;0000AE8C{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~87~~C6~~03~~5F~}#048#012
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~87~~C6~~03~~5F~#012
+|12
+@0000AEBF-0000AECA-FF
+;0000AEBF{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~87~~C6~~03~~5F~}#048#012
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~87~~C6~~03~~5F~#012
+|12
+@0000AF4C-0000AF56-FF
+;0000AF4C{{tu}{tu}{ta}~FD~{ta}~7B~{ta}{rt}~C1~G~F1~}#041#011
+{tu}{tu}{ta}~FD~{ta}~7B~{ta}{rt}~C1~G~F1~#011
+|11
+@0000AF94-0000AF9E-FF
+;0000AF94{{ta}{tu}{ta}~FD~{ta}~7B~{ta}{rt}~C1~G~F1~}#041#011
+{ta}{tu}{ta}~FD~{ta}~7B~{ta}{rt}~C1~G~F1~#011
+|11
+@0000AFB7-0000AFC2-FF
+;0000AFB7{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p~11~}#045#012
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p~11~#012
+|12
+@0000AFD2-0000AFDD-FF
+;0000AFD2{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p~11~}#045#012
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p~11~#012
+|12
+@0000AFED-0000AFFC-FF
+;0000AFED{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p{ha}~11~~13~\~01~}#058#016
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p{ha}~11~~13~\~01~#016
+|16
+@0000B016-0000B025-FF
+;0000B016{{ta}{rt}~C1~{ie}~19~n&\{di}<{di}~1D~{el}~C3~p~F1~}#049#016
+{ta}{rt}~C1~{ie}~19~n&\{di}<{di}~1D~{el}~C3~p~F1~#016
+|16
+@0000B026-0000B031-FF
+;0000B026{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p~11~}#045#012
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p~11~#012
+|12
+@0000B041-0000B04D-FF
+;0000B041{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p0~16~}#046#013
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p0~16~#013
+|13
+@0000B06B-0000B07F-FF
+;0000B06B{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p04{ha}~01~\\~11~~12~\~19~}#066#021
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{el}~B7~p04{ha}~01~\\~11~~12~\~19~#021
+|21
+@0000B0B3-0000B0D2-FF
+;0000B0B3{{ta}{rt}~C1~{ie}!]\9~7E~~23~fo~7C~~FE~{ra}{ie}~EB~!]\9s~23~r{ie}~F5~{ca}~7E~~FE~~C0~8~FA~}#089#032
+{ta}{rt}~C1~{ie}!]\9~7E~~23~fo~7C~~FE~{ra}{ie}~EB~!]\9s~23~r{ie}~F5~{ca}~7E~~FE~~C0~8~FA~#032
+|32
+@0000B0F0-0000B117-FF
+;0000B0F0{!Ó\{el}f~1A~~F1~{ta}{rt}~C1~{ie}~A7~{ra}~C5~{ia}{ha}~F5~~C6~~05~o&\>~09~{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~FD~~5E~\~FD~}#133#040
+!Ó\{el}f~1A~~F1~{ta}{rt}~C1~{ie}~A7~{ra}~C5~{ia}{ha}~F5~~C6~~05~o&\>~09~{el}~A6~~1A~~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~FD~~5E~\~FD~#040
+|40
+@0000B149-0000B15A-FF
+;0000B149{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{tu}~5E~\{tu}V~01~~7B~~A2~~EE~~FF~}#066#018
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{tu}~5E~\{tu}V~01~~7B~~A2~~EE~~FF~#018
+|18
+@0000B186-0000B195-FF
+;0000B186{{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:H{ra}~A7~{to}~FD~q~FE~}#055#016
+{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~:H{ra}~A7~{to}~FD~q~FE~#016
+|16
+@0000B1F8-0000B210-FF
+;0000B1F8{{ta}{rt}~C1~~A7~{ie}~F1~{ta}{rt}~C1~7{ie}~F5~{ha}o~AF~g{el}~A6~~1A~{ta}~F1~{ie}~F5~>~09~}#088#025
+{ta}{rt}~C1~~A7~{ie}~F1~{ta}{rt}~C1~7{ie}~F5~{ha}o~AF~g{el}~A6~~1A~{ta}~F1~{ie}~F5~>~09~#025
+|25
+@0000B265-0000B273-FF
+;0000B265{{el}ú$~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~F5~>~0E~}#051#015
+{el}ú$~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~~F5~>~0E~#015
+|15
+@0000B286-0000B28F-FF
+;0000B286{{ta}{rt}~C1~{ie}:~19~{ra}~A7~(~06~}#034#010
+{ta}{rt}~C1~{ie}:~19~{ra}~A7~(~06~#010
+|10
+@0000B3C3-0000B3E8-FF
+;0000B3C3{{tu}~23~~10~~BA~{tu}{ta}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{tu}{ha}~06~ !R{ra}~11~~B2~{ra}{tu}![~C2~~1A~~86~w{al}~F0~~0F~~0F~~0F~~0F~}#134#038
+{tu}~23~~10~~BA~{tu}{ta}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{tu}{ha}~06~ !R{ra}~11~~B2~{ra}{tu}![~C2~~1A~~86~w{al}~F0~~0F~~0F~~0F~~0F~#038
+|38
+@0000B402-0000B428-FF
+;0000B402{{tu}w\~23~~13~{tu}~23~~10~{ia}{el}~81~~1E~{tu}{ta}~F1~{ta}{rt}~C1~{ie}~C5~{el}os~06~~0F~{el}{rr}s{el}{ci}p~10~~F8~!{re}~C1~~11~[~C2~}#132#039
+{tu}w\~23~~13~{tu}~23~~10~{ia}{el}~81~~1E~{tu}{ta}~F1~{ta}{rt}~C1~{ie}~C5~{el}os~06~~0F~{el}{rr}s{el}{ci}p~10~~F8~!{re}~C1~~11~[~C2~#039
+|39
+@0000B42E-0000B452-FF
+;0000B42E{{el}~81~~1E~~C1~{ie}~C5~{ia}{ha}~F5~{el}o~1F~{el}Ht{el}rt{el}{or}~1F~~F1~{ta}{rt}~C1~{ie}{el}Út{re}:\{ra}~FE~~0E~(~11~}#118#037
+{el}~81~~1E~~C1~{ie}~C5~{ia}{ha}~F5~{el}o~1F~{el}Ht{el}rt{el}{or}~1F~~F1~{ta}{rt}~C1~{ie}{el}Út{re}:\{ra}~FE~~0E~(~11~#037
+|37
+@0000B565-0000B57A-FF
+;0000B565{{rt}~10~{ia}~F1~{ta}{rt}~C1~{ie}~F5~~C5~{ha}!~12~{ie}>~10~~06~pw~23~<~10~}#073#022
+{rt}~10~{ia}~F1~{ta}{rt}~C1~{ie}~F5~~C5~{ha}!~12~{ie}>~10~~06~pw~23~<~10~#022
+|22
+@0000B5A0-0000B5AE-FF
+;0000B5A0{{ta}{rt}~C1~{ie}~A7~{to}{ar}u~FE~~01~{to}~84~v:~19~}#051#015
+{ta}{rt}~C1~{ie}~A7~{to}{ar}u~FE~~01~{to}~84~v:~19~#015
+|15
+@0000B71A-0000B724-FF
+;0000B71A{{to}!<w{el}~D0~~23~~7D~D!~14~}#029#011
+{to}!<w{el}~D0~~23~~7D~D!~14~#011
+|11
+@0000B7FF-0000B814-FF
+;0000B7FF{{ra}*>{ra}~ED~~5B~~0B~{ra}~19~">{ra}*~40~{ra}~ED~~5B~={ra}~19~"~40~}#067#022
+{ra}*>{ra}~ED~~5B~~0B~{ra}~19~">{ra}*~40~{ra}~ED~~5B~={ra}~19~"~40~#022
+|22
+@0000B8B4-0000B8C9-FF
+;0000B8B4{{ra}*>{ra}~ED~~5B~~0B~{ra}~19~">{ra}*~40~{ra}~ED~~5B~={ra}~19~"~40~}#067#022
+{ra}*>{ra}~ED~~5B~~0B~{ra}~19~">{ra}*~40~{ra}~ED~~5B~={ra}~19~"~40~#022
+|22
+@0000B9C3-0000B9DC-FF
+;0000B9C3{{to}:={to}*~01~{to}&\{el}~0F~~7F~{di}<{di}~1D~{di}<{di}~1D~{di}<{di}~1D~:~0B~}#077#026
+{to}:={to}*~01~{to}&\{el}~0F~~7F~{di}<{di}~1D~{di}<{di}~1D~{di}<{di}~1D~:~0B~#026
+|26
+@0000BA76-0000BA7E-FF
+;0000BA76{{ta}{rt}~C1~{ie}>~08~2>~C3~}#027#009
+{ta}{rt}~C1~{ie}>~08~2>~C3~#009
+|9
+@0000BAE1-0000BAF9-FF
+;0000BAE1{{ta}{rt}~C1~{ie}~06~~07~{ie}~C5~~06~~01~{el}{ca}p~C1~{ie}![~C2~~11~{re}~C1~~01~~40~\~ED~}#088#025
+{ta}{rt}~C1~{ie}~06~~07~{ie}~C5~~06~~01~{el}{ca}p~C1~{ie}![~C2~~11~{re}~C1~~01~~40~\~ED~#025
+|25
+@0000BC36-0000BC56-FF
+;0000BC36{R{di}<{di}~1D~{di}<{di}~1D~{rt}{el}&~7F~{ha}*X{to}~ED~~5B~~60~{to}~19~~EB~{ta}{el}~A8~~23~:b{to}~A7~(~01~}#105#033
+R{di}<{di}~1D~{di}<{di}~1D~{rt}{el}&~7F~{ha}*X{to}~ED~~5B~~60~{to}~19~~EB~{ta}{el}~A8~~23~:b{to}~A7~(~01~#033
+|33
+@0000BEBB-0000BED0-FF
+;0000BEBB{{ta}{el}~EC~~7E~{rt}~C1~~F1~{ie}~F5~~C5~{ia}{ha}~ED~~5B~Q{to}~16~\{di}~3B~!~08~}#079#022
+{ta}{el}~EC~~7E~{rt}~C1~~F1~{ie}~F5~~C5~{ia}{ha}~ED~~5B~Q{to}~16~\{di}~3B~!~08~#022
+|22
+@0000C1DF-0000C1E5-FF
+;0000C1DF{{pa}{li}%Á~08~Ú~0B~}#019#007
+{pa}{li}%Á~08~Ú~0B~#007
+|7
+@0000C9AB-0000C9CE-FF
+;0000C9AB{{el}~A6~~1A~{el}~7F~ qIp]É~FA~\{ha}~F5~!]\~AF~{el}~A6~~1A~~F1~{ta}{el}~7F~ p~0A~H\!~05~\>~06~}#093#036
+{el}~A6~~1A~{el}~7F~ qIp]É~FA~\{ha}~F5~!]\~AF~{el}~A6~~1A~~F1~{ta}{el}~7F~ p~0A~H\!~05~\>~06~#036
+|36
+@0000CEAD-0000CEB8-FF
+;0000CEAD{{el}~A6~~1A~~F1~{ta}~C3~KO{el}~7F~ ~60~}#039#012
+{el}~A6~~1A~~F1~{ta}~C3~KO{el}~7F~ ~60~#012
+|12
+@0000CFFF-0000D012-FF
+;0000CFFF{{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\~FE~~03~(~12~}#056#020
+{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\~FE~~03~(~12~#020
+|20
+@0000D46B-0000D47A-FF
+;0000D46B{H\{tu}!~8C~T{el}>A>~04~{el}é~12~>~05~}#037#016
+H\{tu}!~8C~T{el}>A>~04~{el}é~12~>~05~#016
+|16
+@0000D7CB-0000D7F5-FF
+;0000D7CB{{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\~B7~~C2~~BB~X!{di}X:~87~~C5~{Ca}~02~{el}~D0~~23~{ha}!\\{ha}{el}Xh{el}~09~e~FD~}#121#043
+{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\~B7~~C2~~BB~X!{di}X:~87~~C5~{Ca}~02~{el}~D0~~23~{ha}!\\{ha}{el}Xh{el}~09~e~FD~#043
+|43
+@0000D9A3-0000D9B5-FF
+;0000D9A3{{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\~B7~(~1E~}#052#019
+{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\~B7~(~1E~#019
+|19
+@0000DB58-0000DB6A-FF
+;0000DB58{{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\~B7~(~15~}#052#019
+{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\~B7~(~15~#019
+|19
+@0000DDEF-0000DE05-FF
+;0000DDEF{{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\{ie}~C5~{ia}{ha}~F5~!~1D~}#068#023
+{el}~A6~~1A~~F1~{ta}{el}~7F~ 0\\~14~~0A~\\\{ie}~C5~{ia}{ha}~F5~!~1D~#023
+|23
+@0000DE1B-0000DE38-FF
+;0000DE1B{y{Ca}~01~{al}~07~<GN~F1~{di}~01~~10~~FC~{ta}{rt}~C1~{ie}~F5~~C5~{ia}{ha}!~1D~\{el}Á~23~~11~B~C5~}#096#030
+y{Ca}~01~{al}~07~<GN~F1~{di}~01~~10~~FC~{ta}{rt}~C1~{ie}~F5~~C5~{ia}{ha}!~1D~\{el}Á~23~~11~B~C5~#030
+|30
+@0000DF4D-0000DF55-FF
+;0000DF4D{{el}~A6~~1A~~F1~{ta}{el}~0B~j~B7~}#033#009
+{el}~A6~~1A~~F1~{ta}{el}~0B~j~B7~#009
+|9
+@0000DFF0-0000DFF8-FF
+;0000DFF0{{el}~A6~~1A~~F1~{ta}{el}~0B~j~FE~}#033#009
+{el}~A6~~1A~~F1~{ta}{el}~0B~j~FE~#009
+|9
+@0000E18C-0000E194-FF
+;0000E18C{{el}~A6~~1A~~F1~{ta}{ha}~F5~!~0B~}#033#009
+{el}~A6~~1A~~F1~{ta}{ha}~F5~!~0B~#009
+|9
+@0000E259-0000E270-FF
+;0000E259{{el}Tc!\~11~{el}~A7~~1D~{ha}~F5~! \~AF~{el}~A6~~1A~~F1~{ta}{ha}~F5~!~0F~}#072#024
+{el}Tc!\~11~{el}~A7~~1D~{ha}~F5~! \~AF~{el}~A6~~1A~~F1~{ta}{ha}~F5~!~0F~#024
+|24
+@0000E310-0000E314-FF
+;0000E310{{ha}{ha}~F5~!~05~}#017#005
+{ha}{ha}~F5~!~05~#005
+|5
+@0000E9CD-0000EA52-FF
+;0000E9CD{{rt}{ta}~F1~{ie}~C5~{ia}{ha}~F5~{tu}{ha}~11~\\~01~~0A~~14~{tu}!~0F~~D0~~C5~{ia}{el}~B9~~04~~F3~{el}~86~~23~\\{ca}~BE~{tu}w\{tu}~23~{ca}~BE~{tu}w\{tu}~23~~FB~~14~~10~{ha}{rt}~C1~~1C~= {tu}{tu}{ta}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{tu}{ha}~11~\\~01~~0A~~14~{tu}!~0F~~D0~~C5~{ia}{el}~B9~~04~~F3~{el}y~23~{tu}~7E~\{pi}~BE~{tu}~23~{tu}~7E~\{pi}~BE~{tu}~23~~FB~~14~~10~{de}{rt}~C1~~1C~= {ol}{tu}{ta}~F1~{ta}{rt}~C1~{ie}>p2~F6~~C4~{el}~7F~ qI~81~~10~É<\~C5~}#452#134
+{rt}{ta}~F1~{ie}~C5~{ia}{ha}~F5~{tu}{ha}~11~\\~01~~0A~~14~{tu}!~0F~~D0~~C5~{ia}{el}~B9~~04~~F3~{el}~86~~23~\\{ca}~BE~{tu}w\{tu}~23~{ca}~BE~{tu}w\{tu}~23~~FB~~14~~10~{ha}{rt}~C1~~1C~= {tu}{tu}{ta}~F1~{ta}{rt}~C1~{ie}~C5~{ia}{ha}~F5~{tu}{ha}~11~\\~01~~0A~~14~{tu}!~0F~~D0~~C5~{ia}{el}~B9~~04~~F3~{el}y~23~{tu}~7E~\{pi}~BE~{tu}~23~{tu}~7E~\{pi}~BE~{tu}~23~~FB~~14~~10~{de}{rt}~C1~~1C~= {ol}{tu}{ta}~F1~{ta}{rt}~C1~{ie}>p2~F6~~C4~{el}~7F~ qI~81~~10~É<\~C5~#134
+|134
+@0000EA58-0000EA7D-FF
+;0000EA58{{rt}~11~~AA~{rt}~01~~EF~~05~6\~ED~~B0~~F1~{ta}{rt}~C1~!\\~11~~A9~{rt}~01~~01~\{el}~5D~~03~!\ ~F3~{el}y~23~~01~~60~~15~~AF~}#122#038
+{rt}~11~~AA~{rt}~01~~EF~~05~6\~ED~~B0~~F1~{ta}{rt}~C1~!\\~11~~A9~{rt}~01~~01~\{el}~5D~~03~!\ ~F3~{el}y~23~~01~~60~~15~~AF~#038
+|38
+@00010769-0001076E-FF
+;00010769{{to}{rr}~87~~84~"~23~}#021#006
+{to}{rr}~87~~84~"~23~#006
+|6
+@000107A7-000107AE-FF
+;000107A7{{to}{rr}~87~~80~~84~" ~83~}#026#008
+{to}{rr}~87~~80~~84~" ~83~#008
+|8
+@000107E5-000107EF-FF
+;000107E5{{to}{rr}~87~~80~~84~"   á~81~}#029#011
+{to}{rr}~87~~80~~84~"   á~81~#011
+|11
+@0001586F-00015874-FF
+;0001586F{{pi}{pi}~C0~\=~04~}#018#006
+{pi}{pi}~C0~\=~04~#006
+|6
+@00016DEF-00016DF4-FF
+;00016DEF{Y{al}b~40~í~06~}#015#006
+Y{al}b~40~í~06~#006
+|6
+@00016F5F-00016F66-FF
+;00016F5F{{or}~C2~~C5~{pa}{se}~7F~?~BF~}#029#008
+{or}~C2~~C5~{pa}{se}~7F~?~BF~#008
+|8
+@000171A6-000171BE-FF
+;000171A6{ER{ie},,~7F~~BF~~9F~GC~C1~! U~8A~~85~~C2~~C1~\{ta}¨~BB~~FD~\~08~}#064#025
+ER{ie},,~7F~~BF~~9F~GC~C1~! U~8A~~85~~C2~~C1~\{ta}¨~BB~~FD~\~08~#025
+|25
+@0001725E-00017273-FF
+;0001725E{iREd3<~F8~~7F~g3~3D~~FE~~FF~}#028#013
+iREd3<~F8~~7F~g3~3D~~FE~~FF~#013
+;0001726B{{io}~FD~~FA~{ol}{la}~C3~~BA~6~80~}#033#009
+{io}~FD~~FA~{ol}{la}~C3~~BA~6~80~#009
+|22
+@0001735D-00017361-FF
+;0001735D{{pa}{pa}~C0~¨~80~}#017#005
+{pa}{pa}~C0~¨~80~#005
+|5
+@0001764D-00017661-FF
+;0001764D{\\\ {Ca}~0F~~0E~E f\]=~FF~}#026#014
+\\\ {Ca}~0F~~0E~E f\]=~FF~#014
+;0001765B{~1C~/{pa}{pa}~60~\~BA~}#022#007
+~1C~/{pa}{pa}~60~\~BA~#007
+|21
+@0001832E-00018339-FF
+;0001832E{\\~80~~80~~C0~~C0~{pa}{pa}~AA~~FA~\~03~}#039#012
+\\~80~~80~~C0~~C0~{pa}{pa}~AA~~FA~\~03~#012
+|12
+@0001841A-00018423-FF
+;0001841A{{pa}{pa}~40~~1F~\\]~FE~9~1D~}#028#010
+{pa}{pa}~40~~1F~\\]~FE~9~1D~#010
+|10
+@00018740-00018765-FF
+;00018740{CACA~03~~01~{ar}~09~KIKI~0B~~F9~{ar}~40~~87~{ri}{io}{ri}{io}~87~\    \\~F8~ f&f&~60~ ~7F~}#089#038
+CACA~03~~01~{ar}~09~KIKI~0B~~F9~{ar}~40~~87~{ri}{io}{ri}{io}~87~\    \\~F8~ f&f&~60~ ~7F~#038
+|38
+@00018926-00018931-FF
+;00018926{{pa}{ta}~F4~¨Q¨A~07~~FF~}#024#009
+{pa}{ta}~F4~¨Q¨A~07~~FF~#009
+;0001892F{~FE~~FF~}#008#002
+~FE~~FF~#002
+;00018931{~EB~}#004#001
+~EB~#001
+|12
+@00018B3D-00018B45-FF
+;00018B3D{ICICA~07~~7F~?~5F~}#018#009
+ICICA~07~~7F~?~5F~#009
+|9
+@00018E9F-00018EA6-FF
+;00018E9F{{ol}!{la}~FB~~FB~~B8~\~5B~}#026#008
+{ol}!{la}~FB~~FB~~B8~\~5B~#008
+|8
+@00018F7F-00018F93-FF
+;00018F7F{{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~}#036#009
+{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~#009
+;00018F88{{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~}#039#012
+{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~#012
+|21
+@0001962E-0001963B-FF
+;0001962E{{or}~02~{ca}{pa}~84~{pa}~A1~{ra}\~05~~90~~40~p~1D~}#050#014
+{or}~02~{ca}{pa}~84~{pa}~A1~{ra}\~05~~90~~40~p~1D~#014
+|14
+@0001964E-00019654-FF
+;0001964E{*¨{pa}{pa}~40~P~D0~}#019#007
+*¨{pa}{pa}~40~P~D0~#007
+|7
+@00019678-00019687-FF
+;00019678{6\\\\\\~AB~~0F~~FF~}#019#010
+6\\\\\\~AB~~0F~~FF~#010
+;00019682{{la}{de}~F1~~FC~8~80~}#021#006
+{la}{de}~F1~~FC~8~80~#006
+|16
+@000196BA-000196DF-FF
+;000196BA{p\\~AB~~0F~~FF~}#015#006
+p\\~AB~~0F~~FF~#006
+;000196C0{~F3~{de}{il}?8~01~\\~03~~03~~03~~1F~\ ~40~~80~~F2~{ha}{ll}<~F8~~F4~{se}PóE~FF~}#078#027
+~F3~{de}{il}?8~01~\\~03~~03~~03~~1F~\ ~40~~80~~F2~{ha}{ll}<~F8~~F4~{se}PóE~FF~#027
+;000196DB{~EF~~7F~~FD~w~ED~}#017#005
+~EF~~7F~~FD~w~ED~#005
+|38
+@000197C2-000197C8-FF
+;000197C2{{pa}{pa}~AA~~07~~F0~~1C~~0F~}#028#007
+{pa}{pa}~AA~~07~~F0~~1C~~0F~#007
+|7
+@0001985B-0001986F-FF
+;0001985B{{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~}#036#009
+{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~#009
+;00019864{{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~}#039#012
+{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~#012
+|21
+@00019BCE-00019BD5-FF
+;00019BCE{{ol}!{la}~FB~~FB~~B8~\~5B~}#026#008
+{ol}!{la}~FB~~FB~~B8~\~5B~#008
+|8
+@00019CB2-00019CC6-FF
+;00019CB2{{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~}#036#009
+{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~#009
+;00019CBB{{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~}#039#012
+{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~#012
+|21
+@0001A105-0001A10C-FF
+;0001A105{{ol}!{la}~FB~~FB~~B8~\~5B~}#026#008
+{ol}!{la}~FB~~FB~~B8~\~5B~#008
+|8
+@0001A1E9-0001A1FD-FF
+;0001A1E9{{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~}#036#009
+{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~#009
+;0001A1F2{{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~}#039#012
+{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~#012
+|21
+@0001A62A-0001A631-FF
+;0001A62A{{ol}!{la}~FB~~FB~~B8~\~5B~}#026#008
+{ol}!{la}~FB~~FB~~B8~\~5B~#008
+|8
+@0001A70E-0001A722-FF
+;0001A70E{{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~}#036#009
+{lo}~F6~~B7~~EE~~5B~{de}{tu}~BE~~FF~#009
+;0001A717{{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~}#039#012
+{or}\(~40~~08~~40~~11~{lo}{ca}~BA~m~F7~#012
+|21
+@0001AD2C-0001AD3C-FF
+;0001AD2C{{de}{ar}~14~~12~~10~\ ~08~~88~~08~~AA~{pa}~FF~}#046#013
+{de}{ar}~14~~12~~10~\ ~08~~88~~08~~AA~{pa}~FF~#013
+;0001AD39{~7F~~7F~~BF~~9F~}#016#004
+~7F~~7F~~BF~~9F~#004
+|17
+@0001ADB0-0001ADBF-FF
+;0001ADB0{\\\~23~~C0~{pa}{pa}~80~~80~~81~{ar}{ar}~C3~~87~á~83~}#052#016
+\\\~23~~C0~{pa}{pa}~80~~80~~81~{ar}{ar}~C3~~87~á~83~#016
+|16
+@0001AEF7-0001AEFD-FF
+;0001AEF7{{er}{er}~C3~~C3~B¡~7D~}#022#007
+{er}{er}~C3~~C3~B¡~7D~#007
+|7
+@0001B0EC-0001B0FC-FF
+;0001B0EC{{pa}"{pa}~01~~03~{de}~7F~~1F~~AA~~0F~\B~C2~{rc}~60~ ~0F~}#056#017
+{pa}"{pa}~01~~03~{de}~7F~~1F~~AA~~0F~\B~C2~{rc}~60~ ~0F~#017
+|17
+@0001B252-0001B256-FF
+;0001B252{{pa}{la}~9F~?~AA~}#017#005
+{pa}{la}~9F~?~AA~#005
+|5
+@0001B426-0001B437-FF
+;0001B426{{pa}{pa}~F1~~C1~~C3~{de}{de}~F7~~F3~~F3~~F7~B7~1E~~1C~~09~~AA~~FE~}#066#018
+{pa}{pa}~F1~~C1~~C3~{de}{de}~F7~~F3~~F3~~F7~B7~1E~~1C~~09~~AA~~FE~#018
+|18
+@0001B477-0001B487-FF
+;0001B477{{ol}~F0~~F0~{pa}{la}~1F~~0E~[\0{pa}{ra}~1F~~40~~7F~~FC~~BA~}#059#017
+{ol}~F0~~F0~{pa}{la}~1F~~0E~[\0{pa}{ra}~1F~~40~~7F~~FC~~BA~#017
+|17
+@0001B5F1-0001B609-FF
+;0001B5F1{xTT~AA~~A3~~80~~C0~\\\'~C0~{pa}{ta}~80~~80~~07~~C1~{de}{ar}{ar}~83~~81~B~BF~}#076#025
+xTT~AA~~A3~~80~~C0~\\\'~C0~{pa}{ta}~80~~80~~07~~C1~{de}{ar}{ar}~83~~81~B~BF~#025
+|25
+@0001BA70-0001BA85-FF
+;0001BA70{{ar}{ri}~FB~{li}~FE~~FF~}#024#006
+{ar}{ri}~FB~{li}~FE~~FF~#006
+;0001BA76{~F0~{pa}~40~~07~[0{se}{pa}\{or}\~08~~40~~C0~~C0~~1F~}#052#016
+~F0~{pa}~40~~07~[0{se}{pa}\{or}\~08~~40~~C0~~C0~~1F~#016
+|22
+@0001BB5B-0001BB67-FF
+;0001BB5B{{ol}{tu}{tu}¡~FD~{pa}{la}~C0~{ci}{ci}~8C~]~01~}#046#013
+{ol}{tu}{tu}¡~FD~{pa}{la}~C0~{ci}{ci}~8C~]~01~#013
+|13
+@0001BC24-0001BC30-FF
+;0001BC24{{ol}{tu}{tu}¡~FD~{pa}{la}~C0~{ci}{ci}~8C~]~01~}#046#013
+{ol}{tu}{tu}¡~FD~{pa}{la}~C0~{ci}{ci}~8C~]~01~#013
+|13
+@0001BD0B-0001BD17-FF
+;0001BD0B{{ol}{tu}{tu}¡~FD~{pa}{la}~C0~{ci}{ci}~8C~]~01~}#046#013
+{ol}{tu}{tu}¡~FD~{pa}{la}~C0~{ci}{ci}~8C~]~01~#013
+|13
+@0001BDAE-0001BDBA-FF
+;0001BDAE{{ol}{tu}{tu}¡~FD~{pa}{la}~C0~{ci}{ci}~8C~]~01~}#046#013
+{ol}{tu}{tu}¡~FD~{pa}{la}~C0~{ci}{ci}~8C~]~01~#013
+|13
+@0001C01B-0001C02B-FF
+;0001C01B{{pa}{pa}~F0~~F8~\\\~F2~px<>~1F~~0F~~07~~03~~90~}#047#017
+{pa}{pa}~F0~~F8~\\\~F2~px<>~1F~~0F~~07~~03~~90~#017
+|17
+@0001C03E-0001C045-FF
+;0001C03E{{pa}{la} ~FC~~60~~0F~ ~F0~}#026#008
+{pa}{la} ~FC~~60~~0F~ ~F0~#008
+|8
+@0001C0B1-0001C0C0-FF
+;0001C0B1{{ol}~BF~~7F~~FF~}#016#004
+{ol}~BF~~7F~~FF~#004
+;0001C0B5{~FC~{jo}~FE~~FC~~F0~{pa}{pa}~C0~~C0~?!~1F~}#042#012
+~FC~{jo}~FE~~FC~~F0~{pa}{pa}~C0~~C0~?!~1F~#012
+|16
+@0001C2DE-0001C2ED-FF
+;0001C2DE{\\h{re}~F8~\p{pa}~C0~{pa}{pa}~C0~~F0~~FC~~FC~~FC~}#049#016
+\\h{re}~F8~\p{pa}~C0~{pa}{pa}~C0~~F0~~FC~~FC~~FC~#016
+|16
+@0001C769-0001C76D-FF
+;0001C769{{pa}{pa}~10~Ú~7F~}#017#005
+{pa}{pa}~10~Ú~7F~#005
+|5
+@0001C77D-0001C784-FF
+;0001C77D{{ol}~EF~{de}{ar}Ú~FE~\~80~}#026#008
+{ol}~EF~{de}{ar}Ú~FE~\~80~#008
+|8
+@0001C79A-0001C7A4-FF
+;0001C79A{{pa}{pa}~0E~{la}?ooO~C3~Ú~FC~}#029#011
+{pa}{pa}~0E~{la}?ooO~C3~Ú~FC~#011
+|11
+@0001C7BA-0001C7C5-FF
+;0001C7BA{{pa}~40~{pa}{pa}~C0~~80~\\~A5~~F0~\~40~}#039#012
+{pa}~40~{pa}{pa}~C0~~80~\\~A5~~F0~\~40~#012
+|12
+@0001C94B-0001C954-FF
+;0001C94B{{ha}\\~80~~C0~{pa}{pa}~60~0~40~}#031#010
+{ha}\\~80~~C0~{pa}{pa}~60~0~40~#010
+|10
+@0001CA23-0001CA2F-FF
+;0001CA23{ {pa}{re}~C0~h{se}ñ~80~\\~07~\~07~}#034#013
+ {pa}{re}~C0~h{se}ñ~80~\\~07~\~07~#013
+|13
+@0001CD22-0001CD2F-FF
+;0001CD22{\{rc}~EC~~F8~~08~{ra}{re}~F0~~10~\\~01~\~01~}#044#014
+\{rc}~EC~~F8~~08~{ra}{re}~F0~~10~\\~01~\~01~#014
+|14
+@0001CE0B-0001CE1E-FF
+;0001CE0B{00{ra}0{se}{se}~04~~F8~{pa}{pa}~14~{se}{se}{pa}~1C~{pa}~B0~~B0~]~F0~}#068#020
+00{ra}0{se}{se}~04~~F8~{pa}{pa}~14~{se}{se}{pa}~1C~{pa}~B0~~B0~]~F0~#020
+|20
+@0001CF1F-0001CF2F-FF
+;0001CF1F{\\{se}~10~ {pa}{re}~C0~~60~{pa}~90~~80~\\~07~\~04~}#050#017
+\\{se}~10~ {pa}{re}~C0~~60~{pa}~90~~80~\\~07~\~04~#017
+|17
+@0001D113-0001D127-FF
+;0001D113{{pa}{pa}~10~{pa}~F0~{pa}[{pa}{se}{pa}~1C~{pa}{pa}{pa}~1C~{pa}HX~B4~P~10~}#072#021
+{pa}{pa}~10~{pa}~F0~{pa}[{pa}{se}{pa}~1C~{pa}{pa}{pa}~1C~{pa}HX~B4~P~10~#021
+|21
+@0001D30F-0001D315-FF
+;0001D30F{{pa}{pa}~F8~~F0~~08~\~FC~}#025#007
+{pa}{pa}~F8~~F0~~08~\~FC~#007
+|7
+@0001D38F-0001D394-FF
+;0001D38F{{pa}{pa}~F8~~F0~\~08~}#021#006
+{pa}{pa}~F8~~F0~\~08~#006
+|6
+@0001DCD1-0001DCDC-FF
+;0001DCD1{ \~60~~80~~90~{pa}{pa}~60~~10~~80~~80~~80~}#042#012
+ \~60~~80~~90~{pa}{pa}~60~~10~~80~~80~~80~#012
+|12
+@0001DD56-0001DD5C-FF
+;0001DD56{{pa}{pa}~60~~10~~80~~80~~80~}#028#007
+{pa}{pa}~60~~10~~80~~80~~80~#007
+|7
+@0001E3A2-0001E3B3-FF
+;0001E3A2{\p~F0~~8C~~80~ {pa}{re}~C0~\\~03~\\\~07~\~06~}#045#018
+\p~F0~~8C~~80~ {pa}{re}~C0~\\~03~\\\~07~\~06~#018
+|18
+@0001E497-0001E4A3-FF
+;0001E497{{ri}~FC~" {pa}~F0~~12~~1C~{pa}{pa}~12~]~FC~}#043#013
+{ri}~FC~" {pa}~F0~~12~~1C~{pa}{pa}~12~]~FC~#013
+|13
+@0001EE0F-0001EE2B-FF
+;0001EE0F{ {lo}A~F3~{ar}~F1~~C0~{pa}{pa}~F8~ aC~F7~{la}{de}{ta}A<~B0~~08~~1C~~06~{lo}~80~~C2~~FF~}#087#027
+ {lo}A~F3~{ar}~F1~~C0~{pa}{pa}~F8~ aC~F7~{la}{de}{ta}A<~B0~~08~~1C~~06~{lo}~80~~C2~~FF~#027
+;0001EE2A{~FB~~C5~}#008#002
+~FB~~C5~#002
+|29
+@0001EE6D-0001EE78-FF
+;0001EE6D{{pa}{pa}~C0~~80~"{ad}\~07~~03~~01~&~ED~}#039#012
+{pa}{pa}~C0~~80~"{ad}\~07~~03~~01~&~ED~#012
+|12
+@0001EE8B-0001EEAE-FF
+;0001EE8B{{tu}{tu}~7E~~F9~~BC~0{ad}~40~~80~~40~\\~01~~0F~~1D~~BC~s{il}~87~~01~{la}\~40~~80~~F9~N{to}{Ca}{or}~B0~~AA~~88~~80~ $~0A~}#120#036
+{tu}{tu}~7E~~F9~~BC~0{ad}~40~~80~~40~\\~01~~0F~~1D~~BC~s{il}~87~~01~{la}\~40~~80~~F9~N{to}{Ca}{or}~B0~~AA~~88~~80~ $~0A~#036
+|36
+@0001EEF3-0001EEFF-FF
+;0001EEF3{V  {pa}{pa}~C0~~C0~{ra}~EE~~EE~~A9~~1E~~F5~}#043#013
+V  {pa}{pa}~C0~~C0~{ra}~EE~~EE~~A9~~1E~~F5~#013
+|13
+@0001EF78-0001EF8D-FF
+;0001EF78{2 ~7F~{ar}~40~~7F~~08~{lo}~F2~~FF~}#034#010
+2 ~7F~{ar}~40~~7F~~08~{lo}~F2~~FF~#010
+;0001EF82{~FF~}#004#001
+~FF~#001
+;0001EF83{>{ar}{ri}~06~a ~7F~~F9~~40~~7F~~03~}#035#011
+>{ar}{ri}~06~a ~7F~~F9~~40~~7F~~03~#011
+|22
+@0001F129-0001F12F-FF
+;0001F129{?{la}{ta}~A5~~FE~\~07~}#022#007
+?{la}{ta}~A5~~FE~\~07~#007
+|7
+@0001F479-0001F495-FF
+;0001F479{{rr}{or}'~5F~~C3~{er}{se}~C4~~A9~~AA~~1E~F{io}~D0~{de}~AB~~F1~~1E~~0E~{ui}á~5F~7x¡~7E~~BE~:~7F~}#095#029
+{rr}{or}'~5F~~C3~{er}{se}~C4~~A9~~AA~~1E~F{io}~D0~{de}~AB~~F1~~1E~~0E~{ui}á~5F~7x¡~7E~~BE~:~7F~#029
+|29
+@0001F4C5-0001F4DE-FF
+;0001F4C5{ko{de}~BF~nr{ca}{er}~F1~~F7~~FE~dn~AF~~AF~Go{la}~EF~~FC~{ol}{ol}~5F~~7D~á~F1~}#077#026
+ko{de}~BF~nr{ca}{er}~F1~~F7~~FE~dn~AF~~AF~Go{la}~EF~~FC~{ol}{ol}~5F~~7D~á~F1~#026
+|26
+@0001F51E-0001F52D-FF
+;0001F51E{{pi}É?~FF~}#010#004
+{pi}É?~FF~#004
+;0001F522{~F1~~7F~~BF~{ia}{re}~9F~~BE~~EF~~BF~¡i~7D~}#042#012
+~F1~~7F~~BF~{ia}{re}~9F~~BE~~EF~~BF~¡i~7D~#012
+|16
+@0001F833-0001F839-FF
+;0001F833{{pa}{ng}~EE~~F6~~7F~?~1F~}#025#007
+{pa}{ng}~EE~~F6~~7F~?~1F~#007
+|7
+@0001FB60-0001FB6D-FF
+;0001FB60{y{ca}c~84~~0F~{ar}E{ar}~60~{pa}~80~~03~\~04~}#044#014
+y{ca}c~84~~0F~{ar}E{ar}~60~{pa}~80~~03~\~04~#014
+|14
+@0001FCDB-0001FD2A-FF
+;0001FCDB{{ar}{pa}~F5~~0F~~5B~>/6Q{lo}~F5~~F3~{de}~C6~{Ca}{rr}~AC~~14~~08~~F5~XB{er}~B0~bL~09~+><8y~F9~~F3~{de}{er}~F5~Zí9p~F2~{ta}~EC~{el}4t~F4~~EC~{ri}{io}¿>~F5~~A2~~14~~07~y!b~AB~~EB~t{se}{re}{or}{ri}~B9~{jo}Q~F5~ÁS{ad}~83~~ED~~89~áN~60~}#230#080
+{ar}{pa}~F5~~0F~~5B~>/6Q{lo}~F5~~F3~{de}~C6~{Ca}{rr}~AC~~14~~08~~F5~XB{er}~B0~bL~09~+><8y~F9~~F3~{de}{er}~F5~Zí9p~F2~{ta}~EC~{el}4t~F4~~EC~{ri}{io}¿>~F5~~A2~~14~~07~y!b~AB~~EB~t{se}{re}{or}{ri}~B9~{jo}Q~F5~ÁS{ad}~83~~ED~~89~áN~60~#080
+|80
+@00020091-000200A0-FF
+;00020091{{je}¨~60~{pa}~D0~{re}{jo}~B9~~F9~{pa}{pa}~C0~~C0~~C1~~81~~81~}#061#016
+{je}¨~60~{pa}~D0~{re}{jo}~B9~~F9~{pa}{pa}~C0~~C0~~C1~~81~~81~#016
+|16
+@000202A7-000202B2-FF
+;000202A7{{pa}~C0~~01~{pa}~F0~{pa}{pa}~C1~~83~~83~~EB~~40~}#048#012
+{pa}~C0~~01~{pa}~F0~{pa}{pa}~C1~~83~~83~~EB~~40~#012
+|12
+@000203A9-000203B2-FF
+;000203A9{{je}~60~0{ri}{pa}~F8~~FF~}#025#007
+{je}~60~0{ri}{pa}~F8~~FF~#007
+;000203B0{~C0~\~1E~}#009#003
+~C0~\~1E~#003
+|10
+@00020466-00020470-FF
+;00020466{¨¨{pa}~C0~{pa}{pa}~F0~~F0~~F0~~A2~~0F~}#038#011
+¨¨{pa}~C0~{pa}{pa}~F0~~F0~~F0~~A2~~0F~#011
+|11
+@000204C8-000204CC-FF
+;000204C8{{pa}{pa}~F8~8~F4~}#017#005
+{pa}{pa}~F8~8~F4~#005
+|5
+@000204DD-000204EC-FF
+;000204DD{p<>8999~FF~}#011#008
+p<>8999~FF~#008
+;000204E5{?{ta}{ar}~C3~~87~~07~~0F~~0F~}#029#008
+?{ta}{ar}~C3~~87~~07~~0F~~0F~#008
+|16
+@00020641-00020651-FF
+;00020641{{pa}{pa}~C0~~C0~~80~\\800  ~40~~80~~80~~F8~~F0~}#047#017
+{pa}{pa}~C0~~C0~~80~\\800  ~40~~80~~80~~F8~~F0~#017
+|17
+@00020653-00020659-FF
+;00020653{{pa}{pa}~C0~~80~~80~~AA~~FE~}#028#007
+{pa}{pa}~C0~~80~~80~~AA~~FE~#007
+|7
+@00020848-00020862-FF
+;00020848{p08~1F~~F8~{pa}~F0~~F0~~F0~~C0~{pa}{pa}~60~~60~~02~{je}  00~10~~10~[]~F0~?~1F~}#078#027
+p08~1F~~F8~{pa}~F0~~F0~~F0~~C0~{pa}{pa}~60~~60~~02~{je}  00~10~~10~[]~F0~?~1F~#027
+|27
+@00020A36-00020A3C-FF
+;00020A36{{ra}{se}~F4~~F2~~40~~0F~~FF~}#028#007
+{ra}{se}~F4~~F2~~40~~0F~~FF~#007
+|7
+@00020B11-00020B1D-FF
+;00020B11{?{ca}~7D~~FC~~C3~~AA~{pa}~C0~{pa}{pa}~F0~p~B0~}#046#013
+?{ca}~7D~~FC~~C3~~AA~{pa}~C0~{pa}{pa}~F0~p~B0~#013
+|13
+@00020B75-00020B88-FF
+;00020B75{{tu}{tu}~EE~~EF~ww~A2~~1E~~1C~x8<{ll}>~FC~~F8~~F8~~FE~8~F8~}#059#020
+{tu}{tu}~EE~~EF~ww~A2~~1E~~1C~x8<{ll}>~FC~~F8~~F8~~FE~8~F8~#020
+|20
+@00020C26-00020C2D-FF
+;00020C26{¡{li}{la}~1C~~F4~~FF~}#021#006
+¡{li}{la}~1C~~F4~~FF~#006
+;00020C2C{~FD~~FA~}#008#002
+~FD~~FA~#002
+|8
+@00020D03-00020D1A-FF
+;00020D03{{ar}x~F0~~F0~{pa}{pa}~C0~~80~\ ~7F~~F8~~F0~{pa}{pa}~C0~~C0~~80~\\~AA~~F0~\~0F~}#078#024
+{ar}x~F0~~F0~{pa}{pa}~C0~~80~\ ~7F~~F8~~F0~{pa}{pa}~C0~~C0~~80~\\~AA~~F0~\~0F~#024
+|24
+@00020D8F-00020D95-FF
+;00020D8F{{pa}{pa}~F0~~F8~~B8~~0F~~FF~}#028#007
+{pa}{pa}~F0~~F8~~B8~~0F~~FF~#007
+|7
+@00020ED3-00020EDC-FF
+;00020ED3{2Z~FD~~40~{ra}{ta}~F1~~10~P~10~}#031#010
+2Z~FD~~40~{ra}{ta}~F1~~10~P~10~#010
+|10
+@00020F63-00020F6B-FF
+;00020F63{{pa}{pa}~C0~~C0~~1C~{pa}~B0~ ~60~}#033#009
+{pa}{pa}~C0~~C0~~1C~{pa}~B0~ ~60~#009
+|9
+@0002100D-00021019-FF
+;0002100D{{la}{de}~F0~~FF~}#016#004
+{la}{de}~F0~~FF~#004
+;00021011{{ar}~F1~~F8~{pa}~F0~~F8~~FF~}#028#007
+{ar}~F1~~F8~{pa}~F0~~F8~~FF~#007
+;00021018{~FF~}#004#001
+~FF~#001
+;00021019{~F0~}#004#001
+~F0~#001
+|13
+@0002130E-00021315-FF
+;0002130E{{ri}{ll}~87~~0F~~0F~/!~0F~}#026#008
+{ri}{ll}~87~~0F~~0F~/!~0F~#008
+|8
+@000215E3-000215ED-FF
+;000215E3{{de}~C0~~C2~~C5~{di}{er}~C0~~BA~&7~1F~}#038#011
+{de}~C0~~C2~~C5~{di}{er}~C0~~BA~&7~1F~#011
+|11
+@000217B3-000217B9-FF
+;000217B3{{er}{er}~C3~~1F~~FF~}#020#005
+{er}{er}~C3~~1F~~FF~#005
+;000217B8{~FC~~FE~}#008#002
+~FC~~FE~#002
+|7
+@000217E5-000217F1-FF
+;000217E5{{pa}{pa}~F0~~F8~~F8~xx8~F0~~F8~~F8~~FD~~FD~}#043#013
+{pa}{pa}~F0~~F8~~F8~xx8~F0~~F8~~F8~~FD~~FD~#013
+|13
+@0002189D-000218A3-FF
+;0002189D{{pa}{pa}~F0~~F8~~F8~~FC~~7C~}#028#007
+{pa}{pa}~F0~~F8~~F8~~FC~~7C~#007
+|7
+@00021935-0002194D-FF
+;00021935{{pa}\~80~~C0~{pa}{pa}{pa}xCrÑU&b~A3~~C4~~88~~88~{pa}{pa}~F0~~F0~~F8~B~7F~}#073#025
+{pa}\~80~~C0~{pa}{pa}{pa}xCrÑU&b~A3~~C4~~88~~88~{pa}{pa}~F0~~F0~~F8~B~7F~#025
+|25
+@0002197A-0002198C-FF
+;0002197A{Iú{ng}{ca}KM~F0~{pa}{ta}~C0~~01~~01~~C0~{ta}~0F~~1F~~5F~~BF~~FF~}#064#019
+Iú{ng}{ca}KM~F0~{pa}{ta}~C0~~01~~01~~C0~{ta}~0F~~1F~~5F~~BF~~FF~#019
+|19
+@000219A4-000219AA-FF
+;000219A4{{ci}{rc}~EE~~F8~~F8~~F0~~F0~}#028#007
+{ci}{rc}~EE~~F8~~F8~~F0~~F0~#007
+|7
+@00021A13-00021A21-FF
+;00021A13{{pa}{pa}~F0~~EC~~EF~{il}~BF~9&\~10~~03~~08~]~06~}#048#015
+{pa}{pa}~F0~~EC~~EF~{il}~BF~9&\~10~~03~~08~]~06~#015
+|15
+@00021B70-00021B7B-FF
+;00021B70{{pa}{pa}~F0~{la}{la}úÁ~B1~  0~10~}#033#012
+{pa}{pa}~F0~{la}{la}úÁ~B1~  0~10~#012
+|12
+@00021B94-00021BA2-FF
+;00021B94{{ar}{ar}~F3~~FB~~FF~}#020#005
+{ar}{ar}~F3~~FB~~FF~#005
+;00021B99{\{lo}<pq~23~~A3~~A6~~F6~~F0~}#028#010
+\{lo}<pq~23~~A3~~A6~~F6~~F0~#010
+|15
+@00021CEA-00021CF9-FF
+;00021CEA{{pa}{ar}~C4~~40~{rc}~05~~08~~1B~7 ~7C~~FF~}#042#012
+{pa}{ar}~C4~~40~{rc}~05~~08~~1B~7 ~7C~~FF~#012
+;00021CF6{{de}~EF~B~EF~}#013#004
+{de}~EF~B~EF~#004
+|16
+@00021D24-00021D42-FF
+;00021D24{{se}~0E~[{pa}~60~p8]~0E~~F0~~80~~C0~{pa}{pa}~F8~~AA~~1C~B  !""~1C~H/.,((~1C~}#076#031
+{se}~0E~[{pa}~60~p8]~0E~~F0~~80~~C0~{pa}{pa}~F8~~AA~~1C~B  !""~1C~H/.,((~1C~#031
+|31
+@00021EC4-00021EDF-FF
+;00021EC4{{de}O>x~F0~~C0~~01~~02~{rc}~FA~pp~F0~~F0~{pa}{pa}~C0~~C0~NN{el}{li}~1D~~1B~00:~FE~}#082#028
+{de}O>x~F0~~C0~~01~~02~{rc}~FA~pp~F0~~F0~{pa}{pa}~C0~~C0~NN{el}{li}~1D~~1B~00:~FE~#028
+|28
+@00022108-00022114-FF
+;00022108{{ll}{er}~F2~\ 8{pa}~FC~~0E~~07~~02~8~FF~}#040#013
+{ll}{er}~F2~\ 8{pa}~FC~~0E~~07~~02~8~FF~#013
+|13
+@0002212F-0002213A-FF
+;0002212F{{ta}{pa}~F0~~F8~~FA~ 8$2~A9~a~F1~}#033#012
+{ta}{pa}~F0~~F8~~FA~ 8$2~A9~a~F1~#012
+|12
+@00022405-0002240A-FF
+;00022405{{lo}{ta}~17~~0F~?~1F~}#021#006
+{lo}{ta}~17~~0F~?~1F~#006
+|6
+@00022547-0002255C-FF
+;00022547{{je}~BB~~BB~~EF~~C4~{pa}{pa}~F0~~F3~{er}~1F~~FF~}#048#012
+{je}~BB~~BB~~EF~~C4~{pa}{pa}~F0~~F3~{er}~1F~~FF~#012
+;00022553{~40~~7F~?{pa}{pa}s?~1F~?~FF~}#028#010
+~40~~7F~?{pa}{pa}s?~1F~?~FF~#010
+|22
+@00022623-0002263C-FF
+;00022623{T38Z~FA~~F0~{ta}{pa}~D0~~B0~~F0~{pa}\~F2~{ha}{rc}{Ca}~F0~~F1~{pa}\~07~~FF~}#074#023
+T38Z~FA~~F0~{ta}{pa}~D0~~B0~~F0~{pa}\~F2~{ha}{rc}{Ca}~F0~~F1~{pa}\~07~~FF~#023
+;0002263A{~FE~~EC~~EC~}#012#003
+~FE~~EC~~EC~#003
+|26
+@000226CF-000226DD-FF
+;000226CF{?\\~03~\\~80~~C0~{ta}{de}~FF~}#029#011
+?\\~03~\\~80~~C0~{ta}{de}~FF~#011
+;000226DA{~FF~}#004#001
+~FF~#001
+;000226DB{~02~~40~~1F~}#012#003
+~02~~40~~1F~#003
+|15
+@00022EB5-00022EBB-FF
+;00022EB5{{la}{de}~F3~~FB~~FD~~FE~~89~}#028#007
+{la}{de}~F3~~FB~~FD~~FE~~89~#007
+|7
+@00022F61-00022F67-FF
+;00022F61{{la}{de}~F3~~FB~~FD~A~89~}#025#007
+{la}{de}~F3~~FB~~FD~A~89~#007
+|7
+@00022FF6-00023006-FF
+;00022FF6{{pa}\~80~~C0~{pa}~F0~~F8~ {pa}~9F~{la}{de}~F3~~FB~~89~~FF~}#058#016
+{pa}\~80~~C0~{pa}~F0~~F8~ {pa}~9F~{la}{de}~F3~~FB~~89~~FF~#016
+;00023006{~F0~}#004#001
+~F0~#001
+|17
+@00024461-00024470-FF
+;00024461{\Q~A8~{pa}\~80~~80~~C0~{pa}{pa}~7E~~FF~}#039#012
+\Q~A8~{pa}\~80~~80~~C0~{pa}{pa}~7E~~FF~#012
+;0002446D{~F8~~FE~\~FA~}#013#004
+~F8~~FE~\~FA~#004
+|16
+@00024651-0002465A-FF
+;00024651{4[~88~{pa}{la}~1C~~3B~~1C~%~11~}#031#010
+4[~88~{pa}{la}~1C~~3B~~1C~%~11~#010
+|10
+@0002466A-00024671-FF
+;0002466A{{ca}{se}~F0~{je}\~04~?~BA~}#026#008
+{ca}{se}~F0~{je}\~04~?~BA~#008
+|8
+@00024758-00024763-FF
+;00024758{{pa}{se}~AF~WP{ta}~FE~~01~~80~H/~07~}#036#012
+{pa}{se}~AF~WP{ta}~FE~~01~~80~H/~07~#012
+|12
+@000248D9-000248E8-FF
+;000248D9{{pa}{la}~FD~~FF~}#016#004
+{pa}{la}~FD~~FF~#004
+;000248DD{~F7~{il}~FC~{ol}~80~\\~01~~01~~07~~0F~~FC~}#042#012
+~F7~{il}~FC~{ol}~80~\\~01~~01~~07~~0F~~FC~#012
+|16
+@00024937-0002493C-FF
+;00024937{{pa}{pa}~AA~?>~1E~}#018#006
+{pa}{pa}~AA~?>~1E~#006
+|6
+@00024A7E-00024A97-FF
+;00024A7E{A\\~04~\\ ~0F~CABA~AB~~1E~~03~\A!~01~\\pu~A1~S~AB~}#050#026
+A\\~04~\\ ~0F~CABA~AB~~1E~~03~\A!~01~\\pu~A1~S~AB~#026
+|26
+@00024A9C-00024AAB-FF
+;00024A9C{{pa}~F8~{pa}{pa}~C0~~C0~~C0~~07~{ol}~FA~~FB~~FB~{de}~EF~ ~FE~}#061#016
+{pa}~F8~{pa}{pa}~C0~~C0~~C0~~07~{ol}~FA~~FB~~FB~{de}~EF~ ~FE~#016
+|16
+@00024B19-00024B1E-FF
+;00024B19{{pa}{pa}~C0~~80~>~1F~}#021#006
+{pa}{pa}~C0~~80~>~1F~#006
+|6
+@00024C7B-00024C87-FF
+;00024C7B{%\{je}\ {ta}{ar}~A2~{ui}{pa}~C0~p~FF~}#037#013
+%\{je}\ {ta}{ar}~A2~{ui}{pa}~C0~p~FF~#013
+|13
+@00024D2D-00024D36-FF
+;00024D2D{{pa}{pa}~81~~81~{pa}~FF~}#024#006
+{pa}{pa}~81~~81~{pa}~FF~#006
+;00024D33{~FE~~FE~~EC~~ED~}#016#004
+~FE~~FE~~EC~~ED~#004
+|10
+@00024EA1-00024EA7-FF
+;00024EA1{{pa}{pa}~FC~~FF~}#016#004
+{pa}{pa}~FC~~FF~#004
+;00024EA5{~FB~~FB~~FF~}#012#003
+~FB~~FB~~FF~#003
+|7
+@0002513D-00025141-FF
+;0002513D{{pa}{pa}~1F~ ~F0~}#017#005
+{pa}{pa}~1F~ ~F0~#005
+|5
+@000252C5-000252CE-FF
+;000252C5{{de}{pa}/~D0~Xh,~10~\~BA~}#025#010
+{de}{pa}/~D0~Xh,~10~\~BA~#010
+|10
+@00025459-00025465-FF
+;00025459{{to}Ñ~F4~~F0~{pa}{pa}~F0~~C0~{ra}~90~~F1~ ~F0~}#046#013
+{to}Ñ~F4~~F0~{pa}{pa}~F0~~C0~{ra}~90~~F1~ ~F0~#013
+|13
+@000254C1-000254C7-FF
+;000254C1{{pa}{pa}~80~~80~~80~~FE~~FF~}#028#007
+{pa}{pa}~80~~80~~80~~FE~~FF~#007
+|7
+@00025527-0002553B-FF
+;00025527{{ci}6r{pa}~C0~~60~{pa}{pa}~C1~\\~04~~1E~ñ['\{pa}~C0~ ~C0~}#057#021
+{ci}6r{pa}~C0~~60~{pa}{pa}~C1~\\~04~~1E~ñ['\{pa}~C0~ ~C0~#021
+|21
+@00025562-00025568-FF
+;00025562{{tu}{tu}~BB~{ca}~5B~p~F0~}#025#007
+{tu}{tu}~BB~{ca}~5B~p~F0~#007
+|7
+@00025759-00025768-FF
+;00025759{{ar}{ar}~EB~ck~23~~B3~~11~cc+~23~~0B~~03~~83~~01~}#049#016
+{ar}{ar}~EB~ck~23~~B3~~11~cc+~23~~0B~~03~~83~~01~#016
+|16
+@00025A78-00025AA5-FF
+;00025A78{!{la}~0F~]{je}\ ~D0~ {ra}¨¨{ra} ~F0~~08~\\~08~~0F~~FC~{pa}~F0~8{re}~07~~08~\{pa}~F0~0[{je}~04~\[[~23~0p\x~03~~1C~\~07~}#118#046
+!{la}~0F~]{je}\ ~D0~ {ra}¨¨{ra} ~F0~~08~\\~08~~0F~~FC~{pa}~F0~8{re}~07~~08~\{pa}~F0~0[{je}~04~\[[~23~0p\x~03~~1C~\~07~#046
+|46
+@00025AE9-00025B09-FF
+;00025AE9{!{la}~0F~~1C~{je}\ ~D0~ {ra}¨¨{ra} ~F0~~08~\\~08~~0F~~FC~{pa}~F0~8{re}~07~~08~\{pa}~F0~0[~EB~}#093#033
+!{la}~0F~~1C~{je}\ ~D0~ {ra}¨¨{ra} ~F0~~08~\\~08~~0F~~FC~{pa}~F0~8{re}~07~~08~\{pa}~F0~0[~EB~#033
+|33
+@00025CA4-00025CAA-FF
+;00025CA4{{pa}{pa}0~AA~~A3~\~01~}#022#007
+{pa}{pa}0~AA~~A3~\~01~#007
+|7
+@00025CC4-00025CD4-FF
+;00025CC4{{pa}{pa}0~10~~10~\\~C0~{pa}{pa}p0~F8~~FC~~FF~}#045#015
+{pa}{pa}0~10~~10~\\~C0~{pa}{pa}p0~F8~~FC~~FF~#015
+;00025CD3{~EE~~F0~}#008#002
+~EE~~F0~#002
+|17
+@0002671D-0002672B-FF
+;0002671D{0[0x~88~~10~{pa}{pa}~F0~x]~04~LÓ~02~}#036#015
+0[0x~88~~10~{pa}{pa}~F0~x]~04~LÓ~02~#015
+|15
+@00026D70-00026D7B-FF
+;00026D70{{pa}{pa}~F0~~F8~xx{je}~17~~5D~~8C~~8C~~06~}#042#012
+{pa}{pa}~F0~~F8~xx{je}~17~~5D~~8C~~8C~~06~#012
+|12
+@00026DDB-00026DE6-FF
+;00026DDB{{pa}{pa}~F0~~F8~xx8~EF~~5D~~8C~~8C~~06~}#039#012
+{pa}{pa}~F0~~F8~xx8~EF~~5D~~8C~~8C~~06~#012
+|12
+@0002733B-00027351-FF
+;0002733B{{ra}!~F8~~04~~02~0{to}{la}~9F~Í'lH \ ~17~{ll}Í~81~H!~17~}#056#023
+{ra}!~F8~~04~~02~0{to}{la}~9F~Í'lH \ ~17~{ll}Í~81~H!~17~#023
+|23
+@00027456-00027463-FF
+;00027456{{ca} {ra}{ll}~11~~82~~B7~H!{ra}0~02~0~08~}#041#014
+{ca} {ra}{ll}~11~~82~~B7~H!{ra}0~02~0~08~#014
+|14
+@00027949-00027950-FF
+;00027949{{pa}{pa}~B0~~BD~~1D~~08~\~C0~}#029#008
+{pa}{pa}~B0~~BD~~1D~~08~\~C0~#008
+|8
+@000282B8-000282FF-FF
+;000282B8{{ar}~7E~~F7~{ar}{ar}~02~{je}~BD~~EF~6YB~19~~B5~{ol}~40~{pa}~B6~~FD~~FF~}#071#020
+{ar}~7E~~F7~{ar}{ar}~02~{je}~BD~~EF~6YB~19~~B5~{ol}~40~{pa}~B6~~FD~~FF~#020
+;000282CC{~FF~}#004#001
+~FF~#001
+;000282CD{{ol}~FE~~FF~}#012#003
+{ol}~FE~~FF~#003
+;000282D0{{ol}~02~~FA~~F1~~7C~{jo}$~A9~~04~~B5~{se}~09~~85~%{tu}u~FD~~FD~{se}~7E~~FD~~F9~{se}~02~{ha}~5F~~B9~~5F~~AA~QW~AA~~FF~}#117#033
+{ol}~02~~FA~~F1~~7C~{jo}$~A9~~04~~B5~{se}~09~~85~%{tu}u~FD~~FD~{se}~7E~~FD~~F9~{se}~02~{ha}~5F~~B9~~5F~~AA~QW~AA~~FF~#033
+;000282F1{~40~{ra}~A2~{ia}~FF~}#020#005
+~40~{ra}~A2~{ia}~FF~#005
+;000282F6{~FF~}#004#001
+~FF~#001
+;000282F7{~FF~}#004#001
+~FF~#001
+;000282F8{{al}l~BD~{Ca}~BD~??~BF~}#023#008
+{al}l~BD~{Ca}~BD~??~BF~#008
+|72
+@00028514-0002851E-FF
+;00028514{{ta}{ha}~5F~~1E~~A3~\{ta}]~1A~]~FE~}#035#011
+{ta}{ha}~5F~~1E~~A3~\{ta}]~1A~]~FE~#011
+|11
+@00028813-0002881A-FF
+;00028813{{ca}u{li}~7E~~40~~1C~~7F~~7F~}#029#008
+{ca}u{li}~7E~~40~~1C~~7F~~7F~#008
+|8
+@0002910D-00029113-FF
+;0002910D{{ol}{io}<~B3~!.~FC~}#019#007
+{ol}{io}<~B3~!.~FC~#007
+|7
+@0002952E-0002954B-FF
+;0002952E{{ar}~7E~~F7~{ar}{ar}~02~{je}~BD~~EF~6YB~19~~B5~{ol}~40~{pa}~B6~~FD~~FF~}#071#020
+{ar}~7E~~F7~{ar}{ar}~02~{je}~BD~~EF~6YB~19~~B5~{ol}~40~{pa}~B6~~FD~~FF~#020
+;00029542{~FF~}#004#001
+~FF~#001
+;00029543{{ol}~FE~~FF~}#012#003
+{ol}~FE~~FF~#003
+;00029546{{ol}~02~~A1~~FF~}#016#004
+{ol}~02~~A1~~FF~#004
+;0002954A{~01~~AA~}#008#002
+~01~~AA~#002
+|30
+@00029844-0002984B-FF
+;00029844{{ca}u{li}~7E~~40~~1C~~7F~~7F~}#029#008
+{ca}u{li}~7E~~40~~1C~~7F~~7F~#008
+|8
+@0002A3E9-0002A3F2-FF
+;0002A3E9{{pa}{pa}~FA~{pa}~80~~F0~~F8~~F8~p~1C~}#037#010
+{pa}{pa}~FA~{pa}~80~~F0~~F8~~F8~p~1C~#010
+|10
+@0002A3FA-0002A401-FF
+;0002A3FA{{ta}{pa}~BD~~FF~}#016#004
+{ta}{pa}~BD~~FF~#004
+;0002A3FE{~FD~~FE~B~7B~}#013#004
+~FD~~FE~B~7B~#004
+|8
+@0002ADA5-0002ADB6-FF
+;0002ADA5{{la}{ll}~14~4d~C4~~84~~14~4t~FF~}#032#011
+{la}{ll}~14~4d~C4~~84~~14~4t~FF~#011
+;0002ADB0{~FC~~C1~{je}~02~~FA~\~BE~}#025#007
+~FC~~C1~{je}~02~~FA~\~BE~#007
+|18
+@0002B1CB-0002B1D1-FF
+;0002B1CB{{pa}{pa}~FE~~A8~~BF~\~FF~}#025#007
+{pa}{pa}~FE~~A8~~BF~\~FF~#007
+|7
+@0002B9C4-0002B9C9-FF
+;0002B9C4{{ra}{re}~EB~~FF~}#016#004
+{ra}{re}~EB~~FF~#004
+;0002B9C8{w~02~}#005#002
+w~02~#002
+|6
+@0002BA83-0002BA89-FF
+;0002BA83{{pa}{ca}~EB~~FB~~FD~~FE~~FF~}#028#007
+{pa}{ca}~EB~~FB~~FD~~FE~~FF~#007
+|7
+@0002BB9C-0002BBA0-FF
+;0002BB9C{{pa}{pa}~F0~A~F2~}#017#005
+{pa}{pa}~F0~A~F2~#005
+|5
+@0002BF3B-0002BF50-FF
+;0002BF3B{{pa}~C0~~C0~{pa}\~80~~D0~~F0~~F2~r2~12~~02~~F2~{ad}{ad}~FF~}#059#017
+{pa}~C0~~C0~{pa}\~80~~D0~~F0~~F2~r2~12~~02~~F2~{ad}{ad}~FF~#017
+;0002BF4C{~02~~F7~~F0~\~BA~}#017#005
+~02~~F7~~F0~\~BA~#005
+|22
+@0002C1D3-0002C1DF-FF
+;0002C1D3{{pa}0{re} ~7F~~1F~{er} ~D0~~EF~~C2~~F7~~BB~}#043#013
+{pa}0{re} ~7F~~1F~{er} ~D0~~EF~~C2~~F7~~BB~#013
+|13
+@0002C651-0002C667-FF
+;0002C651{[[~19~í{jo}{ta} ~F8~~80~~C0~{pa}{de}{pa}{rc}{al}f&~06~~06~~AA~~7F~\~FF~}#071#023
+[[~19~í{jo}{ta} ~F8~~80~~C0~{pa}{de}{pa}{rc}{al}f&~06~~06~~AA~~7F~\~FF~#023
+|23
+@0002C869-0002C877-FF
+;0002C869{\[{se}~F0~~90~~90~{pa}{se}~7C~~BC~{io}~40~~D0~c~05~}#051#015
+\[{se}~F0~~90~~90~{pa}{se}~7C~~BC~{io}~40~~D0~c~05~#015
+|15
+@0002C893-0002C89A-FF
+;0002C893{{pa}{pa}~C0~~C0~~80~~7F~\~03~}#029#008
+{pa}{pa}~C0~~C0~~80~~7F~\~03~#008
+|8
+@0002CC40-0002CC49-FF
+;0002CC40{{pa}{pa}~0F~~F7~{jo}{la}~EF~~EF~ ~7F~}#037#010
+{pa}{pa}~0F~~F7~{jo}{la}~EF~~EF~ ~7F~#010
+|10
+@0002CD52-0002CD58-FF
+;0002CD52{{pa}{pa}~C0~~C0~~F7~~EF~~EF~}#028#007
+{pa}{pa}~C0~~C0~~F7~~EF~~EF~#007
+|7
+@0002CDDB-0002CDDF-FF
+;0002CDDB{{pa}{ta}~FF~}#012#003
+{pa}{ta}~FF~#003
+;0002CDDE{\~B8~}#005#002
+\~B8~#002
+|5
+@0002CE2B-0002CE38-FF
+;0002CE2B{{ar}\~03~\\~80~{pa}{pa}~81~~23~~BA~~7F~\~80~}#044#014
+{ar}\~03~\\~80~{pa}{pa}~81~~23~~BA~~7F~\~80~#014
+|14
+@0002CE4E-0002CE59-FF
+;0002CE4E{\\\2~F0~{de}{il}~1F~~FF~}#024#009
+\\\2~F0~{de}{il}~1F~~FF~#009
+;0002CE57{~FF~}#004#001
+~FF~#001
+;0002CE58{~FE~~FC~}#008#002
+~FE~~FC~#002
+|12
+@0002D397-0002D39E-FF
+;0002D397{{ha}{ar}~81~~7E~~FF~}#020#005
+{ha}{ar}~81~~7E~~FF~#005
+;0002D39C{~FF~}#004#001
+~FF~#001
+;0002D39D{6~12~}#005#002
+6~12~#002
+|8
+@0002D4E5-0002D4F1-FF
+;0002D4E5{{pa}~F0~~F0~~7C~{pa}~C0~{ra}{ra}~1F~~04~~10~~08~~08~}#052#013
+{pa}~F0~~F0~~7C~{pa}~C0~{ra}{ra}~1F~~04~~10~~08~~08~#013
+|13
+@0002D68E-0002D695-FF
+;0002D68E{{pa}{pa}~FE~~FF~}#016#004
+{pa}{pa}~FE~~FF~#004
+;0002D692{~AA~~FC~\~80~}#013#004
+~AA~~FC~\~80~#004
+|8
+@0002D87C-0002D888-FF
+;0002D87C{{re}~1E~~07~~23~~7C~Á{se}{re}~F8~~FA~~FB~~FF~}#045#012
+{re}~1E~~07~~23~~7C~Á{se}{re}~F8~~FA~~FB~~FF~#012
+;0002D888{~FE~}#004#001
+~FE~#001
+|13
+@0002D918-0002D92B-FF
+;0002D918{{ol}~7F~~1F~{la}{de} ~1C~'{il}?~0F~{er}!~7F~{de}~7C~~FF~}#056#017
+{ol}~7F~~1F~{la}{de} ~1C~'{il}?~0F~{er}!~7F~{de}~7C~~FF~#017
+;0002D929{??~1F~}#006#003
+??~1F~#003
+|20
+@0002D997-0002D99C-FF
+;0002D997{{ha}{ar}~07~~1F~?~7F~}#021#006
+{ha}{ar}~07~~1F~?~7F~#006
+|6
+@0002DD56-0002DD5F-FF
+;0002DD56{{pa}!~F0~{pa}{pa}~F0~~F0~~FA~"~8C~}#034#010
+{pa}!~F0~{pa}{pa}~F0~~F0~~FA~"~8C~#010
+|10
+@0002DE4B-0002DE59-FF
+;0002DE4B{\{pa}~F0~~F8~~F8~\ {pa}{pa}~F0~~F8~~FC~~FC~\~AE~}#048#015
+\{pa}~F0~~F8~~F8~\ {pa}{pa}~F0~~F8~~FC~~FC~\~AE~#015
+|15
+@0002DF43-0002DF53-FF
+;0002DF43{!?{pa}{pa}~AA~~7F~\O\ ~0F~{la}¨~FF~}#035#014
+!?{pa}{pa}~AA~~7F~\O\ ~0F~{la}¨~FF~#014
+;0002DF51{~1F~ ~1F~}#009#003
+~1F~ ~1F~#003
+|17
+@0002E011-0002E01C-FF
+;0002E011{{pa}{pa}~F0~Xh(4~14~~0F~~FF~}#028#010
+{pa}{pa}~F0~Xh(4~14~~0F~~FF~#010
+;0002E01B{~FC~~FC~}#008#002
+~FC~~FC~#002
+|12
+@0002E1F7-0002E208-FF
+;0002E1F7{{ca}~F1~{ta}{pa}"{pa}{ll}{ol}~FF~}#033#009
+{ca}~F1~{ta}{pa}"{pa}{ll}{ol}~FF~#009
+;0002E200{{de}{ar}~AA~{pa}~07~~0F~~0F~~1F~~1F~}#036#009
+{de}{ar}~AA~{pa}~07~~0F~~0F~~1F~~1F~#009
+|18
+@0002E238-0002E23E-FF
+;0002E238{{pa}{pa}~C0~~C0~~80~~40~~0F~}#028#007
+{pa}{pa}~C0~~C0~~80~~40~~0F~#007
+|7
+@0002E277-0002E27E-FF
+;0002E277{{ar}{il}?~40~~0F~~FE~~FE~~FC~}#029#008
+{ar}{il}?~40~~0F~~FE~~FE~~FC~#008
+|8
+@0002E4E1-0002E4EF-FF
+;0002E4E1{{pa}{rc}{el}~8B~~FC~~F8~x8[[0p~FC~\~01~}#039#015
+{pa}{rc}{el}~8B~~FC~~F8~x8[[0p~FC~\~01~#015
+|15
+@0002E5BE-0002E5C2-FF
+;0002E5BE{{pa}{pa}~01~!~FE~}#017#005
+{pa}{pa}~01~!~FE~#005
+|5
+@0002E772-0002E778-FF
+;0002E772{{pa}{pa}~F0~~F0~~F8~~F8~~40~}#028#007
+{pa}{pa}~F0~~F0~~F8~~F8~~40~#007
+|7
+@0002E9B8-0002E9C2-FF
+;0002E9B8{?\{pa}~80~{ta}{la}~9F~~9F~??~7F~}#032#011
+?\{pa}~80~{ta}{la}~9F~~9F~??~7F~#011
+|11
+@0002E9CF-0002E9D6-FF
+;0002E9CF{{pa}{pa}~F0~~F0~~FC~~80~\~60~}#029#008
+{pa}{pa}~F0~~F0~~FC~~80~\~60~#008
+|8
+@0002EA32-0002EA38-FF
+;0002EA32{{pa}{pa}~C0~~C0~~A2~~F8~~FC~}#028#007
+{pa}{pa}~C0~~C0~~A2~~F8~~FC~#007
+|7
+@0002EB87-0002EBA3-FF
+;0002EB87{mW~AE~{rr}~04~~02~ \~60~~12~~AA~J ?~84~~82~~40~~FC~qq~FE~~08~{ci}{rc}~14~~C0~~02~~C0~~90~}#089#029
+mW~AE~{rr}~04~~02~ \~60~~12~~AA~J ?~84~~82~~40~~FC~qq~FE~~08~{ci}{rc}~14~~C0~~02~~C0~~90~#029
+|29
+@0002EC43-0002EC49-FF
+;0002EC43{{lo}{re}~BC~~7C~~FD~~FD~~FB~}#028#007
+{lo}{re}~BC~~7C~~FD~~FD~~FB~#007
+|7
+@0002ECD1-0002ECD7-FF
+;0002ECD1{{pa}{rc}~F4~~F0~00~04~}#022#007
+{pa}{rc}~F4~~F0~00~04~#007
+|7
+@0002ECD8-0002ECDE-FF
+;0002ECD8{{pa}{ta}~F1~~F1~~F1~1~01~}#025#007
+{pa}{ta}~F1~~F1~~F1~1~01~#007
+|7
+@0002EE64-0002EE72-FF
+;0002EE64{ {pa}{pa}~F8~~8C~~06~~02~ {ta} x~7C~~FE~!~F0~}#045#015
+ {pa}{pa}~F8~~8C~~06~~02~ {ta} x~7C~~FE~!~F0~#015
+|15
+@0002F081-0002F08C-FF
+;0002F081{{pa}{ra}~D0~~D0~~AA~~FE~{pa}¨~FE~~10~P~FF~}#042#012
+{pa}{ra}~D0~~D0~~AA~~FE~{pa}¨~FE~~10~P~FF~#012
+|12
+@0002F109-0002F10D-FF
+;0002F109{{pa}{pa}~90~P~AA~}#017#005
+{pa}{pa}~90~P~AA~#005
+|5
+@0002F1CA-0002F1D6-FF
+;0002F1CA{{pa}{pa}0~80~{se}~01~\{pa}~F0~~F0~~F8~~F8~~FC~}#046#013
+{pa}{pa}0~80~{se}~01~\{pa}~F0~~F0~~F8~~F8~~FC~#013
+|13
+@0002F200-0002F208-FF
+;0002F200{{pa}{pa}~F0~~F0~{re}~8C~~04~4~10~}#033#009
+{pa}{pa}~F0~~F0~{re}~8C~~04~4~10~#009
+|9
+@0002F3A2-0002F3A8-FF
+;0002F3A2{{pa}{se}~10~~F0~~1F~\~03~}#025#007
+{pa}{se}~10~~F0~~1F~\~03~#007
+|7
+@0002F69A-0002F6A3-FF
+;0002F69A{{pa}{pa}~80~\ ~60~~40~~40~~C1~~C1~}#034#010
+{pa}{pa}~80~\ ~60~~40~~40~~C1~~C1~#010
+|10
+@0002F6E0-0002F6E6-FF
+;0002F6E0{{ar}{ar}~F3~~F3~~FB~~FF~}#024#006
+{ar}{ar}~F3~~F3~~FB~~FF~#006
+;0002F6E6{~40~}#004#001
+~40~#001
+|7
+@0002F73A-0002F74A-FF
+;0002F73A{{lo}{to}~C0~~80~W\ ~40~~80~"CE~86~~A2~~15~W~1F~}#047#017
+{lo}{to}~C0~~80~W\ ~40~~80~"CE~86~~A2~~15~W~1F~#017
+|17
+@0002F74D-0002F753-FF
+;0002F74D{{pa}{pa}~F0~~F0~~F8~~F8~~FC~}#028#007
+{pa}{pa}~F0~~F0~~F8~~F8~~FC~#007
+|7
+@0002F9A5-0002F9B6-FF
+;0002F9A5{[8px~0F~~0E~~17~'O~02~~FF~}#026#011
+[8px~0F~~0E~~17~'O~02~~FF~#011
+;0002F9B0{{pa}{se}~F4~~F8~~FE~~FF~}#024#006
+{pa}{se}~F4~~F8~~FE~~FF~#006
+;0002F9B6{~F9~}#004#001
+~F9~#001
+|18
+@0002FA93-0002FA9A-FF
+;0002FA93{!{pa}{pa}~F0~~F8~~FC~~FC~~02~}#029#008
+!{pa}{pa}~F0~~F8~~FC~~FC~~02~#008
+|8
+@0002FB3F-0002FB4E-FF
+;0002FB3F{ú{ca}{ca}~EB~{ta}{pa}~FC~~1F~~9F~{ol}~FF~}#041#011
+ú{ca}{ca}~EB~{ta}{pa}~FC~~1F~~9F~{ol}~FF~#011
+;0002FB4A{~FF~}#004#001
+~FF~#001
+;0002FB4B{~7F~??~0F~}#010#004
+~7F~??~0F~#004
+|16
+@0002FB65-0002FB6A-FF
+;0002FB65{{je}{er}~0F~~1F~?~BF~}#021#006
+{je}{er}~0F~~1F~?~BF~#006
+|6
+@0002FC45-0002FC4F-FF
+;0002FC45{\x~08~TU{pi}~83~~05~~07~~07~~87~}#032#011
+\x~08~TU{pi}~83~~05~~07~~07~~87~#011
+|11
+@0002FDCC-0002FDDB-FF
+;0002FDCC{¨{ra}~D0~~60~~40~~C0~{ca}{rt}~F1~{lo}{jo}q{ta}~C1~\~82~}#055#016
+¨{ra}~D0~~60~~40~~C0~{ca}{rt}~F1~{lo}{jo}q{ta}~C1~\~82~#016
+|16
+@000304E8-00034009-FF
+;000304E8{Long ago, the evil=Cablon ravaged the=Copto Planet¨[]\One light-year=distant from the=Algol System.[]In defeat, Cablon=was sealed on a=colony planet¨[]\¨discovered by=Alis, and named=Alisland.[]\Now, it's AW813¨[]=¨a time of growing=unrest.[]\Alec and Mina are=two youths from=Tedo Village¨[]¨who revere the=legend of Alis=and Odin¨[]\¨as told by the=Elder who raised=Mina, an orphan.[]\One day, Mina=found an old=artifact¨[]\Mina: Hey, Alec!=Take a look at=this¨[]\Alec: Wow! That=pendant looks old,=but quite ornate.[]\Mina: I'll let=Morg examine it=later.[]\Alec: Yep, Dad's=due back with the=Laconia ore.[]\Mina: He's been=gone for weeks¨=I'm worried.[]\Alec: Me too¨=I'm also tired of=running his shop.[]\Tailor: Er¨=Excuse me¨=I-I need¨[]\Mina: Oh, Alec!=That poor man¨=He's bleeding![]\Alec: Whoa!=What happened to=you, Sir?[]\Tailor: Wa¨=Water¨=(Gasp!)[]\Mina: Here, Sir¨=Have a sip of=this.[]\Tailor: Th-Thank=you! I'm Tailor,=a couturier.[]\Mountain bandits=have been holding=me captive.[]\This man, Morg¨=from Tedo¨ he=was with me.[]Both of us made a=dash for it, but=only I escaped.[]\Alec: M-Morg¨=You mean my=father!?[]\Mina: What!?=How did this=happen!?[]\Tailor: Ambushed¨=Looking for ore¨=Same as I¨[]\Are you Alec?[]\Here, Son¨=Morg sent you=this¨[]Got Wisdom Mirror.[]\Ooooh¨ ¨[]Tailor fell=unconscious.[]\Mina: Wow! The=Elder should hear=of this![]\Alec: Indeed! I=must act fast,=too![]\Elder: Oh, Alec¨=Your face¨=What's wrong!?[]\Mina: Morg fell=into the clutches=of bandits![]\Elder: Oh my! I've=heard that those=Daedalus Bandits¨[]\¨control robots=and a lot of=strange monsters![]\Alec: Doesn't=matter¨ I'm going=after him![]\Elder: (Sigh)=Well, see Old Rob=before you go.[]\You'll need a few=supplies outside=of the village.[]\Got Short Sword.[]Got Wood Cane.[]Got Leather=Armor.[]Got 50 Meseta.[]\Mina: Come, Alec,=let's find Old Rob=without delay![]\Old Rob: Wow!!=Alec and Mina,=You have brought[]us peace![]\Alec: I wonder¨=Is it ever really=safe?[]\Alis: Don't worry=about it, Dear¨[]\This planet should=be secure now.[]However, a greater=evil is awakening¨[]\Not in Copto¨=Still, I must¨[]\Mina: Oh, Mother!=How can you¨[]\abandon me again,=like this!?[]\Alis: ¨¨[]\Alis: Oh, Alec,=watch over Mina¨[]\Take care of=each other¨[]\I love you, Mina![]Someday we'll have=a long talk¨[]\Meanwhile, I must=try to save the=Algos system from[]this new menace![\CTC/Magic Team   =  \                 =  \Translation      =  \          Faraday=  \\List Translation =  \          Faraday=  \          Musashi=  \         Wildbill=  \\Hacking          =  \        Taskforce=  \\Utils programmer =  \        Taskforce=  \\Script Editing   =  \         Wildbill=  \\Special Thanks   =  \             Adol=  \             imid=  \  Spiffmaster Cow=  \     The End     =  \ got[\Empty![\Locked![\Opened![\Alec's Mom:=Welcome Home! You=must rest now.[]\Be careful, Son.[]\Alec's Mom:=Oh my! Run to the=church quickly![]\Alec's Mom:=Welcome back, Son.=Go see Old Rob.[]\Mina: Come Alec,[]let's go visit=Old Rob first![]\Old Rob: I've=already heard=about Morg¨[]Oh¨[]Wow! Could that be=the legendary=Light Pendant!?[]\It surely looks=like the one in=the Old Tome![]How did you young=whippersnappers=get ahold of it?[]\Well, anyway¨=A prophecy reads=that two souls¨[]¨shall acquire=the Pendant, then=save our planet¨[]\Whoa!! Could it be=YOU mentioned in=the prophecy!?[]Go west¨[]Find the Scroll=of Truth![]\Check the cave,=then return here![]You'll need this.=Use it to warp=back to town.[]Got a Telepipe.[]\Fetch me that=Scroll of Truth![]\Old Rob: Ah!!=An old parchment¨[]How odd¨ Mina's=name is written=here¨[]\What!? It also=reads that Mina=is of Alis¨[]and Alec is her=champion¨[]\These Chosen=shall seal the=Evil¨[]Wow!! You'll=journey far¨=confront Cablon¨[]and vanquish him![]\Alec: Whoa! Not=so fast, Sir¨[]My only concern=is for my dad.[]\Mina: Either way,=you're not leaving=me behind![]\Oh, absolutely!=You must be Alis's=descendant![]\Find Dirk¨=my elder brother.[]He'll know what=to do.[]\Also, look for the=three Laconia=weapons.[]\And the Bracelet=of Kura¨=Don't forget!![]\Got the Scroll=of Truth.[]\Mina: This is it.[]Now, let's hurry=back to Old Rob.[]\Ah, visitors![]How about a ride?=Only 30 Meseta¨[]\Yes\No\Aw c'mon!\Damn! A bunch of=cheapskates¨=(mutter¨)[]\Yo, travellers¨=enjoy the tour!\Popo's Teacher:=You've done well.[]I know all about=your mission.[]\Take this item=that Popo stole,[]and good luck![]\Got a World Map![]\Guard: I can't=allow you in the=ancient ruins¨[]By the way, my=weakness is Ouzo.[]\Guard: Oh! Is=that Ouzo? Wow![]For me? Thanks![]\What! You still=want inside? Oh,=if you insist¨[]\Guard: Boy, do I=LOVE Ouzo!![]\Do you want your=fortune told?[]\Yes\No\Short of Meseta.[]\I can use tarots=only once.[]\How about a=reading?[]\I can help solve=your problems.[]\Close the sluice=to stop the river=from flowing.[]\Find Dirk in the=Lost Forest¨ 3=right and 2 left.[]\A wee enemy will=join~3B~ a big one=will guide.[]A boat will appear=when the Master is=found. Take this¨[]Got the Bracelet=of Kura.[]\Don't consult me=unless you're=having trouble.[]\Dirk: Hello! I¨=ah¨ er¨ seem to=be lost![]\Mina: Sir, we're=looking for Old=Rob's brother¨[]¨a fellow called=Dirk.[]\Dirk: Why¨=Hey, I'm Dirk![]\Alec: We need to=close the sluice.[]\Dirk: Hmm¨=Only if you help=me get home.[]I seem to have=used up all of my=magic![]\My house is in=the center of=the forest.[]\Mina: Of course,=we'll help you=get home.[]\Dirk joined.[]\Found the Diary¨=Will you record=your journey?[]\Dirk: I'm in=your debt¨[]Let's go close=that sluice![]\Got Sluice Key.[]\Dirk: Which way=should we turn=the valve?[]\Right\Left\Done\I'm becoming=forgetful![]\It's closing.[]\The sluice is=already closed.[]\Guard: Hey! The=Daedalus mine is[]off limits![]\Daedalus: I am=the servant of[]Cablon¨[]Leave now¨=or perish!![]\Daedalus: Wha¨?=I can't move! Must=find the Master![]\Cablon must be=defeated now![]\Alec: What's going=on here?[]He's changed his=tune completely![]\Mina: Shut up!=He's trying to=say something¨[]\Daedalus: You=there! Turn the=knob in my ear¨[]¨right side![]\I must find the=Master¨ help one=called Mina¨[]\Alec: What's he=babbling about=now?[]\Dirk: It's not=babble¨ Rob told=me a story once¨[]\This must be the=Guardian of=Alis's Champion![]\Mina: What? You=mean he's on our=side?[]\Dirk: Could be¨=Then again, maybe=not¨[]\Alec: Thank you=for being so=definite![]\Dirk: Oh, don't=be a worry wart![]He's too beat up=to harm us.[]\Mina: Well Dirk,=do something,=will ya!?[]\Dirk repaired=the robot.[]\Daedalus: Oh my¨=Thank you!! I'm=actually Lars.[]\My program? Find=Mina of Tedo¨[]The Master awaits¨=Cave of Mizurina¨=Must hurry¨[]\Mina: But I-I'm=Mina of Tedo¨[]\Lars: Then SHOW=me your Light=Pendant![]\Mina: What?=You mean this=old relic?[]\Lars: YES!!=You ARE the=Chosen![]Come now¨[]The Master awaits.=We must vanquish=the Evil![]\I am your guide.[]\Morg: Ohhh!! My=son? Is that you,=Alec?[]\Alec: F-father!?[]\Morg: Oh, Alec!=I thought I was=a goner![]\I'll save the=rest¨ Alec, take=Mina home now.[]\Mina: Sorry,=Sir¨ but I have=another mission¨[]¨and I'm taking=Alec with me.[]\Alec: Say what!?[]\Dirk: Ahem¨ well¨=I'll leave you two=to sort this out¨[]\Meanwhile, I'll=go visit Rob in=Tedo.[]\Dirk left and=Lars joined.[]\Mina: What's=that thing!?[]\Alec: Er¨ looks=sort of like a=cryonic vault.[]\Lars reversed=the cryogenics=control system¨[]Alis emerged¨[]\Lars: Oh,=Master![]\Alis: Brrr¨=Oh hi, Lars¨=Find Mina yet?[]\Mina: You¨?=Are you¨?[]\Alis: Oh, Mina¨=Yes, my dear, I=AM your mother.[]\You have done well=to come this far.[]\Our reunion was=preordained by=prophesy¨[]It was I who=created the=Scroll of Truth.[]\You too, Alec¨=We were destined=to meet.[]Now, we shall go=forth and defeat=the evil Cablon.[]\Lars transformed=into a Land Rover.=Alis joined.[]\Mina: This place=is INFESTED with=monsters![]\Lars: Go then¨=I'll mop up here.[]\Lars left.[]\Lars: The odds=overwhelm¨ We'll=return later.[]\Cablon: Hi-Ho,=little heroes!=Welcome![]\That Lars-gizmo=thingy helped me=regain my power![]\Alis: Cablon, you=will strangle on=that power¨[]¨with your dying=breath!![]\Cablon: Whoa!!=Some gall¨[]Say! How about a=a deal? I'll give=you this planet![]\Alec: A deal!!?[]Please NO, Ma'am!=He's hurt too many=good people!![]\Cablon: Bwahaha!!=Fools!![]\Cablon attacked!![]\Cablon was slain![]Alec: Oh, my Lady=Alis, we did it!=We REALLY did it![]\Alis: Yes, Dear,=thanks to YOU and=my lovely Mina![]She has been so=ALONE, I know![]\Mina: No,=Mother¨ I've=never been alone.[]\Alis: Ah yes,=your wonderful=man, Alec¨[]\Mina: Yes¨[]\Lars: Er¨=Master![]The monsters have=all vanished![]\Alis: It was=Cablon's evil that=spawned them.[]\Mina: Oh, Lars,=you're all beat=up again![]\Lars: Ah¨=need rest¨ get=Mr. Dirk and¨[]Sproing!! (Lars=malfunctioned.)[]\Alis: Let's hurry=back to Tedo.[]\This is a Gypsy=encampment¨[]Hot, isn't it?[\Welcome to Mektor.[\This is Tinyville.[]We were growing=until recently![\This is Karkato.[\Welcome to Porum.[]Tarrytown is on=the other side.[\This is Tarrytown¨[]donut capital of=the world![\What a relief![\Many thanks![\Peace, at last![\The western cave=is crawling with[]monsters![\I'm scared to[]walk in the=countryside![\Oh, Alec, you're=all grown up![\Find an ATV¨[]¨to cross the=scorching desert.[\Oh no¨ we've been=routed![\Thanks, Alec.[\Mina, it's so nice=to meet your mom![\What a relief![\Peace, at last![\Daedalus has=nabbed some=more people![\The church lady=can revive ailing=heroes.[\Fight slimes while=you're weak, until=you increase HP.[\Elder: Do your=best![\What!? Daedalus=joined our side?[\Mina, I'm so happy=you found your[]mother.[\I'll never take=peace for granted,[]again![\Elder: You're our=heroes![\Morg crossed the=southern desert.[\The Laconian sword[]can slice through=anything.[\You can't just=trot across the[]desert.[\Porum lies beyond=the desert.[\The Laconian=Shield will=stop any sword.[\Our fortuneteller=is very wise.[\How's Old Rob=doing in Tedo?[\Oh, this awful=drought! Pray=for rain![\I run tours.[\Morg headed toward=Karkato.[\Wow! You really[]scared the crap=out of me![\I never talk to=strangers.[\Look for a Map in=Tinyville.[\Trade in your old=items for cash![\Take a tour=out front.[\Trading goods is=risky business.[\Tinyville? Head=upstream a ways.[\Are you from Tedo?[\The Ancient Ruins=lie to the south,=but are guarded.[\A hermit lives in=the mountains.[\Go visit Popo's=museum![\Popo's a complete=jerk![\Nice day, huh?[\I'm the clever=Popo. I'll use=the Map to make¨[]¨lots of money![\We have seven=towns on this=planet.[\Popo's teacher=lives in the=mountains.[\Popo's Map has=been stolen![\Our village is=very poor now.[\We are fishermen=without boats![\You wish to buy=some Ouzo? Hmm¨[\Have you seen my=husband?[\At night, I hear=a dreadful voice=across the lake.[\Our special local=liqueur is Ouzo,=like licorice![\Wah! The monsters=sank our boats![\We're idle without=our boats.[\The lousy bandits=destroyed our[]bridge![\My daughter got=stranded on the[]other side![\Try a Tarrytown=jelly donut![\Those northern=bandits are a[]bloody lot![\Search all of the=old mines in the[]north, thoroughly.[\My daughter came=home safely![\Have a donut![\The sluice is=upstream a bit.[\The Lost Forest=is south of=Mizurin Hill.[\Dirk has the=gatehouse key.[\No one has ever=returned from=the Lost Forest.[\Did you open=the sluice?[\Wow! You people=are amazing![\Please stay in=our town![\Are you Alis?[\Aaargh¨![]I thought you=were bandits![\Watch out for=bandits in the[]north![\I will build[]the bridge much=stronger.[\Our specialty=is pastries![\Thanks, Alec¨=You're the MAN!![\You're ALL=heroes![\What? Daedalus was=on our side all[]the time!?[\Oh, Mina! You=were amazing![\Did Alis come=from this town?[\Don't stray too=far away¨ Bandits=are afoot.[\Alis is our idol![\There's a lake=across the river¨=very mysterious![\The mines were=once rich in=Laconia ore.[\It's been fairly=quiet around here=recently.[\Why is the sky=so blue these=days?[\Buy\Sell\End\Yes\End\Meseta\Not enough money.[]\My pleasure![]\May I help you?[]\Anything else?\Thanks![]\=Not enough money.[]\Come Again![]\ is for=level \, Still=want it?\\\\We don't deal=in that item.=\You have nothing.\\\\Who will use it?\That person=has it already.=\ is for=level \, Still=want it?\Who will sell=a spell?\That person has=no spells.\Are you conscious=now?[]\God is watching=over you.=May I help?\\God be with you.[\Pray\Save\Exit\ is=re-animated![]\But no one needs=a miracle.[]\Choose a slot=to save.\Recorded![]\Sav1\Sav2\Sav3\\For two people,=\For three people,=\ meseta to=stay, is that OK?\\Stay\]Rest well![\]Have a safe=journey![]\Atk\Mag\Def\Run\Item\the party\Mina\Alec\Dirk\Lars\Alis\Monsters\ with¨[=\Mina\Alec\Dirk\Lars\Alis\HP:\MP:\ found!\'s \ took=\ and=\ zapped=\ used=\=drew near.\ =attacked.[=\Attack where?\ is=attacked[\'s=brain is warped.[=\ is=attacked[\.\Can't use.\Not here.\MP too low.\Level too low.\Spells can be=used now.\.[\Can't use.\Not here.\ =defended.\ =ran away!\Can't Escape!\ =ran away!\Can't run!\Hogman: Sorry![\Hogman split![\ =increased \\ HP.[\'s HP did=not go up.[\'s=spells are muted!\'s=strength is down.\'s brain=is warped.\'s brain is=NOT warped.\'s strength=increased.\'s strength=doubled![\but it was=fatal!\'s HP is=full!\ HP.=to everyone.[\ MP.[\'s speed=went up.[\\\ damage.[\Missed!\ =was defeated!\ took=flight!\ has=died!\ is=dead¨\ was=revived!\ is NOT=dead!\'s time=is frozen.\'s time=is frozen.\ is stunned!\ is still=stunned¨\ is NOT=stunned.\ is NOT=stunned.\ is=frozen!\ is=frozen!\ is NOT=frozen.\ is=frozen!\ Meseta=earned.\ EXP.[\'s Level=increased![\ found.\Cablon:  Aarrgg¨=Wha¨? No¨!=Not like this¨[]Hah! Sucker!![]\Cablon's HP=is full again![\Cablon ¨¨[\Ah, the Bracelet=of Kura¨ Hmmm¨[\\Heal\Quinine\Flaeli\Relocate\Rope\Protect\Terror\MindWarp\Hewn\Leave\Bi-heal\DejaVu\Mobile\Power\Tandle\Martyr\Medice\Repel\Bash\Time\MegaHeal\Adol\Miracle\Luminant\\\\\\\~A2~Wood\~A1~Short\~A1~Iron\~A3~Psycho\~A1~Silver\~A4~Iron\~A1~Titanium\~A1~Ceramic\~A5~Stun\~A6~Heat\~A6~Laser\~A1~Bastard\~AC~Rapier\~AC~Slasher\~A4~Pole\~A4~Battle\~A1~Laconian\\\\~A8~Leather\~A9~White\~A8~Light\~A8~Iron\~A9~Wind\~A8~Reflect\~A9~Magic\~A8~Draconia\~A9~Royal\~A8~Diamond\~A9~Frade\~A8~Laconian\\\\\\\\\~AA~Leather\~AA~Iron\~AA~Ceramic\~AA~Perseus\~AA~Laser\~AA~Laconian\\\\\~AB~Monomate\~AB~Dimate\~AB~Torch\~B0~Escapipe\~AB~Raise\~AB~Trimate\~AB~Cure\~AE~Laser\~AB~Sage\~B5~Spirit\~AE~Patriot\~B7~Jet\~B0~Call\~AB~Needle\~AB~Bait\~B1~Flash\~B1~Typhoon\~AB~Ouzo\~AB~Policy\~AB~Net\~B6~Wisdom\~B5~Light\~B0~Telepipe\~B2~Truth\~B2~Map\~B3~Cave\~AF~ATV\~B3~Sluice\~B4~Kura\\\\\\\\\\\\Inspiration\Crystal Ball\Tarot Cards\ \Mina\Alec\Dirk\Lars\Alis\End\\\\Status\Item\Magic\Equip\Order\Speed\End\Spd\Eqp==End\Use==End\LEVEL\EXP\MST\HP\MP\/\STR\INT\AGL\PRT\WEAPON \ ARMOR \SHIELD \\'s HP went[]up by \'s MP went[]up by \ points.[\Level too low.[\MP too low.[\The door opened.[\ is dead!\ is dead![\ is NOT[]dead![\ has been[]revived![\\ is stunned!\ is stunned![\ is NOT[]stunned![\ has been[]reenergized![\\[]equipped.[\ works=by carrying it![\Can't be used![\Not here![\Not now![\ doesn't[]know spells![\Can't be used![\Not here![\Not now![\\The writing makes=no sense![\ is NOT[]equipped.[\Next level \Rem==End\d\[\Next level \Rem==End\evel \Rem==End\\\\\\\\\\\\\\\\\\\\\\\\\{ar}\{to}~01~~BD~~02~~A5~~03~}#15354#15138
+Long ago, the evil=Cablon ravaged the=Copto Planet¨[]\One light-year=distant from the=Algol System.[]In defeat, Cablon=was sealed on a=colony planet¨[]\¨discovered by=Alis, and named=Alisland.[]\Now, it's AW813¨[]=¨a time of growing=unrest.[]\Alec and Mina are=two youths from=Tedo Village¨[]¨who revere the=legend of Alis=and Odin¨[]\¨as told by the=Elder who raised=Mina, an orphan.[]\One day, Mina=found an old=artifact¨[]\Mina: Hey, Alec!=Take a look at=this¨[]\Alec: Wow! That=pendant looks old,=but quite ornate.[]\Mina: I'll let=Morg examine it=later.[]\Alec: Yep, Dad's=due back with the=Laconia ore.[]\Mina: He's been=gone for weeks¨=I'm worried.[]\Alec: Me too¨=I'm also tired of=running his shop.[]\Tailor: Er¨=Excuse me¨=I-I need¨[]\Mina: Oh, Alec!=That poor man¨=He's bleeding![]\Alec: Whoa!=What happened to=you, Sir?[]\Tailor: Wa¨=Water¨=(Gasp!)[]\Mina: Here, Sir¨=Have a sip of=this.[]\Tailor: Th-Thank=you! I'm Tailor,=a couturier.[]\Mountain bandits=have been holding=me captive.[]\This man, Morg¨=from Tedo¨ he=was with me.[]Both of us made a=dash for it, but=only I escaped.[]\Alec: M-Morg¨=You mean my=father!?[]\Mina: What!?=How did this=happen!?[]\Tailor: Ambushed¨=Looking for ore¨=Same as I¨[]\Are you Alec?[]\Here, Son¨=Morg sent you=this¨[]Got Wisdom Mirror.[]\Ooooh¨ ¨[]Tailor fell=unconscious.[]\Mina: Wow! The=Elder should hear=of this![]\Alec: Indeed! I=must act fast,=too![]\Elder: Oh, Alec¨=Your face¨=What's wrong!?[]\Mina: Morg fell=into the clutches=of bandits![]\Elder: Oh my! I've=heard that those=Daedalus Bandits¨[]\¨control robots=and a lot of=strange monsters![]\Alec: Doesn't=matter¨ I'm going=after him![]\Elder: (Sigh)=Well, see Old Rob=before you go.[]\You'll need a few=supplies outside=of the village.[]\Got Short Sword.[]Got Wood Cane.[]Got Leather=Armor.[]Got 50 Meseta.[]\Mina: Come, Alec,=let's find Old Rob=without delay![]\Old Rob: Wow!!=Alec and Mina,=You have brought[]us peace![]\Alec: I wonder¨=Is it ever really=safe?[]\Alis: Don't worry=about it, Dear¨[]\This planet should=be secure now.[]However, a greater=evil is awakening¨[]\Not in Copto¨=Still, I must¨[]\Mina: Oh, Mother!=How can you¨[]\abandon me again,=like this!?[]\Alis: ¨¨[]\Alis: Oh, Alec,=watch over Mina¨[]\Take care of=each other¨[]\I love you, Mina![]Someday we'll have=a long talk¨[]\Meanwhile, I must=try to save the=Algos system from[]this new menace![\CTC/Magic Team   =  \                 =  \Translation      =  \          Faraday=  \\List Translation =  \          Faraday=  \          Musashi=  \         Wildbill=  \\Hacking          =  \        Taskforce=  \\Utils programmer =  \        Taskforce=  \\Script Editing   =  \         Wildbill=  \\Special Thanks   =  \             Adol=  \             imid=  \  Spiffmaster Cow=  \     The End     =  \ got[\Empty![\Locked![\Opened![\Alec's Mom:=Welcome Home! You=must rest now.[]\Be careful, Son.[]\Alec's Mom:=Oh my! Run to the=church quickly![]\Alec's Mom:=Welcome back, Son.=Go see Old Rob.[]\Mina: Come Alec,[]let's go visit=Old Rob first![]\Old Rob: I've=already heard=about Morg¨[]Oh¨[]Wow! Could that be=the legendary=Light Pendant!?[]\It surely looks=like the one in=the Old Tome![]How did you young=whippersnappers=get ahold of it?[]\Well, anyway¨=A prophecy reads=that two souls¨[]¨shall acquire=the Pendant, then=save our planet¨[]\Whoa!! Could it be=YOU mentioned in=the prophecy!?[]Go west¨[]Find the Scroll=of Truth![]\Check the cave,=then return here![]You'll need this.=Use it to warp=back to town.[]Got a Telepipe.[]\Fetch me that=Scroll of Truth![]\Old Rob: Ah!!=An old parchment¨[]How odd¨ Mina's=name is written=here¨[]\What!? It also=reads that Mina=is of Alis¨[]and Alec is her=champion¨[]\These Chosen=shall seal the=Evil¨[]Wow!! You'll=journey far¨=confront Cablon¨[]and vanquish him![]\Alec: Whoa! Not=so fast, Sir¨[]My only concern=is for my dad.[]\Mina: Either way,=you're not leaving=me behind![]\Oh, absolutely!=You must be Alis's=descendant![]\Find Dirk¨=my elder brother.[]He'll know what=to do.[]\Also, look for the=three Laconia=weapons.[]\And the Bracelet=of Kura¨=Don't forget!![]\Got the Scroll=of Truth.[]\Mina: This is it.[]Now, let's hurry=back to Old Rob.[]\Ah, visitors![]How about a ride?=Only 30 Meseta¨[]\Yes\No\Aw c'mon!\Damn! A bunch of=cheapskates¨=(mutter¨)[]\Yo, travellers¨=enjoy the tour!\Popo's Teacher:=You've done well.[]I know all about=your mission.[]\Take this item=that Popo stole,[]and good luck![]\Got a World Map![]\Guard: I can't=allow you in the=ancient ruins¨[]By the way, my=weakness is Ouzo.[]\Guard: Oh! Is=that Ouzo? Wow![]For me? Thanks![]\What! You still=want inside? Oh,=if you insist¨[]\Guard: Boy, do I=LOVE Ouzo!![]\Do you want your=fortune told?[]\Yes\No\Short of Meseta.[]\I can use tarots=only once.[]\How about a=reading?[]\I can help solve=your problems.[]\Close the sluice=to stop the river=from flowing.[]\Find Dirk in the=Lost Forest¨ 3=right and 2 left.[]\A wee enemy will=join~3B~ a big one=will guide.[]A boat will appear=when the Master is=found. Take this¨[]Got the Bracelet=of Kura.[]\Don't consult me=unless you're=having trouble.[]\Dirk: Hello! I¨=ah¨ er¨ seem to=be lost![]\Mina: Sir, we're=looking for Old=Rob's brother¨[]¨a fellow called=Dirk.[]\Dirk: Why¨=Hey, I'm Dirk![]\Alec: We need to=close the sluice.[]\Dirk: Hmm¨=Only if you help=me get home.[]I seem to have=used up all of my=magic![]\My house is in=the center of=the forest.[]\Mina: Of course,=we'll help you=get home.[]\Dirk joined.[]\Found the Diary¨=Will you record=your journey?[]\Dirk: I'm in=your debt¨[]Let's go close=that sluice![]\Got Sluice Key.[]\Dirk: Which way=should we turn=the valve?[]\Right\Left\Done\I'm becoming=forgetful![]\It's closing.[]\The sluice is=already closed.[]\Guard: Hey! The=Daedalus mine is[]off limits![]\Daedalus: I am=the servant of[]Cablon¨[]Leave now¨=or perish!![]\Daedalus: Wha¨?=I can't move! Must=find the Master![]\Cablon must be=defeated now![]\Alec: What's going=on here?[]He's changed his=tune completely![]\Mina: Shut up!=He's trying to=say something¨[]\Daedalus: You=there! Turn the=knob in my ear¨[]¨right side![]\I must find the=Master¨ help one=called Mina¨[]\Alec: What's he=babbling about=now?[]\Dirk: It's not=babble¨ Rob told=me a story once¨[]\This must be the=Guardian of=Alis's Champion![]\Mina: What? You=mean he's on our=side?[]\Dirk: Could be¨=Then again, maybe=not¨[]\Alec: Thank you=for being so=definite![]\Dirk: Oh, don't=be a worry wart![]He's too beat up=to harm us.[]\Mina: Well Dirk,=do something,=will ya!?[]\Dirk repaired=the robot.[]\Daedalus: Oh my¨=Thank you!! I'm=actually Lars.[]\My program? Find=Mina of Tedo¨[]The Master awaits¨=Cave of Mizurina¨=Must hurry¨[]\Mina: But I-I'm=Mina of Tedo¨[]\Lars: Then SHOW=me your Light=Pendant![]\Mina: What?=You mean this=old relic?[]\Lars: YES!!=You ARE the=Chosen![]Come now¨[]The Master awaits.=We must vanquish=the Evil![]\I am your guide.[]\Morg: Ohhh!! My=son? Is that you,=Alec?[]\Alec: F-father!?[]\Morg: Oh, Alec!=I thought I was=a goner![]\I'll save the=rest¨ Alec, take=Mina home now.[]\Mina: Sorry,=Sir¨ but I have=another mission¨[]¨and I'm taking=Alec with me.[]\Alec: Say what!?[]\Dirk: Ahem¨ well¨=I'll leave you two=to sort this out¨[]\Meanwhile, I'll=go visit Rob in=Tedo.[]\Dirk left and=Lars joined.[]\Mina: What's=that thing!?[]\Alec: Er¨ looks=sort of like a=cryonic vault.[]\Lars reversed=the cryogenics=control system¨[]Alis emerged¨[]\Lars: Oh,=Master![]\Alis: Brrr¨=Oh hi, Lars¨=Find Mina yet?[]\Mina: You¨?=Are you¨?[]\Alis: Oh, Mina¨=Yes, my dear, I=AM your mother.[]\You have done well=to come this far.[]\Our reunion was=preordained by=prophesy¨[]It was I who=created the=Scroll of Truth.[]\You too, Alec¨=We were destined=to meet.[]Now, we shall go=forth and defeat=the evil Cablon.[]\Lars transformed=into a Land Rover.=Alis joined.[]\Mina: This place=is INFESTED with=monsters![]\Lars: Go then¨=I'll mop up here.[]\Lars left.[]\Lars: The odds=overwhelm¨ We'll=return later.[]\Cablon: Hi-Ho,=little heroes!=Welcome![]\That Lars-gizmo=thingy helped me=regain my power![]\Alis: Cablon, you=will strangle on=that power¨[]¨with your dying=breath!![]\Cablon: Whoa!!=Some gall¨[]Say! How about a=a deal? I'll give=you this planet![]\Alec: A deal!!?[]Please NO, Ma'am!=He's hurt too many=good people!![]\Cablon: Bwahaha!!=Fools!![]\Cablon attacked!![]\Cablon was slain![]Alec: Oh, my Lady=Alis, we did it!=We REALLY did it![]\Alis: Yes, Dear,=thanks to YOU and=my lovely Mina![]She has been so=ALONE, I know![]\Mina: No,=Mother¨ I've=never been alone.[]\Alis: Ah yes,=your wonderful=man, Alec¨[]\Mina: Yes¨[]\Lars: Er¨=Master![]The monsters have=all vanished![]\Alis: It was=Cablon's evil that=spawned them.[]\Mina: Oh, Lars,=you're all beat=up again![]\Lars: Ah¨=need rest¨ get=Mr. Dirk and¨[]Sproing!! (Lars=malfunctioned.)[]\Alis: Let's hurry=back to Tedo.[]\This is a Gypsy=encampment¨[]Hot, isn't it?[\Welcome to Mektor.[\This is Tinyville.[]We were growing=until recently![\This is Karkato.[\Welcome to Porum.[]Tarrytown is on=the other side.[\This is Tarrytown¨[]donut capital of=the world![\What a relief![\Many thanks![\Peace, at last![\The western cave=is crawling with[]monsters![\I'm scared to[]walk in the=countryside![\Oh, Alec, you're=all grown up![\Find an ATV¨[]¨to cross the=scorching desert.[\Oh no¨ we've been=routed![\Thanks, Alec.[\Mina, it's so nice=to meet your mom![\What a relief![\Peace, at last![\Daedalus has=nabbed some=more people![\The church lady=can revive ailing=heroes.[\Fight slimes while=you're weak, until=you increase HP.[\Elder: Do your=best![\What!? Daedalus=joined our side?[\Mina, I'm so happy=you found your[]mother.[\I'll never take=peace for granted,[]again![\Elder: You're our=heroes![\Morg crossed the=southern desert.[\The Laconian sword[]can slice through=anything.[\You can't just=trot across the[]desert.[\Porum lies beyond=the desert.[\The Laconian=Shield will=stop any sword.[\Our fortuneteller=is very wise.[\How's Old Rob=doing in Tedo?[\Oh, this awful=drought! Pray=for rain![\I run tours.[\Morg headed toward=Karkato.[\Wow! You really[]scared the crap=out of me![\I never talk to=strangers.[\Look for a Map in=Tinyville.[\Trade in your old=items for cash![\Take a tour=out front.[\Trading goods is=risky business.[\Tinyville? Head=upstream a ways.[\Are you from Tedo?[\The Ancient Ruins=lie to the south,=but are guarded.[\A hermit lives in=the mountains.[\Go visit Popo's=museum![\Popo's a complete=jerk![\Nice day, huh?[\I'm the clever=Popo. I'll use=the Map to make¨[]¨lots of money![\We have seven=towns on this=planet.[\Popo's teacher=lives in the=mountains.[\Popo's Map has=been stolen![\Our village is=very poor now.[\We are fishermen=without boats![\You wish to buy=some Ouzo? Hmm¨[\Have you seen my=husband?[\At night, I hear=a dreadful voice=across the lake.[\Our special local=liqueur is Ouzo,=like licorice![\Wah! The monsters=sank our boats![\We're idle without=our boats.[\The lousy bandits=destroyed our[]bridge![\My daughter got=stranded on the[]other side![\Try a Tarrytown=jelly donut![\Those northern=bandits are a[]bloody lot![\Search all of the=old mines in the[]north, thoroughly.[\My daughter came=home safely![\Have a donut![\The sluice is=upstream a bit.[\The Lost Forest=is south of=Mizurin Hill.[\Dirk has the=gatehouse key.[\No one has ever=returned from=the Lost Forest.[\Did you open=the sluice?[\Wow! You people=are amazing![\Please stay in=our town![\Are you Alis?[\Aaargh¨![]I thought you=were bandits![\Watch out for=bandits in the[]north![\I will build[]the bridge much=stronger.[\Our specialty=is pastries![\Thanks, Alec¨=You're the MAN!![\You're ALL=heroes![\What? Daedalus was=on our side all[]the time!?[\Oh, Mina! You=were amazing![\Did Alis come=from this town?[\Don't stray too=far away¨ Bandits=are afoot.[\Alis is our idol![\There's a lake=across the river¨=very mysterious![\The mines were=once rich in=Laconia ore.[\It's been fairly=quiet around here=recently.[\Why is the sky=so blue these=days?[\Buy\Sell\End\Yes\End\Meseta\Not enough money.[]\My pleasure![]\May I help you?[]\Anything else?\Thanks![]\=Not enough money.[]\Come Again![]\ is for=level \, Still=want it?\\\\We don't deal=in that item.=\You have nothing.\\\\Who will use it?\That person=has it already.=\ is for=level \, Still=want it?\Who will sell=a spell?\That person has=no spells.\Are you conscious=now?[]\God is watching=over you.=May I help?\\God be with you.[\Pray\Save\Exit\ is=re-animated![]\But no one needs=a miracle.[]\Choose a slot=to save.\Recorded![]\Sav1\Sav2\Sav3\\For two people,=\For three people,=\ meseta to=stay, is that OK?\\Stay\]Rest well![\]Have a safe=journey![]\Atk\Mag\Def\Run\Item\the party\Mina\Alec\Dirk\Lars\Alis\Monsters\ with¨[=\Mina\Alec\Dirk\Lars\Alis\HP:\MP:\ found!\'s \ took=\ and=\ zapped=\ used=\=drew near.\ =attacked.[=\Attack where?\ is=attacked[\'s=brain is warped.[=\ is=attacked[\.\Can't use.\Not here.\MP too low.\Level too low.\Spells can be=used now.\.[\Can't use.\Not here.\ =defended.\ =ran away!\Can't Escape!\ =ran away!\Can't run!\Hogman: Sorry![\Hogman split![\ =increased \\ HP.[\'s HP did=not go up.[\'s=spells are muted!\'s=strength is down.\'s brain=is warped.\'s brain is=NOT warped.\'s strength=increased.\'s strength=doubled![\but it was=fatal!\'s HP is=full!\ HP.=to everyone.[\ MP.[\'s speed=went up.[\\\ damage.[\Missed!\ =was defeated!\ took=flight!\ has=died!\ is=dead¨\ was=revived!\ is NOT=dead!\'s time=is frozen.\'s time=is frozen.\ is stunned!\ is still=stunned¨\ is NOT=stunned.\ is NOT=stunned.\ is=frozen!\ is=frozen!\ is NOT=frozen.\ is=frozen!\ Meseta=earned.\ EXP.[\'s Level=increased![\ found.\Cablon:  Aarrgg¨=Wha¨? No¨!=Not like this¨[]Hah! Sucker!![]\Cablon's HP=is full again![\Cablon ¨¨[\Ah, the Bracelet=of Kura¨ Hmmm¨[\\Heal\Quinine\Flaeli\Relocate\Rope\Protect\Terror\MindWarp\Hewn\Leave\Bi-heal\DejaVu\Mobile\Power\Tandle\Martyr\Medice\Repel\Bash\Time\MegaHeal\Adol\Miracle\Luminant\\\\\\\~A2~Wood\~A1~Short\~A1~Iron\~A3~Psycho\~A1~Silver\~A4~Iron\~A1~Titanium\~A1~Ceramic\~A5~Stun\~A6~Heat\~A6~Laser\~A1~Bastard\~AC~Rapier\~AC~Slasher\~A4~Pole\~A4~Battle\~A1~Laconian\\\\~A8~Leather\~A9~White\~A8~Light\~A8~Iron\~A9~Wind\~A8~Reflect\~A9~Magic\~A8~Draconia\~A9~Royal\~A8~Diamond\~A9~Frade\~A8~Laconian\\\\\\\\\~AA~Leather\~AA~Iron\~AA~Ceramic\~AA~Perseus\~AA~Laser\~AA~Laconian\\\\\~AB~Monomate\~AB~Dimate\~AB~Torch\~B0~Escapipe\~AB~Raise\~AB~Trimate\~AB~Cure\~AE~Laser\~AB~Sage\~B5~Spirit\~AE~Patriot\~B7~Jet\~B0~Call\~AB~Needle\~AB~Bait\~B1~Flash\~B1~Typhoon\~AB~Ouzo\~AB~Policy\~AB~Net\~B6~Wisdom\~B5~Light\~B0~Telepipe\~B2~Truth\~B2~Map\~B3~Cave\~AF~ATV\~B3~Sluice\~B4~Kura\\\\\\\\\\\\Inspiration\Crystal Ball\Tarot Cards\ \Mina\Alec\Dirk\Lars\Alis\End\\\\Status\Item\Magic\Equip\Order\Speed\End\Spd\Eqp==End\Use==End\LEVEL\EXP\MST\HP\MP\/\STR\INT\AGL\PRT\WEAPON \ ARMOR \SHIELD \\'s HP went[]up by \'s MP went[]up by \ points.[\Level too low.[\MP too low.[\The door opened.[\ is dead!\ is dead![\ is NOT[]dead![\ has been[]revived![\\ is stunned!\ is stunned![\ is NOT[]stunned![\ has been[]reenergized![\\[]equipped.[\ works=by carrying it![\Can't be used![\Not here![\Not now![\ doesn't[]know spells![\Can't be used![\Not here![\Not now![\\The writing makes=no sense![\ is NOT[]equipped.[\Next level \Rem==End\d\[\Next level \Rem==End\evel \Rem==End\\\\\\\\\\\\\\\\\\\\\\\\\{ar}\{to}~01~~BD~~02~~A5~~03~#15138
+|15138
+@000341FE-00034214-FF
+;000341FE{ñ{ra}p{ic}~AD~~7B~~F5~b{rc}~F8~p{ic}~A1~q{ta}B~84~{ra}p~1F~\¨~40~}#065#023
+ñ{ra}p{ic}~AD~~7B~~F5~b{rc}~F8~p{ic}~A1~q{ta}B~84~{ra}p~1F~\¨~40~#023
+|23
+@0003454C-00034564-FF
+;0003454C{5m{rr}~7C~{se}{ci}~EC~~1D~~3D~~7D~{je}~FC~{ra}~8C~{ci}!h~19~{to}{re}~8C~{ci}~FE~y~3D~}#085#025
+5m{rr}~7C~{se}{ci}~EC~~1D~~3D~~7D~{je}~FC~{ra}~8C~{ci}!h~19~{to}{re}~8C~{ci}~FE~y~3D~#025
+|25
+@00034590-0003459B-FF
+;00034590{!{er}~EF~{er}~AA~!{ta}{ng}~BA~~7C~8~FE~}#039#012
+!{er}~EF~{er}~AA~!{ta}{ng}~BA~~7C~8~FE~#012
+|12
+@0003488D-00034893-FF
+;0003488D{{er}{er}~FF~}#012#003
+{er}{er}~FF~#003
+;00034890{~10~~7F~~FF~}#012#003
+~10~~7F~~FF~#003
+;00034893{~7C~}#004#001
+~7C~#001
+|7
+@000349A3-000349AE-FF
+;000349A3{!{pa}{pa}~F0~~F0~~F8~~FC~{pa}~10~~60~¨~D0~}#042#012
+!{pa}{pa}~F0~~F0~~F8~~FC~{pa}~10~~60~¨~D0~#012
+|12
+@000349E7-000349F1-FF
+;000349E7{{pa}{pa}~FF~}#012#003
+{pa}{pa}~FF~#003
+;000349EA{{ol}~FF~}#008#002
+{ol}~FF~#002
+;000349EC{{ol}~F0~~7F~~9F~~FB~~04~}#024#006
+{ol}~F0~~7F~~9F~~FB~~04~#006
+|11
+@00034B6B-00034B75-FF
+;00034B6B{{il}~03~~83~{er}{er}~FF~}#024#006
+{il}~03~~83~{er}{er}~FF~#006
+;00034B71{~10~~AA~~C3~\~08~}#017#005
+~10~~AA~~C3~\~08~#005
+|11
+@00034E24-00034E3A-FF
+;00034E24{{re}{ri}~FC~~7E~{la}{ng}~5B~~F7~~A6~~0F~\z<<[~F0~~FF~}#053#017
+{re}{ri}~FC~~7E~{la}{ng}~5B~~F7~~A6~~0F~\z<<[~F0~~FF~#017
+;00034E35{~BF~~BE~¿ñ!~0B~}#015#006
+~BF~~BE~¿ñ!~0B~#006
+|23
+@00034F01-00034F1A-FF
+;00034F01{!{pa}{to}~BA~~B1~~A3~~02~"{de}\~88~*{pa}[~10~~10~~10~\\~01~~01~~05~~05~* ~FE~}#077#026
+!{pa}{to}~BA~~B1~~A3~~02~"{de}\~88~*{pa}[~10~~10~~10~\\~01~~01~~05~~05~* ~FE~#026
+|26
+@0003508D-0003509A-FF
+;0003508D{{jo}{ta}~7C~~1E~~ED~~EE~{je}{rc}{al}~FE~~7F~~9F~~1D~~1E~}#056#014
+{jo}{ta}~7C~~1E~~ED~~EE~{je}{rc}{al}~FE~~7F~~9F~~1D~~1E~#014
+|14
+@00035156-00035169-FF
+;00035156{x\~FC~~C2~{rc}~BA~~F3~\H$~40~~80~{pa}{re}l~B6~~FE~\!~7B~}#056#020
+x\~FC~~C2~{rc}~BA~~F3~\H$~40~~80~{pa}{re}l~B6~~FE~\!~7B~#020
+|20
+@0003525A-0003526F-FF
+;0003525A{{de}{ll}~1E~~1C~8\~0F~4{jo}r{ad}{rc}{ra}\~0F~:{ha}~8A~~1A~~14~(~FE~}#067#022
+{de}{ll}~1E~~1C~8\~0F~4{jo}r{ad}{rc}{ra}\~0F~:{ha}~8A~~1A~~14~(~FE~#022
+|22
+@000352E7-000352F6-FF
+;000352E7{{ar}{ar}~F3~~FA~~12~{ri}~BC~~B8~88éé~EE~~AA~L~5C~}#049#016
+{ar}{ar}~F3~~FA~~12~{ri}~BC~~B8~88éé~EE~~AA~L~5C~#016
+|16
+@0003532E-0003533E-FF
+;0003532E{{ar}{ar}{al}~B5~{ca}{de}~FF~}#028#007
+{ar}{ar}{al}~B5~{ca}{de}~FF~#007
+;00035335{~FF~}#004#001
+~FF~#001
+;00035336{{ar}b!<~7F~~7E~~FF~}#019#007
+{ar}b!<~7F~~7E~~FF~#007
+;0003533D{~FF~}#004#001
+~FF~#001
+;0003533E{~BE~}#004#001
+~BE~#001
+|17
+@00035BA2-00035BAD-FF
+;00035BA2{{ar}{ad}~A2~~12~~11~~11~{el}~AF~~EF~~EE~~A6~~16~}#048#012
+{ar}{ad}~A2~~12~~11~~11~{el}~AF~~EF~~EE~~A6~~16~#012
+|12
+@00035D68-00035D6F-FF
+;00035D68{{er}{se}~F0~~FC~~AA~~F0~\~80~}#029#008
+{er}{se}~F0~~FC~~AA~~F0~\~80~#008
+|8
+@00035ED7-00035EDE-FF
+;00035ED7{{ar}{ad}Ñ~0E~~FB~~08~~0F~~0F~}#029#008
+{ar}{ad}Ñ~0E~~FB~~08~~0F~~0F~#008
+|8
+@000361D6-000361E2-FF
+;000361D6{{se}{al}~40~~1F~ggo{pa}~7F~~FF~}#031#010
+{se}{al}~40~~1F~ggo{pa}~7F~~FF~#010
+;000361E0{~FF~}#004#001
+~FF~#001
+;000361E1{~FF~}#004#001
+~FF~#001
+;000361E2{~F9~}#004#001
+~F9~#001
+|13
+@0003626A-00036289-FF
+;0003626A{dd~FF~}#006#003
+dd~FF~#003
+;0003626D{~F7~~FB~~F7~{ca}{de}~FF~}#024#006
+~F7~~FB~~F7~{ca}{de}~FF~#006
+;00036273{~FF~}#004#001
+~FF~#001
+;00036274{{ca}~EF~~7E~Z<d{je}~F7~~F7~~F6~~B6~7oN~1C~~10~{tu}~FF~}#054#018
+{ca}~EF~~7E~Z<d{je}~F7~~F7~~F6~~B6~7oN~1C~~10~{tu}~FF~#018
+;00036286{~FE~~EF~~EE~~FF~}#016#004
+~FE~~EF~~EE~~FF~#004
+|32
+@000364BD-000364C6-FF
+;000364BD{{pa}{pa}~07~~F0~~04~DT~5C~x~1F~}#031#010
+{pa}{pa}~07~~F0~~04~DT~5C~x~1F~#010
+|10
+@00036828-0003682D-FF
+;00036828{{ra}{se}~BA~~FB~\~01~}#021#006
+{ra}{se}~BA~~FB~\~01~#006
+|6
+@000368AC-000368C7-FF
+;000368AC{{ra}{se}"Ú~C0~~60~~F0~{re}~FE~~10~~10~  !C~40~F!AGGN~8C~~9F~~9F~/O~5E~}#070#028
+{ra}{se}"Ú~C0~~60~~F0~{re}~FE~~10~~10~  !C~40~F!AGGN~8C~~9F~~9F~/O~5E~#028
+|28
+@00036924-00036935-FF
+;00036924{Í{er}~FE~99{Ca}U{er}(~10~~01~{er}{er}~EF~~EE~~FE~!~7E~}#054#018
+Í{er}~FE~99{Ca}U{er}(~10~~01~{er}{er}~EF~~EE~~FE~!~7E~#018
+|18
+@00036BC0-00036BD9-FF
+;00036BC0{{ra}~FC~~F8~~FF~}#016#004
+{ra}~FC~~F8~~FF~#004
+;00036BC4{~EF~o?{je}~02~~04~~08~\\~01~~01~~11~&ÍFO{il}~83~~AB~~40~8~FF~}#061#022
+~EF~o?{je}~02~~04~~08~\\~01~~01~~11~&ÍFO{il}~83~~AB~~40~8~FF~#022
+|26
+@00036CE2-00036CF6-FF
+;00036CE2{{ra}{se}~80~~C0~{pa}{pa}~F0~~B0~8[~FF~}#038#011
+{ra}{se}~80~~C0~{pa}{pa}~F0~~B0~8[~FF~#011
+;00036CED{~10~~10~  !B~40~F?~5F~}#022#010
+~10~~10~  !B~40~F?~5F~#010
+|21
+@00037032-00037041-FF
+;00037032{{rc}~BA~~F3~\H$~C0~~80~{pa}{re}l~B6~~FE~\!~7B~}#046#016
+{rc}~BA~~F3~\H$~C0~~80~{pa}{re}l~B6~~FE~\!~7B~#016
+|16
+@00037234-0003723A-FF
+;00037234{{ad}{ad}~C2~~A8~~FC~~84~~84~}#028#007
+{ad}{ad}~C2~~A8~~FC~~84~~84~#007
+|7
+@00037381-00037392-FF
+;00037381{{pa}~B0~~BC~~C6~~C3~{di}{er}~F7~~EE~[4,~08~~10~~10~~01~\~40~}#060#018
+{pa}~B0~~BC~~C6~~C3~{di}{er}~F7~~EE~[4,~08~~10~~10~~01~\~40~#018
+|18
+@0003743D-00037446-FF
+;0003743D{{ui}~EB~~EB~{ha}{de}~F8~~F8~~FF~}#032#008
+{ui}~EB~~EB~{ha}{de}~F8~~F8~~FF~#008
+;00037445{~AA~~F0~}#008#002
+~AA~~F0~#002
+|10
+@00037596-000375AA-FF
+;00037596{\\~B4~{io}{ta}~82~{rc}~B8~~F8~~F8~<{ad}~01~~82~d[~F8~~08~"C~FC~}#063#021
+\\~B4~{io}{ta}~82~{rc}~B8~~F8~~F8~<{ad}~01~~82~d[~F8~~08~"C~FC~#021
+|21
+@0003767A-0003768A-FF
+;0003767A{{ha}{ha}=~09~~13~~17~~17~{je}~FD~~01~~F1~{ta}~C3~~83~~1B~~FB~~40~}#065#017
+{ha}{ha}=~09~~13~~17~~17~{je}~FD~~01~~F1~{ta}~C3~~83~~1B~~FB~~40~#017
+|17
+@00037698-000376A5-FF
+;00037698{{rc}~8C~{je}~5F~~C0~{er}~C3~{ta}{pa}~EC~~EF~~40~~FC~~1F~}#056#014
+{rc}~8C~{je}~5F~~C0~{er}~C3~{ta}{pa}~EC~~EF~~40~~FC~~1F~#014
+|14
+@000376CE-000376DF-FF
+;000376CE{{rc}{ar}Á~10~{ra}{ra}* ~1F~~FC~~F8~p!?]~88~!~7F~}#048#018
+{rc}{ar}Á~10~{ra}{ra}* ~1F~~FC~~F8~p!?]~88~!~7F~#018
+|18
+@000380E4-000380EE-FF
+;000380E4{{ra}{se}~A4~~A4~~B4~\p~B8~X,~1C~}#032#011
+{ra}{se}~A4~~A4~~B4~\p~B8~X,~1C~#011
+|11
+@000381B1-000381BF-FF
+;000381B1{{li}~0B~~5B~{de}{er}~07~Cc~AA~~1E~~C0~~B0~¨¨~40~}#048#015
+{li}~0B~~5B~{de}{er}~07~Cc~AA~~1E~~C0~~B0~¨¨~40~#015
+|15
+@00038211-0003821E-FF
+;00038211{{lo}{ie}{ie}~F0~¨{pa}{pa}~A3~{rt}~B1~~B1~~40~~40~~80~}#053#014
+{lo}{ie}{ie}~F0~¨{pa}{pa}~A3~{rt}~B1~~B1~~40~~40~~80~#014
+|14
+@00038415-0003841B-FF
+;00038415{{ha}{re}~F0~~F8~~F1~~F9~~F9~}#028#007
+{ha}{re}~F0~~F8~~F1~~F9~~F9~#007
+|7
+@0003841D-00038459-FF
+;0003841D{yA~C2~~FA~~01~{je}>~FE~~FE~?{ol}{io}~D0~{pi}é~07~~1F~~0F~{er}{la}{la}~40~~F8~{ta}~AF~~AC~~01~~EE~¿\\CCBA~80~~07~{pa}~80~~C0~{la}{rc}{rc}!~9F~~90~~88~~88~{li}É~13~C{pa}~C0~{ar}~F0~~F0~~F0~~BE~=~04~}#196#061
+yA~C2~~FA~~01~{je}>~FE~~FE~?{ol}{io}~D0~{pi}é~07~~1F~~0F~{er}{la}{la}~40~~F8~{ta}~AF~~AC~~01~~EE~¿\\CCBA~80~~07~{pa}~80~~C0~{la}{rc}{rc}!~9F~~90~~88~~88~{li}É~13~C{pa}~C0~{ar}~F0~~F0~~F0~~BE~=~04~#061
+|61
+@000385BD-000385C1-FF
+;000385BD{{ra}{to}~0A~ ~F0~}#017#005
+{ra}{to}~0A~ ~F0~#005
+|5
+@00038682-00038692-FF
+;00038682{{or}~B4~~B6~go{la}~BE~{rt}~8B~~1B~~19~<7w~FF~}#045#015
+{or}~B4~~B6~go{la}~BE~{rt}~8B~~1B~~19~<7w~FF~#015
+;00038691{\~90~}#005#002
+\~90~#002
+|17
+@0003874B-00038756-FF
+;0003874B{{rt}a8[\\ {pa}{ta}~7E~:~16~}#027#012
+{rt}a8[\\ {pa}{ta}~7E~:~16~#012
+|12
+@00038942-00038948-FF
+;00038942{{se}{re}~D0~~D0~¨¨~60~}#022#007
+{se}{re}~D0~~D0~¨¨~60~#007
+|7
+@00038BD6-00038BE1-FF
+;00038BD6{IP~88~~10~~B8~{se}{re}~D0~~D0~¨¨~60~}#036#012
+IP~88~~10~~B8~{se}{re}~D0~~D0~¨¨~60~#012
+|12
+@00038DD6-00038DDA-FF
+;00038DD6{{se}{re}~40~p~40~}#017#005
+{se}{re}~40~p~40~#005
+|5
+@00038E4F-00038E6A-FF
+;00038E4F{VVÍú~8B~~89~~FE~0121"~01~~02~\{ra}{re}{re}~F8~~F0~~F0~{pa}{pa}~7F~~7E~~7D~~7E~~7D~}#082#028
+VVÍú~8B~~89~~FE~0121"~01~~02~\{ra}{re}{re}~F8~~F0~~F0~{pa}{pa}~7F~~7E~~7D~~7E~~7D~#028
+|28
+@00038F27-00038F2E-FF
+;00038F27{¿{pa}{pa}~F0~~F8~~FC~~FF~}#025#007
+¿{pa}{pa}~F0~~F8~~FC~~FF~#007
+;00038F2E{~FF~}#004#001
+~FF~#001
+|8
+@00039362-00039376-FF
+;00039362{{tu}{tu}~FF~}#012#003
+{tu}{tu}~FF~#003
+;00039365{{ar}{ar}.~FF~}#013#004
+{ar}{ar}.~FF~#004
+;00039369{~7F~~7F~{tu}~7F~~BF~:\¨ ~80~~80~""~82~}#038#014
+~7F~~7F~{tu}~7F~~BF~:\¨ ~80~~80~""~82~#014
+|21
+@0003960C-0003961C-FF
+;0003960C{X{re}{ic}{ic}{je}{je}J{ra}~F2~~C2~{ad}{ad}~C0~~BE~~07~ ~12~}#059#017
+X{re}{ic}{ic}{je}{je}J{ra}~F2~~C2~{ad}{ad}~C0~~BE~~07~ ~12~#017
+|17
+@00039A61-00039A7B-FF
+;00039A61{:eá!{ri}~0F~~7F~~FF~}#020#008
+:eá!{ri}~0F~~7F~~FF~#008
+;00039A69{~FA~>Ac"A{ar}~C1~~80~~C1~~FF~}#029#011
+~FA~>Ac"A{ar}~C1~~80~~C1~~FF~#011
+;00039A74{{ar}{ar}~A2~{ia}~F7~~FF~}#024#006
+{ar}{ar}~A2~{ia}~F7~~FF~#006
+;00039A7A{!~F4~}#005#002
+!~F4~#002
+|27
+@00039AD2-00039ADF-FF
+;00039AD2{{pa}{ta}{ta}~EE~x \[[~08~~04~~1C~8~7E~}#038#014
+{pa}{ta}{ta}~EE~x \[[~08~~04~~1C~8~7E~#014
+|14
+@00039E20-00039E2D-FF
+;00039E20{!x0{ci}{rr}{io}~F0~{pa}{pa}~F8~~F0~~F4~~FA~~F2~}#047#014
+!x0{ci}{rr}{io}~F0~{pa}{pa}~F8~~F0~~F4~~FA~~F2~#014
+|14
+@0003A585-0003A592-FF
+;0003A585{{ca}{de}!~7F~~FF~}#017#005
+{ca}{de}!~7F~~FF~#005
+;0003A58A{~EE~\\A~82~~11~!B~1C~}#021#009
+~EE~\\A~82~~11~!B~1C~#009
+|14
+@0003A674-0003A681-FF
+;0003A674{\\~80~~80~~C0~~C0~{pa}{pa}!~FC~~60~~60~"~F2~}#044#014
+\\~80~~80~~C0~~C0~{pa}{pa}!~FC~~60~~60~"~F2~#014
+|14
+@0003A713-0003A719-FF
+;0003A713{{se}{re}~F8~~40~~87~~89~~10~}#028#007
+{se}{re}~F8~~40~~87~~89~~10~#007
+|7
+@0003A8AF-0003A8C1-FF
+;0003A8AF{{pa}{pa}~10~{pa}{pa}~60~~60~~40~~EB~{ll}{rr}~5E~~5C~~5C~~1C~(08~BF~}#067#019
+{pa}{pa}~10~{pa}{pa}~60~~60~~40~~EB~{ll}{rr}~5E~~5C~~5C~~1C~(08~BF~#019
+|19
+@0003A8C5-0003A8D4-FF
+;0003A8C5{{ol}{la}!~F8~~7F~~5F~OM99~3B~22~16~]~AA~}#040#016
+{ol}{la}!~F8~~7F~~5F~OM99~3B~22~16~]~AA~#016
+|16
+@0003AD41-0003AD48-FF
+;0003AD41{{ra}{se}~FC~~FE~~40~~90~0~40~}#029#008
+{ra}{se}~FC~~FE~~40~~90~0~40~#008
+|8
+@0003AD9B-0003ADA6-FF
+;0003AD9B{{or}{ca}~5C~~FF~}#016#004
+{or}{ca}~5C~~FF~#004
+;0003AD9F{~F8~~F8~{ad}~81~~60~~C1~~A1~~60~}#032#008
+~F8~~F8~{ad}~81~~60~~C1~~A1~~60~#008
+|12
+@0003AEB5-0003AEBB-FF
+;0003AEB5{{pa}{pa}~FA~~0F~~07~~0B~~1C~}#028#007
+{pa}{pa}~FA~~0F~~07~~0B~~1C~#007
+|7
+@0003B262-0003B278-FF
+;0003B262{{rr}¿.~17~gO{li} ~87~~FE~{io}~BE~7\\1a{jo}~F8~~B8~~F0~~F0~~FE~}#062#023
+{rr}¿.~17~gO{li} ~87~~FE~{io}~BE~7\\1a{jo}~F8~~B8~~F0~~F0~~FE~#023
+|23
+@0003C7AB-0003C7BB-FF
+;0003C7AB{{to}{to}~8C~[\~08~~0E~~08~~08~x{ll}x\~60~\ñ~A2~}#047#017
+{to}{to}~8C~[\~08~~0E~~08~~08~x{ll}x\~60~\ñ~A2~#017
+|17
+@0003C87D-0003C884-FF
+;0003C87D{{pa}{pa} ~C1~~40~~D0~~B0~~D0~}#029#008
+{pa}{pa} ~C1~~40~~D0~~B0~~D0~#008
+|8
+@0003C891-0003C89B-FF
+;0003C891{ {pa}~EF~{de}{ar}!~8B~   ~EB~}#029#011
+ {pa}~EF~{de}{ar}!~8B~   ~EB~#011
+|11
+@0003C98A-0003C992-FF
+;0003C98A{{de}{er} ~F8~~AC~~A4~~86~ ~FE~}#030#009
+{de}{er} ~F8~~AC~~A4~~86~ ~FE~#009
+|9
+@0003C9B0-0003C9D0-FF
+;0003C9B0{¨Q{ll}~40~\\~FF~}#016#007
+¨Q{ll}~40~\\~FF~#007
+;0003C9B7{~FF~}#004#001
+~FF~#001
+;0003C9B8{{ol}~EE~{pa}{ta}{ar}{pa}~B1~{ll}~F1~~FF~}#040#010
+{ol}~EE~{pa}{ta}{ar}{pa}~B1~{ll}~F1~~FF~#010
+;0003C9C2{~EE~{pa}{ta}¨>~C0~~B1~{ll}~80~>¨{re}~B8~x~F8~}#045#015
+~EE~{pa}{ta}¨>~C0~~B1~{ll}~80~>¨{re}~B8~x~F8~#015
+|33
+@0003CBEB-0003CC0B-FF
+;0003CBEB{{pa}{pa}{ar}{de}~EE~~EE~~EF~~F3~{pa}~60~{ad}{ar}~EE~{se}{al}~F7~~C0~~40~~40~BDHBA~AE~W\~10~~08~~08~6<~FB~}#105#033
+{pa}{pa}{ar}{de}~EE~~EE~~EF~~F3~{pa}~60~{ad}{ar}~EE~{se}{al}~F7~~C0~~40~~40~BDHBA~AE~W\~10~~08~~08~6<~FB~#033
+|33
+@0003CE9F-0003CEB2-FF
+;0003CE9F{{pa}{pa}~C1~~81~ {ar}A~81~~01~!{ar}{ta}~C1~~81~{je}T~A2~H¨~40~}#062#020
+{pa}{pa}~C1~~81~ {ar}A~81~~01~!{ar}{ta}~C1~~81~{je}T~A2~H¨~40~#020
+|20
+@0003CEEE-0003CEF8-FF
+;0003CEEE{{pa}{pa}~B0~~60~\ ~F9~0\!~F9~}#029#011
+{pa}{pa}~B0~~60~\ ~F9~0\!~F9~#011
+|11
+@0003CF26-0003CF33-FF
+;0003CF26{uo{ol}~BF~~7B~~EB~~40~{pa}{pa}~F8~~FD~~FE~~FF~}#046#013
+uo{ol}~BF~~7B~~EB~~40~{pa}{pa}~F8~~FD~~FE~~FF~#013
+;0003CF33{~FF~}#004#001
+~FF~#001
+|14
+@0003D16C-0003D173-FF
+;0003D16C{{pa}{pa}~F0~~F8~~EC~~F6~\~40~}#029#008
+{pa}{pa}~F0~~F8~~EC~~F6~\~40~#008
+|8
+@0003D23B-0003D244-FF
+;0003D23B{{pa}~40~0{to}~C0~{pa}{pa}~60~\~AA~}#034#010
+{pa}~40~0{to}~C0~{pa}{pa}~60~\~AA~#010
+|10
+@0003D24F-0003D253-FF
+;0003D24F{{la}{de}~F1~\~01~}#017#005
+{la}{de}~F1~\~01~#005
+|5
+@0003D376-0003D37D-FF
+;0003D376{ {se}pt~FA~~FD~(~40~}#020#008
+ {se}pt~FA~~FD~(~40~#008
+|8
+@0003D544-0003D54C-FF
+;0003D544{{pa}{pa}~C0~~3B~\ ~10~ ~B8~}#027#009
+{pa}{pa}~C0~~3B~\ ~10~ ~B8~#009
+|9
+@0003D859-0003D86F-FF
+;0003D859{\\~40~{pa}>~7C~{lo}~3B~c ~7F~~B0~{je}>5z~F4~{se}P{pa}~C1~ ~FE~}#062#023
+\\~40~{pa}>~7C~{lo}~3B~c ~7F~~B0~{je}>5z~F4~{se}P{pa}~C1~ ~FE~#023
+|23
+@0003D913-0003D91B-FF
+;0003D913{{re}~90~~D0~~C0~{pa}{ha}~F9~\~01~}#033#009
+{re}~90~~D0~~C0~{pa}{ha}~F9~\~01~#009
+|9
+@0003DBB0-0003DBBB-FF
+;0003DBB0{{ol}{ci}g$~0F~~0F~ {di}{ol}~EF~w~A9~}#036#012
+{ol}{ci}g$~0F~~0F~ {di}{ol}~EF~w~A9~#012
+|12
+@0003DF3D-0003DF5A-FF
+;0003DF3D{' ~FB~{il}\ ~C1~~FF~}#020#008
+' ~FB~{il}\ ~C1~~FF~#008
+;0003DF45{~FF~}#004#001
+~FF~#001
+;0003DF46{{pa}{la}~9F~~AA~d{pa}~C0~\\~F8~~FC~\\ ~07~{la}~EF~~EF~~FF~}#058#019
+{pa}{la}~9F~~AA~d{pa}~C0~\\~F8~~FC~\\ ~07~{la}~EF~~EF~~FF~#019
+;0003DF59{~1E~~AA~}#008#002
+~1E~~AA~#002
+|30
+@0003DFFF-0003E004-FF
+;0003DFFF{ {pa}{rc}~F4~p~F8~}#018#006
+ {pa}{rc}~F4~p~F8~#006
+|6
+@0003E061-0003E06F-FF
+;0003E061{ {pa}~01~~08~{rc}~FA~~F2~ {pa}{ta}~F9~~FC~~FE~~F6~~1F~}#054#015
+ {pa}~01~~08~{rc}~FA~~F2~ {pa}{ta}~F9~~FC~~FE~~F6~~1F~#015
+|15
+@0003E0E6-0003E0EC-FF
+;0003E0E6{{ci}{rc}~F0~~FE~~1D~=~05~}#025#007
+{ci}{rc}~F0~~FE~~1D~=~05~#007
+|7
+@0003E160-0003E17A-FF
+;0003E160{og~F0~~80~~C0~~C0~{pa}{pa}~FC~00[[~0F~~0F~Gc~0F~{il}{er}{er}{pa}{pa}¨~90~?~BF~}#078#027
+og~F0~~80~~C0~~C0~{pa}{pa}~FC~00[[~0F~~0F~Gc~0F~{il}{er}{er}{pa}{pa}¨~90~?~BF~#027
+|27
+@0003E188-0003E194-FF
+;0003E188{{pa}{pa}~F1~{re}ñ<<>~1E~~1E~~07~~FE~~F3~}#040#013
+{pa}{pa}~F1~{re}ñ<<>~1E~~1E~~07~~FE~~F3~#013
+|13
+@0003E38E-0003E393-FF
+;0003E38E{{pa}{pa}~C0~~80~A~F8~}#021#006
+{pa}{pa}~C0~~80~A~F8~#006
+|6
+@0003E471-0003E47F-FF
+;0003E471{{al}~C4~{ci}{ri}~F8~{pa}{pa}~01~~16~{la}~F3~~BF~~BF~~9F~~9F~}#060#015
+{al}~C4~{ci}{ri}~F8~{pa}{pa}~01~~16~{la}~F3~~BF~~BF~~9F~~9F~#015
+|15
+@0003E696-0003E6A5-FF
+;0003E696{{ra}{se}~11~{je}~FC~~F1~~F3~~A9~{or}~FA~~F4~z ~FD~t~40~}#055#016
+{ra}{se}~11~{je}~FC~~F1~~F3~~A9~{or}~FA~~F4~z ~FD~t~40~#016
+|16
+@0003E7A6-0003E7B2-FF
+;0003E7A6{ac~FA~{de}{re} {ol}~03~~FA~~5E~~9F~A~C1~}#040#013
+ac~FA~{de}{re} {ol}~03~~FA~~5E~~9F~A~C1~#013
+|13
+@0003E7D1-0003E7DE-FF
+;0003E7D1{\\{ol}~F9~{la}{ll}~B4~~83~\\~08~~04~\~09~}#041#014
+\\{ol}~F9~{la}{ll}~B4~~83~\\~08~~04~\~09~#014
+|14
+@0003EA06-0003EA0C-FF
+;0003EA06{{ta}{pa}~F0~~F0~~87~\~02~}#025#007
+{ta}{pa}~F0~~F0~~87~\~02~#007
+|7
+@0003EB70-0003EB7C-FF
+;0003EB70{={ar}{ar}~AB~~0E~~0E~\\~03~~07~~1E~ ~7F~}#040#013
+={ar}{ar}~AB~~0E~~0E~\\~03~~07~~1E~ ~7F~#013
+|13
+@0003EC40-0003EC48-FF
+;0003EC40{é{pa}{pa}~F1~~F8~~FC~~80~p~60~}#030#009
+é{pa}{pa}~F1~~F8~~FC~~80~p~60~#009
+|9
+@0003ECC5-0003ECD8-FF
+;0003ECC5{á\B~C3~<{ca}{ca}<~BD~~FF~}#025#010
+á\B~C3~<{ca}{ca}<~BD~~FF~#010
+;0003ECCF{~FF~}#004#001
+~FF~#001
+;0003ECD0{\f!{ol}~FF~}#011#005
+\f!{ol}~FF~#005
+;0003ECD5{"rí~7E~}#007#004
+"rí~7E~#004
+|20
+@0003EE1B-0003EE23-FF
+;0003EE1B{{ar}{ar}~AA~{pa}\~D0~~1C~0~F0~}#030#009
+{ar}{ar}~AA~{pa}\~D0~~1C~0~F0~#009
+|9
+@0003EED3-0003EEE4-FF
+;0003EED3{{pi}{ca}{ra}~C0~~80~\\~04~{or}{re}{to}~C0~~80~~01~~02~ .~07~}#060#018
+{pi}{ca}{ra}~C0~~80~\\~04~{or}{re}{to}~C0~~80~~01~~02~ .~07~#018
+|18
+@0003EF64-0003EF69-FF
+;0003EF64{¨{pa}{se}~40~\~B1~}#018#006
+¨{pa}{se}~40~\~B1~#006
+|6
+@0003EF86-0003EF8A-FF
+;0003EF86{{pa}{pa}~C0~"~FC~}#017#005
+{pa}{pa}~C0~"~FC~#005
+|5
+@0003F105-0003F12A-FF
+;0003F105{[{di}~17~{de}{ie}~1E~<{jo}\!=~F8~~F0~{pa}{ra}~19~ =8~F0~ {re}{jo}{je}~BC~ñ{ri}~5C~]{ll}{ci}~88~ {la}{tu}~5D~ ~0F~}#113#038
+[{di}~17~{de}{ie}~1E~<{jo}\!=~F8~~F0~{pa}{ra}~19~ =8~F0~ {re}{jo}{je}~BC~ñ{ri}~5C~]{ll}{ci}~88~ {la}{tu}~5D~ ~0F~#038
+|38
+@0003F834-0003FFFF-FF
+;0003F834{{ri}Z~5F~~AF~\\\\\~0F~~23~~05~~03~\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\}#2017#1996
+{ri}Z~5F~~AF~\\\\\~0F~~23~~05~~03~\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#1996
+|1996

@@ -1,0 +1,2302 @@
+@000075E5-000075EB-00
+;000075E5{Puzzle~00~}#010#007
+Puzzle~00~#007
+|7
+@0000781D-00007823-00
+;0000781D{Search~00~}#010#007
+Search~00~#007
+|7
+@00007853-00007857-00
+;00007853{Quit~00~}#008#005
+Quit~00~#005
+|5
+@000087F7-000087FE-00
+;000087F7{Dismiss~00~}#011#008
+Dismiss~00~#008
+|8
+@000163A3-000163A4-00
+;000163A3{g~00~}#005#002
+g~00~#002
+|2
+@000163B1-000163B2-00
+;000163B1{o~00~}#005#002
+o~00~#002
+|2
+@000163BF-000163C0-00
+;000163BF{l~00~}#005#002
+l~00~#002
+|2
+@000163CD-000163CE-00
+;000163CD{d~00~}#005#002
+d~00~#002
+|2
+@000163DB-000163DC-00
+;000163DB{.~00~}#005#002
+.~00~#002
+|2
+@0001EA90-0001EE99-00
+;0001EA90{ Sir Crimsaun the Knight ~00~}#029#026
+ Sir Crimsaun the Knight ~00~#026
+;0001EAAA{ Lord Palmer the Paladin ~00~}#029#026
+ Lord Palmer the Paladin ~00~#026
+;0001EAC4{ Tynnestra the Sorceress ~00~}#029#026
+ Tynnestra the Sorceress ~00~#026
+;0001EADE{ Mad Moham the Barbarian ~00~}#029#026
+ Mad Moham the Barbarian ~00~#026
+;0001EAF8{Continue Game in Progress~00~}#029#026
+Continue Game in Progress~00~#026
+;0001EB12{Select Character and Press Start~00~}#036#033
+Select Character and Press Start~00~#033
+;0001EB33{~00~}#004#001
+~00~#001
+;0001EB34{Difficulty   Days  Score~00~}#028#025
+Difficulty   Days  Score~00~#025
+;0001EB4D{ Easy         900   x.5\~00~}#028#025
+ Easy         900   x.5\~00~#025
+;0001EB66{ Normal       600    x1\~00~}#028#025
+ Normal       600    x1\~00~#025
+;0001EB7F{ Hard         400    x2\~00~}#028#025
+ Hard         400    x2\~00~#025
+;0001EB98{ Impossible?  200    x4\~00~}#028#025
+ Impossible?  200    x4\~00~#025
+;0001EBB1{Select Difficulty and Press Start~00~}#037#034
+Select Difficulty and Press Start~00~#034
+;0001EBD3{Continentia~00~}#015#012
+Continentia~00~#012
+;0001EBDF{Forestria\ ~00~}#015#012
+Forestria\ ~00~#012
+;0001EBEB{Archipelia\~00~}#015#012
+Archipelia\~00~#012
+;0001EBF7{Saharia\   ~00~}#015#012
+Saharia\   ~00~#012
+;0001EC03{unknown\   ~00~}#015#012
+unknown\   ~00~#012
+;0001EC0F{Continentia~00~}#015#012
+Continentia~00~#012
+;0001EC1B{ Forestria\~00~}#015#012
+ Forestria\~00~#012
+;0001EC27{Archipelia\~00~}#015#012
+Archipelia\~00~#012
+;0001EC33{  Saharia\~00~}#014#011
+  Saharia\~00~#011
+;0001EC3E{Castle~00~}#010#007
+Castle~00~#007
+;0001EC45{is under\              ~00~}#027#024
+is under\              ~00~#024
+;0001EC5D{'s rule.\              ~00~}#027#024
+'s rule.\              ~00~#024
+;0001EC75{is under your rule.\   ~00~}#027#024
+is under your rule.\   ~00~#024
+;0001EC8D{is under no one's rule.~00~}#027#024
+is under no one's rule.~00~#024
+;0001ECA5{'s rule\               ~00~}#027#024
+'s rule\               ~00~#024
+;0001ECBD{Azram\         ~00~}#019#016
+Azram\         ~00~#016
+;0001ECCD{Basefit\       ~00~}#019#016
+Basefit\       ~00~#016
+;0001ECDD{Cancomar\      ~00~}#019#016
+Cancomar\      ~00~#016
+;0001ECED{Duvock\        ~00~}#019#016
+Duvock\        ~00~#016
+;0001ECFD{Endryx\        ~00~}#019#016
+Endryx\        ~00~#016
+;0001ED0D{Faxis\         ~00~}#019#016
+Faxis\         ~00~#016
+;0001ED1D{Goobare\       ~00~}#019#016
+Goobare\       ~00~#016
+;0001ED2D{Hyppus\        ~00~}#019#016
+Hyppus\        ~00~#016
+;0001ED3D{Irok\          ~00~}#019#016
+Irok\          ~00~#016
+;0001ED4D{Jhan\          ~00~}#019#016
+Jhan\          ~00~#016
+;0001ED5D{Kookamunga\    ~00~}#019#016
+Kookamunga\    ~00~#016
+;0001ED6D{Lorsche\       ~00~}#019#016
+Lorsche\       ~00~#016
+;0001ED7D{Mooseweigh\    ~00~}#019#016
+Mooseweigh\    ~00~#016
+;0001ED8D{Nilslag\       ~00~}#019#016
+Nilslag\       ~00~#016
+;0001ED9D{Ophiraund\     ~00~}#019#016
+Ophiraund\     ~00~#016
+;0001EDAD{Portalis\      ~00~}#019#016
+Portalis\      ~00~#016
+;0001EDBD{Quinderwitch\  ~00~}#019#016
+Quinderwitch\  ~00~#016
+;0001EDCD{Rythacon\      ~00~}#019#016
+Rythacon\      ~00~#016
+;0001EDDD{Spockana\      ~00~}#019#016
+Spockana\      ~00~#016
+;0001EDED{Tylitch\       ~00~}#019#016
+Tylitch\       ~00~#016
+;0001EDFD{Uzare\         ~00~}#019#016
+Uzare\         ~00~#016
+;0001EE0D{Vutar\         ~00~}#019#016
+Vutar\         ~00~#016
+;0001EE1D{Wankelforte\   ~00~}#019#016
+Wankelforte\   ~00~#016
+;0001EE2D{Xelox\         ~00~}#019#016
+Xelox\         ~00~#016
+;0001EE3D{Yeneverre\     ~00~}#019#016
+Yeneverre\     ~00~#016
+;0001EE4D{Zyzzarzaz\     ~00~}#019#016
+Zyzzarzaz\     ~00~#016
+;0001EE5D{of King Maximus~00~}#019#016
+of King Maximus~00~#016
+;0001EE6D{unknown\       ~00~}#019#016
+unknown\       ~00~#016
+;0001EE7D{Name: Murray the Miser\     ~00~}#032#029
+Name: Murray the Miser\     ~00~#029
+|1034
+@0001EE9A-0001F2AD-00
+;0001EE9A{Alias: None\                ~00~}#032#029
+Alias: None\                ~00~#029
+;0001EEB7{Reward: 5,000 gold\         ~00~}#032#029
+Reward: 5,000 gold\         ~00~#029
+;0001EED4{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001EEF1{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001EF0E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001EF2B{  Threadbare clothes, bald\ ~00~}#032#029
+  Threadbare clothes, bald\ ~00~#029
+;0001EF48{  patch with hair combed to\~00~}#032#029
+  patch with hair combed to\~00~#029
+;0001EF65{  cover it, incessant cough.~00~}#032#029
+  cover it, incessant cough.~00~#029
+;0001EF82{Crimes: Murray is wanted for~00~}#032#029
+Crimes: Murray is wanted for~00~#029
+;0001EF9F{  various petty crimes as\  ~00~}#032#029
+  various petty crimes as\  ~00~#029
+;0001EFBC{  well as for treason.  He\ ~00~}#032#029
+  well as for treason.  He\ ~00~#029
+;0001EFD9{  allowed a group of pirates~00~}#032#029
+  allowed a group of pirates~00~#029
+;0001EFF6{  to enter the castle and\  ~00~}#032#029
+  to enter the castle and\  ~00~#029
+;0001F013{  free criminals.\          ~00~}#032#029
+  free criminals.\          ~00~#029
+;0001F030{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F04D{Name: Hack the Rogue\       ~00~}#032#029
+Name: Hack the Rogue\       ~00~#029
+;0001F06A{Alias: The Spitter\         ~00~}#032#029
+Alias: The Spitter\         ~00~#029
+;0001F087{Reward: 6,000 gold\         ~00~}#032#029
+Reward: 6,000 gold\         ~00~#029
+;0001F0A4{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001F0C1{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001F0DE{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001F0FB{  Bushy ebon beard stained\ ~00~}#032#029
+  Bushy ebon beard stained\ ~00~#029
+;0001F118{  with tobacco juice,\      ~00~}#032#029
+  with tobacco juice,\      ~00~#029
+;0001F135{  numerous battle scars,\   ~00~}#032#029
+  numerous battle scars,\   ~00~#029
+;0001F152{  brash, arrogant behavior.\~00~}#032#029
+  brash, arrogant behavior.\~00~#029
+;0001F16F{Crimes: Along with many\    ~00~}#032#029
+Crimes: Along with many\    ~00~#029
+;0001F18C{  minor infractions, Hack is~00~}#032#029
+  minor infractions, Hack is~00~#029
+;0001F1A9{  wanted for conspiracy\    ~00~}#032#029
+  wanted for conspiracy\    ~00~#029
+;0001F1C6{  against the Crown and\    ~00~}#032#029
+  against the Crown and\    ~00~#029
+;0001F1E3{  grave-robbing.\           ~00~}#032#029
+  grave-robbing.\           ~00~#029
+;0001F200{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F21D{Name: Princess Aimola\      ~00~}#032#029
+Name: Princess Aimola\      ~00~#029
+;0001F23A{Alias: Lady Deceit\         ~00~}#032#029
+Alias: Lady Deceit\         ~00~#029
+;0001F257{Reward: 7,000 gold\         ~00~}#032#029
+Reward: 7,000 gold\         ~00~#029
+;0001F274{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001F291{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+|1044
+@0001F2AE-0001F6C1-00
+;0001F2AE{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001F2CB{  Excessive use of make-up\ ~00~}#032#029
+  Excessive use of make-up\ ~00~#029
+;0001F2E8{  to hide aging features,\  ~00~}#032#029
+  to hide aging features,\  ~00~#029
+;0001F305{  ever-present lace\        ~00~}#032#029
+  ever-present lace\        ~00~#029
+;0001F322{  handkerchief.\            ~00~}#032#029
+  handkerchief.\            ~00~#029
+;0001F33F{Crimes: The Princess\       ~00~}#032#029
+Crimes: The Princess\       ~00~#029
+;0001F35C{  violated her status as a\ ~00~}#032#029
+  violated her status as a\ ~00~#029
+;0001F379{  visiting dignitary by\    ~00~}#032#029
+  visiting dignitary by\    ~00~#029
+;0001F396{  encouraging a murder and\ ~00~}#032#029
+  encouraging a murder and\ ~00~#029
+;0001F3B3{  joining the conspiracy \  ~00~}#032#029
+  joining the conspiracy \  ~00~#029
+;0001F3D0{  against the Crown.\       ~00~}#032#029
+  against the Crown.\       ~00~#029
+;0001F3ED{Name: Baron Johnno Makahl\  ~00~}#032#029
+Name: Baron Johnno Makahl\  ~00~#029
+;0001F40A{Alias: Johnno\              ~00~}#032#029
+Alias: Johnno\              ~00~#029
+;0001F427{Reward: 8,000 gold\         ~00~}#032#029
+Reward: 8,000 gold\         ~00~#029
+;0001F444{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001F461{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001F47E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001F49B{  Expensive and gaudy\      ~00~}#032#029
+  Expensive and gaudy\      ~00~#029
+;0001F4B8{  clothes, overweight, and\ ~00~}#032#029
+  clothes, overweight, and\ ~00~#029
+;0001F4D5{  a scruffy beard.\         ~00~}#032#029
+  a scruffy beard.\         ~00~#029
+;0001F4F2{Crimes: Johnno is wanted for~00~}#032#029
+Crimes: Johnno is wanted for~00~#029
+;0001F50F{  various crimes against the~00~}#032#029
+  various crimes against the~00~#029
+;0001F52C{  Kingdom, including leading~00~}#032#029
+  Kingdom, including leading~00~#029
+;0001F549{  a direct assualt against\ ~00~}#032#029
+  a direct assualt against\ ~00~#029
+;0001F566{  the Crown and conspiracy.\~00~}#032#029
+  the Crown and conspiracy.\~00~#029
+;0001F583{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F5A0{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F5BD{Name: Dread Pirate Rob\     ~00~}#032#029
+Name: Dread Pirate Rob\     ~00~#029
+;0001F5DA{Alias: Terror of the Sea\   ~00~}#032#029
+Alias: Terror of the Sea\   ~00~#029
+;0001F5F7{Reward: 9,000 gold\         ~00~}#032#029
+Reward: 9,000 gold\         ~00~#029
+;0001F614{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001F631{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001F64E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001F66B{  Pencil thin moustache\    ~00~}#032#029
+  Pencil thin moustache\    ~00~#029
+;0001F688{  and elegantly trimmed\    ~00~}#032#029
+  and elegantly trimmed\    ~00~#029
+;0001F6A5{  beard never without a \   ~00~}#032#029
+  beard never without a \   ~00~#029
+|1044
+@0001F6C2-0001FAD5-00
+;0001F6C2{  rapier.\                  ~00~}#032#029
+  rapier.\                  ~00~#029
+;0001F6DF{Crimes: Rob is wanted for\  ~00~}#032#029
+Crimes: Rob is wanted for\  ~00~#029
+;0001F6FC{  piracy as well as\        ~00~}#032#029
+  piracy as well as\        ~00~#029
+;0001F719{  conspiracy and for\       ~00~}#032#029
+  conspiracy and for\       ~00~#029
+;0001F736{  breaking out five traitors~00~}#032#029
+  breaking out five traitors~00~#029
+;0001F753{  sentenced to death in the\~00~}#032#029
+  sentenced to death in the\~00~#029
+;0001F770{  Royal Dungeons.\          ~00~}#032#029
+  Royal Dungeons.\          ~00~#029
+;0001F78D{Name: Caneghor the Mystic\  ~00~}#032#029
+Name: Caneghor the Mystic\  ~00~#029
+;0001F7AA{Alias: The Majestic Sage\   ~00~}#032#029
+Alias: The Majestic Sage\   ~00~#029
+;0001F7C7{Reward: 10,000 gold\        ~00~}#032#029
+Reward: 10,000 gold\        ~00~#029
+;0001F7E4{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001F801{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001F81E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001F83B{  Voluminous robes, bald\   ~00~}#032#029
+  Voluminous robes, bald\   ~00~#029
+;0001F858{  head, magic symbols\      ~00~}#032#029
+  head, magic symbols\      ~00~#029
+;0001F875{  engraved on body,\        ~00~}#032#029
+  engraved on body,\        ~00~#029
+;0001F892{  levitating ability.\      ~00~}#032#029
+  levitating ability.\      ~00~#029
+;0001F8AF{Crimes: Canegor is wanted\  ~00~}#032#029
+Crimes: Canegor is wanted\  ~00~#029
+;0001F8CC{  for grave robbing,\       ~00~}#032#029
+  for grave robbing,\       ~00~#029
+;0001F8E9{  conspiracy against the\   ~00~}#032#029
+  conspiracy against the\   ~00~#029
+;0001F906{  Crown, and plundering the\~00~}#032#029
+  Crown, and plundering the\~00~#029
+;0001F923{  Royal Library.\           ~00~}#032#029
+  Royal Library.\           ~00~#029
+;0001F940{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F95D{Name:Sir Moradon the Cruel\ ~00~}#032#029
+Name:Sir Moradon the Cruel\ ~00~#029
+;0001F97A{Alias: None\                ~00~}#032#029
+Alias: None\                ~00~#029
+;0001F997{Reward: 12,000 gold\        ~00~}#032#029
+Reward: 12,000 gold\        ~00~#029
+;0001F9B4{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001F9D1{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001F9EE{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001FA0B{  Always wearing armor and\ ~00~}#032#029
+  Always wearing armor and\ ~00~#029
+;0001FA28{  concealed weapons, has two~00~}#032#029
+  concealed weapons, has two~00~#029
+;0001FA45{  prominent front teeth and\~00~}#032#029
+  prominent front teeth and\~00~#029
+;0001FA62{  an unkept beard.\         ~00~}#032#029
+  an unkept beard.\         ~00~#029
+;0001FA7F{Crimes: Sir Moradon, an\    ~00~}#032#029
+Crimes: Sir Moradon, an\    ~00~#029
+;0001FA9C{  emissary from another \   ~00~}#032#029
+  emissary from another \   ~00~#029
+;0001FAB9{  land, is wanted for\      ~00~}#032#029
+  land, is wanted for\      ~00~#029
+|1044
+@0001FAD6-0001FEE9-00
+;0001FAD6{  joining a conspiracy to\  ~00~}#032#029
+  joining a conspiracy to\  ~00~#029
+;0001FAF3{  topple the kingdom.\      ~00~}#032#029
+  topple the kingdom.\      ~00~#029
+;0001FB10{\                           ~00~}#032#029
+\                           ~00~#029
+;0001FB2D{Name: Prince Barrowpine\    ~00~}#032#029
+Name: Prince Barrowpine\    ~00~#029
+;0001FB4A{Alias: The Elf Lord\        ~00~}#032#029
+Alias: The Elf Lord\        ~00~#029
+;0001FB67{Reward: 14,000 gold\        ~00~}#032#029
+Reward: 14,000 gold\        ~00~#029
+;0001FB84{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001FBA1{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001FBBE{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001FBDB{  Pointed ears, sharp\      ~00~}#032#029
+  Pointed ears, sharp\      ~00~#029
+;0001FBF8{  elfin features, pale blue\~00~}#032#029
+  elfin features, pale blue\~00~#029
+;0001FC15{  eyes with no whites,\     ~00~}#032#029
+  eyes with no whites,\     ~00~#029
+;0001FC32{  glimmering enchanted coin.~00~}#032#029
+  glimmering enchanted coin.~00~#029
+;0001FC4F{Crimes: The prince is one of~00~}#032#029
+Crimes: The prince is one of~00~#029
+;0001FC6C{  the leaders of the\       ~00~}#032#029
+  the leaders of the\       ~00~#029
+;0001FC89{  conspiracy against the\   ~00~}#032#029
+  conspiracy against the\   ~00~#029
+;0001FCA6{  Crown, he also traffics\  ~00~}#032#029
+  Crown, he also traffics\  ~00~#029
+;0001FCC3{  stolen artifacts.\        ~00~}#032#029
+  stolen artifacts.\        ~00~#029
+;0001FCE0{                            ~00~}#032#029
+                            ~00~#029
+;0001FCFD{Name: Bargash Eyesore\      ~00~}#032#029
+Name: Bargash Eyesore\      ~00~#029
+;0001FD1A{Alias: Old One Eye\         ~00~}#032#029
+Alias: Old One Eye\         ~00~#029
+;0001FD37{Reward: 16,000 gold\        ~00~}#032#029
+Reward: 16,000 gold\        ~00~#029
+;0001FD54{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001FD71{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001FD8E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001FDAB{  Single eye centered in\   ~00~}#032#029
+  Single eye centered in\   ~00~#029
+;0001FDC8{  middle of forehead, over\ ~00~}#032#029
+  middle of forehead, over\ ~00~#029
+;0001FDE5{  ten feet tall, only hair\ ~00~}#032#029
+  ten feet tall, only hair\ ~00~#029
+;0001FE02{  on body is in beard.\     ~00~}#032#029
+  on body is in beard.\     ~00~#029
+;0001FE1F{Crimes: Bargash is wanted\  ~00~}#032#029
+Crimes: Bargash is wanted\  ~00~#029
+;0001FE3C{  for conspiracy against the~00~}#032#029
+  for conspiracy against the~00~#029
+;0001FE59{  Crown and for leading an\ ~00~}#032#029
+  Crown and for leading an\ ~00~#029
+;0001FE76{  outright attack against\  ~00~}#032#029
+  outright attack against\  ~00~#029
+;0001FE93{  the King.\                ~00~}#032#029
+  the King.\                ~00~#029
+;0001FEB0{                            ~00~}#032#029
+                            ~00~#029
+;0001FECD{Name: Rinaldus Drybone\     ~00~}#032#029
+Name: Rinaldus Drybone\     ~00~#029
+|1044
+@0001FEEA-000202FD-00
+;0001FEEA{Alias: The Death Lord\      ~00~}#032#029
+Alias: The Death Lord\      ~00~#029
+;0001FF07{Reward: 18,000 gold\        ~00~}#032#029
+Reward: 18,000 gold\        ~00~#029
+;0001FF24{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;0001FF41{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0001FF5E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0001FF7B{  Rinaldus is a magically\  ~00~}#032#029
+  Rinaldus is a magically\  ~00~#029
+;0001FF98{  animated skeleton, an\    ~00~}#032#029
+  animated skeleton, an\    ~00~#029
+;0001FFB5{  undead, he is easily\     ~00~}#032#029
+  undead, he is easily\     ~00~#029
+;0001FFD2{  identifiable by the\      ~00~}#032#029
+  identifiable by the\      ~00~#029
+;0001FFEF{  ancient crown he wears.\  ~00~}#032#029
+  ancient crown he wears.\  ~00~#029
+;0002000C{Crimes: Rinaldus is wanted\ ~00~}#032#029
+Crimes: Rinaldus is wanted\ ~00~#029
+;00020029{  for conspiracy against the~00~}#032#029
+  for conspiracy against the~00~#029
+;00020046{  Crown and leading a\      ~00~}#032#029
+  Crown and leading a\      ~00~#029
+;00020063{  rebellion on the continent~00~}#032#029
+  rebellion on the continent~00~#029
+;00020080{  of Saharia.\              ~00~}#032#029
+  of Saharia.\              ~00~#029
+;0002009D{Name: Ragface\              ~00~}#032#029
+Name: Ragface\              ~00~#029
+;000200BA{Alias: None\                ~00~}#032#029
+Alias: None\                ~00~#029
+;000200D7{Reward: 20,000 gold\        ~00~}#032#029
+Reward: 20,000 gold\        ~00~#029
+;000200F4{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;00020111{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0002012E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0002014B{  Ragface is an undead, he\ ~00~}#032#029
+  Ragface is an undead, he\ ~00~#029
+;00020168{  is covered from head to\  ~00~}#032#029
+  is covered from head to\  ~00~#029
+;00020185{  foot in moldering green\  ~00~}#032#029
+  foot in moldering green\  ~00~#029
+;000201A2{  strips of cloth. A rotting~00~}#032#029
+  strips of cloth. A rotting~00~#029
+;000201BF{  smell follows him.\       ~00~}#032#029
+  smell follows him.\       ~00~#029
+;000201DC{Crimes: Conspiracy against\ ~00~}#032#029
+Crimes: Conspiracy against\ ~00~#029
+;000201F9{  the Crown and leading an\ ~00~}#032#029
+  the Crown and leading an\ ~00~#029
+;00020216{  insurrection in Saharia.\ ~00~}#032#029
+  insurrection in Saharia.\ ~00~#029
+;00020233{\                           ~00~}#032#029
+\                           ~00~#029
+;00020250{\                           ~00~}#032#029
+\                           ~00~#029
+;0002026D{Name: Mahk Bellowspeak\     ~00~}#032#029
+Name: Mahk Bellowspeak\     ~00~#029
+;0002028A{Alias: Bruiser\             ~00~}#032#029
+Alias: Bruiser\             ~00~#029
+;000202A7{Reward: 25,000 gold\        ~00~}#032#029
+Reward: 25,000 gold\        ~00~#029
+;000202C4{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;000202E1{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+|1044
+@000202FE-00020711-00
+;000202FE{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0002031B{  Bright orange body hair\  ~00~}#032#029
+  Bright orange body hair\  ~00~#029
+;00020338{  on a fluorescent green\   ~00~}#032#029
+  on a fluorescent green\   ~00~#029
+;00020355{  body, a tendency to shout\~00~}#032#029
+  body, a tendency to shout\~00~#029
+;00020372{  for no apparent reason.\  ~00~}#032#029
+  for no apparent reason.\  ~00~#029
+;0002038F{Crimes: Mahk is wanted for\ ~00~}#032#029
+Crimes: Mahk is wanted for\ ~00~#029
+;000203AC{  the conspiracy against the~00~}#032#029
+  the conspiracy against the~00~#029
+;000203C9{  Crown, leading a jail\    ~00~}#032#029
+  Crown, leading a jail\    ~00~#029
+;000203E6{  break, and for piracy on\ ~00~}#032#029
+  break, and for piracy on\ ~00~#029
+;00020403{  the open seas.\           ~00~}#032#029
+  the open seas.\           ~00~#029
+;00020420{\                           ~00~}#032#029
+\                           ~00~#029
+;0002043D{Name: Auric Whiteskin\      ~00~}#032#029
+Name: Auric Whiteskin\      ~00~#029
+;0002045A{Alias: The Barbarian\       ~00~}#032#029
+Alias: The Barbarian\       ~00~#029
+;00020477{Reward: 30,000 gold\        ~00~}#032#029
+Reward: 30,000 gold\        ~00~#029
+;00020494{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;000204B1{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;000204CE{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;000204EB{  Auric is heavily muscled\ ~00~}#032#029
+  Auric is heavily muscled\ ~00~#029
+;00020508{  and wears a protective\   ~00~}#032#029
+  and wears a protective\   ~00~#029
+;00020525{  skin made from the hides\ ~00~}#032#029
+  skin made from the hides\ ~00~#029
+;00020542{  of baby lambs.\           ~00~}#032#029
+  of baby lambs.\           ~00~#029
+;0002055F{Crimes: Auric is wanted for\~00~}#032#029
+Crimes: Auric is wanted for\~00~#029
+;0002057C{  conspiracy and for leading~00~}#032#029
+  conspiracy and for leading~00~#029
+;00020599{  the rebellion of the\     ~00~}#032#029
+  the rebellion of the\     ~00~#029
+;000205B6{  continent Saharia.\       ~00~}#032#029
+  continent Saharia.\       ~00~#029
+;000205D3{\                           ~00~}#032#029
+\                           ~00~#029
+;000205F0{\                           ~00~}#032#029
+\                           ~00~#029
+;0002060D{Name:Czar Nickolai the Mad\ ~00~}#032#029
+Name:Czar Nickolai the Mad\ ~00~#029
+;0002062A{Alias: The Mad Czar\        ~00~}#032#029
+Alias: The Mad Czar\        ~00~#029
+;00020647{Reward: 35,000 gold\        ~00~}#032#029
+Reward: 35,000 gold\        ~00~#029
+;00020664{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;00020681{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0002069E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;000206BB{  The Czar has eyes which\  ~00~}#032#029
+  The Czar has eyes which\  ~00~#029
+;000206D8{  change color constantly,\ ~00~}#032#029
+  change color constantly,\ ~00~#029
+;000206F5{  also a sulphuric smell\   ~00~}#032#029
+  also a sulphuric smell\   ~00~#029
+|1044
+@00020712-00020B25-00
+;00020712{  emanates from his body.\  ~00~}#032#029
+  emanates from his body.\  ~00~#029
+;0002072F{Crimes: The Czar is wanted\ ~00~}#032#029
+Crimes: The Czar is wanted\ ~00~#029
+;0002074C{  for conspiracy against the~00~}#032#029
+  for conspiracy against the~00~#029
+;00020769{  Crown, violating\         ~00~}#032#029
+  Crown, violating\         ~00~#029
+;00020786{  diplomatic status, and\   ~00~}#032#029
+  diplomatic status, and\   ~00~#029
+;000207A3{  murder.\                  ~00~}#032#029
+  murder.\                  ~00~#029
+;000207C0{\                           ~00~}#032#029
+\                           ~00~#029
+;000207DD{Name: Magus Deathspell\     ~00~}#032#029
+Name: Magus Deathspell\     ~00~#029
+;000207FA{Alias: None\                ~00~}#032#029
+Alias: None\                ~00~#029
+;00020817{Reward: 40,000 gold\        ~00~}#032#029
+Reward: 40,000 gold\        ~00~#029
+;00020834{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;00020851{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;0002086E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;0002088B{  Pupil-less eyes, flowing\ ~00~}#032#029
+  Pupil-less eyes, flowing\ ~00~#029
+;000208A8{  white beard, always wears\~00~}#032#029
+  white beard, always wears\~00~#029
+;000208C5{  crimson robes and a\      ~00~}#032#029
+  crimson robes and a\      ~00~#029
+;000208E2{  matching skull cap.\      ~00~}#032#029
+  matching skull cap.\      ~00~#029
+;000208FF{Crimes: Magus is wanted for\~00~}#032#029
+Crimes: Magus is wanted for\~00~#029
+;0002091C{  conspiracy against the\   ~00~}#032#029
+  conspiracy against the\   ~00~#029
+;00020939{  Crown and for practicing\ ~00~}#032#029
+  Crown and for practicing\ ~00~#029
+;00020956{  forbidden magics.\        ~00~}#032#029
+  forbidden magics.\        ~00~#029
+;00020973{\                           ~00~}#032#029
+\                           ~00~#029
+;00020990{\                           ~00~}#032#029
+\                           ~00~#029
+;000209AD{Name: Urthrax Killspite\    ~00~}#032#029
+Name: Urthrax Killspite\    ~00~#029
+;000209CA{Alias: The Demon King\      ~00~}#032#029
+Alias: The Demon King\      ~00~#029
+;000209E7{Reward: 45,000 gold\        ~00~}#032#029
+Reward: 45,000 gold\        ~00~#029
+;00020A04{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;00020A21{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;00020A3E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;00020A5B{  Green, scaly skin,\       ~00~}#032#029
+  Green, scaly skin,\       ~00~#029
+;00020A78{  glowing red eyes, horns\  ~00~}#032#029
+  glowing red eyes, horns\  ~00~#029
+;00020A95{  protruding from sides of\ ~00~}#032#029
+  protruding from sides of\ ~00~#029
+;00020AB2{  head, over 7 feet tall.\  ~00~}#032#029
+  head, over 7 feet tall.\  ~00~#029
+;00020ACF{Crimes: Urthrax is wanted\  ~00~}#032#029
+Crimes: Urthrax is wanted\  ~00~#029
+;00020AEC{  for conspiracy against the~00~}#032#029
+  for conspiracy against the~00~#029
+;00020B09{  Crown.\                   ~00~}#032#029
+  Crown.\                   ~00~#029
+|1044
+@00020B26-00020F26-00
+;00020B26{\                           ~00~}#032#029
+\                           ~00~#029
+;00020B43{\                           ~00~}#032#029
+\                           ~00~#029
+;00020B60{\                           ~00~}#032#029
+\                           ~00~#029
+;00020B7D{Name: Arech Dragonbreath\   ~00~}#032#029
+Name: Arech Dragonbreath\   ~00~#029
+;00020B9A{Alias: Mastermind\          ~00~}#032#029
+Alias: Mastermind\          ~00~#029
+;00020BB7{Reward: 50,000 gold\        ~00~}#032#029
+Reward: 50,000 gold\        ~00~#029
+;00020BD4{Last Seen:\                 ~00~}#032#029
+Last Seen:\                 ~00~#029
+;00020BF1{Castle:\                    ~00~}#032#029
+Castle:\                    ~00~#029
+;00020C0E{Distinguishing Features:\   ~00~}#032#029
+Distinguishing Features:\   ~00~#029
+;00020C2B{  Arech is an immense dragon~00~}#032#029
+  Arech is an immense dragon~00~#029
+;00020C48{  with a green body and blue~00~}#032#029
+  with a green body and blue~00~#029
+;00020C65{  wings, he breathes fire.\ ~00~}#032#029
+  wings, he breathes fire.\ ~00~#029
+;00020C82{Crimes: Arech is wanted for\~00~}#032#029
+Crimes: Arech is wanted for\~00~#029
+;00020C9F{  leading the conspiracy\   ~00~}#032#029
+  leading the conspiracy\   ~00~#029
+;00020CBC{  against the Crown,\       ~00~}#032#029
+  against the Crown,\       ~00~#029
+;00020CD9{  arranging jailbreaks,\    ~00~}#032#029
+  arranging jailbreaks,\    ~00~#029
+;00020CF6{  formenting rebellion,\    ~00~}#032#029
+  formenting rebellion,\    ~00~#029
+;00020D13{  stealing the Sceptre of\  ~00~}#032#029
+  stealing the Sceptre of\  ~00~#029
+;00020D30{  Order.\                   ~00~}#032#029
+  Order.\                   ~00~#029
+;00020D4D{    You have no contract.   ~00~}#032#029
+    You have no contract.   ~00~#029
+;00020D6A{Murray the Miser\    ~00~}#025#022
+Murray the Miser\    ~00~#022
+;00020D80{Hack the Rogue\      ~00~}#025#022
+Hack the Rogue\      ~00~#022
+;00020D96{Princess Aimola\     ~00~}#025#022
+Princess Aimola\     ~00~#022
+;00020DAC{Baron Johnno Makahl\ ~00~}#025#022
+Baron Johnno Makahl\ ~00~#022
+;00020DC2{Dread Pirate Rob\    ~00~}#025#022
+Dread Pirate Rob\    ~00~#022
+;00020DD8{Caneghor the Mystic\ ~00~}#025#022
+Caneghor the Mystic\ ~00~#022
+;00020DEE{Sir Moradon the Cruel~00~}#025#022
+Sir Moradon the Cruel~00~#022
+;00020E04{Prince Barrowpine\   ~00~}#025#022
+Prince Barrowpine\   ~00~#022
+;00020E1A{Bargash Eyesore\     ~00~}#025#022
+Bargash Eyesore\     ~00~#022
+;00020E30{Rinaldus Drybone\    ~00~}#025#022
+Rinaldus Drybone\    ~00~#022
+;00020E46{Ragface\             ~00~}#025#022
+Ragface\             ~00~#022
+;00020E5C{Mahk Bellowspeak\    ~00~}#025#022
+Mahk Bellowspeak\    ~00~#022
+;00020E72{Auric Whiteskin\     ~00~}#025#022
+Auric Whiteskin\     ~00~#022
+;00020E88{Czar Nickolai the Mad~00~}#025#022
+Czar Nickolai the Mad~00~#022
+;00020E9E{Magus Deathspell\    ~00~}#025#022
+Magus Deathspell\    ~00~#022
+;00020EB4{Urthrax Killspite\   ~00~}#025#022
+Urthrax Killspite\   ~00~#022
+;00020ECA{Arech Dragonbreath\  ~00~}#025#022
+Arech Dragonbreath\  ~00~#022
+;00020EE0{A sign reads~00~}#016#013
+A sign reads~00~#013
+;00020EED{      Treasure Island       ~00~}#032#029
+      Treasure Island       ~00~#029
+;00020F0A{                            ~00~}#032#029
+                            ~00~#029
+|1025
+@00020F27-0002133A-00
+;00020F27{Rent a boat and sail the    ~00~}#032#029
+Rent a boat and sail the    ~00~#029
+;00020F44{seas. Explore the easy way! ~00~}#032#029
+seas. Explore the easy way! ~00~#029
+;00020F61{Six villains rule           ~00~}#032#029
+Six villains rule           ~00~#029
+;00020F7E{Continentia.                ~00~}#032#029
+Continentia.                ~00~#029
+;00020F9B{Aurange is north            ~00~}#032#029
+Aurange is north            ~00~#029
+;00020FB8{                            ~00~}#032#029
+                            ~00~#029
+;00020FD5{The Sceptre will never be   ~00~}#032#029
+The Sceptre will never be   ~00~#029
+;00020FF2{found!                      ~00~}#032#029
+found!                      ~00~#029
+;0002100F{King's Treasure Garden      ~00~}#032#029
+King's Treasure Garden      ~00~#029
+;0002102C{                            ~00~}#032#029
+                            ~00~#029
+;00021049{There are two artifacts per ~00~}#032#029
+There are two artifacts per ~00~#029
+;00021066{continent.                  ~00~}#032#029
+continent.                  ~00~#029
+;00021083{Peasant Way                 ~00~}#032#029
+Peasant Way                 ~00~#029
+;000210A0{                            ~00~}#032#029
+                            ~00~#029
+;000210BD{Wonder Woods                ~00~}#032#029
+Wonder Woods                ~00~#029
+;000210DA{                            ~00~}#032#029
+                            ~00~#029
+;000210F7{Pond of Peril               ~00~}#032#029
+Pond of Peril               ~00~#029
+;00021114{                            ~00~}#032#029
+                            ~00~#029
+;00021131{It takes time to cross the  ~00~}#032#029
+It takes time to cross the  ~00~#029
+;0002114E{desert.                     ~00~}#032#029
+desert.                     ~00~#029
+;0002116B{Dead End                    ~00~}#032#029
+Dead End                    ~00~#029
+;00021188{                            ~00~}#032#029
+                            ~00~#029
+;000211A5{Irok guards the north.      ~00~}#032#029
+Irok guards the north.      ~00~#029
+;000211C2{                            ~00~}#032#029
+                            ~00~#029
+;000211DF{A-maze-ing Forest           ~00~}#032#029
+A-maze-ing Forest           ~00~#029
+;000211FC{                            ~00~}#032#029
+                            ~00~#029
+;00021219{All maps are found in chests~00~}#032#029
+All maps are found in chests~00~#029
+;00021236{                            ~00~}#032#029
+                            ~00~#029
+;00021253{Bridge Port                 ~00~}#032#029
+Bridge Port                 ~00~#029
+;00021270{                            ~00~}#032#029
+                            ~00~#029
+;0002128D{Hidden Grove                ~00~}#032#029
+Hidden Grove                ~00~#029
+;000212AA{                            ~00~}#032#029
+                            ~00~#029
+;000212C7{Secret Pass                 ~00~}#032#029
+Secret Pass                 ~00~#029
+;000212E4{                            ~00~}#032#029
+                            ~00~#029
+;00021301{Isle of Death               ~00~}#032#029
+Isle of Death               ~00~#029
+;0002131E{                            ~00~}#032#029
+                            ~00~#029
+|1044
+@0002133B-0002174E-00
+;0002133B{Pirate's Cove               ~00~}#032#029
+Pirate's Cove               ~00~#029
+;00021358{                            ~00~}#032#029
+                            ~00~#029
+;00021375{Boon Docks                  ~00~}#032#029
+Boon Docks                  ~00~#029
+;00021392{                            ~00~}#032#029
+                            ~00~#029
+;000213AF{Welcome to Kookamunga!      ~00~}#032#029
+Welcome to Kookamunga!      ~00~#029
+;000213CC{                            ~00~}#032#029
+                            ~00~#029
+;000213E9{Time is on our side.        ~00~}#032#029
+Time is on our side.        ~00~#029
+;00021406{                            ~00~}#032#029
+                            ~00~#029
+;00021423{Passage to Basefit.         ~00~}#032#029
+Passage to Basefit.         ~00~#029
+;00021440{                            ~00~}#032#029
+                            ~00~#029
+;0002145D{The end is near.            ~00~}#032#029
+The end is near.            ~00~#029
+;0002147A{                            ~00~}#032#029
+                            ~00~#029
+;00021497{Treasure at the river's end.~00~}#032#029
+Treasure at the river's end.~00~#029
+;000214B4{                            ~00~}#032#029
+                            ~00~#029
+;000214D1{The ogres are back... and   ~00~}#032#029
+The ogres are back... and   ~00~#029
+;000214EE{they're hungry!             ~00~}#032#029
+they're hungry!             ~00~#029
+;0002150B{Wood's End is south.        ~00~}#032#029
+Wood's End is south.        ~00~#029
+;00021528{                            ~00~}#032#029
+                            ~00~#029
+;00021545{Undead are everywhere!      ~00~}#032#029
+Undead are everywhere!      ~00~#029
+;00021562{                            ~00~}#032#029
+                            ~00~#029
+;0002157F{Peasants are fodder!        ~00~}#032#029
+Peasants are fodder!        ~00~#029
+;0002159C{                            ~00~}#032#029
+                            ~00~#029
+;000215B9{Monster Way                 ~00~}#032#029
+Monster Way                 ~00~#029
+;000215D6{                            ~00~}#032#029
+                            ~00~#029
+;000215F3{There is one town for each  ~00~}#032#029
+There is one town for each  ~00~#029
+;00021610{castle.                     ~00~}#032#029
+castle.                     ~00~#029
+;0002162D{Remember, wherever you go   ~00~}#032#029
+Remember, wherever you go   ~00~#029
+;0002164A{there you are.              ~00~}#032#029
+there you are.              ~00~#029
+;00021667{Forestria maze entrance!    ~00~}#032#029
+Forestria maze entrance!    ~00~#029
+;00021684{                            ~00~}#032#029
+                            ~00~#029
+;000216A1{Crossroads                  ~00~}#032#029
+Crossroads                  ~00~#029
+;000216BE{                            ~00~}#032#029
+                            ~00~#029
+;000216DB{No Trespassing!             ~00~}#032#029
+No Trespassing!             ~00~#029
+;000216F8{                            ~00~}#032#029
+                            ~00~#029
+;00021715{Beware the moors!           ~00~}#032#029
+Beware the moors!           ~00~#029
+;00021732{                            ~00~}#032#029
+                            ~00~#029
+|1044
+@0002174F-00021B62-00
+;0002174F{You'll never find the       ~00~}#032#029
+You'll never find the       ~00~#029
+;0002176C{Sceptre here!               ~00~}#032#029
+Sceptre here!               ~00~#029
+;00021789{Your quest is doomed!       ~00~}#032#029
+Your quest is doomed!       ~00~#029
+;000217A6{                            ~00~}#032#029
+                            ~00~#029
+;000217C3{Stay on the road!           ~00~}#032#029
+Stay on the road!           ~00~#029
+;000217E0{                            ~00~}#032#029
+                            ~00~#029
+;000217FD{Don't go any farther!       ~00~}#032#029
+Don't go any farther!       ~00~#029
+;0002181A{                            ~00~}#032#029
+                            ~00~#029
+;00021837{Wrong Way!                  ~00~}#032#029
+Wrong Way!                  ~00~#029
+;00021854{                            ~00~}#032#029
+                            ~00~#029
+;00021871{Four villains rule Forestria~00~}#032#029
+Four villains rule Forestria~00~#029
+;0002188E{                            ~00~}#032#029
+                            ~00~#029
+;000218AB{x                           ~00~}#032#029
+x                           ~00~#029
+;000218C8{x                           ~00~}#032#029
+x                           ~00~#029
+;000218E5{There's no turning back!    ~00~}#032#029
+There's no turning back!    ~00~#029
+;00021902{                            ~00~}#032#029
+                            ~00~#029
+;0002191F{Swamplands                  ~00~}#032#029
+Swamplands                  ~00~#029
+;0002193C{                            ~00~}#032#029
+                            ~00~#029
+;00021959{Pirate's Treasure Trove     ~00~}#032#029
+Pirate's Treasure Trove     ~00~#029
+;00021976{                            ~00~}#032#029
+                            ~00~#029
+;00021993{Corak was here!             ~00~}#032#029
+Corak was here!             ~00~#029
+;000219B0{                            ~00~}#032#029
+                            ~00~#029
+;000219CD{Thieves will be eaten!      ~00~}#032#029
+Thieves will be eaten!      ~00~#029
+;000219EA{                            ~00~}#032#029
+                            ~00~#029
+;00021A07{Pirates have no mercy!      ~00~}#032#029
+Pirates have no mercy!      ~00~#029
+;00021A24{                            ~00~}#032#029
+                            ~00~#029
+;00021A41{The dead live!              ~00~}#032#029
+The dead live!              ~00~#029
+;00021A5E{                            ~00~}#032#029
+                            ~00~#029
+;00021A7B{There are five islands here.~00~}#032#029
+There are five islands here.~00~#029
+;00021A98{                            ~00~}#032#029
+                            ~00~#029
+;00021AB5{Maximus will DIE!           ~00~}#032#029
+Maximus will DIE!           ~00~#029
+;00021AD2{                            ~00~}#032#029
+                            ~00~#029
+;00021AEF{Pool of Prosperity          ~00~}#032#029
+Pool of Prosperity          ~00~#029
+;00021B0C{                            ~00~}#032#029
+                            ~00~#029
+;00021B29{Four villains rule here.    ~00~}#032#029
+Four villains rule here.    ~00~#029
+;00021B46{                            ~00~}#032#029
+                            ~00~#029
+|1044
+@00021B63-00021F76-00
+;00021B63{Down with the King!         ~00~}#032#029
+Down with the King!         ~00~#029
+;00021B80{                            ~00~}#032#029
+                            ~00~#029
+;00021B9D{The islands hide treasures. ~00~}#032#029
+The islands hide treasures. ~00~#029
+;00021BBA{                            ~00~}#032#029
+                            ~00~#029
+;00021BD7{Time, is on our side!       ~00~}#032#029
+Time, is on our side!       ~00~#029
+;00021BF4{                            ~00~}#032#029
+                            ~00~#029
+;00021C11{Welcome to Archipelia!      ~00~}#032#029
+Welcome to Archipelia!      ~00~#029
+;00021C2E{                            ~00~}#032#029
+                            ~00~#029
+;00021C4B{ testing version 1.18 \     ~00~}#032#029
+ testing version 1.18 \     ~00~#029
+;00021C68{x                           ~00~}#032#029
+x                           ~00~#029
+;00021C85{x                           ~00~}#032#029
+x                           ~00~#029
+;00021CA2{x                           ~00~}#032#029
+x                           ~00~#029
+;00021CBF{x                           ~00~}#032#029
+x                           ~00~#029
+;00021CDC{x                           ~00~}#032#029
+x                           ~00~#029
+;00021CF9{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D16{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D33{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D50{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D6D{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D8A{x                           ~00~}#032#029
+x                           ~00~#029
+;00021DA7{x                           ~00~}#032#029
+x                           ~00~#029
+;00021DC4{x                           ~00~}#032#029
+x                           ~00~#029
+;00021DE1{Saharia is a volcano        ~00~}#032#029
+Saharia is a volcano        ~00~#029
+;00021DFE{surrounded by a desert.     ~00~}#032#029
+surrounded by a desert.     ~00~#029
+;00021E1B{Three villains rule Saharia.~00~}#032#029
+Three villains rule Saharia.~00~#029
+;00021E38{                            ~00~}#032#029
+                            ~00~#029
+;00021E55{Your army will perish here! ~00~}#032#029
+Your army will perish here! ~00~#029
+;00021E72{                            ~00~}#032#029
+                            ~00~#029
+;00021E8F{Oasis                       ~00~}#032#029
+Oasis                       ~00~#029
+;00021EAC{                            ~00~}#032#029
+                            ~00~#029
+;00021EC9{Wading Pool                 ~00~}#032#029
+Wading Pool                 ~00~#029
+;00021EE6{                            ~00~}#032#029
+                            ~00~#029
+;00021F03{Oasis of Plenty             ~00~}#032#029
+Oasis of Plenty             ~00~#029
+;00021F20{                            ~00~}#032#029
+                            ~00~#029
+;00021F3D{There is no escaping the    ~00~}#032#029
+There is no escaping the    ~00~#029
+;00021F5A{prophecy!                   ~00~}#032#029
+prophecy!                   ~00~#029
+|1044
+@00021F77-00022385-00
+;00021F77{Volcano Guardian            ~00~}#032#029
+Volcano Guardian            ~00~#029
+;00021F94{                            ~00~}#032#029
+                            ~00~#029
+;00021FB1{Time is running out!        ~00~}#032#029
+Time is running out!        ~00~#029
+;00021FCE{                            ~00~}#032#029
+                            ~00~#029
+;00021FEB{Treasure Trough             ~00~}#032#029
+Treasure Trough             ~00~#029
+;00022008{                            ~00~}#032#029
+                            ~00~#029
+;00022025{Rest Stop                   ~00~}#032#029
+Rest Stop                   ~00~#029
+;00022042{                            ~00~}#032#029
+                            ~00~#029
+;0002205F{Treasure Zone               ~00~}#032#029
+Treasure Zone               ~00~#029
+;0002207C{                            ~00~}#032#029
+                            ~00~#029
+;00022099{This place is a nightmare!  ~00~}#032#029
+This place is a nightmare!  ~00~#029
+;000220B6{                            ~00~}#032#029
+                            ~00~#029
+;000220D3{   ...and a piece of the~00~}#028#025
+   ...and a piece of the~00~#025
+;000220EC{ map to the stolen scepter.~00~}#031#028
+ map to the stolen scepter.~00~#028
+;00022108{  Freeing a virtuous maiden\~00~}#032#029
+  Freeing a virtuous maiden\~00~#029
+;00022125{   from the clutches of a\  ~00~}#032#029
+   from the clutches of a\  ~00~#029
+;00022142{  despicable criminal, you\ ~00~}#032#029
+  despicable criminal, you\ ~00~#029
+;0002215F{      have been granted\    ~00~}#032#029
+      have been granted\    ~00~#029
+;0002217C{\                           ~00~}#032#029
+\                           ~00~#029
+;00022199{  The Articles of Nobility!\~00~}#032#029
+  The Articles of Nobility!\~00~#029
+;000221B6{ Ridding the countryside of\~00~}#032#029
+ Ridding the countryside of\~00~#029
+;000221D3{   a ferocious beast, the\  ~00~}#032#029
+   a ferocious beast, the\  ~00~#029
+;000221F0{Magistrate presents you with~00~}#032#029
+Magistrate presents you with~00~#029
+;0002220D{\                           ~00~}#032#029
+\                           ~00~#029
+;0002222A{    The Ring of Heroism!\   ~00~}#032#029
+    The Ring of Heroism!\   ~00~#029
+;00022247{\                           ~00~}#032#029
+\                           ~00~#029
+;00022264{  Challenged to a joust by\ ~00~}#032#029
+  Challenged to a joust by\ ~00~#029
+;00022281{ the dread Dark Knight, you\~00~}#032#029
+ the dread Dark Knight, you\~00~#029
+;0002229E{ quickly dispose of him and\~00~}#032#029
+ quickly dispose of him and\~00~#029
+;000222BB{           receive\         ~00~}#032#029
+           receive\         ~00~#029
+;000222D8{\                           ~00~}#032#029
+\                           ~00~#029
+;000222F5{  The Shield of Protection!\~00~}#032#029
+  The Shield of Protection!\~00~#029
+;00022312{You discover ancient scrolls~00~}#032#029
+You discover ancient scrolls~00~#029
+;0002232F{ that describe the patterns\~00~}#032#029
+ that describe the patterns\~00~#029
+;0002234C{ of the oceans. Mariners, in~00~}#032#029
+ of the oceans. Mariners, in~00~#029
+;00022369{ gratitude, bestow upon you\~00~}#032#029
+ gratitude, bestow upon you\~00~#029
+|1039
+@00022386-00022785-00
+;00022386{\                           ~00~}#032#029
+\                           ~00~#029
+;000223A3{  The Anchor of Admirality!\~00~}#032#029
+  The Anchor of Admirality!\~00~#029
+;000223C0{  Resting on a throne in a\ ~00~}#032#029
+  Resting on a throne in a\ ~00~#029
+;000223DD{  phantom castle, you have\ ~00~}#032#029
+  phantom castle, you have\ ~00~#029
+;000223FA{            found\          ~00~}#032#029
+            found\          ~00~#029
+;00022417{\                           ~00~}#032#029
+\                           ~00~#029
+;00022434{    The Crown of Command!\  ~00~}#032#029
+    The Crown of Command!\  ~00~#029
+;00022451{\                           ~00~}#032#029
+\                           ~00~#029
+;0002246E{ In the study of a deserted\~00~}#032#029
+ In the study of a deserted\~00~#029
+;0002248B{  wizard's tower, you have\ ~00~}#032#029
+  wizard's tower, you have\ ~00~#029
+;000224A8{            found\          ~00~}#032#029
+            found\          ~00~#029
+;000224C5{\                           ~00~}#032#029
+\                           ~00~#029
+;000224E2{     The Book of Necros!\   ~00~}#032#029
+     The Book of Necros!\   ~00~#029
+;000224FF{\                           ~00~}#032#029
+\                           ~00~#029
+;0002251C{ Hidden within an enchanted\~00~}#032#029
+ Hidden within an enchanted\~00~#029
+;00022539{       grove, you find\     ~00~}#032#029
+       grove, you find\     ~00~#029
+;00022556{\                           ~00~}#032#029
+\                           ~00~#029
+;00022573{\                           ~00~}#032#029
+\                           ~00~#029
+;00022590{ The Amulet of Augmentation!~00~}#032#029
+ The Amulet of Augmentation!~00~#029
+;000225AD{\                           ~00~}#032#029
+\                           ~00~#029
+;000225CA{ Following rumors of a great~00~}#032#029
+ Following rumors of a great~00~#029
+;000225E7{   and powerful sword, you\ ~00~}#032#029
+   and powerful sword, you\ ~00~#029
+;00022604{defeat its fearsome guardian~00~}#032#029
+defeat its fearsome guardian~00~#029
+;00022621{   and gain possession of\  ~00~}#032#029
+   and gain possession of\  ~00~#029
+;0002263E{\                           ~00~}#032#029
+\                           ~00~#029
+;0002265B{    The Sword of Prowess!\  ~00~}#032#029
+    The Sword of Prowess!\  ~00~#029
+;00022678{Riverton\     ~00~}#018#015
+Riverton\     ~00~#015
+;00022687{Underfoot\    ~00~}#018#015
+Underfoot\    ~00~#015
+;00022696{Path's End\   ~00~}#018#015
+Path's End\   ~00~#015
+;000226A5{Anomaly\      ~00~}#018#015
+Anomaly\      ~00~#015
+;000226B4{Topshore\     ~00~}#018#015
+Topshore\     ~00~#015
+;000226C3{Lakeview\     ~00~}#018#015
+Lakeview\     ~00~#015
+;000226D2{Simpleton\    ~00~}#018#015
+Simpleton\    ~00~#015
+;000226E1{Centrapf\     ~00~}#018#015
+Centrapf\     ~00~#015
+;000226F0{Quiln Point\  ~00~}#018#015
+Quiln Point\  ~00~#015
+;000226FF{Midland\      ~00~}#018#015
+Midland\      ~00~#015
+;0002270E{Xoctan\       ~00~}#018#015
+Xoctan\       ~00~#015
+;0002271D{Overthere\    ~00~}#018#015
+Overthere\    ~00~#015
+;0002272C{Elan's Landing~00~}#018#015
+Elan's Landing~00~#015
+;0002273B{King's Haven\ ~00~}#018#015
+King's Haven\ ~00~#015
+;0002274A{Bayside\      ~00~}#018#015
+Bayside\      ~00~#015
+;00022759{Nyre\         ~00~}#018#015
+Nyre\         ~00~#015
+;00022768{Dark Corner\  ~00~}#018#015
+Dark Corner\  ~00~#015
+;00022777{Isla Vista\   ~00~}#018#015
+Isla Vista\   ~00~#015
+|1024
+@00022786-00022B9E-00
+;00022786{Grimwold\     ~00~}#018#015
+Grimwold\     ~00~#015
+;00022795{Japper\       ~00~}#018#015
+Japper\       ~00~#015
+;000227A4{Vengeance\    ~00~}#018#015
+Vengeance\    ~00~#015
+;000227B3{Hunterville\  ~00~}#018#015
+Hunterville\  ~00~#015
+;000227C2{Fjord\        ~00~}#018#015
+Fjord\        ~00~#015
+;000227D1{Yakonia\      ~00~}#018#015
+Yakonia\      ~00~#015
+;000227E0{Woods End\    ~00~}#018#015
+Woods End\    ~00~#015
+;000227EF{Zaezoizu\     ~00~}#018#015
+Zaezoizu\     ~00~#015
+;000227FE{occupy this castle.~00~}#023#020
+occupy this castle.~00~#020
+;00022812{Lay Siege (y/n)?~00~}#020#017
+Lay Siege (y/n)?~00~#017
+;00022823{Town of~00~}#011#008
+Town of~00~#008
+;0002282B{Get New Contract\       ~00~}#028#025
+Get New Contract\       ~00~#025
+;00022844{Rent boat (\            ~00~}#028#025
+Rent boat (\            ~00~#025
+;0002285D{Gather information\     ~00~}#028#025
+Gather information\     ~00~#025
+;00022876{Buy seige weapons (3000)~00~}#028#025
+Buy seige weapons (3000)~00~#025
+;0002288F{Cancel boat rental  \   ~00~}#028#025
+Cancel boat rental  \   ~00~#025
+;000228A8{                          ~00~}#030#027
+                          ~00~#027
+;000228C3{100 week)~00~}#013#010
+100 week)~00~#010
+;000228CD{500 week)~00~}#013#010
+500 week)~00~#010
+;000228D7{Clone\       ~00~}#017#014
+Clone\       ~00~#014
+;000228E5{Teleport\    ~00~}#017#014
+Teleport\    ~00~#014
+;000228F3{Fireball\    ~00~}#017#014
+Fireball\    ~00~#014
+;00022901{Lightning\   ~00~}#017#014
+Lightning\   ~00~#014
+;0002290F{Freeze\      ~00~}#017#014
+Freeze\      ~00~#014
+;0002291D{Resurrect\   ~00~}#017#014
+Resurrect\   ~00~#014
+;0002292B{Turn Undead\ ~00~}#017#014
+Turn Undead\ ~00~#014
+;00022939{Bridge\      ~00~}#017#014
+Bridge\      ~00~#014
+;00022947{Time Stop\   ~00~}#017#014
+Time Stop\   ~00~#014
+;00022955{Find Villain\~00~}#017#014
+Find Villain\~00~#014
+;00022963{Castle Gate\ ~00~}#017#014
+Castle Gate\ ~00~#014
+;00022971{Town Gate\   ~00~}#017#014
+Town Gate\   ~00~#014
+;0002297F{Instant Army\~00~}#017#014
+Instant Army\~00~#014
+;0002298D{Raise Control~00~}#017#014
+Raise Control~00~#014
+;0002299B{spell (~00~}#011#008
+spell (~00~#008
+;000229A3{spell.~00~}#010#007
+spell.~00~#007
+;000229AA{spells.~00~}#011#008
+spells.~00~#008
+;000229B2{After scouring the area,\   ~00~}#032#029
+After scouring the area,\   ~00~#029
+;000229CF{you fall upon a hidden\     ~00~}#032#029
+you fall upon a hidden\     ~00~#029
+;000229EC{treasure cache. You may:\   ~00~}#032#029
+treasure cache. You may:\   ~00~#029
+;00022A09{  Take the\                 ~00~}#032#029
+  Take the\                 ~00~#029
+;00022A26{  Distribute the gold to the~00~}#032#029
+  Distribute the gold to the~00~#029
+;00022A43{   peasants, increasing your~00~}#032#029
+   peasants, increasing your~00~#029
+;00022A60{   leadership by\           ~00~}#032#029
+   leadership by\           ~00~#029
+;00022A7D{  After surveying the area,\~00~}#032#029
+  After surveying the area,\~00~#029
+;00022A9A{   you discover that it is\ ~00~}#032#029
+   you discover that it is\ ~00~#029
+;00022AB7{  rich in mineral deposits.\~00~}#032#029
+  rich in mineral deposits.\~00~#029
+;00022AD4{                            ~00~}#032#029
+                            ~00~#029
+;00022AF1{  The King rewards you for\ ~00~}#032#029
+  The King rewards you for\ ~00~#029
+;00022B0E{   your find by increasing\ ~00~}#032#029
+   your find by increasing\ ~00~#029
+;00022B2B{  your weekly income by\    ~00~}#032#029
+  your weekly income by\    ~00~#029
+;00022B48{  Traversing the area, you\ ~00~}#032#029
+  Traversing the area, you\ ~00~#029
+;00022B65{  stumble upon a time worn\ ~00~}#032#029
+  stumble upon a time worn\ ~00~#029
+;00022B82{  cannister.  Curious, you\ ~00~}#032#029
+  cannister.  Curious, you\ ~00~#029
+|1049
+@00022B9F-00022FB2-00
+;00022B9F{     unstop the bottle,\    ~00~}#032#029
+     unstop the bottle,\    ~00~#029
+;00022BBC{ releasing a powerful genie\~00~}#032#029
+ releasing a powerful genie\~00~#029
+;00022BD9{    who raises your Spell\  ~00~}#032#029
+    who raises your Spell\  ~00~#029
+;00022BF6{  Power by 1 and vanishes.\ ~00~}#032#029
+  Power by 1 and vanishes.\ ~00~#029
+;00022C13{A tribe of nomads greet you\~00~}#032#029
+A tribe of nomads greet you\~00~#029
+;00022C30{and your army warmly. Their\~00~}#032#029
+and your army warmly. Their\~00~#029
+;00022C4D{   shaman, in awe of your\  ~00~}#032#029
+   shaman, in awe of your\  ~00~#029
+;00022C6A{  prowess, teaches you the\ ~00~}#032#029
+  prowess, teaches you the\ ~00~#029
+;00022C87{secret of his tribe's magic.~00~}#032#029
+secret of his tribe's magic.~00~#029
+;00022CA4{Your maximum spell capacity\~00~}#032#029
+Your maximum spell capacity\~00~#029
+;00022CC1{     is increased by\       ~00~}#032#029
+     is increased by\       ~00~#029
+;00022CDE{     You have captured a\   ~00~}#032#029
+     You have captured a\   ~00~#029
+;00022CFB{ mischievious imp which has\~00~}#032#029
+ mischievious imp which has\~00~#029
+;00022D18{    been terrorizing the\   ~00~}#032#029
+    been terrorizing the\   ~00~#029
+;00022D35{   region. In exchange for\ ~00~}#032#029
+   region. In exchange for\ ~00~#029
+;00022D52{  its release, you receive:\~00~}#032#029
+  its release, you receive:\~00~#029
+;00022D6F{  Hidden within an ancient  ~00~}#032#029
+  Hidden within an ancient  ~00~#029
+;00022D8C{  chest, you find maps and  ~00~}#032#029
+  chest, you find maps and  ~00~#029
+;00022DA9{charts describing passage to~00~}#032#029
+charts describing passage to~00~#029
+;00022DC6{  Peering through a magical\~00~}#032#029
+  Peering through a magical\~00~#029
+;00022DE3{orb you are able to view the~00~}#032#029
+orb you are able to view the~00~#029
+;00022E00{ entire continent. Your map\~00~}#032#029
+ entire continent. Your map\~00~#029
+;00022E1D{  of this area is complete.\~00~}#032#029
+  of this area is complete.\~00~#029
+;00022E3A{   Trumpets announce your\  ~00~}#032#029
+   Trumpets announce your\  ~00~#029
+;00022E57{ arrival with regal fanfare.~00~}#032#029
+ arrival with regal fanfare.~00~#029
+;00022E74{\                           ~00~}#032#029
+\                           ~00~#029
+;00022E91{   King Maximus rises from\ ~00~}#032#029
+   King Maximus rises from\ ~00~#029
+;00022EAE{   his throne to greet you\ ~00~}#032#029
+   his throne to greet you\ ~00~#029
+;00022ECB{       and proclaims:\      ~00~}#032#029
+       and proclaims:\      ~00~#029
+;00022EE8{    I can aid you better\   ~00~}#032#029
+    I can aid you better\   ~00~#029
+;00022F05{   after you've captured\   ~00~}#032#029
+   after you've captured\   ~00~#029
+;00022F22{        more villain.\      ~00~}#032#029
+        more villain.\      ~00~#029
+;00022F3F{      Congratulations!\     ~00~}#032#029
+      Congratulations!\     ~00~#029
+;00022F5C{    I now promote you to\   ~00~}#032#029
+    I now promote you to\   ~00~#029
+;00022F79{    Hurry and recover my\   ~00~}#032#029
+    Hurry and recover my\   ~00~#029
+;00022F96{   Scepter of Order or all\ ~00~}#032#029
+   Scepter of Order or all\ ~00~#029
+|1044
+@00022FB3-000233CA-00
+;00022FB3{        will be lost!\      ~00~}#032#029
+        will be lost!\      ~00~#029
+;00022FD0{the~00~}#007#004
+the~00~#004
+;00022FD4{Knight\  ~00~}#013#010
+Knight\  ~00~#010
+;00022FDE{General\ ~00~}#013#010
+General\ ~00~#010
+;00022FE8{Marshal\ ~00~}#013#010
+Marshal\ ~00~#010
+;00022FF2{Lord\    ~00~}#013#010
+Lord\    ~00~#010
+;00022FFC{Paladin\ ~00~}#013#010
+Paladin\ ~00~#010
+;00023006{Crusader\~00~}#013#010
+Crusader\~00~#010
+;00023010{Avenger\ ~00~}#013#010
+Avenger\ ~00~#010
+;0002301A{Champion\~00~}#013#010
+Champion\~00~#010
+;00023024{Sorceress~00~}#013#010
+Sorceress~00~#010
+;0002302E{Magician\~00~}#013#010
+Magician\~00~#010
+;00023038{Mage\    ~00~}#013#010
+Mage\    ~00~#010
+;00023042{Archmage\~00~}#013#010
+Archmage\~00~#010
+;0002304C{Barbarian~00~}#013#010
+Barbarian~00~#010
+;00023056{Chieftain~00~}#013#010
+Chieftain~00~#010
+;00023060{Warlord\ ~00~}#013#010
+Warlord\ ~00~#010
+;0002306A{Overlord\~00~}#013#010
+Overlord\~00~#010
+;00023074{ You haven't been ~00~}#022#019
+ You haven't been ~00~#019
+;00023087{trained in the art~00~}#022#019
+trained in the art~00~#019
+;0002309A{  of spellcasting\~00~}#022#019
+  of spellcasting\~00~#019
+;000230AD{  yet. Visit the\ ~00~}#022#019
+  yet. Visit the\ ~00~#019
+;000230C0{ Archmage Aurange\~00~}#022#019
+ Archmage Aurange\~00~#019
+;000230D3{ in Continentia at~00~}#022#019
+ in Continentia at~00~#019
+;000230E6{  11,19 for this\ ~00~}#022#019
+  11,19 for this\ ~00~#019
+;000230F9{     ability.\    ~00~}#022#019
+     ability.\    ~00~#019
+;0002310C{Castles you have been to:~00~}#029#026
+Castles you have been to:~00~#026
+;00023126{Revisit which castle?~00~}#025#022
+Revisit which castle?~00~#022
+;0002313C{Towns you have been to:~00~}#027#024
+Towns you have been to:~00~#024
+;00023154{Revisit which town?~00~}#023#020
+Revisit which town?~00~#020
+;00023168{have joined to your army.~00~}#029#026
+have joined to your army.~00~#026
+;00023182{   There are no open slots\~00~}#031#028
+   There are no open slots\~00~#028
+;0002319E{  or any of this army type!~00~}#031#028
+  or any of this army type!~00~#028
+;000231BA{Select\ ~00~}#012#009
+Select\ ~00~#009
+;000231C3{(A-\    ~00~}#012#009
+(A-\    ~00~#009
+;000231CC{)\      ~00~}#012#009
+)\      ~00~#009
+;000231D5{How many~00~}#012#009
+How many~00~#009
+;000231DE{Maximum of 5 armies allowed!~00~}#032#029
+Maximum of 5 armies allowed!~00~#029
+;000231FB{Remove\ ~00~}#012#009
+Remove\ ~00~#009
+;00023204{Garrison~00~}#012#009
+Garrison~00~#009
+;0002320D{Space to~00~}#012#009
+Space to~00~#009
+;00023216{Empty\  ~00~}#012#009
+Empty\  ~00~#009
+;0002321F{n/a\    ~00~}#012#009
+n/a\    ~00~#009
+;00023228{ gold.~00~}#010#007
+ gold.~00~#007
+;0002322F{.~00~}#005#002
+.~00~#002
+;00023231{~01~~02~~00~}#012#003
+~01~~02~~00~#003
+;00023234{~00~}#004#001
+~00~#001
+;00023235{~03~~04~~00~}#012#003
+~03~~04~~00~#003
+;00023238{~00~}#004#001
+~00~#001
+;00023239{~05~~06~~00~}#012#003
+~05~~06~~00~#003
+;0002323C{~00~}#004#001
+~00~#001
+;0002323D{~03~~04~~00~}#012#003
+~03~~04~~00~#003
+;00023240{~00~}#004#001
+~00~#001
+;00023241{  ~00~}#006#003
+  ~00~#003
+;00023244{~00~}#004#001
+~00~#001
+;00023245{                         Days Left:\  ~00~}#042#039
+                         Days Left:\  ~00~#039
+;0002326C{     You do not have enough gold!     ~00~}#042#039
+     You do not have enough gold!     ~00~#039
+;00023293{     You may not recruit any more!    ~00~}#042#039
+     You may not recruit any more!    ~00~#039
+;000232BA{ You do not have any more army slots! ~00~}#042#039
+ You do not have any more army slots! ~00~#039
+;000232E1{    There are no armies to remove!    ~00~}#042#039
+    There are no armies to remove!    ~00~#039
+;00023308{ You may not garrison your last army! ~00~}#042#039
+ You may not garrison your last army! ~00~#039
+;0002332F{The castle can't hold any more armies!~00~}#042#039
+The castle can't hold any more armies!~00~#039
+;00023356{  You may not dismiss your last army! ~00~}#042#039
+  You may not dismiss your last army! ~00~#039
+;0002337D{You have no Adventuring spell to cast!~00~}#042#039
+You have no Adventuring spell to cast!~00~#039
+;000233A4{   You have no Combat spell to cast!  ~00~}#042#039
+   You have no Combat spell to cast!  ~00~#039
+|1048
+@000233CB-000237CA-00
+;000233CB{You may cast only one spell per round!~00~}#042#039
+You may cast only one spell per round!~00~#039
+;000233F2{                         TimeStop:\   ~00~}#042#039
+                         TimeStop:\   ~00~#039
+;00023419{           The spell fails.           ~00~}#042#039
+           The spell fails.           ~00~#039
+;00023440{   You've built your bridge too far!  ~00~}#042#039
+   You've built your bridge too far!  ~00~#039
+;00023467{     What a waste of a good spell!    ~00~}#042#039
+     What a waste of a good spell!    ~00~#039
+;0002348E{ Not a suitable location for a bridge!~00~}#042#039
+ Not a suitable location for a bridge!~00~#039
+;000234B5{   You have not been to any castles!  ~00~}#042#039
+   You have not been to any castles!  ~00~#039
+;000234DC{    You have not been to any towns!   ~00~}#042#039
+    You have not been to any towns!   ~00~#039
+;00023503{      Press Start to play again.      ~00~}#042#039
+      Press Start to play again.      ~00~#039
+;0002352A{  You can't land on an occupied area! ~00~}#042#039
+  You can't land on an occupied area! ~00~#039
+;00023551{    You can't attack your own army!   ~00~}#042#039
+    You can't attack your own army!   ~00~#039
+;00023578{  You can't move to an occupied area! ~00~}#042#039
+  You can't move to an occupied area! ~00~#039
+;0002359F{       You must target somebody!      ~00~}#042#039
+       You must target somebody!      ~00~#039
+;000235C6{   You can not learn anymore spells!  ~00~}#042#039
+   You can not learn anymore spells!  ~00~#039
+;000235ED{    You must select your own army!    ~00~}#042#039
+    You must select your own army!    ~00~#039
+;00023614{   You must select an opposing army!  ~00~}#042#039
+   You must select an opposing army!  ~00~#039
+;0002363B{  You must teleport to an empty area! ~00~}#042#039
+  You must teleport to an empty area! ~00~#039
+;00023662{       Press Start to continue.       ~00~}#042#039
+       Press Start to continue.       ~00~#039
+;00023689{GP=~00~}#007#004
+GP=~00~#004
+;0002368D{                                      ~00~}#042#039
+                                      ~00~#039
+;000236B4{Plains\~00~}#011#008
+Plains\~00~#008
+;000236BC{Forest\~00~}#011#008
+Forest\~00~#008
+;000236C4{ Hill\ ~00~}#011#008
+ Hill\ ~00~#008
+;000236CC{Dungeon~00~}#011#008
+Dungeon~00~#008
+;000236D4{______\~00~}#011#008
+______\~00~#008
+;000236DC{______\~00~}#011#008
+______\~00~#008
+;000236E4{ ____\ ~00~}#011#008
+ ____\ ~00~#008
+;000236EC{_______~00~}#011#008
+_______~00~#008
+;000236F4{are available.~00~}#018#015
+are available.~00~#015
+;00023703{are available~00~}#017#014
+are available~00~#014
+;00023711{Cost =~00~}#010#007
+Cost =~00~#007
+;00023718{each.~00~}#009#006
+each.~00~#006
+;0002371E{You may recruit up to~00~}#025#022
+You may recruit up to~00~#022
+;00023734{You may recruit none.~00~}#025#022
+You may recruit none.~00~#022
+;0002374A{Recruit how many?         0~00~}#031#028
+Recruit how many?         0~00~#028
+;00023766{A few\        ~00~}#018#015
+A few\        ~00~#015
+;00023775{Some\         ~00~}#018#015
+Some\         ~00~#015
+;00023784{Many\         ~00~}#018#015
+Many\         ~00~#015
+;00023793{A lot of\     ~00~}#018#015
+A lot of\     ~00~#015
+;000237A2{A horde of\   ~00~}#018#015
+A horde of\   ~00~#015
+;000237B1{A multitude of~00~}#018#015
+A multitude of~00~#015
+;000237C0{Peasants\ ~00~}#014#011
+Peasants\ ~00~#011
+|1024
+@000237CB-00023BD4-00
+;000237CB{Sprites\  ~00~}#014#011
+Sprites\  ~00~#011
+;000237D6{Militias\ ~00~}#014#011
+Militias\ ~00~#011
+;000237E1{Wolves\   ~00~}#014#011
+Wolves\   ~00~#011
+;000237EC{Skeletons\~00~}#014#011
+Skeletons\~00~#011
+;000237F7{Zombies\  ~00~}#014#011
+Zombies\  ~00~#011
+;00023802{Gnomes\   ~00~}#014#011
+Gnomes\   ~00~#011
+;0002380D{Orcs\     ~00~}#014#011
+Orcs\     ~00~#011
+;00023818{Archers\  ~00~}#014#011
+Archers\  ~00~#011
+;00023823{Elves\    ~00~}#014#011
+Elves\    ~00~#011
+;0002382E{Pikemen\  ~00~}#014#011
+Pikemen\  ~00~#011
+;00023839{Nomads\   ~00~}#014#011
+Nomads\   ~00~#011
+;00023844{Dwarves\  ~00~}#014#011
+Dwarves\  ~00~#011
+;0002384F{Ghosts\   ~00~}#014#011
+Ghosts\   ~00~#011
+;0002385A{Knights\  ~00~}#014#011
+Knights\  ~00~#011
+;00023865{Ogres\    ~00~}#014#011
+Ogres\    ~00~#011
+;00023870{Barbarians~00~}#014#011
+Barbarians~00~#011
+;0002387B{Trolls\   ~00~}#014#011
+Trolls\   ~00~#011
+;00023886{Cavalries\~00~}#014#011
+Cavalries\~00~#011
+;00023891{Druids\   ~00~}#014#011
+Druids\   ~00~#011
+;0002389C{Archmages\~00~}#014#011
+Archmages\~00~#011
+;000238A7{Vampires\ ~00~}#014#011
+Vampires\ ~00~#011
+;000238B2{Giants\   ~00~}#014#011
+Giants\   ~00~#011
+;000238BD{Demons\   ~00~}#014#011
+Demons\   ~00~#011
+;000238C8{Dragons\  ~00~}#014#011
+Dragons\  ~00~#011
+;000238D3{Peasant\  ~00~}#014#011
+Peasant\  ~00~#011
+;000238DE{Sprite\   ~00~}#014#011
+Sprite\   ~00~#011
+;000238E9{Militia\  ~00~}#014#011
+Militia\  ~00~#011
+;000238F4{Wolf\     ~00~}#014#011
+Wolf\     ~00~#011
+;000238FF{Skeleton\ ~00~}#014#011
+Skeleton\ ~00~#011
+;0002390A{Zombie\   ~00~}#014#011
+Zombie\   ~00~#011
+;00023915{Gnome\    ~00~}#014#011
+Gnome\    ~00~#011
+;00023920{Orc\      ~00~}#014#011
+Orc\      ~00~#011
+;0002392B{Archer\   ~00~}#014#011
+Archer\   ~00~#011
+;00023936{Elf\      ~00~}#014#011
+Elf\      ~00~#011
+;00023941{Pikeman\  ~00~}#014#011
+Pikeman\  ~00~#011
+;0002394C{Nomad\    ~00~}#014#011
+Nomad\    ~00~#011
+;00023957{Dwarf\    ~00~}#014#011
+Dwarf\    ~00~#011
+;00023962{Ghost\    ~00~}#014#011
+Ghost\    ~00~#011
+;0002396D{Knight\   ~00~}#014#011
+Knight\   ~00~#011
+;00023978{Ogre\     ~00~}#014#011
+Ogre\     ~00~#011
+;00023983{Barbarian\~00~}#014#011
+Barbarian\~00~#011
+;0002398E{Troll\    ~00~}#014#011
+Troll\    ~00~#011
+;00023999{Cavalry\  ~00~}#014#011
+Cavalry\  ~00~#011
+;000239A4{Druid\    ~00~}#014#011
+Druid\    ~00~#011
+;000239AF{Archmage\ ~00~}#014#011
+Archmage\ ~00~#011
+;000239BA{Vampire\  ~00~}#014#011
+Vampire\  ~00~#011
+;000239C5{Giant\    ~00~}#014#011
+Giant\    ~00~#011
+;000239D0{Demon\    ~00~}#014#011
+Demon\    ~00~#011
+;000239DB{Dragon\   ~00~}#014#011
+Dragon\   ~00~#011
+;000239E6{No~00~}#006#003
+No~00~#003
+;000239E9{,~00~}#005#002
+,~00~#002
+;000239EB{s.~00~}#006#003
+s.~00~#003
+;000239EE{!~00~}#005#002
+!~00~#002
+;000239F0{Recruit Soldiers\     ~00~}#026#023
+Recruit Soldiers\     ~00~#023
+;00023A07{Audience with the King~00~}#026#023
+Audience with the King~00~#023
+;00023A1E{Militia   50~00~}#016#013
+Militia   50~00~#013
+;00023A2B{Archers  250~00~}#016#013
+Archers  250~00~#013
+;00023A38{Pikemen  300~00~}#016#013
+Pikemen  300~00~#013
+;00023A45{Cavalry  800~00~}#016#013
+Cavalry  800~00~#013
+;00023A52{Knights 1000~00~}#016#013
+Knights 1000~00~#013
+;00023A5F{ n/a~00~}#008#005
+ n/a~00~#005
+;00023A64{Select army~00~}#015#012
+Select army~00~#012
+;00023A70{to recruit.~00~}#015#012
+to recruit.~00~#012
+;00023A7C{You may get~00~}#015#012
+You may get~00~#012
+;00023A88{up to      ~00~}#015#012
+up to      ~00~#012
+;00023A94{           ~00~}#015#012
+           ~00~#012
+;00023AA0{Recruit how~00~}#015#012
+Recruit how~00~#012
+;00023AAC{many?     0~00~}#015#012
+many?     0~00~#012
+;00023AB8{Various groups of monsters~00~}#030#027
+Various groups of monsters~00~#027
+;00023AD3{occupy this castle.~00~}#023#020
+occupy this castle.~00~#020
+;00023AE7{army occupy this castle.~00~}#028#025
+army occupy this castle.~00~#025
+;00023B00{Lay siege.~00~}#014#011
+Lay siege.~00~#011
+;00023B0B{Venture on.~00~}#015#012
+Venture on.~00~#012
+;00023B17{and~00~}#007#004
+and~00~#004
+;00023B1B{Garrison~00~}#012#009
+Garrison~00~#009
+;00023B24{Remove  ~00~}#012#009
+Remove  ~00~#009
+;00023B2D{ Select ~00~}#012#009
+ Select ~00~#009
+;00023B36{army  to~00~}#012#009
+army  to~00~#009
+;00023B3F{garrison~00~}#012#009
+garrison~00~#009
+;00023B48{ remove ~00~}#012#009
+ remove ~00~#009
+;00023B51{empty           ~00~}#020#017
+empty           ~00~#017
+;00023B62{View your army\       ~00~}#026#023
+View your army\       ~00~#023
+;00023B79{View your character\  ~00~}#026#023
+View your character\  ~00~#023
+;00023B90{Look at continent map\~00~}#026#023
+Look at continent map\~00~#023
+;00023BA7{Use magic\            ~00~}#026#023
+Use magic\            ~00~#023
+;00023BBE{Contract information\ ~00~}#026#023
+Contract information\ ~00~#023
+|1034
+@00023BD5-00023FEB-00
+;00023BD5{Wait to end of week\  ~00~}#026#023
+Wait to end of week\  ~00~#023
+;00023BEC{Look at puzzle pieces\~00~}#026#023
+Look at puzzle pieces\~00~#023
+;00023C03{Search the area\      ~00~}#026#023
+Search the area\      ~00~#023
+;00023C1A{Dismiss army\         ~00~}#026#023
+Dismiss army\         ~00~#023
+;00023C31{Game controls\        ~00~}#026#023
+Game controls\        ~00~#023
+;00023C48{\                     ~00~}#026#023
+\                     ~00~#023
+;00023C5F{Get password\         ~00~}#026#023
+Get password\         ~00~#023
+;00023C76{    Password    ~00~}#020#017
+    Password    ~00~#017
+;00023C87{  Sail to which continent?~00~}#030#027
+  Sail to which continent?~00~#027
+;00023CA2{HitPts:~00~}#011#008
+HitPts:~00~#008
+;00023CAA{SL:    MV:     Damage:~00~}#026#023
+SL:    MV:     Damage:~00~#023
+;00023CC1{Morale:~00~}#011#008
+Morale:~00~#008
+;00023CC9{G-Cost:~00~}#011#008
+G-Cost:~00~#008
+;00023CD1{Fly~00~}#007#004
+Fly~00~#004
+;00023CD5{Norm~00~}#008#005
+Norm~00~#005
+;00023CDA{Low ~00~}#008#005
+Low ~00~#005
+;00023CDF{High~00~}#008#005
+High~00~#005
+;00023CE4{Out of Control~00~}#018#015
+Out of Control~00~#015
+;00023CF3{-~00~}#005#002
+-~00~#002
+;00023CF5{Leadership\       ~00~}#022#019
+Leadership\       ~00~#019
+;00023D08{Commission/Week\  ~00~}#022#019
+Commission/Week\  ~00~#019
+;00023D1B{Gold\             ~00~}#022#019
+Gold\             ~00~#019
+;00023D2E{Spell Power\      ~00~}#022#019
+Spell Power\      ~00~#019
+;00023D41{Max ~23~ of Spells\  ~00~}#025#019
+Max ~23~ of Spells\  ~00~#019
+;00023D54{Villians caught\  ~00~}#022#019
+Villians caught\  ~00~#019
+;00023D67{Artifacts found\  ~00~}#022#019
+Artifacts found\  ~00~#019
+;00023D7A{Castles garrisoned~00~}#022#019
+Castles garrisoned~00~#019
+;00023D8D{Followers killed\ ~00~}#022#019
+Followers killed\ ~00~#019
+;00023DA0{Current score\    ~00~}#022#019
+Current score\    ~00~#019
+;00023DB3{X=   Position Y=~00~}#020#017
+X=   Position Y=~00~#017
+;00023DC4{**~00~}#006#003
+**~00~#003
+;00023DC7{    Dismiss which army?~00~}#027#024
+    Dismiss which army?~00~#024
+;00023DDF{Search...\                  ~00~}#032#029
+Search...\                  ~00~#029
+;00023DFC{ It will take 1 day to do a\~00~}#032#029
+ It will take 1 day to do a\~00~#029
+;00023E19{It will take 10 days to do a~00~}#032#029
+It will take 10 days to do a~00~#029
+;00023E36{search of this area, search?~00~}#032#029
+search of this area, search?~00~#029
+;00023E53{             No\            ~00~}#032#029
+             No\            ~00~#029
+;00023E70{             Yes\           ~00~}#032#029
+             Yes\           ~00~#029
+;00023E8D{Your search of this area has~00~}#032#029
+Your search of this area has~00~#029
+;00023EAA{      revealed nothing.     ~00~}#032#029
+      revealed nothing.     ~00~#029
+;00023EC7{Adventuring Spells~00~}#022#019
+Adventuring Spells~00~#019
+;00023EDA{  Combat Spells\  ~00~}#022#019
+  Combat Spells\  ~00~#019
+;00023EED{  have joined to your army. ~00~}#032#029
+  have joined to your army. ~00~#029
+;00023F0A{ Bridge in which direction?\~00~}#032#029
+ Bridge in which direction?\~00~#029
+;00023F27{\                           ~00~}#032#029
+\                           ~00~#029
+;00023F44{              ~0A~\            ~00~}#035#029
+              ~0A~\            ~00~#029
+;00023F61{             ~08~ ~09~\           ~00~}#038#029
+             ~08~ ~09~\           ~00~#029
+;00023F7E{              ~0B~\            ~00~}#035#029
+              ~0B~\            ~00~#029
+;00023F9B{ Castles you have been to ~00~}#030#027
+ Castles you have been to ~00~#027
+;00023FB6{   Revisit which castle?  ~00~}#030#027
+   Revisit which castle?  ~00~#027
+;00023FD1{  Towns you have been to  ~00~}#030#027
+  Towns you have been to  ~00~#027
+|1047
+@00023FEC-000243FB-00
+;00023FEC{    Revisit which town?   ~00~}#030#027
+    Revisit which town?   ~00~#027
+;00024007{        Password\       ~00~}#028#025
+        Password\       ~00~#025
+;00024020{        ________\       ~00~}#028#025
+        ________\       ~00~#025
+;00024039{\                       ~00~}#028#025
+\                       ~00~#025
+;00024052{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;0002406B{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;00024084{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;0002409D{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;000240B6{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;000240CF{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;000240E8{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;00024101{\                       ~00~}#028#025
+\                       ~00~#025
+;0002411A{  A  B  C  D  E  F  G  H~00~}#028#025
+  A  B  C  D  E  F  G  H~00~#025
+;00024133{  I  J  K  L  M  N  O  P~00~}#028#025
+  I  J  K  L  M  N  O  P~00~#025
+;0002414C{  Q  R  S  T  U  V  W  X~00~}#028#025
+  Q  R  S  T  U  V  W  X~00~#025
+;00024165{  Y  Z  1  2  3  4  5  6~00~}#028#025
+  Y  Z  1  2  3  4  5  6~00~#025
+;0002417E{  7  8  9  0  ~0A~  ~0B~  ~08~  ~09~~00~}#040#025
+  7  8  9  0  ~0A~  ~0B~  ~08~  ~09~~00~#025
+;00024197{Enter Password and Press Start~00~}#034#031
+Enter Password and Press Start~00~#031
+;000241B6{       Invalid Password!      ~00~}#034#031
+       Invalid Password!      ~00~#031
+;000241D5{   The venerable Archmage,\ ~00~}#032#029
+   The venerable Archmage,\ ~00~#029
+;000241F2{Aurange, will teach you the\~00~}#032#029
+Aurange, will teach you the\~00~#029
+;0002420F{secrets of spell casting for~00~}#032#029
+secrets of spell casting for~00~#029
+;0002422C{   only 5000 gold pieces.\  ~00~}#032#029
+   only 5000 gold pieces.\  ~00~#029
+;00024249{\                           ~00~}#032#029
+\                           ~00~#029
+;00024266{            Accept\         ~00~}#032#029
+            Accept\         ~00~#029
+;00024283{            Decline\        ~00~}#032#029
+            Decline\        ~00~#029
+;000242A0{  The sign said 5000 gold!\ ~00~}#032#029
+  The sign said 5000 gold!\ ~00~#029
+;000242BD{ Why waste my valuable time\~00~}#032#029
+ Why waste my valuable time\~00~#029
+;000242DA{when you know you don't have~00~}#032#029
+when you know you don't have~00~#029
+;000242F7{the required amount of gold?~00~}#032#029
+the required amount of gold?~00~#029
+;00024314{\                           ~00~}#032#029
+\                           ~00~#029
+;00024331{    Begone until you do!\   ~00~}#032#029
+    Begone until you do!\   ~00~#029
+;0002434E{You have not been trained in~00~}#032#029
+You have not been trained in~00~#029
+;0002436B{the art of spellcasting yet.~00~}#032#029
+the art of spellcasting yet.~00~#029
+;00024388{ Visit the Archmage Aurange ~00~}#032#029
+ Visit the Archmage Aurange ~00~#029
+;000243A5{ in Continentia at 11,19 to ~00~}#032#029
+ in Continentia at 11,19 to ~00~#029
+;000243C2{     learn the ability.     ~00~}#032#029
+     learn the ability.     ~00~#029
+;000243DF{Week ~23~~00~}#013#007
+Week ~23~~00~#007
+;000243E6{Astrologers proclaim:~00~}#025#022
+Astrologers proclaim:~00~#022
+|1040
+@000243FC-00024806-00
+;000243FC{Week of the~00~}#015#012
+Week of the~00~#012
+;00024408{dwellings are~00~}#017#014
+dwellings are~00~#014
+;00024416{repopulated.~00~}#016#013
+repopulated.~00~#013
+;00024423{Budget~00~}#010#007
+Budget~00~#007
+;0002442A{On Hand~00~}#011#008
+On Hand~00~#008
+;00024432{Payment~00~}#011#008
+Payment~00~#008
+;0002443A{Boat\  ~00~}#011#008
+Boat\  ~00~#008
+;00024442{Army\  ~00~}#011#008
+Army\  ~00~#008
+;0002444A{Balance~00~}#011#008
+Balance~00~#008
+;00024452{All~00~}#007#004
+All~00~#004
+;00024456{Leave~00~}#009#006
+Leave~00~#006
+;0002445C{After being disgraced on the~00~}#032#029
+After being disgraced on the~00~#029
+;00024479{    field of battle, King\  ~00~}#032#029
+    field of battle, King\  ~00~#029
+;00024496{ Maximus summons you to his\~00~}#032#029
+ Maximus summons you to his\~00~#029
+;000244B3{  castle. After a lesson in\~00~}#032#029
+  castle. After a lesson in\~00~#029
+;000244D0{   tactics, he reluctantly\ ~00~}#032#029
+   tactics, he reluctantly\ ~00~#029
+;000244ED{reissues your commission and~00~}#032#029
+reissues your commission and~00~#029
+;0002450A{   sends you on your way.\  ~00~}#032#029
+   sends you on your way.\  ~00~#029
+;00024527{After being disgraced on the~00~}#032#029
+After being disgraced on the~00~#029
+;00024544{    field of battle, King\  ~00~}#032#029
+    field of battle, King\  ~00~#029
+;00024561{ Maximus summons you to his\~00~}#032#029
+ Maximus summons you to his\~00~#029
+;0002457E{  castle. After a lesson in\~00~}#032#029
+  castle. After a lesson in\~00~#029
+;0002459B{   tactics, he reluctantly\ ~00~}#032#029
+   tactics, he reluctantly\ ~00~#029
+;000245B8{reissues your commission and~00~}#032#029
+reissues your commission and~00~#029
+;000245D5{   sends you on your way.\  ~00~}#032#029
+   sends you on your way.\  ~00~#029
+;000245F2{   You need siege weapons\  ~00~}#032#029
+   You need siege weapons\  ~00~#029
+;0002460F{     to attack a castle.\   ~00~}#032#029
+     to attack a castle.\   ~00~#029
+;0002462C{Congratulations,\ ~00~}#022#019
+Congratulations,\ ~00~#019
+;0002463F{have recovered the~00~}#022#019
+have recovered the~00~#019
+;00024652{Sceptre of Order\ ~00~}#022#019
+Sceptre of Order\ ~00~#019
+;00024665{from the clutches\~00~}#022#019
+from the clutches\~00~#019
+;00024678{of the evil Master~00~}#022#019
+of the evil Master~00~#019
+;0002468B{Villains.  As a\  ~00~}#022#019
+Villains.  As a\  ~00~#019
+;0002469E{reward for saving\~00~}#022#019
+reward for saving\~00~#019
+;000246B1{himself and the\  ~00~}#022#019
+himself and the\  ~00~#019
+;000246C4{four continents\  ~00~}#022#019
+four continents\  ~00~#019
+;000246D7{from ruin, King\  ~00~}#022#019
+from ruin, King\  ~00~#019
+;000246EA{Maximus and his\  ~00~}#022#019
+Maximus and his\  ~00~#019
+;000246FD{subjects reward\  ~00~}#022#019
+subjects reward\  ~00~#019
+;00024710{you with a large\ ~00~}#022#019
+you with a large\ ~00~#019
+;00024723{parcel of land,\  ~00~}#022#019
+parcel of land,\  ~00~#019
+;00024736{a rank of nobility~00~}#022#019
+a rank of nobility~00~#019
+;00024749{and a medal\      ~00~}#022#019
+and a medal\      ~00~#019
+;0002475C{announcing your\  ~00~}#022#019
+announcing your\  ~00~#019
+;0002476F{Final Score:\     ~00~}#022#019
+Final Score:\     ~00~#019
+;00024782{Sir Crimsaun!  You~00~}#022#019
+Sir Crimsaun!  You~00~#019
+;00024795{Lord Palmer!  You\~00~}#022#019
+Lord Palmer!  You\~00~#019
+;000247A8{Tynnestra!  You\  ~00~}#022#019
+Tynnestra!  You\  ~00~#019
+;000247BB{Mad Moham!  You\  ~00~}#022#019
+Mad Moham!  You\  ~00~#019
+;000247CE{you have failed to~00~}#022#019
+you have failed to~00~#019
+;000247E1{recover the\      ~00~}#022#019
+recover the\      ~00~#019
+;000247F4{Sceptre of Order\ ~00~}#022#019
+Sceptre of Order\ ~00~#019
+|1035
+@00024807-00024C18-00
+;00024807{in time to save\  ~00~}#022#019
+in time to save\  ~00~#019
+;0002481A{the land!  Beloved~00~}#022#019
+the land!  Beloved~00~#019
+;0002482D{King Maximus has\ ~00~}#022#019
+King Maximus has\ ~00~#019
+;00024840{died and the Demon~00~}#022#019
+died and the Demon~00~#019
+;00024853{King Urthrax\     ~00~}#022#019
+King Urthrax\     ~00~#019
+;00024866{Killspite rules in~00~}#022#019
+Killspite rules in~00~#019
+;00024879{his place.  The\  ~00~}#022#019
+his place.  The\  ~00~#019
+;0002488C{Four Continents\  ~00~}#022#019
+Four Continents\  ~00~#019
+;0002489F{lay in ruin about\~00~}#022#019
+lay in ruin about\~00~#019
+;000248B2{you, its people\  ~00~}#022#019
+you, its people\  ~00~#019
+;000248C5{doomed to a life\ ~00~}#022#019
+doomed to a life\ ~00~#019
+;000248D8{of misery and\    ~00~}#022#019
+of misery and\    ~00~#019
+;000248EB{oppression because~00~}#022#019
+oppression because~00~#019
+;000248FE{you could not find~00~}#022#019
+you could not find~00~#019
+;00024911{the Sceptre.\     ~00~}#022#019
+the Sceptre.\     ~00~#019
+;00024924{Oh, Sir Crimsaun,\~00~}#022#019
+Oh, Sir Crimsaun,\~00~#019
+;00024937{Oh, Lord Palmer,\ ~00~}#022#019
+Oh, Lord Palmer,\ ~00~#019
+;0002494A{Oh, Tynnestra,\   ~00~}#022#019
+Oh, Tynnestra,\   ~00~#019
+;0002495D{Oh, Mad Moham,\   ~00~}#022#019
+Oh, Mad Moham,\   ~00~#019
+;00024970{Attack or Move~00~}#018#015
+Attack or Move~00~#015
+;0002497F{Attack, Shoot or Move~00~}#025#022
+Attack, Shoot or Move~00~#022
+;00024995{Move~00~}#008#005
+Move~00~#005
+;0002499A{Shoot (~00~}#011#008
+Shoot (~00~#008
+;000249A2{left)~00~}#009#006
+left)~00~#006
+;000249A8{Shoot~00~}#009#006
+Shoot~00~#006
+;000249AE{are out of control!~00~}#023#020
+are out of control!~00~#020
+;000249C2{do nothing right now.~00~}#025#022
+do nothing right now.~00~#022
+;000249D8{Demons halve~00~}#016#013
+Demons halve~00~#013
+;000249E5{retaliate, killing~00~}#022#019
+retaliate, killing~00~#019
+;000249F8{attack\    ~00~}#015#012
+attack\    ~00~#012
+;00024A04{shoot\     ~00~}#015#012
+shoot\     ~00~#012
+;00024A10{electricute~00~}#015#012
+electricute~00~#012
+;00024A1C{blast\     ~00~}#015#012
+blast\     ~00~#012
+;00024A28{die~00~}#007#004
+die~00~#004
+;00024A2C{          Victory!\         ~00~}#032#029
+          Victory!\         ~00~#029
+;00024A49{          ________\         ~00~}#032#029
+          ________\         ~00~#029
+;00024A66{    you have successfully\  ~00~}#032#029
+    you have successfully\  ~00~#029
+;00024A83{ vanquished yet another foe.~00~}#032#029
+ vanquished yet another foe.~00~#029
+;00024AA0{Spoils of War:\             ~00~}#032#029
+Spoils of War:\             ~00~#029
+;00024ABD{   Well done Sir Crimsaun,\ ~00~}#032#029
+   Well done Sir Crimsaun,\ ~00~#029
+;00024ADA{   Well done Lord Palmer,\  ~00~}#032#029
+   Well done Lord Palmer,\  ~00~#029
+;00024AF7{    Well done Tynnestra,\   ~00~}#032#029
+    Well done Tynnestra,\   ~00~#029
+;00024B14{    Well done Mad Moham,\   ~00~}#032#029
+    Well done Mad Moham,\   ~00~#029
+;00024B31{     And the capture of\    ~00~}#032#029
+     And the capture of\    ~00~#029
+;00024B4E{For fulfilling your contract~00~}#032#029
+For fulfilling your contract~00~#029
+;00024B6B{  you receive an additional\~00~}#032#029
+  you receive an additional\~00~#029
+;00024B88{gold as bounty\             ~00~}#032#029
+gold as bounty\             ~00~#029
+;00024BA5{  and a piece of the map to ~00~}#032#029
+  and a piece of the map to ~00~#029
+;00024BC2{     the stolen scepter.\   ~00~}#032#029
+     the stolen scepter.\   ~00~#029
+;00024BDF{   Since you did not have\  ~00~}#032#029
+   Since you did not have\  ~00~#029
+;00024BFC{    the proper contract,\   ~00~}#032#029
+    the proper contract,\   ~00~#029
+|1042
+@00024C19-0002501D-00
+;00024C19{ the Lord has been set free.~00~}#032#029
+ the Lord has been set free.~00~#029
+;00024C36{You can learn~00~}#017#014
+You can learn~00~#014
+;00024C44{more spells.~00~}#016#013
+more spells.~00~#013
+;00024C51{View your army\    ~00~}#023#020
+View your army\    ~00~#020
+;00024C65{View your character~00~}#023#020
+View your character~00~#020
+;00024C79{Use magic\         ~00~}#023#020
+Use magic\         ~00~#020
+;00024C8D{Pass\              ~00~}#023#020
+Pass\              ~00~#020
+;00024CA1{Wait\              ~00~}#023#020
+Wait\              ~00~#020
+;00024CB5{Game controls\     ~00~}#023#020
+Game controls\     ~00~#020
+;00024CC9{\                  ~00~}#023#020
+\                  ~00~#020
+;00024CDD{Give up\           ~00~}#023#020
+Give up\           ~00~#020
+;00024CF1{   Giving up will\  ~00~}#024#021
+   Giving up will\  ~00~#021
+;00024D06{ forfeit your armies~00~}#024#021
+ forfeit your armies~00~#021
+;00024D1B{and send you back to~00~}#024#021
+and send you back to~00~#021
+;00024D30{      the King.\    ~00~}#024#021
+      the King.\    ~00~#021
+;00024D45{\                   ~00~}#024#021
+\                   ~00~#021
+;00024D5A{   Continue battle\ ~00~}#024#021
+   Continue battle\ ~00~#021
+;00024D6F{   Give up\         ~00~}#024#021
+   Give up\         ~00~#021
+;00024D84{pass~00~}#008#005
+pass~00~#005
+;00024D89{wait~00~}#008#005
+wait~00~#005
+;00024D8E{      Select your army to clone.      ~00~}#042#039
+      Select your army to clone.      ~00~#039
+;00024DB5{       Select army to teleport.       ~00~}#042#039
+       Select army to teleport.       ~00~#039
+;00024DDC{      Select enemy army to blast.     ~00~}#042#039
+      Select enemy army to blast.     ~00~#039
+;00024E03{   Select enemy army to electricute.  ~00~}#042#039
+   Select enemy army to electricute.  ~00~#039
+;00024E2A{     Select enemy army to freeze.     ~00~}#042#039
+     Select enemy army to freeze.     ~00~#039
+;00024E51{    Select your army to ressurect.    ~00~}#042#039
+    Select your army to ressurect.    ~00~#039
+;00024E78{      Select enemy army to turn.      ~00~}#042#039
+      Select enemy army to turn.      ~00~#039
+;00024E9F{ Select new location to teleport army.~00~}#042#039
+ Select new location to teleport army.~00~#039
+;00024EC6{Turn undead kills~00~}#021#018
+Turn undead kills~00~#018
+;00024ED8{Turn has no effect on~00~}#025#022
+Turn has no effect on~00~#022
+;00024EEE{Fireball kills~00~}#018#015
+Fireball kills~00~#015
+;00024EFD{Lightning kills~00~}#019#016
+Lightning kills~00~#016
+;00024F0D{Fireball has no effect on Dragons~00~}#037#034
+Fireball has no effect on Dragons~00~#034
+;00024F2F{Lightning has no effect on Dragons~00~}#038#035
+Lightning has no effect on Dragons~00~#035
+;00024F52{are cloned~00~}#014#011
+are cloned~00~#011
+;00024F5D{Clone has no effect on Dragons~00~}#034#031
+Clone has no effect on Dragons~00~#031
+;00024F7C{are teleported~00~}#018#015
+are teleported~00~#015
+;00024F8B{Teleport has no effect on Dragons~00~}#037#034
+Teleport has no effect on Dragons~00~#034
+;00024FAD{are frozen~00~}#014#011
+are frozen~00~#011
+;00024FB8{Freeze has no effect on Dragons~00~}#035#032
+Freeze has no effect on Dragons~00~#032
+;00024FD8{are ressurected~00~}#019#016
+are ressurected~00~#016
+;00024FE8{Ressurect has no effect on Dragons~00~}#038#035
+Ressurect has no effect on Dragons~00~#035
+;0002500B{   Game Control\  ~00~}#022#019
+   Game Control\  ~00~#019
+|1029
+@0002501E-00025172-00
+;0002501E{   ____________\  ~00~}#022#019
+   ____________\  ~00~#019
+;00025031{\                 ~00~}#022#019
+\                 ~00~#019
+;00025044{   Music\         ~00~}#022#019
+   Music\         ~00~#019
+;00025057{   Sound\         ~00~}#022#019
+   Sound\         ~00~#019
+;0002506A{   Combat delay\  ~00~}#022#019
+   Combat delay\  ~00~#019
+;0002507D{\                 ~00~}#022#019
+\                 ~00~#019
+;00025090{off~00~}#007#004
+off~00~#004
+;00025094{on ~00~}#007#004
+on ~00~#004
+;00025098{may not shoot (~00~}#019#016
+may not shoot (~00~#016
+;000250A8{  with desires of greater\  ~00~}#032#029
+  with desires of greater\  ~00~#029
+;000250C5{  glory, wish to join you.\ ~00~}#032#029
+  glory, wish to join you.\ ~00~#029
+;000250E2{\                           ~00~}#032#029
+\                           ~00~#029
+;000250FF{            Accept\         ~00~}#032#029
+            Accept\         ~00~#029
+;0002511C{            Decline\        ~00~}#032#029
+            Decline\        ~00~#029
+;00025139{   flee in terror at the\   ~00~}#032#029
+   flee in terror at the\   ~00~#029
+;00025156{  sight of your vast army.\ ~00~}#032#029
+  sight of your vast army.\ ~00~#029
+|341

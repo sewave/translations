@@ -1,0 +1,2332 @@
+;00000411 - fly
+@00000411-00000413-FF
+~07~~FA~~90~#003
+|3
+;0000077D - move
+@0000077D-0000077F-FF
+~07~~FA~~A0~#003
+|3
+;0000075F - Shoot (
+@0000075F-00000761-FF
+~07~~FA~~B0~#003
+|3
+;0000078F - die
+@0000078F-00000791-FF
+~07~~FA~~C0~#003
+|3
+;00000768 - Shoot
+@00000768-0000076A-FF
+~07~~FA~~D0~#003
+|3
+@0007FA80-0007FB00-00
+esperan\       ~00~#016
+vuelan\        ~00~#016
+se mueven\     ~00~#016
+Disparar (\    ~00~#016
+caen\          ~00~#016
+disparan a\    ~00~#016
+               ~00~#016
+               ~00~#016
+|128
+@000163A3-000163A4-00
+;000163A3{g~00~}#005#002
+o~00~#002
+|2
+@000163B1-000163B2-00
+;000163B1{o~00~}#005#002
+r~00~#002
+|2
+@000163BF-000163C0-00
+;000163BF{l~00~}#005#002
+o~00~#002
+|2
+@000163CD-000163CE-00
+;000163CD{d~00~}#005#002
+.~00~#002
+|2
+@000163DB-000163DC-00
+;000163DB{.~00~}#005#002
+ ~00~#002
+|2
+@0001EE9A-0001F2AD-00
+;0001EE9A{Alias: None\                ~00~}#032#029
+Alias: Ninguno\             ~00~#029
+;0001EEB7{Reward: 5,000 gold\         ~00~}#032#029
+Recompensa: 5.000 de oro\   ~00~#029
+;0001EED4{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001EEF1{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001EF0E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001EF2B{  Threadbare clothes, bald\ ~00~}#032#029
+  Ropa raída, calva con pelo~00~#029
+;0001EF48{  patch with hair combed to\~00~}#032#029
+  peinado para cubrirla,\   ~00~#029
+;0001EF65{  cover it, incessant cough.~00~}#032#029
+  tos incesante.\           ~00~#029
+;0001EF82{Crimes: Murray is wanted for~00~}#032#029
+Crímenes: Se busca a Murray\~00~#029
+;0001EF9F{  various petty crimes as\  ~00~}#032#029
+  por crímenes pequeños así\~00~#029
+;0001EFBC{  well as for treason.  He\ ~00~}#032#029
+  como por traición.\       ~00~#029
+;0001EFD9{  allowed a group of pirates~00~}#032#029
+  Dejó entrar al castillo a\~00~#029
+;0001EFF6{  to enter the castle and\  ~00~}#032#029
+  un grupo de piratas para\ ~00~#029
+;0001F013{  free criminals.\          ~00~}#032#029
+  liberar a criminales.\    ~00~#029
+;0001F030{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F04D{Name: Hack the Rogue\       ~00~}#032#029
+Nombre: Hack el Pícaro\     ~00~#029
+;0001F06A{Alias: The Spitter\         ~00~}#032#029
+Alias: El Escupidor\        ~00~#029
+;0001F087{Reward: 6,000 gold\         ~00~}#032#029
+Recompensa: de 6.000 oro\   ~00~#029
+;0001F0A4{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001F0C1{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001F0DE{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001F0FB{  Bushy ebon beard stained\ ~00~}#032#029
+  Peluda barba de ébano\    ~00~#029
+;0001F118{  with tobacco juice,\      ~00~}#032#029
+  manchada con jugo de\     ~00~#029
+;0001F135{  numerous battle scars,\   ~00~}#032#029
+  tabaco, muchas cicatrices,~00~#029
+;0001F152{  brash, arrogant behavior.\~00~}#032#029
+  temerario y arrogante.\   ~00~#029
+;0001F16F{Crimes: Along with many\    ~00~}#032#029
+Crímenes: Junto a varias\   ~00~#029
+;0001F18C{  minor infractions, Hack is~00~}#032#029
+  infracciones menores, Hack~00~#029
+;0001F1A9{  wanted for conspiracy\    ~00~}#032#029
+  es buscado por conspirar\ ~00~#029
+;0001F1C6{  against the Crown and\    ~00~}#032#029
+  contra la Corona y por\   ~00~#029
+;0001F1E3{  grave-robbing.\           ~00~}#032#029
+  ladrón de tumbas.\        ~00~#029
+;0001F200{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F21D{Name: Princesa Aimola\      ~00~}#032#029
+Nombre: Princesa Aimola\    ~00~#029
+;0001F23A{Alias: Lady Deceit\         ~00~}#032#029
+Alias: Dama Decepción\      ~00~#029
+;0001F257{Reward: 7,000 gold\         ~00~}#032#029
+Recompensa: 7.000 de oro\   ~00~#029
+;0001F274{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001F291{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+|1044
+@0001F2AE-0001F6C1-00
+;0001F2AE{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001F2CB{  Excessive use of make-up\ ~00~}#032#029
+  Excesivo uso de maquillaje~00~#029
+;0001F2E8{  to hide aging features,\  ~00~}#032#029
+  para ocultar su edad,\    ~00~#029
+;0001F305{  ever-present lace\        ~00~}#032#029
+  siempre presente pañuelo\ ~00~#029
+;0001F322{  handkerchief.\            ~00~}#032#029
+  de encaje.\               ~00~#029
+;0001F33F{Crimes: The Princesa\       ~00~}#032#029
+Crímenes: La Princesa violó\~00~#029
+;0001F35C{  violated her status as a\ ~00~}#032#029
+  su estado como dignataria\~00~#029
+;0001F379{  visiting dignitary by\    ~00~}#032#029
+  visitante alentando a un\ ~00~#029
+;0001F396{  encouraging a murder and\ ~00~}#032#029
+  asesinato y uniéndose a la~00~#029
+;0001F3B3{  joining the conspiracy \  ~00~}#032#029
+  conspiración contra la\   ~00~#029
+;0001F3D0{  against the Crown.\       ~00~}#032#029
+  Corona.\                  ~00~#029
+;0001F3ED{Name: Baron Johnno Makahl\  ~00~}#032#029
+Nombre: Barón Johnno Makahl\~00~#029
+;0001F40A{Alias: Johnno\              ~00~}#032#029
+Alias: Johnno\              ~00~#029
+;0001F427{Reward: 8,000 gold\         ~00~}#032#029
+Recompensa: 8.000 de oro\   ~00~#029
+;0001F444{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001F461{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001F47E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001F49B{  Expensive and gaudy\      ~00~}#032#029
+  Caras y llamativas\       ~00~#029
+;0001F4B8{  clothes, overweight, and\ ~00~}#032#029
+  vestimentas, sobrepeso y\ ~00~#029
+;0001F4D5{  a scruffy beard.\         ~00~}#032#029
+  una barba desaliñada.\    ~00~#029
+;0001F4F2{Crimes: Johnno is wanted for~00~}#032#029
+Crímenes: Johnno es buscado\~00~#029
+;0001F50F{  various crimes against the~00~}#032#029
+  por varios crímenes contra~00~#029
+;0001F52C{  Kingdom, including leading~00~}#032#029
+  el Reino, incluyendo\     ~00~#029
+;0001F549{  a direct assualt against\ ~00~}#032#029
+  liderar un ataque directo\~00~#029
+;0001F566{  the Crown and conspiracy.\~00~}#032#029
+  contra la corona y\       ~00~#029
+;0001F583{\                           ~00~}#032#029
+  conspiración.\            ~00~#029
+;0001F5A0{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F5BD{Name: Dread Pirate Rob\     ~00~}#032#029
+Nombre: Terrible Pirata Rob\~00~#029
+;0001F5DA{Alias: Terror of the Sea\   ~00~}#032#029
+Alias: Terror del Mar\      ~00~#029
+;0001F5F7{Reward: 9,000 gold\         ~00~}#032#029
+Recompensa: 9.000 de oro\   ~00~#029
+;0001F614{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001F631{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001F64E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001F66B{  Pencil thin moustache\    ~00~}#032#029
+  Bigote fino cual lápiz,\  ~00~#029
+;0001F688{  and elegantly trimmed\    ~00~}#032#029
+  y elegantemente recortada ~00~#029
+;0001F6A5{  beard never without a \   ~00~}#032#029
+  barba nunca sin un\       ~00~#029
+|1044
+@0001F6C2-0001FAD5-00
+;0001F6C2{  rapier.\                  ~00~}#032#029
+  estoque.\                 ~00~#029
+;0001F6DF{Crimes: Rob is wanted for\  ~00~}#032#029
+Crímenes: Rob es buscado por~00~#029
+;0001F6FC{  piracy as well as\        ~00~}#032#029
+  piratería así como por\   ~00~#029
+;0001F719{  conspiracy and for\       ~00~}#032#029
+  conspiración y por\       ~00~#029
+;0001F736{  breaking out five traitors~00~}#032#029
+  liberar a cinco traidores\~00~#029
+;0001F753{  sentenced to death in the\~00~}#032#029
+  sentenciados a muerte en\ ~00~#029
+;0001F770{  Royal Dungeons.\          ~00~}#032#029
+  las Mazmorras Reales.\    ~00~#029
+;0001F78D{Name: Caneghor the Mystic\  ~00~}#032#029
+Nombre: Canegor el Místico\ ~00~#029
+;0001F7AA{Alias: The Majestic Sage\   ~00~}#032#029
+Alias: El Sabio Majestuoso\ ~00~#029
+;0001F7C7{Reward: 10,000 gold\        ~00~}#032#029
+Recompensa: 10.000 de oro\  ~00~#029
+;0001F7E4{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001F801{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001F81E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001F83B{  Voluminous robes, bald\   ~00~}#032#029
+  Ropas voluminosas, cabeza\~00~#029
+;0001F858{  head, magic symbols\      ~00~}#032#029
+  calva, símbolos mágicos\  ~00~#029
+;0001F875{  engraved on body,\        ~00~}#032#029
+  grabados en el cuerpo,\   ~00~#029
+;0001F892{  levitating ability.\      ~00~}#032#029
+  habilidad para levitar.\  ~00~#029
+;0001F8AF{Crimes: Canegor is wanted\  ~00~}#032#029
+Crímenes: Canegor es buscado~00~#029
+;0001F8CC{  for grave robbing,\       ~00~}#032#029
+  por ladrón de tumbas,\    ~00~#029
+;0001F8E9{  conspiracy against the\   ~00~}#032#029
+  conspiración contra la\   ~00~#029
+;0001F906{  Crown, and plundering the\~00~}#032#029
+  Corona y saquear la\      ~00~#029
+;0001F923{  Royal Library.\           ~00~}#032#029
+  Biblioteca Real.\         ~00~#029
+;0001F940{\                           ~00~}#032#029
+\                           ~00~#029
+;0001F95D{Name:Sir Moradon the Cruel\ ~00~}#032#029
+Nombre: Sir Moradon el Cruel~00~#029
+;0001F97A{Alias: None\                ~00~}#032#029
+Alias: Ninguno\             ~00~#029
+;0001F997{Reward: 12,000 gold\        ~00~}#032#029
+Recompensa: 12.000 de oro\  ~00~#029
+;0001F9B4{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001F9D1{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001F9EE{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001FA0B{  Always wearing armor and\ ~00~}#032#029
+  Siempre lleva una armadura~00~#029
+;0001FA28{  concealed weapons, has two~00~}#032#029
+  y armas ocultas, tiene dos~00~#029
+;0001FA45{  prominent front teeth and\~00~}#032#029
+  grandes dientes frontales\~00~#029
+;0001FA62{  an unkept beard.\         ~00~}#032#029
+  y una barba descuidada.\  ~00~#029
+;0001FA7F{Crimes: Sir Moradon, an\    ~00~}#032#029
+Crímenes: Sir Moradon un\   ~00~#029
+;0001FA9C{  emissary from another \   ~00~}#032#029
+  emisario de otra tierra,\ ~00~#029
+;0001FAB9{  land, is wanted for\      ~00~}#032#029
+  está buscado por unirse a\~00~#029
+|1044
+@0001FAD6-0001FEE9-00
+;0001FAD6{  joining a conspiracy to\  ~00~}#032#029
+  la conspiración para\     ~00~#029
+;0001FAF3{  topple the kingdom.\      ~00~}#032#029
+  derrocar al reino.\       ~00~#029
+;0001FB10{\                           ~00~}#032#029
+\                           ~00~#029
+;0001FB2D{Name: Prince Barrowpine\    ~00~}#032#029
+Nombre: Príncipe Barrowpine\~00~#029
+;0001FB4A{Alias: The Elf Lord\        ~00~}#032#029
+Alias: El Lord Elfo\        ~00~#029
+;0001FB67{Reward: 14,000 gold\        ~00~}#032#029
+Recompensa: 14.000 de oro\  ~00~#029
+;0001FB84{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001FBA1{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001FBBE{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001FBDB{  Pointed ears, sharp\      ~00~}#032#029
+  Orejas puntiagudas, agudos~00~#029
+;0001FBF8{  elfin features, pale blue\~00~}#032#029
+  atributos élficos, ojos\  ~00~#029
+;0001FC15{  eyes with no whites,\     ~00~}#032#029
+  pálidos azules sin blanco,~00~#029
+;0001FC32{  glimmering enchanted coin.~00~}#032#029
+  brillante moneda mágica.\ ~00~#029
+;0001FC4F{Crimes: The prince is one of~00~}#032#029
+Crímenes: El príncipe es uno~00~#029
+;0001FC6C{  the leaders of the\       ~00~}#032#029
+  de los líderes de la\     ~00~#029
+;0001FC89{  conspiracy against the\   ~00~}#032#029
+  conspiración contra la\   ~00~#029
+;0001FCA6{  Crown, he also traffics\  ~00~}#032#029
+  Corona, también trafica\  ~00~#029
+;0001FCC3{  stolen artifacts.\        ~00~}#032#029
+  con artefactos robados.\  ~00~#029
+;0001FCE0{                            ~00~}#032#029
+                            ~00~#029
+;0001FCFD{Name: Bargash Eyesore\      ~00~}#032#029
+Nombre: Bargash el Feo\     ~00~#029
+;0001FD1A{Alias: Old One Eye\         ~00~}#032#029
+Alias: Viejo de Un Ojo\     ~00~#029
+;0001FD37{Reward: 16,000 gold\        ~00~}#032#029
+Recompensa: 16.000 de oro\  ~00~#029
+;0001FD54{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001FD71{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001FD8E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001FDAB{  Single eye centered in\   ~00~}#032#029
+  Un solo ojo centrado en\  ~00~#029
+;0001FDC8{  middle of forehead, over\ ~00~}#032#029
+  medio de su frente, unos\ ~00~#029
+;0001FDE5{  ten feet tall, only hair\ ~00~}#032#029
+  305 cm de altura, solo\   ~00~#029
+;0001FE02{  on body is in beard.\     ~00~}#032#029
+  tiene pelo en la barba.\  ~00~#029
+;0001FE1F{Crimes: Bargash is wanted\  ~00~}#032#029
+Crímenes: Bargash es buscado~00~#029
+;0001FE3C{  for conspiracy against the~00~}#032#029
+  por conspiración contra la~00~#029
+;0001FE59{  Crown and for leading an\ ~00~}#032#029
+  Corona y por liderar un\  ~00~#029
+;0001FE76{  outright attack against\  ~00~}#032#029
+  rotundo ataque contra el\ ~00~#029
+;0001FE93{  the King.\                ~00~}#032#029
+  Rey.\                     ~00~#029
+;0001FEB0{                            ~00~}#032#029
+                            ~00~#029
+;0001FECD{Name: Rinaldus Drybone\     ~00~}#032#029
+Nombre: Rinaldus Huesoseco\ ~00~#029
+|1044
+@0001FEEA-000202FD-00
+;0001FEEA{Alias: The Death Lord\      ~00~}#032#029
+Alias: El Lord de la Muerte\~00~#029
+;0001FF07{Reward: 18,000 gold\        ~00~}#032#029
+Recompensa: 18.000 de oro\  ~00~#029
+;0001FF24{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;0001FF41{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0001FF5E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0001FF7B{  Rinaldus is a magically\  ~00~}#032#029
+  Rinaldus es un esqueleto\ ~00~#029
+;0001FF98{  animated skeleton, an\    ~00~}#032#029
+  animado mágicamente, un no~00~#029
+;0001FFB5{  undead, he is easily\     ~00~}#032#029
+  muerto, es fácilmente\    ~00~#029
+;0001FFD2{  identifiable by the\      ~00~}#032#029
+  identificable por la\     ~00~#029
+;0001FFEF{  ancient crown he wears.\  ~00~}#032#029
+  antigua corona que lleva.\~00~#029
+;0002000C{Crimes: Rinaldus is wanted\ ~00~}#032#029
+Crímenes:Rinaldus es buscado~00~#029
+;00020029{  for conspiracy against the~00~}#032#029
+  por conspiración contra la~00~#029
+;00020046{  Crown and leading a\      ~00~}#032#029
+  Corona y liderar una\     ~00~#029
+;00020063{  rebellion on the continent~00~}#032#029
+  rebelión en el continente\~00~#029
+;00020080{  of Saharia.\              ~00~}#032#029
+  de Saharia.\              ~00~#029
+;0002009D{Name: Ragface\              ~00~}#032#029
+Nombre: Caratrapo\          ~00~#029
+;000200BA{Alias: None\                ~00~}#032#029
+Alias: Ninguno\             ~00~#029
+;000200D7{Reward: 20,000 gold\        ~00~}#032#029
+Recompensa: 20.000 de oro\  ~00~#029
+;000200F4{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;00020111{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0002012E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0002014B{  Ragface is an undead, he\ ~00~}#032#029
+  Caratrapo es un no muerto,~00~#029
+;00020168{  is covered from head to\  ~00~}#032#029
+  está cubierto de la cabeza~00~#029
+;00020185{  foot in moldering green\  ~00~}#032#029
+  a los pies en tiras de\   ~00~#029
+;000201A2{  strips of cloth. A rotting~00~}#032#029
+  tela putrefactas. Le sigue~00~#029
+;000201BF{  smell follows him.\       ~00~}#032#029
+  un olor a podrido.\       ~00~#029
+;000201DC{Crimes: Conspiracy against\ ~00~}#032#029
+Crímenes: Conspirar contra\ ~00~#029
+;000201F9{  the Crown and leading an\ ~00~}#032#029
+  la Corona y liderar una\  ~00~#029
+;00020216{  insurrection in Saharia.\ ~00~}#032#029
+  insurrección en Saharia.\ ~00~#029
+;00020233{\                           ~00~}#032#029
+\                           ~00~#029
+;00020250{\                           ~00~}#032#029
+\                           ~00~#029
+;0002026D{Name: Mahk Bellowspeak\     ~00~}#032#029
+Nombre: Mahk Picofuelle\    ~00~#029
+;0002028A{Alias: Bruiser\             ~00~}#032#029
+Alias: Matón\               ~00~#029
+;000202A7{Reward: 25,000 gold\        ~00~}#032#029
+Recompensa: 25.000 de oro\  ~00~#029
+;000202C4{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;000202E1{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+|1044
+@000202FE-00020711-00
+;000202FE{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0002031B{  Bright orange body hair\  ~00~}#032#029
+  Pelo corporal naranja\    ~00~#029
+;00020338{  on a fluorescent green\   ~00~}#032#029
+  brillante sobre un cuerpo\~00~#029
+;00020355{  body, a tendency to shout\~00~}#032#029
+  verde, tendencia a gritar\~00~#029
+;00020372{  for no apparent reason.\  ~00~}#032#029
+  sin una razón aparente.\  ~00~#029
+;0002038F{Crimes: Mahk is wanted for\ ~00~}#032#029
+Crímenes: Mahk es buscado\  ~00~#029
+;000203AC{  the conspiracy against the~00~}#032#029
+  por conspiración contra la~00~#029
+;000203C9{  Crown, leading a jail\    ~00~}#032#029
+  Corona, liderar una fuga\ ~00~#029
+;000203E6{  break, and for piracy on\ ~00~}#032#029
+  de prisión y por piratería~00~#029
+;00020403{  the open seas.\           ~00~}#032#029
+  en mar abierto.\          ~00~#029
+;00020420{\                           ~00~}#032#029
+\                           ~00~#029
+;0002043D{Name: Auric Whiteskin\      ~00~}#032#029
+Nombre: Auric Pielblanca\   ~00~#029
+;0002045A{Alias: The Barbarian\       ~00~}#032#029
+Alias: El Bárbaro\          ~00~#029
+;00020477{Reward: 30,000 gold\        ~00~}#032#029
+Recompensa: 30.000 de oro\  ~00~#029
+;00020494{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;000204B1{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;000204CE{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;000204EB{  Auric is heavily muscled\ ~00~}#032#029
+  Auric es muy musculoso\   ~00~#029
+;00020508{  and wears a protective\   ~00~}#032#029
+  y lleva una piel\         ~00~#029
+;00020525{  skin made from the hides\ ~00~}#032#029
+  protectora hecha de cuero\~00~#029
+;00020542{  of baby lambs.\           ~00~}#032#029
+  de corderitos.\           ~00~#029
+;0002055F{Crimes: Auric is wanted for\~00~}#032#029
+Crímenes: Auric es buscado\ ~00~#029
+;0002057C{  conspiracy and for leading~00~}#032#029
+  por conspiración y por\   ~00~#029
+;00020599{  the rebellion of the\     ~00~}#032#029
+  liderar la rebelión del\  ~00~#029
+;000205B6{  continent Saharia.\       ~00~}#032#029
+  continente de Saharia.\   ~00~#029
+;000205D3{\                           ~00~}#032#029
+\                           ~00~#029
+;000205F0{\                           ~00~}#032#029
+\                           ~00~#029
+;0002060D{Name:Czar Nickolai the Mad\ ~00~}#032#029
+Nombre: Zar Nickolai el Loco~00~#029
+;0002062A{Alias: The Mad Czar\        ~00~}#032#029
+Alias: El Zar Loco\         ~00~#029
+;00020647{Reward: 35,000 gold\        ~00~}#032#029
+Recompensa: 35.000 de oro\  ~00~#029
+;00020664{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;00020681{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0002069E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;000206BB{  The Czar has eyes which\  ~00~}#032#029
+  El Zar tiene ojos que\    ~00~#029
+;000206D8{  change color constantly,\ ~00~}#032#029
+  cambian de color sin parar~00~#029
+;000206F5{  also a sulphuric smell\   ~00~}#032#029
+  y un olor sulfúrico que\  ~00~#029
+|1044
+@00020712-00020B25-00
+;00020712{  emanates from his body.\  ~00~}#032#029
+  emana de su cuerpo.\      ~00~#029
+;0002072F{Crimes: The Czar is wanted\ ~00~}#032#029
+Crímenes: El Zar es buscado\~00~#029
+;0002074C{  for conspiracy against the~00~}#032#029
+  por conspiración contra la~00~#029
+;00020769{  Crown, violating\         ~00~}#032#029
+  Corona, violar su estado\ ~00~#029
+;00020786{  diplomatic status, and\   ~00~}#032#029
+  diplomático y asesinato.\ ~00~#029
+;000207A3{  murder.\                  ~00~}#032#029
+\                           ~00~#029
+;000207C0{\                           ~00~}#032#029
+\                           ~00~#029
+;000207DD{Name: Magus Deathspell\     ~00~}#032#029
+Nombre: Magus Hechizomuerte\~00~#029
+;000207FA{Alias: None\                ~00~}#032#029
+Alias: Ninguno\             ~00~#029
+;00020817{Reward: 40,000 gold\        ~00~}#032#029
+Recompensa: 40.000 de oro\  ~00~#029
+;00020834{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;00020851{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;0002086E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;0002088B{  Pupil-less eyes, flowing\ ~00~}#032#029
+  Ojos sin pupilas, fluyente~00~#029
+;000208A8{  white beard, always wears\~00~}#032#029
+  barba blanca, siempre\    ~00~#029
+;000208C5{  crimson robes and a\      ~00~}#032#029
+  lleva batas carmesí y un\ ~00~#029
+;000208E2{  matching skull cap.\      ~00~}#032#029
+  solideo a juego.\         ~00~#029
+;000208FF{Crimes: Magus is wanted for\~00~}#032#029
+Crímenes: Magus es buscado\ ~00~#029
+;0002091C{  conspiracy against the\   ~00~}#032#029
+  por conspiración contra la~00~#029
+;00020939{  Crown and for practicing\ ~00~}#032#029
+  Corona y por practicar\   ~00~#029
+;00020956{  forbidden magics.\        ~00~}#032#029
+  magia prohibida.\         ~00~#029
+;00020973{\                           ~00~}#032#029
+\                           ~00~#029
+;00020990{\                           ~00~}#032#029
+\                           ~00~#029
+;000209AD{Name: Urthrax Killspite\    ~00~}#032#029
+Nombre: Urthrax Matapesar\  ~00~#029
+;000209CA{Alias: The Demon King\      ~00~}#032#029
+Alias: El Rey Demonio\      ~00~#029
+;000209E7{Reward: 45,000 gold\        ~00~}#032#029
+Recompensa: 45.000 de oro\  ~00~#029
+;00020A04{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;00020A21{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;00020A3E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;00020A5B{  Green, scaly skin,\       ~00~}#032#029
+  Verde, piel escamosa,\    ~00~#029
+;00020A78{  glowing red eyes, horns\  ~00~}#032#029
+  ojos rojos brillantes,\   ~00~#029
+;00020A95{  protruding from sides of\ ~00~}#032#029
+  cuernos a los lados de su\~00~#029
+;00020AB2{  head, over 7 feet tall.\  ~00~}#032#029
+  cabeza, mide más de 214cm.~00~#029
+;00020ACF{Crimes: Urthrax is wanted\  ~00~}#032#029
+Crímenes: Se busca a Urthrax~00~#029
+;00020AEC{  for conspiracy against the~00~}#032#029
+  por conspiración contra la~00~#029
+;00020B09{  Crown.\                   ~00~}#032#029
+  Corona.\                  ~00~#029
+|1044
+@0002133B-0002174E-00
+;0002133B{Pirate's Cove               ~00~}#032#029
+Cueva de los piratas        ~00~#029
+;00021358{                            ~00~}#032#029
+                            ~00~#029
+;00021375{Boon Docks                  ~00~}#032#029
+Muelles Boon                ~00~#029
+;00021392{                            ~00~}#032#029
+                            ~00~#029
+;000213AF{Welcome to Kookamunga!      ~00~}#032#029
+¡Bienvenido a Kookamunga!   ~00~#029
+;000213CC{                            ~00~}#032#029
+                            ~00~#029
+;000213E9{Time is on our side.        ~00~}#032#029
+El tiempo nos beneficia.    ~00~#029
+;00021406{                            ~00~}#032#029
+                            ~00~#029
+;00021423{Passage to Basefit.         ~00~}#032#029
+Pasaje a Basefit.           ~00~#029
+;00021440{                            ~00~}#032#029
+                            ~00~#029
+;0002145D{The end is near.            ~00~}#032#029
+El fin está cerca.          ~00~#029
+;0002147A{                            ~00~}#032#029
+                            ~00~#029
+;00021497{Treasure at the river's end.~00~}#032#029
+Tesoro al final del río.    ~00~#029
+;000214B4{                            ~00~}#032#029
+                            ~00~#029
+;000214D1{The ogres are back... and   ~00~}#032#029
+Los ogros han vuelto...     ~00~#029
+;000214EE{they're hungry!             ~00~}#032#029
+¡y tienen hambre!           ~00~#029
+;0002150B{Wood's End is south.        ~00~}#032#029
+Fin de Bosque está al sur.  ~00~#029
+;00021528{                            ~00~}#032#029
+                            ~00~#029
+;00021545{Undead are everywhere!      ~00~}#032#029
+¡Está lleno de no-muertos!  ~00~#029
+;00021562{                            ~00~}#032#029
+                            ~00~#029
+;0002157F{Peasants are fodder!        ~00~}#032#029
+¡Los campesinos son pasto!  ~00~#029
+;0002159C{                            ~00~}#032#029
+                            ~00~#029
+;000215B9{Monster Way                 ~00~}#032#029
+Camino Monstruo             ~00~#029
+;000215D6{                            ~00~}#032#029
+                            ~00~#029
+;000215F3{There is one town for each  ~00~}#032#029
+Hay una ciudad por cada     ~00~#029
+;00021610{castle.                     ~00~}#032#029
+castillo.                   ~00~#029
+;0002162D{Remember, wherever you go   ~00~}#032#029
+Recuerda, dondequiera que   ~00~#029
+;0002164A{there you are.              ~00~}#032#029
+vayas allí estás.           ~00~#029
+;00021667{Forestria maze entrance!    ~00~}#032#029
+¡Entrada al laberinto de    ~00~#029
+;00021684{                            ~00~}#032#029
+Forestria!                  ~00~#029
+;000216A1{Crossroads                  ~00~}#032#029
+Cruce de caminos            ~00~#029
+;000216BE{                            ~00~}#032#029
+                            ~00~#029
+;000216DB{No Trespassing!             ~00~}#032#029
+¡No pasar!                  ~00~#029
+;000216F8{                            ~00~}#032#029
+                            ~00~#029
+;00021715{Beware the moors!           ~00~}#032#029
+¡Cuidado con los páramos!   ~00~#029
+;00021732{                            ~00~}#032#029
+                            ~00~#029
+|1044
+@0002174F-00021B62-00
+;0002174F{You'll never find the       ~00~}#032#029
+¡Aquí nunca encontrarás el  ~00~#029
+;0002176C{Sceptre here!               ~00~}#032#029
+Cetro!                      ~00~#029
+;00021789{Your quest is doomed!       ~00~}#032#029
+¡Tu aventura está condenada!~00~#029
+;000217A6{                            ~00~}#032#029
+                            ~00~#029
+;000217C3{Stay on the road!           ~00~}#032#029
+¡Quédate en el camino!      ~00~#029
+;000217E0{                            ~00~}#032#029
+                            ~00~#029
+;000217FD{Don't go any farther!       ~00~}#032#029
+¡No vayas más lejos!        ~00~#029
+;0002181A{                            ~00~}#032#029
+                            ~00~#029
+;00021837{Wrong Way!                  ~00~}#032#029
+¡Mal Camino!                ~00~#029
+;00021854{                            ~00~}#032#029
+                            ~00~#029
+;00021871{Four villains rule Forestria~00~}#032#029
+Cuatro villanos en Forestria~00~#029
+;0002188E{                            ~00~}#032#029
+                            ~00~#029
+;000218AB{x                           ~00~}#032#029
+x                           ~00~#029
+;000218C8{x                           ~00~}#032#029
+x                           ~00~#029
+;000218E5{There's no turning back!    ~00~}#032#029
+¡Ya no hay vuelta atrás!    ~00~#029
+;00021902{                            ~00~}#032#029
+                            ~00~#029
+;0002191F{Swamplands                  ~00~}#032#029
+Tierras pantanosas          ~00~#029
+;0002193C{                            ~00~}#032#029
+                            ~00~#029
+;00021959{Pirate's Treasure Trove     ~00~}#032#029
+Tesoro de los piratas       ~00~#029
+;00021976{                            ~00~}#032#029
+                            ~00~#029
+;00021993{Corak was here!             ~00~}#032#029
+¡Corak estuvo aquí!         ~00~#029
+;000219B0{                            ~00~}#032#029
+                            ~00~#029
+;000219CD{Thieves will be eaten!      ~00~}#032#029
+¡Los ladrones serán comidos!~00~#029
+;000219EA{                            ~00~}#032#029
+                            ~00~#029
+;00021A07{Pirates have no mercy!      ~00~}#032#029
+¡Los piratas no se apiadan! ~00~#029
+;00021A24{                            ~00~}#032#029
+                            ~00~#029
+;00021A41{The dead live!              ~00~}#032#029
+¡Los muertos viven!         ~00~#029
+;00021A5E{                            ~00~}#032#029
+                            ~00~#029
+;00021A7B{There are five islands here.~00~}#032#029
+Aquí hay cinco islas.       ~00~#029
+;00021A98{                            ~00~}#032#029
+                            ~00~#029
+;00021AB5{Maximus will DIE!           ~00~}#032#029
+¡Maximus morirá!            ~00~#029
+;00021AD2{                            ~00~}#032#029
+                            ~00~#029
+;00021AEF{Pool of Prosperity          ~00~}#032#029
+Estanque de Prosperidad     ~00~#029
+;00021B0C{                            ~00~}#032#029
+                            ~00~#029
+;00021B29{Four villains rule here.    ~00~}#032#029
+Gobiernan cuatro villanos.  ~00~#029
+;00021B46{                            ~00~}#032#029
+                            ~00~#029
+|1044
+@00021B63-00021F76-00
+;00021B63{Down with the King!         ~00~}#032#029
+¡Abajo con el Rey!          ~00~#029
+;00021B80{                            ~00~}#032#029
+                            ~00~#029
+;00021B9D{The islands hide treasures. ~00~}#032#029
+Las islas esconden tesoros. ~00~#029
+;00021BBA{                            ~00~}#032#029
+                            ~00~#029
+;00021BD7{Time, is on our side!       ~00~}#032#029
+¡El tiempo nos beneficia!   ~00~#029
+;00021BF4{                            ~00~}#032#029
+                            ~00~#029
+;00021C11{Welcome to Archipelia!      ~00~}#032#029
+¡Bienvenido a Archipelia!   ~00~#029
+;00021C2E{                            ~00~}#032#029
+                            ~00~#029
+;00021C4B{ testing version 1.18 \     ~00~}#032#029
+ pruebas versión 1.18 \     ~00~#029
+;00021C68{x                           ~00~}#032#029
+x                           ~00~#029
+;00021C85{x                           ~00~}#032#029
+x                           ~00~#029
+;00021CA2{x                           ~00~}#032#029
+x                           ~00~#029
+;00021CBF{x                           ~00~}#032#029
+x                           ~00~#029
+;00021CDC{x                           ~00~}#032#029
+x                           ~00~#029
+;00021CF9{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D16{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D33{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D50{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D6D{x                           ~00~}#032#029
+x                           ~00~#029
+;00021D8A{x                           ~00~}#032#029
+x                           ~00~#029
+;00021DA7{x                           ~00~}#032#029
+x                           ~00~#029
+;00021DC4{x                           ~00~}#032#029
+x                           ~00~#029
+;00021DE1{Saharia is a volcano        ~00~}#032#029
+Saharia es un volcán        ~00~#029
+;00021DFE{surrounded by a desert.     ~00~}#032#029
+rodeado por un desierto.    ~00~#029
+;00021E1B{Three villains rule Saharia.~00~}#032#029
+Tres villanos rigen Saharia.~00~#029
+;00021E38{                            ~00~}#032#029
+                            ~00~#029
+;00021E55{Your army will perish here! ~00~}#032#029
+¡Tu ejército morirá aquí!   ~00~#029
+;00021E72{                            ~00~}#032#029
+                            ~00~#029
+;00021E8F{Oasis                       ~00~}#032#029
+Oasis                       ~00~#029
+;00021EAC{                            ~00~}#032#029
+                            ~00~#029
+;00021EC9{Wading Pool                 ~00~}#032#029
+Estanque del Vadeo          ~00~#029
+;00021EE6{                            ~00~}#032#029
+                            ~00~#029
+;00021F03{Oasis of Plenty             ~00~}#032#029
+Oasis de Plenitud           ~00~#029
+;00021F20{                            ~00~}#032#029
+                            ~00~#029
+;00021F3D{There is no escaping the    ~00~}#032#029
+¡No hay escapatoria de la   ~00~#029
+;00021F5A{prophecy!                   ~00~}#032#029
+profecía!                   ~00~#029
+|1044
+@00021F77-00022385-00
+;00021F77{Volcano Guardian            ~00~}#032#029
+Guardián del Volcán         ~00~#029
+;00021F94{                            ~00~}#032#029
+                            ~00~#029
+;00021FB1{Time is running out!        ~00~}#032#029
+¡El tiempo se está acabando!~00~#029
+;00021FCE{                            ~00~}#032#029
+                            ~00~#029
+;00021FEB{Treasure Trough             ~00~}#032#029
+Canal del Tesoro            ~00~#029
+;00022008{                            ~00~}#032#029
+                            ~00~#029
+;00022025{Rest Stop                   ~00~}#032#029
+Parada del Descanso         ~00~#029
+;00022042{                            ~00~}#032#029
+                            ~00~#029
+;0002205F{Treasure Zone               ~00~}#032#029
+Zona del Tesoro             ~00~#029
+;0002207C{                            ~00~}#032#029
+                            ~00~#029
+;00022099{This place is a nightmare!  ~00~}#032#029
+¡Este lugar es una pesadilla~00~#029
+;000220B6{                            ~00~}#032#029
+pesadilla!                  ~00~#029
+;000220D3{   ...and a piece of the~00~}#028#025
+     ...y un trozo del\ ~00~#025
+;000220EC{ map to the stolen scepter.~00~}#031#028
+   mapa al cetro robado.\  ~00~#028
+;00022108{  Freeing a virtuous maiden\~00~}#032#029
+  Liberando a una doncella\ ~00~#029
+;00022125{   from the clutches of a\  ~00~}#032#029
+virtuosa de las garras de un~00~#029
+;00022142{  despicable criminal, you\ ~00~}#032#029
+   despreciable criminal,\  ~00~#029
+;0002215F{      have been granted\    ~00~}#032#029
+   te han sido otorgados\   ~00~#029
+;0002217C{\                           ~00~}#032#029
+\                           ~00~#029
+;00022199{  The Articles of Nobility!\~00~}#032#029
+ ¡Artículos de la Nobleza!  ~00~#029
+;000221B6{ Ridding the countryside of\~00~}#032#029
+Deshaciendo al campo de una\~00~#029
+;000221D3{   a ferocious beast, the\  ~00~}#032#029
+      bestia feroz, el\     ~00~#029
+;000221F0{Magistrate presents you with~00~}#032#029
+ Magistrado se presenta con\~00~#029
+;0002220D{\                           ~00~}#032#029
+\                           ~00~#029
+;0002222A{    The Ring of Heroism!\   ~00~}#032#029
+  ¡El Anillo del Heroísmo!\ ~00~#029
+;00022247{\                           ~00~}#032#029
+\                           ~00~#029
+;00022264{  Challenged to a joust by\ ~00~}#032#029
+Desafiado a una justa por el~00~#029
+;00022281{ the dread Dark Knight, you\~00~}#032#029
+ temible Caballero Oscuro,\ ~00~#029
+;0002229E{ quickly dispose of him and\~00~}#032#029
+ rápidamente te deshaces de\~00~#029
+;000222BB{           receive\         ~00~}#032#029
+        él y recibes\       ~00~#029
+;000222D8{\                           ~00~}#032#029
+\                           ~00~#029
+;000222F5{  The Shield of Protection!\~00~}#032#029
+ ¡El Escudo de Protección!\ ~00~#029
+;00022312{You discover ancient scrolls~00~}#032#029
+  Descubres unos antiguos\  ~00~#029
+;0002232F{ that describe the patterns\~00~}#032#029
+ rollos que describen como\ ~00~#029
+;0002234C{ of the oceans. Mariners, in~00~}#032#029
+son los océanos. Marineros,\~00~#029
+;00022369{ gratitude, bestow upon you\~00~}#032#029
+  en gratitud, te otorgan\  ~00~#029
+|1039
+@00022386-00022785-00
+;00022386{\                           ~00~}#032#029
+\                           ~00~#029
+;000223A3{  The Anchor of Admirality!\~00~}#032#029
+ ¡El Ancla de Almirantazgo!\~00~#029
+;000223C0{  Resting on a throne in a\ ~00~}#032#029
+ Descansando en un trono en\~00~#029
+;000223DD{  phantom castle, you have\ ~00~}#032#029
+ un castillo fantasma, has\ ~00~#029
+;000223FA{            found\          ~00~}#032#029
+         encontrado\        ~00~#029
+;00022417{\                           ~00~}#032#029
+\                           ~00~#029
+;00022434{    The Crown of Command!\  ~00~}#032#029
+    ¡La Corona de Mando!\   ~00~#029
+;00022451{\                           ~00~}#032#029
+\                           ~00~#029
+;0002246E{ In the study of a deserted\~00~}#032#029
+ En el estudio de una torre\~00~#029
+;0002248B{  wizard's tower, you have\ ~00~}#032#029
+ abandonada de un mago, has\~00~#029
+;000224A8{            found\          ~00~}#032#029
+         encontrado\        ~00~#029
+;000224C5{\                           ~00~}#032#029
+\                           ~00~#029
+;000224E2{     The Book of Necros!\   ~00~}#032#029
+    ¡El Libro de Necros!\   ~00~#029
+;000224FF{\                           ~00~}#032#029
+\                           ~00~#029
+;0002251C{ Hidden within an enchanted\~00~}#032#029
+   Oculto en una arboleda\  ~00~#029
+;00022539{       grove, you find\     ~00~}#032#029
+   encantada, encuentras\   ~00~#029
+;00022556{\                           ~00~}#032#029
+\                           ~00~#029
+;00022573{\                           ~00~}#032#029
+\                           ~00~#029
+;00022590{ The Amulet of Augmentation!~00~}#032#029
+¡El Amuleto del Incremento!\~00~#029
+;000225AD{\                           ~00~}#032#029
+\                           ~00~#029
+;000225CA{ Following rumors of a great~00~}#032#029
+Siguiendo los rumores de una~00~#029
+;000225E7{   and powerful sword, you\ ~00~}#032#029
+gran y poderosa espada,   \ ~00~#029
+;00022604{defeat its fearsome guardian~00~}#032#029
+vences a su temible guardián~00~#029
+;00022621{   and gain possession of\  ~00~}#032#029
+   y ganas la posesión de\  ~00~#029
+;0002263E{\                           ~00~}#032#029
+\                           ~00~#029
+;0002265B{    The Sword of Prowess!\  ~00~}#032#029
+  ¡La Espada de Habilidad!\ ~00~#029
+;00022678{Riverton\     ~00~}#018#015
+Riverton\     ~00~#015
+;00022687{Underfoot\    ~00~}#018#015
+Bajopies\     ~00~#015
+;00022696{Path's End\   ~00~}#018#015
+Fin Camino\   ~00~#015
+;000226A5{Anomaly\      ~00~}#018#015
+Anomalía\     ~00~#015
+;000226B4{Topshore\     ~00~}#018#015
+Orilla Alta\  ~00~#015
+;000226C3{Lakeview\     ~00~}#018#015
+Vistalago\    ~00~#015
+;000226D2{Simpleton\    ~00~}#018#015
+Simpleton\    ~00~#015
+;000226E1{Centrapf\     ~00~}#018#015
+Centrapf\     ~00~#015
+;000226F0{Quiln Point\  ~00~}#018#015
+Punto Quiln\  ~00~#015
+;000226FF{Midland\      ~00~}#018#015
+Mediatierra\  ~00~#015
+;0002270E{Xoctan\       ~00~}#018#015
+Xoctan\       ~00~#015
+;0002271D{Overthere\    ~00~}#018#015
+Porahí\       ~00~#015
+;0002272C{Elan's Landing~00~}#018#015
+DesembarcoElan~00~#015
+;0002273B{King's Haven\ ~00~}#018#015
+Refugio Rey\  ~00~#015
+;0002274A{Bayside\      ~00~}#018#015
+Ladobahía\    ~00~#015
+;00022759{Nyre\         ~00~}#018#015
+Nyre\         ~00~#015
+;00022768{Dark Corner\  ~00~}#018#015
+Esquina Oscura~00~#015
+;00022777{Isla Vista\   ~00~}#018#015
+Isla Vista\   ~00~#015
+|1024
+@00022786-00022B9E-00
+;00022786{Grimwold\     ~00~}#018#015
+Macabrowold\  ~00~#015
+;00022795{Japper\       ~00~}#018#015
+Japper\       ~00~#015
+;000227A4{Vengeance\    ~00~}#018#015
+Venganza\     ~00~#015
+;000227B3{Hunterville\  ~00~}#018#015
+Villacazador\ ~00~#015
+;000227C2{Fjord\        ~00~}#018#015
+Fjord\        ~00~#015
+;000227D1{Yakonia\      ~00~}#018#015
+Yakonia\      ~00~#015
+;000227E0{Woods End\    ~00~}#018#015
+Fin Bosque\   ~00~#015
+;000227EF{Zaezoizu\     ~00~}#018#015
+Zaezoizu\     ~00~#015
+;000227FE{occupy this castle.~00~}#023#020
+ocupa el castillo. ~00~#020
+;00022812{Lay Siege (y/n)?~00~}#020#017
+¿Asediar (s/n)?\~00~#017
+;00022823{Town of~00~}#011#008
+Ciudad\~00~#008
+;0002282B{Get New Contract\       ~00~}#028#025
+Contrato Nuevo\         ~00~#025
+;00022844{Rent boat (\            ~00~}#028#025
+Alq. barco(\            ~00~#025
+;0002285D{Gather information\     ~00~}#028#025
+Reunir información\     ~00~#025
+;00022876{Buy seige weapons (3000)~00~}#028#025
+Com. armas asedio (3000)~00~#025
+;0002288F{Cancel boat rental  \   ~00~}#028#025
+Anula alquiler barco\   ~00~#025
+;000228A8{                          ~00~}#030#027
+                          ~00~#027
+;000228C3{100 week)~00~}#013#010
+100 sem.)~00~#010
+;000228CD{500 week)~00~}#013#010
+500 sem.)~00~#010
+;000228D7{Clone\       ~00~}#017#014
+Clona\       ~00~#014
+;000228E5{Teleport\    ~00~}#017#014
+Teletra.\    ~00~#014
+;000228F3{Fireball\    ~00~}#017#014
+Bo.Fuego\    ~00~#014
+;00022901{Lightning\   ~00~}#017#014
+Relámpago\   ~00~#014
+;0002290F{Freeze\      ~00~}#017#014
+Helar\       ~00~#014
+;0002291D{Resurrect\   ~00~}#017#014
+Resucitar\   ~00~#014
+;0002292B{Turn Undead\ ~00~}#017#014
+Mata Muerto\ ~00~#014
+;00022939{Bridge\      ~00~}#017#014
+Puente\      ~00~#014
+;00022947{Time Stop\   ~00~}#017#014
+ParaTiem.\   ~00~#014
+;00022955{Find Villain\~00~}#017#014
+BuscaVillano\~00~#014
+;00022963{Castle Gate\ ~00~}#017#014
+Pu.Castillo\ ~00~#014
+;00022971{Town Gate\   ~00~}#017#014
+Pu.Ciudad\   ~00~#014
+;0002297F{Instant Army\~00~}#017#014
+Ejército In.\~00~#014
+;0002298D{Raise Control~00~}#017#014
+Subir Control~00~#014
+;0002299B{spell (~00~}#011#008
+magia (~00~#008
+;000229A3{spell.~00~}#010#007
+magia.~00~#007
+;000229AA{spells.~00~}#011#008
+magias.~00~#008
+;000229B2{After scouring the area,\   ~00~}#032#029
+Tras limpiar la zona,\      ~00~#029
+;000229CF{you fall upon a hidden\     ~00~}#032#029
+caes en un alijo oculto de\ ~00~#029
+;000229EC{treasure cache. You may:\   ~00~}#032#029
+un tesoro. Puedes:\         ~00~#029
+;00022A09{  Take the\                 ~00~}#032#029
+  Recoger \                 ~00~#029
+;00022A26{  Distribute the gold to the~00~}#032#029
+  Distribuir el oro con los ~00~#029
+;00022A43{   peasants, increasing your~00~}#032#029
+  campesinos, mejorando tu  ~00~#029
+;00022A60{   leadership by\           ~00~}#032#029
+  liderazgo en\             ~00~#029
+;00022A7D{  After surveying the area,\~00~}#032#029
+ Tras inspeccionar la zona,\~00~#029
+;00022A9A{   you discover that it is\ ~00~}#032#029
+   descubres que es rica en\~00~#029
+;00022AB7{  rich in mineral deposits.\~00~}#032#029
+  depósitos de minerales.\  ~00~#029
+;00022AD4{                            ~00~}#032#029
+                            ~00~#029
+;00022AF1{  The King rewards you for\ ~00~}#032#029
+  El Rey te recompensa por\ ~00~#029
+;00022B0E{   your find by increasing\ ~00~}#032#029
+tu hallazgo incrementando tu~00~#029
+;00022B2B{  your weekly income by\    ~00~}#032#029
+     ingreso semanal en\    ~00~#029
+;00022B48{  Traversing the area, you\ ~00~}#032#029
+  Atravesando la zona, te\  ~00~#029
+;00022B65{  stumble upon a time worn\ ~00~}#032#029
+  topas con un recipiente\  ~00~#029
+;00022B82{  cannister.  Curious, you\ ~00~}#032#029
+   deteriorado. Curioso,\   ~00~#029
+|1049
+@00022B9F-00022FB2-00
+;00022B9F{     unstop the bottle,\    ~00~}#032#029
+     abres la botella,\     ~00~#029
+;00022BBC{ releasing a powerful genie\~00~}#032#029
+liberando a un potente genio~00~#029
+;00022BD9{    who raises your Spell\  ~00~}#032#029
+ que te mejora tu Potencia\ ~00~#029
+;00022BF6{  Power by 1 and vanishes.\ ~00~}#032#029
+ de Hechizos en 1 y se va.\ ~00~#029
+;00022C13{A tribe of nomads greet you\~00~}#032#029
+  Una tribu de nómadas os\  ~00~#029
+;00022C30{and your army warmly. Their\~00~}#032#029
+recibe a ti y a tu ejército.~00~#029
+;00022C4D{   shaman, in awe of your\  ~00~}#032#029
+ Su chamán, asombrado de tu\~00~#029
+;00022C6A{  prowess, teaches you the\ ~00~}#032#029
+  habilidad, te enseña el\  ~00~#029
+;00022C87{secret of his tribe's magic.~00~}#032#029
+    secreto de su magia.\   ~00~#029
+;00022CA4{Your maximum spell capacity\~00~}#032#029
+Tu capacidad de hechizos\   ~00~#029
+;00022CC1{     is increased by\       ~00~}#032#029
+máxima se incrementa\       ~00~#029
+;00022CDE{     You have captured a\   ~00~}#032#029
+Has capturado a un travieso\~00~#029
+;00022CFB{ mischievious imp which has\~00~}#032#029
+  diablillo que ha estado\  ~00~#029
+;00022D18{    been terrorizing the\   ~00~}#032#029
+ aterrorizando a la región.\~00~#029
+;00022D35{   region. In exchange for\ ~00~}#032#029
+  A cambio de su libertad,\ ~00~#029
+;00022D52{  its release, you receive:\~00~}#032#029
+          recibes:\         ~00~#029
+;00022D6F{  Hidden within an ancient  ~00~}#032#029
+Ocultos en un antiguo cofre,~00~#029
+;00022D8C{  chest, you find maps and  ~00~}#032#029
+ encuentras mapas y cartas\ ~00~#029
+;00022DA9{charts describing passage to~00~}#032#029
+describiendo un pasaje hacia~00~#029
+;00022DC6{  Peering through a magical\~00~}#032#029
+Mirando a través de una orbe~00~#029
+;00022DE3{orb you are able to view the~00~}#032#029
+  mágica eres capaz de ver\ ~00~#029
+;00022E00{ entire continent. Your map\~00~}#032#029
+todo el continente. Tu mapa\~00~#029
+;00022E1D{  of this area is complete.\~00~}#032#029
+de esta zona está completo.\~00~#029
+;00022E3A{   Trumpets announce your\  ~00~}#032#029
+   Trompetas anuncian tu\   ~00~#029
+;00022E57{ arrival with regal fanfare.~00~}#032#029
+llegada con fanfarria real.\~00~#029
+;00022E74{\                           ~00~}#032#029
+\                           ~00~#029
+;00022E91{   King Maximus rises from\ ~00~}#032#029
+El Rey Maximus se levanta de~00~#029
+;00022EAE{   his throne to greet you\ ~00~}#032#029
+ su trono para recibirte y\ ~00~#029
+;00022ECB{       and proclaims:\      ~00~}#032#029
+         proclama:\         ~00~#029
+;00022EE8{    I can aid you better\   ~00~}#032#029
+ Podré ayudarte más cuando\ ~00~#029
+;00022F05{   after you've captured\   ~00~}#032#029
+       hayas capturado a\   ~00~#029
+;00022F22{        more villain.\      ~00~}#032#029
+             villano.\      ~00~#029
+;00022F3F{      Congratulations!\     ~00~}#032#029
+       ¡Felicidades!\       ~00~#029
+;00022F5C{    I now promote you to\   ~00~}#032#029
+   Puedo promocionarte a\   ~00~#029
+;00022F79{    Hurry and recover my\   ~00~}#032#029
+ ¡Date prisa y recupera mi\ ~00~#029
+;00022F96{   Scepter of Order or all\ ~00~}#032#029
+   Cetro del Orden o todo\  ~00~#029
+|1044
+@00022FB3-000233CA-00
+;00022FB3{        will be lost!\      ~00~}#032#029
+      estará perdido!\      ~00~#029
+;00022FD0{the~00~}#007#004
+el\~00~#004
+;00022FD4{Knight\  ~00~}#013#010
+Caballero~00~#010
+;00022FDE{General\ ~00~}#013#010
+General\ ~00~#010
+;00022FE8{Marshal\ ~00~}#013#010
+Mariscal\~00~#010
+;00022FF2{Lord\    ~00~}#013#010
+Lord\    ~00~#010
+;00022FFC{Paladin\ ~00~}#013#010
+Paladín\ ~00~#010
+;00023006{Crusader\~00~}#013#010
+Cruzado\ ~00~#010
+;00023010{Avenger\ ~00~}#013#010
+Vengador\~00~#010
+;0002301A{Champion\~00~}#013#010
+Campeón\ ~00~#010
+;00023024{Sorceress~00~}#013#010
+Hechicera~00~#010
+;0002302E{Magician\~00~}#013#010
+Bruja\   ~00~#010
+;00023038{Mage\    ~00~}#013#010
+Maga\    ~00~#010
+;00023042{Archmage\~00~}#013#010
+Archimaga~00~#010
+;0002304C{Barbarian~00~}#013#010
+Bárbaro\ ~00~#010
+;00023056{Chieftain~00~}#013#010
+Cacique\ ~00~#010
+;00023060{Warlord\ ~00~}#013#010
+Adalid\  ~00~#010
+;0002306A{Overlord\~00~}#013#010
+Jefe Sup.~00~#010
+;00023074{ You haven't been ~00~}#022#019
+ No te entrenaron\~00~#019
+;00023087{trained in the art~00~}#022#019
+  en el arte de\  ~00~#019
+;0002309A{  of spellcasting\~00~}#022#019
+ lanzar hechizos\ ~00~#019
+;000230AD{  yet. Visit the\ ~00~}#022#019
+  aún. Visita al\ ~00~#019
+;000230C0{ Archmage Aurange\~00~}#022#019
+Archimago Aurange\~00~#019
+;000230D3{ in Continentia at~00~}#022#019
+ en Continentia en~00~#019
+;000230E6{  11,19 for this\ ~00~}#022#019
+ 11,19 para esta\ ~00~#019
+;000230F9{     ability.\    ~00~}#022#019
+    habilidad.\   ~00~#019
+;0002310C{Castles you have been to:~00~}#029#026
+ Castillos que visitaste:~00~#026
+;00023126{Revisit which castle?~00~}#025#022
+¿Re-visitar castillo?~00~#022
+;0002313C{Towns you have been to:~00~}#027#024
+Ciudades que visitaste:~00~#024
+;00023154{Revisit which town?~00~}#023#020
+¿Re-visitar ciudad?~00~#020
+;00023168{have joined to your army.~00~}#029#026
+se unieron a tu ejército.~00~#026
+;00023182{   There are no open slots\~00~}#031#028
+  ¡No hay ranuras abiertas\~00~#028
+;0002319E{  or any of this army type!~00~}#031#028
+  ni ningún ejército igual!~00~#028
+;000231BA{Select\ ~00~}#012#009
+Elige\  ~00~#009
+;000231C3{(A-\    ~00~}#012#009
+(E-\    ~00~#009
+;000231CC{)\      ~00~}#012#009
+)\      ~00~#009
+;000231D5{How many~00~}#012#009
+Cuantos\~00~#009
+;000231DE{Maximum of 5 armies allowed!~00~}#032#029
+  ¡5 ejércitos permitidos!  ~00~#029
+;000231FB{Remove\ ~00~}#012#009
+Quitar\ ~00~#009
+;00023204{Garrison~00~}#012#009
+Guarnic.~00~#009
+;0002320D{Space to~00~}#012#009
+Espacio\~00~#009
+;00023216{Empty\  ~00~}#012#009
+Vacío\  ~00~#009
+;0002321F{n/a\    ~00~}#012#009
+n/a\    ~00~#009
+;00023228{ gold.~00~}#010#007
+ oro. ~00~#007
+;0002322F{.~00~}#005#002
+.~00~#002
+;00023231{~01~~02~~00~}#012#003
+~01~~02~~00~#003
+;00023234{~00~}#004#001
+~00~#001
+;00023235{~03~~04~~00~}#012#003
+~03~~04~~00~#003
+;00023238{~00~}#004#001
+~00~#001
+;00023239{~05~~06~~00~}#012#003
+~05~~06~~00~#003
+;0002323C{~00~}#004#001
+~00~#001
+;0002323D{~03~~04~~00~}#012#003
+~03~~04~~00~#003
+;00023240{~00~}#004#001
+~00~#001
+;00023241{  ~00~}#006#003
+  ~00~#003
+;00023244{~00~}#004#001
+~00~#001
+;00023245{                         Days Left:\  ~00~}#042#039
+                              Días:\  ~00~#039
+;0002326C{     You do not have enough gold!     ~00~}#042#039
+      ¡No tienes suficiente oro!      ~00~#039
+;00023293{     You may not recruit any more!    ~00~}#042#039
+       ¡No puedes reclutar más!       ~00~#039
+;000232BA{ You do not have any more army slots! ~00~}#042#039
+ ¡No tienes más ranuras de ejército!  ~00~#039
+;000232E1{    There are no armies to remove!    ~00~}#042#039
+    ¡No hay ejércitos que quitar!     ~00~#039
+;00023308{ You may not garrison your last army! ~00~}#042#039
+¡No puedes guarnecer a tu último ejé.!~00~#039
+;0002332F{The castle can't hold any more armies!~00~}#042#039
+¡El castillo no puede tener más ejér.!~00~#039
+;00023356{  You may not dismiss your last army! ~00~}#042#039
+¡No puedes licenciar a tu último ejé.!~00~#039
+;0002337D{You have no Adventuring spell to cast!~00~}#042#039
+¡No tienes magia de Aventura a lanzar!~00~#039
+;000233A4{   You have no Combat spell to cast!  ~00~}#042#039
+¡No tienes magia de Combate a lanzar! ~00~#039
+|1048
+@000233CB-000237CA-00
+;000233CB{You may cast only one spell per round!~00~}#042#039
+ ¡Solo se lanza un hechizo por ronda! ~00~#039
+;000233F2{                         TimeStop:\   ~00~}#042#039
+                         ParaTiem:\   ~00~#039
+;00023419{           The spell fails.           ~00~}#042#039
+          El hechizo falla.           ~00~#039
+;00023440{   You've built your bridge too far!  ~00~}#042#039
+ ¡Has construido el puente muy lejos! ~00~#039
+;00023467{     What a waste of a good spell!    ~00~}#042#039
+ ¡Qué desperdicio de un buen hechizo! ~00~#039
+;0002348E{ Not a suitable location for a bridge!~00~}#042#039
+¡Ubicación no adecuada para un puente!~00~#039
+;000234B5{   You have not been to any castles!  ~00~}#042#039
+  ¡No has estado en ningún castillo!  ~00~#039
+;000234DC{    You have not been to any towns!   ~00~}#042#039
+  ¡No has estado en ninguna ciudad!   ~00~#039
+;00023503{      Press Start to play again.      ~00~}#042#039
+   Pulsa Start para volver a jugar.   ~00~#039
+;0002352A{  You can't land on an occupied area! ~00~}#042#039
+¡No puedes aterrizar zona una ocupada!~00~#039
+;00023551{    You can't attack your own army!   ~00~}#042#039
+    ¡No puedes atacar a ejército!     ~00~#039
+;00023578{  You can't move to an occupied area! ~00~}#042#039
+¡No puedes moverte a una zona ocupada!~00~#039
+;0002359F{       You must target somebody!      ~00~}#042#039
+   ¡Debes hacer objetivo a alguien!   ~00~#039
+;000235C6{   You can not learn anymore spells!  ~00~}#042#039
+  ¡No puedes aprender más hechizos!   ~00~#039
+;000235ED{    You must select your own army!    ~00~}#042#039
+ ¡Debes elegir a tu propio ejército!  ~00~#039
+;00023614{   You must select an opposing army!  ~00~}#042#039
+¡Debes elegir a un ejército contrario!~00~#039
+;0002363B{  You must teleport to an empty area! ~00~}#042#039
+¡Debes transportarte a una zona vacía!~00~#039
+;00023662{       Press Start to continue.       ~00~}#042#039
+     Pulsa Start para continuar.      ~00~#039
+;00023689{GP=~00~}#007#004
+PO=~00~#004
+;0002368D{                                      ~00~}#042#039
+                                      ~00~#039
+;000236B4{Plains\~00~}#011#008
+Llanura~00~#008
+;000236BC{Forest\~00~}#011#008
+Bosque\~00~#008
+;000236C4{ Hill\ ~00~}#011#008
+Colina\~00~#008
+;000236CC{Dungeon~00~}#011#008
+Mazmor.~00~#008
+;000236D4{______\~00~}#011#008
+_______~00~#008
+;000236DC{______\~00~}#011#008
+______\~00~#008
+;000236E4{ ____\ ~00~}#011#008
+______\~00~#008
+;000236EC{_______~00~}#011#008
+_______~00~#008
+;000236F4{are available.~00~}#018#015
+disponibles.\ ~00~#015
+;00023703{are available~00~}#017#014
+disponibles\ ~00~#014
+;00023711{Cost =~00~}#010#007
+Coste=~00~#007
+;00023718{each.~00~}#009#006
+cada.~00~#006
+;0002371E{You may recruit up to~00~}#025#022
+Puedes reclutar hasta~00~#022
+;00023734{You may recruit none.~00~}#025#022
+No puedes reclutar.\ ~00~#022
+;0002374A{Recruit how many?         0~00~}#031#028
+¿Reclutar a cuantos?      0~00~#028
+;00023766{A few\        ~00~}#018#015
+Pocos\        ~00~#015
+;00023775{Some\         ~00~}#018#015
+Alg.\         ~00~#015
+;00023784{Many\         ~00~}#018#015
+Var.\         ~00~#015
+;00023793{A lot of\     ~00~}#018#015
+Muchos  \     ~00~#015
+;000237A2{A horde of\   ~00~}#018#015
+Horda de  \   ~00~#015
+;000237B1{A multitude of~00~}#018#015
+Multitud de\  ~00~#015
+;000237C0{Peasants\ ~00~}#014#011
+Campesinos~00~#011
+|1024
+@000237CB-00023BD4-00
+;000237CB{Sprites\  ~00~}#014#011
+Hadas\    ~00~#011
+;000237D6{Militias\ ~00~}#014#011
+Milicias\ ~00~#011
+;000237E1{Wolves\   ~00~}#014#011
+Lobos\    ~00~#011
+;000237EC{Skeletons\~00~}#014#011
+Esqueletos~00~#011
+;000237F7{Zombies\  ~00~}#014#011
+Zombis\   ~00~#011
+;00023802{Gnomes\   ~00~}#014#011
+Gnomos\   ~00~#011
+;0002380D{Orcs\     ~00~}#014#011
+Orcos\    ~00~#011
+;00023818{Archers\  ~00~}#014#011
+Arqueros\ ~00~#011
+;00023823{Elves\    ~00~}#014#011
+Elfos\    ~00~#011
+;0002382E{Pikemen\  ~00~}#014#011
+Piqueros\ ~00~#011
+;00023839{Nomads\   ~00~}#014#011
+Nómadas\  ~00~#011
+;00023844{Dwarves\  ~00~}#014#011
+Enanos\   ~00~#011
+;0002384F{Ghosts\   ~00~}#014#011
+Fantasmas\~00~#011
+;0002385A{Knights\  ~00~}#014#011
+Caballeros~00~#011
+;00023865{Ogres\    ~00~}#014#011
+Ogros\    ~00~#011
+;00023870{Barbarians~00~}#014#011
+Bárbaros\ ~00~#011
+;0002387B{Trolls\   ~00~}#014#011
+Troles\   ~00~#011
+;00023886{Cavalries\~00~}#014#011
+Caballería~00~#011
+;00023891{Druids\   ~00~}#014#011
+Druidas\  ~00~#011
+;0002389C{Archmages\~00~}#014#011
+Archimago\~00~#011
+;000238A7{Vampires\ ~00~}#014#011
+Vampiros\ ~00~#011
+;000238B2{Giants\   ~00~}#014#011
+Gigantes\ ~00~#011
+;000238BD{Demons\   ~00~}#014#011
+Demonios\ ~00~#011
+;000238C8{Dragons\  ~00~}#014#011
+Dragones\ ~00~#011
+;000238D3{Peasant\  ~00~}#014#011
+Campesino\~00~#011
+;000238DE{Sprite\   ~00~}#014#011
+Hada\     ~00~#011
+;000238E9{Militia\  ~00~}#014#011
+Milicia\  ~00~#011
+;000238F4{Wolf\     ~00~}#014#011
+Lobo\     ~00~#011
+;000238FF{Skeleton\ ~00~}#014#011
+Esqueleto\~00~#011
+;0002390A{Zombie\   ~00~}#014#011
+Zombi\    ~00~#011
+;00023915{Gnome\    ~00~}#014#011
+Gnomo\    ~00~#011
+;00023920{Orc\      ~00~}#014#011
+Orco\     ~00~#011
+;0002392B{Archer\   ~00~}#014#011
+Arquero\  ~00~#011
+;00023936{Elf\      ~00~}#014#011
+Elfo\     ~00~#011
+;00023941{Pikeman\  ~00~}#014#011
+Piquero\  ~00~#011
+;0002394C{Nomad\    ~00~}#014#011
+Nómada\   ~00~#011
+;00023957{Dwarf\    ~00~}#014#011
+Enano\    ~00~#011
+;00023962{Ghost\    ~00~}#014#011
+Fantasma\ ~00~#011
+;0002396D{Knight\   ~00~}#014#011
+Caballero\~00~#011
+;00023978{Ogre\     ~00~}#014#011
+Ogro\     ~00~#011
+;00023983{Barbarian\~00~}#014#011
+Bárbaro\  ~00~#011
+;0002398E{Troll\    ~00~}#014#011
+Trol\     ~00~#011
+;00023999{Cavalry\  ~00~}#014#011
+Caballería~00~#011
+;000239A4{Druid\    ~00~}#014#011
+Druida\   ~00~#011
+;000239AF{Archmage\ ~00~}#014#011
+Archimago\~00~#011
+;000239BA{Vampire\  ~00~}#014#011
+Vampiro\  ~00~#011
+;000239C5{Giant\    ~00~}#014#011
+Gigante\  ~00~#011
+;000239D0{Demon\    ~00~}#014#011
+Demonio\  ~00~#011
+;000239DB{Dragon\   ~00~}#014#011
+Dragón\   ~00~#011
+;000239E6{No~00~}#006#003
+No~00~#003
+;000239E9{,~00~}#005#002
+,~00~#002
+;000239EB{s.~00~}#006#003
+s.~00~#003
+;000239EE{!~00~}#005#002
+!~00~#002
+;000239F0{Recruit Soldiers\     ~00~}#026#023
+Reclutar Soldados\    ~00~#023
+;00023A07{Audience with the King~00~}#026#023
+Audiencia con el Rey\ ~00~#023
+;00023A1E{Militia   50~00~}#016#013
+Milicia   50~00~#013
+;00023A2B{Archers  250~00~}#016#013
+Arqueros 250~00~#013
+;00023A38{Pikemen  300~00~}#016#013
+Piqueros 300~00~#013
+;00023A45{Cavalry  800~00~}#016#013
+Caballos 800~00~#013
+;00023A52{Knights 1000~00~}#016#013
+Caballe.1000~00~#013
+;00023A5F{ n/a~00~}#008#005
+ n/a~00~#005
+;00023A64{Select army~00~}#015#012
+ Ejército  ~00~#012
+;00023A70{to recruit.~00~}#015#012
+a reclutar.~00~#012
+;00023A7C{You may get~00~}#015#012
+Reclutarías~00~#012
+;00023A88{up to      ~00~}#015#012
+hasta      ~00~#012
+;00023A94{           ~00~}#015#012
+           ~00~#012
+;00023AA0{Recruit how~00~}#015#012
+¿Recluta a?~00~#012
+;00023AAC{many?     0~00~}#015#012
+          0~00~#012
+;00023AB8{Various groups of monsters~00~}#030#027
+Varios grupos de monstruos~00~#027
+;00023AD3{occupy this castle.~00~}#023#020
+ocupan el castillo.~00~#020
+;00023AE7{army occupy this castle.~00~}#028#025
+tropas ocupan castillo.\~00~#025
+;00023B00{Lay siege.~00~}#014#011
+Asediar.  ~00~#011
+;00023B0B{Venture on.~00~}#015#012
+Aventurar. ~00~#012
+;00023B17{and~00~}#007#004
+y\ ~00~#004
+;00023B1B{Garrison~00~}#012#009
+Guarnic.~00~#009
+;00023B24{Remove  ~00~}#012#009
+Quitar  ~00~#009
+;00023B2D{ Select ~00~}#012#009
+ Elige  ~00~#009
+;00023B36{army  to~00~}#012#009
+ejército~00~#009
+;00023B3F{garrison~00~}#012#009
+guarnic.~00~#009
+;00023B48{ remove ~00~}#012#009
+ quitar ~00~#009
+;00023B51{empty           ~00~}#020#017
+vacío           ~00~#017
+;00023B62{View your army\       ~00~}#026#023
+Ver tu ejército\      ~00~#023
+;00023B79{View your character\  ~00~}#026#023
+Ver tu personaje\     ~00~#023
+;00023B90{Look at continent map\~00~}#026#023
+Ver mapa continente\  ~00~#023
+;00023BA7{Use magic\            ~00~}#026#023
+Usar magia\           ~00~#023
+;00023BBE{Contract information\ ~00~}#026#023
+Información contrato\ ~00~#023
+|1034
+@00023BD5-00023FEB-00
+;00023BD5{Wait to end of week\  ~00~}#026#023
+Esperar final semana\ ~00~#023
+;00023BEC{Look at puzzle pieces\~00~}#026#023
+Mirar piezas de puzle\~00~#023
+;00023C03{Search the area\      ~00~}#026#023
+Buscar en la zona\    ~00~#023
+;00023C1A{Dismiss army\         ~00~}#026#023
+Despedir ejército\    ~00~#023
+;00023C31{Game controls\        ~00~}#026#023
+Controles del juego\  ~00~#023
+;00023C48{\                     ~00~}#026#023
+\                     ~00~#023
+;00023C5F{Get password\         ~00~}#026#023
+Recibir Password\     ~00~#023
+;00023C76{    Password    ~00~}#020#017
+    Password    ~00~#017
+;00023C87{  Sail to which continent?~00~}#030#027
+ ¿Zarpar a que continente?~00~#027
+;00023CA2{HitPts:~00~}#011#008
+PtsVda:~00~#008
+;00023CAA{SL:    MV:     Damage:~00~}#026#023
+RA:    MV:       Daño:~00~#023
+;00023CC1{Morale:~00~}#011#008
+Moral: ~00~#008
+;00023CC9{G-Cost:~00~}#011#008
+CosteO:~00~#008
+;00023CD1{Fly~00~}#007#004
+Vol~00~#004
+;00023CD5{Norm~00~}#008#005
+Norm~00~#005
+;00023CDA{Low ~00~}#008#005
+Len.~00~#005
+;00023CDF{High~00~}#008#005
+Alto~00~#005
+;00023CE4{Out of Control~00~}#018#015
+Descontrolado ~00~#015
+;00023CF3{-~00~}#005#002
+-~00~#002
+;00023CF5{Leadership\       ~00~}#022#019
+Liderazgo\        ~00~#019
+;00023D08{Commission/Week\  ~00~}#022#019
+Comisión/Semana\  ~00~#019
+;00023D1B{Gold\             ~00~}#022#019
+Oro\              ~00~#019
+;00023D2E{Spell Power\      ~00~}#022#019
+Potencia Hechizo\ ~00~#019
+;00023D41{Max ~23~ of Spells\  ~00~}#025#019
+Máx ~23~ de Hechizos\~00~#019
+;00023D54{Villians caught\  ~00~}#022#019
+Villanos atrapados~00~#019
+;00023D67{Artifacts found\  ~00~}#022#019
+Artefacto hallado\~00~#019
+;00023D7A{Castles garrisoned~00~}#022#019
+Castillos guarnec.~00~#019
+;00023D8D{Followers killed\ ~00~}#022#019
+Seguidores matados~00~#019
+;00023DA0{Current score\    ~00~}#022#019
+Marca actual\     ~00~#019
+;00023DB3{X=   Position Y=~00~}#020#017
+X=   Posición Y=~00~#017
+;00023DC4{**~00~}#006#003
+**~00~#003
+;00023DC7{    Dismiss which army?~00~}#027#024
+   ¿Despedir ejército? ~00~#024
+;00023DDF{Search...\                  ~00~}#032#029
+Buscando...\                ~00~#029
+;00023DFC{ It will take 1 day to do a\~00~}#032#029
+     Tardarás 1 día en\     ~00~#029
+;00023E19{It will take 10 days to do a~00~}#032#029
+    Tardarás 10 días en\    ~00~#029
+;00023E36{search of this area, search?~00~}#032#029
+buscar en esta zona,¿buscar?~00~#029
+;00023E53{             No\            ~00~}#032#029
+             No\            ~00~#029
+;00023E70{             Yes\           ~00~}#032#029
+             Sí\            ~00~#029
+;00023E8D{Your search of this area has~00~}#032#029
+Tu búsqueda en esta zona no\~00~#029
+;00023EAA{      revealed nothing.     ~00~}#032#029
+     ha revelado nada.\     ~00~#029
+;00023EC7{Adventuring Spells~00~}#022#019
+ Hechizo Aventura\~00~#019
+;00023EDA{  Combat Spells\  ~00~}#022#019
+ Hechizo Combate\ ~00~#019
+;00023EED{  have joined to your army. ~00~}#032#029
+  se unieron a tu ejército. ~00~#029
+;00023F0A{ Bridge in which direction?\~00~}#032#029
+ ¿Puente en que dirección?\ ~00~#029
+;00023F27{\                           ~00~}#032#029
+\                           ~00~#029
+;00023F44{              ~0A~\            ~00~}#035#029
+              ~0A~\            ~00~#029
+;00023F61{             ~08~ ~09~\           ~00~}#038#029
+             ~08~ ~09~\           ~00~#029
+;00023F7E{              ~0B~\            ~00~}#035#029
+              ~0B~\            ~00~#029
+;00023F9B{ Castles you have been to ~00~}#030#027
+Castillos que has visitado~00~#027
+;00023FB6{   Revisit which castle?  ~00~}#030#027
+¿Re-visitar que castillo? ~00~#027
+;00023FD1{  Towns you have been to  ~00~}#030#027
+Ciudades que has visitado ~00~#027
+|1047
+@00023FEC-000243FB-00
+;00023FEC{    Revisit which town?   ~00~}#030#027
+ ¿Re-visitar que ciudad?  ~00~#027
+;00024007{        Password\       ~00~}#028#025
+        Password\       ~00~#025
+;00024020{        ________\       ~00~}#028#025
+        ________\       ~00~#025
+;00024039{\                       ~00~}#028#025
+\                       ~00~#025
+;00024052{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;0002406B{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;00024084{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;0002409D{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;000240B6{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;000240CF{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;000240E8{       ...-..-...\      ~00~}#028#025
+       ...-..-...\      ~00~#025
+;00024101{\                       ~00~}#028#025
+\                       ~00~#025
+;0002411A{  A  B  C  D  E  F  G  H~00~}#028#025
+  A  B  C  D  E  F  G  H~00~#025
+;00024133{  I  J  K  L  M  N  O  P~00~}#028#025
+  I  J  K  L  M  N  O  P~00~#025
+;0002414C{  Q  R  S  T  U  V  W  X~00~}#028#025
+  Q  R  S  T  U  V  W  X~00~#025
+;00024165{  Y  Z  1  2  3  4  5  6~00~}#028#025
+  Y  Z  1  2  3  4  5  6~00~#025
+;0002417E{  7  8  9  0  ~0A~  ~0B~  ~08~  ~09~~00~}#040#025
+  7  8  9  0  ~0A~  ~0B~  ~08~  ~09~~00~#025
+;00024197{Enter Password and Press Start~00~}#034#031
+ Entra Password y Pulsa Start ~00~#031
+;000241B6{       Invalid Password!      ~00~}#034#031
+     ¡Password no válido!     ~00~#031
+;000241D5{   The venerable Archmage,\ ~00~}#032#029
+  El venerable Archimago,\  ~00~#029
+;000241F2{Aurange, will teach you the\~00~}#032#029
+  Aurange, te enseñará los\ ~00~#029
+;0002420F{secrets of spell casting for~00~}#032#029
+secretos de los hechizos por~00~#029
+;0002422C{   only 5000 gold pieces.\  ~00~}#032#029
+  solo 5000 piezas de oro.\ ~00~#029
+;00024249{\                           ~00~}#032#029
+\                           ~00~#029
+;00024266{            Accept\         ~00~}#032#029
+            Acepta\         ~00~#029
+;00024283{            Decline\        ~00~}#032#029
+            Declina\        ~00~#029
+;000242A0{  The sign said 5000 gold!\ ~00~}#032#029
+¡La señal decía 5000 de oro!~00~#029
+;000242BD{ Why waste my valuable time\~00~}#032#029
+  ¿Por qué desperdiciar mi\ ~00~#029
+;000242DA{when you know you don't have~00~}#032#029
+valioso tiempo si no tienes\~00~#029
+;000242F7{the required amount of gold?~00~}#032#029
+     el oro requerido?\     ~00~#029
+;00024314{\                           ~00~}#032#029
+\                           ~00~#029
+;00024331{    Begone until you do!\   ~00~}#032#029
+ ¡Vete hasta que lo tengas!\~00~#029
+;0002434E{You have not been trained in~00~}#032#029
+No has sido entrenado en el\~00~#029
+;0002436B{the art of spellcasting yet.~00~}#032#029
+arte de lanzar hechizos aún.~00~#029
+;00024388{ Visit the Archmage Aurange ~00~}#032#029
+Visita al Archimago Aurange\~00~#029
+;000243A5{ in Continentia at 11,19 to ~00~}#032#029
+en Continentia en 11,19 para~00~#029
+;000243C2{     learn the ability.     ~00~}#032#029
+   aprender la habilidad.\  ~00~#029
+;000243DF{Week ~23~~00~}#013#007
+Sem. ~23~~00~#007
+;000243E6{Astrologers proclaim:~00~}#025#022
+Astrólogos proclaman:~00~#022
+|1040
+@000243FC-00024806-00
+;000243FC{Week of the~00~}#015#012
+  La semana~00~#012
+;00024408{dwellings are~00~}#017#014
+viviendas se ~00~#014
+;00024416{repopulated.~00~}#016#013
+repoblan.   ~00~#013
+;00024423{Budget~00~}#010#007
+Presu.~00~#007
+;0002442A{On Hand~00~}#011#008
+Tienes\~00~#008
+;00024432{Payment~00~}#011#008
+Pago\  ~00~#008
+;0002443A{Boat\  ~00~}#011#008
+Barco\ ~00~#008
+;00024442{Army\  ~00~}#011#008
+Ejérci.~00~#008
+;0002444A{Balance~00~}#011#008
+Balance~00~#008
+;00024452{All~00~}#007#004
+Las~00~#004
+;00024456{Leave~00~}#009#006
+Irse\~00~#006
+;0002445C{After being disgraced on the~00~}#032#029
+ Tras ser deshonrado en el\ ~00~#029
+;00024479{    field of battle, King\  ~00~}#032#029
+  campo de batalla, el Rey\ ~00~#029
+;00024496{ Maximus summons you to his\~00~}#032#029
+  Maximus te convoca a su\  ~00~#029
+;000244B3{  castle. After a lesson in\~00~}#032#029
+ castillo. Tras una lección\~00~#029
+;000244D0{   tactics, he reluctantly\ ~00~}#032#029
+  de táctica, de mala gana\ ~00~#029
+;000244ED{reissues your commission and~00~}#032#029
+  reexpide tu mandado y te\ ~00~#029
+;0002450A{   sends you on your way.\  ~00~}#032#029
+ envía a seguir tu camino.\ ~00~#029
+;00024527{After being disgraced on the~00~}#032#029
+ Tras ser deshonrado en el\ ~00~#029
+;00024544{    field of battle, King\  ~00~}#032#029
+  campo de batalla, el Rey\ ~00~#029
+;00024561{ Maximus summons you to his\~00~}#032#029
+  Maximus te convoca a su\  ~00~#029
+;0002457E{  castle. After a lesson in\~00~}#032#029
+ castillo. Tras una lección\~00~#029
+;0002459B{   tactics, he reluctantly\ ~00~}#032#029
+  de táctica, de mala gana\ ~00~#029
+;000245B8{reissues your commission and~00~}#032#029
+  reexpide tu mandado y te\ ~00~#029
+;000245D5{   sends you on your way.\  ~00~}#032#029
+ envía a seguir tu camino.\ ~00~#029
+;000245F2{   You need siege weapons\  ~00~}#032#029
+ Necesitas armas de asedio\ ~00~#029
+;0002460F{     to attack a castle.\   ~00~}#032#029
+  para atacar un castillo.\ ~00~#029
+;0002462C{Congratulations,\ ~00~}#022#019
+Felicidades,\     ~00~#019
+;0002463F{have recovered the~00~}#022#019
+recuperado el\    ~00~#019
+;00024652{Sceptre of Order\ ~00~}#022#019
+Cetro del Orden de~00~#019
+;00024665{from the clutches\~00~}#022#019
+las garras de los\~00~#019
+;00024678{of the evil Master~00~}#022#019
+malvados Villanos\~00~#019
+;0002468B{Villains.  As a\  ~00~}#022#019
+Maestros. Como\   ~00~#019
+;0002469E{reward for saving\~00~}#022#019
+recompensa por\   ~00~#019
+;000246B1{himself and the\  ~00~}#022#019
+salvar de la ruina~00~#019
+;000246C4{four continents\  ~00~}#022#019
+al Rey y a los\   ~00~#019
+;000246D7{from ruin, King\  ~00~}#022#019
+cuatro continentes~00~#019
+;000246EA{Maximus and his\  ~00~}#022#019
+el Rey Maximus y\ ~00~#019
+;000246FD{subjects reward\  ~00~}#022#019
+sus súbditos te\  ~00~#019
+;00024710{you with a large\ ~00~}#022#019
+dan una gran\     ~00~#019
+;00024723{parcel of land,\  ~00~}#022#019
+parcela de tierra,~00~#019
+;00024736{a rank of nobility~00~}#022#019
+un rango de\      ~00~#019
+;00024749{and a medal\      ~00~}#022#019
+nobleza y una\    ~00~#019
+;0002475C{announcing your\  ~00~}#022#019
+medalla con tu\   ~00~#019
+;0002476F{Final Score:\     ~00~}#022#019
+Marca Final:\     ~00~#019
+;00024782{Sir Crimsaun!  You~00~}#022#019
+¡Sir Crimsaun! Has~00~#019
+;00024795{Lord Palmer!  You\~00~}#022#019
+¡Lord Palmer! Has ~00~#019
+;000247A8{Tynnestra!  You\  ~00~}#022#019
+¡Tynnestra! Has\  ~00~#019
+;000247BB{Mad Moham!  You\  ~00~}#022#019
+¡Mad Moham! Has\  ~00~#019
+;000247CE{you have failed to~00~}#022#019
+¡no has recuperado~00~#019
+;000247E1{recover the\      ~00~}#022#019
+el Cetro del Orden~00~#019
+;000247F4{Sceptre of Order\ ~00~}#022#019
+a tiempo para\    ~00~#019
+|1035
+@00024807-00024C18-00
+;00024807{in time to save\  ~00~}#022#019
+salvar a la\      ~00~#019
+;0002481A{the land!  Beloved~00~}#022#019
+tierra! El amado\ ~00~#019
+;0002482D{King Maximus has\ ~00~}#022#019
+Rey Maximus ha\   ~00~#019
+;00024840{died and the Demon~00~}#022#019
+muerto y el Rey\  ~00~#019
+;00024853{King Urthrax\     ~00~}#022#019
+Demonio Urthrax\  ~00~#019
+;00024866{Killspite rules in~00~}#022#019
+Killspite gobierna~00~#019
+;00024879{his place.  The\  ~00~}#022#019
+en su lugar. Los\ ~00~#019
+;0002488C{Four Continents\  ~00~}#022#019
+Cuatro Continentes~00~#019
+;0002489F{lay in ruin about\~00~}#022#019
+están en ruinas,\ ~00~#019
+;000248B2{you, its people\  ~00~}#022#019
+su gente está\    ~00~#019
+;000248C5{doomed to a life\ ~00~}#022#019
+condenada a una\  ~00~#019
+;000248D8{of misery and\    ~00~}#022#019
+vida de miseria y\~00~#019
+;000248EB{oppression because~00~}#022#019
+opresión porque no~00~#019
+;000248FE{you could not find~00~}#022#019
+pudiste encontrar\~00~#019
+;00024911{the Sceptre.\     ~00~}#022#019
+el Cetro.\        ~00~#019
+;00024924{Oh, Sir Crimsaun,\~00~}#022#019
+Oh, Sir Crimsaun,\~00~#019
+;00024937{Oh, Lord Palmer,\ ~00~}#022#019
+Oh, Lord Palmer,\ ~00~#019
+;0002494A{Oh, Tynnestra,\   ~00~}#022#019
+Oh, Tynnestra,\   ~00~#019
+;0002495D{Oh, Mad Moham,\   ~00~}#022#019
+Oh, Mad Moham,\   ~00~#019
+;00024970{Attack or Move~00~}#018#015
+Atacar o Mover~00~#015
+;0002497F{Attack, Shoot or Move~00~}#025#022
+Atacar, Tirar o Mover~00~#022
+;00024995{Move~00~}#008#005
+Mov.~00~#005
+;0002499A{Shoot (~00~}#011#008
+Tirar (~00~#008
+;000249A2{left)~00~}#009#006
+más) ~00~#006
+;000249A8{Shoot~00~}#009#006
+Tirar~00~#006
+;000249AE{are out of control!~00~}#023#020
+está descontrolado!~00~#020
+;000249C2{do nothing right now.~00~}#025#022
+no hacer nada ahora. ~00~#022
+;000249D8{Demons halve~00~}#016#013
+Demonio toma~00~#013
+;000249E5{retaliate, killing~00~}#022#019
+defienden y matan\~00~#019
+;000249F8{attack\    ~00~}#015#012
+atacan a\  ~00~#012
+;00024A04{shoot\     ~00~}#015#012
+disparan a\~00~#012
+;00024A10{electricute~00~}#015#012
+electrocuta~00~#012
+;00024A1C{blast\     ~00~}#015#012
+explosión\ ~00~#012
+;00024A28{die~00~}#007#004
+cae~00~#004
+;00024A2C{          Victory!\         ~00~}#032#029
+         ¡Victoria!\        ~00~#029
+;00024A49{          ________\         ~00~}#032#029
+         __________\        ~00~#029
+;00024A66{    you have successfully\  ~00~}#032#029
+  has vencido con éxito a\  ~00~#029
+;00024A83{ vanquished yet another foe.~00~}#032#029
+       otro enemigo.\       ~00~#029
+;00024AA0{Spoils of War:\             ~00~}#032#029
+Botín Guerra:\              ~00~#029
+;00024ABD{   Well done Sir Crimsaun,\ ~00~}#032#029
+  Bien hecho Sir Crimsaun,\ ~00~#029
+;00024ADA{   Well done Lord Palmer,\  ~00~}#032#029
+  Bien hecho Lord Palmer,\  ~00~#029
+;00024AF7{    Well done Tynnestra,\   ~00~}#032#029
+   Bien hecho Tynnestra,\   ~00~#029
+;00024B14{    Well done Mad Moham,\   ~00~}#032#029
+   Bien hecho Mad Moham,\   ~00~#029
+;00024B31{     And the capture of\    ~00~}#032#029
+     ¡Y la captura de\      ~00~#029
+;00024B4E{For fulfilling your contract~00~}#032#029
+Por cumplir tu contrato\    ~00~#029
+;00024B6B{  you receive an additional\~00~}#032#029
+recibes una cantidad extra\ ~00~#029
+;00024B88{gold as bounty\             ~00~}#032#029
+como recompensa\            ~00~#029
+;00024BA5{  and a piece of the map to ~00~}#032#029
+   y un trozo del mapa del\ ~00~#029
+;00024BC2{     the stolen scepter.\   ~00~}#032#029
+        cetro robado.\      ~00~#029
+;00024BDF{   Since you did not have\  ~00~}#032#029
+ Como no tenías el contrato\~00~#029
+;00024BFC{    the proper contract,\   ~00~}#032#029
+         correcto,\         ~00~#029
+|1042
+@00024C19-0002501D-00
+;00024C19{ the Lord has been set free.~00~}#032#029
+ el Lord ha sido liberado.\ ~00~#029
+;00024C36{You can learn~00~}#017#014
+Puedes tener\~00~#014
+;00024C44{more spells.~00~}#016#013
+magias más.\~00~#013
+;00024C51{View your army\    ~00~}#023#020
+Ver tu ejército\   ~00~#020
+;00024C65{View your character~00~}#023#020
+Ver tu personaje\  ~00~#020
+;00024C79{Use magic\         ~00~}#023#020
+Usar magia\        ~00~#020
+;00024C8D{Pass\              ~00~}#023#020
+Pasar\             ~00~#020
+;00024CA1{Wait\              ~00~}#023#020
+Esperar\           ~00~#020
+;00024CB5{Game controls\     ~00~}#023#020
+Controles del Juego~00~#020
+;00024CC9{\                  ~00~}#023#020
+\                  ~00~#020
+;00024CDD{Give up\           ~00~}#023#020
+Rendirte\          ~00~#020
+;00024CF1{   Giving up will\  ~00~}#024#021
+    Si te rindes\   ~00~#021
+;00024D06{ forfeit your armies~00~}#024#021
+    perderás tus\   ~00~#021
+;00024D1B{and send you back to~00~}#024#021
+ejércitos y volverás~00~#021
+;00024D30{      the King.\    ~00~}#024#021
+    con el Rey.\    ~00~#021
+;00024D45{\                   ~00~}#024#021
+\                   ~00~#021
+;00024D5A{   Continue battle\ ~00~}#024#021
+   Continuar batalla~00~#021
+;00024D6F{   Give up\         ~00~}#024#021
+   Rendirte\        ~00~#021
+;00024D84{pass~00~}#008#005
+pasa~00~#005
+;00024D89{wait~00~}#008#005
+esp.~00~#005
+;00024D8E{      Select your army to clone.      ~00~}#042#039
+     Elige tu ejército a clonar.      ~00~#039
+;00024DB5{       Select army to teleport.       ~00~}#042#039
+ Elige tu ejército a teletransportar. ~00~#039
+;00024DDC{      Select enemy army to blast.     ~00~}#042#039
+     Elige un enemigo a explotar.     ~00~#039
+;00024E03{   Select enemy army to electricute.  ~00~}#042#039
+   Elige un enemigo a electrocutar.   ~00~#039
+;00024E2A{     Select enemy army to freeze.     ~00~}#042#039
+     Elige un enemigo a congelar.     ~00~#039
+;00024E51{    Select your army to ressurect.    ~00~}#042#039
+    Elige tu ejército a resucitar.    ~00~#039
+;00024E78{      Select enemy army to turn.      ~00~}#042#039
+      Elige un enemigo a volver.      ~00~#039
+;00024E9F{ Select new location to teleport army.~00~}#042#039
+Elige ubicación de ejército teletrans.~00~#039
+;00024EC6{Turn undead kills~00~}#021#018
+VolverNoM mata a\~00~#018
+;00024ED8{Turn has no effect on~00~}#025#022
+VolverNM no afecta a\~00~#022
+;00024EEE{Fireball kills~00~}#018#015
+Bo.Fue. mata a~00~#015
+;00024EFD{Lightning kills~00~}#019#016
+Relámpago mata\~00~#016
+;00024F0D{Fireball has no effect on Dragons~00~}#037#034
+Bola de Fuego no afecta Dragones\~00~#034
+;00024F2F{Lightning has no effect on Dragons~00~}#038#035
+Relámpago no afecta a Dragones\   ~00~#035
+;00024F52{are cloned~00~}#014#011
+clonados\ ~00~#011
+;00024F5D{Clone has no effect on Dragons~00~}#034#031
+Clonar no afecta a Dragones\  ~00~#031
+;00024F7C{are teleported~00~}#018#015
+teletransporte~00~#015
+;00024F8B{Teleport has no effect on Dragons~00~}#037#034
+Teletransporte no afecta Dragones~00~#034
+;00024FAD{are frozen~00~}#014#011
+congelados~00~#011
+;00024FB8{Freeze has no effect on Dragons~00~}#035#032
+Congelar no afecta a Dragones\ ~00~#032
+;00024FD8{are ressurected~00~}#019#016
+resucitados\   ~00~#016
+;00024FE8{Ressurect has no effect on Dragons~00~}#038#035
+Resucitar no afecta a los Dragones~00~#035
+;0002500B{   Game Control\  ~00~}#022#019
+   Control Juego\ ~00~#019
+|1029
+@0002501E-00025172-00
+;0002501E{   ____________\  ~00~}#022#019
+   ____________\  ~00~#019
+;00025031{\                 ~00~}#022#019
+\                 ~00~#019
+;00025044{   Music\         ~00~}#022#019
+   Música\        ~00~#019
+;00025057{   Sound\         ~00~}#022#019
+   Sonido\        ~00~#019
+;0002506A{   Combat delay\  ~00~}#022#019
+   Ret. Combate\  ~00~#019
+;0002507D{\                 ~00~}#022#019
+\                 ~00~#019
+;00025090{off~00~}#007#004
+ no~00~#004
+;00025094{on ~00~}#007#004
+ sí~00~#004
+;00025098{may not shoot (~00~}#019#016
+no puede tirar(~00~#016
+;000250A8{  with desires of greater\  ~00~}#032#029
+  con deseos de mayor\      ~00~#029
+;000250C5{  glory, wish to join you.\ ~00~}#032#029
+  gloria, desea unírsete.\  ~00~#029
+;000250E2{\                           ~00~}#032#029
+\                           ~00~#029
+;000250FF{            Accept\         ~00~}#032#029
+            Aceptar\        ~00~#029
+;0002511C{            Decline\        ~00~}#032#029
+            Declinar\       ~00~#029
+;00025139{   flee in terror at the\   ~00~}#032#029
+   huyó de terror al ver a\ ~00~#029
+;00025156{  sight of your vast army.\ ~00~}#032#029
+   tu vasto ejército.\      ~00~#029
+|341
+@00020B26-00020F26-00
+;00020B26{\                           ~00~}#032#029
+\                           ~00~#029
+;00020B43{\                           ~00~}#032#029
+\                           ~00~#029
+;00020B60{\                           ~00~}#032#029
+\                           ~00~#029
+;00020B7D{Name: Arech Dragonbreath\   ~00~}#032#029
+Nombre: Arech Alientodragón\~00~#029
+;00020B9A{Alias: Mastermind\          ~00~}#032#029
+Alias: Mente Maestra\       ~00~#029
+;00020BB7{Reward: 50,000 gold\        ~00~}#032#029
+Recompensa: 50.000 de oro\  ~00~#029
+;00020BD4{Last Seen:\                 ~00~}#032#029
+Visto Por:\                 ~00~#029
+;00020BF1{Castle:\                    ~00~}#032#029
+Fuerte:\                    ~00~#029
+;00020C0E{Distinguishing Features:\   ~00~}#032#029
+Características Distintivas:~00~#029
+;00020C2B{  Arech is an immense dragon~00~}#032#029
+  Arech es un inmenso dragón~00~#029
+;00020C48{  with a green body and blue~00~}#032#029
+  de cuerpo verde y alas\   ~00~#029
+;00020C65{  wings, he breathes fire.\ ~00~}#032#029
+  azules, exhala fuego.\    ~00~#029
+;00020C82{Crimes: Arech is wanted for\~00~}#032#029
+Crímenes: Se busca a Arech\ ~00~#029
+;00020C9F{  leading the conspiracy\   ~00~}#032#029
+  por liderar la\           ~00~#029
+;00020CBC{  against the Crown,\       ~00~}#032#029
+  conspiración contra la\   ~00~#029
+;00020CD9{  arranging jailbreaks,\    ~00~}#032#029
+  corona, organizar fugas,\ ~00~#029
+;00020CF6{  formenting rebellion,\    ~00~}#032#029
+  fomentar la rebelión y\   ~00~#029
+;00020D13{  stealing the Sceptre of\  ~00~}#032#029
+  robar el Cetro del Orden. ~00~#029
+;00020D30{  Order.\                   ~00~}#032#029
+\                           ~00~#029
+;00020D4D{    You have no contract.   ~00~}#032#029
+   No tienes un contrato.   ~00~#029
+;00020D6A{Murray the Miser\    ~00~}#025#022
+Murray el Avaro\     ~00~#022
+;00020D80{Hack the Rogue\      ~00~}#025#022
+Hack el Pícaro\      ~00~#022
+;00020D96{Princesa Aimola\     ~00~}#025#022
+Princesa Aimola\     ~00~#022
+;00020DAC{Baron Johnno Makahl\ ~00~}#025#022
+Barón Johnno Makahl\ ~00~#022
+;00020DC2{Dread Pirate Rob\    ~00~}#025#022
+Terrible Pirata Rob\ ~00~#022
+;00020DD8{Caneghor the Mystic\ ~00~}#025#022
+Canegor el Místico\  ~00~#022
+;00020DEE{Sir Moradon the Cruel~00~}#025#022
+Sir Moradon el Cruel\~00~#022
+;00020E04{Prince Barrowpine\   ~00~}#025#022
+Príncipe Barrowpine\ ~00~#022
+;00020E1A{Bargash Eyesore\     ~00~}#025#022
+Bargash el Feo\      ~00~#022
+;00020E30{Rinaldus Drybone\    ~00~}#025#022
+Rinaldus Huesoseco\  ~00~#022
+;00020E46{Ragface\             ~00~}#025#022
+Caratrapo\           ~00~#022
+;00020E5C{Mahk Bellowspeak\    ~00~}#025#022
+Mahk Picofuelle\     ~00~#022
+;00020E72{Auric Whiteskin\     ~00~}#025#022
+Auric Pielblanca\    ~00~#022
+;00020E88{Czar Nickolai the Mad~00~}#025#022
+Zar Nickolai el Loco\~00~#022
+;00020E9E{Magus Deathspell\    ~00~}#025#022
+Magus Hechizomuerte\ ~00~#022
+;00020EB4{Urthrax Killspite\   ~00~}#025#022
+Urthrax Matapesar\   ~00~#022
+;00020ECA{Arech Dragonbreath\  ~00~}#025#022
+Arech Alientodragón\ ~00~#022
+;00020EE0{A sign reads~00~}#016#013
+Cartel dice:~00~#013
+;00020EED{      Treasure Island       ~00~}#032#029
+      Isla del Tesoro       ~00~#029
+;00020F0A{                            ~00~}#032#029
+                            ~00~#029
+|1025
+@00020F27-0002133A-00
+;00020F27{Rent a boat and sail the    ~00~}#032#029
+Alquila un barco y surca los~00~#029
+;00020F44{seas. Explore the easy way! ~00~}#032#029
+mares. ¡Explora fácilmente! ~00~#029
+;00020F61{Six villains rule           ~00~}#032#029
+Seis villanos gobiernan     ~00~#029
+;00020F7E{Continentia.                ~00~}#032#029
+Continentia.                ~00~#029
+;00020F9B{Aurange is north            ~00~}#032#029
+Aurange está al norte       ~00~#029
+;00020FB8{                            ~00~}#032#029
+                            ~00~#029
+;00020FD5{The Sceptre will never be   ~00~}#032#029
+¡El Cetro nunca será        ~00~#029
+;00020FF2{found!                      ~00~}#032#029
+encontrado!                 ~00~#029
+;0002100F{King's Treasure Garden      ~00~}#032#029
+Jardín del Tesoro del Rey   ~00~#029
+;0002102C{                            ~00~}#032#029
+                            ~00~#029
+;00021049{There are two artifacts per ~00~}#032#029
+Hay dos artefactos en cada  ~00~#029
+;00021066{continent.                  ~00~}#032#029
+continente.                 ~00~#029
+;00021083{Peasant Way                 ~00~}#032#029
+Camino del Campesino        ~00~#029
+;000210A0{                            ~00~}#032#029
+                            ~00~#029
+;000210BD{Wonder Woods                ~00~}#032#029
+Bosques de la Maravilla     ~00~#029
+;000210DA{                            ~00~}#032#029
+                            ~00~#029
+;000210F7{Pond of Peril               ~00~}#032#029
+Estanque del Peligro        ~00~#029
+;00021114{                            ~00~}#032#029
+                            ~00~#029
+;00021131{It takes time to cross the  ~00~}#032#029
+Se tarda tiempo en cruzar el~00~#029
+;0002114E{desert.                     ~00~}#032#029
+desierto.                   ~00~#029
+;0002116B{Dead End                    ~00~}#032#029
+Sin Salida                  ~00~#029
+;00021188{                            ~00~}#032#029
+                            ~00~#029
+;000211A5{Irok guards the north.      ~00~}#032#029
+Irok protege el norte.      ~00~#029
+;000211C2{                            ~00~}#032#029
+                            ~00~#029
+;000211DF{A-maze-ing Forest           ~00~}#032#029
+Bosque Increíble            ~00~#029
+;000211FC{                            ~00~}#032#029
+                            ~00~#029
+;00021219{All maps are found in chests~00~}#032#029
+Los mapas están en cofres   ~00~#029
+;00021236{                            ~00~}#032#029
+                            ~00~#029
+;00021253{Bridge Port                 ~00~}#032#029
+Puerto Puente               ~00~#029
+;00021270{                            ~00~}#032#029
+                            ~00~#029
+;0002128D{Hidden Grove                ~00~}#032#029
+Arboleda Oculta             ~00~#029
+;000212AA{                            ~00~}#032#029
+                            ~00~#029
+;000212C7{Secret Pass                 ~00~}#032#029
+Pasadizo Secreto            ~00~#029
+;000212E4{                            ~00~}#032#029
+                            ~00~#029
+;00021301{Isle of Death               ~00~}#032#029
+Isla de la Muerte           ~00~#029
+;0002131E{                            ~00~}#032#029
+                            ~00~#029
+|1044
+@000075E5-000075EB-00
+;000075E5{Puzzle~00~}#010#007
+Puzle\~00~#007
+|7
+@0000781D-00007823-00
+;0000781D{Search~00~}#010#007
+Busca\~00~#007
+|7
+@00007853-00007857-00
+;00007853{Quit~00~}#008#005
+Sale~00~#005
+|5
+@000087F7-000087FE-00
+;000087F7{Dismiss~00~}#011#008
+Despide~00~#008
+|8
+@0001EA90-0001EE99-00
+;0001EA90{ Sir Crimsaun the Knight ~00~}#029#026
+  Sir Crimsaun el Cabal. ~00~#026
+;0001EAAA{ Lord Palmer the Paladin ~00~}#029#026
+ Lord Palmer el  Paladín ~00~#026
+;0001EAC4{ Tynnestra the Sorceress ~00~}#029#026
+ Tynnestra la  Hechicera ~00~#026
+;0001EADE{ Mad Moham the Barbarian ~00~}#029#026
+ Mad Moham el  Bárbaro   ~00~#026
+;0001EAF8{Continue Game in Progress~00~}#029#026
+ Continúa Juego Iniciado ~00~#026
+;0001EB12{Select Character and Press Start~00~}#036#033
+ Elige Personaje y Pulsa Start  ~00~#033
+;0001EB33{~00~}#004#001
+~00~#001
+;0001EB34{Difficulty   Days  Score~00~}#028#025
+Dificultad   Días  Marca~00~#025
+;0001EB4D{ Easy         900   x.5\~00~}#028#025
+ Fácil        900   x.5\~00~#025
+;0001EB66{ Normal       600    x1\~00~}#028#025
+ Normal       600    x1\~00~#025
+;0001EB7F{ Hard         400    x2\~00~}#028#025
+ Difícil      400    x2\~00~#025
+;0001EB98{ Impossible?  200    x4\~00~}#028#025
+ ¿Imposible?  200    x4\~00~#025
+;0001EBB1{Select Difficulty and Press Start~00~}#037#034
+ Elige Dificultad y Pulsa Start  ~00~#034
+;0001EBD3{Continentia~00~}#015#012
+Continentia~00~#012
+;0001EBDF{Forestria\ ~00~}#015#012
+Forestria\ ~00~#012
+;0001EBEB{Archipelia\~00~}#015#012
+Archipelia\~00~#012
+;0001EBF7{Saharia\   ~00~}#015#012
+Saharia\   ~00~#012
+;0001EC03{unknown\   ~00~}#015#012
+desconocido~00~#012
+;0001EC0F{Continentia~00~}#015#012
+Continentia~00~#012
+;0001EC1B{ Forestria\~00~}#015#012
+ Forestria\~00~#012
+;0001EC27{Archipelia\~00~}#015#012
+Archipelia\~00~#012
+;0001EC33{  Saharia\~00~}#014#011
+  Saharia\~00~#011
+;0001EC3E{Castle~00~}#010#007
+Fuerte~00~#007
+;0001EC45{is under\              ~00~}#027#024
+gobierna\              ~00~#024
+;0001EC5D{'s rule.\              ~00~}#027#024
+.\                     ~00~#024
+;0001EC75{is under your rule.\   ~00~}#027#024
+está bajo tu gobierno.\~00~#024
+;0001EC8D{is under no one's rule.~00~}#027#024
+no está gobernado.\    ~00~#024
+;0001ECA5{'s rule\               ~00~}#027#024
+\                      ~00~#024
+;0001ECBD{Azram\         ~00~}#019#016
+Azram\         ~00~#016
+;0001ECCD{Basefit\       ~00~}#019#016
+Basefit\       ~00~#016
+;0001ECDD{Cancomar\      ~00~}#019#016
+Cancomar\      ~00~#016
+;0001ECED{Duvock\        ~00~}#019#016
+Duvock\        ~00~#016
+;0001ECFD{Endryx\        ~00~}#019#016
+Endryx\        ~00~#016
+;0001ED0D{Faxis\         ~00~}#019#016
+Faxis\         ~00~#016
+;0001ED1D{Goobare\       ~00~}#019#016
+Goobare\       ~00~#016
+;0001ED2D{Hyppus\        ~00~}#019#016
+Hyppus\        ~00~#016
+;0001ED3D{Irok\          ~00~}#019#016
+Irok\          ~00~#016
+;0001ED4D{Jhan\          ~00~}#019#016
+Jhan\          ~00~#016
+;0001ED5D{Kookamunga\    ~00~}#019#016
+Kookamunga\    ~00~#016
+;0001ED6D{Lorsche\       ~00~}#019#016
+Lorsche\       ~00~#016
+;0001ED7D{Mooseweigh\    ~00~}#019#016
+Mooseweigh\    ~00~#016
+;0001ED8D{Nilslag\       ~00~}#019#016
+Nilslag\       ~00~#016
+;0001ED9D{Ophiraund\     ~00~}#019#016
+Ophiraund\     ~00~#016
+;0001EDAD{Portalis\      ~00~}#019#016
+Portalis\      ~00~#016
+;0001EDBD{Quinderwitch\  ~00~}#019#016
+Quinderwitch\  ~00~#016
+;0001EDCD{Rythacon\      ~00~}#019#016
+Rythacon\      ~00~#016
+;0001EDDD{Spockana\      ~00~}#019#016
+Spockana\      ~00~#016
+;0001EDED{Tylitch\       ~00~}#019#016
+Tylitch\       ~00~#016
+;0001EDFD{Uzare\         ~00~}#019#016
+Uzare\         ~00~#016
+;0001EE0D{Vutar\         ~00~}#019#016
+Vutar\         ~00~#016
+;0001EE1D{Wankelforte\   ~00~}#019#016
+Wankelforte\   ~00~#016
+;0001EE2D{Xelox\         ~00~}#019#016
+Xelox\         ~00~#016
+;0001EE3D{Yeneverre\     ~00~}#019#016
+Yeneverre\     ~00~#016
+;0001EE4D{Zyzzarzaz\     ~00~}#019#016
+Zyzzarzaz\     ~00~#016
+;0001EE5D{of King Maximus~00~}#019#016
+del Rey Maximus~00~#016
+;0001EE6D{unknown\       ~00~}#019#016
+desconocido\   ~00~#016
+;0001EE7D{Name: Murray the Miser\     ~00~}#032#029
+Nombre: Murray el Avaro\    ~00~#029
+|1034

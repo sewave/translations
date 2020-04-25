@@ -1,0 +1,24 @@
+@0000ED2A-0000ED3B-FF
+;0000ED2A{PRESS START BUTTON}#018#018
+PULSA BOTÓN START #018
+|18
+@0000ED3E-0000ED4E-FF
+;0000ED3E{     c1992       }#017#017
+     c1992       #017
+|17
+@0000ED62-0000ED70-FF
+;0000ED62{ RIVERHILL SOFT}#015#015
+ RIVERHILL SOFT#015
+|15
+@0000F836-0000F86C-FF
+;0000F836{           CONGRATU                 LATIONS            }#055#055
+             FELICI                 DADES              #055
+|55
+@0000F86F-0000F8A5-FF
+;0000F86F{PRODUCTION                BY                G.G PROJECT}#055#055
+PRODUCCIÓN               POR                G.G PROJECT#055
+|55
+@0000F8A8-0000F8F4-FF
+;0000F8A8{PRESENTED                 BY                RIVERHILL                    SOFT}#077#077
+PRESENTADO               POR                RIVERHILL                    SOFT#077
+|77

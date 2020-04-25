@@ -1,5 +1,5 @@
-Marvel Land (Mega Drive)
-Traducción al Español v1.1 (24/04/2020)
+Space Harrier (PC Engine)
+Traducción al Español v1.0 (19/04/2020)
 (C) 2020 Traducciones Wave
 
 ------------------------
@@ -8,18 +8,17 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
-V1.1: Arreglado doble "el".
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Marvel Land (U) [!].bin
-MD5: ac2b187f80174678c8e9941d75f55b52
-SHA1: 29f290c80f992542e73c9ea95190403cb262b6ad
-CRC32: cd7eeeb7
-1048576 bytes
+Space Harrier (U).pce
+MD5: b87aba8faae39f238a8b2176daec96f4
+SHA1: 948e6a5c30dcf945ab8332009ae4fa3ab231255a
+CRC32: 43b05eb8
+524288 bytes
 
 --------
 Créditos

@@ -1,0 +1,24 @@
+@00000529-000005D6-FF
+;00000529{  TOP           1 P           2 P                        SCENE         ENEMY                              SPEED                      PLAYER               c1986     irem2~08~~E0~~C9~:~08~}#186#174
+  TOP           1 P           2 P                        SCENE         ENEMY                              SPEED                      PLAYER               c1986     irem2~08~~E0~~C9~:~08~#174
+|174
+@000009FE-00000A34-FF
+;000009FE{1P GAME START2P GAME START1P GAME OVER2P GAME OVER~CD~,J.~07~}#061#055
+1P GAME START2P GAME START1P GAME OVER2P GAME OVER~CD~,J.~07~#055
+|55
+@00001C3B-00001C62-FF
+;00001C3B{PLAYER SELECT             ___~73~~74~~75~___~80~~81~~82~~83~~84~}#064#040
+PLAYER SELECT             ___~73~~74~~75~___~80~~81~~82~~83~~84~#040
+|40
+@00001D3A-00001D89-FF
+;00001D3A{                BONUS OF TOWN                 150 X 0 = 000                _~15~0E~60~}#086#080
+                BONUS OF TOWN                 150 X 0 = 000                _~15~0E~60~#080
+|80
+@00001FE1-000020B2-FF
+;00001FE1{                           AT ONE SHOT                               YOUR RANK                              /           BONUS C~19~MASTER        ~83~~19~EXPERT        ~C3~~19~SHARPSHOOTER  ~03~~1A~MARKSMAN      C~1A~BIGINNER      R~19~_~20~}#240#210
+                           AT ONE SHOT                               YOUR RANK                              /           BONUS C~19~MASTER        ~83~~19~EXPERT        ~C3~~19~SHARPSHOOTER  ~03~~1A~MARKSMAN      C~1A~BIGINNER      R~19~_~20~#210
+|210
+@000061BF-000061D6-FF
+;000061BF{OOOOO~F4~~F1~~E1~OOOO~F4~~F1~~E1~~E1~OOO~F1~~E1~~E1~~E1~~E1~}#060#024
+OOOOO~F4~~F1~~E1~OOOO~F4~~F1~~E1~~E1~OOO~F1~~E1~~E1~~E1~~E1~#024
+|24

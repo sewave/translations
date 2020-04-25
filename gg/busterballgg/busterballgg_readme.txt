@@ -1,5 +1,5 @@
-Marvel Land (Mega Drive)
-Traducción al Español v1.1 (24/04/2020)
+Buster Ball (Game Gear)
+Traducción al Español v1.0 (19/04/2020)
 (C) 2020 Traducciones Wave
 
 ------------------------
@@ -8,18 +8,17 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
-V1.1: Arreglado doble "el".
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Marvel Land (U) [!].bin
-MD5: ac2b187f80174678c8e9941d75f55b52
-SHA1: 29f290c80f992542e73c9ea95190403cb262b6ad
-CRC32: cd7eeeb7
-1048576 bytes
+Buster Ball (Japan).gg
+MD5: f7a8e4770c519175794522f66d42b27d
+SHA1: 5d67f38ec0c2e577a7ad88915849da696ad162aa
+CRC32: 7cb079d0
+131072 bytes
 
 --------
 Créditos

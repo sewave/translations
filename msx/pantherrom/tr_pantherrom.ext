@@ -1,0 +1,86 @@
+@0000098E-00000999-FF
+;0000098E{1 P   2 P   }#012#012
+J 1   J 2   #012
+|12
+@00000529-000005D0-FF
+;00000529{  TOP           1 P           2 P                        SCENE         ENEMY                              SPEED                      PLAYER               c1986     irem}#168#168
+ MEJOR 
+       
+  J 1  
+       
+  J 2  
+       
+       
+       
+ESCENA 
+       
+ENEMIGO
+       
+       
+       
+       
+ PRISA 
+       
+       
+       
+ VIDAS 
+       
+       
+c1986  
+   irem#168
+|168
+@000009FE-00000A2F-FF
+;000009FE{1P GAME START2P GAME START1P GAME OVER2P GAME OVER}#050#050
+  INICIO J1  
+  INICIO J2  
+J1 FIN JUEGO
+J2 FIN JUEGO#050
+|50
+@00001C3B-00001C57-FF
+;00001C3B{PLAYER SELECT             ___}#029#029
+ELIGE JUGADOR             ___#029
+|29
+@00001D3B-00001D85-FF
+;00001D3B{               BONUS OF TOWN                 150 X 0 = 000                _}#075#075
+                BONO CIUDAD                  150 X 0 = 000                _#075
+|75
+@00001FE1-0000205E-FF
+;00001FE1{                           AT ONE SHOT                               YOUR RANK                              /           BONUS }#126#126
+                           DE UN TIRO                                 TU RANGO                              /           BONOS #126
+|126
+@00002061-0000206E-FF
+;00002061{MASTER        }#014#014
+MAESTRO       #014
+|14
+@00002071-0000207A-FF
+;00002071{EXPERT    }#010#010
+EXPERTO   #010
+|10
+@00002081-0000208E-FF
+;00002081{SHARPSHOOTER  }#014#014
+GRAN TIRADOR  #014
+|14
+@00002091-0000209A-FF
+;00002091{MARKSMAN  }#010#010
+TIRADOR   #010
+|10
+@000020A1-000020AE-FF
+;000020A1{BIGINNER      }#014#014
+PRINCIPIANTE  #014
+|14
+@00006CCF-00006CDB-FF
+;00006CCF{__1_PLAYER___}#013#013
+_1_JUGADOR___#013
+|13
+@00006CE1-00006CEE-FF
+;00006CE1{___2_PLAYERS__}#014#014
+__2_JUGADORES_#014
+|14
+@00006DAF-00006DCE-FF
+;00006DAF{_________PLAYER_SELECT__________}#032#032
+_________ELIGE_JUGADOR__________#032
+|32
+@00006E0F-00006E2E-FF
+;00006E0F{__________c_1986_irem___________}#032#032
+__________c_1986_irem___________#032
+|32

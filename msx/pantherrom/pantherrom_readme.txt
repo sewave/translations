@@ -1,5 +1,5 @@
-Marvel Land (Mega Drive)
-Traducción al Español v1.1 (24/04/2020)
+Panther (MSX)
+Traducción al Español v1.0 (19/04/2020)
 (C) 2020 Traducciones Wave
 
 ------------------------
@@ -8,18 +8,17 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
-V1.1: Arreglado doble "el".
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Marvel Land (U) [!].bin
-MD5: ac2b187f80174678c8e9941d75f55b52
-SHA1: 29f290c80f992542e73c9ea95190403cb262b6ad
-CRC32: cd7eeeb7
-1048576 bytes
+Panther (1986) (Irem) (J).rom
+MD5: 629f18292b2f7a7d3862678a7c221a95
+SHA1: 479608b5a86d7c77bd6c4dd00605b8efb2e5b43e
+CRC32: 33b9968c
+32768 bytes
 
 --------
 Créditos

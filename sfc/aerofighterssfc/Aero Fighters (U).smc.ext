@@ -1,0 +1,1816 @@
+@00039346-00039350-FF
+;00039346{OPTION~FF~}#010#007
+OPTION~FF~#007
+;0003934D{~00~~00~R~00~}#013#004
+~00~~00~R~00~#004
+|11
+@00039437-00039440-FF
+;00039437{STAFF~FF~}#009#006
+STAFF~FF~#006
+;0003943D{~00~~00~~AA~~00~}#016#004
+~00~~00~~AA~~00~#004
+|10
+@00039441-0003944A-FF
+;00039441{STAFF~FF~}#009#006
+STAFF~FF~#006
+;00039447{~00~~00~~1C~~03~}#016#004
+~00~~00~~1C~~03~#004
+|10
+@0003A33A-0003A343-FF
+;0003A33A{LEVEL~FF~}#009#006
+LEVEL~FF~#006
+;0003A340{~00~~00~N~02~}#013#004
+~00~~00~N~02~#004
+|10
+@0003A344-0003A350-FF
+;0003A344{CONTINUE~FF~}#012#009
+CONTINUE~FF~#009
+;0003A34D{~00~~00~~CE~~02~}#016#004
+~00~~00~~CE~~02~#004
+|13
+@0003A351-0003A35A-FF
+;0003A351{COUNT~FF~}#009#006
+COUNT~FF~#006
+;0003A357{~00~~00~~8E~~03~}#016#004
+~00~~00~~8E~~03~#004
+|10
+@0003A35B-0003A36D-FF
+;0003A35B{BUTTON    SHOT~FF~}#018#015
+BUTTON    SHOT~FF~#015
+;0003A36A{~00~~00~~8E~~04~}#016#004
+~00~~00~~8E~~04~#004
+|19
+@0003A36E-0003A377-FF
+;0003A36E{MUSIC~FF~}#009#006
+MUSIC~FF~#006
+;0003A374{~00~~00~~0E~~05~}#016#004
+~00~~00~~0E~~05~#004
+|10
+@0003A378-0003A381-FF
+;0003A378{SOUND~FF~}#009#006
+SOUND~FF~#006
+;0003A37E{~00~~00~~8E~~05~}#016#004
+~00~~00~~8E~~05~#004
+|10
+@0003A38C-0003A394-FF
+;0003A38C{EXIT~FF~}#008#005
+EXIT~FF~#005
+;0003A391{~00~~00~l~03~}#013#004
+~00~~00~l~03~#004
+|9
+@0003A39F-0003A3A7-FF
+;0003A39F{BOMB~FF~}#008#005
+BOMB~FF~#005
+;0003A3A4{~00~~00~~E2~~01~}#016#004
+~00~~00~~E2~~01~#004
+|9
+@0003A3A8-0003A3B2-FF
+;0003A3A8{SUPER ~FF~}#010#007
+SUPER ~FF~#007
+;0003A3AF{~00~~00~~E2~~01~}#016#004
+~00~~00~~E2~~01~#004
+|11
+@0003A3B3-0003A3BD-FF
+;0003A3B3{HARD  ~FF~}#010#007
+HARD  ~FF~#007
+;0003A3BA{~00~~00~~E2~~01~}#016#004
+~00~~00~~E2~~01~#004
+|11
+@0003A3BE-0003A3C8-FF
+;0003A3BE{NORMAL~FF~}#010#007
+NORMAL~FF~#007
+;0003A3C5{~00~~00~~E2~~01~}#016#004
+~00~~00~~E2~~01~#004
+|11
+@0003A3C9-0003A3D3-FF
+;0003A3C9{EASY  ~FF~}#010#007
+EASY  ~FF~#007
+;0003A3D0{~00~~00~~A2~~05~}#016#004
+~00~~00~~A2~~05~#004
+|11
+@0003A3E4-0003A3EE-FF
+;0003A3E4{STEREO~FF~}#010#007
+STEREO~FF~#007
+;0003A3EB{~00~~00~"~05~}#013#004
+~00~~00~"~05~#004
+|11
+@0003A3EF-0003A3F9-FF
+;0003A3EF{MONO  ~FF~}#010#007
+MONO  ~FF~#007
+;0003A3F6{~40~~00~(~00~}#013#004
+~40~~00~(~00~#004
+|11
+@0003A416-0003A422-FF
+;0003A416{DIRECTOR~FF~}#012#009
+DIRECTOR~FF~#009
+;0003A41F{~00~~00~~88~~01~}#016#004
+~00~~00~~88~~01~#004
+|13
+@0003A432-0003A43E-FF
+;0003A432{DESIGNER~FF~}#012#009
+DESIGNER~FF~#009
+;0003A43B{~00~~00~~C8~~02~}#016#004
+~00~~00~~C8~~02~#004
+|13
+@0003A4E4-0003A4ED-FF
+;0003A4E4{SOUND~FF~}#009#006
+SOUND~FF~#006
+;0003A4EA{~00~~00~~88~~01~}#016#004
+~00~~00~~88~~01~#004
+|10
+@0003A555-0003A574-FF
+;0003A555{They're trying to take-over~FF~}#031#028
+They're trying to take-over~FF~#028
+;0003A571{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|32
+@0003A575-0003A58F-FF
+;0003A575{Japan. Let's stop 'em!~FF~}#026#023
+Japan. Let's stop 'em!~FF~#023
+;0003A58C{~92~~A5~~AE~~A5~}#016#004
+~92~~A5~~AE~~A5~#004
+|27
+@0003A596-0003A5B1-FF
+;0003A596{Are we fighting against~FF~}#027#024
+Are we fighting against~FF~#024
+;0003A5AE{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|28
+@0003A5B2-0003A5BF-FF
+;0003A5B2{samurais?~FF~}#013#010
+samurais?~FF~#010
+;0003A5BC{~C6~~A5~~E3~~A5~}#016#004
+~C6~~A5~~E3~~A5~#004
+|14
+@0003A5CA-0003A5E6-FF
+;0003A5CA{Communications have been~FF~}#028#025
+Communications have been~FF~#025
+;0003A5E3{~00~~00~~06~~06~}#016#004
+~00~~00~~06~~06~#004
+|29
+@0003A5E7-0003A5F7-FF
+;0003A5E7{cut off from~FF~}#016#013
+cut off from~FF~#013
+;0003A5F4{~00~~00~F~06~}#013#004
+~00~~00~F~06~#004
+|17
+@0003A5F8-0003A615-FF
+;0003A5F8{the hidden military base.~FF~}#029#026
+the hidden military base.~FF~#026
+;0003A612{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|30
+@0003A616-0003A62A-FF
+;0003A616{Let's investigate.~FF~}#022#019
+Let's investigate.~FF~#019
+;0003A629{-~A6~}#005#002
+-~A6~#002
+|21
+@0003A631-0003A64F-FF
+;0003A631{Geez, this is overtime work.~FF~}#032#029
+Geez, this is overtime work.~FF~#029
+;0003A64E{T~A6~}#005#002
+T~A6~#002
+|31
+@0003A658-0003A676-FF
+;0003A658{Next we destroy the secret~FF~}#030#027
+Next we destroy the secret~FF~#027
+;0003A673{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|31
+@0003A677-0003A692-FF
+;0003A677{weapons of the enemies.~FF~}#027#024
+weapons of the enemies.~FF~#024
+;0003A68F{~95~~A6~~AE~~A6~}#016#004
+~95~~A6~~AE~~A6~#004
+|28
+@0003A699-0003A6B1-FF
+;0003A699{I'm not fit to fight~FF~}#024#021
+I'm not fit to fight~FF~#021
+;0003A6AE{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|25
+@0003A6B2-0003A6C4-FF
+;0003A6B2{in the desert.~FF~}#018#015
+in the desert.~FF~#015
+;0003A6C1{~C7~~A6~~E5~~A6~}#016#004
+~C7~~A6~~E5~~A6~#004
+|19
+@0003A6CB-0003A6E8-FF
+;0003A6CB{How about a Mediterranean~FF~}#029#026
+How about a Mediterranean~FF~#026
+;0003A6E5{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|30
+@0003A6E9-0003A6F6-FF
+;0003A6E9{vacation?~FF~}#013#010
+vacation?~FF~#010
+;0003A6F3{~F7~~A6~~FF~}#012#003
+~F7~~A6~~FF~#003
+;0003A6F6{~FF~}#004#001
+~FF~#001
+|14
+@0003A6FB-0003A714-FF
+;0003A6FB{You must be dreaming!~FF~}#025#022
+You must be dreaming!~FF~#022
+;0003A711{~15~~A7~~FF~}#012#003
+~15~~A7~~FF~#003
+;0003A714{~FF~}#004#001
+~FF~#001
+|26
+@0003A719-0003A733-FF
+;0003A719{Let's stop the invasion.~FF~}#028#025
+Let's stop the invasion.~FF~#025
+;0003A732{8~A7~}#005#002
+8~A7~#002
+|27
+@0003A73C-0003A757-FF
+;0003A73C{I can't stand the cold.~FF~}#027#024
+I can't stand the cold.~FF~#024
+;0003A754{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|28
+@0003A758-0003A776-FF
+;0003A758{Can someone take my place?~FF~}#030#027
+Can someone take my place?~FF~#027
+;0003A773{~7B~~A7~~9B~~A7~}#016#004
+~7B~~A7~~9B~~A7~#004
+|31
+@0003A77F-0003A79E-FF
+;0003A77F{Our next task is to destroy~FF~}#031#028
+Our next task is to destroy~FF~#028
+;0003A79B{~00~~00~F~06~}#013#004
+~00~~00~F~06~#004
+|32
+@0003A79F-0003A7BA-FF
+;0003A79F{the bomber that started~FF~}#027#024
+the bomber that started~FF~#024
+;0003A7B7{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|28
+@0003A7BB-0003A7CC-FF
+;0003A7BB{the invasion.~FF~}#017#014
+the invasion.~FF~#014
+;0003A7C9{~CF~~A7~~F0~~A7~}#016#004
+~CF~~A7~~F0~~A7~#004
+|18
+@0003A7D3-0003A7F3-FF
+;0003A7D3{That pathetic machine fights~FF~}#032#029
+That pathetic machine fights~FF~#029
+;0003A7F0{~00~~00~~84~~06~}#016#004
+~00~~00~~84~~06~#004
+|33
+@0003A7F4-0003A807-FF
+;0003A7F4{against humans?~FF~}#019#016
+against humans?~FF~#016
+;0003A804{~0A~~A8~%~A8~}#013#004
+~0A~~A8~%~A8~#004
+|20
+@0003A80E-0003A828-FF
+;0003A80E{The enemy is an alien?~FF~}#026#023
+The enemy is an alien?~FF~#023
+;0003A825{~00~~00~~8A~~06~}#016#004
+~00~~00~~8A~~06~#004
+|27
+@0003A829-0003A83F-FF
+;0003A829{you must be kidding.~FF~}#024#021
+you must be kidding.~FF~#021
+;0003A83E{D~A8~}#005#002
+D~A8~#002
+|23
+@0003A848-0003A860-FF
+;0003A848{It's a long way from~FF~}#024#021
+It's a long way from~FF~#021
+;0003A85D{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|25
+@0003A861-0003A874-FF
+;0003A861{April Fool's Day.~FF~}#021#018
+April Fool's Day.~FF~#018
+;0003A873{y~A8~}#005#002
+y~A8~#002
+|20
+@0003A87D-0003A89A-FF
+;0003A87D{Let's destroy the enemy's~FF~}#029#026
+Let's destroy the enemy's~FF~#026
+;0003A897{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|30
+@0003A89B-0003A8AA-FF
+;0003A89B{battleship.~FF~}#015#012
+battleship.~FF~#012
+;0003A8A7{~AB~~A8~~FF~}#012#003
+~AB~~A8~~FF~#003
+;0003A8AA{~FF~}#004#001
+~FF~#001
+|16
+@0003A8AF-0003A8CD-FF
+;0003A8AF{Why do I have to go along?~FF~}#030#027
+Why do I have to go along?~FF~#027
+;0003A8CA{~CE~~A8~~FF~}#012#003
+~CE~~A8~~FF~#003
+;0003A8CD{~FF~}#004#001
+~FF~#001
+|31
+@0003A8D2-0003A8E8-FF
+;0003A8D2{Let's investigate.~FF~}#022#019
+Let's investigate.~FF~#019
+;0003A8E5{~E9~~A8~~FF~}#012#003
+~E9~~A8~~FF~#003
+;0003A8E8{~FF~}#004#001
+~FF~#001
+|23
+@0003A8ED-0003A905-FF
+;0003A8ED{Why do I have to go?~FF~}#024#021
+Why do I have to go?~FF~#021
+;0003A902{~06~~A9~~FF~}#012#003
+~06~~A9~~FF~#003
+;0003A905{~FF~}#004#001
+~FF~#001
+|25
+@0003A91D-0003A92D-FF
+;0003A91D{Don't argue:~FF~}#016#013
+Don't argue:~FF~#013
+;0003A92A{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|17
+@0003A92E-0003A93F-FF
+;0003A92E{just follow me.~FF~}#019#016
+just follow me.~FF~#016
+;0003A93E{F~A9~}#005#002
+F~A9~#002
+|18
+@0003A94A-0003A964-FF
+;0003A94A{Oh, the Mediterranean?~FF~}#026#023
+Oh, the Mediterranean?~FF~#023
+;0003A961{~00~~00~J~06~}#013#004
+~00~~00~J~06~#004
+|27
+@0003A965-0003A97B-FF
+;0003A965{I've always wanted~FF~}#022#019
+I've always wanted~FF~#019
+;0003A978{~00~~00~~8A~~06~}#016#004
+~00~~00~~8A~~06~#004
+|23
+@0003A97C-0003A98D-FF
+;0003A97C{to come here.~FF~}#017#014
+to come here.~FF~#014
+;0003A98A{~90~~A9~~A3~~A9~}#016#004
+~90~~A9~~A3~~A9~#004
+|18
+@0003A994-0003A9A6-FF
+;0003A994{We're not here~FF~}#018#015
+We're not here~FF~#015
+;0003A9A3{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|19
+@0003A9A7-0003A9BA-FF
+;0003A9A7{for a vacation!~FF~}#019#016
+for a vacation!~FF~#016
+;0003A9B7{~BB~~A9~~FF~}#012#003
+~BB~~A9~~FF~#003
+;0003A9BA{~FF~}#004#001
+~FF~#001
+|20
+@0003A9BF-0003A9DA-FF
+;0003A9BF{I can't stand the cold.~FF~}#027#024
+I can't stand the cold.~FF~#024
+;0003A9D7{~DB~~A9~~FF~}#012#003
+~DB~~A9~~FF~#003
+;0003A9DA{~FF~}#004#001
+~FF~#001
+|28
+@0003A9DF-0003A9F8-FF
+;0003A9DF{Don't be such a baby!~FF~}#025#022
+Don't be such a baby!~FF~#022
+;0003A9F5{~FB~~A9~~18~~AA~}#016#004
+~FB~~A9~~18~~AA~#004
+|26
+@0003A9FF-0003AA1B-FF
+;0003A9FF{Let's go destroy the out~FF~}#028#025
+Let's go destroy the out~FF~#025
+;0003AA18{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003AA1C-0003AA30-FF
+;0003AA1C{of control bomber.~FF~}#022#019
+of control bomber.~FF~#019
+;0003AA2F{5~AA~}#005#002
+5~AA~#002
+|21
+@0003AA39-0003AA50-FF
+;0003AA39{Why do I have to go~FF~}#023#020
+Why do I have to go~FF~#020
+;0003AA4D{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|24
+@0003AA51-0003AA5C-FF
+;0003AA51{with you?~FF~}#013#010
+with you?~FF~#010
+;0003AA5B{a~AA~}#005#002
+a~AA~#002
+|12
+@0003AA65-0003AA81-FF
+;0003AA65{Are we going all the way~FF~}#028#025
+Are we going all the way~FF~#025
+;0003AA7E{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003AA82-0003AA95-FF
+;0003AA82{to outer space?~FF~}#019#016
+to outer space?~FF~#016
+;0003AA92{~96~~AA~~FF~}#012#003
+~96~~AA~~FF~#003
+;0003AA95{~FF~}#004#001
+~FF~#001
+|20
+@0003AA9A-0003AAAB-FF
+;0003AA9A{It's our job.~FF~}#017#014
+It's our job.~FF~#014
+;0003AAA8{~AC~~AA~~FF~}#012#003
+~AC~~AA~~FF~#003
+;0003AAAB{~FF~}#004#001
+~FF~#001
+|18
+@0003AABF-0003AAD2-FF
+;0003AABF{Shut up! I won!~FF~}#019#016
+Shut up! I won!~FF~#016
+;0003AACF{~D3~~AA~~FF~}#012#003
+~D3~~AA~~FF~#003
+;0003AAD2{~FF~}#004#001
+~FF~#001
+|20
+@0003AB08-0003AB1B-FF
+;0003AB08{Shut up! I won!~FF~}#019#016
+Shut up! I won!~FF~#016
+;0003AB18{~1C~~AB~~FF~}#012#003
+~1C~~AB~~FF~#003
+;0003AB1B{~FF~}#004#001
+~FF~#001
+|20
+@0003AB42-0003AB55-FF
+;0003AB42{Shut up! I won!~FF~}#019#016
+Shut up! I won!~FF~#016
+;0003AB52{~1C~~AB~~FF~}#012#003
+~1C~~AB~~FF~#003
+;0003AB55{~FF~}#004#001
+~FF~#001
+|20
+@0003AB73-0003AB87-FF
+;0003AB73{Finally, this is~FF~}#020#017
+Finally, this is~FF~#017
+;0003AB84{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|21
+@0003AB88-0003AB9B-FF
+;0003AB88{the last round.~FF~}#019#016
+the last round.~FF~#016
+;0003AB98{~9E~~AB~~B8~~AB~}#016#004
+~9E~~AB~~B8~~AB~#004
+|20
+@0003ABA2-0003ABBB-FF
+;0003ABA2{This is where we have~FF~}#025#022
+This is where we have~FF~#022
+;0003ABB8{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|26
+@0003ABBC-0003ABD3-FF
+;0003ABBC{our final showdown.~FF~}#023#020
+our final showdown.~FF~#020
+;0003ABD0{~D4~~AB~~FF~}#012#003
+~D4~~AB~~FF~#003
+;0003ABD3{~FF~}#004#001
+~FF~#001
+|24
+@0003ABD8-0003ABE9-FF
+;0003ABD8{Where is she?~FF~}#017#014
+Where is she?~FF~#014
+;0003ABE6{~EC~~AB~~04~~AC~}#016#004
+~EC~~AB~~04~~AC~#004
+|18
+@0003ABF0-0003AC07-FF
+;0003ABF0{I wonder if this is~FF~}#023#020
+I wonder if this is~FF~#020
+;0003AC04{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|24
+@0003AC08-0003AC20-FF
+;0003AC08{the right direction?~FF~}#024#021
+the right direction?~FF~#021
+;0003AC1D{~23~~AC~~40~~AC~}#016#004
+~23~~AC~~40~~AC~#004
+|25
+@0003AC27-0003AC43-FF
+;0003AC27{You cowards, you took my~FF~}#028#025
+You cowards, you took my~FF~#025
+;0003AC40{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003AC44-0003AC5E-FF
+;0003AC44{girlfriend as a hostage.~FF~}#028#025
+girlfriend as a hostage.~FF~#025
+;0003AC5D{a~AC~}#005#002
+a~AC~#002
+|27
+@0003AC65-0003AC81-FF
+;0003AC65{What despicable fellows!~FF~}#028#025
+What despicable fellows!~FF~#025
+;0003AC7E{~84~~AC~~9C~~AC~}#016#004
+~84~~AC~~9C~~AC~#004
+|29
+@0003AC88-0003AC9F-FF
+;0003AC88{She must be held at~FF~}#023#020
+She must be held at~FF~#020
+;0003AC9C{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|24
+@0003ACA0-0003ACBD-FF
+;0003ACA0{the enemy's headquarters.~FF~}#029#026
+the enemy's headquarters.~FF~#026
+;0003ACBA{~BE~~AC~~FF~}#012#003
+~BE~~AC~~FF~#003
+;0003ACBD{~FF~}#004#001
+~FF~#001
+|30
+@0003ACC2-0003ACD9-FF
+;0003ACC2{I can help you out.~FF~}#023#020
+I can help you out.~FF~#020
+;0003ACD6{~DA~~AC~~FF~}#012#003
+~DA~~AC~~FF~#003
+;0003ACD9{~FF~}#004#001
+~FF~#001
+|24
+@0003ACDE-0003ACF6-FF
+;0003ACDE{She's not even here.~FF~}#024#021
+She's not even here.~FF~#021
+;0003ACF3{~F9~~AC~~15~~AD~}#016#004
+~F9~~AC~~15~~AD~#004
+|25
+@0003ACFD-0003AD18-FF
+;0003ACFD{Maybe we should destroy~FF~}#027#024
+Maybe we should destroy~FF~#024
+;0003AD15{~00~~00~~8A~~06~}#016#004
+~00~~00~~8A~~06~#004
+|28
+@0003AD19-0003AD31-FF
+;0003AD19{the entire enemy base?~FF~}#026#023
+the entire enemy base?~FF~#023
+;0003AD30{6~AD~}#005#002
+6~AD~#002
+|25
+@0003AD3A-0003AD52-FF
+;0003AD3A{Where is the enemy's~FF~}#024#021
+Where is the enemy's~FF~#021
+;0003AD4F{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|25
+@0003AD53-0003AD62-FF
+;0003AD53{headquarters?~FF~}#017#014
+headquarters?~FF~#014
+;0003AD61{e~AD~}#005#002
+e~AD~#002
+|16
+@0003AD69-0003AD89-FF
+;0003AD69{Where should we search next?~FF~}#032#029
+Where should we search next?~FF~#029
+;0003AD86{~8C~~AD~~A9~~AD~}#016#004
+~8C~~AD~~A9~~AD~#004
+|33
+@0003AD90-0003ADAC-FF
+;0003AD90{Let me pass through here~FF~}#028#025
+Let me pass through here~FF~#025
+;0003ADA9{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003ADAD-0003ADC8-FF
+;0003ADAD{with my princely power.~FF~}#027#024
+with my princely power.~FF~#024
+;0003ADC5{~CB~~AD~~E2~~AD~}#016#004
+~CB~~AD~~E2~~AD~#004
+|28
+@0003ADCF-0003ADE5-FF
+;0003ADCF{This reminds me of~FF~}#022#019
+This reminds me of~FF~#019
+;0003ADE2{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003ADE6-0003ADFB-FF
+;0003ADE6{when I was young.~FF~}#021#018
+when I was young.~FF~#018
+;0003ADF8{~00~~AE~~1D~~AE~}#016#004
+~00~~AE~~1D~~AE~#004
+|22
+@0003AE04-0003AE20-FF
+;0003AE04{The enemy's headquarters~FF~}#028#025
+The enemy's headquarters~FF~#025
+;0003AE1D{~00~~00~H~06~}#013#004
+~00~~00~H~06~#004
+|29
+@0003AE21-0003AE37-FF
+;0003AE21{is in outer space.~FF~}#022#019
+is in outer space.~FF~#019
+;0003AE34{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|23
+@0003AE38-0003AE4E-FF
+;0003AE38{We finally found it.~FF~}#024#021
+We finally found it.~FF~#021
+;0003AE4D{Q~AE~}#005#002
+Q~AE~#002
+|23
+@0003AE55-0003AE62-FF
+;0003AE55{This is it!~FF~}#015#012
+This is it!~FF~#012
+;0003AE61{g~AE~}#005#002
+g~AE~#002
+|14
+@0003AE6B-0003AE81-FF
+;0003AE6B{I'll fly anywhere,~FF~}#022#019
+I'll fly anywhere,~FF~#019
+;0003AE7E{~00~~00~~8E~~06~}#016#004
+~00~~00~~8E~~06~#004
+|23
+@0003AE82-0003AE92-FF
+;0003AE82{at any time.~FF~}#016#013
+at any time.~FF~#013
+;0003AE8F{~95~~AE~~B2~~AE~}#016#004
+~95~~AE~~B2~~AE~#004
+|17
+@0003AE99-0003AEB5-FF
+;0003AE99{You can always depend on~FF~}#028#025
+You can always depend on~FF~#025
+;0003AEB2{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003AEB6-0003AED1-FF
+;0003AEB6{me in times of trouble.~FF~}#027#024
+me in times of trouble.~FF~#024
+;0003AECE{~D4~~AE~~EB~~AE~}#016#004
+~D4~~AE~~EB~~AE~#004
+|28
+@0003AED8-0003AEEE-FF
+;0003AED8{I didn't expect to~FF~}#022#019
+I didn't expect to~FF~#019
+;0003AEEB{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003AEEF-0003AF06-FF
+;0003AEEF{be back here again.~FF~}#023#020
+be back here again.~FF~#020
+;0003AF03{~09~~AF~ ~AF~}#013#004
+~09~~AF~ ~AF~#004
+|24
+@0003AF0D-0003AF23-FF
+;0003AF0D{What kind of enemy~FF~}#022#019
+What kind of enemy~FF~#019
+;0003AF20{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003AF24-0003AF38-FF
+;0003AF24{am I up against?~FF~}#020#017
+am I up against?~FF~#017
+;0003AF35{~3B~~AF~R~AF~}#013#004
+~3B~~AF~R~AF~#004
+|21
+@0003AF3F-0003AF55-FF
+;0003AF3F{I can fly anywhere~FF~}#022#019
+I can fly anywhere~FF~#019
+;0003AF52{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003AF56-0003AF6E-FF
+;0003AF56{if I am asked to help.~FF~}#026#023
+if I am asked to help.~FF~#023
+;0003AF6D{q~AF~}#005#002
+q~AF~#002
+|25
+@0003AF75-0003AF8E-FF
+;0003AF75{I won't let you down.~FF~}#025#022
+I won't let you down.~FF~#022
+;0003AF8B{~91~~AF~~A9~~AF~}#016#004
+~91~~AF~~A9~~AF~#004
+|26
+@0003AF95-0003AFAC-FF
+;0003AF95{I can't believe it!~FF~}#023#020
+I can't believe it!~FF~#020
+;0003AFA9{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|24
+@0003AFAD-0003AFC0-FF
+;0003AFAD{They're aliens!~FF~}#019#016
+They're aliens!~FF~#016
+;0003AFBD{~C1~~AF~~FF~}#012#003
+~C1~~AF~~FF~#003
+;0003AFC0{~FF~}#004#001
+~FF~#001
+|20
+@0003AFC5-0003AFE5-FF
+;0003AFC5{The boss sure expects a lot.~FF~}#032#029
+The boss sure expects a lot.~FF~#029
+;0003AFE2{~E8~~AF~~00~~B0~}#016#004
+~E8~~AF~~00~~B0~#004
+|33
+@0003AFEC-0003B003-FF
+;0003AFEC{Let's get this over~FF~}#023#020
+Let's get this over~FF~#020
+;0003B000{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|24
+@0003B004-0003B019-FF
+;0003B004{with and go home.~FF~}#021#018
+with and go home.~FF~#018
+;0003B016{~1E~~B0~9~B0~}#013#004
+~1E~~B0~9~B0~#004
+|22
+@0003B022-0003B03C-FF
+;0003B022{The next mission is in~FF~}#026#023
+The next mission is in~FF~#023
+;0003B039{~00~~00~L~06~}#013#004
+~00~~00~L~06~#004
+|27
+@0003B03D-0003B057-FF
+;0003B03D{the desert. I bet it's~FF~}#026#023
+the desert. I bet it's~FF~#023
+;0003B054{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|27
+@0003B058-0003B06A-FF
+;0003B058{going to be hot.~FF~}#020#017
+going to be hot.~FF~#017
+;0003B069{q~B0~}#005#002
+q~B0~#002
+|19
+@0003B075-0003B092-FF
+;0003B075{I'd rather be vacationing~FF~}#029#026
+I'd rather be vacationing~FF~#026
+;0003B08F{~00~~00~F~06~}#013#004
+~00~~00~F~06~#004
+|30
+@0003B093-0003B0AB-FF
+;0003B093{in the Mediterranean~FF~}#024#021
+in the Mediterranean~FF~#021
+;0003B0A8{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|25
+@0003B0AC-0003B0B8-FF
+;0003B0AC{instead.~FF~}#012#009
+instead.~FF~#009
+;0003B0B5{~BB~~B0~~D3~~B0~}#016#004
+~BB~~B0~~D3~~B0~#004
+|13
+@0003B0BF-0003B0D6-FF
+;0003B0BF{Wow! This is a long~FF~}#023#020
+Wow! This is a long~FF~#020
+;0003B0D3{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|24
+@0003B0D7-0003B0E9-FF
+;0003B0D7{way from home.~FF~}#018#015
+way from home.~FF~#015
+;0003B0E6{~EC~~B0~~0B~~B1~}#016#004
+~EC~~B0~~0B~~B1~#004
+|19
+@0003B0F0-0003B10E-FF
+;0003B0F0{The mission was a success!~FF~}#030#027
+The mission was a success!~FF~#027
+;0003B10B{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|31
+@0003B124-0003B133-FF
+;0003B124{This is it!~FF~}#015#012
+This is it!~FF~#012
+;0003B130{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|16
+@0003B134-0003B14E-FF
+;0003B134{I'm going home a winner!~FF~}#028#025
+I'm going home a winner!~FF~#025
+;0003B14D{Q~B1~}#005#002
+Q~B1~#002
+|27
+@0003B169-0003B17A-FF
+;0003B169{Your mission:~FF~}#017#014
+Your mission:~FF~#014
+;0003B177{~00~~00~~84~~06~}#016#004
+~00~~00~~84~~06~#004
+|18
+@0003B17B-0003B19B-FF
+;0003B17B{Bomb the enemy's battleship.~FF~}#032#029
+Bomb the enemy's battleship.~FF~#029
+;0003B198{~A0~~B1~~B2~~B1~}#016#004
+~A0~~B1~~B2~~B1~#004
+|33
+@0003B1A4-0003B1B5-FF
+;0003B1A4{Your mission:~FF~}#017#014
+Your mission:~FF~#014
+;0003B1B2{~00~~00~~08~~06~}#016#004
+~00~~00~~08~~06~#004
+|18
+@0003B1B6-0003B1D2-FF
+;0003B1B6{Investigate the incident~FF~}#028#025
+Investigate the incident~FF~#025
+;0003B1CF{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003B1D3-0003B1EA-FF
+;0003B1D3{at the hidden base.~FF~}#023#020
+at the hidden base.~FF~#020
+;0003B1E7{~EF~~B1~~01~~B2~}#016#004
+~EF~~B1~~01~~B2~#004
+|24
+@0003B1F3-0003B204-FF
+;0003B1F3{Your mission:~FF~}#017#014
+Your mission:~FF~#014
+;0003B201{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|18
+@0003B205-0003B21B-FF
+;0003B205{Destroy the secret~FF~}#022#019
+Destroy the secret~FF~#019
+;0003B218{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003B21C-0003B233-FF
+;0003B21C{weapons of the enemy.~FF~}#025#022
+weapons of the enemy.~FF~#022
+;0003B232{:~B2~}#005#002
+:~B2~#002
+|24
+@0003B23E-0003B24F-FF
+;0003B23E{Your mission:~FF~}#017#014
+Your mission:~FF~#014
+;0003B24C{~00~~00~~0A~~06~}#016#004
+~00~~00~~0A~~06~#004
+|18
+@0003B250-0003B26A-FF
+;0003B250{Destroy the fleet that~FF~}#026#023
+Destroy the fleet that~FF~#023
+;0003B267{~00~~00~~8A~~06~}#016#004
+~00~~00~~8A~~06~#004
+|27
+@0003B26B-0003B283-FF
+;0003B26B{caused the invasion.~FF~}#024#021
+caused the invasion.~FF~#021
+;0003B280{~88~~B2~~9A~~B2~}#016#004
+~88~~B2~~9A~~B2~#004
+|25
+@0003B28C-0003B29D-FF
+;0003B28C{Your mission:~FF~}#017#014
+Your mission:~FF~#014
+;0003B29A{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|18
+@0003B29E-0003B2B4-FF
+;0003B29E{Stop the take-over~FF~}#022#019
+Stop the take-over~FF~#019
+;0003B2B1{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003B2B5-0003B2CD-FF
+;0003B2B5{caused by the enemy.~FF~}#024#021
+caused by the enemy.~FF~#021
+;0003B2CA{~D2~~B2~~E4~~B2~}#016#004
+~D2~~B2~~E4~~B2~#004
+|25
+@0003B2D6-0003B2E7-FF
+;0003B2D6{Your mission:~FF~}#017#014
+Your mission:~FF~#014
+;0003B2E4{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|18
+@0003B2E8-0003B2FE-FF
+;0003B2E8{Destroy the out of~FF~}#022#019
+Destroy the out of~FF~#019
+;0003B2FB{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003B2FF-0003B312-FF
+;0003B2FF{control bomber.~FF~}#019#016
+control bomber.~FF~#016
+;0003B30F{~17~~B3~)~B3~}#013#004
+~17~~B3~)~B3~#004
+|20
+@0003B31B-0003B32C-FF
+;0003B31B{Your mission:~FF~}#017#014
+Your mission:~FF~#014
+;0003B329{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|18
+@0003B32D-0003B344-FF
+;0003B32D{Destroy the aliens'~FF~}#023#020
+Destroy the aliens'~FF~#020
+;0003B341{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|24
+@0003B345-0003B354-FF
+;0003B345{headquarters.~FF~}#017#014
+headquarters.~FF~#014
+;0003B353{Y~B3~}#005#002
+Y~B3~#002
+|16
+@0003B35D-0003B37D-FF
+;0003B35D{My gosh, how is the aircraft~FF~}#032#029
+My gosh, how is the aircraft~FF~#029
+;0003B37A{~00~~00~~84~~06~}#016#004
+~00~~00~~84~~06~#004
+|33
+@0003B37E-0003B394-FF
+;0003B37E{flying on its own?~FF~}#022#019
+flying on its own?~FF~#019
+;0003B391{~97~~B3~~B0~~B3~}#016#004
+~97~~B3~~B0~~B3~#004
+|23
+@0003B39B-0003B3B3-FF
+;0003B39B{Someone, please stop~FF~}#024#021
+Someone, please stop~FF~#021
+;0003B3B0{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|25
+@0003B3B4-0003B3C5-FF
+;0003B3B4{the aircraft.~FF~}#017#014
+the aircraft.~FF~#014
+;0003B3C2{~CA~~B3~~E0~~B3~}#016#004
+~CA~~B3~~E0~~B3~#004
+|18
+@0003B3CE-0003B3E3-FF
+;0003B3CE{Why does a [Star]~FF~}#021#018
+Why does a [Star]~FF~#018
+;0003B3E0{~00~~00~L~06~}#013#004
+~00~~00~L~06~#004
+|22
+@0003B3E4-0003B3FB-FF
+;0003B3E4{like myself have to~FF~}#023#020
+like myself have to~FF~#020
+;0003B3F8{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|24
+@0003B3FC-0003B411-FF
+;0003B3FC{put up with this?~FF~}#021#018
+put up with this?~FF~#018
+;0003B40E{~12~~B4~~FF~}#012#003
+~12~~B4~~FF~#003
+;0003B411{~FF~}#004#001
+~FF~#001
+|22
+@0003B416-0003B422-FF
+;0003B416{Who cares?~FF~}#014#011
+Who cares?~FF~#011
+;0003B421{%~B4~}#005#002
+%~B4~#002
+|13
+@0003B429-0003B444-FF
+;0003B429{You guys can't defeat me!~FF~}#029#026
+You guys can't defeat me!~FF~#026
+;0003B443{I~B4~}#005#002
+I~B4~#002
+|28
+@0003B44D-0003B469-FF
+;0003B44D{Is this the type of work~FF~}#028#025
+Is this the type of work~FF~#025
+;0003B466{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003B46A-0003B487-FF
+;0003B46A{a [Star] should be doing?~FF~}#029#026
+a [Star] should be doing?~FF~#026
+;0003B484{~8A~~B4~~A1~~B4~}#016#004
+~8A~~B4~~A1~~B4~#004
+|30
+@0003B48E-0003B4A4-FF
+;0003B48E{I'll show you what~FF~}#022#019
+I'll show you what~FF~#019
+;0003B4A1{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003B4C0-0003B4D6-FF
+;0003B4C0{I am the strongest~FF~}#022#019
+I am the strongest~FF~#019
+;0003B4D3{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003B4D7-0003B4EC-FF
+;0003B4D7{man in the world!~FF~}#021#018
+man in the world!~FF~#018
+;0003B4E9{~ED~~B4~~FF~}#012#003
+~ED~~B4~~FF~#003
+;0003B4EC{~FF~}#004#001
+~FF~#001
+|22
+@0003B4F1-0003B50C-FF
+;0003B4F1{You're no match for me!~FF~}#027#024
+You're no match for me!~FF~#024
+;0003B509{~0F~~B5~'~B5~}#013#004
+~0F~~B5~'~B5~#004
+|28
+@0003B513-0003B52A-FF
+;0003B513{You're no challenge~FF~}#023#020
+You're no challenge~FF~#020
+;0003B527{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|24
+@0003B53D-0003B555-FF
+;0003B53D{You can't beat me in~FF~}#024#021
+You can't beat me in~FF~#021
+;0003B552{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|25
+@0003B556-0003B56B-FF
+;0003B556{that piece of junk!~FF~}#023#020
+that piece of junk!~FF~#020
+;0003B56A{p~B5~}#005#002
+p~B5~#002
+|22
+@0003B574-0003B58F-FF
+;0003B574{There's no one stronger~FF~}#027#024
+There's no one stronger~FF~#024
+;0003B58C{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|28
+@0003B590-0003B59C-FF
+;0003B590{than me!~FF~}#012#009
+than me!~FF~#009
+;0003B599{~9D~~B5~~FF~}#012#003
+~9D~~B5~~FF~#003
+;0003B59C{~FF~}#004#001
+~FF~#001
+|13
+@0003B5A1-0003B5B5-FF
+;0003B5A1{Come and get me!~FF~}#020#017
+Come and get me!~FF~#017
+;0003B5B2{~BA~~B5~~D8~~B5~}#016#004
+~BA~~B5~~D8~~B5~#004
+|21
+@0003B5BE-0003B5DB-FF
+;0003B5BE{The time has finally come~FF~}#029#026
+The time has finally come~FF~#026
+;0003B5D8{~00~~00~F~06~}#013#004
+~00~~00~F~06~#004
+|30
+@0003B5FB-0003B60C-FF
+;0003B5FB{of the skies.~FF~}#017#014
+of the skies.~FF~#014
+;0003B609{~0F~~B6~/~B6~}#013#004
+~0F~~B6~/~B6~#004
+|18
+@0003B613-0003B632-FF
+;0003B613{I am the strongest fighting~FF~}#031#028
+I am the strongest fighting~FF~#028
+;0003B62F{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|32
+@0003B633-0003B64A-FF
+;0003B633{machine in the world.~FF~}#025#022
+machine in the world.~FF~#022
+;0003B649{S~B6~}#005#002
+S~B6~#002
+|24
+@0003B657-0003B675-FF
+;0003B657{You, just a piece of junk,~FF~}#030#027
+You, just a piece of junk,~FF~#027
+;0003B672{~00~~00~~04~~06~}#016#004
+~00~~00~~04~~06~#004
+|31
+@0003B676-0003B696-FF
+;0003B676{thought you could defeat me,~FF~}#032#029
+thought you could defeat me,~FF~#029
+;0003B693{~00~~00~D~06~}#013#004
+~00~~00~D~06~#004
+|33
+@0003B697-0003B6B0-FF
+;0003B697{the strongest machine~FF~}#025#022
+the strongest machine~FF~#022
+;0003B6AD{~00~~00~~84~~06~}#016#004
+~00~~00~~84~~06~#004
+|26
+@0003B6B1-0003B6C2-FF
+;0003B6B1{in the world?~FF~}#017#014
+in the world?~FF~#014
+;0003B6BF{~C7~~B6~~E4~~B6~}#016#004
+~C7~~B6~~E4~~B6~#004
+|18
+@0003B6CB-0003B6E7-FF
+;0003B6CB{You're an idiot to fight~FF~}#028#025
+You're an idiot to fight~FF~#025
+;0003B6E4{~00~~00~H~06~}#013#004
+~00~~00~H~06~#004
+|29
+@0003B6E8-0003B700-FF
+;0003B6E8{against me with such~FF~}#024#021
+against me with such~FF~#021
+;0003B6FD{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|25
+@0003B701-0003B715-FF
+;0003B701{a piece of junk.~FF~}#020#017
+a piece of junk.~FF~#017
+;0003B712{~18~~B7~5~B7~}#013#004
+~18~~B7~5~B7~#004
+|21
+@0003B71C-0003B738-FF
+;0003B71C{Just being large doesn't~FF~}#028#025
+Just being large doesn't~FF~#025
+;0003B735{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003B739-0003B752-FF
+;0003B739{mean you can defeat me.~FF~}#027#024
+mean you can defeat me.~FF~#024
+;0003B751{Y~B7~}#005#002
+Y~B7~#002
+|26
+@0003B75D-0003B776-FF
+;0003B75D{I told you that I was~FF~}#025#022
+I told you that I was~FF~#022
+;0003B773{~00~~00~H~06~}#013#004
+~00~~00~H~06~#004
+|26
+@0003B777-0003B792-FF
+;0003B777{the storongest fighting~FF~}#027#024
+the storongest fighting~FF~#024
+;0003B78F{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|28
+@0003B793-0003B7AC-FF
+;0003B793{machine in the world.~FF~}#025#022
+machine in the world.~FF~#022
+;0003B7A9{~AD~~B7~~FF~}#012#003
+~AD~~B7~~FF~#003
+;0003B7AC{~FF~}#004#001
+~FF~#001
+|26
+@0003B7B1-0003B7CD-FF
+;0003B7B1{I'll take on all of you!~FF~}#028#025
+I'll take on all of you!~FF~#025
+;0003B7CA{~D2~~B7~~ED~~B7~}#016#004
+~D2~~B7~~ED~~B7~#004
+|29
+@0003B7D6-0003B7F0-FF
+;0003B7D6{Something is out there~FF~}#026#023
+Something is out there~FF~#023
+;0003B7ED{~00~~00~H~06~}#013#004
+~00~~00~H~06~#004
+|27
+@0003B7F1-0003B7FE-FF
+;0003B7F1{in space.~FF~}#013#010
+in space.~FF~#010
+;0003B7FB{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|14
+@0003B7FF-0003B81B-FF
+;0003B7FF{I'm going to destroy it.~FF~}#028#025
+I'm going to destroy it.~FF~#025
+;0003B818{~1E~~B8~9~B8~}#013#004
+~1E~~B8~9~B8~#004
+|29
+@0003B822-0003B83C-FF
+;0003B822{It's been a long time,~FF~}#026#023
+It's been a long time,~FF~#023
+;0003B839{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|27
+@0003B83D-0003B84F-FF
+;0003B83D{so take it easy.~FF~}#020#017
+so take it easy.~FF~#017
+;0003B84E{T~B8~}#005#002
+T~B8~#002
+|19
+@0003B858-0003B873-FF
+;0003B858{I still can't be beaten~FF~}#027#024
+I still can't be beaten~FF~#024
+;0003B870{~00~~00~~8A~~06~}#016#004
+~00~~00~~8A~~06~#004
+|28
+@0003B874-0003B887-FF
+;0003B874{by young punks.~FF~}#019#016
+by young punks.~FF~#016
+;0003B884{~8C~~B8~~A4~~B8~}#016#004
+~8C~~B8~~A4~~B8~#004
+|20
+@0003B890-0003B8A7-FF
+;0003B890{When I was younger,~FF~}#023#020
+When I was younger,~FF~#020
+;0003B8A4{~00~~00~L~06~}#013#004
+~00~~00~L~06~#004
+|24
+@0003B8A8-0003B8C0-FF
+;0003B8A8{I was a lot stronger~FF~}#024#021
+I was a lot stronger~FF~#021
+;0003B8BD{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|25
+@0003B8C1-0003B8D3-FF
+;0003B8C1{than you guys.~FF~}#018#015
+than you guys.~FF~#015
+;0003B8D0{~D6~~B8~~F1~~B8~}#016#004
+~D6~~B8~~F1~~B8~#004
+|19
+@0003B8DA-0003B8F4-FF
+;0003B8DA{I wonder which country~FF~}#026#023
+I wonder which country~FF~#023
+;0003B8F1{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|27
+@0003B8F5-0003B913-FF
+;0003B8F5{I'm supposed to save next?~FF~}#030#027
+I'm supposed to save next?~FF~#027
+;0003B910{~16~~B9~1~B9~}#013#004
+~16~~B9~1~B9~#004
+|31
+@0003B91A-0003B934-FF
+;0003B91A{This is the last ditch~FF~}#026#023
+This is the last ditch~FF~#023
+;0003B931{~00~~00~~84~~06~}#016#004
+~00~~00~~84~~06~#004
+|27
+@0003B935-0003B954-FF
+;0003B935{effort for the sake of peace.~FF~}#033#030
+effort for the sake of peace.~FF~#030
+;0003B953{Y~B9~}#005#002
+Y~B9~#002
+|32
+@0003B95D-0003B971-FF
+;0003B95D{When you're old,~FF~}#020#017
+When you're old,~FF~#017
+;0003B96E{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|21
+@0003B972-0003B98B-FF
+;0003B972{the cold gets to you.~FF~}#025#022
+the cold gets to you.~FF~#022
+;0003B988{~8E~~B9~~AB~~B9~}#016#004
+~8E~~B9~~AB~~B9~#004
+|26
+@0003B992-0003B9AE-FF
+;0003B992{Now I'm finally ready to~FF~}#028#025
+Now I'm finally ready to~FF~#025
+;0003B9AB{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|29
+@0003B9AF-0003B9C7-FF
+;0003B9AF{defeat the evil one.~FF~}#024#021
+defeat the evil one.~FF~#021
+;0003B9C4{~C8~~B9~~FF~}#012#003
+~C8~~B9~~FF~#003
+;0003B9C7{~FF~}#004#001
+~FF~#001
+|25
+@0003BA0A-0003BA20-FF
+;0003BA0A{Hold down R-button~FF~}#022#019
+Hold down R-button~FF~#019
+;0003BA1D{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|23
+@0003BA21-0003BA2C-FF
+;0003BA21{and press~FF~}#013#010
+and press~FF~#010
+;0003BA2B{/~BA~}#005#002
+/~BA~#002
+|12
+@0003BACD-0003BAEA-FF
+;0003BACD{From the character select~FF~}#029#026
+From the character select~FF~#026
+;0003BAE7{~00~~00~~06~~03~}#016#004
+~00~~00~~06~~03~#004
+|30
+@0003BAEB-0003BAFF-FF
+;0003BAEB{screen hold down~FF~}#020#017
+screen hold down~FF~#017
+;0003BAFC{~00~~00~~86~~03~}#016#004
+~00~~00~~86~~03~#004
+|21
+@0003BB00-0003BB1A-FF
+;0003BB00{the R-button and press~FF~}#026#023
+the R-button and press~FF~#023
+;0003BB17{~00~~00~~06~~04~}#016#004
+~00~~00~~06~~04~#004
+|27
+@0003BB5E-0003BB78-FF
+;0003BB5E{What should     I need~FF~}#026#023
+What should     I need~FF~#023
+;0003BB75{~00~~00~~84~~05~}#016#004
+~00~~00~~84~~05~#004
+|27
+@0003BB79-0003BB98-FF
+;0003BB79{I do now?       a vacation.~FF~}#031#028
+I do now?       a vacation.~FF~#028
+;0003BB95{~00~~00~~04~~06~}#016#004
+~00~~00~~04~~06~#004
+|32
+@0003BBA6-0003BBC4-FF
+;0003BBA6{What's my       Am I still~FF~}#030#027
+What's my       Am I still~FF~#027
+;0003BBC1{~00~~00~~84~~05~}#016#004
+~00~~00~~84~~05~#004
+|31
+@0003BBC5-0003BBE2-FF
+;0003BBC5{next mission?   dreaming?~FF~}#029#026
+next mission?   dreaming?~FF~#026
+;0003BBDF{~00~~00~~06~~06~}#016#004
+~00~~00~~06~~06~#004
+|30
+@0003BBF0-0003BC0D-FF
+;0003BBF0{I'll take on    I can use~FF~}#029#026
+I'll take on    I can use~FF~#026
+;0003BC0A{~00~~00~~84~~05~}#016#004
+~00~~00~~84~~05~#004
+|30
+@0003BC0E-0003BC2D-FF
+;0003BC0E{anybody!        a lube job.~FF~}#031#028
+anybody!        a lube job.~FF~#028
+;0003BC2A{~00~~00~~04~~06~}#016#004
+~00~~00~~04~~06~#004
+|32
+@0003BC3B-0003BC58-FF
+;0003BC3B{I'm going on    Now I can~FF~}#029#026
+I'm going on    Now I can~FF~#026
+;0003BC55{~00~~00~~84~~05~}#016#004
+~00~~00~~84~~05~#004
+|30
+@0003BC59-0003BC74-FF
+;0003BC59{my honeymoon.   finally~FF~}#027#024
+my honeymoon.   finally~FF~#024
+;0003BC71{~00~~00~~04~~06~}#016#004
+~00~~00~~04~~06~#004
+|28
+@0003BC75-0003BC90-FF
+;0003BC75{                retire.~FF~}#027#024
+                retire.~FF~#024
+;0003BC8D{~95~~BC~~A9~~BC~}#016#004
+~95~~BC~~A9~~BC~#004
+|28
+@0003BC99-0003BCAC-FF
+;0003BC99{Congratulation!~FF~}#019#016
+Congratulation!~FF~#016
+;0003BCA9{~00~~00~~86~~05~}#016#004
+~00~~00~~86~~05~#004
+|20
+@0003BCC9-0003BCDF-FF
+;0003BCC9{Mission completed.~FF~}#022#019
+Mission completed.~FF~#019
+;0003BCDC{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|23
+@0003BCE0-0003BCF4-FF
+;0003BCE0{A job well done.~FF~}#020#017
+A job well done.~FF~#017
+;0003BCF1{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|21
+@0003BCF5-0003BD13-FF
+;0003BCF5{I'm counting on you again.~FF~}#030#027
+I'm counting on you again.~FF~#027
+;0003BD10{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|31
+@0003BD14-0003BD30-FF
+;0003BD14{The ninja shall continue~FF~}#028#025
+The ninja shall continue~FF~#025
+;0003BD2D{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|29
+@0003BD31-0003BD49-FF
+;0003BD31{to serve the shogun.~FF~}#024#021
+to serve the shogun.~FF~#021
+;0003BD46{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|25
+@0003BD6A-0003BD85-FF
+;0003BD6A{Hmmm... It was a dream.~FF~}#027#024
+Hmmm... It was a dream.~FF~#024
+;0003BD82{~00~~00~~88~~05~}#016#004
+~00~~00~~88~~05~#004
+|28
+@0003BD86-0003BDA3-FF
+;0003BD86{That was a strange dream,~FF~}#029#026
+That was a strange dream,~FF~#026
+;0003BDA0{~00~~00~~08~~06~}#016#004
+~00~~00~~08~~06~#004
+|30
+@0003BDA4-0003BDB8-FF
+;0003BDA4{indeed. I think ~FF~}#020#017
+indeed. I think ~FF~#017
+;0003BDB5{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|21
+@0003BDB9-0003BDD3-FF
+;0003BDB9{I'll go back to sleep.~FF~}#026#023
+I'll go back to sleep.~FF~#023
+;0003BDD0{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|27
+@0003BDD4-0003BDEA-FF
+;0003BDD4{... And she dreams~FF~}#022#019
+... And she dreams~FF~#019
+;0003BDE7{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|23
+@0003BDEB-0003BE04-FF
+;0003BDEB{the same dream again.~FF~}#025#022
+the same dream again.~FF~#022
+;0003BE01{~11~~BE~*~BE~}#013#004
+~11~~BE~*~BE~#004
+|26
+@0003BE15-0003BE2D-FF
+;0003BE15{Now we have defended~FF~}#024#021
+Now we have defended~FF~#021
+;0003BE2A{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|25
+@0003BE2E-0003BE3E-FF
+;0003BE2E{world peace.~FF~}#016#013
+world peace.~FF~#013
+;0003BE3B{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|17
+@0003BE3F-0003BE52-FF
+;0003BE3F{That was great.~FF~}#019#016
+That was great.~FF~#016
+;0003BE4F{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|20
+@0003BE53-0003BE6D-FF
+;0003BE53{This movie was popular~FF~}#026#023
+This movie was popular~FF~#023
+;0003BE6A{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|27
+@0003BE6E-0003BE87-FF
+;0003BE6E{in various places and~FF~}#025#022
+in various places and~FF~#022
+;0003BE84{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|26
+@0003BE88-0003BE9F-FF
+;0003BE88{became a great hit.~FF~}#023#020
+became a great hit.~FF~#020
+;0003BE9C{~B2~~BE~~FF~}#012#003
+~B2~~BE~~FF~#003
+;0003BE9F{~FF~}#004#001
+~FF~#001
+|24
+@0003BEB6-0003BECF-FF
+;0003BEB6{Mission accomplished.~FF~}#025#022
+Mission accomplished.~FF~#022
+;0003BECC{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|26
+@0003BED0-0003BEE2-FF
+;0003BED0{Holy mackerel!~FF~}#018#015
+Holy mackerel!~FF~#015
+;0003BEDF{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|19
+@0003BEE3-0003BEF7-FF
+;0003BEE3{It doesn't stop!~FF~}#020#017
+It doesn't stop!~FF~#017
+;0003BEF4{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|21
+@0003BEF8-0003BF04-FF
+;0003BEF8{And then~FF~}#012#009
+And then~FF~#009
+;0003BF01{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|13
+@0003BF05-0003BF1A-FF
+;0003BF05{he became a star.~FF~}#021#018
+he became a star.~FF~#018
+;0003BF17{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|22
+@0003BF1B-0003BF31-FF
+;0003BF1B{I'll take over for~FF~}#022#019
+I'll take over for~FF~#019
+;0003BF2E{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|23
+@0003BF32-0003BF45-FF
+;0003BF32{my older brother.~FF~}#021#018
+my older brother.~FF~#018
+;0003BF44{P~BF~}#005#002
+P~BF~#002
+|20
+@0003BF54-0003BF6B-FF
+;0003BF54{The battle is over.~FF~}#023#020
+The battle is over.~FF~#020
+;0003BF68{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|24
+@0003BF6C-0003BF7E-FF
+;0003BF6C{Let's go home.~FF~}#018#015
+Let's go home.~FF~#015
+;0003BF7B{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|19
+@0003BF7F-0003BF9B-FF
+;0003BF7F{However, there are other~FF~}#028#025
+However, there are other~FF~#025
+;0003BF98{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|29
+@0003BF9C-0003BFB5-FF
+;0003BF9C{battles to be fought.~FF~}#025#022
+battles to be fought.~FF~#022
+;0003BFB2{~BE~~BF~~CB~~BF~}#016#004
+~BE~~BF~~CB~~BF~#004
+|26
+@0003BFCF-0003BFD9-FF
+;0003BFCF{Sorry.~FF~}#010#007
+Sorry.~FF~#007
+;0003BFD6{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|11
+@0003BFDA-0003BFF3-FF
+;0003BFDA{Mission accomplished.~FF~}#025#022
+Mission accomplished.~FF~#022
+;0003BFF0{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|26
+@0003BFF4-0003C00A-FF
+;0003BFF4{I'm ready to land.~FF~}#022#019
+I'm ready to land.~FF~#019
+;0003C007{~1B~~C0~2~C0~}#013#004
+~1B~~C0~2~C0~#004
+|23
+@0003C01F-0003C035-FF
+;0003C01F{Is there anyone on~FF~}#022#019
+Is there anyone on~FF~#019
+;0003C032{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|23
+@0003C036-0003C045-FF
+;0003C036{this planet~FF~}#015#012
+this planet~FF~#012
+;0003C042{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|16
+@0003C046-0003C05D-FF
+;0003C046{stronger than I am?~FF~}#023#020
+stronger than I am?~FF~#020
+;0003C05A{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|24
+@0003C05E-0003C072-FF
+;0003C05E{I shall go on to~FF~}#020#017
+I shall go on to~FF~#017
+;0003C06F{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|21
+@0003C073-0003C087-FF
+;0003C073{the next planet.~FF~}#020#017
+the next planet.~FF~#017
+;0003C084{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|21
+@0003C088-0003C09E-FF
+;0003C088{It's impossible to~FF~}#022#019
+It's impossible to~FF~#019
+;0003C09B{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|23
+@0003C09F-0003C0B4-FF
+;0003C09F{do it with a jet.~FF~}#021#018
+do it with a jet.~FF~#018
+;0003C0B1{~C5~~C0~~FF~}#012#003
+~C5~~C0~~FF~#003
+;0003C0B4{~FF~}#004#001
+~FF~#001
+|22
+@0003C0FD-0003C116-FF
+;0003C0FD{the world's strongest~FF~}#025#022
+the world's strongest~FF~#022
+;0003C113{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|26
+@0003C117-0003C123-FF
+;0003C117{machine.~FF~}#012#009
+machine.~FF~#009
+;0003C120{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|13
+@0003C124-0003C13C-FF
+;0003C124{No way! I'm supposed~FF~}#024#021
+No way! I'm supposed~FF~#021
+;0003C139{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|25
+@0003C13D-0003C152-FF
+;0003C13D{to be the world's~FF~}#021#018
+to be the world's~FF~#018
+;0003C14F{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|22
+@0003C153-0003C167-FF
+;0003C153{strongest machine.~FF~}#022#019
+strongest machine.~FF~#019
+;0003C166{t~C1~}#005#002
+t~C1~#002
+|21
+@0003C191-0003C1A5-FF
+;0003C191{Then let's fight~FF~}#020#017
+Then let's fight~FF~#017
+;0003C1A2{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|21
+@0003C1A6-0003C1B4-FF
+;0003C1A6{once more.~FF~}#014#011
+once more.~FF~#011
+;0003C1B1{~BF~~C1~~FF~}#012#003
+~BF~~C1~~FF~#003
+;0003C1B4{~FF~}#004#001
+~FF~#001
+|15
+@0003C1C3-0003C1D6-FF
+;0003C1C3{Jump over here.~FF~}#019#016
+Jump over here.~FF~#016
+;0003C1D3{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|20
+@0003C1D7-0003C1EB-FF
+;0003C1D7{Now you're okay.~FF~}#020#017
+Now you're okay.~FF~#017
+;0003C1E8{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|21
+@0003C1EC-0003C204-FF
+;0003C1EC{And then, they lived~FF~}#024#021
+And then, they lived~FF~#021
+;0003C201{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|25
+@0003C205-0003C21A-FF
+;0003C205{happily ever after.~FF~}#023#020
+happily ever after.~FF~#020
+;0003C219{A~C2~}#005#002
+A~C2~#002
+|22
+@0003C245-0003C25A-FF
+;0003C245{Hey, why so late?~FF~}#021#018
+Hey, why so late?~FF~#018
+;0003C257{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|22
+@0003C25B-0003C271-FF
+;0003C25B{Are you all right,~FF~}#022#019
+Are you all right,~FF~#019
+;0003C26E{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|23
+@0003C272-0003C280-FF
+;0003C272{commander?~FF~}#014#011
+commander?~FF~#011
+;0003C27D{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|15
+@0003C281-0003C293-FF
+;0003C281{Yes, I'm fine.~FF~}#018#015
+Yes, I'm fine.~FF~#015
+;0003C290{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|19
+@0003C294-0003C2A9-FF
+;0003C294{Where did you go,~FF~}#021#018
+Where did you go,~FF~#018
+;0003C2A6{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|22
+@0003C2AA-0003C2BA-FF
+;0003C2AA{grandfather?~FF~}#016#013
+grandfather?~FF~#013
+;0003C2B7{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|17
+@0003C2BB-0003C2D4-FF
+;0003C2BB{I just came back from~FF~}#025#022
+I just came back from~FF~#022
+;0003C2D1{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|26
+@0003C2D5-0003C2EA-FF
+;0003C2D5{saving the world.~FF~}#021#018
+saving the world.~FF~#018
+;0003C2E7{~00~~00~~86~~05~}#016#004
+~00~~00~~86~~05~#004
+|22
+@0003C2EB-0003C30A-FF
+;0003C2EB{Oh you're kidding me again.~FF~}#031#028
+Oh you're kidding me again.~FF~#028
+;0003C307{~00~~00~~06~~06~}#016#004
+~00~~00~~06~~06~#004
+|32
+@0003C30B-0003C31E-FF
+;0003C30B{Stop joking and~FF~}#019#016
+Stop joking and~FF~#016
+;0003C31B{~00~~00~~86~~06~}#016#004
+~00~~00~~86~~06~#004
+|20
+@0003C31F-0003C333-FF
+;0003C31F{Let's go to eat.~FF~}#020#017
+Let's go to eat.~FF~#017
+;0003C330{~00~~00~~86~~05~}#016#004
+~00~~00~~86~~05~#004
+|21
+@0003C334-0003C352-FF
+;0003C334{No one in the family knows~FF~}#030#027
+No one in the family knows~FF~#027
+;0003C34F{~00~~00~~06~~06~}#016#004
+~00~~00~~06~~06~#004
+|31
+@0003C353-0003C369-FF
+;0003C353{what he really does.~FF~}#024#021
+what he really does.~FF~#021
+;0003C368{x~C3~}#005#002
+x~C3~#002
+|23
+@0003C37C-0003C393-FF
+;0003C37C{Now the world is in~FF~}#023#020
+Now the world is in~FF~#020
+;0003C390{~00~~00~~0C~~06~}#016#004
+~00~~00~~0C~~06~#004
+|24
+@0003C394-0003C3A9-FF
+;0003C394{great danger from~FF~}#021#018
+great danger from~FF~#018
+;0003C3A6{~00~~00~~8C~~06~}#016#004
+~00~~00~~8C~~06~#004
+|22
+@0003C3BE-0003C3E0-FF
+;0003C3BE{You are the world's last hope.~FF~}#034#031
+You are the world's last hope.~FF~#031
+;0003C3DD{~00~~00~~02~~06~}#016#004
+~00~~00~~02~~06~#004
+|35
+@0003C3E1-0003C3FD-FF
+;0003C3E1{You have one more chance~FF~}#028#025
+You have one more chance~FF~#025
+;0003C3FA{~00~~00~~82~~06~}#016#004
+~00~~00~~82~~06~#004
+|29
+@0003C3FE-0003C414-FF
+;0003C3FE{to save the world.~FF~}#022#019
+to save the world.~FF~#019
+;0003C411{~1D~~C4~>~C4~}#013#004
+~1D~~C4~>~C4~#004
+|23
+@0003C421-0003C441-FF
+;0003C421{The earth is in great peril.~FF~}#032#029
+The earth is in great peril.~FF~#029
+;0003C43E{~00~~00~~04~~06~}#016#004
+~00~~00~~04~~06~#004
+|33
+@0003C442-0003C454-FF
+;0003C442{Don't give up.~FF~}#018#015
+Don't give up.~FF~#015
+;0003C451{~00~~00~~86~~05~}#016#004
+~00~~00~~86~~05~#004
+|19
+@0003C455-0003C472-FF
+;0003C455{You still have one chance~FF~}#029#026
+You still have one chance~FF~#026
+;0003C46F{~00~~00~~06~~06~}#016#004
+~00~~00~~06~~06~#004
+|30
+@0003C473-0003C487-FF
+;0003C473{to save mankind.~FF~}#020#017
+to save mankind.~FF~#017
+;0003C484{~98~~C4~~FF~}#012#003
+~98~~C4~~FF~#003
+;0003C487{~FF~}#004#001
+~FF~#001
+|21
+@0003C49C-0003C4B7-FF
+;0003C49C{Hmmm... It was a dream.~FF~}#027#024
+Hmmm... It was a dream.~FF~#024
+;0003C4B4{~00~~00~~88~~05~}#016#004
+~00~~00~~88~~05~#004
+|28
+@0003C4B8-0003C4D5-FF
+;0003C4B8{That was a strange dream.~FF~}#029#026
+That was a strange dream.~FF~#026
+;0003C4D2{~00~~00~~08~~06~}#016#004
+~00~~00~~08~~06~#004
+|30
+@0003C4D6-0003C4E1-FF
+;0003C4D6{I think~FF~}#011#008
+I think~FF~#008
+;0003C4DE{~00~~00~~88~~06~}#016#004
+~00~~00~~88~~06~#004
+|12
+@0003C4E2-0003C4FC-FF
+;0003C4E2{I'll go back to sleep.~FF~}#026#023
+I'll go back to sleep.~FF~#023
+;0003C4F9{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|27
+@0003C4FD-0003C513-FF
+;0003C4FD{... And she dreams~FF~}#022#019
+... And she dreams~FF~#019
+;0003C510{~00~~00~~8C~~05~}#016#004
+~00~~00~~8C~~05~#004
+|23
+@0003C514-0003C52D-FF
+;0003C514{the same dream again.~FF~}#025#022
+the same dream again.~FF~#022
+;0003C52A{~00~~00~~0A~~04~}#016#004
+~00~~00~~0A~~04~#004
+|26

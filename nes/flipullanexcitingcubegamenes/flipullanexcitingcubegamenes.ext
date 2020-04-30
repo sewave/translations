@@ -1,0 +1,52 @@
+@0000076C-000007CB-FF
+;0000076C{~AA~!~0C~STAGE SELECT~AB~!~05~STAGE~B2~"~06~CREDIT~6B~!~0A~GAME  OVER~CD~!~08~CONTINUE~0D~"~03~END=~CB~!~0A~GAME  OVER=~CD~!~06~NORMAL~0D~"~07~ADVANCE}#150#096
+~AA~!~0C~STAGE SELECT~AB~!~05~STAGE~B2~"~06~CREDIT~6B~!~0A~GAME  OVER~CD~!~08~CONTINUE~0D~"~03~END=~CB~!~0A~GAME  OVER=~CD~!~06~NORMAL~0D~"~07~ADVANCE#096
+|96
+@00001F32-00001F5D-FF
+;00001F32{!~C2~       CLEAR!       !~E2~  CONGRATULATIONS!  }#050#044
+!~C2~       CLEAR!       !~E2~  CONGRATULATIONS!  #044
+|44
+@00001F6E-00001F99-FF
+;00001F6E{!~C2~                    !~E2~      TIME UP!      }#050#044
+!~C2~                    !~E2~      TIME UP!      #044
+|44
+@00001FAA-00001FD5-FF
+;00001FAA{!~C2~   SORRY,YOU HAVE   !~E2~    NO NEXT MOVE.   }#050#044
+!~C2~   SORRY,YOU HAVE   !~E2~    NO NEXT MOVE.   #044
+|44
+@00001FE6-00002011-FF
+;00001FE6{"~02~                    "" TIME  BONUS   * 10 }#047#044
+"~02~                    "" TIME  BONUS   * 10 #044
+|44
+@00002022-0000204D-FF
+;00002022{"B                    "~62~ CLEAR BONUS    000 }#047#044
+"B                    "~62~ CLEAR BONUS    000 #044
+|44
+@0000205E-00002089-FF
+;0000205E{!~C2~      PERFECT!      !~E2~  CONGRATULATIONS!  }#050#044
+!~C2~      PERFECT!      !~E2~  CONGRATULATIONS!  #044
+|44
+@0000209A-000020C5-FF
+;0000209A{!~C2~    JUST CLEAR!     !~E2~  CONGRATULATIONS!  }#050#044
+!~C2~    JUST CLEAR!     !~E2~  CONGRATULATIONS!  #044
+|44
+@000029FF-00002A0E-FF
+;000029FF{ SCORE        0 }#016#016
+ SCORE        0 #016
+|16
+@00003DC4-00003E46-FF
+;00003DC4{c   TA  IT  O   CO  RP  OR  AT  IO  N   19  89  AL  L   RI  GH  TS   R  ES  ER  VE  D   ~10~~11~~12~~13~   P  US  H   ST  AR  T   BU  TT  ON   }#143#131
+c   TA  IT  O   CO  RP  OR  AT  IO  N   19  89  AL  L   RI  GH  TS   R  ES  ER  VE  D   ~10~~11~~12~~13~   P  US  H   ST  AR  T   BU  TT  ON   #131
+|131
+@00003EB0-00003EC1-FF
+;00003EB0{HI  GH   S  CO  RE}#018#018
+HI  GH   S  CO  RE#018
+|18
+@00005619-000059DA-FF
+;00005619{~04~        CONGRATURATION !        =======~04~             STAFF              ====~04~          DIRECTED BY           =~04~        SYOUJI TAKAHASHI        ====~04~       ORIGINAL CONCEPT         =~04~           K.NUMATA             ====~04~      DIRECTED OF SOFTWARE      =~04~        MITSUGI SHIMIZU         ====~04~          PROGRAMMER            =~04~        NOBUYUKI SUZUKI         ====~04~       CHARACTOR DESIGNER       =~04~        NOBUYUKI SUZUKI         ====~04~     MUSIC AND SOUND EDITOR     =~04~        NOBORU KOSHINAKA        =~04~         ISAO MIZUGUCHI         ====~04~         SPECIAL THANKS         =~04~             K.Z.M              =~04~            ATSUJI              =~04~        BOMB BROS.TANAKA        =~04~         BOMB BROS.ITO          =~04~           OGU OGU              =~04~           K.MIMORI             =~04~           NOGU NOGU            =~04~           A.KAWANO             =~04~           ISHIIPON             ====~04~        GAME DESIGNED BY        =~04~          NISHIYAMAN            ===============}#1043#962
+~04~        CONGRATURATION !        =======~04~             STAFF              ====~04~          DIRECTED BY           =~04~        SYOUJI TAKAHASHI        ====~04~       ORIGINAL CONCEPT         =~04~           K.NUMATA             ====~04~      DIRECTED OF SOFTWARE      =~04~        MITSUGI SHIMIZU         ====~04~          PROGRAMMER            =~04~        NOBUYUKI SUZUKI         ====~04~       CHARACTOR DESIGNER       =~04~        NOBUYUKI SUZUKI         ====~04~     MUSIC AND SOUND EDITOR     =~04~        NOBORU KOSHINAKA        =~04~         ISAO MIZUGUCHI         ====~04~         SPECIAL THANKS         =~04~             K.Z.M              =~04~            ATSUJI              =~04~        BOMB BROS.TANAKA        =~04~         BOMB BROS.ITO          =~04~           OGU OGU              =~04~           K.MIMORI             =~04~           NOGU NOGU            =~04~           A.KAWANO             =~04~           ISHIIPON             ====~04~        GAME DESIGNED BY        =~04~          NISHIYAMAN            ===============#962
+|962
+@00005A46-00005A8D-FF
+;00005A46{    cTAITO CORPORATION 1989     =~04~      ALL RIGHTS RESERVED       =====~FF~}#078#072
+    cTAITO CORPORATION 1989     =~04~      ALL RIGHTS RESERVED       =====~FF~#072
+|72

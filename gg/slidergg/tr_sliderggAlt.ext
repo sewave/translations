@@ -1,0 +1,36 @@
+@00004E91-00004E9C-FF
+;00004E91{[   PLAY   [}#012#012
+[  JUGAR   [#012
+|12
+@00004EB9-00004EC4-FF
+;00004EB9{[ PASSWORD [}#012#012
+[  CLAVE   [#012
+|12
+@00004EE1-00004EEC-FF
+;00004EE1{[ HISCORES [}#012#012
+[  MARCAS  [#012
+|12
+@00004F4A-00004F52-FF
+;00004F4A{$$PLAY$$ }#009#009
+$JUGAR$$ #009
+|9
+@00004F55-00004F5D-FF
+;00004F55{PASSWORD }#009#009
+$CLAVE$$ #009
+|9
+@00004F60-00004F68-FF
+;00004F60{HISCORES }#009#009
+$MARCAS$ #009
+|9
+@000069F2-00006AA5-FF
+;000069F2{[ A B C D E F G H I[[                  [[ J K L M N O P Q R[[                  [[ S T U V W X Y Z  [[                  [[           < > END[[                  [[       AAAA       [}#180#180
+[ A B C D E F G H I[
+[                  [
+[ J K L M N O P Q R[
+[                  [
+[ S T U V W X Y Z  [
+[                  [
+[           < > FIN[
+[                  [
+[       AAAA       [#180
+|180

@@ -1,0 +1,96 @@
+@00001EFD-00001F48-FF
+;00001EFD{9SOUND TEST~00~~00~~00~~88~9ROUND SELECT~00~~00~~00~~0C~9ROUND~00~~06~~3B~SCORE       0~00~~00~~00~~06~9SCORE       0~00~~C8~:~40~}#130#076
+9SOUND TEST~00~~00~~00~~88~9ROUND SELECT~00~~00~~00~~0C~9ROUND~00~~06~~3B~SCORE       0~00~~00~~00~~06~9SCORE       0~00~~C8~:~40~#076
+|76
+@00001F49-00001F72-FF
+;00001F49{ CONTINUE~00~~8C~~3B~GAME OVER~00~~00~~00~~08~9MODE  SELECT~00~~CA~:~40~}#072#042
+ CONTINUE~00~~8C~~3B~GAME OVER~00~~00~~00~~08~9MODE  SELECT~00~~CA~:~40~#042
+|42
+@00001F73-00001FB5-FF
+;00001F73{ NORMAL~00~~8A~~3B~  SPECIAL~00~~00~~00~F8  TEST MODE~00~~06~9     FOR~00~~C6~9OFFICIAL STAFF~00~~CA~:~40~}#106#067
+ NORMAL~00~~8A~~3B~  SPECIAL~00~~00~~00~F8  TEST MODE~00~~06~9     FOR~00~~C6~9OFFICIAL STAFF~00~~CA~:~40~#067
+|67
+@00001FB6-00001FFA-FF
+;00001FB6{ NORMAL~00~~8A~~3B~  SPECIAL~00~~00~~00~~86~8SPECIAL MODE~00~F9      FOR~00~~06~:   NAOKO NITTA~00~~CA~:~40~}#108#069
+ NORMAL~00~~8A~~3B~  SPECIAL~00~~00~~00~~86~8SPECIAL MODE~00~F9      FOR~00~~06~:   NAOKO NITTA~00~~CA~:~40~#069
+|69
+@00001FFB-0000202A-FF
+;00001FFB{ NORMAL~00~~8A~~3B~  SPECIAL~00~~00~~00~~08~9FINAL  SCORE~00~~0C~~3B~       0~00~}#081#048
+ NORMAL~00~~8A~~3B~  SPECIAL~00~~00~~00~~08~9FINAL  SCORE~00~~0C~~3B~       0~00~#048
+|48
+@00026D89-00026DB2-FF
+;00026D89{       STAFF        ~00~                    ~00~}#048#042
+       STAFF        ~00~                    ~00~#042
+|42
+@00026DB3-00026E06-FF
+;00026DB3{ PLANNING           ~00~  AKABAY YUKINORI T ~00~      HIROKI KODAMA ~00~                    ~00~}#096#084
+ PLANNING           ~00~  AKABAY YUKINORI T ~00~      HIROKI KODAMA ~00~                    ~00~#084
+|84
+@00026E07-00026E6F-FF
+;00026E07{ PROGRAM            ~00~  AKABAY YUKINORI T ~00~ GRAPHIC DESIGN     ~00~      HIROKI KODAMA ~00~                    ~00~}#120#105
+ PROGRAM            ~00~  AKABAY YUKINORI T ~00~ GRAPHIC DESIGN     ~00~      HIROKI KODAMA ~00~                    ~00~#105
+|105
+@00026E70-00026EC3-FF
+;00026E70{ SOUND              ~00~        KG TAKEUCHI ~00~          MR SAKODA ~00~                    ~00~}#096#084
+ SOUND              ~00~        KG TAKEUCHI ~00~          MR SAKODA ~00~                    ~00~#084
+|84
+@00026EC4-00026F02-FF
+;00026EC4{ SOUND EFFECT       ~00~               MATS ~00~                    ~00~}#072#063
+ SOUND EFFECT       ~00~               MATS ~00~                    ~00~#063
+|63
+@00026F03-00026F41-FF
+;00026F03{ SUPERVISOR         ~00~      JEMINI HIRONO ~00~                    ~00~}#072#063
+ SUPERVISOR         ~00~      JEMINI HIRONO ~00~                    ~00~#063
+|63
+@00026F42-00026F80-FF
+;00026F42{ CONCEPT ADVISER    ~00~  KAZUYUKI NAKASIMA ~00~                    ~00~}#072#063
+ CONCEPT ADVISER    ~00~  KAZUYUKI NAKASIMA ~00~                    ~00~#063
+|63
+@00026F81-00026FBF-FF
+;00026F81{ PRODUCE            ~00~        MOO NIITANI ~00~                    ~00~}#072#063
+ PRODUCE            ~00~        MOO NIITANI ~00~                    ~00~#063
+|63
+@00026FC0-000270E5-FF
+;00026FC0{ SPECIAL THANKS TO  ~00~            SHINOPY ~00~               TAKA ~00~     JANUS TERAMOTO ~00~      YUICHI TOYAMA ~00~              KEROL ~00~              FUBON ~00~        FUKUSABUROH ~00~          YONEMITSU ~00~      KENICHI YOKOO ~00~              AI AI ~00~       SONCHOH SAWA ~00~           DECOMATZ ~00~                    ~00~}#336#294
+ SPECIAL THANKS TO  ~00~            SHINOPY ~00~               TAKA ~00~     JANUS TERAMOTO ~00~      YUICHI TOYAMA ~00~              KEROL ~00~              FUBON ~00~        FUKUSABUROH ~00~          YONEMITSU ~00~      KENICHI YOKOO ~00~              AI AI ~00~       SONCHOH SAWA ~00~           DECOMATZ ~00~                    ~00~#294
+|294
+@0002AD89-0002ADB2-FF
+;0002AD89{       STAFF        ~00~                    ~00~}#048#042
+       STAFF        ~00~                    ~00~#042
+|42
+@0002ADB3-0002AE06-FF
+;0002ADB3{ PLANNING           ~00~  AKABAY YUKINORI T ~00~      HIROKI KODAMA ~00~                    ~00~}#096#084
+ PLANNING           ~00~  AKABAY YUKINORI T ~00~      HIROKI KODAMA ~00~                    ~00~#084
+|84
+@0002AE07-0002AE45-FF
+;0002AE07{ PROGRAM            ~00~  AKABAY YUKINORI T ~00~                    ~00~}#072#063
+ PROGRAM            ~00~  AKABAY YUKINORI T ~00~                    ~00~#063
+|63
+@0002AE46-0002AE84-FF
+;0002AE46{ GRAPHIC DESIGN     ~00~      HIROKI KODAMA ~00~                    ~00~}#072#063
+ GRAPHIC DESIGN     ~00~      HIROKI KODAMA ~00~                    ~00~#063
+|63
+@0002AE85-0002AED8-FF
+;0002AE85{ SOUND              ~00~        KG TAKEUCHI ~00~          MR SAKODA ~00~                    ~00~}#096#084
+ SOUND              ~00~        KG TAKEUCHI ~00~          MR SAKODA ~00~                    ~00~#084
+|84
+@0002AED9-0002AF17-FF
+;0002AED9{ SOUND EFFECT       ~00~               MATS ~00~                    ~00~}#072#063
+ SOUND EFFECT       ~00~               MATS ~00~                    ~00~#063
+|63
+@0002AF18-0002AF56-FF
+;0002AF18{ SUPERVISOR         ~00~      JEMINI HIRONO ~00~                    ~00~}#072#063
+ SUPERVISOR         ~00~      JEMINI HIRONO ~00~                    ~00~#063
+|63
+@0002AF57-0002AF95-FF
+;0002AF57{ CONCEPT ADVISER    ~00~  KAZUYUKI NAKASIMA ~00~                    ~00~}#072#063
+ CONCEPT ADVISER    ~00~  KAZUYUKI NAKASIMA ~00~                    ~00~#063
+|63
+@0002AF96-0002AFD4-FF
+;0002AF96{ PRODUCE            ~00~        MOO NIITANI ~00~                    ~00~}#072#063
+ PRODUCE            ~00~        MOO NIITANI ~00~                    ~00~#063
+|63
+@0002AFD5-0002B10F-FF
+;0002AFD5{ SPECIAL THANKS TO  ~00~    NORIBAY TSUKIJI ~00~            SHINOPY ~00~               TAKA ~00~     JANUS TERAMOTO ~00~      YUICHI TOYAMA ~00~              KEROL ~00~              FUBON ~00~        FUKUSABUROH ~00~          YONEMITSU ~00~      KENICHI YOKOO ~00~              AI AI ~00~       SONCHOH SAWA ~00~           DECOMATZ ~00~                    ~00~}#360#315
+ SPECIAL THANKS TO  ~00~    NORIBAY TSUKIJI ~00~            SHINOPY ~00~               TAKA ~00~     JANUS TERAMOTO ~00~      YUICHI TOYAMA ~00~              KEROL ~00~              FUBON ~00~        FUKUSABUROH ~00~          YONEMITSU ~00~      KENICHI YOKOO ~00~              AI AI ~00~       SONCHOH SAWA ~00~           DECOMATZ ~00~                    ~00~#315
+|315

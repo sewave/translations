@@ -1,0 +1,55 @@
+@0000ADB2-0000AFFF-FF
+;0000ADB2{MISSION COMPLETED. TERRORISTS WERE DESTROYED. PEACE WILL RETURN.        >TOTAL DESIGN                 >MOVEMENT       KACHUMI       >GRAPHICS       MIKI.T        >MAIN PROGRAM   KYŌRA YUMI    >SOUND EFFECT                 >SPECIAL      INUMARU     T.NISHIYAMA          CONGRATULATIONS!         ~FF~}#298#295
+MISIÓN COMPLETADA. LOS TERRORISTAS FUERON DESTRUIDOS. LA PAZ VOLVERÁ.   ·DISEÑO TOTAL                 ·DISEÑO PERS.   KACHUMI       ·GRÁFICOS       MIKI.T        ·PROGRAMA PR.   KYŌRA YUMI    ·EFECTOS DE SONIDO Y          ·GRACIAS      INUMARU     T.NISHIYAMA           ¡FELICIDADES!           ~FF~#295
+;0000AED9{                                                                          AND PRODUCE   TARA-CHAN       CHR. DESIGN   KIKU-CHAN                     N.MIHARA      >MUSIC PROGRAM  S.OKADA         AND COMPOSE   HINJA-KUN       THANKS TO   OTOMISAN    T.YAMAGUCHI         YOUR SCORE ~61~~62~~63~~64~~65~00        ~FF~}#313#295
+                                                                          Y PRODUCCIÓN  TARA-CHAN       Y MOVIMIENTO  KIKU-CHAN                     N.MIHARA      ·PROGRAMA MÚS.  S.OKADA         COMPOSICIÓN   HINJA-KUN       ESPECIALES  OTOMISAN    T.YAMAGUCHI           TU MARCA ~61~~62~~63~~64~~65~00        ~FF~#295
+|590
+@0000BE87-0000BEE0-FF
+;0000BE87{       `YOU ARE DEAD!´           CONTINUE  >YES  NO            CONTINUE   YES >NO         }#090#090
+      `¡ESTÁS MUERTO!´       
+   CONTINUAR ·SÍ   NO         
+   CONTINUAR  SÍ  ·NO          #090
+|90
+@0000E3EA-0000E4D0-FF
+;0000E3EA{SYSTEM                CONSTRUCTION FIGURE                                                 MUSIC SW    [ ]      SOUND SW    [ ]      PLAYER      [ ]      MAGAZINE    [ ]      GRENADE     [ ]      CONTINUE    [ ]      START AREA  [ ]}#231#231
+FIGURA CONSTRUCCIÓN  
+ DEL SISTEMA         
+                     
+                     
+      MÚSICA      [ ]
+      EFECTOS     [ ]
+      VIDAS       [ ]
+      CARGADORES  [ ]
+      GRANADAS    [ ]
+      CONTINUAR   [ ]
+      ZONA INICIO [ ]#231
+|231
+@0000EC66-0000ED25-FF
+;0000EC66{<==============================>(                              )(  ADVANCE TO THE NEXT STAGE!  )(          GOOD LUCK!          )(                              )\^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^/}#192#192
+<==============================>
+(                              )
+(¡AVANZA A LA SIGUIENTE ETAPA! )
+(        ¡BUENA SUERTE!        )
+(                              )
+\^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^/#192
+|192
+@0000EF76-0000EF95-FF
+;0000EF76{<==============================>}#032#032
+<==============================>#032
+|32
+@0000EF97-0000EF9F-00
+;0000EF97{~FF~~FF~SCORE~FF~~FF~}#021#009
+~FF~~FF~MARCA~FF~~FF~#009
+|9
+@0000EFD7-0000EFDF-00
+;0000EFD7{~FF~~FF~SHOT~FF~~FF~~FF~}#024#009
+~FF~~FF~BALAS~FF~~FF~#009
+|9
+@0000EFF7-0000EFFE-00
+;0000EFF7{~FF~~FF~LIFE~FF~~FF~}#020#008
+~FF~~FF~VIDA~FF~~FF~#008
+|8
+@0000F016-0000F035-FF
+;0000F016{\^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^/}#032#032
+\^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^/#032
+|32

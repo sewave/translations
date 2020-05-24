@@ -1,0 +1,640 @@
+@0000044F-000004BB-00
+;0000044F{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DEVELOPED FOR USE ONLY WITH~00~#028
+;0000046B{~12~&~00~}#009#003
+~12~&~00~#003
+;0000046E{~0F~SYSTEMS.~00~}#016#010
+~0F~SYSTEMS.~00~#010
+;00000478{~0A~JAPANESE MEGA DRIVE~00~}#027#021
+~0A~JAPANESE MEGA DRIVE~00~#021
+;0000048D{~0D~NTSC GENESIS~00~}#020#014
+~0D~NTSC GENESIS~00~#014
+;0000049B{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~PAL AND FRENCH SECAM MEGA DRIVE~00~#033
+|109
+@00004DF0-00004E3A-00
+;00004DF0{Home Alone II~00~}#017#014
+Home Alone II~00~#014
+;00004DFE{Players~00~}#011#008
+Players~00~#008
+;00004E06{Play Level~00~}#014#011
+Play Level~00~#011
+;00004E11{~00~}#004#001
+~00~#001
+;00004E12{View Cinematic~00~}#018#015
+View Cinematic~00~#015
+;00004E21{~00~}#004#001
+~00~#001
+;00004E22{Music~00~}#009#006
+Music~00~#006
+;00004E28{Sound Effect~00~}#016#013
+Sound Effect~00~#013
+;00004E35{~00~}#004#001
+~00~#001
+;00004E36{EXIT~00~}#008#005
+EXIT~00~#005
+|75
+@00004EDC-00005092-00
+;00004EDC{ Intro            ~00~}#022#019
+ Intro            ~00~#019
+;00004EEF{~00~}#004#001
+~00~#001
+;00004EF0{ Lose             ~00~}#022#019
+ Lose             ~00~#019
+;00004F03{~00~}#004#001
+~00~#001
+;00004F04{ Win              ~00~}#022#019
+ Win              ~00~#019
+;00004F17{~00~}#004#001
+~00~#001
+;00004F18{ Logo             ~00~}#022#019
+ Logo             ~00~#019
+;00004F2B{~00~}#004#001
+~00~#001
+;00004F2C{ Title            ~00~}#022#019
+ Title            ~00~#019
+;00004F3F{~00~}#004#001
+~00~#001
+;00004F40{ Upper Airport    ~00~}#022#019
+ Upper Airport    ~00~#019
+;00004F53{~00~}#004#001
+~00~#001
+;00004F54{ Lower Airport    ~00~}#022#019
+ Lower Airport    ~00~#019
+;00004F67{~00~}#004#001
+~00~#001
+;00004F68{ CityDay          ~00~}#022#019
+ CityDay          ~00~#019
+;00004F7B{~00~}#004#001
+~00~#001
+;00004F7C{ Park             ~00~}#022#019
+ Park             ~00~#019
+;00004F8F{~00~}#004#001
+~00~#001
+;00004F90{ Hotel            ~00~}#022#019
+ Hotel            ~00~#019
+;00004FA3{~00~}#004#001
+~00~#001
+;00004FA4{ Pipes            ~00~}#022#019
+ Pipes            ~00~#019
+;00004FB7{~00~}#004#001
+~00~#001
+;00004FB8{ Stone            ~00~}#022#019
+ Stone            ~00~#019
+;00004FCB{~00~}#004#001
+~00~#001
+;00004FCC{ IntroCityNite    ~00~}#022#019
+ IntroCityNite    ~00~#019
+;00004FDF{~00~}#004#001
+~00~#001
+;00004FE0{ CityNIght        ~00~}#022#019
+ CityNIght        ~00~#019
+;00004FF3{~00~}#004#001
+~00~#001
+;00004FF4{ IntrolowAir      ~00~}#022#019
+ IntrolowAir      ~00~#019
+;00005007{~00~}#004#001
+~00~#001
+;00005008{ IntroCityday     ~00~}#022#019
+ IntroCityday     ~00~#019
+;0000501B{~00~}#004#001
+~00~#001
+;0000501C{ introintoy       ~00~}#022#019
+ introintoy       ~00~#019
+;0000502F{~00~}#004#001
+~00~#001
+;00005030{ Innertoy         ~00~}#022#019
+ Innertoy         ~00~#019
+;00005043{~00~}#004#001
+~00~#001
+;00005044{ IntroStone       ~00~}#022#019
+ IntroStone       ~00~#019
+;00005057{~00~}#004#001
+~00~#001
+;00005058{ IntroPipes       ~00~}#022#019
+ IntroPipes       ~00~#019
+;0000506B{~00~}#004#001
+~00~#001
+;0000506C{ IntroPark        ~00~}#022#019
+ IntroPark        ~00~#019
+;0000507F{~00~}#004#001
+~00~#001
+;00005080{ Empty            ~00~}#022#019
+ Empty            ~00~#019
+|439
+@000050A4-000050E3-00
+;000050A4{ 0-Cut Scene 1 ~00~}#019#016
+ 0-Cut Scene 1 ~00~#016
+;000050B4{ 1-Cut Scene 2 ~00~}#019#016
+ 1-Cut Scene 2 ~00~#016
+;000050C4{ 2-Cut Scene 3 ~00~}#019#016
+ 2-Cut Scene 3 ~00~#016
+;000050D4{ 3-Cut Scene 4 ~00~}#019#016
+ 3-Cut Scene 4 ~00~#016
+|64
+@0000A094-0000A09F-00
+;0000A094{ TRUE~00~}#009#006
+ TRUE~00~#006
+;0000A09A{FALSE~00~}#009#006
+FALSE~00~#006
+|12
+@0000C838-0000C865-00
+;0000C838{X=~00~}#006#003
+X=~00~#003
+;0000C83B{Y=~00~}#006#003
+Y=~00~#003
+;0000C83E{Vram =~23~~00~}#014#008
+Vram =~23~~00~#008
+;0000C846{ram  =~23~~00~}#014#008
+ram  =~23~~00~#008
+;0000C84E{T=~00~}#006#003
+T=~00~#003
+;0000C851{Items=~00~}#010#007
+Items=~00~#007
+;0000C858{Sats =~00~}#010#007
+Sats =~00~#007
+;0000C85F{HiS  =~00~}#010#007
+HiS  =~00~#007
+|46
+@0001A0A2-0001A0F9-00
+;0001A0A2{Pigeon Lady! Where are you? She ~00~}#036#033
+Pigeon Lady! Where are you? She ~00~#033
+;0001A0C3{~00~}#004#001
+~00~#001
+;0001A0C4{must be around here somewhere.~00~}#034#031
+must be around here somewhere.~00~#031
+;0001A0E3{~00~}#004#001
+~00~#001
+;0001A0E4{I've got to find her!~00~}#025#022
+I've got to find her!~00~#022
+|88
+@0001A682-0001A6F2-00
+;0001A682{mom! i knew you'd find me by the~00~}#036#033
+mom! i knew you'd find me by the~00~#033
+;0001A6A3{~00~}#004#001
+~00~#001
+;0001A6A4{giant christmas tree. this is my~00~}#036#033
+giant christmas tree. this is my~00~#033
+;0001A6C5{~00~}#004#001
+~00~#001
+;0001A6C6{friend, the pigeon lady. can we~00~}#035#032
+friend, the pigeon lady. can we~00~#032
+;0001A6E6{go home now?~00~}#016#013
+go home now?~00~#013
+|113
+@0001B1BC-0001B5D0-00
+;0001B1BC{producer~00~}#012#009
+producer~00~#009
+;0001B1C5{Tony Van~00~}#012#009
+Tony Van~00~#009
+;0001B1CE{designer~00~}#012#009
+designer~00~#009
+;0001B1D7{paul norman~00~}#015#012
+paul norman~00~#012
+;0001B1E3{music director~00~}#018#015
+music director~00~#015
+;0001B1F2{paul gadbois~00~}#016#013
+paul gadbois~00~#013
+;0001B1FF{music & effects~00~}#019#016
+music & effects~00~#016
+;0001B20F{dave delia~00~}#014#011
+dave delia~00~#011
+;0001B21A{voice actor~00~}#015#012
+voice actor~00~#012
+;0001B226{nicholas delia~00~}#018#015
+nicholas delia~00~#015
+;0001B235{technical director~00~}#022#019
+technical director~00~#019
+;0001B248{christopher warner~00~}#022#019
+christopher warner~00~#019
+;0001B25B{technical support~00~}#021#018
+technical support~00~#018
+;0001B26D{hooell monleon~00~}#018#015
+hooell monleon~00~#015
+;0001B27C{video actors~00~}#016#013
+video actors~00~#013
+;0001B289{vincent braun~00~}#017#014
+vincent braun~00~#014
+;0001B297{matthew nausha~00~}#018#015
+matthew nausha~00~#015
+;0001B2A6{product manager~00~}#019#016
+product manager~00~#016
+;0001B2B6{france tantiado~00~}#019#016
+france tantiado~00~#016
+;0001B2C6{lead tester~00~}#015#012
+lead tester~00~#012
+;0001B2D2{dianna boundy~00~}#017#014
+dianna boundy~00~#014
+;0001B2E0{project manager~00~}#019#016
+project manager~00~#016
+;0001B2F0{LEAD programmer~00~}#019#016
+LEAD programmer~00~#016
+;0001B300{Kevin burley~00~}#016#013
+Kevin burley~00~#013
+;0001B30D{programmers  ~00~}#017#014
+programmers  ~00~#014
+;0001B31B{Matt arrington~00~}#018#015
+Matt arrington~00~#015
+;0001B32A{david chaplin~00~}#017#014
+david chaplin~00~#014
+;0001B338{tony ikeda   ~00~}#017#014
+tony ikeda   ~00~#014
+;0001B346{Jack loh     ~00~}#017#014
+Jack loh     ~00~#014
+;0001B354{Ala diaz     ~00~}#017#014
+Ala diaz     ~00~#014
+;0001B362{Art director ~00~}#017#014
+Art director ~00~#014
+;0001B370{Maureen kringen~00~}#019#016
+Maureen kringen~00~#016
+;0001B380{Testers~00~}#011#008
+Testers~00~#008
+;0001B388{kurt tindle~00~}#015#012
+kurt tindle~00~#012
+;0001B394{christine watson~00~}#020#017
+christine watson~00~#017
+;0001B3A5{~00~}#004#001
+~00~#001
+;0001B3A6{andrew podesta~00~}#018#015
+andrew podesta~00~#015
+;0001B3B5{~00~}#004#001
+~00~#001
+;0001B3B6{joe cain~00~}#012#009
+joe cain~00~#009
+;0001B3BF{~00~}#004#001
+~00~#001
+;0001B3C0{mark paniagua~00~}#017#014
+mark paniagua~00~#014
+;0001B3CE{eric rawlins~00~}#016#013
+eric rawlins~00~#013
+;0001B3DB{~00~}#004#001
+~00~#001
+;0001B3DC{mike gilmartin~00~}#018#015
+mike gilmartin~00~#015
+;0001B3EB{~00~}#004#001
+~00~#001
+;0001B3EC{jeff loney~00~}#014#011
+jeff loney~00~#011
+;0001B3F7{~00~}#004#001
+~00~#001
+;0001B3F8{alex fairchild~00~}#018#015
+alex fairchild~00~#015
+;0001B407{~00~}#004#001
+~00~#001
+;0001B408{jeff todd~00~}#013#010
+jeff todd~00~#010
+;0001B412{simon lu~00~}#012#009
+simon lu~00~#009
+;0001B41B{~00~}#004#001
+~00~#001
+;0001B41C{ray alferez~00~}#015#012
+ray alferez~00~#012
+;0001B428{rich greer~00~}#014#011
+rich greer~00~#011
+;0001B433{~00~}#004#001
+~00~#001
+;0001B434{blair bullock~00~}#017#014
+blair bullock~00~#014
+;0001B442{dan jung~00~}#012#009
+dan jung~00~#009
+;0001B44B{~00~}#004#001
+~00~#001
+;0001B44C{dermot lyons~00~}#016#013
+dermot lyons~00~#013
+;0001B459{~00~}#004#001
+~00~#001
+;0001B45A{greg moroweitz~00~}#018#015
+greg moroweitz~00~#015
+;0001B469{~00~}#004#001
+~00~#001
+;0001B46A{righard wong~00~}#016#013
+righard wong~00~#013
+;0001B477{~00~}#004#001
+~00~#001
+;0001B478{jason kuo~00~}#013#010
+jason kuo~00~#010
+;0001B482{jim mccarthy~00~}#016#013
+jim mccarthy~00~#013
+;0001B48F{~00~}#004#001
+~00~#001
+;0001B490{loran pudinski~00~}#018#015
+loran pudinski~00~#015
+;0001B49F{~00~}#004#001
+~00~#001
+;0001B4A0{ari warner~00~}#014#011
+ari warner~00~#011
+;0001B4AB{~00~}#004#001
+~00~#001
+;0001B4AC{crisi albertson~00~}#019#016
+crisi albertson~00~#016
+;0001B4BC{chris hudak~00~}#015#012
+chris hudak~00~#012
+;0001B4C8{daniel dunn~00~}#015#012
+daniel dunn~00~#012
+;0001B4D4{greg vogt~00~}#013#010
+greg vogt~00~#010
+;0001B4DE{ivan foong~00~}#014#011
+ivan foong~00~#011
+;0001B4E9{~00~}#004#001
+~00~#001
+;0001B4EA{lawrence gibson~00~}#019#016
+lawrence gibson~00~#016
+;0001B4FA{max austin loeb~00~}#019#016
+max austin loeb~00~#016
+;0001B50A{ryan mclaughlin~00~}#019#016
+ryan mclaughlin~00~#016
+;0001B51A{tracy johnson~00~}#017#014
+tracy johnson~00~#014
+;0001B528{casey grimm~00~}#015#012
+casey grimm~00~#012
+;0001B534{david forster~00~}#017#014
+david forster~00~#014
+;0001B542{glen cureton~00~}#016#013
+glen cureton~00~#013
+;0001B54F{~00~}#004#001
+~00~#001
+;0001B550{heather meigs~00~}#017#014
+heather meigs~00~#014
+;0001B55E{janine lynn cook~00~}#020#017
+janine lynn cook~00~#017
+;0001B56F{~00~}#004#001
+~00~#001
+;0001B570{kim rogers~00~}#014#011
+kim rogers~00~#011
+;0001B57B{~00~}#004#001
+~00~#001
+;0001B57C{lawrence jeung~00~}#018#015
+lawrence jeung~00~#015
+;0001B58B{~00~}#004#001
+~00~#001
+;0001B58C{matthew brian rosaaen~00~}#025#022
+matthew brian rosaaen~00~#022
+;0001B5A2{richie hideshima~00~}#020#017
+richie hideshima~00~#017
+;0001B5B3{~00~}#004#001
+~00~#001
+;0001B5B4{steve bourdet~00~}#017#014
+steve bourdet~00~#014
+;0001B5C2{dante anderson~00~}#018#015
+dante anderson~00~#015
+|1045
+@0001BFC2-0001BFF0-00
+;0001BFC2{>Press Start~00~}#016#013
+>Press Start~00~#013
+;0001BFCF{~00~}#004#001
+~00~#001
+;0001BFD0{ Press Start~00~}#016#013
+ Press Start~00~#013
+;0001BFDD{~00~}#004#001
+~00~#001
+;0001BFDE{>Options~00~}#012#009
+>Options~00~#009
+;0001BFE7{~00~}#004#001
+~00~#001
+;0001BFE8{ Options~00~}#012#009
+ Options~00~#009
+|47
+@0001C546-0001C5B2-00
+;0001C546{Configuration Menu~00~}#022#019
+Configuration Menu~00~#019
+;0001C559{~00~}#004#001
+~00~#001
+;0001C55A{EXIT  ~00~}#010#007
+EXIT  ~00~#007
+;0001C561{~00~}#004#001
+~00~#001
+;0001C562{Lives~00~}#009#006
+Lives~00~#006
+;0001C568{Music~00~}#009#006
+Music~00~#006
+;0001C56E{Joystick~00~}#012#009
+Joystick~00~#009
+;0001C577{~00~}#004#001
+~00~#001
+;0001C578{On ~00~}#007#004
+On ~00~#004
+;0001C57C{Off~00~}#007#004
+Off~00~#004
+;0001C580{A :~00~}#007#004
+A :~00~#004
+;0001C584{B :~00~}#007#004
+B :~00~#004
+;0001C588{C :~00~}#007#004
+C :~00~#004
+;0001C58C{Special ~00~}#012#009
+Special ~00~#009
+;0001C595{~00~}#004#001
+~00~#001
+;0001C596{Fire    ~00~}#012#009
+Fire    ~00~#009
+;0001C59F{~00~}#004#001
+~00~#001
+;0001C5A0{Jump    ~00~}#012#009
+Jump    ~00~#009
+;0001C5A9{~00~}#004#001
+~00~#001
+;0001C5AA{Fire    ~00~}#012#009
+Fire    ~00~#009
+|109
+@0001C7FA-0001C814-00
+;0001C7FA{Continue~00~}#012#009
+Continue~00~#009
+;0001C803{~00~}#004#001
+~00~#001
+;0001C804{Continues Left: ~00~}#020#017
+Continues Left: ~00~#017
+|27
+@0006FD3A-0006FE38-00
+;0006FD3A{Logo~00~}#008#005
+Logo~00~#005
+;0006FD3F{~00~}#004#001
+~00~#001
+;0006FD40{Title~00~}#009#006
+Title~00~#006
+;0006FD46{Cinema UpperAir~00~}#019#016
+Cinema UpperAir~00~#016
+;0006FD56{UpperAir~00~}#012#009
+UpperAir~00~#009
+;0006FD5F{~00~}#004#001
+~00~#001
+;0006FD60{Cinema LowerAir~00~}#019#016
+Cinema LowerAir~00~#016
+;0006FD70{LowerAir~00~}#012#009
+LowerAir~00~#009
+;0006FD79{~00~}#004#001
+~00~#001
+;0006FD7A{Cinema CityDay~00~}#018#015
+Cinema CityDay~00~#015
+;0006FD89{~00~}#004#001
+~00~#001
+;0006FD8A{CityDay~00~}#011#008
+CityDay~00~#008
+;0006FD92{Cinema InnerToy~00~}#019#016
+Cinema InnerToy~00~#016
+;0006FDA2{InnerToy~00~}#012#009
+InnerToy~00~#009
+;0006FDAB{~00~}#004#001
+~00~#001
+;0006FDAC{Cinema CityNite~00~}#019#016
+Cinema CityNite~00~#016
+;0006FDBC{CityNight~00~}#013#010
+CityNight~00~#010
+;0006FDC6{Cinema Stone~00~}#016#013
+Cinema Stone~00~#013
+;0006FDD3{~00~}#004#001
+~00~#001
+;0006FDD4{Stone~00~}#009#006
+Stone~00~#006
+;0006FDDA{Cinema Pipes~00~}#016#013
+Cinema Pipes~00~#013
+;0006FDE7{~00~}#004#001
+~00~#001
+;0006FDE8{Pipes~00~}#009#006
+Pipes~00~#006
+;0006FDEE{Cinema Park~00~}#015#012
+Cinema Park~00~#012
+;0006FDFA{Park~00~}#008#005
+Park~00~#005
+;0006FDFF{~00~}#004#001
+~00~#001
+;0006FE00{Win~00~}#007#004
+Win~00~#004
+;0006FE04{GameOver~00~}#012#009
+GameOver~00~#009
+;0006FE0D{~00~}#004#001
+~00~#001
+;0006FE0E{Lose~00~}#008#005
+Lose~00~#005
+;0006FE13{~00~}#004#001
+~00~#001
+;0006FE14{Continue~00~}#012#009
+Continue~00~#009
+;0006FE1D{~00~}#004#001
+~00~#001
+;0006FE1E{Demo UpperAir~00~}#017#014
+Demo UpperAir~00~#014
+;0006FE2C{Demo CityDay~00~}#016#013
+Demo CityDay~00~#013
+|255
+@0006FE3A-00070124-00
+;0006FE3A{My family's in Florida and~00~}#030#027
+My family's in Florida and~00~#027
+;0006FE55{~00~}#004#001
+~00~#001
+;0006FE56{I'm in New York.~00~}#020#017
+I'm in New York.~00~#017
+;0006FE67{~00~}#004#001
+~00~#001
+;0006FE68{Oh no! i'm in the land of lost~00~}#034#031
+Oh no! i'm in the land of lost~00~#031
+;0006FE87{~00~}#004#001
+~00~#001
+;0006FE88{luggage. i hope i can find my mom's~00~}#039#036
+luggage. i hope i can find my mom's~00~#036
+;0006FEAC{red flight bag and get outta here.~00~}#038#035
+red flight bag and get outta here.~00~#035
+;0006FECF{~00~}#004#001
+~00~#001
+;0006FED0{ All I have to do is get across~00~}#035#032
+ All I have to do is get across~00~#032
+;0006FEF0{ town to the most fabulous place~00~}#036#033
+ town to the most fabulous place~00~#033
+;0006FF11{~00~}#004#001
+~00~#001
+;0006FF12{in the world - Duncan's Toy Chest!~00~}#038#035
+in the world - Duncan's Toy Chest!~00~#035
+;0006FF35{~00~}#004#001
+~00~#001
+;0006FF36{No Burglars are gonna be dumb~00~}#033#030
+No Burglars are gonna be dumb~00~#030
+;0006FF54{  Enough to rob a toy store...~00~}#034#031
+  Enough to rob a toy store...~00~#031
+;0006FF73{~00~}#004#001
+~00~#001
+;0006FF74{  Except us, hey Harry?~00~}#027#024
+  Except us, hey Harry?~00~#024
+;0006FF8C{stealing from children is the~00~}#033#030
+stealing from children is the~00~#030
+;0006FFAA{lowest. i'm heading straight ~00~}#033#030
+lowest. i'm heading straight ~00~#030
+;0006FFC8{for the police station. If you~00~}#034#031
+for the police station. If you~00~#031
+;0006FFE7{~00~}#004#001
+~00~#001
+;0006FFE8{jerks want to stop me, now's~00~}#032#029
+jerks want to stop me, now's~00~#029
+;00070005{~00~}#004#001
+~00~#001
+;00070006{your chance!~00~}#016#013
+your chance!~00~#013
+;00070013{~00~}#004#001
+~00~#001
+;00070014{I'M READY FOR THOSE CROOKS~00~}#030#027
+I'M READY FOR THOSE CROOKS~00~#027
+;0007002F{~00~}#004#001
+~00~#001
+;00070030{  THIS TIME. COME ON YOU~00~}#028#025
+  THIS TIME. COME ON YOU~00~#025
+;00070049{~00~}#004#001
+~00~#001
+;0007004A{    BOZOS, FOLLOW ME!~00~}#025#022
+    BOZOS, FOLLOW ME!~00~#022
+;00070060{ It's a lot like the giant water~00~}#036#033
+ It's a lot like the giant water~00~#033
+;00070081{~00~}#004#001
+~00~#001
+;00070082{ slide back home, with one slight~00~}#037#034
+ slide back home, with one slight~00~#034
+;000700A4{  exception: IT STINKS IN HERE!~00~}#035#032
+  exception: IT STINKS IN HERE!~00~#032
+;000700C4{You know, Harry,~00~}#020#017
+You know, Harry,~00~#017
+;000700D5{~00~}#004#001
+~00~#001
+;000700D6{I feel pretty good about myself.~00~}#036#033
+I feel pretty good about myself.~00~#033
+;000700F7{~00~}#004#001
+~00~#001
+;000700F8{You should, Marv.~00~}#021#018
+You should, Marv.~00~#018
+;0007010A{you just outsmarted a kid.~00~}#030#027
+you just outsmarted a kid.~00~#027
+|747
+@00070126-000701FF-00
+;00070126{Artists~00~}#011#008
+Artists~00~#008
+;0007012E{isabel przytarski~00~}#021#018
+isabel przytarski~00~#018
+;00070140{barbara meyers~00~}#018#015
+barbara meyers~00~#015
+;0007014F{~00~}#004#001
+~00~#001
+;00070150{tom applegate~00~}#017#014
+tom applegate~00~#014
+;0007015E{kevin lee~00~}#013#010
+kevin lee~00~#010
+;00070168{Artists~00~}#011#008
+Artists~00~#008
+;00070170{sandy christensen~00~}#021#018
+sandy christensen~00~#018
+;00070182{robert barrett~00~}#018#015
+robert barrett~00~#015
+;00070191{~00~}#004#001
+~00~#001
+;00070192{art wong~00~}#012#009
+art wong~00~#009
+;0007019B{~00~}#004#001
+~00~#001
+;0007019C{paul norman~00~}#015#012
+paul norman~00~#012
+;000701A8{TM & (C) 1993 Twentieth Century Fox~00~}#039#036
+TM & (C) 1993 Twentieth Century Fox~00~#036
+;000701CC{film corporation~00~}#020#017
+film corporation~00~#017
+;000701DD{~00~}#004#001
+~00~#001
+;000701DE{all rights reserved~00~}#023#020
+all rights reserved~00~#020
+;000701F2{(C) 1993 SEGA~00~}#017#014
+(C) 1993 SEGA~00~#014
+|218

@@ -1,0 +1,65 @@
+@0001B687-0001B6F3-FF
+;0001B687{~03~~00~SELECT OPTIONS~05~~03~DIFFICULTY~03~~06~MUSIC PLAYBACK~06~~09~SOUND FX~03~~0C~MUSIC TEST: 00~03~~0E~SOUND TEST: 00~00~~11~PRESS START TO BEGIN~FF~}#154#109
+~03~~00~
+ELIGE OPCIONES~05~~03~
+DIFICULTAD~03~~06~
+ TOCAR MÚSICA ~06~~09~
+EFECTOS ~03~~0C~
+TEST MÚSICA:00~03~~0E~
+TEST E.S.:  00~00~~11~
+ START PARA EMPEZAR ~FF~#109
+|109
+@0001B73A-0001B790-FF
+;0001B73A{~02~~04~   WAY WICKED   ~FF~}#028#019
+~02~~04~    MUY LOCO    ~FF~#019
+;0001B74D{~02~~04~     MENTAL     ~FF~}#028#019
+~02~~04~     MENTAL     ~FF~#019
+;0001B760{~07~~07~45 rpm~FF~}#018#009
+~07~~07~45 rpm~FF~#009
+;0001B769{~07~~07~33 rpm~FF~}#018#009
+~07~~07~33 rpm~FF~#009
+;0001B772{~07~~07~ NOT! ~FF~}#018#009
+~07~~07~ ¡NO! ~FF~#009
+;0001B77B{~06~~0A~BUGGING!~FF~}#020#011
+~06~~0A~MOLESTO ~FF~#011
+;0001B786{~06~~0A~  OFF!  ~FF~}#020#011
+~06~~0A~ ¡NADA! ~FF~#011
+|87
+@0001BAB1-0001BD88-FF
+;0001BAB1{~04~~00~Game Credits~00~~02~Producer:~07~~03~Jerry Markota~00~~04~Product Manager:~00~~05~Ami Matsumura-Blaire~00~~06~Programmer:~05~~07~Paul Hutchinson~00~~08~Artist:~09~~09~Alan Murphy~00~~0A~Music & Sound:~05~~0B~Paul Hutchinson~00~~0C~Game Design:~07~~0D~Jerry Markota~00~~0E~Assistant Producers:~09~~0F~John Pedigo~01~~10~Marianne Arotzarena~FF~}#350#251
+~04~~00~  Créditos
+~00~~02~Productor:~07~~03~Jerry Markota
+~00~~04~Gerente Producto:~00~~05~Ami Matsumura-Blaire
+~00~~06~Programador:  ~05~~07~Paul Hutchinson
+~00~~08~Artista:~09~~09~Alan Murphy
+~00~~0A~Música y E.S.:~05~~0B~Paul Hutchinson
+~00~~0C~Diseño: ~07~~0D~Jerry Markota
+~00~~0E~Ayudante Productor: ~09~~0F~John Pedigo~01~~10~Marianne Arotzarena~FF~#251
+;0001BBAC{~00~~00~Level Design:~07~~01~Jerry Markota~05~~02~Judy Hutchinson~05~~03~Paul Hutchinson~00~~04~Additional Artist:~05~~05~Paul Hutchinson~00~~06~Story:~07~~07~Jerry Markota~01~~0C~Special Thanks To:~03~~0D~Lisa Geisenheimer~09~~0E~Mike Thomas~00~~0F~And Also To:~00~~10~Dan Chang of Echidna~00~~11~for LZDC and tUME~FF~}#319#232
+~00~~00~Diseño Nivel:~07~~01~Jerry Markota~05~~02~Judy Hutchinson~05~~03~Paul Hutchinson
+~00~~04~Artista Adicional:~05~~05~Paul Hutchinson
+~00~~06~Trama:~07~~07~Jerry Markota
+~01~~0C~Muchas Gracias A: ~03~~0D~Lisa Geisenheimer~09~~0E~Mike Thomas
+~00~~0F~Y También A:~00~~10~Dan Chang de Echidna~00~~11~por LZDC y tUME  ~FF~#232
+;0001BC94{~00~~00~Play-Testing~00~~01~Game Lead:~0A~~02~Tony Lynch~00~~03~Assistant Lead:~0A~~04~Jeff Loney~00~~05~Testers:~09~~06~Joel Breton~04~~07~Derek Carmichael~09~~08~Chris Colon~0A~~09~Kim Rogers~07~~0A~Kwame Jeffers~05~~0B~Aaron Lochinger~09~~0C~Ben Cureton~07~~0D~Matt McKnight~09~~0E~Ilya Reeves~0A~~0F~Todd Pifer~0A~~10~Rick Greer~08~~11~Greg Fleming~FF~}#356#245
+~00~~00~Jefe de     
+~00~~01~Pruebas:  ~0A~~02~Tony Lynch
+~00~~03~Jefe Ayudante: ~0A~~04~Jeff Loney
+~00~~05~Pruebas:~09~~06~Joel Breton~04~~07~Derek Carmichael~09~~08~Chris Colon~0A~~09~Kim Rogers~07~~0A~Kwame Jeffers~05~~0B~Aaron Lochinger~09~~0C~Ben Cureton~07~~0D~Matt McKnight~09~~0E~Ilya Reeves~0A~~0F~Todd Pifer~0A~~10~Rick Greer~08~~11~Greg Fleming~FF~#245
+|728
+@0001BD89-0001BDF2-FF
+;0001BD89{~02~~01~GAME OVER, X-MEN~07~~04~SCORE:~07~~06~000000~06~~09~HISCORE:~07~~0B~000000~FF~}#086#053
+~02~~01~FIN JUEGO, X-MEN~07~~04~MARCA:~07~~06~000000~06~~09~ MEJOR: ~07~~0B~000000~FF~#053
+;0001BDBE{~02~~01~WELL DONE, X-MEN~07~~04~SCORE:~07~~06~000000~06~~09~HISCORE:~07~~0B~000000~FF~}#086#053
+~02~~01~MUY BIEN, X-MEN ~07~~04~MARCA:~07~~06~000000~06~~09~ MEJOR: ~07~~0B~000000~FF~#053
+|106
+@0001BDF3-0001BF3A-FF
+;0001BDF3{~04~~01~MARVEL COMICS,~07~~02~X-Men~06~~03~and all~02~~04~character names~00~~05~and the distinctive~01~~06~likenesses thereof~01~~07~are trademarks of~00~~08~Marvel Entertainment~05~~09~Group,Inc.~01~~0A~and are used with~04~~0B~permission.~06~~0D~(C) 1994~00~~0E~Marvel Entertainment~05~~0F~Group, Inc.~00~~10~All rights reserved.~FF~}#336#243
+~04~~01~MARVEL COMICS,~07~~02~X-Men
+~06~~03~y todos~02~~04~ los nombres de~00~~05~  personajes y sus 
+~01~~06~   aspectos son   ~01~~07~    marcas de    ~00~~08~Marvel Entertainment~05~~09~Group,Inc.
+~01~~0A~ y son usados con~04~~0B~  permiso. ~06~~0D~(C) 1994~00~~0E~Marvel Entertainment~05~~0F~Group, Inc.~00~~10~
+Derechos reservados.~FF~#243
+;0001BEE6{~05~~01~IMPORTANT!~02~~03~WRITE THESE DOWN~08~~07~YOUR~04~~08~SPECIAL CODE~09~~09~IS~04~~0B~AAAAAAAAAAAA~07~~0E~SCORE:~07~~10~000000~FF~}#136#085
+~05~~01~IMPORTANTE~02~~03~ESCRIBE ESTO TU~08~~07~CLAVE~04~~08~  ESPECIAL  ~09~~09~ES~04~~0B~AAAAAAAAAAAA~07~~0E~MARCA:~07~~10~000000~FF~#085
+|328

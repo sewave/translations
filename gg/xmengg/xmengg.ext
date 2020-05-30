@@ -1,0 +1,40 @@
+@0000F759-0000F7C5-FF
+;0000F759{~03~~00~SELECT OPTIONS~05~~03~DIFFICULTY~03~~06~MUSIC PLAYBACK~06~~09~SOUND FX~03~~0C~MUSIC TEST: 00~03~~0E~SOUND TEST: 00~00~~11~PRESS START TO BEGIN~FF~}#154#109
+~03~~00~SELECT OPTIONS~05~~03~DIFFICULTY~03~~06~MUSIC PLAYBACK~06~~09~SOUND FX~03~~0C~MUSIC TEST: 00~03~~0E~SOUND TEST: 00~00~~11~PRESS START TO BEGIN~FF~#109
+|109
+@0000F80C-0000F862-FF
+;0000F80C{~02~~04~  PIECE O'CAKE  ~FF~}#028#019
+~02~~04~  PIECE O'CAKE  ~FF~#019
+;0000F81F{~02~~04~I DON'T THINK SO~FF~}#028#019
+~02~~04~I DON'T THINK SO~FF~#019
+;0000F832{~07~~07~45 rpm~FF~}#018#009
+~07~~07~45 rpm~FF~#009
+;0000F83B{~07~~07~33 rpm~FF~}#018#009
+~07~~07~33 rpm~FF~#009
+;0000F844{~07~~07~ NOT! ~FF~}#018#009
+~07~~07~ NOT! ~FF~#009
+;0000F84D{~06~~0A~ANNOYING~FF~}#020#011
+~06~~0A~ANNOYING~FF~#011
+;0000F858{~06~~0A~  OFF!  ~FF~}#020#011
+~06~~0A~  OFF!  ~FF~#011
+|87
+@0000FB83-0000FE7F-FF
+;0000FB83{~04~~00~Game Credits~00~~02~Producer:~07~~03~Jerry Markota~00~~05~Product Manager:~00~~06~Ami Matsumura-Blaire~00~~08~Programmer:~05~~09~Paul Hutchinson~00~~0B~Artists:~09~~0C~Alan Murphy~0A~~0D~Kim Biscoe~05~~0E~Paul Hutchinson~06~~0F~Normal Felchle~07~~10~Jerry Markota~FF~}#275#194
+~04~~00~Game Credits~00~~02~Producer:~07~~03~Jerry Markota~00~~05~Product Manager:~00~~06~Ami Matsumura-Blaire~00~~08~Programmer:~05~~09~Paul Hutchinson~00~~0B~Artists:~09~~0C~Alan Murphy~0A~~0D~Kim Biscoe~05~~0E~Paul Hutchinson~06~~0F~Normal Felchle~07~~10~Jerry Markota~FF~#194
+;0000FC45{~00~~00~Music & Sound:~05~~01~Paul Hutchinson~00~~03~Design:~05~~04~Steve Patterson~07~~05~Jerry Markota~06~~06~Mark Lindstrom~00~~07~Ami Matsumura-Blaire~00~~09~Story:~05~~0A~Steve Patterson~07~~0B~Jerry Markota~00~~0D~Lead Tester:~08~~0E~Conan Tigard~FF~}#256#181
+~00~~00~Music & Sound:~05~~01~Paul Hutchinson~00~~03~Design:~05~~04~Steve Patterson~07~~05~Jerry Markota~06~~06~Mark Lindstrom~00~~07~Ami Matsumura-Blaire~00~~09~Story:~05~~0A~Steve Patterson~07~~0B~Jerry Markota~00~~0D~Lead Tester:~08~~0E~Conan Tigard~FF~#181
+;0000FCFA{~01~~00~Special Thanks To:~00~~03~Dan Chang of Echidna~00~~04~for LZDC and tUME~FF~}#083#062
+~01~~00~Special Thanks To:~00~~03~Dan Chang of Echidna~00~~04~for LZDC and tUME~FF~#062
+;0000FD38{~00~~00~The Testers (Part 1)~0A~~03~Jeff Loney~08~~04~Mike Baldwin~07~~05~Greg Becksted~07~~06~Blair Bullock~09~~07~Janine Cook~08~~08~Brian Dawson~0E~~09~J Epps~0B~~0A~Eric Fong~0A~~0B~Ivan Foong~07~~0C~David Forster~0A~~0D~Rick Greer~FF~}#239#164
+~00~~00~The Testers (Part 1)~0A~~03~Jeff Loney~08~~04~Mike Baldwin~07~~05~Greg Becksted~07~~06~Blair Bullock~09~~07~Janine Cook~08~~08~Brian Dawson~0E~~09~J Epps~0B~~0A~Eric Fong~0A~~0B~Ivan Foong~07~~0C~David Forster~0A~~0D~Rick Greer~FF~#164
+;0000FDDC{~00~~00~The Testers (Part 2)~09~~03~John Jansen~0C~~04~Dan Jung~0B~~05~Jason Kuo~08~~06~Vasily Lewis~0C~~07~Simon Lu~0A~~08~Tony Lynch~06~~09~Julio Martinez~08~~0A~Jim McCarthy~06~~0B~Loran Pudinski~08~~0C~Terry Thomas~0B~~0D~Dave Wood~FF~}#239#164
+~00~~00~The Testers (Part 2)~09~~03~John Jansen~0C~~04~Dan Jung~0B~~05~Jason Kuo~08~~06~Vasily Lewis~0C~~07~Simon Lu~0A~~08~Tony Lynch~06~~09~Julio Martinez~08~~0A~Jim McCarthy~06~~0B~Loran Pudinski~08~~0C~Terry Thomas~0B~~0D~Dave Wood~FF~#164
+|765
+@0000FE80-0000FEA2-FF
+;0000FE80{~07~~04~SCORE:~07~~06~000000~06~~09~HISCORE:~07~~0B~000000~FF~}#062#035
+~07~~04~SCORE:~07~~06~000000~06~~09~HISCORE:~07~~0B~000000~FF~#035
+|35
+@0000FEA3-0000FEF7-FF
+;0000FEA3{~05~~01~IMPORTANT!~02~~03~WRITE THESE DOWN~08~~07~YOUR~04~~08~SPECIAL CODE~09~~09~IS~04~~0B~AAAAAAAAAAAA~07~~0E~SCORE:~07~~10~000000~FF~}#136#085
+~05~~01~IMPORTANT!~02~~03~WRITE THESE DOWN~08~~07~YOUR~04~~08~SPECIAL CODE~09~~09~IS~04~~0B~AAAAAAAAAAAA~07~~0E~SCORE:~07~~10~000000~FF~#085
+|85

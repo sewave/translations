@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Metal Masters (U).gb"
+set SCRIPTNAME="metalmastersgb"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 16CB0:10,1F51C:10,1E528:100,1EEBC:10,8050:10,80F0:10,ED0D:40,8800:10,88D0:40,89C0:10,8A00:10,8B10:10,1E81C:40,1E8DC:10,1E98C:10,1EA3C:10
+pause

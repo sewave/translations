@@ -1,0 +1,152 @@
+@000EABA8-000EABB1-FF
+;000EABA8{ENEMY~48~~48~~48~~48~~48~}#025#010
+ENEMY~48~~48~~48~~48~~48~#010
+|10
+@000EABD0-000EABDC-FF
+;000EABD0{DETECTED~48~~48~~48~~48~~48~}#028#013
+DETECTED~48~~48~~48~~48~~48~#013
+|13
+@000EABF8-000EAC01-FF
+;000EABF8{TIME~48~~48~~48~~48~q~48~}#025#010
+TIME~48~~48~~48~~48~q~48~#010
+|10
+@000EAC48-000EAC51-FF
+;000EAC48{SCORE~48~~48~~48~~48~~48~}#025#010
+SCORE~48~~48~~48~~48~~48~#010
+|10
+@000EAC70-000EAC78-FF
+;000EAC70{RANK~48~~48~~48~~48~~48~}#024#009
+RANK~48~~48~~48~~48~~48~#009
+|9
+@000EDC8E-000EE699-FF
+;000EDC8E{Tsukikage:= Hmmm~39~ strange.~FF~}#033#027
+Tsukikage:= Hmmm~39~ strange.~FF~#027
+;000EDCA9{Tsukikage:= There is= something wrong~FF~}#041#038
+Tsukikage:= There is= something wrong~FF~#038
+;000EDCCF{Tsukikage:= in the village.~FF~}#031#028
+Tsukikage:= in the village.~FF~#028
+;000EDCEB{Sayuri:= You're right.....~FF~}#030#027
+Sayuri:= You're right.....~FF~#027
+;000EDD06{Sayuri:= I don't have a= good feeling~FF~}#041#038
+Sayuri:= I don't have a= good feeling~FF~#038
+;000EDD2C{Sayuri:= about this.~FF~}#024#021
+Sayuri:= about this.~FF~#021
+;000EDD41{Tsukikage:= We've gotta hurry!~FF~}#034#031
+Tsukikage:= We've gotta hurry!~FF~#031
+;000EDD60{ Welcome back~39~= Tsukikage~39~ Sayuri.~FF~}#044#035
+ Welcome back~39~= Tsukikage~39~ Sayuri.~FF~#035
+;000EDD83{ If it weren't for= you two~39~ this= village might have~FF~}#060#054
+ If it weren't for= you two~39~ this= village might have~FF~#054
+;000EDDB9{ been completely= destroyed.~FF~}#032#029
+ been completely= destroyed.~FF~#029
+;000EDDD6{Tsukikage:= Who were they?~FF~}#030#027
+Tsukikage:= Who were they?~FF~#027
+;000EDDF1{ They are the= descendants of the= Ninja Clan Iga.~FF~}#054#051
+ They are the= descendants of the= Ninja Clan Iga.~FF~#051
+;000EDE24{ They attacked the= village to steal~FF~}#040#037
+ They attacked the= village to steal~FF~#037
+;000EDE49{ the secret= ancient scroll of= this village.~FF~}#049#046
+ the secret= ancient scroll of= this village.~FF~#046
+;000EDE77{Sayuri:= What for?~FF~}#022#019
+Sayuri:= What for?~FF~#019
+;000EDE8A{ Their intention is= to use the secret= scroll to bring~FF~}#059#056
+ Their intention is= to use the secret= scroll to bring~FF~#056
+;000EDEC2{ this world back to= the age of wars.~FF~}#041#038
+ this world back to= the age of wars.~FF~#038
+;000EDEE8{ We must recover it= to prevent this= disaster.~FF~}#051#048
+ We must recover it= to prevent this= disaster.~FF~#048
+;000EDF18{ Fortunately our= clan has already= found their~FF~}#051#048
+ Fortunately our= clan has already= found their~FF~#048
+;000EDF48{ hideout~39~ and we= have hidden our= 'Shinobi' tools~FF~}#057#051
+ hideout~39~ and we= have hidden our= 'Shinobi' tools~FF~#051
+;000EDF7B{ there to make= your operation= go smoothly.~FF~}#048#045
+ there to make= your operation= go smoothly.~FF~#045
+;000EDFA8{ The following are= the tools that are= hidden in their~FF~}#059#056
+ The following are= the tools that are= hidden in their~FF~#056
+;000EDFE0{ hideout.~FF~}#013#010
+ hideout.~FF~#010
+;000EDFEA{ I'm sure that you= haven't forgotten= how to use them~39~~FF~}#062#056
+ I'm sure that you= haven't forgotten= how to use them~39~~FF~#056
+;000EE022{ but we are going= to review it just= in case.~FF~}#050#047
+ but we are going= to review it just= in case.~FF~#047
+;000EE051{   'Iron Claw'= You can dig the= soft soil to go~FF~}#052#049
+   'Iron Claw'= You can dig the= soft soil to go~FF~#049
+;000EE082{   'Iron Claw'= underground.~FF~}#032#029
+   'Iron Claw'= underground.~FF~#029
+;000EE09F{   'Iron Claw'= On the surface~39~= press 'Down' to go~FF~}#058#052
+   'Iron Claw'= On the surface~39~= press 'Down' to go~FF~#052
+;000EE0D3{   'Iron Claw'= underground~39~= and press 'Up' to~FF~}#054#048
+   'Iron Claw'= underground~39~= and press 'Up' to~FF~#048
+;000EE103{   'Iron Claw'= return to the= surface.~FF~}#043#040
+   'Iron Claw'= return to the= surface.~FF~#040
+;000EE12B{   'Tabi'= They will let you= walk on the~FF~}#045#042
+   'Tabi'= They will let you= walk on the~FF~#042
+;000EE155{   'Tabi'= ceiling.~FF~}#023#020
+   'Tabi'= ceiling.~FF~#020
+;000EE169{   'Tabi'= Press 'Up' to= stick to the~FF~}#042#039
+   'Tabi'= Press 'Up' to= stick to the~FF~#039
+;000EE190{   'Tabi'= ceiling and press= 'Down' to release.~FF~}#052#049
+   'Tabi'= ceiling and press= 'Down' to release.~FF~#049
+;000EE1C1{   'Kabuto'= With this helmet= on your head~39~~FF~}#051#045
+   'Kabuto'= With this helmet= on your head~39~~FF~#045
+;000EE1EE{   'Kabuto'= you can break= through the~FF~}#043#040
+   'Kabuto'= you can break= through the~FF~#040
+;000EE216{   'Kabuto'= fragile= ceilings.~FF~}#035#032
+   'Kabuto'= fragile= ceilings.~FF~#032
+;000EE236{   'Mantle'= While falling~39~= press 'Up' to~FF~}#049#043
+   'Mantle'= While falling~39~= press 'Up' to~FF~#043
+;000EE261{   'Mantle'= control your speed~FF~}#035#032
+   'Mantle'= control your speed~FF~#032
+;000EE281{   'Mantle'= and it will let= you fly farther.~FF~}#050#047
+   'Mantle'= and it will let= you fly farther.~FF~#047
+;000EE2B0{   'Mizugumo'= They will let you= walk on the~FF~}#049#046
+   'Mizugumo'= They will let you= walk on the~FF~#046
+;000EE2DE{   'Mizugumo'= water's surface.= While walking on~FF~}#053#050
+   'Mizugumo'= water's surface.= While walking on~FF~#050
+;000EE310{   'Mizugumo'= the water~39~ press= 'Down' to dive.~FF~}#055#049
+   'Mizugumo'= the water~39~ press= 'Down' to dive.~FF~#049
+;000EE341{   'Ninja Sandals'= Squatting down= with these on will~FF~}#058#055
+   'Ninja Sandals'= Squatting down= with these on will~FF~#055
+;000EE378{   'Ninja Sandals'= let you store up= power to jump~FF~}#055#052
+   'Ninja Sandals'= let you store up= power to jump~FF~#052
+;000EE3AC{   'Ninja Sandals'= higher.~FF~}#031#028
+   'Ninja Sandals'= higher.~FF~#028
+;000EE3C8{ No one in this= village can defeat= them except for~FF~}#056#053
+ No one in this= village can defeat= them except for~FF~#053
+;000EE3FD{ you two.= Use the 'Shinobi'= tools wisely~39~~FF~}#050#044
+ you two.= Use the 'Shinobi'= tools wisely~39~~FF~#044
+;000EE429{ and recover the= secret scroll.~FF~}#036#033
+ and recover the= secret scroll.~FF~#033
+;000EE44A{ I'm counting on= you!~FF~}#026#023
+ I'm counting on= you!~FF~#023
+;000EE461{Sayuri:= Check this out= Tsukikage.~FF~}#039#036
+Sayuri:= Check this out= Tsukikage.~FF~#036
+;000EE485{Sayuri:= I guess there is= someone behind the~FF~}#049#046
+Sayuri:= I guess there is= someone behind the~FF~#046
+;000EE4B3{Sayuri:= actions of the Iga= Ninja Clan.~FF~}#044#041
+Sayuri:= actions of the Iga= Ninja Clan.~FF~#041
+;000EE4DC{Tsukikage:= You're right.~FF~}#029#026
+Tsukikage:= You're right.~FF~#026
+;000EE4F6{Tsukikage:= The last scroll= must be there.~FF~}#047#044
+Tsukikage:= The last scroll= must be there.~FF~#044
+;000EE522{Tsukikage:= Let's hurry.~FF~}#028#025
+Tsukikage:= Let's hurry.~FF~#025
+;000EE53B{ There was an evil= shadow engaging in= a secret mission~FF~}#060#057
+ There was an evil= shadow engaging in= a secret mission~FF~#057
+;000EE574{ to conceal the= light.~FF~}#027#024
+ to conceal the= light.~FF~#024
+;000EE58C{ However~39~ it was= another shadow= that stopped it.~FF~}#057#051
+ However~39~ it was= another shadow= that stopped it.~FF~#051
+;000EE5BF{ Ninja~39~ the warri-= ors who live in a= world of darksess~39~~FF~}#067#058
+ Ninja~39~ the warri-= ors who live in a= world of darksess~39~~FF~#058
+;000EE5F9{ sacrifice= themselves for= their mission.~FF~}#046#043
+ sacrifice= themselves for= their mission.~FF~#043
+;000EE624{ We can't see their= appearance or= power~39~~FF~}#049#043
+ We can't see their= appearance or= power~39~~FF~#043
+;000EE64F{ but their fight= continues= somewhere on a~FF~}#047#044
+ but their fight= continues= somewhere on a~FF~#044
+;000EE67B{ never-ending= mission.....~FF~}#031#028
+ never-ending= mission.....~FF~#028
+;000EE697{~ED~e~99~}#009#003
+~ED~e~99~#003
+|2572

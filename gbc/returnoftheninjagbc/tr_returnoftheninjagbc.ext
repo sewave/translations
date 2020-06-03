@@ -1,0 +1,154 @@
+@000EABA7-000EABB1-FF
+;000EABA7{_ENEMY_____}#011#011
+ENEMIGO____#011
+|11
+@000EABCF-000EABD9-FF
+;000EABCF{_DETECTED__}#011#011
+DETECTADO__#011
+|11
+@000EABF7-000EABFF-FF
+;000EABF7{_TIME____}#009#009
+TIEMPO___#009
+|9
+@000EAC47-000EAC51-FF
+;000EAC47{_SCORE_____}#011#011
+MARCA______#011
+|11
+@000EAC6F-000EAC79-FF
+;000EAC6F{_RANK______}#011#011
+RANGO______#011
+|11
+@000EDC8E-000EE09E-FF
+;000EDC8E{Tsukikage:= Hmmm, strange.~FF~}#030#027
+Tsukikage:= Hmmm, raro.   ~FF~#027
+;000EDCA9{Tsukikage:= There is= something wrong~FF~}#041#038
+Tsukikage:= Algo no va bien= en la   ~FF~#038
+;000EDCCF{Tsukikage:= in the village.~FF~}#031#028
+Tsukikage:= aldea.         ~FF~#028
+;000EDCEB{Sayuri:= You're right.....~FF~}#030#027
+Sayuri:= Tienes razón...  ~FF~#027
+;000EDD06{Sayuri:= I don't have a= good feeling~FF~}#041#038
+Sayuri:= Tengo un mal= presentimiento~FF~#038
+;000EDD2C{Sayuri:= about this.~FF~}#024#021
+Sayuri:= sobre esto.~FF~#021
+;000EDD41{Tsukikage:= We've gotta hurry!~FF~}#034#031
+Tsukikage:= ¡Démonos prisa!   ~FF~#031
+;000EDD60{ Welcome back,= Tsukikage, Sayuri.~FF~}#038#035
+ Bienvenidos, = Tsukikage, Sayuri.~FF~#035
+;000EDD83{ If it weren't for= you two, this= village might have~FF~}#057#054
+ Si no fuera por = vosotros, esta= aldea podría haber~FF~#054
+;000EDDB9{ been completely= destroyed.~FF~}#032#029
+ sido destruida del= todo.  ~FF~#029
+;000EDDD6{Tsukikage:= Who were they?~FF~}#030#027
+Tsukikage:= ¿Quienes son? ~FF~#027
+;000EDDF1{ They are the= descendants of the= Ninja Clan Iga.~FF~}#054#051
+ Son los      = descendientes del= Clan Ninja Iga.~FF~#051
+;000EDE24{ They attacked the= village to steal~FF~}#040#037
+ Atacaron la aldea= para robar el   ~FF~#037
+;000EDE49{ the secret= ancient scroll of= this village.~FF~}#049#046
+ antiguo pergamino= secreto de esta= aldea.  ~FF~#046
+;000EDE77{Sayuri:= What for?~FF~}#022#019
+Sayuri:= ¿Para?   ~FF~#019
+;000EDE8A{ Their intention is= to use the secret= scroll to bring~FF~}#059#056
+ Su intención es= usar el pergamino= secreto para traer~FF~#056
+;000EDEC2{ this world back to= the age of wars.~FF~}#041#038
+ de nuevo las= guerras a este= mundo.~FF~#038
+;000EDEE8{ We must recover it= to prevent this= disaster.~FF~}#051#048
+ Debemos recobrarlo= para evitar el= desastre. ~FF~#048
+;000EDF18{ Fortunately our= clan has already= found their~FF~}#051#048
+ Por fortuna= nuestro clan ya ha= encontrado su~FF~#048
+;000EDF48{ hideout, and we= have hidden our= 'Shinobi' tools~FF~}#054#051
+ escondite,    = y ocultamos los= útiles 'Shinobi'~FF~#051
+;000EDF7B{ there to make= your operation= go smoothly.~FF~}#048#045
+ allí para que la= operación vaya  = bien.  ~FF~#045
+;000EDFA8{ The following are= the tools that are= hidden in their~FF~}#059#056
+ Los siguiente son= los útiles que hay= en su escondite~FF~#056
+;000EDFE0{ hideout.~FF~}#013#010
+ ocultos.~FF~#010
+;000EDFEA{ I'm sure that you= haven't forgotten= how to use them,~FF~}#059#056
+ Estoy seguro de= que no olvidasteis= cómo usarlos,    ~FF~#056
+;000EE022{ but we are going= to review it just= in case.~FF~}#050#047
+ pero vamos a= revisarlos por si= un caso.    ~FF~#047
+;000EE051{   'Iron Claw'= You can dig the= soft soil to go~FF~}#052#049
+   'Garra Hi.'= Cava en suelo = blando para ir  ~FF~#049
+;000EE082{   'Iron Claw'= underground.~FF~}#032#029
+   'Garra Hi.'= bajo tierra.~FF~#029
+|1041
+@000EE09F-000EE4B2-FF
+;000EE09F{   'Iron Claw'= On the surface,= press 'Down' to go~FF~}#055#052
+   'Garra Hi.'= En el exterior,= pulsa 'Abajo' y ve~FF~#052
+;000EE0D3{   'Iron Claw'= underground,= and press 'Up' to~FF~}#051#048
+   'Garra Hi.'= bajo tierra,= pulsa 'Arriba' y ~FF~#048
+;000EE103{   'Iron Claw'= return to the= surface.~FF~}#043#040
+   'Garra Hi.'= vas a las = superficie.~FF~#040
+;000EE12B{   'Tabi'= They will let you= walk on the~FF~}#045#042
+   'Tabi'= Te permitirán = caminar por el~FF~#042
+;000EE155{   'Tabi'= ceiling.~FF~}#023#020
+   'Tabi'= techo.  ~FF~#020
+;000EE169{   'Tabi'= Press 'Up' to= stick to the~FF~}#042#039
+   'Tabi'= Toca 'Arriba' para= pegarte~FF~#039
+;000EE190{   'Tabi'= ceiling and press= 'Down' to release.~FF~}#052#049
+   'Tabi'= al techo y 'Abajo'= para liberarte.  ~FF~#049
+;000EE1C1{   'Kabuto'= With this helmet= on your head,~FF~}#048#045
+   'Kabuto'= Con este casco en= tu cabeza,  ~FF~#045
+;000EE1EE{   'Kabuto'= you can break= through the~FF~}#043#040
+   'Kabuto'= puedes atravesar= techos  ~FF~#040
+;000EE216{   'Kabuto'= fragile= ceilings.~FF~}#035#032
+   'Kabuto'= frágiles.=        ~FF~#032
+;000EE236{   'Mantle'= While falling,= press 'Up' to~FF~}#046#043
+   'Manta' = Mientras caes,= toca 'Arriba'~FF~#043
+;000EE261{   'Mantle'= control your speed~FF~}#035#032
+   'Manta' = y maneja tu caída ~FF~#032
+;000EE281{   'Mantle'= and it will let= you fly farther.~FF~}#050#047
+   'Manta' = y podrás volar más= lejos.       ~FF~#047
+;000EE2B0{   'Mizugumo'= They will let you= walk on the~FF~}#049#046
+   'Mizugumo'= Te permiten= caminar por el   ~FF~#046
+;000EE2DE{   'Mizugumo'= water's surface.= While walking on~FF~}#053#050
+   'Mizugumo'= agua.           = Caminando por el~FF~#050
+;000EE310{   'Mizugumo'= the water, press= 'Down' to dive.~FF~}#052#049
+   'Mizugumo'= agua, pulsa    = 'Abajo' y bucea.~FF~#049
+;000EE341{   'Ninja Sandals'= Squatting down= with these on will~FF~}#058#055
+   'Sandalia Ninja'= Agacharte con = estas puestas te ~FF~#055
+;000EE378{   'Ninja Sandals'= let you store up= power to jump~FF~}#055#052
+   'Sandalia Ninja'= hace reunir poder = de salto  ~FF~#052
+;000EE3AC{   'Ninja Sandals'= higher.~FF~}#031#028
+   'Sandalia Ninja'= alto. ~FF~#028
+;000EE3C8{ No one in this= village can defeat= them except for~FF~}#056#053
+ Nadie en esta = aldea puede     = vencerles, solo  ~FF~#053
+;000EE3FD{ you two.= Use the 'Shinobi'= tools wisely,~FF~}#047#044
+ vosotros.= Usad bien los= útiles Shinobi, ~FF~#044
+;000EE429{ and recover the= secret scroll.~FF~}#036#033
+ y recuperad el = rollo secreto.~FF~#033
+;000EE44A{ I'm counting on= you!~FF~}#026#023
+ ¡Os lo confío!=      ~FF~#023
+;000EE461{Sayuri:= Check this out= Tsukikage.~FF~}#039#036
+Sayuri:= Mira esto     = Tsukikage.~FF~#036
+;000EE485{Sayuri:= I guess there is= someone behind the~FF~}#049#046
+Sayuri:= Supongo que hay = alguien detrás de ~FF~#046
+|1044
+@000EE4B3-000EE696-FF
+;000EE4B3{Sayuri:= actions of the Iga= Ninja Clan.~FF~}#044#041
+Sayuri:= las acciones del= Clan Iga.    ~FF~#041
+;000EE4DC{Tsukikage:= You're right.~FF~}#029#026
+Tsukikage:= Tienes razón.~FF~#026
+;000EE4F6{Tsukikage:= The last scroll= must be there.~FF~}#047#044
+Tsukikage:= El último rollo = estará allí. ~FF~#044
+;000EE522{Tsukikage:= Let's hurry.~FF~}#028#025
+Tsukikage:= Rápido.     ~FF~#025
+;000EE53B{ There was an evil= shadow engaging in= a secret mission~FF~}#060#057
+ Había una sombra = maligna con una   = misión secreta  ~FF~#057
+;000EE574{ to conceal the= light.~FF~}#027#024
+ para encubrir la= luz.~FF~#024
+;000EE58C{ However, it was= another shadow= that stopped it.~FF~}#054#051
+ Pero, fue otra= sombra la que le= detuvo.        ~FF~#051
+;000EE5BF{ Ninja, the warri-= ors who live in a= world of darksess,~FF~}#061#058
+ Ninjas, guerreros= que viven en un  = mundo oscuro,     ~FF~#058
+;000EE5F9{ sacrifice= themselves for= their mission.~FF~}#046#043
+ se sacrifican por= su misión.=           ~FF~#043
+;000EE624{ We can't see their= appearance or= power,~FF~}#046#043
+ No podemos ver su = apariencia o = poder,~FF~#043
+;000EE64F{ but their fight= continues= somewhere on a~FF~}#047#044
+ pero su pelea= continúa en algún= lugar,  ~FF~#044
+;000EE67B{ never-ending= mission.....~FF~}#031#028
+ en una misión sin= fin... ~FF~#028
+|484

@@ -1,0 +1,251 @@
+@00000003-00000043-FF
+;00000003{SOFTWARE AND HARDWARE DESIGN BY JOHN MORRISON (MICROS) 1/9/19~C3~~C1~5~ED~}#074#065
+SOFTWARE AND HARDWARE DESIGN BY JOHN MORRISON (MICROS) 1/9/19~C3~~C1~5~ED~#065
+|65
+@000021C5-000021FD-FF
+;000021C5{Game options===music and fx=~80~~04~no sound=~80~~06~music=~80~~08~fx=~80~~0A~~FF~}#082#055
+Game options===music and fx=~80~~04~no sound=~80~~06~music=~80~~08~fx=~80~~0A~~FF~#055
+;000021FC{~FA~~8A~}#008#002
+~FA~~8A~#002
+|57
+@0000233E-00002368-FF
+;0000233E{ROOM =KEY  =TRIES=ROOM===KEY==~01~TRIES==~02~~FF~}#049#040
+ROOM =KEY  =TRIES=ROOM===KEY==~01~TRIES==~02~~FF~#040
+;00002366{P0~C5~}#006#003
+P0~C5~#003
+|43
+@00003157-000031DF-FF
+;00003157{dWell done !!===You have==~01~Uncovered==~02~the tomb of==~03~advance to==~06~next pyramid==~07~~FF~}#100#082
+dWell done !!===You have==~01~Uncovered==~02~the tomb of==~03~advance to==~06~next pyramid==~07~~FF~#082
+;000031A9{IDUT     =MERERUKA =KHAEMWESE=NEFERTARI=SCARABEUS=~CD~~11~J!~10~}#064#055
+IDUT     =MERERUKA =KHAEMWESE=NEFERTARI=SCARABEUS=~CD~~11~J!~10~#055
+|137
+@00003239-00003398-FF
+;00003239{Well done! You===have completed==~01~Pyramids of RA.==~02~IMPORTANT.==~03~Retain password.==~04~See booklet for==~05~prize==~06~information.==~07~Password:==~09~HRPQMVNKY==~0A~~FF~}#180#150
+Well done! You===have completed==~01~Pyramids of RA.==~02~IMPORTANT.==~03~Retain password.==~04~See booklet for==~05~prize==~06~information.==~07~Password:==~09~HRPQMVNKY==~0A~~FF~#150
+;000032CF{Designed and=~01~~01~developed by=~01~~02~Source The=~01~~03~Software House=~01~~04~Ltd=~01~~05~Game design and=~01~~06~graphics by=~01~~07~Ross Harris=~01~~08~Music by=~01~~09~Chris Gill=~01~~0A~Sound drivers by=~01~~0B~Link Tomlin=~01~~0C~Programmed by=~01~~0D~Andrew King=~01~~0E~~FF~}#287#200
+Designed and=~01~~01~developed by=~01~~02~Source The=~01~~03~Software House=~01~~04~Ltd=~01~~05~Game design and=~01~~06~graphics by=~01~~07~Ross Harris=~01~~08~Music by=~01~~09~Chris Gill=~01~~0A~Sound drivers by=~01~~0B~Link Tomlin=~01~~0C~Programmed by=~01~~0D~Andrew King=~01~~0E~~FF~#200
+;00003397{~AF~~EA~}#008#002
+~AF~~EA~#002
+|352
+@00003460-00003470-FF
+;00003460{     Matchbox~7E~==~01~}#023#017
+     Matchbox~7E~==~01~#017
+|17
+@00003471-00003496-FF
+;00003471{     presents==~02~THE PYRAMIDS OF RA~7D~==~03~}#047#038
+     presents==~02~THE PYRAMIDS OF RA~7D~==~03~#038
+|38
+@00003497-000035A3-FF
+;00003497{Licensed by Nintendo=~1F~~03~  Matchbox~7E~ is a==~06~ registered trade-==~07~ mark of Matchbox==~08~International Ltd.==~09~Pyramids of Ra is a==~0B~   trademark of==~0C~     Matchbox==~0D~International Ltd.==~0E~~FF~}#218#182
+Licensed by Nintendo=~1F~~03~  Matchbox~7E~ is a==~06~ registered trade-==~07~ mark of Matchbox==~08~International Ltd.==~09~Pyramids of Ra is a==~0B~   trademark of==~0C~     Matchbox==~0D~International Ltd.==~0E~~FF~#182
+;0000354D{Original game=~03~~10~~7B~1991 Source=~03~~11~This Product ~7B~1991==~13~Matchbox=~05~~14~International Ltd.==~15~~FF~}#118#085
+Original game=~03~~10~~7B~1991 Source=~03~~11~This Product ~7B~1991==~13~Matchbox=~05~~14~International Ltd.==~15~~FF~#085
+;000035A2{>~04~}#005#002
+>~04~#002
+|269
+@00004064-0000407F-FF
+;00004064{valid   =invalid =~CD~_J!!~C5~~CD~~1C~t~11~}#043#028
+valid   =invalid =~CD~_J!!~C5~~CD~~1C~t~11~#028
+|28
+@00004BCF-00004BF8-FF
+;00004BCF{introducing=   moving=2 bounce tile=~02~====~03~}#048#042
+introducing=   moving=2 bounce tile=~02~====~03~#042
+|42
+@00004CA7-00004CD0-FF
+;00004CA7{introducing=   moving=3 bounce tile=~02~====~03~}#048#042
+introducing=   moving=3 bounce tile=~02~====~03~#042
+|42
+@000059D3-000059F2-FF
+;000059D3{introducing=1 bounce tile=~02~====~03~}#038#032
+introducing=1 bounce tile=~02~====~03~#032
+|32
+@00005A64-00005A83-FF
+;00005A64{introducing=2 bounce tile=~02~====~03~}#038#032
+introducing=2 bounce tile=~02~====~03~#032
+|32
+@00005AFA-00005B19-FF
+;00005AFA{introducing=3 bounce tile=~02~====~03~}#038#032
+introducing=3 bounce tile=~02~====~03~#032
+|32
+@00005B86-00005BA2-FF
+;00005B86{introducing=jump tiles=~02~====~03~}#035#029
+introducing=jump tiles=~02~====~03~#029
+|29
+@00005CA1-00005CBD-FF
+;00005CA1{introducing=moving tile=~02~===~03~}#035#029
+introducing=moving tile=~02~===~03~#029
+|29
+@00005D2F-00005D50-FF
+;00005D2F{introducing=horizontal flip=~02~====~03~}#040#034
+introducing=horizontal flip=~02~====~03~#034
+|34
+@00005DC0-00005DDF-FF
+;00005DC0{introducing=vertical flip=~02~====~03~}#038#032
+introducing=vertical flip=~02~====~03~#032
+|32
+@00005ED7-00005EF2-FF
+;00005ED7{introducing=  scarabs=~02~====~03~}#034#028
+introducing=  scarabs=~02~====~03~#028
+|28
+@00005F64-00005F86-FF
+;00005F64{introducing=reverse direction=~02~===~19~}#041#035
+introducing=reverse direction=~02~===~19~#035
+|35
+@0000601C-00006041-FF
+;0000601C{introducing=rotating jump tiles=~02~====~03~}#044#038
+introducing=rotating jump tiles=~02~====~03~#038
+|38
+@000060BB-000060DB-FF
+;000060BB{introducing=unlimited tile=~02~====~03~}#039#033
+introducing=unlimited tile=~02~====~03~#033
+|33
+@00006165-00006184-FF
+;00006165{introducing=unknown tiles=~02~====~03~}#038#032
+introducing=unknown tiles=~02~====~03~#032
+|32
+@00006354-00006375-FF
+;00006354{New  password=level =warp to=~AF~~EA~~DB~~C4~~EA~}#049#034
+New  password=level =warp to=~AF~~EA~~DB~~C4~~EA~#034
+|34
+@000068E5-0000690B-FF
+;000068E5{introducing= reversed=moving tile=~02~===~03~}#045#039
+introducing= reversed=moving tile=~02~===~03~#039
+|39
+@00006A16-00006A40-FF
+;00006A16{introducing=vertical flip=moving tile=~02~===~03~}#049#043
+introducing=vertical flip=moving tile=~02~===~03~#043
+|43
+@00006B4B-00006B77-FF
+;00006B4B{introducing=horizontal flip=moving tile=~02~===~03~}#051#045
+introducing=horizontal flip=moving tile=~02~===~03~#045
+|45
+@0000731D-0000735D-FF
+;0000731D{Game  paused===CONTINUE=~80~~02~game options=~80~~03~reset game=~80~~04~key:==~06~~FF~}#086#062
+Game  paused===CONTINUE=~80~~02~game options=~80~~03~reset game=~80~~04~key:==~06~~FF~#062
+;0000735B{~11~~D8~~C3~}#012#003
+~11~~D8~~C3~#003
+|65
+@0000CC78-0000D6BC-FF
+;0000CC78{entering===pyramid==~01~~FF~}#028#022
+entering===pyramid==~01~~FF~#022
+;0000CC8E{Back to square===one.==~01~~FF~}#031#025
+Back to square===one.==~01~~FF~#025
+;0000CCA7{Get with it !===~FF~}#020#017
+Get with it !===~FF~#017
+;0000CCB8{Concentrate.===~FF~}#019#016
+Concentrate.===~FF~#016
+;0000CCC8{Try again.===~FF~}#017#014
+Try again.===~FF~#014
+;0000CCD6{You ran===out of time.==~01~~FF~}#032#026
+You ran===out of time.==~01~~FF~#026
+;0000CCF0{If you don't===jump==~01~quickly,==~02~you will be==~03~forced off !!!==~04~~FF~}#080#065
+If you don't===jump==~01~quickly,==~02~you will be==~03~forced off !!!==~04~~FF~#065
+;0000CD31{Don't stop to===think.==~01~You must make==~02~decisions==~03~quickly.==~04~~FF~}#080#065
+Don't stop to===think.==~01~You must make==~02~decisions==~03~quickly.==~04~~FF~#065
+;0000CD72{Watch the timer===bar and listen==~01~for the warning==~02~sounds.==~03~~FF~}#076#064
+Watch the timer===bar and listen==~01~for the warning==~02~sounds.==~03~~FF~#064
+;0000CDB2{Watch out for===scarabs !==~01~~FF~}#035#029
+Watch out for===scarabs !==~01~~FF~#029
+;0000CDCF{You don't like===scarabs and==~01~they sure don't==~02~like you !!!==~03~~FF~}#077#065
+You don't like===scarabs and==~01~they sure don't==~02~like you !!!==~03~~FF~#065
+;0000CE10{Leapfrog the===scarabs.==~01~~FF~}#033#027
+Leapfrog the===scarabs.==~01~~FF~#027
+;0000CE2B{Ha ha ha ha.===I told you==~01~before, don't==~02~jump on scarabs.==~03~~FF~}#076#064
+Ha ha ha ha.===I told you==~01~before, don't==~02~jump on scarabs.==~03~~FF~#064
+;0000CE6B{Jumped the wrong===way, now there's==~01~a surprise.==~02~~FF~}#062#053
+Jumped the wrong===way, now there's==~01~a surprise.==~02~~FF~#053
+;0000CEA0{Use your head !===~FF~}#022#019
+Use your head !===~FF~#019
+;0000CEB3{Reverse your===direction on==~01~these tiles.==~02~~FF~}#055#046
+Reverse your===direction on==~01~these tiles.==~02~~FF~#046
+;0000CEE1{Dont jump to===conclusions.==~01~~FF~}#037#031
+Dont jump to===conclusions.==~01~~FF~#031
+;0000CF00{Bet you thought===you were good==~01~till you met==~02~these.==~03~~FF~}#071#059
+Bet you thought===you were good==~01~till you met==~02~these.==~03~~FF~#059
+;0000CF3B{Hang in there !===~FF~}#022#019
+Hang in there !===~FF~#019
+;0000CF4E{Reverse your===direction and==~01~keep in time==~02~with reversed==~03~moving tiles.==~04~~FF~}#094#079
+Reverse your===direction and==~01~keep in time==~02~with reversed==~03~moving tiles.==~04~~FF~#079
+;0000CF9D{** GAME  OVER **===Ha ha ha ....==~02~Only kidding !!!==~03~~FF~}#064#055
+** GAME  OVER **===Ha ha ha ....==~02~Only kidding !!!==~03~~FF~#055
+;0000CFD4{Moving vertical===flip tiles will==~01~keep you==~02~occupied for a==~03~while.==~04~~FF~}#089#074
+Moving vertical===flip tiles will==~01~keep you==~02~occupied for a==~03~while.==~04~~FF~#074
+;0000D01E{Whoops !===~FF~}#015#012
+Whoops !===~FF~#012
+;0000D02A{You can===do better than==~01~that !!==~02~~FF~}#047#038
+You can===do better than==~01~that !!==~02~~FF~#038
+;0000D050{Come on, the===flip tiles==~01~aren't that==~02~difficult.==~03~~FF~}#068#056
+Come on, the===flip tiles==~01~aren't that==~02~difficult.==~03~~FF~#056
+;0000D088{Moving flip===tiles are easy.==~01~Whats==~02~up with you ?==~03~~FF~}#069#057
+Moving flip===tiles are easy.==~01~Whats==~02~up with you ?==~03~~FF~#057
+;0000D0C1{Have you flipped===out ?==~01~~FF~}#034#028
+Have you flipped===out ?==~01~~FF~#028
+;0000D0DD{There's plenty===more flip tiles==~01~ahead, so you==~02~will have to get==~03~used to them.==~04~~FF~}#102#087
+There's plenty===more flip tiles==~01~ahead, so you==~02~will have to get==~03~used to them.==~04~~FF~#087
+;0000D134{You must be===dizzy.==~01~Think in==~02~reverse !!!==~03~~FF~}#061#049
+You must be===dizzy.==~01~Think in==~02~reverse !!!==~03~~FF~#049
+;0000D165{Jump blocks are===different aren't==~01~they ?==~02~~FF~}#056#047
+Jump blocks are===different aren't==~01~they ?==~02~~FF~#047
+;0000D194{Is that the best===you can do ?==~01~~FF~}#041#035
+Is that the best===you can do ?==~01~~FF~#035
+;0000D1B7{Make sure there===is something to==~01~land on.==~02~~FF~}#057#048
+Make sure there===is something to==~01~land on.==~02~~FF~#048
+;0000D1E7{That was a close===call !==~01~~FF~}#035#029
+That was a close===call !==~01~~FF~#029
+;0000D204{2 bounce tiles===have to be==~01~bounced on==~02~twice.==~03~~FF~}#065#053
+2 bounce tiles===have to be==~01~bounced on==~02~twice.==~03~~FF~#053
+;0000D239{This is nothing===compared to what==~01~awaits you !!!==~02~~FF~}#064#055
+This is nothing===compared to what==~01~awaits you !!!==~02~~FF~#055
+;0000D270{Don't give up !===~FF~}#022#019
+Don't give up !===~FF~#019
+;0000D283{You will have to===try a lot harder==~01~if you are to==~02~succeed.==~03~~FF~}#078#066
+You will have to===try a lot harder==~01~if you are to==~02~succeed.==~03~~FF~#066
+;0000D2C5{Bummer dude !===~FF~}#020#017
+Bummer dude !===~FF~#017
+;0000D2D6{Practice makes===perfect.==~01~~FF~}#035#029
+Practice makes===perfect.==~01~~FF~#029
+;0000D2F3{You must===bounce on the==~01~3 bounce tiles==~02~3 times.==~03~~FF~}#068#056
+You must===bounce on the==~01~3 bounce tiles==~02~3 times.==~03~~FF~#056
+;0000D32B{Leave spare===tiles to help==~01~get rid of==~02~3 bounce tiles.==~03~~FF~}#074#062
+Leave spare===tiles to help==~01~get rid of==~02~3 bounce tiles.==~03~~FF~#062
+;0000D369{You must clear===all the tiles in==~01~the room to be==~02~able to advance==~03~to another room.==~04~~FF~}#106#091
+You must clear===all the tiles in==~01~the room to be==~02~able to advance==~03~to another room.==~04~~FF~#091
+;0000D3C4{Don't forget to===leave a path==~01~back to start.==~02~~FF~}#060#051
+Don't forget to===leave a path==~01~back to start.==~02~~FF~#051
+;0000D3F7{You need to try===much harder.==~01~~FF~}#040#034
+You need to try===much harder.==~01~~FF~#034
+;0000D419{Determination,===is the key to==~01~success !!!!!==~02~~FF~}#059#050
+Determination,===is the key to==~01~success !!!!!==~02~~FF~#050
+;0000D44B{Congratulations,===successfully==~01~found passage==~02~through room.==~03~A new room==~04~awaits.==~05~~FF~}#108#090
+Congratulations,===successfully==~01~found passage==~02~through room.==~03~A new room==~04~awaits.==~05~~FF~#090
+;0000D4A5{Well done !!===Prepare to enter==~01~a new room.==~02~~FF~}#058#049
+Well done !!===Prepare to enter==~01~a new room.==~02~~FF~#049
+;0000D4D6{Not bad, but===there's still a==~01~long way to go.==~02~~FF~}#061#052
+Not bad, but===there's still a==~01~long way to go.==~02~~FF~#052
+;0000D50A{Congratulations.===Keep up the==~01~hard work.==~02~~FF~}#056#047
+Congratulations.===Keep up the==~01~hard work.==~02~~FF~#047
+;0000D539{Entering pyramid===of Unis.==~01~~FF~}#037#031
+Entering pyramid===of Unis.==~01~~FF~#031
+;0000D558{Entering pyramid===of Teti.==~01~~FF~}#037#031
+Entering pyramid===of Teti.==~01~~FF~#031
+;0000D577{Entering pyramid===of Khafre.==~01~~FF~}#039#033
+Entering pyramid===of Khafre.==~01~~FF~#033
+;0000D598{Entering pyramid===of Snefru.==~01~~FF~}#039#033
+Entering pyramid===of Snefru.==~01~~FF~#033
+;0000D5B9{Entering pyramid===of Scarabeus.==~01~~FF~}#042#036
+Entering pyramid===of Scarabeus.==~01~~FF~#036
+;0000D5DD{Entering===causeway of==~01~Idut.==~02~~FF~}#043#034
+Entering===causeway of==~01~Idut.==~02~~FF~#034
+;0000D5FF{Entering===causeway of==~01~Vizier Mereruka.==~02~~FF~}#054#045
+Entering===causeway of==~01~Vizier Mereruka.==~02~~FF~#045
+;0000D62C{Entering===causeway of==~01~Prince==~02~Khaemwese.==~03~~FF~}#060#048
+Entering===causeway of==~01~Prince==~02~Khaemwese.==~03~~FF~#048
+;0000D65C{Entering===causeway of==~01~Queen Nefertari.==~02~~FF~}#054#045
+Entering===causeway of==~01~Queen Nefertari.==~02~~FF~#045
+;0000D689{Entering===causeway of==~01~Pharoah==~02~Scarabeus.==~03~~FF~}#061#049
+Entering===causeway of==~01~Pharoah==~02~Scarabeus.==~03~~FF~#049
+;0000D6BA{~01~~02~~02~}#012#003
+~01~~02~~02~#003
+|2629
+

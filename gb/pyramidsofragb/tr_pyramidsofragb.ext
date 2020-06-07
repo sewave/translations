@@ -1,0 +1,298 @@
+@00000003-0000003F-FF
+;00000003{SOFTWARE AND HARDWARE DESIGN BY JOHN MORRISON (MICROS) 1/9/19}#061#061
+SOFTWARE Y HARDWARE DISEÑO POR JOHN MORRISON (MICROS) 1/9/19 #061
+|61
+@000021C5-000021FB-FF
+;000021C5{Game options===music and fx=~80~~04~no sound=~80~~06~music=~80~~08~fx=~80~~0A~~FF~}#082#055
+Opciones   ===
+música y fx=~80~~04~
+sin audio=~80~~06~
+música=~80~~08~
+fx=~80~~0A~~FF~#055
+|55
+@0000233E-00002368-FF
+;0000233E{ROOM =KEY  =TRIES=ROOM===KEY==~01~TRIES==~02~~FF~}#049#040
+SALA =CLAVE=VIDAS=
+SALA===CLA==~01~VIDAS==~02~~FF~#040
+;00002366{P0~C5~}#006#003
+P0~C5~#003
+|43
+@00003158-000031DA-FF
+;00003158{Well done !!===You have==~01~Uncovered==~02~the tomb of==~03~advance to==~06~next pyramid==~07~~FF~}#099#081
+Bien hecho!!===
+Has==~01~
+Destapado==~02~
+la tumba de==~03~
+avanza a la==~06~
+próxima pirámide==~07~~FF~#081
+;000031A9{IDUT     =MERERUKA =KHAEMWESE=NEFERTARI=SCARABEUS=}#050#050
+IDUT     =MERERUKA =KHAEMWESE=NEFERTARI=SCARABEUS=#050
+|131
+@00003237-00003396-FF
+;00003237{~F6~~C9~Well done! You===have completed==~01~Pyramids of RA.==~02~IMPORTANT.==~03~Retain password.==~04~See booklet for==~05~prize==~06~information.==~07~Password:==~09~HRPQMVNKY==~0A~~FF~}#188#152
+~F6~~C9~
+Bien hecho!===
+has completado==~01~
+Pirámides de RA.==~02~
+IMPORTANTE.==~03~
+Retén password.==~04~
+Infórmate del  ==~05~
+premio en el==~06~
+manual.==~07~
+Password:==~09~
+HRPQMVNKY==~0A~~FF~#152
+;000032CF{Designed and=~01~~01~developed by=~01~~02~Source The=~01~~03~Software House=~01~~04~Ltd=~01~~05~Game design and=~01~~06~graphics by=~01~~07~Ross Harris=~01~~08~Music by=~01~~09~Chris Gill=~01~~0A~Sound drivers by=~01~~0B~Link Tomlin=~01~~0C~Programmed by=~01~~0D~Andrew King=~01~~0E~~FF~}#287#200
+Diseño y=~01~~01~
+desarrollo por=~01~~02~
+Source The=~01~~03~
+Software House=~01~~04~
+Ltd=~01~~05~
+Diseño de juego=~01~~06~
+y gráficos por=~01~~07~Ross Harris=~01~~08~
+Música por=~01~~09~Chris Gill=~01~~0A~
+Drivers Sonido=~01~~0B~Link Tomlin=~01~~0C~
+Programa por=~01~~0D~Andrew King=~01~~0E~~FF~#200
+|352
+@0000345E-000035A1-FF
+;0000345E{~F5~~C9~     Matchbox®==~01~     presents==~02~THE PYRAMIDS OF RA™==~03~Licensed by Nintendo=~1F~~03~  Matchbox® is a==~06~ registered trade-==~07~ mark of Matchbox==~08~International Ltd.==~09~Pyramids of Ra is a==~0B~   trademark of==~0C~     Matchbox==~0D~International Ltd.==~0E~~FF~}#287#239
+~F5~~C9~
+     Matchbox®==~01~
+     presenta==~02~
+ PIRÁMIDES DE RA™   ==~03~
+Licencia de Nintendo=~1F~~03~
+   Matchbox® es ==~06~
+marca registrada de==~07~
+     Matchbox ==~08~
+International Ltd.==~09~
+Pirámides de Ra es ==~0B~
+   una marca de ==~0C~
+     Matchbox==~0D~
+International Ltd.==~0E~~FF~#239
+;0000354D{Original game=~03~~10~©1991 Source=~03~~11~This Product ©1991==~13~Matchbox=~05~~14~International Ltd.==~15~~FF~}#112#085
+Juego origen=~03~~10~
+©1991 Source=~03~~11~
+Este Producto ©1991==~13~
+Matchbox=~05~~14~
+International Ltd.==~15~~FF~#085
+|324
+@00004064-00004075-FF
+;00004064{valid   =invalid =}#018#018
+válido  =inválido=#018
+|18
+@00004BCF-00004BF2-FF
+;00004BCF{introduce  =   moving=2 bounce tile=}#036#036
+ introduce=  moviendo=2 tejas botan=#036
+|36
+@00004CA7-00004CCA-FF
+;00004CA7{introduce  =   moving=3 bounce tile=}#036#036
+ introduce=  moviendo=3 tejas botan=#036
+|36
+@00005027-00005039-FF
+;00005027{Key:=ENTER  KEY===~FF~}#022#019
+Cla:=PON  CLAVE===~FF~#019
+|19
+@000059D3-000059EC-FF
+;000059D3{introduce  =1 bounce tile=}#026#026
+introduce  =teja 1 rebote=#026
+|26
+@00005A64-00005A7D-FF
+;00005A64{introduce  =2 bounce tile=}#026#026
+introduce  =teja 2 rebote=#026
+|26
+@00005AFA-00005B13-FF
+;00005AFA{introduce  =3 bounce tile=}#026#026
+introduce  =teja 3 rebote=#026
+|26
+@00005B86-00005B9C-FF
+;00005B86{introduce  =jump tiles=}#023#023
+introduce  =tejas bote=#023
+|23
+@00005CA1-00005CB8-FF
+;00005CA1{introduce  =moving tile=}#024#024
+introduce  =teja móvil =#024
+|24
+@00005D2F-00005D4A-FF
+;00005D2F{introduce  =horizontal flip=}#028#028
+introduce  =volteo horiz·  =#028
+|28
+@00005DC0-00005DD9-FF
+;00005DC0{introduce  =vertical flip=}#026#026
+introduce  =volteo verti·=#026
+|26
+@00005ED7-00005EEC-FF
+;00005ED7{introduce  =  scarabs=}#022#022
+introduce  =escaraba·=#022
+|22
+@00005F64-00005F81-FF
+;00005F64{introduce  =reverse direction=}#030#030
+introduce  =dirección inversa=#030
+|30
+@0000601C-0000603B-FF
+;0000601C{introduce  =rotating jump tiles=}#032#032
+introduce  =tejas salto rotando=#032
+|32
+@000060BB-000060D5-FF
+;000060BB{introduce  =unlimited tile=}#027#027
+introduce  =teja ilimitada=#027
+|27
+@00006165-0000617E-FF
+;00006165{introduce  =unknown tiles=}#026#026
+introduce  =tejas ignotas=#026
+|26
+@00006354-00006370-FF
+;00006354{New  password=level =warp to=}#029#029
+Otro password=nivel =vas  al=#029
+|29
+@000068E5-00006906-FF
+;000068E5{introduce  = reversed=moving tile=}#034#034
+introduce  =teja mov·=invertido  =#034
+|34
+@00006A16-00006A3B-FF
+;00006A16{introduce  =vertical flip=moving tile=}#038#038
+introduce  =teja volteo  =vertical   =#038
+|38
+@00006B4B-00006B72-FF
+;00006B4B{introduce  =horizontal flip=moving tile=}#040#040
+introduce  = teja volteo   =horizontal =#040
+|40
+@0000731D-0000735A-FF
+;0000731D{Game  paused===CONTINUE=~80~~02~game options=~80~~03~reset game=~80~~04~key:==~06~~FF~}#086#062
+Pausa  Juego===
+CONTINUAR=~80~~02~
+opciones =~80~~03~
+reiniciar =~80~~04~
+clave:==~06~~FF~#062
+|62
+@0000CC78-0000D087-FF
+;0000CC78{entering===pyramid==~01~~FF~}#028#022
+entras ===pirámide==~01~~FF~#022
+;0000CC8E{Back to square===one.==~01~~FF~}#031#025
+Vuelta al paso===uno.==~01~~FF~#025
+;0000CCA7{Get with it !===~FF~}#020#017
+Consíguelo!  ===~FF~#017
+;0000CCB8{Concentrate.===~FF~}#019#016
+Concéntrate.===~FF~#016
+;0000CCC8{Try again.===~FF~}#017#014
+Reintenta.===~FF~#014
+;0000CCD6{You ran===out of time.==~01~~FF~}#032#026
+Sin    ===tiempo.     ==~01~~FF~#026
+;0000CCF0{If you don't===jump==~01~quickly,==~02~you will be==~03~forced off !!!==~04~~FF~}#080#065
+Si no saltas===
+rápido,==~01~
+se te forzará a ==~02~
+moverte!!!==~03~
+    ==~04~~FF~#065
+;0000CD31{Don't stop to===think.==~01~You must make==~02~decisions==~03~quickly.==~04~~FF~}#080#065
+No te pares a===pensar.==~01~Debes tomar==~02~decisiones==~03~rápidas.==~04~~FF~#065
+;0000CD72{Watch the timer===bar and listen==~01~for the warning==~02~sounds.==~03~~FF~}#076#064
+Mira el tiempo y===escucha los  ==~01~sonidos de     ==~02~alerta.==~03~~FF~#064
+;0000CDB2{Watch out for===scarabs !==~01~~FF~}#035#029
+Cuidado con===escarabajo!==~01~~FF~#029
+;0000CDCF{You don't like===scarabs and==~01~they sure don't==~02~like you !!!==~03~~FF~}#077#065
+No te gustan===los escarabajos==~01~y tu a ellos ==~02~tampoco!!!  ==~03~~FF~#065
+;0000CE10{Leapfrog the===scarabs.==~01~~FF~}#033#027
+Bota los===escarabajos.==~01~~FF~#027
+;0000CE2B{Ha ha ha ha.===I told you==~01~before, don't==~02~jump on scarabs.==~03~~FF~}#076#064
+Ja ja ja. ===Te lo dije==~01~antes, no saltes==~02~en escarabajos.==~03~~FF~#064
+;0000CE6B{Jumped the wrong===way, now there's==~01~a surprise.==~02~~FF~}#062#053
+Has saltado mal,===ahora hay una   ==~01~sorpresa.  ==~02~~FF~#053
+;0000CEA0{Use your head !===~FF~}#022#019
+Usa tu cabeza! ===~FF~#019
+;0000CEB3{Reverse your===direction on==~01~these tiles.==~02~~FF~}#055#046
+Invierte tu ===dirección en==~01~estas tejas.==~02~~FF~#046
+;0000CEE1{Dont jump to===conclusions.==~01~~FF~}#037#031
+No saltes a===conclusiones.==~01~~FF~#031
+;0000CF00{Bet you thought===you were good==~01~till you met==~02~these.==~03~~FF~}#071#059
+Apuesto a que===eras bueno hasta==~01~que viste a==~02~estos.==~03~~FF~#059
+;0000CF3B{Hang in there !===~FF~}#022#019
+Aguanta ahí!   ===~FF~#019
+;0000CF4E{Reverse your===direction and==~01~keep in time==~02~with reversed==~03~moving tiles.==~04~~FF~}#094#079
+Invierte tu ===dirección y==~01~acaba a tiempo==~02~con tejas del==~03~revés.       ==~04~~FF~#079
+;0000CF9D{** GAME  OVER **===Ha ha ha ....==~02~Only kidding !!!==~03~~FF~}#064#055
+** FIN  JUEGO **===Ja ja ja ....==~02~Solo bromeaba!!!==~03~~FF~#055
+;0000CFD4{Moving vertical===flip tiles will==~01~keep you==~02~occupied for a==~03~while.==~04~~FF~}#089#074
+Mover tejas de===volteo vertical==~01~te mantendrá    ==~02~ocupado un rato.==~03~~FF~#074
+;0000D01E{Whoops !===~FF~}#015#012
+Oooops! ===~FF~#012
+;0000D02A{You can===do better than==~01~that !!==~02~~FF~}#047#038
+Puedes hacerlo  ===mejor que eso!!==~01~~FF~#038
+;0000D050{Come on, the===flip tiles==~01~aren't that==~02~difficult.==~03~~FF~}#068#056
+Vamos, voltear===las tejas no    ==~01~es tan difícil. ==~02~~FF~#056
+|1040
+@0000D088-0000D4A4-FF
+;0000D088{Moving flip===tiles are easy.==~01~Whats==~02~up with you ?==~03~~FF~}#069#057
+Mover tejas de  ===volteo es fácil.=~01~Qué te pasa?    ==~02~~FF~#057
+;0000D0C1{Have you flipped===out ?==~01~~FF~}#034#028
+Te has flipado? ===     ==~01~~FF~#028
+;0000D0DD{There's plenty===more flip tiles==~01~ahead, so you==~02~will have to get==~03~used to them.==~04~~FF~}#102#087
+Has bastantes===más tejas de ==~01~volteo, así que==~02~tendrás que     ==~03~acostumbrarte.==~04~~FF~#087
+;0000D134{You must be===dizzy.==~01~Think in==~02~reverse !!!==~03~~FF~}#061#049
+Debes estar===mareado.==~01~Piensa del=~02~revés!!!==~03~~FF~#049
+;0000D165{Jump blocks are===different aren't==~01~they ?==~02~~FF~}#056#047
+El bloque salto===es diferente,  ==~01~verdad?==~02~~FF~#047
+;0000D194{Is that the best===you can do ?==~01~~FF~}#041#035
+Es eso lo mejor ===que tienes? ==~01~~FF~#035
+;0000D1B7{Make sure there===is something to==~01~land on.==~02~~FF~}#057#048
+Asegúrate de que===hay donde   ==~01~aterrizar.==~02~~FF~#048
+;0000D1E7{That was a close===call !==~01~~FF~}#035#029
+Esa estuvo muy===cerca!  ==~01~~FF~#029
+;0000D204{2 bounce tiles===have to be==~01~bounced on==~02~twice.==~03~~FF~}#065#053
+Tejas 2 rebote===deben ser==~01~rebotadas==~02~2 veces.==~03~~FF~#053
+;0000D239{This is nothing===compared to what==~01~awaits you !!!==~02~~FF~}#064#055
+Esto no es nada===comparado con lo==~01~que te espera!==~02~~FF~#055
+;0000D270{Don't give up !===~FF~}#022#019
+No te rindas!  ===~FF~#019
+;0000D283{You will have to===try a lot harder==~01~if you are to==~02~succeed.==~03~~FF~}#078#066
+Deberás         ===esforzarte más==~01~si quieres tener==~02~éxito. ==~03~~FF~#066
+;0000D2C5{Bummer dude !===~FF~}#020#017
+Tío gorrón!  ===~FF~#017
+;0000D2D6{Practice makes===perfect.==~01~~FF~}#035#029
+Practica y===perfecciona.==~01~~FF~#029
+;0000D2F3{You must===bounce on the==~01~3 bounce tiles==~02~3 times.==~03~~FF~}#068#056
+Debes botar en===las tejas de 3  ==~01~rebotes 3 veces.==~02~~FF~#056
+;0000D32B{Leave spare===tiles to help==~01~get rid of==~02~3 bounce tiles.==~03~~FF~}#074#062
+Deja tejas ===libres para  ==~01~ayudarte  ==~02~3 bounce tiles.==~03~~FF~#062
+;0000D369{You must clear===all the tiles in==~01~the room to be==~02~able to advance==~03~to another room.==~04~~FF~}#106#091
+Debes limpiar ===todas las tejas==~01~de la sala para==~02~poder avanzar a==~03~otra sala.      ==~04~~FF~#091
+;0000D3C4{Don't forget to===leave a path==~01~back to start.==~02~~FF~}#060#051
+No te olvides de===dejar un camino==~01~de vuelta.==~02~~FF~#051
+;0000D3F7{You need to try===much harder.==~01~~FF~}#040#034
+Necesitas      ===esforzarte. ==~01~~FF~#034
+;0000D419{Determination,===is the key to==~01~success !!!!!==~02~~FF~}#059#050
+Determinación,===es la clave del ==~01~ éxito!!!!==~02~~FF~#050
+;0000D44B{Congratulations,===successfully==~01~found passage==~02~through room.==~03~A new room==~04~awaits.==~05~~FF~}#108#090
+Felicidades,===
+hallaste con==~01~
+éxito un pasaje==~02~
+en la sala.==~03~
+Una nueva sala==~04~
+espera.==~05~~FF~#090
+|1053
+@0000D4A5-0000D6B9-FF
+;0000D4A5{Well done !!===Prepare to enter==~01~a new room.==~02~~FF~}#058#049
+Bien hecho!!===Prepárate para  ==~01~otra sala. ==~02~~FF~#049
+;0000D4D6{Not bad, but===there's still a==~01~long way to go.==~02~~FF~}#061#052
+Nada mal,   ===pero aún hay un==~01~largo camino.  ==~02~~FF~#052
+;0000D50A{Congratulations.===Keep up the==~01~hard work.==~02~~FF~}#056#047
+Felicidades.===Sigue con el==~01~trabajo duro.==~02~~FF~#047
+;0000D539{Entrando pyramid===of Unis.==~01~~FF~}#037#031
+Entrando===pirámide Unis.  ==~01~~FF~#031
+;0000D558{Entrando pyramid===of Teti.==~01~~FF~}#037#031
+Entrando===pirámide Teti.  ==~01~~FF~#031
+;0000D577{Entrando pyramid===of Khafre.==~01~~FF~}#039#033
+Entrando===pirámide Khafre.  ==~01~~FF~#033
+;0000D598{Entrando pyramid===of Snefru.==~01~~FF~}#039#033
+Entrando  ===pirámide Snefru.==~01~~FF~#033
+;0000D5B9{Entrando pyramid===of Scarabeus.==~01~~FF~}#042#036
+Entrando===pirámide==~01~Scarabeus.==~01~~FF~#036
+;0000D5DD{Entrando===causeway of==~01~Idut.==~02~~FF~}#043#034
+Entrando en===calzada de Idut.==~02~~FF~#034
+;0000D5FF{Entrando===causeway of==~01~Vizier Mereruka.==~02~~FF~}#054#045
+Entrando calzada===del Visir==~01~Mereruka. ==~02~~FF~#045
+;0000D62C{Entrando===causeway of==~01~Prince==~02~Khaemwese.==~03~~FF~}#060#048
+Entrando calzada===del Príncipe==~01~Khaemwese.==~03~~FF~#048
+;0000D65C{Entrando===causeway of==~01~Queen Nefertari.==~02~~FF~}#054#045
+Entrando calzada===de Reina ==~01~Nefertari.==~02~~FF~#045
+;0000D689{Entrando===causeway of==~01~Pharoah==~02~Scarabeus.==~03~~FF~}#061#049
+Entrando calzada===del Faraón==~01~Scarabeus.   ==~03~~FF~#049
+|533

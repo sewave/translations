@@ -1,0 +1,32 @@
+@0000080E-00000819-00
+;0000080E{PAUSE%SCORE%}#012#012
+PAUSE%SCORE%#012
+|12
+@00002A48-00002AEF-00
+;00002A48{S=T=A=G=E===1===R=E=A=D=Y===S=T=A=G=E===2===R=E=A=D=Y===S=T=A=G=E===3===R=E=A=D=Y===S=T=A=G=E===4===R=E=A=D=Y===S=T=A=G=E===5===R=E=A=D=Y===S=T=A=G=E===6===R=E=A=D=Y===}#168#168
+S=T=A=G=E===1===R=E=A=D=Y===S=T=A=G=E===2===R=E=A=D=Y===S=T=A=G=E===3===R=E=A=D=Y===S=T=A=G=E===4===R=E=A=D=Y===S=T=A=G=E===5===R=E=A=D=Y===S=T=A=G=E===6===R=E=A=D=Y===#168
+|168
+@00002B75-00002C48-00
+;00002B75{N=E=X=T===S=T=A=G=E=N=E=X=T=========S=T=A=G=E=======M=A=D===S=E=A===================G=U=N=C=I=T=Y===================D=A=R=K=========C=A=V=E=========F=O=R=T=R=E=S=S=================F=I=N=A=L=======M=I=S=S=I=O=N===}#212#212
+N=E=X=T===S=T=A=G=E=N=E=X=T=========S=T=A=G=E=======M=A=D===S=E=A===================G=U=N=C=I=T=Y===================D=A=R=K=========C=A=V=E=========F=O=R=T=R=E=S=S=================F=I=N=A=L=======M=I=S=S=I=O=N===#212
+|212
+@00002C9B-00002CBD-00
+;00002C9B{~99~~CF~~09~GAME=OVER=~9A~~0F~~09~TOP=SCORE=~9A~~71~~05~SCORE=}#062#035
+~99~~CF~~09~GAME=OVER=~9A~~0F~~09~TOP=SCORE=~9A~~71~~05~SCORE=#035
+|35
+@00002F95-00002F9A-00
+;00002F95{E=N=D=}#006#006
+E=N=D=#006
+|6
+@00002FDB-00003018-00
+;00002FDB{FINAL%MISSION%%%%IS%OVER%%%%FINAL%MISSION%IS%OVER%%%%%%%SCORE%}#062#062
+FINAL%MISSION%%%%IS%OVER%%%%FINAL%MISSION%IS%OVER%%%%%%%SCORE%#062
+|62
+@0000334D-0000351E-00
+;0000334D{PRODUCER%%%%%%%%%G.YOKOI%%%%%%%%%%DIRECTOR%%%%%%%%%S.OKADA%%%%%%%%%%K.TERASAKI%%%%%%%PROGRAMMER%%%%%%%K.SUGIMOTO%%%%%%%%%%%%%%%%%%%%%%%%MUSIC%SOUND%%%%%%T.OSADA%%%%%%%%%%DESIGN%%%%%%%%%%%A.HIGASHIYA%%%%%%K.YAMAGAMI%%%%%%%K.KATSUYAMA%%%%%%K.HAYASHI%%%%%%%%SPECIAL~FB~THANKS~FB~TOH.HIRAYAMA%%%%%%%Y.FUJII%%%%%%%%%%K.TAKEUCHI%%%%%%%H.AYRTON.WADA%%%%Y.KAWAKAMI%%%%%%%M.NAKATANI%%%%%%%H.NAKAZAWA%%%%%%%Y.ARASHIBA%%%%%%%%SOLARSTRIKER%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c1989%}#472#466
+PRODUCER%%%%%%%%%G.YOKOI%%%%%%%%%%DIRECTOR%%%%%%%%%S.OKADA%%%%%%%%%%K.TERASAKI%%%%%%%PROGRAMMER%%%%%%%K.SUGIMOTO%%%%%%%%%%%%%%%%%%%%%%%%MUSIC%SOUND%%%%%%T.OSADA%%%%%%%%%%DESIGN%%%%%%%%%%%A.HIGASHIYA%%%%%%K.YAMAGAMI%%%%%%%K.KATSUYAMA%%%%%%K.HAYASHI%%%%%%%%SPECIAL~FB~THANKS~FB~TOH.HIRAYAMA%%%%%%%Y.FUJII%%%%%%%%%%K.TAKEUCHI%%%%%%%H.AYRTON.WADA%%%%Y.KAWAKAMI%%%%%%%M.NAKATANI%%%%%%%H.NAKAZAWA%%%%%%%Y.ARASHIBA%%%%%%%%SOLARSTRIKER%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%c1989%#466
+|466
+@00003E9B-00003F12-00
+;00003E9B{~99~~EB~~04~PUSH~9A~~08~~0C~START BUTTON~9A~~48~~03~TOP~9A~~88~~0C~c1989 ~EA~~EB~~EC~~ED~~EE~~EF~=~99~~EB~~04~PUSH~9A~~07~~0D~SELECT%BUTTON~9A~~48~~03~TOP~9A~~88~~0C~c1989 ~EA~~EB~~EC~~ED~~EE~~EF~=~9C~=~13~SCORE=________==^_~F3~=_______=}#237#120
+~99~~EB~~04~PUSH~9A~~08~~0C~START BUTTON~9A~~48~~03~TOP~9A~~88~~0C~c1989 ~EA~~EB~~EC~~ED~~EE~~EF~=~99~~EB~~04~PUSH~9A~~07~~0D~SELECT%BUTTON~9A~~48~~03~TOP~9A~~88~~0C~c1989 ~EA~~EB~~EC~~ED~~EE~~EF~=~9C~=~13~SCORE=________==^_~F3~=_______=#120
+|120

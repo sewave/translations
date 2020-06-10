@@ -1,0 +1,139 @@
+@000016C8-0000173A-FF
+;000016C8{~06~~99~you have=F~99~survived=~85~~99~the battle.~FF~}#054#036
+~06~~99~
+  has   =F~99~
+ pasado =~85~~99~
+la batalla.~FF~#036
+;000016EC{~84~~98~fire+up your=~C4~~98~warp rattler=~03~~99~and prepare to=C~99~blast off into=~84~~99~enemy space.~FF~}#109#079
+~84~~98~
+enciende tu =~C4~~98~
+transporte y=~03~~99~
+prepárate para=C~99~
+ir al espacio =~84~~99~
+  enemigo.  ~FF~#079
+|115
+@0000198C-00001A00-FF
+;0000198C{~98~~05~STAGE~FF~}#017#008
+~98~~05~ETAPA~FF~#008
+;00001994{~C1~~98~~05~LEVEL~FF~}#021#009
+~C1~~98~~05~NIVEL~FF~#009
+;0000199D{~01~~99~~04~REST~FF~}#020#008
+~01~~99~~04~VIDA~FF~#008
+;000019A5{A~99~~09~AUTO_SHOT~FF~}#022#013
+A~99~~09~AUTO_TIRO~FF~#013
+;000019B2{~C1~~99~~04~SHOT=~01~~9A~~08~POWER_UP~FF~}#041#020
+~C1~~99~~04~TIRO=~01~~9A~~08~MEJORA__~FF~#020
+;000019C6{~81~~98~~05~stage~FF~}#021#009
+~81~~98~~05~etapa~FF~#009
+;000019CF{~C1~~98~~05~level~FF~}#021#009
+~C1~~98~~05~nivel~FF~#009
+;000019D8{~01~~99~~04~rest~FF~}#020#008
+~01~~99~~04~vida~FF~#008
+;000019E0{A~99~~09~auto`shot~FF~}#022#013
+A~99~~09~auto`tiro~FF~#013
+;000019ED{~C1~~99~~04~shot=~01~~9A~~08~power`up~FF~}#041#020
+~C1~~99~~04~tiro=~01~~9A~~08~mejora``~FF~#020
+|117
+@00015C70-000163F0-FF
+;00015C70{                                                                                       STAFF                                                                                                              SUPERVISOR                                  n.matsui                                                                    GAME DESIGN                                 n.matsui                                                                    GRAPHIC DESIGN                              n.matsui                                                                    MAIN PROGRAM                                h.fukui                                                                     SUB PROGRAM                                 t.otsuka                                k.iwasaki                               t.ishimoto                                                                  SOUND DESIGN                                s.sakamoto                              m.yamane                                y.technouchi                            t.tomita                                                                    SPECIAL THANKS TO                         mr.yamaguchi                            mr.nagata                               mr.fukutake                             miss hashioka                                                                                                                                                                                           _konami 1990                                                                                                                                                                                                                                                                                                                                                                                                                                        ~FF~}#1924#1921
+                    
+                    
+                    
+                    
+       EQUIPO       
+                    
+                    
+                    
+                    
+                    
+ SUPERVISOR         
+                    
+      n.matsui      
+                    
+                    
+                    
+ DISEÑO DEL JUEGO   
+                    
+      n.matsui      
+                    
+                    
+                    
+ DISEÑO GRÁFICO     
+                    
+      n.matsui      
+                    
+                    
+                    
+ PROGRAMA PRINCIPAL 
+                    
+      h.fukui       
+                    
+                    
+                    
+ SUB PROGRAMA       
+                    
+      t.otsuka      
+                    
+      k.iwasaki     
+                    
+      t.ishimoto    
+                    
+                    
+                    
+ DISEÑO DE SONIDO   
+                    
+      s.sakamoto    
+                    
+      m.yamane      
+                    
+      y.technouchi  
+                    
+      t.tomita      
+                    
+                    
+                    
+ GRACIAS ESPECIALES 
+                    
+    mr.yamaguchi    
+                    
+    mr.nagata       
+                    
+    mr.fukutake     
+                    
+    miss hashioka   
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+    _konami 1990    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    ~FF~#1921
+|1921
+@0001642F-000164C2-FF
+;0001642F{~23~~98~`configuration`=~80~~98~ stage    1 2 3 4 5 =~C0~~98~ LEVEL      1   2   =~00~~99~ REST               =_~99~ AUTO SHOT          =~C0~~99~ SHOT        ` `=~00~~9A~ POWER UP    ` `~FF~}#190#148
+~23~~98~`configuración`=~80~~98~ etapa    1 2 3 4 5 =~C0~~98~ NIVEL      1   2   =~00~~99~ VIDA               =_~99~ AUTO TIRO          =~C0~~99~ TIRO        ` `=~00~~9A~ MEJORA      ` `~FF~#148
+|148

@@ -1,0 +1,121 @@
+@0000D64E-0000D65B-FF
+;0000D64E{ [ P A U S E ]}#014#014
+ [ P A U S A ]#014
+|14
+@0000D90E-0000D91B-FF
+;0000D90E{ H I S C O R E}#014#014
+ M E M A R C A#014
+|14
+@0000D91E-0000D929-FF
+;0000D91E{ P L A Y E R}#012#012
+ M A R C A ,#012
+|12
+@0000D92A-0000D935-FF
+;0000D92A{ S T O C K .}#012#012
+ V I D A S .#012
+|12
+@0000D94A-0000D985-FF
+;0000D94A{ P I E R . , L A S E R , W I D E , , G U I D E , H - B O M ,}#060#060
+ P I L A . ,
+ L Á S E R ,
+ A N C H O ,
+ G U Í A , ,
+ B O M - H ,#060
+|60
+@0000E4E2-0000E509-FF
+;0000E4E2{[ START ]  OPTIONS    START   [OPTIONS] }#040#040
+[EMPEZAR] 
+ OPCIONES 
+ EMPEZAR  
+[OPCIONES]#040
+|40
+@0000E578-0000E5C5-FF
+;0000E578{OPTIONS GAME LEVELPLAYER STOCKCONTINUECONTROL A B C RAPID SHOTSOUND TESTEXIT  }#078#078
+OPCIONES
+DIFICULTAD
+VIDAS       
+CONTINÚA
+CONTROL A B C 
+TIRO VELOZ
+TEST AUDIO
+SALE  #078
+|78
+@0000E5DC-0000E629-FF
+;0000E5DC{  EASYNORMAL  HARD357 A     B     C     A     B     C,A+B A,B+C B     C       }#078#078
+ FÁCIL
+NORMAL
+  DURO
+357 A     B     C     A     B     C,A+B A,B+C B     C       #078
+|78
+@0000E658-0000E677-FF
+;0000E658{    SHOT    BOMBS.WEAPON  ON OFF}#032#032
+ DISPARO
+   BOMBA
+ARMA ES.
+  SÍ  NO#032
+|32
+@0000E6F3-0000E744-FF
+;0000E6F3{ PUSH START BUTTON                                                                }#082#082
+ PULSA BOTÓN START                                                                #082
+|82
+@0001093D-0001094D-FF
+;0001093D{G A M E   O V E R}#017#017
+F I N   J U E G O#017
+|17
+@00010BEA-00011047-FF
+;00010BEA{ S T A F F E X E C U T I V E   P R O D U C E R T A K A O   U E N O                                         P R O D U C E R T O M O H I R O   N I S H I K A D O                           D I R E C T O R           S Y O J I   T A K A H A S H I                 M A I N   P R O G R A M M E R K U N I H A R U   I W A T A                                   P R O G R A M M E R S   K A K K U N C O M   S A S A I C H I H A R U                                                           C H A R A C T E R   D E S I G N E R S T H I G E N O Z A K A W A I Y A G A                                                                   M U S I C   P R O G R A M M E R N A G A                                 M U S I C   E D I T O R K A N E                         S P E C I A L   T H A N K S   T O H E L P E R   S U I T M R   X K Z M G I N Y A   S E K I D O Y U J I   K O G A                                                                                               T H A N K   Y O U   V E R Y   M U C H F O R   Y O U R   P L A Y I N G                                                                       P R E S E N T E D   B Y      }#1118#1118
+ G R U P O
+ P R O D U C E   E J E C U T I V O  
+ T A K A O   U E N O                                        
+ P R O D U C E  
+ T O M O H I R O   N I S H I K A D O                          
+ D I R E C T O R          
+ S Y O J I   T A K A H A S H I                
+ P R O G R A M A D O R   P R I
+ K U N I H A R U   I W A T A                                  
+ P R O G R A M A D O R   K A K K U N C O M   S A S A I C H I H A R U                                                          
+ D I S E Ñ O   D E   P E R S O N A J E
+ T H I G E N O Z A K A W A I Y A G A                                                                  
+   P R O G R A M A   M Ú S I C A
+ N A G A                                
+ E D I T O R   A U D I O
+ K A N E                        
+   M U C H A S   G R A C I A S   A
+ H E L P E R   S U I T M R   X K Z M G I N Y A   S E K I D O Y U J I   K O G A                                                                                              
+   M U C H Í S I M A S   G R A C I A S
+           P O R   J U G A R          
+                                      
+                          
+ L O   P R E S E N T A        #1118
+|1118
+@0001124C-0001129C-FF
+;0001124C{THE VICTORY IS YOURS!!"GOD SYSTEM" HAD BEEN MADDENEDBY THE ULTIMATE CREATURE "N".}#081#081
+LA VICTORIA ES TUYA!! 
+EL "SISTEMA DIOS" ENLOQUECIÓ  
+POR LA CRIATURA FINAL "N".   #081
+|81
+@000112BC-000112F8-FF
+;000112BC{THE PEOPLE HAVE REGAINED THEFREEDOM THAT HAD BEEN DENIEDTHEM.}#061#061
+LA GENTE HA RECUPERADO LA   
+LIBERTAD QUE SE LES DENEGÓ. 
+     #061
+|61
+@00011318-00011367-FF
+;00011318{WITH A STRONG WILLPOWER, THEYRWILL RESTORE THE EARTH TO ITSCNATURAL COLOR GREEN.}#080#080
+CON FUERTE VOLUNTAD,         
+R
+LE DEVOLVERÁN A LA TIERRA SU 
+C
+COLOR VERDE NATURAL.#080
+|80
+@0001137C-000113B2-FF
+;0001137C{THE BOY HAS TAKEN OFF AGAINHWITH NEW HOPE IN HIS HEART.}#055#055
+EL CHICO HA VUELTO A SALIR 
+H
+CON UNA NUEVA ESPERANZA.   #055
+|55
+@0006FE88-0006FEB2-FF
+;0006FE88{c TAITO CORPORATION 1991ALL RIGHTS RESERVED}#043#043
+c TAITO CORPORATION 1991
+DERECHOS RESERVADOS#043
+|43

@@ -1,0 +1,92 @@
+@00000AF9-00000B2C-FF
+;00000AF9{~28~~67~SCORE      HI-SCORE~FF~}#031#022
+~28~~67~SCORE      HI-SCORE~FF~#022
+;00000B0F{~28~~8B~00~FF~}#014#005
+~28~~8B~00~FF~#005
+;00000B14{~28~~98~00~FF~}#014#005
+~28~~98~00~FF~#005
+;00000B19{~2A~~47~PUSH START BUTTON~FF~}#029#020
+~2A~~47~PUSH START BUTTON~FF~#020
+|52
+@00000B39-00000B81-FF
+;00000B39{~2B~7c 1986 NAMCO LTD.~FF~}#026#020
+~2B~7c 1986 NAMCO LTD.~FF~#020
+;00000B4D{~2B~~46~ALL RIGHTS RESERVED~FF~}#031#022
+~2B~~46~ALL RIGHTS RESERVED~FF~#022
+;00000B63{~FF~}#004#001
+~FF~#001
+;00000B64{~29~6PLEASE SELECT FLOOR~FF~}#028#022
+~29~6PLEASE SELECT FLOOR~FF~#022
+;00000B7A{~29~~CB~FLOOR~FF~}#017#008
+~29~~CB~FLOOR~FF~#008
+|73
+@00000B89-00000B98-FF
+;00000B89{~28~~ED~READY~FF~}#017#008
+~28~~ED~READY~FF~#008
+;00000B91{~29~~4B~FLOOR~FF~}#017#008
+~29~~4B~FLOOR~FF~#008
+|16
+@00000BF5-00000C1F-FF
+;00000BF5{~29~~CB~GAME OVER~FF~}#021#012
+~29~~CB~GAME OVER~FF~#012
+;00000C01{~2A~~46~YOU MISSED FLOOR~FF~}#028#019
+~2A~~46~YOU MISSED FLOOR~FF~#019
+;00000C14{~2A~~8A~TRY AGAIN~FF~}#021#012
+~2A~~8A~TRY AGAIN~FF~#012
+|43
+@00000C37-00000CC0-FF
+;00000C37{~28~~86~FLOOR~FF~}#017#008
+~28~~86~FLOOR~FF~#008
+;00000C3F{~29~6SCORE~FF~}#014#008
+~29~6SCORE~FF~#008
+;00000C47{~29~P00~FF~}#011#005
+~29~P00~FF~#005
+;00000C4C{~29~~66~GRADE POINT~FF~}#023#014
+~29~~66~GRADE POINT~FF~#014
+;00000C5A{~29~~78~000~FF~}#015#006
+~29~~78~000~FF~#006
+;00000C60{~29~~A6~POWER POINT~FF~}#023#014
+~29~~A6~POWER POINT~FF~#014
+;00000C6E{~29~~B9~00~FF~}#014#005
+~29~~B9~00~FF~#005
+;00000C73{~29~~E6~BONUS~FF~}#017#008
+~29~~E6~BONUS~FF~#008
+;00000C7B{~2A~GX    ~F7~   00~FF~}#023#014
+~2A~GX    ~F7~   00~FF~#014
+;00000C89{~2A~~50~X    ~F7~   00~FF~}#026#014
+~2A~~50~X    ~F7~   00~FF~#014
+;00000C97{~2A~~90~X    ~F7~   00~FF~}#026#014
+~2A~~90~X    ~F7~   00~FF~#014
+;00000CA5{~2A~~D0~X    ~F7~   00~FF~}#026#014
+~2A~~D0~X    ~F7~   00~FF~#014
+;00000CB3{~2B~cFLOOR TOTAL~FF~}#020#014
+~2B~cFLOOR TOTAL~FF~#014
+|138
+@00004145-0000414E-FF
+;00004145{W~60~PASSWORD}#013#010
+W~60~PASSWORD#010
+|10
+@0000B7F0-0000B86F-FF
+;0000B7F0{                    RIGH    LEFT    T..2    ...1    UP..    DOWN    ...3    ...5BABE         KEYL-PR            O               }#128#128
+                    RIGH    LEFT    T..2    ...1    UP..    DOWN    ...3    ...5BABE         KEYL-PR            O               #128
+|128
+@0000B9A0-0000B9CF-FF
+;0000B9A0{   P            LEAS         INPE CH        UT D}#048#048
+   P            LEAS         INPE CH        UT D#048
+|48
+@0000BA00-0000BA77-FF
+;0000BA00{        00000000             CON            GRAT            ULAT            IONSALLE        ATA NGE         WITH        }#120#120
+        00000000             CON            GRAT            ULAT            IONSALLE        ATA NGE         WITH        #120
+|120
+@0000BAC0-0000BB47-FF
+;0000BAC0{       I            N TI            TLE             MODE                  TH            ANK             YOU             VERY            }#136#136
+       I            N TI            TLE             MODE                  TH            ANK             YOU             VERY            #136
+|136
+@0000BB60-0000BC67-FF
+;0000BB60{         MUC            H               SEE             AGAI            N NE            XT G            AME                 TOWE            R OF            THE   FU            KKY                     PRES            ENTE            D BY               ~27~            }#267#264
+         MUC            H               SEE             AGAI            N NE            XT G            AME                 TOWE            R OF            THE   FU            KKY                     PRES            ENTE            D BY               ~27~            #264
+|264
+@0000BD20-0000BDD2-FF
+;0000BD20{                                   Y            OU H        EVERAVE         Y SIFINA        NGLELLY          FLOCONQ        OR OUERE        F...D                     V~48~   V       }#182#179
+                                   Y            OU H        EVERAVE         Y SIFINA        NGLELLY          FLOCONQ        OR OUERE        F...D                     V~48~   V       #179
+|179

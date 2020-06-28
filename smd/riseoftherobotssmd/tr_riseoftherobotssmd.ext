@@ -1,0 +1,658 @@
+@0000044F-000004B7-00
+;0000044F{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DESARROLLADO POR USARSE CON~00~#028
+;0000046B{~12~&~00~}#009#003
+~12~Y~00~#003
+;0000046E{~0F~SYSTEMS.~00~}#016#010
+~0F~SISTEMA.~00~#010
+;00000478{~0C~NTSC MEGA DRIVE~00~}#023#017
+~0C~MEGA DRIVE NTSC~00~#017
+;00000489{~0D~NTSC GENESIS~00~}#020#014
+~0D~GENESIS NTSC~00~#014
+;00000497{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~MEGA DRIVE PAL Y SECAM FRANCESA~00~#033
+|105
+@000048B8-0000497F-00
+;000048B8{    TIME UP     ~00~}#020#017
+   SIN TIEMPO   ~00~#017
+;000048C9{PREPARE TO FIGHT~00~}#020#017
+PREPÁRATE PELEA ~00~#017
+;000048DA{   DEMO MODE    ~00~}#020#017
+   MODO DEMO    ~00~#017
+;000048EB{     PAUSE      ~00~}#020#017
+     PAUSA      ~00~#017
+;000048FC{  CYBORG GANA   ~00~}#020#017
+  CYBORG GANA   ~00~#017
+;0000490D{  LOADER GANA   ~00~}#020#017
+  LOADER GANA   ~00~#017
+;0000491E{  BUILDER GANA  ~00~}#020#017
+  BUILDER GANA  ~00~#017
+;0000492F{  CRUSHER GANA  ~00~}#020#017
+  CRUSHER GANA  ~00~#017
+;00004940{ MILITARY GANA  ~00~}#020#017
+ MILITARY GANA  ~00~#017
+;00004951{  SENTRY GANA   ~00~}#020#017
+  SENTRY GANA   ~00~#017
+;00004962{ SUPERVISOR GANA~00~}#020#017
+SUPERVISORA GANA~00~#017
+;00004973{~00~}#004#001
+~00~#001
+;00004974{J9~FF~~FF~~03~~6E~~66~~00~}#026#008
+J9~FF~~FF~~03~~6E~~66~~00~#008
+;0000497C{~00~}#004#001
+~00~#001
+;0000497D{"A~F9~}#006#003
+"A~F9~#003
+|200
+@00004D9A-000050EB-00
+;00004D9A{MANUFACTURED FOR PLAY ON THE~00~}#032#029
+ MANUFACTURADO PARA JUGARSE ~00~#029
+;00004DB7{   SEGA MEGA DRIVE SYSTEM~00~}#029#026
+   EN LA SEGA MEGA DRIVE ~00~#026
+;00004DD1{         RISE OF THE ROBOTS. [TM]        ~00~}#045#042
+         RISE OF THE ROBOTS. [TM]        ~00~#042
+;00004DFB{       [C]1994 MIRAGE TECHNOLOGIES       ~00~}#045#042
+       [C]1994 MIRAGE TECHNOLOGIES       ~00~#042
+;00004E25{            [MULTIMEDIA] LTD.            ~00~}#045#042
+            [MULTIMEDIA] LTD.            ~00~#042
+;00004E4F{               LICENSED TO               ~00~}#045#042
+               LICENCIADO A              ~00~#042
+;00004E79{        ACCLAIM ENTERTAINMENT INC.       ~00~}#045#042
+        ACCLAIM ENTERTAINMENT INC.       ~00~#042
+;00004EA3{  MIRAGE[TM] AND RISE OF THE ROBOTS[TM]  ~00~}#045#042
+   MIRAGE[TM] Y RISE OF THE ROBOTS[TM]   ~00~#042
+;00004ECD{            ARE TRADEMARKS OF            ~00~}#045#042
+        SON MARCAS COMERCIALES DE        ~00~#042
+;00004EF7{  MIRAGE TECHNOLOGIES [MULTIMEDIA] LTD.  ~00~}#045#042
+  MIRAGE TECHNOLOGIES [MULTIMEDIA] LTD.  ~00~#042
+;00004F21{        AND USED WITH PERMISSION.        ~00~}#045#042
+          Y SE USAN CON PERMISO.         ~00~#042
+;00004F4B{           ALL RIGHTS RESERVED.          ~00~}#045#042
+      TODOS LOS DERECHOS RESERVADOS.     ~00~#042
+;00004F75{    LICENSED BY SEGA ENTERPRISES LTD.    ~00~}#045#042
+   LICENCIADO POR SEGA ENTERPRISES LTD.  ~00~#042
+;00004F9F{  "THE DARK" AND OTHER INCIDENTAL MUSIC  ~00~}#045#042
+    "THE DARK" Y OTRA MÚSICA ACCESORIA   ~00~#042
+;00004FC9{   COMPOSED AND PERFORMED BY BRIAN MAY.  ~00~}#045#042
+ COMPUESTA E INTERPRETADA POR BRIAN MAY. ~00~#042
+;00004FF3{       PUBLISHED BY QUEEN MUSIC LTD      ~00~}#045#042
+      PUBLICADO POR QUEEN MUSIC LTD      ~00~#042
+;0000501D{        /EMI MUSIC PUBLISHING LTD.       ~00~}#045#042
+        /EMI MUSIC PUBLISHING LTD.       ~00~#042
+;00005047{       PUBLISHED BY QUEEN MUSIC LTD~09~  ~00~}#045#039
+       PUBLICADO POR QUEEN MUSIC LTD~09~ ~00~#039
+;0000506E{     /LES EDITIONS MAROUANI IN FRANCE.   ~00~}#045#042
+    /LES EDITIONS MAROUANI EN FRANCIA.   ~00~#042
+;00005098{        "BRIAN MAY IS AN EXCLUSIVE       ~00~}#045#042
+         "BRIAN MAY ES UN ARTISTA        ~00~#042
+;000050C2{      EMI RECORDS RECORDING ARTIST."     ~00~}#045#042
+        EXCLUSIVO DE EMI RECORDS."       ~00~#042
+|850
+@00006F2C-00006F36-00
+;00006F2C{GAME OVER.~00~}#014#011
+FIN JUEGO.~00~#011
+|11
+@00007D98-0000971F-00
+;00007D98{           RISE OF THE ROBOTS             ~00~}#046#043
+       EL ALZAMIENTO DE LOS ROBOTS        ~00~#043
+;00007DC3{                                          ~00~}#046#043
+                                          ~00~#043
+;00007DEE{                                          ~00~}#046#043
+                                          ~00~#043
+;00007E19{                                          ~00~}#046#043
+                                          ~00~#043
+;00007E44{           ORIGINAL GAME BY :             ~00~}#046#043
+           JUEGO ORIGINAL POR:            ~00~#043
+;00007E6F{        INSTINCT DESIGN / MIRAGE.         ~00~}#046#043
+        INSTINCT DESIGN / MIRAGE.         ~00~#043
+;00007E9A{                                          ~00~}#046#043
+                                          ~00~#043
+;00007EC5{                                          ~00~}#046#043
+                                          ~00~#043
+;00007EF0{             CONVERSION BY :              ~00~}#046#043
+             CONVERSIÓN POR:              ~00~#043
+;00007F1B{        DATA DESIGN INTERACTIVE.          ~00~}#046#043
+        DATA DESIGN INTERACTIVE.          ~00~#043
+;00007F46{                                          ~00~}#046#043
+                                          ~00~#043
+;00007F71{                                          ~00~}#046#043
+                                          ~00~#043
+;00007F9C{                CREDITS                   ~00~}#046#043
+                CRÉDITOS                  ~00~#043
+;00007FC7{                                          ~00~}#046#043
+                                          ~00~#043
+;00007FF2{                                          ~00~}#046#043
+                                          ~00~#043
+;0000801D{                                          ~00~}#046#043
+                                          ~00~#043
+;00008048{           DATA DESIGN STAFF.             ~00~}#046#043
+           EQUIPO DATA DESIGN.            ~00~#043
+;00008073{                                          ~00~}#046#043
+                                          ~00~#043
+;0000809E{                                          ~00~}#046#043
+                                          ~00~#043
+;000080C9{                                          ~00~}#046#043
+                                          ~00~#043
+;000080F4{        MEGA DRIVE AND MEGA-CD            ~00~}#046#043
+         MEGA DRIVE Y MEGA-CD             ~00~#043
+;0000811F{            PROGRAMMING BY                ~00~}#046#043
+            PROGRAMADO POR                ~00~#043
+;0000814A{          ANTONIO ARGENTIERI.             ~00~}#046#043
+          ANTONIO ARGENTIERI.             ~00~#043
+;00008175{                                          ~00~}#046#043
+                                          ~00~#043
+;000081A0{                                          ~00~}#046#043
+                                          ~00~#043
+;000081CB{          SNES PROGRAMMING BY             ~00~}#046#043
+         PROGRAMACIÓN SNES POR            ~00~#043
+;000081F6{            TONY STODDART.                ~00~}#046#043
+            TONY STODDART.                ~00~#043
+;00008221{                                          ~00~}#046#043
+                                          ~00~#043
+;0000824C{                                          ~00~}#046#043
+                                          ~00~#043
+;00008277{        GAMEGEAR PROGRAMMING BY           ~00~}#046#043
+       PROGRAMACIÓN GAMEGEAR POR          ~00~#043
+;000082A2{            CLIVE TOWNSEND.               ~00~}#046#043
+            CLIVE TOWNSEND.               ~00~#043
+;000082CD{                                          ~00~}#046#043
+                                          ~00~#043
+;000082F8{                                          ~00~}#046#043
+                                          ~00~#043
+;00008323{               GRAPHICS                   ~00~}#046#043
+               GRÁFICOS                   ~00~#043
+;0000834E{              JOHN DUNN.                  ~00~}#046#043
+              JOHN DUNN.                  ~00~#043
+;00008379{            RICHARD PRIEST.               ~00~}#046#043
+            RICHARD PRIEST.               ~00~#043
+;000083A4{              JON BAKER.                  ~00~}#046#043
+              JON BAKER.                  ~00~#043
+;000083CF{                                          ~00~}#046#043
+                                          ~00~#043
+;000083FA{                                          ~00~}#046#043
+                                          ~00~#043
+;00008425{          GRAPHIC UTILITIES               ~00~}#046#043
+         UTILIDADES GRÁFICAS              ~00~#043
+;00008450{            CHRIS GUEST.                  ~00~}#046#043
+            CHRIS GUEST.                  ~00~#043
+;0000847B{           DAVE PEMBERTON.                ~00~}#046#043
+           DAVE PEMBERTON.                ~00~#043
+;000084A6{                                          ~00~}#046#043
+                                          ~00~#043
+;000084D1{                                          ~00~}#046#043
+                                          ~00~#043
+;000084FC{      ANIMATION CONVERSIONS BY            ~00~}#046#043
+    CONVERSIÓN DE ANIMACIONES POR         ~00~#043
+;00008527{           DALE JOHNSTONE.                ~00~}#046#043
+           DALE JOHNSTONE.                ~00~#043
+;00008552{                                          ~00~}#046#043
+                                          ~00~#043
+;0000857D{                                          ~00~}#046#043
+                                          ~00~#043
+;000085A8{       GRAPHIC CONVERSIONS BY             ~00~}#046#043
+       CONVERSIÓN GRÁFICA POR             ~00~#043
+;000085D3{           TONY  HACKETT.                 ~00~}#046#043
+           TONY  HACKETT.                 ~00~#043
+;000085FE{                                          ~00~}#046#043
+                                          ~00~#043
+;00008629{                                          ~00~}#046#043
+                                          ~00~#043
+;00008654{       PROJECT ASSISTANCE BY              ~00~}#046#043
+       AYUDA DE PROYECTO POR              ~00~#043
+;0000867F{           STEWART GREEN.                 ~00~}#046#043
+           STEWART GREEN.                 ~00~#043
+;000086AA{            ADAM PRIEST.                  ~00~}#046#043
+            ADAM PRIEST.                  ~00~#043
+;000086D5{                                          ~00~}#046#043
+                                          ~00~#043
+;00008700{                                          ~00~}#046#043
+                                          ~00~#043
+;0000872B{                                          ~00~}#046#043
+                                          ~00~#043
+;00008756{                                          ~00~}#046#043
+                                          ~00~#043
+;00008781{                                          ~00~}#046#043
+                                          ~00~#043
+;000087AC{     MIRAGE/INSTINCT DESIGN STAFF.        ~00~}#046#043
+     EQUIPO MIRAGE/INSTINCT DESIGN.       ~00~#043
+;000087D7{                                          ~00~}#046#043
+                                          ~00~#043
+;00008802{                                          ~00~}#046#043
+                                          ~00~#043
+;0000882D{                                          ~00~}#046#043
+                                          ~00~#043
+;00008858{            PRODUCED BY                   ~00~}#046#043
+           PRODUCIDO POR                  ~00~#043
+;00008883{            PETER JONES.                  ~00~}#046#043
+            PETER JONES.                  ~00~#043
+;000088AE{           SEAN GRIFFITHS.                ~00~}#046#043
+           SEAN GRIFFITHS.                ~00~#043
+;000088D9{             ANDY WOOD.                   ~00~}#046#043
+             ANDY WOOD.                   ~00~#043
+;00008904{                                          ~00~}#046#043
+                                          ~00~#043
+;0000892F{                                          ~00~}#046#043
+                                          ~00~#043
+;0000895A{       DESIGNED AND DIRECTED BY           ~00~}#046#043
+       DISEÑADO Y DIRIGIDO POR            ~00~#043
+;00008985{            SEAN GRIFFITHS.               ~00~}#046#043
+            SEAN GRIFFITHS.               ~00~#043
+;000089B0{                                          ~00~}#046#043
+                                          ~00~#043
+;000089DB{                                          ~00~}#046#043
+                                          ~00~#043
+;00008A06{        MUSICAL CO-ORDINATION             ~00~}#046#043
+         COORDINACIÓN MUSICAL             ~00~#043
+;00008A31{           RICHARD JOSEPH.                ~00~}#046#043
+           RICHARD JOSEPH.                ~00~#043
+;00008A5C{             ANDY WOOD.                   ~00~}#046#043
+             ANDY WOOD.                   ~00~#043
+;00008A87{                                          ~00~}#046#043
+                                          ~00~#043
+;00008AB2{                                          ~00~}#046#043
+                                          ~00~#043
+;00008ADD{           GAME SOUNDTRACK                ~00~}#046#043
+        BANDA SONORA DEL JUEGO            ~00~#043
+;00008B08{           RICHARD JOSEPH.                ~00~}#046#043
+           RICHARD JOSEPH.                ~00~#043
+;00008B33{                                          ~00~}#046#043
+                                          ~00~#043
+;00008B5E{                                          ~00~}#046#043
+                                          ~00~#043
+;00008B89{             GAME MUSIC                   ~00~}#046#043
+          MÚSICA DEL JUEGO                ~00~#043
+;00008BB4{             JASON PAGE.                  ~00~}#046#043
+             JASON PAGE.                  ~00~#043
+;00008BDF{      CONVERSIONS BY GRAHAM KING.         ~00~}#046#043
+     CONVERSIONES POR GRAHAM KING.        ~00~#043
+;00008C0A{      PRODUCED BY RICHARD JOSEPH.         ~00~}#046#043
+     PRODUCIDO POR RICHARD JOSEPH.        ~00~#043
+;00008C35{                                          ~00~}#046#043
+                                          ~00~#043
+;00008C60{                                          ~00~}#046#043
+                                          ~00~#043
+;00008C8B{           ORIGINAL MUSIC                 ~00~}#046#043
+           MÚSICA ORIGINAL                ~00~#043
+;00008CB6{             BRIAN MAY.                   ~00~}#046#043
+             BRIAN MAY.                   ~00~#043
+;00008CE1{                                          ~00~}#046#043
+                                          ~00~#043
+;00008D0C{                                          ~00~}#046#043
+                                          ~00~#043
+;00008D37{             SET DESIGN                   ~00~}#046#043
+             DISEÑO SET                   ~00~#043
+;00008D62{              KWAN LEE.                   ~00~}#046#043
+              KWAN LEE.                   ~00~#043
+;00008D8D{                                          ~00~}#046#043
+                                          ~00~#043
+;00008DB8{                                          ~00~}#046#043
+                                          ~00~#043
+;00008DE3{          SET CONSTRUCTION                ~00~}#046#043
+          CONSTRUCCIÓN SET                ~00~#043
+;00008E0E{         INTERACTIVE IMAGES.              ~00~}#046#043
+         INTERACTIVE IMAGES.              ~00~#043
+;00008E39{                                          ~00~}#046#043
+                                          ~00~#043
+;00008E64{                                          ~00~}#046#043
+                                          ~00~#043
+;00008E8F{           SENIOR ARTISTS                 ~00~}#046#043
+           ARTISTAS SÉNIOR                ~00~#043
+;00008EBA{             SEAN NADEN.                  ~00~}#046#043
+             SEAN NADEN.                  ~00~#043
+;00008EE5{             INTERACTIVE.                 ~00~}#046#043
+             INTERACTIVE.                 ~00~#043
+;00008F10{                                          ~00~}#046#043
+                                          ~00~#043
+;00008F3B{                                          ~00~}#046#043
+                                          ~00~#043
+;00008F66{          CHARACTER DESIGN                ~00~}#046#043
+        DISEÑO DE PERSONAJES              ~00~#043
+;00008F91{             SEAN NADEN.                  ~00~}#046#043
+             SEAN NADEN.                  ~00~#043
+;00008FBC{             INTERACTIVE.                 ~00~}#046#043
+             INTERACTIVE.                 ~00~#043
+;00008FE7{                                          ~00~}#046#043
+                                          ~00~#043
+;00009012{                                          ~00~}#046#043
+                                          ~00~#043
+;0000903D{          SENIOR PROGRAMMERS              ~00~}#046#043
+         PROGRAMADORES SÉNIOR             ~00~#043
+;00009068{          ANDY CLARK [AMIGA].             ~00~}#046#043
+          ANDY CLARK [AMIGA].             ~00~#043
+;00009093{     GARY LEACH [PC AND COIN OP].         ~00~}#046#043
+     GARY LEACH [PC Y RECREATIVA].        ~00~#043
+;000090BE{                                          ~00~}#046#043
+                                          ~00~#043
+;000090E9{                                          ~00~}#046#043
+                                          ~00~#043
+;00009114{             CONVERSIONS                  ~00~}#046#043
+             CONVERSIONES                 ~00~#043
+;0000913F{            GINA JACKSON.                 ~00~}#046#043
+            GINA JACKSON.                 ~00~#043
+;0000916A{                                          ~00~}#046#043
+                                          ~00~#043
+;00009195{                                          ~00~}#046#043
+                                          ~00~#043
+;000091C0{             PROGRAMMERS                  ~00~}#046#043
+            PROGRAMADORES                 ~00~#043
+;000091EB{          PETE DABBS [CDI].               ~00~}#046#043
+          PETE DABBS [CDI].               ~00~#043
+;00009216{          KEITH WOOD [3DO].               ~00~}#046#043
+          KEITH WOOD [3DO].               ~00~#043
+;00009241{                                          ~00~}#046#043
+                                          ~00~#043
+;0000926C{                                          ~00~}#046#043
+                                          ~00~#043
+;00009297{        MARKETING AND PUBLICITY           ~00~}#046#043
+         MARKETING Y PUBLICIDAD           ~00~#043
+;000092C2{             JULIA COOMBS.                ~00~}#046#043
+             JULIA COOMBS.                ~00~#043
+;000092ED{      SUPPORTED BY DECLAN BRENNAN.        ~00~}#046#043
+      AYUDADA POR DECLAN BRENNAN.         ~00~#043
+;00009318{                                          ~00~}#046#043
+                                          ~00~#043
+;00009343{                                          ~00~}#046#043
+                                          ~00~#043
+;0000936E{             DISTRIBUTION                 ~00~}#046#043
+             DISTRIBUCIÓN                 ~00~#043
+;00009399{             ROY CAMPBELL.                ~00~}#046#043
+             ROY CAMPBELL.                ~00~#043
+;000093C4{             DAVE COTTON.                 ~00~}#046#043
+             DAVE COTTON.                 ~00~#043
+;000093EF{              ANDY WOOD.                  ~00~}#046#043
+              ANDY WOOD.                  ~00~#043
+;0000941A{                                          ~00~}#046#043
+                                          ~00~#043
+;00009445{                                          ~00~}#046#043
+                                          ~00~#043
+;00009470{            SCRIPT WRITING                ~00~}#046#043
+          ESCRITURA DE GUIÓN              ~00~#043
+;0000949B{             JIM MURDOCH.                 ~00~}#046#043
+             JIM MURDOCH.                 ~00~#043
+;000094C6{                                          ~00~}#046#043
+                                          ~00~#043
+;000094F1{                                          ~00~}#046#043
+                                          ~00~#043
+;0000951C{           QUALITY CONTROL                ~00~}#046#043
+          CONTROL DE CALIDAD              ~00~#043
+;00009547{           PAUL BADDELEY.                 ~00~}#046#043
+           PAUL BADDELEY.                 ~00~#043
+;00009572{           DAVID CAPEWELL.                ~00~}#046#043
+           DAVID CAPEWELL.                ~00~#043
+;0000959D{            CARL CARTER.                  ~00~}#046#043
+            CARL CARTER.                  ~00~#043
+;000095C8{         MATTHEW HAWKESWOOD.              ~00~}#046#043
+         MATTHEW HAWKESWOOD.              ~00~#043
+;000095F3{              LEE SALT.                   ~00~}#046#043
+              LEE SALT.                   ~00~#043
+;0000961E{           THOMAS WARDLE.                 ~00~}#046#043
+           THOMAS WARDLE.                 ~00~#043
+;00009649{                                          ~00~}#046#043
+                                          ~00~#043
+;00009674{                                          ~00~}#046#043
+                                          ~00~#043
+;0000969F{                                          ~00~}#046#043
+                                          ~00~#043
+;000096CA{                                          ~00~}#046#043
+                                          ~00~#043
+;000096F5{                                          ~00~}#046#043
+                                          ~00~#043
+|6536
+@00009721-00009ADA-00
+;00009721{           CONGRATULATIONS                ~00~}#046#043
+             FELICIDADES                  ~00~#043
+;0000974C{~FE~   YOU HAVE COMPLETED THE GAME ON THE     ~00~}#050#044
+~FE~      HAS COMPLETADO EL JUEGO EN EL       ~00~#044
+;00009778{~FE~             HARD LEVEL.                  ~00~}#050#044
+~FE~             NIVEL DURO.                  ~00~#044
+;000097A4{~FE~    YOU CAN NOW PLAY THE SUPERVISOR       ~00~}#050#044
+~FE~  AHORA PUEDES JUGAR CON LA SUPERVISORA   ~00~#044
+;000097D0{~FE~   IN 2 PLAYER MODE BY PUSHING THIS       ~00~}#050#044
+~FE~     EN 2 JUGADORES PULSANDO ESTA         ~00~#044
+;000097FC{~FE~    SEQUENCE ON THE OPTIONS SCREEN        ~00~}#050#044
+~FE~      SECUENCIA EN LAS OPCIONES           ~00~#044
+;00009828{~FE~                                          ~00~}#050#044
+~FE~                                          ~00~#044
+;00009854{~FE~ UP UP DOWN DOWN LEFT LEFT RIGHT RIGHT    ~00~}#050#044
+~FE~    ARR ARR ABA ABA IZQ IZQ DER DER       ~00~#044
+;00009880{~FE~             A B C A B C                  ~00~}#050#044
+~FE~             A B C A B C                  ~00~#044
+;000098AC{                                          ~00~}#046#043
+                                          ~00~#043
+;000098D7{                                          ~00~}#046#043
+                                          ~00~#043
+;00009902{                                          ~00~}#046#043
+                                          ~00~#043
+;0000992D{                                          ~00~}#046#043
+                                          ~00~#043
+;00009958{                                          ~00~}#046#043
+                                          ~00~#043
+;00009983{                                          ~00~}#046#043
+                                          ~00~#043
+;000099AE{                                          ~00~}#046#043
+                                          ~00~#043
+;000099D9{                THE END.                  ~00~}#046#043
+                  FIN.                    ~00~#043
+;00009A04{                                          ~00~}#046#043
+                                          ~00~#043
+;00009A2F{                                          ~00~}#046#043
+                                          ~00~#043
+;00009A5A{                                          ~00~}#046#043
+                                          ~00~#043
+;00009A85{                                          ~00~}#046#043
+                                          ~00~#043
+;00009AB0{                                          ~00~}#046#043
+                                          ~00~#043
+|954
+@0000BC38-0000BCE2-00
+;0000BC38{GAME OPTIONS~00~}#016#013
+  OPCIONES  ~00~#013
+;0000BC45{ DIFFICULTY~00~}#015#012
+ DIFICULTAD~00~#012
+;0000BC51{      TIMER~00~}#015#012
+     TIEMPO~00~#012
+;0000BC5D{ CINEMATICS~00~}#015#012
+CINEMÁTICAS~00~#012
+;0000BC69{      BOUTS~00~}#015#012
+    ASALTOS~00~#012
+;0000BC75{SUPER MOVES~00~}#015#012
+SUPER MOVIM~00~#012
+;0000BC81{ MUSIC TEST~00~}#015#012
+TEST MÚSICA~00~#012
+;0000BC8D{   SFX TEST~00~}#015#012
+TEST EFECTO~00~#012
+;0000BC99{~00~}#004#001
+~00~#001
+;0000BC9A{EASY  ~00~}#010#007
+FÁCIL ~00~#007
+;0000BCA1{MEDIUM~00~}#010#007
+MEDIA ~00~#007
+;0000BCA8{HARD  ~00~}#010#007
+DURA  ~00~#007
+;0000BCAF{30 SECONDS~00~}#014#011
+30SEGUNDOS~00~#011
+;0000BCBA{60 SECONDS~00~}#014#011
+60SEGUNDOS~00~#011
+;0000BCC5{90 SECONDS~00~}#014#011
+90SEGUNDOS~00~#011
+;0000BCD0{NO TIMER  ~00~}#014#011
+SIN TIEMPO~00~#011
+;0000BCDB{ON ~00~}#007#004
+SÍ ~00~#004
+;0000BCDF{OFF~00~}#007#004
+NO ~00~#004
+|171
+@0000F302-0000F358-00
+;0000F302{ 1 PLAYER MISSION~00~}#021#018
+MISIÓN 1 JUGADOR ~00~#018
+;0000F314{1 PLAYER TRAINING~00~}#021#018
+1 JUGADOR ENTRENA~00~#018
+;0000F326{    2 PLAYER VS~00~}#019#016
+ VS 2 JUGADORES~00~#016
+;0000F336{      OPTIONS  ~00~}#019#016
+    OPCIONES   ~00~#016
+;0000F346{                  ~00~}#022#019
+                  ~00~#019
+|87
+@00010702-0001073D-00
+;00010702{PLAYER 1 SELECT YOUR OPPONENT~00~}#033#030
+JUGADOR 1 ELIGE A TU OPONENTE~00~#030
+;00010720{PLAYER 2 SELECT YOUR FIGHTER ~00~}#033#030
+JUGADOR 2 ELIGE A TU LUCHADOR~00~#030
+|60
+@002F06DE-002F07D9-00
+;002F06DE{NRG:~00~}#008#005
+NRG:~00~#005
+;002F06E3{:NRG~00~}#008#005
+:NRG~00~#005
+;002F06E8{CYBORG   ~00~}#013#010
+CYBORG   ~00~#010
+;002F06F2{   LOADER~00~}#013#010
+   LOADER~00~#010
+;002F06FC{  BUILDER~00~}#013#010
+  BUILDER~00~#010
+;002F0706{  CRUSHER~00~}#013#010
+  CRUSHER~00~#010
+;002F0710{ MILITARY~00~}#013#010
+ MILITARY~00~#010
+;002F071A{   SENTRY~00~}#013#010
+   SENTRY~00~#010
+;002F0724{    SUPER~00~}#013#010
+    SUPER~00~#010
+;002F072E{POWER FAILURE.~00~}#018#015
+FALLO ENERGÍA.~00~#015
+;002F073D{REGENERATING GRID.~00~}#022#019
+REJA REGENERÁNDOSE~00~#019
+;002F0750{GRID ACTIVE...~00~}#018#015
+REJA ACTIVA...~00~#015
+;002F075F{READY.~00~}#010#007
+LISTO.~00~#007
+;002F0766{LOADER DESTRUIDO.~00~}#021#018
+LOADER DESTRUIDO.~00~#018
+;002F0778{BUILDER DESTRUIDO.~00~}#022#019
+BUILDER DESTRUIDO.~00~#019
+;002F078B{CRUSHER DESTRUIDO.~00~}#022#019
+CRUSHER DESTRUIDO.~00~#019
+;002F079E{MILITARY DESTRUIDO.~00~}#023#020
+MILITARY DESTRUIDO.~00~#020
+;002F07B2{SENTRY DESTRUIDO.~00~}#021#018
+SENTRY DESTRUIDO.~00~#018
+;002F07C4{SUPERVISOR DESTRUIDO.~00~}#025#022
+SUPERVISORA DESTRUIDA~00~#022
+|252
+@002F07DA-002F0BE2-00
+;002F07DA{PROCEED WITH CAUTION......~00~}#030#027
+PROCEDE CON CAUTELA.......~00~#027
+;002F07F5{MISSION COMPLETE......~00~}#026#023
+MISIÓN COMPLETADA.....~00~#023
+;002F080C{~00~}#004#001
+~00~#001
+;002F080D{ANALYSING FORM.......~00~}#025#022
+ANALIZANDO FORMA.....~00~#022
+;002F0823{WAIT.~00~}#009#006
+ESPE.~00~#006
+;002F0829{.~00~}#005#002
+.~00~#002
+;002F082B{ENEMY APPROACHING.....~00~}#026#023
+ENEMIGO ACERCÁNDOSE...~00~#023
+;002F0842{PLEASE WAIT.....~00~}#020#017
+ESPERA POR FAVOR~00~#017
+;002F0853{ROBOT IDENTIFICADO-LOADER CLASS 1.~00~}#038#035
+ROBOT IDENTIFICADO-LOADER CLASE 1.~00~#035
+;002F0876{CARGANDO PARTES DE ROBOT.~00~}#029#026
+ROBOT CARGA COMPONENTES. ~00~#026
+;002F0890{INTELIGENCIA     - LOW.~00~}#027#024
+INTELIGENCIA     - BAJA~00~#024
+;002F08A8{POTENCIA         - LOW.~00~}#027#024
+POTENCIA         - BAJA~00~#024
+;002F08C0{HABILIDAD COMBATE- POOR.~00~}#028#025
+HABILIDAD COMBATE- POBRE~00~#025
+;002F08D9{FORTALEZAS       - SOLID BUILD.~00~}#035#032
+FORTALEZAS       - RESISTENTE  ~00~#032
+;002F08F9{PUNTOS DÉBILES   - SPEED,~00~}#029#026
+PUNTOS DÉBILES   - PRISA ~00~#026
+;002F0913{AMENAZA          - MINIMUM~00~}#030#027
+AMENAZA          - MÍNIMA ~00~#027
+;002F092E{ROBOT IDENTIFICADO-BUILDER CLASS 2.~00~}#039#036
+ROBOT IDENTIFICADO-BUILDER CLASE 2.~00~#036
+;002F0952{HEAVY CONSTRUCTION ROBOT~00~}#028#025
+CONSTRUCCIÓN PESADA.    ~00~#025
+;002F096B{INTELIGENCIA     - LOW.~00~}#027#024
+INTELIGENCIA     - BAJA~00~#024
+;002F0983{POTENCIA         - HIGH.~00~}#028#025
+POTENCIA         - ALTA ~00~#025
+;002F099C{HABILIDAD COMBATE- AVERAGE.~00~}#031#028
+HABILIDAD COMBATE- PROMEDIA~00~#028
+;002F09B8{FORTALEZAS       - POWERFUL ARMS~00~}#036#033
+FORTALEZAS       - PODER BRAZOS ~00~#033
+;002F09D9{PUNTOS DÉBILES   - SPEED~00~}#028#025
+PUNTOS DÉBILES   - PRISA~00~#025
+;002F09F2{AMENAZA          - MINIMUM~00~}#030#027
+AMENAZA          - MÍNIMA ~00~#027
+;002F0A0D{ROBOT IDENTIFICADO-CRUSHER~00~}#030#027
+ROBOT IDENTIFICADO-CRUSHER~00~#027
+;002F0A28{DISMANTLING ROBOT.~00~}#022#019
+DESMANTELADOR.    ~00~#019
+;002F0A3B{INTELIGENCIA     - MEDIUM.~00~}#030#027
+INTELIGENCIA     - MEDIA  ~00~#027
+;002F0A56{POTENCIA         - AVERAGE.~00~}#031#028
+POTENCIA         - PROMEDIA~00~#028
+;002F0A72{HABILIDAD COMBATE- GOOD.~00~}#028#025
+HABILIDAD COMBATE- BUENA~00~#025
+;002F0A8B{FORTALEZAS       - AGILITY.~00~}#031#028
+FORTALEZAS       - AGILIDAD~00~#028
+;002F0AA7{PUNTOS DÉBILES   - HEAD, WEAK LIMBS.~00~}#040#037
+PUNTOS DÉBILES   - CABEZA, MIEMBROS ~00~#037
+;002F0ACC{AMENAZA          - DANGEROUS~00~}#032#029
+AMENAZA          - PELIGROSO~00~#029
+;002F0AE9{ROBOT UNIDENTIFIED - NO DATA.~00~}#033#030
+ROBOT SIN IDENTIFICAR - NADA ~00~#030
+;002F0B07{ANALYSIS CONTINUING :~00~}#025#022
+SIGUIENDO ANÁLISIS : ~00~#022
+;002F0B1D{INTELIGENCIA     - HIGH.~00~}#028#025
+INTELIGENCIA     - ALTA ~00~#025
+;002F0B36{POTENCIA         - GOOD.~00~}#028#025
+POTENCIA         - BUENA~00~#025
+;002F0B4F{HABILIDAD COMBATE- GOOD.~00~}#028#025
+HABILIDAD COMBATE- BUENA~00~#025
+;002F0B68{FORTALEZAS       - INTELIGENCIA.~00~}#036#033
+FORTALEZAS       - INTELIGENCIA ~00~#033
+;002F0B89{PUNTOS DÉBILES   - WEAK FRAME.~00~}#034#031
+PUNTOS DÉBILES   - MARCO DÉBIL~00~#031
+;002F0BA8{AMENAZA          - HIGH.~00~}#028#025
+AMENAZA          - ALTA ~00~#025
+;002F0BC1{ROBOT IDENTIFICADO-SECURITY DROID~00~}#037#034
+ROBOT IDENTIFICADO-DROIDE SEGURI.~00~#034
+|1033
+@002F0BE3-002F0D99-00
+;002F0BE3{INTELIGENCIA     - HIGH.~00~}#028#025
+INTELIGENCIA     - ALTA ~00~#025
+;002F0BFC{POTENCIA         - GOOD.~00~}#028#025
+POTENCIA         - BUENA~00~#025
+;002F0C15{HABILIDAD COMBATE- EXCELENTE~00~}#032#029
+HABILIDAD COMBATE- EXCELENTE~00~#029
+;002F0C32{FORTALEZAS       - AGILITY, SPEED.~00~}#038#035
+FORTALEZAS       - ÁGIL, VELOZ    ~00~#035
+;002F0C55{PUNTOS DÉBILES   - NONE IDENTIFIED.~00~}#039#036
+PUNTOS DÉBILES   - SIN IDENTIFICAR ~00~#036
+;002F0C79{AMENAZA          - HIGH~00~}#027#024
+AMENAZA          - ALTA~00~#024
+;002F0C91{ROBOT IDENTIFICADO-SUPERVISOR~00~}#033#030
+ROBOT IDENT. - SUPERVISORA   ~00~#030
+;002F0CAF{ANALYSIS CONTINUING:~00~}#024#021
+SIGUIENDO ANÁLISIS: ~00~#021
+;002F0CC4{INTELIGENCIA     - EXCELENTE.~00~}#033#030
+INTELIGENCIA     - EXCELENTE ~00~#030
+;002F0CE2{POTENCIA         - EXCELENTE.~00~}#033#030
+POTENCIA         - EXCELENTE ~00~#030
+;002F0D00{HABILIDAD COMBATE- EXCELENTE.~00~}#033#030
+HABILIDAD COMBATE- EXCELENTE ~00~#030
+;002F0D1E{FORTALEZAS       - AGILTY,SPEED,~00~}#036#033
+FORTALEZAS       - ÁGIL, VELOZ, ~00~#033
+;002F0D3F{                   INTELIGENCIA.~00~}#036#033
+                     INTELIGENTE~00~#033
+;002F0D60{PUNTOS DÉBILES   - NONE~00~}#027#024
+PUNTOS DÉBILES   - NADA~00~#024
+;002F0D78{AMENAZA          - EXTREMLY HIGH.~00~}#037#034
+AMENAZA          - MUY ALTA      ~00~#034
+|439

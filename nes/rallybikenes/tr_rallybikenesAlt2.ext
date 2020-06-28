@@ -1,0 +1,86 @@
+@0000F001-0000F008-FF
+;0000F001{STNDRDTH}#008#008
+RODOROO #008
+|8
+@00013D57-00013E0A-FF
+;00013D57{    BONUS STAGE                         ^   X100=    0POINTS   PERFECT BONUS                             5000POINTS!        BONUS STAGE                               NO BONUS      }#180#180
+    ETAPA BONOS                         ^   X100=    0PUNTOS   BONO PERFECTO                             5000PUNTOS!        ETAPA BONOS                               SIN BONO      #180
+|180
+@000184BA-00018764-FF
+;000184BA{              REMAINING FUEL                                         CC                                    BONUS POINTS                                         0PTS                                 YOUR RANK IS                               SPECIAL BONUS 5000PTS      REMAINING FUEL                                         CC                                    BONUS POINTS                                         0PTS                                 YOUR RANK IS                                YOU PASSED THIS RACE   TOTAL      0PTS          CHALLENGE LAX RACE      CHALLENGE PHX RACE    CHALLENGE BONUS GAME !    CHALLENGE DEN RACE      CHALLENGE NY RACE       CHALLENGE SFO RACE   }#683#683
+           COMBUSTIBLE RESTANTE                                      CC                                    PUNTOS BONOS                                         0PTS                               TU POSICIÓN ES                               BONO ESPECIAL 5000PTS   COMBUSTIBLE RESTANTE                                      CC                                    PUNTOS BONOS                                         0PTS                                CLASIFICACIÓN                                
+PASASTE ESTA CARRERA   TOTAL      0PTS 
+        DESAFÍA CARRERA LAX     DESAFÍA CARRERA PHX    DESAFÍA JUEGO BONOS !    DESAFÍA CARRERA DEN     DESAFÍA CARRERA NY      DESAFÍA CARRERA SFO   #683
+|683
+@0001B95F-0001B97E-FF
+;0001B95F{            parts               }#032#032
+            partes              #032
+|32
+@0001B9C2-0001B9C7-FF
+;0001B9C2{~57~y~59~e~61~~60~}#018#006
+~57~i~59~o~61~~60~#006
+|6
+@0001B9E9-0001B9EE-FF
+;0001B9E9{~5D~~5B~y~5B~~5C~e}#018#006
+~5D~~5B~i~5B~~5C~o#006
+|6
+@0001B9F5-0001B9FE-FF
+;0001B9F5{('''''\   }#010#010
+(''''''\  #010
+|10
+@0001BA15-0001BA1E-FF
+;0001BA15{]     ]   }#010#010
+]      ]  #010
+|10
+@0001BA35-0001BA3E-FF
+;0001BA35{] rain]   }#010#010
+]LLUVIA]  #010
+|10
+@0001BA55-0001BA5E-FF
+;0001BA55{)_____/   }#010#010
+)______/  #010
+|10
+@0001BAB5-0001BABE-FF
+;0001BAB5{('''''\   }#010#010
+(''''''\  #010
+|10
+@0001BAD5-0001BADE-FF
+;0001BAD5{]     ]   }#010#010
+]      ]  #010
+|10
+@0001BAF5-0001BAFE-FF
+;0001BAF5{]brock]   }#010#010
+] brock]  #010
+|10
+@0001BB02-0001BB07-FF
+;0001BB02{~8E~~8F~~90~~91~~94~~96~}#024#006
+~8E~i~90~o~94~~96~#006
+|6
+@0001BB15-0001BB1E-FF
+;0001BB15{)_____/   }#010#010
+)______/  #010
+|10
+@0001BB29-0001BB2E-FF
+;0001BB29{~95~~92~~8F~~92~~93~~91~}#024#006
+~95~~92~i~92~~93~o#006
+|6
+@0001BB75-0001BB7E-FF
+;0001BB75{('''''\   }#010#010
+(''''''\  #010
+|10
+@0001BB95-0001BB9E-FF
+;0001BB95{]     ]   }#010#010
+]      ]  #010
+|10
+@0001BBB5-0001BBBE-FF
+;0001BBB5{]slick]   }#010#010
+]  LISA]  #010
+|10
+@0001BBD5-0001BBDE-FF
+;0001BBD5{)_____/   }#010#010
+)______/  #010
+|10
+@0001BC32-0001BC3E-FF
+;0001BC32{start        }#013#013
+EMPEZAR      #013
+|13

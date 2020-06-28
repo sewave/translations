@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Rally Bike (U) [!].nes"
+set SCRIPTNAME="rallybikenes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 195D5:60,19725:30,18CD5:40,D843:A0,C861:100,8E41:80,5311:80,1181:80,61:40,8061:40,10061:40,152E1:80,153C1:100,D863:40,18C95:40
+pause

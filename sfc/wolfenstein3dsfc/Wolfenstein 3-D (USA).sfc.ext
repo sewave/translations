@@ -1,0 +1,408 @@
+@0000394A-000039B3-00
+;0000394A{kSelect Level~00~}#017#014
+kSelect Level~00~#014
+;00003958{11 12 1B 21 22 23~00~}#021#018
+11 12 1B 21 22 23~00~#018
+;0000396A{2B 31 32 33 3B 3S~00~}#021#018
+2B 31 32 33 3B 3S~00~#018
+;0000397C{41 42 43 44 4B 51~00~}#021#018
+41 42 43 44 4B 51~00~#018
+;0000398E{52 53 54 55 5B 61~00~}#021#018
+52 53 54 55 5B 61~00~#018
+;000039A0{62 63 64 65 6B 6S~00~}#021#018
+62 63 64 65 6B 6S~00~#018
+;000039B2{H~3B~}#005#002
+H~3B~#002
+|106
+@000039EC-00003A02-00
+;000039EC{+zkInvalid password~00~}#023#020
++zkInvalid password~00~#020
+;00003A00{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|23
+@00003CCA-00003D15-00
+;00003CCA{i3~00~}#006#003
+i3~00~#003
+;00003CCD{~1B~~98~kEnter Password: ______~00~}#035#026
+~1B~~98~kEnter Password: ______~00~#026
+;00003CE7{B  C  D  F~00~}#014#011
+B  C  D  F~00~#011
+;00003CF2{H  J  K  L~00~}#014#011
+H  J  K  L~00~#011
+;00003CFD{M  N  P  Q~00~}#014#011
+M  N  P  Q~00~#011
+;00003D08{R  S  T  V~00~}#014#011
+R  S  T  V~00~#011
+;00003D13{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|76
+@00003F5A-00003FCA-00
+;00003F5A{+zkStart Game~00~}#017#014
++zkStart Game~00~#014
+;00003F68{Password~00~}#012#009
+Password~00~#009
+;00003F71{Skill: easy~00~}#015#012
+Skill: easy~00~#012
+;00003F7D{Skill: normal~00~}#017#014
+Skill: normal~00~#014
+;00003F8B{Skill: hard~00~}#015#012
+Skill: hard~00~#012
+;00003F97{Stereo: on~00~}#014#011
+Stereo: on~00~#011
+;00003FA2{Stereo: off ~00~}#016#013
+Stereo: off ~00~#013
+;00003FAF{Mouse: left~00~}#015#012
+Mouse: left~00~#012
+;00003FBB{Mouse: right~00~}#016#013
+Mouse: right~00~#013
+;00003FC8{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|113
+@000042F9-00004313-00
+;000042F9{kDemo Recording~00~}#019#016
+kDemo Recording~00~#016
+;00004309{demo_p:~00~}#011#008
+demo_p:~00~#008
+;00004311{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|27
+@0000558F-000055A8-00
+;0000558F{k       MEET THE CAST!~00~}#026#023
+k       MEET THE CAST!~00~#023
+;000055A6{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|26
+@00005781-00005969-00
+;00005781{k        Wolfenstein 3-D~00~}#028#025
+k        Wolfenstein 3-D~00~#025
+;0000579A{   an id software production~00~}#032#029
+   an id software production~00~#029
+;000057B7{John Carmack       Programming~00~}#034#031
+John Carmack       Programming~00~#031
+;000057D6{Tom Hall        Levels&Tallies~00~}#034#031
+Tom Hall        Levels&Tallies~00~#031
+;000057F5{John Romero      Levels&Sounds~00~}#034#031
+John Romero      Levels&Sounds~00~#031
+;00005814{Adrian Carmack             Art~00~}#034#031
+Adrian Carmack             Art~00~#031
+;00005833{Kevin Cloud                Art~00~}#034#031
+Kevin Cloud                Art~00~#031
+;00005852{Robert Prince            Music~00~}#034#031
+Robert Prince            Music~00~#031
+;00005871{Jay Wilbur          Management~00~}#034#031
+Jay Wilbur          Management~00~#031
+;00005890{Shawn Green            Testing~00~}#034#031
+Shawn Green            Testing~00~#031
+;000058AF{Imagineer      Lots of Support~00~}#034#031
+Imagineer      Lots of Support~00~#031
+;000058CE{ Prototyped on NeXT Computers~00~}#033#030
+ Prototyped on NeXT Computers~00~#030
+;000058EC{  Developed on an Apple IIgs~00~}#032#029
+  Developed on an Apple IIgs~00~#029
+;00005909{Copyright 1993 Imagineer Co,Ltd~00~}#035#032
+Copyright 1993 Imagineer Co,Ltd~00~#032
+;00005929{ Published by Imagineer Co,Ltd~00~}#034#031
+ Published by Imagineer Co,Ltd~00~#031
+;00005948{ Under license by id Software ~00~}#034#031
+ Under license by id Software ~00~#031
+;00005967{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|489
+@00006800-0000685B-00
+;00006800{kMusicTest~00~}#014#011
+kMusicTest~00~#011
+;0000680B{Song 0~00~}#010#007
+Song 0~00~#007
+;00006812{Song 1~00~}#010#007
+Song 1~00~#007
+;00006819{Song 2~00~}#010#007
+Song 2~00~#007
+;00006820{Song 3~00~}#010#007
+Song 3~00~#007
+;00006827{Song 4~00~}#010#007
+Song 4~00~#007
+;0000682E{Song 5~00~}#010#007
+Song 5~00~#007
+;00006835{Song 6~00~}#010#007
+Song 6~00~#007
+;0000683C{Song 7~00~}#010#007
+Song 7~00~#007
+;00006843{Song 8~00~}#010#007
+Song 8~00~#007
+;0000684A{Song 9~00~}#010#007
+Song 9~00~#007
+;00006851{Song 10~00~}#011#008
+Song 10~00~#008
+;00006859{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|92
+@00006B7A-00006BEC-00
+;00006B7A{Instrument Test~00~}#019#016
+Instrument Test~00~#016
+;00006B8A{Instrument    :~00~}#019#016
+Instrument    :~00~#016
+;00006B9A{MIDI note     :~00~}#019#016
+MIDI note     :~00~#016
+;00006BAA{MIDI velocity :~00~}#019#016
+MIDI velocity :~00~#016
+;00006BBA{Pitch scale   :~00~}#019#016
+Pitch scale   :~00~#016
+;00006BCA{Velocity scale:~00~}#019#016
+Velocity scale:~00~#016
+;00006BDA{Test song     :~00~}#019#016
+Test song     :~00~#016
+;00006BEA{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|115
+@0000739D-00007418-00
+;0000739D{kCopyright 1993 Imagineer Co,Ltd~00~}#036#033
+kCopyright 1993 Imagineer Co,Ltd~00~#033
+;000073BE{ Published by Imagineer Co,Ltd~00~}#034#031
+ Published by Imagineer Co,Ltd~00~#031
+;000073DD{under license from Id Software~00~}#034#031
+under license from Id Software~00~#031
+;000073FC{     Licensed by Nintendo~00~}#029#026
+     Licensed by Nintendo~00~#026
+;00007416{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|124
+@000074E8-0000754E-00
+;000074E8{kThis version of Wolfenstein 3D~00~}#035#032
+kThis version of Wolfenstein 3D~00~#032
+;00007508{is not designed for your~00~}#028#025
+is not designed for your~00~#025
+;00007521{SUPER FAMICOM or SUPER NES~00~}#030#027
+SUPER FAMICOM or SUPER NES~00~#027
+;0000753C{-- Imagineer --~00~}#019#016
+-- Imagineer --~00~#016
+;0000754C{~3B~8~E9~}#009#003
+~3B~8~E9~#003
+|103
+@000FC92D-000FC949-00
+;000FC92D{NEXT!!~00~}#010#007
+NEXT!!~00~#007
+;000FC934{~01~BCDFHJKLMNPQRSTV~00~}#024#018
+~01~BCDFHJKLMNPQRSTV~00~#018
+;000FC946{~01~~CD~%~7E~}#013#004
+~01~~CD~%~7E~#004
+|29
+@000FCCAF-000FCE26-00
+;000FCCAF{Your last mission was a~00~}#027#024
+Your last mission was a~00~#024
+;000FCCC7{~01~glowing success.  Your next~00~}#035#029
+~01~glowing success.  Your next~00~#029
+;000FCCE4{~01~assignment will be nearly~00~}#033#027
+~01~assignment will be nearly~00~#027
+;000FCCFF{~01~impossible to believe, much~00~}#035#029
+~01~impossible to believe, much~00~#029
+;000FCD1C{~01~less complete.~00~}#022#016
+~01~less complete.~00~#016
+;000FCD2C{~02~The insane Doctor Schabbs~00~}#033#027
+~02~The insane Doctor Schabbs~00~#027
+;000FCD47{~01~is...well, reports have it~00~}#034#028
+~01~is...well, reports have it~00~#028
+;000FCD63{~01~that he is using what he~00~}#032#026
+~01~that he is using what he~00~#026
+;000FCD7D{~01~calls a "Corpsokinetic~00~}#030#024
+~01~calls a "Corpsokinetic~00~#024
+;000FCD95{~01~Animation Serum" to make~00~}#032#026
+~01~Animation Serum" to make~00~#026
+;000FCDAF{~01~fallen soldiers rise and fight~00~}#038#032
+~01~fallen soldiers rise and fight~00~#032
+;000FCDCF{~01~again.  You must rid the world~00~}#038#032
+~01~again.  You must rid the world~00~#032
+;000FCDEF{~01~of these abominations and stop~00~}#038#032
+~01~of these abominations and stop~00~#032
+;000FCE0F{~01~Schabbs' evil work.~00~}#027#021
+~01~Schabbs' evil work.~00~#021
+;000FCE24{~01~*~00~}#009#003
+~01~*~00~#003
+|376
+@000FCE28-000FCFB1-00
+;000FCE28{You've hit them hard, but~00~}#029#026
+You've hit them hard, but~00~#026
+;000FCE42{~01~their plans are already in~00~}#034#028
+~01~their plans are already in~00~#028
+;000FCE5E{~01~motion.  Up in the mountains ~00~}#037#031
+~01~motion.  Up in the mountains ~00~#031
+;000FCE7D{~01~is a fortress where the~00~}#031#025
+~01~is a fortress where the~00~#025
+;000FCE96{~01~weapons are stockpiled, and~00~}#035#029
+~01~weapons are stockpiled, and~00~#029
+;000FCEB3{~01~the war room lies.~00~}#026#020
+~01~the war room lies.~00~#020
+;000FCEC7{~02~Guarding the plans is the~00~}#033#027
+~02~Guarding the plans is the~00~#027
+;000FCEE2{~01~hideous masterpiece of Doctor~00~}#037#031
+~01~hideous masterpiece of Doctor~00~#031
+;000FCF01{~01~Schabbs: the Ubermutant. It is~00~}#038#032
+~01~Schabbs: the Ubermutant. It is~00~#032
+;000FCF21{~01~an abomination, and lives~00~}#033#027
+~01~an abomination, and lives~00~#027
+;000FCF3C{~01~to protect the interests of~00~}#035#029
+~01~to protect the interests of~00~#029
+;000FCF59{~01~the Master State.  If you get ~00~}#038#032
+~01~the Master State.  If you get ~00~#032
+;000FCF79{~01~the plans, your country will ~00~}#037#031
+~01~the plans, your country will ~00~#031
+;000FCF98{~01~owe you a great debt.~00~}#029#023
+~01~owe you a great debt.~00~#023
+;000FCFAF{~01~*~00~}#009#003
+~01~*~00~#003
+|394
+@000FCFB3-000FD178-00
+;000FCFB3{Blazkowicz, you've served the~00~}#033#030
+Blazkowicz, you've served the~00~#030
+;000FCFD1{~01~Republic well.  You're our top~00~}#038#032
+~01~Republic well.  You're our top~00~#032
+;000FCFF1{~01~operative, a one-man strike~00~}#035#029
+~01~operative, a one-man strike~00~#029
+;000FD00E{~01~team.  However, infiltrating~00~}#036#030
+~01~team.  However, infiltrating~00~#030
+;000FD02C{~01~the Master State will not be~00~}#036#030
+~01~the Master State will not be~00~#030
+;000FD04A{~01~easy.  Staatmeister and his~00~}#035#029
+~01~easy.  Staatmeister and his~00~#029
+;000FD067{~01~forces are determined to rule~00~}#037#031
+~01~forces are determined to rule~00~#031
+;000FD086{~01~the world.~00~}#018#012
+~01~the world.~00~#012
+;000FD092{~02~Your first task: find and~00~}#033#027
+~02~Your first task: find and~00~#027
+;000FD0AD{~01~eliminate Hans Grosse,~00~}#030#024
+~01~eliminate Hans Grosse,~00~#024
+;000FD0C5{~01~Staatmeister's most ruthless~00~}#036#030
+~01~Staatmeister's most ruthless~00~#030
+;000FD0E3{~01~enforcer.  He marshals the~00~}#034#028
+~01~enforcer.  He marshals the~00~#028
+;000FD0FF{~01~forces from a castle outside ~00~}#037#031
+~01~forces from a castle outside ~00~#031
+;000FD11E{~01~Dresden.  You will have to ~00~}#035#029
+~01~Dresden.  You will have to ~00~#029
+;000FD13B{~01~wade through his crack forces ~00~}#038#032
+~01~wade through his crack forces ~00~#032
+;000FD15B{~01~to reach him.  Good luck.~00~}#033#027
+~01~to reach him.  Good luck.~00~#027
+;000FD176{~01~*~00~}#009#003
+~01~*~00~#003
+|454
+@000FD17A-000FD272-00
+;000FD17A{The plans, as you are aware, ~00~}#033#030
+The plans, as you are aware, ~00~#030
+;000FD198{~01~detail their first attack ~00~}#034#028
+~01~detail their first attack ~00~#028
+;000FD1B4{~01~strategem, which is already~00~}#035#029
+~01~strategem, which is already~00~#029
+;000FD1D1{~01~underway.  You must travel to~00~}#037#031
+~01~underway.  You must travel to~00~#031
+;000FD1F0{~01~Castle Heidenheim and face~00~}#034#028
+~01~Castle Heidenheim and face~00~#028
+;000FD20C{~01~their leader. He is known as~00~}#036#030
+~01~their leader. He is known as~00~#030
+;000FD22A{~01~the Death Knight.~00~}#025#019
+~01~the Death Knight.~00~#019
+;000FD23D{~02~It won't be easy.  That's why~00~}#037#031
+~02~It won't be easy.  That's why~00~#031
+;000FD25C{~01~we're sending you.~00~}#026#020
+~01~we're sending you.~00~#020
+;000FD270{~01~*~00~}#009#003
+~01~*~00~#003
+|249
+@000FD274-000FD44C-00
+;000FD274{You never cease to amaze me,~00~}#032#029
+You never cease to amaze me,~00~#029
+;000FD291{~01~B.J.  You have defeated the ~00~}#036#030
+~01~B.J.  You have defeated the ~00~#030
+;000FD2AF{~01~horrible enforcer Hans.  I'd ~00~}#037#031
+~01~horrible enforcer Hans.  I'd ~00~#031
+;000FD2CE{~01~congratulate you, but the~00~}#033#027
+~01~congratulate you, but the~00~#027
+;000FD2E9{~01~Master State does not rest, so~00~}#038#032
+~01~Master State does not rest, so~00~#032
+;000FD309{~01~neither can we. We don't have ~00~}#038#032
+~01~neither can we. We don't have ~00~#032
+;000FD329{~01~that luxury.~00~}#020#014
+~01~that luxury.~00~#014
+;000FD337{~02~Their scientists are building~00~}#037#031
+~02~Their scientists are building~00~#031
+;000FD356{~01~weapons...chemical weapons.~00~}#035#029
+~01~weapons...chemical weapons.~00~#029
+;000FD373{~01~Yes, in direct violation of~00~}#035#029
+~01~Yes, in direct violation of~00~#029
+;000FD390{~01~the Convention.  You must go~00~}#036#030
+~01~the Convention.  You must go~00~#030
+;000FD3AE{~01~to Castle Erlangen, find and~00~}#036#030
+~01~to Castle Erlangen, find and~00~#030
+;000FD3CC{~01~neutralize the source.~00~}#030#024
+~01~neutralize the source.~00~#024
+;000FD3E4{~01~The Head of the Elite Guard~00~}#035#029
+~01~The Head of the Elite Guard~00~#029
+;000FD401{~01~there is Trans Grosse. You~00~}#034#028
+~01~there is Trans Grosse. You~00~#028
+;000FD41D{~01~must terminate him. We're~00~}#033#027
+~01~must terminate him. We're~00~#027
+;000FD438{~01~counting on you.~00~}#024#018
+~01~counting on you.~00~#018
+;000FD44A{~01~*~00~}#009#003
+~01~*~00~#003
+|473
+@000FD44E-000FD5E6-00
+;000FD44E{After the blows we have dealt~00~}#033#030
+After the blows we have dealt~00~#030
+;000FD46C{~01~to his plans, Staatmeister~00~}#034#028
+~01~to his plans, Staatmeister~00~#028
+;000FD488{~01~wages desperate, brutal war~00~}#035#029
+~01~wages desperate, brutal war~00~#029
+;000FD4A5{~01~upon the Republic.  He is~00~}#033#027
+~01~upon the Republic.  He is~00~#027
+;000FD4C0{~01~attacking civilian targets.~00~}#035#029
+~01~attacking civilian targets.~00~#029
+;000FD4DD{~01~He must be stopped.~00~}#027#021
+~01~He must be stopped.~00~#021
+;000FD4F2{~02~He has fallen back to his last ~00~}#039#033
+~02~He has fallen back to his last ~00~#033
+;000FD513{~01~stand, in the legendary Master ~00~}#039#033
+~01~stand, in the legendary Master ~00~#033
+;000FD534{~01~State keep known as~00~}#027#021
+~01~State keep known as~00~#021
+;000FD549{~01~Wolfenstein. You must seek him ~00~}#039#033
+~01~Wolfenstein. You must seek him ~00~#033
+;000FD56A{~01~out and stop the destruction.~00~}#037#031
+~01~out and stop the destruction.~00~#031
+;000FD589{~01~Terminate Staatmeister now.~00~}#035#029
+~01~Terminate Staatmeister now.~00~#029
+;000FD5A6{~01~Millions of lives lie in the ~00~}#037#031
+~01~Millions of lives lie in the ~00~#031
+;000FD5C5{~01~balance.  Good luck, William.~00~}#037#031
+~01~balance.  Good luck, William.~00~#031
+;000FD5E4{~01~*~00~}#009#003
+~01~*~00~#003
+|409
+@000FD69F-000FD730-00
+;000FD69F{GUARD~00~}#009#006
+GUARD~00~#006
+;000FD6A5{~01~OFFICER~00~}#015#009
+~01~OFFICER~00~#009
+;000FD6AE{~01~ELITE GUARD~00~}#019#013
+~01~ELITE GUARD~00~#013
+;000FD6BB{~01~MUTANT~00~}#014#008
+~01~MUTANT~00~#008
+;000FD6C3{~01~MUTANT RAT~00~}#018#012
+~01~MUTANT RAT~00~#012
+;000FD6CF{~01~HANS GROSSE~00~}#019#013
+~01~HANS GROSSE~00~#013
+;000FD6DC{~01~DR. SCHABBS~00~}#019#013
+~01~DR. SCHABBS~00~#013
+;000FD6E9{~01~TRANS GROSSE~00~}#020#014
+~01~TRANS GROSSE~00~#014
+;000FD6F7{~01~UBERMUTANT~00~}#018#012
+~01~UBERMUTANT~00~#012
+;000FD703{~01~DEATH KNIGHT~00~}#020#014
+~01~DEATH KNIGHT~00~#014
+;000FD711{~01~MECHAMEISTER~00~}#020#014
+~01~MECHAMEISTER~00~#014
+;000FD71F{~01~STAATMEISTER~00~}#020#014
+~01~STAATMEISTER~00~#014
+;000FD72D{~02~~BE~~F3~~C1~}#016#004
+~02~~BE~~F3~~C1~#004
+|146

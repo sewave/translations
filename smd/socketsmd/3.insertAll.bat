@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Socket (U) [!].bin"
-set S_FILENAME="Socket (U) [!].bin"
+set T_FILENAME="TR_Socket (USA).md"
+set S_FILENAME="Socket (USA).md"
 set SCRIPTNAME="socketsmd"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

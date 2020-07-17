@@ -1,5 +1,5 @@
 @echo off
-set T_FILENAME="Socket (U) [!].bin"
+set T_FILENAME="Socket (USA).md"
 set SCRIPTNAME="socketsmd"
 java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.ext %SCRIPTNAME%.off
 java -jar Hextractor.jar -a %SCRIPTNAME%Alt.tbl %T_FILENAME% %SCRIPTNAME%Alt.ext %SCRIPTNAME%Alt.off

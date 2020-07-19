@@ -1,0 +1,594 @@
+@00000C04-00000C58-FF
+;00000C04{ Y O U   C A N N O T   U S E   T H E   M U L T I - T A P~FF~}#060#057
+ Y O U   C A N N O T   U S E   T H E   M U L T I - T A P~FF~#057
+;00000C3D{~FF~}#004#001
+~FF~#001
+;00000C3E{ I N   T H I S   M O D E .~FF~}#030#027
+ I N   T H I S   M O D E .~FF~#027
+|85
+@000029B2-00002CB5-FF
+;000029B2{s~D6~ CPLAYOFF~FF~}#018#012
+s~D6~ CPLAYOFF~FF~#012
+;000029BE{t~56~ CEXHIBITION~FF~}#021#015
+t~56~ CEXHIBITION~FF~#015
+;000029CD{ t~D6~ CMULTI-PLAY~FF~}#022#016
+ t~D6~ CMULTI-PLAY~FF~#016
+;000029DD{ u~56~ CSET-UP~FF~}#018#012
+ u~56~ CSET-UP~FF~#012
+;000029E9{ u~D6~ CDEBUG~FF~}#017#011
+ u~D6~ CDEBUG~FF~#011
+;000029F4{uT CMAN  VS  COM~FF~}#020#017
+uT CMAN  VS  COM~FF~#017
+;00002A05{ u~94~ CMAN  VS  MAN~FF~}#024#018
+ u~94~ CMAN  VS  MAN~FF~#018
+;00002A17{ p~C2~ CP_ANIME~FF~}#019#013
+ p~C2~ CP_ANIME~FF~#013
+;00002A24{qB CPOBJ_KIND~FF~}#017#014
+qB CPOBJ_KIND~FF~#014
+;00002A32{qr CPOBJ_TYPE~FF~}#017#014
+qr CPOBJ_TYPE~FF~#014
+;00002A40{q~82~ CPOBJ_KAO_BASE~FF~}#024#018
+q~82~ CPOBJ_KAO_BASE~FF~#018
+;00002A52{q~C2~ CPOBJ_A_MUKI~FF~}#022#016
+q~C2~ CPOBJ_A_MUKI~FF~#016
+;00002A62{rB CPOBJ_A_DMUKI~FF~}#020#017
+rB CPOBJ_A_DMUKI~FF~#017
+;00002A73{ rr CPOBJ_A_DKIND~FF~}#021#018
+ rr CPOBJ_A_DKIND~FF~#018
+;00002A85{ r~82~ CCOLOR~FF~}#017#011
+ r~82~ CCOLOR~FF~#011
+;00002A90{r~C2~ CSOUND~FF~}#016#010
+r~C2~ CSOUND~FF~#010
+;00002A9A{uT CRULE SELECT~FF~}#019#016
+uT CRULE SELECT~FF~#016
+;00002AAA{u~94~ CPLAYOFF EDIT~FF~}#023#017
+u~94~ CPLAYOFF EDIT~FF~#017
+;00002ABB{ uX CSTART~FF~}#014#011
+ uX CSTART~FF~#011
+;00002AC6{u~98~ CPASSWORD~FF~}#019#013
+u~98~ CPASSWORD~FF~#013
+;00002AD3{  , , , , , , % h x ~FC~ABAHATA5A-AzA~58~A~E2~A~F6~B5LEGAME~FF~}#063#048
+  , , , , , , % h x ~FC~ABAHATA5A-AzA~58~A~E2~A~F6~B5LEGAME~FF~#048
+;00002B03{ LFDEMO~FF~}#011#008
+ LFDEMO~FF~#008
+;00002B0B{ JHHYPER DUNKING~FF~}#020#017
+ JHHYPER DUNKING~FF~#017
+;00002B1C{CAA006 DEBUG MODE=ACP_ANIME=ADPOBJ_KIND=AEPOBJ_TYPE=AFPOBJ_KAO_BASE=AGPOBJ_A_MUKI=UGKARADA=AHPOBJ_A_DMUKI=UHMOKUHYOU=AIPOBJ_A_DKIND=AJCOLOR=AKSOUND=AXPOBJ_A_PTIMER=AYPOBJ_A_TIMER~FF~}#182#179
+CAA006 DEBUG MODE=ACP_ANIME=ADPOBJ_KIND=AEPOBJ_TYPE=AFPOBJ_KAO_BASE=AGPOBJ_A_MUKI=UGKARADA=AHPOBJ_A_DMUKI=UHMOKUHYOU=AIPOBJ_A_DKIND=AJCOLOR=AKSOUND=AXPOBJ_A_PTIMER=AYPOBJ_A_TIMER~FF~#179
+;00002BCF{ VVON ~FF~}#010#007
+ VVON ~FF~#007
+;00002BD6{VVOFF~FF~}#009#006
+VVOFF~FF~#006
+;00002BDC{SF  EASY   ~FF~}#015#012
+SF  EASY   ~FF~#012
+;00002BE8{SF NORMAL  ~FF~}#015#012
+SF NORMAL  ~FF~#012
+;00002BF4{SF  HARD   ~FF~}#015#012
+SF  HARD   ~FF~#012
+;00002C00{SFVERY HARD~FF~}#015#012
+SFVERY HARD~FF~#012
+;00002C0C{SHOT~FF~}#008#005
+SHOT~FF~#005
+;00002C11{ JUMP~FF~}#009#006
+ JUMP~FF~#006
+;00002C17{ ITEM~FF~}#009#006
+ ITEM~FF~#006
+;00002C1D{ MPNOW mAKING~FF~}#017#014
+ MPNOW mAKING~FF~#014
+;00002C2B{ FHDOUBLE DRIBBLE ® IS A=JITRADEMARK OF=GJKONAMI%AMERICA INC.=IO© 1994 KONAMI=GPALL RIGHTS RESERVED.=KWLICENSED BY=GXSEGA ENTERPRISES,LTD.~FF~}#142#139
+ FHDOUBLE DRIBBLE ® IS A=JITRADEMARK OF=GJKONAMI%AMERICA INC.=IO© 1994 KONAMI=GPALL RIGHTS RESERVED.=KWLICENSED BY=GXSEGA ENTERPRISES,LTD.~FF~#139
+|772
+@00002CCC-00002CD5-FF
+;00002CCC{PLAY MODE=}#010#010
+PLAY MODE=#010
+|10
+@00002CE6-00002D13-FF
+;00002CE6{VMAN  VS  MAN~FF~}#017#014
+VMAN  VS  MAN~FF~#014
+;00002CF4{BASAMPLE SN13 WCES=BB01/04/1994~FF~}#035#032
+BASAMPLE SN13 WCES=BB01/04/1994~FF~#032
+|46
+@00004624-000046B3-FF
+;00004624{ UTAH    MINN·  SAN ANT HOUSTON SEATTLE PRTLAND  L·A·   PHOENIX  WASH·   N·Y·    N·J·   BOSTON  CHICAGO CHRLTTE CLEVLND ATLANTA  EAST    WEST   }#144#144
+ UTAH    MINN·  SAN ANT HOUSTON SEATTLE PRTLAND  L·A·   PHOENIX  WASH·   N·Y·    N·J·   BOSTON  CHICAGO CHRLTTE CLEVLND ATLANTA  EAST    WEST   #144
+|144
+@00008F26-00008F6E-FF
+;00008F26{end%of%~E1~st%quarter~FF~}#025#019
+end%of%~E1~st%quarter~FF~#019
+;00008F39{ end%of%~E2~nd%quarter~FF~}#026#020
+ end%of%~E2~nd%quarter~FF~#020
+;00008F4D{ end%of%~E3~rd%quarter~FF~}#026#020
+ end%of%~E3~rd%quarter~FF~#020
+;00008F61{ %%%%overtime~FF~}#017#014
+ %%%%overtime~FF~#014
+|73
+@00008FB2-00008FBF-FF
+;00008FB2{out%of%bounds~FF~}#017#014
+out%of%bounds~FF~#014
+|14
+@0000917E-0000918D-FF
+;0000917E{end%of%the%match}#016#016
+end%of%the%match#016
+|16
+@00009212-0000922B-FF
+;00009212{shot%time%rule~FF~}#018#015
+shot%time%rule~FF~#015
+;00009221{ violation~FF~}#014#011
+ violation~FF~#011
+|26
+@00009469-00009487-FF
+;00009469{ec~C4~ ~C0~  Xl xc~C4~ ~C0~  Xl ic~C4~ ~C0~  Xl t}#049#031
+ec~C4~ ~C0~  Xl xc~C4~ ~C0~  Xl ic~C4~ ~C0~  Xl t#031
+|31
+@00009492-000094AD-FF
+;00009492{~E1~st%~E2~nd%~E3~rd%lasttime%out%i ~FF~}#040#028
+~E1~st%~E2~nd%~E3~rd%lasttime%out%i ~FF~#028
+|28
+@000094DD-000094FE-FF
+;000094DD{p ~C0~  c~FC~~80~a ~C0~  c~FC~~80~u ~C0~  c~FC~~80~s ~C0~  c~FC~~80~e }#070#034
+p ~C0~  c~FC~~80~a ~C0~  c~FC~~80~u ~C0~  c~FC~~80~s ~C0~  c~FC~~80~e #034
+|34
+@00013E8C-0001403B-FF
+;00013E8C{         U T A H           M I N N E S O T A     S A N   A N T O N I O       H O U S T O N           S E A T T L E           P O R T L A N D     L O S   A N G E L E S       P H O E N I X         W A S H I N G T O N       N E W   Y O R K       N E W   J E R S E Y         B O S T O N           C H I C A G O         C H A R L O T T E       C L E V E L A N D         A T L A N T A               E A S T                 W E S T        }#432#432
+         U T A H           M I N N E S O T A     S A N   A N T O N I O       H O U S T O N           S E A T T L E           P O R T L A N D     L O S   A N G E L E S       P H O E N I X         W A S H I N G T O N       N E W   Y O R K       N E W   J E R S E Y         B O S T O N           C H I C A G O         C H A R L O T T E       C L E V E L A N D         A T L A N T A               E A S T                 W E S T        #432
+|432
+@000140F8-00014154-FF
+;000140F8{      - CONFIGURATION -===== ACTION MODE== QUARTER TIME== SHOT TIME== BGM MODE=== BGM TYPE==~FF~}#096#093
+      - CONFIGURATION -===== ACTION MODE== QUARTER TIME== SHOT TIME== BGM MODE=== BGM TYPE==~FF~#093
+|93
+@000144A2-000144A8-FF
+;000144A2{ARCADE~FF~}#010#007
+ARCADE~FF~#007
+|7
+@000144AE-000144B4-FF
+;000144AE{NORMAL~FF~}#010#007
+NORMAL~FF~#007
+|7
+@00014510-00014513-FF
+;00014510{BGM~FF~}#007#004
+BGM~FF~#004
+|4
+@00014518-0001451C-FF
+;00014518{REAL~FF~}#008#005
+REAL~FF~#005
+|5
+@0001452E-00014534-FF
+;0001452E{STEREO~FF~}#010#007
+STEREO~FF~#007
+|7
+@0001453A-00014542-FF
+;0001453A{MONAURAL~FF~}#012#009
+MONAURAL~FF~#009
+|9
+@00014557-000145A5-FF
+;00014557{ ACTION MODE  QUARTER TIME SHOT TIME    BGM MODE     BGM TYPE     EXIT         }#079#079
+ ACTION MODE  QUARTER TIME SHOT TIME    BGM MODE     BGM TYPE     EXIT         #079
+|79
+@00014A8E-00014B73-FF
+;00014A8E{TRAVELING          3  SECOND BIOLATION5  SECOND BIOLATION10 SECOND BIOLATION24 SECOND BIOLATIONBACKPASS  BIOLATIONBASKET INTERFERE   PERSONAL FAUL      q~9A~ C DEXITuH C KQUARTER TIMEu~8E~ C GMINUTES u9 C MPLAYER NUMBER u~AA~ C H1P    2Pu~F0~}#242#230
+TRAVELING          3  SECOND BIOLATION5  SECOND BIOLATION10 SECOND BIOLATION24 SECOND BIOLATIONBACKPASS  BIOLATIONBASKET INTERFERE   PERSONAL FAUL      q~9A~ C DEXITuH C KQUARTER TIMEu~8E~ C GMINUTES u9 C MPLAYER NUMBER u~AA~ C H1P    2Pu~F0~#230
+|230
+@000150CA-000150E3-FF
+;000150CA{EXIT   1ST2ND3RD4TH5TH6TH }#026#026
+EXIT   1ST2ND3RD4TH5TH6TH #026
+|26
+@00015272-000152B4-FF
+;00015272{HEIGHT=SHOT=STEAL=SPEED=JUMP=POWER=STRENGTH       =PF=SF= C=PG=SG=~FF~}#070#067
+HEIGHT=SHOT=STEAL=SPEED=JUMP=POWER=STRENGTH       =PF=SF= C=PG=SG=~FF~#067
+|67
+@000183C0-000183C8-FF
+;000183C0{VS DEMO  }#009#009
+VS DEMO  #009
+|9
+@000199A8-000199AC-FF
+;000199A8{EXIT }#005#005
+EXIT #005
+|5
+@0001A03A-0001A0F7-FF
+;0001A03A{=  UTAH~FF~}#011#008
+=  UTAH~FF~#008
+;0001A042{=MINNESOTA~FF~}#014#011
+=MINNESOTA~FF~#011
+;0001A04D{    SAN= ANTONIO~FF~}#020#017
+    SAN= ANTONIO~FF~#017
+;0001A05E{= HOUSTON~FF~}#013#010
+= HOUSTON~FF~#010
+;0001A068{= SEATTLE~FF~}#013#010
+= SEATTLE~FF~#010
+;0001A072{=PORTLAND~FF~}#013#010
+=PORTLAND~FF~#010
+;0001A07C{   LOS= ANGELES~FF~}#019#016
+   LOS= ANGELES~FF~#016
+;0001A08C{= PHOENIX~FF~}#013#010
+= PHOENIX~FF~#010
+;0001A096{ WASHING-=   TON~FF~}#020#017
+ WASHING-=   TON~FF~#017
+;0001A0A7{ = NEW YORK~FF~}#015#012
+ = NEW YORK~FF~#012
+;0001A0B3{   NEW= JERSEY~FF~}#018#015
+   NEW= JERSEY~FF~#015
+;0001A0C2{= BOSTON~FF~}#012#009
+= BOSTON~FF~#009
+;0001A0CB{ = CHICAGO~FF~}#014#011
+ = CHICAGO~FF~#011
+;0001A0D6{=CHARLOTTE~FF~}#014#011
+=CHARLOTTE~FF~#011
+;0001A0E1{ =CLEVELAND~FF~}#015#012
+ =CLEVELAND~FF~#012
+;0001A0ED{ = ATLANTA~FF~}#014#011
+ = ATLANTA~FF~#011
+|190
+@0001A296-0001A29D-FF
+;0001A296{P SELECT}#008#008
+P SELECT#008
+|8
+@0001B1B8-0001B1CC-FF
+;0001B1B8{ R E A L L Y   O K ?~FF~}#024#021
+ R E A L L Y   O K ?~FF~#021
+|21
+@0001B1E4-0001B1F8-FF
+;0001B1E4{     E R R O R      ~FF~}#024#021
+     E R R O R      ~FF~#021
+|21
+@0001B210-0001B2AA-FF
+;0001B210{ M U L T I - P L A Y   T E A M   S E L E C T~FF~}#048#045
+ M U L T I - P L A Y   T E A M   S E L E C T~FF~#045
+;0001B23D{~FF~}#004#001
+~FF~#001
+;0001B23E{         J O Y P A D   E N T R Y            ~FF~}#048#045
+         J O Y P A D   E N T R Y            ~FF~#045
+;0001B26B{~FF~}#004#001
+~FF~#001
+;0001B26C{       M O R E   E N T R I E S   N E E D E D                  ~FF~}#066#063
+       M O R E   E N T R I E S   N E E D E D                  ~FF~#063
+|155
+@0001B2D4-0001B4E0-FF
+;0001B2D4{ W E S T   T E A M   H A S   T O O   M A N Y   P L A Y E R S~FF~}#064#061
+ W E S T   T E A M   H A S   T O O   M A N Y   P L A Y E R S~FF~#061
+;0001B311{~FF~}#004#001
+~FF~#001
+;0001B312{ P L E A S E   S E T - U P   T H E   W E S T   T E A M~FF~}#058#055
+ P L E A S E   S E T - U P   T H E   W E S T   T E A M~FF~#055
+;0001B349{~FF~}#004#001
+~FF~#001
+;0001B34A{ E A S T   T E A M   H A S   T O O   M A N Y   P L A Y E R S~FF~}#064#061
+ E A S T   T E A M   H A S   T O O   M A N Y   P L A Y E R S~FF~#061
+;0001B387{~FF~}#004#001
+~FF~#001
+;0001B388{ P L E A S E   S E T - U P   T H E   E A S T   T E A M~FF~}#058#055
+ P L E A S E   S E T - U P   T H E   E A S T   T E A M~FF~#055
+;0001B3BF{~FF~}#004#001
+~FF~#001
+;0001B3C0{                                                            ~FF~}#064#061
+                                                            ~FF~#061
+;0001B3FD{~FF~}#004#001
+~FF~#001
+;0001B3FE{   P R E S S   ' S T A R T '   W H E N   F I N I S H E D      ~FF~}#066#063
+   P R E S S   ' S T A R T '   W H E N   F I N I S H E D      ~FF~#063
+;0001B43D{~FF~}#004#001
+~FF~#001
+;0001B43E{                                                            ~FF~}#064#061
+                                                            ~FF~#061
+;0001B47B{~FF~}#004#001
+~FF~#001
+;0001B47C{ S E T   U P   E R R O R~FF~}#028#025
+ S E T   U P   E R R O R~FF~#025
+;0001B495{~FF~}#004#001
+~FF~#001
+;0001B496{ P R E S S   S T A R T   B U T T O N~FF~}#040#037
+ P R E S S   S T A R T   B U T T O N~FF~#037
+;0001B4BB{~FF~}#004#001
+~FF~#001
+;0001B4BC{                                    ~FF~}#040#037
+                                    ~FF~#037
+|525
+@0001B58A-0001BA22-FF
+;0001B58A{                                                ~FF~}#052#049
+                                                ~FF~#049
+;0001B5BB{~FF~}#004#001
+~FF~#001
+;0001B5BC{ P R O G R A M~FF~}#018#015
+ P R O G R A M~FF~#015
+;0001B5CB{~FF~}#004#001
+~FF~#001
+;0001B5CC{         H . N I T T A                  ~FF~}#044#041
+         H . N I T T A                  ~FF~#041
+;0001B5F5{~FF~}#004#001
+~FF~#001
+;0001B5F6{         N . S A K A N A Y A                ~FF~}#048#045
+         N . S A K A N A Y A                ~FF~#045
+;0001B623{~FF~}#004#001
+~FF~#001
+;0001B624{         M . H A R A D A~FF~}#028#025
+         M . H A R A D A~FF~#025
+;0001B63D{~FF~}#004#001
+~FF~#001
+;0001B63E{ G R A P H I C   D E S I G N                ~FF~}#048#045
+ G R A P H I C   D E S I G N                ~FF~#045
+;0001B66B{~FF~}#004#001
+~FF~#001
+;0001B66C{         S . K U S H I B U C H I                ~FF~}#052#049
+         S . K U S H I B U C H I                ~FF~#049
+;0001B69D{~FF~}#004#001
+~FF~#001
+;0001B69E{         T . N A G I S A                ~FF~}#044#041
+         T . N A G I S A                ~FF~#041
+;0001B6C7{~FF~}#004#001
+~FF~#001
+;0001B6C8{         N . S H I R A S U B O S H I                ~FF~}#056#053
+         N . S H I R A S U B O S H I                ~FF~#053
+;0001B6FD{~FF~}#004#001
+~FF~#001
+;0001B6FE{ S O U N D   P R O G R A M                ~FF~}#046#043
+ S O U N D   P R O G R A M                ~FF~#043
+;0001B729{~FF~}#004#001
+~FF~#001
+;0001B72A{         A . F U J I O                ~FF~}#042#039
+         A . F U J I O                ~FF~#039
+;0001B751{~FF~}#004#001
+~FF~#001
+;0001B752{         O . K A S A I                ~FF~}#042#039
+         O . K A S A I                ~FF~#039
+;0001B779{~FF~}#004#001
+~FF~#001
+;0001B77A{ S O U N D   E F F E C T   &   M U S I C                ~FF~}#060#057
+ S O U N D   E F F E C T   &   M U S I C                ~FF~#057
+;0001B7B3{~FF~}#004#001
+~FF~#001
+;0001B7B4{         M . A D A C H I                ~FF~}#044#041
+         M . A D A C H I                ~FF~#041
+;0001B7DD{~FF~}#004#001
+~FF~#001
+;0001B7DE{         M . Y A N A G I S A W A                ~FF~}#052#049
+         M . Y A N A G I S A W A                ~FF~#049
+;0001B80F{~FF~}#004#001
+~FF~#001
+;0001B810{ S U P E R V I S O R                      ~FF~}#046#043
+ S U P E R V I S O R                      ~FF~#043
+;0001B83B{~FF~}#004#001
+~FF~#001
+;0001B83C{         Y . H A R U K I                        ~FF~}#052#049
+         Y . H A R U K I                        ~FF~#049
+;0001B86D{~FF~}#004#001
+~FF~#001
+;0001B86E{ D I R E C T O R                          ~FF~}#046#043
+ D I R E C T O R                          ~FF~#043
+;0001B899{~FF~}#004#001
+~FF~#001
+;0001B89A{ P R O D U C E R                          ~FF~}#046#043
+ P R O D U C E R                          ~FF~#043
+;0001B8C5{~FF~}#004#001
+~FF~#001
+;0001B8C6{         T . K I R I T A                        ~FF~}#052#049
+         T . K I R I T A                        ~FF~#049
+;0001B8F7{~FF~}#004#001
+~FF~#001
+;0001B8F8{         P R E S E N T E D   B Y   K O N A M I  ~FF~}#052#049
+         P R E S E N T E D   B Y   K O N A M I  ~FF~#049
+;0001B929{~FF~}#004#001
+~FF~#001
+;0001B92A{           B Y   K O N A M I                    ~FF~}#052#049
+           B Y   K O N A M I                    ~FF~#049
+;0001B95B{~FF~}#004#001
+~FF~#001
+;0001B95C{         K O N A M I                            ~FF~}#052#049
+         K O N A M I                            ~FF~#049
+;0001B98D{~FF~}#004#001
+~FF~#001
+;0001B98E{             ©   1 9 9 4   K O N A M I          ~FF~}#052#049
+             ©   1 9 9 4   K O N A M I          ~FF~#049
+;0001B9BF{~FF~}#004#001
+~FF~#001
+;0001B9C0{         A L L   R I G H T S   R E S E R V E D .~FF~}#052#049
+         A L L   R I G H T S   R E S E R V E D .~FF~#049
+;0001B9F1{~FF~}#004#001
+~FF~#001
+;0001B9F2{     S T A F F                                  ~FF~}#052#049
+     S T A F F                                  ~FF~#049
+|1177
+@0001EB60-0001ECAE-80
+;0001EB60{ g a m e % s t a t i s t i c s~80~}#034#031
+ g a m e % s t a t i s t i c s~80~#031
+;0001EB7F{H %H H 5B~80~}#013#010
+H %H H 5B~80~#010
+;0001EB89{3 %H H 5C~80~}#013#010
+3 %H H 5C~80~#010
+;0001EB93{E %P  % %P3 %H H 5D~80~}#023#020
+E %P  % %P3 %H H 5D~80~#020
+;0001EBA7{3 %H H 5E % s c o r e~80~}#025#022
+3 %H H 5E % s c o r e~80~#022
+;0001EBBD{X %H H 5F~80~}#013#010
+X %H H 5F~80~#010
+;0001EBC7{3 %H H 5G % r e b o u n d~80~}#029#026
+3 %H H 5G % r e b o u n d~80~#026
+;0001EBE1{V %H H 5H~80~}#013#010
+V %H H 5H~80~#010
+;0001EBEB{3 %H H 5I % b l o c k~80~}#025#022
+3 %H H 5I % b l o c k~80~#022
+;0001EC01{X %H H 5J~80~}#013#010
+X %H H 5J~80~#010
+;0001EC0B{3 %H H 5K % f g~80~}#019#016
+3 %H H 5K % f g~80~#016
+;0001EC1B{0 %H H 5L~80~}#013#010
+0 %H H 5L~80~#010
+;0001EC25{3 %H H 5M % f g ~EC~~80~}#024#018
+3 %H H 5M % f g ~EC~~80~#018
+;0001EC37{Z %H H 5N~80~}#013#010
+Z %H H 5N~80~#010
+;0001EC41{3 %H H 5O % d u n k~80~}#023#020
+3 %H H 5O % d u n k~80~#020
+;0001EC55{Y %H H 5P~80~}#013#010
+Y %H H 5P~80~#010
+;0001EC5F{3 %H H 5Q % ~E3~ p t~80~}#024#018
+3 %H H 5Q % ~E3~ p t~80~#018
+;0001EC71{Z %H H 5R~80~}#013#010
+Z %H H 5R~80~#010
+;0001EC7B{3 %H H 5S % ~E3~ p t ~EC~~80~}#029#020
+3 %H H 5S % ~E3~ p t ~EC~~80~#020
+;0001EC8F{Y %H H 5T~80~}#013#010
+Y %H H 5T~80~#010
+;0001EC99{3 %H H 5U % s t e a l~80~}#025#022
+3 %H H 5U % s t e a l~80~#022
+|335
+@0001ED4C-0001EEB2-80
+;0001ED4C{ g a m e % s t a t i s t i c s~80~}#034#031
+ g a m e % s t a t i s t i c s~80~#031
+;0001ED6B{H %H H 5B~80~}#013#010
+H %H H 5B~80~#010
+;0001ED75{3 %H H 5C~80~}#013#010
+3 %H H 5C~80~#010
+;0001ED7F{E %P  % %P3 %H H 5D~80~}#023#020
+E %P  % %P3 %H H 5D~80~#020
+;0001ED93{3 %H H 5E % s c o r e~80~}#025#022
+3 %H H 5E % s c o r e~80~#022
+;0001EDA9{X %H H 5F~80~}#013#010
+X %H H 5F~80~#010
+;0001EDB3{3 %H H 5G % r e b o u n d~80~}#029#026
+3 %H H 5G % r e b o u n d~80~#026
+;0001EDCD{V %H H 5H~80~}#013#010
+V %H H 5H~80~#010
+;0001EDD7{3 %H H 5I % b l o c k~80~}#025#022
+3 %H H 5I % b l o c k~80~#022
+;0001EDED{X %H H 5J~80~}#013#010
+X %H H 5J~80~#010
+;0001EDF7{3 %H H 5K % f g~80~}#019#016
+3 %H H 5K % f g~80~#016
+;0001EE07{0 %H H 5L % f g ~EC~~80~}#024#018
+0 %H H 5L % f g ~EC~~80~#018
+;0001EE19{Z %H H 5M~80~}#013#010
+Z %H H 5M~80~#010
+;0001EE23{3 %H H 5N % d u n k~80~}#023#020
+3 %H H 5N % d u n k~80~#020
+;0001EE37{Y %H H 5O~80~}#013#010
+Y %H H 5O~80~#010
+;0001EE41{3 %H H 5P % ~E3~ p t~80~}#024#018
+3 %H H 5P % ~E3~ p t~80~#018
+;0001EE53{Z %H H 5Q % ~E3~ p t ~EC~~80~}#029#020
+Z %H H 5Q % ~E3~ p t ~EC~~80~#020
+;0001EE67{Y %H H 5R~80~}#013#010
+Y %H H 5R~80~#010
+;0001EE71{3 %H H 5S % f t~80~}#019#016
+3 %H H 5S % f t~80~#016
+;0001EE81{0 %H H 5T % f t ~EC~~80~}#024#018
+0 %H H 5T % f t ~EC~~80~#018
+;0001EE93{Z %H H 5U~80~}#013#010
+Z %H H 5U~80~#010
+;0001EE9D{3 %H H 5V % s t e a l~80~}#025#022
+3 %H H 5V % s t e a l~80~#022
+|359
+@0001F194-0001F340-FF
+;0001F194{ % % % % % % % % % %~FF~}#024#021
+ % % % % % % % % % %~FF~#021
+;0001F1A9{~FF~}#004#001
+~FF~#001
+;0001F1AA{ p l a y o f f~FF~}#018#015
+ p l a y o f f~FF~#015
+;0001F1B9{~FF~}#004#001
+~FF~#001
+;0001F1BA{ e x h i b i t i o n~FF~}#024#021
+ e x h i b i t i o n~FF~#021
+;0001F1CF{~FF~}#004#001
+~FF~#001
+;0001F1D0{ m u l t i \ p l a y~FF~}#024#021
+ m u l t i \ p l a y~FF~#021
+;0001F1E5{~FF~}#004#001
+~FF~#001
+;0001F1E6{ f i r s t % r o u n d~FF~}#026#023
+ f i r s t % r o u n d~FF~#023
+;0001F1FD{~FF~}#004#001
+~FF~#001
+;0001F1FE{ % s e m i \ f i n a l s~FF~}#028#025
+ % s e m i \ f i n a l s~FF~#025
+;0001F217{~FF~}#004#001
+~FF~#001
+;0001F218{ % % f i n a l s~FF~}#020#017
+ % % f i n a l s~FF~#017
+;0001F229{~FF~}#004#001
+~FF~#001
+;0001F22A{ c h a m p i o n s h i p~FF~}#028#025
+ c h a m p i o n s h i p~FF~#025
+;0001F243{~FF~}#004#001
+~FF~#001
+;0001F244{ g a m e % ~E1~~FF~}#019#013
+ g a m e % ~E1~~FF~#013
+;0001F251{~FF~}#004#001
+~FF~#001
+;0001F252{ g a m e % ~E2~~FF~}#019#013
+ g a m e % ~E2~~FF~#013
+;0001F25F{~FF~}#004#001
+~FF~#001
+;0001F260{ g a m e % ~E3~~FF~}#019#013
+ g a m e % ~E3~~FF~#013
+;0001F26D{~FF~}#004#001
+~FF~#001
+;0001F26E{ g a m e % ~E4~~FF~}#019#013
+ g a m e % ~E4~~FF~#013
+;0001F27B{~FF~}#004#001
+~FF~#001
+;0001F27C{ g a m e % ~E5~~FF~}#019#013
+ g a m e % ~E5~~FF~#013
+;0001F289{~FF~}#004#001
+~FF~#001
+;0001F28A{ g a m e % ~E6~~FF~}#019#013
+ g a m e % ~E6~~FF~#013
+;0001F297{~FF~}#004#001
+~FF~#001
+;0001F298{ g a m e % ~E7~~FF~}#019#013
+ g a m e % ~E7~~FF~#013
+;0001F2A5{~FF~}#004#001
+~FF~#001
+;0001F2A6{ ~E1~ s t % q u a r t e r~FF~}#029#023
+ ~E1~ s t % q u a r t e r~FF~#023
+;0001F2BD{~FF~}#004#001
+~FF~#001
+;0001F2BE{ ~E2~ n d % q u a r t e r~FF~}#029#023
+ ~E2~ n d % q u a r t e r~FF~#023
+;0001F2D5{~FF~}#004#001
+~FF~#001
+;0001F2D6{ ~E3~ r d % q u a r t e r~FF~}#029#023
+ ~E3~ r d % q u a r t e r~FF~#023
+;0001F2ED{~FF~}#004#001
+~FF~#001
+;0001F2EE{ ~E4~ t h % q u a r t e r~FF~}#029#023
+ ~E4~ t h % q u a r t e r~FF~#023
+;0001F305{~FF~}#004#001
+~FF~#001
+;0001F306{ c o n f e r e n c e~FF~}#024#021
+ c o n f e r e n c e~FF~#021
+;0001F31B{~FF~}#004#001
+~FF~#001
+;0001F31C{ p r e s s % s t a r t % b u t t o n~FF~}#040#037
+ p r e s s % s t a r t % b u t t o n~FF~#037
+|429
+@001D01C9-001D01E9-FF
+;001D01C9{P H   p A P   p U X   p S 5   p E}#033#033
+P H   p A P   p U X   p S 5   p E#033
+|33
+@001D01F1-001D0257-FF
+;001D01F1{p 0       p 1       p 2       p 3       p 4       p 5       p 6       p 7       p 8       p 9       p 0}#103#103
+p 0       p 1       p 2       p 3       p 4       p 5       p 6       p 7       p 8       p 9       p 0#103
+|103
+@001D4164-001D416F-FF
+;001D4164{ P L A Y O F}#012#012
+ P L A Y O F#012
+|12
+@001D417C-001D418A-FF
+;001D417C{E X H I B~94~T~94~O N}#021#015
+E X H I B~94~T~94~O N#015
+|15
+@001D41AA-001D41B2-FF
+;001D41AA{S eT ~BF~U ~C1~}#015#009
+S eT ~BF~U ~C1~#009
+|9
+@001D4289-001D428E-FF
+;001D4289{ M A N}#006#006
+ M A N#006
+|6
+@001D4296-001D429B-FF
+;001D4296{C O~FC~ M}#009#006
+C O~FC~ M#006
+|6
+@001E2336-001E234D-FF
+;001E2336{ J O~D0~ Y P5PD7$~C1~E N T R Y}#030#024
+ J O~D0~ Y P5PD7$~C1~E N T R Y#024
+|24

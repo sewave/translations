@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Volfied (Japan).pce"
+set SCRIPTNAME="volfiedpce"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 5FC00:100,20160:80,20780:80,20A00:80,20D40:80,20F40:80,20EA0:20,215A0:60,218C0:140,21AC0:140,21CC0:60,21EC0:60
+pause

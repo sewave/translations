@@ -1,0 +1,104 @@
+@00020D04-00020D15-FF
+;00020D04{_L_O_A_D___G_A_M_E}#018#018
+_L_O_A_D___G_A_M_E#018
+|18
+@00020D20-00020D2D-FF
+;00020D20{_C_O_N_T_R_O_L}#014#014
+_C_O_N_T_R_O_L#014
+|14
+@00020D38-00020D4B-FF
+;00020D38{_S_O_U_N_D___T_E_S_T}#020#020
+_S_O_U_N_D___T_E_S_T#020
+|20
+@00020D56-00020D6D-FF
+;00020D56{_L_E_V_E_L___E_D_I_T_O_R}#024#024
+_L_E_V_E_L___E_D_I_T_O_R#024
+|24
+@00020D78-00020D91-FF
+;00020D78{_O_R_I_G_I_N_A_L___G_A_M_E}#026#026
+_O_R_I_G_I_N_A_L___G_A_M_E#026
+|26
+@00020D9E-00020DB5-FF
+;00020D9E{_S_E_L_E_C_T___L_E_V_E_L}#024#024
+_S_E_L_E_C_T___L_E_V_E_L#024
+|24
+@00020DC2-00020DD2-FF
+;00020DC2{_N_E_W___G_A_M_E_}#017#017
+_N_E_W___G_A_M_E_#017
+|17
+@00020DDC-00020DEB-FF
+;00020DDC{_C_O_N_T_I_N_U_E}#016#016
+_C_O_N_T_I_N_U_E#016
+|16
+@00021CE2-00021EAD-00
+;00021CE2{                          CREDITS        PROGRAM DESIGN AND    IMPLEMENTATION        JON BURTON                 TRAVELLERS TALES                HEAD ARTIST        JAMES CUNLIFFE               TRAVELLERS TALES               HEAD DESIGNER       TAKAO MIYOSHI                     SEGA                         PRODUCER           KATS SATO                       SEGA                     SENIOR PRODUCER      YUTAKA SUGANO                     SEGA                   }#460#460
+                          CREDITS        PROGRAM DESIGN AND    IMPLEMENTATION        JON BURTON                 TRAVELLERS TALES                HEAD ARTIST        JAMES CUNLIFFE               TRAVELLERS TALES               HEAD DESIGNER       TAKAO MIYOSHI                     SEGA                         PRODUCER           KATS SATO                       SEGA                     SENIOR PRODUCER      YUTAKA SUGANO                     SEGA                   #460
+|460
+@00022015-00022290-00
+;00022015{      C O N G R A T U L A T I O N S     ~01~~01~_      YOU HAVE UNLOCKED THE SECRET      ~01~_           LEVEL SELECT OPTION          ~02~_                TIME OVER               ~02~_      C O N G R A T U L A T I O N S     ~01~~01~_            YOU HAVE REACHED            ~01~_           ONE HUNDRED PERCENT          ~01~~01~_       SCORE RUN MODE NOW AVAILABLE     ~02~_     HEY STOP PUNCHING YOUR CONSOLE     ~01~~01~_    I GIVE IN SO HERE IS YOUR SECRET    ~01~_          LEVEL SELECT OPTION           ~02~_      C O N G R A T U L A T I O N S     ~01~~01~~01~_      YOU HAVE UNLOCKED SUPER SONIC     ~01~~01~~01~_   COLLECT 50 RINGS AND THEN JUMP AND   ~01~_  PRESS SPINDASH TO TOGGLE SUPER SONIC  }#702#636
+      C O N G R A T U L A T I O N S     ~01~~01~_      YOU HAVE UNLOCKED THE SECRET      ~01~_           LEVEL SELECT OPTION          ~02~_                TIME OVER               ~02~_      C O N G R A T U L A T I O N S     ~01~~01~_            YOU HAVE REACHED            ~01~_           ONE HUNDRED PERCENT          ~01~~01~_       SCORE RUN MODE NOW AVAILABLE     ~02~_     HEY STOP PUNCHING YOUR CONSOLE     ~01~~01~_    I GIVE IN SO HERE IS YOUR SECRET    ~01~_          LEVEL SELECT OPTION           ~02~_      C O N G R A T U L A T I O N S     ~01~~01~~01~_      YOU HAVE UNLOCKED SUPER SONIC     ~01~~01~~01~_   COLLECT 50 RINGS AND THEN JUMP AND   ~01~_  PRESS SPINDASH TO TOGGLE SUPER SONIC  #636
+|636
+@00022AA5-00022B22-00
+;00022AA5{                 SCORE       0          ~01~_            RING BONUS       0          ~01~_         EMERALD BONUS       0          ~02~_}#135#126
+                 SCORE       0          ~01~_            RING BONUS       0          ~01~_         EMERALD BONUS       0          ~02~_#126
+|126
+@000232C3-00023598-00
+;000232C3{   TIME TAKEN 0:00      SCORE           ~01~~01~~03~_            TIME BONUS     0            _            RING BONUS     0            _          FLICKY BONUS     0            _        KNUCKLES BONUS     0            _           TAILS BONUS     0            ~01~~04~_            TOTAL          0            ~02~_   TIME TAKEN 0:00      SCORE           ~01~~01~~01~~01~~03~_            TIME BONUS     0            ~01~_            RING BONUS     0            ~01~~01~~01~~01~~04~_            TOTAL          0            ~02~_   TIME TAKEN 0:00      SCORE           ~01~~01~~01~~01~~03~_            TIME BONUS     0            _            RING BONUS     0            _          FLICKY BONUS     0            ~01~~01~~01~~04~_            TOTAL          0            ~02~_   TIME TAKEN~65~TOO LONG  SCORE           ~02~_}#816#726
+   TIME TAKEN 0:00      SCORE           ~01~~01~~03~_            TIME BONUS     0            _            RING BONUS     0            _          FLICKY BONUS     0            _        KNUCKLES BONUS     0            _           TAILS BONUS     0            ~01~~04~_            TOTAL          0            ~02~_   TIME TAKEN 0:00      SCORE           ~01~~01~~01~~01~~03~_            TIME BONUS     0            ~01~_            RING BONUS     0            ~01~~01~~01~~01~~04~_            TOTAL          0            ~02~_   TIME TAKEN 0:00      SCORE           ~01~~01~~01~~01~~03~_            TIME BONUS     0            _            RING BONUS     0            _          FLICKY BONUS     0            ~01~~01~~01~~04~_            TOTAL          0            ~02~_   TIME TAKEN~65~TOO LONG  SCORE           ~02~_#726
+|726
+@00024A0C-00024B23-00
+;00024A0C{  `THANK YOU, SONIC! YOU SAVED US FROM     ROBOTNIK. WE ARE GRATEFUL FOR YOUR      EFFORTS.´                                                                      `I JUST DID WHAT I WANTED TO DO.         NOBODY MESSES WITH MY FRIENDS.          SEE YA!´                             }#280#280
+  `THANK YOU, SONIC! YOU SAVED US FROM     ROBOTNIK. WE ARE GRATEFUL FOR YOUR      EFFORTS.´                                                                      `I JUST DID WHAT I WANTED TO DO.         NOBODY MESSES WITH MY FRIENDS.          SEE YA!´                             #280
+|280
+@00024BC2-00024C39-00
+;00024BC2{  THE FLICKIES HAVE BEEN FREED. PEACE     AND FREEDOM CAME BACK TO FLICKY         ISLAND AGAIN.                         }#120#120
+  THE FLICKIES HAVE BEEN FREED. PEACE     AND FREEDOM CAME BACK TO FLICKY         ISLAND AGAIN.                         #120
+|120
+@00024E50-00024EEF-00
+;00024E50{   GO SONIC! YOU CAN WARP THROUGH THE      BIG RINGS WITH THE HELP OF THE          FLICKIES. CHASE AFTER ROBOTNIK AND      DEFEAT HIS PLANS!                    }#160#160
+   GO SONIC! YOU CAN WARP THROUGH THE      BIG RINGS WITH THE HELP OF THE          FLICKIES. CHASE AFTER ROBOTNIK AND      DEFEAT HIS PLANS!                    #160
+|160
+@00025158-0002526F-00
+;00025158{  `ROBOTNIK MADE MY FRIENDS LIKE THIS.     I MUST SAVE THEM! ROBOTNIK MUST BE      STOPPED.´                                                                       SONIC STARTS TO DEFEAT THE ENEMIES      IN ORDER TO RESCUE THE FLICKIES         WHO ARE TRAPPED INSIDE.              }#280#280
+  `ROBOTNIK MADE MY FRIENDS LIKE THIS.     I MUST SAVE THEM! ROBOTNIK MUST BE      STOPPED.´                                                                       SONIC STARTS TO DEFEAT THE ENEMIES      IN ORDER TO RESCUE THE FLICKIES         WHO ARE TRAPPED INSIDE.              #280
+|280
+@00025440-000254B7-00
+;00025440{   SONIC VISITS FLICKY ISLAND TO SEE       HIS FRIENDS, BUT THE ONLY THING HE      FINDS ARE ROBOTS!                    }#120#120
+   SONIC VISITS FLICKY ISLAND TO SEE       HIS FRIENDS, BUT THE ONLY THING HE      FINDS ARE ROBOTS!                    #120
+|120
+@0002581C-00025933-00
+;0002581C{  ROBOTNIK LEARNS ABOUT THE FLICKIES.                                             `I WILL CHANGE THE FLICKIES INTO         ROBOTS AND HAVE THEM SEARCH FOR THE     CHAOS EMERALDS FOR ME. USING THE        INFINITE POWER OF THE EMERALDS,         I CAN CONQUER THE WORLD!´            }#280#280
+  ROBOTNIK LEARNS ABOUT THE FLICKIES.                                             `I WILL CHANGE THE FLICKIES INTO         ROBOTS AND HAVE THEM SEARCH FOR THE     CHAOS EMERALDS FOR ME. USING THE        INFINITE POWER OF THE EMERALDS,         I CAN CONQUER THE WORLD!´            #280
+|280
+@00025BFA-00025C71-00
+;00025BFA{  FLICKIES ARE MYSTERIOUS BIRDS. THEY     LIVE IN ANOTHER DIMENSION AND CAN       TRAVEL ANYWHERE THROUGH LARGE RINGS.  }#120#120
+  FLICKIES ARE MYSTERIOUS BIRDS. THEY     LIVE IN ANOTHER DIMENSION AND CAN       TRAVEL ANYWHERE THROUGH LARGE RINGS.  #120
+|120
+@00026186-00026277-00
+;00026186{  `AS LONG AS I HAVE THIS FINAL WEAPON     I CAN CONQUER THE WORLD ANYTIME.        SEE YOU AGAIN SONIC.´                _~02~                                          PREPARE TO FIGHT THE FINAL WEAPON...                                          }#245#242
+  `AS LONG AS I HAVE THIS FINAL WEAPON     I CAN CONQUER THE WORLD ANYTIME.        SEE YOU AGAIN SONIC.´                _~02~                                          PREPARE TO FIGHT THE FINAL WEAPON...                                          #242
+|242
+@00026E86-00026F24-00
+;00026E86{CREAT 00 TYPE CRAB     ACTION MOVE XY   CRAM 0000 0000 0000 0000 0000 0000      VRAM 0000 0000 F00 S00                                                        _}#159#159
+CREAT 00 TYPE CRAB     ACTION MOVE XY   CRAM 0000 0000 0000 0000 0000 0000      VRAM 0000 0000 F00 S00                                                        _#159
+|159
+@003FCC81-003FCD50-00
+;003FCC81{             SCORE RUN MODE             ~01~_             TIME CHALLENGE             ~01~_              REPLAY LEVEL              ~01~_                  BACK                  ~01~_               QUIT GAME                }#220#208
+             SCORE RUN MODE             ~01~_             TIME CHALLENGE             ~01~_              REPLAY LEVEL              ~01~_                  BACK                  ~01~_               QUIT GAME                #208
+|208
+@003FDD37-003FDD5E-00
+;003FDD37{             SCORE:       0 ~3D~           }#043#040
+             SCORE:       0 ~3D~           #040
+|40
+@003FDD76-003FDD94-00
+;003FDD76{      SAVE:   YW72U82Y7EW      }#031#031
+      SAVE:   YW72U82Y7EW      #031
+|31
+@003FEC35-003FEC5C-00
+;003FEC35{  PLEASE ENTER YOUR SAVE GAME PASSWORD  }#040#040
+  PLEASE ENTER YOUR SAVE GAME PASSWORD  #040
+|40
+@003FF427-003FF5C0-00
+;003FF427{  GREEN GROVE ZONE           ACT 1 2 3  _  RUSTY RUIN ZONE            ACT 1 2 3  _  SPRING STADIUM ZONE        ACT 1 2 3  _  DIAMOND DUST ZONE          ACT 1 2 3  _  VOLCANO VALLEY ZONE        ACT 1 2 3  _  GENE GADGET ZONE           ACT 1 2 3  _  PANIC PUPPET ZONE          ACT 1 2 3  _  THE FINAL FIGHT                       ~02~_  KNUCKLES SPECIAL STAGE 1 2 3 4 5 6 7  _  TAILS SPECIAL STAGE    1 2 3 4 5 6 7  }#413#410
+  GREEN GROVE ZONE           ACT 1 2 3  _  RUSTY RUIN ZONE            ACT 1 2 3  _  SPRING STADIUM ZONE        ACT 1 2 3  _  DIAMOND DUST ZONE          ACT 1 2 3  _  VOLCANO VALLEY ZONE        ACT 1 2 3  _  GENE GADGET ZONE           ACT 1 2 3  _  PANIC PUPPET ZONE          ACT 1 2 3  _  THE FINAL FIGHT                       ~02~_  KNUCKLES SPECIAL STAGE 1 2 3 4 5 6 7  _  TAILS SPECIAL STAGE    1 2 3 4 5 6 7  #410
+|410

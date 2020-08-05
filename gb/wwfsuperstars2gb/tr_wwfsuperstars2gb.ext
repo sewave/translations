@@ -1,0 +1,185 @@
+@000005FB-00000607-00
+;000005FB{  One Player~00~}#016#013
+  Un Jugador~00~#013
+|13
+@00000614-00000621-00
+;00000614{  Two Players~00~}#017#014
+Dos Jugadores~00~#014
+|14
+@00000644-00000650-00
+;00000644{  One on One~00~}#016#013
+  Uno a Uno ~00~#013
+|13
+@0000065D-00000668-00
+;0000065D{   Tag Team~00~}#015#012
+    Equipo ~00~#012
+|12
+@00000675-00000681-00
+;00000675{  Tournament~00~}#016#013
+    Torneo  ~00~#013
+|13
+@000006A4-000006B0-00
+;000006A4{  One on One~00~}#016#013
+  Uno a Uno ~00~#013
+|13
+@000006BD-000006CA-00
+;000006BD{  Tag Team Vs~00~}#017#014
+  Equipos Vs ~00~#014
+|14
+@000006D7-000006E2-00
+;000006D7{   Tag Team~00~}#015#012
+    Equipo ~00~#012
+|12
+@000006FF-0000070C-00
+;000006FF{Regular Match~00~}#017#014
+    Normal   ~00~#014
+|14
+@00000719-00000725-00
+;00000719{  Cage Match~00~}#016#013
+    Jaula   ~00~#013
+|13
+@00000748-00000756-00
+;00000748{ Easy Computer~00~}#018#015
+ Consola Fácil~00~#015
+|15
+@00000763-00000772-00
+;00000763{Medium Computer~00~}#019#016
+ Consola Media ~00~#016
+|16
+@0000077F-0000078D-00
+;0000077F{ Hard Computer~00~}#018#015
+ Consola Dura ~00~#015
+|15
+@000007BA-000007C4-00
+;000007BA{   Rematch~00~}#014#011
+  Revancha~00~#011
+|11
+@000007D1-000007DD-00
+;000007D1{  Start Over~00~}#016#013
+  Recomenzar~00~#013
+|13
+@0000080A-00000816-00
+;0000080A{  Next match~00~}#016#013
+  Encuentro ~00~#013
+|13
+@00000823-0000082F-00
+;00000823{  Start Over~00~}#016#013
+  Recomenzar~00~#013
+|13
+@00000864-00000871-00
+;00000864{  Hulk Hogan™~00~}#017#014
+  Hulk Hogan™~00~#014
+|14
+@0000087E-0000088C-00
+;0000087E{  Macho Man™  ~00~}#018#015
+  Macho Man™  ~00~#015
+|15
+@00000899-000008A6-00
+;00000899{ Sid Justice™~00~}#017#014
+ Sid Justice™~00~#014
+|14
+@000008B3-000008C0-00
+;000008B3{ The Mountie™~00~}#017#014
+  El Mountie™~00~#014
+|14
+@000008CD-000008DC-00
+;000008CD{The Undertaker™~00~}#019#016
+El Undertaker™ ~00~#016
+|16
+@000008E9-000008F8-00
+;000008E9{Jake The Snake™~00~}#019#016
+Jake El Snake™ ~00~#016
+|16
+@000038CB-000038FA-00
+;000038CB{Player 1 Select~00~}#019#016
+Elige Jugador 1~00~#016
+;000038DB{Player 2 Select~00~}#019#016
+Elige Jugador 2~00~#016
+;000038EB{Computer Select~00~}#019#016
+ Elige Consola ~00~#016
+|48
+@000048B4-0000491D-00
+;000048B4{Programmed    By/\John Lewis Guymon Jr/\\  Tested By/\  Matt Grate,/\  Lee Smith, and /\  Joe Buffington ~00~}#109#106
+Programado   Por/\John Lewis Guymon Jr/\\
+ Pruebas De/\  Matt Grate,/\  Lee Smith y    /\  Joe Buffington ~00~#106
+|106
+@00004ACF-00004B40-00
+;00004ACF{The Immortal Hulk/\Hogan~00~}#028#025
+El Inmortal Hulk /\Hogan~00~#025
+;00004AE8{Sid Justice~00~}#015#012
+Sid Justice~00~#012
+;00004AF4{Macho Man Randy/\Savage~00~}#027#024
+Macho Man Randy/\Savage~00~#024
+;00004B0C{The Mountie~00~}#015#012
+El Mountie ~00~#012
+;00004B18{The Undertaker~00~}#018#015
+El Undertaker ~00~#015
+;00004B27{Jake [The Snake]/\Roberts~00~}#029#026
+Jake [El Snake] /\Roberts~00~#026
+|114
+@00004B4D-00004D0C-00
+;00004B4D{hFrom Venice Beach,/\California, pesando /\303 pounds, The/\Immortal Hulk Hogan!~00~}#084#081
+h
+De Venice Beach,  /\California, pesando /\
+137 kg, El Inmortal/\Hulk Hogan!     ~00~#081
+;00004B9E{hFrom West Memphis,/\Arkansas, pesando /\318 pounds,/\Sid Justice!~00~}#070#067
+h
+De Memphis Oeste, /\Arkansas, pesando /\
+144 kg,    /\Sid Justice!~00~#067
+;00004BE1{hFrom Sarasota,/\Florida, pesando /\245 pounds, Macho/\Man Randy Savage!~00~}#076#073
+h
+De Sarasota,  /\Florida, pesando /\
+111 kg, Macho Man/\Randy Savage!    ~00~#073
+;00004C2A{hFrom Canada,/\pesando  245 pounds,/\The Mountie!~00~}#053#050
+h
+De Canadá,  /\pesando 111 kg,     /\El Mountie! ~00~#050
+;00004C5C{hFrom Death Valley,/\pesando  328 pounds,/\The Undertaker!~00~}#062#059
+h
+Del Valle de la/\Muerte, pesando 149/\kg, El Undertaker! ~00~#059
+;00004C97{hFrom Stone Mountain,/\Georgia, pesando /\249 pounds, Jake/\[The Snake] Roberts!~00~}#084#081
+h
+De Stone Mountain,  /\Georgia, pesando /\
+113 kg, Jake    /\[El Snake] Roberts! ~00~#081
+;00004CE8{And his tag team/\partner, pesando  ~00~}#040#037
+y su pareja de   /\equipo, pesando  ~00~#037
+|448
+@00004D19-00004F35-00
+;00004D19{h\\303 pounds, The/\Immortal Hulk Hogan!~00~}#044#041
+h\\137 kg, El     /\Inmortal Hulk Hogan!~00~#041
+;00004D42{h\\318 pounds,/\Sid Justice!~00~}#032#029
+h\\144 kg,    /\Sid Justice!~00~#029
+;00004D5F{~60~\\245 pounds,/\Macho Man Randy/\Savage!~00~}#047#041
+~60~\\111 kg,    /\Macho Man Randy/\Savage!~00~#041
+;00004D88{h\\245 pounds,/\The Mountie!~00~}#032#029
+h\\111 kg,    /\El Mountie! ~00~#029
+;00004DA5{h\\328 pounds, The/\Undertaker!~00~}#035#032
+h\\145 kg,    /\El Undertaker! ~00~#032
+;00004DC5{h\\249 pounds, Jake/\[The Snake] Roberts!~00~}#045#042
+h\\113 kg, Jake    /\[El Snake] Roberts! ~00~#042
+;00004DEF{/\And his/\    opponent...~00~}#030#027
+/\y su   /\    oponente...~00~#027
+;00004E0A{/\And their/\    opponents...~00~}#033#030
+/\y sus    /\    oponentes...~00~#030
+;00004E28{.~00~}#005#002
+.~00~#002
+;00004E2A{ and/\/\~00~}#012#009
+ y  /\/\~00~#009
+;00004E33{!~00~}#005#002
+!~00~#002
+;00004E35{/\/\The winner of the/\match is:~00~}#036#033
+/\/\
+El ganador del/\encuentro:  ~00~#033
+;00004E56{As a result of a/\count-out, the/\winner of the/\match is:~00~}#062#059
+Por conteo,       /\el ganador del    /\encuentro es:     ~00~#059
+;00004E91{/\/\The winning team in/\this bout is:~00~}#042#039
+/\/\
+El equipo ganador /\del encuentro:~00~#039
+;00004EB8{As a result of a/\count-out, the/\winning team in the/\bout is:~00~}#067#064
+Por conteo,        /\el equipo ganador   /\del encuentro es:   ~00~#064
+;00004EF8{/\Ladies and/\gentlemen,/\we have a double/\disqualification!~00~}#065#062
+/\Damas y  /\caballeros,/\tenemos una doble/\descalificación!~00~#062
+|541
+@00005201-0000520A-00
+;00005201{GAME OVER~00~}#013#010
+FIN JUEGO~00~#010
+|10

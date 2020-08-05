@@ -1,0 +1,599 @@
+@0000044F-000004B7-00
+;0000044F{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DEVELOPED FOR USE ONLY WITH~00~#028
+;0000046B{~12~&~00~}#009#003
+~12~&~00~#003
+;0000046E{~0F~SYSTEMS.~00~}#016#010
+~0F~SYSTEMS.~00~#010
+;00000478{~0C~NTSC MEGA DRIVE~00~}#023#017
+~0C~NTSC MEGA DRIVE~00~#017
+;00000489{~0D~NTSC GENESIS~00~}#020#014
+~0D~NTSC GENESIS~00~#014
+;00000497{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~PAL AND FRENCH SECAM MEGA DRIVE~00~#033
+|105
+@00005CB1-00005CD4-00
+;00005CB1{        GAME OVER~00~}#021#018
+        GAME OVER~00~#018
+;00005CC3{~00~}#004#001
+~00~#001
+;00005CC4{PABLO E~00~}#011#008
+PABLO E~00~#008
+;00005CCC{ARNOLD S~00~}#012#009
+ARNOLD S~00~#009
+|36
+@00005D9B-00005D9E-00
+;00005D9B{END~00~}#007#004
+END~00~#004
+|4
+@00005DC9-00005DDC-00
+;00005DC9{         ENTER NAME~00~}#023#020
+         ENTER NAME~00~#020
+|20
+@00005E07-00005E42-00
+;00005E07{  PRESS 'A' TO ADD CHARACTER~0A~AND 'C' TO DELETE A CHARACTER.~00~}#066#060
+  PRESS 'A' TO ADD CHARACTER~0A~AND 'C' TO DELETE A CHARACTER.~00~#060
+|60
+@00005F9D-00005FA5-00
+;00005F9D{NAME: %s~00~}#012#009
+NAME: %s~00~#009
+|9
+@00006031-0000604D-00
+;00006031{PRESS ANY BUTTON TO CONTINUE~00~}#032#029
+PRESS ANY BUTTON TO CONTINUE~00~#029
+|29
+@000060FA-00006105-00
+;000060FA{HIGH SCORES~00~}#015#012
+HIGH SCORES~00~#012
+|12
+@0000618D-00006199-00
+;0000618D{JUMPING SHOE~00~}#016#013
+JUMPING SHOE~00~#013
+|13
+@000061C3-000061CF-00
+;000061C3{RUNNING SHOE~00~}#016#013
+RUNNING SHOE~00~#013
+|13
+@000061F9-00006206-00
+;000061F9{BUBBLE SHIELD~00~}#017#014
+BUBBLE SHIELD~00~#014
+|14
+@00006231-0000623A-00
+;00006231{BOOMERANG~00~}#013#010
+BOOMERANG~00~#010
+|10
+@00006265-0000626F-00
+;00006265{EXTRA LIFE~00~}#014#011
+EXTRA LIFE~00~#011
+|11
+@00006299-000062A5-00
+;00006299{EXTRA HEALTH~00~}#016#013
+EXTRA HEALTH~00~#013
+|13
+@00006487-0000648D-00
+;00006487{BONUS:~00~}#010#007
+BONUS:~00~#007
+|7
+@000064BB-000064D5-00
+;000064BB{%d WISHBUBBLES X 50P = %5d~00~}#030#027
+%d WISHBUBBLES X 50P = %5d~00~#027
+|27
+@00006592-000065A6-00
+;00006592{     LEVEL COMPLETED~00~}#024#021
+     LEVEL COMPLETED~00~#021
+|21
+@00006E0C-00006E46-00
+;00006E0C{WE'RE BACK - A DINOSAUR STORY~0A~ (C) 1993 FUNCOM PRODUCTIONS~00~}#065#059
+WE'RE BACK - A DINOSAUR STORY~0A~ (C) 1993 FUNCOM PRODUCTIONS~00~#059
+|59
+@00006E76-00006EB4-00
+;00006E76{PRESS 'A' ! 'B' TO SELECT LEVEL~0A~   PRESS '~03~START~01~' TO CONTINUE~00~}#075#063
+PRESS 'A' ! 'B' TO SELECT LEVEL~0A~   PRESS '~03~START~01~' TO CONTINUE~00~#063
+|63
+@00006F82-00006FBF-00
+;00006F82{START ON LEVEL ~02~%2d ~01~-~02~ %-20s~00~}#042#030
+START ON LEVEL ~02~%2d ~01~-~02~ %-20s~00~#030
+;00006FA0{L~DF~~7F~~FF~`rGathering '94 by Crusaders}#041#032
+L~DF~~7F~~FF~`rGathering '94 by Crusaders#032
+|62
+@00006FE6-00007012-00
+;00006FE6{START ON LEVEL ~02~%2d ~01~-~02~ UNNAMED             ~00~}#057#045
+START ON LEVEL ~02~%2d ~01~-~02~ UNNAMED             ~00~#045
+|45
+@00007048-00007061-00
+;00007048{Nutrition sux. Drink Coke.}#026#026
+Nutrition sux. Drink Coke.#026
+|26
+@0000722C-00007244-00
+;0000722C{ g~86~r det rett p~86~ dunken.~00~}#034#025
+ g~86~r det rett p~86~ dunken.~00~#025
+|25
+@00007361-00007371-00
+;00007361{CHOOSE CHARACTER~00~}#020#017
+CHOOSE CHARACTER~00~#017
+|17
+@00007443-0000744E-00
+;00007443{PRESS START~00~}#015#012
+PRESS START~00~#012
+|12
+@00007479-00007484-00
+;00007479{  OPTIONS  ~00~}#015#012
+  OPTIONS  ~00~#012
+|12
+@00007770-00007B70-00-0D
+;00007770{~40~louie,2,3,r~0D~}#019#013
+~40~louie,2,3,r~0D~#013
+;0000777D{~0A~~40~elsa,24,15,l~0D~}#024#015
+~0A~~40~elsa,24,15,l~0D~#015
+;0000778C{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00007792{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;0000779B{~0A~River Docks~0D~}#019#013
+~0A~River Docks~0D~#013
+;000077A8{~0A~~40~small,1~40~lf~0D~}#025#013
+~0A~~40~small,1~40~lf~0D~#013
+;000077B5{~0A~Captain Neweyes has let four dinosaurs from the prehistoric loose on Manhattan to make the wishes of kids around the world come true! Louie, a young street urchin, wishes for a friend more than anything. His wish will come true as four new friends tumble out of the sky!~0D~}#278#272
+~0A~
+El capitán Neweyes soltó a cuatro dinosaurios de la prehistoria en Manhattan para hacer realidad los sueños de los niños del mundo! Louie, un joven golfillo, desea un amigo más que cualquier otra cosa. Su deseo se realizará porque cuatro nuevos amigos caen del cielo!   ~0D~#272
+;000078C5{~0A~~40~lf~40~small,2~0D~}#025#013
+~0A~~40~lf~40~small,2~0D~#013
+;000078D2{~0A~Help Louie cross the river docks and get to Elsa at the end. Avoid falling dinosaurs and river rats!~0D~}#108#102
+~0A~Ayuda a Louie a cruzar los muelles y llegar a Elsa al final. Evita los dinosaurios y ratas que caen!~0D~#102
+;00007938{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;0000793E{~0A~~40~cecilia,2,3,r~0D~}#025#016
+~0A~~40~cecilia,2,3,r~0D~#016
+;0000794E{~0A~~40~elsa,24,15,l~0D~}#024#015
+~0A~~40~elsa,24,15,l~0D~#015
+;0000795D{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00007963{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;0000796C{~0A~Cecilias Apartment~0D~}#026#020
+~0A~Cecilias Apartment~0D~#020
+;00007980{~0A~~40~small,2~40~lf~0D~}#025#013
+~0A~~40~small,2~40~lf~0D~#013
+;0000798D{~0A~Cecilia is a very lonely young girl who lives in ritzy upper manhattan. When she spots Elsa, the flying dinosaur, flying across the roof, she knows she has found a friend.~0D~}#179#173
+~0A~Cecilia is a very lonely young girl who lives in ritzy upper manhattan. When she spots Elsa, the flying dinosaur, flying across the roof, she knows she has found a friend.~0D~#173
+;00007A3A{~0A~~40~lf~40~small,1~0D~}#025#013
+~0A~~40~lf~40~small,1~0D~#013
+;00007A47{~0A~Help Cecilia cross the roofs and reach Elsa. Watch out for alleycats and angry people who try to knock you off the balconies. You will also have to contend with the doorman who will try his best to keep you from leaving the building.~0D~}#241#235
+~0A~Help Cecilia cross the roofs and reach Elsa. Watch out for alleycats and angry people who try to knock you off the balconies. You will also have to contend with the doorman who will try his best to keep you from leaving the building.~0D~#235
+;00007B32{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;00007B38{~0A~~0D~}#008#002
+~0A~~0D~#002
+;00007B3A{~0A~~40~elsa,2,3,r~0D~}#022#013
+~0A~~40~elsa,2,3,r~0D~#013
+;00007B47{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00007B4D{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;00007B56{~0A~Central Park~0D~}#020#014
+~0A~Central Park~0D~#014
+;00007B64{~0A~~40~small,1~40~lf~0D~}#025#013
+~0A~~40~small,1~40~lf~0D~#013
+|1025
+@00007B71-00007F97-00-0D
+;00007B71{~0A~Ride on Elsa's back as she takes you on a speedy journey through Central Park. Collect as many wish bubbles as you can, you will surely need them later!~0D~}#160#154
+~0A~Ride on Elsa's back as she takes you on a speedy journey through Central Park. Collect as many wish bubbles as you can, you will surely need them later!~0D~#154
+;00007C0B{~0A~~40~lf~40~small,2~0D~}#025#013
+~0A~~40~lf~40~small,2~0D~#013
+;00007C18{~0A~Look out for unusually vicious pigeons and stray kites wich will bring a quick end to your journey.~0D~}#107#101
+~0A~Look out for unusually vicious pigeons and stray kites wich will bring a quick end to your journey.~0D~#101
+;00007C7D{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;00007C83{~0A~~0D~}#008#002
+~0A~~0D~#002
+;00007C85{~0A~~40~louie,2,3,r~0D~}#023#014
+~0A~~40~louie,2,3,r~0D~#014
+;00007C93{~0A~~40~elsa,24,15,l~0D~}#024#015
+~0A~~40~elsa,24,15,l~0D~#015
+;00007CA2{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00007CA8{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;00007CB1{~0A~Cecilias Apartment~0D~}#026#020
+~0A~Cecilias Apartment~0D~#020
+;00007CC5{~0A~~40~small,2~40~lf~0D~}#025#013
+~0A~~40~small,2~40~lf~0D~#013
+;00007CD2{~0A~While flying through the park, Louie spots a lonely girl on the balcony of an apartment building. It's Cecilia! Elsa lands a short ways away, so as not to scare the girl.~0D~}#178#172
+~0A~While flying through the park, Louie spots a lonely girl on the balcony of an apartment building. It's Cecilia! Elsa lands a short ways away, so as not to scare the girl.~0D~#172
+;00007D7E{~0A~~40~lf~40~small,1~0D~}#025#013
+~0A~~40~lf~40~small,1~0D~#013
+;00007D8B{~0A~Cross the apartment buildings to reach Cecilia. Elsa will meet you there to take you both away. Beware of the doorman who is mean to all the kids.~0D~}#154#148
+~0A~Cross the apartment buildings to reach Cecilia. Elsa will meet you there to take you both away. Beware of the doorman who is mean to all the kids.~0D~#148
+;00007E1F{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;00007E25{~0A~~0D~}#008#002
+~0A~~0D~#002
+;00007E27{~0A~~40~cecilia,2,3,r~0D~}#025#016
+~0A~~40~cecilia,2,3,r~0D~#016
+;00007E37{~0A~~40~elsa,24,15,l~0D~}#024#015
+~0A~~40~elsa,24,15,l~0D~#015
+;00007E46{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00007E4C{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;00007E55{~0A~River Docks~0D~}#019#013
+~0A~River Docks~0D~#013
+;00007E62{~0A~~40~small,1~40~lf~0D~}#025#013
+~0A~~40~small,1~40~lf~0D~#013
+;00007E6F{~0A~Elsa brings Cecilia to the river to wait for the arrival of her other dinosaur friends. They have been dropped from Captain Neweyes' spaceship, but their parachutes have broken on the way down!~0D~}#201#195
+~0A~Elsa brings Cecilia to the river to wait for the arrival of her other dinosaur friends. They have been dropped from Captain Neweyes' spaceship, but their parachutes have broken on the way down!~0D~#195
+;00007F32{~0A~~40~lf~40~small,2~0D~}#025#013
+~0A~~40~lf~40~small,2~0D~#013
+;00007F3F{~0A~Cross the docks to get to Louie at the end. Watch out for falling dinosaurs on the way!~0D~}#095#089
+~0A~Cross the docks to get to Louie at the end. Watch out for falling dinosaurs on the way!~0D~#089
+|1063
+@00007F98-00008397-00-0D
+;00007F98{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;00007F9E{~0A~~40~elsa,2,9,r~0D~}#022#013
+~0A~~40~elsa,2,9,r~0D~#013
+;00007FAB{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00007FB1{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;00007FBA{~0A~To the museum~0D~}#021#015
+~0A~To the museum~0D~#015
+;00007FC9{~0A~~40~small,2~40~lf~0D~}#025#013
+~0A~~40~small,2~40~lf~0D~#013
+;00007FD6{~0A~The children and their new friends decide to head up to the Museum of Natural History, where Captain Neweyes' friend Dr,Bleeb is anxiously awaiting the dinosaurs.~0D~}#170#164
+~0A~The children and their new friends decide to head up to the Museum of Natural History, where Captain Neweyes' friend Dr,Bleeb is anxiously awaiting the dinosaurs.~0D~#164
+;0000807A{~0A~~40~lf~40~small,3~0D~}#025#013
+~0A~~40~lf~40~small,3~0D~#013
+;00008087{~0A~Unknown to them, the Captain's evil brother, Professor Screweyes, has plans for the dinosaurs himself...~0D~}#112#106
+~0A~Unknown to them, the Captain's evil brother, Professor Screweyes, has plans for the dinosaurs himself...~0D~#106
+;000080F1{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;000080F7{~0A~~0D~}#008#002
+~0A~~0D~#002
+;000080F9{~0A~~40~vorb,2,3,r~0D~}#022#013
+~0A~~40~vorb,2,3,r~0D~#013
+;00008106{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;0000810C{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;00008115{~0A~TV-Studio~0D~}#017#011
+~0A~TV-Studio~0D~#011
+;00008120{~0A~~40~small,3~40~lf~0D~}#025#013
+~0A~~40~small,3~40~lf~0D~#013
+;0000812D{~0A~On the way to the museum, Woog makes a hit with the TV news reporters. An anxious producer brings him to the TV studio with promises to make him a star!~0D~}#160#154
+~0A~On the way to the museum, Woog makes a hit with the TV news reporters. An anxious producer brings him to the TV studio with promises to make him a star!~0D~#154
+;000081C7{~0A~~40~lf~40~small,2~0D~}#025#013
+~0A~~40~lf~40~small,2~0D~#013
+;000081D4{~0A~The greedy producer really has plans to sell Woog to Professor Screweyes. It's up to the kids now to rescue him.~0D~}#120#114
+~0A~The greedy producer really has plans to sell Woog to Professor Screweyes. It's up to the kids now to rescue him.~0D~#114
+;00008246{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;0000824C{~0A~~0D~}#008#002
+~0A~~0D~#002
+;0000824E{~0A~~40~woog,24,3,l~0D~}#023#014
+~0A~~40~woog,24,3,l~0D~#014
+;0000825C{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00008262{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;0000826B{~0A~Scooter Ride~0D~}#020#014
+~0A~Scooter Ride~0D~#014
+;00008279{~0A~~40~small,1~40~lf~0D~}#025#013
+~0A~~40~small,1~40~lf~0D~#013
+;00008286{~0A~Fleeing from the TV studio, Woog finds a scooter he can ride on to catch up with the kids and the other dinos. He manages to mount the tiny scooter so he can catch a ride down a one-way street.~0D~}#201#195
+~0A~Fleeing from the TV studio, Woog finds a scooter he can ride on to catch up with the kids and the other dinos. He manages to mount the tiny scooter so he can catch a ride down a one-way street.~0D~#195
+;00008349{~0A~~40~lf~40~small,3~0D~}#025#013
+~0A~~40~lf~40~small,3~0D~#013
+;00008356{~0A~Look out Woog! You're going the wrong way!~0D~}#050#044
+~0A~Look out Woog! You're going the wrong way!~0D~#044
+;00008382{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;00008388{~0A~~0D~}#008#002
+~0A~~0D~#002
+;0000838A{~0A~~40~dweeb,2,5,r~0D~}#023#014
+~0A~~40~dweeb,2,5,r~0D~#014
+|1024
+@00008398-000087F8-00-0D
+;00008398{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;0000839E{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;000083A7{~0A~The Parade~0D~}#018#012
+~0A~The Parade~0D~#012
+;000083B3{~0A~~40~small,2~40~lf~0D~}#025#013
+~0A~~40~small,2~40~lf~0D~#013
+;000083C0{~0A~On their way to uptown, the dinosaurs find the perfect cover -- The Thanksgiving Day Parade! Unfortunatly, their cover is blown when Rex takes a bite out of one of the floats.~0D~}#183#177
+~0A~On their way to uptown, the dinosaurs find the perfect cover -- The Thanksgiving Day Parade! Unfortunatly, their cover is blown when Rex takes a bite out of one of the floats.~0D~#177
+;00008471{~0A~~40~lf~40~small,1~0D~}#025#013
+~0A~~40~lf~40~small,1~0D~#013
+;0000847E{~0A~Help the kids through the parade during the ensuing chaos...~0D~}#068#062
+~0A~Help the kids through the parade during the ensuing chaos...~0D~#062
+;000084BC{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;000084C2{~0A~~0D~}#008#002
+~0A~~0D~#002
+;000084C4{~0A~~40~rex,2,5,r~0D~}#021#012
+~0A~~40~rex,2,5,r~0D~#012
+;000084D0{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;000084D6{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;000084DF{~0A~Pickup Skating~0D~}#022#016
+~0A~Pickup Skating~0D~#016
+;000084EF{~0A~~40~small,1~40~lf~0D~}#025#013
+~0A~~40~small,1~40~lf~0D~#013
+;000084FC{~0A~The cops are on to Rex and his pals. To get away, Rex grabs the quickest means of transportation available -- a nearby pickup truck.~0D~}#140#134
+~0A~The cops are on to Rex and his pals. To get away, Rex grabs the quickest means of transportation available -- a nearby pickup truck.~0D~#134
+;00008582{~0A~~40~lf~40~small,3~0D~}#025#013
+~0A~~40~lf~40~small,3~0D~#013
+;0000858F{~0A~Avoid oncoming traffic to help get the Tyrannosaur out of trouble.~0D~}#074#068
+~0A~Avoid oncoming traffic to help get the Tyrannosaur out of trouble.~0D~#068
+;000085D3{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;000085D9{~0A~~0D~}#008#002
+~0A~~0D~#002
+;000085DB{~0A~~40~dweeb,24,3,l~0D~}#024#015
+~0A~~40~dweeb,24,3,l~0D~#015
+;000085EA{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;000085F0{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;000085F9{~0A~Central Park~0D~}#020#014
+~0A~Central Park~0D~#014
+;00008607{~0A~~40~small,3~40~lf~0D~}#025#013
+~0A~~40~small,3~40~lf~0D~#013
+;00008614{~0A~In the chaos of the parade, Professor Screweyes has captured the dinosaurs. His objective is to turn them back into ferocious beasts so they can be an exhibit for his circus.~0D~}#182#176
+~0A~In the chaos of the parade, Professor Screweyes has captured the dinosaurs. His objective is to turn them back into ferocious beasts so they can be an exhibit for his circus.~0D~#176
+;000086C4{~0A~~40~lf~40~small,2~0D~}#025#013
+~0A~~40~lf~40~small,2~0D~#013
+;000086D1{~0A~Louie and Cecilia must get to his circus before it's too late!~0D~}#070#064
+~0A~Louie and Cecilia must get to his circus before it's too late!~0D~#064
+;00008711{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;00008717{~0A~~0D~}#008#002
+~0A~~0D~#002
+;00008719{~0A~~40~screweyes,2,3,r~0D~}#027#018
+~0A~~40~screweyes,2,3,r~0D~#018
+;0000872B{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00008731{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;0000873A{~0A~Circus Grounds~0D~}#022#016
+~0A~Circus Grounds~0D~#016
+;0000874A{~0A~~40~small,1~40~lf~0D~}#025#013
+~0A~~40~small,1~40~lf~0D~#013
+;00008757{~0A~After battling Screweyes' gang leader, Louie and Cecilia are ready to rescue their friends. Outside the big top trained monkeys and elephants are keeping watch.~0D~}#168#162
+~0A~After battling Screweyes' gang leader, Louie and Cecilia are ready to rescue their friends. Outside the big top trained monkeys and elephants are keeping watch.~0D~#162
+|1121
+@000087F9-00008AFC-00-0D
+;000087F9{~0A~~40~lf~40~small,2~0D~}#025#013
+~0A~~40~lf~40~small,2~0D~#013
+;00008806{~0A~Be careful, the animals of Dr.Screweyes' wicked circus are out to get you.~0D~}#082#076
+~0A~Be careful, the animals of Dr.Screweyes' wicked circus are out to get you.~0D~#076
+;00008852{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;00008858{~0A~~0D~}#008#002
+~0A~~0D~#002
+;0000885A{~0A~~40~rex,24,3,l~0D~}#022#013
+~0A~~40~rex,24,3,l~0D~#013
+;00008867{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;0000886D{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;00008876{~0A~Circus Tent~0D~}#019#013
+~0A~Circus Tent~0D~#013
+;00008883{~0A~~40~small,2~40~lf~0D~}#025#013
+~0A~~40~small,2~40~lf~0D~#013
+;00008890{~0A~Screweyes' henchmen are on the lookout for the kids here. You must get past many obstacles in order to get to the final showdown.~0D~}#137#131
+~0A~Screweyes' henchmen are on the lookout for the kids here. You must get past many obstacles in order to get to the final showdown.~0D~#131
+;00008913{~0A~~40~lf~40~small,1~0D~}#025#013
+~0A~~40~lf~40~small,1~0D~#013
+;00008920{~0A~Be careful, circus artists are trained to work high up in the air -- you're not.~0D~}#088#082
+~0A~Be careful, circus artists are trained to work high up in the air -- you're not.~0D~#082
+;00008972{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+;00008978{~0A~~0D~}#008#002
+~0A~~0D~#002
+;0000897A{~0A~~40~screweyes,24,3,l~0D~}#028#019
+~0A~~40~screweyes,24,3,l~0D~#019
+;0000898D{~0A~~40~big~0D~}#015#006
+~0A~~40~big~0D~#006
+;00008993{~0A~~40~center~0D~}#018#009
+~0A~~40~center~0D~#009
+;0000899C{~0A~The Cageroom~0D~}#020#014
+~0A~The Cageroom~0D~#014
+;000089AA{~0A~~40~small,2~40~lf~0D~}#025#013
+~0A~~40~small,2~40~lf~0D~#013
+;000089B7{~0A~Here the kids must find the keys to their friends cages and get them out. Screweyes has a lot of trained animals and even some tarantulas wich he has ordered to stop them.~0D~}#179#173
+~0A~Here the kids must find the keys to their friends cages and get them out. Screweyes has a lot of trained animals and even some tarantulas wich he has ordered to stop them.~0D~#173
+;00008A64{~0A~~40~lf~40~small,3~0D~}#025#013
+~0A~~40~lf~40~small,3~0D~#013
+;00008A71{~0A~However, some of Screweyes' crew are fed up with his mistreatment and will help Louie and Cecilia to defeat him in the final battle.~0D~}#140#134
+~0A~However, some of Screweyes' crew are fed up with his mistreatment and will help Louie and Cecilia to defeat him in the final battle.~0D~#134
+;00008AF7{~0A~~40~end~0D~}#015#006
+~0A~~40~end~0D~#006
+|772
+@00008B41-00008B66-00-0D
+;00008B41{(C)1994 UNIVERSAL CITY STUDIOS, INC. ~00~}#041#038
+(C)1994 UNIVERSAL CITY STUDIOS, INC. ~00~#038
+|38
+@00008B91-00008BB6-00-0D
+;00008B91{   AND AMBLIN ENTERTAINMENT, INC.    ~00~}#041#038
+   AND AMBLIN ENTERTAINMENT, INC.    ~00~#038
+|38
+@00008BE1-00008C06-00-0D
+;00008BE1{        ALL RIGHTS RESERVED          ~00~}#041#038
+        ALL RIGHTS RESERVED          ~00~#038
+|38
+@00008C31-00008C56-00-0D
+;00008C31{            LICENSED BY              ~00~}#041#038
+            LICENSED BY              ~00~#038
+|38
+@00008C81-00008CA6-00-0D
+;00008C81{  MCA/UNIVERSAL MERCHANDISING, INC.  ~00~}#041#038
+  MCA/UNIVERSAL MERCHANDISING, INC.  ~00~#038
+|38
+@00008CD1-00008CF6-00-0D
+;00008CD1{         USED BY PERMISSION          ~00~}#041#038
+         USED BY PERMISSION          ~00~#038
+|38
+@00008D21-00008D46-00-0D
+;00008D21{            DEVELOPED BY             ~00~}#041#038
+            DEVELOPED BY             ~00~#038
+|38
+@00008D71-00008D96-00-0D
+;00008D71{       FUNCOM PRODUCTIONS A/S        ~00~}#041#038
+       FUNCOM PRODUCTIONS A/S        ~00~#038
+|38
+@00008DC1-00008DE6-00-0D
+;00008DC1{            PUBLISHED BY             ~00~}#041#038
+            PUBLISHED BY             ~00~#038
+|38
+@00008E11-00008E36-00-0D
+;00008E11{      HI-TECH EXPRESSIONS, INC.      ~00~}#041#038
+      HI-TECH EXPRESSIONS, INC.      ~00~#038
+|38
+@00008E61-00008E86-00-0D
+;00008E61{ LICENSED BY SEGA ENTERPRISES, LTD.  ~00~}#041#038
+ LICENSED BY SEGA ENTERPRISES, LTD.  ~00~#038
+|38
+@00008F08-00008F19-00-0D
+;00008F08{A DINOSAUR'S TALE~00~}#021#018
+A DINOSAUR'S TALE~00~#018
+|18
+@0000A1AC-0000A1E2-00-0D
+;0000A1AC{EASY      ~00~}#014#011
+EASY      ~00~#011
+;0000A1B7{NORMAL    ~00~}#014#011
+NORMAL    ~00~#011
+;0000A1C2{HARD      ~00~}#014#011
+HARD      ~00~#011
+;0000A1CD{FLIGHT SIM~00~}#014#011
+FLIGHT SIM~00~#011
+;0000A1D8{ARCADE    ~00~}#014#011
+ARCADE    ~00~#011
+|55
+@0000A20B-0000A21C-00-0D
+;0000A20B{FLIGHT MODE: ~02~%s ~00~}#024#018
+FLIGHT MODE: ~02~%s ~00~#018
+|18
+@0000A249-0000A25A-00-0D
+;0000A249{DIFFICULTY:  ~02~%s ~00~}#024#018
+DIFFICULTY:  ~02~%s ~00~#018
+|18
+@0000A287-0000A294-00-0D
+;0000A287{SOUND TEST:  ~02~}#017#014
+SOUND TEST:  ~02~#014
+|14
+@0000A2C3-0000A2D0-00-0D
+;0000A2C3{EXIT         ~00~}#017#014
+EXIT         ~00~#014
+|14
+@0000A4EC-0000A4FC-00-0D
+;0000A4EC{OPTIONS~00~}#011#008
+OPTIONS~00~#008
+;0000A4F4{ABACABAB~00~}#012#009
+ABACABAB~00~#009
+|17
+@0000B3EC-0000B479-00-0D
+;0000B3EC{SETH W ROSENFELD~00~}#020#017
+SETH W ROSENFELD~00~#017
+;0000B3FD{ANDRE BACKEN~00~}#016#013
+ANDRE BACKEN~00~#013
+;0000B40A{ROAR FLOLO~00~}#014#011
+ROAR FLOLO~00~#011
+;0000B415{ERIK BAKKEN~00~}#015#012
+ERIK BAKKEN~00~#012
+;0000B421{MAX MEKKER~00~}#014#011
+MAX MEKKER~00~#011
+;0000B42C{CARL HANSSON~00~}#016#013
+CARL HANSSON~00~#013
+;0000B439{CLAUDIA SCHIFFER~00~}#020#017
+CLAUDIA SCHIFFER~00~#017
+;0000B44A{MERETHE ANDERSEN~00~}#020#017
+MERETHE ANDERSEN~00~#017
+;0000B45B{CAPTAIN NEWEYES~00~}#019#016
+CAPTAIN NEWEYES~00~#016
+;0000B46B{KIMBO OG JOKKE~00~}#018#015
+KIMBO OG JOKKE~00~#015
+|142
+@0000C1D8-0000C1E3-00-0D
+;0000C1D8{RIVER DOCKS~00~}#015#012
+RIVER DOCKS~00~#012
+|12
+@000116CA-000116D7-00-0D
+;000116CA{CECILIAS FLAT~00~}#017#014
+CECILIAS FLAT~00~#014
+|14
+@00011AD8-00011AE5-00-0D
+;00011AD8{CECILIAS FLAT~00~}#017#014
+CECILIAS FLAT~00~#014
+|14
+@00011EFE-00011F18-00-0D
+;00011EFE{CECILIAS FLAT             ~00~}#030#027
+CECILIAS FLAT             ~00~#027
+|27
+@0001991A-00019923-00-0D
+;0001991A{TV STUDIO~00~}#013#010
+TV STUDIO~00~#010
+|10
+@0001FEE6-0001FEF0-00-0D
+;0001FEE6{THE PARADE~00~}#014#011
+THE PARADE~00~#011
+|11
+@00027AF6-00027B02-00-0D
+;00027AF6{CENTRAL PARK~00~}#016#013
+CENTRAL PARK~00~#013
+|13
+@0003006E-0003007C-00-0D
+;0003006E{CIRCUS GROUNDS~00~}#018#015
+CIRCUS GROUNDS~00~#015
+|15
+@00036EC4-00036ECF-00-0D
+;00036EC4{CIRCUS TENT~00~}#015#012
+CIRCUS TENT~00~#012
+|12
+@0003BDC2-0003BDD2-00-0D
+;0003BDC2{CIRCUS CAGE ROOM~00~}#020#017
+CIRCUS CAGE ROOM~00~#017
+|17
+@000622B2-000622C6-00-0D
+;000622B2{CENTRAL PARK, FLYING~00~}#024#021
+CENTRAL PARK, FLYING~00~#021
+|21
+@00065DF8-00065E0D-00-0D
+;00065DF8{FLYING IN THE STREETS~00~}#025#022
+FLYING IN THE STREETS~00~#022
+|22
+@00068488-00068494-00-0D
+;00068488{SCOOTER RIDE~00~}#016#013
+SCOOTER RIDE~00~#013
+|13
+@0006B12E-0006B13C-00-0D
+;0006B12E{PICKUP SKATING~00~}#018#015
+PICKUP SKATING~00~#015
+|15
+@00070BF4-00070CD8-00-0D
+;00070BF4{GET READY~00~}#013#010
+GET READY~00~#010
+;00070BFE{If you can read this you are too close.~00~}#043#040
+If you can read this you are too close.~00~#040
+;00070C26{GAME OVER~00~}#013#010
+GAME OVER~00~#010
+;00070C30{The magic sequence may be found somewhere...WELL DONE~00~}#057#054
+The magic sequence may be found somewhere...WELL DONE~00~#054
+;00070C66{You nitwit.~00~}#015#012
+You nitwit.~00~#012
+;00070C72{This game was brought to you by not a mere wizard but a wizard extraordinaire: !NOAH! of !PORNOS!~00~}#101#098
+This game was brought to you by not a mere wizard but a wizard extraordinaire: !NOAH! of !PORNOS!~00~#098
+;00070CD4{BODY~00~}#008#005
+BODY~00~#005
+|229
+@0007567C-000756A8-00-0D
+;0007567C{The creeper program - brought to you by Noah~00~}#048#045
+The creeper program - brought to you by Noah~00~#045
+|45
+@000759EE-00075D71-00-0D
+;000759EE{~02~ ~03~A DINOSAUR'S TALE~02~ ~02~CREDITS~02~------------------~02~ ~03~PROGRAMMING~02~------------------~02~ROAR FLOLO~02~MORTEN OFSTAD~02~ ~03~3D PROGRAMMING~02~------------------~02~MORTEN OFSTAD~02~ ~03~EDITOR PROGRAMMING~02~------------------~02~EIVIND EKLUND~02~IVAR J. OLSEN~02~ ~03~ADDITIONAL~03~PROGRAMMING~02~------------------~02~CARL H. SKAARSTEDT~02~OLAV MORKRID~02~ ~03~BACKGROUND GRAPHICS~02~------------------~02~OLE P. ROSENLUND~02~JOACHIM BARRUM~02~TORE BLYSTAD~02~RONNIE JENSEN~02~ ~03~SPRITE GRAPHICS~02~------------------~02~OLE P. ROSENLUND~02~ERIK BAKKEN~02~LARS P. ARNFINSEN~02~JOACHIM BARRUM~02~TORE BLYSTAD~02~ ~03~MAIN CHARACTER~03~ANIMATION~02~------------------~02~OLE P. ROSENLUND~02~ ~03~LEVEL EDITING~02~------------------~02~ERIK BAKKEN~02~TORE BLYSTAD~02~RONNIE JENSEN~02~ ~03~MUSIC~02~------------------~02~KIM JENSEN~02~ ~03~GAME DESIGN~02~------------------~02~BJORN ROESTOEN~02~GAUTE GODAGER~02~IAN NEIL~02~ ~03~PRODUCERS~02~------------------~02~HENNING ROKLING~02~SETH W. ROSENFELD~02~ ~03~EXECUTIVE PRODUCER~02~------------------~02~ERIK GLOERSEN~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~FF~~00~}#1146#900
+~02~ ~03~A DINOSAUR'S TALE~02~ ~02~CREDITS~02~------------------~02~ ~03~PROGRAMMING~02~------------------~02~ROAR FLOLO~02~MORTEN OFSTAD~02~ ~03~3D PROGRAMMING~02~------------------~02~MORTEN OFSTAD~02~ ~03~EDITOR PROGRAMMING~02~------------------~02~EIVIND EKLUND~02~IVAR J. OLSEN~02~ ~03~ADDITIONAL~03~PROGRAMMING~02~------------------~02~CARL H. SKAARSTEDT~02~OLAV MORKRID~02~ ~03~BACKGROUND GRAPHICS~02~------------------~02~OLE P. ROSENLUND~02~JOACHIM BARRUM~02~TORE BLYSTAD~02~RONNIE JENSEN~02~ ~03~SPRITE GRAPHICS~02~------------------~02~OLE P. ROSENLUND~02~ERIK BAKKEN~02~LARS P. ARNFINSEN~02~JOACHIM BARRUM~02~TORE BLYSTAD~02~ ~03~MAIN CHARACTER~03~ANIMATION~02~------------------~02~OLE P. ROSENLUND~02~ ~03~LEVEL EDITING~02~------------------~02~ERIK BAKKEN~02~TORE BLYSTAD~02~RONNIE JENSEN~02~ ~03~MUSIC~02~------------------~02~KIM JENSEN~02~ ~03~GAME DESIGN~02~------------------~02~BJORN ROESTOEN~02~GAUTE GODAGER~02~IAN NEIL~02~ ~03~PRODUCERS~02~------------------~02~HENNING ROKLING~02~SETH W. ROSENFELD~02~ ~03~EXECUTIVE PRODUCER~02~------------------~02~ERIK GLOERSEN~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~02~ ~FF~~00~#900
+|900

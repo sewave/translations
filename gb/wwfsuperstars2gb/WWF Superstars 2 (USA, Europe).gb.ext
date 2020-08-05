@@ -1,0 +1,216 @@
+@000005FB-0000060B-00
+;000005FB{  One Player~00~}#016#013
+  One Player~00~#013
+;00000608{~FF~~FF~~EF~~05~}#016#004
+~FF~~FF~~EF~~05~#004
+|17
+@00000614-00000623-00
+;00000614{  Two Players~00~}#017#014
+  Two Players~00~#014
+;00000622{C~99~}#005#002
+C~99~#002
+|16
+@0000065C-0000066C-00
+;0000065C{\   Tag Team~00~}#016#013
+\   Tag Team~00~#013
+;00000669{~FF~~FF~Q~06~}#013#004
+~FF~~FF~Q~06~#004
+|17
+@00000675-00000683-00
+;00000675{  Tournament~00~}#016#013
+  Tournament~00~#013
+;00000682{C~99~}#005#002
+C~99~#002
+|15
+@000006BC-000006CE-00
+;000006BC{\  Tag Team Vs~00~}#018#015
+\  Tag Team Vs~00~#015
+;000006CB{~FF~~FF~~B1~~06~}#016#004
+~FF~~FF~~B1~~06~#004
+|19
+@000006D6-000006E4-00
+;000006D6{\   Tag Team~00~}#016#013
+\   Tag Team~00~#013
+;000006E3{E~99~}#005#002
+E~99~#002
+|15
+@000006FF-00000710-00
+;000006FF{Regular Match~00~}#017#014
+Regular Match~00~#014
+;0000070D{~FF~~FF~~F3~~06~}#016#004
+~FF~~FF~~F3~~06~#004
+|18
+@00000719-00000727-00
+;00000719{  Cage Match~00~}#016#013
+  Cage Match~00~#013
+;00000726{C~99~}#005#002
+C~99~#002
+|15
+@00000748-00000758-00
+;00000748{ Easy Computer~00~}#018#015
+ Easy Computer~00~#015
+;00000757{s~07~}#005#002
+s~07~#002
+|17
+@00000763-00000776-00
+;00000763{Medium Computer~00~}#019#016
+Medium Computer~00~#016
+;00000773{~FF~~FF~W~07~}#013#004
+~FF~~FF~W~07~#004
+|20
+@0000077F-0000078F-00
+;0000077F{ Hard Computer~00~}#018#015
+ Hard Computer~00~#015
+;0000078E{e~99~}#005#002
+e~99~#002
+|17
+@000007BA-000007C8-00
+;000007BA{   Rematch~00~}#014#011
+   Rematch~00~#011
+;000007C5{~FF~~FF~~AE~~07~}#016#004
+~FF~~FF~~AE~~07~#004
+|15
+@000007D1-000007DF-00
+;000007D1{  Start Over~00~}#016#013
+  Start Over~00~#013
+;000007DE{e~99~}#005#002
+e~99~#002
+|15
+@0000080A-0000081A-00
+;0000080A{  Next match~00~}#016#013
+  Next match~00~#013
+;00000817{~FF~~FF~~FE~~07~}#016#004
+~FF~~FF~~FE~~07~#004
+|17
+@00000823-00000831-00
+;00000823{  Start Over~00~}#016#013
+  Start Over~00~#013
+;00000830{C~98~}#005#002
+C~98~#002
+|15
+@00000864-00000875-00
+;00000864{  Hulk Hogan™~00~}#017#014
+  Hulk Hogan™~00~#014
+;00000872{~8D~~08~[~08~}#013#004
+~8D~~08~[~08~#004
+|18
+@0000087A-00000890-00
+;0000087A{H ~02~~04~  Macho Man™  ~00~}#028#019
+H ~02~~04~  Macho Man™  ~00~#019
+;0000088D{~FF~~FF~r~08~}#013#004
+~FF~~FF~r~08~#004
+|23
+@00000895-000008AA-00
+;00000895{p ~01~~03~ Sid Justice™~00~}#027#018
+p ~01~~03~ Sid Justice™~00~#018
+;000008A7{~C1~~08~~FF~~FF~}#016#004
+~C1~~08~~FF~~FF~#004
+|22
+@000008AF-000008C4-00
+;000008AF{ H~03~~05~ The Mountie™~00~}#027#018
+ H~03~~05~ The Mountie™~00~#018
+;000008C1{~DD~~08~~A7~~08~}#016#004
+~DD~~08~~A7~~08~#004
+|22
+@000008C9-000008E0-00
+;000008C9{HH~04~~06~The Undertaker™~00~}#029#020
+HH~04~~06~The Undertaker™~00~#020
+;000008DD{~FF~~FF~~C1~~08~}#016#004
+~FF~~FF~~C1~~08~#004
+|24
+@000008E5-000008FC-00
+;000008E5{pH~05~~07~Jake The Snake™~00~}#029#020
+pH~05~~07~Jake The Snake™~00~#020
+;000008F9{~F0~~BF~~F5~~E5~}#016#004
+~F0~~BF~~F5~~E5~#004
+|24
+@000038CB-000038FE-00
+;000038CB{Player 1 Select~00~}#019#016
+Player 1 Select~00~#016
+;000038DB{Player 2 Select~00~}#019#016
+Player 2 Select~00~#016
+;000038EB{Computer Select~00~}#019#016
+Computer Select~00~#016
+;000038FB{~CD~~06~~12~~CD~}#016#004
+~CD~~06~~12~~CD~#004
+|52
+@000048B1-00004922-00
+;000048B1{vJ~C9~Programmed    By/\John Lewis Guymon Jr/\\  Tested By/\  Matt Grate,/\  Lee Smith, and /\  Joe Buffington ~00~}#115#109
+vJ~C9~Programmed    By/\John Lewis Guymon Jr/\\  Tested By/\  Matt Grate,/\  Lee Smith, and /\  Joe Buffington ~00~#109
+;0000491E{~F5~~C5~~11~ ~8D~}#017#005
+~F5~~C5~~11~ ~8D~#005
+|114
+@00004ACE-00004B45-00
+;00004ACE{KThe Immortal Hulk/\Hogan~00~}#029#026
+KThe Immortal Hulk/\Hogan~00~#026
+;00004AE8{Sid Justice~00~}#015#012
+Sid Justice~00~#012
+;00004AF4{Macho Man Randy/\Savage~00~}#027#024
+Macho Man Randy/\Savage~00~#024
+;00004B0C{The Mountie~00~}#015#012
+The Mountie~00~#012
+;00004B18{The Undertaker~00~}#018#015
+The Undertaker~00~#015
+;00004B27{Jake ~25~The Snake~27~/\Roberts~00~}#035#026
+Jake ~25~The Snake~27~/\Roberts~00~#026
+;00004B41{MK~9E~K~E1~}#011#005
+MK~9E~K~E1~#005
+|120
+@00004B4C-00004D13-00
+;00004B4C{LhFrom Venice Beach,/\California, weighing/\303 pounds, The/\Immortal Hulk Hogan!~00~}#085#082
+LhFrom Venice Beach,/\California, weighing/\303 pounds, The/\Immortal Hulk Hogan!~00~#082
+;00004B9E{hFrom West Memphis,/\Arkansas, weighing/\318 pounds,/\Sid Justice!~00~}#070#067
+hFrom West Memphis,/\Arkansas, weighing/\318 pounds,/\Sid Justice!~00~#067
+;00004BE1{hFrom Sarasota,/\Florida, weighing/\245 pounds, Macho/\Man Randy Savage!~00~}#076#073
+hFrom Sarasota,/\Florida, weighing/\245 pounds, Macho/\Man Randy Savage!~00~#073
+;00004C2A{hFrom Canada,/\weighing 245 pounds,/\The Mountie!~00~}#053#050
+hFrom Canada,/\weighing 245 pounds,/\The Mountie!~00~#050
+;00004C5C{hFrom Death Valley,/\weighing 328 pounds,/\The Undertaker!~00~}#062#059
+hFrom Death Valley,/\weighing 328 pounds,/\The Undertaker!~00~#059
+;00004C97{hFrom Stone Mountain,/\Georgia, weighing/\249 pounds, Jake/\~25~The Snake~27~ Roberts!~00~}#090#081
+hFrom Stone Mountain,/\Georgia, weighing/\249 pounds, Jake/\~25~The Snake~27~ Roberts!~00~#081
+;00004CE8{And his tag team/\partner, weighing ~00~}#040#037
+And his tag team/\partner, weighing ~00~#037
+;00004D0D{~19~MBM~5F~M~88~}#016#007
+~19~MBM~5F~M~88~#007
+|456
+@00004D18-00004E29-00
+;00004D18{Mh\\303 pounds, The/\Immortal Hulk Hogan!~00~}#045#042
+Mh\\303 pounds, The/\Immortal Hulk Hogan!~00~#042
+;00004D42{h\\318 pounds,/\Sid Justice!~00~}#032#029
+h\\318 pounds,/\Sid Justice!~00~#029
+;00004D5F{~60~\\245 pounds,/\Macho Man Randy/\Savage!~00~}#047#041
+~60~\\245 pounds,/\Macho Man Randy/\Savage!~00~#041
+;00004D88{h\\245 pounds,/\The Mountie!~00~}#032#029
+h\\245 pounds,/\The Mountie!~00~#029
+;00004DA5{h\\328 pounds, The/\Undertaker!~00~}#035#032
+h\\328 pounds, The/\Undertaker!~00~#032
+;00004DC5{h\\249 pounds, Jake/\~25~The Snake~27~ Roberts!~00~}#051#042
+h\\249 pounds, Jake/\~25~The Snake~27~ Roberts!~00~#042
+;00004DEF{/\And his/\    opponent...~00~}#030#027
+/\And his/\    opponent...~00~#027
+;00004E0A{/\And their/\    opponents...~00~}#033#030
+/\And their/\    opponents...~00~#030
+;00004E28{.~00~}#005#002
+.~00~#002
+|274
+@00004E35-00004F39-00
+;00004E35{/\/\The winner of the/\match is~26~~00~}#039#033
+/\/\The winner of the/\match is~26~~00~#033
+;00004E56{As a result of a/\count~2D~out, the/\winner of the/\match is~26~~00~}#068#059
+As a result of a/\count~2D~out, the/\winner of the/\match is~26~~00~#059
+;00004E91{/\/\The winning team in/\this bout is~26~~00~}#045#039
+/\/\The winning team in/\this bout is~26~~00~#039
+;00004EB8{As a result of a/\count~2D~out, the/\winning team in the/\bout is~26~~00~}#073#064
+As a result of a/\count~2D~out, the/\winning team in the/\bout is~26~~00~#064
+;00004EF8{/\Ladies and/\gentlemen,/\we have a double/\disqualification!~00~}#065#062
+/\Ladies and/\gentlemen,/\we have a double/\disqualification!~00~#062
+;00004F36{~CD~~C4~V~CD~}#013#004
+~CD~~C4~V~CD~#004
+|261
+@00005201-0000520E-00
+;00005201{GAME OVER~00~}#013#010
+GAME OVER~00~#010
+;0000520B{~AF~~E0~~E6~~3E~}#016#004
+~AF~~E0~~E6~~3E~#004
+|14

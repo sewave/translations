@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Hatris (Japan).nes"
+set SCRIPTNAME="hatrisjapnes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 463F:100,490F:30,4D0F:30,4DEF:80,4EEF:80,506F:200,17547:70,175F7:70,17927:70,17AC7:40,17B97:40,4A9F:10,4B0F:10,561F:10
+pause

@@ -1,0 +1,212 @@
+@00001311-0000137F-00
+;00001311{      NEW GAME~00~}#018#015
+      EMPEZAR ~00~#015
+;00001320{      PASSWORD~00~}#018#015
+      PASSWORD~00~#015
+;0000132F{   c1993  SUNSOFT~00~}#021#018
+   c1993  SUNSOFT~00~#018
+;00001341{LICENSED BY NINTENDO~00~}#024#021
+LICENCIA DE NINTENDO~00~#021
+;00001356{SECTION 1 COMPLETE!!~00~}#024#021
+SECCIÓN 1 COMPLETA!!~00~#021
+;0000136B{        000 X 100   ~00~}#024#021
+        000 X 100   ~00~#021
+|111
+@00004C8C-00004C96-00
+;00004C8C{RE PORTING~00~}#014#011
+REPORTANDO~00~#011
+|11
+@00004DB4-00004DEA-00
+;00004DB4{ CONTINUE? >YES< NO  ~00~}#025#022
+CONTINUAR? >SÍ<  NO  ~00~#022
+;00004DCA{ CONTINUE?  YES >NO< ~00~}#025#022
+CONTINUAR?  SÍ  >NO< ~00~#022
+;00004DE0{GAME  OVER~00~}#014#011
+FIN  JUEGO~00~#011
+|55
+@00005705-00005764-00
+;00005705{    ICE ZONE      DESERT  ZONE    MEXICO  ZONE    COUNTRY ZONE    FOREST  ZONE   CHEESE  ISLAND }#096#096
+   ZONA HIELO   
+ ZONA  DESIERTO 
+  ZONA  MÉXICO  
+   ZONA  PAÍS   
+  ZONA  BOSQUE  
+   ISLA QUESO   #096
+|96
+@00006E29-00006E9D-00
+;00006E29{LEVEL 2 PASSWORD IS~00~}#023#020
+PASSWORD NIVEL 2 ES~00~#020
+;00006E3D{LEVEL 3 PASSWORD IS~00~}#023#020
+PASSWORD NIVEL 3 ES~00~#020
+;00006E51{LEVEL 4 PASSWORD IS~00~}#023#020
+PASSWORD NIVEL 4 ES~00~#020
+;00006E65{LEVEL 5 PASSWORD IS~00~}#023#020
+PASSWORD NIVEL 5 ES~00~#020
+;00006E79{LEVEL 6 PASSWORD IS~00~}#023#020
+PASSWORD NIVEL 6 ES~00~#020
+;00006E8D{    PRESS  START~00~}#020#017
+    PULSA  START~00~#017
+|117
+@00007104-0000715D-00
+;00007104{   ICE ZONE   ~00~}#018#015
+  ZONA HIELO  ~00~#015
+;00007113{ DESERT  ZONE ~00~}#018#015
+ZONA  DESIERTO~00~#015
+;00007122{ MEXICAN ZONE ~00~}#018#015
+ZONA  MEXICANA~00~#015
+;00007131{ COUNTRY ZONE ~00~}#018#015
+  ZONA  PAÍS  ~00~#015
+;00007140{ FOREST  ZONE ~00~}#018#015
+ ZONA  BOSQUE ~00~#015
+;0000714F{CHEESE  ISLAND~00~}#018#015
+  ISLA QUESO  ~00~#015
+|90
+@00007CAD-00007CD3-00
+;00007CAD{ CHEESE BONUS~00~}#017#014
+ BONOS QUESO ~00~#014
+;00007CBB{ SCORE ~00~}#011#008
+ MARCA ~00~#008
+;00007CC3{    PRESS START!~00~}#020#017
+    PULSA START!~00~#017
+|39
+@0000F4CF-0000FDDF-00
+;0000F4CF{                                                                                                       ARRIBA  ARRIBA      ANDALE  ANDALE                                                WELL DONE       YOU HAVE DEFEATED       KING  RAT                                                                                                              PRODUCED  BY      CITIZEN SOFTWARE                                            PROGRAMMING  AND       DESIGN  BY        NIGEL  SPEIGHT                            GRAFIX  BY        DAVID GARRISON       WAYNE DALTON                           NIGEL  SPEIGHT      ANDREW  PARKIN      LIAM OSULLIVAN                          PAPER  ARTWORK      AND STORYBOARD        MARK MOULD                            SPECIAL THANKS            TO               AL ARTUS                                                                                                          DIRECTOR OF PRODUCT     DEVELOPMENT        DAVID  SILLER                        EXEC VICE PRESIDENT     CO PRODUCER        RITA  ZIMMERER                        TECHNICAL  MANAGER       AL ARTUS                                              EXECUTIVE  COMMITTEE   TAD  SHIMAMOTO      KIHARU YOSHIDA                             CHAIRMAN          MASAMI MAEDA                                             DIRECTOR MARKETING      ADVERTISING       KAREN  SHADLEY                        GAME MANUAL DESIGN    ALISON QUIRION                                           GREAT GAME DEBUGGERS     SAM  PATEL         DARIN HORGAN                           SUNSOFT  STAFF                                                                   BRUCE REILLY         CATHY JUBY          ERIN BERRY                             RENE  BOUTIN        JUNE  ECKERT        STEVE GEHRKE                            GEOFF GILLIS         KAZ HARMAN         MARTHA  HART                          NANETTE  HYSSONG    JAMIE  JORGENSEN      KAREN LILLIE                            MARK  LUSZCZ       DAN MAC ARTHUR        TOKO OKANO                             CONNIE PEREZ        SHERRY  ROSS       JUSTIN  SILLER                          JULIE WILLIAMS      KENJI YOSHIOKA          KAWAI                                    GOTO              TAKEUCHI                                                                                                          ~FF~}#2324#2321
+                    
+                    
+                    
+                    
+                    
+   ARRIBA  ARRIBA   
+   ANDALE  ANDALE   
+                    
+                    
+     WELL DONE      
+ YOU HAVE DEFEATED  
+     KING  RAT      
+                    
+                    
+                    
+                    
+                    
+    PRODUCED  BY    
+  CITIZEN SOFTWARE  
+                    
+                    
+  PROGRAMMING  AND  
+     DESIGN  BY     
+   NIGEL  SPEIGHT   
+                    
+     GRAFIX  BY     
+   DAVID GARRISON   
+    WAYNE DALTON    
+                    
+   NIGEL  SPEIGHT   
+   ANDREW  PARKIN   
+   LIAM OSULLIVAN   
+                    
+   PAPER  ARTWORK   
+   AND STORYBOARD   
+     MARK MOULD     
+                    
+   SPECIAL THANKS   
+         TO         
+      AL ARTUS      
+                    
+                    
+                    
+                    
+                    
+DIRECTOR OF PRODUCT 
+    DEVELOPMENT     
+   DAVID  SILLER    
+                    
+EXEC VICE PRESIDENT 
+    CO PRODUCER     
+   RITA  ZIMMERER   
+                    
+ TECHNICAL  MANAGER 
+      AL ARTUS      
+                    
+                    
+EXECUTIVE  COMMITTEE
+   TAD  SHIMAMOTO   
+   KIHARU YOSHIDA   
+                    
+      CHAIRMAN      
+    MASAMI MAEDA    
+                    
+                    
+ DIRECTOR MARKETING 
+     ADVERTISING    
+   KAREN  SHADLEY   
+                    
+ GAME MANUAL DESIGN 
+   ALISON QUIRION   
+                    
+                    
+GREAT GAME DEBUGGERS
+     SAM  PATEL     
+    DARIN HORGAN    
+                    
+   SUNSOFT  STAFF   
+                    
+                    
+                    
+    BRUCE REILLY    
+     CATHY JUBY     
+     ERIN BERRY     
+                    
+    RENE  BOUTIN    
+    JUNE  ECKERT    
+    STEVE GEHRKE    
+                    
+    GEOFF GILLIS    
+     KAZ HARMAN     
+    MARTHA  HART    
+                    
+  NANETTE  HYSSONG  
+  JAMIE  JORGENSEN  
+    KAREN LILLIE    
+                    
+    MARK  LUSZCZ    
+   DAN MAC ARTHUR   
+     TOKO OKANO     
+                    
+    CONNIE PEREZ    
+    SHERRY  ROSS    
+   JUSTIN  SILLER   
+                    
+   JULIE WILLIAMS   
+   KENJI YOSHIOKA   
+       KAWAI        
+                    
+        GOTO        
+      TAKEUCHI      
+                    
+                    
+                    
+                    
+                    ~FF~#2321
+|2321
+@0001FDE9-0001FE5E-00
+;0001FDE9{LOONEY TUNES,~00~}#017#014
+LOONEY TUNES,~00~#014
+;0001FDF7{CHARACTERS,~00~}#015#012
+PERSONAJES,~00~#012
+;0001FE03{NAMES AND ALL~00~}#017#014
+NAMES AND ALL~00~#014
+;0001FE11{RELATED INDICIA ARE~00~}#023#020
+RELATED INDICIA ARE~00~#020
+;0001FE25{TRADEMARKS OF~00~}#017#014
+TRADEMARKS OF~00~#014
+;0001FE33{WARNER BROS.~00~}#016#013
+WARNER BROS.~00~#013
+;0001FE40{c1993 ALL RIGHTS~00~}#020#017
+c1993 ALL RIGHTS~00~#017
+;0001FE51{    RESERVED.~00~}#017#014
+    RESERVED.~00~#014
+|118
+@000324CD-000324E0-00
+;000324CD{   PASSWORD 000000 ~00~}#023#020
+   PASSWORD 000000 ~00~#020
+|20

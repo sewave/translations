@@ -1,0 +1,321 @@
+@0001891F-00018923-FF
+;0001891F{S= 0 }#005#005
+S= 0 #005
+|5
+@00018A86-00018A8C-FF
+;00018A86{ S= 0  }#007#007
+ S= 0  #007
+|7
+@0001945F-00019464-FF
+;0001945F{S= 0  }#006#006
+S= 0  #006
+|6
+@000194AF-000194B4-FF
+;000194AF{WE,   }#006#006
+ARMA  #006
+|6
+@000195C7-000195CC-FF
+;000195C7{S=+1  }#006#006
+S=+1  #006
+|6
+@00019617-0001961C-FF
+;00019617{WE,   }#006#006
+ARMA  #006
+|6
+@0001972F-00019734-FF
+;0001972F{S=-1  }#006#006
+S=-1  #006
+|6
+@0001977F-00019784-FF
+;0001977F{WE,   }#006#006
+ARMA  #006
+|6
+@0001AE19-0001AE22-FF
+;0001AE19{   S= 0   }#010#010
+   S= 0   #010
+|10
+@0001AF81-0001AF8A-FF
+;0001AF81{   S= 0   }#010#010
+   S= 0   #010
+|10
+@000063F5-00006574-FF
+;000063F5{START   CONTINUE  NOMAD ISLAND   SEAWALL ISLAND   DEADLY EIGHT    SEA CHAMBER      SWAMP LAND    CURSED STRAITS   INNOCENT SEA  TWILIGHT ISLAND  DIAMOND ISLAND  DRAGON CHANNEL   LAST MISSION                      TWISTERS        NEPTUNE        LIGHTNING       CROSS FIRE       METEORS       METAL SHARKS        ARES           NORMAL       STRONG WIND    MAGNETIC FIELD    DENSE FOG    }#384#384
+EMPIEZA CONTINÚA
+  ISLA NÓMADA   
+ ISLA ROMPEOLAS 
+OCHO MORTÍFEROS 
+ CÁMARA MARINA  
+ TIERRA PANTANO 
+ESTRECHO MALDITO
+  MAR INOCENTE  
+ISLA CREPÚSCULO 
+ ISLA DIAMANTE  
+  CANAL DRAGÓN  
+ ÚLTIMA MISIÓN  
+                
+    TORNADOS    
+    NEPTUNO     
+   RELÁMPAGO    
+ FUEGO CRUZADO  
+    METEOROS    
+TIBURÓN METÁLICO
+      ARES      
+     NORMAL     
+ VIENTO FUERTE  
+CAMPO MAGNÉTICO 
+  NIEBLA DENSA  #384
+|384
+@00006631-00006690-FF
+;00006631{  FLAGSHIP        BATTLESHIP      CRUISER         DESTROYER       SUBMARINE       FIGHTER       }#096#096
+  INSIGNIA      
+  ACORAZADO     
+  CRUCERO       
+  DESTRUCTOR    
+  SUBMARINO     
+  CAZA          #096
+|96
+@0000669C-000066C8-FF
+;0000669C{[ DATA  ][ RADAR ][ MOVE  ][ ATTACK][ END   ]}#045#045
+[ DATOS ]
+[ RADAR ]
+[ MOVER ]
+[ ATACAR]
+[ FIN   ]#045
+|45
+@00009404-00009463-FF
+;00009404{   FLAGSHIP        BATTLESHIP      CRUISER         DESTROYER       SUBMARINE       FIGHTER      }#096#096
+   INSIGNIA     
+   ACORAZADO    
+   CRUCERO      
+   DESTRUCTOR   
+   SUBMARINO    
+   CAZA         #096
+|96
+@0000B9CC-0000BB35-FF
+;0000B9CC{                                            POWER MISSION                             SOUND TEST                                                                  BACK GROUND MUSIC                                       ~35~~35~           NÚMERO=~3C~~3C~                      SOUND EFFECT                                            ~35~~35~           NÚMERO=~3C~~3C~                      }#386#362
+ 
+                    
+                    
+   POWER MISSION    
+                    
+     TEST AUDIO     
+                    
+                    
+                    
+ MÚSICA DE FONDO    
+                    
+                 ~35~~35~ 
+          NÚMERO=~3C~~3C~ 
+                    
+ EFECTO DE SONIDO   
+                    
+                 ~35~~35~ 
+          NÚMERO=~3C~~3C~ 
+                    
+ #362
+|362
+@00018347-00018424-FF
+;00018347{  ! NOMAD ISLAND   !  !                !  ! SEAWALL ISLAND !  !                !  ! DEADLY EIGHT   !  !                !  ! SEA CHAMBER    !  !                !  ! SWAMP LAND     !  !                !  ! (NEXT)         !  }#222#222
+  ! ISLA NÓMADA    !
+  !                !
+  ! ISLA ROMPEOLAS !
+  !                !
+  ! OCHO MORTÍFEROS!
+  !                !
+  ! CÁMARA MARINA  !
+  !                !
+  ! TIERRA PANTANO !
+  !                !
+  ! (SIGUIENTE)    !  #222
+|222
+@000184FA-0001852B-FF
+;000184FA{            NÚMERO ~3C~                             ~34~}#056#050
+            NÚMERO ~3C~                             ~34~#050
+|50
+@0001867C-00018692-FF
+;0001867C{ (POSICIÓN OF UNIT)    }#023#023
+(POSICIÓN DE UNIDAD)
+   #023
+|23
+@000188CF-000188D3-FF
+;000188CF{X=00 }#005#005
+X=00 #005
+|5
+@000188F7-000188FB-FF
+;000188F7{Y=00 }#005#005
+Y=00 #005
+|5
+@00018947-0001894B-FF
+;00018947{SC~35~~35~ }#011#005
+CS~35~~35~ #005
+|5
+@000189B0-000189EC-FF
+;000189B0{ (UNIDAD)                                                    }#061#061
+(UNIDAD)                                                     #061
+|61
+@00018A36-00018A3B-FF
+;00018A36{ X=00 }#006#006
+ X=00 #006
+|6
+@00018A5E-00018A64-FF
+;00018A5E{ Y=00  }#007#007
+ Y=00  #007
+|7
+@00018AAE-00018AB4-FF
+;00018AAE{ MC~35~~35~  }#013#007
+ CM~35~~35~  #007
+|7
+@00018AFE-00018C6E-FF
+;00018AFE{                           (UNIDAD)                                                    (UNIDAD)                          ~88~~89~~2F~     FLAGSHIP    ~98~~99~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~3A~~35~             AHORA~45~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~45~                       (ARMAMENTO)                               }#414#369
+                          
+(UNIDAD)            
+                     
+                    
+(UNIDAD)                          ~88~~89~~2F~     INSIGNIA    ~98~~99~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~3A~~35~             AHORA~45~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~45~                       (ARMAMENTO)                               #369
+|369
+@00018C92-00018DD6-FF
+;00018C92{     __~2E~__~2E~__~2E~__~2E~__~2E~                       (UNIDAD)                          ~8A~~8B~~2F~     BATTLESHIP  ~9A~~9B~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~38~~35~             AHORA~45~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~3F~                       (ARMAMENTO)                               }#385#325
+     __~2E~__~2E~__~2E~__~2E~__~2E~                      
+ (UNIDAD)                          ~8A~~8B~~2F~  
+   ACORAZADO   ~9A~~9B~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~38~~35~             AHORA~45~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~3F~                       (ARMAMENTO)                               #325
+|325
+@00018DFA-00018F3E-FF
+;00018DFA{     __~2E~__~2E~__~2E~__~2E~__~2E~                       (UNIDAD)                          ~8C~~8D~~2F~     CRUISER     ~9C~~9D~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~3B~~35~             AHORA~3D~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~45~                       (ARMAMENTO)                               }#385#325
+     __~2E~__~2E~__~2E~__~2E~__~2E~                       (UNIDAD)                          ~8C~~8D~~2F~     CRUCERO     ~9C~~9D~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~3B~~35~             AHORA~3D~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~45~                       (ARMAMENTO)                               #325
+|325
+@00018F62-000190A6-FF
+;00018F62{     __~2E~__~2E~__~2E~__~2E~__~2E~                       (UNIDAD)                          ~8E~~8F~~2F~     DESTROYER   ~9E~~9F~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~39~~35~             AHORA~44~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~45~                       (ARMAMENTO)                               }#385#325
+     __~2E~__~2E~__~2E~__~2E~__~2E~                       (UNIDAD)                          ~8E~~8F~~2F~     DESTRUCTOR  ~9E~~9F~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~39~~35~             AHORA~44~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~45~                       (ARMAMENTO)                               #325
+|325
+@000190C7-0001920E-FF
+;000190C7{        __~2E~__~2E~__~2E~__~2E~                          (UNIDAD)                          ~A0~~A1~~2F~     SUBMARINE   ~B0~~B1~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~39~~35~             AHORA~44~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~3F~                       (ARMAMENTO)                               }#385#328
+        __~2E~__~2E~__~2E~__~2E~                          (UNIDAD)                          ~A0~~A1~~2F~     SUBMARINO   ~B0~~B1~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~39~~35~             AHORA~44~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~38~            MÁXIMO~3C~~3F~                       (ARMAMENTO)                               #328
+|328
+@0001922C-00019376-FF
+;0001922C{           __~2E~__~2E~__~2E~                             (UNIDAD)                          ~A2~~A3~~2F~     FIGHTER     ~B2~~B3~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~37~~35~             AHORA~3E~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~3B~            MÁXIMO~3C~~3D~                       (ARMAMENTO)                               }#385#331
+           __~2E~__~2E~__~2E~                             (UNIDAD)                          ~A2~~A3~~2F~     CAZA        ~B2~~B3~~2F~                 __~2E~   (CAPACIDAD DE        SUPERVIVENCIA)~37~~35~             AHORA~3E~~3C~                       (CAPACIDAD DE        MOVIMIENTO)   ~35~~3B~            MÁXIMO~3C~~3D~                       (ARMAMENTO)                               #331
+|331
+@000194F0-0001952C-FF
+;000194F0{ (UNIDAD)                                                    }#061#061
+(UNIDAD)                                                     #061
+|61
+@00019644-00019694-FF
+;00019644{                 __~2E~ (UNIT) FIGHTER                                              }#084#081
+                 __~2E~(UNIDAD)CAZA                                                 #081
+|81
+@000197AC-00019809-FF
+;000197AC{                 __~2E~ (UNIT) SUBMARINE                                                         }#097#094
+                 __~2E~(UNIDAD)SUBMARINO                                                         #094
+|94
+@00019C97-00019D74-FF
+;00019C97{  ! CURSE STRAITS  !  !                !  ! INNOCENCE SEA  !  !                !  ! TWILIGHT ISLAND!  !                !  ! DIAMOND ISLAND !  !                !  ! DRAGON CHANNEL !  !                !  ! (NEXT)         !  }#222#222
+  ! ESTRECHOMALDITO!
+  !                !
+  ! MAR INOCENTE   !
+  !                !
+  ! ISLA CREPÚSCULO!
+  !                !
+  ! ISLA DIAMANTE  !
+  !                !
+  ! CANAL DRAGÓN   !
+  !                !
+  ! (SIGUIENTE)    !  #222
+|222
+@00019DFF-00019EDC-FF
+;00019DFF{  ! CURSED STRAITS !  !                !  ! INNOCENT SEA   !  !                !  ! TWILIGHT ISLAND!  !                !  ! DIAMOND ISLAND !  !                !  ! DRAGON CHANNEL !  !                !  ! (NEXT)         !  }#222#222
+  ! ESTRECHOMALDITO!
+  !                !
+  ! MAR INOCENTE   !
+  !                !
+  ! ISLA CREPÚSCULO!
+  !                !
+  ! ISLA DIAMANTE  !
+  !                !
+  ! CANAL DRAGÓN   !
+  !                !
+  ! (SIGUIENTE)    !  #222
+|222
+@00019F60-0001A057-FF
+;00019F60{                                                         1PLAYER                                 2PLAYER                                                                                                                                                }#248#248
+                                                         1JUGADOR                                2JUGADRS                                                                                                                                               #248
+|248
+@0001A06C-0001A0AA-FF
+;0001A06C{   SELECT                THE WEAPONRY                          }#063#063
+   ELIGE                 EL ARMAMENTO                          #063
+|63
+@0001A0F8-0001A136-FF
+;0001A0F8{   SELECT                THE WEAPONRY                          }#063#063
+   ELIGE                 EL ARMAMENTO                          #063
+|63
+@0001A1D4-0001A212-FF
+;0001A1D4{   SELECT                THE WEAPONRY                          }#063#063
+   ELIGE                 EL ARMAMENTO                          #063
+|63
+@0001A260-0001A29E-FF
+;0001A260{   SELECT                THE WEAPONRY                          }#063#063
+   ELIGE                 EL ARMAMENTO                          #063
+|63
+@0001A33C-0001A37A-FF
+;0001A33C{   SELECT                THE WEAPONRY                          }#063#063
+   ELIGE                 EL ARMAMENTO                          #063
+|63
+@0001A3C8-0001A406-FF
+;0001A3C8{   SELECT                THE WEAPONRY                          }#063#063
+   ELIGE                 EL ARMAMENTO                          #063
+|63
+@0001A65C-0001A6D3-FF
+;0001A65C{!     ( MOVE )     !!                  !!        PUNTO.X=00!! ENEMY  PUNTO.Y=00!!        PUNTO.S= 0!!                  !}#120#120
+!    ( MOVER )     !
+!                  !
+!        PUNTO.X=00!
+!ENEMIGO PUNTO.Y=00!
+!        PUNTO.S= 0!
+!                  !#120
+|120
+@0001A7C4-0001A8B3-FF
+;0001A7C4{!     (ATTACK)     !!                  !!        PUNTO.X=00!! ENEMY  PUNTO.Y=00!!        PUNTO.S= 0!!                  !!        PUNTO.X=00!! TARGET PUNTO.Y=00!!        PUNTO.S= 0!!                  !!                  !!                  !}#240#240
+!     (ATACAR)     !
+!                  !
+!        PUNTO.X=00!
+!ENEMIGO PUNTO.Y=00!
+!        PUNTO.S= 0!
+!                  !
+!        PUNTO.X=00!
+!OBJET.  PUNTO.Y=00!
+!        PUNTO.S= 0!
+!                  !
+!                  !
+!                  !#240
+|240
+@0001A968-0001AA1B-FF
+;0001A968{!     DAMAGE  ~35~~35~   !!       PUNTO ~3C~~3C~   !!                  !!   ~34~_~2F~  PUNTO.X=00!!   ~2F~ ~2F~  PUNTO.Y=00!!   __~2E~  PUNTO.S= 0!!                  !!(UNIT)            !!                  !}#207#180
+!       DAÑO  ~35~~35~   !
+!      PUNTOS ~3C~~3C~   !
+!                  !
+!   ~34~_~2F~  PUNTO.X=00!
+!   ~2F~ ~2F~  PUNTO.Y=00!
+!   __~2E~  PUNTO.S= 0!
+!                  !
+!(UNIT)            !
+!                  !#180
+|180
+@0001AAF5-0001AB03-FF
+;0001AAF5{     TURN     ~D0~}#018#015
+    TURNO     ~D0~#015
+|15
+@0001AB0A-0001AB16-FF
+;0001AB0A{     COUNT   }#013#013
+    CUENTA   #013
+|13
+@0001ABF8-0001AC80-FF
+;0001ABF8{                                                                                                          TURN                 COUNT     }#137#137
+                                                                                                         TURNO                CUENTA     #137
+|137
+@0001ADC9-0001ADD2-FF
+;0001ADC9{ POSICIÓN }#010#010
+ POSICIÓN #010
+|10
+@0001AF31-0001AF3A-FF
+;0001AF31{ POSICIÓN }#010#010
+ POSICIÓN #010
+|10

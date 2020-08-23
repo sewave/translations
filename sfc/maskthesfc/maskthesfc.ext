@@ -1,0 +1,126 @@
+@00015707-00015A84-00
+;00015707{=~06~=MASK'S GAME OPTIONS=~05~~14~USE THE UP/DOWN ARROWS=~07~~16~TO SELECT THE ITEM=~07~~18~THEN PRESS START.~00~}#113#089
+=~06~=MASK'S GAME OPTIONS=~05~~14~USE THE UP/DOWN ARROWS=~07~~16~TO SELECT THE ITEM=~07~~18~THEN PRESS START.~00~#089
+;00015760{=~07~~07~CONTROLLER OPTIONS~00~}#031#022
+=~07~~07~CONTROLLER OPTIONS~00~#022
+;00015776{=~09~~09~PLAYER OPTIONS~00~}#027#018
+=~09~~09~PLAYER OPTIONS~00~#018
+;00015788{=~04~~0B~MUSIC AND SOUND OPTIONS~00~}#036#027
+=~04~~0B~MUSIC AND SOUND OPTIONS~00~#027
+;000157A3{=~0A~^GAME CREDITS~00~}#022#016
+=~0A~^GAME CREDITS~00~#016
+;000157B3{=~0E~~0F~EXIT~00~}#017#008
+=~0E~~0F~EXIT~00~#008
+;000157BB{~00~}#004#001
+~00~#001
+;000157BC{=~07~~06~CONTROLLER OPTIONS~00~}#031#022
+=~07~~06~CONTROLLER OPTIONS~00~#022
+;000157D2{=~09~~08~PLAYER OPTIONS~00~}#027#018
+=~09~~08~PLAYER OPTIONS~00~#018
+;000157E4{=~04~~0A~MUSIC AND SOUND OPTIONS~00~}#036#027
+=~04~~0A~MUSIC AND SOUND OPTIONS~00~#027
+;000157FF{=~09~~0C~CHEAT OPTIONS~00~}#026#017
+=~09~~0C~CHEAT OPTIONS~00~#017
+;00015810{=~0A~~0E~GAME CREDITS~00~}#025#016
+=~0A~~0E~GAME CREDITS~00~#016
+;00015820{=~0E~~10~EXIT~00~}#017#008
+=~0E~~10~EXIT~00~#008
+;00015828{~00~}#004#001
+~00~#001
+;00015829{=~03~~02~SNEAK   ZIP    RUN=~0A~~0F~PAUSE=~02~~16~USE SELECT TO CHANGE BUTTON==~18~TYPE THEN PRESS START TO EXIT.~00~}#117#093
+=~03~~02~SNEAK   ZIP    RUN=~0A~~0F~PAUSE=~02~~16~USE SELECT TO CHANGE BUTTON==~18~TYPE THEN PRESS START TO EXIT.~00~#093
+;00015886{=~06~~02~PLAYER GAME OPTIONS~00~}#032#023
+=~06~~02~PLAYER GAME OPTIONS~00~#023
+;0001589D{~02~~00~}#008#002
+~02~~00~#002
+;0001589F{~03~~00~}#008#002
+~03~~00~#002
+;000158A1{~06~==~05~~08~STARTING LIVES -~00~}#034#022
+~06~==~05~~08~STARTING LIVES -~00~#022
+;000158B7{=~16~~08~3~00~}#014#005
+=~16~~08~3~00~#005
+;000158BC{=~16~~08~4~00~}#014#005
+=~16~~08~4~00~#005
+;000158C1{=~16~~08~5 ~00~}#015#006
+=~16~~08~5 ~00~#006
+;000158C7{~03~~00~}#008#002
+~03~~00~#002
+;000158C9{~08~==~05~~0B~SKILL LEVEL    -~00~}#034#022
+~08~==~05~~0B~SKILL LEVEL    -~00~#022
+;000158DF{=~16~~0B~EASY  ~00~}#019#010
+=~16~~0B~EASY  ~00~#010
+;000158E9{=~16~~0B~NORMAL~00~}#019#010
+=~16~~0B~NORMAL~00~#010
+;000158F3{=~16~~0B~HARD  ~00~}#019#010
+=~16~~0B~HARD  ~00~#010
+;000158FD{=~04~~02~SOUND AND MUSIC OPTIONS~00~}#036#027
+=~04~~02~SOUND AND MUSIC OPTIONS~00~#027
+;00015918{~02~~00~}#008#002
+~02~~00~#002
+;0001591A{~02~~00~}#008#002
+~02~~00~#002
+;0001591C{~0A~==~09~~08~MUSIC    -~00~}#028#016
+~0A~==~09~~08~MUSIC    -~00~#016
+;0001592C{=~14~~08~ON ~00~}#016#007
+=~14~~08~ON ~00~#007
+;00015933{=~14~~08~OFF~00~}#016#007
+=~14~~08~OFF~00~#007
+;0001593A{~02~~00~}#008#002
+~02~~00~#002
+;0001593C{~0C~==~09~~0B~SOUND FX -~00~}#028#016
+~0C~==~09~~0B~SOUND FX -~00~#016
+;0001594C{=~14~~0B~ON ~00~}#016#007
+=~14~~0B~ON ~00~#007
+;00015953{=~14~~0B~OFF~00~}#016#007
+=~14~~0B~OFF~00~#007
+;0001595A{=~09~~02~CHEAT OPTIONS~00~}#026#017
+=~09~~02~CHEAT OPTIONS~00~#017
+;0001596B{~04~~00~}#008#002
+~04~~00~#002
+;0001596D{~02~~00~}#008#002
+~02~~00~#002
+;0001596F{~0E~==~05~~06~INFINITE LIVES  -~00~}#035#023
+~0E~==~05~~06~INFINITE LIVES  -~00~#023
+;00015986{=~17~~06~OFF~00~}#016#007
+=~17~~06~OFF~00~#007
+;0001598D{=~17~~06~ON ~00~}#016#007
+=~17~~06~ON ~00~#007
+;00015994{~02~~00~}#008#002
+~02~~00~#002
+;00015996{~10~==~05~~08~INFINITE HEALTH -~00~}#035#023
+~10~==~05~~08~INFINITE HEALTH -~00~#023
+;000159AD{=~17~~08~OFF~00~}#016#007
+=~17~~08~OFF~00~#007
+;000159B4{=~17~~08~ON ~00~}#016#007
+=~17~~08~ON ~00~#007
+;000159BB{~02~~00~}#008#002
+~02~~00~#002
+;000159BD{~12~==~05~~0A~INFINITE MORPH  -~00~}#035#023
+~12~==~05~~0A~INFINITE MORPH  -~00~#023
+;000159D4{=~17~~0A~OFF~00~}#016#007
+=~17~~0A~OFF~00~#007
+;000159DB{=~17~~0A~ON ~00~}#016#007
+=~17~~0A~ON ~00~#007
+;000159E2{~02~~00~}#008#002
+~02~~00~#002
+;000159E4{~14~==~05~~0C~LEVEL SELECTOR  -~00~}#035#023
+~14~==~05~~0C~LEVEL SELECTOR  -~00~#023
+;000159FB{=~17~~0C~OFF~00~}#016#007
+=~17~~0C~OFF~00~#007
+;00015A02{=~17~~0C~ON ~00~}#016#007
+=~17~~0C~ON ~00~#007
+;00015A09{=~05~~10~USE THE UP/DOWN ARROWS=~05~~12~TO SELECT THE ITEM.USE=~05~~14~THE LEFT/RIGHT ARROWS=~05~~16~TO CHANGE THE OPTION.=~05~~19~PRESS START WHEN DONE.~00~}#157#124
+=~05~~10~USE THE UP/DOWN ARROWS=~05~~12~TO SELECT THE ITEM.USE=~05~~14~THE LEFT/RIGHT ARROWS=~05~~16~TO CHANGE THE OPTION.=~05~~19~PRESS START WHEN DONE.~00~#124
+|894
+@00015A85-00015EC7-00
+;00015A85{=^~08~The Mask Credits^=^=^~08~Lead Programmer^=^~07~Matthew C. Harmon^=^=^~09~Project Leader^=^~0A~Steve Burke^=^=^~07~Executive Producer^=^~0B~Steve Ryno^=^=^~0C~Artwork^=^~04~Steve Burke, Shaun Tsai,^~03~Dan Burke, Todd Tomlinson,^~02~Luke Anderson, Eric Elliott,^~08~and Allan Ditzig^=^=^~05~Additional Programming^=^~02~Steve Bjork, Phil Crescenzo,^~09~and Bob Polaro^=^=^~09~Additional Art^=^~02~Charlie Navarro, Chuck Ernst,^~08~and Robb Mariani^=^=^~09~Level Designs^=^~03~Dan Burke, Todd Tomlinson^=^=^~0A~Game Design^=^=Matthew Harmon, Todd Tomlinson,^~04~Dan Burke, Steve Burke,^~03~Shaun Tsai , Eric Elliott,^~07~and Luke Anderson^=^=^~05~Music and Sound Design^=^~09~Phil Crescenzo^=^=^~0B~Producers^=^~03~Jon Osborn and Greg Gibson^=^=^~0A~Lead Tester^=^~08~Erick Fernandez^=^=^~07~Quality Assurance^=^~02~Jon Anderson, Gabriel Jones,^~02~Sanders Keel, Michael Koshet,^~04~Jason Lewis, Chris Lloyd,^~04~James Noyes, Jamie Saxon^~09~Bill Villegas^=^=^~07~Marketing Liaison^=^~0B~Jill Smith^=^=^~09~Special Thanks^=^~02~Nichole, Paige, Arlene,^~02~Wylder, Raleigh, Tom, Paul,^~02~Julie Gaboury, Juan Gomez,^~02~Sylvia and New line Cinema^~02~for the opportunity to make^~02~this game.^=^=^=^=^=^=^=^=^=^=^=^=^=^=^~00~}#1229#1091
+=^~08~The Mask Credits^=^=^~08~Lead Programmer^=^~07~Matthew C. Harmon^=^=^~09~Project Leader^=^~0A~Steve Burke^=^=^~07~Executive Producer^=^~0B~Steve Ryno^=^=^~0C~Artwork^=^~04~Steve Burke, Shaun Tsai,^~03~Dan Burke, Todd Tomlinson,^~02~Luke Anderson, Eric Elliott,^~08~and Allan Ditzig^=^=^~05~Additional Programming^=^~02~Steve Bjork, Phil Crescenzo,^~09~and Bob Polaro^=^=^~09~Additional Art^=^~02~Charlie Navarro, Chuck Ernst,^~08~and Robb Mariani^=^=^~09~Level Designs^=^~03~Dan Burke, Todd Tomlinson^=^=^~0A~Game Design^=^=Matthew Harmon, Todd Tomlinson,^~04~Dan Burke, Steve Burke,^~03~Shaun Tsai , Eric Elliott,^~07~and Luke Anderson^=^=^~05~Music and Sound Design^=^~09~Phil Crescenzo^=^=^~0B~Producers^=^~03~Jon Osborn and Greg Gibson^=^=^~0A~Lead Tester^=^~08~Erick Fernandez^=^=^~07~Quality Assurance^=^~02~Jon Anderson, Gabriel Jones,^~02~Sanders Keel, Michael Koshet,^~04~Jason Lewis, Chris Lloyd,^~04~James Noyes, Jamie Saxon^~09~Bill Villegas^=^=^~07~Marketing Liaison^=^~0B~Jill Smith^=^=^~09~Special Thanks^=^~02~Nichole, Paige, Arlene,^~02~Wylder, Raleigh, Tom, Paul,^~02~Julie Gaboury, Juan Gomez,^~02~Sylvia and New line Cinema^~02~for the opportunity to make^~02~this game.^=^=^=^=^=^=^=^=^=^=^=^=^=^=^~00~#1091
+|1091
+@00015F47-00015F63-00
+;00015F47{TORNADOJUMP   MALLET PUNCH  ~00~}#032#029
+TORNADOJUMP   MALLET PUNCH  ~00~#029
+|29
+@00017E3D-00017F29-00
+;00017E3D{~08~~02~©1995 T*HQ,INC.==~05~©1995 NEW LINE PRODUCTIONS INC.=~06~~08~ALL RIGHTS RESERVED.=~03~~0C~BLACK PEARL SOFTWARE\] AND=~04~~0E~THQ,INC. ARE REGISTERED=~05~~10~TRADEMARKS OF THQ,INC.=~04~~13~CHIP LEVEL DESIGNS audio=~02~~15~DRIVER ©1994 bitmasters, inc.=~06~~18~LICENSED BY NINTENDO~00~}#291#237
+~08~~02~©1995 T*HQ,INC.==~05~©1995 NEW LINE PRODUCTIONS INC.=~06~~08~ALL RIGHTS RESERVED.=~03~~0C~BLACK PEARL SOFTWARE\] AND=~04~~0E~THQ,INC. ARE REGISTERED=~05~~10~TRADEMARKS OF THQ,INC.=~04~~13~CHIP LEVEL DESIGNS audio=~02~~15~DRIVER ©1994 bitmasters, inc.=~06~~18~LICENSED BY NINTENDO~00~#237
+|237

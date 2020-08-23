@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Platoon (USA) (Rev 1).nes"
+set SCRIPTNAME="platoonnes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 23230:80,33230:80,32230:80,3B230:80,37C50:20,37D50:20,37E50:20,37F50:20,356C0:20,357C0:20,39A60:50,39DD0:40,39EE0:10
+pause

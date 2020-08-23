@@ -1,5 +1,5 @@
 Donkey Kong Country 2 - Diddy's Kong Quest (Super Nintendo)
-Traducción al Español v1.0 (28/06/2020)
+Traducción al Español v1.1 (19/08/2020)
 (C) 2020 Traducciones Wave
 
 ------------------------
@@ -8,6 +8,7 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+V1.1: Arreglos menores, "mirad" y "los letras".
 
 ------------------------
 Instrucciones de Parcheo

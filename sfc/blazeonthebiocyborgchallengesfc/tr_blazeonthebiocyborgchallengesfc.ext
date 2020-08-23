@@ -1,0 +1,44 @@
+@00001D26-00001D2D-FF
+;00001D26{S=~8D~"~0C~~A9~A=}#017#008
+A=~8D~"~0C~~A9~E=#008
+|8
+@00001D63-00001D76-FF
+;00001D63{N=~8D~(~0C~~A9~O=~8D~*~0C~~A9~N=~8D~,~0C~~A9~E=}#047#020
+C=~8D~(~0C~~A9~
+E=~8D~*~0C~~A9~
+R=~8D~,~0C~~A9~
+O=#020
+|20
+@00002627-000027A7-FF
+;00002627{AN ALARM MESSAGE$CONFIRM THE HIGH ENERGY CORE$IMMEDIATELY CHANGE MAIN REACTOR$TO HYPER-DRIVE$                               $                               $~FF~}#161#158
+-Mensaje de alarma-$
+Confirma el núcleo de alta$
+energía.     $
+Cambia de inmediato el reactor$
+principal a Hiper-Motor.        $
+                               $~FF~#158
+;000026C5{RELEASE HYPER-DRIVE AND RETURN$TO NORMAL DRIVE MODE TO GET$OUT OF WARP$SET UP DESTINATION IN REAL TIME$                               $~FF~}#139#136
+Libera el Hiper-Motor y vuelve$
+al modo normal para salir de$
+la deformación.$
+Configura el destino en tiempo$
+real.                      $~FF~#136
+;0000274D{CHANGE THE MAIN REACTOR POWER$TO ATTACK MODE$~FF~}#049#046
+Cambia la potencia del reactor$
+a ataque.    $~FF~#046
+;0000277B{FIRST TARGET DESTROED$GO TO THE NEXT TARGET$~FF~}#048#045
+Primer objetivo destruido.$
+Al siguiente.   $~FF~#045
+|385
+@0000C811-0000C8D0-FF
+;0000C811{======S=C=O=R=E===============0=================================================================================================================H=I=-=S=C=O=R=E===============0=================}#192#192
+======M=A=R=C=A===============0=================================
+================================================================
+==========M=E=J=O=R===M=A=R=C=A===============0=================#192
+|192
+@0000C8D1-0000C990-FF
+;0000C8D1{======S=C=O=R=E===============0=============================================================================================================B=O=S=S===S=C=O=R=E===============0=================}#192#192
+======M=A=R=C=A===============0=================================
+================================================================
+============B=O=N=O=S===J=E=F=E===============0=================#192
+|192

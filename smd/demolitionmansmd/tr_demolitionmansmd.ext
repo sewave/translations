@@ -1,0 +1,648 @@
+@0019BB78-0019BC1E-00
+;0019BB78{  Configuración Controles ~00~}#030#027
+  Configuración Controles ~00~#027
+;0019BB93{~00~}#004#001
+~00~#001
+;0019BB94{  Configuración Controles ~00~}#030#027
+  Configuración Controles ~00~#027
+;0019BBAF{~00~}#004#001
+~00~#001
+;0019BBB0{  Configuración Controles ~00~}#030#027
+  Configuración Controles ~00~#027
+;0019BBCB{~00~}#004#001
+~00~#001
+;0019BBCC{  Configuración Controles ~00~}#030#027
+  Configuración Controles ~00~#027
+;0019BBE7{~00~}#004#001
+~00~#001
+;0019BBE8{  Configuración Controles ~00~}#030#027
+  Configuración Controles ~00~#027
+;0019BC03{~00~}#004#001
+~00~#001
+;0019BC04{  Configuración Controles ~00~}#030#027
+  Configuración Controles ~00~#027
+|167
+@0019BC70-0019BC87-00
+;0019BC70{  music off~00~}#015#012
+  música no~00~#012
+;0019BC7C{  music on ~00~}#015#012
+  música sí~00~#012
+|24
+@0019BC90-0019BCAE-00
+;0019BC90{  sound FX off~00~}#018#015
+  sin efectos ~00~#015
+;0019BC9F{~00~}#004#001
+~00~#001
+;0019BCA0{  sound FX on ~00~}#018#015
+  con efectos ~00~#015
+|31
+@0019BCBC-0019BD1A-00
+;0019BCBC{  Difficulty: calm            ~00~}#034#031
+  Dificultad: calma           ~00~#031
+;0019BCDB{~00~}#004#001
+~00~#001
+;0019BCDC{  Difficulty: crazed          ~00~}#034#031
+  Dificultad: loco            ~00~#031
+;0019BCFB{~00~}#004#001
+~00~#001
+;0019BCFC{  Difficulty: total demolition~00~}#034#031
+  Dificultad: demolición total~00~#031
+|95
+@0019BD1F-0019BD2C-00
+;0019BD1F{   Sound Test~00~}#017#014
+   Test Audio~00~#014
+|14
+@0019BD56-0019BDEC-00
+;0019BD56{  Rooftop    ~00~}#017#014
+  Tejado     ~00~#014
+;0019BD64{  Museum     ~00~}#017#014
+  Museo      ~00~#014
+;0019BD72{  Submuseum  ~00~}#017#014
+  Submuseo   ~00~#014
+;0019BD80{  Parking    ~00~}#017#014
+  Párking    ~00~#014
+;0019BD8E{  Monorail   ~00~}#017#014
+  Monorrail  ~00~#014
+;0019BD9C{  Library    ~00~}#017#014
+  Biblioteca ~00~#014
+;0019BDAA{  Zipline    ~00~}#017#014
+  Tirolina   ~00~#014
+;0019BDB8{  Wasteland  ~00~}#017#014
+  Yermo      ~00~#014
+;0019BDC6{  Pipe Maze  ~00~}#017#014
+  Lab Tuber  ~00~#014
+;0019BDD4{  Cryo-Prison~00~}#017#014
+  CrioPrisión~00~#014
+;0019BDE2{~00~}#004#001
+~00~#001
+;0019BDE3{~19~~BD~~E6~  Exit~00~}#022#010
+~19~~BD~~E6~  Sa{li}r~00~#010
+|151
+@0019C4B4-0019C7F5-00
+;0019C4B4{Rooftop        ~00~}#019#016
+Tejado         ~00~#016
+;0019C4C4{Museum         ~00~}#019#016
+Museo          ~00~#016
+;0019C4D4{Submuseum      ~00~}#019#016
+Submuseo       ~00~#016
+;0019C4E4{Parking Garage ~00~}#019#016
+Garaje Párking ~00~#016
+;0019C4F4{Monorail       ~00~}#019#016
+Monorraíl      ~00~#016
+;0019C504{Library        ~00~}#019#016
+Biblioteca     ~00~#016
+;0019C514{Zipline        ~00~}#019#016
+Tirolina       ~00~#016
+;0019C524{Wasteland      ~00~}#019#016
+Yermo          ~00~#016
+;0019C534{Pipe Maze      ~00~}#019#016
+Laberinto Tube.~00~#016
+;0019C544{Cryo-Prison    ~00~}#019#016
+Crio-Prisión   ~00~#016
+;0019C554{Helicopter     ~00~}#019#016
+Helicóptero    ~00~#016
+;0019C564{Door Buzz      ~00~}#019#016
+Door Buzz      ~00~#016
+;0019C574{Spartan Grunt  ~00~}#019#016
+Spartan Grunt  ~00~#016
+;0019C584{Enemy Grunt    ~00~}#019#016
+Enemy Grunt    ~00~#016
+;0019C594{Big Explosion  ~00~}#019#016
+Big Explosion  ~00~#016
+;0019C5A4{Small Explosion~00~}#019#016
+Small Explosion~00~#016
+;0019C5B4{Zip Hookup     ~00~}#019#016
+Zip Hookup     ~00~#016
+;0019C5C4{Freeze         ~00~}#019#016
+Freeze         ~00~#016
+;0019C5D4{Hydraulic Arm 1~00~}#019#016
+Hydraulic Arm 1~00~#016
+;0019C5E4{Hydraulic Arm 2~00~}#019#016
+Hydraulic Arm 2~00~#016
+;0019C5F4{Servos         ~00~}#019#016
+Servos         ~00~#016
+;0019C604{Metallic Thud  ~00~}#019#016
+Metallic Thud  ~00~#016
+;0019C614{Monorail Wind  ~00~}#019#016
+Monorail Wind  ~00~#016
+;0019C624{Monorail Engine~00~}#019#016
+Monorail Engine~00~#016
+;0019C634{Power Up       ~00~}#019#016
+Power Up       ~00~#016
+;0019C644{Phoenix Laugh  ~00~}#019#016
+Phoenix Laugh  ~00~#016
+;0019C654{Glass Breaking ~00~}#019#016
+Glass Breaking ~00~#016
+;0019C664{Steam          ~00~}#019#016
+Steam          ~00~#016
+;0019C674{Grenade Launch ~00~}#019#016
+Grenade Launch ~00~#016
+;0019C684{Typing         ~00~}#019#016
+Typing         ~00~#016
+;0019C694{Shotgun        ~00~}#019#016
+Shotgun        ~00~#016
+;0019C6A4{Police Alarm   ~00~}#019#016
+Police Alarm   ~00~#016
+;0019C6B4{MDK            ~00~}#019#016
+MDK            ~00~#016
+;0019C6C4{Magnum         ~00~}#019#016
+Magnum         ~00~#016
+;0019C6D4{Normal Gun     ~00~}#019#016
+Normal Gun     ~00~#016
+;0019C6E4{Acmag          ~00~}#019#016
+Acmag          ~00~#016
+;0019C6F4{Door Opening   ~00~}#019#016
+Door Opening   ~00~#016
+;0019C704{Fire Jet       ~00~}#019#016
+Fire Jet       ~00~#016
+;0019C714{Power Up Appear~00~}#019#016
+Power Up Appear~00~#016
+;0019C724{Be Well        ~00~}#019#016
+Be Well        ~00~#016
+;0019C734{Send A Maniac  ~00~}#019#016
+Send A Maniac  ~00~#016
+;0019C744{Heads Up       ~00~}#019#016
+Heads Up       ~00~#016
+;0019C754{Blast from Past~00~}#019#016
+Blast from Past~00~#016
+;0019C764{Bad Aim Blondie~00~}#019#016
+Bad Aim Blondie~00~#016
+;0019C774{Power Up Out   ~00~}#019#016
+Power Up Out   ~00~#016
+;0019C784{Bungee Clip    ~00~}#019#016
+Bungee Clip    ~00~#016
+;0019C794{               ~00~}#019#016
+               ~00~#016
+;0019C7A4{               ~00~}#019#016
+               ~00~#016
+;0019C7B4{Press A to play sound~00~}#025#022
+Pulsa A para tocar   ~00~#022
+;0019C7CA{Press B to stop sound~00~}#025#022
+Pulsa B para parar   ~00~#022
+;0019C7E0{Press start to return~00~}#025#022
+Start para volver    ~00~#022
+|834
+@0019CA5C-0019CACB-00
+;0019CA5C{stand and shoot~00~}#019#016
+para y dispara ~00~#016
+;0019CA6C{duck and shoot ~00~}#019#016
+agacha y tira  ~00~#016
+;0019CA7C{brake and shoot~00~}#019#016
+frena y dispara~00~#016
+;0019CA8C{    roll       ~00~}#019#016
+    rodar      ~00~#016
+;0019CA9C{stand and shoot~00~}#019#016
+para y dispara ~00~#016
+;0019CAAC{locked shoot   ~00~}#019#016
+disparo fijado ~00~#016
+;0019CABC{reverse shoot  ~00~}#019#016
+disparo inverso~00~#016
+|112
+@0019CADC-0019CB5B-00
+;0019CADC{Press shoot button, then aim with~00~}#037#034
+Pulsa disparo, luego apunta con  ~00~#034
+;0019CAFE{the D-pad. To shoot between two~00~}#035#032
+el pad-D. Para disparar entre  ~00~#032
+;0019CB1E{directions alternate between~00~}#032#029
+dos direcciones alterna     ~00~#029
+;0019CB3B{~00~}#004#001
+~00~#001
+;0019CB3C{them while holding shoot button.}#032#032
+entre ellas manteniendo disparo.#032
+|128
+@0019CB6E-0019CBF5-00
+;0019CB6E{Press the D-pad down to duck~3B~    ~00~}#040#034
+Pulsa el pad-D hacia abajo para  ~00~#034
+;0019CB90{while pressing down, press the   ~00~}#037#034
+agacharte~3B~ mientras pulsas abajo,~00~#034
+;0019CBB2{shoot button.                    ~00~}#037#034
+pulsa el botón de disparo.       ~00~#034
+;0019CBD4{                                 ~00~}#037#034
+                                 ~00~#034
+|136
+@0019CC06-0019CC6B-00
+;0019CC06{When on the zip line, press the  ~00~}#037#034
+En la tirolina, pulsa el botón de~00~#034
+;0019CC28{throw button to brake. Then press~00~}#037#034
+lanzar para frenar. Luego pulsa  ~00~#034
+;0019CC4A{shoot button and aim with D-pad. ~00~}#037#034
+disparo y apunta con el pad-D.   ~00~#034
+|102
+@0019CC7E-0019CCE3-00
+;0019CC7E{Angle down on the D-pad and press~00~}#037#034
+Apunta abajo en el pad-D y pulsa ~00~#034
+;0019CCA0{the jump button to roll. Abort   ~00~}#037#034
+el botón de saltar para rodar.   ~00~#034
+;0019CCC2{roll by releasing the button.    ~00~}#037#034
+Aborta soltando el botón.        ~00~#034
+|102
+@0019CCF6-0019CD5B-00
+;0019CCF6{Hold down the shoot button and   ~00~}#037#034
+Mantén el botón de disparo y     ~00~#034
+;0019CD18{press the throw button~3B~ use the  ~00~}#040#034
+pulsa el botón de lanzar~3B~ usa el ~00~#034
+;0019CD3A{D-pad to aim.                    ~00~}#037#034
+pad-D para apuntar.              ~00~#034
+|102
+@0019CD6E-0019CDD3-00
+;0019CD6E{Hold down the shoot button and   ~00~}#037#034
+Mantén el botón de disparar y    ~00~#034
+;0019CD90{press the jump button~3B~ use the   ~00~}#040#034
+pulsa el botón de saltar~3B~ usa el ~00~#034
+;0019CDB2{D-pad to aim.                    ~00~}#037#034
+pad-D para apuntar.              ~00~#034
+|102
+@0019CDE6-0019CE4B-00
+;0019CDE6{Use the jump button to fire      ~00~}#037#034
+Usa el botón de saltar para      ~00~#034
+;0019CE08{behind you.                      ~00~}#037#034
+disparar detrás de ti.           ~00~#034
+;0019CE2A{                                 ~00~}#037#034
+                                 ~00~#034
+|102
+@0019E816-0019E87E-00
+;0019E816{Programmers~00~}#015#012
+Programador~00~#012
+;0019E822{   Todd Johnson~00~}#019#016
+   Todd Johnson~00~#016
+;0019E832{   Eric Yiskis~00~}#018#015
+   Eric Yiskis~00~#015
+;0019E841{~00~}#004#001
+~00~#001
+;0019E842{~00~}#004#001
+~00~#001
+;0019E843{~00~}#004#001
+~00~#001
+;0019E844{Tools and Library Support~00~}#029#026
+Herramientas y Soporte   ~00~#026
+;0019E85E{   Craig Ewert~00~}#018#015
+   Craig Ewert~00~#015
+;0019E86D{~00~}#004#001
+~00~#001
+;0019E86E{   Earl Stratton~00~}#020#017
+   Earl Stratton~00~#017
+|105
+@0019E8A0-0019E8F3-00
+;0019E8A0{Original Design~00~}#019#016
+Diseño Original~00~#016
+;0019E8B0{   Eric Yiskis~00~}#018#015
+   Eric Yiskis~00~#015
+;0019E8BF{~00~}#004#001
+~00~#001
+;0019E8C0{   Doug Modie~00~}#017#014
+   Doug Modie~00~#014
+;0019E8CE{~00~}#004#001
+~00~#001
+;0019E8CF{~00~}#004#001
+~00~#001
+;0019E8D0{Design~00~}#010#007
+Diseño~00~#007
+;0019E8D7{~00~}#004#001
+~00~#001
+;0019E8D8{   Doug Modie~00~}#017#014
+   Doug Modie~00~#014
+;0019E8E6{   Jeff Brown~00~}#017#014
+   Jeff Brown~00~#014
+|84
+@0019E91C-0019E9A9-00
+;0019E91C{Artists~00~}#011#008
+Artista~00~#008
+;0019E924{   Gerilyn Wilhelm~00~}#022#019
+   Gerilyn Wilhelm~00~#019
+;0019E937{~00~}#004#001
+~00~#001
+;0019E938{   Fred Butts~00~}#017#014
+   Fred Butts~00~#014
+;0019E946{   Brian Kemper~00~}#019#016
+   Brian Kemper~00~#016
+;0019E956{   Ding Palang~00~}#018#015
+   Ding Palang~00~#015
+;0019E965{~00~}#004#001
+~00~#001
+;0019E966{   Jerry Jessurum~00~}#021#018
+   Jerry Jessurum~00~#018
+;0019E978{   Dan McNamera~00~}#019#016
+   Dan McNamera~00~#016
+;0019E988{   Armand Cabrera~00~}#021#018
+   Armand Cabrera~00~#018
+;0019E99A{   Scott Rogers~00~}#019#016
+   Scott Rogers~00~#016
+|142
+@0019E9C2-0019EA02-00
+;0019E9C2{Director~00~}#012#009
+Director~00~#009
+;0019E9CB{~00~}#004#001
+~00~#001
+;0019E9CC{   Neil Balthaser~00~}#021#018
+   Neil Balthaser~00~#018
+;0019E9DE{~00~}#004#001
+~00~#001
+;0019E9DF{~00~}#004#001
+~00~#001
+;0019E9E0{Associate Producer~00~}#022#019
+Productor Asociado~00~#019
+;0019E9F3{~00~}#004#001
+~00~#001
+;0019E9F4{   Frank Simon~00~}#018#015
+   Frank Simon~00~#015
+|65
+@0019EA24-0019EA98-00
+;0019EA24{Special Thanks~00~}#018#015
+Muchas Gracias~00~#015
+;0019EA33{~00~}#004#001
+~00~#001
+;0019EA34{   Ted Warnock~00~}#018#015
+   Ted Warnock~00~#015
+;0019EA43{~00~}#004#001
+~00~#001
+;0019EA44{   Matt Powers~00~}#018#015
+   Matt Powers~00~#015
+;0019EA53{~00~}#004#001
+~00~#001
+;0019EA54{   Ken Balthaser~00~}#020#017
+   Ken Balthaser~00~#017
+;0019EA65{~00~}#004#001
+~00~#001
+;0019EA66{   Eiko Balthaser~00~}#021#018
+   Eiko Balthaser~00~#018
+;0019EA78{   Jeff Goodwin~00~}#019#016
+   Jeff Goodwin~00~#016
+;0019EA88{   Russ Stireman~00~}#020#017
+   Russ Stireman~00~#017
+|117
+@0019EAAA-0019EAE5-00
+;0019EAAA{Special Thanks (Continued)~00~}#030#027
+Muchas Gracias (Continúa) ~00~#027
+;0019EAC5{~00~}#004#001
+~00~#001
+;0019EAC6{   Dave Gross~00~}#017#014
+   Dave Gross~00~#014
+;0019EAD4{   Craig Danville~00~}#021#018
+   Craig Danville~00~#018
+|60
+@0019EAF2-0019EB17-00
+;0019EAF2{Music and Sound Effects~00~}#027#024
+Música y Efectos       ~00~#024
+;0019EB0A{   Orca Games~00~}#017#014
+   Orca Games~00~#014
+|38
+@0019EB38-0019EB93-00
+;0019EB38{Vice President of~00~}#021#018
+Vicepresidente de~00~#018
+;0019EB4A{Software Publishing~00~}#023#020
+Software Publishing~00~#020
+;0019EB5E{   Neil Young~00~}#017#014
+   Neil Young~00~#014
+;0019EB6C{~00~}#004#001
+~00~#001
+;0019EB6D{~00~}#004#001
+~00~#001
+;0019EB6E{Executive Producer~00~}#022#019
+Productor Ejecuti.~00~#019
+;0019EB81{~00~}#004#001
+~00~#001
+;0019EB82{   R. Scott Russo~00~}#021#018
+   R. Scott Russo~00~#018
+|92
+@0019EBBA-0019EC20-00
+;0019EBBA{Associate Producer~00~}#022#019
+Productor Asociado~00~#019
+;0019EBCD{~00~}#004#001
+~00~#001
+;0019EBCE{   Jeff Buccellato~00~}#022#019
+   Jeff Buccellato~00~#019
+;0019EBE1{~00~}#004#001
+~00~#001
+;0019EBE2{~00~}#004#001
+~00~#001
+;0019EBE3{~00~}#004#001
+~00~#001
+;0019EBE4{Assistant Virgin~00~}#020#017
+Ayudante Virgin ~00~#017
+;0019EBF5{~00~}#004#001
+~00~#001
+;0019EBF6{   Rob Smith~00~}#016#013
+   Rob Smith~00~#013
+;0019EC03{~00~}#004#001
+~00~#001
+;0019EC04{~00~}#004#001
+~00~#001
+;0019EC05{~00~}#004#001
+~00~#001
+;0019EC06{QA Manager~00~}#014#011
+Gerente GC~00~#011
+;0019EC11{~00~}#004#001
+~00~#001
+;0019EC12{   David Maxey~00~}#018#015
+   David Maxey~00~#015
+|103
+@0019EC3E-0019EC90-00
+;0019EC3E{QA Group Heads~00~}#018#015
+Jefes Grupo GC~00~#015
+;0019EC4D{~00~}#004#001
+~00~#001
+;0019EC4E{   Chris McFarland~00~}#022#019
+   Chris McFarland~00~#019
+;0019EC61{~00~}#004#001
+~00~#001
+;0019EC62{   Paul Moore~00~}#017#014
+   Paul Moore~00~#014
+;0019EC70{~00~}#004#001
+~00~#001
+;0019EC71{~00~}#004#001
+~00~#001
+;0019EC72{Lead Analyst~00~}#016#013
+Analista Je.~00~#013
+;0019EC7F{~00~}#004#001
+~00~#001
+;0019EC80{   Mitch Feldman~00~}#020#017
+   Mitch Feldman~00~#017
+|83
+@0019ECB6-0019ED3A-00
+;0019ECB6{Product Analysts~00~}#020#017
+Analista Produc.~00~#017
+;0019ECC7{~00~}#004#001
+~00~#001
+;0019ECC8{   Chad Soares~00~}#018#015
+   Chad Soares~00~#015
+;0019ECD7{~00~}#004#001
+~00~#001
+;0019ECD8{   Jon Williams~00~}#019#016
+   Jon Williams~00~#016
+;0019ECE8{   Mitch Feldman~00~}#020#017
+   Mitch Feldman~00~#017
+;0019ECF9{~00~}#004#001
+~00~#001
+;0019ECFA{   Chris Nelsen~00~}#019#016
+   Chris Nelsen~00~#016
+;0019ED0A{   Nick Camerota~00~}#020#017
+   Nick Camerota~00~#017
+;0019ED1B{~00~}#004#001
+~00~#001
+;0019ED1C{   Jimm Getz~00~}#016#013
+   Jimm Getz~00~#013
+;0019ED29{~00~}#004#001
+~00~#001
+;0019ED2A{   Scott Manning~00~}#020#017
+   Scott Manning~00~#017
+|133
+@0019ED58-0019EDC5-00
+;0019ED58{Product Analysts (cont.)~00~}#028#025
+Analista Producto(cont.)~00~#025
+;0019ED71{~00~}#004#001
+~00~#001
+;0019ED72{   Paul Shoener~00~}#019#016
+   Paul Shoener~00~#016
+;0019ED82{   Chris Rausch~00~}#019#016
+   Chris Rausch~00~#016
+;0019ED92{   Stacey Mendoza~00~}#021#018
+   Stacey Mendoza~00~#018
+;0019EDA4{   Mick Love~00~}#016#013
+   Mick Love~00~#013
+;0019EDB1{~00~}#004#001
+~00~#001
+;0019EDB2{   Victor Rodriguez~00~}#023#020
+   Victor Rodriguez~00~#020
+|110
+@0019EDDE-0019EE27-00
+;0019EDDE{Additional Music~00~}#020#017
+Música Adicional~00~#017
+;0019EDEF{~00~}#004#001
+~00~#001
+;0019EDF0{   Keith Arem~00~}#017#014
+   Keith Arem~00~#014
+;0019EDFE{~00~}#004#001
+~00~#001
+;0019EDFF{~00~}#004#001
+~00~#001
+;0019EE00{Additional Sound Effects~00~}#028#025
+Efectos Adicionales     ~00~#025
+;0019EE19{~00~}#004#001
+~00~#001
+;0019EE1A{   Joey Kuras~00~}#017#014
+   Joey Kuras~00~#014
+|74
+@0019EE38-0019EE80-00
+;0019EE38{Special Thanks to~00~}#021#018
+Muchas Gracias a ~00~#018
+;0019EE4A{  Tommy Tallarico for his~00~}#029#026
+  Tommy Tallarico por sus~00~#026
+;0019EE64{    musical and SFX insights~00~}#032#029
+   ideas de música y efectos~00~#029
+|73
+@001B1A2A-001B1A8C-00
+;001B1A2A{                    Phoenix seeks weapons in the Museum. Rescue the hostages and capture Phoenix.~23~~00~}#105#099
+                    Phoenix busca armas en el Museo. Rescata a los rehenes y captura a Phoenix.  ~23~~00~#099
+|99
+@001B1AC2-001B1B4A-00
+;001B1AC2{                    Phoenix is thawing a super human criminal army at the cryo-prison. This is your last chance -- stop Simon Phoenix!~23~~00~}#142#136
+                    Phoenix está descongelando un ejército de super criminales en la crio-prisión -- ¡para a Simon Phoenix!           ~23~~00~#136
+;001B1B4A{~00~}#004#001
+~00~#001
+|137
+@001B1B7E-001B1BD1-00
+;001B1B7E{                    Phoenix waits in the steam tunnels leading to the cryo-prison.~23~~00~}#090#084
+                    Phoenix espera en los túneles de vapor hacia la crio-prisión. ~23~~00~#084
+|84
+@001B1C06-001B1C53-00
+;001B1C06{                    Phoenix rules the Wasteland! Round up his criminal gang.~23~~00~}#084#078
+                    ¡Phoenix gobierna el Yermo! Reunió a su banda criminal. ~23~~00~#078
+|78
+@001B1C88-001B1CE9-00
+;001B1C88{                    Phoenix and his gang have fled to the Wasteland. Follow them with zip lines.~23~~00~}#104#098
+                    Phoenix y su banda han huido al Yermo. Sígueles con las tirolinas.          ~23~~00~#098
+|98
+@001B1D12-001B1DD6-00
+;001B1D12{                    Congratulations! You have rid the world of the nastiest criminal in two centuries. In gratitude, the mayor of San Angeles presents you with the key to the city.               ~23~~00~}#203#197
+                    ¡Felicidades! Has librado al mundo del criminal más horrible en dos siglos. Como gratitud, el alcalde de San Angeles te entrega la llave de la ciudad.                         ~23~~00~#197
+|197
+@001B1E5C-001B1F4D-00
+;001B1E5C{You look gr8 2day.   ~00~}#025#022
+Hoy se te ve bien.   ~00~#022
+;001B1E72{                     ~00~}#025#022
+                     ~00~#022
+;001B1E88{Enhance your calm.   ~00~}#025#022
+Mejora tu calma.     ~00~#022
+;001B1E9E{Be well, John Spartan~00~}#025#022
+Cuídate,John Spartan.~00~#022
+;001B1EB4{Avoid fatty foods.   ~00~}#025#022
+Evita comida basura. ~00~#022
+;001B1ECA{Enhance your calm.   ~00~}#025#022
+Mejora tu calma.     ~00~#022
+;001B1EE0{Practice tranquility.~00~}#025#022
+Practica la paz.     ~00~#022
+;001B1EF6{Peace be with you.   ~00~}#025#022
+Que la paz te siga.  ~00~#022
+;001B1F0C{Cocteau says be well.~00~}#025#022
+Cocteau dice cuídate.~00~#022
+;001B1F22{The battle is over.  ~00~}#025#022
+La batalla terminó.  ~00~#022
+;001B1F38{There is little time.~00~}#025#022
+Hay poco tiempo.     ~00~#022
+|242
+@001B21A0-001B21FF-00
+;001B21A0{       SCORE~23~~00~}#020#014
+       MARCA~23~~00~#014
+;001B21AE{MDK             %3d~23~~00~}#027#021
+MUA             %3d~23~~00~#021
+;001B21C3{~00~}#004#001
+~00~#001
+;001B21C4{Total MDK      %4d~23~~00~}#026#020
+Total MUA      %4d~23~~00~#020
+;001B21D8{Destroyed Items %3d~23~~00~}#027#021
+Ítems Anulados  %3d~23~~00~#021
+;001B21ED{~00~}#004#001
+~00~#001
+;001B21EE{Points      %7ld~23~~00~}#024#018
+Puntos      %7ld~23~~00~#018
+|96
+@001B22BC-001B22E5-00
+;001B22BC{Continues       %3d~00~}#023#020
+Continuaciones  %3d~00~#020
+;001B22D0{                     ~00~}#025#022
+                     ~00~#022
+|42
+@001B2BAE-001B2C1B-00
+;001B2BAE{CONGRATULATIONS~00~}#019#016
+FELICIDADES    ~00~#016
+;001B2BBE{You have graduated~00~}#022#019
+Te graduaste en el~00~#019
+;001B2BD1{~00~}#004#001
+~00~#001
+;001B2BD2{from CALM level,~00~}#020#017
+nivel CALMA,para~00~#017
+;001B2BE3{~00~}#004#001
+~00~#001
+;001B2BE4{To Finish the game~00~}#022#019
+acabar el juego   ~00~#019
+;001B2BF7{~00~}#004#001
+~00~#001
+;001B2BF8{you must play all~00~}#021#018
+debes jugar en el~00~#018
+;001B2C0A{levels on CRAZED.~00~}#021#018
+nivel LOCO.      ~00~#018
+|110
+@001B318C-001B3274-00
+;001B318C{                    Criminals are destroying cars. Disable the car stacking crane!~23~~00~}#090#084
+                    Criminales destruyen coches. ¡Desactiva la grúa apilacoches!  ~23~~00~#084
+;001B31E0{                    Monorail hijacked! Apprehend the hijackers.~23~~00~}#071#065
+                    ¡El Monorraíl fue secuestrado! Recupéralo. ~23~~00~#065
+;001B3221{~00~}#004#001
+~00~#001
+;001B3222{                    Criminals are destroying our beloved library. Apprehend them.~23~~00~}#089#083
+                    Criminales destruyen nuestra amada biblioteca. Atrápales.    ~23~~00~#083
+|233
+@001FE7C9-001FE831-00
+;001FE7C9{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DESARROLLADO PARA USARSE EN~00~#028
+;001FE7E5{~12~&~00~}#009#003
+~12~Y~00~#003
+;001FE7E8{~0F~SYSTEMS.~00~}#016#010
+~0F~SISTEMA.~00~#010
+;001FE7F2{~0C~NTSC MEGA DRIVE~00~}#023#017
+~0C~MEGA DRIVE NTSC~00~#017
+;001FE803{~0D~NTSC GENESIS~00~}#020#014
+~0D~GENESIS NTSC~00~#014
+;001FE811{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~MEGA DRIVE PAL Y SECAM FRANCESA~00~#033
+|105

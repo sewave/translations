@@ -1,0 +1,288 @@
+@00025C04-00025C44-FF
+;00025C04{~00~~00~~01~Monsters Options===~FF~}#035#023
+~00~~00~~01~Monsters Options===~FF~#023
+;00025C1B{~00~~00~Cheat:      ~FF~}#024#015
+~00~~00~Cheat:      ~FF~#015
+;00025C2A{~00~~00~Sound Test: ~FF~}#024#015
+~00~~00~Sound Test: ~FF~#015
+;00025C39{~00~ ON ~FF~}#012#006
+~00~ ON ~FF~#006
+;00025C3F{~00~ OFF~FF~}#012#006
+~00~ OFF~FF~#006
+|65
+@00025CF6-0002621D-FF
+;00025CF6{~00~~00~Level: 01   ~00~ Viacom       ~FF~}#042#030
+~00~~00~Level: 01   ~00~ Viacom       ~FF~#030
+;00025D14{~00~~00~Level: 02   ~00~ Title        ~FF~}#042#030
+~00~~00~Level: 02   ~00~ Title        ~FF~#030
+;00025D32{~00~~00~Level: 03   ~00~ Nickelodeon  ~FF~}#042#030
+~00~~00~Level: 03   ~00~ Nickelodeon  ~FF~#030
+;00025D50{~00~~00~Level: 04   ~00~ Dump 1       ~FF~}#042#030
+~00~~00~Level: 04   ~00~ Dump 1       ~FF~#030
+;00025D6E{~00~~00~Level: 05   ~00~ Dump 2       ~FF~}#042#030
+~00~~00~Level: 05   ~00~ Dump 2       ~FF~#030
+;00025D8C{~00~~00~Level: 06   ~00~ Dump 3       ~FF~}#042#030
+~00~~00~Level: 06   ~00~ Dump 3       ~FF~#030
+;00025DAA{~00~~00~Level: 07   ~00~ Dump 4       ~FF~}#042#030
+~00~~00~Level: 07   ~00~ Dump 4       ~FF~#030
+;00025DC8{~00~~00~Level: 08   ~00~ Dump 5       ~FF~}#042#030
+~00~~00~Level: 08   ~00~ Dump 5       ~FF~#030
+;00025DE6{~00~~00~Level: 09   ~00~ Dump 6       ~FF~}#042#030
+~00~~00~Level: 09   ~00~ Dump 6       ~FF~#030
+;00025E04{~00~~00~Level: 10   ~00~ Dump 7       ~FF~}#042#030
+~00~~00~Level: 10   ~00~ Dump 7       ~FF~#030
+;00025E22{~00~~00~Level: 11   ~00~ Post Office 1~FF~}#042#030
+~00~~00~Level: 11   ~00~ Post Office 1~FF~#030
+;00025E40{~00~~00~Level: 12   ~00~ Post Office 2~FF~}#042#030
+~00~~00~Level: 12   ~00~ Post Office 2~FF~#030
+;00025E5E{~00~~00~Level: 13   ~00~ Post Office 3~FF~}#042#030
+~00~~00~Level: 13   ~00~ Post Office 3~FF~#030
+;00025E7C{~00~~00~Level: 14   ~00~ Mall 1       ~FF~}#042#030
+~00~~00~Level: 14   ~00~ Mall 1       ~FF~#030
+;00025E9A{~00~~00~Level: 15   ~00~ Continue     ~FF~}#042#030
+~00~~00~Level: 15   ~00~ Continue     ~FF~#030
+;00025EB8{~00~~00~Level: 16   ~00~ Hunter 1     ~FF~}#042#030
+~00~~00~Level: 16   ~00~ Hunter 1     ~FF~#030
+;00025ED6{~00~~00~Level: 17   ~00~ Hunter 2     ~FF~}#042#030
+~00~~00~Level: 17   ~00~ Hunter 2     ~FF~#030
+;00025EF4{~00~~00~Level: 18   ~00~ Dino 1       ~FF~}#042#030
+~00~~00~Level: 18   ~00~ Dino 1       ~FF~#030
+;00025F12{~00~~00~Level: 19   ~00~ Dino 2       ~FF~}#042#030
+~00~~00~Level: 19   ~00~ Dino 2       ~FF~#030
+;00025F30{~00~~00~Level: 20   ~00~ Gym 1        ~FF~}#042#030
+~00~~00~Level: 20   ~00~ Gym 1        ~FF~#030
+;00025F4E{~00~~00~Level: 21   ~00~ School 1     ~FF~}#042#030
+~00~~00~Level: 21   ~00~ School 1     ~FF~#030
+;00025F6C{~00~~00~Level: 22   ~00~ Options      ~FF~}#042#030
+~00~~00~Level: 22   ~00~ Options      ~FF~#030
+;00025F8A{~00~~00~Level: 23   ~00~ Score        ~FF~}#042#030
+~00~~00~Level: 23   ~00~ Score        ~FF~#030
+;00025FA8{~00~~00~Level: 24   ~00~ Legal Screen ~FF~}#042#030
+~00~~00~Level: 24   ~00~ Legal Screen ~FF~#030
+;00025FC6{~00~~00~Level: 25   ~00~ Googleplex   ~FF~}#042#030
+~00~~00~Level: 25   ~00~ Googleplex   ~FF~#030
+;00025FE4{~00~~00~Level: 26   ~00~ Dump Bonus 1 ~FF~}#042#030
+~00~~00~Level: 26   ~00~ Dump Bonus 1 ~FF~#030
+;00026002{~00~~00~Level: 27   ~00~ Assignment 1 ~FF~}#042#030
+~00~~00~Level: 27   ~00~ Assignment 1 ~FF~#030
+;00026020{~00~~00~Level: 28   ~00~ Assignment 2 ~FF~}#042#030
+~00~~00~Level: 28   ~00~ Assignment 2 ~FF~#030
+;0002603E{~00~~00~Level: 29   ~00~ Assignment 3 ~FF~}#042#030
+~00~~00~Level: 29   ~00~ Assignment 3 ~FF~#030
+;0002605C{~00~~00~Level: 30   ~00~ Assignment 4 ~FF~}#042#030
+~00~~00~Level: 30   ~00~ Assignment 4 ~FF~#030
+;0002607A{~00~~00~Level: 31   ~00~ Assignment 5 ~FF~}#042#030
+~00~~00~Level: 31   ~00~ Assignment 5 ~FF~#030
+;00026098{~00~~00~Level: 32   ~00~ Post Boss    ~FF~}#042#030
+~00~~00~Level: 32   ~00~ Post Boss    ~FF~#030
+;000260B6{~00~~00~Level: 33   ~00~ Diploma      ~FF~}#042#030
+~00~~00~Level: 33   ~00~ Diploma      ~FF~#030
+;000260D4{~00~~00~Level: 34   ~00~ Win          ~FF~}#042#030
+~00~~00~Level: 34   ~00~ Win          ~FF~#030
+;000260F2{~00~~00~Level: 35   ~00~ Credits      ~FF~}#042#030
+~00~~00~Level: 35   ~00~ Credits      ~FF~#030
+;00026110{~00~~00~Level: 36   ~00~ Intro Bed    ~FF~}#042#030
+~00~~00~Level: 36   ~00~ Intro Bed    ~FF~#030
+;0002612E{~00~~00~Level: 37   ~00~ Intro Hall   ~FF~}#042#030
+~00~~00~Level: 37   ~00~ Intro Hall   ~FF~#030
+;0002614C{~00~~00~Level: 38   ~00~ Game Over    ~FF~}#042#030
+~00~~00~Level: 38   ~00~ Game Over    ~FF~#030
+;0002616A{~00~~00~Level: 39   ~00~ Sega License ~FF~}#042#030
+~00~~00~Level: 39   ~00~ Sega License ~FF~#030
+;00026188{~00~~00~Level: 40   ~00~ Assignment 1f~FF~}#042#030
+~00~~00~Level: 40   ~00~ Assignment 1f~FF~#030
+;000261A6{~00~~00~Level: 41   ~00~ Assignment 2f~FF~}#042#030
+~00~~00~Level: 41   ~00~ Assignment 2f~FF~#030
+;000261C4{~00~~00~Level: 42   ~00~ Assignment 3f~FF~}#042#030
+~00~~00~Level: 42   ~00~ Assignment 3f~FF~#030
+;000261E2{~00~~00~Level: 43   ~00~ Assignment 4f~FF~}#042#030
+~00~~00~Level: 43   ~00~ Assignment 4f~FF~#030
+;00026200{~00~~00~Level: 44   ~00~ Assignment 5f~FF~}#042#030
+~00~~00~Level: 44   ~00~ Assignment 5f~FF~#030
+|1320
+@00026592-000265A3-FF
+;00026592{~00~ START~FF~}#014#008
+~00~ START~FF~#008
+;0002659A{~00~ OPTIONS~FF~}#016#010
+~00~ OPTIONS~FF~#010
+|18
+@00026808-0002685F-FF
+;00026808{~00~~00~Difficulty~FF~}#022#013
+~00~~00~Difficulty~FF~#013
+;00026815{~00~~00~Music~FF~}#017#008
+~00~~00~Music~FF~#008
+;0002681D{~00~~00~Sound~FF~}#017#008
+~00~~00~Sound~FF~#008
+;00026825{~00~~00~Controls~FF~}#020#011
+~00~~00~Controls~FF~#011
+;00026830{~00~`easy     ~FF~}#018#012
+~00~`easy     ~FF~#012
+;0002683C{~00~`scary    ~FF~}#018#012
+~00~`scary    ~FF~#012
+;00026848{~00~`Nightmare~FF~}#018#012
+~00~`Nightmare~FF~#012
+;00026854{~00~`ON ~FF~}#012#006
+~00~`ON ~FF~#006
+;0002685A{~00~`OFF~FF~}#012#006
+~00~`OFF~FF~#006
+|88
+@00026878-0002698B-FF
+;00026878{~00~`A:SCARE B:THROW==>>>>>>>>>>>>>>>>>>>C:JUMP ~FF~}#052#046
+~00~`A:SCARE B:THROW==>>>>>>>>>>>>>>>>>>>C:JUMP ~FF~#046
+;000268A6{~00~`A:SCARE B:JUMP ==>>>>>>>>>>>>>>>>>>>C:THROW~FF~}#052#046
+~00~`A:SCARE B:JUMP ==>>>>>>>>>>>>>>>>>>>C:THROW~FF~#046
+;000268D4{~00~`A:THROW B:SCARE==>>>>>>>>>>>>>>>>>>>C:JUMP ~FF~}#052#046
+~00~`A:THROW B:SCARE==>>>>>>>>>>>>>>>>>>>C:JUMP ~FF~#046
+;00026902{~00~`A:THROW B:JUMP ==>>>>>>>>>>>>>>>>>>>C:SCARE~FF~}#052#046
+~00~`A:THROW B:JUMP ==>>>>>>>>>>>>>>>>>>>C:SCARE~FF~#046
+;00026930{~00~`A:JUMP  B:SCARE==>>>>>>>>>>>>>>>>>>>C:THROW~FF~}#052#046
+~00~`A:JUMP  B:SCARE==>>>>>>>>>>>>>>>>>>>C:THROW~FF~#046
+;0002695E{~00~`A:JUMP  B:THROW==>>>>>>>>>>>>>>>>>>>C:SCARE~FF~}#052#046
+~00~`A:JUMP  B:THROW==>>>>>>>>>>>>>>>>>>>C:SCARE~FF~#046
+|276
+@00026BEF-00026C8F-FF
+;00026BEF{~00~~00~~00~   Find   ~FF~}#026#014
+~00~~00~~00~   Find   ~FF~#014
+;00026BFD{~00~~00~~00~   Scare   ~FF~}#027#015
+~00~~00~~00~   Scare   ~FF~#015
+;00026C0C{~00~~02~l ~00~~02~l6~00~~02~lM~00~~02~lb~00~~02~ly~00~~00~>>>>>screaming ABCD~FF~}#081#042
+~00~~02~l ~00~~02~l6~00~~02~lM~00~~02~lb~00~~02~ly~00~~00~>>>>>screaming ABCD~FF~#042
+;00026C36{~00~~00~>>>poltergeisting 1A~FF~}#032#023
+~00~~00~>>>poltergeisting 1A~FF~#023
+;00026C4D{~00~~00~>>>>>nightmares 2b~FF~}#030#021
+~00~~00~>>>>>nightmares 2b~FF~#021
+;00026C62{~00~~00~>>>people petrifying~FF~}#032#023
+~00~~00~>>>people petrifying~FF~#023
+;00026C79{~00~~00~>>>hiding for horror~FF~}#032#023
+~00~~00~>>>hiding for horror~FF~#023
+|161
+@00026CB9-00026DD2-FF
+;00026CB9{~00~~00~ ~01~ - 1995 Viacom International Inc.==~01~all rights reserved.==~01~AAAHH!!! Real Monsters and all==~01~related characters, titles and==~01~logos are trademarks of==~01~>viacom international inc.===~01~AAAHH!!! REAL MONSTERS IS CREATED==~01~BY KLASKY+CSUPO, INC.===~01~DEVELOPED BY==~01~REALTIME ASSOCIATES=~FF~}#321#282
+~00~~00~ ~01~ - 1995 Viacom International Inc.==~01~all rights reserved.==~01~AAAHH!!! Real Monsters and all==~01~related characters, titles and==~01~logos are trademarks of==~01~>viacom international inc.===~01~AAAHH!!! REAL MONSTERS IS CREATED==~01~BY KLASKY+CSUPO, INC.===~01~DEVELOPED BY==~01~REALTIME ASSOCIATES=~FF~#282
+|282
+@00026FE0-0002700B-FF
+;00026FE0{~00~~40~VICTIMS:   ~00~ &~FF~}#029#017
+~00~~40~VICTIMS:   ~00~ &~FF~#017
+;00026FF1{~00~~40~PRIZES:    ~00~ &~FF~}#029#017
+~00~~40~PRIZES:    ~00~ &~FF~#017
+;00027002{~00~~40~ GRADE:~FF~}#019#010
+~00~~40~ GRADE:~FF~#010
+|44
+@00027112-000278A3-FF
+;00027112{~00~~40~~01~LEAD PROGRAMMER==~00~~E0~~01~JIM SCHULER==~FF~}#058#037
+~00~~40~~01~LEAD PROGRAMMER==~00~~E0~~01~JIM SCHULER==~FF~#037
+;00027137{~00~~C0~~01~ASSISTANT PROGRAMMER==~00~~E0~~01~DAVID KEITH CONNELLY==~FF~}#072#051
+~00~~C0~~01~ASSISTANT PROGRAMMER==~00~~E0~~01~DAVID KEITH CONNELLY==~FF~#051
+;0002716A{~00~~C0~~01~MAP LAYOUT AND DESIGN==~00~~E0~~01~KEVIN CHAN==~FF~}#063#042
+~00~~C0~~01~MAP LAYOUT AND DESIGN==~00~~E0~~01~KEVIN CHAN==~FF~#042
+;00027194{~00~~C0~~01~BACKGROUND ART==~00~~E0~~01~ELLEN DRUCKER==~00~~E0~~01~DORAN FISH==~FF~}#083#053
+~00~~C0~~01~BACKGROUND ART==~00~~E0~~01~ELLEN DRUCKER==~00~~E0~~01~DORAN FISH==~FF~#053
+;000271C9{~00~~C0~~01~ANIMATORS==~00~~E0~~01~JEFF COOK==~00~~E0~~01~SHELLEY FUTCH==~00~~E0~~01~MARTINE GAUDISSART==~FF~}#109#070
+~00~~C0~~01~ANIMATORS==~00~~E0~~01~JEFF COOK==~00~~E0~~01~SHELLEY FUTCH==~00~~E0~~01~MARTINE GAUDISSART==~FF~#070
+;0002720F{~00~~C0~~01~ANIMATORS==~00~~E0~~01~BARBARA LIPTON==~00~~E0~~01~PERRY KEIFFER==~00~~E0~~01~SEAN PLATTER==~00~~E0~~01~LAURA SMITH==~FF~}#133#085
+~00~~C0~~01~ANIMATORS==~00~~E0~~01~BARBARA LIPTON==~00~~E0~~01~PERRY KEIFFER==~00~~E0~~01~SEAN PLATTER==~00~~E0~~01~LAURA SMITH==~FF~#085
+;00027264{~00~~C0~~01~ADDITIONAL ART==~00~~E0~~01~JEAN BERGESON==~FF~}#059#038
+~00~~C0~~01~ADDITIONAL ART==~00~~E0~~01~JEAN BERGESON==~FF~#038
+;0002728A{~00~~C0~~01~MUSIC COMPOSED BY==~00~~E0~~01~GREG TURNER==~FF~}#060#039
+~00~~C0~~01~MUSIC COMPOSED BY==~00~~E0~~01~GREG TURNER==~FF~#039
+;000272B1{~00~~C0~~01~MUSIC ADAPTED FOR GENESIS BY==~00~~E0~~01~ERIC SWANSON==~FF~}#072#051
+~00~~C0~~01~MUSIC ADAPTED FOR GENESIS BY==~00~~E0~~01~ERIC SWANSON==~FF~#051
+;000272E4{~00~~C0~~01~ADDITIONAL MUSIC AND SOUND EFFECTS==~00~~E0~~01~DAVE JAVELOSA==~00~~E0~~01~ERIC SWANSON==~FF~}#105#075
+~00~~C0~~01~ADDITIONAL MUSIC AND SOUND EFFECTS==~00~~E0~~01~DAVE JAVELOSA==~00~~E0~~01~ERIC SWANSON==~FF~#075
+;0002732F{~00~~C0~~01~PRODUCER FOR==~00~~C0~~01~REALTIME ASSOCIATES==~00~~E0~~01~JENNY SWARD==~FF~}#088#058
+~00~~C0~~01~PRODUCER FOR==~00~~C0~~01~REALTIME ASSOCIATES==~00~~E0~~01~JENNY SWARD==~FF~#058
+;00027369{~00~~C0~~01~EXECUTIVE PRODUCER FOR==~00~~C0~~01~REALTIME ASSOCIATES==~00~~E0~~01~DAVE WARHOL==~FF~}#098#068
+~00~~C0~~01~EXECUTIVE PRODUCER FOR==~00~~C0~~01~REALTIME ASSOCIATES==~00~~E0~~01~DAVE WARHOL==~FF~#068
+;000273AD{~00~~C0~~01~TESTERS FOR REALTIME ASSOCIATES==~00~~E0~~01~CHAD BUNCH==~00~~E0~~01~ROBERT LARK==~00~~E0~~01~APRIL TYREE==~FF~}#123#084
+~00~~C0~~01~TESTERS FOR REALTIME ASSOCIATES==~00~~E0~~01~CHAD BUNCH==~00~~E0~~01~ROBERT LARK==~00~~E0~~01~APRIL TYREE==~FF~#084
+;00027401{~00~~C0~~01~SPECIAL THANKS TO==~00~~E0~~01~ED HIGA AND THE SNES TEAM==~00~~E0~~01~RICK CHIPECO==~00~~E0~~01~THOMAS PENG==~00~~E0~~01~ANN LEDIAEV==~FF~}#150#102
+~00~~C0~~01~SPECIAL THANKS TO==~00~~E0~~01~ED HIGA AND THE SNES TEAM==~00~~E0~~01~RICK CHIPECO==~00~~E0~~01~THOMAS PENG==~00~~E0~~01~ANN LEDIAEV==~FF~#102
+;00027467{~00~~C0~~01~EXECUTIVE PRODUCER FOR==~00~~C0~~01~VIACOM NEW MEDIA==~00~~E0~~01~KENNY MILLER==~FF~}#096#066
+~00~~C0~~01~EXECUTIVE PRODUCER FOR==~00~~C0~~01~VIACOM NEW MEDIA==~00~~E0~~01~KENNY MILLER==~FF~#066
+;000274A9{~00~~C0~~01~PUBLISHING PRODUCER FOR==~00~~C0~~01~VIACOM NEW MEDIA==~00~~E0~~01~MATT WELTON==~FF~}#096#066
+~00~~C0~~01~PUBLISHING PRODUCER FOR==~00~~C0~~01~VIACOM NEW MEDIA==~00~~E0~~01~MATT WELTON==~FF~#066
+;000274EB{~00~~C0~~01~ASSOCIATE PRODUCER FOR==~00~~C0~~01~VIACOM NEW MEDIA==~00~~E0~~01~JACKSON YOUNG==~FF~}#097#067
+~00~~C0~~01~ASSOCIATE PRODUCER FOR==~00~~C0~~01~VIACOM NEW MEDIA==~00~~E0~~01~JACKSON YOUNG==~FF~#067
+;0002752E{~00~~C0~~01~DEVELOPMENT SUPPORT MANAGEMENT==~00~~C0~~01~FOR VIACOM NEW MEDIA==~00~~E0~~01~SCOTT LAWRENCE==~00~~E0~~01~JOHN PODLASEK==~00~~E0~~01~BAKI ALLEN==~FF~}#161#113
+~00~~C0~~01~DEVELOPMENT SUPPORT MANAGEMENT==~00~~C0~~01~FOR VIACOM NEW MEDIA==~00~~E0~~01~SCOTT LAWRENCE==~00~~E0~~01~JOHN PODLASEK==~00~~E0~~01~BAKI ALLEN==~FF~#113
+;0002759F{~00~~C0~~01~GAME DESIGN SPECIALIST FOR==~00~~C0~~01~VIACOM NEW MEDIA==~00~~E0~~01~CLIFF FALLS==~FF~}#099#069
+~00~~C0~~01~GAME DESIGN SPECIALIST FOR==~00~~C0~~01~VIACOM NEW MEDIA==~00~~E0~~01~CLIFF FALLS==~FF~#069
+;000275E4{~00~~C0~~01~LEAD TESTER FOR VIACOM NEW MEDIA==~00~~E0~~01~DAVE GOHMAN==~FF~}#075#054
+~00~~C0~~01~LEAD TESTER FOR VIACOM NEW MEDIA==~00~~E0~~01~DAVE GOHMAN==~FF~#054
+;0002761A{~00~~C0~~01~TESTERS FOR VIACOM NEW MEDIA==~00~~E0~~01~JOHN KELLY==~00~~E0~~01~JIM RAFF==~00~~E0~~01~MIKE LEE==~FF~}#114#075
+~00~~C0~~01~TESTERS FOR VIACOM NEW MEDIA==~00~~E0~~01~JOHN KELLY==~00~~E0~~01~JIM RAFF==~00~~E0~~01~MIKE LEE==~FF~#075
+;00027665{~00~~C0~~01~TESTERS FOR VIACOM NEW MEDIA==~00~~E0~~01~DAVID CASSO==~00~~E0~~01~DONALD HILL==~FF~}#096#066
+~00~~C0~~01~TESTERS FOR VIACOM NEW MEDIA==~00~~E0~~01~DAVID CASSO==~00~~E0~~01~DONALD HILL==~FF~#066
+;000276A7{~00~~C0~~01~MANAGING PRODUCER FOR NICKELODEON==~00~~E0~~01~DONNA FRIEDMAN==~FF~}#079#058
+~00~~C0~~01~MANAGING PRODUCER FOR NICKELODEON==~00~~E0~~01~DONNA FRIEDMAN==~FF~#058
+;000276E1{~00~~C0~~01~QUEENS OF COOL AND CREATIVE==~00~~C0~~01~CONSULTANTS FOR NICKELODEON==~00~~E0~~01~MICHELE JABLONER==~00~~E0~~01~CRICKET STETTIMIUS==~FF~}#148#109
+~00~~C0~~01~QUEENS OF COOL AND CREATIVE==~00~~C0~~01~CONSULTANTS FOR NICKELODEON==~00~~E0~~01~MICHELE JABLONER==~00~~E0~~01~CRICKET STETTIMIUS==~FF~#109
+;0002774E{~00~~C0~~01~SPECIAL THANKS==~00~~E0~~01~JANET MULDOON==~00~~E0~~01~NICK ANIMATION==~00~~E0~~01~KLASKY+CSUPO==~FF~}#113#074
+~00~~C0~~01~SPECIAL THANKS==~00~~E0~~01~JANET MULDOON==~00~~E0~~01~NICK ANIMATION==~00~~E0~~01~KLASKY+CSUPO==~FF~#074
+;00027798{~00~~C0~~01~THE  END==~FF~}#026#014
+~00~~C0~~01~THE  END==~FF~#014
+;000277A6{~FF~}#004#001
+~FF~#001
+;000277A7{                                        ==                                        ==                                        ==                                        ==>>>>>>                                  ==>>>>>>                                  ==~FF~}#256#253
+                                        ==                                        ==                                        ==                                        ==>>>>>>                                  ==>>>>>>                                  ==~FF~#253
+|1938
+@00027AD6-00027BBC-FF
+;00027AD6{~00~~00~~01~Congratulations my petite==~00~~00~~01~scab scratchers, you have done well.==~FF~}#093#072
+~00~~00~~01~Congratulations my petite==~00~~00~~01~scab scratchers, you have done well.==~FF~#072
+;00027B1E{~00~~00~~01~Allow me to present you with==~00~~00~~01~this graduation certificate.==~FF~}#088#067
+~00~~00~~01~Allow me to present you with==~00~~00~~01~this graduation certificate.==~FF~#067
+;00027B61{~00~~00~~01~you are in fact real monsters!!!==~00~~00~~01~now go out there and show me what==~00~~00~~01~you can do!==~FF~}#122#092
+~00~~00~~01~you are in fact real monsters!!!==~00~~00~~01~now go out there and show me what==~00~~00~~01~you can do!==~FF~#092
+|231
+@00027BE9-00027E96-FF
+;00027BE9{ ~01~Licensed by Sega Enterprises, ltd.==~FF~}#045#039
+ ~01~Licensed by Sega Enterprises, ltd.==~FF~#039
+;00027C10{~00~~C0~          JIM SCHULER         ==~00~~C0~                 DAVE CONNELLY==~FF~}#084#069
+~00~~C0~          JIM SCHULER         ==~00~~C0~                 DAVE CONNELLY==~FF~#069
+;00027C55{~00~~C0~        HUH HUH, COOL==~00~~C0~                   HEH HEH, YEAH==~FF~}#077#062
+~00~~C0~        HUH HUH, COOL==~00~~C0~                   HEH HEH, YEAH==~FF~#062
+;00027C93{~00~~C0~~01~This is like, our secret screen,==~00~~C0~~01~nobody knows about this screen,==~00~~C0~~01~except us and now you==~00~~C0~~01~You should feel the honor==~FF~}#169#130
+~00~~C0~~01~This is like, our secret screen,==~00~~C0~~01~nobody knows about this screen,==~00~~C0~~01~except us and now you==~00~~C0~~01~You should feel the honor==~FF~#130
+;00027D15{~00~~C0~~01~Jim sais hi to Karen!!!==~00~~C0~~01~Wassup to==~00~~C0~~01~Ike,John,Matt,Ivan,Curt!==~FF~}#102#072
+~00~~C0~~01~Jim sais hi to Karen!!!==~00~~C0~~01~Wassup to==~00~~C0~~01~Ike,John,Matt,Ivan,Curt!==~FF~#072
+;00027D5D{~00~~C0~~01~Dave sais hi to Mary Ellen!==~00~~C0~~01~Wassup to==~00~~C0~~01~Catie,Sue,Rick,Licia,Neil,Clare!==~FF~}#114#084
+~00~~C0~~01~Dave sais hi to Mary Ellen!==~00~~C0~~01~Wassup to==~00~~C0~~01~Catie,Sue,Rick,Licia,Neil,Clare!==~FF~#084
+;00027DB1{~00~~C0~~01~Hi Mom!==~FF~}#025#013
+~00~~C0~~01~Hi Mom!==~FF~#013
+;00027DBE{~00~~C0~~01~Watch for our next game!==~FF~}#042#030
+~00~~C0~~01~Watch for our next game!==~FF~#030
+;00027DDC{~00~~C0~~01~Go Lakers!==~FF~}#028#016
+~00~~C0~~01~Go Lakers!==~FF~#016
+;00027DEC{~FF~}#004#001
+~FF~#001
+;00027DED{~00~                                        ==                                        ==                                        ==                                        ==~FF~}#176#170
+~00~                                        ==                                        ==                                        ==                                        ==~FF~#170
+|686
+@0002E3D0-0002E4B2-FF
+;0002E3D0{~00~ CART INFORMATION:~00~~00~~FF~}#034#022
+~00~ CART INFORMATION:~00~~00~~FF~#022
+;0002E3E6{~00~ DEBUG ERROR: 1~00~~00~~FF~}#031#019
+~00~ DEBUG ERROR: 1~00~~00~~FF~#019
+;0002E3F9{~00~ ADDRESS ERROR:~00~~00~~FF~}#031#019
+~00~ ADDRESS ERROR:~00~~00~~FF~#019
+;0002E40C{~00~ BUSS ERROR:~00~~00~~FF~}#028#016
+~00~ BUSS ERROR:~00~~00~~FF~#016
+;0002E41C{~00~ ILLEGAL OPERAND:~00~~00~~FF~}#033#021
+~00~ ILLEGAL OPERAND:~00~~00~~FF~#021
+;0002E431{~00~ DIVISION BY ZERO:~00~~00~~FF~}#034#022
+~00~ DIVISION BY ZERO:~00~~00~~FF~#022
+;0002E447{~00~ CHK ERROR:~00~~00~~FF~}#027#015
+~00~ CHK ERROR:~00~~00~~FF~#015
+;0002E456{~00~ TRAP:~00~~00~~FF~}#022#010
+~00~ TRAP:~00~~00~~FF~#010
+;0002E460{~00~ PRIVATE ERROR~00~~00~~FF~}#030#018
+~00~ PRIVATE ERROR~00~~00~~FF~#018
+;0002E472{~00~ TRACE~00~~00~~FF~}#022#010
+~00~ TRACE~00~~00~~FF~#010
+;0002E47C{~00~ ENGINE ERROR 0:~00~~00~~FF~}#032#020
+~00~ ENGINE ERROR 0:~00~~00~~FF~#020
+;0002E490{~00~ ENGINE ERROR 1:~00~~00~~FF~}#032#020
+~00~ ENGINE ERROR 1:~00~~00~~FF~#020
+;0002E4A4{~00~ INT ERROR:~00~~00~~FF~}#027#015
+~00~ INT ERROR:~00~~00~~FF~#015
+|227

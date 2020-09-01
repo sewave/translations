@@ -1,0 +1,238 @@
+@00021180-00021515-FF
+;00021180{<------------------><------------------>~23~    START GAME           OPTIONS       <------------------><------------------>~FF~}#127#121
+<------------------><------------------>~23~    START GAME           OPTIONS       <------------------><------------------>~FF~#121
+;000211F9{~FE~<------------------>~23~ PLAYERS          1  LEVEL       NORMAL  MUSIC            1<------------------><------------------>~FF~}#131#122
+~FE~<------------------>~23~ PLAYERS          1  LEVEL       NORMAL  MUSIC            1<------------------><------------------>~FF~#122
+;00021273{~FE~  TRACK NUMBER    01 NAME :                                                                                                                                                               PLAYER 1 SELECT DRIVER ~FF~}#217#211
+~FE~  TRACK NUMBER    01 NAME :                                                                                                                                                               PLAYER 1 SELECT DRIVER ~FF~#211
+;00021346{ NAME :                                                                                                                                                               PLAYER 2 SELECT DRIVER ~FF~}#193#190
+ NAME :                                                                                                                                                               PLAYER 2 SELECT DRIVER ~FF~#190
+;00021404{ NAME :                                                                                                                                                               PLAYER 3 SELECT DRIVER ~FF~}#193#190
+ NAME :                                                                                                                                                               PLAYER 3 SELECT DRIVER ~FF~#190
+;000214C2{ SEASON :                  ~FF~}#031#028
+ SEASON :                  ~FF~#028
+;000214DE{ SEASON :                  ~FF~}#031#028
+ SEASON :                  ~FF~#028
+;000214FA{ SEASON :                  ~FF~}#031#028
+ SEASON :                  ~FF~#028
+|918
+@0002187C-00021897-FF
+;0002187C{  NAME : JOHN FREEWAY      ~FF~}#031#028
+  NAME : JOHN FREEWAY      ~FF~#028
+|28
+@0002195C-00021977-FF
+;0002195C{  NAME : PETER SPEEDY      ~FF~}#031#028
+  NAME : PETER SPEEDY      ~FF~#028
+|28
+@00021A3C-00021A57-FF
+;00021A3C{  NAME : DAVE RUNNER       ~FF~}#031#028
+  NAME : DAVE RUNNER       ~FF~#028
+|28
+@00021B1C-00021B37-FF
+;00021B1C{  NAME : STEVE TURNER      ~FF~}#031#028
+  NAME : STEVE TURNER      ~FF~#028
+|28
+@00021BFC-00021C17-FF
+;00021BFC{  NAME : TOMMY TURBO       ~FF~}#031#028
+  NAME : TOMMY TURBO       ~FF~#028
+|28
+@00021CDC-00021CF7-FF
+;00021CDC{  NAME : SPEEDY GONZARLES  ~FF~}#031#028
+  NAME : SPEEDY GONZARLES  ~FF~#028
+|28
+@000240EE-00024179-FF
+;000240EE{   MONEY :                 ~FF~}#031#028
+   MONEY :                 ~FF~#028
+;0002410A{   MONEY :                 ~FF~}#031#028
+   MONEY :                 ~FF~#028
+;00024126{   MONEY :                 ~FF~}#031#028
+   MONEY :                 ~FF~#028
+;00024142{   PLAYER NOT PARTICIPATING~FF~}#031#028
+   PLAYER NOT PARTICIPATING~FF~#028
+;0002415E{   PLAYER GONE RACING.     ~FF~}#031#028
+   PLAYER GONE RACING.     ~FF~#028
+|140
+@0002F3E8-0002F432-FF
+;0002F3E8{ BONUS MONEY     $20,000~FF~}#028#025
+ BONUS MONEY     $20,000~FF~#025
+;0002F401{ BONUS MONEY     $30,000~FF~}#028#025
+ BONUS MONEY     $30,000~FF~#025
+;0002F41A{ BONUS MONEY     $50,000~FF~}#028#025
+ BONUS MONEY     $50,000~FF~#025
+|75
+@0003014C-000302D0-FF
+;0003014C{ NAME :                 ~FF~}#028#025
+ NAME :                 ~FF~#025
+;00030165{~FF~}#004#001
+~FF~#001
+;00030166{~FF~}#004#001
+~FF~#001
+;00030167{~FF~}#004#001
+~FF~#001
+;00030168{ RACE TIME      00:00:00~FF~}#028#025
+ RACE TIME      00:00:00~FF~#025
+;00030181{~FF~}#004#001
+~FF~#001
+;00030182{~FF~}#004#001
+~FF~#001
+;00030183{~FF~}#004#001
+~FF~#001
+;00030184{ <--------------------->~FF~}#028#025
+ <--------------------->~FF~#025
+;0003019D{~FF~}#004#001
+~FF~#001
+;0003019E{~FF~}#004#001
+~FF~#001
+;0003019F{~FF~}#004#001
+~FF~#001
+;000301A0{ PRIZE MONEY    $0000000~FF~}#028#025
+ PRIZE MONEY    $0000000~FF~#025
+;000301B9{~FF~}#004#001
+~FF~#001
+;000301BA{~FF~}#004#001
+~FF~#001
+;000301BB{~FF~}#004#001
+~FF~#001
+;000301BC{ PRIZE MONEY     $000000~FF~}#028#025
+ PRIZE MONEY     $000000~FF~#025
+;000301D5{~FF~}#004#001
+~FF~#001
+;000301D6{~FF~}#004#001
+~FF~#001
+;000301D7{~FF~}#004#001
+~FF~#001
+;000301D8{ BONUS MONEY          $0~FF~}#028#025
+ BONUS MONEY          $0~FF~#025
+;000301F1{~FF~}#004#001
+~FF~#001
+;000301F2{~FF~}#004#001
+~FF~#001
+;000301F3{~FF~}#004#001
+~FF~#001
+;000301F4{                        ~FF~}#028#025
+                        ~FF~#025
+;0003020D{~FF~}#004#001
+~FF~#001
+;0003020E{~FF~}#004#001
+~FF~#001
+;0003020F{~FF~}#004#001
+~FF~#001
+;00030210{ <--------------------->~FF~}#028#025
+ <--------------------->~FF~#025
+;00030229{~FF~}#004#001
+~FF~#001
+;0003022A{~FF~}#004#001
+~FF~#001
+;0003022B{~FF~}#004#001
+~FF~#001
+;0003022C{        GAME OVER       ~FF~}#028#025
+        GAME OVER       ~FF~#025
+;00030245{~FF~}#004#001
+~FF~#001
+;00030246{~FF~}#004#001
+~FF~#001
+;00030247{~FF~}#004#001
+~FF~#001
+;00030248{ <--------------------->~FF~}#028#025
+ <--------------------->~FF~#025
+;00030261{~FF~}#004#001
+~FF~#001
+;00030262{~FF~}#004#001
+~FF~#001
+;00030263{~FF~}#004#001
+~FF~#001
+;00030264{                        ~FF~}#028#025
+                        ~FF~#025
+;0003027D{~FF~}#004#001
+~FF~#001
+;0003027E{~FF~}#004#001
+~FF~#001
+;0003027F{~FF~}#004#001
+~FF~#001
+;00030280{ <--------------------->~FF~}#028#025
+ <--------------------->~FF~#025
+;00030299{~FF~}#004#001
+~FF~#001
+;0003029A{~FF~}#004#001
+~FF~#001
+;0003029B{~FF~}#004#001
+~FF~#001
+;0003029C{         CRASHED        ~FF~}#028#025
+         CRASHED        ~FF~#025
+;000302B5{~FF~}#004#001
+~FF~#001
+;000302B6{~FF~}#004#001
+~FF~#001
+;000302B7{~FF~}#004#001
+~FF~#001
+;000302B8{ <--------------------->~FF~}#028#025
+ <--------------------->~FF~#025
+|389
+@00030A80-00030B97-FF
+;00030A80{ PRIZE MONEY WON DURING    ~FF~}#031#028
+ PRIZE MONEY WON DURING    ~FF~#028
+;00030A9C{ <--------------------->   ~FF~}#031#028
+ <--------------------->   ~FF~#028
+;00030AB8{ RATING : CHAMPION         ~FF~}#031#028
+ RATING : CHAMPION         ~FF~#028
+;00030AD4{ RATING : WINNER           ~FF~}#031#028
+ RATING : WINNER           ~FF~#028
+;00030AF0{ RATING : PRO              ~FF~}#031#028
+ RATING : PRO              ~FF~#028
+;00030B0C{ RATING : VETERAN          ~FF~}#031#028
+ RATING : VETERAN          ~FF~#028
+;00030B28{ RATING : ROOKIE           ~FF~}#031#028
+ RATING : ROOKIE           ~FF~#028
+;00030B44{ RATING : AMATEUR          ~FF~}#031#028
+ RATING : AMATEUR          ~FF~#028
+;00030B60{ RATING : BEGINNER         ~FF~}#031#028
+ RATING : BEGINNER         ~FF~#028
+;00030B7C{ RATING : NOVICE           ~FF~}#031#028
+ RATING : NOVICE           ~FF~#028
+|280
+@00031400-00031A97-FF
+;00031400{  NAME : TODD WHEELER        <----------------------->  ADVANTAGE : GOOD ENGINE    ^POWER IS ALL YOU NEED.^   <----------------------->~FF~}#139#136
+  NAME : TODD WHEELER        <----------------------->  ADVANTAGE : GOOD ENGINE    ^POWER IS ALL YOU NEED.^   <----------------------->~FF~#136
+;00031488{  NAME : PETER ENGINE        <----------------------->  ADVANTAGE : GOOD ENGINE    ^POWER IS ALL YOU NEED.^   <----------------------->~FF~}#139#136
+  NAME : PETER ENGINE        <----------------------->  ADVANTAGE : GOOD ENGINE    ^POWER IS ALL YOU NEED.^   <----------------------->~FF~#136
+;00031510{  NAME : PAUL SPEEDUP        <----------------------->  ADVANTAGE : GOOD ENGINE    ^POWER IS ALL YOU NEED.^   <----------------------->~FF~}#139#136
+  NAME : PAUL SPEEDUP        <----------------------->  ADVANTAGE : GOOD ENGINE    ^POWER IS ALL YOU NEED.^   <----------------------->~FF~#136
+;00031598{  NAME : LANCE QUICK         <----------------------->  ADVANTAGE : ACCELERATION   ^CLUTCH THE EARLY LEAD!^   <----------------------->~FF~}#139#136
+  NAME : LANCE QUICK         <----------------------->  ADVANTAGE : ACCELERATION   ^CLUTCH THE EARLY LEAD!^   <----------------------->~FF~#136
+;00031620{  NAME : JOHN FASTLANE       <----------------------->  ADVANTAGE : ACCELERATION   ^CLUTCH THE EARLY LEAD!^   <----------------------->~FF~}#139#136
+  NAME : JOHN FASTLANE       <----------------------->  ADVANTAGE : ACCELERATION   ^CLUTCH THE EARLY LEAD!^   <----------------------->~FF~#136
+;000316A8{  NAME : HENRIK FAST         <----------------------->  ADVANTAGE : ACCELERATION   ^CLUTCH THE EARLY LEAD!^   <----------------------->~FF~}#139#136
+  NAME : HENRIK FAST         <----------------------->  ADVANTAGE : ACCELERATION   ^CLUTCH THE EARLY LEAD!^   <----------------------->~FF~#136
+;00031730{  NAME : PAM WILDER          <----------------------->  ADVANTAGE : GOOD BRAKES    ^CAN\T WIN IF YOU CRASH.^  <----------------------->~FF~}#139#136
+  NAME : PAM WILDER          <----------------------->  ADVANTAGE : GOOD BRAKES    ^CAN\T WIN IF YOU CRASH.^  <----------------------->~FF~#136
+;000317B8{  NAME : DIANE RACER         <----------------------->  ADVANTAGE : GOOD BRAKES    ^CAN\T WIN IF YOU CRASH.^  <----------------------->~FF~}#139#136
+  NAME : DIANE RACER         <----------------------->  ADVANTAGE : GOOD BRAKES    ^CAN\T WIN IF YOU CRASH.^  <----------------------->~FF~#136
+;00031840{  NAME : BELINDA SUPER       <----------------------->  ADVANTAGE : GOOD BRAKES    ^CAN\T WIN IF YOU CRASH.^  <----------------------->~FF~}#139#136
+  NAME : BELINDA SUPER       <----------------------->  ADVANTAGE : GOOD BRAKES    ^CAN\T WIN IF YOU CRASH.^  <----------------------->~FF~#136
+;000318C8{  NAME : JOE THUNDER         <----------------------->  ADVANTAGE : GOOD TRACTION  ^DON\T SPIN YOUR WHEELS.^  <----------------------->~FF~}#139#136
+  NAME : JOE THUNDER         <----------------------->  ADVANTAGE : GOOD TRACTION  ^DON\T SPIN YOUR WHEELS.^  <----------------------->~FF~#136
+;00031950{  NAME : JIMMY FASTER        <----------------------->  ADVANTAGE : GOOD TRACTION  ^DON\T SPIN YOUR WHEELS.^  <----------------------->~FF~}#139#136
+  NAME : JIMMY FASTER        <----------------------->  ADVANTAGE : GOOD TRACTION  ^DON\T SPIN YOUR WHEELS.^  <----------------------->~FF~#136
+;000319D8{  NAME : MARTIN STEALER      <----------------------->  ADVANTAGE : GOOD TRACTION  ^DON\T SPIN YOUR WHEELS.^  <----------------------->~FF~}#139#136
+  NAME : MARTIN STEALER      <----------------------->  ADVANTAGE : GOOD TRACTION  ^DON\T SPIN YOUR WHEELS.^  <----------------------->~FF~#136
+;00031A60{       DRIVER SELECTED     ~FF~}#031#028
+       DRIVER SELECTED     ~FF~#028
+;00031A7C{    COMPUTER SELECT DRIVER ~FF~}#031#028
+    COMPUTER SELECT DRIVER ~FF~#028
+|1688
+@00032B9A-00033015-FF
+;00032B9A{                                         *************************************** ~00~*                                     * ~01~* CONGRATULATIONS YOU HAVE COMPLETED  * ~02~*           ^DOUBLE CLUTCH^           * ~03~*                                     * ~04~*               STAFF :               * ~05~*                                     * ~06~* PROGRAMMING BY : LASSE FAABENG      * ~07~*                                     * ~08~* GRAPHICS BY : TORBEN BAKAGER LARSEN * ~09~*                                     * ~0A~* MUSIC AND REPLAYER BY : GIZMO       * ~0B~*                                     * ~0C~* VOICE COURTESY OF : YVETTE BAZZELL  * ~0D~*                                     * ~0E~*           SPECIAL THANKS TO :       * ~0F~*  KENNETH B. BEDSTED , DORETHE LETH  * ~10~*                                     * ~11~*           AND EVERYBODY AT          * ~12~*  ASCII ENTERTAINMENT SOFTWARE INC.  * ~13~*  ESPECIALLY DESMOND CRISIS,TIM RYAN * ~14~*             & BRYANT FONG           * ~15~*                                     * ~16~*************************************** ~17~   PRODUCED BY :                        ~19~                       BGS DEVELOPMENT  ~1A~                                         }#1226#1148
+                                         *************************************** ~00~*                                     * ~01~* CONGRATULATIONS YOU HAVE COMPLETED  * ~02~*           ^DOUBLE CLUTCH^           * ~03~*                                     * ~04~*               STAFF :               * ~05~*                                     * ~06~* PROGRAMMING BY : LASSE FAABENG      * ~07~*                                     * ~08~* GRAPHICS BY : TORBEN BAKAGER LARSEN * ~09~*                                     * ~0A~* MUSIC AND REPLAYER BY : GIZMO       * ~0B~*                                     * ~0C~* VOICE COURTESY OF : YVETTE BAZZELL  * ~0D~*                                     * ~0E~*           SPECIAL THANKS TO :       * ~0F~*  KENNETH B. BEDSTED , DORETHE LETH  * ~10~*                                     * ~11~*           AND EVERYBODY AT          * ~12~*  ASCII ENTERTAINMENT SOFTWARE INC.  * ~13~*  ESPECIALLY DESMOND CRISIS,TIM RYAN * ~14~*             & BRYANT FONG           * ~15~*                                     * ~16~*************************************** ~17~   PRODUCED BY :                        ~19~                       BGS DEVELOPMENT  ~1A~                                         #1148
+|1148
+@0003402C-000340A4-FF
+;0003402C{   COPYRIGHT 1992   ASCII ENTERTAINMENT    SOFTWARE, INC.   ALL RIGHTS RESERVED <------------------> PRESS START BUTTON ~FF~}#124#121
+   COPYRIGHT 1992   ASCII ENTERTAINMENT    SOFTWARE, INC.   ALL RIGHTS RESERVED <------------------> PRESS START BUTTON ~FF~#121
+|121
+@000340C2-000340E2-FF
+;000340C2{PRACTICE    EASY  NORMAL    HARD~FF~}#036#033
+PRACTICE    EASY  NORMAL    HARD~FF~#033
+|33
+@000340EE-000340FD-FF
+;000340EE{  1  2  3  4ALL~FF~}#019#016
+  1  2  3  4ALL~FF~#016
+|16

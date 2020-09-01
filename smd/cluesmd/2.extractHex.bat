@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Clue (USA).md"
+set SCRIPTNAME="cluesmd"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 1013E:200,1035E:200,10C9E:C0,1109E:A0,1BD8:500,24D8:120,5E98:340,4518:600,33B8:540,105FE:20
+pause

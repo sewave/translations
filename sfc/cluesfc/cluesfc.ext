@@ -1,0 +1,440 @@
+@00001ACD-00001B40-00
+;00001ACD{Colonel Mustard's Turn~00~}#026#023
+Colonel Mustard's Turn~00~#023
+;00001AE4{Prof. Plum's Turn~00~}#021#018
+Prof. Plum's Turn~00~#018
+;00001AF6{Mr. Green's Turn~00~}#020#017
+Mr. Green's Turn~00~#017
+;00001B07{Mrs. Peacock's Turn~00~}#023#020
+Mrs. Peacock's Turn~00~#020
+;00001B1B{Miss Scarlet's Turn~00~}#023#020
+Miss Scarlet's Turn~00~#020
+;00001B2F{Mrs. White's Turn~00~}#021#018
+Mrs. White's Turn~00~#018
+|116
+@00001B51-00001BCA-00
+;00001B51{Roll~00~}#008#005
+Roll~00~#005
+;00001B56{Take Secret Passage~00~}#023#020
+Take Secret Passage~00~#020
+;00001B6A{to Conservatory~00~}#019#016
+to Conservatory~00~#016
+;00001B7A{to Study~00~}#012#009
+to Study~00~#009
+;00001B83{to Lounge~00~}#013#010
+to Lounge~00~#010
+;00001B8D{to Kitchen~00~}#014#011
+to Kitchen~00~#011
+;00001B98{Interrogation~00~}#017#014
+Interrogation~00~#014
+;00001BA6{Suggestion~00~}#014#011
+Suggestion~00~#011
+;00001BB1{Accusation~00~}#014#011
+Accusation~00~#011
+;00001BBC{End Turn~00~}#012#009
+End Turn~00~#009
+;00001BC5{Cards~00~}#009#006
+Cards~00~#006
+|122
+@00003C7D-00003C86-00
+;00003C7D{NO weapon~00~}#013#010
+NO weapon~00~#010
+|10
+@00004DE9-000050F1-FF
+;00004DE9{~FF~}#004#001
+~FF~#001
+;00004DEA{1992 Waddingtons Games Ltd.~00~~03~~01~~13~under license from Waddingtons~00~~03~~03~~14~Games Ltd., Leeds, England~00~~03~~07~~15~to Parker Brothers~00~~03~~06~~17~Licensed by Nintendo~00~~03~~0A~~19~Developed by~00~~03~~07~~1A~Sculptured Software~00~~FF~}#256#178
+1992 Waddingtons Games Ltd.~00~~03~~01~~13~under license from Waddingtons~00~~03~~03~~14~Games Ltd., Leeds, England~00~~03~~07~~15~to Parker Brothers~00~~03~~06~~17~Licensed by Nintendo~00~~03~~0A~~19~Developed by~00~~03~~07~~1A~Sculptured Software~00~~FF~#178
+;00004E9C{~FF~}#004#001
+~FF~#001
+;00004E9D{~03~~06~~15~Press START to Play~00~~FF~}#039#024
+~03~~06~~15~Press START to Play~00~~FF~#024
+;00004EB5{~FF~}#004#001
+~FF~#001
+;00004EB6{~03~~08~~08~Select Game Level~00~~03~~0C~~0B~Amateur~00~~03~~0C~~0D~Gumshoe~00~~03~~0C~~0F~Sleuth~00~~03~~0C~~11~P.I.~00~~03~~0C~~13~Detective~00~~FF~}#150#075
+~03~~08~~08~Select Game Level~00~~03~~0C~~0B~Amateur~00~~03~~0C~~0D~Gumshoe~00~~03~~0C~~0F~Sleuth~00~~03~~0C~~11~P.I.~00~~03~~0C~~13~Detective~00~~FF~#075
+;00004F01{~FF~}#004#001
+~FF~#001
+;00004F02{~03~~04~~02~Select Number of Players~00~~03~~0C~~04~3 4 5 6~00~~FF~}#067#040
+~03~~04~~02~Select Number of Players~00~~03~~0C~~04~3 4 5 6~00~~FF~#040
+;00004F2A{~FF~}#004#001
+~FF~#001
+;00004F2B{~03~~0C~~03~Player~00~~03~~07~~05~Select a Character~00~~FF~}#060#033
+~03~~0C~~03~Player~00~~03~~07~~05~Select a Character~00~~FF~#033
+;00004F4C{~FF~}#004#001
+~FF~#001
+;00004F4D{~03~~0C~~03~Player~00~~03~~04~~05~Select Human or Computer~00~~03~~05~~13~Human~00~~03~~14~~13~Computer~00~~FF~}#111#060
+~03~~0C~~03~Player~00~~03~~04~~05~Select Human or Computer~00~~03~~05~~13~Human~00~~03~~14~~13~Computer~00~~FF~#060
+;00004F89{~FF~}#004#001
+~FF~#001
+;00004F8A{~03~~0C~~03~Player~00~~03~~0C~~05~All Done?~00~~03~~04~~13~Next Player~00~~03~~15~~13~Backup~00~~FF~}#100#049
+~03~~0C~~03~Player~00~~03~~0C~~05~All Done?~00~~03~~04~~13~Next Player~00~~03~~15~~13~Backup~00~~FF~#049
+;00004FBB{~FF~}#004#001
+~FF~#001
+;00004FBC{~03~~0C~~03~Player~00~~03~~0C~~05~All Done?~00~~03~~04~~13~Start Game~00~~03~~15~~13~Back Up~00~~FF~}#100#049
+~03~~0C~~03~Player~00~~03~~0C~~05~All Done?~00~~03~~04~~13~Start Game~00~~03~~15~~13~Back Up~00~~FF~#049
+;00004FED{~FF~}#004#001
+~FF~#001
+;00004FEE{~01~~04~~18~Press 'A' to see the card.~00~~FF~}#046#031
+~01~~04~~18~Press 'A' to see the card.~00~~FF~#031
+;0000500D{~FF~}#004#001
+~FF~#001
+;0000500E{~01~~05~~1A~Press 'START' to Return.~00~~FF~}#044#029
+~01~~05~~1A~Press 'START' to Return.~00~~FF~#029
+;0000502B{~FF~}#004#001
+~FF~#001
+;0000502C{~03~~11~~0B~Who~00~~03~~11~~0D~did~00~~03~~11~~0F~it?~00~~FF~}#061#022
+~03~~11~~0B~Who~00~~03~~11~~0D~did~00~~03~~11~~0F~it?~00~~FF~#022
+;00005042{~FF~}#004#001
+~FF~#001
+;00005043{~03~~10~~0B~With~00~~03~~10~~0D~what?~00~~FF~}#045#018
+~03~~10~~0B~With~00~~03~~10~~0D~what?~00~~FF~#018
+;00005055{~FF~}#004#001
+~FF~#001
+;00005056{~03~~0C~~1A~Where?~00~~FF~}#026#011
+~03~~0C~~1A~Where?~00~~FF~#011
+;00005061{~FF~}#004#001
+~FF~#001
+;00005062{~03~~06~~08~Are you sure you want~00~~03~~08~~09~to end your turn?~00~~00~~0A~~0B~o Yes~00~~03~~0A~~0D~  No~00~~FF~}#115#064
+~03~~06~~08~Are you sure you want~00~~03~~08~~09~to end your turn?~00~~00~~0A~~0B~o Yes~00~~03~~0A~~0D~  No~00~~FF~#064
+;000050A2{~FF~}#004#001
+~FF~#001
+;000050A3{~03~~06~~08~Are you sure you want~00~~03~~08~~09~to end your turn?~00~~03~~0A~~0B~  Yes~00~~00~~0A~~0D~o No~00~~FF~}#115#064
+~03~~06~~08~Are you sure you want~00~~03~~08~~09~to end your turn?~00~~03~~0A~~0B~  Yes~00~~00~~0A~~0D~o No~00~~FF~#064
+;000050E3{~FF~}#004#001
+~FF~#001
+;000050E4{~03~~0C~~0D~GAME OVER~00~~FF~}#029#014
+~03~~0C~~0D~GAME OVER~00~~FF~#014
+|777
+@00005518-0000567D-00
+;00005518{Col. Mustard~00~}#016#013
+Col. Mustard~00~#013
+;00005525{Prof. Plum~00~}#014#011
+Prof. Plum~00~#011
+;00005530{Mr. Green~00~}#013#010
+Mr. Green~00~#010
+;0000553A{Mrs. Peacock~00~}#016#013
+Mrs. Peacock~00~#013
+;00005547{Miss Scarlet~00~}#016#013
+Miss Scarlet~00~#013
+;00005554{Mrs. White~00~}#014#011
+Mrs. White~00~#011
+;0000555F{No one~00~}#010#007
+No one~00~#007
+;00005566{the Knife~00~}#013#010
+the Knife~00~#010
+;00005570{the Candlestick~00~}#019#016
+the Candlestick~00~#016
+;00005580{the Revolver~00~}#016#013
+the Revolver~00~#013
+;0000558D{the Rope~00~}#012#009
+the Rope~00~#009
+;00005596{the Pipe~00~}#012#009
+the Pipe~00~#009
+;0000559F{the Wrench~00~}#014#011
+the Wrench~00~#011
+;000055AA{a Weapon~00~}#012#009
+a Weapon~00~#009
+;000055B3{The Knife~00~}#013#010
+The Knife~00~#010
+;000055BD{The Candlestick~00~}#019#016
+The Candlestick~00~#016
+;000055CD{The Revolver~00~}#016#013
+The Revolver~00~#013
+;000055DA{The Rope~00~}#012#009
+The Rope~00~#009
+;000055E3{The Pipe~00~}#012#009
+The Pipe~00~#009
+;000055EC{The Wrench~00~}#014#011
+The Wrench~00~#011
+;000055F7{No Weapon~00~}#013#010
+No Weapon~00~#010
+;00005601{the Hall~00~}#012#009
+the Hall~00~#009
+;0000560A{the Lounge~00~}#014#011
+the Lounge~00~#011
+;00005615{the Dining Room~00~}#019#016
+the Dining Room~00~#016
+;00005625{the Kitchen~00~}#015#012
+the Kitchen~00~#012
+;00005631{the Ballroom~00~}#016#013
+the Ballroom~00~#013
+;0000563E{the Conservatory~00~}#020#017
+the Conservatory~00~#017
+;0000564F{the Billiard Room~00~}#021#018
+the Billiard Room~00~#018
+;00005661{the Library~00~}#015#012
+the Library~00~#012
+;0000566D{the Study~00~}#013#010
+the Study~00~#010
+;00005677{He~00~}#006#003
+He~00~#003
+;0000567A{She~00~}#007#004
+She~00~#004
+|358
+@000056F0-00005772-FF
+;000056F0{ was in ~00~ had~00~ was NOT in ~00~ did NOT have~00~~01~ was~00~in ~03~.~00~~FF~}#081#054
+ was in ~00~ had~00~ was NOT in ~00~ did NOT have~00~~01~ was~00~in ~03~.~00~~FF~#054
+;00005726{~01~ was NOT~00~in ~03~.~00~~FF~}#032#017
+~01~ was NOT~00~in ~03~.~00~~FF~#017
+;00005737{~07~ was~00~in ~03~.~00~~FF~}#028#013
+~07~ was~00~in ~03~.~00~~FF~#013
+;00005744{~07~~00~was NOT in ~00~~03~.~00~~FF~}#036#018
+~07~~00~was NOT in ~00~~03~.~00~~FF~#018
+;00005756{~01~ had~00~~02~.~00~~FF~}#025#010
+~01~ had~00~~02~.~00~~FF~#010
+;00005760{~01~ did NOT~00~have ~02~.~00~~FF~}#034#019
+~01~ did NOT~00~have ~02~.~00~~FF~#019
+|131
+@00005796-00005809-FF
+;00005796{Mr. Boddy was found~00~in the Study.~00~~FF~}#044#035
+Mr. Boddy was found~00~in the Study.~00~~FF~#035
+;000057B9{Was Miss Scarlet~00~the key?~00~~FF~}#036#027
+Was Miss Scarlet~00~the key?~00~~FF~#027
+;000057D4{She was seen with~00~the rope.~00~~FF~}#038#029
+She was seen with~00~the rope.~00~~FF~#029
+;000057F1{Would she have~00~used it?~00~~FF~}#034#025
+Would she have~00~used it?~00~~FF~#025
+|116
+@00005842-00005C5C-FF
+;00005842{Seven people had~00~walked into the Hall~00~that day.  But how~00~many of them would~00~be able to walk out?~00~~FF~}#116#098
+Seven people had~00~walked into the Hall~00~that day.  But how~00~many of them would~00~be able to walk out?~00~~FF~#098
+;000058A4{The Lounge was quite~00~warm.  It was cozy~00~enough for a nap--~00~ ~00~a long nap...~00~~FF~}#094#076
+The Lounge was quite~00~warm.  It was cozy~00~enough for a nap--~00~ ~00~a long nap...~00~~FF~#076
+;000058F0{The dishes were set~00~in tidy rows across~00~the Dining Room table.~00~~FF~}#076#064
+The dishes were set~00~in tidy rows across~00~the Dining Room table.~00~~FF~#064
+;00005930{The Kitchen had been~00~cleaned up.~00~Everything had been~00~put away--well, almost~00~everything...~00~~FF~}#109#091
+The Kitchen had been~00~cleaned up.~00~Everything had been~00~put away--well, almost~00~everything...~00~~FF~#091
+;0000598B{The Ballroom was~00~filled with the echoes~00~of parties long since~00~dead...~00~~FF~}#086#071
+The Ballroom was~00~filled with the echoes~00~of parties long since~00~dead...~00~~FF~#071
+;000059D2{The air hung damp~00~and heavy from the~00~lush foliage of~00~the Conservatory.~00~~FF~}#087#072
+The air hung damp~00~and heavy from the~00~lush foliage of~00~the Conservatory.~00~~FF~#072
+;00005A1A{The trophies hung~00~as silent witnesses~00~on the walls of~00~the Billiard Room.~00~~FF~}#089#074
+The trophies hung~00~as silent witnesses~00~on the walls of~00~the Billiard Room.~00~~FF~#074
+;00005A64{Tomes of knowledge~00~spanned the walls of~00~the Library.~00~~FF~}#066#054
+Tomes of knowledge~00~spanned the walls of~00~the Library.~00~~FF~#054
+;00005A9A{The fireplace crackled~00~and the lights danced~00~on the walls of~00~the Study.~00~~FF~}#088#073
+The fireplace crackled~00~and the lights danced~00~on the walls of~00~the Study.~00~~FF~#073
+;00005AE3{~01~~00~carefully cleaned~00~his monocle.~00~~FF~}#049#034
+~01~~00~carefully cleaned~00~his monocle.~00~~FF~#034
+;00005B05{~01~~00~pretended to~00~study his notes.~00~~FF~}#048#033
+~01~~00~pretended to~00~study his notes.~00~~FF~#033
+;00005B26{~01~ waited~00~with anticipation.~00~~FF~}#041#029
+~01~ waited~00~with anticipation.~00~~FF~#029
+;00005B43{~01~~00~fidgeted nervously.~00~~FF~}#035#023
+~01~~00~fidgeted nervously.~00~~FF~#023
+;00005B5A{~01~ laughed~00~as she fixed her~00~make-up and hair.~00~~FF~}#061#046
+~01~ laughed~00~as she fixed her~00~make-up and hair.~00~~FF~#046
+;00005B88{~01~ quietly~00~tidied up ~00~~03~.~00~~FF~}#043#025
+~01~ quietly~00~tidied up ~00~~03~.~00~~FF~#025
+;00005BA1{~04~ suddenly~00~grabbed ~02~.~00~~FF~}#038#023
+~04~ suddenly~00~grabbed ~02~.~00~~FF~#023
+;00005BB8{~04~ found~00~~02~.~00~~FF~}#027#012
+~04~ found~00~~02~.~00~~FF~#012
+;00005BC4{~04~ reached~00~for ~02~.~00~~FF~}#033#018
+~04~ reached~00~for ~02~.~00~~FF~#018
+;00005BD6{~04~ quickly~00~coiled ~02~.~00~~FF~}#036#021
+~04~ quickly~00~coiled ~02~.~00~~FF~#021
+;00005BEB{~04~ picked~00~up ~02~.~00~~FF~}#031#016
+~04~ picked~00~up ~02~.~00~~FF~#016
+;00005BFB{~04~ deftly~00~hefted ~02~.~00~~FF~}#035#020
+~04~ deftly~00~hefted ~02~.~00~~FF~#020
+;00005C0F{~04~ found~00~the situation quite~00~intolerable, so he...~00~~FF~}#066#051
+~04~ found~00~the situation quite~00~intolerable, so he...~00~~FF~#051
+;00005C42{~04~ was so~00~frustrated he...~00~~FF~}#039#027
+~04~ was so~00~frustrated he...~00~~FF~#027
+|1051
+@00005C5D-00006068-FF
+;00005C5D{~04~ was tired~00~of being messed with~00~~FF~}#046#034
+~04~ was tired~00~of being messed with~00~~FF~#034
+;00005C7F{~04~ might have~00~looked harmless, but~00~then she...~00~~FF~}#062#047
+~04~ might have~00~looked harmless, but~00~then she...~00~~FF~#047
+;00005CAE{~04~ had been~00~hurt enough~00~~FF~}#036#024
+~04~ had been~00~hurt enough~00~~FF~#024
+;00005CC6{~04~ wouldn't~00~take it any more~00~~FF~}#041#029
+~04~ wouldn't~00~take it any more~00~~FF~#029
+;00005CE3{and...~00~~FF~}#014#008
+and...~00~~FF~#008
+;00005CEB{~EF~~DC~~16~~DD~There is evidence~00~that you are wrong!~00~~FF~}#064#043
+~EF~~DC~~16~~DD~There is evidence~00~that you are wrong!~00~~FF~#043
+;00005D16{GAME OVER~00~~06~~00~~FF~}#025#013
+GAME OVER~00~~06~~00~~FF~#013
+;00005D23{Logically it could~00~only have been~00~~01~ with~00~~02~~00~in ~03~?~00~~FF~}#077#050
+Logically it could~00~only have been~00~~01~ with~00~~02~~00~in ~03~?~00~~FF~#050
+;00005D55{Egad!  It could~00~only have been me~00~with ~02~~00~in ~03~.~00~~FF~}#069#048
+Egad!  It could~00~only have been me~00~with ~02~~00~in ~03~.~00~~FF~#048
+;00005D85{You don't suppose~00~it could have been~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~}#080#053
+You don't suppose~00~it could have been~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~#053
+;00005DBA{~01~ did it~00~with ~02~~00~in ~03~.~00~~FF~}#044#023
+~01~ did it~00~with ~02~~00~in ~03~.~00~~FF~#023
+;00005DD1{Awright, I did it~00~with ~02~~00~in ~03~.~00~~FF~}#050#032
+Awright, I did it~00~with ~02~~00~in ~03~.~00~~FF~#032
+;00005DF1{I'd give odds it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~}#061#037
+I'd give odds it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~#037
+;00005E16{You may think me mad,~00~but it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~}#076#049
+You may think me mad,~00~but it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~#049
+;00005E47{I must be mad,~00~but it was me~00~with ~02~~00~in ~03~.~00~~FF~}#064#043
+I must be mad,~00~but it was me~00~with ~02~~00~in ~03~.~00~~FF~#043
+;00005E72{In my view, it~00~was ~01~~00~with ~02~~00~in ~03~.~00~~FF~}#059#035
+In my view, it~00~was ~01~~00~with ~02~~00~in ~03~.~00~~FF~#035
+;00005E95{Between you and me,~00~it had to be~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~}#076#049
+Between you and me,~00~it had to be~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~#049
+;00005EC6{Confidentially, it~00~was me with~00~~02~~00~in ~03~.~00~~FF~}#061#040
+Confidentially, it~00~was me with~00~~02~~00~in ~03~.~00~~FF~#040
+;00005EEE{You wanna know what~00~I think?  It was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~}#080#053
+You wanna know what~00~I think?  It was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~#053
+;00005F23{Confess, ~01~,~00~you did it with~00~~02~~00~in ~03~.~00~~FF~}#061#037
+Confess, ~01~,~00~you did it with~00~~02~~00~in ~03~.~00~~FF~#037
+;00005F48{I confess.~00~I did it with~00~~02~~00~in ~03~.~00~~FF~}#055#034
+I confess.~00~I did it with~00~~02~~00~in ~03~.~00~~FF~#034
+;00005F6A{If anybody ever asked~00~me, I'd say it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~}#084#057
+If anybody ever asked~00~me, I'd say it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~#057
+;00005FA3{Of course it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~}#057#033
+Of course it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~#033
+;00005FC4{Not that it's any of~00~your business, but I~00~did it with~00~~02~~00~in ~03~.~00~~FF~}#087#063
+Not that it's any of~00~your business, but I~00~did it with~00~~02~~00~in ~03~.~00~~FF~#063
+;00006003{I haven't any proof,~00~but I think it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~}#083#056
+I haven't any proof,~00~but I think it was~00~~01~ with~00~~02~~00~in ~03~.~00~~FF~#056
+;0000603B{Ha! Victory is mine.~00~I knew it all the~00~time.~00~~FF~}#058#046
+Ha! Victory is mine.~00~I knew it all the~00~time.~00~~FF~#046
+|1036
+@00006069-0000648C-FF
+;00006069{What am I saying?~00~Of course I knew it!~00~Oh no, what have~00~I done?~00~~FF~}#080#065
+What am I saying?~00~Of course I knew it!~00~Oh no, what have~00~I done?~00~~FF~#065
+;000060AA{This must be a~00~mistake.  Somebody~00~call the embassy.~00~I seem to be in a bit~00~of a spot.~00~~FF~}#104#086
+This must be a~00~mistake.  Somebody~00~call the embassy.~00~I seem to be in a bit~00~of a spot.~00~~FF~#086
+;00006100{Egad! I was wrong...~00~~FF~}#028#022
+Egad! I was wrong...~00~~FF~#022
+;00006116{Ya' never shoulda~00~messed with me, kid.~00~~FF~}#049#040
+Ya' never shoulda~00~messed with me, kid.~00~~FF~#040
+;0000613E{I won!  I won!  I'm~00~on my way to prison,~00~but I won!~00~~FF~}#065#053
+I won!  I won!  I'm~00~on my way to prison,~00~but I won!~00~~FF~#053
+;00006173{Hey, what's this?~00~I got friends in high~00~places, buddy.~00~~FF~}#068#056
+Hey, what's this?~00~I got friends in high~00~places, buddy.~00~~FF~#056
+;000061AB{Hey...~00~Put that thing away!~00~~FF~}#038#029
+Hey...~00~Put that thing away!~00~~FF~#029
+;000061C8{Just a simple matter~00~of deduction.  Even a~00~child could have~00~found the solution.~00~~FF~}#096#081
+Just a simple matter~00~of deduction.  Even a~00~child could have~00~found the solution.~00~~FF~#081
+;00006219{What was I thinking?~00~How could I have done~00~such a thing.~00~~FF~}#070#058
+What was I thinking?~00~How could I have done~00~such a thing.~00~~FF~#058
+;00006253{I'm sorry, sorry,~00~sorry...~00~~FF~}#037#028
+I'm sorry, sorry,~00~sorry...~00~~FF~#028
+;0000626F{This is not funny.~00~Now wait a second,~00~WAIT...~00~~FF~}#059#047
+This is not funny.~00~Now wait a second,~00~WAIT...~00~~FF~#047
+;0000629E{Well, well...  I won,~00~I figured it out,~00~I cracked the case.~00~~FF~}#073#061
+Well, well...  I won,~00~I figured it out,~00~I cracked the case.~00~~FF~#061
+;000062DB{So I did it.  Come~00~with me, boys...~00~~FF~}#046#037
+So I did it.  Come~00~with me, boys...~00~~FF~#037
+;00006300{Get your hands off~00~me, you goons.~00~I'll go peacefully.~00~~FF~}#067#055
+Get your hands off~00~me, you goons.~00~I'll go peacefully.~00~~FF~#055
+;00006337{Now, darlin', don't~00~take it personally...~00~OH!~00~~FF~}#059#047
+Now, darlin', don't~00~take it personally...~00~OH!~00~~FF~#047
+;00006366{What a mess.  This is~00~dreadful business for~00~a lady like me.~00~~FF~}#073#061
+What a mess.  This is~00~dreadful business for~00~a lady like me.~00~~FF~#061
+;000063A3{Oh my!  I seem to~00~have cooked my own~00~goose.~00~~FF~}#057#045
+Oh my!  I seem to~00~have cooked my own~00~goose.~00~~FF~#045
+;000063D0{How did you know?~00~I cleaned my trail~00~completely.~00~I'll be back!~00~~FF~}#079#064
+How did you know?~00~I cleaned my trail~00~completely.~00~I'll be back!~00~~FF~#064
+;00006410{My goodness, what are~00~you doing?~00~Oh no...~00~~FF~}#055#043
+My goodness, what are~00~you doing?~00~Oh no...~00~~FF~#043
+;0000643B{Surely you could not~00~have expected anyone~00~lesser to have come~00~to the conclusion.~00~~FF~}#097#082
+Surely you could not~00~have expected anyone~00~lesser to have come~00~to the conclusion.~00~~FF~#082
+|1060
+@0000648D-000065C0-FF
+;0000648D{Oh no, me and my big~00~mouth...  I seem to~00~have done it again.~00~~FF~}#074#062
+Oh no, me and my big~00~mouth...  I seem to~00~have done it again.~00~~FF~#062
+;000064CB{This is too much.~00~My lawyers will be~00~getting in touch with~00~all of you.~00~~FF~}#087#072
+This is too much.~00~My lawyers will be~00~getting in touch with~00~all of you.~00~~FF~#072
+;00006513{Come now, you must be~00~joking.  Now stop~00~that, STOP THAT...~00~~FF~}#072#060
+Come now, you must be~00~joking.  Now stop~00~that, STOP THAT...~00~~FF~#060
+;0000654F{Q~E5~WAIT! I am certain it~00~could not have been~00~~05~.~00~I have proof.~00~~FF~}#083#062
+Q~E5~WAIT! I am certain it~00~could not have been~00~~05~.~00~I have proof.~00~~FF~#062
+;0000658D{~8F~~E5~HMMM....That's~00~an interesting~00~possible scenario.~00~~FF~}#070#052
+~8F~~E5~HMMM....That's~00~an interesting~00~possible scenario.~00~~FF~#052
+|308
+@00006CA5-00006CF8-00
+;00006CA5{Mustard~00~}#011#008
+Mustard~00~#008
+;00006CAD{Plum~00~}#008#005
+Plum~00~#005
+;00006CB2{Green~00~}#009#006
+Green~00~#006
+;00006CB8{Peacock~00~}#011#008
+Peacock~00~#008
+;00006CC0{Scarlet~00~}#011#008
+Scarlet~00~#008
+;00006CC8{White~00~}#009#006
+White~00~#006
+;00006CCE{Knife~00~}#009#006
+Knife~00~#006
+;00006CD4{Cstick~00~}#010#007
+Cstick~00~#007
+;00006CDB{Revolver~00~}#012#009
+Revolver~00~#009
+;00006CE4{Rope~00~}#008#005
+Rope~00~#005
+;00006CE9{LeadPipe~00~}#012#009
+LeadPipe~00~#009
+;00006CF2{Wrench~00~}#010#007
+Wrench~00~#007
+|84
+@00006D0B-00006D57-00
+;00006D0B{Hall~00~}#008#005
+Hall~00~#005
+;00006D10{Lounge~00~}#010#007
+Lounge~00~#007
+;00006D17{Dining Room~00~}#015#012
+Dining Room~00~#012
+;00006D23{Kitchen~00~}#011#008
+Kitchen~00~#008
+;00006D2B{Ballroom~00~}#012#009
+Ballroom~00~#009
+;00006D34{Conservatory~00~}#016#013
+Conservatory~00~#013
+;00006D41{Billiard~00~}#012#009
+Billiard~00~#009
+;00006D4A{Library~00~}#011#008
+Library~00~#008
+;00006D52{Study~00~}#009#006
+Study~00~#006
+|77
+@00007092-0000711E-00
+;00007092{Show MUSTARD's cards~00~}#024#021
+Show MUSTARD's cards~00~#021
+;000070A7{~00~}#004#001
+~00~#001
+;000070A8{~06~~0A~Show  PLUM's   cards~00~}#032#023
+~06~~0A~Show  PLUM's   cards~00~#023
+;000070BF{~00~}#004#001
+~00~#001
+;000070C0{~06~~0C~Show  GREEN's  cards~00~}#032#023
+~06~~0C~Show  GREEN's  cards~00~#023
+;000070D7{~00~}#004#001
+~00~#001
+;000070D8{~06~~0E~Show PEACOCK's cards~00~}#032#023
+~06~~0E~Show PEACOCK's cards~00~#023
+;000070EF{~00~}#004#001
+~00~#001
+;000070F0{~06~~10~Show SCARLET's cards~00~}#032#023
+~06~~10~Show SCARLET's cards~00~#023
+;00007107{~00~}#004#001
+~00~#001
+;00007108{~06~~12~Show  WHITE's  cards~00~}#032#023
+~06~~12~Show  WHITE's  cards~00~#023
+|141
+@000071F6-0000725D-00
+;000071F6{Col. MUSTARD's~00~}#018#015
+Col. MUSTARD's~00~#015
+;00007205{~03~~0B~~13~Prof. PLUM's~00~}#028#016
+~03~~0B~~13~Prof. PLUM's~00~#016
+;00007215{~03~~0B~~13~Mr GREEN's~00~}#026#014
+~03~~0B~~13~Mr GREEN's~00~#014
+;00007223{~03~~0A~~13~Mrs PEACOCK's~00~}#029#017
+~03~~0A~~13~Mrs PEACOCK's~00~#017
+;00007234{~03~~09~~13~Miss SCARLET's~00~}#030#018
+~03~~09~~13~Miss SCARLET's~00~#018
+;00007246{~03~~0B~~13~Mrs WHITE's~00~}#027#015
+~03~~0B~~13~Mrs WHITE's~00~#015
+;00007255{~03~~0D~~15~Cards~00~}#021#009
+~03~~0D~~15~Cards~00~#009
+|104

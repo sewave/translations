@@ -1,0 +1,814 @@
+@001A80BA-001A80D0-00
+;001A80BA{Gold  ~00~}#010#007
+Oro   ~00~#007
+;001A80C1{~00~}#004#001
+~00~#001
+;001A80C2{Silver~00~}#010#007
+Plata ~00~#007
+;001A80C9{~00~}#004#001
+~00~#001
+;001A80CA{Bronze~00~}#010#007
+Bronce~00~#007
+|23
+@001A811C-001A8154-00
+;001A811C{Level Bonus %4d~00~}#019#016
+Bonos Nivel %4d~00~#016
+;001A812C{ x %s   %4d~00~}#015#012
+ x %s   %4d~00~#012
+;001A8138{Total       %04d~00~}#020#017
+Total       %04d~00~#017
+;001A8149{~00~}#004#001
+~00~#001
+;001A814A{%04d~00~}#008#005
+%04d~00~#005
+;001A814F{~00~}#004#001
+~00~#001
+;001A8150{%04d~00~}#008#005
+%04d~00~#005
+|57
+@001A980E-001A991E-00
+;001A980E{Now you're ready to~00~}#023#020
+Listo para jugar al~00~#020
+;001A9822{play the game at a~00~}#022#019
+juego en una mayor~00~#019
+;001A9835{~00~}#004#001
+~00~#001
+;001A9836{higher difficulty to~00~}#024#021
+dificultad con los  ~00~#021
+;001A984B{~00~}#004#001
+~00~#001
+;001A984C{earn all five rings.~00~}#024#021
+cinco anillos.      ~00~#021
+;001A9861{~00~}#004#001
+~00~#001
+;001A9862{Great Game! You only~00~}#024#021
+¡Gran partida! Solo ~00~#021
+;001A9877{~00~}#004#001
+~00~#001
+;001A9878{need to collect the~00~}#023#020
+debes recoger los  ~00~#020
+;001A988C{Sapphire and Ruby~00~}#021#018
+Anillos de Rubí y~00~#018
+;001A989E{rings to reach the~00~}#022#019
+Zafiro para llegar~00~#019
+;001A98B1{~00~}#004#001
+~00~#001
+;001A98B2{Olympic Games.~00~}#018#015
+a los JJ. OO. ~00~#015
+;001A98C1{~00~}#004#001
+~00~#001
+;001A98C2{Superior effort! Now~00~}#024#021
+¡Esfuerzo superior! ~00~#021
+;001A98D7{~00~}#004#001
+~00~#001
+;001A98D8{you only need to~00~}#020#017
+ Solo recoge un ~00~#017
+;001A98E9{~00~}#004#001
+~00~#001
+;001A98EA{collect one more~00~}#020#017
+anillo más para ~00~#017
+;001A98FB{~00~}#004#001
+~00~#001
+;001A98FC{ring to get to the~00~}#022#019
+llegar a los      ~00~#019
+;001A990F{~00~}#004#001
+~00~#001
+;001A9910{Olympic Games.~00~}#018#015
+JJ. OO.       ~00~#015
+|273
+@001A9EEC-001A9EF8-00
+;001A9EEC{%2d continue~00~}#016#013
+%2d continúa~00~#013
+|13
+@001AA83E-001AA8BB-00
+;001AA83E{Having achieved his~00~}#023#020
+Habiendo logrado su~00~#020
+;001AA852{dream, Izzy wishes ~00~}#023#020
+ sueño, Izzy desea ~00~#020
+;001AA866{  luck to all the  ~00~}#023#020
+ suerte a todos los~00~#020
+;001AA87A{     athletes. ~00~}#019#016
+      atletas. ~00~#016
+;001AA88A{               ~00~}#019#016
+               ~00~#016
+;001AA89A{             ~00~}#017#014
+             ~00~#014
+;001AA8A8{                   ~00~}#023#020
+                   ~00~#020
+|126
+@001AA8BC-001AAF4B-00
+;001AA8BC{     Team Izzy     ~00~}#023#020
+    Equipo Izzy    ~00~#020
+;001AA8D0{                   ~00~}#023#020
+                   ~00~#020
+;001AA8E4{               ~00~}#019#016
+               ~00~#016
+;001AA8F4{               ~00~}#019#016
+               ~00~#016
+;001AA904{             ~00~}#017#014
+             ~00~#014
+;001AA912{   Produced for    ~00~}#023#020
+   Producido para  ~00~#020
+;001AA926{     U.S. Gold     ~00~}#023#020
+     U.S. Gold     ~00~#020
+;001AA93A{         by        ~00~}#023#020
+        por        ~00~#020
+;001AA94E{   Brian Schorr~00~}#019#016
+   Brian Schorr~00~#016
+;001AA95E{               ~00~}#019#016
+               ~00~#016
+;001AA96E{             ~00~}#017#014
+             ~00~#014
+;001AA97C{    Produced for   ~00~}#023#020
+   Producido para  ~00~#020
+;001AA990{     Alexandria    ~00~}#023#020
+     Alexandria    ~00~#020
+;001AA9A4{         by        ~00~}#023#020
+        por        ~00~#020
+;001AA9B8{   Neil Balthaser~00~}#021#018
+   Neil Balthaser~00~#018
+;001AA9CA{               ~00~}#019#016
+               ~00~#016
+;001AA9DA{             ~00~}#017#014
+             ~00~#014
+;001AA9E8{                   ~00~}#023#020
+                   ~00~#020
+;001AA9FC{     Alexandria    ~00~}#023#020
+ Productor Asociado~00~#020
+;001AAA10{ Associate Producer~00~}#023#020
+   de Alexandria   ~00~#020
+;001AAA24{    Matt Powers  ~00~}#021#018
+    Matt Powers  ~00~#018
+;001AAA36{               ~00~}#019#016
+               ~00~#016
+;001AAA46{             ~00~}#017#014
+             ~00~#014
+;001AAA54{                   ~00~}#023#020
+                   ~00~#020
+;001AAA68{    Art Director   ~00~}#023#020
+  Director de Arte ~00~#020
+;001AAA7C{   Phillip Trumbo  ~00~}#023#020
+   Phillip Trumbo  ~00~#020
+;001AAA90{               ~00~}#019#016
+               ~00~#016
+;001AAAA0{               ~00~}#019#016
+               ~00~#016
+;001AAAB0{             ~00~}#017#014
+             ~00~#014
+;001AAABE{                   ~00~}#023#020
+                   ~00~#020
+;001AAAD2{    Game Play      ~00~}#023#020
+    Jugabilidad    ~00~#020
+;001AAAE6{   Designed by     ~00~}#023#020
+    Diseñada por   ~00~#020
+;001AAAFA{  Bill Anderson~00~}#019#016
+  Bill Anderson~00~#016
+;001AAB0A{               ~00~}#019#016
+               ~00~#016
+;001AAB1A{             ~00~}#017#014
+             ~00~#014
+;001AAB28{                   ~00~}#023#020
+                   ~00~#020
+;001AAB3C{ Concept Design by ~00~}#023#020
+ Diseño Conceptual ~00~#020
+;001AAB50{   Paul O'Connor   ~00~}#023#020
+   Paul O'Connor   ~00~#020
+;001AAB64{               ~00~}#019#016
+               ~00~#016
+;001AAB74{               ~00~}#019#016
+               ~00~#016
+;001AAB84{             ~00~}#017#014
+             ~00~#014
+;001AAB92{                   ~00~}#023#020
+                   ~00~#020
+;001AABA6{ Music and SFX by  ~00~}#023#020
+Música y Efectos de~00~#020
+;001AABBA{    Orca Games     ~00~}#023#020
+    Orca Games     ~00~#020
+;001AABCE{               ~00~}#019#016
+               ~00~#016
+;001AABDE{               ~00~}#019#016
+               ~00~#016
+;001AABEE{             ~00~}#017#014
+             ~00~#014
+;001AABFC{   Engineering     ~00~}#023#020
+    Ingeniería     ~00~#020
+;001AAC10{   Matt Powers     ~00~}#023#020
+   Matt Powers     ~00~#020
+;001AAC24{   Todd Johnson    ~00~}#023#020
+   Todd Johnson    ~00~#020
+;001AAC38{               ~00~}#019#016
+               ~00~#016
+;001AAC48{               ~00~}#019#016
+               ~00~#016
+;001AAC58{             ~00~}#017#014
+             ~00~#014
+;001AAC66{     Artists       ~00~}#023#020
+     Artistas      ~00~#020
+;001AAC7A{ Gerilyn Wilhelm   ~00~}#023#020
+ Gerilyn Wilhelm   ~00~#020
+;001AAC8E{ Kristine Trumbo   ~00~}#023#020
+ Kristine Trumbo   ~00~#020
+;001AACA2{ Phillip Trumbo~00~}#019#016
+ Phillip Trumbo~00~#016
+;001AACB2{               ~00~}#019#016
+               ~00~#016
+;001AACC2{             ~00~}#017#014
+             ~00~#014
+;001AACD0{     Artists       ~00~}#023#020
+     Artistas      ~00~#020
+;001AACE4{   Rich Neves      ~00~}#023#020
+   Rich Neves      ~00~#020
+;001AACF8{  Scott Rogers     ~00~}#023#020
+  Scott Rogers     ~00~#020
+;001AAD0C{   Klee Miller ~00~}#019#016
+   Klee Miller ~00~#016
+;001AAD1C{               ~00~}#019#016
+               ~00~#016
+;001AAD2C{             ~00~}#017#014
+             ~00~#014
+;001AAD3A{     Artists       ~00~}#023#020
+     Artistas      ~00~#020
+;001AAD4E{Athanassios Vakalis~00~}#023#020
+Athanassios Vakalis~00~#020
+;001AAD62{  Jeff Sturgeon    ~00~}#023#020
+  Jeff Sturgeon    ~00~#020
+;001AAD76{  Anne Pickard ~00~}#019#016
+  Anne Pickard ~00~#016
+;001AAD86{   Jean Nelson ~00~}#019#016
+   Jean Nelson ~00~#016
+;001AAD96{             ~00~}#017#014
+             ~00~#014
+;001AADA4{   Morph Masters   ~00~}#023#020
+ Garantía Calidad  ~00~#020
+;001AADB8{ Quality Assurance ~00~}#023#020
+ Maestros Cambio   ~00~#020
+;001AADCC{   Brian Schorr    ~00~}#023#020
+   Brian Schorr    ~00~#020
+;001AADE0{     Tom Marx  ~00~}#019#016
+     Tom Marx  ~00~#016
+;001AADF0{   Mike Schmitt~00~}#019#016
+   Mike Schmitt~00~#016
+;001AAE00{             ~00~}#017#014
+             ~00~#014
+;001AAE0E{   Morph Masters   ~00~}#023#020
+  Garantía Calidad ~00~#020
+;001AAE22{ Quality Assurance ~00~}#023#020
+  Maestros Cambio  ~00~#020
+;001AAE36{     Frank Hom     ~00~}#023#020
+     Frank Hom     ~00~#020
+;001AAE4A{     Dan Wong  ~00~}#019#016
+     Dan Wong  ~00~#016
+;001AAE5A{    Wallace Lee~00~}#019#016
+    Wallace Lee~00~#016
+;001AAE6A{             ~00~}#017#014
+             ~00~#014
+;001AAE78{ EspecialThanks To ~00~}#023#020
+ Gracias Especiales~00~#020
+;001AAE8C{    Craig Ewert    ~00~}#023#020
+    Craig Ewert    ~00~#020
+;001AAEA0{   Russ Stireman   ~00~}#023#020
+   Russ Stireman   ~00~#020
+;001AAEB4{   Julie Schorr~00~}#019#016
+   Julie Schorr~00~#016
+;001AAEC4{    Film Roman ~00~}#019#016
+    Film Roman ~00~#016
+;001AAED4{             ~00~}#017#014
+             ~00~#014
+;001AAEE2{ EspecialThanks To ~00~}#023#020
+ Gracias Especiales~00~#020
+;001AAEF6{   Robert Botch    ~00~}#023#020
+   Robert Botch    ~00~#020
+;001AAF0A{   US Gold staff   ~00~}#023#020
+   Equipo US Gold  ~00~#020
+;001AAF1E{     Worldwide ~00~}#019#016
+     del Mundo ~00~#016
+;001AAF2E{               ~00~}#019#016
+               ~00~#016
+;001AAF3E{             ~00~}#017#014
+             ~00~#014
+|1680
+@001AB8F8-001AB90C-00
+;001AB8F8{Izzy Elder Challenge~00~}#024#021
+Desafío Anciano Izzy~00~#021
+|21
+@001ABD4A-001ABE0C-00
+;001ABD4A{The ring guardians of the~00~}#029#026
+Guardianes del anillo en ~00~#026
+;001ABD64{Greek village have hidden~00~}#029#026
+la Aldea Griega ocultaron~00~#026
+;001ABD7E{Lava Dome have hidden~00~}#025#022
+el Domo lava taparon ~00~#022
+;001ABD94{bad level number~00~}#020#017
+mal número nivel~00~#017
+;001ABDA5{~00~}#004#001
+~00~#001
+;001ABDA6{their ring to keep Izzy from~00~}#032#029
+su anillo para que Izzy no  ~00~#029
+;001ABDC3{~00~}#004#001
+~00~#001
+;001ABDC4{taking it out of their world~00~}#032#029
+lo sacara de su mundo en su ~00~#029
+;001ABDE1{~00~}#004#001
+~00~#001
+;001ABDE2{on his quest to reach the ~00~}#030#027
+aventura para llegar a los~00~#027
+;001ABDFD{~00~}#004#001
+~00~#001
+;001ABDFE{Olympic Games.~00~}#018#015
+JJ. OO.       ~00~#015
+|195
+@001AC1F8-001AC25A-00
+;001AC1F8{Izzy pursues the ring guardians~00~}#035#032
+Izzy persigue a los guardianes ~00~#032
+;001AC218{in his quest for the~00~}#024#021
+en su búsqueda del  ~00~#021
+;001AC22D{~00~}#004#001
+~00~#001
+;001AC22E{ onyx ring.~00~}#015#012
+anil.ónice.~00~#012
+;001AC23A{ emerald ring.~00~}#018#015
+ani.esmeralda.~00~#015
+;001AC249{~00~}#004#001
+~00~#001
+;001AC24A{bad level number~00~}#020#017
+mal número nivel~00~#017
+|99
+@001AC5AC-001AC648-00
+;001AC5AC{Izzy confronts the ring guardians~00~}#037#034
+Izzy se enfrenta a los guardianes~00~#034
+;001AC5CE{in the final battle for the~00~}#031#028
+en la batalla final por el ~00~#028
+;001AC5EA{onyx ring.~00~}#014#011
+an. ónice.~00~#011
+;001AC5F5{~00~}#004#001
+~00~#001
+;001AC5F6{in the final battle for the~00~}#031#028
+en la batalla final por el ~00~#028
+;001AC612{emerald ring.~00~}#017#014
+an.esmeralda.~00~#014
+;001AC620{of the exit to Atlanta.~00~}#027#024
+de la salida a Atlanta.~00~#024
+;001AC638{bad level number~00~}#020#017
+mal número nivel~00~#017
+|157
+@001AC9FC-001ACA6A-00
+;001AC9FC{ Congratulations! You~00~}#025#022
+ ¡Felicidades! Te has~00~#022
+;001ACA12{have finished the game~00~}#026#023
+terminado el juego con~00~#023
+;001ACA29{~00~}#004#001
+~00~#001
+;001ACA2A{ with all five rings,~00~}#025#022
+  los cinco anillos, ~00~#022
+;001ACA40{ unlocking the way to~00~}#025#022
+abriendo el camino al~00~#022
+;001ACA56{   the final vortex.~00~}#024#021
+   vórtice final.   ~00~#021
+|111
+@001AE148-001AE27C-00
+;001AE148{No Damage~00~}#013#010
+Sin Herir~00~#010
+;001AE152{123~00~}#007#004
+123~00~#004
+;001AE156{How to play Izzy~00~}#020#017
+  Jugar a Izzy  ~00~#017
+;001AE167{~00~}#004#001
+~00~#001
+;001AE168{Hurdle jump goes farther~00~}#028#025
+Salto valla llega lejos ~00~#025
+;001AE181{~00~}#004#001
+~00~#001
+;001AE182{But Izzy takes damage~00~}#025#022
+Pero Izzy es herido  ~00~#022
+;001AE198{Dizzy Izzy can lose a life now~00~}#034#031
+Izzy mareado puede perder vida~00~#031
+;001AE1B7{~00~}#004#001
+~00~#001
+;001AE1B8{000~00~}#007#004
+000~00~#004
+;001AE1BC{                        ~00~}#028#025
+                        ~00~#025
+;001AE1D5{~00~}#004#001
+~00~#001
+;001AE1D6{                     ~00~}#025#022
+                     ~00~#022
+;001AE1EC{Collect 3 medals to heal Izzy~00~}#033#030
+Cura a Izzy con 3 medallas   ~00~#030
+;001AE20A{           No Damage          ~00~}#034#031
+           Sin Herir          ~00~#031
+;001AE229{~00~}#004#001
+~00~#001
+;001AE22A{                             ~00~}#033#030
+                             ~00~#030
+;001AE248{Spin attack eliminates       ~00~}#033#030
+El ataque giro elimina a     ~00~#030
+;001AE266{enemies without damage~00~}#026#023
+enemigos sin herirte  ~00~#023
+|309
+@001AED98-001AF0BF-00
+;001AED98{U.S. Gold~00~}#013#010
+U.S. Gold~00~#010
+;001AEDA2{None~00~}#008#005
+Nada~00~#005
+;001AEDA7{~00~}#004#001
+~00~#001
+;001AEDA8{~0A~    Select initial level below~00~}#038#032
+~0A~    Elige nivel inicial abajo ~00~#032
+;001AEDC8{~00~}#004#001
+~00~#001
+;001AEDC9{~01~~00~}#008#002
+~01~~00~#002
+;001AEDCB{~00~}#004#001
+~00~#001
+;001AEDCC{~00~}#004#001
+~00~#001
+;001AEDCD{~00~}#004#001
+~00~#001
+;001AEDCE{Jan 27 1995 09:54:27~00~}#024#021
+27 Ene 1995 09:54:27~00~#021
+;001AEDE3{~00~}#004#001
+~00~#001
+;001AEDE4{    Alexandria, Inc.~0A~~00~}#028#022
+    Alexandria, Inc.~0A~~00~#022
+;001AEDFA{    %s~0A~    Version 1.0.5~0A~~00~}#035#026
+    %s~0A~    Versión 1.0.5~0A~~00~#026
+;001AEE14{    Submitted to: %s~0A~~00~}#028#022
+    Enviado a: %s   ~0A~~00~#022
+;001AEE2A{    Date: %s~0A~~00~}#020#014
+    Fecha:%s~0A~~00~#014
+;001AEE38{    Milestone ~23~10.5~0A~~0A~~00~}#034#022
+    Hito Núm. 10.5 ~0A~~0A~~00~#022
+;001AEE4E{    Title sequence      Final        ~0A~~00~}#045#039
+    Secuencia Título    Final        ~0A~~00~#039
+;001AEE75{~00~}#004#001
+~00~#001
+;001AEE76{    Earth      1        Final        ~0A~~00~}#045#039
+    Tierra     1        Final        ~0A~~00~#039
+;001AEE9D{~00~}#004#001
+~00~#001
+;001AEE9E{    Especial   2.1      Final        ~0A~~00~}#045#039
+    Especial   2.1      Final        ~0A~~00~#039
+;001AEEC5{~00~}#004#001
+~00~#001
+;001AEEC6{    Earth      2        Final        ~0A~~00~}#045#039
+    Tierra     2        Final        ~0A~~00~#039
+;001AEEED{~00~}#004#001
+~00~#001
+;001AEEEE{    Especial   1.1      Final        ~0A~~00~}#045#039
+    Especial   1.1      Final        ~0A~~00~#039
+;001AEF15{~00~}#004#001
+~00~#001
+;001AEF16{    Earth      3        Final        ~0A~~00~}#045#039
+    Tierra     3        Final        ~0A~~00~#039
+;001AEF3D{~00~}#004#001
+~00~#001
+;001AEF3E{    Especial   2.2      Final        ~0A~~00~}#045#039
+    Especial   2.2      Final        ~0A~~00~#039
+;001AEF65{~00~}#004#001
+~00~#001
+;001AEF66{    Fuego      1        Final        ~0A~~00~}#045#039
+    Fuego      1        Final        ~0A~~00~#039
+;001AEF8D{~00~}#004#001
+~00~#001
+;001AEF8E{    Especial   1.2      Final        ~0A~~00~}#045#039
+    Especial   1.2      Final        ~0A~~00~#039
+;001AEFB5{~00~}#004#001
+~00~#001
+;001AEFB6{    Fuego      2        Final        ~0A~~00~}#045#039
+    Fuego      2        Final        ~0A~~00~#039
+;001AEFDD{~00~}#004#001
+~00~#001
+;001AEFDE{    Especial   2.3      Final        ~0A~~00~}#045#039
+    Especial   2.3      Final        ~0A~~00~#039
+;001AF005{~00~}#004#001
+~00~#001
+;001AF006{    Fuego      3        Final        ~0A~~00~}#045#039
+    Fuego      3        Final        ~0A~~00~#039
+;001AF02D{~00~}#004#001
+~00~#001
+;001AF02E{    Especial   1.3      Final        ~0A~~00~}#045#039
+    Especial   1.3      Final        ~0A~~00~#039
+;001AF055{~00~}#004#001
+~00~#001
+;001AF056{    Magic      1        Final        ~0A~~00~}#045#039
+    Magia      1        Final        ~0A~~00~#039
+;001AF07D{~00~}#004#001
+~00~#001
+;001AF07E{    Magic      2        Final        ~0A~~00~}#045#039
+    Magia      2        Final        ~0A~~00~#039
+;001AF0A5{~00~}#004#001
+~00~#001
+;001AF0A6{             Press Start~0A~~00~}#032#026
+             Pulsa Start~0A~~00~#026
+|808
+@001AF34E-001AF358-00
+;001AF34E{Controller~00~}#014#011
+Controles ~00~#011
+|11
+@001AF366-001AF3A1-00
+;001AF366{practice (no bonus)~00~}#023#020
+práctica (sin bono)~00~#020
+;001AF37A{normal             ~00~}#023#020
+normal             ~00~#020
+;001AF38E{difficult          ~00~}#023#020
+difícil            ~00~#020
+|60
+@001AF3AA-001AF3BD-00
+;001AF3AA{music off~00~}#013#010
+música no~00~#010
+;001AF3B4{music on ~00~}#013#010
+música sí~00~#010
+|20
+@001AF3C6-001AF3E0-00
+;001AF3C6{sound FX off~00~}#016#013
+efectos no  ~00~#013
+;001AF3D3{~00~}#004#001
+~00~#001
+;001AF3D4{sound FX on ~00~}#016#013
+efectos sí  ~00~#013
+|27
+@001AF3E6-001AF3F0-00
+;001AF3E6{Sound test~00~}#014#011
+Test audio~00~#011
+|11
+@001AF3F6-001AF3FF-00
+;001AF3F6{Izzy test~00~}#013#010
+Test Izzy~00~#010
+|10
+@001AF404-001AF408-00
+;001AF404{Exit~00~}#008#005
+Sa{li}r~00~#005
+|5
+@001AF442-001AF505-00
+;001AF442{Earth Act 1  ~00~}#017#014
+Tierra Acto 1~00~#014
+;001AF450{EspecialAct 2~00~}#017#014
+Especial Ac.2~00~#014
+;001AF45E{Earth Act 2  ~00~}#017#014
+Tierra Acto 2~00~#014
+;001AF46C{EspecialAct 1~00~}#017#014
+Especial Ac.1~00~#014
+;001AF47A{Earth Act 3  ~00~}#017#014
+Tierra Acto 3~00~#014
+;001AF488{EspecialAct 2~00~}#017#014
+Especial Ac.2~00~#014
+;001AF496{FuegoAct 1   ~00~}#017#014
+Fuego Acto 1 ~00~#014
+;001AF4A4{EspecialAct 1~00~}#017#014
+Especial Ac.1~00~#014
+;001AF4B2{FuegoAct 2   ~00~}#017#014
+Fuego Acto 2 ~00~#014
+;001AF4C0{EspecialAct 2~00~}#017#014
+Especial Ac.2~00~#014
+;001AF4CE{FuegoAct 3   ~00~}#017#014
+Fuego Acto 3 ~00~#014
+;001AF4DC{EspecialAct 1~00~}#017#014
+Especial Ac.1~00~#014
+;001AF4EA{Magic Act 1  ~00~}#017#014
+Magia Acto 1 ~00~#014
+;001AF4F8{Magic Act 2  ~00~}#017#014
+Magia Acto 2 ~00~#014
+|196
+@001AFCC0-001B008B-00
+;001AFCC0{Lava Dome        ~00~}#021#018
+Lava Dome        ~00~#018
+;001AFCD2{Exit to Atlanta  ~00~}#021#018
+Exit to Atlanta  ~00~#018
+;001AFCE4{Greek Village    ~00~}#021#018
+Greek Village    ~00~#018
+;001AFCF6{Space Walk       ~00~}#021#018
+Space Walk       ~00~#018
+;001AFD08{Rocket Ride      ~00~}#021#018
+Rocket Ride      ~00~#018
+;001AFD1A{Closing Theme    ~00~}#021#018
+Closing Theme    ~00~#018
+;001AFD2C{Invulnerability  ~00~}#021#018
+Invulnerability  ~00~#018
+;001AFD3E{End of World     ~00~}#021#018
+End of World     ~00~#018
+;001AFD50{Bronze Medal     ~00~}#021#018
+Bronze Medal     ~00~#018
+;001AFD62{Silver Medal     ~00~}#021#018
+Silver Medal     ~00~#018
+;001AFD74{Gold Medal       ~00~}#021#018
+Gold Medal       ~00~#018
+;001AFD86{Hit Enemy        ~00~}#021#018
+Hit Enemy        ~00~#018
+;001AFD98{Slide Pole       ~00~}#021#018
+Slide Pole       ~00~#018
+;001AFDAA{Teeter on Edge   ~00~}#021#018
+Teeter on Edge   ~00~#018
+;001AFDBC{Izzy Hurt        ~00~}#021#018
+Izzy Hurt        ~00~#018
+;001AFDCE{Restart Point    ~00~}#021#018
+Restart Point    ~00~#018
+;001AFDE0{Land on Ground   ~00~}#021#018
+Land on Ground   ~00~#018
+;001AFDF2{Powerup          ~00~}#021#018
+Powerup          ~00~#018
+;001AFE04{Jump             ~00~}#021#018
+Jump             ~00~#018
+;001AFE16{Skateboard       ~00~}#021#018
+Skateboard       ~00~#018
+;001AFE28{FuegoBow         ~00~}#021#018
+FuegoBow         ~00~#018
+;001AFE3A{Javelin          ~00~}#021#018
+Javelin          ~00~#018
+;001AFE4C{Sword Swipe      ~00~}#021#018
+Sword Swipe      ~00~#018
+;001AFE5E{Baseball Hit     ~00~}#021#018
+Baseball Hit     ~00~#018
+;001AFE70{Morph Start      ~00~}#021#018
+Morph Start      ~00~#018
+;001AFE82{Morph End        ~00~}#021#018
+Morph End        ~00~#018
+;001AFE94{Continue         ~00~}#021#018
+Continue         ~00~#018
+;001AFEA6{Tantrum          ~00~}#021#018
+Tantrum          ~00~#018
+;001AFEB8{Secret Room      ~00~}#021#018
+Secret Room      ~00~#018
+;001AFECA{FuegoJet         ~00~}#021#018
+FuegoJet         ~00~#018
+;001AFEDC{Hammer           ~00~}#021#018
+Hammer           ~00~#018
+;001AFEEE{Smart Bomb       ~00~}#021#018
+Smart Bomb       ~00~#018
+;001AFF00{Spring Board     ~00~}#021#018
+Spring Board     ~00~#018
+;001AFF12{Lava Bubbles     ~00~}#021#018
+Lava Bubbles     ~00~#018
+;001AFF24{Hang Glider      ~00~}#021#018
+Hang Glider      ~00~#018
+;001AFF36{Pointer Move     ~00~}#021#018
+Pointer Move     ~00~#018
+;001AFF48{Pointer Select   ~00~}#021#018
+Pointer Select   ~00~#018
+;001AFF5A{Light Torch      ~00~}#021#018
+Light Torch      ~00~#018
+;001AFF6C{Rocket           ~00~}#021#018
+Rocket           ~00~#018
+;001AFF7E{Rocket Hit       ~00~}#021#018
+Rocket Hit       ~00~#018
+;001AFF90{Rocket Thrust    ~00~}#021#018
+Rocket Thrust    ~00~#018
+;001AFFA2{One Up           ~00~}#021#018
+One Up           ~00~#018
+;001AFFB4{Pick Up Fuel     ~00~}#021#018
+Pick Up Fuel     ~00~#018
+;001AFFC6{Easter Egg Appear~00~}#021#018
+Easter Egg Appear~00~#018
+;001AFFD8{Easter Egg Open  ~00~}#021#018
+Easter Egg Open  ~00~#018
+;001AFFEA{Izzy Flatten     ~00~}#021#018
+Izzy Flatten     ~00~#018
+;001AFFFC{Roll             ~00~}#021#018
+Roll             ~00~#018
+;001B000E{Izzy Poof        ~00~}#021#018
+Izzy Poof        ~00~#018
+;001B0020{Torch Bonus      ~00~}#021#018
+Torch Bonus      ~00~#018
+;001B0032{Warp             ~00~}#021#018
+Warp             ~00~#018
+;001B0044{Smart Bomb       ~00~}#021#018
+Smart Bomb       ~00~#018
+;001B0056{Medal Doubler    ~00~}#021#018
+Medal Doubler    ~00~#018
+;001B0068{                 ~00~}#021#018
+                 ~00~#018
+;001B007A{                 ~00~}#021#018
+                 ~00~#018
+|972
+@001B00A8-001B00DC-00
+;001B00A8{A starts sound~00~}#018#015
+A inicia audio~00~#015
+;001B00B7{~00~}#004#001
+~00~#001
+;001B00B8{B stops sound~00~}#017#014
+B para audio ~00~#014
+;001B00C6{Press start to return.~00~}#026#023
+ Start para regresar. ~00~#023
+|53
+@001B040A-001B051D-00
+;001B040A{ Obstáculo ~0A~~0A~     Salto Giro~0A~~0A~     Salto Giro~00~}#061#046
+ Obstáculo ~0A~~0A~     Salto Giro~0A~~0A~     Salto Giro~00~#046
+;001B0438{ Salto Giro~0A~~0A~     Obstáculo ~0A~~0A~     Salto Giro~00~}#061#046
+ Salto Giro~0A~~0A~     Obstáculo ~0A~~0A~     Salto Giro~00~#046
+;001B0466{ Obstáculo ~0A~~0A~     Salto Giro~0A~~0A~     Salto Giro~00~}#061#046
+ Obstáculo ~0A~~0A~     Salto Giro~0A~~0A~     Salto Giro~00~#046
+;001B0494{ Salto Giro~0A~~0A~     Obstáculo ~0A~~0A~     Salto Giro~00~}#061#046
+ Salto Giro~0A~~0A~     Obstáculo ~0A~~0A~     Salto Giro~00~#046
+;001B04C2{ Salto Giro~0A~~0A~     Salto Giro~0A~~0A~     Obstáculo ~00~}#061#046
+ Salto Giro~0A~~0A~     Salto Giro~0A~~0A~     Obstáculo ~00~#046
+;001B04F0{ Salto Giro~0A~~0A~     Salto Giro~0A~~0A~     Obstáculo ~00~}#061#046
+ Salto Giro~0A~~0A~     Salto Giro~0A~~0A~     Obstáculo ~00~#046
+|276
+@001B07B2-001B0A02-00
+;001B07B2{                    ~00~}#024#021
+                    ~00~#021
+;001B07C7{~00~}#004#001
+~00~#001
+;001B07C8{Ring Toss           ~00~}#024#021
+Lanzar Anillo       ~00~#021
+;001B07DD{~00~}#004#001
+~00~#001
+;001B07DE{Ring Spin           ~00~}#024#021
+Giro de Anillo      ~00~#021
+;001B07F3{~00~}#004#001
+~00~#001
+;001B07F4{Walk                ~00~}#024#021
+Caminar             ~00~#021
+;001B0809{~00~}#004#001
+~00~#001
+;001B080A{Run                 ~00~}#024#021
+Correr              ~00~#021
+;001B081F{~00~}#004#001
+~00~#001
+;001B0820{Vertical Jump       ~00~}#024#021
+Salto Vertical      ~00~#021
+;001B0835{~00~}#004#001
+~00~#001
+;001B0836{Hurdle              ~00~}#024#021
+Obstáculo           ~00~#021
+;001B084B{~00~}#004#001
+~00~#001
+;001B084C{Ball Spin           ~00~}#024#021
+Giro de Bola        ~00~#021
+;001B0861{~00~}#004#001
+~00~#001
+;001B0862{Climb Up            ~00~}#024#021
+Escalar             ~00~#021
+;001B0877{~00~}#004#001
+~00~#001
+;001B0878{Climb Still         ~00~}#024#021
+Parado Escalando    ~00~#021
+;001B088D{~00~}#004#001
+~00~#001
+;001B088E{Cartwheel           ~00~}#024#021
+Rueda               ~00~#021
+;001B08A3{~00~}#004#001
+~00~#001
+;001B08A4{Teeter              ~00~}#024#021
+Balancearse         ~00~#021
+;001B08B9{~00~}#004#001
+~00~#001
+;001B08BA{Push Wall           ~00~}#024#021
+Empujar Muro        ~00~#021
+;001B08CF{~00~}#004#001
+~00~#001
+;001B08D0{Generic Morph       ~00~}#024#021
+Transformación      ~00~#021
+;001B08E5{~00~}#004#001
+~00~#001
+;001B08E6{Javelin Fly         ~00~}#024#021
+Vuelo Jabalina      ~00~#021
+;001B08FB{~00~}#004#001
+~00~#001
+;001B08FC{Archery Walk        ~00~}#024#021
+Caminar con Arco    ~00~#021
+;001B0911{~00~}#004#001
+~00~#001
+;001B0912{Hammer Helicopter   ~00~}#024#021
+Maza Helicóptero    ~00~#021
+;001B0927{~00~}#004#001
+~00~#001
+;001B0928{Baseball Walk       ~00~}#024#021
+Caminar Béisbol     ~00~#021
+;001B093D{~00~}#004#001
+~00~#001
+;001B093E{Baseball Swing      ~00~}#024#021
+Golpear Béisbol     ~00~#021
+;001B0953{~00~}#004#001
+~00~#001
+;001B0954{Fencing Walk        ~00~}#024#021
+Caminar Esgrima     ~00~#021
+;001B0969{~00~}#004#001
+~00~#001
+;001B096A{Fencing Swing       ~00~}#024#021
+Golpear Esgrima     ~00~#021
+;001B097F{~00~}#004#001
+~00~#001
+;001B0980{Skateboard          ~00~}#024#021
+Monopatín           ~00~#021
+;001B0995{~00~}#004#001
+~00~#001
+;001B0996{Hang Glide          ~00~}#024#021
+Ala Delta           ~00~#021
+;001B09AB{~00~}#004#001
+~00~#001
+;001B09AC{Dive                ~00~}#024#021
+Bucear              ~00~#021
+;001B09C1{~00~}#004#001
+~00~#001
+;001B09C2{                    ~00~}#024#021
+                    ~00~#021
+;001B09D7{~00~}#004#001
+~00~#001
+;001B09D8{A starts animation~00~}#022#019
+A inicia animación~00~#019
+;001B09EB{~00~}#004#001
+~00~#001
+;001B09EC{Press start to return.~00~}#026#023
+ Start para regresar. ~00~#023
+|593

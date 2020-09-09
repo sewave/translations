@@ -1,0 +1,66 @@
+@00004E22-00004E3E-00
+;00004E22{WIZARD~00~}#010#007
+MAGO  ~00~#007
+;00004E29{ORBIT~00~}#009#006
+ORBIT~00~#006
+;00004E2F{~00~}#004#001
+~00~#001
+;00004E30{VERNS~00~}#009#006
+VERN ~00~#006
+;00004E36{~00~}#004#001
+~00~#001
+;00004E37{MONSTER~00~}#011#008
+MONSTR.~00~#008
+|29
+@000084B4-00008563-FF
+;000084B4{        [\ COPYRIGHT        =THE SOFTWARE TOOLWORKS, INC.=        1989, 1990          ==    ALL RIGHTS RESERVED.    ==        LICENSED BY         =  NINTENDO OF AMERICA, INC. ~FF~}#179#176
+        [\ COPYRIGHT        =
+THE SOFTWARE TOOLWORKS, INC.=
+        1989, 1990          ==
+    DERECHOS RESERVADOS.    ==
+       LICENCIADO POR       =
+  NINTENDO DE AMÉRICA, INC. ~FF~#176
+|176
+@00008576-000088B1-FF
+;00008576{        ORB-3D        =                      =   CONGRATULATIONS!   =  KROHN IS DEFEATED!  ~FF~}#095#092
+        ORB-3D        =                      =
+    ¡FELICIDADES!     =
+ ¡KROHN FUE VENCIDO!  ~FF~#092
+;000085D2{                      =  EXECUTIVE PRODUCER  =     JOHN KRAUSE      =                      ~FF~}#095#092
+                      =
+ PRODUCTOR EJECUTIVO  =     JOHN KRAUSE      =                      ~FF~#092
+;0000862E{                      =      PRODUCERS       =   HENRIK MARKARIAN   =     PETER STONE      ~FF~}#095#092
+                      =
+     PRODUCTORES      =   HENRIK MARKARIAN   =     PETER STONE      ~FF~#092
+;0000868A{                      =   ORIGINAL SCRIPT    =     JOHN KRAUSE      =   DAVE GRENEWETZKI   ~FF~}#095#092
+                      =
+    GUIÓN ORIGINAL    =     JOHN KRAUSE      =   DAVE GRENEWETZKI   ~FF~#092
+;000086E6{    NES ADAPTATION    =     JOHN KRAUSE      =    BILLY PIDGEON     =   HENRIK MARKARIAN   ~FF~}#095#092
+ ADAPTACIÓN A LA NES  =     JOHN KRAUSE      =    BILLY PIDGEON     =   HENRIK MARKARIAN   ~FF~#092
+;00008742{                      =    NES ADAPTATION    =     BARRY KAPLAN     =    SUBWAY SOFTWARE   ~FF~}#095#092
+                      = ADAPTACIÓN A LA NES  =     BARRY KAPLAN     =    SUBWAY SOFTWARE   ~FF~#092
+;0000879E{                      =    ORIGINAL SCORE    =     PETER STONE      =                      ~FF~}#095#092
+                      = COMPOSICIÓN ORIGINAL =     PETER STONE      =                      ~FF~#092
+;000087FA{                      =     ART DIRECTOR     =     BETSY SCAFATI    =                      ~FF~}#095#092
+                      =   DIRECTOR DE ARTE   =     BETSY SCAFATI    =                      ~FF~#092
+;00008856{        STUNTS        =      JOE VAZQUEZ     =      ELON COHEN      =    BILLY SOUTHARD    ~FF~}#095#092
+    ESPECIALISTAS     =      JOE VAZQUEZ     =      ELON COHEN      =    BILLY SOUTHARD    ~FF~#092
+|828
+@0000E8D5-0000E950-00
+;0000E8D5{TO VERN'S... ~00~}#017#014
+HACIA VERN...~00~#014
+;0000E8E3{TO THE HOLE...   ~00~}#021#018
+AL AGUJERO...    ~00~#018
+;0000E8F5{FUEL LOW     ~00~}#017#014
+POCO COMBUST.~00~#014
+;0000E903{FUEL CRITICAL~00~}#017#014
+COMBU.CRITICO~00~#014
+;0000E911{OVER CREDIT LIMIT~00~}#021#018
+SUPERA LIM.CREDIT~00~#018
+;0000E923{OUT OF FUEL! ~00~}#017#014
+SIN COMBUST.!~00~#014
+;0000E931{PAUSE        ~00~}#017#014
+PAUSA        ~00~#014
+;0000E93F{                 ~00~}#021#018
+                 ~00~#018
+|124

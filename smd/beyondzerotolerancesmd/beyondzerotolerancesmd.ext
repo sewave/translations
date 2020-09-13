@@ -1,0 +1,1186 @@
+@0000044F-000004B7-00
+;0000044F{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DEVELOPED FOR USE ONLY WITH~00~#028
+;0000046B{~12~&~00~}#009#003
+~12~&~00~#003
+;0000046E{~0F~SYSTEMS.~00~}#016#010
+~0F~SYSTEMS.~00~#010
+;00000478{~0C~NTSC MEGA DRIVE~00~}#023#017
+~0C~NTSC MEGA DRIVE~00~#017
+;00000489{~0D~NTSC GENESIS~00~}#020#014
+~0D~NTSC GENESIS~00~#014
+;00000497{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~PAL AND FRENCH SECAM MEGA DRIVE~00~#033
+|105
+@00001B62-00001B7D-00
+;00001B62{Waiting for other player...~00~}#031#028
+Waiting for other player...~00~#028
+|28
+@000037D6-00003B37-00
+;000037D6{Number of secrets  :~00~}#024#021
+Number of secrets  :~00~#021
+;000037EB{Number of kills    :~00~}#024#021
+Number of kills    :~00~#021
+;00003800{Hit ratio          :~00~}#024#021
+Hit ratio          :~00~#021
+;00003815{Time used          :~00~}#024#021
+Time used          :~00~#021
+;0000382A{Shots fired        :~00~}#024#021
+Shots fired        :~00~#021
+;0000383F{Medi-packs used    :~00~}#024#021
+Medi-packs used    :~00~#021
+;00003854{SNIPER~00~}#010#007
+SNIPER~00~#007
+;0000385B{ OF ~00~}#008#005
+ OF ~00~#005
+;00003860{NONE~00~}#008#005
+NONE~00~#005
+;00003865{ALL            ~00~}#019#016
+ALL            ~00~#016
+;00003875{.~00~}#005#002
+.~00~#002
+;00003877{  OBSERVATION        PRISON          ARMORY      ENGINEERING 1   ENGINEERING 2   ENGINEERING 3   ENGINEERING 4    GREENHOUSE 1    GREENHOUSE 2    GREENHOUSE 3      BRIDGE 2       REACTOR 1       REACTOR 2       REACTOR 2       REACTOR 2       REACTOR 2        ROOF TOP        FLOOR 164       FLOOR 163       FLOOR 162       FLOOR 161       FLOOR 160       FLOOR 159       FLOOR 158       FLOOR 157       FLOOR 156       FLOOR 155       FLOOR 154       FLOOR 153       FLOOR 152       FLOOR 151       FLOOR 150      BASEMENT 1      BASEMENT 2      BASEMENT 3      BASEMENT 4      BASEMENT 5      BASEMENT 6      BASEMENT 7      BASEMENT 8      BASEMENT 9      BASEMENT 10     BASEMENT 11     BASEMENT 12  ~00~}#708#705
+  OBSERVATION        PRISON          ARMORY      ENGINEERING 1   ENGINEERING 2   ENGINEERING 3   ENGINEERING 4    GREENHOUSE 1    GREENHOUSE 2    GREENHOUSE 3      BRIDGE 2       REACTOR 1       REACTOR 2       REACTOR 2       REACTOR 2       REACTOR 2        ROOF TOP        FLOOR 164       FLOOR 163       FLOOR 162       FLOOR 161       FLOOR 160       FLOOR 159       FLOOR 158       FLOOR 157       FLOOR 156       FLOOR 155       FLOOR 154       FLOOR 153       FLOOR 152       FLOOR 151       FLOOR 150      BASEMENT 1      BASEMENT 2      BASEMENT 3      BASEMENT 4      BASEMENT 5      BASEMENT 6      BASEMENT 7      BASEMENT 8      BASEMENT 9      BASEMENT 10     BASEMENT 11     BASEMENT 12  ~00~#705
+|866
+@0000AE76-0000AE9A-00
+;0000AE76{Stepping onefloor down. ------------~00~}#040#037
+Stepping onefloor down. ------------~00~#037
+|37
+@00011712-00011736-00
+;00011712{Medipack    collected...------------~00~}#040#037
+Medipack    collected...------------~00~#037
+|37
+@0001B08C-0001B0B0-00
+;0001B08C{MINE     COLLECTED                  ~00~}#040#037
+MINE     COLLECTED                  ~00~#037
+|37
+@0001B0BA-0001B0DE-00
+;0001B0BA{BULLET   PROOF    VEST     COLLECTED~00~}#040#037
+BULLET   PROOF    VEST     COLLECTED~00~#037
+|37
+@0001B0E8-0001B10C-00
+;0001B0E8{FIRE     EXTIN-   GUISHER  COLLECTED~00~}#040#037
+FIRE     EXTIN-   GUISHER  COLLECTED~00~#037
+|37
+@0001B116-0001B13A-00
+;0001B116{FIRE     PROOF    SUIT     COLLECTED~00~}#040#037
+FIRE     PROOF    SUIT     COLLECTED~00~#037
+|37
+@0001B144-0001B168-00
+;0001B144{FLASH    LIGHT    COLLECTED         ~00~}#040#037
+FLASH    LIGHT    COLLECTED         ~00~#037
+|37
+@0001B172-0001B196-00
+;0001B172{HAND     GRENADE  COLLECTED         ~00~}#040#037
+HAND     GRENADE  COLLECTED         ~00~#037
+|37
+@0001B1A4-0001B1CC-00
+;0001B1A4{HANDGUN  COLLECTED                  ~00~}#040#037
+HANDGUN  COLLECTED                  ~00~#037
+;0001B1C9{~0F~~00~}#008#002
+~0F~~00~#002
+;0001B1CB{Z~00~}#005#002
+Z~00~#002
+|41
+@0001B1D6-0001B1FA-00
+;0001B1D6{NIGHT    VISION   COLLECTED         ~00~}#040#037
+NIGHT    VISION   COLLECTED         ~00~#037
+|37
+@0001B204-0001B228-00
+;0001B204{LASER    AIMED GUNCOLLECTED         ~00~}#040#037
+LASER    AIMED GUNCOLLECTED         ~00~#037
+|37
+@0001B236-0001B25A-00
+;0001B236{ROCKET   LAUNCHER COLLECTED         ~00~}#040#037
+ROCKET   LAUNCHER COLLECTED         ~00~#037
+|37
+@0001B268-0001B28C-00
+;0001B268{SHOTGUN  COLLECTED                  ~00~}#040#037
+SHOTGUN  COLLECTED                  ~00~#037
+|37
+@0001B296-0001B2BC-00
+;0001B296{FLAME    THROWER  COLLECTED         ~00~}#040#037
+FLAME    THROWER  COLLECTED         ~00~#037
+;0001B2BB{-~00~}#005#002
+-~00~#002
+|39
+@0001B2C4-0001B2E8-00
+;0001B2C4{PULSE    LASER    COLLECTED         ~00~}#040#037
+PULSE    LASER    COLLECTED         ~00~#037
+|37
+@0001B2F6-0001B31E-00
+;0001B2F6{BIO      SCANNER  COLLECTED         ~00~}#040#037
+BIO      SCANNER  COLLECTED         ~00~#037
+;0001B31B{~14~~00~}#008#002
+~14~~00~#002
+;0001B31D{2~00~}#005#002
+2~00~#002
+|41
+@0001B328-0001B34C-00
+;0001B328{MEDIPACK COLLECTED                  ~00~}#040#037
+MEDIPACK COLLECTED                  ~00~#037
+|37
+@0001B356-0001B37A-00
+;0001B356{STEPPING ONE FLOORUP                ~00~}#040#037
+STEPPING ONE FLOORUP                ~00~#037
+|37
+@0001B384-0001B3AA-00
+;0001B384{STEPPING ONE FLOORDOWN              ~00~}#040#037
+STEPPING ONE FLOORDOWN              ~00~#037
+;0001B3A9{<~00~}#005#002
+<~00~#002
+|39
+@0001B3B2-0001B3D6-00
+;0001B3B2{FLOOR    SECURED                    ~00~}#040#037
+FLOOR    SECURED                    ~00~#037
+|37
+@0001B3E0-0001B404-00
+;0001B3E0{FLOOR NOTSECURED                    ~00~}#040#037
+FLOOR NOTSECURED                    ~00~#037
+|37
+@0001B412-0001B45D-00
+;0001B412{2 PLAYER CONNEC-  TION LOST         ~FF~~FF~                                    ~FF~~FF~}#088#076
+2 PLAYER CONNEC-  TION LOST         ~FF~~FF~                                    ~FF~~FF~#076
+|76
+@0001B45E-0001B482-00
+;0001B45E{HEALTH   CONDITIONLOW               ~00~}#040#037
+HEALTH   CONDITIONLOW               ~00~#037
+|37
+@0001B48C-0001B4B0-00
+;0001B48C{HEALTH   CONDITIONCRITICAL          ~00~}#040#037
+HEALTH   CONDITIONCRITICAL          ~00~#037
+|37
+@0001B4BA-0001B4DE-00
+;0001B4BA{AMMU-    NITION ISLOW               ~00~}#040#037
+AMMU-    NITION ISLOW               ~00~#037
+|37
+@0001B4EC-0001B510-00
+;0001B4EC{ELIMINATEALL      ENEMIES           ~00~}#040#037
+ELIMINATEALL      ENEMIES           ~00~#037
+|37
+@0001B51E-0001B546-00
+;0001B51E{ZERO     ENEMIES  REMAINING         ~00~}#040#037
+ZERO     ENEMIES  REMAINING         ~00~#037
+;0001B543{~19~~00~}#008#002
+~19~~00~#002
+;0001B545{~A1~~00~}#008#002
+~A1~~00~#002
+|41
+@0001B550-0001B574-00
+;0001B550{PROCEED  TO NEXT  LEVEL             ~00~}#040#037
+PROCEED  TO NEXT  LEVEL             ~00~#037
+|37
+@0001B57E-0001B5A2-00
+;0001B57E{ENTERING DOCKING  BAY LEVEL1        ~00~}#040#037
+ENTERING DOCKING  BAY LEVEL1        ~00~#037
+|37
+@0001B5B4-0001B5D8-00
+;0001B5B4{ENTERING DOCKING  BAY LEVEL2        ~00~}#040#037
+ENTERING DOCKING  BAY LEVEL2        ~00~#037
+|37
+@0001B5EA-0001B612-00
+;0001B5EA{ENTERING BRIDGE   LEVEL 1           ~00~}#040#037
+ENTERING BRIDGE   LEVEL 1           ~00~#037
+;0001B60F{~1E~~00~}#008#002
+~1E~~00~#002
+;0001B611{S~00~}#005#002
+S~00~#002
+|41
+@0001B61C-0001B644-00
+;0001B61C{ENTERING ENGINE   LEVEL 1           ~00~}#040#037
+ENTERING ENGINE   LEVEL 1           ~00~#037
+;0001B641{~1E~~00~}#008#002
+~1E~~00~#002
+;0001B643{S~00~}#005#002
+S~00~#002
+|41
+@0001B652-0001B676-00
+;0001B652{ENTERING ENGINE   LEVEL 2           ~00~}#040#037
+ENTERING ENGINE   LEVEL 2           ~00~#037
+|37
+@0001B688-0001B6AC-00
+;0001B688{ENTERING ENGINE   LEVEL 3           ~00~}#040#037
+ENTERING ENGINE   LEVEL 3           ~00~#037
+|37
+@0001B6BE-0001B6E2-00
+;0001B6BE{ENTERING ENGINE   LEVEL 4           ~00~}#040#037
+ENTERING ENGINE   LEVEL 4           ~00~#037
+|37
+@0001B6F4-0001B718-00
+;0001B6F4{ENTERING GREEN    HOUSE    LEVEL 1  ~00~}#040#037
+ENTERING GREEN    HOUSE    LEVEL 1  ~00~#037
+|37
+@0001B72A-0001B74E-00
+;0001B72A{ENTERING GREEN    HOUSE    LEVEL 2  ~00~}#040#037
+ENTERING GREEN    HOUSE    LEVEL 2  ~00~#037
+|37
+@0001B760-0001B784-00
+;0001B760{ENTERING GREEN    HOUSE    LEVEL 3  ~00~}#040#037
+ENTERING GREEN    HOUSE    LEVEL 3  ~00~#037
+|37
+@0001B796-0001B7BA-00
+;0001B796{ENTERING BRIDGE   LEVEL 2           ~00~}#040#037
+ENTERING BRIDGE   LEVEL 2           ~00~#037
+|37
+@0001B7C8-0001B7EC-00
+;0001B7C8{ENTERING REACTOR  LEVEL 1           ~00~}#040#037
+ENTERING REACTOR  LEVEL 1           ~00~#037
+|37
+@0001B7FA-0001B81E-00
+;0001B7FA{ENTERING REACTOR  LEVEL 2           ~00~}#040#037
+ENTERING REACTOR  LEVEL 2           ~00~#037
+|37
+@0001B82C-0001B850-00
+;0001B82C{ENTERING FLOOR 165                  ~00~}#040#037
+ENTERING FLOOR 165                  ~00~#037
+|37
+@0001B866-0001B88A-00
+;0001B866{ENTERING FLOOR 164                  ~00~}#040#037
+ENTERING FLOOR 164                  ~00~#037
+|37
+@0001B8A0-0001B8C4-00
+;0001B8A0{ENTERING FLOOR 163                  ~00~}#040#037
+ENTERING FLOOR 163                  ~00~#037
+|37
+@0001B8DA-0001B8FE-00
+;0001B8DA{ENTERING FLOOR 162                  ~00~}#040#037
+ENTERING FLOOR 162                  ~00~#037
+|37
+@0001B914-0001B938-00
+;0001B914{ENTERING FLOOR 161                  ~00~}#040#037
+ENTERING FLOOR 161                  ~00~#037
+|37
+@0001B94E-0001B972-00
+;0001B94E{ENTERING FLOOR 160                  ~00~}#040#037
+ENTERING FLOOR 160                  ~00~#037
+|37
+@0001B984-0001B9A8-00
+;0001B984{ENTERING FLOOR 159                  ~00~}#040#037
+ENTERING FLOOR 159                  ~00~#037
+|37
+@0001B9BE-0001B9E2-00
+;0001B9BE{ENTERING FLOOR 158                  ~00~}#040#037
+ENTERING FLOOR 158                  ~00~#037
+|37
+@0001B9F8-0001BA1C-00
+;0001B9F8{ENTERING FLOOR 157                  ~00~}#040#037
+ENTERING FLOOR 157                  ~00~#037
+|37
+@0001BA32-0001BA56-00
+;0001BA32{ENTERING FLOOR 156                  ~00~}#040#037
+ENTERING FLOOR 156                  ~00~#037
+|37
+@0001BA6C-0001BA90-00
+;0001BA6C{ENTERING FLOOR 155                  ~00~}#040#037
+ENTERING FLOOR 155                  ~00~#037
+|37
+@0001BAA6-0001BACE-00
+;0001BAA6{ENTERING FLOOR 154                  ~00~}#040#037
+ENTERING FLOOR 154                  ~00~#037
+;0001BACB{~1E~~00~}#008#002
+~1E~~00~#002
+;0001BACD{S~00~}#005#002
+S~00~#002
+|41
+@0001BAE0-0001BB04-00
+;0001BAE0{ENTERING FLOOR 153                  ~00~}#040#037
+ENTERING FLOOR 153                  ~00~#037
+|37
+@0001BB1A-0001BB3E-00
+;0001BB1A{ENTERING FLOOR 152                  ~00~}#040#037
+ENTERING FLOOR 152                  ~00~#037
+|37
+@0001BB54-0001BB78-00
+;0001BB54{ENTERING FLOOR 151                  ~00~}#040#037
+ENTERING FLOOR 151                  ~00~#037
+|37
+@0005403C-00054076-00
+;0005403C{Waiting for other player to start...~00~}#040#037
+Waiting for other player to start...~00~#037
+;00054061{Press START to cancel~00~}#025#022
+Press START to cancel~00~#022
+|59
+@00054326-000543EA-00
+;00054326{      Beyond Zero Tolerance (tm)~00~}#036#033
+      Beyond Zero Tolerance (tm)~00~#033
+;00054347{    Copyright 1995 Technopop, Inc.~00~}#038#035
+    Copyright 1995 Technopop, Inc.~00~#035
+;0005436A{        ALL RIGHTS RESERVED~00~}#031#028
+        ALL RIGHTS RESERVED~00~#028
+;00054386{Beyond Zero Tolerance is a trademark~00~}#040#037
+Beyond Zero Tolerance is a trademark~00~#037
+;000543AB{         of Technopop, Inc.~00~}#031#028
+         of Technopop, Inc.~00~#028
+;000543C7{ Licensed by Sega Enterprises, Inc.~00~}#039#036
+ Licensed by Sega Enterprises, Inc.~00~#036
+|197
+@0005578A-000557A6-00
+;0005578A{Build: 062395a~00~}#018#015
+Build: 062395a~00~#015
+;00055799{Start~00~}#009#006
+Start~00~#006
+;0005579F{Options~00~}#011#008
+Options~00~#008
+|29
+@0005D1F0-0005D6F8-00
+;0005D1F0{ *CHEATMODE* *NOT SECURED*  *SECURED*  ~00~}#043#040
+ *CHEATMODE* *NOT SECURED*  *SECURED*  ~00~#040
+;0005D218{OBSERVATION         : ~00~}#026#023
+OBSERVATION         : ~00~#023
+;0005D22F{~00~}#004#001
+~00~#001
+;0005D230{~00~}#004#001
+~00~#001
+;0005D231{PRISON              : ~00~}#026#023
+PRISON              : ~00~#023
+;0005D248{~00~}#004#001
+~00~#001
+;0005D249{~00~}#004#001
+~00~#001
+;0005D24A{ARMORY              : ~00~}#026#023
+ARMORY              : ~00~#023
+;0005D261{~00~}#004#001
+~00~#001
+;0005D262{~00~}#004#001
+~00~#001
+;0005D263{DOCKING BAY LEVEL 2 : ~00~}#026#023
+DOCKING BAY LEVEL 2 : ~00~#023
+;0005D27A{~00~}#004#001
+~00~#001
+;0005D27B{~00~}#004#001
+~00~#001
+;0005D27C{BRIDGE LEVEL 1      : ~00~}#026#023
+BRIDGE LEVEL 1      : ~00~#023
+;0005D293{~00~}#004#001
+~00~#001
+;0005D294{~00~}#004#001
+~00~#001
+;0005D295{ENGINEERING LEVEL 1 : ~00~}#026#023
+ENGINEERING LEVEL 1 : ~00~#023
+;0005D2AC{~00~}#004#001
+~00~#001
+;0005D2AD{~00~}#004#001
+~00~#001
+;0005D2AE{ENGINEERING LEVEL 2 : ~00~}#026#023
+ENGINEERING LEVEL 2 : ~00~#023
+;0005D2C5{~00~}#004#001
+~00~#001
+;0005D2C6{~00~}#004#001
+~00~#001
+;0005D2C7{ENGINEERING LEVEL 3 : ~00~}#026#023
+ENGINEERING LEVEL 3 : ~00~#023
+;0005D2DE{~00~}#004#001
+~00~#001
+;0005D2DF{~00~}#004#001
+~00~#001
+;0005D2E0{ENGINEERING LEVEL 4 : ~00~}#026#023
+ENGINEERING LEVEL 4 : ~00~#023
+;0005D2F7{~00~}#004#001
+~00~#001
+;0005D2F8{~00~}#004#001
+~00~#001
+;0005D2F9{GREENHOUSE LEVEL 1  : ~00~}#026#023
+GREENHOUSE LEVEL 1  : ~00~#023
+;0005D310{~00~}#004#001
+~00~#001
+;0005D311{~00~}#004#001
+~00~#001
+;0005D312{GREENHOUSE LEVEL 2  : ~00~}#026#023
+GREENHOUSE LEVEL 2  : ~00~#023
+;0005D329{~00~}#004#001
+~00~#001
+;0005D32A{~00~}#004#001
+~00~#001
+;0005D32B{GREENHOUSE LEVEL 3  : ~00~}#026#023
+GREENHOUSE LEVEL 3  : ~00~#023
+;0005D342{~00~}#004#001
+~00~#001
+;0005D343{~00~}#004#001
+~00~#001
+;0005D344{BRIDGE LEVEL 2      : ~00~}#026#023
+BRIDGE LEVEL 2      : ~00~#023
+;0005D35B{~00~}#004#001
+~00~#001
+;0005D35C{~00~}#004#001
+~00~#001
+;0005D35D{REACTOR LEVEL 1     : ~00~}#026#023
+REACTOR LEVEL 1     : ~00~#023
+;0005D374{~00~}#004#001
+~00~#001
+;0005D375{~00~}#004#001
+~00~#001
+;0005D376{REACTOR LEVEL 2     : ~00~}#026#023
+REACTOR LEVEL 2     : ~00~#023
+;0005D38D{~00~}#004#001
+~00~#001
+;0005D38E{~00~}#004#001
+~00~#001
+;0005D38F{                        ~00~}#028#025
+                        ~00~#025
+;0005D3A8{                        ~00~}#028#025
+                        ~00~#025
+;0005D3C1{                        ~00~}#028#025
+                        ~00~#025
+;0005D3DA{HIGH RISE ROOF TOP  : ~00~}#026#023
+HIGH RISE ROOF TOP  : ~00~#023
+;0005D3F1{~00~}#004#001
+~00~#001
+;0005D3F2{~00~}#004#001
+~00~#001
+;0005D3F3{HIGH RISE FLOOR 164 : ~00~}#026#023
+HIGH RISE FLOOR 164 : ~00~#023
+;0005D40A{~00~}#004#001
+~00~#001
+;0005D40B{~00~}#004#001
+~00~#001
+;0005D40C{HIGH RISE FLOOR 163 : ~00~}#026#023
+HIGH RISE FLOOR 163 : ~00~#023
+;0005D423{~00~}#004#001
+~00~#001
+;0005D424{~00~}#004#001
+~00~#001
+;0005D425{HIGH RISE FLOOR 162 : ~00~}#026#023
+HIGH RISE FLOOR 162 : ~00~#023
+;0005D43C{~00~}#004#001
+~00~#001
+;0005D43D{~00~}#004#001
+~00~#001
+;0005D43E{HIGH RISE FLOOR 161 : ~00~}#026#023
+HIGH RISE FLOOR 161 : ~00~#023
+;0005D455{~00~}#004#001
+~00~#001
+;0005D456{~00~}#004#001
+~00~#001
+;0005D457{HIGH RISE FLOOR 160 : ~00~}#026#023
+HIGH RISE FLOOR 160 : ~00~#023
+;0005D46E{~00~}#004#001
+~00~#001
+;0005D46F{~00~}#004#001
+~00~#001
+;0005D470{HIGH RISE FLOOR 159 : ~00~}#026#023
+HIGH RISE FLOOR 159 : ~00~#023
+;0005D487{~00~}#004#001
+~00~#001
+;0005D488{~00~}#004#001
+~00~#001
+;0005D489{HIGH RISE FLOOR 158 : ~00~}#026#023
+HIGH RISE FLOOR 158 : ~00~#023
+;0005D4A0{~00~}#004#001
+~00~#001
+;0005D4A1{~00~}#004#001
+~00~#001
+;0005D4A2{HIGH RISE FLOOR 157 : ~00~}#026#023
+HIGH RISE FLOOR 157 : ~00~#023
+;0005D4B9{~00~}#004#001
+~00~#001
+;0005D4BA{~00~}#004#001
+~00~#001
+;0005D4BB{HIGH RISE FLOOR 156 : ~00~}#026#023
+HIGH RISE FLOOR 156 : ~00~#023
+;0005D4D2{~00~}#004#001
+~00~#001
+;0005D4D3{~00~}#004#001
+~00~#001
+;0005D4D4{HIGH RISE FLOOR 155 : ~00~}#026#023
+HIGH RISE FLOOR 155 : ~00~#023
+;0005D4EB{~00~}#004#001
+~00~#001
+;0005D4EC{~00~}#004#001
+~00~#001
+;0005D4ED{HIGH RISE FLOOR 154 : ~00~}#026#023
+HIGH RISE FLOOR 154 : ~00~#023
+;0005D504{~00~}#004#001
+~00~#001
+;0005D505{~00~}#004#001
+~00~#001
+;0005D506{HIGH RISE FLOOR 153 : ~00~}#026#023
+HIGH RISE FLOOR 153 : ~00~#023
+;0005D51D{~00~}#004#001
+~00~#001
+;0005D51E{~00~}#004#001
+~00~#001
+;0005D51F{HIGH RISE FLOOR 152 : ~00~}#026#023
+HIGH RISE FLOOR 152 : ~00~#023
+;0005D536{~00~}#004#001
+~00~#001
+;0005D537{~00~}#004#001
+~00~#001
+;0005D538{HIGH RISE FLOOR 151 : ~00~}#026#023
+HIGH RISE FLOOR 151 : ~00~#023
+;0005D54F{~00~}#004#001
+~00~#001
+;0005D550{~00~}#004#001
+~00~#001
+;0005D551{HIGH RISE FLOOR 150 : ~00~}#026#023
+HIGH RISE FLOOR 150 : ~00~#023
+;0005D568{~00~}#004#001
+~00~#001
+;0005D569{~00~}#004#001
+~00~#001
+;0005D56A{SUB BASEMENT LEVEL 1 : ~00~}#027#024
+SUB BASEMENT LEVEL 1 : ~00~#024
+;0005D582{~00~}#004#001
+~00~#001
+;0005D583{SUB BASEMENT LEVEL 2 : ~00~}#027#024
+SUB BASEMENT LEVEL 2 : ~00~#024
+;0005D59B{~00~}#004#001
+~00~#001
+;0005D59C{SUB BASEMENT LEVEL 3 : ~00~}#027#024
+SUB BASEMENT LEVEL 3 : ~00~#024
+;0005D5B4{~00~}#004#001
+~00~#001
+;0005D5B5{SUB BASEMENT LEVEL 4 : ~00~}#027#024
+SUB BASEMENT LEVEL 4 : ~00~#024
+;0005D5CD{~00~}#004#001
+~00~#001
+;0005D5CE{SUB BASEMENT LEVEL 5 : ~00~}#027#024
+SUB BASEMENT LEVEL 5 : ~00~#024
+;0005D5E6{~00~}#004#001
+~00~#001
+;0005D5E7{SUB BASEMENT LEVEL 6 : ~00~}#027#024
+SUB BASEMENT LEVEL 6 : ~00~#024
+;0005D5FF{~00~}#004#001
+~00~#001
+;0005D600{SUB BASEMENT LEVEL 7 : ~00~}#027#024
+SUB BASEMENT LEVEL 7 : ~00~#024
+;0005D618{~00~}#004#001
+~00~#001
+;0005D619{SUB BASEMENT LEVEL 8 : ~00~}#027#024
+SUB BASEMENT LEVEL 8 : ~00~#024
+;0005D631{~00~}#004#001
+~00~#001
+;0005D632{SUB BASEMENT LEVEL 9 : ~00~}#027#024
+SUB BASEMENT LEVEL 9 : ~00~#024
+;0005D64A{~00~}#004#001
+~00~#001
+;0005D64B{SUB BASEMENT LEVEL 10: ~00~}#027#024
+SUB BASEMENT LEVEL 10: ~00~#024
+;0005D663{~00~}#004#001
+~00~#001
+;0005D664{SUB BASEMENT LEVEL 11: ~00~}#027#024
+SUB BASEMENT LEVEL 11: ~00~#024
+;0005D67C{~00~}#004#001
+~00~#001
+;0005D67D{SUB BASEMENT LEVEL 12: ~00~}#027#024
+SUB BASEMENT LEVEL 12: ~00~#024
+;0005D695{~00~}#004#001
+~00~#001
+;0005D696{SUB BASEMENT LEVEL 13: ~00~}#027#024
+SUB BASEMENT LEVEL 13: ~00~#024
+;0005D6AE{~00~}#004#001
+~00~#001
+;0005D6AF{SUB BASEMENT LEVEL 14: ~00~}#027#024
+SUB BASEMENT LEVEL 14: ~00~#024
+;0005D6C7{~00~}#004#001
+~00~#001
+;0005D6C8{SUB BASEMENT LEVEL 15: ~00~}#027#024
+SUB BASEMENT LEVEL 15: ~00~#024
+;0005D6E0{~00~}#004#001
+~00~#001
+;0005D6E1{SUB BASEMENT LEVEL 16: ~00~}#027#024
+SUB BASEMENT LEVEL 16: ~00~#024
+|1289
+@0005D730-0005D760-00
+;0005D730{SPACE STATION       : ~00~}#026#023
+SPACE STATION       : ~00~#023
+;0005D747{~00~}#004#001
+~00~#001
+;0005D748{~00~}#004#001
+~00~#001
+;0005D749{HIGH RISE            : ~00~}#027#024
+HIGH RISE            : ~00~#024
+|49
+@0005E0AE-0005E160-00
+;0005E0AE{INCORRECT PASSWORD~00~}#022#019
+INCORRECT PASSWORD~00~#019
+;0005E0C1{ENTER PASSWORD:~00~}#019#016
+ENTER PASSWORD:~00~#016
+;0005E0D1{A B C D E F G H~00~}#019#016
+A B C D E F G H~00~#016
+;0005E0E1{J K L M N O P Q~00~}#019#016
+J K L M N O P Q~00~#016
+;0005E0F1{R S T U V W X Y~00~}#019#016
+R S T U V W X Y~00~#016
+;0005E101{Z a b c d e f g~00~}#019#016
+Z a b c d e f g~00~#016
+;0005E111{h i j k m n o p~00~}#019#016
+h i j k m n o p~00~#016
+;0005E121{q r s t u v w x~00~}#019#016
+q r s t u v w x~00~#016
+;0005E131{y z 2 3 4 5 6 7~00~}#019#016
+y z 2 3 4 5 6 7~00~#016
+;0005E141{8 9 ? ) ! / - *~00~}#019#016
+8 9 ? ) ! / - *~00~#016
+;0005E151{DEL CANCEL DONE~00~}#019#016
+DEL CANCEL DONE~00~#016
+|179
+@00065018-00065419-00
+;00065018{                                   ~00~}#039#036
+                                   ~00~#036
+;0006503C{KIRSTEN HOLSTED  ~00~}#021#018
+KIRSTEN HOLSTED  ~00~#018
+;0006504E{CODE: "Blinder"  ~00~}#021#018
+CODE: "Blinder"  ~00~#018
+;00065060{NAVIGATION       ~00~}#021#018
+NAVIGATION       ~00~#018
+;00065072{HEIGHT: 173 cm   ~00~}#021#018
+HEIGHT: 173 cm   ~00~#018
+;00065084{WEIGHT: 45 kg    ~00~}#021#018
+WEIGHT: 45 kg    ~00~#018
+;00065096{AGE: 28          ~00~}#021#018
+AGE: 28          ~00~#018
+;000650A8{Captain Holsted: Overcoming       ~00~}#038#035
+Captain Holsted: Overcoming       ~00~#035
+;000650CB{complex security systems          ~00~}#038#035
+complex security systems          ~00~#035
+;000650EE{specialist.  She serves as the    ~00~}#038#035
+specialist.  She serves as the    ~00~#035
+;00065111{team's navigational officer and   ~00~}#038#035
+team's navigational officer and   ~00~#035
+;00065134{has advanced proficiency at       ~00~}#038#035
+has advanced proficiency at       ~00~#035
+;00065157{charts.                           ~00~}#038#035
+charts.                           ~00~#035
+;0006517A{CHRIS OLSEN      ~00~}#021#018
+CHRIS OLSEN      ~00~#018
+;0006518C{CODE: "Rogue"    ~00~}#021#018
+CODE: "Rogue"    ~00~#018
+;0006519E{COMBAT           ~00~}#021#018
+COMBAT           ~00~#018
+;000651B0{HEIGHT: 188 cm   ~00~}#021#018
+HEIGHT: 188 cm   ~00~#018
+;000651C2{WEIGHT: 78 kg    ~00~}#021#018
+WEIGHT: 78 kg    ~00~#018
+;000651D4{AGE: 31          ~00~}#021#018
+AGE: 31          ~00~#018
+;000651E6{Captain Olsen: Specialist in      ~00~}#038#035
+Captain Olsen: Specialist in      ~00~#035
+;00065209{gaining entrance to secured       ~00~}#038#035
+gaining entrance to secured       ~00~#035
+;0006522C{compounds without detection.      ~00~}#038#035
+compounds without detection.      ~00~#035
+;0006524F{Captain Olsen is highly trained in~00~}#038#035
+Captain Olsen is highly trained in~00~#035
+;00065272{martial arts, hand-to-hand        ~00~}#038#035
+martial arts, hand-to-hand        ~00~#035
+;00065295{combat.                           ~00~}#038#035
+combat.                           ~00~#035
+;000652B8{VICTOR REISEN    ~00~}#021#018
+VICTOR REISEN    ~00~#018
+;000652CA{CODE: "Gecko"    ~00~}#021#018
+CODE: "Gecko"    ~00~#018
+;000652DC{DEMOLITION       ~00~}#021#018
+DEMOLITION       ~00~#018
+;000652EE{HEIGHT: 193 cm   ~00~}#021#018
+HEIGHT: 193 cm   ~00~#018
+;00065300{WEIGHT: 79 kg    ~00~}#021#018
+WEIGHT: 79 kg    ~00~#018
+;00065312{AGE: 34          ~00~}#021#018
+AGE: 34          ~00~#018
+;00065324{Captain Reisen: Trained in        ~00~}#038#035
+Captain Reisen: Trained in        ~00~#035
+;00065347{demolition, balistics, bomb       ~00~}#038#035
+demolition, balistics, bomb       ~00~#035
+;0006536A{diffuse and countermesures.       ~00~}#038#035
+diffuse and countermesures.       ~00~#035
+;0006538D{Can build or dismantle any        ~00~}#038#035
+Can build or dismantle any        ~00~#035
+;000653B0{explosive now known or to be      ~00~}#038#035
+explosive now known or to be      ~00~#035
+;000653D3{known.                            ~00~}#038#035
+known.                            ~00~#035
+;000653F6{ERICH HERSEL     ~00~}#021#018
+ERICH HERSEL     ~00~#018
+;00065408{CODE: "Blackjack"~00~}#021#018
+CODE: "Blackjack"~00~#018
+|1026
+@0006541A-0006569A-00
+;0006541A{MARKSMAN         ~00~}#021#018
+MARKSMAN         ~00~#018
+;0006542C{HEIGHT: 185 cm   ~00~}#021#018
+HEIGHT: 185 cm   ~00~#018
+;0006543E{WEIGHT: 72 kg    ~00~}#021#018
+WEIGHT: 72 kg    ~00~#018
+;00065450{AGE: 31          ~00~}#021#018
+AGE: 31          ~00~#018
+;00065462{Captain Hersel: Specialist in     ~00~}#038#035
+Captain Hersel: Specialist in     ~00~#035
+;00065485{communications and radio.  He is  ~00~}#038#035
+communications and radio.  He is  ~00~#035
+;000654A8{also a highly accurate marksman   ~00~}#038#035
+also a highly accurate marksman   ~00~#035
+;000654CB{who can consistantly hit a moving ~00~}#038#035
+who can consistantly hit a moving ~00~#035
+;000654EE{target at distance of more than   ~00~}#038#035
+target at distance of more than   ~00~#035
+;00065511{125 yards.                        ~00~}#038#035
+125 yards.                        ~00~#035
+;00065534{VERNER ROMBERG   ~00~}#021#018
+VERNER ROMBERG   ~00~#018
+;00065546{CODE: "Duke"     ~00~}#021#018
+CODE: "Duke"     ~00~#018
+;00065558{MEDICAL          ~00~}#021#018
+MEDICAL          ~00~#018
+;0006556A{HEIGHT: 175 cm   ~00~}#021#018
+HEIGHT: 175 cm   ~00~#018
+;0006557C{WEIGHT: 67 kg    ~00~}#021#018
+WEIGHT: 67 kg    ~00~#018
+;0006558E{AGE: 29          ~00~}#021#018
+AGE: 29          ~00~#018
+;000655A0{Major Romberg: Trained in         ~00~}#038#035
+Major Romberg: Trained in         ~00~#035
+;000655C3{enemy detection equipment.        ~00~}#038#035
+enemy detection equipment.        ~00~#035
+;000655E6{Romberg while being the group's   ~00~}#038#035
+Romberg while being the group's   ~00~#035
+;00065609{medic is capable of detecting     ~00~}#038#035
+medic is capable of detecting     ~00~#035
+;0006562C{points of architectual structure  ~00~}#038#035
+points of architectual structure  ~00~#035
+;0006564F{weakness.                         ~00~}#038#035
+weakness.                         ~00~#035
+;00065672{----------------------------------------~00~}#044#041
+----------------------------------------~00~#041
+|641
+@000698B2-00069CBF-00
+;000698B2{               DAY 1                ~00~}#040#037
+               DAY 1                ~00~#037
+;000698D7{      Wednesday, May 11, 2095       ~00~}#040#037
+      Wednesday, May 11, 2095       ~00~#037
+;000698FC{        06:23:37 AM (LOCAL)         ~00~}#040#037
+        06:23:37 AM (LOCAL)         ~00~#037
+;00069921{                                    ~00~}#040#037
+                                    ~00~#037
+;00069946{EXTERIOR: Floating Fortress         ~00~}#040#037
+EXTERIOR: Floating Fortress         ~00~#037
+;0006996B{          ALIEN HOME WORLD - DUSK   ~00~}#040#037
+          ALIEN HOME WORLD - DUSK   ~00~#037
+;00069990{                                    ~00~}#040#037
+                                    ~00~#037
+;000699B5{PRIMARY:                            ~00~}#040#037
+PRIMARY:                            ~00~#037
+;000699DA{First strike clean and sweep.       ~00~}#040#037
+First strike clean and sweep.       ~00~#037
+;000699FF{'Shoot first' authorization granted.~00~}#040#037
+'Shoot first' authorization granted.~00~#037
+;00069A24{                                    ~00~}#040#037
+                                    ~00~#037
+;00069A49{            MISSION-TIME:           ~00~}#040#037
+            MISSION-TIME:           ~00~#037
+;00069A6E{    01 Hour 23 Minutes 37 Seconds   ~00~}#040#037
+    01 Hour 23 Minutes 37 Seconds   ~00~#037
+;00069A93{                                    ~00~}#040#037
+                                    ~00~#037
+;00069AB8{~00~}#004#001
+~00~#001
+;00069AB9{"Your mission is to infiltrate the  ~00~}#040#037
+"Your mission is to infiltrate the  ~00~#037
+;00069ADE{station and gain control of Europe-1~00~}#040#037
+station and gain control of Europe-1~00~#037
+;00069B03{by eliminating all enemy aliens.    ~00~}#040#037
+by eliminating all enemy aliens.    ~00~#037
+;00069B28{Good luck."                         ~00~}#040#037
+Good luck."                         ~00~#037
+;00069B4D{                                    ~00~}#040#037
+                                    ~00~#037
+;00069B72{"Okay soldiers, you heard the       ~00~}#040#037
+"Okay soldiers, you heard the       ~00~#037
+;00069B97{briefing and you know the routine.  ~00~}#040#037
+briefing and you know the routine.  ~00~#037
+;00069BBC{We're here and we're gonna          ~00~}#040#037
+We're here and we're gonna          ~00~#037
+;00069BE1{kick some!  Hit'em fast and hard.   ~00~}#040#037
+kick some!  Hit'em fast and hard.   ~00~#037
+;00069C06{I want clean elimination of all     ~00~}#040#037
+I want clean elimination of all     ~00~#037
+;00069C2B{targets.  Let's go!"                ~00~}#040#037
+targets.  Let's go!"                ~00~#037
+;00069C50{                                    ~00~}#040#037
+                                    ~00~#037
+;00069C75{~00~}#004#001
+~00~#001
+;00069C76{Don't even think this was just a    ~00~}#040#037
+Don't even think this was just a    ~00~#037
+;00069C9B{game.  The aliens victory over you  ~00~}#040#037
+game.  The aliens victory over you  ~00~#037
+|1038
+@00069CC0-0006A0CE-00
+;00069CC0{was all they needed to continue     ~00~}#040#037
+was all they needed to continue     ~00~#037
+;00069CE5{with their plans to attack your     ~00~}#040#037
+with their plans to attack your     ~00~#037
+;00069D0A{home world, again.  And this time...~00~}#040#037
+home world, again.  And this time...~00~#037
+;00069D2F{                                    ~00~}#040#037
+                                    ~00~#037
+;00069D54{~00~}#004#001
+~00~#001
+;00069D55{"You did it!  You have defeated the ~00~}#040#037
+"You did it!  You have defeated the ~00~#037
+;00069D7A{hostile forces enabling the cooling ~00~}#040#037
+hostile forces enabling the cooling ~00~#037
+;00069D9F{towers to stabilize the reactor     ~00~}#040#037
+towers to stabilize the reactor     ~00~#037
+;00069DC4{core without breach!  But you must  ~00~}#040#037
+core without breach!  But you must  ~00~#037
+;00069DE9{return immediately - the Space      ~00~}#040#037
+return immediately - the Space      ~00~#037
+;00069E0E{Station attack was a decoy for the  ~00~}#040#037
+Station attack was a decoy for the  ~00~#037
+;00069E33{enemy aliens true intentions.       ~00~}#040#037
+enemy aliens true intentions.       ~00~#037
+;00069E58{They have infiltrated our very own  ~00~}#040#037
+They have infiltrated our very own  ~00~#037
+;00069E7D{Planet Defense Corps headquarters   ~00~}#040#037
+Planet Defense Corps headquarters   ~00~#037
+;00069EA2{on the planet surface below!"       ~00~}#040#037
+on the planet surface below!"       ~00~#037
+;00069EC7{                                    ~00~}#040#037
+                                    ~00~#037
+;00069EEC{~00~}#004#001
+~00~#001
+;00069EED{"Your only way to approach the Corps~00~}#040#037
+"Your only way to approach the Corps~00~#037
+;00069F12{Central Command building is to drop ~00~}#040#037
+Central Command building is to drop ~00~#037
+;00069F37{in from above.  Be warned that the  ~00~}#040#037
+in from above.  Be warned that the  ~00~#037
+;00069F5C{building's own defense systems are  ~00~}#040#037
+building's own defense systems are  ~00~#037
+;00069F81{currently on full active alert and  ~00~}#040#037
+currently on full active alert and  ~00~#037
+;00069FA6{will treat you as an invader.       ~00~}#040#037
+will treat you as an invader.       ~00~#037
+;00069FCB{We're counting on you."             ~00~}#040#037
+We're counting on you."             ~00~#037
+;00069FF0{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A015{~00~}#004#001
+~00~#001
+;0006A016{"Attention! Attention!  This is Home~00~}#040#037
+"Attention! Attention!  This is Home~00~#037
+;0006A03B{World Planet Defense.  The mission  ~00~}#040#037
+World Planet Defense.  The mission  ~00~#037
+;0006A060{to regain control of the Planet     ~00~}#040#037
+to regain control of the Planet     ~00~#037
+;0006A085{Defense Corps headquarters has      ~00~}#040#037
+Defense Corps headquarters has      ~00~#037
+;0006A0AA{failed.  All is lost."              ~00~}#040#037
+failed.  All is lost."              ~00~#037
+|1039
+@0006A0CF-0006A4DC-00
+;0006A0CF{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A0F4{~00~}#004#001
+~00~#001
+;0006A0F5{"Aliens retreated to the sub-       ~00~}#040#037
+"Aliens retreated to the sub-       ~00~#037
+;0006A11A{basement levels of our Planet       ~00~}#040#037
+basement levels of our Planet       ~00~#037
+;0006A13F{Defense Corps building.  It seems   ~00~}#040#037
+Defense Corps building.  It seems   ~00~#037
+;0006A164{they have been harboring down there ~00~}#040#037
+they have been harboring down there ~00~#037
+;0006A189{all along.  You have them cornered! ~00~}#040#037
+all along.  You have them cornered! ~00~#037
+;0006A1AE{You must clean them out!"           ~00~}#040#037
+You must clean them out!"           ~00~#037
+;0006A1D3{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A1F8{~00~}#004#001
+~00~#001
+;0006A1F9{"You've done it!  You have defeated ~00~}#040#037
+"You've done it!  You have defeated ~00~#037
+;0006A21E{the alien forces against all odds.  ~00~}#040#037
+the alien forces against all odds.  ~00~#037
+;0006A243{The people of our Home World commend~00~}#040#037
+The people of our Home World commend~00~#037
+;0006A268{you and the Planet Defense Corps    ~00~}#040#037
+you and the Planet Defense Corps    ~00~#037
+;0006A28D{would like to extend you their      ~00~}#040#037
+would like to extend you their      ~00~#037
+;0006A2B2{highest commendation.  Our citizens ~00~}#040#037
+highest commendation.  Our citizens ~00~#037
+;0006A2D7{are once again safe from the hostile~00~}#040#037
+are once again safe from the hostile~00~#037
+;0006A2FC{enemy aliens whose attempts to      ~00~}#040#037
+enemy aliens whose attempts to      ~00~#037
+;0006A321{invade and destroy our world have   ~00~}#040#037
+invade and destroy our world have   ~00~#037
+;0006A346{been foiled."                       ~00~}#040#037
+been foiled."                       ~00~#037
+;0006A36B{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A390{You look...                         ~00~}#040#037
+You look...                         ~00~#037
+;0006A3B5{                ...tired            ~00~}#040#037
+                ...tired            ~00~#037
+;0006A3DA{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A3FF{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A424{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A449{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A46E{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A493{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A4B8{                                    ~00~}#040#037
+                                    ~00~#037
+|1038
+@0006A4DD-0006A64E-00
+;0006A4DD{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A502{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A527{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A54C{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A571{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A596{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A5BB{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A5E0{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A605{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A62A{                                    ~00~}#040#037
+                                    ~00~#037
+|370
+@0006A64F-0006B532-00
+;0006A64F{              CREDITS               ~00~}#040#037
+              CREDITS               ~00~#037
+;0006A674{             ---------              ~00~}#040#037
+             ---------              ~00~#037
+;0006A699{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A6BE{Technopop, Inc. -                   ~00~}#040#037
+Technopop, Inc. -                   ~00~#037
+;0006A6E3{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A708{PRODUCER:           Randel Reiss    ~00~}#040#037
+PRODUCER:           Randel Reiss    ~00~#037
+;0006A72D{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A752{ASSISTANT PRODUCER: Desmond Crisis  ~00~}#040#037
+ASSISTANT PRODUCER: Desmond Crisis  ~00~#037
+;0006A777{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A79C{PROGRAMMING/DESIGN: Thomas Gjoerup  ~00~}#040#037
+PROGRAMMING/DESIGN: Thomas Gjoerup  ~00~#037
+;0006A7C1{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A7E6{ART DIRECTION:      Scott Haile     ~00~}#040#037
+ART DIRECTION:      Scott Haile     ~00~#037
+;0006A80B{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A830{PROGRAMMING:        Justin Wolf     ~00~}#040#037
+PROGRAMMING:        Justin Wolf     ~00~#037
+;0006A855{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A87A{LEAD ARTWORK:       Sheryl Knowles  ~00~}#040#037
+LEAD ARTWORK:       Sheryl Knowles  ~00~#037
+;0006A89F{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A8C4{LEVEL DESIGNS:      Tony Ramos      ~00~}#040#037
+LEVEL DESIGNS:      Tony Ramos      ~00~#037
+;0006A8E9{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A90E{MUSIC/SFX:          Dezso Molnar    ~00~}#040#037
+MUSIC/SFX:          Dezso Molnar    ~00~#037
+;0006A933{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A958{VOICE OVER:         Maya Daniels    ~00~}#040#037
+VOICE OVER:         Maya Daniels    ~00~#037
+;0006A97D{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A9A2{CONCEPTUAL ART:     Gary Jones      ~00~}#040#037
+CONCEPTUAL ART:     Gary Jones      ~00~#037
+;0006A9C7{                                    ~00~}#040#037
+                                    ~00~#037
+;0006A9EC{LEGAL COUNSEL:      Curtis Karnow   ~00~}#040#037
+LEGAL COUNSEL:      Curtis Karnow   ~00~#037
+;0006AA11{                                    ~00~}#040#037
+                                    ~00~#037
+;0006AA36{ADDITIONAL SUPPORT: Lasse Faabeng   ~00~}#040#037
+ADDITIONAL SUPPORT: Lasse Faabeng   ~00~#037
+;0006AA5B{                    Satoe Ishii     ~00~}#040#037
+                    Satoe Ishii     ~00~#037
+;0006AA80{                    Jo Ellen Reiss  ~00~}#040#037
+                    Jo Ellen Reiss  ~00~#037
+;0006AAA5{                    Patrick McEnvoy ~00~}#040#037
+                    Patrick McEnvoy ~00~#037
+;0006AACA{                    Paul Puey       ~00~}#040#037
+                    Paul Puey       ~00~#037
+;0006AAEF{                                    ~00~}#040#037
+                                    ~00~#037
+;0006AB14{SPECIAL THANKS:     Steve Ackrich   ~00~}#040#037
+SPECIAL THANKS:     Steve Ackrich   ~00~#037
+;0006AB39{                    Nick Laveroff   ~00~}#040#037
+                    Nick Laveroff   ~00~#037
+;0006AB5E{                    David Bamberger ~00~}#040#037
+                    David Bamberger ~00~#037
+;0006AB83{                    Kelly Flock     ~00~}#040#037
+                    Kelly Flock     ~00~#037
+;0006ABA8{                                    ~00~}#040#037
+                                    ~00~#037
+;0006ABCD{Accolade -                          ~00~}#040#037
+Accolade -                          ~00~#037
+;0006ABF2{                                    ~00~}#040#037
+                                    ~00~#037
+;0006AC17{PRODUCERS:          James Kucera    ~00~}#040#037
+PRODUCERS:          James Kucera    ~00~#037
+;0006AC3C{                    Troy Sheets     ~00~}#040#037
+                    Troy Sheets     ~00~#037
+;0006AC61{                                    ~00~}#040#037
+                                    ~00~#037
+;0006AC86{LEAD TESTER:        James Vitales   ~00~}#040#037
+LEAD TESTER:        James Vitales   ~00~#037
+;0006ACAB{                                    ~00~}#040#037
+                                    ~00~#037
+;0006ACD0{TESTERS:            Rich Gangwish   ~00~}#040#037
+TESTERS:            Rich Gangwish   ~00~#037
+;0006ACF5{                    Alex Cabal      ~00~}#040#037
+                    Alex Cabal      ~00~#037
+;0006AD1A{                    Ty Johnson      ~00~}#040#037
+                    Ty Johnson      ~00~#037
+;0006AD3F{                    Randy Hauser    ~00~}#040#037
+                    Randy Hauser    ~00~#037
+;0006AD64{                    Seth Friedman   ~00~}#040#037
+                    Seth Friedman   ~00~#037
+;0006AD89{                    Daniel P. Dunn  ~00~}#040#037
+                    Daniel P. Dunn  ~00~#037
+;0006ADAE{                                    ~00~}#040#037
+                                    ~00~#037
+;0006ADD3{MARKETING:          Karen Safran    ~00~}#040#037
+MARKETING:          Karen Safran    ~00~#037
+;0006ADF8{                    Megan Humpal    ~00~}#040#037
+                    Megan Humpal    ~00~#037
+;0006AE1D{                    Larry Wiesler   ~00~}#040#037
+                    Larry Wiesler   ~00~#037
+;0006AE42{                                    ~00~}#040#037
+                                    ~00~#037
+;0006AE67{EXECUTIVES:         Al Miller       ~00~}#040#037
+EXECUTIVES:         Al Miller       ~00~#037
+;0006AE8C{                    John Skeel      ~00~}#040#037
+                    John Skeel      ~00~#037
+;0006AEB1{                    Brenden Maloof  ~00~}#040#037
+                    Brenden Maloof  ~00~#037
+;0006AED6{                    Jim Barnett     ~00~}#040#037
+                    Jim Barnett     ~00~#037
+;0006AEFB{                    Peter Harris    ~00~}#040#037
+                    Peter Harris    ~00~#037
+;0006AF20{                                    ~00~}#040#037
+                                    ~00~#037
+;0006AF45{STATIC STORY SCREENS BY ACCOLADE    ~00~}#040#037
+STATIC STORY SCREENS BY ACCOLADE    ~00~#037
+;0006AF6A{                                    ~00~}#040#037
+                                    ~00~#037
+;0006AF8F{ART DIRECTOR:       Bob Busick      ~00~}#040#037
+ART DIRECTOR:       Bob Busick      ~00~#037
+;0006AFB4{                                    ~00~}#040#037
+                                    ~00~#037
+;0006AFD9{ARTISTS:            Patricia Pearson~00~}#040#037
+ARTISTS:            Patricia Pearson~00~#037
+;0006AFFE{                    Craig Marshall  ~00~}#040#037
+                    Craig Marshall  ~00~#037
+;0006B023{                    Dale Mauk       ~00~}#040#037
+                    Dale Mauk       ~00~#037
+;0006B048{                    John Xu         ~00~}#040#037
+                    John Xu         ~00~#037
+;0006B06D{                    Shawn Monroe    ~00~}#040#037
+                    Shawn Monroe    ~00~#037
+;0006B092{                    Scott Burroughs ~00~}#040#037
+                    Scott Burroughs ~00~#037
+;0006B0B7{                    Ken Capelli     ~00~}#040#037
+                    Ken Capelli     ~00~#037
+;0006B0DC{                    Chris Peterson  ~00~}#040#037
+                    Chris Peterson  ~00~#037
+;0006B101{                    Tom Denmark     ~00~}#040#037
+                    Tom Denmark     ~00~#037
+;0006B126{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B14B{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B170{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B195{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B1BA{   COPYRIGHT 1994 Technopop, Inc.   ~00~}#040#037
+   COPYRIGHT 1994 Technopop, Inc.   ~00~#037
+;0006B1DF{        ALL RIGHTS RESERVED         ~00~}#040#037
+        ALL RIGHTS RESERVED         ~00~#037
+;0006B204{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B229{  Zero Tolerance is a trademark of  ~00~}#040#037
+  Zero Tolerance is a trademark of  ~00~#037
+;0006B24E{ Accolade, Inc. and Technopop, Inc. ~00~}#040#037
+ Accolade, Inc. and Technopop, Inc. ~00~#037
+;0006B273{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B298{ LICENSED BY SEGA Enterprises, Ltd. ~00~}#040#037
+ LICENSED BY SEGA Enterprises, Ltd. ~00~#037
+;0006B2BD{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B2E2{~00~}#004#001
+~00~#001
+;0006B2E3{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B308{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B32D{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B352{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B377{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B39C{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B3C1{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B3E6{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B40B{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B430{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B455{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B47A{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B49F{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B4C4{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B4E9{                                    ~00~}#040#037
+                                    ~00~#037
+;0006B50E{                                    ~00~}#040#037
+                                    ~00~#037
+|3812
+@000A92F8-000A9352-00
+;000A92F8{Password:~00~}#013#010
+Password:~00~#010
+;000A9302{Players:~00~}#012#009
+Players:~00~#009
+;000A930B{Music:~00~}#010#007
+Music:~00~#007
+;000A9312{Voice:~00~}#010#007
+Voice:~00~#007
+;000A9319{Sound Test:~00~}#015#012
+Sound Test:~00~#012
+;000A9325{One             ~00~}#020#017
+One             ~00~#017
+;000A9336{Two (via Cable)~00~}#019#016
+Two (via Cable)~00~#016
+;000A9346{Off~00~}#007#004
+Off~00~#004
+;000A934A{On ~00~}#007#004
+On ~00~#004
+;000A934E{Exit~00~}#008#005
+Exit~00~#005
+|91

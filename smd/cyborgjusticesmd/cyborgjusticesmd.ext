@@ -1,0 +1,300 @@
+@00006928-00006933-00
+;00006928{PRESS START~00~}#015#012
+PRESS START~00~#012
+|12
+@0000697E-000069AD-00
+;0000697E{© 1993 SEGA~00~}#015#012
+© 1993 SEGA~00~#012
+;0000698A{DESIGNED AND DEVELOPED BY NOVOTRADE~00~}#039#036
+DESIGNED AND DEVELOPED BY NOVOTRADE~00~#036
+|48
+@00006CBF-00006CED-00
+;00006CBF{UP~00~}#006#003
+UP~00~#003
+;00006CC2{FIGHTING SUB-SYSTEM REPORT~00~}#030#027
+FIGHTING SUB-SYSTEM REPORT~00~#027
+;00006CDD{ADVANTAGE PLAYER~00~}#020#017
+ADVANTAGE PLAYER~00~#017
+|47
+@000075E6-0000766D-00
+;000075E6{V2  $127 begin work sequenceNN         V9comply !!!P1~00~}#057#054
+V2  $127 begin work sequenceNN         V9comply !!!P1~00~#054
+;0000761C{V2C        to all units:N   $127 has malfunctioned.NNV9F4      seek and destroy!F~00~}#085#082
+V2C        to all units:N   $127 has malfunctioned.NNV9F4      seek and destroy!F~00~#082
+|136
+@000076C8-00007A83-00
+;000076C8{V0security system failure~00~}#029#026
+V0security system failure~00~#026
+;000076E2{V0self-destruct system activated.NNNF2       final countdownF~00~}#065#062
+V0self-destruct system activated.NNNF2       final countdownF~00~#062
+;00007720{~00~}#004#001
+~00~#001
+;00007721{~05~?J~00~}#010#004
+~05~?J~00~#004
+;00007725{~05~?Q~00~}#010#004
+~05~?Q~00~#004
+;00007729{~05~?XV3you have set our society free.P6Csince we can never leave thisNplace, we will reward you withNour loyalty and the right toNbe our leader.P9Cwe, like you, were enslaved byNthe maniacal brain who ruledNand directed our lives.P9Cwe need your leadership toNprevent us from beingNenslaved again.P9~00~}#304#298
+~05~?XV3you have set our society free.P6Csince we can never leave thisNplace, we will reward you withNour loyalty and the right toNbe our leader.P9Cwe, like you, were enslaved byNthe maniacal brain who ruledNand directed our lives.P9Cwe need your leadership toNprevent us from beingNenslaved again.P9~00~#298
+;00007853{V0subject:NN V9human maleP1NNNV0physical condition:NN V9loss of all functionP1NNNV0mental condition:NN V9intactP1NNNV0procedure:NNV6F3 memory erasure and transplantFC~00~}#170#167
+V0subject:NN V9human maleP1NNNV0physical condition:NN V9loss of all functionP1NNNV0mental condition:NN V9intactP1NNNV0procedure:NNV6F3 memory erasure and transplantFC~00~#167
+;000078FA{V0R910011010110RR511010001010R1V2NNN F5access:FV7 organic systems ...P2V2NN         locomotion - P2V7connectV2NP1         sensory    - P2V7connectV2NNP1 V0F3organic connections completeFNNNN      V9F6unit $127 activatedFCCV0$127 memory erase sequenceNN.P1.P1.P1.P1.P1.P1.V7F2initiatedFP5NNN           V9errorP1N           V3errorP1NV0R9           errorNRR2           errorNR           F5errorF~00~}#397#394
+V0R910011010110RR511010001010R1V2NNN F5access:FV7 organic systems ...P2V2NN         locomotion - P2V7connectV2NP1         sensory    - P2V7connectV2NNP1 V0F3organic connections completeFNNNN      V9F6unit $127 activatedFCCV0$127 memory erase sequenceNN.P1.P1.P1.P1.P1.P1.V7F2initiatedFP5NNN           V9errorP1N           V3errorP1NV0R9           errorNRR2           errorNR           F5errorF~00~#394
+|956
+@000383A8-000383EF-00
+;000383A8{ARCADE~00~}#010#007
+ARCADE~00~#007
+;000383AF{  DUEL~00~}#010#007
+  DUEL~00~#007
+;000383B6{TACTICAL~00~}#012#009
+TACTICAL~00~#009
+;000383BF{   QUICK~00~}#012#009
+   QUICK~00~#009
+;000383C8{RELAXED~00~}#011#008
+RELAXED~00~#008
+;000383D0{   EASY~00~}#011#008
+   EASY~00~#008
+;000383D8{ NORMAL~00~}#011#008
+ NORMAL~00~#008
+;000383E0{   HARD~00~}#011#008
+   HARD~00~#008
+;000383E8{ BRUTAL~00~}#011#008
+ BRUTAL~00~#008
+|72
+@000389E6-00038A06-00
+;000389E6{  1 PLAYER~00~}#014#011
+  1 PLAYER~00~#011
+;000389F1{  2 PLAYERS~00~}#015#012
+  2 PLAYERS~00~#012
+;000389FD{  OPTIONS~00~}#013#010
+  OPTIONS~00~#010
+|33
+@00038CE4-00038D64-00
+;00038CE4{OPTIONS~00~}#011#008
+OPTIONS~00~#008
+;00038CEC{GAME MODE:      ~25~s~00~}#025#019
+GAME MODE:      ~25~s~00~#019
+;00038CFF{DIFFICULTY:    ~25~s~00~}#024#018
+DIFFICULTY:    ~25~s~00~#018
+;00038D11{LIVES:              ~25~2d~00~}#030#024
+LIVES:              ~25~2d~00~#024
+;00038D29{SOUND FX:           ~25~2d~00~}#030#024
+SOUND FX:           ~25~2d~00~#024
+;00038D41{MUSIC:              ~25~2d~00~}#030#024
+MUSIC:              ~25~2d~00~#024
+;00038D59{HIGH SCORES~00~}#015#012
+HIGH SCORES~00~#012
+|129
+@00039D00-00039D34-00
+;00039D00{R O U N D   ~25~d~00~}#021#015
+R O U N D   ~25~d~00~#015
+;00039D0F{M A I N   B O S S~00~}#021#018
+M A I N   B O S S~00~#018
+;00039D21{L E V E L   ~25~d - ~25~d~00~}#029#020
+L E V E L   ~25~d - ~25~d~00~#020
+|53
+@0003A218-0003A23F-00
+;0003A218{NOW YOU ARE READY~00~}#021#018
+NOW YOU ARE READY~00~#018
+;0003A22A{TO START YOUR MISSION~00~}#025#022
+TO START YOUR MISSION~00~#022
+|40
+@0003A2C8-0003A33B-00
+;0003A2C8{YOU ARE VICTORIOUS AT THIS~00~}#030#027
+YOU ARE VICTORIOUS AT THIS~00~#027
+;0003A2E3{DIFFICULTY LEVEL.~00~}#021#018
+DIFFICULTY LEVEL.~00~#018
+;0003A2F5{FOR A MORE CHALLENGING~00~}#026#023
+FOR A MORE CHALLENGING~00~#023
+;0003A30C{EXPERIENCE, TRY IT AT~00~}#025#022
+EXPERIENCE, TRY IT AT~00~#022
+;0003A322{A MORE DIFFICULT SETTING.~00~}#029#026
+A MORE DIFFICULT SETTING.~00~#026
+|116
+@0003A408-0003A46F-00
+;0003A408{PLAYER 1 WINS~00~}#017#014
+PLAYER 1 WINS~00~#014
+;0003A416{YOU WIN~00~}#011#008
+YOU WIN~00~#008
+;0003A41E{PLAYER 2 WINS~00~}#017#014
+PLAYER 2 WINS~00~#014
+;0003A42C{TRY ANOTHER DUEL!~00~}#021#018
+TRY ANOTHER DUEL!~00~#018
+;0003A43E{ 1~00~}#006#003
+ 1~00~#003
+;0003A441{~25~s 2~00~}#011#005
+~25~s 2~00~#005
+;0003A446{ADVANTAGE COMPUTER~00~}#022#019
+ADVANTAGE COMPUTER~00~#019
+;0003A459{TIED~00~}#008#005
+TIED~00~#005
+;0003A45E{G A M E   O V E R~00~}#021#018
+G A M E   O V E R~00~#018
+|104
+@0003ACF6-0003ACFF-00
+;0003ACF6{P A U S E~00~}#013#010
+P A U S E~00~#010
+|10
+@0004667E-0004668C-00
+;0004667E{no jump action~00~}#018#015
+no jump action~00~#015
+|15
+@0004FB11-0004FC5E-00
+;0004FB11{NORMAL HAND~00~}#015#012
+NORMAL HAND~00~#012
+;0004FB1D{CRUSHER HAND~00~}#016#013
+CRUSHER HAND~00~#013
+;0004FB2A{SAW HAND~00~}#012#009
+SAW HAND~00~#009
+;0004FB33{LAUNCH HAND~00~}#015#012
+LAUNCH HAND~00~#012
+;0004FB3F{LASER HAND~00~}#014#011
+LASER HAND~00~#011
+;0004FB4A{FIRE SPRAY HAND~00~}#019#016
+FIRE SPRAY HAND~00~#016
+;0004FB5A{~00~}#004#001
+~00~#001
+;0004FB5B{NORMAL BODY~00~}#015#012
+NORMAL BODY~00~#012
+;0004FB67{LOBSTER BODY~00~}#016#013
+LOBSTER BODY~00~#013
+;0004FB74{INSECT BODY~00~}#015#012
+INSECT BODY~00~#012
+;0004FB80{FROG BODY~00~}#013#010
+FROG BODY~00~#010
+;0004FB8A{BIG BOOSTER BODY~00~}#020#017
+BIG BOOSTER BODY~00~#017
+;0004FB9B{QUASIMODO BODY~00~}#018#015
+QUASIMODO BODY~00~#015
+;0004FBAA{~00~}#004#001
+~00~#001
+;0004FBAB{JOGGING LEGS~00~}#016#013
+JOGGING LEGS~00~#013
+;0004FBB8{SPIKED LEGS~00~}#015#012
+SPIKED LEGS~00~#012
+;0004FBC4{SOMERSAULT LEGS~00~}#019#016
+SOMERSAULT LEGS~00~#016
+;0004FBD4{TANK LEGS~00~}#013#010
+TANK LEGS~00~#010
+;0004FBDE{BIG FOOT LEGS~00~}#017#014
+BIG FOOT LEGS~00~#014
+;0004FBEC{PNEUMATIC LEGS~00~}#018#015
+PNEUMATIC LEGS~00~#015
+;0004FBFB{~0A~~0A~PRESS START TO~0A~ EXIT ASSEMBLY ROOM.~00~}#050#038
+~0A~~0A~PRESS START TO~0A~ EXIT ASSEMBLY ROOM.~00~#038
+;0004FC21{TEST ROOM:~0A~TRY YOUR WEAPONS!~0A~~0A~PRESS START TO~0A~ EXIT TEST ROOM.~00~}#077#062
+TEST ROOM:~0A~TRY YOUR WEAPONS!~0A~~0A~PRESS START TO~0A~ EXIT TEST ROOM.~00~#062
+|334
+@0004FFDE-0004FFE2-00
+;0004FFDE{TEST~00~}#008#005
+TEST~00~#005
+|5
+@00050212-00050219-00
+;00050212{PLAYER ~25~}#011#008
+PLAYER ~25~#008
+|8
+@00052070-00052410-00
+;00052070{V0Ncode and animation    - F3~5B~~5C~~5D~FP1NNcode                  - gyozoP2NNbitmap                - tohiP2NNlevel songs   - brian coburnP2NNmusic and sfx - magyari andrasP2NNtechical managerNN            szenttornyai laszloP2NNP9~00~}#236#224
+V0Ncode and animation    - F3~5B~~5C~~5D~FP1NNcode                  - gyozoP2NNbitmap                - tohiP2NNlevel songs   - brian coburnP2NNmusic and sfx - magyari andrasP2NNtechical managerNN            szenttornyai laszloP2NNP9~00~#224
+;00052150{CV2NNproducerTchris smithNNNmarketing managerTscott steinbergNNNspecial thanksTed annunziataTsteve apourNNtest leadTjason kuoNNP9C~00~}#134#131
+CV2NNproducerTchris smithNNNmarketing managerTscott steinbergNNNspecial thanksTed annunziataTsteve apourNNtest leadTjason kuoNNP9C~00~#131
+;000521D3{CV0P3Tjulio martinezTjavone alonzoTvy nongTgreg flemingTalex fairchildTsiegie stangenbergTrobert wongTtony lynchTdavid forsterTjon russelTbill personTchris sinclairTcasey grimmTjoe cainTjeff toddTerik wahlbergTrichie hideshimaTP5C~00~}#234#231
+CV0P3Tjulio martinezTjavone alonzoTvy nongTgreg flemingTalex fairchildTsiegie stangenbergTrobert wongTtony lynchTdavid forsterTjon russelTbill personTchris sinclairTcasey grimmTjoe cainTjeff toddTerik wahlbergTrichie hideshimaTP5C~00~#231
+;000522BA{CV0Tjeff wagnerTconan tigardTharry chavezTgreg beckstedTrenato alferezTmarc dawsonTpaul walkerTgabriel wattsTjon vanTmartin villalovosTcrisi albertsonTdermot lyonsTmichael baldwinTterry banksTlawrence jeungTivan foongNTandNTdvornik zsoltTmezei sandorTP9~00~}#257#254
+CV0Tjeff wagnerTconan tigardTharry chavezTgreg beckstedTrenato alferezTmarc dawsonTpaul walkerTgabriel wattsTjon vanTmartin villalovosTcrisi albertsonTdermot lyonsTmichael baldwinTterry banksTlawrence jeungTivan foongNTandNTdvornik zsoltTmezei sandorTP9~00~#254
+;000523B8{CV3    thanksNN     forNN   playingNNF9cyborg justiceF~00~}#058#055
+CV3    thanksNN     forNN   playingNNF9cyborg justiceF~00~#055
+;000523EF{                                 ~00~}#037#034
+                                 ~00~#034
+|929
+@00053F4A-00053F5E-00
+;00053F4A{ first~00~}#010#007
+ first~00~#007
+;00053F51{second~00~}#010#007
+second~00~#007
+;00053F58{ third~00~}#010#007
+ third~00~#007
+|21
+@00054280-00054288-00
+;00054280{testers:~00~}#012#009
+testers:~00~#009
+|9
+@00054C98-00054CBB-00
+;00054C98{TECHNICAL~00~}#013#010
+TECHNICAL~00~#010
+;00054CA2{FAIR PLAY~00~}#013#010
+FAIR PLAY~00~#010
+;00054CAC{BRUTALITY~00~}#013#010
+BRUTALITY~00~#010
+;00054CB6{TOTAL~00~}#009#006
+TOTAL~00~#006
+|36
+@000551D8-000551E3-00
+;000551D8{PLAYER ~25~d -~00~}#018#012
+PLAYER ~25~d -~00~#012
+|12
+@000551E8-000551F2-00
+;000551E8{   del end~00~}#014#011
+   del end~00~#011
+|11
+@0005574E-00055759-00
+;0005574E{HIGH SCORES~00~}#015#012
+HIGH SCORES~00~#012
+|12
+@000558D4-00055919-00
+;000558D4{  NOTHING~00~}#013#010
+  NOTHING~00~#010
+;000558DE{   NORMAL~00~}#013#010
+   NORMAL~00~#010
+;000558E8{  CRUSHER~00~}#013#010
+  CRUSHER~00~#010
+;000558F2{      SAW~00~}#013#010
+      SAW~00~#010
+;000558FC{   LAUNCH~00~}#013#010
+   LAUNCH~00~#010
+;00055906{    FLAME~00~}#013#010
+    FLAME~00~#010
+;00055910{     FIRE~00~}#013#010
+     FIRE~00~#010
+|70
+@00055A68-00055ADA-00
+;00055A68{GAME MODE~00~}#013#010
+GAME MODE~00~#010
+;00055A72{PLAYERS~00~}#011#008
+PLAYERS~00~#008
+;00055A7A{LEVEL~00~}#009#006
+LEVEL~00~#006
+;00055A80{WEAPON~00~}#010#007
+WEAPON~00~#007
+;00055A87{DIFFICULTY~00~}#014#011
+DIFFICULTY~00~#011
+;00055A92{LIVES~00~}#009#006
+LIVES~00~#006
+;00055A98{~00~}#004#001
+~00~#001
+;00055A99{RESTART LEVEL~00~}#017#014
+RESTART LEVEL~00~#014
+;00055AA7{GOTO BOSS~00~}#013#010
+GOTO BOSS~00~#010
+;00055AB1{RESET CPU~00~}#013#010
+RESET CPU~00~#010
+;00055ABB{THE END~00~}#011#008
+THE END~00~#008
+;00055AC3{RECORD DEMO~00~}#015#012
+RECORD DEMO~00~#012
+;00055ACF{REPLAY DEMO~00~}#015#012
+REPLAY DEMO~00~#012
+|115
+@00055B28-00055B65-00
+;00055B28{MAIN BOSS~00~}#013#010
+MAIN BOSS~00~#010
+;00055B32{    ~25~d - ~25~d~00~}#021#012
+    ~25~d - ~25~d~00~#012
+;00055B3E{     DUEL~00~}#013#010
+     DUEL~00~#010
+;00055B48{   ARCADE~00~}#013#010
+   ARCADE~00~#010
+;00055B52{      TWO~00~}#013#010
+      TWO~00~#010
+;00055B5C{      ONE~00~}#013#010
+      ONE~00~#010
+|62

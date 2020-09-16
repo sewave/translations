@@ -1,0 +1,91 @@
+@00000C06-00000C25-00
+;00000C06{~09~c SEGA 1988~00~}#019#013
+~09~c SEGA 1988~00~#013
+;00000C13{~09~PUSH START BUTTON~00~}#025#019
+~09~PULSA BOTÓN START~00~#019
+|32
+@00007CB1-00007CDA-00
+;00007CB1{~09~REMAIN PLAYER~00~}#021#015
+~09~         VIDA~00~#015
+;00007CC0{~09~REMAIN PLAYERS~00~}#022#016
+~09~         VIDAS~00~#016
+;00007CD0{~09~GAME OVER~00~}#017#011
+~09~FIN JUEGO~00~#011
+|42
+@00007CF2-00007D0F-00
+;00007CF2{~09~YOUR SCORE    00~00~}#024#018
+~09~  TU MARCA    00~00~#018
+;00007D04{~09~HIGH SCORE~00~}#018#012
+~09~MARCA ALTA~00~#012
+|30
+@00008F87-000096DB-FF
+;00008F87{ CONGRATULATIONS  ON  ACCOM-                            PLISHING  A  MOST  DIFFICULT                            MISSION. YOU  AND  YOUR EYES                            HAVE  EARNED  THE  RIGHT  TO                            A MUCH NEEDED REST.              EMERGENCY  ORDERS!                                                              IN THE FORTRESSES OF TRITON                            AND PROXIMA, PLANETS   SITU-                            ATED NEAR  THE  PERIMETER OF                            THE GALAXY,  AS WELL AS  THE                            FLOATING STRONGHOLD  OF  THE                            STAR MIRA,  A  REVOLT BY THE                            ROBOT   DEFENSE   FORCES  IS                            UNDERWAY.  ALSO TAKING PLACE                            AT EXACTLY  THE SAME TIME IS                            AN INVASION  BY  THE  ALIENS                            FROM  OUTER  SPACE.   TO PUT                            AN  END  ONCE  AND  FOR  ALL                            TO  THEIR  DASTARDLY  PLOTS,                            BLADE EAGLE PROMPTLY DEPARTS                            FOR THE BATTLEFIELD.                                                                                                                                                                                                                                                                                                                                                                                            GOOD  LUCK !                                                                                                                                                                                                                                                                                                                                                        ~FF~}#1880#1877
+ FELICIDADES POR CUMPLIR UNA
+                            
+MISIÓN TAN DIFÍCIL. TU Y TUS
+                            
+OJOS  OS  HABÉIS  GANADO  EL
+                            
+DERECHO  A UN  DESCANSO  MUY
+                            
+MERECIDO.                   
+
+   ÓRDENES DE EMERGENCIA!   
+                            
+                            
+ EN LAS FORTALEZAS DE TRITÓN
+                            
+Y PRÓXIMA, PLANETAS SITUADOS
+                            
+CERCA  DEL  PERÍMETRO  DE LA
+                            
+GALAXIA,  Y  TAMBIÉN  EN  EL
+                            
+BALUARTE   FLOTANTE   DE  LA
+                            
+ESTRELLA MIRA,    ESTÁ    EN
+                            
+MARCHA  UNA REVUELTA  DE LAS
+                            
+FUERZAS  DE DEFENSA  ROBOTS.
+                            
+Y  EXACTAMENTE A LA  VEZ UNA
+                            
+INVASIÓN DE  ALIENÍGENAS DEL
+                            
+ESPACIO EXTERIOR. PARA PONER
+                            
+FIN DE UNA  VEZ POR  TODAS A
+                            
+TODOS  SUS RUINES  COMPLOTS,
+                            
+BLADE    EAGLE    SALE    DE
+                            
+INMEDIATO  HACIA EL CAMPO DE
+                            
+BATALLA.                    
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+       BUENA SUERTE!        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            ~FF~#1877
+|1877

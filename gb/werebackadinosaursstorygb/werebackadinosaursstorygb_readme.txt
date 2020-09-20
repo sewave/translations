@@ -1,5 +1,5 @@
 We're Back! - A Dinosaur's Story (Game Boy)
-Traducción al Español v1.0 (09/09/2020)
+Traducción al Español v1.1 (19/09/2020)
 (C) 2020 Traducciones Wave
 
 ------------------------
@@ -8,6 +8,7 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+V1.1: Arreglada intro
 
 ------------------------
 Instrucciones de Parcheo

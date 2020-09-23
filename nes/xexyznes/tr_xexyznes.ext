@@ -1,0 +1,340 @@
+@00014CA1-00014CBF-FF
+;00014CA1{06162636465665758595A4B4C3D3E2V}#031#031
+06162636465665758595A4B4C3D3E2F#031
+|31
+@00003EAF-00003EB8-FF
+;00003EAF{~26~A~24~~24~  ~27~~FE~~23~D}#028#010
+PASS  WORD#010
+|10
+@00013E31-00013F03-FC-F3
+;00013E31{Apollo=successfully=destroyed=Goruza's=fortress and=returned to=Xexyz Kingdom=with Queen=Saria Mtar.=~F3~}#105#102
+Apollo=destruyó con=éxito la=fortaleza de=Goruza y=volvió al=Reino de=Xexyz con la=Reina Maria=Star.=~F3~#102
+;00013E97{~C6~^~F2~~F2~~EE~~C6~~F6~~F6~~F6~~F6~~F6~~F6~~F2~~F2~00~F2~~F2~~FA~~FA~00~FA~~FA~~D2~~D2~~D2~~D2~~D2~~D2~!¨x~FF~0~FF~AAALater,=Apollo=Sarried Queen=Saria Mtar=and became=the King of=Xexyz.~F3~}#192#108
+~C6~^~F2~~F2~~EE~~C6~~F6~~F6~~F6~~F6~~F6~~F6~~F2~~F2~00~F2~~F2~~FA~~FA~00~FA~~FA~~D2~~D2~~D2~~D2~~D2~~D2~!¨x~FF~0~FF~AAA
+Más tarde,  =Apollo se=casó con=Maria Star y=se volvió Rey=de=Xexyz.~F3~#108
+;00013F03{1}#001#001
+1#001
+|211
+@00000BFC-00000C01-FF
+;00000BFC{AREA  }#006#006
+ZONA  #006
+|6
+@00000CDB-00000D05-FF
+;00000CDB{GASE  OFER*CONTINUE          END     *    *}#043#043
+FIN  JUEGO*CONTINÚA          FIN     *    *#043
+|43
+@00003C1E-00003C26-FF
+;00003C1E{TRY AGAIN}#009#009
+REINTENTA#009
+|9
+@00012541-00012D04-F3-FC
+;00012541{Welcome Apollo.=This is the island=of ~FC~}#042#039
+Saludos Apollo.=Esta es la isla   =de ~FC~#039
+;00000027{~F0~~F2~Our leader,=Queen ~FC~}#033#021
+~F0~~F2~La líder,  =Reina ~FC~#021
+;0000003C{ is=captured at the~F0~~F2~mechanic castle=on this island.~FC~}#068#053
+ está=capturada en el~F0~~F2~castillo mecánico=de la isla.~FC~#053
+;00000071{an attack=item, ~FC~}#023#017
+ítem de=ataque, ~FC~#017
+;00000082{This is the=Treasure boz room!=Drop the Treasure~F0~~F2~boz by hitting the=ghost with your=head.~FC~}#112#091
+¡Es la sala de la=Caja de Tesoro!=Suelta las cajas ~F0~~F2~
+golpeando al =fantasma con tu=cabeza.~FC~#091
+;0001261E{70~1B~~FC~}#010#004
+70~1B~~FC~#004
+;00012622{40~1B~~FC~}#010#004
+40~1B~~FC~#004
+;00012626{20~1B~~FC~}#010#004
+20~1B~~FC~#004
+;0001262A{Morry! Empty!~FC~}#017#014
+¡Está vacío! ~FC~#014
+;000000F7{Hi Apollo.=I'll give you=~FC~}#035#026
+Hola Apollo. =Te daré un=~FC~#026
+;00000111{ attack item~FC~}#016#013
+ ítem ataque~FC~#013
+;0000011E{ magic item~FC~}#015#012
+ ítem magia~FC~#012
+;0000012A{a magic item,=~FC~}#021#015
+ítem mágico, =~FC~#015
+;00000139{Welcome!=You must=beat me=if you want a=~FC~}#056#041
+¡Saludos!=Debes=vencerme si=quieres una=~FC~#041
+;00000162{Good!=Here is the=~FC~}#028#019
+¡Bien!=Esta es la=~FC~#019
+;00000175{~FD~0You already=have a FORCE=STAR.~F0~~F3~}#049#034
+~FD~0Ya tienes una=ESTRELLA=FUERZA.~F0~~F3~#034
+;00000197{Welcome!=You can power~67~up^~F0~~F2~~F7~your weapon=for ~FC~}#070#046
+¡Bienvenido! =Puedes mejorar ^~F0~~F2~~F7~tu arma=por ~FC~#046
+;00012706{~FC~}#004#001
+~FC~#001
+;00012707{~F7~Winner! 100~1B~^~FC~}#024#015
+~F7~¡Ganas! 100~1B~^~FC~#015
+;000001D5{~F7~Almost! 50~1B~^~FC~}#026#014
+~F7~¡Casi! 50~1B~ ^~FC~#014
+;000001E3{~F7~No luck!30~1B~^~FC~}#026#014
+~F7~¡Ooooh! 30~1B~^~FC~#014
+;000001F1{Bye bye!~FC~}#012#009
+¡Adiós! ~FC~#009
+;0001273B{~FC~}#004#001
+~FC~#001
+;0001273C{Help me!= =  ~FC~}#017#014
+¡Ayuda! = =  ~FC~#014
+;0001274A{Thank you Apollo.=Please accept ~FC~}#036#033
+Gracias Apollo.   =Acepta estos ~FC~#033
+;0001276B{Thank you Apollo.=You brought peace=back to my island.^~FE~~ED~~F2~~F7~Please take my=CYBORG RIDER to=~FC~}#106#091
+Gracias Apollo.   =Trajiste la paz de=vuelta a mi isla. ^~FE~~ED~~F2~~F7~Toma mi MONTURA   =CÍBORG a =~FC~#091
+;000127C6{Good luck!~FC~}#014#011
+¡Suerte!  ~FC~#011
+;000127D1{~FC~}#004#001
+~FC~#001
+;000127D2{~FC~}#004#001
+~FC~#001
+;000127D3{~F7~Not enough ~1B~.^~F0~~F3~}#029#017
+~F7~Te faltan ~1B~. ^~F0~~F3~#017
+;000127E4{~F7~Thank you!^~FC~}#019#013
+~F7~¡Gracias! ^~FC~#013
+;000127F1{~F7~Good luck!^~F0~~F3~}#023#014
+~F7~¡Suerte!  ^~F0~~F3~#014
+;000127FF{Hi Apollo.=Vor ~FC~}#019#016
+Eh Apollo.=Por ~FC~#016
+;0001280F{, I'll=fill up your=energy level.=~FC~}#038#035
+,=llenaré tu =nivel de  =energía. ~FC~#035
+;00012832{Thank you!~F6~~FC~}#018#012
+¡Gracias! ~F6~~FC~#012
+;000002FD{Please come=again!~FC~}#025#019
+¡Vuelve otra=vez! ~FC~#019
+;00012851{Welcome to=the item shop=What would=you like to=buy?^~FC~}#060#054
+Esta es la=tienda de=ítems.=Elige que te=interesa.  ^~FC~#054
+;00000346{=    YES    No~FC~}#021#015
+=    Sí     No~FC~#015
+;00012896{~FC~}#004#001
+~FC~#001
+;00012897{~FC~}#004#001
+~FC~#001
+;00012898{~FC~}#004#001
+~FC~#001
+;00012899{~F7~Good luck,=Take this 20~1B~.~FC~}#036#027
+~F7~Suerte,  =Toma estos 20~1B~.~FC~#027
+;000128B4{~FC~}#004#001
+~FC~#001
+;000128B5{~FC~}#004#001
+~FC~#001
+;000128B6{Hi Apollo.=I can give you=some imformation^~F0~~F2~~F7~for 20~1B~^=~FC~}#071#056
+Eh Apollo.=Puedo darte algo=de información^~F0~~F2~~F7~por 20~1B~^=~FC~#056
+;000128EE{    YEM    No~FC~}#017#014
+    Sí     No~FC~#014
+;000003BB{Bye bye.~FC~}#012#009
+Adiós.  ~FC~#009
+;00012905{~FC~}#004#001
+~FC~#001
+;00012906{~FC~}#004#001
+~FC~#001
+;00012907{~FC~}#004#001
+~FC~#001
+;00012908{~FC~}#004#001
+~FC~#001
+;00012909{~FC~}#004#001
+~FC~#001
+;0001290A{~FC~}#004#001
+~FC~#001
+;0001290B{= TYPHOON   80~FC~}#018#015
+= TIFÓN     80~FC~#015
+;000003D9{ HAND BEAM ~FC~}#015#012
+ RAYO MANO ~FC~#012
+;000003E5{= 45B BALL  ~FC~}#019#013
+= BOLA 45G  ~FC~#013
+;000003F2{= WAVE BALL ~FC~}#019#013
+= BOLA ONDA ~FC~#013
+;000003FF{= MOON BALL 70~FC~}#021#015
+= BOLA LUNA 70~FC~#015
+;0000040E{ LASER     90~FC~}#017#014
+ LÁSER     90~FC~#014
+;0000041C{ FOOT WING 30~FC~}#017#014
+ ALA PIE   30~FC~#014
+;0000042A{= MIRROR    50~FC~}#021#015
+= ESPEJO    50~FC~#015
+;0001297A{~F7~You will need 20~1B~=to get into the=mobile armor at^~F0~~F2~~F7~the hangar.^~FC~}#085#067
+~F7~Necesitarás 20~1B~=para entrar en la=armadura móvil del^~F0~~F2~~F7~hangar. ^~FC~#067
+;0000047C{~F7~Boss's weakness is=its forehead.^~FC~}#047#035
+~F7~El jefe es débil=en su frente.  ^~FC~#035
+;000129E0{ YEM= No~FC~}#012#009
+ Sí = No~FC~#009
+;000129E9{~F7~Boss's weakness is=its eye.^~FC~}#036#030
+~F7~El jefe tiene el=ojo débil.^~FC~#030
+;000004C6{~F7~Look out for the=red rain in this=castle.^~FC~}#059#044
+~F7~Cuidado con la =lluvia roja del=castillo.^~FC~#044
+;000004F2{~F7~Boss's weakness is=its face.^~FC~}#043#031
+~F7~El jefe es débil=en la cara.^~FC~#031
+;00000511{~F7~Boss's weakness is=its tail.^~FC~}#043#031
+~F7~El jefe tiene=débil la cola.^~FC~#031
+;00000530{~F7~Boss's weakness is=its throat.^~FC~}#045#033
+~F7~El jefe es de =garganta débil.^~FC~#033
+;00000551{~F7~The battle soldier=who collects five=FORCE STARs will^~F0~~F2~~F7~have the strength=to battle in space^~FC~}#126#096
+~F7~El soldado de   =batalla que recoja=5 ESTRELLAS FUERZA^~F0~~F2~~F7~podrá luchar en el=espacio.        ^~FC~#096
+;000005B1{~F7~Queen Maria Star=is captured at the=Goruza castle^~F0~~F2~~F7~which is just a=few steps ahead.^~FC~}#118#088
+~F7~La Reina Maria=Star está presa en=en el castillo^~F0~~F2~~F7~Goruza que está   =cerca de aquí.^~FC~#088
+;00012B4A{~F7~You can get into=Goruza castle if=you have five^~F0~~F2~~F7~VORCE MTARs.=Goruza castle is=twice as big as^~F0~~F2~~F7~the other=mechanical castles=Be careful!^~FC~}#167#143
+~F7~Puedes entrar en=Goruza si tienes 5=ESTRELLAS FUERZA.^~F0~~F2~~F7~
+El castillo es el=doble de grande=que los otros^~F0~~F2~~F7~
+castillos=mecánicos.=¡Cuidado!  ^~FC~#143
+;00000698{~F7~You will need 50~1B~=to get into the=mobile armor at^~F0~~F2~~F7~the hangar.^~FC~}#097#067
+~F7~Necesitarás 50~1B~=para entrar en la=armadura móvil del^~F0~~F2~~F7~hangar. ^~FC~#067
+;000006DB{~F7~You must beat all=three guards in=order to advance^~F0~~F2~~F7~to the boss's room^~FC~}#102#075
+~F7~Debes vencer a los=tres guardias para=avanzar a la sala^~F0~~F2~~F7~del jefe.    ^~FC~#075
+;00000726{FORCE STAR.~FC~}#015#012
+EST.FUERZA.~FC~#012
+;00012C73{~FC~}#004#001
+~FC~#001
+;00012C74{~FC~}#004#001
+~FC~#001
+;00012C75{Good luck!~FC~}#014#011
+Suerte!   ~FC~#011
+;00012C80{~F7~Jump high and=go through=the air~67~well to^~F0~~F2~~F7~the upper floors.^~FC~}#082#064
+~F7~Salta alto y ve=por la ventilación=a plantas ^~F0~~F2~~F7~superiores. ^~FC~#064
+;0000077F{~F7~Thanks! Take care!~FC~}#026#020
+~F7~¡Gracias, cuídate!~FC~#020
+;00000793{~F7~Sorry, you don't=have enough ~1B~.^~F0~~F3~}#053#035
+~F7~Perdona, pero te=faltan ~1B~.     ^~F0~~F3~#035
+;000007B6{~FD~0Good luck!~F0~~F3~}#023#014
+~FD~0¡Suerte!  ~F0~~F3~#014
+|1988
+@00012E08-000136EC-FC-F3
+;00012E08{ruins./1Cecile/2~F0~~F3~}#024#018
+ruina./1Cecile/2~F0~~F3~#018
+;00000012{~FD~1/4~E6~q~E0~2~FD~1/~15~~E6~a~F3~}#042#015
+~FD~1/4~E6~q~E0~2~FD~1/~15~~E6~a~F3~#015
+;00000021{~FD~1/5~E7~g~F0~~F3~}#023#008
+~FD~1/5~E7~g~F0~~F3~#008
+;00000029{~FD~1/6~E7~`~F0~~F3~}#023#008
+~FD~1/6~E7~`~F0~~F3~#008
+;00000031{~FD~1/7~E7~~14~~F0~~F3~}#026#008
+~FD~1/7~E7~~14~~F0~~F3~#008
+;00000039{~FD~1/8~F0~~F3~}#018#006
+~FD~1/8~F0~~F3~#006
+;0000003F{~FD~0/9/3=45B BALL.~F0~~F4~21~F3~}#042#021
+~FD~0/9/3=BOLA 45G.~F0~~F4~21~F3~#021
+;00000054{~FD~1You must get a=FORCE STAR from=the devil in the~F0~~F2~hidden room to get=into the mechanic=castle.~F0~~F3~}#124#097
+~FD~1Debes coger la=ESTRELLA FUERZA=del demonio de la~F0~~F2~sala oculta para=entrar en el=castillo.    ~F0~~F3~#097
+;00012EBD{~FD~0/D/m~ED~~E0~0~FD~0/E/m~ED~~E4~~F8~~F3~}#043#019
+~FD~0/D/m~ED~~E0~0~FD~0/E/m~ED~~E4~~F8~~F3~#019
+;00012ED0{~FD~1~E2~~14~/~10~20~1B~^~F0~~F2~/~26~~F5~2~F2~~FA~~14~s~E5~~E1~~F2~~F9~r~1F~^~F0~~F3~}#086#029
+~FD~1~E2~~14~/~10~20~1B~^~F0~~F2~/~26~~F5~2~F2~~FA~~14~s~E5~~E1~~F2~~F9~r~1F~^~F0~~F3~#029
+;00012EED{~FD~1~E2~~14~Welcome! Bet 20~1B~=and win a box with=100~1B~.^~F0~~F2~=    PLAY   No~F5~6~F2~~FA~~14~~1D~~E5~~F2~~E8~~F5~0~F2~/~12~~E7~-~F0~~F3~}#143#080
+~FD~1~E2~~14~¡Hola! Pon 20~1B~ y=gana una caja con =100~1B~.^~F0~~F2~=
+    Jugar  No~F5~6~F2~~FA~~14~~1D~~E5~~F2~~E8~~F5~0~F2~/~12~~E7~-~F0~~F3~#080
+;00012F3D{0~F2~/~13~~E7~S~F0~~F3~}#023#008
+0~F2~/~13~~E7~S~F0~~F3~#008
+;00012F45{0~F2~/~14~~E7~~1E~~F0~~F3~}#026#008
+0~F2~/~14~~E7~~1E~~F0~~F3~#008
+;00012F4D{0~F9~~15~~15~~F0~~F3~}#021#006
+0~F9~~15~~15~~F0~~F3~#006
+;00012F53{~FD~1By shooting the=right stone carved=with star 5 times,~F0~~F2~A hidden door will=appear.~F0~~F3~}#100#085
+~FD~1
+Disparando a la=piedra con      =estrella 5 veces,~F0~~F2~aparecerá una=puerta secreta.~F0~~F3~#085
+;00012FA8{~FD~1/~17~~E0~1~E6~a~FD~1/~18~40~1B~.~E7~`~F0~~F2~/~1A~~F0~~F3~}#063#024
+~FD~1/~17~~E0~1~E6~a~FD~1/~18~40~1B~.~E7~`~F0~~F2~/~1A~~F0~~F3~#024
+;00012FC0{~FD~0/9/CVOOT WING.~F0~~F4~31~F3~}#033#021
+~FD~0/9/CALA PIE.  ~F0~~F4~31~F3~#021
+;00012FD5{~FD~0~E2~W/~20~60~1B~/~21~~F0~~F2~/b~F5~3~F2~~FA~W~1D~~E5~~F2~~F9~~23~~24~~ED~~F3~}#082#028
+~FD~0~E2~W/~20~60~1B~/~21~~F0~~F2~/b~F5~3~F2~~FA~W~1D~~E5~~F2~~F9~~23~~24~~ED~~F3~#028
+;00012FF1{~FD~1Momewhere in the=mechanic castle,=the phantom of~F0~~F2~King Xeu Mtar is=waiting for you.~F0~~F3~}#102#087
+~FD~1
+En algún lugar  =del castillo,  =te espera el   ~F0~~F2~fantasma del Rey=Xeu Star.       ~F0~~F3~#087
+;00013048{~FD~1/~2A~^~E7~~14~~F0~~F3~}#027#009
+~FD~1/~2A~^~E7~~14~~F0~~F3~#009
+;00013051{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~ZK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~ZK~F0~~F3~#020
+;00013065{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~qK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~qK~F0~~F3~#020
+;00013079{~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/M20/T30~F5~3~14~1~1E~2~F9~~1E~~1D~~F0~~F3~}#072#033
+~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/M20/T30~F5~3~14~1~1E~2~F9~~1E~~1D~~F0~~F3~#033
+;0001309A{~EF~~F2~/X~F5~2~1E~3~F9~~1E~~1D~~F0~~F3~}#040#013
+~EF~~F2~/X~F5~2~1E~3~F9~~1E~~1D~~F0~~F3~#013
+;000130A7{~FD~1Welcome Apollo=I appreciate your=courage.^~ED~~F2~~FE~~F7~Ride this flying=saucer to=boss's room.^~ED~~F3~}#111#090
+~FD~1
+Saludos Apollo.=Aprecio tu coraje.=Monta en este^~ED~~F2~~FE~~F7~platillo a la sala=del jefe.=   ^~ED~~F3~#090
+;00013101{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~aK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~aK~F0~~F3~#020
+;00013115{~EB~~FD~1/~19~the next area.^~ED~~F2~~F7~/~1A~^~ED~~F3~}#055#028
+~EB~~FD~1/~19~la próx. zona.^~ED~~F2~~F7~/~1A~^~ED~~F3~#028
+;00013131{~FD~1/0the forest./1Emilia/2~F0~~F3~}#036#027
+~FD~1/0bosques.   /1Emilia/2~F0~~F3~#027
+;0001314C{~FD~0/9/3=WAFE BALL.~F0~~F4~51~F3~}#034#022
+~FD~0/9/3=BOLA ONDA.~F0~~F4~51~F3~#022
+;00013162{~E6~~D0~~FD~0Thank you=Apollo.=You gave me=a new life.~ED~~F2~Please take=50~1B~ for=your help.~E7~S~ED~~F3~}#108#081
+~E6~~D0~~FD~0Gracias=Apollo.   =Me diste una=nueva vida.=~ED~~F2~Toma=50~1B~ para=que te ayude.~E7~S~ED~~F3~#081
+;000131B3{~FD~1The fairies of hot=springs on this=island were all~F0~~F2~frozen by Goruza.=Please bring them=back to life.~F0~~F3~}#120#105
+~FD~1Goruza congeló las=aguas termales de=las hadas de esta~F0~~F2~isla.      =Por favor=devuélvelas a la~F0~~F2~vida.~F0~~F3~#105
+;0001321C{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~cK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~cK~F0~~F3~#020
+;00013230{~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/M30/T40/U50~F5~4~1E~1`2S5~F9~~1E~~1D~~F0~~F3~}#075#039
+~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/M30/T40/U50~F5~4~1E~1`2S5~F9~~1E~~1D~~F0~~F3~#039
+;00013257{~EF~~F2~/X~F5~2~1E~3~F9~~1E~~1D~~F0~~F3~}#040#013
+~EF~~F2~/X~F5~2~1E~3~F9~~1E~~1D~~F0~~F3~#013
+;00013264{~FD~1/0the crystal./1Sary/2~F0~~F3~}#035#026
+~FD~1/0cristal.    /1Sary/2~F0~~F3~#026
+;0001327E{~FD~0/9/3=SOON BALL.~F0~~F4~41~F3~}#034#022
+~FD~0/9/3=BOLA LUNA.~F0~~F4~41~F3~#022
+;00013294{~FD~0/9/CSIRROR.~F0~~F4~61~F3~}#030#018
+~FD~0/9/CESPEJO.~F0~~F4~61~F3~#018
+;000132A6{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~dK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~dK~F0~~F3~#020
+;000132BA{~FD~0~E2~_/~20~90~1B~/~21~~F0~~F2~/b~F5~3~F2~~FA~_~1D~~E5~~F2~~F9~~23~~24~~ED~~F3~}#082#028
+~FD~0~E2~_/~20~90~1B~/~21~~F0~~F2~/b~F5~3~F2~~FA~_~1D~~E5~~F2~~F9~~23~~24~~ED~~F3~#028
+;000132D6{~FD~1~E2~`/~10~40~1B~^~F0~~F2~/~26~~F5~2~F2~~FA~`s~E5~~E1~~F2~~F9~r~1F~^~F0~~F3~}#080#029
+~FD~1~E2~`/~10~40~1B~^~F0~~F2~/~26~~F5~2~F2~~FA~`s~E5~~E1~~F2~~F9~r~1F~^~F0~~F3~#029
+;000132F3{~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/M40/T50/U60/F~F5~5`1S2W5g4~F9~~1E~~1D~~F0~~F3~}#076#043
+~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/M40/T50/U60/F~F5~5`1S2W5g4~F9~~1E~~1D~~F0~~F3~#043
+;0001331E{~EF~~F2~/X/Y~F5~3~1E~3S6~F9~~1E~~1D~~F0~~F3~}#044#017
+~EF~~F2~/X/Y~F5~3~1E~3S6~F9~~1E~~1D~~F0~~F3~#017
+;0001332F{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~eK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~eK~F0~~F3~#020
+;00013343{~FD~1/0the lake./1Helena/2~F0~~F3~}#034#025
+~FD~1/0lago.    /1Helena/2~F0~~F3~#025
+;0001335C{~FD~0/9/CTYPHOON.~F0~~F4~81~F2~You'll become=invincible=for 9 seconds~F0~~F3~}#077#059
+~FD~0/9/CTIFÓN.  ~F0~~F4~81~F2~Te volverás  =invencible 9=segundos.  ~F0~~F3~#059
+;00013397{~FD~1Queen Saria Mtar=is captured at the=Goruza castle on~F0~~F2~satellite orbit.~F0~~F3~}#089#074
+~FD~1La Reina Maria=Star está presa en=el castillo Goruza~F0~~F2~en órbita.      ~F0~~F3~#074
+;000133E1{~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/M40/T50/U60/F~F5~5`1S2W5g4~F9~~1E~~1D~~F0~~F3~}#076#043
+~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/M40/T50/U60/F~F5~5`1S2W5g4~F9~~1E~~1D~~F0~~F3~#043
+;0001340C{~EF~~F2~/X/Y/Q~F5~4~1E~3S6q8~F9~~1E~~1D~~F0~~F3~}#048#021
+~EF~~F2~/X/Y/Q~F5~4~1E~3S6q8~F9~~1E~~1D~~F0~~F3~#021
+;00013421{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~fK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~fK~F0~~F3~#020
+;00013435{~FD~1/0the volcano./1Esther/2~F0~~F3~}#037#028
+~FD~1/0volcán.     /1Esther/2~F0~~F3~#028
+;00013451{~FD~0/9/3LAMER.~F0~~F4~71~F3~}#029#017
+~FD~0/9/CLÁSER.~F0~~F4~71~F3~#017
+;00013462{~FD~1The enemy boss in=this area is FERY=TOUGH! Be careful.~F0~~F3~}#067#058
+~FD~1¡El jefe enemigo  =de esta zona es =MUY DURO! Cuidado.~F0~~F3~#058
+;0001349C{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~gK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~gK~F0~~F3~#020
+;000134B0{~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/W/T50/U60/F~F5~5_7S2W5g4~F9~~1E~~1D~~F0~~F3~}#074#041
+~FD~0/ ~F0~~F2~/A=/B~F5~3~F2~/W/T50/U60/F~F5~5_7S2W5g4~F9~~1E~~1D~~F0~~F3~#041
+;000134D9{~EF~~F2~/X/Y/Q~F5~4~1E~3S6q8~F9~~1E~~1D~~F0~~F3~}#048#021
+~EF~~F2~/X/Y/Q~F5~4~1E~3S6q8~F9~~1E~~1D~~F0~~F3~#021
+;000134EE{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~hK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~hK~F0~~F3~#020
+;00013502{~EB~~FD~1/~19~Goruza castle.^~ED~~F2~~F7~/~1A~^~ED~~F3~}#055#028
+~EB~~FD~1/~19~Castil.Goruza.^~ED~~F2~~F7~/~1A~^~ED~~F3~#028
+;0001351E{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~iK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~iK~F0~~F3~#020
+;00013532{~F3~}#004#001
+~F3~#001
+;00013533{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~jK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~jK~F0~~F3~#020
+;00013547{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~kK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~kK~F0~~F3~#020
+;0001355B{~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~lK~F0~~F3~}#056#020
+~FD~1~E2~~14~/I/J~F5~6~FA~~14~~1D~~E5~~F2~~F9~lK~F0~~F3~#020
+;0001356F{~FD~1Apollo, the time=has come.=You are finally^~ED~~F2~~F7~facing the big=boss, Goruza.=Goruza is in the^~ED~~F2~~F7~room ahead. Ride=this flying saucer=to get to him.~FE~^~ED~~F2~~F7~Good luck! and=Please save my=daughter.^~F0~~F3~}#233#194
+~FD~1
+Apollo, llegó la=hora.=Al fin vas a hacer^~ED~~F2~~F7~frente al gran=jefe, Goruza.=Goruza está en la^~ED~~F2~~F7~siguiente sala.=Monta el platillo =para llegar a él.~FE~^~ED~~F2~~F7~¡Suerte! Y por=favor salva a mi=hija.^~F0~~F3~#194
+;00013631{~EB~~FD~1Thank you Apollo=but your mission=has not been^~ED~~F2~~F7~completed until=you destroy=Goruza's fortress^~ED~~F2~~F7~which produces the=mechanic beasts.^~ED~~F2~~F7~Please take this=ship and destroy=the fortress.}#221#188
+~EB~~FD~1
+Gracias Apollo  =pero tu misión no=estará completa^~ED~~F2~~F7~hasta que  =destruyas la=fortaleza Goruza^~ED~~F2~~F7~que produce las =bestias mecánicas.^~ED~~F2~~F7~Monta en esta nave=y destruye la =fortaleza.   #188
+|2277
+@0001397F-000139BA-FC-F3
+;0001397F{     ~11~~11~ END ~11~~11~     ~11~~11~~11~~11~~11~~11~~11~~11~PREMENT VOR YOU!MECRET PAMM WO~23~D~AE~}#102#060
+     ~11~~11~ FIN ~11~~11~     ~11~~11~~11~~11~~11~~11~~11~~11~
+  ¡UN REGALO!   
+PASSWORD SECRETO~AE~#060
+|60

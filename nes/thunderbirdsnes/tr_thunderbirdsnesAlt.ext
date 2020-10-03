@@ -1,0 +1,414 @@
+@0001AF16-0001B015-FF
+;0001AF16{                SCOTT$          VIRGIL$         ALAN$           Gordon$         JOHN$           Thunderbird 1$  Thunderbird 2$  Thunderbird 3$  Thunderbird 4$  Thunderbird 5$  JET MOLE$       FIREFLY$        LASER CAR$      TUNNEL CAR$     FINAL MECH$     }#256#256
+                
+Scott$          
+Virgil$         
+Alan$           
+Gordon$         
+John$           
+Thunderbird 1$  
+Thunderbird 2$  
+Thunderbird 3$  
+Thunderbird 4$  
+Thunderbird 5$  
+Topo Jet$       
+Luciérnaga$     
+Coche Láser$    
+Coche Túnel$    
+Robot Final$    #256
+|256
+@0001B016-0001B440-FF
+;0001B016{%1Thunderbird 5/CALLING BASE. COME/IN, PLEASE. THUNDER-/BIRD BASE, COME IN.~FF~}#079#076
+%1
+Thunderbird 5/
+llamando a base./
+Adelante, por favor./
+Base Thunderbird.\   ~FF~#076
+;0001B062{%0Thunderbird BASE/HERE. WHAT'S YOUR/SITUATION, JOHN?~FF~}#057#054
+%0
+Aquí base/
+Thunderbird./
+¿Cual es tu/
+situación, John?~FF~#054
+;0001B098{%1Hood IS BACK, DAD./AND HE'S AS EVIL AS/EVER! SENDING A/VISUAL NOW.~FF~}#072#069
+%1
+Hood ha vuelto,/
+papá. ¡Tan malvado/
+como siempre!/
+Te envío visual.\~FF~#069
+;0001B0DD{%1LONG TIME NO SEE,/ThunderbirdS. HERE/ARE MY DEMANDS.~FF~}#058#055
+%1
+Cuanto tiempo,/
+Thunderbirds./
+Estas son mis/
+demandas.~FF~#055
+;0001B114{%1TURN OVER ALL YOUR/Thunderbird VEHICLES/TO ME. IF YOU DON'T/COMPLY WITHIN 60~FF~}#082#079
+%1
+Dadme todos vuestros/
+vehículos/
+Thunderbird./
+Si no lo cumplís en\            ~FF~#079
+;0001B163{%1DAYS FROM NOW, I'LL/BOMBARD THE EARTH/WITH METEORS. DON'T/TRY TO RESIST ME.~FF~}#081#078
+%1
+60 días, bombardearé/
+la tierra con/
+meteoritos./
+No os resistáis.\           ~FF~#078
+;0001B1B1{%1I'VE GOT A SOURCE/OF LIMITLESS POWER -/I CAN EASILY DESTROY/YOU ALL!~FF~}#074#071
+%1
+Tengo una fuente de/
+poder ilimitado -/
+¡Puedo destruiros/
+fácilmente! ~FF~#071
+;0001B1F8{%1WHAT SHOULD WE DO,/DAD? WE CAN'T JUST/LET HIM HAVE HIS/WAY!~FF~}#065#062
+%1
+¿Qué hacemos, papá?/
+¡No podemos dejar /
+que tenga éxito!\   ~FF~#062
+;0001B236{%0DR. BRAIN, CAN HE/MAKE GOOD ON THIS/INCREDIBLE THREAT?~FF~}#060#057
+%0
+Dr. Brain,/
+¿puede llevar a cabo/
+tan increíble/
+amenaza?~FF~#057
+;0001B26F{%0THEORETICALLY, YES,/WITH ENOUGH ENERGY./BUT HE'D NEED A LOT!~FF~}#066#063
+%0
+En teoría, sí, con/
+suficiente energía./
+¡Pero es un montón!\ ~FF~#063
+;0001B2AE{%0I DON'T KNOW OF ANY/ENERGY SOURCE STRONG/ENOUGH TO CONTROL/METEORS.~FF~}#073#070
+%0
+No conozco una/
+fuente de energía/
+que pueda controlar/
+meteoritos.\  ~FF~#070
+;0001B2F4{%0IT MAY BE THAT IT'LL/TAKE HIM THE WHOLE/60 DAYS TO PREPARE.~FF~}#065#062
+%0
+Puede que necesite/
+los 60 días para/
+prepararse.\           ~FF~#062
+;0001B332{%0BEFORE THEN, WE MUST/FIND HIS ENERGY/SOURCE AND DESTROY/IT!~FF~}#065#062
+%0
+Antes, ¡debemos/
+hallar su fuente de/
+energía y/
+destruirla!\ ~FF~#062
+;0001B370{%1I'M TRANSMITTING/MORE DATA. WE HAVE/TO DO SOMETHING!~FF~}#058#055
+%1
+Estoy transmitiendo/
+más datos./
+¡Debemos hacer algo!\~FF~#055
+;0001B3A7{~FF~}#004#001
+~FF~#001
+;0001B3A8{%0DR. BRAIN'S ANALYSIS/OF JOHN'S DATA HAS/IDENTIFIED THESE/POSSIBLE LOCATIONS.~FF~}#082#079
+%0
+El análisis del Dr./
+Brain de los datos/
+de John identificó/
+estas ubicaciones.~FF~#079
+;0001B3F7{%0SCOTT, CHOOSE ONE OF/THESE LOCATIONS,/CHECK IT OUT, AND/REPORT AT ONCE.~FF~}#077#074
+%0
+Scott, elige una de/
+estas ubicaciones,/
+compruébala,/
+e infórmanos.\     ~FF~#074
+|1067
+@0001B441-0001B850-FF
+;0001B441{%0WE THINK WE'VE FOUND/Hood'S BASE. IT MUST/BE DESTROYED, SCOTT.~FF~}#068#065
+%0
+Creemos haber/
+hallado la base de/
+Hood. Debe/
+destruirse, Scott.~FF~#065
+;0001B482{%0THE ENERGY IS COMING/FROM UNDERGROUND./ALAN, CHECK IT OUT/IN THE LASER CAR.~FF~}#081#078
+%0
+La energía viene del/
+subsuelo./
+Alan, compruébalo en/
+el Cocha Láser.\       ~FF~#078
+;0001B4D0{%0Hood'S SHIP IS AT/THE SUSPECTED ENERGY/SOURCE. VIRGIL, GET/IN THERE!~FF~}#074#071
+%0
+La nave de Hood está/
+en la fuente de/
+energía sospechosa./
+¡Ve Virgil!~FF~#071
+;0001B517{%0VIRGIL, IT LOOKS/LIKE Hood'S SHIP IS/TRANSMITTING ENERGY,/DESTROY IT AT ONCE!~FF~}#083#080
+%0
+Virgil, parece que/
+la nave de Hood/
+transmite energía,/
+¡destrúyela!\          ~FF~#080
+;0001B567{%0Gordon, INVESTIGATE/STRANGE EVENTS NEAR/WHERE VIRGIL DE-/STROYED THE SHIP.~FF~}#080#077
+%0
+Gordon, investiga/
+cosas extrañas cerca/
+de donde Virgil/
+destruyó la nave.\ ~FF~#077
+;0001B5B4{%0RADIATION HAS CAUSED/MUTATIONS IN THE/UNDERSEA CREATURES./Gordon, TAKE A LOOK.~FF~}#084#081
+%0
+La radiación causó/
+mutaciones en las/
+criaturas acuáticas./
+Gordon, ve a mirar.\~FF~#081
+;0001B605{%0THERE'S AN ACTIVE/VOLCANO AT ONE OF/THE ENERGY SITES. BE/CAREFUL, SCOTT.~FF~}#078#075
+%0
+Hay un volcán activo/
+en uno de los/
+lugares energéticos./
+Cuidado, Scott.\~FF~#075
+;0001B650{%0Hood'S TAPPING ENER-/GY FROM THE MOLTEN/CORE OF THE PLANET./STOP HIM, SCOTT!~FF~}#082#079
+%0
+¡Hood explota la/
+energía del núcleo/
+fundido del planeta./
+¡Párale, Scott!\   ~FF~#079
+;0001B69F{%0RADIATION HAS CAUSED/THE UNDERGROUND/CREATURES TO MUTATE./YOUR MISSION, ALAN.~FF~}#083#080
+%0
+Las criaturas del/
+subsuelo mutaron por/
+la radiación./
+Tu misión, Alan.\       ~FF~#080
+;0001B6EF{%0THE EARTH'S CRUST IS/UNSTABLE. Gordon, /TAKE THE FIREFLY AND/GET IN THERE!~FF~}#080#077
+%0
+La corteza terrestre/
+es inestable./
+Gordon, ¡toma la/
+Luciérnaga y entra!\  ~FF~#077
+;0001B73C{%0BE CAREFUL, SON.~FF~}#022#019
+%0
+Cuidado, hijo.\ ~FF~#019
+;0001B74F{%0SURE THING, DAD.~FF~}#022#019
+%0
+Claro, papá.\   ~FF~#019
+;0001B762{%1DAD, I'VE LOCATED/Hood'S BASE.~FF~}#036#033
+%1
+Papá,/
+ubiqué la base de/
+Hood.\~FF~#033
+;0001B783{%0GOOD WORK./ATTACK AND DESTROY./~FF~}#037#034
+%0
+Bien hecho./
+Ataca y destruye.\/~FF~#034
+;0001B7A5{%1DAD, Hood'S BASE IS/DESTROYED, BUT THE/ENERGY IS OUT OF/CONTROL!~FF~}#070#067
+%1
+Papá,/
+¡destruí la base de/
+Hood pero la energía/
+se descontroló!\ ~FF~#067
+;0001B7E8{%0RETURN TO BASE,/SCOTT. WE'LL SEND/THE LASER CAR IN.~FF~}#057#054
+%0
+Vuelve a la base,/
+Scott./
+Enviaremos al Coche/
+Láser.~FF~#054
+;0001B81E{%1DAD, I'VE DESTROYED/Hood'S ENERGY TRANS-/MITTER.~FF~}#054#051
+%1
+Papá,/
+destruí el/
+transmisor de /
+energía de Hood.~FF~#051
+|1040
+@0001B851-0001BC82-FF
+;0001B851{%0GOOD JOB, ALAN.~FF~}#021#018
+%0
+Muy bien, Alan.~FF~#018
+;0001B863{%1Hood'S SHIP IS/DESTROYED, DAD. BUT/SOMETHING WEIRD'S/GOING ON IN THE SEA!~FF~}#079#076
+%1
+La nave de Hood fue/
+destruída, papá./
+¡Pero pasa algo raro/
+en el mar!\    ~FF~#076
+;0001B8AF{%0OKAY, VIRGIL./WE'LL INVESTIGATE.~FF~}#038#035
+%0
+Vale, Virgil./Investigaremos.\  ~FF~#035
+;0001B8D2{%1DAD, Hood'S SHIP IS/TRANSMITTING ENERGY!~FF~}#046#043
+%1
+Papá,/
+¡la nave de Hood/
+manda energía!\  ~FF~#043
+;0001B8FD{%0THANKS, VIRGIL./THERE MUST BE A/RADIATION LEAK./COME ON BACK.~FF~}#067#064
+%0
+Gracias Virgil./
+Debe haber una fuga/
+radioactiva./
+Vuelve.\    ~FF~#064
+;0001B93D{%1DAD, THERE'S BEEN/RADIATION LEAKAGE/AND ALL THE LIFE/FORMS HAVE GROWN!~FF~}#076#073
+%1
+Papá, ¡ha habido una/
+fuga de radiación y/
+toda la vida ha/
+crecido!\    ~FF~#073
+;0001B986{%0THANKS, Gordon.~FF~}#021#018
+%0
+Gracias Gordon.~FF~#018
+;0001B998{%1DAD, I'VE STOPPED/THE MUTATIONS.~FF~}#038#035
+%1
+Papá,/
+he parado las/
+mutaciones.\~FF~#035
+;0001B9BB{%0JOB WELL DONE,/Gordon.~FF~}#028#025
+%0
+Buen trabajo,/Gordon.\~FF~#025
+;0001B9D4{%1DAD, THERE'S A CRACK/IN THE EARTH. THE/LIFE FORMS HAVE MU-/TATED AND GONE MAD!~FF~}#084#081
+%1
+Papá, ¡hay una/
+grieta en la tierra./
+¡La vida ha mutado y/
+enloquecido!\        ~FF~#081
+;0001BA25{%0OKAY. CONTINUE/INVESTIGATION.~FF~}#035#032
+%0
+Vale./
+Sigue/
+investigándolo.  ~FF~#032
+;0001BA45{%1DAD, CRUSTAL MOVE-/MENT IS TAKING/PLACE. THE SHOCK-/WAVES ARE IMMENSE!~FF~}#076#073
+%1
+Papá, se mueve la/
+corteza terrestre./
+¡Las ondas de choque/
+son enormes!~FF~#073
+;0001BA8E{%0OKAY, SCOTT. I'M/SENDING Gordon IN/FIREFLY.~FF~}#049#046
+%0
+Vale, Scott./
+Envío a Gordon en/
+Luciérnaga.\~FF~#046
+;0001BABC{%1DAD, THE MUTATED/CREATURES SEEM TO BE/THE SOURCE OF THE/TRANSMITTED ENERGY!~FF~}#081#078
+%1
+Papá, ¡las criaturas/
+mutadas parecen ser/
+la fuente de/
+energía!\            ~FF~#078
+;0001BB0A{%0THANKS, ALAN./GOOD JOB.~FF~}#029#026
+%0
+Gracias Alan./
+Muy bien.~FF~#026
+;0001BB24{%1DAD, WHEN I DE-/STROYED THE MUTA-/TIONS, THE CRUSTAL/MOTION CEASED.~FF~}#073#070
+%1
+Papá, cuando destruí/
+las mutaciones,/
+la corteza cesó su/
+movimiento.~FF~#070
+;0001BB6A{%0THANKS, Gordon./WELL DONE.~FF~}#032#029
+%0
+Gracias Gordon./Muy bien.\~FF~#029
+;0001BB87{%0ARE YOU ALL RIGHT,/*S~01~? IT'LL TAKE/THREE DAYS TO REPAIR/*T~01~.~FF~}#072#063
+%0
+¿Estás bien, *S~01~?/
+Llevará tres días/
+repararlo *T~01~.\         ~FF~#063
+;0001BBC6{%1OKAY, DR. BRAIN./PLEASE MAKE THE/REPAIRS AT ONCE.~FF~}#055#052
+%1
+Vale, Dr. Brain./
+Por favor haga las/
+reparaciones.~FF~#052
+;0001BBFA{%0*S~01~, I'M GLAD/YOU'RE SAFE. BUT/TAKE BETTER CARE OF/YOUR SHIP, WILL YA?~FF~}#079#073
+%0
+*S~01~, me alegra/
+que estés bien./
+Pero cuida mejor tu/
+nave, ¿vale?\      ~FF~#073
+;0001BC43{%0WELL DONE, THUNDER-/BIRDS. Hood'S ENERGY/SOURCE IS DESTROYED.~FF~}#067#064
+%0
+Bien hecho,/
+Thunderbirds./
+Destruisteis la/
+energía de Hood.\  ~FF~#064
+|1074
+@0001BC83-0001BEC0-FF
+;0001BC83{%0THE METEORS NO/LONGER ENDANGER THE/EARTH.~FF~}#047#044
+%0
+Los meteoritos ya no/
+amenazan la tierra.\~FF~#044
+;0001BCAF{%1Thunderbird 5 TO/BASE. COME IN,/PLEASE.~FF~}#045#042
+%1
+Thunderbird 5 a/
+base./
+Adelante, base.\ ~FF~#042
+;0001BCD9{%0Thunderbird BASE/HERE. REPORT,/PLEASE, JOHN.~FF~}#050#047
+%0
+Aquí base/
+Thunderbird./
+Informe, John.\      ~FF~#047
+;0001BD08{%1Hood HAS YET ANOTHER/ENERGY TRANSMITTER/IN SPACE. HE'S/GATHERING METEORS.~FF~}#079#076
+%1
+Hay otro transmisor/
+de energía de Hood/
+en el espacio./
+Reúne meteoritos.\ ~FF~#076
+;0001BD54{%0UNDERSTOOD. ALAN,/TAKE Thunderbird 3.~FF~}#043#040
+%0
+Entendido./
+Alan,/
+al Thunderbird 3.\  ~FF~#040
+;0001BD7C{%0OKAY, DAD.~FF~}#016#013
+%0
+OK, papá.\~FF~#013
+;0001BD89{%1ThunderbirdS, YOUR/TIME IS UP. I TOLD/YOU I'D BEAT YOU!~FF~}#061#058
+%1
+Thunderbirds,/
+se os acabó el/
+tiempo./
+¡Os golpearé!\    ~FF~#058
+;0001BDC3{%0Hood, WE SURRENDER./WE'LL TURN OVER THE/SHIPS. JUST DON'T/BOMBARD THE EARTH.~FF~}#082#079
+%0
+Hood, nos rendimos./
+Te damos la naves. /
+Pero no bombardees/
+la tierra.\      ~FF~#079
+;0001BE12{%1YOUR FUTILE ATTEMPTS/TO OPPOSE ME HAVE/ANGERED ME.~FF~}#056#053
+%1
+Vuestros inútiles/
+intentos me han/
+enfadado.\      ~FF~#053
+;0001BE47{%1I THINK I'LL SEND/THE METEORS DOWN/AFTER ALL!~FF~}#051#048
+%1
+¡Creo que enviaré/
+los meteoritos/
+igualmente!\~FF~#048
+;0001BE77{%0YOU'RE HEARTLESS AND/EVIL, Hood!~FF~}#038#035
+%0
+¡No tienes corazón,/
+Hood!\      ~FF~#035
+;0001BE9A{%1HA HA HA HA HA!/THIS WILL TEACH YOU!~FF~}#042#039
+%1¡JA JA JA JA!/¡Esto os enseñará!\   ~FF~#039
+|574
+@0001F186-0001F3DD-FF
+;0001F186{%1THIS IS Thunderbird/3. Thunderbird BASE,/COME IN.~FF~}#055#052
+%1
+Aquí Thunderbird 3./
+Base Thunderbird,/
+adelante.\ ~FF~#052
+;0001F1BA{%0THIS IS Thunderbird/BASE. WELL DONE,/ALAN.~FF~}#048#045
+%0
+Aquí la base/
+Thunderbird./
+Muy bien, Alan.\~FF~#045
+;0001F1E7{%0WELL DONE, THUNDER-/BIRDS! Hood'S EVIL/PLAN HAS BEEN/THWARTED!~FF~}#068#065
+%0
+¡Bien, Thunderbirds!/
+¡Frustrasteis el/
+malvado plan de/
+Hood!\  ~FF~#065
+;0001F228{%1WE DID IT, DAD!~FF~}#021#018
+%1¡Bien, papá!\  ~FF~#018
+;0001F23A{%1CURSES ON YOU, THUN-/DERBIRDS! I'LL GET/REVENGE SOMEDAY···~FF~}#073#061
+%1
+¡Yo os maldigo,/
+Thunderbirds!/
+Conseguiré mi/
+venganza···\  ~FF~#061
+;0001F277{    -PRODUCT STAFF-         /   PRODUCER: JUNICHI NAGAI. /GAME DESIGN: KOUJI ISODA.   /    PROGRAM: TOHRU MIYAZAWA./    GRAPHIC: KOUJI ISODA.   /      MUSIC: JUNICHI SAITO. /      MUSIC: MASAKI IWAMOTO./      MUSIC: HITOSHI SAITO. /     -ThunderbirdS-         /        PRODUCED            /  PACK-IN-VIDEO CO.,LTD.    /         1989.              /~FF~}#352#349
+     -EQUIPO PRODUCTO-      /
+  PRODUCTOR: JUNICHI NAGAI. /
+  DISEÑADOR: KOUJI ISODA.   /
+PROGRAMADOR: TOHRU MIYAZAWA./
+   GRÁFICOS: KOUJI ISODA.   /
+     MÚSICA: JUNICHI SAITO. /
+     MÚSICA: MASAKI IWAMOTO./
+     MÚSICA: HITOSHI SAITO. /
+     -THUNDERBIRDS-         /
+        PRODUCE             /
+  PACK-IN-VIDEO CO.,LTD.    /
+         1989.              /~FF~#349
+;0001F3D4{GAME OVER~FF~}#013#010
+FIN JUEGO~FF~#010
+|600

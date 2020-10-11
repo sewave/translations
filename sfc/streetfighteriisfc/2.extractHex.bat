@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Street Fighter II (USA).sfc"
+set SCRIPTNAME="streetfighteriisfc"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 79700:100,79900:400,795C0:40,7A4C0:400,7B180:100,A9880:40,A99D0:40,A9BF0:40,AB020:40,AAF80:60,AB100:A0,AABC0:80,A9BD0:20
+pause

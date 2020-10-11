@@ -1,0 +1,574 @@
+@000009CD-000009DD-FF
+;000009CD{ENDCONTINUECREDIT}#017#017
+FIN
+CONTINÚA
+CRÉD{IT}O#017
+|17
+@00000AEA-00000AED-FF
+;00000AEA{LIFE}#004#004
+VIDA#004
+|4
+@00005223-00005226-FF
+;00005223{LIFE}#004#004
+VIDA#004
+|4
+@00005286-00005292-FF
+;00005286{GAME PAUSED  }#013#013
+     PAUSA   #013
+|13
+@000076DC-00007727-FF
+;000076DC{1989 TAITO AMERICA CORP.LICENSED BYNINTENDO OF AMERICA INC.PUSH START BUTTON}#076#076
+1989 TAITO AMÉRICA CORP.
+LICENCIA DE
+NINTENDO DE AMÉRICA INC.
+PULSA BOTÓN START#076
+|76
+@0001438A-000143AB-FF
+;0001438A{PART BONUS POINTSHELP  POINTSTOTAL}#034#034
+PARTE
+PUNTOS BONO 
+PUNTOS AYUDA
+TOTAL#034
+|34
+@00014754-000147BC-FA
+;00014754{You~FA~}#007#004
+que~FA~#004
+;00014758{you~FA~}#007#004
+el ~FA~#004
+;0001475C{know~FA~}#008#005
+Arte~FA~#005
+;00014761{the~FA~}#007#004
+con~FA~#004
+;00014765{Manta~FA~}#009#006
+Manta~FA~#006
+;0001476B{There~FA~}#009#006
+Negra~FA~#006
+;00014771{I don't~FA~}#011#008
+oculta$~FA~#008
+;00014779{*~FA~}#005#002
+*~FA~#002
+;0001477B{*~FA~}#005#002
+*~FA~#002
+;0001477D{*~FA~}#005#002
+*~FA~#002
+;0001477F{*~FA~}#005#002
+*~FA~#002
+;00014781{*~FA~}#005#002
+*~FA~#002
+;00014783{*~FA~}#005#002
+*~FA~#002
+;00014785{*~FA~}#005#002
+*~FA~#002
+;00014787{*~FA~}#005#002
+*~FA~#002
+;00014789{*~FA~}#005#002
+*~FA~#002
+;0001478B{*~FA~}#005#002
+*~FA~#002
+;0001478D{*~FA~}#005#002
+*~FA~#002
+;0001478F{*~FA~}#005#002
+*~FA~#002
+;00014791{*~FA~}#005#002
+*~FA~#002
+;00014793{*~FA~}#005#002
+*~FA~#002
+;00014795{*~FA~}#005#002
+*~FA~#002
+;00014797{*~FA~}#005#002
+*~FA~#002
+;00014799{*~FA~}#005#002
+*~FA~#002
+;0001479B{*~FA~}#005#002
+*~FA~#002
+;0001479D{*~FA~}#005#002
+*~FA~#002
+;0001479F{*~FA~}#005#002
+*~FA~#002
+;000147A1{*~FA~}#005#002
+*~FA~#002
+;000147A3{*~FA~}#005#002
+*~FA~#002
+;000147A5{*~FA~}#005#002
+*~FA~#002
+;000147A7{*~FA~}#005#002
+*~FA~#002
+;000147A9{*~FA~}#005#002
+*~FA~#002
+;000147AB{*~FA~}#005#002
+*~FA~#002
+;000147AD{*~FA~}#005#002
+*~FA~#002
+;000147AF{*~FA~}#005#002
+*~FA~#002
+;000147B1{*~FA~}#005#002
+*~FA~#002
+;000147B3{*~FA~}#005#002
+*~FA~#002
+;000147B5{*~FA~}#005#002
+*~FA~#002
+;000147B7{*~FA~}#005#002
+*~FA~#002
+;000147B9{*~FA~}#005#002
+*~FA~#002
+;000147BB{*~FA~}#005#002
+*~FA~#002
+|105
+@000147BD-00014BC7-FF
+;000147BD{]Hey! Watch it!^[%{You}'re involved in %{the}=kidnappings, aren't %{you}?^]%{I don't} %{know} what %{you}'re=talking about.^[%{I don't} want to hurt=%{you}....^]OK,..I helped in %{the}=kidnappings.^[What are %{the}se=kidnappings all about?^]%{I don't} %{know}.  I just=follow orders.~FF~}#261#222
+]
+¡Eh! ¡Cuidado!^[
+Estás involucrado en los=raptos, ¿verdad?^]
+No se de lo que estás=hablando.^[
+No quiero hacerte=daño...^]
+Vale...=Ayudé con los=secuestros.^[
+¿De qué van todos esos=secuestros? ^]
+No lo sé.=Solo sigo órdenes. ~FF~#222
+;0001489B{]Hey! Let go of me!^[Come now. Be a good boy.=%{I don't} want to hurt %{you}=Tell me who's in charge=of %{the} kidnappings?^]%{I don't} %{know}, but it's a=pretty big organization.^[What's %{the} name of this=organization?^]%{I don't} %{know}! I just do=what I'm told!~FF~}#250#223
+]
+¡Eh! ¡Déjame ir!^[
+Vamos. Se un buen chico.=
+No quiero hacerte daño.=Dime quién está a cargo=de los raptos.^]
+No lo sé,=pero es una organización=muy grande.^[
+¿Cómo se llama esa=organización?^]
+¡No lo sé!=¡Hago lo %{que} me dicen!~FF~#223
+;0001497A{]Hey, what %{the}.... oh=%{you}'re %{the}  Black %{Manta}=aren't %{you}?^[That's right. Tell me=what %{you} %{know}! %{I don't}=want to have to hurt %{you}^]%{You} don't scare me! I'm=not telling %{you} anything^[Maybe you'd rather=do your talking to=the police commissioner?^]OK, we're initiating=kids into our drug cult.=We brainwash'em and=turn'em into dope^dealers. They set up %{the}=buys, we make %{the} bucks.^[%{You} guys are scum! %{You}=don't %{know} what %{you}'re=messing with! Drugs kill=%{You} think %{you}'re cool^but %{you}'re not. %{You}'re=just plain dumb!~FF~}#549#483
+]
+Eh, pero qué...=Oh, eres la %{Manta} %{Negra},=¿verdad?^[
+Eso es.=¡Dime lo que sabes!=No quiero tener que=hacerte daño.^]
+¡No me das miedo!=No voy a decirte nada. ^[
+¿Quizá prefieras hablar=con el comisario de=policía?^]
+Vale, iniciamos a los=niños en nuestro culto=de la droga.^
+Les lavamos el cerebro y=les transformamos en=traficantes.^
+Ellos venden,=nosotros ganamos pasta.^[
+¡Sois escoria!=¡No sabéis con qué=estáis jugando!^
+Las drogas matan.=Creéis ser guais pero no=lo sois.=¡Solo sois tontos!~FF~#483
+;00014B5D{]Help!^[Who do %{you} report to?^]%{I don't} %{know}.  I've=never seen him.^[Why are %{you} kidnapping=kids?^]Business reasons.~FF~}#122#107
+]
+¡Ayuda!^[
+¿A quien le informas?^]
+No lo sé.=Nunca le he visto.^[
+¿Por qué raptáis niños?^]
+Por negocios.     ~FF~#107
+|1035
+@00014BC8-00015047-FF
+;00014BC8{]What %{the} heck?^[Tell me everything %{you}=%{know} and I'll go easy on=%{you}.^]We're taking over every=major drug operation in=%{the} world.~FF~}#142#124
+]¿Qué demonios?^[Dime todo lo que sabes=y no seré duro %{con}tigo.^]
+Estamos %{con}trolando toda=gran operación de drogas=del mundo.~FF~#124
+;00014C44{]Umph...^[So, what kind of=business are %{you} in?^]Our spies obtain=top-secret information=on each country's weak=points.^[What do %{you} do with this=information?^]None of %{you}r business.~FF~}#192#180
+]Umph...^[
+¿Y en qué tipo de=negocios estáis?^]
+Nuestros espías obtienen=información secreta de=los puntos débiles de=los países.      ^[
+¿Y qué hacéis con ella?^]
+Nada %{que} te importe.~FF~#180
+;00014CF8{]Leave me alone! %{I don't}=%{know} anything.^[Let me make it easy for=%{you}. What is %{the}=ultimate goal of %{you}r=organization?^]To dominate %{the} world!~FF~}#152#131
+]
+¡Déjame en paz!=No se nada.    ^[
+Deja que te lo ponga=fácil.      ^
+¿Cual es la meta final=de tu organización?^]
+¡Dominar el mundo!~FF~#131
+;00014D7B{]What %{the}...?^[Where are %{you}r agents=being sent?^]%{I don't} %{know}.^[I'm starting to get=impatient!^]OK, ok, I'll tell %{you}!=They've gone to Japan.~FF~}#151#133
+]¿Pero qué...?^[
+¿A dónde envían a tus=agentes?^]
+No lo sé.^[
+¡Empiezo a=impacientarme!^]
+Vale, vale, ¡te lo diré!=Han ido a Japón.     ~FF~#133
+;00014E00{]Let me go!^[Answer my questions and=I'll let %{you} go. Where=are %{you} sending %{you}r=agents?^]Japan, %{the} Soviet Union=and all of Western=Europe. Now we're going=into South America.^[And what cities do %{you}=control?^]%{I don't} %{know}.~FF~}#237#213
+]
+¡Suéltame!^[
+Responde a mis preguntas=y te dejaré ir.=¿A dónde enviáis a=vuestros a agentes? ^]
+Japón, la Unión=Soviética y a Europa del=Este.^
+Ahora vamos a ir a=Sudamérica.^[
+¿Y qué ciudades=controláis?^]
+No lo sé.~FF~#213
+;00014ED5{]Uh...^[Relax! Tell me=everything %{you} %{know}.^]Give it up, buddy. We=already control Japan=and %{the} rest of %{the}=world isn't far behind.^Our drug running=operation is almost=complete.~FF~}#190#175
+]Uh...^[
+¡Calma!=Dime todo lo que sabes. ^]
+Ríndete, amigo.=Ya controlamos Japón y=el resto del mundo no=está muy lejos.        ^
+Nuestra operación de=drogas está casi=completa.~FF~#175
+;00014F84{]Hey, let go of me!^[Answer my questions=%{the}n I'll let %{you} go.=How many agents are in=%{the} United States?^]More than %{you} can=imagine. We're bigger=than %{the} Mafia!^Soon America will fall=into our hands!~FF~}#214#196
+]
+¡Eh, suéltame!^[
+Responde mis preguntas y=te dejaré ir.=¿Cuantos agentes hay en=los Estados Unidos?^]
+Más de los que te=imagines.=¡Somos mayores que la=Mafia!^
+¡Pronto América será=nuestra!        ~FF~#196
+|1152
+@00015048-00015557-FF
+;00015048{]Ack! What's going on?^[Who do %{you} work for?^]The organization's name=is DRAT. %{I don't} %{know}=%{the} name of %{the} leader.^%{I don't} even %{know} what=he looks like.~FF~}#161#137
+]
+¡Ah! ¿Qué está pasando?^[
+¿Para quien trabajas?^]
+La organización se llama=DRAT.=No sé el nombre del=líder.^
+No sé ni que pinta=tiene.    ~FF~#137
+;000150D1{]Ow, loosen up, dude.^[Tell me about %{you}r boss.^]%{I don't} %{know} but I hear=he's, like uh,...a real=heavy dude, %{you} %{know}.~FF~}#126#108
+]
+Ay, afloja, tío.    ^[
+Háblame de tu jefe.  ^]
+No sé pero he oído que,=es, como...=un tipo pesado,=ya sabes.~FF~#108
+;0001513D{]Whoa!  Let go of me man!^[Tell me about %{you}r boss.^]%{I don't} %{know} anything=about him.^[%{You}'re a liar.  I can=see it in %{you}r eyes.^]Oh yeah?  Well, I'm=still not telling %{you}=anything.^[Perhaps I should try=some friendly persuasion?^]Look, this guy is really=evil, %{you} %{know}.^[Yeah, I %{know}.  So=what's he up to?^]The world, man.  He's=gonna' take it over.~FF~}#367#337
+]
+¡Eh! ¡Suéltame tío!^[
+Háblame de tu jefe.^]
+No se nada sobre él.^[
+Eres un mentiroso.=Puedo verlo en tus ojos.^]
+¿Ah sí? Bueno,=aún y así no voy a=contarte nada.^[
+¿Quizá debería probar=algo de persuasión=amistosa?^]
+Mira, este tipo es realmente malvado, sabes.^[
+Sí, lo se.=¿Así que qué está=planeando?    ^]
+El mundo, tío.=Va a conquistarlo.~FF~#337
+;0001528E{]Oooff... O.K.! O.K.!.^[Where is %{you}r boss?^]He's at headquarters in=that building over %{the}re~FF~}#101#092
+]
+Uff... ¡Vale!     ^[
+¿Dónde está tu jefe?^]
+Está en el cuartel=general,=ese edificio de ahí.~FF~#092
+;000152EA{]Ouuu...Loosen up, man.^[Where is %{you}r boss?^]%{I don't} %{know}.~FF~}#064#052
+]
+Ouuu... Afloja, tío.^[
+¿Dónde está tu jefe?^]
+No sé.~FF~#052
+;0001531E{]Let go of me.^[Where's %{you}r boss?^]%{I don't} %{know}.  Hey=%{you}'re %{the} Black %{Manta}=aren't %{you}?  Uh oh...^[Where's Taro?^]They took him to see %{the}=head man.~FF~}#163#136
+]
+Suéltame.^[
+¿Dónde está tu jefe?^]
+No lo sé.=Eh, tu eres la %{Manta}=%{Negra}, ¿verdad? Oh oh...^[
+¿Dónde está Taro?  ^]
+Se lo llevaron a ver al=jefe.~FF~#136
+;000153A6{]Hey, watch it man!^[Where's %{you}r boss?^]He's on %{the} top floor.=Chill out, %{Manta} or=Taro's gonna' pay.~FF~}#110#098
+]
+¡Eh, cuidado tío!^[
+¿Dónde está tu jefe?  ^]
+Está en el último piso.=Cálmate, %{Manta} o Taro lo pagará.~FF~#098
+;00015408{]Gasp!^[Where's %{you}r boss?^]On %{the} top floor.^[Good.~FF~}#060#051
+]¡Argh!^[
+¿Dónde está tu jefe?^]
+En el ático.^[Bien.~FF~#051
+;0001543B{~F5~Hey, thanks. I thought I=was going to die here!^[No chance of that now.^~F5~If %{you} shoot %{the} wall on=%{the} right, %{you}'ll find a=hidden door.^[Great! Have %{you} found=out anything else?^~F5~Yeah. Four kids are=trapped in a secret=office, but %{I don't} %{know}=exactly where.^[That's OK. I can take it=from here.~FF~}#318#285
+~F5~
+Eh, gracias.=¡Creía que iba a morir=ahí!^[
+Eso ya no va a pasar.^~F5~
+Si le disparas al muro=de la derecha,=hallarás una puerta=%{oculta}.^[
+¡Genial!=¿Averiguaste algo=más?^~F5~
+Sí. Hay cuatro niños=atrapados en una oficina=secreta, pero no sé=exactamente donde. ^[
+Está bien.=Puedo seguir desde aquí.~FF~#285
+|1296
+@00015558-0001596E-FF
+;00015558{~F5~Whew!^[What's %{the} matter? Are=%{you} all right?^~F5~Yeah, I'm OK.  Who are=%{you} anyway?^[The Black %{Manta}.~FF~}#115#094
+~F5~
+¡Fiu!^[
+¿Qué sucede?=¿Estás bien?       ^~F5~
+Sí, estoy bien.=¿Pero quién eres tú?^[
+La %{Manta} Negra. ~FF~#094
+;000155B6{~F5~Geez, thanks for letting=me out. Why did %{the}y=kidnap me? My family=isn't rich or anything.^[It seems to be drug=related. %{You} don't use=drugs, do %{you}?^~F5~No, %{I don't}.^[Good. Don't let anyone=get %{you} started on drugs=They're a dead end.~FF~}#249#225
+~F5~
+Caray,=gracias por sacarme.=¿Por qué me=secuestraron?^
+Mi familia no es rica ni=nada.^[
+Parece relacionado con=las drogas.=¿Tu no te drogas,=verdad?^~F5~
+No.^[
+Bien.=No dejes que nadie te=inicie en las drogas.=No tienen salida.   ~FF~#225
+;00015697{~F5~Thanks. I was getting=bored.^[Oh yeah? Do %{you} %{know}=Taro?^~F5~Sure. He was taken away=with some o%{the}r kids.^[Thanks. I must get going~FF~}#145#127
+~F5~
+Gracias.=Me estaba aburriendo.^[
+¿Ah sí? ¿Conoces a Taro?^~F5~
+Sí.=Se lo llevaron con=algunos otros niños.^[
+Gracias. Debo irme.   ~FF~#127
+;00015716{~F5~It's good to be out of=%{the}re!^[Are %{you} OK?^~F5~Yes, I think so. Turn=left on %{the} road outside=and %{you}'ll find a hidden=door.^[Thanks. Be careful=around here. It's not=safe.~FF~}#188#167
+~F5~
+¡Que bueno salir de ahí!^[
+¿Estás bien?^~F5~
+Sí, eso creo.=Gira a la izquierda en=la calle de fuera y=hallarás una puerta.  ^[
+Gracias.=Ten cuidado por aquí.=No es seguro.~FF~#167
+;000157BD{~F5~I thought I'd be stuck=in here forever! Hey=%{you}'ll find a hidden=door outside on %{the} left^[Thanks. Let's get out of=here!~FF~}#133#121
+~F5~
+¡Pensaba que estaría ahí=para siempre!^
+Eh, hallarás una puerta=%{oculta} fuera a la=izquierda.^[
+Gracias.=¡Salgamos de aquí!   ~FF~#121
+;00015836{~F5~%{You} must stop %{the}se guys=They're drug pushers!^[I will. Do %{you} %{know}=Taro?^~F5~No, %{I don't} but he left=a letter next door.^[Thanks.~FF~}#143#119
+~F5~
+Detenles.=¡Son narcotraficantes!^[
+Lo haré.=¿Conoces a Taro?^~F5~
+No,=pero dejó una carta en=la próxima puerta. ^[
+Gracias.~FF~#119
+;000158AD{~F5~Are %{you} %{the} Black %{Manta}?^[Yes.^~F5~I have a message from=Taro. He says a strong=opponent is waiting for=%{you}.^[Thanks. Where's Taro=right now?^~F5~%{I don't} %{know}. They took=him away.^[OK, be careful on %{you}r=way out.~FF~}#227#194
+~F5~
+¿Eres la %{Manta} %{Negra}?^[
+Sí.                ^~F5~
+Tengo un mensaje de=Taro.=Dice que te espera un=oponente fuerte.^[
+Gracias.=¿Dónde está Taro ahora?^~F5~
+No lo sé.=Se lo llevaron.^[
+Vale,=ten cuidado al salir.~FF~#194
+|1047
+@0001596F-00015DA2-FF
+;0001596F{~F5~I have some information=for %{you}.^[What is it?^~F5~Go out and shoot at %{the}=right pillar.  A hidden=door will appear.^[OK.  It's dangerous=here, so hurry home.~FF~}#169#154
+~F5~
+Tengo información para=ti.^[
+¿Y cual es?^~F5~
+Sal y dispárale al pilar=derecho.^
+Aparecerá una puerta=oculta. ^[
+Vale.=Aquí hay peligro, =así que corre a casa.~FF~#154
+;00015A09{~F5~Thank %{you}.^[Are %{you} all right?^~F5~Yeah, I'm OK, but my=friend is trapped next=door.  Please help him.^[No problem.  Now, get=out of here.  It's=dangerous.~FF~}#167#152
+~F5~
+Gracias.^[
+¿Estás bien?^~F5~
+Estoy bien pero=atraparon a mi amigo en=la próxima puerta. ^
+Ayúdale por favor.^[
+Sin problema.=Ahora sal de aquí,=es peligroso.~FF~#152
+;00015AA1{~F5~Thank %{you}.^[%{You}r friend told me %{you}=were here.  He's on his=way out now.^~F5~I'm getting out too.  If=%{you} shoot at %{the} right=wall, a hidden door=appears.^[Thanks.  See %{you} later.~FF~}#198#171
+~F5~
+Gracias. ^[
+Tu amigo me dijo que=estabas aquí.=Ahora está escapando.  ^~F5~
+Yo también escapo.=Si disparas al muro=derecho,^
+aparece una puerta=oculta.^[
+Gracias. Hasta luego. ~FF~#171
+;00015B4C{~F5~Thanks. Go underground=and shoot %{the} left=pillar. %{You}'ll find a=secret door.^[Ok. See %{you} later.~FF~}#110#095
+~F5~
+Gracias.=Baja y dispárale al=pilar izquierdo.^
+Encontrarás una puerta=%{oculta}.^[
+Vale. Hasta luego. ~FF~#095
+;00015BAB{~F5~Hey mister, watch out=for %{the} guy who runs=this place.  They call=him El Toro.^[Thanks for %{the} warning.~FF~}#115#103
+~F5~
+Eh señor,=cuidado con el tipo que=lleva este lugar.^
+Le llaman El Toro. ^[
+Gracias por la=advertencia. ~FF~#103
+;00015C12{~F5~Thanks man.^[Are %{you} all right?^~F5~Sure, I'm all right. It=was, like, totally rad!^[Is that so? OK!^~F5~Hey, go on down to %{the}=far right end, and, like=shoot at %{the} wall.=%{There}'s a hidden door.^[Thanks.  Now, get out of=here.~FF~}#240#216
+~F5~
+Gracias tío.           ^[
+¿Estás bien?          ^~F5~
+Claro, estoy bien.=¡Era como, una locura!^[
+¿En serio? ¡Vale!^~F5~
+Eh, baja y al final de=la derecha dispara al=muro.^
+Hay una puerta oculta.^[
+Gracias.=Ahora, sal de aquí.~FF~#216
+;00015CEA{~F5~Thank %{you}.^[No problem.  Where is=Taro?^~F5~%{I don't} %{know} but if %{you}=go to %{the} dead end and=shoot %{the} wall, %{you}'ll^find a hidden room.=Maybe he's in %{the}re.^[Thanks for  %{the} info.=I've got to get going.~FF~}#221#185
+~F5~
+Gracias.^[
+Sin problema.=¿Dónde está Taro?^~F5~
+No lo sé pero si vas al=callejón sin salida y=disparas al muro^
+hallarás una puerta=oculta.=Quizá esté ahí.^[
+Gracias.      =Tengo que seguir.~FF~#185
+|1076
+@00015DA3-00016228-FF
+;00015DA3{~F5~Thanks.^[%{You}'re welcome.  Do %{you}=know where Taro is?^~F5~No, but go to %{the} dead=end and shoot at %{the}=wall.  %{You}'ll find a=hidden door.^[Thanks. See %{you} later.~FF~}#178#151
+~F5~
+Gracias.^[
+De nada.=¿Sabes dónde está Taro?^~F5~
+No, pero ve al final del=callejón y dispara al=muro.^
+En%{con}trarás una puerta=oculta.^[
+Gracias. Hasta luego.~FF~#151
+;00015E3A{~F5~Be careful.  Guido and=his pals  %{know} about Taro=He could be in trouble.^[Thanks for  %{you}r concern.=Get out of here while=%{you} still can!~FF~}#149#134
+~F5~
+Ten cuidado.=Guido y sus amigos saben=lo de Taro.^
+Podría tener problemas.^[
+Gracias por preocuparte.^
+¡Sal de aquí mientras=puedas!   ~FF~#134
+;00015EC0{~F5~Are %{you} Black %{Manta}?^[Yes.^~F5~Taro left a letter for=%{you} around here=someplace.^[Great. Is he in this=building?^~F5~I think so.~FF~}#140#119
+~F5~
+¿Eres %{Manta} %{Negra}?^[
+Sí.^~F5~
+Taro dejó una carta para=ti por aquí cerca.^[
+Genial. ¿Está en este edificio?^~F5~
+Eso creo.           ~FF~#119
+;00015F37{~F5~Boy, am I glad to be out=of %{the}re!^[Yeah, I bet.  Any more=kids on this floor?^~F5~%{I don't} think so, but=%{the}re's a man in red=near %{the} alley who  might=%{know} more.^[Thanks.  Better sneak=out while %{you} can.~FF~}#219#192
+~F5~
+Chico,=¡me alegro de salir de=ahí!^[
+Sí, seguro.=¿Hay más niños en esta=planta?^~F5~
+No lo creo,=pero un hombre de rojo=cerca d%{el }callejón=quizá sepa más.  ^[
+Gracias.=Mejor escapa mientras=puedas.~FF~#192
+;00015FF7{~F5~Whew!  Thanks for getting=me out of here.^[Is %{the}re anyone else=being held on this floor^~F5~%{I don't} think so, but=%{the}y've taken Taro to=%{the}ir stronghold.^[I've got to leave. Time=is running out!~FF~}#207#186
+~F5~
+¡Fiu!=Gracias por sacarme de=aquí.^[
+¿Hay alguien más=retenido en esta planta?^~F5~
+No lo creo,=pero se han llevado a=Taro a su fortaleza.^[
+Tengo que irme.=¡Se está acabando el=tiempo!     ~FF~#186
+;000160B1{~F5~Thank %{you} Mister.^[Have %{you} seen Taro?=Is he here?^~F5~No. Some heavies came in=and took him away.^[I've got to hurry.=Taro's life is in=jeopardy!~FF~}#158#143
+~F5~
+Gracias Señor.^[
+¿Viste a Taro?=¿Está aquí?^~F5~
+No.=Unos matones vinieron y=se lo llevaron.   ^[
+Debo apresurarme.=¡La vida de Taro está en=juego!~FF~#143
+;00016140{~F3~~A4~ Children are vanishing=from the streets of New=York City. Some people=think that the kids are=being kidnapped, but the=police and FBI have no=leads. Parents are=afraid to let their kids=go outside. Will this=case ever be solved?~F6~~FF~}#245#233
+~F3~~A4~ 
+Están desapareciendo=
+niños de las Calles de=
+Nueva York. Algunos  =
+piensan que los niños=
+están siendo raptados,=
+pero la policía y el FBI=
+no tienen pistas. Los=
+padres tienen miedo a=
+dejar salir a sus hijos.=
+¿Será resuelto el caso?~F6~~FF~#233
+|1158
+@00016229-00016753-FF
+;00016229{~FF~}#004#001
+~FF~#001
+;0001622A{~FB~~F3~~84~"Ring!...=Ring!^~FD~[Who could be calling in=%{the} middle of %{the} night?^Hello?^~F4~Hello %{Manta}.^[Master! What's up?^~F4~%{You}'ve heard about %{the}=disappearing children in=New York?^[Of course.^~F4~Well, it looks like %{the}=kidnapping %{the}ory  was=correct.^[How's that?^~F4~They've taken several=children, including my=%{you}ngest student, Taro.^But Taro is a sharp boy.=He left a clue. We found=a letter at the scene.^It says:=Please send help.=We have been kidnapped^and are being held near=the waterfront.^[It's time I got to %{the}=bottom of this.^I'll find Taro, and put=an end to this madness^once and for all.^~F4~Good. May %{the} force of=eternal wisdom be %{you}r=guide.~FF~}#694#631
+~FB~~F3~~84~
+"¡Ring!...=¡Ring!^~FD~[
+¿Quien llama en medio de=la noche?^
+¿Hola?^~F4~
+Hola %{Manta}.^[
+¡Maestro! ¿Qué sucede?^~F4~
+¿Has oído lo de los=niños que desaparecen en=Nueva York?^[
+Claro.^~F4~
+Bueno, parece que la=teoría del secuestro era=correcta.^[
+¿Cómo es eso?^~F4~
+Raptaron a varios niños,=incluido mi estudiante=más joven, Taro.^
+Pero Taro es un chico=listo.=Dejó una pista.=^
+Hallamos una carta en la=escena.^
+Dice:=Por favor enviad ayuda.=Hemos sido raptados y^
+nos retienen cerca del=paseo marítimo.^[
+Es hora de que llegue al=fondo.     ^
+Encontraré a Taro y=pondré fin a esta locura=de una vez por todas.^~F4~
+Bien. Que la fuerza de=la sabiduría eterna te=guíe.~FF~#631
+;000164A1{]Someone has infiltrated=our security system.^~F8~Who?^]We don't %{know}, but he=took out Tiny.^~F8~What? Tiny has been=defeated?^]Yes sir. What should we=do?^~F8~Don't worry. We'll go to=Japan. Ninja are %{the}re.=Whoever this guy is^he'll never get past=%{the}m. Now, patch up Tiny=%{the}n send him back to=headquarters.~FF~}#321#297
+]
+Alguien se infiltró en=nuestro sistema de=seguridad.^~F8~
+¿Quién?^]
+No lo sabemos,=pero venció a Tiny.^~F8~
+¿Qué? ¿Tiny ha sido=vencido?^]
+Sí Sr. ¿Qué deberíamos=hacer?^~F8~
+No importa.=Iremos a Japón.=Allí hay Ninjas.^
+Sea quien sea nunca=pasará de ellos.^
+Ahora, arregla a Tiny y=envíalo al cuartel=general.  ~FF~#297
+;000165CA{]El Toro, I got some bad=news.  Someone did a=real number on %{the} Ninja^~F8~How? What happened to=%{the}m?^]This guy is real good.^~F8~Hmm... Could it be?=I wonder...^]Who?^~F8~Never mind. I have a new=idea that's going to=make this guy wish he=never got involved.^]What is it?^~F8~That's a secret, but as=long as I have this=weapon...^Anyway, see to the Ninja=and take them back to=headquarters.^]Yes, El Toro.~FF~}#415#394
+]
+El Toro, tengo malas=noticias. Alguien hizo=un gran número al Ninja.^~F8~
+¿Cómo?=¿Qué les ha pasado?^]
+Este tipo es muy bueno.^~F8~
+Hmm... ¿Podría ser?=Quizá...^]
+¿Quién?^~F8~
+No importa. Tengo una=idea que hará que este=tipo desee no haberse=
+involucrado nunca.^]
+¿Cual es?^~F8~
+Es un secreto,=pero mientras tenga este=arma...^
+Igualmente, ve a ver al=Ninja y llévale de=vuelta al cuartel=general. ^]
+Sí, El Toro.~FF~#394
+|1323
+@00016754-00016B80-FF
+;00016754{]El Toro, this guy has=broken through again. He=even defeated %{the} Voodoo=Warrior!^~F8~What! That's impossible!=No one could defeat %{the}=Voodoo Warrior. No one=that is, except...^THE BLACK MANTA!=We better head out of=here. I hear New York's=nice this time of year.~FF~}#271#259
+]
+El Toro, este tío ha=vuelto pasar.^¡Incluso ha vencido al=Guerrero Voodoo!^~F8~
+¡Qué! ¡Eso es imposible!=Nadie podía vencer al=Guerrero Voodoo.^
+Nadie, excepto...^
+¡LA MANTA NEGRA!=Será mejor que salgamos=de aquí.^
+Oí %{que} Nueva York es=bonita en esta época del=año.~FF~#259
+;00016857{]Black %{Manta} trashed our=robot guards.^~F8~What! My high-tech toys=....destroyed?^]Yeah. Things don't look=so good. He could be=here any minute.^~F8~Tighten up our defenses!=My empire won't be=destroyed by a single=man!^]Oh,.. I just remembered.^We found the kid who was=leaving clues for the=Black Manta!^~F8~What?! Excellent! Bring=him to me...~FF~}#350#335
+]
+La %{Manta} %{Negra} destrozó=a nuestros robots. ^~F8~
+¡Qué! Mis juguetes...=¿destruidos?^]
+Sí. Las cosas no pintan=bien. Podría llegar en=cualquier momento.   ^~F8~
+¡Reforzad las defensas!^¡Mi imperio no será=destruido por un solo=hombre!^]
+Oh... acabo de=recordarlo.^
+¡Encontramos al chico=%{que} dejaba pistas para=la %{Manta} %{Negra}!^~F8~
+¡¿Qué?! ¡Excelente!=Tráemelo...~FF~#335
+;000169A6{~FF~}#004#001
+~FF~#001
+;000169A7{~FF~}#004#001
+~FF~#001
+;000169A8{The man in red %{know}s=something.~FF~}#036#030
+El hombre de rojo sabe=algo. ~FF~#030
+;000169C6{Shoot at %{the} underground=wall and a hidden door=will appear.~FF~}#066#060
+Dispara al muro=subterráneo y aparecerá=una puerta %{oculta}.     ~FF~#060
+;00016A02{Shoot at %{the} right wall=and a hidden door will=appear.~FF~}#060#054
+Dispara al muro derecho=y aparecerá una puerta=%{oculta}.   ~FF~#054
+;00016A38{Shoot at %{the} wall to %{the}=left side of %{the} pipe.=%{You}'ll see a hidden door~FF~}#084#069
+Dispara al muro a la=izquierda de la tubería.=Verás una puerta %{oculta}.  ~FF~#069
+;00016A7D{Get on top of %{the} door=and shoot %{the} left wall.=There's a secret door.~FF~}#078#069
+Súbete a la puerta y=tira al muro izquierdo.=Hay una puerta secreta.~FF~#069
+;00016AC2{Tiny is hiding in %{the}=next building. Aim at=his head.~FF~}#059#053
+Tiny se %{oculta} en=%{el }siguiente edificio.=Dale en la cara.~FF~#053
+;00016AF7{Shoot low.  A hidden=entrance will appear.~FF~}#046#043
+Dispara bajo.=Aparecerá una entrada=%{oculta}.   ~FF~#043
+;00016B22{Kids are in %{the} first=underground room.~FF~}#045#039
+Los niños están en el=primer sótano.  ~FF~#039
+;00016B49{Go forward. Then go up.=%{There}'s a room hidden on=%{you}r left.~FF~}#065#056
+Adelante. Luego arriba.=Sala oculta a tu=izquierda.    ~FF~#056
+|1069
+@00016B81-00016F92-FF
+;00016B81{Use %{the} Art of Lightning=on this next guy.~FF~}#048#042
+Usa %{el }Ar del Relámpago=en el próximo tío.~FF~#042
+;00016BAB{Kids are trapped in %{the}=first storage room.~FF~}#049#043
+Hay niños en la 1a sala=de almacenaje.    ~FF~#043
+;00016BD6{%{There}'s a hidden door=below at %{the} left end.~FF~}#050#041
+Hay una puerta %{oculta}=debajo a la izquierda.~FF~#041
+;00016BFF{Go out and shoot %{the}=right pillar.  %{You}'ll=find a hidden door.~FF~}#070#061
+Sal y dispara al pilar=derecho. Encontrarás una=puerta %{oculta}.  ~FF~#061
+;00016C3C{~FF~}#004#001
+~FF~#001
+;00016C3D{Traps have been laid.=Be careful.~FF~}#037#034
+Han puesto trampas.=Ten cuidado. ~FF~#034
+;00016C5F{Use %{the} Art of=Invisibility when %{you}=battle %{the} robots.~FF~}#065#053
+Usa %{el }Arte de=Invisibilidad cuando=pelees %{con} robots.~FF~#053
+;00016C94{Kids are trapped next=door.~FF~}#031#028
+Niños en la próxima=puerta.~FF~#028
+;00016CB0{Please hurry.=They %{know} who I am.~FF~}#038#032
+Date prisa.  =Saben quien soy. ~FF~#032
+;00016CD0{]All right!  I'll talk.^[Tell me everything %{you}=%{know}.^]%{I don't} %{know} anything.=I swear!~FF~}#092#077
+]
+¡Muy bien! Hablaré.  ^[
+Dime todo lo que sabes.^]
+No se nada.    =¡Lo juro!  ~FF~#077
+;00016D1D{~F4~Black %{Manta} as a reward=I'll initiate %{you} into=two more Ninja Arts.^They are %{the} Art of=Invisibility and %{the} Art=of %{the} Spider.^Make good use of %{the}m.~FF~}#168#144
+~F4~
+Manta Negra como=recompensa te iniciaré=en dos Artes Ninja más.^
+Son el Arte de la=Invisibilidad y el Arte=de la Araña.^
+Haz buen uso de ellas. ~FF~#144
+;00016DAD{~F4~I will now initiate %{you}=into %{the} Art of %{the} Fire=Bomb. Use it well.~FF~}#081#066
+~F4~
+Ahora te iniciaré en el=Arte de la Bomba de=Fuego. Úsala bien.  ~FF~#066
+;00016DEF{~F4~I will teach %{you} a new=Ninja art. This is %{the}=Art of %{the} Fire Rain.^Use it wisely.~FF~}#096#081
+~F4~
+Te enseñaré otra %{Arte}=Ninja.^
+Es el %{Arte} de la Lluvia=de Fuego.^
+Úsala sabiamente.   ~FF~#081
+;00016E40{~F4~%{Manta}, %{you}'re becoming a=Master Ninja. Here are=%{the} Arts of Lightning=and Teleportation.~FF~}#100#085
+~F4~
+%{Manta},=te vuelves un Maestro=Ninja.^
+Aquí están las %{Arte}s=de Relámpago y =Teletransporte.~FF~#085
+;00016E95{Manta, you have done=well. My lost student is=found,^and the evil forces of=DRAT are defeated. Your=courage and spirit^make you my worthy=successor. Use the=knowledge and skills^I taught you to help=others.^Always strive to seek=perfection of character.~FF~}#257#254
+Manta, lo hiciste bien.=
+Mi estudiante perdido=
+hallado y las malvadas=
+fuerzas de DRAT^
+vencidas. Tu coraje y=
+espíritu te hacen mi=
+digno sucesor. Usa tu=
+conocimiento y^
+habilidades para ayudar=
+a otros.       =
+Esfuérzate por buscar la=
+perfección de carácter.~FF~#254
+|1042
+@00016F93-00016FC9-FF
+;00016F93{BLACK MANTA:=It will take four arts=to defeat El Toro.~FF~}#058#055
+MANTA NEGRA:=Necesito 4 artes para=vencer a "El Toro".~FF~#055
+|55
+@0001901B-0001904D-FF
+;0001901B{Push start buttonUse cross-key to  select letter   }#051#051
+Pulsa Botón Start
+ Usa cruceta para 
+elegir la letra #051
+|51
+@0001907E-000190AD-FF
+;0001907E{Use cross-key and button "A" to select art      }#048#048
+Usa cruceta y el botón  
+ "A" para elegir arte   #048
+|48
+@0001DC5E-0001DCCC-FF
+;0001DC5E{STAFFPROGRAMTARO MACHIDAGAME DESIGNNORIPI SAGAMICHARACTERDANICHI OONOSOUNDYOKI SHINJYUKUSUB STAFFTUKAMAETE KUMA}#111#111
+GRUPO
+CÓDIGO 
+TARO MACHIDA
+DISEÑADORES
+NORIPI SAGAMI
+PERSONAJE
+DANICHI OONO
+AUDIO
+YOKI SHINJYUKU
+SUBEQUIPO
+TUKAMAETE KUMA#111
+|111
+@0001FFF0-0001FFFF-FF
+;0001FFF0{BLACK MANTA     }#016#016
+MANTA NEGRA     #016
+|16

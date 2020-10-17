@@ -1,0 +1,202 @@
+@000012F5-00001302-00
+;000012F5{FLASHING OVER~00~}#017#014
+FLASHING OVER~00~#014
+|14
+@00003554-000036A8-00
+;00003554{~21~~22~~60~GAME DESIGN[[[$TSUTOMU FUZISAWA=SOFTWARE DESIGN[[[$TOSHIO ARAI=CHRACTER DESIGN[[[$TSUTOMU FUZISAWA[[[[$SIN=BACKGROUND DESIGN[[[$MIHO URUSHIBARA=SOUND EFFECT[[[$YOSHIO NAGASHIMA=SPECIAL THANKS[[[$MUTSUO KANEKO[]$KINYA AOYAMA[]]$ITSAM MATARCA[]]]$M·A·D YUKI[]]]]$MA-X TERUI[]]]]]$MINORU TOMIZAWA[]]]]]]$NOBUYUKI NARITA[]]]]]]]$SHIHO SASAKI~00~}#353#341
+~21~~22~~60~GAME DESIGN[[[$TSUTOMU FUZISAWA=SOFTWARE DESIGN[[[$TOSHIO ARAI=CHRACTER DESIGN[[[$TSUTOMU FUZISAWA[[[[$SIN=BACKGROUND DESIGN[[[$MIHO URUSHIBARA=SOUND EFFECT[[[$YOSHIO NAGASHIMA=SPECIAL THANKS[[[$MUTSUO KANEKO[]$KINYA AOYAMA[]]$ITSAM MATARCA[]]]$M·A·D YUKI[]]]]$MA-X TERUI[]]]]]$MINORU TOMIZAWA[]]]]]]$NOBUYUKI NARITA[]]]]]]]$SHIHO SASAKI~00~#341
+|341
+@00003C6B-0000406A-00
+;00003C6B{                                    CONNECT YOUR BODYS              TO LONG CHAIN                                                                                   ENCLOSE FOOD!                   TO OPEN THE EXIT HOLE                                                                           SAVE KEYS                       TO OPEN DOOR                                                                                    USE KEY                         TO OPEN DOOR                                                                                    BOMB BEARN!                     SHOCK STOP ENEMY                                                                                TREASURE!                       500 POINTS                                                                                      EXIT HOLE                       YOUR GOAL!                                                                                      ENCLOSE ENEMY!                  1000 POINTS                                                 }#1024#1024
+                                    CONNECT YOUR BODYS              TO LONG CHAIN                                                                                   ENCLOSE FOOD!                   TO OPEN THE EXIT HOLE                                                                           SAVE KEYS                       TO OPEN DOOR                                                                                    USE KEY                         TO OPEN DOOR                                                                                    BOMB BEARN!                     SHOCK STOP ENEMY                                                                                TREASURE!                       500 POINTS                                                                                      EXIT HOLE                       YOUR GOAL!                                                                                      ENCLOSE ENEMY!                  1000 POINTS                                                 #1024
+|1024
+@0000406B-0000426A-00
+;0000406B{                                    ALL ENEMY DISAPPERE!            BONUS 10000 POINTS                                                                              ALL FLOOR CHANGE!               BONUS 5000 POINTS                                                                               HYPER ENERGY STATE              FOR 8 SECONDS                                                                                   GREEN BALL!                     SHOT FIRE TO i BUTTON                                       }#512#512
+                                    ALL ENEMY DISAPPERE!            BONUS 10000 POINTS                                                                              ALL FLOOR CHANGE!               BONUS 5000 POINTS                                                                               HYPER ENERGY STATE              FOR 8 SECONDS                                                                                   GREEN BALL!                     SHOT FIRE TO i BUTTON                                       #512
+|512
+@00004C06-00004F5B-00
+;00004C06{   CHECK MODE   ~00~}#020#017
+   CHECK MODE   ~00~#017
+;00004C17{OBJ FONT~00~}#012#009
+OBJ FONT~00~#009
+;00004C20{BACK FONT~00~}#013#010
+BACK FONT~00~#010
+;00004C2A{SOUND~00~}#009#006
+SOUND~00~#006
+;00004C30{EXIT~00~}#008#005
+EXIT~00~#005
+;00004C35{BANK~00~}#008#005
+BANK~00~#005
+;00004C3A{GROUP~00~}#009#006
+GROUP~00~#006
+;00004C40{COLOR~00~}#009#006
+COLOR~00~#006
+;00004C46{SOUND CODE~00~}#014#011
+SOUND CODE~00~#011
+;00004C51{HIT CHECK~00~}#013#010
+HIT CHECK~00~#010
+;00004C5B{AREA SELECT~00~}#015#012
+AREA SELECT~00~#012
+;00004C67{OFF~00~}#007#004
+OFF~00~#004
+;00004C6B{ON ~00~}#007#004
+ON ~00~#004
+;00004C6F{AREA        ~00~}#016#013
+AREA        ~00~#013
+;00004C7C{PCM   CODE~00~}#014#011
+PCM   CODE~00~#011
+;00004C87{START~00~}#009#006
+START~00~#006
+;00004C8D{CREDIT~00~}#010#007
+CREDIT~00~#007
+;00004C94{GAME OVER~00~}#013#010
+GAME OVER~00~#010
+;00004C9E{ACT ~00~}#008#005
+ACT ~00~#005
+;00004CA3{GOMORA SPEED~00~}#016#013
+GOMORA SPEED~00~#013
+;00004CB0{FULL COMMAND~00~}#016#013
+FULL COMMAND~00~#013
+;00004CBD{  CONGRATULATIONS!  ~00~}#024#021
+  CONGRATULATIONS!  ~00~#021
+;00004CD2{YOU ARE GREAT PLAYER~00~}#024#021
+YOU ARE GREAT PLAYER~00~#021
+;00004CE7{4TH~00~}#007#004
+4TH~00~#004
+;00004CEB{5TH~00~}#007#004
+5TH~00~#004
+;00004CEF{   STAFF   ~00~}#015#012
+   STAFF   ~00~#012
+;00004CFB{   STARRING   ~00~}#018#015
+   STARRING   ~00~#015
+;00004D0A{OPTION~00~}#010#007
+OPTION~00~#007
+;00004D11{POSITION DP~00~}#015#012
+POSITION DP~00~#012
+;00004D1D{STEP EXECUTE~00~}#016#013
+STEP EXECUTE~00~#013
+;00004D2A{CONTINUE~00~}#012#009
+CONTINUE~00~#009
+;00004D33{END~00~}#007#004
+END~00~#004
+;00004D37{THANK YOU~2E~~00~}#017#011
+THANK YOU~2E~~00~#011
+;00004D42{X~00~}#005#002
+X~00~#002
+;00004D44{Y~00~}#005#002
+Y~00~#002
+;00004D46{PAUSE!~00~}#010#007
+PAUSE!~00~#007
+;00004D4D{DEMO~00~}#008#005
+DEMO~00~#005
+;00004D52{ROOM        ~00~}#016#013
+ROOM        ~00~#013
+;00004D5F{PUSH RUN BUTTON~00~}#019#016
+PUSH RUN BUTTON~00~#016
+;00004D6F{                ~00~}#020#017
+                ~00~#017
+;00004D80{c1990 UPL COMPANY LIMITED~00~}#029#026
+c1990 UPL COMPANY LIMITED~00~#026
+;00004D9A{COMMAND~00~}#011#008
+COMMAND~00~#008
+;00004DA2{OK ~00~}#007#004
+OK ~00~#004
+;00004DA6{NG ~00~}#007#004
+NG ~00~#004
+;00004DAA{KEY~00~}#007#004
+KEY~00~#004
+;00004DAE{PAUSE DP~00~}#012#009
+PAUSE DP~00~#009
+;00004DB7{VER 5.52~00~}#012#009
+VER 5.52~00~#009
+;00004DC0{OPEN~00~}#008#005
+OPEN~00~#005
+;00004DC5{    ~00~}#008#005
+    ~00~#005
+;00004DCA{   CAST    ~00~}#015#012
+   CAST    ~00~#012
+;00004DD6{      Q     ~00~}#016#013
+      Q     ~00~#013
+;00004DE3{      VE    ~00~}#016#013
+      VE    ~00~#013
+;00004DF0{    CLICK   ~00~}#016#013
+    CLICK   ~00~#013
+;00004DFD{ MANGZIROVE ~00~}#016#013
+ MANGZIROVE ~00~#013
+;00004E0A{ GUAZI·GUAZI~00~}#016#013
+ GUAZI·GUAZI~00~#013
+;00004E17{ GYANZIROVE ~00~}#016#013
+ GYANZIROVE ~00~#013
+;00004E24{    GOME    ~00~}#016#013
+    GOME    ~00~#013
+;00004E31{    TOMUE   ~00~}#016#013
+    TOMUE   ~00~#013
+;00004E3E{   BAMPER   ~00~}#016#013
+   BAMPER   ~00~#013
+;00004E4B{   PANING   ~00~}#016#013
+   PANING   ~00~#013
+;00004E58{    A·BOO   ~00~}#016#013
+    A·BOO   ~00~#013
+;00004E65{   GOMLING  ~00~}#016#013
+   GOMLING  ~00~#013
+;00004E72{   KEMLLA   ~00~}#016#013
+   KEMLLA   ~00~#013
+;00004E7F{   GORMLLA  ~00~}#016#013
+   GORMLLA  ~00~#013
+;00004E8C{   VECTOR   ~00~}#016#013
+   VECTOR   ~00~#013
+;00004E99{    PLISM   ~00~}#016#013
+    PLISM   ~00~#013
+;00004EA6{  MANG·TATA ~00~}#016#013
+  MANG·TATA ~00~#013
+;00004EB3{   3-PEACE  ~00~}#016#013
+   3-PEACE  ~00~#013
+;00004EC0{   UN·DABA  ~00~}#016#013
+   UN·DABA  ~00~#013
+;00004ECD{  KUELLOLA  ~00~}#016#013
+  KUELLOLA  ~00~#013
+;00004EDA{UN·DODO·KING~00~}#016#013
+UN·DODO·KING~00~#013
+;00004EE7{   ROOM21   ~00~}#016#013
+   ROOM21   ~00~#013
+;00004EF4{   ROOM22   ~00~}#016#013
+   ROOM22   ~00~#013
+;00004F01{   ROOM23   ~00~}#016#013
+   ROOM23   ~00~#013
+;00004F0E{   ROOM24   ~00~}#016#013
+   ROOM24   ~00~#013
+;00004F1B{   ROOM25   ~00~}#016#013
+   ROOM25   ~00~#013
+;00004F28{   ROOM26   ~00~}#016#013
+   ROOM26   ~00~#013
+;00004F35{   ROOM27   ~00~}#016#013
+   ROOM27   ~00~#013
+;00004F42{   ROOM28   ~00~}#016#013
+   ROOM28   ~00~#013
+;00004F4F{   ROOM29   ~00~}#016#013
+   ROOM29   ~00~#013
+|854
+@000058EB-000058F6-00
+;000058EB{SOUND ERROR~00~}#015#012
+SOUND ERROR~00~#012
+|12
+@00006399-000063A7-00
+;00006399{AREA FOOD OVER~00~}#018#015
+AREA FOOD OVER~00~#015
+|15
+@000064A1-000064AF-00
+;000064A1{EXIT HOLE OVER~00~}#018#015
+EXIT HOLE OVER~00~#015
+|15
+@0000653C-0000654A-00
+;0000653C{WORP HOLE OVER~00~}#018#015
+WORP HOLE OVER~00~#015
+|15
+@00006598-000065A2-00
+;00006598{ENEMY OVER~00~}#014#011
+ENEMY OVER~00~#011
+|11
+@0000661E-0000662C-00
+;0000661E{ROOM FOOD OVER~00~}#018#015
+ROOM FOOD OVER~00~#015
+|15

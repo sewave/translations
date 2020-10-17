@@ -1,0 +1,1224 @@
+@00134A25-00134A6A-00
+;00134A25{PICK YOUR MECH~00~}#018#015
+ELIGE TU MECHA~00~#015
+;00134A34{MADCAT~00~}#010#007
+MADCAT~00~#007
+;00134A3B{WASP~00~}#008#005
+WASP~00~#005
+;00134A40{STORMCROW~00~}#013#010
+STORMCROW~00~#010
+;00134A4A{WOLVERINE~00~}#013#010
+WOLVERINE~00~#010
+;00134A54{MARAUDER~00~}#012#009
+MARAUDER~00~#009
+;00134A5D{ULLER~00~}#009#006
+ULLER~00~#006
+;00134A63{THUNDER~00~}#011#008
+THUNDER~00~#008
+|70
+@00134A95-00134EAC-00
+;00134A95{INCOMING MESSAGE .... TAKE OUT BOTH LAUNCH SITES.~00~}#053#050
+MENSAJE ENTRANTE ... DESTRUYE SITIOS LANZAMIENTO.~00~#050
+;00134AC7{INCOMING MESSAGE .... DESTROY THE RADAR SITE IN THE SOUTH EAST SECTORS.~00~}#075#072
+MENSAJE ENTRANTE ... DESTRUYE EL SITIO RADAR EN LOS SECTORES SUDESTE.  ~00~#072
+;00134B0F{INCOMING MESSAGE .... COLLECT THE FOUR COMPONENTS.~00~}#054#051
+MENSAJE ENTRANTE ... RECOGE CUATRO COMPONENTES.   ~00~#051
+;00134B42{INCOMING MESSAGE .... LOCATE AND DESTROY THE FIVE RADAR SITES.~00~}#066#063
+MENSAJE ENTRANTE ... UBICA Y DESTRUYE CINCO SITIOS DE RADAR.  ~00~#063
+;00134B81{INCOMING MESSAGE .... NEUTRALIZE THE TWO RADAR JAMMERS.~00~}#059#056
+MENSAJE ENTRANTE ... NEUTRALIZA DOS INHIBIDORES.       ~00~#056
+;00134BB9{NOWT 1~00~}#010#007
+NOWT 1~00~#007
+;00134BC0{NOWT 2~00~}#010#007
+NOWT 2~00~#007
+;00134BC7{NOWT 3~00~}#010#007
+NOWT 3~00~#007
+;00134BCE{NOWT 4~00~}#010#007
+NOWT 4~00~#007
+;00134BD5{NOWT 5~00~}#010#007
+NOWT 5~00~#007
+;00134BDC{COOLANT~00~}#011#008
+REFRIG.~00~#008
+;00134BE4{NOWT 7~00~}#010#007
+NOWT 7~00~#007
+;00134BEB{NOWT 8~00~}#010#007
+NOWT 8~00~#007
+;00134BF2{B AMMO~00~}#010#007
+MUNI.B~00~#007
+;00134BF9{C AMMO~00~}#010#007
+MUNI.C~00~#007
+;00134C00{A AMMO~00~}#010#007
+MUNI.A~00~#007
+;00134C07{BAY DOORS NEUTRALIZED. ~00~}#027#024
+PUERTAS NAVES ANULADAS.~00~#024
+;00134C1F{INCOMING MESSAGE ..... ~00~}#027#024
+MENSAJE ENTRANTE ..... ~00~#024
+;00134C37{ONE GENETIC CONTAINER LEFT.~00~}#031#028
+UN CONTENEDOR GENÉTICO MÁS.~00~#028
+;0000BA94{TWO GENETIC CONTAINERS LEFT.~00~}#032#029
+DOS CONTENEDORES GENÉTICOS. ~00~#029
+;0000BAB1{THREE GENETIC CONTAINERS LEFT.~00~}#034#031
+3 CONTENEDORES GENÉTICOS MÁS. ~00~#031
+;0000BAD0{FOUR GENETIC CONTAINERS LEFT.~00~}#033#030
+4 CONTENEDORES GENÉTICOS MÁS.~00~#030
+;0000BAEE{FIVE GENETIC CONTAINERS LEFT.~00~}#033#030
+5 CONTENEDORES GENÉTICOS MÁS.~00~#030
+;0000BB0C{SIX GENETIC CONTAINERS LEFT.~00~}#032#029
+6 CONTENEDORES GENÉTICOS.   ~00~#029
+;0000BB29{SEVEN GENETIC CONTAINERS LEFT.~00~}#034#031
+7 CONTENEDORES GENÉTICOS MÁS. ~00~#031
+;0000BB48{EIGHT GENETIC CONTAINERS LEFT.~00~}#034#031
+8 CONTENEDORES GENÉTICOS MÁS. ~00~#031
+;0000BB67{NINE GENETIC CONTAINERS LEFT.~00~}#033#030
+9 CONTENEDORES GENÉTICOS MÁS.~00~#030
+;00134D44{~00~}#004#001
+~00~#001
+;00134D45{~00~}#004#001
+~00~#001
+;00134D46{WRONG MESSAGE! BUG!~00~}#023#020
+¡MAL MENSAJE! ¡BUG!~00~#020
+;0000BB9B{THREE REMAINING PARTS TO COLLECT.~00~}#037#034
+TRES PARTES RESTANTES A RECOGER. ~00~#034
+;0000BBBD{TWO REMAINING PARTS TO COLLECT.~00~}#035#032
+DOS PARTES RESTANTES A RECOGER.~00~#032
+;0000BBDD{ONE REMAINING PART TO COLLECT.~00~}#034#031
+UNA PARTE RESTANTE A RECOGER. ~00~#031
+;0000BBFC{YOU NOW HAVE THE FUEL AIR DEVICE ASSEMBLED. GO TO THE METAL SECTION OF THE PLANT'S PROTECTIVE WALL.~00~}#103#100
+TIENES MONTADO EL DISPOSITIVO DE COMBUSTIBLE AÉREO. VE A LA PARTE METÁLICA DEL MURO DE LA PLANTA.\ ~00~#100
+;0000BC60{FUEL AIR DEVICE WILL DETONATE IN THIRTY SECONDS.~00~}#052#049
+EL DISPOSITIVO DETONARÁ EN TREINTA SEGUNDOS.\   ~00~#049
+;0000BC91{FUEL AIR DEVICE WILL DETONATE IN TEN SECONDS.~00~}#049#046
+EL DISPOSITIVO DETONARÁ EN DIEZ SEGUNDOS.\   ~00~#046
+;0000BCBF{MUY BIEN. ~00~}#014#011
+MUY BIEN. ~00~#011
+;0000BCCA{ACQUIRED NITROUS OXIDE CANISTER 1, ~00~}#039#036
+ADQUIRIDO BOTE DE ÓXIDO NITROSO 1, ~00~#036
+|1048
+@00134EAD-001352B1-00
+;00134EAD{ACQUIRED NITROUS OXIDE CANISTER 2, ~00~}#039#036
+ADQUIRIDO BOTE DE ÓXIDO NITROSO 2, ~00~#036
+;0000BD12{ACQUIRED DISPERSAL DEVICE, ~00~}#031#028
+ADQUIRIDO DISP. DISPERSIÓN,~00~#028
+;0000BD2E{ACQUIRED DETONATION DEVICE, ~00~}#032#029
+ADQUIRIDO DISP. DETONADOR,\ ~00~#029
+;0000BD4B{MENSAJE ENTRANTE ... YOU HAVE DESTROYED THE DROP SHIP MANUFACTURING PLANT, WELL DONE!~00~}#089#086
+MENSAJE ENTRANTE ... HAS DESTRUIDO LA PLANTA DE NAVES LIGERAS, ¡BIEN HECHO!\         ~00~#086
+;0000BDA1{ROCKET LAUNCH SITES DESTROYED, ~00~}#035#032
+LANZADORES DE COHETES ANULADOS,~00~#032
+;0000BDC1{MATERIAL GATHERING SITES ELIMINATED, ~00~}#041#038
+SITIOS DE MATERIALES ELIMINADOS, \   ~00~#038
+;0000BDE7{ASSEMBLY PLANT DESTROYED, ~00~}#030#027
+PLANTA ENSAMBLAJE ANULADA,~00~#027
+;0000BE02{TAKE OUT BOTH LAUNCH SITES.~00~}#031#028
+DERRIBA AMBOS LANZADORES.  ~00~#028
+;0000BE1E{ELIMINATE ALL MATERIAL GATHERING SITES.~00~}#043#040
+ELIMINA SITIOS DE REUNIÓN DE MATERIAL. ~00~#040
+;00135005{DESTROY CENTRAL ASSEMBLY PLANT.~00~}#035#032
+DESTRUYE PLANTA MONTAJE CENTRO.~00~#032
+;0000BE66{MUY BIEN. ~00~}#014#011
+MUY BIEN. ~00~#011
+;0000BE71{RADAR SITE DESTROYED, ~00~}#026#023
+SITIO RADAR DESTRUIDO,~00~#023
+;00135047{DCMS COMPOUND DESTROYED, ~00~}#029#026
+RECINTO DCMS DESTRUIDO, \~00~#026
+;0000BEA2{AEROTECHS NEUTRALIZED, ~00~}#027#024
+AEROTECH NEUTRALIZADO,\~00~#024
+;0000BEBA{DCMS MECH BAYS DESTROYED, ~00~}#030#027
+NAVES MECH DCMS ANULADAS, ~00~#027
+;0000BED5{STAR CAPTAIN REPORTING - I CAN DISABLE THE BAY DOORS TO THE MAIN COMPLEX, ~00~}#078#075
+CAPITÁN ESTRELLA INFORMANDO - PUEDO DESACTIVAR LAS PUERTAS DE LA NAVE, \  ~00~#075
+;0000BF20{PYRAMIDS DESTROYED, ~00~}#024#021
+PIRÁMIDES ANULADAS, ~00~#021
+;0000BF35{DESTROY THE RADAR SITE IN THE SOUTH EAST SECTORS.~00~}#053#050
+DESTRUYE EL SITIO DE RADAR EN EL SECTOR SUDESTE.\~00~#050
+;0000BF67{TAKE OUT THE AEROTECH HANGERS IN THE EASTERN SECTORS.~00~}#057#054
+DERRIBA LOS HANGARES AEROTECH DE LOS SECTORES ESTE.\ ~00~#054
+;0000BF9D{ATTACK THE DCMS MECH BAYS IN THE WESTERN SECTORS.~00~}#053#050
+ATACA LAS NAVES MECH DCMS DE LOS SECTORES OESTE. ~00~#050
+;0000BFCF{RESCUE THE STAR CAPTAIN IN THE NORTH WEST SECTORS.~00~}#054#051
+RESCATA AL CAPITÁN ESTRELLA EN EL SECTOR NOROESTE.~00~#051
+;0000C002{DESTROY THE FOUR POWER PYRAMIDS FIRST.~00~}#042#039
+DESTRUYE ANTES LAS 4 PIRÁMIDES PODER. ~00~#039
+;0000C029{ATTACK THE DCMS COMPOUND.~00~}#029#026
+ATACA EL RECINTO DCMS.\  ~00~#026
+;0000C043{MUY BIEN. ~00~}#014#011
+MUY BIEN. ~00~#011
+;0000C04E{LOCATE AND DESTROY THE FIVE RADAR SITES.~00~}#044#041
+UBICA Y DESTRUYE CINCO SITIOS DE RADAR.\~00~#041
+;0000C077{NOW LOCATE THE WEAK AREA OF THE PERIMETER AND DESTROY THE RESEARCH CENTER.~00~}#078#075
+UBICA LA ZONA DÉBIL DEL PERÍMETRO Y DESTRUYE EL CENTRO DE INVESTIGACIÓN.\ ~00~#075
+;0000C0C2{NOW LOCATE AND DESTROY THE MAIN BASE.~00~}#041#038
+UBICA Y DESTRUYE LA BASE PRINCIPAL.\ ~00~#038
+;0000C0E8{MUY BIEN. ~00~}#014#011
+MUY BIEN. ~00~#011
+|1029
+@001352B2-0013547E-00
+;001352B2{DESTROY RADAR JAMMERS.~00~}#026#023
+DESTRUYE INT.DE RADAR.~00~#023
+;0000C10A{LOCATE THE GENETIC MATERIAL.~00~}#032#029
+UBICA EL MATERIAL GENÉTICO.\~00~#029
+;0000C127{DESTROY THE THUNDERBOLT MECH.~00~}#033#030
+DESTRUYE EL MECH RAYO.\      ~00~#030
+;0000C145{WELL DONE!~00~}#014#011
+¡MUY BIEN!~00~#011
+;0000C150{ALL RADAR SITES DESTROYED, ~00~}#031#028
+SITIOS RADAR DESTRUIDOS, \ ~00~#028
+;0000C16C{RESEARCH CENTER ELIMINATED, ~00~}#032#029
+CENTRO INVESTIGACIÓN ELIM., ~00~#029
+;0000C189{MAIN BASE DESTROYED, ~00~}#025#022
+BASE PPAL DESTRUIDA, ~00~#022
+;0000C19F{ONE RADAR JAMMING STATION DESTROYED, DESTROY REMAINING ONE.~00~}#063#060
+ESTACIÓN DE INTERFERENCIA DESTRUIDA, DESTRUYE LA OTRA.\    ~00~#060
+;0000C1DB{ALL RADAR JAMMING STATIONS DESTROYED, ~00~}#042#039
+ESTACIONES DE INTERFERENCIA ANULADAS, ~00~#039
+;0000C202{HELI PADS ELIMINATED, ~00~}#026#023
+HELIPADS ELIMINADOS,\ ~00~#023
+;001353D8{GENETIC MATERIAL RETRIEVED, ~00~}#032#029
+RECUPERAS MATERIAL GENÉTICO,~00~#029
+;0000C236{ALL GENETIC MATERIAL RETRIEVED, ~00~}#036#033
+MATERIAL GENÉTICO COMPLETADO, \ ~00~#033
+;0000C257{MENSAJE ENTRANTE ... THUNDERBOLT MECH DESTROYED. ~00~}#053#050
+MENSAJE ENTRANTE ... MECH RAYO DESTRUIDO. \      ~00~#050
+;00135448{DANGER - HEAT~00~}#017#014
+PELIGRO-CALOR~00~#014
+;00135456{SELECT~00~}#010#007
+ELIGE ~00~#007
+;0013545D{BACK~00~}#008#005
+ATR.~00~#005
+;00135462{PARTICLE PROJECTION CANNON: ~00~}#032#029
+CAÑÓN PROYECCIÓN PARTÍCULAS:~00~#029
+|461
+@0013547F-001358FB-00
+;0013547F{charge up for more power    ~00~}#032#029
+carga para más poder        ~00~#029
+;0013549C{damage varies               ~00~}#032#029
+el daño varía               ~00~#029
+;001354B9{arm explodes if overcharged ~00~}#032#029
+brazo explota sobrecargado  ~00~#029
+;001354D6{~00~}#004#001
+~00~#001
+;001354D7{~00~}#004#001
+~00~#001
+;001354D8{GAUSS RIFLE:                ~00~}#032#029
+RIFLE GAUSS:                ~00~#029
+;001354F5{charge up to fire farther   ~00~}#032#029
+carga para disparar lejos   ~00~#029
+;00135512{daño pesado                 ~00~}#032#029
+daño pesado                 ~00~#029
+;0013552F{puede disparar sobre muros  ~00~}#032#029
+puede disparar sobre muros  ~00~#029
+;0013554C{~00~}#004#001
+~00~#001
+;0013554D{~00~}#004#001
+~00~#001
+;0013554E{ARROW VI:                   ~00~}#032#029
+FLECHA VI:                  ~00~#029
+;0013556B{seeks best nearby enemy     ~00~}#032#029
+busca a un enemigo cercano  ~00~#029
+;00135588{daño medio                  ~00~}#032#029
+daño medio                  ~00~#029
+;001355A5{puede disparar sobre muros  ~00~}#032#029
+puede disparar sobre muros  ~00~#029
+;001355C2{~00~}#004#001
+~00~#001
+;001355C3{~00~}#004#001
+~00~#001
+;001355C4{LARGE LASER:                ~00~}#032#029
+LÁSER GRANDE:               ~00~#029
+;001355E1{mantén para disparo rápido  ~00~}#032#029
+mantén para disparo rápido  ~00~#029
+;001355FE{daño pesado                 ~00~}#032#029
+daño pesado                 ~00~#029
+;0013561B{tasa de disparo media       ~00~}#032#029
+tasa de disparo media       ~00~#029
+;00135638{~00~}#004#001
+~00~#001
+;00135639{~00~}#004#001
+~00~#001
+;0013563A{MACHINE GUN:                ~00~}#032#029
+AMETRALLADORA:              ~00~#029
+;00135657{mantén para disparo rápido  ~00~}#032#029
+mantén para disparo rápido  ~00~#029
+;00135674{daño ligero                 ~00~}#032#029
+daño ligero                 ~00~#029
+;00135691{tasa de disparo rápida      ~00~}#032#029
+tasa de disparo rápida      ~00~#029
+;001356AE{~00~}#004#001
+~00~#001
+;001356AF{~00~}#004#001
+~00~#001
+;001356B0{AUTO CANNON /S:             ~00~}#032#029
+AUTOCAÑÓN/ES:               ~00~#029
+;001356CD{mantén para disparo rápido  ~00~}#032#029
+mantén para disparo rápido  ~00~#029
+;001356EA{daño medio                  ~00~}#032#029
+daño medio                  ~00~#029
+;00135707{tasa de disparo media       ~00~}#032#029
+tasa de disparo media       ~00~#029
+;00135724{~00~}#004#001
+~00~#001
+;00135725{~00~}#004#001
+~00~#001
+;00135726{INFERNO SHORT RANGE MISSILE:~00~}#032#029
+MISIL INFERNO CORTO ALCANCE:~00~#029
+;00135743{deja fuego en el suelo      ~00~}#032#029
+deja fuego en el suelo      ~00~#029
+;00135760{daño medio                  ~00~}#032#029
+daño medio                  ~00~#029
+;0013577D{                            ~00~}#032#029
+                            ~00~#029
+;0013579A{~00~}#004#001
+~00~#001
+;0013579B{~00~}#004#001
+~00~#001
+;0013579C{LONG RANGE MISSILE 20:      ~00~}#032#029
+MISIL DE LARGO ALCANCE 20:  ~00~#029
+;001357B9{dispara directo al objetivo ~00~}#032#029
+dispara directo al objetivo ~00~#029
+;001357D6{daño medio                  ~00~}#032#029
+daño medio                  ~00~#029
+;001357F3{                            ~00~}#032#029
+                            ~00~#029
+;00135810{~00~}#004#001
+~00~#001
+;00135811{~00~}#004#001
+~00~#001
+;00135812{THUNDER MINE FIELD:         ~00~}#032#029
+CAMPO DE MINAS DE TRUENO:   ~00~#029
+;0013582F{blows up after 2 seconds    ~00~}#032#029
+explota pasados 2 segundos  ~00~#029
+;0013584C{daño pesado                 ~00~}#032#029
+daño pesado                 ~00~#029
+;00135869{                            ~00~}#032#029
+                            ~00~#029
+;00135886{~00~}#004#001
+~00~#001
+;00135887{~00~}#004#001
+~00~#001
+;00135888{                            ~00~}#032#029
+                            ~00~#029
+;001358A5{                            ~00~}#032#029
+                            ~00~#029
+;001358C2{                            ~00~}#032#029
+                            ~00~#029
+;001358DF{                            ~00~}#032#029
+                            ~00~#029
+|1149
+@0013592E-00135D35-00
+;0013592E{rank : ~00~}#011#008
+rango: ~00~#008
+;00135936{lives : ~00~}#012#009
+vidas:  ~00~#009
+;0013593F{damage : ~00~}#013#010
+daños:   ~00~#010
+;00135949{enemy mechs destroyed : ~00~}#028#025
+mecha enemigo destruido:~00~#025
+;00135962{enemies destroyed : ~00~}#024#021
+enemigos destruidos:~00~#021
+;00135977{buildings destroyed : ~00~}#026#023
+edificios destruidos: ~00~#023
+;0013598E{hit ratio : ~00~}#016#013
+aciertos:   ~00~#013
+;0013599B{star captain         ~00~}#025#022
+capitán estrella     ~00~#022
+;0001246C{star commander       ~00~}#025#022
+comandante estrella  ~00~#022
+;00012482{bloodname            ~00~}#025#022
+nombre de sangre     ~00~#022
+;00012498{star colonel         ~00~}#025#022
+coronel estrella     ~00~#022
+;000124AE{commander w/bloodname~00~}#025#022
+comandante con/sangre~00~#022
+;000124C4{carrying the star captain~00~}#029#026
+llevando capitán estrella~00~#026
+;000124DE{carrying 1 bomb piece  ~00~}#027#024
+llevando 1 pieza bomba ~00~#024
+;000124F6{carrying 2 bomb pieces ~00~}#027#024
+llevando 2 piezas bomba~00~#024
+;0001250E{carrying 3 bomb pieces ~00~}#027#024
+llevando 3 piezas bomba~00~#024
+;00012526{carrying fuel-air bomb ~00~}#027#024
+llevando bomba com-aire~00~#024
+;00135A83{one radar site destroyed   ~00~}#031#028
+un sitio radar destruido   ~00~#028
+;0001255A{two radar sites destroyed  ~00~}#031#028
+dos sitios radar destruidos~00~#028
+;00012576{three radar sites destroyed~00~}#031#028
+tres radares destruidos    ~00~#028
+;00012592{four radar sites destroyed ~00~}#031#028
+cuatro radares destruidos  ~00~#028
+;000125AE{all radar sites destroyed  ~00~}#031#028
+todo sitio radar destruido ~00~#028
+;000125CA{one radar site destroyed   ~00~}#031#028
+un sitio radar destruido   ~00~#028
+;000125E6{both radar sites destroyed ~00~}#031#028
+ambos sitios radar anulados~00~#028
+;00135B47{the RADAR SITE is located in~00~}#032#029
+el SITIO DE RADAR está en   ~00~#029
+;00135B64{the SOUTH EAST sectors.     ~00~}#032#029
+los sectores del SUDESTE.   ~00~#029
+;00135B81{this installation feeds your~00~}#032#029
+esta instalación alimenta de~00~#029
+;00135B9E{coordinates to all ground   ~00~}#032#029
+tus coordenadas a todas las ~00~#029
+;00135BBB{based guns.                 ~00~}#032#029
+armas terrestres.           ~00~#029
+;00135BD8{TAKE IT OUT.                ~00~}#032#029
+ELIMÍNALA.                  ~00~#029
+;00135BF5{~00~}#004#001
+~00~#001
+;00135BF6{AEROTECH attacks are        ~00~}#032#029
+los ataques de AEROTECH son ~00~#029
+;00135C13{frequent and deadly.        ~00~}#032#029
+frecuentes y mortales.      ~00~#029
+;00135C30{take out the AEROPORT in the~00~}#032#029
+toma el AEROPUERTO en los   ~00~#029
+;00135C4D{EASTERN sectors to rid      ~00~}#032#029
+sectores ORIENTALES para    ~00~#029
+;00135C6A{yourself of this vicious    ~00~}#032#029
+deshacerte de esta atroz    ~00~#029
+;00135C87{nuisance.                   ~00~}#032#029
+molestia.                   ~00~#029
+;00135CA4{~00~}#004#001
+~00~#001
+;00135CA5{DCMS MECH and TANK BAYS in  ~00~}#032#029
+MECH DCMS y NAVES DE TANQUES~00~#029
+;00135CC2{the WESTERN sectors         ~00~}#032#029
+en los sectores OCCIDENTALES~00~#029
+;00135CDF{manufacture mechs and tanks.~00~}#032#029
+montan mechs y tanques.     ~00~#029
+;00135CFC{eliminate this zone quickly ~00~}#032#029
+elimina esta zona rápido o  ~00~#029
+;00135D19{or they will amass an       ~00~}#032#029
+amasarán una aplastante     ~00~#029
+|1032
+@00135D36-0013614F-00
+;00135D36{overwhelming force against  ~00~}#032#029
+fuerza contra ti.           ~00~#029
+;00135D53{you.                        ~00~}#032#029
+                            ~00~#029
+;00135D70{~00~}#004#001
+~00~#001
+;00135D71{we have just discovered     ~00~}#032#029
+acabamos de descubrir que   ~00~#029
+;00135D8E{our captured STAR CAPTAIN is~00~}#032#029
+nuestro CAPITÁN ESTRELLA    ~00~#029
+;00135DAB{being held prisoner in the  ~00~}#032#029
+capturado está prisionero en~00~#029
+;00135DC8{NORTH WEST sectors.         ~00~}#032#029
+los sectores del NOROESTE.  ~00~#029
+;00135DE5{he will deactivate the DCMS ~00~}#032#029
+él desactivará las puertas  ~00~#029
+;00135E02{COMPOUND'S bay doors for    ~00~}#032#029
+de la nave del RECINTO DCMS ~00~#029
+;00135E1F{you.                        ~00~}#032#029
+para ti.                    ~00~#029
+;00135E3C{~00~}#004#001
+~00~#001
+;00135E3D{the DCMS COMPOUND has a very~00~}#032#029
+el RECINTO DCMS tiene un    ~00~#029
+;00135E5A{effective internal defense  ~00~}#032#029
+sistema de defensa interno  ~00~#029
+;00135E77{system. destroy the POWER   ~00~}#032#029
+muy efectivo. destruye los  ~00~#029
+;00135E94{GENERATORS at the four      ~00~}#032#029
+GENERADORES DE PODER en las ~00~#029
+;00135EB1{corners of the compound to  ~00~}#032#029
+cuatro esquinas el recinto  ~00~#029
+;00135ECE{disable this system.        ~00~}#032#029
+para desactivar el sistema. ~00~#029
+;00135EEB{~00~}#004#001
+~00~#001
+;00135EEC{take out the MAIN DCMS      ~00~}#032#029
+elimina el propio RECINTO   ~00~#029
+;00135F09{COMPOUND itself. LEVEL THE  ~00~}#032#029
+DCMS PRINCIPAL. NIVELA EL   ~00~#029
+;00135F26{PLACE.                      ~00~}#032#029
+LUGAR.                      ~00~#029
+;00135F43{~00~}#004#001
+~00~#001
+;00135F44{RASALHAGUE will send a      ~00~}#032#029
+RASALHAGUE enviará un envío ~00~#029
+;00135F61{shipment of parts off the   ~00~}#032#029
+de partes del planeta en    ~00~#029
+;00135F7E{planet in a FEW MINUTES.    ~00~}#032#029
+unos POCOS MINUTOS.         ~00~#029
+;00135F9B{unfortunately, we do not    ~00~}#032#029
+por desgracia, no sabemos   ~00~#029
+;00135FB8{know which of the TWO LAUNCH~00~}#032#029
+desde cual de los DOS SITIOS~00~#029
+;00135FD5{SITES they plan to ship the ~00~}#032#029
+DE LANZAMIENTO planean      ~00~#029
+;00135FF2{parts out from.             ~00~}#032#029
+enviar las partes.          ~00~#029
+;0013600F{locate and DESTROY BOTH     ~00~}#032#029
+localiza y DESTRUYE AMBOS   ~00~#029
+;0013602C{sites before the shipment   ~00~}#032#029
+sitios antes de que el envío~00~#029
+;00136049{can leave the planet.       ~00~}#032#029
+deje el planeta.            ~00~#029
+;00136066{~00~}#004#001
+~00~#001
+;00136067{take out the EIGHT MATERIAL ~00~}#032#029
+elimina las OCHO ESTACIONES ~00~#029
+;00136084{GATHERING STATIONS.         ~00~}#032#029
+DE REUNIÓN DE MATERIAL.     ~00~#029
+;001360A1{you must destroy them all or~00~}#032#029
+debes destruirlas todas o la~00~#029
+;001360BE{the MAIN ASSEMBLY PLANT will~00~}#032#029
+PLANTA PRINCIPAL DE MONTAJE ~00~#029
+;001360DB{be too volatile to attack.  ~00~}#032#029
+será demasiado volátil.     ~00~#029
+;001360F8{~00~}#004#001
+~00~#001
+;001360F9{destroy the MAIN ASSEMBLY   ~00~}#032#029
+destruye la PLANTA DE       ~00~#029
+;00136116{PLANT.                      ~00~}#032#029
+MONTAJE PRINCIPAL.          ~00~#029
+;00136133{it is heavily guarded so be ~00~}#032#029
+está fuertemente protegida  ~00~#029
+|1050
+@00136150-00136568-00
+;00136150{prepared for a wild fire    ~00~}#032#029
+así que prepárate para una  ~00~#029
+;0013616D{fight.                      ~00~}#032#029
+pelea de fuego salvaje.     ~00~#029
+;0013618A{good luck.                  ~00~}#032#029
+buena suerte.               ~00~#029
+;001361A7{~00~}#004#001
+~00~#001
+;001361A8{your radar is being         ~00~}#032#029
+tu radar está siendo        ~00~#029
+;001361C5{completely jammed.          ~00~}#032#029
+completamente interferido.  ~00~#029
+;001361E2{FEDCOM has FIVE RADAR       ~00~}#032#029
+FEDCOM tiene CINCO SITIOS DE~00~#029
+;001361FF{JAMMING SITES in the area.  ~00~}#032#029
+INTERFERENCIA DE RADAR en la~00~#029
+;0013621C{locate and destroy ALL of   ~00~}#032#029
+zona. ubica y destruye TODOS~00~#029
+;00136239{these sites.                ~00~}#032#029
+esos sitios.                ~00~#029
+;00136256{~00~}#004#001
+~00~#001
+;00136257{you should be able to locate~00~}#032#029
+deberías poder ubicar el    ~00~#029
+;00136274{the RESEARCH CENTER on your ~00~}#032#029
+CENTRO DE INVESTIGACIÓN en  ~00~#029
+;00136291{radar screen as well as the ~00~}#032#029
+tu pantalla de radar así    ~00~#029
+;001362AE{WEAK AREA in the CENTER'S   ~00~}#032#029
+como la ZONA DÉBIL del      ~00~#029
+;001362CB{defensive perimeter.        ~00~}#032#029
+perímetro defensivo del     ~00~#029
+;001362E8{break through it and take   ~00~}#032#029
+CENTRO.                     ~00~#029
+;00136305{out everything in the       ~00~}#032#029
+atraviésala y elimina todo  ~00~#029
+;00136322{CENTER.                     ~00~}#032#029
+lo que hay en el CENTRO.    ~00~#029
+;0013633F{~00~}#004#001
+~00~#001
+;00136340{now, take out the MAIN BASE ~00~}#032#029
+toma la BASE PRINCIPAL,     ~00~#029
+;0013635D{where all the research      ~00~}#032#029
+donde guardan la información~00~#029
+;0013637A{information is stored.      ~00~}#032#029
+de la investigación.        ~00~#029
+;00136397{the only way to reach this  ~00~}#032#029
+la única forma de llegar a  ~00~#029
+;001363B4{area is by traversing down  ~00~}#032#029
+esta zona es atravesar el   ~00~#029
+;001363D1{the frozen river.           ~00~}#032#029
+río helado.                 ~00~#029
+;001363EE{the river is heavily guarded~00~}#032#029
+el río está muy protegido   ~00~#029
+;0013640B{by the FIRST LYRAN REGULARS,~00~}#032#029
+por los PRIMEROS SOLDADOS DE~00~#029
+;00136428{so watch out.               ~00~}#032#029
+LYRAN, así que ten cuidado. ~00~#029
+;00136445{~00~}#004#001
+~00~#001
+;00136446{locate the FOUR             ~00~}#032#029
+encuentra las CUATRO        ~00~#029
+;00136463{INSTALLATIONS that hold the ~00~}#032#029
+INSTALACIONES que tienen las~00~#029
+;00136480{device pieces. each         ~00~}#032#029
+piezas del dispositivo. cada~00~#029
+;0013649D{installation is protected by~00~}#032#029
+instalación está protegida  ~00~#029
+;001364BA{an ENCLOSED WALL. break     ~00~}#032#029
+por un MURO ADJUNTO.        ~00~#029
+;001364D7{through these walls and     ~00~}#032#029
+atraviesa esos muros y lleva~00~#029
+;001364F4{pick up each piece to the   ~00~}#032#029
+cada pieza al DISPOSITIVO DE~00~#029
+;00136511{FUEL AIR DEMOLITION DEVICE. ~00~}#032#029
+DEMOLICIÓN DE COMBUSTIBLE A.~00~#029
+;0013652E{~00~}#004#001
+~00~#001
+;0013652F{you now have all the pieces ~00~}#032#029
+tienes todas las piezas del ~00~#029
+;0013654C{to the FUEL AIR DEVICE. the ~00~}#032#029
+DISPOSITIVO DE COMBUSTIBLE  ~00~#029
+|1049
+@00136569-00136A2E-00
+;00136569{device will reach critical  ~00~}#032#029
+AÉREO. el dispositivo llega ~00~#029
+;00136586{mass and explode in 30      ~00~}#032#029
+a la masa crítica y explota ~00~#029
+;001365A3{seconds. move quickly to the~00~}#032#029
+en 30 segundos. muévete     ~00~#029
+;001365C0{METAL section of the WALL   ~00~}#032#029
+rápido a la sección de METAL~00~#029
+;001365DD{protecting the drop ship    ~00~}#032#029
+del MURO que protege la     ~00~#029
+;001365FA{plant. once you are next to ~00~}#032#029
+planta de naves transporte. ~00~#029
+;00136617{the wall, the device will   ~00~}#032#029
+cuando estés al lado del    ~00~#029
+;00136634{AUTOMATICALLY DROP from your~00~}#032#029
+muro, dispositivo CAERÁ de  ~00~#029
+;00136651{mech. then just get out of  ~00~}#032#029
+tu mech AUTOMÁTICAMENTE.    ~00~#029
+;0013666E{the area as quickly as      ~00~}#032#029
+entonces sal de la zona tan ~00~#029
+;0013668B{possible.                   ~00~}#032#029
+rápido como te sea posible. ~00~#029
+;001366A8{~00~}#004#001
+~00~#001
+;001366A9{the defensive wall has been ~00~}#032#029
+el muro defensivo ha sido   ~00~#029
+;001366C6{destroyed. move in and take ~00~}#032#029
+destruido. entra y toma la  ~00~#029
+;001366E3{out the drop ship           ~00~}#032#029
+planta de montaje de naves  ~00~#029
+;00136700{manufacturing plant.        ~00~}#032#029
+de transporte.              ~00~#029
+;0013671D{good luck.                  ~00~}#032#029
+buena suerte.               ~00~#029
+;0013673A{~00~}#004#001
+~00~#001
+;0013673B{eliminate the TWO RADAR     ~00~}#032#029
+elimina DOS SITIOS DE       ~00~#029
+;00136758{JAMMING SITES that are      ~00~}#032#029
+INTERFERENCIA DE RADAR que  ~00~#029
+;00136775{interfering with your radar.~00~}#032#029
+interfieren con tu radar.   ~00~#029
+;00136792{~00~}#004#001
+~00~#001
+;00136793{retrieve the GENETIC        ~00~}#032#029
+recupera el MATERIAL        ~00~#029
+;001367B0{MATERIAL located in the     ~00~}#032#029
+GENÉTICO de los CENTROS DE  ~00~#029
+;001367CD{GENE STORAGE CENTERS.       ~00~}#032#029
+ALMACENAMIENTO DE GENES.    ~00~#029
+;001367EA{~00~}#004#001
+~00~#001
+;001367EB{destroy the THUNDERBOLT     ~00~}#032#029
+destruye el MECH            ~00~#029
+;00136808{MECH.                       ~00~}#032#029
+THUNDERBOLT.                ~00~#029
+;00136825{~00~}#004#001
+~00~#001
+;00136826{password = ~00~}#015#012
+password = ~00~#012
+;00136832{good work,                   the RASALHAGUE'S operation  is now completely           inoperable.  the enemy      suffered a terrific defeat  and will no longer present  a threat to us.             you have been promoted to   STAR COLONEL.              ~00~}#256#253
+buen trabajo,               
+ la operación RASALHAGUE    
+ está ahora completamente   
+ no operativa.  el enemigo  
+ ha sufrido una tremenda    
+ derrota y ya no nos supone 
+ una amenaza.               
+ has sido ascendido a       
+ CORONEL ESTRELLA.          ~00~#253
+;0013692F{~00~}#004#001
+~00~#001
+;00136930{~00~}#004#001
+~00~#001
+;00136931{~00~}#004#001
+~00~#001
+;00136932{congratulations,             you have defeated the       DRACONIS COMBINE and the    14th LEGION OF VEGA.        you will now be transported to the planet SATALICE for  your next battle.           you have been promoted to   STAR CAPTAIN.              ~00~}#256#253
+felicidades,                
+ has derrotado al DRACONIS  
+ COMBINE y a la 14va LEGIÓN 
+ DE VEGA.                   
+ ahora serás transportado al
+ planeta SATALICE para tu   
+ siguiente batalla.         
+ has sido ascendido a       
+ CAPITÁN ESTRELLA.          ~00~#253
+|1222
+@00136A2F-00136E82-00
+;00136A2F{~00~}#004#001
+~00~#001
+;00136A30{~00~}#004#001
+~00~#001
+;00136A31{~00~}#004#001
+~00~#001
+;00136A32{congratulations,             AVON will no longer be      able to supply drop ships   to our enemies.             you have been promoted to   STAR COMMANDER WITH         BLOODNAME.                                                                         ~00~}#256#253
+felicidades,                
+ AVON ya no será capaz de   
+ suministrar naves de       
+ transporte a nuestros      
+ enemigos.                  
+ has sido ascendido a       
+ COMANDANTE CON NOMBRE DE   
+ SANGRE.                    
+                            ~00~#253
+;00136B2F{~00~}#004#001
+~00~#001
+;00136B30{~00~}#004#001
+~00~#001
+;00136B31{~00~}#004#001
+~00~#001
+;00136B32{good work,                   you have neutralized        FEDCOM'S NAIS facility.     they will no longer be able to analyze captured clan    equipment.                  you now have a BLOODNAME.                                                          ~00~}#256#253
+buen trabajo,               
+ has neutralizado la        
+ instalación NAIS de FEDCOM.
+ ya no serán capaces de     
+ analizar equipo capturado  
+ del clan.                  
+ ahora tienes NOMBRE DE     
+ SANGRE.                    
+                            ~00~#253
+;00136C2F{~00~}#004#001
+~00~#001
+;00136C30{~00~}#004#001
+~00~#001
+;00136C31{~00~}#004#001
+~00~#001
+;00136C32{congratulations,             the retrieved DNA will      produce the greatest        warriors in the INNER       SPHERE.                     the true born of clan       WOLF has elevated you to    the rank of KHAN, the       clan's senior military      commander and bureaucratic  administrator.                                            THANK YOU FOR PLAYING.   ~00~}#368#365
+felicidades,                
+ el ADN recuperado          
+ producirá los mejores      
+ guerreros de la ESFERA     
+ INTERIOR.                  
+ el verdadero hijo del clan 
+ LOBO te ha elevado al      
+ rango de KHAN, el          
+ comandante militar senior  
+ del clan y administrador   
+ burocrático.               
+                            
+     GRACIAS POR JUGAR.     ~00~#365
+;00136D9F{~00~}#004#001
+~00~#001
+;00136DA0{~00~}#004#001
+~00~#001
+;00136DA1{~00~}#004#001
+~00~#001
+;00136DA2{clearly RASALHAGUE was too  much for you to handle.     hopefully your successor    will be more competent.                                                                                                                     ~00~}#228#225
+claramente RASALHAGUE fue   
+demasiado para ti.          
+esperamos que tu sucesor sea
+más competente.             
+                            
+                            
+                            
+                            ~00~#225
+|1108
+@00136E83-001372F6-00
+;00136E83{~00~}#004#001
+~00~#001
+;00136E84{~00~}#004#001
+~00~#001
+;00136E85{~00~}#004#001
+~00~#001
+;00136E86{your failure to destroy the DCMS COMPOUND has sealed    our fate.                                               for generations your name   will be remembered with     shame.                                                  ~00~}#228#225
+tu fracaso en destruir el   
+RECINTO DCMS ha sellado     
+nuestro destino.            
+                            
+durante generaciones tu     
+nombre será recordado con   
+deshonra.                   
+                            ~00~#225
+;00136F67{~00~}#004#001
+~00~#001
+;00136F68{~00~}#004#001
+~00~#001
+;00136F69{~00~}#004#001
+~00~#001
+;00136F6A{you have been destroyed by  5th GHOST REGIMENT defenses.they will continue supplyingdrop ships to our enemies.  your failure will bring manyenemy troops to our home    worlds.                                                 ~00~}#228#225
+has sido destruido por las  
+defensas del 5to REGIMIENTO 
+FANTASMA.                   
+continuarán suministrando   
+naves de transporte al      
+enemigo. tu fracaso traerá a
+muchas tropas enemigas a    
+nuestros mundos natales.    
+~00~#225
+;0013704B{~00~}#004#001
+~00~#001
+;0013704C{~00~}#004#001
+~00~#001
+;0013704D{~00~}#004#001
+~00~#001
+;0013704E{apparently, the FIRST LYRAN REGULARS were too much for  you. because you failed,    FEDCOM has analyzed our     equipment and discovered itsweak areas.                                                                         ~00~}#228#225
+al parecer, los PRIMEROS    
+SOLDADOS LYRAN fueron       
+demasiado para ti. como     
+fallaste, la FEDCOM ha      
+analizado nuestro equipo y  
+ha descubierto sus zonas    
+débiles.                    
+                            ~00~#225
+;0013712F{~00~}#004#001
+~00~#001
+;00137130{~00~}#004#001
+~00~#001
+;00137131{~00~}#004#001
+~00~#001
+;00137132{your failure to retrieve    the GIFTAKE has greatly     diminished our ability to   produce improved warriors.  the COMSTAR GARRISON will   reproduce WOLF CLAN'S best  MECHWARRIORS with the       GIFTAKE.                    ~00~}#228#225
+tu fracaso al recuperar el  
+GIFTAKE ha disminuido mucho 
+nuestra habilidad productora
+de guerreros mejorados.     
+la GUARNICIÓN COMSTAR       
+producirá los mejores       
+MECHWARRIORS del CLAN del   
+LOBO con GIFTAKE.           ~00~#225
+;00137213{~00~}#004#001
+~00~#001
+;00137214{~00~}#004#001
+~00~#001
+;00137215{~00~}#004#001
+~00~#001
+;00137216{the STAR CAPTAIN you just   retired was the only person who could disable the bay   doors that protect the DCMS COMPOUND.  without the      captain, there is no way to destroy the compound. you   have failed your mission.   ~00~}#228#225
+el CAPITÁN ESTRELLA que has 
+retirado era la única       
+persona que podía desactivar
+las puertas del RECINTO     
+DCMS. sin el capitán, no hay
+manera de destruir el       
+recinto. has fallado tu     
+misión.                     ~00~#225
+|1140
+@001372F7-001375A2-00
+;001372F7{~00~}#004#001
+~00~#001
+;001372F8{~00~}#004#001
+~00~#001
+;001372F9{~00~}#004#001
+~00~#001
+;001372FA{RASALHAGUE was able to send off the critical shipment.                              your failure has sealed our fate.                                                                                                           ~00~}#228#225
+RASALHAGUE pudo enviar el   
+envío crítico.              
+                            
+tu fracaso ha sellado       
+nuestro destino.            
+                            
+                            
+                            ~00~#225
+;001373DB{~00~}#004#001
+~00~#001
+;001373DC{~00~}#004#001
+~00~#001
+;001373DD{~00~}#004#001
+~00~#001
+;001373DE{you destroyed the main      plant before eliminating    all of the gathering        stations.  the resulting    explosion has made life on  this planet impossible for  the next million years. nexttime, try following orders. ~00~}#228#225
+destruiste la planta        
+principal antes de eliminar 
+todas las estaciones de     
+acopio. la explosión        
+resultante ha hecho que la  
+vida en el planeta no sea   
+posible en millones de años.
+otra vez, sigue las órdenes.~00~#225
+;001374BF{~00~}#004#001
+~00~#001
+;001374C0{~00~}#004#001
+~00~#001
+;001374C1{~00~}#004#001
+~00~#001
+;001374C2{it took you too long to findthe metal section of the    plant's protective wall. theFUEL AIR DEVICE detonated   before you positioned it.                                                                                       ~00~}#228#225
+tardaste demasiado en hallar
+la sección metálica del muro
+de protección de la planta. 
+el DISPOSITIVO de           
+COMBUSTIBLE AÉREO detonó    
+antes de que lo colocaras.  
+                            
+                            ~00~#225
+|684
+@001375BE-001376BC-00
+;001375BE{ 1P START ~00~}#014#011
+1 JUGADOR ~00~#011
+;001375C9{ 2P START ~00~}#014#011
+  DOBLES  ~00~#011
+;001375D4{ OPTIONS ~00~}#013#010
+OPCIONES ~00~#010
+;001375DE{GAME OPTIONS~00~}#016#013
+  OPCIONES  ~00~#013
+;001375EB{START OR Y = SELECT~00~}#023#020
+ START O Y = ELEGIR~00~#020
+;001375FF{         B = EXIT~00~}#021#018
+         B = SALE~00~#018
+;00137611{         A = NEXT OPTION~00~}#028#025
+         A = OTRA OPCIÓN~00~#025
+;0013762A{PASSWORD~00~}#012#009
+PASSWORD~00~#009
+;00137633{MUSIC    00~00~}#015#012
+MÚSICA   00~00~#012
+;0013763F{SFX      00~00~}#015#012
+EFECTO   00~00~#012
+;0013764B{EXIT~00~}#008#005
+SALE~00~#005
+;00137650{  enter password  ~00~}#022#019
+  entra password  ~00~#019
+;00137663{2             ~00~}#018#015
+2             ~00~#015
+;00137672{1             ~00~}#018#015
+1             ~00~#015
+;00137681{4             ~00~}#018#015
+4             ~00~#015
+;00137690{3             ~00~}#018#015
+3             ~00~#015
+;0013769F{5             ~00~}#018#015
+5             ~00~#015
+;001376AE{              ~00~}#018#015
+              ~00~#015
+|255
+@001376C3-0013786E-00
+;001376C3{ENTER PASSWORD~00~}#018#015
+ENTRA PASSWORD~00~#015
+;001376D2{START OR Y = SELECT CHARACTER~00~}#033#030
+ START O Y = ELEGIR PERSONAJE~00~#030
+;001376F0{         B = EXIT~00~}#021#018
+         B = SALE~00~#018
+;00137702{         A = NEXT CHARACTER~00~}#031#028
+         A = OTRO PERSONAJE~00~#028
+;0013771E{MUST BE 6 CHARACTERS~00~}#024#021
+  SON 6 CARACTERES  ~00~#021
+;00137733{  INVALID PASSWORD  ~00~}#024#021
+  PASSWORD ERRÓNEO  ~00~#021
+;00137748{MISSION=            ~00~}#024#021
+ MISIÓN=            ~00~#021
+;0013775D{>>>>>>>      <<<<<<<~00~}#024#021
+>>>>>>>      <<<<<<<~00~#021
+;00137772{0123456789BCDFGHJKLMNPQRSTVWXYZ?     ~7B~  ENTER~00~}#052#046
+0123456789BCDFGHJKLMNPQRSTVWXYZ?     ~7B~  ENTRA~00~#046
+;001377A0{PRESS START TO PLAY~00~}#023#020
+  START PARA JUGAR ~00~#020
+;001377B4{COPYRIGHT 1995 ACTIVISION, INC.~00~}#035#032
+COPYRIGHT 1995 ACTIVISION, INC.~00~#032
+;001377D4{LICENSED BY NINTENDO.~00~}#025#022
+LICENCIA DE NINTENDO.~00~#022
+;001377EA{MGUN~00~}#008#005
+MTRL~00~#005
+;001377EF{AUTO CANNON /S~00~}#018#015
+AUTO CAÑÓN/ES ~00~#015
+;001377FE{INFERNO SRM~00~}#015#012
+INFERNO SRM~00~#012
+;0013780A{LARGE LASER~00~}#015#012
+GRAN LÁSER ~00~#012
+;00137816{THUNDER MINE~00~}#016#013
+MINA TRUENO ~00~#013
+;00137823{PPC~00~}#007#004
+PPC~00~#004
+;00137827{LR MISSILE~00~}#014#011
+MISILES ID~00~#011
+;00137832{ARROW VI~00~}#012#009
+FLECHAVI~00~#009
+;0013783B{GAUSS RIFLE~00~}#015#012
+RIFLE GAUSS~00~#012
+;00137847{MGUNLASRFLAMACANMINEPPC STM SMM FRAG    }#040#040
+METR
+LASR
+LLAM
+ACAN
+MINA
+PPC 
+STM 
+SMM 
+FRAG
+    #040
+|428
+@0013786F-00137E8A-00
+;0013786F{your next mission is againstRASALHAGUE. you will be     dropped on the planet       SATALICE.                   $gorton, kingsley, and thorpeenterprises have built an   assembly plant that creates MECH FUSION engines.        $there are three main facets to their manufacturing      process.                    $raw materials are acquired  at various points around theplanet.                     $these materials are then    transported through an      underground tunnel network  to a large central assembly plant.                      $once assembly is completed, final parts are transported through the tunnel network  to one of two launch areas  where completed engines are shipped off the planet.     $our agents have learned thata shipment will be launched very soon from one of their ~03~~01~pyramid shaped LAUNCH       BUILDINGS.                  $you must locate and destroy BOTH structures because our agents were not able to tellus which building houses    the parts.                  $~02~your next targets are the   ~03~~00~}#1036#1021
+tu próxima misión es contra 
+RASALHAGUE. serás soltado en
+el planeta SATALICE.        
+                            $
+gorton, kingsley y thorpe   
+enterprises han construido  
+una planta de montaje que   
+crea motores de FUSIÓN MECH.$
+hay tres facetas principales
+en su proceso de fabricación
+                            $
+los materiales crudos se    
+adquieren en varios puntos  
+alrededor del mundo.        $
+estos materiales son        
+transportados por una red de
+túneles subterráneos a una  
+gran planta de montaje      
+central.                    $
+al completar el montaje,    
+transportan las partes      
+finales a través de la red  
+de túneles a una de las dos 
+zonas de lanzamiento y sacan
+los motores del planeta.    $
+nuestros agentes hallaron   
+que muy pronto lanzarán un  
+envío desde uno de sus      ~03~~01~
+EDIFICIOS DE LANZAMIENTO con
+forma de pirámide.          $
+debes localizar y destruir  
+AMBAS estructuras porque    
+nuestros agentes no pudieron
+decirnos que edificio       
+contiene las partes.        $~02~
+tus próximos objetivos son  ~03~~00~#1021
+;00137C6C{MATERIAL GATHERING STATIONS.$these stations are comprisedof three structures linked  together.                   $you must take out every     station or the central      assembly plant will be TOO  VOLATILE to attack.         $~02~finally, eliminate the large~03~~02~CENTRAL ASSEMBLY PLANT.     $this plant and the          surrounding area is guarded by the 4th KAVALLERI, so    stay alert.                 $~02~also watch where you step.  the planet is covered with  lava which will heat up yourmech.                       $good luck.... WARD out.     ~00~}#558#543
+ESTACIONES DE MATERIALES.   $
+estas estaciones están      
+compuesta de tres           
+estructuras enlazadas.      $
+debes derribar todas las    
+estaciones o la planta de   
+montaje central será        
+DEMASIADO VOLÁTIL.          $~02~
+finalmente, elimina la gran ~03~~02~
+PLANTA DE MONTAJE CENTRAL.  $
+esta planta y la zona de    
+alrededor está protegida por
+la 4ta KAVALLERI, así que   
+mantente alerta.            $~02~
+también mira donde pisas.   
+el planeta está cubierto de 
+lava que calentará tu mech. 
+buena suerte...             $
+WARD fuera.                 ~00~#543
+|1564
+@00137E8B-001383F9-00
+;00137E8B{FEDCOM has set up a NAIS    facility on the planet      RIDDERKERK.                 $the facility is attempting  to analyze captured clan    equipment.                  $the research facilities are protected by the FIRST LYRANREGULARS.                   $two main facilities are on  the planet: a RESEARCH      CENTER and a BASE.          $both of these centers must  be eliminated.              $we do not know where they   are located due to FEDCOM'S radar jamming sites         in the area.                $~03~~00~}#518#512
+la FEDCOM ha montado una    
+instalación NAIS en el      
+planeta RIDDERKERK.         $
+la instalación está         
+intentando analizar equipo  
+capturado del clan.         $
+las instalaciones de        
+investigación las protegen  
+los PRIMEROS SOLDADOS LYRAN.$
+hay dos instalaciones       
+principales en el planeta:  
+INVESTIGACIÓN y BASE.       $
+ambos centros deben ser     
+eliminados.                 $
+no sabemos donde están      
+ubicados por los sitios de  
+interferencia de radar de   
+FEDCOM de la zona.          $~03~~00~#512
+;0013808B{first, you must locate and  DESTROY all FIVE of the     RADAR SITES which are       JAMMING your RADAR.         $~02~once eliminated, your radar will show the location of   the RESEARCH CENTER.        $this must be eliminated     before they can gain any    knowledge of our battle     equipment.                  $your radar will also show   the WEAK AREA in the        RESEARCH CENTER'S defensive perimeter.                  $shooting through this wall  is the only way into the    center.                     $your radar will also reveal the location of the heavily protected BASE.             $the base is where the       research information is     stored. every building in   the area must be eliminated.$navigation through icy      areas is going to be very   difficult.                  $use extreme caution when    traversing these areas.     $WARD out!                   ~00~}#885#879
+primero, debes localizar y  
+DESTRUIR los CINCO SITIOS de
+RADAR que INTERFIEREN con tu
+con tu RADAR.               $~02~
+una vez eliminados, tu radar
+mostrará la ubicación del   
+CENTRO DE INVESTIGACIÓN.    $
+este debe ser eliminado     
+antes de que puedan ganar   
+cualquier conocimiento sobre
+nuestro equipo.             $
+tu radar también mostrará la
+ZONA DÉBIL del perímetro    
+defensivo del CENTRO DE     
+INVESTIGACIÓN.              $
+disparar a través de este   
+muro es la única forma de   
+entrar al centro.           $
+tu radar también revelará la
+ubicación de la fuertemente 
+protegida BASE.             $
+la base es donde se almacena
+la información de la        
+investigación. todo edificio
+de la zona debe eliminarse. $
+la navegación a través de   
+las zonas heladas va a ser  
+muy difícil.                $
+usa extrema precaución al   
+atravesar estas zonas.      $
+¡WARD fuera!                ~00~#879
+|1391
+@001383FA-00138AA8-00
+;001383FA{your first mission takes    place on the planet ALSHAIN against the DRACONIS        COMBINE.                    $you will be dropped in the  SOUTHERN sectors of their   complex.                    $take out the four main      installations:              the radar site, the aerotechbase, the DCMS mech and tankbays, and the DCMS compound.$~03~~00~}#347#341
+tu primera misión tiene     
+lugar en el planeta ALSHAIN 
+contra la ASOCIACIÓN        
+DRACONIS.                   $
+seras soltado en los        
+sectores del SUR de su      
+complejo.                   $
+elimina las cuatro          
+instalaciones principales:  
+sitio de radar, base        
+aerotech, naves DCMS de     
+mech/tanques y recinto DCMS.$~03~~00~#341
+;0013854F{as soon as you land, quicklyneutralize the RADAR SITE inthe SOUTH EAST sectors.     $this will force the ground  based guns to target        ~02~manually.                   $~03~~01~the AEROTECH squadron will  constantly attack you from  above. the only defense is  to destroy their base in the~02~EASTERN sectors.            $~03~~02~the DCMS MECH and TANK BAYS are located in the WESTERN  sectors.                    $these must be eliminated to prevent the DCMS from       amassing huge mech and tank ~02~forces against you.         $~03~~03~finally, take out the DCMS  COMPOUND located in the     NORTHERN sectors.           $the compound is well        defended by a sophisticated internal laser defense      ~02~system.                     $~03~~04~the laser defense system is powered by FOUR external    energy converters which     should be destroyed before  entering the compound.      $~02~the ENTRANCE to the compoundis sealed with an armored   bay door.                   $one of our STAR CAPTAINS wasable to deactivate it, but  was captured and is being   held prisoner somewhere in  the complex.                $the only way to gain        entrance into the DCMS      COMPOUND is to RESCUE the   STAR CAPTAIN so he can      detonate the bay doors.     $the 14th LEGION OF VEGA is  defending this complex.     do not tread lightly.       $galaxy commander COLONEL    WARD, out.                  ~00~}#1412#1370
+al aterrizar, neutraliza    
+rápidamente el SITIO DE     
+RADAR del sector SUDESTE.   $
+esto forzará a las armas de 
+tierra a apuntar de forma   ~02~
+manual.                     $~03~~01~
+el escuadrón AEROTECH te    
+atacará constantemente desde
+el aire. la única defensa es
+destruir su base en los     ~02~
+sectores ORIENTALES.        $~03~~02~
+los MECH DCMS y LAS NAVES DE
+TANQUES están ubicadas en   
+los sectores OCCIDENTALES.  $
+estos deben ser eliminados  
+para evitar que el DCMS     
+amase grandes fuerzas de    ~02~
+mechs y tanques contra ti.  $~03~~03~
+finalmente, elimina el      
+RECINTO DCMS ubicado en los 
+sectores del NORTEÑOS.      $
+el recinto está bien        
+defendido por un sofisticado
+sistema interno de defensa  ~02~
+láser.                      $~03~~04~
+el sistema de defensa láser 
+está alimentado por CUATRO  
+convertidores de energía    
+externos que deberían ser   
+destruidos antes de entrar. $~02~
+la ENTRADA al recinto está  
+sellada con una puerta de   
+nave blindada.              $
+uno de nuestros CAPITANES   
+ESTRELLA pudo desactivarla, 
+pero fue capturado y está   
+aprisionado en algún lugar  
+del complejo.               $
+la única manera de poder    
+entrar en el RECINTO DCMS es
+RESCATAR al CAPITÁN ESTRELLA
+para que pueda detonar las  
+puertas de la nave.         $
+la 14va LEGIÓN DE VEGA está 
+defendiendo este complejo.  
+no pisar a la ligera.       $
+comandante galáctico        
+CORONEL WARD, fuera.        ~00~#1370
+|1711
+@00138AA9-00139114-00
+;00138AA9{this mission takes place on the planet AVON where the   5th GHOST REGIMENT is       defending a DROP SHIP       MANUFACTURING PLANT.        $we have located the plant   behind a massive STONE WALL which our standard weapons  cannot break through.       $the only way to get into thearea is to set a FUEL AIR   DEMOLITION DEVICE at the    base of the wall.           $during a previous attempt totake out this section, the  FOUR critical items needed  to assemble the device were CAPTURED by the 5th ghost   regiment.                   $you must locate and pick up the FOUR pieces of this     device:                     $~03~~00~}#629#623
+esta misión tiene lugar en  
+el planeta AVON donde el 5to
+REGIMIENTO FANTASMA defiende
+una PLANTA DE FABRICACIÓN DE
+NAVES DE TRANSPORTE.        $
+hemos ubicado la planta tras
+un masivo MURO DE PIEDRA que
+nuestras armas estándar no  
+pueden atravesar.           $
+la única forma de entrar en 
+la zona es colocar un       
+DISPOSITIVO DE DEMOLICIÓN   
+en la base del muro.        $
+en nuestro anterior intento 
+de tomar esta sección, los  
+CUATRO objetos críticos que 
+necesitamos para ensamblar  
+el dispositivo los capturó  
+el 5to regimiento fantasma. $
+debes localizar y recoger   
+las CUATRO piezas de este   
+dispositivo:                $~03~~00~#623
+;00138D18{TWO NITROUS OXIDE CANISTERS,                            ~02~                            ~03~~01~a DISPERSAL DEVICE,                                     ~02~                            ~03~~02~and a DETONATION DEVICE.                                                            ~02~once the FOUR pieces are    picked up, you have about 30seconds to get to the wall'sMETAL SECTION where the     device will automatically bedropped.                    $once you drop the device,   get out of the area so you  will not suffer any damage  from the explosion.         $after the wall is destroyed,take out the drop ship      plant.                      $we do not have detailed     information on the size or  strength of this station, sobe ready for anything.      $the 5th GHOST REGIMENT is   also equipped with jumpjet  technology.  to escape a    losing battle they will moveout of sight and use their  jumpjets to fly away.       try not to let any mechs outof sight once you have      engaged them.               $COLONEL WARD out.           ~00~}#1045#1021
+DOS BOTES DE ÓXIDO NITROSO, 
+                            ~02~                            ~03~~01~
+un DISPOSITIVO DE DISPERSIÓN
+                            ~02~                            ~03~~02~
+y un DISPOSITIVO DE         
+DETONACIÓN.                 
+                            ~02~
+cuando recojas las CUATRO   
+piezas, tendrás unos 30     
+segundos para llegar a la   
+SECCIÓN METÁLICA del muro   
+donde el dispositivo será   
+soltado automáticamente.    $
+una vez hayas soltado el    
+dispositivo, sal de la zona 
+para no sufrir daños por la 
+explosión.                  $
+tras la destrucción del     
+muro, destruye la planta de 
+naves de transporte.        $
+no tenemos información      
+detallada sobre el tamaño o 
+la fuerza de esta estación, 
+así que prepárate para todo.$
+el 5to REGIMIENTO FANTASMA  
+también está equipado con   
+tecnología jumpjet. para    
+escapar de una batalla que  
+están perdiendo huirán y    
+y usarán los jumpjets.      
+intentar no dejar a un mech 
+fuera de tu campo de visión 
+una vez hayas atacado.      $
+CORONEL WARD fuera.         ~00~#1021
+|1644
+@00139115-001394FD-00
+;00139115{the 394th division of the   COMSTAR GARRISON recently   intercepted a GIFTAKE       shipment en route to our    home world.                 $the GIFTAKE is a sample of  DNA taken from a warrior whodied with great glory in    combat. it is used to       produce improved warriors.  $the 394th has hidden the    GIFTAKE in GENETIC MATERIAL CANISTERS in the swamp.     $you must recover these DNA  CANISTERS.                  $~03~~01~first destroy the TWO RADAR JAMMING SITES.              $until destroyed, these will prevent you from using your radar.                      $~02~~03~~02~also, retrieve the stolen   GENETIC MATERIAL.           $~02~~03~~00~}#655#631
+la 394va división de la     
+GUARNICIÓN COMSTAR hace poco
+interceptó un envío de      
+GIFTAKE de camino a nuestro 
+mundo natal.                $
+el GIFTAKE es un muestra de 
+ADN tomada de un guerrero   
+que murió con gran gloria en
+combate. es usado para crear
+guerreros mejorados.        $
+la 394va ocultó el GIFTAKE  
+en el pantano en FRASCOS DE 
+MATERIAL GENÉTICO.          $
+debes recuperar estos       
+FRASCOS DE ADN.             $~03~~01~
+primero destruye los DOS    
+SITIOS DE RADAR.            $
+hasta destruirlos, estos no 
+te dejarán usar tu radar.   
+                            $~02~~03~~02~
+también, recupera el        
+MATERIAL GENÉTICO robado.   $~02~~03~~00~#631
+;0013938C{our agents have located the CANISTERS in COMSTAR        GARRISON'S GENE STORAGE     CENTERS.                    $these locations will appear on your radar screen.       ~02~$be on the lookout for a     THUNDERBOLT MECH.           it is piloted by one of the 394th's best MECHWARRIORS.  $the swamp terrain will help keep your mech cool.        $good luck....WARD out.      ~00~}#376#370
+nuestros agentes han ubicado
+los FRASCOS en la GUARNICIÓN
+DE LOS CENTROS DE ALMACENAJE
+DE GENES DE COMSTAR.        $
+estas ubicaciones aparecerán
+en tu pantalla de radar.    ~02~$
+estate atento a un MECH     
+RAYO.                       
+lo pilota uno de los mejores
+MECHWARRIORS de la 394.     $
+el terreno del pantano te   
+ayudará a enfriar tu mech.  $
+buena suerte... WARD corto. ~00~#370
+|1001
+@0013954D-0013956A-00
+;0013954D{tl-b-u-r-a-x ~40~ tiburon screen~00~}#036#030
+tl-b-u-r-a-x ~40~ pantal.tiburón~00~#030
+|30
+@0013C963-0013C9B7-00
+;0013C963{this mission has not been   implemented yet, press B to exit, A to play mission 1   ~00~}#088#085
+esta misión aún no ha sido  
+implementada, pulsa B para  
+salir, A para jugar misión 1~00~#085
+|85

@@ -1,0 +1,254 @@
+@000012F5-00001302-00
+;000012F5{FLASHING OVER~00~}#017#014
+FIN DESTELLOS~00~#014
+|14
+@00003554-000036A8-00
+;00003554{~21~~22~~60~GAME DESIGN[[[$TSUTOMU FUZISAWA=SOFTWARE DESIGN[[[$TOSHIO ARAI=CHRACTER DESIGN[[[$TSUTOMU FUZISAWA[[[[$SIN=BACKGROUND DESIGN[[[$MIHO URUSHIBARA=SOUND EFFECT[[[$YOSHIO NAGASHIMA=SPECIAL THANKS[[[$MUTSUO KANEKO[]$KINYA AOYAMA[]]$ITSAM MATARCA[]]]$M·A·D YUKI[]]]]$MA-X TERUI[]]]]]$MINORU TOMIZAWA[]]]]]]$NOBUYUKI NARITA[]]]]]]]$SHIHO SASAKI~00~}#353#341
+~21~~22~~60~
+DISEÑO JGO.[[[$TSUTOMU FUZISAWA=
+DISEÑO SOFTWARE[[[$TOSHIO ARAI=
+DISEÑO PERSONA.[[[$TSUTOMU FUZISAWA[[[[$SIN=
+DISEÑO DE FONDOS [[[$MIHO URUSHIBARA=
+EFECTO AUDIO[[[$YOSHIO NAGASHIMA=
+MUCHAS GRACIAS[[[$MUTSUO KANEKO[]$KINYA AOYAMA[]]$ITSAM MATARCA[]]]$M·A·D YUKI[]]]]$MA-X TERUI[]]]]]$MINORU TOMIZAWA[]]]]]]$NOBUYUKI NARITA[]]]]]]]$SHIHO SASAKI~00~#341
+|341
+@00003C6B-0000406A-00
+;00003C6B{                                    CONNECT YOUR BODYS              TO LONG CHAIN                                                                                   ENCLOSE FOOD!                   TO OPEN THE EXIT HOLE                                                                           SAVE KEYS                       TO OPEN DOOR                                                                                    USE KEY                         TO OPEN DOOR                                                                                    BOMB BEARN!                     SHOCK STOP ENEMY                                                                                TREASURE!                       500 POINTS                                                                                      EXIT HOLE                       YOUR GOAL!                                                                                      ENCLOSE ENEMY!                  1000 POINTS                                                 }#1024#1024
+                                    
+CONECTA TUS CUERPOS EN          
+UNA LARGA CADENA.               
+                                
+                                
+ENCIERRA COMIDA! Y ABRE         
+EL AGUJERO DE SALIDA.           
+                                
+                                
+GUARDA LLAVES PARA ABRIR        
+LA PUERTA.                      
+                                
+                                
+USA LA LLAVE PARA ABRIR         
+LA PUERTA.                      
+                                
+                                
+EXPLOSIÓN DE BOMBA! EL          
+GOLPE PARA AL ENEMIGO.          
+                                
+                                
+TESORO!                         
+500 PUNTOS.                     
+                                
+                                
+SAL POR EL AGUJERO.             
+TU META!                        
+                                
+                                
+ENEMIGO ENCERRADO!              
+1000 PUNTOS.                    
+                            #1024
+|1024
+@0000406B-0000426A-00
+;0000406B{                                    ALL ENEMY DISAPPERE!            BONUS 10000 POINTS                                                                              ALL FLOOR CHANGE!               BONUS 5000 POINTS                                                                               HYPER ENERGY STATE              FOR 8 SECONDS                                                                                   GREEN BALL!                     SHOT FIRE TO i BUTTON                                       }#512#512
+                                    
+ENEMIGOS DESAPARECIDOS!         
+BONO DE 10000 PUNTOS.           
+                                
+                                
+CAMBIA TODO EL SUELO!           
+BONO DE 5000 PUNTOS.            
+                                
+                                
+ESTADO DE HIPER-ENERGÍA         
+DURANTE 8 SEGUNDOS.             
+                                
+                                
+BOLA VERDE!                     
+DISPARA CON EL BOTÓN i          
+                            #512
+|512
+@00004C06-00004F5B-00
+;00004C06{   CHECK MODE   ~00~}#020#017
+   MODO TEST    ~00~#017
+;00004C17{OBJ FONT~00~}#012#009
+FNT OBJ.~00~#009
+;00004C20{BACK FONT~00~}#013#010
+FNT TRAS.~00~#010
+;00004C2A{SOUND~00~}#009#006
+AUDIO~00~#006
+;00004C30{EXIT~00~}#008#005
+SALE~00~#005
+;00004C35{BANK~00~}#008#005
+BAN.~00~#005
+;00004C3A{GROUP~00~}#009#006
+GRUPO~00~#006
+;00004C40{COLOR~00~}#009#006
+COLOR~00~#006
+;00004C46{SOUND CODE~00~}#014#011
+TEST AUDIO~00~#011
+;00004C51{HIT CHECK~00~}#013#010
+MIRA COL.~00~#010
+;00004C5B{AREA SELECT~00~}#015#012
+ELIGE ZONA ~00~#012
+;00004C67{OFF~00~}#007#004
+NO ~00~#004
+;00004C6B{ON ~00~}#007#004
+SÍ ~00~#004
+;00004C6F{AREA        ~00~}#016#013
+ZONA        ~00~#013
+;00004C7C{PCM   CODE~00~}#014#011
+PCM   NÚM.~00~#011
+;00004C87{START~00~}#009#006
+JUGAR~00~#006
+;00004C8D{CREDIT~00~}#010#007
+CRÉDI.~00~#007
+;00004C94{GAME OVER~00~}#013#010
+FIN JUEGO~00~#010
+;00004C9E{ACT ~00~}#008#005
+ACTO~00~#005
+;00004CA3{GOMORA SPEED~00~}#016#013
+GOMORA SPEED~00~#013
+;00004CB0{FULL COMMAND~00~}#016#013
+COMANDO LLEN~00~#013
+;00004CBD{  CONGRATULATIONS!  ~00~}#024#021
+    FELICIDADES!    ~00~#021
+;00004CD2{YOU ARE GREAT PLAYER~00~}#024#021
+ERES UN GRAN JUGADOR~00~#021
+;00004CE7{4TH~00~}#007#004
+4TO~00~#004
+;00004CEB{5TH~00~}#007#004
+5TO~00~#004
+;00004CEF{   STAFF   ~00~}#015#012
+  ELENCO   ~00~#012
+;00004CFB{   STARRING   ~00~}#018#015
+PROTAGONISTAS ~00~#015
+;00004D0A{OPTION~00~}#010#007
+OPCIÓN~00~#007
+;00004D11{POSITION DP~00~}#015#012
+POSICIÓN DP~00~#012
+;00004D1D{STEP EXECUTE~00~}#016#013
+EJECUTA PASO~00~#013
+;00004D2A{CONTINUE~00~}#012#009
+CONTINÚA~00~#009
+;00004D33{END~00~}#007#004
+FIN~00~#004
+;00004D37{THANK YOU~2E~~00~}#017#011
+ GRACIAS~2E~ ~00~#011
+;00004D42{X~00~}#005#002
+X~00~#002
+;00004D44{Y~00~}#005#002
+Y~00~#002
+;00004D46{PAUSE!~00~}#010#007
+PAUSA!~00~#007
+;00004D4D{DEMO~00~}#008#005
+DEMO~00~#005
+;00004D52{SALA        ~00~}#016#013
+SALA        ~00~#013
+;00004D5F{PUSH RUN BUTTON~00~}#019#016
+PULSA BOTÓN RUN~00~#016
+;00004D6F{                ~00~}#020#017
+                ~00~#017
+;00004D80{c1990 UPL COMPANY LIMITED~00~}#029#026
+c1990 UPL COMPANY LIMITED~00~#026
+;00004D9A{COMMAND~00~}#011#008
+COMANDO~00~#008
+;00004DA2{OK ~00~}#007#004
+OK ~00~#004
+;00004DA6{NG ~00~}#007#004
+NG ~00~#004
+;00004DAA{KEY~00~}#007#004
+CLV~00~#004
+;00004DAE{PAUSE DP~00~}#012#009
+PAUSA DP~00~#009
+;00004DB7{VER 5.52~00~}#012#009
+VER 5.52~00~#009
+;00004DC0{OPEN~00~}#008#005
+ABRE~00~#005
+;00004DC5{    ~00~}#008#005
+    ~00~#005
+;00004DCA{   CAST    ~00~}#015#012
+  ELENCO   ~00~#012
+;00004DD6{      Q     ~00~}#016#013
+      Q     ~00~#013
+;00004DE3{      VE    ~00~}#016#013
+      VE    ~00~#013
+;00004DF0{    CLICK   ~00~}#016#013
+    CLICK   ~00~#013
+;00004DFD{ MANGZIROVE ~00~}#016#013
+ MANGZIROVE ~00~#013
+;00004E0A{ GUAZI·GUAZI~00~}#016#013
+ GUAZI·GUAZI~00~#013
+;00004E17{ GYANZIROVE ~00~}#016#013
+ GYANZIROVE ~00~#013
+;00004E24{    GOME    ~00~}#016#013
+    GOME    ~00~#013
+;00004E31{    TOMUE   ~00~}#016#013
+    TOMUE   ~00~#013
+;00004E3E{   BAMPER   ~00~}#016#013
+   BAMPER   ~00~#013
+;00004E4B{   PANING   ~00~}#016#013
+   PANING   ~00~#013
+;00004E58{    A·BOO   ~00~}#016#013
+    A·BOO   ~00~#013
+;00004E65{   GOMLING  ~00~}#016#013
+   GOMLING  ~00~#013
+;00004E72{   KEMLLA   ~00~}#016#013
+   KEMLLA   ~00~#013
+;00004E7F{   GORMLLA  ~00~}#016#013
+   GORMLLA  ~00~#013
+;00004E8C{   VECTOR   ~00~}#016#013
+   VECTOR   ~00~#013
+;00004E99{    PLISM   ~00~}#016#013
+    PLISM   ~00~#013
+;00004EA6{  MANG·TATA ~00~}#016#013
+  MANG·TATA ~00~#013
+;00004EB3{   3-PEACE  ~00~}#016#013
+   3-PEACE  ~00~#013
+;00004EC0{   UN·DABA  ~00~}#016#013
+   UN·DABA  ~00~#013
+;00004ECD{  KUELLOLA  ~00~}#016#013
+  KUELLOLA  ~00~#013
+;00004EDA{UN·DODO·KING~00~}#016#013
+UN·DODO·KING~00~#013
+;00004EE7{   SALA21   ~00~}#016#013
+   SALA21   ~00~#013
+;00004EF4{   SALA22   ~00~}#016#013
+   SALA22   ~00~#013
+;00004F01{   SALA23   ~00~}#016#013
+   SALA23   ~00~#013
+;00004F0E{   SALA24   ~00~}#016#013
+   SALA24   ~00~#013
+;00004F1B{   SALA25   ~00~}#016#013
+   SALA25   ~00~#013
+;00004F28{   SALA26   ~00~}#016#013
+   SALA26   ~00~#013
+;00004F35{   SALA27   ~00~}#016#013
+   SALA27   ~00~#013
+;00004F42{   SALA28   ~00~}#016#013
+   SALA28   ~00~#013
+;00004F4F{   SALA29   ~00~}#016#013
+   SALA29   ~00~#013
+|854
+@000058EB-000058F6-00
+;000058EB{SOUND ERROR~00~}#015#012
+ERROR AUDIO~00~#012
+|12
+@00006399-000063A7-00
+;00006399{AREA FOOD OVER~00~}#018#015
+FIN ZONA COMER~00~#015
+|15
+@000064A1-000064AF-00
+;000064A1{EXIT HOLE OVER~00~}#018#015
+FIN AGU.SALIDA~00~#015
+|15
+@0000653C-0000654A-00
+;0000653C{WORP HOLE OVER~00~}#018#015
+FIN AGU.TRANS.~00~#015
+|15
+@00006598-000065A2-00
+;00006598{ENEMY OVER~00~}#014#011
+FIN ENEMI.~00~#011
+|11
+@0000661E-0000662C-00
+;0000661E{SALA FOOD OVER~00~}#018#015
+FIN SALA COMI.~00~#015
+|15

@@ -1,0 +1,248 @@
+@0001AFDD-0001B08E-FF
+;0001AFDD{18B~96~~86~~80~,=    ^ CONTINUE==      COURSE SELECT SCREEN=      QUIT~FF~}#074#062
+18B~96~~86~~80~,=    ^ CONTINUE==      COURSE SELECT SCREEN=      QUIT~FF~#062
+;0001B01B{=    ^ CONTINUE==      COURSE SELECT SCREEN=      QUIT~FF~}#058#055
+=    ^ CONTINUE==      COURSE SELECT SCREEN=      QUIT~FF~#055
+;0001B052{=    ^ CONTINUE==      RESTART==      COURSE SELECT SCREEN~FF~}#062#059
+=    ^ CONTINUE==      RESTART==      COURSE SELECT SCREEN~FF~#059
+;0001B08D{ ~80~}#005#002
+ ~80~#002
+|178
+@0001BC85-0001BDD1-FF
+;0001BC85{+op1PLAY GAME=~FF~}#018#015
++op1PLAY GAME=~FF~#015
+;0001BC94{2PLAY GAME=~FF~}#015#012
+2PLAY GAME=~FF~#012
+;0001BCA0{DEMO PLAY=~FF~}#014#011
+DEMO PLAY=~FF~#011
+;0001BCAB{MAP SELECT=~FF~}#015#012
+MAP SELECT=~FF~#012
+;0001BCB7{SOUND ROOM=~FF~}#015#012
+SOUND ROOM=~FF~#012
+;0001BCC3{DANCE SELECT=~FF~}#017#014
+DANCE SELECT=~FF~#014
+;0001BCD1{PLAY COURSE=~FF~}#016#013
+PLAY COURSE=~FF~#013
+;0001BCDE{PLAY EXTRA COURSE~FF~}#021#018
+PLAY EXTRA COURSE~FF~#018
+;0001BCF0{1PLAY GAME==~FF~}#016#013
+1PLAY GAME==~FF~#013
+;0001BCFD{2PLAY GAME==~FF~}#016#013
+2PLAY GAME==~FF~#013
+;0001BD0A{DANCE SELECT==~FF~}#018#015
+DANCE SELECT==~FF~#015
+;0001BD19{1PLAY DANCE=~FF~}#016#013
+1PLAY DANCE=~FF~#013
+;0001BD26{2PLAY DANCE=~FF~}#016#013
+2PLAY DANCE=~FF~#013
+;0001BD33{DANCE01=~FF~}#012#009
+DANCE01=~FF~#009
+;0001BD3C{DANCE02=~FF~}#012#009
+DANCE02=~FF~#009
+;0001BD45{DANCE03=~FF~}#012#009
+DANCE03=~FF~#009
+;0001BD4E{DANCE04=~FF~}#012#009
+DANCE04=~FF~#009
+;0001BD57{DANCE05=~FF~}#012#009
+DANCE05=~FF~#009
+;0001BD60{DANCE06=~FF~}#012#009
+DANCE06=~FF~#009
+;0001BD69{DANCE07=~FF~}#012#009
+DANCE07=~FF~#009
+;0001BD72{DANCE08=~FF~}#012#009
+DANCE08=~FF~#009
+;0001BD7B{DRAW DANCE=~FF~}#015#012
+DRAW DANCE=~FF~#012
+;0001BD87{MAP SELECT==~FF~}#016#013
+MAP SELECT==~FF~#013
+;0001BD94{NORMAL COURSE=~FF~}#018#015
+NORMAL COURSE=~FF~#015
+;0001BDA3{EXTRA COURSE~FF~}#016#013
+EXTRA COURSE~FF~#013
+;0001BDB0{SOUND ROOM==~FF~}#016#013
+SOUND ROOM==~FF~#013
+;0001BDBD{FGM:000=~FF~}#012#009
+FGM:000=~FF~#009
+;0001BDC6{BGM:000~FF~}#011#008
+BGM:000~FF~#008
+;0001BDCE{~1A~~FF~}#008#002
+~1A~~FF~#002
+;0001BDD0{ ~A9~}#005#002
+ ~A9~#002
+|333
+@0001FB01-0001FDC8-FF
+;0001FB01{ ====== Congratulations!  You== got a medal for all== courses!  Go to the== Title Screen and look at== the menu!~FF~}#116#113
+ ====== Congratulations!  You== got a medal for all== courses!  Go to the== Title Screen and look at== the menu!~FF~#113
+;0001FB72{====== Great job!  You got a== silver or gold medal for== all courses.  Go to the== Title Screen and look at== the menu!~FF~}#124#121
+====== Great job!  You got a== silver or gold medal for== all courses.  Go to the== Title Screen and look at== the menu!~FF~#121
+;0001FBEB{====== Way to go!  You got a== gold medal for all== courses.  Go to the== Title Screen and look at== the menu!~FF~}#114#111
+====== Way to go!  You got a== gold medal for all== courses.  Go to the== Title Screen and look at== the menu!~FF~#111
+;0001FC5A{====== Congratulations!  You== got a medal for all== EXTRA courses!  Go to== the Title Screen and== look at the menu!~FF~}#121#118
+====== Congratulations!  You== got a medal for all== EXTRA courses!  Go to== the Title Screen and== look at the menu!~FF~#118
+;0001FCD0{====== Great job!  You got a== silver or gold medal for== all EXTRA courses!  Go== to the Title Screen and== look at the menu!~FF~}#130#127
+====== Great job!  You got a== silver or gold medal for== all EXTRA courses!  Go== to the Title Screen and== look at the menu!~FF~#127
+;0001FD4F{====== Way to go!  You got a== gold medal for all EXTRA== courses!  Go to the== Title Screen and look == at the menu!~FF~}#121#118
+====== Way to go!  You got a== gold medal for all EXTRA== courses!  Go to the== Title Screen and look == at the menu!~FF~#118
+;0001FDC5{~FF~}#004#001
+~FF~#001
+;0001FDC6{~FF~}#004#001
+~FF~#001
+;0001FDC7{~FF~}#004#001
+~FF~#001
+;0001FDC8{~FF~}#004#001
+~FF~#001
+|712
+@00045A13-00045BD5-FF
+;00045A13{   ==        Basic Rule~FF~}#027#024
+   ==        Basic Rule~FF~#024
+;00045A2B{~A4~~01~~F0~ =Press the A Button to make=the Shot Panel appear. To==cancel, press B.~FF~}#088#076
+~A4~~01~~F0~ =Press the A Button to make=the Shot Panel appear. To==cancel, press B.~FF~#076
+;00045A77{~A4~~01~  =To start the power meter==moving, press A.=~FF~}#058#049
+~A4~~01~  =To start the power meter==moving, press A.=~FF~#049
+;00045AA8{~A4~~01~~76~%=When the meter is moving,==press A to select the hit==strength. The hit will be==stronger with more power.~FF~}#124#112
+~A4~~01~~76~%=When the meter is moving,==press A to select the hit==strength. The hit will be==stronger with more power.~FF~#112
+;00045B18{~A4~~01~~D0~%=When all of the enemies,==except the last one, have==been hit, the last enemy==will become a cup.~FF~}#115#103
+~A4~~01~~D0~%=When all of the enemies,==except the last one, have==been hit, the last enemy==will become a cup.~FF~#103
+;00045B7F{~A4~~01~~01~ =Put Kirby in the cup and==challenge the next hole.~FF~}#068#056
+~A4~~01~~01~ =Put Kirby in the cup and==challenge the next hole.~FF~#056
+;00045BB7{~B4~   ==    Scroll and Guide~FF~}#033#027
+~B4~   ==    Scroll and Guide~FF~#027
+;00045BD2{~A4~~01~~86~~01~}#016#004
+~A4~~01~~86~~01~#004
+|451
+@00045BD6-00045FBA-FF
+;00045BD6{=If you press the Control==Pad, while holding the==Y Button, you can see the==entire map.~FF~}#093#090
+=If you press the Control==Pad, while holding the==Y Button, you can see the==entire map.~FF~#090
+;00045C30{~A4~~01~~78~ =Press down on the Control==Pad for a long guide.~FF~}#066#054
+~A4~~01~~78~ =Press down on the Control==Pad for a long guide.~FF~#054
+;00045C66{~A4~~01~j =Press up on the Control==Pad for a short guide.~FF~}#062#053
+~A4~~01~j =Press up on the Control==Pad for a short guide.~FF~#053
+;00045C9B{~A4~~01~>(=The strength of the shot==will not change even if==you change the length of==the guide.~FF~}#102#093
+~A4~~01~>(=The strength of the shot==will not change even if==you change the length of==the guide.~FF~#093
+;00045CF8{~A4~~01~~01~ =The guide can really help,=depending on the shot.~FF~}#067#055
+~A4~~01~~01~ =The guide can really help,=depending on the shot.~FF~#055
+;00045D2F{~B4~   ==      Fly and Grounder~FF~}#035#029
+~B4~   ==      Fly and Grounder~FF~#029
+;00045D4C{~A4~~01~~F0~ =To hit a fly shot, press==up on the Control Pad.==To hit a grounder, press==down on the Control Pad.~FF~}#118#106
+~A4~~01~~F0~ =To hit a fly shot, press==up on the Control Pad.==To hit a grounder, press==down on the Control Pad.~FF~#106
+;00045DB6{~A4~~01~~84~(=When the power meter is==pink, you can make a super=shot.  Kirby will follow==the guide.~FF~}#106#094
+~A4~~01~~84~(=When the power meter is==pink, you can make a super=shot.  Kirby will follow==the guide.~FF~#094
+;00045E14{~A4~~01~~01~ =If Kirby is hit with a==weak shot, he will not==follow the guide.~FF~}#083#071
+~A4~~01~~01~ =If Kirby is hit with a==weak shot, he will not==follow the guide.~FF~#071
+;00045E5B{~B4~   ==        Direction~FF~}#030#024
+~B4~   ==        Direction~FF~#024
+;00045E73{~A4~~01~~F0~ =Press left/right on the==Control Pad to select the==direction of your shot.~FF~}#093#081
+~A4~~01~~F0~ =Press left/right on the==Control Pad to select the==direction of your shot.~FF~#081
+;00045EC4{~A4~~01~~01~ =Pressing L or R will==change the hit direction==by 45 degrees.~FF~}#080#068
+~A4~~01~~01~ =Pressing L or R will==change the hit direction==by 45 degrees.~FF~#068
+;00045F08{~B4~   ==     Left/Right Spin~FF~}#033#027
+~B4~   ==     Left/Right Spin~FF~#027
+;00045F23{~A4~~01~  =When hitting a grounder,==you can make Kirby hook.~FF~}#065#056
+~A4~~01~  =When hitting a grounder,==you can make Kirby hook.~FF~#056
+;00045F5B{~A4~~01~~96~ =Hold the B Button and the==Spin Panel will appear.==Use the panel to make==Kirby hook.~FF~}#104#092
+~A4~~01~~96~ =Hold the B Button and the==Spin Panel will appear.==Use the panel to make==Kirby hook.~FF~#092
+;00045FB7{~A4~~01~x~01~}#013#004
+~A4~~01~x~01~#004
+|997
+@00045FBB-0004616F-FF
+;00045FBB{=When the Spin Panel is==shown, select the way==you want Kirby to curve by=pressing left or right.~FF~}#102#099
+=When the Spin Panel is==shown, select the way==you want Kirby to curve by=pressing left or right.~FF~#099
+;0004601E{~A4~~01~J(=If you make a super shot,==Kirby's curve will follow==the guide.~FF~}#079#070
+~A4~~01~J(=If you make a super shot,==Kirby's curve will follow==the guide.~FF~#070
+;00046064{~A4~~01~~01~ =If you make a weak shot,==Kirby will curve but he==won't follow the guide.~FF~}#092#080
+~A4~~01~~01~ =If you make a weak shot,==Kirby will curve but he==won't follow the guide.~FF~#080
+;000460B4{~B4~   ==  Top Spin and Back Spin~FF~}#037#031
+~B4~   ==  Top Spin and Back Spin~FF~#031
+;000460D3{~A4~~01~  =When Kirby is flying, you==can give him a top or back=spin.~FF~}#074#065
+~A4~~01~  =When Kirby is flying, you==can give him a top or back=spin.~FF~#065
+;00046114{~A4~~01~  =Top spin flies forward==after a bounce.  Back spin=flies backward after a==bounce.~FF~}#097#088
+~A4~~01~  =Top spin flies forward==after a bounce.  Back spin=flies backward after a==bounce.~FF~#088
+;0004616C{~A4~~01~~A4~~01~}#016#004
+~A4~~01~~A4~~01~#004
+|437
+@00046170-000466A5-FF
+;00046170{=If you select a fly shot,==the Shot Panel will appear=and the marker will move==up and down.~FF~}#097#094
+=If you select a fly shot,==the Shot Panel will appear=and the marker will move==up and down.~FF~#094
+;000461CE{~A4~~01~  =Kirby won't spin if the==marker is centered.~FF~}#059#050
+~A4~~01~  =Kirby won't spin if the==marker is centered.~FF~#050
+;00046200{~A4~~01~8/=You can adjust how Kirby==flies with the Spin Panel.~FF~}#067#058
+~A4~~01~8/=You can adjust how Kirby==flies with the Spin Panel.~FF~#058
+;0004623A{~A4~~01~~01~ =Using a combination of==spins, you can make an==interesting shot.~FF~}#083#071
+~A4~~01~~01~ =Using a combination of==spins, you can make an==interesting shot.~FF~#071
+;00046281{~B4~   ==    Shot on the Water~FF~}#034#028
+~B4~   ==    Shot on the Water~FF~#028
+;0004629D{~A4~~01~~01~ =If you make a good shot,==Kirby will bounce on the==water.~FF~}#076#064
+~A4~~01~~01~ =If you make a good shot,==Kirby will bounce on the==water.~FF~#064
+;000462DD{~B4~   ==        Go for it~FF~}#030#024
+~B4~   ==        Go for it~FF~#024
+;000462F5{~A4~~01~~01~ =While Kirby is moving,==press the A Button. Press==it at the right time and==he'll get an extra boost.~FF~}#120#108
+~A4~~01~~01~ =While Kirby is moving,==press the A Button. Press==it at the right time and==he'll get an extra boost.~FF~#108
+;00046361{~B4~   ==         Objects~FF~}#029#023
+~B4~   ==         Objects~FF~#023
+;00046378{~A4~~01~~01~ =There are a variety of==objects on the course that=can change Kirby's motion.~FF~}#095#083
+~A4~~01~~01~ =There are a variety of==objects on the course that=can change Kirby's motion.~FF~#083
+;000463CB{~B4~   ==        Finally...~FF~}#031#025
+~B4~   ==        Finally...~FF~#025
+;000463E4{~A4~~01~~01~ =Clear the maps one by one==with the 9 basic skills==which you have learned.~FF~}#093#081
+~A4~~01~~01~ =Clear the maps one by one==with the 9 basic skills==which you have learned.~FF~#081
+;00046435{~B4~   ==      Stone's Skill~FF~}#032#026
+~B4~   ==      Stone's Skill~FF~#026
+;0004644F{~A4~~01~~92~)=If you use Stone, when you=have a grounder, Kirby==will stop suddenly. Be==careful on the slopes!~FF~}#115#103
+~A4~~01~~92~)=If you use Stone, when you=have a grounder, Kirby==will stop suddenly. Be==careful on the slopes!~FF~#103
+;000464B6{~A4~~01~~01~ =If you use Stone when you==are on the hill, Kirby==will slip down the hill.==Be careful!~FF~}#106#094
+~A4~~01~~01~ =If you use Stone when you==are on the hill, Kirby==will slip down the hill.==Be careful!~FF~#094
+;00046514{~B4~   ==     Parasol's Skill~FF~}#033#027
+~B4~   ==     Parasol's Skill~FF~#027
+;0004652F{~A4~~01~~76~%=If you use Parasol when==you have a grounder, Kirby=gradually slows down. Be==sure to plan ahead!~FF~}#115#103
+~A4~~01~~76~%=If you use Parasol when==you have a grounder, Kirby=gradually slows down. Be==sure to plan ahead!~FF~#103
+;00046596{~A4~~01~~01~ =When you have a fly shot,==use Parasol while coming==down and control Kirby's==path with the Control Pad.~FF~}#123#111
+~A4~~01~~01~ =When you have a fly shot,==use Parasol while coming==down and control Kirby's==path with the Control Pad.~FF~#111
+;00046605{~B4~   ==    Fireball's Skill~FF~}#033#027
+~B4~   ==    Fireball's Skill~FF~#027
+;00046620{~A4~~01~~01~ =With Fireball, Kirby turns=into a fire ball and gets==a burst of speed. Be==careful not to go OB!~FF~}#115#103
+~A4~~01~~01~ =With Fireball, Kirby turns=into a fire ball and gets==a burst of speed. Be==careful not to go OB!~FF~#103
+;00046687{~B4~   ==      Needle's Skill~FF~}#033#027
+~B4~   ==      Needle's Skill~FF~#027
+;000466A2{~A4~~01~~E0~~01~}#016#004
+~A4~~01~~E0~~01~#004
+|1334
+@000466A6-00046AA6-FF
+;000466A6{=Needle, when you have a==grounder, will make Kirby==stick to the ground.~FF~}#077#074
+=Needle, when you have a==grounder, will make Kirby==stick to the ground.~FF~#074
+;000466F0{~A4~~01~~01~ =He can also stop while==rolling down a hill.  You==can hit the next shot from=there!~FF~}#102#090
+~A4~~01~~01~ =He can also stop while==rolling down a hill.  You==can hit the next shot from=there!~FF~#090
+;0004674A{~B4~   ==     Tornado's Skill~FF~}#033#027
+~B4~   ==     Tornado's Skill~FF~#027
+;00046765{~A4~~01~~01~ =As a tornado, you can==change directions by==pressing right/left on the=Control Pad.~FF~}#102#090
+~A4~~01~~01~ =As a tornado, you can==change directions by==pressing right/left on the=Control Pad.~FF~#090
+;000467BF{~B4~   ==      Wheel's Skill~FF~}#032#026
+~B4~   ==      Wheel's Skill~FF~#026
+;000467D9{~A4~~01~~EE~%=You can run anywhere until=you bump into something.==Even on hills!~FF~}#085#073
+~A4~~01~~EE~%=You can run anywhere until=you bump into something.==Even on hills!~FF~#073
+;00046822{~A4~~01~~01~ ==Kirby can walk on water!~FF~}#043#031
+~A4~~01~~01~ ==Kirby can walk on water!~FF~#031
+;00046841{~B4~   ==      Spark's Skill~FF~}#032#026
+~B4~   ==      Spark's Skill~FF~#026
+;0004685B{~A4~~01~~01~ =Using Spark, Kirby can==beat Kracko and Whispy.~FF~}#065#053
+~A4~~01~~01~ =Using Spark, Kirby can==beat Kracko and Whispy.~FF~#053
+;00046890{~B4~   ==      Hi-Jump's Skill~FF~}#034#028
+~B4~   ==      Hi-Jump's Skill~FF~#028
+;000468AC{~A4~~01~~FC~(=Kirby can jump higher than=normal. When you have a==grounder, Kirby can jump==over obstacles.~FF~}#111#099
+~A4~~01~~FC~(=Kirby can jump higher than=normal. When you have a==grounder, Kirby can jump==over obstacles.~FF~#099
+;0004690F{~A4~~01~~01~ =If you use Hi-Jump when==you have a fly shot, Kirby=can jump to higher areas.==Watch out for OB!~FF~}#114#102
+~A4~~01~~01~ =If you use Hi-Jump when==you have a fly shot, Kirby=can jump to higher areas.==Watch out for OB!~FF~#102
+;00046975{~B4~   ==      Freeze's Skill~FF~}#033#027
+~B4~   ==      Freeze's Skill~FF~#027
+;00046990{~A4~~01~J(==Kirby can skate!~FF~}#032#023
+~A4~~01~J(==Kirby can skate!~FF~#023
+;000469A7{~A4~~01~~01~ =When you freeze the water,=you can skate on the ice.~FF~}#070#058
+~A4~~01~~01~ =When you freeze the water,=you can skate on the ice.~FF~#058
+;000469E1{~B4~   ==        UFO's Skill~FF~}#032#026
+~B4~   ==        UFO's Skill~FF~#026
+;000469FB{~A4~~01~~DC~*=Move the UFO with the==Control Pad. If you run==out of time, you'll fall!==Be careful!~FF~}#104#092
+~A4~~01~~DC~*=Move the UFO with the==Control Pad. If you run==out of time, you'll fall!==Be careful!~FF~#092
+;00046A57{~A4~~01~~01~ =Press the B Button while==you are flying and you can=get off any time.~FF~}#088#076
+~A4~~01~~01~ =Press the B Button while==you are flying and you can=get off any time.~FF~#076
+;00046AA3{~B3~~EA~~D5~~EA~}#016#004
+~B3~~EA~~D5~~EA~#004
+|1025

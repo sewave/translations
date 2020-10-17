@@ -1,0 +1,270 @@
+@0001AFE4-0001B08C-FF
+;0001AFE4{=    ^ CONTINUE==      COURSE SELECT SCREEN=      QUIT~FF~}#058#055
+=    ^ CONTINUAR==      SELECCIONAR CURSO==      SALIR~FF~#055
+;0001B01B{=    ^ CONTINUE==      COURSE SELECT SCREEN=      QUIT~FF~}#058#055
+=    ^ CONTINUAR==      SELECCIONAR CURSO==      SALIR~FF~#055
+;0001B052{=    ^ CONTINUE==      RESTART==      COURSE SELECT SCREEN~FF~}#062#059
+=    ^ CONTINUAR==      REINICIAR==      SELECCIONAR CURSO~FF~#059
+|169
+@0001BC88-0001BDCD-FF
+;0001BC88{1PLAY GAME=~FF~}#015#012
+1JUGADOR  =~FF~#012
+;0001BC94{2PLAY GAME=~FF~}#015#012
+2JUGADORES=~FF~#012
+;0001BCA0{DEMO PLAY=~FF~}#014#011
+MODO DEMO=~FF~#011
+;0001BCAB{MAP SELECT=~FF~}#015#012
+ELIGE MAPA=~FF~#012
+;0001BCB7{SOUND ROOM=~FF~}#015#012
+SALA AUDIO=~FF~#012
+;0001BCC3{BAILE SELECT=~FF~}#017#014
+ELIGE BAILE =~FF~#014
+;0001BCD1{PLAY COURSE=~FF~}#016#013
+JUEGA CURSO=~FF~#013
+;0001BCDE{PLAY EXTRA COURSE~FF~}#021#018
+JUEGA CURSO EXTRA~FF~#018
+;0001BCF0{1PLAY GAME==~FF~}#016#013
+1JUGADOR  ==~FF~#013
+;0001BCFD{2PLAY GAME==~FF~}#016#013
+2JUGADORES==~FF~#013
+;0001BD0A{BAILE SELECT==~FF~}#018#015
+ELIGE BAILE ==~FF~#015
+;0001BD19{1PLAY BAILE=~FF~}#016#013
+BAILE 1 JUG=~FF~#013
+;0001BD26{2PLAY BAILE=~FF~}#016#013
+BAILE 2 JGS=~FF~#013
+;0001BD33{BAILE01=~FF~}#012#009
+BAILE01=~FF~#009
+;0001BD3C{BAILE02=~FF~}#012#009
+BAILE02=~FF~#009
+;0001BD45{BAILE03=~FF~}#012#009
+BAILE03=~FF~#009
+;0001BD4E{BAILE04=~FF~}#012#009
+BAILE04=~FF~#009
+;0001BD57{BAILE05=~FF~}#012#009
+BAILE05=~FF~#009
+;0001BD60{BAILE06=~FF~}#012#009
+BAILE06=~FF~#009
+;0001BD69{BAILE07=~FF~}#012#009
+BAILE07=~FF~#009
+;0001BD72{BAILE08=~FF~}#012#009
+BAILE08=~FF~#009
+;0001BD7B{DRAW BAILE=~FF~}#015#012
+BAILE EMPA=~FF~#012
+;0001BD87{MAP SELECT==~FF~}#016#013
+ELIGE MAPA==~FF~#013
+;0001BD94{NORMAL COURSE=~FF~}#018#015
+CURSO NORMAL =~FF~#015
+;0001BDA3{EXTRA COURSE~FF~}#016#013
+CURSO EXTRA ~FF~#013
+;0001BDB0{SOUND ROOM==~FF~}#016#013
+SALA AUDIO==~FF~#013
+;0001BDBD{FGM:000=~FF~}#012#009
+EFE:000=~FF~#009
+;0001BDC6{BGM:000~FF~}#011#008
+MÚS:000~FF~#008
+|326
+@0001FB01-0001FDC4-FF
+;0001FB01{ ====== Congratulations!  You== got a medal for all== courses!  Go to the== Title Screen and look at== the menu!~FF~}#116#113
+_======
+ Felicidades! Recibiste==
+ una medalla en todos los==
+ cursos! Ve al Título y==
+ mira en el menú!\=
+         ~FF~#113
+;0001FB72{====== Great job!  You got a== silver or gold medal for== all courses.  Go to the== Title Screen and look at== the menu!~FF~}#124#121
+======
+ Bien hecho! Recibiste==
+ una medalla de plata u==
+ oro en cada curso. Ve al==
+ Título y mira en el==
+ menú!\         ~FF~#121
+;0001FBEB{====== Way to go!  You got a== gold medal for all== courses.  Go to the== Title Screen and look at== the menu!~FF~}#114#111
+======
+ Así se hace! Recibiste==
+ una medalla de oro en==
+ cada curso. Ve al==
+ Título y mira en el==
+ menú!\      ~FF~#111
+;0001FC5A{====== Congratulations!  You== got a medal for all== EXTRA courses!  Go to== the Title Screen and== look at the menu!~FF~}#121#118
+======
+ Felicidades! Recibiste==
+ una medalla en todos==
+ los cursos EXTRA!==
+ Ve al Título y mira en==
+ el menú!\        ~FF~#118
+;0001FCD0{====== Great job!  You got a== silver or gold medal for== all EXTRA courses!  Go== to the Title Screen and== look at the menu!~FF~}#130#127
+======
+ Buen trabajo! recibiste==
+ una medalla de oro o==
+ plata en los cursos==
+ EXTRA! Ve al Título y==
+ mira en el menú!\       ~FF~#127
+;0001FD4F{====== Way to go!  You got a== gold medal for all EXTRA== courses!  Go to the== Title Screen and look == at the menu!~FF~}#121#118
+======
+ Así se hace! Recibiste==
+ una medalla de oro en==
+ los cursos EXTRA!==
+ Ve al Título y mira en==
+ el menú!\       ~FF~#118
+|708
+@00045A18-00045E5A-FF
+;00045A18{        Basic Rule~FF~}#022#019
+      Regla Básica~FF~#019
+;00045A2B{~A4~~01~~F0~_=Press the A Button to make=the Shot Panel appear. To==cancel, press B.~FF~}#088#076
+~A4~~01~~F0~_=Pulsa el Botón A para que=aparezca el Panel de Tiro.==Cancela con B.\ ~FF~#076
+;00045A77{~A4~~01~__=To start the power meter==moving, press A.=~FF~}#058#049
+~A4~~01~__=Para que se mueva el==medidor, pulsa A.=\  ~FF~#049
+;00045AA8{~A4~~01~~76~%=When the meter is moving,==press A to select the hit==strength. The hit will be==stronger with more power.~FF~}#124#112
+~A4~~01~~76~%=Al moverse el medidor,==pulsa A para elegir poder==de golpe. El golpe será==más fuerte con más poder.\    ~FF~#112
+;00045B18{~A4~~01~~D0~%=When all of the enemies,==except the last one, have==been hit, the last enemy==will become a cup.~FF~}#115#103
+~A4~~01~~D0~%=Cuando todos los enemigos,=excepto el último, hayan ==sido golpeados, el último==se volverá copa.~FF~#103
+;00045B7F{~A4~~01~~01~_=Put Kirby in the cup and==challenge the next hole.~FF~}#068#056
+~A4~~01~~01~_=Pon a Kirby en la copa y==desafía al próximo hoyo.~FF~#056
+;00045BB7{~B4~___==    Scroll and Guide~FF~}#033#027
+~B4~___==     Mover y Guiar\ ~FF~#027
+;00045BD2{~A4~~01~~86~~01~=If you press the Control==Pad, while holding the==Y Button, you can see the==entire map.~FF~}#109#094
+~A4~~01~~86~~01~=
+Si pulsas el Pad de==
+Control mientras mantienes=
+el Botón Y, puedes ver ==
+todo el mapa.\ ~FF~#094
+;00045C30{~A4~~01~~78~_=Press down on the Control==Pad for a long guide.~FF~}#066#054
+~A4~~01~~78~_=
+Pulsa abajo en el Pad para=
+una guía larga.\     ~FF~#054
+;00045C66{~A4~~01~j =Press up on the Control==Pad for a short guide.~FF~}#062#053
+~A4~~01~j =
+Pulsa arriba en el Pad ==
+para una guía corta.\ ~FF~#053
+;00045C9B{~A4~~01~>(=The strength of the shot==will not change even if==you change the length of==the guide.~FF~}#102#093
+~A4~~01~>(=
+La fuerza del tiró no==
+cambiará aunque cambies==
+la longitud de la guía.\
+               ~FF~#093
+;00045CF8{~A4~~01~~01~_=The guide can really help,=depending on the shot.~FF~}#067#055
+~A4~~01~~01~_=
+La guía puede ayudar mucho=dependiendo del tiro. ~FF~#055
+;00045D2F{~B4~___==      Fly and Grounder~FF~}#035#029
+~B4~___==      Vuelo y Tierra\ ~FF~#029
+;00045D4C{~A4~~01~~F0~_=To hit a fly shot, press==up on the Control Pad.==To hit a grounder, press==down on the Control Pad.~FF~}#118#106
+~A4~~01~~F0~_=
+Para hacer un tiro volador=pulsa arriba en el Pad.==
+Para hacer uno de tierra,==pulsa abajo.\        ~FF~#106
+;00045DB6{~A4~~01~~84~(=When the power meter is==pink, you can make a super=shot.  Kirby will follow==the guide.~FF~}#106#094
+~A4~~01~~84~(=
+Cuando el medidor de poder=es rosa, puedes hacer un==super tiro. Kirby seguirá==la guía.~FF~#094
+;00045E14{~A4~~01~~01~_=If Kirby is hit with a==weak shot, he will not==follow the guide.~FF~}#083#071
+~A4~~01~~01~_=
+Si Kirby es golpeado con==un golpe débil,==no seguirá la guía.\  ~FF~#071
+|1091
+@00045E5B-00046280-FF
+;00045E5B{~B4~___==        Direction~FF~}#030#024
+~B4~___==        Dirección~FF~#024
+;00045E73{~A4~~01~~F0~_=Press left/right on the==Control Pad to select the==direction of your shot.~FF~}#093#081
+~A4~~01~~F0~_=
+Pulsa izquierda/derecha en=el Pad para elegir la ==dirección de tu tiro.\  ~FF~#081
+;00045EC4{~A4~~01~~01~_=Pressing L or R will==change the hit direction==by 45 degrees.~FF~}#080#068
+~A4~~01~~01~_=Pulsando L o R cambiará la=dirección del golpe en 45==grados. ~FF~#068
+;00045F08{~B4~___==     Left/Right Spin~FF~}#033#027
+~B4~___==      Giro Izq./Der.~FF~#027
+;00045F23{~A4~~01~__=When hitting a grounder,==you can make Kirby hook.~FF~}#065#056
+~A4~~01~__=Golpeando en el suelo,==puedes hacer gancho Kirby.~FF~#056
+;00045F5B{~A4~~01~~96~_=Hold the B Button and the==Spin Panel will appear.==Use the panel to make==Kirby hook.~FF~}#104#092
+~A4~~01~~96~_=Mantén el Botón B y el==Panel de Giro aparecerá.==Haz que Kirby se enganche==usándolo.~FF~#092
+;00045FB7{~A4~~01~x~01~=When the Spin Panel is==shown, select the way==you want Kirby to curve by=pressing left or right.~FF~}#115#103
+~A4~~01~x~01~=Al mostrarse el Panel de==Giro elige la forma de==curvarse de Kirby pulsando=izquierda o derecha.~FF~#103
+;0004601E{~A4~~01~J(=If you make a super shot,==Kirby's curve will follow==the guide.~FF~}#079#070
+~A4~~01~J(=Si haces un super tiro,  ==la curva de Kirby seguirá==la guía.  ~FF~#070
+;00046064{~A4~~01~~01~_=If you make a weak shot,==Kirby will curve but he==won't follow the guide.~FF~}#092#080
+~A4~~01~~01~_=Si haces un tiro débil, ==Kirby se curvará pero no==seguirá la guía.      ~FF~#080
+;000460B4{~B4~___==  Top Spin and Back Spin~FF~}#037#031
+~B4~___==  G.Superior y G.Trasero~FF~#031
+;000460D3{~A4~~01~__=When Kirby is flying, you==can give him a top or back=spin.~FF~}#074#065
+~A4~~01~__=Al volar Kirby, puedes ==darle un giro superior o==trasero.~FF~#065
+;00046114{~A4~~01~__=Top spin flies forward==after a bounce.  Back spin=flies backward after a==bounce.~FF~}#097#088
+~A4~~01~__=El giro superior vuela==adelante tras rebotar.==El trasero atrás tras un ==rebote.~FF~#088
+;0004616C{~A4~~01~~A4~~01~=If you select a fly shot,==the Shot Panel will appear=and the marker will move==up and down.~FF~}#113#098
+~A4~~01~~A4~~01~=Si eliges el tiro vuelo,==el Panel de Tiro aparecerá=y la marca se moverá  ==arriba y abajo.~FF~#098
+;000461CE{~A4~~01~__=Kirby won't spin if the==marker is centered.~FF~}#059#050
+~A4~~01~__=Kirby no girará si la ==marca está centrada.~FF~#050
+;00046200{~A4~~01~8/=You can adjust how Kirby==flies with the Spin Panel.~FF~}#067#058
+~A4~~01~8/=Puedes ajustar cómo vuela==Kirby en el Panel Giro.  ~FF~#058
+;0004623A{~A4~~01~~01~_=Using a combination of==spins, you can make an==interesting shot.~FF~}#083#071
+~A4~~01~~01~_=Combinando giros,     ==puedes hacer un tiro  ==interesante.     ~FF~#071
+|1062
+@00046281-00046686-FF
+;00046281{~B4~___==    Shot on the Water~FF~}#034#028
+~B4~___==     Tiro en el Agua ~FF~#028
+;0004629D{~A4~~01~~01~_=If you make a good shot,==Kirby will bounce on the==water.~FF~}#076#064
+~A4~~01~~01~_=Si haces un buen tiro,  ==Kirby rebotará en el agua.=     ~FF~#064
+;000462DD{~B4~___==        Go for it~FF~}#030#024
+~B4~___==        Tras ello~FF~#024
+;000462F5{~A4~~01~~01~_=While Kirby is moving,==press the A Button. Press==it at the right time and==he'll get an extra boost.~FF~}#120#108
+~A4~~01~~01~_=Mientras Kirby se mueve,==pulsa el Botón A. Púlsalo==en el momento correcto y==recibirá un empujón.   ~FF~#108
+;00046361{~B4~___==         Objects~FF~}#029#023
+~B4~___==         Objetos~FF~#023
+;00046378{~A4~~01~~01~_=There are a variety of==objects on the course that=can change Kirby's motion.~FF~}#095#083
+~A4~~01~~01~_=Hay una gran variedad de==objetos en el curso que==modificarán tu dirección. ~FF~#083
+;000463CB{~B4~___==        Finally...~FF~}#031#025
+~B4~___==        Al fin... ~FF~#025
+;000463E4{~A4~~01~~01~_=Clear the maps one by one==with the 9 basic skills==which you have learned.~FF~}#093#081
+~A4~~01~~01~_=Acaba los mapas uno a uno==con las 9 habilidades  ==básicas que aprendiste.~FF~#081
+;00046435{~B4~___==      Stone's Skill~FF~}#032#026
+~B4~___==       Habil.Piedra~FF~#026
+;0004644F{~A4~~01~~92~)=If you use Stone, when you=have a grounder, Kirby==will stop suddenly. Be==careful on the slopes!~FF~}#115#103
+~A4~~01~~92~)=Si eres una Piedra, cuando=toques el suelo, Kirby==se parará.          ==Cuidado con las cuestas!~FF~#103
+;000464B6{~A4~~01~~01~_=If you use Stone when you==are on the hill, Kirby==will slip down the hill.==Be careful!~FF~}#106#094
+~A4~~01~~01~_=Si usas Piedra al estar en=una colina, Kirby se ==deslizará por la colina.==Cuidado!    ~FF~#094
+;00046514{~B4~___==     Parasol's Skill~FF~}#033#027
+~B4~___==      Habil.Paraguas~FF~#027
+;0004652F{~A4~~01~~76~%=If you use Parasol when==you have a grounder, Kirby=gradually slows down. Be==sure to plan ahead!~FF~}#115#103
+~A4~~01~~76~%=Si usas un Paraguas y vas==por el suelo, Kirby se==desacelera lentamente.  ==Planifícalo antes!  ~FF~#103
+;00046596{~A4~~01~~01~_=When you have a fly shot,==use Parasol while coming==down and control Kirby's==path with the Control Pad.~FF~}#123#111
+~A4~~01~~01~_=Si tienes un tiro volador,=usa el Paraguas mientras ==bajas y controla a Kirby==con el Pad de Control.   ~FF~#111
+;00046605{~B4~___==    Fireball's Skill~FF~}#033#027
+~B4~___==    Habil.Bola Fuego~FF~#027
+;00046620{~A4~~01~~01~_=With Fireball, Kirby turns=into a fire ball and gets==a burst of speed. Be==careful not to go OB!~FF~}#115#103
+~A4~~01~~01~_=Con Bola Fuego Kirby se==transforma en una y recibe=un empuje de velocidad.==Cuidado con salirte!~FF~#103
+|1030
+@00046687-00046AA2-FF
+;00046687{~B4~___==      Needle's Skill~FF~}#033#027
+~B4~___==       Habil.Pincho ~FF~#027
+;000466A2{~A4~~01~~E0~~01~=Needle, when you have a==grounder, will make Kirby==stick to the ground.~FF~}#093#078
+~A4~~01~~E0~~01~=Pincho, si estás en el ==suelo, hará que Kirby se ==pegue al suelo.     ~FF~#078
+;000466F0{~A4~~01~~01~_=He can also stop while==rolling down a hill.  You==can hit the next shot from=there!~FF~}#102#090
+~A4~~01~~01~_=También puede pararse en==una colina. Puedes hacer==el siguiente tiro desde==ahí!   ~FF~#090
+;0004674A{~B4~___==     Tornado's Skill~FF~}#033#027
+~B4~___==      Habil.Tornado ~FF~#027
+;00046765{~A4~~01~~01~_=As a tornado, you can==change directions by==pressing right/left on the=Control Pad.~FF~}#102#090
+~A4~~01~~01~_=Como tornado, puedes ==cambiar de dirección==pulsando izquierda/derecha=en el Pad.  ~FF~#090
+;000467BF{~B4~___==      Wheel's Skill~FF~}#032#026
+~B4~___==       Habil.Rueda ~FF~#026
+;000467D9{~A4~~01~~EE~%=You can run anywhere until=you bump into something.==Even on hills!~FF~}#085#073
+~A4~~01~~EE~%=Puedes correr a dónde==quieras hasta chocarte. ==Hasta por colinas!~FF~#073
+;00046822{~A4~~01~~01~_==Kirby can walk on water!~FF~}#043#031
+~A4~~01~~01~_==Kirby camina en el agua!~FF~#031
+;00046841{~B4~___==      Spark's Skill~FF~}#032#026
+~B4~___==       Habil.Chispa~FF~#026
+;0004685B{~A4~~01~~01~_=Using Spark, Kirby can==beat Kracko and Whispy.~FF~}#065#053
+~A4~~01~~01~_=Usando Chispa,==Kirby vence a Kracko y==Whispy.~FF~#053
+;00046890{~B4~___==      Hi-Jump's Skill~FF~}#034#028
+~B4~___==      Habil.Bote Alto~FF~#028
+;000468AC{~A4~~01~~FC~(=Kirby can jump higher than=normal. When you have a==grounder, Kirby can jump==over obstacles.~FF~}#111#099
+~A4~~01~~FC~(=Kirby puede botar más de==lo normal. Si el tiro es==de suelo, Kirby puede==saltar obstáculos.~FF~#099
+;0004690F{~A4~~01~~01~_=If you use Hi-Jump when==you have a fly shot, Kirby=can jump to higher areas.==Watch out for OB!~FF~}#114#102
+~A4~~01~~01~_=Si usas el Bote Alto en un=tiro volador, Kirby puede==saltar a zonas más altas.==Ten cuidado!   ~FF~#102
+;00046975{~B4~___==      Freeze's Skill~FF~}#033#027
+~B4~___==      Habil.Congelar~FF~#027
+;00046990{~A4~~01~J(==Kirby can skate!~FF~}#032#023
+~A4~~01~J(==Kirby patina!   ~FF~#023
+;000469A7{~A4~~01~~01~_=When you freeze the water,=you can skate on the ice.~FF~}#070#058
+~A4~~01~~01~_=Si congelas el agua,==podrás patinar en el==hielo.  ~FF~#058
+;000469E1{~B4~___==        UFO's Skill~FF~}#032#026
+~B4~___==        Habil.OVNI ~FF~#026
+;000469FB{~A4~~01~~DC~*=Move the UFO with the==Control Pad. If you run==out of time, you'll fall!==Be careful!~FF~}#104#092
+~A4~~01~~DC~*=Mueve el OVNI con el Pad==de Control. Si te quedas==sin tiempo, caerás! ==Ten cuidado!~FF~#092
+;00046A57{~A4~~01~~01~_=Press the B Button while==you are flying and you can=get off any time.~FF~}#088#076
+~A4~~01~~01~_=Pulsa el Botón B mientras==vuelas y puedes salir==cuando quieras.     ~FF~#076
+|1052

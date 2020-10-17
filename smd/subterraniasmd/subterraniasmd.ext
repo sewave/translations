@@ -1,0 +1,412 @@
+@0000044F-000004B7-00
+;0000044F{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DEVELOPED FOR USE ONLY WITH~00~#028
+;0000046B{~12~~26~~00~}#012#003
+~12~~26~~00~#003
+;0000046E{~0F~SYSTEMS.~00~}#016#010
+~0F~SYSTEMS.~00~#010
+;00000478{~0C~NTSC MEGA DRIVE~00~}#023#017
+~0C~NTSC MEGA DRIVE~00~#017
+;00000489{~0D~NTSC GENESIS~00~}#020#014
+~0D~NTSC GENESIS~00~#014
+;00000497{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~PAL AND FRENCH SECAM MEGA DRIVE~00~#033
+|105
+@00055559-0005594E-00
+;00055559{~01~~02~~03~~04~~05~~06~~07~~01~Game Paused...   ~00~}#053#026
+~01~~02~~03~~04~~05~~06~~07~~01~Game Paused...   ~00~#026
+;00055573{~07~~01~~06~~02~~05~~03~~04~~04~Red Level 1      ~00~}#053#026
+~07~~01~~06~~02~~05~~03~~04~~04~Red Level 1      ~00~#026
+;0005558D{~07~~01~~06~~02~~05~~03~~04~~04~Red Level 2      ~00~}#053#026
+~07~~01~~06~~02~~05~~03~~04~~04~Red Level 2      ~00~#026
+;000555A7{~07~~01~~06~~02~~05~~03~~04~~04~Red Level 3      ~00~}#053#026
+~07~~01~~06~~02~~05~~03~~04~~04~Red Level 3      ~00~#026
+;000555C1{~07~~01~~06~~02~~05~~03~~04~~04~Red Level 4      ~00~}#053#026
+~07~~01~~06~~02~~05~~03~~04~~04~Red Level 4      ~00~#026
+;000555DB{~02~~04~~06~~07~~05~~03~~01~~04~Green Level 1    ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Green Level 1    ~00~#026
+;000555F5{~02~~04~~06~~07~~05~~03~~01~~04~Green Level 2    ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Green Level 2    ~00~#026
+;0005560F{~02~~04~~06~~07~~05~~03~~01~~04~Green Level 3    ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Green Level 3    ~00~#026
+;00055629{~02~~04~~06~~07~~05~~03~~01~~04~Green Level 4    ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Green Level 4    ~00~#026
+;00055643{~02~~04~~06~~07~~05~~03~~01~~04~Blue Level 1     ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Blue Level 1     ~00~#026
+;0005565D{~02~~04~~06~~07~~05~~03~~01~~04~Blue Level 2     ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Blue Level 2     ~00~#026
+;00055677{~02~~04~~06~~07~~05~~03~~01~~04~Blue Level 3     ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Blue Level 3     ~00~#026
+;00055691{~02~~04~~06~~07~~05~~03~~01~~04~Blue Level 4     ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Blue Level 4     ~00~#026
+;000556AB{~02~~04~~06~~07~~05~~03~~01~~04~Anti-Shield Fire ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Anti-Shield Fire ~00~#026
+;000556C5{~02~~04~~06~~07~~05~~03~~01~~04~Reactor Core     ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Reactor Core     ~00~#026
+;000556DF{~02~~04~~06~~07~~05~~03~~01~~04~Fuel Collected   ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Fuel Collected   ~00~#026
+;000556F9{~02~~04~~06~~07~~05~~03~~01~~04~10 Missiles      ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~10 Missiles      ~00~#026
+;00055713{~07~~01~~06~~02~~05~~03~~04~~04~In Svin's Cave   ~00~}#053#026
+~07~~01~~06~~02~~05~~03~~04~~04~In Svin's Cave   ~00~#026
+;0005572D{~07~~01~~06~~02~~05~~03~~04~~04~Start Relocated  ~00~}#053#026
+~07~~01~~06~~02~~05~~03~~04~~04~Start Relocated  ~00~#026
+;00055747{~02~~04~~06~~07~~05~~03~~01~~04~Extra Life       ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Extra Life       ~00~#026
+;00055761{~02~~04~~06~~07~~05~~03~~01~~04~Power Shield On  ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Power Shield On  ~00~#026
+;0005577B{~02~~04~~06~~07~~05~~03~~01~~04~Anti-Shield Fire ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Anti-Shield Fire ~00~#026
+;00055795{~02~~04~~06~~07~~05~~03~~01~~04~Sub-Module Taken ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Sub-Module Taken ~00~#026
+;000557AF{~02~~04~~06~~07~~05~~03~~01~~04~Shield Refreshed ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Shield Refreshed ~00~#026
+;000557C9{~02~~04~~06~~07~~05~~03~~01~~04~Missiles         ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Missiles         ~00~#026
+;000557E3{~02~~04~~06~~07~~05~~03~~01~~04~Deflector        ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Deflector        ~00~#026
+;000557FD{~02~~04~~06~~07~~05~~03~~01~~04~Active Deflector ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Active Deflector ~00~#026
+;00055817{~02~~04~~06~~07~~05~~03~~01~~04~Mirror Lazer     ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Mirror Lazer     ~00~#026
+;00055831{~02~~04~~06~~07~~05~~03~~01~~04~Anti-Pressure    ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Anti-Pressure    ~00~#026
+;0005584B{~02~~04~~06~~07~~05~~03~~01~~02~Pressure Normal  ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~02~Pressure Normal  ~00~#026
+;00055865{~02~~04~~06~~07~~05~~03~~01~~02~Tube Bombs Taken ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~02~Tube Bombs Taken ~00~#026
+;0005587F{~02~~04~~06~~07~~05~~03~~01~~02~Tube Bombs       ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~02~Tube Bombs       ~00~#026
+;00055899{~02~~04~~06~~07~~05~~03~~01~~04~Pressure Low 5   ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Pressure Low 5   ~00~#026
+;000558B3{~02~~04~~06~~07~~05~~03~~01~~04~Pressure Low 4   ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Pressure Low 4   ~00~#026
+;000558CD{~02~~04~~06~~07~~05~~03~~01~~04~Pressure Low 3   ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Pressure Low 3   ~00~#026
+;000558E7{~02~~04~~06~~07~~05~~03~~01~~04~Pressure Low 2   ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Pressure Low 2   ~00~#026
+;00055901{~02~~04~~06~~07~~05~~03~~01~~01~Pressure Low 1   ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~01~Pressure Low 1   ~00~#026
+;0005591B{~02~~04~~06~~07~~05~~03~~01~~04~Nuclear Crystal  ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Nuclear Crystal  ~00~#026
+;00055935{~02~~04~~06~~07~~05~~03~~01~~04~Gate Opened      ~00~}#053#026
+~02~~04~~06~~07~~05~~03~~01~~04~Gate Opened      ~00~#026
+|1014
+@00083011-0008303E-00
+;00083011{Grid Mode 1      ~00~}#021#018
+Grid Mode 1      ~00~#018
+;00083023{~02~~04~~06~~07~~05~~03~~01~~FF~Grid Mode 0      ~08~9~00~}#058#028
+~02~~04~~06~~07~~05~~03~~01~~FF~Grid Mode 0      ~08~9~00~#028
+|46
+@001194AA-00119523-FE
+;001194AA{                       - SatScan v0.9~FF~~06~~00~~00~~00~ \ Mission failed!!~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~                          End of game.~FE~}#206#122
+                       - SatScan v0.9~FF~~06~~00~~00~~00~ \ Mission failed!!~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~                          End of game.~FE~#122
+|122
+@001196FC-0011990A-FF
+;001196FC{                Level 1 -SatScan v1.0~FF~}#041#038
+                Level 1 -SatScan v1.0~FF~#038
+;00119722{~06~~00~~00~~00~ \ The alien attack on this mining~00~   site is a result of long-lasting~00~   hostility towards the human race.~FF~}#133#112
+~06~~00~~00~~00~ \ The alien attack on this mining~00~   site is a result of long-lasting~00~   hostility towards the human race.~FF~#112
+;00119792{~02~~00~   You have been chosen to launch a~00~   counterattack, piloting an~00~   experimental Attack Ship.~00~~FF~}#116#098
+~02~~00~   You have been chosen to launch a~00~   counterattack, piloting an~00~   experimental Attack Ship.~00~~FF~#098
+;001197F4{~08~~00~ \ Alien awareness is low, giving you~00~   a chance to get used to your new~00~   ship. But remember, time is of the~00~   essence.~00~~FF~}#148#127
+~08~~00~ \ Alien awareness is low, giving you~00~   a chance to get used to your new~00~   ship. But remember, time is of the~00~   essence.~00~~FF~#127
+;00119873{~08~~00~ \ The satellite system is still under~00~   development, so SatScan V1.0 will~00~   have to suffice. We will transmit~00~   upgraded versions when available.~FF~}#170#152
+~08~~00~ \ The satellite system is still under~00~   development, so SatScan V1.0 will~00~   have to suffice. We will transmit~00~   upgraded versions when available.~FF~#152
+|527
+@00119921-0011995F-FF-FD-FE
+;00119921{ \ You will begin and end your mission~00~   at this launch pad.~00~~FD~}#072#063
+ \ You will begin and end your mission~00~   at this launch pad.~00~~FD~#063
+|63
+@0011997E-001199B8-FF-FD-FE
+;0011997E{ \ You must rescue this stranded~00~   spacefleet spy group.~00~~FD~}#068#059
+ \ You must rescue this stranded~00~   spacefleet spy group.~00~~FD~#059
+|59
+@001199D8-00119A86-FF-FD-FE
+;001199D8{ \ Your ship is not prepared for~00~   underwater missions yet.~FF~}#067#061
+ \ Your ship is not prepared for~00~   underwater missions yet.~FF~#061
+;00119A15{~02~ You must~00~   recover six sub-modules to~00~   access the alien underwater base.~00~~FF~}#094#079
+~02~ You must~00~   recover six sub-modules to~00~   access the alien underwater base.~00~~FF~#079
+;00119A64{~02~   The first sub-module is here.~00~~FF~}#044#035
+~02~   The first sub-module is here.~00~~FF~#035
+|175
+@00119ABF-00119AE4-FF
+;00119ABF{                          End of line.}#038#038
+                          End of line.#038
+|38
+@00119B7E-00119C91-FF-FD-FE
+;00119B7E{                Level 3 -SatScan v1.3~FF~}#041#038
+                Level 3 -SatScan v1.3~FF~#038
+;00119BA4{~06~~00~~00~~00~ \ A high-powered mining laser has~00~   been commandeered by the aliens.~FF~}#093#075
+~06~~00~~00~~00~ \ A high-powered mining laser has~00~   been commandeered by the aliens.~FF~#075
+;00119BEF{~02~~00~   Deflectors have been placed for use~00~   against the laser.~FF~}#075#063
+~02~~00~   Deflectors have been placed for use~00~   against the laser.~FF~#063
+;00119C2E{~02~ You must decide~00~   how best to use them.~00~~FF~}#056#044
+~02~ You must decide~00~   how best to use them.~00~~FF~#044
+;00119C5A{~0A~~01~~01~~01~~01~~01~~01~~00~ \ You will begin and end your mission~00~   here.~FF~}#086#056
+~0A~~01~~01~~01~~01~~01~~01~~00~ \ You will begin and end your mission~00~   here.~FF~#056
+|276
+@00119CB1-00119D30-FF-FD-FE
+;00119CB1{ \ Intelligence has placed a utility~00~   truck here to assist you.~FF~}#072#066
+ \ Intelligence has placed a utility~00~   truck here to assist you.~FF~#066
+;00119CF3{~02~ It can~00~   mount a dropped Deflector if the~00~   need arises.~00~~FD~}#077#062
+~02~ It can~00~   mount a dropped Deflector if the~00~   need arises.~00~~FD~#062
+|128
+@00119D56-00119DD7-FF-FD-FE
+;00119D56{ \ Destroy the alien housing here.~00~~FF~}#042#036
+ \ Destroy the alien housing here.~00~~FF~#036
+;00119D7A{~02~   They are located behind a security~00~   wall.~FF~}#057#048
+~02~   They are located behind a security~00~   wall.~FF~#048
+;00119DAA{~02~ Perhaps the Laser may be of~00~   some use...~00~~FD~}#058#046
+~02~ Perhaps the Laser may be of~00~   some use...~00~~FD~#046
+|130
+@00119E07-00119E3A-FF-FD-FE
+;00119E07{ \ A sub-module is here, defended by~00~   the Laser.~00~~FD~}#061#052
+ \ A sub-module is here, defended by~00~   the Laser.~00~~FD~#052
+|52
+@00119E5F-00119E84-00
+;00119E5F{                          End of line.}#038#038
+                          End of line.#038
+|38
+@00119F36-00119F90-FF-FD-FE
+;00119F36{                Level 2 -SatScan v1.1~FF~}#041#038
+                Level 2 -SatScan v1.1~FF~#038
+;00119F5C{~06~~00~~00~~00~ \ You will begin and end your mission~00~   here.~00~~FD~}#074#053
+~06~~00~~00~~00~ \ You will begin and end your mission~00~   here.~00~~FD~#053
+|91
+@00119FAC-0011A01D-FF-FD-FE
+;00119FAC{ \ The sub-module is here.~FF~}#030#027
+ \ The sub-module is here.~FF~#027
+;00119FC7{~02~ However,~00~   the aliens have sealed the entrance~00~   to the cave, trapping our men.~00~~00~~00~~FD~}#108#087
+~02~ However,~00~   the aliens have sealed the entrance~00~   to the cave, trapping our men.~00~~00~~00~~FD~#087
+|114
+@0011A036-0011A183-FF-FD-FE
+;0011A036{ \ The spy group you rescued report~00~   the aliens have built a Doomsday~00~   device.~FF~}#092#083
+ \ The spy group you rescued report~00~   the aliens have built a Doomsday~00~   device.~FF~#083
+;0011A089{~02~ They believe by destroying~00~   it, you can retrieve our troops and~00~   the sub-module.~00~~FF~}#103#088
+~02~ They believe by destroying~00~   it, you can retrieve our troops and~00~   the sub-module.~00~~FF~#088
+;0011A0E1{~0A~~00~~00~ \ This Mining area is equipped with~00~   Rail transports.~FF~}#075#060
+~0A~~00~~00~ \ This Mining area is equipped with~00~   Rail transports.~FF~#060
+;0011A11D{~02~ They allow greater~00~   stability when fighting the enemy.~00~~FF~}#072#060
+~02~ They allow greater~00~   stability when fighting the enemy.~00~~FF~#060
+;0011A159{~14~~00~~00~~00~                          End of line.~FE~}#058#043
+~14~~00~~00~~00~                          End of line.~FE~#043
+|334
+@0011A1BC-0011A23B-FF-FD-FE
+;0011A1BC{                Level 4 -SatScan v2.0~FF~}#041#038
+                Level 4 -SatScan v2.0~FF~#038
+;0011A1E2{~06~~00~~00~~00~ \ Satellite surveillance has reported~00~   enemy activity.~FF~}#080#062
+~06~~00~~00~~00~ \ Satellite surveillance has reported~00~   enemy activity.~FF~#062
+;0011A220{~02~ Destroy their~00~   leader.~00~~FF~}#040#028
+~02~ Destroy their~00~   leader.~00~~FF~#028
+|128
+@0011A25F-0011A296-FF-FD-FE
+;0011A25F{ \ A combat squad has hidden here.~00~~FF~}#042#036
+ \ A combat squad has hidden here.~00~~FF~#036
+;0011A283{~02~   Retrieve them.~00~~FD~}#029#020
+~02~   Retrieve them.~00~~FD~#020
+|56
+@0011A2B8-0011A31E-FF-FD-FE
+;0011A2B8{ \ The sub-module has been placed~00~   inside this structure.~FF~}#066#060
+ \ The sub-module has been placed~00~   inside this structure.~FF~#060
+;0011A2F4{~02~ Destroy~00~   it to get to the sub-module.~00~~FD~}#055#043
+~02~ Destroy~00~   it to get to the sub-module.~00~~FD~#043
+|103
+@0011A341-0011A39E-FF-FD-FE
+;0011A341{ Summary:~00~~00~ \~FF~}#023#014
+ Summary:~00~~00~ \~FF~#014
+;0011A34F{~02~ Destroy  THE THING~00~~FF~}#031#022
+~02~ Destroy  THE THING~00~~FF~#022
+;0011A365{~01~~00~ \~FF~}#014#005
+~01~~00~ \~FF~#005
+;0011A36A{~02~ Rescue   COMBAT SQUAD~00~~FF~}#034#025
+~02~ Rescue   COMBAT SQUAD~00~~FF~#025
+;0011A383{~01~~00~ \~FF~}#014#005
+~01~~00~ \~FF~#005
+;0011A388{~02~ Collect  SUB-MODULE~00~~FF~}#032#023
+~02~ Collect  SUB-MODULE~00~~FF~#023
+|94
+@0011A3B1-0011A4CA-FF-FD-FE
+;0011A3B1{                          End of line.~FE~}#042#039
+                          End of line.~FE~#039
+;0011A3D8{                Level 6 -SatScan v2.2~FF~}#041#038
+                Level 6 -SatScan v2.2~FF~#038
+;0011A3FE{~06~~00~~00~~00~ \ This mining site produces almost~00~   all of the spacefleets fuel.~FF~}#090#072
+~06~~00~~00~~00~ \ This mining site produces almost~00~   all of the spacefleets fuel.~FF~#072
+;0011A446{~02~~00~   The aliens have activated a~00~   guardian robot here in an attempt~00~   to cripple our forces.~FF~}#111#096
+~02~~00~   The aliens have activated a~00~   guardian robot here in an attempt~00~   to cripple our forces.~FF~#096
+;0011A4A6{~02~ You must~00~   destroy the guardian.~00~~FD~}#049#037
+~02~ You must~00~   destroy the guardian.~00~~FD~#037
+|282
+@0011A4F2-0011A573-FF-FD-FE
+;0011A4F2{ \ We believe a mininum of five fuel~00~   miners barely survived the attack.~00~~FF~}#085#076
+ \ We believe a mininum of five fuel~00~   miners barely survived the attack.~00~~FF~#076
+;0011A53E{~02~   Bring them back to receive medical~00~   attention.~00~~FD~}#066#054
+~02~   Bring them back to receive medical~00~   attention.~00~~FD~#054
+|130
+@0011A5AC-0011A81E-FF-FD-FE
+;0011A5AC{ \ There is no information regarding~00~   the location of the sub-module.~FF~}#078#072
+ \ There is no information regarding~00~   the location of the sub-module.~FF~#072
+;0011A5F4{~02~~00~   Search the area to find it.~FF~}#042#033
+~02~~00~   Search the area to find it.~FF~#033
+;0011A615{~02~ Once~00~   recovered, you will be equipped to~00~   enter the underwater regions.~00~~FF~}#094#079
+~02~ Once~00~   recovered, you will be equipped to~00~   enter the underwater regions.~00~~FF~#079
+;0011A664{~14~~01~~01~~01~~01~~01~~01~~FF~}#032#008
+~14~~01~~01~~01~~01~~01~~01~~FF~#008
+;0011A66C{~04~~00~ Summary:~00~~00~ \~FF~}#031#016
+~04~~00~ Summary:~00~~00~ \~FF~#016
+;0011A67C{~02~ Destroy  GUARDIAN ROBOT~00~~FF~}#036#027
+~02~ Destroy  GUARDIAN ROBOT~00~~FF~#027
+;0011A697{~01~~00~ \~FF~}#014#005
+~01~~00~ \~FF~#005
+;0011A69C{~02~ Rescue   SURVIVED MINERS~00~~FF~}#037#028
+~02~ Rescue   SURVIVED MINERS~00~~FF~#028
+;0011A6B8{~01~~00~ \~FF~}#014#005
+~01~~00~ \~FF~#005
+;0011A6BD{~02~ Collect  SUB-MODULE~00~~FF~}#032#023
+~02~ Collect  SUB-MODULE~00~~FF~#023
+;0011A6D4{~01~~00~~FF~}#012#003
+~01~~00~~FF~#003
+;0011A6D7{~09~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~                          End of line.~FE~}#102#054
+~09~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~                          End of line.~FE~#054
+;0011A70D{~00~                Level 5 -SatScan v2.1~FF~}#045#039
+~00~                Level 5 -SatScan v2.1~FF~#039
+;0011A734{~06~~00~~00~~00~ \ Due to alien sabotage, this nuclear~00~   power plant is about to explode.~FF~}#097#079
+~06~~00~~00~~00~ \ Due to alien sabotage, this nuclear~00~   power plant is about to explode.~FF~#079
+;0011A783{~02~~00~   You must destroy it before its~00~   fusion reactors overheat.~FF~}#077#065
+~02~~00~   You must destroy it before its~00~   fusion reactors overheat.~FF~#065
+;0011A7C4{~02~~00~   The plant's defenses are now active.~FF~}#051#042
+~02~~00~   The plant's defenses are now active.~FF~#042
+;0011A7EE{~02~~00~   You must locate the anti-shield~00~   weapon.~00~~FD~}#064#049
+~02~~00~   You must locate the anti-shield~00~   weapon.~00~~FD~#049
+|627
+@0011A847-0011A8DA-FF-FD-FE
+;0011A847{ \ After the power plant is destroyed,~00~   the atmosphere will be contaminated.~FF~}#085#079
+ \ After the power plant is destroyed,~00~   the atmosphere will be contaminated.~FF~#079
+;0011A896{~02~~00~   You must rescue the nine remaining~00~   workers, last seen here.~00~~FD~}#084#069
+~02~~00~   You must rescue the nine remaining~00~   workers, last seen here.~00~~FD~#069
+|148
+@0011A914-0011A99A-FF-FD-FE
+;0011A914{ \ The saboteur has also stolen the~00~   sub-module.~FF~}#057#051
+ \ The saboteur has also stolen the~00~   sub-module.~FF~#051
+;0011A947{~02~ Your weapons are~00~   useless against it.~FF~}#051#042
+~02~ Your weapons are~00~   useless against it.~FF~#042
+;0011A971{~02~ Use the reactor~00~   core to destroy it.~00~~FD~}#054#042
+~02~ Use the reactor~00~   core to destroy it.~00~~FD~#042
+|135
+@0011A9BE-0011AB62-FF-FD-FE
+;0011A9BE{ Summary:~00~~00~ \~FF~}#023#014
+ Summary:~00~~00~ \~FF~#014
+;0011A9CC{~02~ Destroy  NUCLEAR POWER PLANT~00~~FF~}#041#032
+~02~ Destroy  NUCLEAR POWER PLANT~00~~FF~#032
+;0011A9EC{~01~~00~ \~FF~}#014#005
+~01~~00~ \~FF~#005
+;0011A9F1{~02~ Rescue   ENDANGERED WORKERS~00~~FF~}#040#031
+~02~ Rescue   ENDANGERED WORKERS~00~~FF~#031
+;0011AA10{~01~~00~ \~FF~}#014#005
+~01~~00~ \~FF~#005
+;0011AA15{~02~ Destroy  ALIEN LIFEFORM~00~~FF~}#036#027
+~02~ Destroy  ALIEN LIFEFORM~00~~FF~#027
+;0011AA30{~01~~00~ \~FF~}#014#005
+~01~~00~ \~FF~#005
+;0011AA35{~02~ Collect  SUB-MODULE~00~~FF~}#032#023
+~02~ Collect  SUB-MODULE~00~~FF~#023
+;0011AA4C{~01~~00~~FF~}#012#003
+~01~~00~~FF~#003
+;0011AA4F{~09~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~                          End of line.~FE~}#094#052
+~09~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~                          End of line.~FE~#052
+;0011AA83{~00~                Level 7 -SatScan v2.3~FF~}#045#039
+~00~                Level 7 -SatScan v2.3~FF~#039
+;0011AAAA{~06~~00~~00~~00~ \ Message from superiors..~00~~00~   SatScan is impossible!!~00~   Due to the fact, water interfer!nz~00~   ~23~t ca?sez c~24~scks~2A~m er~23~or~00~~00~~00~~00~   ~25~~26~~00~~00~       ~24~      ~21~~00~~00~~00~~00~~00~~00~~00~               E~23~ of l~21~ne.~FE~}#281#185
+~06~~00~~00~~00~ \ Message from superiors..~00~~00~   SatScan is impossible!!~00~   Due to the fact, water interfer!nz~00~   ~23~t ca?sez c~24~scks~2A~m er~23~or~00~~00~~00~~00~   ~25~~26~~00~~00~       ~24~      ~21~~00~~00~~00~~00~~00~~00~~00~               E~23~ of l~21~ne.~FE~#185
+|421
+@00137439-00137465-00
+;00137439{Level        ~00~}#017#014
+Level        ~00~#014
+;00137447{~26~~01~Sound 00~00~}#020#011
+~26~~01~Sound 00~00~#011
+;00137452{~28~~01~Music            ~00~}#029#020
+~28~~01~Music            ~00~#020
+|45
+@0013749C-001374C4-00
+;0013749C{Play Stage 5~00~}#016#013
+Play Stage 5~00~#013
+;001374A9{~26~~01~Demo Play Off~00~}#025#016
+~26~~01~Demo Play Off~00~#016
+;001374B9{~26~~01~Test Mode~00~}#021#012
+~26~~01~Test Mode~00~#012
+|41
+@001374FB-0013751A-00
+;001374FB{Start Game~00~}#014#011
+Start Game~00~#011
+;00137506{~26~~01~Options~00~}#019#010
+~26~~01~Options~00~#010
+;00137510{~26~~01~Controls~00~}#020#011
+~26~~01~Controls~00~#011
+|32
+@00137551-00137569-00
+;00137551{Training~00~}#012#009
+Training~00~#009
+;0013755A{~28~~01~Configuration~00~}#025#016
+~28~~01~Configuration~00~#016
+|25
+@0013ABB2-0013ADB1-00
+;0013ABB2{DISABLE MUSIC                   CAROUSEL        TITLE           START SEQUENCE  INTRO           FUNKY WRITER    MISSION REPORT  CRYSTAL SPACE   LEVEL I         SUBLEVEL        LEVEL II        CRYSTAL SPACE IILEVEL III       ENEMY MINES     LEVEL IV        ENEMY MINES II  LEVEL V         SUBLEVEL II     LEVEL VI        POWER FLOWER    LEVEL VII       POWER FLOWER II LEVEL VIII      UNDERWATER      LEVEL IX        COMPLETE        END SEQUENCE    HEROES THEME    HIGH SCORE      LAST LEVEL      FINAL MONSTER   }#512#512
+DISABLE MUSIC                   CAROUSEL        TITLE           START SEQUENCE  INTRO           FUNKY WRITER    MISSION REPORT  CRYSTAL SPACE   LEVEL I         SUBLEVEL        LEVEL II        CRYSTAL SPACE IILEVEL III       ENEMY MINES     LEVEL IV        ENEMY MINES II  LEVEL V         SUBLEVEL II     LEVEL VI        POWER FLOWER    LEVEL VII       POWER FLOWER II LEVEL VIII      UNDERWATER      LEVEL IX        COMPLETE        END SEQUENCE    HEROES THEME    HIGH SCORE      LAST LEVEL      FINAL MONSTER   #512
+|512
+@0013DBDD-0013DC64-00
+;0013DBDD{CRIONICS ~00~}#013#010
+CRIONICS ~00~#010
+;0013DBE7{~01~(~90~~00~}#013#004
+~01~(~90~~00~#004
+;0013DBEB{DEFTRONIC~00~}#013#010
+DEFTRONIC~00~#010
+;0013DBF5{~01~8~80~~00~}#013#004
+~01~8~80~~00~#004
+;0013DBF9{THE SPY  ~00~}#013#010
+THE SPY  ~00~#010
+;0013DC03{~01~~11~p~00~}#013#004
+~01~~11~p~00~#004
+;0013DC07{MURPHY   ~00~}#013#010
+MURPHY   ~00~#010
+;0013DC11{~00~}#004#001
+~00~#001
+;0013DC12{~EA~)~00~}#009#003
+~EA~)~00~#003
+;0013DC15{SILENTS  ~00~}#013#010
+SILENTS  ~00~#010
+;0013DC1F{~00~}#004#001
+~00~#001
+;0013DC20{~C3~P~00~}#009#003
+~C3~P~00~#003
+;0013DC23{KYD/BALLE~00~}#013#010
+KYD/BALLE~00~#010
+;0013DC2D{~00~}#004#001
+~00~#001
+;0013DC2E{~9C~!~00~}#009#003
+~9C~!~00~#003
+;0013DC31{SIONIC   ~00~}#013#010
+SIONIC   ~00~#010
+;0013DC3B{~00~}#004#001
+~00~#001
+;0013DC3C{u0~00~}#006#003
+u0~00~#003
+;0013DC3F{KARVID   ~00~}#013#010
+KARVID   ~00~#010
+;0013DC49{~00~}#004#001
+~00~#001
+;0013DC4A{N ~00~}#006#003
+N ~00~#003
+;0013DC4D{GUZZLER  ~00~}#013#010
+GUZZLER  ~00~#010
+;0013DC57{~00~}#004#001
+~00~#001
+;0013DC58{~27~~10~~00~}#012#003
+~27~~10~~00~#003
+;0013DC5B{CRUX     ~00~}#013#010
+CRUX     ~00~#010
+|136
+@0013DD36-0013DD40-00
+;0013DD36{High Score~00~}#014#011
+High Score~00~#011
+|11

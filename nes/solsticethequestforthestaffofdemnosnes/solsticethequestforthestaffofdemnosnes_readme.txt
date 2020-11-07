@@ -1,6 +1,6 @@
 Solstice - The Quest for the Staff of Demnos (NES)
-Traducción al Español v1.0 (25/04/2019)
-(C) 2019 Traducciones Wave
+Traducción al Español v1.1 (06/11/2020)
+(C) 2020 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -8,6 +8,7 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+V1.1: Arreglados ítems con acentos al no poderse mostrar correctamente.
 
 ------------------------
 Instrucciones de Parcheo

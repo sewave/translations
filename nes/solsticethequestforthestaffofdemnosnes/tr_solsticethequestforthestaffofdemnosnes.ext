@@ -37,7 +37,7 @@ Pulsa start para seguir=#048
 @00012B00-00012B97-FF
 ;00012B00{=~CB~xa credit~FF~}#018#012
 =~CB~x
-crédito ~FF~#012
+credito ~FF~#012
 ;00012B0C{=~C9~xan extra life~FF~}#023#017
 =~C9~x vida extra  ~FF~#017
 ;00012B1D{=~CA~xmagic boots~FF~}#021#015
@@ -51,16 +51,16 @@ llave magia~FF~#015
  pieza de vara  ~FF~#020
 ;00012B4F{=~C8~xa green potion~FF~}#024#018
 =~C8~x
- poción verde ~FF~#018
+ pocion verde ~FF~#018
 ;00012B61{=~C8~xa yellow potion~FF~}#025#019
 =~C8~x
-poción amarilla~FF~#019
+pocion amarilla~FF~#019
 ;00012B74{=~C8~xa purple potion~FF~}#025#019
 =~C8~x
-  poción lila  ~FF~#019
+  pocion lila  ~FF~#019
 ;00012B87{=~C9~xa blue potion~FF~}#023#017
 =~C9~x
- poción azul ~FF~#017
+ pocion azul ~FF~#017
 |152
 @000087D6-000087F4-FF
 ;000087D6{=´x`Princess Eleanor is MINE.´=}#031#031

@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Red Zone (USA, Europe).md"
+set SCRIPTNAME="redzonesmd"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 152E54:80,152F54:20,153954:60,153194:20,27A4:200,2C24:200,A11EE:100,A1316:100,A141E:40,A0FAC:100,A0E94:100
+pause

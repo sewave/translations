@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Taz-Mania (USA, Europe, Brazil).gg"
+set SCRIPTNAME="tazmaniagg"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 1A414:80,3E56E:20,3E5CE:20,3E62E:20,2CE22:80,2D3A4:40,2CA02:200,2CFC4:420,1B3D4:A00,1A994:80,1ABB4:80,1ADF4:60,1B014:80
+pause

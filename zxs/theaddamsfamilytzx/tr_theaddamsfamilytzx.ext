@@ -1,0 +1,137 @@
+@00002423-00002699-00
+;00000000{1. KEYBOARD=2. SINCLAIR 1=3. CURSOR=4. KEMPSTON=~00~}#052#049
+1. TECLADO =2. SINCLAIR 1=3. CURSOR=4. KEMPSTON=~00~#049
+;00000031{B5. DEFINE KEYS=~00~}#020#017
+B5. REDEFINIR  =~00~#017
+;00000042{E6·=~00~}#008#005
+E6·=~00~#005
+;00000047{C7. CHEAt~04~~01~~00~}#021#012
+C7. TRICo~04~~01~~00~#012
+;00000053{F~02~~0C~HUP.....=DOWN...=LEFT...=RIGHT..=JUMP...=PAUSE..~00~}#061#052
+F~02~~0C~HARRIBA.=ABAJO..=IZQUIE.=DERECH.=SALTAR.=PAUSA..~00~#052
+;00000087{D_~04~~01~~00~}#014#005
+D_~04~~01~~00~#005
+;0000008C{DPRESS FIRE TO CONTINUE~02~~00~}#031#025
+DFUEGO PARA CONTINUAR  ~02~~00~#025
+;000000A5{~90~~00~}#008#002
+~90~~00~#002
+;000000A7{FCREDITS :_CAPsENT_SPC_EASY _MEDIUmHARD _ON_OFf~04~~02~~00~}#059#050
+FCRÉDITOS:_MAYuINT_ESP_FÁCIL_MEDIo DIFÍCiSÍ_No ~04~~02~~00~#050
+;000000D9{ECONGRATULATIONS~02~~02~~90~~04~~01~~00~}#040#022
+EFELICIDADES    ~02~~02~~90~~04~~01~~00~#022
+;000000EF{ETHE FAMILY ARE REUNITED AND=TOGETHER YOU REMOVE THE=SWINDLING TULLY AND HIS GANG=OF CORRUPT CRONIES·~04~~03~~00~}#113#104
+E
+LA FAMILIA SE HA REUNIDO Y =
+JUNTOS ELIMINÁIS AL    =
+TRAPACERO TULLY Y A SUS     =
+AMIGOS CORRUPTOS. _~04~~03~~00~#104
+;00000157{BHI-SCOREs~04~~02~~00~}#022#013
+BMEJOREs  ~04~~02~~00~#013
+;00000164{EENTER YOUR NAME.·~04~~01~~00~}#030#021
+EENTRA TU NOMBRE.·~04~~01~~00~#021
+;00000179{GYOU HAVE RESCUED_~00~}#022#019
+GHAS RESCATADO A__~00~#019
+;0000018C{D~04~~01~YOU NOW ONLY HAVE 5 MORE=FAMILY MEMBERS TO RESCUE..·THING_GRANNY_MORTICIA_WEDNESDAY_PUGSLEY_LURCH_~04~~01~DOES NOT BELIEVE THAT=YOU ARE THE REAL GOMEZ AND=HAS HIDDEN ELSEWHERE..·~04~~01~REJECTS YOUR RESCUE=ATTEMPT SO YOU MUST TRY AGAIN..·FFFF~06~~00~}#259#235
+D~04~~01~
+SOLO TE QUEDAN    5     =
+FAMILIARES A RESCATAR..·   
+COSA _ABUELA_MORTICIA_MIERCOLES_PUGSLEY_LURCH_~04~~01~
+NO CREE QUE SEAS EL  =
+GOMEZ REAL Y SE ESCONDIÓ  =
+EN ALGÚN LUGAR..·      ~04~~01~
+RECHAZA TU INTENTO =
+DE RESCATE Y DEBES REINTENTAR..·FFFF~06~~00~#235
+|631
+@00004777-000047D1-00
+;00000000{      CAR THIEVES AND BURGLARS, WHO ARE THE SCUM OF THIS EARTH, SHOULD ALL BE HANGED       }#091#091
+      LOS LADRONES Y LADRONES DE COCHES, QUE SON LA ESCORIA, DEBERÍAN SER COLGADOS         #091
+|91
+@00004836-000048B0-00
+;00000000{      WHAT I WANT TO KNOW IS... HOW DO THE SCUM MANAGE TO STEAL CARS AND ROB HOUSES WHEN THEY HAVEN'T GOT A BRAIN ???      }#123#123
+      LO QUE QUIERO SABER ES... CÓMO LA ESCORIA CONSIGUE ROBAR COCHES Y CASAS CUANDO NO TIENEN CEREBRO ???                 #123
+|123
+@0000492E-0000495A-00
+;00000000{     THERE IS NO JUSTIFICATION FOR CRIME     }#045#045
+     NO HAY JUSTIFICACIÓN PARA EL CRIMEN     #045
+|45
+@000049F3-00005174-00
+;00000000{                              ~00~}#034#031
+                              ~00~#031
+;0000001F{      THE ADDAMS FAMILY       G                              G YOUR TREACHEROUS ACCOUNTANT, E TULLY AND HIS ACCOMPLICES    E ARE TRYING TO THROW YOU AND  E YOUR FAMILY OUT OF YOUR      E ANCESTRAL MANSION.           E                              E THE REST OF THE FAMILY DON'T D WANT TO LEAVE AND HAVE HIDDEND THEMSELVES IN AND AROUND THE D MANSION.                     D                              D YOU MUST FIND AND RESCUE THE C REST OF THE FAMILY OVERCOMINGC THE MANY HAZARDS WHICH LURK  C AROUND THE HOUSE...          C                              C ALL YOU HAVE TO GO ON IS A   G SCRAP OF PAPER WHICH         G READS ..........             G                              G GRANNY IS HOT AND BOTHERED.  A                              A WEDNESDAY IS HIDING WITH THE B CORPSES.                     B                              B LURCH IS STUCK IN THE FAMILY C PLOT.                        C                              C THING HAS BEEN FROZEN OUT.   D                              D PUGSLEY WILL NOT TAKE HIS    E HEAD OUT FROM UNDER THE      E SHEETS.                      E                              E MORTICIA HAS JUST CAVED IN.  F                              ~04~                              ~04~         PROGRAMMING          ~04~                              ~04~         A.P. DEAKIN          D                              ~04~                              D      GRAPHICS / DESIGN       ~02~                              B          IVAN HORN           B                              D                              D          MUSIC / FX          ~07~                              G        JONATHAN DUNN         G                              D                              D                              D     PRESS ENTER TO START     D                              D                              D                              D                              D                              D}#1912#1891
+      LA FAMILIA ADDAMS       G
+                              G
+ TU TRAICIONERO CONTABLE,     E
+ TULLY Y SUS CÓMPLICES ESTÁN  E
+ INTENTANDO ECHAROS A TI Y A  E
+ TU FAMILIA DE TU ANCESTRAL   E
+ MANSIÓN.                     E
+                              E
+ EL RESTO DE LA FAMILIA NO    D
+ QUIERE IRSE Y SE HAN OCULTADO 
+ DENTRO Y EN LOS ALREDEDORES  D
+ DE LA MANSIÓN.               D
+                              D
+ DEBES HALLAR Y RESCATAR AL   C
+ RESTO DE LA FAMILIA SUPERANDOC
+ DIVERSOS PELIGROS QUE MORAN  C
+ ALREDEDOR DE LA CASA...      C
+                              C
+ TODO LO QUE TIENES ES UN     G
+ TROZO DE PAPEL QUE DICE ASÍ  G
+ ..........                   G
+                              G
+ LA ABUELA TIENE CALOR.       A
+                              A
+ MIÉRCOLES SE OCULTA CON LOS  B
+ CADÁVERES.                   B
+                              B
+ LURCH ESTÁ ATRAPADO EN LA    C
+ TRAMA FAMILIAR.              C
+                              C
+ COSA HA SIDO CONGELADA.      D
+                              D
+ PUGSLEY NO SACARÁ SU CABEZA  E
+ DE DEBAJO DE LAS SÁBANAS.    E
+                              E
+ MORTICIA HA CAÍDO EN LA      E
+ CUEVA.                       F
+                              ~04~                              ~04~
+         PROGRAMACIÓN         ~04~
+                              ~04~         A.P. DEAKIN          D                              ~04~                              D
+      GRÁFICOS / DISEÑO       ~02~
+                              B          IVAN HORN           B                              D                              D
+  MÚSICA / EFECTOS DE SONIDO  ~07~
+                              G        JONATHAN DUNN         G                              D                              D                              D
+   PULSA ENTER PARA EMPEZAR   D
+                              D                              D                              D                              D                              D#1891
+|1922
+@000051A2-000051E4-00
+;00000000{STARRINg~04~~01~~00~}#020#011
+ESTRELLa~04~~01~~00~#011
+;0000000B{DFEATURINgTHINgGRANNyMORTICIaWEDNESDAyPUGSLEyLURChGOMEz~00~}#059#056
+D
+PRESENTAn
+COSa 
+ABUELa
+MORTICIa
+MIÉRCOLEs
+PUGSLEy
+LURCh
+GOMEz~00~#056
+|67
+@00005684-00005732-00
+;00000000{      IF SOMEONE BREAKS INTO YOUR HOUSE OR TRIES TO STEAL YOUR CAR, YOU SHOULD HAVE THE RIGHT TO SHOOT THEM DEAD, AS THEY ARE NO MORE USE TO SOCIETY THAN A RABID DOG          }#175#175
+      SI ALGUIEN ENTRA EN TU CASA O INTENTA ROBAR TU COCHE, DEBERÍAS TENER DERECHO A DISPARARLES, PORQUE NO TIENEN MÁS UTILIDAD PARA LA SOCIEDAD QUE UN PERRO RABIOSO          #175
+|175
+@00005780-00005814-00
+;00000000{         I PAY TAXES TO STOP SCUM DYING IN THE STREETS AND THEN THEY COME ROUND AND STEAL MY POSSESSIONS..... NOW THERE'S GRATITUDE FOR YOU         ~00~}#152#149
+         PAGO IMPUESTOS PARA QUE LA ESCORIA NO MUERA EN LA CALLE Y VIENEN Y ME ROBAN MIS POSESIONES..... ESO SI QUE ES GRATITUD                     ~00~#149
+|149
+@00005A14-00005A94-00
+;00000000{        THE SCUM ARE TRYING TO BRING THIS COUNTRY DOWN TO THEIR LEVEL OF DEPRAVITY....... PLEASE DON'T LET THEM SUCCEED          }#129#129
+        LA ESCORIA INTENTA BAJAR ESTE PAÍS A SU NIVEL DE DEPRAVACIÓN....... POR FAVOR NO DEJES QUE TENGAN ÉXITO                  #129
+|129
+@00006C73-00006C93-00
+;00000000{(C) 1991 PARAMOUNT PICS / OCEAN·~00~}#036#033
+(C) 1991 PARAMOUNT PICS / OCEAN·~00~#033
+|33

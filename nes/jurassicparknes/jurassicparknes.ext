@@ -1,0 +1,60 @@
+@00012AAB-00012B82-08
+;00012AAB{jurassic park=central mainframe===you need correct=security card for=access..==entry denied....~08~}#099#096
+jurassic park=central mainframe===you need correct=security card for=access..==entry denied....~08~#096
+;00012B0B{~09~~08~}#008#002
+~09~~08~#002
+;00012B0D{~09~jurassic park=central mainframe==main menu=~0A~~00~~05~~00~~0A~~0B~~05~~00~=   on-line     gate=   help        control=====please select box~08~}#148#118
+~09~jurassic park=central mainframe==main menu=~0A~~00~~05~~00~~0A~~0B~~05~~00~=   on-line     gate=   help        control=====please select box~08~#118
+|216
+@00012B8F-000130EF-08
+;00012B8F{jurassic park=central mainframe==access denied....==entry to the=system restricted=from this console.~08~}#105#102
+jurassic park=central mainframe==access denied....==entry to the=system restricted=from this console.~08~#102
+;00012BF5{~09~access denied....==user has tried to=access a restricted=area..~08~}#071#065
+~09~access denied....==user has tried to=access a restricted=area..~08~#065
+;00012C36{~09~jp central mainframe==loading hiscores==1st  00000  aaaaa=2nd  00000  aaaaa=3rd  00000  aaaaa=4th  00000  aaaaa=5th  00000  aaaaa=6th  00000  aaaaa~08~}#155#149
+~09~jp central mainframe==loading hiscores==1st  00000  aaaaa=2nd  00000  aaaaa=3rd  00000  aaaaa=4th  00000  aaaaa=5th  00000  aaaaa=6th  00000  aaaaa~08~#149
+;00012CCB{~09~jp central mainframe==enter your personal id=for the hiscore table.==    abcdefghijklm=    nopqrstuvwxyz=    del       end==personal id .....~08~}#149#143
+~09~jp central mainframe==enter your personal id=for the hiscore table.==    abcdefghijklm=    nopqrstuvwxyz=    del       end==personal id .....~08~#143
+;00012D5A{~09~==the jurassic park=main gate is open.~08~}#046#040
+~09~==the jurassic park=main gate is open.~08~#040
+;00012D82{~09~jurassic park=central mainframe==system message==this terminal has=already been=initialized.=message ends...~08~}#116#110
+~09~jurassic park=central mainframe==system message==this terminal has=already been=initialized.=message ends...~08~#110
+;00012DF0{~09~terminal booting..=system ok..==system message==boot up next terminal=message ends...~08~}#093#087
+~09~terminal booting..=system ok..==system message==boot up next terminal=message ends...~08~#087
+;00012E47{~09~terminal booting..=system ok..==system message==all terminals have=been initialized.==main power on=aux power on=message ends...=press start to log off~08~}#159#153
+~09~terminal booting..=system ok..==system message==all terminals have=been initialized.==main power on=aux power on=message ends...=press start to log off~08~#153
+;00012EE0{~09~bios message==error this is not the=next terminal in the=sequence.==message ends...~08~}#091#085
+~09~bios message==error this is not the=next terminal in the=sequence.==message ends...~08~#085
+;00012F35{~09~bios message==please restore=main power.==message ends...~08~}#065#059
+~09~bios message==please restore=main power.==message ends...~08~#059
+;00012F70{~09~tim is beyond the main=gates.==only the correct=terminal will allow=access to the open=gate option.==collect or destroy=all the eggs for a=building passcard....~08~}#168#162
+~09~tim is beyond the main=gates.==only the correct=terminal will allow=access to the open=gate option.==collect or destroy=all the eggs for a=building passcard....~08~#162
+;00013012{~09~go through the spitter=pen for access to the=river.==shoot the t-rex whilst=trying to protect lex.~08~}#106#100
+~09~go through the spitter=pen for access to the=river.==shoot the t-rex whilst=trying to protect lex.~08~#100
+;00013076{~09~the computer consoles=are in the large=visitors center.~08~}#063#057
+~09~the computer consoles=are in the large=visitors center.~08~#057
+;000130AF{~09~in the nests x marks=the spot.~08~}#038#032
+~09~in the nests x marks=the spot.~08~#032
+;000130CF{~09~request denied=no help given...~08~}#039#033
+~09~request denied=no help given...~08~#033
+|1377
+@00018BAB-0001901C-08
+;00018BAB{warning../==tim and lex have=been trapped by the=t-rex./==rescue them=both and defeat the=t-rex./==good luck.../==message ends....=a-exit  b-repeat~08~}#151#148
+warning../==tim and lex have=been trapped by the=t-rex./==rescue them=both and defeat the=t-rex./==good luck.../==message ends....=a-exit  b-repeat~08~#148
+;00018C3F{level 1/==warning../=power to the=electric containment=fence has been=cut off./==the dinosaurs have=taken control of=jurassic park./==find tim=and rescue him=from a stampede=of giant=triceratops..../==hint../=use the motion=detectors for=helpful information/==message ends....=a-exit  b-repeat~08~}#297#294
+level 1/==warning../=power to the=electric containment=fence has been=cut off./==the dinosaurs have=taken control of=jurassic park./==find tim=and rescue him=from a stampede=of giant=triceratops..../==hint../=use the motion=detectors for=helpful information/==message ends....=a-exit  b-repeat~08~#294
+;00018D65{level 2/==congratulations you=have saved tim=from being crushed./==tim tells you that=his sister is=hiding in the t-rex=enclosure./==find lex and=save her from=the t-rex./==message ends....=a-exit  b-repeat~08~}#210#207
+level 2/==congratulations you=have saved tim=from being crushed./==tim tells you that=his sister is=hiding in the t-rex=enclosure./==find lex and=save her from=the t-rex./==message ends....=a-exit  b-repeat~08~#207
+;00018E34{level 3/==well done you have=prevented lex=from being=eaten./==now restore=power to the island=by starting the main=generator./==remember the start=sequence.=1. turn on all power=   in utility shed/=2. start up the main=   computer consoles=   in the correct=   order./=message ends....=a-exit  b-repeat~08~}#307#304
+level 3/==well done you have=prevented lex=from being=eaten./==now restore=power to the island=by starting the main=generator./==remember the start=sequence.=1. turn on all power=   in utility shed/=2. start up the main=   computer consoles=   in the correct=   order./=message ends....=a-exit  b-repeat~08~#304
+;00018F64{level 4/==power has been=restored../==warning../==the raptors have=begun to breed./==you must find=the raptor nests and=destroy them=with explosives.==message ends....=a-exit  b-repeat~08~}#188#185
+level 4/==power has been=restored../==warning../==the raptors have=begun to breed./==you must find=the raptor nests and=destroy them=with explosives.==message ends....=a-exit  b-repeat~08~#185
+|1138
+@0001901D-00019291-08
+;0001901D{level 5/===the main raptor nest=is destroyed./==the radio in the=control room has=been destroyed by=the raptors../==your only chance is=to get to the dock=and use the radio=on board the ship./==message ends....=a-exit  b-repeat~08~}#231#228
+level 5/===the main raptor nest=is destroyed./==the radio in the=control room has=been destroyed by=the raptors../==your only chance is=to get to the dock=and use the radio=on board the ship./==message ends....=a-exit  b-repeat~08~#228
+;00019101{level 6/==the helicopter is=on its way./==get to the helipad=for pickup and=safety./==warning.../=highly infested=area../==message ends....=a-exit  b-repeat~08~}#160#157
+level 6/==the helicopter is=on its way./==get to the helipad=for pickup and=safety./==warning.../=highly infested=area../==message ends....=a-exit  b-repeat~08~#157
+;0001919E{final message/==brilliant. you have=escaped jurassic=park../==you have succeeded=where others=become dinner../==but some dinosaurs=survive and only=time will tell=who rules the=earth./==message ends....=game ends....=a-exit to credits=b-repeat~08~}#247#244
+final message/==brilliant. you have=escaped jurassic=park../==you have succeeded=where others=become dinner../==but some dinosaurs=survive and only=time will tell=who rules the=earth./==message ends....=game ends....=a-exit to credits=b-repeat~08~#244
+|629

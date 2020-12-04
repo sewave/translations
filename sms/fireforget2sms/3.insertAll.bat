@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Fire & Forget 2 (E) [!].sms"
-set S_FILENAME="Fire & Forget 2 (E) [!].sms"
+set T_FILENAME="TR_Fire & Forget II (Europe).sms"
+set S_FILENAME="Fire & Forget II (Europe).sms"
 set SCRIPTNAME="fireforget2sms"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

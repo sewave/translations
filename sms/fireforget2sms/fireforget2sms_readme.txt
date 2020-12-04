@@ -8,6 +8,12 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+12FE2 -> YOU GOT ME, BUT I AIN'T DEAD
+1A4C2 -> BY TITUS PUSH START
+3AB20 -> marcador y stage completed
+05C2B -> bonus
+06BEA -> EXTRA LIFE
+
 
 ------------------------
 Instrucciones de Parcheo

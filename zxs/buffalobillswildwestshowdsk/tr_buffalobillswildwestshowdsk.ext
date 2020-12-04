@@ -1,0 +1,178 @@
+@00022E1C-00022EFF-FF
+;00000000{self~14~~0F~portrait~FF~}#024#015
+auto~14~~0F~retrato ~FF~#015
+;0000000F{~C6~~8E~~DE~~8E~~F6~~8E~~DE~~8E~~00~~02~~03~~04~~05~~00~~04~~01~~00~~16~                                ~FF~}#108#051
+~C6~~8E~~DE~~8E~~F6~~8E~~DE~~8E~~00~~02~~03~~04~~05~~00~~04~~01~~00~~16~                                ~FF~#051
+;00000042{~08~~07~Upto 12 letters,~08~~0A~then press ENTER~FF~}#052#037
+~08~~07~Hasta 12 letras,~08~~0A~luego toca ENTER~FF~#037
+;00000067{Rodeo Games ~7F~TyneSoft 1989, written using Spike the random number routine and a widget... R: Redefine keys, H: High Scores, P}#128#125
+Rodeo Games ~7F~TyneSoft 1989, escrito usando el RNG Spike y un widget... R: Redefinir teclas, H: Mejores Puntajes, Por favor in#125
+|228
+@00023100-000232AC-FF
+;00000000{lease enter number of players...   ~FF~}#039#036
+troduce el número de jugadores...  ~FF~#036
+;00000024{Player 1 enter your name..   ~FF~}#033#030
+Jugadr 1 entra tu nombre..   ~FF~#030
+;00000042{~11~~15~Total~1D~~15~0~03~~02~Knife Throwing~03~~05~Trick Shooting~03~~08~Calf Roping~03~~0B~Bronco Riding~03~~0E~Steer Wrestling~03~~11~Stage Coach Rescue~FF~}#159#108
+~11~~15~Total~1D~~15~0~03~~02~Tira Cuchillos~03~~05~Trucos Tiro   ~03~~08~Ata Becerro~03~~0B~Montar Potro ~03~~0E~Lucha Novillo  ~03~~11~Rescate Diligencia~FF~#108
+;000000AE{~05~~15~Prod 1 to 6 then SPACE~FF~}#034#025
+~05~~15~Pulsa 1 a 6 luego ESPA~FF~#025
+;000001AB{Yes~FF~}#007#004
+Si ~FF~#004
+;000000CB{No ~FF~}#007#004
+No ~FF~#004
+;000000CF{N/A~FF~}#007#004
+N/A~FF~#004
+;000000D3{n/a~FF~}#007#004
+n/a~FF~#004
+;000000D7{ ~7E~~03~~02~Please enter play level:~07~~07~1. Easy~08~~0A~2. Medium~09~~0D~3. Hard~FF~}#088#058
+ ~7E~~03~~02~Introduce nivel juego:  ~07~~07~1. Leve~08~~0A~2. Medio ~09~~0D~3. Duro~FF~#058
+;000001F5{~01~~05~Choose movement media:~04~~15~...then prod ENTER to Go~02~~02~Play level set to ~FF~}#092#071
+~01~~05~Elige movimiento:     ~04~~15~...luego pulsa ENTER    ~02~~02~Nivel de juego en ~FF~#071
+;0000023C{easy   ~FF~}#011#008
+fácil  ~FF~#008
+;00000244{medium ~FF~}#011#008
+medio  ~FF~#008
+;00000168{hard~FF~}#008#005
+difí~FF~#005
+;00000251{Speccy Keyboard~FF~}#019#016
+Teclado Speccy ~FF~#016
+;00000261{Sinclair port 1~FF~}#019#016
+Sinclair puert1~FF~#016
+;00000271{Sinclair port 2~FF~}#019#016
+Sinclair puert2~FF~#016
+;00000281{Ye old Kempston~FF~}#019#016
+Viejo Kempston ~FF~#016
+|429
+@0002388F-000238EC-FF
+;00000000{Today's Rodeo Heroes~FF~}#024#021
+Heroes Rodeo de Hoy ~FF~#021
+;00000015{~08~~08~Please wait till~0B~~0B~I load the~09~~0E~next event....~FF~}#068#047
+~08~~08~Espera hasta que~0B~~0B~cargue el ~09~~0E~  evento...   ~FF~#047
+;00000044{Winning team~FF~}#016#013
+Equipo ganad~FF~#013
+;00000051{Buffalo Bill~FF~}#016#013
+Buffalo Bill~FF~#013
+|94
+@00023C16-00023C6B-FF
+;00000000{CAPS~FF~}#008#005
+MAYÚ~FF~#005
+;00000005{ENTER~FF~}#009#006
+ENTER~FF~#006
+;0000000B{SPACE~FF~}#009#006
+ESPAC~FF~#006
+;000000E9{SYMBL~FF~}#009#006
+SIMBO~FF~#006
+;000000EF{~0A~~00~SELECT KEYS:~FF~}#024#015
+~0A~~00~ELIGE TECLA:~FF~#015
+;000000FE{  LEFT:~FF~}#011#008
+IZQUIE:~FF~#008
+;00000106{ RIGHT:~FF~}#011#008
+DERECH:~FF~#008
+;0000010E{    UP:~FF~}#011#008
+ARRIBA:~FF~#008
+;00000116{  DOWN:~FF~}#011#008
+ ABAJO:~FF~#008
+;0000011E{  FIRE:~FF~}#011#008
+ FUEGO:~FF~#008
+;00000126{RELOAD:~FF~}#011#008
+RECARG:~FF~#008
+|86
+@00024183-000241FF-FF
+;00000000{Rodeo Games ~7F~TyneSoft 1989, written using Spike the random number routine and a widget... R: Redefine keys, H: High Scores, P}#128#125
+Rodeo Games ~7F~TyneSoft 1989, escrito usando el RNG Spike y un widget... R: Redefinir teclas, H: Mejores Puntajes, Por favor in#125
+|125
+@00009FE7-00009FFF-FF
+;00000000{Ride 'em cowboy,~09~~0B~rope th}#031#025
+Montalas cowboy,~09~~0B~ata al #025
+|25
+@0000A200-0000A2BD-FF
+;00000000{at calf~FF~}#011#008
+becerro~FF~#008
+;00000008{~08~~08~Taking your calf~09~~0B~for a walk?!!!~FF~}#050#035
+~08~~08~Llevas al becerro~09~~0B~de paseo?!!! ~FF~#035
+;0000002B{~07~~08~Right out of time,~08~~0B~No score at all!~FF~}#054#039
+~07~~08~No queda tiempo,  ~08~~0B~No hay puntos!  ~FF~#039
+;00000052{~07~~08~Ya missed the crit~08~~0B~No score at all!~FF~}#054#039
+~07~~08~Fallaste el lazo  ~08~~0B~No hay puntos!  ~FF~#039
+;00000079{~07~~08~...another one~0A~~0B~bites the dust!~FF~}#049#034
+~07~~08~...y otro mas~0A~~0B~muerde el polvo!~FF~#034
+;0000009B{~08~~08~Got the critter!~09~~0B~Score: 0000000~FF~}#050#035
+~08~~08~Le atrapaste!   ~09~~0B~Pts  : 0000000~FF~#035
+|190
+@0000C84D-0000C8A3-FF
+;00000000{Follow arrows and~0B~~0C~Ride'em cowboy~FF~}#043#034
+Sigue flechas y  ~0B~~0C~Móntale cowboy~FF~#034
+;00000022{~0A~~0B~Bonus: 00000~07~~0E~Score now: 0000000~FF~}#050#035
+~0A~~0B~Bonos: 00000~07~~0E~Pts ahora: 0000000~FF~#035
+;00000045{~19~~01~TIME:~19~~08~SCORE~1E~~0B~0~FF~}#039#018
+~19~~01~TPO.:~19~~08~PTS  ~1E~~0B~0~FF~#018
+|87
+@00012BC8-00012C6E-FF
+;00000000{Grab it by the~07~~0E~horns and wiggle !~FF~}#044#035
+Cógele por los~07~~0E~cuernos y menea!  ~FF~#035
+;00000023{~01~~16~SCORE       0~15~~16~TIME 00:00~FF~}#043#028
+~01~~16~PTS         0~15~~16~TIEM 00:00~FF~#028
+;0000003F{~0A~~0B~Ooof ya....~08~~0E~No Score for dirt~FF~}#048#033
+~0A~~0B~Ooof ya....~08~~0E~Barro sin puntos ~FF~#033
+;00000060{~08~~0C~You have run out~08~~0F~of time, cowboy!~FF~}#052#037
+~08~~0C~Se te acabo el ~08~~0F~tiempo, cowboy!  ~FF~#037
+;00000085{~07~~0C~Wery Well Westled!~08~~0F~Time Bonus:~FF~}#049#034
+~07~~0C~Muy Bien Luchado!~08~~0F~Bono Tiempo:~FF~#034
+|167
+@0001A629-0001A6E1-FF
+;00000000{Get on your horse~0A~~0B~and Go for it!!~FF~}#044#035
+Súbete al caballo~0A~~0B~y Ve a ello!!  ~FF~#035
+;00000023{~07~~08~The sands of time~0A~~0B~have run out~FF~}#049#034
+~07~~08~Las arenas del~0A~~0B~tiempo acabaron~FF~#034
+;00000045{~07~~08~You have exhausted~0A~~0B~yourself ...~FF~}#050#035
+~07~~08~Te has quedado    ~0A~~0B~exhausto ...~FF~#035
+;00000068{~07~~08~Have a time bonus:~08~~0B~0:00 x 40 = 0000~FF~}#054#039
+~07~~08~Toma bono tiempo: ~08~~0B~0:00 x 40 = 0000~FF~#039
+;0000008F{~07~~08~ Plus power left! ~FF~}#030#021
+~07~~08~ Fuerza restante! ~FF~#021
+;000000A4{~07~~08~What a performance~FF~}#030#021
+~07~~08~Menuda actuación  ~FF~#021
+|185
+@00024AC5-00024B6B-FF
+;00000000{Grab it by the~07~~0E~horns and wiggle !~FF~}#044#035
+Cógele por los~07~~0E~cuernos y menea!  ~FF~#035
+;00000023{~01~~16~SCORE       0~15~~16~TIME 00:00~FF~}#043#028
+~01~~16~PTS         0~15~~16~TPO. 00:00~FF~#028
+;0000003F{~0A~~0B~Ooof ya....~08~~0E~No Score for dirt~FF~}#048#033
+~0A~~0B~Ooof ya....~08~~0E~Barro sin puntos ~FF~#033
+;00000060{~08~~0C~You have run out~08~~0F~of time, cowboy!~FF~}#052#037
+~08~~0C~Se te acabo el ~08~~0F~tiempo, cowboy!  ~FF~#037
+;00000085{~07~~0C~Wery Well Westled!~08~~0F~Time Bonus:~FF~}#049#034
+~07~~0C~Muy Bien Luchado!~08~~0F~Bono Tiempo:~FF~#034
+|167
+@000023DC-00002436-FF
+;00000000{Left a bit,right~0A~~0C~a bit, FIRE!~FF~}#040#031
+Izquierda, ~0A~~0C~derecha, FUEGO!  ~FF~#031
+;0000001F{~08~~0B~Disasterous shot~07~~0E~No Bonus :~FF~}#046#031
+~08~~0B~Tiro Desastroso ~07~~0E~Sin Bono :~FF~#031
+;0000003E{~09~~0B~000 x 2 = 0000~07~~0E~Score now:~FF~}#044#029
+~09~~0B~000 x 2 = 0000~07~~0E~Pts ahora:~FF~#029
+|91
+@000070B3-000070FF-FF
+;00000000{Knock down the~09~~0D~badguy targets~FF~}#040#031
+Tira a objetivos~09~~0D~de los malos~FF~#031
+;0000001F{~01~~16~SCORE:~1A~~16~____ ~FF~}#031#016
+~01~~16~PTS  :~1A~~16~____ ~FF~#016
+;0000002F{~10~~16~BONUS:~FF~}#018#009
+~10~~16~BONOS:~FF~#009
+;00000038{~0F~~16~BOTTLES:~FF~}#020#011
+~0F~~16~BOTELLA:~FF~#011
+;00000043{ _~07~~0A~Bonus }#016#010
+ _~07~~0A~Bonos #010
+|77
+@00007400-00007426-FF
+;00000000{x Hits~0D~~0D~x    =~FF~}#024#015
+x Tiro~0D~~0D~x    =~FF~#015
+;0000000F{~07~~0A~Bottles~0C~~0D~x 100 =   00~FF~}#039#024
+~07~~0A~Botella~0C~~0D~x 100 =   00~FF~#024
+|39
+@00022506-00022532-FF
+;00000000{Would you like~09~~0B~to replay this~0A~~0E~event (y/n)?~FF~}#060#045
+Te gustaría   ~09~~0B~rejugar este ~0A~~0E~evento (y/n)?~FF~#045
+|45

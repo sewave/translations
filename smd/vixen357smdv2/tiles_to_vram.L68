@@ -1,0 +1,36 @@
+0011A000 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 14/04/2020 23:17:08
+
+00000000                             1  ;length = length (original, not shifted)
+00000000                             2  ;source = source addr (not shifted)
+00000000                             3  ;dest = destination addr
+00000000                             4  ;x = %001 if VRAM, %011 if CRAM, %101 if VSRAM
+0011A000                             5      ORG    $11A000
+0011A000                             6  
+0011A000                             7  START:                  ; first instruction of program
+0011A000  33FC 8F02 00C00004         8          move.w #$8F02, ($C00004)  ; VDP Register #15, Increment by 2
+0011A008  33FC 8174 00C00004         9          move.w #$8174, ($C00004)  ; VDP Register #1, Enable DMA
+0011A010  4EB9 0000920C             10          JSR $920C
+0011A016  33FC 9401 00C00004        11          move.w  #$9400+((($0200)&$FF00)>>9),($C00004).l
+0011A01E  33FC 9300 00C00004        12          move.w  #$9300+((($0200)&$FF)>>1),($C00004).l
+0011A026  33FC 96D1 00C00004        13          move.w  #$9600+((($11A200>>1)&$FF00)>>8),($C00004).l
+0011A02E  33FC 9500 00C00004        14          move.w  #$9500+(($11A200>>1)&$FF),($C00004).l
+0011A036  33FC 9708 00C00004        15          move.w  #$9700+(((($11A200>>1)&$FF0000)>>16)&$7F),($C00004).l
+0011A03E  23FC 52200080 00C00004    16          move.l #$40000080+(($1220&$3FFF)<<16)+(($1220&$C000)>>14),($C00004).l
+0011A048                            17          ;move.w #$8104, ($C00004)  ; VDP Register #1, Disable DMA
+0011A048  4E75                      18          RTS
+0011A04A  FFFF FFFF                 19      SIMHALT             ; halt simulator
+0011A04E                            20  
+0011A04E                            21  * Put variables and constants here
+0011A04E                            22  
+0011A04E                            23      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+START               11A000

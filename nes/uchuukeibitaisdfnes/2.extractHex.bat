@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Uchuu Keibitai SDF (Japan).nes"
+set SCRIPTNAME="uchuukeibitaisdfnes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 3A4E0:10,2C100:10,2C200:10,2C300:10,2C400:10,2B110:10,2B2D0:40,2B350:20,3A610:10,2C880:10,2C920:10,2C980:10,2CA20:10,2CA60:10,2CA80:10,2CB50:40,3EF80:10
+pause

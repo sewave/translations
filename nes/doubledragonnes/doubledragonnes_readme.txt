@@ -1,28 +1,29 @@
 Double Dragon (NES)
-Traducci髇 al Espa駉l v1.0 (17/08/2018)
-(C) 2018 Wave Translations
+Traducci贸n al Espa帽ol v1.1 (09/01/2021)
+(C) 2021 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducci髇 y hacking es completamente original.
-Si encuentras alg鷑 fallo puedes contactar conmigo y ver mis traducciones en
+Esta traducci贸n y hacking es completamente original.
+Si encuentras alg煤n fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+V1.1: Mejorado t铆tulo, selecci贸n de personajes y traducido gr谩fico "PLAYER" en modo 2 jugadores
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Double Dragon (U) [!].nes
-262.160 bytes
+Double Dragon (USA).nes
 MD5: 79aa819580967ffb27a9698efbf493b9
 SHA1: 84698b12f4e56a37c67bb47359758124c9b012bb
 CRC32: 62afe166
+262160 bytes
 
 --------
-Cr閐itos
+Cr茅ditos
 --------
-Wave - Hacking, traducci髇 y pruebas.
+Wave - Hacking, traducci贸n y pruebas.
 
 -- FIN --

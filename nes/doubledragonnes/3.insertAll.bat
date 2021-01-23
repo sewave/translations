@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Double Dragon (U) [!].nes"
-set S_FILENAME="Double Dragon (U) [!].nes"
+set T_FILENAME="TR_Double Dragon (USA).nes"
+set S_FILENAME="Double Dragon (USA).nes"
 set SCRIPTNAME="doubledragonnes"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

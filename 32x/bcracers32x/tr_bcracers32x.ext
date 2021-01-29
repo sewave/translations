@@ -1,0 +1,263 @@
+@00000AAA-00000B23-FF
+;00000AAA{________~06~DEVELOPED FOR USE ONLY WITH_~12~&_~0F~SYSTEMS._~0C~NTSC MEGA DRIVE_~0D~NTSC GENESIS_~04~PAL AND FRENCH SECAM MEGA DRIVE_________}#140#122
+________~06~
+DESARROLLADO PARA USARSE EN_~12~
+Y_~0F~
+SISTEMA._~0C~
+MEGA DRIVE NTSC_~0D~
+GENESIS NTSC_~04~
+MEGA DRIVE PAL Y SECAM FRANCESA_________#122
+|122
+@000117E2-00011801-FF
+;000117E2{______BC RACERS MENU____________}#032#032
+______
+MENÚ BC RACERS______
+______#032
+|32
+@00011882-000118A1-FF
+;00011882{______RACE DIFFICULTY___________}#032#032
+______
+DIFICULTAD CARRERA________#032
+|32
+@00011920-000119A6-FF
+;00011920{________EASY________________EASY________________MEDIUM______________HARD________________ROCKHARD!______________________________________}#135#135
+________
+FÁCIL_______________
+FÁCIL_______________
+MEDIA_______________
+DURA________________
+DUROROCA!___________
+____________________
+_______#135
+|135
+@000119BF-000119DE-FF
+;000119BF{_________OPTIONS________________}#032#032
+_________
+OPCIONES_______________#032
+|32
+@00011A5F-00011A7E-FF
+;00011A5F{_________START__________________}#032#032
+_________
+EMPEZAR________________#032
+|32
+@00011AFF-00011B1E-FF
+;00011AFF{_________ENEMY DIFFICULTY_______}#032#032
+_________
+DIFICULTAD ENEMIGOS_
+___#032
+|32
+@00011BA0-00011C26-FF
+;00011BA0{________EASY________________EASY________________MEDIUM______________HARD_______________________________________________________________}#135#135
+________
+FÁCIL_______________
+FÁCIL_______________
+MEDIA_______________
+DIFÍCIL____________________________________________________________#135
+|135
+@00011C40-00011CC6-FF
+;00011C40{________1 PLAYER____________1 PLAYER____________2 PLAYERS___________HTH________________________________________________________________}#135#135
+________
+1 JUGADOR___________
+1 JUGADOR___________
+2 JUGADORES_________
+CARA A CARA_________
+_______________________________________________#135
+|135
+@00011CE0-00011D66-FF
+;00011CE0{________4 LAPS______________4 LAPS______________5 LAPS______________6 LAPS______________7 LAPS______________8 LAPS_____________________}#135#135
+________
+4 VUELTAS___________
+4 VUELTAS___________
+5 VUELTAS___________
+6 VUELTAS___________
+7 VUELTAS___________
+8 VUELTAS___________
+_______#135
+|135
+@00011D80-00011E06-FF
+;00011D80{________SFX ON______________SFX ON______________SFX OFF________________________________________________________________________________}#135#135
+________
+CON EFECTOS_________
+CON EFECTOS_________
+SIN EFECTOS_________
+___________________________________________________________________#135
+|135
+@00011E1C-00011EA6-FF
+;00011E1C{____________AUDIO TEST_____________________________________________________________________________________________________________________}#139#139
+____________
+PRUEBA AUDIO________
+___________________________________________________________________________________________________________#139
+|139
+@00011EBC-00011F46-FF
+;00011EBC{____________EXIT___________________________________________________________________________________________________________________________}#139#139
+____________
+SALIR_______________
+___________________________________________________________________________________________________________#139
+|139
+@00011F58-00011FE2-FF
+;00011F58{________________BC RACERS SOUND TEST_______________________________________________________________________________________________________}#139#139
+________________
+PRUEBA AUDIO________
+_______________________________________________________________________________________________________#139
+|139
+@00011FF8-0001201E-FF
+;00011FF8{________________BGM____________________}#039#039
+________________
+MÚSICA_________________#039
+|39
+@00012138-0001215E-FF
+;00012138{________________SFX____________________}#039#039
+________________
+EFECTO_________________#039
+|39
+@0001227C-0001229E-FF
+;0001227C{____________EXIT___________________}#035#035
+____________
+SALIR__________________#035
+|35
+@0001238A-0001241D-FF
+;0001238A{            FINAL LAP !______________            RACE OVER !______________           BIKE WRECKED!_____________            WRONG WAY !______________}#148#148
+           ÚLTIMA VUELTA!____________
+            FIN CARRERA!_____________
+          MOTO DESTROZADA!___________
+         DIRECCIÓN ERRÓNEA!__________#148
+|148
+@00048720-00048761-00
+;00048720{COPYRIGHT 1995 CORE DESIGN LTD__LICENSED BY SEGA ENTERPRISES, LTD_}#066#066
+COPYRIGHT 1995 CORE DESIGN LTD__
+LICENCIA DE SEGA ENTERPRISES, LTD_#066
+|66
+@00049A64-00049B7C-FF
+;00049A64{JUNGLE________DESERT________CITY__________LAVA__________SWAMP_________SNOW__________CAVE__________NIGHT_________TITLE_________SELECT________POINTS TAB____CREDITS_______FIREWORKS_____CONTINUE______GAME OVER_____PAUSE_________RACE OVER_____RACE START____LAST PLACE____HTH OVER_______}#281#281
+JUNGLA________
+DESIERTO______
+CIUDAD________
+LAVA__________
+PANTANO_______
+NIEVE_________
+CUEVA_________
+NOCHE_________
+TÍTULO________
+ELIGE_________
+TABLA PUNTOS__
+CRÉDITOS______
+PETARDOS______
+CONTINUAR_____
+FIN PARTIDA___
+PAUSA_________
+FIN CARRERA___
+INICIO CARRER_
+ÚLTIMO LUGAR__
+FIN CARA CARA__#281
+|281
+@00049BB0-00049E8F-FF
+;00049BB0{Z_______________Z_______________BIKE HIT________LIFT SLAB_______PUNCH 2_________WHIRLWIND_______TINA SCREAM_____THUNDER_________Z_______________Z_______________SNOW SKID_______CHEW N SPIT_____CATCH SLAB______SKID SHORT______SID HAMMER______SELECT__________SAND SKID_______PUNCH 1_________POP VOLCANO_____SNOW PILE_______Z_______________NITRO___________Z_______________LOW FUEL________HITTING_________Z_______________GRASS SKID______FLAPPING________FIREWORK________Z_______________DOWN T'PIT______DINO RUN________DINO HIT________CURSOR__________CRASH 3_________CRASH 2_________CRASH 1_________Z_______________CITY SKID_______CROWD HIT_______EAT_____________MANHOLE_________SPLASH__________HIT BRIDGE______HTH WIN!________HTH LOSE!_______}#736#736
+Z_______________
+Z_______________
+MOTO GOLPEADA___
+LOSA ELEVACIÓN__
+PUÑETAZO 2______
+TORBELLINO______
+GRITO TINA______
+TRUENO__________
+Z_______________
+Z_______________
+PATÍN DE NIEVE__
+MASCA Y ESCUPE__
+LOSA DE CAPTURA_
+PATÍN CORTO_____
+MARTILLO LADO___
+ELECCIÓN________
+PATÍN DE ARENA__
+PUEÑTAZO 1______
+VOLCÁN EXPLOTA__
+PILA DE NIEVE___
+Z_______________
+NITRO___________
+Z_______________
+POCO COMBUSTIBL_
+GOLPEANDO_______
+Z_______________
+PATÍN DE HIERBA_
+ALETEANDO_______
+FUEGOS ARTIFICI_
+Z_______________
+POR EL FOSO_____
+DINO CORRE______
+DINO GOLPE______
+CURSOR__________
+CHOQUE 3________
+CHOQUE 2________
+CHOQUE 1________
+Z_______________
+PATÍN DE CIUDAD_
+GOLPE MULTITUD__
+COMER___________
+BOCA ALCANTARIL_
+CHAPOTEO________
+GOLPEA PUENTE___
+CARA A CARA GA!_
+CARA A CARA PR!_#736
+|736
+@0005BCCC-0005BD38-FF
+;0005BCCC{CLIFF & _  ROXY  _JIMMI & _   BOB  _CHUCK & _ JUNIOR _BRICK & _  GARY  _GRANITE _  & TINA_ SADO & _   SID  __}#109#109
+CLIFF Y _  ROXY  _JIMMI Y _   BOB  _CHUCK Y _ JUNIOR _BRICK Y _  GARY  _GRANITE _  Y TINA_ SADO Y _   SID  __#109
+|109
+@0005CE08-0005CE39-FF
+;0005CE08{%s__ACCEL  %d___SPEED  %d___ENERGY %d___ATTACK %d_}#050#050
+%s__
+ACEL.  %d___
+VELOZ  %d___
+ENERG. %d___
+ATAQUE %d_#050
+|50
+@0005D664-0005D703-FF
+;0005D664{CLIFF & ROXY ..... _JIMI & BOB ....... _CHUCK & JNR ...... _BRICK & GARY ..... _GRANITE & TINA ... _SADO & SID ....... _STIGGY ........... _STEGGY ........... _}#160#160
+CLIFF Y ROXY ..... _JIMI Y BOB ....... _CHUCK Y JNR ...... _BRICK Y GARY ..... _GRANITE Y TINA ... _SADO Y SID ....... _STIGGY ........... _STEGGY ........... _#160
+|160
+@0005E370-0005E403-FF
+;0005E370{RESULTATS___ERGEBNISSE__RESULTS_ DNF+%1d____   DNF__%2d+%1d PTS_   1 PT_  %2d PTS___1[ %s%s_2\ %s%s_3] %s%s_4^ %s%s_5^ %s%s_6^ %s%s_7^ %s%s_8^ %s%s_}#148#148
+RESULTATS___ERGEBNISSE__
+RESULTA_ DNF+%1d____   DNF__%2d+%1d PTS_   1 PT_  %2d PTS___1[ %s%s_2\ %s%s_3] %s%s_4^ %s%s_5^ %s%s_6^ %s%s_7^ %s%s_8^ %s%s_#148
+|148
+@0005E7C4-0005E867-FF
+;0005E7C4{RESULTATS DE LA SAISON__SAISONERGEBNISSE____SEASONS RESULTS_PT__PTS_1[ %s%3d %s_2\ %s%3d %s_3] %s%3d %s_4^ %s%3d %s_5^ %s%3d %s_6^ %s%3d %s_7^ %s%3d %s_8^ %s%3d %s_}#164#164
+RESULTATS DE LA SAISON__SAISONERGEBNISSE____
+RESULTADO TMPRD_
+PT__PTS_1[ %s%3d %s_2\ %s%3d %s_3] %s%3d %s_4^ %s%3d %s_5^ %s%3d %s_6^ %s%3d %s_7^ %s%3d %s_8^ %s%3d %s_#164
+|164
+@0005EC70-0005EDE5-FF
+;0005EC70{       FELICITATIONS!___    VOUS AVEZ REUSSI LE_       NIVEAU FACILE.___     ESSAYEZ UN NIVEAU__      PLUS DIFFICILE!___        GLUCKWUNSCH!____  SIE HABEN DEN EINFACHEN___    LEVEL ABGESCHLOSSEN.____    WAGEN SIE SICH JETZT____    AN EINEN SCHWEREREN!____      CONGRATULATIONS!__     YOU HAVE COMPLETED_       THE EASY LEVEL.__     NOW TRY ONE OF THE_       HARDER LEVELS!_}#374#374
+       FELICITATIONS!___
+    VOUS AVEZ REUSSI LE_
+       NIVEAU FACILE.___
+     ESSAYEZ UN NIVEAU__
+      PLUS DIFFICILE!___
+        GLUCKWUNSCH!____
+  SIE HABEN DEN EINFACHEN___
+    LEVEL ABGESCHLOSSEN.____
+    WAGEN SIE SICH JETZT____
+    AN EINEN SCHWEREREN!____
+        FELICIDADES!  __
+     HAS COMPLETADO EL _
+         NIVEL 3. __
+      AHORA PRUEBA UN  _
+       NIVEL DIFÍCIL!_#374
+|374
+@00063E78-00063ED1-FF
+;00063E78{           %d LAPS TO GO !__         %d TOURS RESTANTS !____        %d RESTLICHE RUNDEN !_}#090#090
+           %d VUELTAS MÁS!__
+         %d TOURS RESTANTS !____
+        %d RESTLICHE RUNDEN !_#090
+|90
+@00064640-000647F5-FF
+;00064640{  PROGRAMMED BY MARTIN GIBBINS, GILBERT THE GOAT, JOHN KIRKLAND AND STEF WALKER.    GRAPHICS BY TOBY GARD.    GRAPHIC SUPPORT FROM STUART ATKINSON, RICHARD MORTON AND JOBY WOOD.    MUSIC AND CHIP SFX BY NATHAN MCCREE.    SAMPLE SFX BY MARTIN IVESON.    GAME DESIGN BY TOBY GARD, MARTIN GIBBINS AND DAN SCOTT.    PRODUCED BY JEREMY SMITH.    SPECIAL THANKS TO SN SYSTEMS.                     THE END.                                      _}#438#438
+  PROGRAMMED BY MARTIN GIBBINS, GILBERT THE GOAT, JOHN KIRKLAND AND STEF WALKER.    GRAPHICS BY TOBY GARD.    GRAPHIC SUPPORT FROM STUART ATKINSON, RICHARD MORTON AND JOBY WOOD.    MUSIC AND CHIP SFX BY NATHAN MCCREE.    SAMPLE SFX BY MARTIN IVESON.    GAME DESIGN BY TOBY GARD, MARTIN GIBBINS AND DAN SCOTT.    PRODUCED BY JEREMY SMITH.    SPECIAL THANKS TO SN SYSTEMS.                     THE END.                                      _#438
+|438
+@0006644C-000664B7-FF
+;0006644C{PAUSE___%s__        PLAYER %d GAME OVER!____       JOUEUR %d JEU TERMINE!___     SPIELER %d SPIEL IST AUS !_}#108#108
+PAUSA___%s__
+       JUGADOR %d FIN JUEGO!____
+       JOUEUR %d JEU TERMINE!___
+     SPIELER %d SPIEL IST AUS !_#108
+|108

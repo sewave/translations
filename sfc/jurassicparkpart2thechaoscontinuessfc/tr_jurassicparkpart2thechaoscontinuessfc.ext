@@ -1,0 +1,378 @@
+@00029752-00029BD4-FF
+;00000000{ BLOCKADE===On the far side of=the island a large=part of the Biosyn=Task Force has taken=control of one of=your underground=installations.==They are firmly=dug-in and are=erasing data on=your computers.==Enter the=installation and=find a way round=their blockade.=~FF~}#269#266
+ BLOQUEO===
+En el otro lado de=
+la isla una gran=
+parte de la Fuerza=
+Especial de Biosyn=
+tomó el control de=
+tus instalaciones=
+subterráneas.==
+Se han atrincherado=
+y están borrando=
+datos de tus=
+ordenadores.==
+Entra en la=
+instalación y=
+averigua cómo    =
+sortear su bloqueo.=~FF~#266
+;0000010A{~02~ MISIÓN COMPLETADA=~01~==Base re-captured=and under INGEN=control.==Erased minimal data=from computers.=~FF~}#112#103
+~02~ MISIÓN COMPLETADA=~01~==Base recapturada y=bajo control INGEN.==Borrados datos=mínimos en=ordenadores.=~FF~#103
+;00000171{ HIGH PTERA===Due to a fierce=storm, the radio=antenna used for=communication with=the mainland is=damaged.==This has caused=major disruptions=with your supply=line, so the=antenna dish must=be repaired.==The route to the=antenna is a high=and dangerous path=up the cliff side,=with a suspected=Biosyn presence at=the foot of the=cliffs.=~FF~}#342#339
+ ALTO PTERA===
+Por una feroz=
+tormenta, la antena=
+de radio usada para=
+la comunicación con=
+el continente=
+fue dañada.==
+Esto causa grandes=
+interrupciones en tu=
+línea de suministro,=
+la antena debe=
+repararse.  ==
+La ruta a la antena=
+es un alto y=
+peligroso camino por=
+el lado del=
+acantilado, sospecha=
+de presencia de=
+Biosyn al pie del=
+acantilado.=~FF~#339
+;000002C4{~02~ MISIÓN COMPLETADA=~01~==Radio antenna=repaired and=operational.=~FF~}#073#064
+~02~ MISIÓN COMPLETADA=~01~==Antena de radio=reparada y=operacional.=~FF~#064
+;00000304{ SEEK AND DESTROY===You suspect illegal=breeding on the=island due to the=discovery of a baby=raptor, hidden deep=under the volcano.==The caves under the=volcano are large=so you have attached=a transmitter to the=baby raptor and hope=to track it back to=the nest.==When you have found=the nest you must=plant the explosives=and exit the volcano=before the blast=destroys yourself.=~FF~}#386#383
+ BUSCA Y DESTRUYE===
+Sospechas de cría=
+ilegal en la isla=
+debido al=
+descubrimiento de un=
+bebé raptor, oculto=
+profundo bajo el=
+volcán.=
+Las cuevas bajo el=
+volcán son grandes=
+así que has colocado=
+un transmisor al=
+bebé raptor y=
+esperas poder=
+rastrearlo al nido.==
+Cuando hayas=
+encontrado el nido=
+debes colocar los=
+explosivos y salir=
+del volcán antes de=
+que la explosión te=
+destruya.      =~FF~#383
+|1155
+@00029BD5-00029FD4-FF
+;00000000{~02~ MISIÓN COMPLETADA=~01~~FF~}#031#022
+~02~ MISIÓN COMPLETADA=~01~~FF~#022
+;00000016{==Found the=transmitter==No sign of the baby=raptor.==Proceeding with=extreme caution==Explosives set==... seconds to=detonation=~FF~}#133#130
+==
+Hallado=
+transmisor==
+Sin señal del bebé=
+raptor.==
+Procediendo con=
+precaución==
+Explosivos colocados==
+... segundos para=
+detonación=~FF~#130
+;00000098{ PROTECT THE= GALLIMIMUS===After finding a=number of dead=gallimimus, you=begin to suspect=foul play in the =gallimimus paddock.==Suspecting Biosyn,=you have set out to=investigate the =situation.==Biosyn have=slaughtered a number=of gallimimus for=their research on=DNA and are=attempting to=airlift some live=gallimimus out of=the park.==You cannot allow=this to happen.=~FF~}#377#374
+ PROTEGE AL=
+ GALLIMIMUS===
+Tras hallar algún=
+gallimimus muerto,=
+empiezas a sospechar=
+de juego sucio en el=
+en sus potreros.===
+Sospechando de=
+Biosyn, has salido a=
+investigar la=
+situación.==
+Biosyn ha masacrado=
+a algunos gallimimus=
+para su=
+investigación de ADN=
+y están intentando=
+aerotransportar a=
+algunos gallimimus=
+vivos fuera del=
+parque.==
+No puedes permitir=
+que esto suceda.=~FF~#374
+;0000020E{~02~ MISIÓN COMPLETADA=~01~==Gallimimus paddock=free of Biosyn=presence.==Gallimimus losses=minimal.=~FF~}#105#096
+~02~ MISIÓN COMPLETADA=~01~==
+Potreros gallimimus=
+sin presencia=
+Biosyn.==
+Pérdidas gallimimus=
+mínimas.=~FF~#096
+;0000026E{=======~03~     EMERGENCY=~FF~}#030#024
+=======~03~    EMERGENCIA=~FF~#024
+;00000286{ GET POWER SUPPLIES= TO INCUBATORS===Biosyn have cut one=of the main power=feeds to the=dinosaur incubators.==This could have=disastrous effects=on your stock level.===Repairing the power=feed is too big a=task.  You must=collect 5 portable=power supplies and=attach them to the=powerless=incubators.==You must also stop=the Biosyn engineers=from cutting any=more power feeds.=~FF~}#381#378
+ LLEVA ENERGÍA A=
+ LAS INCUBADORAS===
+Biosyn ha cortad una=
+de las fuentes de=
+energía a las=
+incubadoras de=
+dinosaurios.=
+Esto podría tener=
+efectos desastrosos=
+en nuestras=
+existencias.====
+Reparar la fuente=
+es una tarea=
+muy grande.=
+Debes recoger 5=
+fuentes de=
+alimentación y=
+engancharlas a las=
+incubadoras.==
+También debes evitar=
+que los ingenieros=
+de Biosyn corten más=
+la energía.   =~FF~#378
+|1024
+@00029FD5-0002A3F2-FF
+;00000000{~02~ MISIÓN COMPLETADA=~01~==Incubators back on=line.==Area secure.=~FF~}#072#063
+~02~ MISIÓN COMPLETADA=~01~==
+Incubadoras=
+funcionando.==
+Zona segura.=~FF~#063
+;0000003F{ AUXILIARY POWER= SWITCH===The island has been=running on auxiliary=power and is about=to fail.==You must enter the=power station and=activate the main=power generator.=~FF~}#173#170
+ INTERRUPTOR DE=
+ PODER AUXILIAR==
+La isla ha estado=
+funcionando con=
+poder auxiliar y va=
+a fallar.==
+Debes entrar en la=
+central eléctrica y=
+activar el generador=
+principal.=~FF~#170
+;000000E9{~02~ MISIÓN COMPLETADA=~01~==Main power generator=operational.=~FF~}#067#058
+~02~ MISIÓN COMPLETADA=~01~==
+Generador principal =
+operacional.=~FF~#058
+;00000123{ DROP SHIP SUPPLIES===Due to the excessive=Biosyn presence you=have radioed for=supplies from the=mainland.==However, Biosyn have=intercepted this=transmission and see=this as an ideal=opportunity to cut=off your supplies=and bleed you dry.==Hurry! Biosyn jeeps=are speeding towards=the coastline.=~FF~}#302#299
+ ENVÍO SUMINISTROS ===
+Por la excesiva=
+presencia de Biosyn=
+se te han radiado=
+suministros desde el=
+continente.==
+Sin embargo, Biosyn=
+interceptó esta=
+transmisión y vio=
+esto como una=
+oportunidad ideal=
+para cortarte los=
+suministros y=
+dejarte seco. ==
+¡Rápido! Los jeeps=
+de Biosyn aceleran=
+hacia la costa.=~FF~#299
+;0000024E{~02~ MISIÓN COMPLETADA=~01~==Supplies secured.==New weapon acquired= - no ammo.=~FF~}#084#075
+~02~ MISIÓN COMPLETADA=~01~==
+Suministros ok.==
+Nueva arma adquirida=
+- sin balas.=~FF~#075
+;00000299{ SCIENTIST RADIOS= FOR HELP===One of your top=scientists has=broken down on his=way back to the=control centre.==Biosyn are after him=because of his vital=knowledge in the=field of dinosaur=cloning.====You have lost=communication with=the scientist and=his precise location=is unknown.==Find him before=Biosyn do.=~FF~}#318#315
+ SOS POR RADIO DE=
+ CIENTÍFICO===
+Uno de tus mejores=
+científicos se ha=
+roto de camino al=
+centro de control.===
+Biosyn va tras él=
+por su conocimiento=
+vital en el campo de=
+la clonación de=
+dinosaurios. ===
+Has perdido la=
+comunicación con el=
+científico y su=
+localización exacta=
+es desconocida. ==
+Hállale antes que=Biosyn.=~FF~#315
+;000003D4{~02~ MISIÓN COMPLETADA=~01~==Scientist found.==Biosyn kidnap=attempt repelled.=~FF~}#083#074
+~02~ MISIÓN COMPLETADA=~01~==
+Científico hallado.==
+Intento de rapto  =repelido.=~FF~#074
+|1054
+@0002A3F3-0002A894-FF
+;00000000{ TRACK DOWN THE SPY===There is a spy=amongst your ranks=who has escaped with=some top secret data=files.==You must track down=the spy and bring=him back alive.==Don't let Biosyn get=hold of the data=files.~FF~}#209#206
+ ATRAPA AL ESPÍA   ===
+Hay un espía entre=
+tus rangos que ha=
+escapado con unos=
+archivos secretos de=
+datos.==
+Debes rastrear al=
+espía y traerle de=
+vuelta con vida.==
+No dejes que Biosyn=
+se apodere de los=
+datos.~FF~#206
+;000000CE{~02~ MISIÓN COMPLETADA=~01~==Caught spy and=retrieved stolen=data files.==Returning to base.=~FF~}#097#088
+~02~ MISIÓN COMPLETADA=~01~==
+Espía atrapado y=
+archivo de datos=
+recobrado.==
+Volviendo a base.=~FF~#088
+;00000126{ GIVE MEDICATION TO= THE SCOUT===One of your sentry=scouts has found the=secret location of=the Biosyn HQ.==He has also managed=to steal a key card=which will give you=access to the=building through=an unguarded=entrance.===Unfortunately, when=returning via the=mountain range he=lost his footing and=fell.==His condition is=believed to be=critical.=Get to him before he=dies and give him=medication.=~FF~}#405#402
+ DA MEDICACIÓN AL=
+ EXPLORADOR===
+Uno de nuestros=
+exploradores=
+centinela ha hallado=
+la ubicación secreta=
+del CG.=
+También ha logrado=
+robar una tarjeta=
+llave que te dará=
+acceso al edificio a=
+través de una=
+entrada sin=
+protección.       ===
+Por desgracia,=
+volviendo por la=
+cordillera perdió el=
+equilibrio y se=
+cayó.==
+Su condición es=
+supuestamente=
+crítica.=
+Llega a él antes de=
+que muera y dale la=
+medicación.=~FF~#402
+;000002B8{~02~ MISIÓN COMPLETADA=~01~==Given medication to=scout.==Condition stable.==Heading towards=Biosyn headquarters.=~FF~}#117#108
+~02~ MISIÓN COMPLETADA=~01~==
+Dada medicación al=
+explorador.==
+Condición estable.==
+Voy hacia el CG de=
+Biosyn.     =~FF~#108
+;00000324{ DESTROY THE BIOSYN= HEADQUARTERS===You have located=the Biosyn HQ.==Use whatever force=neccesary to remove=them.==GOOD LUCK....==~FF~}#134#131
+ DESTRUYE EL=
+ CUARTEL GENERAL DE=
+ BIOSYN===
+Ubicaste el CG de=
+Biosyn.==
+Use cualquier fuerza=
+necesaria para=
+eliminarles.==SUERTE...=~FF~#131
+;000003A7{~02~ MISIÓN COMPLETADA=~01~==Biosyn HQ has been=destroyed.==~FF~}#064#055
+~02~ MISIÓN COMPLETADA=~01~==El CG Biosyn fue  =destruido.==~FF~#055
+;000003DE{ DISARM THE BOMBS===The Biosyn HQ has=been destroyed.==In Biosyn's last=moments of defeat=they armed 6 bombs=under the volcano in=an attempt to=destroy the island.==You must=not let this happen.=~FF~}#199#196
+ DESARMA LAS BOMBAS===
+El CG de Biosyn fue=
+destruido.==
+En los últimos     =
+momentos de su=
+derrota armaron 6=
+bombas bajo el=
+volcán en un intento=
+de destruir la isla.==
+No debes dejar que=
+esto pase.=~FF~#196
+|1186
+@0002A895-0002AA2E-FF
+;00000000{~02~ MISIÓN COMPLETADA=~01~==Malfunction in bombs==Unable to disarm.==Detonation=inevitable.==Proceeding towards=helicopter.==Evacuate the island.==Ammo for new weapon=acquired.=~FF~}#182#173
+~02~ MISIÓN COMPLETADA=~01~==
+Bombas funcionan=
+mal.==
+No se desarman.==
+Detonación=inevitable.==
+Avanzando hacia el=
+helicóptero.==
+Evacuar la isla.==
+Munición de nueva=arma adquirida.=~FF~#173
+;000000AD{======~03~     FIN JUEGO====~03~   Mission failed.=~FF~}#055#046
+======~03~     FIN JUEGO====~03~   Misión fallida.=~FF~#046
+;000000DB{======~03~     FIN JUEGO====~03~Mission time elapsed=~FF~}#057#048
+======~03~     FIN JUEGO====~03~ Fin tiempo misión. =~FF~#048
+;0000010B{======~03~     FIN JUEGO====~03~Stock level critical=~FF~}#057#048
+======~03~     FIN JUEGO====~03~Nivel vidas crítico.=~FF~#048
+;0000013B{====~02~   ACCEPT MISSION?===       YES==       NO=~FF~}#055#049
+====~02~  ¿ACEPTAR MISIÓN?===       SÍ ==       NO=~FF~#049
+;0000016C{====~02~     CONTINUE ?===       YES==       NO=~FF~}#052#046
+====~02~    ¿CONTINUAR?===       SÍ ==       NO=~FF~#046
+|410
+@0002931F-00029751-FF
+;00000000{               .... ~FF~}#024#021
+               .... ~FF~#021
+;00000015{               MORE ~FF~}#024#021
+               MÁS  ~FF~#021
+;0000002A{~02~   MISSION SELECT====~01~ RAPTOR ATTACK== T-REX CARNAGE== BLOCKADE== HIGH PTERA== SEEK AND DESTROY== PROTECT THE= GALLIMIMUS=~FF~}#133#124
+~02~
+   ELIGE MISIÓN  ====~01~
+ ATAQUE RAPTOR==
+ MATANZA T-REX==
+ BLOQUEO ==
+ ALTO PTERA==
+ BUSCA Y DESTRUYE==
+ PROTEGE AL =
+ GALLIMIMUS=~FF~#124
+;000000A6{======~02~   INGEN DATABASE===~01~  ESTABLISHING LINK=~FF~}#058#049
+======~02~   BBDD INGEN    ===~01~  ENLAZANDO        =~FF~#049
+;000000D7{========~02~ MISIÓN COMPLETADA=~FF~}#035#029
+========~02~ MISIÓN COMPLETADA=~FF~#029
+;000000F4{~01~ RAPTOR ATTACK===Raptors are=attacking your=headquarters.==Unfortunately due=to the large raptor=population in the=building destroying=them individually=would take too long.==Gassing them is the=only realistic=solution. ==Find the building's=security system,=activate the gas=and then get out=before the gas=takes its effect on=you.===~FF~}#343#337
+~01~ ATAQUE RAPTOR===
+Los raptores están=atacando tu=cuartel general.==
+Por desgracia dada=la gran población=de raptores en el=edificio,=destruirlos=individualmente=tardaría demasiado.===
+Gasearles es la=única solución=realista.      ==
+Halla el sistema de=seguridad del=edificio,=activa el gas y sal=antes de que el gas=tenga efecto en ti.===~FF~#337
+;00000245{~02~ MISIÓN COMPLETADA=~01~==Gas released.==You now have ....=seconds to evacuate=the building.=~FF~}#100#091
+~02~ MISIÓN COMPLETADA=~01~==Gas liberado.==Ahora tienes ....=segundos para salir=del edificio.=~FF~#091
+;000002A0{~02~ MISIÓN COMPLETADA=~01~==You have eliminated=the raptor=infestation==Well done.=~FF~}#088#079
+~02~ MISIÓN COMPLETADA=~01~==Has eliminado la=infestación de=raptores.==Bien hecho.=~FF~#079
+;000002EF{ T-REX CARNAGE===Reports have been=coming in that=Biosyn have=destroyed the=paddock fence=containing the=T-Rex.  The T-Rex is=the park's most=dangerous dinosaur=and will destroy=anything that gets=in its path.==Stop it before it=causes too much=damage.=~FF~}#257#254
+ MATANZA T-REX===
+Hay informes que=dicen que Biosyn ha=destruido la cerca=que contenía al=T-Rex. =El T-Rex es=el dinosaurio más=peligroso del=parque y destruirá=cualquier cosa que=haya en su camino.===
+Párale antes de que=cause demasiado=daño.           =~FF~#254
+;000003ED{~02~ MISIÓN COMPLETADA=~01~==Unable to stop the=T-Rex.==Returning to base.=~FF~}#079#070
+~02~ MISIÓN COMPLETADA=~01~==Incapaz de parar al=T-Rex.==Volviendo a base.=~FF~#070
+|1075
+@0002FBB9-0002FBCB-FF
+;00000000{         THE END!=~FF~}#022#019
+          ¡FIN!  =~FF~#019
+|19
+@0002FBCD-0002FFB2-FF
+;00000000{=========       GAME DESIGN===        JOHN LOMAX==       JACK WIKELEY=~FF~}#074#071
+=========      DISEÑO JUEGO===        JOHN LOMAX==       JACK WIKELEY=~FF~#071
+;00000047{~01~==========       PROGRAMMING===       BOBBY EARL==~FF~}#058#052
+~01~==========      PROGRAMACIÓN===       BOBBY EARL==~FF~#052
+;0000007B{~01~=========    BACKGROUND ARTWORK===       JACK WIKELEY==        JOHN LOMAX=~FF~}#082#076
+~01~=========      ARTE DE FONDOS  ===       JACK WIKELEY==        JOHN LOMAX=~FF~#076
+;000000C7{~01~=========   HUMAN SPRITE ARTWORK===      RICHARD HEASMAN==       ROY FIELDING=~FF~}#086#080
+~01~=========   ARTE SPRITES HUMANOS===      RICHARD HEASMAN==       ROY FIELDING=~FF~#080
+;00000117{~01~========== DINOSAUR SPRITE ARTWORK===       IYLAS KADUJI=~FF~}#065#059
+~01~========== ARTE SPRITE DINOSAURIOS===       IYLAS KADUJI=~FF~#059
+;00000152{~01~==========     SPRITE ANIMATION===      CRAIG WHITTLE=~FF~}#062#056
+~01~==========     ANIMACIÓN SPRITE===      CRAIG WHITTLE=~FF~#056
+;0000018A{~01~=========        MAP DESIGN===       JACK WIKELEY==        JOHN LOMAX=~FF~}#078#072
+~01~=========       DISEÑO MAPA===       JACK WIKELEY==        JOHN LOMAX=~FF~#072
+;000001D2{~01~==========    INTRO PROGRAMMING===       DAVE CHILES=~FF~}#061#055
+~01~==========      PROGRAMA INTRO ===       DAVE CHILES=~FF~#055
+;00000209{~01~==========      INTRO ARTWORK===      GED CASSERLY=~FF~}#059#053
+~01~==========       ARTE INTRO  ===      GED CASSERLY=~FF~#053
+;0000023E{~01~==========       MUSIC AND FX===        DEAN EVANS=~FF~}#059#053
+~01~==========       MÚSICA Y ES ===        DEAN EVANS=~FF~#053
+;00000273{~01~==========      MUSIC DRIVER===        JON DUNN=~FF~}#056#050
+~01~==========     DRIVER MÚSICA===        JON DUNN=~FF~#050
+;000002A5{~01~==========     PRODUCT TESTING===        OCEAN Q.A.=~FF~}#060#054
+~01~==========     PRUEBA PRODUCTO===        G.C. OCEAN=~FF~#054
+;000002DB{~01~=========     HARDWARE SUPPORT===        ROB ARNOLD==        PAUL STREET=~FF~}#081#075
+~01~=========     SOPORTE HARDWARE===        ROB ARNOLD==        PAUL STREET=~FF~#075
+;00000326{~01~==========         PRODUCER===       IAN TURNBULL=~FF~}#058#052
+~01~==========        PRODUCTOR===       IAN TURNBULL=~FF~#052
+;0000035A{~01~===========    SPECIAL THANKS TO==    WARREN LANCASHIRE=~FF~}#064#058
+~01~===========    MUCHAS GRACIAS A ==    WARREN LANCASHIRE=~FF~#058
+;00000394{~01~=========  THANK YOU FOR PLAYING===    JURASSIC PARK II==   THE CHAOS CONTINUES=~FF~}#088#082
+~01~=========   GRACIAS POR JUGAR A ===    JURASSIC PARK II==    EL CAOS CONTINÚA  =~FF~#082
+|998

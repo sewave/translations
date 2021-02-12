@@ -1,7 +1,7 @@
 @echo off
-set T_FILENAME="TR_Ninja Gaiden (Europe, Brazil) (Beta).sms"
-set S_FILENAME="Ninja Gaiden (Europe, Brazil) (Beta).sms"
-set SCRIPTNAME="ninjagaidenprotosms"
+set T_FILENAME="TR_Valis (USA).md"
+set S_FILENAME="Valis (USA).md"
+set SCRIPTNAME="valissmd"
 java -jar Hextractor.jar -cip %S_FILENAME% %T_FILENAME% %SCRIPTNAME%.ips
 java -jar Hextractor.jar -frm %SCRIPTNAME%_readme.txt  %SCRIPTNAME%_readme.txt %S_FILENAME%
 pause

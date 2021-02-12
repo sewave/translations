@@ -1,29 +1,28 @@
-Ninja Gaiden (Master System)
-Traducción al Español v1.1 (10/02/2021)
+Pizza Pop! (NES)
+Traducción al Español v1.0 (30/01/2021)
 (C) 2021 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducción y hacking es completamente original.
+Esta traducción y hacking está basado en la de pacnsacdave.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
-V1.1: Arregladas dos erratas del texto.
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Ninja Gaiden (Europe, Brazil) (Beta).sms
-MD5: b070dc2ba3f106e89d1e9551f49a0027
-SHA1: c67db6539dc609b08d3ca6f9e6f8f41daf150743
-CRC32: 761e9396
-262144 bytes
+Pizza Pop! (Japan).nes
+MD5: ad1a3c0b4f598ff55f9df5e8e212a97b
+SHA1: 181921a0b34bef08c3c0a6880d3b7e03ac850152
+CRC32: 361729fa
+262160 bytes
 
 --------
 Créditos
 --------
-Wave - Hacking, traducción y pruebas.
+Wave - Hacking, traducción y pruebas al español.
 
 -- FIN --

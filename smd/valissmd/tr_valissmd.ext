@@ -1,0 +1,953 @@
+@00000306-0000034D-00
+;00000000{Pad no RIGHT & A & B wo PAUSE cyuu ni osu to HP/MP ga MAX ni modoru.Nr'~00~}#075#072
+Pad no DEREC y A y B wo PAUSA cyuu ni osu to PV/PM ga MAX ni modoru.Nr'~00~#072
+|72
+@00003568-00003572-00
+;00000000{SELECT MAP~00~}#014#011
+ELIGE MAPA~00~#011
+|11
+@000035F6-0000361D-00
+;00000000{SELECT ~00~}#011#008
+ELIGE  ~00~#008
+;00000008{ ~40~GAME   VISUAL~00~}#022#016
+ ~40~JUEGO  VISUAL~00~#016
+;00000018{  GAME  ~40~VISUAL~00~}#022#016
+  JUEGO ~40~VISUAL~00~#016
+|40
+@000038EE-0000390F-00
+;00000000{PRESS START BUTTON~00~}#022#019
+ PULSA START PARA ~00~#019
+;00000013{   TO CONTINUE~00~}#018#015
+    CONTINUAR ~00~#015
+|34
+@00026526-00027839-FF
+;00000000{This is funny weather...~FF~}#028#025
+Qué tiempo más raro...\ ~FF~#025
+;00000019{It was fine until =   just a minute ago...~FF~}#049#043
+Estaba bien hasta hace=unos minutos...\   ~FF~#043
+;00000044{Now that I think of it,=I did dream =  about it yesterday...~FF~}#070#061
+Ahora que pienso en ello,=soñé con esto ayer...\            ~FF~#061
+;00000081{Someone was calling me =          in that dream.=What does it mean?~FF~}#077#068
+Alguien me llamaba en ese=sueño.=¿Qué significara?\                ~FF~#068
+;000000C5{Well, it stopped raining.=What strange weather...~FF~}#056#050
+Bueno, dejó de llover.=Qué tiempo más extraño...\~FF~#050
+;000000F7{Are you catching a nap =    while you're waiting= for the rain to stop?~FF~}#081#072
+¿Estás echando una siesta=
+mientras esperas a que la=
+lluvia pare?\      ~FF~#072
+;0000013F{Reiko!=Why are you holding up =            an umbrella?=It's stopped raining!~FF~}#090#078
+¡Reiko!=¿Por qué llevas un=paraguas?=¡Ha dejado de llover!\                  ~FF~#078
+;0000018D{It's O.K. =It'll start raining again.~FF~}#044#038
+Está bien.=Va a llover otra vez.\    ~FF~#038
+;000001B3{Well... you...=You can stay here =   a little longer..~FF~}#064#055
+Bueno... tú...=Puedes quedarte aquí un=rato más...\   ~FF~#055
+;000001EA{You can't go home, but..=You don't get wet either.~FF~}#057#051
+No puedes irte, pero...=Tampoco te mojarás.\      ~FF~#051
+;0000021D{...?=Why aren't you going home?~FF~}#038#032
+...=¿Por qué no te vas a casa?\~FF~#032
+;0000023D{Why are you here?=Your home is =   in other direction.~FF~}#064#055
+¿Por qué estás aquí?=Tu casa está hacia el otro=lado.\~FF~#055
+;00000274{I have come to say=       goodbye to you.=I have to leave town =         for a while.~FF~}#098#086
+He venido a decirte adiós.=
+He de irme de la ciudad un=
+tiempo.\                       ~FF~#086
+;000002CA{Though, I may see you again=      sometime somewhere...~FF~}#062#056
+Aunque, quizá te vea otra=vez en algún lugar...\       ~FF~#056
+;00000302{...?=What are you talking about?= What is it?!~FF~}#056#047
+...=¿De qué estás hablando?=¡¿Qué es?!\       ~FF~#047
+;00000331{...You'll find out soon...=Well then, goodbye Yuko!=Take care!~FF~}#072#063
+...Pronto lo=descubrirás...=Bueno, ¡adiós Yuko!=¡Ten cuidado!\~FF~#063
+;00000370{What a strange person!=She mumbled some =        meaningless things.~FF~}#078#069
+¡Qué persona más rara!=Murmuró algunas cosas sin=sentido.\          ~FF~#069
+;000003B5{It's an ....earthquake!?~FF~}#028#025
+Es un... ¿¡terremoto!?\ ~FF~#025
+;000003CE{Oh, no..!~FF~}#013#010
+¡Oh, no!\~FF~#010
+;000003D8{Help... help me...!~FF~}#023#020
+¡Ayuda... me...!\  ~FF~#020
+;000003EC{Yuko, catch this!~FF~}#021#018
+Yuko, ¡atrapa!\  ~FF~#018
+;000003FE{ - VARIA -~FF~}#014#011
+ - VARIA -~FF~#011
+;00000409{What is happening?~FF~}#022#019
+¿Qué está pasando?~FF~#019
+;0000041C{A dream?   It must be...=I must be having=            a bad dream.~FF~}#076#067
+¿Un sueño? Debe serlo...=
+Debo tener una pesadilla.\
+               ~FF~#067
+;0000045F{I'll wake up at any moment...= and be under the eaves =                of the shop.~FF~}#093#084
+Seguro que me levanto...=
+y estoy alrededor de la=
+tienda.\                          ~FF~#084
+;000004B3{I will be...I know it!~FF~}#026#023
+Seré... ¡Ya lo sé!\   ~FF~#023
+;000004CA{Welcome to fantasy world,= Yuko.=Valis warrior...~FF~}#059#050
+Este es el mundo fantasía,=Yuko.=Guerrera Valis.\~FF~#050
+;000004FC{The voice...!  You...=You must be =     the one who called me!~FF~}#072#063
+¡Esa voz...! Tú...=¡Tú debes ser quien me ha=llamado!\        ~FF~#063
+;0000053B{Yes, it was me.= My name is Valia and=  this is fantasy world.=This world exists =  in another time and space.~FF~}#126#111
+Sí, fui yo.=
+Me llamo Valia y este es el=
+mundo fantasía.=
+Este mundo existe en otro=
+tiempo y espacio.\          ~FF~#111
+;000005AA{What are you talking about?=  I don't understand you!=Is this a dream?=Tell me I am dreaming!~FF~}#106#094
+¿De qué estás hablando?=
+¡No te entiendo!=
+¿Es esto un sueño?=
+¡Dime que estoy soñando!\        ~FF~#094
+;00000608{I understand that=  you can't comprehend this= sudden incident,~FF~}#073#064
+Entiendo que no puedas=
+comprender este súbito=
+incidente,\      ~FF~#064
+;00000648{ but I tell=   you this is not a dream.~FF~}#046#040
+pero te digo que no es=
+ningún sueño.\  ~FF~#040
+;00000670{~A5~~A5~~A5~!~A5~~A5~~A5~~FF~}#029#008
+~A5~~A5~~A5~!~A5~~A5~~A5~~FF~#008
+;00000678{Lately, 'Yin' and 'Yang' of= the people's  souls are= losing their balance.~FF~}#085#076
+Últimamente, el 'Yin' y=
+'Yang' de las almas está=
+perdiendo su equilibrio.\ ~FF~#076
+;000006C4{The real world, =  where you come from,=  entertains many=  negative events like wars.~FF~}#099#087
+El mundo real,=
+de donde vienes,=
+hospeda varios eventos=
+negativos como guerras.\       ~FF~#087
+;0000071B{This is caused by=  a power called= 'Vecanta' that 'Yin' is=   using to influence=   the souls of the people.~FF~}#125#110
+Esto lo causa un poder=
+llamado 'Vecanta' que=
+'Yin' usa para influenciar=
+en el alma de la gente.\             ~FF~#110
+;00000789{Vecanta...?~FF~}#015#012
+¿Vecanta?\ ~FF~#012
+;00000795{Yes. The leader who governs=       the power is Rogles!~FF~}#062#056
+Sí. ¡El líder que gobierna=
+el poder es Rogles!\        ~FF~#056
+;000007CD{He is an evil king who =  leads a dark world= in another place and time.~FF~}#082#073
+Es un rey maligno que=
+dirige un mundo oscuro en=
+otro tiempo y espacio.\ ~FF~#073
+;00000816{Rogles...?~FF~}#014#011
+¿Rogles?\ ~FF~#011
+;00000821{Rogles locked the source of= the power of 'Yang' in a= precious stone called the~FF~}#090#081
+Rogles encerró la fuente=
+de poder del 'Yang' en una=
+piedra preciosa llamada la\ ~FF~#081
+;00000872{ Phantasm Jewel and then= broke it into =          several pieces.~FF~}#076#067
+Joya Fantasma y la rompió=
+en varias piezas.\                      ~FF~#067
+;000008B5{Now,= he has his subordinates,= five evil generals =~09~of the underworld,= guarding the Jewel.~FF~}#111#093
+Ahora, sus subordinados,=
+cinco generales malignos=
+del inframundo,=
+custodian la joya.\       ~FF~#093
+;00000912{In order to defeat Rogles,~FF~}#030#027
+Para vencer a Rogles,\    ~FF~#027
+;0000092D{ we must put the broken= pieces of the =       Phantasm Jewel= together and release the= power of 'Yang'.~FF~}#121#106
+debemos reunir las piezas=
+rotas de la Joya Fantasma=
+y liberar el poder del=
+'Yang'.\                      ~FF~#106
+;00000997{I do not have enough =     power to fight alone.=I beg of you, Yuko.  =     Lend me your hand.~FF~}#107#095
+No tengo suficiente poder=
+para luchar sola.=
+Te lo ruego, Yuko.=
+Échame una mano.\              ~FF~#095
+;000009F6{...You...You are selfish!=It is none of my business!=Let me go home!~FF~}#078#069
+Tú... ¡Tú eres egoísta!=
+¡Esto no me importa!=
+¡Déjame irme a casa!\  ~FF~#069
+;00000A3B{What has the world come to?=Our warrior is =      influenced by Vecanta= and they have their=           warrior already.~FF~}#136#121
+¿Qué ha sido del mundo?=
+Nuestra guerrera=
+influenciada por el=
+Vecanta y ellos ya=
+tienen a su guerrero.\                  ~FF~#121
+;00000AB4{Helllp.....!~FF~}#016#013
+¡Ayudaaa...!~FF~#013
+;00000AC1{Any more argument =~09~will only strengh= the Vecanta in you.~FF~}#071#059
+Cualquier discusión solo=
+fortalecerá el Vecanta en=
+ti.\   ~FF~#059
+;00000AFC{You go and find the =~09~Phantasm Jewel= and the Jewel will =      help you from then on.=Go, Yuko!~FF~}#115#097
+Ve a encontrar la Joya=
+Fantasma y la Joya te=
+ayudará desde ese momento.=
+¡Ve, Yuko!\             ~FF~#097
+;00000B5D{Reiko...~FF~}#012#009
+Reiko...~FF~#009
+;00000B66{You don't have to save me.=Hurry!  Get it over!~FF~}#054#048
+No tienes que salvarme.=¡Rápido! ¡Supéralo!\   ~FF~#048
+;00000B96{Reiko, you didn't fight =     your best on purpose...~FF~}#060#054
+Reiko,=
+no luchaste lo mejor que=
+podías a propósito...~FF~#054
+;00000BCC{What are you talking about?=I am not like you...=~09~I fought and lost...=I am going to die and =~09~that is fine with me...~FF~}#140#119
+¿De qué estás hablando?=
+Yo no soy como tú...=
+Luché y perdí...=
+Voy a morir y me parece=
+bien...\                        ~FF~#119
+;00000C43{Don't be so stubborn!=You are not like that.~FF~}#051#045
+¡No seas tan terca!=Tú no eres así.\        ~FF~#045
+;00000C70{How do you know what I am?~FF~}#030#027
+¿Cómo sabes lo que soy?\  ~FF~#027
+;00000C8B{I know because you are=~09~~09~ my friend.~FF~}#049#037
+Lo sé porque eres mi=amiga.\        ~FF~#037
+;00000CB0{I have always been =~09~nasty to you.=You don't have to lie to me.~FF~}#076#064
+Siempre he sido mala=
+contigo.=
+No tienes que mentirme.\         ~FF~#064
+;00000CF0{It's not a lie!!=Maybe not to you, = but you are my good friend.~FF~}#074#065
+¡No es mentira!=
+Puede que no para ti,=
+pero eres mi buena amiga.\~FF~#065
+;00000D31{Don't speak so loud!  =~09~It hurts my wound.~FF~}#052#043
+¡No hables tan alto!=
+Me duele la herida.\ ~FF~#043
+;00000D5C{Do your parents =~09~love each other?~FF~}#044#035
+¿Tus padres se aman?\             ~FF~#035
+;00000D7F{Yes..yes they do.~FF~}#021#018
+Sí... se quieren.~FF~#018
+;00000D91{I thought so.  =I can see that in you.~FF~}#045#039
+Eso pensaba.=Puedo ver eso en ti.\    ~FF~#039
+;00000DB8{Reiko..., =what do you mean by that?~FF~}#043#037
+Reiko...,=¿qué quieres decir?\      ~FF~#037
+;00000DDD{My family is quite =~09~different than yours.=Nobody is friendly =~09~~09~in my family,~FF~}#100#079
+Mi familia es muy=
+diferente a la tuya.=
+Nadie es amistoso en mi=
+familia,\      ~FF~#079
+;00000E2C{and I don't have=             any friends.=We are well off,=   but I was never happy.~FF~}#098#086
+y yo no tengo ningún=
+amigo.=
+Estamos bien,=
+pero nunca fui feliz.\                     ~FF~#086
+;00000E82{I hated to see happy people.=I was always mean to people.~FF~}#064#058
+Odiaba ver gente feliz.=
+Siempre fui ruin con=
+ellos.\     ~FF~#058
+;00000EBC{My ambition =~09~was to outwit people= and get ahead of =~09~them with any cost.~FF~}#093#075
+Mi ambición era ser más=
+lista y ponerme delante de=
+ellos como fuera.\     ~FF~#075
+;00000F07{Reiko, please don't talk.~FF~}#029#026
+Reiko, no hables más.\   ~FF~#026
+;00000F21{That is why =~09~I joined Rogles...=But the truth is that =I wanted to=        escape somewhere.~FF~}#112#094
+Es por eso que me uní a=
+Rogles...=
+Pero la verdad es que=
+quería huir a algún lugar.\          ~FF~#094
+;00000F7F{Now, nothing matters...=I've come as far =~09~as I can come....= and I'm here to die...~FF~}#100#085
+Ahora, nada importa...=
+He llegado tan lejos como=
+he podido...=
+y voy a morir aquí...\~FF~#085
+;00000FD4{Don't be silly!~FF~}#019#016
+¡No seas tonta!~FF~#016
+;00000FE4{I promise...=~09~promise to help you!~FF~}#044#035
+Prometo...=
+¡prometo ayudarte!\    ~FF~#035
+;00001007{You...are...crying...for me.=Can I...be...=~09~your friend, can I?~FF~}#076#064
+Tú... lloras... por mi...=
+Puedo... ser... tu amiga,=
+¿verdad?\  ~FF~#064
+;00001047{Yes, yes... =you are always my friend,= from now on for forever!~FF~}#074#065
+Sí, sí...=
+siempre serás mi amiga,=
+¡desde ahora y siempre!\      ~FF~#065
+;00001088{It's...getting...dark.=I can't...see...you well.~FF~}#055#049
+Se... vuelve... oscuro.=No puedo verte... bien.\~FF~#049
+;000010B9{Good... bye...Yuu...ko.~FF~}#027#024
+Adi... ós... Yuu... ko.~FF~#024
+;000010D1{Than...k...you...~FF~}#021#018
+Grac...i...as...\~FF~#018
+;000010E3{Reiko!  Reiko!!  Rei....=Why..?  Why do we =   have to end this way...?~FF~}#081#072
+¡Reiko! ¡¡Reiko!! Rei....=
+¿Por...?=
+¿Por qué ha de terminar=
+así...?\    ~FF~#072
+;0000112B{Fool!!=She bought your=    nonsense sentimentality.~FF~}#061#052
+¡¡Tonta!!=
+Compró tu sentimentalismo=
+inútil.\       ~FF~#052
+;0000115F{Well, that is fine.=I should never have= counted on a girl like her=~09~  from the beginning.~FF~}#106#091
+Bueno, está bien.=
+Nunca debí contar con una=
+chica como ella desde el=
+principio.\          ~FF~#091
+;000011BA{What is it?= You don't like it, do you?=Then come to my castle.~FF~}#073#064
+¿Qué pasa?=
+No te gusta, ¿verdad?=
+Entonces ven a mi=
+castillo.\  ~FF~#064
+;000011FA{I would like to=~09~see how true your= friendship is to her.~FF~}#070#058
+Me gustaría ver cuan real=
+es tu amistad con ella.\       ~FF~#058
+;00001234{I'll be waiting =~09~for you at my castle...= Valis Warrior...patiently.=Ha ha ha ha ha......!!~FF~}#108#093
+Te estaré esperando en mi=
+castillo...=
+Guerrera Valis...=
+pacientemente.=
+¡¡Ja ja ja...!!\     ~FF~#093
+;00001291{You can't get off =    that easy,Rogles.=I'll get you...=with my own hands...=for sure!~FF~}#103#088
+No te librarás tan=
+fácilmente, Rogles.=
+Te atraparé...=
+con mis manos...=
+¡seguro!\       ~FF~#088
+;000012E9{It was a dream...~FF~}#021#018
+Era un sueño...  ~FF~#018
+;000012FB{So, it wasn't a dream...~FF~}#028#025
+No, no era un sueño...\ ~FF~#025
+|4884
+@00028352-00029665-FF
+;00000000{This is funny weather...~FF~}#028#025
+Qué tiempo más raro...\ ~FF~#025
+;00000019{It was fine until =   just a minute ago...~FF~}#049#043
+Estaba bien hasta hace=unos minutos...\   ~FF~#043
+;00000044{Now that I think of it,=I did dream =  about it yesterday...~FF~}#070#061
+Ahora que pienso en ello,=soñé con esto ayer...\            ~FF~#061
+;00000081{Someone was calling me =          in that dream.=What does it mean?~FF~}#077#068
+Alguien me llamaba en ese=sueño.=¿Qué significara?\                ~FF~#068
+;000000C5{Well, it stopped raining.=What strange weather...~FF~}#056#050
+Bueno, dejó de llover.=Qué tiempo más extraño...\~FF~#050
+;000000F7{Are you catching a nap =    while you're waiting= for the rain to stop?~FF~}#081#072
+¿Estás echando una siesta=
+mientras esperas a que la=
+lluvia pare?\      ~FF~#072
+;0000013F{Reiko!=Why are you holding up =            an umbrella?=It's stopped raining!~FF~}#090#078
+¡Reiko!=¿Por qué llevas un=paraguas?=¡Ha dejado de llover!\                  ~FF~#078
+;0000018D{It's O.K. =It'll start raining again.~FF~}#044#038
+Está bien.=Va a llover otra vez.\    ~FF~#038
+;000001B3{Well... you...=You can stay here =   a little longer..~FF~}#064#055
+Bueno... tú...=Puedes quedarte aquí un=rato más...\   ~FF~#055
+;000001EA{You can't go home, but..=You don't get wet either.~FF~}#057#051
+No puedes irte, pero...=Tampoco te mojarás.\      ~FF~#051
+;0000021D{...?=Why aren't you going home?~FF~}#038#032
+...=¿Por qué no te vas a casa?\~FF~#032
+;0000023D{Why are you here?=Your home is =   in other direction.~FF~}#064#055
+¿Por qué estás aquí?=Tu casa está hacia el otro=lado.\~FF~#055
+;00000274{I have come to say=       goodbye to you.=I have to leave town =         for a while.~FF~}#098#086
+He venido a decirte adiós.=
+He de irme de la ciudad un=
+tiempo.\                       ~FF~#086
+;000002CA{Though, I may see you again=      sometime somewhere...~FF~}#062#056
+Aunque, quizá te vea otra=vez en algún lugar...\       ~FF~#056
+;00000302{...?=What are you talking about?= What is it?!~FF~}#056#047
+...=¿De qué estás hablando?=¡¿Qué es?!\       ~FF~#047
+;00000331{...You'll find out soon...=Well then, goodbye Yuko!=Take care!~FF~}#072#063
+...Pronto lo=descubrirás...=Bueno, ¡adiós Yuko!=¡Ten cuidado!\~FF~#063
+;00000370{What a strange person!=She mumbled some =        meaningless things.~FF~}#078#069
+¡Qué persona más rara!=Murmuró algunas cosas sin=sentido.\          ~FF~#069
+;000003B5{It's an ....earthquake!?~FF~}#028#025
+Es un... ¿¡terremoto!?\ ~FF~#025
+;000003CE{Oh, no..!~FF~}#013#010
+¡Oh, no!\~FF~#010
+;000003D8{Help... help me...!~FF~}#023#020
+¡Ayuda... me...!\  ~FF~#020
+;000003EC{Yuko, catch this!~FF~}#021#018
+Yuko, ¡atrapa!\  ~FF~#018
+;000003FE{ - VARIA -~FF~}#014#011
+ - VARIA -~FF~#011
+;00000409{What is happening?~FF~}#022#019
+¿Qué está pasando?~FF~#019
+;0000041C{A dream?   It must be...=I must be having=            a bad dream.~FF~}#076#067
+¿Un sueño? Debe serlo...=
+Debo tener una pesadilla.\
+               ~FF~#067
+;0000045F{I'll wake up at any moment...= and be under the eaves =                of the shop.~FF~}#093#084
+Seguro que me levanto...=
+y estoy alrededor de la=
+tienda.\                          ~FF~#084
+;000004B3{I will be...I know it!~FF~}#026#023
+Seré... ¡Ya lo sé!\   ~FF~#023
+;000004CA{Welcome to fantasy world,= Yuko.=Valis warrior...~FF~}#059#050
+Este es el mundo fantasía,=Yuko.=Guerrera Valis.\~FF~#050
+;000004FC{The voice...!  You...=You must be =     the one who called me!~FF~}#072#063
+¡Esa voz...! Tú...=¡Tú debes ser quien me ha=llamado!\        ~FF~#063
+;0000053B{Yes, it was me.= My name is Valia and=  this is fantasy world.=This world exists =  in another time and space.~FF~}#126#111
+Sí, fui yo.=
+Me llamo Valia y este es el=
+mundo fantasía.=
+Este mundo existe en otro=
+tiempo y espacio.\          ~FF~#111
+;000005AA{What are you talking about?=  I don't understand you!=Is this a dream?=Tell me I am dreaming!~FF~}#106#094
+¿De qué estás hablando?=
+¡No te entiendo!=
+¿Es esto un sueño?=
+¡Dime que estoy soñando!\        ~FF~#094
+;00000608{I understand that=  you can't comprehend this= sudden incident,~FF~}#073#064
+Entiendo que no puedas=
+comprender este súbito=
+incidente,\      ~FF~#064
+;00000648{ but I tell=   you this is not a dream.~FF~}#046#040
+pero te digo que no es=
+ningún sueño.\  ~FF~#040
+;00000670{~A5~~A5~~A5~!~A5~~A5~~A5~~FF~}#029#008
+~A5~~A5~~A5~!~A5~~A5~~A5~~FF~#008
+;00000678{Lately, 'Yin' and 'Yang' of= the people's  souls are= losing their balance.~FF~}#085#076
+Últimamente, el 'Yin' y=
+'Yang' de las almas está=
+perdiendo su equilibrio.\ ~FF~#076
+;000006C4{The real world, =  where you come from,=  entertains many=  negative events like wars.~FF~}#099#087
+El mundo real,=
+de donde vienes,=
+hospeda varios eventos=
+negativos como guerras.\       ~FF~#087
+;0000071B{This is caused by=  a power called= 'Vecanta' that 'Yin' is=   using to influence=   the souls of the people.~FF~}#125#110
+Esto lo causa un poder=
+llamado 'Vecanta' que=
+'Yin' usa para influenciar=
+en el alma de la gente.\             ~FF~#110
+;00000789{Vecanta...?~FF~}#015#012
+¿Vecanta?\ ~FF~#012
+;00000795{Yes. The leader who governs=       the power is Rogles!~FF~}#062#056
+Sí. ¡El líder que gobierna=
+el poder es Rogles!\        ~FF~#056
+;000007CD{He is an evil king who =  leads a dark world= in another place and time.~FF~}#082#073
+Es un rey maligno que=
+dirige un mundo oscuro en=
+otro tiempo y espacio.\ ~FF~#073
+;00000816{Rogles...?~FF~}#014#011
+¿Rogles?\ ~FF~#011
+;00000821{Rogles locked the source of= the power of 'Yang' in a= precious stone called the~FF~}#090#081
+Rogles encerró la fuente=
+de poder del 'Yang' en una=
+piedra preciosa llamada la\ ~FF~#081
+;00000872{ Phantasm Jewel and then= broke it into =          several pieces.~FF~}#076#067
+Joya Fantasma y la rompió=
+en varias piezas.\                      ~FF~#067
+;000008B5{Now,= he has his subordinates,= five evil generals =~09~of the underworld,= guarding the Jewel.~FF~}#111#093
+Ahora, sus subordinados,=
+cinco generales malignos=
+del inframundo,=
+custodian la joya.\       ~FF~#093
+;00000912{In order to defeat Rogles,~FF~}#030#027
+Para vencer a Rogles,\    ~FF~#027
+;0000092D{ we must put the broken= pieces of the =       Phantasm Jewel= together and release the= power of 'Yang'.~FF~}#121#106
+debemos reunir las piezas=
+rotas de la Joya Fantasma=
+y liberar el poder del=
+'Yang'.\                      ~FF~#106
+;00000997{I do not have enough =     power to fight alone.=I beg of you, Yuko.  =     Lend me your hand.~FF~}#107#095
+No tengo suficiente poder=
+para luchar sola.=
+Te lo ruego, Yuko.=
+Échame una mano.\              ~FF~#095
+;000009F6{...You...You are selfish!=It is none of my business!=Let me go home!~FF~}#078#069
+Tú... ¡Tú eres egoísta!=
+¡Esto no me importa!=
+¡Déjame irme a casa!\  ~FF~#069
+;00000A3B{What has the world come to?=Our warrior is =      influenced by Vecanta= and they have their=           warrior already.~FF~}#136#121
+¿Qué ha sido del mundo?=
+Nuestra guerrera=
+influenciada por el=
+Vecanta y ellos ya=
+tienen a su guerrero.\                  ~FF~#121
+;00000AB4{Helllp.....!~FF~}#016#013
+¡Ayudaaa...!~FF~#013
+;00000AC1{Any more argument =~09~will only strengh= the Vecanta in you.~FF~}#071#059
+Cualquier discusión solo=
+fortalecerá el Vecanta en=
+ti.\   ~FF~#059
+;00000AFC{You go and find the =~09~Phantasm Jewel= and the Jewel will =      help you from then on.=Go, Yuko!~FF~}#115#097
+Ve a encontrar la Joya=
+Fantasma y la Joya te=
+ayudará desde ese momento.=
+¡Ve, Yuko!\             ~FF~#097
+;00000B5D{Reiko...~FF~}#012#009
+Reiko...~FF~#009
+;00000B66{You don't have to save me.=Hurry!  Get it over!~FF~}#054#048
+No tienes que salvarme.=¡Rápido! ¡Supéralo!\   ~FF~#048
+;00000B96{Reiko, you didn't fight =     your best on purpose...~FF~}#060#054
+Reiko,=
+no luchaste lo mejor que=
+podías a propósito...~FF~#054
+;00000BCC{What are you talking about?=I am not like you...=~09~I fought and lost...=I am going to die and =~09~that is fine with me...~FF~}#140#119
+¿De qué estás hablando?=
+Yo no soy como tú...=
+Luché y perdí...=
+Voy a morir y me parece=
+bien...\                        ~FF~#119
+;00000C43{Don't be so stubborn!=You are not like that.~FF~}#051#045
+¡No seas tan terca!=Tú no eres así.\        ~FF~#045
+;00000C70{How do you know what I am?~FF~}#030#027
+¿Cómo sabes lo que soy?\  ~FF~#027
+;00000C8B{I know because you are=~09~~09~ my friend.~FF~}#049#037
+Lo sé porque eres mi=amiga.\        ~FF~#037
+;00000CB0{I have always been =~09~nasty to you.=You don't have to lie to me.~FF~}#076#064
+Siempre he sido mala=
+contigo.=
+No tienes que mentirme.\         ~FF~#064
+;00000CF0{It's not a lie!!=Maybe not to you, = but you are my good friend.~FF~}#074#065
+¡No es mentira!=
+Puede que no para ti,=
+pero eres mi buena amiga.\~FF~#065
+;00000D31{Don't speak so loud!  =~09~It hurts my wound.~FF~}#052#043
+¡No hables tan alto!=
+Me duele la herida.\ ~FF~#043
+;00000D5C{Do your parents =~09~love each other?~FF~}#044#035
+¿Tus padres se aman?\             ~FF~#035
+;00000D7F{Yes..yes they do.~FF~}#021#018
+Sí... se quieren.~FF~#018
+;00000D91{I thought so.  =I can see that in you.~FF~}#045#039
+Eso pensaba.=Puedo ver eso en ti.\    ~FF~#039
+;00000DB8{Reiko..., =what do you mean by that?~FF~}#043#037
+Reiko...,=¿qué quieres decir?\      ~FF~#037
+;00000DDD{My family is quite =~09~different than yours.=Nobody is friendly =~09~~09~in my family,~FF~}#100#079
+Mi familia es muy=
+diferente a la tuya.=
+Nadie es amistoso en mi=
+familia,\      ~FF~#079
+;00000E2C{and I don't have=             any friends.=We are well off,=   but I was never happy.~FF~}#098#086
+y yo no tengo ningún=
+amigo.=
+Estamos bien,=
+pero nunca fui feliz.\                     ~FF~#086
+;00000E82{I hated to see happy people.=I was always mean to people.~FF~}#064#058
+Odiaba ver gente feliz.=
+Siempre fui ruin con=
+ellos.\     ~FF~#058
+;00000EBC{My ambition =~09~was to outwit people= and get ahead of =~09~them with any cost.~FF~}#093#075
+Mi ambición era ser más=
+lista y ponerme delante de=
+ellos como fuera.\     ~FF~#075
+;00000F07{Reiko, please don't talk.~FF~}#029#026
+Reiko, no hables más.\   ~FF~#026
+;00000F21{That is why =~09~I joined Rogles...=But the truth is that =I wanted to=        escape somewhere.~FF~}#112#094
+Es por eso que me uní a=
+Rogles...=
+Pero la verdad es que=
+quería huir a algún lugar.\          ~FF~#094
+;00000F7F{Now, nothing matters...=I've come as far =~09~as I can come....= and I'm here to die...~FF~}#100#085
+Ahora, nada importa...=
+He llegado tan lejos como=
+he podido...=
+y voy a morir aquí...\~FF~#085
+;00000FD4{Don't be silly!~FF~}#019#016
+¡No seas tonta!~FF~#016
+;00000FE4{I promise...=~09~promise to help you!~FF~}#044#035
+Prometo...=
+¡prometo ayudarte!\    ~FF~#035
+;00001007{You...are...crying...for me.=Can I...be...=~09~your friend, can I?~FF~}#076#064
+Tú... lloras... por mi...=
+Puedo... ser... tu amiga,=
+¿verdad?\  ~FF~#064
+;00001047{Yes, yes... =you are always my friend,= from now on for forever!~FF~}#074#065
+Sí, sí...=
+siempre serás mi amiga,=
+¡desde ahora y siempre!\      ~FF~#065
+;00001088{It's...getting...dark.=I can't...see...you well.~FF~}#055#049
+Se... vuelve... oscuro.=No puedo verte... bien.\~FF~#049
+;000010B9{Good... bye...Yuu...ko.~FF~}#027#024
+Adi... ós... Yuu... ko.~FF~#024
+;000010D1{Than...k...you...~FF~}#021#018
+Grac...i...as...\~FF~#018
+;000010E3{Reiko!  Reiko!!  Rei....=Why..?  Why do we =   have to end this way...?~FF~}#081#072
+¡Reiko! ¡¡Reiko!! Rei....=
+¿Por...?=
+¿Por qué ha de terminar=
+así...?\    ~FF~#072
+;0000112B{Fool!!=She bought your=    nonsense sentimentality.~FF~}#061#052
+¡¡Tonta!!=
+Compró tu sentimentalismo=
+inútil.\       ~FF~#052
+;0000115F{Well, that is fine.=I should never have= counted on a girl like her=~09~  from the beginning.~FF~}#106#091
+Bueno, está bien.=
+Nunca debí contar con una=
+chica como ella desde el=
+principio.\          ~FF~#091
+;000011BA{What is it?= You don't like it, do you?=Then come to my castle.~FF~}#073#064
+¿Qué pasa?=
+No te gusta, ¿verdad?=
+Entonces ven a mi=
+castillo.\  ~FF~#064
+;000011FA{I would like to=~09~see how true your= friendship is to her.~FF~}#070#058
+Me gustaría ver cuan real=
+es tu amistad con ella.\       ~FF~#058
+;00001234{I'll be waiting =~09~for you at my castle...= Valis Warrior...patiently.=Ha ha ha ha ha......!!~FF~}#108#093
+Te estaré esperando en mi=
+castillo...=
+Guerrera Valis...=
+pacientemente.=
+¡¡Ja ja ja...!!\     ~FF~#093
+;00001291{You can't get off =    that easy,Rogles.=I'll get you...=with my own hands...=for sure!~FF~}#103#088
+No te librarás tan=
+fácilmente, Rogles.=
+Te atraparé...=
+con mis manos...=
+¡seguro!\       ~FF~#088
+;000012E9{It was a dream...~FF~}#021#018
+Era un sueño...  ~FF~#018
+;000012FB{So, it wasn't a dream...~FF~}#028#025
+No, no era un sueño...\ ~FF~#025
+|4884
+@0002A846-0002BB59-FF
+;00000000{This is funny weather...~FF~}#028#025
+Qué tiempo más raro...\ ~FF~#025
+;00000019{It was fine until =   just a minute ago...~FF~}#049#043
+Estaba bien hasta hace=unos minutos...\   ~FF~#043
+;00000044{Now that I think of it,=I did dream =  about it yesterday...~FF~}#070#061
+Ahora que pienso en ello,=soñé con esto ayer...\            ~FF~#061
+;00000081{Someone was calling me =          in that dream.=What does it mean?~FF~}#077#068
+Alguien me llamaba en ese=sueño.=¿Qué significara?\                ~FF~#068
+;000000C5{Well, it stopped raining.=What strange weather...~FF~}#056#050
+Bueno, dejó de llover.=Qué tiempo más extraño...\~FF~#050
+;000000F7{Are you catching a nap =    while you're waiting= for the rain to stop?~FF~}#081#072
+¿Estás echando una siesta=
+mientras esperas a que la=
+lluvia pare?\      ~FF~#072
+;0000013F{Reiko!=Why are you holding up =            an umbrella?=It's stopped raining!~FF~}#090#078
+¡Reiko!=¿Por qué llevas un=paraguas?=¡Ha dejado de llover!\                  ~FF~#078
+;0000018D{It's O.K. =It'll start raining again.~FF~}#044#038
+Está bien.=Va a llover otra vez.\    ~FF~#038
+;000001B3{Well... you...=You can stay here =   a little longer..~FF~}#064#055
+Bueno... tú...=Puedes quedarte aquí un=rato más...\   ~FF~#055
+;000001EA{You can't go home, but..=You don't get wet either.~FF~}#057#051
+No puedes irte, pero...=Tampoco te mojarás.\      ~FF~#051
+;0000021D{...?=Why aren't you going home?~FF~}#038#032
+...=¿Por qué no te vas a casa?\~FF~#032
+;0000023D{Why are you here?=Your home is =   in other direction.~FF~}#064#055
+¿Por qué estás aquí?=Tu casa está hacia el otro=lado.\~FF~#055
+;00000274{I have come to say=       goodbye to you.=I have to leave town =         for a while.~FF~}#098#086
+He venido a decirte adiós.=
+He de irme de la ciudad un=
+tiempo.\                       ~FF~#086
+;000002CA{Though, I may see you again=      sometime somewhere...~FF~}#062#056
+Aunque, quizá te vea otra=vez en algún lugar...\       ~FF~#056
+;00000302{...?=What are you talking about?= What is it?!~FF~}#056#047
+...=¿De qué estás hablando?=¡¿Qué es?!\       ~FF~#047
+;00000331{...You'll find out soon...=Well then, goodbye Yuko!=Take care!~FF~}#072#063
+...Pronto lo=descubrirás...=Bueno, ¡adiós Yuko!=¡Ten cuidado!\~FF~#063
+;00000370{What a strange person!=She mumbled some =        meaningless things.~FF~}#078#069
+¡Qué persona más rara!=Murmuró algunas cosas sin=sentido.\          ~FF~#069
+;000003B5{It's an ....earthquake!?~FF~}#028#025
+Es un... ¿¡terremoto!?\ ~FF~#025
+;000003CE{Oh, no..!~FF~}#013#010
+¡Oh, no!\~FF~#010
+;000003D8{Help... help me...!~FF~}#023#020
+¡Ayuda... me...!\  ~FF~#020
+;000003EC{Yuko, catch this!~FF~}#021#018
+Yuko, ¡atrapa!\  ~FF~#018
+;000003FE{ - VARIA -~FF~}#014#011
+ - VARIA -~FF~#011
+;00000409{What is happening?~FF~}#022#019
+¿Qué está pasando?~FF~#019
+;0000041C{A dream?   It must be...=I must be having=            a bad dream.~FF~}#076#067
+¿Un sueño? Debe serlo...=
+Debo tener una pesadilla.\
+               ~FF~#067
+;0000045F{I'll wake up at any moment...= and be under the eaves =                of the shop.~FF~}#093#084
+Seguro que me levanto...=
+y estoy alrededor de la=
+tienda.\                          ~FF~#084
+;000004B3{I will be...I know it!~FF~}#026#023
+Seré... ¡Ya lo sé!\   ~FF~#023
+;000004CA{Welcome to fantasy world,= Yuko.=Valis warrior...~FF~}#059#050
+Este es el mundo fantasía,=Yuko.=Guerrera Valis.\~FF~#050
+;000004FC{The voice...!  You...=You must be =     the one who called me!~FF~}#072#063
+¡Esa voz...! Tú...=¡Tú debes ser quien me ha=llamado!\        ~FF~#063
+;0000053B{Yes, it was me.= My name is Valia and=  this is fantasy world.=This world exists =  in another time and space.~FF~}#126#111
+Sí, fui yo.=
+Me llamo Valia y este es el=
+mundo fantasía.=
+Este mundo existe en otro=
+tiempo y espacio.\          ~FF~#111
+;000005AA{What are you talking about?=  I don't understand you!=Is this a dream?=Tell me I am dreaming!~FF~}#106#094
+¿De qué estás hablando?=
+¡No te entiendo!=
+¿Es esto un sueño?=
+¡Dime que estoy soñando!\        ~FF~#094
+;00000608{I understand that=  you can't comprehend this= sudden incident,~FF~}#073#064
+Entiendo que no puedas=
+comprender este súbito=
+incidente,\      ~FF~#064
+;00000648{ but I tell=   you this is not a dream.~FF~}#046#040
+pero te digo que no es=
+ningún sueño.\  ~FF~#040
+;00000670{~A5~~A5~~A5~!~A5~~A5~~A5~~FF~}#029#008
+~A5~~A5~~A5~!~A5~~A5~~A5~~FF~#008
+;00000678{Lately, 'Yin' and 'Yang' of= the people's  souls are= losing their balance.~FF~}#085#076
+Últimamente, el 'Yin' y=
+'Yang' de las almas está=
+perdiendo su equilibrio.\ ~FF~#076
+;000006C4{The real world, =  where you come from,=  entertains many=  negative events like wars.~FF~}#099#087
+El mundo real,=
+de donde vienes,=
+hospeda varios eventos=
+negativos como guerras.\       ~FF~#087
+;0000071B{This is caused by=  a power called= 'Vecanta' that 'Yin' is=   using to influence=   the souls of the people.~FF~}#125#110
+Esto lo causa un poder=
+llamado 'Vecanta' que=
+'Yin' usa para influenciar=
+en el alma de la gente.\             ~FF~#110
+;00000789{Vecanta...?~FF~}#015#012
+¿Vecanta?\ ~FF~#012
+;00000795{Yes. The leader who governs=       the power is Rogles!~FF~}#062#056
+Sí. ¡El líder que gobierna=
+el poder es Rogles!\        ~FF~#056
+;000007CD{He is an evil king who =  leads a dark world= in another place and time.~FF~}#082#073
+Es un rey maligno que=
+dirige un mundo oscuro en=
+otro tiempo y espacio.\ ~FF~#073
+;00000816{Rogles...?~FF~}#014#011
+¿Rogles?\ ~FF~#011
+;00000821{Rogles locked the source of= the power of 'Yang' in a= precious stone called the~FF~}#090#081
+Rogles encerró la fuente=
+de poder del 'Yang' en una=
+piedra preciosa llamada la\ ~FF~#081
+;00000872{ Phantasm Jewel and then= broke it into =          several pieces.~FF~}#076#067
+Joya Fantasma y la rompió=
+en varias piezas.\                      ~FF~#067
+;000008B5{Now,= he has his subordinates,= five evil generals =~09~of the underworld,= guarding the Jewel.~FF~}#111#093
+Ahora, sus subordinados,=
+cinco generales malignos=
+del inframundo,=
+custodian la joya.\       ~FF~#093
+;00000912{In order to defeat Rogles,~FF~}#030#027
+Para vencer a Rogles,\    ~FF~#027
+;0000092D{ we must put the broken= pieces of the =       Phantasm Jewel= together and release the= power of 'Yang'.~FF~}#121#106
+debemos reunir las piezas=
+rotas de la Joya Fantasma=
+y liberar el poder del=
+'Yang'.\                      ~FF~#106
+;00000997{I do not have enough =     power to fight alone.=I beg of you, Yuko.  =     Lend me your hand.~FF~}#107#095
+No tengo suficiente poder=
+para luchar sola.=
+Te lo ruego, Yuko.=
+Échame una mano.\              ~FF~#095
+;000009F6{...You...You are selfish!=It is none of my business!=Let me go home!~FF~}#078#069
+Tú... ¡Tú eres egoísta!=
+¡Esto no me importa!=
+¡Déjame irme a casa!\  ~FF~#069
+;00000A3B{What has the world come to?=Our warrior is =      influenced by Vecanta= and they have their=           warrior already.~FF~}#136#121
+¿Qué ha sido del mundo?=
+Nuestra guerrera=
+influenciada por el=
+Vecanta y ellos ya=
+tienen a su guerrero.\                  ~FF~#121
+;00000AB4{Helllp.....!~FF~}#016#013
+¡Ayudaaa...!~FF~#013
+;00000AC1{Any more argument =~09~will only strengh= the Vecanta in you.~FF~}#071#059
+Cualquier discusión solo=
+fortalecerá el Vecanta en=
+ti.\   ~FF~#059
+;00000AFC{You go and find the =~09~Phantasm Jewel= and the Jewel will =      help you from then on.=Go, Yuko!~FF~}#115#097
+Ve a encontrar la Joya=
+Fantasma y la Joya te=
+ayudará desde ese momento.=
+¡Ve, Yuko!\             ~FF~#097
+;00000B5D{Reiko...~FF~}#012#009
+Reiko...~FF~#009
+;00000B66{You don't have to save me.=Hurry!  Get it over!~FF~}#054#048
+No tienes que salvarme.=¡Rápido! ¡Supéralo!\   ~FF~#048
+;00000B96{Reiko, you didn't fight =     your best on purpose...~FF~}#060#054
+Reiko,=
+no luchaste lo mejor que=
+podías a propósito...~FF~#054
+;00000BCC{What are you talking about?=I am not like you...=~09~I fought and lost...=I am going to die and =~09~that is fine with me...~FF~}#140#119
+¿De qué estás hablando?=
+Yo no soy como tú...=
+Luché y perdí...=
+Voy a morir y me parece=
+bien...\                        ~FF~#119
+;00000C43{Don't be so stubborn!=You are not like that.~FF~}#051#045
+¡No seas tan terca!=Tú no eres así.\        ~FF~#045
+;00000C70{How do you know what I am?~FF~}#030#027
+¿Cómo sabes lo que soy?\  ~FF~#027
+;00000C8B{I know because you are=~09~~09~ my friend.~FF~}#049#037
+Lo sé porque eres mi=amiga.\        ~FF~#037
+;00000CB0{I have always been =~09~nasty to you.=You don't have to lie to me.~FF~}#076#064
+Siempre he sido mala=
+contigo.=
+No tienes que mentirme.\         ~FF~#064
+;00000CF0{It's not a lie!!=Maybe not to you, = but you are my good friend.~FF~}#074#065
+¡No es mentira!=
+Puede que no para ti,=
+pero eres mi buena amiga.\~FF~#065
+;00000D31{Don't speak so loud!  =~09~It hurts my wound.~FF~}#052#043
+¡No hables tan alto!=
+Me duele la herida.\ ~FF~#043
+;00000D5C{Do your parents =~09~love each other?~FF~}#044#035
+¿Tus padres se aman?\             ~FF~#035
+;00000D7F{Yes..yes they do.~FF~}#021#018
+Sí... se quieren.~FF~#018
+;00000D91{I thought so.  =I can see that in you.~FF~}#045#039
+Eso pensaba.=Puedo ver eso en ti.\    ~FF~#039
+;00000DB8{Reiko..., =what do you mean by that?~FF~}#043#037
+Reiko...,=¿qué quieres decir?\      ~FF~#037
+;00000DDD{My family is quite =~09~different than yours.=Nobody is friendly =~09~~09~in my family,~FF~}#100#079
+Mi familia es muy=
+diferente a la tuya.=
+Nadie es amistoso en mi=
+familia,\      ~FF~#079
+;00000E2C{and I don't have=             any friends.=We are well off,=   but I was never happy.~FF~}#098#086
+y yo no tengo ningún=
+amigo.=
+Estamos bien,=
+pero nunca fui feliz.\                     ~FF~#086
+;00000E82{I hated to see happy people.=I was always mean to people.~FF~}#064#058
+Odiaba ver gente feliz.=
+Siempre fui ruin con=
+ellos.\     ~FF~#058
+;00000EBC{My ambition =~09~was to outwit people= and get ahead of =~09~them with any cost.~FF~}#093#075
+Mi ambición era ser más=
+lista y ponerme delante de=
+ellos como fuera.\     ~FF~#075
+;00000F07{Reiko, please don't talk.~FF~}#029#026
+Reiko, no hables más.\   ~FF~#026
+;00000F21{That is why =~09~I joined Rogles...=But the truth is that =I wanted to=        escape somewhere.~FF~}#112#094
+Es por eso que me uní a=
+Rogles...=
+Pero la verdad es que=
+quería huir a algún lugar.\          ~FF~#094
+;00000F7F{Now, nothing matters...=I've come as far =~09~as I can come....= and I'm here to die...~FF~}#100#085
+Ahora, nada importa...=
+He llegado tan lejos como=
+he podido...=
+y voy a morir aquí...\~FF~#085
+;00000FD4{Don't be silly!~FF~}#019#016
+¡No seas tonta!~FF~#016
+;00000FE4{I promise...=~09~promise to help you!~FF~}#044#035
+Prometo...=
+¡prometo ayudarte!\    ~FF~#035
+;00001007{You...are...crying...for me.=Can I...be...=~09~your friend, can I?~FF~}#076#064
+Tú... lloras... por mi...=
+Puedo... ser... tu amiga,=
+¿verdad?\  ~FF~#064
+;00001047{Yes, yes... =you are always my friend,= from now on for forever!~FF~}#074#065
+Sí, sí...=
+siempre serás mi amiga,=
+¡desde ahora y siempre!\      ~FF~#065
+;00001088{It's...getting...dark.=I can't...see...you well.~FF~}#055#049
+Se... vuelve... oscuro.=No puedo verte... bien.\~FF~#049
+;000010B9{Good... bye...Yuu...ko.~FF~}#027#024
+Adi... ós... Yuu... ko.~FF~#024
+;000010D1{Than...k...you...~FF~}#021#018
+Grac...i...as...\~FF~#018
+;000010E3{Reiko!  Reiko!!  Rei....=Why..?  Why do we =   have to end this way...?~FF~}#081#072
+¡Reiko! ¡¡Reiko!! Rei....=
+¿Por...?=
+¿Por qué ha de terminar=
+así...?\    ~FF~#072
+;0000112B{Fool!!=She bought your=    nonsense sentimentality.~FF~}#061#052
+¡¡Tonta!!=
+Compró tu sentimentalismo=
+inútil.\       ~FF~#052
+;0000115F{Well, that is fine.=I should never have= counted on a girl like her=~09~  from the beginning.~FF~}#106#091
+Bueno, está bien.=
+Nunca debí contar con una=
+chica como ella desde el=
+principio.\          ~FF~#091
+;000011BA{What is it?= You don't like it, do you?=Then come to my castle.~FF~}#073#064
+¿Qué pasa?=
+No te gusta, ¿verdad?=
+Entonces ven a mi=
+castillo.\  ~FF~#064
+;000011FA{I would like to=~09~see how true your= friendship is to her.~FF~}#070#058
+Me gustaría ver cuan real=
+es tu amistad con ella.\       ~FF~#058
+;00001234{I'll be waiting =~09~for you at my castle...= Valis Warrior...patiently.=Ha ha ha ha ha......!!~FF~}#108#093
+Te estaré esperando en mi=
+castillo...=
+Guerrera Valis...=
+pacientemente.=
+¡¡Ja ja ja...!!\     ~FF~#093
+;00001291{You can't get off =    that easy,Rogles.=I'll get you...=with my own hands...=for sure!~FF~}#103#088
+No te librarás tan=
+fácilmente, Rogles.=
+Te atraparé...=
+con mis manos...=
+¡seguro!\       ~FF~#088
+;000012E9{It was a dream...~FF~}#021#018
+Era un sueño...  ~FF~#018
+;000012FB{So, it wasn't a dream...~FF~}#028#025
+No, no era un sueño...\ ~FF~#025
+|4884
+@0002C1E8-0002C60B-FF
+;00000000{  VALIS  MAKING  STAFF  ~FF~}#028#025
+  EQUIPO CREADOR VALIS  ~FF~#025
+;00000019{  DIRECTOR        =          Eiji Kikuchi~FF~}#048#042
+  DIRECTOR        =          Eiji Kikuchi~FF~#042
+;00000043{  SCENARIO WRITER =          Tomoko Miura~FF~}#048#042
+  ESCRITOR ESCENA =          Tomoko Miura~FF~#042
+;0000006D{  CHARACTER DESIGN=          Osamu Nabeshima~FF~}#051#045
+  DISEÑO PERSONAJE=          Osamu Nabeshima~FF~#045
+;0000009A{  PROGRAMMER      =          Atsushi Komiya=          Yasuhisa Tanaka~FF~}#079#070
+  PROGRAMADOR     =          Atsushi Komiya=          Yasuhisa Tanaka~FF~#070
+;000000E0{  DESIGNER        =          Hiroaki Kai=          Kazuya Tsukazaki=          Hiroshi Sawamura=          Toshiya Sasaki~FF~}#135#120
+  DISEÑADOR       =          Hiroaki Kai=          Kazuya Tsukazaki=          Hiroshi Sawamura=          Toshiya Sasaki~FF~#120
+;00000158{  MUSIC           =          Minoru Yuasa=          Hiroaki Kai~FF~}#073#064
+  MÚSICA          =          Minoru Yuasa=          Hiroaki Kai~FF~#064
+;00000198{  PROMOTION       =          Takao Yoshioka=          Masahisa Ohno=          Yuma Miura~FF~}#101#089
+  PROMOCIÓN       =          Takao Yoshioka=          Masahisa Ohno=          Yuma Miura~FF~#089
+;000001F1{  PRODUCER        =          Minoru Yuasa~FF~}#048#042
+  PRODUCTOR       =          Minoru Yuasa~FF~#042
+;0000021B{  EXECUTIVE PRODUCER=          Jiro Fukushima=          Kazuyuki Fukushima=          Yuji Fukushima~FF~}#112#100
+  PRODUCE EJECUTIVO =          Jiro Fukushima=          Kazuyuki Fukushima=          Yuji Fukushima~FF~#100
+;0000027F{  SPECIAL THANKS TO ~A5~~A5~~A5~~A5~=   Takashi Fukushima=   Masayasu Yamamoto=   Shinobu Ogawa=   Kenji Goshima~FF~}#128#101
+  MUCHAS GRACIAS A ~A5~~A5~~A5~~A5~ =   Takashi Fukushima=   Masayasu Yamamoto=   Shinobu Ogawa=   Kenji Goshima~FF~#101
+;000002E4{   Takaaki Matsumoto=   Hajime Komatsu=   Soukichi Matsuzawa=   Akira Igarashi~FF~}#091#079
+   Takaaki Matsumoto=   Hajime Komatsu=   Soukichi Matsuzawa=   Akira Igarashi~FF~#079
+;00000333{   Yuichi Ohishi=   Yoshiko Kageyu~FF~}#041#035
+   Yuichi Ohishi=   Yoshiko Kageyu~FF~#035
+;00000356{  AD FACTOR Co.,Ltd.=  SOTSU AGENCY Co.,Ltd.=  BUSINESS SUPPORT Co.,Ltd.=  HORON INDUSTRY Co.,Ltd.~FF~}#111#099
+  AD FACTOR Co.,Ltd.=
+  SOTSU AGENCY Co.,Ltd.=
+  BUSINESS SUPPORT Co.,Ltd.=
+  HORON INDUSTRY Co.,Ltd.~FF~#099
+;000003B9{  US STAFF=   Takami Kinoshita=   Hideki Hiraga=   Linda Lavin=   David Izat~FF~}#092#077
+  EN EEUU =   Takami Kinoshita=   Hideki Hiraga=   Linda Lavin=   David Izat~FF~#077
+;00000406{  PRESENTED BY TELENET JAPAN ~FF~}#033#030
+  PRESENTA TELENET JAPÓN     ~FF~#030
+|1060
+@0002E02C-0002E1FE-00
+;00000000{Music from~00~}#014#011
+Música de ~00~#011
+;0000000B{  Fantasm soldier VALIS~00~}#027#024
+ Soldado fantasma VALIS~00~#024
+;00000023{01  The fantasm soldier~00~}#027#024
+01  El soldado fantasma~00~#024
+;0000003B{02  Opening visual 1   ~00~}#027#024
+02  Apertura visual 1  ~00~#024
+;00000053{03  Opening visual 2   ~00~}#027#024
+03  Apertura visual 1  ~00~#024
+;0000006B{04  Frash of sword     ~00~}#027#024
+04  Destello de espada ~00~#024
+;00000083{05  Lonely soldier     ~00~}#027#024
+05  Soldado solitario  ~00~#024
+;0000009B{06  Cellular tissue    ~00~}#027#024
+06  Tejido celular     ~00~#024
+;000000B3{07  Dark forest        ~00~}#027#024
+07  Bosque oscuro      ~00~#024
+;000000CB{08  The wilderness     ~00~}#027#024
+08  El yermo           ~00~#024
+;000000E3{09  Death whisper      ~00~}#027#024
+09  Susurro mortal     ~00~#024
+;000000FB{10  Oger battle        ~00~}#027#024
+10  Batalla con ogro   ~00~#024
+;00000113{11  Last battle        ~00~}#027#024
+11  Última batalla     ~00~#024
+;0000012B{12  Pinch zone         ~00~}#027#024
+12  Zona de apuro      ~00~#024
+;00000143{13  The soldier is born~00~}#027#024
+13  El soldado nació   ~00~#024
+;0000015B{14  Visual scene 1     ~00~}#027#024
+14  Escena visual 1    ~00~#024
+;00000173{15  Visual scene 2     ~00~}#027#024
+15  Escena visual 2    ~00~#024
+;0000018B{16  Visual scene 3     ~00~}#027#024
+16  Escena visual 3    ~00~#024
+;000001A3{17  Sadness REIKO      ~00~}#027#024
+17  Tristeza REIKO     ~00~#024
+;000001BB{18  Miss Blue          ~00~}#027#024
+18  Miss Azul          ~00~#024
+|467
+@0000F08C-0000F0B7-FF
+;00000000{It was a dream...~FF~}#021#018
+Era un sueño...\ ~FF~#018
+;00000012{=So, it wasn't a dream...~FF~}#032#026
+=No, no era un sueño...\ ~FF~#026
+|44

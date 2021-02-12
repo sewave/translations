@@ -1,0 +1,378 @@
+@0001A805-0001AC0A-00
+;0001A805{+New Game=Continue~00~}#022#019
++Empezar=Continuar~00~#019
+;0001A818{+No save data found~00~}#023#020
++No hay datos.\    ~00~#020
+;0001A82C{+What have I done?~00~}#022#019
++¿Qué he hecho?\  ~00~#019
+;0001A83F{+I feel sick...~00~}#019#016
++Me s{ie}nto m{al}{..}.\~00~#016
+;0001A84F{+...~00~}#008#005
++...~00~#005
+;0001A854{*I might=have been=sleeping for days.~00~}#041#038
+*Puede que haya=dormido durante=días.~00~#038
+;0001A87A{*When I woke=up, there was=this corpse...~00~}#045#042
+*Cuando me levanto,=hay este=cadáver...\ ~00~#042
+;0001A8A4{+Who is that?~00~}#017#014
++¿Quién es?\ ~00~#014
+;0001A8B2{+Save progress=Load last saving~00~}#035#032
++Guardar partida=Cargar partida~00~#032
+;0001A8D2{+Successfully saved~00~}#023#020
++Guardado correcto.~00~#020
+;0001A8E6{*There's a note=hanging out of the=bookshelf...~00~}#051#048
+*Hay una nota=colgando de la=estantería...\    ~00~#048
+;0001A916{*"Press Start to=open the=save menu."~00~}#041#038
++"Pulsa Start para=abrir el menú."\  ~00~#038
+;0001A93C{+Weird!~00~}#011#008
++¡Raro!~00~#008
+;0001A944{*I am too afraid to=look under the=sheet...~00~}#047#044
+*Me aterroriza=mirar debajo de la=sábana...~00~#044
+;0001A970{*I could use the=scissors to cut=the couch open.~00~}#052#049
+*Podría usar las=tijeras para abrir=el sofá.\   ~00~#049
+;0001A9A1{+Shall I cut the=fabric?~00~}#028#025
++¿Debería cortar {la}=tela?~00~#025
+;0001A9BA{+Yes=No~00~}#011#008
++Sí =No~00~#008
+;0001A9C2{+Oh! There's a key=inside the couch!~00~}#040#037
+*¡Oh! ¡Hay una={ll}ave dentro del=sofá!~00~#037
+;0001A9E7{+The couch is old.~00~}#022#019
++El sofá es viejo.~00~#019
+;0001A9FA{+It consists only=of patches.~00~}#033#030
++Está hecho solo de=recortes.~00~#030
+;0001AA18{*"Four Past=Midnight" by=Stephen King...~00~}#044#041
+*"Four Past=Midnight" de=Stephen King...~00~#041
+;0001AA41{+"The Big Four" by=Agatha Christie...~00~}#041#038
++"The Big Four" de=Agatha Christie...~00~#038
+;0001AA67{*"The Sign of the=Four" by Arthur=Conan Doyle...~00~}#052#049
+*"The Sign of the=Four" de Arthur=Conan Doyle...~00~#049
+;0001AA98{*I don't feel like=reading at the=moment.~00~}#045#042
++No me apetece leer=por el momento.\     ~00~#042
+;0001AAC2{+This dresser is=empty. ~00~}#028#025
++Esta cómoda está=vacía.~00~#025
+;0001AADB{*She's so strange=and yet so=beautiful.~00~}#043#040
+*E{ll}a es tan rara y=aún y así tan=bella.~00~#040
+;0001AB03{*She was small and=cute when I found=her.~00~}#045#042
+*Era pequeña y mona=cuando la=encontré.\ ~00~#042
+;0001AB2D{*But as I fed her=she grew bigger=and bigger.~00~}#049#046
+*Pero mientras la=alimentaba creció=y creció.~00~#046
+;0001AB5B{+I don't need to=go to the toilet.~00~}#038#035
++No necesito ir al=baño.\         ~00~#035
+;0001AB7E{+Wait! What's that?~00~}#023#020
++¡Eh! ¿Qué es eso?\~00~#020
+;0001AB92{*There is a plastic=bag in the=cistern!~00~}#043#040
+*¡Hay una b{ol}sa de=plás{ti}co en {la}={ci}sterna!~00~#040
+;0001ABBA{*I can feel=something in the=bag...~00~}#039#036
++Siento algo dentro=de la bolsa...\~00~#036
+;0001ABDE{+It's a key!~00~}#016#013
++¡Una llave!~00~#013
+;0001ABEB{+The darkness is=all around me.~00~}#035#032
++La oscuridad me=rodea.\       ~00~#032
+|1030
+@0001AC0B-0001B00D-00
+;0001AC0B{+I could get into=the bathtub and~00~}#037#034
++Podría meterme en=la bañera y\  ~00~#034
+;0001AC2D{+take the radio=with me...~00~}#030#027
++traerme la=radio...\     ~00~#027
+;0001AC48{+...switch it on=and...~00~}#027#024
++...encenderla=y...\   ~00~#024
+;0001AC60{+Or I cut my wrists=open. ~00~}#030#027
++O me corto las=muñecas.\ ~00~#027
+;0001AC7B{*Everything=feels senseless=since she's gone.~00~}#049#046
+*Todo se s{ie}nte {si}n=sen{ti}do desde que={el}{la} se fue.~00~#046
+;0001ACA9{+Or I cut my wrists=open.~00~}#029#026
++O me corto las=muñecas.\~00~#026
+;0001ACC3{+The two towels are=perfectly clean.~00~}#040#037
++Las dos toallas=están impolutas.\  ~00~#037
+;0001ACE8{+Perfectly.~00~}#015#012
++Perfectas.~00~#012
+;0001ACF4{+It is hard to look=you in the eye.~00~}#039#036
++Es difícil mirarte=a los ojos.\   ~00~#036
+;0001AD18{+I can't take it.~00~}#021#018
++No lo soporto.\ ~00~#018
+;0001AD2A{+I can't take it=any longer.~00~}#032#029
++Ya no lo soporto=más.\     ~00~#029
+;0001AD47{+The radiator isn't=working.~00~}#032#029
++El radiador no=funciona.\  ~00~#029
+;0001AD64{+A little boy once=told me:~00~}#031#028
++Un niño me dijo=una vez:\ ~00~#028
+;0001AD80{*"When they get=mad, it gets=cold."~00~}#039#036
+*"Cuando se=enfadan,=se enfrían."\ ~00~#036
+;0001ADA4{*I never understood=what he tried to=tell me...~00~}#051#048
+*Nunca entendí lo=que intentaba=contarme...\   ~00~#048
+;0001ADD4{+I could get in=the bathtub...~00~}#034#031
++Podría entrar en=la bañera...~00~#031
+;0001ADF3{+Take scissors with=me...~00~}#029#026
++Llevarme las=tijeras...\~00~#026
+;0001AE0D{*But I'm too=scared to kill=myself.~00~}#039#036
++Pero me da miedo=suicidarme.\     ~00~#036
+;0001AE31{+I'm a failure.~00~}#019#016
++Soy un fra{[ca}{as]}o.~00~#016
+;0001AE41{+Maybe I should go=to bed now.~00~}#034#031
++Quizá debería irme=a la cama.~00~#031
+;0001AE60{*Lenore... My=beautiful=Lenore...~00~}#037#034
+*Lenore...=Mi hermosa=Lenore...\ ~00~#034
+;0001AE82{+I can still smell=her perfume...~00~}#037#034
++Aún puedo oler su=perfume...\   ~00~#034
+;0001AEA4{*I am tired but I=don't want to go=to bed yet.~00~}#050#047
+*Estoy cansado pero=aún no qu{ie}ro {ir}me a=dormir.~00~#047
+;0001AED3{+I am too afraid of=my dreams...~00~}#036#033
++Me aterran mis=sueños...\      ~00~#033
+;0001AEF4{+This was her=dresser.~00~}#026#023
++Esta era su=cómoda.\ ~00~#023
+;0001AF0B{*I bought her the=most beautiful=dresses...~00~}#047#044
+*Le compré los=vestidos más=bonitos...\    ~00~#044
+;0001AF37{+This is my=dresser.~00~}#024#021
++Esta es mi cómoda.\~00~#021
+;0001AF4C{+Ouch!~00~}#010#007
++¡Ayy!~00~#007
+;0001AF53{+Fabric scissors...~00~}#023#020
++Tijeras de tela...~00~#020
+;0001AF67{+Shall I take them=with me?~00~}#031#028
++¿Debería=llevármelas?\    ~00~#028
+;0001AF83{+Take scissors=Shut the dresser~00~}#035#032
++Tomar tijeras=Cerrar la cómoda~00~#032
+;0001AFA3{*Anything but=clothes that I=don't wear anyway.~00~}#051#048
+*Nada excepto ropa=que ya no me=pongo.\        ~00~#048
+;0001AFD3{+I better try to=sleep now.~00~}#031#028
++Mejor intento=dormir ya.\ ~00~#028
+;0001AFEF{+Hello darkness my=old friend.~00~}#034#031
++Hola oscuridad mi=v{ie}ja amiga.~00~#031
+|1027
+@0001B00E-0001B417-00
+;0001B00E{+The door is=locked.~00~}#024#021
++Una puerta=cerrada.~00~#021
+;0001B023{*It has been locked=since I rented=this house.~00~}#050#047
+*Ha estado cerrada=desde que alqu{il}é=esta casa.~00~#047
+;0001B052{+Seems like the key=fits!~00~}#029#026
++¡La {ll}ave parece=encajar!~00~#026
+;0001B06C{*The door to the=garage is=locked.~00~}#038#035
+*La puerta al=garaje está=cerrada.~00~#035
+;0001B08F{*I can't remember=where I lost my=key...~00~}#044#041
++No recuerdo donde=perdí la llave...\   ~00~#041
+;0001B0B8{+Sometimes a light=can lead you...~00~}#038#035
++A veces una luz=puede guiarte...\~00~#035
+;0001B0DB{+But most of the=time it doesn't.~00~}#037#034
++Pero la mayoría=del tiempo no.\ ~00~#034
+;0001B0FD{+I borrowed this=ladder from Jacob.~00~}#039#036
++Esta escalera me=la prestó Jacob.\~00~#036
+;0001B121{+I will not climb=it. ~00~}#026#023
++No me subiré.\       ~00~#023
+;0001B138{+I am afraid of=heights.~00~}#028#025
++Tengo m{ie}do a {la}s={al}turas.~00~#025
+;0001B151{+Those cracks go=deep.~00~}#026#023
++Grietas profundas.\  ~00~#023
+;0001B168{+These books look=so old...~00~}#031#028
++Los {li}bros parecen=v{ie}jos...~00~#028
+;0001B184{*They must belong=to the previous=owner~00~}#043#040
+*Deben pertenecer=al dueño anterior=de ~00~#040
+;0001B1AC{+of this house.~00~}#019#016
++esta casa.\   ~00~#016
+;0001B1BC{+Mother! Oh God,=mother! Blood!~00~}#035#032
++¡Madre! Dios,=¡madre! ¡Sangre!~00~#032
+;0001B1DC{+Ugh, those webs=are huge...~00~}#032#029
++Esas redes son=grandes...\ ~00~#029
+;0001B1F9{+Kind of...~00~}#015#012
++Parece...\~00~#012
+;0001B205{+...supernatural!~00~}#021#018
++{..}.¡sobrenatural!~00~#018
+;0001B217{+The bricks seem to=be lose...~00~}#034#031
++Esos {la}dri{ll}os=parecen su{el}tos{..}.~00~#031
+;0001B236{+I think I can push=them aside!~00~}#035#032
++¡Creo que puedo=apartarlos!\  ~00~#032
+;0001B256{*Shall I crawl=through=the hole~00~}#035#032
+*¿Debería gatear=por el=agujero~00~#032
+;0001B276{+in the wall?~00~}#017#014
++del muro?\  ~00~#014
+;0001B284{+Isabelle...~00~}#016#013
++Isabelle...~00~#013
+;0001B291{+Ellen...~00~}#013#010
++Ellen...~00~#010
+;0001B29B{+Nancy...~00~}#013#010
++Nancy...~00~#010
+;0001B2A5{+Regan...~00~}#013#010
++Regan...~00~#010
+;0001B2AF{+Esther...~00~}#014#011
++Esther...~00~#011
+;0001B2BA{+My radio...~00~}#016#013
++Mi radio...~00~#013
+;0001B2C7{*The=batteries are=empty.~00~}#029#026
++La batería está=gastada.~00~#026
+;0001B2E1{+I feel dizzy...~00~}#020#017
++Estoy mareado{..}.~00~#017
+;0001B2F2{+Maybe I should=take a rest...~00~}#034#031
++Quizá debería=descansar...\  ~00~#031
+;0001B311{+A photo of a young=woman...~00~}#032#029
++Una foto de una=joven...\  ~00~#029
+;0001B32E{+She is brunette.~00~}#021#018
++Es morena.\     ~00~#018
+;0001B340{+A box of wine=bottles.~00~}#027#024
++Unas botellas de=vino.~00~#024
+;0001B358{+Drip drip drip=drip drip...~00~}#032#029
++Pluip pluip pluip=pluip...\~00~#029
+;0001B375{+I need a key!~00~}#018#015
++¡Falta llave!~00~#015
+;0001B384{*I think the key=from inside the=couch fits!~00~}#048#045
+*¡Creo que {la} {ll}ave=de dentro del sofá=encaja!~00~#045
+;0001B3B1{+Shall I try?~00~}#017#014
++¿Lo intento?~00~#014
+;0001B3BF{+The door opens!~00~}#020#017
++¡Se ha abierto!~00~#017
+;0001B3D0{+It is so cold in=here...~00~}#029#026
++Aquí también hace=frío{..}.~00~#026
+;0001B3EA{+I can see my=breath...~00~}#027#024
++Puedo ver mi=aliento{..}.~00~#024
+;0001B402{+3 am~00~}#009#006
++3 am~00~#006
+;0001B408{+Did she blink?~00~}#019#016
++¿E{ll}a pestañeó?~00~#016
+|1034
+@0001B418-0001B832-00
+;0001B418{+When I look at=these clothes...~00~}#036#033
++Cuando miro esta=ropa...\      ~00~#033
+;0001B439{*it is getting=clearer and=clearer to me...~00~}#047#044
++se me hace más y=más claro...\            ~00~#044
+;0001B465{+...how ungrateful=she really was.~00~}#038#035
++...cuan ingrata=era {el}{la} realmente.~00~#035
+;0001B488{+I don't need to at=the moment.~00~}#035#032
++Ahora no lo=necesito.\        ~00~#032
+;0001B4A8{*I don't feel like=reading at the=moment~00~}#044#041
+*No tengo ganas de=leer en este=momento.~00~#041
+;0001B4D1{+Where is my bed=sheet?~00~}#027#024
++¿Dónde está mi=sábana?~00~#024
+;0001B4E9{+She is aging!~00~}#018#015
++¡Envejece!\  ~00~#015
+;0001B4F8{+This dresser is=empty.~00~}#027#024
++La cómoda está=vacía.\~00~#024
+;0001B510{*Seems like the=batteries are=empty.~00~}#040#037
+*Parece que la=batería está=vacía.\ ~00~#037
+;0001B535{+She is wearing red=nail polish...~00~}#038#035
++Lleva esmalte de=uñas rojo...\   ~00~#035
+;0001B558{+Like on our first=date...~00~}#030#027
++Como en la primera=cita{..}.~00~#027
+;0001B573{+How can that be?!~00~}#022#019
++¿Cómo puede ser?\~00~#019
+;0001B586{+Her fingers...~00~}#019#016
++Sus dedos...\ ~00~#016
+;0001B596{+So white...~00~}#016#013
++Tan b{la}nca{..}.~00~#013
+;0001B5A3{+So innocent...~00~}#019#016
++Tan inocente{..}.~00~#016
+;0001B5B3{*She's holding=something in her=hand!~00~}#041#038
++¡Tiene algo en la=mano!\            ~00~#038
+;0001B5D9{+Batteries...~00~}#017#014
++Batería...\ ~00~#014
+;0001B5E7{+Take batteries=Leave her alone~00~}#035#032
++Tomar batería=Dejarla en paz\ ~00~#032
+;0001B607{+The batteries fit!~00~}#023#020
++¡La batería entra!~00~#020
+;0001B61B{+"..."~00~}#010#007
++"..."~00~#007
+;0001B622{*"...a woman got=hit=by a car."~00~}#035#032
++"...una mujer fue=atrope{ll}ada."~00~#032
+;0001B642{*"There is no trace=of the woman or=the driver."~00~}#052#049
+*"No hay rastro de=la mujer ni del=conductor."\ ~00~#049
+;0001B673{+"Los Angeles."~00~}#019#016
++"Los Ángeles."~00~#016
+;0001B683{+"Dick Laurent is=dead."~00~}#028#025
++"Dick Laurent=murió."\ ~00~#025
+;0001B69C{+The radio went off=again.~00~}#030#027
++La rad{io} v{ol}vió a=apagarse.~00~#027
+;0001B6B7{*Seems like the=radio isn't=working anymore!~00~}#048#045
+*¡Parece que la=radio ya no=funciona!\      ~00~#045
+;0001B6E4{+The flame is=hypnotizing...~00~}#032#029
++La llama es=hipnótica...\  ~00~#029
+;0001B701{+The door is=open...~00~}#024#021
++Una pue{rt}a=abie{rt}a...~00~#021
+;0001B716{+Who the fuck=opened it?~00~}#028#025
++¿Quién coño la=abrió?\ ~00~#025
+;0001B72F{+Her perfume seems=to fade away...~00~}#038#035
++Su perfume parece=desvanecerse...~00~#035
+;0001B752{+Why did you do=that to me?~00~}#031#028
++¿Por qué me=hiciste eso?\ ~00~#028
+;0001B76E{+Fuck! The door is=locked!~00~}#030#027
++¡Joder!=¡Puerta cerrada!\~00~#027
+;0001B789{+What's that noise?~00~}#023#020
++¿Qué es ese ruido?~00~#020
+;0001B79D{*Sounds like an=animal tearing=its prey apart!~00~}#050#047
+*¡Parece un animal=desgarrando a su=presa!\   ~00~#047
+;0001B7CC{+Oh my god...~00~}#017#014
++Oh dios...\ ~00~#014
+;0001B7DA{*Should I take the=sheet off the=spider?~00~}#044#041
+*¿Debería quitarle=la sábana a la=araña?~00~#041
+;0001B803{+FBI! Freeze!~00~}#017#014
++¡Alto! ¡FBI!~00~#014
+;0001B811{+Put your hands=behind your head.~00~}#037#034
+*Pon {la}s manos=detrás de {la}=cabeza.~00~#034
+|1051
+@0001B833-0001BC48-00
+;0001B833{+You are busted,=buddy.~00~}#027#024
++Estás arrestado=amigo.~00~#024
+;0001B84B{+You killed them=all, Jack!~00~}#031#028
++¡Las mataste a=todas Jack!~00~#028
+;0001B867{*All your=girlfriends are=dead!~00~}#035#032
++¡Todas tus nov{ia}s=están mue{rt}as!~00~#032
+;0001B887{+This is the last=warning!~00~}#030#027
++¡Este es el último=aviso!~00~#027
+;0001B8A2{+Put your hands up=or we will shoot!~00~}#040#037
++¡Arriba las manos=o dispararemos!\ ~00~#037
+;0001B8C7{+We know what you=did, Jack! ~00~}#033#030
++¡Sabemos lo que=hi{ci}ste Jack!~00~#030
+;0001B8E5{+There is no way=out!~00~}#025#022
++¡No hay salida!\    ~00~#022
+;0001B8FB{+They're probably=watching me. ~00~}#035#032
++Probablemente me=observen.\   ~00~#032
+;0001B91B{+Well,=let them.~00~}#020#017
++Bueno,=déjales.~00~#017
+;0001B92C{*Let them see what=kind of a person I=am.~00~}#045#042
+*Deja que vean que=tipo de persona=soy.\ ~00~#042
+;0001B956{+I'm not even going=to swat a fly. ~00~}#039#036
+*No voy ni a=aplastar a una=mosca.\~00~#036
+;0001B97A{*I hope they are=watching. They'll=see.~00~}#043#040
+*Espero que estén=mirando.=Ya verán.\  ~00~#040
+;0001B9A2{+They'll see and=they'll know.~00~}#034#031
++Lo verán y lo=sabrán.\       ~00~#031
+;0001B9C1{*And they'll say,="Why, she wouldn't=even harm a fly."~00~}#058#055
+*Y dirán, "¿Por=qué?, no dañaría=ni a una mosca."\    ~00~#055
+;0001B9F8{+We all go a little=mad sometimes.~00~}#038#035
++Todos enloquecemos=algo a veces.\~00~#035
+;0001BA1B{*Wrap the sheet=around me to get=warm?~00~}#042#039
++¿Ponerme la sábana=para calentarme?\ ~00~#039
+;0001BA42{+I need to sit=down. I feel weak.~00~}#037#034
++Nece{si}to sentarme.=Me {si}ento déb{il}.~00~#034
+;0001BA64{+I've come to talk=with you again.~00~}#038#035
++Vine a hablar=contigo de nuevo.\ ~00~#035
+;0001BA87{*The wind is=blowing through=those bars.~00~}#044#041
+*El viento sopla=entre estos=barrotes.\ ~00~#041
+;0001BAB0{*They want me to=freeze to=death.~00~}#037#034
++Quieren que muera=congelado.\   ~00~#034
+;0001BAD2{+She's dead!~00~}#016#013
++¡Ha muerto!~00~#013
+;0001BADF{+Everyone is a=moon, ~00~}#025#022
++Todos son una=luna,\~00~#022
+;0001BAF5{+and has a dark=side~00~}#024#021
++y tienen una cara\ ~00~#021
+;0001BB0A{+which he never=shows to anybody.~00~}#037#034
++oculta que no=muestran a nadie.\~00~#034
+;0001BB2C{+Blood...~00~}#013#010
++Sangre{..}.~00~#010
+;0001BB36{+I think I can=hear a voice...~00~}#034#031
++Creo que escucho=una voz...\ ~00~#031
+;0001BB55{+"BEEP BEEP Jack!"~00~}#022#019
++"¡BIP BIP Jack!"\~00~#019
+;0001BB68{+"They ALL float=down here!"~00~}#032#029
++"¡Todos FLOTAN=aquí abajo!"~00~#029
+;0001BB85{+"When you're down=here with us,~00~}#036#033
++"Cuando estés con=nosotros,\   ~00~#033
+;0001BBA6{+you'll float,=too!"~00~}#024#021
++¡también=flotarás!"~00~#021
+;0001BBBB{*The moon looks=like a blood-red=balloon...~00~}#047#044
+*La luna parece un=globo=rojo-sangre...\   ~00~#044
+;0001BBE7{+The mirror is=clouded.~00~}#027#024
++El espejo está=nub{la}do.~00~#024
+;0001BBFF{+I can't see=anything.~00~}#026#023
++No puedo ver nada.\  ~00~#023
+;0001BC16{+The towels look=dirty.~00~}#027#024
++Las to{al}{la}s lucen=su{ci}as.~00~#024
+;0001BC2E{+The radiator feels=hot...~00~}#030#027
++El radiador está=cálido..~00~#027
+|1046

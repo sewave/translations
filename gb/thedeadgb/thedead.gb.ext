@@ -1,0 +1,376 @@
+@0001A805-0001A853-00
+;0001A805{+New Game=Continue~00~}#022#019
++New Game=Continue~00~#019
+;0001A818{+No save data found~00~}#023#020
++No save data found~00~#020
+;0001A82C{+What have I done?~00~}#022#019
++What have I done?~00~#019
+;0001A83F{+I feel sick...~00~}#019#016
++I feel sick...~00~#016
+;0001A84F{+...~00~}#008#005
++...~00~#005
+|79
+@0001A855-0001B621-00
+;0001A855{I might=have been=sleeping for days.~00~}#040#037
+I might=have been=sleeping for days.~00~#037
+;0001A87A{~03~When I woke=up, there was=this corpse...~00~}#048#042
+~03~When I woke=up, there was=this corpse...~00~#042
+;0001A8A4{+Who is that?~00~}#017#014
++Who is that?~00~#014
+;0001A8B2{+Save progress=Load last saving~00~}#035#032
++Save progress=Load last saving~00~#032
+;0001A8D2{+Successfully saved~00~}#023#020
++Successfully saved~00~#020
+;0001A8E6{~03~There's a note=hanging out of the=bookshelf...~00~}#054#048
+~03~There's a note=hanging out of the=bookshelf...~00~#048
+;0001A916{~03~"Press Start to=open the=save menu."~00~}#044#038
+~03~"Press Start to=open the=save menu."~00~#038
+;0001A93C{+Weird!~00~}#011#008
++Weird!~00~#008
+;0001A944{~03~I am too afraid to=look under the=sheet...~00~}#050#044
+~03~I am too afraid to=look under the=sheet...~00~#044
+;0001A970{~03~I could use the=scissors to cut=the couch open.~00~}#055#049
+~03~I could use the=scissors to cut=the couch open.~00~#049
+;0001A9A1{+Shall I cut the=fabric?~00~}#028#025
++Shall I cut the=fabric?~00~#025
+;0001A9BA{+Yes=No~00~}#011#008
++Yes=No~00~#008
+;0001A9C2{+Oh! There's a key=inside the couch!~00~}#040#037
++Oh! There's a key=inside the couch!~00~#037
+;0001A9E7{+The couch is old.~00~}#022#019
++The couch is old.~00~#019
+;0001A9FA{+It consists only=of patches.~00~}#033#030
++It consists only=of patches.~00~#030
+;0001AA18{~03~"Four Past=Midnight" by=Stephen King...~00~}#047#041
+~03~"Four Past=Midnight" by=Stephen King...~00~#041
+;0001AA41{+"The Big Four" by=Agatha Christie...~00~}#041#038
++"The Big Four" by=Agatha Christie...~00~#038
+;0001AA67{~03~"The Sign of the=Four" by Arthur=Conan Doyle...~00~}#055#049
+~03~"The Sign of the=Four" by Arthur=Conan Doyle...~00~#049
+;0001AA98{~03~I don't feel like=reading at the=moment.~00~}#048#042
+~03~I don't feel like=reading at the=moment.~00~#042
+;0001AAC2{+This dresser is=empty. ~00~}#028#025
++This dresser is=empty. ~00~#025
+;0001AADB{~03~She's so strange=and yet so=beautiful.~00~}#046#040
+~03~She's so strange=and yet so=beautiful.~00~#040
+;0001AB03{~03~She was small and=cute when I found=her.~00~}#048#042
+~03~She was small and=cute when I found=her.~00~#042
+;0001AB2D{~03~But as I fed her=she grew bigger=and bigger.~00~}#052#046
+~03~But as I fed her=she grew bigger=and bigger.~00~#046
+;0001AB5B{+I don't need to=go to the toilet.~00~}#038#035
++I don't need to=go to the toilet.~00~#035
+;0001AB7E{+Wait! What's that?~00~}#023#020
++Wait! What's that?~00~#020
+;0001AB92{~03~There is a plastic=bag in the=cistern!~00~}#046#040
+~03~There is a plastic=bag in the=cistern!~00~#040
+;0001ABBA{~03~I can feel=something in the=bag...~00~}#042#036
+~03~I can feel=something in the=bag...~00~#036
+;0001ABDE{+It's a key!~00~}#016#013
++It's a key!~00~#013
+;0001ABEB{+The darkness is=all around me.~00~}#035#032
++The darkness is=all around me.~00~#032
+;0001AC0B{+I could get into=the bathtub and~00~}#037#034
++I could get into=the bathtub and~00~#034
+;0001AC2D{+take the radio=with me...~00~}#030#027
++take the radio=with me...~00~#027
+;0001AC48{+...switch it on=and...~00~}#027#024
++...switch it on=and...~00~#024
+;0001AC60{+Or I cut my wrists=open. ~00~}#030#027
++Or I cut my wrists=open. ~00~#027
+;0001AC7B{~03~Everything=feels senseless=since she's gone.~00~}#052#046
+~03~Everything=feels senseless=since she's gone.~00~#046
+;0001ACA9{+Or I cut my wrists=open.~00~}#029#026
++Or I cut my wrists=open.~00~#026
+;0001ACC3{+The two towels are=perfectly clean.~00~}#040#037
++The two towels are=perfectly clean.~00~#037
+;0001ACE8{+Perfectly.~00~}#015#012
++Perfectly.~00~#012
+;0001ACF4{+It is hard to look=you in the eye.~00~}#039#036
++It is hard to look=you in the eye.~00~#036
+;0001AD18{+I can't take it.~00~}#021#018
++I can't take it.~00~#018
+;0001AD2A{+I can't take it=any longer.~00~}#032#029
++I can't take it=any longer.~00~#029
+;0001AD47{+The radiator isn't=working.~00~}#032#029
++The radiator isn't=working.~00~#029
+;0001AD64{+A little boy once=told me:~00~}#031#028
++A little boy once=told me:~00~#028
+;0001AD80{~03~"When they get=mad, it gets=cold."~00~}#042#036
+~03~"When they get=mad, it gets=cold."~00~#036
+;0001ADA4{~03~I never understood=what he tried to=tell me...~00~}#054#048
+~03~I never understood=what he tried to=tell me...~00~#048
+;0001ADD4{+I could get in=the bathtub...~00~}#034#031
++I could get in=the bathtub...~00~#031
+;0001ADF3{+Take scissors with=me...~00~}#029#026
++Take scissors with=me...~00~#026
+;0001AE0D{~03~But I'm too=scared to kill=myself.~00~}#042#036
+~03~But I'm too=scared to kill=myself.~00~#036
+;0001AE31{+I'm a failure.~00~}#019#016
++I'm a failure.~00~#016
+;0001AE41{+Maybe I should go=to bed now.~00~}#034#031
++Maybe I should go=to bed now.~00~#031
+;0001AE60{~03~Lenore... My=beautiful=Lenore...~00~}#040#034
+~03~Lenore... My=beautiful=Lenore...~00~#034
+;0001AE82{+I can still smell=her perfume...~00~}#037#034
++I can still smell=her perfume...~00~#034
+;0001AEA4{~03~I am tired but I=don't want to go=to bed yet.~00~}#053#047
+~03~I am tired but I=don't want to go=to bed yet.~00~#047
+;0001AED3{+I am too afraid of=my dreams...~00~}#036#033
++I am too afraid of=my dreams...~00~#033
+;0001AEF4{+This was her=dresser.~00~}#026#023
++This was her=dresser.~00~#023
+;0001AF0B{~03~I bought her the=most beautiful=dresses...~00~}#050#044
+~03~I bought her the=most beautiful=dresses...~00~#044
+;0001AF37{+This is my=dresser.~00~}#024#021
++This is my=dresser.~00~#021
+;0001AF4C{+Ouch!~00~}#010#007
++Ouch!~00~#007
+;0001AF53{+Fabric scissors...~00~}#023#020
++Fabric scissors...~00~#020
+;0001AF67{+Shall I take them=with me?~00~}#031#028
++Shall I take them=with me?~00~#028
+;0001AF83{+Take scissors=Shut the dresser~00~}#035#032
++Take scissors=Shut the dresser~00~#032
+;0001AFA3{~03~Anything but=clothes that I=don't wear anyway.~00~}#054#048
+~03~Anything but=clothes that I=don't wear anyway.~00~#048
+;0001AFD3{+I better try to=sleep now.~00~}#031#028
++I better try to=sleep now.~00~#028
+;0001AFEF{+Hello darkness my=old friend.~00~}#034#031
++Hello darkness my=old friend.~00~#031
+;0001B00E{+The door is=locked.~00~}#024#021
++The door is=locked.~00~#021
+;0001B023{~03~It has been locked=since I rented=this house.~00~}#053#047
+~03~It has been locked=since I rented=this house.~00~#047
+;0001B052{+Seems like the key=fits!~00~}#029#026
++Seems like the key=fits!~00~#026
+;0001B06C{~03~The door to the=garage is=locked.~00~}#041#035
+~03~The door to the=garage is=locked.~00~#035
+;0001B08F{~03~I can't remember=where I lost my=key...~00~}#047#041
+~03~I can't remember=where I lost my=key...~00~#041
+;0001B0B8{+Sometimes a light=can lead you...~00~}#038#035
++Sometimes a light=can lead you...~00~#035
+;0001B0DB{+But most of the=time it doesn't.~00~}#037#034
++But most of the=time it doesn't.~00~#034
+;0001B0FD{+I borrowed this=ladder from Jacob.~00~}#039#036
++I borrowed this=ladder from Jacob.~00~#036
+;0001B121{+I will not climb=it. ~00~}#026#023
++I will not climb=it. ~00~#023
+;0001B138{+I am afraid of=heights.~00~}#028#025
++I am afraid of=heights.~00~#025
+;0001B151{+Those cracks go=deep.~00~}#026#023
++Those cracks go=deep.~00~#023
+;0001B168{+These books look=so old...~00~}#031#028
++These books look=so old...~00~#028
+;0001B184{~03~They must belong=to the previous=owner~00~}#046#040
+~03~They must belong=to the previous=owner~00~#040
+;0001B1AC{+of this house.~00~}#019#016
++of this house.~00~#016
+;0001B1BC{+Mother! Oh God,=mother! Blood!~00~}#035#032
++Mother! Oh God,=mother! Blood!~00~#032
+;0001B1DC{+Ugh, those webs=are huge...~00~}#032#029
++Ugh, those webs=are huge...~00~#029
+;0001B1F9{+Kind of...~00~}#015#012
++Kind of...~00~#012
+;0001B205{+...supernatural!~00~}#021#018
++...supernatural!~00~#018
+;0001B217{+The bricks seem to=be lose...~00~}#034#031
++The bricks seem to=be lose...~00~#031
+;0001B236{+I think I can push=them aside!~00~}#035#032
++I think I can push=them aside!~00~#032
+;0001B256{~03~Shall I crawl=through=the hole~00~}#038#032
+~03~Shall I crawl=through=the hole~00~#032
+;0001B276{+in the wall?~00~}#017#014
++in the wall?~00~#014
+;0001B284{+Isabelle...~00~}#016#013
++Isabelle...~00~#013
+;0001B291{+Ellen...~00~}#013#010
++Ellen...~00~#010
+;0001B29B{+Nancy...~00~}#013#010
++Nancy...~00~#010
+;0001B2A5{+Regan...~00~}#013#010
++Regan...~00~#010
+;0001B2AF{+Esther...~00~}#014#011
++Esther...~00~#011
+;0001B2BA{+My radio...~00~}#016#013
++My radio...~00~#013
+;0001B2C7{~03~The=batteries are=empty.~00~}#032#026
+~03~The=batteries are=empty.~00~#026
+;0001B2E1{+I feel dizzy...~00~}#020#017
++I feel dizzy...~00~#017
+;0001B2F2{+Maybe I should=take a rest...~00~}#034#031
++Maybe I should=take a rest...~00~#031
+;0001B311{+A photo of a young=woman...~00~}#032#029
++A photo of a young=woman...~00~#029
+;0001B32E{+She is brunette.~00~}#021#018
++She is brunette.~00~#018
+;0001B340{+A box of wine=bottles.~00~}#027#024
++A box of wine=bottles.~00~#024
+;0001B358{+Drip drip drip=drip drip...~00~}#032#029
++Drip drip drip=drip drip...~00~#029
+;0001B375{+I need a key!~00~}#018#015
++I need a key!~00~#015
+;0001B384{~03~I think the key=from inside the=couch fits!~00~}#051#045
+~03~I think the key=from inside the=couch fits!~00~#045
+;0001B3B1{+Shall I try?~00~}#017#014
++Shall I try?~00~#014
+;0001B3BF{+The door opens!~00~}#020#017
++The door opens!~00~#017
+;0001B3D0{+It is so cold in=here...~00~}#029#026
++It is so cold in=here...~00~#026
+;0001B3EA{+I can see my=breath...~00~}#027#024
++I can see my=breath...~00~#024
+;0001B402{+3 am~00~}#009#006
++3 am~00~#006
+;0001B408{+Did she blink?~00~}#019#016
++Did she blink?~00~#016
+;0001B418{+When I look at=these clothes...~00~}#036#033
++When I look at=these clothes...~00~#033
+;0001B439{~03~it is getting=clearer and=clearer to me...~00~}#050#044
+~03~it is getting=clearer and=clearer to me...~00~#044
+;0001B465{+...how ungrateful=she really was.~00~}#038#035
++...how ungrateful=she really was.~00~#035
+;0001B488{+I don't need to at=the moment.~00~}#035#032
++I don't need to at=the moment.~00~#032
+;0001B4A8{~03~I don't feel like=reading at the=moment~00~}#047#041
+~03~I don't feel like=reading at the=moment~00~#041
+;0001B4D1{+Where is my bed=sheet?~00~}#027#024
++Where is my bed=sheet?~00~#024
+;0001B4E9{+She is aging!~00~}#018#015
++She is aging!~00~#015
+;0001B4F8{+This dresser is=empty.~00~}#027#024
++This dresser is=empty.~00~#024
+;0001B510{~03~Seems like the=batteries are=empty.~00~}#043#037
+~03~Seems like the=batteries are=empty.~00~#037
+;0001B535{+She is wearing red=nail polish...~00~}#038#035
++She is wearing red=nail polish...~00~#035
+;0001B558{+Like on our first=date...~00~}#030#027
++Like on our first=date...~00~#027
+;0001B573{+How can that be?!~00~}#022#019
++How can that be?!~00~#019
+;0001B586{+Her fingers...~00~}#019#016
++Her fingers...~00~#016
+;0001B596{+So white...~00~}#016#013
++So white...~00~#013
+;0001B5A3{+So innocent...~00~}#019#016
++So innocent...~00~#016
+;0001B5B3{~03~She's holding=something in her=hand!~00~}#044#038
+~03~She's holding=something in her=hand!~00~#038
+;0001B5D9{+Batteries...~00~}#017#014
++Batteries...~00~#014
+;0001B5E7{+Take batteries=Leave her alone~00~}#035#032
++Take batteries=Leave her alone~00~#032
+;0001B607{+The batteries fit!~00~}#023#020
++The batteries fit!~00~#020
+;0001B61B{+"..."~00~}#010#007
++"..."~00~#007
+|3533
+@0001B623-0001BC4C-00
+;0001B623{"...a woman got=hit=by a car."~00~}#034#031
+"...a woman got=hit=by a car."~00~#031
+;0001B642{~03~"There is no trace=of the woman or=the driver."~00~}#055#049
+~03~"There is no trace=of the woman or=the driver."~00~#049
+;0001B673{+"Los Angeles."~00~}#019#016
++"Los Angeles."~00~#016
+;0001B683{+"Dick Laurent is=dead."~00~}#028#025
++"Dick Laurent is=dead."~00~#025
+;0001B69C{+The radio went off=again.~00~}#030#027
++The radio went off=again.~00~#027
+;0001B6B7{~03~Seems like the=radio isn't=working anymore!~00~}#051#045
+~03~Seems like the=radio isn't=working anymore!~00~#045
+;0001B6E4{+The flame is=hypnotizing...~00~}#032#029
++The flame is=hypnotizing...~00~#029
+;0001B701{+The door is=open...~00~}#024#021
++The door is=open...~00~#021
+;0001B716{+Who the fuck=opened it?~00~}#028#025
++Who the fuck=opened it?~00~#025
+;0001B72F{+Her perfume seems=to fade away...~00~}#038#035
++Her perfume seems=to fade away...~00~#035
+;0001B752{+Why did you do=that to me?~00~}#031#028
++Why did you do=that to me?~00~#028
+;0001B76E{+Fuck! The door is=locked!~00~}#030#027
++Fuck! The door is=locked!~00~#027
+;0001B789{+What's that noise?~00~}#023#020
++What's that noise?~00~#020
+;0001B79D{~03~Sounds like an=animal tearing=its prey apart!~00~}#053#047
+~03~Sounds like an=animal tearing=its prey apart!~00~#047
+;0001B7CC{+Oh my god...~00~}#017#014
++Oh my god...~00~#014
+;0001B7DA{~03~Should I take the=sheet off the=spider?~00~}#047#041
+~03~Should I take the=sheet off the=spider?~00~#041
+;0001B803{+FBI! Freeze!~00~}#017#014
++FBI! Freeze!~00~#014
+;0001B811{+Put your hands=behind your head.~00~}#037#034
++Put your hands=behind your head.~00~#034
+;0001B833{+You are busted,=buddy.~00~}#027#024
++You are busted,=buddy.~00~#024
+;0001B84B{+You killed them=all, Jack!~00~}#031#028
++You killed them=all, Jack!~00~#028
+;0001B867{~03~All your=girlfriends are=dead!~00~}#038#032
+~03~All your=girlfriends are=dead!~00~#032
+;0001B887{+This is the last=warning!~00~}#030#027
++This is the last=warning!~00~#027
+;0001B8A2{+Put your hands up=or we will shoot!~00~}#040#037
++Put your hands up=or we will shoot!~00~#037
+;0001B8C7{+We know what you=did, Jack! ~00~}#033#030
++We know what you=did, Jack! ~00~#030
+;0001B8E5{+There is no way=out!~00~}#025#022
++There is no way=out!~00~#022
+;0001B8FB{+They're probably=watching me. ~00~}#035#032
++They're probably=watching me. ~00~#032
+;0001B91B{+Well,=let them.~00~}#020#017
++Well,=let them.~00~#017
+;0001B92C{~03~Let them see what=kind of a person I=am.~00~}#048#042
+~03~Let them see what=kind of a person I=am.~00~#042
+;0001B956{+I'm not even going=to swat a fly. ~00~}#039#036
++I'm not even going=to swat a fly. ~00~#036
+;0001B97A{~03~I hope they are=watching. They'll=see.~00~}#046#040
+~03~I hope they are=watching. They'll=see.~00~#040
+;0001B9A2{+They'll see and=they'll know.~00~}#034#031
++They'll see and=they'll know.~00~#031
+;0001B9C1{~03~And they'll say,="Why, she wouldn't=even harm a fly."~00~}#061#055
+~03~And they'll say,="Why, she wouldn't=even harm a fly."~00~#055
+;0001B9F8{+We all go a little=mad sometimes.~00~}#038#035
++We all go a little=mad sometimes.~00~#035
+;0001BA1B{~03~Wrap the sheet=around me to get=warm?~00~}#045#039
+~03~Wrap the sheet=around me to get=warm?~00~#039
+;0001BA42{+I need to sit=down. I feel weak.~00~}#037#034
++I need to sit=down. I feel weak.~00~#034
+;0001BA64{+I've come to talk=with you again.~00~}#038#035
++I've come to talk=with you again.~00~#035
+;0001BA87{~03~The wind is=blowing through=those bars.~00~}#047#041
+~03~The wind is=blowing through=those bars.~00~#041
+;0001BAB0{~03~They want me to=freeze to=death.~00~}#040#034
+~03~They want me to=freeze to=death.~00~#034
+;0001BAD2{+She's dead!~00~}#016#013
++She's dead!~00~#013
+;0001BADF{+Everyone is a=moon, ~00~}#025#022
++Everyone is a=moon, ~00~#022
+;0001BAF5{+and has a dark=side~00~}#024#021
++and has a dark=side~00~#021
+;0001BB0A{+which he never=shows to anybody.~00~}#037#034
++which he never=shows to anybody.~00~#034
+;0001BB2C{+Blood...~00~}#013#010
++Blood...~00~#010
+;0001BB36{+I think I can=hear a voice...~00~}#034#031
++I think I can=hear a voice...~00~#031
+;0001BB55{+"BEEP BEEP Jack!"~00~}#022#019
++"BEEP BEEP Jack!"~00~#019
+;0001BB68{+"They ALL float=down here!"~00~}#032#029
++"They ALL float=down here!"~00~#029
+;0001BB85{+"When you're down=here with us,~00~}#036#033
++"When you're down=here with us,~00~#033
+;0001BBA6{+you'll float,=too!"~00~}#024#021
++you'll float,=too!"~00~#021
+;0001BBBB{~03~The moon looks=like a blood-red=balloon...~00~}#050#044
+~03~The moon looks=like a blood-red=balloon...~00~#044
+;0001BBE7{+The mirror is=clouded.~00~}#027#024
++The mirror is=clouded.~00~#024
+;0001BBFF{+I can't see=anything.~00~}#026#023
++I can't see=anything.~00~#023
+;0001BC16{+The towels look=dirty.~00~}#027#024
++The towels look=dirty.~00~#024
+;0001BC2E{+The radiator feels=hot...~00~}#030#027
++The radiator feels=hot...~00~#027
+;0001BC49{~07~~14~~12~~00~}#016#004
+~07~~14~~12~~00~#004
+|1578

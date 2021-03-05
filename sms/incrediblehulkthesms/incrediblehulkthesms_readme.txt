@@ -1,47 +1,30 @@
-Incredible Hulk, The
-Traducción al Español v1.0 (23/12/2017)
-(C) 2017 Wave Translations
+The Incredible Hulk (Master System)
+TraducciÃ³n al EspaÃ±ol v2.0 (20/02/2021)
+(C) 2021 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducciÃ³n y hacking es completamente original.
+Si encuentras algÃºn fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
 
-1. Sobre Incredible Hulk, The
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. Créditos del Parche
+V2.0: AÃ±adidos acentos y revisiÃ³n de script
 
------------------
-1. Sobre Incredible Hulk, The
------------------
-Versión sobremesa 8 bits del increíble Hulk.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducción y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche está en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Incredible Hulk, The (E) [!].sms
-524.288	bytes
-CRC32: be9a7071
+Incredible Hulk, The (Europe, Brazil).sms
 MD5: 285d996c1d7dbf38458df61c28bbaa01
 SHA1: 235ad7d259023610d8aa59d066aaf0dba2ff8138
+CRC32: be9a7071
+524288 bytes
 
-----------------------
-5. Créditos del Parche
-----------------------
-Wave - Hacking y traducción
+--------
+CrÃ©ditos
+--------
+Wave - Hacking, traducciÃ³n y pruebas.
 
--- END OF README --
+-- FIN --

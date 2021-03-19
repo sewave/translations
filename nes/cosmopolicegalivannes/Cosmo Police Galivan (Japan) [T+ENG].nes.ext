@@ -1,0 +1,82 @@
+@0000B130-0000B137-FF
+;0000B130{START~FE~^~64~}#014#008
+START~FE~^~64~#008
+|8
+@0000B911-0000B918-FF
+;0000B911{ Cate~8D~-~8D~}#014#008
+ Cate~8D~-~8D~#008
+|8
+@0000C044-0000C04C-FF
+;0000C044{AREA~23~~23~~23~~23~~23~}#024#009
+AREA~23~~23~~23~~23~~23~#009
+|9
+@0000C083-0000C08B-FF
+;0000C083{TIME~23~~23~~23~~23~~23~}#024#009
+TIME~23~~23~~23~~23~~23~#009
+|9
+@0000C342-0000C34B-FF
+;0000C342{LEVEL~23~~23~~23~~23~~23~}#025#010
+LEVEL~23~~23~~23~~23~~23~#010
+|10
+@0000C382-0000C38B-FF
+;0000C382{ENEMY~23~~23~~23~~23~~23~}#025#010
+ENEMY~23~~23~~23~~23~~23~#010
+|10
+@0000D16A-0000D173-FF
+;0000D16A{MMMM=~0E~~0E~~0F~$~10~}#022#010
+MMMM=~0E~~0E~~0F~$~10~#010
+|10
+@0000DF25-0000DF42-FF
+;0000DF25{BLADE~23~~23~/_{[ll}~23~~23~~23~~23~LEVEL~23~EXP_1/~23~~23~1~23~}#064#030
+BLADE~23~~23~/_{[ll}~23~~23~~23~~23~LEVEL~23~EXP_1/~23~~23~1~23~#030
+|30
+@0000DF43-0000DF61-FF
+;0000DF43{BLADE~23~~23~/_{[ll}~23~~23~~23~~23~LEVEL~23~EXP~FF~}#052#024
+BLADE~23~~23~/_{[ll}~23~~23~~23~~23~LEVEL~23~EXP~FF~#024
+;0000DF5B{_1/~23~~23~2~23~}#016#007
+_1/~23~~23~2~23~#007
+|31
+@0000DF62-0000DF70-FF
+;0000DF62{WEAPON~23~/_{[ll}~23~~23~~23~~23~~23~}#037#015
+WEAPON~23~/_{[ll}~23~~23~~23~~23~~23~#015
+|15
+@0000DF80-0000DF8E-FF
+;0000DF80{WEAPON~23~/_{[ll}~23~~23~~23~~23~~23~}#037#015
+WEAPON~23~/_{[ll}~23~~23~~23~~23~~23~#015
+|15
+@0000DF9F-0000DFA8-FF
+;0000DF9F{ITEM~23~~23~~23~/_~71~}#022#010
+ITEM~23~~23~~23~/_~71~#010
+|10
+@0000DFBD-0000DFC6-FF
+;0000DFBD{ITEM~23~~23~~23~/_~71~}#022#010
+ITEM~23~~23~~23~/_~71~#010
+|10
+@0000E286-0000E398-FF
+;0000E286{CosmoPowerCosmoPartsCosmo Eye Cosmo SuitCosmo Arm Beam BladeMetalBladeFire BladeLaserBladeThunderBl.HyperBladeCosmoBladeHyper Ray CBoomerangCapsule B.Spark BallPrism WaveStar Crys.Moon Crys.Auto Prot.BladePowerBarrierSh.Life Caps.EarthCrys.Jet Boots CosmoCrys.CosmoBoots~A9~~0A~~85~~7C~~AD~}#290#275
+CosmoPowerCosmoPartsCosmo Eye Cosmo SuitCosmo Arm Beam BladeMetalBladeFire BladeLaserBladeThunderBl.HyperBladeCosmoBladeHyper Ray CBoomerangCapsule B.Spark BallPrism WaveStar Crys.Moon Crys.Auto Prot.BladePowerBarrierSh.Life Caps.EarthCrys.Jet Boots CosmoCrys.CosmoBoots~A9~~0A~~85~~7C~~AD~#275
+|275
+@0000EF59-0000F1A3-FF
+;0000EF59{bJb~8E~b{'r}b~21~vWv¨v{[il}vGa{li}van~A8~ You came~A8~~01~Cosmo Power lets you block$the enemies~AB~ shots with$your blade.=Warp holes to the a{li}en$dimension are hidden in$every area.~01~This is one of the four$crystals.~01~Use it to destroy the$barricade and find the$warp hole.=Defeat enemies to raise$your blade~AB~s level.~01~A blade at level A is at$maximum power.~01~Try to raise blades to$level A as soon as you$can.~01~When you find the Cosmo$Blade~A7~it w{[il}{ll]} combine the$power of the other blades.=Use the Capsule Bomber to$destroy the floor in the$room with no enemies.=I need the Cosmo Parts to$finish this~AA~~AA~=The Cosmo Parts~A8~ ~AA~}#659#587
+bJb~8E~b{'r}b~21~vWv¨v{[il}vGa{li}van~A8~ You came~A8~~01~Cosmo Power lets you block$the enemies~AB~ shots with$your blade.=Warp holes to the a{li}en$dimension are hidden in$every area.~01~This is one of the four$crystals.~01~Use it to destroy the$barricade and find the$warp hole.=Defeat enemies to raise$your blade~AB~s level.~01~A blade at level A is at$maximum power.~01~Try to raise blades to$level A as soon as you$can.~01~When you find the Cosmo$Blade~A7~it w{[il}{ll]} combine the$power of the other blades.=Use the Capsule Bomber to$destroy the floor in the$room with no enemies.=I need the Cosmo Parts to$finish this~AA~~AA~=The Cosmo Parts~A8~ ~AA~#587
+|587
+@0000F1A4-0000F4E4-FF
+;0000F1A4{.Now$you~AB~{ll} be able to jump much$higher~A8~=You can damage the boss$when it changes color.=Ga{li}van~A8~ Here. This is the$second crystal.=You need the Cosmo$Boomerang to defeat the$boss.=When the waterfa{ll} stops$flowing~A7~a new entrance w{[il}{ll]}$appear somewhere.=Ga{li}van~A9~ It~AB~s me~A7~Shadia~A8~~01~You need the Cosmo Eye to$see in dark rooms.=You can destroy the wa{ll}$below Shadia~AB~s room with$the Cosmo Boomerang.=There are nine warp holes$hidden nearby.~01~But only one of them leads$to the a{li}en dimension.=You can blast the floor in$the room of ye{ll}ow p{[il}{ll]}ars$with the Capsule Bomber.=This planet~AB~s ocean w{[il}{ll]}$k{[il}{ll]} you if you don~AB~t have$the Cosmo Suit~A8~=You~AB~{ll} need the Earth$Crystal to find the boss.=Did you get the Cosmo$Suit~A9~~03~In the ocean~A7~there are two$wa{ll}s you can destroy with$the Spark Ba{ll}.=Don~AB~t go in the warp hole.$Look for the hidden room.=Ga{li}van~AA~~AA~ Here~AA~~AA~=~AA~}#970#833
+.Now$you~AB~{ll} be able to jump much$higher~A8~=You can damage the boss$when it changes color.=Ga{li}van~A8~ Here. This is the$second crystal.=You need the Cosmo$Boomerang to defeat the$boss.=When the waterfa{ll} stops$flowing~A7~a new entrance w{[il}{ll]}$appear somewhere.=Ga{li}van~A9~ It~AB~s me~A7~Shadia~A8~~01~You need the Cosmo Eye to$see in dark rooms.=You can destroy the wa{ll}$below Shadia~AB~s room with$the Cosmo Boomerang.=There are nine warp holes$hidden nearby.~01~But only one of them leads$to the a{li}en dimension.=You can blast the floor in$the room of ye{ll}ow p{[il}{ll]}ars$with the Capsule Bomber.=This planet~AB~s ocean w{[il}{ll]}$k{[il}{ll]} you if you don~AB~t have$the Cosmo Suit~A8~=You~AB~{ll} need the Earth$Crystal to find the boss.=Did you get the Cosmo$Suit~A9~~03~In the ocean~A7~there are two$wa{ll}s you can destroy with$the Spark Ba{ll}.=Don~AB~t go in the warp hole.$Look for the hidden room.=Ga{li}van~AA~~AA~ Here~AA~~AA~=~AA~#833
+|833
+@0000F4E7-0000F676-FF
+;0000F4E7{=Use the Earth Crystal near$the false warp hole to$make the real one appear.=Fly with the Jet Boots and$use the Cosmo Crystal in$the middle of the barrier.=Are a{ll} your blades at$level A~A9~~03~Then the Cosmo Blade w{[il}{ll]}$have immense power.=Ga{li}van~A8~ You came~A8~ This is$the strongest weapon~A7~the$Cosmo Blade.=You st{[il}{ll]} have to pass the$final gate.~01~You~AB~{ll} need the four-letter$password.=Ga{li}van~AA~~AA~ The password is$~AA~~AA~D~AA~}#464#400
+=Use the Earth Crystal near$the false warp hole to$make the real one appear.=Fly with the Jet Boots and$use the Cosmo Crystal in$the middle of the barrier.=Are a{ll} your blades at$level A~A9~~03~Then the Cosmo Blade w{[il}{ll]}$have immense power.=Ga{li}van~A8~ You came~A8~ This is$the strongest weapon~A7~the$Cosmo Blade.=You st{[il}{ll]} have to pass the$final gate.~01~You~AB~{ll} need the four-letter$password.=Ga{li}van~AA~~AA~ The password is$~AA~~AA~D~AA~#400
+|400
+@0000F678-00010014-FF
+;0000F678{=Ga{li}van~A7~find the Cosmo$Blade and Cosmo Arm. Then$return here.=You found them~A8~ Now let~AB~s$join the power of the$other blades.~01~The Cosmo Blade has six$levels from A to F.~01~It w{[il}{ll]} rise one level for$each level A blade.~01~If a blade hasn~AB~t reached$level A yet~A7~you~AB~d better$make it level-up now.~01~The Cosmo Blade w{[il}{ll]} hold$the greatest power in the$universe~A8~~01~Hurry~A7~Ga{li}van~A8~ Return peace$to this universe.=You can~AB~t handle the Cosmo$Blade without the Cosmo$Arm.=Cosmo Po{li}ce~AA~~AA~ We{ll} done$so far~A7~but you must enter$the password to meet me.~01~A B C D E F G H I J K L M$N O P Q R S T U V W X Y Z$                  . . . .~05~That~AB~s not it~A8~ Hahahaha~AA~~AA~=You can destroy a nearby$wa{ll} with the Prism Wave.=Watch out for hidden holes$in the floor~A8~=You~AB~re late~A7~Ga{li}van~A8~ Take$this Hyper Blade. Hurry~A8~={I'}{ll} teach you something$good for 50 CP.~04~Not enough.=Fool~AA~~AA~=You don~AB~t be{li}eve me~A9~ Then$die~A8~=Are you Ga{li}van~A9~~03~You~AB~{ll} never defeat Lord$Madius~A8~=Oh. My mistake.=Who~AB~re you~A9~ You rea{ll}y$want to fight~A9~~03~Then die~A8~=Am I that scary~A9~ Run away~A7~$then~AA~~AA~=So you wanna be my next$victim~A9~~03~Haha~A7~honest guy~A8~=We{ll}~A7~{I'}{ll} be the one to$annih{il}ate the Cosmo Po{li}ce~A8~={I'}{ll} give you what you need$for 500 CP.~04~No CP~A9~ Die~A8~=I can~AB~t give it to you~A7~$then. Hahahaha~AA~~AA~=You wanna know where the$Cosmo Suit is~A9~~03~Use the Barrier Shield and$go in the warp hole.=Don~AB~t have 1000~A9~ Die~A8~=Here. Your friend had$this.={I'}{ll} te{ll} you a secret for$1000 CP.~04~That~AB~s not enough~A8~=Above the eighth p{[il}{ll]}ar~AA~~AA~$That~AB~s a{ll} I know.=Hmph~A8~=That~AB~s not enough~A8~=You~AB~re the last of the$Cosmo Po{li}ce~A7~huh~A9~~03~Heeheehee~AA~~AA~ Good job$coming here~AA~.where you~AB~{ll}$die~A8~=Don~AB~t {li}e~A8~=You can~AB~t run from me~A8~={I'}{ll} teach you the password$for 2000 CP.~04~You said you would give me$2000 Crystal Power. Liar~A8~=Idiot. {I'}{ll} te{ll} you before$you die~A7~then. The fourth$letter is O.=That~AB~s not enough~A8~ Oh we{ll}~A7~${I'}{ll} te{ll} you anyhow. The$first letter is P.=The first letter is M.=Wait~A8~ Are you rea{ll}y going$to k{[il}{ll]} me~A9~~03~Oh~AA~~AA~=Thank you~A8~ One letter of$the password is A.=You need the Metal Blade $to damage the boss.=Cosmo 2010: The ev{il}$syndicate Mado seized$control of the universe.~06~The dark lord Madius$crushed the Universal$Po{li}ce~AB~s cyborg warriors.~06~They sent the last one~A7~$Cosmo Po{li}ce Ga{li}van~A7~to the$enemy planet Badurr.~06~Weapons and items require$Crystal Power. Defeated$enemies drop CP capsules.~01~{I'}{ll} give you this Hyper$Ray. It can destroy red$gates.~01~Ga{li}van~A7~only you can return$peace to this universe.=Find and destroy the$computer~A7~and a warp hole$w{[il}{ll]} appear somewhere.=Destroy the warm wa{ll} with$the Prism Wave.=~FF~}#2954#2449
+=Ga{li}van~A7~find the Cosmo$Blade and Cosmo Arm. Then$return here.=You found them~A8~ Now let~AB~s$join the power of the$other blades.~01~The Cosmo Blade has six$levels from A to F.~01~It w{[il}{ll]} rise one level for$each level A blade.~01~If a blade hasn~AB~t reached$level A yet~A7~you~AB~d better$make it level-up now.~01~The Cosmo Blade w{[il}{ll]} hold$the greatest power in the$universe~A8~~01~Hurry~A7~Ga{li}van~A8~ Return peace$to this universe.=You can~AB~t handle the Cosmo$Blade without the Cosmo$Arm.=Cosmo Po{li}ce~AA~~AA~ We{ll} done$so far~A7~but you must enter$the password to meet me.~01~A B C D E F G H I J K L M$N O P Q R S T U V W X Y Z$                  . . . .~05~That~AB~s not it~A8~ Hahahaha~AA~~AA~=You can destroy a nearby$wa{ll} with the Prism Wave.=Watch out for hidden holes$in the floor~A8~=You~AB~re late~A7~Ga{li}van~A8~ Take$this Hyper Blade. Hurry~A8~={I'}{ll} teach you something$good for 50 CP.~04~Not enough.=Fool~AA~~AA~=You don~AB~t be{li}eve me~A9~ Then$die~A8~=Are you Ga{li}van~A9~~03~You~AB~{ll} never defeat Lord$Madius~A8~=Oh. My mistake.=Who~AB~re you~A9~ You rea{ll}y$want to fight~A9~~03~Then die~A8~=Am I that scary~A9~ Run away~A7~$then~AA~~AA~=So you wanna be my next$victim~A9~~03~Haha~A7~honest guy~A8~=We{ll}~A7~{I'}{ll} be the one to$annih{il}ate the Cosmo Po{li}ce~A8~={I'}{ll} give you what you need$for 500 CP.~04~No CP~A9~ Die~A8~=I can~AB~t give it to you~A7~$then. Hahahaha~AA~~AA~=You wanna know where the$Cosmo Suit is~A9~~03~Use the Barrier Shield and$go in the warp hole.=Don~AB~t have 1000~A9~ Die~A8~=Here. Your friend had$this.={I'}{ll} te{ll} you a secret for$1000 CP.~04~That~AB~s not enough~A8~=Above the eighth p{[il}{ll]}ar~AA~~AA~$That~AB~s a{ll} I know.=Hmph~A8~=That~AB~s not enough~A8~=You~AB~re the last of the$Cosmo Po{li}ce~A7~huh~A9~~03~Heeheehee~AA~~AA~ Good job$coming here~AA~.where you~AB~{ll}$die~A8~=Don~AB~t {li}e~A8~=You can~AB~t run from me~A8~={I'}{ll} teach you the password$for 2000 CP.~04~You said you would give me$2000 Crystal Power. Liar~A8~=Idiot. {I'}{ll} te{ll} you before$you die~A7~then. The fourth$letter is O.=That~AB~s not enough~A8~ Oh we{ll}~A7~${I'}{ll} te{ll} you anyhow. The$first letter is P.=The first letter is M.=Wait~A8~ Are you rea{ll}y going$to k{[il}{ll]} me~A9~~03~Oh~AA~~AA~=Thank you~A8~ One letter of$the password is A.=You need the Metal Blade $to damage the boss.=Cosmo 2010: The ev{il}$syndicate Mado seized$control of the universe.~06~The dark lord Madius$crushed the Universal$Po{li}ce~AB~s cyborg warriors.~06~They sent the last one~A7~$Cosmo Po{li}ce Ga{li}van~A7~to the$enemy planet Badurr.~06~Weapons and items require$Crystal Power. Defeated$enemies drop CP capsules.~01~{I'}{ll} give you this Hyper$Ray. It can destroy red$gates.~01~Ga{li}van~A7~only you can return$peace to this universe.=Find and destroy the$computer~A7~and a warp hole$w{[il}{ll]} appear somewhere.=Destroy the warm wa{ll} with$the Prism Wave.=~FF~#2449
+;00010009{~FF~}#004#001
+~FF~#001
+;0001000A{$d$d$d~A9~~FF~}#014#008
+$d$d$d~A9~~FF~#008
+;00010012{~8D~~FF~}#008#002
+~8D~~FF~#002
+;00010014{~9F~}#004#001
+~9F~#001
+|2461

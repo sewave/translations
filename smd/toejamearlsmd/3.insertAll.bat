@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Toejam & Earl (UE) (REV00) [!].bin"
-set S_FILENAME="Toejam & Earl (UE) (REV00) [!].bin"
+set T_FILENAME="TR_ToeJam & Earl (Japan, Europe) (Rev A).md"
+set S_FILENAME="ToeJam & Earl (Japan, Europe) (Rev A).md"
 set SCRIPTNAME="toejamearlsmd"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

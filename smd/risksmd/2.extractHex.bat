@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Risk (USA).md"
+set SCRIPTNAME="risksmd"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 494D6:40,49596:A0,49816:A0,49C16:60,4AC96:40,4AD56:A0,4AFD6:A0,4B3D6:60,4A0F6:40,4A1B6:A0,4A436:A0,4A836:60
+pause

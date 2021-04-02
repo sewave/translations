@@ -1,0 +1,552 @@
+@00008FE6-00009075-FF
+;00008FE6{Attack Menu~00~~C0~~00~`p~07~~13~Attack                   ~00~~C0~~00~`p~07~~14~Continuous Attack        ~00~~C0~~00~`p~07~~15~Fast Battle              ~00~~C0~~00~`p~07~~17~Attack & Defense Options ~00~~00~~00~~C0~~00~}#219#144
+Attack Menu~00~~C0~~00~`p~07~~13~Attack                   ~00~~C0~~00~`p~07~~14~Continuous Attack        ~00~~C0~~00~`p~07~~15~Fast Battle              ~00~~C0~~00~`p~07~~17~Attack & Defense Options ~00~~00~~00~~C0~~00~#144
+|144
+@0000907A-00009097-FF
+;0000907A{Attack                   ~00~~00~~00~~C0~~00~}#045#030
+Attack                   ~00~~00~~00~~C0~~00~#030
+|30
+@0000909C-000090B9-FF
+;0000909C{Continuous Attack        ~00~~00~~00~~C0~~00~}#045#030
+Continuous Attack        ~00~~00~~00~~C0~~00~#030
+|30
+@000090BE-000090DB-FF
+;000090BE{Fast Battle              ~00~~00~~00~~C0~~00~}#045#030
+Fast Battle              ~00~~00~~00~~C0~~00~#030
+|30
+@000090E0-000090FD-FF
+;000090E0{Attack & Defense Options ~00~~00~~00~~C0~~00~}#045#030
+Attack & Defense Options ~00~~00~~00~~C0~~00~#030
+|30
+@00009102-00009126-FF
+;00009102{How many armies will you commit~00~~C0~~00~~00~p~0D~}#052#037
+How many armies will you commit~00~~C0~~00~~00~p~0D~#037
+|37
+@00009128-0000913C-FF
+;00009128{to the ATTACK? ~00~~C0~~00~~40~p~05~}#036#021
+to the ATTACK? ~00~~C0~~00~~40~p~05~#021
+|21
+@0000913F-0000914D-FF
+;0000913F{ to increase~3B~ ~7C~}#021#015
+ to increase~3B~ ~7C~#015
+|15
+@0000914E-0000915E-FF
+;0000914E{ to decrease~3B~~00~~C0~~00~~40~}#032#017
+ to decrease~3B~~00~~C0~~00~~40~#017
+|17
+@00009162-00009179-FF
+;00009162{A button to select.~00~~00~~00~~C0~~00~}#039#024
+A button to select.~00~~00~~00~~C0~~00~#024
+|24
+@0000917A-000091BA-FF
+;0000917A{ p~04~~11~How many armies will you commit~00~~C0~~00~ p~0C~~12~to your DEFENSE? ~00~~C0~~00~~40~p~05~}#101#065
+ p~04~~11~How many armies will you commit~00~~C0~~00~ p~0C~~12~to your DEFENSE? ~00~~C0~~00~~40~p~05~#065
+|65
+@000091BD-000091CB-FF
+;000091BD{ to increase~3B~ ~7C~}#021#015
+ to increase~3B~ ~7C~#015
+|15
+@000091CC-000091DC-FF
+;000091CC{ to decrease~3B~~00~~C0~~00~~40~}#032#017
+ to decrease~3B~~00~~C0~~00~~40~#017
+|17
+@000091E0-000091F7-FF
+;000091E0{A button to select.~00~~00~~00~~C0~~00~}#039#024
+A button to select.~00~~00~~00~~C0~~00~#024
+|24
+@000091FC-0000920F-FF
+;000091FC{     ALASKA    ~00~~00~~00~~C0~~00~}#035#020
+     ALASKA    ~00~~00~~00~~C0~~00~#020
+|20
+@00009214-00009227-FF
+;00009214{NORTHWEST TERR.~00~~00~~00~~C0~~00~}#035#020
+NORTHWEST TERR.~00~~00~~00~~C0~~00~#020
+|20
+@0000922C-0000923F-FF
+;0000922C{     ALBERTA   ~00~~00~~00~~C0~~00~}#035#020
+     ALBERTA   ~00~~00~~00~~C0~~00~#020
+|20
+@00009244-00009257-FF
+;00009244{     ONTARIO   ~00~~00~~00~~C0~~00~}#035#020
+     ONTARIO   ~00~~00~~00~~C0~~00~#020
+|20
+@0000925C-0000926F-FF
+;0000925C{     QUEBEC    ~00~~00~~00~~C0~~00~}#035#020
+     QUEBEC    ~00~~00~~00~~C0~~00~#020
+|20
+@00009274-00009287-FF
+;00009274{  WESTERN U.S. ~00~~00~~00~~C0~~00~}#035#020
+  WESTERN U.S. ~00~~00~~00~~C0~~00~#020
+|20
+@0000928C-0000929F-FF
+;0000928C{  EASTERN U.S. ~00~~00~~00~~C0~~00~}#035#020
+  EASTERN U.S. ~00~~00~~00~~C0~~00~#020
+|20
+@000092A4-000092B7-FF
+;000092A4{CENTRAL AMERICA~00~~00~~00~~C0~~00~}#035#020
+CENTRAL AMERICA~00~~00~~00~~C0~~00~#020
+|20
+@000092BC-000092CF-FF
+;000092BC{    VENEZUELA  ~00~~00~~00~~C0~~00~}#035#020
+    VENEZUELA  ~00~~00~~00~~C0~~00~#020
+|20
+@000092D4-000092E7-FF
+;000092D4{      PERU     ~00~~00~~00~~C0~~00~}#035#020
+      PERU     ~00~~00~~00~~C0~~00~#020
+|20
+@000092EC-000092FF-FF
+;000092EC{     BRAZIL    ~00~~00~~00~~C0~~00~}#035#020
+     BRAZIL    ~00~~00~~00~~C0~~00~#020
+|20
+@00009304-00009317-FF
+;00009304{    ARGENTINA  ~00~~00~~00~~C0~~00~}#035#020
+    ARGENTINA  ~00~~00~~00~~C0~~00~#020
+|20
+@0000931C-0000932F-FF
+;0000931C{     ICELAND   ~00~~00~~00~~C0~~00~}#035#020
+     ICELAND   ~00~~00~~00~~C0~~00~#020
+|20
+@00009334-00009347-FF
+;00009334{   SCANDINAVIA ~00~~00~~00~~C0~~00~}#035#020
+   SCANDINAVIA ~00~~00~~00~~C0~~00~#020
+|20
+@0000934C-0000935F-FF
+;0000934C{     UKRAINE   ~00~~00~~00~~C0~~00~}#035#020
+     UKRAINE   ~00~~00~~00~~C0~~00~#020
+|20
+@00009364-00009377-FF
+;00009364{  GREAT BRITAIN~00~~00~~00~~C0~~00~}#035#020
+  GREAT BRITAIN~00~~00~~00~~C0~~00~#020
+|20
+@0000937C-0000938F-FF
+;0000937C{NORTHERN EUROPE~00~~00~~00~~C0~~00~}#035#020
+NORTHERN EUROPE~00~~00~~00~~C0~~00~#020
+|20
+@00009394-000093A7-FF
+;00009394{ WESTERN EUROPE~00~~00~~00~~C0~~00~}#035#020
+ WESTERN EUROPE~00~~00~~00~~C0~~00~#020
+|20
+@000093AC-000093BF-FF
+;000093AC{SOUTHERN EUROPE~00~~00~~00~~C0~~00~}#035#020
+SOUTHERN EUROPE~00~~00~~00~~C0~~00~#020
+|20
+@000093C4-000093D7-FF
+;000093C4{  NORTH AFRICA ~00~~00~~00~~C0~~00~}#035#020
+  NORTH AFRICA ~00~~00~~00~~C0~~00~#020
+|20
+@000093DC-000093EF-FF
+;000093DC{      EGYPT    ~00~~00~~00~~C0~~00~}#035#020
+      EGYPT    ~00~~00~~00~~C0~~00~#020
+|20
+@000093F4-00009407-FF
+;000093F4{  EAST AFRICA  ~00~~00~~00~~C0~~00~}#035#020
+  EAST AFRICA  ~00~~00~~00~~C0~~00~#020
+|20
+@0000940C-0000941F-FF
+;0000940C{      CONGO    ~00~~00~~00~~C0~~00~}#035#020
+      CONGO    ~00~~00~~00~~C0~~00~#020
+|20
+@00009424-00009437-FF
+;00009424{  SOUTH AFRICA ~00~~00~~00~~C0~~00~}#035#020
+  SOUTH AFRICA ~00~~00~~00~~C0~~00~#020
+|20
+@0000943C-0000944F-FF
+;0000943C{      URAL     ~00~~00~~00~~C0~~00~}#035#020
+      URAL     ~00~~00~~00~~C0~~00~#020
+|20
+@00009454-00009467-FF
+;00009454{     SIBERIA   ~00~~00~~00~~C0~~00~}#035#020
+     SIBERIA   ~00~~00~~00~~C0~~00~#020
+|20
+@000094B4-000094C7-FF
+;000094B4{   AFGHANISTAN ~00~~00~~00~~C0~~00~}#035#020
+   AFGHANISTAN ~00~~00~~00~~C0~~00~#020
+|20
+@000094CC-000094DF-FF
+;000094CC{      CHINA    ~00~~00~~00~~C0~~00~}#035#020
+      CHINA    ~00~~00~~00~~C0~~00~#020
+|20
+@000094E4-000094F7-FF
+;000094E4{    MONGOLIA   ~00~~00~~00~~C0~~00~}#035#020
+    MONGOLIA   ~00~~00~~00~~C0~~00~#020
+|20
+@000094FC-0000950F-FF
+;000094FC{      JAPAN    ~00~~00~~00~~C0~~00~}#035#020
+      JAPAN    ~00~~00~~00~~C0~~00~#020
+|20
+@00009514-00009527-FF
+;00009514{   MIDDLE EAST ~00~~00~~00~~C0~~00~}#035#020
+   MIDDLE EAST ~00~~00~~00~~C0~~00~#020
+|20
+@0000952C-0000953F-FF
+;0000952C{      INDIA    ~00~~00~~00~~C0~~00~}#035#020
+      INDIA    ~00~~00~~00~~C0~~00~#020
+|20
+@00009544-00009557-FF
+;00009544{      SIAM     ~00~~00~~00~~C0~~00~}#035#020
+      SIAM     ~00~~00~~00~~C0~~00~#020
+|20
+@0000955C-0000956F-FF
+;0000955C{    INDONESIA  ~00~~00~~00~~C0~~00~}#035#020
+    INDONESIA  ~00~~00~~00~~C0~~00~#020
+|20
+@00009574-00009587-FF
+;00009574{   NEW GUINEA  ~00~~00~~00~~C0~~00~}#035#020
+   NEW GUINEA  ~00~~00~~00~~C0~~00~#020
+|20
+@0000958C-0000959F-FF
+;0000958C{WEST. AUSTRALIA~00~~00~~00~~C0~~00~}#035#020
+WEST. AUSTRALIA~00~~00~~00~~C0~~00~#020
+|20
+@000095A4-000095B7-FF
+;000095A4{EAST. AUSTRALIA~00~~00~~00~~C0~~00~}#035#020
+EAST. AUSTRALIA~00~~00~~00~~C0~~00~#020
+|20
+@000095BC-000095CF-FF
+;000095BC{    GREENLAND  ~00~~00~~00~~C0~~00~}#035#020
+    GREENLAND  ~00~~00~~00~~C0~~00~#020
+|20
+@000095D4-000095E7-FF
+;000095D4{   MADAGASCAR  ~00~~00~~00~~C0~~00~}#035#020
+   MADAGASCAR  ~00~~00~~00~~C0~~00~#020
+|20
+@000095EC-000095FF-FF
+;000095EC{     ALASKA    ~00~~00~~00~~C0~~00~}#035#020
+     ALASKA    ~00~~00~~00~~C0~~00~#020
+|20
+@00009604-00009617-FF
+;00009604{NORTHWEST TERR.~00~~00~~00~~C0~~00~}#035#020
+NORTHWEST TERR.~00~~00~~00~~C0~~00~#020
+|20
+@0000961C-0000962F-FF
+;0000961C{     ALBERTA   ~00~~00~~00~~C0~~00~}#035#020
+     ALBERTA   ~00~~00~~00~~C0~~00~#020
+|20
+@00009634-00009647-FF
+;00009634{     ONTARIO   ~00~~00~~00~~C0~~00~}#035#020
+     ONTARIO   ~00~~00~~00~~C0~~00~#020
+|20
+@00009664-00009677-FF
+;00009664{  WESTERN U.S. ~00~~00~~00~~C0~~00~}#035#020
+  WESTERN U.S. ~00~~00~~00~~C0~~00~#020
+|20
+@0000967C-0000968F-FF
+;0000967C{  EASTERN U.S. ~00~~00~~00~~C0~~00~}#035#020
+  EASTERN U.S. ~00~~00~~00~~C0~~00~#020
+|20
+@00009694-000096A7-FF
+;00009694{CENTRAL AMERICA~00~~00~~00~~C0~~00~}#035#020
+CENTRAL AMERICA~00~~00~~00~~C0~~00~#020
+|20
+@000096AC-000096BF-FF
+;000096AC{    VENEZUELA  ~00~~00~~00~~C0~~00~}#035#020
+    VENEZUELA  ~00~~00~~00~~C0~~00~#020
+|20
+@000096C4-000096D7-FF
+;000096C4{      PERU     ~00~~00~~00~~C0~~00~}#035#020
+      PERU     ~00~~00~~00~~C0~~00~#020
+|20
+@000096DC-000096EF-FF
+;000096DC{     BRAZIL    ~00~~00~~00~~C0~~00~}#035#020
+     BRAZIL    ~00~~00~~00~~C0~~00~#020
+|20
+@000096F4-00009707-FF
+;000096F4{    ARGENTINA  ~00~~00~~00~~C0~~00~}#035#020
+    ARGENTINA  ~00~~00~~00~~C0~~00~#020
+|20
+@0000970C-0000971F-FF
+;0000970C{     ICELAND   ~00~~00~~00~~C0~~00~}#035#020
+     ICELAND   ~00~~00~~00~~C0~~00~#020
+|20
+@00009724-00009737-FF
+;00009724{   SCANDINAVIA ~00~~00~~00~~C0~~00~}#035#020
+   SCANDINAVIA ~00~~00~~00~~C0~~00~#020
+|20
+@0000973C-0000974F-FF
+;0000973C{     UKRAINE   ~00~~00~~00~~C0~~00~}#035#020
+     UKRAINE   ~00~~00~~00~~C0~~00~#020
+|20
+@00009754-00009767-FF
+;00009754{  GREAT BRITAIN~00~~00~~00~~C0~~00~}#035#020
+  GREAT BRITAIN~00~~00~~00~~C0~~00~#020
+|20
+@0000976C-0000977F-FF
+;0000976C{NORTHERN EUROPE~00~~00~~00~~C0~~00~}#035#020
+NORTHERN EUROPE~00~~00~~00~~C0~~00~#020
+|20
+@00009784-00009797-FF
+;00009784{ WESTERN EUROPE~00~~00~~00~~C0~~00~}#035#020
+ WESTERN EUROPE~00~~00~~00~~C0~~00~#020
+|20
+@0000979C-000097AF-FF
+;0000979C{SOUTHERN EUROPE~00~~00~~00~~C0~~00~}#035#020
+SOUTHERN EUROPE~00~~00~~00~~C0~~00~#020
+|20
+@000097B4-000097C7-FF
+;000097B4{  NORTH AFRICA ~00~~00~~00~~C0~~00~}#035#020
+  NORTH AFRICA ~00~~00~~00~~C0~~00~#020
+|20
+@000097CC-000097DF-FF
+;000097CC{      EGYPT    ~00~~00~~00~~C0~~00~}#035#020
+      EGYPT    ~00~~00~~00~~C0~~00~#020
+|20
+@000097E4-000097F7-FF
+;000097E4{  EAST AFRICA  ~00~~00~~00~~C0~~00~}#035#020
+  EAST AFRICA  ~00~~00~~00~~C0~~00~#020
+|20
+@000097FC-0000980F-FF
+;000097FC{      CONGO    ~00~~00~~00~~C0~~00~}#035#020
+      CONGO    ~00~~00~~00~~C0~~00~#020
+|20
+@00009814-00009827-FF
+;00009814{  SOUTH AFRICA ~00~~00~~00~~C0~~00~}#035#020
+  SOUTH AFRICA ~00~~00~~00~~C0~~00~#020
+|20
+@0000982C-0000983F-FF
+;0000982C{      URAL     ~00~~00~~00~~C0~~00~}#035#020
+      URAL     ~00~~00~~00~~C0~~00~#020
+|20
+@00009844-00009857-FF
+;00009844{     SIBERIA   ~00~~00~~00~~C0~~00~}#035#020
+     SIBERIA   ~00~~00~~00~~C0~~00~#020
+|20
+@000098A4-000098B7-FF
+;000098A4{   AFGHANISTAN ~00~~00~~00~~C0~~00~}#035#020
+   AFGHANISTAN ~00~~00~~00~~C0~~00~#020
+|20
+@000098BC-000098CF-FF
+;000098BC{      CHINA    ~00~~00~~00~~C0~~00~}#035#020
+      CHINA    ~00~~00~~00~~C0~~00~#020
+|20
+@000098D4-000098E7-FF
+;000098D4{    MONGOLIA   ~00~~00~~00~~C0~~00~}#035#020
+    MONGOLIA   ~00~~00~~00~~C0~~00~#020
+|20
+@000098EC-000098FF-FF
+;000098EC{      JAPAN    ~00~~00~~00~~C0~~00~}#035#020
+      JAPAN    ~00~~00~~00~~C0~~00~#020
+|20
+@00009904-00009917-FF
+;00009904{   MIDDLE EAST ~00~~00~~00~~C0~~00~}#035#020
+   MIDDLE EAST ~00~~00~~00~~C0~~00~#020
+|20
+@0000991C-0000992F-FF
+;0000991C{      INDIA    ~00~~00~~00~~C0~~00~}#035#020
+      INDIA    ~00~~00~~00~~C0~~00~#020
+|20
+@00009934-00009947-FF
+;00009934{      SIAM     ~00~~00~~00~~C0~~00~}#035#020
+      SIAM     ~00~~00~~00~~C0~~00~#020
+|20
+@0000994C-0000995F-FF
+;0000994C{    INDONESIA  ~00~~00~~00~~C0~~00~}#035#020
+    INDONESIA  ~00~~00~~00~~C0~~00~#020
+|20
+@00009964-00009977-FF
+;00009964{   NEW GUINEA  ~00~~00~~00~~C0~~00~}#035#020
+   NEW GUINEA  ~00~~00~~00~~C0~~00~#020
+|20
+@0000997C-0000998F-FF
+;0000997C{WEST. AUSTRALIA~00~~00~~00~~C0~~00~}#035#020
+WEST. AUSTRALIA~00~~00~~00~~C0~~00~#020
+|20
+@00009994-000099A7-FF
+;00009994{EAST. AUSTRALIA~00~~00~~00~~C0~~00~}#035#020
+EAST. AUSTRALIA~00~~00~~00~~C0~~00~#020
+|20
+@000099AC-000099BF-FF
+;000099AC{    GREENLAND  ~00~~00~~00~~C0~~00~}#035#020
+    GREENLAND  ~00~~00~~00~~C0~~00~#020
+|20
+@000099C4-000099D7-FF
+;000099C4{   MADAGASCAR  ~00~~00~~00~~C0~~00~}#035#020
+   MADAGASCAR  ~00~~00~~00~~C0~~00~#020
+|20
+@000099DC-000099EE-FF
+;000099DC{Movement Menu~00~~C0~~00~~40~p~0A~}#034#019
+Movement Menu~00~~C0~~00~~40~p~0A~#019
+|19
+@000099F0-00009A08-FF
+;000099F0{Press ~7B~ for Maximum~00~~C0~~00~~40~p~0A~}#043#025
+Press ~7B~ for Maximum~00~~C0~~00~~40~p~0A~#025
+|25
+@00009A0A-00009A22-FF
+;00009A0A{Press ~7C~ for Minimum~00~~C0~~00~~40~p~0A~}#043#025
+Press ~7C~ for Minimum~00~~C0~~00~~40~p~0A~#025
+|25
+@00009A24-00009A3C-FF
+;00009A24{Press ~7E~ to Increase~00~~C0~~00~~40~p~0A~}#043#025
+Press ~7E~ to Increase~00~~C0~~00~~40~p~0A~#025
+|25
+@00009A3E-00009A76-FF
+;00009A3E{Press ~7D~ to Decrease~00~~C0~~00~`p~07~~18~Press A to Accept Numbers~00~~00~~00~~0C~9~00~}#090#057
+Press ~7D~ to Decrease~00~~C0~~00~`p~07~~18~Press A to Accept Numbers~00~~00~~00~~0C~9~00~#057
+|57
+@0000C981-0000C987-FF
+;0000C981{sNup~08~t~00~}#013#007
+sNup~08~t~00~#007
+|7
+@0000E04A-0000E246-FF
+;0000E04A{   Alaska   NW\Territory   Alberta     Ontario     Quebec    Western US  Eastern US Ctrl America  Venezuela     Peru       Brazil     Argentina   Iceland    Scandinavia   Ukraine     Britain    N Europe    W Europe    S Europe    N Africa      Egypt     E Africa      Congo     S Africa      Ural       Siberia     Yakutsk     Irkutsk    Kamchatka  Afghanistan    China     Mongolia      Japan      Mideast      India       Siam      Indonesia  New Guinea  W\Australia E Australia  Greenland  Madagascar ~00~~00~~E3~~EE~~00~}#524#509
+   Alaska   NW\Territory   Alberta     Ontario     Quebec    Western US  Eastern US Ctrl America  Venezuela     Peru       Brazil     Argentina   Iceland    Scandinavia   Ukraine     Britain    N Europe    W Europe    S Europe    N Africa      Egypt     E Africa      Congo     S Africa      Ural       Siberia     Yakutsk     Irkutsk    Kamchatka  Afghanistan    China     Mongolia      Japan      Mideast      India       Siam      Indonesia  New Guinea  W\Australia E Australia  Greenland  Madagascar ~00~~00~~E3~~EE~~00~#509
+|509
+@0000EC6B-0000F0D5-FF
+;0000EC6B{%^^^^^^^&~FF~}#013#010
+%^^^^^^^&~FF~#010
+;0000EC75{~23~_______________________$~FE~`\You\don't\have\any\\\\~40~~FE~`\\\\\cards\to\display.\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^&~FF~}#125#104
+~23~_______________________$~FE~`\You\don't\have\any\\\\~40~~FE~`\\\\\cards\to\display.\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^&~FF~#104
+;0000ECDD{~23~_______________________$~FE~`\You\don't\have\enough\~40~~FE~`\\\\cards\to\trade\in.\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^&~FF~}#125#104
+~23~_______________________$~FE~`\You\don't\have\enough\~40~~FE~`\\\\cards\to\trade\in.\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^&~FF~#104
+;0000ED45{~23~_______________________$~FE~`\\\\\Are\you\sure?\\\\\~40~~FE~`\\\Press\'A'\for\yes\\\~40~~FE~`\\\\\\or\'B'\for\no.\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^&~FF~}#157#130
+~23~_______________________$~FE~`\\\\\Are\you\sure?\\\\\~40~~FE~`\\\Press\'A'\for\yes\\\~40~~FE~`\\\\\\or\'B'\for\no.\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^&~FF~#130
+;0000EDC7{~23~____________________$~FE~`\\AUTO-CHOOSE\MENU\\~40~~FE~`\\================\\~40~~FE~`\\\Country\Choices\\~40~~FE~`\\\Army\Placement\\\~40~~FE~`\\\New\Game\\\\\\\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^&~FF~}#200#161
+~23~____________________$~FE~`\\AUTO-CHOOSE\MENU\\~40~~FE~`\\================\\~40~~FE~`\\\Country\Choices\\~40~~FE~`\\\Army\Placement\\\~40~~FE~`\\\New\Game\\\\\\\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^&~FF~#161
+;0000EE68{~23~________________________$~FE~`\Those\countries\\\\\\\\~40~~FE~`\\\\\\aren't\bordering.\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^^&~FF~}#129#108
+~23~________________________$~FE~`\Those\countries\\\\\\\\~40~~FE~`\\\\\\aren't\bordering.\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^^&~FF~#108
+;0000EED4{~23~__________________________$~FE~`\NEW\ARMIES\-\\\\\\\\\\\\\~40~~FE~`\========================\~40~~FE~`\For\Countries\Owned:\\\\\~40~~FE~`\\\\\\\\\\\\\\\\\\\\\\\\\\~40~~FE~`\For\Continents\Owned:\\\\~40~~FE~`\\\\Africa\\\\\\\\\\\\\\\\~40~~FE~`\\\\Asia\\\\\\\\\\\\\\\\\\~40~~FE~`\\\\Australia\\\\\\\\\\\\\~40~~FE~`\\\\Europe\\\\\\\\\\\\\\\\~40~~FE~`\\\\North\America\\\\\\\\\~40~~FE~`\\\\South\America\\\\\\\\\~40~~FE~`\\\\\\\\\\\\\\\\\\\\\\\\\\~40~~FE~`\For\Cards\Turned\In:\\\\\~40~~FE~`\========================\~40~~FE~`\Total\New\Armies:\\\\\\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^^^^&~FF~}#592#493
+~23~__________________________$~FE~`\NEW\ARMIES\-\\\\\\\\\\\\\~40~~FE~`\========================\~40~~FE~`\For\Countries\Owned:\\\\\~40~~FE~`\\\\\\\\\\\\\\\\\\\\\\\\\\~40~~FE~`\For\Continents\Owned:\\\\~40~~FE~`\\\\Africa\\\\\\\\\\\\\\\\~40~~FE~`\\\\Asia\\\\\\\\\\\\\\\\\\~40~~FE~`\\\\Australia\\\\\\\\\\\\\~40~~FE~`\\\\Europe\\\\\\\\\\\\\\\\~40~~FE~`\\\\North\America\\\\\\\\\~40~~FE~`\\\\South\America\\\\\\\\\~40~~FE~`\\\\\\\\\\\\\\\\\\\\\\\\\\~40~~FE~`\For\Cards\Turned\In:\\\\\~40~~FE~`\========================\~40~~FE~`\Total\New\Armies:\\\\\\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^^^^&~FF~#493
+;0000F0C1{Welcome to Risk!~FF~}#020#017
+Welcome to Risk!~FF~#017
+;0000F0D2{~40~~FE~~40~~FE~}#016#004
+~40~~FE~~40~~FE~#004
+|1131
+@0000F379-0000F765-FF
+;0000F379{______________________$~FE~ `\\\\\\\\\\\\\\\\\\\\\\~40~~FE~ `\has\been\eliminated!\~40~~FE~ %^^^^^^^^^^^^^^^^^^^^^^&~FF~}#120#102
+______________________$~FE~ `\\\\\\\\\\\\\\\\\\\\\\~40~~FE~ `\has\been\eliminated!\~40~~FE~ %^^^^^^^^^^^^^^^^^^^^^^&~FF~#102
+;0000F3DF{~23~______$~FE~`Armies~40~~FE~`\left:~40~~FE~`\\\\\\~40~~FE~%^^^^^^&~FF~}#072#045
+~23~______$~FE~`Armies~40~~FE~`\left:~40~~FE~`\\\\\\~40~~FE~%^^^^^^&~FF~#045
+;0000F40C{BLUE\\\\~FF~}#012#009
+BLUE\\\\~FF~#009
+;0000F415{YELLOW\\~FF~}#012#009
+YELLOW\\~FF~#009
+;0000F41E{GREEN\\\~FF~}#012#009
+GREEN\\\~FF~#009
+;0000F427{PURPLE\\~FF~}#012#009
+PURPLE\\~FF~#009
+;0000F430{PINK\\\\~FF~}#012#009
+PINK\\\\~FF~#009
+;0000F439{RED\\\\\~FF~}#012#009
+RED\\\\\~FF~#009
+;0000F442{On\~FF~}#007#004
+On\~FF~#004
+;0000F446{Off~FF~}#007#004
+Off~FF~#004
+;0000F44A{~FF~}#004#001
+~FF~#001
+;0000F44B{General\~FF~}#012#009
+General\~FF~#009
+;0000F454{\\\\\\\\~FF~}#012#009
+\\\\\\\\~FF~#009
+;0000F45D{~23~_______________________$~FE~`\\\\\Programmed\by\\\\\~40~~FE~`\\\Craig\B.\Seastrom\\\~40~~FE~`\\\\and\Paul\McCarl\\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^&~FF~}#157#130
+~23~_______________________$~FE~`\\\\\Programmed\by\\\\\~40~~FE~`\\\Craig\B.\Seastrom\\\~40~~FE~`\\\\and\Paul\McCarl\\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^&~FF~#130
+;0000F4DF{Classic~FF~}#011#008
+Classic~FF~#008
+;0000F4E7{Arcade\~FF~}#011#008
+Arcade\~FF~#008
+;0000F4EF{Alaska.~FF~}#011#008
+Alaska.~FF~#008
+;0000F4F7{Northwest\Territory.~FF~}#024#021
+Northwest\Territory.~FF~#021
+;0000F50C{Alberta.~FF~}#012#009
+Alberta.~FF~#009
+;0000F515{Ontario.~FF~}#012#009
+Ontario.~FF~#009
+;0000F51E{Quebec.~FF~}#011#008
+Quebec.~FF~#008
+;0000F526{Western\United\States.~FF~}#026#023
+Western\United\States.~FF~#023
+;0000F53D{Eastern\United\States.~FF~}#026#023
+Eastern\United\States.~FF~#023
+;0000F554{Central\America.~FF~}#020#017
+Central\America.~FF~#017
+;0000F565{Venezuela.~FF~}#014#011
+Venezuela.~FF~#011
+;0000F570{Peru.~FF~}#009#006
+Peru.~FF~#006
+;0000F576{Brazil.~FF~}#011#008
+Brazil.~FF~#008
+;0000F57E{Argentina.~FF~}#014#011
+Argentina.~FF~#011
+;0000F589{Iceland.~FF~}#012#009
+Iceland.~FF~#009
+;0000F592{Scandinavia.~FF~}#016#013
+Scandinavia.~FF~#013
+;0000F59F{Ukraine.~FF~}#012#009
+Ukraine.~FF~#009
+;0000F5A8{Great\Britain.~FF~}#018#015
+Great\Britain.~FF~#015
+;0000F5B7{North\Europe.~FF~}#017#014
+North\Europe.~FF~#014
+;0000F5C5{West\Europe.~FF~}#016#013
+West\Europe.~FF~#013
+;0000F5D2{South\Europe.~FF~}#017#014
+South\Europe.~FF~#014
+;0000F5E0{North\Africa.~FF~}#017#014
+North\Africa.~FF~#014
+;0000F5EE{Egypt.~FF~}#010#007
+Egypt.~FF~#007
+;0000F5F5{East\Africa.~FF~}#016#013
+East\Africa.~FF~#013
+;0000F602{Congo.~FF~}#010#007
+Congo.~FF~#007
+;0000F609{South\Africa.~FF~}#017#014
+South\Africa.~FF~#014
+;0000F617{Ural.~FF~}#009#006
+Ural.~FF~#006
+;0000F61D{Siberia.~FF~}#012#009
+Siberia.~FF~#009
+;0000F626{Yakutsk.~FF~}#012#009
+Yakutsk.~FF~#009
+;0000F62F{Irkutsk.~FF~}#012#009
+Irkutsk.~FF~#009
+;0000F638{Kamchatka.~FF~}#014#011
+Kamchatka.~FF~#011
+;0000F643{Afghanistan.~FF~}#016#013
+Afghanistan.~FF~#013
+;0000F650{China.~FF~}#010#007
+China.~FF~#007
+;0000F657{Mongolia.~FF~}#013#010
+Mongolia.~FF~#010
+;0000F661{Japan.~FF~}#010#007
+Japan.~FF~#007
+;0000F668{Middle\East.~FF~}#016#013
+Middle\East.~FF~#013
+;0000F675{India.~FF~}#010#007
+India.~FF~#007
+;0000F67C{Siam.~FF~}#009#006
+Siam.~FF~#006
+;0000F682{Indonesia.~FF~}#014#011
+Indonesia.~FF~#011
+;0000F68D{New\Guinea.~FF~}#015#012
+New\Guinea.~FF~#012
+;0000F699{Western\Australia.~FF~}#022#019
+Western\Australia.~FF~#019
+;0000F6AC{Eastern\Australia.~FF~}#022#019
+Eastern\Australia.~FF~#019
+;0000F6BF{Greenland.~FF~}#014#011
+Greenland.~FF~#011
+;0000F6CA{Madagascar.~FF~}#015#012
+Madagascar.~FF~#012
+;0000F6D6{~23~________________________$~FE~`\You\receive\2\extra\\\\~40~~FE~`\\armies\on\country\\\\\~40~~FE~`\\\\\\\\\\\\\\\\\\\\\\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^^&~FF~}#162#135
+~23~________________________$~FE~`\You\receive\2\extra\\\\~40~~FE~`\\armies\on\country\\\\\~40~~FE~`\\\\\\\\\\\\\\\\\\\\\\\\~40~~FE~%^^^^^^^^^^^^^^^^^^^^^^^^&~FF~#135
+;0000F75D{        ~FF~}#012#009
+        ~FF~#009
+|1005
+@0000F767-0000F7EE-FF
+;0000F767{______$~FE~`Army\\~40~~FE~`\Move-~40~~FE~`D\pad\~40~~FE~`moves,~40~~FE~`'A'\\\~40~~FE~`\ends.~40~~FE~%^^^^^^&~FF~}#113#071
+______$~FE~`Army\\~40~~FE~`\Move-~40~~FE~`D\pad\~40~~FE~`moves,~40~~FE~`'A'\\\~40~~FE~`\ends.~40~~FE~%^^^^^^&~FF~#071
+;0000F7AE{North~FE~~FE~ America~FF~}#025#016
+North~FE~~FE~ America~FF~#016
+;0000F7BE{ South~FE~~FE~America~FF~}#025#016
+ South~FE~~FE~America~FF~#016
+;0000F7CE{Europe~FF~}#010#007
+Europe~FF~#007
+;0000F7D5{Africa~FF~}#010#007
+Africa~FF~#007
+;0000F7DC{Asia~FF~}#008#005
+Asia~FF~#005
+;0000F7E1{Australia~FF~}#013#010
+Australia~FF~#010
+;0000F7EB{~7B~~7E~~7E~~7E~}#016#004
+~7B~~7E~~7E~~7E~#004
+|136

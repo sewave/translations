@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Simpsons, The - Bartman Meets Radioactive Man (USA).nes"
+set SCRIPTNAME="simpsonsthebartmanmeetsradioactivemannes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 43840:80,439D0:30,43C00:10,5D040:80,5D1D0:30,5D400:10,5E040:80,5E1D0:30,5E400:10,473F0:10,476E0:40,4F6E0:40,4FEE0:40,5C7B0:C0,5B490:70,5B550:70,5C070:40,5C1D0:30,5C3E0:40,5C550:40,5ACA0:140,5C260:20,5C3B0:20
+pause

@@ -1,6 +1,6 @@
-The Simpsons - Bart Vs. the Space Mutants (NES)
-Traducción al Español v1.0 (19/04/2020)
-(C) 2020 Traducciones Wave
+The Simpsons - Bart vs. the Space Mutants (NES)
+Traducción al Español v2.0 (03/04/2021)
+(C) 2021 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -9,15 +9,20 @@ Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
+V2.0:
+-Traducción de la versión USA
+-Retraducción sin usar herramientas externas
+-Revisión de textos
+
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Simpsons, The - Bart Vs. the Space Mutants (E) [!].nes
-MD5: ccd36aef8b65b3e64c7a7189e004ad43
-SHA1: 6e00647579904835b8f237875b81cc6d19839d51
-CRC32: b3cd6707
+Simpsons, The - Bart vs. the Space Mutants (USA) (Rev 1).nes
+MD5: 3ba5363fb1459334efc16779089c1ad8
+SHA1: 3b497a98aed743e52d42821f46fb842915d82b40
+CRC32: c8602800
 262160 bytes
 
 --------

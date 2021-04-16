@@ -1,0 +1,338 @@
+@00012553-00012602-FF
+;00012553{King0000(~65~)1(~25~)2(~26~)3(~67~)4(~68~)5(~65~)6Racket FRacket ERacket DRacket CRacket BRacket AShirt  FShirt  EShirt  DShirt  CShirt  BShirt  AShoes  FShoes  EShoes  DShoes  CShoes  BShoes  A}#194#176
+King0000(~65~)1(~25~)2(~26~)3(~67~)4(~68~)5(~65~)6Racket FRacket ERacket DRacket CRacket BRacket AShirt  FShirt  EShirt  DShirt  CShirt  BShirt  AShoes  FShoes  EShoes  DShoes  CShoes  BShoes  A#176
+|176
+@0001310D-00013112-FF
+;0001310D{  Yes~FF~}#009#006
+  Yes~FF~#006
+|6
+@0001311D-00013122-FF
+;0001311D{  No ~FF~}#009#006
+  No ~FF~#006
+|6
+@0001312D-00013132-FF
+;0001312D{ Warp~FF~}#009#006
+ Warp~FF~#006
+|6
+@0001313D-00013144-FF
+;0001313D{ Search~FF~}#011#008
+ Search~FF~#008
+|8
+@0001314D-00013158-FF
+;0001314D{ Items ~FF~}#011#008
+ Items ~FF~#008
+;00013155{~FF~}#004#001
+~FF~#001
+;00013156{~FF~}#004#001
+~FF~#001
+;00013157{~FF~}#004#001
+~FF~#001
+;00013158{~FF~}#004#001
+~FF~#001
+|12
+@0001315D-00013161-FF
+;0001315D{ Yes~FF~}#008#005
+ Yes~FF~#005
+|5
+@0001316D-00013171-FF
+;0001316D{ No ~FF~}#008#005
+ No ~FF~#005
+|5
+@00013472-0001347C-FF-F2
+;00013472{[$   500 ]=}#011#011
+[$   500 ]=#011
+|11
+@0001349D-000134A8-FF-F2
+;0001349D{[ Exit    ]=}#012#012
+[ Exit    ]=#012
+|12
+@000134F2-000134F8-FF-F2
+;000134F2{[ Yes]=}#007#007
+[ Yes]=#007
+|7
+@00013506-0001350C-FF-F2
+;00013506{[ No ]=}#007#007
+[ No ]=#007
+|7
+@000138E5-00013974-00
+;000138E5{Wirt~FF~~FF~~FF~~FF~Rosen~FF~~FF~~FF~Sevens~FF~~FF~Weitz~FF~~FF~~FF~Keefe~FF~~FF~~FF~Smith~FF~~FF~~FF~Grans~FF~~FF~~FF~Kirth~FF~~FF~~FF~Grant~FF~~FF~~FF~Pavs~FF~~FF~~FF~~FF~Witt~FF~~FF~~FF~~FF~Acer~FF~~FF~~FF~~FF~Latz~FF~~FF~~FF~~FF~Brien~FF~~FF~~FF~Jenun~FF~~FF~~FF~Davis~FF~~FF~~FF~Helder~FF~~FF~Elfan~FF~~FF~~FF~}#315#144
+Wirt~FF~~FF~~FF~~FF~Rosen~FF~~FF~~FF~Sevens~FF~~FF~Weitz~FF~~FF~~FF~Keefe~FF~~FF~~FF~Smith~FF~~FF~~FF~Grans~FF~~FF~~FF~Kirth~FF~~FF~~FF~Grant~FF~~FF~~FF~Pavs~FF~~FF~~FF~~FF~Witt~FF~~FF~~FF~~FF~Acer~FF~~FF~~FF~~FF~Latz~FF~~FF~~FF~~FF~Brien~FF~~FF~~FF~Jenun~FF~~FF~~FF~Davis~FF~~FF~~FF~Helder~FF~~FF~Elfan~FF~~FF~~FF~#144
+|144
+@00013BA7-00013BB1-FF-F2
+;00013BA7{[ Chicago]~FF~}#014#011
+[ Chicago]~FF~#011
+|11
+@00013C5E-00013C89-FF-F2
+;00013C5E{[ Paris  ]~FF~}#014#011
+[ Paris  ]~FF~#011
+;00013C69{[ Tokyo  ]~FF~}#014#011
+[ Tokyo  ]~FF~#011
+;00013C74{[ London ]~FF~}#014#011
+[ London ]~FF~#011
+;00013C7F{[ Toront ]~FF~}#014#011
+[ Toront ]~FF~#011
+|44
+@00013F8F-00013F9A-FF-F2
+;00013F8F{[ Pearl 0 ]~FF~}#015#012
+[ Pearl 0 ]~FF~#012
+|12
+@000140FD-0001410C-FF
+;000140FD{T~8D~>~25~~A9~u~8D~~62~~25~~A9~b~8D~(~25~~A9~e}#046#016
+T~8D~>~25~~A9~u~8D~~62~~25~~A9~b~8D~(~25~~A9~e#016
+|16
+@000143B9-000143CB-FF-F2
+;000143B9{[Enter your name.]=}#019#019
+[Enter your name.]=#019
+|19
+@00014423-00014427-FF
+;00014423{End=~8E~}#008#005
+End=~8E~#005
+|5
+@000144D9-000144E1-FF
+;000144D9{[Select]=}#009#009
+[Select]=#009
+|9
+@000144EE-000144FF-FF-F2
+;000144EE{~CE~2wMale=~4E~3wFemale~FF~}#027#018
+~CE~2wMale=~4E~3wFemale~FF~#018
+|18
+@000148D8-000148E9-FF
+;000148D8{[Enter password.]=}#018#018
+[Enter password.]=#018
+|18
+@0001499C-0001499F-FF
+;0001499C{End=}#004#004
+End=#004
+|4
+@00014FD7-000153D9-FF-F2
+;00014FD7{0I challenge you.=^Do you accept?~FF~}#037#034
+0I challenge you.=^Do you accept?~FF~#034
+;00014FF9{0I'm forcing you=to play.=^you can't say="No".^^^^~FF~}#054#051
+0I'm forcing you=to play.=^you can't say="No".^^^^~FF~#051
+;0001502C{0"Bye bye!"^^^~FF~}#018#015
+0"Bye bye!"^^^~FF~#015
+;0001503B{0~F3~ said "no!".=^Enemy is pushy.^^^~FF~}#041#035
+0~F3~ said "no!".=^Enemy is pushy.^^^~FF~#035
+;0001505E{0~FF~}#005#002
+0~FF~#002
+;00015060{0~F3~ won=and received $~F4~0.^^^^~FF~}#038#029
+0~F3~ won=and received $~F4~0.^^^^~FF~#029
+;0001507D{0~F3~ lost.^^^^~FF~}#019#013
+0~F3~ lost.^^^^~FF~#013
+;0001508A{0Ready!^^^=^^~FF~}#017#014
+0Ready!^^^=^^~FF~#014
+;00015098{0^Nothing is there.~FF~}#023#020
+0^Nothing is there.~FF~#020
+;000150AC{0^Nothing is there.~FF~}#023#020
+0^Nothing is there.~FF~#020
+;000150C0{0~F3~ found=$1000.~FF~}#022#016
+0~F3~ found=$1000.~FF~#016
+;000150D0{0Oops!=^~F3~ was stepping=on dog's poop.~FF~}#044#038
+0Oops!=^~F3~ was stepping=on dog's poop.~FF~#038
+;000150F6{0~F3~ has found=an iron racket!=^^But it's too heavy.~FF~}#057#051
+0~F3~ has found=an iron racket!=^^But it's too heavy.~FF~#051
+;00015129{0~F3~found=burning racket!=^^But it's too hot=to pick up.~FF~}#061#055
+0~F3~found=burning racket!=^^But it's too hot=to pick up.~FF~#055
+;00015160{0Oops!=^~F3~ was stepping=on cat's poop.~FF~}#044#038
+0Oops!=^~F3~ was stepping=on cat's poop.~FF~#038
+;00015186{0Oops!=^~F3~ was stepping=on rat's poop.~FF~}#044#038
+0Oops!=^~F3~ was stepping=on rat's poop.~FF~#038
+;000151AC{2^Oh ~F3~!=I've been waiting=for you./2^I'm a King of=tennis kingdom.=^Would you do=me a favor?/2^My country has=been peaceful.=^Everyone loved=tennis./2^But it's all over.=^Evil tennis king =appeared./2^He took treasures=of the royals./2^And snatched the=tennis courts./2^People can't play=tennis and are =complaining./2^Beat the king of=tennis=^and bring back=peace./2^I will give you=tennis goods=and $500=before you leave./2^I'm counting on you=to bring peace=to our Kingdom!~FF~}#483#477
+2^Oh ~F3~!=I've been waiting=for you./2^I'm a King of=tennis kingdom.=^Would you do=me a favor?/2^My country has=been peaceful.=^Everyone loved=tennis./2^But it's all over.=^Evil tennis king =appeared./2^He took treasures=of the royals./2^And snatched the=tennis courts./2^People can't play=tennis and are =complaining./2^Beat the king of=tennis=^and bring back=peace./2^I will give you=tennis goods=and $500=before you leave./2^I'm counting on you=to bring peace=to our Kingdom!~FF~#477
+;00015389{2^I'm sorry=you lost.=^You need=more practice./2^For your efforts=I give you $~F4~./}#084#081
+2^I'm sorry=you lost.=^You need=more practice./2^For your efforts=I give you $~F4~./#081
+|1027
+@000153DA-000157E0-FF-F2
+;000153DA{2^Try again!~FF~}#016#013
+2^Try again!~FF~#013
+;000153E7{2^Go.~FF~}#009#006
+2^Go.~FF~#006
+;000153ED{2^You've done=a great job./2^I think you for=beating the king of=Tennis./2^I knew you=would take =treasures back./2^Thank you for=bringing back my=jewels./2^I am very pleased=with you./2^You will rule=over my tennis=kingdom forever./2^And,=since you have=mastered your=tennis game,/2^maybe you should=have another=challenge./2^Do you like=racing?/2^I know that=Final Lap has=another similar=challenge./2^In any case,=thank you again./2^You have brought=peace to my land./2^We are all=very proud!~FF~}#499#496
+2^You've done=a great job./2^I think you for=beating the king of=Tennis./2^I knew you=would take =treasures back./2^Thank you for=bringing back my=jewels./2^I am very pleased=with you./2^You will rule=over my tennis=kingdom forever./2^And,=since you have=mastered your=tennis game,/2^maybe you should=have another=challenge./2^Do you like=racing?/2^I know that=Final Lap has=another similar=challenge./2^In any case,=thank you again./2^You have brought=peace to my land./2^We are all=very proud!~FF~#496
+;000155DD{2^Let's go!~FF~}#015#012
+2^Let's go!~FF~#012
+;000155E9{1^Surprises!=I'm the king=of Tennis./1^You'll never=defeat me.=^Game is=a 3 set match.~FF~}#090#087
+1^Surprises!=I'm the king=of Tennis./1^You'll never=defeat me.=^Game is=a 3 set match.~FF~#087
+;00015640{1^Surprises!=I'm the king=of Tennis./1^I see you have=the magical ball./1^I can't serve=quickly when it=light upon me./1^Let's play.=^Game is =a 3set match.~FF~}#160#157
+1^Surprises!=I'm the king=of Tennis./1^I see you have=the magical ball./1^I can't serve=quickly when it=light upon me./1^Let's play.=^Game is =a 3set match.~FF~#157
+;000156DD{1^You defeat me.=You're very=strong./1^Because of your=victory,=^I'll give you =treasures back./1^The Kingdom is=yours.^^^^^~FF~}#128#125
+1^You defeat me.=You're very=strong./1^Because of your=victory,=^I'll give you =treasures back./1^The Kingdom is=yours.^^^^^~FF~#125
+;0001575A{1Thank you for=playing the quest.=^See you soon.=^^The End.~FF~}#063#060
+1Thank you for=playing the quest.=^See you soon.=^^The End.~FF~#060
+;00015796{1Expensive clothes=can help you=avoid Tennis=challenges.~FF~}#060#057
+1Expensive clothes=can help you=avoid Tennis=challenges.~FF~#057
+;000157CF{1This is Chicago.~FF~}#021#018
+1This is Chicago.~FF~#018
+|1031
+@000157E1-00015BE5-FF-F2
+;000157E1{1Get information=from people.~FF~}#033#030
+1Get information=from people.~FF~#030
+;000157FF{1Earn money and=get better goods.~FF~}#037#034
+1Earn money and=get better goods.~FF~#034
+;00015821{1Welcome to=Paris.~FF~}#022#019
+1Welcome to=Paris.~FF~#019
+;00015834{1Be careful!=^There are some=surprises here.~FF~}#048#045
+1Be careful!=^There are some=surprises here.~FF~#045
+;00015861{1With the inner=tube, you can swim.~FF~}#039#036
+1With the inner=tube, you can swim.~FF~#036
+;00015885{1Tennis keeps you=in shape.~FF~}#031#028
+1Tennis keeps you=in shape.~FF~#028
+;000158A1{1Tennis is=great fun.~FF~}#025#022
+1Tennis is=great fun.~FF~#022
+;000158B7{1There is a town=to the north.~FF~}#034#031
+1There is a town=to the north.~FF~#031
+;000158D6{1I'm a notorious=strange man.~FF~}#033#030
+1I'm a notorious=strange man.~FF~#030
+;000158F4{1You'll find=a tennis court=to the west.~FF~}#044#041
+1You'll find=a tennis court=to the west.~FF~#041
+;0001591D{1This lake is huge,=^something should=be there.~FF~}#051#048
+1This lake is huge,=^something should=be there.~FF~#048
+;0001594D{1Hey there,=what's happening?~FF~}#033#030
+1Hey there,=what's happening?~FF~#030
+;0001596B{1If you're good=enough, You can=fight without=magical ball.~FF~}#063#060
+1If you're good=enough, You can=fight without=magical ball.~FF~#060
+;000159A7{1You can get=bigger racket.~FF~}#031#028
+1You can get=bigger racket.~FF~#028
+;000159C3{1Learn how to swim=and come again.~FF~}#038#035
+1Learn how to swim=and come again.~FF~#035
+;000159E6{1Hello ~F3~.~FF~}#016#010
+1Hello ~F3~.~FF~#010
+;000159F0{1You can't get=an inner tube=near here.~FF~}#043#040
+1You can't get=an inner tube=near here.~FF~#040
+;00015A18{1This town is=Tokyo.~FF~}#024#021
+1This town is=Tokyo.~FF~#021
+;00015A2D{1Welcome to=London.~FF~}#023#020
+1Welcome to=London.~FF~#020
+;00015A41{1Next town is=south of the maze.~FF~}#036#033
+1Next town is=south of the maze.~FF~#033
+;00015A62{1There is a tennis=court near the=Eastern lake.~FF~}#051#048
+1There is a tennis=court near the=Eastern lake.~FF~#048
+;00015A92{1Welcome to=Toronto.~FF~}#024#021
+1Welcome to=Toronto.~FF~#021
+;00015AA7{1You can get=an inner tube=when you leave the=mountain maze.~FF~}#064#061
+1You can get=an inner tube=when you leave the=mountain maze.~FF~#061
+;00015AE4{1You can buy=better shoes=improve your play.~FF~}#048#045
+1You can buy=better shoes=improve your play.~FF~#045
+;00015B11{1Sorry,^=I can't help you.~FF~}#030#027
+1Sorry,^=I can't help you.~FF~#027
+;00015B2C{1Hello!^=May I help you?~FF~}#028#025
+1Hello!^=May I help you?~FF~#025
+;00015B45{1This is $~F4~0.~FF~}#020#014
+1This is $~F4~0.~FF~#014
+;00015B53{1You are short =of money.~FF~}#029#026
+1You are short =of money.~FF~#026
+;00015B6D{1Thank you.~FF~}#015#012
+1Thank you.~FF~#012
+;00015B79{1Bye.~FF~}#009#006
+1Bye.~FF~#006
+;00015B7F{1There are 6 tennis=courts in this=country.~FF~}#047#044
+1There are 6 tennis=courts in this=country.~FF~#044
+;00015BAB{1With magical ball,=you could receive=tennis king's=serve./}#059#059
+1With magical ball,=you could receive=tennis king's=serve./#059
+|1029
+@00015BE6-00015FCA-FF-F2
+;00015BE6{1Someone has the =magical ball.~FF~}#035#032
+1Someone has the =magical ball.~FF~#032
+;00015C06{1You can earn=big bucks =if you're good=enough.~FF~}#051#048
+1You can earn=big bucks =if you're good=enough.~FF~#048
+;00015C36{1You will receive=a pearl for each=henchman you=defeat.~FF~}#059#056
+1You will receive=a pearl for each=henchman you=defeat.~FF~#056
+;00015C6E{1I have the magical=ball.^ You must=bring me 6 pearls=to receive it.~FF~}#072#069
+1I have the magical=ball.^ You must=bring me 6 pearls=to receive it.~FF~#069
+;00015CB3{1Now you have=brought 6 pearls.=Here is the =magical ball.~FF~}#062#059
+1Now you have=brought 6 pearls.=Here is the =magical ball.~FF~#059
+;00015CEE{111You have=magical ball.~FF~}#029#026
+111You have=magical ball.~FF~#026
+;00015D08{1Nothing here.~FF~}#018#015
+1Nothing here.~FF~#015
+;00015D17{1It's your lucky=day.=Here is an inner=tube./1The evil king is=at the Northern=Island.~FF~}#090#087
+1It's your lucky=day.=Here is an inner=tube./1The evil king is=at the Northern=Island.~FF~#087
+;00015D6E{1Leave.~FF~}#011#008
+1Leave.~FF~#008
+;00015D76{1I'll make your=racket larger./1The power is yours!=^^^Ok go!~FF~}#065#062
+1I'll make your=racket larger./1The power is yours!=^^^Ok go!~FF~#062
+;00015DB4{1Let's play tennis./1If you beat me,=^I'll give you=a pearl./1Game is=a 1set match.~FF~}#087#084
+1Let's play tennis./1If you beat me,=^I'll give you=a pearl./1Game is=a 1set match.~FF~#084
+;00015E08{1I gave you=a pearl.^^^^^^~FF~}#030#027
+1I gave you=a pearl.^^^^^^~FF~#027
+;00015E23{1Gave up,^=Give you a pearl.~FF~}#032#029
+1Gave up,^=Give you a pearl.~FF~#029
+;00015E40{1Be a better =player and come=again.~FF~}#040#037
+1Be a better =player and come=again.~FF~#037
+;00015E65{3^This is a House=of Transvestite./3^We can change of=your sex with=$10000.=^^Want you try?~FF~}#095#092
+3^This is a House=of Transvestite./3^We can change of=your sex with=$10000.=^^Want you try?~FF~#092
+;00015EC1{3^Toast to your=new life!~FF~}#029#026
+3^Toast to your=new life!~FF~#026
+;00015EDB{3^I see.=^Come whenever=you like.~FF~}#037#034
+3^I see.=^Come whenever=you like.~FF~#034
+;00015EFD{1You're short=of money.~FF~}#027#024
+1You're short=of money.~FF~#024
+;00015F15{1Hello!=Would you like to=make a bet?/1$1000 for bet.=^Will you try ?~FF~}#073#070
+1Hello!=Would you like to=make a bet?/1$1000 for bet.=^Will you try ?~FF~#070
+;00015F5B{1Come back soon.~FF~}#020#017
+1Come back soon.~FF~#017
+;00015F6C{1Pick the team.~FF~}#019#016
+1Pick the team.~FF~#016
+;00015F7C{1Play.^^~FF~}#012#009
+1Play.^^~FF~#009
+;00015F85{1You won.=~F3~ gets $~F4~00.~FF~}#032#023
+1You won.=~F3~ gets $~F4~00.~FF~#023
+;00015F9C{1Come again.~FF~}#016#013
+1Come again.~FF~#013
+;00015FA9{1Sorry.~FF~}#011#008
+1Sorry.~FF~#008
+;00015FB1{1You are short =of money.~FF~}#029#026
+1You are short =of money.~FF~#026
+|997
+@00016982-00016988-FF
+;00016982{[ Yes]=}#007#007
+[ Yes]=#007
+|7
+@00016996-0001699C-FF
+;00016996{[ no ]=}#007#007
+[ no ]=#007
+|7
+@00016FA1-00016FA5-FF
+;00016FA1{Odds=}#005#005
+Odds=#005
+|5
+@00017053-00017059-FF
+;00017053{[ Yes]=}#007#007
+[ Yes]=#007
+|7
+@00017067-0001706D-FF
+;00017067{[ No ]=}#007#007
+[ No ]=#007
+|7
+@00017126-00017130-FF
+;00017126{Won~FF~}#007#004
+Won~FF~#004
+;0001712A{~CA~2~66~Won~FF~}#016#007
+~CA~2~66~Won~FF~#007
+|11
+@00017DE5-00017E32-FF
+;00017DE5{46Points=4561st Serve =~84~56Ace         =466Double fault=~84~66Missed shots=~91~1~66~WIN~FF~}#093#078
+46Points=4561st Serve =~84~56Ace         =466Double fault=~84~66Missed shots=~91~1~66~WIN~FF~#078
+|78
+@00018105-000181A3-FF
+;00018105{42~66~Wirt=D2~66~Rosen=M2~66~Sevens=~84~2~66~Weitz=~8D~2~66~Keefe=~96~2~66~Smith=43~66~Grans=D3~66~Kirsh=M3~66~Grant=~84~3~66~Pavs=~8D~3~66~Witt=~96~3~66~Acer=44~66~Latz=D4~66~Brien=M4~66~Jenun=~84~4~66~Davis=~8D~4~66~Helder=~96~4~66~Elfan~FF~}#243#159
+42~66~Wirt=D2~66~Rosen=M2~66~Sevens=~84~2~66~Weitz=~8D~2~66~Keefe=~96~2~66~Smith=43~66~Grans=D3~66~Kirsh=M3~66~Grant=~84~3~66~Pavs=~8D~3~66~Witt=~96~3~66~Acer=44~66~Latz=D4~66~Brien=M4~66~Jenun=~84~4~66~Davis=~8D~4~66~Helder=~96~4~66~Elfan~FF~#159
+|159
+@000181FC-00018231-FF
+;000181FC{PUSH RUN BUTTON=~CC~5~66~FROM NEC=z6~66~~AE~ 1987 1989 NAMCO LTD.~FF~}#069#054
+PUSH RUN BUTTON=~CC~5~66~FROM NEC=z6~66~~AE~ 1987 1989 NAMCO LTD.~FF~#054
+|54
+@00018373-00018383-FF-F2
+;00018373{A3~66~[Tie breaker]=}#020#017
+A3~66~[Tie breaker]=#017
+|17
+@00018395-000183B6-FF-F2
+;00018395{A3~66~[Second set!]~FF~}#023#017
+A3~66~[Second set!]~FF~#017
+;000183A6{A3~66~[ Third set!]~FF~}#023#017
+A3~66~[ Third set!]~FF~#017
+|34
+@000185A3-000185F2-FF-F2
+;000185A3{~83~4~66~1player=35~66~2players=~83~5~66~Watch=~8D~4~66~2players=D5~66~4players=~8D~5~66~Watch=~97~4~66~New=N5~66~Pass~FF~}#122#080
+~83~4~66~1player=35~66~2players=~83~5~66~Watch=~8D~4~66~2players=D5~66~4players=~8D~5~66~Watch=~97~4~66~New=N5~66~Pass~FF~#080
+|80

@@ -1,0 +1,518 @@
+@00014FD7-000153D9-FF-F2
+;00014FD7{0I challenge you.=^Do you accept?~FF~}#037#034
+0
+Te desafío.=^¿Aceptas?\         ~FF~#034
+;00014FF9{0I'm forcing you=to play.=^you can't say="No".^^^^~FF~}#054#051
+0
+Te obligo a=jugar.=^No puedes decir="No".^^^^\   ~FF~#051
+;0001502C{0"Bye bye!"^^^~FF~}#018#015
+0"¡Adiós!"^^^\~FF~#015
+;0001503B{0~F3~ said "no!".=^Enemy is pushy.^^^~FF~}#041#035
+0¡~F3~ dijo "no!".=^El rival empuja.^~FF~#035
+;0001505E{0~FF~}#005#002
+0~FF~#002
+;00015060{0~F3~ won=and received $~F4~0.^^^^~FF~}#038#029
+0~F3~ ganó y=recibió ~F4~0$.^^^^\ ~FF~#029
+;0001507D{0~F3~ lost.^^^^~FF~}#019#013
+0~F3~ perdió.^^~FF~#013
+;0001508A{0Ready!^^^=^^~FF~}#017#014
+0
+¡Listo!^^=^^~FF~#014
+;00015098{0^Nothing is there.~FF~}#023#020
+0^
+Aquí no hay nada.~FF~#020
+;000150AC{0^Nothing is there.~FF~}#023#020
+0^
+Aquí no hay nada.~FF~#020
+;000150C0{0~F3~ found=$1000.~FF~}#022#016
+0~F3~ halló=1000$.~FF~#016
+;000150D0{0Oops!=^~F3~ was stepping=on dog's poop.~FF~}#044#038
+0¡Oops!=^~F3~ pisó una caca=de perro.\  ~FF~#038
+;000150F6{0~F3~ has found=an iron racket!=^^But it's too heavy.~FF~}#057#051
+0
+¡~F3~ halló=raqueta de hierro!=^^
+Pero es muy pesada.~FF~#051
+;00015129{0~F3~found=burning racket!=^^But it's too hot=to pick up.~FF~}#061#055
+0
+¡~F3~ halló=raqueta ardiente!=^^Pero está muy=caliente.\~FF~#055
+;00015160{0Oops!=^~F3~ was stepping=on cat's poop.~FF~}#044#038
+0¡Oops!=^~F3~ pisó una caca=de gato.\   ~FF~#038
+;00015186{0Oops!=^~F3~ was stepping=on rat's poop.~FF~}#044#038
+0¡Oops!=^~F3~ pisó una caca=de rata.\   ~FF~#038
+;000151AC{2^Oh ~F3~!=I've been waiting=for you.~F2~}#041#035
+2^¡Oh ~F3~!=He estado=esperándote./  ~F2~#035
+;000151CF{2^I'm a King of=tennis kingdom.=^Would you do=me a favor?~F2~}#061#058
+2^
+Soy el Rey del=reino del tenis.=^¿Me harías un=favor?/ ~F2~#058
+;00015209{2^My country has=been peaceful.=^Everyone loved=tennis.~F2~}#059#056
+2^Mi país era=pacífico.=^Todos amaban el=tenis./       ~F2~#056
+;00015241{2^But it's all over.=^Evil tennis king =appeared.~F2~}#053#050
+2^Pero acabó.=^Apareció el malvado=rey del tenis.~F2~#050
+;00015273{2^He took treasures=of the royals.~F2~}#038#035
+2^Tomó los tesoros de=la realeza./~F2~#035
+;00015296{2^And snatched the=tennis courts.~F2~}#037#034
+2^Y arrebató las=pistas de tenis.~F2~#034
+;000152B8{2^People can't play=tennis and are =complaining.~F2~}#052#049
+2^La gente no puede=jugar a tenis y se=queja./  ~F2~#049
+;000152E9{2^Beat the king of=tennis=^and bring back=peace.~F2~}#052#049
+2^Vence al rey del=tenis y devuelve la=^paz./   ~F2~#049
+;0001531A{2^I will give you=tennis goods=and $500=before you leave.~F2~}#061#058
+2^Te daré útiles de=tenis y 500$ antes=de que te vayas./ ~F2~#058
+;00015354{2^I'm counting on you=to bring peace=to our Kingdom!~FF~}#056#053
+2^¡Cuento contigo=para devolverle la=paz al reino!\ ~FF~#053
+;00015389{2^I'm sorry=you lost.=^You need=more practice.~F2~}#050#047
+2^Siento que=perdieras.=^Debes practicar=más./~F2~#047
+;000153B8{2^For your efforts=I give you $~F4~.~F2~}#040#034
+2^Por tus esfuerzos=te daré ~F4~$./ ~F2~#034
+|1027
+@000153DA-000157E0-FF-F2
+;000153DA{2^Try again!~FF~}#016#013
+2^¡Otra vez!~FF~#013
+;000153E7{2^Go.~FF~}#009#006
+2^Ve.~FF~#006
+;000153ED{2^You've done=a great job.~F2~}#030#027
+2^Hiciste un gran=trabajo.~F2~#027
+;00015408{2^I think you for=beating the king of=Tennis.~F2~}#049#046
+2^Creí en ti para=vencer al rey del=Tenis./  ~F2~#046
+;00015436{2^I knew you=would take =treasures back.~F2~}#044#041
+2^Sabía que=recuperarías los=tesoros./  ~F2~#041
+;0001545F{2^Thank you for=bringing back my=jewels.~F2~}#044#041
+2^Gracias por=devolverme las=joyas./    ~F2~#041
+;00015488{2^I am very pleased=with you.~F2~}#033#030
+2^Estoy muy contento=contigo.~F2~#030
+;000154A6{2^You will rule=over my tennis=kingdom forever.~F2~}#051#048
+2^Reinarás sobre mi=reino de tenis=siempre./   ~F2~#048
+;000154D6{2^And,=since you have=mastered your=tennis game,~F2~}#052#049
+2^Y,=como has dominado=nuestro juego de=tenis,/ ~F2~#049
+;00015507{2^maybe you should=have another=challenge.~F2~}#046#043
+2^quizá deberías=buscar otro=desafío./    ~F2~#043
+;00015532{2^Do you like=racing?~F2~}#025#022
+2^¿Te gusta correr?/ ~F2~#022
+;00015548{2^I know that=Final Lap has=another similar=challenge.~F2~}#058#055
+2^Sé que Final Lap=tiene otro desafío=similar./       ~F2~#055
+;0001557F{2^In any case,=thank you again.~F2~}#035#032
+2^En cualquier caso,=gracias./ ~F2~#032
+;0001559F{2^You have brought=peace to my land.~F2~}#040#037
+2^Has traído la paz a=mi tierra./   ~F2~#037
+;000155C4{2^We are all=very proud!~FF~}#028#025
+2^¡Estamos=orgullosos!\ ~FF~#025
+;000155DD{2^Let's go!~FF~}#015#012
+2^
+¡Vamos!\ ~FF~#012
+;000155E9{1^Surprises!=I'm the king=of Tennis.~F2~}#040#037
+1^¡Sorpresa!=Soy el rey del=Tenis./ ~F2~#037
+;0001560E{1^You'll never=defeat me.=^Game is=a 3 set match.~FF~}#053#050
+1^Nunca me=derrotarás.=^El partido es a 3=sets.\ ~FF~#050
+;00015640{1^Surprises!=I'm the king=of Tennis.~F2~}#040#037
+1^¡Sorpresa!=Soy el rey del=Tenis./ ~F2~#037
+;00015665{1^I see you have=the magical ball.~F2~}#038#035
+1^Veo que tienes la=bola mágica./ ~F2~#035
+;00015688{1^I can't serve=quickly when it=light upon me.~F2~}#050#047
+1^No puedo sacar=rápido cuando me=iluminan./  ~F2~#047
+;000156B7{1^Let's play.=^Game is =a 3set match.~FF~}#041#038
+1^Juguemos.=^El partido es a 3=sets.\~FF~#038
+;000156DD{1^You defeat me.=You're very=strong.~F2~}#040#037
+1^Me derrotaste.=Eres muy fuerte./  ~F2~#037
+;00015702{1^Because of your=victory,=^I'll give you =treasures back.~F2~}#062#059
+1^Por tu victoria,=^te devolveré los=tesoros./            ~F2~#059
+;0001573D{1^The Kingdom is=yours.^^^^^~FF~}#032#029
+1^
+El Reino es tuyo.^^^^^\   ~FF~#029
+;0001575A{1Thank you for=playing the quest.=^See you soon.=^^The End.~FF~}#063#060
+1
+Gracias por jugar=la aventura.=^
+Hasta la próxima.=^^Fin.\ ~FF~#060
+;00015796{1Expensive clothes=can help you=avoid Tennis=challenges.~FF~}#060#057
+1
+La ropa cara puede=ayudarte a evitar=desafíos de Tenis.~FF~#057
+;000157CF{1This is Chicago.~FF~}#021#018
+1
+Esto es Chicago.~FF~#018
+|1031
+@000157E1-00015BE5-FF-F2
+;000157E1{1Get information=from people.~FF~}#033#030
+1
+La gente te da=información.\~FF~#030
+;000157FF{1Earn money and=get better goods.~FF~}#037#034
+1
+Gana dinero y=consigue útiles.\ ~FF~#034
+;00015821{1Welcome to=Paris.~FF~}#022#019
+1
+Esto es París.\  ~FF~#019
+;00015834{1Be careful!=^There are some=surprises here.~FF~}#048#045
+1
+¡Ten cuidado!=^Aquí hay algunas=sorpresas.\~FF~#045
+;00015861{1With the inner=tube, you can swim.~FF~}#039#036
+1
+Con el flotador,=puedes nadar.\   ~FF~#036
+;00015885{1Tennis keeps you=in shape.~FF~}#031#028
+1
+El tenis es=ejercicio.\   ~FF~#028
+;000158A1{1Tennis is=great fun.~FF~}#025#022
+1
+El tenis divierte.\ ~FF~#022
+;000158B7{1There is a town=to the north.~FF~}#034#031
+1
+Hay una ciudad al=norte.\    ~FF~#031
+;000158D6{1I'm a notorious=strange man.~FF~}#033#030
+1
+Soy un notorio=hombre raro.\~FF~#030
+;000158F4{1You'll find=a tennis court=to the west.~FF~}#044#041
+1
+Hallarás una pista=de tenis al este.\  ~FF~#041
+;0001591D{1This lake is huge,=^something should=be there.~FF~}#051#048
+1
+El lago es enorme,=^debería haber algo=ahí.\  ~FF~#048
+;0001594D{1Hey there,=what's happening?~FF~}#033#030
+1
+Eh hola,=¿qué está pasando?\~FF~#030
+;0001596B{1If you're good=enough, You can=fight without=magical ball.~FF~}#063#060
+1
+Si eres muy bueno,=puedes luchar sin=la bola mágica.\     ~FF~#060
+;000159A7{1You can get=bigger racket.~FF~}#031#028
+1
+Puedes mejorar la=raqueta.~FF~#028
+;000159C3{1Learn how to swim=and come again.~FF~}#038#035
+1
+Aprende a nadar y=vuelve.\       ~FF~#035
+;000159E6{1Hello ~F3~.~FF~}#016#010
+1
+Hola ~F3~.\~FF~#010
+;000159F0{1You can't get=an inner tube=near here.~FF~}#043#040
+1
+No puedes conseguir=un flotador aquí.\~FF~#040
+;00015A18{1This town is=Tokyo.~FF~}#024#021
+1
+Esto es Tokio.\    ~FF~#021
+;00015A2D{1Welcome to=London.~FF~}#023#020
+1
+Esto es Londres.\ ~FF~#020
+;00015A41{1Next town is=south of the maze.~FF~}#036#033
+1
+Próxima ciudad sur=del enredo.\~FF~#033
+;00015A62{1There is a tennis=court near the=Eastern lake.~FF~}#051#048
+1
+Hay una pista de=tenis cerca del=lago Este.\  ~FF~#048
+;00015A92{1Welcome to=Toronto.~FF~}#024#021
+1
+Esto es Toronto.\  ~FF~#021
+;00015AA7{1You can get=an inner tube=when you leave the=mountain maze.~FF~}#064#061
+1
+Puedes conseguir=flotador tras el=laberinto de la=montaña.\~FF~#061
+;00015AE4{1You can buy=better shoes=improve your play.~FF~}#048#045
+1
+Puedes comprar=mejores zapatillas.\        ~FF~#045
+;00015B11{1Sorry,^=I can't help you.~FF~}#030#027
+1
+Perdona,^=no ayudo nada.\~FF~#027
+;00015B2C{1Hello!^=May I help you?~FF~}#028#025
+1¡Hola!^=¿Le ayudo?\    ~FF~#025
+;00015B45{1This is $~F4~0.~FF~}#020#014
+1
+Cuesta ~F4~0$.\~FF~#014
+;00015B53{1You are short =of money.~FF~}#029#026
+1
+Te falta dinero.\       ~FF~#026
+;00015B6D{1Thank you.~FF~}#015#012
+1
+Gracias.\ ~FF~#012
+;00015B79{1Bye.~FF~}#009#006
+1
+Ciao~FF~#006
+;00015B7F{1There are 6 tennis=courts in this=country.~FF~}#047#044
+1
+Hay 6 pistas de=tenis en este país.\      ~FF~#044
+;00015BAB{1With magical ball,=you could receive=tennis king's=serve.~F2~}#062#059
+1
+Con la bola mágica,=podrías recibir el=saque del rey./   ~F2~#059
+|1029
+@00015BE6-00015FCA-FF-F2
+;00015BE6{1Someone has the =magical ball.~FF~}#035#032
+1
+Alguien tiene la=bola mágica.\~FF~#032
+;00015C06{1You can earn=big bucks =if you're good=enough.~FF~}#051#048
+1
+Puedes ganar mucho=dinero si eres muy=bueno.\ ~FF~#048
+;00015C36{1You will receive=a pearl for each=henchman you=defeat.~FF~}#059#056
+1
+Recibirás una perla=por cada esbirro al=que derrotes.\~FF~#056
+;00015C6E{1I have the magical=ball.^ You must=bring me 6 pearls=to receive it.~FF~}#072#069
+1
+Tengo la bola=mágica.^ Debes=traerme 6 perlas=para recibirla.\     ~FF~#069
+;00015CB3{1Now you have=brought 6 pearls.=Here is the =magical ball.~FF~}#062#059
+1
+Ahora que trajiste=6 perlas,=aquí está la bola=mágica.\  ~FF~#059
+;00015CEE{111You have=magical ball.~FF~}#029#026
+111
+Tienes la bola=mágica.~FF~#026
+;00015D08{1Nothing here.~FF~}#018#015
+1
+No hay nada.\~FF~#015
+;00015D17{1It's your lucky=day.=Here is an inner=tube.~F2~}#048#045
+1
+Es tu día de=suerte.=Ten un flotador./     ~F2~#045
+;00015D44{1The evil king is=at the Northern=Island.~FF~}#045#042
+1
+El rey malvado está=en la Isla Norteña.\~FF~#042
+;00015D6E{1Leave.~FF~}#011#008
+1
+Vete.\~FF~#008
+;00015D76{1I'll make your=racket larger.~F2~}#034#031
+1
+Haré más grande tu=raqueta./ ~F2~#031
+;00015D95{1The power is yours!=^^^Ok go!~FF~}#034#031
+1
+¡El poder es tuyo!=^^^¡Vamos!~FF~#031
+;00015DB4{1Let's play tennis.~F2~}#023#020
+1
+Juguemos a tenis./~F2~#020
+;00015DC8{1If you beat me,=^I'll give you=a pearl.~F2~}#044#041
+1
+Si me derrotas,=^te daré una perla./   ~F2~#041
+;00015DF1{1Game is=a 1set match.~FF~}#026#023
+1
+Partido de 1 set.\   ~FF~#023
+;00015E08{1I gave you=a pearl.^^^^^^~FF~}#030#027
+1
+Te dí una perla.^^^^^^\  ~FF~#027
+;00015E23{1Gave up,^=Give you a pearl.~FF~}#032#029
+1
+Me rindo,=te doy una perla.~FF~#029
+;00015E40{1Be a better =player and come=again.~FF~}#040#037
+1
+Se un mejor jugador=y vuelve.\     ~FF~#037
+;00015E65{3^This is a House=of Transvestite.~F2~}#038#035
+3^
+Esta es la Casa del=Travestismo.~F2~#035
+;00015E88{3^We can change of=your sex with=$10000.=^^Want you try?~FF~}#060#057
+3^
+Podemos cambiar tu=sexo por 10.000$.=^¿Quieres probar?~FF~#057
+;00015EC1{3^Toast to your=new life!~FF~}#029#026
+3^
+¡Hurra por tu vida!\   ~FF~#026
+;00015EDB{3^I see.=^Come whenever=you like.~FF~}#037#034
+3^
+Ya veo.=^Ven cuando quieras.\  ~FF~#034
+;00015EFD{1You're short=of money.~FF~}#027#024
+1
+Tienes poco dinero.\  ~FF~#024
+;00015F15{1Hello!=Would you like to=make a bet?~F2~}#041#038
+1
+¡Hola!=¿Te gustaría=apostar?/       ~F2~#038
+;00015F3B{1$1000 for bet.=^Will you try ?~FF~}#035#032
+1
+1000$ por apuesta.=^¿Probarás?~FF~#032
+;00015F5B{1Come back soon.~FF~}#020#017
+1
+Vuelva pronto.\~FF~#017
+;00015F6C{1Pick the team.~FF~}#019#016
+1
+Elige equipo.\~FF~#016
+;00015F7C{1Play.^^~FF~}#012#009
+1
+Juega.^~FF~#009
+;00015F85{1You won.=~F3~ gets $~F4~00.~FF~}#032#023
+1
+Ganaste.=~F3~ gana ~F4~00$.~FF~#023
+;00015F9C{1Come again.~FF~}#016#013
+1
+Vuelva.\   ~FF~#013
+;00015FA9{1Sorry.~FF~}#011#008
+1
+Vaya.\~FF~#008
+;00015FB1{1You are short =of money.~FF~}#029#026
+1
+Te falta dinero.\       ~FF~#026
+|997
+@00017DE5-00017E32-FF
+;00017DE5{46Points=4561st Serve =~84~56Ace         =466Double fault=~84~66Missed shots=~91~1~66~WIN~FF~}#093#078
+46
+Puntos=456
+1rServicio=~84~56
+Ace         =466
+Doble falta =~84~66
+Tiro Fallado=~91~1~66~
+GNA~FF~#078
+|78
+@00018105-000181A3-FF
+;00018105{42~66~Wirt=D2~66~Rosen=M2~66~Sevens=~84~2~66~Weitz=~8D~2~66~Keefe=~96~2~66~Smith=43~66~Grans=D3~66~Kirsh=M3~66~Grant=~84~3~66~Pavs=~8D~3~66~Witt=~96~3~66~Acer=44~66~Latz=D4~66~Brien=M4~66~Jenun=~84~4~66~Davis=~8D~4~66~Helder=~96~4~66~Elfan~FF~}#243#159
+42~66~Wirt=D2~66~Rosen=M2~66~Sevens=~84~2~66~Weitz=~8D~2~66~Keefe=~96~2~66~Smith=43~66~Grans=D3~66~Kirsh=M3~66~Grant=~84~3~66~Pavs=~8D~3~66~Witt=~96~3~66~Acer=44~66~Latz=D4~66~Brien=M4~66~Jenun=~84~4~66~Davis=~8D~4~66~Helder=~96~4~66~Elfan~FF~#159
+|159
+@000181FC-00018231-FF
+;000181FC{PUSH RUN BUTTON=~CC~5~66~FROM NEC=z6~66~~AE~ 1987 1989 NAMCO LTD.~FF~}#069#054
+PULSA BOTÓN RUN=~CC~5~66~
+ DE NEC =z6~66~
+~AE~ 1987 1989 NAMCO LTD.~FF~#054
+|54
+@00018373-00018383-FF-F2
+;00018373{A3~66~[Tie breaker]=}#020#017
+A3~66~[ Desempate ]=#017
+|17
+@00018395-000183B6-FF-F2
+;00018395{A3~66~[Second set!]~FF~}#023#017
+A3~66~[ ¡2do set! ]~FF~#017
+;000183A6{A3~66~[ Third set!]~FF~}#023#017
+A3~66~[ ¡3er set! ]~FF~#017
+|34
+@000185A3-000185F2-FF-F2
+;000185A3{~83~4~66~1jugadr=35~66~2jugadrs=~83~5~66~Watch=~8D~4~66~2jugadrs=D5~66~4jugadrs=~8D~5~66~Watch=~97~4~66~New=N5~66~Pass~FF~}#122#080
+~83~4~66~
+1 jgdr =35~66~
+2 jgdrs=~83~5~66~
+Mirar=~8D~4~66~
+2 jgdrs=D5~66~
+4 jgdrs=~8D~5~66~
+Mirar=~97~4~66~
+Nueva=N5~66~
+Clave~FF~#080
+|80
+@00012553-00012602-FF
+;00012553{King0000(~65~)1(~25~)2(~26~)3(~67~)4(~68~)5(~65~)6Racket FRacket ERacket DRacket CRacket BRacket AShirt  FShirt  EShirt  DShirt  CShirt  BShirt  AShoes  FShoes  EShoes  DShoes  CShoes  BShoes  A}#194#176
+Rey 0000(~65~)1(~25~)2(~26~)3(~67~)4(~68~)5(~65~)6
+RaquetaF
+RaquetaE
+RaquetaD
+RaquetaC
+RaquetaB
+RaquetaA
+Camise.F
+Camise.E
+Camise.D
+Camise.C
+Camise.B
+Camise.A
+Zapati.F
+Zapati.E
+Zapati.D
+Zapati.C
+Zapati.B
+Zapati.A#176
+|176
+@0001310D-00013112-FF
+;0001310D{  Sí ~FF~}#009#006
+  Sí ~FF~#006
+|6
+@0001311D-00013122-FF
+;0001311D{  No ~FF~}#009#006
+  No ~FF~#006
+|6
+@0001312D-00013132-FF
+;0001312D{ Warp~FF~}#009#006
+ Ir a~FF~#006
+|6
+@0001313D-00013144-FF
+;0001313D{ Search~FF~}#011#008
+ Buscar~FF~#008
+|8
+@0001314D-00013158-FF
+;0001314D{ Items ~FF~}#011#008
+ Ítems ~FF~#008
+;00013155{~FF~}#004#001
+~FF~#001
+;00013156{~FF~}#004#001
+~FF~#001
+;00013157{~FF~}#004#001
+~FF~#001
+;00013158{~FF~}#004#001
+~FF~#001
+|12
+@0001315D-00013161-FF
+;0001315D{ Sí ~FF~}#008#005
+ Sí ~FF~#005
+|5
+@0001316D-00013171-FF
+;0001316D{ No ~FF~}#008#005
+ No ~FF~#005
+|5
+@00013472-0001347C-FF-F2
+;00013472{[$   500 ]=}#011#011
+[$   500 ]=#011
+|11
+@0001349D-000134A8-FF-F2
+;0001349D{[ Exit    ]=}#012#012
+[ Salir   ]=#012
+|12
+@000134F2-000134F8-FF-F2
+;000134F2{[ Sí ]=}#007#007
+[ Sí ]=#007
+|7
+@00013506-0001350C-FF-F2
+;00013506{[ No ]=}#007#007
+[ No ]=#007
+|7
+@000138E5-00013974-00
+;000138E5{Wirt~FF~~FF~~FF~~FF~Rosen~FF~~FF~~FF~Sevens~FF~~FF~Weitz~FF~~FF~~FF~Keefe~FF~~FF~~FF~Smith~FF~~FF~~FF~Grans~FF~~FF~~FF~Kirth~FF~~FF~~FF~Grant~FF~~FF~~FF~Pavs~FF~~FF~~FF~~FF~Witt~FF~~FF~~FF~~FF~Acer~FF~~FF~~FF~~FF~Latz~FF~~FF~~FF~~FF~Brien~FF~~FF~~FF~Jenun~FF~~FF~~FF~Davis~FF~~FF~~FF~Helder~FF~~FF~Elfan~FF~~FF~~FF~}#315#144
+Wirt~FF~~FF~~FF~~FF~Rosen~FF~~FF~~FF~Sevens~FF~~FF~Weitz~FF~~FF~~FF~Keefe~FF~~FF~~FF~Smith~FF~~FF~~FF~Grans~FF~~FF~~FF~Kirth~FF~~FF~~FF~Grant~FF~~FF~~FF~Pavs~FF~~FF~~FF~~FF~Witt~FF~~FF~~FF~~FF~Acer~FF~~FF~~FF~~FF~Latz~FF~~FF~~FF~~FF~Brien~FF~~FF~~FF~Jenun~FF~~FF~~FF~Davis~FF~~FF~~FF~Helder~FF~~FF~Elfan~FF~~FF~~FF~#144
+|144
+@00013BA7-00013BB1-FF-F2
+;00013BA7{[ Chicago]~FF~}#014#011
+[ Chicago]~FF~#011
+|11
+@00013C5E-00013C89-FF-F2
+;00013C5E{[ Paris  ]~FF~}#014#011
+[ París  ]~FF~#011
+;00013C69{[ Tokyo  ]~FF~}#014#011
+[ Tokio  ]~FF~#011
+;00013C74{[ London ]~FF~}#014#011
+[ Londres]~FF~#011
+;00013C7F{[ Toront ]~FF~}#014#011
+[ Toronto]~FF~#011
+|44
+@00013F8F-00013F9A-FF-F2
+;00013F8F{[ Pearl 0 ]~FF~}#015#012
+[ Perla 0 ]~FF~#012
+|12
+@000143B9-000143CB-FF-F2
+;000143B9{[Enter your name.]=}#019#019
+[Entra tu nombre.]=#019
+|19
+@00014423-00014427-FF
+;00014423{End=~8E~}#008#005
+Fin=~8E~#005
+|5
+@000144D9-000144E1-FF
+;000144D9{[Select]=}#009#009
+[Elige ]=#009
+|9
+@000144EE-000144FF-FF-F2
+;000144EE{~CE~2wMale=~4E~3wFemale~FF~}#027#018
+~CE~2wHmb.=~4E~3wMujer ~FF~#018
+|18
+@000148D8-000148E9-FF
+;000148D8{[Enter password.]=}#018#018
+[Entra tu clave.]=#018
+|18
+@0001499C-0001499F-FF
+;0001499C{End=}#004#004
+Fin=#004
+|4
+@00016982-00016988-FF
+;00016982{[ Yes]=}#007#007
+[ Sí ]=#007
+|7
+@00016996-0001699C-FF
+;00016996{[ no ]=}#007#007
+[ no ]=#007
+|7
+@00016FA1-00016FA5-FF
+;00016FA1{Odds=}#005#005
+Apu.=#005
+|5
+@00017053-00017059-FF
+;00017053{[ Yes]=}#007#007
+[ Sí ]=#007
+|7
+@00017067-0001706D-FF
+;00017067{[ No ]=}#007#007
+[ No ]=#007
+|7
+@00017126-00017130-FF
+;00017126{Won~FF~}#007#004
+Gna~FF~#004
+;0001712A{~CA~2~66~Won~FF~}#016#007
+~CA~2~66~Gna~FF~#007
+|11
+@000140FD-0001410C-FF
+;000140FD{T~8D~>~25~~A9~u~8D~~62~~25~~A9~b~8D~(~25~~A9~e}#046#016
+F~8D~>~25~~A9~l~8D~~62~~25~~A9~o~8D~(~25~~A9~.#016
+|16

@@ -1,0 +1,326 @@
+@00039E1A-0003A47F-00
+;00039E1A{              Mega  Q*bert              ~00~}#044#041
+              Mega  Q*bert              ~00~#041
+;00039E43{                                        ~00~}#044#041
+                                        ~00~#041
+;00039E6C{    based on Q*bert  by Warren Davis    ~00~}#044#041
+    based on Q*bert  by Warren Davis    ~00~#041
+;00039E95{                        and Jeff Lee    ~00~}#044#041
+                        and Jeff Lee    ~00~#041
+;00039EBE{                                        ~00~}#044#041
+                                        ~00~#041
+;00039EE7{    Design, programming, graphics,      ~00~}#044#041
+    Design, programming, graphics,      ~00~#041
+;00039F10{    sound effects and music - Jaklub    ~00~}#044#041
+    sound effects and music - Jaklub    ~00~#041
+;00039F39{                                        ~00~}#044#041
+                                        ~00~#041
+;00039F62{    Used SGDK 1.11 by Stephane-D,       ~00~}#044#041
+    Used SGDK 1.11 by Stephane-D,       ~00~#041
+;00039F8B{    TFM Music Maker 1.52 by Shiru,      ~00~}#044#041
+    TFM Music Maker 1.52 by Shiru,      ~00~#041
+;00039FB4{    SG Tile Designer by Devster         ~00~}#044#041
+    SG Tile Designer by Devster         ~00~#041
+;00039FDD{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A006{    Used ripped graphics from           ~00~}#044#041
+    Used ripped graphics from           ~00~#041
+;0003A02F{    Q*bert, Q*bert for Game Boy,        ~00~}#044#041
+    Q*bert, Q*bert for Game Boy,        ~00~#041
+;0003A058{    Final Fantasy VII, QBic,            ~00~}#044#041
+    Final Fantasy VII, QBic,            ~00~#041
+;0003A081{    Terranigma                          ~00~}#044#041
+    Terranigma                          ~00~#041
+;0003A0AA{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A0D3{    Music includes arrangements of      ~00~}#044#041
+    Music includes arrangements of      ~00~#041
+;0003A0FC{    compositions from Q*bert for NES    ~00~}#044#041
+    compositions from Q*bert for NES    ~00~#041
+;0003A125{    and Tetris for Mega Drive           ~00~}#044#041
+    and Tetris for Mega Drive           ~00~#041
+;0003A14E{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A177{    Sources of instruments:             ~00~}#044#041
+    Sources of instruments:             ~00~#041
+;0003A1A0{    Alco, Jobro, MVS Music Tracker,     ~00~}#044#041
+    Alco, Jobro, MVS Music Tracker,     ~00~#041
+;0003A1C9{    Shiru                               ~00~}#044#041
+    Shiru                               ~00~#041
+;0003A1F2{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A21B{    Special thanks to Elkovsky,         ~00~}#044#041
+    Special thanks to Elkovsky,         ~00~#041
+;0003A244{    Sinoc, TiegonBerry, ZEUSDAZ         ~00~}#044#041
+    Sinoc, TiegonBerry, ZEUSDAZ         ~00~#041
+;0003A26D{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A296{    The game is not licensed by SEGA    ~00~}#044#041
+    The game is not licensed by SEGA    ~00~#041
+;0003A2BF{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A2E8{    All rights belong to their          ~00~}#044#041
+    All rights belong to their          ~00~#041
+;0003A311{    respective owners.                  ~00~}#044#041
+    respective owners.                  ~00~#041
+;0003A33A{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A363{          Thanks for playing!           ~00~}#044#041
+          Thanks for playing!           ~00~#041
+;0003A38C{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A3B5{                                        ~00~}#044#041
+                                        ~00~#041
+;0003A3DE{ Very well, Q*bert! Very well.           But, I will need you to do this again. ~00~}#084#081
+ Very well, Q*bert! Very well.           But, I will need you to do this again. ~00~#081
+;0003A42F{ Another loop? Not bad!                  But remember, you're in it for score.  ~00~}#084#081
+ Another loop? Not bad!                  But remember, you're in it for score.  ~00~#081
+|1638
+@0003B480-0003B7DC-00
+;0003B480{- FORTUNE COOKIE -~00~}#022#019
+- FORTUNE COOKIE -~00~#019
+;0003B493{You create your own stage...~00~}#032#029
+You create your own stage...~00~#029
+;0003B4B0{The audience is waiting.~00~}#028#025
+The audience is waiting.~00~#025
+;0003B4C9{Do you believe? Endurance~00~}#029#026
+Do you believe? Endurance~00~#026
+;0003B4E3{and persistence will be~00~}#027#024
+and persistence will be~00~#024
+;0003B4FB{rewarded.~00~}#013#010
+rewarded.~00~#010
+;0003B505{Try everything once - even the~00~}#034#031
+Try everything once - even the~00~#031
+;0003B524{things you do not think you~00~}#031#028
+things you do not think you~00~#028
+;0003B540{will like.~00~}#014#011
+will like.~00~#011
+;0003B54B{You are filled with a sense~00~}#031#028
+You are filled with a sense~00~#028
+;0003B567{of urgency. Be patient or you~00~}#033#030
+of urgency. Be patient or you~00~#030
+;0003B585{may end up confused.~00~}#024#021
+may end up confused.~00~#021
+;0003B59A{A journey of a thousand miles~00~}#033#030
+A journey of a thousand miles~00~#030
+;0003B5B8{begins with a single step.~00~}#030#027
+begins with a single step.~00~#027
+;0003B5D3{The time is right to make new~00~}#033#030
+The time is right to make new~00~#030
+;0003B5F1{friends.~00~}#012#009
+friends.~00~#009
+;0003B5FA{You will be aided greatly by~00~}#032#029
+You will be aided greatly by~00~#029
+;0003B617{a person whom you thought~00~}#029#026
+a person whom you thought~00~#026
+;0003B631{to be unimportant.~00~}#022#019
+to be unimportant.~00~#019
+;0003B644{Meeting adversity well is~00~}#029#026
+Meeting adversity well is~00~#026
+;0003B65E{the source of your strength.~00~}#032#029
+the source of your strength.~00~#029
+;0003B67B{Never quit!~00~}#015#012
+Never quit!~00~#012
+;0003B687{Today you shed your last tear.~00~}#034#031
+Today you shed your last tear.~00~#031
+;0003B6A6{Tomorrow fortune knocks~00~}#027#024
+Tomorrow fortune knocks~00~#024
+;0003B6BE{at your door.~00~}#017#014
+at your door.~00~#014
+;0003B6CC{Two dogs strive for a bone.~00~}#031#028
+Two dogs strive for a bone.~00~#028
+;0003B6E8{The third one runs away~00~}#027#024
+The third one runs away~00~#024
+;0003B700{with it.~00~}#012#009
+with it.~00~#009
+;0003B709{BORN TO DIE~00~}#015#012
+BORN TO DIE~00~#012
+;0003B715{WORLD IS A FUCK~00~}#019#016
+WORLD IS A FUCK~00~#016
+;0003B725{Kill Em All 1989~00~}#020#017
+Kill Em All 1989~00~#017
+;0003B736{I Am Trash Man~00~}#018#015
+I Am Trash Man~00~#015
+;0003B745{Mega Q*Bert~00~}#015#012
+Mega Q*Bert~00~#012
+;0003B751{Results:~00~}#012#009
+Results:~00~#009
+;0003B75A{Mode~00~}#008#005
+Mode~00~#005
+;0003B75F{Mega~00~}#008#005
+Mega~00~#005
+;0003B764{Level~00~}#009#006
+Level~00~#006
+;0003B76A{End~00~}#007#004
+End~00~#004
+;0003B76E{X-9~00~}#007#004
+X-9~00~#004
+;0003B772{X~00~}#005#002
+X~00~#002
+;0003B774{Status~00~}#010#007
+Status~00~#007
+;0003B77B{Perfect Clear~00~}#017#014
+Perfect Clear~00~#014
+;0003B789{No Continue Clear~00~}#021#018
+No Continue Clear~00~#018
+;0003B79B{2nd Loop~00~}#012#009
+2nd Loop~00~#009
+;0003B7A4{Won~00~}#007#004
+Won~00~#004
+;0003B7A8{Lost~00~}#008#005
+Lost~00~#005
+;0003B7AD{P1 Score~00~}#012#009
+P1 Score~00~#009
+;0003B7B6{P2 Score~00~}#012#009
+P2 Score~00~#009
+;0003B7BF{PRESS START~00~}#015#012
+PRESS START~00~#012
+;0003B7CB{Continue?~00~}#013#010
+Continue?~00~#010
+;0003B7D5{>Yes~00~}#008#005
+>Yes~00~#005
+;0003B7DA{No~00~}#006#003
+No~00~#003
+|861
+@0005F09A-0005F3D5-00
+;0005F09A{ Good job, Q*bert. Here are more things  we need done urgently. Take a look...  ~00~}#084#081
+ Good job, Q*bert. Here are more things  we need done urgently. Take a look...  ~00~#081
+;0005F0EB{ Refusal is not an option. I am forced   to deal with you differently.          ~00~}#084#081
+ Refusal is not an option. I am forced   to deal with you differently.          ~00~#081
+;0005F13C{ Okay, okay! I get it! I'll let you go   for today, just get that away from me! ~00~}#084#081
+ Okay, okay! I get it! I'll let you go   for today, just get that away from me! ~00~#081
+;0005F18D{ A-anyone?                                                                      ~00~}#084#081
+ A-anyone?                                                                      ~00~#081
+;0005F1DE{Player Configuration~00~}#024#021
+Player Configuration~00~#021
+;0005F1F3{Player 1~00~}#012#009
+Player 1~00~#009
+;0005F1FC{Press START to join!~00~}#024#021
+Press START to join!~00~#021
+;0005F211{Player 2~00~}#012#009
+Player 2~00~#009
+;0005F21A{Control Scheme:~00~}#019#016
+Control Scheme:~00~#016
+;0005F22A{< STRAIGHT >~00~}#016#013
+< STRAIGHT >~00~#013
+;0005F237{< DIAGONAL >~00~}#016#013
+< DIAGONAL >~00~#013
+;0005F244{< INVERTED >~00~}#016#013
+< INVERTED >~00~#013
+;0005F251{Ready to go!~00~}#016#013
+Ready to go!~00~#013
+;0005F25E{Mode Selection~00~}#018#015
+Mode Selection~00~#015
+;0005F26D{> Mega <~00~}#012#009
+> Mega <~00~#009
+;0005F276{  Mega  ~00~}#012#009
+  Mega  ~00~#009
+;0005F27F{> Arcade <~00~}#014#011
+> Arcade <~00~#011
+;0005F28A{  Arcade  ~00~}#014#011
+  Arcade  ~00~#011
+;0005F295{> Password <~00~}#016#013
+> Password <~00~#013
+;0005F2A2{  Password  ~00~}#016#013
+  Password  ~00~#013
+;0005F2AF{Password Entry~00~}#018#015
+Password Entry~00~#015
+;0005F2BE{>0< 0  0  0  0  0~00~}#021#018
+>0< 0  0  0  0  0~00~#018
+;0005F2D0{Entering  Second Arcade Loop~00~}#032#029
+Entering  Second Arcade Loop~00~#029
+;0005F2ED{    Entering  Sound Test    ~00~}#032#029
+    Entering  Sound Test    ~00~#029
+;0005F30A{   Entering  Level Select   ~00~}#032#029
+   Entering  Level Select   ~00~#029
+;0005F327{Arcade Color in Mega  Active~00~}#032#029
+Arcade Color in Mega  Active~00~#029
+;0005F344{Entering  Big Pyramid Arcade~00~}#032#029
+Entering  Big Pyramid Arcade~00~#029
+;0005F361{ Entering Level  - ~00~}#023#020
+ Entering Level  - ~00~#020
+;0005F375{Incorrect Password~00~}#022#019
+Incorrect Password~00~#019
+;0005F388{Level Select~00~}#016#013
+Level Select~00~#013
+;0005F395{> Level     1~00~}#017#014
+> Level     1~00~#014
+;0005F3A3{  Sublevel  1~00~}#017#014
+  Sublevel  1~00~#014
+;0005F3B1{Sound Test~00~}#014#011
+Sound Test~00~#011
+;0005F3BC{> Music   00~00~}#016#013
+> Music   00~00~#013
+;0005F3C9{  SFX     00~00~}#016#013
+  SFX     00~00~#013
+|828
+@00068E92-00068EED-00
+;00068E92{2016 Jaklub, Q*Bert ~7B~1982 Gottlieb/SOE~00~}#045#039
+2016 Jaklub, Q*Bert ~7B~1982 Gottlieb/SOE~00~#039
+;00068EB9{v1.2              NOT licensed by Sega~00~}#042#039
+v1.2              NOT licensed by Sega~00~#039
+;00068EE0{PRESS START!!~00~}#017#014
+PRESS START!!~00~#014
+|92
+@000692AE-000694C8-00
+;000692AE{Jump on squares to~00~}#022#019
+Jump on squares to~00~#019
+;000692C1{change them to~00~}#018#015
+change them to~00~#015
+;000692D0{the target color~00~}#020#017
+the target color~00~#017
+;000692E1{Two players can play~00~}#024#021
+Two players can play~00~#021
+;000692F6{at the same time~00~}#020#017
+at the same time~00~#017
+;00069307{on a single console~00~}#023#020
+on a single console~00~#020
+;0006931B{Stay on playfield!~00~}#022#019
+Stay on playfield!~00~#019
+;0006932E{Jumping off results in a fatal~00~}#034#031
+Jumping off results in a fatal~00~#031
+;0006934D{plummet unless a disk is there~00~}#034#031
+plummet unless a disk is there~00~#031
+;0006936C{Press C, B or A~00~}#019#016
+Press C, B or A~00~#016
+;0006937C{to jump on your partner's~00~}#029#026
+to jump on your partner's~00~#026
+;00069396{head at any time~00~}#020#017
+head at any time~00~#017
+;000693A7{Avoid all objects~00~}#021#018
+Avoid all objects~00~#018
+;000693B9{and creatures that~00~}#022#019
+and creatures that~00~#019
+;000693CC{are not green~00~}#017#014
+are not green~00~#014
+;000693DA{Stay together!~00~}#018#015
+Stay together!~00~#015
+;000693E9{Camera follows~00~}#018#015
+Camera follows~00~#015
+;000693F8{both players at once~00~}#024#021
+both players at once~00~#021
+;0006940D{Use spinning disks~00~}#022#019
+Use spinning disks~00~#019
+;00069420{to lure snake to~00~}#020#017
+to lure snake to~00~#017
+;00069431{his death~00~}#013#010
+his death~00~#010
+;0006943B{Snake will trace~00~}#020#017
+Snake will trace~00~#017
+;0006944C{whichever player is~00~}#023#020
+whichever player is~00~#020
+;00069460{closer to him~00~}#017#014
+closer to him~00~#014
+;0006946E{Extra life at~00~}#017#014
+Extra life at~00~#014
+;0006947C{6000 and each~00~}#017#014
+6000 and each~00~#014
+;0006948A{additional 12000~00~}#020#017
+additional 12000~00~#017
+;0006949B{Both players~00~}#016#013
+Both players~00~#013
+;000694A8{receive the same~00~}#020#017
+receive the same~00~#017
+;000694B9{end-stage bonus~00~}#019#016
+end-stage bonus~00~#016
+|539

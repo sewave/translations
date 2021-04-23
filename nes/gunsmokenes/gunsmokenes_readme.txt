@@ -1,47 +1,32 @@
-Gun.Smoke
-TraducciÛn al EspaÒol v1.0 (23/12/2017)
-(C) 2017 Wave Translations
+Gun (NES)
+Traducci√≥n al Espa√±ol v2.0 (10/04/2021)
+(C) 2021 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducci√≥n y hacking es completamente original.
+Si encuentras alg√∫n fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
+-V2.0:
+-A√±adidos √ë y acentos y LL
+-Traducidos gr√°ficos Pow y WANTED
+-Revisi√≥n de Script
 
-1. Sobre Gun.Smoke
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. CrÈditos del Parche
-
------------------
-1. Sobre Gun.Smoke
------------------
-Cl·sico shooter de capcom, port de la recreativa.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducciÛn y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
-TambiÈn puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche est· en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Gun.Smoke (U) [!].nes
-131.088	bytes
-CRC32: 6b8f23e0
+Gun.Smoke (USA).nes
 MD5: b7323d5cf56f4049e20d44815ca6c45a
 SHA1: 612f2aa339bf1ae54b466f1574752cd753097503
+CRC32: 6b8f23e0
+131088 bytes
 
-----------------------
-5. CrÈditos del Parche
-----------------------
-Wave - Hacking y traducciÛn
+--------
+Cr√©ditos
+--------
+Wave - Hacking, traducci√≥n y pruebas.
 
--- END OF README --
+-- FIN --

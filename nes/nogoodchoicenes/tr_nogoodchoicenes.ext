@@ -1,0 +1,127 @@
+@00002E59-00002F20-00
+;00002E59{Build ~23~~00~}#014#008
+Build ~23~~00~#008
+;00002E61{This computer is broken and won't start.~00~}#044#041
+Este ordenador está roto y no se inicia.~00~#041
+;00002E8A{You find nothing.~00~}#021#018
+No hallas nada.\ ~00~#018
+;00002E9C{You found~00~}#013#010
+Hallaste\~00~#010
+;00002EA6{HP: ~00~}#008#005
+PV: ~00~#005
+;00002EAB{Weapon: ~00~}#012#009
+Arma: \ ~00~#009
+;00002EB4{Damage: ~00~}#012#009
+Daño: \ ~00~#009
+;00002EBD{Shit...~00~}#011#008
+Mierda.~00~#008
+;00002EC5{Equip ^~00~}#011#008
+Equipa^~00~#008
+;00002ECD{Use ^~00~}#009#006
+Usa^ ~00~#006
+;00002ED3{(Equiped)~00~}#013#010
+ (En uso)~00~#010
+;00002EDD{Inventory~00~}#013#010
+Objetos  ~00~#010
+;00002EE7{Item description~00~}#020#017
+Descripción\    ~00~#017
+;00002EF8{You are dead~00~}#016#013
+Estás muerto~00~#013
+;00002F05{Press any key to start over~00~}#031#028
+   Reinicia con un botón   ~00~#028
+|200
+@00002F3D-000030A8-00
+;00002F3D{Hands~00~}#009#006
+Manos~00~#006
+;00002F43{Wooden Mop~00~}#014#011
+Fregona M.~00~#011
+;00002F4E{Crowbar~00~}#011#008
+Palanca~00~#008
+;00002F56{Shovel~00~}#010#007
+Pala\ ~00~#007
+;00002F5D{Gun~00~}#007#004
+Arm~00~#004
+;00002F61{First Aid Kit~00~}#017#014
+Kit 1os Aux.\~00~#014
+;00002F6F{Vitamins~00~}#012#009
+Vitamina~00~#009
+;00002F78{You don't have any weapon, just your hands.=Damage: 1~00~}#060#054
+No tienes ningún arma, solo tus manos.=Daño: 1\      ~00~#054
+;00002FAE{Used, dirty but heavy wooden mop.=Damage: 3~00~}#050#044
+Sucia y pesada fregona=de madera.=Daño: 3\ ~00~#044
+;00002FDA{Rusty crowbar.=Damage: 5~00~}#031#025
+Palanca Oxidada.=Daño: 5~00~#025
+;00002FF3{This showels seems to be good at swinging.=Damage: 10~00~}#060#054
+Estas palas parecen buenas para golpear.=Daño: 10\   ~00~#054
+;00003029{~00~}#004#001
+~00~#001
+;0000302A{This is First Aid Kit.=Heals 10 HP~00~}#041#035
+Kit Primeros Auxilios.=Cura 10 PV\~00~#035
+;0000304D{You are malnutritioned. These are going to make you feel better.=Increases max HP by 5.~00~}#094#088
+Estás desnutrido. Esto va a hacer que te sientas mejor.=
+Aumenta en 5 los PV máximos.\  ~00~#088
+;000030A5{BN~23~~00~}#010#004
+BN~23~~00~#004
+|364
+@00003242-00003258-FF
+;00003242{~00~!MSTART~00~GAME~00~!5CREDITS}#032#023
+~00~!M
+EMPEZAR~00~~00~~00~~00~!5
+CRÉDITO#023
+|23
+@000032C3-000032CA-FF
+;000032C3{GAME~00~BY~00~}#014#008
+~00~JUEGO~00~~00~#008
+|8
+@0000330B-0000331C-FF
+;0000330B{~00~~00~TITLE~00~SCREEN~00~BY~00~}#033#018
+~00~~00~PANTALLA~00~TÍTULO~00~#018
+|18
+@0000335F-00003367-FF
+;0000335F{MUSIC~00~BY~00~}#015#009
+~00~MÚSICA~00~~00~#009
+|9
+@000035AB-000035F0-00
+;000035AB{0123453789ABCDEFCrash!~00~}#026#023
+0123453789ABCDEF
+¡Pete!~00~#023
+;000035C2{A: ~00~}#007#004
+A: ~00~#004
+;000035C6{X: ~00~}#007#004
+X: ~00~#004
+;000035CA{Y: ~00~}#007#004
+Y: ~00~#004
+;000035CE{S: ~00~}#007#004
+S: ~00~#004
+;000035D2{P: ~00~}#007#004
+P: ~00~#004
+;000035D6{PC: ~00~}#008#005
+PC: ~00~#005
+;000035DB{Press START to reset.~00~}#025#022
+START para resetear.\~00~#022
+|70
+@000036CD-00003AC2-00
+;000036CD{Current Date: 2030-07-12=This is your computer journal.~00~}#062#056
+Fecha Actual: 2030-07-12=
+Este es tu diario en el PC.\  ~00~#056
+;00003705{2030-03-04~00~}#014#011
+2030-03-04~00~#011
+;00003710{2030-03-30~00~}#014#011
+2030-03-30~00~#011
+;0000371B{2030-07-12~00~}#014#011
+2030-07-12~00~#011
+;00003726{Exit~00~}#008#005
+Sale~00~#005
+;0000372B{I miss the sun. But otherwise it's been fine living here. At least there is something to do. We have to work a little, to keep the place clean and working.~00~}#159#156
+Hecho de menos el sol. A parte de eso he vivido bien aquí. Al menos hay algo que hacer. Hay que trabajar algo, para que el lugar esté limpio y funcione.\  ~00~#156
+;000037C7{Back~00~}#008#005
+Atr.~00~#005
+;000037CC{I got really lucky... When this weird mess began, I was inspecting this millitary base. They got us all civillians into the bunker right after they got the news that world turned into the hot mess. I really hope it'll be over soon.~00~}#235#232
+Tuve mucha suerte... Cuando este raro desorden empezó, estaba inspeccionando esta base militar. Nos metieron a todos los civiles en el búnker justo tras recibir la noticia de que el mundo era un caos. Espero que esto acabe pronto.\~00~#232
+;000038B4{I just woke up hearing terrifying screams behind the door, I locked it right away. I think those monsters are here now. There is no food here, just a bottle of water. It won't last long. I really hope help will come, otherwise I either die of thirst, or go out and these zombies will kill me. There is no good choice.~00~}#321#318
+Acabo de levantarme al oír gritos terroríficos tras la puerta, la he bloqueado. Creo que esos monstruos están aquí. No tengo comida, solo una botella de agua. No duraré mucho. Espero que llegue ayuda, sino tendré que morir de hambre o salir fuera y esos zombis me matarán. No hay ninguna elección buena.\             ~00~#318
+;000039F2{Security Incident Log~00~}#025#022
+Incidente Seguridad\ ~00~#022
+;00003A08{The most idiotic thing to do, is to leave the main door wide open. We had a stray zombie wander inside the facility. I think nobody got bitten. I'll write down more detailed report soon.~00~}#190#187
+La cosa más idiota a hacer es dejarme la puerta principal abierta. Un zombi errante entró en la instalación. Creo que no mordió a nadie. Escribiré un informe más detallado pronto.\      ~00~#187
+|1014

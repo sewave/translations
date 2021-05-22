@@ -1,0 +1,154 @@
+@00002E58-00002F22-00
+;00002E58{`Build ~23~~00~}#015#009
+`Build ~23~~00~#009
+;00002E61{This computer is broken and won't start.~00~}#044#041
+This computer is broken and won't start.~00~#041
+;00002E8A{You find nothing.~00~}#021#018
+You find nothing.~00~#018
+;00002E9C{You found~00~}#013#010
+You found~00~#010
+;00002EA6{HP: ~00~}#008#005
+HP: ~00~#005
+;00002EAB{Weapon: ~00~}#012#009
+Weapon: ~00~#009
+;00002EB4{Damage: ~00~}#012#009
+Damage: ~00~#009
+;00002EBD{Shit...~00~}#011#008
+Shit...~00~#008
+;00002EC5{Equip ^~00~}#011#008
+Equip ^~00~#008
+;00002ECD{Use ^~00~}#009#006
+Use ^~00~#006
+;00002ED3{(Equiped)~00~}#013#010
+(Equiped)~00~#010
+;00002EDD{Inventory~00~}#013#010
+Inventory~00~#010
+;00002EE7{Item description~00~}#020#017
+Item description~00~#017
+;00002EF8{You are dead~00~}#016#013
+You are dead~00~#013
+;00002F05{Press any key to start over~00~}#031#028
+Press any key to start over~00~#028
+;00002F21{-~AF~}#005#002
+-~AF~#002
+|203
+@00002F3D-000030AC-00
+;00002F3D{Hands~00~}#009#006
+Hands~00~#006
+;00002F43{Wooden Mop~00~}#014#011
+Wooden Mop~00~#011
+;00002F4E{Crowbar~00~}#011#008
+Crowbar~00~#008
+;00002F56{Shovel~00~}#010#007
+Shovel~00~#007
+;00002F5D{Gun~00~}#007#004
+Gun~00~#004
+;00002F61{First Aid Kit~00~}#017#014
+First Aid Kit~00~#014
+;00002F6F{Vitamins~00~}#012#009
+Vitamins~00~#009
+;00002F78{You don't have any weapon, just your hands.~0A~Damage: 1~00~}#060#054
+You don't have any weapon, just your hands.~0A~Damage: 1~00~#054
+;00002FAE{Used, dirty but heavy wooden mop.~0A~Damage: 3~00~}#050#044
+Used, dirty but heavy wooden mop.~0A~Damage: 3~00~#044
+;00002FDA{Rusty crowbar.~0A~Damage: 5~00~}#031#025
+Rusty crowbar.~0A~Damage: 5~00~#025
+;00002FF3{This showels seems to be good at swinging.~0A~Damage: 10~00~}#060#054
+This showels seems to be good at swinging.~0A~Damage: 10~00~#054
+;00003029{~00~}#004#001
+~00~#001
+;0000302A{This is First Aid Kit.~0A~Heals 10 HP~00~}#041#035
+This is First Aid Kit.~0A~Heals 10 HP~00~#035
+;0000304D{You are malnutritioned. These are going to make you feel better.~0A~Increases max HP by 5.~00~}#094#088
+You are malnutritioned. These are going to make you feel better.~0A~Increases max HP by 5.~00~#088
+;000030A5{BN~23~~00~}#010#004
+BN~23~~00~#004
+;000030A9{~1A~~03~!~00~}#013#004
+~1A~~03~!~00~#004
+|368
+@00003243-0000325B-00
+;00003243{!MSTART~00~}#011#008
+!MSTART~00~#008
+;0000324B{GAME~00~}#008#005
+GAME~00~#005
+;00003250{!5CREDITS~00~}#013#010
+!5CREDITS~00~#010
+;0000325A{!~B5~}#005#002
+!~B5~#002
+|25
+@000032C3-000032CE-00
+;000032C3{GAME~00~}#008#005
+GAME~00~#005
+;000032C8{BY~00~}#006#003
+BY~00~#003
+;000032CB{~01~~06~~86~~C4~}#016#004
+~01~~06~~86~~C4~#004
+|12
+@0000330D-00003320-00
+;0000330D{TITLE~00~}#009#006
+TITLE~00~#006
+;00003313{SCREEN~00~}#010#007
+SCREEN~00~#007
+;0000331A{BY~00~}#006#003
+BY~00~#003
+;0000331D{~01~~02~~86~~C4~}#016#004
+~01~~02~~86~~C4~#004
+|20
+@0000335F-0000336B-00
+;0000335F{MUSIC~00~}#009#006
+MUSIC~00~#006
+;00003365{BY~00~}#006#003
+BY~00~#003
+;00003368{~01~~05~~86~~C4~}#016#004
+~01~~05~~86~~C4~#004
+|13
+@000035AB-000035F5-00
+;000035AB{0123453789ABCDEFCrash!~00~}#026#023
+0123453789ABCDEFCrash!~00~#023
+;000035C2{A: ~00~}#007#004
+A: ~00~#004
+;000035C6{X: ~00~}#007#004
+X: ~00~#004
+;000035CA{Y: ~00~}#007#004
+Y: ~00~#004
+;000035CE{S: ~00~}#007#004
+S: ~00~#004
+;000035D2{P: ~00~}#007#004
+P: ~00~#004
+;000035D6{PC: ~00~}#008#005
+PC: ~00~#005
+;000035DB{Press START to reset.~00~}#025#022
+Press START to reset.~00~#022
+;000035F1{~00~}#004#001
+~00~#001
+;000035F2{~0F~~1E~-~00~}#013#004
+~0F~~1E~-~00~#004
+|75
+@000036CD-00003AC6-00
+;000036CD{Current Date: 2030-07-12~0A~This is your computer journal.~00~}#062#056
+Current Date: 2030-07-12~0A~This is your computer journal.~00~#056
+;00003705{2030-03-04~00~}#014#011
+2030-03-04~00~#011
+;00003710{2030-03-30~00~}#014#011
+2030-03-30~00~#011
+;0000371B{2030-07-12~00~}#014#011
+2030-07-12~00~#011
+;00003726{Exit~00~}#008#005
+Exit~00~#005
+;0000372B{I miss the sun. But otherwise it's been fine living here. At least there is something to do. We have to work a little, to keep the place clean and working.~00~}#159#156
+I miss the sun. But otherwise it's been fine living here. At least there is something to do. We have to work a little, to keep the place clean and working.~00~#156
+;000037C7{Back~00~}#008#005
+Back~00~#005
+;000037CC{I got really lucky... When this weird mess began, I was inspecting this millitary base. They got us all civillians into the bunker right after they got the news that world turned into the hot mess. I really hope it'll be over soon.~00~}#235#232
+I got really lucky... When this weird mess began, I was inspecting this millitary base. They got us all civillians into the bunker right after they got the news that world turned into the hot mess. I really hope it'll be over soon.~00~#232
+;000038B4{I just woke up hearing terrifying screams behind the door, I locked it right away. I think those monsters are here now. There is no food here, just a bottle of water. It won't last long. I really hope help will come, otherwise I either die of thirst, or go out and these zombies will kill me. There is no good choice.~00~}#321#318
+I just woke up hearing terrifying screams behind the door, I locked it right away. I think those monsters are here now. There is no food here, just a bottle of water. It won't last long. I really hope help will come, otherwise I either die of thirst, or go out and these zombies will kill me. There is no good choice.~00~#318
+;000039F2{Security Incident Log~00~}#025#022
+Security Incident Log~00~#022
+;00003A08{The most idiotic thing to do, is to leave the main door wide open. We had a stray zombie wander inside the facility. I think nobody got bitten. I'll write down more detailed report soon.~00~}#190#187
+The most idiotic thing to do, is to leave the main door wide open. We had a stray zombie wander inside the facility. I think nobody got bitten. I'll write down more detailed report soon.~00~#187
+;00003AC3{~BD~~F5~~00~}#012#003
+~BD~~F5~~00~#003
+;00003AC6{~0B~}#004#001
+~0B~#001
+|1018

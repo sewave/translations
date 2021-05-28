@@ -1,0 +1,74 @@
+@0001B963-0001BB93-FF
+;0001B963{FIGHTING ROAD BGM TEST PROGRAM!~01~~1E~ c00 STOP BGM    10           !!~1E~  01 OPENING     11           !A~1E~  02 PASSWORD    12           !~61~~1E~  03 MESSAGE     13           !~81~~1E~  04 FIGHT 1     14           !~A1~~1E~  05 FIGHT 2     15           !~C1~~1E~  06 FIGHT 3     16           !~E1~~1E~  07 FIGHT 4     17           "~01~~1E~  08 BOSS        18           "!~1E~  09 WIN         19           "A~1E~  0A DEAD        1A           "~61~~1E~  0B ENDING      1B           "~81~~1E~  0C             1C           "~A1~~1E~  0D             1D           "~C1~~1E~  0E             1E           "~E1~~1E~  0F             1F SAMPLE    ~23~A~1E~}#651#561
+FIGHTING ROAD BGM TEST PROGRAM!~01~~1E~ c00 STOP BGM    10           !!~1E~  01 OPENING     11           !A~1E~  02 PASSWORD    12           !~61~~1E~  03 MESSAGE     13           !~81~~1E~  04 FIGHT 1     14           !~A1~~1E~  05 FIGHT 2     15           !~C1~~1E~  06 FIGHT 3     16           !~E1~~1E~  07 FIGHT 4     17           "~01~~1E~  08 BOSS        18           "!~1E~  09 WIN         19           "A~1E~  0A DEAD        1A           "~61~~1E~  0B ENDING      1B           "~81~~1E~  0C             1C           "~A1~~1E~  0D             1D           "~C1~~1E~  0E             1E           "~E1~~1E~  0F             1F SAMPLE    ~23~A~1E~#561
+|561
+@0001BB94-0001BBB4-FF
+;0001BB94{ BGM A-BUTTON  SOUND B-BUTTON ~FF~}#034#031
+ BGM A-BUTTON  SOUND B-BUTTON ~FF~#031
+;0001BBB3{?~00~}#005#002
+?~00~#002
+|33
+@0001CA6F-0001CA77-FF
+;0001CA6F{PLAYER~09~ ~89~}#015#009
+PLAYER~09~ ~89~#009
+|9
+@0001CA8D-0001CA95-FF
+;0001CA8D{ENEMY.~09~ ~C9~}#015#009
+ENEMY.~09~ ~C9~#009
+|9
+@0001D89A-0001D8AC-FF
+;0001D89A{COLDEN HARVEST~FF~}#018#015
+COLDEN HARVEST~FF~#015
+;0001D8A9{~A9~~00~~85~~0B~}#016#004
+~A9~~00~~85~~0B~#004
+|19
+@0001E498-0001E4BE-FF
+;0001E498{ c 1988 TOEI ANIMATION  ~23~~04~~18~c 2016 ~70~~71~~72~~73~~74~}#063#039
+ c 1988 TOEI ANIMATION  ~23~~04~~18~c 2016 ~70~~71~~72~~73~~74~#039
+|39
+@0001E526-0001E53C-FF
+;0001E526{START"~71~~09~PASS WORD~FF~}#027#018
+START"~71~~09~PASS WORD~FF~#018
+;0001E538{~00~~00~~10~ ~00~}#017#005
+~00~~00~~10~ ~00~#005
+|23
+@0001F83C-0001FAA0-FF
+;0001F83C{         PLANNED BY                       K.INOMATA     ~00~~00~~00~~00~        DIRECTED BY                       K.INOMATA                   K.SADAMOTO                  S.ABE         ~00~~00~~00~~00~       PROGRAMMED BY                      K.SADAMOTO                  M.OHNO                      N.SADAMOTO                  S.ABE         ~00~~00~~00~~00~        DESIGNED BY                       S.ABE                       K.TACHIBANA                 K.SADAMOTO                  N.SADAMOTO    ~00~~00~~00~~00~          MUSIC BY                        M.KURINAGA                  M.WATANABE    ~00~~00~~00~~00~      SOUND EFFECT BY                     K.SADAMOTO    ~00~~00~~00~~00~~00~}#688#613
+         PLANNED BY                       K.INOMATA     ~00~~00~~00~~00~        DIRECTED BY                       K.INOMATA                   K.SADAMOTO                  S.ABE         ~00~~00~~00~~00~       PROGRAMMED BY                      K.SADAMOTO                  M.OHNO                      N.SADAMOTO                  S.ABE         ~00~~00~~00~~00~        DESIGNED BY                       S.ABE                       K.TACHIBANA                 K.SADAMOTO                  N.SADAMOTO    ~00~~00~~00~~00~          MUSIC BY                        M.KURINAGA                  M.WATANABE    ~00~~00~~00~~00~      SOUND EFFECT BY                     K.SADAMOTO    ~00~~00~~00~~00~~00~#613
+|613
+@0001FAA9-0001FAE4-FF
+;0001FAA9{        PRESENTED BY        ~00~   TOEI ANIMATION CO.LTD    ~FF~}#064#058
+        PRESENTED BY        ~00~   TOEI ANIMATION CO.LTD    ~FF~#058
+;0001FAE3{ ~71~}#005#002
+ ~71~#002
+|60
+@0001FD11-0001FD9F-FF
+;0001FD11{FIGHTING ROAD  TEST MODE ~D0~~0C~BY  SADAMOTO!~24~~18~BGM 00   PLR 00   EM0 00!~64~~18~EM1 00   EM2 00   EM3 00~FF~}#115#094
+FIGHTING ROAD  TEST MODE ~D0~~0C~BY  SADAMOTO!~24~~18~BGM 00   PLR 00   EM0 00!~64~~18~EM1 00   EM2 00   EM3 00~FF~#094
+;0001FD6F{PTUUUU~FF~}#010#007
+PTUUUU~FF~#007
+;0001FD76{~FF~}#004#001
+~FF~#001
+;0001FD77{UUPPUU~FF~}#010#007
+UUPPUU~FF~#007
+;0001FD7E{~FF~}#004#001
+~FF~#001
+;0001FD7F{UUUUQP~FF~}#010#007
+UUUUQP~FF~#007
+;0001FD86{~FF~}#004#001
+~FF~#001
+;0001FD87{~05~EUUUU~FF~}#013#007
+~05~EUUUU~FF~#007
+;0001FD8E{~FF~}#004#001
+~FF~#001
+;0001FD8F{UU~05~~05~UU~FF~}#016#007
+UU~05~~05~UU~FF~#007
+;0001FD96{~FF~}#004#001
+~FF~#001
+;0001FD97{UUUU~15~~05~~FF~}#016#007
+UUUU~15~~05~~FF~#007
+;0001FD9E{~FF~}#004#001
+~FF~#001
+;0001FD9F{~28~}#004#001
+~28~#001
+|143

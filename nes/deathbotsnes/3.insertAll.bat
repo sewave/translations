@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Deathbots (AVE) (V1.1) [!].nes"
-set S_FILENAME="Deathbots (AVE) (V1.1) [!].nes"
+set T_FILENAME="TR_Deathbots (USA) (Rev 1) (Unl).nes"
+set S_FILENAME="Deathbots (USA) (Rev 1) (Unl).nes"
 set SCRIPTNAME="deathbotsnes"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

@@ -1,0 +1,87 @@
+@0000E270-0000E28F-FF
+;0000E270{~A7~P~01~~0B~~A7~A~01~~13~~A7~S~01~~1B~~A7~S~01~¡~A7~W~01~Ú~A7~O~01~3~A7~R~01~~3B~~A7~D~01~C}#092#032
+~A7~
+C~01~~0B~~A7~
+L~01~~13~~A7~
+A~01~~1B~~A7~
+V~01~¡~A7~
+E~01~Ú~A7~
+ ~01~3~A7~
+ ~01~~3B~~A7~
+ ~01~C#032
+|32
+@0001B960-0001BBB2-FF
+;0001B960{ ~A1~~1E~FIGHTING ROAD BGM TEST PROGRAM!~01~~1E~ c00 STOP BGM    10           !!~1E~  01 OPENING     11           !A~1E~  02 PASSWORD    12           !~61~~1E~  03 MESSAGE     13           !~81~~1E~  04 FIGHT 1     14           !~A1~~1E~  05 FIGHT 2     15           !~C1~~1E~  06 FIGHT 3     16           !~E1~~1E~  07 FIGHT 4     17           "~01~~1E~  08 BOSS        18           "!~1E~  09 WIN         19           "A~1E~  0A DEAD        1A           "~61~~1E~  0B ENDING      1B           "~81~~1E~  0C             1C           "~A1~~1E~  0D             1D           "~C1~~1E~  0E             1E           "~E1~~1E~  0F             1F SAMPLE    ~23~A~1E~ BGM A-BUTTON  SOUND B-BUTTON ~FF~}#694#595
+ ~A1~~1E~
+PROG. TEST AUDIO FIGHTING ROAD!~01~~1E~
+ c00 PARAR MÚS.  10           !!~1E~
+  01 APERTURA    11           !A~1E~
+  02 CLAVE       12           !~61~~1E~
+  03 MENSAJE     13           !~81~~1E~
+  04 PELEA 1     14           !~A1~~1E~
+  05 PELEA 2     15           !~C1~~1E~
+  06 PELEA 3     16           !~E1~~1E~
+  07 PELEA 4     17           "~01~~1E~
+  08 JEFE        18           "!~1E~
+  09 GANAR       19           "A~1E~
+  0A MUERTE      1A           "~61~~1E~
+  0B FINAL       1B           "~81~~1E~
+  0C             1C           "~A1~~1E~
+  0D             1D           "~C1~~1E~
+  0E             1E           "~E1~~1E~
+  0F             1F MUESTRA   ~23~A~1E~
+ A-MÚSICA            B-SONIDO ~FF~#595
+|595
+@0001CA6F-0001CA74-FF
+;0001CA6F{PLAYER}#006#006
+J{UG}{GA}{AD}{DO}R#006
+|6
+@0001CA8D-0001CA92-FF
+;0001CA8D{ENEMY.}#006#006
+ENEM{IG}{GO}#006
+|6
+@0001D897-0001D8A8-FF
+;0001D897{"~69~~0E~COLDEN HARVEST~FF~}#027#018
+"~69~~0E~COLDEN HARVEST~FF~#018
+|18
+@0001E495-0001E4B9-FF
+;0001E495{"~E4~~18~ c 1988 TOEI ANIMATION  ~23~~04~~18~c 2016 }#052#037
+"~E4~~18~ c 1988 TOEI ANIMATION  ~23~~04~~18~c 2016 #037
+|37
+@0001E523-0001E537-FF
+;0001E523{"~67~~05~START"~71~~09~PASS WORD~FF~}#036#021
+"~67~~05~NUEVA"~71~~09~CLAVE    ~FF~#021
+|21
+@0001F83C-0001FAE2-FF
+;0001F83C{         PLANNED BY                       K.INOMATA     ====        DIRECTED BY                       K.INOMATA                   K.SADAMOTO                  S.ABE         ====       PROGRAMMED BY                      K.SADAMOTO                  M.OHNO                      N.SADAMOTO                  S.ABE         ====        DESIGNED BY                       S.ABE                       K.TACHIBANA                 K.SADAMOTO                  N.SADAMOTO    ====          MUSIC BY                        M.KURINAGA                  M.WATANABE    ====      SOUND EFFECT BY                     K.SADAMOTO    =============        PRESENTED BY        =   TOEI ANIMATION CO.LTD    ~FF~}#682#679
+        PLANEADO POR        
+              K.INOMATA     ====
+        DIRIGIDO POR        
+              K.INOMATA     
+              K.SADAMOTO    
+              S.ABE         ====
+       PROGRAMADO POR       
+              K.SADAMOTO    
+              M.OHNO        
+              N.SADAMOTO    
+              S.ABE         ====
+        DISEÑADO POR        
+              S.ABE         
+              K.TACHIBANA   
+              K.SADAMOTO    
+              N.SADAMOTO    ====
+         MÚSICA POR         
+              M.KURINAGA    
+              M.WATANABE    ====
+   EFECTOS DE SONIDO POR    
+              K.SADAMOTO    =============
+       PRESENTADO POR       =
+   TOEI ANIMATION CO.LTD    ~FF~#679
+|679
+@0001FD0E-0001FD6E-FF
+;0001FD0E{ ~84~~18~FIGHTING ROAD  TEST MODE ~D0~~0C~BY  SADAMOTO!~24~~18~BGM 00   PLR 00   EM0 00!~64~~18~EM1 00   EM2 00   EM3 00~FF~}#124#097
+ ~84~~18~
+TEST MODO  FIGHTING ROAD ~D0~~0C~
+POR SADAMOTO!~24~~18~
+MÚS 00   JGD 00   EM0 00!~64~~18~EM1 00   EM2 00   EM3 00~FF~#097
+|97

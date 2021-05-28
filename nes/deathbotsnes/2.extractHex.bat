@@ -1,5 +1,5 @@
 @echo off
-set T_FILENAME="TR_Deathbots (AVE) (V1.1) [!].nes"
+set T_FILENAME="TR_Deathbots (USA) (Rev 1) (Unl).nes"
 set SCRIPTNAME="deathbotsnes"
 java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 10910:20,10B10:20,11F80:20,12210:30,12410:30,12610:30,12810:30,12A10:30,122E0:10,12460:20,12500:10,12660:20,12C80:10,12700:10,133B0:20,135C0:10,137C0:10
 pause

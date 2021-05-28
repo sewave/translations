@@ -1,0 +1,40 @@
+@000001AD-000001BA-FF
+;000001AD{CREDIT_SCREEN_}#014#014
+CREDIT_SCREEN_#014
+|14
+@00001D73-00002132-FF
+;00001D73{                                                                                                            CREDITS                                                                                                                PRODUCED BY YASUAKI NAGOSHI                                     PROGRAMMED BY BOB RUTHERFORD                                    GRAPHICS BY HANS JANSSEN        AND KAZUYUKI TAKIMOTO                                           MUSIC BY                        HISASHI ZERO YOTSUMOTO AND      HIROSHI TAGUCHI                                                 SOUND BY HIROSHI SUZUKI                                                                                                            SPECIAL THANKS TO                                               TAKAHIRO KOSEKI                 THOMAS OTAKE                    AND OUR BPS STAFF                                                                                                         }#960#960
+                                                                                                            CREDITS                                                                                                                PRODUCED BY YASUAKI NAGOSHI                                     PROGRAMMED BY BOB RUTHERFORD                                    GRAPHICS BY HANS JANSSEN        AND KAZUYUKI TAKIMOTO                                           MUSIC BY                        HISASHI ZERO YOTSUMOTO AND      HIROSHI TAGUCHI                                                 SOUND BY HIROSHI SUZUKI                                                                                                            SPECIAL THANKS TO                                               TAKAHIRO KOSEKI                 THOMAS OTAKE                    AND OUR BPS STAFF                                                                                                         #960
+|960
+@00002573-00002932-FF
+;00002573{                                                                                                                                                                                                                                  TM AND c 1987                   V/O ELECTRONORGTECHNICA         ("ELORG")                                                       TETRIS LICENSED TO NINTENDO     AND SUBLICENSED TO              BULLET-PROOF SOFTWARE.                                          c1988 BULLET-PROOF SOFTWARE.    ALL RIGHTS RESERVED.                                                                            ORIGINAL CONCEPT, DESIGN AND    PROGRAM BY ALEXEY PAZHITNOV.                                                                                                                                                                                                                                                                                                  }#960#960
+                                                                                                                                                                                                                                  TM AND c 1987                   V/O ELECTRONORGTECHNICA         ("ELORG")                                                       TETRIS LICENSED TO NINTENDO     AND SUBLICENSED TO              BULLET-PROOF SOFTWARE.                                          c1988 BULLET-PROOF SOFTWARE.    ALL RIGHTS RESERVED.                                                                            ORIGINAL CONCEPT, DESIGN AND    PROGRAM BY ALEXEY PAZHITNOV.                                                                                                                                                                                                                                                                                                  #960
+|960
+@00002D73-00003067-FF
+;00002D73{          DROPS               1 LINE       X 40             2 LINES      X 100            3 LINES      X 300            4 LINES      X 1200                               THIS STAGE                                           GAME                OVER                                                       PLEASE               TRY                AGAIN                                              HIT                START                 TO               CONTINUE              GAME                                                                         BPS   10000 0 9BPS    9000 0 8BPS    8000 0 7BPS    7000 0 6BPS    6000 0 5BPS    5000 0 4BPS    4000 0 3BPS    3000 0 2BPS    2000 0 1BPS    1000 0 0                                                         }#757#757
+          DROPS               1 LINE       X 40             2 LINES      X 100            3 LINES      X 300            4 LINES      X 1200                               THIS STAGE                                           GAME                OVER                                                       PLEASE               TRY                AGAIN                                              HIT                START                 TO               CONTINUE              GAME                                                                         BPS   10000 0 9BPS    9000 0 8BPS    8000 0 7BPS    7000 0 6BPS    6000 0 5BPS    5000 0 4BPS    4000 0 3BPS    3000 0 2BPS    2000 0 1BPS    1000 0 0                                                         #757
+|757
+@00003068-00003087-FF
+;00003068{        SCORE         0         }#032#032
+        SCORE         0         #032
+|32
+@000030AB-000030B7-FF
+;000030AB{     LIVES   }#013#013
+     LIVES   #013
+|13
+@000030EC-000030F7-FF
+;000030EC{    ROUND   }#012#012
+    ROUND   #012
+|12
+@0000312D-00003137-FF
+;0000312D{   STAGE   }#011#011
+   STAGE   #011
+|11
+@0000316D-00003177-FF
+;0000316D{   LINES   }#011#011
+   LINES   #011
+|11
+@00003993-000039AA-FF
+;00003993{NAME   SC0RE ROUND STAGE}#024#024
+NAME   SC0RE ROUND STAGE#024
+|24

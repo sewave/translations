@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Baltron (J) [!].nes"
-set S_FILENAME="Baltron (J) [!].nes"
+set T_FILENAME="TR_Baltron (Japan).nes"
+set S_FILENAME="Baltron (Japan).nes"
 set SCRIPTNAME="baltronnes"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

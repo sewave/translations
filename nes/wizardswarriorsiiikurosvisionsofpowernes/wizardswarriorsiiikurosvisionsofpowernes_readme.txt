@@ -1,28 +1,29 @@
-Wizards & Warriors III - Kuros - Visions of Power (NES)
-Traducci髇 al Espa駉l v1.0 (14/09/2018)
-(C) 2018 Wave Translations
+Wizards & Warriors III - Kuros...Visions of Power (NES)
+Traducci贸n al Espa帽ol v1.1 (05/06/2021)
+(C) 2021 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducci髇 y hacking es completamente original.
-Si encuentras alg鷑 fallo puedes contactar conmigo y ver mis traducciones en
+Esta traducci贸n y hacking es completamente original.
+Si encuentras alg煤n fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+V1.1: Arreglados textos con n煤meros no v谩lidos y peque帽a revisi贸n de script.
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Wizards & Warriors III - Kuros - Visions of Power (U) [!].nes
-262.160 bytes
+Wizards & Warriors III - Kuros...Visions of Power (USA).nes
 MD5: 36a820680b83c3a5efbc46f43e36cca9
 SHA1: 9c04e7357e5b39cfd9d0a119c52102197b4a1be0
 CRC32: 4f505449
+262160 bytes
 
 --------
-Cr閐itos
+Cr茅ditos
 --------
-Wave - Hacking, traducci髇 y pruebas.
+Wave - Hacking, traducci贸n y pruebas.
 
 -- FIN --

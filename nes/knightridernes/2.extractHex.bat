@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Knight Rider (USA).nes"
+set SCRIPTNAME="knightridernes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 2FC30:20,29E80:10,2AF10:80,2D868:80,2DC78:10,2D1C8:80,2D268:80,2D468:80,2D668:80,2D780:10,10480:30,10670:60,10790:30,10590:20
+pause

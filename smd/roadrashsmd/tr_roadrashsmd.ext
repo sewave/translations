@@ -1,0 +1,2646 @@
+@00001E4B-00002287-00
+;00001E4B{&    Copyright 1991 Electronic Arts                                          ~00~}#081#078
+&
+    Copyright 1991 Electronic Arts    
+                                      ~00~#078
+;00001E99{~19~~00~}#008#002
+~19~~00~#002
+;00001E9B{~01~~00~}#008#002
+~01~~00~#002
+;00001E9D{~02~~00~}#008#002
+~02~~00~#002
+;00001E9F{&   Licensed by Sega Enterprises LTD.                                        ~00~}#081#078
+&
+ Licenciado por Sega Enterprises LTD. 
+                                      ~00~#078
+;00001EED{~19~~00~}#008#002
+~19~~00~#002
+;00001EEF{~01~~00~}#008#002
+~01~~00~#002
+;00001EF1{~02~~00~}#008#002
+~02~~00~#002
+;00001EF3{&             Programming:                    Dan Geisler, Walter Stein      ~00~}#081#078
+&
+            Programación:             
+       Dan Geisler, Walter Stein      ~00~#078
+;00001F41{~19~~00~}#008#002
+~19~~00~#002
+;00001F43{~01~~00~}#008#002
+~01~~00~#002
+;00001F45{~02~~00~}#008#002
+~02~~00~#002
+;00001F47{&                 Art:                        Arthur Koch, Jeff Fennel       ~00~}#081#078
+&
+                Arte:                 
+       Arthur Koch, Jeff Fennel       ~00~#078
+;00001F95{~19~~00~}#008#002
+~19~~00~#002
+;00001F97{~01~~00~}#008#002
+~01~~00~#002
+;00001F99{~02~~00~}#008#002
+~02~~00~#002
+;00001F9B{&                 Art:                    Sheryl Knowles, Cynthia Hamilton   ~00~}#081#078
+&
+                Arte:                 
+   Sheryl Knowles, Cynthia Hamilton   ~00~#078
+;00001FE9{~19~~00~}#008#002
+~19~~00~#002
+;00001FEB{~01~~00~}#008#002
+~01~~00~#002
+;00001FED{~02~~00~}#008#002
+~02~~00~#002
+;00001FEF{&                 Art:                        Connie Braat, Paul Vernon      ~00~}#081#078
+&
+                Arte:                 
+       Connie Braat, Paul Vernon      ~00~#078
+;0000203D{~19~~00~}#008#002
+~19~~00~#002
+;0000203F{~01~~00~}#008#002
+~01~~00~#002
+;00002041{~02~~00~}#008#002
+~02~~00~#002
+;00002043{&                 Art:                             Peggy Brennan             ~00~}#081#078
+&
+                Arte:                 
+            Peggy Brennan             ~00~#078
+;00002091{~19~~00~}#008#002
+~19~~00~#002
+;00002093{~01~~00~}#008#002
+~01~~00~#002
+;00002095{~02~~00~}#008#002
+~02~~00~#002
+;00002097{&           Sound and Music:                 Rob Hubbard, Mike Bartlow       ~00~}#081#078
+&
+           Música y Sonido:           
+      Rob Hubbard, Mike Bartlow       ~00~#078
+;000020E5{~19~~00~}#008#002
+~19~~00~#002
+;000020E7{~01~~00~}#008#002
+~01~~00~#002
+;000020E9{~02~~00~}#008#002
+~02~~00~#002
+;000020EB{&              Production:                           Randy Breen             ~00~}#081#078
+&
+              Producción:             
+              Randy Breen             ~00~#078
+;00002139{~19~~00~}#008#002
+~19~~00~#002
+;0000213B{~01~~00~}#008#002
+~01~~00~#002
+;0000213D{~02~~00~}#008#002
+~02~~00~#002
+;0000213F{&         Technical Direction:                        Carl Mey               ~00~}#081#078
+&
+          Dirección Técnica:          
+               Carl Mey               ~00~#078
+;0000218D{~19~~00~}#008#002
+~19~~00~#002
+;0000218F{~01~~00~}#008#002
+~01~~00~#002
+;00002191{~02~~00~}#008#002
+~02~~00~#002
+;00002193{&         Production Assistant:                   Michael Lubuguin           ~00~}#081#078
+&
+       Ayudante de Producción:        
+           Michael Lubuguin           ~00~#078
+;000021E1{~19~~00~}#008#002
+~19~~00~#002
+;000021E3{~01~~00~}#008#002
+~01~~00~#002
+;000021E5{~02~~00~}#008#002
+~02~~00~#002
+;000021E7{&                                                                            ~00~}#081#078
+&                                                                            ~00~#078
+;00002235{~18~~00~}#008#002
+~18~~00~#002
+;00002237{~01~~00~}#008#002
+~01~~00~#002
+;00002239{~02~~00~}#008#002
+~02~~00~#002
+;0000223B{&   Press the Start Button to Begin                                          }#077#077
+&
+  Pulsa el Botón Start para Empezar   
+                                      #077
+|1085
+@0000245E-000024CC-00
+;0000245E{Player A   password accepted                      Players: 0          Level: 0                                 }#111#111
+JugadorA   clave    
+aceptada            
+        Jugadores: 0
+          Nivel: 0  
+                    
+           #111
+|111
+@00003A64-00003A6D-00
+;00003A64{Leve <l  0}#010#010
+Nive <l  0#010
+|10
+@00003AF4-00003AFD-00
+;00003AF4{Leve <l  0}#010#010
+Nive <l  0#010
+|10
+@000047A6-00004BAC-00
+;000047A6{Press "Start" to exit ~00~}#026#023
+  "Start" para salir  ~00~#023
+;000047BD{~17~~00~}#008#002
+~17~~00~#002
+;000047BF{~10~~00~}#008#002
+~10~~00~#002
+;000047C1{~03~~00~}#008#002
+~03~~00~#002
+;000047C3{~14~ Press "A" or "B" to                       change a letter  ~00~}#068#062
+~14~
+Pulsa "A" o "B" para
+          
+         
+  cambiar una letra  ~00~#062
+;00004801{~17~~00~}#008#002
+~17~~00~#002
+;00004803{~10~~00~}#008#002
+~10~~00~#002
+;00004805{~03~~00~}#008#002
+~03~~00~#002
+;00004807{~14~    Press "C" to                         select other player~00~}#068#062
+~14~
+   Pulsa "C" para   
+                    
+elegir otro jugador ~00~#062
+;00004845{~17~~00~}#008#002
+~17~~00~#002
+;00004847{~10~~00~}#008#002
+~10~~00~#002
+;00004849{~03~~00~}#008#002
+~03~~00~#002
+;0000484B{~14~ Use Directional pad                       to move cursor   ~00~}#068#062
+~14~
+Mueve el cursor con 
+                    
+ el pad Direccional ~00~#062
+;00004889{~16~~00~}#008#002
+~16~~00~#002
+;0000488B{~0A~~00~}#008#002
+~0A~~00~#002
+;0000488D{~05~~00~}#008#002
+~05~~00~#002
+;0000488F{~14~         1                                  Player Mode                              Selected       ~00~}#108#102
+~14~
+      Modo de       
+                    
+     1 Jugador      
+                    
+    Seleccionado    ~00~#102
+;000048F5{~16~~00~}#008#002
+~16~~00~#002
+;000048F7{~0A~~00~}#008#002
+~0A~~00~#002
+;000048F9{~05~~00~}#008#002
+~05~~00~#002
+;000048FB{~14~         2                                  Player Mode                              Selected       ~00~}#108#102
+~14~
+      Modo de       
+                    
+    2 Jugadores     
+                    
+    Seleccionado    ~00~#102
+;00004961{~17~~00~}#008#002
+~17~~00~#002
+;00004963{~0A~~00~}#008#002
+~0A~~00~#002
+;00004965{~03~~00~}#008#002
+~03~~00~#002
+;00004967{~14~    Music is now                                ON          ~00~}#068#062
+~14~
+La Música está ahora
+                    
+     ENCENDIDA      ~00~#062
+;000049A5{~17~~00~}#008#002
+~17~~00~#002
+;000049A7{~0A~~00~}#008#002
+~0A~~00~#002
+;000049A9{~03~~00~}#008#002
+~03~~00~#002
+;000049AB{~14~    Music is now                                OFF         ~00~}#068#062
+~14~
+La Música está ahora
+                    
+      APAGADA       ~00~#062
+;000049E9{~00~}#004#001
+~00~#001
+;000049EA{I~FC~~00~}#009#003
+I~FC~~00~#003
+;000049ED{~00~}#004#001
+~00~#001
+;000049EE{Jh~00~}#006#003
+Jh~00~#003
+;000049F1{~00~}#004#001
+~00~#001
+;000049F2{J~D4~~00~}#009#003
+J~D4~~00~#003
+;000049F5{~00~}#004#001
+~00~#001
+;000049F6{K~40~~00~}#009#003
+K~40~~00~#003
+;000049F9{~00~}#004#001
+~00~#001
+;000049FA{K~AC~~00~}#009#003
+K~AC~~00~#003
+;000049FD{~16~~00~}#008#002
+~16~~00~#002
+;000049FF{~0A~~00~}#008#002
+~0A~~00~#002
+;00004A01{~05~~00~}#008#002
+~05~~00~#002
+;00004A03{~14~   The next race       will be in the                           Sierra Nevada             miles     ~00~}#108#102
+~14~
+ La próxima carrera 
+      será en       
+                    
+    Sierra Nevada   
+          miles     ~00~#102
+;00004A69{~16~~00~}#008#002
+~16~~00~#002
+;00004A6B{~0A~~00~}#008#002
+~0A~~00~#002
+;00004A6D{~05~~00~}#008#002
+~05~~00~#002
+;00004A6F{~14~   The next race       will be on the                           Pacific Coast             miles     ~00~}#108#102
+~14~
+ La próxima carrera 
+      será en       
+                    
+   Pacific Coast    
+          millas    ~00~#102
+;00004AD5{~16~~00~}#008#002
+~16~~00~#002
+;00004AD7{~0A~~00~}#008#002
+~0A~~00~#002
+;00004AD9{~05~~00~}#008#002
+~05~~00~#002
+;00004ADB{~14~   The next race       will be in the                          Redwood Forest             miles     ~00~}#108#102
+~14~
+ La próxima carrera 
+      será en       
+                    
+   Redwood Forest   
+          millas    ~00~#102
+;00004B41{~16~~00~}#008#002
+~16~~00~#002
+;00004B43{~0A~~00~}#008#002
+~0A~~00~#002
+;00004B45{~05~~00~}#008#002
+~05~~00~#002
+;00004B47{~14~    The next race      will be in the                            Palm Desert              miles     ~00~}#108#102
+~14~
+ La próxima carrera 
+      será en       
+                    
+     Palm Desert    
+          millas    ~00~#102
+|1031
+@00004BAD-00004FB6-00
+;00004BAD{~16~~00~}#008#002
+~16~~00~#002
+;00004BAF{~0A~~00~}#008#002
+~0A~~00~#002
+;00004BB1{~05~~00~}#008#002
+~05~~00~#002
+;00004BB3{~14~    The next race        will be in                             Grass Valley              miles     Fang         $51,320Helldog      $44,790Lubster      $34,260Natasha      $29,990Sergio       $23,440Player A          $0Player B          $0~00~}#248#242
+~14~
+ La próxima carrera 
+      será en       
+                    
+    Grass Valley    
+          millas    
+Fang         51.320$
+Helldog      44.790$
+Lubster      34.260$
+Natasha      29.990$
+Sergio       23.440$
+JugadorA          $0
+JugadorB          $0~00~#242
+;00004CA5{~17~~00~}#008#002
+~17~~00~#002
+;00004CA7{~10~~00~}#008#002
+~10~~00~#002
+;00004CA9{~03~~00~}#008#002
+~03~~00~#002
+;00004CAB{~14~   Press "Start"                              to race       ~00~}#068#062
+~14~
+   Pulsa "Start"    
+                    
+    para correr     ~00~#062
+;00004CE9{~17~~00~}#008#002
+~17~~00~#002
+;00004CEB{~10~~00~}#008#002
+~10~~00~#002
+;00004CED{~03~~00~}#008#002
+~03~~00~#002
+;00004CEF{~14~   Press "A" for                          Player Selection  ~00~}#068#062
+~14~
+   Pulsa "A" para   
+                    
+  Elegir Jugadores  ~00~#062
+;00004D2D{~17~~00~}#008#002
+~17~~00~#002
+;00004D2F{~10~~00~}#008#002
+~10~~00~#002
+;00004D31{~03~~00~}#008#002
+~03~~00~#002
+;00004D33{~14~  Press "B" to turn                        Music ON or OFF  ~00~}#068#062
+~14~
+"B" para ENCENDER o 
+                    
+  APAGAR la Música  ~00~#062
+;00004D71{~16~~00~}#008#002
+~16~~00~#002
+;00004D73{~10~~00~}#008#002
+~10~~00~#002
+;00004D75{~05~~00~}#008#002
+~05~~00~#002
+;00004D77{~14~    Press "C" to                          Enter a password                        or a player name  ~00~}#108#102
+~14~
+   Pulsa "C" para   
+                    
+ Entrar una clave o 
+                    
+ nombre de jugador  ~00~#102
+;00004DDD{~17~~00~}#008#002
+~17~~00~#002
+;00004DDF{~10~~00~}#008#002
+~10~~00~#002
+;00004DE1{~03~~00~}#008#002
+~03~~00~#002
+;00004DE3{~14~ Use Directional pad                     select a new track ~00~}#068#062
+~14~
+ Elige pista con el 
+                    
+  pad Direccional   ~00~#062
+;00004E21{~16~~00~}#008#002
+~16~~00~#002
+;00004E23{~0C~~00~}#008#002
+~0C~~00~#002
+;00004E25{~05~~00~}#008#002
+~05~~00~#002
+;00004E27{~10~   PLAYERNAME                   PASSWORD INVALID                OLD LEVEL IS: 0 ~00~}#088#082
+~10~
+   PLAYERNAME   
+                
+CLAVE    NO VALE
+                
+       NIVEL: 0 ~00~#082
+;00004E79{~16~~00~}#008#002
+~16~~00~#002
+;00004E7B{~10~~00~}#008#002
+~10~~00~#002
+;00004E7D{~05~~00~}#008#002
+~05~~00~#002
+;00004E7F{~14~                                                                                                    ~00~}#108#102
+~14~                                                                                                    ~00~#102
+;00004EE5{~1B~~00~}#008#002
+~1B~~00~#002
+;00004EE7{~01~~00~}#008#002
+~01~~00~#002
+;00004EE9{~01~~00~}#008#002
+~01~~00~#002
+;00004EEB{~01~  ~00~}#010#004
+~01~  ~00~#004
+;00004EEF{~08~~00~}#008#002
+~08~~00~#002
+;00004EF1{~04~~00~}#008#002
+~04~~00~#002
+;00004EF3{~07~~00~}#008#002
+~07~~00~#002
+;00004EF5{~0C~    Name                                                                  Password  ~00~}#092#086
+~0C~
+   Nombre   
+            
+            
+            
+            
+            
+   Clave    ~00~#086
+;00004F4B{~16~~00~}#008#002
+~16~~00~#002
+;00004F4D{~10~~00~}#008#002
+~10~~00~#002
+;00004F4F{~05~~00~}#008#002
+~05~~00~#002
+;00004F51{~14~      Press "A"                             to check out                             High Scores    ~00~}#108#102
+~14~
+     Pulsa "A"      
+                    
+   para mirar las   
+                    
+   Mejores Marcas   ~00~#102
+|1034
+@00004FB7-000053FE-00
+;00004FB7{~17~~00~}#008#002
+~17~~00~#002
+;00004FB9{~10~~00~}#008#002
+~10~~00~#002
+;00004FBB{~03~~00~}#008#002
+~03~~00~#002
+;00004FBD{~14~    Press "C" to                        check out new bikes ~00~}#068#062
+~14~
+ Pulsa "C" para ver 
+                    
+  las motos nuevas  ~00~#062
+;00004FFB{~17~~00~}#008#002
+~17~~00~#002
+;00004FFD{~10~~00~}#008#002
+~10~~00~#002
+;00004FFF{~03~~00~}#008#002
+~03~~00~#002
+;00005001{~14~Press "Start" to go                      to Track Selection ~00~}#068#062
+~14~
+ Pulsa "Start" para 
+                    
+ ir a Elegir Pista  ~00~#062
+;0000503F{~16~~00~}#008#002
+~16~~00~#002
+;00005041{~10~~00~}#008#002
+~10~~00~#002
+;00005043{~05~~00~}#008#002
+~05~~00~#002
+;00005045{~14~ Press "B" to check                       out Race Results,                      cash, and password.~00~}#108#102
+~14~
+ Pulsa "B" para ver 
+                    
+  los Resultados,   
+                    
+  dinero y clave.   ~00~#102
+;000050AB{~16~~00~}#008#002
+~16~~00~#002
+;000050AD{~10~~00~}#008#002
+~10~~00~#002
+;000050AF{~05~~00~}#008#002
+~05~~00~#002
+;000050B1{~14~    Press "C" to                              buy a new                                             ~00~}#108#102
+~14~
+  Pulsa "C" para    
+                    
+ comprar una nueva  
+                    
+                    ~00~#102
+;00005117{~16~~00~}#008#002
+~16~~00~#002
+;00005119{~10~~00~}#008#002
+~10~~00~#002
+;0000511B{~04~~00~}#008#002
+~04~~00~#002
+;0000511D{~14~   Press Left on      Directional Pad     to check out the                      ~00~}#088#082
+~14~
+ Pulsa Izquierda en 
+ el Pad Direccional 
+    para ver la     
+                    ~00~#082
+;0000516F{~16~~00~}#008#002
+~16~~00~#002
+;00005171{~10~~00~}#008#002
+~10~~00~#002
+;00005173{~04~~00~}#008#002
+~04~~00~#002
+;00005175{~14~   Press Right on     Directional Pad     to check out the                      ~00~}#088#082
+~14~
+Pulsa Derecha en el 
+Pad Direccional para
+       ver la       
+                    ~00~#082
+;000051C7{~17~~00~}#008#002
+~17~~00~#002
+;000051C9{~0A~~00~}#008#002
+~0A~~00~#002
+;000051CB{~03~~00~}#008#002
+~03~~00~#002
+;000051CD{~14~ You already own a                                          ~00~}#068#062
+~14~
+   Ya tienes una    
+                    
+                    ~00~#062
+;0000520B{~16~~00~}#008#002
+~16~~00~#002
+;0000520D{~0A~~00~}#008#002
+~0A~~00~#002
+;0000520F{~05~~00~}#008#002
+~05~~00~#002
+;00005211{~14~   You need more                          credit to buy a                                           ~00~}#108#102
+~14~
+  Te falta crédito  
+                    
+  para comprar una  
+                    
+                    ~00~#102
+;00005277{~16~~00~}#008#002
+~16~~00~#002
+;00005279{~0A~~00~}#008#002
+~0A~~00~#002
+;0000527B{~04~~00~}#008#002
+~04~~00~#002
+;0000527D{~14~ You must complete      every course     before you can go   to the next level  ~00~}#088#082
+~14~
+  Debes completar   
+  todos los rumbos  
+ antes de poder ir  
+ al siguiente nivel ~00~#082
+;000052CF{~16~~00~}#008#002
+~16~~00~#002
+;000052D1{~0A~~00~}#008#002
+~0A~~00~#002
+;000052D3{~05~~00~}#008#002
+~05~~00~#002
+;000052D5{~14~ You must complete    every course in   4th place or better  before you can go   to the next level  ~00~}#108#102
+~14~
+  Debes completar   
+todos los rumbos en 
+ 4to lugar o mejor  
+ antes de poder ir  
+ al siguiente nivel ~00~#102
+;0000533B{~16~~00~}#008#002
+~16~~00~#002
+;0000533D{~0A~~00~}#008#002
+~0A~~00~#002
+;0000533F{~05~~00~}#008#002
+~05~~00~#002
+;00005341{~14~  Congratulations!     you have raced      well, try some    harder competition      on level 1     ~00~}#108#102
+~14~
+    Felicidades!    
+ Has corrido bien,  
+   prueba con una   
+competición más dura
+     en nivel 1     ~00~#102
+;000053A7{~16~~00~}#008#002
+~16~~00~#002
+;000053A9{~0A~~00~}#008#002
+~0A~~00~#002
+;000053AB{~04~~00~}#008#002
+~04~~00~#002
+;000053AD{~14~Your credit for bike purchase includes   the trade in value   of your old bike. ~00~}#088#082
+~14~
+  Tu crédito para   
+   comprar motos    
+incluye la venta de 
+   tu vieja moto.   ~00~#082
+|1096
+@000053FF-00005763-00
+;000053FF{~17~~00~}#008#002
+~17~~00~#002
+;00005401{~04~~00~}#008#002
+~04~~00~#002
+;00005403{~03~~00~}#008#002
+~03~~00~#002
+;00005405{ Big on Handling, short on power.It's important to maintain speedthrough the corners on this one.~00~}#101#098
+ 
+Gran manejo, poca potencia.     
+Con esta es importante mantener 
+la velocidad en las esquinas.   ~00~#098
+;00005467{~17~~00~}#008#002
+~17~~00~#002
+;00005469{~06~~00~}#008#002
+~06~~00~#002
+;0000546B{~03~~00~}#008#002
+~03~~00~#002
+;0000546D{~1C~Good all-around sport bike. Light steering but lacks    mid-range performance.      ~00~}#092#086
+~1C~
+Completa moto deportiva.    
+Giro ligero pero le falta   
+rendimiento de rango medio. ~00~#086
+;000054C3{~17~~00~}#008#002
+~17~~00~#002
+;000054C5{~05~~00~}#008#002
+~05~~00~#002
+;000054C7{~03~~00~}#008#002
+~03~~00~#002
+;000054C9{~1E~Crisp handling with good powerat high RPM but no mid-range. Try and keep the revs high.   ~00~}#098#092
+~1E~
+Manejo fresco con potencia a  
+altas RPM pero no a medias.   
+Intenta mantenerlas altas.    ~00~#092
+;00005525{~17~~00~}#008#002
+~17~~00~#002
+;00005527{~04~~00~}#008#002
+~04~~00~#002
+;00005529{~02~~00~}#008#002
+~02~~00~#002
+;0000552B{ Slower steering, but bigger     mid-range power than the Banzai.~00~}#069#066
+ 
+Dirección lenta, pero mayor     
+potencia a mitad que la Banzai. ~00~#066
+;0000556D{~17~~00~}#008#002
+~17~~00~#002
+;0000556F{~06~~00~}#008#002
+~06~~00~#002
+;00005571{~03~~00~}#008#002
+~03~~00~#002
+;00005573{~1C~Extreme speed but its size  makes for slower turning andstopping. Plan your turns.  ~00~}#092#086
+~1C~
+Velocidad extrema pero su   
+tamaño la hace lenta para   
+girar y parar. Planifícalos.~00~#086
+;000055C9{~17~~00~}#008#002
+~17~~00~#002
+;000055CB{~06~~00~}#008#002
+~06~~00~#002
+;000055CD{~03~~00~}#008#002
+~03~~00~#002
+;000055CF{~1C~V-twin torque and razor     sharp handling. Reliability could be a problem.         ~00~}#092#086
+~1C~
+Torsión V-gemela y manejo   
+afilado. La fiabilidad      
+podría ser un problema.     ~00~#086
+;00005625{~17~~00~}#008#002
+~17~~00~#002
+;00005627{~05~~00~}#008#002
+~05~~00~#002
+;00005629{~02~~00~}#008#002
+~02~~00~#002
+;0000562B{~1E~Big V4 mid-range power and    magic handling at a big price.~00~}#068#062
+~1E~
+Gran potencia a rango-medio y 
+manejo mágico a gran precio.  ~00~#062
+;00005669{~17~~00~}#008#002
+~17~~00~#002
+;0000566B{~05~~00~}#008#002
+~05~~00~#002
+;0000566D{~02~~00~}#008#002
+~02~~00~#002
+;0000566F{~1E~Fuel injected horse power and awesome Italian handling.     ~00~}#068#062
+~1E~
+Caballos de inyección e       
+increíble manejo italiano.    ~00~#062
+;000056AD{~12~~00~}#008#002
+~12~~00~#002
+;000056AF{~10~~00~}#008#002
+~10~~00~#002
+;000056B1{~02~~00~}#008#002
+~02~~00~#002
+;000056B3{~12~Caught by the cops Your fine -      ~00~}#044#038
+~12~
+Cazado por policía
+Tu multa -        ~00~#038
+;000056D9{~12~~00~}#008#002
+~12~~00~#002
+;000056DB{~10~~00~}#008#002
+~10~~00~#002
+;000056DD{~02~~00~}#008#002
+~02~~00~#002
+;000056DF{~12~Can't afford bail     GAME OVER     ~00~}#044#038
+~12~
+Fianza no pagable 
+   FIN DE JUEGO   ~00~#038
+;00005705{~12~~00~}#008#002
+~12~~00~#002
+;00005707{~10~~00~}#008#002
+~10~~00~#002
+;00005709{~02~~00~}#008#002
+~02~~00~#002
+;0000570B{~12~ Your bike needs   repairs  -       ~00~}#044#038
+~12~
+Tu moto necesita  
+reparación-       ~00~#038
+;00005731{~12~~00~}#008#002
+~12~~00~#002
+;00005733{~10~~00~}#008#002
+~10~~00~#002
+;00005735{~02~~00~}#008#002
+~02~~00~#002
+;00005737{~14~No money for repairs     GAME OVER      3~FC~~80~~00~}#057#045
+~14~
+ No puedes reparar  
+    FIN DE JUEGO    
+3~FC~~80~~00~#045
+|869
+@00006216-00006219-00
+;00006216{cash}#004#004
+dnro#004
+|4
+@00006C9C-00006CFF-00
+;00006C9C{ To go to the next                       level, you need to                       earn        more. }#100#100
+Para ir al siguiente
+                    
+  nivel, necesitas  
+                    
+ ganar        más.  #100
+|100
+@00006D14-00006D4F-00
+;00006D14{the next level yet.   You need to earn      $12345 more.    }#060#060
+al próximo nivel aún
+  Necesitas ganar   
+     12345$ más.    #060
+|60
+@00006D58-00006D88-00
+;00006D58{Continue play at                 Current level 0~00~}#052#049
+ Seguir jugando 
+                
+  Nivel actual 0~00~#049
+|49
+@00006D90-00006DC0-00
+;00006D90{El próximo nivel                 será el nivel 03}#049#049
+El próximo nivel                 será el nivel 03#049
+|49
+@000081FA-00008216-00
+;000081FA{ Shuriken 400  60 HP 400 lbs~00~}#032#029
+ Shuriken 400  60 CV 181 KG ~00~#029
+|29
+@0000821E-0000823A-00
+;0000821E{   Panda 600   90 HP 450 lbs~00~}#032#029
+   Panda 600   90 CV 204 KG ~00~#029
+|29
+@00008242-0000825E-00
+;00008242{  Banzai 750  100 HP 465 lbs~00~}#032#029
+  Banzai 750  100 CV 211 KG ~00~#029
+|29
+@00008266-00008282-00
+;00008266{ Kamikaze 750 105 HP 475 lbs~00~}#032#029
+ Kamikaze 750 105 CV 215 KG ~00~#029
+|29
+@0000828A-000082A6-00
+;0000828A{ Shuriken 1000135 HP 510 lbs~00~}#032#029
+ Shuriken 1000135 CV 231 KG ~00~#029
+|29
+@000082AE-000082CA-00
+;000082AE{  Ferruci 850 110 HP 470 lbs~00~}#032#029
+  Ferruci 850 110 CV 213 KG ~00~#029
+|29
+@000082D2-000082EE-00
+;000082D2{   Panda 750  120 HP 450 lbs~00~}#032#029
+   Panda 750  120 CV 204 KG ~00~#029
+|29
+@000082F6-00008312-00
+;000082F6{  Diablo 1000 150 HP 450 lbs~01~}#032#029
+  Diablo 1000 150 CV 204 KG ~01~#029
+|29
+@00008C9E-00008D01-00
+;00008C9E{ To go to the next                       level, you need to                       earn        more. }#100#100
+Para ir al siguiente
+                    
+  nivel, necesitas  
+                    
+ ganar        más.  #100
+|100
+@00008D16-00008D51-00
+;00008D16{the next level yet.   You need to earn      $12345 more.    }#060#060
+al próximo nivel aún
+  Necesitas ganar   
+     12345$ más.    #060
+|60
+@00008D5A-00008D8A-00
+;00008D5A{Continue play at                 Current level 0~00~}#052#049
+ Seguir jugando 
+                
+  Nivel actual 0~00~#049
+|49
+@00008D92-00008DC2-00
+;00008D92{El próximo nivel                 será el nivel 0~00~}#052#049
+El próximo nivel
+                
+ será el nivel 0~00~#049
+|49
+@0000D190-0000D199-00
+;0000D190{Player def}#010#010
+JugadorDef#010
+|10
+@0000D58E-0000D5CD-00
+;0000D58E{ 1st 2nd 3rd 4th 5th 6th 7th 8th 9th10th11th12th13th14th15th16th}#064#064
+ 1ro 2do 3ro 4to 5to 6to 7mo 8vo 9no10mo11ro12do13ro14to15to16to#064
+|64
+@00016E78-00017292-00
+;00016E78{Some of these jerkswould rather fight than race. Watch   yourself out there.~00~}#080#077
+Algunos de estos   
+pelmas prefieren   
+pelear a correr.   
+Cuidado ahí fuera. ~00~#077
+;00016EC5{~07~~00~}#008#002
+~07~~00~#002
+;00016EC7{~10~~00~}#008#002
+~10~~00~#002
+;00016EC9{~03~~00~}#008#002
+~03~~00~#002
+;00016ECB{~14~Viper's got a club. If he swings at you,grab it.            ~00~}#068#062
+~14~
+Viper tiene un palo.
+Si te golpea,       
+agárralo.           ~00~#062
+;00016F09{~07~~00~}#008#002
+~07~~00~#002
+;00016F0B{~10~~00~}#008#002
+~10~~00~#002
+;00016F0D{~03~~00~}#008#002
+~03~~00~#002
+;00016F0F{~16~watch for intersectionsigns. They can save  you in a blind turn.  ~00~}#074#068
+~16~
+Alerta a las señales  
+de intersección.      
+Pueden salvarte.      ~00~#068
+;00016F53{~07~~00~}#008#002
+~07~~00~#002
+;00016F55{~10~~00~}#008#002
+~10~~00~#002
+;00016F57{~03~~00~}#008#002
+~03~~00~#002
+;00016F59{~15~Stay on the road. thesand is slippery and you may lose control.~00~}#071#065
+~15~
+Quédate en la calle. 
+La arena resbala y   
+puede descontrolarte.~00~#065
+;00016F9A{~00~}#004#001
+~00~#001
+;00016F9B{~07~~00~}#008#002
+~07~~00~#002
+;00016F9D{~10~~00~}#008#002
+~10~~00~#002
+;00016F9F{~04~~00~}#008#002
+~04~~00~#002
+;00016FA1{~14~I don't like to     fight, but if I haveto, i'll make the   bruiser hate life.  ~00~}#088#082
+~14~
+No me gusta pelear, 
+pero si tengo que   
+hacerlo, haré que el
+matón odie la vida. ~00~#082
+;00016FF3{~07~~00~}#008#002
+~07~~00~#002
+;00016FF5{~10~~00~}#008#002
+~10~~00~#002
+;00016FF7{~04~~00~}#008#002
+~04~~00~#002
+;00016FF9{~15~Ready for a new bike yet? Don't spend all your cash. Save some for fines and wrecks.~00~}#092#086
+~15~
+Listo para una moto  
+nueva? No gastes todo
+el dinero.Guarda para
+multas y accidentes. ~00~#086
+;0001704F{~07~~00~}#008#002
+~07~~00~#002
+;00017051{~10~~00~}#008#002
+~10~~00~#002
+;00017053{~03~~00~}#008#002
+~03~~00~#002
+;00017055{~16~This course can be    tough. tap the brake  if you start to slide.~00~}#074#068
+~16~
+Este rumbo puede ser  
+duro. Usa el freno si 
+empiezas a deslizarte.~00~#068
+;00017099{~07~~00~}#008#002
+~07~~00~#002
+;0001709B{~10~~00~}#008#002
+~10~~00~#002
+;0001709D{~03~~00~}#008#002
+~03~~00~#002
+;0001709F{~13~Slater's crazed. hejumped a cow last  time we raced here.~00~}#065#059
+~13~
+Slater está loco.  
+Se saltó una vaca  
+la última vez aquí.~00~#059
+;000170DA{~00~}#004#001
+~00~#001
+;000170DB{~07~~00~}#008#002
+~07~~00~#002
+;000170DD{~10~~00~}#008#002
+~10~~00~#002
+;000170DF{~03~~00~}#008#002
+~03~~00~#002
+;000170E1{~12~some trashers use the roadside rocksas ramps... once. ~00~}#062#056
+~12~
+Algunos usan rocas
+de los bordes como
+rampa... una vez. ~00~#056
+;00017119{~07~~00~}#008#002
+~07~~00~#002
+;0001711B{~10~~00~}#008#002
+~10~~00~#002
+;0001711D{~03~~00~}#008#002
+~03~~00~#002
+;0001711F{~11~expect anything  from spike. don'ttrust him.       ~00~}#059#053
+~11~
+Espera cualquier 
+cosa de Spike.   
+No confíes en el.~00~#053
+;00017154{~00~}#004#001
+~00~#001
+;00017155{~07~~00~}#008#002
+~07~~00~#002
+;00017157{~10~~00~}#008#002
+~10~~00~#002
+;00017159{~03~~00~}#008#002
+~03~~00~#002
+;0001715B{~14~ikira may be a bit  serious but he's notout to hurt anyone. ~00~}#068#062
+~14~
+Ikira puede ser algo
+serio pero no sale  
+para herir a nadie. ~00~#062
+;00017199{~07~~00~}#008#002
+~07~~00~#002
+;0001719B{~10~~00~}#008#002
+~10~~00~#002
+;0001719D{~05~~00~}#008#002
+~05~~00~#002
+;0001719F{~12~sometimes the onlyway to lose a cop is to sucker them into slowing down,then dust'em.     ~00~}#098#092
+~12~
+A veces la única  
+forma de perder a 
+un poli es hacer  
+que frenen y luego
+acelerar.         ~00~#092
+;000171FB{~07~~00~}#008#002
+~07~~00~#002
+;000171FD{~10~~00~}#008#002
+~10~~00~#002
+;000171FF{~04~~00~}#008#002
+~04~~00~#002
+;00017201{~13~Don't be afraid to use the brake. you can turn tighter byslowing down.      ~00~}#084#078
+~13~
+No temas usar el   
+freno. Puedes girar
+más ajustadamente  
+ralentizándote.    ~00~#078
+;0001724F{~07~~00~}#008#002
+~07~~00~#002
+;00017251{~10~~00~}#008#002
+~10~~00~#002
+;00017253{~03~~00~}#008#002
+~03~~00~#002
+;00017255{~14~the cops are gettingsmarter. watch out  for roadblocks here.~00~}#068#062
+~14~
+Los polis se vuelven
+más listos. Cuidado 
+con los bloqueos.   ~00~#062
+|1051
+@00017293-000176DE-00
+;00017293{~07~~00~}#008#002
+~07~~00~#002
+;00017295{~10~~00~}#008#002
+~10~~00~#002
+;00017297{~03~~00~}#008#002
+~03~~00~#002
+;00017299{~12~keep your distancefrom helldog. the guy's an animal.  ~00~}#062#056
+~12~
+Mantente lejos de 
+Helldog. El tío es
+un animal.        ~00~#056
+;000172D1{~07~~00~}#008#002
+~07~~00~#002
+;000172D3{~10~~00~}#008#002
+~10~~00~#002
+;000172D5{~03~~00~}#008#002
+~03~~00~#002
+;000172D7{~16~Watch out for the beef.there's a fence broken down the road.         ~00~}#077#071
+~16~
+Cuidado con la carne.  
+Hay una valla rota por 
+la carretera.          ~00~#071
+;0001731E{~00~}#004#001
+~00~#001
+;0001731F{~07~~00~}#008#002
+~07~~00~#002
+;00017321{~10~~00~}#008#002
+~10~~00~#002
+;00017323{~04~~00~}#008#002
+~04~~00~#002
+;00017325{~16~you can sucker helldoginto a wreck. start a fight with him and he may forget the traffic~00~}#096#090
+~16~
+Puedes estrellar a    
+Helldog. Empieza una  
+pelea con él y puede  
+que olvide el tráfico.~00~#090
+;0001737F{~07~~00~}#008#002
+~07~~00~#002
+;00017381{~10~~00~}#008#002
+~10~~00~#002
+;00017383{~03~~00~}#008#002
+~03~~00~#002
+;00017385{~14~be careful. officer o'connor is almost  as tough as helldog.~00~}#068#062
+~14~
+Cuidado. El oficial 
+O'Connor es casi tan
+duro como Helldog.  ~00~#062
+;000173C3{~07~~00~}#008#002
+~07~~00~#002
+;000173C5{~10~~00~}#008#002
+~10~~00~#002
+;000173C7{~04~~00~}#008#002
+~04~~00~#002
+;000173C9{~15~this course is reallywindy toward the end.don't try pushing it too hard.            ~00~}#092#086
+~15~
+Este rumbo es muy    
+ventoso hacia el     
+final. Intenta no    
+presionar demasiado. ~00~#086
+;0001741F{~07~~00~}#008#002
+~07~~00~#002
+;00017421{~10~~00~}#008#002
+~10~~00~#002
+;00017423{~02~~00~}#008#002
+~02~~00~#002
+;00017425{~13~You're on your own now. good luck.    ~00~}#046#040
+~13~
+Ahora estás solo.  
+Buena suerte.      ~00~#040
+;0001744D{~07~~00~}#008#002
+~07~~00~#002
+;0001744F{~10~~00~}#008#002
+~10~~00~#002
+;00017451{~03~~00~}#008#002
+~03~~00~#002
+;00017453{~15~Don't count on me forhelp when you hack meout on the track.    ~00~}#071#065
+~15~
+No cuentes conmigo   
+para ayudarte cuando 
+me sacas de la calle.~00~#065
+;00017494{~00~}#004#001
+~00~#001
+;00017495{~07~~00~}#008#002
+~07~~00~#002
+;00017497{~10~~00~}#008#002
+~10~~00~#002
+;00017499{~03~~00~}#008#002
+~03~~00~#002
+;0001749B{~12~You should listen to what Biff has  to say. Great Guy!~00~}#062#056
+~12~
+Deberías escuchar 
+lo que Biff tiene 
+que decir. Grande!~00~#056
+;000174D3{~07~~00~}#008#002
+~07~~00~#002
+;000174D5{~10~~00~}#008#002
+~10~~00~#002
+;000174D7{~03~~00~}#008#002
+~03~~00~#002
+;000174D9{~14~out of my face, bud.you'd be wise to    keep your distance. ~00~}#068#062
+~14~
+Fuera de mi vista,  
+tío. Serías sabio si
+te mantienes lejos. ~00~#062
+;00017517{~07~~00~}#008#002
+~07~~00~#002
+;00017519{~10~~00~}#008#002
+~10~~00~#002
+;0001751B{~04~~00~}#008#002
+~04~~00~#002
+;0001751D{~14~I thought we had an understanding? i cantrust you as much asi trust biff.       ~00~}#088#082
+~14~
+Pensaba que teníamos
+un acuerdo? Puedo   
+confiar en ti tanto 
+como en Biff.       ~00~#082
+;0001756F{~07~~00~}#008#002
+~07~~00~#002
+;00017571{~10~~00~}#008#002
+~10~~00~#002
+;00017573{~03~~00~}#008#002
+~03~~00~#002
+;00017575{~14~want to be a victim?just pull up beside me during the race. ~00~}#068#062
+~14~
+Quieres ser víctima?
+Solo ponte a mi lado
+durante una carrera.~00~#062
+;000175B3{~07~~00~}#008#002
+~07~~00~#002
+;000175B5{~10~~00~}#008#002
+~10~~00~#002
+;000175B7{~05~~00~}#008#002
+~05~~00~#002
+;000175B9{~14~if i see ya sprawledout on the pavement i'll do you a favor and put you out of  your misery.        ~00~}#108#102
+~14~
+Si te veo tirado en 
+el pavimento te haré
+un favor y te       
+libraré de tu       
+miseria.            ~00~#102
+;0001761F{~07~~00~}#008#002
+~07~~00~#002
+;00017621{~10~~00~}#008#002
+~10~~00~#002
+;00017623{~02~~00~}#008#002
+~02~~00~#002
+;00017625{~11~You touch me, youdie. Simple.     ~00~}#042#036
+~11~
+Si me tocas,     
+mueres. Simple.  ~00~#036
+;00017649{~07~~00~}#008#002
+~07~~00~#002
+;0001764B{~10~~00~}#008#002
+~10~~00~#002
+;0001764D{~03~~00~}#008#002
+~03~~00~#002
+;0001764F{~13~i've got a big     stick and it's got your name on it.   ~00~}#065#059
+~13~
+Tengo un gran palo 
+y tiene tu nombre  
+en él.             ~00~#059
+;0001768A{~00~}#004#001
+~00~#001
+;0001768B{~07~~00~}#008#002
+~07~~00~#002
+;0001768D{~10~~00~}#008#002
+~10~~00~#002
+;0001768F{~04~~00~}#008#002
+~04~~00~#002
+;00017691{~13~go face down on thepavement lately or do you always look like that?         ~00~}#084#078
+~13~
+Has besado mucho el
+pavimento o es que 
+siempre tienes esa 
+pinta?             ~00~#078
+|1100
+@000176DF-00017AFF-00
+;000176DF{~07~~00~}#008#002
+~07~~00~#002
+;000176E1{~10~~00~}#008#002
+~10~~00~#002
+;000176E3{~03~~00~}#008#002
+~03~~00~#002
+;000176E5{~13~Keep your distance.Get too close and  I'll take you out. ~00~}#065#059
+~13~
+Mantente alejado.  
+Acércate mucho y me
+encargaré de ti.   ~00~#059
+;00017720{~00~}#004#001
+~00~#001
+;00017721{~07~~00~}#008#002
+~07~~00~#002
+;00017723{~10~~00~}#008#002
+~10~~00~#002
+;00017725{~05~~00~}#008#002
+~05~~00~#002
+;00017727{~14~you're pretty good. Let's ride with the next gang. Bigger   risks for bigger    bucks.              ~00~}#108#102
+~14~
+Eres bastante bueno.
+Montemos con la     
+próxima banda. Más  
+riegos para más     
+dinero.             ~00~#102
+;0001778D{~07~~00~}#008#002
+~07~~00~#002
+;0001778F{~10~~00~}#008#002
+~10~~00~#002
+;00017791{~03~~00~}#008#002
+~03~~00~#002
+;00017793{~15~Are you ready to moveon? There's a toughercrowd waiting for us.~00~}#071#065
+~15~
+Listo para avanzar?  
+Hay un público más   
+duro que nos espera. ~00~#065
+;000177D4{~00~}#004#001
+~00~#001
+;000177D5{~07~~00~}#008#002
+~07~~00~#002
+;000177D7{~10~~00~}#008#002
+~10~~00~#002
+;000177D9{~03~~00~}#008#002
+~03~~00~#002
+;000177DB{~14~Watch yourself. The game starts getting rough from here out.~00~}#068#062
+~14~
+Ten cuidado. El     
+juego empieza a     
+ponerse duro ahora. ~00~#062
+;00017819{~07~~00~}#008#002
+~07~~00~#002
+;0001781B{~10~~00~}#008#002
+~10~~00~#002
+;0001781D{~02~~00~}#008#002
+~02~~00~#002
+;0001781F{~14~We're up against thevet rashers now.    ~00~}#048#042
+~14~
+Ahora estamos contra
+los veteranos.      ~00~#042
+;00017849{~07~~00~}#008#002
+~07~~00~#002
+;0001784B{~10~~00~}#008#002
+~10~~00~#002
+;0001784D{~04~~00~}#008#002
+~04~~00~#002
+;0001784F{~15~congratulations.     you're now one of therasher vets. how longcan you stay on top? ~00~}#092#086
+~15~
+Felicidades. Ahora   
+eres uno de los      
+veteranos. Cuanto    
+tiempo aguantarás?   ~00~#086
+;000178A5{~07~~00~}#008#002
+~07~~00~#002
+;000178A7{~10~~00~}#008#002
+~10~~00~#002
+;000178A9{~03~~00~}#008#002
+~03~~00~#002
+;000178AB{~14~Now take it easy anddon't let me catch  you speeding. Okay? ~00~}#068#062
+~14~
+Ahora tómatelo con  
+calma y que no te   
+cace corriendo. Eh? ~00~#062
+;000178E9{~07~~00~}#008#002
+~07~~00~#002
+;000178EB{~10~~00~}#008#002
+~10~~00~#002
+;000178ED{~04~~00~}#008#002
+~04~~00~#002
+;000178EF{~14~You don't want to   get me mad. I can bea pretty tough guy  when I want to be.  ~00~}#088#082
+~14~
+No quieres que me   
+enfade. Puedo ser un
+tipo bastante duro  
+cuando quiero serlo.~00~#082
+;00017941{~07~~00~}#008#002
+~07~~00~#002
+;00017943{~10~~00~}#008#002
+~10~~00~#002
+;00017945{~04~~00~}#008#002
+~04~~00~#002
+;00017947{~12~Please don't driveso fast. The sargeis getting upset  with you people.  ~00~}#080#074
+~12~
+Por favor no vayas
+tan rápido.       
+El sargento se    
+está enfadando.   ~00~#074
+;00017991{~07~~00~}#008#002
+~07~~00~#002
+;00017993{~10~~00~}#008#002
+~10~~00~#002
+;00017995{~03~~00~}#008#002
+~03~~00~#002
+;00017997{~14~Be nice to the judgeand maybe you'll gettraffic school.     ~00~}#068#062
+~14~
+Se bueno con el juez
+y quizá vayas a la  
+autoescuela.        ~00~#062
+;000179D5{~07~~00~}#008#002
+~07~~00~#002
+;000179D7{~10~~00~}#008#002
+~10~~00~#002
+;000179D9{~04~~00~}#008#002
+~04~~00~#002
+;000179DB{~14~Excessive speed is  dangerous. Does yourmother know where   you are?            ~00~}#088#082
+~14~
+La velocidad        
+excesiva es         
+peligrosa. Sabe tu  
+madre donde estás?  ~00~#082
+;00017A2D{~07~~00~}#008#002
+~07~~00~#002
+;00017A2F{~10~~00~}#008#002
+~10~~00~#002
+;00017A31{~04~~00~}#008#002
+~04~~00~#002
+;00017A33{~13~Traveling at unsafespeeds is wrong. I must protect you   from yourself.     ~00~}#084#078
+~13~
+Viajar a velocidad 
+no segura está mal.
+Debo protegerte de 
+ti mismo.          ~00~#078
+;00017A81{~07~~00~}#008#002
+~07~~00~#002
+;00017A83{~10~~00~}#008#002
+~10~~00~#002
+;00017A85{~03~~00~}#008#002
+~03~~00~#002
+;00017A87{~12~Traffic codes havebeen violated. Youmust be fined.    ~00~}#062#056
+~12~
+Se han violado    
+leyes de tráfico. 
+Debes ser multado.~00~#056
+;00017ABF{~07~~00~}#008#002
+~07~~00~#002
+;00017AC1{~10~~00~}#008#002
+~10~~00~#002
+;00017AC3{~03~~00~}#008#002
+~03~~00~#002
+;00017AC5{~13~You've been caught one too many times.Pick another hobby.~00~}#065#059
+~13~
+Has sido cazado    
+demasiadas veces.  
+Elige otra afición.~00~#059
+|1057
+@00017B00-00017F24-00
+;00017B00{~00~}#004#001
+~00~#001
+;00017B01{~07~~00~}#008#002
+~07~~00~#002
+;00017B03{~10~~00~}#008#002
+~10~~00~#002
+;00017B05{~02~~00~}#008#002
+~02~~00~#002
+;00017B07{~15~Out of money, go to  jail, that's the law.~00~}#050#044
+~15~
+Sin dinero, vas a la 
+cárcel,esa es la ley.~00~#044
+;00017B33{~07~~00~}#008#002
+~07~~00~#002
+;00017B35{~10~~00~}#008#002
+~10~~00~#002
+;00017B37{~04~~00~}#008#002
+~04~~00~#002
+;00017B39{~14~You'd better not be one of those wild   biker types. I'm outto get me a rasher. ~00~}#088#082
+~14~
+Será mejor que no   
+seas uno de esos    
+moteros salvajes.   
+Voy a por un rasher.~00~#082
+;00017B8B{~07~~00~}#008#002
+~07~~00~#002
+;00017B8D{~10~~00~}#008#002
+~10~~00~#002
+;00017B8F{~04~~00~}#008#002
+~04~~00~#002
+;00017B91{~16~the last rasher to tryoutrunnin' me was a   skidmark when i was   through with'em.      ~00~}#096#090
+~16~
+El último rasher que  
+intentó sobrepasarme  
+era una mancha cuando 
+terminé con él.       ~00~#090
+;00017BEB{~07~~00~}#008#002
+~07~~00~#002
+;00017BED{~10~~00~}#008#002
+~10~~00~#002
+;00017BEF{~03~~00~}#008#002
+~03~~00~#002
+;00017BF1{~16~You punks think you'reso fast. Wait 'til yousee me on your tail.  ~00~}#074#068
+~16~
+Los punks os creéis   
+muy rápidos. Esperad a
+verme en vuestra cola.~00~#068
+;00017C35{~07~~00~}#008#002
+~07~~00~#002
+;00017C37{~10~~00~}#008#002
+~10~~00~#002
+;00017C39{~03~~00~}#008#002
+~03~~00~#002
+;00017C3B{~14~don't eyeball me,   bud. i want a littlerespect, ya hear?   ~00~}#068#062
+~14~
+No me mires así,    
+amigo. Quiero un    
+poco de respeto, eh?~00~#062
+;00017C79{~07~~00~}#008#002
+~07~~00~#002
+;00017C7B{~10~~00~}#008#002
+~10~~00~#002
+;00017C7D{~03~~00~}#008#002
+~03~~00~#002
+;00017C7F{~13~Ah, what a feeling.First collar of theday.               ~00~}#065#059
+~13~
+Ah, que sensación. 
+Primer collar del  
+día.               ~00~#059
+;00017CBA{~00~}#004#001
+~00~#001
+;00017CBB{~07~~00~}#008#002
+~07~~00~#002
+;00017CBD{~10~~00~}#008#002
+~10~~00~#002
+;00017CBF{~03~~00~}#008#002
+~03~~00~#002
+;00017CC1{~16~believe me kid, this  ticket is only the    beginning of the hurt.~00~}#074#068
+~16~
+Créeme chico, esta    
+multa es solo el      
+principio del dolor.  ~00~#068
+;00017D05{~07~~00~}#008#002
+~07~~00~#002
+;00017D07{~10~~00~}#008#002
+~10~~00~#002
+;00017D09{~03~~00~}#008#002
+~03~~00~#002
+;00017D0B{~16~You've been cited for speeding in the pre-  sence of an officer.  ~00~}#074#068
+~16~
+Has sido citado por   
+correr en presencia de
+un oficial.           ~00~#068
+;00017D4F{~07~~00~}#008#002
+~07~~00~#002
+;00017D51{~10~~00~}#008#002
+~10~~00~#002
+;00017D53{~03~~00~}#008#002
+~03~~00~#002
+;00017D55{~10~Cut the excuses.Save the whiningfor the judge.  ~00~}#056#050
+~10~
+Corta la excusa.
+Deja el gimoteo 
+para el juez.   ~00~#050
+;00017D87{~07~~00~}#008#002
+~07~~00~#002
+;00017D89{~10~~00~}#008#002
+~10~~00~#002
+;00017D8B{~03~~00~}#008#002
+~03~~00~#002
+;00017D8D{~12~Serve and Protect.With you in jail, I can do both.    ~00~}#062#056
+~12~
+Servir y Proteger.
+Contigo en prisión
+puedo hacer ambos.~00~#056
+;00017DC5{~07~~00~}#008#002
+~07~~00~#002
+;00017DC7{~10~~00~}#008#002
+~10~~00~#002
+;00017DC9{~03~~00~}#008#002
+~03~~00~#002
+;00017DCB{~12~This is the worst day of the rest ofyour life.        ~00~}#062#056
+~12~
+Este es el peor   
+día del resto de  
+tu vida.          ~00~#056
+;00017E03{~07~~00~}#008#002
+~07~~00~#002
+;00017E05{~10~~00~}#008#002
+~10~~00~#002
+;00017E07{~03~~00~}#008#002
+~03~~00~#002
+;00017E09{~14~what's your name?   i'm fillin' out sometickets in advance. ~00~}#068#062
+~14~
+Cómo te llamas?     
+Relleno multas por  
+adelantado.         ~00~#062
+;00017E47{~07~~00~}#008#002
+~07~~00~#002
+;00017E49{~10~~00~}#008#002
+~10~~00~#002
+;00017E4B{~03~~00~}#008#002
+~03~~00~#002
+;00017E4D{~13~be fly, sly boy or i'm gonna put you  out like the trash.~00~}#065#059
+~13~
+Calma, chico, o voy
+a sacarte como la  
+basura.            ~00~#059
+;00017E88{~00~}#004#001
+~00~#001
+;00017E89{~07~~00~}#008#002
+~07~~00~#002
+;00017E8B{~10~~00~}#008#002
+~10~~00~#002
+;00017E8D{~03~~00~}#008#002
+~03~~00~#002
+;00017E8F{~15~do yourself some goodand ride home while  you're still walkin'.~00~}#071#065
+~15~
+Hazte un favor y     
+conduce a casa       
+mientras caminas.    ~00~#065
+;00017ED0{~00~}#004#001
+~00~#001
+;00017ED1{~07~~00~}#008#002
+~07~~00~#002
+;00017ED3{~10~~00~}#008#002
+~10~~00~#002
+;00017ED5{~04~~00~}#008#002
+~04~~00~#002
+;00017ED7{~13~Don't get uptight, it's only money.   Nothing for a big  wheeler like you.  ~00~}#084#078
+~13~
+No te tenses,      
+solo es dinero.    
+Nada grande para un
+motero como tu.    ~00~#078
+|1061
+@00017F25-00018346-00
+;00017F25{~07~~00~}#008#002
+~07~~00~#002
+;00017F27{~10~~00~}#008#002
+~10~~00~#002
+;00017F29{~03~~00~}#008#002
+~03~~00~#002
+;00017F2B{~13~Yo, speedo. Give ita rest or jail's inyour near future.  ~00~}#065#059
+~13~
+Eh, rapidito. Calma
+un poco o la cárcel
+será tu futuro.    ~00~#059
+;00017F66{~00~}#004#001
+~00~#001
+;00017F67{~07~~00~}#008#002
+~07~~00~#002
+;00017F69{~10~~00~}#008#002
+~10~~00~#002
+;00017F6B{~05~~00~}#008#002
+~05~~00~#002
+;00017F6D{~12~what part of "slowdown" didn't you  understand? Try tofigure out this   ticket.           ~00~}#098#092
+~12~
+Qué parte de      
+"aminora" no has  
+entendido? Intenta
+averiguarlo con   
+esta multa.       ~00~#092
+;00017FC9{~07~~00~}#008#002
+~07~~00~#002
+;00017FCB{~10~~00~}#008#002
+~10~~00~#002
+;00017FCD{~03~~00~}#008#002
+~03~~00~#002
+;00017FCF{~16~Keep driving like thatand you'll be walkin',if you're lucky.      ~00~}#074#068
+~16~
+Sigue conduciendo así 
+y estarás caminando,  
+si tienes suerte.     ~00~#068
+;00018013{~07~~00~}#008#002
+~07~~00~#002
+;00018015{~10~~00~}#008#002
+~10~~00~#002
+;00018017{~04~~00~}#008#002
+~04~~00~#002
+;00018019{~12~Out of money big  wheeler? Just rollyourself into the paddy wagon.      ~00~}#080#074
+~12~
+Sin dinero gran   
+motero? Pues gira 
+hacia el vagón de 
+la policía.       ~00~#074
+;00018063{~07~~00~}#008#002
+~07~~00~#002
+;00018065{~10~~00~}#008#002
+~10~~00~#002
+;00018067{~04~~00~}#008#002
+~04~~00~#002
+;00018069{~11~It looks like youshould've been a little smarter ora lot richer.    ~00~}#076#070
+~11~
+Parece que debías
+ser un poco más  
+listo o mucho más
+rico.            ~00~#070
+;000180AF{~07~~00~}#008#002
+~07~~00~#002
+;000180B1{~10~~00~}#008#002
+~10~~00~#002
+;000180B3{~04~~00~}#008#002
+~04~~00~#002
+;000180B5{~16~i use to run with the rashers before i wisedup. i know the tricks,so heads up, bud.     ~00~}#096#090
+~16~
+Solía correr con los  
+rashers. Me conozco   
+los trucos, te aviso, 
+amigo.                ~00~#090
+;0001810F{~07~~00~}#008#002
+~07~~00~#002
+;00018111{~10~~00~}#008#002
+~10~~00~#002
+;00018113{~04~~00~}#008#002
+~04~~00~#002
+;00018115{~15~hey, rookie. you sureyou belong in the bigleagues? these guys  will spit you out.   ~00~}#092#086
+~15~
+Eh, novato. Seguro   
+que perteneces a las 
+grandes ligas? Estos 
+tipos te escupirán.  ~00~#086
+;0001816B{~07~~00~}#008#002
+~07~~00~#002
+;0001816D{~10~~00~}#008#002
+~10~~00~#002
+;0001816F{~04~~00~}#008#002
+~04~~00~#002
+;00018171{~11~i usually give   the rasher a     chance run beforeI haul them in.  ~00~}#076#070
+~11~
+Normalmente le   
+doy al rasher una
+oportunidad de   
+huir antes.      ~00~#070
+;000181B7{~07~~00~}#008#002
+~07~~00~#002
+;000181B9{~10~~00~}#008#002
+~10~~00~#002
+;000181BB{~03~~00~}#008#002
+~03~~00~#002
+;000181BD{~15~how do you expect to win if you can't out-run me on my hog?    ~00~}#071#065
+~15~
+Como esperas ganar si
+no puedes pasarme en 
+mi motocicleta?      ~00~#065
+;000181FE{~00~}#004#001
+~00~#001
+;000181FF{~07~~00~}#008#002
+~07~~00~#002
+;00018201{~10~~00~}#008#002
+~10~~00~#002
+;00018203{~02~~00~}#008#002
+~02~~00~#002
+;00018205{~11~you broke the lawand i won.       ~00~}#042#036
+~11~
+Quebrantaste la  
+ley y gané yo.   ~00~#036
+;00018229{~07~~00~}#008#002
+~07~~00~#002
+;0001822B{~10~~00~}#008#002
+~10~~00~#002
+;0001822D{~03~~00~}#008#002
+~03~~00~#002
+;0001822F{~12~kinda slow for a  rasher. i had you pegged as a loser.~00~}#062#056
+~12~
+Bastante lento    
+para un rasher. Te
+tenía de perdedor.~00~#056
+;00018267{~07~~00~}#008#002
+~07~~00~#002
+;00018269{~10~~00~}#008#002
+~10~~00~#002
+;0001826B{~02~~00~}#008#002
+~02~~00~#002
+;0001826D{~15~have a ticket and    thanks for the dance.~00~}#050#044
+~15~
+Toma una multa y     
+gracias por el baile.~00~#044
+;00018299{~07~~00~}#008#002
+~07~~00~#002
+;0001829B{~10~~00~}#008#002
+~10~~00~#002
+;0001829D{~03~~00~}#008#002
+~03~~00~#002
+;0001829F{~11~time for one lastroadtrip. we're  going downtown!  ~00~}#059#053
+~11~
+Hora de un último
+viaje. Al centro 
+de la ciudad!    ~00~#053
+;000182D4{~00~}#004#001
+~00~#001
+;000182D5{~07~~00~}#008#002
+~07~~00~#002
+;000182D7{~10~~00~}#008#002
+~10~~00~#002
+;000182D9{~02~~00~}#008#002
+~02~~00~#002
+;000182DB{~13~you just made earlyretirement, buddy. ~00~}#046#040
+~13~
+Una jubilación     
+anticipada, amigo. ~00~#040
+;00018303{~07~~00~}#008#002
+~07~~00~#002
+;00018305{~10~~00~}#008#002
+~10~~00~#002
+;00018307{~03~~00~}#008#002
+~03~~00~#002
+;00018309{~14~you're all the same.high speed hamburgerwaiting to happen.  ~00~}#068#062
+~14~
+Sois todos iguales. 
+Hamburguesas de alta
+velocidad en espera.~00~#062
+|1058
+@00018347-00018754-00
+;00018347{~07~~00~}#008#002
+~07~~00~#002
+;00018349{~10~~00~}#008#002
+~10~~00~#002
+;0001834B{~03~~00~}#008#002
+~03~~00~#002
+;0001834D{~14~if i don't drop you,helldog will. you'd better hope it's me.~00~}#068#062
+~14~
+Si no te tiro,      
+Helldog lo hará.    
+Desea que sea yo.   ~00~#062
+;0001838B{~07~~00~}#008#002
+~07~~00~#002
+;0001838D{~10~~00~}#008#002
+~10~~00~#002
+;0001838F{~04~~00~}#008#002
+~04~~00~#002
+;00018391{~15~do you think i like  chasing you people,  knocking you down,   dragging you in? yup.~00~}#092#086
+~15~
+Crees que me gusta   
+perseguiros, tiraros 
+y arrastraros?       
+Pues sí.             ~00~#086
+;000183E7{~07~~00~}#008#002
+~07~~00~#002
+;000183E9{~10~~00~}#008#002
+~10~~00~#002
+;000183EB{~02~~00~}#008#002
+~02~~00~#002
+;000183ED{~15~seventh ticket today,i'm on a roll!       ~00~}#050#044
+~15~
+Séptima multa de hoy,
+estoy en racha!      ~00~#044
+;00018419{~07~~00~}#008#002
+~07~~00~#002
+;0001841B{~10~~00~}#008#002
+~10~~00~#002
+;0001841D{~03~~00~}#008#002
+~03~~00~#002
+;0001841F{~15~think you're cool?   wrong. too much speedand not enough heed. ~00~}#071#065
+~15~
+Crees que eres guay? 
+Mal. Mucha velocidad 
+y poca atención.     ~00~#065
+;00018460{~00~}#004#001
+~00~#001
+;00018461{~07~~00~}#008#002
+~07~~00~#002
+;00018463{~10~~00~}#008#002
+~10~~00~#002
+;00018465{~03~~00~}#008#002
+~03~~00~#002
+;00018467{~12~Check your wallet.it's about to get lighter.          ~00~}#062#056
+~12~
+Mira tu cartera.  
+Va a volverse más 
+ligera.           ~00~#056
+;0001849F{~07~~00~}#008#002
+~07~~00~#002
+;000184A1{~10~~00~}#008#002
+~10~~00~#002
+;000184A3{~04~~00~}#008#002
+~04~~00~#002
+;000184A5{~16~walk your sorry self  home. i'm confiscatingyour bike and going   for donuts and coffee.~00~}#096#090
+~16~
+Camina arrepentido a  
+casa. Te confisco la  
+moto y voy a ir a por 
+rosquillas y café.    ~00~#090
+;000184FF{~07~~00~}#008#002
+~07~~00~#002
+;00018501{~10~~00~}#008#002
+~10~~00~#002
+;00018503{~03~~00~}#008#002
+~03~~00~#002
+;00018505{~16~you're at the end of  your luck and the billis due. game over bud.~00~}#074#068
+~16~
+Se te acabó la suerte 
+y la factura venció.  
+Fin del juego amigo.  ~00~#068
+;00018549{~07~~00~}#008#002
+~07~~00~#002
+;0001854B{~10~~00~}#008#002
+~10~~00~#002
+;0001854D{~04~~00~}#008#002
+~04~~00~#002
+;0001854F{~13~It's a great day toface challenge on  the open road. Bestof luck friend!    ~00~}#084#078
+~13~
+Es un gran día para
+enfrentarse a un   
+reto en la calle.  
+Mucha suerte amigo!~00~#078
+;0001859D{~07~~00~}#008#002
+~07~~00~#002
+;0001859F{~10~~00~}#008#002
+~10~~00~#002
+;000185A1{~03~~00~}#008#002
+~03~~00~#002
+;000185A3{~13~Did I tell you thatmy bike was custom built? Very pricey.~00~}#065#059
+~13~
+Te dije que mi moto
+es personalizada?  
+Muy cara.          ~00~#059
+;000185DE{~00~}#004#001
+~00~#001
+;000185DF{~07~~00~}#008#002
+~07~~00~#002
+;000185E1{~10~~00~}#008#002
+~10~~00~#002
+;000185E3{~04~~00~}#008#002
+~04~~00~#002
+;000185E5{~11~You don't have toworry about me   fighting dirty.  I'm a sportsman! ~00~}#076#070
+~11~
+No tienes que    
+preocuparte por  
+que pelee sucio. 
+Soy deportivo!   ~00~#070
+;0001862B{~07~~00~}#008#002
+~07~~00~#002
+;0001862D{~10~~00~}#008#002
+~10~~00~#002
+;0001862F{~03~~00~}#008#002
+~03~~00~#002
+;00018631{~16~i'd spend everything ihad on a new bike at  the first opportunity.~00~}#074#068
+~16~
+Gastaría todo lo que  
+tengo en una nueva    
+moto nada más poder.  ~00~#068
+;00018675{~07~~00~}#008#002
+~07~~00~#002
+;00018677{~10~~00~}#008#002
+~10~~00~#002
+;00018679{~03~~00~}#008#002
+~03~~00~#002
+;0001867B{~14~top speed is every- thing. higher speed,quicker finish.     ~00~}#068#062
+~14~
+La velocidad punta  
+lo es todo. Más     
+veloz, acabas antes.~00~#062
+;000186B9{~07~~00~}#008#002
+~07~~00~#002
+;000186BB{~10~~00~}#008#002
+~10~~00~#002
+;000186BD{~04~~00~}#008#002
+~04~~00~#002
+;000186BF{~14~be a sport. take a  fall and drop out ofthe race. there's   money in it for you.~00~}#088#082
+~14~
+Se deportivo. Cae y 
+salte de la carrera.
+Hay dinero en ello  
+para ti.            ~00~#082
+;00018711{~07~~00~}#008#002
+~07~~00~#002
+;00018713{~10~~00~}#008#002
+~10~~00~#002
+;00018715{~03~~00~}#008#002
+~03~~00~#002
+;00018717{~14~Nice piece of work, your bike looks likea Picasso.          ~00~}#068#062
+~14~
+Buen trabajo,       
+tu moto parece un   
+Picasso.            ~00~#062
+|1038
+@00018755-00018B62-00
+;00018755{~07~~00~}#008#002
+~07~~00~#002
+;00018757{~10~~00~}#008#002
+~10~~00~#002
+;00018759{~04~~00~}#008#002
+~04~~00~#002
+;0001875B{~10~the conventionalriding style is to hang on, not fall off.       ~00~}#072#066
+~10~
+El estilo de    
+montar normal es
+aguantarse,     
+no caerse.      ~00~#066
+;0001879D{~07~~00~}#008#002
+~07~~00~#002
+;0001879F{~10~~00~}#008#002
+~10~~00~#002
+;000187A1{~03~~00~}#008#002
+~03~~00~#002
+;000187A3{~13~Is this nap time orshould I call an   ambulance?         ~00~}#065#059
+~13~
+Es hora de dormir o
+debería llamar a   
+una ambulancia?    ~00~#059
+;000187DE{~00~}#004#001
+~00~#001
+;000187DF{~07~~00~}#008#002
+~07~~00~#002
+;000187E1{~10~~00~}#008#002
+~10~~00~#002
+;000187E3{~03~~00~}#008#002
+~03~~00~#002
+;000187E5{~0F~Out of money? iknew you lookedmiddle class.  ~00~}#053#047
+~0F~
+Sin dinero?    
+Sabía que eras 
+de clase media.~00~#047
+;00018814{~00~}#004#001
+~00~#001
+;00018815{~07~~00~}#008#002
+~07~~00~#002
+;00018817{~10~~00~}#008#002
+~10~~00~#002
+;00018819{~04~~00~}#008#002
+~04~~00~#002
+;0001881B{~14~Perhaps something onfour wheels is more your style. Try     training wheels!    ~00~}#088#082
+~14~
+Quizá algo a cuatro 
+ruedas es más de tu 
+estilo. Prueba con  
+ruedas de entrenar! ~00~#082
+;0001886D{~07~~00~}#008#002
+~07~~00~#002
+;0001886F{~10~~00~}#008#002
+~10~~00~#002
+;00018871{~03~~00~}#008#002
+~03~~00~#002
+;00018873{~14~Great, I thought I  left you behind withthe other lowlife.  ~00~}#068#062
+~14~
+Genial, pensaba que 
+te había dejado     
+atrás con el resto. ~00~#062
+;000188B1{~07~~00~}#008#002
+~07~~00~#002
+;000188B3{~10~~00~}#008#002
+~10~~00~#002
+;000188B5{~03~~00~}#008#002
+~03~~00~#002
+;000188B7{~16~vet thrashers run 15  mile races. Our race  is only about 5 miles.~00~}#074#068
+~16~
+Los veteranos hacen   
+carreras de 15 millas 
+estas es de unas 5.   ~00~#068
+;000188FB{~07~~00~}#008#002
+~07~~00~#002
+;000188FD{~10~~00~}#008#002
+~10~~00~#002
+;000188FF{~03~~00~}#008#002
+~03~~00~#002
+;00018901{~14~Cool place, huh. I'mlocal. look out for cars on blind turns.~00~}#068#062
+~14~
+Buen sitio, eh. Soy 
+local. Cuidado con  
+los coches cruzando.~00~#062
+;0001893F{~07~~00~}#008#002
+~07~~00~#002
+;00018941{~10~~00~}#008#002
+~10~~00~#002
+;00018943{~03~~00~}#008#002
+~03~~00~#002
+;00018945{~14~Do you believe that Biff dude? Man, whata mouth!            ~00~}#068#062
+~14~
+Te crees a ese tal  
+Biff? Tío, menuda   
+boca!               ~00~#062
+;00018983{~07~~00~}#008#002
+~07~~00~#002
+;00018985{~10~~00~}#008#002
+~10~~00~#002
+;00018987{~04~~00~}#008#002
+~04~~00~#002
+;00018989{~15~i was way loose that last race, man. i sawmy race flash before my eyes. whoa!       ~00~}#092#086
+~15~
+Estaba muy suelto en 
+esa carrera, tío. La 
+vi pasar destelleando
+ante mis ojos. Vaya! ~00~#086
+;000189DF{~07~~00~}#008#002
+~07~~00~#002
+;000189E1{~10~~00~}#008#002
+~10~~00~#002
+;000189E3{~03~~00~}#008#002
+~03~~00~#002
+;000189E5{~15~thrash and burn. if agomer takes me out,  they come with me.   ~00~}#071#065
+~15~
+Rompe y quema. Si un 
+gomas me derriba,    
+se vienen conmigo.   ~00~#065
+;00018A26{~00~}#004#001
+~00~#001
+;00018A27{~07~~00~}#008#002
+~07~~00~#002
+;00018A29{~10~~00~}#008#002
+~10~~00~#002
+;00018A2B{~04~~00~}#008#002
+~04~~00~#002
+;00018A2D{~14~i am tweekin'. if i see dread, i'm goingto take his club andliberate his head.  ~00~}#088#082
+~14~
+Soy Tweekin'. Si veo
+a Dread, voy a tomar
+su palo y a liberar 
+su cabeza.          ~00~#082
+;00018A7F{~07~~00~}#008#002
+~07~~00~#002
+;00018A81{~10~~00~}#008#002
+~10~~00~#002
+;00018A83{~03~~00~}#008#002
+~03~~00~#002
+;00018A85{~15~i am sooo fast. some-times it scares me,  so i close my eyes.  ~00~}#071#065
+~15~
+Soy taaan rápido.    
+A veces me asusto así
+que cierro los ojos. ~00~#065
+;00018AC6{~00~}#004#001
+~00~#001
+;00018AC7{~07~~00~}#008#002
+~07~~00~#002
+;00018AC9{~10~~00~}#008#002
+~10~~00~#002
+;00018ACB{~03~~00~}#008#002
+~03~~00~#002
+;00018ACD{~14~Don't slam everyone,amigo. No points forbailin'.            ~00~}#068#062
+~14~
+No pegues a todos,  
+amigo. No da puntos 
+hacerlo.            ~00~#062
+;00018B0B{~07~~00~}#008#002
+~07~~00~#002
+;00018B0D{~10~~00~}#008#002
+~10~~00~#002
+;00018B0F{~04~~00~}#008#002
+~04~~00~#002
+;00018B11{~14~serge is one strangedude! he's polishinghis bike and breath-ing heavy.          ~00~}#088#082
+~14~
+Serge es un tío     
+raro! Está puliendo 
+su moto y respirando
+fuerte.             ~00~#082
+|1038
+@00018B63-00018F80-00
+;00018B63{~07~~00~}#008#002
+~07~~00~#002
+;00018B65{~10~~00~}#008#002
+~10~~00~#002
+;00018B67{~04~~00~}#008#002
+~04~~00~#002
+;00018B69{~11~Chaos factor is  my mantra. never think or do the  same thing twice.~00~}#076#070
+~11~
+El factor caos es
+mi mantra. Nunca 
+pienses o hagas 2
+veces lo mismo.  ~00~#070
+;00018BAF{~07~~00~}#008#002
+~07~~00~#002
+;00018BB1{~10~~00~}#008#002
+~10~~00~#002
+;00018BB3{~02~~00~}#008#002
+~02~~00~#002
+;00018BB5{~13~witness me airborn.i'm slater, fly me.~00~}#046#040
+~13~
+Mira como vuelo.   
+Soy Slater,vuelame.~00~#040
+;00018BDD{~07~~00~}#008#002
+~07~~00~#002
+;00018BDF{~10~~00~}#008#002
+~10~~00~#002
+;00018BE1{~03~~00~}#008#002
+~03~~00~#002
+;00018BE3{~15~Heavy chew, speed    master! You grew somescabs on that one.   ~00~}#071#065
+~15~
+Masca duro, maestro  
+veloz! Te has hecho  
+unas costras en esa. ~00~#065
+;00018C24{~00~}#004#001
+~00~#001
+;00018C25{~07~~00~}#008#002
+~07~~00~#002
+;00018C27{~10~~00~}#008#002
+~10~~00~#002
+;00018C29{~03~~00~}#008#002
+~03~~00~#002
+;00018C2B{~13~Extreme air on thatlast bail, man.    truely legendary.  ~00~}#065#059
+~13~
+Aire extremo en esa
+última fianza, tío.
+Fue legendario.    ~00~#059
+;00018C66{~00~}#004#001
+~00~#001
+;00018C67{~07~~00~}#008#002
+~07~~00~#002
+;00018C69{~10~~00~}#008#002
+~10~~00~#002
+;00018C6B{~02~~00~}#008#002
+~02~~00~#002
+;00018C6D{~14~Truly lame shred,   gomer. What a squid!~00~}#048#042
+~14~
+Aburrido desgarre,  
+gomero. Qué inútil! ~00~#042
+;00018C97{~07~~00~}#008#002
+~07~~00~#002
+;00018C99{~10~~00~}#008#002
+~10~~00~#002
+;00018C9B{~03~~00~}#008#002
+~03~~00~#002
+;00018C9D{~15~hella' slide, squidlydidly. stay clear of me on your next bail.~00~}#071#065
+~15~
+Vaya desliz, inútil. 
+Aléjate de mi en tu  
+próxima fianza.      ~00~#065
+;00018CDE{~00~}#004#001
+~00~#001
+;00018CDF{~07~~00~}#008#002
+~07~~00~#002
+;00018CE1{~10~~00~}#008#002
+~10~~00~#002
+;00018CE3{~02~~00~}#008#002
+~02~~00~#002
+;00018CE5{~15~severe impact, graveltooth. highly flawed!~00~}#050#044
+~15~
+Impacto severo,diente
+de grava. Con fallos!~00~#044
+;00018D11{~07~~00~}#008#002
+~07~~00~#002
+;00018D13{~10~~00~}#008#002
+~10~~00~#002
+;00018D15{~03~~00~}#008#002
+~03~~00~#002
+;00018D17{~0F~your scooter isfully tweeked, gomer. tragic! ~00~}#053#047
+~0F~
+Tu scooter está
+muy retocada,  
+gomero.trágico!~00~#047
+;00018D46{~00~}#004#001
+~00~#001
+;00018D47{~07~~00~}#008#002
+~07~~00~#002
+;00018D49{~10~~00~}#008#002
+~10~~00~#002
+;00018D4B{~03~~00~}#008#002
+~03~~00~#002
+;00018D4D{~12~flame city, speed master, (not). yougagged and burned.~00~}#062#056
+~12~
+Ciudad llama,     
+maestro, (no).    
+Te has quemado.   ~00~#056
+;00018D85{~07~~00~}#008#002
+~07~~00~#002
+;00018D87{~10~~00~}#008#002
+~10~~00~#002
+;00018D89{~03~~00~}#008#002
+~03~~00~#002
+;00018D8B{~14~superior technique, speed miester. time to fry bigger trout.~00~}#068#062
+~14~
+Técnica superior,   
+maestro veloz. Hora 
+de freír algo mayor.~00~#062
+;00018DC9{~07~~00~}#008#002
+~07~~00~#002
+;00018DCB{~10~~00~}#008#002
+~10~~00~#002
+;00018DCD{~04~~00~}#008#002
+~04~~00~#002
+;00018DCF{~14~be fast. that is thebest way to win. letthe rest fight      amongst themselves. ~00~}#088#082
+~14~
+Se rápido. La mejor 
+forma de ganar.     
+Deja que el resto   
+luchen entre ellos. ~00~#082
+;00018E21{~07~~00~}#008#002
+~07~~00~#002
+;00018E23{~10~~00~}#008#002
+~10~~00~#002
+;00018E25{~03~~00~}#008#002
+~03~~00~#002
+;00018E27{~12~don't let her namefool ya. angel is no saint.         ~00~}#062#056
+~12~
+Que su nombre no  
+te engañe. Angel  
+no es una santa.  ~00~#056
+;00018E5F{~07~~00~}#008#002
+~07~~00~#002
+;00018E61{~10~~00~}#008#002
+~10~~00~#002
+;00018E63{~03~~00~}#008#002
+~03~~00~#002
+;00018E65{~13~i have heard that  viper is out to getyou. heads up.     ~00~}#065#059
+~13~
+He oído que Viper  
+va a ir a por ti.  
+Te lo aviso.       ~00~#059
+;00018EA0{~00~}#004#001
+~00~#001
+;00018EA1{~07~~00~}#008#002
+~07~~00~#002
+;00018EA3{~10~~00~}#008#002
+~10~~00~#002
+;00018EA5{~04~~00~}#008#002
+~04~~00~#002
+;00018EA7{~14~i prefer handling tohorsepower. power   can't save you      in a sharp turn.    ~00~}#088#082
+~14~
+Prefiero manejo a   
+caballos.La potencia
+no te puede salvar  
+de un giro brusco.  ~00~#082
+;00018EF9{~07~~00~}#008#002
+~07~~00~#002
+;00018EFB{~10~~00~}#008#002
+~10~~00~#002
+;00018EFD{~03~~00~}#008#002
+~03~~00~#002
+;00018EFF{~16~it is useless to fightthe police. it'll onlymake matters worse.   ~00~}#074#068
+~16~
+Es inútil pelear      
+contra la policía.    
+Solo empeora todo.    ~00~#068
+;00018F43{~07~~00~}#008#002
+~07~~00~#002
+;00018F45{~10~~00~}#008#002
+~10~~00~#002
+;00018F47{~03~~00~}#008#002
+~03~~00~#002
+;00018F49{~12~i believe the bestriders only fight when forced to.   ~00~}#062#056
+~12~
+Creo que los      
+mejores pelean al 
+estar obligados.  ~00~#056
+|1054
+@00018F81-000193B2-00
+;00018F81{~07~~00~}#008#002
+~07~~00~#002
+;00018F83{~10~~00~}#008#002
+~10~~00~#002
+;00018F85{~04~~00~}#008#002
+~04~~00~#002
+;00018F87{~14~sergio is a great   mechanic, but a bit strange. he calls   his bike "love muf".~00~}#088#082
+~14~
+Sergio es un gran   
+mecánico, pero es un
+poco raro. Llama a  
+su moto "amorcito". ~00~#082
+;00018FD9{~07~~00~}#008#002
+~07~~00~#002
+;00018FDB{~10~~00~}#008#002
+~10~~00~#002
+;00018FDD{~03~~00~}#008#002
+~03~~00~#002
+;00018FDF{~15~in such a condition, you have no chance toimpress anyone.      ~00~}#071#065
+~15~
+En tal condición,    
+no tienes posibilidad
+de impresionar.      ~00~#065
+;00019020{~00~}#004#001
+~00~#001
+;00019021{~07~~00~}#008#002
+~07~~00~#002
+;00019023{~10~~00~}#008#002
+~10~~00~#002
+;00019025{~03~~00~}#008#002
+~03~~00~#002
+;00019027{~14~it's hard to be coolwhen you're bleedinglike that.          ~00~}#068#062
+~14~
+Es duro mantener la 
+calma cuando sangras
+de esa forma.       ~00~#062
+;00019065{~07~~00~}#008#002
+~07~~00~#002
+;00019067{~10~~00~}#008#002
+~10~~00~#002
+;00019069{~02~~00~}#008#002
+~02~~00~#002
+;0001906B{~11~i sympathize withyour stupidity.  ~00~}#042#036
+~11~
+Simpatizo con tu 
+estupidez.       ~00~#036
+;0001908F{~07~~00~}#008#002
+~07~~00~#002
+;00019091{~10~~00~}#008#002
+~10~~00~#002
+;00019093{~03~~00~}#008#002
+~03~~00~#002
+;00019095{~12~in my opinion, youshould try not to fall so often.    ~00~}#062#056
+~12~
+En mi opinión,    
+deberías intentar 
+no caerte tanto.  ~00~#056
+;000190CD{~07~~00~}#008#002
+~07~~00~#002
+;000190CF{~10~~00~}#008#002
+~10~~00~#002
+;000190D1{~02~~00~}#008#002
+~02~~00~#002
+;000190D3{~16~one should quit beforethey run out of money.~00~}#052#046
+~16~
+Deberías dejarlo antes
+de gastar el dinero.  ~00~#046
+;00019101{~07~~00~}#008#002
+~07~~00~#002
+;00019103{~10~~00~}#008#002
+~10~~00~#002
+;00019105{~03~~00~}#008#002
+~03~~00~#002
+;00019107{~0F~i told you, youshouldn't fall so much.       ~00~}#053#047
+~0F~
+Te lo dije,    
+no deberías    
+caerte tanto.  ~00~#047
+;00019136{~00~}#004#001
+~00~#001
+;00019137{~07~~00~}#008#002
+~07~~00~#002
+;00019139{~10~~00~}#008#002
+~10~~00~#002
+;0001913B{~03~~00~}#008#002
+~03~~00~#002
+;0001913D{~13~great racing! thereis new competition waiting for us.    ~00~}#065#059
+~13~
+Buena carrera! Una 
+nueva competición  
+nos está esperando.~00~#059
+;00019178{~00~}#004#001
+~00~#001
+;00019179{~07~~00~}#008#002
+~07~~00~#002
+;0001917B{~10~~00~}#008#002
+~10~~00~#002
+;0001917D{~03~~00~}#008#002
+~03~~00~#002
+;0001917F{~15~listen to my cycle,  purring like a big   cat, ready to pounce.~00~}#071#065
+~15~
+Escucha a mi moto,   
+ronroneando cual gran
+gato, puede saltar.  ~00~#065
+;000191C0{~00~}#004#001
+~00~#001
+;000191C1{~07~~00~}#008#002
+~07~~00~#002
+;000191C3{~10~~00~}#008#002
+~10~~00~#002
+;000191C5{~03~~00~}#008#002
+~03~~00~#002
+;000191C7{~11~i wait for you atthe finish line, amico. yes, no?  ~00~}#059#053
+~11~
+Te espero en la  
+línea de meta,   
+amico. Sí, no?   ~00~#053
+;000191FC{~00~}#004#001
+~00~#001
+;000191FD{~07~~00~}#008#002
+~07~~00~#002
+;000191FF{~10~~00~}#008#002
+~10~~00~#002
+;00019201{~03~~00~}#008#002
+~03~~00~#002
+;00019203{~13~the handling of my machine excites me.do not ask to ride.~00~}#065#059
+~13~
+El manejo de mi    
+máquina me excita. 
+No me pidas montar.~00~#059
+;0001923E{~00~}#004#001
+~00~#001
+;0001923F{~07~~00~}#008#002
+~07~~00~#002
+;00019241{~10~~00~}#008#002
+~10~~00~#002
+;00019243{~03~~00~}#008#002
+~03~~00~#002
+;00019245{~12~hoghide is the sonof helldog. like  son, like father. ~00~}#062#056
+~12~
+Hoghide es el hijo
+de Helldog. De tal
+palo, tal astilla.~00~#056
+;0001927D{~07~~00~}#008#002
+~07~~00~#002
+;0001927F{~10~~00~}#008#002
+~10~~00~#002
+;00019281{~03~~00~}#008#002
+~03~~00~#002
+;00019283{~12~luna, she is loco.she swings her    club into my face.~00~}#062#056
+~12~
+Luna, está loca.  
+Oscila su palo a  
+mi cara.          ~00~#056
+;000192BB{~07~~00~}#008#002
+~07~~00~#002
+;000192BD{~10~~00~}#008#002
+~10~~00~#002
+;000192BF{~04~~00~}#008#002
+~04~~00~#002
+;000192C1{~13~your bike is dirty.a machine should berespected like a   beautiful woman.   ~00~}#084#078
+~13~
+Tu moto está sucia.
+Una máquina debería
+ser respetada como 
+una bella mujer.   ~00~#078
+;0001930F{~07~~00~}#008#002
+~07~~00~#002
+;00019311{~10~~00~}#008#002
+~10~~00~#002
+;00019313{~04~~00~}#008#002
+~04~~00~#002
+;00019315{~15~i do not need mirrorson my motorbike. Whatis behind me i do notcare about.          ~00~}#092#086
+~15~
+No necesito espejos  
+en mi motocicleta.   
+Lo que está detrás no
+me importa.          ~00~#086
+;0001936B{~07~~00~}#008#002
+~07~~00~#002
+;0001936D{~10~~00~}#008#002
+~10~~00~#002
+;0001936F{~04~~00~}#008#002
+~04~~00~#002
+;00019371{~10~look out for thepoliziotto. be  prepared for a  roadblock.      ~00~}#072#066
+~10~
+Cuidado con la  
+poliziotto.     
+Prepárate para  
+un bloqueo.     ~00~#066
+|1074
+@000193B3-000197B2-00
+;000193B3{~07~~00~}#008#002
+~07~~00~#002
+;000193B5{~10~~00~}#008#002
+~10~~00~#002
+;000193B7{~03~~00~}#008#002
+~03~~00~#002
+;000193B9{~15~if killjoy gets closeto me i will beat himwith his own club.   ~00~}#071#065
+~15~
+Si Killjoy se acerca 
+a mi le pegaré con su
+propio palo.         ~00~#065
+;000193FA{~00~}#004#001
+~00~#001
+;000193FB{~07~~00~}#008#002
+~07~~00~#002
+;000193FD{~10~~00~}#008#002
+~10~~00~#002
+;000193FF{~04~~00~}#008#002
+~04~~00~#002
+;00019401{~14~helldog, he must be knocked out. like-  wise, he will not   quit until you fall.~00~}#088#082
+~14~
+Helldog, debe ser   
+abatido. Igualmente,
+no lo dejará hasta  
+que tu caigas.      ~00~#082
+;00019453{~07~~00~}#008#002
+~07~~00~#002
+;00019455{~10~~00~}#008#002
+~10~~00~#002
+;00019457{~03~~00~}#008#002
+~03~~00~#002
+;00019459{~14~it's finito amico. ipray for you, but i pity your camshaft. ~00~}#068#062
+~14~
+Es finito amico.    
+Rezo por ti, pero el
+árbol de levas...   ~00~#062
+;00019497{~07~~00~}#008#002
+~07~~00~#002
+;00019499{~10~~00~}#008#002
+~10~~00~#002
+;0001949B{~04~~00~}#008#002
+~04~~00~#002
+;0001949D{~15~listen to sergio whenhe says, "perhaps    dual carburetors are too much for you."   ~00~}#092#086
+~15~
+Escucha a Sergio     
+cuando diga, "Quizás 
+carburadores duales  
+son mucho para ti."  ~00~#086
+;000194F3{~07~~00~}#008#002
+~07~~00~#002
+;000194F5{~10~~00~}#008#002
+~10~~00~#002
+;000194F7{~03~~00~}#008#002
+~03~~00~#002
+;000194F9{~15~the poliziotto shouldarrest you for being a road hazard.       ~00~}#071#065
+~15~
+La poliziotto debería
+arrestarte por ser un
+peligro en la calle. ~00~#065
+;0001953A{~00~}#004#001
+~00~#001
+;0001953B{~07~~00~}#008#002
+~07~~00~#002
+;0001953D{~10~~00~}#008#002
+~10~~00~#002
+;0001953F{~03~~00~}#008#002
+~03~~00~#002
+;00019541{~14~dio mio, bambino. i suggest lessons. youdo not fall well.   ~00~}#068#062
+~14~
+Dio mio, bambino.   
+Te sugiero clases.  
+No caes bien.       ~00~#062
+;0001957F{~07~~00~}#008#002
+~07~~00~#002
+;00019581{~10~~00~}#008#002
+~10~~00~#002
+;00019583{~03~~00~}#008#002
+~03~~00~#002
+;00019585{~13~i weep for the bikeyou treat without  respect.           ~00~}#065#059
+~13~
+Lloro por la moto a
+la que tratas sin  
+respeto.           ~00~#059
+;000195C0{~00~}#004#001
+~00~#001
+;000195C1{~07~~00~}#008#002
+~07~~00~#002
+;000195C3{~10~~00~}#008#002
+~10~~00~#002
+;000195C5{~03~~00~}#008#002
+~03~~00~#002
+;000195C7{~16~Disgraziato! your bikeis a garbage truck.   start over, i beg you.~00~}#074#068
+~16~
+Disgraziato!tu moto es
+un camión de basura.  
+Reempieza,te lo ruego.~00~#068
+;0001960B{~07~~00~}#008#002
+~07~~00~#002
+;0001960D{~10~~00~}#008#002
+~10~~00~#002
+;0001960F{~03~~00~}#008#002
+~03~~00~#002
+;00019611{~13~porco miseria,     paisan! your crank-case is in ruins!  ~00~}#065#059
+~13~
+Porca miseria,     
+paisan! Tu caja del
+cigueñal se rompió!~00~#059
+;0001964C{~00~}#004#001
+~00~#001
+;0001964D{~07~~00~}#008#002
+~07~~00~#002
+;0001964F{~10~~00~}#008#002
+~10~~00~#002
+;00019651{~03~~00~}#008#002
+~03~~00~#002
+;00019653{~12~fantastico, amico.we go on to ride  with the best.    ~00~}#062#056
+~12~
+Fantástico, amico.
+Vamos a montar con
+los mejores.      ~00~#056
+;0001968B{~07~~00~}#008#002
+~07~~00~#002
+;0001968D{~10~~00~}#008#002
+~10~~00~#002
+;0001968F{~04~~00~}#008#002
+~04~~00~#002
+;00019691{~13~i get pleasure fromdragging newcomers down the road by   their ankles.      ~00~}#084#078
+~13~
+Recibo placer de   
+arrastrar a los    
+nuevos por los     
+tobillos.          ~00~#078
+;000196DF{~07~~00~}#008#002
+~07~~00~#002
+;000196E1{~10~~00~}#008#002
+~10~~00~#002
+;000196E3{~03~~00~}#008#002
+~03~~00~#002
+;000196E5{~13~do yourself a favorand keep your dis- tance from me.     ~00~}#065#059
+~13~
+Hazte un favor y   
+mantente a         
+distancia de mi.   ~00~#059
+;00019720{~00~}#004#001
+~00~#001
+;00019721{~07~~00~}#008#002
+~07~~00~#002
+;00019723{~10~~00~}#008#002
+~10~~00~#002
+;00019725{~03~~00~}#008#002
+~03~~00~#002
+;00019727{~15~sometimes i pull overand scalp my victims after they fall.     ~00~}#071#065
+~15~
+A veces me detengo y 
+pego a mis víctimas  
+tras caerse.         ~00~#065
+;00019768{~00~}#004#001
+~00~#001
+;00019769{~07~~00~}#008#002
+~07~~00~#002
+;0001976B{~10~~00~}#008#002
+~10~~00~#002
+;0001976D{~03~~00~}#008#002
+~03~~00~#002
+;0001976F{~14~the skulls on my gastank? they're like  notches on a gun.   ~00~}#068#062
+~14~
+Los cráneos de mi   
+depósito? Son como  
+muescas en un arma. ~00~#062
+;000197AD{~07~~00~}#008#002
+~07~~00~#002
+;000197AF{~10~~00~}#008#002
+~10~~00~#002
+;000197B1{~04~~00~}#008#002
+~04~~00~#002
+|1024
+@000197B3-00019A12-00
+;000197B3{~14~if i miss the chanceto knock you down onthe road, i'll do   it after the race.  ~00~}#088#082
+~14~
+Si pierdo la ocasión
+de tirarte en la    
+carretera, lo haré  
+tras la carrera.    ~00~#082
+;00019805{~07~~00~}#008#002
+~07~~00~#002
+;00019807{~10~~00~}#008#002
+~10~~00~#002
+;00019809{~04~~00~}#008#002
+~04~~00~#002
+;0001980B{~16~i think it's importantto enjoy what you do. i enjoy causing pain  and i do it well.     ~00~}#096#090
+~16~
+Creo que es importante
+disfrutar de lo que   
+hago. Gozo causando   
+dolor y lo hago bien. ~00~#090
+;00019865{~07~~00~}#008#002
+~07~~00~#002
+;00019867{~10~~00~}#008#002
+~10~~00~#002
+;00019869{~04~~00~}#008#002
+~04~~00~#002
+;0001986B{~13~tell me, does it   hurt? you look likeyou're in pain but i want to be sure. ~00~}#084#078
+~13~
+Dime, duele?       
+Parece que te duele
+pero quiero estar  
+seguro.            ~00~#078
+;000198B9{~07~~00~}#008#002
+~07~~00~#002
+;000198BB{~10~~00~}#008#002
+~10~~00~#002
+;000198BD{~03~~00~}#008#002
+~03~~00~#002
+;000198BF{~16~don't worry, the birdswill pick up what you have left behind.     ~00~}#074#068
+~16~
+Tranquilo, los pájaros
+recogerán lo que has  
+dejado atrás.         ~00~#068
+;00019903{~07~~00~}#008#002
+~07~~00~#002
+;00019905{~10~~00~}#008#002
+~10~~00~#002
+;00019907{~03~~00~}#008#002
+~03~~00~#002
+;00019909{~11~go home and enjoyyour suffering. iknow i will.     ~00~}#059#053
+~11~
+Vete a casa a    
+disfrutar tu     
+sufrimiento.     ~00~#053
+;0001993E{~00~}#004#001
+~00~#001
+;0001993F{~07~~00~}#008#002
+~07~~00~#002
+;00019941{~10~~00~}#008#002
+~10~~00~#002
+;00019943{~03~~00~}#008#002
+~03~~00~#002
+;00019945{~13~i'm the king of theroad and you're    the king of pain.  ~00~}#065#059
+~13~
+Soy el rey de la   
+carretera y tu el  
+rey del dolor.     ~00~#059
+;00019980{~00~}#004#001
+~00~#001
+;00019981{~07~~00~}#008#002
+~07~~00~#002
+;00019983{~10~~00~}#008#002
+~10~~00~#002
+;00019985{~03~~00~}#008#002
+~03~~00~#002
+;00019987{~15~no one beats me. theygo home in pain or   they don't go home.  ~00~}#071#065
+~15~
+Nadie me vence.      
+O vuelven a casa con 
+dolor o no vuelven.  ~00~#065
+;000199C8{~00~}#004#001
+~00~#001
+;000199C9{~07~~00~}#008#002
+~07~~00~#002
+;000199CB{~10~~00~}#008#002
+~10~~00~#002
+;000199CD{~03~~00~}#008#002
+~03~~00~#002
+;000199CF{~16~you've won this battlebut my war isn't over.you'll see me again.  ~00~}#074#068
+~16~
+Ganaste esta batalla  
+pero no mi guerra.    
+Me verás de nuevo.    ~00~#068
+|608

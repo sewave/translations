@@ -1,0 +1,96 @@
+@00000010-00000024-FF
+;00000010{BANK0           ~02~~00~~00~~00~~00~}#036#021
+BANK0           ~02~~00~~00~~00~~00~#021
+|21
+@00007D03-00007EE8-FF
+;00007D03{`                                 Mr.Smith destroyed the under-   ground drug routes where com-   mander Jones was involved.      However, this does not mean he   destroyed the huge syndicate   that intended on conquering the  world through dealing drugs.   He decided to fight alone       against the huge cartel when he learned that even his Special   Mission was infiltrated by      drugs.                          The day will come when Mr.Smith  destroys the drug syndicate.  ~0F~~10~~10~~00~~0F~}#501#486
+`                                 Mr.Smith destroyed the under-   ground drug routes where com-   mander Jones was involved.      However, this does not mean he   destroyed the huge syndicate   that intended on conquering the  world through dealing drugs.   He decided to fight alone       against the huge cartel when he learned that even his Special   Mission was infiltrated by      drugs.                          The day will come when Mr.Smith  destroys the drug syndicate.  ~0F~~10~~10~~00~~0F~#486
+|486
+@00009DB2-00009DBF-FF
+;00009DB2{HIll~7C~~7C~~05~''~14~~80~~81~~90~~91~}#038#014
+HIll~7C~~7C~~05~''~14~~80~~81~~90~~91~#014
+|14
+@0000BC70-0000BC8D-FF
+;0000BC70{Our~00~purpose~00~is~00~to~00~control~00~~00~~7B~~7B~~7B~}#057#030
+Our~00~purpose~00~is~00~to~00~control~00~~00~~7B~~7B~~7B~#030
+|30
+@0000BCB0-0000BCCD-FF
+;0000BCB0{the~00~whole~00~world~00~by~00~drugs.~00~~0C~~7B~~7B~~7B~}#057#030
+the~00~whole~00~world~00~by~00~drugs.~00~~0C~~7B~~7B~~7B~#030
+|30
+@0000BCF0-0000BD0B-FF
+;0000BCF0{Supply~00~as~00~much~00~drugs~00~to~00~~00~~00~~0C~~7B~}#055#028
+Supply~00~as~00~much~00~drugs~00~to~00~~00~~00~~0C~~7B~#028
+|28
+@0000BD30-0000BD4E-FF
+;0000BD30{Commander~00~Jones~00~of~00~Special~00~~7B~~7B~~7B~~7B~}#055#031
+Commander~00~Jones~00~of~00~Special~00~~7B~~7B~~7B~~7B~#031
+|31
+@0000BD70-0000BD8C-FF
+;0000BD70{Missions~00~as~00~possible~00~and~00~~00~~0C~~7B~~7B~}#053#029
+Missions~00~as~00~possible~00~and~00~~00~~0C~~7B~~7B~#029
+|29
+@0000BDB0-0000BDC6-FF
+;0000BDB0{he~00~will~00~handle~00~it.~00~~00~~00~~00~~00~}#047#023
+he~00~will~00~handle~00~it.~00~~00~~00~~00~~00~#023
+|23
+@0000BDF0-0000BE0A-FF
+;0000BDF0{Never~00~contact~00~him~00~even~00~~00~~00~~00~~0A~}#051#027
+Never~00~contact~00~him~00~even~00~~00~~00~~00~~0A~#027
+|27
+@0000BE30-0000BE4D-FF
+;0000BE30{though~00~he~00~can~00~be~00~found~00~at~00~~00~~7B~~7B~~7B~}#060#030
+though~00~he~00~can~00~be~00~found~00~at~00~~00~~7B~~7B~~7B~#030
+|30
+@0000BE70-0000BE8E-FF
+;0000BE70{his~00~home~00~in~00~Beverly~00~Hills.~0A~~7B~~7B~~7B~~7B~}#058#031
+his~00~home~00~in~00~Beverly~00~Hills.~0A~~7B~~7B~~7B~~7B~#031
+|31
+@0000BEB0-0000BECB-FF
+;0000BEB0{We~00~must~00~execute~00~our~00~top~00~~00~~00~~00~~7B~}#055#028
+We~00~must~00~execute~00~our~00~top~00~~00~~00~~00~~7B~#028
+|28
+@0000BEF0-0000BF05-FF
+;0000BEF0{secret~00~plans~00~now!~00~~00~~00~~01~~02~}#043#022
+secret~00~plans~00~now!~00~~00~~00~~01~~02~#022
+|22
+@0000BF30-0000BF44-FF
+;0000BF30{Pay~00~attention~00~to~00~~00~~00~~00~~05~}#042#021
+Pay~00~attention~00~to~00~~00~~00~~00~~05~#021
+|21
+@0000BF70-0000BF80-FF
+;0000BF70{this~00~matter.~00~~00~~00~~00~~00~}#035#017
+this~00~matter.~00~~00~~00~~00~~00~#017
+|17
+@0001413C-00014144-FF
+;0001413C{tutu~80~~81~~90~~91~~81~}#024#009
+tutu~80~~81~~90~~91~~81~#009
+|9
+@0001BDBA-0001BFB8-FF
+;0001BDBA{WE HAVE LOCATED= 7 HIDEOUTS OF=THE HUGE DRUG~FD~~FC~SYNDICATE IN=SOUTH AMERICA.~FD~~FC~YOUR MISSION IS=TO DESTROY THEM.~FD~~FC~YOU MUST FIND=ONE OF OUR COM-=MANDOS WHO WAS~FD~~FC~HURT AND CAP-=TURED IN ONE OF=THE 7 HIDEOUTS.~FD~~FC~GET THE GRENADESFROM HIM.~FD~~FF~}#265#229
+WE HAVE LOCATED= 7 HIDEOUTS OF=THE HUGE DRUG~FD~~FC~SYNDICATE IN=SOUTH AMERICA.~FD~~FC~YOUR MISSION IS=TO DESTROY THEM.~FD~~FC~YOU MUST FIND=ONE OF OUR COM-=MANDOS WHO WAS~FD~~FC~HURT AND CAP-=TURED IN ONE OF=THE 7 HIDEOUTS.~FD~~FC~GET THE GRENADESFROM HIM.~FD~~FF~#229
+;0001BE9F{YES, COMMANDER=JONES.~FD~~FF~}#029#023
+YES, COMMANDER=JONES.~FD~~FF~#023
+;0001BEB6{GOOD BYE,=MR. SMITH.~FD~~FF~}#028#022
+GOOD BYE,=MR. SMITH.~FD~~FF~#022
+;0001BECC{THIS IS WHAT=I'VE OBTAINED.~FD~~FF~}#035#029
+THIS IS WHAT=I'VE OBTAINED.~FD~~FF~#029
+;0001BEE9{BE CAREFUL.~FD~~FF~}#019#013
+BE CAREFUL.~FD~~FF~#013
+;0001BEF6{OKAY.~FD~~FF~}#013#007
+OKAY.~FD~~FF~#007
+;0001BEFD{COMMANDER JONES=IS REALLY DEAL-=ING IN DRUGS!~FD~~FC~I'LL NEVER=ALLOW JONES=TO DO SUCH~FD~~FC~A HATEFUL THING.~FD~~FF~}#118#100
+COMMANDER JONES=IS REALLY DEAL-=ING IN DRUGS!~FD~~FC~I'LL NEVER=ALLOW JONES=TO DO SUCH~FD~~FC~A HATEFUL THING.~FD~~FF~#100
+;0001BF61{NOW THAT YOU=KNOW MY SECRET=YOU MUST DIE.~FD~~FF~}#049#043
+NOW THAT YOU=KNOW MY SECRET=YOU MUST DIE.~FD~~FF~#043
+;0001BF8C{IT'S ALL OVER=FOR YOU.~FD~~FC~COMMANDER JONES.~FD~~FF~}#054#042
+IT'S ALL OVER=FOR YOU.~FD~~FC~COMMANDER JONES.~FD~~FF~#042
+;0001BFB6{~00~~00~~00~}#012#003
+~00~~00~~00~#003
+|511
+@0002DC9C-0002DCA4-FF
+;0002DC9C{MMMM~FB~~FB~~FF~}#016#007
+MMMM~FB~~FB~~FF~#007
+;0002DCA3{~FB~~FF~}#008#002
+~FB~~FF~#002
+|9

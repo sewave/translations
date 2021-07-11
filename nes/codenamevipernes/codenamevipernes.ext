@@ -1,0 +1,36 @@
+@00003C94-00003CB1-FF
+;00003C94{CONTINUE          END   CREDIT}#030#030
+CONTINUE          END   CREDIT#030
+|30
+@000064BD-000064CD-FF
+;000064BD{PASSWORD==   IS=~FF~}#020#017
+PASSWORD==   IS=~FF~#017
+|17
+@00006C89-00006D78-FF
+;00006C89{  MISSION                ALL CLEAR                          AREA 1 CLEAR               GO TO                 NEXT AREA                                      TIME                    PTS.                    RESCUE                  TOTAL       }#240#240
+  MISSION                ALL CLEAR                          AREA 1 CLEAR               GO TO                 NEXT AREA                                      TIME                    PTS.                    RESCUE                  TOTAL       #240
+|240
+@000074A8-000075C5-FF
+;000074A8{HERE, TAKE THIS MAP.                                YOUR MISSION IS TO DESTROY                          7 KEY LOCATIONS WHICH ARE                           LOCATED ON THE MAP AND                              ERADICATE THE DRUG ROUTE                            INTO OUR COUNTRY.         }#286#286
+HERE, TAKE THIS MAP.                                YOUR MISSION IS TO DESTROY                          7 KEY LOCATIONS WHICH ARE                           LOCATED ON THE MAP AND                              ERADICATE THE DRUG ROUTE                            INTO OUR COUNTRY.         #286
+|286
+@0001B264-0001B27E-FF
+;0001B264{EASY     NORMAL   DIFFICULT}#027#027
+EASY     NORMAL   DIFFICULT#027
+|27
+@0001B285-0001B29C-FF
+;0001B285{ ENTER          PASSWORD}#024#024
+ ENTER          PASSWORD#024
+|24
+@0001B463-0001B5E2-FF
+;0001B463{                                            START                                                           PASSWORD                                                                                                               1989  c CAPCOM U.S.A.,INC.                                              LICENSED BY                                              NINTENDO OF AMERICA,INC.    }#384#384
+                                            START                                                           PASSWORD                                                                                                               1989  c CAPCOM U.S.A.,INC.                                              LICENSED BY                                              NINTENDO OF AMERICA,INC.    #384
+|384
+@0001E5BA-0001E5C1-FF
+;0001E5BA{TIME    }#008#008
+TIME    #008
+|8
+@0001E5DA-0001E5E1-FF
+;0001E5DA{PTS.    }#008#008
+PTS.    #008
+|8

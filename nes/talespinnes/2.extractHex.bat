@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_TaleSpin (USA).nes"
+set SCRIPTNAME="talespinnes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 39880:20,3C810:10,3C7D0:50,3CBA0:10,3DBA0:10,3EBA0:10,3D7D0:50,3E7D0:40,3CBF0:20,3DBF0:20,3EBF0:20,3E870:20,27EC0:80
+pause

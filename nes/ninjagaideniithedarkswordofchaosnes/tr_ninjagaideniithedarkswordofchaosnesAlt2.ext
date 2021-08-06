@@ -1,0 +1,615 @@
+@00012010-00012410-A6
+;00012010{"Jaquio has been defeated."~86~="Just as I thought.~84~= What about the Ninja?"~84~="He knows nothing yet."~86~^~A6~}#116#101
+"Jaquio ha sido vencido."~86~=
+"Como pensaba.~84~=
+ ¿Qué hay del Ninja?"~84~=
+"Aún no sabe nada."~86~^             ~A6~#101
+;00012075{"Good.~83~Continue the plan."~89~^~A6~}#038#029
+"Bien.~83~Continúa el plan." ~89~^~A6~#029
+;00012092{"What shall we do about= the Ninja Dragon,sire?"~84~="Nothing."~83~^"No further need for him.~84~= At least,not for now.~84~= Follow the plan exactly.~83~= Now,go."^"Yes,sire."~A6~}#180#162
+"¿Qué debemos hacer con el= 
+ Dragón Ninja, Sr.?"~84~=
+"Nada." ~83~^
+"Ya no le necesitamos. ~84~=
+ Al menos, no por ahora.~84~=
+ Sigue el plan exactamente.~83~=
+ Ahora ve."^
+"Sí, Sr."~A6~#162
+;00012134{"¨¨¨= The time shall come¨¨¨"~A6~}#033#030
+"¨¨¨= Llegará la hora¨¨¨"    ~A6~#030
+;00012152{"When the Gate of Darkness= is cast open¨¨¨"~A6~}#048#045
+"Y la Puerta de la =
+ Oscuridad se abrirá¨¨¨"~A6~#045
+;0001217F{"All men shall kneel= before me¨¨¨"~A6~}#039#036
+"La humanidad se=
+ arrodillará¨¨¨"  ~A6~#036
+;000121A3{"All shall hail me,Ashtar,= as their new master!~84~= HA,HA,HA,HA¨¨¨¨"~A6~}#074#068
+"Todos me aclamarán, a=
+ Ashtar,¡como su maestro!~84~=
+ JA,JA,JA,JA¨¨¨¨"~A6~#068
+;000121E7{~A3~Na)One year after~A3~Ra~87~the fateful battle~A3~Na~CB~with JAQUIO¨¨¨~A6~}#077#059
+~A3~Na)
+Un año tras la~A3~Ra~87~
+ fatídica batalla ~A3~Na~C9~
+con JAQUIO¨¨¨ ~A6~#059
+;00012222{~A3~Va'A new adventure begins~A3~Qa~88~for RYU HAYABUSA,~A3~La~CA~the Ninja of~A3~QbHthe Dragon Sword.~A6~}#106#085
+~A3~Va'
+ Una nueva aventura de~A3~Qa~88~
+  RYU HAYABUSA,  ~A3~La~CA~
+ el Ninja de~A3~QbH
+la Espada Dragón.~A6~#085
+;00012277{"Who ARE these thugs?"~82~="They told me you were= good."~87~~A3~NcC"Who's there?"~A6~}#086#074
+"¿Quiénes SON estos?"  ~82~=
+"Me dijeron que eras=
+ bueno."~87~~A3~NcC
+"¿Quién es?"  ~A6~#074
+;000122C1{"Go to the Tower of Lahja,= if you want to save= the girl."~A6~}#063#060
+"Ve a la Torre de Lahja,=
+ si quieres salvar a la=
+ chica."  ~A6~#060
+;000122FD{"You mean¨¨¨?"~A6~}#018#015
+"¿Dices¨¨¨?"  ~A6~#015
+;0001230C{"Yes¨¨¨ Irene.~82~= No time to lose,Hayabusa= ¨¨¨¨ Move it out."~A6~}#068#062
+"Sí¨¨¨ Irene.~82~=
+ No te sobra tiempo=
+ Hayabusa,=
+ ¨¨¨¨ Muévete."~A6~#062
+;0001234A{"But who are you?~A6~}#021#018
+"¿Quién eres tú? ~A6~#018
+;0001235C{~A3~Mb~84~What the¨¨¨?"~A6~}#027#018
+~A3~Mb~84~
+¿Pero qué?"  ~A6~#018
+;0001236E{~84~"Aaargh¨¨¨¨"~A6~}#020#014
+~84~"Aaargh¨¨¨¨"~A6~#014
+;0001237C{"Who are you?~83~= What the¨¨¨~87~= Where'd he go?"~A6~}#055#046
+"¿Quién eres?~83~= Pero qué¨¨¨~87~= ¿A dónde fue?" ~A6~#046
+;000123AA{"C'mon,Hayabusa.You may= be the only one who can= beat them.~82~But there's no= chance unless you hurry."~A6~}#109#103
+"Vamos, Hayabusa. Quizá=
+ seas el único que puede  =
+ vencerlos.~82~ Pero no    =
+ podrás si no corres."    ~A6~#103
+|1025
+@00012411-0001284A-A6
+;00012411{"¨¨¨¨= The Tower of Lahja¨¨¨¨"~A6~}#034#031
+"¨¨¨¨= La Torre de Lahja¨¨¨¨" ~A6~#031
+;00012430{"You tried to ambush me.= Who are you?"~A6~}#043#040
+"Intentaste emboscarme. =
+ ¿Quién eres?"~A6~#040
+;00012458{"We are tribesmen from= the world of Chaos,lead= by the Emperor of= Darkness,Ashtar¨¨¨¨"~87~^"Ashtar."~82~="The end of your life= draws near,= Ninja Dragon."~A6~}#161#152
+"Somos de la tribu del =
+ mundo del Caos, guiados=
+ por el Emperador Oscuro,  =
+ Ashtar¨¨¨¨"~87~^
+"Ashtar."~82~=
+"Tu vida se acerca a su=
+ fin, Dragón Ninja."     ~A6~#152
+;000124F0{"¨¨¨¨= Ashtar¨¨¨ The Emperor of= Darkness."~A6~}#047#044
+"¨¨¨¨= Ashtar¨¨¨ Emperador     = Oscuro."  ~A6~#044
+;0001251C{"I must find Irene before= it's too late."~A6~}#046#043
+"Debo hallar a Irene=
+ cuanto antes."      ~A6~#043
+;00012547{~A4~"Ryu¨¨¨¨"~A5~~A6~}#021#012
+~A4~"Ryu¨¨¨¨"~A5~~A6~#012
+;00012553{"Irene,are you all right?"~A6~}#030#027
+"Irene, ¿estás bien?"     ~A6~#027
+;0001256E{"I see you are still= alive,Ninja."~82~~A4~="What the¨¨¨?!"~A5~~A6~}#067#055
+"Veo que aún estás vivo,=
+ Ninja."~82~~A4~=
+"¡¿Pero qué¨¨¨?!"~A5~~A6~#055
+;000125A5{"¨¨¨¨!?"~A6~}#012#009
+"¿¡¨¨!?"~A6~#009
+;000125AE{~91~"Take that!"~A6~}#020#014
+~91~"¡Toma eso!"~A6~#014
+;000125BC{"Aaargh!"~A6~}#013#010
+"¡Aargh!"~A6~#010
+;000125C6{"Ha,ha,I find it hard to= believe¨¨¨ that= a weakling like you was= able to defeat Jaquio."~A6~}#095#092
+"Ja, ja, lo encuentro  =
+ difícil de creer¨¨¨=
+ que un débil como tu=
+ venciera a Jaquio."    ~A6~#092
+;00012622{"You¨¨¨ Ashtar!~83~= That sword¨¨¨¨"~A6~}#040#034
+"Tú¨¨¨ ¡Ashtar!~83~= Esa espada¨¨¨¨"~A6~#034
+;00012644{"Some warrior you turned= out to be."^~A6~}#042#039
+"Te has convertido en un= guerrero." ^~A6~#039
+;0001266B{"Die,little Ninja."~A6~}#023#020
+"Muere Mini Ninja."~A6~#020
+;0001267F{"Noooooooo¨¨¨!"~A6~}#019#016
+"¡Nooooooo¨¨¨!"~A6~#016
+;0001268F{"What the¨¨¨?~82~= Who are you?"~82~^"How did you get in here,= you sewer rat?"~A6~}#083#074
+"¿Pero qué¨¨¨?~82~=
+ ¿Quién eres?"~82~^
+"¿Cómo llegaste aquí,  =
+ rata de cloaca?"~A6~#074
+;000126D9{~A4~"Hand over the Sword and= surrender.This tower is= completely surrounded."~A5~~A6~}#086#077
+~A4~
+"Entrega la Espada y   =
+ ríndete. Esta torre está=
+ completamente rodeada."~A5~~A6~#077
+;00012726{"Ha,ha,ha.If you want the= Sword,you'll have to= follow me¨¨¨ into the= Maze of Darkness."~87~^"RYU¨¨¨!"~A6~}#108#102
+"Ja ja ja. Si quieres la=
+ Espada, tendrás que=
+ seguirme¨¨¨ al Laberinto=
+ de la Oscuridad."~87~^
+"¡¡RYU!!"~A6~#102
+;0001278C{"Irene!"~A6~}#012#009
+"Irene¨"~A6~#009
+;00012795{"The sword¨¨¨¨= What is it?"~A6~}#032#029
+"La espada¨¨¨¨= ¿Qué es?"   ~A6~#029
+;000127B2{"It's called the Sword of= Chaos,grown out of the= bone of the Demon."~87~^"The same way as your= sword is supposed to= come from the fang of= the Dragon."~A6~}#159#153
+"Es llamada la Espada del=
+ Caos, creada del hueso=
+ del Demonio."      ~87~^
+"De la misma forma que se=
+ supone que tu espada=
+ viene de la garra del=
+ Dragón."~A6~#153
+|1082
+@0001284B-00012C6C-A6
+;0001284B{"How can that be?= How do you know¨¨¨?"~A6~}#043#040
+"¿Cómo puede ser?= ¿Cómo lo sabes¨¨¨?" ~A6~#040
+;00012873{"The name's Robert.= I'm with Special= Intelligence,U,S,Army."~87~^"We have to stop Ashtar= before his sword reaches= full strength¨¨¨ at any= cost."~A6~}#153#147
+"Me llamo Robert.=
+ Inteligencia Especial=
+ del Ejército, EEUU."~87~^
+"Debemos parar a Ashtar=
+ antes de que su espada=
+ alcance la madurez¨¨¨=
+ como sea."~A6~#147
+;00012906{~A4~"Hurry,Ryu.= Hit Ashtar in= the underground maze."~A5~~A6~}#062#053
+~A4~
+"Rápido, Ryu.=
+ Golpea a Ashtar en el=
+ laberinto." ~A5~~A6~#053
+;0001293B{"What is he after?~87~= What does he want from= me?"~A6~}#056#050
+"¿Qué está buscando?~87~=
+ ¿Qué quiere de mi?"       ~A6~#050
+;0001296D{"Hear me,Ninja."="¨¨¨ Ashtar!"~88~^~A6~}#039#033
+"Escucha,Ninja."="¨¨¨¡Ashtar!"~88~^~A6~#033
+;0001298E{"Come out and fight.~83~= Or the girl gets it."~A6~}#051#045
+"Sal y pelea.       ~83~=
+ O la chica sufrirá." ~A6~#045
+;000129BB{~A4~"Don't do it,Ryu.= They'll kill you!"~A5~~A6~}#049#040
+~A4~"No lo hagas, Ryu.= ¡Te matarán!"    ~A5~~A6~#040
+;000129E3{"Show yourself.Or are you= too much of a coward!~83~= Ha,ha,ha,ha¨¨¨¨"~A6~}#074#068
+"Muéstrate. ¿¡O eres=
+ demasiado cobarde!?    ~83~=
+ Ja, ja, ja, ja¨¨¨¨"~A6~#068
+;00012A27{"You fiend.~82~= Irene,I'll save you."~A6~}#042#036
+"Demonio.    ~82~=
+ Irene, te salvaré."~A6~#036
+;00012A4B{"To the one who releases= Darkness with= the immortal blood,~83~^"he shall receive= the Power of= the Almighty Evil."~83~^"The legend shall= come true."~A6~}#156#147
+"Quien libere la=
+ Oscuridad con la sangre=
+ inmortal,        ~83~^
+ recibirá el Poder del=
+ Mal Todopoderoso."      ~83~^
+"La leyenda se volverá=
+ realidad."~A6~#147
+;00012ADE{"This earth shall fall= into shadow and= the demons of evil shall= rule forever."~83~^"Hm,hm,hm,hm¨¨¨~83~= Ha,ha,ha,ha!"~A6~}#124#115
+"Esta tierra caerá a las=
+ sombras y los demonios=
+ del mal reinarán=
+ eternamente."~83~^
+"Hm,hm,hm,hm¨¨¨~83~= ¡Ja, ja, ja!"~A6~#115
+;00012B51{"I'll get you,Ashtar!"~A6~}#026#023
+"¡Te atraparé,Ashtar!"~A6~#023
+;00012B68{"Show yourself,Ashtar!"~A6~}#027#024
+"¡Muéstrate, Ashtar!"  ~A6~#024
+;00012B80{"At last,the foolish= little Ninja is ready to= fight."~A6~}#059#056
+"Al fin, el tonto pequeño  =
+ Ninja listo para pelear." ~A6~#056
+;00012BB8{"Take the girl."~A6~}#020#017
+"Toma la chica."~A6~#017
+;00012BC9{~A4~"Ryu!"~A5~~A6~}#018#009
+~A4~"Ryu¨"~A5~~A6~#009
+;00012BD2{"Irene!"~A6~}#012#009
+"Irene¨"~A6~#009
+;00012BDB{"And take that!"~A6~}#020#017
+"¡Y toma eso!"  ~A6~#017
+;00012BEC{"Ah¨¨¨ Ryu¨¨¨¨"~A6~}#019#016
+"Ah¨¨¨ Ryu¨¨¨¨"~A6~#016
+;00012BFC{"Irene¨¨¨!!"~A6~}#016#013
+"¡Irene¨¨¨!"~A6~#013
+;00012C09{"Ryu¨¨¨"~A6~}#012#009
+"Ryu¨¨¨"~A6~#009
+;00012C12{"Irene¨¨¨ Don't die."~A6~}#025#022
+"Irene¨¨¨ No mueras."~A6~#022
+;00012C28{"Ha,ha,ha,ha.~81~= See how the Sword of= Chaos trembles with= delight!"~A6~}#075#069
+"Ja, ja, ja.~81~=
+ ¡Mira como la Espada del=
+ Caos tiembla con=
+ deleite!"~A6~#069
+|1058
+@00012C6D-00013086-A6
+;00012C6D{~A4~"Oh no.They got Irene¨¨¨¨"~A5~~A6~}#038#029
+~A4~"Oh no. Tienen a Irene¨¨¨"~A5~~A6~#029
+;00012C8A{"Aaargh¨¨¨¨"~A6~}#016#013
+"Aaargh¨¨¨¨"~A6~#013
+;00012C97{"Back off,~81~= you bothersome swine.~83~= I'll deal with you= later."~A6~}#074#065
+"Atrás, ~81~=
+ cerdo molesto.       ~83~=
+ Me encargaré de ti=
+ después."~A6~#065
+;00012CD8{"Robert,take care of= Irene."~A6~}#033#030
+"Robert,encárgate de= Irene."~A6~#030
+;00012CF6{"Ashtar!"~A6~}#013#010
+"Ashtar¨"~A6~#010
+;00012D00{"So,your inner power is= beginning to show itself,= eh?"~83~^"But you know you can= never touch me with= a sword so filled with= hatred.~87~Fool!"~A6~}#150#141
+"Así que tu poder=
+ interior empieza a=
+ mostrarse,=
+ ¿eh?"~83~^
+"Pero ya sabes que no=
+ puedes tocarme con una=
+ espada tan llena de=
+ odio.~87~¡Tonto!"~A6~#141
+;00012D8D{"Enough of your games,= Ashtar.~87~= This is between you and= me."~A6~}#070#064
+"Basta de tus juegos,= Ashtar.~87~=
+ Esto es entre tú y yo." =     ~A6~#064
+;00012DCD{"You dare to do battle= with Ashtar?= Foolish Ninja."~81~^"I'll show you just how= powerless you really= are."~A6~}#114#108
+"¿Te atreves a pelear=
+ contra Ashtar?=
+ Necio Ninja."~81~^
+"Te mostraré cuan=
+ indefenso estás     =
+ realmente." ~A6~#108
+;00012E39{"¨¨¨ Aaargh¨¨¨~83~= The Force of Darkness= shall soon awaken.~82~No one= will be able to stop it."~A6~}#102#093
+"¨¨¨ Aaargh¨¨¨~83~ La Fuerza=
+ de la Oscuridad=
+ despertará pronto.~82~ =
+ Nadie va a poder pararla."~A6~#093
+;00012E96{"Join forces,Shadows of= Chaos.~87~Swallow this world= into Eternal Darkness¨¨¨"~A6~}#084#078
+"Unid fuerzas, Sombras=
+ del Caos.~87~Engullid el=
+ mundo en Eterna=
+ Oscuridad¨¨¨"~A6~#078
+;00012EE4{"¨¨¨¨"~A6~}#010#007
+"¨¨¨¨"~A6~#007
+;00012EEB{"Irene,are you all right?"~88~^~A6~}#035#029
+"Irene, ¿estás bien?"     ~88~^~A6~#029
+;00012F08{~A4~"Ryu,~84~there's an altar¨¨¨~84~= up ahead¨¨¨ somewhere¨¨¨¨~87~= You must¨¨¨ ~84~destroy it."~A5~~8A~^~A6~}#110#086
+~A4~
+"Ryu,~84~ hay un altar¨¨¨~84~=
+ delante, en algún lugar¨¨¨~87~=
+ Debes¨¨¨ ~84~destruirlo."     ~A5~~8A~^~A6~#086
+;00012F5E{"I can't leave you= here¨¨¨¨"~A6~}#033#030
+"No puedo dejarte = aquí¨¨¨" ~A6~#030
+;00012F7C{~A4~"I'll be all right.~82~= You are the only one who= can do it¨¨¨ ~82~the only= one who can stop them."~A5~^~A4~"Go¨¨¨¨ ~87~Hurry."~A5~~A6~}#141#117
+~A4~
+"Estaré bien.    ~82~=
+ Eres el único que puede =
+ hacerlo¨¨¨ ~82~el único que=
+ que puede detenerlos."~A5~^~A4~
+"Ve¨¨¨ ~87~Rápido." ~A5~~A6~#117
+;00012FF1{"Alright¨¨¨ I'll go,Irene.~89~= But I'll come back for= you as soon as I can.~87~= Hold on."~A6~}#096#087
+"Muy bien¨¨¨ Iré, Irene.~89~=
+ Pero volveré a por ti=
+ tan pronto como pueda.~87~=
+ Aguanta."  ~A6~#087
+;00013048{"Robert,take Irene and= get out of here now."~89~~A4~="Be careful."~A5~~A6~}#075#063
+"Robert, toma a Irene y=
+ sal de aquí ahora."~89~~A4~=
+"Ten cuidado."~A5~~A6~#063
+|1050
+@00013087-000134B3-A6
+;00013087{"You too,friend.= Take care of her."~A6~}#040#037
+"Tú también, amigo.= Cuida de ella."~A6~#037
+;000130AC{"¨¨¨¨~84~= There."~A6~}#022#016
+"¨¨¨¨~84~= Ahí."  ~A6~#016
+;000130BC{~A4~"Huff,huff."~A5~~A6~}#024#015
+~A4~"Uuff, uff."~A5~~A6~#015
+;000130CB{~A4~="You all right?= You wanna rest a while?"~A5~^~A6~}#055#046
+~A4~="¿Estás bien?=
+ ¿Quieres descansar?"      ~A5~^~A6~#046
+;000130F9{~A4~"No¨¨¨¨ I'm okay¨¨¨¨= What the¨¨¨?"~A5~~A6~}#047#038
+~A4~"No¨¨¨¨ Estoy bien¨¨¨¨= ¿Qué¨¨¨?"  ~A5~~A6~#038
+;0001311F{~A4~"Ah! Oh,no.= You¨¨¨ ~83~You're¨¨¨"=~A5~~A6~}#047#035
+~A4~"¡Ah!Oh,no.= Tú¨¨¨ ~83~Tú eres¨¨¨"=~A5~~A6~#035
+;00013142{=="Who the heck¨¨¨!"~A6~}#024#021
+=="¡Quién demonios!"~A6~#021
+;00013157{"Hm,hm,hm,hm."~A6~}#018#015
+"Hm,hm,hm,hm."~A6~#015
+;00013166{"I've fought this= creature before.~82~= How could this be¨¨¨?"~A6~}#067#061
+"Ya he peleado con esta=
+ criatura.~82~=
+ ¿Cómo es posible¨¨¨?"  ~A6~#061
+;000131A3{"¨¨¨ Ooooh¨¨¨¨~83~= ¨¨¨ Ryu¨¨¨¨"~A6~}#036#030
+"¨¨¨ Ooooh¨¨¨¨~83~= ¨¨¨ Ryu¨¨¨¨"~A6~#030
+;000131C1{"Robert?!= What happened?~82~ Are you= all right?"~A6~}#054#048
+"¿¡Robert?!=
+ ¿Qué ha pasado?~82~=
+ ¿Estás bien?"   ~A6~#048
+;000131F1{~A4~"Ryu¨¨¨¨~82~= They got Irene."~A5~~A6~}#042#030
+~A4~"Ryu¨¨¨¨~82~=
+ Tienen a Irene."~A5~~A6~#030
+;0001320F{"¨¨¨¨!?"=~A6~}#013#010
+"¡¨¨¨¨!"=~A6~#010
+;00013219{~A4~"Ryu.If the Gate of= Darkness is opened,~82~= the Tribe from the dark= world will cause chaos."~A5~^~A4~"That'll be the end of= all mankind.~86~= Hm?¨¨¨ ~83~Listen!"~A5~~A6~}#177#153
+~A4~
+"Ryu, si la Puerta de la=
+ Oscuridad es abierta,~82~=
+ la Tribu del mundo=
+ oscuro causará caos." ~A5~^~A4~
+"Será el fin de toda la=
+ humanidad. ~86~=
+ ¿Hm? ~83~¡Escucha!"~A5~~A6~#153
+;000132B2{"They're coming again.~82~= And there are quite= a few of them."~A6~}#068#062
+"Vienen otra vez.     ~82~=
+ Y hay unos cuantos de=
+ ellos."      ~A6~#062
+;000132F0{~A4~"I'll stay here and hold= them off.= Ryu,you get going."~82~~A5~^"You're wounded.I can't= leave you alone¨¨¨¨"~82~=~A4~"Don't worry about me.= Go!"~A5~~A6~}#159#138
+~A4~
+"Me quedaré aquí y les=
+ retendré.     =
+ Ryu, tu avanza."~82~~A5~^
+"Estás herido. =
+ No puedo dejarte solo¨¨¨"~82~=~A4~
+"No te preocupes por mi.=
+ ¡Ve!"~A5~~A6~#138
+;0001337A{~A4~"You're the only one= who can stop their evil= plan now.~87~= Now move!"~A5~~A6~}#084#072
+~A4~
+"Ahora eres el único que=
+ puede parar su malvado=
+ plan.~87~=
+ ¡Muévete!" ~A5~~A6~#072
+;000133C2{"¨¨¨ I'll go.~87~= Robert¨¨¨¨"~A6~}#034#028
+"¨¨¨ Iré.    ~87~= Robert¨¨¨" ~A6~#028
+;000133DE{~A4~"Don't forget to save the= girl while you're at it.~87~= Go¨¨¨¨ Get going!"~A5~~A6~}#087#075
+~A4~
+"No te olvides de salvar=
+ a la chica mientras=
+ tanto.=
+ Ve¨¨¨ ¡Adelante!"~A5~~A6~#075
+;00013429{"Good luck."~A6~}#016#013
+"Suerte."   ~A6~#013
+;00013436{"OK,you freaks.Come and= get it!"~82~^"You're gonna dream your= worst nightmare.~87~= No one ever gets past= old "Jungle Rat" Rob!"~A6~}#135#126
+"Vale, raritos.=
+ ¡Venid a por ello!"~82~^
+"Vais a soñar vuestra=
+ peor pesadilla. ~87~=
+ ¡Nadie pasa del viejo=
+ Rob "Rata de Jungla"!"~A6~#126
+|1069
+@000134B4-00013907-A6
+;000134B4{~A4~"So¨¨¨¨ this is the end of= the road,eh? ~87~It's dark= ¨¨¨ ~87~everything's getting= cloudy."~A5~^~A4~"Ryu.~82~Get'em¨¨¨ ~83~for me."~A5~~A6~}#146#119
+~A4~
+"Así¨¨¨ ¿este es el final=
+ del camino, ¿eh?=
+ Es oscuro¨¨¨ todo se=
+ vuelve muy nubloso."~A5~^~A4~
+"Ryu,atrapales¨¨¨ por mi."~A5~~A6~#119
+;0001352B{"What's this place?~83~= ¨¨¨ Irene!"~A6~}#040#034
+"¿Qué es este lugar?~83~=
+ ¡Irene!"  ~A6~#034
+;0001354D{~A4~"Ryu¨¨¨ Watch out!~82~= It's him¨¨¨¨"~A5~~8A~^~A6~}#054#039
+~A4~
+"Ryu¨¨¨ ¡Cuidado!~82~=
+ Es él¨¨¨"     ~A5~~8A~^~A6~#039
+;00013574{"Who?"~82~="It's been a long time,= Ryu Hayabusa."~A6~}#054#048
+"¿Quién?"~82~=
+"Cuanto tiempo,     =
+ Ryu Hayabusa."~A6~#048
+;000135A4{"Who's there?!!"~A6~}#020#017
+"¡¡¿Quién es?!!"~A6~#017
+;000135B5{"Hm,hm,hm,hm¨¨¨¨"~A6~}#021#018
+"Hm,hm,hm,hm¨¨¨¨"~A6~#018
+;000135C7{"¨¨¨?!= You __"~A6~}#019#016
+"¿¨¨¨? = Tú __"~A6~#016
+;000135D7{"JAQUIO!!"~A6~}#014#011
+"¡JAQUIO!"~A6~#011
+;000135E2{"You are alive?!"~A6~}#021#018
+"¡¿Estás vivo?!" ~A6~#018
+;000135F4{"One can never destroy= the Power of Evil."~88~^"The spirit released= after our battle flowed= into my body."~A6~}#113#107
+"Uno no puede destruir el=
+ Poder del Mal."~88~^
+"El espíritu liberado=
+ tras nuestra batalla fue=
+ a mi cuerpo."~A6~#107
+;0001365F{~A4~"I am reborn.= And I've got the dark= Power of Evil."~A5~~A6~}#065#056
+~A4~
+"He renacido.=
+ Y recuperé el Poder=
+ Maligno oscuro." ~A5~~A6~#056
+;00013697{"¨¨¨¨"~A6~}#010#007
+"¨¨¨¨"~A6~#007
+;0001369E{~A4~"The spirit you defeated= before was nothing more= than a pawn."~A5~~88~^~A4~"Your battle served only= to awaken the ancient,= true Spirits of Evil."~A5~~A6~}#161#143
+~A4~
+"El espíritu al que=
+ venciste antes solo era=
+ un peón."~A5~~88~^~A4~
+"Tu batalla solo sirvió=
+ para despertar a los=
+ antiguos Espíritus del=
+ Mal."     ~A5~~A6~#143
+;0001372D{"The Sword of Chaos= simply sucks up your= life force.~82~And when= the Sword awakens,~88~^"the Gate of Darkness= shall be thrown open¨¨¨= And the demons shall= come back to life."~A6~}#184#175
+"La Espada del Caos=
+ simplemente absorbe tu=
+ fuerza vital. Y cuando=
+ la Espada despierte,^
+"la Puerta de la Oscuridad=
+ será abierta¨¨¨=
+ Y los demonios volverán=
+ a la vida."   ~A6~#175
+;000137DC{"What are you going to do= with Irene?"~A6~}#043#040
+"¿Qué vas a hacer con=
+ Irene?"         ~A6~#040
+;00013804{~A4~"Her life force shall be= used to call up= the demons."~A5~~88~^~A4~"You shall awaken them,= she shall call them back= to earth."~A5~~A6~}#141#123
+~A4~
+"Su fuerza vital será=
+ usada para llamar a los=
+ demonios."~A5~~88~^~A4~
+"Tu les despertarás,=
+ ella les llamará hacia=
+ la tierra." ~A5~~A6~#123
+;0001387F{"You should be proud.~82~= You two shall make the= beginning of a new Age."~88~^"The Age of= Eternal Darkness!"=~88~^"Hm,hm,hm,hm.= Ha,ha,ha,ha."~A6~}#149#137
+"Deberías enorgulleceros.=
+ Creareis el principio de=
+ una nueva era."~88~^
+"¡La Era de la Oscuridad=
+Eterna!"   =~88~^
+"Hm,hm,hm,hm.= Ja, ja, ja."~A6~#137
+|1108
+@00013908-00013BEA-A6
+;00013908{"Are you finished?~82~= I've had enough of your= speeches."^"And I've had enough of= YOU!"~A6~}#094#088
+"¿Has terminado ya?~82~=
+ Estoy cansado de tus=
+ discursos."      ^
+"¡Y estoy cansado de TI!"~A6~#088
+;00013960{~A4~"Then fight,Ninja Dragon= __the last of your clan."~A5~~87~^~A4~"Now,we shall decide= whether Light or¨¨¨= Darkness is to be= the true master!!"~A5~~A6~}#156#138
+~A4~
+"Pues pelea, Dragón Ninja=
+ __el último de tu clan."~A5~~87~^~A4~
+"Ahora, ¡decidiremos si=
+ la Luz o¨¨¨ la Oscuridad=
+ serán el verdadero=
+ maestro!"~A5~~A6~#138
+;000139EA{"¨¨¨¨= Irene¨¨¨¨"~A6~}#021#018
+"¨¨¨¨= Irene¨¨¨¨"~A6~#018
+;000139FC{~A4~"¨¨¨¨= Ryu¨¨¨¨"~A5~~A6~}#027#018
+~A4~"¨¨¨¨= Ryu¨¨¨¨"~A5~~A6~#018
+;00013A0E{"Are you all right,Irene?"~A6~}#030#027
+"¿Estás bien, Irene?"     ~A6~#027
+;00013A29{~A4~"¨¨¨ We've got to¨¨¨~83~= destroy this altar¨¨¨¨"~A5~~A6~}#061#049
+~A4~"¨¨¨ Tenemos que¨¨¨~83~= destruir este altar¨¨¨¨"~A5~~A6~#049
+;00013A5A{"Ryu!"~82~="The Sword! ~82~The Sword has= been awakened by= the blood of Jaquio."~A6~}#085#076
+"¡Ryu!"~82~=
+"¡La Espada! La sangre de=
+ Jaquio la ha despertado."=
+             ~A6~#076
+;00013AA6{~A4~"¨¨¨¨= Ryu!!"~A5~~A6~}#025#016
+~A4~"¨¨¨¨= ¡Ryu!"~A5~~A6~#016
+;00013AB6{"¨¨¨¨= Irene."~A6~}#018#015
+"¨¨¨¨= Irene."~A6~#015
+;00013AC5{"Ryu¨¨¨¨"~A6~}#013#010
+"Ryu¨¨¨¨"~A6~#010
+;00013ACF{"Ireeeeene!!"~A6~}#017#014
+"¡¡Ireneee!!"~A6~#014
+;00013ADD{"¨¨¨ Hm¨¨¨¨"~A6~}#016#013
+"¨¨¨ Hm¨¨¨¨"~A6~#013
+;00013AEA{"YOU?!"~A6~}#011#008
+"¿TÚ?" ~A6~#008
+;00013AF2{"Mmmm¨¨¨¨ Urrrrgh¨¨¨¨"~A6~}#026#023
+"Mmmm¨¨¨¨ Urrrrgh¨¨¨¨"~A6~#023
+;00013B09{"What the¨¨¨¨"~A6~}#018#015
+"Pero qué¨¨¨¨"~A6~#015
+;00013B18{"Huff¨¨¨ huff.~87~= Is this finally the end= of it all?"~A6~}#060#054
+"Uuff¨¨¨ uuff.~87~=
+ ¿Es esto al fin el final=
+ de todo?" ~A6~#054
+;00013B4E{"How do I fight such= an enemy?"~A6~}#036#033
+"¿Cómo peleo con tal =
+ enemigo?"~A6~#033
+;00013B6F{"Father.~83~= Sword of the Dragon clan.~83~= Give me strength."~A6~}#067#058
+"Padre.   ~83~=
+ Espada del clan Dragón.~83~=
+ Dadme fuerza."    ~A6~#058
+;00013BA9{"Demon! You're mine.= Taste the true power of= the Dragon Sword!"~A6~}#069#066
+"¡Demonio! Eres mío.=
+ ¡Prueba el poder de la=
+ Espada Dragón!"    ~A6~#066
+|739
+@00015910-00015BD0-A6
+;00015910{"Irene¨¨¨¨~85~= Ireeeeene!!"~A6~}#032#026
+"Irene¨¨¨¨~85~= ¡¡Ireeene!!"~A6~#026
+;0001592A{"Uhhhhh.~85~= Uuuuuuooohhh!"~A6~}#032#026
+"Uhhhhh.~85~= ¡Uuuuuooohhh!"~A6~#026
+;00015944{"Irene¨¨¨ I'm so sorry."~A6~}#028#025
+"Irene¨¨¨ Lo siento."   ~A6~#025
+;0001595D{"My clan¨¨¨ defeating= the demons¨¨¨ ~87~none of= that matters¨¨¨ ~8B~now that= you're gone¨¨¨¨"~A6~}#100#091
+"Mi clan¨¨¨ vencer a los=
+ demonios¨¨¨ ~87~nada de=
+ eso importa¨¨¨ ~8B~ahora=
+ que te has ido¨¨¨¨"~A6~#091
+;000159B8{~A4~"Wh¨¨¨¨?~A5~~82~~A4~= The Sword!"~A5~~A6~}#045#027
+~A4~"¿Qué? ~A5~~82~~A4~= ¡La Espada!"~A5~~A6~#027
+;000159D3{"The Dragon Sword¨¨¨¨"~A6~}#026#023
+"La Espada Dragón¨¨¨¨"~A6~#023
+;000159EA{"¨¨¨¨"~A6~}#010#007
+"¨¨¨¨"~A6~#007
+;000159F1{"¨¨¨?"~A6~}#010#007
+"¿¨¨?"~A6~#007
+;000159F8{"What the¨¨¨¨"~A6~}#018#015
+"Pero qué¨¨¨¨"~A6~#015
+;00015A07{"Mmm¨¨¨ ~83~oh¨¨¨¨"~87~="¨¨¨¨?!!!~83~= Irene!"~A6~}#050#038
+"Mmm¨¨¨ ~83~oh¨¨¨"~87~="¡¿¨¨¨¨?!~83~= ¡Irene!"~A6~#038
+;00015A2D{~A4~"Ryu¨¨¨¨?~87~= Oh,Ryu!"~A5~~A6~}#035#023
+~A4~"¿Ryu? ~87~= ¡Oh, Ryu!"~A5~~A6~#023
+;00015A44{~A4~"It's a miracle!~8A~= ¨¨¨ Irene."~A5~~A6~}#045#033
+~A4~"¡Es un milagro!~8A~= ¨¨¨ Irene."~A5~~A6~#033
+;00015A65{~A4~"Ryu.What¨¨¨ what= happend to me? ~87~I feel= like I've been dreaming= ¨¨¨ for a long time."~A5~~A6~}#104#092
+~A4~
+"Ryu. Qué¨¨¨ ¿qué me ha=
+ pasado? ~87~me siento como=
+ habiendo soñado¨¨¨=
+ mucho tiempo."     ~A5~~A6~#092
+;00015AC1{~A4~"It's all right¨¨¨ ~83~It's= over.~83~It's all over,Irene.~83~= The Darkness is gone."~A5~~A6~}#098#080
+~A4~
+"Está bien¨¨¨=
+ Ha terminado.=
+ Todo ha terminado,Irene.=
+ La Oscuridad se fue."~A5~~A6~#080
+;00015B11{"Oh,Ryu.Then¨¨¨ ~83~It's true.~87~= The part about¨¨¨~83~= you and I,¨¨¨ ~83~isn't it?"~83~="Yes,Irene."~8F~^"Look.~83~Can you believe how= beautiful our world is,= Irene? ~83~And it'll stay= like this¨¨¨ ~83~forever."~A6~}#222#192
+"Oh, Ryu. Entonces¨¨¨~83~ Es=
+ cierta.~87~ La parte sobre¨¨¨~83~=
+ tú y yo,¨¨¨~83~ ¿verdad?"~83~=
+"Sí, Irene."    ~8F~^
+"Mira.~83~ ¿Puedes creer=
+ cuan bello es nuestro=
+ mundo, Irene? ~83~Y así=
+ permanecerá¨¨¨ ~83~siempre."~A6~#192
+|705
+@00015BD1-00015F1F-A6
+;00015BD1{~94~   TECMO THEATER VOL.2~A6~}#030#024
+~94~   TEATRO TECMO VOL.2 ~A6~#024
+;00015BE9{~94~     PROJECT NINJA-~60~=_ THE DARK SWORD OF CHAOS _~A6~}#059#050
+~94~     PROJECT NINJA-~60~=_LA ESPADA OSCURA DEL CAOS_~A6~#050
+;00015C1B{~94~ __ CINEMA DISPLAY UNIT __~A6~}#034#028
+~94~ __UNIDAD DE CINEMÁTICAS__~A6~#028
+;00015C37{~94~STORY BY= SARAH~62~H.= S·SAKURAZAKI~A6~}#043#034
+~94~HISTORIA= SARAH~62~H.= S·SAKURAZAKI~A6~#034
+;00015C59{~94~SCREENPLAY BY= RUNMAL~A6~}#029#023
+~94~GUIONISTA    = RUNMAL~A6~#023
+;00015C70{~94~ART WORK= RUNMAL= HARUMI~61~OKADA~A6~}#041#032
+~94~ARTISTAS= RUNMAL= HARUMI~61~OKADA~A6~#032
+;00015C90{~94~ART WORK= IZUMI KATAOKA= MASAMI TAKIZAWA~A6~}#048#042
+~94~ARTISTAS= IZUMI KATAOKA= MASAMI TAKIZAWA~A6~#042
+;00015CBA{~94~PROGRAM WORK= NOSUKE~A6~}#028#022
+~94~PROGRAMADOR = NOSUKE~A6~#022
+;00015CD0{~94~DIRECTED BY= RUNMAL~A6~}#027#021
+~94~DIRECTOR   = RUNMAL~A6~#021
+;00015CE5{~94~    __ ACTION UNIT __~A6~}#029#023
+~94~    __UNIDAD ACCIÓN__~A6~#023
+;00015CFC{~94~BG ART WORK= YOSHIAKI GOTOH= D.H.MAX= HARUMI~61~OKADA~A6~}#061#052
+~94~ARTE FONDOS= YOSHIAKI GOTOH= D.H.MAX= HARUMI~61~OKADA~A6~#052
+;00015D30{~94~ENEMY DESIGN= RUNMAL= YOSHIAKI GOTOH= NAGA~A6~}#050#044
+~94~DISEÑO RIVAL= RUNMAL= YOSHIAKI GOTOH= NAGA~A6~#044
+;00015D5C{~94~PROGRAM WORK= MADOKA SOUTHERNAMI~A6~}#040#034
+~94~PROGRAMADOR = MADOKA SOUTHERNAMI~A6~#034
+;00015D7E{~94~DIRECTED BY= S·SAKURAZAKI~A6~}#033#027
+~94~DIRECTOR   = S·SAKURAZAKI~A6~#027
+;00015D99{~94~    __ SOUND STAFF __~A6~}#029#023
+~94~    __EQUIPO SONIDO__~A6~#023
+;00015DB0{~94~MUSIC COMPOSED BY= S·KAJIYA= MAYU~A6~}#041#035
+~94~COMPONEN MÚSICA  = S·KAJIYA= MAYU~A6~#035
+;00015DD3{~94~SOUND EFFECTS= MIYA~A6~}#027#021
+~94~EFECTOS AUDIO= MIYA~A6~#021
+;00015DE8{~94~SOUND DIRECTOR= S·KAJIYA~A6~}#032#026
+~94~DIRECTOR AUDIO= S·KAJIYA~A6~#026
+;00015E02{~94~    __ DESIGN STAFF __~A6~}#030#024
+~94~    __EQUIPO DISEÑO__ ~A6~#024
+;00015E1A{~94~ILLUSTRATION BY= SHINOBU IWABAYASHI~A6~}#043#037
+~94~ILUSTRACIÓN POR= SHINOBU IWABAYASHI~A6~#037
+;00015E3F{~94~ED.DESIGNER= TAKASHI SAITO~A6~}#034#028
+~94~ED.DISEÑO  = TAKASHI SAITO~A6~#028
+;00015E5B{~94~SPECIAL THANKS TO= AKIHIKO= FAW= KEIJI YAMAGISHI~A6~}#056#050
+~94~MUCHAS GRACIAS A = AKIHIKO= FAW= KEIJI YAMAGISHI~A6~#050
+;00015E8D{~94~ENGLISH TRANSLATION BY= DANIEL KAHL~A6~}#043#037
+~94~TRADUCCIÓN INGLESA POR= DANIEL KAHL~A6~#037
+;00015EB2{~94~EXECUTIVE PRODUCER= HIDEO YOSHIZAWA~A6~}#043#037
+~94~PRODUCE EJECUTIVO = HIDEO YOSHIZAWA~A6~#037
+;00015ED7{~96~       AUDIO-VISUAL= COPYRIGHT MCMXC TECMO,LTD.=    ALL RIGHTS RESERVED~A6~}#079#073
+~96~
+       AUDIO-VISUAL=
+ COPYRIGHT MCMXC TECMO,LTD.=
+    DERECHOS RESERVADOS~A6~#073
+|847

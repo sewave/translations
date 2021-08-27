@@ -1,0 +1,454 @@
+@0005852F-00058935-00
+;0005852F{MEGAMAN,$~3C~ OUR=WORLD IS ONCE/^AGAIN IN CHAOS.=$~3C~THE ALIEN ROBOTS/^CALL THEMSELVES=¨STARDROIDS¨ AND/^HAVE CONQUERED=MOST OUR MAJOR/^CITIES.=$~3C~THEY ARE/^CONSTRUCTED OF=ALIEN MATERIAL/^WHICH RENDER OUR=WEAPONS USELESS./~00~}#238#217
+Megaman,$~3C~ nuestro=
+mundo está de/^
+nuevo en caos.=$~3C~
+Los robots/^
+alienígenas=
+¨Stardroids¨/^
+conquistaron la=
+mayoría de/^
+las grandes=
+ciudades.=$~3C~
+Están hechos de=
+materiales/^
+espaciales y    =
+nuestras armas/^
+son inútiles./~00~#217
+;00058608{BUT, I HAVE DONE=SOME ANALYSIS/^AND CONSTRUCTED=A NEW WEAPON FOR/^YOU.  $~3C~IT WILL=REPLACE YOUR/^SUPER MEGA=BUSTER./~00~}#125#116
+Pero he hecho=
+algún análisis y/^
+construido una=
+nueva arma para/^
+ti.$~3C~ Reemplazará=
+a tu Super Mega/^
+Buster.        /~00~#116
+;0005867C{OH, MEGAMAN!=$~3C~DID YOU BRING/^BACK THE=P CHIPS?/~00~}#058#049
+¡Oh, Megaman!=$~3C~
+¿Has traído los/^
+Chips P?      /~00~#049
+;000586AD{SELECT THE ITEM=YOU WANT.~F4~COLLECT 4 OF=THESE AND YOU/^WILL EARN A=E TANK./~00~}#081#075
+Elige el ítem=
+deseado.   ~F4~
+Recoge 4 de     =
+estos y tendrás/^
+un tanque E.=/~00~#075
+;000586F8{YOU CAN TOTALLY=RECHARGE ONE OF/^YOUR WEAPONS=WITH THIS ITEM./~00~}#066#063
+Puedes recargar=
+del todo una de/^
+tus armas con=
+este ítem.    /~00~#063
+;00058737{YOU CAN TOTALLY=RECHARGE YOUR/^ENERGY LEVEL=WITH THIS ITEM./~00~}#064#061
+Puedes recargar=
+por completo tu/^
+energía con este=
+ítem.    /~00~#061
+;00058774{YOU CAN TOTALLY=RECHARGE YOUR/^ENERGY LEVEL AND=ALL OF YOUR/^WEAPONS WITH=THIS ITEM./~00~}#089#086
+Puedes recargar=
+del todo tu/^
+nivel de energía=
+y de todas tus/^
+armas con este=
+ítem.  /~00~#086
+;000587CA{EXTRA LIFE./~00~}#016#013
+Vida Extra./~00~#013
+;000587D7{WITH THIS ITEM,=THE WEAPON WITH/^THE LEAST AMOUNT=OF ENERGY WILL/^BE REFILLED=AUTOMATICALLY/^WHEN YOU PICK UP=AN WEAPON/^CAPSULE./~00~}#134#131
+Con este ítem,=
+el arma con/^
+menor cantidad=
+de energía será/^
+rellenada=
+automáticamente/^
+cuando recojas=
+una cápsula de/^
+arma.      /~00~#131
+;0005885A{ALL OF YOUR=WEAPONS WILL BE/^IMMEDIATELY=REFILLED./~00~}#055#052
+Todas tus armas=
+serán recargadas/^
+de inmediato.   /~00~#052
+;0005888E{YOU CAN'T CARRY=ANY MORE OF THAT/^ITEM./~00~}#044#041
+No puedes cargar=
+más ítems como  /^
+ese./~00~#041
+;000588B7{ALL OF YOUR=WEAPONS ARE/^ALREADY FULL./~00~}#043#040
+Todas tus armas=
+están ya/^
+recargadas. /~00~#040
+;000588DF{YOU NEED ~F5~=P CHIPS FOR THIS/^ITEM./~00~}#042#036
+Necesitas ~F5~=Chips P para el/^ítem./~00~#036
+;00058903{DO YOU WANT=THIS ITEM?/^THIS ITEM?=   B_NO  A_YES~F6~~00~}#057#051
+¿Quieres este=
+ítem?   /^
+ítem?     =   B_No  A_Sí ~F6~~00~#051
+|1031
+@00058936-00058D57-00
+;00058936{YOU DON'T HAVE=ENOUGH P CHIPS./~00~}#035#032
+Te faltan Chips=P.            /~00~#032
+;00058956{SELECT THE ITEM=YOU WANT.~F4~ARE YOU=FINISHED?/^FINISHED?=   B_NO  A_YES~F6~~00~}#080#071
+Elige el ítem=
+deseado.   ~F4~
+¿Ya has=
+acabado? /^
+acabado?  =
+   B_No  A_Sí~F6~~00~#071
+;0005899D{GOOD LUCK,=MEGAMAN!/~00~}#024#021
+¡Suerte,  =Megaman!/~00~#021
+;000589B2{IT IS CALLED THE=¨MEGA ARM¨ AND/^IT ALLOWS YOU TO=CHARGE ENERGY IN/^YOUR FIST BEFORE=YOU FIRE IT./~00~}#102#099
+Se llama el    =
+¨Mega Arm¨ y te/^
+permite cargar=
+energía en tu   /^
+puño antes de  =
+dispararlo.    /~00~#099
+;00058A15{I HAVE ALSO=CREATED A NEW/^ASSISTANT FOR=YOU.  $~3C~HIS NAME/^IS ¨TANGO¨./~00~}#081#072
+También te he=
+creado un nuevo/^
+ayudante.$~3C~=
+Se llama /^
+¨Tango¨.        /~00~#072
+;00058A5D{I'LL ENHANCE=THIS ITEM/^REPLICATOR TO=MAKE POWERFUL/^ITEMS FOR YOU.=$~3C~COLLECT AS MANY/^P CHIPS AS=POSSIBLE AND/^RETURN TO MY LAB=TO EXCHANGE THEM/^FOR POWER-UP=ITEMS./^GOOD LUCK,=MEGAMAN./~00~}#198#189
+Mejoraré este=
+replicador de/^
+ítems para hacer=
+ítems poderosos/^
+para ti.    =$~3C~
+Recoge tantos/^
+Chips P como=
+puedas y vuelve/^
+a mi lab para=
+cambiarlos por/^
+ítems de mejora./^
+Suerte,=
+Megaman./~00~#189
+;00058B1A{~F9~~78~IN THE YEAR 20XX=AD, THE WORLD IS^AT PEACE THANKS=TO MEGAMAN.$~F0~~F4~~00~}#085#067
+~F9~~78~
+En el año 20xx=
+DC, el mundo^
+está en paz=
+gracias a^
+Megaman.   $~F0~~F4~~00~#067
+;00058B5D{~F9~~5A~^DR. WILY'S=FOURTH ATTEMPT^AT WORLD=DOMINATION HAS^FAILED AND HIS=NAME HAS ONCE^AGAIN FADED FROM=THE MINDS OF THE^CITIZENS OF THE=WORLD.$~3C~^A FEW MONTHS=LATER...$D~F4~~00~}#187#166
+~F9~~5A~^
+El cuarto=
+intento de^
+dominación=
+mundial del^
+Dr.Wily ha=
+fallado y su^
+nombre de nuevo=
+se fue de las^
+mentes de los=
+ciudadanos del^
+mundo.  $~3C~^
+Unos meses=después...$D~F4~~00~#166
+;00058C03{~F9~~78~SO, YOU ARE THE=FAMOUS MEGAMAN!$~78~^I AM TERRA - AND=YOU WILL SOON BE^MY SLAVE!$~78~~F4~~00~}#107#083
+~F9~~78~
+¡Así que tú eres=
+el famoso^
+Megaman!$~78~^
+Soy Terra -=
+¡Y pronto serás^
+mi esclavo!$~78~~F4~~00~#083
+;00058C56{~F9~~78~WHAT?!  $~3C~MY MEGA=BUSTER HAS NO^EFFECT ON HIM...$~78~~F4~~00~}#078#054
+~F9~~78~
+¡¿Qué?!$~3C~ mi Mega=Buster no le  ^afecta...      $~78~~F4~~00~#054
+;00058C8C{~F9~~78~A FEW HOURS=LATER, THE WORLD^WAS ATTACKED BY=WARRIOR ROBOTS^FROM SPACE.$~B4~~F4~~00~}#095#077
+~F9~~78~
+Unas horas=
+después,^
+robots=
+guerreros^
+espaciales=
+atacaron la^
+tierra.    $~B4~~F4~~00~#077
+;00058CD9{~F9~~78~WHERE AM I?$~78~~F4~~00~}#035#017
+~F9~~78~
+¿Dónde?    $~78~~F4~~00~#017
+;00058CEA{~F9~~78~DR. LIGHT FOUND=MEGAMAN AND^EQUIPPED HIM=WITH THE NEW^¨MEGA ARM¨.=THE MOST^POWERFUL WEAPON=EVER DEVISED.$~78~~F4~~00~}#128#110
+~F9~~78~
+El Dr.Light=
+encontró a^
+Megaman y le=
+equipó con el^
+nuevo ¨Mega=
+Arm¨.^
+El arma más=
+poderosa jamás^
+diseñada.$~78~~F4~~00~#110
+|1058
+@00058D58-00059224-00
+;00058D58{~F9~~78~WHY HAVE THE=STARDROIDS COME^HERE!?$~78~~F4~~00~}#059#041
+~F9~~78~
+¿Por qué han=
+venido los^
+Stardroids?$~78~~F4~~00~#041
+;00058D81{THIS IS A=POWER-UP ITEM/^FOR THE=¨MEGA ARM¨./^ONCE INSTALLED,=YOU CAN GRAB AN/^ITEM FROM FAR=AWAY./~00~}#103#100
+Este es un ítem=
+de mejora para/^
+el ¨Mega Arm¨./^
+Tras instalarse,=
+puedes recoger  /^
+un ítem lejano./~00~#100
+;00058DE5{THIS IS A=POWER-UP ITEM/^FOR THE=¨MEGA ARM¨./^ONCE INSTALLED,=YOU CAN GRAB AND/^ATTACK THE ENEMY=OVER AND OVER./~00~}#116#113
+Es un ítem de=
+mejora para el/^
+¨Mega Arm¨./^
+Tras instalarlo,=
+puedes agarrar y/^
+atacar al=
+enemigo/^
+repetidamente./~00~#113
+;00058E56{THIS POWER=GENERATOR WAS/^MADE FROM THE 4=CRYSTALS YOU/^BROUGHT BACK.=$~3C~THE POWER/^GENERATOR WILL=REDUCE THE/^AMOUNT OF ENERGY=YOUR SPECIAL/^WEAPONS USE BY=HALF./^NO P CHIPS ARE=REQUIRED FOR/^THIS ITEM, ONLY=THE CRYSTALS./~00~}#232#223
+Este generador=
+de poder fue/^
+creado de los 4=
+cristales que/^
+trajiste.=$~3C~
+El generador de/^
+poder reducirá=
+la cantidad de/^
+energía usada=
+por las armas/^
+a la mitad./^
+No necesitas  =
+Chips P para/^
+este ítem, solo=
+los cristales./~00~#223
+;00058F35{YOU CAN'T MAKE=ANY MORE OF THIS/^ITEM./~00~}#043#040
+No puedes crear=
+más ítems como /^
+este./~00~#040
+;00058F5D{DR. LIGHT!!=$~3C~I FOUND THIS/^CRYSTAL ON THE=PLANET!/^YOU BETTER=ANALYZE IT./^LET ME SEE...$~78~/^WELL, THIS=CRYSTAL SEEMS TO/^BE THE ENERGY=SOURCE USED BY/^THAT PLANET'S=ANCIENT/^CIVILIZATION.=$~3C~WITH 4 OF THESE,/^I CAN MAKE AN=ITEM THAT WILL/^REDUCE THE=ENERGY/^CONSUMPTION OF=YOUR SPECIAL/^WEAPONS BY HALF.=$~3C~I ASSUME THERE/^ARE SIMILAR=CRYSTALS LIKE/^THIS ON OTHER=PLANETS TOO./^COLLECT ALL FOUR=CRYSTALS AND/^BRING THEM BACK=TO THE LAB./^GOOD LUCK!/~00~}#476#449
+¡Dr.Light!=$~3C~
+¡Encontré este/^
+cristal en el=
+Planeta!/^
+Será mejor que=
+lo analice./^
+Déjame ver...$~78~/^
+Bueno, este=
+cristal parece/^
+ser la fuente de=
+energía usada/^
+por su antigua=
+civilización./^$~3C~
+Con 4 de estos,=
+puedo hacer un/^
+ítem que=
+reducirá el/^
+consumo de=
+energía de tus/^
+armas especiales=
+a la mitad./^$~3C~
+Asumo que=
+también hay/^
+cristales=
+similares a este/^
+en otros=
+planetas. /^
+Recoge los=
+cuatro cristales/^
+y tráemelos al=
+laboratorio./^
+¡Buena suerte!/~00~#449
+;0005911E{~F9~~78~THAT'S STRANGE..=$~3C~THERE'S NOTHING^HERE.$~78~~F4~~00~}#070#046
+~F9~~78~
+Eso es raro...  =$~3C~
+Aquí no hay^nada.    $~78~~F4~~00~#046
+;0005914C{IT'S BEEN A LONG=TIME, $~3C~MEGAMAN!/^I DIDN'T EXPECT=TO SEE YOU IN/^ONE PIECE AGAIN.=$~3C~BUT THAT IS OF/^LITTLE=CONSEQUENCE NOW./^I WILL DESTROY=YOU AS I DID/^BEFORE AND=AVENGE MY FALLEN/^COMRADES./^DARK MOON,=$~3C~ATTACK!/~00~}#238#217
+¡Ha pasado mucho=
+tiempo, $~3C~Megaman!/^
+No esperaba=
+verte de una/^
+pieza de nuevo.=$~3C~
+Pero eso ahora/^
+es de poca=
+importancia./^
+Te destruiré=
+como hice antes/^
+y vengaré a mis=
+camaradas/^
+caídos.       /^
+¡Dark Moon,=$~3C~
+ataca!/~00~#217
+|1229
+@00059225-00059763-00
+;00059225{WELCOME BACK,=$SMEGAMAN! $~3C~ I'VE/^JUST DISCOVERED=SOME SHOCKING/^NEWS./^THE STARDROIDS=HAVE BEEN USING/^THE RESOURCES=FROM EARTH TO/^CREATE AN EVEN=MORE POWERFUL/^GENERATION OF=ROBOTS.  $~3C~IF THEY/^LAUNCH AN=ALL-OUT ATTACK/^NOW, WE'LL BE=EASILY DEFEATED./^I'M NOT SURE=WHAT TO DO./~00~}#299#281
+¡Bienvenido,=$S
+Megaman! $~3C~¡Acabo/^
+de descubrir=
+unas noticias/^
+horribles./^
+Los Stardroids=
+han estado/^
+usando recursos=
+de la tierra/^
+para crear una=
+generación de/^
+robots aún más=
+poderosa. $~3C~Si/^
+lanzan ahora un=
+ataque total,/^
+nos vencerán=
+fácilmente./^
+No estoy seguro=
+de que hacer. /~00~#281
+;0005933E{DR. LIGHT, $~3C~WE=NEED TO STRIKE/^NOW!  $~3C~IF YOU CAN=TRANSFORM RUSH/^FOR SPACE=TRAVEL, WE CAN/^TRY A SURPRISE=ATTACK AND WIPE/^THEM OUT./~00~}#151#136
+Dr.Light,=$~3C~
+¡tenemos que/^
+golpear ahora!$~3C~=
+Si transforma/^
+a Rush para el=
+espacio, podemos/^
+intentar un=
+ataque sorpresa/^
+y derrotarlos./~00~#136
+;000593C6{~31~~31~~31~~31~~31~=~00~}#025#007
+~31~~31~~31~~31~~31~=~00~#007
+;000593CD{OK.  $~3C~I'LL START=MODIFYING RUSH/^AND GIVE HIM=SOME EXTRA/^FIREPOWER.  $~3C~THIS=MAY TAKE SOME/^TIME, SO WHY=DON'T YOU GO/^EXCHANGE YOUR=P CHIPS FOR/^ITEMS./~00~}#170#155
+Vale.$~3C~ Empezaré=
+modificando a/^
+Rush y dándole=
+más potencia de/^
+fuego. $~3C~Esto=
+podría tardar,/^
+¿así que por qué=
+no vas a cambiar/^
+tus Chips P por=
+ítems?  /~00~#155
+;00059468{~F9~~78~I SHOULD HAVE=DEFEATED ALL THE^STARDROIDS.~F4~~00~}#058#046
+~F9~~78~
+Debería haber=
+vencido a los   ^
+Stardroids.~F4~~00~#046
+;00059496{WHAT?  $~3C~WHAT'S=THAT STAR?...~F4~~00~}#043#031
+¿Qué? $~3C~¿Qué es=esa estrella?~F4~~00~#031
+;000594B5{~F9~~78~WAIT...=$~78~IT'S MOVING...^NO!=$~78~IT CAN'T BE!~F4~~00~}#071#047
+~F9~~78~
+Espera...=$~78~
+Se mueve...^
+¡No!=$~78~
+¡Imposible! ~F4~~00~#047
+;000594E4{WILY?!$~78~~F4~~00~}#022#010
+¿Wily?$~78~~F4~~00~#010
+;000594EE{IS HE BEHIND=THIS?!~F4~~00~}#027#021
+¿Está detrás él?=  ~F4~~00~#021
+;00059503{OOPS!  $~78~THAT WAS=CLOSE!~F4~~00~}#038#026
+¡Oops! $~78~=¡Estuvo cerca!~F4~~00~#026
+;0005951D{~F9~~78~HIT THE JETS,=RUSH!  $~3C~LET'S GO!~F4~~00~}#054#036
+~F9~~78~
+¡Dale al cohete,=Rush! $~3C~¡Vamos!~F4~~00~#036
+;00059541{ARE YOU OK?=$~78~HERE, GRAB MY/^SHOULDER.  $~3C~I'M=SURE YOU CAN BE/^FIXED AT=DR. LIGHT'S LAB./^MEGAMAN...  $~32~WHY?$~5A~/^WHY ARE YOU=HELPING ME?/^BECAUSE WE ARE=BOTH ROBOTS./^YES.  $~3C~AND WE=WERE BOTH/^CREATED TO=FIGHT!/~00~}#244#211
+¿Estás bien?=$~78~
+Agárrate a mi/^
+hombro. $~3C~Estoy=
+seguro de que el/^
+Dr.Light puede=
+arreglarte./^
+Megaman...$~5A~/^
+¿Por qué me   =
+ayudas?        /^
+Porque ambos=
+somos robots./^
+Sí. $~3C~¡Y ambos=
+fuimos creados/^
+para pelear!/~00~#211
+;00059614{NO, $~3C~YOU'RE=WRONG!  $~3C~I ONLY/^FIGHT WHEN I AM=FORCED TO/^PROTECT THE=WORLD FROM THOSE/^WHO WOULD PIT=MACHINES AGAINST/^MAN.  $~3C~I BELIEVE=HUMANS AND/^ROBOTS CAN LIVE=IN PEACE!/^MAYBE... $~3C~BUT I=WILL NEVER KNOW./^MY FUSION=REACTOR IS GOING/^CRITICAL AND=WHEN IT DOES, IT/^WILL DESTROY=THIS ENTIRE/^FORTRESS./^SUNSTAR...$~3C~/^LEAVE NOW!$~3C~/~00~}#375#336
+No, $~3C~¡Te=
+equivocas! $~3C~Yo/^
+solo peleo=
+cuando me/^
+obligan para=
+proteger el/^
+mundo de quién=
+ponga a las/^
+máquinas contra=
+el hombre.$~3C~/^
+¡Creo que=
+humanos y robots/^
+pueden vivir en=
+paz! /^
+Quizá...$~3C~=
+Pero yo nunca lo=
+sabré.  /^
+Mi reactor de=
+fusión está/^
+crítico y cuando=
+falle,/^
+destruirá toda=
+esta fortaleza./^
+Sunstar...$~3C~/^
+¡Vete ahora!$~3C~/~00~#336
+|1343
+@00059764-00059A72-00
+;00059764{~F9~~78~WILY!=$~78~YOU SURVIVED?!$~78~~F4~~00~}#052#028
+~F9~~78~
+¡Wily!=$~78~¿Estás vivo? $~78~~F4~~00~#028
+;00059780{~F9~~78~CURSE YOU,=$~78~MEGAMAN!^THIS WAR=ENDS NOW!$~78~~F4~~00~}#070#046
+~F9~~78~
+¡Maldito=$~78~
+Megaman!^
+¡Esta guerra=
+acaba! $~78~~F4~~00~#046
+;000597AE{MEGAMAN,=$~3C~WELCOME HOME!/^I HAVE JUST=COMPLETED/^THE TURBO=ACCELERATOR FOR/^YOUR ¨MEGA ARM¨./~00~}#103#094
+Megaman,=$~3C~
+¡bienvenido!/^
+Acabo de=
+completar el/^
+Turboacelerador=
+para tu ¨Mega/^
+Arm¨.        /~00~#094
+;0005980C{OK./^IT'S FUNCTIONING=PERFECTLY./^GOOD LUCK,=MEGAMAN!/~00~}#058#055
+Vale./^
+Funciona a la=
+perfección./^
+¡Suerte,  =
+Megaman!/~00~#055
+;00059843{I FINALLY=DESTROYED ALL/^THE SPACE=STATIONS!/~00~}#049#046
+¡Destruí todas=
+las estaciones/^
+espaciales!  /~00~#046
+;00059871{YOU FOOL=MEGAMAN!/^YOU HAVE METTLED=WITH MY PLAN FOR/^THE LAST TIME./^WE COULD HAVE=CREATED A NEW/^WORLD FOR ALL=ROBOTS!  $~3C~HOW CAN/^I FACE MY MASTER=NOW?  $~3C~I MUST/^REDEEM MYSELF BY=BLOWING YOU TO/^PIECES!/~00~}#223#208
+¡Tonto Megaman!/^
+Te has=
+entrometido con/^
+mi plan por=
+última vez./^
+¡Podríamos haber=
+creado un nuevo/^
+mundo para todos=
+los robots.$~3C~/^
+¿Cómo miro a mi=
+maestro ahora?$~3C~/^
+¡Debo redimirme=
+haciéndote/^
+explotar!   /~00~#208
+;00059941{~F9~~78~BEHOLD MEGAMAN,=$~3C~I HAVE AWAKENED^THE ANCIENT=WEAPON SUNSTAR!^ITS NOVA WEAPON=WILL DESTROY^YOU!$~78~~F4~~00~}#125#101
+~F9~~78~
+Observa Megaman,=$~3C~
+¡he despertado^
+el arma antigua=
+Sunstar!    ^
+¡Su arma Nova te=
+destruirá!     $~78~~F4~~00~#101
+;000599A6{SUNSTAR, $~3C~DESTROY=MEGAMAN!$~78~~F4~~00~}#049#031
+Sunstar, $~3C~¡mata a=Megaman!$~78~~F4~~00~#031
+;000599C5{~F9~~78~WHAT?!?=$~5A~YOU FOOL!^HOW DARE YOU=ATTACK THE^MIGHTY DR. WILY!$~78~~F4~~00~}#090#066
+~F9~~78~
+¿¡Qué!?=$~5A~
+¡Tonto!^
+¡Cómo osas=
+atacar al^
+poderoso=
+Dr.Wily!    $~78~~F4~~00~#066
+;00059A07{~F9~~78~YOU ARE...=$~5A~MEGAMAN...^I AM SUNSTAR...^THE DOOMSDAY=WEAPON...^I MUST DESTROY=ALL INFERIOR^LIFE FORMS!$~78~~F4~~00~}#132#108
+~F9~~78~
+Eres...=$~5A~
+Megaman...^
+Soy Sunstar...^
+El arma del=
+juicio...^
+¡Destruiré a las=
+formas de vida^
+inferiores! $~78~~F4~~00~#108
+|783

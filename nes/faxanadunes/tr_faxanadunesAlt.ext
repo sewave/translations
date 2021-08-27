@@ -1,0 +1,1200 @@
+@00030883-00030AA2-FF
+;00030883{~06~WEAPON_________~05~ARMOR__________~06~SHIELD_________~05~MAGIC__________~04~ITEM___________~06~PLAYER_________~09~____RANK:______~09~NEXT_EXP:______~09~WEAPON:________~09~_ARMOR:________~09~SHIELD:________~09~_MAGIC:________~09~__ITEM:________~09~NOVICE_________~09~ASPIRANT_______~09~BATTLER________~09~FIGHTER________~09~ADEPT__________~09~CHEVALIER______~09~VETERAN________~09~WARRIOR________~09~SWORDMAN_______~09~HERO___________~09~SOLDIER________~09~MYRMIDON_______~09~CHAMPION_______~09~SUPERHERO______~09~PALADIN________~09~LORD___________~09~NO_WEAPON______~09~NO_ARMOR_______~09~NO_SHIELD______~09~NO_MAGIC_______~09~NO_ITEM________}#646#544
+~04~ARMA___________
+~06~ARMDRA_________
+~06~ESCUDO_________
+~05~MAGIA__________
+~06~OBJETO_________
+~07~JUGADOR________
+~09~___RANGO:______
+~09~PRÓXIMO:_______
+~09~__ARMA:________
+~09~ARMDRA:________
+~09~ESCUDO:________
+~09~_MAGIA:________
+~09~OBJETO:________
+~09~NOVATO_________
+~09~ASPIRANTE______
+~09~LUCHADOR_______
+~0B~COMBATIENTE____
+~09~ADEPTO_________
+~09~CABALLERO______
+~09~VETERANO_______
+~09~GUERRERO_______
+~0A~ESPADACHÍN_____
+~09~HÉROE__________
+~09~SOLDADO________
+~09~MIRMIDÓN_______
+~07~CAMPEÓN________
+~0A~SUPERHÉROE_____
+~09~PALADÍN________
+~09~LORD___________
+~08~SIN_ARMA_______
+~0C~SIN_ARMADURA___
+~0A~SIN_ESCUDO_____
+~09~SIN_MAGIA______
+~0A~SIN_OBJETO_____#544
+|544
+@000311CE-00031212-FF
+;000311CE{Mantra_is_in_the_wrong._________________________Enter_your_mantra.___}#069#069
+__Tu_mantra_está_mal.__
+_______________________
+_Introduce_tu_mantra.__#069
+|69
+@000312C4-000312D5-FF
+;000312C4{_DEL_END__________}#018#018
+_BOR_FIN__________#018
+|18
+@00031B91-00031E00-FF
+;00031B91{~0D~HAND_DAGGER____~0D~LONG_SWORD_____~0D~GIANT_BLADE____~0D~DRAGON_SLAYER__~0D~LEATHER_ARMOR__~0D~STUDDED_MAIL___~0D~FULL_PLATE_____~0D~BATTLE_SUIT____~0D~SMALL_SHIELD___~0D~LARGE_SHIELD___~0D~MAGIC_SHIELD___~0D~BATTLE_HELMET__~0D~DELUGE_________~0D~THUNDER________~0D~FIRE___________~0D~DEATH__________~0D~TILTE__________~0D~RING_OF_ELF____~0D~RUBY_RING______~0D~RING_OF_DWORF__~0D~DEMONS_RING____~0D~KEY_A__________~0D~KEY_K__________~0D~KEY_Q__________~0D~KEY_J__________~0D~KEY_JO_________~0D~MATTOCK________~0D~ROD____________~0D~CRYSTAL________~0D~LAMP___________~0D~HOUR_GLASS_____~0D~BOOK___________~0D~WING_BOOTS_____~0D~RED_POTION_____~0D~BLACK_POTION___~0D~ELIXIR_________~0D~PENDANT________~0D~BLACK_ONIX_____~0D~FIRE_CRYSTAL___}#741#624
+~0D~DAGA_DE_MANO___
+~0D~ESPADA_LARGA___
+~0D~HOJA_GIGANTE___
+~0D~MATADRAGONES___
+~0E~ARMADURA_CUERO_
+~0D~TACHONADA______
+~0E~PLACA_COMPLETA_
+~0D~TRAJE_BATALLA__
+~0E~ESCUDO_PEQUEÑO_
+~0D~ESCUDO_GRANDE__
+~0D~ESCUDO_MÁGICO__
+~0D~CASCO_BATALLA__
+~0D~DILUVIO________
+~0D~TRUENO_________
+~0D~FUEGO__________
+~0D~MUERTE_________
+~0D~LADEO__________
+~0D~ANILLO_ÉLFICO__
+~0D~ANILLO_RUBÍ____
+~0D~ANILLO_ENANO___
+~0E~ANILLO_DEMONIO_
+~0D~LLAVE_A________
+~0D~LLAVE_K________
+~0D~LLAVE_Q________
+~0D~LLAVE_J________
+~0D~LLAVE_JO_______
+~0D~PIQUETA________
+~0D~VARA___________
+~0D~CRISTAL________
+~0D~LÁMPARA________
+~0D~RELOJ_ARENA____
+~0D~LIBRO__________
+~0D~BOTAS_ALADAS___
+~0D~POCIÓN_ROJA____
+~0D~POCIÓN_NEGRA___
+~0D~ELIXIR_________
+~0D~COLGANTE_______
+~0D~ÓNICE_NEGRO____
+~0D~CRISTAL_FUEGO__#624
+|624
+@00034310-00034716-FF
+;00034310{Hello.=Could I help youwith anything.^What=would you like?~FF~}#065#059
+Hola.=¿Puedo ayudarte=con algo?^
+¿Qué te=gustaría?=        ~FF~#059
+;0003434B{Thank you=for shopping.~FF~}#027#024
+Gracias por el=cambio. ~FF~#024
+;00034363{This is not=enough Golds.~FF~}#029#026
+No es suficiente
+Oro.     ~FF~#026
+;0003437D{Anything else?~FF~}#018#015
+¿Algo más?    ~FF~#015
+;0003438C{Come back again.~FF~}#020#017
+Vuelve otra vez.~FF~#017
+;0003439D{You can't carry=any more.~FF~}#029#026
+No puedes cargar
+con más. ~FF~#026
+;000343B7{Dried meat to=bring energy=for 50 Golds.~FF~}#044#041
+La carne seca te
+da energía por=
+50 Oros. ~FF~#041
+;000343E0{Dried meat to=bring energy=for 150 Golds.~FF~}#045#042
+La carne seca te
+da energía por=
+150 Oros. ~FF~#042
+;0003440A{Dried meat to=bring energy=for 180 Golds.~FF~}#045#042
+La carne seca te
+da energía por=
+180 Oros. ~FF~#042
+;00034434{Dried meat to=bring energy=for 250 Golds.~FF~}#045#042
+La carne seca te
+da energía por=
+250 Oros. ~FF~#042
+;0003445E{Dried meat to=bring energy=for 350 Golds.~FF~}#045#042
+La carne seca te
+da energía por=
+350 Oros. ~FF~#042
+;00034488{Dried meat to=bring energy=for 500 Golds.~FF~}#045#042
+La carne seca te
+da energía por=
+500 Oros. ~FF~#042
+;000344B2{Dried meat to=bring energy=for 800 Golds.~FF~}#045#042
+La carne seca te
+da energía por=
+800 Oros. ~FF~#042
+;000344DC{Hello.=I sell keys.=What=would you like?~FF~}#044#041
+Hola.=Vendo llaves.=¿Qué te=gustaría?   ~FF~#041
+;00034505{Hello.=I sell tools.=What=would you like?~FF~}#045#042
+Hola.=Vendo útiles.=¿Qué te=gustaría?    ~FF~#042
+;0003452F{Come here=to buy.=Come here=to sell.~FF~}#040#037
+Vengo a comprar.= =Vengo a vender.  ~FF~#037
+;00034554{You don't=have a key.~FF~}#025#022
+No tienes llave.     ~FF~#022
+;0003456A{You have=nothing to buy.~FF~}#028#025
+No tienes=nada a vender.~FF~#025
+;00034583{Which one would=like to sell?~FF~}#033#030
+¿Cual te=gustaría vender?=   ~FF~#030
+;000345A1{What=would you like?~FF~}#024#021
+¿Qué te=gustaría?   ~FF~#021
+;000345B6{I shall give=magic=for 200 Golds.~FF~}#037#034
+Te daré magia=por 200 Oros.=     ~FF~#034
+;000345D8{Watch your=remaining=power level.~FF~}#037#034
+Vigila tu salud=restante.=       ~FF~#034
+;000345FA{Do you know the=magic of fire?=I'll teach you=for 3000 Golds.~FF~}#065#062
+¿Conoces la    =magia de fuego?=
+Te la enseñaré=por 3000 Oros.~FF~#062
+;00034638{Don't rely too=much on magic.~FF~}#033#030
+No confíes mucho
+en la magia. ~FF~#030
+;00034656{Do you want=a martial art=lesson=for 200 Golds?~FF~}#051#048
+¿Una lección de=artes marciales=por 200 Oros?  ~FF~#048
+;00034686{Do you want=a treatment?~FF~}#028#025
+¿Quieres=tratamiento?   ~FF~#025
+;0003469F{Don't try=too hard.~FF~}#023#020
+No te fuerces.=    ~FF~#020
+;000346B3{It is 250 Golds=,please.~FF~}#028#025
+Son 250 Oros,=por favor.~FF~#025
+;000346CC{It is 500 Golds=,please.~FF~}#028#025
+Son 500 Oros,=por favor.~FF~#025
+;000346E5{It is 1000 Golds,please.~FF~}#028#025
+Serán 1000 Oros,gracias.~FF~#025
+;000346FE{It is 2500 Golds,please.~FF~}#028#025
+Son 2500 Oros,  gracias.~FF~#025
+|1031
+@00034717-00034B28-FF
+;00034717{It is 1800 Golds,please.~FF~}#028#025
+Son 1800 Oros,  gracias.~FF~#025
+;00034730{It is 3000 Golds,please.~FF~}#028#025
+Son 3000 Oros,  gracias.~FF~#025
+;00034749{You need peace=of mind.=I will meditate=with you.~FF~}#053#050
+Necesitas paz=mental.     =Meditaré     =contigo.~FF~#050
+;0003477B{I shall give youa title.='~FB~'^Make sure you=live up to it.~FF~}#067#058
+Te daré un=título.='~FB~'^
+Asegúrate de=estar a la=altura.   ~FF~#058
+;000347B5{Don't have=negative=thoughts.^Remember=your mantra.~FF~}#058#052
+No pienses=negativamente.^
+Recuerda tu=mantra.      ~FF~#052
+;000347E9{Do you want=to hear it=once more?~FF~}#037#034
+¿Quieres oírlo=una vez más?      ~FF~#034
+;0003480B{I've been on=a long journey.^I came back to=my home town=to find it is=almost deserted.^The gate is=closed,=people are gone,^and the walls=are crumbling.^I wonder=what happened.~FF~}#193#178
+Vengo de un=
+largo viaje.^
+Volví a mi=
+ciudad natal=
+para encontrarla
+casi desértica.^
+El portón está=
+cerrado,=
+la gente se ha=
+ido y los muros^
+se desmoronan.^
+Me pregunto que=
+ha pasado.~FF~#178
+;000348BD{I want you=to see the king=right away^although you've=just arrived.~FF~}#074#068
+Quiero que veas=
+al rey de=
+inmediato aunque
+acabes de^
+llegar.        ~FF~#068
+;00034901{Go straight=ahead and you'llfind the town ofApolune.~FF~}#056#053
+Ve hacia=adelante y=hallarás la=ciudad de^Apolune.  ~FF~#053
+;00034936{There is a mark=of "Jack"=by the key hole.~FF~}#046#043
+Pone "Jack" en=
+el ojo de la=
+cerradura.    ~FF~#043
+;00034961{This is the Elf=town of Eolis.^It is located atthe bottom of=the World Tree^and the Elves=live here.^Go to see the=Guru before you=see the king.~FF~}#157#145
+Esta es la=
+ciudad Elfa de=
+Eolis.^
+Está ubicada al=
+pie del árbol=
+Mundial y los^
+Elfos viven=
+aquí.  ^
+Ve a ver al Gurú
+antes de ir a  =
+ver al rey.    ~FF~#145
+;000349F2{There are many=rings with=different magic.^Look for them=one by one.~FF~}#075#069
+Hay varios=
+anillos con=
+magia diferente.^
+Búscalos uno a=
+uno.         ~FF~#069
+;00034A37{If you are goingto see the king,take this ring.^This ring will=identify you.=Don't lose it.~FF~}#098#092
+Si vas a ir a=
+ver al rey, toma
+este anillo. ^
+Este anillo te=
+identificará.  =
+No lo pierdas.  ~FF~#092
+;00034A93{Visit all Gurus=on your way.^You'll get a=title according=to your=experience.~FF~}#084#078
+Visita a todos =
+los Gurús.     ^
+Conseguirás un=
+título según tu=
+experiencia.  ~FF~#078
+;00034AE1{The last well isalmost dry.~FF~}#031#028
+El último pozo=
+casi se secó~FF~#028
+;00034AFD{There is=a fountain=in the town of=Forepaw.~FF~}#047#044
+Hay una fuente=
+en la ciudad de=
+Forepaw.    ~FF~#044
+|1042
+@00034B29-00034F46-FF
+;00034B29{The Dwarfs are=already in town.It looks like=the end is near.~FF~}#065#062
+Los Enanos ya=
+han llegado.   =
+Parece que el  =
+fin se acerca. ~FF~#062
+;00034B67{Do you have=a weapon=for fighting?~FF~}#038#035
+¿Tienes un arma=
+para pelear?=
+     ~FF~#035
+;00034B8A{I can't=let you go.~FF~}#023#020
+No puedo=soltarte. ~FF~#020
+;00034B9E{The King is=waiting for you.~FF~}#032#029
+El Rey te está=
+esperando.   ~FF~#029
+;00034BBB{Good luck!~FF~}#014#011
+¡Suerte!  ~FF~#011
+;00034BC6{Glad you could=come.=Disaster has=befallen us.^The Elf=fountain water,=our life source,has stopped.^The wells are=drying up.^Many men went=out and nobody=came back.^You are our lasthope.=I shall give you1500 Golds.^Prepare=for your journeywith this money.^It will be a=dangerous=journey.^Take care=of yourself.~FF~}#335#311
+Me alegra que=
+hayas venido.=
+Hemos caído en=
+desgracia.^
+La fuente de=
+agua Elfa,=
+nuestra fuente=
+vital,^
+se ha detenido.^
+Los pozos se=
+están secando.^
+Varios hombres=
+partieron y=
+nadie volvió. ^
+Eres nuestra=
+última=
+esperanza. Te=
+daré 1500 Oros.^
+Prepárate para=
+tu viaje con=
+este dinero.^
+Será un viaje=
+peligroso.^
+Cuídate.~FF~#311
+;00034CFD{There is nothingmore I can do tohelp you.^Looking forward=to good news.~FF~}#078#072
+No hay nada más=
+que pueda hacer=
+para ayudarte.^
+Espero buenas=
+nuevas.   ~FF~#072
+;00034D45{The Dwarfs=are robbing=the Elves' moneyand jewelry.~FF~}#055#052
+Los Enanos roban
+el dinero y las=
+joyas a los=
+Elfos. ~FF~#052
+;00034D79{A meteorite fellinto the World=Tree and=created havoc.^At the end of=the confusion,^the Dwarfs of=the underworld=came up^and attacked=the Elves.=Nobody knows=the reason.~FF~}#182#170
+Un meteorito=
+cayó en el árbol
+del mundo y =
+causó estragos.^
+Al final de la=
+confusión,^
+los Enanos del=
+inframundo=
+vinieron y=
+atacaron a los^
+Elfos.=
+Nadie sabe la=
+razón.      ~FF~#170
+;00034E23{Listen to=people.^You'll only get=frustrated=if you just walkaround.~FF~}#075#069
+Escucha a la=
+gente.      ^
+Solo te=
+frustrarás si=
+vagabundeas por=
+ahí.~FF~#069
+;00034E68{Don't try=too hard.~FF~}#023#020
+No te esfuerces.
+   ~FF~#020
+;00034E7C{Welcome to the=town of Apolune.~FF~}#035#032
+Bienvenido a=
+Apolune.          ~FF~#032
+;00034E9C{There is the=town of Forepaw=ahead of you.~FF~}#046#043
+Hay la ciudad de
+Forepaw delante=
+tuyo.     ~FF~#043
+;00034EC7{There are Dwarfsall over in the=Tower of Trunk.^Go out of town,=turn right and=go straight,^then you'll findthe Tower=of Trunk.~FF~}#137#128
+Hay Enanos por=
+toda la Torre=
+del Tronco.^
+Sal de la=
+ciudad, gira a=
+la derecha y ve=
+recto,^
+entonces=
+hallarás la=
+Torre del=
+Tronco.~FF~#128
+|1054
+@00034F47-000353BF-FF
+;00034F47{Good luck.~FF~}#014#011
+Suerte.   ~FF~#011
+;00034F52{You should have=a shield. It'll=protect you fromDwarf attacks.~FF~}#066#063
+Deberías tener=
+un escudo. Te  =
+protegerá de   =
+ataques Enanos.~FF~#063
+;00034F91{The Mattock=should be in theTower.^You can get it=by defeating a=Dwarf.~FF~}#078#072
+La Piqueta=
+estará en la=
+Torre.^
+Puedes=
+conseguirla=
+venciendo a un=
+Enano.~FF~#072
+;00034FD9{We blocked the=passage to the=next town by=building a wall,^but the Dwarfs=keep coming.~FF~}#094#088
+Bloqueamos el=
+paso a la=
+siguiente ciudad
+construyendo un^
+muro, pero los=
+Enanos no cesan.~FF~#088
+;00035031{If you have the=Mattock,you can=break the wall,^but if you don'thave it...~FF~}#081#075
+Si tienes la=
+Piqueta, puedes=
+romper el muro,^
+pero si no la=
+tienes...      ~FF~#075
+;0003507C{You need a key.~FF~}#019#016
+Necesita llave.~FF~#016
+;0003508C{You need a=different key.~FF~}#029#026
+Necesitas otra=llave.    ~FF~#026
+;000350A6{Are you hurt?=Our doctor=can help.~FF~}#038#035
+¿Herido?=
+Nuestro doctor=
+ayudará.  ~FF~#035
+;000350C9{Watch out for=the jar of=poison.^The poison will=take your energyaway.~FF~}#077#071
+Cuidado con el=
+tarro de veneno.^
+El veneno se=
+llevará tu=
+energía.      ~FF~#071
+;00035110{Did you learn=the Guru's=mantra?^The mantra will=return you to=this world.^Hold on to the=mantra.~FF~}#107#098
+¿Aprendiste el=
+mantra del Gurú?^
+El mantra te=
+devolverá a este
+mundo.   ^
+Aférrate al=
+mantra.       ~FF~#098
+;00035172{There is a=secret Guru in=the Tower of=Fortress.^You'll find=important infor-mation and=a key there.~FF~}#107#101
+Hay un Gurú=
+secreto en la=
+Torre de la=
+Fortaleza.^
+Hallarás=
+información=
+importante y una
+llave allí.   ~FF~#101
+;000351D7{You can carry 8=items. They are=all important.=Choose well.~FF~}#063#060
+Puedes llevar 8=
+objetos. Todos=
+son importantes.
+Elige bien. ~FF~#060
+;00035213{This is the townof Forepaw.~FF~}#031#028
+Esto es Forepaw.
+           ~FF~#028
+;0003522F{If the fountain=flows,water willcome back to thetown.~FF~}#057#054
+Si la fuente=
+fluye, el agua=
+volverá a la=
+ciudad.     ~FF~#054
+;00035265{Water from 3=springs flows=into the=fountain.^Find the 3=springs and=return the waterto the fountain.~FF~}#108#102
+El agua de 3=
+manantiales=
+fluye a la=
+fuente.^
+Halla los 3=
+manantiales y=
+devuelve el agua
+a la fuente.   ~FF~#102
+;000352CB{Water is flowingin our fountain.Thanks to=your help.~FF~}#056#053
+El agua fluye a=
+nuestra fuente.=
+Gracias por=
+ayudar. ~FF~#053
+;00035300{I hear=quite often=about a fountainin the sky.^When you go downfrom the town,^you'll come to aplace where the=sky opens above.^They say a=fountain is up=in the sky,^but you need=Wing Boots...~FF~}#207#192
+Escucho a menudo
+sobre una fuente
+en el cielo. ^
+Cuando bajas de=
+la ciudad,^
+llegas a un=
+lugar en el que=
+el cielo se=
+abre.^
+Dicen que hay=
+una fuente en el
+cielo,^
+pero necesitas=
+unas Botas=
+Aladas...~FF~#192
+|1145
+@000353C0-000357D2-FF
+;000353C0{If you can push=the rock away=from the=fountain,^you'll find the=way to Mascon.^But, you can't=move it without=the Ring of=Ruby.^The old man of=the spring will=have it.=Ask him.~FF~}#190#178
+Si puedes=
+apartar la roca=
+lejos de la=
+fuente,^
+encontrarás el=
+camino a Mascon.^
+Pero, no puedes=
+moverla sin el=
+Anillo de Rubí.^
+El anciano del=
+manantial lo=
+tiene.      =
+Pregúntale.~FF~#178
+;00035472{There is a=spring=in the tower of=Fortress.^You'll find the=dried up=fountain^and the entranceto the tower=right above=this town.^So long.~FF~}#151#139
+Hay un manantial
+en la torre de=
+la Fortaleza.^
+Hallarás la=
+fuente seca y la
+entrada a la=
+torre justo^
+encima de esta=
+ciudad.^
+¡Hasta la vista! ~FF~#139
+;000354FD{The Dwarf=who lives=in the tower=has Wing boots.^When you get=them, look for=a fountain=in the sky.~FF~}#106#100
+El Enano que=
+vive en la torre
+tiene las Botas=
+Aladas.^
+Tras obtenerlas,
+busca una fuente
+en el cielo.  ~FF~#100
+;00035561{When you push=the rock=away from the=fountain,^you'll find=the passage=to Mascon,^but you need=the Ring=of Ruby.~FF~}#122#113
+Cuando apartes=
+la roca de la=
+fuente,^
+encontrarás el=
+paso a Mascon,^
+pero necesitarás
+el Anillo de=
+Rubí.           ~FF~#113
+;000355D2{Look for=Wing Boots.~FF~}#024#021
+Busca Botas=
+Aladas. ~FF~#021
+;000355E7{Go below the=blue sky. You'llfind a fountain=in the sky.~FF~}#060#057
+Ve bajo el cielo
+azul. Hallarás=
+una fuente en el
+cielo.   ~FF~#057
+;00035620{Use this key=to open the doorbelow.^You'll find the=first spring.~FF~}#072#066
+Abre la puerta=
+con esta llave.^
+Hallarás el=
+primer     =
+manantial.~FF~#066
+;00035662{If you don't=have a Joker=key,=come back again.~FF~}#051#048
+Si no tienes la=
+llave Joker,=
+vuelve otro=
+día.  ~FF~#048
+;00035692{Ho, ho, ho.=I'll tell you=about the water=of the spring.^.....=.....=Oops!=..fallen asleep.^The water was=poisoned.^The posion is=almost gone so=it's all right=to wake him up.^Watch.=..... .....=Something is=wrong...^Oops!~FF~}#241#223
+Jo, jo, jo.=
+Te hablaré del=
+agua del=
+manantial.^
+.....=
+.....=
+¡Oops!=
+...me dormí.^
+El agua fue=
+envenenada.^
+El veneno ya=
+casi se ha ido=
+así que está=
+bien^
+despertarle.^
+Observa.=
+..... .....=
+Algo va mal...^
+¡Oops!         =
+        ~FF~#223
+;00035771{Get the key fromthe Guri in the=tower of=Fortress and^search for the=undiscovered=first fountain.~FF~}#104#098
+Consigue la=
+llave del Gurú=
+de la torre de=
+la Fortaleza y^
+busca la    =
+desconocida=
+primera fuente.~FF~#098
+|1043
+@000357D3-00035BE7-FF
+;000357D3{You've done wellto get here.=This is the=spring of Trunk.^You need Elixir=to revive the=spring.^Will you give meyour medicine?~FF~}#136#127
+Lo hiciste bien=
+llegando aquí.=
+Este es el=
+manantial del^
+Tronco.^
+Necesitas Elixir
+para revivirlo.^
+¿Me darás tu  =
+medicina?      ~FF~#127
+;00035852{This spring willflow again.=There are=two more.^You'd better go=and find them.~FF~}#085#079
+El manantial=
+fluirá de nuevo.
+Hay dos más.^
+Será mejor que=
+vayas a=
+encontrarlos.~FF~#079
+;000358A1{Come back with=the medicine.~FF~}#032#029
+Vuelve con la=
+medicina.     ~FF~#029
+;000358BE{As soon as waterflows in the=fountain,^go to Mascon andfind the poison=the Dwarfs hide,^otherwise the=Elves will be=destroyed.~FF~}#136#127
+En cuanto el=
+agua fluya en la
+fuente,^
+ve a Mascon y=
+encuentra el=
+veneno que=
+ocultan los^
+Enanos, sino los
+Elfos serán=
+destruidos.~FF~#127
+;0003593D{Thank you for=coming.^I will revive=the spring=right away.~FF~}#065#059
+Gracias por=
+venir.^
+Reviviré el=
+manantial ahora=
+mismo.     ~FF~#059
+;00035978{I'll give you=the Ring of=Ruby.^Now, push the=rock away from=the fountain.~FF~}#081#075
+Te daré el=
+Anillo de Rubí.^
+Ahora, aparta la
+roca de la    =
+fuente.         ~FF~#075
+;000359C3{Trust=your power.^You are the=chosen warrior=to rescue=this world.~FF~}#073#067
+Confía en tu=
+poder.^
+Eres el guerrero
+elegido para =
+salvar el mundo.~FF~#067
+;00035A06{What business doyou have here?^This is the=misty town of=Mascon.~FF~}#071#065
+¿Qué te trae por
+aquí?      ^
+Esta es la=
+brumosa ciudad=
+de Mascon.~FF~#065
+;00035A47{The tower of=Forepaw is stillfar away.^Prepare well=and go.~FF~}#066#060
+La torre de=
+Forepaw aún está
+lejos.     ^
+Prepárate bien y
+ve.~FF~#060
+;00035A83{When the meteor-ite is dissolvedin water,^it becomes=poison which=will bring=sickness.^It started when=the Dwarfs=brought it into=the World Tree.~FF~}#155#146
+Cuando el=
+meteorito se=
+disuelve en=
+agua,^
+se vuelve un=
+veneno que trae=
+enfermedad.^
+Empezó cuando=
+los Enanos lo=
+llevaron dentro=
+del árbol^
+mundial. ~FF~#146
+;00035B15{Did you get the=pendant? It willstrengthen your=offense power.~FF~}#066#063
+¿Conseguiste el=
+colgante?      =
+Fortalecerá tu=
+poder ofensivo.~FF~#063
+;00035B54{There are storesoutside town.^They sell usefulitems,^though it's=inconvenient to=get there.^I wonder if you=could find them.Look up while=you walk.~FF~}#160#148
+Hay tiendas=
+fuera de la=
+ciudad.^
+Venden objetos=
+útiles,^
+aunque es=
+difícil llegar=
+allí.^
+Me pregunto si=
+podrías=
+encontrarlas.^
+Mira mientras=
+caminas.  ~FF~#148
+|1045
+@00035BE8-00035FE8-FF
+;00035BE8{It is a large=and beautiful=shield.~FF~}#039#036
+Es un voluminoso
+y hermoso=
+escudo.  ~FF~#036
+;00035C0C{The meteorite ismeditated on=at the tower of=Suffer.^You'll find the=Tower above a=Guru.=Be careful.~FF~}#107#101
+El meteorito es=
+meditado en la=
+torre del=
+Sufrimiento.^
+Hallarás la=
+Torre tras un=
+Gurú.=
+Ten cuidado.  ~FF~#101
+;00035C71{You need Wing=Boots^in order to get=to the misty=town of Victim.^Look for them inthe Tower of=Suffer.~FF~}#111#102
+Necesitas las=
+Botas Aladas=
+para llegar a la
+brumosa Victim.^
+Búscalas en la=
+Torre del  =
+Sufrimiento.   ~FF~#102
+;00035CD7{This town has=been covered=with a mist ever^since the mete-=orite hit the=town.^Some areas=might still=be burning.~FF~}#124#115
+Esta ciudad ha=
+estado cubierta=
+de bruma desde=
+que el meteorito^
+golpeó la=
+ciudad.^
+Algunas zonas=
+aún están=
+ardiendo.~FF~#115
+;00035D4A{The house=outside town wasabandoned^and the Dwarfs=are living=there.^Watch out for=them.~FF~}#098#089
+La casa fuera de
+la ciudad fue=
+abandonada y los
+Enanos viven^
+allí. =
+Ten cuidado con=
+ellos.~FF~#089
+;00035DA3{You'll get to=the Tower of=Suffer soon.~FF~}#043#040
+Casi llegaste a=
+Torre del =
+Sufrimiento.~FF~#040
+;00035DCB{The pendant has=been a treasure=of the town.^But it is best=for the town if=you keep it.~FF~}#095#089
+El colgante ha=
+sido el tesoro=
+de la ciudad.^
+Pero es mejor=
+para la ciudad=
+que lo tengas. ~FF~#089
+;00035E24{The Dwarfs are=chanting their=mantras^to a segment of=the meteorite.^They believe it=has special=cosmic power.~FF~}#120#111
+Los Enanos están
+cantando sus=
+mantras a un =
+segmento del^
+meteorito.^
+Creen que tiene=
+un poder=
+especial=
+cósmico. ~FF~#111
+;00035E93{The meteorite=which was in theTower of Suffer^has been moved=to the Tower of=Mist.^The Dwarfs must=have learned of=your coming.~FF~}#137#128
+El meteorito que
+estaba en la =
+Torre del=
+Sufrimiento fue^
+movido a la=
+Torre de la=
+Bruma.^
+Los Enanos=
+debían saber que
+venías.      ~FF~#128
+;00035F13{They say the=Hour Glass will=enable you^to move around=while the time=stops.~FF~}#083#077
+Dicen que el=
+Reloj de Arena=
+te permite=
+moverte^
+mientras el  =
+tiempo se para.~FF~#077
+;00035F60{The Hour Glass=will exhaust=your energy,^so be careful=when you use it.~FF~}#078#072
+El Reloj de=
+Arena agotará tu
+energía,^
+así que ten=
+cuidado al=
+usarlo.    ~FF~#072
+;00035FA8{Welcome to the=Town of Victim.^I have been=unable to leave=town.~FF~}#071#065
+Bienvenido a=
+Victim.        ^
+No he sido capaz
+de dejar la=
+ciudad.~FF~#065
+|1025
+@00035FE9-00036414-FF
+;00035FE9{It is dangerous=to leave town=unless you have=a magic shield.~FF~}#065#062
+Es peligroso=
+irse de la=
+ciudad si no=
+tienes un^
+escudo mágico.~FF~#062
+;00036027{There is a magichall outside=town.~FF~}#038#035
+Hay un salón=
+mágico fuera de=
+aquí.~FF~#035
+;0003604A{There is a magiccane which will=give you magic=power.~FF~}#057#054
+Hay una vara=
+mágica que te=
+dará poder  =
+mágico.      ~FF~#054
+;00036080{The door to the=Capital town=below is open.=Go to it now.~FF~}#061#058
+La puerta a la=
+ciudad Capital=
+está abierta.=
+Ve ahora.    ~FF~#058
+;000360BA{It was only a=rumor. Sorry=about that.^I got this armorin exchange for=a bottle.^If you wish,=you can have it.~FF~}#120#111
+Solo era un=
+rumor.=
+Lo siento.^
+Conseguí esta=
+armadura a=
+cambio de una=
+botella.^
+Si lo deseas,=
+puedes=
+quedártela.~FF~#111
+;00036129{I'll have a=drink.=Well...=not yet.~FF~}#039#036
+Beberé algo.=
+Bueno...=
+Todavía no.  ~FF~#036
+;0003614D{Looks like=I'm lost.~FF~}#024#021
+Parece que me=
+perdí.~FF~#021
+;00036162{I'm lost.=My magic=does not work.~FF~}#037#034
+Me perdí.=
+Mi magia no=
+funciona.  ~FF~#034
+;00036184{It can be magic=of justice=or a magic of=destruction.^It all depends=on who uses it.~FF~}#091#085
+Puede ser magia=
+de justicia o=
+magia de   =
+destrucción.^
+Todo depende de=
+quien la use.~FF~#085
+;000361D9{Magics have=individual=powers.~FF~}#034#031
+Cada magia tiene
+un poder.     ~FF~#031
+;000361F8{Magic of offenceis effective,=but it consumes=power.~FF~}#056#053
+La magia de=
+ofensa es=
+efectiva,^
+pero consume=
+poder. ~FF~#053
+;0003622D{When you hold=the Dwarf's=meteorite in=your hand,^it will become=Black Onyx with=power inside.~FF~}#101#095
+Cuando tengas el
+meteorito Enano=
+en tu mano,    ^
+se volverá el =
+ónice Negro con=
+poder interior.~FF~#095
+;0003628C{If you go=straight ahead,^you will get to=the Tower of=Mist.^If you defeat=the dwarf who=lives in the=Tower^and get the=meteorite,=come back here.~FF~}#159#147
+Si vas hacia=
+adelante,^
+encontrarás la=
+Torre de la=
+Bruma.^
+Si vences al=
+Enano que vive=
+en la Torre y=
+consigues el   ^
+meteorito,     =
+vuelve aquí.   ~FF~#147
+;0003631F{As long as thereare crazed=Dwarfs,^the deadly=threat of the=meteorite^will loom over=the Elves.^Use this key to=open the next=door to get to=Conflate.^Fight for the=Elves.~FF~}#187#172
+Mientras haya=
+enanos Locos,^
+la amenaza=
+mortal del=
+meteorito caerá=
+sobre los Elfos.^
+Usa esta llave=
+para abrir la=
+próxima puerta=
+que lleva a^
+Conflate.  ^
+Pelea por los=
+Elfos.~FF~#172
+;000363CB{I give keys to=travelers like=yourself.^You have an="Ace" key,=don't you?~FF~}#080#074
+Le doy llaves a=
+viajeros como=
+tú.^
+Tienes una llave
+"Ace",        =
+¿verdad?~FF~#074
+|1068
+@00036415-000368D3-FF
+;00036415{This is a=trading town=called=Conflate.~FF~}#043#040
+Esta es la=
+ciudad mercante=
+de Conflate.~FF~#040
+;0003643D{You'll find the=legendary shieldand helmet^in the World of=Branch.~FF~}#073#067
+Hallarás el=
+escudo y el=
+casco=
+legendarios en^
+el Mundo de=
+Rama.    ~FF~#067
+;00036480{The town is=surrounded by=doors for=protection.~FF~}#051#048
+Las puertas=
+rodean la=
+ciudad por=
+protección.   ~FF~#048
+;000364B0{When you get theshield and=helmet, go to=see the Guru.~FF~}#058#055
+Cuando consigas=
+el escudo y el=
+casco,ve a ver=
+al Gurú.~FF~#055
+;000364E7{I am a guardian=of the Guru.=He is an im-=portant person.~FF~}#061#058
+Soy el guardián=
+del Gurú.=
+Es una persona =
+importante.    ~FF~#058
+;00036521{There should be=something you=can get.~FF~}#042#039
+Deberías poder=
+conseguir alguna
+cosa.  ~FF~#039
+;00036548{Don't rely on=your magic power^during the finalbattle with the=Dwarfs.~FF~}#077#071
+No confíes en tu
+poder mágico=
+durante la=
+batalla final ^
+con los Enanos.~FF~#071
+;0003658F{The town used toprosper from=trading with theDwarfs.~FF~}#056#053
+La ciudad era=
+próspera por=
+comerciar con=
+los Enanos.~FF~#053
+;000365C4{They are=terrible now,^but they used tobe skilled=craftsmen.~FF~}#067#061
+Ahora son=
+terribles,^
+pero solían ser=
+artesanos=
+habilidosos. ~FF~#061
+;00036601{I used to go to=the town of=Dwarfs quite=often^when we had=business with=them.~FF~}#085#079
+Solía ir a la=
+ciudad de los=
+Enanos a menudo=
+cuando tenía^
+negocios con=
+ellos.  ~FF~#079
+;00036650{Do you want to=know what I do?^I am=the pickpocket=Gingi.^I'm an importantperson around=here.~FF~}#103#094
+¿Quieres saber=
+lo que hago?^
+Soy el=
+carterista=
+Gingi.^
+Soy una persona=
+importante por=
+aquí.    ~FF~#094
+;000366AE{Don't rely on=your magic power^only during the=final fight=against the=Dwarfs.^You can wear theBattle Helmet=and Battle Suit^only when you=have the Dragon=Slayer.^You will not be=able to return=us the Dragon=Slayer^until we have=true peace here.~FF~}#264#246
+No confíes solo=
+en tu poder=
+mágico durante=
+la batalla final^
+contra los=
+Enanos.^
+Solo puedes=
+llevar el Casco=
+de Batalla y el=
+Traje de Batalla^
+si tienes la=
+Matadragones.  ^
+No podrás=
+devolvernos la=
+Matadragones=
+hasta que^
+tengamos paz=
+verdadera aquí.~FF~#246
+;000367A4{Don't rely on=your magic power^alone during thelast fight=against the=Dwarfs.^You can wear theBattle Helmet=and Battle Suit^only when you=have the Dragon=Slayer.^You will not be=able to return=us the Dragon=Slayer^until we have=true peace here.^This ring will=open the door toDartmoor. Take=it with you.~FF~}#325#304
+No confíes solo=
+en tu poder=
+mágico durante=
+la última^
+batalla contra=
+los Enanos.^
+Solo puedes=
+llevar el Casco=
+y el Traje de=
+Batalla si^
+tienes la    =
+Matadragones. ^
+No podrás=
+devolvernos la=
+Matadragones=
+hasta que   ^
+tengamos paz   =
+verdadera aquí.^
+Este anillo=
+abrirá la puerta
+hacia Dartmoor.=
+Llévatelo.    ~FF~#304
+|1215
+@000368D4-00036CF4-FF
+;000368D4{Daydreak is a=town at the=border.~FF~}#037#034
+Daydreak es una=
+ciudad al borde. ~FF~#034
+;000368F6{I have friends=in Dartmoor^which is known=as an evil=place.~FF~}#066#060
+Tengo amigos en=
+Dartmoor,   =
+conocido como un
+lugar maligno.~FF~#060
+;00036932{Look for the=Battle Suit.~FF~}#029#026
+Busca el Traje=
+Batalla.  ~FF~#026
+;0003694C{Did you find themagic cane?~FF~}#031#028
+¿Hallaste la=
+vara mágica?  ~FF~#028
+;00036968{You are the=famous warrior.^You are as good=looking as I've=heard.~FF~}#073#067
+Eres el famoso=
+guerrero.^
+Eres tan    =
+atractivo como=
+había oído.  ~FF~#067
+;000369AB{You are the=warrior everyoneis talking=about.^Could I have=your autograph?^Are you busy=now? Well, will=you come to=visit me?^My name is Moto.Please don't=forget.~FF~}#175#163
+Eres el guerrero
+del que habla=
+todo el mundo.^
+¿Podría tener tu
+autógrafo?^
+¿Estás ocupado?=
+Bueno, ¿vendrás=
+a visitarme?^
+Me llamo Moto.=
+No lo olvides,=
+por favor.     ~FF~#163
+;00036A4E{Look at you!=When did you=last take a=bath?~FF~}#047#044
+¡Mírate!=
+¿Cuando te=
+bañaste por=
+última vez?~FF~#044
+;00036A7A{The Guru of=Conflate has theRing of Dwarfs.~FF~}#047#044
+El Gurú de=
+Conflate tiene=
+el Anillo=
+Enano. ~FF~#044
+;00036AA6{Did you get the=Battle Suit?~FF~}#032#029
+¿Conseguiste =
+Traje Batalla?~FF~#029
+;00036AC3{The castle of=Dartmoor is a=complex maze.~FF~}#045#042
+El castillo de=
+Dartmoor es un=
+laberinto. ~FF~#042
+;00036AED{Is this your=first visit to=this store?=It is my first.~FF~}#059#056
+¿Es tu primera=
+visita a esta=
+tienda?^
+Es mi primera=
+vez.~FF~#056
+;00036B25{Have not seen=you for a while.You'll find a=magic cane^when you get=above the tower=of Pillar.~FF~}#101#095
+No te he visto=
+en un tiempo. =
+Hallarás la vara
+mágica cuando  ^
+te subas a la  =
+torre del Pilar.~FF~#095
+;00036B84{There is the=Castle of=Fraternal^down below the=town of=Dartmoor.~FF~}#072#066
+Ahí está el=
+Castillo de=
+Fraternal,   ^
+bajo la ciudad=
+de Dartmoor.~FF~#066
+;00036BC6{You need the=Demon's Ring^to get into the=fortress of=Zenis.~FF~}#067#061
+Necesitas el=
+Anillo Demonio=
+para entrar a la
+fortaleza Zenis.~FF~#061
+;00036C03{Dragon Slayer isin the hands of=king of the=Dwarfs.~FF~}#055#052
+La Matadragones=
+la tiene el rey=
+de los Enanos.     ~FF~#052
+;00036C37{Defeat the Evil=one with Dragon=Slayer.~FF~}#043#040
+Vence al Maligno
+con la   =
+Matadragones.~FF~#040
+;00036C5F{Go to see the=Guru in the=Castle of=Fraternal.~FF~}#050#047
+Ve a ver al Gurú
+en el Castillo=
+de Fraternal.  ~FF~#047
+;00036C8E{If you see the=Guru, he'll giveyou the Demon's=Ring.~FF~}#056#053
+Si ves al Gurú,=
+te dará el=
+Anillo Demonio. 
+         ~FF~#053
+;00036CC3{Search inside=the castle.=You should find=a Guru.~FF~}#053#050
+Busca dentro del=
+castillo.=
+Debería haber un
+Gurú. ~FF~#050
+|1057
+@00036CF5-00037100-FF
+;00036CF5{The magic of=offence does notwork against theEvil one.~FF~}#058#055
+La magia   =
+ofensiva no =
+funciona contra=
+el Maligno.  ~FF~#055
+;00036D2C{The Dwarfs re-=gard the meteor-ite as a cosmic=messenger.^It is a dreadfulthing as you=already know.^It turns into a=poison when=dissolved in=water.^It is not incon-ceivable that^you would ex-=perience mental=and physical=changes^when you are=near or touch=it.^That is why the=Dwarfs have=changed and gonecrazy.~FF~}#333#312
+Los Enanos ven=
+al meteorito=
+como un=
+mensajero^
+cósmico.^
+Es algo=
+espantoso como=
+ya sabes.^
+Se vuelve veneno
+al disolverse en
+agua.          ^
+No es  =
+inconcebible que=
+experimentes=
+cambios mentales^
+y físicos cuando
+estés cerca o lo
+toques.        ^
+Por ese motivo=
+los Enanos han=
+cambiado y se=
+han vuelto  ^
+locos.         ~FF~#312
+;00036E64{The monster=you've just de-=feated is King=Grieve,^the king of the=Dwarfs. The EvilOne changed his=appearance.^The king pro-=tected the swordfrom the Evil=One^by hiding it=within his own=body.^Use the sword todefeat the Evil=One in the=fortress.^This will open=the door to the=fortress.~FF~}#305#287
+El monstruo al=
+que acabas de=
+vencer es el Rey
+Grieve, el rey^
+de los Enanos.=
+El Maligno=
+cambió su=
+apariencia.^
+El rey protegió=
+la espada del=
+Maligno=
+ocultándola^
+dentro de su=
+propio cuerpo.^
+Usa la espada=
+para derrotar al
+Maligno en la=
+fortaleza.^
+Esto abrirá la=
+puerta a la   =
+fortaleza.     ~FF~#287
+;00036F83{I'll meditate=for you.~FF~}#026#023
+Meditaré por ti.
+      ~FF~#023
+;00036F9A{Glad to have youback safely.^It will take=time,=but the Elves=and the Dwarfs^will become=friends and re-=turn the peace=to this land^as it used to=be. I understandyou will leave^to continue yourjourney.=What a restless=guy!~FF~}#239#224
+Me alegra que=
+hayas vuelto con
+vida.    ^
+Tomará tiempo,=
+pero los Elfos y
+los Enanos=
+volverán a ser^
+amigos y=
+devolverán la=
+paz a esta=
+tierra como^
+solía ser.=
+Comprendo que te
+irás para=
+continuar tu^
+viaje.=
+¡Qué tipo tan=
+inquieto!~FF~#224
+;0003707A{There is the=mark of "Queen"=by the key hole.~FF~}#049#046
+Pone "Queen" en=
+el ojo de la  =
+cerradura.    ~FF~#046
+;000370A8{There is the=mark of "King"=by the key hole.~FF~}#048#045
+Pone "King" en=
+el ojo de la =
+cerradura.     ~FF~#045
+;000370D5{There is the=mark of "Ace"=by the key hole.~FF~}#047#044
+Pone "Ace" en el
+ojo de la  =
+cerradura.     ~FF~#044
+|1036
+@00037101-000373C9-FF
+;00037101{There is the=mark of "Joker"=by the key hole.~FF~}#049#046
+Pone "Joker" en=el ojo de la=cerradura.      ~FF~#046
+;0003712F{Do you need=a ring=to open a door?~FF~}#038#035
+¿Necesitas=anillo para una=puerta?~FF~#035
+;00037152{I've used=Red Potion.~FF~}#025#022
+He usado Poción=Roja.~FF~#022
+;00037168{I've used=Mattock.~FF~}#022#019
+Usé la Piqueta.   ~FF~#019
+;0003717B{I've used=Hour Glass.~FF~}#025#022
+Usé Reloj de=Arena.  ~FF~#022
+;00037191{I've used=Wing Boots.~FF~}#025#022
+Usé las Botas=Aladas.~FF~#022
+;000371A7{I've used key.~FF~}#018#015
+Usé una llave.~FF~#015
+;000371B6{I've used=Elixir.~FF~}#021#018
+He usado Elixir. ~FF~#018
+;000371C8{I'm holding=Elixir.~FF~}#023#020
+Conseguí un=Elixir.~FF~#020
+;000371DC{I'm holding=Red Potion.~FF~}#027#024
+Conseguí Poción=Roja.  ~FF~#024
+;000371F4{I'm holding=Mattock.~FF~}#024#021
+Conseguí=piqueta.   ~FF~#021
+;00037209{I'm holding=Wing Boots.~FF~}#027#024
+Conseguí Botas=Aladas. ~FF~#024
+;00037221{I'm holding=Hour Glass.~FF~}#027#024
+Conseguí Reloj=Arena.  ~FF~#024
+;00037239{I've got=the Battle Suit.~FF~}#029#026
+Conseguí Traje=Batalla.  ~FF~#026
+;00037253{I've got the=Battle Helmet.~FF~}#031#028
+Conseguí el=Casco Batalla. ~FF~#028
+;0003726F{I've got the=Dragon Slayer.~FF~}#031#028
+Conseguí la=Matadragones.  ~FF~#028
+;0003728B{I've got=the Black Onyx.~FF~}#028#025
+Conseguí el=ónice Negro.~FF~#025
+;000372A4{I've got=the Pendant.~FF~}#025#022
+Conseguí el=Colgante.~FF~#022
+;000372BA{I've got the=Magical Rod.~FF~}#029#026
+Conseguí la Vara
+Mágica.  ~FF~#026
+;000372D4{I've touched=Poison.~FF~}#024#021
+He tocado=Veneno.   ~FF~#021
+;000372E9{The glove=increases=offensive power.~FF~}#040#037
+El guante mejora
+el poder=
+ofensivo.  ~FF~#037
+;0003730E{The power of=the Glove=is gone.~FF~}#035#032
+El poder del  =Guante se acabó.~FF~#032
+;0003732E{I am free from=injury because=of the ointment.~FF~}#050#047
+Ya no tengo    =heridas por el=ungüento.      ~FF~#047
+;0003735D{The power of=the ointment=is gone.~FF~}#038#035
+El poder del=ungüento se=acabó.   ~FF~#035
+;00037380{The power of=the Wing Boots=is gone.~FF~}#040#037
+El poder de las=Botas Aladas=acabó. ~FF~#037
+;000373A5{The power of=the Hour Glass=is gone.~FF~}#040#037
+El poder del=Reloj de Arena=acabó.  ~FF~#037
+|713
+@0003F659-0003F758-FF
+;0003F659{Novice__________Aspirant________Battler_________Fighter_________Adept___________Chevalier_______Veteran_________Warrior_________Swordman________Hero____________Soldier_________Myrmidon________Champion________Superhero_______Paladin_________Lord____________}#256#256
+Novato__________
+Aspirante_______
+Luchador________
+Combatiente_____
+Adepto__________
+Caballero_______
+Veterano________
+Guerrero________
+Espadachín______
+Héroe___________
+Soldado_________
+Mirmidón________
+Campeón_________
+Superhéroe______
+Paladín_________
+Lord____________#256
+|256

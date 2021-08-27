@@ -1,0 +1,430 @@
+@00030883-00030AA2-FF
+;00030883{~06~WEAPON         ~05~ARMOR          ~06~SHIELD         ~05~MAGIC          ~04~ITEM           ~06~PLAYER         ~09~    RANK:      ~09~NEXT EXP:      ~09~WEAPON:        ~09~ ARMOR:        ~09~SHIELD:        ~09~ MAGIC:        ~09~  ITEM:        ~09~NOVICE         ~09~ASPIRANT       ~09~BATTLER        ~09~FIGHTER        ~09~ADEPT          ~09~CHEVALIER      ~09~VETERAN        ~09~WARRIOR        ~09~SWORDMAN       ~09~HERO           ~09~SOLDIER        ~09~MYRMIDON       ~09~CHAMPION       ~09~SUPERHERO      ~09~PALADIN        ~09~LORD           ~09~NO WEAPON      ~09~NO ARMOR       ~09~NO SHIELD      ~09~NO MAGIC       ~09~NO ITEM        }#646#544
+~06~WEAPON         ~05~ARMOR          ~06~SHIELD         ~05~MAGIC          ~04~ITEM           ~06~PLAYER         ~09~    RANK:      ~09~NEXT EXP:      ~09~WEAPON:        ~09~ ARMOR:        ~09~SHIELD:        ~09~ MAGIC:        ~09~  ITEM:        ~09~NOVICE         ~09~ASPIRANT       ~09~BATTLER        ~09~FIGHTER        ~09~ADEPT          ~09~CHEVALIER      ~09~VETERAN        ~09~WARRIOR        ~09~SWORDMAN       ~09~HERO           ~09~SOLDIER        ~09~MYRMIDON       ~09~CHAMPION       ~09~SUPERHERO      ~09~PALADIN        ~09~LORD           ~09~NO WEAPON      ~09~NO ARMOR       ~09~NO SHIELD      ~09~NO MAGIC       ~09~NO ITEM        #544
+|544
+@000311CE-00031212-FF
+;000311CE{Mantra is in the wrong.                         Enter your mantra.   }#069#069
+Mantra is in the wrong.                         Enter your mantra.   #069
+|69
+@000312C4-000312D5-FF
+;000312C4{ DEL END          }#018#018
+ DEL END          #018
+|18
+@00031B91-00031E00-FF
+;00031B91{~0D~HAND DAGGER    ~0D~LONG SWORD     ~0D~GIANT BLADE    ~0D~DRAGON SLAYER  ~0D~LEATHER ARMOR  ~0D~STUDDED MAIL   ~0D~FULL PLATE     ~0D~BATTLE SUIT    ~0D~SMALL SHIELD   ~0D~LARGE SHIELD   ~0D~MAGIC SHIELD   ~0D~BATTLE HELMET  ~0D~DELUGE         ~0D~THUNDER        ~0D~FIRE           ~0D~DEATH          ~0D~TILTE          ~0D~RING OF ELF    ~0D~RUBY RING      ~0D~RING OF DWORF  ~0D~DEMONS RING    ~0D~KEY A          ~0D~KEY K          ~0D~KEY Q          ~0D~KEY J          ~0D~KEY JO         ~0D~MATTOCK        ~0D~ROD            ~0D~CRYSTAL        ~0D~LAMP           ~0D~HOUR GLASS     ~0D~BOOK           ~0D~WING BOOTS     ~0D~RED POTION     ~0D~BLACK POTION   ~0D~ELIXIR         ~0D~PENDANT        ~0D~BLACK ONIX     ~0D~FIRE CRYSTAL   }#741#624
+~0D~HAND DAGGER    ~0D~LONG SWORD     ~0D~GIANT BLADE    ~0D~DRAGON SLAYER  ~0D~LEATHER ARMOR  ~0D~STUDDED MAIL   ~0D~FULL PLATE     ~0D~BATTLE SUIT    ~0D~SMALL SHIELD   ~0D~LARGE SHIELD   ~0D~MAGIC SHIELD   ~0D~BATTLE HELMET  ~0D~DELUGE         ~0D~THUNDER        ~0D~FIRE           ~0D~DEATH          ~0D~TILTE          ~0D~RING OF ELF    ~0D~RUBY RING      ~0D~RING OF DWORF  ~0D~DEMONS RING    ~0D~KEY A          ~0D~KEY K          ~0D~KEY Q          ~0D~KEY J          ~0D~KEY JO         ~0D~MATTOCK        ~0D~ROD            ~0D~CRYSTAL        ~0D~LAMP           ~0D~HOUR GLASS     ~0D~BOOK           ~0D~WING BOOTS     ~0D~RED POTION     ~0D~BLACK POTION   ~0D~ELIXIR         ~0D~PENDANT        ~0D~BLACK ONIX     ~0D~FIRE CRYSTAL   #624
+|624
+@00034310-00034716-FF
+;00034310{Hello.=Could I help youwith anything.~FC~What=would you like?~FF~}#065#059
+Hello.=Could I help youwith anything.~FC~What=would you like?~FF~#059
+;0003434B{Thank you=for shopping.~FF~}#027#024
+Thank you=for shopping.~FF~#024
+;00034363{This is not=enough Golds.~FF~}#029#026
+This is not=enough Golds.~FF~#026
+;0003437D{Anything else?~FF~}#018#015
+Anything else?~FF~#015
+;0003438C{Come back again.~FF~}#020#017
+Come back again.~FF~#017
+;0003439D{You can't carry=any more.~FF~}#029#026
+You can't carry=any more.~FF~#026
+;000343B7{Dried meat to=bring energy=for 50 Golds.~FF~}#044#041
+Dried meat to=bring energy=for 50 Golds.~FF~#041
+;000343E0{Dried meat to=bring energy=for 150 Golds.~FF~}#045#042
+Dried meat to=bring energy=for 150 Golds.~FF~#042
+;0003440A{Dried meat to=bring energy=for 180 Golds.~FF~}#045#042
+Dried meat to=bring energy=for 180 Golds.~FF~#042
+;00034434{Dried meat to=bring energy=for 250 Golds.~FF~}#045#042
+Dried meat to=bring energy=for 250 Golds.~FF~#042
+;0003445E{Dried meat to=bring energy=for 350 Golds.~FF~}#045#042
+Dried meat to=bring energy=for 350 Golds.~FF~#042
+;00034488{Dried meat to=bring energy=for 500 Golds.~FF~}#045#042
+Dried meat to=bring energy=for 500 Golds.~FF~#042
+;000344B2{Dried meat to=bring energy=for 800 Golds.~FF~}#045#042
+Dried meat to=bring energy=for 800 Golds.~FF~#042
+;000344DC{Hello.=I sell keys.=What=would you like?~FF~}#044#041
+Hello.=I sell keys.=What=would you like?~FF~#041
+;00034505{Hello.=I sell tools.=What=would you like?~FF~}#045#042
+Hello.=I sell tools.=What=would you like?~FF~#042
+;0003452F{Come here=to buy.=Come here=to sell.~FF~}#040#037
+Come here=to buy.=Come here=to sell.~FF~#037
+;00034554{You don't=have a key.~FF~}#025#022
+You don't=have a key.~FF~#022
+;0003456A{You have=nothing to buy.~FF~}#028#025
+You have=nothing to buy.~FF~#025
+;00034583{Which one would=like to sell?~FF~}#033#030
+Which one would=like to sell?~FF~#030
+;000345A1{What=would you like?~FF~}#024#021
+What=would you like?~FF~#021
+;000345B6{I shall give=magic=for 200 Golds.~FF~}#037#034
+I shall give=magic=for 200 Golds.~FF~#034
+;000345D8{Watch your=remaining=power level.~FF~}#037#034
+Watch your=remaining=power level.~FF~#034
+;000345FA{Do you know the=magic of fire?=I'll teach you=for 3000 Golds.~FF~}#065#062
+Do you know the=magic of fire?=I'll teach you=for 3000 Golds.~FF~#062
+;00034638{Don't rely too=much on magic.~FF~}#033#030
+Don't rely too=much on magic.~FF~#030
+;00034656{Do you want=a martial art=lesson=for 200 Golds?~FF~}#051#048
+Do you want=a martial art=lesson=for 200 Golds?~FF~#048
+;00034686{Do you want=a treatment?~FF~}#028#025
+Do you want=a treatment?~FF~#025
+;0003469F{Don't try=too hard.~FF~}#023#020
+Don't try=too hard.~FF~#020
+;000346B3{It is 250 Golds=,please.~FF~}#028#025
+It is 250 Golds=,please.~FF~#025
+;000346CC{It is 500 Golds=,please.~FF~}#028#025
+It is 500 Golds=,please.~FF~#025
+;000346E5{It is 1000 Golds,please.~FF~}#028#025
+It is 1000 Golds,please.~FF~#025
+;000346FE{It is 2500 Golds,please.~FF~}#028#025
+It is 2500 Golds,please.~FF~#025
+|1031
+@00034717-00034B28-FF
+;00034717{It is 1800 Golds,please.~FF~}#028#025
+It is 1800 Golds,please.~FF~#025
+;00034730{It is 3000 Golds,please.~FF~}#028#025
+It is 3000 Golds,please.~FF~#025
+;00034749{You need peace=of mind.=I will meditate=with you.~FF~}#053#050
+You need peace=of mind.=I will meditate=with you.~FF~#050
+;0003477B{I shall give youa title.='~FB~'~FC~Make sure you=live up to it.~FF~}#067#058
+I shall give youa title.='~FB~'~FC~Make sure you=live up to it.~FF~#058
+;000347B5{Don't have=negative=thoughts.~FC~Remember=your mantra.~FF~}#058#052
+Don't have=negative=thoughts.~FC~Remember=your mantra.~FF~#052
+;000347E9{Do you want=to hear it=once more?~FF~}#037#034
+Do you want=to hear it=once more?~FF~#034
+;0003480B{I've been on=a long journey.~FC~I came back to=my home town=to find it is=almost deserted.~FC~The gate is=closed,=people are gone,~FC~and the walls=are crumbling.~FC~I wonder=what happened.~FF~}#193#178
+I've been on=a long journey.~FC~I came back to=my home town=to find it is=almost deserted.~FC~The gate is=closed,=people are gone,~FC~and the walls=are crumbling.~FC~I wonder=what happened.~FF~#178
+;000348BD{I want you=to see the king=right away~FC~although you've=just arrived.~FF~}#074#068
+I want you=to see the king=right away~FC~although you've=just arrived.~FF~#068
+;00034901{Go straight=ahead and you'llfind the town ofApolune.~FF~}#056#053
+Go straight=ahead and you'llfind the town ofApolune.~FF~#053
+;00034936{There is a mark=of "Jack"=by the key hole.~FF~}#046#043
+There is a mark=of "Jack"=by the key hole.~FF~#043
+;00034961{This is the Elf=town of Eolis.~FC~It is located atthe bottom of=the World Tree~FC~and the Elves=live here.~FC~Go to see the=Guru before you=see the king.~FF~}#157#145
+This is the Elf=town of Eolis.~FC~It is located atthe bottom of=the World Tree~FC~and the Elves=live here.~FC~Go to see the=Guru before you=see the king.~FF~#145
+;000349F2{There are many=rings with=different magic.~FC~Look for them=one by one.~FF~}#075#069
+There are many=rings with=different magic.~FC~Look for them=one by one.~FF~#069
+;00034A37{If you are goingto see the king,take this ring.~FC~This ring will=identify you.=Don't lose it.~FF~}#098#092
+If you are goingto see the king,take this ring.~FC~This ring will=identify you.=Don't lose it.~FF~#092
+;00034A93{Visit all Gurus=on your way.~FC~You'll get a=title according=to your=experience.~FF~}#084#078
+Visit all Gurus=on your way.~FC~You'll get a=title according=to your=experience.~FF~#078
+;00034AE1{The last well isalmost dry.~FF~}#031#028
+The last well isalmost dry.~FF~#028
+;00034AFD{There is=a fountain=in the town of=Forepaw.~FF~}#047#044
+There is=a fountain=in the town of=Forepaw.~FF~#044
+|1042
+@00034B29-00034F46-FF
+;00034B29{The Dwarfs are=already in town.It looks like=the end is near.~FF~}#065#062
+The Dwarfs are=already in town.It looks like=the end is near.~FF~#062
+;00034B67{Do you have=a weapon=for fighting?~FF~}#038#035
+Do you have=a weapon=for fighting?~FF~#035
+;00034B8A{I can't=let you go.~FF~}#023#020
+I can't=let you go.~FF~#020
+;00034B9E{The King is=waiting for you.~FF~}#032#029
+The King is=waiting for you.~FF~#029
+;00034BBB{Good luck!~FF~}#014#011
+Good luck!~FF~#011
+;00034BC6{Glad you could=come.=Disaster has=befallen us.~FC~The Elf=fountain water,=our life source,has stopped.~FC~The wells are=drying up.~FC~Many men went=out and nobody=came back.~FC~You are our lasthope.=I shall give you1500 Golds.~FC~Prepare=for your journeywith this money.~FC~It will be a=dangerous=journey.~FC~Take care=of yourself.~FF~}#335#311
+Glad you could=come.=Disaster has=befallen us.~FC~The Elf=fountain water,=our life source,has stopped.~FC~The wells are=drying up.~FC~Many men went=out and nobody=came back.~FC~You are our lasthope.=I shall give you1500 Golds.~FC~Prepare=for your journeywith this money.~FC~It will be a=dangerous=journey.~FC~Take care=of yourself.~FF~#311
+;00034CFD{There is nothingmore I can do tohelp you.~FC~Looking forward=to good news.~FF~}#078#072
+There is nothingmore I can do tohelp you.~FC~Looking forward=to good news.~FF~#072
+;00034D45{The Dwarfs=are robbing=the Elves' moneyand jewelry.~FF~}#055#052
+The Dwarfs=are robbing=the Elves' moneyand jewelry.~FF~#052
+;00034D79{A meteorite fellinto the World=Tree and=created havoc.~FC~At the end of=the confusion,~FC~the Dwarfs of=the underworld=came up~FC~and attacked=the Elves.=Nobody knows=the reason.~FF~}#182#170
+A meteorite fellinto the World=Tree and=created havoc.~FC~At the end of=the confusion,~FC~the Dwarfs of=the underworld=came up~FC~and attacked=the Elves.=Nobody knows=the reason.~FF~#170
+;00034E23{Listen to=people.~FC~You'll only get=frustrated=if you just walkaround.~FF~}#075#069
+Listen to=people.~FC~You'll only get=frustrated=if you just walkaround.~FF~#069
+;00034E68{Don't try=too hard.~FF~}#023#020
+Don't try=too hard.~FF~#020
+;00034E7C{Welcome to the=town of Apolune.~FF~}#035#032
+Welcome to the=town of Apolune.~FF~#032
+;00034E9C{There is the=town of Forepaw=ahead of you.~FF~}#046#043
+There is the=town of Forepaw=ahead of you.~FF~#043
+;00034EC7{There are Dwarfsall over in the=Tower of Trunk.~FC~Go out of town,=turn right and=go straight,~FC~then you'll findthe Tower=of Trunk.~FF~}#137#128
+There are Dwarfsall over in the=Tower of Trunk.~FC~Go out of town,=turn right and=go straight,~FC~then you'll findthe Tower=of Trunk.~FF~#128
+|1054
+@00034F47-000353BF-FF
+;00034F47{Good luck.~FF~}#014#011
+Good luck.~FF~#011
+;00034F52{You should have=a shield. It'll=protect you fromDwarf attacks.~FF~}#066#063
+You should have=a shield. It'll=protect you fromDwarf attacks.~FF~#063
+;00034F91{The Mattock=should be in theTower.~FC~You can get it=by defeating a=Dwarf.~FF~}#078#072
+The Mattock=should be in theTower.~FC~You can get it=by defeating a=Dwarf.~FF~#072
+;00034FD9{We blocked the=passage to the=next town by=building a wall,~FC~but the Dwarfs=keep coming.~FF~}#094#088
+We blocked the=passage to the=next town by=building a wall,~FC~but the Dwarfs=keep coming.~FF~#088
+;00035031{If you have the=Mattock,you can=break the wall,~FC~but if you don'thave it...~FF~}#081#075
+If you have the=Mattock,you can=break the wall,~FC~but if you don'thave it...~FF~#075
+;0003507C{You need a key.~FF~}#019#016
+You need a key.~FF~#016
+;0003508C{You need a=different key.~FF~}#029#026
+You need a=different key.~FF~#026
+;000350A6{Are you hurt?=Our doctor=can help.~FF~}#038#035
+Are you hurt?=Our doctor=can help.~FF~#035
+;000350C9{Watch out for=the jar of=poison.~FC~The poison will=take your energyaway.~FF~}#077#071
+Watch out for=the jar of=poison.~FC~The poison will=take your energyaway.~FF~#071
+;00035110{Did you learn=the Guru's=mantra?~FC~The mantra will=return you to=this world.~FC~Hold on to the=mantra.~FF~}#107#098
+Did you learn=the Guru's=mantra?~FC~The mantra will=return you to=this world.~FC~Hold on to the=mantra.~FF~#098
+;00035172{There is a=secret Guru in=the Tower of=Fortress.~FC~You'll find=important infor-mation and=a key there.~FF~}#107#101
+There is a=secret Guru in=the Tower of=Fortress.~FC~You'll find=important infor-mation and=a key there.~FF~#101
+;000351D7{You can carry 8=items. They are=all important.=Choose well.~FF~}#063#060
+You can carry 8=items. They are=all important.=Choose well.~FF~#060
+;00035213{This is the townof Forepaw.~FF~}#031#028
+This is the townof Forepaw.~FF~#028
+;0003522F{If the fountain=flows,water willcome back to thetown.~FF~}#057#054
+If the fountain=flows,water willcome back to thetown.~FF~#054
+;00035265{Water from 3=springs flows=into the=fountain.~FC~Find the 3=springs and=return the waterto the fountain.~FF~}#108#102
+Water from 3=springs flows=into the=fountain.~FC~Find the 3=springs and=return the waterto the fountain.~FF~#102
+;000352CB{Water is flowingin our fountain.Thanks to=your help.~FF~}#056#053
+Water is flowingin our fountain.Thanks to=your help.~FF~#053
+;00035300{I hear=quite often=about a fountainin the sky.~FC~When you go downfrom the town,~FC~you'll come to aplace where the=sky opens above.~FC~They say a=fountain is up=in the sky,~FC~but you need=Wing Boots...~FF~}#207#192
+I hear=quite often=about a fountainin the sky.~FC~When you go downfrom the town,~FC~you'll come to aplace where the=sky opens above.~FC~They say a=fountain is up=in the sky,~FC~but you need=Wing Boots...~FF~#192
+|1145
+@000353C0-000357D2-FF
+;000353C0{If you can push=the rock away=from the=fountain,~FC~you'll find the=way to Mascon.~FC~But, you can't=move it without=the Ring of=Ruby.~FC~The old man of=the spring will=have it.=Ask him.~FF~}#190#178
+If you can push=the rock away=from the=fountain,~FC~you'll find the=way to Mascon.~FC~But, you can't=move it without=the Ring of=Ruby.~FC~The old man of=the spring will=have it.=Ask him.~FF~#178
+;00035472{There is a=spring=in the tower of=Fortress.~FC~You'll find the=dried up=fountain~FC~and the entranceto the tower=right above=this town.~FC~So long.~FF~}#151#139
+There is a=spring=in the tower of=Fortress.~FC~You'll find the=dried up=fountain~FC~and the entranceto the tower=right above=this town.~FC~So long.~FF~#139
+;000354FD{The Dwarf=who lives=in the tower=has Wing boots.~FC~When you get=them, look for=a fountain=in the sky.~FF~}#106#100
+The Dwarf=who lives=in the tower=has Wing boots.~FC~When you get=them, look for=a fountain=in the sky.~FF~#100
+;00035561{When you push=the rock=away from the=fountain,~FC~you'll find=the passage=to Mascon,~FC~but you need=the Ring=of Ruby.~FF~}#122#113
+When you push=the rock=away from the=fountain,~FC~you'll find=the passage=to Mascon,~FC~but you need=the Ring=of Ruby.~FF~#113
+;000355D2{Look for=Wing Boots.~FF~}#024#021
+Look for=Wing Boots.~FF~#021
+;000355E7{Go below the=blue sky. You'llfind a fountain=in the sky.~FF~}#060#057
+Go below the=blue sky. You'llfind a fountain=in the sky.~FF~#057
+;00035620{Use this key=to open the doorbelow.~FC~You'll find the=first spring.~FF~}#072#066
+Use this key=to open the doorbelow.~FC~You'll find the=first spring.~FF~#066
+;00035662{If you don't=have a Joker=key,=come back again.~FF~}#051#048
+If you don't=have a Joker=key,=come back again.~FF~#048
+;00035692{Ho, ho, ho.=I'll tell you=about the water=of the spring.~FC~.....=.....=Oops!=..fallen asleep.~FC~The water was=poisoned.~FC~The posion is=almost gone so=it's all right=to wake him up.~FC~Watch.=..... .....=Something is=wrong...~FC~Oops!~FF~}#241#223
+Ho, ho, ho.=I'll tell you=about the water=of the spring.~FC~.....=.....=Oops!=..fallen asleep.~FC~The water was=poisoned.~FC~The posion is=almost gone so=it's all right=to wake him up.~FC~Watch.=..... .....=Something is=wrong...~FC~Oops!~FF~#223
+;00035771{Get the key fromthe Guri in the=tower of=Fortress and~FC~search for the=undiscovered=first fountain.~FF~}#104#098
+Get the key fromthe Guri in the=tower of=Fortress and~FC~search for the=undiscovered=first fountain.~FF~#098
+|1043
+@000357D3-00035BE7-FF
+;000357D3{You've done wellto get here.=This is the=spring of Trunk.~FC~You need Elixir=to revive the=spring.~FC~Will you give meyour medicine?~FF~}#136#127
+You've done wellto get here.=This is the=spring of Trunk.~FC~You need Elixir=to revive the=spring.~FC~Will you give meyour medicine?~FF~#127
+;00035852{This spring willflow again.=There are=two more.~FC~You'd better go=and find them.~FF~}#085#079
+This spring willflow again.=There are=two more.~FC~You'd better go=and find them.~FF~#079
+;000358A1{Come back with=the medicine.~FF~}#032#029
+Come back with=the medicine.~FF~#029
+;000358BE{As soon as waterflows in the=fountain,~FC~go to Mascon andfind the poison=the Dwarfs hide,~FC~otherwise the=Elves will be=destroyed.~FF~}#136#127
+As soon as waterflows in the=fountain,~FC~go to Mascon andfind the poison=the Dwarfs hide,~FC~otherwise the=Elves will be=destroyed.~FF~#127
+;0003593D{Thank you for=coming.~FC~I will revive=the spring=right away.~FF~}#065#059
+Thank you for=coming.~FC~I will revive=the spring=right away.~FF~#059
+;00035978{I'll give you=the Ring of=Ruby.~FC~Now, push the=rock away from=the fountain.~FF~}#081#075
+I'll give you=the Ring of=Ruby.~FC~Now, push the=rock away from=the fountain.~FF~#075
+;000359C3{Trust=your power.~FC~You are the=chosen warrior=to rescue=this world.~FF~}#073#067
+Trust=your power.~FC~You are the=chosen warrior=to rescue=this world.~FF~#067
+;00035A06{What business doyou have here?~FC~This is the=misty town of=Mascon.~FF~}#071#065
+What business doyou have here?~FC~This is the=misty town of=Mascon.~FF~#065
+;00035A47{The tower of=Forepaw is stillfar away.~FC~Prepare well=and go.~FF~}#066#060
+The tower of=Forepaw is stillfar away.~FC~Prepare well=and go.~FF~#060
+;00035A83{When the meteor-ite is dissolvedin water,~FC~it becomes=poison which=will bring=sickness.~FC~It started when=the Dwarfs=brought it into=the World Tree.~FF~}#155#146
+When the meteor-ite is dissolvedin water,~FC~it becomes=poison which=will bring=sickness.~FC~It started when=the Dwarfs=brought it into=the World Tree.~FF~#146
+;00035B15{Did you get the=pendant? It willstrengthen your=offense power.~FF~}#066#063
+Did you get the=pendant? It willstrengthen your=offense power.~FF~#063
+;00035B54{There are storesoutside town.~FC~They sell usefulitems,~FC~though it's=inconvenient to=get there.~FC~I wonder if you=could find them.Look up while=you walk.~FF~}#160#148
+There are storesoutside town.~FC~They sell usefulitems,~FC~though it's=inconvenient to=get there.~FC~I wonder if you=could find them.Look up while=you walk.~FF~#148
+|1045
+@00035BE8-00035FE8-FF
+;00035BE8{It is a large=and beautiful=shield.~FF~}#039#036
+It is a large=and beautiful=shield.~FF~#036
+;00035C0C{The meteorite ismeditated on=at the tower of=Suffer.~FC~You'll find the=Tower above a=Guru.=Be careful.~FF~}#107#101
+The meteorite ismeditated on=at the tower of=Suffer.~FC~You'll find the=Tower above a=Guru.=Be careful.~FF~#101
+;00035C71{You need Wing=Boots~FC~in order to get=to the misty=town of Victim.~FC~Look for them inthe Tower of=Suffer.~FF~}#111#102
+You need Wing=Boots~FC~in order to get=to the misty=town of Victim.~FC~Look for them inthe Tower of=Suffer.~FF~#102
+;00035CD7{This town has=been covered=with a mist ever~FC~since the mete-=orite hit the=town.~FC~Some areas=might still=be burning.~FF~}#124#115
+This town has=been covered=with a mist ever~FC~since the mete-=orite hit the=town.~FC~Some areas=might still=be burning.~FF~#115
+;00035D4A{The house=outside town wasabandoned~FC~and the Dwarfs=are living=there.~FC~Watch out for=them.~FF~}#098#089
+The house=outside town wasabandoned~FC~and the Dwarfs=are living=there.~FC~Watch out for=them.~FF~#089
+;00035DA3{You'll get to=the Tower of=Suffer soon.~FF~}#043#040
+You'll get to=the Tower of=Suffer soon.~FF~#040
+;00035DCB{The pendant has=been a treasure=of the town.~FC~But it is best=for the town if=you keep it.~FF~}#095#089
+The pendant has=been a treasure=of the town.~FC~But it is best=for the town if=you keep it.~FF~#089
+;00035E24{The Dwarfs are=chanting their=mantras~FC~to a segment of=the meteorite.~FC~They believe it=has special=cosmic power.~FF~}#120#111
+The Dwarfs are=chanting their=mantras~FC~to a segment of=the meteorite.~FC~They believe it=has special=cosmic power.~FF~#111
+;00035E93{The meteorite=which was in theTower of Suffer~FC~has been moved=to the Tower of=Mist.~FC~The Dwarfs must=have learned of=your coming.~FF~}#137#128
+The meteorite=which was in theTower of Suffer~FC~has been moved=to the Tower of=Mist.~FC~The Dwarfs must=have learned of=your coming.~FF~#128
+;00035F13{They say the=Hour Glass will=enable you~FC~to move around=while the time=stops.~FF~}#083#077
+They say the=Hour Glass will=enable you~FC~to move around=while the time=stops.~FF~#077
+;00035F60{The Hour Glass=will exhaust=your energy,~FC~so be careful=when you use it.~FF~}#078#072
+The Hour Glass=will exhaust=your energy,~FC~so be careful=when you use it.~FF~#072
+;00035FA8{Welcome to the=Town of Victim.~FC~I have been=unable to leave=town.~FF~}#071#065
+Welcome to the=Town of Victim.~FC~I have been=unable to leave=town.~FF~#065
+|1025
+@00035FE9-00036414-FF
+;00035FE9{It is dangerous=to leave town=unless you have=a magic shield.~FF~}#065#062
+It is dangerous=to leave town=unless you have=a magic shield.~FF~#062
+;00036027{There is a magichall outside=town.~FF~}#038#035
+There is a magichall outside=town.~FF~#035
+;0003604A{There is a magiccane which will=give you magic=power.~FF~}#057#054
+There is a magiccane which will=give you magic=power.~FF~#054
+;00036080{The door to the=Capital town=below is open.=Go to it now.~FF~}#061#058
+The door to the=Capital town=below is open.=Go to it now.~FF~#058
+;000360BA{It was only a=rumor. Sorry=about that.~FC~I got this armorin exchange for=a bottle.~FC~If you wish,=you can have it.~FF~}#120#111
+It was only a=rumor. Sorry=about that.~FC~I got this armorin exchange for=a bottle.~FC~If you wish,=you can have it.~FF~#111
+;00036129{I'll have a=drink.=Well...=not yet.~FF~}#039#036
+I'll have a=drink.=Well...=not yet.~FF~#036
+;0003614D{Looks like=I'm lost.~FF~}#024#021
+Looks like=I'm lost.~FF~#021
+;00036162{I'm lost.=My magic=does not work.~FF~}#037#034
+I'm lost.=My magic=does not work.~FF~#034
+;00036184{It can be magic=of justice=or a magic of=destruction.~FC~It all depends=on who uses it.~FF~}#091#085
+It can be magic=of justice=or a magic of=destruction.~FC~It all depends=on who uses it.~FF~#085
+;000361D9{Magics have=individual=powers.~FF~}#034#031
+Magics have=individual=powers.~FF~#031
+;000361F8{Magic of offenceis effective,=but it consumes=power.~FF~}#056#053
+Magic of offenceis effective,=but it consumes=power.~FF~#053
+;0003622D{When you hold=the Dwarf's=meteorite in=your hand,~FC~it will become=Black Onyx with=power inside.~FF~}#101#095
+When you hold=the Dwarf's=meteorite in=your hand,~FC~it will become=Black Onyx with=power inside.~FF~#095
+;0003628C{If you go=straight ahead,~FC~you will get to=the Tower of=Mist.~FC~If you defeat=the dwarf who=lives in the=Tower~FC~and get the=meteorite,=come back here.~FF~}#159#147
+If you go=straight ahead,~FC~you will get to=the Tower of=Mist.~FC~If you defeat=the dwarf who=lives in the=Tower~FC~and get the=meteorite,=come back here.~FF~#147
+;0003631F{As long as thereare crazed=Dwarfs,~FC~the deadly=threat of the=meteorite~FC~will loom over=the Elves.~FC~Use this key to=open the next=door to get to=Conflate.~FC~Fight for the=Elves.~FF~}#187#172
+As long as thereare crazed=Dwarfs,~FC~the deadly=threat of the=meteorite~FC~will loom over=the Elves.~FC~Use this key to=open the next=door to get to=Conflate.~FC~Fight for the=Elves.~FF~#172
+;000363CB{I give keys to=travelers like=yourself.~FC~You have an="Ace" key,=don't you?~FF~}#080#074
+I give keys to=travelers like=yourself.~FC~You have an="Ace" key,=don't you?~FF~#074
+|1068
+@00036415-000368D3-FF
+;00036415{This is a=trading town=called=Conflate.~FF~}#043#040
+This is a=trading town=called=Conflate.~FF~#040
+;0003643D{You'll find the=legendary shieldand helmet~FC~in the World of=Branch.~FF~}#073#067
+You'll find the=legendary shieldand helmet~FC~in the World of=Branch.~FF~#067
+;00036480{The town is=surrounded by=doors for=protection.~FF~}#051#048
+The town is=surrounded by=doors for=protection.~FF~#048
+;000364B0{When you get theshield and=helmet, go to=see the Guru.~FF~}#058#055
+When you get theshield and=helmet, go to=see the Guru.~FF~#055
+;000364E7{I am a guardian=of the Guru.=He is an im-=portant person.~FF~}#061#058
+I am a guardian=of the Guru.=He is an im-=portant person.~FF~#058
+;00036521{There should be=something you=can get.~FF~}#042#039
+There should be=something you=can get.~FF~#039
+;00036548{Don't rely on=your magic power~FC~during the finalbattle with the=Dwarfs.~FF~}#077#071
+Don't rely on=your magic power~FC~during the finalbattle with the=Dwarfs.~FF~#071
+;0003658F{The town used toprosper from=trading with theDwarfs.~FF~}#056#053
+The town used toprosper from=trading with theDwarfs.~FF~#053
+;000365C4{They are=terrible now,~FC~but they used tobe skilled=craftsmen.~FF~}#067#061
+They are=terrible now,~FC~but they used tobe skilled=craftsmen.~FF~#061
+;00036601{I used to go to=the town of=Dwarfs quite=often~FC~when we had=business with=them.~FF~}#085#079
+I used to go to=the town of=Dwarfs quite=often~FC~when we had=business with=them.~FF~#079
+;00036650{Do you want to=know what I do?~FC~I am=the pickpocket=Gingi.~FC~I'm an importantperson around=here.~FF~}#103#094
+Do you want to=know what I do?~FC~I am=the pickpocket=Gingi.~FC~I'm an importantperson around=here.~FF~#094
+;000366AE{Don't rely on=your magic power~FC~only during the=final fight=against the=Dwarfs.~FC~You can wear theBattle Helmet=and Battle Suit~FC~only when you=have the Dragon=Slayer.~FC~You will not be=able to return=us the Dragon=Slayer~FC~until we have=true peace here.~FF~}#264#246
+Don't rely on=your magic power~FC~only during the=final fight=against the=Dwarfs.~FC~You can wear theBattle Helmet=and Battle Suit~FC~only when you=have the Dragon=Slayer.~FC~You will not be=able to return=us the Dragon=Slayer~FC~until we have=true peace here.~FF~#246
+;000367A4{Don't rely on=your magic power~FC~alone during thelast fight=against the=Dwarfs.~FC~You can wear theBattle Helmet=and Battle Suit~FC~only when you=have the Dragon=Slayer.~FC~You will not be=able to return=us the Dragon=Slayer~FC~until we have=true peace here.~FC~This ring will=open the door toDartmoor. Take=it with you.~FF~}#325#304
+Don't rely on=your magic power~FC~alone during thelast fight=against the=Dwarfs.~FC~You can wear theBattle Helmet=and Battle Suit~FC~only when you=have the Dragon=Slayer.~FC~You will not be=able to return=us the Dragon=Slayer~FC~until we have=true peace here.~FC~This ring will=open the door toDartmoor. Take=it with you.~FF~#304
+|1215
+@000368D4-00036CF4-FF
+;000368D4{Daydreak is a=town at the=border.~FF~}#037#034
+Daydreak is a=town at the=border.~FF~#034
+;000368F6{I have friends=in Dartmoor~FC~which is known=as an evil=place.~FF~}#066#060
+I have friends=in Dartmoor~FC~which is known=as an evil=place.~FF~#060
+;00036932{Look for the=Battle Suit.~FF~}#029#026
+Look for the=Battle Suit.~FF~#026
+;0003694C{Did you find themagic cane?~FF~}#031#028
+Did you find themagic cane?~FF~#028
+;00036968{You are the=famous warrior.~FC~You are as good=looking as I've=heard.~FF~}#073#067
+You are the=famous warrior.~FC~You are as good=looking as I've=heard.~FF~#067
+;000369AB{You are the=warrior everyoneis talking=about.~FC~Could I have=your autograph?~FC~Are you busy=now? Well, will=you come to=visit me?~FC~My name is Moto.Please don't=forget.~FF~}#175#163
+You are the=warrior everyoneis talking=about.~FC~Could I have=your autograph?~FC~Are you busy=now? Well, will=you come to=visit me?~FC~My name is Moto.Please don't=forget.~FF~#163
+;00036A4E{Look at you!=When did you=last take a=bath?~FF~}#047#044
+Look at you!=When did you=last take a=bath?~FF~#044
+;00036A7A{The Guru of=Conflate has theRing of Dwarfs.~FF~}#047#044
+The Guru of=Conflate has theRing of Dwarfs.~FF~#044
+;00036AA6{Did you get the=Battle Suit?~FF~}#032#029
+Did you get the=Battle Suit?~FF~#029
+;00036AC3{The castle of=Dartmoor is a=complex maze.~FF~}#045#042
+The castle of=Dartmoor is a=complex maze.~FF~#042
+;00036AED{Is this your=first visit to=this store?=It is my first.~FF~}#059#056
+Is this your=first visit to=this store?=It is my first.~FF~#056
+;00036B25{Have not seen=you for a while.You'll find a=magic cane~FC~when you get=above the tower=of Pillar.~FF~}#101#095
+Have not seen=you for a while.You'll find a=magic cane~FC~when you get=above the tower=of Pillar.~FF~#095
+;00036B84{There is the=Castle of=Fraternal~FC~down below the=town of=Dartmoor.~FF~}#072#066
+There is the=Castle of=Fraternal~FC~down below the=town of=Dartmoor.~FF~#066
+;00036BC6{You need the=Demon's Ring~FC~to get into the=fortress of=Zenis.~FF~}#067#061
+You need the=Demon's Ring~FC~to get into the=fortress of=Zenis.~FF~#061
+;00036C03{Dragon Slayer isin the hands of=king of the=Dwarfs.~FF~}#055#052
+Dragon Slayer isin the hands of=king of the=Dwarfs.~FF~#052
+;00036C37{Defeat the Evil=one with Dragon=Slayer.~FF~}#043#040
+Defeat the Evil=one with Dragon=Slayer.~FF~#040
+;00036C5F{Go to see the=Guru in the=Castle of=Fraternal.~FF~}#050#047
+Go to see the=Guru in the=Castle of=Fraternal.~FF~#047
+;00036C8E{If you see the=Guru, he'll giveyou the Demon's=Ring.~FF~}#056#053
+If you see the=Guru, he'll giveyou the Demon's=Ring.~FF~#053
+;00036CC3{Search inside=the castle.=You should find=a Guru.~FF~}#053#050
+Search inside=the castle.=You should find=a Guru.~FF~#050
+|1057
+@00036CF5-00037100-FF
+;00036CF5{The magic of=offence does notwork against theEvil one.~FF~}#058#055
+The magic of=offence does notwork against theEvil one.~FF~#055
+;00036D2C{The Dwarfs re-=gard the meteor-ite as a cosmic=messenger.~FC~It is a dreadfulthing as you=already know.~FC~It turns into a=poison when=dissolved in=water.~FC~It is not incon-ceivable that~FC~you would ex-=perience mental=and physical=changes~FC~when you are=near or touch=it.~FC~That is why the=Dwarfs have=changed and gonecrazy.~FF~}#333#312
+The Dwarfs re-=gard the meteor-ite as a cosmic=messenger.~FC~It is a dreadfulthing as you=already know.~FC~It turns into a=poison when=dissolved in=water.~FC~It is not incon-ceivable that~FC~you would ex-=perience mental=and physical=changes~FC~when you are=near or touch=it.~FC~That is why the=Dwarfs have=changed and gonecrazy.~FF~#312
+;00036E64{The monster=you've just de-=feated is King=Grieve,~FC~the king of the=Dwarfs. The EvilOne changed his=appearance.~FC~The king pro-=tected the swordfrom the Evil=One~FC~by hiding it=within his own=body.~FC~Use the sword todefeat the Evil=One in the=fortress.~FC~This will open=the door to the=fortress.~FF~}#305#287
+The monster=you've just de-=feated is King=Grieve,~FC~the king of the=Dwarfs. The EvilOne changed his=appearance.~FC~The king pro-=tected the swordfrom the Evil=One~FC~by hiding it=within his own=body.~FC~Use the sword todefeat the Evil=One in the=fortress.~FC~This will open=the door to the=fortress.~FF~#287
+;00036F83{I'll meditate=for you.~FF~}#026#023
+I'll meditate=for you.~FF~#023
+;00036F9A{Glad to have youback safely.~FC~It will take=time,=but the Elves=and the Dwarfs~FC~will become=friends and re-=turn the peace=to this land~FC~as it used to=be. I understandyou will leave~FC~to continue yourjourney.=What a restless=guy!~FF~}#239#224
+Glad to have youback safely.~FC~It will take=time,=but the Elves=and the Dwarfs~FC~will become=friends and re-=turn the peace=to this land~FC~as it used to=be. I understandyou will leave~FC~to continue yourjourney.=What a restless=guy!~FF~#224
+;0003707A{There is the=mark of "Queen"=by the key hole.~FF~}#049#046
+There is the=mark of "Queen"=by the key hole.~FF~#046
+;000370A8{There is the=mark of "King"=by the key hole.~FF~}#048#045
+There is the=mark of "King"=by the key hole.~FF~#045
+;000370D5{There is the=mark of "Ace"=by the key hole.~FF~}#047#044
+There is the=mark of "Ace"=by the key hole.~FF~#044
+|1036
+@00037101-000373C9-FF
+;00037101{There is the=mark of "Joker"=by the key hole.~FF~}#049#046
+There is the=mark of "Joker"=by the key hole.~FF~#046
+;0003712F{Do you need=a ring=to open a door?~FF~}#038#035
+Do you need=a ring=to open a door?~FF~#035
+;00037152{I've used=Red Potion.~FF~}#025#022
+I've used=Red Potion.~FF~#022
+;00037168{I've used=Mattock.~FF~}#022#019
+I've used=Mattock.~FF~#019
+;0003717B{I've used=Hour Glass.~FF~}#025#022
+I've used=Hour Glass.~FF~#022
+;00037191{I've used=Wing Boots.~FF~}#025#022
+I've used=Wing Boots.~FF~#022
+;000371A7{I've used key.~FF~}#018#015
+I've used key.~FF~#015
+;000371B6{I've used=Elixir.~FF~}#021#018
+I've used=Elixir.~FF~#018
+;000371C8{I'm holding=Elixir.~FF~}#023#020
+I'm holding=Elixir.~FF~#020
+;000371DC{I'm holding=Red Potion.~FF~}#027#024
+I'm holding=Red Potion.~FF~#024
+;000371F4{I'm holding=Mattock.~FF~}#024#021
+I'm holding=Mattock.~FF~#021
+;00037209{I'm holding=Wing Boots.~FF~}#027#024
+I'm holding=Wing Boots.~FF~#024
+;00037221{I'm holding=Hour Glass.~FF~}#027#024
+I'm holding=Hour Glass.~FF~#024
+;00037239{I've got=the Battle Suit.~FF~}#029#026
+I've got=the Battle Suit.~FF~#026
+;00037253{I've got the=Battle Helmet.~FF~}#031#028
+I've got the=Battle Helmet.~FF~#028
+;0003726F{I've got the=Dragon Slayer.~FF~}#031#028
+I've got the=Dragon Slayer.~FF~#028
+;0003728B{I've got=the Black Onyx.~FF~}#028#025
+I've got=the Black Onyx.~FF~#025
+;000372A4{I've got=the Pendant.~FF~}#025#022
+I've got=the Pendant.~FF~#022
+;000372BA{I've got the=Magical Rod.~FF~}#029#026
+I've got the=Magical Rod.~FF~#026
+;000372D4{I've touched=Poison.~FF~}#024#021
+I've touched=Poison.~FF~#021
+;000372E9{The glove=increases=offensive power.~FF~}#040#037
+The glove=increases=offensive power.~FF~#037
+;0003730E{The power of=the Glove=is gone.~FF~}#035#032
+The power of=the Glove=is gone.~FF~#032
+;0003732E{I am free from=injury because=of the ointment.~FF~}#050#047
+I am free from=injury because=of the ointment.~FF~#047
+;0003735D{The power of=the ointment=is gone.~FF~}#038#035
+The power of=the ointment=is gone.~FF~#035
+;00037380{The power of=the Wing Boots=is gone.~FF~}#040#037
+The power of=the Wing Boots=is gone.~FF~#037
+;000373A5{The power of=the Hour Glass=is gone.~FF~}#040#037
+The power of=the Hour Glass=is gone.~FF~#037
+|713
+@0003F659-0003F758-FF
+;0003F659{Novice          Aspirant        Battler         Fighter         Adept           Chevalier       Veteran         Warrior         Swordman        Hero            Soldier         Myrmidon        Champion        Superhero       Paladin         Lord            }#256#256
+Novice          Aspirant        Battler         Fighter         Adept           Chevalier       Veteran         Warrior         Swordman        Hero            Soldier         Myrmidon        Champion        Superhero       Paladin         Lord            #256
+|256

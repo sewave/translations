@@ -1,0 +1,824 @@
+@0002B196-0002B21F-FF
+;0002B196{ PENDANT~FF~}#012#009
+ C{ol}gante~FF~#009
+;0002B19F{WIDE CANNON~FF~}#015#012
+Cañón Ancho~FF~#012
+;0002B1AB{ROCKET LAUNCHER~FF~}#019#016
+Lanzacohetes   ~FF~#016
+;0002B1BB{RAPID FIRE      DEVICE~FF~}#026#023
+Dispositivo Tiro
+Rápido~FF~#023
+;0002B1D2{3-WAY~FF~}#009#006
+3Lado~FF~#006
+;0002B1D8{BULLET PROOF    VEST~FF~}#024#021
+Traje Antibalas 
+    ~FF~#021
+;0002B1ED{HELMET~FF~}#010#007
+Casco ~FF~#007
+;0002B1F4{IRON BOOTS~FF~}#014#011
+Botas Hie.~FF~#011
+;0002B1FF{PERMIT~FF~}#010#007
+Perm{is}o~FF~#007
+;0002B206{ENERGY RECOVERY PILLS~FF~}#025#022
+Pastillas De    
+Ener.~FF~#022
+;0002B21C{1UP~FF~}#007#004
+1Vd~FF~#004
+|138
+@0002C134-0002C16E-FF
+;0002C134{00~80~OPLEASE INSTRUCT US.~90~7DESCEND TRANSFER~90~7THIS IS AREA    }#068#059
+00~80~O
+Instrúyenos.    
+   ~90~7
+ Bajar  Moverse ~90~7
+Es la zona      #059
+|59
+@0002C182-0002C1E6-FF
+;0002C182{~64~THIS IS LADD,OURMISSION AC-     COMPLISHED.     SUPER JOE IS    SAFE.           WE ARE RETURNINGNOW.}#104#101
+~64~
+Aquí Ladd,      
+La misión ha    
+sido completada.
+Súper Joe está a
+salvo.          
+Volvemos ahora. 
+    #101
+|101
+@0002C1F1-0002C202-FF
+;0002C1F1{~B0~7OK.WE'LL MOVE.  }#021#018
+~B0~7
+OK. Nos movemos.#018
+|18
+@0002C204-0002C22C-FF
+;0002C204{ZMEET WITH       ENEMIES AND     DESCEND.}#041#041
+Z
+Encuéntrate con 
+los enemigos y  
+baja.   #041
+|41
+@0002C22D-0002C3D0-FF
+;0002C22D{~46~~F0~THIS IS MA-1.   I'VE BEEN       WAITING FOR YOU.MANY OF OUR     AGENTS HAVE     ALREADY         INFILTRATED THE SECTORS YOU WILLBE TRAVELLING.  TO CONTACT THEM YOU MUST FIND A COMMUNICATION   ROOM.           YOUR SUCCESS    DEPENDS ON STAY-~46~~B0~ING IN TOUCH.   YOU SHOULD BE   ABLE TO WIRETAP AND INTERCEPT   IMPORTANT INFOR-MATION.  IGNORE ALL DANGERS AND PROCEED TO THE  OPEN DOOR.      WE'LL CONTACT   YOU LATER.      }#432#420
+~46~~F0~
+Aquí MA-1.      
+He estado       
+esperándote.    
+Varios de       
+nuestros agentes
+ya se han       
+infiltrado en   
+los sectores que
+atravesarás.    
+Para contactar  
+con ellos halla 
+la sala de      
+comunicaciones. 
+Tu éxito depende
+de permanecer en~46~~B0~
+contacto.       
+Deberías poder  
+interceptar     
+información     
+importante.     
+Ignora los      
+peligros y ve a 
+la puerta       
+abierta.        
+Contactaremos   
+contigo después.#420
+|420
+@0002C3D1-0002C5F3-FF
+;0002C3D1{~45~VCOMMANDER,BEWAREOF THE ELEVATOR.~49~7NOW WE HAVE YOU.~46~~4B~AREA 4 IS AN    ARSENAL.        MAYBE WE CAN    FIND GOOD WEAPONWE CAN USE.~45~~2F~SECOND BATTALL- ION IS HEADING  TOWARDS AREA 4.~49~~49~HEY,IF YOU'RE   GOING TO AREA 4,DON'T FORGET TO TAKE A FLARE GUNWITH YOU.J~47~SO,YOU THINK YOUCAN DESTROY THE MAIN SYSTEM?    YOU HAVE NO     CHANCE!I~44~SUPER JOE?      I'M SORRY,BUT I DON'T KNOW ANY- ONE NAMED SUPER JOE.2~95~WELCOME,        MY FRIEND.      WE'VE PREPARED  SOME FLARE BOMBSFOR YOU.        YOU WILL NEED   THEM IN AREA 4. PUSH START      BUTTON TO USE   THEM.}#580#547
+~45~V
+Tenga cuidado   
+con el ascensor.~49~7
+Ya te tenemos.  ~46~~4B~
+La zona 4 es un 
+arsenal.        
+Quizá podamos   
+hallar una buena
+arma.      ~45~~2F~
+El segundo      
+batallón va a la
+zona 4.        ~49~~49~
+Eh, si vas hacia
+la zona 4, no te
+olvides la      
+pistola de      
+bengalas.J~47~
+¿Crees que      
+puedes destruir 
+el sistema      
+principal?      
+¡NUNCA!
+I~44~
+¿Súper Joe?     
+Lo siento, pero 
+no conozco a    
+ningún súper    
+Joe.2~95~
+Bienvenido,     
+amigo mío.      
+Hemos preparado 
+algunas bengalas
+para ti.        
+Las necesitarás 
+en la zona 4.   
+Úsalas pulsando 
+el botón START. 
+     #547
+|547
+@0002C5F4-0002C735-FF
+;0002C5F4{H~37~WHAT ARE YOU    DOING HERE?     I'LL TAKE CARE  OF YOU.~46~~75~THIS IS M-8.    USE THIS        COMMUNICATOR IN AREAS 1,4 AND 5.WE HAD TO HIDE  THE OTHER 3     WHICH YOU MUST  FIND.~46~QHE'S TOO STRONG FOR US.~46~STRY TO GET      BEHIND HIM.F~5A~YOU'RE A FOOL IFYOU THINK I'LL  LET YOU HAVE ANYWEAPONS.        PREPARE TO MEET YOUR DOOM!}#340#322
+H~37~
+¿Qué estás      
+haciendo aquí?  
+Yo me encargaré 
+de ti. ~46~~75~
+Aquí M-8. Usa   
+este comunicador
+en las zonas 1, 
+4 y 5. Tuvimos  
+que ocultar los 
+otros 3 que tú  
+debes encontrar.
+     ~46~Q
+No podemos con  
+él.    ~46~S
+Intenta pasar   
+tras él.   F~5A~
+Eres tonto si   
+piensas que te  
+dejaré llevarte 
+algún arma.     
+¡Prepárate para 
+tu final! #322
+|322
+@0002C736-0002C8CA-FF
+;0002C736{2~4D~WE'VE LOCATED   JOE!            HE'S AT P.O.W.  CAMP IN AREA 7. PLEASE HURRY.2-HERE'S ANOTHER  COMMUNICATOR FORYOU.            HURRY,TAKE IT.H~59~OUT OF THE WAY! HERE COMES THE  LEADER OF THE   IMPERIAL FORCE. MAKE WAY FOR    MR.KILLT.4~A9~FF BATALLION,   A DOG OF THE    FEDERATION!     I'LL TEACH THEM NOT TO MESS     AROUND WITH US. IF THEY DON'T   WANT TO SHORTEN THEIR LIVES,    THEY'D BETTER   BE QUIET!}#414#405
+2~4D~
+¡Hemos hallado a
+Joe! Está en un 
+campamento PDG  
+de la zona 7.   
+Date prisa.  2-
+Aquí hay otro   
+comunicador para
+ti.             
+Rápido,tómalo.H~59~
+¡Apártate!      
+Aquí viene el   
+líder de la     
+fuerza imperial.
+Abridle paso al 
+Sr.Killt.4~A9~
+Batallón FF, ¡un
+perro de la     
+federación!     
+Les enseñaré a  
+no jugar con    
+nosotros.       
+Si no quieren   
+acortar sus     
+vidas, ¡será    
+mejor que estén 
+callados!#405
+|405
+@0002C8CB-0002CAA8-FF
+;0002C8CB{~46~~70~THIS IS M-5.    WE HAVE LOCATED THE UNDERGROUND PASSAGE WHICH ISNOT IN THE MAP. I THINK WE HAVE FOUND SOMETHING.~40~.AAA··WHERE AM I?WH··WHO IS      AWAKENING ME?   ~45~~7F~ARE YOU FROM THEFEDERATION?     I'M A SPY FOR   THE FEDERATION. I JUST SAW THAT JOE WAS TAKEN   AWAY.THEY HEADEDTOWARDS AREA 8.~45~,NO.5,IS THE     ROCKET LAUNCHER ALL RIGHT?~41~7YEAH,IT'S FINE. ~B0~~79~BATTLE HAS ENDEDAND WE HAVE A   NEW HERO NOW.   I WAS FEELING   DIFFERENT AS I  RECEIVED THE    BLESSINGS FROM  COMRADES.}#505#478
+~46~~70~
+Aquí M-5.       
+Hemos localizado
+el pasadizo     
+subterráneo     
+secreto.        
+Creo que hemos  
+encontrado algo.~40~.
+Ah·¿Dónde estoy?
+¿Q·Quién me     
+despierta?      ~45~~7F~
+¿Eres de la     
+federación?     
+Soy un espía de 
+la federación.  
+Acabo de ver que
+se llevaban a   
+Joe. Se dirigían
+a la zona 8.   ~45~,
+No.5, ¿Está bien
+el lanzacohetes?
+          ~41~7
+Sí, está bien.  ~B0~~79~
+La batalla acabó
+y tenemos un    
+nuevo héroe.    
+Me sentía       
+diferente       
+recibiendo las  
+bendiciones del 
+equipo.  #478
+|478
+@0002CAA9-0002CBD8-FF
+;0002CAA9{~B0~~AC~NOW,SO MUCH TIMEHAS ELAPSED AND I'M OLD NOW,    I THINK IT'S    TIME FOR ME TO  TELL YOU THE    WHOLE STORY.    I HOPE THIS     STORY WILL BE   TOLD FOR A      LONG TIME··· ~47~PI PI PI···     WE HAVE FOUND ANINTRUDER.       WE ARE GOING TO ATTACK.I~37~WELCOME.        THERE'S         {[b]} COMMUNICATOR  INSIDE.}#316#304
+~B0~~AC~
+Ahora, ha pasado
+mucho tiempo y  
+soy viejo, creo 
+que es hora de  
+que te cuente   
+toda la         
+historia.       
+Espero que esta 
+historia se     
+cuente mucho    
+tiempo···   
+ ~47~
+PI PI PI···     
+Hemos encontrado
+a un intruso.   
+Le vamos a      
+atacar.I~37~
+Bienvenido.     
+hay un          
+comunicador {[b]}   
+dentro.#304
+|304
+@0002CBD9-0002CD3B-FF
+;0002CBD9{IZDON'T BE HASTY. ADVANCE WITH    CAUTION.H~25~GET THE HECK OUTOF HERE, YOU    NERD!~46~~4E~IF YOU HAVE A   WIDE CANNON AND ROCKET LAUNCHER,GO TOWARDS      AREAS 3 AND 6.~45~~25~EXCUSE ME,WHERE IS THE GARBAGE  DUMP?~49~~60~YOU IMBECILE,   HOW LONG HAVE   YOU BEEN IN THE FORCE!          IT'S IN AREA 9. KEEP IT IN MIND.J~37~ATTACK!!        LET'S SHOW WHAT THE 2ND PLATOON CAN DO!}#379#355
+IZ
+No tengas prisa.
+avanza con      
+cuidado.H~25~
+¡Largo de aquí, 
+rarito!         
+     ~46~~4E~
+Si tienes un    
+cañón ancho y un
+lanzacohetes,   
+dirígete a las  
+zonas 3 y 6.  ~45~~25~
+¿Dónde está el  
+basurero?       
+     ~49~~60~
+Imbécil, ¡cuanto
+tiempo has      
+estado en la    
+fuerza!         
+En la zona 9.   
+Tenlo en mente. J~37~
+¡¡ATACAD!!      
+¡Mostremos que  
+hace el pelotón 
+Núm.2! #355
+|355
+@0002CD3C-0002CE78-FF
+;0002CD3C{~44~~C0~THE EMPIRE IS   TRYING TO ACCOM-PLISH WHAT THE  BADDS' COULDN'T DO. HOWEVER THEYCANNOT COMPLETE THIS PROJECT    BECAUSE THE     PERSON WITH THE KEY KNOWLEDGE ISDEAD.           HIS NAME IS     ~44~~79~I HAVE GIVEN A  SPECIAL MACHINE-GUN TO A MAN    CALLED          DESTROYER-3 IN  AREA 18.        YOU SHOULD USE  THAT GUN.}#329#317
+~44~~C0~
+El imperio está 
+intentando      
+conseguir lo que
+los Badds no    
+pudieron. Pero  
+no pueden       
+completar este  
+proyecto porque 
+la persona con  
+el conocimiento 
+clave murió.    
+Se llama        ~44~~79~
+Le he dado una  
+ametralladora   
+especial a un   
+hombre llamado  
+Destructor-3 en 
+la zona 18.     
+Deberías usar   
+ese arma.#317
+|317
+@0002CE79-0002CFBB-FF
+;0002CE79{4~87~FOR THE REVIVAL DEVICE.         MASTER-D WILL   NEVER RISE      AGAIN.          NOW,IT'S YOUR   TURN TO DIE···  UH? WHAT!?      AYHH···M~89~THIS IS A       NEUTRAL AREA.   ALL ACTS OF     HOSTILITIES ARE PROHIBITED IN   THIS AREA.      IF VIOLATED,YOU WILL BE         ATTACKED.M~2D~I CANNOT LET YOUGO THROUGH WITH-OUT A PERMIT.}#332#323
+4~87~
+del dispositivo 
+de resurrección.
+Master-D no     
+volverá a       
+resucitar.      
+Ahora, es tu    
+hora de morir···
+¿EH? ¿¡QUÉ!?    
+AYYY···M~89~
+Esta es una zona
+neutral.        
+Todos los actos 
+hostiles están  
+prohibidos en   
+esta zona.      
+Si violas estas 
+normas, serás   
+atacado. M~2D~
+No puedo dejarte
+pasar sin un    
+permiso.     #323
+|323
+@0002CFBC-0002D1A9-FF
+;0002CFBC{~40~5GA·GA·GA····~B0~TYOU DON'T HAVE  ENOUGH POWER.6~39~YOU WANT,I'LL   SHOW YOU THE    HORROR OF THE   ALBATROS!~46~~35~OK. WE ARE GOINGTO OPEN THE DOOROF THE BOSS'S   ROOM.~45~9YOU TRANSPORTED JOE?~45~{[c]}YEAH,OVER TO    DISPOSAL AREA.  HEROES ALWAYS   LOOK GOOD.J~75~I'M CAPTAIN MACKOF THE IMPERIAL FORCE.          HA·HA·HA···     FOR YOU.        YOU WANT TO COMEINTO ROOM IN THEBACK?0~54~YOU'VE COME VERYFAR BUT YOU'RE  NOT GOING ANY-  WHERE FROM HERE.PAY YOUR DUES   NOW.J·IS THAT SO,     THAT,S VERY     DISAPPOINTING.}#521#494
+~40~5
+JA·JA·JA····~B0~T
+Tu poder no es  
+suficiente.  6~39~
+quieres,        
+¡te enseñaré el 
+horror de       
+Albatros!~46~~35~
+Vale. Vamos a   
+abrir la puerta 
+de la sala del  
+jefe.~45~9
+¿Transportaste a
+Joe?~45~{[c]}
+Sí, a la zona de
+residuos.       
+Los héroes se   
+ven bien. J~75~
+Soy el capitán  
+Mack de la      
+fuerza imperial.
+JA·JA·JA···     
+Para ti.        
+¿Quieres ir a la
+sala de atrás?  
+     0~54~
+Has llegado muy 
+lejos pero no   
+irás a ningún   
+otro lugar. Paga
+tus deudas ya.  
+    J·
+¿Eso es así?    
+Eso es muy      
+decepcionante.#494
+|494
+@0002D1AA-0002D25B-FF
+;0002D1AA{~B0~~AF~ STAFF                                                          CHARA-DESIGNE                   HOTARU·B        TERUKUN         JUNCHAN         GAMEREON        HAIHOO·K        }#184#178
+~B0~~AF~
+ EQUIPO         
+                
+                
+                
+PERSONAJES      
+                
+HOTARU·B        
+TERUKUN         
+JUNCHAN         
+GAMEREON        
+HAIHOO·K        #178
+|178
+@0002D25C-0002D34F-FF
+;0002D25C{I~25~I HAVE {[c]}        COMMUNICATOR YOUWANT.HOGO AHEAD,SHOOT  ME!~46~·{[c]} CAN BE VERY   USEFUL IN       AREAS 7 AND 9.~40~~86~THIS IS SUPER   JOE···          CAN SOMEONE HEARME?             WHERE AM I···   SOUNDS LIKE NEARTHE OCEAN BUT I CANNOT SEE ANY- THING.}#256#244
+I~25~
+Tengo el        
+comunicador {[c]}.  
+     HO
+¡Vamos, dispara!
+   ~46~·
+{[c]} Puede ser muy 
+útil en las     
+zonas 7 y 9.  ~40~~86~
+Aquí súper      
+Joe···          
+¿Alguien puede  
+oírme?          
+Dónde estoy···  
+Suena a cercano 
+al océano pero  
+no puedo ver    
+nada. #244
+|244
+@0002D350-0002D449-FF
+;0002D350{~48~~5F~AREA 9 LOOKS    LIKE THE        DISPOSAL AREA.  JOE MUST HAVE   BEEN TAKEN THERE. PLEASE HURRY.~45~~25~COMMANDER,I     CANNOT OPEN THISDOOR.~49~{[a]}I TOLD YOU TO   MEMORIZE THE    NUMBER, YOU     IDIOT!~3B~F 0~35~IT'TOO EARLY TO FEEL SAFE.      I'LL KILL YOU   HERE.}#271#250
+~48~~5F~
+La zona 9 parece
+de eliminación  
+de residuos. Joe
+debe haber sido 
+llevado allí.   
+Date prisa.    ~45~~25~
+Comandante, esta
+puerta no se    
+abre.~49~{[a]}
+Te dije que     
+memorizaras el  
+número, ¡idiota!
+      ~3B~F 0~35~
+Es pronto para  
+sentirse seguro.
+Te mataré aquí. 
+     #250
+|250
+@0002D44A-0002D523-FF
+;0002D44A{~46~~A0~THIS IS M-2.    WE'VE CAPTURED  THE ENEMY.      I WANT TO KNOW  ABOUT THE UNDER-GROUND PATH BUT I DON'T KNOW    WHERE TO START. WOULD YOU PLEASECOME TO AREA 7? ~46~{[a]}THERE'S ONE MOREWEAPON THAT CAN DESTROY THE     WALLS.}#227#218
+~46~~A0~
+Aquí M-2.       
+Hemos capturado 
+al enemigo.     
+Quiero saber del
+pasadizo        
+subterráneo pero
+no se por donde 
+empezar.        
+¿Vendrás a la   
+zona 7?         ~46~{[a]}
+Hay un arma más 
+que puede       
+destruir los    
+muros.#218
+|218
+@0002D524-0002D6C0-FF
+;0002D524{J~59~YOUR EFFORT IS  WASTED.         WE'VE JUST      TRANSFERED JOE  TO ANOTHER      LOCATION.2.WE WERE WAITING FOR YOU.        PLEASE COME IN. HVOH,WE'VE GOT A  LITTLE BOY NOW? HCOUCH,IT HURTS,  YOU IDIOT!H~57~OK,OK,I'LL TALK.UNDERGROUND     PATHS RUN BE-   TWEEN AREAS 14  AND 17,AND 15   AND 18.2YHOW COULD YOU DOSUCH A CRUEL    THING!{[d]}F 0~4C~SO,YOU'VE       FINALLY COME.   JOE IS HERE,    BUT YOU'RE GOINGTO DIE HERE.}#422#413
+J~59~
+Tu esfuerzo ha  
+sido para nada. 
+Acabamos de     
+transferir a Joe
+a otro lugar.   
+         2.
+Te estábamos    
+esperando.      
+Entra por favor.HV
+Oh, ¿tenemos a  
+un niño ahora?  HC
+Ay, ¡eso duele, 
+idiota!   H~57~
+Vale, hablaré.  
+Hay caminos     
+subterráneos    
+entre las zonas 
+14 y 17 y 15 y  
+18.    2Y
+¡Cómo pudiste   
+hacer algo tan  
+cruel!{[d]}F 0~4C~
+Así que al fin  
+has venido.     
+Joe está aquí,  
+pero tú vas a   
+morir aquí. #413
+|413
+@0002D6C1-0002D7C1-FF
+;0002D6C1{I~4B~I AM            DESTROYER-1.    DO YOU HAVE ANY NEED FOR A      MACHINEGUN?IF I~4B~I AM            DESTROYER-2.    DO YOU HAVE ANY NEED FOR A      MACHINEGUN?I~4B~I AM            DESTROYER-3.    DO YOU HAVE ANY NEED FOR A      MACHINEGUN?IPI HAVE IT IN MY ROOM.}#266#257
+I~4B~
+Soy el          
+Destructor-1.   
+¿Necesitas una  
+ametralladora,  
+capitán?   IF I~4B~
+Soy el          
+Destructor-2.   
+¿Necesitas una  
+ametralladora,  
+capitán?   I~4B~
+Soy el          
+Destructor-3.   
+¿Necesitas una  
+ametralladora,  
+capitán?   IP
+La tengo en mi  
+sala.#257
+|257
+@0002D7C2-0002D8B7-FF
+;0002D7C2{I~79~OH YES,SOMEONE  JUST ASKED ME TOTELL YOU THAT {[d]} IS IN TOWN      LOCATED BETWEEN THOSE MOUNTAINS.DO YOU KNOW WHATIT MEANS?H{[d]}YOU'RE MY 100TH OPPONENT.       I'LL TAKE GOOD  CARE OF YOU..F I{[b]}IF YOU CANNOT   ADVANCE ON THE  FLOOR,TRY       CEILING.}#249#246
+I~79~
+Oh, sí, alguien 
+acaba de decirme
+que te diga que 
+{[d]} está ubicada  
+entre esas      
+montañas.       
+¿Sabes lo qué   
+es?      H{[d]}
+Eres mi oponente
+número 100.     
+Yo cuidaré bien 
+de ti.      
+.F I{[b]}
+Si no puedes    
+avanzar por el  
+suelo, prueba el
+techo.  #246
+|246
+@0002D8B8-0002D961-FF
+;0002D8B8{~B0~~A8~PROGRAM                         ICHIROU         TWILIGHT        OKI·CHAN        WINDY                                            MUSIC                          GONDAMIN}#176#170
+~B0~~A8~
+PROGRAMA        
+                
+ICHIROU         
+TWILIGHT        
+OKI·CHAN        
+WINDY           
+                
+                
+MÚSICA          
+                
+GONDAMIN#170
+|170
+@0002D962-0002DA14-FF
+;0002D962{~46~~6A~THIS IS M-8.    WE'VE BUILT A   NEWLY DEVELOPED BAZOOKA.        PLEASE OBTAIN   IT FROM A MAN   NAMED HAL.~48~~2D~BLOW UP!        WE WANT TO BLOW UP THIS AREA.~46~ABUT WE HAVE NO  BOMBS.}#194#179
+~46~~6A~
+Aquí M-8.       
+Hemos construido
+un bazuca de    
+nueva creación. 
+Obtenlo de un   
+hombre que se   
+llama Hal.~48~~2D~
+¡EXPLOTA!       
+Queremos volar  
+esta zona.   ~46~A
+Pero no tenemos 
+bomba.#179
+|179
+@0002DA15-0002DAEF-FF
+;0002DA15{~46~~D9~I AM HAL.       I'M IN FRONT OF AREA 12 NOW.    I CANNOT ENTER  UNLESS YOU BLOW UP AREAS 10 AND 11,SO PLEASE DO IT FAST.        BAZOOKA? YES,I  HAVE IT.        DON'T WORRY     ABOUT ANYTHING. LET ME HANDLE   THE REST.}#225#219
+~46~~D9~
+Soy Hal.        
+Estoy en frente 
+de la zona 12.  
+No puedo entrar 
+a no ser que    
+vueles las zonas
+10 y 11, hazlo  
+rápido.         
+¿Un bazuca?     
+Sí, lo tengo.   
+no te preocupes 
+por nada. Yo me 
+encargo del     
+resto.   #219
+|219
+@0002DAF0-0002DBE9-FF
+;0002DAF0{~46~BNO. HAL HAS THE BAZOOKA.J~35~IT'S TOO EARLY  TO FEEL SAFE.   I'LL KILL YOU   HERE.~44~~A7~THIS IS SUPER   JOE. THIS AREA  IS DIVIDED BY 2 BARRIERS.       IN ORDER TO     BREAK THE       BARRIERS,YOU    SHOULD BREAK THEPOWER SYSTEM.   FIND THE POWER  SYSTEM.}#262#250
+~46~B
+Hal tiene el    
+bazuca. J~35~
+Es pronto para  
+sentirse seguro.
+Te mataré aquí. 
+     ~44~~A7~
+Aquí súper Joe. 
+esta zona está  
+dividida por 2  
+barreras.       
+Para poder      
+romper las      
+barreras,       
+deberías quitar 
+la electricidad.
+Busca el sistema
+ahora. #250
+|250
+@0002DBEA-0002DCA6-FF
+;0002DBEA{~46~7WH···WHAT IS IT?~46~OWHAT IS GOING   ON?~44~~74~THIS IS JOE.    I'M GOING TO    DESTROY THE     POWER SOURCE OF THE BASE.       DEFEAT THE      LEADER AND GET  OUT!~45~EIT'S JOE,SUPER  JOE IS COMING!}#204#189
+~46~7
+¿Q···Qué pasa?  ~46~O
+¿Qué sucede?    
+   ~44~~74~
+Aquí Joe.       
+Voy a destruir  
+la fuente de    
+energía de la   
+base.           
+¡Vence al líder 
+y sal de ahí!   
+    ~45~E
+Es Joe, ¡viene  
+súper Joe!    #189
+|189
+@0002DCA7-0002DDAA-FF
+;0002DCA7{~49~7ANSWER ME,NO.5! 4~F0~OH? THE KID WHO WAS HERE BEFORE.I NEVER THOUGHT I'D SEE YOU     HERE.           BUT YOU'RE TOO  LATE.           THE ALBATROS HASBEGUN TO MOVE.  NOT NECESSARY   TO WAIT         FOR MASTER-D TO REVIVE.         I'VE JUST CUT   OFF THE SWITCH  }#266#260
+~49~7
+¡Responde,No.5! 4~F0~
+¿Eh? El chico   
+que estuvo aquí.
+Nunca pensé que 
+te vería aquí.  
+Pero llegas     
+demasiado tarde.
+El Albatros ha  
+empezado a      
+moverse.        
+No es necesario 
+esperar a que el
+Master-D        
+resucite.       
+Acabo de cortar 
+el interruptor  #260
+|260
+@0002DDAB-0002DF4C-FF
+;0002DDAB{6~D0~YOU WOKE ME FROMA LONG SLEEP.   NOW,I HAVE NO   MORE USE FOR    YOU.            I'LL TAKE OVER  YOUR ARMY AND   RULE THE WORLD. WHAT,YOU'RE     GOING TO FIGHT  AGAINST ME?     YOU DAMN FOOL.  IF THAT'S WHAT  2~CE~I'M HAL.MASTER-DIS···LEAVING.   I WON'T LAST    LONG.           I TAKE THIS     BAZOOKA.        GO GET HIM!     TH···THERE IS A CHOPPER DOWN    HERE.           AIM AT THE COCK-PIT AS YOU JUMP.YOU CAN DO IT!}#424#418
+6~D0~
+Me despertaste  
+de un gran      
+sueño. Ahora ya 
+no me sirves.   
+Tomaré tu       
+ejército y      
+dominaré el     
+mundo.          
+¿Qué? ¿Vas a    
+pelear contra   
+mi?             
+Maldito tonto.  
+Si eso es lo que
+2~CE~
+Soy Hal.Master-D
+Se··· marcha.   
+No duraré mucho.
+                
+Toma este       
+bazuca.         
+¡Ve a por él!   
+H··· Hay un     
+helicóptero ahí 
+abajo.          
+Apunta a la     
+cabina saltando.
+¡Tú puedes!   #418
+|418
+@0002DF4D-0002E0D8-FF
+;0002DF4D{GDYOUR NUMBER'S   UP! MONSTER!62AH···! ~45~THIS BASE WILL  EXPLOD IN       60 SECONDS.     EVACUATE RIGHT  AWAY.~43~~2B~MR.JOE.         I'VE COME TO    RESCUE YOU.~44~~F0~THANK YOU.      I'M SORRY TO    CAUSE SO MUCH   TROUBLE.        CAPTAIN,SOME-   THING TERRIBLE  IS GOING TO     HAPPEN.         REMEMBER THERE  WAS A PLAN IN   THE BADDS' SE-  CRET DOCUMENTS' ABOUT BUILDING  A HUGE LASER    CANNON.         }#411#396
+GD
+¡Es tu número!  
+¡Monstruo!  62
+¡AAAH!
+ ~45~
+Esta base       
+explotará en    
+60 segundos.    
+Evacuad la      
+base.~43~~2B~
+Sr. Joe.        
+He venido a     
+rescatarlo.~44~~F0~
+Gracias.        
+siento causar   
+tantos          
+problemas.      
+Capitán, algo   
+terrible va a   
+suceder.        
+¿Recuerda que   
+había un plan en
+los 'Documentos 
+Secretos' de    
+Badds para      
+construir un    
+cañón láser     
+enorme?         #396
+|396
+@0002E0D9-0002E1C2-FF
+;0002E0D9{~44~~E8~MASTER-D.       TO FINISH THE   PROJECT,KILLT   IS TRYING TO    RESURRECT HIM   BUT HAS BEEN    UNABLE TO DO SO.CAPTAIN,WE MUST STOP HIM BEFORE THIS PROJECT    GETS TOO BIG.   I'M GOING TO    AREA 12 NOW.    CAN YOU FIGHT   WITH ME?}#240#234
+~44~~E8~
+Master-D.       
+Para terminar el
+proyecto, Killt 
+está intentando 
+resucitarlo pero
+no ha podido    
+lograrlo.       
+Capitán, debemos
+pararle antes de
+que el proyecto 
+se haga grande. 
+Ahora voy a la  
+zona 12.        
+¿Puedes pelear  
+conmigo?#234
+|234
+@0002E1C7-0002E22F-FF
+;0002E1C7{~68~PLANNING                        HATCHAN                         SPECIAL THANKS                  MR.FF   }#108#105
+~68~
+PLANES          
+                
+HATCHAN         
+                
+MUCHAS GRACIAS  
+                
+Sr.FF   #105
+|105
+@0002E231-0002E235-FF
+;0002E231{1GOOD}#005#005
+1
+Bien#005
+|5
+@0002E24C-0002E25C-FF
+;0002E24C{7NO.IS INCORRECT.}#017#017
+7
+No. Es erróneo. #017
+|17
+@0002E25E-0002E296-FF
+;0002E25E{{[b]}I'LL TALK ABOUT THE PERSON I METWHEN I WAS      YOUNG···}#057#057
+{[b]}
+Hablaré sobre la
+persona que     
+conocí siendo   
+joven···#057
+|57
+@0002E297-0002E491-FF
+;0002E297{~50~VCOMMUNI- WIRE-   CATE    TAPPING~B0~~6E~IN 198X WE'VE   FOUND THE BADDS'TOP SECRET      MATERIAL CALLED ALBATROS WHICH  WAS NEVER PUT   INTO PRACTICE.~B0~~68~IMPERIAL FORCE'SGENERALISSIMO   KILLT HAS SEEN  THE PLAN,AND    DECIDED TO      EXECUTE THE PLANHIMSELF.~B0~~F0~THE FEDERATION  TRIED TO STOP   HIS ATTEMPT BY  SENDING OUR HEROSUPER JOE. BUT  LOST CONTACT    WITH HIM.       ONE BRAVE MAN   WAS SENT WITH A SPECIAL MISSION···              TO RESCUE SUPER JOE.            THE STORY       BEGINS···       7K  YES    NO}#528#507
+~50~V
+Comuni- Pinchar 
+ carse          ~B0~~6E~
+En 198X hallamos
+el material de  
+alto secreto de 
+los Badds, el   
+'Albatros' que  
+nunca fue puesto
+en práctica.  ~B0~~68~
+El generalísimo 
+Killt de las    
+fuerzas         
+imperiales ha   
+visto el plan y 
+ha decidido     
+usarlo. ~B0~~F0~
+La federación   
+intentó parar su
+intento enviando
+a nuestro héroe 
+súper Joe. pero 
+perdimos el     
+contacto con él.
+Un bravo hombre 
+fue enviado en  
+misión especial 
+···             
+Para rescatar a 
+súper Joe.      
+La historia     
+empieza···      7K
+  Sí     No#507
+|507
+@0002E492-0002E5ED-FF
+;0002E492{~48~~35~WHAT? HIM?      HE IS DANGEROUS.YOU MUST GET IT BACK!GQIS JOE STILL    INSIDE?~46~~29~CAPTAIN,IT'S    FROM HEAD-      QUARTERS.~48~~DF~THE COMMAND IS  AS FOLLOWS···   ENTER INTO THE  ENEMY AREA.     RESCUE SUPER JOEWHILE STAYING INTOUCH WITH      AGENTS.         THERE ARE MANY  AGENTS IN       AREA 1 NOW.     FIRST,GO SEE    THEM.           WE RELY ON YOU.}#366#348
+~48~~35~
+¿Qué? ¿Él?      
+Él es peligroso.
+¡Recupéralo!    
+     
+GQ
+¿Joe aún está   
+dentro?~46~~29~
+Capitán, es del 
+cuartel general.
+         ~48~~DF~
+Las órdenes son 
+estas···        
+Entra en la zona
+del enemigo.    
+Rescata a súper 
+Joe mientras    
+contactas con   
+los agentes.    
+Hay varios      
+agentes en la   
+zona 1 ahora.   
+Primero ve a    
+verles. Contamos
+contigo.       #348
+|348
+@0002E5EE-0002E69E-FF
+;0002E5EE{~B0~VWE'VE OBTAINED                  ~78~~5B~WHAT HAPPENED TOTHE CAPTAIN?    WE CANNOT WAIT  ANY LONGER.     WE ARE GOING TO ESCAPE NOW!~76~.PLEASE WAIT JUSTLITTLE LONGER···HEY,WHAT'S THAT!}#189#177
+~B0~V
+Hemos obtenido  
+                ~78~~5B~
+¿Qué le sucedió 
+al capitán?     
+Ya no podemos   
+esperar más.    
+¡Vamos a escapar
+ahora!     ~76~.
+Por favor espere
+un poco más···  
+Eh, ¿qué es eso?#177
+|177
+@0002E73D-0002E790-FF
+;0002E73D{NERALISSIMO   KILLT HAS SEEN  THE PLAN,AND    DECIDED TO      EXECUTE THE PLANHIMSE~FF~}#087#084
+Neralissimo   
+Killt ha visto  
+el plan y ha    
+decidido        
+ejecutar el plan
+él mi~FF~#084
+|84
+@0003E72A-0003E72F-FF
+;0003E72A{AREA  }#006#006
+Zona  #006
+|6
+@0003E733-0003E77A-FF
+;0003E733{  AREA   CLEAR   BONUS    ^X10   WE'VE OBTAINED                         }#072#072
+   Zona Acabada 
+ Bonos    ^X10  
+ Obtuvimos      
+                
+        #072
+|72

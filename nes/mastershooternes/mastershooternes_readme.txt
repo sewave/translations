@@ -1,5 +1,5 @@
-Heroes of Might and Magic II (Game Boy Color)
-Traducción al Español v1.1 (10/09/2021)
+Master Shooter (NES)
+Traducción al Español v1.0 (21/08/2021)
 (C) 2021 Traducciones Wave
 
 ------------------------
@@ -9,18 +9,16 @@ Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
-V1.1: Arreglados caracteres especiales
-
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Heroes of Might and Magic II (USA) (En,Fr,De).gbc
-MD5: ad37726c92f43ad7915225b7eaf94ffd
-SHA1: 1d6ae18073c8b789c288039b0f579ebf15d1f03c
-CRC32: 53156d4d
-1048576 bytes
+Master Shooter (Asia) (Unl).nes
+MD5: 03dfb0f60348b568fbcb673189349764
+SHA1: 9d13a63eda096facfa4a92b645d05394bb1114b3
+CRC32: d2dcae89
+65552 bytes
 
 --------
 Créditos

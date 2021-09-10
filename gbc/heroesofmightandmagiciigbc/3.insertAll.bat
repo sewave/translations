@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Heroes of Might and Magic II (U) (M3) [C][!].gbc"
-set S_FILENAME="Heroes of Might and Magic II (U) (M3) [C][!].gbc"
+set T_FILENAME="TR_Heroes of Might and Magic II (USA) (En,Fr,De).gbc"
+set S_FILENAME="Heroes of Might and Magic II (USA) (En,Fr,De).gbc"
 set SCRIPTNAME="heroesofmightandmagiciigbc"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

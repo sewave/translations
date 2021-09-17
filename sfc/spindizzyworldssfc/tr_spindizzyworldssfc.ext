@@ -1,0 +1,569 @@
+@000127D1-00012A7D-00
+;000127D1{~10~~01~ The game ends if~1F~~07~(your fuel runs out~00~}#056#041
+~10~~01~
+El juego acaba al~1F~~07~(
+gastar combustible~00~#041
+;000127FA{~02~~1E~~F4~~08~~18~~0F~ ~10~~01~Getting crushed~1F~~08~( destroys craft~00~}#076#043
+~02~~1E~~F4~~08~~18~~0F~ ~10~~01~
+ Ser aplastado ~1F~~08~(
+ rompe tu nave ~00~#043
+;00012825{~03~~1E~~F4~~05~~18~~16~~10~~10~~01~Falling off loses fuel~00~}#062#032
+~03~~1E~~F4~~05~~18~~16~~10~~10~~01~
+Caer deja combustible ~00~#032
+;00012845{~04~~1E~~F4~~02~~18~~1C~ ~10~~01~You must complete this level~1F~~03~(  before the time runs out~00~}#100#067
+~04~~1E~~F4~~02~~18~~1C~ ~10~~01~
+ Debes completar este nivel ~1F~~03~(
+  antes de que acabe el ti~00~#067
+;00012888{~05~~1E~~F4~~03~~18~~1A~~10~~10~~01~Avoid contact with aliens~00~}#065#035
+~05~~1E~~F4~~03~~18~~1A~~10~~10~~01~
+Evita tocar a alienígenas~00~#035
+;000128AB{~06~~1E~~F4~~08~~18~~10~ ~10~~01~Landing too hard~1F~~08~( destroys craft ~00~}#078#045
+~06~~1E~~F4~~08~~18~~10~ ~10~~01~
+Aterrizar fuerte~1F~~08~(
+destruye la nave~00~#045
+;000128D8{~07~~1E~~F4~~05~~18~~16~ ~10~~01~You are trapped on Ice~1F~~05~(...Self destructing...~00~}#090#057
+~07~~1E~~F4~~05~~18~~16~ ~10~~01~
+ Atrapado en el Hielo ~1F~~05~(
+...Autodestrucción... ~00~#057
+;00012911{~08~~1E~~FD~~07~~18~~12~~10~~10~~01~Avoid these blocks~00~}#058#028
+~08~~1E~~FD~~07~~18~~12~~10~~10~~01~
+Evita los bloques ~00~#028
+;0001292D{~09~~1E~~F4~~03~~18~~1A~~10~~10~~01~You need to disable sparks~00~}#066#036
+~09~~1E~~F4~~03~~18~~1A~~10~~10~~01~
+Debes deshabilitar chispas~00~#036
+;00012951{~0A~~1E~~F4~~06~~18~~14~ ~10~~01~On Ice for too long~1F~~06~(Self destructing...~00~}#084#051
+~0A~~1E~~F4~~06~~18~~14~ ~10~~01~
+ Demasiado en Hielo~1F~~06~(
+ Autodestrucción...~00~#051
+;00012984{~10~~1F~~0A~~18~Collect jewels before~0D~   the timer ends.~00~}#063#045
+~10~~1F~~0A~~18~
+Recoge joyas mientras~0D~
+    quede tiempo. ~00~#045
+;000129B1{~11~~1F~~02~~18~~10~~01~The Timer will not kill you~00~}#055#034
+~11~~1F~~02~~18~~10~~01~
+   El Tiempo no te matará  ~00~#034
+;000129D3{~18~~1E~~F4~~04~r~0C~0~10~~01~Find the~1F~~04~~82~switch state~1F~~04~~92~you need ~00~}#087#045
+~18~~1E~~F4~~04~r~0C~0~10~~01~
+Halla el~1F~~04~~82~
+estado que  ~1F~~04~~92~
+necesitas~00~#045
+;00012A00{~1A~~1E~~F4~~18~\~18~~12~~10~~01~Falling off is not fatal~00~}#061#034
+~1A~~1E~~F4~~18~\~18~~12~~10~~01~   Caerte no es fatal   ~00~#034
+;00012A22{~1F~~1F~~0B~F~01~~10~Well Done!~1F~~02~n~01~~10~The planet is disintegrating~00~}#080#050
+~1F~~1F~~0B~F~01~~10~
+¡Muy bien!~1F~~02~n~01~~10~
+  El planeta se desintegra  ~00~#050
+;00012A54{=~1E~P~02~~08~$~14~~10~~01~Found an illegal warning number ~00~}#063#042
+=~1E~P~02~~08~$~14~~10~~01~
+Hallado número de alerta ilegal ~00~#042
+|685
+@00012E19-00013219-00
+;00012E19{~08~~10~G~11~~02~eographic~10~~01~~1F~~0A~ ~01~E~11~~02~nvironmental~10~~01~~1F~~0C~0R~11~~02~econnaissance~10~~01~~1F~~0E~~40~A~11~~02~nd~10~~01~~1F~~10~PL~11~~02~andMapping~10~~01~~1F~~12~`D~11~~02~evice~1E~~C0~~03~~88~~1A~0~1F~~03~~88~~01~~10~GERALD collects~1F~~03~~98~~01~~10~jewels for energy~00~}#302#146
+~08~~10~
+D~11~~02~ispositivo~10~~01~~1F~~0A~ ~01~
+R~11~~02~econocimiento~10~~01~~1F~~0C~0
+A~11~~02~mbiental~10~~01~~1F~~0E~~40~
+G~11~~02~eográfico~10~~01~~1F~~10~P
+C~11~~02~artógrafo~10~~01~~1F~~12~`
+S~11~~02~uelo~1E~~C0~~03~~88~~1A~0~1F~~03~~88~~01~~10~
+DRAGCS recoge~1F~~03~~98~~01~~10~
+joyas por energía~00~#146
+;00012EAB{~1F~~05~`~10~~02~Some hazards to avoid.~01~~1E~ ~02~~80~~0C~8 These kill~1E~ ~12~~80~~0C~8 Lava burns~1E~~90~~04~ ~18~0~1F~~08~ Avoid all aliens~00~}#148#088
+~1F~~05~`~10~~02~
+  Peligros a evitar.  ~01~~1E~ ~02~~80~~0C~
+8 Esto mata ~1E~ ~12~~80~~0C~
+8 Lava quema~1E~~90~~04~ ~18~0~1F~~08~
+  Evita al alien ~00~#088
+;00012F03{~1E~ ~08~ ~10~2~10~    Switches~1E~ ~01~p~1E~~40~~1E~ ~01~~88~~1E~~10~Switches control other objects~00~}#104#062
+~1E~ ~08~ ~10~2~10~
+    Botones ~1E~ ~01~p~1E~~40~~1E~ ~01~~88~~1E~~10~
+Los botones controlan objetos ~00~#062
+;00012F41{~1E~~C0~~02~0~1C~ ~10~~1F~~07~0~02~WARPS~01~ transport you~1F~~07~Bbetween levels & Worlds~1E~~C0~~02~~8B~~1C~ ~1F~~02~~8B~Some WARPS only turn on~1F~~02~~9B~if jewels are collected~00~}#185#116
+~1E~~C0~~02~0~1C~ ~10~~1F~~07~0~02~
+TRNPT~01~
+ te transportan~1F~~07~B
+entre niveles y Mundos~1E~~C0~~02~~8B~~1C~ ~1F~~02~~8B~
+Algunos solo se activan~1F~~02~~9B~
+si se recogen las joyas~00~#116
+;00012FB5{~11~~07~~1F~~14~~C0~press start~00~}#035#017
+~11~~07~~1F~~14~~C0~pulsa start~00~#017
+;00012FC6{~10~~07~~1F~~0B~`P A U S E~00~}#030#015
+~10~~07~~1F~~0B~`P A U S A~00~#015
+;00012FD5{~10~~07~~1F~~0B~`         ~00~}#030#015
+~10~~07~~1F~~0B~`         ~00~#015
+;00012FE4{~10~~01~~1E~~84~~06~`~14~~10~~01~You have not Started~00~}#057#030
+~10~~01~~1E~~84~~06~`~14~~10~~01~
+No has Empezado aún ~00~#030
+;00013002{~10~~01~~1F~~0A~PWell Done !!~1F~~06~pNow try 'Spindizzy'.~1F~~08~~88~You can do it !!~00~}#090#060
+~10~~01~~1F~~0A~P
+¡Bien hecho!~1F~~06~p
+Prueba 'Giramareo'. ~1F~~08~~88~
+¡Puedes hacerlo!~00~#060
+;0001303E{~10~~01~~1F~~0A~PWell Done !!~1F~~07~pNow try 'Advanced'.~1F~~08~~88~You can do it !!~00~}#089#059
+~10~~01~~1F~~0A~P
+¡Bien hecho!~1F~~07~p
+ Prueba 'Avanzado'.~1F~~08~~88~
+¡Puedes hacerlo!~00~#059
+;00013079{~10~~01~~1F~~0A~HBonus  Level~1F~~05~`Collect jewels before~1F~~07~xthe timer runs out~1F~~08~~88~Do not fall off~00~}#117#081
+~10~~01~~1F~~0A~H
+Nivel  Bonos~1F~~05~`
+Recoge joyas antes de~1F~~07~x
+agotarse el tiempo~1F~~08~~88~
+  No te caigas ~00~#081
+;000130CA{~1E~~F4~~08~X~0F~(~10~~01~Really Abandon?~00~}#045#024
+~1E~~F4~~08~X~0F~(~10~~01~
+  ¿Abandonar?  ~00~#024
+;000130E2{~1F~~08~pYES~00~}#016#007
+~1F~~08~pSí ~00~#007
+;000130E9{~1F~~15~pNO~00~}#015#006
+~1F~~15~pNo~00~#006
+;000130EF{~1E~~F4~~07~`~12~~10~~10~~01~~00~}#033#009
+~1E~~F4~~07~`~12~~10~~10~~01~~00~#009
+;000130F8{~1F~~07~`Beginner~00~}#021#012
+~1F~~07~`Novato  ~00~#012
+;00013104{~1F~~11~`Advanced~00~}#021#012
+~1F~~11~`Avanzado~00~#012
+;00013110{~1E~~F4~~05~~10~~15~~C0~~11~~01~~1F~~08~0B C D F G H J K~1F~~08~~40~L M N P Q R S T~1F~~08~PV W X Y Z b c d~1F~~08~`f g h j k l m n~1F~~08~pp q r s t v w x~1F~~08~~80~y z 0 1 2 3 4 5~1F~~08~~90~6 7 8 9 ! ? ~23~ $~1F~~08~~A0~% & < > + - * /~1F~~08~~B0~              ~7B~~1F~~05~~C0~Press start for game,~1F~~06~~C8~ select for cancel.~00~}#337#217
+~1E~~F4~~05~~10~~15~~C0~~11~~01~~1F~~08~0B C D F G H J K~1F~~08~~40~L M N P Q R S T~1F~~08~PV W X Y Z b c d~1F~~08~`f g h j k l m n~1F~~08~pp q r s t v w x~1F~~08~~80~y z 0 1 2 3 4 5~1F~~08~~90~6 7 8 9 ! ? ~23~ $~1F~~08~~A0~% & < > + - * /~1F~~08~~B0~              ~7B~~1F~~05~~C0~
+  Start para jugar, ~1F~~06~~C8~
+select para anular. ~00~#217
+;000131E9{~1E~~F4~~0A~`~0C~~10~~10~~01~It's wrong !~00~}#045#021
+~1E~~F4~~0A~`~0C~~10~~10~~01~ ¡Está mal! ~00~#021
+;000131FE{~1E~~F4~~0A~X~0D~~08~~11~~01~time   :  :  ~1E~~F4~~09~~88~~0F~~10~~00~}#070#028
+~1E~~F4~~0A~X~0D~~08~~11~~01~tmp    :  :  ~1E~~F4~~09~~88~~0F~~10~~00~#028
+|1025
+@0001321A-000133D0-00
+;0001321A{~11~~1F~~00~}#012#003
+~11~~1F~~00~#003
+;0001321D{~00~}#004#001
+~00~#001
+;0001321E{push A button for game,~1F~~00~}#031#025
+  pulsa A para jugar,  ~1F~~00~#025
+;00013237{~08~or B button for test mode.~00~}#034#028
+~08~o B para modo de pruebas. ~00~#028
+;00013253{~1E~~86~~07~8~12~p~10~~1F~~07~8Continue this game~00~}#053#029
+~1E~~86~~07~8~12~p~10~~1F~~07~8
+Continuar partida ~00~#029
+;00013270{~10~~1F~~09~PStart new game~00~}#031#019
+~10~~1F~~09~P
+Partida nueva ~00~#019
+;00013283{~10~~1F~~07~hCheck performance~00~}#034#022
+~10~~1F~~07~h
+Mirar rendimiento~00~#022
+;00013299{~10~~1F~~08~~80~Wind back world~00~}#035#020
+~10~~1F~~08~~80~
+Mundo ventolera~00~#020
+;000132AD{~10~~1F~~09~~98~Input password~00~}#034#019
+~10~~1F~~09~~98~
+Entra tu clave~00~#019
+;000132C0{~11~~1E~4~03~~18~~1A~~B0~~01~~00~}#033#009
+~11~~1E~4~03~~18~~1A~~B0~~01~~00~#009
+;000132C9{time   :  :  ~00~}#017#014
+tmp    :  :  ~00~#014
+;000132D7{~10~~1E~4~08~`~10~ ~10~~01~You cannot enter~1F~~08~p this world yet~00~}#071#044
+~10~~1E~4~08~`~10~ ~10~~01~
+No puedes entrar~1F~~08~p
+  al mundo aún ~00~#044
+;00013303{~11~~1E~~86~~04~ ~09~~08~~01~Easydizzy~11~~1E~~86~~13~ ~09~~08~~01~Spindizzy~11~~1E~~86~~07~~C8~~11~~08~~01~Select a cluster.~00~}#129#060
+~11~~1E~~86~~04~ ~09~~08~~01~
+Mareoleve~11~~1E~~86~~13~ ~09~~08~~01~
+Mareogiro~11~~1E~~86~~07~~C8~~11~~08~~01~
+ Elige un grupo. ~00~#060
+;0001333F{~11~~01~~1E~~86~~05~p~17~~08~A wrong level selected.~00~}#056#032
+~11~~01~~1E~~86~~05~p~17~~08~
+ Nivel erróneo elegido.~00~#032
+;0001335F{~10~~1F~~08~~80~Use reserve fuel~00~}#036#021
+~10~~1F~~08~~80~
+Usa combustible ~00~#021
+;00013374{~10~~1F~~08~~98~Retry this world~00~}#036#021
+~10~~1F~~08~~98~
+Reintenta mundo ~00~#021
+;00013389{~10~~1F~~07~~B0~Abandon this world~00~}#038#023
+~10~~1F~~07~~B0~
+Abandona el mundo ~00~#023
+;000133A0{~07~~11~~1F~~0C~~10~TIME OUT~1F~~0C~~18~        ~00~}#052#025
+~07~~11~~1F~~0C~~10~
+ TIEMPO ~1F~~0C~~18~        ~00~#025
+;000133B9{unknown~00~}#011#008
+ ignoto~00~#008
+;000133C1{~10~~01~~1F~~0B~XGAME  OVER~00~}#031#016
+~10~~01~~1F~~0B~X
+FIN  JUEGO~00~#016
+|439
+@00013847-00013C1E-00
+;00013847{~0F~~08~now decoding...~00~}#027#018
+~0F~~08~decodificando..~00~#018
+;00013859{~11~~01~~1E~~86~~02~~10~~08~~10~push "B"~1F~~02~~18~to exit.~00~}#064#028
+~11~~01~~1E~~86~~02~~10~~08~~10~toca "B"~1F~~02~~18~y sales.~00~#028
+;00013875{~00~}#004#001
+~00~#001
+;00013876{~11~~01~~1E~b~04~h~19~~10~you take a wrong level or~1F~~04~pthe level cannot rotate.~00~}#088#061
+~11~~01~~1E~b~04~h~19~~10~
+ tomaste un nivel erróneo~1F~~04~p
+  o el nivel no rota.   ~00~#061
+;000138B3{~01~~11~~1E~b~02~~10~~1C~~C0~<Spindizzy WORLDS test mode>~1F~~02~~C8~please select with your pad.~00~}#101#068
+~01~~11~~1E~b~02~~10~~1C~~C0~
+<MUNDOS Giramareo modo test>~1F~~02~~C8~
+Por favor elige con tu pad. ~00~#068
+;000138F7{~11~~1F~~04~8Test play~00~}#026#014
+~11~~1F~~04~8
+Modo test~00~#014
+;00013905{~11~~1F~~08~~40~test play~00~}#029#014
+~11~~1F~~08~~40~
+Modo test~00~#014
+;00013913{~11~~1F~~08~Hcluster~00~}#024#012
+~11~~1F~~08~H
+Grupo  ~00~#012
+;0001391F{~11~~1F~~08~Plevel~00~}#022#010
+~11~~1F~~08~P
+Nivel~00~#010
+;00013929{~11~~1F~~08~Xplay mode~00~}#026#014
+~11~~1F~~08~X
+Modo jue.~00~#014
+;00013937{~11~~1F~~04~hSound test~00~}#027#015
+~11~~1F~~04~h
+Test audio~00~#015
+;00013946{~11~~1F~~08~pBGM~00~}#020#008
+~11~~1F~~08~p
+Mús~00~#008
+;0001394E{~11~~1F~~08~xS.E. A~00~}#023#011
+~11~~1F~~08~x
+E.S. A~00~#011
+;00013959{~11~~1F~~08~~80~S.E. B~00~}#026#011
+~11~~1F~~08~~80~
+E.S. B~00~#011
+;00013964{   Stop~00~}#011#008
+   Para~00~#008
+;0001396C{     00~00~}#011#008
+     00~00~#008
+;00013974{     01~00~}#011#008
+     01~00~#008
+;0001397C{     02~00~}#011#008
+     02~00~#008
+;00013984{     03~00~}#011#008
+     03~00~#008
+;0001398C{     04~00~}#011#008
+     04~00~#008
+;00013994{     05~00~}#011#008
+     05~00~#008
+;0001399C{     06~00~}#011#008
+     06~00~#008
+;000139A4{     07~00~}#011#008
+     07~00~#008
+;000139AC{     08~00~}#011#008
+     08~00~#008
+;000139B4{     09~00~}#011#008
+     09~00~#008
+;000139BC{     0A~00~}#011#008
+     0A~00~#008
+;000139C4{     0B~00~}#011#008
+     0B~00~#008
+;000139CC{     0C~00~}#011#008
+     0C~00~#008
+;000139D4{     0D~00~}#011#008
+     0D~00~#008
+;000139DC{     0E~00~}#011#008
+     0E~00~#008
+;000139E4{     0F~00~}#011#008
+     0F~00~#008
+;000139EC{     10~00~}#011#008
+     10~00~#008
+;000139F4{     11~00~}#011#008
+     11~00~#008
+;000139FC{     12~00~}#011#008
+     12~00~#008
+;00013A04{     13~00~}#011#008
+     13~00~#008
+;00013A0C{usual play~00~}#014#011
+juego nrml~00~#011
+;00013A17{invinsible~00~}#014#011
+ invisible~00~#011
+;00013A22{ Beginners! ~00~}#016#013
+ ¡Novatos!  ~00~#013
+;00013A2F{~00~}#004#001
+~00~#001
+;00013A30{~00~}#004#001
+~00~#001
+;00013A31{~00~}#004#001
+~00~#001
+;00013A32{ WaterWorks ~00~}#016#013
+ Obras Agua ~00~#013
+;00013A3F{~00~}#004#001
+~00~#001
+;00013A40{~00~}#004#001
+~00~#001
+;00013A41{~00~}#004#001
+~00~#001
+;00013A42{ Pak Attack ~00~}#016#013
+ Paq Ataque ~00~#013
+;00013A4F{~00~}#004#001
+~00~#001
+;00013A50{~00~}#004#001
+~00~#001
+;00013A51{~00~}#004#001
+~00~#001
+;00013A52{ Pyramidea  ~00~}#016#013
+ Piramidea  ~00~#013
+;00013A5F{~00~}#004#001
+~00~#001
+;00013A60{~00~}#004#001
+~00~#001
+;00013A61{~00~}#004#001
+~00~#001
+;00013A62{ Buxton cat ~00~}#016#013
+Gato Buxton ~00~#013
+;00013A6F{~00~}#004#001
+~00~#001
+;00013A70{~00~}#004#001
+~00~#001
+;00013A71{~00~}#004#001
+~00~#001
+;00013A72{  Tri Path  ~00~}#016#013
+ Tri Camino ~00~#013
+;00013A7F{~00~}#004#001
+~00~#001
+;00013A80{~00~}#004#001
+~00~#001
+;00013A81{~00~}#004#001
+~00~#001
+;00013A82{Sandy Island~00~}#016#013
+Isla Arenosa~00~#013
+;00013A8F{~00~}#004#001
+~00~#001
+;00013A90{~00~}#004#001
+~00~#001
+;00013A91{~00~}#004#001
+~00~#001
+;00013A92{  Ballrace  ~00~}#016#013
+Carrera Bola~00~#013
+;00013A9F{~00~}#004#001
+~00~#001
+;00013AA0{~00~}#004#001
+~00~#001
+;00013AA1{~00~}#004#001
+~00~#001
+;00013AA2{Grass hopper~00~}#016#013
+Saltamontes ~00~#013
+;00013AAF{~00~}#004#001
+~00~#001
+;00013AB0{~00~}#004#001
+~00~#001
+;00013AB1{~00~}#004#001
+~00~#001
+;00013AB2{ Roller-ama ~00~}#016#013
+ Ruedar-ama ~00~#013
+;00013ABF{~00~}#004#001
+~00~#001
+;00013AC0{~00~}#004#001
+~00~#001
+;00013AC1{~00~}#004#001
+~00~#001
+;00013AC2{   Frigia   ~00~}#016#013
+   Frigia   ~00~#013
+;00013ACF{~00~}#004#001
+~00~#001
+;00013AD0{~00~}#004#001
+~00~#001
+;00013AD1{~00~}#004#001
+~00~#001
+;00013AD2{ Arrow Maze ~00~}#016#013
+Flecharinto ~00~#013
+;00013ADF{~00~}#004#001
+~00~#001
+;00013AE0{~00~}#004#001
+~00~#001
+;00013AE1{~00~}#004#001
+~00~#001
+;00013AE2{Castle Quest~00~}#016#013
+Castiventura~00~#013
+;00013AEF{~00~}#004#001
+~00~#001
+;00013AF0{~00~}#004#001
+~00~#001
+;00013AF1{~00~}#004#001
+~00~#001
+;00013AF2{ Tower City ~00~}#016#013
+Ciudad Torre~00~#013
+;00013AFF{~00~}#004#001
+~00~#001
+;00013B00{~00~}#004#001
+~00~#001
+;00013B01{~00~}#004#001
+~00~#001
+;00013B02{ Grass Maze ~00~}#016#013
+ Laberierba ~00~#013
+;00013B0F{~00~}#004#001
+~00~#001
+;00013B10{~00~}#004#001
+~00~#001
+;00013B11{~00~}#004#001
+~00~#001
+;00013B12{   RADIMA   ~00~}#016#013
+   RADIMA   ~00~#013
+;00013B1F{~00~}#004#001
+~00~#001
+;00013B20{~00~}#004#001
+~00~#001
+;00013B21{~00~}#004#001
+~00~#001
+;00013B22{  Oily Way  ~00~}#016#013
+  Aceitoso  ~00~#013
+;00013B2F{~00~}#004#001
+~00~#001
+;00013B30{~00~}#004#001
+~00~#001
+;00013B31{~00~}#004#001
+~00~#001
+;00013B32{ WaterWorld ~00~}#016#013
+ Mundo Agua ~00~#013
+;00013B3F{~00~}#004#001
+~00~#001
+;00013B40{~00~}#004#001
+~00~#001
+;00013B41{~00~}#004#001
+~00~#001
+;00013B42{MisDirection~00~}#016#013
+Distracción ~00~#013
+;00013B4F{~00~}#004#001
+~00~#001
+;00013B50{~00~}#004#001
+~00~#001
+;00013B51{~00~}#004#001
+~00~#001
+;00013B52{  Torture!  ~00~}#016#013
+ ¡Tortura!  ~00~#013
+;00013B5F{~00~}#004#001
+~00~#001
+;00013B60{~00~}#004#001
+~00~#001
+;00013B61{~00~}#004#001
+~00~#001
+;00013B62{Obelisk  Run~00~}#016#013
+ Correlisco ~00~#013
+;00013B6F{~00~}#004#001
+~00~#001
+;00013B70{~00~}#004#001
+~00~#001
+;00013B71{~00~}#004#001
+~00~#001
+;00013B72{ Canal Side ~00~}#016#013
+ Lado Canal ~00~#013
+;00013B7F{~00~}#004#001
+~00~#001
+;00013B80{~00~}#004#001
+~00~#001
+;00013B81{~00~}#004#001
+~00~#001
+;00013B82{ Spindizzy! ~00~}#016#013
+¡Mareogiro! ~00~#013
+;00013B8F{~00~}#004#001
+~00~#001
+;00013B90{~00~}#004#001
+~00~#001
+;00013B91{~00~}#004#001
+~00~#001
+;00013B92{  Tutorial  ~00~}#016#013
+  Tutorial  ~00~#013
+;00013B9F{~00~}#004#001
+~00~#001
+;00013BA0{~00~}#004#001
+~00~#001
+;00013BA1{~00~}#004#001
+~00~#001
+;00013BA2{ Quadrant 2 ~00~}#016#013
+Cuadrante 2 ~00~#013
+;00013BAF{~00~}#004#001
+~00~#001
+;00013BB0{~00~}#004#001
+~00~#001
+;00013BB1{~00~}#004#001
+~00~#001
+;00013BB2{  Ramp Run  ~00~}#016#013
+Corre Rampa ~00~#013
+;00013BBF{~00~}#004#001
+~00~#001
+;00013BC0{~00~}#004#001
+~00~#001
+;00013BC1{~00~}#004#001
+~00~#001
+;00013BC2{  Split Up  ~00~}#016#013
+  Dividido  ~00~#013
+;00013BCF{~00~}#004#001
+~00~#001
+;00013BD0{~00~}#004#001
+~00~#001
+;00013BD1{~00~}#004#001
+~00~#001
+;00013BD2{  Lavalite  ~00~}#016#013
+  Lavalita  ~00~#013
+;00013BDF{~00~}#004#001
+~00~#001
+;00013BE0{~00~}#004#001
+~00~#001
+;00013BE1{~00~}#004#001
+~00~#001
+;00013BE2{  Gargoyle  ~00~}#016#013
+  Gárgola   ~00~#013
+;00013BEF{~00~}#004#001
+~00~#001
+;00013BF0{~00~}#004#001
+~00~#001
+;00013BF1{~00~}#004#001
+~00~#001
+;00013BF2{Mundo Leve 7~00~}#016#013
+Mundo Leve 7~00~#013
+;00013BFF{~00~}#004#001
+~00~#001
+;00013C00{~00~}#004#001
+~00~#001
+;00013C01{~00~}#004#001
+~00~#001
+;00013C02{Mundo Leve 8~00~}#016#013
+Mundo Leve 8~00~#013
+;00013C0F{~00~}#004#001
+~00~#001
+;00013C10{~00~}#004#001
+~00~#001
+;00013C11{~00~}#004#001
+~00~#001
+;00013C12{ EasyDizzy  ~00~}#016#013
+ MareoLeve  ~00~#013
+|984
+@00030FD0-00030FDA-00
+;00030FD0{~0C~~0E~Presents~00~}#020#011
+~0C~~0E~Presenta~00~#011
+|11
+@0003104D-000310DA-00
+;0003104D{~08~~08~Spindizzy Worlds~00~}#028#019
+~08~~08~Mundos Mareogiro~00~#019
+;00031060{~06~~0B~[]1991 Paul Shirley.~00~}#032#023
+~06~~0B~[]1991 Paul Shirley.~00~#023
+;00031077{~06~~0D~All rights reserved.~00~}#032#023
+~06~~0D~Derechos reservados.~00~#023
+;0003108E{~05~~0F~Licensed to Activision{[r]}~00~}#039#026
+~05~~0F~ Licencia a Activision{[r]}~00~#026
+;000310A8{~03~~11~[]1992  ASCII Corporation~00~}#037#028
+~03~~11~[]1992  ASCII Corporation~00~#028
+;000310C4{~06~~13~LICENSED BY NINTENDO~00~}#032#023
+~06~~13~LICENCIA DE NINTENDO~00~#023
+|142
+@000321C6-0003256E-00
+;000321C6{       Spindizzy Worlds===== []1991 Paul Shirley.==           All rights reserved.==== Licensed to Activision{(r)}=====     Original Version Staff===== Programming and design==             Paul Shirley==== Graphics==             Debbie Sorrell==== Sound and sfx==             Martin Walker==== Producer==             Colin Fuidge=====  SUPER NINTENDO Version Staff===== Main Programmer==             Masanori Ishizuka==== Sub Programmer==             Takeshi Kaneda==== Technical Adviser==             Shinichi Miyatani==== Music Producer==             Yoshinori Hirahara==== Sound Making==             Kouji Yamada==== Music Comporser==             Akiko Hashimoto==             Yoshinori Hirahara==== Graphic Designer==             Hiroyuki Ebina==             Ikuko Fujiwara==== Tool Making==             Kunio Yukinaga==== == Presented by====       ASCII ENTERTAINMENT==          SOFTWARE,INC.===============    []1992 ASCII Corporation~00~}#944#937
+       Mundos Mareogiro=====
+ []1991 Paul Shirley.==
+           Derechos reservados.====
+  Licencia a Activision{(r)}=====
+     Grupo Versión Original=====
+ Programación y diseño==             Paul Shirley====
+ Gráficos==             Debbie Sorrell====
+ Sonido y E.S.==             Martin Walker====
+ Productor==             Colin Fuidge=====  SUPER NINTENDO Version Staff===== Main Programador==             Masanori Ishizuka====
+ Subprogramador==             Takeshi Kaneda====
+ Asesor Técnico ==             Shinichi Miyatani====
+ Productor Musical==             Yoshinori Hirahara====
+ Crea Sonidos==             Kouji Yamada====
+ Compone Música==             Akiko Hashimoto==             Yoshinori Hirahara====
+ Diseñador Gráfico==             Hiroyuki Ebina==             Ikuko Fujiwara====
+ Herramientas==             Kunio Yukinaga==== ==
+ Presenta ====       ASCII ENTERTAINMENT==          SOFTWARE,INC.===============    []1992 ASCII Corporation~00~#937
+|937

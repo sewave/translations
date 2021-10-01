@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Castlevania II - Simon's Quest (USA).nes"
+set SCRIPTNAME="castlevaniaiisimonsquestnes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 2FEE0:30,30280:20,31280:20,307F0:20,317F0:20,20210:160,20650:10,22210:160,22650:10,24210:160,24650:10,26210:160,26650:10,28210:160,28650:10,2B210:160,2B650:10,2D110:50
+pause

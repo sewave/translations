@@ -1,0 +1,421 @@
+@000FB000-000FB4D4-F0
+;000FB000{~D1~~C0~OUR SECURITY SYSTEM HAS BEEN=BREACHED BY AN UNKNOWN HACKER.=^AN UNMANNED ROBOT IS RUNNING=RAMPANT THROUGHOUT THE CITY!=^I WANT YOU TO PROCEED TO THE=AREA ASAP AND RESTORE ORDER!=^~F0~}#191#182
+~D1~~C0~
+Nuestro sistema de seguridad=
+ha sido vulnerado por un=^
+hacker desconocido.=^
+¡Un robot no tripulado=
+recorre la ciudad!=^
+¡Quiero que vayáis allí y=
+restauréis el orden!=^\           ~F0~#182
+;000FB0B6{~D1~~C1~THAT'S NOT THE UNMANNED ROBOT!=SOMEBODY IS INSIDE THAT THING!=^~F0~}#075#066
+~D1~~C1~
+¡Ese no es el robot no=
+tripulado!=^
+¡Hay alguien dentro!=^\     ~F0~#066
+;000FB0F8{~D1~~C1~WHAT...OR WHO ARE YOU?=^~C5~HEH HEH HEH.=YOU CAN CALL ME DEADEYE JOE.=^IF YOU WANT TO KNOW MORE THAN=THAT, THEN COME AND GET ME!=^~F0~}#142#130
+~D1~~C1~
+¿Qué... o quién eres? =^~C5~
+Je je je.=
+Podéis llamarme Deadeye Joe.=^
+Si queréis saber más que eso,=
+¡entonces venid a atraparme!=^\ ~F0~#130
+;000FB17A{~D1~~C7~THE RESEARCH CENTER IS UNDER=ATTACK BY AN UNKNOWN GROUP!=^PLEASE, COME AND HELP!=^~D1~~B0~ /~B1~~D8~ /~B1~~F8~~C1~DAMN! WHAT SHOULD I DO?=^~A0~ /~B2~8 ~C1~DAMN! WHAT SHOULD WE DO?=^~A0~ /~B2~8~C0~~D3~GO AFTER DEADEYE JOE.=RESCUE THE RESEARCH CENTER.=^~F0~}#263#212
+~D1~~C7~
+¡El centro de investigación está=
+siendo atacado!=^
+¡Por favor venid a ayudar!    =^~D1~~B0~ /~B1~~D8~ /~B1~~F8~~C1~
+¡Rayos! ¿Qué hago?     =^~A0~ /~B2~8 ~C1~
+¡Rayos! ¿Qué hacemos?   =^~A0~ /~B2~8~C0~~D3~
+Tras Deadeye Joe.   =
+Al Centro de investigación. =^~F0~#212
+;000FB24E{~D1~~C1~YOU CAN'T GET AWAY NOW!=GIVE YOURSELF UP!=^~B0~ /~B2~~84~ /~B2~~A4~~C5~HEH HEH HEH...YOU FOOL!=^~A0~ /~B2~~C4~ ~C5~HEH HEH HEH...YOU FOOLS!=^~A0~ /~B2~~C4~I'M NOTHING MORE THAN A DECOY!=^BY THIS TIME MY FRIENDS HAVE=ARRIVED AT THE RESEARCH CENTER=^AND HAVE GOTTEN THEIR HANDS=ON THE ALIEN CELL!=^~C1~ALIEN CELL?=^~C5~NOW BEGINS THE TRUE HORROR!=HA HA HA HA HA!=~E1~^~F0~}#378#321
+~D1~~C1~
+¡Ahora no puedes huir!=
+¡Ríndete!         =^~B0~ /~B2~~84~ /~B2~~A4~~C5~
+Je je je... ¡Tonto!    =^~A0~ /~B2~~C4~ ~C5~
+Je je je... ¡Tontos!    =^~A0~ /~B2~~C4~
+¡Solo soy un mero señuelo!=^
+¡A estas alturas mis amigos han=
+llegado al centro de=^
+investigación y han puesto sus=
+manos en la célula alien!=^~C1~
+¿Célula alien?=^~C5~
+¡Empieza el verdadero horror!=
+¡Ja ja ja! =~E1~^~F0~#321
+;000FB38F{ ~D1~~C1~DAMN! HE BLEW HIMSELF UP!=^~F0~}#040#031
+ ~D1~~C1~
+¡Rayos! ¡Se ha volado!   =^~F0~#031
+;000FB3AE{~D2~~B0~ /~B3~~B8~ /~B3~~F4~~C1~DAMN! AT THIS SPEED, WE'LL=NEVER GET THERE ON TIME!=^~A0~ /~B4~N ~C1~DAMN! AT THIS SPEED, I'LL=NEVER GET THERE ON TIME!=^~A0~ /~B4~N~E1~~C6~HEY BRO! LOOKS LIKE YOU'RE=HAVING SOME TROUBLE.=^GRAB ONTO MY MACHINE AND I'LL=TAKE YA TO WHERE YOU WANT TO GO!=^~C1~THE AIR POLICE...YOU GUYS=SURE HAVE GOOD TIMING!=^~F0~}#343#295
+~D2~~B0~ /~B3~~B8~ /~B3~~F4~~C1~
+¡Rayos! ¡A esta velocidad no=
+llegaremos a tiempo!  =^~A0~ /~B4~N ~C1~
+¡Rayos! ¡A esta velocidad no=
+llegaremos a tiempo! =^~A0~ /~B4~N~E1~~C6~
+¡Hermanos!Parece que tenéis=
+problemas.=^
+¡Agarraos a mi máquina y os=
+llevaré a donde queráis ir!=^~C1~
+La policía del aire...=^
+¡Chicos, tenéis una gran=
+sincronización!=^~F0~#295
+|1237
+@000FB4D5-000FB921-F0
+;000FB4D5{ ~D2~~C6~LOOK OUT! ONE OF THE BAD GUYS=IS COMING UP FROM BEHIND!=^~F0~}#070#061
+~D2~~C6~
+¡Cuidado! ¡Uno de los malos se=
+acerca por detrás!=^\      ~F0~#061
+;000FB512{~D2~~C6~RATS! WE TOOK ONE. WE'RE GOING=DOWN! IT'LL BE A ROUGH LANDING!=^~F0~}#076#067
+~D2~~C6~
+¡Rayos! Nos dieron.=^
+¡Nos caemos!=
+¡Será un aterrizaje duro!=^\  ~F0~#067
+;000FB555{ ~D1~~C1~ARE YOU OKAY?=^~C7~I'M FINE.BUT YOU MUST STOP THEM!=THEY'RE AFTER THE ALIEN CELL!=^~C1~ALIEN CELL!?=^~C7~WE GOT IT FROM THE MOTHER ALIEN=IN THE ALIEN WARS 5 YEARS AGO.=^IT'S VERY DANGEROUS, SO WE WERE=KEEPING A CLOSE EYE ON IT!=^~C1~SO THE RAMPAGING ROBOT WAS=JUST A CLEVER DIVERSION!=^~F0~}#299#278
+ ~D1~~C1~
+¿Estás bien? =^~C7~
+Estoy bien.=
+¡Pero debemos pararles!=^
+¡Van tras la célula alien!=^~C1~
+¿¡Célula alien!?=^~C7~
+Es de la madre alien de las=
+guerras alien de hace 5 años.=^
+Es muy peligrosa, ¡así que la=
+manteníamos vigilada!=^~C1~
+¡Así que el robot desatado solo=
+era una distracción!=^\     ~F0~#278
+;000FB66B{ ~D1~~B0~ /~B6~~76~ /~B6~~92~~C1~OH NO! I'M TOO LATE!=^~A0~ /~B6~~B0~~C1~OH NO! WE'RE TOO LATE!=^~A0~ /~B6~~B0~~F0~}#115#070
+ ~D1~~B0~ /~B6~~76~ /~B6~~92~~C1~
+¡Oh no! ¡Es tarde!  =^~A0~ /~B6~~B0~~C1~
+¡Oh no! ¡Es tarde!    =^~A0~ /~B6~~B0~~F0~#070
+;000FB6B1{ ~D1~~C0~THREE DAYS LATER.=^WE'VE IDENTIFIED THE HACKER WHO=BREACHED OUR SECURITY.=^HIS NAME IS NOIMAN CASCADE.=HE'S THE BEST HACKER ON THE NET!=^HE USED THE PANIC CAUSED BY THE=ROBOT AS A DIVERSION SO HE=^COULD STEAL THE MOTHER ALIEN=CELL FROM THE RESEARCH CENTER.=^IT'S VERY LIKELY THERE IS AN=ORGANIZATION WORKING BEHIND HIM.=^HIS HIDEOUT IS UNDER A GARBAGE=DUMP. DON'T SCREW THIS ONE UP!=^~F0~}#397#388
+ ~D1~~C0~
+Tres días después.=^
+Identificamos al hacker que=
+vulneró nuestra seguridad.=^
+Se llama Noiman Cascade.=^
+¡Es el mejor hacker de la=
+red!=^
+Usó el pánico causado por el=
+robot como distracción para=^
+poder robar célula de la=
+madre alien del centro de=^
+investigación.=
+Es posible que haya una=^
+organización trabajando=
+detrás suyo.=^
+Su escondite está bajo el=
+vertedero.=^
+¡No fastidiéis esta!=^\ ~F0~#388
+;000FB835{ ~D1~~C9~HEY YOU! WANNA MAKE SOME MONEY=IN THE BATTLE ARENA?=^~C0~~D3~GIVE IT A TRY.=FORGET ABOUT IT.=^~F0~}#107#092
+ ~D1~~C9~
+¡Eh tú!=^
+¿Queréis ganar dinero en la=
+arena de batalla? =^~C0~~D3~
+Intentarlo.=
+Olvidarlo.=^\    ~F0~#092
+;000FB891{ ~D1~~C9~WELL, GOOD LUCK!=^~F0~}#031#022
+ ~D1~~C9~¡Bueno, suerte! =^~F0~#022
+;000FB8A7{ ~D1~~C9~HA! SPINELESS JELLYFISH!=^~F0~}#039#030
+ ~D1~~C9~¡Ja! ¡Cobardes!=^\        ~F0~#030
+;000FB8C5{ ~D1~~C1~YOU'RE THAT CREEP,=NOIMAN CASCADE!=^~C8~HEE! HEE! HEE! WHY DON'T YOU=TRY THIS ON FOR SIZE?=^~F0~}#105#093
+ ~D1~~C1~Eres ese siniestro,=
+¡Noiman Cascade!=^~C8~
+¡Je! ¡Je! ¡Je! ¿Por qué no=
+probáis este tamaño?=^\~F0~#093
+|1101
+@000FB922-000FBD44-F0
+;000FB922{~D1~~B0~ /~B9~L /~B9~l~C1~WHERE IN THE HECK AM I?=^~A0~ /~B9~ú ~C1~WHERE IN THE HECK ARE WE?=^~A0~ /~B9~ú ~B0~ /~B9~~78~ /~B9~~B8~ ~C8~WELCOME TO THE VIRTUAL ZONE.=I HOPE YOU ENJOY YOURSELF!=^~A0~ /~B9~~FA~ ~C8~WELCOME TO THE VIRTUAL ZONE.=I HOPE YOU ENJOY YOURSELVES!=^~A0~ /~B9~~FA~ ~F0~}#289#217
+~D1~~B0~ /~B9~L /~B9~l~C1~
+¿Donde diablos estoy?  =^~A0~ /~B9~ú ~C1~
+¿Dónde diablos estamos?  =^~A0~ /~B9~ú ~B0~ /~B9~~78~ /~B9~~B8~ ~C8~
+Bienvenido a la Zona Virtual.=
+¡Espero que la disfrutes!=^~A0~ /~B9~~FA~ ~C8~
+Bienvenidos a la Zona Virtual.=
+¡Espero que disfrutéis!   =^~A0~ /~B9~~FA~ ~F0~#217
+;000FB9FB{ ~D2~~B0~ /~BA~& /~BA~j~C8~YOU FIGHT WELL, FOOL! BUT LET'S=SEE IF YOU CAN HANDLE THIS!=^~A0~ /~BA~~8E~ ~C8~YOU FIGHT WELL, FOOLS! BUT LET'S=SEE IF YOU CAN HANDLE THIS!=^~A0~ /~BA~~8E~~F0~}#187#148
+ ~D2~~B0~ /~BA~& /~BA~j~C8~
+¡Peleas bien, tonto! ¡Pero=
+veamos si puedes manejar esto!  =^~A0~ /~BA~~8E~ ~C8~
+¡Peleáis bien, tontos! ¡Pero=
+veamos si podéis manejar esto! =^~A0~ /~BA~~8E~~F0~#148
+;000FBA8F{ ~D1~~C1~IT LOOKS LIKE IT'S GAME OVER=FOR YOU!=^~C8~DON'T HURT ME! I'M JUST TRYING TO=MAKE A BUCK!IT'S NOT PERSONAL!=^~D1~~C1~YOU CAN SAVE YOUR SOB STORY FOR=THE PEOPLE AT HEADQUARTERS!=^~F0~}#191#173
+ ~D1~~C1~
+¡Parece que es fin de juego para=
+ti!=^~C8~
+¡No me dañéis!=
+Solo intento ganar dinero.=^
+¡No es personal!=^~D1~~C1~
+¡Puedes guardarte tus lloros=
+para la gente del cuartel=^
+general!=^\~F0~#173
+;000FBB3C{~D1~~C0~NOIMAN TOLD US WHO'S IN CHARGE.=^COLONEL BAHAMUT... I BELIEVE=YOU'VE HEARD OF HIM.=^HE WAS A HERO WHO FOUGHT DURING=THE ALIEN WARS. BUT TWO YEARS=^AGO, HE PLANNED A COUP D'ETAT TO=OVERTHROW THE GOVERNMENT.=^THE COUP D'ETAT WAS STOPPED IN=TIME, BUT THE COLONEL FLED.=^UNTIL NOW, WE HAD HEARD NOTHING=OF HIM. HE'S A DANGEROUS MAN.=^I WONDER WHAT HE'S PLANNING TO=DO WITH THAT ALIEN CELL...=^HIS HIDEOUT IS DEEP IN THE=JUNGLE. GOOD HUNTING!=^~F0~}#451#442
+~D1~~C0~
+Noiman nos dijo quien manda.=^
+Coronel Bahamut...=
+Creo que has oído hablar de=^
+él.=^
+Era un héroe que peleo en=
+las guerras alien.=^
+Pero hace dos años,=
+planeó un golpe de estado=^
+para derrocar al gobierno.=^
+El golpe de estado fue=
+detenido a tiempo,=^
+pero el coronel huyó.=^
+Hasta ahora, no sabíamos=
+nada de él.=^
+Es un hombre peligroso.=^
+Me pregunto que planea hacer=
+con esa célula alien...=^
+Su escondite está en la=
+jungla. ¡Buena caza!=^\     ~F0~#442
+;000FBCF6{~D1~~C5~SO WE MEET AGAIN!=^~C1~IT'S DEADEYE JOE!=^~C5~THIS PLACE WILL BE YOUR=GRAVEYARD!=^~F0~}#094#079
+~D1~~C5~
+¡Volvemos a vernos!=^~C1~
+¡Es Deadeye Joe!=^~C5~
+¡Esto será vuestro cementerio!=^\  ~F0~#079
+|1059
+@000FBD45-000FC14A-F0
+;000FBD45{ ~D1~~CB~THIS IS THE END FOR YOU!=^~F0~}#039#030
+ ~D1~~CB~
+¡Este es tu final!=^\     ~F0~#030
+;000FBD63{ ~C1~DAMN! A TRAP!=^~C7~JUST AS WE PLANNED, COLONEL.=^~C1~DOCTOR! WHAT'S GOING ON!=^~CB~JUST AS YOU CAN SEE, THE=DOCTOR HAS BEEN "ASSISTING" US.=^~C7~I AM SICK AND TIRED OF THIS=WEAKLING GOVERNMENT!=^HAVING OBTAINED SOMETHING AS=MAGNIFICENT AS THE ALIEN CELL,=^THEY SQUANDER THE OPPORTUNITY=BY LOCKING IT AWAY IN A VAULT!=^THE COLONEL FEELS AS I DO, AND=WILL HELP ME ACHIEVE MY PLANS.=^NOW I CAN CARRY ON WITH MY OWN=DARK EXPERIMENTS!=^~C1~WHY YOU TREACHEROUS LITTLE...=^~CB~WELL DOCTOR, I WILL LEAVE=THE REST UP TO YOU.=^~F0~}#526#502
+ ~C1~
+¡Rayos! ¡Una trampa!=^~C7~
+Como planeamos, coronel.=^~C1~
+¡Doctor! ¡Qué sucede!=^~CB~
+Como podéis ver, el doctor ha=
+estado "ayudándonos".=^~C7~
+¡Estoy harto de este débil=
+gobierno!=^
+Habiendo obtenido algo tan=
+magnífico como la célula=^
+alienígena, ¡desaprovechan la=
+oportunidad encerrándola en una=^
+cámara acorazada!=^
+El coronel siente lo mismo, y me=
+ayudará a lograr mis planes.=^
+¡Ahora puedo continuar con mis=
+propios experimentos oscuros!=^~C1~
+Pequeño traidor...=^~CB~
+Bueno doctor,=
+le dejaré el resto a usted.=^\       ~F0~#502
+;000FBF59{ ~D1~~C7~THERE IS NO WAY TO ESCAPE. YOU=MUST SURRENDER PEACEFULLY.=^~C0~~D3~FIGHT TO THE END.=SURRENDER AND FIGHT LATER.=^~F0~}#126#111
+ ~D1~~C7~
+No podéis escapar.     =
+Debéis rendiros pacíficamente.=^~C0~~D3~
+Pelear hasta el fin.=
+Rendirse y pelear después.=^~F0~#111
+;000FBFC8{~D1~~C7~HA! HA! HA!=TAKE THEM!=^~F0~}#036#027
+~D1~~C7~
+¡Jajaja!=¡Atrapadles!=^\~F0~#027
+;000FBFE3{ ~D1~~B0~ /~BF~~EE~ /~C0~N~C7~YOU POOR FOOL! NOW YOU WILL=BE PREY FOR MY EXPERIMENTS!=^~A0~ /~C0~ú ~C7~YOU POOR FOOLS! NOW YOU WILL=BE PREY FOR MY EXPERIMENTS!=^~A0~ /~C0~ú~F0~}#176#140
+ ~D1~~B0~ /~BF~~EE~ /~C0~N~C7~
+¡Pobre tonto! ¡Serás una presa=
+para mis experimentos!  =^~A0~ /~C0~ú ~C7~
+¡Pobres tontos! ¡Seréis presas=
+para mis experimentos!   =^~A0~ /~C0~ú~F0~#140
+;000FC06F{ ~D1~~C1~HE EVEN HAS A MILITARY=TRAIN...=^~F0~}#046#037
+ ~D1~~C1~
+Hasta tiene un tren militar...=^\~F0~#037
+;000FC094{~D2~~C5~YOU ARE PATHETIC! TAKE=THESE AND GET OUT!=^~F0~}#055#046
+~D2~~C5~
+¡Sois patéticos!=
+¡Tomad esto y escapad!=^\ ~F0~#046
+;000FC0C2{~D1~~C1~HUH...?=^~C5~DON'T MISUNDERSTAND. I AM ONLY=FREEING YOU IN ORDER TO DESTROY=^YOU. I WILL BE THERE TO WATCH=YOU DRAW YOUR LAST BREATH!!!=^~F0~}#149#137
+~D1~~C1~
+¿Eh...?=^~C5~
+No os equivoquéis.=
+Solo os libero para destruiros.=^
+¡¡¡Estaré ahí para veros exhalar=
+vuestro último aliento!!!=^\           ~F0~#137
+|1030
+@000FC14B-000FC5B3-F0
+;000FC14B{ ~D1~~C0~I NEVER IMAGINED THAT THE DOCTOR=WAS WORKING FOR THE ENEMY!=^BUT BECAUSE OF THAT, WE NOW=KNOW WHERE THEIR HQ IS.=^WE WILL TAKE AN OVERSEAS=ROUTE TO STRIKE AT THEM.=^THIS TIME WE'LL TAKE THEM=OUT WITH EXTREME PREJUDICE!=^~F0~}#233#224
+ ~D1~~C0~
+¡Nunca imaginé que el doctor=
+trabajaba para el enemigo!=^
+Pero por eso, ahora sabemos=
+donde está su CG.=^
+Tomaremos una ruta de=
+ultramar para golpearles.=^
+¡Esta vez les abordaremos=
+con extremo prejuicio!=^\                ~F0~#224
+;000FC22B{ ~D1~~CB~I DIDN'T THINK YOU'D MAKE IT.=YOU HAVE RUINED MY PLANS!=^~B0~ /~C2~~70~ /~C2~~B8~BUT A WARRIOR AS STRONG AND BRAVE=AS YOU ARE DESERVING OF PRAISE!=^~A0~ /~C2~~FE~BUT WARRIORS AS STRONG AND BRAVE=AS YOU IS DESERVING OF PRAISE!=^~A0~ /~C2~~FE~~B0~ /~C3~( /~C3~n I HAVE BEEN LOOKING FOR A SOLDIER=SUCH AS YOU FOR A LONG TIME.=^~A0~ /~C3~~92~ I HAVE BEEN LOOKING FOR SOLDIERS=SUCH AS YOU FOR A LONG TIME.=^~A0~ /~C3~~92~JOIN WITH ME!=^THE WORLD IS WAITING FOR PEOPLE=SUCH AS YOU AND I TO LEAD THEM!=^~C0~~D3~REFUSE!=AGREE.=^~F0~}#533#458
+ ~D1~~CB~
+No pensé que lo lograríais.=
+¡Arruinasteis mis planes!  =^~B0~ /~C2~~70~ /~C2~~B8~
+¡Pero un guerrero fuerte y bravo=
+como tú se merece elogios!      =^~A0~ /~C2~~FE~
+¡Pero guerreros fuertes y bravos=
+como vosotros merecen elogios!=^~A0~ /~C2~~FE~~B0~ /~C3~( /~C3~n 
+He estado buscando a un soldado=
+como tú durante mucho tiempo. =^~A0~ /~C3~~92~ 
+He estado esperando a soldados=
+como vosotros mucho tiempo.   =^~A0~ /~C3~~92~
+¡Uniros a mí!=^
+¡El mundo espera que personas=
+como nosotros las lideren!=^~C0~~D3~
+¡Rechazar!=
+Aceptar.=^\ ~F0~#458
+;000FC3F5{ ~D1~~B0~ /~C4~  /~C4~N~CB~YOU STUBBORN BUFFOON!=PREPARE TO DIE!=^~A0~ /~C4~~5C~ ~CB~YOU STUBBORN BUFFOONS!=PREPARE TO DIE!=^~A0~ /~C4~~5C~~F0~}#143#104
+ ~D1~~B0~ /~C4~  /~C4~N~CB~
+¡Bufón tozudo!=
+¡Preparate para morir!=^~A0~ /~C4~~5C~ ~CB~
+¡Bufones tozudos!=
+¡Vais a morir!      =^~A0~ /~C4~~5C~~F0~#104
+;000FC45D{ ~D1~~CB~UGH... YOU'VE BEATEN ME... BUT=THIS WILL BE NO VICTORY FOR YOU!=^WHEN I DIE, A MISSILE ARMED WITH=THE ALIEN CELL WILL TAKE OFF.=^YOU WILL SEE THE WORLD BURN IN=THE FLAMES OF HELL...UHHHHHHHH=^~F0~}#205#196
+ ~D1~~CB~
+Ugh... Me derrotasteis... ¡Pero=
+esto no será vuestra victoria!=^
+Cuando muera, despegará un misil=
+armado con la célula alienígena.=^
+Veréis arder el mundo en las=
+llamas del infierno... Uhhh...=^~F0~#196
+;000FC521{ ~D1~~C5~THIS IS THE FINAL BATTLE!=^~C1~THE COLONEL IS ALREADY DEAD!=STOP THIS FOOLISHNESS!=^~C5~I COULD CARE LESS ABOUT THE=COLONEL. I'M GOING ALL THE WAY!=^~F0~}#162#147
+ ~D1~~C5~
+¡Esta es la batalla final!=^~C1~
+¿El coronel ya está muerto!=
+¡Para este sinsentido!=^~C5~
+No podría importarme menos el=
+coronel. ¡Voy hasta el final!=^~F0~#147
+|1129
+@000FC5B4-000FC9E2-F0
+;000FC5B4{~D2~~C6~HEY BROTHER! SORRY TO KEEP=YOU WAITING.=^~C1~THANKS FOR THE HAND!=^~C6~GOOD JOB! YOU'RE IN FOR A=HERO'S WELCOME!=^~F0~}#126#111
+~D2~~C6~
+¡Hermanos! Perdonad por la=
+espera.=^~C1~
+¡Gracias por ayudarnos!=^~C6~
+¡Buen trabajo,=
+os esperan como a héroes!=^\  ~F0~#111
+;000FC623{ ~D2~~C0~AND THUS, THE MOST EVIL DICTATOR=OF ALL TIME WAS BORN.=^AND MANKIND WAS PROPELLED INTO A=LONG AGE OF DARKNESS AND GLOOM..=^~F0~}#136#127
+ ~D2~~C0~
+Y así nació el dictador más=
+malvado de todos los=^
+tiempos.=^
+Y la humanidad fue=
+propulsada a una larga edad=^
+oscura...=^\   ~F0~#127
+;000FC6A2{~D1~~C1~YOU CAN'T RUN ANY FURTHER,=COLONEL BAHAMUT!=^~F0~}#057#048
+~D1~~C1~
+¡No puedes huir más,=
+coronel Bahamut!=^\     ~F0~#048
+;000FC6D2{~CB~A BIT MORE TIME AND I WOULD'VE=CREATED THE ULTIMATE BIO-WEAPON!=^~F0~}#073#067
+~CB~
+¡Un poco más y habría creado el=
+arma biológica definitiva!=^\    ~F0~#067
+;000FC715{ ~CA~TERRIBLE NEWS! THE ALIEN CELL=HAS BROKEN FREE!=^IT'S RUNNING AMOK AND THREATENING=THE ENTIRE HEADQUARTERS!=^~E1~~CB~WHAT? IT WAS STUPID TO PROCEED=WITHOUT THE DOCTOR.=^~F0~}#177#165
+ ~CA~
+¡Noticias terribles! ¡La célula=
+alienígena se ha liberado!=^
+¡Está desbocada y amenaza a todo=
+el cuartel general!=^~E1~~CB~
+¿Qué? Fue estúpido proceder sin=
+el doctor.=^\ ~F0~#165
+;000FC7BA{~D1~~CB~IT LOOKS LIKE I LOST THIS TIME.=BUT, I WILL BE BACK.=^NEXT TIME WE MEET, THE OUTCOME=WILL BE FAR DIFFERENT. HA! HA!=^~E1~~B0~ /~C8~~3C~ /~C8~Á ~C1~HA! I'LL TAKE YOU ON ANYTIME!=^~A0~ /~C8~~88~ ~C1~HA! WE'LL TAKE YOU ON ANYTIME!=^~A0~ /~C8~~88~~F0~}#255#207
+~D1~~CB~
+Parece que perdí esta vez.=
+Pero volveré.=^
+La próxima vez que nos veamos,=
+el resultado será muy diferente.=^
+¡Ja, Ja!=^~E1~~B0~ /~C8~~3C~ /~C8~Á ~C1~
+¡Ja!=
+¡Pelearé cuando quieras!=^~A0~ /~C8~~88~ ~C1~
+¡Ja!=
+¡Peleamos cuando quieras!=^~A0~ /~C8~~88~~F0~#207
+;000FC889{ ~D1~~C5~THE TIME HAS COME FOR YOU TO=MEET YOUR MAKER! LET'S GO!=^~F0~}#070#061
+ ~D1~~C5~
+¡Llegó la hora de que conozcáis=
+al creador! ¡Vamos!=^\   ~F0~#061
+;000FC8C6{~D1~~C1~YOU'VE LOST. NOW GIVE IT UP!=^~C5~UGH!=^~F0~}#052#040
+~D1~~C1~
+Has perdido. ¡Ahora ríndete!=^~C5~
+¡Ah!=^~F0~#040
+;000FC8EE{~D2~~CB~WORTHLESS FOOL! I DO NOT HAVE=TIME FOR LOSERS LIKE HIM!=^~F0~}#069#060
+~D2~~CB~
+¡Tonto inútil! ¡No tengo tiempo=
+para perdedores así!=^\  ~F0~#060
+;000FC92A{~D1~~C1~YOU TREACHEROUS SCUM!=^~D2~~CB~MEET ME ON THE TOP FLOOR FOR THE=ULTIMATE BATTLE!=^~F0~}#094#079
+~D1~~C1~
+¡Escoria traicionera!=^~D2~~CB~
+¡Nos vemos en la cima para la=
+batalla definitiva!=^~F0~#079
+;000FC979{ ~D2~~C7~AAAAAAHHHHHH!!!=COLONEL, PLEASE STOP!=^~CB~WHY? YOU SHOULD SEE THE DAMAGE=THAT YOUR RESEARCH HAS DONE!=~E1~^~F0~}#121#106
+ ~D2~~C7~
+¡¡¡Aaah!!!=
+Coronel, ¡pare por favor!=^~CB~
+¿Por? ¡Deberías ver el daño que=
+ha hecho tu investigación!  =~E1~^~F0~#106
+|1071
+@000FC9E3-000FCDFD-F0
+;000FC9E3{ ~D2~~C7~N...N..NNNNOOOOOO!!!=^~F0~}#035#026
+ ~D2~~C7~¡¡¡N...N..Nnnoooo!!!=^~F0~#026
+;000FC9FD{ ~D1~~CB~I MUST ADMIT THAT I AM SHOCKED=THAT YOU HAVE MADE IT THIS FAR!=^BUT IT SEEMS YOU ARE TOO LATE.=MY PLANS HAVE BEEN REALIZED.=^I'VE JOINED MY SPIRIT WITH THE=CORPOREAL QUALITIES OF THE ALIEN=^AND IN THE PROCESS CREATED THE=ULTIMATE SUPER-BEING!!!=^~F0~}#259#250
+ ~D1~~CB~
+¡Debo admitir que me sorprende=
+que hayáis llegado tan lejos!=^
+Pero parece que llegáis tarde.=
+Mis planes han sido realizados.=^
+¡¡¡Uní mi espíritu con las=
+cualidades corpóreas del=^
+alienígena y en el proceso creé=
+al super-ser definitivo!!!=^\    =^~F0~#250
+;000FCAF7{ ~D2~~CB~UGH! TOO MUCH POWER! CAN'T=MAINTAIN...EEAAHH!!!=^~F0~}#062#053
+ ~D2~~CB~
+¡Ugh! ¡Demasiado poder!=
+No lo mantengo... ¡Aah!=^~F0~#053
+;000FCB2C{~D1~~CB~WELCOME TO MY HEADQUARTERS.=IS IT PLEASING TO YOU?=^~B0~ /~CB~ñ /~CB~~A8~ ~C1~YOU CAN DROP THE SMIRK. I'M=GONNA TRASH THIS PLACE!=^~A0~ /~CB~~E6~ ~C1~YOU CAN DROP THE SMIRK. WE'RE=GONNA TRASH THIS PLACE!=^~A0~ /~CB~~E6~ ~CB~THERE IS NO NEED FOR THAT.=^UNFORTUNATELY FOR YOU, MY PLAN=IS IN ITS FINAL STAGES.=^I HAVE TRANSFERRED ALL FUNCTIONS=TO THIS SPACE STATION.=^THE HEADQUARTERS IS OF NO MORE=USE. IT WILL SOON BE DETONATED.=^~CA~BUT COLONEL, YOU CAN'T...=^~CB~HA! YOUR EXISTENCE MEANS LESS=THAN NOTHING TO ME, YOU FLEA!=^FAREWELL. WE'LL NOT MEET AGAIN!=^~F0~}#570#516
+~D1~~CB~
+Bienvenidos a mi cuartel=
+general. ¿Os complace?   =^~B0~ /~CB~ñ /~CB~~A8~ ~C1~
+Puedes dejar de sonreír.    =
+¡Arrasaré este lugar! =^~A0~ /~CB~~E6~ ~C1~
+Puedes dejar de sonreír.    =
+¡Arrasaremos este lugar!=^~A0~ /~CB~~E6~ ~CB~
+Eso no será necesario.=^
+Por desgracia para vosotros, mi=
+plan está en sus etapas finales.=^
+Transferí todas las funciones a=
+la estación espacial.=^
+Este cuartel ya no me sirve.=
+Pronto será detonado.=^~CA~
+Pero coronel, no puede...=^~CB~
+¡Ja! ¡Vuestra existencia=
+significa menos que nada para=^
+mí, pulgas!=^
+Adiós.=
+¡No volveremos a vernos!=^~F0~#516
+;000FCD30{~D2~~C7~DON'T MOVE! THIS IS WHAT=HAPPENS TO COWARDS LIKE YOU!=^~F0~}#067#058
+~D2~~C7~
+¡Quietos! ¡Esto es lo que les=
+pasa a los cobardes!=^\  ~F0~#058
+;000FCD6A{~D1~~CB~YOU'VE DONE VERY ADMIRABLY!=BUT YOU'RE TOO LATE!=^I'VE USED THE ALIEN CELL TO=CREATE BIG MAGNUM!=^HE WILL REDUCE THE PLANET=TO CHARRED CINDERS!=^~F0~}#157#148
+~D1~~CB~
+¡Lo hicisteis admirablemente!=
+¡Pero tarde!=^
+¡He usado la célula alienígena=
+para crear Big Magnum!=^
+¡Reducirá el planeta a cenizas=
+carbonizadas!=^~F0~#148
+|1051
+@000FCDFE-000FCF08-F0
+;000FCDFE{~B0~ /~CE~( /~CE~> ~C1~I'LL STOP YOU!=^~A0~ /~CE~V~C1~WE'LL STOP YOU!=^~A0~ /~CE~V ~F0~}#087#057
+~B0~ /~CE~( /~CE~> ~C1~
+¡Te detendré! =^~A0~ /~CE~V~C1~
+¡Te pararemos! =^~A0~ /~CE~V ~F0~#057
+;000FCE37{ ~D2~~CB~UGH! JUST ONE MORE STEP AND I=WOULD HAVE BEEN A GOD!=^~F0~}#067#058
+ ~D2~~CB~
+¡Ugh! ¡Solo un paso más y habría=
+sido un dios!=^\     ~F0~#058
+;000FCE71{ ~D2~~C1~CURSES! THE INTER-DIMENSIONAL=PORTAL IS STILL OPEN!=^~F0~}#066#057
+ ~D2~~C1~
+¡Maldición! ¡El portal=
+dimensional está abierto!=^\  ~F0~#057
+;000FCEAA{~D2~~C1~OUCH! IT LOOKS LIKE SOMEHOW=WE'VE GONE BACK THROUGH TIME!=^~F0~}#071#062
+~D2~~C1~
+¡Aay! ¡Parece que de alguna=
+forma viajamos al pasado!=^\   ~F0~#062
+;000FCEE8{~D2~~C0~SEVERAL YEARS PASS BEFORE...=^~F0~}#042#033
+~D2~~C0~
+Pasaron años hasta que...=^\  ~F0~#033
+|267

@@ -1,0 +1,15 @@
+@000082ED-000082F8-FF
+;000082ED{START       }#012#012
+INICIAR   __#012
+|12
+@0000832D-00008338-FF
+;0000832D{CONTINUE    }#012#012
+CONTINUAR __#012
+|12
+@0000837F-000083FE-FF
+;0000837F{      /\      /\      /\  /\      /\     c BANDAI 1989        /\       LICENSED BY NINTENDO           OF AMERICA INC.           }#128#128
+      /\      /\      /\  /\    
+  /\     c BANDAI 1989        /\
+    LICENCIADO POR NINTENDO     
+        DE AMÉRICA INC.         #128
+|128

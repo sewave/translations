@@ -1,0 +1,276 @@
+@00005C16-00005C40-0F
+;00005C16{Welcome!=~06~~0A~Buy something,=~06~~0C~would you?~01~~01~~0F~}#062#041
+Welcome!=~06~~0A~Buy something,=~06~~0C~would you?~01~~01~~0F~#041
+;00005C3F{~01~~00~}#008#002
+~01~~00~#002
+|43
+@00005C49-00005C60-0F
+;00005C49{Need anything else?~01~~00~~0F~}#031#022
+Need anything else?~01~~00~~0F~#022
+;00005C5F{~00~~01~}#008#002
+~00~~01~#002
+|24
+@00005C65-00005C77-0F
+;00005C65{See you later!~01~~00~~0F~}#026#017
+See you later!~01~~00~~0F~#017
+;00005C76{~00~~01~}#008#002
+~00~~01~#002
+|19
+@00005C7C-00005C95-0F
+;00005C7C{Thank you very much.~0F~}#024#021
+Thank you very much.~0F~#021
+;00005C91{~00~~01~~02~=~05~}#017#005
+~00~~01~~02~=~05~#005
+|26
+@00005C97-00005CBF-0F
+;00005C97{I'm sorry.=~05~~0A~I can't sell it to you.~01~~00~~0F~}#054#039
+I'm sorry.=~05~~0A~I can't sell it to you.~01~~00~~0F~#039
+;00005CBE{~00~~01~}#008#002
+~00~~01~#002
+|41
+@00005CC4-00005CE1-0F
+;00005CC4{I'm sorry.=~06~~0A~I'm all out.~01~~00~~0F~}#043#028
+I'm sorry.=~06~~0A~I'm all out.~01~~00~~0F~#028
+;00005CE0{~00~~01~}#008#002
+~00~~01~#002
+|30
+@00005CE6-00005D11-0F
+;00005CE6{This is the exit!=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~}#064#043
+This is the exit!=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~#043
+;00005D11{~00~}#004#001
+~00~#001
+|44
+@00005D17-00005D5A-0F
+;00005D17{It's the Psychic Wave!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~}#094#067
+It's the Psychic Wave!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~#067
+;00005D5A{~00~}#004#001
+~00~#001
+|68
+@00005D60-00005DA2-0F
+;00005D60{It's the Super Sonic!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~}#093#066
+It's the Super Sonic!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~#066
+;00005DA2{~00~}#004#001
+~00~#001
+|67
+@00005DA8-00005DE9-0F
+;00005DA8{It's the Hyper Aura!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~}#092#065
+It's the Hyper Aura!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~#065
+;00005DE9{~00~}#004#001
+~00~#001
+|66
+@00005DEF-00005E32-0F
+;00005DEF{It's the Super Condor!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~}#094#067
+It's the Super Condor!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~#067
+;00005E32{~00~}#004#001
+~00~#001
+|68
+@00005E38-00005E70-0F
+;00005E38{It's a ~31~up!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~}#086#056
+It's a ~31~up!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~#056
+;00005E70{~00~}#004#001
+~00~#001
+|57
+@00005E76-00005EB2-0F
+;00005E76{It's the Harpy!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~}#087#060
+It's the Harpy!=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~#060
+;00005EB2{~00~}#004#001
+~00~#001
+|61
+@00005EB8-00005EFC-0F
+;00005EB8{It's the first~2D~aid kit.=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~}#098#068
+It's the first~2D~aid kit.=~05~~0A~Will you buy it?=~05~~0C~~28~Press A to confirm~29~~01~~00~~0F~#068
+;00005EFC{~00~}#004#001
+~00~#001
+|69
+@00005F02-00005F3E-0F
+;00005F02{You can aim it by=~05~~09~pressing up or down=~05~~0A~on the D~2D~Pad.=~05~~0C~~28~A~3A~}#088#061
+You can aim it by=~05~~09~pressing up or down=~05~~0A~on the D~2D~Pad.=~05~~0C~~28~A~3A~#061
+|61
+@00005F3F-00005F53-0F
+;00005F3F{ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~}#038#020
+ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~#020
+;00005F53{~00~}#004#001
+~00~#001
+|21
+@00005F59-00005F91-0F
+;00005F59{This will let you=~05~~09~fire quick beams in=~05~~0A~a spread.=~05~~0C~~28~A~3A~}#081#057
+This will let you=~05~~09~fire quick beams in=~05~~0A~a spread.=~05~~0C~~28~A~3A~#057
+|57
+@00005F92-00005FA6-0F
+;00005F92{ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~}#038#020
+ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~#020
+;00005FA6{~00~}#004#001
+~00~#001
+|21
+@00005FAC-00005FDC-0F
+;00005FAC{You will be able to=~05~~09~release a large aura.=~05~~0C~~28~A~3A~}#067#049
+You will be able to=~05~~09~release a large aura.=~05~~0C~~28~A~3A~#049
+|49
+@00005FDD-00005FF1-0F
+;00005FDD{ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~}#038#020
+ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~#020
+;00005FF1{~00~}#004#001
+~00~#001
+|21
+@00005FF7-00006029-0F
+;00005FF7{This will increase the=~05~~09~power of the Condor.=~05~~0C~~28~A~3A~}#069#051
+This will increase the=~05~~09~power of the Condor.=~05~~0C~~28~A~3A~#051
+|51
+@0000602A-0000603E-0F
+;0000602A{ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~}#038#020
+ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~#020
+;0000603E{~00~}#004#001
+~00~#001
+|21
+@00006044-0000606A-0F
+;00006044{You will have an extra=~05~~09~Sharaku.=~05~~0C~~28~A~3A~}#057#039
+You will have an extra=~05~~09~Sharaku.=~05~~0C~~28~A~3A~#039
+|39
+@0000606B-0000607F-0F
+;0000606B{ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~}#038#020
+ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~#020
+;0000607F{~00~}#004#001
+~00~#001
+|21
+@00006085-000060CC-0F
+;00006085{With this, you won't=~05~~09~die if you fall in a=~05~~0A~hole, but only once!=~05~~0C~~28~A~3A~}#096#072
+With this, you won't=~05~~09~die if you fall in a=~05~~0A~hole, but only once!=~05~~0C~~28~A~3A~#072
+|72
+@000060CD-000060E1-0F
+;000060CD{ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~}#038#020
+ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~#020
+;000060E1{~00~}#004#001
+~00~#001
+|21
+@000060E7-0000610C-0F
+;000060E7{This will restore=~05~~09~your health.=~05~~0C~~28~A~3A~}#056#038
+This will restore=~05~~09~your health.=~05~~0C~~28~A~3A~#038
+|38
+@0000610D-00006121-0F
+;0000610D{ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~}#038#020
+ Buy ~2F~ B~3A~ Cancel~29~~01~~00~~0F~#020
+;00006121{~02~}#004#001
+~02~#001
+|21
+@00006125-0000619E-0F
+;00006125{Having defeated Baron=~05~~16~Goblin, a descendant of=~05~~17~the Three~2D~Eyed Ones,=~05~~18~Sharaku could find=~05~~19~Godaru and Wato nowhere.~0F~}#149#119
+Having defeated Baron=~05~~16~Goblin, a descendant of=~05~~17~the Three~2D~Eyed Ones,=~05~~18~Sharaku could find=~05~~19~Godaru and Wato nowhere.~0F~#119
+;0000619C{~02~=~05~}#009#003
+~02~=~05~#003
+|122
+@000061A0-000061ED-0F
+;000061A0{Godaru must have headed=~05~~16~north~2D~east.=~05~~17~So, Sharaku followed=~05~~18~in pursuit.~0F~}#099#075
+Godaru must have headed=~05~~16~north~2D~east.=~05~~17~So, Sharaku followed=~05~~18~in pursuit.~0F~#075
+;000061EB{~02~=~05~}#009#003
+~02~=~05~#003
+|78
+@000061EF-00006248-0F
+;000061EF{There was a strange=~05~~16~creature inside the=~05~~17~cave.=~05~~18~It was the Plant Weapon=~05~~19~Bolbocc.~0F~}#114#087
+There was a strange=~05~~16~creature inside the=~05~~17~cave.=~05~~18~It was the Plant Weapon=~05~~19~Bolbocc.~0F~#087
+;00006246{c.~0F~}#006#003
+c.~0F~#003
+|90
+@00006249-00006269-0F
+;00006249{or, Sharaku defeated Bolbocc.~0F~}#033#030
+or, Sharaku defeated Bolbocc.~0F~#030
+;00006267{~02~=~06~}#009#003
+~02~=~06~#003
+|33
+@0000626B-000062CD-0F
+;0000626B{The gravitational disorder was=~06~~17~caused by a gravity control=~06~~19~device hidden inside the Grieve.~0F~}#111#096
+The gravitational disorder was=~06~~17~caused by a gravity control=~06~~19~device hidden inside the Grieve.~0F~#096
+;000062CB{~02~=~06~}#009#003
+~02~=~06~#003
+|99
+@00007804-00007849-0F
+;00007804{To reclaim his=~05~~16~ancestors' honor,=~05~~17~Sharaku vanquished=~05~~18~Bolbocc.~0F~}#088#067
+To reclaim his=~05~~16~ancestors' honor,=~05~~17~Sharaku vanquished=~05~~18~Bolbocc.~0F~#067
+;00007847{~02~=~05~}#009#003
+~02~=~05~#003
+|70
+@0000784B-000078B3-0F
+;0000784B{The gravitational=~05~~16~disruption was caused=~05~~17~by a gravity control=~05~~18~device hidden inside=~05~~19~the Grieve.~0F~}#129#102
+The gravitational=~05~~16~disruption was caused=~05~~17~by a gravity control=~05~~18~device hidden inside=~05~~19~the Grieve.~0F~#102
+;000078B1{~02~=~05~}#009#003
+~02~=~05~#003
+|105
+@000078B5-00007908-0F
+;000078B5{After dodging countless=~05~~16~flying boulders, the=~05~~17~device was finally=~05~~18~destroyed.~0F~}#102#081
+After dodging countless=~05~~16~flying boulders, the=~05~~17~device was finally=~05~~18~destroyed.~0F~#081
+;00007906{~02~=~05~}#009#003
+~02~=~05~#003
+|84
+@0000790A-0000795B-0F
+;0000790A{Sharaku boarded a ship=~05~~16~to go after Godaru.=~05~~17~However, it was a=~05~~18~ghost ship.~0F~}#100#079
+Sharaku boarded a ship=~05~~16~to go after Godaru.=~05~~17~However, it was a=~05~~18~ghost ship.~0F~#079
+;00007959{~02~=~05~}#009#003
+~02~=~05~#003
+|82
+@0000795D-000079CE-0F
+;0000795D{The enormous ghost would=~05~~16~split into a swarm of=~05~~17~fireflies, so Sharaku=~05~~18~had to kick many=~05~~19~spiritual butts.~0F~}#138#111
+The enormous ghost would=~05~~16~split into a swarm of=~05~~17~fireflies, so Sharaku=~05~~18~had to kick many=~05~~19~spiritual butts.~0F~#111
+;000079CC{~02~=~06~}#009#003
+~02~=~06~#003
+|114
+@000079D0-00007A52-0F
+;000079D0{The ship's destination was Easter Island,=~06~~17~home of the Moai. All of a sudden, what=~06~~19~should have only been stone statues began~0F~}#143#128
+The ship's destination was Easter Island,=~06~~17~home of the Moai. All of a sudden, what=~06~~19~should have only been stone statues began~0F~#128
+;00007A50{~02~=~06~}#009#003
+~02~=~06~#003
+|131
+@00007A54-00007A97-0F
+;00007A54{to attack Sharaku. But in the end, they=~06~~17~were only made of stone~3B~=~06~}#080#068
+to attack Sharaku. But in the end, they=~06~~17~were only made of stone~3B~=~06~#068
+|68
+@00007A99-00007ABF-0F
+;00007A99{they stood no chance against him.~0F~}#037#034
+they stood no chance against him.~0F~#034
+;00007ABB{~02~~0F~}#008#002
+~02~~0F~#002
+;00007ABD{~02~=~09~}#009#003
+~02~=~09~#003
+|39
+@00007AC1-00007AD2-0F
+;00007AC1{STAGE ~31~ CLEAR!~0F~}#021#015
+STAGE ~31~ CLEAR!~0F~#015
+;00007AD0{~02~=~09~}#009#003
+~02~=~09~#003
+|18
+@00007AD4-00007AE5-0F
+;00007AD4{STAGE ~32~ CLEAR!~0F~}#021#015
+STAGE ~32~ CLEAR!~0F~#015
+;00007AE3{~02~=~09~}#009#003
+~02~=~09~#003
+|18
+@00007AE7-00007AF8-0F
+;00007AE7{STAGE ~33~ CLEAR!~0F~}#021#015
+STAGE ~33~ CLEAR!~0F~#015
+;00007AF6{~02~=~09~}#009#003
+~02~=~09~#003
+|18
+@00007AFA-00007B0B-0F
+;00007AFA{STAGE ~34~ CLEAR!~0F~}#021#015
+STAGE ~34~ CLEAR!~0F~#015
+;00007B09{~02~=~09~}#009#003
+~02~=~09~#003
+|18
+@00007B0D-00007B1E-0F
+;00007B0D{STAGE ~35~ CLEAR!~0F~}#021#015
+STAGE ~35~ CLEAR!~0F~#015
+;00007B1C{R!~0F~}#006#003
+R!~0F~#003
+|18
+@00007B1F-00007B28-0F
+;00007B1F{LEAR!~0F~}#009#006
+LEAR!~0F~#006
+;00007B25{~FF~~FF~~FF~~FF~}#016#004
+~FF~~FF~~FF~~FF~#004
+|10
+@0001B6F0-0001B6FA-0F
+;0001B6F0{asKar as~70~a~F4~}#017#011
+asKar as~70~a~F4~#011
+|11
+@0002C9B0-0002C9B8-0F
+;0002C9B0{mmmm~E0~~FC~~FC~~FC~~04~}#024#009
+mmmm~E0~~FC~~FC~~FC~~04~#009
+|9

@@ -1,0 +1,92 @@
+@00008038-00008067-FF
+;00008038{VV0LIFE/V·1SCORE/V~62~1HIGH//V~51~0ROUNDV~72~y~81~~02~~70~~71~V~58~~03~KEY>}#075#048
+VV0LIFE/V·1SCORE/V~62~1HIGH//V~51~0ROUNDV~72~y~81~~02~~70~~71~V~58~~03~KEY>#048
+|48
+@000086AD-000086C4-FF
+;000086AD{    INS DEL ~60~~61~~62~ ~63~~64~~65~ END }#042#024
+    INS DEL ~60~~61~~62~ ~63~~64~~65~ END #024
+|24
+@0000870C-00008726-FF
+;0000870C{     ++INPUT PASSWORD.++   }#027#027
+     ++INPUT PASSWORD.++   #027
+|27
+@00008DE7-00008DF8-FF
+;00008DE7{  ROUND   START$  }#018#018
+  ROUND   START$  #018
+|18
+@000091F2-00009204-FF
+;000091F2{ ++YOUR PASSWORD++ }#019#019
+ ++YOUR PASSWORD++ #019
+|19
+@000095FC-0000960F-FF
+;000095FC{  %  GAME  OVER  %  }#020#020
+  %  GAME  OVER  %  #020
+|20
+@000096DB-000096EF-FF
+;000096DB{   +    CONTINUE  +  }#021#021
+   +    CONTINUE  +  #021
+|21
+@0000971B-0000972F-FF
+;0000971B{   +    E N D     +  }#021#021
+   +    E N D     +  #021
+|21
+@000131F1-00013610-FF
+;000131F1{Mark was walking=home from=a ball game.=He looked up and=saw a bright star.~FF~}#079#076
+Mark was walking=home from=a ball game.=He looked up and=saw a bright star.~FF~#076
+;0001323D{While he stared at=it.=The star got bigger=and bigger.~FF~}#058#055
+While he stared at=it.=The star got bigger=and bigger.~FF~#055
+;00013274{The beauty of the=star made his eyes=moist,=so he didn't notice=that the star fell=and landed right =in front of him.~FF~}#121#118
+The beauty of the=star made his eyes=moist,=so he didn't notice=that the star fell=and landed right =in front of him.~FF~#118
+;000132EA{It wasn't a star=but a monster.=Mark quickly asked.~FF~}#055#052
+It wasn't a star=but a monster.=Mark quickly asked.~FF~#052
+;0001331E{[Who are you?]~FF~}#018#015
+[Who are you?]~FF~#015
+;0001332D{[I'm Bert!]~FF~}#015#012
+[I'm Bert!]~FF~#012
+;00013339{[What's up?]~FF~}#016#013
+[What's up?]~FF~#013
+;00013346{[I'm looking for=help.]=[Evil monsters=are out of control=in my world.]=[Come and help me.]~FF~}#095#092
+[I'm looking for=help.]=[Evil monsters=are out of control=in my world.]=[Come and help me.]~FF~#092
+;000133A2{[I'm afraid to fightthe evil monsters.]~FF~}#043#040
+[I'm afraid to fightthe evil monsters.]~FF~#040
+;000133CA{[Don't worry!]=[With your weapon,=you'll be able to=destroy them easily=.]~FF~}#078#075
+[Don't worry!]=[With your weapon,=you'll be able to=destroy them easily=.]~FF~#075
+;00013415{[This isn't=a weapon,=it's a bat!]~FF~}#038#035
+[This isn't=a weapon,=it's a bat!]~FF~#035
+;00013438{[Bat! Batter!]=[Anything is ok!]=[Anyhow,let's go!]~FF~}#055#052
+[Bat! Batter!]=[Anything is ok!]=[Anyhow,let's go!]~FF~#052
+;0001346C{Bert grabbed Mark's=hand and flew away.=[What's your name?]=[Mark.]=[Mark,my planet is=dangerous.]=[So,we must act to-=gether.]=[How?]~FF~}#138#135
+Bert grabbed Mark's=hand and flew away.=[What's your name?]=[Mark.]=[Mark,my planet is=dangerous.]=[So,we must act to-=gether.]=[How?]~FF~#135
+;000134F3{[Like this!]=Then they fused to-=gether.~FF~}#044#041
+[Like this!]=Then they fused to-=gether.~FF~#041
+;0001351C{= This is how Mark's= adventure began!~FF~}#042#039
+= This is how Mark's= adventure began!~FF~#039
+;00013543{Mark destroyed the=monsters.=Bert gave him a gift.=And,Mark went home.~FF~}#074#071
+Mark destroyed the=monsters.=Bert gave him a gift.=And,Mark went home.~FF~#071
+;0001358A{He excitedly opened=the box.~FF~}#032#029
+He excitedly opened=the box.~FF~#029
+;000135A7{A beautiful princesscame out.~FF~}#033#030
+A beautiful princesscame out.~FF~#030
+;000135C5{But,suddenly the=princess became=a monster.=And,more monsters=followed her.~FF~}#079#076
+But,suddenly the=princess became=a monster.=And,more monsters=followed her.~FF~#076
+|1056
+@00013611-000136D8-FF
+;00013611{Mark was scared and=screamed.~FF~}#033#030
+Mark was scared and=screamed.~FF~#030
+;0001362F{[AAHHHH!!!!]~FF~}#016#013
+[AAHHHH!!!!]~FF~#013
+;0001363C{Mark was awakened=by his mom.=[You'll be late!]=It was a dream!~FF~}#067#064
+Mark was awakened=by his mom.=[You'll be late!]=It was a dream!~FF~#064
+;0001367C{[I'm leaving!]~FF~}#018#015
+[I'm leaving!]~FF~#015
+;0001368B{Mark opened the door.=Bert was there.=He whispered to Mark.=[Let's go again!]~FF~}#081#078
+Mark opened the door.=Bert was there.=He whispered to Mark.=[Let's go again!]~FF~#078
+|200
+@000136D9-00013886-FF
+;000136D9{GAME DESIGN=   CREAM HARUNA=   KAMIYANKEE   =   DANDY KOBAYASHI =   DRAGON NAKASHIMA=                    == PROGRAMMERS=   SOKIOSK         =   CREAM HARUNA    =   JAZZY TOHRU     =   DESIRE TARO     =                    == GRAPHICS=   DRAGON NAKASHIMA=   DANDY KOBAYASHI =   WOLF SAITOH     =                    == MUSIC=   MIKUMONKY       =   HASHIMOTORAVOLTA=                    ==== PRESENTED BY=     BANDAI      =     SHINSEI~FF~}#433#430
+GAME DESIGN=   CREAM HARUNA=   KAMIYANKEE   =   DANDY KOBAYASHI =   DRAGON NAKASHIMA=                    == PROGRAMMERS=   SOKIOSK         =   CREAM HARUNA    =   JAZZY TOHRU     =   DESIRE TARO     =                    == GRAPHICS=   DRAGON NAKASHIMA=   DANDY KOBAYASHI =   WOLF SAITOH     =                    == MUSIC=   MIKUMONKY       =   HASHIMOTORAVOLTA=                    ==== PRESENTED BY=     BANDAI      =     SHINSEI~FF~#430
+|430
+@0001A5A6-0001A606-FF
+;0001A5A6{%%%%%%%%%%%%%          %% TRY      %%          %%   AGAIN! %%          %%%%%%%%%%%%%%%%%%%%%%%%%%}#097#097
+%%%%%%%%%%%%%          %% TRY      %%          %%   AGAIN! %%          %%%%%%%%%%%%%%%%%%%%%%%%%%#097
+|97

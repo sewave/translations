@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Choujikuu Yousai - Macross (J) [!].nes"
-set S_FILENAME="Choujikuu Yousai - Macross (J) [!].nes"
+set T_FILENAME="TR_Choujikuu Yousai - Macross (Japan).nes"
+set S_FILENAME="Choujikuu Yousai - Macross (Japan).nes"
 set SCRIPTNAME="choujikuuyousaimacrossnes"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

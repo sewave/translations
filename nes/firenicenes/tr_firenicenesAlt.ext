@@ -1,0 +1,50 @@
+@00005661-0000579A-FF
+;00005661{~08~S~20~Yes  No  ~17~~84~~20~~E0~What story do you want~08~E~20~to hear? ~12~~84~~20~~E0~Today's magicword    ~0A~E~20~adventure? ~15~~84~~20~~E0~Where do you want to~08~E~20~save it? ~19~~84~~20~~E0~Erase the previous data. ~0F~~84~~20~~E0~Save finished. ~16~~84~~20~~E0~Will you continue the~05~E~20~game? ~17~~84~~20~~E0~Don't you save today's~0A~E~20~adventure? ~18~~85~~20~                        ~0B~D~20~           ~07~S~20~        ~01~G~21~ ~08~~83~~21~new data}#470#314
+~08~S~20~Sí   No  ~17~~84~~20~~E0~
+¿Qué historia quieres ~08~E~20~
+oír?     ~12~~84~~20~~E0~
+Palabra mágica       ~0A~E~20~
+aventura?  ~15~~84~~20~~E0~
+¿Dónde quieres      ~08~E~20~
+salvar?  ~19~~84~~20~~E0~
+Borrar datos antiguos.   ~0F~~84~~20~~E0~
+Juego salvado. ~16~~84~~20~~E0~
+¿Continuarás jugando?~05~E~20~
+      ~17~~84~~20~~E0~
+¿No salvas la aventura~0A~E~20~
+de hoy?    ~18~~85~~20~                        ~0B~D~20~           ~07~S~20~        ~01~G~21~ ~08~~83~~21~
+nuevos  #314
+|314
+@00005A96-00005A9B-FF
+;00005A96{ story}#006#006
+ trama#006
+|6
+@00005D07-00005D92-FF
+;00005D07{~14~f~21~B C D F G H J K L M ~14~~26~~22~N P Q R S T V W X ? ~14~~66~~22~Z 1 2 3 4 5 6 7 8 9 ~14~&~22~· ! forth back  END  ~16~~44~~21~~E0~Enter your magicword. ~16~~44~~21~~E0~Error! try again.}#194#140
+~14~f~21~
+B C D F G H J K L M ~14~~26~~22~
+N P Q R S T V W X ? ~14~~66~~22~
+Z 1 2 3 4 5 6 7 8 9 ~14~&~22~
+· ! pasar atrás FIN  ~16~~44~~21~~E0~
+Entra palabra mágica. ~16~~44~~21~~E0~
+¡Error!Reintenta.#140
+|140
+@0001BC73-0001BC8E-FF
+;0001BC73{____EDIT____PLAY____EXIT____}#028#028
+____EDITAR__JUGAR___SALIR___#028
+|28
+@0001BCB2-0001BD0B-FF
+;0001BCB2{~08~3~20~_EXIT___ ~08~%~20~RONDA___ ~08~3~20~RONDA___ ~0A~~64~~20~~E0~~E0~_EDIT_~E0~~E0~ ~0A~~64~~20~~E0~~E0~_PLAY_~E0~~E0~ ~0A~~64~~20~~E0~~E0~_COPY_~E0~~E0~ ~09~~71~~20~ERROR____}#180#090
+~08~3~20~
+_SALIR__ ~08~%~20~
+RONDA___ ~08~3~20~
+RONDA___ ~0A~~64~~20~~E0~~E0~
+EDITAR~E0~~E0~ ~0A~~64~~20~~E0~~E0~
+JUGAR_~E0~~E0~ ~0A~~64~~20~~E0~~E0~
+COPIAR~E0~~E0~ ~09~~71~~20~
+ERROR____#090
+|90
+@0001BDE3-0001BDEE-FF
+;0001BDE3{~09~~72~~20~OK_PUSH_A}#021#012
+~09~~72~~20~OK_TOCA_A#012
+|12

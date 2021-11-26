@@ -1,0 +1,116 @@
+@000026B7-000026CC-FF
+;000026B7{ TIME   ~80~   OVER ~FA~~F9~~C2~~A7~~28~}#040#022
+ TIME   ~80~   OVER ~FA~~F9~~C2~~A7~~28~#022
+|22
+@00003A11-00003AB4-FF
+;00003A11{STAGE~80~CLEAR!! ~80~ CONTINUE   YES  NO ~80~LOW ~80~MED ~80~HI  ~80~TEST~80~SET~80~~80~PUSH  START~80~SELECT OR START~80~~DD~YOS~DE~'''~DF~'''~80~~DD~'''~DE~PRI~DF~'''~80~~DD~'''~DE~'''~DF~BOW~80~ababablmaz:bnoababab~80~PUSH START~80~~80~~80~~80~~80~}#251#164
+STAGE~80~CLEAR!! ~80~ CONTINUE   YES  NO ~80~LOW ~80~MED ~80~HI  ~80~TEST~80~SET~80~~80~PUSH  START~80~SELECT OR START~80~~DD~YOS~DE~'''~DF~'''~80~~DD~'''~DE~PRI~DF~'''~80~~DD~'''~DE~'''~DF~BOW~80~ababablmaz:bnoababab~80~PUSH START~80~~80~~80~~80~~80~#164
+|164
+@0000414B-00004159-FF
+;0000414B{STAGE DEMO~3E~~FA~~CD~~CD~~04~}#030#015
+STAGE DEMO~3E~~FA~~CD~~CD~~04~#015
+|15
+@00008404-00008421-FF
+;00008404{HIGH~05~SCORE~05~CLEAR~04~NEXT~02~Np~21~~D2~~98~~11~W~C1~}#057#030
+HIGH~05~SCORE~05~CLEAR~04~NEXT~02~Np~21~~D2~~98~~11~W~C1~#030
+|30
+@00009A51-00009A59-FF
+;00009A51{CAST~0C~   ~EC~}#015#009
+CAST~0C~   ~EC~#009
+|9
+@00009A80-00009A8E-FF
+;00009A80{  PRINCESS  ~0C~ ~D3~}#021#015
+  PRINCESS  ~0C~ ~D3~#015
+|15
+@00009A9F-00009AB6-FF
+;00009A9F{V,  ~0C~   BOWSER   ~84~~99~~B6~:  ~0C~}#039#024
+V,  ~0C~   BOWSER   ~84~~99~~B6~:  ~0C~#024
+|24
+@00009AB7-00009AC9-FF
+;00009AB7{   CURSOR   ~84~~99~~C9~:  ~0C~}#031#019
+   CURSOR   ~84~~99~~C9~:  ~0C~#019
+|19
+@00009ADD-00009AEF-FF
+;00009ADD{   FLOWER   ~84~~99~~EF~:  ~0C~}#031#019
+   FLOWER   ~84~~99~~EF~:  ~0C~#019
+|19
+@00009B16-00009B26-FF
+;00009B16{   CIRCLE   ~84~~99~V,~A4~}#026#017
+   CIRCLE   ~84~~99~V,~A4~#017
+|17
+@00009B78-00009B88-FF
+;00009B78{  MUSHROOM  ~84~~99~~8E~-~A4~}#029#017
+  MUSHROOM  ~84~~99~~8E~-~A4~#017
+|17
+@00010F40-00010F49-FF
+;00010F40{ MMMM~CC~~CC~~CC~~CC~~FE~}#025#010
+ MMMM~CC~~CC~~CC~~CC~~FE~#010
+|10
+@00018043-00018061-FF
+;00018043{  DEBUG  MODE   ~84~~85~            ~82~}#040#031
+  DEBUG  MODE   ~84~~85~            ~82~#031
+|31
+@000180A3-000180C1-FF
+;000180A3{    TITLE       ~82~~83~            ~88~}#040#031
+    TITLE       ~82~~83~            ~88~#031
+|31
+@000180E3-00018101-FF
+;000180E3{    GAME  ~D1~P    ~92~~93~            ~8C~}#043#031
+    GAME  ~D1~P    ~92~~93~            ~8C~#031
+|31
+@00018123-00018133-FF
+;00018123{    ROUND  ~D1~    ~8E~}#023#017
+    ROUND  ~D1~    ~8E~#017
+|17
+@00018143-00018153-FF
+;00018143{    STAGE  ~D1~    ~88~}#023#017
+    STAGE  ~D1~    ~88~#017
+|17
+@00018163-00018181-FF
+;00018163{    SPEED       ~8A~~8B~            ~80~}#040#031
+    SPEED       ~8A~~8B~            ~80~#031
+|31
+@000181A3-000181B3-FF
+;000181A3{    SOUND ~D0~~D0~    ~86~}#026#017
+    SOUND ~D0~~D0~    ~86~#017
+|17
+@00018203-00018221-FF
+;00018203{    DEMO        ~94~~95~            ~96~}#040#031
+    DEMO        ~94~~95~            ~96~#031
+|31
+@00018CD1-00018EB7-FF
+;00018CD1{                                     NAME ENTRY                                                                                   ~DC~'''~DD~'''~DE~'''~DF~'''                                                deefdeefdeefdeef                g  hg  hg  hg  h                g  hg  hg  hg  h                ijjkijjkijjkijjk                                                ABCDEFGHIJKLMNOP                                                QRSTUVWXYZ!?'                                                   ~D0~~D1~~D2~~D3~~D4~}#514#487
+                                     NAME ENTRY                                                                                   ~DC~'''~DD~'''~DE~'''~DF~'''                                                deefdeefdeefdeef                g  hg  hg  hg  h                g  hg  hg  hg  h                ijjkijjkijjkijjk                                                ABCDEFGHIJKLMNOP                                                QRSTUVWXYZ!?'                                                   ~D0~~D1~~D2~~D3~~D4~#487
+|487
+@00018EBD-00018F09-FF
+;00018EBD{ . [ -,                                                  PUSH  START    ~80~~81~~84~~85~~8C~}#092#077
+ . [ -,                                                  PUSH  START    ~80~~81~~84~~85~~8C~#077
+|77
+@00019007-00019025-FF
+;00019007{    ROUND       ~88~~89~            ~82~}#040#031
+    ROUND       ~88~~89~            ~82~#031
+|31
+@0001936D-00019553-FF
+;0001936D{                                      PASSWORD                                                                                                                      deeeeeeeeeef                    g''''''''''h                    ijjjjjjjjjjk                                                                                                                  ABCDEFGHIJKLMNOP                                                QRSTUVWXYZ!?'                                                   ~D0~~D1~~D2~~D3~~D4~}#502#487
+                                      PASSWORD                                                                                                                      deeeeeeeeeef                    g''''''''''h                    ijjjjjjjjjjk                                                                                                                  ABCDEFGHIJKLMNOP                                                QRSTUVWXYZ!?'                                                   ~D0~~D1~~D2~~D3~~D4~#487
+|487
+@0001B245-0001B3F4-FF
+;0001B245{                                 Congratulations!!                                                You've proven that            you're a Power                  Player!                           Here are a few                secret instructions             that will give you              access to our                           expert game.                                             Ready?         ~80~~81~~82~                            ~83~}#444#432
+                                 Congratulations!!                                                You've proven that            you're a Power                  Player!                           Here are a few                secret instructions             that will give you              access to our                           expert game.                                             Ready?         ~80~~81~~82~                            ~83~#432
+|432
+@0001B478-0001B628-FF
+;0001B478{                                   OK.Return to the              menu screen and                 follow these                          instructions:                                                                             A. Set Music to OFF             B. Set Speed to HIGH            C. Set Round to 10                                                                                              ~80~~81~~82~                            ~83~}#445#433
+                                   OK.Return to the              menu screen and                 follow these                          instructions:                                                                             A. Set Music to OFF             B. Set Speed to HIGH            C. Set Round to 10                                                                                              ~80~~81~~82~                            ~83~#433
+|433
+@0001B6AC-0001B816-FF
+;0001B6AC{                                   Now press up and              Select on your                  controller.                     You should now see              [Round 11].                     To advance to higher            levels,press the                Select button. OK?                                                                                  ~26~~2E~~2E~~23~ ~2B~}#378#363
+                                   Now press up and              Select on your                  controller.                     You should now see              [Round 11].                     To advance to higher            levels,press the                Select button. OK?                                                                                  ~26~~2E~~2E~~23~ ~2B~#363
+|363
+@0001C4C5-0001C4CD-FF
+;0001C4C5{uLLa~38~~20~~1F~~18~~07~}#024#009
+uLLa~38~~20~~1F~~18~~07~#009
+|9
+@0001FFFB-0001FFFF-FF
+;0001FFFB{   ~02~~10~}#011#005
+   ~02~~10~#005
+|5

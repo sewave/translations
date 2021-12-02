@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Toki (USA).nes"
+set SCRIPTNAME="tokines"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 54010:B0,54130:10,54510:70,54A50:30,54BD0:30,54DC0:50,54FC0:50,53250:30,533D0:30,535C0:50,537C0:50,53A00:10
+pause

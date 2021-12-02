@@ -1,0 +1,92 @@
+@00000386-000003B8-FF
+;00000386{PUSH START BUTTON    1 PLAYER         2 PLAYERS    }#051#051
+PUSH START BUTTON    1 PLAYER         2 PLAYERS    #051
+|51
+@0000045B-00000471-FF
+;0000045B{1UP  HIGH SCORE     2UP}#023#023
+1UP  HIGH SCORE     2UP#023
+|23
+@0000047F-00000492-00
+;0000047F{1 PLAYER~00~}#012#009
+1 PLAYER~00~#009
+;00000488{~EC~%2 PLAYERS}#014#011
+~EC~%2 PLAYERS#011
+|20
+@000008FD-00000903-FF
+;000008FD{~A9~N~8D~~06~~03~~A9~O}#022#007
+~A9~N~8D~~06~~03~~A9~O#007
+|7
+@0000090E-00000919-FF
+;0000090E{~A9~Y~8D~~06~~03~~A9~E~8D~~07~~03~~A9~S}#039#012
+~A9~Y~8D~~06~~03~~A9~E~8D~~07~~03~~A9~S#012
+|12
+@00000A1F-00000A35-00
+;00000A1F{STAGE~00~}#009#006
+STAGE~00~#006
+;00000A25{~00~}#004#001
+~00~#001
+;00000A26{~CF~!PLAYER~00~}#015#009
+~CF~!PLAYER~00~#009
+;00000A2F{~0D~"STAGE}#010#007
+~0D~"STAGE#007
+|23
+@00000AB4-00000ACF-FF
+;00000AB4{~A9~S~8D~~07~ ~A9~T~8D~~07~ ~A9~.~8D~~07~ `~A9~N~8D~~07~ ~A9~D~8D~~07~ ~A9~.}#076#028
+~A9~S~8D~~07~ ~A9~T~8D~~07~ ~A9~.~8D~~07~ `~A9~N~8D~~07~ ~A9~D~8D~~07~ ~A9~.#028
+|28
+@00000AD5-00000B12-00
+;00000AD5{%GAME OVER~00~}#014#011
+%GAME OVER~00~#011
+;00000AE0{~00~}#004#001
+~00~#001
+;00000AE1{~EA~%PLAYER  GAME OVER~00~}#026#020
+~EA~%PLAYER  GAME OVER~00~#020
+;00000AF5{~00~}#004#001
+~00~#001
+;00000AF6{~ED~%THE END~00~}#016#010
+~ED~%THE END~00~#010
+;00000B00{~00~}#004#001
+~00~#001
+;00000B01{~EB~%PLAYER  THE END~00~}#024#018
+~EB~%PLAYER  THE END~00~#018
+|62
+@00000B3D-00000BE2-FF
+;00000B3D{Won't you press the A or B~00~C! button again and challenge~00~c!your own ability ?~00~~A3~!Otherwise, you shall remain~00~~C3~!as an ape the rest of your~00~~E3~!life !~00~X"YES~00~~98~"NO~00~~C2~"CREDIT~00~}#208#166
+Won't you press the A or B~00~C! button again and challenge~00~c!your own ability ?~00~~A3~!Otherwise, you shall remain~00~~C3~!as an ape the rest of your~00~~E3~!life !~00~X"YES~00~~98~"NO~00~~C2~"CREDIT~00~#166
+|166
+@0001DE75-0001DE80-FF
+;0001DE75{STAGE  CLEAR}#012#012
+STAGE  CLEAR#012
+|12
+@000512DC-000513DC-FF
+;000512DC{TAITO 1991                                                LICENSED BY TAD CORP.                                                LICENSED BY              NINTENDO OF AMERICA INC.                                                                    UUUUUUUU~00~~00~~00~~00~~00~}#272#257
+TAITO 1991                                                LICENSED BY TAD CORP.                                                LICENSED BY              NINTENDO OF AMERICA INC.                                                                    UUUUUUUU~00~~00~~00~~00~~00~#257
+|257
+@00052410-0005254F-FF
+;00052410{      1:LABYRINTH OF CAVES                                        The evil hand of ~81~~80~~8E~~86~~8F~~80~~8D~ has   seized lovely ~97~~96~~95~~98~,              Her beloved,the mighty TOKI,   has also been dealt a wicked    blow.  Now,reduced to a lowly   ape,~8F~~8C~~88~~87~ must risk a perilous   journey to free ~97~~96~~95~~98~ and re-    gain his manhood.              }#377#320
+      1:LABYRINTH OF CAVES                                        The evil hand of ~81~~80~~8E~~86~~8F~~80~~8D~ has   seized lovely ~97~~96~~95~~98~,              Her beloved,the mighty TOKI,   has also been dealt a wicked    blow.  Now,reduced to a lowly   ape,~8F~~8C~~88~~87~ must risk a perilous   journey to free ~97~~96~~95~~98~ and re-    gain his manhood.              #320
+|320
+@00052550-0005268F-FF
+;00052550{         2:LAKE NEPTUNE                                           Having safely travelled the    Labyrinth of Caves and escaped  the jaws at the Gate of ~8A~~8C~~8C~~8D~~93~   ~8B~~80~~8D~,~8F~~8C~~88~~87~ sets out across the    shark-infested waters of Lake   Neptune.                         But,beware the eyes of ~8D~~80~~8A~~93~    ~81~~80~~82~~86~~80~~94~~94~                        }#389#320
+         2:LAKE NEPTUNE                                           Having safely travelled the    Labyrinth of Caves and escaped  the jaws at the Gate of ~8A~~8C~~8C~~8D~~93~   ~8B~~80~~8D~,~8F~~8C~~88~~87~ sets out across the    shark-infested waters of Lake   Neptune.                         But,beware the eyes of ~8D~~80~~8A~~93~    ~81~~80~~82~~86~~80~~94~~94~                        #320
+|320
+@00052690-000527CF-FF
+;00052690{        3:CAVERN OF FIRE                                          Made bold by his recent con-   quests,~8F~~8C~~88~~87~ enters the blazing  heart of the Cavern of Fire     in search for ~97~~96~~95~~98~.              Here,he will face a deadly     test against ~8A~~8C~~85~~90~~89~~91~~8C~~8D~,the       beastly guardian of this un-    derground inferno.             }#368#320
+        3:CAVERN OF FIRE                                          Made bold by his recent con-   quests,~8F~~8C~~88~~87~ enters the blazing  heart of the Cavern of Fire     in search for ~97~~96~~95~~98~.              Here,he will face a deadly     test against ~8A~~8C~~85~~90~~89~~91~~8C~~8D~,the       beastly guardian of this un-    derground inferno.             #320
+|320
+@000527D0-0005290F-FF
+;000527D0{          4:ICE PALACE                                            From fire into ice,~8F~~8C~~88~~87~~9D~~9E~      mission takes him into the      forbidden reaches of the Ice    Palace.                          After swimming the underwater  passageway,he must emerge to    fight the frozen monster,       ~92~~80~~8D~~92~~80~~8A~~8C~~8F~~86~.                     }#365#320
+          4:ICE PALACE                                            From fire into ice,~8F~~8C~~88~~87~~9D~~9E~      mission takes him into the      forbidden reaches of the Ice    Palace.                          After swimming the underwater  passageway,he must emerge to    fight the frozen monster,       ~92~~80~~8D~~92~~80~~8A~~8C~~8F~~86~.                     #320
+|320
+@00052910-00052A4F-FF
+;00052910{         5:DARK JUNGLE                                            The crashing of thunder leads  ~8F~~8C~~88~~87~ to the dense canopy of     the Dark Jungle.                 Fighting his way through the   tangled vines,~8F~~8C~~88~~87~ faces a      deadly contest against an old   enemy,the pouncing ~81~~80~~8E~~86~~8F~~80~~8D~,If   he wins,~97~~96~~95~~98~ won't be far.     }#377#320
+         5:DARK JUNGLE                                            The crashing of thunder leads  ~8F~~8C~~88~~87~ to the dense canopy of     the Dark Jungle.                 Fighting his way through the   tangled vines,~8F~~8C~~88~~87~ faces a      deadly contest against an old   enemy,the pouncing ~81~~80~~8E~~86~~8F~~80~~8D~,If   he wins,~97~~96~~95~~98~ won't be far.     #320
+|320
+@00052A50-00052B7F-FF
+;00052A50{        6:GOLDEN PALACE                                          ~8F~~8C~~88~~87~~9D~~9E~ final quest takes him    to the place of ~97~~96~~95~~98~~99~~9A~ impris-  onment,the Golden Palace.        Skating across the bridge      of this guarded domain,~8F~~8C~~88~~87~     must battle his greatest foe,   ~91~~8C~~8C~~88~~87~~8A~~84~~83~~89~~8C~. Everything hangs    in the balance.}#382#304
+        6:GOLDEN PALACE                                          ~8F~~8C~~88~~87~~9D~~9E~ final quest takes him    to the place of ~97~~96~~95~~98~~99~~9A~ impris-  onment,the Golden Palace.        Skating across the bridge      of this guarded domain,~8F~~8C~~88~~87~     must battle his greatest foe,   ~91~~8C~~8C~~88~~87~~8A~~84~~83~~89~~8C~. Everything hangs    in the balance.#304
+|304
+@00052C70-00052F2F-FF
+;00052C70{       YOUR QUEST IS OVER                                                                         The evil forces have been       conquered. TOKI, the warrior,   embraces his sweetheart,        MIHO in his arm.                                                                                Now that your quest as the      hero character of the game is   complete, you are certainly     ready to fight through your     life as the human being,        making the best of the          valuable experiences you        acquired in the game.                                                                                                                                                                         }#704#704
+       YOUR QUEST IS OVER                                                                         The evil forces have been       conquered. TOKI, the warrior,   embraces his sweetheart,        MIHO in his arm.                                                                                Now that your quest as the      hero character of the game is   complete, you are certainly     ready to fight through your     life as the human being,        making the best of the          valuable experiences you        acquired in the game.                                                                                                                                                                         #704
+|704

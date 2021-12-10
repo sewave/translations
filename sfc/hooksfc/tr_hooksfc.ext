@@ -1,176 +1,225 @@
-@0001A975-0001B740-0D
-;00000000{Peter:=^J~0C~~10~~01~ack, Maggie:~22~>- it's time for bed.~0C~~10~ ~0D~}#071#050
-Peter:=^J~0C~~10~~01~ack, Maggie:~22~>- es hora de dormir.~0C~~10~ ~0D~#050
-;00000032{~3C~:_^Maggie:=^D~0C~~12~~05~addy, is grandma Wendy:~22~>the real Wendy?~0C~~12~~04~~0D~}#088#061
-~3C~:_^Maggie:=^P~0C~~12~~05~api, la abuela Wendy :~22~>es la de verdad?~0C~~12~~04~~0D~#061
-;0000006F{~3C~:_^Peter:=^M~0C~~10~~01~aggie, that's ridiculous.~0D~}#057#042
-~3C~:_^Peter:=^M~0C~~10~~01~aggie, eso es ridículo.  ~0D~#042
-;00000099{~3C~:_^Peter:=^Close your eyes and go to:~22~>sleep.~0C~~10~ ~0D~}#065#050
-~3C~:_^Peter:=^Cierra los ojos y vete a:~22~>dormir.~0C~~10~ ~0D~#050
-;000000CB{~3C~:_^Jack:=^T~0C~~11~~03~hen is Peter Pan's:~22~>adventure a made-up story?~0D~}#081#063
-~3C~:_^Jack:=^E~0C~~11~~03~ntonces la aventura:~22~>de Peter Pan es mentira? ~0D~#063
-;0000010A{~3C~:_^Peter:=^J~0C~~10~~01~~0C~~11~~02~ack, stop!~0C~~10~ ~0D~}#063#033
-~3C~:_^Peter:=^J~0C~~10~~01~~0C~~11~~02~ack, para!~0C~~10~ ~0D~#033
-;0000012B{~3C~:_^Maggie:=^S~0C~~12~~05~he is the real Wendy.~0C~~12~~04~~0D~}#066#042
-~3C~:_^Maggie:=^E~0C~~12~~05~lla es la Wendy real.~0C~~12~~04~~0D~#042
-;00000155{~78~:_^Peter:=^H~0C~~10~~01~~0C~~11~~03~~0C~~12~~05~ow will you ever grow-up~0D~}#080#047
-~78~:_^Peter:=^C~0C~~10~~01~~0C~~11~~03~~0C~~12~~05~ómo vais a crecer si os ~0D~#047
-;00000184{~3C~:_^Peter:=^if you keep believing:~22~>these silly stories?~0D~}#066#057
-~3C~:_^Peter:=^seguís creyendo esas :~22~>locas historias?    ~0D~#057
-;000001BD{~3C~:_^Peter:=^There is no adventure.~0D~}#041#035
-~3C~:_^Peter:=^No hay aventura.      ~0D~#035
-;000001E0{~3C~:_^Peter:=^That was a long time ago.~0D~}#044#038
-~3C~:_^Peter:=^Eso fue hace mucho...    ~0D~#038
-;00000206{~3C~:_^Peter:=^One day when you are both:~22~>grown-ups,~0D~}#060#051
-~3C~:_^Peter:=^Un día, cuando ambos seais:~22~>adultos, ~0D~#051
-;00000239{~3C~:_^Peter:=^you'll understand~0D~}#036#030
-~3C~:_^Peter:=^entendereis de lo~0D~#030
-;00000257{~3C~:_^Peter:=^what I'm talking about.:~22~>Come on - go to sleep.~0C~~10~ ~0C~~11~~02~~0C~~12~~04~~0D~}#103#070
-~3C~:_^Peter:=^que estoy hablando.   :~22~>Vamos - ahora a dormir.~0C~~10~ ~0C~~11~~02~~0C~~12~~04~~0D~#070
-;0000029D{~3C~~0F~:=^         Dear Peter~0D~}#034#025
-~3C~~0F~:=^      Querido Peter~0D~#025
-;000002B6{~78~~0F~:_^  Your presence is required:=^    at the request of your:~22~>          childen.~0D~}#098#083
-~78~~0F~:_^  Tu presencia es requerida:=^       por petición de tus:~22~>          hijos.  ~0D~#083
-;00000309{~78~:=^ Yindest personal regards,~0D~}#037#031
-~78~:=^ Saludo Amable personal,  ~0D~#031
-;00000328{~78~:=^      JAS, Hook, Captain~0D~}#035#029
-~78~:=^      JAS, Hook, Capitán~0D~#029
-;00000345{~B4~~0F~:_^Peter:=^Captain Hook? Adventure?:~22~>This isn't funny.~0D~}#070#058
-~B4~~0F~:_^Peter:=^Capitán Hook? Aventura? :~22~>No es gracioso.  ~0D~#058
-;0000037F{~78~:_^Peter:=^Jack, Maggie - stop hiding.:~22~>Come out.~0D~}#061#052
-~78~:_^Peter:=^Jack, Maggie- no os:~22~>escondáis. Salid.~0D~#052
-;000003B3{~B4~~0F~:_^Peter:=^What! who are you?~0D~}#041#032
-~B4~~0F~:_^Peter:=^Qué! Quien eres?  ~0D~#032
-;000003D3{~5A~:_^Camp:=^Oh Peter,:~22~>don't you remember me?~0D~}#055#046
-~5A~:_^Camp:=^Oh Peter,:~22~>no me recuerdas?      ~0D~#046
-;00000401{~5A~:_^Camp:=^I'm Tink.:~22~>Come on, let's go.~0D~}#051#042
-~5A~:_^Camp:=^Campanillla.:~22~>Venga, vamos.  ~0D~#042
-;0000042B{~5A~:_^Peter:=^I'm not going anywhere:~22~>with you.~0D~}#056#047
-~5A~:_^Peter:=^No voy a ningún sitio :~22~>contigo. ~0D~#047
-;0000045A{~5A~:_^Camp:=^But don't you want to rescue:~22~>Jack and Maggie?~0D~}#068#059
-~5A~:_^Camp:=^Pero no quieres rescatar a  :~22~>Jack y Maggie?  ~0D~#059
-;00000495{~5A~:_^Peter:=^How do you know about them?~0D~}#046#040
-~5A~:_^Peter:=^Cómo sabes sobre ellos?    ~0D~#040
-;000004BD{~5A~:_^Camp:=^Everybody knows about them!~0D~}#045#039
-~5A~:_^Camp:=^Todo el mundo les conoce!  ~0D~#039
-;000004E4{~3C~:_^Camp:=^They were taken by:~22~>Captain Hook.~0D~}#055#046
-~3C~:_^Camp:=^Les atrapó el     :~22~>Capitán Hook.~0D~#046
-;00000512{~3C~:_^Camp:=^Hurry up!~0D~}#027#021
-~3C~:_^Camp:=^Deprisa! ~0D~#021
-;00000527{~3C~:_^Camp:=^We're finally going to fly:~22~>together again.~0D~}#065#056
-~3C~:_^Camp:=^Al fin vamos a volar juntos:~22~>de nuevo.     ~0D~#056
-;0000055F{~3C~:_^Peter:=^Hey, wait a minute.~0D~}#038#032
-~3C~:_^Peter:=^Eh, un momento.    ~0D~#032
-;0000057F{~3C~:_^Peter:=^I'm not Peter Pan.:~22~>I can't fly!~0D~}#055#046
-~3C~:_^Peter:=^No soy Peter Pan.:~22~>Yo no vuelo! ~0D~#046
-;000005AD{~3C~:_^Camp:=^Oh no!~0D~}#024#018
-~3C~:_^Camp:=^Oh no!~0D~#018
-;000005BF{~3C~:_^Camp:=^You don't remember how to:~22~>fly because you've grown up.~0D~}#080#068
-~3C~:_^Camp:=^No recuerdas como volar  :~22~>porque has crecido.         ~0D~#068
-;00000603{~3C~:_^Camp:=^You're still:~22~>the same old Peter~0D~}#057#045
-~3C~:_^Camp:=^Aún eres el mismo viejo:~22~>Peter- ~0D~#045
-;00000630{~3C~:_^Camp:=^- always causing me trouble.~0D~}#046#040
-~3C~:_^Camp:=^siempre causando problemas. ~0D~#040
-;00000658{~3C~~0F~:_^Camp:=^Hey Lost Boys!:~22~>Even though he's fat and old,~0D~}#071#059
-~3C~~0F~:_^Camp:=^Niños Perdidos! :~22~>Aunque sea viejo y gordo,  ~0D~#059
-;00000693{~3C~:_^Camp:=^this is Peter Pan.~0D~}#036#030
-~3C~:_^Camp:=^este es Peter Pan.~0D~#030
-;000006B1{~3C~:_^Camp:=^Hook took his kids,:~22~>he came back to save them.~0D~}#069#060
-~3C~:_^Camp:=^Hook tiene a sus hijos,:~22~>vino a salvarles.     ~0D~#060
-;000006ED{~3C~:_^Camp:=^Would you help him?~0D~}#037#031
-~3C~:_^Camp:=^Le ayudaréis?      ~0D~#031
-;0000070C{~3C~:_^Thudbutt:=^I'll only help him:~22~>if he's the real Pan.~0D~}#067#058
-~3C~:_^Thudbutt:=^Solo le ayudaré si:~22~>es el Pan de verdad. ~0D~#058
-;00000746{~3C~:_^Peter:=^I'm not Peter P¨¨¨~0D~}#037#031
-~3C~:_^Peter:=^No soy Peter P¨¨¨ ~0D~#031
-;00000765{~3C~:_^Camp:=^Peter!~0D~}#024#018
-~3C~:_^Camp:=^Peter!~0D~#018
-;00000777{~3C~~0F~:_^Rufio:=^Wait a minute!~0D~}#037#028
-~3C~~0F~:_^Rufio:=^Esperad!      ~0D~#028
-;00000793{~3C~:_^Rufio:=^How can you believe that:~22~>he's Peter?~0D~}#060#051
-~3C~:_^Rufio:=^Cómo podeis creer que él:~22~>es Peter?  ~0D~#051
-;000007C6{~3C~:_^Rufio:=^Look at him.~0D~}#031#025
-~3C~:_^Rufio:=^Miradle.    ~0D~#025
-;000007DF{~3C~:_^Rufio:=^This is Peter's sword,:~22~>and now it's mine.~0D~}#065#056
-~3C~:_^Rufio:=^Esta es la espada de Peter,:~22~>ahora es mía.~0D~#056
-;00000817{~3C~:_^Rufio:=^That makes me the Pan,:~22~>not him.~0D~}#055#046
-~3C~:_^Rufio:=^Eso me hace el Pan, :~22~>no a él.  ~0D~#046
-;00000845{~3C~~0F~:_^Camp:=^Well Peter, it looks like:~22~>you're in for some hard~0D~}#076#064
-~3C~~0F~:_^Camp:=^Bueno Peter. Parece que vas:~22~>a entrenar duro para ~0D~#064
-;00000885{~3C~:_^Camp:=^training to fight Hook.~0D~}#041#035
-~3C~:_^Camp:=^luchar contra Hook.    ~0D~#035
-;000008A8{~3C~:_^Camp:=^Tell these guys that:~22~>you are the Pan.~0D~}#060#051
-~3C~:_^Camp:=^Dile a esos chicos que eres:~22~>el Pan.  ~0D~#051
-;000008DB{~3C~~0F~:_^Peter:=^Training, what training?~0D~}#047#038
-~3C~~0F~:_^Peter:=^Entrenamiento? Cual?    ~0D~#038
-;00000901{~3C~:_^Camp:=^Don't ask any questions.:~22~>Let's go.~0D~}#057#048
-~3C~:_^Camp:=^No hagas preguntas.     :~22~>Vamos.   ~0D~#048
-;00000931{~3C~~0F~:_^Rufio:=^You are the pan.:~22~>This is your sword.~0D~}#067#052
-~3C~~0F~:_^Rufio:=^Tu eres el Pan. :~22~>Esta es tu espada. ~0D~#052
-;00000965{~3C~~0F~:_^Peter:=^I remember now.~0D~}#038#029
-~3C~~0F~:_^Peter:=^Ahora recuerdo.~0D~#029
-;00000982{~3C~:_^Peter:=^I am Peter Pan.~0D~}#034#028
-~3C~:_^Peter:=^Soy Peter Pan. ~0D~#028
-;0000099E{~3C~~0F~:_^Lost Boys:=^He's the Pan!:~22~>He's the Pan!~0D~}#059#047
-~3C~~0F~:_^Niños Per:=^Es el Pan!   :~22~>Es el Pan!   ~0D~#047
-;000009CD{~3C~:_^Camp:=^It's about time:~22~>you remembered.~0D~}#054#045
-~3C~:_^Camp:=^Ya era hora de que:~22~>recordaras. ~0D~#045
-;000009FA{~3C~:_^Camp:=^Let's go find:~22~>Jack and Maggie.~0D~}#053#044
-~3C~:_^Camp:=^Vayamos a por:~22~>Jack y Maggie.  ~0D~#044
-;00000A26{~3C~~0F~:_^Maggie:=^Daddy, I knew you'd come to:~22~>save us.~0D~}#065#053
-~3C~~0F~:_^Maggie:=^Papi, sabia que nos      :~22~>salvarías.~0D~#053
-;00000A5B{~3C~:_^Jack:=^Dad, you are Peter Pan.~0D~}#041#035
-~3C~:_^Jack:=^Papa, eres Peter Pan.  ~0D~#035
-;00000A7E{~3C~:_^Peter:=^Let's go home.~0D~}#033#027
-~3C~:_^Peter:=^Vamos a casa. ~0D~#027
-;00000A99{~3C~:_^Maggie:=^Daddy, look out!~0D~}#036#030
-~3C~:_^Maggie:=^Papi, cuidado!  ~0D~#030
-;00000AB7{~3C~~0F~:_^Hook:=^I'll get you Peter!!~0D~}#042#033
-~3C~~0F~:_^Hook:=^Te cogeré Peter!!   ~0D~#033
-;00000AD8{~3C~~0F~:_^Peter:=^Tink,:~22~>you take the kids home.~0D~}#057#045
-~3C~~0F~:_^Peter:=^Campanilla,:~22~>llévales a casa. ~0D~#045
-;00000B05{~3C~:_^Jack:=^Dad!~0D~}#022#016
-~3C~:_^Jack:=^Papa~0D~#016
-;00000B15{~3C~:_^Peter:=^Don't worry about me,:~22~>I'm Peter pan.~0D~}#060#051
-~3C~:_^Peter:=^No os preocupéis,    :~22~>Soy Peter pan.~0D~#051
-;00000B48{~3C~:_^Peter:=^Tell Mom:~22~>I'm right behind you.~0D~}#054#045
-~3C~:_^Peter:=^Decídselo a mama. :~22~>Ahora voy. ~0D~#045
-;00000B75{~3C~~0F~:_^Peter:=^I have to go home now.~0D~}#045#036
-~3C~~0F~:_^Peter:=^Ahora he de ir a casa.~0D~#036
-;00000B99{~3C~:_^Peter:=^I won't be coming back:~22~>to Neverland,~0D~}#060#051
-~3C~:_^Peter:=^No volveré a Nunca Jamás,:~22~>así que   ~0D~#051
-;00000BCC{~3C~:_^Peter:=^so you need to keep:~22~>my sword.~0D~}#053#044
-~3C~:_^Peter:=^tenéis que tener mi:~22~>espada.  ~0D~#044
-;00000BF8{~3C~~0F~:_^Peter:=^Always keep your happy:~22~>thoughts.~0D~}#060#048
-~3C~~0F~:_^Peter:=^Mantened pensamientos:~22~>alegres.  ~0D~#048
-;00000C28{~3C~:_^Peter:=^Good bye.~0D~}#028#022
-~3C~:_^Peter:=^Adiós.   ~0D~#022
-;00000C3E{~3C~~0F~:_^Lost Boys:=^Good bye, Peter.~0D~}#043#034
-~3C~~0F~:_^Niños Per:=^Adiós, Peter.   ~0D~#034
-;00000C60{~B4~~0F~:_^Camp:=^Peter,~0D~}#028#019
-~B4~~0F~:_^Camp:=^Peter,~0D~#019
-;00000C73{~B4~:_^Camp:=^let's have:~22~>another adventure.~0D~}#052#043
-~B4~:_^Camp:=^tengamos otra aventura.:~22~>     ~0D~#043
-;00000C9E{~B4~~0D~}#008#002
+@000182B2-000183CF-FF
+;000182B2{~E6~~2C~GAME OVER~FF~}#021#012
+~E6~~2C~FIN JUEGO~FF~#012
+;000182BE{~E6~~2C~CONTINUE~FF~}#020#011
+~E6~~2C~SEGUIR  ~FF~#011
+;000182C9{~26~~2D~PLESS START BUTTON~FF~}#030#021
+~26~~2D~PULSA BOTÓN START ~FF~#021
+;000182DE{~E6~~2C~STAGE CLEAR~FF~}#023#014
+~E6~~2C~ETAPA ACABA~FF~#014
+;000182EC{~26~~2D~TIME MIN {xx}   10000PTS~FF~}#036#024
+~26~~2D~MINUTOS  {xx}   10000PTS~FF~#024
+;00018304{O~2D~TIME SEC {xx}     100PTS~FF~}#033#024
+O~2D~SEGUNDOS {xx}     100PTS~FF~#024
+;0001831C{~A6~~2D~LIFE     {xx}    5000PTS~FF~}#036#024
+~A6~~2D~VIDA     {xx}    5000PTS~FF~#024
+;00018334{~E6~~2D~FLY      {xx}    1000PTS~FF~}#036#024
+~E6~~2D~VUELO    {xx}    1000PTS~FF~#024
+;0001834C{~F2~~2C~ 10000PTS~FF~}#021#012
+~F2~~2C~ 10000PTS~FF~#012
+;00018358{~F2~~2C~ 20000PTS~FF~}#021#012
+~F2~~2C~ 20000PTS~FF~#012
+;00018364{~F2~~2C~ 30000PTS~FF~}#021#012
+~F2~~2C~ 30000PTS~FF~#012
+;00018370{~F2~~2C~ 40000PTS~FF~}#021#012
+~F2~~2C~ 40000PTS~FF~#012
+;0001837C{~F2~~2C~ 50000PTS~FF~}#021#012
+~F2~~2C~ 50000PTS~FF~#012
+;00018388{~F2~~2C~ 60000PTS~FF~}#021#012
+~F2~~2C~ 60000PTS~FF~#012
+;00018394{~F2~~2C~ 70000PTS~FF~}#021#012
+~F2~~2C~ 70000PTS~FF~#012
+;000183A0{~F2~~2C~ 80000PTS~FF~}#021#012
+~F2~~2C~ 80000PTS~FF~#012
+;000183AC{~F2~~2C~ 90000PTS~FF~}#021#012
+~F2~~2C~ 90000PTS~FF~#012
+;000183B8{~F2~~2C~100000PTS~FF~}#021#012
+~F2~~2C~100000PTS~FF~#012
+;000183C4{~F2~~2C~200000PTS~FF~}#021#012
+~F2~~2C~200000PTS~FF~#012
+|286
+@0001A977-0001AD7A-0D
+;0001A977{:_^Peter:=^J~0C~~10~~01~ack, Maggie:[]- it's time for bed.~0C~~10~ ~0D~}#071#053
+:_^Peter:=^J~0C~~10~~01~ack, Maggie:[]- es hora de dormir.~0C~~10~ ~0D~#053
+;0001A9AC{>:_^Maggie:=^D~0C~~12~~05~addy, is grandma Wendy:[]the real Wendy?~0C~~12~~04~~0D~}#082#061
+>:_^Maggie:=^P~0C~~12~~05~api,¿la abuela Wendy es la:[]Wendy real?~0C~~12~~04~~0D~#061
+;0001A9E9{>:_^Peter:=^M~0C~~10~~01~aggie, that's ridiculous.~0D~}#054#042
+>:_^Peter:=^M~0C~~10~~01~aggie, eso es ridículo.  ~0D~#042
+;0001AA13{>:_^Peter:=^Close your eyes and go to:[]sleep.~0C~~10~ ~0D~}#059#050
+>:_^Peter:=^Cerrad los ojos e idos a:[]dormir.~0C~~10~ ~0D~#050
+;0001AA45{>:_^Jack:=^T~0C~~11~~03~hen is Peter Pan's:[]adventure a made-up story?~0D~}#075#063
+>:_^Jack:=^¿~0C~~11~~03~Entonces la aventura de:[]Peter Pan es falsa?  ~0D~#063
+;0001AA84{>:_^Peter:=^J~0C~~10~~01~~0C~~11~~02~ack, stop!~0C~~10~ ~0D~}#060#033
+>:_^Peter:=^¡J~0C~~10~~01~~0C~~11~~02~ack,para!~0C~~10~ ~0D~#033
+;0001AAA5{>:_^Maggie:=^S~0C~~12~~05~he is the real Wendy.~0C~~12~~04~~0D~}#063#042
+>:_^Maggie:=^E~0C~~12~~05~lla es la Wendy real.~0C~~12~~04~~0D~#042
+;0001AACF{8:_^Peter:=^H~0C~~10~~01~~0C~~11~~03~~0C~~12~~05~ow will you ever grow-up~0D~}#077#047
+8:_^Peter:=^¿~0C~~10~~01~~0C~~11~~03~~0C~~12~~05~Cómo vais a crecer si   ~0D~#047
+;0001AAFE{>:_^Peter:=^if you keep believing:[]these silly stories?~0D~}#060#057
+>:_^Peter:=^seguís creyendo en estas:[]tontas historias?~0D~#057
+;0001AB37{>:_^Peter:=^There is no adventure.~0D~}#038#035
+>:_^Peter:=^No hay aventura.      ~0D~#035
+;0001AB5A{>:_^Peter:=^That was a long time ago.~0D~}#041#038
+>:_^Peter:=^Fue hace mucho tiempo.   ~0D~#038
+;0001AB80{>:_^Peter:=^One day when you are both:[]grown-ups,~0D~}#054#051
+>:_^Peter:=^Un día cuando ambos seáis:[]adultos,  ~0D~#051
+;0001ABB3{>:_^Peter:=^you'll understand~0D~}#033#030
+>:_^Peter:=^entenderéis de lo~0D~#030
+;0001ABD1{>:_^Peter:=^what I'm talking about.:[]Come on - go to sleep.~0C~~10~ ~0C~~11~~02~~0C~~12~~04~~0D~}#097#070
+>:_^Peter:=^que os estoy hablando.:[]Vamos - id a dormir.   ~0C~~10~ ~0C~~11~~02~~0C~~12~~04~~0D~#070
+;0001AC17{>~0F~:=^         Dear Peter~0D~}#031#025
+>~0F~:=^Estimado Peter -   ~0D~#025
+;0001AC30{8~0F~:_^  Your presence is required:=^    at the request of your:[]          childen.~0D~}#089#083
+8~0F~:_^
+  Tu presencia es requerida:=^
+    por petición de tus  :[]
+            hijos. ~0D~#083
+;0001AC83{8:=^ Kindest personal regards,~0D~}#034#031
+8:=^  Saludo amable personal, ~0D~#031
+;0001ACA2{8:=^      JAS, Hook, Captain~0D~}#032#029
+8:=^      JAS,Garfio,Capitán~0D~#029
+;0001ACBF{~B4~~0F~:_^Peter:=^Captain Hook? Adventure?:[]This isn't funny.~0D~}#067#058
+~B4~~0F~:_^Peter:=^¿Garfio? ¿Aventura?:[]Esto no es divertido. ~0D~#058
+;0001ACF9{8:_^Peter:=^Jack, Maggie - stop hiding.:[]Come out.~0D~}#055#052
+8:_^Peter:=^Jack, Maggie- no os:[]escondáis. Salid.~0D~#052
+;0001AD2D{~B4~~0F~:_^Peter:=^What! who are you?~0D~}#041#032
+~B4~~0F~:_^Peter:=^¿Pero quién eres? ~0D~#032
+;0001AD4D{+:_^Cmp.:=^Oh Peter,:[]don't you remember me?~0D~}#049#046
++:_^Cmp.:=^Oh Peter,:[]¿no me recuerdas?     ~0D~#046
+|1028
+@0001AD7B-0001B190-0D
+;0001AD7B{+:_^Cmp.:=^I'm Tink.:[]Come on, let's go.~0D~}#045#042
++:_^Cmp.:=^Soy Campanilla.:[]Vamos,vamos.~0D~#042
+;0001ADA5{+:_^Peter:=^I'm not going anywhere:[]with you.~0D~}#050#047
++:_^Peter:=^No voy a ningún sitio:[]contigo.  ~0D~#047
+;0001ADD4{+:_^Cmp.:=^But don't you want to rescue:[]Jack and Maggie?~0D~}#062#059
++:_^Cmp.:=^¿Pero no quieres rescatar a:[]Jack y a Maggie? ~0D~#059
+;0001AE0F{+:_^Peter:=^How do you know about them?~0D~}#043#040
++:_^Peter:=^¿Cómo les conoces?         ~0D~#040
+;0001AE37{+:_^Cmp.:=^Everybody knows about them!~0D~}#042#039
++:_^Cmp.:=^¡Todo el mundo les conoce! ~0D~#039
+;0001AE5E{>:_^Cmp.:=^They were taken by:[]Captain Hook.~0D~}#049#046
+>:_^Cmp.:=^Se los llevó el Capitán:[]Garfio. ~0D~#046
+;0001AE8C{>:_^Cmp.:=^Hurry up!~0D~}#024#021
+>:_^Cmp.:=^¡Rápido! ~0D~#021
+;0001AEA1{>:_^Cmp.:=^We're finally going to fly:[]together again.~0D~}#059#056
+>:_^Cmp.:=^Al fin vamos a volar juntos:[]de nuevo.     ~0D~#056
+;0001AED9{>:_^Peter:=^Hey, wait a minute.~0D~}#035#032
+>:_^Peter:=^Eh, un momento.    ~0D~#032
+;0001AEF9{>:_^Peter:=^I'm not Peter Pan.:[]I can't fly!~0D~}#049#046
+>:_^Peter:=^No soy Peter Pan.:[]¡No sé volar!~0D~#046
+;0001AF27{>:_^Cmp.:=^Oh no!~0D~}#021#018
+>:_^Cmp.:=^¡Oh!  ~0D~#018
+;0001AF39{>:_^Cmp.:=^You don't remember how to:[]fly because you've grown up.~0D~}#071#068
+>:_^Cmp.:=^No recuerdas como volar    :[]porque has crecido.       ~0D~#068
+;0001AF7D{>:_^Cmp.:=^You're still:[]the same old Peter~0D~}#048#045
+>:_^Cmp.:=^Aún eres el mismo viejo:[]Peter -~0D~#045
+;0001AFAA{>:_^Cmp.:=^- always causing me trouble.~0D~}#043#040
+>:_^Cmp.:=^siempre dándome problemas.  ~0D~#040
+;0001AFD2{>~0F~:_^Cmp.:=^Hey Lost Boys!:[]Even though he's fat and old,~0D~}#065#059
+>~0F~:_^Cmp.:=^¡Niños Perdidos!:[]Aunque es gordo y viejo,   ~0D~#059
+;0001B00D{>:_^Cmp.:=^this is Peter Pan.~0D~}#033#030
+>:_^Cmp.:=^este es Peter Pan.~0D~#030
+;0001B02B{>:_^Cmp.:=^Hook took his kids,:[]he came back to save them.~0D~}#063#060
+>:_^Cmp.:=^Garfio raptó a sus hijos,:[]volvió a salvarles. ~0D~#060
+;0001B067{>:_^Cmp.:=^Would you help him?~0D~}#034#031
+>:_^Cmp.:=^¿Le ayudaréis?     ~0D~#031
+;0001B086{>:_^Thudbutt:=^I'll only help him:[]if he's the real Pan.~0D~}#061#058
+>:_^Carambola:=^Solo le ayudaré si es el Pan:[]de verdad.~0D~#058
+;0001B0C0{>:_^Peter:=^I'm not Peter P¨¨¨~0D~}#034#031
+>:_^Peter:=^No soy Peter P... ~0D~#031
+;0001B0DF{>:_^Cmp.:=^Peter!~0D~}#021#018
+>:_^Cmp.:=^¡Eh!  ~0D~#018
+;0001B0F1{>~0F~:_^Rufio:=^Wait a minute!~0D~}#034#028
+>~0F~:_^Rufio:=^¡Espera!      ~0D~#028
+;0001B10D{>:_^Rufio:=^How can you believe that:[]he's Peter?~0D~}#054#051
+>:_^Rufio:=^¿Cómo podéis creer que es:[]Peter?    ~0D~#051
+;0001B140{>:_^Rufio:=^Look at him.~0D~}#028#025
+>:_^Rufio:=^Miradle.    ~0D~#025
+;0001B159{>:_^Rufio:=^This is Peter's sword,:[]and now it's mine.~0D~}#059#056
+>:_^Rufio:=^Esta es la espada de Peter,:[]y es mía.    ~0D~#056
+|1046
+@0001B191-0001B5A1-0D
+;0001B191{>:_^Rufio:=^That makes me the Pan,:[]not him.~0D~}#049#046
+>:_^Rufio:=^Eso me hace el Pan,:[]no a él.   ~0D~#046
+;0001B1BF{>~0F~:_^Cmp.:=^Well Peter, it looks like:[]you're in for some hard~0D~}#070#064
+>~0F~:_^Cmp.:=^Bueno Peter, parece que :[]entrenarás muy duro para~0D~#064
+;0001B1FF{>:_^Cmp.:=^training to fight Hook.~0D~}#038#035
+>:_^Cmp.:=^pelear contra Garfio.  ~0D~#035
+;0001B222{>:_^Cmp.:=^Tell these guys that:[]you are the Pan.~0D~}#054#051
+>:_^Cmp.:=^Dile a estos chicos que eres:[]el Pan. ~0D~#051
+;0001B255{>~0F~:_^Peter:=^Training, what training?~0D~}#044#038
+>~0F~:_^Peter:=^¿Entrenar, has dicho?   ~0D~#038
+;0001B27B{>:_^Cmp.:=^Don't ask any questions.:[]Let's go.~0D~}#051#048
+>:_^Cmp.:=^No hagas preguntas.     :[]Vamos.   ~0D~#048
+;0001B2AB{>~0F~:_^Rufio:=^You are the pan.:[]This is your sword.~0D~}#058#052
+>~0F~:_^Rufio:=^Eres el Pan.    :[]Esta es tu espada. ~0D~#052
+;0001B2DF{>~0F~:_^Peter:=^I remember now.~0D~}#035#029
+>~0F~:_^Peter:=^Ahora recuerdo.~0D~#029
+;0001B2FC{>:_^Peter:=^I am Peter Pan.~0D~}#031#028
+>:_^Peter:=^Soy Peter Pan. ~0D~#028
+;0001B318{>~0F~:_^Niños Pe.:=^He's the Pan!:[]He's the Pan!~0D~}#053#047
+>~0F~:_^Niños Pe.:=^¡Es el Pan!  :[]¡Es el Pan!  ~0D~#047
+;0001B347{>:_^Cmp.:=^It's about time:[]you remembered.~0D~}#048#045
+>:_^Cmp.:=^Era hora de que te:[]acordaras.  ~0D~#045
+;0001B374{>:_^Cmp.:=^Let's go find:[]Jack and Maggie.~0D~}#047#044
+>:_^Cmp.:=^Encontremos a Jack y a:[]Maggie.~0D~#044
+;0001B3A0{>~0F~:_^Maggie:=^Daddy, I knew you'd come to:[]save us.~0D~}#059#053
+>~0F~:_^Maggie:=^Papi,sabía que vendrías a:[]salvarnos.~0D~#053
+;0001B3D5{>:_^Jack:=^Dad, you are Peter Pan.~0D~}#038#035
+>:_^Jack:=^Papá, eres Peter Pan.  ~0D~#035
+;0001B3F8{>:_^Peter:=^Let's go home.~0D~}#030#027
+>:_^Peter:=^Vamos a casa. ~0D~#027
+;0001B413{>:_^Maggie:=^Daddy, look out!~0D~}#033#030
+>:_^Maggie:=^¡Papi, cuidado! ~0D~#030
+;0001B431{>~0F~:_^Hook:=^I'll get you Peter!!~0D~}#039#033
+>~0F~:_^Garfio:=^¡Serás mío, Peter!~0D~#033
+;0001B452{>~0F~:_^Peter:=^Tink,:[]you take the kids home.~0D~}#051#045
+>~0F~:_^Peter:=^Campanilla,:[]llévales a casa. ~0D~#045
+;0001B47F{>:_^Jack:=^Dad!~0D~}#019#016
+>:_^Jack:=^¡No!~0D~#016
+;0001B48F{>:_^Peter:=^Don't worry about me,:[]I'm Peter pan.~0D~}#054#051
+>:_^Peter:=^No os preocupéis,    :[]soy Peter pan.~0D~#051
+;0001B4C2{>:_^Peter:=^Tell Mom:[]I'm right behind you.~0D~}#048#045
+>:_^Peter:=^Decidle a mamá que voy:[]detrás.~0D~#045
+;0001B4EF{>~0F~:_^Peter:=^I have to go home now.~0D~}#042#036
+>~0F~:_^Peter:=^Ahora debo ir a casa. ~0D~#036
+;0001B513{>:_^Peter:=^I won't be coming back:[]to Neverland,~0D~}#054#051
+>:_^Peter:=^No volveré a Nunca Jamás,:[]así que   ~0D~#051
+;0001B546{>:_^Peter:=^so you need to keep:[]my sword.~0D~}#047#044
+>:_^Peter:=^debéis guardar mi espada.:[]   ~0D~#044
+;0001B572{>~0F~:_^Peter:=^Always keep your happy:[]thoughts.~0D~}#054#048
+>~0F~:_^Peter:=^Mantened pensamientos:[]alegres.  ~0D~#048
+|1041
+@0001B5A2-0001B745-0D
+;0001B5A2{>:_^Peter:=^Good bye.~0D~}#025#022
+>:_^Peter:=^Adiós.   ~0D~#022
+;0001B5B8{>~0F~:_^Niños Pe.:=^Good bye, Peter.~0D~}#040#034
+>~0F~:_^Niños Pe.:=^Adiós, Peter.   ~0D~#034
+;0001B5DA{~B4~~0F~:_^Cmp.:=^Peter,~0D~}#028#019
+~B4~~0F~:_^Cmp.:=^Peter,~0D~#019
+;0001B5ED{~B4~:_^Cmp.:=^let's have:[]another adventure.~0D~}#049#043
+~B4~:_^Cmp.:=^tengamos otra aventura.:[]     ~0D~#043
+;0001B618{~B4~~0D~}#008#002
 ~B4~~0D~#002
-;00000CA0{~B4~~0F~:_^Peter:=^I can't go back anymore,:~22~>Tink.~0D~}#058#046
-~B4~~0F~:_^Peter:=^No puedo volver,  :~22~>Campanilla.~0D~#046
-;00000CCE{~78~:_^Peter:=^Now I know that~0D~}#034#028
-~78~:_^Peter:=^Ahora se que la~0D~#028
-;00000CEA{~78~:_^Peter:=^life is:~22~>the biggest adventure.~0D~}#054#045
-~78~:_^Peter:=^vida es:~22~>la mayor aventura.    ~0D~#045
-;00000D17{~3C~~0D~}#008#002
-~3C~~0D~#002
-;00000D19{~78~~0F~:_^Jack and maggie:=^Daddy!~0D~}#039#030
-~78~~0F~:_^Jack y maggie:=^Papi!   ~0D~#030
-;00000D37{~3C~:_^Peter:=^Yids, watch out!!~0D~}#036#030
-~3C~:_^Peter:=^Cuidado!!        ~0D~#030
-;00000D55{~3C~:_^Peter:=^Rufio!~0D~}#025#019
-~3C~:_^Peter:=^Rufio!~0D~#019
-;00000D68{~3C~~0F~:_^Rufio:=^I've been defeated by Hook¨¨¨~0D~}#052#043
-~3C~~0F~:_^Rufio:=^He sido vencido por Hook¨¨¨  ~0D~#043
-;00000D93{~3C~:_^Rufio:=^I can't replace Peter.~0D~}#041#035
-~3C~:_^Rufio:=^No puedo ser Peter.   ~0D~#035
-;00000DB6{~3C~~0F~:_^Peter:=^Hook!!!!~0D~}#031#022
-~3C~~0F~:_^Peter:=^Hook!!!!~0D~#022
-|3532
+;0001B61A{~B4~~0F~:_^Peter:=^I can't go back anymore,:[]Tink.~0D~}#055#046
+~B4~~0F~:_^Peter:=^No puedo volver,  :[]Campanilla.~0D~#046
+;0001B648{8:_^Peter:=^Now I know that~0D~}#031#028
+8:_^Peter:=^Ahora sé que la~0D~#028
+;0001B664{8:_^Peter:=^life is:[]the biggest adventure.~0D~}#048#045
+8:_^Peter:=^vida es la mayor aventura.:[]   ~0D~#045
+;0001B691{>~0D~}#005#002
+>~0D~#002
+;0001B693{8~0F~:_^Jack and maggie:=^Daddy!~0D~}#036#030
+8~0F~:_^Jack y Maggie :=^¡Papi! ~0D~#030
+;0001B6B1{>:_^Peter:=^Kids, watch out!!~0D~}#033#030
+>:_^Peter:=^¡Niños, cuidado! ~0D~#030
+;0001B6CF{>:_^Peter:=^Rufio!~0D~}#022#019
+>:_^Peter:=^¡No!  ~0D~#019
+;0001B6E2{>~0F~:_^Rufio:=^I've been defeated by Hook¨¨¨~0D~}#049#043
+>~0F~:_^Rufio:=^Fui derrotado por Garfio...  ~0D~#043
+;0001B70D{>:_^Rufio:=^I can't replace Peter.~0D~}#038#035
+>:_^Rufio:=^No sustituiré a Peter.~0D~#035
+;0001B730{>~0F~:_^Peter:=^Hook!!!!~0D~}#028#022
+>~0F~:_^Peter:=^¡Garfio!~0D~#022
+|420

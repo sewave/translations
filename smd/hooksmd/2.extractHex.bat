@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Hook (USA).md"
+set SCRIPTNAME="hooksmd"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 4CDD2:20,4CE32:20,4CEF2:20,4CFD2:60,4D512:80,55298:20,552F8:40,5091C:260,568B0:A0,56AB0:A0,7F7BC:300
+pause

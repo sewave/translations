@@ -1,0 +1,1302 @@
+@00005D91-00005E53-FF
+;00005D91{Out of script space!~FF~}#024#021
+¡Sin espacio guion!\~FF~#021
+;00005DA6{Out of trigger space!~FF~}#025#022
+¡Sin espacio dispara!~FF~#022
+;00005DBC{Out of actor space!~FF~}#023#020
+¡Sin espacio actor!~FF~#020
+;00005DD0{  QUIT?~FF~}#011#008
+¿SALIR?~FF~#008
+;00005DD8{ QUITTÉ?~FF~}#012#009
+ QUITTÉ?~FF~#009
+;00005DE1{BEENDET?~FF~}#012#009
+BEENDET?~FF~#009
+;00005DEA{Not Enough Money~FF~}#020#017
+Te Falta Dinero\~FF~#017
+;00005DFB{Pas Assez d'Argent~FF~}#022#019
+Pas Assez d'Argent~FF~#019
+;00005E0E{Nicht Genug Geld~FF~}#020#017
+Nicht Genug Geld~FF~#017
+;00005E1F{Build dated: 10/18/00 , 17:33:50~FF~}#036#033
+Fecha Cons.: 10/18/00 , 17:33:50~FF~#033
+;00005E40{Hello~FF~}#009#006
+Hola.~FF~#006
+;00005E46{Bonjour~FF~}#011#008
+Bonjour~FF~#008
+;00005E4E{Hallo~FF~}#009#006
+Hallo~FF~#006
+|195
+@0002EB52-0002EBA4-FF
+;0002EB52{Fortune! You have found a Canary in a cage.  This bird will sing if it smells gas.~FF~}#086#083
+¡Fortuna! Encontraste un Canario en una jaula. Este pájaro cantará si huele gas.\ ~FF~#083
+|83
+@000BAB52-000BAF6D-FF
+;000BAB52{Los dioses te sonríen, ¡has descubierto un pergamino mágico!   This spell will restore your hit points to maximum.~FF~}#118#115
+Los dioses te sonríen, ¡has descubierto un pergamino mágico! Este hechizo te recuperará todos los puntos de vida.\~FF~#115
+;000BABC5{Tu viens de découvrir un parchemin magique ! Ce sort rétablit tes points de santé à leur maximum.~FF~}#101#098
+Tu viens de découvrir un parchemin magique ! Ce sort rétablit tes points de santé à leur maximum.~FF~#098
+;000BAC27{Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber wird all Eure Trefferpunkte wiederherstellen.~FF~}#138#135
+Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber wird all Eure Trefferpunkte wiederherstellen.~FF~#135
+;000BACAE{Curses! This spell requires a magical herb in order to work, and at present you do not possess one.~FF~}#103#100
+¡Maldición! Este hechizo requiere una hierba mágica para funcionar y ahora mismo no posees una.\   ~FF~#100
+;000BAD12{Malédiction ! Ce sort nécessite une herbe magique pour fonctionner, et pour l´instant, tu n´en as pas.~FF~}#106#103
+Malédiction ! Ce sort nécessite une herbe magique pour fonctionner, et pour l´instant, tu n´en as pas.~FF~#103
+;000BAD79{Verflucht! Für diesen Zauber benötigt man ein magisches Kraut, sonst funktioniert er nicht. Im Augenblick besitzt Ihr dieses Kraut nicht.~FF~}#141#138
+Verflucht! Für diesen Zauber benötigt man ein magisches Kraut, sonst funktioniert er nicht. Im Augenblick besitzt Ihr dieses Kraut nicht.~FF~#138
+;000BAE03{Fortune! You have found a magical herb.~FF~}#043#040
+¡Fortuna! Hallaste una hierba mágica.\ ~FF~#040
+;000BAE2B{Bien ! Tu viens de trouver une herbe magique.~FF~}#049#046
+Bien ! Tu viens de trouver une herbe magique.~FF~#046
+;000BAE59{Welch ein Glück! Ihr habt ein magisches Kraut gefunden.~FF~}#059#056
+Welch ein Glück! Ihr habt ein magisches Kraut gefunden.~FF~#056
+;000BAE91{Tu poder es incrementado con este suit of magical chain mail armour.~FF~}#072#069
+Tu poder es incrementado con este traje de armadura de malla mágica.~FF~#069
+;000BAED6{Ta force s´accroît grâce à cette armure articulée magique.~FF~}#062#059
+Ta force s´accroît grâce à cette armure articulée magique.~FF~#059
+;000BAF11{Eure Stärke wird mit diesem magischen Plattenpanzer erhöht.~FF~}#063#060
+Eure Stärke wird mit diesem magischen Plattenpanzer erhöht.~FF~#060
+;000BAF4D{Fortune! You have found a lever.~FF~}#036#033
+¡Fortuna! Hallaste una palanca.\~FF~#033
+|1052
+@000BAF6E-000BB3A9-FF
+;000BAF6E{Bien ! Tu viens de trouver un levier.~FF~}#041#038
+Bien ! Tu viens de trouver un levier.~FF~#038
+;000BAF94{Welch ein Glück! Ihr habt einen Hebel gefunden.~FF~}#051#048
+Welch ein Glück! Ihr habt einen Hebel gefunden.~FF~#048
+;000BAFC4{Los dioses te sonríen, ¡has descubierto un pergamino mágico!   This spell will enable you to throw a bolt of lightening.~FF~}#124#121
+Los dioses te sonríen, ¡has descubierto un pergamino mágico! Este hechizo te permitirá lanzar un rayo de luz.\          ~FF~#121
+;000BB03D{Les Dieux te sont favorables, tu viens de découvrir un parchemin magique ! Ce sort te permet de déclencher un coup de foudre.~FF~}#129#126
+Les Dieux te sont favorables, tu viens de découvrir un parchemin magique ! Ce sort te permet de déclencher un coup de foudre.~FF~#126
+;000BB0BB{Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber ermöglicht es Euch, einen Blitzstrahl zu werfen.~FF~}#141#138
+Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber ermöglicht es Euch, einen Blitzstrahl zu werfen.~FF~#138
+;000BB145{Insect Scale Armour~FF~}#023#020
+Arma.Escama Insecto~FF~#020
+;000BB159{Armure en écailles~FF~}#022#019
+Armure en écailles~FF~#019
+;000BB16C{Insektenpanzer~FF~}#018#015
+Insektenpanzer~FF~#015
+;000BB17B{Fortune! You have found a key to the Dwarven warriors lair.~FF~}#063#060
+¡Bien! Hallaste la llave a la guarida de guerreros enanos.\~FF~#060
+;000BB1B7{Bien ! Tu viens de trouver la clé du repaire des guerriers nains.~FF~}#069#066
+Bien ! Tu viens de trouver la clé du repaire des guerriers nains.~FF~#066
+;000BB1F9{Welch ein Glück! Ihr habt einen Schlüssel zum Versteck der Zwergenkrieger gefunden.~FF~}#087#084
+Welch ein Glück! Ihr habt einen Schlüssel zum Versteck der Zwergenkrieger gefunden.~FF~#084
+;000BB24D{Tu poder es incrementado con este Magical dwarven sword.~FF~}#060#057
+Tu poder es incrementado con esta Espada Mágica Enana.\ ~FF~#057
+;000BB286{Ta force s´accroît grâce à cette épée de nain magique.~FF~}#058#055
+Ta force s´accroît grâce à cette épée de nain magique.~FF~#055
+;000BB2BD{Eure Stärke wird mit diesem magischen Zwergenschwert erhöht.~FF~}#064#061
+Eure Stärke wird mit diesem magischen Zwergenschwert erhöht.~FF~#061
+;000BB2FA{Fortune! You have found a thunderbug in a jar.~FF~}#050#047
+¡Fortuna! Hallaste un tronador en un frasco.\ ~FF~#047
+;000BB329{Bien ! Tu viens de trouver une jarre d´insectes de tonnerre.~FF~}#064#061
+Bien ! Tu viens de trouver une jarre d´insectes de tonnerre.~FF~#061
+;000BB366{Welch ein Glück! Ihr habt einen Donnerkäfer in einem Glas gefunden.~FF~}#071#068
+Welch ein Glück! Ihr habt einen Donnerkäfer in einem Glas gefunden.~FF~#068
+|1084
+@000BB3AA-000BB7C0-FF
+;000BB3AA{At last you have found the library key!~FF~}#043#040
+¡Hallaste la llave de la biblioteca!\  ~FF~#040
+;000BB3D2{Enfin, tu as trouvé la clé de la bibliothèque !~FF~}#051#048
+Enfin, tu as trouvé la clé de la bibliothèque !~FF~#048
+;000BB402{Endlich habt Ihr den Schlüssel zur Bibliothek gefunden!~FF~}#059#056
+Endlich habt Ihr den Schlüssel zur Bibliothek gefunden!~FF~#056
+;000BB43A{Tu poder es incrementado con este Morning star.~FF~}#051#048
+Tu poder es incrementado con este Mangual.\    ~FF~#048
+;000BB46A{Ta force s´accroît grâce à cette Étoile du jour.~FF~}#052#049
+Ta force s´accroît grâce à cette Étoile du jour.~FF~#049
+;000BB49B{Eure Stärke wird mit diesem Morgenstern erhöht.~FF~}#051#048
+Eure Stärke wird mit diesem Morgenstern erhöht.~FF~#048
+;000BB4CB{Tu poder es incrementado con este suit of insect scale armour.~FF~}#066#063
+Tu poder sube con esta armadura de escamas de insecto.\       ~FF~#063
+;000BB50A{Ta force s´accroît grâce à cette armure en écailles d´insectes.~FF~}#067#064
+Ta force s´accroît grâce à cette armure en écailles d´insectes.~FF~#064
+;000BB54A{Eure Stärke wird mit diesem Insektenpanzer erhöht.~FF~}#054#051
+Eure Stärke wird mit diesem Insektenpanzer erhöht.~FF~#051
+;000BB57D{Fortune! You have found a key to the Lieutenant's quarters.~FF~}#063#060
+¡Fortuna! Hallaste la llave del cuartel del Teniente.\     ~FF~#060
+;000BB5B9{Bien ! Tu viens de trouver la clé des quartiers des lieutenants.~FF~}#068#065
+Bien ! Tu viens de trouver la clé des quartiers des lieutenants.~FF~#065
+;000BB5FA{Welch ein Glück! Ihr habt einen Schlüssel zum Quartier des Leutnants gefunden.~FF~}#082#079
+Welch ein Glück! Ihr habt einen Schlüssel zum Quartier des Leutnants gefunden.~FF~#079
+;000BB649{Los dioses te sonríen, ¡has descubierto un pergamino mágico!   This spell will cause certain objects to bust into flames.~FF~}#125#122
+Los dioses te sonríen, ¡has descubierto un pergamino mágico! Este hechizo causará que ciertos objetos estallen en llamas.~FF~#122
+;000BB6C3{Les Dieux te sont favorables, tu viens de découvrir un parchemin magique ! Ce sort permet d´enflammer certains objets.~FF~}#122#119
+Les Dieux te sont favorables, tu viens de découvrir un parchemin magique ! Ce sort permet d´enflammer certains objets.~FF~#119
+;000BB73A{Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Durch diesen Zauber gehen bestimmte Objekte in Flammen auf.~FF~}#138#135
+Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Durch diesen Zauber gehen bestimmte Objekte in Flammen auf.~FF~#135
+|1047
+@000BB7C1-000BBBF2-FF
+;000BB7C1{Tu poder es incrementado con este magical cloak of darkness.~FF~}#064#061
+Tu poder sube con esta capa mágica de la oscuridad.\        ~FF~#061
+;000BB7FE{Ta force s´accroît grâce à cette cape de l´ombre magique.~FF~}#061#058
+Ta force s´accroît grâce à cette cape de l´ombre magique.~FF~#058
+;000BB838{Eure Stärke wird mit diesem magischen Umhang der Dunkelheit erhöht.~FF~}#071#068
+Eure Stärke wird mit diesem magischen Umhang der Dunkelheit erhöht.~FF~#068
+;000BB87C{Fortune! You have found a firefly in a jar.~FF~}#047#044
+¡Bien! Hallaste una luciérnaga en un tarro.~FF~#044
+;000BB8A8{Bien ! Tu viens de trouver une jarre de lucioles.~FF~}#053#050
+Bien ! Tu viens de trouver une jarre de lucioles.~FF~#050
+;000BB8DA{Welch ein Glück! Ihr habt ein Glühwürmchen in einem Glas gefunden.~FF~}#070#067
+Welch ein Glück! Ihr habt ein Glühwürmchen in einem Glas gefunden.~FF~#067
+;000BB91D{Leather Armour~FF~}#018#015
+Armadura Cuero~FF~#015
+;000BB92C{Armure en cuir~FF~}#018#015
+Armure en cuir~FF~#015
+;000BB93B{Lederrüstung~FF~}#016#013
+Lederrüstung~FF~#013
+;000BB948{10 gold pieces you're rich!!!~FF~}#033#030
+¡10 piezas de oro, eres rico!~FF~#030
+;000BB966{10 pièces d´or, tu es riche !!!~FF~}#035#032
+10 pièces d´or, tu es riche !!!~FF~#032
+;000BB986{10 Goldstücke, Ihr seid reich!!!~FF~}#036#033
+10 Goldstücke, Ihr seid reich!!!~FF~#033
+;000BB9A7{Fortune! You have found a pair of old boots.~FF~}#048#045
+¡Fortuna! Hallaste un par de botas viejas.\ ~FF~#045
+;000BB9D4{Bien ! Tu viens de trouver une paire de vieilles bottes.~FF~}#060#057
+Bien ! Tu viens de trouver une paire de vieilles bottes.~FF~#057
+;000BBA0D{Welch ein Glück! Ihr habt ein paar alte Stiefel gefunden.~FF~}#061#058
+Welch ein Glück! Ihr habt ein paar alte Stiefel gefunden.~FF~#058
+;000BBA47{Fortune! You have found the secret Dasher hideout.~FF~}#054#051
+¡Fortuna! Hallaste el escondite secreto de Dasher.~FF~#051
+;000BBA7A{Bien ! Tu viens de trouver la cachette secrète des Dashers.~FF~}#063#060
+Bien ! Tu viens de trouver la cachette secrète des Dashers.~FF~#060
+;000BBAB6{Welch ein Glück! Ihr habt das geheime Versteck der Dasher gefunden.~FF~}#071#068
+Welch ein Glück! Ihr habt das geheime Versteck der Dasher gefunden.~FF~#068
+;000BBAFA{Los dioses te sonríen, ¡has descubierto un pergamino mágico!   This spell will enable you to run at twice your normal speed.~FF~}#128#125
+Los dioses te sonríen, ¡descubriste un pergamino mágico! Este hechizo te permitirá correr al doble de tu velocidad normal.\ ~FF~#125
+;000BBB77{Les Dieux te sont favorables, tu viens de découvrir un parchemin magique ! Ce sort te permet de courir deux fois plus vite.~FF~}#127#124
+Les Dieux te sont favorables, tu viens de découvrir un parchemin magique ! Ce sort te permet de courir deux fois plus vite.~FF~#124
+|1074
+@000BBBF3-000BBFC0-FF
+;000BBBF3{Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber ermöglicht es Euch, doppelt so schnell zu rennen.~FF~}#142#139
+Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber ermöglicht es Euch, doppelt so schnell zu rennen.~FF~#139
+;000BBC7E{Curses! This spell requires a pair of old boots in order to work, and at present you do not possess one.~FF~}#108#105
+¡Maldiciones! Este hechizo requiere un par de botas viejas para funcionar y ahora mismo no posees unas.\~FF~#105
+;000BBCE7{Malédiction ! Ce sort nécessite une paire de vieilles bottes pour fonctionner, et pour l´instant, tu n´en as pas.~FF~}#117#114
+Malédiction ! Ce sort nécessite une paire de vieilles bottes pour fonctionner, et pour l´instant, tu n´en as pas.~FF~#114
+;000BBD59{Verflucht! Für diesen Zauber benötigt man ein paar alte Stiefel, sonst funktioniert er nicht. Im Augenblick besitzt Ihr keine alten Stiefel.~FF~}#144#141
+Verflucht! Für diesen Zauber benötigt man ein paar alte Stiefel, sonst funktioniert er nicht. Im Augenblick besitzt Ihr keine alten Stiefel.~FF~#141
+;000BBDE6{Your spell power is now fully restored.~FF~}#043#040
+Tu poder mágico está todo recuperado.\ ~FF~#040
+;000BBE0E{Ta puissance de sorts est à présent entièrement rétablie.~FF~}#061#058
+Ta puissance de sorts est à présent entièrement rétablie.~FF~#058
+;000BBE48{Eure Zauberkräfte sind nun gänzlich wiederher_ gestellt.~FF~}#060#057
+Eure Zauberkräfte sind nun gänzlich wiederher_ gestellt.~FF~#057
+;000BBE81{Tu poder es incrementado con este suit of leather armour.~FF~}#061#058
+Tu poder es incrementado con esta armadura de cuero.\    ~FF~#058
+;000BBEBB{Ta force s´accroît grâce à cette armure en cuir.~FF~}#052#049
+Ta force s´accroît grâce à cette armure en cuir.~FF~#049
+;000BBEEC{Eure Stärke wird mit dieser Lederrüstung erhöht.~FF~}#052#049
+Eure Stärke wird mit dieser Lederrüstung erhöht.~FF~#049
+;000BBF1D{Fortune! You have found a twisted piece of metal.~FF~}#053#050
+¡Fortuna! Hallaste una pieza de metal retorcida.\~FF~#050
+;000BBF4F{Bien ! Tu viens de trouver un bout de métal tordu.~FF~}#054#051
+Bien ! Tu viens de trouver un bout de métal tordu.~FF~#051
+;000BBF82{Welch ein Glück! Ihr habt ein verbogenes Metallstück gefunden.~FF~}#066#063
+Welch ein Glück! Ihr habt ein verbogenes Metallstück gefunden.~FF~#063
+|974
+@000BEB52-000BEF6F-FF
+;000BEB52{Fortune! You have found a key to the water elementals lair!~FF~}#063#060
+¡Hallaste la llave a la guarida de los elementales de aire!~FF~#060
+;000BEB8E{Bien ! Tu viens de trouver la clé du repaire des élémentaires de l´Eau !~FF~}#076#073
+Bien ! Tu viens de trouver la clé du repaire des élémentaires de l´Eau !~FF~#073
+;000BEBD7{Welch ein Glück! Ihr habt einen Schlüssel zum Versteck der Wasserelemente gefunden!~FF~}#087#084
+Welch ein Glück! Ihr habt einen Schlüssel zum Versteck der Wasserelemente gefunden!~FF~#084
+;000BEC2B{Lever~FF~}#009#006
+Pala.~FF~#006
+;000BEC31{Levier~FF~}#010#007
+Levier~FF~#007
+;000BEC38{Hebel~FF~}#009#006
+Hebel~FF~#006
+;000BEC3E{Los dioses te sonríen, ¡has descubierto un pergamino mágico!   This spell will enable you to send out an exploding ball of metal!~FF~}#133#130
+Los dioses te sonríen, ¡has descubierto un pergamino mágico! ¡Este hechizo te permitirá enviar una bola de metal explosiva!\     ~FF~#130
+;000BECC0{Les Dieux te sont favorables, tu viens de découvrir un parchemin magique ! Ce sort te permet de jeter une boule de métal explosive !~FF~}#136#133
+Les Dieux te sont favorables, tu viens de découvrir un parchemin magique ! Ce sort te permet de jeter une boule de métal explosive !~FF~#133
+;000BED45{Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber ermöglicht es Euch, eine explodierende Metallkugel zu werfen.~FF~}#154#151
+Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber ermöglicht es Euch, eine explodierende Metallkugel zu werfen.~FF~#151
+;000BEDDC{Tu poder es incrementado con este suit of studded armour.~FF~}#061#058
+Tu poder es incrementado con esta armadura con tachuelas.~FF~#058
+;000BEE16{Ta force s´accroît grâce à cette armure cloutée.~FF~}#052#049
+Ta force s´accroît grâce à cette armure cloutée.~FF~#049
+;000BEE47{Eure Stärke wird mit dieser verstärkten Rüstung erhöht.~FF~}#059#056
+Eure Stärke wird mit dieser verstärkten Rüstung erhöht.~FF~#056
+;000BEE7F{Fortune! You have found a silken thread.~FF~}#044#041
+¡Fortuna! Encontraste un hilo de seda.\ ~FF~#041
+;000BEEA8{Bien ! Tu viens de trouver un fil de soie.~FF~}#046#043
+Bien ! Tu viens de trouver un fil de soie.~FF~#043
+;000BEED3{Welch ein Glück! Ihr habt einen seidenen Faden gefunden.~FF~}#060#057
+Welch ein Glück! Ihr habt einen seidenen Faden gefunden.~FF~#057
+;000BEF0C{Fortune! You have found a magical snowflake.~FF~}#048#045
+¡Fortuna! Hallaste un copo de nieve mágico.\~FF~#045
+;000BEF39{Bien ! Tu viens de trouver un flocon de neige magique.~FF~}#058#055
+Bien ! Tu viens de trouver un flocon de neige magique.~FF~#055
+|1054
+@000BEF70-000BF37C-FF
+;000BEF70{Welch ein Glück! Ihr habt eine magische Schneeflocke gefunden.~FF~}#066#063
+Welch ein Glück! Ihr habt eine magische Schneeflocke gefunden.~FF~#063
+;000BEFAF{Fortune! You have found a key to the frost giants lair!~FF~}#059#056
+¡Es la llave de la guarida de los gigantes de escarcha!~FF~#056
+;000BEFE7{Bien ! Tu viens de trouver la clé du repaire des géants du Gel !~FF~}#068#065
+Bien ! Tu viens de trouver la clé du repaire des géants du Gel !~FF~#065
+;000BF028{Welch ein Glück! Ihr habt einen Schlüssel zum Versteck der Eisriesen gefunden!~FF~}#082#079
+Welch ein Glück! Ihr habt einen Schlüssel zum Versteck der Eisriesen gefunden!~FF~#079
+;000BF077{Los dioses te sonríen, ¡has descubierto un pergamino mágico!   This spell will freeze water and certain monsters.  Tu poder es incrementado con este cold spell!~FF~}#164#161
+Los dioses te sonríen, ¡has descubierto un pergamino mágico! Este hechizo congelará el agua y a ciertos monstruos. ¡Tu poder sube con este hechizo frío!\       ~FF~#161
+;000BF118{Tu viens de découvrir un parchemin magique ! Ce sort permet de geler l´eau et certains monstres. Ta force s´accroît grâce à ce sort du froid.~FF~}#145#142
+Tu viens de découvrir un parchemin magique ! Ce sort permet de geler l´eau et certains monstres. Ta force s´accroît grâce à ce sort du froid.~FF~#142
+;000BF1A6{Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber friert Wasser und bestimmte Monster. Eure Stärke wird durch diesen Kältezauber erhöht.~FF~}#179#176
+Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber friert Wasser und bestimmte Monster. Eure Stärke wird durch diesen Kältezauber erhöht.~FF~#176
+;000BF256{Tu poder es incrementado con este Warhammer!~FF~}#048#045
+¡Tu poder sube con este Martillo de guerra!\~FF~#045
+;000BF283{Ta force s´accroît grâce à ce marteau de guerre !~FF~}#053#050
+Ta force s´accroît grâce à ce marteau de guerre !~FF~#050
+;000BF2B5{Eure Stärke wird mit diesem Kriegshammer erhöht!~FF~}#052#049
+Eure Stärke wird mit diesem Kriegshammer erhöht!~FF~#049
+;000BF2E6{Fortune! You have found a healing potion.~FF~}#045#042
+¡Fortuna! Hallaste una poción curativa.\ ~FF~#042
+;000BF310{Bien ! Tu viens de trouver une potion de premiers soins.~FF~}#060#057
+Bien ! Tu viens de trouver une potion de premiers soins.~FF~#057
+;000BF349{Welch ein Glück! Ihr habt einen Heiltrank gefunden.~FF~}#055#052
+Welch ein Glück! Ihr habt einen Heiltrank gefunden.~FF~#052
+|1037
+@000BF37D-000BF78F-FF
+;000BF37D{Tu poder es incrementado con este shortbow~FF~}#046#043
+Tu poder sube con este arco corto.\       ~FF~#043
+;000BF3A8{Ta force s´accroît grâce à cet arc court.~FF~}#045#042
+Ta force s´accroît grâce à cet arc court.~FF~#042
+;000BF3D2{Eure Stärke wird durch diesen Kurzbogen erhöht!~FF~}#051#048
+Eure Stärke wird durch diesen Kurzbogen erhöht!~FF~#048
+;000BF402{Tu poder es incrementado con este Longsword.~FF~}#048#045
+Tu poder sube con esta Espada larga.\       ~FF~#045
+;000BF42F{Ta force s´accroît grâce à cette épée.~FF~}#042#039
+Ta force s´accroît grâce à cette épée.~FF~#039
+;000BF456{Eure Stärke wird durch dieses Langschwert erhöht.~FF~}#053#050
+Eure Stärke wird durch dieses Langschwert erhöht.~FF~#050
+;000BF488{Lightening Spell~FF~}#020#017
+Magia Relámpago\~FF~#017
+;000BF499{Sort Éclairs~FF~}#016#013
+Sort Éclairs~FF~#013
+;000BF4A6{Blitz/Zauber~FF~}#016#013
+Blitz/Zauber~FF~#013
+;000BF4B3{Tu poder es incrementado con este set of 20 flint tipped arrows.~FF~}#068#065
+Tu poder sube con este set de 20 flechas con punta de pedernal.\~FF~#065
+;000BF4F4{Ta force s´accroît grâce à ce jeu de 20 flèches en silex.~FF~}#061#058
+Ta force s´accroît grâce à ce jeu de 20 flèches en silex.~FF~#058
+;000BF52E{Eure Stärke wird mit diesen 20 Steinspit_ zenpfeilen erhöht.~FF~}#064#061
+Eure Stärke wird mit diesen 20 Steinspit_ zenpfeilen erhöht.~FF~#061
+;000BF56B{Los dioses te sonríen, ¡has descubierto un pergamino mágico!   This spell will let you shoot flaming arrows.~FF~}#112#109
+Los dioses te sonríen, ¡descubriste un pergamino mágico! Este hechizo te permite disparar flechas de fuego.\~FF~#109
+;000BF5D8{Tu viens de découvrir un parchemin magique ! Ce sort te permet de tirer des flèches enflammées.~FF~}#099#096
+Tu viens de découvrir un parchemin magique ! Ce sort te permet de tirer des flèches enflammées.~FF~#096
+;000BF638{Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber ermöglicht es Euch, mit brennenden Pfeilen zu schieβen.~FF~}#148#145
+Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Dieser Zauber ermöglicht es Euch, mit brennenden Pfeilen zu schieβen.~FF~#145
+;000BF6C9{Fifty gold pieces!!~FF~}#023#020
+¡50 piezas de oro! ~FF~#020
+;000BF6DD{Cinquante pièces d´or !!~FF~}#028#025
+Cinquante pièces d´or !!~FF~#025
+;000BF6F6{50 Goldstücke!!~FF~}#019#016
+50 Goldstücke!!~FF~#016
+;000BF706{100 gold pieces!!!~FF~}#022#019
+¡100 po!\         ~FF~#019
+;000BF719{100 pièces d´or !!!~FF~}#023#020
+100 pièces d´or !!!~FF~#020
+;000BF72D{100 Goldstücke!!!~FF~}#021#018
+100 Goldstücke!!!~FF~#018
+;000BF73F{Tu poder es incrementado con este shield~FF~}#044#041
+Tu poder se incrementa con este escudo.\~FF~#041
+;000BF768{Ta force s´accroît grâce à ce bouclier.~FF~}#043#040
+Ta force s´accroît grâce à ce bouclier.~FF~#040
+|1043
+@000BF790-000BFBBD-FF
+;000BF790{Eure Stärke wird durch diesen Schild erhöht!~FF~}#048#045
+Eure Stärke wird durch diesen Schild erhöht!~FF~#045
+;000BF7BD{Fortune! You have found the `key for the weapons room´!~FF~}#059#056
+¡Fortuna! ¡Encontraste la `llave de la sala de armas´!\~FF~#056
+;000BF7F5{Bien ! Tu viens de trouver la clé de la salle des armes !~FF~}#061#058
+Bien ! Tu viens de trouver la clé de la salle des armes !~FF~#058
+;000BF82F{Welch ein Glück! Ihr habt den 'Schlüssel zur Waffenkammer' gefunden.~FF~}#072#069
+Welch ein Glück! Ihr habt den 'Schlüssel zur Waffenkammer' gefunden.~FF~#069
+;000BF874{Tu poder es incrementado con este Shortsword~FF~}#048#045
+Tu poder sube con esta Espada corta.\       ~FF~#045
+;000BF8A1{Ta force s´accroît grâce à cette épée courte.~FF~}#049#046
+Ta force s´accroît grâce à cette épée courte.~FF~#046
+;000BF8CF{Eure Stärke wird durch dieses Kurzschwert erhöht.~FF~}#053#050
+Eure Stärke wird durch dieses Kurzschwert erhöht.~FF~#050
+;000BF901{Los dioses te sonríen, ¡has descubierto un pergamino mágico!   This spell will put certain monsters into a deep sleep.~FF~}#122#119
+Los dioses te sonríen, ¡descubriste un pergamino mágico! Este hechizo pondrá a ciertos monstruos en un sueño profundo.~FF~#119
+;000BF978{Tu viens de découvrir un parchemin magique ! Ce sort plonge certains monstres dans un profond sommeil.~FF~}#106#103
+Tu viens de découvrir un parchemin magique ! Ce sort plonge certains monstres dans un profond sommeil.~FF~#103
+;000BF9DF{Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Durch diesen Zauber fallen bestimmte Monster in einen tiefen Schlaf.~FF~}#147#144
+Die Götter sind Euch gnädig, Ihr habt eine magische Schriftrolle gefunden! Durch diesen Zauber fallen bestimmte Monster in einen tiefen Schlaf.~FF~#144
+;000BFA6F{Curses! This spell requires a bag of sand  in order to work, and at present you do not possess one.~FF~}#103#100
+¡Maldiciones! Este hechizo requiere una bolsa de arena para funcionar y ahora mismo no posees una.\~FF~#100
+;000BFAD3{Malédiction! Ce sort nécessite un sac de sable pour fonctionner, et pour l´instant, tu n´en possèdes aucun.~FF~}#111#108
+Malédiction! Ce sort nécessite un sac de sable pour fonctionner, et pour l´instant, tu n´en possèdes aucun.~FF~#108
+;000BFB3F{Verflucht! Für diesen Zauber benötigt man einen Sack voll Sand, sonst funktioniert er nicht. Im Augenblick besitzt Ihr keinen.~FF~}#130#127
+Verflucht! Für diesen Zauber benötigt man einen Sack voll Sand, sonst funktioniert er nicht. Im Augenblick besitzt Ihr keinen.~FF~#127
+|1070
+@000BFBBE-000BFFBE-FF
+;000BFBBE{Oh! Fortune! You have found a dungeon key~FF~}#045#042
+¡Fortuna! Hallaste una llave de mazmorra.~FF~#042
+;000BFBE8{Quelle chance ! Tu viens de trouver la clé d´un donjon.~FF~}#059#056
+Quelle chance ! Tu viens de trouver la clé d´un donjon.~FF~#056
+;000BFC20{Oh! Welch ein Glück! Ihr habt einen Kerkerschlüssel gefunden.~FF~}#065#062
+Oh! Welch ein Glück! Ihr habt einen Kerkerschlüssel gefunden.~FF~#062
+;000BFC5E{Longsword~FF~}#013#010
+Esp.Larga~FF~#010
+;000BFC68{Epée~FF~}#008#005
+Epée~FF~#005
+;000BFC6D{Langschwert~FF~}#015#012
+Langschwert~FF~#012
+;000BFC79{Oh! Fortune! You have found a bag of sand~FF~}#045#042
+¡Fortuna! Hallaste una bolsa de arena.\  ~FF~#042
+;000BFCA3{Quelle chance ! Tu viens de trouver un sac de sable.~FF~}#056#053
+Quelle chance ! Tu viens de trouver un sac de sable.~FF~#053
+;000BFCD8{Oh! Welch ein Glück! Ihr habt einen Sack voll Sand gefunden.~FF~}#064#061
+Oh! Welch ein Glück! Ihr habt einen Sack voll Sand gefunden.~FF~#061
+;000BFD15{Lump of metal~FF~}#017#014
+Trozo metal\ ~FF~#014
+;000BFD23{Bloc de métal~FF~}#017#014
+Bloc de métal~FF~#014
+;000BFD31{Metallklumpen~FF~}#017#014
+Metallklumpen~FF~#014
+;000BFD3F{Magic Herbs~FF~}#015#012
+Hierbas Má.~FF~#012
+;000BFD4B{Herbes magiques~FF~}#019#016
+Herbes magiques~FF~#016
+;000BFD5B{Magische Kräuter~FF~}#020#017
+Magische Kräuter~FF~#017
+;000BFD6C{Morning Star~FF~}#016#013
+Mangual\    ~FF~#013
+;000BFD79{Etoile du jour~FF~}#018#015
+Etoile du jour~FF~#015
+;000BFD88{Morgenstern~FF~}#015#012
+Morgenstern~FF~#012
+;000BFD94{Cake~FF~}#008#005
+Trta~FF~#005
+;000BFD99{Gâteau~FF~}#010#007
+Gâteau~FF~#007
+;000BFDA0{Kuchen~FF~}#010#007
+Kuchen~FF~#007
+;000BFDA7{Old Boots~FF~}#013#010
+Botas Vi.~FF~#010
+;000BFDB1{Vieilles bottes~FF~}#019#016
+Vieilles bottes~FF~#016
+;000BFDC1{Alte Stiefel~FF~}#016#013
+Alte Stiefel~FF~#013
+;000BFDCE{Restore Spell~FF~}#017#014
+Hec.Restaurar~FF~#014
+;000BFDDC{Sort Rétablir~FF~}#017#014
+Sort Rétablir~FF~#014
+;000BFDEA{Wiederherst./Zauber~FF~}#023#020
+Wiederherst./Zauber~FF~#020
+;000BFDFE{Sandbag~FF~}#011#008
+S.Arena~FF~#008
+;000BFE06{Sac de sable~FF~}#016#013
+Sac de sable~FF~#013
+;000BFE13{Sandsack~FF~}#012#009
+Sandsack~FF~#009
+;000BFE1C{Shield~FF~}#010#007
+Escudo~FF~#007
+;000BFE23{Bouclier~FF~}#012#009
+Bouclier~FF~#009
+;000BFE2C{Schild~FF~}#010#007
+Schild~FF~#007
+;000BFE33{Shortbow~FF~}#012#009
+Arco Co.~FF~#009
+;000BFE3C{Arc court~FF~}#013#010
+Arc court~FF~#010
+;000BFE46{Kurzbogen~FF~}#013#010
+Kurzbogen~FF~#010
+;000BFE50{Shortsword~FF~}#014#011
+Espada Co.~FF~#011
+;000BFE5B{Epée courte~FF~}#015#012
+Epée courte~FF~#012
+;000BFE67{Kurzschwert~FF~}#015#012
+Kurzschwert~FF~#012
+;000BFE73{Shrap metal scroll~FF~}#022#019
+Pergamino metálico~FF~#019
+;000BFE86{Parchemin Éclats~FF~}#020#017
+Parchemin Éclats~FF~#017
+;000BFE97{Schrapnell Spruch~FF~}#021#018
+Schrapnell Spruch~FF~#018
+;000BFEA9{Silken thread~FF~}#017#014
+Hilo de seda\~FF~#014
+;000BFEB7{Fil de soie~FF~}#015#012
+Fil de soie~FF~#012
+;000BFEC3{Seidener Faden~FF~}#018#015
+Seidener Faden~FF~#015
+;000BFED2{Sleep scroll~FF~}#016#013
+Pergam.Sueño~FF~#013
+;000BFEDF{Parchemin Sommeil~FF~}#021#018
+Parchemin Sommeil~FF~#018
+;000BFEF1{Schlaf/Spruch~FF~}#017#014
+Schlaf/Spruch~FF~#014
+;000BFEFF{Snowflake~FF~}#013#010
+CopoNieve~FF~#010
+;000BFF09{Flocon de neige~FF~}#019#016
+Flocon de neige~FF~#016
+;000BFF19{Schneeflocke~FF~}#016#013
+Schneeflocke~FF~#013
+;000BFF26{Caged Canary~FF~}#016#013
+Canario Enj.~FF~#013
+;000BFF33{Canari en cage~FF~}#018#015
+Canari en cage~FF~#015
+;000BFF42{Kanarienvogel/Käfig~FF~}#023#020
+Kanarienvogel/Käfig~FF~#020
+;000BFF56{Speed Spell~FF~}#015#012
+Magia Prisa~FF~#012
+;000BFF62{Sort Vitesse~FF~}#016#013
+Sort Vitesse~FF~#013
+;000BFF6F{Tempo/Zauber~FF~}#016#013
+Tempo/Zauber~FF~#013
+;000BFF7C{Studded Armour~FF~}#018#015
+Arma.Tachuelas~FF~#015
+;000BFF8B{Armure cloutée~FF~}#018#015
+Armure cloutée~FF~#015
+;000BFF9A{Verstärkte Rüstung~FF~}#022#019
+Verstärkte Rüstung~FF~#019
+;000BFFAD{The book~FF~}#012#009
+El libro~FF~#009
+;000BFFB6{Le livre~FF~}#012#009
+Le livre~FF~#009
+|1025
+@000BFFBF-000BFFC7-FF
+;000BFFBF{Das Buch~FF~}#012#009
+Das Buch~FF~#009
+|9
+@000C2B52-000C2F63-FF
+;000C2B52{Thunderbug in a jar~FF~}#023#020
+Tronador en tarro\ ~FF~#020
+;000C2B66{Jarre d´insecte~FF~}#019#016
+Jarre d´insecte~FF~#016
+;000C2B76{Donnerkäfer/Glas~FF~}#020#017
+Donnerkäfer/Glas~FF~#017
+;000C2B87{Ultimate Armour~FF~}#019#016
+Arma.Definitiva~FF~#016
+;000C2B97{Armure suprême~FF~}#018#015
+Armure suprême~FF~#015
+;000C2BA6{Ultimative Rüstung~FF~}#022#019
+Ultimative Rüstung~FF~#019
+;000C2BB9{Ultimate Sword~FF~}#018#015
+Espada Suprema~FF~#015
+;000C2BC8{Epée suprême~FF~}#016#013
+Epée suprême~FF~#013
+;000C2BD5{Ultimatives Schwert~FF~}#023#020
+Ultimatives Schwert~FF~#020
+;000C2BE9{Flee while you can sir! You must leave this evil place, our fellow warriors are hopelessly out numbered.~FF~}#108#105
+¡Huya mientras pueda señor! Debe irse de este malvado lugar, tenemos menos guerreros desgraciadamente.\ ~FF~#105
+;000C2C52{Fuis tant que tu le peux ! Tu dois quitter cet endroit, nos amis les croisés sont hélas en trop petit nombre.~FF~}#113#110
+Fuis tant que tu le peux ! Tu dois quitter cet endroit, nos amis les croisés sont hélas en trop petit nombre.~FF~#110
+;000C2CC0{Flieht, solange Ihr könnt! Ihr müsst diesen schrecklichen Ort verlassen, die Kreuzritter sind hoffnungslos in der Unterzahl.~FF~}#128#125
+Flieht, solange Ihr könnt! Ihr müsst diesen schrecklichen Ort verlassen, die Kreuzritter sind hoffnungslos in der Unterzahl.~FF~#125
+;000C2D3D{Take my shield and escape to fight another day that we may crush the evil forces of Ragloth.~FF~}#096#093
+Tome mi escudo y escape para luchar otro día y aplastar a las fuerzas malignas de Ragloth.\ ~FF~#093
+;000C2D9A{Prends mon bouclier et fuis pour qu´un jour nous écrasions les forces diaboliques de Ragloth.~FF~}#097#094
+Prends mon bouclier et fuis pour qu´un jour nous écrasions les forces diaboliques de Ragloth.~FF~#094
+;000C2DF8{Nehmt mein Schild und flüchtet, damit Ihr an dem Tag kämpfen könnt, an dem wir die bösen Mächte Ragloth zermalmen werden.~FF~}#125#122
+Nehmt mein Schild und flüchtet, damit Ihr an dem Tag kämpfen könnt, an dem wir die bösen Mächte Ragloth zermalmen werden.~FF~#122
+;000C2E72{This dungeon is near collapse! Godspeed to you¨.uh.~FF~}#055#052
+¡Esta mazmorra va a derrumbarse! Dese prisa¨. uh.\ ~FF~#052
+;000C2EA6{Le donjon va s´effondrer ! Que Dieu te garde¨~FF~}#049#046
+Le donjon va s´effondrer ! Que Dieu te garde¨~FF~#046
+;000C2ED4{Dieser Kerker steht kurz vor dem Einsturz! Gute Reise¨. äh.~FF~}#063#060
+Dieser Kerker steht kurz vor dem Einsturz! Gute Reise¨. äh.~FF~#060
+;000C2F10{Help!!!~FF~}#011#008
+¡Ayuda!~FF~#008
+;000C2F18{À l´aide!!!~FF~}#015#012
+À l´aide!!!~FF~#012
+;000C2F24{Hilfe!!!~FF~}#012#009
+Hilfe!!!~FF~#009
+;000C2F2D{Cold Spell~FF~}#014#011
+Magia Frío~FF~#011
+;000C2F38{Sort du froid~FF~}#017#014
+Sort du froid~FF~#014
+;000C2F46{Kältezauber~FF~}#015#012
+Kältezauber~FF~#012
+;000C2F52{Victory is yours!~FF~}#021#018
+¡Has ganado!\    ~FF~#018
+|1042
+@000C2F64-000C3384-FF
+;000C2F64{La victoire est tienne !~FF~}#028#025
+La victoire est tienne !~FF~#025
+;000C2F7D{Der Sieg ist Euer!~FF~}#022#019
+Der Sieg ist Euer!~FF~#019
+;000C2F90{Hail stranger - you saved my life! I am Saylo the crusader. Your assistance grants me another day of life. You´ll become a warrior one day, but first seek Daria in the floating citadel.~FF~}#189#186
+Salve extranjero - ¡salvaste mi vida! Soy Saylo el cruzado. Tu ayuda me otorga otro día de vida. Serás un guerrero un día, pero primero busca a Daria en la Ciudadela flotante.\         ~FF~#186
+;000C304A{Salut étranger {.,} tu m´as sauvé la vie ! Je suis Saylo le croisé. Ton aide m´octroie 24 heures de sursis. Un jour, tu seras un guerrier, mais avant cela, va trouver Daria dans la citadelle flottante.~FF~}#205#199
+Salut étranger {.,} tu m´as sauvé la vie ! Je suis Saylo le croisé. Ton aide m´octroie 24 heures de sursis. Un jour, tu seras un guerrier, mais avant cela, va trouver Daria dans la citadelle flottante.~FF~#199
+;000C3111{Seid gegrüβt, Fremder - Ihr habt mir das Leben gerettet! Ich bin Saylo, der Kreuzritter. Durch Eure Hilfe erlebe ich einen weiteren Tag. Eines Tages werdet Ihr ein Krieger werden, aber zuerst müsst Ihr Daria in der schwebenden Zitadelle aufsuchen.~FF~}#251#248
+Seid gegrüβt, Fremder - Ihr habt mir das Leben gerettet! Ich bin Saylo, der Kreuzritter. Durch Eure Hilfe erlebe ich einen weiteren Tag. Eines Tages werdet Ihr ein Krieger werden, aber zuerst müsst Ihr Daria in der schwebenden Zitadelle aufsuchen.~FF~#248
+;000C3209{Hello Alleron, the noble Saylo asked me to help you. I am Carlin. I can take you to the floating citadel and the great Daria. Tell me have you heard of the healer who lives in the north?~FF~}#190#187
+Hola Alleron, el noble Saylo me pidió que te ayudara. Soy Carlin. Puedo llevarte a la ciudadela flotante y al gran Daria. Dime, ¿has oído hablar del curandero que vive en el norte?\     ~FF~#187
+;000C32C4{Bonjour Alleron, le Saylo m´a demandé de t´aider. Je suis Carlin. Je peux te mener à la citadelle flottante auprès de la grande Daria. Dis_moi, as_tu entendu parler de la guérisseuse du nord ?~FF~}#196#193
+Bonjour Alleron, le Saylo m´a demandé de t´aider. Je suis Carlin. Je peux te mener à la citadelle flottante auprès de la grande Daria. Dis_moi, as_tu entendu parler de la guérisseuse du nord ?~FF~#193
+|1057
+@000C3385-000C37EC-FF
+;000C3385{Hallo Alleron, der edle Saylo bat mich, Euch zu helfen. Ich bin Carlin. Ich kann Euch zur schwebenden Zitadelle und zur groβen Daria bringen. Sagt an, habt Ihr vom Heiler gehört, der im Norden wohnt?~FF~}#203#200
+Hallo Alleron, der edle Saylo bat mich, Euch zu helfen. Ich bin Carlin. Ich kann Euch zur schwebenden Zitadelle und zur groβen Daria bringen. Sagt an, habt Ihr vom Heiler gehört, der im Norden wohnt?~FF~#200
+;000C344D{Warrior, your spell power is now fully restored.~FF~}#052#049
+Guerrero, tu poder de hechizo ha sido rellenado.~FF~#049
+;000C347E{Guerrier, ta puissance de sorts est à présent entièrement rétablie.~FF~}#071#068
+Guerrier, ta puissance de sorts est à présent entièrement rétablie.~FF~#068
+;000C34C2{Krieger, Eure Zauberkräfte sind nun gänzlich wiederhergestellt.~FF~}#067#064
+Krieger, Eure Zauberkräfte sind nun gänzlich wiederhergestellt.~FF~#064
+;000C3502{We are the cheapest in town sir!~FF~}#036#033
+¡Somos los más baratos de aquí!\~FF~#033
+;000C3523{Nous sommes les moins chers en ville, sire!~FF~}#047#044
+Nous sommes les moins chers en ville, sire!~FF~#044
+;000C354F{Wir sind die billigsten im Ort!~FF~}#035#032
+Wir sind die billigsten im Ort!~FF~#032
+;000C356F{Ah, you must be Alleron. Listen if you will, for I have a task that needs doing. A monastery to the north is under attack.  In the monastery is a library that contains an ancient tome of great power. Ragloth wants the book, but I will protect it here in the citadel. To aid you on your quest I shall grant you 100 golden coins.~FF~}#331#328
+Ah, debes ser Alleron. Escucha si quieres, porque tengo una tarea que necesita hacerse. El monasterio al norte está bajo ataque. Allí hay una biblioteca que contiene un tomo antiguo de gran poder. Ragloth quiere el libro, pero yo lo protegeré aquí en la ciudadela. Para ayudarte en tu aventura te otorgaré 100 monedas de oro.\ ~FF~#328
+;000C36B7{Ah, tu dois être Alleron. Écoute bien. Un monastère est attaqué dans le nord. Dans le monastère se trouve une bibliothèque renfermant un tome ancien d´un grand pouvoir. Ragloth veut le livre, mais je saurai en prendre soin ici, dans la citadelle. Pour t´aider dans ta quête, je dois te donner 100 pièces d´or.~FF~}#313#310
+Ah, tu dois être Alleron. Écoute bien. Un monastère est attaqué dans le nord. Dans le monastère se trouve une bibliothèque renfermant un tome ancien d´un grand pouvoir. Ragloth veut le livre, mais je saurai en prendre soin ici, dans la citadelle. Pour t´aider dans ta quête, je dois te donner 100 pièces d´or.~FF~#310
+|1128
+@000C37ED-000C3C96-FF
+;000C37ED{Ah, Ihr müsst Alleron sein. Hört zu, ich habe eine Aufgabe für Euch, die erledigt werden muss. Nördlich von hier wird ein Kloster angegriffen. Im Kloster befindet sich eine Bibliothek, in der sich ein altes, sehr machtvolles Buch befindet. Ragloth will dieses Buch haben, aber ich werde es hier in der Zitadelle beschützen. Um Euch bei Eurer Aufgabe zu helfen, gebe ich Euch 100 Goldstücke.~FF~}#394#391
+Ah, Ihr müsst Alleron sein. Hört zu, ich habe eine Aufgabe für Euch, die erledigt werden muss. Nördlich von hier wird ein Kloster angegriffen. Im Kloster befindet sich eine Bibliothek, in der sich ein altes, sehr machtvolles Buch befindet. Ragloth will dieses Buch haben, aber ich werde es hier in der Zitadelle beschützen. Um Euch bei Eurer Aufgabe zu helfen, gebe ich Euch 100 Goldstücke.~FF~#391
+;000C3974{There are bandits that roam the streets below - I am glad we are safe in the clouds!~FF~}#088#085
+Hay bandidos vagando por las calles de abajo, ¡me alegra estar a salvo en las nubes!~FF~#085
+;000C39C9{Des bandits maraudent à coeur joie en bas {.,} je me réjouis que nous soyons en sûreté dans les nuages !~FF~}#108#102
+Des bandits maraudent à coeur joie en bas {.,} je me réjouis que nous soyons en sûreté dans les nuages !~FF~#102
+;000C3A2F{Es gibt Banditen, die die Straβen da unten unsicher machen - ich bin froh, dass wir hier in den Wolken sicher sind!~FF~}#119#116
+Es gibt Banditen, die die Straβen da unten unsicher machen - ich bin froh, dass wir hier in den Wolken sicher sind!~FF~#116
+;000C3AA3{Ragloth will never reach us up here in the clouds.~FF~}#054#051
+Ragloth nunca nos alcanzará aquí en las nubes.\   ~FF~#051
+;000C3AD6{Ragloth ne nous atteindra jamais ici, dans les nuages.~FF~}#058#055
+Ragloth ne nous atteindra jamais ici, dans les nuages.~FF~#055
+;000C3B0D{Hier oben kann uns Ragloth nichts anhaben.~FF~}#046#043
+Hier oben kann uns Ragloth nichts anhaben.~FF~#043
+;000C3B38{Icedale lies to the north.~FF~}#030#027
+Icedale está al norte.\   ~FF~#027
+;000C3B53{Icedale se situe au nord.~FF~}#029#026
+Icedale se situe au nord.~FF~#026
+;000C3B6D{Icedale liegt im Norden.~FF~}#028#025
+Icedale liegt im Norden.~FF~#025
+;000C3B86{Go away whoever you are. You stand fast traveller, and you toy with death. A miserable plague is upon us, our well has been poisoned. Once there was a healer but she was last seen heading towards Icedale in the north. If you can help then please enter. Otherwise, be gone!~FF~}#276#273
+Vete, seas quien seas. Te mantienes firme, viajero, y juegas con la muerte. Nos aflije una miserable plaga, nuestro pozo fue envenenado. Había una curandera pero fue vista por última vez dirigiéndose a Icedale en el norte. Si puedes ayudar, por favor, entra. Si no, ¡vete!~FF~#273
+|1194
+@000C3C97-000C3F32-FF
+;000C3C97{Va_t´en. Tu joues avec la mort, voyageur. Une épidémie s´est abattue sur nous, notre puits a été empoisonné. Jadis, nous avions une guérisseuse, mais elle est partie vers Icedale, dans le nord, et nous ne l´avons plus jamais revue. Si tu peux nous aider, entre. Sinon, va_t´en !~FF~}#282#279
+Va_t´en. Tu joues avec la mort, voyageur. Une épidémie s´est abattue sur nous, notre puits a été empoisonné. Jadis, nous avions une guérisseuse, mais elle est partie vers Icedale, dans le nord, et nous ne l´avons plus jamais revue. Si tu peux nous aider, entre. Sinon, va_t´en !~FF~#279
+;000C3DAE{Geht, wer auch immer ihr seid. Ihr seid sehr standhaft, Fremder - und Ihr spielt mit Eurem Leben. Eine schlimme Seuche hat uns befallen, unser Brunnen wurde vergiftet. Wir hatten einmal eine Heilerin, aber sie wurde zuletzt gesehen, als sie nach Norden reiste, Richtung Icedale. Wenn Ihr helfen könnt, so tretet bitte ein. Ansonsten verschwindet!~FF~}#350#347
+Geht, wer auch immer ihr seid. Ihr seid sehr standhaft, Fremder - und Ihr spielt mit Eurem Leben. Eine schlimme Seuche hat uns befallen, unser Brunnen wurde vergiftet. Wir hatten einmal eine Heilerin, aber sie wurde zuletzt gesehen, als sie nach Norden reiste, Richtung Icedale. Wenn Ihr helfen könnt, so tretet bitte ein. Ansonsten verschwindet!~FF~#347
+;000C3F09{Dark Cloak~FF~}#014#011
+Capa Oscu.~FF~#011
+;000C3F14{Cape de l´ombre~FF~}#019#016
+Cape de l´ombre~FF~#016
+;000C3F24{Dunkler Umhang~FF~}#018#015
+Dunkler Umhang~FF~#015
+|668
+@000CAB52-000CAF9D-FF
+;000CAB52{I underestimated the power of the tome, little one, and it now consumes my every action and desire.~FF~}#103#100
+Subestimé el poder del tomo, pequeño, y ahora consume todos mis actos y deseos.\                   ~FF~#100
+;000CABB6{J´ai sous_estimé le pouvoir du tome, il absorbe le moindre de mes agissements et de mes désirs.~FF~}#099#096
+J´ai sous_estimé le pouvoir du tome, il absorbe le moindre de mes agissements et de mes désirs.~FF~#096
+;000CAC16{Ich unterschätzte die Macht des Buches und nun hat es Einfluss auf jede meiner Handlungen und Wünsche.~FF~}#106#103
+Ich unterschätzte die Macht des Buches und nun hat es Einfluss auf jede meiner Handlungen und Wünsche.~FF~#103
+;000CAC7D{The power is mine and you can´t have it!~FF~}#044#041
+¡El poder es mío y no puedes tenerlo!\  ~FF~#041
+;000CACA6{Le pouvoir m´appartient, tu ne l´auras pas !~FF~}#048#045
+Le pouvoir m´appartient, tu ne l´auras pas !~FF~#045
+;000CACD3{Die Macht gehört mir und Ihr könnt sie nicht haben!~FF~}#055#052
+Die Macht gehört mir und Ihr könnt sie nicht haben!~FF~#052
+;000CAD07{At last you have the book! Now to the floating citadel.~FF~}#059#056
+¡Al fin tienes el libro! Ahora a la ciudadela flotante.~FF~#056
+;000CAD3F{Enfin, tu as le livre ! Partons pour la citadelle flottante.~FF~}#064#061
+Enfin, tu as le livre ! Partons pour la citadelle flottante.~FF~#061
+;000CAD7C{Wenigstens habt Ihr das Buch! Auf zur schwebenden Zitadelle.~FF~}#064#061
+Wenigstens habt Ihr das Buch! Auf zur schwebenden Zitadelle.~FF~#061
+;000CADB9{Greetings Alleron. You have the book? Quick let me have it!~FF~}#063#060
+Saludos Alleron. ¿Tienes el libro? ¡Rápido, dámelo!\       ~FF~#060
+;000CADF5{Salutations Alleron. Tu as le livre ? Vite, donne_le_moi !~FF~}#062#059
+Salutations Alleron. Tu as le livre ? Vite, donne_le_moi !~FF~#059
+;000CAE30{Seid gegrüβt, Alleron. Habt Ihr das Buch? Schnell, gebt es mir!~FF~}#067#064
+Seid gegrüβt, Alleron. Habt Ihr das Buch? Schnell, gebt es mir!~FF~#064
+;000CAE70{Yes, yes the secret of eternal life and eternal death! To know this is to wield overwhelming power!~FF~}#103#100
+¡Sí, sí, el secreto de la vida y de la muerte eternas! ¡Saber esto es ejercer un poder abrumador!\ ~FF~#100
+;000CAED4{Le secret de la vie et de la mort éternelles ! Sa connaissance confère une puissance inestimable !~FF~}#102#099
+Le secret de la vie et de la mort éternelles ! Sa connaissance confère une puissance inestimable !~FF~#099
+;000CAF37{Ja, ja - das Geheimnis ewigen Lebens und ewigen Todes! Dies zu wissen, bedeutet unbeschreibbare Macht!~FF~}#106#103
+Ja, ja - das Geheimnis ewigen Lebens und ewigen Todes! Dies zu wissen, bedeutet unbeschreibbare Macht!~FF~#103
+|1100
+@000CAF9E-000CB3F2-FF
+;000CAF9E{Thank you, my power is now complete, my dominion is now assured! Unfortunately, you are no longer of any use to me.~FF~}#119#116
+Gracias, mi poder está ahora completo, ¡mi dominio está ahora asegurado! Desgraciadamente, ya no me eres útil.\    ~FF~#116
+;000CB012{Mon pouvoir est maintenant absolu et ma domination assurée ! Malheureusement, tu ne m´es plus d´aucune utilité.~FF~}#115#112
+Mon pouvoir est maintenant absolu et ma domination assurée ! Malheureusement, tu ne m´es plus d´aucune utilité.~FF~#112
+;000CB082{Habt Dank, ich bin nun stark genug, meine Herrschaft ist gesichert! Leider nützt Ihr mir jetzt nichts mehr.~FF~}#111#108
+Habt Dank, ich bin nun stark genug, meine Herrschaft ist gesichert! Leider nützt Ihr mir jetzt nichts mehr.~FF~#108
+;000CB0EE{Farewell warrior, say Hello to Ragloth for me¨.~FF~}#051#048
+Adiós guerrero, saluda a Ragloth de mi parte¨.\~FF~#048
+;000CB11E{Adieu guerrier, bien le bonjour à Ragloth¨~FF~}#046#043
+Adieu guerrier, bien le bonjour à Ragloth¨~FF~#043
+;000CB149{Lebt wohl, Krieger, bestellt Ragloth einen schönen Gruβ von mir¨~FF~}#068#065
+Lebt wohl, Krieger, bestellt Ragloth einen schönen Gruβ von mir¨~FF~#065
+;000CB18A{Alleron, how could we have known? The power of the tome is too much for anyone to bare alone.  Poor Daria, she couldn´t handle it _ you had to destroy her.~FF~}#159#156
+Alleron, ¿cómo podíamos saberlo? El poder del tomo es demasiado para que alguien lo soporte solo. Pobre Daria, no pudo soportarlo _ tuviste que destruirla.~FF~#156
+;000CB226{Alleron, le pouvoir du tome est trop fort pour qu´une personne l´assume seule. Pauvre Daria, elle n´a pas pu le maîtriser {.,} et tu as dû l´anéantir.~FF~}#154#148
+Alleron, le pouvoir du tome est trop fort pour qu´une personne l´assume seule. Pauvre Daria, elle n´a pas pu le maîtriser {.,} et tu as dû l´anéantir.~FF~#148
+;000CB2BA{Alleron, wie hätten wir es wissen sollen? Die Macht des Buches ist für einen allein zu groβ. Arme Daria, es war zu viel für sie _ Ihr musstet sie zerstören.~FF~}#160#157
+Alleron, wie hätten wir es wissen sollen? Die Macht des Buches ist für einen allein zu groβ. Arme Daria, es war zu viel für sie _ Ihr musstet sie zerstören.~FF~#157
+;000CB357{You are a true warrior. A kingdom lives, thanks to you. The tome must be destroyed, Alleron, and only you can destroy it. I am dying, and can not help you.~FF~}#159#156
+Eres un verdadero guerrero. Un reino vive, gracias a ti. El tomo debe ser destruido, Alleron, y sólo tú puedes destruirlo. Me muero, y no puedo ayudarte.\ ~FF~#156
+|1109
+@000CB3F3-000CB815-FF
+;000CB3F3{Tu es un vrai guerrier. Un royaume a survécu. Le tome doit être détruit, Alleron, et toi seul peux le faire. Je me meurs et ne peux donc t´aider.~FF~}#149#146
+Tu es un vrai guerrier. Un royaume a survécu. Le tome doit être détruit, Alleron, et toi seul peux le faire. Je me meurs et ne peux donc t´aider.~FF~#146
+;000CB485{Ihr seid ein wahrer Krieger. Dank Euch hat ein Königreich überlebt. Das Buch muss zerstört werden, Alleron, und nur Ihr könnt es zerstören. Ich sterbe und kann Euch nicht helfen.~FF~}#182#179
+Ihr seid ein wahrer Krieger. Dank Euch hat ein Königreich überlebt. Das Buch muss zerstört werden, Alleron, und nur Ihr könnt es zerstören. Ich sterbe und kann Euch nicht helfen.~FF~#179
+;000CB538{Alleron you have saved my life with the power of the book, now we must destroy it together so it can never fall into the hands of evil again. Come a new day brings a new adventure for us _ together.~FF~}#202#199
+Alleron has salvado mi vida con el poder del libro, ahora debemos destruirlo juntos para que no vuelva a caer en manos del mal. Un nuevo día trae una nueva aventura para nosotros _ juntos.\         ~FF~#199
+;000CB5FF{Tu m´as sauvé la vie grâce au livre. Détruisons le ensemble, afin qu´il ne retombe plus jamais dans les mains du mal. Une nouvelle aventure nous attend, tous les deux ensemble.~FF~}#180#177
+Tu m´as sauvé la vie grâce au livre. Détruisons le ensemble, afin qu´il ne retombe plus jamais dans les mains du mal. Une nouvelle aventure nous attend, tous les deux ensemble.~FF~#177
+;000CB6B0{Alleron, mit Hilfe des Buches habt Ihr mein Leben gerettet. Nun müssen wir es zusammen zerstören, sodass es nicht wieder in die Hand des Bösen fallen kann. Kommt, ein neuer Tag wird uns neue Abenteuer bescheren - für uns beide.~FF~}#231#228
+Alleron, mit Hilfe des Buches habt Ihr mein Leben gerettet. Nun müssen wir es zusammen zerstören, sodass es nicht wieder in die Hand des Bösen fallen kann. Kommt, ein neuer Tag wird uns neue Abenteuer bescheren - für uns beide.~FF~#228
+;000CB794{Will you dare read the book? Yes or no?~FF~}#043#040
+¿Osas leer el libro? ¿Sí o no?\        ~FF~#040
+;000CB7BC{Oseras_tu lire le livre ? Oui ou non ?~FF~}#042#039
+Oseras_tu lire le livre ? Oui ou non ?~FF~#039
+;000CB7E3{Werdet Ihr es wagen, das Buch zu lesen? Ja / nein?~FF~}#054#051
+Werdet Ihr es wagen, das Buch zu lesen? Ja / nein?~FF~#051
+|1059
+@000E0001-000E0463-FF
+;000E0001{Hail, stranger. It´s nice to see so many new faces in Icedale. The last visitor has gone to the glacier´s looking for rare herbs to make potions. She said something about finding the ice temple. Of course that´s nothing but a legend.~FF~}#237#234
+Salve, forastero. Es agradable ver tantas caras nuevas en Icedale. El último visitante ha ido al glaciar a buscar hierbas raras para hacer pociones. Dijo algo de hallar el templo de hielo. Por supuesto, eso no es más que una leyenda.~FF~#234
+;000E00EB{Bonjour, étranger. Notre dernière visiteuse est partie à la recherche d´herbes rares pour préparer des potions. Elle parlait de trouver le temple de glace. Bien sûr, il ne s´agit que d´une légende.~FF~}#201#198
+Bonjour, étranger. Notre dernière visiteuse est partie à la recherche d´herbes rares pour préparer des potions. Elle parlait de trouver le temple de glace. Bien sûr, il ne s´agit que d´une légende.~FF~#198
+;000E01B1{Seid gegrüβt, Fremder. Es ist schön, so viele neue Gesichter in Icedale zu sehen. Die letzte Besucherin ging zu den Gletschern, um nach seltenen Kräutern zu suchen, um Tränke herzustellen. Sie sagte etwas davon, dass sie den Eistempel suchen wollte. Aber der ist natürlich nur eine Sage.~FF~}#291#288
+Seid gegrüβt, Fremder. Es ist schön, so viele neue Gesichter in Icedale zu sehen. Die letzte Besucherin ging zu den Gletschern, um nach seltenen Kräutern zu suchen, um Tränke herzustellen. Sie sagte etwas davon, dass sie den Eistempel suchen wollte. Aber der ist natürlich nur eine Sage.~FF~#288
+;000E02D1{To the glaciers _>~FF~}#022#019
+A los glaciares _>~FF~#019
+;000E02E4{Vers les glaciers _>~FF~}#024#021
+Vers les glaciers _>~FF~#021
+;000E02F9{Zu den Gletschern _>~FF~}#024#021
+Zu den Gletschern _>~FF~#021
+;000E030E{Glaciers{.,} enter at your own risk!~FF~}#040#034
+Glaciares{.,} ¡entra a tu riesgo!\  ~FF~#034
+;000E0330{Glaciers : entrez à vos risques et périls !~FF~}#047#044
+Glaciers : entrez à vos risques et périls !~FF~#044
+;000E035C{Gletscher{.,} Zutritt auf eigene Gefahr!~FF~}#044#038
+Gletscher{.,} Zutritt auf eigene Gefahr!~FF~#038
+;000E0382{N,E,SE,N,SE,W.~FF~}#018#015
+N,E,SE,N,SE,O.~FF~#015
+;000E0391{N,E,SE,N,SE,O.~FF~}#018#015
+N,E,SE,N,SE,O.~FF~#015
+;000E03A0{N,O,SO,N,SO,W.~FF~}#018#015
+N,O,SO,N,SO,W.~FF~#015
+;000E03AF{I am in your debt, kind sir. Here take this healing potion. It will purify water and heal the sick. Leave me now please. I wish to commune with nature in this beautiful ice temple.~FF~}#184#181
+Estoy en deuda, amable señor. Tome esta poción. Purificará el agua y curará a los enfermos. Ahora déjeme, por favor. Deseo comulgar con la naturaleza en este hermoso templo helado.~FF~#181
+|1123
+@000E0464-000E0921-FF
+;000E0464{Je te suis redevable, gentilhomme. Prends cette potion de premiers soins. Elle purifiera l´eau et soignera les malades. Laisse moi ¨j´aimerais communier avec la nature.~FF~}#172#169
+Je te suis redevable, gentilhomme. Prends cette potion de premiers soins. Elle purifiera l´eau et soignera les malades. Laisse moi ¨j´aimerais communier avec la nature.~FF~#169
+;000E050D{Ich stehe in Eurer Schuld, edler Herr. Hier, nehmt diesen Heiltrank. Er reinigt das Wasser und heilt Kranke. Lasst mich nun bitte allein. Ich möchte in diesem wunderschönen Eistempel mit der Natur kommunizieren.~FF~}#215#212
+Ich stehe in Eurer Schuld, edler Herr. Hier, nehmt diesen Heiltrank. Er reinigt das Wasser und heilt Kranke. Lasst mich nun bitte allein. Ich möchte in diesem wunderschönen Eistempel mit der Natur kommunizieren.~FF~#212
+;000E05E1{Go awa¨. Oh! Its you again. Praise be, a healing potion!  Add the potion to the spring that lies beyond the catacombs. You will find the entrance to the catacombs is down the old well, Godspeed.~FF~}#198#195
+Lárga¨. ¡Oh! Eres tú otra vez. Alabado seas, ¡una poción curativa! Añade la poción al manantial que hay más allá de las catacumbas. Verás que la entrada a las catacumbas está en el viejo pozo.\ ~FF~#195
+;000E06A4{Encore toi... Dieu soit loué, une potion de premiers soins ! Verse la dans la source qui coule sous les catacombes. Tu trouveras l´entrée des catacombes au fond du vieux puits. Que Dieu te garde.~FF~}#199#196
+Encore toi... Dieu soit loué, une potion de premiers soins ! Verse la dans la source qui coule sous les catacombes. Tu trouveras l´entrée des catacombes au fond du vieux puits. Que Dieu te garde.~FF~#196
+;000E0768{Verschw¨ Oh! Ihr seid es wieder. Gott sei dank, ein Heiltrank! Gebt den Trank in die Quelle, die hinter den Katakomben liegt. Der Eingang zu den Katakomben befindet sich im alten Brunnen, viel Glück.~FF~}#203#200
+Verschw¨ Oh! Ihr seid es wieder. Gott sei dank, ein Heiltrank! Gebt den Trank in die Quelle, die hinter den Katakomben liegt. Der Eingang zu den Katakomben befindet sich im alten Brunnen, viel Glück.~FF~#200
+;000E0830{Already our strength is returning. The book you seek is in the forbidden library, but the library is sealed and two keys are needed. I have one and the Dwarven high priest carries the other. He lives in Corantha. Our prayers travel with you.~FF~}#245#242
+Estamos recuperando las fuerzas. El libro que buscas está en la biblioteca prohibida, pero la está sellada y se necesitan dos llaves. Yo tengo una y el sumo sacerdote Enano lleva la otra. Vive en Corantha. Nuestras oraciones viajan contigo.\~FF~#242
+|1214
+@000E0922-000E0D5B-FF
+;000E0922{Déjà nos forces reviennent. Le livre que tu cherches est dans la bibliothèque interdite, mais celle_ci est scellée et deux clés sont nécessaires pour l´ouvrir. J´en possède une et le Grand prêtre des nains détient l´autre. Il vit à Corantha. Nos prières t´accompagnent.~FF~}#273#270
+Déjà nos forces reviennent. Le livre que tu cherches est dans la bibliothèque interdite, mais celle_ci est scellée et deux clés sont nécessaires pour l´ouvrir. J´en possède une et le Grand prêtre des nains détient l´autre. Il vit à Corantha. Nos prières t´accompagnent.~FF~#270
+;000E0A30{Unsere Kraft kehrt schon zurück. Das Buch, das Ihr sucht, befindet sich in der verbotenen Bibliothek, aber die Bibliothek ist versiegelt und man benötigt zwei Schlüssel. Ich besitze einen und der Hohepriester der Zwerge den anderen. Er lebt in Corantha. Unsere Gebete werden Euch begleiten.~FF~}#294#291
+Unsere Kraft kehrt schon zurück. Das Buch, das Ihr sucht, befindet sich in der verbotenen Bibliothek, aber die Bibliothek ist versiegelt und man benötigt zwei Schlüssel. Ich besitze einen und der Hohepriester der Zwerge den anderen. Er lebt in Corantha. Unsere Gebete werden Euch begleiten.~FF~#291
+;000E0B53{Terrible times have befallen us since the priest left us, some say he fled to Duskwood.~FF~}#091#088
+Pasamos tiempos terribles desde que el sacerdote nos dejó, dicen que huyó a Duskwood.\ ~FF~#088
+;000E0BAB{Nous avons vécu de durs moments depuis que le prêtre nous a quittés, certains disent qu´il s´est enfui vers Duskwood.~FF~}#121#118
+Nous avons vécu de durs moments depuis que le prêtre nous a quittés, certains disent qu´il s´est enfui vers Duskwood.~FF~#118
+;000E0C21{Wir leben in schrecklichen Zeiten, seit der Priester uns verlassen hat. Einige sagen, er sei nach Duskwood geflohen.~FF~}#120#117
+Wir leben in schrecklichen Zeiten, seit der Priester uns verlassen hat. Einige sagen, er sei nach Duskwood geflohen.~FF~#117
+;000E0C96{My cakes are a special treat and the cheapest in town.~FF~}#058#055
+Mis tartas son especiales y las más baratas de aquí.\ ~FF~#055
+;000E0CCD{Mes gâteaux sont un vrai délice, ils sont aussi les moins chers en ville.~FF~}#077#074
+Mes gâteaux sont un vrai délice, ils sont aussi les moins chers en ville.~FF~#074
+;000E0D17{Meine Kuchen sind eine besondere Leckerei und die billigsten im Ort.~FF~}#072#069
+Meine Kuchen sind eine besondere Leckerei und die billigsten im Ort.~FF~#069
+|1082
+@000E0D5C-000E11B0-FF
+;000E0D5C{Only one per customer though or you will be as fat as me! HO! HO!~FF~}#069#066
+Pero sólo una por cliente o estarás tan gordo como yo. ¡HO! ¡HO!\~FF~#066
+;000E0D9E{Un seul par client ou vous deviendrez aussi gras que moi ! HA ! HA !~FF~}#072#069
+Un seul par client ou vous deviendrez aussi gras que moi ! HA ! HA !~FF~#069
+;000E0DE3{Nur einer pro Kunde oder Ihr werdet so fett, wie ich es bin! HA! HA!~FF~}#072#069
+Nur einer pro Kunde oder Ihr werdet so fett, wie ich es bin! HA! HA!~FF~#069
+;000E0E28{Dwarf Shield~FF~}#016#013
+Escudo Enano~FF~#013
+;000E0E35{Bouclier de nain~FF~}#020#017
+Bouclier de nain~FF~#017
+;000E0E46{Zwergenschild~FF~}#017#014
+Zwergenschild~FF~#014
+;000E0E54{Flee! Run for your life! Corantha is in turmoil, all is lost! The High priest has vanished! Go, while you still can! Take this speed spell if it will help. No time to talk must flee¨!~FF~}#187#184
+¡Huye! ¡Corre por tu vida! ¡Corantha está en peligro, todo está perdido! ¡El Sumo Sacerdote ha desaparecido! ¡Vete! Toma este hechizo de velocidad. ¡No hay tiempo para hablar¨!\      ~FF~#184
+;000E0F0C{Sauve ta peau ! Corantha est dans le désarroi, Le Grand prêtre a disparu ! Pars, tant que tu le peux ! Prends ce sort Vitesse au besoin. Je n´ai plus le temps, je dois fuir¨!~FF~}#178#175
+Sauve ta peau ! Corantha est dans le désarroi, Le Grand prêtre a disparu ! Pars, tant que tu le peux ! Prends ce sort Vitesse au besoin. Je n´ai plus le temps, je dois fuir¨!~FF~#175
+;000E0FBB{Flieht! Rennt um Euer Leben! Corantha befindet sich im Aufruhr, alles ist verloren! Der Hohepriester ist verschwunden! Geht, solange Ihr es noch könnt! Nehmt diesen Schnelligk _eitszauber, vielleicht hilft er. Keine Zeit zum Reden, ich muss fliehen¨!~FF~}#254#251
+Flieht! Rennt um Euer Leben! Corantha befindet sich im Aufruhr, alles ist verloren! Der Hohepriester ist verschwunden! Geht, solange Ihr es noch könnt! Nehmt diesen Schnelligk _eitszauber, vielleicht hilft er. Keine Zeit zum Reden, ich muss fliehen¨!~FF~#251
+;000E10B6{If the priest has been taken to the woods he has probably been eaten by spiders, or attacked by the Dasher insect men.~FF~}#122#119
+Si el sacerdote fue llevado al bosque, seguramente se lo comieron arañas, o le atacaron los hombres insecto de Dasher.~FF~#119
+;000E112D{Si le prêtre a été emmené dans les bois, les araignées l´auront déjà dévoré, ou alors les hommes_insectes Dashers l´auront attaqué.~FF~}#135#132
+Si le prêtre a été emmené dans les bois, les araignées l´auront déjà dévoré, ou alors les hommes_insectes Dashers l´auront attaqué.~FF~#132
+|1109
+@000E11B1-000E15F0-FF
+;000E11B1{Wenn der Priester in die Wälder gebracht wurde, so ist er entweder von Spinnen aufgefressen oder von dem Insektenvolk der Dasher angegriffen worden!~FF~}#152#149
+Wenn der Priester in die Wälder gebracht wurde, so ist er entweder von Spinnen aufgefressen oder von dem Insektenvolk der Dasher angegriffen worden!~FF~#149
+;000E1246{Hail stranger! Welcome to my inn. Would you like to stay and rest or play a game?~FF~}#085#082
+¡Hola, forastero! Bienvenido a mi posada. ¿Quieres descansar o jugar una partida?~FF~#082
+;000E1298{Bonjour, étranger ! Bienvenue dans mon auberge. Veux_tu rester te reposer ou jouer à un jeu ?~FF~}#097#094
+Bonjour, étranger ! Bienvenue dans mon auberge. Veux_tu rester te reposer ou jouer à un jeu ?~FF~#094
+;000E12F6{Seid gegrüβt, Fremder! Willkommen in meinem Gasthof. Möchtet Ihr bleiben und Euch ausruhen oder ein Spiel spielen?~FF~}#118#115
+Seid gegrüβt, Fremder! Willkommen in meinem Gasthof. Möchtet Ihr bleiben und Euch ausruhen oder ein Spiel spielen?~FF~#115
+;000E1369{Rest~FF~}#008#005
+Dscn~FF~#005
+;000E136E{Se reposer~FF~}#014#011
+Se reposer~FF~#011
+;000E1379{Ruhen~FF~}#009#006
+Ruhen~FF~#006
+;000E137F{Play~FF~}#008#005
+Jgr ~FF~#005
+;000E1384{Jouer~FF~}#009#006
+Jouer~FF~#006
+;000E138A{Spielen~FF~}#011#008
+Spielen~FF~#008
+;000E1392{If you can help me get rid of these rats then Ill give you a prize.~FF~}#071#068
+Si puedes ayudarme a deshacerme de estas ratas, te daré un premio.\~FF~#068
+;000E13D6{Si tu peux m´aider à me débarrasser de ces rats, je te récompenserai.~FF~}#073#070
+Si tu peux m´aider à me débarrasser de ces rats, je te récompenserai.~FF~#070
+;000E141C{Wenn Ihr mir helfen könnt, diese Ratten loszuwerden, dann gebe ich Euch eine Belohnung.~FF~}#091#088
+Wenn Ihr mir helfen könnt, diese Ratten loszuwerden, dann gebe ich Euch eine Belohnung.~FF~#088
+;000E1474{You get 10 shots for 20 gold pieces.~FF~}#040#037
+Son 10 tiros por 20 piezas de oro.\ ~FF~#037
+;000E1499{Tu as 10 tirs pour 20 pièces d´or.~FF~}#038#035
+Tu as 10 tirs pour 20 pièces d´or.~FF~#035
+;000E14BC{Ihr bekommt 10 Schüsse für 20 Goldstücke.~FF~}#045#042
+Ihr bekommt 10 Schüsse für 20 Goldstücke.~FF~#042
+;000E14E6{You´re  not the best of shots are you? Try again?~FF~}#053#050
+No eres el mejor tirador, ¿verdad? ¿Otra vez?\   ~FF~#050
+;000E1518{Tu n´es pas le meilleur tireur, n´est_ce pas ? Tu veux réessayer ?~FF~}#070#067
+Tu n´es pas le meilleur tireur, n´est_ce pas ? Tu veux réessayer ?~FF~#067
+;000E155B{Der beste Schütze seid Ihr nicht, oder? Wollt Ihr es erneut versuchen?~FF~}#074#071
+Der beste Schütze seid Ihr nicht, oder? Wollt Ihr es erneut versuchen?~FF~#071
+;000E15A2{A fair effort my friend. Have this tankard full of beer as a prize. Try again?~FF~}#082#079
+Un esfuerzo justo, amigo. Ten esta jarra de cerveza como premio. ¿Otra vez?\  ~FF~#079
+|1088
+@000E15F1-000E19F4-FF
+;000E15F1{Bel effort l´ami. Accepte cette chope pleine de bière en récompense. Tu veux réessayer ?~FF~}#092#089
+Bel effort l´ami. Accepte cette chope pleine de bière en récompense. Tu veux réessayer ?~FF~#089
+;000E164A{Ein guter Versuch, mein Freund. Nehmt diesen Krug Bier als Belohnung. Wollt Ihr es erneut versuchen?~FF~}#104#101
+Ein guter Versuch, mein Freund. Nehmt diesen Krug Bier als Belohnung. Wollt Ihr es erneut versuchen?~FF~#101
+;000E16AF{Good shot! That´s 50gp! You nearly won first prize! Try again?~FF~}#066#063
+¡Buen tiro! ¡Son 50po! ¡Casi ganas el primer premio! ¿Otra?\  ~FF~#063
+;000E16EE{Joli tir ! ça fait 50 p.o. ! Tu as presque remporté le premier prix ! Tu veux réessayer ?~FF~}#093#090
+Joli tir ! ça fait 50 p.o. ! Tu as presque remporté le premier prix ! Tu veux réessayer ?~FF~#090
+;000E1748{Guter Schuss! Das ist mir 50 Goldstücke wert! Ihr habt fast den ersten Preis gewonnen! Wollt Ihr es erneut versuchen?~FF~}#121#118
+Guter Schuss! Das ist mir 50 Goldstücke wert! Ihr habt fast den ersten Preis gewonnen! Wollt Ihr es erneut versuchen?~FF~#118
+;000E17BE{Fire Spell Scroll~FF~}#021#018
+Per.Hechizo Fuego~FF~#018
+;000E17D0{Parchemin Sort Feu~FF~}#022#019
+Parchemin Sort Feu~FF~#019
+;000E17E3{Feuerzauber /Spruch~FF~}#023#020
+Feuerzauber /Spruch~FF~#020
+;000E17F7{PERFECT! You are indeed a warrior of might! You may have this dwarven shield! It is part of a set of magical armour.~FF~}#120#117
+¡PERFECTO! ¡Eres un guerrero poderoso! Puedes tener este escudo enano. Es parte de un conjunto de armadura mágica.\ ~FF~#117
+;000E186C{IMPECCABLE ! Tu es un vrai guerrier de la force ! Ce bouclier de nain est à toi ! C´est l´un des éléments d´une armure magique.~FF~}#131#128
+IMPECCABLE ! Tu es un vrai guerrier de la force ! Ce bouclier de nain est à toi ! C´est l´un des éléments d´une armure magique.~FF~#128
+;000E18EC{PERFEKT! Ihr seid in der Tat ein mächtiger Krieger! Ihr könnt diesen Zwergenschild haben! Es ist ein Teil einer magischen Rüstung!~FF~}#134#131
+PERFEKT! Ihr seid in der Tat ein mächtiger Krieger! Ihr könnt diesen Zwergenschild haben! Es ist ein Teil einer magischen Rüstung!~FF~#131
+;000E196F{Welcome to Duskwood : Realm of the Dashers.~FF~}#047#044
+Bienvenido a Duskwood:Reino de los Dashers.~FF~#044
+;000E199B{Bienvenue à Duskwood : Royaume des Dashers.~FF~}#047#044
+Bienvenue à Duskwood : Royaume des Dashers.~FF~#044
+;000E19C7{Willkommen in Duskwood: Das Reich der Dasher.~FF~}#049#046
+Willkommen in Duskwood: Das Reich der Dasher.~FF~#046
+|1028
+@000E19F5-000E1DFE-FF
+;000E19F5{Ah! So you want to be a member of the Dasher elite do you? Complete this assault course in a decent time and I shall arrange for you to meet the Commander! Your time will start when you step on the walkway and end when you step back on this platform. Are you ready to go?~FF~}#275#272
+¡Ah! Así que quieres ser un miembro de la élite Dasher ¿verdad? ¡Completa este curso de asalto en un tiempo decente y haré que te reúnas con el Comandante! Tu tiempo comenzará cuando pises la pasarela y terminará cuando vuelvas a pisar esta plataforma. ¿Estás preparado?\~FF~#272
+;000E1B05{Tu veux devenir membre de l´élite des Dashers ? Termine ce parcours du combattant et j'organiserai une rencontre avec le capitaine ! Le temps sera compté dès que tu poseras le pied sur cette passerelle jusqu'à ce que tu atteignes la plate_forme. Es_tu prêt pour le départ ?~FF~}#277#274
+Tu veux devenir membre de l´élite des Dashers ? Termine ce parcours du combattant et j'organiserai une rencontre avec le capitaine ! Le temps sera compté dès que tu poseras le pied sur cette passerelle jusqu'à ce que tu atteignes la plate_forme. Es_tu prêt pour le départ ?~FF~#274
+;000E1C17{Ah! Ihr wollt also wirklich ein Teil der Dasher_Elite werden? Wenn Ihr es schafft, diesen Übungskurs in einer guten Zeit abzuschlieβen, werde ich dafür sorgen, dass Ihr den Kommandanten sprechen könnt! Die Zeit läuft ab dem Moment, an dem Ihr auf den Weg tretet, und endet, wenn Ihr wieder auf dieser Plattform steht. Seid Ihr bereit?~FF~}#338#335
+Ah! Ihr wollt also wirklich ein Teil der Dasher_Elite werden? Wenn Ihr es schafft, diesen Übungskurs in einer guten Zeit abzuschlieβen, werde ich dafür sorgen, dass Ihr den Kommandanten sprechen könnt! Die Zeit läuft ab dem Moment, an dem Ihr auf den Weg tretet, und endet, wenn Ihr wieder auf dieser Plattform steht. Seid Ihr bereit?~FF~#335
+;000E1D66{Yes  ~FF~}#009#006
+Sí   ~FF~#006
+;000E1D6C{Oui  ~FF~}#009#006
+Oui  ~FF~#006
+;000E1D72{Ja   ~FF~}#009#006
+Ja   ~FF~#006
+;000E1D78{No   ~FF~}#009#006
+No   ~FF~#006
+;000E1D7E{Non  ~FF~}#009#006
+Non  ~FF~#006
+;000E1D84{Nein ~FF~}#009#006
+Nein ~FF~#006
+;000E1D8A{Start.~FF~}#010#007
+¡Sal!\~FF~#007
+;000E1D91{Départ.~FF~}#011#008
+Départ.~FF~#008
+;000E1D99{Anfang.~FF~}#011#008
+Anfang.~FF~#008
+;000E1DA1{At the turn - head south!~FF~}#029#026
+En el giro - ¡al sur!\   ~FF~#026
+;000E1DBB{Au virage, prendre au sud!~FF~}#030#027
+Au virage, prendre au sud!~FF~#027
+;000E1DD6{Wendet Euch an der Kurve Richtung Süden!~FF~}#044#041
+Wendet Euch an der Kurve Richtung Süden!~FF~#041
+|1034
+@000E1DFF-000E2201-FF
+;000E1DFF{Too slow! You don´t deserve any reward for a perfomance like that! -  you´ll have to try again.~FF~}#099#096
+¡Muy lento! ¡No mereces ninguna recompensa por una actuación así! - Debes volver a intentarlo.\~FF~#096
+;000E1E5F{Trop lent! Une telle performance ne mérite aucune récompense! tu dois recommencer.~FF~}#086#083
+Trop lent! Une telle performance ne mérite aucune récompense! tu dois recommencer.~FF~#083
+;000E1EB2{Zu langsam! Für eine solche Leistung verdient Ihr keine Belohnung! Ihr werdet es noch einmal versuchen müssen.~FF~}#114#111
+Zu langsam! Für eine solche Leistung verdient Ihr keine Belohnung! Ihr werdet es noch einmal versuchen müssen.~FF~#111
+;000E1F21{Not bad, you can have 50gp for that effort, if you want to see the Commander and the Priest you´ll have to do better.~FF~}#121#118
+No está mal, puedes tener 50po por el esfuerzo, pero para ver al Comandante y al Sacerdote tendrás que hacerlo mejor.~FF~#118
+;000E1F97{Pas mal, tu peux recevoir 50 p.o. pour cet effort, mais il faudra faire mieux pour rencontrer le Capitaine et le Prêtre.~FF~}#124#121
+Pas mal, tu peux recevoir 50 p.o. pour cet effort, mais il faudra faire mieux pour rencontrer le Capitaine et le Prêtre.~FF~#121
+;000E2010{Nicht schlecht. Ihr könnt 50 Goldstücke für Eure Mühe bekommen. Wenn Ihr allerdings den Kommandanten und den Priester sehen wollt, müsst Ihr schon eine bessere Leistung zeigen.~FF~}#180#177
+Nicht schlecht. Ihr könnt 50 Goldstücke für Eure Mühe bekommen. Wenn Ihr allerdings den Kommandanten und den Priester sehen wollt, müsst Ihr schon eine bessere Leistung zeigen.~FF~#177
+;000E20C1{Wow! That was a record time! Here you can have the compound key and go to meet the commander.~FF~}#097#094
+¡Vaya! ¡Eso fue un tiempo récord! Toma la llave del recinto y ve al encuentro del comandante.~FF~#094
+;000E211F{Un temps record! Voilà, tu peux recevoir la clé de l´enceinte et aller rencontrer le Capitaine.~FF~}#099#096
+Un temps record! Voilà, tu peux recevoir la clé de l´enceinte et aller rencontrer le Capitaine.~FF~#096
+;000E217F{Hoppla! Das war Rekordzeit! Hier, Ihr könnt den Schlüssel haben und Euch beim Kommandanten melden.~FF~}#102#099
+Hoppla! Das war Rekordzeit! Hier, Ihr könnt den Schlüssel haben und Euch beim Kommandanten melden.~FF~#099
+;000E21E2{Firefly in jar~FF~}#018#015
+Luciérnaga fr.~FF~#015
+;000E21F1{Jarre de luciole~FF~}#020#017
+Jarre de luciole~FF~#017
+|1027
+@000E2202-000E272E-FF
+;000E2202{Glühwurm im Glas~FF~}#020#017
+Glühwurm im Glas~FF~#017
+;000E2213{What have we here? You sir are either very brave or very stupid. Prepare to die!~FF~}#084#081
+¿Qué tenemos aquí? Señor, es muy valiente o muy estúpido. ¡Prepárese para morir!~FF~#081
+;000E2264{Qu´avons_nous là ? Tu es courageux ou vraiment stupide. Prépare_toi à mourir !~FF~}#082#079
+Qu´avons_nous là ? Tu es courageux ou vraiment stupide. Prépare_toi à mourir !~FF~#079
+;000E22B3{Was haben wir denn hier? Ihr seid entweder sehr mutig oder sehr dumm. Bereitet Euch darauf vor zu sterben!~FF~}#110#107
+Was haben wir denn hier? Ihr seid entweder sehr mutig oder sehr dumm. Bereitet Euch darauf vor zu sterben!~FF~#107
+;000E231E{Stop! Stop! You fight well. I surrender and fight you no more. We captured the holy man to heal our wounded. We were taking him to Periac to heal our forces. We will find your precious key if you both accompany us to Periac.  Your priest must heal our wounded, and you can teach us how to fight. Together we head to Periac!~FF~}#327#324
+¡Para! Peleas bien. Me rindo y no peleo más contra ti. Capturamos al hombre santo para curar a nuestros heridos. Lo llevamos a Periac para curar a nuestras fuerzas. Hallaremos su preciada llave si nos acompañan a Periac. Su sacerdote debe curar a nuestros heridos, y usted puede enseñarnos a luchar. ¡Juntos vamos a Periac!~FF~#324
+;000E2462{Stop ! Stop !  Je me rends. Nous avons capturé l´homme saint afin de soigner nos blessés. Nous nous rendions à Periac. Nous trouverons votre précieuse clé si vous nous accompagnez tous deux. Ton prêtre doit soigner nos blessés et toi, tu peux nous apprendre à nous battre. Allons à Periac !~FF~}#294#291
+Stop ! Stop !  Je me rends. Nous avons capturé l´homme saint afin de soigner nos blessés. Nous nous rendions à Periac. Nous trouverons votre précieuse clé si vous nous accompagnez tous deux. Ton prêtre doit soigner nos blessés et toi, tu peux nous apprendre à nous battre. Allons à Periac !~FF~#291
+;000E2585{Halt! Halt! Ihr kämpft gut. Ich gebe auf und werde nicht mehr gegen Euch kämpfen. Wir haben den heiligen Mann entführt, um unsere Verwundeten zu heilen. Wir wollten ihn nach Periac bringen, um unsere Truppen zu heilen. Wir werden Euren kostbaren Schlüssel finden, wenn ihr beide uns nach Periac begleitet. Euer Priester kann unsere Verwundeten heilen und Ihr könnt uns lehren, wie man kämpft. Zusammen reisen wir nach Periac!~FF~}#429#426
+Halt! Halt! Ihr kämpft gut. Ich gebe auf und werde nicht mehr gegen Euch kämpfen. Wir haben den heiligen Mann entführt, um unsere Verwundeten zu heilen. Wir wollten ihn nach Periac bringen, um unsere Truppen zu heilen. Wir werden Euren kostbaren Schlüssel finden, wenn ihr beide uns nach Periac begleitet. Euer Priester kann unsere Verwundeten heilen und Ihr könnt uns lehren, wie man kämpft. Zusammen reisen wir nach Periac!~FF~#426
+|1325
+@000E272F-000E2B50-FF
+;000E272F{You have something to ask me? The key? But I no longer have it! I was ambushed and left for dead. The key was taken from me and I woke later to find myself helping these Dashers with my healing powers.~FF~}#205#202
+¿Algo que preguntarme? ¿La llave? ¡Ya no la tengo! Me emboscaron y me dieron por muerto. Me quitaron la llave y desperté más tarde para encontrarme ayudando a estos Dashers con mis poderes curativos.\ ~FF~#202
+;000E27F9{Tu veux la clé ? Mais je ne l´ai plus ! J´ai été pris en embuscade et laissé pour mort. On me la volée et quand je suis revenu à moi,  j´aidais ces Dashers grâce à mes pouvoirs de guérison.~FF~}#193#190
+Tu veux la clé ? Mais je ne l´ai plus ! J´ai été pris en embuscade et laissé pour mort. On me la volée et quand je suis revenu à moi,  j´aidais ces Dashers grâce à mes pouvoirs de guérison.~FF~#190
+;000E28B7{Ihr wolltet mich etwas fragen? Der Schlüssel? Aber ich habe ihn nicht mehr! Ich wurde überfallen und dem Tod überlassen. Der Schlüssel wurde mir abgenommen und ich erwachte später und musste diesen Dashern mit meinen Heilkräften helfen.~FF~}#240#237
+Ihr wolltet mich etwas fragen? Der Schlüssel? Aber ich habe ihn nicht mehr! Ich wurde überfallen und dem Tod überlassen. Der Schlüssel wurde mir abgenommen und ich erwachte später und musste diesen Dashern mit meinen Heilkräften helfen.~FF~#237
+;000E29A4{Our Commander has requested that you stay a while and enjoy the Dasher capital.~FF~}#083#080
+El Comandante pidió que te quedes un tiempo y disfrutes de la capital Dasher.\ ~FF~#080
+;000E29F4{Notre Capitaine souhaite que tu restes un moment et apprécies notre capitale Dasher.~FF~}#088#085
+Notre Capitaine souhaite que tu restes un moment et apprécies notre capitale Dasher.~FF~#085
+;000E2A49{Unser Kommandant hat gebeten, dass Ihr noch eine Weile bleibt und die Hauptstadt der Dasher genieβt.~FF~}#104#101
+Unser Kommandant hat gebeten, dass Ihr noch eine Weile bleibt und die Hauptstadt der Dasher genieβt.~FF~#101
+;000E2AAE{Can I help you? You wish to make a purchase? We´re the cheapest in town, good sir!~FF~}#086#083
+¿Puedo ayudarle? ¿Quiere comprar? ¡Somos los más baratos de la ciudad, buen señor!~FF~#083
+;000E2B01{Vous souhaitez faire un achat ? Nous sommes les moins chers, mon bon monsieur !~FF~}#083#080
+Vous souhaitez faire un achat ? Nous sommes les moins chers, mon bon monsieur !~FF~#080
+|1058
+@000E2B51-000E2F76-FF
+;000E2B51{Kann ich Euch helfen? Ihr möchtet etwas kaufen? Wir sind die billigsten im Ort, edler Herr!~FF~}#095#092
+Kann ich Euch helfen? Ihr möchtet etwas kaufen? Wir sind die billigsten im Ort, edler Herr!~FF~#092
+;000E2BAD{Thunderbugs~FF~}#015#012
+Tronadores\~FF~#012
+;000E2BB9{Insectes de tonnerre~FF~}#024#021
+Insectes de tonnerre~FF~#021
+;000E2BCE{Donnerkäfer~FF~}#015#012
+Donnerkäfer~FF~#012
+;000E2BDA{Firefly~FF~}#011#008
+Luciér.~FF~#008
+;000E2BE2{Jarre de luciole~FF~}#020#017
+Jarre de luciole~FF~#017
+;000E2BF3{Glühwurm im Glas~FF~}#020#017
+Glühwurm im Glas~FF~#017
+;000E2C04{Dasher eggs~FF~}#015#012
+Huev.Dasher~FF~#012
+;000E2C10{Œufs de Dasher~FF~}#018#015
+Œufs de Dasher~FF~#015
+;000E2C1F{Dasher_Eier~FF~}#015#012
+Dasher_Eier~FF~#012
+;000E2C2B{Ahh! I see you have a silken thread. Would you like to swap it for a rare Firefly?~FF~}#086#083
+¡Ah! Veo que tienes hilo de seda. ¿Te gustaría cambiarlo por una rara luciérnaga?\~FF~#083
+;000E2C7E{Ahh ! Une soie d'arraignée? Voudriez_vous l'échanger contre une luciole rare?~FF~}#081#078
+Ahh ! Une soie d'arraignée? Voudriez_vous l'échanger contre une luciole rare?~FF~#078
+;000E2CCC{Ahh! Wie ich sehe, habt Ihr den Faden eines Spinnennetzes. Möchtet Ihr ihn gegen ein seltenes Glühwürmchen tauschen?~FF~}#120#117
+Ahh! Wie ich sehe, habt Ihr den Faden eines Spinnennetzes. Möchtet Ihr ihn gegen ein seltenes Glühwürmchen tauschen?~FF~#117
+;000E2D41{You have missed out on a good deal there.~FF~}#045#042
+Te has perdido un buen negocio.\         ~FF~#042
+;000E2D6B{Là, vous avez manqué une bonne affaire.~FF~}#043#040
+Là, vous avez manqué une bonne affaire.~FF~#040
+;000E2D93{Da ist Euch aber ein gutes Geschäft entgangen.~FF~}#050#047
+Da ist Euch aber ein gutes Geschäft entgangen.~FF~#047
+;000E2DC2{Flame Arrow Spell~FF~}#021#018
+Hech.Flecha Fuego~FF~#018
+;000E2DD4{Sort Flèche enflam.~FF~}#023#020
+Sort Flèche enflam.~FF~#020
+;000E2DE8{Flammenpfeil/Zauber~FF~}#023#020
+Flammenpfeil/Zauber~FF~#020
+;000E2DFC{Alleron! We have been tricked! If the dashers find you here they¨~FF~}#069#066
+¡Alleron! ¡Nos engañaron! Si los Dashers te hallan aquí, ellos¨\ ~FF~#066
+;000E2E3E{Alleron ! Nous avons été dupés ! Si les Dashers te trouvent ici, ils¨~FF~}#073#070
+Alleron ! Nous avons été dupés ! Si les Dashers te trouvent ici, ils¨~FF~#070
+;000E2E84{Alleron! Wir sind hereingelegt worden! Wenn die Dasher Euch hier finden, werden sie¨~FF~}#088#085
+Alleron! Wir sind hereingelegt worden! Wenn die Dasher Euch hier finden, werden sie¨~FF~#085
+;000E2ED9{Hello, Warrior _ off to the dungeon with you! Your execution will be tomorrow.~FF~}#082#079
+Hola, Guerrero _ ¡a la mazmorra contigo! Tu ejecución será mañana.\           ~FF~#079
+;000E2F28{Bonjour, guerrier {.,} tu es bon pour le donjon ! Ton exécution aura lieu demain.~FF~}#085#079
+Bonjour, guerrier {.,} tu es bon pour le donjon ! Ton exécution aura lieu demain.~FF~#079
+|1062
+@000E2F77-000E33D4-FF
+;000E2F77{Hallo Krieger - ab in den Kerker mit Euch! Eure Hinrichtung wird morgen stattfinden.~FF~}#088#085
+Hallo Krieger - ab in den Kerker mit Euch! Eure Hinrichtung wird morgen stattfinden.~FF~#085
+;000E2FCC{Did the warrior ever get the key?~FF~}#037#034
+¿Consiguió el guerrero la llave?\~FF~#034
+;000E2FEE{Le guerrier a_t_il réussi à avoir la clé ?~FF~}#046#043
+Le guerrier a_t_il réussi à avoir la clé ?~FF~#043
+;000E3019{Er ist nicht mal in deine Nähe gekommen. Der oberste Leutnant hat ihn gefunden und trägt ihn immer noch bei sich.~FF~}#117#114
+Er ist nicht mal in deine Nähe gekommen. Der oberste Leutnant hat ihn gefunden und trägt ihn immer noch bei sich.~FF~#114
+;000E308B{He wasn´t even close. The chief lieutenant found it and still has it.~FF~}#073#070
+Ni estuvo cerca. El teniente jefe la encontró y todavía la tiene.\   ~FF~#070
+;000E30D1{Il n´en a pas eu le temps. Le Lieutenant en chef l´a trouvée.~FF~}#065#062
+Il n´en a pas eu le temps. Le Lieutenant en chef l´a trouvée.~FF~#062
+;000E310F{Hat der Krieger eigentlich je den Schlüssel bekommen?~FF~}#057#054
+Hat der Krieger eigentlich je den Schlüssel bekommen?~FF~#054
+;000E3145{And with the execution tomorrow¨~FF~}#036#033
+Y con la ejecución de mañana¨\  ~FF~#033
+;000E3166{Et avec l´exécution de demain¨~FF~}#034#031
+Et avec l´exécution de demain¨~FF~#031
+;000E3185{Und mit der Hinrichtung morgen¨~FF~}#035#032
+Und mit der Hinrichtung morgen¨~FF~#032
+;000E31A5{The key is where it belongs, with Ragloth.~FF~}#046#043
+La llave está donde debe, con Ragloth.\   ~FF~#043
+;000E31D0{La clé est à sa place, avec Ragloth.~FF~}#040#037
+La clé est à sa place, avec Ragloth.~FF~#037
+;000E31F5{Der Schlüssel ist dort, wo er hingehört: bei Ragloth.~FF~}#057#054
+Der Schlüssel ist dort, wo er hingehört: bei Ragloth.~FF~#054
+;000E322B{Alleron, its me, Carlin! I know where the Dasher Lieutenants hideout is, its hidden in a natural maze in Duskwood! We must hurry!~FF~}#133#130
+¡Alleron, soy yo, Carlin! Sé dónde se esconden los tenientes Dasher, en un laberinto natural en Duskwood. Debemos apresurarnos.\ ~FF~#130
+;000E32AD{Alleron, c´est moi, Carlin ! Je sais où est la cachette des lieutenants Dashers {.,} elle est dans un labyrinthe végétal à Duskwood !~FF~}#137#131
+Alleron, c´est moi, Carlin ! Je sais où est la cachette des lieutenants Dashers {.,} elle est dans un labyrinthe végétal à Duskwood !~FF~#131
+;000E3330{Alleron, ich bin's, Carlin! Ich weiβ, wo das Versteck des Dasher_Leutnants ist. Es ist in einem natürlichen Labyrinth in Duskwood versteckt! Wir müssen uns beeilen!~FF~}#168#165
+Alleron, ich bin's, Carlin! Ich weiβ, wo das Versteck des Dasher_Leutnants ist. Es ist in einem natürlichen Labyrinth in Duskwood versteckt! Wir müssen uns beeilen!~FF~#165
+|1118
+@000E33D5-000E37C3-FF
+;000E33D5{You picked a fight with the wrong foe this time!~FF~}#052#049
+¡Elegiste una pelea con el enemigo equivocado!\ ~FF~#049
+;000E3406{Cette fois, tu as choisi d´affronter le mauvais ennemi !~FF~}#060#057
+Cette fois, tu as choisi d´affronter le mauvais ennemi !~FF~#057
+;000E343F{Diesmal habt Ihr Euch den falschen Feind ausgesucht!~FF~}#056#053
+Diesmal habt Ihr Euch den falschen Feind ausgesucht!~FF~#053
+;000E3474{Victory is yours!~FF~}#021#018
+¡Has vencido!\   ~FF~#018
+;000E3486{La victoire est tienne !~FF~}#028#025
+La victoire est tienne !~FF~#025
+;000E349F{Der Sieg ist Euer!~FF~}#022#019
+Der Sieg ist Euer!~FF~#019
+;000E34B2{Well_met Alleron. The forces of Ragloth have blocked the road to the monastery. There exists an underground passage, deep within the well that leads to the monastery. It will be dangerous, but it´s our only hope.~FF~}#216#213
+Bienvenido Alleron. Las fuerzas de Ragloth bloquearon el camino al monasterio. Hay un pasaje subterráneo, en las profundidades del pozo que conduce al monasterio. Será peligroso, pero es nuestra única esperanza.\~FF~#213
+;000E3587{Bienvenue Alleron. Les forces de Ragloth ont bloqué la route vers le monastère. Au plus profond du puits, il existe un passage souterrain qui mène au monastère. Cela sera dangereux, mais c´est notre seul espoir.~FF~}#215#212
+Bienvenue Alleron. Les forces de Ragloth ont bloqué la route vers le monastère. Au plus profond du puits, il existe un passage souterrain qui mène au monastère. Cela sera dangereux, mais c´est notre seul espoir.~FF~#212
+;000E365B{Seid gegrüβt, Alleron. Ragloth Truppen haben den Weg zum Kloster blockiert. Es gibt tief im Brunnen einen unterirdischen Gang, der zum Kloster führt. Es wird gefährlich werden, aber es ist unsere einzige Hoffnung.~FF~}#217#214
+Seid gegrüβt, Alleron. Ragloth Truppen haben den Weg zum Kloster blockiert. Es gibt tief im Brunnen einen unterirdischen Gang, der zum Kloster führt. Es wird gefährlich werden, aber es ist unsere einzige Hoffnung.~FF~#214
+;000E3731{Flint Tipped Arrows~FF~}#023#020
+Flec.Punta Pedernal~FF~#020
+;000E3745{Flèches en silex~FF~}#020#017
+Flèches en silex~FF~#017
+;000E3756{Steinspitzenpfeil~FF~}#021#018
+Steinspitzenpfeil~FF~#018
+;000E3768{You have fallen to your death!~FF~}#034#031
+¡Has caído hacia tu muerte!\  ~FF~#031
+;000E3787{Ihr seid tödlich verunglückt!~FF~}#033#030
+Ihr seid tödlich verunglückt!~FF~#030
+;000E37A5{Vous êtes tombés à votre mort!~FF~}#034#031
+Vous êtes tombés à votre mort!~FF~#031
+|1007
+@000EAB4F-000EAF7B-FF
+;000EAB4F{Twisted piece of metal~FF~}#026#023
+Pieza metal retorcido\~FF~#023
+;000EAB66{Helmet~FF~}#010#007
+Casco\~FF~#007
+;000EAB6D{Chainmail armour~FF~}#020#017
+Armad.cota malla~FF~#017
+;000EAB7E{Freeze spell scroll~FF~}#023#020
+Pe.Hechizo Congelar~FF~#020
+;000EAB92{Verdrehtes Stück Metall~FF~}#027#024
+Verdrehtes Stück Metall~FF~#024
+;000EABAA{Sturzhelm~FF~}#013#010
+Sturzhelm~FF~#010
+;000EABB4{Rüstung Chainmail~FF~}#021#018
+Rüstung Chainmail~FF~#018
+;000EABC6{Kältezauber~FF~}#015#012
+Kältezauber~FF~#012
+;000EABD2{Morceau tordu de métal~FF~}#026#023
+Morceau tordu de métal~FF~#023
+;000EABE9{Casque~FF~}#010#007
+Casque~FF~#007
+;000EABF0{Armure de Chainmail~FF~}#023#020
+Armure de Chainmail~FF~#020
+;000EAC04{Sort du froid~FF~}#017#014
+Sort du froid~FF~#014
+;000EAC12{The mines are dangerous the entrance is down the well.~FF~}#058#055
+Las minas son peligrosas, la entrada es por el pozo.\ ~FF~#055
+;000EAC49{Les mines sont dangereuses, l´entrée est au fond du puits.~FF~}#062#059
+Les mines sont dangereuses, l´entrée est au fond du puits.~FF~#059
+;000EAC84{Die Minen sind gefährlich - der Eingang befindet sich unten im Brunnen.~FF~}#075#072
+Die Minen sind gefährlich - der Eingang befindet sich unten im Brunnen.~FF~#072
+;000EACCC{The mines used to stretch all the way to the monastery, now they have fallen into disrepair.~FF~}#096#093
+Las minas antes llegaban hasta el monasterio, pero ahora están en mal estado.\              ~FF~#093
+;000EAD29{Jadis, les mines s´étendaient jusqu´au monastère. A présent, elles sont totalement délabrées.~FF~}#097#094
+Jadis, les mines s´étendaient jusqu´au monastère. A présent, elles sont totalement délabrées.~FF~#094
+;000EAD87{Die Minen erstreckten sich einst bis hin zum Kloster, jetzt stehen sie kurz vor dem Einsturz.~FF~}#097#094
+Die Minen erstreckten sich einst bis hin zum Kloster, jetzt stehen sie kurz vor dem Einsturz.~FF~#094
+;000EADE5{At last we meet Alleron! You stand before Ragloth, the great wizard. The book that you seek is more powerful than you know!~FF~}#127#124
+¡Al fin nos encontramos Alleron! Estás ante Ragloth, el gran mago. ¡El libro que buscas es más poderoso de lo que crees!\  ~FF~#124
+;000EAE61{Enfin nous nous rencontrons, Alleron ! Tu fais face à Ragloth, le grand sorcier. Le livre que tu recherches et bien plus puissant que tu ne le penses !~FF~}#155#152
+Enfin nous nous rencontrons, Alleron ! Tu fais face à Ragloth, le grand sorcier. Le livre que tu recherches et bien plus puissant que tu ne le penses !~FF~#152
+;000EAEF9{Endlich treffen wir uns, Alleron!! Ihr steht vor Ragloth, dem groβen Magier. Das Buch, das Ihr sucht, ist mächtiger als Ihr wisst!~FF~}#134#131
+Endlich treffen wir uns, Alleron!! Ihr steht vor Ragloth, dem groβen Magier. Das Buch, das Ihr sucht, ist mächtiger als Ihr wisst!~FF~#131
+|1069
+@000EAF7C-000EB3F0-FF
+;000EAF7C{Alleron! Oh my Alleron, I thought you were dead! Ragloth has the tome and is returning to his lair!  Quick, to my airship!~FF~}#126#123
+¡Alleron! ¡Oh, mi Alleron, pensé que habías muerto! ¡Ragloth tiene el tomo y vuelve a su guarida! ¡Rápido, a mi aeronave!\~FF~#123
+;000EAFF7{Alleron ! Je te pensais mort ! Ragloth a le tome et il regagne son repaire ! Vite, à mon vaisseau !~FF~}#103#100
+Alleron ! Je te pensais mort ! Ragloth a le tome et il regagne son repaire ! Vite, à mon vaisseau !~FF~#100
+;000EB05B{Alleron! Oh mein Alleron, ich dachte, Ihr seid tot! Ragloth hat das Buch und kehrt zu seinem Versteck zurück! Schnell, zu meinem Luftschiff!~FF~}#144#141
+Alleron! Oh mein Alleron, ich dachte, Ihr seid tot! Ragloth hat das Buch und kehrt zu seinem Versteck zurück! Schnell, zu meinem Luftschiff!~FF~#141
+;000EB0E8{Praise be! Brave Alleron. Ragloth has built this giant Airship. Quick Alleron use your powers to charge that switch up and lower this barricade, then I can tell you more.~FF~}#174#171
+¡Valiente Alleron! Ragloth construyó esta gigantesca aeronave. Rápido Alleron usa tus poderes para cargar ese interruptor y bajar esta barricada, luego podré decirte más.~FF~#171
+;000EB193{Dieu soit loué ! Ragloth a construit ce vaisseau géant. Vite Alleron, je t'en dirai plus si tu utilises tes pouvoirs pour armer cet interrupteur et abaisser cette barricade.~FF~}#177#174
+Dieu soit loué ! Ragloth a construit ce vaisseau géant. Vite Alleron, je t'en dirai plus si tu utilises tes pouvoirs pour armer cet interrupteur et abaisser cette barricade.~FF~#174
+;000EB241{Den Göttern sei Dank! Mutiger Alleron. Ragloth hat dieses riesige Luftschiff gebaut. Schnell, Alleron, verwendet Eure Kräfte, um den Hebel umzulegen und senkt diese Barrikade, dann kann ich Euch mehr erzählen.~FF~}#213#210
+Den Göttern sei Dank! Mutiger Alleron. Ragloth hat dieses riesige Luftschiff gebaut. Schnell, Alleron, verwendet Eure Kräfte, um den Hebel umzulegen und senkt diese Barrikade, dann kann ich Euch mehr erzählen.~FF~#210
+;000EB313{Ragloth captured myself and some of our best engineers forcing us to help him make this warship. Somewhere in this ship Chief Engineer Mookie is being held captive, he can tell you how to gain access to Ragloth´s chamber.~FF~}#225#222
+Ragloth nos atrapó a mí y a algunos de nuestros ingenieros para ayudarle a construir esta nave de guerra. En algún lugar de la nave está cautivo el ingeniero jefe Mookie, puede decirte cómo acceder a la cámara de Ragloth.~FF~#222
+|1141
+@000EB3F1-000EB8BE-FF
+;000EB3F1{Ragloth a capturé nos meilleurs ingénieurs et moi_même, pour fabriquer son vaisseau de guerre. Dans ce vaisseau, l´Ingénieur Mookie est prisonnier {.,} il peut te dire comment accéder à la chambre de Ragloth.~FF~}#212#206
+Ragloth a capturé nos meilleurs ingénieurs et moi_même, pour fabriquer son vaisseau de guerre. Dans ce vaisseau, l´Ingénieur Mookie est prisonnier {.,} il peut te dire comment accéder à la chambre de Ragloth.~FF~#206
+;000EB4BF{Ragloth hat mich und einige unserer besten Mechaniker gefangen und uns gezwungen, ihm beim Bau dieses Kampfschiffes zu helfen. Irgendwo auf diesem Schiff wird der Chefmechaniker Mookie gefangen gehalten. Er kann Euch mehr darüber erzählen, wie man in Ragloth Kammer eindringen kann.~FF~}#286#283
+Ragloth hat mich und einige unserer besten Mechaniker gefangen und uns gezwungen, ihm beim Bau dieses Kampfschiffes zu helfen. Irgendwo auf diesem Schiff wird der Chefmechaniker Mookie gefangen gehalten. Er kann Euch mehr darüber erzählen, wie man in Ragloth Kammer eindringen kann.~FF~#283
+;000EB5DA{Specimen room: No entry by order of Ragloth.~FF~}#048#045
+Sala espécimen: No entrar, orden de Ragloth.~FF~#045
+;000EB607{Salle des spécimens : ne pas entrer, ordre de Ragloth.~FF~}#058#055
+Salle des spécimens : ne pas entrer, ordre de Ragloth.~FF~#055
+;000EB63E{Musterraum: Zutritt auf Befehl von Ragloth verboten.~FF~}#056#053
+Musterraum: Zutritt auf Befehl von Ragloth verboten.~FF~#053
+;000EB673{You are looking for Chief Engineer Mookie? He was taken by Ragloth and forced to build a control panel for the electric fence outside Ragloth´s lair. He is held in one of the Specimen rooms.~FF~}#194#191
+¿Estás buscando al Ingeniero Jefe Mookie? Fue atrapado por Ragloth y forzado a construir un panel de control para la valla eléctrica de la guarida de Ragloth. Está en una sala de espécimen.\~FF~#191
+;000EB732{Tu cherches l´Ingénieur Mookie ? Ragloth l´a forcé à construire un panneau pour la clôture électrique, à l´extérieur de son repaire. Il est enfermé dans l´une des Salles des spécimens.~FF~}#188#185
+Tu cherches l´Ingénieur Mookie ? Ragloth l´a forcé à construire un panneau pour la clôture électrique, à l´extérieur de son repaire. Il est enfermé dans l´une des Salles des spécimens.~FF~#185
+;000EB7EB{Ihr sucht nach Chefingenieur Mookie? Er wurde von Ragloth verschleppt und dazu gezwungen, eine Kontrolltafel für den elektrischen Zaun um Ragloth Versteck zu bauen. Er wird in einem der Musterräume festgehalten.~FF~}#215#212
+Ihr sucht nach Chefingenieur Mookie? Er wurde von Ragloth verschleppt und dazu gezwungen, eine Kontrolltafel für den elektrischen Zaun um Ragloth Versteck zu bauen. Er wird in einem der Musterräume festgehalten.~FF~#212
+|1230
+@000EB8BF-000EBCC6-FF
+;000EB8BF{You are looking for Chief Engineer Mookie? He is held in one of the other cells.~FF~}#084#081
+¿Buscas al Ingeniero Jefe Mookie? Está retenido en una de las otras celdas.\    ~FF~#081
+;000EB910{Tu cherches l´Ingénieur en chef Mookie ? Il est enfermé dans l´une des autres cellules.~FF~}#091#088
+Tu cherches l´Ingénieur en chef Mookie ? Il est enfermé dans l´une des autres cellules.~FF~#088
+;000EB968{Ihr sucht nach Chefingenieur Mookie? Er wird in einer der anderen Zellen gefangen gehalten.~FF~}#095#092
+Ihr sucht nach Chefingenieur Mookie? Er wird in einer der anderen Zellen gefangen gehalten.~FF~#092
+;000EB9C4{Thank you sir I thought I would die here! Here take this key, it will open the control room. Once inside you must make your way to the control panel and deactivate it, if you do this then the fence in front of Ragloth´s lair will be deactivated.~FF~}#249#246
+¡Gracias señor pensaba que moriría aquí! Ten esta llave, abrirá la sala de control. Una vez dentro debes llegar al panel de control y desactivarlo, si haces esto entonces la valla de delante de la guarida de Ragloth será desactivada.\           ~FF~#246
+;000EBABA{Merci, mon brave ! Tiens, prends cette clé, elle ouvre la salle des commandes. Tu dois aller vers le panneau de commande et le désactiver. Si tu y parviens, la clôture devant le repaire de Ragloth sera désactivée.~FF~}#217#214
+Merci, mon brave ! Tiens, prends cette clé, elle ouvre la salle des commandes. Tu dois aller vers le panneau de commande et le désactiver. Si tu y parviens, la clôture devant le repaire de Ragloth sera désactivée.~FF~#214
+;000EBB90{Habt Dank, mein Herr. Ich dachte, ich müsse hier drin sterben! Hier, nehmt diesen Schlüssel, er öffnet den Kontrollraum. Sobald Ihr drin seid, müsst Ihr zum Bedienungsfeld und es deaktivieren. Wenn Ihr dies tut, wird der Zaun, der sich vor Ragloth Versteck befindet, ausgeschaltet.~FF~}#285#282
+Habt Dank, mein Herr. Ich dachte, ich müsse hier drin sterben! Hier, nehmt diesen Schlüssel, er öffnet den Kontrollraum. Sobald Ihr drin seid, müsst Ihr zum Bedienungsfeld und es deaktivieren. Wenn Ihr dies tut, wird der Zaun, der sich vor Ragloth Versteck befindet, ausgeschaltet.~FF~#282
+;000EBCAA{Control panel - Deactivated.~FF~}#032#029
+Panel control - Desactivado.~FF~#029
+|1032
+@000EBCC7-000EBF60-FF
+;000EBCC7{Panneau de commande - Désactivé.~FF~}#036#033
+Panneau de commande - Désactivé.~FF~#033
+;000EBCE8{Bedienungsfeld - Deativiert.~FF~}#032#029
+Bedienungsfeld - Deativiert.~FF~#029
+;000EBD05{How intriguing a warrior with many lives? Or are you just lucky in cheating death? No matter, I can crush every life you have and your luck will run dry¨. Eventually.~FF~}#170#167
+Intrigante, ¿un guerrero con muchas vidas? ¿O solo tienes suerte engañando a la muerte? No importa, puedo aplastar cada vida y tu suerte se secará¨. Con el tiempo.\  ~FF~#167
+;000EBDAC{Etrange, un guerrier aux si nombreuses vies !  Qu´importe, je peux anéantir chacune de tes vies et ta chance t´abandonnera¨ au bout du compte.~FF~}#146#143
+Etrange, un guerrier aux si nombreuses vies !  Qu´importe, je peux anéantir chacune de tes vies et ta chance t´abandonnera¨ au bout du compte.~FF~#143
+;000EBE3B{Wie faszinierend! Ein Krieger mit so vielen Leben? Oder habt Ihr nur Glück darin, dem Tod von der Schippe zu springen? Ist auch egal, ich kann jedes Eurer Leben vernichten und Euer Glück wird Euch verlassen¨ früher oder später.~FF~}#231#228
+Wie faszinierend! Ein Krieger mit so vielen Leben? Oder habt Ihr nur Glück darin, dem Tod von der Schippe zu springen? Ist auch egal, ich kann jedes Eurer Leben vernichten und Euer Glück wird Euch verlassen¨ früher oder später.~FF~#228
+;000EBF1F{Hammer~FF~}#010#007
+Mazo\ ~FF~#007
+;000EBF26{Marteau~FF~}#011#008
+Marteau~FF~#008
+;000EBF2E{Hammer~FF~}#010#007
+Hammer~FF~#007
+;000EBF35{Healing Potion~FF~}#018#015
+Poción Cura\  ~FF~#015
+;000EBF44{Potion Prem. soins~FF~}#022#019
+Potion Prem. soins~FF~#019
+;000EBF57{Heiltrank~FF~}#013#010
+Heiltrank~FF~#010
+|666
+@000FEB15-000FED95-FF
+;000FEB15{Wimp~FF~}#008#005
+Déb.~FF~#005
+;000FEB1A{Mauviette~FF~}#013#010
+Mauviette~FF~#010
+;000FEB24{Feigling~FF~}#012#009
+Feigling~FF~#009
+;000FEB2D{Ruffian~FF~}#011#008
+Rufián\~FF~#008
+;000FEB35{Voyou~FF~}#009#006
+Voyou~FF~#006
+;000FEB3B{Grobian~FF~}#011#008
+Grobian~FF~#008
+;000FEB43{Fighter~FF~}#011#008
+Combat.~FF~#008
+;000FEB4B{Combattant~FF~}#014#011
+Combattant~FF~#011
+;000FEB56{Kämpfer~FF~}#011#008
+Kämpfer~FF~#008
+;000FEB5E{Berserker~FF~}#013#010
+Furioso\ ~FF~#010
+;000FEB68{Fou Furieux~FF~}#015#012
+Fou Furieux~FF~#012
+;000FEB74{Berzerker~FF~}#013#010
+Berzerker~FF~#010
+;000FEB7E{Warrior~FF~}#011#008
+Guerre.~FF~#008
+;000FEB86{Guerrier~FF~}#012#009
+Guerrier~FF~#009
+;000FEB8F{Krieger~FF~}#011#008
+Krieger~FF~#008
+;000FEB97{Trickster~FF~}#013#010
+Tramposo\~FF~#010
+;000FEBA1{Filou~FF~}#009#006
+Filou~FF~#006
+;000FEBA7{Gauner~FF~}#010#007
+Gauner~FF~#007
+;000FEBAE{Conjurer~FF~}#012#009
+Conjura.~FF~#009
+;000FEBB7{Illusionniste~FF~}#017#014
+Illusionniste~FF~#014
+;000FEBC5{Zauberkünstler~FF~}#018#015
+Zauberkünstler~FF~#015
+;000FEBD4{Magician~FF~}#012#009
+Mago\   ~FF~#009
+;000FEBDD{Magicien~FF~}#012#009
+Magicien~FF~#009
+;000FEBE6{Zauberer~FF~}#012#009
+Zauberer~FF~#009
+;000FEBEF{Wizard~FF~}#010#007
+Hechi.~FF~#007
+;000FEBF6{Sorcier~FF~}#011#008
+Sorcier~FF~#008
+;000FEBFE{Magier~FF~}#010#007
+Magier~FF~#007
+;000FEC05{Warlock~FF~}#011#008
+Brujo\ ~FF~#008
+;000FEC0D{Enchanteur~FF~}#014#011
+Enchanteur~FF~#011
+;000FEC18{Hexer~FF~}#009#006
+Hexer~FF~#006
+;000FEC1E{Peasant~FF~}#011#008
+Campes.~FF~#008
+;000FEC26{Paysan~FF~}#010#007
+Paysan~FF~#007
+;000FEC2D{Bauer~FF~}#009#006
+Bauer~FF~#006
+;000FEC33{Serf~FF~}#008#005
+Sie.~FF~#005
+;000FEC38{Serf~FF~}#008#005
+Serf~FF~#005
+;000FEC3D{Leibeigene~FF~}#014#011
+Leibeigene~FF~#011
+;000FEC48{ Squire~FF~}#011#008
+Escude.~FF~#008
+;000FEC50{ Écuyer~FF~}#011#008
+ Écuyer~FF~#008
+;000FEC58{Ritteranwärter~FF~}#018#015
+Ritteranwärter~FF~#015
+;000FEC67{Mercenary~FF~}#013#010
+Mercenar.~FF~#010
+;000FEC71{Mercenaire~FF~}#014#011
+Mercenaire~FF~#011
+;000FEC7C{Söldner~FF~}#011#008
+Söldner~FF~#008
+;000FEC84{Man at arms~FF~}#015#012
+Hombre Arm.~FF~#012
+;000FEC90{Cuirassier~FF~}#014#011
+Cuirassier~FF~#011
+;000FEC9B{Freibauer~FF~}#013#010
+Freibauer~FF~#010
+;000FECA5{Soldier~FF~}#011#008
+Soldado~FF~#008
+;000FECAD{Soldat~FF~}#010#007
+Soldat~FF~#007
+;000FECB4{Soldat~FF~}#010#007
+Soldat~FF~#007
+;000FECBB{Crusader~FF~}#012#009
+Cruzado\~FF~#009
+;000FECC4{Croisé~FF~}#010#007
+Croisé~FF~#007
+;000FECCB{Kreuzritter~FF~}#015#012
+Kreuzritter~FF~#012
+;000FECD7{Knight~FF~}#010#007
+Cabal.~FF~#007
+;000FECDE{Chevalier~FF~}#013#010
+Chevalier~FF~#010
+;000FECE8{Ritter~FF~}#010#007
+Ritter~FF~#007
+;000FECEF{Holy knight~FF~}#015#012
+Cab.Sagrado~FF~#012
+;000FECFB{Chevalier sacré~FF~}#019#016
+Chevalier sacré~FF~#016
+;000FED0B{Hexer~FF~}#009#006
+Hexer~FF~#006
+;000FED11{  Hero~FF~}#010#007
+ Héroe~FF~#007
+;000FED18{  Héros~FF~}#011#008
+  Héros~FF~#008
+;000FED20{  Held~FF~}#010#007
+  Held~FF~#007
+;000FED27{~FF~}#004#001
+~FF~#001
+;000FED28{~FF~}#004#001
+~FF~#001
+;000FED29{~FF~}#004#001
+~FF~#001
+;000FED2A{Might~FF~}#009#006
+Poder~FF~#006
+;000FED30{Force~FF~}#009#006
+Force~FF~#006
+;000FED36{Stärke~FF~}#010#007
+Stärke~FF~#007
+;000FED3D{Magic~FF~}#009#006
+Magia~FF~#006
+;000FED43{Magique~FF~}#011#008
+Magique~FF~#008
+;000FED4B{Magie~FF~}#009#006
+Magie~FF~#006
+;000FED51{Rank~FF~}#008#005
+Ran.~FF~#005
+;000FED56{Rang~FF~}#008#005
+Rang~FF~#005
+;000FED5B{Rang~FF~}#008#005
+Rang~FF~#005
+;000FED60{Champion~FF~}#012#009
+Campeón\~FF~#009
+;000FED69{Champion~FF~}#012#009
+Champion~FF~#009
+;000FED72{Meister~FF~}#011#008
+Meister~FF~#008
+;000FED7A{Paladin~FF~}#011#008
+Paladín~FF~#008
+;000FED82{Paladin~FF~}#011#008
+Paladin~FF~#008
+;000FED8A{Kreuzritter~FF~}#015#012
+Kreuzritter~FF~#012
+|641

@@ -1,29 +1,24 @@
-Metroid (NES)
-Traducción al Español v2.0 (17/12/2021)
+Umihara Kawase (Super Nintendo)
+Traducción al Español v1.0 (17/12/2021)
 (C) 2021 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducción y hacking es completamente original.
+Esta traducción y hacking está basado en el de 	satsu y Green Jerry.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
-
-V2.0:
--Revisión de script
--Añadidos acentos
--Traducidos más gráficos
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Metroid (USA).nes
-MD5: d77c8053168da14b360bf5caeccc5964
-SHA1: ecf39ec5a33e6a6f832f03e8ffc61c5d53f4f90b
-CRC32: a2c89cb9
-131088 bytes
+Umihara Kawase (Japan).sfc
+MD5: abddd496bab9c4fd12007f3125db85cc
+SHA1: c4da5c1aaf998f0c7114adff0436246728a2139e
+CRC32: 393ccca2
+1048576 bytes
 
 --------
 Créditos

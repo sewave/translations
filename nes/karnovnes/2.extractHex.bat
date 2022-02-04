@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Karnov (USA).nes"
+set SCRIPTNAME="karnovnes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 28EE0:10,28F30:10,26B00:60,25730:100,25F70:A0,2EB50:10,2EBA0:20,29BA0:20,29B50:10,23FE0:10,2DC20:20
+pause

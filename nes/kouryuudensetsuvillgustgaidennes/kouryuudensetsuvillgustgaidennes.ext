@@ -1,0 +1,2746 @@
+@00014DBB-00014DD4-FF
+;00014DBB{~23~~03~~09~New~00~Game~02~~23~~10~~08~Continue~00~~00~~00~}#059#026
+~23~~03~~09~New~00~Game~02~~23~~10~~08~Continue~00~~00~~00~#026
+|26
+@00020111-0002052A-00
+;00020111{Cannot be dropped.~00~}#022#019
+Cannot be dropped.~00~#019
+;00020124{Nothing happened.~00~}#021#018
+Nothing happened.~00~#018
+;00020136{Cannot be used.~00~}#019#016
+Cannot be used.~00~#016
+;00020146{No effect.~00~}#014#011
+No effect.~00~#011
+;00020151{~40~´s poisoning is cured.~00~}#030#024
+~40~´s poisoning is cured.~00~#024
+;00020169{~49~~48~~47~~40~´s life was=restored.~00~}#041#026
+~49~~48~~47~~40~´s life was=restored.~00~#026
+;00020183{~49~~48~~47~Remi received no=damage!~00~}#040#028
+~49~~48~~47~Remi received no=damage!~00~#028
+;0002019F{~49~~48~~47~The Golem received no=damage!~00~}#045#033
+~49~~48~~47~The Golem received no=damage!~00~#033
+;000201C0{~40~´s strength returned.~00~}#029#023
+~40~´s strength returned.~00~#023
+;000201D7{The vase was empty.~42~~00~}#027#021
+The vase was empty.~42~~00~#021
+;000201EC{~40~ fully recovered MGP.~00~}#029#023
+~40~ fully recovered MGP.~00~#023
+;00020203{~40~ recovered by ~41~.~00~}#027#018
+~40~ recovered by ~41~.~00~#018
+;00020215{~40~ recovered fully.~00~}#025#019
+~40~ recovered fully.~00~#019
+;00020228{Nothing particularly=unusual.~42~~00~}#037#031
+Nothing particularly=unusual.~42~~00~#031
+;00020247{Nothing there.~42~~00~}#022#016
+Nothing there.~42~~00~#016
+;00020257{Your party has no items.~00~}#028#025
+Your party has no items.~00~#025
+;00020270{No usable spells.~00~}#021#018
+No usable spells.~00~#018
+;00020282{Enemy sighted!~00~}#018#015
+Enemy sighted!~00~#015
+;00020291{The enemy didn´t notice you!~00~}#032#029
+The enemy didn´t notice you!~00~#029
+;000202AE{You are under attack!~00~}#025#022
+You are under attack!~00~#022
+;000202C4{The party obtained=~4A~!~42~~00~}#032#023
+The party obtained=~4A~!~42~~00~#023
+;000202DB{~4A~=found inside! But the=party cannot carry any=more.~42~=^~40~ put the item=back.~00~}#088#076
+~4A~=found inside! But the=party cannot carry any=more.~42~=^~40~ put the item=back.~00~#076
+;00020327{There was nothing=inside.~42~~00~}#033#027
+There was nothing=inside.~42~~00~#027
+;00020342{The party couldn´t escape!~00~}#030#027
+The party couldn´t escape!~00~#027
+;0002035D{I can´t buy that!~00~}#021#018
+I can´t buy that!~00~#018
+;0002036F{^You don´t have enough=money!~00~}#033#030
+^You don´t have enough=money!~00~#030
+;0002038D{~40~~00~}#008#002
+~40~~00~#002
+;0002038F{received ~41~ EXP.~00~}#022#016
+received ~41~ EXP.~00~#016
+;0002039F{=received ~41~ EXP each.~00~}#028#022
+=received ~41~ EXP each.~00~#022
+;000203B5{=The party got ~41~0G.~42~~00~}#030#021
+=The party got ~41~0G.~42~~00~#021
+;000203CA{~46~~40~ became LEVEL ~41~.~00~}#031#019
+~46~~40~ became LEVEL ~41~.~00~#019
+;000203DD{LIFE~03~~41~~00~}#016#007
+LIFE~03~~41~~00~#007
+;000203E4{MGP~04~~41~~00~}#015#006
+MGP~04~~41~~00~#006
+;000203EA{STR~04~~41~~00~}#015#006
+STR~04~~41~~00~#006
+;000203F0{VIT~04~~41~~00~}#015#006
+VIT~04~~41~~00~#006
+;000203F6{Learned a spell.~00~}#020#017
+Learned a spell.~00~#017
+;00020407{~42~~00~}#008#002
+~42~~00~#002
+;00020409{Dropped.~00~}#012#009
+Dropped.~00~#009
+;00020412{Do you require=assistance, *meow*?~00~}#038#035
+Do you require=assistance, *meow*?~00~#035
+;00020435{^Who requires healing,=*meow*?~00~}#034#031
+^Who requires healing,=*meow*?~00~#031
+;00020454{^Who requires revital-=ization, *meow*?~00~}#043#040
+^Who requires revital-=ization, *meow*?~00~#040
+;0002047C{^Healing poison will=cost ~41~0G, *meow*.~42~^Is that fine?~00~}#063#054
+^Healing poison will=cost ~41~0G, *meow*.~42~^Is that fine?~00~#054
+;000204B2{^Revitalization will=cost ~41~0G, *meow*.~42~^Is that fine?~00~}#063#054
+^Revitalization will=cost ~41~0G, *meow*.~42~^Is that fine?~00~#054
+;000204E8{That´s all you can=carry. Please dispose=of any unnecessary=items.~00~}#070#067
+That´s all you can=carry. Please dispose=of any unnecessary=items.~00~#067
+|1050
+@0002052B-000209C6-00
+;0002052B{^~40~ is no longer=poisoned.~00~}#032#026
+^~40~ is no longer=poisoned.~00~#026
+;00020545{^Energy returned to=~40~´s body.~00~}#036#030
+^Energy returned to=~40~´s body.~00~#030
+;00020563{Whose weapon shall I=enhance?~00~}#033#030
+Whose weapon shall I=enhance?~00~#030
+;00020581{^Nothing I can do for=that.~00~}#031#028
+^Nothing I can do for=that.~00~#028
+;0002059D{^That can´t be enhanced=any further.~00~}#040#037
+^That can´t be enhanced=any further.~00~#037
+;000205C2{^That will cost ~41~0G.=Is that fine?~00~}#041#035
+^That will cost ~41~0G.=Is that fine?~00~#035
+;000205E5{^~40~´s weapon´s=attack increased to=~41~.~00~}#046#037
+^~40~´s weapon´s=attack increased to=~41~.~00~#037
+;0002060A{What do you need?~00~}#021#018
+What do you need?~00~#018
+;0002061C{^Who are you buying=for?~00~}#028#025
+^Who are you buying=for?~00~#025
+;00020635{You´re already=wearing the same=thing...~00~}#044#041
+You´re already=wearing the same=thing...~00~#041
+;0002065E{You´re already=wearing something=better...~00~}#046#043
+You´re already=wearing something=better...~00~#043
+;00020689{This will be ~41~0G.=Is that fine?~00~}#038#032
+This will be ~41~0G.=Is that fine?~00~#032
+;000206A9{^Thank you for your=patronage.~00~}#034#031
+^Thank you for your=patronage.~00~#031
+;000206C8{What do you need?~00~}#021#018
+What do you need?~00~#018
+;000206DA{^It will cost you=~41~0G in total to=spend the night.~42~^=Is that all right?~00~}#081#072
+^It will cost you=~41~0G in total to=spend the night.~42~^=Is that all right?~00~#072
+;00020722{~40~ can´t cast now.~00~}#024#018
+~40~ can´t cast now.~00~#018
+;00020734{^Save over which file?~00~}#026#023
+^Save over which file?~00~#023
+;0002074B{^Load which file?~00~}#021#018
+^Load which file?~00~#018
+;0002075D{~4A~~00~}#008#002
+~4A~~00~#002
+;0002075F{~49~~48~~47~~40~=attacks!~00~}#029#014
+~49~~48~~47~~40~=attacks!~00~#014
+;0002076D{~49~~48~~47~~40~=takes ~41~ damage!~00~}#039#021
+~49~~48~~47~~40~=takes ~41~ damage!~00~#021
+;00020782{~49~~48~~47~~40~=is poisoned.~00~}#033#018
+~49~~48~~47~~40~=is poisoned.~00~#018
+;00020794{EEEEK! M-My hand...=has turned into=wood...!~42~~00~}#052#046
+EEEEK! M-My hand...=has turned into=wood...!~42~~00~#046
+;000207C2{Rita: There! I´ve=made a work of art!~42~=^Murobo: I´ll never=understand art.~42~=^Bostov: This is NOT=what we need!~42~~00~}#124#112
+Rita: There! I´ve=made a work of art!~42~=^Murobo: I´ll never=understand art.~42~=^Bostov: This is NOT=what we need!~42~~00~#112
+;00020832{Remi: I´ve made a=bed.~42~=^Ryuquir: It´s sooo=comfy! *purrr*~42~=^Who will sleep on the=bed?~00~}#097#088
+Remi: I´ve made a=bed.~42~=^Ryuquir: It´s sooo=comfy! *purrr*~42~=^Who will sleep on the=bed?~00~#088
+;0002088A{Murobo: The raft is=complete. We can=leave the island!~42~~00~}#062#056
+Murobo: The raft is=complete. We can=leave the island!~42~~00~#056
+;000208C2{The currents stopped!~00~}#025#022
+The currents stopped!~00~#022
+;000208D8{Cannot be used here.~00~}#024#021
+Cannot be used here.~00~#021
+;000208ED{Merchant: This=medicine will make=you stronger!~42~^Have a sample, free of=charge!~42~^Murobo: Hmph! Do I=look like I need=something like that?!~42~^Merchant: Now now,=don´t be like that!~42~^So, who wants to try=the free sample?~00~}#233#218
+Merchant: This=medicine will make=you stronger!~42~^Have a sample, free of=charge!~42~^Murobo: Hmph! Do I=look like I need=something like that?!~42~^Merchant: Now now,=don´t be like that!~42~^So, who wants to try=the free sample?~00~#218
+|1180
+@000209C7-00020DD2-00
+;000209C7{^~40~´s stats=increased!~42~~00~}#032#023
+^~40~´s stats=increased!~42~~00~#023
+;000209DE{~40~´s stats were=restored!~42~~00~}#035#026
+~40~´s stats were=restored!~42~~00~#026
+;000209F8{I haven´t seen the=medicine merchant in a=while.~42~~00~}#056#050
+I haven´t seen the=medicine merchant in a=while.~42~~00~#050
+;00020A2A{The monsters ahead are=very strong. You=should turn back.~42~~00~}#065#059
+The monsters ahead are=very strong. You=should turn back.~42~~00~#059
+;00020A65{Ax, Servant of the=Evil God: O Evil God!=Grant me the power to=turn this town and its~42~^=people to stone!~42~~00~}#115#106
+Ax, Servant of the=Evil God: O Evil God!=Grant me the power to=turn this town and its~42~^=people to stone!~42~~00~#106
+;00020ACF{Hash: These are my=guests. You may leave.~42~~00~}#049#043
+Hash: These are my=guests. You may leave.~42~~00~#043
+;00020AFA{You can´t come in=without permission.~42~~00~}#045#039
+You can´t come in=without permission.~42~~00~#039
+;00020B21{Golem: OHHHHHH...~42~~00~}#025#019
+Golem: OHHHHHH...~42~~00~#019
+;00020B34{Something is lying on=the ground...=~4A~!~42~^But the party cannot=carry any more.~42~^~40~ left it there.~42~~00~}#114#096
+Something is lying on=the ground...=~4A~!~42~^But the party cannot=carry any more.~42~^~40~ left it there.~42~~00~#096
+;00020B94{Upon entering the=World of the Gods, the=Duplication Mirror=shattered.~42~~00~}#078#072
+Upon entering the=World of the Gods, the=Duplication Mirror=shattered.~42~~00~#072
+;00020BDC{The party has ~40~´s form!~00~}#030#024
+The party has ~40~´s form!~00~#024
+;00020BF4{No answer.~42~~00~}#018#012
+No answer.~42~~00~#012
+;00020C00{Huh? Could you be...=the Goddess´s chosen=ones?? Oh my gosh!=This is amazing!~00~}#081#078
+Huh? Could you be...=the Goddess´s chosen=ones?? Oh my gosh!=This is amazing!~00~#078
+;00020C4E{~4B~~03~~40~ was victorious!~00~}#032#020
+~4B~~03~~40~ was victorious!~00~#020
+;00020C62{~4B~~06~~40~ passed out!~00~}#028#016
+~4B~~06~~40~ passed out!~00~#016
+;00020C72{Mayor: Before I lend=you my ship, there is=a certain favor I´d=like to ask of you.~42~~45~~00~}#094#085
+Mayor: Before I lend=you my ship, there is=a certain favor I´d=like to ask of you.~42~~45~~00~#085
+;00020CC7{It seems the people of=Camus have recently=begun to worship the=Evil God. We can´t let~42~^=it slide any longer.~42~~45~~00~}#124#112
+It seems the people of=Camus have recently=begun to worship the=Evil God. We can´t let~42~^=it slide any longer.~42~~45~~00~#112
+;00020D37{Please, go to Camus=and stop their mad=ambitions!~42~~45~~00~}#061#052
+Please, go to Camus=and stop their mad=ambitions!~42~~45~~00~#052
+;00020D6B{Murobo: Very well, Mr.=Mayor. Rest assured,=the people of Camus=won´t be causing you~42~^=any more harm!~42~~45~~00~}#116#104
+Murobo: Very well, Mr.=Mayor. Rest assured,=the people of Camus=won´t be causing you~42~^=any more harm!~42~~45~~00~#104
+|1036
+@00020DD3-00021215-00
+;00020DD3{Mayor: Thank you,=chosen ones...~42~~00~}#040#034
+Mayor: Thank you,=chosen ones...~42~~00~#034
+;00020DF5{Mayor: Sorry, the ship=isn´t fully repaired=yet.~42~~00~}#056#050
+Mayor: Sorry, the ship=isn´t fully repaired=yet.~42~~00~#050
+;00020E27{Murobo: Hmm...=Champions capable of=assisting a hero...~42~~00~}#063#057
+Murobo: Hmm...=Champions capable of=assisting a hero...~42~~00~#057
+;00020E60{~48~~47~Be careful out there.~00~}#033#024
+~48~~47~Be careful out there.~00~#024
+;00020E78{Ryuquir: *meow*?=What´s with the=rabbit? How is it=talking?~42~~45~~00~}#071#062
+Ryuquir: *meow*?=What´s with the=rabbit? How is it=talking?~42~~45~~00~#062
+;00020EB6{Murobo: This is no=mere rabbit, but one=of the Goddess´s=messengers. It´s going~42~^=to take us to our new=destination!~42~~00~}#127#118
+Murobo: This is no=mere rabbit, but one=of the Goddess´s=messengers. It´s going~42~^=to take us to our new=destination!~42~~00~#118
+;00020F2C{Mousegreat:=I-Impossible!!~42~^The Mousegreat dropped=something and=vanished.~42~~00~}#085#076
+Mousegreat:=I-Impossible!!~42~^The Mousegreat dropped=something and=vanished.~42~~00~#076
+;00020F78{Murobo: Is this the=orb you´re talking=about?~42~^=Village Head: Why,=yes, that´s the one!~42~=Oh, thank you!~42~~00~}#117#105
+Murobo: Is this the=orb you´re talking=about?~42~^=Village Head: Why,=yes, that´s the one!~42~=Oh, thank you!~42~~00~#105
+;00020FE1{Murobo: This is just a=normal vase...~42~~00~}#045#039
+Murobo: This is just a=normal vase...~42~~00~#039
+;00021008{~4B~~47~~40~ showed the fish!    ~4B~The Golem stopped!         ~00~}#068#053
+~4B~~47~~40~ showed the fish!    ~4B~The Golem stopped!         ~00~#053
+;0002103D{~4B~~47~Bostov used the            ~4B~Holy Water on Remi!        ~00~}#070#058
+~4B~~47~Bostov used the            ~4B~Holy Water on Remi!        ~00~#058
+;00021077{^File 1´s data has=disappeared!~00~}#035#032
+^File 1´s data has=disappeared!~00~#032
+;00021097{^File 2´s data has=disappeared!~00~}#035#032
+^File 2´s data has=disappeared!~00~#032
+;000210B7{Argh! I feel so weak!=I-It must be that=medicine´s fault...!~42~~00~}#068#062
+Argh! I feel so weak!=I-It must be that=medicine´s fault...!~42~~00~#062
+;000210F5{I knew he wasn´t=really bad!~42~~00~}#036#030
+I knew he wasn´t=really bad!~42~~00~#030
+;00021113{~47~Ryuquir joined the=party.~00~}#033#027
+~47~Ryuquir joined the=party.~00~#027
+;0002112E{~47~Remi joined the=party.~00~}#030#024
+~47~Remi joined the=party.~00~#024
+;00021146{~47~Bostov joined the=party.~00~}#032#026
+~47~Bostov joined the=party.~00~#026
+;00021160{~47~Sylviee joined the=party.~00~}#033#027
+~47~Sylviee joined the=party.~00~#027
+;0002117B{~47~Princess Rita joined=the party.~00~}#039#033
+~47~Princess Rita joined=the party.~00~#033
+;0002119C{Bostov: Just check=them already!~42~~00~}#040#034
+Bostov: Just check=them already!~42~~00~#034
+;000211BE{Merchant: I´ll go on=ahead and bring the=antidote back to the=village.~42~^See you there.~42~~00~}#097#088
+Merchant: I´ll go on=ahead and bring the=antidote back to the=village.~42~^See you there.~42~~00~#088
+|1091
+@00021216-0002153A-00
+;00021216{Hash: What are you=waiting for? Go!!~42~~00~}#044#038
+Hash: What are you=waiting for? Go!!~42~~00~#038
+;0002123C{~48~~47~Your progress has been=saved.~00~}#041#032
+~48~~47~Your progress has been=saved.~00~#032
+;0002125C{Wise Man: Halting the=currents is not=enough. Only someone=pure of heart may~42~^=enter the World of the=Gods!~42~~45~~00~}#122#110
+Wise Man: Halting the=currents is not=enough. Only someone=pure of heart may~42~^=enter the World of the=Gods!~42~~45~~00~#110
+;000212CA{Wise Man: There is a=certain item capable=of making all of your=hearts alike: the~42~^=Duplication Mirror.~42~~00~}#114#105
+Wise Man: There is a=certain item capable=of making all of your=hearts alike: the~42~^=Duplication Mirror.~42~~00~#105
+;00021333{This ROM is Ver. ~41~.~42~^~00~}#031#022
+This ROM is Ver. ~41~.~42~^~00~#022
+;00021349{Goddess: I shall also=heal your injuries.~42~^~00~}#050#044
+Goddess: I shall also=heal your injuries.~42~^~00~#044
+;00021375{Butler: First, I shall=heal your injuries.~42~^~00~}#051#045
+Butler: First, I shall=heal your injuries.~42~^~00~#045
+;000213A2{Once you have it, you=must enter the barrier=at the entrance of the=World of the Gods and~42~^=use it there!~42~~00~}#116#107
+Once you have it, you=must enter the barrier=at the entrance of the=World of the Gods and~42~^=use it there!~42~~00~#107
+;0002140D{Sylviee: Hey there,=Ryuquir! How´s it=going, *meow*?~42~~00~}#060#054
+Sylviee: Hey there,=Ryuquir! How´s it=going, *meow*?~42~~00~#054
+;00021443{Mousegreat: This is as=far as you go!~42~~00~}#045#039
+Mousegreat: This is as=far as you go!~42~~00~#039
+;0002146A{I saw leaves thiiiiis=big inside the cave=north from here,=*meow*! It´s true, I~42~^=swear!~42~~00~}#099#090
+I saw leaves thiiiiis=big inside the cave=north from here,=*meow*! It´s true, I~42~^=swear!~42~~00~#090
+;000214C4{Medicines are our=specialties!~42~~00~}#038#032
+Medicines are our=specialties!~42~~00~#032
+;000214E4{The merchant here=sells special=medicine. There´s even=one that makes you~42~^=stronger.~42~~00~}#096#087
+The merchant here=sells special=medicine. There´s even=one that makes you~42~^=stronger.~42~~00~#087
+|805
+@000220D0-000224DF-00
+;000220D0{If you´re looking for=comrades, I´ve heard=people from the=Catfolk village up~42~^=north are very strong.~42~~00~}#113#104
+If you´re looking for=comrades, I´ve heard=people from the=Catfolk village up~42~^=north are very strong.~42~~00~#104
+;00022138{Mom said not to play=outside because there=are monsters.~42~~00~}#064#058
+Mom said not to play=outside because there=are monsters.~42~~00~#058
+;00022172{There´s nothing better=than resting at an inn=when you´re worn out=from fighting!~42~~00~}#089#083
+There´s nothing better=than resting at an inn=when you´re worn out=from fighting!~42~~00~#083
+;000221C5{Make sure to save=often.~42~~00~}#032#026
+Make sure to save=often.~42~~00~#026
+;000221DF{Is a hero really going=to show up and save=our world?~42~~00~}#061#055
+Is a hero really going=to show up and save=our world?~42~~00~#055
+;00022216{Can the Evil God=really give you=immortality...?~42~~00~}#056#050
+Can the Evil God=really give you=immortality...?~42~~00~#050
+;00022248{Monsters are starting=to appear even here,=in the countryside.=This is pretty bad...~42~~00~}#092#086
+Monsters are starting=to appear even here,=in the countryside.=This is pretty bad...~42~~00~#086
+;0002229E{There´s been more and=more monsters around=lately, *meow*.~42~~00~}#066#060
+There´s been more and=more monsters around=lately, *meow*.~42~~00~#060
+;000222DA{Will it be a nice day=tomorrow, *meow*?~42~~00~}#047#041
+Will it be a nice day=tomorrow, *meow*?~42~~00~#041
+;00022303{They say there´s an=immortal sorcerer in=the tower to the west,=*meow*!~42~~00~}#079#073
+They say there´s an=immortal sorcerer in=the tower to the west,=*meow*!~42~~00~#073
+;0002234C{Mayor: Ryuquir is the=strongest warrior of=our village, *meow*.~42~~00~}#071#065
+Mayor: Ryuquir is the=strongest warrior of=our village, *meow*.~42~~00~#065
+;0002238D{Mayor: Fighting is=easy when you have=good comrades, *meow*.~42~~00~}#068#062
+Mayor: Fighting is=easy when you have=good comrades, *meow*.~42~~00~#062
+;000223CB{Mayor: I´ve heard of=that sorcerer. He´s=researching how to=achieve eternal life~42~^=using the power of the=Evil God, *meow*!~42~~00~}#134#125
+Mayor: I´ve heard of=that sorcerer. He´s=researching how to=achieve eternal life~42~^=using the power of the=Evil God, *meow*!~42~~00~#125
+;00022448{Mayor: I hope peace=will return to our=world soon, *meow*.~42~~00~}#066#060
+Mayor: I hope peace=will return to our=world soon, *meow*.~42~~00~#060
+;00022484{Sylviee: This is=Ryuquir´s house,=*meow*. Please leave=if you have no reason~42~^=to be here.~42~~00~}#101#092
+Sylviee: This is=Ryuquir´s house,=*meow*. Please leave=if you have no reason~42~^=to be here.~42~~00~#092
+|1040
+@000224E0-0002290A-00
+;000224E0{Sylviee: If you´re=looking for Ryuquir,=she´s taking a walk in=the forest to the~42~^=east, *meow*.~42~~00~}#107#098
+Sylviee: If you´re=looking for Ryuquir,=she´s taking a walk in=the forest to the~42~^=east, *meow*.~42~~00~#098
+;00022542{It´s easy to get lost,=so I´ll take you=there, *meow*.~42~^~00~}#063#057
+It´s easy to get lost,=so I´ll take you=there, *meow*.~42~^~00~#057
+;0002257B{Ryuquir: *meow*?=What´s up, Sylviee?~42~~45~~00~}#048#039
+Ryuquir: *meow*?=What´s up, Sylviee?~42~~45~~00~#039
+;000225A2{Sylviee: This guy was=looking for you,=*meow*. ~42~~45~~00~}#059#050
+Sylviee: This guy was=looking for you,=*meow*. ~42~~45~~00~#050
+;000225D4{Ryuquir: Do I know=you, old-timer?~42~~45~~00~}#046#037
+Ryuquir: Do I know=you, old-timer?~42~~45~~00~#037
+;000225F9{Murobo: Don´t call me=[old]! Call me Murobo!=Our Goddess wants me=to find brave warriors~42~^=willing to help the=Hero.~42~~45~~00~}#131#119
+Murobo: Don´t call me=[old]! Call me Murobo!=Our Goddess wants me=to find brave warriors~42~^=willing to help the=Hero.~42~~45~~00~#119
+;00022670{Ryuquir: Sounds like a=lotta fun, *meow*! But=there´s this shrine=inside the forest I~42~^=wanna check out first.=There´s a monster in=there doing some weird=stuff, *meow*.~42~~45~~00~}#184#172
+Ryuquir: Sounds like a=lotta fun, *meow*! But=there´s this shrine=inside the forest I~42~^=wanna check out first.=There´s a monster in=there doing some weird=stuff, *meow*.~42~~45~~00~#172
+;0002271C{Murobo: Very well. We=shall defeat that=monster!~42~~45~~00~}#060#051
+Murobo: Very well. We=shall defeat that=monster!~42~~45~~00~#051
+;0002274F{Ryuquir: I´ll take you=there. Follow me,=*meow*!~42~~00~}#056#050
+Ryuquir: I´ll take you=there. Follow me,=*meow*!~42~~00~#050
+;00022781{Sorcerer: Who are=you?! If you get in my=way, I will kill you!~42~~00~}#070#064
+Sorcerer: Who are=you?! If you get in my=way, I will kill you!~42~~00~#064
+;000227C1{Disciple: What?! Stop!=You´ll ruin the ritual=-- Ah!~42~~00~}#060#054
+Disciple: What?! Stop!=You´ll ruin the ritual=-- Ah!~42~~00~#054
+;000227F7{^Sorcerer: Curse you!=I´ve been brought back=as a ghost! You´ll pay=for this!!~42~~00~}#086#080
+^Sorcerer: Curse you!=I´ve been brought back=as a ghost! You´ll pay=for this!!~42~~00~#080
+;00022847{Goddess: Your journey=in this region is=over...~42~~00~}#055#049
+Goddess: Your journey=in this region is=over...~42~~00~#049
+;00022878{Linda: Thank you.~42~~00~}#025#019
+Linda: Thank you.~42~~00~#019
+;0002288B{Young Man: I wouldn´t=be here if not for=you. Thank you.~42~~00~}#064#058
+Young Man: I wouldn´t=be here if not for=you. Thank you.~42~~00~#058
+;000228C5{Linda: No... This=can´t be happening...=I can´t live without=him...!~42~~00~}#076#070
+Linda: No... This=can´t be happening...=I can´t live without=him...!~42~~00~#070
+|1067
+@0002290B-00022D24-00
+;0002290B{Linda: I only want him=to be well... I don´t=need anything else...~42~~00~}#074#068
+Linda: I only want him=to be well... I don´t=need anything else...~42~~00~#068
+;0002294F{They´ve already left=for that hole east of=here.~42~~00~}#056#050
+They´ve already left=for that hole east of=here.~42~~00~#050
+;00022981{Remi: I joined this=army to test my=skills. I wish you=luck.~42~~00~}#068#062
+Remi: I joined this=army to test my=skills. I wish you=luck.~42~~00~#062
+;000229BF{Young Man: My=girlfriend lives here.=That´s why I want to=protect our village.~42~~00~}#086#080
+Young Man: My=girlfriend lives here.=That´s why I want to=protect our village.~42~~00~#080
+;00022A0F{Leader: It´s time.=We´ll head towards the=hole to the east. Go=get yourself some new~42~^=equipment from the=merchant and catch up=with us later!~42~~00~}#153#144
+Leader: It´s time.=We´ll head towards the=hole to the east. Go=get yourself some new~42~^=equipment from the=merchant and catch up=with us later!~42~~00~#144
+;00022A9F{^The village head used=the Orb of Resurrec-=tion.~42~=The villagers who had=died have been brought=back to life.~42~~00~}#120#111
+^The village head used=the Orb of Resurrec-=tion.~42~=The villagers who had=died have been brought=back to life.~42~~00~#111
+;00022B0E{Village Head: The=battle ended in=tragedy... If only we=had the Orb of~42~^=Resurrection, we could=bring them all back to=life...~42~~00~}#137#128
+Village Head: The=battle ended in=tragedy... If only we=had the Orb of~42~^=Resurrection, we could=bring them all back to=life...~42~~00~#128
+;00022B8E{Village Head: The=soldiers are already=headed towards the=hole east of the~42~^=village.~42~~00~}#096#087
+Village Head: The=soldiers are already=headed towards the=hole east of the~42~^=village.~42~~00~#087
+;00022BE5{Village Head: We´re=recruiting soldiers at=the house north of the=merchant´s shop.~42~~00~}#090#084
+Village Head: We´re=recruiting soldiers at=the house north of the=merchant´s shop.~42~~00~#084
+;00022C39{Leader: ......~42~~00~}#022#016
+Leader: ......~42~~00~#016
+;00022C49{Apparently that hole=east of here is=connected to the=neighboring village.~42~~00~}#082#076
+Apparently that hole=east of here is=connected to the=neighboring village.~42~~00~#076
+;00022C95{Monsters keep coming=out from a hole east=of here. I´m scared.~42~~00~}#070#064
+Monsters keep coming=out from a hole east=of here. I´m scared.~42~~00~#064
+;00022CD5{Wow, gramps, you look=strong!~42~=Murobo: Don´t call me=[gramps]! Call me=Murobo!~42~~00~}#089#080
+Wow, gramps, you look=strong!~42~=Murobo: Don´t call me=[gramps]! Call me=Murobo!~42~~00~#080
+|1050
+@00022D25-00023130-00
+;00022D25{There´s a big hole to=the east of our=village.~42~~00~}#054#048
+There´s a big hole to=the east of our=village.~42~~00~#048
+;00022D55{Many villagers have=died since monsters=have appeared.~42~~00~}#062#056
+Many villagers have=died since monsters=have appeared.~42~~00~#056
+;00022D8D{You guys look strong.=Why don´t YOU take=care of the monsters?~42~~00~}#070#064
+You guys look strong.=Why don´t YOU take=care of the monsters?~42~~00~#064
+;00022DCD{There are many other=places like ours that=have been afflicted by=monsters. I hope you~42~^=can assist them as=well.~42~~00~}#124#115
+There are many other=places like ours that=have been afflicted by=monsters. I hope you~42~^=can assist them as=well.~42~~00~#115
+;00022E40{Remi: Glad to see you=haven´t run away.~42~~00~}#047#041
+Remi: Glad to see you=haven´t run away.~42~~00~#041
+;00022E69{Young Man: I´ll make=it back alive. I owe=it to my girlfriend!~42~~00~}#070#064
+Young Man: I´ll make=it back alive. I owe=it to my girlfriend!~42~~00~#064
+;00022EA9{Leader: Well done!=Let´s go further=inside. Onwards!~42~~00~}#060#054
+Leader: Well done!=Let´s go further=inside. Onwards!~42~~00~#054
+;00022EDF{Leader: Here they=come! CHAAARGE!!~42~~00~}#042#036
+Leader: Here they=come! CHAAARGE!!~42~~00~#036
+;00022F03{Leader: Ah, finally!=I´ve been waiting for=you.~42~~00~}#055#049
+Leader: Ah, finally!=I´ve been waiting for=you.~42~~00~#049
+;00022F34{Remi: Wow, not bad!~42~~00~}#027#021
+Remi: Wow, not bad!~42~~00~#021
+;00022F49{Young Man: I mustn´t=fall here! I have to=keep going!!~42~~00~}#062#056
+Young Man: I mustn´t=fall here! I have to=keep going!!~42~~00~#056
+;00022F81{Leader: Be brave,=soldiers! Onwards!!~42~~00~}#045#039
+Leader: Be brave,=soldiers! Onwards!!~42~~00~#039
+;00022FA8{Leader: Here they come=again! Attack!!~42~~00~}#046#040
+Leader: Here they come=again! Attack!!~42~~00~#040
+;00022FD0{Leader: We´ve lost=some good men, but we=can´t falter now. Keep=fighting!~42~~00~}#081#075
+Leader: We´ve lost=some good men, but we=can´t falter now. Keep=fighting!~42~~00~#075
+;0002301B{Young Man: Forgive me,=Linda... I couldn´t=protect you...~42~~00~}#065#059
+Young Man: Forgive me,=Linda... I couldn´t=protect you...~42~~00~#059
+;00023056{Leader: Sorry...=Please protect the=village for us...~42~~00~}#061#055
+Leader: Sorry...=Please protect the=village for us...~42~~00~#055
+;0002308D{Remi: So you´ve=survived too, huh? My=name is Remi. I´m a=magician.~42~=Looks like we´re the=only ones left...~42~~00~}#118#109
+Remi: So you´ve=survived too, huh? My=name is Remi. I´m a=magician.~42~=Looks like we´re the=only ones left...~42~~00~#109
+;000230FA{It seems the village=head lost his dear=vase, *meow*.~42~~00~}#061#055
+It seems the village=head lost his dear=vase, *meow*.~42~~00~#055
+|1036
+@00023131-0002353A-00
+;00023131{There are ancient=ruins near our=village, *meow*.~42~~00~}#057#051
+There are ancient=ruins near our=village, *meow*.~42~~00~#051
+;00023164{Monsters have made a=nest out of the=ancient ruins.~42~~00~}#059#053
+Monsters have made a=nest out of the=ancient ruins.~42~~00~#053
+;00023199{I´m surprised Stingy=McCheap actually=offered a cash reward.~42~~00~}#068#062
+I´m surprised Stingy=McCheap actually=offered a cash reward.~42~~00~#062
+;000231D7{Our village´s=treasure, the ancient=vase, was stolen! You=wouldn´t know anything~42~^=about it, would you?~42~~00~}#114#105
+Our village´s=treasure, the ancient=vase, was stolen! You=wouldn´t know anything~42~^=about it, would you?~42~~00~#105
+;00023240{I´ve been hearing=creepy screams from=the rich man´s house.~42~~00~}#067#061
+I´ve been hearing=creepy screams from=the rich man´s house.~42~~00~#061
+;0002327D{Bostov the thief stole=our treasure, the=ancient vase.~42~~00~}#062#056
+Bostov the thief stole=our treasure, the=ancient vase.~42~~00~#056
+;000232B5{I-It´s you, Bostov!=How dare you show your=face here again?!~42~~00~}#068#062
+I-It´s you, Bostov!=How dare you show your=face here again?!~42~~00~#062
+;000232F3{Bostov´s hideout is=inside the ancient=ruins to the west.~42~~00~}#065#059
+Bostov´s hideout is=inside the ancient=ruins to the west.~42~~00~#059
+;0002332E{Village Head: That=vase has been handed=down in our village=for generations. We~42~^=don´t know what it=holds.~42~~45~~00~}#122#110
+Village Head: That=vase has been handed=down in our village=for generations. We~42~^=don´t know what it=holds.~42~~45~~00~#110
+;0002339C{What I know is that=its value as an=antique is incredibly=high.~42~~00~}#071#065
+What I know is that=its value as an=antique is incredibly=high.~42~~00~#065
+;000233DD{Rich Man: Everyone=knows Bostov is a=thief, so he must be=the culprit! Please,~42~^=bring back our prized=vase!~42~~00~}#119#110
+Rich Man: Everyone=knows Bostov is a=thief, so he must be=the culprit! Please,~42~^=bring back our prized=vase!~42~~00~#110
+;0002344B{Bostov: W-What the=heck is this?!~42~~00~}#041#035
+Bostov: W-What the=heck is this?!~42~~00~#035
+;0002346E{Rich Man: I´m sorry,=Bostov... The truth=is, it was me all=along. I stole the~42~^=vase... Can you ever=forgive me?~42~~45~~00~}#127#115
+Rich Man: I´m sorry,=Bostov... The truth=is, it was me all=along. I stole the~42~^=vase... Can you ever=forgive me?~42~~45~~00~#115
+;000234E1{I know! It´s not much,=but I´ll give you this=Storm Boomerang.~42~~00~}#070#064
+I know! It´s not much,=but I´ll give you this=Storm Boomerang.~42~~00~#064
+;00023521{Murobo: Are you=Bostov?~42~~45~~00~}#035#026
+Murobo: Are you=Bostov?~42~~45~~00~#026
+|1034
+@0002353B-00023951-00
+;0002353B{Bostov: W-What´s it to=you?!~42~~45~~00~}#040#031
+Bostov: W-What´s it to=you?!~42~~45~~00~#031
+;0002355A{Murobo: We´re here for=the vase you stole=from the village!~42~~45~~00~}#071#062
+Murobo: We´re here for=the vase you stole=from the village!~42~~45~~00~#062
+;00023598{Ryuquir: Yeah, give it=back, *hiss*!~42~~45~~00~}#048#039
+Ryuquir: Yeah, give it=back, *hiss*!~42~~45~~00~#039
+;000235BF{Bostov: It wasn´t me!~42~^Take a look at those=vases for yourselves=if you don´t believe=me!~42~~00~}#100#091
+Bostov: It wasn´t me!~42~^Take a look at those=vases for yourselves=if you don´t believe=me!~42~~00~#091
+;0002361A{^The party obtained the=Light Orb!~42~~00~}#042#036
+^The party obtained the=Light Orb!~42~~00~#036
+;0002363E{^The party obtained a=Storm Boomerang!~42~~00~}#046#040
+^The party obtained a=Storm Boomerang!~42~~00~#040
+;00023666{Village Head: You have=saved our village. I=can´t thank you=enough.~42~~00~}#075#069
+Village Head: You have=saved our village. I=can´t thank you=enough.~42~~00~#069
+;000236AB{Leader: We owe=everything to you.~42~~00~}#041#035
+Leader: We owe=everything to you.~42~~00~#035
+;000236CE{Our lives should go=back to normal soon.~42~~00~}#048#042
+Our lives should go=back to normal soon.~42~~00~#042
+;000236F8{Linda: He´s asked me=to marry him! I´m so=happy...~42~~00~}#058#052
+Linda: He´s asked me=to marry him! I´m so=happy...~42~~00~#052
+;0002372C{Young Man: I´ve asked=Linda to marry me.~42~~00~}#048#042
+Young Man: I´ve asked=Linda to marry me.~42~~00~#042
+;00023756{The village head is=happy to have his=precious vase back,=*meow*.~42~~00~}#073#067
+The village head is=happy to have his=precious vase back,=*meow*.~42~~00~#067
+;00023799{I never trusted that=rich guy. I knew he=was the culprit. Yup.~42~~00~}#070#064
+I never trusted that=rich guy. I knew he=was the culprit. Yup.~42~~00~#064
+;000237D9{You are our saviors.~42~~00~}#028#022
+You are our saviors.~42~~00~#022
+;000237EF{Could you... leave me=alone? I can´t face=Bostov after what I=said about him...~42~~00~}#087#081
+Could you... leave me=alone? I can´t face=Bostov after what I=said about him...~42~~00~#081
+;00023840{Village Head: I had no=idea the vase was=filled with=monsters...~42~~00~}#072#066
+Village Head: I had no=idea the vase was=filled with=monsters...~42~~00~#066
+;00023882{Rich Man: This=incident has really=opened my eyes. From=now on, I will use my~42~^=assets to make this=village flourish.~42~~00~}#128#119
+Rich Man: This=incident has really=opened my eyes. From=now on, I will use my~42~^=assets to make this=village flourish.~42~~00~#119
+;000238F9{Murobo: Hm? This isn´t=a new region...~42~^Could something have=happened to the=Goddess?!~42~~45~~00~}#101#089
+Murobo: Hm? This isn´t=a new region...~42~^Could something have=happened to the=Goddess?!~42~~45~~00~#089
+|1047
+@00023952-00023980-00
+;00023952{...At any rate, we=should move ahead for=now.~42~~00~}#053#047
+...At any rate, we=should move ahead for=now.~42~~00~#047
+|47
+@00024025-0002421F-00
+;00024025{=  Original Project   =     P-NEKOMATA      =~0A~~09~~45~~00~}#061#049
+=  Original Project   =     P-NEKOMATA      =~0A~~09~~45~~00~#049
+;00024056{^~47~        Story        =    Studio Orphee    =   Tomohiro Chiba    =~0A~~09~~00~}#083#071
+^~47~        Story        =    Studio Orphee    =   Tomohiro Chiba    =~0A~~09~~00~#071
+;0002409D{~47~~0A~~09~=      Producer       =  Shigenori Sasaki   =~0A~~09~~45~~00~}#073#052
+~47~~0A~~09~=      Producer       =  Shigenori Sasaki   =~0A~~09~~45~~00~#052
+;000240D1{^~47~~0A~~09~=     Coordinator     =        KABAO        =~0A~~09~~00~}#070#052
+^~47~~0A~~09~=     Coordinator     =        KABAO        =~0A~~09~~00~#052
+;00024105{~47~     Programmers     =       Ootaro        =       ZHU LI        =~0A~~09~~45~~00~}#086#071
+~47~     Programmers     =       Ootaro        =       ZHU LI        =~0A~~09~~45~~00~#071
+;0002414C{^~47~      Designers      =     Mido Nyanko     =       KANOGEN       =~0A~~09~~00~}#083#071
+^~47~      Designers      =     Mido Nyanko     =       KANOGEN       =~0A~~09~~00~#071
+;00024193{~47~      Composers      =    Music Office     =       Amayan        =~0A~~09~~45~~00~}#086#071
+~47~      Composers      =    Music Office     =       Amayan        =~0A~~09~~45~~00~#071
+;000241DA{^~47~~0A~~09~=   Special Thanks    =      Joji Yuno      =~0A~~09~~00~}#070#052
+^~47~~0A~~09~=   Special Thanks    =      Joji Yuno      =~0A~~09~~00~#052
+;0002420E{~47~~0A~~09~=~0A~~09~=~07~STAFF~08~=~0A~~09~~00~}#048#018
+~47~~0A~~09~=~0A~~09~=~07~STAFF~08~=~0A~~09~~00~#018
+|507
+@000260D0-0002650A-00
+;000260D0{I´ve heard rumors of a=strange tower being=built nearby...~42~^Hopefully it´s nothing=bad...~42~~00~}#100#091
+I´ve heard rumors of a=strange tower being=built nearby...~42~^Hopefully it´s nothing=bad...~42~~00~#091
+;0002612B{......~42~~00~}#014#008
+......~42~~00~#008
+;00026133{We are in your debt.~42~~00~}#028#022
+We are in your debt.~42~~00~#022
+;00026149{There is a hall=dedicated to the=Goddess in the castle.~42~^Because of that, we=can rest easy.~42~~00~}#102#093
+There is a hall=dedicated to the=Goddess in the castle.~42~^Because of that, we=can rest easy.~42~~00~#093
+;000261A6{How could the power of=darkness break through=the Goddess´s barr-=ier...?~42~~00~}#081#075
+How could the power of=darkness break through=the Goddess´s barr-=ier...?~42~~00~#075
+;000261F1{The enchanter can=level up your weapons.~42~~00~}#048#042
+The enchanter can=level up your weapons.~42~~00~#042
+;0002621B{Whew... For a while, I=thought I´d never go=back to normal. Thank=you.~42~~00~}#078#072
+Whew... For a while, I=thought I´d never go=back to normal. Thank=you.~42~~00~#072
+;00026263{Is it just me, or are=monsters getting=stronger lately?~42~~00~}#063#057
+Is it just me, or are=monsters getting=stronger lately?~42~~00~#057
+;0002629C{If you leave the town=north, you´ll reach=Castle Pespa.~42~~00~}#063#057
+If you leave the town=north, you´ll reach=Castle Pespa.~42~~00~#057
+;000262D5{This is the castle=town of Pespa.~42~~00~}#041#035
+This is the castle=town of Pespa.~42~~00~#035
+;000262F8{Whew! I can finally=move again. I should=have bought that=Wonder Salve they sell~42~^=in Holn.~42~~00~}#102#093
+Whew! I can finally=move again. I should=have bought that=Wonder Salve they sell~42~^=in Holn.~42~~00~#093
+;00026355{The King has sent out=a call for a certain=martial artist.~42~~00~}#066#060
+The King has sent out=a call for a certain=martial artist.~42~~00~#060
+;00026391{Good day. Lovely=weather, isn´t it?~42~~00~}#043#037
+Good day. Lovely=weather, isn´t it?~42~~00~#037
+;000263B6{Your journey is only=going to get harder=from now on, but never=lose hope.~42~~00~}#082#076
+Your journey is only=going to get harder=from now on, but never=lose hope.~42~~00~#076
+;00026402{I´m picking up=flowers.~42~~00~}#031#025
+I´m picking up=flowers.~42~~00~#025
+;0002641B{You saved us all,=didn´t you? Thanks!~42~~00~}#045#039
+You saved us all,=didn´t you? Thanks!~42~~00~#039
+;00026442{Martin: ...Yes, the=King asked me to=defeat all of the=monsters in the tower~42~^=to the west, but I=refused. That would=have been suicide!~42~~00~}#147#138
+Martin: ...Yes, the=King asked me to=defeat all of the=monsters in the tower~42~^=to the west, but I=refused. That would=have been suicide!~42~~00~#138
+;000264CC{Martin: Impressive! I=can see why the=Goddess has chosen=you.~42~~00~}#069#063
+Martin: Impressive! I=can see why the=Goddess has chosen=you.~42~~00~#063
+|1083
+@0002650B-00026927-00
+;0002650B{Ax, Servant of the=Evil God: I am the=brother of the servant=of the Evil God you~42~^=killed. Today, I will=have my revenge.~42~~45~~00~}#136#124
+Ax, Servant of the=Evil God: I am the=brother of the servant=of the Evil God you~42~^=killed. Today, I will=have my revenge.~42~~45~~00~#124
+;00026587{You shall know the=pain of loss! First,=this castle town,=Pespa!~42~~00~}#072#066
+You shall know the=pain of loss! First,=this castle town,=Pespa!~42~~00~#066
+;000265C9{Ax, Servant of the=Evil God:=Mwahahahahah!~42~~45~~00~}#054#045
+Ax, Servant of the=Evil God:=Mwahahahahah!~42~~45~~00~#045
+;000265F6{Rita: What have you=done?!~42~~45~~00~}#038#029
+Rita: What have you=done?!~42~~45~~00~#029
+;00026613{Sylviee: Turn them=back, *hiss*!~42~~45~~00~}#044#035
+Sylviee: Turn them=back, *hiss*!~42~~45~~00~#035
+;00026636{Ax, Servant of the=Evil God: Next, I will=turn YOUR village to=stone.~42~~00~}#077#071
+Ax, Servant of the=Evil God: Next, I will=turn YOUR village to=stone.~42~~00~#071
+;0002667D{Ax, Servant of the=Evil God: And with=this little side show=out of the way...~42~^=Prepare to die!~42~~00~}#106#097
+Ax, Servant of the=Evil God: And with=this little side show=out of the way...~42~^=Prepare to die!~42~~00~#097
+;000266DE{Ax, Servant of the=Evil God: Y-You have=defeated me... but=even if I die, the~42~^=Curse of Stone I have=cast will hold=forever...~42~~00~}#138#129
+Ax, Servant of the=Evil God: Y-You have=defeated me... but=even if I die, the~42~^=Curse of Stone I have=cast will hold=forever...~42~~00~#129
+;0002675F{Princess Rita is truly=strong.~42~~00~}#038#032
+Princess Rita is truly=strong.~42~~00~#032
+;0002677F{King: You must be the=Goddess´s chosen=ones... I have a=request.~42~~45~~00~}#076#067
+King: You must be the=Goddess´s chosen=ones... I have a=request.~42~~45~~00~#067
+;000267C2{I want you to destroy=the tower that has=recently been built=west of our town.~42~~45~~00~}#090#081
+I want you to destroy=the tower that has=recently been built=west of our town.~42~~45~~00~#081
+;00026813{Murobo: Very well. We=shall do as you ask,=for the sake of our=Goddess.~42~~00~}#079#073
+Murobo: Very well. We=shall do as you ask,=for the sake of our=Goddess.~42~~00~#073
+;0002685C{King: I´m counting on=you, brave ones!~42~~00~}#046#040
+King: I´m counting on=you, brave ones!~42~~00~#040
+;00026884{Murobo: Your Majesty,=the tower has been=destroyed. There is=nothing left of it.~42~~45~~00~}#092#083
+Murobo: Your Majesty,=the tower has been=destroyed. There is=nothing left of it.~42~~45~~00~#083
+;000268D7{King: Well done, brave=ones! Please, feel=free to rest for a=while in our town.~42~~00~}#087#081
+King: Well done, brave=ones! Please, feel=free to rest for a=while in our town.~42~~00~#081
+|1053
+@00026928-00026D59-00
+;00026928{King: It seems that=Martin, the martial=artist, wishes to=speak with you. Please~42~^=meet him at once.~42~~00~}#111#102
+King: It seems that=Martin, the martial=artist, wishes to=speak with you. Please~42~^=meet him at once.~42~~00~#102
+;0002698E{King: Thank you, brave=ones!~42~~00~}#036#030
+King: Thank you, brave=ones!~42~~00~#030
+;000269AC{Murobo: Your Majesty,=I know I said the=tower was destroyed...=But that was a lie.~42~~45~~00~}#094#085
+Murobo: Your Majesty,=I know I said the=tower was destroyed...=But that was a lie.~42~~45~~00~#085
+;00026A01{The truth is, it was=transported to the=world of the Gods soon=after we struck down~42~^=the servant of the=Evil God inside of it.~42~~45~~00~}#142#130
+The truth is, it was=transported to the=world of the Gods soon=after we struck down~42~^=the servant of the=Evil God inside of it.~42~~45~~00~#130
+;00026A83{We have not given up=on our task.~42~^We shall head there=and destroy the tower=once and for all.~42~~45~~00~}#109#097
+We have not given up=on our task.~42~^We shall head there=and destroy the tower=once and for all.~42~~45~~00~#097
+;00026AE4{Rita: Father, I wish=to travel with them as=well.~42~~45~~00~}#061#052
+Rita: Father, I wish=to travel with them as=well.~42~~45~~00~#052
+;00026B18{King: I understand.=Murobo, keep an eye on=my daughter, would=you? And please, bring~42~^=peace back to our=world. We´re all=counting on you, brave=ones.~42~~45~~00~}#165#153
+King: I understand.=Murobo, keep an eye on=my daughter, would=you? And please, bring~42~^=peace back to our=world. We´re all=counting on you, brave=ones.~42~~45~~00~#153
+;00026BB1{Murobo: We will, your=Majesty.~42~^~00~}#039#033
+Murobo: We will, your=Majesty.~42~^~00~#033
+;00026BD2{Princess Rita: Are you=the champions I´ve=heard so much about?~42~~00~}#070#064
+Princess Rita: Are you=the champions I´ve=heard so much about?~42~~00~#064
+;00026C12{Princess Rita: Please=destroy that tower as=soon as possible.~42~~00~}#069#063
+Princess Rita: Please=destroy that tower as=soon as possible.~42~~00~#063
+;00026C51{The tower to the west=is teeming with=monsters.~42~~00~}#055#049
+The tower to the west=is teeming with=monsters.~42~~00~#049
+;00026C82{W-What happened...?~42~~00~}#027#021
+W-What happened...?~42~~00~#021
+;00026C97{Monsters have been=getting stronger and=stronger!~42~~00~}#057#051
+Monsters have been=getting stronger and=stronger!~42~~00~#051
+;00026CCA{I-I can move again!=You saved us!~42~~00~}#041#035
+I-I can move again!=You saved us!~42~~00~#035
+;00026CED{Princess Rita: I wish=to meet Martin as=well. Please take me=to him... But keep it~42~^=a secret from Father.~42~~45~~00~}#121#109
+Princess Rita: I wish=to meet Martin as=well. Please take me=to him... But keep it~42~^=a secret from Father.~42~~45~~00~#109
+|1074
+@00026D5A-0002715A-00
+;00026D5A{Murobo: I guess I have=no reason to refuse.~42~~45~~00~}#055#046
+Murobo: I guess I have=no reason to refuse.~42~~45~~00~#046
+;00026D88{Princess Rita: Thank=you.~42~~00~}#033#027
+Princess Rita: Thank=you.~42~~00~#027
+;00026DA3{^Remi: I don´t care=about martial arts. I=think I´m going to=spend some time~42~^=reading magic books at=the castle´s library.~42~~00~}#134#125
+^Remi: I don´t care=about martial arts. I=think I´m going to=spend some time~42~^=reading magic books at=the castle´s library.~42~~00~#125
+;00026E20{Goddess: In this=region, there is a=tower built by the=Evil God that is~42~^=restraining my powers.=That is why the=Guiding Rabbit led you=here.~42~~45~~00~}#156#144
+Goddess: In this=region, there is a=tower built by the=Evil God that is~42~^=restraining my powers.=That is why the=Guiding Rabbit led you=here.~42~~45~~00~#144
+;00026EB0{At this rate, I won´t=be able to summon the=Hero from another=world. Head to the~42~^=castle{.,} the King will=tell you more about=this.~42~~00~}#144#132
+At this rate, I won´t=be able to summon the=Hero from another=world. Head to the~42~^=castle{.,} the King will=tell you more about=this.~42~~00~#132
+;00026F34{Murobo: Forgive me,=Goddess. We couldn´t=destroy the tower.~42~~45~~00~}#071#062
+Murobo: Forgive me,=Goddess. We couldn´t=destroy the tower.~42~~45~~00~#062
+;00026F72{Goddess: No need to=apologize. However, I=must ask you to keep=trying until you~42~^=succeed.~42~~45~~00~}#105#093
+Goddess: No need to=apologize. However, I=must ask you to keep=trying until you~42~^=succeed.~42~~45~~00~#093
+;00026FCF{The tower has already=reached the world of=the Gods... Take this=charm. It will allow~42~^=you to enter it as=well.~42~~45~~00~}#127#115
+The tower has already=reached the world of=the Gods... Take this=charm. It will allow~42~^=you to enter it as=well.~42~~45~~00~#115
+;00027042{^The party has obtained=the Goddess Charm.~42~~00~}#050#044
+^The party has obtained=the Goddess Charm.~42~~00~#044
+;0002706E{Murobo: O Goddess,=please combine your=power with this flower=and bring everyone~42~^=back to normal.~42~~45~~00~}#113#101
+Murobo: O Goddess,=please combine your=power with this flower=and bring everyone~42~^=back to normal.~42~~45~~00~#101
+;000270D3{Goddess: It shall be=done.~42~~00~}#034#028
+Goddess: It shall be=done.~42~~00~#028
+;000270EF{Murobo: Thank you, my=Goddess.~42~~00~}#038#032
+Murobo: Thank you, my=Goddess.~42~~00~#032
+;0002710F{Remi: Wow, this=library has some of=the best magic books!=This is so cool!~42~~00~}#082#076
+Remi: Wow, this=library has some of=the best magic books!=This is so cool!~42~~00~#076
+|1025
+@0002715B-000275C0-00
+;0002715B{Bostov: Remi!! Say=something!!~42~~45~~00~}#042#033
+Bostov: Remi!! Say=something!!~42~~45~~00~#033
+;0002717C{Remi: ......~42~~45~~00~}#024#015
+Remi: ......~42~~45~~00~#015
+;0002718B{Bostov: ARGH! Damn=those monsters!!~42~~45~~00~}#047#038
+Bostov: ARGH! Damn=those monsters!!~42~~45~~00~#038
+;000271B1{Rita: Murobo, read=this.~42~~45~~00~}#036#027
+Rita: Murobo, read=this.~42~~45~~00~#027
+;000271CC{Murobo: Let´s see...~42~=^Neutralizing Petrifi-=cation -- In order to=remove the effects of=a petrification~42~^spell, a [stone=flower], a plant that=grows in the desert,=is required.~42~^Hmm, I see...~42~~45~~00~}#213#195
+Murobo: Let´s see...~42~=^Neutralizing Petrifi-=cation -- In order to=remove the effects of=a petrification~42~^spell, a [stone=flower], a plant that=grows in the desert,=is required.~42~^Hmm, I see...~42~~45~~00~#195
+;0002728F{Murobo: Hang in there,=Remi! We´ll come back=with that stone flower=as fast as we can!~42~~00~}#094#088
+Murobo: Hang in there,=Remi! We´ll come back=with that stone flower=as fast as we can!~42~~00~#088
+;000272E7{Murobo: I´m glad to=see you´re okay,=Remi.~42~~45~~00~}#054#045
+Murobo: I´m glad to=see you´re okay,=Remi.~42~~45~~00~#045
+;00027314{Remi: Thank you. I=really owe you big=time.~42~~45~~00~}#055#046
+Remi: Thank you. I=really owe you big=time.~42~~45~~00~#046
+;00027342{Sylviee: Okay, I´ll=take the flower to the=Catfolk village,=*meow*.~42~~45~~00~}#079#070
+Sylviee: Okay, I´ll=take the flower to the=Catfolk village,=*meow*.~42~~45~~00~#070
+;00027388{Ryuquir: Take care,=Sylviee! Say hello to=everyone for me,=*meow*!~42~~00~}#074#068
+Ryuquir: Take care,=Sylviee! Say hello to=everyone for me,=*meow*!~42~~00~#068
+;000273CC{Gady, Servant of the=Evil God: You must be=the Goddess´s chosen=ones...~42~=You´re just the kind=of sacrifice we need=to complete the tower!~42~~00~}#148#139
+Gady, Servant of the=Evil God: You must be=the Goddess´s chosen=ones...~42~=You´re just the kind=of sacrifice we need=to complete the tower!~42~~00~#139
+;00027457{Gady, Servant of the=Evil God: Urgh...=T-The tower must not=fall now...~42~~45~~00~}#083#074
+Gady, Servant of the=Evil God: Urgh...=T-The tower must not=fall now...~42~~45~~00~#074
+;000274A1{Accept my life as a=sacrifice and grow!!~42~~45~~00~}#052#043
+Accept my life as a=sacrifice and grow!!~42~~45~~00~#043
+;000274CC{Gady, Servant of the=Evil God: AAAARGH!!~42~~00~}#048#042
+Gady, Servant of the=Evil God: AAAARGH!!~42~~00~#042
+;000274F6{Gady, Servant of the=Evil God: It is=done... Nobody can=stop the living tower!~42~~45~~00~}#090#081
+Gady, Servant of the=Evil God: It is=done... Nobody can=stop the living tower!~42~~45~~00~#081
+;00027547{It will keep growing=until it reaches the=world of the Gods=above Villgust...~42~^=Finally, our Evil God=will rule supreme!~42~~00~}#131#122
+It will keep growing=until it reaches the=world of the Gods=above Villgust...~42~^=Finally, our Evil God=will rule supreme!~42~~00~#122
+|1126
+@000275C1-000279E0-00
+;000275C1{This is Faulque, the=desert village. What=brings you here?~42~~00~}#066#060
+This is Faulque, the=desert village. What=brings you here?~42~~00~#060
+;000275FD{This is the only oasis=in the entire desert!~42~~00~}#052#046
+This is the only oasis=in the entire desert!~42~~00~#046
+;0002762B{The Desert Shrine is=north of our village.~42~~00~}#050#044
+The Desert Shrine is=north of our village.~42~~00~#044
+;00027657{The Desert Shrine is=full of quicksand. If=you´re not careful,=you´ll be swept away!~42~~00~}#092#086
+The Desert Shrine is=full of quicksand. If=you´re not careful,=you´ll be swept away!~42~~00~#086
+;000276AD{The stone flower=should be inside the=Desert Shrine.~42~^Remember: the flower=must be used in a=place under the=Goddess´s protection.~42~~00~}#141#132
+The stone flower=should be inside the=Desert Shrine.~42~^Remember: the flower=must be used in a=place under the=Goddess´s protection.~42~~00~#132
+;00027731{Urgh... The pain...!=That was no medi-=cine... It was poison!~42~~00~}#069#063
+Urgh... The pain...!=That was no medi-=cine... It was poison!~42~~00~#063
+;00027770{Whew! You saved us!~42~~00~}#027#021
+Whew! You saved us!~42~~00~#021
+;00027785{My gut tells me the=merchant wasn´t really=bad. He must have had=a reason for handing~42~^=out that stuff.~42~~00~}#114#105
+My gut tells me the=merchant wasn´t really=bad. He must have had=a reason for handing~42~^=out that stuff.~42~~00~#105
+;000277EE{If I ever see that=merchant again, I´ll=teach him a lesson=he´ll never forget!~42~~00~}#086#080
+If I ever see that=merchant again, I´ll=teach him a lesson=he´ll never forget!~42~~00~#080
+;0002783E{I thought I was gonna=die!~42~~00~}#034#028
+I thought I was gonna=die!~42~~00~#028
+;0002785A{Welcome to Holn,=*meow*!~42~~00~}#032#026
+Welcome to Holn,=*meow*!~42~~00~#026
+;00027874{The merchant selling=the Wonder Salve? He=left northward.~42~~00~}#065#059
+The merchant selling=the Wonder Salve? He=left northward.~42~~00~#059
+;000278AF{If there´s a lesson=I´ve learned, it´s=[Never drink a random=medicine just because~42~^=it´s free].~42~~00~}#107#098
+If there´s a lesson=I´ve learned, it´s=[Never drink a random=medicine just because~42~^=it´s free].~42~~00~#098
+;00027911{Yasiev: There you are,=Goddess´s champions!=Face the might of the=Yasiev Five!~42~~00~}#086#080
+Yasiev: There you are,=Goddess´s champions!=Face the might of the=Yasiev Five!~42~~00~#080
+;00027961{Merchant: Thank you=for everything.~42~~00~}#043#037
+Merchant: Thank you=for everything.~42~~00~#037
+;00027986{Merchant: Under=control or not, I´ve=still done something=wrong. I have to make~42~^=amends.~42~~00~}#100#091
+Merchant: Under=control or not, I´ve=still done something=wrong. I have to make~42~^=amends.~42~~00~#091
+|1056
+@000279E1-00027A80-00
+;000279E1{F-Forget about me,=*meow*... Please, save=my child...~42~~00~}#061#055
+F-Forget about me,=*meow*... Please, save=my child...~42~~00~#055
+;00027A18{M-Mommy... It hurts,=*meow*...~42~~00~}#038#032
+M-Mommy... It hurts,=*meow*...~42~~00~#032
+;00027A38{Ever since I drank=that weird medicine=the merchant gave me=-- Urgh...!~42~~00~}#079#073
+Ever since I drank=that weird medicine=the merchant gave me=-- Urgh...!~42~~00~#073
+|160
+@000280E0-0002851B-00
+;000280E0{I-It hurts...~42~~00~}#021#015
+I-It hurts...~42~~00~#015
+;000280EF{Thank you for saving=us, *meow*!~42~~00~}#040#034
+Thank you for saving=us, *meow*!~42~~00~#034
+;00028111{Murobo: What was that=medicine, really? Tell=me!!~42~~45~~00~}#061#052
+Murobo: What was that=medicine, really? Tell=me!!~42~~45~~00~#052
+;00028145{Merchant: Shut up!~42~~00~}#026#020
+Merchant: Shut up!~42~~00~#020
+;00028159{Merchant: W-Where...?=What am I doing here?~42~~45~~00~}#055#046
+Merchant: W-Where...?=What am I doing here?~42~~45~~00~#046
+;00028187{Murobo: Hmm... It=appears he was being=controlled by someone.~42~~45~~00~}#073#064
+Murobo: Hmm... It=appears he was being=controlled by someone.~42~~45~~00~#064
+;000281C7{Merchant: I was=peddling my wares when=I approached this=mountain...~42~~45~~00~}#080#071
+Merchant: I was=peddling my wares when=I approached this=mountain...~42~~45~~00~#071
+;0002820E{I was attacked by some=kind of plant monster=and... That´s all I=remember.~42~~45~~00~}#086#077
+I was attacked by some=kind of plant monster=and... That´s all I=remember.~42~~45~~00~#077
+;0002825B{Murobo: It´s clear=that this mountain is=hiding something.~42~~45~~00~}#070#061
+Murobo: It´s clear=that this mountain is=hiding something.~42~~45~~00~#061
+;00028298{Merchant: Under=control or not, I´m=terribly sorry for=attacking you. Allow~42~^=me to heal your=injuries with my=medicines... The real=ones!~42~~00~}#149#140
+Merchant: Under=control or not, I´m=terribly sorry for=attacking you. Allow~42~^=me to heal your=injuries with my=medicines... The real=ones!~42~~00~#140
+;00028324{^The party´s health was=restored!~42~~00~}#041#035
+^The party´s health was=restored!~42~~00~#035
+;00028347{Merchant: I shall take=my leave now.=Farewell.~42~~00~}#054#048
+Merchant: I shall take=my leave now.=Farewell.~42~~00~#048
+;00028377{Murobo: You´re behind=this, aren´t you?=You´ve been spreading=some weird medicine~42~^=around that turns=people into plants.~42~~45~~00~}#136#124
+Murobo: You´re behind=this, aren´t you?=You´ve been spreading=some weird medicine~42~^=around that turns=people into plants.~42~~45~~00~#124
+;000283F3{Flower Ghost: Indeed!=I was brought to life=by the grudge of every=plant that has been~42~^=destroyed for the=benefit of you fleshy=creatures.~42~~45~~00~}#154#142
+Flower Ghost: Indeed!=I was brought to life=by the grudge of every=plant that has been~42~^=destroyed for the=benefit of you fleshy=creatures.~42~~45~~00~#142
+;00028481{And now, with the=power of the Evil God,=I can get my revenge!~42~~45~~00~}#074#065
+And now, with the=power of the Evil God,=I can get my revenge!~42~~45~~00~#065
+;000284C2{Remi: ...I do=sympathize, but why=side with the Evil=God? There must be a~42~^=better way.~42~~45~~00~}#102#090
+Remi: ...I do=sympathize, but why=side with the Evil=God? There must be a~42~^=better way.~42~~45~~00~#090
+|1084
+@0002851C-00028923-00
+;0002851C{Flower Ghost: The time=for talking is over.=Perish!~42~~00~}#059#053
+Flower Ghost: The time=for talking is over.=Perish!~42~~00~#053
+;00028551{Flower Ghost: And so=it ends, with our=grudge left unful-=filled...~42~~00~}#075#069
+Flower Ghost: And so=it ends, with our=grudge left unful-=filled...~42~~00~#069
+;00028596{Merchant: I can use=this monster´s body to=create an antidote!~42~~00~}#070#064
+Merchant: I can use=this monster´s body to=create an antidote!~42~~00~#064
+;000285D6{This is the town of=Camus. The Evil God=watches over us.~42~~00~}#064#058
+This is the town of=Camus. The Evil God=watches over us.~42~~00~#058
+;00028610{We´re recruiting=soldiers to fight=against the Goddess.~42~~00~}#063#057
+We´re recruiting=soldiers to fight=against the Goddess.~42~~00~#057
+;00028649{If you take the=eastern exit, you´ll=find the Shrine of the=Evil God.~42~~00~}#077#071
+If you take the=eastern exit, you´ll=find the Shrine of the=Evil God.~42~~00~#071
+;00028690{Move it, you jerks!=You´re ruining our=date!~42~~00~}#052#046
+Move it, you jerks!=You´re ruining our=date!~42~~00~#046
+;000286BE{Ahh! Why did you talk=to me?! Oh man, I got=it all over my foot...~42~~00~}#074#068
+Ahh! Why did you talk=to me?! Oh man, I got=it all over my foot...~42~~00~#068
+;00028702{The Evil God protects=us from monsters.~42~~00~}#047#041
+The Evil God protects=us from monsters.~42~~00~#041
+;0002872B{Mayor: There is a=shrine dedicated to=the Evil God east of=our village. You~42~^=should go there and=pay your respects.~42~~00~}#127#118
+Mayor: There is a=shrine dedicated to=the Evil God east of=our village. You~42~^=should go there and=pay your respects.~42~~00~#118
+;000287A1{Ohh, you sure are well=equipped! Would you=like to join our fight=against the Goddess?~42~~00~}#094#088
+Ohh, you sure are well=equipped! Would you=like to join our fight=against the Goddess?~42~~00~#088
+;000287F9{This is the town of=Camus. The Goddess=watches over us.~42~~00~}#063#057
+This is the town of=Camus. The Goddess=watches over us.~42~~00~#057
+;00028832{I had no idea you were=the Goddess´s chosen=ones...~42~~00~}#059#053
+I had no idea you were=the Goddess´s chosen=ones...~42~~00~#053
+;00028867{I don´t like the Evil=God anymore. Now I=worship the Goddess.~42~~00~}#069#063
+I don´t like the Evil=God anymore. Now I=worship the Goddess.~42~~00~#063
+;000288A6{You were able to=dispatch the founder=of the Sect of the=Evil God... You~42~^=champions of the=Goddess are really=formidable...~42~~00~}#135#126
+You were able to=dispatch the founder=of the Sect of the=Evil God... You~42~^=champions of the=Goddess are really=formidable...~42~~00~#126
+|1032
+@00028924-00028D26-00
+;00028924{Mayor: We´ve decided=to entrust our future=to the Goddess.~42~~00~}#066#060
+Mayor: We´ve decided=to entrust our future=to the Goddess.~42~~00~#060
+;00028960{LEAVE! I do not want=to see you ever=again!!~42~~00~}#052#046
+LEAVE! I do not want=to see you ever=again!!~42~~00~#046
+;0002898E{Butler: Welcome to our=humble temple. Allow=me to show you our=hospitality.~42~~00~}#083#077
+Butler: Welcome to our=humble temple. Allow=me to show you our=hospitality.~42~~00~#077
+;000289DB{You came at the=perfect time. We have=just received a=magician´s robe of the~42~^=highest quality. Would=you accept this gift?~42~~45~~00~}#138#126
+You came at the=perfect time. We have=just received a=magician´s robe of the~42~^=highest quality. Would=you accept this gift?~42~~45~~00~#126
+;00028A59{Remi: Can I try it? I=want to see if it´s my=size.~42~~45~~00~}#062#053
+Remi: Can I try it? I=want to see if it´s my=size.~42~~45~~00~#053
+;00028A8E{Butler: Of course, of=course!~42~^I´m sure it will fit a=lovely lady such as=yourself quite well.~42~~45~~00~}#109#097
+Butler: Of course, of=course!~42~^I´m sure it will fit a=lovely lady such as=yourself quite well.~42~~45~~00~#097
+;00028AEF{Remi: Oh, you flatter.=Okay, let me put it=on...~42~~45~~00~}#060#051
+Remi: Oh, you flatter.=Okay, let me put it=on...~42~~45~~00~#051
+;00028B22{^Remi equips the=strongest magician´s=armor, the Magical=Robe!~42~~45~~00~}#074#065
+^Remi equips the=strongest magician´s=armor, the Magical=Robe!~42~~45~~00~#065
+;00028B63{Butler: Heheheheh...~42~~00~}#028#022
+Butler: Heheheheh...~42~~00~#022
+;00028B79{Remi: I am Remi,=Servant of the Evil=God. He is the only=true God.~42~~00~}#074#068
+Remi: I am Remi,=Servant of the Evil=God. He is the only=true God.~42~~00~#068
+;00028BBD{Bostov: W-What the=heck was that?! What´s=wrong with Remi?!~42~~45~~00~}#071#062
+Bostov: W-What the=heck was that?! What´s=wrong with Remi?!~42~~45~~00~#062
+;00028BFB{Murobo: I fear that=robe is to blame.~42~^It must have taken=control over Remi´s=heart.~42~~45~~00~}#099#087
+Murobo: I fear that=robe is to blame.~42~^It must have taken=control over Remi´s=heart.~42~~45~~00~#087
+;00028C52{Rita: We have to do=something!~42~~45~~00~}#042#033
+Rita: We have to do=something!~42~~45~~00~#033
+;00028C73{Murobo: Someone in=here must know how to=break the curse. Let´s=take a look around.~42~~00~}#091#085
+Murobo: Someone in=here must know how to=break the curse. Let´s=take a look around.~42~~00~#085
+;00028CC8{This is where we=recruit soldiers.=Before you join, we=must test where your~42~^=loyalties lie.~42~~45~~00~}#107#095
+This is where we=recruit soldiers.=Before you join, we=must test where your~42~^=loyalties lie.~42~~45~~00~#095
+|1027
+@00028D27-00029130-00
+;00028D27{See this sculpture of=the Goddess on the=floor? You must=trample all over it.~42~~45~~00~}#089#080
+See this sculpture of=the Goddess on the=floor? You must=trample all over it.~42~~45~~00~#080
+;00028D77{Bostov: Oh man...=Could you really do=something like that,=Murobo...?~42~~45~~00~}#081#072
+Bostov: Oh man...=Could you really do=something like that,=Murobo...?~42~~45~~00~#072
+;00028DBF{Murobo: Urgh...~42~~00~}#023#017
+Murobo: Urgh...~42~~00~#017
+;00028DD0{Examiner: What´s the=holdup?~42~~45~~00~}#040#031
+Examiner: What´s the=holdup?~42~~45~~00~#031
+;00028DEF{Murobo: Have we been=found out already...?!~42~~45~~00~}#055#046
+Murobo: Have we been=found out already...?!~42~~45~~00~#046
+;00028E1D{Examiner: Wait...=Murobo? Is that you?~42~~00~}#046#040
+Examiner: Wait...=Murobo? Is that you?~42~~00~#040
+;00028E45{Murobo: Hash?! Don´t=tell me you also sold=your soul to the Evil=God?!~42~~45~~00~}#082#073
+Murobo: Hash?! Don´t=tell me you also sold=your soul to the Evil=God?!~42~~45~~00~#073
+;00028E8E{Hash: No way! I=wouldn´t sell the only=soul I have!~42~^I´m just in it for the=money! Hahah!~42~~45~~00~}#104#092
+Hash: No way! I=wouldn´t sell the only=soul I have!~42~^I´m just in it for the=money! Hahah!~42~~45~~00~#092
+;00028EEA{Murobo: This is no=laughing matter!~42~~00~}#043#037
+Murobo: This is no=laughing matter!~42~~00~#037
+;00028F0F{Murobo: We need your=help, in the name of=our old friendship.=One of our comrades~42~^=was cursed by an evil=robe.~42~~45~~00~}#126#114
+Murobo: We need your=help, in the name of=our old friendship.=One of our comrades~42~^=was cursed by an evil=robe.~42~~45~~00~#114
+;00028F81{Tell me, is there a=way to break the=curse?~42~~45~~00~}#055#046
+Tell me, is there a=way to break the=curse?~42~~45~~00~#046
+;00028FAF{Hash: ......~42~~45~~00~}#024#015
+Hash: ......~42~~45~~00~#015
+;00028FBE{Hash: The only way to=remove the dress is=using the Holy Water=from the basement.~42~~45~~00~}#093#084
+Hash: The only way to=remove the dress is=using the Holy Water=from the basement.~42~~45~~00~#084
+;00029012{Murobo: Thank you. I=really appreciate it.~42~~45~~00~}#054#045
+Murobo: Thank you. I=really appreciate it.~42~~45~~00~#045
+;0002903F{Hash: Promise me this,=Murobo. Once you get=what you need, leave=at once. I´d really~42~^=rather not have to=fight you.~42~~45~~00~}#131#119
+Hash: Promise me this,=Murobo. Once you get=what you need, leave=at once. I´d really~42~^=rather not have to=fight you.~42~~45~~00~#119
+;000290B6{Murobo: ...I under-=stand.~42~~00~}#034#028
+Murobo: ...I under-=stand.~42~~00~#028
+;000290D2{Well?~42~~00~}#013#007
+Well?~42~~00~#007
+;000290D9{Evil Priest: What have=we here? The Goddess´s=chosen ones, snooping=around like rats?~42~~45~~00~}#097#088
+Evil Priest: What have=we here? The Goddess´s=chosen ones, snooping=around like rats?~42~~45~~00~#088
+|1034
+@00029131-00029566-00
+;00029131{Murobo: ...So you=knew.~42~~45~~00~}#035#026
+Murobo: ...So you=knew.~42~~45~~00~#026
+;0002914B{Evil Priest: Of course=I did. This was all=part of my plan! And=now, you will be~42~^=killed by your old=friend and your former=comrade. Do it!!~42~~00~}#152#143
+Evil Priest: Of course=I did. This was all=part of my plan! And=now, you will be~42~^=killed by your old=friend and your former=comrade. Do it!!~42~~00~#143
+;000291DA{Remi: Yes, Priest.~42~~00~}#026#020
+Remi: Yes, Priest.~42~~00~#020
+;000291EE{Hash: Understood.~42~~45~~00~}#029#020
+Hash: Understood.~42~~45~~00~#020
+;00029202{Murobo: What have you=done to Hash?!~42~~45~~00~}#048#039
+Murobo: What have you=done to Hash?!~42~~45~~00~#039
+;00029229{Evil Priest: What=else? I´ve taken=control of his heart.~42~~45~~00~}#068#059
+Evil Priest: What=else? I´ve taken=control of his heart.~42~~45~~00~#059
+;00029264{Murobo: Darn it... We=must defend ourselves!~42~~00~}#052#046
+Murobo: Darn it... We=must defend ourselves!~42~~00~#046
+;00029292{Remi: Huh? What=happened?~42~~45~~00~}#037#028
+Remi: Huh? What=happened?~42~~45~~00~#028
+;000292AE{Bostov: Looks like=she´s back to=normal...~42~~00~}#050#044
+Bostov: Looks like=she´s back to=normal...~42~~00~#044
+;000292DA{Hash: Urgh... Argh...!~42~~45~~00~}#034#025
+Hash: Urgh... Argh...!~42~~45~~00~#025
+;000292F3{Murobo: Hang in there!~42~~00~}#030#024
+Murobo: Hang in there!~42~~00~#024
+;0002930B{Murobo: Are you back=to yourself?~42~~45~~00~}#045#036
+Murobo: Are you back=to yourself?~42~~45~~00~#036
+;0002932F{Hash: You´re stronger=than I remember... Is=that the power of the=Goddess?~42~~45~~00~}#086#077
+Hash: You´re stronger=than I remember... Is=that the power of the=Goddess?~42~~45~~00~#077
+;0002937C{Murobo: Maybe. Why=don´t you become one=of Her champions and=find out for yourself?~42~~45~~00~}#095#086
+Murobo: Maybe. Why=don´t you become one=of Her champions and=find out for yourself?~42~~45~~00~#086
+;000293D2{Hash: No can do,=Murobo. Fighting for=justice or whatever=just ain´t my thing.~42~~45~~00~}#090#081
+Hash: No can do,=Murobo. Fighting for=justice or whatever=just ain´t my thing.~42~~45~~00~#081
+;00029423{Murobo: I see. At=least promise me not=to work for the Evil=God again.~42~~45~~00~}#082#073
+Murobo: I see. At=least promise me not=to work for the Evil=God again.~42~~45~~00~#073
+;0002946C{Hash: That I can do.=I´d REALLY rather not=have to fight you=again.~42~~45~~00~}#079#070
+Hash: That I can do.=I´d REALLY rather not=have to fight you=again.~42~~45~~00~#070
+;000294B2{By the way... Bostov,=was it? You must=really like that Remi=girl, huh?~42~~45~~00~}#083#074
+By the way... Bostov,=was it? You must=really like that Remi=girl, huh?~42~~45~~00~#074
+;000294FC{Bostov: W-What do you=mean?~42~~45~~00~}#039#030
+Bostov: W-What do you=mean?~42~~45~~00~#030
+;0002951A{Hash: That item you=used? It can only=break curses with the=power of love.~42~~45~~00~}#086#077
+Hash: That item you=used? It can only=break curses with the=power of love.~42~~45~~00~#077
+|1078
+@00029567-00029978-00
+;00029567{Remi: Say WHAT?!~42~~45~~00~}#028#019
+Remi: Say WHAT?!~42~~45~~00~#019
+;0002957A{Bostov: I-I have no=idea what he´s talking=about!~42~~45~~00~}#061#052
+Bostov: I-I have no=idea what he´s talking=about!~42~~45~~00~#052
+;000295AE{Murobo: So you say.=But your face looks=mighty red from where=I´m standing.~42~~45~~00~}#087#078
+Murobo: So you say.=But your face looks=mighty red from where=I´m standing.~42~~45~~00~#078
+;000295FC{Bostov: T-That´s=´cause... I, uhhh...~42~~45~~00~}#049#040
+Bostov: T-That´s=´cause... I, uhhh...~42~~45~~00~#040
+;00029624{Ryuquir: Remi´s gotten=all red too, *meow*!~42~~45~~00~}#055#046
+Ryuquir: Remi´s gotten=all red too, *meow*!~42~~45~~00~#046
+;00029652{Remi: R-Ryuquir!!~42~~00~}#025#019
+Remi: R-Ryuquir!!~42~~00~#019
+;00029665{Hash: See ya, Murobo!=Don´t you die on me,=you hear?~42~~45~~00~}#064#055
+Hash: See ya, Murobo!=Don´t you die on me,=you hear?~42~~45~~00~#055
+;0002969C{Murobo: Right back at=you!~42~~00~}#034#028
+Murobo: Right back at=you!~42~~00~#028
+;000296B8{I heard the ships in=Nartha are built with=some kind of extraor-=dinary wood.~42~~00~}#085#079
+I heard the ships in=Nartha are built with=some kind of extraor-=dinary wood.~42~~00~#079
+;00029707{Village Head: If you=need a ship, you=should go to Nartha.~42~~00~}#066#060
+Village Head: If you=need a ship, you=should go to Nartha.~42~~00~#060
+;00029743{Are you going to=Nartha? Just head=southward from our=village.~42~~00~}#070#064
+Are you going to=Nartha? Just head=southward from our=village.~42~~00~#064
+;00029783{Welcome to Luverio! As=you can see, it´s a=quiet and peaceful=village.~42~~00~}#078#072
+Welcome to Luverio! As=you can see, it´s a=quiet and peaceful=village.~42~~00~#072
+;000297CB{If you cross the sea=northwest, you´ll=reach a mountain with=the entrance to the~42~^=World of the Gods.~42~~00~}#112#103
+If you cross the sea=northwest, you´ll=reach a mountain with=the entrance to the~42~^=World of the Gods.~42~~00~#103
+;00029832{There is a certain=town called Camus deep=in the mountains.=Apparently, they~42~^=worship the Evil God=there...~42~~00~}#119#110
+There is a certain=town called Camus deep=in the mountains.=Apparently, they~42~^=worship the Evil God=there...~42~~00~#110
+;000298A0{It seems the people of=Camus stopped=worshiping the Evil=God. I wonder what~42~^=happened?~42~~00~}#098#089
+It seems the people of=Camus stopped=worshiping the Evil=God. I wonder what~42~^=happened?~42~~00~#089
+;000298F9{Mayor: Sorry, my ship=is too damaged to=sail.~42~~00~}#053#047
+Mayor: Sorry, my ship=is too damaged to=sail.~42~~00~#047
+;00029928{Mayor: My ship is too=damaged to sail right=now, but there is a=way to fix it.~42~~45~~00~}#090#081
+Mayor: My ship is too=damaged to sail right=now, but there is a=way to fix it.~42~~45~~00~#081
+|1042
+@00029979-00029A83-00
+;00029979{We need wood from the=Evergrowing Tree that=grows near the=magician´s house in~42~^=the eastern part of=this region. If we had=that, we could easily=repair the ship.~42~~00~}#173#164
+We need wood from the=Evergrowing Tree that=grows near the=magician´s house in~42~^=the eastern part of=this region. If we had=that, we could easily=repair the ship.~42~~00~#164
+;00029A1D{Murobo: Is this the=wood you´re looking=for, Mr. Mayor?~42~~45~~00~}#067#058
+Murobo: Is this the=wood you´re looking=for, Mr. Mayor?~42~~45~~00~#058
+;00029A57{Mayor: It is! We´ll=get started right=away.~42~~00~}#051#045
+Mayor: It is! We´ll=get started right=away.~42~~00~#045
+|267
+@0002A0B2-0002A4CD-00
+;0002A0B2{Mayor: The ship has=been repaired.~42~~00~}#042#036
+Mayor: The ship has=been repaired.~42~~00~#036
+;0002A0D6{Our mayor owns a ship.~42~~00~}#030#024
+Our mayor owns a ship.~42~~00~#024
+;0002A0EE{Our town is famous for=its tasty fish.~42~~45~~00~}#050#041
+Our town is famous for=its tasty fish.~42~~45~~00~#041
+;0002A117{Ryuquir: Fish? Fish! I=love fish!! *purrr*~42~~00~}#050#044
+Ryuquir: Fish? Fish! I=love fish!! *purrr*~42~~00~#044
+;0002A143{Ten years ago, a=meteor fell over the=magician´s house, to=the east.~42~~00~}#076#070
+Ten years ago, a=meteor fell over the=magician´s house, to=the east.~42~~00~#070
+;0002A189{Good luck in your=quest, O brave=champions of the=Goddess.~42~~00~}#066#060
+Good luck in your=quest, O brave=champions of the=Goddess.~42~~00~#060
+;0002A1C5{This is Nartha, the=southern town.~42~~00~}#042#036
+This is Nartha, the=southern town.~42~~00~#036
+;0002A1E9{I´ve heard stories=about how a certain=magician left a cat in=the care of a golem.~42~~00~}#090#084
+I´ve heard stories=about how a certain=magician left a cat in=the care of a golem.~42~~00~#084
+;0002A23D{Wow! It´s the=Goddess´s champions!=So cool!~42~~00~}#051#045
+Wow! It´s the=Goddess´s champions!=So cool!~42~~00~#045
+;0002A26A{My husband is a=fisherman.~42~^I´m always worried he=might be attacked by=monsters...~42~~00~}#093#084
+My husband is a=fisherman.~42~^I´m always worried he=might be attacked by=monsters...~42~~00~#084
+;0002A2BE{Across the sea, there=is a small island with=a very wise old man=who looks a lot like~42~^=me. If you´re ever in=need of knowledge, you=should pay him a=visit.~42~~00~}#167#158
+Across the sea, there=is a small island with=a very wise old man=who looks a lot like~42~^=me. If you´re ever in=need of knowledge, you=should pay him a=visit.~42~~00~#158
+;0002A35C{Ghost: I am the=daughter of the=magician from the=stories... I beg of~42~^=you... Bring some fish=to our cat...~42~~00~}#119#110
+Ghost: I am the=daughter of the=magician from the=stories... I beg of~42~^=you... Bring some fish=to our cat...~42~~00~#110
+;0002A3CA{Golem: ......~42~~00~}#021#015
+Golem: ......~42~~00~#015
+;0002A3D9{Ghost: Before I died,=I asked our Golem to=bring some fish to our=cat... It´s been~42~^=trying to follow my=order ever since.~42~~45~~00~}#137#125
+Ghost: Before I died,=I asked our Golem to=bring some fish to our=cat... It´s been~42~^=trying to follow my=order ever since.~42~~45~~00~#125
+;0002A456{Now it can finally=rest in peace. Thank=you.~42~~45~~00~}#056#047
+Now it can finally=rest in peace. Thank=you.~42~~45~~00~#047
+;0002A485{This is the wood you=were seeking. Take it=as a token of my=gratitude.~42~~45~~00~}#082#073
+This is the wood you=were seeking. Take it=as a token of my=gratitude.~42~~45~~00~#073
+|1052
+@0002A4CE-0002A8E0-00
+;0002A4CE{^The party obtained the=Evergrowing Wood!~42~~00~}#049#043
+^The party obtained the=Evergrowing Wood!~42~~00~#043
+;0002A4F9{Wise Man: The entrance=to the World of the=Gods is at the center=of this archipelago.~42~~45~~00~}#097#088
+Wise Man: The entrance=to the World of the=Gods is at the center=of this archipelago.~42~~45~~00~#088
+;0002A551{However, you will need=a magical item capable=of controlling the=currents to reach it:~42~^=the Current Staff.~42~~45~~00~}#122#110
+However, you will need=a magical item capable=of controlling the=currents to reach it:~42~^=the Current Staff.~42~~45~~00~#110
+;0002A5BF{It is said that the=staff is currently in=the hands of a group=of pirates who have~42~^=made their hideout on=the island up north.~42~~00~}#138#129
+It is said that the=staff is currently in=the hands of a group=of pirates who have~42~^=made their hideout on=the island up north.~42~~00~#129
+;0002A640{Pirate: Huh? Who be=ye?!~42~~45~~00~}#036#027
+Pirate: Huh? Who be=ye?!~42~~45~~00~#027
+;0002A65B{Murobo: We´re the=Goddess´s chosen ones!=You have something we=need, the Current~42~^=Staff, and we´re here=to take it!~42~~45~~00~}#131#119
+Murobo: We´re the=Goddess´s chosen ones!=You have something we=need, the Current~42~^=Staff, and we´re here=to take it!~42~~45~~00~#119
+;0002A6D2{Pirate: Pickin´ a=fight wit´ pirates?=Either ye´re brave or=jes´ plain dumb. Let´s~42~^=teach this shark bait=a lesson!~42~~00~}#127#118
+Pirate: Pickin´ a=fight wit´ pirates?=Either ye´re brave or=jes´ plain dumb. Let´s~42~^=teach this shark bait=a lesson!~42~~00~#118
+;0002A748{Pirate: Ye´re pretty=good! We can trust ye=wit´ th´ Current=Staff.~42~~45~~00~}#078#069
+Pirate: Ye´re pretty=good! We can trust ye=wit´ th´ Current=Staff.~42~~45~~00~#069
+;0002A78D{Murobo: Hm? What´s the=meaning of this?~42~~45~~00~}#051#042
+Murobo: Hm? What´s the=meaning of this?~42~~45~~00~#042
+;0002A7B7{Th´ Goddess ´erself=gave us th´ Staff.=Said we should only=give it t´ someone~42~^=stronger than us. Come=on, take it already.~42~~45~~00~}#138#126
+Th´ Goddess ´erself=gave us th´ Staff.=Said we should only=give it t´ someone~42~^=stronger than us. Come=on, take it already.~42~~45~~00~#126
+;0002A835{^The party obtained the=Current Staff!~42~~00~}#046#040
+^The party obtained the=Current Staff!~42~~00~#040
+;0002A85D{Pirate: Make th´=Goddess proud, would=ye?~42~~00~}#049#043
+Pirate: Make th´=Goddess proud, would=ye?~42~~00~#043
+;0002A888{~47~Goddess: A terrible=threat is coming to=our world of Villgust.=                      ^~45~~00~}#098#089
+~47~Goddess: A terrible=threat is coming to=our world of Villgust.=                      ^~45~~00~#089
+|1043
+@0002A8E1-0002AD0C-00
+;0002A8E1{~47~Goddess: An evil god=has awakened,         =             ^and due to his=influence,            =             ^evil creatures are=spreading all over.=                      =         ^~00~}#190#184
+~47~Goddess: An evil god=has awakened,         =             ^and due to his=influence,            =             ^evil creatures are=spreading all over.=                      =         ^~00~#184
+;0002A999{~47~Goddess: In order to=save Villgust,        =              ^I must summon a Hero=from another world.   =                      =           ^~00~}#146#140
+~47~Goddess: In order to=save Villgust,        =              ^I must summon a Hero=from another world.   =                      =           ^~00~#140
+;0002AA25{~47~Goddess: However, they=alone will not be=enough.               =           ^~45~~00~}#088#079
+~47~Goddess: However, they=alone will not be=enough.               =           ^~45~~00~#079
+;0002AA74{~47~Goddess: They must be=assisted...           =             ^...by like-minded=individuals from=Villgust.            =                     ^~45~~00~}#150#141
+~47~Goddess: They must be=assisted...           =             ^...by like-minded=individuals from=Villgust.            =                     ^~45~~00~#141
+;0002AB01{~47~Goddess: Warrior=Murobo, your task is=to find these champ-=ions. I wish you luck.~42~^~00~}#094#085
+~47~Goddess: Warrior=Murobo, your task is=to find these champ-=ions. I wish you luck.~42~^~00~#085
+;0002AB56{Murobo: You´re pretty=good.~42~^=Ryuquir: Of course we=are! We Catfolk are=all warriors, *meow*!~42~~45~^~00~}#109#097
+Murobo: You´re pretty=good.~42~^=Ryuquir: Of course we=are! We Catfolk are=all warriors, *meow*!~42~~45~^~00~#097
+;0002ABB7{Murobo: Together we=will bring peace back=to our world, for the=sake of our Goddess!~42~~45~^~00~}#097#088
+Murobo: Together we=will bring peace back=to our world, for the=sake of our Goddess!~42~~45~^~00~#088
+;0002AC0F{Ryuquir: Are you=coming too, Sylviee?~42~^=Sylviee: Yup. I´ll tag=along since you´re=going, *meow*.~42~~00~}#107#098
+Ryuquir: Are you=coming too, Sylviee?~42~^=Sylviee: Yup. I´ll tag=along since you´re=going, *meow*.~42~~00~#098
+;0002AC71{Murobo: You are=clearly talented,=Remi. Would you like=to join us in our~42~^=quest? We are fighting=for the sake of our=Goddess in order to=save Villgust.~42~~45~^~00~}#168#156
+Murobo: You are=clearly talented,=Remi. Would you like=to join us in our~42~^=quest? We are fighting=for the sake of our=Goddess in order to=save Villgust.~42~~45~^~00~#156
+|1068
+@0002AD0D-0002B118-00
+;0002AD0D{Remi: Actually, it was=Her voice that guided=me here. She must have=wanted me to meet you.~42~~45~^~00~}#103#094
+Remi: Actually, it was=Her voice that guided=me here. She must have=wanted me to meet you.~42~~45~^~00~#094
+;0002AD6B{Murobo: I am Murobo,=Champion of the=Goddess!~42~~45~^~00~}#058#049
+Murobo: I am Murobo,=Champion of the=Goddess!~42~~45~^~00~#049
+;0002AD9C{Ryuquir: Name´s=Ryuquir! I´m here=´cause I was bored,=*meow*!~42~~45~^~00~}#074#065
+Ryuquir: Name´s=Ryuquir! I´m here=´cause I was bored,=*meow*!~42~~45~^~00~#065
+;0002ADDD{Sylviee: Don´t say=that, Ryuquir! Anyway,=I´m Sylviee, *meow*!=Ryuquir and I decided~42~^=to follow Murobo to=save our world.~42~~45~^~00~}#138#126
+Sylviee: Don´t say=that, Ryuquir! Anyway,=I´m Sylviee, *meow*!=Ryuquir and I decided~42~^=to follow Murobo to=save our world.~42~~45~^~00~#126
+;0002AE5B{Remi: It´s a pleasure=to meet you.~42~=Now let me get out of=this stuffy soldier=outfit...~42~~45~~00~}#102#090
+Remi: It´s a pleasure=to meet you.~42~=Now let me get out of=this stuffy soldier=outfit...~42~~45~~00~#090
+;0002AEB5{Murobo: Let us deal=with these monsters=and proceed with our=quest.~42~^~00~}#076#070
+Murobo: Let us deal=with these monsters=and proceed with our=quest.~42~^~00~#070
+;0002AEFB{Murobo: I think he´s=telling the truth.~42~~45~^~00~}#052#043
+Murobo: I think he´s=telling the truth.~42~~45~^~00~#043
+;0002AF26{Bostov: Of course I=am! It´s Mr. Moneybags=who´s behind this, I´m=telling you!~42~~45~^~00~}#091#082
+Bostov: Of course I=am! It´s Mr. Moneybags=who´s behind this, I´m=telling you!~42~~45~^~00~#082
+;0002AF78{Ryuquir: What makes=you say so, *meow*?~42~~45~^~00~}#052#043
+Ryuquir: What makes=you say so, *meow*?~42~~45~^~00~#043
+;0002AFA3{Bostov: He´s always=had his eyes on that=vase for some reason.~42~~45~^~00~}#075#066
+Bostov: He´s always=had his eyes on that=vase for some reason.~42~~45~^~00~#066
+;0002AFE5{Murobo: This begs=further investigation.~42~~45~^~00~}#053#044
+Murobo: This begs=further investigation.~42~~45~^~00~#044
+;0002B011{Bostov: I´m tagging=along! It´s a question=of honor now!~42~=Remi: Yes, I´m sure a=thief´s honor amounts=to much.~42~=Bostov: Oh, stuff it!~42~~45~^~00~}#152#137
+Bostov: I´m tagging=along! It´s a question=of honor now!~42~=Remi: Yes, I´m sure a=thief´s honor amounts=to much.~42~=Bostov: Oh, stuff it!~42~~45~^~00~#137
+;0002B09A{Murobo: At any rate,=we´re going back to=the village. Let´s go,=Bostov!~42~~45~^~00~}#084#075
+Murobo: At any rate,=we´re going back to=the village. Let´s go,=Bostov!~42~~45~^~00~#075
+;0002B0E5{Bostov: We can use the=shortcut behind me.=C´mon!~42~^~00~}#058#052
+Bostov: We can use the=shortcut behind me.=C´mon!~42~^~00~#052
+|1036
+@0002B119-0002B592-00
+;0002B119{Ax, Servant of the=Evil God: O Evil God!=Grant me the power to=turn Pespa and its~42~^=people to stone!~42~~00~}#111#102
+Ax, Servant of the=Evil God: O Evil God!=Grant me the power to=turn Pespa and its~42~^=people to stone!~42~~00~#102
+;0002B17F{Ax, Servant of the=Evil God: O Evil God!=Grant me the power to=turn the Catfolk~42~^=village and its people=to stone!~42~~00~}#125#116
+Ax, Servant of the=Evil God: O Evil God!=Grant me the power to=turn the Catfolk~42~^=village and its people=to stone!~42~~00~#116
+;0002B1F3{Bostov: Ah!!~42~^=Murobo: What´s wrong,=Bostov?~42~~45~^~00~}#060#048
+Bostov: Ah!!~42~^=Murobo: What´s wrong,=Bostov?~42~~45~^~00~#048
+;0002B223{Bostov: W-We´re taking=on water!!~42~~45~^~00~}#046#037
+Bostov: W-We´re taking=on water!!~42~~45~^~00~#037
+;0002B248{Murobo: What?! I=thought the ship had=been fixed!~42~~00~}#057#051
+Murobo: What?! I=thought the ship had=been fixed!~42~~00~#051
+;0002B27B{Murobo: Where are we?~42~^On your feet,=comrades! We´re=stranded on a desert=island!~42~~00~}#092#083
+Murobo: Where are we?~42~^On your feet,=comrades! We´re=stranded on a desert=island!~42~~00~#083
+;0002B2CE{^The shrine is=protected by a=powerful barrier.~42~~00~}#055#049
+^The shrine is=protected by a=powerful barrier.~42~~00~#049
+;0002B2FF{Murobo: This must be=the tower´s true=essence! Once we=defeat it, the tower~42~^=shall fall with it!~42~~45~~00~}#112#100
+Murobo: This must be=the tower´s true=essence! Once we=defeat it, the tower~42~^=shall fall with it!~42~~45~~00~#100
+;0002B363{Bostov: I hear you!~42~=Remi: Got it!~42~=Ryuquir: This big=lizard´s got nothing=on us, *hiss*!~42~~45~~00~}#107#092
+Bostov: I hear you!~42~=Remi: Got it!~42~=Ryuquir: This big=lizard´s got nothing=on us, *hiss*!~42~~45~~00~#092
+;0002B3BF{Rita: Once we defeat=this monster, the Hero=will finally come to=save our world!~42~~45~~00~}#092#083
+Rita: Once we defeat=this monster, the Hero=will finally come to=save our world!~42~~45~~00~#083
+;0002B412{Murobo: To arms, my=friends!!~42~~00~}#037#031
+Murobo: To arms, my=friends!!~42~~00~#031
+;0002B431{Goddess: You have done=well to make it this=far, my chosen ones.~42~~45~~00~}#076#067
+Goddess: You have done=well to make it this=far, my chosen ones.~42~~45~~00~#067
+;0002B474{Murobo: Goddess, I=thought your powers=couldn´t pierce this=evil tower?~42~~45~~00~}#083#074
+Murobo: Goddess, I=thought your powers=couldn´t pierce this=evil tower?~42~~45~~00~#074
+;0002B4BE{Goddess: That is true.=I am able to speak=only through the charm=I have given you.~42~~45~~00~}#094#085
+Goddess: That is true.=I am able to speak=only through the charm=I have given you.~42~~45~~00~#085
+;0002B513{Goddess: I will not be=able to lend you my=power in the battle to=come. However, I can~42~^=at the very least heal=your injuries.~42~~00~}#137#128
+Goddess: I will not be=able to lend you my=power in the battle to=come. However, I can~42~^=at the very least heal=your injuries.~42~~00~#128
+|1146
+@0002B593-0002B9A1-00
+;0002B593{^The party´s health was=fully restored!~42~~45~~00~}#051#042
+^The party´s health was=fully restored!~42~~45~~00~#042
+;0002B5BD{Goddess: Once this=tower is destroyed, I=will at last be able=to summon the Hero.~42~^=Only then will=Villgust finally be=upon the path to=peace.~42~~45~~00~}#157#145
+Goddess: Once this=tower is destroyed, I=will at last be able=to summon the Hero.~42~^=Only then will=Villgust finally be=upon the path to=peace.~42~~45~~00~#145
+;0002B64E{I have faith in you,=my champions.~42~~00~}#042#036
+I have faith in you,=my champions.~42~~00~#036
+;0002B672{^Goddess: Chosen ones!=Will you rise again=for Villgust´s sake?=~04~Yes~06~No~00~}#081#072
+^Goddess: Chosen ones!=Will you rise again=for Villgust´s sake?=~04~Yes~06~No~00~#072
+;0002B6BA{^Goddess: May you have=the strength to bring=peace back to this=world.~00~}#074#071
+^Goddess: May you have=the strength to bring=peace back to this=world.~00~#071
+;0002B701{^Goddess: Then rest=until you are ready to=fight again...~00~}#061#058
+^Goddess: Then rest=until you are ready to=fight again...~00~#058
+;0002B73B{~47~Goddess: Well done,=Murobo.              ^Now I am finally=able to summon the=Hero to our world.   =                     ^~00~}#130#124
+~47~Goddess: Well done,=Murobo.              ^Now I am finally=able to summon the=Hero to our world.   =                     ^~00~#124
+;0002B7B7{~47~Murobo: We shall=assist that Hero in=the quest to defeat=the Evil God.^~00~}#079#073
+~47~Murobo: We shall=assist that Hero in=the quest to defeat=the Evil God.^~00~#073
+;0002B800{~47~Goddess: Well said,=Murobo.~42~=However, that will be=a matter for a=different time.^~00~}#093#084
+~47~Goddess: Well said,=Murobo.~42~=However, that will be=a matter for a=different time.^~00~#084
+;0002B854{~47~Goddess: Rest well,=my champions. Rest,=until you must once=again stand up~42~^=against the Evil=God...~00~}#111#102
+~47~Goddess: Rest well,=my champions. Rest,=until you must once=again stand up~42~^=against the Evil=God...~00~#102
+;0002B8BA{~47~Goddess: I shall keep=your equipment in=custody.             ^When it is needed,=it shall appear in=your travels once=again.               ^~00~}#148#142
+~47~Goddess: I shall keep=your equipment in=custody.             ^When it is needed,=it shall appear in=your travels once=again.               ^~00~#142
+;0002B948{~47~Goddess: It is time=for you to go back.=Return to your=home... Villgust.~00~}#080#074
+~47~Goddess: It is time=for you to go back.=Return to your=home... Villgust.~00~#074
+;0002B992{~47~=~0A~~0A~=~07~E N D~08~=~0A~~0A~~00~}#040#016
+~47~=~0A~~0A~=~07~E N D~08~=~0A~~0A~~00~#016
+|1039
+@0002B9A2-0002BA02-00
+;0002B9A2{I´ve heard that=servants of the Evil=God can place a curse=that inverts your~42~^=normal behavior.~42~~00~}#106#097
+I´ve heard that=servants of the Evil=God can place a curse=that inverts your~42~^=normal behavior.~42~~00~#097
+|97
+@0002C3B2-0002C7B4-00
+;0002C3B2{LIFE~05~EXP~04~ATP/ MGP~00~}#027#018
+LIFE~05~EXP~04~ATP/ MGP~00~#018
+;0002C3C4{DFP~00~}#007#004
+DFP~00~#004
+;0002C3C8{LVL:~00~}#008#005
+LVL:~00~#005
+;0002C3CD{LIFE:~00~}#009#006
+LIFE:~00~#006
+;0002C3D3{EXP~08~/~00~}#012#006
+EXP~08~/~00~#006
+;0002C3D9{MGP~08~/~00~}#012#006
+MGP~08~/~00~#006
+;0002C3DF{ATP~08~STR~00~}#014#008
+ATP~08~STR~00~#008
+;0002C3E7{DFP~08~VIT  ~00~}#016#010
+DFP~08~VIT  ~00~#010
+;0002C3F1{W:~0A~~02~S:~00~}#016#007
+W:~0A~~02~S:~00~#007
+;0002C3F8{H:~0A~~02~B:~00~}#016#007
+H:~0A~~02~B:~00~#007
+;0002C3FF{A:~0A~~02~L:~00~}#016#007
+A:~0A~~02~L:~00~#007
+;0002C406{Gold:~00~}#009#006
+Gold:~00~#006
+;0002C40C{MGP:~00~}#008#005
+MGP:~00~#005
+;0002C411{1-~05~1-~00~}#012#006
+1-~05~1-~00~#006
+;0002C417{2-~05~2-~00~}#012#006
+2-~05~2-~00~#006
+;0002C41D{3-~05~3-~00~}#012#006
+3-~05~3-~00~#006
+;0002C423{4-~05~4-~00~}#012#006
+4-~05~4-~00~#006
+;0002C429{5-~05~5-~00~}#012#006
+5-~05~5-~00~#006
+;0002C42F{ATP~00~}#007#004
+ATP~00~#004
+;0002C433{DFP~00~}#007#004
+DFP~00~#004
+;0002C437{W:~00~}#006#003
+W:~00~#003
+;0002C43A{S:~00~}#006#003
+S:~00~#003
+;0002C43D{H:~00~}#006#003
+H:~00~#003
+;0002C440{B:~00~}#006#003
+B:~00~#003
+;0002C443{A:~00~}#006#003
+A:~00~#003
+;0002C446{L:~00~}#006#003
+L:~00~#003
+;0002C449{~00~}#004#001
+~00~#001
+;0002C44A{~00~}#004#001
+~00~#001
+;0002C44B{MGP~04~/~00~}#012#006
+MGP~04~/~00~#006
+;0002C451{Cost    ~00~}#012#009
+Cost    ~00~#009
+;0002C45A{MAP Number~00~}#014#011
+MAP Number~00~#011
+;0002C465{Flag~00~}#008#005
+Flag~00~#005
+;0002C46A{Char Number~00~}#015#012
+Char Number~00~#012
+;0002C476{Action Char.~00~}#016#013
+Action Char.~00~#013
+;0002C483{Map Char~00~}#012#009
+Map Char~00~#009
+;0002C48C{~00~}#004#001
+~00~#001
+;0002C48D{Str Char~00~}#012#009
+Str Char~00~#009
+;0002C496{Demo~00~}#008#005
+Demo~00~#005
+;0002C49B{Battle Bgr~00~}#014#011
+Battle Bgr~00~#011
+;0002C4A6{Conversation Check~00~}#022#019
+Conversation Check~00~#019
+;0002C4B9{BGM~00~}#007#004
+BGM~00~#004
+;0002C4BD{SE~00~}#006#003
+SE~00~#003
+;0002C4C0{MAG~00~}#007#004
+MAG~00~#004
+;0002C4C4{ITM~00~}#007#004
+ITM~00~#004
+;0002C4C8{WPN~00~}#007#004
+WPN~00~#004
+;0002C4CC{SHI~00~}#007#004
+SHI~00~#004
+;0002C4D0{HLM~00~}#007#004
+HLM~00~#004
+;0002C4D4{ARM~00~}#007#004
+ARM~00~#004
+;0002C4D8{GLV~00~}#007#004
+GLV~00~#004
+;0002C4DC{BTS~00~}#007#004
+BTS~00~#004
+;0002C4E0{~00~}#004#001
+~00~#001
+;0002C4E1{~00~}#004#001
+~00~#001
+;0002C4E2{Char Number~00~}#015#012
+Char Number~00~#012
+;0002C4EE{Level~00~}#009#006
+Level~00~#006
+;0002C4F4{HP~00~}#006#003
+HP~00~#003
+;0002C4F7{ATP~00~}#007#004
+ATP~00~#004
+;0002C4FB{DFP~00~}#007#004
+DFP~00~#004
+;0002C4FF{Magic Attack~00~}#016#013
+Magic Attack~00~#013
+;0002C50C{Magic Defense~00~}#017#014
+Magic Defense~00~#014
+;0002C51A{Evasion Rate~00~}#016#013
+Evasion Rate~00~#013
+;0002C527{Hit Rate~00~}#012#009
+Hit Rate~00~#009
+;0002C530{Attribute~00~}#013#010
+Attribute~00~#010
+;0002C53A{Heal Poison~00~}#015#012
+Heal Poison~00~#012
+;0002C546{Revitalize~00~}#014#011
+Revitalize~00~#011
+;0002C551{Leave~00~}#009#006
+Leave~00~#006
+;0002C557{Yes~00~}#007#004
+Yes~00~#004
+;0002C55B{No~00~}#006#003
+No~00~#003
+;0002C55E{ Nyago~00~}#010#007
+ Nyago~00~#007
+;0002C565{ Mage ~00~}#010#007
+ Mage ~00~#007
+;0002C56C{Seller~00~}#010#007
+Seller~00~#007
+;0002C573{ Inn  ~00~}#010#007
+ Inn  ~00~#007
+;0002C57A{Equipment~00~}#013#010
+Equipment~00~#010
+;0002C584{Items~00~}#009#006
+Items~00~#006
+;0002C58A{Sell~00~}#008#005
+Sell~00~#005
+;0002C58F{Leave~00~}#009#006
+Leave~00~#006
+;0002C595{Stay at the Inn~00~}#019#016
+Stay at the Inn~00~#016
+;0002C5A5{Save~00~}#008#005
+Save~00~#005
+;0002C5AA{File 1   ~00~}#013#010
+File 1   ~00~#010
+;0002C5B4{File 2   ~00~}#013#010
+File 2   ~00~#010
+;0002C5BE{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002C5C1{Storm Boomerang~00~}#019#016
+Storm Boomerang~00~#016
+;0002C5D1{Angel Staff L~41~~00~}#021#015
+Angel Staff L~41~~00~#015
+;0002C5E0{Ice Claws~00~}#013#010
+Ice Claws~00~#010
+;0002C5EA{Miracle Axe~00~}#015#012
+Miracle Axe~00~#012
+;0002C5F6{Steel Claws L~41~~00~}#021#015
+Steel Claws L~41~~00~#015
+;0002C605{Star Staff L~41~~00~}#020#014
+Star Staff L~41~~00~#014
+;0002C613{Shining Staff L~41~~00~}#023#017
+Shining Staff L~41~~00~#017
+;0002C624{Dragon Slayer~00~}#017#014
+Dragon Slayer~00~#014
+;0002C632{Boomerang L~41~~00~}#019#013
+Boomerang L~41~~00~#013
+;0002C63F{Black Boomerang L~41~~00~}#025#019
+Black Boomerang L~41~~00~#019
+;0002C652{Silver Boomerang L~41~~00~}#026#020
+Silver Boomerang L~41~~00~#020
+;0002C666{Gold Boomerang L~41~~00~}#024#018
+Gold Boomerang L~41~~00~#018
+;0002C678{Shining Star~00~}#016#013
+Shining Star~00~#013
+;0002C685{Staff L~41~~00~}#015#009
+Staff L~41~~00~#009
+;0002C68E{Magician Staff L~41~~00~}#024#018
+Magician Staff L~41~~00~#018
+;0002C6A0{Fairy Staff L~41~~00~}#021#015
+Fairy Staff L~41~~00~#015
+;0002C6AF{Holy Staff~00~}#014#011
+Holy Staff~00~#011
+;0002C6BA{Hand Axe L~41~~00~}#018#012
+Hand Axe L~41~~00~#012
+;0002C6C6{Iron Axe L~41~~00~}#018#012
+Iron Axe L~41~~00~#012
+;0002C6D2{Battle Axe L~41~~00~}#020#014
+Battle Axe L~41~~00~#014
+;0002C6E0{Special Axe L~41~~00~}#021#015
+Special Axe L~41~~00~#015
+;0002C6EF{Super Axe L~41~~00~}#019#013
+Super Axe L~41~~00~#013
+;0002C6FC{Nyago´s Claws L~41~~00~}#023#017
+Nyago´s Claws L~41~~00~#017
+;0002C70D{Aurora Claws~00~}#016#013
+Aurora Claws~00~#013
+;0002C71A{Moon Staff L~41~~00~}#020#014
+Moon Staff L~41~~00~#014
+;0002C728{Cat Claws L~41~~00~}#019#013
+Cat Claws L~41~~00~#013
+;0002C735{Light Staff L~41~~00~}#021#015
+Light Staff L~41~~00~#015
+;0002C744{Crystal Staff L~41~~00~}#023#017
+Crystal Staff L~41~~00~#017
+;0002C755{Flame Sword~00~}#015#012
+Flame Sword~00~#012
+;0002C761{Dragon King Blade~00~}#021#018
+Dragon King Blade~00~#018
+;0002C773{~00~}#004#001
+~00~#001
+;0002C774{~00~}#004#001
+~00~#001
+;0002C775{~00~}#004#001
+~00~#001
+;0002C776{~00~}#004#001
+~00~#001
+;0002C777{~00~}#004#001
+~00~#001
+;0002C778{~00~}#004#001
+~00~#001
+;0002C779{~00~}#004#001
+~00~#001
+;0002C77A{~00~}#004#001
+~00~#001
+;0002C77B{~00~}#004#001
+~00~#001
+;0002C77C{~00~}#004#001
+~00~#001
+;0002C77D{~00~}#004#001
+~00~#001
+;0002C77E{~00~}#004#001
+~00~#001
+;0002C77F{~00~}#004#001
+~00~#001
+;0002C780{~00~}#004#001
+~00~#001
+;0002C781{~00~}#004#001
+~00~#001
+;0002C782{~00~}#004#001
+~00~#001
+;0002C783{~00~}#004#001
+~00~#001
+;0002C784{Iron Shield~00~}#015#012
+Iron Shield~00~#012
+;0002C790{Evilcrusher Helmet~00~}#022#019
+Evilcrusher Helmet~00~#019
+;0002C7A3{Evilcrusher Armor~00~}#021#018
+Evilcrusher Armor~00~#018
+|1027
+@0002C7B5-0002CBB9-00
+;0002C7B5{Evilcrusher Gauntlets~00~}#025#022
+Evilcrusher Gauntlets~00~#022
+;0002C7CB{Evilcrusher Shins~00~}#021#018
+Evilcrusher Shins~00~#018
+;0002C7DD{Large Shield~00~}#016#013
+Large Shield~00~#013
+;0002C7EA{Battle Helm~00~}#015#012
+Battle Helm~00~#012
+;0002C7F6{Battle Mail~00~}#015#012
+Battle Mail~00~#012
+;0002C802{Battle Arms~00~}#015#012
+Battle Arms~00~#012
+;0002C80E{Battle Garters~00~}#018#015
+Battle Garters~00~#015
+;0002C81D{Wisdom Hairpin~00~}#018#015
+Wisdom Hairpin~00~#015
+;0002C82C{Kneepads~00~}#012#009
+Kneepads~00~#009
+;0002C835{Wind Armor~00~}#014#011
+Wind Armor~00~#011
+;0002C840{Nimble Gauntlets~00~}#020#017
+Nimble Gauntlets~00~#017
+;0002C851{Wind Shins~00~}#014#011
+Wind Shins~00~#011
+;0002C85C{Maiden Tiara~00~}#016#013
+Maiden Tiara~00~#013
+;0002C869{Magic Sash~00~}#014#011
+Magic Sash~00~#011
+;0002C874{Ninja Headpiece~00~}#019#016
+Ninja Headpiece~00~#016
+;0002C884{Ninja Armor~00~}#015#012
+Ninja Armor~00~#012
+;0002C890{Ninja Gauntlets~00~}#019#016
+Ninja Gauntlets~00~#016
+;0002C8A0{Magic Hairpin~00~}#017#014
+Magic Hairpin~00~#014
+;0002C8AE{Robe~00~}#008#005
+Robe~00~#005
+;0002C8B3{Goddess Armor~00~}#017#014
+Goddess Armor~00~#014
+;0002C8C1{Goddess Shins~00~}#017#014
+Goddess Shins~00~#014
+;0002C8CF{Maiden Armor~00~}#016#013
+Maiden Armor~00~#013
+;0002C8DC{Maiden Gauntlets~00~}#020#017
+Maiden Gauntlets~00~#017
+;0002C8ED{Maiden Shins~00~}#016#013
+Maiden Shins~00~#013
+;0002C8FA{Sorcerer Cap~00~}#016#013
+Sorcerer Cap~00~#013
+;0002C907{Sorcerer Gauntlets~00~}#022#019
+Sorcerer Gauntlets~00~#019
+;0002C91A{Fairy Helm~00~}#014#011
+Fairy Helm~00~#011
+;0002C925{Fairy Mail~00~}#014#011
+Fairy Mail~00~#011
+;0002C930{Fairy Garter~00~}#016#013
+Fairy Garter~00~#013
+;0002C93D{Nyago´s Garter~00~}#018#015
+Nyago´s Garter~00~#015
+;0002C94C{Nyago´s Armor~00~}#017#014
+Nyago´s Armor~00~#014
+;0002C95A{Dragon Tiara~00~}#016#013
+Dragon Tiara~00~#013
+;0002C967{Dragon Armor~00~}#016#013
+Dragon Armor~00~#013
+;0002C974{Dragon Shins~00~}#016#013
+Dragon Shins~00~#013
+;0002C981{Gale Armor~00~}#014#011
+Gale Armor~00~#011
+;0002C98C{Gale Shins~00~}#014#011
+Gale Shins~00~#011
+;0002C997{~00~}#004#001
+~00~#001
+;0002C998{~00~}#004#001
+~00~#001
+;0002C999{~00~}#004#001
+~00~#001
+;0002C99A{~00~}#004#001
+~00~#001
+;0002C99B{~00~}#004#001
+~00~#001
+;0002C99C{~00~}#004#001
+~00~#001
+;0002C99D{~00~}#004#001
+~00~#001
+;0002C99E{~00~}#004#001
+~00~#001
+;0002C99F{~00~}#004#001
+~00~#001
+;0002C9A0{Medicine~00~}#012#009
+Medicine~00~#009
+;0002C9A9{Antidote~00~}#012#009
+Antidote~00~#009
+;0002C9B2{Ambrosia~00~}#012#009
+Ambrosia~00~#009
+;0002C9BB{Miracle Drug~00~}#016#013
+Miracle Drug~00~#013
+;0002C9C8{Great Medicine~00~}#018#015
+Great Medicine~00~#015
+;0002C9D7{Super Medicine~00~}#018#015
+Super Medicine~00~#015
+;0002C9E6{Salts~00~}#009#006
+Salts~00~#006
+;0002C9EC{Getout Doorway~00~}#018#015
+Getout Doorway~00~#015
+;0002C9FB{Fish~00~}#008#005
+Fish~00~#005
+;0002CA00{Goddess Charm~00~}#017#014
+Goddess Charm~00~#014
+;0002CA0E{Stone Flower~00~}#016#013
+Stone Flower~00~#013
+;0002CA1B{Wonder Salve~00~}#016#013
+Wonder Salve~00~#013
+;0002CA28{Flower Sap~00~}#014#011
+Flower Sap~00~#011
+;0002CA33{Light Orb~00~}#013#010
+Light Orb~00~#010
+;0002CA3D{Cloth~00~}#009#006
+Cloth~00~#006
+;0002CA43{Pole~00~}#008#005
+Pole~00~#005
+;0002CA48{Planks~00~}#010#007
+Planks~00~#007
+;0002CA4F{Current Staff~00~}#017#014
+Current Staff~00~#014
+;0002CA5D{Duplication Mirror~00~}#022#019
+Duplication Mirror~00~#019
+;0002CA70{Holy Water~00~}#014#011
+Holy Water~00~#011
+;0002CA7B{Evergrowing Wood~00~}#020#017
+Evergrowing Wood~00~#017
+;0002CA8C{~00~}#004#001
+~00~#001
+;0002CA8D{~00~}#004#001
+~00~#001
+;0002CA8E{~00~}#004#001
+~00~#001
+;0002CA8F{~00~}#004#001
+~00~#001
+;0002CA90{~00~}#004#001
+~00~#001
+;0002CA91{~00~}#004#001
+~00~#001
+;0002CA92{~00~}#004#001
+~00~#001
+;0002CA93{~00~}#004#001
+~00~#001
+;0002CA94{~00~}#004#001
+~00~#001
+;0002CA95{~00~}#004#001
+~00~#001
+;0002CA96{Isuzu Gemini~00~}#016#013
+Isuzu Gemini~00~#013
+;0002CAA3{Bostov~00~}#010#007
+Bostov~00~#007
+;0002CAAA{Remi~00~}#008#005
+Remi~00~#005
+;0002CAAF{Murobo~00~}#010#007
+Murobo~00~#007
+;0002CAB6{Ryuquir~00~}#011#008
+Ryuquir~00~#008
+;0002CABE{Sylviee~00~}#011#008
+Sylviee~00~#008
+;0002CAC6{Rita~00~}#008#005
+Rita~00~#005
+;0002CACB{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CACE{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CAD1{Evil Slime~00~}#014#011
+Evil Slime~00~#011
+;0002CADC{Ork Fighter~00~}#015#012
+Ork Fighter~00~#012
+;0002CAE8{Heavy Slime~00~}#015#012
+Heavy Slime~00~#012
+;0002CAF4{Skeleton Soldier~00~}#020#017
+Skeleton Soldier~00~#017
+;0002CB05{Ork Fighter~00~}#015#012
+Ork Fighter~00~#012
+;0002CB11{Sorcerer~00~}#012#009
+Sorcerer~00~#009
+;0002CB1A{Ghost Sorcerer~00~}#018#015
+Ghost Sorcerer~00~#015
+;0002CB29{Large Spider~00~}#016#013
+Large Spider~00~#013
+;0002CB36{Cockatrice~00~}#014#011
+Cockatrice~00~#011
+;0002CB41{Pumpkin Ghost~00~}#017#014
+Pumpkin Ghost~00~#014
+;0002CB4F{Undead~00~}#010#007
+Undead~00~#007
+;0002CB56{Armored Armadillo~00~}#021#018
+Armored Armadillo~00~#018
+;0002CB68{Morguefolk~00~}#014#011
+Morguefolk~00~#011
+;0002CB73{Skull Scorpion~00~}#018#015
+Skull Scorpion~00~#015
+;0002CB82{Wood Dwarf~00~}#014#011
+Wood Dwarf~00~#011
+;0002CB8D{Half-Dwarf~00~}#014#011
+Half-Dwarf~00~#011
+;0002CB98{Rude Krek~00~}#013#010
+Rude Krek~00~#010
+;0002CBA2{Death Krek~00~}#014#011
+Death Krek~00~#011
+;0002CBAD{Embalmed Cat~00~}#016#013
+Embalmed Cat~00~#013
+|1029
+@0002CBBA-0002CFBD-00
+;0002CBBA{Mummy Cat~00~}#013#010
+Mummy Cat~00~#010
+;0002CBC4{Quona~00~}#009#006
+Quona~00~#006
+;0002CBCA{Yasiev~00~}#010#007
+Yasiev~00~#007
+;0002CBD1{Quona~00~}#009#006
+Quona~00~#006
+;0002CBD7{Killer Scorpion~00~}#019#016
+Killer Scorpion~00~#016
+;0002CBE7{Floating Jelly~00~}#018#015
+Floating Jelly~00~#015
+;0002CBF6{Yasiev~00~}#010#007
+Yasiev~00~#007
+;0002CBFD{Killer Fish~00~}#015#012
+Killer Fish~00~#012
+;0002CC09{Little Dragon~00~}#017#014
+Little Dragon~00~#014
+;0002CC17{Wraith~00~}#010#007
+Wraith~00~#007
+;0002CC1E{Dark Wraith~00~}#015#012
+Dark Wraith~00~#012
+;0002CC2A{Mousegreat~00~}#014#011
+Mousegreat~00~#011
+;0002CC35{Undead~00~}#010#007
+Undead~00~#007
+;0002CC3C{None~00~}#008#005
+None~00~#005
+;0002CC41{Basilisk~00~}#012#009
+Basilisk~00~#009
+;0002CC4A{Mousegreat~00~}#014#011
+Mousegreat~00~#011
+;0002CC55{None~00~}#008#005
+None~00~#005
+;0002CC5A{Merchant~00~}#012#009
+Merchant~00~#009
+;0002CC63{Examiner Hash~00~}#017#014
+Examiner Hash~00~#014
+;0002CC71{Devil Priest~00~}#016#013
+Devil Priest~00~#013
+;0002CC7E{Remi~00~}#008#005
+Remi~00~#005
+;0002CC83{Pirate~00~}#010#007
+Pirate~00~#007
+;0002CC8A{None~00~}#008#005
+None~00~#005
+;0002CC8F{Vase Mimic 1~00~}#016#013
+Vase Mimic 1~00~#013
+;0002CC9C{Vase Mimic 2~00~}#016#013
+Vase Mimic 2~00~#013
+;0002CCA9{Evil Priest Gady~00~}#020#017
+Evil Priest Gady~00~#017
+;0002CCBA{Evil Priest Ax~00~}#018#015
+Evil Priest Ax~00~#015
+;0002CCC9{Flower Ghost 1~00~}#018#015
+Flower Ghost 1~00~#015
+;0002CCD8{Flower Ghost 2~00~}#018#015
+Flower Ghost 2~00~#015
+;0002CCE7{Flower Ghost 3~00~}#018#015
+Flower Ghost 3~00~#015
+;0002CCF6{Flower Ghost 4~00~}#018#015
+Flower Ghost 4~00~#015
+;0002CD05{Flower Ghost 5~00~}#018#015
+Flower Ghost 5~00~#015
+;0002CD14{Golem~00~}#009#006
+Golem~00~#006
+;0002CD1A{Codra 1~00~}#011#008
+Codra 1~00~#008
+;0002CD22{Codra 2~00~}#011#008
+Codra 2~00~#008
+;0002CD2A{Codra 3~00~}#011#008
+Codra 3~00~#008
+;0002CD32{Codra 4~00~}#011#008
+Codra 4~00~#008
+;0002CD3A{Codra 5~00~}#011#008
+Codra 5~00~#008
+;0002CD42{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CD45{Bostov     ~00~}#015#012
+Bostov     ~00~#012
+;0002CD51{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CD54{Remi       ~00~}#015#012
+Remi       ~00~#012
+;0002CD60{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CD63{Murobo     ~00~}#015#012
+Murobo     ~00~#012
+;0002CD6F{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CD72{Ryuquir    ~00~}#015#012
+Ryuquir    ~00~#012
+;0002CD7E{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CD81{Sylviee    ~00~}#015#012
+Sylviee    ~00~#012
+;0002CD8D{Princess   ~00~}#015#012
+Princess   ~00~#012
+;0002CD99{  Rita     ~00~}#015#012
+  Rita     ~00~#012
+;0002CDA5{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CDA8{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CDAB{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CDAE{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CDB1{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CDB4{Evil Slime ~00~}#015#012
+Evil Slime ~00~#012
+;0002CDC0{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CDC3{Ork Fighter~00~}#015#012
+Ork Fighter~00~#012
+;0002CDCF{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CDD2{Heavy Slime~00~}#015#012
+Heavy Slime~00~#012
+;0002CDDE{Skeleton   ~00~}#015#012
+Skeleton   ~00~#012
+;0002CDEA{  Soldier  ~00~}#015#012
+  Soldier  ~00~#012
+;0002CDF6{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CDF9{Ork Fighter~00~}#015#012
+Ork Fighter~00~#012
+;0002CE05{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CE08{Sorcerer   ~00~}#015#012
+Sorcerer   ~00~#012
+;0002CE14{Ghost      ~00~}#015#012
+Ghost      ~00~#012
+;0002CE20{  Sorcerer ~00~}#015#012
+  Sorcerer ~00~#012
+;0002CE2C{Large      ~00~}#015#012
+Large      ~00~#012
+;0002CE38{  Spider   ~00~}#015#012
+  Spider   ~00~#012
+;0002CE44{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CE47{Cockatrice ~00~}#015#012
+Cockatrice ~00~#012
+;0002CE53{Pumpkin    ~00~}#015#012
+Pumpkin    ~00~#012
+;0002CE5F{  Ghost    ~00~}#015#012
+  Ghost    ~00~#012
+;0002CE6B{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CE6E{Undead     ~00~}#015#012
+Undead     ~00~#012
+;0002CE7A{Armored    ~00~}#015#012
+Armored    ~00~#012
+;0002CE86{  Armadillo~00~}#015#012
+  Armadillo~00~#012
+;0002CE92{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CE95{Morguefolk ~00~}#015#012
+Morguefolk ~00~#012
+;0002CEA1{Skull      ~00~}#015#012
+Skull      ~00~#012
+;0002CEAD{  Scorpion ~00~}#015#012
+  Scorpion ~00~#012
+;0002CEB9{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CEBC{Wood Dwarf ~00~}#015#012
+Wood Dwarf ~00~#012
+;0002CEC8{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CECB{Half-Dwarf ~00~}#015#012
+Half-Dwarf ~00~#012
+;0002CED7{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CEDA{Rude Krek  ~00~}#015#012
+Rude Krek  ~00~#012
+;0002CEE6{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CEE9{Death Krek ~00~}#015#012
+Death Krek ~00~#012
+;0002CEF5{Embalmed   ~00~}#015#012
+Embalmed   ~00~#012
+;0002CF01{  Cat      ~00~}#015#012
+  Cat      ~00~#012
+;0002CF0D{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CF10{Mummy Cat  ~00~}#015#012
+Mummy Cat  ~00~#012
+;0002CF1C{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CF1F{Quona      ~00~}#015#012
+Quona      ~00~#012
+;0002CF2B{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CF2E{Yasiev     ~00~}#015#012
+Yasiev     ~00~#012
+;0002CF3A{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CF3D{Quona      ~00~}#015#012
+Quona      ~00~#012
+;0002CF49{Killer     ~00~}#015#012
+Killer     ~00~#012
+;0002CF55{  Scorpion ~00~}#015#012
+  Scorpion ~00~#012
+;0002CF61{Floating   ~00~}#015#012
+Floating   ~00~#012
+;0002CF6D{  Jelly    ~00~}#015#012
+  Jelly    ~00~#012
+;0002CF79{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CF7C{Yasiev     ~00~}#015#012
+Yasiev     ~00~#012
+;0002CF88{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CF8B{Killer Fish~00~}#015#012
+Killer Fish~00~#012
+;0002CF97{Little     ~00~}#015#012
+Little     ~00~#012
+;0002CFA3{  Dragon   ~00~}#015#012
+  Dragon   ~00~#012
+;0002CFAF{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CFB2{Wraith     ~00~}#015#012
+Wraith     ~00~#012
+|1028
+@0002CFBE-0002D3C5-00
+;0002CFBE{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CFC1{Dark Wraith~00~}#015#012
+Dark Wraith~00~#012
+;0002CFCD{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CFD0{Mousegreat ~00~}#015#012
+Mousegreat ~00~#012
+;0002CFDC{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CFDF{Undead     ~00~}#015#012
+Undead     ~00~#012
+;0002CFEB{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CFEE{None       ~00~}#015#012
+None       ~00~#012
+;0002CFFA{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002CFFD{Basilisk   ~00~}#015#012
+Basilisk   ~00~#012
+;0002D009{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D00C{Mousegreat ~00~}#015#012
+Mousegreat ~00~#012
+;0002D018{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D01B{None       ~00~}#015#012
+None       ~00~#012
+;0002D027{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D02A{Merchant   ~00~}#015#012
+Merchant   ~00~#012
+;0002D036{Examiner   ~00~}#015#012
+Examiner   ~00~#012
+;0002D042{  Hash     ~00~}#015#012
+  Hash     ~00~#012
+;0002D04E{Devil      ~00~}#015#012
+Devil      ~00~#012
+;0002D05A{  Priest   ~00~}#015#012
+  Priest   ~00~#012
+;0002D066{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D069{Remi       ~00~}#015#012
+Remi       ~00~#012
+;0002D075{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D078{Pirate     ~00~}#015#012
+Pirate     ~00~#012
+;0002D084{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D087{None       ~00~}#015#012
+None       ~00~#012
+;0002D093{Vase Mimic ~00~}#015#012
+Vase Mimic ~00~#012
+;0002D09F{  1        ~00~}#015#012
+  1        ~00~#012
+;0002D0AB{Vase Mimic ~00~}#015#012
+Vase Mimic ~00~#012
+;0002D0B7{ 2         ~00~}#015#012
+ 2         ~00~#012
+;0002D0C3{Evil Priest~00~}#015#012
+Evil Priest~00~#012
+;0002D0CF{  Gady     ~00~}#015#012
+  Gady     ~00~#012
+;0002D0DB{Evil Priest~00~}#015#012
+Evil Priest~00~#012
+;0002D0E7{  Ax       ~00~}#015#012
+  Ax       ~00~#012
+;0002D0F3{Flower     ~00~}#015#012
+Flower     ~00~#012
+;0002D0FF{  Ghost 1  ~00~}#015#012
+  Ghost 1  ~00~#012
+;0002D10B{Flower     ~00~}#015#012
+Flower     ~00~#012
+;0002D117{  Ghost 2  ~00~}#015#012
+  Ghost 2  ~00~#012
+;0002D123{Flower     ~00~}#015#012
+Flower     ~00~#012
+;0002D12F{  Ghost 3  ~00~}#015#012
+  Ghost 3  ~00~#012
+;0002D13B{Flower     ~00~}#015#012
+Flower     ~00~#012
+;0002D147{  Ghost 4  ~00~}#015#012
+  Ghost 4  ~00~#012
+;0002D153{Flower     ~00~}#015#012
+Flower     ~00~#012
+;0002D15F{  Ghost 5  ~00~}#015#012
+  Ghost 5  ~00~#012
+;0002D16B{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D16E{Golem      ~00~}#015#012
+Golem      ~00~#012
+;0002D17A{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D17D{Codra 1    ~00~}#015#012
+Codra 1    ~00~#012
+;0002D189{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D18C{Codra 2    ~00~}#015#012
+Codra 2    ~00~#012
+;0002D198{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D19B{Codra 3    ~00~}#015#012
+Codra 3    ~00~#012
+;0002D1A7{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D1AA{Codra 4    ~00~}#015#012
+Codra 4    ~00~#012
+;0002D1B6{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D1B9{Codra 5    ~00~}#015#012
+Codra 5    ~00~#012
+;0002D1C5{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D1C8{           ~00~}#015#012
+           ~00~#012
+;0002D1D4{Storm      ~00~}#015#012
+Storm      ~00~#012
+;0002D1E0{  Boomerang~00~}#015#012
+  Boomerang~00~#012
+;0002D1EC{Angel Staff~00~}#015#012
+Angel Staff~00~#012
+;0002D1F8{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D204{Ice Claws  ~00~}#015#012
+Ice Claws  ~00~#012
+;0002D210{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D213{Miracle Axe~00~}#015#012
+Miracle Axe~00~#012
+;0002D21F{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D222{Steel Claws~00~}#015#012
+Steel Claws~00~#012
+;0002D22E{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D23A{Star Staff ~00~}#015#012
+Star Staff ~00~#012
+;0002D246{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D252{Shining    ~00~}#015#012
+Shining    ~00~#012
+;0002D25E{  Staff L~41~ ~00~}#018#012
+  Staff L~41~ ~00~#012
+;0002D26A{Dragon     ~00~}#015#012
+Dragon     ~00~#012
+;0002D276{  Slayer   ~00~}#015#012
+  Slayer   ~00~#012
+;0002D282{Boomerang  ~00~}#015#012
+Boomerang  ~00~#012
+;0002D28E{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D29A{Black Boo- ~00~}#015#012
+Black Boo- ~00~#012
+;0002D2A6{  merang L~41~~00~}#018#012
+  merang L~41~~00~#012
+;0002D2B2{Silver Boo-~00~}#015#012
+Silver Boo-~00~#012
+;0002D2BE{  merang L~41~~00~}#018#012
+  merang L~41~~00~#012
+;0002D2CA{Gold Boo-  ~00~}#015#012
+Gold Boo-  ~00~#012
+;0002D2D6{  merang L~41~~00~}#018#012
+  merang L~41~~00~#012
+;0002D2E2{Shining    ~00~}#015#012
+Shining    ~00~#012
+;0002D2EE{  Star     ~00~}#015#012
+  Star     ~00~#012
+;0002D2FA{Staff L~41~   ~00~}#018#012
+Staff L~41~   ~00~#012
+;0002D306{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D309{Magician   ~00~}#015#012
+Magician   ~00~#012
+;0002D315{  Staff L~41~ ~00~}#018#012
+  Staff L~41~ ~00~#012
+;0002D321{Fairy Staff~00~}#015#012
+Fairy Staff~00~#012
+;0002D32D{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D339{Holy Staff ~00~}#015#012
+Holy Staff ~00~#012
+;0002D345{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D348{Hand Axe L~41~~00~}#018#012
+Hand Axe L~41~~00~#012
+;0002D354{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D357{Iron Axe L~41~~00~}#018#012
+Iron Axe L~41~~00~#012
+;0002D363{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D366{Battle Axe ~00~}#015#012
+Battle Axe ~00~#012
+;0002D372{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D37E{Special Axe~00~}#015#012
+Special Axe~00~#012
+;0002D38A{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D396{Super Axe  ~00~}#015#012
+Super Axe  ~00~#012
+;0002D3A2{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D3AE{Nyago´s    ~00~}#015#012
+Nyago´s    ~00~#012
+;0002D3BA{  Claws L~41~ ~00~}#018#012
+  Claws L~41~ ~00~#012
+|1032
+@0002D3C6-0002D7CE-00
+;0002D3C6{Aurora     ~00~}#015#012
+Aurora     ~00~#012
+;0002D3D2{  Claws    ~00~}#015#012
+  Claws    ~00~#012
+;0002D3DE{Moon Staff ~00~}#015#012
+Moon Staff ~00~#012
+;0002D3EA{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D3F6{Cat Claws  ~00~}#015#012
+Cat Claws  ~00~#012
+;0002D402{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D40E{Light Staff~00~}#015#012
+Light Staff~00~#012
+;0002D41A{  L~41~       ~00~}#018#012
+  L~41~       ~00~#012
+;0002D426{Crystal    ~00~}#015#012
+Crystal    ~00~#012
+;0002D432{  Staff L~41~ ~00~}#018#012
+  Staff L~41~ ~00~#012
+;0002D43E{Flame Sword~00~}#015#012
+Flame Sword~00~#012
+;0002D44A{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D44D{Dragon King~00~}#015#012
+Dragon King~00~#012
+;0002D459{  Blade    ~00~}#015#012
+  Blade    ~00~#012
+;0002D465{~00~}#004#001
+~00~#001
+;0002D466{~00~}#004#001
+~00~#001
+;0002D467{~00~}#004#001
+~00~#001
+;0002D468{~00~}#004#001
+~00~#001
+;0002D469{~00~}#004#001
+~00~#001
+;0002D46A{~00~}#004#001
+~00~#001
+;0002D46B{~00~}#004#001
+~00~#001
+;0002D46C{~00~}#004#001
+~00~#001
+;0002D46D{~00~}#004#001
+~00~#001
+;0002D46E{~00~}#004#001
+~00~#001
+;0002D46F{~00~}#004#001
+~00~#001
+;0002D470{~00~}#004#001
+~00~#001
+;0002D471{~00~}#004#001
+~00~#001
+;0002D472{~00~}#004#001
+~00~#001
+;0002D473{~00~}#004#001
+~00~#001
+;0002D474{~00~}#004#001
+~00~#001
+;0002D475{~00~}#004#001
+~00~#001
+;0002D476{~00~}#004#001
+~00~#001
+;0002D477{~00~}#004#001
+~00~#001
+;0002D478{~00~}#004#001
+~00~#001
+;0002D479{~00~}#004#001
+~00~#001
+;0002D47A{~00~}#004#001
+~00~#001
+;0002D47B{~00~}#004#001
+~00~#001
+;0002D47C{~00~}#004#001
+~00~#001
+;0002D47D{~00~}#004#001
+~00~#001
+;0002D47E{~00~}#004#001
+~00~#001
+;0002D47F{~00~}#004#001
+~00~#001
+;0002D480{~00~}#004#001
+~00~#001
+;0002D481{~00~}#004#001
+~00~#001
+;0002D482{~00~}#004#001
+~00~#001
+;0002D483{~00~}#004#001
+~00~#001
+;0002D484{~00~}#004#001
+~00~#001
+;0002D485{~00~}#004#001
+~00~#001
+;0002D486{~00~}#004#001
+~00~#001
+;0002D487{Iron Shield~00~}#015#012
+Iron Shield~00~#012
+;0002D493{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D496{Evilcrusher~00~}#015#012
+Evilcrusher~00~#012
+;0002D4A2{  Helmet   ~00~}#015#012
+  Helmet   ~00~#012
+;0002D4AE{Evilcrusher~00~}#015#012
+Evilcrusher~00~#012
+;0002D4BA{  Armor    ~00~}#015#012
+  Armor    ~00~#012
+;0002D4C6{Evilcrusher~00~}#015#012
+Evilcrusher~00~#012
+;0002D4D2{  Gauntlets~00~}#015#012
+  Gauntlets~00~#012
+;0002D4DE{Evilcrusher~00~}#015#012
+Evilcrusher~00~#012
+;0002D4EA{  Shins    ~00~}#015#012
+  Shins    ~00~#012
+;0002D4F6{Large      ~00~}#015#012
+Large      ~00~#012
+;0002D502{  Shield   ~00~}#015#012
+  Shield   ~00~#012
+;0002D50E{Battle Helm~00~}#015#012
+Battle Helm~00~#012
+;0002D51A{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D51D{Battle Mail~00~}#015#012
+Battle Mail~00~#012
+;0002D529{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D52C{Battle Arms~00~}#015#012
+Battle Arms~00~#012
+;0002D538{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D53B{Battle     ~00~}#015#012
+Battle     ~00~#012
+;0002D547{  Garters  ~00~}#015#012
+  Garters  ~00~#012
+;0002D553{Wisdom     ~00~}#015#012
+Wisdom     ~00~#012
+;0002D55F{  Hairpin  ~00~}#015#012
+  Hairpin  ~00~#012
+;0002D56B{Kneepads   ~00~}#015#012
+Kneepads   ~00~#012
+;0002D577{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D57A{Wind Armor ~00~}#015#012
+Wind Armor ~00~#012
+;0002D586{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D589{Nimble     ~00~}#015#012
+Nimble     ~00~#012
+;0002D595{  Gauntlets~00~}#015#012
+  Gauntlets~00~#012
+;0002D5A1{Wind Shins ~00~}#015#012
+Wind Shins ~00~#012
+;0002D5AD{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D5B0{Maiden     ~00~}#015#012
+Maiden     ~00~#012
+;0002D5BC{  Tiara    ~00~}#015#012
+  Tiara    ~00~#012
+;0002D5C8{Magic Sash ~00~}#015#012
+Magic Sash ~00~#012
+;0002D5D4{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D5D7{Ninja      ~00~}#015#012
+Ninja      ~00~#012
+;0002D5E3{  Headpiece~00~}#015#012
+  Headpiece~00~#012
+;0002D5EF{Ninja Armor~00~}#015#012
+Ninja Armor~00~#012
+;0002D5FB{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D5FE{Ninja      ~00~}#015#012
+Ninja      ~00~#012
+;0002D60A{  Gauntlets~00~}#015#012
+  Gauntlets~00~#012
+;0002D616{Magic      ~00~}#015#012
+Magic      ~00~#012
+;0002D622{  Hairpin  ~00~}#015#012
+  Hairpin  ~00~#012
+;0002D62E{Robe       ~00~}#015#012
+Robe       ~00~#012
+;0002D63A{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D63D{Goddess    ~00~}#015#012
+Goddess    ~00~#012
+;0002D649{  Armor    ~00~}#015#012
+  Armor    ~00~#012
+;0002D655{Goddess    ~00~}#015#012
+Goddess    ~00~#012
+;0002D661{  Shins    ~00~}#015#012
+  Shins    ~00~#012
+;0002D66D{Maiden     ~00~}#015#012
+Maiden     ~00~#012
+;0002D679{  Armor    ~00~}#015#012
+  Armor    ~00~#012
+;0002D685{Maiden     ~00~}#015#012
+Maiden     ~00~#012
+;0002D691{  Gauntlets~00~}#015#012
+  Gauntlets~00~#012
+;0002D69D{Maiden     ~00~}#015#012
+Maiden     ~00~#012
+;0002D6A9{  Shins    ~00~}#015#012
+  Shins    ~00~#012
+;0002D6B5{Sorcerer   ~00~}#015#012
+Sorcerer   ~00~#012
+;0002D6C1{  Cap      ~00~}#015#012
+  Cap      ~00~#012
+;0002D6CD{Sorcerer   ~00~}#015#012
+Sorcerer   ~00~#012
+;0002D6D9{  Gauntlets~00~}#015#012
+  Gauntlets~00~#012
+;0002D6E5{Fairy Helm ~00~}#015#012
+Fairy Helm ~00~#012
+;0002D6F1{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D6F4{Fairy Mail ~00~}#015#012
+Fairy Mail ~00~#012
+;0002D700{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D703{Fairy      ~00~}#015#012
+Fairy      ~00~#012
+;0002D70F{  Garter   ~00~}#015#012
+  Garter   ~00~#012
+;0002D71B{Nyago´s    ~00~}#015#012
+Nyago´s    ~00~#012
+;0002D727{  Garter   ~00~}#015#012
+  Garter   ~00~#012
+;0002D733{Nyago´s    ~00~}#015#012
+Nyago´s    ~00~#012
+;0002D73F{  Armor    ~00~}#015#012
+  Armor    ~00~#012
+;0002D74B{Dragon     ~00~}#015#012
+Dragon     ~00~#012
+;0002D757{  Tiara    ~00~}#015#012
+  Tiara    ~00~#012
+;0002D763{Dragon     ~00~}#015#012
+Dragon     ~00~#012
+;0002D76F{  Armor    ~00~}#015#012
+  Armor    ~00~#012
+;0002D77B{Dragon     ~00~}#015#012
+Dragon     ~00~#012
+;0002D787{  Shins    ~00~}#015#012
+  Shins    ~00~#012
+;0002D793{Gale Armor ~00~}#015#012
+Gale Armor ~00~#012
+;0002D79F{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D7A2{Gale Shins ~00~}#015#012
+Gale Shins ~00~#012
+;0002D7AE{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D7B1{~00~}#004#001
+~00~#001
+;0002D7B2{~00~}#004#001
+~00~#001
+;0002D7B3{~00~}#004#001
+~00~#001
+;0002D7B4{~00~}#004#001
+~00~#001
+;0002D7B5{~00~}#004#001
+~00~#001
+;0002D7B6{~00~}#004#001
+~00~#001
+;0002D7B7{~00~}#004#001
+~00~#001
+;0002D7B8{~00~}#004#001
+~00~#001
+;0002D7B9{~00~}#004#001
+~00~#001
+;0002D7BA{~00~}#004#001
+~00~#001
+;0002D7BB{~00~}#004#001
+~00~#001
+;0002D7BC{~00~}#004#001
+~00~#001
+;0002D7BD{~00~}#004#001
+~00~#001
+;0002D7BE{~00~}#004#001
+~00~#001
+;0002D7BF{~00~}#004#001
+~00~#001
+;0002D7C0{~00~}#004#001
+~00~#001
+;0002D7C1{~00~}#004#001
+~00~#001
+;0002D7C2{~00~}#004#001
+~00~#001
+;0002D7C3{Medicine   ~00~}#015#012
+Medicine   ~00~#012
+|1033
+@0002D7CF-0002DBD1-00
+;0002D7CF{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D7D2{Antidote   ~00~}#015#012
+Antidote   ~00~#012
+;0002D7DE{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D7E1{Ambrosia   ~00~}#015#012
+Ambrosia   ~00~#012
+;0002D7ED{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D7F0{Miracle    ~00~}#015#012
+Miracle    ~00~#012
+;0002D7FC{  Drug     ~00~}#015#012
+  Drug     ~00~#012
+;0002D808{Great      ~00~}#015#012
+Great      ~00~#012
+;0002D814{  Medicine ~00~}#015#012
+  Medicine ~00~#012
+;0002D820{Super      ~00~}#015#012
+Super      ~00~#012
+;0002D82C{  Medicine ~00~}#015#012
+  Medicine ~00~#012
+;0002D838{Salts      ~00~}#015#012
+Salts      ~00~#012
+;0002D844{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D847{Getout     ~00~}#015#012
+Getout     ~00~#012
+;0002D853{  Doorway  ~00~}#015#012
+  Doorway  ~00~#012
+;0002D85F{Fish       ~00~}#015#012
+Fish       ~00~#012
+;0002D86B{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D86E{Goddess    ~00~}#015#012
+Goddess    ~00~#012
+;0002D87A{  Charm    ~00~}#015#012
+  Charm    ~00~#012
+;0002D886{Stone      ~00~}#015#012
+Stone      ~00~#012
+;0002D892{  Flower   ~00~}#015#012
+  Flower   ~00~#012
+;0002D89E{Wonder     ~00~}#015#012
+Wonder     ~00~#012
+;0002D8AA{  Salve    ~00~}#015#012
+  Salve    ~00~#012
+;0002D8B6{Flower Sap ~00~}#015#012
+Flower Sap ~00~#012
+;0002D8C2{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D8C5{Light Orb  ~00~}#015#012
+Light Orb  ~00~#012
+;0002D8D1{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D8D4{Cloth      ~00~}#015#012
+Cloth      ~00~#012
+;0002D8E0{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D8E3{Pole       ~00~}#015#012
+Pole       ~00~#012
+;0002D8EF{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D8F2{Planks     ~00~}#015#012
+Planks     ~00~#012
+;0002D8FE{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D901{Current    ~00~}#015#012
+Current    ~00~#012
+;0002D90D{  Staff    ~00~}#015#012
+  Staff    ~00~#012
+;0002D919{Duplication~00~}#015#012
+Duplication~00~#012
+;0002D925{  Mirror   ~00~}#015#012
+  Mirror   ~00~#012
+;0002D931{Holy Water ~00~}#015#012
+Holy Water ~00~#012
+;0002D93D{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002D940{Evergrowing~00~}#015#012
+Evergrowing~00~#012
+;0002D94C{  Wood     ~00~}#015#012
+  Wood     ~00~#012
+;0002D958{~00~}#004#001
+~00~#001
+;0002D959{~00~}#004#001
+~00~#001
+;0002D95A{~00~}#004#001
+~00~#001
+;0002D95B{~00~}#004#001
+~00~#001
+;0002D95C{~00~}#004#001
+~00~#001
+;0002D95D{~00~}#004#001
+~00~#001
+;0002D95E{~00~}#004#001
+~00~#001
+;0002D95F{~00~}#004#001
+~00~#001
+;0002D960{~00~}#004#001
+~00~#001
+;0002D961{~00~}#004#001
+~00~#001
+;0002D962{~00~}#004#001
+~00~#001
+;0002D963{~00~}#004#001
+~00~#001
+;0002D964{~00~}#004#001
+~00~#001
+;0002D965{~00~}#004#001
+~00~#001
+;0002D966{~00~}#004#001
+~00~#001
+;0002D967{~00~}#004#001
+~00~#001
+;0002D968{~00~}#004#001
+~00~#001
+;0002D969{~00~}#004#001
+~00~#001
+;0002D96A{~00~}#004#001
+~00~#001
+;0002D96B{~00~}#004#001
+~00~#001
+;0002D96C{Isuzu      ~00~}#015#012
+Isuzu      ~00~#012
+;0002D978{  Gemini   ~00~}#015#012
+  Gemini   ~00~#012
+;0002D984{Talk~00~}#008#005
+Talk~00~#005
+;0002D989{Status~00~}#010#007
+Status~00~#007
+;0002D990{Equipment~00~}#013#010
+Equipment~00~#010
+;0002D99A{Inventory~00~}#013#010
+Inventory~00~#010
+;0002D9A4{Magic~00~}#009#006
+Magic~00~#006
+;0002D9AA{Arrange~00~}#011#008
+Arrange~00~#008
+;0002D9B2{Search~00~}#010#007
+Search~00~#007
+;0002D9B9{Fight~00~}#009#006
+Fight~00~#006
+;0002D9BF{Arrange~00~}#011#008
+Arrange~00~#008
+;0002D9C7{Enemy Status~00~}#016#013
+Enemy Status~00~#013
+;0002D9D4{Run~00~}#007#004
+Run~00~#004
+;0002D9D8{Auto~00~}#008#005
+Auto~00~#005
+;0002D9DD{~DA~~DB~~DC~ ~00~}#017#005
+~DA~~DB~~DC~ ~00~#005
+;0002D9E2{~DD~~DE~  ~00~}#014#005
+~DD~~DE~  ~00~#005
+;0002D9E7{~E0~~E1~~E2~~E3~~00~}#020#005
+~E0~~E1~~E2~~E3~~00~#005
+;0002D9EC{~E4~~E5~~E6~~E7~~00~}#020#005
+~E4~~E5~~E6~~E7~~00~#005
+;0002D9F1{~E8~~E9~~EA~ ~00~}#017#005
+~E8~~E9~~EA~ ~00~#005
+;0002D9F6{~EB~~EC~  ~00~}#014#005
+~EB~~EC~  ~00~#005
+;0002D9FB{All ~00~}#008#005
+All ~00~#005
+;0002DA00{----~00~}#008#005
+----~00~#005
+;0002DA05{~00~}#004#001
+~00~#001
+;0002DA06{~04~~00~}#008#002
+~04~~00~#002
+;0002DA08{Use ~00~}#008#005
+Use ~00~#005
+;0002DA0D{Drop~00~}#008#005
+Drop~00~#005
+;0002DA12{ None ~00~}#010#007
+ None ~00~#007
+;0002DA19{ Fire ~00~}#010#007
+ Fire ~00~#007
+;0002DA20{ Water~00~}#010#007
+ Water~00~#007
+;0002DA27{ Earth~00~}#010#007
+ Earth~00~#007
+;0002DA2E{ Equip~00~}#010#007
+ Equip~00~#007
+;0002DA35{ Items~00~}#010#007
+ Items~00~#007
+;0002DA3C{ Sell ~00~}#010#007
+ Sell ~00~#007
+;0002DA43{~06~~00~}#008#002
+~06~~00~#002
+;0002DA45{KO  ~00~}#008#005
+KO  ~00~#005
+;0002DA4A{POIS~00~}#008#005
+POIS~00~#005
+;0002DA4F{PARA~00~}#008#005
+PARA~00~#005
+;0002DA54{CONF~00~}#008#005
+CONF~00~#005
+;0002DA59{SLP ~00~}#008#005
+SLP ~00~#005
+;0002DA5E{LIFE~00~}#008#005
+LIFE~00~#005
+;0002DA63{~0A~~00~}#008#002
+~0A~~00~#002
+;0002DA65{Fireball~00~}#012#009
+Fireball~00~#009
+;0002DA6E{Fire Stone~00~}#014#011
+Fire Stone~00~#011
+;0002DA79{Hellfire~00~}#012#009
+Hellfire~00~#009
+;0002DA82{Air Cutter~00~}#014#011
+Air Cutter~00~#011
+;0002DA8D{Typhoon~00~}#011#008
+Typhoon~00~#008
+;0002DA95{Jet Hurricane~00~}#017#014
+Jet Hurricane~00~#014
+;0002DAA3{Nypeta~00~}#010#007
+Nypeta~00~#007
+;0002DAAA{Thunder Spark~00~}#017#014
+Thunder Spark~00~#014
+;0002DAB8{Thunderbolt~00~}#015#012
+Thunderbolt~00~#012
+;0002DAC4{Heal~00~}#008#005
+Heal~00~#005
+;0002DAC9{Heal Plus~00~}#013#010
+Heal Plus~00~#010
+;0002DAD3{Heal Max~00~}#012#009
+Heal Max~00~#009
+;0002DADC{Cure Poison~00~}#015#012
+Cure Poison~00~#012
+;0002DAE8{Energize~00~}#012#009
+Energize~00~#009
+;0002DAF1{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DAF4{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DAF7{Fireball   ~00~}#015#012
+Fireball   ~00~#012
+;0002DB03{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DB06{Fire Stone ~00~}#015#012
+Fire Stone ~00~#012
+;0002DB12{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DB15{Hellfire   ~00~}#015#012
+Hellfire   ~00~#012
+;0002DB21{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DB24{Air        ~00~}#015#012
+Air        ~00~#012
+;0002DB30{  Cutter   ~00~}#015#012
+  Cutter   ~00~#012
+;0002DB3C{Typhoon    ~00~}#015#012
+Typhoon    ~00~#012
+;0002DB48{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DB4B{Jet        ~00~}#015#012
+Jet        ~00~#012
+;0002DB57{  Hurricane~00~}#015#012
+  Hurricane~00~#012
+;0002DB63{Nypeta     ~00~}#015#012
+Nypeta     ~00~#012
+;0002DB6F{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DB72{Thunder    ~00~}#015#012
+Thunder    ~00~#012
+;0002DB7E{  Spark    ~00~}#015#012
+  Spark    ~00~#012
+;0002DB8A{Thunderbolt~00~}#015#012
+Thunderbolt~00~#012
+;0002DB96{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DB99{Heal       ~00~}#015#012
+Heal       ~00~#012
+;0002DBA5{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DBA8{Heal Plus  ~00~}#015#012
+Heal Plus  ~00~#012
+;0002DBB4{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DBB7{Heal Max   ~00~}#015#012
+Heal Max   ~00~#012
+;0002DBC3{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DBC6{Cure Poison~00~}#015#012
+Cure Poison~00~#012
+|1027
+@0002DBD2-0002DD2B-00
+;0002DBD2{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DBD5{Energize   ~00~}#015#012
+Energize   ~00~#012
+;0002DBE1{~0A~ ~00~}#009#003
+~0A~ ~00~#003
+;0002DBE4{      ~00~}#010#007
+      ~00~#007
+;0002DBEB{ Talk ~00~}#010#007
+ Talk ~00~#007
+;0002DBF2{      ~00~}#010#007
+      ~00~#007
+;0002DBF9{Status~00~}#010#007
+Status~00~#007
+;0002DC00{      ~00~}#010#007
+      ~00~#007
+;0002DC07{ Equip~00~}#010#007
+ Equip~00~#007
+;0002DC0E{      ~00~}#010#007
+      ~00~#007
+;0002DC15{ Items~00~}#010#007
+ Items~00~#007
+;0002DC1C{      ~00~}#010#007
+      ~00~#007
+;0002DC23{ Magic~00~}#010#007
+ Magic~00~#007
+;0002DC2A{      ~00~}#010#007
+      ~00~#007
+;0002DC31{ Sort ~00~}#010#007
+ Sort ~00~#007
+;0002DC38{      ~00~}#010#007
+      ~00~#007
+;0002DC3F{Search~00~}#010#007
+Search~00~#007
+;0002DC46{      ~00~}#010#007
+      ~00~#007
+;0002DC4D{ Fight~00~}#010#007
+ Fight~00~#007
+;0002DC54{      ~00~}#010#007
+      ~00~#007
+;0002DC5B{ Sort ~00~}#010#007
+ Sort ~00~#007
+;0002DC62{Enemy ~00~}#010#007
+Enemy ~00~#007
+;0002DC69{Status~00~}#010#007
+Status~00~#007
+;0002DC70{      ~00~}#010#007
+      ~00~#007
+;0002DC77{ Run  ~00~}#010#007
+ Run  ~00~#007
+;0002DC7E{      ~00~}#010#007
+      ~00~#007
+;0002DC85{ Auto ~00~}#010#007
+ Auto ~00~#007
+;0002DC8C{~DA~~DB~~DC~ ~00~}#017#005
+~DA~~DB~~DC~ ~00~#005
+;0002DC91{~00~}#004#001
+~00~#001
+;0002DC92{~DD~~DE~  ~00~}#014#005
+~DD~~DE~  ~00~#005
+;0002DC97{~00~}#004#001
+~00~#001
+;0002DC98{~E0~~E1~~E2~~E3~~00~}#020#005
+~E0~~E1~~E2~~E3~~00~#005
+;0002DC9D{~00~}#004#001
+~00~#001
+;0002DC9E{~E4~~E5~~E6~~E7~~00~}#020#005
+~E4~~E5~~E6~~E7~~00~#005
+;0002DCA3{~00~}#004#001
+~00~#001
+;0002DCA4{~E8~~E9~~EA~ ~00~}#017#005
+~E8~~E9~~EA~ ~00~#005
+;0002DCA9{~00~}#004#001
+~00~#001
+;0002DCAA{~EB~~EC~  ~00~}#014#005
+~EB~~EC~  ~00~#005
+;0002DCAF{~00~}#004#001
+~00~#001
+;0002DCB0{All ~00~}#008#005
+All ~00~#005
+;0002DCB5{~00~}#004#001
+~00~#001
+;0002DCB6{----~00~}#008#005
+----~00~#005
+;0002DCBB{~00~}#004#001
+~00~#001
+;0002DCBC{~00~}#004#001
+~00~#001
+;0002DCBD{~04~~00~}#008#002
+~04~~00~#002
+;0002DCBF{~00~}#004#001
+~00~#001
+;0002DCC0{Use~00~}#007#004
+Use~00~#004
+;0002DCC4{~00~}#004#001
+~00~#001
+;0002DCC5{Drop~00~}#008#005
+Drop~00~#005
+;0002DCCA{~00~}#004#001
+~00~#001
+;0002DCCB{None~00~}#008#005
+None~00~#005
+;0002DCD0{~00~}#004#001
+~00~#001
+;0002DCD1{Fire~00~}#008#005
+Fire~00~#005
+;0002DCD6{~00~}#004#001
+~00~#001
+;0002DCD7{Water~00~}#009#006
+Water~00~#006
+;0002DCDD{~00~}#004#001
+~00~#001
+;0002DCDE{Earth~00~}#009#006
+Earth~00~#006
+;0002DCE4{~00~}#004#001
+~00~#001
+;0002DCE5{Equip~00~}#009#006
+Equip~00~#006
+;0002DCEB{~00~}#004#001
+~00~#001
+;0002DCEC{Items~00~}#009#006
+Items~00~#006
+;0002DCF2{~00~}#004#001
+~00~#001
+;0002DCF3{Sell~00~}#008#005
+Sell~00~#005
+;0002DCF8{~00~}#004#001
+~00~#001
+;0002DCF9{~04~~00~}#008#002
+~04~~00~#002
+;0002DCFB{~00~}#004#001
+~00~#001
+;0002DCFC{KO  ~00~}#008#005
+KO  ~00~#005
+;0002DD01{~00~}#004#001
+~00~#001
+;0002DD02{Poison~00~}#010#007
+Poison~00~#007
+;0002DD09{~00~}#004#001
+~00~#001
+;0002DD0A{Paralysis~00~}#013#010
+Paralysis~00~#010
+;0002DD14{~00~}#004#001
+~00~#001
+;0002DD15{Confusion~00~}#013#010
+Confusion~00~#010
+;0002DD1F{~00~}#004#001
+~00~#001
+;0002DD20{Sleep~00~}#009#006
+Sleep~00~#006
+;0002DD26{~00~}#004#001
+~00~#001
+;0002DD27{LIFE~00~}#008#005
+LIFE~00~#005
+|346
+@0007BDE8-0007BEE7-FF
+;0007BDE8{~05~~05~~05~~05~~05~~05~~05~~06~~07~Equip-~08~~07~~00~~00~Wea:~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~~00~ment~00~~08~~07~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~09~~0A~~0A~~0A~~0A~~0A~~0A~~0B~~07~~00~~00~Shi:~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~04~~05~~05~~05~~05~~05~~05~~06~~07~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~~00~~00~~00~~00~~00~~00~~08~~07~~00~~00~Mag:~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~ATP~00~~00~~00~~08~~07~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~~00~~00~~00~~00~~00~~00~~08~~07~~00~~00~Inv:~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~DFP~00~~00~~00~~08~~07~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#928#256
+~05~~05~~05~~05~~05~~05~~05~~06~~07~Equip-~08~~07~~00~~00~Wea:~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~~00~ment~00~~08~~07~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~09~~0A~~0A~~0A~~0A~~0A~~0A~~0B~~07~~00~~00~Shi:~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~04~~05~~05~~05~~05~~05~~05~~06~~07~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~~00~~00~~00~~00~~00~~00~~08~~07~~00~~00~Mag:~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~ATP~00~~00~~00~~08~~07~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~~00~~00~~00~~00~~00~~00~~08~~07~~00~~00~Inv:~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~08~~07~DFP~00~~00~~00~~08~~07~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#256
+|256

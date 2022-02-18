@@ -1,0 +1,682 @@
+@000097EB-000098EA-FF
+;000097EB{___________________________________________________________________NORTH_1_~C4~~C5~____________________NORTHEAST_2_~C4~~C5~____________________EAST_4_~C4~~C5~_____________________NORTHWEST_5_~C4~~C5~__________________NORTHWEST_6_~C4~~C5~____________________WEST_6_~C4~~C5~____________________}#292#256
+___________________________________________________________________NORTH_1_~C4~~C5~____________________NORTHEAST_2_~C4~~C5~____________________EAST_4_~C4~~C5~_____________________NORTHWEST_5_~C4~~C5~__________________NORTHWEST_6_~C4~~C5~____________________WEST_6_~C4~~C5~____________________#256
+|256
+@0000BA08-0000BAA7-FF
+;0000BA08{____REMAINING_______________________LAND_NOW_____________________NEXT_____FEET______________________LAND_NOW_______________________POINTS_______________________}#160#160
+____REMAINING_______________________LAND_NOW_____________________NEXT_____FEET______________________LAND_NOW_______________________POINTS_______________________#160
+|160
+@00010000-000103FF-FF
+;00010000{____LANDING____________OK________LANDING_FAILURE_________________GREAT_LANDING______________________LANDING_________NO_GOOD___________HIT!___________________________End________==_Message_05_==_PUSH_A_TO_OPEN___________________STAY_INSIDE_____OF_COURSE______OUT_OF_COURSE__________________________________==_Message_09_==___BAR_PASSED___________________________________==_Message_0B_==________________==_Message_0C_==__OUT_OF_FUEL_____________________RING_PASSED________________________________________________________LANDED_____________________HURRY,_FUEL_LOW!_________________REDUCE_HEIGHT___________________WATCH_ALTITUDE___________________RESCUE__________SUCCESSFUL!______TOUCH_DOWN________________________BRAKE!_______________________2_PTS._LOST___________________RATE_OF_DESCENT____TOO_GREAT________LAND_NOW_________________________LANDED________OUT_OF_AREA__________________==_Message_1B_==__BAR_TOUCHED_____________________OUT_OF_TIME_____________________ARCH_PASSED___________________________________==_Message_1F_==}#1024#1024
+____LANDING____________OK________LANDING_FAILURE_________________GREAT_LANDING______________________LANDING_________NO_GOOD___________HIT!___________________________End________==_Message_05_==_PUSH_A_TO_OPEN___________________STAY_INSIDE_____OF_COURSE______OUT_OF_COURSE__________________________________==_Message_09_==___BAR_PASSED___________________________________==_Message_0B_==________________==_Message_0C_==__OUT_OF_FUEL_____________________RING_PASSED________________________________________________________LANDED_____________________HURRY,_FUEL_LOW!_________________REDUCE_HEIGHT___________________WATCH_ALTITUDE___________________RESCUE__________SUCCESSFUL!______TOUCH_DOWN________________________BRAKE!_______________________2_PTS._LOST___________________RATE_OF_DESCENT____TOO_GREAT________LAND_NOW_________________________LANDED________OUT_OF_AREA__________________==_Message_1B_==__BAR_TOUCHED_____________________OUT_OF_TIME_____________________ARCH_PASSED___________________________________==_Message_1F_==#1024
+|1024
+@00010400-000105FF-FF
+;00010400{__DEMO_FLIGHT_____DEMO_FLIGHT___==_Message_21_====_Message_21_==REPEATEDLY_PRESSTHE___~C0~~C1~__BUTTONLAND_IN_THE_POOL_________________BOUNCE_ONTO_~C6~~C7~__________________CONTROL_WITH_~6E~~6F~______________________~C8~~C9~~CA~~CB~________CHANGES_VIEW__==_Message_27_====_Message_27_====_Message_28_====_Message_28_====_Message_29_====_Message_29_====_Message_2A_====_Message_2A_====_Message_2B_====_Message_2B_====_Message_2C_====_Message_2C_====_Message_2D_====_Message_2D_====_Message_2E_====_Message_2E_==________________________________}#542#512
+__DEMO_FLIGHT_____DEMO_FLIGHT___==_Message_21_====_Message_21_==REPEATEDLY_PRESSTHE___~C0~~C1~__BUTTONLAND_IN_THE_POOL_________________BOUNCE_ONTO_~C6~~C7~__________________CONTROL_WITH_~6E~~6F~______________________~C8~~C9~~CA~~CB~________CHANGES_VIEW__==_Message_27_====_Message_27_====_Message_28_====_Message_28_====_Message_29_====_Message_29_====_Message_2A_====_Message_2A_====_Message_2B_====_Message_2B_====_Message_2C_====_Message_2C_====_Message_2D_====_Message_2D_====_Message_2E_====_Message_2E_==________________________________#512
+|512
+@00011782-00011792-FF
+;00011782{HIROSHI YAMAUCHI~FF~}#020#017
+HIROSHI YAMAUCHI~FF~#017
+|17
+@000117A1-000117B1-FF
+;000117A1{SHIGERU MIYAMOTO~FF~}#020#017
+SHIGERU MIYAMOTO~FF~#017
+|17
+@000117C0-000117D0-FF
+;000117C0{TADASHI SUGIYAMA~FF~}#020#017
+TADASHI SUGIYAMA~FF~#017
+|17
+@000117E1-000117EC-FF
+;000117E1{SHUHEI KATO~FF~}#015#012
+SHUHEI KATO~FF~#012
+|12
+@000117F0-000117FD-FF
+;000117F0{HAJIME YAJIMA~FF~}#017#014
+HAJIME YAJIMA~FF~#014
+|14
+@00011801-0001180F-FF
+;00011801{TAKUMI KAWAGOE~FF~}#018#015
+TAKUMI KAWAGOE~FF~#015
+|15
+@00011826-0001182B-FF
+;00011826{SUSIE~FF~}#009#006
+SUSIE~FF~#006
+|6
+@0001182F-00011839-FF
+;0001182F{NAOKI MORI~FF~}#014#011
+NAOKI MORI~FF~#011
+|11
+@0001184E-00011858-FF
+;0001184E{KOJI KONDO~FF~}#014#011
+KOJI KONDO~FF~#011
+|11
+@0001185C-00011864-FF
+;0001185C{SOYO OKA~FF~}#012#009
+SOYO OKA~FF~#009
+|9
+@00011874-0001187B-FF
+;00011874{THE END~FF~}#011#008
+THE END~FF~#008
+|8
+@00019593-0001965B-FF
+;00019593{BONUS CHANCE~FF~}#016#013
+BONUS CHANCE~FF~#013
+;000195A0{Join The Flight Club Now!Do you ever dream of flying?The  Flight  Club  offers  avariety  of aerial sports tothrill and challenge you.   Dare to take  the first stepand earn your license.~FF~}#191#188
+Join The Flight Club Now!Do you ever dream of flying?The  Flight  Club  offers  avariety  of aerial sports tothrill and challenge you.   Dare to take  the first stepand earn your license.~FF~#188
+|201
+@0001966C-00019AFC-FF
+;0001966C{Lesson ~FF~}#011#008
+Lesson ~FF~#008
+;00019674{1Hi, I am Tony,  and I'llbe  your  instructor forArea 1.     Our  lessonswill cover a few basics=landing   an   airplane,and skydiving   for accuracy.~FF~}#154#151
+1Hi, I am Tony,  and I'llbe  your  instructor forArea 1.     Our  lessonswill cover a few basics=landing   an   airplane,and skydiving   for accuracy.~FF~#151
+;0001970B{2My name is Shirley, and your  next lesson  will feature the Rocketbelt. In flight,  to shift to an overhead view, press the L=R buttons.~FF~}#141#138
+2My name is Shirley, and your  next lesson  will feature the Rocketbelt. In flight,  to shift to an overhead view, press the L=R buttons.~FF~#138
+;00019795{3 Your instructor  Lance  here.  Now we will try  flying the Hang Glider. One thing to remember=  after completing  your  objective,      LAND!!~FF~}#148#145
+3 Your instructor  Lance  here.  Now we will try  flying the Hang Glider. One thing to remember=  after completing  your  objective,      LAND!!~FF~#145
+;00019826{4Big Al  is my name,  andreviewing   your   past lessons  is my game.   Iwill help you to perfectthe skills necessary foryou  to  earn   certification.~FF~}#155#152
+4Big Al  is my name,  andreviewing   your   past lessons  is my game.   Iwill help you to perfectthe skills necessary foryou  to  earn   certification.~FF~#152
+;000198BE{5This  time,  we  will   practice the skills thatyou   learned   in  yourfirst lesson.   However,this time  you must  tryflying in some  cold,   winter  weather.~FF~}#165#162
+5This  time,  we  will   practice the skills thatyou   learned   in  yourfirst lesson.   However,this time  you must  tryflying in some  cold,   winter  weather.~FF~#162
+;00019960{6After  touchdown,   takecare   when   using  thebrakes.   The  rain  hasstopped falling, but therunway  is   still  veryslick.~FF~}#131#128
+6After  touchdown,   takecare   when   using  thebrakes.   The  rain  hasstopped falling, but therunway  is   still  veryslick.~FF~#128
+;000199E0{7Lance here again. Today you will find that  the wind is quite strong.   Try not to be blown off course.~FF~}#108#105
+7Lance here again. Today you will find that  the wind is quite strong.   Try not to be blown off course.~FF~#105
+;00019A49{8Time once more to reviewyour skills with Big Al.This   lesson   will  beconducted at night.  Useradar to lead your way.~FF~}#124#121
+8Time once more to reviewyour skills with Big Al.This   lesson   will  beconducted at night.  Useradar to lead your way.~FF~#121
+;00019AC2{Lesson  Complete   objectives =  Score     or more to pass~FF~}#062#059
+Lesson  Complete   objectives =  Score     or more to pass~FF~#059
+|1169
+@00019B91-00019FB5-FF
+;00019B91{  Follow the green glide    path, then land on        the runway.~FF~}#069#066
+  Follow the green glide    path, then land on        the runway.~FF~#066
+;00019BD3{  Maneuver through the 3    rings. Land inside of     the yellow target area.~FF~}#081#078
+  Maneuver through the 3    rings. Land inside of     the yellow target area.~FF~#078
+;00019C21{ Fly through the 3 rings.  Land on either the right  or left runway ahead.~FF~}#078#075
+ Fly through the 3 rings.  Land on either the right  or left runway ahead.~FF~#075
+;00019C6C{ Fly through the 3 rings=  land on target. Lose      points for landing early.~FF~}#082#079
+ Fly through the 3 rings=  land on target. Lose      points for landing early.~FF~#079
+;00019CBB{  Maneuver through the 5    rings. Land inside of     the yellow target area. ~FF~}#082#079
+  Maneuver through the 5    rings. Land inside of     the yellow target area. ~FF~#079
+;00019D0A{  Take off, fly through     rings over the course,    then land on runway.~FF~}#078#075
+  Take off, fly through     rings over the course,    then land on runway.~FF~#075
+;00019D55{ Ride thermal current to   altitude of 500 feet,     then land on target.~FF~}#077#074
+ Ride thermal current to   altitude of 500 feet,     then land on target.~FF~#074
+;00019D9F{  Touch the 3 green bar=    shaped beams. Land on     target over the water.~FF~}#080#077
+  Touch the 3 green bar=    shaped beams. Land on     target over the water.~FF~#077
+;00019DEC{  Taxi and take off. Fly    plane under arch, then    land on runway.~FF~}#073#070
+  Taxi and take off. Fly    plane under arch, then    land on runway.~FF~#070
+;00019E32{ Fly through the ring at   300 feet twice, then      land on target.~FF~}#072#069
+ Fly through the ring at   300 feet twice, then      land on target.~FF~#069
+;00019E77{ Fly through the 3 moving  rings, then touch down    onto the target over the  water. ~FF~}#090#087
+ Fly through the 3 moving  rings, then touch down    onto the target over the  water. ~FF~#087
+;00019ECE{  Maneuver through the 8    rings. Land inside of     the yellow target area. ~FF~}#082#079
+  Maneuver through the 8    rings. Land inside of     the yellow target area. ~FF~#079
+;00019F1D{ Fly through the 2 rings.  Be careful when landing,  the icy runway is slick.~FF~}#081#078
+ Fly through the 2 rings.  Be careful when landing,  the icy runway is slick.~FF~#078
+;00019F6B{ Fly through the 3 arches. Land on either the right  or left runway ahead.~FF~}#078#075
+ Fly through the 3 arches. Land on either the right  or left runway ahead.~FF~#075
+|1061
+@00019FB6-0001A123-FF
+;00019FB6{  Maneuver through the 5    rings. Land inside of     the yellow target area. ~FF~}#082#079
+  Maneuver through the 5    rings. Land inside of     the yellow target area. ~FF~#079
+;0001A005{ Ride the thermal current  to a 700 foot altitude.   Land kite on target.~FF~}#077#074
+ Ride the thermal current  to a 700 foot altitude.   Land kite on target.~FF~#074
+;0001A04F{ Touch the green bar=      shaped beams, then land   on target.~FF~}#067#064
+ Touch the green bar=      shaped beams, then land   on target.~FF~#064
+;0001A08F{ Take off and fly through  the 2 moving arches,      then land on the runway.~FF~}#081#078
+ Take off and fly through  the 2 moving arches,      then land on the runway.~FF~#078
+;0001A0DD{   Touch the 3 bouncing      ball beams. Then          land on target.~FF~}#074#071
+   Touch the 3 bouncing      ball beams. Then          land on target.~FF~#071
+|366
+@0001A177-0001A58C-FF
+;0001A177{Complete lesson in under 0:45   for 20 Points.~FF~}#050#047
+Complete lesson in under 0:45   for 20 Points.~FF~#047
+;0001A1A6{Touch 1 ring for5 Points, all 3 for 20 Points.~FF~}#050#047
+Touch 1 ring for5 Points, all 3 for 20 Points.~FF~#047
+;0001A1D5{Finish in under 0:40 for 20 Pts.Get 10 Pts/Ring.~FF~}#052#049
+Finish in under 0:40 for 20 Pts.Get 10 Pts/Ring.~FF~#049
+;0001A206{Complete lesson in under 2:00   for 20 Points.~FF~}#050#047
+Complete lesson in under 2:00   for 20 Points.~FF~#047
+;0001A235{Touch 1 ring for3 Points. All 5 for 20 Points.~FF~}#050#047
+Touch 1 ring for3 Points. All 5 for 20 Points.~FF~#047
+;0001A264{Finish in under 2:15 for 10 Pts.Get 3 Pts/Ring.~FF~}#051#048
+Finish in under 2:15 for 10 Pts.Get 3 Pts/Ring.~FF~#048
+;0001A294{Complete lesson in under 2:00   for 30 Points.~FF~}#050#047
+Complete lesson in under 2:00   for 30 Points.~FF~#047
+;0001A2C3{Complete lesson in under 1:45   for 20 Points.~FF~}#050#047
+Complete lesson in under 1:45   for 20 Points.~FF~#047
+;0001A2F2{Finish in under 3:00 for 10 Pts.Get 40 Pts/Arch.~FF~}#052#049
+Finish in under 3:00 for 10 Pts.Get 40 Pts/Arch.~FF~#049
+;0001A323{Complete lesson in under 2:00   for 30 Points.~FF~}#050#047
+Complete lesson in under 2:00   for 30 Points.~FF~#047
+;0001A352{Complete lesson in under 1:30   for 20 Points.~FF~}#050#047
+Complete lesson in under 1:30   for 20 Points.~FF~#047
+;0001A381{Touch 1 ring for2 Points. All 8 for 20 Points.~FF~}#050#047
+Touch 1 ring for2 Points. All 8 for 20 Points.~FF~#047
+;0001A3B0{Finish in under 0:40 for 10 Pts.Get 10 Pts/Ring.~FF~}#052#049
+Finish in under 0:40 for 10 Pts.Get 10 Pts/Ring.~FF~#049
+;0001A3E1{Touch 1 ring for5 Points. All 3 for 20 Points.~FF~}#050#047
+Touch 1 ring for5 Points. All 3 for 20 Points.~FF~#047
+;0001A410{Finish in under 0:45 for 20 Pts.Get 10 Pts/Ring.~FF~}#052#049
+Finish in under 0:45 for 20 Pts.Get 10 Pts/Ring.~FF~#049
+;0001A441{Complete lesson in under 1:30   for 20 Points.~FF~}#050#047
+Complete lesson in under 1:30   for 20 Points.~FF~#047
+;0001A470{Touch 1 ring for3 Points. All 5 for 20 Points.~FF~}#050#047
+Touch 1 ring for3 Points. All 5 for 20 Points.~FF~#047
+;0001A49F{Finish in under 2:20 for 10 Pts.Get 3 Pts/Ring.~FF~}#051#048
+Finish in under 2:20 for 10 Pts.Get 3 Pts/Ring.~FF~#048
+;0001A4CF{Complete lesson in under 2:30   for 30 Points.~FF~}#050#047
+Complete lesson in under 2:30   for 30 Points.~FF~#047
+;0001A4FE{Complete lesson in  under  1:30 for 20 Points.~FF~}#050#047
+Complete lesson in  under  1:30 for 20 Points.~FF~#047
+;0001A52D{Finish in under 3:00 for 10 Pts.Get 20 Pts/Arch.~FF~}#052#049
+Finish in under 3:00 for 10 Pts.Get 20 Pts/Arch.~FF~#049
+;0001A55E{Complete lesson in under 2:00   for 30 Points.~FF~}#050#047
+Complete lesson in under 2:00   for 30 Points.~FF~#047
+|1046
+@0001A58D-0001A5EA-FF
+;0001A58D{Complete lesson in under 1:30   for 20 Points.~FF~}#050#047
+Complete lesson in under 1:30   for 20 Points.~FF~#047
+;0001A5BC{Touch 1 ring for2 Points. All 8 for 20 Points.~FF~}#050#047
+Touch 1 ring for2 Points. All 8 for 20 Points.~FF~#047
+|94
+@0001A65E-0001A72F-FF
+;0001A65E{   Nose Down~FF~}#016#013
+   Nose Down~FF~#013
+;0001A66B{Lean Forward~FF~}#016#013
+Lean Forward~FF~#013
+;0001A678{Jets Forward~FF~}#016#013
+Jets Forward~FF~#013
+;0001A685{Right~FF~}#009#006
+Right~FF~#006
+;0001A68B{Left~FF~}#008#005
+Left~FF~#005
+;0001A690{   Nose Up     ~FF~}#019#016
+   Nose Up     ~FF~#016
+;0001A6A0{Lean Back/Flare~FF~}#019#016
+Lean Back/Flare~FF~#016
+;0001A6B0{Jets Reverse   ~FF~}#019#016
+Jets Reverse   ~FF~#016
+;0001A6C0{     Speed Up   ~FF~}#020#017
+     Speed Up   ~FF~#017
+;0001A6D1{Open Parachute  ~FF~}#020#017
+Open Parachute  ~FF~#017
+;0001A6E2{     Fast Jets  ~FF~}#020#017
+     Fast Jets  ~FF~#017
+;0001A6F3{Flare/Quick Turn~FF~}#020#017
+Flare/Quick Turn~FF~#017
+;0001A704{Slow Jets ~FF~}#014#011
+Slow Jets ~FF~#011
+;0001A70F{Speed Down~FF~}#014#011
+Speed Down~FF~#011
+;0001A71A{Missile   ~FF~}#014#011
+Missile   ~FF~#011
+;0001A725{Shift View~FF~}#014#011
+Shift View~FF~#011
+|210
+@0001A85C-0001A8B2-FF
+;0001A85C{Accuracy~FF~}#012#009
+Accuracy~FF~#009
+;0001A865{Time····~FF~}#012#009
+Time····~FF~#009
+;0001A86E{Angle···~FF~}#012#009
+Angle···~FF~#009
+;0001A877{Speed···~FF~}#012#009
+Speed···~FF~#009
+;0001A880{Ring····~FF~}#012#009
+Ring····~FF~#009
+;0001A889{Beam····~FF~}#012#009
+Beam····~FF~#009
+;0001A892{Arch····~FF~}#012#009
+Arch····~FF~#009
+;0001A89B{                       ~FF~}#027#024
+                       ~FF~#024
+|87
+@0001A8DC-0001A968-FF
+;0001A8DC{Total··········0~AB~~AC~~AD~ ~FF~}#033#021
+Total··········0~AB~~AC~~AD~ ~FF~#021
+;0001A8F1{= Points······~FF~}#018#015
+= Points······~FF~#015
+;0001A900{·100~AB~~AC~~AD~ ~FF~}#021#009
+·100~AB~~AC~~AD~ ~FF~#009
+;0001A909{Score········100~AB~~AC~~AD~    ~FF~}#036#024
+Score········100~AB~~AC~~AD~    ~FF~#024
+;0001A921{You failed·····0~A9~~AA~     ~FF~}#033#024
+You failed·····0~A9~~AA~     ~FF~#024
+;0001A939{Bonus··········0~AB~~AC~~AD~    ~FF~}#036#024
+Bonus··········0~AB~~AC~~AD~    ~FF~#024
+;0001A951{Rules Ignored····0~A9~~AA~   ~FF~}#033#024
+Rules Ignored····0~A9~~AA~   ~FF~#024
+|141
+@0001AAAF-0001AEB7-FF
+;0001AAAF{You seem to use pretty good     judgement.~FF~}#046#043
+You seem to use pretty good     judgement.~FF~#043
+;0001AADA{Now you're usinggood judgement. ~FF~}#036#033
+Now you're usinggood judgement. ~FF~#033
+;0001AAFB{Wonderful!~FF~}#014#011
+Wonderful!~FF~#011
+;0001AB06{  Oh!             Great!!~FF~}#029#026
+  Oh!             Great!!~FF~#026
+;0001AB20{Wow!            What a          knockout!~FF~}#045#042
+Wow!            What a          knockout!~FF~#042
+;0001AB4A{ You shouldn't   have gone that  far.~FF~}#041#038
+ You shouldn't   have gone that  far.~FF~#038
+;0001AB70{It was pretty   tough wasn't it?~FF~}#036#033
+It was pretty   tough wasn't it?~FF~#033
+;0001AB91{Sorry, you just took too much   time.~FF~}#041#038
+Sorry, you just took too much   time.~FF~#038
+;0001ABB7{ Too rapid of a  descent will    cause a crash.~FF~}#051#048
+ Too rapid of a  descent will    cause a crash.~FF~#048
+;0001ABE7{Try keeping yourwings parallel  to the ground.~FF~}#050#047
+Try keeping yourwings parallel  to the ground.~FF~#047
+;0001AC16{When landing,   try to keep the pitch up more.~FF~}#050#047
+When landing,   try to keep the pitch up more.~FF~#047
+;0001AC45{ Keep your power above 0, or you will stall.~FF~}#048#045
+ Keep your power above 0, or you will stall.~FF~#045
+;0001AC72{It's best to usethe angle of theguide beam.~FF~}#047#044
+It's best to usethe angle of theguide beam.~FF~#044
+;0001AC9E{Your plane      should have skisattached.~FF~}#045#042
+Your plane      should have skisattached.~FF~#042
+;0001ACC8{Be careful when landing on a    snow covered    runway.~FF~}#059#056
+Be careful when landing on a    snow covered    runway.~FF~#056
+;0001AD00{ Where were you  going?~FF~}#027#024
+ Where were you  going?~FF~#024
+;0001AD18{ That's a        parachute, not  scuba gear.~FF~}#048#045
+ That's a        parachute, not  scuba gear.~FF~#045
+;0001AD45{  If you keep     flaring, you    will stall.~FF~}#049#046
+  If you keep     flaring, you    will stall.~FF~#046
+;0001AD73{Did you do that on purpose?~FF~}#031#028
+Did you do that on purpose?~FF~#028
+;0001AD8F{Sorry, that's   NOT the target. ~FF~}#036#033
+Sorry, that's   NOT the target. ~FF~#033
+;0001ADB0{Rotate to steer until you open  your parachute.~FF~}#051#048
+Rotate to steer until you open  your parachute.~FF~#048
+;0001ADE0{Keep in mind, itisn't possible  to go backwards.~FF~}#052#049
+Keep in mind, itisn't possible  to go backwards.~FF~#049
+;0001AE11{The rings are   now smaller thanbefore.~FF~}#043#040
+The rings are   now smaller thanbefore.~FF~#040
+;0001AE39{Be most careful,the wind is verystrong.~FF~}#043#040
+Be most careful,the wind is verystrong.~FF~#040
+;0001AE61{Not that bad!~FF~}#017#014
+Not that bad!~FF~#014
+;0001AE6F{Hmm,            you did well.~FF~}#033#030
+Hmm,            you did well.~FF~#030
+;0001AE8D{I'll admit it,  your skill is   improving.~FF~}#046#043
+I'll admit it,  your skill is   improving.~FF~#043
+|1033
+@0001AEB8-0001B2D5-FF
+;0001AEB8{ Fantastic! I    won't judge by  appearance.~FF~}#048#045
+ Fantastic! I    won't judge by  appearance.~FF~#045
+;0001AEE5{I never         expected you to do so well.~FF~}#047#044
+I never         expected you to do so well.~FF~#044
+;0001AF11{No!             You should not  have gone there.~FF~}#052#049
+No!             You should not  have gone there.~FF~#049
+;0001AF42{It seemed to    be just a littledifficult.~FF~}#046#043
+It seemed to    be just a littledifficult.~FF~#043
+;0001AF6D{Conserve fuel!  Don't you know  it is expensive?~FF~}#052#049
+Conserve fuel!  Don't you know  it is expensive?~FF~#049
+;0001AF9E{You dropped too fast. Imagine   sliding down    a ramp.~FF~}#059#056
+You dropped too fast. Imagine   sliding down    a ramp.~FF~#056
+;0001AFD6{  Your wings      cannot touch    the ground.~FF~}#049#046
+  Your wings      cannot touch    the ground.~FF~#046
+;0001B004{Keep the nose upin the air, not rubbing on the  ground.~FF~}#059#056
+Keep the nose upin the air, not rubbing on the  ground.~FF~#056
+;0001B03C{Scoring is more strict on the   left runway.~FF~}#048#045
+Scoring is more strict on the   left runway.~FF~#045
+;0001B069{ Sudden control  changes will    cause loss of   balance.~FF~}#061#058
+ Sudden control  changes will    cause loss of   balance.~FF~#058
+;0001B0A3{When it is wet, more runway is  needed to stop.~FF~}#051#048
+When it is wet, more runway is  needed to stop.~FF~#048
+;0001B0D3{ If you fly too  fast you will   not pass this   lesson.~FF~}#060#057
+ If you fly too  fast you will   not pass this   lesson.~FF~#057
+;0001B10C{ You cannot go   farther!~FF~}#029#026
+ You cannot go   farther!~FF~#026
+;0001B126{Don't be in     such a hurry.~FF~}#033#030
+Don't be in     such a hurry.~FF~#030
+;0001B144{You seemed to   forget you're   flying a lesson,not joyriding.~FF~}#066#063
+You seemed to   forget you're   flying a lesson,not joyriding.~FF~#063
+;0001B183{It's easiest to use the overheadview to land.~FF~}#049#046
+It's easiest to use the overheadview to land.~FF~#046
+;0001B1B1{Your rate of    descent was justa bit too fast.~FF~}#051#048
+Your rate of    descent was justa bit too fast.~FF~#048
+;0001B1E1{After clearing  the targets, youcan touch down  only once.~FF~}#062#059
+After clearing  the targets, youcan touch down  only once.~FF~#059
+;0001B21C{Release the key to return rocketto neutral.~FF~}#047#044
+Release the key to return rocketto neutral.~FF~#044
+;0001B248{You should be   careful, inertiacan be strong.~FF~}#050#047
+You should be   careful, inertiacan be strong.~FF~#047
+;0001B277{It's easiest to use the overheadview to land.~FF~}#049#046
+It's easiest to use the overheadview to land.~FF~#046
+;0001B2A5{Be quick, the   time scoring is becoming strict.~FF~}#052#049
+Be quick, the   time scoring is becoming strict.~FF~#049
+|1054
+@0001B2D6-0001B70C-FF
+;0001B2D6{Hey! You did    that on purpose,didn't you!~FF~}#047#044
+Hey! You did    that on purpose,didn't you!~FF~#044
+;0001B302{You were close, but look at you,you're soaked!!~FF~}#051#048
+You were close, but look at you,you're soaked!!~FF~#048
+;0001B332{Flaring too     much will cause you to stall.~FF~}#049#046
+Flaring too     much will cause you to stall.~FF~#046
+;0001B360{ What were you   trying to do?  ~FF~}#036#033
+ What were you   trying to do?  ~FF~#033
+;0001B381{You landed just a little off    target.~FF~}#043#040
+You landed just a little off    target.~FF~#040
+;0001B3A9{Don't flare so  much, you'll    fall too fast.~FF~}#050#047
+Don't flare so  much, you'll    fall too fast.~FF~#047
+;0001B3D8{If falling fast,flaring causes  you to float.~FF~}#049#046
+If falling fast,flaring causes  you to float.~FF~#046
+;0001B406{Try changing    your balance to alter direction.~FF~}#052#049
+Try changing    your balance to alter direction.~FF~#049
+;0001B437{ I hate rain! I  feel damp down  to my bones.~FF~}#049#046
+ I hate rain! I  feel damp down  to my bones.~FF~#046
+;0001B465{Good.~FF~}#009#006
+Good.~FF~#006
+;0001B46B{Very nice.~FF~}#014#011
+Very nice.~FF~#011
+;0001B476{Wonderful.~FF~}#014#011
+Wonderful.~FF~#011
+;0001B481{Oh,             that's just     great.~FF~}#042#039
+Oh,             that's just     great.~FF~#039
+;0001B4A8{Oh!             I...            I'm speechless!!~FF~}#052#049
+Oh!             I...            I'm speechless!!~FF~#049
+;0001B4D9{Are you sure youwanted to take  this lesson?~FF~}#048#045
+Are you sure youwanted to take  this lesson?~FF~#045
+;0001B506{Landings you canwalk away from  are at least    passable.~FF~}#061#058
+Landings you canwalk away from  are at least    passable.~FF~#058
+;0001B540{  You took too    much time.~FF~}#032#029
+  You took too    much time.~FF~#029
+;0001B55D{Avoid shock dam=age. Don't cut  too much power.~FF~}#051#048
+Avoid shock dam=age. Don't cut  too much power.~FF~#048
+;0001B58D{Keep your wings parallel to     the ground.~FF~}#047#044
+Keep your wings parallel to     the ground.~FF~#044
+;0001B5B9{ When landing,   don't use so    much pitch.~FF~}#048#045
+ When landing,   don't use so    much pitch.~FF~#045
+;0001B5E6{Stalling will   occur if you cuttoo much power.~FF~}#051#048
+Stalling will   occur if you cuttoo much power.~FF~#048
+;0001B616{To rise, advancethe throttle, todescend, cut it back.~FF~}#057#054
+To rise, advancethe throttle, todescend, cut it back.~FF~#054
+;0001B64C{ Today, the wind is very strong. Be careful!~FF~}#048#045
+ Today, the wind is very strong. Be careful!~FF~#045
+;0001B679{ Don't overwork  to hit the      rings.~FF~}#043#040
+ Don't overwork  to hit the      rings.~FF~#040
+;0001B6A1{ Where were you  going?~FF~}#027#024
+ Where were you  going?~FF~#024
+;0001B6B9{  Land on the     land.~FF~}#027#024
+  Land on the     land.~FF~#024
+;0001B6D1{If you don't tryfor the target, you won't score the points.~FF~}#063#060
+If you don't tryfor the target, you won't score the points.~FF~#060
+|1079
+@0001B70D-0001BB31-FF
+;0001B70D{Don't forget to ascend to 500   feet.~FF~}#041#038
+Don't forget to ascend to 500   feet.~FF~#038
+;0001B733{ Don't forget to ascend to 700   feet.~FF~}#042#039
+ Don't forget to ascend to 700   feet.~FF~#039
+;0001B75A{ Mind your       landing speed!~FF~}#035#032
+ Mind your       landing speed!~FF~#032
+;0001B77A{To  keep height,press Down on   the Control Pad.~FF~}#052#049
+To  keep height,press Down on   the Control Pad.~FF~#049
+;0001B7AB{ Point the nose  down to pick    up speed.~FF~}#046#043
+ Point the nose  down to pick    up speed.~FF~#043
+;0001B7D6{ Use either of   the 2 thermals  to ascend.~FF~}#047#044
+ Use either of   the 2 thermals  to ascend.~FF~#044
+;0001B802{To turn quickly,press the A     Button to       flare.~FF~}#058#055
+To turn quickly,press the A     Button to       flare.~FF~#055
+;0001B839{ You shouldn't   have gone that  far.~FF~}#041#038
+ You shouldn't   have gone that  far.~FF~#038
+;0001B85F{Your aim is justa little off.~FF~}#033#030
+Your aim is justa little off.~FF~#030
+;0001B87D{ You took a bit  too long.~FF~}#030#027
+ You took a bit  too long.~FF~#027
+;0001B898{ Try using the   overhead view   for landing.~FF~}#049#046
+ Try using the   overhead view   for landing.~FF~#046
+;0001B8C6{Pay closer      attention to    your fall rate.~FF~}#051#048
+Pay closer      attention to    your fall rate.~FF~#048
+;0001B8F6{That place is   not your target.~FF~}#036#033
+That place is   not your target.~FF~#033
+;0001B917{ To hover, first stop by using   reverse thrust.~FF~}#052#049
+ To hover, first stop by using   reverse thrust.~FF~#049
+;0001B948{Match the movingtarget's motion when trying to  land on it.~FF~}#063#060
+Match the movingtarget's motion when trying to  land on it.~FF~#060
+;0001B984{In this lesson, you shouldn't goup so high.~FF~}#047#044
+In this lesson, you shouldn't goup so high.~FF~#044
+;0001B9B0{The wind is too strong to stop  very easily.~FF~}#048#045
+The wind is too strong to stop  very easily.~FF~#045
+;0001B9DD{You didn't do   that well, but Istill have to   pass you.~FF~}#061#058
+You didn't do   that well, but Istill have to   pass you.~FF~#058
+;0001BA17{Awful close, butyour performancewas passable.~FF~}#049#046
+Awful close, butyour performancewas passable.~FF~#046
+;0001BA45{You did well,   but, you can do even better.~FF~}#048#045
+You did well,   but, you can do even better.~FF~#045
+;0001BA72{You seem to be anatural at this.~FF~}#036#033
+You seem to be anatural at this.~FF~#033
+;0001BA93{ I've only one   thing to say=   Good job!~FF~}#046#043
+ I've only one   thing to say=   Good job!~FF~#043
+;0001BABE{ Where were you  going to go?~FF~}#033#030
+ Where were you  going to go?~FF~#030
+;0001BADC{ You haven't     quite acquired  enough skill. ~FF~}#051#048
+ You haven't     quite acquired  enough skill. ~FF~#048
+;0001BB0C{You flew around a little too    much.~FF~}#041#038
+You flew around a little too    much.~FF~#038
+|1061
+@0001BB32-0001BF35-FF
+;0001BB32{  Don't try to    force the       landing so      much.~FF~}#059#056
+  Don't try to    force the       landing so      much.~FF~#056
+;0001BB6A{Watch the angle of your wings   more carefully.~FF~}#051#048
+Watch the angle of your wings   more carefully.~FF~#048
+;0001BB9A{ Your degree of  pitch was too   great.~FF~}#043#040
+ Your degree of  pitch was too   great.~FF~#040
+;0001BBC2{Keep your wings horizontal underthe arch.~FF~}#045#042
+Keep your wings horizontal underthe arch.~FF~#042
+;0001BBEC{ Keep the wind   direction in    mind.~FF~}#042#039
+ Keep the wind   direction in    mind.~FF~#039
+;0001BC13{ Here,           you must rely   on radar.~FF~}#046#043
+ Here,           you must rely   on radar.~FF~#043
+;0001BC3E{Circle over the sea once to makelanding easier. ~FF~}#052#049
+Circle over the sea once to makelanding easier. ~FF~#049
+;0001BC6F{ What were you   thinking!~FF~}#030#027
+ What were you   thinking!~FF~#027
+;0001BC8A{To ascend, you  need to ride a  thermal current.~FF~}#052#049
+To ascend, you  need to ride a  thermal current.~FF~#049
+;0001BCBB{ Watch your      descent rate!~FF~}#034#031
+ Watch your      descent rate!~FF~#031
+;0001BCDA{To keep height, press Down on   the Control Pad.~FF~}#052#049
+To keep height, press Down on   the Control Pad.~FF~#049
+;0001BD0B{You have to go  through the ringtwice.~FF~}#042#039
+You have to go  through the ringtwice.~FF~#039
+;0001BD32{If you've enoughairspeed, you'llrise at landing.~FF~}#052#049
+If you've enoughairspeed, you'llrise at landing.~FF~#049
+;0001BD63{Rolling as you  land causes you to lose balance.~FF~}#052#049
+Rolling as you  land causes you to lose balance.~FF~#049
+;0001BD94{Keep in mind    that the wind isstrong!~FF~}#043#040
+Keep in mind    that the wind isstrong!~FF~#040
+;0001BDBC{When landing, becareful not to  be blown off    target.~FF~}#059#056
+When landing, becareful not to  be blown off    target.~FF~#056
+;0001BDF4{Where did you   think you might land?~FF~}#041#038
+Where did you   think you might land?~FF~#038
+;0001BE1A{Be more careful.The equipment isexpensive.~FF~}#046#043
+Be more careful.The equipment isexpensive.~FF~#043
+;0001BE45{  Wandering a     bit much,       weren't you?~FF~}#050#047
+  Wandering a     bit much,       weren't you?~FF~#047
+;0001BE74{Hey, it's easierto land using anoverhead view.~FF~}#050#047
+Hey, it's easierto land using anoverhead view.~FF~#047
+;0001BEA3{Reversing thrustwon't help when you're falling  too fast.~FF~}#061#058
+Reversing thrustwon't help when you're falling  too fast.~FF~#058
+;0001BEDD{Sorry,          that was not    your target.~FF~}#048#045
+Sorry,          that was not    your target.~FF~#045
+;0001BF0A{Inertia is very strong for the  Rocketbelt.~FF~}#047#044
+Inertia is very strong for the  Rocketbelt.~FF~#044
+|1028
+@0001BF36-0001C215-FF
+;0001BF36{When landing, itis easier to usereverse thrust.~FF~}#051#048
+When landing, itis easier to usereverse thrust.~FF~#048
+;0001BF66{  Over water,     watch your      altitude.~FF~}#047#044
+  Over water,     watch your      altitude.~FF~#044
+;0001BF92{ Is it possible  to land on the  moving target? ~FF~}#052#049
+ Is it possible  to land on the  moving target? ~FF~#049
+;0001BFC3{Who did you     think you might drop in on?~FF~}#047#044
+Who did you     think you might drop in on?~FF~#044
+;0001BFEF{The target is   small. You need to slow down.~FF~}#049#046
+The target is   small. You need to slow down.~FF~#046
+;0001C01D{ Your flare was  too long.~FF~}#030#027
+ Your flare was  too long.~FF~#027
+;0001C038{   ··········      ··········      SPLAT!!~FF~}#046#043
+   ··········      ··········      SPLAT!!~FF~#043
+;0001C063{You know what   you did, I will say no more.~FF~}#048#045
+You know what   you did, I will say no more.~FF~#045
+;0001C090{Before you open your 'chute, do not overbalance.~FF~}#052#049
+Before you open your 'chute, do not overbalance.~FF~#049
+;0001C0C1{ Don't be too    confident until you land.~FF~}#046#043
+ Don't be too    confident until you land.~FF~#043
+;0001C0EC{Almost!~FF~}#011#008
+Almost!~FF~#008
+;0001C0F4{ Isn't a night   jump peaceful?~FF~}#035#032
+ Isn't a night   jump peaceful?~FF~#032
+;0001C114{U~C1~{n]}~C1~~A7~~C1~~DD~~C1~n~C1~6~C1~~CF~~C1~H~C2~  What a waste    of a bonus      stage!~FF~}#096#057
+U~C1~{n]}~C1~~A7~~C1~~DD~~C1~n~C1~6~C1~~CF~~C1~H~C2~  What a waste    of a bonus      stage!~FF~#057
+;0001C14D{Isn't this fun?~FF~}#019#016
+Isn't this fun?~FF~#016
+;0001C15D{  Don't waste     your bonus      stage!~FF~}#044#041
+  Don't waste     your bonus      stage!~FF~#041
+;0001C186{Was it luck,    or was it skill?~FF~}#036#033
+Was it luck,    or was it skill?~FF~#033
+;0001C1A7{ Remember,       this is a bonus stage.~FF~}#043#040
+ Remember,       this is a bonus stage.~FF~#040
+;0001C1CF{   Very good.~FF~}#017#014
+   Very good.~FF~#014
+;0001C1DD{A nice bonus waspossible, what  happened?~FF~}#045#042
+A nice bonus waspossible, what  happened?~FF~#042
+;0001C207{You lucky dog.~FF~}#018#015
+You lucky dog.~FF~#015
+|736
+@0001C266-0001C2D3-FF
+;0001C266{Light Plane~FF~}#015#012
+Light Plane~FF~#012
+;0001C272{Skydiving··~FF~}#015#012
+Skydiving··~FF~#012
+;0001C27E{Rocketbelt·~FF~}#015#012
+Rocketbelt·~FF~#012
+;0001C28A{Hang Glider~FF~}#015#012
+Hang Glider~FF~#012
+;0001C296{·········~AB~~AC~~AD~ ~FF~}#026#014
+·········~AB~~AC~~AD~ ~FF~#014
+;0001C2A4{                        ~FF~}#028#025
+                        ~FF~#025
+;0001C2BD{Need    ~AB~~AC~~AD~ to qualify~FF~}#035#023
+Need    ~AB~~AC~~AD~ to qualify~FF~#023
+|110
+@0001C31C-0001C741-FF
+;0001C31C{Certification   may not be easy.~FF~}#036#033
+Certification   may not be easy.~FF~#033
+;0001C33D{Never give up!~FF~}#018#015
+Never give up!~FF~#015
+;0001C34C{You can do it!~FF~}#018#015
+You can do it!~FF~#015
+;0001C35B{Keep it up.~FF~}#015#012
+Keep it up.~FF~#012
+;0001C367{You are almost  certified.~FF~}#030#027
+You are almost  certified.~FF~#027
+;0001C382{ You are not     certified,try   again!~FF~}#043#040
+ You are not     certified,try   again!~FF~#040
+;0001C3AA{Congratulations!You are now     certified.~FF~}#046#043
+Congratulations!You are now     certified.~FF~#043
+;0001C3D5{With this score,you might not   be certified.~FF~}#049#046
+With this score,you might not   be certified.~FF~#046
+;0001C403{ It seems very   hard,but,don't  give up!~FF~}#045#042
+ It seems very   hard,but,don't  give up!~FF~#042
+;0001C42D{You can still doit.~FF~}#023#020
+You can still doit.~FF~#020
+;0001C441{Keep up the goodwork, you can doit.~FF~}#039#036
+Keep up the goodwork, you can doit.~FF~#036
+;0001C465{  Great work,     keep it up.   ~FF~}#036#033
+  Great work,     keep it up.   ~FF~#033
+;0001C486{Although I can'tcertify you now,try again later.~FF~}#052#049
+Although I can'tcertify you now,try again later.~FF~#049
+;0001C4B7{Congratulations!You're becoming very good.~FF~}#046#043
+Congratulations!You're becoming very good.~FF~#043
+;0001C4E2{ Do you want to  give up?~FF~}#029#026
+ Do you want to  give up?~FF~#026
+;0001C4FC{You're barely   making it. Want to give up?~FF~}#047#044
+You're barely   making it. Want to give up?~FF~#044
+;0001C528{You can do it,  if you try your best.~FF~}#041#038
+You can do it,  if you try your best.~FF~#038
+;0001C54E{OK! You're doingOK, but you can do better!~FF~}#046#043
+OK! You're doingOK, but you can do better!~FF~#043
+;0001C579{ OK!! It seems   so easy now,    doesn't it?~FF~}#048#045
+ OK!! It seems   so easy now,    doesn't it?~FF~#045
+;0001C5A6{I'm so sorry, I cannot certify  you.~FF~}#040#037
+I'm so sorry, I cannot certify  you.~FF~#037
+;0001C5CB{Your skills haveearned you your certification.~FF~}#050#047
+Your skills haveearned you your certification.~FF~#047
+;0001C5FA{It's silly to goon, even if you do better.~FF~}#046#043
+It's silly to goon, even if you do better.~FF~#043
+;0001C625{You still have achance, but justbarely.~FF~}#043#040
+You still have achance, but justbarely.~FF~#040
+;0001C64D{If you do       your best, you  stand a chance.~FF~}#051#048
+If you do       your best, you  stand a chance.~FF~#048
+;0001C67D{Even though yourskills are pass=able,there is   room to improve.~FF~}#068#065
+Even though yourskills are pass=able,there is   room to improve.~FF~#065
+;0001C6BE{Be proud,you    have done very  well!~FF~}#041#038
+Be proud,you    have done very  well!~FF~#038
+;0001C6E4{I cannot certifyyou. You requiremore practice.~FF~}#050#047
+I cannot certifyyou. You requiremore practice.~FF~#047
+;0001C713{Magnificent!    You have earned certification.~FF~}#050#047
+Magnificent!    You have earned certification.~FF~#047
+|1062
+@0001C742-0001CBF8-FF
+;0001C742{CONTINUERETRYEND~FF~}#020#017
+CONTINUERETRYEND~FF~#017
+;0001C753{We have some bad news.  Tony, Lance and Shirley,while en route to  IzanuIsland,   were  capturedby   the  EVIL Syndicatebased there.            For  political  reasons,our military authoritiescannot attempt  a rescue.~FF~}#221#218
+We have some bad news.  Tony, Lance and Shirley,while en route to  IzanuIsland,   were  capturedby   the  EVIL Syndicatebased there.            For  political  reasons,our military authoritiescannot attempt  a rescue.~FF~#218
+;0001C82D{You are  the only FlightClub member whose ratingis near what is requiredfor operating the rescuehelicopter. Will you go?   YesNo! I won't do it.~FF~}#148#145
+You are  the only FlightClub member whose ratingis near what is requiredfor operating the rescuehelicopter. Will you go?   YesNo! I won't do it.~FF~#145
+;0001C8BE{No! You should go.~FF~}#022#019
+No! You should go.~FF~#019
+;0001C8D1{OK!             Take off        immediately.~FF~}#048#045
+OK!             Take off        immediately.~FF~#045
+;0001C8FE{Do not be such acoward!   I  nowask you again.~FF~}#050#047
+Do not be such acoward!   I  nowask you again.~FF~#047
+;0001C92D{I'm licensed formotorcycles, nothelicopters.~FF~}#048#045
+I'm licensed formotorcycles, nothelicopters.~FF~#045
+;0001C95A{I forgot,       chickens cannot fly!~FF~}#040#037
+I forgot,       chickens cannot fly!~FF~#037
+;0001C97F{As  you already know,  Iwould like to ask you todo something  above  andbeyond the call of duty.I know  you will  acceptit.YesNo! I won't do it.~FF~}#148#145
+As  you already know,  Iwould like to ask you todo something  above  andbeyond the call of duty.I know  you will  acceptit.YesNo! I won't do it.~FF~#145
+;0001CA10{SECRET COMMAND~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~Our agent  has  infiltrated enemy headquarters on Izanu Island.   Your  instructors have been freed   and await rescue at the heliport.     Using the radar as a guide, infiltrate the airspace and rescue them.~FF~}#282#237
+SECRET COMMAND~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~Our agent  has  infiltrated enemy headquarters on Izanu Island.   Your  instructors have been freed   and await rescue at the heliport.     Using the radar as a guide, infiltrate the airspace and rescue them.~FF~#237
+;0001CAFD{SECRET COMMAND~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~Lately,  the  EVIL Syndicatehas grown.    They now  havekidnapped  a government  VIPthat opposes them. Our agenthas penetrated their hideoutand  they await  your rescuefrom the heliport tonight.  Please... he is my brother!~FF~}#297#252
+SECRET COMMAND~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~Lately,  the  EVIL Syndicatehas grown.    They now  havekidnapped  a government  VIPthat opposes them. Our agenthas penetrated their hideoutand  they await  your rescuefrom the heliport tonight.  Please... he is my brother!~FF~#252
+|1207
+@0001CBF9-0001CD05-FF
+;0001CBF9{You have done a terrificjob.  For an outstandingperformance  I award youSilver Pilot's Wings.~FF~}#097#094
+You have done a terrificjob.  For an outstandingperformance  I award youSilver Pilot's Wings.~FF~#094
+;0001CC57{You have done  a simply magnificent job.        As  a  reward  for  yourexceptional performance I hereby award you  our highest award=          The Golden      Pilot's Wings.~FF~}#178#175
+You have done  a simply magnificent job.        As  a  reward  for  yourexceptional performance I hereby award you  our highest award=          The Golden      Pilot's Wings.~FF~#175
+|269
+@0001F1C7-0001F1CE-FF
+;0001F1C7{Password}#008#008
+Password#008
+|8
+@0001F1D2-0001F1D9-FF
+;0001F1D2{{P]}{a]}{s]}{s]}{w]}{o]}{r]}{d]}}#032#008
+{P]}{a]}{s]}{s]}{w]}{o]}{r]}{d]}#008
+|8
+@0001F1E6-0001F1EA-FF
+;0001F1E6{Start}#005#005
+Start#005
+|5
+@0001F1EE-0001F1F2-FF
+;0001F1EE{{S]}{t]}{a]}{r]}{t]}}#020#005
+{S]}{t]}{a]}{r]}{t]}#005
+|5
+@0001F1F6-0001F1FD-FF
+;0001F1F6{Continue}#008#008
+Continue#008
+|8
+@0001F201-0001F208-FF
+;0001F201{{C]}{o]}{n]}{t]}{i]}{n]}{u]}{e]}}#032#008
+{C]}{o]}{n]}{t]}{i]}{n]}{u]}{e]}#008
+|8
+@0001F82B-0001F8AB-FF
+;0001F82B{$Flight$Area$1$$$Flight$Area$2$$$Flight$Area$3$$$Flight$Area$4$$$Flight$Area$5$$$Flight$Area$6$$$Flight$Area$7$$$Flight$Area$8$$~FF~}#132#129
+$Flight$Area$1$$$Flight$Area$2$$$Flight$Area$3$$$Flight$Area$4$$$Flight$Area$5$$$Flight$Area$6$$$Flight$Area$7$$$Flight$Area$8$$~FF~#129
+|129

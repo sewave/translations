@@ -1,0 +1,1321 @@
+@0001F1C7-0001F1CE-FF
+;0001F1C7{Password}#008#008
+Clave   #008
+|8
+@0001F1D2-0001F1D9-FF
+;0001F1D2{{P]}{a]}{s]}{s]}{w]}{o]}{r]}{d]}}#032#008
+{C]}{l]}{a]}{v]}{e]}   #008
+|8
+@0001F1E6-0001F1EA-FF
+;0001F1E6{Start}#005#005
+Nueva#005
+|5
+@0001F1EE-0001F1F2-FF
+;0001F1EE{{S]}{t]}{a]}{r]}{t]}}#020#005
+{N]}{u]}{e]}{v]}{a]}#005
+|5
+@0001F1F6-0001F1FD-FF
+;0001F1F6{Continue}#008#008
+Continúa#008
+|8
+@0001F201-0001F208-FF
+;0001F201{{C]}{o]}{n]}{t]}{i]}{n]}{u]}{e]}}#032#008
+{C]}{o]}{n]}{t]}{i]}{n]}{ú]}{a]}#008
+|8
+@000097EB-000098EA-FF
+;000097EB{___________________________________________________________________NORTH_1_~C4~~C5~____________________NORTHEAST_2_~C4~~C5~____________________EAST_4_~C4~~C5~_____________________NORTHWEST_5_~C4~~C5~__________________NORTHWEST_6_~C4~~C5~____________________WEST_6_~C4~~C5~____________________}#292#256
+________________
+________________
+________________
+________________
+___NORTE_1_~C4~~C5~___
+________________
+__NORESTE_2_~C4~~C5~__
+________________
+___ESTE_4_~C4~~C5~____
+________________
+_NOROESTE_5_~C4~~C5~__
+________________
+_NOROESTE_6_~C4~~C5~__
+________________
+___OESTE_6_~C4~~C5~___
+________________#256
+|256
+@0000BA08-0000BAA7-FF
+;0000BA08{____REMAINING_______________________LAND_NOW_____________________NEXT_____FEET______________________LAND_NOW_______________________POINTS_______________________}#160#160
+____RESTANTE____
+________________
+__ATERRIZA_YA___
+________________
+_SIG._____PIES__
+________________
+____ATERRIZA_YA_
+________________
+___PUNTOS_______
+________________#160
+|160
+@00010000-000103FF-FF
+;00010000{____LANDING____________OK________LANDING_FAILURE_________________GREAT_LANDING______________________LANDING_________NO_GOOD___________HIT!___________________________End________==_Message_05_==_PUSH_A_TO_OPEN___________________STAY_INSIDE_____OF_COURSE______OUT_OF_COURSE__________________________________==_Message_09_==___BAR_PASSED___________________________________==_Message_0B_==________________==_Message_0C_==__OUT_OF_FUEL_____________________RING_PASSED________________________________________________________LANDED_____________________HURRY,_FUEL_LOW!_________________REDUCE_HEIGHT___________________WATCH_ALTITUDE___________________RESCUE__________SUCCESSFUL!______TOUCH_DOWN________________________BRAKE!_______________________2_PTS._LOST___________________RATE_OF_DESCENT____TOO_GREAT________LAND_NOW_________________________LANDED________OUT_OF_AREA__________________==_Message_1B_==__BAR_TOUCHED_____________________OUT_OF_TIME_____________________ARCH_PASSED___________________________________==_Message_1F_==}#1024#1024
+___ATERRIZAJE___
+____CORRECTO____
+_MAL_ATERRIZAJE_
+________________
+GRAN_ATERRIZAJE_
+________________
+EL_ATERRIZAJE_NO
+____ES_BUENO____
+____GOLPEADO____
+________________
+_____Fin________
+==_Mensaje_05_==
+__A_PARA_ABRIR__
+________________
+MANTENTE_DENTRO_
+___DEL_RUMBO____
+FUERA_DEL_RUMBO_
+________________
+________________
+==_Mensaje_09_==
+__BARRA_PASADA__
+________________
+________________
+==_Mensaje_0B_==
+________________
+==_Mensaje_0C_==
+SIN_COMBUSTIBLE_
+________________
+_ANILLO_PASADO__
+________________
+________________
+________________
+___ATERRIZADO___
+________________
+RAUDO,POCO_COMB.
+________________
+REDUCE_TU_ALTURA
+________________
+ALERTA_A_ALTITUD
+________________
+__RESCATE_______
+__CONSEGUIDO____
+___ATERRIZAJE___
+________________
+_____FRENA______
+________________
+2_PTS._PERDIDOS_
+________________
+RATIO_DE_BAJADA_
+DEMASIADO_GRANDE
+_ATERRIZA_AHORA_
+________________
+__ATERRIZASTE___
+FUERA_DE_LA_ZONA
+________________
+==_Mensaje_1B_==
+__BARRA_TOCADA__
+________________
+FUERA_DE_TIEMPO_
+________________
+__ARCO_PASADO___
+________________
+________________
+==_Mensaje_1F_==#1024
+|1024
+@00010400-000105FF-FF
+;00010400{__DEMO_FLIGHT_____DEMO_FLIGHT___==_Message_21_====_Message_21_==REPEATEDLY_PRESSTHE___~C0~~C1~__BUTTONLAND_IN_THE_POOL_________________BOUNCE_ONTO_~C6~~C7~__________________CONTROL_WITH_~6E~~6F~______________________~C8~~C9~~CA~~CB~________CHANGES_VIEW__==_Message_27_====_Message_27_====_Message_28_====_Message_28_====_Message_29_====_Message_29_====_Message_2A_====_Message_2A_====_Message_2B_====_Message_2B_====_Message_2C_====_Message_2C_====_Message_2D_====_Message_2D_====_Message_2E_====_Message_2E_==________________________________}#542#512
+___VUELO_DEMO___
+___VUELO_DEMO___
+==_Mensaje_21_==
+==_Mensaje_21_==
+_____PULSA______
+REPETIDAMENTE_~C0~~C1~
+_ATERRIZA_EN_LA_
+____PISCINA_____
+__REBOTA_EN_~C6~~C7~__
+________________
+_CONTROLA_CON_~6E~~6F~
+________________
+______~C8~~C9~~CA~~CB~______
+CAMBIA_LA_VISTA_
+==_Mensaje_27_==
+==_Mensaje_27_==
+==_Mensaje_28_==
+==_Mensaje_28_==
+==_Mensaje_29_==
+==_Mensaje_29_==
+==_Mensaje_2A_==
+==_Mensaje_2A_==
+==_Mensaje_2B_==
+==_Mensaje_2B_==
+==_Mensaje_2C_==
+==_Mensaje_2C_==
+==_Mensaje_2D_==
+==_Mensaje_2D_==
+==_Mensaje_2E_==
+==_Mensaje_2E_==
+________________
+________________#512
+|512
+@00011782-00011792-FF
+;00011782{HIROSHI YAMAUCHI~FF~}#020#017
+HIROSHI YAMAUCHI~FF~#017
+|17
+@000117A1-000117B1-FF
+;000117A1{SHIGERU MIYAMOTO~FF~}#020#017
+SHIGERU MIYAMOTO~FF~#017
+|17
+@000117C0-000117D0-FF
+;000117C0{TADASHI SUGIYAMA~FF~}#020#017
+TADASHI SUGIYAMA~FF~#017
+|17
+@000117E1-000117EC-FF
+;000117E1{SHUHEI KATO~FF~}#015#012
+SHUHEI KATO~FF~#012
+|12
+@000117F0-000117FD-FF
+;000117F0{HAJIME YAJIMA~FF~}#017#014
+HAJIME YAJIMA~FF~#014
+|14
+@00011801-0001180F-FF
+;00011801{TAKUMI KAWAGOE~FF~}#018#015
+TAKUMI KAWAGOE~FF~#015
+|15
+@00011826-0001182B-FF
+;00011826{SUSIE~FF~}#009#006
+SUSIE~FF~#006
+|6
+@0001182F-00011839-FF
+;0001182F{NAOKI MORI~FF~}#014#011
+NAOKI MORI~FF~#011
+|11
+@0001184E-00011858-FF
+;0001184E{KOJI KONDO~FF~}#014#011
+KOJI KONDO~FF~#011
+|11
+@0001185C-00011864-FF
+;0001185C{SOYO OKA~FF~}#012#009
+SOYO OKA~FF~#009
+|9
+@00011874-0001187B-FF
+;00011874{THE END~FF~}#011#008
+$$FIN$$~FF~#008
+|8
+@00019593-0001965B-FF
+;00019593{BONUS CHANCE~FF~}#016#013
+OPORTUNIDAD ~FF~#013
+;000195A0{Join The Flight Club Now!Do you ever dream of flying?The  Flight  Club  offers  avariety  of aerial sports tothrill and challenge you.   Dare to take  the first stepand earn your license.~FF~}#191#188
+¡Ven  Al  Club de  Vuelo!
+¿A veces sueñas  que vuelas?
+El Club De Vuelo tiene mucha
+variedad de  deportes aéreos
+para emocionarte y retarte. 
+Osa  dar  el  primer  paso y
+gánate tu licencia.   ~FF~#188
+|201
+@0001966C-00019AFC-FF
+;0001966C{Lesson ~FF~}#011#008
+Lección~FF~#008
+;00019674{1Hi, I am Tony,  and I'llbe  your  instructor forArea 1.     Our  lessonswill cover a few basics=landing   an   airplane,and skydiving   for accuracy.~FF~}#154#151
+1
+Hola, soy  Tony,  y seré
+tu  instructor  para  la
+Zona  1.  Las  lecciones
+cubrirán  unos  básicos=
+aterrizar una avioneta y
+paracaidismo  de
+precisión.   ~FF~#151
+;0001970B{2My name is Shirley, and your  next lesson  will feature the Rocketbelt. In flight,  to shift to an overhead view, press the L=R buttons.~FF~}#141#138
+2
+Me  llamo Shirley,  y tu
+próxima  lección contará
+con el Cintocohete.     
+Volando,  para cambiar a
+una vista elevada, pulsa
+los botones L=R.~FF~#138
+;00019795{3 Your instructor  Lance  here.  Now we will try  flying the Hang Glider. One thing to remember=  after completing  your  objective,      LAND!!~FF~}#148#145
+3
+Aquí    tu    instructor
+Lance. Ahora  probaremos
+a volar en Ala Delta.   
+Una cosa a  recordar= al
+completar  tu  objetivo,
+¡¡ATERRIZA!!    
+       ~FF~#145
+;00019826{4Big Al  is my name,  andreviewing   your   past lessons  is my game.   Iwill help you to perfectthe skills necessary foryou  to  earn   certification.~FF~}#155#152
+4
+Big  Al es mi  nombre, y
+revisar  tus   lecciones
+pasadas  es lo  mío.  Te
+ayudaré  a  perfeccionar
+tus habilidades para que
+te    ganes   la
+certificación.~FF~#152
+;000198BE{5This  time,  we  will   practice the skills thatyou   learned   in  yourfirst lesson.   However,this time  you must  tryflying in some  cold,   winter  weather.~FF~}#165#162
+5
+Esta vez,  practicaremos
+las habilidades  que has
+aprendido  en tu primera
+lección.  Sin   embargo,
+esta vez  debes intentar
+volar    en   un
+frío,   invernal
+tiempo. ~FF~#162
+;00019960{6After  touchdown,   takecare   when   using  thebrakes.   The  rain  hasstopped falling, but therunway  is   still  veryslick.~FF~}#131#128
+6
+Tras    aterrizar,   ten
+cuidado    usando    los
+frenos.   La  lluvia  ha
+dejado de caer,  pero la
+pista aún resbala mucho.
+      ~FF~#128
+;000199E0{7Lance here again. Today you will find that  the wind is quite strong.   Try not to be blown off course.~FF~}#108#105
+7
+Lance aquí de nuevo. Hoy
+verás  que el  viento es
+bastante fuerte. Intenta
+no   desviarte   de   tu
+rumbo. ~FF~#105
+;00019A49{8Time once more to reviewyour skills with Big Al.This   lesson   will  beconducted at night.  Useradar to lead your way.~FF~}#124#121
+8
+Vuelve  a  ser  hora  de
+revisar  habilidades con
+Big  Al.  Esta   lección
+será realizada de noche.
+Guíate con el radar.   ~FF~#121
+;00019AC2{Lesson  Complete   objectives =  Score     or more to pass~FF~}#062#059
+Lección 
+Completa   objetivos =   
+Marca     o más y pasarás~FF~#059
+|1169
+@00019B91-00019FB5-FF
+;00019B91{  Follow the green glide    path, then land on        the runway.~FF~}#069#066
+Sigue la ruta de planeo   
+verde y luego aterriza en 
+en la pista. ~FF~#066
+;00019BD3{  Maneuver through the 3    rings. Land inside of     the yellow target area.~FF~}#081#078
+Maniobra a través de los 3
+anillos. Aterriza dentro  
+de la zona amarilla.     ~FF~#078
+;00019C21{ Fly through the 3 rings.  Land on either the right  or left runway ahead.~FF~}#078#075
+Vuela entre los 3 anillos.
+Aterriza en la pista      
+derecha o izquierda.  ~FF~#075
+;00019C6C{ Fly through the 3 rings=  land on target. Lose      points for landing early.~FF~}#082#079
+Vuela entre los 3 anillos=
+aterriza en el objetivo.  
+Pierdes puntos por rápido.~FF~#079
+;00019CBB{  Maneuver through the 5    rings. Land inside of     the yellow target area. ~FF~}#082#079
+Maniobra a través de los 5
+anillos. Aterriza dentro  
+de la zona amarilla.      ~FF~#079
+;00019D0A{  Take off, fly through     rings over the course,    then land on runway.~FF~}#078#075
+Despega, vuela a través de
+los anillos del rumbo y   
+aterriza en la pista. ~FF~#075
+;00019D55{ Ride thermal current to   altitude of 500 feet,     then land on target.~FF~}#077#074
+Monta la corriente termal 
+hasta los 500 pies y para 
+en el objetivo.      ~FF~#074
+;00019D9F{  Touch the 3 green bar=    shaped beams. Land on     target over the water.~FF~}#080#077
+ Toca los 3 rayos verdes  
+ forma de barra. Aterriza 
+ en el objetivo en agua.~FF~#077
+;00019DEC{  Taxi and take off. Fly    plane under arch, then    land on runway.~FF~}#073#070
+Siéntate y despega. Vuela 
+el avión bajo el arco y   
+para en la pista.~FF~#070
+;00019E32{ Fly through the ring at   300 feet twice, then      land on target.~FF~}#072#069
+Vuela pasando el anillo a 
+300 pies dos veces, para  
+en el objetivo. ~FF~#069
+;00019E77{ Fly through the 3 moving  rings, then touch down    onto the target over the  water. ~FF~}#090#087
+Vuela atravesando los 3   
+anillos móviles, aterriza 
+en el objetivo sobre el   
+agua.   ~FF~#087
+;00019ECE{  Maneuver through the 8    rings. Land inside of     the yellow target area. ~FF~}#082#079
+Maniobra a través de los 8
+anillos. Aterriza dentro  
+de la zona amarilla.      ~FF~#079
+;00019F1D{ Fly through the 2 rings.  Be careful when landing,  the icy runway is slick.~FF~}#081#078
+Vuela por los dos anillos.
+Ten cuidado aterrizando,  
+la pista helada resbala. ~FF~#078
+;00019F6B{ Fly through the 3 arches. Land on either the right  or left runway ahead.~FF~}#078#075
+  Vuela por los 3 arcos.  
+  Aterriza en la pista    
+  izquierda o derecha.~FF~#075
+|1061
+@00019FB6-0001A123-FF
+;00019FB6{  Maneuver through the 5    rings. Land inside of     the yellow target area. ~FF~}#082#079
+Maniobra a través de los 5
+anillos. Aterriza dentro  
+de la zona amarilla.      ~FF~#079
+;0001A005{ Ride the thermal current  to a 700 foot altitude.   Land kite on target.~FF~}#077#074
+Monta la corriente hasta  
+700 pies. Detén el ala    
+delta en el objetivo.~FF~#074
+;0001A04F{ Touch the green bar=      shaped beams, then land   on target.~FF~}#067#064
+Toca los rayos como barras
+verdes y aterriza en el   
+objetivo.  ~FF~#064
+;0001A08F{ Take off and fly through  the 2 moving arches,      then land on the runway.~FF~}#081#078
+Despega y vuela a través  
+de 2 arcos móviles, luego 
+aterriza en la pista.    ~FF~#078
+;0001A0DD{   Touch the 3 bouncing      ball beams. Then          land on target.~FF~}#074#071
+Toca los 3 rayos bola que 
+rebotan. Luego aterriza en
+el objetivo.      ~FF~#071
+|366
+@0001A177-0001A58C-FF
+;0001A177{Complete lesson in under 0:45   for 20 Points.~FF~}#050#047
+Completa lección
+en menos de 0:45
+por 20 Puntos.~FF~#047
+;0001A1A6{Touch 1 ring for5 Points, all 3 for 20 Points.~FF~}#050#047
+Tocar un anillo 
+5 Puntos, los 3 
+por 20 Puntos.~FF~#047
+;0001A1D5{Finish in under 0:40 for 20 Pts.Get 10 Pts/Ring.~FF~}#052#049
+Fin en menos de 
+0:40 por 20 Pts.
+Y 10 Pts/Anillo.~FF~#049
+;0001A206{Complete lesson in under 2:00   for 20 Points.~FF~}#050#047
+Completa lección
+en menos de 2:00
+por 20 Puntos.~FF~#047
+;0001A235{Touch 1 ring for3 Points. All 5 for 20 Points.~FF~}#050#047
+Tocar un anillo 
+3 Puntos. Los 5 
+por 20 Puntos.~FF~#047
+;0001A264{Finish in under 2:15 for 10 Pts.Get 3 Pts/Ring.~FF~}#051#048
+Fin en menos de 
+2:15 por 10 Pts.
+Y 3 Pts/Anillo.~FF~#048
+;0001A294{Complete lesson in under 2:00   for 30 Points.~FF~}#050#047
+Completa lección
+en menos de 2:00
+por 30 Puntos.~FF~#047
+;0001A2C3{Complete lesson in under 1:45   for 20 Points.~FF~}#050#047
+Completa lección
+menos de 1:45   por 20 Puntos.~FF~#047
+;0001A2F2{Finish in under 3:00 for 10 Pts.Get 40 Pts/Arch.~FF~}#052#049
+Fin en menos de 
+3:00 por 10 Pts.
+Y 40 Pts/Arco.  ~FF~#049
+;0001A323{Complete lesson in under 2:00   for 30 Points.~FF~}#050#047
+Completa lección
+en menos de 2:00
+por 30 Puntos.~FF~#047
+;0001A352{Complete lesson in under 1:30   for 20 Points.~FF~}#050#047
+Completa lección
+en menos de 1:30
+por 20 Puntos.~FF~#047
+;0001A381{Touch 1 ring for2 Points. All 8 for 20 Points.~FF~}#050#047
+Tocar un anillo 
+2 Puntos. Los 8 
+por 20 Puntos.~FF~#047
+;0001A3B0{Finish in under 0:40 for 10 Pts.Get 10 Pts/Ring.~FF~}#052#049
+Fin en menos de 
+0:40 por 10 Pts.
+Y 10 Pts/Anillo.~FF~#049
+;0001A3E1{Touch 1 ring for5 Points. All 3 for 20 Points.~FF~}#050#047
+Tocar un anillo 
+5 Puntos. Los 3 
+por 20 Puntos.~FF~#047
+;0001A410{Finish in under 0:45 for 20 Pts.Get 10 Pts/Ring.~FF~}#052#049
+Fin en menos de 
+0:45 por 20 Pts.
+Y 10 Pts/Anillo.~FF~#049
+;0001A441{Complete lesson in under 1:30   for 20 Points.~FF~}#050#047
+Completa lección
+en menos de 1:30
+por 20 Puntos.~FF~#047
+;0001A470{Touch 1 ring for3 Points. All 5 for 20 Points.~FF~}#050#047
+Tocar un anillo 
+3 Puntos. Los 5 
+por 20 Puntos.~FF~#047
+;0001A49F{Finish in under 2:20 for 10 Pts.Get 3 Pts/Ring.~FF~}#051#048
+Fin en menos de 
+2:20 por 10 Pts.
+Y 3 Pts/Anillo.~FF~#048
+;0001A4CF{Complete lesson in under 2:30   for 30 Points.~FF~}#050#047
+Completa lección
+en menos de 2:30
+por 30 Puntos.~FF~#047
+;0001A4FE{Complete lesson in  under  1:30 for 20 Points.~FF~}#050#047
+Completa lección
+en menos de 1:30
+por 20 Puntos.~FF~#047
+;0001A52D{Finish in under 3:00 for 10 Pts.Get 20 Pts/Arch.~FF~}#052#049
+Fin en menos de 
+3:00 por 10 Pts.
+Y 20 Pts/Arco.  ~FF~#049
+;0001A55E{Complete lesson in under 2:00   for 30 Points.~FF~}#050#047
+Completa lección
+en menos de 2:00
+por 30 Puntos.~FF~#047
+|1046
+@0001A58D-0001A5EA-FF
+;0001A58D{Complete lesson in under 1:30   for 20 Points.~FF~}#050#047
+Completa lección
+en menos de 1:30
+por 20 Puntos.~FF~#047
+;0001A5BC{Touch 1 ring for2 Points. All 8 for 20 Points.~FF~}#050#047
+Tocar un anillo 
+2 Puntos. Los 8 
+por 20 Puntos.~FF~#047
+|94
+@0001A65E-0001A72F-FF
+;0001A65E{   Nose Down~FF~}#016#013
+  Baja Nariz~FF~#013
+;0001A66B{Lean Forward~FF~}#016#013
+Inc.Adelante~FF~#013
+;0001A678{Jets Forward~FF~}#016#013
+Rea.Adelante~FF~#013
+;0001A685{Right~FF~}#009#006
+Dere.~FF~#006
+;0001A68B{Left~FF~}#008#005
+Izq.~FF~#005
+;0001A690{   Nose Up     ~FF~}#019#016
+  Sube Nariz   ~FF~#016
+;0001A6A0{Lean Back/Flare~FF~}#019#016
+Inc.Atrás/Llama~FF~#016
+;0001A6B0{Jets Reverse   ~FF~}#019#016
+Gira Reactores ~FF~#016
+;0001A6C0{     Speed Up   ~FF~}#020#017
+     Acelerar   ~FF~#017
+;0001A6D1{Open Parachute  ~FF~}#020#017
+Abre Paracaídas ~FF~#017
+;0001A6E2{     Fast Jets  ~FF~}#020#017
+Reactor Rápido  ~FF~#017
+;0001A6F3{Flare/Quick Turn~FF~}#020#017
+Llama/Giro Rápi.~FF~#017
+;0001A704{Slow Jets ~FF~}#014#011
+Rea. Lento~FF~#011
+;0001A70F{Speed Down~FF~}#014#011
+Decelerar ~FF~#011
+;0001A71A{Missile   ~FF~}#014#011
+Misil     ~FF~#011
+;0001A725{Shift View~FF~}#014#011
+Pasa Vista~FF~#011
+|210
+@0001A85C-0001A8B2-FF
+;0001A85C{Accuracy~FF~}#012#009
+Preciso·~FF~#009
+;0001A865{Time····~FF~}#012#009
+Tiempo··~FF~#009
+;0001A86E{Angle···~FF~}#012#009
+Inclina·~FF~#009
+;0001A877{Speed···~FF~}#012#009
+Veloz···~FF~#009
+;0001A880{Ring····~FF~}#012#009
+Anillo··~FF~#009
+;0001A889{Beam····~FF~}#012#009
+Rayo····~FF~#009
+;0001A892{Arch····~FF~}#012#009
+Arco····~FF~#009
+;0001A89B{                       ~FF~}#027#024
+                       ~FF~#024
+|87
+@0001A8DC-0001A968-FF
+;0001A8DC{Total··········0~AB~~AC~~AD~ ~FF~}#033#021
+Total··········0~AB~~AC~~AD~ ~FF~#021
+;0001A8F1{= Points······~FF~}#018#015
+= Puntos······~FF~#015
+;0001A900{·100~AB~~AC~~AD~ ~FF~}#021#009
+·100~AB~~AC~~AD~ ~FF~#009
+;0001A909{Score········100~AB~~AC~~AD~    ~FF~}#036#024
+Marca········100~AB~~AC~~AD~    ~FF~#024
+;0001A921{You failed·····0~A9~~AA~     ~FF~}#033#024
+Fallaste·······0~A9~~AA~     ~FF~#024
+;0001A939{Bonus··········0~AB~~AC~~AD~    ~FF~}#036#024
+Bonos··········0~AB~~AC~~AD~    ~FF~#024
+;0001A951{Rules Ignored····0~A9~~AA~   ~FF~}#033#024
+Reglas Ignoradas·0~A9~~AA~   ~FF~#024
+|141
+@0001AAAF-0001AEB7-FF
+;0001AAAF{You seem to use pretty good     judgement.~FF~}#046#043
+Pareces tener un
+juicio bastante 
+bueno.    ~FF~#043
+;0001AADA{Now you're usinggood judgement. ~FF~}#036#033
+Ahora sí usas   
+buen juicio.    ~FF~#033
+;0001AAFB{Wonderful!~FF~}#014#011
+¡Genial!  ~FF~#011
+;0001AB06{  Oh!             Great!!~FF~}#029#026
+ ¡Oh!           
+ ¡Genial!~FF~#026
+;0001AB20{Wow!            What a          knockout!~FF~}#045#042
+¡Vaya!          
+¡Menudo         
+noqueo!  ~FF~#042
+;0001AB4A{ You shouldn't   have gone that  far.~FF~}#041#038
+ No deberías    
+ haberte alejado
+ así.~FF~#038
+;0001AB70{It was pretty   tough wasn't it?~FF~}#036#033
+  ¿Fue bastante 
+  duro verdad?  ~FF~#033
+;0001AB91{Sorry, you just took too much   time.~FF~}#041#038
+Perdona, pero   
+tardaste mucho. 
+     ~FF~#038
+;0001ABB7{ Too rapid of a  descent will    cause a crash.~FF~}#051#048
+Un descenso     
+demasiado rápido
+te estrellará. ~FF~#048
+;0001ABE7{Try keeping yourwings parallel  to the ground.~FF~}#050#047
+Mantén tus alas 
+paralelas al    
+suelo.        ~FF~#047
+;0001AC16{When landing,   try to keep the pitch up more.~FF~}#050#047
+Al aterrizar,   
+intenta mantener
+la exigencia. ~FF~#047
+;0001AC45{ Keep your power above 0, or you will stall.~FF~}#048#045
+Mantén tu poder 
+sobre 0, o te   
+paralizarás.~FF~#045
+;0001AC72{It's best to usethe angle of theguide beam.~FF~}#047#044
+Es mejor usar el
+ángulo del rayo 
+guía.      ~FF~#044
+;0001AC9E{Your plane      should have skisattached.~FF~}#045#042
+Tu avión debería
+tener esquís    
+adjuntos.~FF~#042
+;0001ACC8{Be careful when landing on a    snow covered    runway.~FF~}#059#056
+Ten cuidado al  
+aterrizar en una
+pista llena de  
+nieve. ~FF~#056
+;0001AD00{ Where were you  going?~FF~}#027#024
+ ¿A dónde vas?  
+       ~FF~#024
+;0001AD18{ That's a        parachute, not  scuba gear.~FF~}#048#045
+Es un paracaídas
+no equipo de    
+buceo.      ~FF~#045
+;0001AD45{  If you keep     flaring, you    will stall.~FF~}#049#046
+Si sigues usando
+llamaradas, te  
+detendrás.   ~FF~#046
+;0001AD73{Did you do that on purpose?~FF~}#031#028
+¿Hiciste eso a  
+propósito? ~FF~#028
+;0001AD8F{Sorry, that's   NOT the target. ~FF~}#036#033
+Perdona, ese NO 
+es el objetivo. ~FF~#033
+;0001ADB0{Rotate to steer until you open  your parachute.~FF~}#051#048
+Dirígete rotando
+hasta que abras 
+tu paracaídas. ~FF~#048
+;0001ADE0{Keep in mind, itisn't possible  to go backwards.~FF~}#052#049
+Tenlo en cuenta,
+no es posible ir
+hacia atrás.    ~FF~#049
+;0001AE11{The rings are   now smaller thanbefore.~FF~}#043#040
+Los anillos son 
+más pequeños que
+antes. ~FF~#040
+;0001AE39{Be most careful,the wind is verystrong.~FF~}#043#040
+Mucho cuidado,  
+el viento es muy
+fuerte.~FF~#040
+;0001AE61{Not that bad!~FF~}#017#014
+¡Nada mal!   ~FF~#014
+;0001AE6F{Hmm,            you did well.~FF~}#033#030
+Hmm, lo has     
+hecho bien.  ~FF~#030
+;0001AE8D{I'll admit it,  your skill is   improving.~FF~}#046#043
+Lo admito, tu   
+habilidad está  
+mejorando.~FF~#043
+|1033
+@0001AEB8-0001B2D5-FF
+;0001AEB8{ Fantastic! I    won't judge by  appearance.~FF~}#048#045
+¡Fantástico! No 
+juzgaré por la  
+apariencia. ~FF~#045
+;0001AEE5{I never         expected you to do so well.~FF~}#047#044
+Nunca esperé que
+lo hicieras tan 
+bien.      ~FF~#044
+;0001AF11{No!             You should not  have gone there.~FF~}#052#049
+¡No!            
+No deberías     
+haber ido allí. ~FF~#049
+;0001AF42{It seemed to    be just a littledifficult.~FF~}#046#043
+Parecía ser solo
+un poco difícil.
+          ~FF~#043
+;0001AF6D{Conserve fuel!  Don't you know  it is expensive?~FF~}#052#049
+¡Conserva       
+combustible!    
+¡Es muy caro!   ~FF~#049
+;0001AF9E{You dropped too fast. Imagine   sliding down    a ramp.~FF~}#059#056
+Bajaste muy     
+rápido. Imagina 
+bajar por una   
+rampa. ~FF~#056
+;0001AFD6{  Your wings      cannot touch    the ground.~FF~}#049#046
+Tus alas no     
+pueden tocar el 
+suelo.       ~FF~#046
+;0001B004{Keep the nose upin the air, not rubbing on the  ground.~FF~}#059#056
+Mantén la nariz 
+en el aire, no  
+rozando el      
+suelo. ~FF~#056
+;0001B03C{Scoring is more strict on the   left runway.~FF~}#048#045
+La pista de la  
+izquierda puntúa
+estricta.   ~FF~#045
+;0001B069{ Sudden control  changes will    cause loss of   balance.~FF~}#061#058
+Perderás el     
+equilibro si    
+haces cambios de
+repente. ~FF~#058
+;0001B0A3{When it is wet, more runway is  needed to stop.~FF~}#051#048
+ Con la pista   
+ húmeda, paras  
+ con más pista.~FF~#048
+;0001B0D3{ If you fly too  fast you will   not pass this   lesson.~FF~}#060#057
+Si vuelas       
+demasiado rápido
+no pasarás esta 
+lección.~FF~#057
+;0001B10C{ You cannot go   farther!~FF~}#029#026
+ ¡No puedes     
+ avanzar!~FF~#026
+;0001B126{Don't be in     such a hurry.~FF~}#033#030
+No tengas tanta 
+prisa.       ~FF~#030
+;0001B144{You seemed to   forget you're   flying a lesson,not joyriding.~FF~}#066#063
+Parece que has  
+olvidado que es 
+una lección, no 
+por placer.   ~FF~#063
+;0001B183{It's easiest to use the overheadview to land.~FF~}#049#046
+Aterrizas mejor 
+con la vista    
+elevada.     ~FF~#046
+;0001B1B1{Your rate of    descent was justa bit too fast.~FF~}#051#048
+Tu ratio de     
+descenso era un 
+poco rápido.   ~FF~#048
+;0001B1E1{After clearing  the targets, youcan touch down  only once.~FF~}#062#059
+Tras acabar los 
+objetivos, solo 
+puedes aterrizar
+una vez.  ~FF~#059
+;0001B21C{Release the key to return rocketto neutral.~FF~}#047#044
+Libera la llave 
+y el cohete irá 
+a neutral. ~FF~#044
+;0001B248{You should be   careful, inertiacan be strong.~FF~}#050#047
+Ten cuidado, la 
+inercia puede   
+ser fuerte.   ~FF~#047
+;0001B277{It's easiest to use the overheadview to land.~FF~}#049#046
+Aterrizas mejor 
+con la vista    
+elevada.     ~FF~#046
+;0001B2A5{Be quick, the   time scoring is becoming strict.~FF~}#052#049
+Se rápido, la   
+marca de tiempo 
+es más estricta.~FF~#049
+|1054
+@0001B2D6-0001B70C-FF
+;0001B2D6{Hey! You did    that on purpose,didn't you!~FF~}#047#044
+¡Eh! ¡Hiciste   
+eso a propósito,
+verdad!    ~FF~#044
+;0001B302{You were close, but look at you,you're soaked!!~FF~}#051#048
+Estuviste cerca,
+¡pero mírate,   
+estás empapado!~FF~#048
+;0001B332{Flaring too     much will cause you to stall.~FF~}#049#046
+Usar muchas     
+llamas hará que 
+te detengas. ~FF~#046
+;0001B360{ What were you   trying to do?  ~FF~}#036#033
+   ¿Pero qué    
+   intentabas?  ~FF~#033
+;0001B381{You landed just a little off    target.~FF~}#043#040
+Aterrizaste con 
+el objetivo algo
+lejos. ~FF~#040
+;0001B3A9{Don't flare so  much, you'll    fall too fast.~FF~}#050#047
+No uses tantas  
+llamas, caerás  
+muy rápido.   ~FF~#047
+;0001B3D8{If falling fast,flaring causes  you to float.~FF~}#049#046
+Si caes rápido, 
+usar llamas te  
+hace flotar. ~FF~#046
+;0001B406{Try changing    your balance to alter direction.~FF~}#052#049
+Equilíbrate para
+cambiar tu      
+dirección.      
+~FF~#049
+;0001B437{ I hate rain! I  feel damp down  to my bones.~FF~}#049#046
+¡Odio la lluvia!
+La siento en los
+huesos.      ~FF~#046
+;0001B465{Good.~FF~}#009#006
+Bien.~FF~#006
+;0001B46B{Very nice.~FF~}#014#011
+Muy bueno.~FF~#011
+;0001B476{Wonderful.~FF~}#014#011
+Maravilla.~FF~#011
+;0001B481{Oh,             that's just     great.~FF~}#042#039
+Oh,             
+eso ha sido     
+bueno.~FF~#039
+;0001B4A8{Oh!             I...            I'm speechless!!~FF~}#052#049
+¡Oh!            
+Yo... ¡¡No tengo
+palabras!!      ~FF~#049
+;0001B4D9{Are you sure youwanted to take  this lesson?~FF~}#048#045
+¿Estabas seguro 
+de hacer esta   
+lección?    ~FF~#045
+;0001B506{Landings you canwalk away from  are at least    passable.~FF~}#061#058
+Los aterrizajes 
+de los que sales
+a pie son       
+pasables.~FF~#058
+;0001B540{  You took too    much time.~FF~}#032#029
+  Tardaste      
+  demasiado.~FF~#029
+;0001B55D{Avoid shock dam=age. Don't cut  too much power.~FF~}#051#048
+Evita daño de   
+choque.No cortes
+mucha potencia.~FF~#048
+;0001B58D{Keep your wings parallel to     the ground.~FF~}#047#044
+Mantén tus alas 
+paralelas al    
+suelo.     ~FF~#044
+;0001B5B9{ When landing,   don't use so    much pitch.~FF~}#048#045
+Al aterrizar,   
+no uses mucha   
+inclinación.~FF~#045
+;0001B5E6{Stalling will   occur if you cuttoo much power.~FF~}#051#048
+El estancamiento
+ocurre si cortas
+mucha potencia.~FF~#048
+;0001B616{To rise, advancethe throttle, todescend, cut it back.~FF~}#057#054
+ Usa el         
+ regulador para 
+ subir o bajar. 
+     ~FF~#054
+;0001B64C{ Today, the wind is very strong. Be careful!~FF~}#048#045
+Hoy el viento es
+muy fuerte. ¡Ten
+cuidado!    ~FF~#045
+;0001B679{ Don't overwork  to hit the      rings.~FF~}#043#040
+Para golpear    
+anillos no te   
+agotes.~FF~#040
+;0001B6A1{ Where were you  going?~FF~}#027#024
+ ¿A dónde ibas? 
+       ~FF~#024
+;0001B6B9{  Land on the     land.~FF~}#027#024
+Aterriza en     
+tierra.~FF~#024
+;0001B6D1{If you don't tryfor the target, you won't score the points.~FF~}#063#060
+Si no intentas  
+el objetivo,    
+no puntuarás    
+los puntos.~FF~#060
+|1079
+@0001B70D-0001BB31-FF
+;0001B70D{Don't forget to ascend to 500   feet.~FF~}#041#038
+No olvides      
+ascender a 500  
+pies.~FF~#038
+;0001B733{ Don't forget to ascend to 700   feet.~FF~}#042#039
+ No olvides     
+ ascender a 700 
+ pies.~FF~#039
+;0001B75A{ Mind your       landing speed!~FF~}#035#032
+ ¡No aterrices  
+ muy rápido!   ~FF~#032
+;0001B77A{To  keep height,press Down on   the Control Pad.~FF~}#052#049
+Para mantener   
+altura, pulsa   
+Abajo en el Pad.~FF~#049
+;0001B7AB{ Point the nose  down to pick    up speed.~FF~}#046#043
+Apunta abajo con
+la nariz para   
+acelerar. ~FF~#043
+;0001B7D6{ Use either of   the 2 thermals  to ascend.~FF~}#047#044
+Usa uno de los 2
+térmicos para   
+ascender.  ~FF~#044
+;0001B802{To turn quickly,press the A     Button to       flare.~FF~}#058#055
+Para girar      
+rápido, pulsa el
+Botón A para dar
+llama.~FF~#055
+;0001B839{ You shouldn't   have gone that  far.~FF~}#041#038
+ No debiste ir  
+ tan lejos.     
+     ~FF~#038
+;0001B85F{Your aim is justa little off.~FF~}#033#030
+Tu puntería es  
+algo justa.  ~FF~#030
+;0001B87D{ You took a bit  too long.~FF~}#030#027
+Tardaste un poco
+demasiado.~FF~#027
+;0001B898{ Try using the   overhead view   for landing.~FF~}#049#046
+Intenta usar la 
+vista elevada al
+aterrizar.   ~FF~#046
+;0001B8C6{Pay closer      attention to    your fall rate.~FF~}#051#048
+Presta más      
+atención a tu   
+ratio de caída.~FF~#048
+;0001B8F6{That place is   not your target.~FF~}#036#033
+Ese lugar no es 
+tu objetivo.    ~FF~#033
+;0001B917{ To hover, first stop by using   reverse thrust.~FF~}#052#049
+Para planear,   
+primero para con
+impulso inverso.~FF~#049
+;0001B948{Match the movingtarget's motion when trying to  land on it.~FF~}#063#060
+Coincide con el 
+movimiento del  
+objetivo para   
+aterrizar. ~FF~#060
+;0001B984{In this lesson, you shouldn't goup so high.~FF~}#047#044
+En esta lección,
+no deberías ir  
+tan arriba.~FF~#044
+;0001B9B0{The wind is too strong to stop  very easily.~FF~}#048#045
+Con tan fuerte  
+viento es arduo 
+detenerse.  ~FF~#045
+;0001B9DD{You didn't do   that well, but Istill have to   pass you.~FF~}#061#058
+No lo hiciste   
+tan bien, pero  
+aún y así tengo 
+pasarte. ~FF~#058
+;0001BA17{Awful close, butyour performancewas passable.~FF~}#049#046
+Mal final, pero 
+tu ejecución fue
+pasable.     ~FF~#046
+;0001BA45{You did well,   but, you can do even better.~FF~}#048#045
+Lo hiciste bien,
+pero, puedes    
+mejorarlo.  ~FF~#045
+;0001BA72{You seem to be anatural at this.~FF~}#036#033
+Pareces tener un
+talento natural.~FF~#033
+;0001BA93{ I've only one   thing to say=   Good job!~FF~}#046#043
+Solo tengo una  
+cosa que decir= 
+¡Muy bien!~FF~#043
+;0001BABE{ Where were you  going to go?~FF~}#033#030
+¿A dónde ibas a 
+ir?          ~FF~#030
+;0001BADC{ You haven't     quite acquired  enough skill. ~FF~}#051#048
+ No adquiriste  
+ la habilidad   
+ suficiente.   ~FF~#048
+;0001BB0C{You flew around a little too    much.~FF~}#041#038
+Volaste por ahí 
+un poco de más. 
+     ~FF~#038
+|1061
+@0001BB32-0001BF35-FF
+;0001BB32{  Don't try to    force the       landing so      much.~FF~}#059#056
+No intentes     
+forzar demasiado
+el aterrizaje.  
+       ~FF~#056
+;0001BB6A{Watch the angle of your wings   more carefully.~FF~}#051#048
+Vigila el ángulo
+de tus alas con 
+más cuidado.   ~FF~#048
+;0001BB9A{ Your degree of  pitch was too   great.~FF~}#043#040
+Tu grado de     
+inclinación era 
+grande.~FF~#040
+;0001BBC2{Keep your wings horizontal underthe arch.~FF~}#045#042
+Mantén tus alas 
+tumbadas bajo el
+arco.    ~FF~#042
+;0001BBEC{ Keep the wind   direction in    mind.~FF~}#042#039
+ Piensa en la   
+ dirección del  
+ aire.~FF~#039
+;0001BC13{ Here,           you must rely   on radar.~FF~}#046#043
+ Aquí, debes    
+ confiar en el  
+ radar.   ~FF~#043
+;0001BC3E{Circle over the sea once to makelanding easier. ~FF~}#052#049
+Una vuelta sobre
+el mar te hace  
+fácil aterrizar.~FF~#049
+;0001BC6F{ What were you   thinking!~FF~}#030#027
+¿En qué estabas 
+pensando? ~FF~#027
+;0001BC8A{To ascend, you  need to ride a  thermal current.~FF~}#052#049
+ Para ascender, 
+ monta en una   
+ corriente.     ~FF~#049
+;0001BCBB{ Watch your      descent rate!~FF~}#034#031
+¡Vigila tu ratio
+de descenso!  ~FF~#031
+;0001BCDA{To keep height, press Down on   the Control Pad.~FF~}#052#049
+Para mantener la
+altura pulsa    
+Abajo en el Pad.~FF~#049
+;0001BD0B{You have to go  through the ringtwice.~FF~}#042#039
+Tienes que pasar
+por el anillo 2 
+veces.~FF~#039
+;0001BD32{If you've enoughairspeed, you'llrise at landing.~FF~}#052#049
+Si hay velocidad
+del aire,subirás
+al aterrizar.   ~FF~#049
+;0001BD63{Rolling as you  land causes you to lose balance.~FF~}#052#049
+ Girar mientras 
+ aterrizas te   
+ desequilibra.  ~FF~#049
+;0001BD94{Keep in mind    that the wind isstrong!~FF~}#043#040
+¡Ten en mente   
+que el viento es
+fuerte!~FF~#040
+;0001BDBC{When landing, becareful not to  be blown off    target.~FF~}#059#056
+Al aterrizar,   
+intenta que el  
+objetivo no se  
+mueva. ~FF~#056
+;0001BDF4{Where did you   think you might land?~FF~}#041#038
+¿Dónde pensabas 
+aterrizar?      
+     ~FF~#038
+;0001BE1A{Be more careful.The equipment isexpensive.~FF~}#046#043
+Ten más cuidado.
+El equipo es    
+caro.     ~FF~#043
+;0001BE45{  Wandering a     bit much,       weren't you?~FF~}#050#047
+Vagando un poco 
+demasiado, ¿no? 
+              ~FF~#047
+;0001BE74{Hey, it's easierto land using anoverhead view.~FF~}#050#047
+Eh, es más fácil
+aterrizar con la
+vista elevada.~FF~#047
+;0001BEA3{Reversing thrustwon't help when you're falling  too fast.~FF~}#061#058
+Invertir el     
+impulso no ayuda
+si caes muy     
+rápido.  ~FF~#058
+;0001BEDD{Sorry,          that was not    your target.~FF~}#048#045
+Perdona,        
+ese no era tu   
+tu objetivo.~FF~#045
+;0001BF0A{Inertia is very strong for the  Rocketbelt.~FF~}#047#044
+El Cintocohete  
+tiene una fuerte
+inercia.   ~FF~#044
+|1028
+@0001BF36-0001C215-FF
+;0001BF36{When landing, itis easier to usereverse thrust.~FF~}#051#048
+Aterrizando, es 
+ más fácil usar 
+impulso inverso~FF~#048
+;0001BF66{  Over water,     watch your      altitude.~FF~}#047#044
+Sobre agua,     
+cuidado con tu  
+   altitud.~FF~#044
+;0001BF92{ Is it possible  to land on the  moving target? ~FF~}#052#049
+¿Es posible     
+aterrizar en el 
+objetivo móvil? ~FF~#049
+;0001BFC3{Who did you     think you might drop in on?~FF~}#047#044
+  ¿En quién     
+  pensaste que  
+  caerías? ~FF~#044
+;0001BFEF{The target is   small. You need to slow down.~FF~}#049#046
+ El objetivo es 
+ pequeño. Debes 
+ decelerar.  ~FF~#046
+;0001C01D{ Your flare was  too long.~FF~}#030#027
+Tu llama era muy
+larga.    ~FF~#027
+;0001C038{   ··········      ··········      SPLAT!!~FF~}#046#043
+  ··········    
+  ··········    
+  ¡¡PLOF!!~FF~#043
+;0001C063{You know what   you did, I will say no more.~FF~}#048#045
+Sabes lo que    
+hiciste, no diré
+nada más.   ~FF~#045
+;0001C090{Before you open your 'chute, do not overbalance.~FF~}#052#049
+ Antes de abrir 
+ tu paracaídas, 
+ estabilízate.  ~FF~#049
+;0001C0C1{ Don't be too    confident until you land.~FF~}#046#043
+No te confíes   
+demasiado hasta 
+aterrizar.~FF~#043
+;0001C0EC{Almost!~FF~}#011#008
+ ¡Casi!~FF~#008
+;0001C0F4{ Isn't a night   jump peaceful?~FF~}#035#032
+¿No da paz un   
+salto nocturno?~FF~#032
+;0001C114{U~C1~~5D~~C1~~A7~~C1~~DD~~C1~n~C1~6~C1~~CF~~C1~H~C2~  What a waste    of a bonus      stage!~FF~}#096#057
+U~C1~~5D~~C1~~A7~~C1~~DD~~C1~n~C1~6~C1~~CF~~C1~H~C2~
+¡Menudo malgasto
+de etapa de     
+bonos!  ~FF~#057
+;0001C14D{Isn't this fun?~FF~}#019#016
+ ¿No es diver? ~FF~#016
+;0001C15D{  Don't waste     your bonus      stage!~FF~}#044#041
+  ¡No malgastes 
+  tu etapa de   
+  bonos!~FF~#041
+;0001C186{Was it luck,    or was it skill?~FF~}#036#033
+¿Fue suerte,    
+o fue habilidad?~FF~#033
+;0001C1A7{ Remember,       this is a bonus stage.~FF~}#043#040
+ Recuerda, esta 
+ es una etapa de
+ bono. ~FF~#040
+;0001C1CF{   Very good.~FF~}#017#014
+   Muy bueno.~FF~#014
+;0001C1DD{A nice bonus waspossible, what  happened?~FF~}#045#042
+Era posible un  
+buen bono, ¿qué 
+sucedió? ~FF~#042
+;0001C207{You lucky dog.~FF~}#018#015
+¡Vaya suerte! ~FF~#015
+|736
+@0001C266-0001C2D3-FF
+;0001C266{Light Plane~FF~}#015#012
+Avioneta···~FF~#012
+;0001C272{Skydiving··~FF~}#015#012
+Paracaídas·~FF~#012
+;0001C27E{Rocketbelt·~FF~}#015#012
+Cintocohete~FF~#012
+;0001C28A{Hang Glider~FF~}#015#012
+Ala Delta··~FF~#012
+;0001C296{·········~AB~~AC~~AD~ ~FF~}#026#014
+·········~AB~~AC~~AD~ ~FF~#014
+;0001C2A4{                        ~FF~}#028#025
+                        ~FF~#025
+;0001C2BD{Need    ~AB~~AC~~AD~ to qualify~FF~}#035#023
+Con     ~AB~~AC~~AD~ clasificas~FF~#023
+|110
+@0001C31C-0001C741-FF
+;0001C31C{Certification   may not be easy.~FF~}#036#033
+La certificación
+puede ser dura. ~FF~#033
+;0001C33D{Never give up!~FF~}#018#015
+¡No te rindas!~FF~#015
+;0001C34C{You can do it!~FF~}#018#015
+¡Tú puedes!   ~FF~#015
+;0001C35B{Keep it up.~FF~}#015#012
+Sigue así. ~FF~#012
+;0001C367{You are almost  certified.~FF~}#030#027
+Eso casi te     
+certifica.~FF~#027
+;0001C382{ You are not     certified,try   again!~FF~}#043#040
+ ¡No estás      
+ certificado,   
+ otra! ~FF~#040
+;0001C3AA{Congratulations!You are now     certified.~FF~}#046#043
+¡Felicidades!   
+Te certificas.  
+          ~FF~#043
+;0001C3D5{With this score,you might not   be certified.~FF~}#049#046
+Con esta marca, 
+puede que no te 
+certifiques. ~FF~#046
+;0001C403{ It seems very   hard,but,don't  give up!~FF~}#045#042
+Parece muy duro,
+  ¡pero no te   
+ rindas! ~FF~#042
+;0001C42D{You can still doit.~FF~}#023#020
+Puedes lograrlo.
+   ~FF~#020
+;0001C441{Keep up the goodwork, you can doit.~FF~}#039#036
+Sigue trabajando
+bien, tú puedes.
+   ~FF~#036
+;0001C465{  Great work,     keep it up.   ~FF~}#036#033
+ Gran trabajo,  
+ sigue así.     ~FF~#033
+;0001C486{Although I can'tcertify you now,try again later.~FF~}#052#049
+Ahora no puedo  
+certificarte,   
+prueba después. ~FF~#049
+;0001C4B7{Congratulations!You're becoming very good.~FF~}#046#043
+¡Felicidades! Te
+estás volviendo 
+muy bueno.~FF~#043
+;0001C4E2{ Do you want to  give up?~FF~}#029#026
+  ¿Te quieres   
+  rendir?~FF~#026
+;0001C4FC{You're barely   making it. Want to give up?~FF~}#047#044
+Apenas lo estás 
+logrando. ¿Vas a
+rendirte?  ~FF~#044
+;0001C528{You can do it,  if you try your best.~FF~}#041#038
+Puedes hacerlo, 
+si te esfuerzas.
+     ~FF~#038
+;0001C54E{OK! You're doingOK, but you can do better!~FF~}#046#043
+¡VALE! ¡Lo haces
+bien,pero puedes
+mejorarlo!~FF~#043
+;0001C579{ OK!! It seems   so easy now,    doesn't it?~FF~}#048#045
+ ¡¡VALE!! Ahora 
+ parece fácil,  
+ ¿verdad?   ~FF~#045
+;0001C5A6{I'm so sorry, I cannot certify  you.~FF~}#040#037
+Perdón, no puedo
+certificarte.   
+    ~FF~#037
+;0001C5CB{Your skills haveearned you your certification.~FF~}#050#047
+Tus habilidades 
+te ganaron tu   
+certificación.~FF~#047
+;0001C5FA{It's silly to goon, even if you do better.~FF~}#046#043
+Es tonto seguir,
+aunque lo hagas 
+mejor.    ~FF~#043
+;0001C625{You still have achance, but justbarely.~FF~}#043#040
+Aún tienes una  
+oportunidad,    
+justa. ~FF~#040
+;0001C64D{If you do       your best, you  stand a chance.~FF~}#051#048
+Si te esfuerzas,
+tienes una      
+oportunidad.   ~FF~#048
+;0001C67D{Even though yourskills are pass=able,there is   room to improve.~FF~}#068#065
+Aunque tus      
+habilidades son 
+pasables, no    
+puedes mejorar. ~FF~#065
+;0001C6BE{Be proud,you    have done very  well!~FF~}#041#038
+¡Siente orgullo,
+lo has hecho muy
+bien!~FF~#038
+;0001C6E4{I cannot certifyyou. You requiremore practice.~FF~}#050#047
+No puedo        
+certificarte.   
+Practica más. ~FF~#047
+;0001C713{Magnificent!    You have earned certification.~FF~}#050#047
+¡Magnífico!     
+Te has ganado la
+certificación.~FF~#047
+|1062
+@0001C742-0001CBF8-FF
+;0001C742{CONTINUERETRYEND~FF~}#020#017
+Continúa
+Otra 
+Fin~FF~#017
+;0001C753{We have some bad news.  Tony, Lance and Shirley,while en route to  IzanuIsland,   were  capturedby   the  EVIL Syndicatebased there.            For  political  reasons,our military authoritiescannot attempt  a rescue.~FF~}#221#218
+Tenemos malas noticias. 
+Tony, Lance y Shirley,  
+mientras iban hacia Isla
+Izanu, fueron capturados
+por el Sindicato del MAL
+que tiene una base allí.
+Por razones políticas,  
+nuestras autoridades    
+militares no pueden ir.  ~FF~#218
+;0001C82D{You are  the only FlightClub member whose ratingis near what is requiredfor operating the rescuehelicopter. Will you go?   YesNo! I won't do it.~FF~}#148#145
+Eres el único miembro   
+del Club cuya puntuación
+se acerca a la necesaria
+para usar el helicóptero
+de rescate. ¿Irás?         
+Sí 
+¡No! No lo haré.  ~FF~#145
+;0001C8BE{No! You should go.~FF~}#022#019
+¡No! Deberías ir. ~FF~#019
+;0001C8D1{OK!             Take off        immediately.~FF~}#048#045
+¡VALE!          
+Despega de      
+inmediato.  ~FF~#045
+;0001C8FE{Do not be such acoward!   I  nowask you again.~FF~}#050#047
+¡No seas tan    
+cobarde! Volveré
+a pedírtelo.  ~FF~#047
+;0001C92D{I'm licensed formotorcycles, nothelicopters.~FF~}#048#045
+Tengo licencia  
+de moto, no de  
+helicóptero.~FF~#045
+;0001C95A{I forgot,       chickens cannot fly!~FF~}#040#037
+¡Las gallinas no
+vuelan!         
+    ~FF~#037
+;0001C97F{As  you already know,  Iwould like to ask you todo something  above  andbeyond the call of duty.I know  you will  acceptit.YesNo! I won't do it.~FF~}#148#145
+Como ya sabes, quisiera 
+pedirte algo por encima 
+y más allá de la llamada
+del deber. Se que lo    
+Sé que lo aceptarás.    
+   
+Sí 
+¡No! No lo haré.  ~FF~#145
+;0001CA10{SECRET COMMAND~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~Our agent  has  infiltrated enemy headquarters on Izanu Island.   Your  instructors have been freed   and await rescue at the heliport.     Using the radar as a guide, infiltrate the airspace and rescue them.~FF~}#282#237
+COMANDO OCULTO
+~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~
+Nuestro  agente se  infiltró
+en el cuartel  enemigo de la
+Isla Izanu. Tus instructores
+han sido liberados y esperan
+su rescate en el helipuerto.
+Usando  el radar  como guía,
+entra en su espacio  aéreo y
+rescátalos. ~FF~#237
+;0001CAFD{SECRET COMMAND~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~Lately,  the  EVIL Syndicatehas grown.    They now  havekidnapped  a government  VIPthat opposes them. Our agenthas penetrated their hideoutand  they await  your rescuefrom the heliport tonight.  Please... he is my brother!~FF~}#297#252
+COMANDO OCULTO
+~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~~F6~
+Recientemente,  el Sindicato
+del  MAL ha  crecido.  Ahora
+han  raptado  a un  VIP  del
+gobierno que se les opone.  
+Nuestro agente penetró en el
+escondite y te esperan en el
+helipuerto esta noche.      
+Por favor...¡es mi hermano!~FF~#252
+|1207
+@0001CBF9-0001CD05-FF
+;0001CBF9{You have done a terrificjob.  For an outstandingperformance  I award youSilver Pilot's Wings.~FF~}#097#094
+Hiciste un gran trabajo.
+Por    tal     desempeño
+destacado  te otorgo las
+Alas Piloto de Plata.~FF~#094
+;0001CC57{You have done  a simply magnificent job.        As  a  reward  for  yourexceptional performance I hereby award you  our highest award=          The Golden      Pilot's Wings.~FF~}#178#175
+Simplemente has hecho un
+trabajo magnífico.      
+Como  recompensa  por tu
+desempeño  destacado por
+la presente  te  concedo
+nuestro mayor premio=   
+Las  Alas Piloto
+de Oro.       ~FF~#175
+|269
+@0001F82B-0001F8AB-FF
+;0001F82B{$Flight$Area$1$$$Flight$Area$2$$$Flight$Area$3$$$Flight$Area$4$$$Flight$Area$5$$$Flight$Area$6$$$Flight$Area$7$$$Flight$Area$8$$~FF~}#132#129
+Zona de Vuelo 1 
+Zona de Vuelo 2 
+Zona de Vuelo 3 
+Zona de Vuelo 4 
+Zona de Vuelo 5 
+Zona de Vuelo 6 
+Zona de Vuelo 7 
+Zona de Vuelo 8 ~FF~#129
+|129

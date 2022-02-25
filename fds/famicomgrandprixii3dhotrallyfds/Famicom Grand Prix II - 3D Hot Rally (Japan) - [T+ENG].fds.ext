@@ -1,0 +1,268 @@
+@00003BD8-00003BF1-FF
+;00003BD8{KATTOBIYONQUE MONSTER~B6~~C2~~CE~~AD~~AD~}#041#026
+KATTOBIYONQUE MONSTER~B6~~C2~~CE~~AD~~AD~#026
+|26
+@00003D32-00003D50-FF
+;00003D32{       ENTRY DATE       ~94~~94~    ~94~}#040#031
+       ENTRY DATE       ~94~~94~    ~94~#031
+|31
+@00003DDA-00003DF0-FF
+;00003DDA{ KATTOBI CLASS  ~94~~94~    ~94~}#032#023
+ KATTOBI CLASS  ~94~~94~    ~94~#023
+|23
+@00003E32-00003E50-FF
+;00003E32{      TIME   8~DF~35'67"   ~94~~94~    ~94~}#043#031
+      TIME   8~DF~35'67"   ~94~~94~    ~94~#031
+|31
+@00003EAC-00003FF2-FF
+;00003EAC{                                                                                                             PUSH START                                                                                                                                                                                                           ~00~~00~~00~~00~~00~}#342#327
+                                                                                                             PUSH START                                                                                                                                                                                                           ~00~~00~~00~~00~~00~#327
+|327
+@000041B6-000041CE-FF
+;000041B6{ ENTRY CLASS       ~FF~}#023#020
+ ENTRY CLASS       ~FF~#020
+;000041CA{    ~94~}#008#005
+    ~94~#005
+|25
+@000041F6-00004214-FF
+;000041F6{        KATTOBI CLASS   ~94~~94~    ~94~}#040#031
+        KATTOBI CLASS   ~94~~94~    ~94~#031
+|31
+@00004276-00004294-FF
+;00004276{      TIME   8~DF~35'67"   ~94~~94~    ~94~}#043#031
+      TIME   8~DF~35'67"   ~94~~94~    ~94~#031
+|31
+@000042B6-000042D4-FF
+;000042B6{     ENGLISH ENTRY      ~94~~94~    ~94~}#040#031
+     ENGLISH ENTRY      ~94~~94~    ~94~#031
+|31
+@00004330-000043F6-FF
+;00004330{                                                                             PUSH START                                                                                                           ~00~~00~~00~~00~~00~}#214#199
+                                                                             PUSH START                                                                                                           ~00~~00~~00~~00~~00~#199
+|199
+@000049EC-000049FB-FF
+;000049EC{   ERROR XX  ~A7~"~11~}#022#016
+   ERROR XX  ~A7~"~11~#016
+|16
+@00004AA4-00004AB0-FF
+;00004AA4{YOUR INFO.~C3~ ~1A~}#019#013
+YOUR INFO.~C3~ ~1A~#013
+|13
+@00004AB2-00004ACE-FF
+;00004AB2{NAME/             ~91~AGE    ~03~!~1A~}#038#029
+NAME/             ~91~AGE    ~03~!~1A~#029
+|29
+@00004AD0-00004B08-FF
+;00004AD0{ADDRESS/     -    /       C!~1A~~01~                          ~83~}#066#057
+ADDRESS/     -    /       C!~1A~~01~                          ~83~#057
+|57
+@00004B2B-00004B4A-FF
+;00004B2B{NUMB/             ~93~ SEX/ E"~16~~06~~B1~~B2~~B3~}#050#032
+NUMB/             ~93~ SEX/ E"~16~~06~~B1~~B2~~B3~#032
+|32
+@00004BC5-00004BD1-FF
+;00004BC5{   SAVE~D4~~F2~~10~.L~9F~}#025#013
+   SAVE~D4~~F2~~10~.L~9F~#013
+|13
+@00006491-000064B3-FF
+;00006491{           THANK YOU!!          ~08~?~04~}#041#035
+           THANK YOU!!          ~08~?~04~#035
+|35
+@000064BA-0000651C-FF
+;000064BA{       EXECUTIVE PRODUCER       ~00~           H.YAMAUCHI           ~00~                                ~01~}#108#099
+       EXECUTIVE PRODUCER       ~00~           H.YAMAUCHI           ~00~                                ~01~#099
+|99
+@0000651D-0000657F-FF
+;0000651D{            PRODUCER            ~00~        KATTOBI MIYAMOTO        ~00~                                ~01~}#108#099
+            PRODUCER            ~00~        KATTOBI MIYAMOTO        ~00~                                ~01~#099
+|99
+@00006580-00006603-FF
+;00006580{           DESIGNERS            ~00~         YONQUE ISSHIN          ~00~          MACH HISHIDA          ~00~                                ~01~}#144#132
+           DESIGNERS            ~00~         YONQUE ISSHIN          ~00~          MACH HISHIDA          ~00~                                ~01~#132
+|132
+@00006604-000066A8-FF
+;00006604{        SOUND COMPOSERS         ~00~       NIGE NO KANAZASHI        ~00~            GSX SUGA            ~00~           JUMP SOYO            ~00~                                ~01~}#180#165
+        SOUND COMPOSERS         ~00~       NIGE NO KANAZASHI        ~00~            GSX SUGA            ~00~           JUMP SOYO            ~00~                                ~01~#165
+|165
+@000066A9-000067B0-FF
+;000066A9{          PROGRAMMERS           ~00~           MIYA AOKI            ~00~          WAHYO IWATA           ~00~            GSX SUGA            ~00~           FLZ KANAI            ~00~          HOT SHIMIZU           ~00~           Y.NISHIDA            ~00~                                ~01~}#288#264
+          PROGRAMMERS           ~00~           MIYA AOKI            ~00~          WAHYO IWATA           ~00~            GSX SUGA            ~00~           FLZ KANAI            ~00~          HOT SHIMIZU           ~00~           Y.NISHIDA            ~00~                                ~01~#264
+|264
+@000067B1-000068D9-FF
+;000067B1{     EVENT SYSTEM OPERATORS     ~00~            N.AKITA             ~00~            K.YARIMOTO          ~00~            T.MATSUDA           ~00~            Z.IIDA              ~00~            K.TAMAI             ~00~            Y.TSUJI             ~00~            S.YAMABE            ~00~                                ~01~}#324#297
+     EVENT SYSTEM OPERATORS     ~00~            N.AKITA             ~00~            K.YARIMOTO          ~00~            T.MATSUDA           ~00~            Z.IIDA              ~00~            K.TAMAI             ~00~            Y.TSUJI             ~00~            S.YAMABE            ~00~                                ~01~#297
+|297
+@000068DA-0000693C-FF
+;000068DA{           CREATED BY           ~01~  NINTENDO AND HAL LABORATORY   ~00~                                ~00~}#108#099
+           CREATED BY           ~01~  NINTENDO AND HAL LABORATORY   ~00~                                ~00~#099
+|99
+@0000693D-00006961-FF
+;0000693D{   COPYRIGHT 1988 BY NINTENDO   ~FF~}#036#033
+   COPYRIGHT 1988 BY NINTENDO   ~FF~#033
+;0000695E{~00~~FF~}#008#002
+~00~~FF~#002
+;00006960{~FF~}#004#001
+~FF~#001
+;00006961{~FF~}#004#001
+~FF~#001
+|37
+@00009634-0000964E-FF
+;00009634{3D HOT RALLY SERV. DATA ~FF~}#028#025
+3D HOT RALLY SERV. DATA ~FF~#025
+;0000964D{A~00~}#005#002
+A~00~#002
+|27
+@00009666-00009724-FF
+;00009666{KATTOBI (SPORTS CAR)~FF~}#024#021
+KATTOBI (SPORTS CAR)~FF~#021
+;0000967B{jnqIF YOU LIKE DRIVING ~FF~}#027#024
+jnqIF YOU LIKE DRIVING ~FF~#024
+;00009693{jnqFAST, CHOOSE ME! MY ~FF~}#027#024
+jnqFAST, CHOOSE ME! MY ~FF~#024
+;000096AB{jnqTOP SPEED IS 220KM &~FF~}#027#024
+jnqTOP SPEED IS 220KM &~FF~#024
+;000096C3{jnqDOWNHILL I CAN REACH~FF~}#027#024
+jnqDOWNHILL I CAN REACH~FF~#024
+;000096DB{jnq240 EASILY! I MAY BE~FF~}#027#024
+jnq240 EASILY! I MAY BE~FF~#024
+;000096F3{jnqQUICK BUT PLEASE BE ~FF~}#027#024
+jnqQUICK BUT PLEASE BE ~FF~#024
+;0000970B{jnqGENTLE ON ME!       ~FF~}#027#024
+jnqGENTLE ON ME!       ~FF~#024
+;00009723{A~00~}#005#002
+A~00~#002
+|191
+@00009750-0000980E-FF
+;00009750{YONQUE (4WD VEHICLE)~FF~}#024#021
+YONQUE (4WD VEHICLE)~FF~#021
+;00009765{jnqTHE RALLY IS MADE   ~FF~}#027#024
+jnqTHE RALLY IS MADE   ~FF~#024
+;0000977D{jnqFOR ME! GOT PERFECT ~FF~}#027#024
+jnqFOR ME! GOT PERFECT ~FF~#024
+;00009795{jnqCORNER CONTROL AT   ~FF~}#027#024
+jnqCORNER CONTROL AT   ~FF~#024
+;000097AD{jnqANY SPEED. MY TIRES ~FF~}#027#024
+jnqANY SPEED. MY TIRES ~FF~#024
+;000097C5{jnqCAN ALSO HANDLE THE ~FF~}#027#024
+jnqCAN ALSO HANDLE THE ~FF~#024
+;000097DD{jnqMOST SNOWED IN ROADS~FF~}#027#024
+jnqMOST SNOWED IN ROADS~FF~#024
+;000097F5{jnqBETTER THAN ANYONE! ~FF~}#027#024
+jnqBETTER THAN ANYONE! ~FF~#024
+;0000980D{j~A6~}#005#002
+j~A6~#002
+|191
+@0000981A-000098D8-FF
+;0000981A{MONSTER (BUGGY TYPE)~FF~}#024#021
+MONSTER (BUGGY TYPE)~FF~#021
+;0000982F{jnqYOU BETTER PICK ME! ~FF~}#027#024
+jnqYOU BETTER PICK ME! ~FF~#024
+;00009847{jnqI AM THE STRONGEST  ~FF~}#027#024
+jnqI AM THE STRONGEST  ~FF~#024
+;0000985F{jnqOF VEHICLES! I CAN  ~FF~}#027#024
+jnqOF VEHICLES! I CAN  ~FF~#024
+;00009877{jnqHANDLE BRUTAL ROADS ~FF~}#027#024
+jnqHANDLE BRUTAL ROADS ~FF~#024
+;0000988F{jnqUPHILL OR DOWNHILL  ~FF~}#027#024
+jnqUPHILL OR DOWNHILL  ~FF~#024
+;000098A7{jnqWITH EASE AND I CAN ~FF~}#027#024
+jnqWITH EASE AND I CAN ~FF~#024
+;000098BF{jnqTAKE A BEATING!!    ~FF~}#027#024
+jnqTAKE A BEATING!!    ~FF~#024
+;000098D7{j~A6~}#005#002
+j~A6~#002
+|191
+@000098EF-000099DD-FF
+;000098EF{WHILE RACING...     ~FF~}#024#021
+WHILE RACING...     ~FF~#021
+;00009904{jnq-START- FOR MAP/MENU~FF~}#027#024
+jnq-START- FOR MAP/MENU~FF~#024
+;0000991C{jnq FROM THERE YOU CAN ~FF~}#027#024
+jnq FROM THERE YOU CAN ~FF~#024
+;00009934{jnqRESUME RACING,REPAIR~FF~}#027#024
+jnqRESUME RACING,REPAIR~FF~#024
+;0000994C{jnqYOUR CAR, OR YOU CAN~FF~}#027#024
+jnqYOUR CAR, OR YOU CAN~FF~#024
+;00009964{jnqSTOP THE RACE AND   ~FF~}#027#024
+jnqSTOP THE RACE AND   ~FF~#024
+;0000997C{jnqQUIT. THIS WILL TAKE~FF~}#027#024
+jnqQUIT. THIS WILL TAKE~FF~#024
+;00009994{jnqYOU BACK TO THE     ~FF~}#027#024
+jnqYOU BACK TO THE     ~FF~#024
+;000099AC{jnqTITLE SCREEN.       ~FF~}#027#024
+jnqTITLE SCREEN.       ~FF~#024
+;000099C4{jnq                    ~FF~}#027#024
+jnq                    ~FF~#024
+;000099DC{j~A6~}#005#002
+j~A6~#002
+|239
+@000099F4-00009A0E-FF
+;000099F4{SOME DRIVING ADVICE ~FF~}#024#021
+SOME DRIVING ADVICE ~FF~#021
+;00009A09{jnq~FF~}#007#004
+jnq~FF~#004
+;00009A0D{A~03~}#005#002
+A~03~#002
+|27
+@00009A0F-00009A71-FF
+;00009A0F{DOWNSHIFT AT CORNERS~FF~}#024#021
+DOWNSHIFT AT CORNERS~FF~#021
+;00009A24{jnqIF YOU ARE GOING TOO~FF~}#027#024
+jnqIF YOU ARE GOING TOO~FF~#024
+;00009A3C{jnqFAST FOR A CORNER,  ~FF~}#027#024
+jnqFAST FOR A CORNER,  ~FF~#024
+;00009A54{jnqDOWNSHIFT BEFORE IT.~FF~}#027#024
+jnqDOWNSHIFT BEFORE IT.~FF~#024
+;00009A6C{jnq~FF~}#007#004
+jnq~FF~#004
+;00009A70{A~03~}#005#002
+A~03~#002
+|99
+@00009A72-00009B30-FF
+;00009A72{JUMPING EFFECTIVELY ~FF~}#024#021
+JUMPING EFFECTIVELY ~FF~#021
+;00009A87{jnqIN ORDER TO JUMP    ~FF~}#027#024
+jnqIN ORDER TO JUMP    ~FF~#024
+;00009A9F{jnqEFFECTIVELY STOP    ~FF~}#027#024
+jnqEFFECTIVELY STOP    ~FF~#024
+;00009AB7{jnqACCELERATING RIGHT  ~FF~}#027#024
+jnqACCELERATING RIGHT  ~FF~#024
+;00009ACF{jnqBEFORE THE CREST OF ~FF~}#027#024
+jnqBEFORE THE CREST OF ~FF~#024
+;00009AE7{jnqA JUMP. JUMPS CAN   ~FF~}#027#024
+jnqA JUMP. JUMPS CAN   ~FF~#024
+;00009AFF{jnqBYPASS OPPONENTS AND~FF~}#027#024
+jnqBYPASS OPPONENTS AND~FF~#024
+;00009B17{jnqOBSTACLES!          ~FF~}#027#024
+jnqOBSTACLES!          ~FF~#024
+;00009B2F{j~A6~}#005#002
+j~A6~#002
+|191
+@00009B44-00009BEA-FF
+;00009B44{!!!IMPORTANT INFO!!!~FF~}#024#021
+!!!IMPORTANT INFO!!!~FF~#021
+;00009B59{jnqBE SURE TO SAVE THE ~FF~}#027#024
+jnqBE SURE TO SAVE THE ~FF~#024
+;00009B71{jnqGAME ON THE GOAL    ~FF~}#027#024
+jnqGAME ON THE GOAL    ~FF~#024
+;00009B89{jnqSCREEN OR CLASS     ~FF~}#027#024
+jnqSCREEN OR CLASS     ~FF~#024
+;00009BA1{jnqENTRY SCREEN. THIS  ~FF~}#027#024
+jnqENTRY SCREEN. THIS  ~FF~#024
+;00009BB9{jnqALLOWS SAVING OF THE~FF~}#027#024
+jnqALLOWS SAVING OF THE~FF~#024
+;00009BD1{jnqBEST TIMES RACED.   ~FF~}#027#024
+jnqBEST TIMES RACED.   ~FF~#024
+;00009BE9{j~A6~}#005#002
+j~A6~#002
+|167
+@00009BF6-00009C0C-FF
+;00009BF6{ENGLISH TRANSLATION ~FF~}#024#021
+ENGLISH TRANSLATION ~FF~#021
+;00009C0B{j~92~}#005#002
+j~92~#002
+|23
+@0001976E-00019778-FF
+;0001976E{MONSTER~00~~C0~h~80~}#020#011
+MONSTER~00~~C0~h~80~#011
+|11

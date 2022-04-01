@@ -1,48 +1,35 @@
-Low G Man - The Low Gravity Man
-TraducciÛn al EspaÒol v1.0 (06/04/2018)
-(C) 2018 Wave Translations
+Low G Man - The Low Gravity Man (NES)
+Traducci√≥n al Espa√±ol v2.0 (19/03/2022)
+(C) 2022 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducci√≥n y hacking es completamente original.
+Contiene el fix de la SRAM de RainWarrior.
+Si encuentras alg√∫n fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
 
-1. Sobre Low G Man - The Low Gravity Man
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. CrÈditos del Parche
+V2.0:
+-A√±adidos caracteres especiales
+-Traducci√≥n de subt√≠tulo
+-Mejorada traducci√≥n del men√∫
+-Guion retraducido
 
------------------
-1. Sobre Low G Man - The Low Gravity Man
------------------
-Plataformas de grandes saltos para NES.
-
----------------------
-2. Notas del Proyecto
----------------------
-Con parche SRAM http://www.romhacking.net/hacks/2512/.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
-TambiÈn puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche est· en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Low G Man - The Low Gravity Man (U) [!].nes
-262.160	bytes
-CRC32: b90a1ca1
-MD5: 1dcc3f339cc030c9ebdd31744a9e7182
-SHA1: a5d317f9565dfefd286bc50e828667c5801b606b
+Low G Man - The Low Gravity Man (USA).nes
+MD5: 7e27442a832019524f81fed9fcc0979c
+SHA1: f353e85c0f074ff5d77f1359e19bec660668b235
+CRC32: 4e91df7c
+262160 bytes
 
-----------------------
-5. CrÈditos del Parche
-----------------------
-Wave - Hacking y traducciÛn
-rainwarrior - SRAM FIX
+--------
+Cr√©ditos
+--------
+Wave - Hacking, traducci√≥n y pruebas.
 
--- END OF README --
+-- FIN --

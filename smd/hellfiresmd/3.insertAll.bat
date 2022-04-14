@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Hellfire (U) [!].bin"
-set S_FILENAME="Hellfire (U) [!].bin"
+set T_FILENAME="TR_Hellfire (USA).md"
+set S_FILENAME="Hellfire (USA).md"
 set SCRIPTNAME="hellfiresmd"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

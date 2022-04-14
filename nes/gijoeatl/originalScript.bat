@@ -1,4 +1,0 @@
-set T_FILENAME="G.I. Joe - The Atlantis Factor (U) [!].nes"
-set SCRIPTNAME="gijoeatl"
-java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.txt false 1EEEA-1EF9E-FF,5A30F-5B8C6-FE,5BC5C-5BC6F-FF,5C1FA-5C227-FF,5CB4B-5CB65-FF,5D11C-5D154-FF,5FF91-5FF9B-FF
-pause

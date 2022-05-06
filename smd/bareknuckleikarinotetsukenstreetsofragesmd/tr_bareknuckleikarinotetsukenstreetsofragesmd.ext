@@ -1,0 +1,284 @@
+@00001064-0000106D-FF
+;00001064{1 PLAYER  }#010#010
+1JUGADOR  #010
+|10
+@00001072-0000107B-FF
+;00001072{2 PLAYERS }#010#010
+2JUGADORES#010
+|10
+@00001080-00001089-FF
+;00001080{OPTIONS   }#010#010
+AJUSTES   #010
+|10
+@000012FE-00001319-FF
+;000012FE{EASY   NORMAL HARD   HARDEST}#028#028
+FÁCIL  
+NORMAL 
+DURO   
+M.DURO #028
+|28
+@000054E9-00005525-FF
+;000054E9{GG~C0~CONTINUE CG~C0~NEW~FF~}#028#019
+GG~C0~
+CONTINÚA CG~C0~
+FIN~FF~#019
+;000054FC{ CG~C0~GAME~47~~FA~ D~60~~A6~ GG~C0~CONTINUE CG~C0~GAME CG~C0~OVER}#066#042
+ CG~C0~
+JGO.~47~~FA~ D~60~~A6~ GG~C0~
+CONTINÚA CG~C0~
+FIN  CG~C0~
+    #042
+|61
+@0000898D-000089BA-FF
+;0000898D{~75~~41~T CYOU BECAME THE BOSS!= ~42~V CYOU ARE GREAT!~FF~}#058#046
+~75~~41~T C
+!TE HICISTE EL JEFE!= ~42~V C
+!ERES GENIAL! ~FF~#046
+|46
+@00008AE8-00008D69-FF
+;00008AE8{                STAFF=N          GAME DESIGNED BY=OTHERE IS "NO" ACCOUNTING FOR TASTES.=X          GAME DESIGNED BY=Y               TINON=4          PROGRAMMED BY=5           MOMONGA MOMO=6            LITTLE SUN=e            DESIGNED BY=.             NANDEMO=,           ATSUMIYA SEISHI='                UDI="           RASCAL FUKU-CHAN=~32~             MUSIC BY=~33~           YUZO KOSHIRO=~3A~          SOUND ASSISTED=~3B~                T.N=~41~          SPECIAL THANKS=~42~                BO=~43~                ORE=~44~               KOTTU=~45~              THUNDER=~46~              YAMAICHI=~47~               SCOTT=~58~            PRESENTED BY=~5A~             SEGA 1991=~6C~~FF~}#687#642
+               EQUIPO=N
+          PLANES DE JUEGO =OTHERE IS "NO" ACCOUNTING FOR TASTES.=X
+          PLANES DE JUEGO =Y               TINON=4
+           PROGRAMA POR=5           MOMONGA MOMO=6            LITTLE SUN=e
+             PLANES POR=.             NANDEMO=,           ATSUMIYA SEISHI='                UDI="           RASCAL FUKU-CHAN=~32~
+           COMPOSITOR=~33~           YUZO KOSHIRO=~3A~
+         AYUDA DE SONIDO=~3B~                T.N=~41~
+          MUCHAS GRACIAS=~42~                BO=~43~                ORE=~44~               KOTTU=~45~              THUNDER=~46~              YAMAICHI=~47~               SCOTT=~58~
+            LO PRESENTA =~5A~             SEGA 1991=~6C~~FF~#642
+|642
+@00008DE6-00008DF1-FF
+;00008DE6{~4D~5 CBAD END~FF~}#018#012
+~4D~5 C
+MAL FIN~FF~#012
+|12
+@0001171C-00011773-FF
+;0001171C{ EG~C0~PRESS~FF~}#016#010
+ EG~C0~PULSA~FF~#010
+;00011726{ CG~C0~2UP~FF~}#014#008
+ CG~C0~JU2~FF~#008
+;0001172E{ EG~C0~START~FF~}#016#010
+ EG~C0~START~FF~#010
+;00011738{ EF~D7~     ~FF~}#016#010
+ EF~D7~     ~FF~#010
+;00011742{ CF~D7~   ~FF~}#014#008
+ CF~D7~   ~FF~#008
+;0001174A{ EF~D7~     ~FF~}#016#010
+ EF~D7~     ~FF~#010
+;00011754{ CG~C0~GAME CG~C0~OVER CF~D7~     CF~D7~    }#044#032
+ CG~C0~
+FIN  CG~C0~
+     CF~D7~     CF~D7~    #032
+|88
+@000117ED-000117FB-FF
+;000117ED{CG~C0~1UP- CG~C0~2UP-}#021#015
+CG~C0~JU1- CG~C0~JU2-#015
+|15
+@00011A20-00011A30-FF
+;00011A20{PRESSSTARTBUTTON~FF~}#020#017
+PULSA
+BOTON
+START ~FF~#017
+|17
+@0001238E-00012575-FF
+;0001238E{= =WELL,YOU FOUND YOUR WAY==HERE. WOULD YOU CONSIDER==BECOMING MY RIGHT-HAND==MAN ?==YOU SHOW A LOT OF==POTENTIAL.==HERE'S YOUR REWARD !=== =YOU REALLY WANT TO DIE,==DON'T YOU...==I'LL BE HAPPY TO==OBLIGE != =YOU'RE NO ORDINARY MAN.==IT WOULD BE A WASTE TO==KILL YOU. WHY DON'T YOU==JOIN MY ORGANIZATION ?==AFTER WORKING AS A TEAM==FOR SO LONG, YOU PART==COMPANY. NOW, A FIGHT TO==THE DEATH != =YOU'RE AN EVIL MAN.==I NEVER WOULD HAVE==EXPECTED THIS FROM YOU.==DIE, TRAITOR !=YES=NO =====}#488#488
+= =
+BUENO, LLEGASTE HASTA==
+AQUÍ. ¿CONSIDERARÍAS SER==
+MI MANO DERECHA?==
+             ==
+MUESTRAS MUCHO==
+POTENCIAL.==
+¡AQUÍ ESTÁ TU PREMIO!==
+   ==
+
+REALMENTE QUIERES MORIR,==
+VERDAD...==
+¡ME HARÁ FELIZ==
+OBLIGARTE!  = =
+
+NO ERES UN HOMBRE       ==
+NORMAL. SERÍA UNA       ==
+LÁSTIMA MATARTE.     ==
+¿QUIERES UNIRTE A MI?==
+
+
+TRAS TRABAJAR EN EQUIPO==
+TANTO TIEMPO, DEJAS EL==
+GRUPO.==
+AHORA, ¡PELEAD A MUERTE!=     =
+
+ERES UN MALVADO.==
+NUNCA HABRÍA ESPERADO==
+ESTO DE TI.==
+¡MUERE, TRAIDOR!=         =
+SÍ =
+NO =====#488
+|488
+@00012714-0001272F-FF
+;00012714{EASY   NORMAL HARD   HARDEST}#028#028
+FÁCIL  
+NORMAL 
+DURO   
+M.DURO #028
+|28
+@00018468-00018474-FF
+;00018468{ROUND   CLEAR}#013#013
+RONDA   ACABA#013
+|13
+@00018564-0001860B-FF
+;00018564{~46~P CCLEAR BONUS  000000 PTS~FF~}#034#028
+~46~P C
+BONO ACABAR  000000 PTS~FF~#028
+;00018580{~47~P C TIME BONUS  000000 PTS~FF~}#034#028
+~47~P C
+BONO TIEMPO  000000 PTS~FF~#028
+;0001859C{~48~P CLEVEL BONUS  000000 PTS~FF~}#034#028
+~48~P C
+BONO NIVEL   000000 PTS~FF~#028
+;000185B8{~49~~90~ C   PLAYERS LEFT BONUS  ~FF~}#037#028
+~49~~90~ C
+  BONO VIDAS RESTANTES ~FF~#028
+;000185D4{~4A~~90~ C        1UP  000000 PTS~FF~}#037#028
+~4A~~90~ C        JU1  000000 PTS~FF~#028
+;000185F0{~4B~~90~ C        2UP  000000 PTS~FF~}#037#028
+~4B~~90~ C        JU2  000000 PTS~FF~#028
+|168
+@0001C684-0001CAEB-FF
+;0001C684{ROUND1      ROUND2      ROUND3      ROUND4      ROUND5      ROUND6      ROUND7      ROUND8      BOSS        TITLE       GAME OVER   SELECT      NAME ENTRY  ROUND CLEAR BAD ENDING  LAST BOSS   GOOD ENDING VOICE1      VOICE2      VOICE3      VOICE4      VOICE5      VOICE6      VOICE7      VOICE8      VOICE9      VOICE10     SE 1        SE 2        SE 3        SE 4        SE 5        SE 6        SE 7        SE 8        SE 9        SE 10       SE 11       SE 12       SE 13       SE 14       SE 15       SE 16       SE 17       SE 18       SE 19       SE 20       SE 21       SE 22       SE 23       SE 24       SE 25       SE 26       SE 27       SE 28       SE 29       SE 30       SE 31       SE 32       SE 33       SE 34       SE 35       SE 36       SE 37       SE 38       SE 39       SE 40       SE 41       SE 42       SE 43       SE 44       SE 45       SE 46       SE 47       A-SPECIAL ATTACK                B-ATTACK                        C-JUMP          A-ATTACK                        B-JUMP                          C-SPECIAL ATTACKA-JUMP                          B-SPECIAL ATTACK                C-ATTACK        }#1128#1128
+RONDA 1     
+RONDA 2     
+RONDA 3     
+RONDA 4     
+RONDA 5     
+RONDA 6     
+RONDA 7     
+RONDA 8     
+JEFE        
+TÍTULO      
+FIN DE JUEGO
+ELIGE       
+ENTRA NOMBRE
+ACABA RONDA 
+MAL FINAL   
+ÚLTIMO JEFE 
+BUEN FINAL  
+VOZ 1       
+VOZ 2       
+VOZ 3       
+VOZ 4       
+VOZ 5       
+VOZ 6       
+VOZ 7       
+VOZ 8       
+VOZ 9       
+VOZ 10      
+ES 1        
+ES 2        
+ES 3        
+ES 4        
+ES 5        
+ES 6        
+ES 7        
+ES 8        
+ES 9        
+ES 10       
+ES 11       
+ES 12       
+ES 13       
+ES 14       
+ES 15       
+ES 16       
+ES 17       
+ES 18       
+ES 19       
+ES 20       
+ES 21       
+ES 22       
+ES 23       
+ES 24       
+ES 25       
+ES 26       
+ES 27       
+ES 28       
+ES 29       
+ES 30       
+ES 31       
+ES 32       
+ES 33       
+ES 34       
+ES 35       
+ES 36       
+ES 37       
+ES 38       
+ES 39       
+ES 40       
+ES 41       
+ES 42       
+ES 43       
+ES 44       
+ES 45       
+ES 46       
+ES 47       
+A-POLICÍA                       
+B-ATACAR                        
+C-SALTAR        A-ATACAR        
+                B-SALTAR        
+                C-POLICÍA       
+A-SALTAR                        
+B-POLICÍA                       
+C-ATACAR        #1128
+|1128
+@0003F7DA-0003F9F2-FF
+;0003F7DA{               STAFF^          GAME DESIGNED BY^^^THERE IS "NO" ACCOUNTING FOR TASTES.^^               TINON^^^^^           PROGRAMMED BY^^^            MOMONGA MOMO^^             LITTLE SUN^            DESIGNED BY^^^ ATSUMIYA SEISHI      NANDEMO ^^ RASCAL FUKU-CHAN     UDI^^^^^             MUSIC BY^^^           YUZO KOSHIRO^^^^^          SOUND ASSISTED^^^                T.N ^        SPECIAL THANKS TO^^^    BO              ORE^^    KOTTU           THUNDER^^    YAMAICHI        SCOTT^            PRESENTED BY^^             SEGA 1991^  }#537#537
+              EQUIPO^
+          PLANES DE JUEGO ^^^
+THERE IS "NO" ACCOUNTING FOR TASTES.^^               TINON^^^^^
+            PROGRAMA POR^^^            MOMONGA MOMO^^             LITTLE SUN^
+            PLANES POR ^^^ ATSUMIYA SEISHI      NANDEMO ^^ RASCAL FUKU-CHAN     UDI^^^^^
+           COMPOSITOR^^^           YUZO KOSHIRO^^^^^
+         AYUDA DE SONIDO^^^                T.N ^
+        MUCHAS GRACIAS A ^^^    BO              ORE^^    KOTTU           THUNDER^^    YAMAICHI        SCOTT^
+            LO PRESENTA ^^
+             SEGA 1991^  #537
+|537
+@00071FA8-00072146-FF
+;00071FA8{~47~H C G BG~C0~POWER  AJUMP   ASPEED  B~47~5 C G BG~C0~POWER  AJUMP   BSPEED  A~47~~38~ C G BG~C0~POWER  BJUMP   ASPEED  A~45~~88~ C G AA  ALM A,'BCNOBC""~45~~A0~ C G AA  A~4D~~4E~PQ->BC~4F~~50~FRe.~45~~B6~ C I AA DE-> A~53~~54~PQFGe.BC~55~~56~FR~41~~88~ C F    OPTIONS ~43~~88~ C I    SOUND TEST~43~~88~ C I  5 SOUND TEST~44~~88~ C D    LEVEL ~44~~88~ C D  5 LEVEL ~45~~88~ C F    CONTROL ~45~~88~ C F  5 CONTROL ~4A~~88~ C F    PLAYERS ~4A~~88~ C F  5 PLAYERS ~4B~~88~ C H    ROUND NO. ~4B~~88~ C H  5 ROUND NO. ~49~H C C    EXIT~49~H C C  5 EXIT }#550#415
+~47~H C G BG~C0~
+FUERZA A
+SALTO  A
+VELOZ  B~47~5 C G BG~C0~
+FUERZA A
+SALTO  B
+VELOZ  A~47~~38~ C G BG~C0~
+FUERZA B
+SALTO  A
+VELOZ  A~45~~88~ C G AA  ALM A,'BCNOBC""~45~~A0~ C G AA  A~4D~~4E~PQ->BC~4F~~50~FRe.~45~~B6~ C I AA DE-> A~53~~54~PQFGe.BC~55~~56~FR~41~~88~ C F
+    AJUSTES ~43~~88~ C I
+    TEST AUDIO~43~~88~ C I  5
+ TEST AUDIO~44~~88~ C D
+    NIVEL ~44~~88~ C D  5
+ NIVEL ~45~~88~ C F
+    CONTROL ~45~~88~ C F  5
+ CONTROL ~4A~~88~ C F
+    VIDAS   ~4A~~88~ C F  5
+ VIDAS   ~4B~~88~ C H
+    RONDA NO. ~4B~~88~ C H  5
+ RONDA NO. ~49~H C C
+    SALE~49~H C C  5
+ SALE #415
+|415
+@00072692-0007272C-FF
+;00072692{    THE BEST 10 PLAYERS ~42~~86~ C 6    RANK    SCORE   RD   NAME    LEVEL~43~~86~ C C R   1ST     2ND     3RD     4TH     5TH     6TH     7TH     8TH     9TH    10TH }#167#155
+     MEJORES JUGADORES  ~42~~86~ C 6
+    RANGO   MARCA   RD NOMBRE    NIVEL~43~~86~ C C R
+   1RO     2DO     3RO     4TO     5TO     6TO     7MO     8VO     9NO    10MO #155
+|155
+@00004D30-00004D3F-FF
+;00004D30{ CG~C0~1UP- CG~C0~2UP-}#022#016
+ CG~C0~JU1- CG~C0~JU2-#016
+|16
+@000057C2-000057D1-FF
+;000057C2{ CG~C0~1UP- CG~C0~2UP-}#022#016
+ CG~C0~JU1- CG~C0~JU2-#016
+|16

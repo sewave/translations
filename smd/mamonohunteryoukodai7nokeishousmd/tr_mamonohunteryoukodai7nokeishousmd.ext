@@ -1,0 +1,54 @@
+@00003504-0000352A-00
+;00003504{READY!~00~}#010#007
+INICIO~00~#007
+;0000350B{SCENE ~00~}#010#007
+ETAPA ~00~#007
+;00003512{CLEAR~00~}#009#006
+ACABA~00~#006
+;00003518{GAMEOVER~00~}#012#009
+   FI N ~00~#009
+;00003521{TIMEUP~00~}#010#007
+TIEMPO~00~#007
+;00003528{SC~00~}#006#003
+MC~00~#003
+|39
+@0000E09C-0000E0A4-00
+;0000E09C{GAMEOVER~00~}#012#009
+   FI N ~00~#009
+|9
+@0000CF76-0000CFAE-00
+;0000CF76{c MUTSUKI&MIYAO 1989~00~}#024#021
+{cc} MUTSUKI&MIYAO 1989~00~#021
+;0000CF8B{PUSH START BUTTON~00~}#021#018
+   PULSA START   ~00~#018
+;0000CF9D{                 ~00~}#021#018
+                 ~00~#018
+|57
+@0000E4B8-0000E7B5-00
+;0000E4B8{~76~-- staff --====~72~- original story -==~75~JUZO MUTSUKI====~75~- direction -==~74~GERRY YAMAMOTO~7D~~60~KLON~61~===~70~- original character -==~76~GAKU MIYAO=====~74~- game system -==~7A~AAA~7D~~60~KLON~61~===~73~- graphic arts -==~75~YUKO TANISAKO~7D~~60~KLON~61~===~73~- illustration -==~76~GAKU MIYAO====~75~- dot work -==~75~YUKO TANISAKO~7D~~60~KLON~61~=~75~KAORU NAGATA~7D~~60~KLON~61~===~74~- map design -==~75~KIYOSHI SAKAI~7D~~60~KLON~61~===~77~- music -==~73~KEIICHI YAMAMOTO====~72~- music operation -==~75~KAYOKO MAEDA~7D~~60~KLON~61~=~73~ATUHIRO MOTOYAMA~7D~~60~KLON~61~===~73~- sound effect -==~75~KAYOKO MAEDA~7D~~60~KLON~61~===============~36~- program -=~35~KIYOSHI SAKAI~3D~~60~KLON~61~===~36~- producer -==~35~KEIICHI ONOGI====~30~- assistant producer -==~34~KEISUKE YASAKA====~32~- sales promoter -==~35~YASUAKI YOKOE==~36~JUN MIMURA====~32~222222222222222222==~37~thanks to==~39~toho==~37~mad house==~36~sinichi ito=====~35~presented by=~37~ncs 3456.~3E~7~FE~~00~}#988#766
+~76~
+--equipo-- ====~72~
+ -trama original- ==~75~JUZO MUTSUKI====~75~
+ -dirección- ==~74~GERRY YAMAMOTO~7D~~60~KLON~61~===~70~
+ -personaje original- ==~76~GAKU MIYAO=====~74~
+-sistema juego-==~7A~AAA~7D~~60~KLON~61~===~73~
+-artes gráficas-==~75~YUKO TANISAKO~7D~~60~KLON~61~===~73~
+ -ilustración-  ==~76~GAKU MIYAO====~75~
+ -píxeles-  ==~75~YUKO TANISAKO~7D~~60~KLON~61~=~75~KAORU NAGATA~7D~~60~KLON~61~===~74~
+-diseño mapa- ==~75~KIYOSHI SAKAI~7D~~60~KLON~61~===~77~
+ -música-==~73~KEIICHI YAMAMOTO====~72~
+ -operación música-==~75~KAYOKO MAEDA~7D~~60~KLON~61~=~73~ATUHIRO MOTOYAMA~7D~~60~KLON~61~===~73~
+-efectos sonido-==~75~KAYOKO MAEDA~7D~~60~KLON~61~===============~36~
+ -programa-=~35~KIYOSHI SAKAI~3D~~60~KLON~61~===~36~
+-productor- ==~35~KEIICHI ONOGI====~30~
+ -productor asociado- ==~34~KEISUKE YASAKA====~32~
+-promotor ventas- ==~35~YASUAKI YOKOE==~36~JUN MIMURA====~32~222222222222222222==~37~
+gracias a==~39~toho==~37~mad house==~36~sinichi ito=====~35~
+lo presenta =~37~ncs 3456.~3E~7~FE~~00~#766
+|766
+@0000E956-0000E96D-00
+;0000E956{CONTINUE        CREDIT ~00~}#027#024
+ SEGUIR 
+        
+VECES  ~00~#024
+|24

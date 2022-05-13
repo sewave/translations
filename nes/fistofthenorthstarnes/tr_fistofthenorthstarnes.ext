@@ -1,0 +1,135 @@
+@00014010-0001407D-FF
+;00014010{~0A~~A8~~B9~~3A~~80~~85~~D9~~B9~~3B~~80~~85~~DA~~A0~~00~~AD~~02~~20~~B1~~D9~~8D~~06~~20~~C8~~B1~~D9~~8D~~06~~20~~C8~~B1~~D9~~C8~~C9~~FE~~F0~~07~~B0~~13~~8D~~07~~20~~90~~F2~~98~~18~~65~~D9~~85~~D9~~A5~~DA~~69~~00~~85~~DA~~D0~~D3~~60~~10~~81~~2C~~81~~44~~81~~67~~81~~78~~81~~96~~81~~A7~~81~~C1~~81~~10~~81~~2C~~81~~44~~81~~67~~81~~DA~~80~~E2~~80~~ED~~80~~6E~~80~~DB~~81~~15~~82~~15~~82~~15~~82~~15~~82~~15~~82~~15~~82~~15~~82~~15~~82~~FA~~80~}#440#110
+~0A~~A8~~B9~~3A~~80~~85~~D9~~B9~~3B~~80~~85~~DA~~A0~~00~~AD~~02~~20~~B1~~D9~~8D~~06~~20~~C8~~B1~~D9~~8D~~06~~20~~C8~~B1~~D9~~C8~~C9~~FE~~F0~~07~~B0~~13~~8D~~07~~20~~90~~F2~~98~~18~~65~~D9~~85~~D9~~A5~~DA~~69~~00~~85~~DA~~D0~~D3~~60~
+;STAGE 1 ~10~~81~
+~20~~82~
+;STAGE 2 ~2C~~81~
+~A0~~82~
+;STAGE 3 ~44~~81~
+~E0~~82~
+;STAGE 4
+~80~~82~
+;STAGE 5
+~20~~83~
+;STAGE 6
+~60~~83~
+;KENSHIRO VS FALCO ~A7~~81~
+~C0~~83~
+;KENSHIRO VS SHURA ~C1~~81~
+~E0~~83~
+;STAGE 1 ~10~~81~
+~20~~82~
+;STAGE 2 ~2C~~81~
+~A0~~82~
+;STAGE 3 ~44~~81~
+~E0~~82~
+;STAGE 4
+~80~~82~
+~DA~~80~
+~E2~~80~
+;GAME OVER ~ED~~80~
+~60~~82~
+~6E~~80~
+;STATUS BAR ~DB~~81~
+~80~~83~
+~15~~82~
+~15~~82~
+~15~~82~
+~15~~82~
+~15~~82~
+~15~~82~
+~15~~82~
+~15~~82~
+~FA~~80~#110
+|110
+@0001407E-0001422C-FF
+;0001407E{W8%%%%%%%%%%%%%%=WM~74~=W~37~~78~=W~57~~78~=W%~78~=W~97~~78~=W~B7~~78~=W~D7~~78~=W~F7~~78~=XM~78~=W7~73~=W-~79~=W~48~~79~=W~68~~79~=W~88~~79~=W~A8~~79~=W~C8~~79~=W~E8~~79~=X7~79~=X-~75~$$$$$$$$$$$$$$~76~~FF~}#207#108
+W8%%%%%%%%%%%%%%=WM~74~=W~37~~78~=W~57~~78~=W%~78~=W~97~~78~=W~B7~~78~=W~D7~~78~=W~F7~~78~=XM~78~=W7~73~=W-~79~=W~48~~79~=W~68~~79~=W~88~~79~=W~A8~~79~=W~C8~~79~=W~E8~~79~=X7~79~=X-~75~$$$$$$$$$$$$$$~76~~FF~#108
+;000140EA{W~4C~STAGE~FF~}#014#008
+W~4C~ETAPA~FF~#008
+;000140F2{W~4A~VS STAGE~FF~}#017#011
+W~4A~ETAPA VS~FF~#011
+;000140FD{W~8B~GAME  OVER~FF~}#019#013
+\\\\\\\\\\\\~FF~#013
+;0001410A{W~8C~NEW GAME=W~CC~CONTINUE~FF~}#031#022
+W~8C~EMPEZAR=W~CC~CONTINUAR~FF~#022
+;00014120{W~8D~BASK'S=W~AD~COUNTY=W~CD~CAPITAL~FF~}#040#028
+\\\\\\\\\\\\\\\\\\\\\\\\\\\~FF~#028
+;0001413C{W~8C~GAYLER'S=W~AB~CITY GROUP~FF~}#033#024
+\\\\\\\\\\\\\\\\\\\\\\\~FF~#024
+;00014154{W~8C~TRAITOR=W~AB~CONCENTRA-=W~CB~TION CAMP~FF~}#047#035
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\~FF~#035
+;00014177{W~8D~SOLIA'S=W~AE~ARMY~FF~}#026#017
+\\\\\\\\\\\\\\\\~FF~#017
+;00014188{W~8A~THE IMPERIAL=W~AA~CAPITAL GATE~FF~}#039#030
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\~FF~#030
+;000141A6{W~8D~JAKKO'S=W~AE~ARMY~FF~}#026#017
+\\\\\\\\\\\\\\\\~FF~#017
+;000141B7{W~8C~KENSHIRO=W~AE~V.S.=W~CD~FALCO~FF~}#038#026
+\\\\\\\\\\\\\\\\\\\\\\\\\~FF~#026
+;000141D1{W~8C~KENSHIRO=W~AE~V.S.=W~CD~SHULA~FF~}#038#026
+\\\\\\\\\\\\\\\\\\\\\\\\\~FF~#026
+;000141EB{V~62~POWER=V~6E~~73~%%~74~SCORE=V~82~BOMB=V~8E~~79~99~78~HIT+0000 P+=V~A2~KEN=V~AE~~75~$$~76~~FF~}#097#058
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\~FF~#058
+;00014225{V~B2~ENEMY~FF~}#014#008
+V~B2~{EN}{NE}{MI}{IG}{GOO}~FF~#008
+|431
+@00014230-0001462F-FF
+;00014230{}#1024#1024
+;8220 - 2082
+~21~~89~La capital del=~21~~AB~condado de=~21~~CE~Bask\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+;8260 - 6082
+~21~~8B~Fin de la=~21~~AC~partida\\\\\\\\\\\
+;8280 - 8082 W~8D~SOLIA'S=W~AE~ARMY~FF~
+~21~~89~El ejército de=~21~~AD~Solia\\\\\\\\
+;82A0 - A082 - W~8C~GAYLER'S=W~AB~CITY GROUP\
+~21~~89~El grupo de la=~21~~AB~ciudad de=~21~~CD~Geira\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+;82E0 - E082 - W~8C~TRAITOR=W~AB~CONCENTRA-=W~CB~TION CAMP~FF~
+~21~~8A~El campo de=~21~~A9~concentración=~21~~CA~de traidores\\\\\\\\\\\\\\\\\\\\
+;8320 - 2083 - W~8A~THE IMPERIAL=W~AA~CAPITAL GATE~FF~
+~21~~8A~La puerta de=~21~~AB~la capital=~21~~CC~imperial\\\\\\\\\\\\\\\\\\\\\\\\\\
+;8360 - 6083 - W~8D~JAKKO'S=W~AE~ARMY~FF~
+~21~~89~El ejército de=~21~~AE~Jako\\\\\\\\\
+;8380 - 8083 -
+V~62~
+PODER=V~6E~~73~%%~74~
+MARCA=V~82~
+BOMBA=V~8E~~79~99~78~
+{GO}{LP}{PE}+0000 J+=V~A2~
+KEN=V~AE~~75~$$~76~\\\\\\
+;143D0 - 83C0 - C083 W~8C~KENSHIRO=W~AE~V.S.=W~CD~FALCO~FF~
+W~8C~Kenshiro=W~AD~contra=W~CD~Falco\\\\\
+;143F0 - 83E0 - E083
+W~8C~Kenshiro=W~AD~contra=W~CD~Shura\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#1024
+|1024
+@0001531D-00015331-FF
+;0001531D{\\\\~33~~00~~DD~\\\\\~5F~~5F~~55~~DD~\\\\\}#042#021
+\\\\\~00~~DD~\\\\\~5F~~5F~~55~~DD~\\\\\#021
+|21
+@000153B0-00015486-FF
+;000153B0{W~A6~PUSH START  VS START=W~E7~HI SCORE=XYTM AND c BRONSON.HARA TETSUO=X~46~/SHUEISHA.FUJI TV=X~66~.TOEI ANIMATION=X~8C~~30~~31~=X~A6~1989  ~32~~33~TOEI ANIMATION=X~CE~SHOUEI SYSTEM=X~E6~1989  TAXAN USA CORP.=YBLICENSED BY =Y+NINTENDO OF AMERICA INC.~FF~}#254#215
+W~A6~
+EMPEZAR     EMPEZAR VS=W~EB~
+MEJOR=XZ
+TM Y © BRONSON.HARA TETSUO=X~46~
+/SHUEISHA.FUJI TV=X~66~
+.TOEI ANIMATION=X~8C~
+~30~~31~=X~A6~
+1989  ~32~~33~TOEI ANIMATION=X~CE~
+SHOUEI SYSTEM=X~E6~
+1989  TAXAN USA CORP.=YA
+LICENCIADO POR =Y+
+NINTENDO DE AM{É]}RICA INC.~FF~#215
+|215
+@00015526-00015634-FF
+;00015526{V~C2~EXECUTIVE PRODUCER=V~E4~MIKI HIRAO=W1PRODUCER=WZSHUICHI SATO=W~44~TADAO OKUBO=W~62~DIRECTER=W~84~YOSHIHIKO TAKEDA=W~C2~GAME DESIGNER=W~E4~KENICHI SUZUKI=XXCHARACTER DESIGNER=X~44~MAKOTO HIGA=X~64~NAOMI SATO=X~A2~PROGRAMMER=X~C4~MASAHIRO YOSHIHARA=X~E4~YASUHIDE SAKAKURA=YXGAME MUSIC=Y~44~J-WALK MITSUYASU~FF~}#313#271
+V~C2~
+PRODUCTOR EJECUTIVO=V~E4~MIKI HIRAO=W1
+PRODUCTOR=WZSHUICHI SATO=W~44~TADAO OKUBO=W~62~
+DIRECTOR=W~84~YOSHIHIKO TAKEDA=W~C2~
+DISEÑO JUEGO=W~E4~KENICHI SUZUKI=XX
+DISEÑO PERSONAJES=X~44~MAKOTO HIGA=X~64~NAOMI SATO=X~A2~
+PROGRAMADOR=X~C4~MASAHIRO YOSHIHARA=X~E4~YASUHIDE SAKAKURA=YX
+MÚSICO   =Y~44~J-WALK MITSUYASU~FF~#271
+|271

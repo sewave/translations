@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Ninja Gaiden (U) [!].gg"
-set S_FILENAME="Ninja Gaiden (U) [!].gg"
+set T_FILENAME="TR_Ninja Gaiden (USA, Europe).gg"
+set S_FILENAME="Ninja Gaiden (USA, Europe).gg"
 set SCRIPTNAME="ninjagaidengg"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

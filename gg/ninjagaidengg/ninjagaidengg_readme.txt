@@ -1,28 +1,32 @@
 Ninja Gaiden (Game Gear)
-Traducci髇 al Espa駉l v1.0 (18/12/2018)
-(C) 2018 Traducciones Wave
+Traducci贸n al Espa帽ol v2.0 (29/04/2022)
+(C) 2022 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducci髇 y hacking es completamente original.
-Si encuentras alg鷑 fallo puedes contactar conmigo y ver mis traducciones en
+Esta traducci贸n y hacking es completamente original.
+Si encuentras alg煤n fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+V2.0:
+-A帽adidos caracteres especiales
+-Revisi贸n de guion
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Ninja Gaiden (U) [!].gg
+Ninja Gaiden (USA, Europe).gg
 MD5: 764388b8b5dc2e762fab9badd0eca6ba
 SHA1: 1a5c44e76a0e913d76f590affae3b2e24fbd0f59
 CRC32: c578756b
-131.072 bytes
+131072 bytes
 
 --------
-Cr閐itos
+Cr茅ditos
 --------
-Wave - Hacking, traducci髇 y pruebas.
+Wave - Hacking, traducci贸n y pruebas.
 
 -- FIN --

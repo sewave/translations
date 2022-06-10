@@ -1,96 +1,98 @@
 @000136BA-000136F9-00
-;00000000{   PRODUCED BY OR     UNDER LICENSE FROM  SEGA ENTERPRISES LTD.~00~}#067#064
+;000136BA{   PRODUCED BY OR     UNDER LICENSE FROM  SEGA ENTERPRISES LTD.~00~}#067#064
    PRODUCED BY OR     UNDER LICENSE FROM  SEGA ENTERPRISES LTD.~00~#064
 |64
 @00013752-0001375B-00
-;00000000{1P 2P COM~00~}#013#010
+;00013752{1P 2P COM~00~}#013#010
 1P 2P COM~00~#010
 |10
 @00013B94-00013B99-00
-;00000000{PAUSE~00~}#009#006
+;00013B94{PAUSE~00~}#009#006
 PAUSE~00~#006
 |6
 @00013DD0-00013E65-00
-;00000000{ THIS CARTRIDGE HAS BEEN DEVELOPED FOR USE OUTSIDE NORTH AND SOUTH AMERICA. IT CANNOT BE USED WITH   HARDWARE UNITS FOR SALE    WITHIN THESE AREAS.   }#150#150
+;00013DD0{ THIS CARTRIDGE HAS BEEN DEVELOPED FOR USE OUTSIDE NORTH AND SOUTH AMERICA. IT CANNOT BE USED WITH   HARDWARE UNITS FOR SALE    WITHIN THESE AREAS.   }#150#150
  THIS CARTRIDGE HAS BEEN DEVELOPED FOR USE OUTSIDE NORTH AND SOUTH AMERICA. IT CANNOT BE USED WITH   HARDWARE UNITS FOR SALE    WITHIN THESE AREAS.   #150
 |150
 @00014EDA-00014EEB-00
-;00000000{PRESS START BUTTON}#018#018
+;00014EDA{PRESS START BUTTON}#018#018
 PRESS START BUTTON#018
 |18
 @00014F8C-00014FA7-00
-;00000000{1P PLAY2P PLAYVS MODEOPTIONS}#028#028
+;00014F8C{1P PLAY2P PLAYVS MODEOPTIONS}#028#028
 1P PLAY2P PLAYVS MODEOPTIONS#028
 |28
-@00015088-0001508F-00
-;00000000{2P PLAY~00~}#011#008
-2P PLAY~00~#008
-|8
-@0001512E-0001516B-00
-;00000000{OPTIONS~FF~~08~~08~GAME LEVEL~FF~~08~~0B~CONTROL~FF~~18~~0B~A~FF~~18~~0C~B~FF~~18~~0D~C~FF~~08~~10~BGM~FF~~08~~13~SE~FF~~08~~16~EXIT~FF~~00~}#140#062
-OPTIONS~FF~~08~~08~GAME LEVEL~FF~~08~~0B~CONTROL~FF~~18~~0B~A~FF~~18~~0C~B~FF~~18~~0D~C~FF~~08~~10~BGM~FF~~08~~13~SE~FF~~08~~16~EXIT~FF~~00~#062
-|62
+@00015088-0001508E-00
+;00015088{2P PLAY}#007#007
+2P PLAY#007
+|7
+@0001512C-0001516B-00
+;0001512C{~10~~04~OPTIONS=~08~~08~GAME LEVEL=~08~~0B~CONTROL=~18~~0B~A=~18~~0C~B=~18~~0D~C=~08~~10~BGM=~08~~13~SE=~08~~16~EXIT=~00~}#121#064
+~10~~04~OPTIONS=~08~~08~GAME LEVEL=~08~~0B~CONTROL=~18~~0B~A=~18~~0C~B=~18~~0D~C=~08~~10~BGM=~08~~13~SE=~08~~16~EXIT=~00~#064
+|64
 @00015318-00015323-00
-;00000000{NORMALHARD  }#012#012
+;00015318{NORMALHARD  }#012#012
 NORMALHARD  #012
 |12
 @000153AA-000153BB-00
-;00000000{MAGIC ATTACKJUMP  }#018#018
+;000153AA{MAGIC ATTACKJUMP  }#018#018
 MAGIC ATTACKJUMP  #018
 |18
 @00015C48-00015C55-00
-;00000000{PRESS 2P START}#014#014
+;00015C48{PRESS 2P START}#014#014
 PRESS 2P START#014
 |14
-@00016B6A-00016B70-00
-;00000000{STAGE A}#007#007
-STAGE A#007
-|7
+@00016B6A-00016B6F-00
+;00016B6A{STAGE }#006#006
+STAGE #006
+|6
 @00016BC8-00016BD1-00
-;00000000{SCORELEVEL}#010#010
+;00016BC8{SCORELEVEL}#010#010
 SCORELEVEL#010
 |10
+@00016C0A-00016C0C-00
+;00016C0A{RD~3D~}#006#003
+RD~3D~#003
+|3
 @00016CD8-00016DC7-00
-;00000000{  "THE VAST FIELD"    "ANCIENT MOUND"     "TENDER HAMLET"      "DIM JUNGLE"      "CAVE OF CRYSTAL"  "THE SCORCHING SAND"  "BLOODY STREET"     "DEATH MOUNTAIN"  "A VOYAGE TO CASTLE""RIDE THE WHIRLWIND"   "CURSED CITY"     "THE GATE OF FATE" }#240#240
+;00016CD8{  "THE VAST FIELD"    "ANCIENT MOUND"     "TENDER HAMLET"      "DIM JUNGLE"      "CAVE OF CRYSTAL"  "THE SCORCHING SAND"  "BLOODY STREET"     "DEATH MOUNTAIN"  "A VOYAGE TO CASTLE""RIDE THE WHIRLWIND"   "CURSED CITY"     "THE GATE OF FATE" }#240#240
   "THE VAST FIELD"    "ANCIENT MOUND"     "TENDER HAMLET"      "DIM JUNGLE"      "CAVE OF CRYSTAL"  "THE SCORCHING SAND"  "BLOODY STREET"     "DEATH MOUNTAIN"  "A VOYAGE TO CASTLE""RIDE THE WHIRLWIND"   "CURSED CITY"     "THE GATE OF FATE" #240
 |240
-@0001704C-00017057-00
-;00000000{YOUR ROUTEa~00~}#015#012
-YOUR ROUTEa~00~#012
-|12
+@0001704C-00017055-00
+;0001704C{YOUR ROUTE}#010#010
+YOUR ROUTE#010
+|10
 @000170F2-000170FF-00
-;00000000{AND YOU DEAD ~00~}#017#014
+;000170F2{AND YOU DEAD ~00~}#017#014
 AND YOU DEAD ~00~#014
 |14
 @000179F3-00017AF3-00
-;00000000{Finally,the courageous warriors~FE~~08~defeat the evil lord.~FF~~03~The castle strengthened by the~FE~~06~evil magic turns to dust.~FF~~02~And they retrieve the Golden Axe.~FF~~01~Peace returns to the entire world.~FF~~00~}#222#186
-Finally,the courageous warriors~FE~~08~defeat the evil lord.~FF~~03~The castle strengthened by the~FE~~06~evil magic turns to dust.~FF~~02~And they retrieve the Golden Axe.~FF~~01~Peace returns to the entire world.~FF~~00~#186
-;000000BA{Time passes and their battles become~FE~~03~legends that pass down forever.~FF~~00~}#083#071
-Time passes and their battles become~FE~~03~legends that pass down forever.~FF~~00~#071
+;000179F3{Finally,the courageous warriors~FE~~08~defeat the evil lord.=~03~The castle strengthened by the~FE~~06~evil magic turns to dust.=~02~And they retrieve the Golden Axe.=~01~Peace returns to the entire world.=~00~}#210#186
+Finally,the courageous warriors~FE~~08~defeat the evil lord.=~03~The castle strengthened by the~FE~~06~evil magic turns to dust.=~02~And they retrieve the Golden Axe.=~01~Peace returns to the entire world.=~00~#186
+;00017AAD{Time passes and their battles become~FE~~03~legends that pass down forever.=~00~}#080#071
+Time passes and their battles become~FE~~03~legends that pass down forever.=~00~#071
 |257
 @000EBB64-000EBF95-00
-;00000000{ "Now that you have been~FF~released from the evil~FF~curse,your mission is to~FF~defeat the Prince of~FF~darkness and return with~FF~the Golden Axe.~FF~ Go now,brave warrior!"~FF~~00~}#184#160
- "Now that you have been~FF~released from the evil~FF~curse,your mission is to~FF~defeat the Prince of~FF~darkness and return with~FF~the Golden Axe.~FF~ Go now,brave warrior!"~FF~~00~#160
-;000000A0{~17~~02~ "I'm still alive. Don't~FF~worry,I'll destroy the~FF~enemies around here."~FF~~17~~02~ "Thank you. Be careful,~FF~the enemies around here~FF~are very powerful."~FF~~00~}#177#144
-~17~~02~ "I'm still alive. Don't~FF~worry,I'll destroy the~FF~enemies around here."~FF~~17~~02~ "Thank you. Be careful,~FF~the enemies around here~FF~are very powerful."~FF~~00~#144
-;00000130{~17~~02~ "I'm so ashamed that I~FF~fell under their curse.~FF~I must beg your pardon."~FF~~00~}#094#076
-~17~~02~ "I'm so ashamed that I~FF~fell under their curse.~FF~I must beg your pardon."~FF~~00~#076
-;0000017C{~19~~03~ "Fortunately,I regained~FF~consciousness. With your~FF~strength,we should be~FF~able to defeat the enemy."~FF~~00~}#123#102
-~19~~03~ "Fortunately,I regained~FF~consciousness. With your~FF~strength,we should be~FF~able to defeat the enemy."~FF~~00~#102
-;000001E2{~15~~02~ "Nice job. However,it~FF~won't be so easy next~FF~time."~FF~~16~~02~ "So you finally got~FF~here. However,you won't~FF~be able to go on!"~FF~~17~~06~ "Hhmmmmm...~FF~What have I been doing?~FF~The princess...~FF~I have a favor to ask of~FF~you. The princess is~FF~somewhere in the castle.~FF~Please help her."~FF~~16~~03~ "To have peace in this~FF~land again is like a~FF~dream come true.~FF~Thank you."~FF~~17~~02~ "You should realize the~FF~power hidden within the~FF~axe!"~FF~~00~}#491#398
-~15~~02~ "Nice job. However,it~FF~won't be so easy next~FF~time."~FF~~16~~02~ "So you finally got~FF~here. However,you won't~FF~be able to go on!"~FF~~17~~06~ "Hhmmmmm...~FF~What have I been doing?~FF~The princess...~FF~I have a favor to ask of~FF~you. The princess is~FF~somewhere in the castle.~FF~Please help her."~FF~~16~~03~ "To have peace in this~FF~land again is like a~FF~dream come true.~FF~Thank you."~FF~~17~~02~ "You should realize the~FF~power hidden within the~FF~axe!"~FF~~00~#398
-;00000370{~1B~~02~You are the victor. However,~FF~the next opponent is even~FF~more fierce.~FF~~19~~02~You are not yet trained to~FF~fight. Come back when you~FF~are ready.~FF~~1A~~01~Congratulations! You have~FF~beaten all of the warriors.~FF~~10~~00~}#242#194
-~1B~~02~You are the victor. However,~FF~the next opponent is even~FF~more fierce.~FF~~19~~02~You are not yet trained to~FF~fight. Come back when you~FF~are ready.~FF~~1A~~01~Congratulations! You have~FF~beaten all of the warriors.~FF~~10~~00~#194
+;000EBB64{ "Now that you have been=released from the evil=curse,your mission is to=defeat the Prince of=darkness and return with=the Golden Axe.= Go now,brave warrior!"=~00~}#163#160
+ "Now that you have been=released from the evil=curse,your mission is to=defeat the Prince of=darkness and return with=the Golden Axe.= Go now,brave warrior!"=~00~#160
+;000EBC04{~17~~02~ "I'm still alive. Don't=worry,I'll destroy the=enemies around here."=~17~~02~ "Thank you. Be careful,=the enemies around here=are very powerful."=~00~}#159#144
+~17~~02~ "I'm still alive. Don't=worry,I'll destroy the=enemies around here."=~17~~02~ "Thank you. Be careful,=the enemies around here=are very powerful."=~00~#144
+;000EBC94{~17~~02~ "I'm so ashamed that I=fell under their curse.=I must beg your pardon."=~00~}#085#076
+~17~~02~ "I'm so ashamed that I=fell under their curse.=I must beg your pardon."=~00~#076
+;000EBCE0{~19~~03~ "Fortunately,I regained=consciousness. With your=strength,we should be=able to defeat the enemy."=~00~}#111#102
+~19~~03~ "Fortunately,I regained=consciousness. With your=strength,we should be=able to defeat the enemy."=~00~#102
+;000EBD46{~15~~02~ "Nice job. However,it=won't be so easy next=time."=~16~~02~ "So you finally got=here. However,you won't=be able to go on!"=~17~~06~ "Hhmmmmm...=What have I been doing?=The princess...=I have a favor to ask of=you. The princess is=somewhere in the castle.=Please help her."=~16~~03~ "To have peace in this=land again is like a=dream come true.=Thank you."=~17~~02~ "You should realize the=power hidden within the=axe!"=~00~}#431#398
+~15~~02~ "Nice job. However,it=won't be so easy next=time."=~16~~02~ "So you finally got=here. However,you won't=be able to go on!"=~17~~06~ "Hhmmmmm...=What have I been doing?=The princess...=I have a favor to ask of=you. The princess is=somewhere in the castle.=Please help her."=~16~~03~ "To have peace in this=land again is like a=dream come true.=Thank you."=~17~~02~ "You should realize the=power hidden within the=axe!"=~00~#398
+;000EBED4{~1B~~02~You are the victor. However,=the next opponent is even=more fierce.=~19~~02~You are not yet trained to=fight. Come back when you=are ready.=~1A~~01~Congratulations! You have=beaten all of the warriors.=~10~~00~}#218#194
+~1B~~02~You are the victor. However,=the next opponent is even=more fierce.=~19~~02~You are not yet trained to=fight. Come back when you=are ready.=~1A~~01~Congratulations! You have=beaten all of the warriors.=~10~~00~#194
 |1074
-@000EBF96-000EC0CB-00
-;00000000{1P is the victor.~FF~~10~~00~}#029#020
-1P is the victor.~FF~~10~~00~#020
-;00000014{2P is the victor.~FF~~1A~~00~}#029#020
-2P is the victor.~FF~~1A~~00~#020
-;00000028{This fight is a drawn game.~FF~The courageous warriors defeat the~FF~evil lord and save the princess.~FF~However, the resulting peace is~FF~only temporary.~FF~Without the Golden Axe,true peace~FF~cannot be obtained.~FF~The warriors must journey again to~FF~find true peace and the Golden Axe.~FF~~00~}#300#270
-This fight is a drawn game.~FF~The courageous warriors defeat the~FF~evil lord and save the princess.~FF~However, the resulting peace is~FF~only temporary.~FF~Without the Golden Axe,true peace~FF~cannot be obtained.~FF~The warriors must journey again to~FF~find true peace and the Golden Axe.~FF~~00~#270
-|310
-@000EC0CD-000EC283-00
-;00000000{MAIN PLANNER~FF~~02~FUZZY~FF~~04~~05~PLANNER~FF~~02~IIZ~FF~~04~~05~CHARACTER DESIGN~FF~~02~WARUKATTA~FF~~01~Shige.D.O.R.~FF~~01~Rouly.S.Kine~FF~~04~~05~BACKGROUND DESIGN~FF~~02~Shige.D.O.R.~FF~~01~Matsu G~FF~~01~SANT~FF~~01~NINJYAMAN~FF~~04~~05~MAIN PROGRAM~FF~~02~TAKUBON~FF~~04~~05~PROGRAM~FF~~02~ZAN/Marucchi~FF~~01~K.M~FF~~04~~05~SOUND PROGRAM~FF~~02~BO~FF~~04~~05~MUSIC AND SOUND EFFECT~FF~~02~N.H~FF~~01~RYUNOSUKE~FF~~01~LOTTY~FF~~01~T.S~FF~~04~~05~MESSAGES~FF~~02~JAMES~FF~~04~~05~PACKAGE AND MANUAL~FF~~02~AYANOKAMI~FF~~01~F.HAMSTER~FF~~04~~05~SPECIAL THANKS~FF~~02~TODOROKI TAIYO~FF~~01~VIRTUAL SUTO~FF~~01~ALL TEST PLAYERS~FF~~04~~05~...AND YOU~FF~~05~PRESENTED BY {~7C~}~7E~~7F~~FF~~00~}#697#439
-MAIN PLANNER~FF~~02~FUZZY~FF~~04~~05~PLANNER~FF~~02~IIZ~FF~~04~~05~CHARACTER DESIGN~FF~~02~WARUKATTA~FF~~01~Shige.D.O.R.~FF~~01~Rouly.S.Kine~FF~~04~~05~BACKGROUND DESIGN~FF~~02~Shige.D.O.R.~FF~~01~Matsu G~FF~~01~SANT~FF~~01~NINJYAMAN~FF~~04~~05~MAIN PROGRAM~FF~~02~TAKUBON~FF~~04~~05~PROGRAM~FF~~02~ZAN/Marucchi~FF~~01~K.M~FF~~04~~05~SOUND PROGRAM~FF~~02~BO~FF~~04~~05~MUSIC AND SOUND EFFECT~FF~~02~N.H~FF~~01~RYUNOSUKE~FF~~01~LOTTY~FF~~01~T.S~FF~~04~~05~MESSAGES~FF~~02~JAMES~FF~~04~~05~PACKAGE AND MANUAL~FF~~02~AYANOKAMI~FF~~01~F.HAMSTER~FF~~04~~05~SPECIAL THANKS~FF~~02~TODOROKI TAIYO~FF~~01~VIRTUAL SUTO~FF~~01~ALL TEST PLAYERS~FF~~04~~05~...AND YOU~FF~~05~PRESENTED BY {~7C~}~7E~~7F~~FF~~00~#439
-|439
+@000EBF96-000EC283-00
+;000EBF96{1P is the victor.=~10~~00~}#026#020
+1P is the victor.=~10~~00~#020
+;000EBFAA{2P is the victor.=~1A~~00~}#026#020
+2P is the victor.=~1A~~00~#020
+;000EBFBE{This fight is a drawn game.=The courageous warriors defeat the=evil lord and save the princess.=However, the resulting peace is=only temporary.=Without the Golden Axe,true peace=cannot be obtained.=The warriors must journey again to=find true peace and the Golden Axe.=~00~}#273#270
+This fight is a drawn game.=The courageous warriors defeat the=evil lord and save the princess.=However, the resulting peace is=only temporary.=Without the Golden Axe,true peace=cannot be obtained.=The warriors must journey again to=find true peace and the Golden Axe.=~00~#270
+;000EC0CC{~05~MAIN PLANNER=~02~FUZZY=~04~~05~PLANNER=~02~IIZ=~04~~05~CHARACTER DESIGN=~02~WARUKATTA=~01~Shige.D.O.R.=~01~Rouly.S.Kine=~04~~05~BACKGROUND DESIGN=~02~Shige.D.O.R.=~01~Matsu G=~01~SANT=~01~NINJYAMAN=~04~~05~MAIN PROGRAM=~02~TAKUBON=~04~~05~PROGRAM=~02~ZAN/Marucchi=~01~K.M=~04~~05~SOUND PROGRAM=~02~BO=~04~~05~MUSIC AND SOUND EFFECT=~02~N.H=~01~RYUNOSUKE=~01~LOTTY=~01~T.S=~04~~05~MESSAGES=~02~JAMES=~04~~05~PACKAGE AND MANUAL=~02~AYANOKAMI=~01~F.HAMSTER=~04~~05~SPECIAL THANKS=~02~TODOROKI TAIYO=~01~VIRTUAL SUTO=~01~ALL TEST PLAYERS=~04~~05~...AND YOU=~05~PRESENTED BY ©{SS}{EE}{GG}{AA}=~00~}#596#440
+~05~MAIN PLANNER=~02~FUZZY=~04~~05~PLANNER=~02~IIZ=~04~~05~CHARACTER DESIGN=~02~WARUKATTA=~01~Shige.D.O.R.=~01~Rouly.S.Kine=~04~~05~BACKGROUND DESIGN=~02~Shige.D.O.R.=~01~Matsu G=~01~SANT=~01~NINJYAMAN=~04~~05~MAIN PROGRAM=~02~TAKUBON=~04~~05~PROGRAM=~02~ZAN/Marucchi=~01~K.M=~04~~05~SOUND PROGRAM=~02~BO=~04~~05~MUSIC AND SOUND EFFECT=~02~N.H=~01~RYUNOSUKE=~01~LOTTY=~01~T.S=~04~~05~MESSAGES=~02~JAMES=~04~~05~PACKAGE AND MANUAL=~02~AYANOKAMI=~01~F.HAMSTER=~04~~05~SPECIAL THANKS=~02~TODOROKI TAIYO=~01~VIRTUAL SUTO=~01~ALL TEST PLAYERS=~04~~05~...AND YOU=~05~PRESENTED BY ©{SS}{EE}{GG}{AA}=~00~#440
+|750

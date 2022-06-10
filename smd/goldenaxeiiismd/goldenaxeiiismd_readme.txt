@@ -1,47 +1,31 @@
-Golden Axe III
-Traducción al Español v1.0 (04/11/2017)
-(C) 2017 Wave Translations
+Golden Axe III (Mega Drive)
+TraducciÃ³n al EspaÃ±ol v2.0 (28/05/2022)
+(C) 2022 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducciÃ³n y hacking es completamente original.
+Si encuentras algÃºn fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
+V2.0:
+-AÃ±adidos caracteres especiales
+-Guion retraducido
 
-1. Sobre Golden Axe III
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. Créditos del Parche
-
------------------
-1. Sobre Golden Axe III
------------------
-Tercera parte del clasico de sega, solo para japón.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducción y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche está en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Golden Axe III (J) [!].bin
-1.048.576 bytes
-CRC32: c7862ea3
+Golden Axe III (Japan).md
 MD5: 7d9f963c9c2e22b542516edd03ada6f6
 SHA1: cd9ecc1df4e01d69af9bebcf45bbd944f1b17f9f
+CRC32: c7862ea3
+1048576 bytes
 
-----------------------
-5. Créditos del Parche
-----------------------
-Wave - Hacking y traducción
+--------
+CrÃ©ditos
+--------
+Wave - Hacking, traducciÃ³n y pruebas.
 
--- END OF README --
+-- FIN --

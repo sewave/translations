@@ -1,0 +1,83 @@
+@000028CD-000028D4-00
+;000028CD{OFF~00~}#007#004
+No ~00~#004
+;000028D1{ON ~00~}#007#004
+Sí ~00~#004
+|8
+@000032F7-00003325-00
+;000032F7{   Your Score: 000000===Please enter your name~00~}#050#047
+     Tu marca: 000000===
+ Tu nombre por favor  ~00~#047
+|47
+@000033F3-00003423-00
+;000033F3{STAGE X-X CLEARED!====ENTERING STAGE Y-Y=====    }#049#049
+ETAPA X-X ACABADA ====
+ENTRANDO ETAPA Y-Y=====    #049
+|49
+@000035FE-00003652-00
+;000035FE{     CREDITS LEFT: 3===Do you wish to continue ?====            YES==            NO=~00~}#088#085
+         Créditos: 3===
+   ¿Quieres continuar?   ====
+            Sí ==
+            No=~00~#085
+|85
+@0000390F-00003CA9-00
+;0000390F{====_~05~!! Congratulations !!===== You have liberated this world=  from the forces of darkness.=== Again, a world which was under=  the shadows of the forces of=_~05~darkness has returned=_~04~to a place of light and=_~0D~peace.==== Everywhere life will come back=_~03~from the ashes of the past.====_~04~This world was saved but= there are lots of others which=_~04~need someone like YOU to=_~06~fight against evil !=====_~0C~Beware !== Sooner or later the forces of=_~06~darkness will return=_~08~with vengeance !==== Nobody knows if there will be=  another brave warrior again.===== We all should think about it !======_~07~But now the warrior=_~09~needs to rest !=========_~0C~Credits:===_~06~Concept & Gamedesign=_~09~MANFRED  TRENZ===_~09~Program & Text=_~09~MANFRED  TRENZ===_~0C~Graphics=_~09~MANFRED  TRENZ===_~06~Music & Soundeffects=_~09~MANFRED  TRENZ=========_~0A~Licensed to=_~05~IMAGINEER Company LTD==  © 1992 by RAINBOW ARTS GmbH==_~06~Licensed by NINTENDO=======================_}#998#923
+====_~08~
+¡¡Felicidades!!=====
+  Has liberado a este mundo de=
+  las fuerzas de la oscuridad.===
+ De nuevo, un mundo que estaba=
+  bajo las sombras de las=_~03~
+fuerzas de la oscuridad ha=_~03~
+vuelto a un lugar de luz y=_~0E~
+paz.====
+ La vida volverá a todas partes=
+ desde las cenizas del pasado.====_~02~
+¡Este mundo fue salvado pero=
+ hay muchos otros que necesitan=
+ a alguien como TÚ para pelear=_~09~
+contra el mal!=====_~0B~
+¡Cuidado!==
+ ¡Tarde o temprano las fuerzas=
+ de la oscuridad volverán para=_~0B~
+vengarse!====
+ Nadie sabe si habrá otro bravo=_~07~
+guerrero de nuevo.=====
+  ¡Todos deber{í]}amos pensar en=_~0D~
+ello!=====_~04~
+¡Pero ahora el guerrero=_~06~
+necesita descansar!=========_~0B~
+Cr{é]}ditos:===_~07~
+Concepto y Dise{ñ]}o=_~09~MANFRED  TRENZ===_~07~
+Programa y Textos=_~09~MANFRED  TRENZ===_~0C~
+Gráficos=_~09~MANFRED  TRENZ===_~08~
+M{ú]}sica y Efectos=_~09~MANFRED  TRENZ=========_~0B~
+Licencia a=_~05~IMAGINEER Company LTD==
+  © 1992 por RAINBOW ARTS GmbH==_~06~
+Licencia de NINTENDO=======================_#923
+|923
+@000096B2-00009806-00
+;000096B2{ START GAME==_~0B~ OPTIONS==_~0B~ HIGHSCORES===_~0A~ LICENSED TO=_~05~ IMAGINEER COMPANY LTD==  © 1992 BY RAINBOW ARTS GmbH==_~04~ CREATED BY MANFRED TRENZ==_~06~ LICENSED BY NINTENDO~00~}#187#166
+ EMPEZAR   ==_~0B~
+ OPCIONES==_~0B~
+ MEJORES  ===_~0A~
+ LICENCIA A =_~05~ IMAGINEER COMPANY LTD==
+  © 1992 DE RAINBOW ARTS GmbH==_~04~
+ CREADO POR MANFRED TRENZ==_~06~
+ LICENCIA DE NINTENDO~00~#166
+;00009758{=_~03~ OPTION MENUE==~7B~_~10~~5F~~7C~=~81~_~10~ ~82~=~81~   LIVES : 3_~04~ ~82~=~81~_~10~ ~82~=~81~   MUSIC : ON_~03~ ~82~=~81~_~10~ ~82~=~81~   SKILL : 2_~04~ ~82~=~81~_~10~ ~82~=~81~_~10~ ~82~=~81~   EXIT_~09~ ~82~=~81~_~10~ ~82~=~7D~_~10~`~7E~=~00~}#252#135
+=_~03~   OPCIONES  ==~7B~_~10~~5F~~7C~=~81~_~10~ ~82~=~81~
+  VIDAS  : 3_~04~ ~82~=~81~_~10~ ~82~=~81~
+  MÚSICA : Sí_~03~ ~82~=~81~_~10~ ~82~=~81~
+  NIVEL  : 2_~04~ ~82~=~81~_~10~ ~82~=~81~_~10~ ~82~=~81~
+  SALIR_~09~ ~82~=~81~_~10~ ~82~=~7D~_~10~`~7E~=~00~#135
+;000097DF{   HALL OF FAME==ENTERING STAGE 1-1====_}#040#040
+   MURO DE FAMA==
+ENTRANDO ETAPA 1-1====_#040
+|341
+@0000343C-0000346B-00
+;0000343C{1-11-21-32-12-22-33-13-23-34-14-24-35-15-25-3END}#048#048
+1-11-21-32-12-22-33-13-23-34-14-24-35-15-25-3
+FIN#048
+|48

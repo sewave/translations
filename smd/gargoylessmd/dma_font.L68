@@ -1,0 +1,46 @@
+002FA060 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 27/03/2022 20:09:42
+
+002FA060                             1      ORG    $2FA060
+002FA060                             2  START:                  ; first instruction of program
+002FA060                             3  
+002FA060                             4  * Put program code here
+002FA060                             5       ;Code substitution
+002FA060  41F9 000234E6              6       LEA $000234E6, A0
+002FA066                             7       
+002FA066                             8       ;Activate DMA
+002FA066  33FC 8F02 00C00004         9       move.w #$8F02, ($C00004)  ; VDP Register #15, Increment by 2
+002FA06E  33FC 8174 00C00004        10       move.w #$8174, ($C00004)  ; VDP Register #1, Enable DMA
+002FA076                            11       
+002FA076                            12       ;Size high and low
+002FA076  33FC 9400 00C00004        13       move.w #$9400+(((DMA_SIZE>>9)&$FF00)),($C00004).l
+002FA07E  33FC 9380 00C00004        14       move.w #$9300+(((DMA_SIZE>>1)&$FF)),($C00004).l
+002FA086                            15       
+002FA086                            16       ;Source 3 bytes
+002FA086  33FC 9603 00C00004        17       move.w #$9600+(((DMA_SOURCE>>1)&$FF00)>>8),($C00004).l
+002FA08E  33FC 95C0 00C00004        18       move.w #$9500+((DMA_SOURCE>>1)&$FF),($C00004).l
+002FA096  33FC 9707 00C00004        19       move.w #$9700+((((DMA_SOURCE>>1)&$FF0000)>>16)&$7F),($C00004).l
+002FA09E                            20       
+002FA09E                            21       ;Destination 2 bytes
+002FA09E  23FC 7E000083 00C00004    22       move.l #$40000080+((DMA_DEST&$3FFF)<<16)+((DMA_DEST&$C000)>>14),($C00004).l
+002FA0A8  4E75                      23       rts
+002FA0AA  FFFF FFFF                 24      SIMHALT             ; halt simulator
+002FA0AE                            25  
+002FA0AE                            26  * Put variables and constants here
+002FA0AE  =000E0780                 27  DMA_SOURCE EQU $000E0780
+002FA0AE  =0000FE00                 28  DMA_DEST EQU $FE00
+002FA0AE  =00000100                 29  DMA_SIZE EQU $0100
+002FA0AE                            30      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DMA_DEST            FE00
+DMA_SIZE            100
+DMA_SOURCE          E0780
+START               2FA060

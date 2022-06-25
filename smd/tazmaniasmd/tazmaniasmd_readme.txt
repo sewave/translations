@@ -1,47 +1,31 @@
-Taz-Mania
-Traducción al Español v1.0 (27/01/2018)
-(C) 2018 Wave Translations
+Taz-Mania (Mega Drive)
+TraducciÃ³n al EspaÃ±ol v2.0 (11/06/2022)
+(C) 2022 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducciÃ³n y hacking es completamente original.
+Si encuentras algÃºn fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
+V2.0:
+-AÃ±adidos caracteres especiales
+-Guion reescrito
 
-1. Sobre Taz-Mania
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. Créditos del Parche
-
------------------
-1. Sobre Taz-Mania
------------------
-Plataformas de Mega Drive sobre el demonio de Tazmania.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducción y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche está en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Taz-Mania (W) [!].bin
-524.288	bytes
-CRC32: 0e901f45
+Taz-Mania (World).md
 MD5: 659550d4c9588ff594a927eb173877d2
 SHA1: 01875bb6484d44a844f3d3e1ae141864664b73b8
+CRC32: 0e901f45
+524288 bytes
 
-----------------------
-5. Créditos del Parche
-----------------------
-Wave - Hacking y traducción
+--------
+CrÃ©ditos
+--------
+Wave - Hacking, traducciÃ³n y pruebas.
 
--- END OF README --
+-- FIN --

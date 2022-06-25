@@ -1,0 +1,68 @@
+000FD300 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 03/04/2022 14:51:06
+
+000FD300                             1      ORG    $000FD300
+000FD300                             2  START:                  ; first instruction of program
+000FD300                             3  
+000FD300                             4  * Put program code here
+000FD300                             5       ;Substituted code
+000FD300  4EB9 00018EAC              6       JSR $00018EAC
+000FD306                             7   
+000FD306                             8       ;Push all registers
+000FD306  48E7 FFFE                  9       MOVEM.l A6-A0/D7-D0, -(SP) 
+000FD30A                            10       
+000FD30A  41F9 00C00004             11       LEA VDP_CONTROL, A0
+000FD310  43F9 00C00000             12       LEA VDP_DATA, A1
+000FD316                            13       
+000FD316                            14       ;Wait for DMAs
+000FD316                            15  .wait_dma
+000FD316  3010                      16       move.w (A0), D0
+000FD318  0200 0002                 17       andi.b #$02, D0
+000FD31C  66F8                      18       bne .wait_dma
+000FD31E                            19       
+000FD31E                            20       ;Set VRAM Increment to 2
+000FD31E  30BC 8F02                 21       move.w #$8F02, (A0)
+000FD322                            22       
+000FD322                            23       ;Set VRAM Location to DEST_VRAM
+000FD322  20BC 62000002             24       move.l #$40000000+((DEST_VRAM&$3FFF)<<16)+((DEST_VRAM&$C000)>>14),(A0)
+000FD328                            25       
+000FD328                            26       ;Load W_SIZE
+000FD328  303C 007F                 27       move.w #W_SIZE, D0
+000FD32C                            28       
+000FD32C                            29       ;Load SOURCE_68K
+000FD32C  45F9 000FEFFE             30       lea SOURCE_68K, A2
+000FD332                            31       
+000FD332                            32  .vramloop
+000FD332  229A                      33       move.l (A2)+, (A1)
+000FD334  51C8 FFFC                 34       DBRA.w D0, .vramloop
+000FD338                            35       
+000FD338                            36       ;Restore all registers
+000FD338  4CDF 7FFF                 37       MOVEM.l (SP)+, D0-D7/A0-A6
+000FD33C                            38       
+000FD33C  4E75                      39       rts
+000FD33E  FFFF FFFF                 40      SIMHALT             ; halt simulator
+000FD342                            41  
+000FD342                            42  * Put variables and constants here
+000FD342  =00C00004                 43  VDP_CONTROL EQU $C00004
+000FD342  =00C00000                 44  VDP_DATA EQU $C00000
+000FD342  =000FEFFE                 45  SOURCE_68K EQU $000FEFFE
+000FD342  =0000A200                 46  DEST_VRAM EQU $A200
+000FD342  =0000007F                 47  W_SIZE EQU $007F
+000FD342                            48      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DEST_VRAM           A200
+SOURCE_68K          FEFFE
+START               FD300
+START:VRAMLOOP      FD332
+START:WAIT_DMA      FD316
+VDP_CONTROL         C00004
+VDP_DATA            C00000
+W_SIZE              7F

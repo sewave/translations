@@ -1,0 +1,36 @@
+00100900 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 09/04/2022 0:25:21
+
+00100900                             1      ORG    $100900
+00100900                             2  START:                  ; first instruction of program
+00100900                             3  
+00100900                             4  * Put program code here
+Line 5 WARNING: Forcing SHORT addressing disables range checking of extension word
+00100900  BC38 0020                  5      cmp.b $00000020.w, D6
+00100904  6604                       6      bne.b .no_space
+00100906  1C3C 006D                  7      move.b #$6D, D6
+0010090A                             8  .no_space
+0010090A  0C46 0041                  9      cmpi.w #$0041, D6
+0010090E  6406                      10      bcc.s .no_special
+00100910  0646 FFBF                 11      add.w #$FFBF,D6
+00100914  4E75                      12      rts
+00100916                            13  .no_special
+00100916  0406 0041                 14      subi.b #$41,D6
+0010091A  4E75                      15      rts
+0010091C  FFFF FFFF                 16      SIMHALT             ; halt simulator
+00100920                            17  
+00100920                            18  * Put variables and constants here
+00100920                            19  
+00100920                            20      END    START        ; last line of source
+
+No errors detected
+1 warning generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+START               100900
+START:NO_SPACE      10090A
+START:NO_SPECIAL    100916

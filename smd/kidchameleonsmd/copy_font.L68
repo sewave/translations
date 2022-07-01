@@ -1,0 +1,71 @@
+00100800 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 09/04/2022 10:13:10
+
+00100800                             1      ORG    $100800
+00100800                             2  START:                  ; first instruction of program
+00100800                             3  
+00100800                             4  * Put program code here
+00100800                             5       ;Substituted code
+00100800  4EB9 00011938              6       jsr $11938
+00100806  4EF9 00100812              7       jmp .second_start
+0010080C  4EB9 00011940              8       jsr $11940
+00100812                             9  .second_start
+00100812                            10       ;Push all registers
+00100812  48E7 FFFE                 11       movem.l A6-A0/D7-D0, -(SP) 
+00100816                            12       
+00100816  41F9 00C00004             13       lea VDP_CONTROL, A0
+0010081C  43F9 00C00000             14       lea VDP_DATA, A1
+00100822                            15       
+00100822                            16       ;Wait for DMAs
+00100822                            17  .wait_dma
+00100822  3010                      18       move.w (A0), D0
+00100824  0200 0002                 19       andi.b #$02, D0
+00100828  66F8                      20       bne .wait_dma
+0010082A                            21       
+0010082A                            22       ;Set VRAM Increment to 2
+0010082A  30BC 8F02                 23       move.w #$8F02, (A0)
+0010082E                            24       
+0010082E                            25       ;Set VRAM Location to DEST_VRAM
+0010082E  20BC 78000003             26       move.l #$40000000+((DEST_VRAM&$3FFF)<<16)+((DEST_VRAM&$C000)>>14),(A0)
+00100834                            27       
+00100834                            28       ;Load W_SIZE
+00100834  303C 003F                 29       move.w  #(W_SIZE>>2)-1, D0
+00100838                            30       
+00100838                            31       ;Load SOURCE_68K
+00100838  45F9 00101000             32       lea SOURCE_68K, A2
+0010083E                            33       
+0010083E                            34  .vramloop
+0010083E  229A                      35       move.l (A2)+, (A1)
+00100840  51C8 FFFC                 36       dbra.w D0, .vramloop
+00100844                            37       
+00100844                            38       ;Restore all registers
+00100844  4CDF 7FFF                 39       movem.l (SP)+, D0-D7/A0-A6
+00100848                            40       
+00100848  4E75                      41       rts
+0010084A  FFFF FFFF                 42      SIMHALT             ; halt simulator
+0010084E                            43  
+0010084E                            44  * Put variables and constants here
+0010084E  =00C00004                 45  VDP_CONTROL EQU $C00004
+0010084E  =00C00000                 46  VDP_DATA EQU $C00000
+0010084E  =00101000                 47  SOURCE_68K EQU $101000
+0010084E  =0000F800                 48  DEST_VRAM EQU $F800
+0010084E  =00000100                 49  W_SIZE EQU $0100
+0010084E                            50      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DEST_VRAM           F800
+SOURCE_68K          101000
+START               100800
+START:SECOND_START  100812
+START:VRAMLOOP      10083E
+START:WAIT_DMA      100822
+VDP_CONTROL         C00004
+VDP_DATA            C00000
+W_SIZE              100

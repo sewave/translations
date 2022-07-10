@@ -1,0 +1,102 @@
+@000183E8-000183F2-FF
+;000183E8{Sample Game}#011#011
+Sample Game#011
+|11
+@00019538-00019569-F0
+;00019538{{P]}~D0~TITLE {X]}~D0~STG1 ~A0~~D0~STG2 {8]}~D0~STG3 ~B0~~D0~BOSS {[]}~D0~END {:]}~D0~OPEN ~F0~}#095#050
+{P]}~D0~TITLE {X]}~D0~STG1 ~A0~~D0~STG2 {8]}~D0~STG3 ~B0~~D0~BOSS {[]}~D0~END {:]}~D0~OPEN ~F0~#050
+|50
+@00019EB0-00019EB5-FF
+;00019EB0{A_End }#006#006
+A_End #006
+|6
+@00019EBD-00019EC2-FF
+;00019EBD{A_End }#006#006
+A_End #006
+|6
+@0001B8F8-0001B93C-FF
+;0001B8F8{OK{??} {:]}{p]}Yes ~C8~{p]}No ~F0~{[]}~C8~OK{??} {:]}~D0~Yes ~C8~~D0~No ~F0~{X]}~D0~OK{??} ~A0~{h]}YES {8]}{h]}NO ~F0~{[]}~D0~OK{??} {:]}{h]}YES ~C8~{h]}NO }#156#069
+OK{??} {:]}{p]}Yes ~C8~{p]}No ~F0~{[]}~C8~OK{??} {:]}~D0~Yes ~C8~~D0~No ~F0~{X]}~D0~OK{??} ~A0~{h]}YES {8]}{h]}NO ~F0~{[]}~D0~OK{??} {:]}{h]}YES ~C8~{h]}NO #069
+|69
+@0001BA34-0001BA62-F0
+;0001BA34{SAVE ~F0~}#009#006
+SAVE ~F0~#006
+;0001BA3A{LOAD ~F0~}#009#006
+LOAD ~F0~#006
+;0001BA40{EXIT ~F0~}#009#006
+EXIT ~F0~#006
+;0001BA46{Clear ~F0~}#010#007
+Clear ~F0~#007
+;0001BA4D{Fill ~F0~}#009#006
+Fill ~F0~#006
+;0001BA53{GET ~F0~}#008#005
+GET ~F0~#005
+;0001BA58{PUT ~F0~}#008#005
+PUT ~F0~#005
+;0001BA5D{COPY ~F0~}#009#006
+COPY ~F0~#006
+|47
+@0001C396-0001C3BA-F0
+;0001C396{{P]}~C8~CDE {X]}~C8~LEN ~A0~~C8~BAR {8]}~C8~TMP ~B0~~C8~SND {[]}~C8~CHR ~F0~}#076#037
+{P]}~C8~CDE {X]}~C8~LEN ~A0~~C8~BAR {8]}~C8~TMP ~B0~~C8~SND {[]}~C8~CHR ~F0~#037
+|37
+@0001C3F9-0001C3FF-F0
+;0001C3F9{{P]}~C8~CHA ~F0~}#016#007
+{P]}~C8~CHA ~F0~#007
+|7
+@0001C432-0001C438-F0
+;0001C432{{P]}~C8~CHB ~F0~}#016#007
+{P]}~C8~CHB ~F0~#007
+|7
+@0001C46B-0001C471-F0
+;0001C46B{{P]}~C8~CHC ~F0~}#016#007
+{P]}~C8~CHC ~F0~#007
+|7
+@0001C4A4-0001C4AA-F0
+;0001C4A4{{P]}~C8~CHD ~F0~}#016#007
+{P]}~C8~CHD ~F0~#007
+|7
+@0001C5A8-0001C5E4-FF
+;0001C5A8{  BLOCK MASTER {2]}1 STAG{E]}2 CHR TES{T]}3 BLOCK TES{T]}4 MAP TES{T]}5 EXI{T]}}#079#061
+  BLOCK MASTER {2]}1 STAG{E]}2 CHR TES{T]}3 BLOCK TES{T]}4 MAP TES{T]}5 EXI{T]}#061
+|61
+@0001C68A-0001C6B2-F0
+;0001C68A{{0]}{P]}BANK ~30~{P]}NULL :{P]}PLTT ~50~{X]}NUKI p{X]}CHR ~B0~{X]}OBJ ~F0~}#074#041
+{0]}{P]}BANK ~30~{P]}NULL :{P]}PLTT ~50~{X]}NUKI p{X]}CHR ~B0~{X]}OBJ ~F0~#041
+|41
+@0001C942-0001C96A-F0
+;0001C942{{0]}{P]}BANK ~30~{P]}NULL :{P]}BASE ~50~{X]}NUKI p{X]}CHR ~B0~{X]}OBJ ~F0~}#074#041
+{0]}{P]}BANK ~30~{P]}NULL :{P]}BASE ~50~{X]}NUKI p{X]}CHR ~B0~{X]}OBJ ~F0~#041
+|41
+@0001CC8B-0001CD06-F0
+;0001CC8B{qJSOUND{T]}ESTqzSAMPLE{B]}GMq{??]}EDITED{B]}GMq{z]}EFFECTr{©]}PUSH{S]}TART{T]}O{E]}XITsFPUSH{A]}{B]}UTTON{T]}O{P]}LAYs©PUSH{B]}{B]}UTTON{T]}O{S]}TOPr=ABCDr{B]}MUSICrgABCDr{V]}EFFECT_}#182#124
+qJSOUND{T]}ESTqzSAMPLE{B]}GMq{??]}EDITED{B]}GMq{z]}EFFECTr{©]}PUSH{S]}TART{T]}O{E]}XITsFPUSH{A]}{B]}UTTON{T]}O{P]}LAYs©PUSH{B]}{B]}UTTON{T]}O{S]}TOPr=ABCDr{B]}MUSICrgABCDr{V]}EFFECT_#124
+|124
+@0001D214-0001D23B-F0
+;0001D214{DirecterDesignerComposer Thanks Program }#040#040
+DirecterDesignerComposer Thanks Program #040
+|40
+@0001D24C-0001D28B-F0
+;0001D24C{TAMA    TAMA    SHO'RED CON'TAKA ZENCHANNAKAMURA  TIGEN S.YAGAWA}#064#064
+TAMA    TAMA    SHO'RED CON'TAKA ZENCHANNAKAMURA  TIGEN S.YAGAWA#064
+|64
+@0001ECCB-0001EDD2-F0
+;0001ECCB{ 1   2   3   4   5   6   7   8   9   {0]} __-  _S  ta  ge  -_  _E__n_  Co  lo _r_  De  si  gn  _E _n__ Sm  al  Mi_Bnios- s laborgsse_  [1  6~50~  16  ]_  [3  2~50~  32  [4  8~50~ _48  _B  kg      Ch  ar       i  ja  kl__ M__ap__La_oy-ut M__us__ic_S  el  ec  t_:____E__XI__T___}#276#264
+ 1   2   3   4   5   6   7   8   9   {0]} __-  _S  ta  ge  -_  _E__n_  Co  lo _r_  De  si  gn  _E _n__ Sm  al  Mi_Bnios- s laborgsse_  [1  6~50~  16  ]_  [3  2~50~  32  [4  8~50~ _48  _B  kg      Ch  ar       i  ja  kl__ M__ap__La_oy-ut M__us__ic_S  el  ec  t_:____E__XI__T___#264
+|264
+@0001EF5B-0001F049-F0
+;0001EF5B{ 1   2   3   4   5   6   7   8   9_  P  la  y   Ga  me   S  hi  p   _D  es  ig  n_  _L  ev  el    Da  ta_T  it _le_ _C  re  di  ts  _S  ta  ge   P  laTey st  _ _M  us  ic   C_ om  po  se  _   19  99   A  GT  P    _  __  __ ___  _         _}#239#239
+ 1   2   3   4   5   6   7   8   9_  P  la  y   Ga  me   S  hi  p   _D  es  ig  n_  _L  ev  el    Da  ta_T  it _le_ _C  re  di  ts  _S  ta  ge   P  laTey st  _ _M  us  ic   C_ om  po  se  _   19  99   A  GT  P    _  __  __ ___  _         _#239
+|239
+@0001F708-0001F7B7-F0
+;0001F708{   [  Ex  it  ][  Lo  ad  ][  Sa  ve  ]   Co  mp  os  er   :  Di  re  ct  or   :  De  si  gn  er   :   T  ha  nk  s    : - _St__af__f _ Ro__ll__ E _di__to__r-___ ___ _     _   }#176#176
+   [  Ex  it  ][  Lo  ad  ][  Sa  ve  ]   Co  mp  os  er   :  Di  re  ct  or   :  De  si  gn  er   :   T  ha  nk  s    : - _St__af__f _ Ro__ll__ E _di__to__r-___ ___ _     _   #176
+|176
+@0001FA8E-0001FA92-FF
+;0001FA8E{B~50~{.,}GM}#011#005
+B~50~{.,}GM#005
+|5
+@0001FD54-0001FDBF-FF
+;0001FD54{Pl  ay   S  el  ec  t    G  am  e   Pl  ay   E  di  t   Mo  de       G  id  eo  n   Zh  i       [A  GT  P]  }#108#108
+Pl  ay   S  el  ec  t    G  am  e   Pl  ay   E  di  t   Mo  de       G  id  eo  n   Zh  i       [A  GT  P]  #108
+|108

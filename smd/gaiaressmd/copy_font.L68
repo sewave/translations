@@ -1,0 +1,68 @@
+000FFD00 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 02/04/2022 17:27:55
+
+000FFD00                             1      ORG    $000FFD00
+000FFD00                             2  START:                  ; first instruction of program
+000FFD00                             3  
+000FFD00                             4  * Put program code here
+000FFD00                             5   
+000FFD00                             6       ;Push all registers
+000FFD00  48E7 FFFE                  7       MOVEM.l A6-A0/D7-D0, -(SP) 
+000FFD04                             8       
+000FFD04  41F9 00C00004              9       LEA VDP_CONTROL, A0
+000FFD0A  43F9 00C00000             10       LEA VDP_DATA, A1
+000FFD10                            11       
+000FFD10                            12       ;Wait for DMAs
+000FFD10                            13  .wait_dma
+000FFD10  3010                      14       move.w (A0), D0
+000FFD12  0200 0002                 15       andi.b #$02, D0
+000FFD16  66F8                      16       bne .wait_dma
+000FFD18                            17       
+000FFD18                            18       ;Set VRAM Increment to 2
+000FFD18  30BC 8F02                 19       move.w #$8F02, (A0)
+000FFD1C                            20       ;Set VRAM Location to DEST
+000FFD1C  20BC 5AE00002             21       move.l #$40000000+((DEST&$3FFF)<<16)+((DEST&$C000)>>14),(A0)
+000FFD22                            22       ;Load SIZE
+000FFD22  303C 0040                 23       move.w #SIZE, D0
+000FFD26                            24       ;Load SOURCE
+000FFD26  45F9 000FFE00             25       lea SOURCE, A2
+000FFD2C                            26  .vramloop
+000FFD2C  229A                      27       move.l (A2)+, (A1)
+000FFD2E  51C8 FFFC                 28       DBRA.w D0, .vramloop
+000FFD32                            29       
+000FFD32                            30       ;Restore all registers
+000FFD32  4CDF 7FFF                 31       MOVEM.l (SP)+, D0-D7/A0-A6
+000FFD36                            32       
+000FFD36                            33       ;Code substitution
+Line 34 WARNING: Forcing SHORT addressing disables range checking of extension word
+000FFD36  43F8 AC78                 34       LEA $AC78.w, A1
+Line 35 WARNING: Forcing SHORT addressing disables range checking of extension word
+000FFD3A  45F8 ACF8                 35       LEA $ACF8.w, A2
+000FFD3E                            36      
+000FFD3E  4E75                      37       rts
+000FFD40  FFFF FFFF                 38      SIMHALT             ; halt simulator
+000FFD44                            39  
+000FFD44                            40  * Put variables and constants here
+000FFD44  =00C00004                 41  VDP_CONTROL EQU $C00004
+000FFD44  =00C00000                 42  VDP_DATA EQU $C00000
+000FFD44  =000FFE00                 43  SOURCE EQU $000FFE00
+000FFD44  =00009AE0                 44  DEST EQU $9AE0
+000FFD44  =00000040                 45  SIZE EQU $0040
+000FFD44                            46      END    START        ; last line of source
+
+No errors detected
+2 warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DEST                9AE0
+SIZE                40
+SOURCE              FFE00
+START               FFD00
+START:VRAMLOOP      FFD2C
+START:WAIT_DMA      FFD10
+VDP_CONTROL         C00004
+VDP_DATA            C00000

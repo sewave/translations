@@ -1,0 +1,72 @@
+00100000 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 02/04/2022 16:07:14
+
+00100000                             1      ORG    $00100000
+00100000                             2  START:                  ; first instruction of program
+00100000                             3  
+00100000                             4  * Put program code here
+00100000                             5       ;Code substitution
+Line 6 WARNING: Forcing SHORT addressing disables range checking of extension word
+00100000  43F8 AC78                  6       LEA $AC78.w, A1
+Line 7 WARNING: Forcing SHORT addressing disables range checking of extension word
+00100004  45F8 ACF8                  7       LEA $ACF8.w, A2
+00100008  700F                       8       MOVEQ #$0F, D0
+0010000A  32D0                       9  loop: MOVE.w (A0), (A1)+
+0010000C  34D8                      10       MOVE.w (A0)+, (A2)+
+0010000E  51C8 FFFA                 11       DBF D0, loop
+00100012                            12       
+00100012                            13       ;Wait for other DMAs
+00100012                            14  wait_dma:
+00100012  3039 00C00004             15       move.w ($c00004).l, D0
+00100018  0200 0002                 16       andi.b #$02, D0
+0010001C  66F4                      17       bne wait_dma
+0010001E                            18       
+0010001E                            19       ;Set Increment and destination
+0010001E  33FC 8F02 00C00004        20       move.w #$8F02, ($C00004)  ; VDP Register #15, Increment by 2
+00100026  23FC 5AE00082 00C00004    21       move.l #$40000080+((DMA_DEST&$3FFF)<<16)+((DMA_DEST&$C000)>>14),($C00004).l
+00100030  303C 0100                 22       move.w #DMA_SIZE, D0
+00100034  41F9 00100100             23       lea DMA_SOURCE, A0
+0010003A                            24  vloop:
+Line 25 ERROR: Invalid syntax
+0010003A                            25      move.w (A0+), ($C00000)
+0010003A  51C8 FFFE                 26      DBF D0, vloop
+0010003E                            27       
+0010003E                            28       ;Activate DMA
+0010003E                            29       ;move.w #$8F02, ($C00004)  ; VDP Register #15, Increment by 2
+0010003E                            30       ;move.w #$8174, ($C00004)  ; VDP Register #1, Enable DMA
+0010003E                            31       
+0010003E                            32       ;Size high and low
+0010003E                            33       ;move.w #$9300+((DMA_SIZE>>1)&$FF),($C00004).l
+0010003E                            34       ;move.w #$9400+(((DMA_SIZE>>1)&$FF00)>>8),($C00004).l
+0010003E                            35       
+0010003E                            36       ;Source 3 bytes
+0010003E                            37       ;move.w    #$9600+(((DMA_SOURCE>>1)&$FF00)>>8),($C00004).l
+0010003E                            38       ;move.w    #$9500+((DMA_SOURCE>>1)&$FF),($C00004).l
+0010003E                            39       ;move.w    #$9700+((((DMA_SOURCE>>1)&$FF0000)>>16)&$7F),($C00004).l
+0010003E                            40       
+0010003E                            41       ;Destination 2 bytes
+0010003E                            42       ;move.l #$40000080+((DMA_DEST&$3FFF)<<16)+((DMA_DEST&$C000)>>14),($C00004).l
+0010003E  4E75                      43       rts
+00100040  FFFF FFFF                 44      SIMHALT             ; halt simulator
+00100044                            45  
+00100044                            46  * Put variables and constants here
+00100044  =00100100                 47  DMA_SOURCE EQU $00100100
+00100044  =00009AE0                 48  DMA_DEST EQU $9AE0
+00100044  =00000100                 49  DMA_SIZE EQU $0100
+00100044                            50      END    START        ; last line of source
+
+1 error detected
+2 warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DMA_DEST            9AE0
+DMA_SIZE            100
+DMA_SOURCE          100100
+LOOP                10000A
+START               100000
+VLOOP               10003A
+WAIT_DMA            100012

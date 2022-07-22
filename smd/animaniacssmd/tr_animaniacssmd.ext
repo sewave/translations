@@ -1,0 +1,504 @@
+@00037CE4-00037D01-FF
+;00037CE4{QWSTART=QYPASSWORD =Q'OPTIONS~FF~}#033#030
+QW
+EMPEZAR =QY
+CLAVE=Q'
+OPCIONES~FF~#030
+|30
+@000014FC-000015F2-FF
+;000014FC{PSSTART~FF~}#011#008
+PS
+NUEVA~FF~#008
+;00001504{PUPASSWORD ~FF~}#015#012
+PU
+CLAVE    ~FF~#012
+;00001510{PWOPTIONS~FF~}#013#010
+PW
+OPCIÓN ~FF~#010
+;0000151A{NNANIMANIACS~FF~}#016#013
+NNANIMANIACS~FF~#013
+;00001527{ NPKONAMI 1994~FF~}#018#015
+ NPKONAMI 1994~FF~#015
+;00001536{LHGAME~FF~}#010#007
+LHJGO ~FF~#007
+;0000153D{ LHDEMO~FF~}#011#008
+ LHDEMO~FF~#008
+;00001545{ BBTITLE~FF~}#012#009
+ BBTÍTUL~FF~#009
+;0000154E{PDOPTIONS=IGLEVEL=VIPLAYERS=IMCONTROL=VMA=VOB=VQC=IUSOUND MODE=RXEXIT~FF~}#073#070
+PD
+OPCIONES=IG
+NIVEL=VI
+VIDAS=IM
+CONTROL=VMA=VOB=VQC=IU
+MODO AUDIO=RX
+SALIR~FF~#070
+;00001594{WU STEREO ~FF~}#014#011
+WU STEREO ~FF~#011
+;0000159F{ WUMONAURAL~FF~}#015#012
+ WUMONAURAL~FF~#012
+;000015AB{ WG  EASY   ~FF~}#016#013
+ WG  LEVE   ~FF~#013
+;000015B8{WG NORMAL  ~FF~}#015#012
+WG NORMAL  ~FF~#012
+;000015C4{WG  HARD   ~FF~}#015#012
+WG  DURO   ~FF~#012
+;000015D0{WGVERY HARD~FF~}#015#012
+WGMUY DURO ~FF~#012
+;000015DC{ACTION~FF~}#010#007
+ACTÚA ~FF~#007
+;000015E3{  JUMP ~FF~}#011#008
+ SALTA ~FF~#008
+;000015EB{ CHANGE~FF~}#011#008
+ CAMBIA~FF~#008
+|247
+@00032869-00032C8C-FF
+;00032869{EbDIRECTOR=OFadHARRY NITTA=  ~FF~}#033#030
+Eb
+DIRECTOR=OFadHARRY NITTA=  ~FF~#030
+;00032887{ LEbSYSTEM PROGRAMMER=OFadKOJI KOMATA=  ~FF~}#044#041
+ LEb
+PROGRAMA SISTEMA =OFadKOJI KOMATA=  ~FF~#041
+;000328B0{JBbSYSTEM PROGRAM ADVISER=MCadKENICHIRO HORIO=GEbSFX & CHARACTERS PROGRAMMER=JFadSHOUSUKE "MAC" HARADA=CHbDEMO STORY & CHARACTERS PROGRAMMER=MIadTSUYOSHI UOYA=  ~FF~}#165#162
+HBb
+ASESOR PROGRAMA SISTEMA=MCadKENICHIRO HORIO=FEb
+PROGRAMA EFECTOS Y PERSONAJES=JFadSHOUSUKE "MAC" HARADA=EHb
+PROGRAMA TRAMA DEMO Y PERSONAJE=MIadTSUYOSHI UOYA=  ~FF~#162
+;00032952{NEbSOUND DESIGN=JFadKIYOSHI "K-MU" MURAI=  ~FF~}#047#044
+NEb
+DISEÑO AUDIO=JFadKIYOSHI "K-MU" MURAI=  ~FF~#044
+;0003297E{KDbdGRAPHIC DESIGNERS=NEadTEISAKU SEKI=NFadKOJI YAMADA=  ~FF~}#061#058
+KDbd
+  DISEÑO GRÁFICO =NEadTEISAKU SEKI=NFadKOJI YAMADA=  ~FF~#058
+;000329B8{KDbGRAPHIC DESIGNERS=NEadREIKA BANDO=LFadKAZUE TACHINAMI=LGadJUNICHI MURAKAMI=  ~FF~}#084#081
+KDb
+  DISEÑO GRÁFICO =NEadREIKA BANDO=LFadKAZUE TACHINAMI=LGadJUNICHI MURAKAMI=  ~FF~#081
+;00032A09{ JBbdDEMO STORY WRITTEN BY=LCadJEREMY BLAUSTEIN=IEbPACKAGE & MANUAL DESIGN=MFadKAY WOLF JONES=MGadKEVIN O'DONOHUE=NHadRANDY SEVERIN=  ~FF~}#138#135
+ JBbd
+  HISTORIA DEMO POR  =LCadJEREMY BLAUSTEIN=IEb
+DISEÑO DE CAJA Y MANUAL=MFadKAY WOLF JONES=MGadKEVIN O'DONOHUE=NHadRANDY SEVERIN=  ~FF~#135
+;00032A90{KBbdLICENSING MANAGER=LCadKATHIE MCCARTHY=LEbSPECIAL ADVISER=MFadMICHAEL GALLO=LGadALLEN RICHARDSON=OHadJON SLOAN=  ~FF~}#120#117
+KBbd
+GERENTE LICENCIAS=LCadKATHIE MCCARTHY=LEb
+ASESOR ESPECIAL=MFadMICHAEL GALLO=LGadALLEN RICHARDSON=OHadJON SLOAN=  ~FF~#117
+;00032B05{ KAbdSPECIAL THANKS TO=MBadKENJI HIRAOKA=OCadJUN NARITA=NDadMASAHIRO UENO=JEadKAZUHIRO "DAVID" UEDA=OFadMASA OTANI=MGadSTEVE JOHNSON=NHadSINO & SHIRO=  ~FF~}#156#153
+ KAbd
+ MUCHAS GRACIAS A=MBadKENJI HIRAOKA=OCadJUN NARITA=NDadMASAHIRO UENO=JEadKAZUHIRO "DAVID" UEDA=OFadMASA OTANI=MGadSTEVE JOHNSON=NHadSINO Y SHIRO=  ~FF~#153
+;00032B9E{ECbdSPECIAL THANKS TO WARNER BROS.=NDadHOLLY STEIN=KEadCATHERINE SOLLECITO=NFadLAETITIA MAY=MGadJOHN CRUMLISH=  ~FF~}#116#113
+ECbd
+ MUCHAS GRACIAS A WARNER BROS.=NDadHOLLY STEIN=KEadCATHERINE SOLLECITO=NFadLAETITIA MAY=MGadJOHN CRUMLISH=  ~FF~#113
+;00032C0F{ OEbSUPERVISOR=NFadYUTAKA HARUKI=  ~FF~}#039#036
+ OEb
+ SUPERVISA=NFadYUTAKA HARUKI=  ~FF~#036
+;00032C33{ PEbPRODUCER=LFadTOMIKAZU KIRITA=  ~FF~}#039#036
+ PEb
+PRODUCE =LFadTOMIKAZU KIRITA=  ~FF~#036
+;00032C57{ JEaCOPYRIGHT 1994 KONAMI=KFadALL RIGHTS RESERVED.=  ~FF~}#057#054
+ JEaCOPYRIGHT 1994 KONAMI=KFad
+DERECHOS RESERVADOS.=  ~FF~#054
+|1060
+@00037300-000373FB-FF
+;00037300{JTBUNGLE IN THE JUNGLE~FF~}#026#023
+JT
+CHAPUZA EN LA JUNGLA~FF~#023
+;00037317{ MTSPACE TRUCKING~FF~}#021#018
+ MT
+CAMIONERO ESP.~FF~#018
+;00037329{ ITREMEMBER THE A LA MODE~FF~}#029#026
+ IT
+RECUERDA EL A LA MODE ~FF~#026
+;00037343{ GTTO SCREAM OR NOT TO SCREAM~FF~}#033#030
+ GT
+    GRITAR O NO GRITAR    ~FF~#030
+;00037361{ DTONCE THERE WAS A MAN NAMED OSCAR~FF~}#039#036
+ DT
+  HUBO UN HOMBRE LLAMADO OSCAR  ~FF~#036
+;00037385{  J - o ¿ ~76~CW"THE ADVENTURE OF DIRK RUGGED ~51~~52~"~FF~}#059#047
+  J - o ¿ ~76~CW
+ "LA AVENTURA DE DIRK RUGGED ~51~~52~" ~FF~#047
+;000373B4{NW"SPACE WARS"~FF~}#018#015
+NW
+"SPACE WARS"~FF~#015
+;000373C3{ EW"Swing 'em low, Hang 'em High"~FF~}#037#034
+ EW
+   "Mece Bajo, Cuelga Alto"   ~FF~#034
+;000373E5{ KW"Bloodmask:Part 32"~FF~}#026#023
+ KW
+"Bloodmask:Parte32"~FF~#023
+|252
+@0003E41A-0003E42B-FF
+;0003E41A{MAWRONG PASSWORD.~FF~}#021#018
+MA
+ CLAVE ERRÓNEA.~FF~#018
+|18
+@00040E22-00041237-FF
+;00040E22{BWelcome to our video game.=~FF~}#032#029
+B
+Bienvenidos al videojuego.=~FF~#029
+;00040E3F{ AWhat do ya mean,video game?=We're cartoon characters.=~FF~}#060#057
+ A
+¿Cómo que el videojuego?=
+Somos dibujos animados.=\    ~FF~#057
+;00040E78{ Wakko,even though we are=animated characters,that=doesn't mean that we can't play=a vital role in an interactive=audiovisual entertainment=software medium as well.As a=matter of fact this is a time=of convergence for many forms=of media.As Mcluhan predicted...=~FF~}#266#263
+ 
+Wakko, aunque somos personajes=
+animados, eso no significa que=
+no podamos jugar un rol vital=
+en un medio de programa de=
+entretenimiento audiovisual=
+interactivo también. De hecho,=
+es una época de convergencia=
+para varios tipos de medios.=
+Como Mcluhan predijo...=\~FF~#263
+;00040F7F{ BWhat is he talking about?=~FF~}#032#029
+ B
+¿De qué está hablando?=\  ~FF~#029
+;00040F9C{AI think he's saying "Welcome to=our video game"!=~FF~}#054#051
+A
+Creo que es ¡"Bienvenido a=
+nuestro videojuego"!=\~FF~#051
+;00040FCF{ BHere we are in the Warner Bros.=Studio in lovely Southern=California.=~FF~}#076#073
+ B
+Estamos en el Warner Bros.=
+Studio en la preciosa=
+California del Sur.=\~FF~#073
+;00041018{BI want to meet some glamorous=celebrities or perhaps John=Snotts.=~FF~}#071#068
+B
+Quiero conocer a glamurosas=
+celebridades o quizá a John=
+Snotts.=\ ~FF~#068
+;0004105C{AYeah,me too.Maybe he'd do that=thing with his eyes for us.=~FF~}#064#061
+A
+Sí, yo también. Quizá nos haga=
+esa cosa con los ojos.=\    ~FF~#061
+;00041099{  I've got a great idea.=~FF~}#029#026
+  Tengo una gran idea.=\ ~FF~#026
+;000410B3{  Let's open that hip pop-culture=shop...=~FF~}#046#043
+  
+Abramos esa tienda de cultura=
+pop...=\  ~FF~#043
+;000410DE{ ...that we're always talking=about.=~FF~}#041#038
+ 
+...de la que siempre hablamos.=\    ~FF~#038
+;00041104{ We can start by collecting some=famous props from the movies.=~FF~}#067#064
+ 
+Podemos empezar recogiendo=
+accesorios famosos de=
+películas.=\ ~FF~#064
+;00041144{ASounds like fun.Let's go!=~FF~}#031#028
+A
+Parece divertido. ¡Vamos!=~FF~#028
+;00041160{ Here come the Warner Brothers!=~FF~}#036#033
+ 
+¡Vienen los Hermanos Warner!=\ ~FF~#033
+;00041181{ AHere come the Warner Brothers!=~FF~}#037#034
+ A
+¡Vienen los Hermanos Warner!=\ ~FF~#034
+;000411A3{ BAnd the Warner Sister!=~FF~}#029#026
+ B
+¡Y la Hermana Warner!=\~FF~#026
+;000411BD{ BOh Dirk is so dreamy!I wish I=could get a memento of him...=~FF~}#066#063
+ B
+¡Oh Dirk es de ensueño!=
+Desearía tener un recuerdo=
+suyo...=\~FF~#063
+;000411FC{AIf he's dreamy,I'd hate to get=a look at your nightmares.=~FF~}#063#060
+A
+Si él es de ensueño, odiaría=
+mirar en tus pesadillas.=\   ~FF~#060
+|1046
+@00041238-00041643-FF
+;00041238{BYou're no Kurt Cameroon=yourself.=~FF~}#039#036
+B
+Tú tampoco eres Kurt Cameroon.=\  ~FF~#036
+;0004125C{ Hey,Hey fellas.We need to=cooperate here.=~FF~}#047#044
+ 
+Eh, eh, amigos. Tenemos que=
+cooperar.=\   ~FF~#044
+;00041288{ Wakko,you take the high road.=~FF~}#035#032
+ 
+Wakko, tú ve por arriba.=\    ~FF~#032
+;000412A8{ Dot,you take the low road.=~FF~}#032#029
+ 
+Dot, tú ve por abajo.=\    ~FF~#029
+;000412C5{  As for me,I'll be in Scotland=afore ye.Whatever that means.=~FF~}#066#063
+  
+Y yo estaré en Escocia antes.=
+Signifique lo que signifique.=~FF~#063
+;00041304{A"Space Wars" is one of my=all-time favorite movies!=~FF~}#057#054
+A
+¡"Space Wars" es una de mis=
+películas favoritas!=\  ~FF~#054
+;0004133A{ Yeah,when Dume Rayder told Ike=Skywriter that he was his=second cousin I almost fainted.=~FF~}#094#091
+ 
+Sí, cuando Dume Rayder le dijo=
+a Ike Skywriter que era su=
+primo segundo casi me desmayo.=~FF~#091
+;00041395{ BWouldn't it be great if we=could get Dume Rayder's helmet=for our hip pop-culture shop.=~FF~}#094#091
+ B
+¿No sería genial que=
+pudiéramos conseguir el casco=
+de Dume Rayder para nuestra=
+tienda?=\~FF~#091
+;000413F0{AYeah,and may the Farce be with=us.=~FF~}#040#037
+A
+Sí, y que la Farsa nos=
+acompañe.=\ ~FF~#037
+;00041415{ BThey just don't make movies=like this anymore.=~FF~}#053#050
+ B
+Ya no hacen películas como=
+esta.=\            =~FF~#050
+;00041447{ AFortunately,they don't make=titles like it anymore either!=~FF~}#065#062
+ A
+Por fortuna, ¡ya no hacen=
+películas como esa!=\            ~FF~#062
+;00041485{  I always used to pretend that I=was Sheriff Jethro Anderson,=galloping into the sunset.=~FF~}#094#091
+  
+Solía fingir que era el=
+Sheriff Jethro Anderson,=
+galopando hacia el ocaso.=\            ~FF~#091
+;000414E0{BI thought it was supposed to be=the horse that galloped.=~FF~}#062#059
+B
+Pensé que se suponía que era=
+el caballo el que galopaba.=~FF~#059
+;0004151B{  Hey Dottie,whenever you talk to=me,shut up.=~FF~}#050#047
+  
+Eh, Dottie, cuando me hables,=
+cállate.=\    ~FF~#047
+;0004154A{BI thought Janus died for good=in Part 15.=~FF~}#047#044
+B
+Pensaba que Janus murió en la=
+Parte 15.=\ ~FF~#044
+;00041576{ He did,but if you remember,his=analyst stole the mask and he=became reincarnated.Then,after=the analyst died in Part 26,his=butler became Janus briefly=before handing the reins to his=insurance salesman.=~FF~}#209#206
+ 
+Sí, pero si te acuerdas, su=
+analista robó la máscara y se=
+reencarnó. Luego, tras morir=
+el analista en la Parte 26, su=
+criado se volvió Janus=
+brevemente antes de darle las=
+riendas a su agente de=
+seguros.=\~FF~#206
+|1036
+@00041644-00041A52-FF
+;00041644{BWow,that's scary.=~FF~}#023#020
+B
+Vaya, que miedo.=\~FF~#020
+;00041658{AIf we take the mask,will we=become Janus then?=~FF~}#052#049
+A
+Si tomamos la máscara, ¿nos=
+volveremos Janus?=\~FF~#049
+;00041689{  That's something only the Game=Designers can answer.=~FF~}#059#056
+  
+Solo pueden responderlo los=
+Diseñadores del Juego.=\ ~FF~#056
+;000416C1{ BOoooh Spooky!=~FF~}#020#017
+ B
+¡Fantasmal!=\ ~FF~#017
+;000416D2{ There's one thing that we still=don't have.=~FF~}#049#046
+ 
+Hay una cosa que aún no=
+tenemos.=\          ~FF~#046
+;00041700{BA house in the country?=~FF~}#029#026
+B
+¿Casa en el campo?=\    ~FF~#026
+;0004171A{ No.=~FF~}#009#006
+ No.=~FF~#006
+;00041720{AA motorcar?=~FF~}#017#014
+A
+¿Coche?=\   ~FF~#014
+;0004172E{ No.=~FF~}#009#006
+ No.=~FF~#006
+;00041734{BOne white duck?=~FF~}#021#018
+B
+¿Pato blanco?=\ ~FF~#018
+;00041746{ Well...No.What we don't have is=an Os...I mean a "Felix" statue.=But we need one to complete our=collection.=~FF~}#114#111
+ 
+Bueno... No. No tenemos un=
+Os... quiero decir un "Félix".=
+Necesitamos uno para completar=
+la colección.=\     ~FF~#111
+;000417B5{ AThen let's make like a tree and=bark!=~FF~}#044#041
+ A
+¡Pues ladremos como un árbol!=\       ~FF~#041
+;000417DE{CWhat are we going to do tonight,=Brain?=~FF~}#045#042
+C
+¿Qué vamos a hacer esta noche,=
+Cerebro?=~FF~#042
+;00041808{DThe same thing we do every=night,Pinky.Try to take over=the world.=~FF~}#072#069
+D
+Lo mismo de todas las noches,=
+Pinky. Intentar conquistar el=
+mundo.=~FF~#069
+;0004184D{ CHow are we gonna do that,Brain?=~FF~}#038#035
+ C
+¿Cómo vamos a hacerlo,=
+Cerebro?=~FF~#035
+;00041870{DPinky,what is the one thing=that all people,regardless of=age,nationality and political=orientation love?=~FF~}#111#108
+D
+Pinky, ¿qué es lo que todo el=
+mundo, sin importar la edad,=
+nacionalidad y orientación=
+política ama?=\    =~FF~#108
+;000418DC{CI don't know Brain.Processed=cheese food?=~FF~}#047#044
+C
+No lo sé Cerebro. ¿La comida=
+china?=\     ~FF~#044
+;00041908{DNo,you dimwit.The movies!We=will control people's minds by=cleverly manipulating the movie=icons that they worship.=~FF~}#121#118
+D
+No, zoquete. ¡Las películas!=
+Controlaremos la mente de la=
+gente manipulándolos con los=
+iconos que adoran.=\        =~FF~#118
+;0004197E{CWhat does that mean,Brain?=~FF~}#032#029
+C
+¿Y qué significa, Cerebro?=~FF~#029
+;0004199B{ DWe will steal the Warner=Brothers' collection of movie=memorabilia and use it to=brainwash the people!=~FF~}#109#106
+ D
+¡Robaremos la colección de=
+recuerdos de películas de la=
+Warner y le lavaremos el=
+cerebro a la gente!=\ ~FF~#106
+;00041A05{ AHey,those rats stole our movie=collectibles!=~FF~}#051#048
+ A
+¡Eh, esas ratas robaron=
+nuestros accesorios!=~FF~#048
+;00041A35{ DWe're not rats,we're mice!=~FF~}#033#030
+ D
+¡Somos ratones!=\          ~FF~#030
+|1039
+@00041A53-00041E83-FF
+;00041A53{ BAnd that short rat with the big=head can talk.=~FF~}#053#050
+ B
+Y esa rata bajita y cabezona=
+puede hablar.=\  =~FF~#050
+;00041A85{ DOf course I can talk,I am a=genius,isn't that right Pinky?=~FF~}#065#062
+ D
+Claro que puedo hablar, soy un=
+genio, ¿Verdad Pinky?=\     ~FF~#062
+;00041AC3{ CYeah that's right,Brain,you're=brilliant!=~FF~}#048#045
+ C
+Sí, es cierto, Cerebro, ¡eres=
+brillante!=\~FF~#045
+;00041AF0{ Anyway,give us back our stuff!=~FF~}#036#033
+ 
+Igualmente, ¡devolvednos todo!=~FF~#033
+;00041B11{ DI'm afraid I cannot do that.You=see,we need these items so that=we can take over the world.=Pinky,are you thinking what I'm=thinking?=~FF~}#140#137
+ D
+Me temo que no puedo hacer=
+eso. Verás, necesitamos estas=
+cosas para conquistar el=
+mundo. Pinky, ¿estás pensando=
+lo mismo que yo?=\    ~FF~#137
+;00041B9A{CI think so Brain,but how do we=teach a sardine to speak=Russian?=~FF~}#070#067
+C
+Eso creo Cerebro, ¿pero cómo=
+le enseñamos ruso a una=
+sardina?=\  ~FF~#067
+;00041BDD{ DPinky,I shall have to hurt you=soon.Summon the robot.=~FF~}#060#057
+ D
+Pinky, tendré que lastimarte=
+pronto. Invoca al robot.=~FF~#057
+;00041C16{ Yipes,what's that?=~FF~}#024#021
+ 
+Aaay, ¿qué es eso?=~FF~#021
+;00041C2B{ DIt's my robot.If you want your=possessions back,you must defeat=him.=~FF~}#075#072
+ D
+Es mi robot. Si queréis=
+recuperar vuestras cosas,=
+debéis derrotarlo.=~FF~#072
+;00041C73{ DI'm in considerable pain,Pinky.=~FF~}#038#035
+ D
+Estoy bastante dolorido,=
+Pinky.=~FF~#035
+;00041C96{COh right Brain.I guess we lost.=~FF~}#037#034
+C
+Sí Cerebro. Creo que perdimos.=\~FF~#034
+;00041CB8{DIt's back to the drawing board=Pinky.=~FF~}#043#040
+D
+Volvemos a la pizarra, Pinky.=\       ~FF~#040
+;00041CE0{CBut Brain,I don't know how to=draw.=~FF~}#041#038
+C
+Pero Cerebro, yo no sé=
+dibujar.=\   ~FF~#038
+;00041D06{DPinky,you have the intelligence=of a breath mint.Come,we have=to plan for tomorrow night.=~FF~}#095#092
+D
+Pinky, tienes la inteligencia=
+de un mentolado. Vamos, hay=
+que planear la noche de=
+mañana.=~FF~#092
+;00041D62{CWhy,Brain,what are we gonna do=tomorrow night?=~FF~}#052#049
+C
+¿Por, Cerebro? ¿Que haremos=
+mañana a la noche?=~FF~#049
+;00041D93{ DThe same thing we do every=night Pinky...try and take over=the world!=~FF~}#076#073
+ D
+Lo mismo que hacemos cada=
+noche... ¡tratar de conquistar=
+el mundo!=\  ~FF~#073
+;00041DDC{ Hey!Wait a minute you guys!I've=got an idea!=~FF~}#050#047
+ 
+¡Eh! ¡Esperad un momento!=
+¡Tengo una idea!=\ ~FF~#047
+;00041E0B{  Sign here!=~FF~}#017#014
+  
+¡Firmad!=\ ~FF~#014
+;00041E19{ CGee Brain,this is the life!=~FF~}#034#031
+ C
+Je, Cerebro, ¡esto es vida!=~FF~#031
+;00041E38{DYes.And in a few months we will=have enough money to TAKE OVER=THE WORLD!=~FF~}#079#076
+D
+Sí. ¡Y en unos meses tendremos=
+dinero para CONQUISTAR EL=
+MUNDO!=\         ~FF~#076
+|1073
+@00041E84-00042025-FF
+;00041E84{ Gee,did you guys catch that.=They didn't leave that too open=ended!=~FF~}#073#070
+ 
+Je, ¿entendisteis eso chicos?=
+¡No lo dejaron demasiado=
+abierto!=\   ~FF~#070
+;00041ECA{ADo ya think we'll get to star=in another video game?=~FF~}#058#055
+A
+¿Creéis que seremos los=
+protagonistas de otro juego?=~FF~#055
+;00041F01{ BI don't know about you,but after=all of the trouble we've caused,=I'd be surprised if they even=let us have a cameo appearance=in the next game.=~FF~}#151#148
+ B
+No se tú, pero después de=
+todos los problemas que=
+causamos, me sorprendería si=
+nos dejan hacer un cameo en el=
+próximo juego.=\                   ~FF~#148
+;00041F95{  Well,goodnight everybody and=~FF~}#035#032
+  
+Buenas noches y=\            ~FF~#032
+;00041FB5{ AWell,goodnight everybody and=~FF~}#035#032
+ A
+Buenas noches y=\            ~FF~#032
+;00041FD5{ BWell,goodnight everybody and=~FF~}#035#032
+ B
+Buenas noches y=\            ~FF~#032
+;00041FF5{  drive safely!=~FF~}#020#017
+  
+¡ten cuidado!=~FF~#017
+;00042006{Adrive safely!=~FF~}#019#016
+A
+¡ten cuidado!=~FF~#016
+;00042016{Bdrive safely!=~FF~}#019#016
+B
+¡ten cuidado!=~FF~#016
+|418
+@00044A8A-00044B32-FF
+;00044A8A{DEANIMANIACS,CHARACTERS,NAMES,AND=CGALL RELATED INDICIA ARE TRADEMARKS=IIOF WARNER BROS. ~1E~ 1994=EOTM AND ~1E~ 1994 KONAMI CO.,LTD.=NULICENSED BY=IWSEGA ENTERPRISES,LTD.=  ~FF~}#178#169
+DE
+ANIMANIACS,PERSONAJES,NOMBRES Y=BG
+LOS INDICIOS RELACIONADOS SON MARCA=II
+DE WARNER BROS. ~1E~ 1994=EO
+ TM Y ~1E~ 1994 KONAMI CO.,LTD.=NU
+LICENCIA DE=IW
+SEGA ENTERPRISES,LTD.=  ~FF~#169
+|169
+@000A5CD9-000A5CFA-FF
+;000A5CD9{P      qA H    qU P    qS X    qE }#034#034
+P      qA H    qU P    qS X    qA #034
+|34

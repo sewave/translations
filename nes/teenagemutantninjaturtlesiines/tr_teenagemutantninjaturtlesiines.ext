@@ -1,0 +1,249 @@
+@00025D3D-00025D5A-FF
+;00025D3D{~4B~~9D~~80~~9D~~80~~9D~~B9~~9D~~B9~~9D~~F5~~9D~~F5~~9D~j~9E~j~9E~~62~~9E~~9F~~9E~~D4~~9E~~D4~~9E~~D4~~9E~~D4~~9E~}#114#030
+;SCENE 1 ~4B~~9D~
+~30~~B9~
+;SCENE 2 ~80~~9D~
+~70~~B9~
+~70~~B9~
+;SCENE 3 ~B9~~9D~
+~B0~~B9~
+~B0~~B9~
+;SCENE 4 ~F5~~9D~
+~00~~BA~
+~00~~BA~
+;SCENE 5 ~2E~~9E~
+~40~~BA~
+~40~~BA~
+;SCENE 6 ~62~~9E~
+~80~~BA~
+;SCENE 7 ~9F~~9E~
+~D0~~BA~
+;EPILOGUE ~D4~~9E~
+~10~~BB~
+~10~~BB~
+~10~~BB~
+~10~~BB~#030
+|30
+@00025D5B-00026023-FF
+;00025D5B{=B9~FD~1^VSCENE 1=1CFIRE! WE GOTTA GET=FFAPRIL OUT !!^~70~~FF~}#062#053
+=B9~FD~1^VSCENE 1=1CFIRE! WE GOTTA GET=FFAPRIL OUT !!^~70~~FF~#053
+;00025D90{=B9~FD~1^VSCENE 2=1CC'MON AFTER THAT =AFSHREDDER CREEP !!^~70~~FF~}#066#057
+=B9~FD~1^VSCENE 2=1CC'MON AFTER THAT =AFSHREDDER CREEP !!^~70~~FF~#057
+;00025DC9{=B9~FD~1^VSCENE 3=1CLET'S MELT SNOW AND=AFREBUILD N.Y. CITY.^~70~~FF~}#069#060
+=B9~FD~1^VSCENE 3=1CLET'S MELT SNOW AND=AFREBUILD N.Y. CITY.^~70~~FF~#060
+;00025E05{=B9~FD~1^VSCENE 4=1CLET'S GET TO THAT=BFSECRET FACTORY !!^~70~~FF~}#066#057
+=B9~FD~1^VSCENE 4=1CLET'S GET TO THAT=BFSECRET FACTORY !!^~70~~FF~#057
+;00025E3E{=B9~FD~1^VSCENE 5=1CC'MON LET'S BUST=EFTHIS JOINT !!^~70~~FF~}#061#052
+=B9~FD~1^VSCENE 5=1CC'MON LET'S BUST=EFTHIS JOINT !!^~70~~FF~#052
+;00025E72{=B9~FD~1^VSCENE 6=1CLET'S DEFEAT THE ENEMY'S=EFNINJA MAGIC !!^~70~~FF~}#070#061
+=B9~FD~1^VSCENE 6=1CLET'S DEFEAT THE ENEMY'S=EFNINJA MAGIC !!^~70~~FF~#061
+;00025EAF{=B9~FD~1^VSCENE 7=1CWE GOTTA FIND THE=EFTECHNODROME!!^~70~~FF~}#062#053
+=B9~FD~1^VSCENE 7=1CWE GOTTA FIND THE=EFTECHNODROME!!^~70~~FF~#053
+;00025EE4{~FD~2^V=B1EPILOGUE=13FREAKED THE FOOTS,MANGLED=15THE MOUSERS AND TOTALLED=17THE TECHNODROME.=19THAT'S .. TURTLE POWER!!=1BBUT,WHAT ABOUT THE SHREDDER=1DAND KRANG ...!?=1FBURNED TO TOAST ?=1HVAPORIZED TO MILKSHAKE ??=1JOR..ESCAPED TO DIMENSION X ?=1LUNTIL WE KNOW,NONE OF US CAN=1NSLEEP SAFELY IN OUR BEDS..=1PER, SHELLS!^~80~~FF~}#329#320
+~FD~2^V=B1EPILOGUE=13FREAKED THE FOOTS,MANGLED=15THE MOUSERS AND TOTALLED=17THE TECHNODROME.=19THAT'S .. TURTLE POWER!!=1BBUT,WHAT ABOUT THE SHREDDER=1DAND KRANG ...!?=1FBURNED TO TOAST ?=1HVAPORIZED TO MILKSHAKE ??=1JOR..ESCAPED TO DIMENSION X ?=1LUNTIL WE KNOW,NONE OF US CAN=1NSLEEP SAFELY IN OUR BEDS..=1PER, SHELLS!^~80~~FF~#320
+|713
+@00028402-00028422-FF
+;00028402{V4LEO~4A~~49~3 V4MIKE~4A~3 V4DON~4A~~49~3 V4RAPH}#048#033
+V4
+LEO~4A~~49~3 V4
+MIKE~4A~3 V4
+DON~4A~~49~3 V4
+RAPH#033
+|33
+@00028458-00028471-FF
+;00028458{V8GAME OVER3~A5~V8~44~rest  0~45~3~B3~}#038#026
+V8
+FIN JUEGO
+3~A5~V8~44~
+resto 0~45~3~B3~#026
+|26
+@00028472-0002848E-FF
+;00028472{V8GAME OVER3~B3~V8~44~rest  0~45~Vd~DB~V~91~}#044#029
+V8
+FIN JUEGO
+3~B3~V8~44~
+resto 0~45~Vd~DB~V~91~#029
+|29
+@00028589-0002858D-FF
+;00028589{0 pts}#005#005
+0 pts#005
+|5
+@000285A2-000285A8-FF
+;000285A2{ life 5}#007#007
+salud 5#007
+|7
+@000285C0-000285C6-FF
+;000285C0{rest   }#007#007
+vidas  #007
+|7
+@00028600-00028604-FF
+;00028600{0 pts}#005#005
+0 pts#005
+|5
+@0002860B-0002860F-FF
+;0002860B{0 pts}#005#005
+0 pts#005
+|5
+@00028616-0002861C-FF
+;00028616{ life 5}#007#007
+salud 5#007
+|7
+@00028621-00028627-FF
+;00028621{ life 5}#007#007
+salud 5#007
+|7
+@00028632-00028638-FF
+;00028632{rest   }#007#007
+vidas  #007
+|7
+@00028640-00028646-FF
+;00028640{rest   }#007#007
+vidas  #007
+|7
+@000297FA-00029926-FF
+;000297FA{ V~7E~ B ~8D~~40~~41~~42~~43~~44~~45~~46~~47~~48~~49~~4A~~4B~~4C~I ~8D~!~55~~56~~57~~58~~59~~5A~~5B~~5C~~5D~~5E~~5F~®O ~84~~60~~70~~4D~~D0~L B~F0~J ~8C~~61~~62~~63~~64~~65~~66~~67~~68~~69~~6A~~6B~~6C~I ~90~~E8~~71~~72~~73~~74~~75~~76~~77~~78~~79~~7A~~7B~~7C~~7D~~7E~?E ~91~~E9~~EA~~81~~82~~83~~84~~85~~86~~87~~88~~89~~8A~~8B~~8C~~8D~~8E~~8F~E ~90~~F9~~FA~~91~~92~~93~~94~~95~~96~~97~~98~~99~~9A~~9B~~9C~~9D~~9E~C ~96~~E0~~E1~~E2~~E3~~A0~~A1~~A2~~A3~~A4~~A5~~A6~~A7~~A8~~A9~~AA~~AB~~AC~~AD~~AE~~AF~~EB~~EC~9 ~96~~F4~~F1~~F2~~F3~~B0~~B1~~B2~~B3~~B4~~B5~~B6~~B7~~B8~~B9~~BA~~BB~~BC~~BD~~BE~~BF~~FB~^A ~94~~E4~~E5~~E6~~C0~~C1~~C2~~C3~~C4~~C5~~C6~~C7~~C8~~C9~~CA~~CB~~CC~~CD~~CE~~CF~~ED~B ~94~~F4~~F5~~F6~~F7~~D1~~D2~~D3~~D4~~D5~~D6~~D7~~D8~~D9~~DA~~DB~~DC~~DD~~DE~~DF~^! ~8D~© KONAMI 1990~75~ ~88~1 TURTLEt ~89~2 TURTLES~7E~ l ~82~B2B ~88~~94~~AA~~5A~~5A~~AA~~62~F 5~55~~84~0 ~45~~45~2~55~~81~02 ~84~~40~!!F3 ~84~34409 ~FF~}#919#301
+ V~7E~ B ~8D~~40~~41~~42~~43~~44~~45~~46~~47~~48~~49~~4A~~4B~~4C~I ~8D~!~55~~56~~57~~58~~59~~5A~~5B~~5C~~5D~~5E~~5F~®O ~84~~60~~70~~4D~~D0~L B~F0~J ~8C~~61~~62~~63~~64~~65~~66~~67~~68~~69~~6A~~6B~~6C~I ~90~~E8~~71~~72~~73~~74~~75~~76~~77~~78~~79~~7A~~7B~~7C~~7D~~7E~?E ~91~~E9~~EA~~81~~82~~83~~84~~85~~86~~87~~88~~89~~8A~~8B~~8C~~8D~~8E~~8F~E ~90~~F9~~FA~~91~~92~~93~~94~~95~~96~~97~~98~~99~~9A~~9B~~9C~~9D~~9E~C ~96~~E0~~E1~~E2~~E3~~A0~~A1~~A2~~A3~~A4~~A5~~A6~~A7~~A8~~A9~~AA~~AB~~AC~~AD~~AE~~AF~~EB~~EC~9 ~96~~F4~~F1~~F2~~F3~~B0~~B1~~B2~~B3~~B4~~B5~~B6~~B7~~B8~~B9~~BA~~BB~~BC~~BD~~BE~~BF~~FB~^A ~94~~E4~~E5~~E6~~C0~~C1~~C2~~C3~~C4~~C5~~C6~~C7~~C8~~C9~~CA~~CB~~CC~~CD~~CE~~CF~~ED~B ~94~~F4~~F5~~F6~~F7~~D1~~D2~~D3~~D4~~D5~~D6~~D7~~D8~~D9~~DA~~DB~~DC~~DD~~DE~~DF~^! ~8D~© KONAMI 1990~75~ ~88~1 TURTLEt ~89~2 TURTLES~7E~ l ~82~B2B ~88~~94~~AA~~5A~~5A~~AA~~62~F 5~55~~84~0 ~45~~45~2~55~~81~02 ~84~~40~!!F3 ~84~34409 ~FF~#301
+|301
+@0002992E-00029A6A-7E
+;0002992E{TEENAGE MUTANT NINJAB ~9B~TURTLES ® © MIRAGE STUDIOS,4 ~9A~USA.  ALL RIGHTS RESERVED.5 ~98~TRADEMARK USE GRANTED TO7 ~99~KONAMI UNDER LICENSE FROM6 ~94~MIRAGE STUDIOS, USA.® ~8D~TM AND © 1990D ~98~KONAMI INDUSTRY CO.,LTD.D ~8B~LICENSED BYE ~98~NINTENDO OF AMERICA INC.h ~90~ULTRA GAMES IS AC ~97~REGISTERED TRADEMARK OF6 ~9B~ULTRA SOFTWARE CORPORATION.~7E~}#356#317
+TEENAGE MUTANT NINJA
+B ~9B~TURTLES ® © MIRAGE STUDIOS,4 ~9A~
+EEUU. DERECHOS RESERVADOS.5 ~98~
+USO DE MARCA OTROGADO A 7 ~99~
+KONAMI BAJO LICENCIA DE  6 ~94~
+MIRAGE STUDIOS, USA.® ~8D~
+ TM Y © 1990 D ~98~
+KONAMI INDUSTRY CO.,LTD.D ~8B~
+LICENCIA DEE ~98~
+NINTENDO DE AMÉRICA INC.h ~90~
+ ULTRA GAMES ES C ~97~
+UNA MARCA REGISTRADA DE6 ~9B~
+ULTRA SOFTWARE CORPORATION.~7E~#317
+|317
+@00038086-00038093-FF
+;00038086{~8A~XPLAY SELECT~FF~}#020#014
+~8A~X
+ELIGE  MODO~FF~#014
+|14
+@0003805A-0003805D-FF
+;0003805A{~94~~80~~9F~~80~}#016#004
+~60~~9D~
+~70~~9D~#004
+|4
+@000380A4-000380D9-FF
+;000380A4{~CC~X1 TURTLE~FF~}#017#011
+;8094 -> 9480
+~CC~X1 TURTLE~FF~#011
+;000380AF{BY2 TURTLES~FF~}#015#012
+;809F -> 9F80
+BY2 TURTLES~FF~#012
+;000380BB{~6C~WGAME OVER~FF~}#018#012
+~6C~W
+FIN JUEGO~FF~#012
+;000380C7{~8B~WCONTINUE  =~EB~WEND~FF~}#028#019
+~8B~W
+CONTINUAR =~EB~W
+FIN~FF~#019
+|54
+@000380F3-0003813E-FF
+;000380F3{~63~Vbank 0~FF~}#015#009
+~63~Vbanco0~FF~#009
+;000380FC{~63~Vbank 1~FF~}#015#009
+~63~Vbanco1~FF~#009
+;00038105{~63~Vbank 2~FF~}#015#009
+~63~Vbanco2~FF~#009
+;0003810E{~63~Vbank 3~FF~}#015#009
+~63~Vbanco3~FF~#009
+;00038117{~6B~Vfile~FF~}#013#007
+~6B~Varch~FF~#007
+;0003811E{~74~Vchr~FF~}#012#006
+~74~Vchr~FF~#006
+;00038124{fWSTAGE SELECT~FF~}#018#015
+fW
+ELIGE  ETAPA~FF~#015
+;00038133{~8E~XOFF~FF~}#012#006
+~8E~X
+NO ~FF~#006
+;00038139{~8E~XON ~FF~}#012#006
+~8E~X
+SÍ ~FF~#006
+|76
+@0002851C-0002851D-FF
+;0002851C{~EA~~97~}#008#002
+;TITLE SCREEN POINTER
+~30~~A7~#002
+|2
+;FREE SPACE FOR TITLE BANK
+@0002A740-0002AB3F-FF
+;0002A740{}#1024#1024
+;A730 -> 30A7
+ V~7E~ B ~8D~~40~~41~~42~~43~~44~~45~~46~~47~~48~~49~~4A~~4B~~4C~I ~8D~!~55~~56~~57~~58~~59~~5A~~5B~~5C~~5D~~5E~~5F~®O ~84~~60~~70~~4D~~D0~L B~F0~J ~8C~~61~~62~~63~~64~~65~~66~~67~~68~~69~~6A~~6B~~6C~I ~90~~E8~~71~~72~~73~~74~~75~~76~~77~~78~~79~~7A~~7B~~7C~~7D~~7E~?E ~91~~E9~~EA~~81~~82~~83~~84~~85~~86~~87~~88~~89~~8A~~8B~~8C~~8D~~8E~~8F~E ~90~~F9~~FA~~91~~92~~93~~94~~95~~96~~97~~98~~99~~9A~~9B~~9C~~9D~~9E~C ~96~~E0~~E1~~E2~~E3~~A0~~A1~~A2~~A3~~A4~~A5~~A6~~A7~~A8~~A9~~AA~~AB~~AC~~AD~~AE~~AF~~EB~~EC~9 ~96~~F4~~F1~~F2~~F3~~B0~~B1~~B2~~B3~~B4~~B5~~B6~~B7~~B8~~B9~~BA~~BB~~BC~~BD~~BE~~BF~~FB~^A ~94~~E4~~E5~~E6~~C0~~C1~~C2~~C3~~C4~~C5~~C6~~C7~~C8~~C9~~CA~~CB~~CC~~CD~~CE~~CF~~ED~B ~94~~F4~~F5~~F6~~F7~~D1~~D2~~D3~~D4~~D5~~D6~~D7~~D8~~D9~~DA~~DB~~DC~~DD~~DE~~DF~^! ~8D~© KONAMI 1990~75~ ~89~1 TORTUGAs ~8A~2 TORTUGAS~7D~ l ~82~B2B ~88~~94~~AA~~5A~~5A~~AA~~62~F 5~55~~84~0 ~45~~45~2~55~~81~02 ~84~~40~!!F3 ~84~34409 \\
+;A860 -> 60A8
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#1024
+|1024
+;FREE SPACE FOR 1 TURTLE BANK
+@00039D70-0003A16F-FF
+;00039D70{}#1024#1024
+;9D60 -> 609D
+~CC~X1 TORTUGA\\\\\
+;9D70 -> 709D
+BY2 TORTUGAS\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#1024
+|1024
+;FREE SPACE IN SCENES TEXT
+@00027940-00027FFF-FF
+;00027940{}#1728#1728
+;B930 -> 30B9
+=B9~FD~1^V
+ESCENA 1=1C
+¡FUEGO! ¡¡TENEMOS=~0B~F
+QUE SACAR A APRIL!!^~70~\\\\\
+;B970 -> 70B9
+=B9~FD~1^V
+ESCENA 2=1C
+¡¡VAMOS TRAS ESE=~09~F
+REPUGNANTE SHREDDER!!
+^~70~\\\\
+;B9B0 -> B0B9
+=B9~FD~1^V
+ESCENA 3=1C
+DERRITAMOS LA NIEVE Y=~07~F
+RESTAUREMOS NUEVA YORK.^~70~\\\\\\\\\\\\\
+;BA00 -> 00BA
+=B9~FD~1^V
+ESCENA 4=1C
+¡¡LLEGUEMOS A ESA=~0D~F
+FÁBRICA SECRETA!!^~70~~FF~\\\\\\
+;BA40 -> 40BA
+=B9~FD~1^V
+ESCENA 5=1C
+¡¡VAMOS A REVENTAR=~12~F
+ESTE LUGAR!!^~70~\\\\\\\\\\\
+;BA80 -> 80BA
+=B9~FD~1^V
+ESCENA 6=1C
+¡¡VAMOS A DERROTAR A LA=~09~F
+MAGIA NINJA ENEMIGA!!^~70~\\\\\\\\\\\\\
+;BAD0 -> D0BA
+=B9~FD~1^V
+ESCENA 7=1C
+¡¡TENEMOS QUE ENCONTRAR=~0F~F
+EL TECNÓDROMO!!^~70~\\\
+;BB10 -> 10BB
+~FD~2^V=B1
+EPÍLOGO=13
+ASUSTADOS LOS DEL PIE,=15
+ESTROPEADOS LOS RATONEROS Y=17
+DESTROZADO EL TECNÓDROMO.=19
+ESO ES... ¡¡PODER TORTUGA!!=1B
+PERO, ¿¡QUÉ HAY DE SHREDDER=1D
+Y DE KRANG...!?=1F
+¿QUEMADOS CUALES TOSTADAS?=1H
+¿¿VAPORIZADOS EN BATIDO??=1J
+¿O HUYERON A LA DIMENSIÓN X?=1L
+HASTA SABERLO, NO DORMIREMOS=1N
+A SALVO EN NUESTRAS CAMAS.=1P
+EJEM, ¡CAPARAZONES!^~80~\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+;BD10 -> 10BD
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#1728
+|1728

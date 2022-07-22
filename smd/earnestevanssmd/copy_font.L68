@@ -1,0 +1,68 @@
+000FE400 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 19/04/2022 21:25:39
+
+000FE400                             1      ORG    $000FE400
+000FE400                             2  START:                  ; first instruction of program
+000FE400                             3  
+000FE400                             4  * Put program code here
+000FE400                             5       ;Substituted code
+000FE400  4EB9 000256CC              6       JSR $256CC
+000FE406                             7   
+000FE406                             8       ;Push all registers
+000FE406  48E7 FFFE                  9       MOVEM.l A6-A0/D7-D0, -(SP) 
+000FE40A                            10       
+000FE40A  41F9 00C00004             11       LEA VDP_CONTROL, A0
+000FE410  43F9 00C00000             12       LEA VDP_DATA, A1
+000FE416                            13       
+000FE416                            14       ;Wait for DMAs
+000FE416                            15  .wait_dma
+000FE416  3010                      16       move.w (A0), D0
+000FE418  0200 0002                 17       andi.b #$02, D0
+000FE41C  66F8                      18       bne .wait_dma
+000FE41E                            19       
+000FE41E                            20       ;Set VRAM Increment to 2
+000FE41E  30BC 8F02                 21       move.w #$8F02, (A0)
+000FE422                            22       
+000FE422                            23       ;Set VRAM Location to DEST_VRAM
+000FE422  20BC 70000002             24       move.l #$40000000+((DEST_VRAM&$3FFF)<<16)+((DEST_VRAM&$C000)>>14),(A0)
+000FE428                            25       
+000FE428                            26       ;Load W_SIZE
+000FE428  303C 007F                 27       move.w  #(W_SIZE>>2)-1, D0
+000FE42C                            28       
+000FE42C                            29       ;Load SOURCE_68K
+000FE42C  45F9 000FE600             30       lea SOURCE_68K, A2
+000FE432                            31       
+000FE432                            32  .vramloop
+000FE432  229A                      33       move.l (A2)+, (A1)
+000FE434  51C8 FFFC                 34       DBRA.w D0, .vramloop
+000FE438                            35       
+000FE438                            36       ;Restore all registers
+000FE438  4CDF 7FFF                 37       MOVEM.l (SP)+, D0-D7/A0-A6
+000FE43C                            38       
+000FE43C  4E75                      39       rts
+000FE43E  FFFF FFFF                 40      SIMHALT             ; halt simulator
+000FE442                            41  
+000FE442                            42  * Put variables and constants here
+000FE442  =00C00004                 43  VDP_CONTROL EQU $C00004
+000FE442  =00C00000                 44  VDP_DATA EQU $C00000
+000FE442  =000FE600                 45  SOURCE_68K EQU $000FE600
+000FE442  =0000B000                 46  DEST_VRAM EQU $B000
+000FE442  =00000200                 47  W_SIZE EQU $0200
+000FE442                            48      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DEST_VRAM           B000
+SOURCE_68K          FE600
+START               FE400
+START:VRAMLOOP      FE432
+START:WAIT_DMA      FE416
+VDP_CONTROL         C00004
+VDP_DATA            C00000
+W_SIZE              200

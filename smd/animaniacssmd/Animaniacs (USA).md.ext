@@ -1,0 +1,878 @@
+@000014FC-00001635-FF
+;000014FC{PSSTART~FF~}#011#008
+PSSTART~FF~#008
+;00001504{PUPASSWORD ~FF~}#015#012
+PUPASSWORD ~FF~#012
+;00001510{PWOPTIONS~FF~}#013#010
+PWOPTIONS~FF~#010
+;0000151A{NNANIMANIACS~FF~}#016#013
+NNANIMANIACS~FF~#013
+;00001527{ NPKONAMI 1994~FF~}#018#015
+ NPKONAMI 1994~FF~#015
+;00001536{LHGAME~FF~}#010#007
+LHGAME~FF~#007
+;0000153D{ LHDEMO~FF~}#011#008
+ LHDEMO~FF~#008
+;00001545{ BBTITLE~FF~}#012#009
+ BBTITLE~FF~#009
+;0000154E{PDOPTIONS=IGLEVEL=VIPLAYERS=IMCONTROL=VMA=VOB=VQC=IUSOUND MODE=RXEXIT~FF~}#073#070
+PDOPTIONS=IGLEVEL=VIPLAYERS=IMCONTROL=VMA=VOB=VQC=IUSOUND MODE=RXEXIT~FF~#070
+;00001594{WU STEREO ~FF~}#014#011
+WU STEREO ~FF~#011
+;0000159F{ WUMONAURAL~FF~}#015#012
+ WUMONAURAL~FF~#012
+;000015AB{ WG  EASY   ~FF~}#016#013
+ WG  EASY   ~FF~#013
+;000015B8{WG NORMAL  ~FF~}#015#012
+WG NORMAL  ~FF~#012
+;000015C4{WG  HARD   ~FF~}#015#012
+WG  HARD   ~FF~#012
+;000015D0{WGVERY HARD~FF~}#015#012
+WGVERY HARD~FF~#012
+;000015DC{ACTION~FF~}#010#007
+ACTION~FF~#007
+;000015E3{  JUMP ~FF~}#011#008
+  JUMP ~FF~#008
+;000015EB{ CHANGE~FF~}#011#008
+ CHANGE~FF~#008
+;000015F3{   Ve  Vg  Vi  Vk  Vm  Vo  Vq  Vs  Vu  Vw  Vy  V"  V(  V&  V~50~  V~52~0~FF~}#076#067
+   Ve  Vg  Vi  Vk  Vm  Vo  Vq  Vs  Vu  Vw  Vy  V"  V(  V&  V~50~  V~52~0~FF~#067
+|314
+@0000FF80-0000FFE8-FF
+;0000FF80{  S0A~50~ X ASiA~50~ X BT~50~Aq Z  X~D0~AP X  X~F0~Aa X AYPA~50~ X   G~A1~~E0~ G~AC~~7E~ H)~8C~ L~A7~~2A~ L~B0~~D4~     G~9B~~94~     G~99~T G~98~~F4~     L~DE~~1E~ M~9C~~F6~~FF~}#178#103
+  S0A~50~ X ASiA~50~ X BT~50~Aq Z  X~D0~AP X  X~F0~Aa X AYPA~50~ X   G~A1~~E0~ G~AC~~7E~ H)~8C~ L~A7~~2A~ L~B0~~D4~     G~9B~~94~     G~99~T G~98~~F4~     L~DE~~1E~ M~9C~~F6~~FF~#103
+;0000FFE7{~FF~}#004#001
+~FF~#001
+;0000FFE8{~80~}#004#001
+~80~#001
+|105
+@00013ABA-00013AE2-FF
+;00013ABA{AD o~FF~}#008#005
+AD o~FF~#005
+;00013ABF{~CC~~FF~}#008#002
+~CC~~FF~#002
+;00013AC1{~CC~ADAD o o o oADAD~FF~}#024#018
+~CC~ADAD o o o oADAD~FF~#018
+;00013AD3{~CC~~FF~}#008#002
+~CC~~FF~#002
+;00013AD5{~CC~AD0~BC~q  Pb~78~~F6~ ~FF~}#029#014
+~CC~AD0~BC~q  Pb~78~~F6~ ~FF~#014
+|41
+@00013D21-00013D3D-FF
+;00013D21{yLqA ~6B~DamA b~C0~~F6~Bz~F8~~EC~ am :2T~92~~9A~8~C1~}#053#029
+yLqA ~6B~DamA b~C0~~F6~Bz~F8~~EC~ am :2T~92~~9A~8~C1~#029
+|29
+@00014737-0001474E-FF
+;00014737{yLqA ~6B~DamA b~C0~~F6~Br~F8~~EA~ ci~E8~ ~E2~}#045#024
+yLqA ~6B~DamA b~C0~~F6~Br~F8~~EA~ ci~E8~ ~E2~#024
+|24
+@000148EF-00014906-FF
+;000148EF{yLqA ~6B~DamA b~C0~~F6~Br~F8~~EA~ ci~E8~ ~E2~}#045#024
+yLqA ~6B~DamA b~C0~~F6~Br~F8~~EA~ ci~E8~ ~E2~#024
+|24
+@00016FFB-00017007-FF
+;00016FFB{AALs~86~mG~52~x ~86~ ~E8~}#025#013
+AALs~86~mG~52~x ~86~ ~E8~#013
+|13
+@0002B16B-0002B186-FF
+;0002B16B{mcm ~5C~H9 E .~67~Bura~2A~ H~D0~rdq H~60~2~52~}#046#028
+mcm ~5C~H9 E .~67~Bura~2A~ H~D0~rdq H~60~2~52~#028
+|28
+@00030396-000303B3-FF
+;00030396{4lP85s  elP4fs HelP~1E~fs L5z ~50~6~CA~}#039#030
+4lP85s  elP4fs HelP~1E~fs L5z ~50~6~CA~#030
+|30
+@0003147F-000314B9-FF
+;0003147F{tela~86~ds ~6E~ela~80~ds ~70~o &~B9~  L~9A~eG~C4~~C1~~E1~~8A~yso &~B9~  L~9E~gG~C6~~C1~~E1~~8B~ytL~69~ C ~6C~~67~  ~8A~}#119#059
+tela~86~ds ~6E~ela~80~ds ~70~o &~B9~  L~9A~eG~C4~~C1~~E1~~8A~yso &~B9~  L~9E~gG~C6~~C1~~E1~~8B~ytL~69~ C ~6C~~67~  ~8A~#059
+|59
+@000314EC-0003150B-FF
+;000314EC{ D&~75~a9 ~6E~~D0~sdq Ha9 ~70~~90~tdq LamA ~90~~69~ ~72~}#056#032
+ D&~75~a9 ~6E~~D0~sdq Ha9 ~70~~90~tdq LamA ~90~~69~ ~72~#032
+|32
+@00032866-00032CA1-FF
+;00032866{DJPEbDIRECTOR=OFadHARRY NITTA=  ~FF~}#036#033
+DJPEbDIRECTOR=OFadHARRY NITTA=  ~FF~#033
+;00032887{ LEbSYSTEM PROGRAMMER=OFadKOJI KOMATA=  ~FF~}#044#041
+ LEbSYSTEM PROGRAMMER=OFadKOJI KOMATA=  ~FF~#041
+;000328B0{JBbSYSTEM PROGRAM ADVISER=MCadKENICHIRO HORIO=GEbSFX & CHARACTERS PROGRAMMER=JFadSHOUSUKE "MAC" HARADA=CHbDEMO STORY & CHARACTERS PROGRAMMER=MIadTSUYOSHI UOYA=  ~FF~}#165#162
+JBbSYSTEM PROGRAM ADVISER=MCadKENICHIRO HORIO=GEbSFX & CHARACTERS PROGRAMMER=JFadSHOUSUKE "MAC" HARADA=CHbDEMO STORY & CHARACTERS PROGRAMMER=MIadTSUYOSHI UOYA=  ~FF~#162
+;00032952{NEbSOUND DESIGN=JFadKIYOSHI "K-MU" MURAI=  ~FF~}#047#044
+NEbSOUND DESIGN=JFadKIYOSHI "K-MU" MURAI=  ~FF~#044
+;0003297E{KDbdGRAPHIC DESIGNERS=NEadTEISAKU SEKI=NFadKOJI YAMADA=  ~FF~}#061#058
+KDbdGRAPHIC DESIGNERS=NEadTEISAKU SEKI=NFadKOJI YAMADA=  ~FF~#058
+;000329B8{KDbGRAPHIC DESIGNERS=NEadREIKA BANDO=LFadKAZUE TACHINAMI=LGadJUNICHI MURAKAMI=  ~FF~}#084#081
+KDbGRAPHIC DESIGNERS=NEadREIKA BANDO=LFadKAZUE TACHINAMI=LGadJUNICHI MURAKAMI=  ~FF~#081
+;00032A09{ JBbdDEMO STORY WRITTEN BY=LCadJEREMY BLAUSTEIN=IEbPACKAGE & MANUAL DESIGN=MFadKAY WOLF JONES=MGadKEVIN O'DONOHUE=NHadRANDY SEVERIN=  ~FF~}#138#135
+ JBbdDEMO STORY WRITTEN BY=LCadJEREMY BLAUSTEIN=IEbPACKAGE & MANUAL DESIGN=MFadKAY WOLF JONES=MGadKEVIN O'DONOHUE=NHadRANDY SEVERIN=  ~FF~#135
+;00032A90{KBbdLICENSING MANAGER=LCadKATHIE MCCARTHY=LEbSPECIAL ADVISER=MFadMICHAEL GALLO=LGadALLEN RICHARDSON=OHadJON SLOAN=  ~FF~}#120#117
+KBbdLICENSING MANAGER=LCadKATHIE MCCARTHY=LEbSPECIAL ADVISER=MFadMICHAEL GALLO=LGadALLEN RICHARDSON=OHadJON SLOAN=  ~FF~#117
+;00032B05{ KAbdSPECIAL THANKS TO=MBadKENJI HIRAOKA=OCadJUN NARITA=NDadMASAHIRO UENO=JEadKAZUHIRO "DAVID" UEDA=OFadMASA OTANI=MGadSTEVE JOHNSON=NHadSINO & SHIRO=  ~FF~}#156#153
+ KAbdSPECIAL THANKS TO=MBadKENJI HIRAOKA=OCadJUN NARITA=NDadMASAHIRO UENO=JEadKAZUHIRO "DAVID" UEDA=OFadMASA OTANI=MGadSTEVE JOHNSON=NHadSINO & SHIRO=  ~FF~#153
+;00032B9E{ECbdSPECIAL THANKS TO WARNER BROS.=NDadHOLLY STEIN=KEadCATHERINE SOLLECITO=NFadLAETITIA MAY=MGadJOHN CRUMLISH=  ~FF~}#116#113
+ECbdSPECIAL THANKS TO WARNER BROS.=NDadHOLLY STEIN=KEadCATHERINE SOLLECITO=NFadLAETITIA MAY=MGadJOHN CRUMLISH=  ~FF~#113
+;00032C0F{ OEbSUPERVISOR=NFadYUTAKA HARUKI=  ~FF~}#039#036
+ OEbSUPERVISOR=NFadYUTAKA HARUKI=  ~FF~#036
+;00032C33{ PEbPRODUCER=LFadTOMIKAZU KIRITA=  ~FF~}#039#036
+ PEbPRODUCER=LFadTOMIKAZU KIRITA=  ~FF~#036
+;00032C57{ JEaCOPYRIGHT 1994 KONAMI=KFadALL RIGHTS RESERVED.=  ~FF~}#057#054
+ JEaCOPYRIGHT 1994 KONAMI=KFadALL RIGHTS RESERVED.=  ~FF~#054
+;00032C8D{ a9 D~D0~qal F&~FB~ B L ~5A~ ~82~}#033#021
+ a9 D~D0~qal F&~FB~ B L ~5A~ ~82~#021
+|1084
+@000360AC-000360B9-FF
+;000360AC{AFARA~2A~AgAyA~68~A~80~}#023#014
+AFARA~2A~AgAyA~68~A~80~#014
+|14
+@000372E9-0003738F-FF
+;000372E9{  JuH  ~E0~      J 2 e & ~6C~JTBUNGLE IN THE JUNGLE~FF~}#055#046
+  JuH  ~E0~      J 2 e & ~6C~JTBUNGLE IN THE JUNGLE~FF~#046
+;00037317{ MTSPACE TRUCKING~FF~}#021#018
+ MTSPACE TRUCKING~FF~#018
+;00037329{ ITREMEMBER THE A LA MODE~FF~}#029#026
+ ITREMEMBER THE A LA MODE~FF~#026
+;00037343{ GTTO SCREAM OR NOT TO SCREAM~FF~}#033#030
+ GTTO SCREAM OR NOT TO SCREAM~FF~#030
+;00037361{ DTONCE THERE WAS A MAN NAMED OSCAR~FF~}#039#036
+ DTONCE THERE WAS A MAN NAMED OSCAR~FF~#036
+;00037385{  J - o ~60~ ~76~}#017#011
+  J - o ~60~ ~76~#011
+|167
+@00037390-000373B3-FF
+;00037390{CW"THE ADVENTURE OF DIRK RUGGED ~51~~52~"~FF~}#045#036
+CW"THE ADVENTURE OF DIRK RUGGED ~51~~52~"~FF~#036
+|36
+@000373B4-00037404-FF
+;000373B4{NW"SPACE WARS"~FF~}#018#015
+NW"SPACE WARS"~FF~#015
+;000373C3{ EW"Swing 'em low, Hang 'em High"~FF~}#037#034
+ EW"Swing 'em low, Hang 'em High"~FF~#034
+;000373E5{ KW"Bloodmask:Part 32"~FF~}#026#023
+ KW"Bloodmask:Part 32"~FF~#023
+;000373FC{KW~FF~}#006#003
+KW~FF~#003
+;000373FF{ L~78~ ·~B0~}#012#006
+ L~78~ ·~B0~#006
+|81
+@0003DE70-0003DEAC-FF
+;0003DE70{ A5~F0~~60~=KBPROGRAM ERROR!~FF~}#032#023
+ A5~F0~~60~=KBPROGRAM ERROR!~FF~#023
+;0003DE87{ t~F8~~C2~ 3~7C~ A-~98~  d~7C~ 8 H3~7C~ F~7B~~62~ Xr~F9~ C~E1~~7E~ai~FB~a~E3~}#077#038
+ t~F8~~C2~ 3~7C~ A-~98~  d~7C~ 8 H3~7C~ F~7B~~62~ Xr~F9~ C~E1~~7E~ai~FB~a~E3~#038
+|61
+@0003E41A-0003E461-FF
+;0003E41A{MAWRONG PASSWORD.~FF~}#021#018
+MAWRONG PASSWORD.~FF~#018
+;0003E42C{MA                   ~FF~}#025#022
+MA                   ~FF~#022
+;0003E442{aj~FF~}#006#003
+aj~FF~#003
+;0003E445{~FF~}#004#001
+~FF~#001
+;0003E446{8o~D0~qal F&~FB~ B F N .~52~~79~~FF~}#036#021
+8o~D0~qal F&~FB~ B F N .~52~~79~~FF~#021
+;0003E45B{~FF~}#004#001
+~FF~#001
+;0003E45C{8o&~75~&~B9~}#012#006
+8o&~75~&~B9~#006
+|72
+@0003E748-0003E763-FF
+;0003E748{KBPROGRAM ERROR!~FF~}#020#017
+KBPROGRAM ERROR!~FF~#017
+;0003E759{ Hi G~B2~~9B~~67~.d~FC~}#023#011
+ Hi G~B2~~9B~~67~.d~FC~#011
+|28
+@00040E22-00042029-FF
+;00040E22{BWelcome to our video game.=~FF~}#032#029
+BWelcome to our video game.=~FF~#029
+;00040E3F{ AWhat do ya mean,video game?=We're cartoon characters.=~FF~}#060#057
+ AWhat do ya mean,video game?=We're cartoon characters.=~FF~#057
+;00040E78{ Wakko,even though we are=animated characters,that=doesn't mean that we can't play=a vital role in an interactive=audiovisual entertainment=software medium as well.As a=matter of fact this is a time=of convergence for many forms=of media.As Mcluhan predicted...=~FF~}#266#263
+ Wakko,even though we are=animated characters,that=doesn't mean that we can't play=a vital role in an interactive=audiovisual entertainment=software medium as well.As a=matter of fact this is a time=of convergence for many forms=of media.As Mcluhan predicted...=~FF~#263
+;00040F7F{ BWhat is he talking about?=~FF~}#032#029
+ BWhat is he talking about?=~FF~#029
+;00040F9C{AI think he's saying "Welcome to=our video game"!=~FF~}#054#051
+AI think he's saying "Welcome to=our video game"!=~FF~#051
+;00040FCF{ BHere we are in the Warner Bros.=Studio in lovely Southern=California.=~FF~}#076#073
+ BHere we are in the Warner Bros.=Studio in lovely Southern=California.=~FF~#073
+;00041018{BI want to meet some glamorous=celebrities or perhaps John=Snotts.=~FF~}#071#068
+BI want to meet some glamorous=celebrities or perhaps John=Snotts.=~FF~#068
+;0004105C{AYeah,me too.Maybe he'd do that=thing with his eyes for us.=~FF~}#064#061
+AYeah,me too.Maybe he'd do that=thing with his eyes for us.=~FF~#061
+;00041099{  I've got a great idea.=~FF~}#029#026
+  I've got a great idea.=~FF~#026
+;000410B3{  Let's open that hip pop-culture=shop...=~FF~}#046#043
+  Let's open that hip pop-culture=shop...=~FF~#043
+;000410DE{ ...that we're always talking=about.=~FF~}#041#038
+ ...that we're always talking=about.=~FF~#038
+;00041104{ We can start by collecting some=famous props from the movies.=~FF~}#067#064
+ We can start by collecting some=famous props from the movies.=~FF~#064
+;00041144{ASounds like fun.Let's go!=~FF~}#031#028
+ASounds like fun.Let's go!=~FF~#028
+;00041160{ Here come the Warner Brothers!=~FF~}#036#033
+ Here come the Warner Brothers!=~FF~#033
+;00041181{ AHere come the Warner Brothers!=~FF~}#037#034
+ AHere come the Warner Brothers!=~FF~#034
+;000411A3{ BAnd the Warner Sister!=~FF~}#029#026
+ BAnd the Warner Sister!=~FF~#026
+;000411BD{ BOh Dirk is so dreamy!I wish I=could get a memento of him...=~FF~}#066#063
+ BOh Dirk is so dreamy!I wish I=could get a memento of him...=~FF~#063
+;000411FC{AIf he's dreamy,I'd hate to get=a look at your nightmares.=~FF~}#063#060
+AIf he's dreamy,I'd hate to get=a look at your nightmares.=~FF~#060
+;00041238{BYou're no Kurt Cameroon=yourself.=~FF~}#039#036
+BYou're no Kurt Cameroon=yourself.=~FF~#036
+;0004125C{ Hey,Hey fellas.We need to=cooperate here.=~FF~}#047#044
+ Hey,Hey fellas.We need to=cooperate here.=~FF~#044
+;00041288{ Wakko,you take the high road.=~FF~}#035#032
+ Wakko,you take the high road.=~FF~#032
+;000412A8{ Dot,you take the low road.=~FF~}#032#029
+ Dot,you take the low road.=~FF~#029
+;000412C5{  As for me,I'll be in Scotland=afore ye.Whatever that means.=~FF~}#066#063
+  As for me,I'll be in Scotland=afore ye.Whatever that means.=~FF~#063
+;00041304{A"Space Wars" is one of my=all-time favorite movies!=~FF~}#057#054
+A"Space Wars" is one of my=all-time favorite movies!=~FF~#054
+;0004133A{ Yeah,when Dume Rayder told Ike=Skywriter that he was his=second cousin I almost fainted.=~FF~}#094#091
+ Yeah,when Dume Rayder told Ike=Skywriter that he was his=second cousin I almost fainted.=~FF~#091
+;00041395{ BWouldn't it be great if we=could get Dume Rayder's helmet=for our hip pop-culture shop.=~FF~}#094#091
+ BWouldn't it be great if we=could get Dume Rayder's helmet=for our hip pop-culture shop.=~FF~#091
+;000413F0{AYeah,and may the Farce be with=us.=~FF~}#040#037
+AYeah,and may the Farce be with=us.=~FF~#037
+;00041415{ BThey just don't make movies=like this anymore.=~FF~}#053#050
+ BThey just don't make movies=like this anymore.=~FF~#050
+;00041447{ AFortunately,they don't make=titles like it anymore either!=~FF~}#065#062
+ AFortunately,they don't make=titles like it anymore either!=~FF~#062
+;00041485{  I always used to pretend that I=was Sheriff Jethro Anderson,=galloping into the sunset.=~FF~}#094#091
+  I always used to pretend that I=was Sheriff Jethro Anderson,=galloping into the sunset.=~FF~#091
+;000414E0{BI thought it was supposed to be=the horse that galloped.=~FF~}#062#059
+BI thought it was supposed to be=the horse that galloped.=~FF~#059
+;0004151B{  Hey Dottie,whenever you talk to=me,shut up.=~FF~}#050#047
+  Hey Dottie,whenever you talk to=me,shut up.=~FF~#047
+;0004154A{BI thought Janus died for good=in Part 15.=~FF~}#047#044
+BI thought Janus died for good=in Part 15.=~FF~#044
+;00041576{ He did,but if you remember,his=analyst stole the mask and he=became reincarnated.Then,after=the analyst died in Part 26,his=butler became Janus briefly=before handing the reins to his=insurance salesman.=~FF~}#209#206
+ He did,but if you remember,his=analyst stole the mask and he=became reincarnated.Then,after=the analyst died in Part 26,his=butler became Janus briefly=before handing the reins to his=insurance salesman.=~FF~#206
+;00041644{BWow,that's scary.=~FF~}#023#020
+BWow,that's scary.=~FF~#020
+;00041658{AIf we take the mask,will we=become Janus then?=~FF~}#052#049
+AIf we take the mask,will we=become Janus then?=~FF~#049
+;00041689{  That's something only the Game=Designers can answer.=~FF~}#059#056
+  That's something only the Game=Designers can answer.=~FF~#056
+;000416C1{ BOoooh Spooky!=~FF~}#020#017
+ BOoooh Spooky!=~FF~#017
+;000416D2{ There's one thing that we still=don't have.=~FF~}#049#046
+ There's one thing that we still=don't have.=~FF~#046
+;00041700{BA house in the country?=~FF~}#029#026
+BA house in the country?=~FF~#026
+;0004171A{ No.=~FF~}#009#006
+ No.=~FF~#006
+;00041720{AA motorcar?=~FF~}#017#014
+AA motorcar?=~FF~#014
+;0004172E{ No.=~FF~}#009#006
+ No.=~FF~#006
+;00041734{BOne white duck?=~FF~}#021#018
+BOne white duck?=~FF~#018
+;00041746{ Well...No.What we don't have is=an Os...I mean a "Felix" statue.=But we need one to complete our=collection.=~FF~}#114#111
+ Well...No.What we don't have is=an Os...I mean a "Felix" statue.=But we need one to complete our=collection.=~FF~#111
+;000417B5{ AThen let's make like a tree and=bark!=~FF~}#044#041
+ AThen let's make like a tree and=bark!=~FF~#041
+;000417DE{CWhat are we going to do tonight,=Brain?=~FF~}#045#042
+CWhat are we going to do tonight,=Brain?=~FF~#042
+;00041808{DThe same thing we do every=night,Pinky.Try to take over=the world.=~FF~}#072#069
+DThe same thing we do every=night,Pinky.Try to take over=the world.=~FF~#069
+;0004184D{ CHow are we gonna do that,Brain?=~FF~}#038#035
+ CHow are we gonna do that,Brain?=~FF~#035
+;00041870{DPinky,what is the one thing=that all people,regardless of=age,nationality and political=orientation love?=~FF~}#111#108
+DPinky,what is the one thing=that all people,regardless of=age,nationality and political=orientation love?=~FF~#108
+;000418DC{CI don't know Brain.Processed=cheese food?=~FF~}#047#044
+CI don't know Brain.Processed=cheese food?=~FF~#044
+;00041908{DNo,you dimwit.The movies!We=will control people's minds by=cleverly manipulating the movie=icons that they worship.=~FF~}#121#118
+DNo,you dimwit.The movies!We=will control people's minds by=cleverly manipulating the movie=icons that they worship.=~FF~#118
+;0004197E{CWhat does that mean,Brain?=~FF~}#032#029
+CWhat does that mean,Brain?=~FF~#029
+;0004199B{ DWe will steal the Warner=Brothers' collection of movie=memorabilia and use it to=brainwash the people!=~FF~}#109#106
+ DWe will steal the Warner=Brothers' collection of movie=memorabilia and use it to=brainwash the people!=~FF~#106
+;00041A05{ AHey,those rats stole our movie=collectibles!=~FF~}#051#048
+ AHey,those rats stole our movie=collectibles!=~FF~#048
+;00041A35{ DWe're not rats,we're mice!=~FF~}#033#030
+ DWe're not rats,we're mice!=~FF~#030
+;00041A53{ BAnd that short rat with the big=head can talk.=~FF~}#053#050
+ BAnd that short rat with the big=head can talk.=~FF~#050
+;00041A85{ DOf course I can talk,I am a=genius,isn't that right Pinky?=~FF~}#065#062
+ DOf course I can talk,I am a=genius,isn't that right Pinky?=~FF~#062
+;00041AC3{ CYeah that's right,Brain,you're=brilliant!=~FF~}#048#045
+ CYeah that's right,Brain,you're=brilliant!=~FF~#045
+;00041AF0{ Anyway,give us back our stuff!=~FF~}#036#033
+ Anyway,give us back our stuff!=~FF~#033
+;00041B11{ DI'm afraid I cannot do that.You=see,we need these items so that=we can take over the world.=Pinky,are you thinking what I'm=thinking?=~FF~}#140#137
+ DI'm afraid I cannot do that.You=see,we need these items so that=we can take over the world.=Pinky,are you thinking what I'm=thinking?=~FF~#137
+;00041B9A{CI think so Brain,but how do we=teach a sardine to speak=Russian?=~FF~}#070#067
+CI think so Brain,but how do we=teach a sardine to speak=Russian?=~FF~#067
+;00041BDD{ DPinky,I shall have to hurt you=soon.Summon the robot.=~FF~}#060#057
+ DPinky,I shall have to hurt you=soon.Summon the robot.=~FF~#057
+;00041C16{ Yipes,what's that?=~FF~}#024#021
+ Yipes,what's that?=~FF~#021
+;00041C2B{ DIt's my robot.If you want your=possessions back,you must defeat=him.=~FF~}#075#072
+ DIt's my robot.If you want your=possessions back,you must defeat=him.=~FF~#072
+;00041C73{ DI'm in considerable pain,Pinky.=~FF~}#038#035
+ DI'm in considerable pain,Pinky.=~FF~#035
+;00041C96{COh right Brain.I guess we lost.=~FF~}#037#034
+COh right Brain.I guess we lost.=~FF~#034
+;00041CB8{DIt's back to the drawing board=Pinky.=~FF~}#043#040
+DIt's back to the drawing board=Pinky.=~FF~#040
+;00041CE0{CBut Brain,I don't know how to=draw.=~FF~}#041#038
+CBut Brain,I don't know how to=draw.=~FF~#038
+;00041D06{DPinky,you have the intelligence=of a breath mint.Come,we have=to plan for tomorrow night.=~FF~}#095#092
+DPinky,you have the intelligence=of a breath mint.Come,we have=to plan for tomorrow night.=~FF~#092
+;00041D62{CWhy,Brain,what are we gonna do=tomorrow night?=~FF~}#052#049
+CWhy,Brain,what are we gonna do=tomorrow night?=~FF~#049
+;00041D93{ DThe same thing we do every=night Pinky...try and take over=the world!=~FF~}#076#073
+ DThe same thing we do every=night Pinky...try and take over=the world!=~FF~#073
+;00041DDC{ Hey!Wait a minute you guys!I've=got an idea!=~FF~}#050#047
+ Hey!Wait a minute you guys!I've=got an idea!=~FF~#047
+;00041E0B{  Sign here!=~FF~}#017#014
+  Sign here!=~FF~#014
+;00041E19{ CGee Brain,this is the life!=~FF~}#034#031
+ CGee Brain,this is the life!=~FF~#031
+;00041E38{DYes.And in a few months we will=have enough money to TAKE OVER=THE WORLD!=~FF~}#079#076
+DYes.And in a few months we will=have enough money to TAKE OVER=THE WORLD!=~FF~#076
+;00041E84{ Gee,did you guys catch that.=They didn't leave that too open=ended!=~FF~}#073#070
+ Gee,did you guys catch that.=They didn't leave that too open=ended!=~FF~#070
+;00041ECA{ADo ya think we'll get to star=in another video game?=~FF~}#058#055
+ADo ya think we'll get to star=in another video game?=~FF~#055
+;00041F01{ BI don't know about you,but after=all of the trouble we've caused,=I'd be surprised if they even=let us have a cameo appearance=in the next game.=~FF~}#151#148
+ BI don't know about you,but after=all of the trouble we've caused,=I'd be surprised if they even=let us have a cameo appearance=in the next game.=~FF~#148
+;00041F95{  Well,goodnight everybody and=~FF~}#035#032
+  Well,goodnight everybody and=~FF~#032
+;00041FB5{ AWell,goodnight everybody and=~FF~}#035#032
+ AWell,goodnight everybody and=~FF~#032
+;00041FD5{ BWell,goodnight everybody and=~FF~}#035#032
+ BWell,goodnight everybody and=~FF~#032
+;00041FF5{  drive safely!=~FF~}#020#017
+  drive safely!=~FF~#017
+;00042006{Adrive safely!=~FF~}#019#016
+Adrive safely!=~FF~#016
+;00042016{Bdrive safely!=~FF~}#019#016
+Bdrive safely!=~FF~#016
+;00042026{~FF~}#004#001
+~FF~#001
+;00042027{~FF~}#004#001
+~FF~#001
+;00042028{~FF~}#004#001
+~FF~#001
+;00042029{~FF~}#004#001
+~FF~#001
+|4616
+@00044A8A-00044B35-FF
+;00044A8A{DEANIMANIACS,CHARACTERS,NAMES,AND=CGALL RELATED INDICIA ARE TRADEMARKS=IIOF WARNER BROS. ~1E~ 1994=EOTM AND ~1E~ 1994 KONAMI CO.,LTD.=NULICENSED BY=IWSEGA ENTERPRISES,LTD.=  ~FF~}#178#169
+DEANIMANIACS,CHARACTERS,NAMES,AND=CGALL RELATED INDICIA ARE TRADEMARKS=IIOF WARNER BROS. ~1E~ 1994=EOTM AND ~1E~ 1994 KONAMI CO.,LTD.=NULICENSED BY=IWSEGA ENTERPRISES,LTD.=  ~FF~#169
+;00044B33{ &~F9~}#006#003
+ &~F9~#003
+|172
+@000480AB-000480C1-FF
+;000480AB{RO'~B4~u /uD /~FF~}#018#012
+RO'~B4~u /uD /~FF~#012
+;000480B7{r /urDu~FF~}#011#008
+r /urDu~FF~#008
+;000480BF{~F1~/~FF~}#009#003
+~F1~/~FF~#003
+|23
+@0005F928-0005F93F-FF
+;0005F928{F H~EF~LFH~F5~ARIA B~FF~}#024#015
+F H~EF~LFH~F5~ARIA B~FF~#015
+;0005F937{~F0~ I ~A0~~FF~}#015#006
+~F0~ I ~A0~~FF~#006
+;0005F93D{~EF~~FF~}#008#002
+~EF~~FF~#002
+;0005F93F{~DC~}#004#001
+~DC~#001
+|24
+@0005F94E-0005F965-FF
+;0005F94E{F IJLFH~F5~ARIA C~FF~}#021#015
+F IJLFH~F5~ARIA C~FF~#015
+;0005F95D{~C8~ G ~A0~~FF~}#015#006
+~C8~ G ~A0~~FF~#006
+;0005F963{~F7~~FF~}#008#002
+~F7~~FF~#002
+;0005F965{~DC~}#004#001
+~DC~#001
+|24
+@000733AE-000735E6-FF
+;000733AE{ Gd~9C~PG6~FC~HG7~FC~GG8& G8~90~~FF~}#036#021
+ Gd~9C~PG6~FC~HG7~FC~GG8& G8~90~~FF~#021
+;000733C3{~FF~}#004#001
+~FF~#001
+;000733C4{ Gd~B2~PGY~D6~OGZi0GZ~AA~OG'T0G'~C6~ G.~78~~FF~}#047#029
+ Gd~B2~PGY~D6~OGZi0GZ~AA~OG'T0G'~C6~ G.~78~~FF~#029
+;000733E1{~FF~}#004#001
+~FF~#001
+;000733E2{ Gd~C8~HG?~E8~GG!~2A~ G!~6C~~FF~}#032#017
+ Gd~C8~HG?~E8~GG!~2A~ G!~6C~~FF~#017
+;000733F3{~FF~}#004#001
+~FF~#001
+;000733F4{ Gd~E6~IG-~78~JG2y G3L~FF~}#026#017
+ Gd~E6~IG-~78~JG2y G3L~FF~#017
+;00073405{~FF~}#004#001
+~FF~#001
+;00073406{ Gd~F8~NG-~D2~KG60IG6~8A~ G4~9A~~FF~}#036#021
+ Gd~F8~NG-~D2~KG60IG6~8A~ G4~9A~~FF~#021
+;0007341B{~FF~}#004#001
+~FF~#001
+;0007341C{ GeJCG-0DG-~2A~PG?mPG?wFG?~50~ G?~5A~~FF~}#041#029
+ GeJCG-0DG-~2A~PG?mPG?wFG?~50~ G?~5A~~FF~#029
+;00073439{~FF~}#004#001
+~FF~#001
+;0007343A{ Ge0GG-~2A~OG-e G-o~FF~}#023#017
+ Ge0GG-~2A~OG-e G-o~FF~#017
+;0007344B{~FF~}#004#001
+~FF~#001
+;0007344C{ Geo G~FF~}#010#007
+ Geo G~FF~#007
+;00073453{~E7~  B,~FF~}#012#006
+~E7~  B,~FF~#006
+;00073459{~FD~~FF~}#008#002
+~FD~~FF~#002
+;0007345B{~F1~ EBx I~FF~}#014#008
+~F1~ EBx I~FF~#008
+;00073463{~DE~  Bw F~FF~}#014#008
+~DE~  Bw F~FF~#008
+;0007346B{~DE~ CBs A~FF~}#014#008
+~DE~ CBs A~FF~#008
+;00073473{~CC~  Br~FF~}#012#006
+~CC~  Br~FF~#006
+;00073479{~F9~~FF~}#008#002
+~F9~~FF~#002
+;0007347B{~E1~ KBf~FF~}#012#006
+~E1~ KBf~FF~#006
+;00073481{~E9~~FF~}#008#002
+~E9~~FF~#002
+;00073483{~E3~ EB&~FF~}#012#006
+~E3~ EB&~FF~#006
+;00073489{~FF~}#004#001
+~FF~#001
+;0007348A{~FF~}#004#001
+~FF~#001
+;0007348B{~CC~ FB:~FF~}#012#006
+~CC~ FB:~FF~#006
+;00073491{~EC~ G~FF~}#010#004
+~EC~ G~FF~#004
+;00073495{~E7~  B,~FF~}#012#006
+~E7~  B,~FF~#006
+;0007349B{~FD~~FF~}#008#002
+~FD~~FF~#002
+;0007349D{~F1~ EBx I~FF~}#014#008
+~F1~ EBx I~FF~#008
+;000734A5{~DE~  Bw F~FF~}#014#008
+~DE~  Bw F~FF~#008
+;000734AD{~DE~ CBs A~FF~}#014#008
+~DE~ CBs A~FF~#008
+;000734B5{~CC~  Br~FF~}#012#006
+~CC~  Br~FF~#006
+;000734BB{~F9~~FF~}#008#002
+~F9~~FF~#002
+;000734BD{~E1~ KBf~FF~}#012#006
+~E1~ KBf~FF~#006
+;000734C3{~E9~~FF~}#008#002
+~E9~~FF~#002
+;000734C5{~E1~ EB&  ~FF~}#014#008
+~E1~ EB&  ~FF~#008
+;000734CD{~CC~ FB:~FF~}#012#006
+~CC~ FB:~FF~#006
+;000734D3{~EC~ G~FF~}#010#004
+~EC~ G~FF~#004
+;000734D7{~F1~ EBx I~FF~}#014#008
+~F1~ EBx I~FF~#008
+;000734DF{~DE~  Bw F~FF~}#014#008
+~DE~  Bw F~FF~#008
+;000734E7{~DE~ CBs A~FF~}#014#008
+~DE~ CBs A~FF~#008
+;000734EF{~D9~ EB& B~FF~}#014#008
+~D9~ EB& B~FF~#008
+;000734F7{~CC~  Br~FF~}#012#006
+~CC~  Br~FF~#006
+;000734FD{~F9~~FF~}#008#002
+~F9~~FF~#002
+;000734FF{~E1~ KBf~FF~}#012#006
+~E1~ KBf~FF~#006
+;00073505{~E9~~FF~}#008#002
+~E9~~FF~#002
+;00073507{~CC~ FB:~FF~}#012#006
+~CC~ FB:~FF~#006
+;0007350D{~EC~~FF~}#008#002
+~EC~~FF~#002
+;0007350F{~DF~  B,~FF~}#012#006
+~DF~  B,~FF~#006
+;00073515{~F7~ G~FF~}#010#004
+~F7~ G~FF~#004
+;00073519{~D3~ EB&~FF~}#012#006
+~D3~ EB&~FF~#006
+;0007351F{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00073521{~DD~  B(~FF~}#012#006
+~DD~  B(~FF~#006
+;00073527{~FB~~FF~}#008#002
+~FB~~FF~#002
+;00073529{~F1~ EBx I~FF~}#014#008
+~F1~ EBx I~FF~#008
+;00073531{~DE~  Bw F~FF~}#014#008
+~DE~  Bw F~FF~#008
+;00073539{~DE~ CBs A~FF~}#014#008
+~DE~ CBs A~FF~#008
+;00073541{~CC~  Br~FF~}#012#006
+~CC~  Br~FF~#006
+;00073547{~F9~~FF~}#008#002
+~F9~~FF~#002
+;00073549{~E1~ KBf~FF~}#012#006
+~E1~ KBf~FF~#006
+;0007354F{~E9~~FF~}#008#002
+~E9~~FF~#002
+;00073551{~CC~ FB:~FF~}#012#006
+~CC~ FB:~FF~#006
+;00073557{~EC~ H~FF~}#010#004
+~EC~ H~FF~#004
+;0007355B{~D4~  B)~FF~}#012#006
+~D4~  B)~FF~#006
+;00073561{~F4~~FF~}#008#002
+~F4~~FF~#002
+;00073563{~D3~ EB&~FF~}#012#006
+~D3~ EB&~FF~#006
+;00073569{~FD~~FF~}#008#002
+~FD~~FF~#002
+;0007356B{~DD~  B(~FF~}#012#006
+~DD~  B(~FF~#006
+;00073571{~FB~~FF~}#008#002
+~FB~~FF~#002
+;00073573{~F1~ EBx I~FF~}#014#008
+~F1~ EBx I~FF~#008
+;0007357B{~DE~  Bw F~FF~}#014#008
+~DE~  Bw F~FF~#008
+;00073583{~DE~ CBs A~FF~}#014#008
+~DE~ CBs A~FF~#008
+;0007358B{~CC~  Br~FF~}#012#006
+~CC~  Br~FF~#006
+;00073591{~F9~~FF~}#008#002
+~F9~~FF~#002
+;00073593{~E1~ KBf~FF~}#012#006
+~E1~ KBf~FF~#006
+;00073599{~E9~~FF~}#008#002
+~E9~~FF~#002
+;0007359B{~CC~ FB:~FF~}#012#006
+~CC~ FB:~FF~#006
+;000735A1{~EC~DGe~50~DGe~92~FGe~D4~HGfVHGf~58~FGfVHGf~58~FGfVHGf~58~FGfVLGf~58~LGfVFGe~D4~DGe~92~ Ge~50~~FF~}#098#062
+~EC~DGe~50~DGe~92~FGe~D4~HGfVHGf~58~FGfVHGf~58~FGfVHGf~58~FGfVLGf~58~LGfVFGe~D4~DGe~92~ Ge~50~~FF~#062
+;000735DF{~FF~}#004#001
+~FF~#001
+;000735E0{ Gf~A2~  ~FF~}#013#007
+ Gf~A2~  ~FF~#007
+|569
+@0007A70B-0007A728-FF
+;0007A70B{ -PrBwM~C0~~83~ m~DC~~F1~ i~C1~QA~94~CLAT u7C~80~F~86~}#054#030
+ -PrBwM~C0~~83~ m~DC~~F1~ i~C1~QA~94~CLAT u7C~80~F~86~#030
+|30
+@0007B066-0007B06D-FF
+;0007B066{DATeD~C0~A~DC~}#014#008
+DATeD~C0~A~DC~#008
+|8
+@0007F58E-0007F5A9-FF
+;0007F58E{pl~C2~r 1~F0~CD~8B~~F7~CD~5E~ 4~C1~~FF~}#039#018
+pl~C2~r 1~F0~CD~8B~~F7~CD~5E~ 4~C1~~FF~#018
+;0007F5A0{FaLDA~54~~A4~~BE~ ~A4~}#022#010
+FaLDA~54~~A4~~BE~ ~A4~#010
+|28
+@00080247-0008024D-FF
+;00080247{CHAP~73~-~60~}#013#007
+CHAP~73~-~60~#007
+|7
+@00083BBA-00083BC1-FF
+;00083BBA{TArP ~F8~B~F4~}#014#008
+TArP ~F8~B~F4~#008
+|8
+@0008B2D2-0008B2E7-FF
+;0008B2D2{QX~A4~~91~~81~~83~CHATI~99~~99~~90~~AA~CA~AA~~99~~94~~98~~84~}#061#022
+QX~A4~~91~~81~~83~CHATI~99~~99~~90~~AA~CA~AA~~99~~94~~98~~84~#022
+|22
+@0008B6CE-0008B6D6-FF
+;0008B6CE{ALAr~5C~~DD~~A1~~80~~BB~}#024#009
+ALAr~5C~~DD~~A1~~80~~BB~#009
+|9
+@0008EB84-0008EB92-FF
+;0008EB84{W ~55~OpAl~54~FD~65~~55~~64~~F0~~56~}#036#015
+W ~55~OpAl~54~FD~65~~55~~64~~F0~~56~#015
+|15
+@000920A5-000920B3-FF
+;000920A5{EXAm  ~BB~~F8~~B0~ K~83~~84~D~8A~}#033#015
+EXAm  ~BB~~F8~~B0~ K~83~~84~D~8A~#015
+|15
+@00094174-0009417F-FF
+;00094174{Ag ~78~soso ~1E~A~1E~}#021#012
+Ag ~78~soso ~1E~A~1E~#012
+|12
+@00094C1C-00094C24-FF
+;00094C1C{tCHr~62~~C3~~63~~C3~~64~}#024#009
+tCHr~62~~C3~~63~~C3~~64~#009
+|9
+@00096D12-00096D18-FF
+;00096D12{eccE~EC~C~F2~}#013#007
+eccE~EC~C~F2~#007
+|7
+@00097D03-00097D0A-FF
+;00097D03{HILT~78~~A4~J~BD~}#017#008
+HILT~78~~A4~J~BD~#008
+|8
+@00098708-00098711-FF
+;00098708{DeFi~8C~~EE~~81~~CE~·~94~}#025#010
+DeFi~8C~~EE~~81~~CE~·~94~#010
+|10
+@000992C8-000992E8-FF
+;000992C8{CD~AC~~CA~~AC~FDFT: 0EDEa qe~1F~D ~AA~~BB~~81~~BC~UD~CC~~91~~88~~81~~5A~}#072#033
+CD~AC~~CA~~AC~FDFT: 0EDEa qe~1F~D ~AA~~BB~~81~~BC~UD~CC~~91~~88~~81~~5A~#033
+|33
+@000A1972-000A197C-FF
+;000A1972{BOBA~1F~ P ~FC~u~B0~}#020#011
+BOBA~1F~ P ~FC~u~B0~#011
+|11
+@000A301E-000A3025-FF
+;000A301E{B?OrD~CC~.~7D~}#014#008
+B?OrD~CC~.~7D~#008
+|8
+@000A3C73-000A3C8B-FF
+;000A3C73{KPF?Q~58~~94~~2A~W1CAt~A4~~FF~}#030#015
+KPF?Q~58~~94~~2A~W1CAt~A4~~FF~#015
+;000A3C82{2O~1E~ACyL~C4~A~57~}#019#010
+2O~1E~ACyL~C4~A~57~#010
+|25
+@000A53D9-000A53FC-FF
+;000A53D9{bee80-eu3 W~E5~!0s0ecs Sb04-3BS~1E~023~99~~8F~9~88~}#051#036
+bee80-eu3 W~E5~!0s0ecs Sb04-3BS~1E~023~99~~8F~9~88~#036
+|36
+@000A6361-000A636D-FF
+;000A6361{BY tAsK~7F~~99~~89~~7F~A~1E~}#028#013
+BY tAsK~7F~~99~~89~~7F~A~1E~#013
+|13
+@000AB21A-000AB233-FF
+;000AB21A{uHsA~55~~94~uuBA~70~COBB~84~~C2~CBuu~84~~68~~54~~84~~88~}#056#026
+uHsA~55~~94~uuBA~70~COBB~84~~C2~CBuu~84~~68~~54~~84~~88~#026
+|26
+@000B2256-000B2275-FF
+;000B2256{D4dEDf~F4~ud4~82~~F5~~84~bOuçd~B4~~EB~~C4~~54~vd ~F4~vt ~F5~u~54~}#065#032
+D4dEDf~F4~ud4~82~~F5~~84~bOuçd~B4~~EB~~C4~~54~vd ~F4~vt ~F5~u~54~#032
+|32
+@000B32EE-000B32F5-FF
+;000B32EE{CHAP~8D~-(~57~}#014#008
+CHAP~8D~-(~57~#008
+|8
+@000B8930-000B894B-FF
+;000B8930{FD1QQ3ED~D0~c22d PRED PN3B~5E~~C7~~65~~55~~60~}#046#028
+FD1QQ3ED~D0~c22d PRED PN3B~5E~~C7~~65~~55~~60~#028
+|28
+@000BCBCF-000BCBD8-FF
+;000BCBCF{ATED  F~9C~ ~AC~}#016#010
+ATED  F~9C~ ~AC~#010
+|10
+@000C2923-000C292B-FF
+;000C2923{oLDy~1E~~80~~FD~Q~C6~}#021#009
+oLDy~1E~~80~~FD~Q~C6~#009
+|9
+@000C6BFB-000C6C07-FF
+;000C6BFB{dt~A1~~A4~duet0~60~t0~E7~}#025#013
+dt~A1~~A4~duet0~60~t0~E7~#013
+|13
+@000C6E27-000C6E44-FF
+;000C6E27{InvAr~7F~~95~~CA~ue~55~~55~Rtv~55~Q4f~55~çsQQçr~84~ ,~B4~}#057#030
+InvAr~7F~~95~~CA~ue~55~~55~Rtv~55~Q4f~55~çsQQçr~84~ ,~B4~#030
+|30
+@000CB8CD-000CB8F5-FF
+;000CB8CD{d0k~84~~87~2u~84~ett~9F~~B3~~BB~~DF~BRAT .A1~64~DlDTID~5E~~BB~ UDLB~2A~A(~BB~}#077#041
+d0k~84~~87~2u~84~ett~9F~~B3~~BB~~DF~BRAT .A1~64~DlDTID~5E~~BB~ UDLB~2A~A(~BB~#041
+|41
+@000CC1EC-000CC232-FF
+;000CC1EC{t6~A4~u1TtcRe~CC~~D3~dw~B9~1 deAs~C2~t4dcQ3~66~~76~c4 ~F4~e9 ~87~~C1~ Du  K~BB~e q~85~~94~~BA~ ut~84~~63~~C2~tctDd32D~77~~63~~94~~67~~66~}#137#071
+t6~A4~u1TtcRe~CC~~D3~dw~B9~1 deAs~C2~t4dcQ3~66~~76~c4 ~F4~e9 ~87~~C1~ Du  K~BB~e q~85~~94~~BA~ ut~84~~63~~C2~tctDd32D~77~~63~~94~~67~~66~#071
+|71
+@000D0C63-000D0C7F-FF
+;000D0C63{HLFD5~BD~L?J.~81~Antu~56~tee0 Htut~84~~A4~t~AA~}#047#029
+HLFD5~BD~L?J.~81~Antu~56~tee0 Htut~84~~A4~t~AA~#029
+|29
+@000D2F54-000D2F63-FF
+;000D2F54{DArB~66~~81~~C4~~6D~uuw~64~~99~~99~~94~~64~}#043#016
+DArB~66~~81~~C4~~6D~uuw~64~~99~~99~~94~~64~#016
+|16
+@000D4750-000D4759-FF
+;000D4750{ TAXA~6B~~7F~~B4~A~94~}#022#010
+ TAXA~6B~~7F~~B4~A~94~#010
+|10
+@000D4F12-000D4F1D-FF
+;000D4F12{APEX~8D~EHSu~72~z~F8~}#021#012
+APEX~8D~EHSu~72~z~F8~#012
+|12
+@000DB260-000DB267-FF
+;000DB260{GuRuS~64~T~64~}#014#008
+GuRuS~64~T~64~#008
+|8
+@000E0DA0-000E0DA7-FF
+;000E0DA0{d=ele~7B~e~BF~}#014#008
+d=ele~7B~e~BF~#008
+|8
+@000E2929-000E2948-FF
+;000E2929{BABE ~FC~AEC ~FD~ A~FA~~F8~CNRQIEGHIOSK~FA~~F1~~F5~~F8~~F7~}#059#032
+BABE ~FC~AEC ~FD~ A~FA~~F8~CNRQIEGHIOSK~FA~~F1~~F5~~F8~~F7~#032
+|32
+@000E2C9D-000E2CDC-FF
+;000E2C9D{ DB~FA~~F6~~FA~=CHIA~F5~~EE~~EF~~F7~=BB AABDCCIJEA~FF~}#054#030
+ DB~FA~~F6~~FA~=CHIA~F5~~EE~~EF~~F7~=BB AABDCCIJEA~FF~#030
+;000E2CBB{ CA CE ~FD~CJIC=~F6~~F0~~F1~~F7~BHE =  GKJF ~F6~~F3~~F7~~FB~~FD~}#064#034
+ CA CE ~FD~CJIC=~F6~~F0~~F1~~F7~BHE =  GKJF ~F6~~F3~~F7~~FB~~FD~#034
+|64
+@000E2FF2-000E300D-FF
+;000E2FF2{ DEC ~FD~~FD~~FF~}#017#008
+ DEC ~FD~~FD~~FF~#008
+;000E2FFA{ACED ~FD~~FB~~FC~ CFHIGDA~FF~}#029#017
+ACED ~FD~~FB~~FC~ CFHIGDA~FF~#017
+;000E300B{==~FF~}#006#003
+==~FF~#003
+|28
+@000E5124-000E5130-FF
+;000E5124{== ABBA=~FD~~FD~==~FD~}#022#013
+== ABBA=~FD~~FD~==~FD~#013
+|13
+@000E5148-000E5151-FF
+;000E5148{ ABBA ~FF~}#010#007
+ ABBA ~FF~#007
+;000E514F{==~FD~}#006#003
+==~FD~#003
+|10
+@000E51FF-000E5208-FF
+;000E51FF{=HOME~FD~~F9~~FA~~F7~~F4~}#025#010
+=HOME~FD~~F9~~FA~~F7~~F4~#010
+|10
+@000E613A-000E6176-FF
+;000E613A{ CDDA =~FB~~FC~= ACDB ~FF~}#026#017
+ CDDA =~FB~~FC~= ACDB ~FF~#017
+;000E614B{~FD~~FC~~FD~  BCB  =~FC~~FD~~FF~}#032#014
+~FD~~FC~~FD~  BCB  =~FC~~FD~~FF~#014
+;000E6159{ ACCA  =~FC~=  ACA ~FF~}#023#017
+ ACCA  =~FC~=  ACA ~FF~#017
+;000E616A{~FF~}#004#001
+~FF~#001
+;000E616B{~FD~~FD~   BB ~FF~}#018#009
+~FD~~FD~   BB ~FF~#009
+;000E6174{~FF~}#004#001
+~FF~#001
+;000E6175{=~FD~}#005#002
+=~FD~#002
+|61
+@000E61C1-000E61CC-FF
+;000E61C1{= ABBA =~FD~~FD~=~FF~}#021#012
+= ABBA =~FD~~FD~=~FF~#012
+|12
+@000E69A0-000E69A8-FF
+;000E69A0{FIND~F9~~F7~=H~FA~}#018#009
+FIND~F9~~F7~=H~FA~#009
+|9
+@000E8DA0-000E8DA7-FF
+;000E8DA0{d=ele~7B~e~BF~}#014#008
+d=ele~7B~e~BF~#008
+|8
+@000E9B27-000E9B2F-FF
+;000E9B27{ABBA~FF~}#008#005
+ABBA~FF~#005
+;000E9B2C{===~FD~}#007#004
+===~FD~#004
+|9
+@000EA81C-000EA830-FF
+;000EA81C{ACCA~FF~}#008#005
+ACCA~FF~#005
+;000EA821{AQI~FA~~FD~ G GEBA ~F7~=~F9~}#028#016
+AQI~FA~~FD~ G GEBA ~F7~=~F9~#016
+|21
+@000EA99A-000EA9BB-FF
+;000EA99A{   AA  ~FD~     ABAACA  A~FF~}#029#023
+   AA  ~FD~     ABAACA  A~FF~#023
+;000EA9B1{ ABBA=~FC~~FD~~FD~~FD~~FC~}#026#011
+ ABBA=~FC~~FD~~FD~~FD~~FC~#011
+|34
+@000EAA28-000EAA42-FF
+;000EAA28{=      AA ABBA   ~FF~}#021#018
+=      AA ABBA   ~FF~#018
+;000EAA3A{~FF~}#004#001
+~FF~#001
+;000EAA3B{ABA  ~FF~}#009#006
+ABA  ~FF~#006
+;000EAA41{=~FD~}#005#002
+=~FD~#002
+|27
+@000ED22D-000ED23E-FF
+;000ED22D{=ZA~9D~~F8~~9F~~F8~=pA=PA~9D~~F8~~9F~~F8~~FD~}#045#018
+=ZA~9D~~F8~~9F~~F8~=pA=PA~9D~~F8~~9F~~F8~~FD~#018
+|18
+@000F0DA0-000F0DA7-FF
+;000F0DA0{d=ele~7B~e~BF~}#014#008
+d=ele~7B~e~BF~#008
+|8
+@000F1B24-000F1B2C-FF
+;000F1B24{ABBA~FF~}#008#005
+ABBA~FF~#005
+;000F1B29{===~FD~}#007#004
+===~FD~#004
+|9
+@000F2819-000F282D-FF
+;000F2819{ACCA~FF~}#008#005
+ACCA~FF~#005
+;000F281E{AQI~FA~~FD~ G GEBA ~F7~=~F9~}#028#016
+AQI~FA~~FD~ G GEBA ~F7~=~F9~#016
+|21
+@000F2997-000F29B8-FF
+;000F2997{   AA  ~FD~     ABAACA  A~FF~}#029#023
+   AA  ~FD~     ABAACA  A~FF~#023
+;000F29AE{ ABBA=~FC~~FD~~FD~~FD~~FC~}#026#011
+ ABBA=~FC~~FD~~FD~~FD~~FC~#011
+|34
+@000F2A25-000F2A3F-FF
+;000F2A25{=      AA ABBA   ~FF~}#021#018
+=      AA ABBA   ~FF~#018
+;000F2A37{~FF~}#004#001
+~FF~#001
+;000F2A38{ABA  ~FF~}#009#006
+ABA  ~FF~#006
+;000F2A3E{=~FD~}#005#002
+=~FD~#002
+|27
+@000F39B5-000F39BC-FF
+;000F39B5{DA=DA~F2~F~E0~}#014#008
+DA=DA~F2~F~E0~#008
+|8
+@000F8DA0-000F8DA7-FF
+;000F8DA0{d=ele~7B~e~BF~}#014#008
+d=ele~7B~e~BF~#008
+|8
+@000F9B24-000F9B2C-FF
+;000F9B24{ABBA~FF~}#008#005
+ABBA~FF~#005
+;000F9B29{===~FD~}#007#004
+===~FD~#004
+|9
+@000FA819-000FA82D-FF
+;000FA819{ACCA~FF~}#008#005
+ACCA~FF~#005
+;000FA81E{AQI~FA~~FD~ G GEBA ~F7~=~F9~}#028#016
+AQI~FA~~FD~ G GEBA ~F7~=~F9~#016
+|21
+@000FA997-000FA9B8-FF
+;000FA997{   AA  ~FD~     ABAACA  A~FF~}#029#023
+   AA  ~FD~     ABAACA  A~FF~#023
+;000FA9AE{ ABBA=~FC~~FD~~FD~~FD~~FC~}#026#011
+ ABBA=~FC~~FD~~FD~~FD~~FC~#011
+|34
+@000FAA25-000FAA3F-FF
+;000FAA25{=      AA ABBA   ~FF~}#021#018
+=      AA ABBA   ~FF~#018
+;000FAA37{~FF~}#004#001
+~FF~#001
+;000FAA38{ABA  ~FF~}#009#006
+ABA  ~FF~#006
+;000FAA3E{=~FD~}#005#002
+=~FD~#002
+|27
+@000FDE02-000FDE16-FF
+;000FDE02{ceCA~6B~ .AOqih~91~ q~60~XY~A2~V~2A~}#036#021
+ceCA~6B~ .AOqih~91~ q~60~XY~A2~V~2A~#021
+|21

@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Earnest Evans (U) [!].bin"
-set S_FILENAME="Earnest Evans (U) [!].bin"
+set T_FILENAME="TR_Earnest Evans (USA).md"
+set S_FILENAME="Earnest Evans (USA).md"
 set SCRIPTNAME="earnestevanssmd"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

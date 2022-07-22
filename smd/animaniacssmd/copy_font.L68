@@ -1,0 +1,68 @@
+00042100 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 12/04/2022 22:45:32
+
+00042100                             1      ORG    $00042100
+00042100                             2  START:                  ; first instruction of program
+00042100                             3  
+00042100                             4  * Put program code here
+00042100                             5       ;Substituted code
+00042100  4EB9 00036FAE              6       jsr $36FAE
+00042106                             7       
+00042106                             8       ;Push all registers
+00042106  48E7 FFFE                  9       movem.l A6-A0/D7-D0, -(SP) 
+0004210A                            10       
+0004210A  41F9 00C00004             11       lea VDP_CONTROL, A0
+00042110  43F9 00C00000             12       lea VDP_DATA, A1
+00042116                            13       
+00042116                            14       ;Wait for DMAs
+00042116                            15  .wait_dma
+00042116  3010                      16       move.w (A0), D0
+00042118  0200 0002                 17       andi.b #$02, D0
+0004211C  66F8                      18       bne .wait_dma
+0004211E                            19       
+0004211E                            20       ;Set VRAM Increment to 2
+0004211E  30BC 8F02                 21       move.w #$8F02, (A0)
+00042122                            22       
+00042122                            23       ;Set VRAM Location to DEST_VRAM
+00042122  20BC 76000002             24       move.l #$40000000+((DEST_VRAM&$3FFF)<<16)+((DEST_VRAM&$C000)>>14),(A0)
+00042128                            25       
+00042128                            26       ;Load W_SIZE
+00042128  303C 007F                 27       move.w  #(W_SIZE>>2)-1, D0
+0004212C                            28       
+0004212C                            29       ;Load SOURCE_68K
+0004212C  45F9 00042300             30       lea SOURCE_68K, A2
+00042132                            31       
+00042132                            32  .vramloop
+00042132  229A                      33       move.l (A2)+, (A1)
+00042134  51C8 FFFC                 34       dbra.w D0, .vramloop
+00042138                            35       
+00042138                            36       ;Restore all registers
+00042138  4CDF 7FFF                 37       movem.l (SP)+, D0-D7/A0-A6
+0004213C                            38       
+0004213C  4E75                      39       rts
+0004213E  FFFF FFFF                 40      SIMHALT             ; halt simulator
+00042142                            41  
+00042142                            42  * Put variables and constants here
+00042142  =00C00004                 43  VDP_CONTROL EQU $C00004
+00042142  =00C00000                 44  VDP_DATA EQU $C00000
+00042142  =00042300                 45  SOURCE_68K EQU $00042300
+00042142  =0000B600                 46  DEST_VRAM EQU $B600
+00042142  =00000200                 47  W_SIZE EQU $0200
+00042142                            48      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DEST_VRAM           B600
+SOURCE_68K          42300
+START               42100
+START:VRAMLOOP      42132
+START:WAIT_DMA      42116
+VDP_CONTROL         C00004
+VDP_DATA            C00000
+W_SIZE              200

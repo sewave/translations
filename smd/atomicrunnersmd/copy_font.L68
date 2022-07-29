@@ -1,0 +1,69 @@
+00007C80 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 21/04/2022 20:06:12
+
+00007C80                             1      ORG    $00007C80
+00007C80                             2  START:                  ; first instruction of program
+00007C80                             3  
+00007C80                             4  * Put program code here
+00007C80                             5       ;Substituted code
+Line 6 WARNING: Forcing SHORT addressing disables range checking of extension word
+00007C80  4EB8 0D04                  6       JSR $D04.w
+00007C84                             7   
+00007C84                             8       ;Push all registers
+00007C84  48E7 FFFE                  9       MOVEM.l A6-A0/D7-D0, -(SP) 
+00007C88                            10       
+00007C88  41F9 00C00004             11       LEA VDP_CONTROL, A0
+00007C8E  43F9 00C00000             12       LEA VDP_DATA, A1
+00007C94                            13       
+00007C94                            14       ;Wait for DMAs
+00007C94                            15  .wait_dma
+00007C94  3010                      16       move.w (A0), D0
+00007C96  0200 0002                 17       andi.b #$02, D0
+00007C9A  66F8                      18       bne .wait_dma
+00007C9C                            19       
+00007C9C                            20       ;Set VRAM Increment to 2
+00007C9C  30BC 8F02                 21       move.w #$8F02, (A0)
+00007CA0                            22       
+00007CA0                            23       ;Set VRAM Location to DEST_VRAM
+00007CA0  20BC 71800003             24       move.l #$40000000+((DEST_VRAM&$3FFF)<<16)+((DEST_VRAM&$C000)>>14),(A0)
+00007CA6                            25       
+00007CA6                            26       ;Load W_SIZE
+00007CA6  303C 003F                 27       move.w  #(W_SIZE>>2)-1, D0
+00007CAA                            28       
+00007CAA                            29       ;Load SOURCE_68K
+00007CAA  45F9 000FEB00             30       lea SOURCE_68K, A2
+00007CB0                            31       
+00007CB0                            32  .vramloop
+00007CB0  229A                      33       move.l (A2)+, (A1)
+00007CB2  51C8 FFFC                 34       DBRA.w D0, .vramloop
+00007CB6                            35       
+00007CB6                            36       ;Restore all registers
+00007CB6  4CDF 7FFF                 37       MOVEM.l (SP)+, D0-D7/A0-A6
+00007CBA                            38       
+00007CBA  4E75                      39       rts
+00007CBC  FFFF FFFF                 40      SIMHALT             ; halt simulator
+00007CC0                            41  
+00007CC0                            42  * Put variables and constants here
+00007CC0  =00C00004                 43  VDP_CONTROL EQU $C00004
+00007CC0  =00C00000                 44  VDP_DATA EQU $C00000
+00007CC0  =000FEB00                 45  SOURCE_68K EQU $000FEB00
+00007CC0  =0000F180                 46  DEST_VRAM EQU $F180
+00007CC0  =00000100                 47  W_SIZE EQU $0100
+00007CC0                            48      END    START        ; last line of source
+
+No errors detected
+1 warning generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DEST_VRAM           F180
+SOURCE_68K          FEB00
+START               7C80
+START:VRAMLOOP      7CB0
+START:WAIT_DMA      7C94
+VDP_CONTROL         C00004
+VDP_DATA            C00000
+W_SIZE              100

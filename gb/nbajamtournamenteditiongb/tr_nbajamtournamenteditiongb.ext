@@ -1,0 +1,780 @@
+@000043FD-000044A6-00
+;000043FD{  You have=  defeated~00~}#025#022
+    Has  =
+derrotado a~00~#022
+;00004413{You have not=  defeated~00~}#027#024
+     No   =
+derrotaste a~00~#024
+;0000442B{====  You have  =defeated all= of the 27= NBA teams!~00~}#056#053
+====
+Derrotaste a=
+   los 27  =
+ equipos de=
+  la NBA!  ~00~#053
+;00004460{   all 27=   teams!~00~}#023#020
+   los 27=
+ equipos!~00~#020
+;00004474{====  You have=  defeated= none of the= NBA teams!~00~}#054#051
+====
+No venciste=
+  a ningún=
+equipo de la=
+    NBA!  ~00~#051
+|170
+@000045CE-000046FC-00
+;000045CE{     Rank:   ==     Record.=   000W :   L=   Pct : 0.000= Streak000 Wins.==    Password:=      ABCDE=      FGHIJ=  Next Opponent=                ~00~}#149#146
+    Rango:   ==
+     Récord.=
+   000G :   P=   Pct : 0.000=
+ Racha 000 Gana.==
+     Clave:  =      ABCDE=      FGHIJ=
+  Sig. Oponente=                ~00~#146
+;00004660{NO RECORD~00~}#013#010
+NO RÉCORD~00~#010
+;0000466A{~7C~  ENTER== INITIALS==FOR RECORD== KEEPING7~00~}#049#043
+  ENTRAR==~7C~INICIALES== PARA LOS== RÉCORDS7~00~#043
+;00004695{~7C~   YES===    NO~00~}#023#017
+    SÍ ===    NO~00~#017
+;000046A6{ABCDEFG===HIJKLMN===OPQRSTU===VWXYZ89~00~}#041#038
+ABCDEFG===HIJKLMN===OPQRSTU===VWXYZ89~00~#038
+;000046CC{BCDFGHJ===KLNPQRT===VWXYZ12===3456790~00~}#041#038
+BCDFGHJ===KLNPQRT===VWXYZ12===3456790~00~#038
+;000046F2{no  record~00~}#014#011
+sin récord~00~#011
+|303
+@00004888-00004892-00
+;00004888{GAME==OVER~00~}#014#011
+FIN==JUEGO~00~#011
+|11
+@000049C6-00004DC6-00
+;000049C6{   SUBSTITUTIONS:~00~}#021#018
+   SUSTITUCIONES:~00~#018
+;000049D8{Some players may=become  fatigued=during the game.=Try substituting=those players with=fresh players at=end of quarters.~00~}#124#121
+Algunos jugadores=
+pueden fatigarse=
+durante el=
+partido. Intenta=
+sustituir a esos=
+jugadores al final=
+de los cuartos.=
+     ~00~#121
+;00004A51{    SUPER DUNKS:~00~}#020#017
+    SÚPER MATES:~00~#017
+;00004A62{Press the TURBO=and SHOOT buttons=while running=toward the basket.=Remember, some=players have more=spectacular dunks=than others!~00~}#134#131
+Pulsa los botones=
+TURBO y TIRO=
+mientras corres=
+hacia la canasta.=
+Recuerda, algunos=
+jugadores tienen=
+mates más=
+espectaculares!=
+    ~00~#131
+;00004AE5{    HEAD FAKES:~00~}#019#016
+      FINTAS:  ~00~#016
+;00004AF5{Tap the SHOOT=button once.=However, this also=causes you to pick=up your dribble.=Try faking out CPU=Drones!~00~}#112#109
+Pulsa TIRO una=
+vez.=
+Sin embargo, esto=
+también hace que=
+recojas tu drible.=
+Intenta engañar a=
+los drones!     ~00~#109
+;00004B62{  JUMP SHOT PASS:~00~}#021#018
+   PASE EN SALTO:~00~#018
+;00004B74{Press and hold the=SHOOT button, then=press the PASS=button. This allows=you to dish off to=your open teammate.=This is most=effective=when you are about=to be rejected!~00~}#173#170
+Pulsa y mantén el=
+botón de TIRO,=
+luego pulsa el=
+botón de PASE.=
+Esto te permite=
+hacer una bandeja=
+a tu compañero=
+solo. Esto es más=
+efectivo cuando=
+vas a ser=
+rechazado!   ~00~#170
+;00004C1E{ ACCURATE JUMP SHOT:~00~}#024#021
+PASE SALTO PRECISO: ~00~#021
+;00004C33{Increase the=chances of a jump=shot going in by=releasing the SHOOT=button at the peak=of your jump. Avoid=being rejected by=holding on to the=ball until defender=is out of position.~00~}#186#183
+Incrementa la=
+probabilidad de un=
+tiro en salto=
+soltando el botón=
+de TIRO en la cima=
+de tu salto. Evita=
+ser rechazado=
+agarrándote a la=
+bola hasta que el=
+defensor pierda la=
+posición.  ~00~#183
+;00004CEA{  BURST OF SPEED:~00~}#021#018
+   RÁFAGA VELOZ: ~00~#018
+;00004CFC{Avoid pesky=defenders and=increase the speed=of your player by=holding down the=TURBO button.~00~}#097#094
+Evita a molestos=
+defensores e=
+incrementa tu=
+velocidad=
+manteniendo el=
+botón de TURBO.=
+        ~00~#094
+;00004D5A{   PHYSICAL PLAY:~00~}#021#018
+   JUEGO FÍSICO: ~00~#018
+;00004D6C{Clear an opponent=out of the way by=pressing the TURBO=and STEAL buttons=at the same time.~00~}#094#091
+Saca a un oponente=
+de tu camino=
+pulsando los=
+botones de TURBO y=
+de ROBAR a la vez.=
+       ~00~#091
+|1025
+@00004DC7-000051EA-00
+;00004DC7{    CLEAR OUT:~00~}#018#015
+   PROTECCIÓN:~00~#015
+;00004DD6{When holding the=ball, quickly tap=the TURBO button.=This will cause=the player to=protect the ball.~00~}#104#101
+Cuando sostengas=
+la bola, pulsa=
+rápido el botón de=
+TURBO. Esto hará=
+que el jugador=
+proteja la bola. ~00~#101
+;00004E3B{    TURBO PASS:~00~}#019#016
+    TURBO PASE:~00~#016
+;00004E4B{Press the TURBO=and PASS buttons=at the same time=for a turbo pass.=Turbo passes are=less likely to be=intercepted by the=defense.~00~}#134#131
+Pulsa los botones=
+de TURBO y de PASE=
+a la vez para un=
+turbo pase. Los=
+turbo pases son=
+más difíciles de=
+interceptar por la=
+defensa.~00~#131
+;00004ECE{    SUPER JUMPS:~00~}#020#017
+   SÚPER SALTOS:~00~#017
+;00004EDF{Jump extra high=when shooting,=blocking, or=rebounding by=pressing the TURBO=and SHOOT buttons=at the same time.~00~}#116#113
+Salta extra alto=
+al tirar, bloquear=
+o en un rebote=
+pulsando los=
+botones de TURBO y=
+de PASE a la vez.=
+           ~00~#113
+;00004F50{     DUNK PASS:~00~}#019#016
+     PASE MATE:~00~#016
+;00004F60{To avoid having=your dunk blocked,=pass off to your=open teammate.=This is most=effective when=your teammate is=open for a three=point attempt!~00~}#147#144
+Para evitar que=
+bloqueen tu mate,=
+pasa a tu=
+compañero libre.=
+Esto es más=
+efectivo cuando tu=
+compañero está=
+libre para=
+intentar un tiro=
+de tres!~00~#144
+;00004FF0{  COURT AWARENESS:~00~}#022#019
+  VISTA DE PISTA: ~00~#019
+;00005003{Locate a player's=position when he=is off screen by=watching for his=arrow.  Try to=anticipate his=moves. When off=screen, try to=stay away from=opposing players.~00~}#166#163
+Ubica la posición=
+del jugador cuando=
+esté fuera de=
+pantalla buscando=
+su flecha. Intenta=
+anticipar sus=
+movimientos.=
+Estando fuera,=
+intenta alejarte=
+de los rivales.~00~#163
+;000050A6{    SMART PLAY:~00~}#019#016
+    BUEN JUEGO:~00~#016
+;000050B6{An open player is=more likely to=make a basket, so=pass to your open=teammate whenever=possible! Try to=anticipate your=opponent's next=move before he=makes it!~00~}#164#161
+Un jugador libre=
+es más propenso a=
+encestar, así que=
+pásale a tu=
+compañero libre=
+cuando puedas!=
+Intenta anticipar=
+el próximo=
+movimiento del=
+rival antes!=
+       ~00~#161
+;00005157{  SECRET POWERUPS:~00~}#022#019
+  MEJORA SECRETA: ~00~#019
+;0000516A{Ball Players can=be powered up with=super human=abilities.  Try=special control=pad/button moves=during the team=matchup screen!~00~}#132#129
+Los jugadores de=
+bola pueden=
+mejorar con=
+habilidades=
+superhumanas.=
+Prueba el pad y=
+los botones en la=
+pantalla de=
+encuentro!     ~00~#129
+|1060
+@000051EB-0000561A-00
+;000051EB{    HOT STREAK:~00~}#019#016
+    RACHA CAL.:~00~#016
+;000051FB{When a player gets=3 consecutive=buckets, he is on=fire!=When a player goes=on a Hot Streak,=give him the ball!=He remains hot for=4 baskets, or=until the other=team scores.~00~}#177#174
+Cuando un jugador=
+encesta 3 veces=
+seguidas, está en=
+llamas!=
+El jugador entra=
+en Racha Caliente,=
+dale la bola!=
+Permanece caliente=
+4 canastas o hasta=
+que el otro equipo=
+anote.~00~#174
+;000052A9{  STRONG DEFENSE:~00~}#021#018
+  DEFENSA FUERTE:~00~#018
+;000052BB{Decrease the chance=of an opponent's=shot going in the=basket by getting=in close to your=opponent.=Try to steal the=ball!~00~}#126#123
+Baja la=
+probabilidad de=
+que el tiro de tu=
+oponente entre en=
+la canasta=
+acercándote a él.=
+Intenta robar la=
+bola!           ~00~#123
+;00005336{  DRONE CONTROL:~00~}#020#017
+   CONTROL DRON:~00~#017
+;00005347{Cause a teammate=controlled by the=CPU to shoot or=pass by pressing=your own SHOOT or=PASS buttons.=Pass to your drone=when he is under=the hoop for a=quick dunk.~00~}#166#163
+Causa que un=
+compañero=
+controlado por la=
+CPU tire o pase=
+pulsando tus=
+propios botones de=
+TIRO o PASE. Pasa=
+a tu dron cuando=
+esté bajo el aro=
+para un mate=
+rápido. ~00~#163
+;000053EA{ SMART TURBO USAGE:~00~}#023#020
+  USO TURBO LISTO: ~00~#020
+;000053FE{The amount of turbo=remaining is=displayed at the=top of the screen.=All turbo actions=deplete this amount,=so conserve just=enough for that all=important next move!~00~}#169#166
+La cantidad de=
+turbo restante se=
+muestra en la=
+parte superior de=
+la pantalla.=
+Todas las acciones=
+turbo la agotan,=
+así que guárdala=
+para un momento=
+importante!=
+      ~00~#166
+;000054A4{ POWER ATTRIBUTE:~00~}#021#018
+  ATRIBUTO PODER:~00~#018
+;000054B6{The greater a=player's Power=rating,the harder=it is to knock him=out or to block=his dunks.  Try to=Avoid size=mismatches.=Remember, that=strong guys are=usually weak=outsiders.~00~}#182#179
+Cuantos más puntos=
+en Poder, más=
+difícil es=
+derribarlo o=
+bloquear sus=
+mates.=
+Intenta evitar=
+equivocaciones de=
+tamaño.=
+Recuerda, los=
+chicos fuertes=
+suelen ser malos=
+por fuera.    ~00~#179
+;00005569{ PASSING ATTRIBUTE:~00~}#023#020
+   ATRIBUTO PASE:  ~00~#020
+;0000557D{The greater a=player's Pass=rating,the faster=he passes. It is=more difficult to=intercept a quick=pass than a slow=pass. You should=always try a turbo=pass!~00~}#161#158
+Cuantos más puntos=
+de Pase, más=
+rápidos son los=
+pases. Es más=
+difícil=
+interceptar un=
+pase rápido que=
+uno lento. Siempre=
+deberías intentar=
+un turbo pase!=
+    ~00~#158
+|1072
+@0000561B-00005A46-00
+;0000561B{ BLOCKING ATTRIBUTE:~00~}#024#021
+ ATRIBUTO BLOQUEO:  ~00~#021
+;00005630{The greater a=player's block=rating, the better=he is at blocking=dunks and regular=jump shots. It is=also harder for=someone to drive=by him for a dunk.~00~}#157#154
+Cuantos más puntos=
+en bloqueo, mejor=
+es bloqueando=
+mates y tiros=
+normales en salto.=
+También es más=
+difícil que=
+alguien le pase=
+para hacer un=
+mate.       ~00~#154
+;000056CA{  STEAL ATTRIBUTE:~00~}#022#019
+   ATRIBUTO ROBO: ~00~#019
+;000056DD{The greater a=player's steal=rating, the more=effective his=swiping becomes.=He will also=intercept more=passes. Smaller,=quicker players=are very skilled=at taking the ball.~00~}#178#175
+Cuantos más puntos=
+en robo, más=
+efectivo se vuelve=
+su barrido.=
+También=
+interceptará más=
+pases. Los=
+jugadores más=
+pequeños y rápidos=
+son muy=
+habilidosos=
+tomando la bola.=
+     ~00~#175
+;0000578C{  DUNK ATTRIBUTE:~00~}#021#018
+   ATRIBUTO MATE:~00~#018
+;0000579E{The greater a=player's dunk=rating, the more=spectacular his=dunks. A player=with a zero dunk=rating will perform=just layups. Layups=are generally less=successful than=dunks.~00~}#179#176
+Cuantos más puntos=
+en mate, más=
+espectaculares=
+son.=
+Un jugador con=
+cero ratio de mate=
+solo realizará=
+bandejas.=
+Las bandejas son=
+normalmente menos=
+efectivas que los=
+mates.     ~00~#176
+;0000584E{  SPEED ATTRIBUTE:~00~}#022#019
+  ATRIBUTO PRISA: ~00~#019
+;00005861{The greater a=player's speed=rating, the faster=he moves. Usually,=the faster players=are less powerful=and therefore get=pushed down more.=Match speed against=speed.~00~}#170#167
+Cuantos más puntos=
+en velocidad, más=
+rápido se mueve el=
+jugador. Los más=
+rápidos son menos=
+poderosos y por=
+ello son=
+derribados más a=
+menudo.=
+Combate prisa con=
+prisa. ~00~#167
+;00005908{ CLUTCH ATTRIBUTE:~00~}#022#019
+  ATRIBUTO AGARRE:~00~#019
+;0000591B{The greater a=player's clutch=rating, the more=chance that he will=make a great play=during the last 10=seconds of any=period.~00~}#130#127
+Cuantos más puntos=
+en agarre, más=
+probabilidades=
+tendrá de jugar=
+mejor durante los=
+10 últimos=
+segundos de=
+cualquier periodo.=
+ ~00~#127
+;0000599A{    STATS PAGES:~00~}#020#017
+   ESTADÍSTICAS:~00~#017
+;000059AB{On the stats page,=the steals category=includes slap aways=and clear outs of=ball carrier.=The injured=category shows how=many times you were=cleared away!~00~}#159#156
+En las=
+estadísticas, la=
+categoría de robos=
+incluye bofetadas=
+y despeje del=
+portador. La=
+categoría de=
+heridos muestra=
+cuantas veces=
+fuiste rechazado!=
+      ~00~#156
+|1068
+@00005A47-00005B01-00
+;00005A47{ PLAYER ATTRIBUTES:~00~}#023#020
+ ATRIBUTOS JUGADOR:~00~#020
+;00005A5B{For maximum success=pay attention to=your player's=strengths and=weaknesses.  Play=big guys near the=hoop, and small=guys outside.=Big guys are poor=3 point shooters!~00~}#170#167
+Para un mayor=
+éxito presta=
+atención a las=
+fortalezas y=
+debilidades de tus=
+jugadores. Juega=
+con grandotes=
+cerca del aro y=
+chiquitos fuera.=
+Los grandes tiran=
+peor de 3!~00~#167
+|187
+@00007240-000074A5-00
+;00007240{      OPTIONS:~00~}#018#015
+     OPCIONES:~00~#015
+;0000724F{===TIMER SPEED:==DRONE SKILL:==   TAG MODE:==CPU ASSISTANCE:== CONTROLLER CONFIG==   SHOOT :=    PASS :=   TURBO :==   FEATURES MENU~00~}#136#133
+===
+VEL. TIEMPO:==
+  HABILIDAD:==
+     PAREJA:==
+ AYUDA CONSOLA:==
+ CONTROLES    ==
+    TIRO :=
+    PASE :=
+   TURBO :==
+   MENÚ CARACTE.    ~00~#133
+;000072D4{1(SLOW)~00~}#011#008
+1(LNTO)~00~#008
+;000072DC{2      ~00~}#011#008
+2      ~00~#008
+;000072E4{3(NORM)~00~}#011#008
+3(NORM)~00~#008
+;000072EC{4      ~00~}#011#008
+4      ~00~#008
+;000072F4{5(FAST)1(EASY)~00~}#018#015
+5(RPDO)
+1(LEVE)~00~#015
+;00007303{2      ~00~}#011#008
+2      ~00~#008
+;0000730B{3(NORM)~00~}#011#008
+3(NORM)~00~#008
+;00007313{4      ~00~}#011#008
+4      ~00~#008
+;0000731B{5(HARD)~00~}#011#008
+5(DURO)~00~#008
+;00007323{OFF~00~}#007#004
+NO ~00~#004
+;00007327{ON ~00~}#007#004
+SÍ ~00~#004
+;0000732B{BUT B (1)=BUT A=START~00~}#025#022
+BTN B (1)=BTN A=START~00~#022
+;00007341{BUT A (2)=START=BUT B~00~}#025#022
+BTN A (2)=START=BTN B~00~#022
+;00007357{START (3)=BUT B=BUT A~00~}#025#022
+START (3)=BTN B=BTN A~00~#022
+;0000736D{BUT B (4)=START=BUT A~00~}#025#022
+BTN B (4)=START=BTN A~00~#022
+;00007383{BUT A (5)=BUT B=START~00~}#025#022
+BTN A (5)=BTN B=START~00~#022
+;00007399{START (6)=BUT A=BUT B~00~}#025#022
+START (6)=BTN A=BTN B~00~#022
+;000073AF{05~00~}#006#003
+05~00~#003
+;000073B2{06~00~}#006#003
+06~00~#003
+;000073B5{07~00~}#006#003
+07~00~#003
+;000073B8{08~00~}#006#003
+08~00~#003
+;000073BB{09~00~}#006#003
+09~00~#003
+;000073BE{10~00~}#006#003
+10~00~#003
+;000073C1{11~00~}#006#003
+11~00~#003
+;000073C4{12~00~}#006#003
+12~00~#003
+;000073C7{13~00~}#006#003
+13~00~#003
+;000073CA{14~00~}#006#003
+14~00~#003
+;000073CD{15~00~}#006#003
+15~00~#003
+;000073D0{16~00~}#006#003
+16~00~#003
+;000073D3{17~00~}#006#003
+17~00~#003
+;000073D6{18~00~}#006#003
+18~00~#003
+;000073D9{19~00~}#006#003
+19~00~#003
+;000073DC{20~00~}#006#003
+20~00~#003
+;000073DF{21~00~}#006#003
+21~00~#003
+;000073E2{22~00~}#006#003
+22~00~#003
+;000073E5{23~00~}#006#003
+23~00~#003
+;000073E8{24~00~}#006#003
+24~00~#003
+;000073EB{1~00~}#005#002
+1~00~#002
+;000073ED{2~00~}#005#002
+2~00~#002
+;000073EF{3~00~}#005#002
+3~00~#002
+;000073F1{OFF~00~}#007#004
+OFF~00~#004
+;000073F5{X1 ~00~}#007#004
+X1 ~00~#004
+;000073F9{X2 ~00~}#007#004
+X2 ~00~#004
+;000073FD{X3 ~00~}#007#004
+X3 ~00~#004
+;00007401{X4 ~00~}#007#004
+X4 ~00~#004
+;00007405{   FEATURES MENU:~00~}#021#018
+   MENÚ CARACTE.:~00~#018
+;00007417{===TOURNAMENT MODE: == SHOT CLOCK 00 SECS== OVERTIME 1 MINUTES==   HOT SPOTS:== POWERUP ICONS:==  JUICE MODE:==  GAME MUSIC:==    OPTIONS MENU~00~}#146#143
+===
+    MODO TORNEO: ==
+ RELOJ TIRO 00 SEG ==
+ PRÓRROGA 1 MINUTOS==
+   Z.CALIEN.:==
+ ICONOS MEJORA:==
+   MODO JUGO:==
+  MÚS. JUEGO:==
+    MEN.OPCIONES~00~#143
+|614
+@00019D95-0001A0FE-00
+;00019D95{=      NBA JAM™=TOURNAMENT EDITION™===  ©1993,1994,1995=       MIDWAY®=   MANUFACTURING=      COMPANY.==  THE NBA AND NBA=TEAM TRADEMARKS USED=  HEREIN ARE USED= UNDER LICENSE FROM=NBA PROPERTIES, INC.~00~}#205#202
+=
+      NBA JAM™=
+TOURNAMENT EDITION™===
+  ©1993,1994,1995=
+       MIDWAY®=
+   MANUFACTURING=
+      COMPANY.==
+LA NBA Y LAS MARCAS=
+DE LOS EQUIPOS DE LA=
+NBA SON USADOS BAJO=
+  LICENCIA DE NBA=
+  PROPERTIES, INC.~00~#202
+;00019E5F{= NBA JAM SESSION IS=  TRADEMARKED AND=    OWNED BY NBA=   PROPERTIES, INC.=ALL RIGHTS RESERVED.==   ©1995 ACCLAIM= ENTERTAINMENT,INC.==   PROGRAMMED BY=    TORUS GAMES==    LICENSED BY=      NINTENDO~00~}#204#201
+=
+ NBA JAM SESSION ES=
+    UNA MARCA Y=
+  PROPIEDAD DE NBA=
+   PROPERTIES,INC. =
+DERECHOS RESERVADOS.==
+   ©1995 ACCLAIM=
+ ENTERTAINMENT,INC.==
+    PROGRAMA POR=
+    TORUS GAMES==
+    LICENCIA DE=
+      NINTENDO~00~#201
+;00019F28{=    THE NBA AND=   INDIVIDUAL NBA=    MEMBER TEAM=IDENTIFICATIONS USED=   ON OR IN THIS=    PRODUCT ARE=    TRADEMARKS,=COPYRIGHTED DESIGNS= AND OTHER FORMS OF=    INTELLECTUAL=    PROPERTY OF=NBA PROPERTIES, INC.===     ©1995 NBA=  PROPERTIES, INC.=ALL RIGHTS RESERVED.~00~}#275#272
+=
+    LA NBA Y LAS=
+  IDENTIFICACIONES=
+  INDIVIDUALES DE=
+MIEMBROS DE EQUIPOS=
+EN ESTE PRODUCTO SON=
+MARCAS COMERCIALES,=
+    DISEÑOS CON=
+ COPYRIGHT Y OTRAS=
+FORMAS DE PROPIEDAD=
+ INTELECTUAL DE NBA=
+  PROPERTIES,INC. ===
+     ©1995 NBA     =
+  PROPERTIES,INC. =
+DERECHOS RESERVADOS.~00~#272
+;0001A038{= AND THE RESPECTIVE=MEMBER TEAMS AND MAY=NOT BE USED IN WHOLE= OR IN PART WITHOUT= THE PRIOR WRITTEN=     CONSENT OF=NBA PROPERTIES,INC.========     ©1995 NBA=  PROPERTIES,INC.=ALL RIGHTS RESERVED.~00~}#202#199
+=
+ Y LOS RESPECTIVOS=
+ EQUIPOS MIEMBRO NO=
+ PUEDEN SER USADOS=
+       SIN EL=
+   CONSENTIMIENTO      =
+ ESCRITO PREVIO DE=
+NBA PROPERTIES,INC. ========
+     ©1995 NBA=
+  PROPERTIES,INC. =
+DERECHOS RESERVADOS.~00~#199
+|874
+@0001A422-0001A80F-FF
+;0001A422{ Tournament Edition~00~     Features:~00~~00~~00~~00~Updated team rosters~00~  with at least 3~00~ players from each~00~ team.  25% of NBA~00~   now included!~00~~00~~00~~FE~~FD~~00~ Player attributes~00~ for Power, Blocks,~00~ Steals, Clutch and~00~      Passing.~00~~00~~00~~FE~~FD~~00~ Substitution. This~00~ allows players to~00~   solve matchup~00~     problems.~00~~00~~00~~FE~~FD~~00~ Improved gameplay~00~with faster movement~00~   more realistic~00~situations, and more~00~       depth.~00~~00~~00~~FE~~FD~~00~  More dunks, more~00~  secret powerups,~00~more special moves,~00~    more skill!~00~~00~~00~~FE~~FD~~00~Super star matchups~00~and other surprises~00~ if you can defeat~00~   all 27 teams.~00~~00~~00~~FE~~FD~~00~  Tournament mode~00~   turns off all~00~    powerups and~00~disallows any hidden~00~     features.~00~~00~~00~~FE~~FD~~00~Practice mode allows~00~   you to develop~00~your jamming skills~00~   without pesky~00~     defenders.~00~~00~~00~~FE~~FD~~00~ Hot Spots and Icon~00~Play put a whole new~00~ spin on the game.~00~~00~~00~~FE~~FD~~00~ Tag mode lets you~00~ fully control the~00~ teammate who has~00~     the ball.~00~~00~~00~~FE~~FD~~00~ Juice Mode - Feel~00~the need for speed?~00~ Four settings let~00~ you tune the speed~00~of play from mild to~00~       wild!~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~FF~}#1357#1006
+Características de~00~
+Tournament Edition:~00~~00~~00~~00~~FE~~FD~
+Equipos actualizados~00~
+con al menos 3~00~
+jugadores de cada ~00~
+equipo. 25% de la~00~
+NBA ahora incluida!~00~~00~~00~~00~~FE~~FD~
+Atributos de jugador~00~
+para Poder,~00~
+Bloqueos, Robos,~00~
+Agarres y Pases.~00~~00~~00~~00~~FE~~FD~
+Sustitución. Esto~00~
+permite a los~00~
+jugadores resolver~00~
+problemas de~00~
+emparejamientos.~00~~00~~00~~00~~FE~~FD~
+Jugabilidad mejorada~00~
+Con movimiento más~00~
+rápido, situaciones~00~
+más realistas y más~00~
+profundidad.~00~~00~~00~~00~~FE~~FD~
+Más mates, más~00~
+mejoras secretas,~00~
+más movimientos~00~
+especiales, más~00~
+habilidades!~00~~00~~00~~00~~FE~~FD~
+Partidos Estrellas y~00~
+otras sorpresas si~00~
+puede vencer a los~00~
+27 equipos.~00~~00~~00~~00~~FE~~FD~
+Modo torneo~00~
+desactiva todas las~00~
+mejoras y no permite~00~
+ninguna~00~
+característica~00~
+oculta.~00~~00~~00~~00~~FE~~FD~
+El modo práctica te~00~
+permite desarrollar~00~
+tus habilidades sin~00~
+los molestos~00~
+defensores.~00~~00~~00~~00~~FE~~FD~
+Las Zonas Calientes y~00~
+los Iconos le dan un~00~
+giro al juego.  ~00~~00~~00~~00~~FE~~FD~
+El modo Pareja te~00~
+permite controlar~00~
+por completo al~00~
+jugador con la bola.~00~~00~~00~~00~~FE~~FD~
+Modo Jugo - Sientes~00~
+necesidad de prisa?~00~
+Cuatro ajustes te~00~
+permiten elegir la~00~
+velocidad del juego~00~
+de leve a salvaje! ~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~FF~#1006
+|1006
+@0001A838-0001AA4A-FF
+;0001A838{     ATTENTION~00~    BALLPLAYERS:~00~~00~~00~DO YOU THINK YOU'VE~00~CONQUERED NBA JAM?~00~~00~~00~ WE DON'T THINK SO.~00~~00~~00~  THIS NEW EDITION~00~    WILL PROVE:~00~~00~~00~IT WASN'T THE SHOES.~00~NOW YOU NEED SKILLS!~00~~00~~00~  WE WOULD LIKE TO~00~ AWARD THE NBA JAM~00~ TOURNAMENT TROPHY.~00~~00~~00~   FIRST YOU MUST~00~ DEFEAT ALL 27 NBA~00~       TEAMS.~00~~00~~00~  DEFEATING ALL 27~00~TEAMS WILL ALLOW YOU~00~  TO BE MATCHED UP~00~ AGAINST SUPER STAR~00~ AND SPECIAL TEAMS~00~ THAT WILL SHOW NO~00~       MERCY!~00~~00~~00~ ARE YOU UP FOR THE~00~ NBA JAM TOURNAMENT~00~ EDITION CHALLENGE?~00~~00~~00~  STEP UP AND SHOW~00~    SOME SKILL.~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~FF~}#696#531
+ATENCIÓN~00~
+BALONCESTEROS:~00~~00~~00~
+CREÉIS HABER~00~
+CONQUISTADO NBA JAM?~00~~00~~00~
+NOSOTROS NO.~00~~00~~00~
+ESTA NUEVA EDICIÓN~00~
+DEMOSTRARÁ:~00~~00~~00~
+NO ERAN LAS~00~
+ZAPATILLAS.~00~
+NECESITAS HABILIDAD!~00~~00~~00~
+NOS GUSTARÍA OTORGAR~00~
+EL TROFEO DEL TORNEO~00~
+DE NBA JAM.~00~~00~~00~
+PRIMERO DEBES VENCER~00~
+A LOS 27 EQUIPOS DE~00~
+LA NBA.~00~~00~~00~
+VENCER A LOS 27~00~
+EQUIPOS TE PERMITIRÁ~00~
+ENFRENTARTE CONTRA~00~
+SÚPER ESTRELLAS Y~00~
+EQUIPOS ESPECIALES~00~
+QUE NO TE MOSTRARÁN~00~
+PIEDAD!~00~~00~~00~
+ESTÁS LISTO PARA EL~00~
+DESAFÍO DE NBA JAM~00~
+TORNAMENT EDITION?~00~~00~~00~
+DA UN PASO ADELANTE~00~
+Y MUESTRA HABILIDAD.~00~
+               ~00~
+                ~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~FF~#531
+|531
+@0001AA4B-0001B0D8-FF
+;0001AA4B{~00~~00~~00~~00~  CONGRATULATIONS!~00~~00~~00~~00~ You have defeated  ~00~ all 27 NBA teams!  ~00~~00~~00~~00~~00~~00~~00~~00~~00~  You are the new~00~      NBA JAM~00~ TOURNAMENT EDITION~00~  GRAND CHAMPION!~00~~00~~00~~00~~00~~00~~00~~00~~00~     You are an~00~ incredible player~00~and one of the best~00~NBA JAM stars of all~00~       time!~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~However, this is an~00~ACCLAIM game!  Which~00~means that there is~00~   yet a greater~00~ challenge awaiting~00~        you!~00~~00~     Play on...~00~~00~~00~~00~~00~~00~~00~~00~~00~   Thank you for~00~  playing NBA JAM~00~Tournament Edition!~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~      NBA  JAM~00~Tournament Edition!~00~~00~~00~~00~~00~~00~~00~    Developed by~00~    Torus Games!~00~~00~~00~    Programmers~00~~00~   David Theodore~00~   Bill McIntosh~00~~00~~00~~00~~00~~00~~00~      Artwork~00~~00~     Simon Hart~00~~00~~00~~00~~00~~00~~00~ Acclaim White Team~00~   From Downtown!~00~~00~~00~~00~~00~~00~~00~      Producer~00~~00~   Dan  Feinstein~00~ Come back Rodan...~00~  All is forgiven!~00~~00~~00~~00~~00~~00~~00~ Associate Producer~00~~00~  Mark Thienvanich~00~   Sorry I'm late~00~~00~~00~~00~~00~~00~~00~    Support Team~00~~00~ Seth W. Rosenfeld~00~  Vazac's Tonight?~00~~00~~00~~00~~00~~00~~00~     Nat Gunter~00~  I love Sea Cliff~00~~00~~00~~00~~00~~00~~00~Shawn 'BIGFUN' Rosen~00~  I have a theory~00~~00~~00~~00~~00~~00~~00~   Asif  Chaudhri~00~ Rev it to 4000 RPM~00~and dump the clutch.~00~~00~~00~~00~~00~~00~~00~     Brett  Gow~00~That which does not~00~  kill me makes me~00~     stronger.~00~~00~~00~~00~~00~~00~~00~ Elizabeth Burgess~00~     Yes I am...~00~~00~~00~~00~~00~~00~~00~       QA Team~00~~00~     'REJECTED'~00~  ~00~  Carol Caracciolo~00~   Adam Ingberman~00~    Paul Lindsay~00~    Dale Taylor~00~    Joe Allocco~00~~00~~00~~00~~00~~00~~00~   Special Thanks~00~~00~   Jason Forrest~00~ But can you go to~00~     your left?~00~~00~~00~~00~~00~~00~~00~  Bernie Fischbach~00~That's why you make~00~   the big buck's~00~~00~~00~~00~~00~~00~~00~    Bob Lieberman~00~ Buy a mercedes and~00~move to the valley..~00~~00~~00~~00~~00~~00~~00~   Mark,Sal,Jamie~00~   and the entire~00~    MIDWAY TEAM.~00~   Quick! Gimme a~00~      quarter.~00~~00~~00~~00~~00~~00~~00~    Greg Lassen~00~NBA Properties,Inc.~00~ What part of 'NO'~00~     don't you~00~    understand?~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~FF~}#2491#1678
+~00~~00~~00~~00~
+    FELICIDADES!~00~~00~~00~~00~
+Has derrotado a los~00~
+27 equipos de la~00~
+NBA!~00~~00~~00~~00~~00~~00~~00~~00~~00~
+Eres el nuevo GRAN~00~
+CAMPEÓN de NBA JAM~00~
+TOURNAMENT EDITION!~00~~00~~00~~00~~00~~00~~00~~00~~00~
+Eres un jugador~00~
+increíble y una de~00~
+las mejores~00~
+estrellas de la NBA~00~
+de todos los~00~
+tiempos!~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~
+Sin embargo, este es~00~
+un juego de ACCLAIM!~00~
+Lo que significa que~00~
+Hay un desafío aún~00~
+mayor esperándote!~00~~00~
+A jugar...~00~~00~~00~~00~~00~~00~~00~~00~~00~
+Gracias por jugar a~00~
+NBA  JAM~00~
+Tournament Edition!~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~
+      NBA  JAM~00~
+Tournament Edition!~00~~00~~00~~00~~00~~00~~00~
+  Desarrollado por~00~
+    Torus Games!~00~~00~~00~
+   Programadores~00~~00~
+   David Theodore~00~
+   Bill McIntosh~00~~00~~00~~00~~00~~00~~00~
+        Arte~00~~00~
+     Simon Hart~00~~00~~00~~00~~00~~00~~00~
+ Acclaim White Team~00~
+    Del  Centro!~00~~00~~00~~00~~00~~00~~00~
+     Productor~00~~00~
+   Dan  Feinstein~00~
+  Vuelve  Rodan...~00~
+ Todo es perdonado!~00~~00~~00~~00~~00~~00~~00~
+ Productor Asociado~00~~00~
+  Mark Thienvanich~00~
+ Perdón  por llegar~00~
+       tarde~00~~00~~00~~00~~00~~00~~00~
+ Equipo de  Soporte~00~~00~
+ Seth W. Rosenfeld~00~
+ Vazac Esta  Noche?~00~~00~~00~~00~~00~~00~~00~
+     Nat Gunter~00~
+Amo Los  Acantilados~00~~00~~00~~00~~00~~00~~00~
+Shawn 'BIGFUN' Rosen~00~
+  Tengo una teoría~00~~00~~00~~00~~00~~00~~00~
+   Asif  Chaudhri~00~
+Súbelo a  4000 RPM y~00~
+suelta el  embrague.~00~~00~~00~~00~~00~~00~~00~
+     Brett  Gow~00~
+Lo que no me mata me~00~
+  hace más fuerte.~00~~00~~00~~00~~00~~00~~00~
+ Elizabeth Burgess~00~
+  Sí,  lo soy...~00~~00~~00~~00~~00~~00~~00~
+     Equipo  GC~00~~00~
+    'RECHAZADO'~00~  ~00~
+  Carol Caracciolo~00~
+   Adam Ingberman~00~
+    Paul Lindsay~00~
+    Dale Taylor~00~
+    Joe Allocco~00~~00~~00~~00~~00~~00~~00~
+ Gracias Especiales~00~~00~
+   Jason Forrest~00~
+Pero puedes ir hacia~00~
+   tu  izquierda?~00~~00~~00~~00~~00~~00~~00~
+  Bernie Fischbach~00~
+Por eso  ganas tanto~00~
+       dinero~00~~00~~00~~00~~00~~00~~00~
+    Bob Lieberman~00~
+Cómprate un Mercedes~00~
+y múdate al valle...~00~~00~~00~~00~~00~~00~~00~
+   Mark,Sal,Jamie~00~
+     y todo  el~00~
+   EQUIPO  MIDWAY.~00~
+ Rápido!  Dame 25c.~00~~00~~00~~00~~00~~00~~00~
+    Greg Lassen~00~
+NBA Properties,Inc.~00~
+Qué parte de 'NO' no~00~
+     entiendes?~00~
+                    ~00~
+                    ~00~
+      ~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~FF~#1678
+|1678
+@0002A058-0002A2DD-00
+;0002A058{GREATEST PLAYERS~00~}#020#017
+ MEJOR JUGADOR  ~00~#017
+;0002A069{PLR  W   L   Pct~00~}#020#017
+JGD  G   P   Pct~00~#017
+;0002A07A{AAA 000/000 0.000==AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000=~00~}#155#152
+AAA 000/000 0.000==AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000 =AAA 000/000 0.000=~00~#152
+;0002A112{ GRAND CHAMPIONS~00~}#020#017
+  LOS CAMPEONES ~00~#017
+;0002A123{~00~}#004#001
+~00~#001
+;0002A124{     1st AAA    ===     2nd AAA     ==     3rd AAA==~00~}#056#053
+     1ro AAA    ===     2do AAA     ==     3ro AAA==~00~#053
+;0002A159{   EXPERIENCED=     PLAYERS~00~}#031#028
+    JUGADORES=     EXPERTOS~00~#028
+;0002A175{  PLR  P   Pct~00~}#018#015
+  JGD  P   Pct~00~#015
+;0002A184{  AAA 000 0.000  ==  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000=~00~}#153#150
+  AAA 000 0.000  ==  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000   =  AAA 000 0.000=~00~#150
+;0002A21A{ LONGEST WINNING=     STREAK~00~}#032#029
+  MAYOR RACHA DE=
+  VICTORIAS~00~#029
+;0002A237{ PLR  S   W   L~00~}#019#016
+ JGD  R   G   P~00~#016
+;0002A247{ AAA 000 000/000 == AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000=~00~}#154#151
+ AAA 000 000/000 == AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000  = AAA 000 000/000=~00~#151
+|646

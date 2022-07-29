@@ -1,0 +1,67 @@
+00007CC4 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 22/04/2022 20:27:29
+
+00007CC4                             1      ORG    $00007CC4
+00007CC4                             2  START:                  ; first instruction of program
+00007CC4                             3  
+00007CC4                             4  * Put program code here
+00007CC4                             5       ;Substituted code
+00007CC4                             6   
+00007CC4                             7       ;Push all registers
+00007CC4  48E7 FFFE                  8       MOVEM.l A6-A0/D7-D0, -(SP) 
+00007CC8                             9       
+00007CC8  41F9 00C00004             10       LEA VDP_CONTROL, A0
+00007CCE  43F9 00C00000             11       LEA VDP_DATA, A1
+00007CD4                            12       
+00007CD4                            13       ;Wait for DMAs
+00007CD4                            14  .wait_dma
+00007CD4  3010                      15       move.w (A0), D0
+00007CD6  0200 0002                 16       andi.b #$02, D0
+00007CDA  66F8                      17       bne .wait_dma
+00007CDC                            18       
+00007CDC                            19       ;Set VRAM Increment to 2
+00007CDC  30BC 8F02                 20       move.w #$8F02, (A0)
+00007CE0                            21       
+00007CE0                            22       ;Set VRAM Location to DEST_VRAM
+00007CE0  20BC 56600003             23       move.l #$40000000+((DEST_VRAM&$3FFF)<<16)+((DEST_VRAM&$C000)>>14),(A0)
+00007CE6                            24       
+00007CE6                            25       ;Load W_SIZE
+00007CE6  303C 003F                 26       move.w  #(W_SIZE>>2)-1, D0
+00007CEA                            27       
+00007CEA                            28       ;Load SOURCE_68K
+00007CEA  45F9 000FEB00             29       lea SOURCE_68K, A2
+00007CF0                            30       
+00007CF0                            31  .vramloop
+00007CF0  229A                      32       move.l (A2)+, (A1)
+00007CF2  51C8 FFFC                 33       DBRA.w D0, .vramloop
+00007CF6                            34       
+00007CF6                            35       ;Restore all registers
+00007CF6  4CDF 7FFF                 36       MOVEM.l (SP)+, D0-D7/A0-A6
+00007CFA                            37       
+00007CFA  4E75                      38       rts
+00007CFC  FFFF FFFF                 39      SIMHALT             ; halt simulator
+00007D00                            40  
+00007D00                            41  * Put variables and constants here
+00007D00  =00C00004                 42  VDP_CONTROL EQU $C00004
+00007D00  =00C00000                 43  VDP_DATA EQU $C00000
+00007D00  =000FEB00                 44  SOURCE_68K EQU $000FEB00
+00007D00  =0000D660                 45  DEST_VRAM EQU $D660
+00007D00  =00000100                 46  W_SIZE EQU $0100
+00007D00                            47      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DEST_VRAM           D660
+SOURCE_68K          FEB00
+START               7CC4
+START:VRAMLOOP      7CF0
+START:WAIT_DMA      7CD4
+VDP_CONTROL         C00004
+VDP_DATA            C00000
+W_SIZE              100

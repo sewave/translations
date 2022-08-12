@@ -1,0 +1,62 @@
+00000000 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 23/04/2022 22:18:48
+
+00000000                             1      ORG    $00000000 ;This code needs no special org
+00000000                             2  
+00000000                             3  * Put variables and constants here
+00000000  =00C00004                  4  VDP_CONTROL EQU $C00004
+00000000  =00C00000                  5  VDP_DATA EQU $C00000
+00000000  =00072000                  6  SOURCE_68K EQU $00072000
+00000000  =00000000                  7  DEST_VRAM EQU $0000
+00000000  =00001000                  8  W_SIZE EQU $1000
+00000000                             9      
+00000000                            10  START:
+00000000                            11       ;Push all registers
+00000000  48E7 FFFE                 12       MOVEM.l A6-A0/D7-D0, -(SP) 
+00000004                            13       
+00000004  41F9 00C00004             14       LEA VDP_CONTROL, A0
+0000000A  43F9 00C00000             15       LEA VDP_DATA, A1
+00000010                            16       
+00000010                            17       ;Wait for DMAs
+00000010                            18  .wait_dma
+00000010  3010                      19       move.w (A0), D0
+00000012  0200 0002                 20       andi.b #$02, D0
+00000016  66F8                      21       bne .wait_dma
+00000018                            22       
+00000018                            23       ;Set VRAM Increment to 2
+00000018  30BC 8F02                 24       move.w #$8F02, (A0)
+0000001C                            25       
+0000001C                            26       ;Set VRAM Location to DEST_VRAM
+0000001C  20BC 40000000             27       move.l #$40000000+((DEST_VRAM&$3FFF)<<16)+((DEST_VRAM&$C000)>>14),(A0)
+00000022                            28       
+00000022                            29       ;Load W_SIZE
+00000022  303C 03FF                 30       move.w  #(W_SIZE>>2)-1, D0
+00000026                            31       
+00000026                            32       ;Load SOURCE_68K
+00000026  45F9 00072000             33       lea SOURCE_68K, A2
+0000002C                            34       
+0000002C                            35  .vramloop
+0000002C  229A                      36       move.l (A2)+, (A1)
+0000002E  51C8 FFFC                 37       DBRA.w D0, .vramloop
+00000032                            38       
+00000032                            39       ;Restore all registers
+00000032  4CDF 7FFF                 40       MOVEM.l (SP)+, D0-D7/A0-A6
+00000036  4E75                      41       rts
+00000038                            42      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DEST_VRAM           0
+SOURCE_68K          72000
+START               0
+START:VRAMLOOP      2C
+START:WAIT_DMA      10
+VDP_CONTROL         C00004
+VDP_DATA            C00000
+W_SIZE              1000

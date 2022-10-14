@@ -1,0 +1,100 @@
+@00007EC9-00007ECF-FF
+;00007EC9{SCORE:~FF~}#010#007
+MARCA:~FF~#007
+|7
+@00007EEB-00007EF1-FF
+;00007EEB{LIVES:~FF~}#010#007
+VIDAS:~FF~#007
+|7
+@00007F0D-00007F15-FF
+;00007F0D{BULLETS:~FF~}#012#009
+  BALAS:~FF~#009
+|9
+@00007F31-00007F39-FF
+;00007F31{HISCORE:~FF~}#012#009
+  MEJOR:~FF~#009
+|9
+@000099D4-000099DF-FF
+;000099D4{BALL  CRAZY~FF~}#015#012
+ BOLA LOCA ~FF~#012
+|12
+@000099FB-00009A06-FF
+;000099FB{By The Firm~FF~}#015#012
+De The Firm~FF~#012
+|12
+@00009A22-00009A35-FF
+;00009A22{Code by Mike Talbot~FF~}#023#020
+ Código Mike Talbot~FF~#020
+|20
+@00009A51-00009A5F-FF
+;00009A51{And Jim  Tripp~FF~}#018#015
+   Y Jim Tripp~FF~#015
+|15
+@00009A7B-00009A90-FF
+;00009A7B{Graphics by Sarah Day~FF~}#025#022
+Gráficos de Sarah Day~FF~#022
+|22
+@00009AAC-00009AD6-FF
+;00009AAC{Press ENTER to play or any key to continue~FF~}#046#043
+Pulsa ENTER para jugar u otra para seguir ~FF~#043
+|43
+@00009AF5-00009AFF-FF
+;00009AF5{Controls :~FF~}#014#011
+Controles:~FF~#011
+|11
+@00009B0C-00009B21-FF
+;00009B0C{A       - Bounce Left~FF~}#025#022
+A- Botar Izquierda   ~FF~#022
+|22
+@00009B2B-00009B41-FF
+;00009B2B{S       - Bounce Right~FF~}#026#023
+S- Botar Derecha      ~FF~#023
+|23
+@00009B4B-00009B5E-FF
+;00009B4B{L       - Stay Down~FF~}#023#020
+L- Quedarse Abajo  ~FF~#020
+|20
+@00009B68-00009B76-FF
+;00009B68{<enter> - Fire~FF~}#018#015
+<enter>-Fuego ~FF~#015
+|15
+@00009B80-00009B96-FF
+;00009B80{<space> - Pause on/off~FF~}#026#023
+<espacio>-Pausa sí/no ~FF~#023
+|23
+@00009BB5-00009C05-FF
+;00009BB5{Change the blocks to the indicated colour, by bouncing vertically on each brick.~FF~}#084#081
+Cambia los bloques al color indicado, rebotando verticalmente en cada ladrillo. ~FF~#081
+|81
+@00009C0F-00009C3B-FF
+;00009C0F{Avoid the shapes, and collect bonus objects.~FF~}#048#045
+Evita las formas y recoge objetos de bono.  ~FF~#045
+|45
+@00009C5A-00009C69-FF
+;00009C5A{Bonus Objects :~FF~}#019#016
+Objetos Bono:  ~FF~#016
+|16
+@00009C76-00009CB9-FF
+;00009C76{The Barrel supplies 5 or 10 bullets. These will destroy the shapes.~FF~}#071#068
+El Barril te otorga 5 o 10 balas. Estas destruirán a las formas.   ~FF~#068
+|68
+@00009CC3-00009CEE-FF
+;00009CC3{The Tick corrects the colour of all blocks.~FF~}#047#044
+La Pluma corrige el color de los bloques.  ~FF~#044
+|44
+@00009CF8-00009D1C-FF
+;00009CF8{The  Air  Tank  gives an extra life.~FF~}#040#037
+El Tanque de Aire te da una vida.   ~FF~#037
+|37
+@00009D26-00009D4E-FF
+;00009D26{The  Pound  Coin  increases  your score.~FF~}#044#041
+La Moneda Libra incrementa tu marca.    ~FF~#041
+|41
+@00009D6D-00009DCF-FF
+;00009D6D{Catch the Ring On A Thing (satellite) to experience the latest in alien self preservation systems.~FF~}#102#099
+Atrapa el Anillo En una Cosa (satélite) para experimentar lo último en preservación alienígena.   ~FF~#099
+|99
+@00009DEE-00009ED8-FF
+;00009DEE{Thanks to Nigel Brown for the original concept and for the Amstrad graphics from which the Spectrum characters were taken. Thank you also to Sarah for the speedy production of Spectrum sprites, despite many crashes and dead Spectrums.~FF~}#238#235
+Gracias a Nigel Brown por el concepto original y por los gráficos de Amstrad de los que se sacaron los de Spectrum. Gracias también a Sarah por la veloz producción de sprites de Spectrum, a pesar de cuelgues y Spectrums muertos.      ~FF~#235
+|235

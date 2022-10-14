@@ -1,5 +1,5 @@
 Terminator 2 - Judgment Day (NES)
-Traducción al Español v2.1 (02/10/2022)
+Traducción al Español v2.1 (10/07/2022)
 (C) 2022 Traducciones Wave
 
 ------------------------

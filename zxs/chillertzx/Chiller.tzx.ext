@@ -1,0 +1,76 @@
+@0000010E-0000012A-FF
+;0000010E{"CHILLER IS LOADING"~3B~~AC~12~0E~~00~~00~~0C~~00~}#050#029
+"CHILLER IS LOADING"~3B~~AC~12~0E~~00~~00~~0C~~00~#029
+|29
+@00000139-00000148-FF
+;00000139{PLEASE WAIT"~14~~00~:~F5~}#025#016
+PLEASE WAIT"~14~~00~:~F5~#016
+|16
+@00002A3F-00002A67-FF
+;00002A3F{score 000000  magic crosses 00  energy~FF~}#042#039
+score 000000  magic crosses 00  energy~FF~#039
+;00002A66{:~98~}#005#002
+:~98~#002
+|41
+@00002B36-00002BBD-FF
+;00002B36{r$= ~FB~~C9~            the forest  ~FF~}#040#031
+r$= ~FB~~C9~            the forest  ~FF~#031
+;00002B55{           the cinema   ~FF~}#028#025
+           the cinema   ~FF~#025
+;00002B6E{           the ghetto   ~FF~}#028#025
+           the ghetto   ~FF~#025
+;00002B87{         the graveyard  ~FF~}#028#025
+         the graveyard  ~FF~#025
+;00002BA0{       the haunted house~FF~}#028#025
+       the haunted house~FF~#025
+;00002BB9{~CD~~1F~~83~!~7D~}#017#005
+~CD~~1F~~83~!~7D~#005
+|136
+@00004AE4-00004BAA-FF
+;00004AE4{[ ~F8~~C9~          mastertronic                                                      present                                                                                      c h i l l e r         ~FF~}#205#196
+[ ~F8~~C9~          mastertronic                                                      present                                                                                      c h i l l e r         ~FF~#196
+;00004BA8{~CD~.~A3~}#009#003
+~CD~.~A3~#003
+|199
+@00004BC1-00004BE3-FF
+;00004BC1{  programmed by richard wright~FF~}#034#031
+  programmed by richard wright~FF~#031
+;00004BE0{~CD~~02~~A4~~01~}#016#004
+~CD~~02~~A4~~01~#004
+|35
+@00004BF0-00004C0C-FF
+;00004BF0{player control selections~FF~}#029#026
+player control selections~FF~#026
+;00004C0A{~CD~:~A4~}#009#003
+~CD~:~A4~#003
+|29
+@00004C1A-00004C55-FF
+;00004C1A{    1  keyboard                     2  kempston joystick~FF~}#060#057
+    1  keyboard                     2  kempston joystick~FF~#057
+;00004C53{~CD~d~A4~}#009#003
+~CD~d~A4~#003
+|60
+@00004C63-00004CC2-FF
+;00004C63{    3  fuller joystick              4  cursor keys                  5  sinclair interface 2~FF~}#095#092
+    3  fuller joystick              4  cursor keys                  5  sinclair interface 2~FF~#092
+;00004CBF{~CD~~AD~~A4~~01~}#016#004
+~CD~~AD~~A4~~01~#004
+|96
+@00004CCF-00004CF3-FF
+;00004CCF{please press either 1 2 3 4 or 5~FF~}#036#033
+please press either 1 2 3 4 or 5~FF~#033
+;00004CF0{~CD~~19~~A5~~01~}#016#004
+~CD~~19~~A5~~01~#004
+|37
+@00004D00-00004D3C-FF
+;00004D00{pressing any key from a to g    turns the sound on or off~FF~}#061#058
+pressing any key from a to g    turns the sound on or off~FF~#058
+;00004D3A{~CD~J~A5~}#009#003
+~CD~J~A5~#003
+|61
+@00004E34-00004E4F-FF
+;00004E34{       press  p  to  play~FF~}#029#026
+       press  p  to  play~FF~#026
+;00004E4E{!~A4~}#005#002
+!~A4~#002
+|28

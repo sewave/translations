@@ -1,0 +1,66 @@
+@0000010E-00000121-FF
+;0000010E{"CHILLER IS LOADING"}#020#020
+ "CARGANDO CHILLER" #020
+|20
+@00000136-00000144-FF
+;00000136{"~14~~01~PLEASE WAIT"}#021#015
+"~14~~01~ESPERA....."#015
+|15
+@00002A3F-00002A65-FF
+;00002A3F{score 000000  magic crosses 00  energy~FF~}#042#039
+marca 000000 cruces mágicas 00 
+ salud ~FF~#039
+|39
+@00002B3C-00002BB8-FF
+;00002B3C{            the forest  ~FF~}#028#025
+           el bosque    ~FF~#025
+;00002B55{           the cinema   ~FF~}#028#025
+            el cine     ~FF~#025
+;00002B6E{           the ghetto   ~FF~}#028#025
+            el gueto    ~FF~#025
+;00002B87{         the graveyard  ~FF~}#028#025
+         el cementerio  ~FF~#025
+;00002BA0{       the haunted house~FF~}#028#025
+       la casa encantada~FF~#025
+|125
+@00004AE8-00004BA7-FF
+;00004AE8{          mastertronic                                                      present                                                                                      c h i l l e r         ~FF~}#195#192
+          mastertronic          
+                                
+            presenta            
+                                
+                                
+         c h i l l e r         ~FF~#192
+|192
+@00004BC1-00004BDF-FF
+;00004BC1{  programmed by richard wright~FF~}#034#031
+ programado por richard wright~FF~#031
+|31
+@00004BF0-00004C09-FF
+;00004BF0{player control selections~FF~}#029#026
+elige control del jugador~FF~#026
+|26
+@00004C1A-00004C52-FF
+;00004C1A{    1  keyboard                     2  kempston joystick~FF~}#060#057
+    1  teclado                  
+    2  joystick kempston~FF~#057
+|57
+@00004C63-00004CBE-FF
+;00004C63{    3  fuller joystick              4  cursor keys                  5  sinclair interface 2~FF~}#095#092
+    3  joystick fuller          
+    4  teclas de cursor         
+    5  sinclair interface 2~FF~#092
+|92
+@00004CCF-00004CEF-FF
+;00004CCF{please press either 1 2 3 4 or 5~FF~}#036#033
+  por favor pulsa 1 2 3 4 o 5   ~FF~#033
+|33
+@00004D00-00004D39-FF
+;00004D00{pressing any key from a to g    turns the sound on or off~FF~}#061#058
+pulsar una tecla de a a g       
+enciende o apaga el audio~FF~#058
+|58
+@00004E34-00004E4D-FF
+;00004E34{       press  p  to  play~FF~}#029#026
+       pulsa p para jugar~FF~#026
+|26

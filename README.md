@@ -1,2 +1,2 @@
 # translations
-Repository for all the files for my translations (except the roms)
+Repository for all the files for my translations (except the roms and external programs)

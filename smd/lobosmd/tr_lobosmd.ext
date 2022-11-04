@@ -1,0 +1,359 @@
+@00034232-00034243-00
+;00034232{SELECT=BACKGROUND~00~}#021#018
+ELIGE =FONDO     ~00~#018
+|18
+@0003CF98-0003D007-00
+;0003CF98{Hard   ~00~}#011#008
+Dura   ~00~#008
+;0003CFA0{Fraggin~00~}#011#008
+Fragua ~00~#008
+;0003CFA8{Bastich~00~}#011#008
+Bastuta~00~#008
+;0003CFB0{on ~00~}#007#004
+sí ~00~#004
+;0003CFB4{off~00~}#007#004
+no ~00~#004
+;0003CFB8{SELECT   =PLAYER   ~00~}#023#020
+ELIGE    =JUGADOR  ~00~#020
+;0003CFCC{         =         ~00~}#023#020
+         =         ~00~#020
+;0003CFE0{SELECT   =OPPONENT ~00~}#023#020
+ELIGE    =OPONENTE ~00~#020
+;0003CFF4{         =         ~00~}#023#020
+         =         ~00~#020
+|112
+@000AC130-000AC9F2-00
+;000AC130{Sega Programming and Design~00~}#031#028
+ Programación y Diseño Sega~00~#028
+;000AC14C{Donald W. Landon~00~}#020#017
+Donald W. Landon~00~#017
+;000AC15D{ ~00~}#005#002
+ ~00~#002
+;000AC15F{ ~00~}#005#002
+ ~00~#002
+;000AC161{ ~00~}#005#002
+ ~00~#002
+;000AC163{ ~00~}#005#002
+ ~00~#002
+;000AC165{Sound and Music~00~}#019#016
+Música y Sonido~00~#016
+;000AC175{FAT BOX~00~}#011#008
+FAT BOX~00~#008
+;000AC17D{ ~00~}#005#002
+ ~00~#002
+;000AC17F{ ~00~}#005#002
+ ~00~#002
+;000AC181{ ~00~}#005#002
+ ~00~#002
+;000AC183{ ~00~}#005#002
+ ~00~#002
+;000AC185{OCEAN OF AMERICA~00~}#020#017
+OCEAN DE AMÉRICA~00~#017
+;000AC196{ ~00~}#005#002
+ ~00~#002
+;000AC198{INTRODUCTION AND TITLE SCREEN~00~}#033#030
+    INTRODUCCIÓN Y TÍTULO    ~00~#030
+;000AC1B6{MODEL BUILDING~00~}#018#015
+ CREA MODELOS ~00~#015
+;000AC1C5{Jonathan Casco     Alan Pashley~00~}#035#032
+Jonathan Casco     Alan Pashley~00~#032
+;000AC1E5{K.C. Murphy~00~}#015#012
+K.C. Murphy~00~#012
+;000AC1F1{ ~00~}#005#002
+ ~00~#002
+;000AC1F3{TEXTURE MAPPING~00~}#019#016
+ MAPEO TEXTURAS~00~#016
+;000AC203{Shane Moura         Mike Cicchi~00~}#035#032
+Shane Moura         Mike Cicchi~00~#032
+;000AC223{Mark Pitcher~00~}#016#013
+Mark Pitcher~00~#013
+;000AC230{ ~00~}#005#002
+ ~00~#002
+;000AC232{DEGRADATION~00~}#015#012
+DEGRADACIÓN~00~#012
+;000AC23E{Mark Pitcher~00~}#016#013
+Mark Pitcher~00~#013
+;000AC24B{ ~00~}#005#002
+ ~00~#002
+;000AC24D{CHARACTER SELECTION SCREEN~00~}#030#027
+PANTALLA ELEGIR PERSONAJES~00~#027
+;000AC268{MODEL BUILDING~00~}#018#015
+ CREA MODELOS ~00~#015
+;000AC277{Keith Bachman~00~}#017#014
+Keith Bachman~00~#014
+;000AC285{ ~00~}#005#002
+ ~00~#002
+;000AC287{TEXTURE MAPS~00~}#016#013
+MAPA TEXTURA~00~#013
+;000AC294{Mike Cicchi~00~}#015#012
+Mike Cicchi~00~#012
+;000AC2A0{ ~00~}#005#002
+ ~00~#002
+;000AC2A2{DEGRADATION AND CLEANING-UP~00~}#031#028
+   DEGRADACIÓN Y LIMPIEZA  ~00~#028
+;000AC2BE{Bill Yeatts        Mark Pitcher~00~}#035#032
+Bill Yeatts        Mark Pitcher~00~#032
+;000AC2DE{ ~00~}#005#002
+ ~00~#002
+;000AC2E0{CHARACTERS~00~}#014#011
+PERSONAJES~00~#011
+;000AC2EB{CLAY MODELING~00~}#017#014
+MODELOS BARRO~00~#014
+;000AC2F9{Shane Moura     Bart McLaughlin~00~}#035#032
+Shane Moura     Bart McLaughlin~00~#032
+;000AC319{Brett Mclaughlin   Alan Pashley~00~}#035#032
+Brett Mclaughlin   Alan Pashley~00~#032
+;000AC339{Metropolis Digital Inc.~00~}#027#024
+Metropolis Digital Inc.~00~#024
+;000AC351{ ~00~}#005#002
+ ~00~#002
+;000AC353{MODEL DIGITIZATION~00~}#022#019
+DIGITALIZA MODELOS~00~#019
+;000AC366{Viewpoint Datalabs~00~}#022#019
+Viewpoint Datalabs~00~#019
+;000AC379{Bart McLaughlin~00~}#019#016
+Bart McLaughlin~00~#016
+;000AC389{Brett McLaughlin~00~}#020#017
+Brett McLaughlin~00~#017
+;000AC39A{ ~00~}#005#002
+ ~00~#002
+;000AC39C{3D MODELING~00~}#015#012
+MODELADO 3D~00~#012
+;000AC3A8{Shane Moura   Bill Yeatts~00~}#029#026
+Shane Moura   Bill Yeatts~00~#026
+;000AC3C2{Adrian Ludley   Jonathan Casco~00~}#034#031
+Adrian Ludley   Jonathan Casco~00~#031
+;000AC3E1{Alan Pashley~00~}#016#013
+Alan Pashley~00~#013
+;000AC3EE{Metropils Digital Inc.~00~}#026#023
+Metropils Digital Inc.~00~#023
+;000AC405{ ~00~}#005#002
+ ~00~#002
+;000AC407{TEXTURE MAPPING~00~}#019#016
+ MAPEO TEXTURAS~00~#016
+;000AC417{Shane Moura        Mark Pitcher~00~}#035#032
+Shane Moura        Mark Pitcher~00~#032
+;000AC437{Jonathan Casco     Alan Pashley~00~}#035#032
+Jonathan Casco     Alan Pashley~00~#032
+;000AC457{Bill Yeatts       Adrian Ludley~00~}#035#032
+Bill Yeatts       Adrian Ludley~00~#032
+;000AC477{Mike Cicchi         Cindy Ahuna~00~}#035#032
+Mike Cicchi         Cindy Ahuna~00~#032
+;000AC497{ ~00~}#005#002
+ ~00~#002
+;000AC499{IMAGE PROCESSING~00~}#020#017
+PROCESADO IMAGEN~00~#017
+;000AC4AA{Cindy Ahuna~00~}#015#012
+Cindy Ahuna~00~#012
+;000AC4B6{ ~00~}#005#002
+ ~00~#002
+;000AC4B8{DEGRADATION~00~}#015#012
+DEGRADACIÓN~00~#012
+;000AC4C4{Mark Pitcher   Brett McLaughlin~00~}#035#032
+Mark Pitcher   Brett McLaughlin~00~#032
+;000AC4E4{Adrian Ludley   Bart McLaughlin~00~}#035#032
+Adrian Ludley   Bart McLaughlin~00~#032
+;000AC504{Jonathan Casco      Bill Yeatts~00~}#035#032
+Jonathan Casco      Bill Yeatts~00~#032
+;000AC524{ ~00~}#005#002
+ ~00~#002
+;000AC526{CLEANING-UP~00~}#015#012
+  LIMPIEZA ~00~#012
+;000AC532{Mark Pitcher     Jonathan Casco~00~}#035#032
+Mark Pitcher     Jonathan Casco~00~#032
+;000AC552{Brett McLaughlin    Bill Yeatts~00~}#035#032
+Brett McLaughlin    Bill Yeatts~00~#032
+;000AC572{Bart McLaughlin   Adrian Ludley~00~}#035#032
+Bart McLaughlin   Adrian Ludley~00~#032
+;000AC592{Mike Cicchi         Cindy Ahuna~00~}#035#032
+Mike Cicchi         Cindy Ahuna~00~#032
+;000AC5B2{ ~00~}#005#002
+ ~00~#002
+;000AC5B4{ ~00~}#005#002
+ ~00~#002
+;000AC5B6{BACKGROUNDS~00~}#015#012
+   FONDOS  ~00~#012
+;000AC5C2{MODELING AND SET DESIGN~00~}#027#024
+ MODELADO Y DISEÑO SET ~00~#024
+;000AC5DA{Bill Yeatts         Mike Cicchi~00~}#035#032
+Bill Yeatts         Mike Cicchi~00~#032
+;000AC5FA{Alan Pashley      Keith Bachman~00~}#035#032
+Alan Pashley      Keith Bachman~00~#032
+;000AC61A{Mike Cicchi         Cindy Ahuna~00~}#035#032
+Mike Cicchi         Cindy Ahuna~00~#032
+;000AC63A{Mark Pitcher     Jonathan Casco~00~}#035#032
+Mark Pitcher     Jonathan Casco~00~#032
+;000AC65A{Adrian Ludley       Shane Moura~00~}#035#032
+Adrian Ludley       Shane Moura~00~#032
+;000AC67A{ ~00~}#005#002
+ ~00~#002
+;000AC67C{DEGRADATION~00~}#015#012
+DEGRADACIÓN~00~#012
+;000AC688{Adrian Ludley~00~}#017#014
+Adrian Ludley~00~#014
+;000AC696{ ~00~}#005#002
+ ~00~#002
+;000AC698{CLEANING-UP~00~}#015#012
+  LIMPIEZA ~00~#012
+;000AC6A4{Adrian Ludley      Mark Pitcher~00~}#035#032
+Adrian Ludley      Mark Pitcher~00~#032
+;000AC6C4{Bill Yeatts      Jonathan Casco~00~}#035#032
+Bill Yeatts      Jonathan Casco~00~#032
+;000AC6E4{ ~00~}#005#002
+ ~00~#002
+;000AC6E6{CONCEPTUAL ART~00~}#018#015
+ARTE CONCEPTO ~00~#015
+;000AC6F5{Mike Cicchi~00~}#015#012
+Mike Cicchi~00~#012
+;000AC701{ ~00~}#005#002
+ ~00~#002
+;000AC703{ADDITIONAL ART~00~}#018#015
+ARTE ADICIONAL~00~#015
+;000AC712{Mark Pitcher   Brett McLaughlin~00~}#035#032
+Mark Pitcher   Brett McLaughlin~00~#032
+;000AC732{Bart McLaughlin  Jonathan Casco~00~}#035#032
+Bart McLaughlin  Jonathan Casco~00~#032
+;000AC752{Bill Yeatts         Cindy Ahuna~00~}#035#032
+Bill Yeatts         Cindy Ahuna~00~#032
+;000AC772{K.C. Murphy~00~}#015#012
+K.C. Murphy~00~#012
+;000AC77E{ ~00~}#005#002
+ ~00~#002
+;000AC780{MOTION CAPTURE~00~}#018#015
+CAPTURA MOVIM.~00~#015
+;000AC78F{Biovision~00~}#013#010
+Biovision~00~#010
+;000AC799{ ~00~}#005#002
+ ~00~#002
+;000AC79B{MARTIAL ARTS~00~}#016#013
+ARTES MARCI.~00~#013
+;000AC7A8{Janet Gee   Tim Kinney~00~}#026#023
+Janet Gee   Tim Kinney~00~#023
+;000AC7BF{Prof. Bill Dewart~00~}#021#018
+Prof. Bill Dewart~00~#018
+;000AC7D1{ ~00~}#005#002
+ ~00~#002
+;000AC7D3{PROJECT LEADER'LEAD ARTIST~00~}#030#027
+ LÍDER PROYECTO Y DE ARTE ~00~#027
+;000AC7EE{Mark Pitcher~00~}#016#013
+Mark Pitcher~00~#013
+;000AC7FB{ ~00~}#005#002
+ ~00~#002
+;000AC7FD{GRAPHICS MANAGER~00~}#020#017
+GESTOR GRÁFICOS ~00~#017
+;000AC80E{Adrian Ludley~00~}#017#014
+Adrian Ludley~00~#014
+;000AC81C{ ~00~}#005#002
+ ~00~#002
+;000AC81E{DEVELOPMENT MANAGER~00~}#023#020
+ GESTOR DESARROLLO ~00~#020
+;000AC832{Mark Rogers~00~}#015#012
+Mark Rogers~00~#012
+;000AC83E{ ~00~}#005#002
+ ~00~#002
+;000AC840{SPECIAL THANKS~00~}#018#015
+MUCHAS GRACIAS~00~#015
+;000AC84F{Michael,Joshua, Kristine Landon~00~}#035#032
+Michael,Joshua, Kristine Landon~00~#032
+;000AC86F{Victor DeAlmeida    Darin Mason~00~}#035#032
+Victor DeAlmeida    Darin Mason~00~#032
+;000AC88F{Eddy Gutierrez    Jason Koopman~00~}#035#032
+Eddy Gutierrez    Jason Koopman~00~#032
+;000AC8AF{Larry Feldman       James Pride~00~}#035#032
+Larry Feldman       James Pride~00~#032
+;000AC8CF{Jason Williams     Alex Kennedy~00~}#035#032
+Jason Williams     Alex Kennedy~00~#032
+;000AC8EF{Andy Weakley       Katy Salkied~00~}#035#032
+Andy Weakley       Katy Salkied~00~#032
+;000AC90F{Milady Casco       Joyce Eileen~00~}#035#032
+Milady Casco       Joyce Eileen~00~#032
+;000AC92F{Brett and Norma     Jean Welter~00~}#035#032
+ Brett y Norma     Jean Welter ~00~#032
+;000AC94F{Chuck Satterfield~00~}#021#018
+Chuck Satterfield~00~#018
+;000AC961{Carolyn Halstenson~00~}#022#019
+Carolyn Halstenson~00~#019
+;000AC974{Leonor McLaughlin~00~}#021#018
+Leonor McLaughlin~00~#018
+;000AC986{Christine Ericson   David Smith~00~}#035#032
+Christine Ericson   David Smith~00~#032
+;000AC9A6{Joanne Rogers    Jasmine Rogers~00~}#035#032
+Joanne Rogers    Jasmine Rogers~00~#032
+;000AC9C6{Yolanda and Marisa Mclaughlin~00~}#033#030
+ Yolanda y Marisa Mclaughlin ~00~#030
+;000AC9E4{Helen Bicknell~00~}#018#015
+Helen Bicknell~00~#015
+|2243
+@000ACA38-000AD013-00
+;000ACA38{LAB        ~00~}#015#012
+LABORATORIO~00~#012
+;000ACA44{SEWER      ~00~}#015#012
+CLOACA     ~00~#012
+;000ACA50{FORTRESS   ~00~}#015#012
+FORTALEZA  ~00~#012
+;000ACA5C{DOCKING BAY~00~}#015#012
+EMBARQUE   ~00~#012
+;000ACA68{DINER      ~00~}#015#012
+DINER      ~00~#012
+;000ACA74{PSORIASIS  ~00~}#015#012
+PSORIASIS  ~00~#012
+;000ACA80{    Lobo roars his way through the=  firmament of space, his destination=  is the docking bay at space station=           "Spread Eagle".~00~}#141#138
+ Lobo retumba viajando a través del=
+ firmamento del espacio, su destino=
+ es el muelle de atraque de la=
+ estación espacial "Spread Eagle".~00~#138
+;000ACB0A{         Lobo's grip tightens.=     Whole galaxies breathe a sigh=       of relief as Lobo passes =        heading for Dox's Lab.~00~}#133#130
+ El agarre de Lobo se fortalece.=
+ Galaxias enteras respiran aliviadas=
+ cuando Lobo pasa en dirección al=
+ Laboratorio de Dox.\    ~00~#130
+;000ACB8C{         Sheathing his weapon,=         Lobo mounts is trusty =        steed, he trusts towards=     the outlaw planet:- Psoriasis 3~00~}#136#133
+ Enfundando su arma, Lobo monta su=
+ fiel corcel y se dirige hacia el=
+ planeta proscrito: - Psoriasis 3\
+                             ~00~#133
+;000ACC11{     Lobo heads for his favorite=         slaughtering hole:-=     Al's Diner, scene of many a=            good riot.~00~}#121#118
+ Lobo se dirige a su agujero de=
+ matanza favorito: Al's Diner,=
+ escenario de muchos buenos=
+ disturbios.\             ~00~#118
+;000ACC87{ Lobo's nostrils flair:- One millions=      miles out and he can still =      smell his next destination:-=        the sewers of New Paris~00~}#142#139
+ Las fosas nasales de Lobo se=
+ agitan:-=
+ Un millón de millas fuera y todavía=
+ puede oler su próximo destino:-=
+ las cloacas de Nueva París\~00~#139
+;000ACD12{      As cold as space is, Lobo=       knows that his reception=         will be colder, at:-=         Kringle's Fortress.~00~}#126#123
+ Por muy frío que sea el espacio,=
+ Lobo sabe que su recepción será más=
+ fría, en: la Fortaleza de Kringle.\               ~00~#123
+;000ACD8D{  Strands of lobos DNA were extracted= to create this opponent:- Lobo Clone.~00~}#080#077
+ Extrajeron cadenas de ADN de Lobo=
+ para crear al oponente:-=
+ Clon de Lobo.\~00~#077
+;000ACDDA{        Awaiting lobo are the=       explosive fists of Nitro.~00~}#066#063
+ Esperando a Lobo están los puños=
+ explosivos de Nitro.\      ~00~#063
+;000ACE19{          Where Kringle waits,=         sharpening his knives.~00~}#066#063
+ Donde Kringle espera, afilando sus=
+ cuchillos.\              ~00~#063
+;000ACE58{     Lobo rides to meet Loo, The=     maniac with the hand cannon.~00~}#070#067
+ Lobo monta para verse con Loo, el=
+ maníaco del cañón de mano.\   ~00~#067
+;000ACE9B{    Waiting for Lobo is Shaola, the=         sword wielding siren.~00~}#070#067
+ Esperando a Lobo está Shaola, la=
+ sirena que empuña una espada.\ ~00~#067
+;000ACEDE{       Dox, Lobo's ex boss and=         nemesis awaits him.~00~}#063#060
+ Dox, el ex jefe y némesis de Lobo le=
+ espera.\            ~00~#060
+;000ACF1A{  Well, congratulations are in order!=  You've cleared the universe of scum,=  and made loads of money to go with= your reputation as the most dangerous=  being in existence.  You really are=             King Bastich!~00~}#221#218
+ Pues, hay que felicitarte!=
+ Has limpiado el universo de escoria,=
+ y has ganado mucho dinero para=
+ acompañar tu reputación como el ser=
+ más peligroso que existe.=
+ Realmente eres el Rey bastuta!\
+                       ~00~#218
+;000ACFF4{                               ~00~}#035#032
+                               ~00~#032
+|1500

@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Teenage Mutant Ninja Turtles III - Radical Rescue (U) [!].gb"
-set S_FILENAME="Teenage Mutant Ninja Turtles III - Radical Rescue (U) [!].gb"
+set T_FILENAME="TR_Teenage Mutant Ninja Turtles III - Radical Rescue (USA).gb"
+set S_FILENAME="Teenage Mutant Ninja Turtles III - Radical Rescue (USA).gb"
 set SCRIPTNAME="teenagemutantninjaturtlesiiiradicalrescuegb"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

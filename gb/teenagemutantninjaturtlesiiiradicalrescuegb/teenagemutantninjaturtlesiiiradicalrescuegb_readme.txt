@@ -1,47 +1,35 @@
-Teenage Mutant Ninja Turtles III - Radical Rescue
-Traducción al Español v1.0 (04/11/2017)
-(C) 2017 Wave Translations
+Teenage Mutant Ninja Turtles III - Radical Rescue (Game Boy)
+TraducciÃ³n al EspaÃ±ol v2.0 (29/10/2022)
+(C) 2022 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducciÃ³n y hacking es completamente original.
+Si encuentras algÃºn fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
 
-1. Sobre Teenage Mutant Ninja Turtles III - Radical Rescue
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. Créditos del Parche
+V2.0:
+-Modificados acentos
+-Cambiado PASSWORD por CLAVE
+-Cambiado GAME OVER por FIN JUEGO
+-Textos reajustados
+-AÃ±adidos grÃ¡ficos para "MAPA"
 
------------------
-1. Sobre Teenage Mutant Ninja Turtles III - Radical Rescue
------------------
-Metroidvania con las tortugas ninja.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducción y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche está en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Teenage Mutant Ninja Turtles III - Radical Rescue (U) [!].gb
-131.072	bytes
-CRC32: 58832bbc
+Teenage Mutant Ninja Turtles III - Radical Rescue (USA).gb
 MD5: e6104df1feb1318ff1764c791eb4ce0e
 SHA1: 29f5de9e4c0f21bf8bffc721dacf1790446a5923
+CRC32: 58832bbc
+131072 bytes
 
-----------------------
-5. Créditos del Parche
-----------------------
-Wave - Hacking y traducción
+--------
+CrÃ©ditos
+--------
+Wave - Hacking, traducciÃ³n y pruebas.
 
--- END OF README --
+-- FIN --

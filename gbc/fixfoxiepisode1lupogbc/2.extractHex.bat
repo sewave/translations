@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Fix & Foxi - Episode 1 Lupo (Europe) (En,Fr,De).gbc"
+set SCRIPTNAME="fixfoxiepisode1lupogbc"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 87BFC:60,87DFC:30,8C1B0:60,8C3B0:30,702B:280,8D048:60,8D2C8:60,8D548:60,A0000:100,CC750:20,CC830:200,C8E90:80,C8FD0:80,C9100:80,C9250:60,C9380:80,C94D0:70,C9610:40,C9750:40
+pause

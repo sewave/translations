@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Super Mario Bros. 3 (U) (PRG1) [!].nes"
-set S_FILENAME="Super Mario Bros. 3 (U) (PRG1) [!].nes"
+set T_FILENAME="TR_Super Mario Bros. 3 (USA) (Rev A).nes"
+set S_FILENAME="Super Mario Bros. 3 (USA) (Rev A).nes"
 set SCRIPTNAME="supermariobros3nes"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

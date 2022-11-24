@@ -1,0 +1,396 @@
+@00000525-0000058D-00
+;00000525{DEVELOPED FOR USE ONLY WITH~00~}#031#028
+DEVELOPED FOR USE ONLY WITH~00~#028
+;00000541{~12~&~00~}#009#003
+~12~&~00~#003
+;00000544{~0F~SYSTEMS.~00~}#016#010
+~0F~SYSTEMS.~00~#010
+;0000054E{~0C~NTSC MEGA DRIVE~00~}#023#017
+~0C~NTSC MEGA DRIVE~00~#017
+;0000055F{/NTSC GENESIS~00~}#017#014
+/NTSC GENESIS~00~#014
+;0000056D{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~PAL AND FRENCH SECAM MEGA DRIVE~00~#033
+|105
+@00015DE1-00015DFE-00
+;00015DE1{ROM FREE~02~~02~~1A~RAM FREE~02~~17~~19~SPRITES~01~}#051#030
+ROM FREE~02~~02~~1A~RAM FREE~02~~17~~19~SPRITES~01~#030
+|30
+@00027694-00027722-00
+;00027694{AWARDS~00~}#010#007
+AWARDS~00~#007
+;0002769B{HIGH SCORES~00~}#015#012
+HIGH SCORES~00~#012
+;000276A7{BONUS: ~00~}#011#008
+BONUS: ~00~#008
+;000276AF{FORM: ~00~}#010#007
+FORM: ~00~#007
+;000276B6{CONGRATULATIONS!~00~}#020#017
+CONGRATULATIONS!~00~#017
+;000276C7{YOU HAVE~00~}#012#009
+YOU HAVE~00~#009
+;000276D0{COMPLETED~00~}#013#010
+COMPLETED~00~#010
+;000276DA{DRAGON~00~}#010#007
+DRAGON~00~#007
+;000276E1{PERFECT~00~}#011#008
+PERFECT~00~#008
+;000276E9{ROUND!~00~}#010#007
+ROUND!~00~#007
+;000276F0{DOUBLE~00~}#010#007
+DOUBLE~00~#007
+;000276F7{BONUS~00~}#009#006
+BONUS~00~#006
+;000276FD{THE WINNER~00~}#014#011
+THE WINNER~00~#011
+;00027708{DRAGON~00~}#010#007
+DRAGON~00~#007
+;0002770F{THE BRUCE LEE STORY~00~}#023#020
+THE BRUCE LEE STORY~00~#020
+|143
+@00027756-0002776D-00
+;00027756{START~00~}#009#006
+START~00~#006
+;0002775C{OPTIONS~00~}#011#008
+OPTIONS~00~#008
+;00027764{PINOCCHIO~00~}#013#010
+PINOCCHIO~00~#010
+|24
+@0005C902-0005C983-00
+;0005C902{An Actors Life For Me~00~}#025#022
+An Actors Life For Me~00~#022
+;0005C918{Lampside Seating~00~}#020#017
+Lampside Seating~00~#017
+;0005C929{Marionette Show~00~}#019#016
+Marionette Show~00~#016
+;0005C939{Pleasure Island~00~}#019#016
+Pleasure Island~00~#016
+;0005C949{Escape~00~}#010#007
+Escape~00~#007
+;0005C950{Search for Monstro~00~}#022#019
+Search for Monstro~00~#019
+;0005C963{Fish!~00~}#009#006
+Fish!~00~#006
+;0005C969{Inner Fishy~00~}#015#012
+Inner Fishy~00~#012
+;0005C975{Homeward Bound~00~}#018#015
+Homeward Bound~00~#015
+|130
+@00061FB2-00062602-FF
+;00061FB2{Title Music~FF~}#015#012
+Title Music~FF~#012
+;00061FBE{Level 1~FF~}#011#008
+Level 1~FF~#008
+;00061FC6{Level 2~FF~}#011#008
+Level 2~FF~#008
+;00061FCE{Level 3~FF~}#011#008
+Level 3~FF~#008
+;00061FD6{Level 4~FF~}#011#008
+Level 4~FF~#008
+;00061FDE{Level 5~FF~}#011#008
+Level 5~FF~#008
+;00061FE6{Level 6~FF~}#011#008
+Level 6~FF~#008
+;00061FEE{Level 7~FF~}#011#008
+Level 7~FF~#008
+;00061FF6{Level 8~FF~}#011#008
+Level 8~FF~#008
+;00061FFE{Level 9~FF~}#011#008
+Level 9~FF~#008
+;00062006{Oars~FF~}#008#005
+Oars~FF~#005
+;0006200B{Pinocchio_splash~FF~}#020#017
+Pinocchio_splash~FF~#017
+;0006201C{Raft_hits_rock~FF~}#018#015
+Raft_hits_rock~FF~#015
+;0006202B{Geppetto_splash~FF~}#019#016
+Geppetto_splash~FF~#016
+;0006203B{Gull~FF~}#008#005
+Gull~FF~#005
+;00062040{Speed_up~FF~}#012#009
+Speed_up~FF~#009
+;00062049{Land_on_raft~FF~}#016#013
+Land_on_raft~FF~#013
+;00062056{Generic_pushing_sound~FF~}#025#022
+Generic_pushing_sound~FF~#022
+;0006206C{Pickup_continue~FF~}#019#016
+Pickup_continue~FF~#016
+;0006207C{Collect_extra_life~FF~}#022#019
+Collect_extra_life~FF~#019
+;0006208F{Collect_health~FF~}#018#015
+Collect_health~FF~#015
+;0006209E{Collect_page~FF~}#016#013
+Collect_page~FF~#013
+;000620AB{Collect_spin~FF~}#016#013
+Collect_spin~FF~#013
+;000620B8{Select_beep~FF~}#015#012
+Select_beep~FF~#012
+;000620C4{Accept_beep~FF~}#015#012
+Accept_beep~FF~#012
+;000620D0{Pinocchio_spin~FF~}#018#015
+Pinocchio_spin~FF~#015
+;000620DF{Spin_on_sign~FF~}#016#013
+Spin_on_sign~FF~#013
+;000620EC{Hit_ground_big_fall~FF~}#023#020
+Hit_ground_big_fall~FF~#020
+;00062100{Pinocchio_stunned~FF~}#021#018
+Pinocchio_stunned~FF~#018
+;00062112{Pinocchio_shot_out~FF~}#022#019
+Pinocchio_shot_out~FF~#019
+;00062125{Balloon_popping~FF~}#019#016
+Balloon_popping~FF~#016
+;00062135{Firework_exploding~FF~}#022#019
+Firework_exploding~FF~#019
+;00062148{Roller_car_spark~FF~}#020#017
+Roller_car_spark~FF~#017
+;00062159{Cars_colliding~FF~}#018#015
+Cars_colliding~FF~#015
+;00062168{Donkey_braying~FF~}#018#015
+Donkey_braying~FF~#015
+;00062177{Crates_being_broken~FF~}#023#020
+Crates_being_broken~FF~#020
+;0006218B{Shadow_creature_hit~FF~}#023#020
+Shadow_creature_hit~FF~#020
+;0006219F{Coachman_hit~FF~}#016#013
+Coachman_hit~FF~#013
+;000621AC{Coachman's_whip~FF~}#019#016
+Coachman's_whip~FF~#016
+;000621BC{Collapsing_platform~FF~}#023#020
+Collapsing_platform~FF~#020
+;000621D0{Spinning_into_crates~FF~}#024#021
+Spinning_into_crates~FF~#021
+;000621E5{Collect_firewood~FF~}#020#017
+Collect_firewood~FF~#017
+;000621F6{Pushing_barrels~FF~}#019#016
+Pushing_barrels~FF~#016
+;00062206{Fire~FF~}#008#005
+Fire~FF~#005
+;0006220B{Angry_Monstro_noise~FF~}#023#020
+Angry_Monstro_noise~FF~#020
+;0006221F{Jiminy_hit~FF~}#014#011
+Jiminy_hit~FF~#011
+;0006222A{Jiminy_dead~FF~}#015#012
+Jiminy_dead~FF~#012
+;00062236{Moth_hit~FF~}#012#009
+Moth_hit~FF~#009
+;0006223F{Pill_bug_hit~FF~}#016#013
+Pill_bug_hit~FF~#013
+;0006224C{Click_bug_hit~FF~}#017#014
+Click_bug_hit~FF~#014
+;0006225A{Bomber_beetle_dive~FF~}#022#019
+Bomber_beetle_dive~FF~#019
+;0006226D{Bomber_beetle_hit~FF~}#021#018
+Bomber_beetle_hit~FF~#018
+;0006227F{Lion_fish_roar~FF~}#018#015
+Lion_fish_roar~FF~#015
+;0006228E{Electric_eel_shock~FF~}#022#019
+Electric_eel_shock~FF~#019
+;000622A1{Crab_snapping~FF~}#017#014
+Crab_snapping~FF~#014
+;000622AF{Sea_anemone_suck_in~FF~}#023#020
+Sea_anemone_suck_in~FF~#020
+;000622C3{Sea_anemone_spit_out~FF~}#024#021
+Sea_anemone_spit_out~FF~#021
+;000622D8{Tuna_burp~FF~}#013#010
+Tuna_burp~FF~#010
+;000622E2{Cheer~FF~}#009#006
+Cheer~FF~#006
+;000622E8{Boo~FF~}#007#004
+Boo~FF~#004
+;000622EC{Coins_landing~FF~}#017#014
+Coins_landing~FF~#014
+;000622FA{Tomato_splat~FF~}#016#013
+Tomato_splat~FF~#013
+;00062307{Fairy_spell~FF~}#015#012
+Fairy_spell~FF~#012
+;00062313{Pinocchio_dead_jingle~FF~}#025#022
+Pinocchio_dead_jingle~FF~#022
+;00062329{Pinocchio_hit~FF~}#017#014
+Pinocchio_hit~FF~#014
+;00062337{Pinocchio_nose_grow~FF~}#023#020
+Pinocchio_nose_grow~FF~#020
+;0006234B{Pinocchio_nose_shrink~FF~}#025#022
+Pinocchio_nose_shrink~FF~#022
+;00062361{Misc_arpeggio~FF~}#017#014
+Misc_arpeggio~FF~#014
+;0006236F{Honest_john_hit~FF~}#019#016
+Honest_john_hit~FF~#016
+;0006237F{Gideon_hit~FF~}#014#011
+Gideon_hit~FF~#011
+;0006238A{Boy_hit~FF~}#011#008
+Boy_hit~FF~#008
+;00062392{Fairy_cast_spell~FF~}#020#017
+Fairy_cast_spell~FF~#017
+;000623A3{Fairy_appear~FF~}#016#013
+Fairy_appear~FF~#013
+;000623B0{Honest_john_cane~FF~}#020#017
+Honest_john_cane~FF~#017
+;000623C1{Honset_john_throw~FF~}#021#018
+Honset_john_throw~FF~#018
+;000623D3{Gideon_use_mallet~FF~}#021#018
+Gideon_use_mallet~FF~#018
+;000623E5{Gideon_catch_boot~FF~}#021#018
+Gideon_catch_boot~FF~#018
+;000623F7{Boy_throw_brick~FF~}#019#016
+Boy_throw_brick~FF~#016
+;00062407{Ball_bounce~FF~}#015#012
+Ball_bounce~FF~#012
+;00062413{Shutters_opening~FF~}#020#017
+Shutters_opening~FF~#017
+;00062424{Spinning_sign~FF~}#017#014
+Spinning_sign~FF~#014
+;00062432{Jump_on_water_pump~FF~}#022#019
+Jump_on_water_pump~FF~#019
+;00062445{Water_from_pump~FF~}#019#016
+Water_from_pump~FF~#016
+;00062455{Geese_squawking~FF~}#019#016
+Geese_squawking~FF~#016
+;00062465{Geese_fighting~FF~}#018#015
+Geese_fighting~FF~#015
+;00062474{Rooftile_collapse~FF~}#021#018
+Rooftile_collapse~FF~#018
+;00062486{Flowerpot_smash~FF~}#019#016
+Flowerpot_smash~FF~#016
+;00062496{Jiminy_use_umbrella~FF~}#023#020
+Jiminy_use_umbrella~FF~#020
+;000624AA{Jiminy_parachute~FF~}#020#017
+Jiminy_parachute~FF~#017
+;000624BB{Jiminy_jump_up~FF~}#018#015
+Jiminy_jump_up~FF~#015
+;000624CA{Jiminy_land~FF~}#015#012
+Jiminy_land~FF~#012
+;000624D6{Jiminy_pop_from_hat~FF~}#023#020
+Jiminy_pop_from_hat~FF~#020
+;000624EA{Jiminy_blow_umbrella~FF~}#024#021
+Jiminy_blow_umbrella~FF~#021
+;000624FF{Pull_up_floorboards~FF~}#023#020
+Pull_up_floorboards~FF~#020
+;00062513{Puppets_dropped_in~FF~}#022#019
+Puppets_dropped_in~FF~#019
+;00062526{Puppets_whisked_out~FF~}#023#020
+Puppets_whisked_out~FF~#020
+;0006253A{Lampwick_whistle~FF~}#020#017
+Lampwick_whistle~FF~#017
+;0006254B{Ring_bell~FF~}#013#010
+Ring_bell~FF~#010
+;00062555{Pinocchio_hit_buffer~FF~}#024#021
+Pinocchio_hit_buffer~FF~#021
+;0006256A{Launch_firework~FF~}#019#016
+Launch_firework~FF~#016
+;0006257A{Generic_rumbleloop~FF~}#022#019
+Generic_rumbleloop~FF~#019
+;0006258D{Donkey_bucking~FF~}#018#015
+Donkey_bucking~FF~#015
+;0006259C{Generic_bubbles_loop~FF~}#024#021
+Generic_bubbles_loop~FF~#021
+;000625B1{Tube_anemone~FF~}#016#013
+Tube_anemone~FF~#013
+;000625BE{Monstro_water~FF~}#017#014
+Monstro_water~FF~#014
+;000625CC{Faster_bubbles~FF~}#018#015
+Faster_bubbles~FF~#015
+;000625DB{Manta_ray~FF~}#013#010
+Manta_ray~FF~#010
+;000625E5{Grab_fish_tail~FF~}#018#015
+Grab_fish_tail~FF~#015
+;000625F4{Fanfare_jingle~FF~}#018#015
+Fanfare_jingle~FF~#015
+|1617
+@0006288D-000637E9-FF
+;0006288D{   CREDITS//////~00~   LONDON STUDIOS//~00~   VIRGIN INTERACTIVE ENTERTAINMENT////~01~   PROGRAMMING//~02~    DAVE CHAPMAN//~02~    PHIL LEWIN//~02~    LEO SKIRENKO//~02~    RICHARD TURNER////~01~   HEAD PROGRAMMER//~02~    MIKE BALL////~01~   CHIEF DESIGNER//~02~    DAN MARCHANT////~01~   ASSISTANT DESIGNER//~02~    SARAH THOMPSON////~01~   HEAD ARTIST//~02~    KEVIN OXLAND////~01~   ANIMATORS//~02~    PAUL HALLEWELL//~02~    PATRICK BEIRNE//~02~    STEPHEN CAVALIER//~02~    SIMON SWIFT////~01~   SPRITE ARTISTS//~02~    MARK ANTHONY//~02~    WAYNE DALTON//~02~    MARINA VYDELINGUM//~02~    ERIC BAILEY//~02~    MATT BUTLER////~01~   WESTWOOD STUDIOS/~01~   SPRITE ARTISTS//~02~    CINDY CHIN//~02~    FRANK SAXTON//~02~    PENINA FINGER//~02~    KENNN SEWARD//~02~    ANDY WILSON////~01~   BACKGROUND ARTISTS//~02~    MARK BENTLEY//~02~    EMMA CUBBERLEY//~02~    JONATHAN GREEN////~01~   MUSIC AND SOUND EFFECTS//~02~    ALLISTER BRIMBLE////~01~   STORYBOARDS//~02~    SEAN MILLARD////~01~   PRODUCER //~02~    DAVE VOUT////~01~   ASSISTANT PRODUCER//~02~    PAUL WELTON////~01~   EXECUTIVE PRODUCER//~02~    TONY FAGELMAN////~01~   DIRECTOR//~02~    DAN MARCHANT////~01~   LEAD TESTERS//~02~    TONY HINDS//~02~    TONY BYUS////~01~   TESTERS//~02~    MICHAEL WENN//~02~    ALON MALKA//////////~01~   SPECIAL THANKS//~02~    ALL THE LONDON STUDIOS TEAM//~02~    LOUIS CASTLE//~02~    JONATHAN HOWARD//~02~    TIM CHANEY//~02~    COLIN GORDON//~02~    DAVID BISHOP//~02~    JULIAN RIGNALL//~02~    MICHAEL GIACCHINO//~02~    AND ALL THE VIRGIN ATLANTIC STAFF/~02~    (FLORIDA AND LA ROUTES)//////////~00~   DISNEY INTERACTIVE////~01~   SENIOR PRODUCER//~02~    PATRICK GILMORE////~01~   ASSOCIATE PRODUCER//~02~    LEILA CHANG////~01~   PROJECT MANAGER//~02~    CHIP VOLLERS////~01~   PRODUCTION ADMINISTRATOR//~02~    JAMES MELLOT////~01~   TEST SUPERVISOR//~02~    JEFFREY W. BLATTNER////~01~   LEAD TESTER //~02~    MARY SCHUYLER////~01~   TESTERS//~02~    JOHN CASTRO //~02~    PATRICK LARKIN//~02~    RONNY LOUIE//~02~    DARYL DAVID//~02~    JESSE DAVID//~02~    ANDRE AGUILAR//~02~    TOBY ESPIRITU//~02~    WEIJEAN STRAND//~02~    DAVID MENDELSON////~01~   DOCUMENTATION//~02~    ANDREA SMITH////~01~   SPECIAL THANKS//~02~    MICHAEL CLEMENT//////////~00~   WALT DISNEY FEATURE ANIMATION//~00~   ANIMATION SERVICES////~01~   PRODUCER //~02~    PAUL CURASI////~01~   ASSOCIATE PRODUCER//~02~    CHUCK WILLIAMS////~01~   CHARACTER DESIGN AND/~01~   DEVELOPMENT//~02~    JIM STORY//~02~    SEUNG KIM//~02~    MICHAEL BENET////~01~   SUPERVISING ANIMATOR//~02~    CHRIS BRADLEY////~01~   ANIMATORS//~02~    MICHAEL BENET//~02~    TIM MASSA//~02~    TONY STANLEY//~02~    CRAIG GRASSO//~02~    DARKO CESAR//~02~    ROB CORLEY//~02~    ELLIOT BOUR//~02~    TRAVIS BLAISE////~01~   CLEAN-UP//~02~    ARDEN CHAN//~02~    KEVIN PROCTOR//~02~    MERRIT ANDREWS//~02~    CAROLINE CLIFFORD//~02~    KIM TORPEY//~02~    JULIA WOOLF//~02~    AMANDA BARNES//~02~    DANIELA TOPHAM//~02~    JOANNE GOODING//~02~    ANNIE O'DELL////~01~   EFFECTS ANIMATORS//~02~    JOE GILLAND//~02~    GARY SOLE////~01~   HEAD OF IMAGE PROCESSING/~01~   AND COLOR MODELS//~02~    PAM DARLEY////~01~   IMAGE PROCESSING//~02~    CYNDI SAGER////~01~   ANIMATION CHECK//~02~    JACQUELINE HOOKS////~01~   SCANNING//~02~    JAY SHINDELL////~01~   EDITOR//~02~    JEFF DRAHEIM////~01~   POST-PRODUCTION ASSOCIATE//~02~    GARY BLAIR//////~01~   PRODUCTION MANAGEMENT//~01~   PRODUCTION MANAGER//~02~    CAMMIE CAVALIN////~01~   PRODUCTION COORDINATOR//~02~    LAURA ROBERSON////~01~   ASSISTANT TO THE PRODUCER//~02~    ANNETTE LAGUER////~01~   PERSONNEL ADMINISTRATOR//~02~    JAN SEKETA////~01~   BUSINESS MANAGER//~02~    CINDY BELTZ////~01~   PRODUCTION ACCOUNTANT//~02~    STEPHANIE THRIFT////~01~   TECHNICAL SUPPORT//~02~    ENRIQUE SANTOS//~02~    DON GWOREK//~02~    RAUL ANAYA//~02~    TODD KING//~02~    JOHN OUTTEN////~01~   PRODUCTION ASSISTANTS//~02~    SCOTT HUTTON//~02~    JAY SHINDELL//~02~    BARNEY NORTH////~01~   LONDON CREW//~01~   SUPERVISING ANIMATOR//~02~    ULI MEYER////~01~   ANIMATORS//~02~    GARY DUNN//~02~    DEAN ROBERTS//~02~    ARNAUD BERTHIER//~02~    TOM LOCK//~02~    PANAGIOTIS RAPPIS//~02~    ANDREAS WESSEL-THERHORN//~02~    MARK BROECKING////~01~   CLEAN-UP//~02~    RICHARD JACK//~02~    CHRISTOPHER CLARKE//~02~    NIEL BUSHNELL//~02~    MICHELE CRAIG//~02~    DEBBIE WALL////~01~   PRODUCTION COORDINATOR//~02~    JULIE PYE//////////////////////////////////~FF~}#4488#3933
+   CREDITS//////~00~   LONDON STUDIOS//~00~   VIRGIN INTERACTIVE ENTERTAINMENT////~01~   PROGRAMMING//~02~    DAVE CHAPMAN//~02~    PHIL LEWIN//~02~    LEO SKIRENKO//~02~    RICHARD TURNER////~01~   HEAD PROGRAMMER//~02~    MIKE BALL////~01~   CHIEF DESIGNER//~02~    DAN MARCHANT////~01~   ASSISTANT DESIGNER//~02~    SARAH THOMPSON////~01~   HEAD ARTIST//~02~    KEVIN OXLAND////~01~   ANIMATORS//~02~    PAUL HALLEWELL//~02~    PATRICK BEIRNE//~02~    STEPHEN CAVALIER//~02~    SIMON SWIFT////~01~   SPRITE ARTISTS//~02~    MARK ANTHONY//~02~    WAYNE DALTON//~02~    MARINA VYDELINGUM//~02~    ERIC BAILEY//~02~    MATT BUTLER////~01~   WESTWOOD STUDIOS/~01~   SPRITE ARTISTS//~02~    CINDY CHIN//~02~    FRANK SAXTON//~02~    PENINA FINGER//~02~    KENNN SEWARD//~02~    ANDY WILSON////~01~   BACKGROUND ARTISTS//~02~    MARK BENTLEY//~02~    EMMA CUBBERLEY//~02~    JONATHAN GREEN////~01~   MUSIC AND SOUND EFFECTS//~02~    ALLISTER BRIMBLE////~01~   STORYBOARDS//~02~    SEAN MILLARD////~01~   PRODUCER //~02~    DAVE VOUT////~01~   ASSISTANT PRODUCER//~02~    PAUL WELTON////~01~   EXECUTIVE PRODUCER//~02~    TONY FAGELMAN////~01~   DIRECTOR//~02~    DAN MARCHANT////~01~   LEAD TESTERS//~02~    TONY HINDS//~02~    TONY BYUS////~01~   TESTERS//~02~    MICHAEL WENN//~02~    ALON MALKA//////////~01~   SPECIAL THANKS//~02~    ALL THE LONDON STUDIOS TEAM//~02~    LOUIS CASTLE//~02~    JONATHAN HOWARD//~02~    TIM CHANEY//~02~    COLIN GORDON//~02~    DAVID BISHOP//~02~    JULIAN RIGNALL//~02~    MICHAEL GIACCHINO//~02~    AND ALL THE VIRGIN ATLANTIC STAFF/~02~    (FLORIDA AND LA ROUTES)//////////~00~   DISNEY INTERACTIVE////~01~   SENIOR PRODUCER//~02~    PATRICK GILMORE////~01~   ASSOCIATE PRODUCER//~02~    LEILA CHANG////~01~   PROJECT MANAGER//~02~    CHIP VOLLERS////~01~   PRODUCTION ADMINISTRATOR//~02~    JAMES MELLOT////~01~   TEST SUPERVISOR//~02~    JEFFREY W. BLATTNER////~01~   LEAD TESTER //~02~    MARY SCHUYLER////~01~   TESTERS//~02~    JOHN CASTRO //~02~    PATRICK LARKIN//~02~    RONNY LOUIE//~02~    DARYL DAVID//~02~    JESSE DAVID//~02~    ANDRE AGUILAR//~02~    TOBY ESPIRITU//~02~    WEIJEAN STRAND//~02~    DAVID MENDELSON////~01~   DOCUMENTATION//~02~    ANDREA SMITH////~01~   SPECIAL THANKS//~02~    MICHAEL CLEMENT//////////~00~   WALT DISNEY FEATURE ANIMATION//~00~   ANIMATION SERVICES////~01~   PRODUCER //~02~    PAUL CURASI////~01~   ASSOCIATE PRODUCER//~02~    CHUCK WILLIAMS////~01~   CHARACTER DESIGN AND/~01~   DEVELOPMENT//~02~    JIM STORY//~02~    SEUNG KIM//~02~    MICHAEL BENET////~01~   SUPERVISING ANIMATOR//~02~    CHRIS BRADLEY////~01~   ANIMATORS//~02~    MICHAEL BENET//~02~    TIM MASSA//~02~    TONY STANLEY//~02~    CRAIG GRASSO//~02~    DARKO CESAR//~02~    ROB CORLEY//~02~    ELLIOT BOUR//~02~    TRAVIS BLAISE////~01~   CLEAN-UP//~02~    ARDEN CHAN//~02~    KEVIN PROCTOR//~02~    MERRIT ANDREWS//~02~    CAROLINE CLIFFORD//~02~    KIM TORPEY//~02~    JULIA WOOLF//~02~    AMANDA BARNES//~02~    DANIELA TOPHAM//~02~    JOANNE GOODING//~02~    ANNIE O'DELL////~01~   EFFECTS ANIMATORS//~02~    JOE GILLAND//~02~    GARY SOLE////~01~   HEAD OF IMAGE PROCESSING/~01~   AND COLOR MODELS//~02~    PAM DARLEY////~01~   IMAGE PROCESSING//~02~    CYNDI SAGER////~01~   ANIMATION CHECK//~02~    JACQUELINE HOOKS////~01~   SCANNING//~02~    JAY SHINDELL////~01~   EDITOR//~02~    JEFF DRAHEIM////~01~   POST-PRODUCTION ASSOCIATE//~02~    GARY BLAIR//////~01~   PRODUCTION MANAGEMENT//~01~   PRODUCTION MANAGER//~02~    CAMMIE CAVALIN////~01~   PRODUCTION COORDINATOR//~02~    LAURA ROBERSON////~01~   ASSISTANT TO THE PRODUCER//~02~    ANNETTE LAGUER////~01~   PERSONNEL ADMINISTRATOR//~02~    JAN SEKETA////~01~   BUSINESS MANAGER//~02~    CINDY BELTZ////~01~   PRODUCTION ACCOUNTANT//~02~    STEPHANIE THRIFT////~01~   TECHNICAL SUPPORT//~02~    ENRIQUE SANTOS//~02~    DON GWOREK//~02~    RAUL ANAYA//~02~    TODD KING//~02~    JOHN OUTTEN////~01~   PRODUCTION ASSISTANTS//~02~    SCOTT HUTTON//~02~    JAY SHINDELL//~02~    BARNEY NORTH////~01~   LONDON CREW//~01~   SUPERVISING ANIMATOR//~02~    ULI MEYER////~01~   ANIMATORS//~02~    GARY DUNN//~02~    DEAN ROBERTS//~02~    ARNAUD BERTHIER//~02~    TOM LOCK//~02~    PANAGIOTIS RAPPIS//~02~    ANDREAS WESSEL-THERHORN//~02~    MARK BROECKING////~01~   CLEAN-UP//~02~    RICHARD JACK//~02~    CHRISTOPHER CLARKE//~02~    NIEL BUSHNELL//~02~    MICHELE CRAIG//~02~    DEBBIE WALL////~01~   PRODUCTION COORDINATOR//~02~    JULIE PYE//////////////////////////////////~FF~#3933
+|3933
+@0006F0E7-0006F166-FF
+;0006F0E7{Jiminy Cricket's=travels take him=to Geppetto's shop.^~11~~06~"Figaro, meet=Pinocchio"=said Geppetto.="How I wish he was=a real boy!"~FF~}#137#128
+Jiminy Cricket's=travels take him=to Geppetto's shop.^~11~~06~"Figaro, meet=Pinocchio"=said Geppetto.="How I wish he was=a real boy!"~FF~#128
+|128
+@0006F17F-0006F1F4-FF
+;0006F17F{The Blue Fairy=promised to grant=Geppetto's wish if=Pinocchio could earn=the badges of==Truth==Bravery==Unselfishness~FF~}#121#118
+The Blue Fairy=promised to grant=Geppetto's wish if=Pinocchio could earn=the badges of==Truth==Bravery==Unselfishness~FF~#118
+|118
+@0006F205-0006F27D-FF
+;0006F205{Waking up, Geppetto=found Pinocchio had=come to life!^~11~~05~Geppetto sent=Pinocchio to school=as Jiminy hurried=to catch up.~FF~}#130#121
+Waking up, Geppetto=found Pinocchio had=come to life!^~11~~05~Geppetto sent=Pinocchio to school=as Jiminy hurried=to catch up.~FF~#121
+|121
+@0006F28D-0006F326-FF
+;0006F28D{"Follow me", said=Honest John, "to easy=street and Stromboli's=Marionette Show!"^~11~~05~"I tried to warn=Pinocchio," thought=Jiminy, "but he=wouldn't listen."~FF~}#163#154
+"Follow me", said=Honest John, "to easy=street and Stromboli's=Marionette Show!"^~11~~05~"I tried to warn=Pinocchio," thought=Jiminy, "but he=wouldn't listen."~FF~#154
+|154
+@0006F337-0006F3AD-FF
+;0006F337{Worried about=Pinocchio,=Geppetto set out=to find him.^~11~~05~The Blue Fairy=helped Pinocchio=escape from=Stromboli's cage.~FF~}#128#119
+Worried about=Pinocchio,=Geppetto set out=to find him.^~11~~05~The Blue Fairy=helped Pinocchio=escape from=Stromboli's cage.~FF~#119
+|119
+@0006F3BD-0006F444-FF
+;0006F3BD{"What you need,=Pinocchio, is a=vacation on=Pleasure Island"^~11~~05~The Coachman yelled,="It's all free boys!"=="Follow me!",cried=Lampwick.~FF~}#145#136
+"What you need,=Pinocchio, is a=vacation on=Pleasure Island"^~11~~05~The Coachman yelled,="It's all free boys!"=="Follow me!",cried=Lampwick.~FF~#136
+|136
+@0006F455-0006F4C6-FF
+;0006F455{"I've got to warn=Pinocchio!",=cried Jiminy.^~11~~05~"We`ve got to escape=before you change=completely!"=yelled Jiminy.~FF~}#123#114
+"I've got to warn=Pinocchio!",=cried Jiminy.^~11~~05~"We`ve got to escape=before you change=completely!"=yelled Jiminy.~FF~#114
+|114
+@0006F4D7-0006F565-FF
+;0006F4D7{At home, Jiminy found=Geppetto, Cleo and=Figaro had gone.^~11~~05~The letter from the=Blue Fairy says they=have been swallowed by=Monstro the whale!~FF~}#152#143
+At home, Jiminy found=Geppetto, Cleo and=Figaro had gone.^~11~~05~The letter from the=Blue Fairy says they=have been swallowed by=Monstro the whale!~FF~#143
+|143
+@0006F575-0006F5F4-FF
+;0006F575{While Pinocchio=searched, Geppetto,=Cleo and Figaro were=trapped inside=Monstro!^~11~~05~Monstro was hungry=and coming for=Pinocchio.~FF~}#137#128
+While Pinocchio=searched, Geppetto,=Cleo and Figaro were=trapped inside=Monstro!^~11~~05~Monstro was hungry=and coming for=Pinocchio.~FF~#128
+|128
+@0006F605-0006F6AC-FF
+;0006F605{"Pinocchio," Geppetto=cried. "I've come to=rescue you, father,"=answered Pinocchio.^~11~~06~"But how?" asked=Geppetto. Pinocchio=had an idea: "let's make=him sneeze us out!"~FF~}#177#168
+"Pinocchio," Geppetto=cried. "I've come to=rescue you, father,"=answered Pinocchio.^~11~~06~"But how?" asked=Geppetto. Pinocchio=had an idea: "let's make=him sneeze us out!"~FF~#168
+|168
+@0006F6BD-0006F71E-FF
+;0006F6BD{The whale=sneezed and they=were free!^~11~~05~Monstro gave chase.="Row faster, father"=cried Pinocchio.~FF~}#107#098
+The whale=sneezed and they=were free!^~11~~05~Monstro gave chase.="Row faster, father"=cried Pinocchio.~FF~#098
+|98
+@0006F72F-0006F7AB-FF
+;0006F72F{Pinocchio ducked=through a hole in=the rock as Monstro=made a last charge.^~11~~06~Geppetto awoke on the=beach, next to=Pinocchio.~FF~}#134#125
+Pinocchio ducked=through a hole in=the rock as Monstro=made a last charge.^~11~~06~Geppetto awoke on the=beach, next to=Pinocchio.~FF~#125
+|125
+@0006F7BB-0006F881-FF
+;0006F7BB{At home Geppetto=lay Pinocchio on=the bed.=="My poor brave=unselfish boy."^~11~~05~Geppetto heard the=Blue Fairy. "As he=has proven to be brave,=truthful and unselfish,=he will be a real boy=forevermore!"~FF~}#208#199
+At home Geppetto=lay Pinocchio on=the bed.=="My poor brave=unselfish boy."^~11~~05~Geppetto heard the=Blue Fairy. "As he=has proven to be brave,=truthful and unselfish,=he will be a real boy=forevermore!"~FF~#199
+|199
+@0006F891-0006F963-FF
+;0006F891{"Father", said=Pinocchio.="I'm a real boy!"="A real boy!"=cried Geppetto="This calls for=a celebration!"^~11~~05~"When you wish upon=a star," thought=Jiminy Cricket,="Your dreams do come=true. Gee thanks=Blue Fairy."~FF~}#220#211
+"Father", said=Pinocchio.="I'm a real boy!"="A real boy!"=cried Geppetto="This calls for=a celebration!"^~11~~05~"When you wish upon=a star," thought=Jiminy Cricket,="Your dreams do come=true. Gee thanks=Blue Fairy."~FF~#211
+|211
+@0006F96B-0006FA02-FF
+;0006F96B{PINOCCHIO^~13~~05~OPTIONS^~04~~08~Difficulty..........==Music...............==Sound Effects......==Sound Test.........==Joypad Buttons.....====Credits.............~FF~}#167#152
+PINOCCHIO^~13~~05~OPTIONS^~04~~08~Difficulty..........==Music...............==Sound Effects......==Sound Test.........==Joypad Buttons.....====Credits.............~FF~#152
+|152
+@0006FB32-0006FB42-FF
+;0006FB32{Easy~FF~}#008#005
+Easy~FF~#005
+;0006FB37{Normal~FF~}#010#007
+Normal~FF~#007
+;0006FB3E{Hard~FF~}#008#005
+Hard~FF~#005
+|17
+@0006FB5A-0006FB60-FF
+;0006FB5A{Off~FF~}#007#004
+Off~FF~#004
+;0006FB5E{On~FF~}#006#003
+On~FF~#003
+|7
+@0006FB78-0006FB7E-FF
+;0006FB78{Off~FF~}#007#004
+Off~FF~#004
+;0006FB7C{On~FF~}#006#003
+On~FF~#003
+|7
+@0006FBBA-0006FC61-FF
+;0006FBBA{A  Attack=B  Shield=C  Jump~FF~}#031#028
+A  Attack=B  Shield=C  Jump~FF~#028
+;0006FBD6{A  Attack=C  Shield=B  Jump~FF~}#031#028
+A  Attack=C  Shield=B  Jump~FF~#028
+;0006FBF2{B  Attack=A  Shield=C  Jump~FF~}#031#028
+B  Attack=A  Shield=C  Jump~FF~#028
+;0006FC0E{B  Attack=C  Shield=A  Jump~FF~}#031#028
+B  Attack=C  Shield=A  Jump~FF~#028
+;0006FC2A{C  Attack=A  Shield=B  Jump~FF~}#031#028
+C  Attack=A  Shield=B  Jump~FF~#028
+;0006FC46{C  Attack=B  Shield=A  Jump~FF~}#031#028
+C  Attack=B  Shield=A  Jump~FF~#028
+|168

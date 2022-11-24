@@ -1,47 +1,40 @@
-Super Mario Bros. 3
-TraducciÛn al EspaÒol v1.0 (22/06/2018)
-(C) 2018 Wave Translations
+Super Mario Bros (NES)
+Traducci√≥n al Espa√±ol v2.1 (13/11/2022)
+(C) 2022 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducci√≥n y hacking es completamente original.
+Si encuentras alg√∫n fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
+V2.0:
+-Arreglos menores de guion
+-Corregidos gr√°ficos F, S, 1, 2 en "GAME OVER"
+-Traducido "GAME OVER"
+-Acentuado "CONTIN√öA"
+-Traducidos gr√°ficos "START"
+-Traducidos gr√°ficos "1UP" por "1VD"
+-Traducidos gr√°ficos "POW" por "POD"
+-Traducidos gr√°ficos "THE END"
+V2.1:
+-Arreglado "GAME OVER" en mundos de pantallas m√∫ltiples
+-Cambiado "CONTIN√öA" por "CONTINUAR"
 
-1. Sobre Super Mario Bros. 3
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. CrÈditos del Parche
-
------------------
-1. Sobre Super Mario Bros. 3
------------------
-Tercera parte de Super Mario para la NES.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducciÛn y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
-TambiÈn puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche est· en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Super Mario Bros. 3 (U) (PRG1) [!].nes
-393.232	bytes
-CRC32: 0b742b33
+Super Mario Bros. 3 (USA) (Rev A).nes
 MD5: 86d1982fea7342c0af9679ddf3869d8d
 SHA1: 6bd518e85eb46a4252af07910f61036e84b020d1
+CRC32: 0b742b33
+393232 bytes
 
-----------------------
-5. CrÈditos del Parche
-----------------------
-Wave - Hacking y traducciÛn
+--------
+Cr√©ditos
+--------
+Wave - Hacking, traducci√≥n y pruebas.
 
--- END OF README --
+-- FIN --

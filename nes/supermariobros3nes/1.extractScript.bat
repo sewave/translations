@@ -1,5 +1,5 @@
 @echo off
-set T_FILENAME="Super Mario Bros. 3 (U) (PRG1) [!].nes"
+set T_FILENAME="Super Mario Bros. 3 (USA) (Rev A).nes"
 set SCRIPTNAME="supermariobros3nes"
 java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%.ext %SCRIPTNAME%.off
 java -jar Hextractor.jar -a %SCRIPTNAME%Alt.tbl %T_FILENAME% %SCRIPTNAME%Alt.ext %SCRIPTNAME%Alt.off

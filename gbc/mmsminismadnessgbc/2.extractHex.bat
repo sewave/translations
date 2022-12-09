@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_M&M's Minis Madness (USA).gbc"
+set SCRIPTNAME="mmsminismadnessgbc"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 627C0:10,62880:20,62900:10,1210F:40,121EF:70,2410F:40,241EF:70,4AC51:30,4AD51:30,4AE21:30,4B361:30,4B5A1:40,1D561:180,1CE91:130,68451:50
+pause

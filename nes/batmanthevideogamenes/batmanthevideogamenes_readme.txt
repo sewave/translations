@@ -1,6 +1,6 @@
 Batman - The Video Game (NES)
-Traducción al Español v1.0 (27/10/2019)
-(C) 2019 Traducciones Wave
+Traducción al Español v2.0 (03/12/2022)
+(C) 2022 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -8,6 +8,13 @@ Notas y Fallos Conocidos
 Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+V2.0:
+-Cambiada P por J en la barra de estado
+-Guion revisado (Mayúscula faltante, tú no acentuado, etc)
+-Agrandada tilde de la licencia
+-Traducido gráfico 'DON'T WALK'
+-Traducido gráfico 'GOTHAM CITY HALL'
 
 ------------------------
 Instrucciones de Parcheo

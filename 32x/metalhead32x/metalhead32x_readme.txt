@@ -1,5 +1,5 @@
-Blackthorne (Mega Drive 32X)
-Traducción al Español v1.1 (19/12/2022)
+Metal Head (Mega Drive 32X)
+Traducción al Español v1.0 (10/12/2022)
 (C) 2022 Traducciones Wave
 
 ------------------------
@@ -9,19 +9,15 @@ Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
-V1.1:
--Alargado texto que se salía de la ventana
--Arreglado texto que congelaba el juego en el nivel 4
-
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Blackthorne (USA).32x
-MD5: c238b112113b0297b2b9f4f618d56598
-SHA1: 4bf120cf056fe1417ca5b02fa0372ef33cb8ec11
-CRC32: d1a60a47
+Metal Head (Japan, USA) (En,Ja).32x
+MD5: 03cc5d7549d71ba4e9ddc1beae3805fb
+SHA1: 4e872fbb44ecb2bd730abd8cc8f32f96b10582c0
+CRC32: ef5553ff
 3145728 bytes
 
 --------

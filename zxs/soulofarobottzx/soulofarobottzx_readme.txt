@@ -1,5 +1,5 @@
-Blackthorne (Mega Drive 32X)
-Traducción al Español v1.1 (19/12/2022)
+Soul Of A Robot (ZX Spectrum)
+Traducción al Español v1.0 (10/12/2022)
 (C) 2022 Traducciones Wave
 
 ------------------------
@@ -9,20 +9,16 @@ Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
-V1.1:
--Alargado texto que se salía de la ventana
--Arreglado texto que congelaba el juego en el nivel 4
-
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Blackthorne (USA).32x
-MD5: c238b112113b0297b2b9f4f618d56598
-SHA1: 4bf120cf056fe1417ca5b02fa0372ef33cb8ec11
-CRC32: d1a60a47
-3145728 bytes
+Soul Of A Robot.tzx
+MD5: 225e329f7176b44f6a8b0788e9a69f37
+SHA1: 75303218bc8cc091e738d6fe0949aefd2082e758
+CRC32: 2151cbbb
+46085 bytes
 
 --------
 Créditos

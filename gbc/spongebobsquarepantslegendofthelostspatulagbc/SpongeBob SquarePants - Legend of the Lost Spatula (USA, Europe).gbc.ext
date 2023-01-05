@@ -1,0 +1,584 @@
+@000050DE-00005129-00
+;000050DE{Resume Game~00~}#015#012
+Resume Game~00~#012
+;000050EA{~0C~Restart Area~00~}#020#014
+~0C~Restart Area~00~#014
+;000050F8{~09~Quit Game~00~}#017#011
+~09~Quit Game~00~#011
+;00005103{~0C~Level Select~00~}#020#014
+~0C~Level Select~00~#014
+;00005111{Password~00~}#012#009
+Password~00~#009
+;0000511A{~0A~Pause Menu~00~}#018#012
+~0A~Pause Menu~00~#012
+;00005126{~0A~~04~~02~~DD~}#016#004
+~0A~~04~~02~~DD~#004
+|76
+@0000527F-00005494-00
+;0000527F{View all goals~00~}#018#015
+View all goals~00~#015
+;0000528E{~08~View map~00~}#016#010
+~08~View map~00~#010
+;00005298{~0A~Equip item~00~}#018#012
+~0A~Equip item~00~#012
+;000052A4{Location~00~}#012#009
+Location~00~#009
+;000052AD{~05~Goals~00~}#013#007
+~05~Goals~00~#007
+;000052B4{~0C~Safety First~00~}#020#014
+~0C~Safety First~00~#014
+;000052C2{~11~SpongeBob's Block~00~}#025#019
+~11~SpongeBob's Block~00~#019
+;000052D5{~08~Downtown~00~}#016#010
+~08~Downtown~00~#010
+;000052DF{~0A~Outer Town~00~}#018#012
+~0A~Outer Town~00~#012
+;000052EB{~0C~Sandy's Park~00~}#020#014
+~0C~Sandy's Park~00~#014
+;000052F9{~0E~The Goo Lagoon~00~}#022#016
+~0E~The Goo Lagoon~00~#016
+;00005309{~0F~Undersea Desert~00~}#023#017
+~0F~Undersea Desert~00~#017
+;0000531A{~0C~The Carnival~00~}#020#014
+~0C~The Carnival~00~#014
+;00005328{~10~Jellyfish Fields~00~}#024#018
+~10~Jellyfish Fields~00~#018
+;0000533A{~10~Kelpazoic Jungle~00~}#024#018
+~10~Kelpazoic Jungle~00~#018
+;0000534C{~0B~Rock Bottom~00~}#019#013
+~0B~Rock Bottom~00~#013
+;00005359{~0B~Dutch Under~00~}#019#013
+~0B~Dutch Under~00~#013
+;00005366{~0F~Reset Stage Nr.~00~}#023#017
+~0F~Reset Stage Nr.~00~#017
+;00005377{~12~Increase Stage Nr.~00~}#026#020
+~12~Increase Stage Nr.~00~#020
+;0000538B{Stage:~00~}#010#007
+Stage:~00~#007
+;00005392{~0F~Find the Anchor~00~}#023#017
+~0F~Find the Anchor~00~#017
+;000053A3{~11~Recover the Chest~00~}#025#019
+~11~Recover the Chest~00~#019
+;000053B6{~11~Find 4 Oven Knobs~00~}#025#019
+~11~Find 4 Oven Knobs~00~#019
+;000053C9{~13~Find last Oven Knob~00~}#027#021
+~13~Find last Oven Knob~00~#021
+;000053DE{~12~* JellyFish Fields~00~}#026#020
+~12~* JellyFish Fields~00~#020
+;000053F2{~12~* Undersea Desert ~00~}#026#020
+~12~* Undersea Desert ~00~#020
+;00005406{~12~* Kelpazoic Jungle~00~}#026#020
+~12~* Kelpazoic Jungle~00~#020
+;0000541A{~12~* Carnival        ~00~}#026#020
+~12~* Carnival        ~00~#020
+;0000542E{~11~Deliver the Pizza~00~}#025#019
+~11~Deliver the Pizza~00~#019
+;00005441{~0F~Recover the Hat~00~}#023#017
+~0F~Recover the Hat~00~#017
+;00005452{~0F~Find the Shorts~00~}#023#017
+~0F~Find the Shorts~00~#017
+;00005463{~0D~Get the Jelly~00~}#021#015
+~0D~Get the Jelly~00~#015
+;00005472{~09~(More...)~00~}#017#011
+~09~(More...)~00~#011
+;0000547D{~13~Find Golden Spatula~00~}#027#021
+~13~Find Golden Spatula~00~#021
+;00005492{~C2~R~D5~}#009#003
+~C2~R~D5~#003
+|534
+@0000583D-000058FC-00
+;0000583D{ 7~C9~Current item~00~}#022#016
+ 7~C9~Current item~00~#016
+;0000584D{Equip item~00~}#014#011
+Equip item~00~#011
+;00005858{~0C~Utility Belt~00~}#020#014
+~0C~Utility Belt~00~#014
+;00005866{~0B~Bubble Wand~00~}#019#013
+~0B~Bubble Wand~00~#013
+;00005873{~10~Jellyfishing Net~00~}#024#018
+~10~Jellyfishing Net~00~#018
+;00005885{~0C~Ol' Reliable~00~}#020#014
+~0C~Ol' Reliable~00~#014
+;00005893{~0C~Net Launcher~00~}#020#014
+~0C~Net Launcher~00~#014
+;000058A1{~10~Moon Man Catcher~00~}#024#018
+~10~Moon Man Catcher~00~#018
+;000058B3{~0F~Regular Spatula~00~}#023#017
+~0F~Regular Spatula~00~#017
+;000058C4{~0D~Hydro Spatula~00~}#021#015
+~0D~Hydro Spatula~00~#015
+;000058D3{~07~Glasses~00~}#015#009
+~07~Glasses~00~#009
+;000058DC{~0C~Spring Shoes~00~}#020#014
+~0C~Spring Shoes~00~#014
+;000058EA{~0A~Power Ring~00~}#018#012
+~0A~Power Ring~00~#012
+;000058F6{fXsX~85~X~93~}#013#007
+fXsX~85~X~93~#007
+|192
+@00005E5C-00005EAC-00
+;00005E5C{Password~00~}#012#009
+Password~00~#009
+;00005E65{Del~00~}#007#004
+Del~00~#004
+;00005E69{BCDFGHJKLMNPQRSTVWXYZ0123456789-~00~}#036#033
+BCDFGHJKLMNPQRSTVWXYZ0123456789-~00~#033
+;00005E8A{D3BVG-M0D3-THQ-0NLY-1T3MS4FR33~E0~~AE~~7D~~E0~~AF~}#050#035
+D3BVG-M0D3-THQ-0NLY-1T3MS4FR33~E0~~AE~~7D~~E0~~AF~#035
+|81
+@0000845A-00008499-00
+;0000845A{Music~00~}#009#006
+Music~00~#006
+;00008460{~0D~Sound Effects~00~}#021#015
+~0D~Sound Effects~00~#015
+;0000846F{~04~Exit~00~}#012#006
+~04~Exit~00~#006
+;00008475{~02~On~00~}#010#004
+~02~On~00~#004
+;00008479{~03~Off~00~}#011#005
+~03~Off~00~#005
+;0000847E{~07~Options~00~}#015#009
+~07~Options~00~#009
+;00008487{~07~~03~~02~YD`DoD~08~~02~~02~uDyD~AF~!~7E~}#043#019
+~07~~03~~02~YD`DoD~08~~02~~02~uDyD~AF~!~7E~#019
+|64
+@00008515-00008C6B-00
+;00008515{sWelcome my friends~0A~to Bikini Bottom~00~}#043#037
+sWelcome my friends~0A~to Bikini Bottom~00~#037
+;0000853A{~9C~sLet us join~0A~SpongeBob~00~}#033#024
+~9C~sLet us join~0A~SpongeBob~00~#024
+;00008552{~9C~sLook Out SpongeBob!~00~}#028#022
+~9C~sLook Out SpongeBob!~00~#022
+;00008568{~9C~sWhat is this? He has~0A~uncovered something~00~}#052#043
+~9C~sWhat is this? He has~0A~uncovered something~00~#043
+;00008593{~FF~~23~Wow! Mr. Krabs will~0A~know what this is!~00~}#053#041
+~FF~~23~Wow! Mr. Krabs will~0A~know what this is!~00~#041
+;000085BC{~FF~~23~Mr. Krabs I found a~0A~statue...~00~}#044#032
+~FF~~23~Mr. Krabs I found a~0A~statue...~00~#032
+;000085DC{~1F~!By Great Neptune's~0A~Beard! That statue~01~marks the entrance~0A~to the Dutchman's~01~Underworld!~00~}#107#089
+~1F~!By Great Neptune's~0A~Beard! That statue~01~marks the entrance~0A~to the Dutchman's~01~Underworld!~00~#089
+;00008635{~1F~!A long time ago, in~0A~the city of palm~01~Bay there was the~0A~Master Fry Cook who~01~ruled with the~0A~Golden Spatula.~01~But Mt. Kabloovious~0A~buried Palm Bay~01~starting the Grease~0A~Fires that ended the~01~Greasy Civilization.~0A~As legend has it,~01~the Flying Dutchman~0A~took over the cities~01~ruins and his first~0A~mate buried the key~01~to the city~0A~somewhere in the~01~Goo Lagoon.~00~}#406#346
+~1F~!A long time ago, in~0A~the city of palm~01~Bay there was the~0A~Master Fry Cook who~01~ruled with the~0A~Golden Spatula.~01~But Mt. Kabloovious~0A~buried Palm Bay~01~starting the Grease~0A~Fires that ended the~01~Greasy Civilization.~0A~As legend has it,~01~the Flying Dutchman~0A~took over the cities~01~ruins and his first~0A~mate buried the key~01~to the city~0A~somewhere in the~01~Goo Lagoon.~00~#346
+;0000878F{~1F~!Find that key boy.~0A~If you get the~01~Golden Spatula I'll~0A~be rich... uh I mean~01~you would be Master~0A~Fry Cook~00~}#127#106
+~1F~!Find that key boy.~0A~If you get the~01~Golden Spatula I'll~0A~be rich... uh I mean~01~you would be Master~0A~Fry Cook~00~#106
+;000087F9{~1F~!Now you'd better go~0A~home and get your~01~things!~00~}#060#048
+~1F~!Now you'd better go~0A~home and get your~01~things!~00~#048
+;00008829{~9C~sSpongeBob has found~0A~the pirates chest.~01~There are four oven~0A~knobs needed to ~01~unlock the statue.~0A~They are hidden~01~around Bikini~0A~Bottom...~01~Here's a map~00~}#180#150
+~9C~sSpongeBob has found~0A~the pirates chest.~01~There are four oven~0A~knobs needed to ~01~unlock the statue.~0A~They are hidden~01~around Bikini~0A~Bottom...~01~Here's a map~00~#150
+;000088BF{~9C~sLook out flying~0A~Dutchman. Here comes~01~SpongeBob!~00~}#062#050
+~9C~sLook out flying~0A~Dutchman. Here comes~01~SpongeBob!~00~#050
+;000088F1{~FF~~23~Now I can be...~0A~A SUPER HERO!~00~}#044#032
+~FF~~23~Now I can be...~0A~A SUPER HERO!~00~#032
+;00008911{~9C~sSpongeBob has found~0A~Patrick's shorts.~00~}#049#040
+~9C~sSpongeBob has found~0A~Patrick's shorts.~00~#040
+;00008939{~1F~qThanks for finding~0A~my shorts SpongeBob.~00~}#051#042
+~1F~qThanks for finding~0A~my shorts SpongeBob.~00~#042
+;00008963{~FF~~23~Uh... no problem~0A~Patrick.~00~}#040#028
+~FF~~23~Uh... no problem~0A~Patrick.~00~#028
+;0000897F{~9C~sSpongeBob has found~0A~Ol' Reliable.~00~}#045#036
+~9C~sSpongeBob has found~0A~Ol' Reliable.~00~#036
+;000089A3{~9C~sSpongeBob has found~0A~Sandy's Hat.~00~}#044#035
+~9C~sSpongeBob has found~0A~Sandy's Hat.~00~#035
+;000089C6{~1F~"Gee SpongeBob,~0A~thanks for getting~01~my hat back.~00~}#061#049
+~1F~"Gee SpongeBob,~0A~thanks for getting~01~my hat back.~00~#049
+;000089F7{~9C~sSpongeBob has found~0A~the Moon Man Catcher~00~}#052#043
+~9C~sSpongeBob has found~0A~the Moon Man Catcher~00~#043
+;00008A22{~9C~sSpongeBob has found~0A~a Jellyfish Hive.~00~}#049#040
+~9C~sSpongeBob has found~0A~a Jellyfish Hive.~00~#040
+;00008A4A{~FF~~23~Hey Squidward I got~0A~you some jelly.~00~}#050#038
+~FF~~23~Hey Squidward I got~0A~you some jelly.~00~#038
+;00008A70{~C8~~7F~SpongeBob there's~0A~jellyfish in it. You~01~barnacle brain!~00~}#072#057
+~C8~~7F~SpongeBob there's~0A~jellyfish in it. You~01~barnacle brain!~00~#057
+;00008AA9{~9C~sSpongeBob has found~0A~his glasses.~01~Now he can see~0A~inside chests.~00~}#080#065
+~9C~sSpongeBob has found~0A~his glasses.~01~Now he can see~0A~inside chests.~00~#065
+;00008AEA{~1F~!Woohoo more money~0A~Thank you SpongeBob.~01~Now I have something~0A~for you...~00~}#088#073
+~1F~!Woohoo more money~0A~Thank you SpongeBob.~01~Now I have something~0A~for you...~00~#073
+;00008B33{~9C~sSpongeBob has found~0A~a Hydro Dynamic~01~Spatula.~00~}#059#047
+~9C~sSpongeBob has found~0A~a Hydro Dynamic~01~Spatula.~00~#047
+;00008B62{~FF~~23~Oh wow it's opening.~00~}#032#023
+~FF~~23~Oh wow it's opening.~00~#023
+;00008B79{~FF~~23~Hellooooo? Gee it's~0A~a long way down.~00~}#051#039
+~FF~~23~Hellooooo? Gee it's~0A~a long way down.~00~#039
+;00008BA0{~FF~~23~Aw tartar sauce!~00~}#028#019
+~FF~~23~Aw tartar sauce!~00~#019
+;00008BB3{~9C~sSpongeBob has found~0A~the Golden Spatula.~01~Shing, Sparkle,~0A~Sparkle!!~00~}#083#068
+~9C~sSpongeBob has found~0A~the Golden Spatula.~01~Shing, Sparkle,~0A~Sparkle!!~00~#068
+;00008BF7{~9C~sNow SpongeBob is~0A~truly the greatest~01~Fry Cook in Bikini~0A~Bottom.~00~}#080#065
+~9C~sNow SpongeBob is~0A~truly the greatest~01~Fry Cook in Bikini~0A~Bottom.~00~#065
+;00008C38{~1F~!Yippee! I'm rich!~00~}#026#020
+~1F~!Yippee! I'm rich!~00~#020
+;00008C4C{~9C~sYou have found an~0A~Oven Knob~00~}#039#030
+~9C~sYou have found an~0A~Oven Knob~00~#030
+;00008C6A{>~10~}#005#002
+>~10~#002
+|1879
+@00034401-00034D15-00
+;00034401{qDuh...              Hiya SpongeBob~00~}#039#036
+qDuh...              Hiya SpongeBob~00~#036
+;00034425{~1F~qHey SpongeBob.      I lost my shorts at the Carnival.~00~}#062#056
+~1F~qHey SpongeBob.      I lost my shorts at the Carnival.~00~#056
+;0003445D{~1F~qCan you find them?~00~}#027#021
+~1F~qCan you find them?~00~#021
+;00034472{~1F~qHey Spongebob.      Found my shorts yet?~00~}#049#043
+~1F~qHey Spongebob.      Found my shorts yet?~00~#043
+;0003449D{~1F~qHey Spongebob. Now Ilost my glasses!~00~}#045#039
+~1F~qHey Spongebob. Now Ilost my glasses!~00~#039
+;000344C4{~FF~~23~Patrick you don't   wear glasses~00~}#044#035
+~FF~~23~Patrick you don't   wear glasses~00~#035
+;000344E7{~1F~qOh yeah~00~}#016#010
+~1F~qOh yeah~00~#010
+;000344F1{~1F~"Hey there little    square dude~00~}#040#034
+~1F~"Hey there little    square dude~00~#034
+;00034513{~1F~"I'm madder than a   cat in a bathtub!~00~}#046#040
+~1F~"I'm madder than a   cat in a bathtub!~00~#040
+;0003453B{~1F~"I lost my hat in theDesert~00~}#035#029
+~1F~"I lost my hat in theDesert~00~#029
+;00034558{~1F~"Any luck getting my hat back?~00~}#038#032
+~1F~"Any luck getting my hat back?~00~#032
+;00034578{~1F~"You sure are the    bee's knees!~00~}#041#035
+~1F~"You sure are the    bee's knees!~00~#035
+;0003459B{~C8~~7F~Oh it's you~00~}#023#014
+~C8~~7F~Oh it's you~00~#014
+;000345A9{~C8~~7F~Gee, I'm all out of jelly.~00~}#038#029
+~C8~~7F~Gee, I'm all out of jelly.~00~#029
+;000345C6{~C8~~7F~I bet there's some  in the Jellyfish    Fields~00~}#058#049
+~C8~~7F~I bet there's some  in the Jellyfish    Fields~00~#049
+;000345F7{~C8~~7F~Don't you have some jellyfish to be     chasing?~00~}#060#051
+~C8~~7F~Don't you have some jellyfish to be     chasing?~00~#051
+;0003462A{~C8~~7F~I'm not talking to  you~00~}#035#026
+~C8~~7F~I'm not talking to  you~00~#026
+;00034644{~1F~!SpongeBob me boy... How goes the hunt?~00~}#047#041
+~1F~!SpongeBob me boy... How goes the hunt?~00~#041
+;0003466D{~1F~!SpongeBob, deliver  this pizza to a     customer in~00~}#060#054
+~1F~!SpongeBob, deliver  this pizza to a     customer in~00~#054
+;000346A3{~1F~!the Kelpazoic Jungle~00~}#029#023
+~1F~!the Kelpazoic Jungle~00~#023
+;000346BA{~1F~!Hurry up, SpongeBob!The pizza is gettingcold~00~}#053#047
+~1F~!Hurry up, SpongeBob!The pizza is gettingcold~00~#047
+;000346E9{~9C~sHave you seen a     pizza delivery boy  around here?~00~}#061#055
+~9C~sHave you seen a     pizza delivery boy  around here?~00~#055
+;00034720{~9C~sHey thanks I've beenwaiting for this    pizza!~00~}#055#049
+~9C~sHey thanks I've beenwaiting for this    pizza!~00~#049
+;00034751{~9C~sBut look out for theJungle Fish...~00~}#043#037
+~9C~sBut look out for theJungle Fish...~00~#037
+;00034776{~9C~sHave you found the  Jungle Fish yet?~00~}#045#039
+~9C~sHave you found the  Jungle Fish yet?~00~#039
+;0003479D{~9C~sI went to college~00~}#026#020
+~9C~sI went to college~00~#020
+;000347B1{~9C~sHey watch it you    porous freak!~00~}#042#036
+~9C~sHey watch it you    porous freak!~00~#036
+;000347D5{~9C~sAll I want is crabbypatty~00~}#034#028
+~9C~sAll I want is crabbypatty~00~#028
+;000347F1{~9C~sHi SpongeBob~00~}#021#015
+~9C~sHi SpongeBob~00~#015
+;00034800{~9C~sGo away SpongeBob,  my friends might seeyou~00~}#052#046
+~9C~sGo away SpongeBob,  my friends might seeyou~00~#046
+;0003482E{~9C~sUp, up and away~00~}#024#018
+~9C~sUp, up and away~00~#018
+;00034840{~9C~sAre you the TV      repairman?~00~}#039#033
+~9C~sAre you the TV      repairman?~00~#033
+;00034861{~9C~sCome, my spongy     cohort there's evil afoot!~00~}#055#049
+~9C~sCome, my spongy     cohort there's evil afoot!~00~#049
+;00034892{~FF~~23~There's evil afoot!~00~}#031#022
+~FF~~23~There's evil afoot!~00~#022
+;000348A8{~9C~sEEEEEEVVVVVIIIILLLL!~00~}#029#023
+~9C~sEEEEEEVVVVVIIIILLLL!~00~#023
+;000348BF{~9C~sNo you can't be hallmonitor~00~}#036#030
+~9C~sNo you can't be hallmonitor~00~#030
+;000348DD{~9C~sNo you can't!~00~}#022#016
+~9C~sNo you can't!~00~#016
+;000348ED{~9C~sFine here take the  uniform!~00~}#037#031
+~9C~sFine here take the  uniform!~00~#031
+;0003490C{~FF~~23~I would just like tosay a few words...~00~}#050#041
+~FF~~23~I would just like tosay a few words...~00~#041
+;00034935{~9C~sYou can't make this easy, can you?!~00~}#044#038
+~9C~sYou can't make this easy, can you?!~00~#038
+;0003495B{~9C~sPlease SpongeBob,   class is over, go   away!~00~}#054#048
+~9C~sPlease SpongeBob,   class is over, go   away!~00~#048
+;0003498B{~9C~sMake your way to GooLagoon~00~}#035#029
+~9C~sMake your way to GooLagoon~00~#029
+;000349A8{~9C~sPress Select to viewyour Game Menu~00~}#043#037
+~9C~sPress Select to viewyour Game Menu~00~#037
+;000349CD{~9C~sYou can switch itemsby pressing UP and  Select~00~}#055#049
+~9C~sYou can switch itemsby pressing UP and  Select~00~#049
+;000349FE{~9C~sPress the A Button  at signposts to warpto other levels~00~}#064#058
+~9C~sPress the A Button  at signposts to warpto other levels~00~#058
+;00034A38{~9C~sView your map in theGame Menu~00~}#038#032
+~9C~sView your map in theGame Menu~00~#032
+;00034A58{~9C~sGo talk to Mrs. Puff~00~}#029#023
+~9C~sGo talk to Mrs. Puff~00~#023
+;00034A6F{~9C~sFind the missing    oven knobs~00~}#039#033
+~9C~sFind the missing    oven knobs~00~#033
+;00034A90{~9C~sView your new map inthe Game Menu~00~}#042#036
+~9C~sView your new map inthe Game Menu~00~#036
+;00034AB4{~9C~sExplore the new     paths~00~}#034#028
+~9C~sExplore the new     paths~00~#028
+;00034AD0{~9C~sThe oven knobs are  hidden around BikiniBottom~00~}#055#049
+~9C~sThe oven knobs are  hidden around BikiniBottom~00~#049
+;00034B01{~9C~sLook out for the    beach bullies!~00~}#043#037
+~9C~sLook out for the    beach bullies!~00~#037
+;00034B26{~9C~sYou have to cross   the goo~00~}#036#030
+~9C~sYou have to cross   the goo~00~#030
+;00034B44{~9C~sCareful, the goo is sticky~00~}#035#029
+~9C~sCareful, the goo is sticky~00~#029
+;00034B61{~9C~sFind the anchor~00~}#024#018
+~9C~sFind the anchor~00~#018
+;00034B73{~9C~sBoy am I ripped~00~}#024#018
+~9C~sBoy am I ripped~00~#018
+;00034B85{~FF~~23~So are my pants!~00~}#028#019
+~FF~~23~So are my pants!~00~#019
+;00034B98{~9C~sMeow!~00~}#014#008
+~9C~sMeow!~00~#008
+;00034BA0{~9C~sYou okay?~00~}#018#012
+~9C~sYou okay?~00~#012
+;00034BAC{~FF~~23~I guess so, cept I  ripped my pants!~00~}#048#039
+~FF~~23~I guess so, cept I  ripped my pants!~00~#039
+;00034BD3{~9C~sAre you all right   dude?~00~}#034#028
+~9C~sAre you all right   dude?~00~#028
+;00034BEF{~FF~~23~No... Cause I rippedmy pants!~00~}#041#032
+~FF~~23~No... Cause I rippedmy pants!~00~#032
+;00034C0F{~9C~sHa, ha, ha, man you slay me!~00~}#037#031
+~9C~sHa, ha, ha, man you slay me!~00~#031
+;00034C2E{~9C~sSo you're the one   who thinks he's hot stuff on a hot stove~00~}#069#063
+~9C~sSo you're the one   who thinks he's hot stuff on a hot stove~00~#063
+;00034C6D{~FF~~23~I've come for the   Golden Spatula, uh, sir!~00~}#056#047
+~FF~~23~I've come for the   Golden Spatula, uh, sir!~00~#047
+;00034C9C{~9C~sThen you must prove you're the best!~00~}#045#039
+~9C~sThen you must prove you're the best!~00~#039
+;00034CC3{~9C~sAnd it's a good     thing too, I haven'thad a good meal in~00~}#067#061
+~9C~sAnd it's a good     thing too, I haven'thad a good meal in~00~#061
+;00034D00{~9C~sages! LET'S EAT!~00~}#025#019
+~9C~sages! LET'S EAT!~00~#019
+;00034D13{=M~9F~}#006#003
+=M~9F~#003
+|2325
+@00038401-00038C94-00
+;00038401{qDuh...              Hiya SpongeBob~00~}#039#036
+qDuh...              Hiya SpongeBob~00~#036
+;00038425{~1F~qHey SpongeBob.      I lost my shorts at the Carnival.~00~}#062#056
+~1F~qHey SpongeBob.      I lost my shorts at the Carnival.~00~#056
+;0003845D{~1F~qCan you find them?~00~}#027#021
+~1F~qCan you find them?~00~#021
+;00038472{~1F~qHey Spongebob.      Found my shorts yet?~00~}#049#043
+~1F~qHey Spongebob.      Found my shorts yet?~00~#043
+;0003849D{~1F~qHey Spongebob. Now Ilost my glasses!~00~}#045#039
+~1F~qHey Spongebob. Now Ilost my glasses!~00~#039
+;000384C4{~FF~~23~Patrick you don't   wear glasses~00~}#044#035
+~FF~~23~Patrick you don't   wear glasses~00~#035
+;000384E7{~1F~qOh yeah~00~}#016#010
+~1F~qOh yeah~00~#010
+;000384F1{~1F~"Hey there little    square dude~00~}#040#034
+~1F~"Hey there little    square dude~00~#034
+;00038513{~1F~"I'm madder than a   cat in a bathtub!~00~}#046#040
+~1F~"I'm madder than a   cat in a bathtub!~00~#040
+;0003853B{~1F~"I lost my hat in theDesert~00~}#035#029
+~1F~"I lost my hat in theDesert~00~#029
+;00038558{~1F~"Any luck getting my hat back?~00~}#038#032
+~1F~"Any luck getting my hat back?~00~#032
+;00038578{~1F~"You sure are the    bee's knees!~00~}#041#035
+~1F~"You sure are the    bee's knees!~00~#035
+;0003859B{~C8~~7F~Oh it's you~00~}#023#014
+~C8~~7F~Oh it's you~00~#014
+;000385A9{~C8~~7F~Gee, I'm all out of jelly.~00~}#038#029
+~C8~~7F~Gee, I'm all out of jelly.~00~#029
+;000385C6{~C8~~7F~I bet there's some  in the Jellyfish    Fields~00~}#058#049
+~C8~~7F~I bet there's some  in the Jellyfish    Fields~00~#049
+;000385F7{~C8~~7F~Don't you have some jellyfish to be     chasing?~00~}#060#051
+~C8~~7F~Don't you have some jellyfish to be     chasing?~00~#051
+;0003862A{~C8~~7F~I'm not talking to  you~00~}#035#026
+~C8~~7F~I'm not talking to  you~00~#026
+;00038644{~1F~!SpongeBob me boy... How goes the hunt?~00~}#047#041
+~1F~!SpongeBob me boy... How goes the hunt?~00~#041
+;0003866D{~1F~!SpongeBob, deliver  this pizza to a     customer in~00~}#060#054
+~1F~!SpongeBob, deliver  this pizza to a     customer in~00~#054
+;000386A3{~1F~!the Kelpazoic Jungle~00~}#029#023
+~1F~!the Kelpazoic Jungle~00~#023
+;000386BA{~1F~!Hurry up, SpongeBob!The pizza is gettingcold~00~}#053#047
+~1F~!Hurry up, SpongeBob!The pizza is gettingcold~00~#047
+;000386E9{~9C~sHave you seen a     pizza delivery boy  around here?~00~}#061#055
+~9C~sHave you seen a     pizza delivery boy  around here?~00~#055
+;00038720{~9C~sHey thanks I've beenwaiting for this    pizza!~00~}#055#049
+~9C~sHey thanks I've beenwaiting for this    pizza!~00~#049
+;00038751{~9C~sBut look out for theJungle Fish...~00~}#043#037
+~9C~sBut look out for theJungle Fish...~00~#037
+;00038776{~9C~sHave you found the  Jungle Fish yet?~00~}#045#039
+~9C~sHave you found the  Jungle Fish yet?~00~#039
+;0003879D{~9C~sI went to college~00~}#026#020
+~9C~sI went to college~00~#020
+;000387B1{~9C~sHey watch it you    porous freak!~00~}#042#036
+~9C~sHey watch it you    porous freak!~00~#036
+;000387D5{~9C~sAll I want is crabbypatty~00~}#034#028
+~9C~sAll I want is crabbypatty~00~#028
+;000387F1{~9C~sHi SpongeBob~00~}#021#015
+~9C~sHi SpongeBob~00~#015
+;00038800{~9C~sGo away SpongeBob,  my friends might seeyou~00~}#052#046
+~9C~sGo away SpongeBob,  my friends might seeyou~00~#046
+;0003882E{~9C~sUp, up and away~00~}#024#018
+~9C~sUp, up and away~00~#018
+;00038840{~9C~sAre you the TV      repairman?~00~}#039#033
+~9C~sAre you the TV      repairman?~00~#033
+;00038861{~9C~sCome, my spongy     cohort there's evil afoot!~00~}#055#049
+~9C~sCome, my spongy     cohort there's evil afoot!~00~#049
+;00038892{~FF~~23~There's evil afoot!~00~}#031#022
+~FF~~23~There's evil afoot!~00~#022
+;000388A8{~9C~sEEEEEEVVVVVIIIILLLL!~00~}#029#023
+~9C~sEEEEEEVVVVVIIIILLLL!~00~#023
+;000388BF{~9C~sNo you can't be hallmonitor~00~}#036#030
+~9C~sNo you can't be hallmonitor~00~#030
+;000388DD{~9C~sNo you can't!~00~}#022#016
+~9C~sNo you can't!~00~#016
+;000388ED{~9C~sFine here take the  uniform!~00~}#037#031
+~9C~sFine here take the  uniform!~00~#031
+;0003890C{~FF~~23~I would just like tosay a few words...~00~}#050#041
+~FF~~23~I would just like tosay a few words...~00~#041
+;00038935{~9C~sYou can't make this easy, can you?!~00~}#044#038
+~9C~sYou can't make this easy, can you?!~00~#038
+;0003895B{~9C~sPlease SpongeBob,   class is over, go   away!~00~}#054#048
+~9C~sPlease SpongeBob,   class is over, go   away!~00~#048
+;0003898B{~9C~sMake your way to GooLagoon~00~}#035#029
+~9C~sMake your way to GooLagoon~00~#029
+;000389A8{~9C~sPress Select to viewyour Game Menu~00~}#043#037
+~9C~sPress Select to viewyour Game Menu~00~#037
+;000389CD{~9C~sYou can switch itemsby pressing UP and  Select~00~}#055#049
+~9C~sYou can switch itemsby pressing UP and  Select~00~#049
+;000389FE{~9C~sPress the A Button  at signposts to warpto other levels~00~}#064#058
+~9C~sPress the A Button  at signposts to warpto other levels~00~#058
+;00038A38{~9C~sView your map in theGame Menu~00~}#038#032
+~9C~sView your map in theGame Menu~00~#032
+;00038A58{~9C~sGo talk to Mrs. Puff~00~}#029#023
+~9C~sGo talk to Mrs. Puff~00~#023
+;00038A6F{~9C~sFind the missing    oven knobs~00~}#039#033
+~9C~sFind the missing    oven knobs~00~#033
+;00038A90{~9C~sView your new map inthe Game Menu~00~}#042#036
+~9C~sView your new map inthe Game Menu~00~#036
+;00038AB4{~9C~sExplore the new     paths~00~}#034#028
+~9C~sExplore the new     paths~00~#028
+;00038AD0{~9C~sThe oven knobs are  hidden around BikiniBottom~00~}#055#049
+~9C~sThe oven knobs are  hidden around BikiniBottom~00~#049
+;00038B01{~9C~sLook out for the    beach bullies!~00~}#043#037
+~9C~sLook out for the    beach bullies!~00~#037
+;00038B26{~9C~sYou have to cross   the goo~00~}#036#030
+~9C~sYou have to cross   the goo~00~#030
+;00038B44{~9C~sCareful, the goo is sticky~00~}#035#029
+~9C~sCareful, the goo is sticky~00~#029
+;00038B61{~9C~sFind the anchor~00~}#024#018
+~9C~sFind the anchor~00~#018
+;00038B73{~9C~sBoy am I ripped~00~}#024#018
+~9C~sBoy am I ripped~00~#018
+;00038B85{~FF~~23~So are my pants!~00~}#028#019
+~FF~~23~So are my pants!~00~#019
+;00038B98{~9C~sMeow!~00~}#014#008
+~9C~sMeow!~00~#008
+;00038BA0{~9C~sYou okay?~00~}#018#012
+~9C~sYou okay?~00~#012
+;00038BAC{~FF~~23~I guess so, cept I  ripped my pants!~00~}#048#039
+~FF~~23~I guess so, cept I  ripped my pants!~00~#039
+;00038BD3{~9C~sAre you all right   dude?~00~}#034#028
+~9C~sAre you all right   dude?~00~#028
+;00038BEF{~FF~~23~No... Cause I rippedmy pants!~00~}#041#032
+~FF~~23~No... Cause I rippedmy pants!~00~#032
+;00038C0F{~9C~sHa, ha, ha, man you slay me!~00~}#037#031
+~9C~sHa, ha, ha, man you slay me!~00~#031
+;00038C2E{~9C~sSo you're the one   who thinks he's hot stuff on a hot stove~00~}#069#063
+~9C~sSo you're the one   who thinks he's hot stuff on a hot stove~00~#063
+;00038C6D{~FF~~23~I've come for the   Golden Spatul~00~}#045#036
+~FF~~23~I've come for the   Golden Spatul~00~#036
+;00038C91{~00~}#004#001
+~00~#001
+;00038C92{~00~}#004#001
+~00~#001
+;00038C93{~00~}#004#001
+~00~#001
+;00038C94{~00~}#004#001
+~00~#001
+|2196
+@000B6DF7-000B6E75-00
+;000B6DF7{Press the A Button  to Use Item or      Accept~00~}#050#047
+Press the A Button  to Use Item or      Accept~00~#047
+;000B6E26{~FF~~7F~Press the B Button  to Jump or Go Back~00~}#050#041
+~FF~~7F~Press the B Button  to Jump or Go Back~00~#041
+;000B6E4F{~FF~~7F~Press UP to talk to your friends~00~}#044#035
+~FF~~7F~Press UP to talk to your friends~00~#035
+;000B6E72{~CD~~C2~-~CD~}#013#004
+~CD~~C2~-~CD~#004
+|127
+@000E178C-000E1996-00
+;000E178C{s                        Road Closed~00~}#040#037
+s                        Road Closed~00~#037
+;000E17B1{~9C~s    Road Closed        until you get        the spatula~00~}#064#058
+~9C~s    Road Closed        until you get        the spatula~00~#058
+;000E17EB{~9C~s    Road Closed        until you get     the net launcher~00~}#066#060
+~9C~s    Road Closed        until you get     the net launcher~00~#060
+;000E1827{~9C~s                        To Downtown~00~}#044#038
+~9C~s                        To Downtown~00~#038
+;000E184D{~9C~s                      To Sandy's Park~00~}#046#040
+~9C~s                      To Sandy's Park~00~#040
+;000E1875{~9C~s                    To SpongeBob's Block~00~}#049#043
+~9C~s                    To SpongeBob's Block~00~#043
+;000E18A0{~9C~s                       To Outer Town~00~}#045#039
+~9C~s                       To Outer Town~00~#039
+;000E18C7{~9C~s                       To Goo Lagoon~00~}#045#039
+~9C~s                       To Goo Lagoon~00~#039
+;000E18EE{~9C~s                     To Undersea Desert~00~}#048#042
+~9C~s                     To Undersea Desert~00~#042
+;000E1918{~9C~s                      To the Carnival~00~}#046#040
+~9C~s                      To the Carnival~00~#040
+;000E1940{~9C~s                    To Jellyfish Fields~00~}#048#042
+~9C~s                    To Jellyfish Fields~00~#042
+;000E196A{~9C~s                    To Kelpazoic Jungle~00~}#048#042
+~9C~s                    To Kelpazoic Jungle~00~#042
+;000E1994{~AF~Y~CE~}#009#003
+~AF~Y~CE~#003
+|523
+@000E1AC7-000E1AE5-00
+;000E1AC7{You have found a    spatula!~00~}#032#029
+You have found a    spatula!~00~#029
+;000E1AE4{!~9E~}#005#002
+!~9E~#002
+|31
+@000E1B00-000E1B1E-00
+;000E1B00{You have found      patties!~00~}#032#029
+You have found      patties!~00~#029
+;000E1B1D{>~09~}#005#002
+>~09~#002
+|31
+@000E1B41-000E1B60-00
+;000E1B41{You have found a netlauncher!~00~}#033#030
+You have found a netlauncher!~00~#030
+;000E1B5F{!~9C~}#005#002
+!~9C~#002
+|32
+@000E1B7B-000E1BAE-00
+;000E1B7B{You have found ammo for the net         launcher!~00~}#053#050
+You have found ammo for the net         launcher!~00~#050
+;000E1BAD{>~09~}#005#002
+>~09~#002
+|52
+@000E1BD1-000E1BFB-00
+;000E1BD1{You have found a    fresh pair of pants!~00~}#044#041
+You have found a    fresh pair of pants!~00~#041
+;000E1BFA{>~09~}#005#002
+>~09~#002
+|43
+@000E1C0C-000E1C36-00
+;000E1C0C{You have found a    Hall Monitor Badge!~00~}#043#040
+You have found a    Hall Monitor Badge!~00~#040
+;000E1C34{~FA~A~CA~}#009#003
+~FA~A~CA~#003
+|43
+@000E1C4D-000E1C70-00
+;000E1C4D{You have found the  spring shoes!~00~}#037#034
+You have found the  spring shoes!~00~#034
+;000E1C6F{!~A1~}#005#002
+!~A1~#002
+|36
+@000E1C8B-000E1C9B-00
+;000E1C8B{April Fools!~00~}#016#013
+April Fools!~00~#013
+;000E1C98{>8!~89~}#007#004
+>8!~89~#004
+|17
+@000F6EF1-000F705F-00
+;000F6EF1{SONG00: MAIN MENU.......01: CUTSCENES.......02: SUBSCREENS......03: ACTION 1........04: CREEPY 1........05: SAFE 1..........06: SAFE 2..........07: SAFE 3..........08: CREEPY 2........09: ACTION 2........10: SAFE 4..........11: ACTION 3........12: ACTION 4........13: ACTION 5........14: BOSS 1..........15: BOSS 2..........16: EMPTY...............................~91~p~CC~}#373#367
+SONG00: MAIN MENU.......01: CUTSCENES.......02: SUBSCREENS......03: ACTION 1........04: CREEPY 1........05: SAFE 1..........06: SAFE 2..........07: SAFE 3..........08: CREEPY 2........09: ACTION 2........10: SAFE 4..........11: ACTION 3........12: ACTION 4........13: ACTION 5........14: BOSS 1..........15: BOSS 2..........16: EMPTY...............................~91~p~CC~#367
+|367

@@ -1,0 +1,312 @@
+@000050DD-00005125-00
+;000050DD{~0B~Resume Game~00~}#019#013
+~09~Continuar\ ~00~#013
+;000050EA{~0C~Restart Area~00~}#020#014
+~09~Reiniciar\  ~00~#014
+;000050F8{~09~Quit Game~00~}#017#011
+~05~Salir\   ~00~#011
+;00005103{~0C~Level Select~00~}#020#014
+~0C~Elegir Nivel~00~#014
+;00005111{Password~00~}#012#009
+ Clave  ~00~#009
+;0000511A{=Pause Menu~00~}#015#012
+=Menú Pausa~00~#012
+|73
+@0000527E-00005491-00
+;0000527E{~0E~View all goals~00~}#022#016
+~0D~Ver las metas\~00~#016
+;0000528E{~08~View map~00~}#016#010
+~08~Ver mapa~00~#010
+;00005298{=Equip item~00~}#015#012
+=Usa objeto~00~#012
+;000052A4{Location~00~}#012#009
+ Lugar  ~00~#009
+;000052AD{~05~Goals~00~}#013#007
+~05~Metas~00~#007
+;000052B4{~0C~Safety First~00~}#020#014
+~09~Seguridad\  ~00~#014
+;000052C2{~11~SpongeBob's Block~00~}#025#019
+~0D~Bloque de Bob\   ~00~#019
+;000052D5{~08~Downtown~00~}#016#010
+~06~Centro\ ~00~#010
+;000052DF{=Outer Town~00~}#015#012
+~07~Afueras\  ~00~#012
+;000052EB{~0C~Sandy's Park~00~}#020#014
+~0C~Parque Sandy~00~#014
+;000052F9{~0E~The Goo Lagoon~00~}#022#016
+~0D~La Laguna Goo\~00~#016
+;00005309{~0F~Undersea Desert~00~}#023#017
+~0F~Desierto Marino~00~#017
+;0000531A{~0C~The Carnival~00~}#020#014
+~0B~El Carnaval\~00~#014
+;00005328{~10~Jellyfish Fields~00~}#024#018
+~10~Campos de Medusa~00~#018
+;0000533A{~10~Kelpazoic Jungle~00~}#024#018
+~10~Jungla Kelpazoic~00~#018
+;0000534C{~0B~Rock Bottom~00~}#019#013
+~0A~Fondo Roca\~00~#013
+;00005359{~0B~Dutch Under~00~}#019#013
+~0B~Bajoholanda~00~#013
+;00005366{~0F~Reset Stage Nr.~00~}#023#017
+~0F~Reinicia Nr.Et.~00~#017
+;00005377{~12~Increase Stage Nr.~00~}#026#020
+~12~Incrementa Nr.Eta.~00~#020
+;0000538B{Stage:~00~}#010#007
+Etapa:~00~#007
+;00005392{~0F~Find the Anchor~00~}#023#017
+~0E~Halla el ancla\~00~#017
+;000053A3{~11~Recover the Chest~00~}#025#019
+~11~Recupera el Cofre~00~#019
+;000053B6{~11~Find 4 Oven Knobs~00~}#025#019
+~11~Tras 4 Pomo Horno~00~#019
+;000053C9{~13~Find last Oven Knob~00~}#027#021
+~10~Un Pomo de Horno\  ~00~#021
+;000053DE{~12~* JellyFish Fields~00~}#026#020
+~12~* Campos Medusa   ~00~#020
+;000053F2{~12~* Undersea Desert ~00~}#026#020
+~12~* Desierto Marino ~00~#020
+;00005406{~12~* Kelpazoic Jungle~00~}#026#020
+~12~* Jungla Kelpazoic~00~#020
+;0000541A{~12~* Carnival        ~00~}#026#020
+~12~* Carnaval        ~00~#020
+;0000542E{~11~Deliver the Pizza~00~}#025#019
+~10~Entrega la Pizza\~00~#019
+;00005441{~0F~Recover the Hat~00~}#023#017
+~0E~Recupera Gorro\~00~#017
+;00005452{~0F~Find the Shorts~00~}#023#017
+~0E~Halla Bermudas\~00~#017
+;00005463{~0D~Get the Jelly~00~}#021#015
+~0C~Por gelatina\~00~#015
+;00005472{~09~(More...)~00~}#017#011
+~08~(Más...)\~00~#011
+;0000547D{~13~Find Golden Spatula~00~}#027#021
+~12~Halla Espátula Oro\~00~#021
+|532
+@00005840-000058F5-00
+;00005840{Current item~00~}#016#013
+Objeto ahora~00~#013
+;0000584D{Equip item~00~}#014#011
+Pon objeto~00~#011
+;00005858{~0C~Utility Belt~00~}#020#014
+~08~Cinturón\   ~00~#014
+;00005866{~0B~Bubble Wand~00~}#019#013
+~0B~Varaburbuja~00~#013
+;00005873{~10~Jellyfishing Net~00~}#024#018
+~0E~Red de Medusas\ ~00~#018
+;00005885{~0C~Ol' Reliable~00~}#020#014
+~0C~Vieja Fiable~00~#014
+;00005893{~0C~Net Launcher~00~}#020#014
+~0B~Lanza-Redes\~00~#014
+;000058A1{~10~Moon Man Catcher~00~}#024#018
+~10~Caza Hombre-Luna~00~#018
+;000058B3{~0F~Regular Spatula~00~}#023#017
+~0F~Espátula Normal~00~#017
+;000058C4{~0D~Hydro Spatula~00~}#021#015
+~0D~Hidroespátula~00~#015
+;000058D3{~07~Glasses~00~}#015#009
+~05~Gafas\ ~00~#009
+;000058DC{~0C~Spring Shoes~00~}#020#014
+~0C~Zapat.Muelle~00~#014
+;000058EA{=Power Ring~00~}#015#012
+~09~Aro Poder\~00~#012
+|182
+@00005E5B-00005E89-00
+;00005E5B{~08~Password~00~}#016#010
+~05~Clave\  ~00~#010
+;00005E65{Del~00~}#007#004
+Bor~00~#004
+;00005E69{BCDFGHJKLMNPQRSTVWXYZ0123456789-~00~}#036#033
+BCDFGHJKLMNPQRSTVWXYZ0123456789-~00~#033
+|47
+@00008459-00008486-00
+;00008459{~05~Music~00~}#013#007
+~05~Músi.~00~#007
+;00008460{~0D~Sound Effects~00~}#021#015
+~0D~Efectos Audio~00~#015
+;0000846F{~04~Exit~00~}#012#006
+~04~Sale~00~#006
+;00008475{~02~On~00~}#010#004
+~02~Sí~00~#004
+;00008479{~03~Off~00~}#011#005
+~02~No\~00~#005
+;0000847E{~07~Options~00~}#015#009
+~06~Opción\~00~#009
+|46
+@00008514-00008938-00
+;00008514{~9C~sWelcome my friends=to Bikini Bottom~00~}#044#038
+~9C~s
+Bienvenidos a Fondo=
+de Bikini.\    ~00~#038
+;0000853A{~9C~sLet us join=SpongeBob~00~}#030#024
+~9C~s
+Veamos a Bob=
+Esponja.~00~#024
+;00008552{~9C~sLook Out SpongeBob!~00~}#028#022
+~9C~s
+Alerta Bob Esponja!~00~#022
+;00008568{~9C~sWhat is this? He has=uncovered something~00~}#049#043
+~9C~s
+Qué es esto? Ha=
+descubierto algo.\      ~00~#043
+;00008593{~FF~~23~Wow! Mr. Krabs will=know what this is!~00~}#050#041
+~FF~~23~
+Oh! El Sr. Cangrejo=
+sabrá lo que es!\ ~00~#041
+;000085BC{~FF~~23~Mr. Krabs I found a=statue...~00~}#041#032
+~FF~~23~
+Sr. Cangrejo una=
+estatua...\ ~00~#032
+;000085DC{~1F~!By Great Neptune's=Beard! That statue^marks the entrance=to the Dutchman's^Underworld!~00~}#095#089
+~1F~!
+Por la gran barba de=
+Neptuno! La estatua^
+marca la entrada al=
+Inframundo del^
+Holandés!\~00~#089
+;00008635{~1F~!A long time ago, in=the city of palm^Bay there was the=Master Fry Cook who^ruled with the=Golden Spatula.^But Mt. Kabloovious=buried Palm Bay^starting the Grease=Fires that ended the^Greasy Civilization.=As legend has it,^the Flying Dutchman=took over the cities^ruins and his first=mate buried the key^to the city=somewhere in the^Goo Lagoon.~00~}#352#346
+~1F~!
+Hace mucho, en la=
+ciudad de Bahía^
+Palma había un=
+Cocinero Freidor^
+Maestro que=
+gobernaba con la^
+Espátula de Oro.=
+Pero el Mt.^
+Kabloovious enterró=
+Bahía Palma^
+iniciando los Fuegos=
+Grasos de la Grasa^
+Civilización.=
+Dice la leyenda,^
+que el Holandés=
+Volador conquistó^
+las ruinas y su=
+primer compañero^
+enterró la llave de=
+la ciudad en Laguna^
+Goo.\    ~00~#346
+;0000878F{~1F~!Find that key boy.=If you get the^Golden Spatula I'll=be rich... uh I mean^you would be Master=Fry Cook~00~}#112#106
+~1F~!
+Halla esa llave=
+chico.^
+Si consigues la=
+Espátula de Oro seré^
+rico... Quiero decir=
+que serás un^
+Maestro.\~00~#106
+;000087F9{~1F~!Now you'd better go=home and get your^things!~00~}#054#048
+~1F~!
+Ahora mejor vete a=
+casa a por tus^
+cosas!\    ~00~#048
+;00008829{~9C~sSpongeBob has found=the pirates chest.^There are four oven=knobs needed to ^unlock the statue.=They are hidden^around Bikini=Bottom...^Here's a map~00~}#156#150
+~9C~s
+Bob Esponja halló el=
+cofre pirata.^
+Hacen falta cuatro=
+pomos de horno para^
+abrir la estatua.=
+Están ocultos por^
+Fondo de Bikini...=
+Aquí hay un mapa.\~00~#150
+;000088BF{~9C~sLook out flying=Dutchman. Here comes^SpongeBob!~00~}#056#050
+~9C~s
+Cuidado Holandés=
+Volador. Viene Bob^
+Esponja!\  ~00~#050
+;000088F1{~FF~~23~Now I can be...=A SUPER HERO!~00~}#041#032
+~FF~~23~
+Puedo ser...=
+Un superhéroe!\ ~00~#032
+;00008911{~9C~sSpongeBob has found=Patrick's shorts.~00~}#046#040
+~9C~s
+Bob Esponja halló=
+las bermudas.\     ~00~#040
+|1061
+@00008939-00008C69-00
+;00008939{~1F~qThanks for finding=my shorts SpongeBob.~00~}#048#042
+~1F~q
+Gracias por las=
+bermudas Bob^
+Esponja.\ ~00~#042
+;00008963{~FF~~23~Uh... no problem=Patrick.~00~}#037#028
+~FF~~23~
+Eh... De nada=
+Patricio.\ ~00~#028
+;0000897F{~9C~sSpongeBob has found=Ol' Reliable.~00~}#042#036
+~9C~s
+Bob encontró la=
+Vieja Fiable.\   ~00~#036
+;000089A3{~9C~sSpongeBob has found=Sandy's Hat.~00~}#041#035
+~9C~s
+Bob encontró el=
+gorro de Sandy.\~00~#035
+;000089C6{~1F~"Gee SpongeBob,=thanks for getting^my hat back.~00~}#055#049
+~1F~"
+Oh Bob Esponja,=
+gracias por recobrar=
+mi gorro.~00~#049
+;000089F7{~9C~sSpongeBob has found=the Moon Man Catcher~00~}#049#043
+~9C~s
+Bob Esponja halló el=
+Caza Hombre-Luna.\ ~00~#043
+;00008A22{~9C~sSpongeBob has found=a Jellyfish Hive.~00~}#046#040
+~9C~s
+Bob encontró una=
+Colmena de Medusas.\~00~#040
+;00008A4A{~FF~~23~Hey Squidward I got=you some jelly.~00~}#047#038
+~FF~~23~
+Eh Calamardo, te=
+conseguí gelatina.~00~#038
+;00008A70{~C8~~7F~SpongeBob there's=jellyfish in it. You^barnacle brain!~00~}#066#057
+~C8~~7F~
+Bob Esponja, tiene=
+medusas.^
+Cerebro de percebe!\      ~00~#057
+;00008AA9{~9C~sSpongeBob has found=his glasses.^Now he can see=inside chests.~00~}#071#065
+~9C~s
+Bob Esponja halló=
+sus gafas.^
+Ahora puede ver=
+dentro de cofres.~00~#065
+;00008AEA{~1F~!Woohoo more money=Thank you SpongeBob.^Now I have something=for you...~00~}#079#073
+~1F~!
+Yuhuu más dinero.=
+Gracias Bob Esponja.^
+Ahora tengo algo=
+para ti...\   ~00~#073
+;00008B33{~9C~sSpongeBob has found=a Hydro Dynamic^Spatula.~00~}#053#047
+~9C~s
+Bob Esponja halló=
+la Espátula^
+Hidrodinámica.~00~#047
+;00008B62{~FF~~23~Oh wow it's opening.~00~}#032#023
+~FF~~23~
+Oh vaya se abre.\   ~00~#023
+;00008B79{~FF~~23~Hellooooo? Gee it's=a long way down.~00~}#048#039
+~FF~~23~
+Holaaaaaa? Je je es=
+una gran caída.\~00~#039
+;00008BA0{~FF~~23~Aw tartar sauce!~00~}#028#019
+~FF~~23~
+Salsa tártara!\ ~00~#019
+;00008BB3{~9C~sSpongeBob has found=the Golden Spatula.^Shing, Sparkle,=Sparkle!!~00~}#074#068
+~9C~s
+Bob Esponja halló la=
+Espátula de Oro.^
+Brilla, brilla!!\          ~00~#068
+;00008BF7{~9C~sNow SpongeBob is=truly the greatest^Fry Cook in Bikini=Bottom.~00~}#071#065
+~9C~s
+Bob Esponja es el=
+mejor Cocinero de^
+Fritos de Fondo de=
+Bikini.~00~#065
+;00008C38{~1F~!Yippee! I'm rich!~00~}#026#020
+~1F~!
+Vivaaa! Soy rico!~00~#020
+;00008C4C{~9C~sYou have found an=Oven Knob~00~}#036#030
+~9C~s
+Encontraste Pomo de=
+Horno.\~00~#030
+|817

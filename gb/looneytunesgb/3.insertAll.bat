@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Looney Tunes (U) [!].gb"
-set S_FILENAME="Looney Tunes (U) [!].gb"
+set T_FILENAME="TR_Looney Tunes (USA, Europe).gb"
+set S_FILENAME="Looney Tunes (USA, Europe).gb"
 set SCRIPTNAME="looneytunesgb"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

@@ -1,2 +1,0 @@
-java -jar Hextractor.jar -a powerblade2.tbl "Power Blade 2 (U) [!].nes" powerblade2.txt false ee4-1681-FF,10829-1082E-00,1083f-10844-00,D49-DD0-FF,1cd4e-1cd53-FE,1cd56-1cd5E-FE,1cd61-1cd6D-FE,1cd70-1cd76-FE,1cd79-1cd83-FE,1cd97-1cdA5-FE,1cdA8-1cdB1-FE,1cdB4-1cdBC-FE,1cdBf-1cdC7-FE,10190-101EC-81,10829-1082F-0E,1083F-10845-0E
-pause

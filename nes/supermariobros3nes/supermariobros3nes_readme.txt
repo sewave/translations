@@ -1,6 +1,6 @@
 Super Mario Bros (NES)
-Traducción al Español v2.1 (13/11/2022)
-(C) 2022 Traducciones Wave
+Traducción al Español v2.2 (28/02/2023)
+(C) 2023 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -20,6 +20,8 @@ V2.0:
 V2.1:
 -Arreglado "GAME OVER" en mundos de pantallas múltiples
 -Cambiado "CONTINÚA" por "CONTINUAR"
+V2.2:
+-Eliminado uso de Q y U al estar usados por otras letras.
 
 ------------------------
 Instrucciones de Parcheo

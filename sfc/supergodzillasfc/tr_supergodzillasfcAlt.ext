@@ -1,0 +1,1403 @@
+@00004B82-00004BA1-FF
+;00004B82{1-A~FF~}#007#004
+1-A~FF~#004
+;00004B86{1-B~FF~}#007#004
+1-B~FF~#004
+;00004B8A{2-A~FF~}#007#004
+2-A~FF~#004
+;00004B8E{2-B~FF~}#007#004
+2-B~FF~#004
+;00004B92{3-A~FF~}#007#004
+3-A~FF~#004
+;00004B96{3-B~FF~}#007#004
+3-B~FF~#004
+;00004B9A{4-A~FF~}#007#004
+4-A~FF~#004
+;00004B9E{4-B~FF~}#007#004
+4-B~FF~#004
+|32
+@00004C45-00004CDE-FF
+;00004C45{OSAKA CASTLE~FF~}#016#013
+CAS{TI}{LL}O OSAKA~FF~#013
+;00004C52{THE TSUTENKAKU=TOWER~FF~}#024#021
+LA TORRE=TSUTENKAKU\~FF~#021
+;00004C67{~6B~~CC~~6E~~CC~  ~FF~}#022#007
+~6B~~CC~~6E~~CC~  ~FF~#007
+;00004C6E{MT. FUJI~FF~}#012#009
+MT. FUJI~FF~#009
+;00004C77{~7B~~CC~~7E~~CC~  ~FF~}#022#007
+~7B~~CC~~7E~~CC~  ~FF~#007
+;00004C7E{LAKE ASHINO~FF~}#015#012
+LAGO ASHINO~FF~#012
+;00004C8A{~90~~CC~~93~~CC~~A2~~CC~  ~FF~}#030#009
+~90~~CC~~93~~CC~~A2~~CC~  ~FF~#009
+;00004C93{THE BAY BRIDGE~FF~}#018#015
+PUENTE BAHÍA\ ~FF~#015
+;00004CA2{YAMASHITA PARK~FF~}#018#015
+PARQ.YAMASHITA~FF~#015
+;00004CB1{~B9~~CC~~BC~~CC~~C5~~CC~~D1~~CC~  ~FF~}#038#011
+~B9~~CC~~BC~~CC~~C5~~CC~~D1~~CC~  ~FF~#011
+;00004CBC{SHINJUKU~FF~}#012#009
+SHINJUKU~FF~#009
+;00004CC5{TOKYO TOWER~FF~}#015#012
+TORRE TOKIO~FF~#012
+;00004CD1{DIET BUILDING~FF~}#017#014
+EDI{FI}CIO DIETA~FF~#014
+|154
+@000301AA-000305BB-FF
+;000301AA{The destruction=in Tokyo is ~FC~ %.=Hurry!~FF~}#046#040
+La destrucción=en Tokio es ~FC~ %.=¡Corre!~FF~#040
+;000301D2{The enemy=monster is in=Area ~FC~ .~FF~}#039#033
+Monstruo enemigo=en la Zona=~FC~ .\~FF~#033
+;000301F3{The enemy=monster warped.=Now he's in=Area ~FC~ .~FF~}#053#047
+Monstruo enemigo=movido.=Ahora en la Zona=~FC~ .\~FF~#047
+;00030222{The enemy=monster can't=warp anymore.==He's in=Area ~FC~ .=Let's hit him=quick.~FF~}#083#077
+El monstruo=
+enemigo no puede=
+moverse.==
+Está en la Zona=
+~FC~ .=
+Peguémosle=
+ahora.~FF~#077
+;0003026F{The tiny UFOs=seem to be=controlled by=the mother UFO.=If we destroy=the mother UFO,=that'll stop the=tiny UFOs too.~FF~}#120#117
+Los pequeños=
+OVNIs parecen=
+estar=
+controlados por=
+la madre OVNI.=
+Si la=
+destruimos, eso=
+también parará a=
+los pequeños.~FF~#117
+;000302E4{The enemy mother=UFO is in Area=~FC~ .~FF~}#042#036
+La madre OVNI=
+está en la Zona=
+~FC~ .\ ~FF~#036
+;00030308{The enemy is=running amok in=the city.  Go=there quickly!~FF~}#061#058
+El enemigo corre=
+enloquecido por=
+la ciudad.=
+¡Ve rápido!\ ~FF~#058
+;00030342{KING GHIDORAH is=near Osaka=Castle.=That's Area 2-B.=Hurry!~FF~}#063#060
+KING GHIDORAH=
+está cerca del=
+Castillo de=
+Osaka. Zona=
+2-B.\ ~FF~#060
+;0003037E{KING GHIDORAH is=near Tsutenkaku.=That's Area 1-B.=Hurry!~FF~}#061#058
+KING GHIDORAH=
+está cerca de=
+Tsutenkaku.=
+Zona 1-B.=
+¡Corre!~FF~#058
+;000303B8{BATTRA is at the=Bay Bridge.=That's Area 4-B.=Hurry!~FF~}#056#053
+BATTRA está en=
+el Puente Bahía.=
+Zona 4-B.=
+¡Rápido!\ ~FF~#053
+;000303ED{You're the only=one who can con-=trol GODZILLA!=Good luck.~FF~}#062#059
+¡Eres el único=
+que puede=
+controlar a=
+GODZILLA!=
+Suerte.\   ~FF~#059
+;00030428{This is what it=looks like=around the base=where the=professor is.=You have to find=him!~FD~~FF~}#096#090
+Así están los=
+alrededores de=
+la base en la=
+que está el=
+profesor.=
+¡Debes=
+encontrarle!~FD~\   ~FF~#090
+;00030482{KING GHIDORAH=shoots gravity=light from his=three heads.=Watch out.~FF~}#071#068
+KING GHIDORAH=
+dispara luz=
+gravitatoria de=
+sus tres=
+cabezas. Alerta.~FF~#068
+;000304C6{BATTRA can fly,=so body strikes=and tail attacks=probably won't=work.  Be care-=ful how you=move.~FF~}#101#098
+BATTRA puede=
+volar, así que=
+las cargas y=
+ataques de cola=
+no funcionarán.=
+Ten cuidado al=
+moverte.\~FF~#098
+;00030528{There's strange=movement in Lake=Ashino.~FF~}#044#041
+Hay movimientos=
+raros en el Lago=
+Ashino.~FF~#041
+;00030551{MECHA-KING=GHIDORAH is much=more powerful=than KING=GHIDORAH.=You'll have to=attack with per-=fect timing.~FF~}#110#107
+MECHA-KING=
+GHIDORAH es=
+mucho más=
+poderoso que=
+KING GHIDORAH.=
+Tendrás que=
+atacar con buena=
+sincronización.\~FF~#107
+|1042
+@000305BC-00030A3A-FF
+;000305BC{BAGAN is more=powerful than=any monster be-=fore.  If you=dawdle, he'll=attack you right=away!  And=there's no tell-=ing at all how=he'll attack.=Watch out!~FF~}#160#157
+BAGAN es más=
+poderoso que=
+cualquier=
+monstruo=
+anterior. Si te=
+entretienes, ¡te=
+atacará de=
+inmediato! Y no=
+se sabe en=
+absoluto cómo=
+atacará.=
+¡Cuidado!\       ~FF~#157
+;00030659{~FD~~FF~}#008#002
+~FD~~FF~#002
+;0003065B{The enemy=monster seems to=be warping under=control from=the mother UFO=somehow.~FF~}#084#081
+El monstruo=
+enemigo parece=
+transportarse=
+bajo el control=
+del OVNI madre.\       ~FF~#081
+;000306AC{I think the best=thing is to hit=the mother UFO.=It's in Area=2-B.~FF~}#070#067
+Creo que lo=
+mejor es golpear=
+al OVNI madre.=
+Está en la Zona=
+2-B.\ ~FF~#067
+;000306EF{If we destroy=the mother UFO,=that'll stop the=tiny UFOs too.~FF~}#065#062
+Si destruimos el=
+OVNI madre,=
+también detendrá=
+a los pequeños.~FF~#062
+;0003072D{First, destroy=the two feelers,=or you can't get=close to =BIOLLANTE.~FF~}#073#070
+Antes destruye=
+los dos=
+palpadores o no=
+podrás acercarte=
+a BIOLLANTE.\~FF~#070
+;00030773{The enemy=shouldn't be=able to warp=now.  Let's take=him out now.~FF~}#069#066
+El enemigo ya no=
+debería poder=
+transportarse.=
+Vamos a=
+eliminarlo.~FF~#066
+;000307B5{We are giving=energy to GOD-=ZILLA.~FF~}#039#036
+Estamos cargando=
+a GODZILLA.\      ~FF~#036
+;000307D9{Refueling com-=plete!=We are moving.~FF~}#040#037
+¡Recarga=
+completa!=
+Nos movemos.\    ~FF~#037
+;000307FE{There doesn't=seem to be any=more energy=here.~FF~}#050#047
+Aquí no parece=
+haber más=
+energía.\            ~FF~#047
+;0003082D{The control=waves don't=reach any far-=ther.  If you=advance GODZILLA=any farther,=he'll go out of=control.  We =change his =direction.~FF~}#139#136
+Las ondas de=
+control no=
+llegan más=
+lejos. Si llevas=
+más lejos a=
+GODZILLA, estará=
+fuera de=
+control.=
+Cambiamos su=
+dirección.\            ~FF~#136
+;000308B5{This way goes=out of the=battle zone.==We change his=direction.~FF~}#067#064
+Por aquí se sale=
+de la zona de=
+batalla.=
+Cambiamos su=
+dirección.~FF~#064
+;000308F5{The energy is=running out.=Refuel right=away!~FF~}#049#046
+La energía se=
+está acabando.=
+¡Recarga ahora!\~FF~#046
+;00030923{The enemy is=around here.==Be careful!~FF~}#042#039
+El enemigo está=
+por aquí.=
+¡Cuidado!\  ~FF~#039
+;0003094A{There isn't much=time.  If we=don't hurry,=GODZILLA will go=out of control.~FF~}#079#076
+No queda mucho=
+tiempo. Si no=
+nos apresuramos,=
+GODZILLA se=
+descontrolará.\  ~FF~#076
+;00030996{Now moving=around=~FC~ .~FF~}#028#022
+Moviéndose por=~FC~ .\  ~FF~#022
+;000309AC{You have picked=up the fighting=spirit increase=item.  If you=use it during a=battle, it be-=comes easier to=raise GODZILLA's=fighting spirit.~FF~}#146#143
+Recogiste el=
+objeto de=
+aumento del=
+espíritu de=
+lucha. Si lo=
+usas en una=
+batalla, será=
+más fácil=
+aumentar el=
+espíritu de=
+lucha de=
+GODZILLA.\   ~FF~#143
+|1151
+@00030A3B-00030E69-FF
+;00030A3B{You have picked=up the defense=increase item.=If you use it=during a battle,=for a while,=GODZILLA is not=hurt even if he=is attacked.~FF~}#138#135
+Recogiste el=
+objeto de=
+aumento de=
+defensa. Si lo=
+usas en una=
+batalla, durante=
+un tiempo,=
+GODZILLA no=
+recibe daño=
+aunque sea=
+atacado.\ ~FF~#135
+;00030AC2{You have picked=up the super en-=ergy refill=item.  If you=use it during a=battle, GOD-=ZILLA's energy=is completely=refilled.~FF~}#130#127
+Has recogido el=
+objeto de=
+recarga de=
+energía. Si lo=
+usas durante una=
+batalla, la=
+energía de=
+GODZILLA se=
+rellena por=
+completo.\~FF~#127
+;00030B41{You have picked=up the energy=refill item.  If=you use it dur-=ing a battle,=GODZILLA's ener-=gy is refilled.~FF~}#113#110
+Recogiste el=
+objeto de=
+recarga de=
+energía. Si lo=
+usas durante una=
+batalla, la=
+energía de=
+GODZILLA se=
+rellena.~FF~#110
+;00030BAF{You have picked=up an energy=capsule.  GOD-=ZILLA's energy=is refilled here=now.~FD~~FF~}#088#082
+Recogiste una=
+cápsula de=
+energía. La=
+energía de=
+GODZILLA se=
+recarga aquí=
+ahora.~FD~\~FF~#082
+;00030C01{You have picked=up the in-=vincibility=item.  Starting=now, GODZILLA=will be un-=defeatable for a=while.~FF~}#108#105
+Has recogido el=
+objeto de=
+invencibilidad.=
+A partir de=
+ahora, GODZILLA=
+será invencible=
+durante un=
+tiempo.~FF~#105
+;00030C6A{Wow, he warped.=That must have=been the warp=item.~FF~}#054#051
+Vaya, se ha ido.=
+Debe ser el=
+objeto de=
+transporte.~FF~#051
+;00030C9D{You have picked=up the stop-time=item.  Starting=now, the time=counter will be=stopped for a=while.~FF~}#103#100
+Has recogido el=
+objeto de parar=
+el tiempo. El=
+contador de=
+tiempo se=
+detendrá durante=
+un rato.\     ~FF~#100
+;00030D01{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00030D03{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00030D05{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00030D07{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00030D09{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00030D0B{GODZILLA,=standby OK!  We=are bringing him=onto land at=Osaka.~FF~}#066#063
+¡Apoyo de=
+GODZILLA, listo!=
+vamos a llevarle=
+a tierra en=
+Osaka.~FF~#063
+;00030D4A{The rest is all=up to you.=Use your best=technique to=control GOD-=ZILLA.~FF~}#077#074
+El resto es cosa=
+tuya.=
+Usa tu mejor=
+técnica para=
+controlar a=
+GODZILLA.\  ~FF~#074
+;00030D94{Various enemies=are lurking in=the city.  Move=carefully.~FF~}#061#058
+Varios enemigos=
+se esconden en=
+la ciudad.=
+Ve con cuidado.~FF~#058
+;00030DCE{If you move GOD-=ZILLA crashing=through build-=ings, it injures=him.~FF~}#072#069
+Si mueves a=
+GODZILLA=
+chocándose con=
+edificios, le=
+causa heridas.\   ~FF~#069
+;00030E13{That's why we=have prepared=points for ener-=gy resupply and=other points in=the city.~FF~}#090#087
+Por eso hemos=
+preparado puntos=
+para reabastecer=
+energía y otros=
+puntos de la=
+ciudad.\ ~FF~#087
+|1071
+@00030E6A-00031274-FF
+;00030E6A{Collect these=items and head=for the monster.=Good luck.~FF~}#060#057
+Recoge los=
+objetos y=
+dirígete al=
+monstruo.=
+Buena suerte.~FF~#057
+;00030EA3{This is the=layout of the=battle zone.~FD~~FF~}#046#040
+La disposición=
+de la zona de=
+combate.~FD~\~FF~#040
+;00030ECB{Somehow, the=enemy doesn't=seem to be just=the monsters.=Attack with fire=breath attack.~FF~}#092#089
+De alguna forma,=
+el enemigo no=
+parecen ser solo=
+monstruos. Ataca=
+con aliento de=
+fuego.\ ~FF~#089
+;00030F24{That's strange= ~F8~~FB~E.~FB~E.~FB~E.~FB~E===~F9~KING GHIDORAH=should be at=this point ~F8~~FB~O.~FB~O.~FB~O.~FB~n=~F9~  Ah!~FF~}#129#090
+Eso es extraño.=
+~F8~~FB~E.~FB~E.~FB~E.~FB~E===~F9~
+KING GHIDORAH=
+debería estar=
+aquí~F8~~FB~O.~FB~O.~FB~O.~FB~n=~F9~
+¡Ah!\      ~FF~#090
+;00030F7E{Ok, listen.=GODZILLA and the=enemy monsters=both have fero-=cious fighting=spirit.~FF~}#086#083
+Bien, escucha.=
+GODZILLA y los=
+monstruos=
+enemigos tienen=
+un gran espíritu=
+de lucha.~FF~#083
+;00030FD1{The stronger it=is, the more the=enemy attacks=and the more=destructive the=techniques=GODZILLA can=attack with.~FF~}#116#113
+Cuanto más=
+fuerte, más=
+ataca el=
+enemigo y más=
+destructivas son=
+las técnicas con=
+las que GODZILLA=
+puede atacar.\ ~FF~#113
+;00031042{Each of the=enemies has its=own rhythm and=the instinctive=bar rises and=falls with a=certain pattern.~FF~}#106#103
+Cada uno de los=
+enemigos tiene=
+su propio ritmo=
+y la barra=
+instintiva sube=
+y baja con=
+cierto patrón.\  ~FF~#103
+;000310A9{Aim for the low=point in the=enemy's fighting=spirit, then=move GODZILLA=in.~FF~}#080#077
+Apunta al punto=
+bajo del=
+espíritu de=
+lucha enemigo y=
+luego mueve a=
+GODZILLA.~FF~#077
+;000310F6{Slip in close=while holding=down the enemy's=fighting spirit=as much as pos-=sible, then=punch.  This=opens up GOD-=ZILLA's attack=window.  Then=pull him back =quickly.=The farther back=you go, the more=GODZILLA's ener-=gy builds up and=the more power-=ful technique he=can mount.~FF~}#284#281
+Acércate=
+mientras=
+mantienes el=
+espíritu de=
+lucha del=
+enemigo lo más=
+bajo posible, y=
+luego golpea.=
+Esto abre la=
+ventana de=
+ataque de=
+GODZILLA. A=
+continuación,=
+hazle retroceder=
+rápidamente.=
+Cuanto más=
+retrocedas, más=
+energía=
+acumulará=
+GODZILLA y más=
+poderosa será su=
+técnica.\      ~FF~#281
+;0003120F{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00031211{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00031213{If you don't=watch out, the=enemy will shoot=his light rays=too.~FF~}#068#065
+Si no tienes=
+cuidado, el=
+enemigo=
+disparará sus=
+rayos de luz.\   ~FF~#065
+;00031254{What's that ...=What's that UFO?~FF~}#036#033
+¿Qué es...?=
+¿Qué es ese=
+OVNI?\  ~FF~#033
+|1035
+@00031275-0003167C-FF
+;00031275{They're bringing=KING GHIDORAH =along.==Could that mean=that ~F8~~FB~O.~FB~O.~FB~O.~F9~~FF~}#091#073
+Se llevan a=
+KING GHIDORAH.=
+==
+Significará eso=
+que~F8~~FB~O.~FB~O.~FB~O.~F9~\            ~FF~#073
+;000312BE{You controlled=GODZILLA to =fight against=KING GHIDORAH.=You Earthlings =are tougher than=we thought.~FF~}#105#102
+Controlasteis a=
+GODZILLA para=
+pelear contra=
+KING GHIDORAH.=
+Los terrícolas=
+sois muy duros.\           ~FF~#102
+;00031324{You are the=one's who used=KING GHIDORAH to=destroy the=city!~FF~}#065#062
+¡Sois los que=
+usaron a KING=
+GHIDORAH para=
+destruir la=
+ciudad!~FF~#062
+;00031362{Our battle to=conquer Earth=has just begun.=Our first=targets are=Japan and GOD-=ZILLA.  Send one=monster after=another at him.=Watch this!~FF~}#143#140
+La batalla para=
+conquistar la=
+Tierra acaba de=
+empezar. Los=
+primeros=
+objetivos son=
+Japón y=
+GODZILLA.=
+Enviaremos a=
+muchos=
+monstruos.=
+¡Mirad!\~FF~#140
+;000313EE{Are they aliens?=How many=monsters can=they be control-=ling?~FF~}#065#062
+¿Son=
+extraterrestres?=
+¿Cuántos=
+monstruos pueden=
+controlar?\  ~FF~#062
+;0003142C{We can't let our=guard down.  We=never know when=or where the=enemy will ap-=pear.~FF~}#086#083
+No podemos bajar=
+la guardia.=
+Nunca sabremos=
+cuándo o dónde=
+aparecerá el=
+enemigo.\ ~FF~#083
+;0003147F{I'll study the=remaining KING=GHIDORAH head.=Maybe I can find=something of=some use.~FF~}#088#085
+Estudiaré la=
+cabeza restante=
+de KING=
+GHIDORAH. Quizá=
+pueda hallar=
+algo de=
+utilidad.\~FF~#085
+;000314D4{A message just=came in from the=self-defense=forces.=The enemy has=attacked the=base at the foot=of Mt. Fuji.~FF~}#113#110
+Acaba de llegar=
+un mensaje de=
+las fuerzas de=
+autodefensa. El=
+enemigo atacó la=
+base al pie del=
+Monte Fuji.\   ~FF~#110
+;00031542{If that base is=wiped out, the=damage to us=will be immeasu-=rable. Send GOD-=ZILLA right over=there.~FF~}#105#102
+Si esa base es=
+aniquilada, el=
+daño para=
+nosotros será=
+inconmensurable.=
+Envíen a=
+GODZILLA hacia=
+allí.\~FF~#102
+;000315A8{The attacking=monster is ~F8~~FB~O.~FB~O.~FB~O.~FB~O.~FB~d~F9~=GODZILLA!~FF~}#076#052
+El monstruo=
+atacante es=
+~FB~O.~FB~O.~FB~O.~FB~d~F9~=
+¡GODZILLA!\   ~FF~#052
+;000315DC{GODZILLA?! =That's impossib-=le.=Don't we have=GODZILLA here?~FF~}#065#062
+¡¿GODZILLA?!=
+Eso es=
+imposible.=
+¿No tenemos a=
+GODZILLA aquí?\ ~FF~#062
+;0003161A{In any case, the=monster is in=area 1-B.=Rush over there.~FD~~FF~}#065#059
+En cualquier=
+caso, está en la=
+zona 1-B. Corre=
+hacia allí.~FD~~FF~#059
+;00031655{A battle between=GODZILLA and=GODZILLA?~FF~}#043#040
+¿Una batalla=
+entre GODZILLA y=
+GODZILLA?~FF~#040
+|1032
+@0003167D-00031AA2-FF
+;0003167D{Oh!  That's=MECHAGODZILLA!=The enemy was=really=MECHAGODZILLA.~FF~}#066#063
+¡Oh! ¡Ese es=
+MECHAGODZILLA!=
+El enemigo era=
+MECHAGODZILLA.\    ~FF~#063
+;000316BC{You seem to=have fixed it=somehow.=There's a signal=from the Profes-=sor.~FF~}#077#074
+Pareces haberlo=
+arreglado de=
+alguna forma.=
+Hay una señal=
+del Profesor.\  ~FF~#074
+;00031706{Actually, I have=found a clear=difference be-=tween KING=GHIDORAH's cells=and those of the=other monsters.=The difference=is ~F8~~FB~Q.~FB~Q.~FB~Q.~FB~Q.~FF~}#157#139
+En realidad, he=
+hallado una=
+clara diferencia=
+entre las=
+células de KING=
+GHIDORAH y las=
+de otros=
+monstruos.=
+La diferencia=
+es~FB~Q.~FB~Q.~FB~Q.\      ~FF~#139
+;00031791{This is serious!=The Professor =has been =captured by =the enemy.~FF~}#069#066
+¡Esto es serio!=
+El profesor ha=
+sido capturado=
+por el enemigo.\   ~FF~#066
+;000317D3{We think the=Professor is=being held at=the alien's=Earth base near=Lake Ashino.~FF~}#084#081
+Creemos que el=
+Profesor está=
+retenido en la=
+base alien=
+terrestre en=
+Lago Ashino.~FF~#081
+;00031824{The Professor is=at one of the=bases and the=others are just=decoys filled=with explosives.~FF~}#095#092
+El Profesor está=
+en una de las=
+bases y el=
+resto solo son=
+señuelos llenos=
+de explosivos.\   ~FF~#092
+;00031880{Also, the whole=area is wired=with high volt-=age.  Touching=one of those=wires would=greatly injure=even GODZILLA.=Move GODZILLA=carefully.~FF~}#144#141
+También, la zona=
+está cableada=
+con alto=
+voltaje. Tocar=
+uno de esos=
+cables dañaría=
+gravemente hasta=
+a GODZILLA.=
+Mueve a GODZILLA=
+con cuidado.~FF~#141
+;0003190D{~FD~~FF~}#008#002
+~FD~~FF~#002
+;0003190F{Wow!  This base=was one of the=enemy's traps.~FF~}#049#046
+¡Vaya! Esta base=
+era una trampa=
+del enemigo.\~FF~#046
+;0003193D{Thanks for res-=cuing me.  They=wanted our data=on GODZILLA's=cells.~FF~}#072#069
+Gracias por=
+salvarme.=
+Querían los=
+datos de las=
+células de=
+GODZILLA.\~FF~#069
+;00031982{Just like me,=they were inter-=ested in fusing=cells between=monsters, espe-=cially between=GODZILLA and=KING GHIDORAH.~FF~}#123#120
+Como yo, estaban=
+interesados en=
+fusionar células=
+entre monstruos,=
+especialmente=
+entre GODZILLA y=
+KING GHIDORAH.\       ~FF~#120
+;000319FA{Thanks to your=quick rescue, I=got away without=their finding=out the secret=of GODZILLA's=cells.~FF~}#101#098
+Gracias a tu=
+rápido rescate,=
+escapé sin que=
+descubrieran el=
+secreto de las=
+células de=
+GODZILLA.\ ~FF~#098
+;00031A5C{A monster has=appeared at Lake=Ashino.  Get=GODZILLA there=right away.~FF~}#074#071
+Ha aparecido un=
+monstruo en Lago=
+Ashino. Lleva a=
+GODZILLA ahora=
+mismo.~FF~#071
+|1062
+@00031AA3-00031EF0-FF
+;00031AA3{It's BIOLLANTE.=They used GOD-=ZILLA's cells to=secretly raise=him underwater.~FF~}#082#079
+Es BIOLLANTE.=
+Usaron las=
+células de=
+GODZILLA para=
+crearlo bajo el=
+agua.\      ~FF~#079
+;00031AF2{There seems to=be energy stored=here too.  Let's=refuel GODZILLA.~FD~~FF~}#073#067
+Aquí también hay=
+energía=
+almacenada.=
+Recarguemos a=
+GODZILLA.~FD~\    ~FF~#067
+;00031B35{I meant to tell=you before I was=captured, but ..=.....~FF~}#059#056
+Quería decírtelo=
+antes de que me=
+capturaran,=
+pero...\  ~FF~#056
+;00031B6D{It's about KING=GHIDORAH's cells=isn't it?~FF~}#046#043
+Es por las=
+células de KING=
+GHIDORAH, ¿no?\~FF~#043
+;00031B98{Right.  I found=that KING=GHIDORAH's cells=can store huge=amounts of ener-=gy.~FF~}#082#079
+Sí. Descubrí que=
+las células de=
+KING GHIDORAH=
+contienen mucha=
+energía.\       ~FF~#079
+;00031BE7{I was working on=fusing GOD-=ZILLA's cells =and KING =GHIDORAH's cells=to increase GOD-=ZILLA's power.~FF~}#106#103
+Trabajaba en=
+fusionar las=
+células de=
+GODZILLA y KING=
+GHIDORAH para=
+incrementar el=
+poder de=
+GODZILLA.\ ~FF~#103
+;00031C4E{Does that mean=GODZILLA could=become even more=powerful?~FF~}#060#057
+¿Eso quiere=
+decir que=
+GODZILLA podría=
+ser más=
+poderoso?\~FF~#057
+;00031C87{More powerful=monsters will=appear.  To=defeat them, we=have to make=GODZILLA even=stronger too.  I=tried injecting=cells we took=from =KING GHIDORAH=into GODZILLA.~FF~}#168#165
+Aparecerán=
+monstruos más=
+poderosos. Para=
+derrotarlos,=
+tendremos que=
+hacer a GODZILLA=
+más fuerte.=
+Intenté=
+inyectarle las=
+células que=
+tomamos de KING=
+GHIDORAH.\      ~FF~#165
+;00031D2C{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00031D2E{Any moment now,=the nucleus will=cause a =reaction.~FF~}#055#052
+En cualquier=
+momento el=
+núcleo causará=
+reacción.\  ~FF~#052
+;00031D62{Look!  GOD-=ZILLA's cells.~FD~~FF~}#034#028
+¡Mira! Células=
+GODZILLA.~FD~\ ~FF~#028
+;00031D7E{The energy gage=is increasing.~FD~~FF~}#038#032
+El medidor=
+energético sube.~FD~\  ~FF~#032
+;00031D9E{If that's so, he=can fight even=stronger=enemies.  That =was the secret =of =KING GHIDORAH's=cells.~FF~}#103#100
+Así, podremos=
+pelear con=
+enemigos más=
+fuertes. Ese era=
+el secreto de=
+las células de=
+KING GHIDORAH.\~FF~#100
+;00031E02{I think there=are more secrets=to these cells.=Let's study them=a while longer.~FF~}#083#080
+Creo que hay más=
+secretos en esas=
+células.=
+Vamos a=
+estudiarlas un=
+poco más.\   ~FF~#080
+;00031E52{The enemy aliens=have advanced=into the Tokyo-=Yokohama area.~FF~}#065#062
+Los aliens=
+enemigos han=
+avanzado a la=
+zona de=
+Tokio-Yokohama.~FF~#062
+;00031E90{We have moved=our battle head-=quarters to a=shelter under=the Diet and are=fighting from=there.~FF~}#100#097
+Hemos movido=
+nuestro cuartel=
+de batalla a un=
+refugio bajo la=
+Dieta y peleamos=
+desde ahí.\       ~FF~#097
+|1102
+@00031EF1-000322FD-FF
+;00031EF1{The city is=filled with=enemy tanks and=missiles.=Move carefully!~FF~}#069#066
+La ciudad está=
+llena de misiles=
+y tanques=
+enemigos.=
+¡Cuidado!\   ~FF~#066
+;00031F33{BATTRA is run-=ning wild in the=Yokohama Bay=Area.  Hurry!~FF~}#062#059
+¡BATTRA está=
+desbocado en la=
+Zona de la Bahía=
+de Yokohama!~FF~#059
+;00031F6E{BATTRA is flying=around the Bay=Bridges in Area=4-B.~FD~~FF~}#060#054
+BATTRA=
+sobrevuela los=
+Puentes de Bahía=
+de Zona 4-B.~FD~\~FF~#054
+;00031FA4{We did it!  But=another one=still seems to =exist at =Yamashita Park.==That BATTRA is=still a cocoon.~FF~}#105#102
+¡Lo logramos!=
+Pero aún existe=
+otro en el=
+Parque de=
+Yamashita.====
+Ese BATTRA=
+todavía es un=
+capullo.\  ~FF~#102
+;0003200A{It is about to =hatch right now.=Let's get over=there right=away.~FF~}#069#066
+Está a punto de=
+eclosionar.=
+Vayamos para=
+allá ahora=
+mismo.\      ~FF~#066
+;0003204C{Yamashita Park=is in Area 4-A.~FF~}#034#031
+Parque Yamashita=
+en Zona 4-A.\~FF~#031
+;0003206B{If GODZILLA=moves through=the ocean, the=enemy cannot=attack him, but=he moves slowly=and may not make=it on time.~FF~}#118#115
+Si GODZILLA se=
+mueve por el=
+mar, el enemigo=
+no puede=
+atacarlo, pero=
+se mueve más=
+lento y puede no=
+llegar a tiempo.~FF~#115
+;000320DE{The cocoon, it's=.....=Were we too=late?!~FD~~FF~}#049#043
+El capullo,=
+se...=
+¡¿Hemos llegado=
+tarde?!~FD~~FF~#043
+;00032109{We seem to be on=time.  Destroy=the cocoon=quickly.~FF~}#055#052
+Parece que=
+llegamos.=
+Destruye el=
+capullo, rápido.\ ~FF~#052
+;0003213D{Good.  There=seems to be no =more of BATTRA's=cocoons.~FF~}#058#055
+Bien. Parece que=
+no hay más=
+capullos de=
+BATTRA.\      ~FF~#055
+;00032174{We bring GOD-=ZILLA on land =from Tokyo Bay.=The monster =attacking Tokyo =is ~F8~~FB~J.~FB~J.~FB~J.=~FB~n~F9~KING GHIDORAH.~FD~~FF~}#132#108
+Traemos a=
+GODZILLA a=
+tierra por la=
+Bahía de Tokio.=
+El monstruo que=
+ataca Tokio~F8~~FB~J.~FB~J.~FB~J.=~FB~n~F9~
+KING GHIDORAH.~FD~~FF~#108
+;000321E0{What?  But we=already=destroyed KING=GHIDORAH.~F8~=~FB~n~F9~There's a mes-=sage from the=Professor.~FF~}#103#091
+¿Qué? Pero ya=
+destruimos a=
+KING GHIDORAH.~F8~=~FB~n~F9~
+Hay un mensaje=
+del Profesor.\               ~FF~#091
+;0003223B{You're all ok!=The damage at=the research=center is=severe, but=first look at=this.~FF~}#087#084
+¡Estáis bien!=
+Los daños al=
+centro de=
+investigación=
+son graves, pero=
+mirad esto.\   ~FF~#084
+;0003228F{They collected=the injured body=and head of KING=GHIDORAH and =brought it back=to life as=MECHA-KING=GHIDORAH.~FF~}#114#111
+Recogieron el=
+cuerpo dañado y=
+la cabeza de=
+KING GHIDORAH y=
+lo revivieron=
+como MECHA-KING=
+GHIDORAH.\           ~FF~#111
+|1037
+@000322FE-00032704-FF
+;000322FE{Even if we have=increased GOD-=ZILLA's power,=can he defeat=MECHA-KING=GHIDORAH, who is=an even stronger=version of KING=GHIDORAH?~FF~}#134#131
+Aunque hayamos=
+incrementado el=
+poder de=
+GODZILLA,=
+¿podemos vencer=
+a MECHA-KING=
+GHIDORAH, que es=
+aún más fuerte=
+que KING=
+GHIDORAH?\~FF~#131
+;00032381{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00032383{They must be=about even=strength.  But=that doesn't=mean we can't=win with supe-=rior fighting=technique.~FF~}#109#106
+Deben estar=
+igualados en=
+fuerza. Pero eso=
+no significa que=
+no podamos ganar=
+con una técnica=
+superior.\   ~FF~#106
+;000323ED{How?~FF~}#008#005
+¿Sí?~FF~#005
+;000323F2{Our experiments=show if we give=a huge amount of=energy to the=GODZILLA's cells=with the KING=GHIDORAH's cells=fused in, this=creates a=powerful reac-=tion on the cell=level.~FF~}#178#175
+Nuestros=
+experimentos=
+muestran que si=
+damos mucha=
+energía a las=
+células de=
+GODZILLA con las=
+células de KING=
+GHIDORAH=
+fusionadas,=
+creará una=
+poderosa=
+reacción a nivel=
+celular.~FF~#175
+;000324A1{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000324A3{If we actually=do this in GOD-=ZILLA's body ..?~FF~}#051#048
+Si lo hacemos,=
+el cuerpo de=
+GODZILLA...\       ~FF~#048
+;000324D3{We could do it.=Among the Tokyo=resupply points,=the three marked="S" are special=energy points.=If we give all=that energy to=GODZILLA, he may=change into a=GODZILLA greater=than GODZILLA, a=SUPER GODZILLA.~FF~}#211#208
+Podemos hacerlo.=
+Entre los puntos=
+de suministro de=
+Tokio, los tres=
+marcados con "S"=
+son puntos=
+especiales de=
+energía. Si se=
+la damos toda a=
+GODZILLA, puede=
+cambiarlo a algo=
+más grande, a=
+SÚPERGODZILLA.\     ~FF~#208
+;000325A3{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000325A5{But right now=the aliens are=trying to=destroy Tokyo.=If that happens,=Japan ...=No matter what=you do, hold the=destruction of=Tokyo to no more=than 50%!~FF~}#158#155
+Pero justo ahora=
+los alienígenas=
+intentan=
+destruir Tokio.=
+Si pasa,=
+Japón...=
+No importa lo=
+que hagas,=
+¡impide que la=
+destrucción de=
+Tokio supere el=
+50%!\  ~FF~#155
+;00032640{You have to de-=cide whether to=go right to=MECHA-KING=GHIDORAH or=to pick up the =special energy=first.=MECHA-KING =GHIDORAH is =running wild in=Area 4-B.~FF~}#159#156
+Tienes que=
+decidirte entre=
+ir a la directo=
+a por MECHA-KING=
+GHIDORAH o=
+recoger la=
+energía=
+especial.=
+MECHA-KING=
+GHIDORAH está=
+desbocado en la=
+Zona 4-B.\    ~FF~#156
+;000326DC{Good Luck!~FD~~FF~}#018#012
+¡Suerte!\ ~FD~~FF~#012
+;000326E8{Look!  GODZILLA=~F8~~FB~T.~FB~T.~FB~T.~FB~T~FF~}#047#029
+¡Mira! GODZILLA=
+~F8~~FB~T.~FB~T.~FB~T.~FB~T~FF~#029
+|1031
+@00032705-00032B34-FF
+;00032705{He returned to=his original=form.~FF~}#037#034
+Volvió a su=
+forma original.\     ~FF~#034
+;00032727{The battle must=have used up all=the energy=stored in GOD-=ZILLA's body.~FF~}#076#073
+La batalla debe=
+haber usado toda=
+la energía del=
+cuerpo de=
+GODZILLA.\    ~FF~#073
+;00032770{Good work!  But=the destruction=in the city is=too great.  The=research center=was destroyed=just like the=other buildings.~FF~}#127#124
+¡Buen trabajo!=
+Pero la=
+destrucción de=
+la ciudad no=
+tanto. El centro=
+de investigación=
+fue destruido=
+junto a otros=
+edificios.~FF~#124
+;000327EC{Fortunately, we=were able to=rescue the=professor, but=it will be hard=for us to give=you any help.~FF~}#103#100
+Por fortuna,=
+pudimos rescatar=
+al profesor,=
+pero nos será=
+difícil darte=
+ayuda alguna.\              ~FF~#100
+;00032850{Good work!=We're OK for=now.~FF~}#032#029
+¡Bien hecho!=
+Estamos bien.\ ~FF~#029
+;0003286D{What?~FF~}#009#006
+¿Qué?~FF~#006
+;00032873{Something is ap-=proaching very=fast.~FF~}#041#038
+Algo se acerca=
+muy rápidamente.\     ~FF~#038
+;00032899{There's still an=enemy left?~F8~~FB~n~F9~  An=enemy more pow-=erful than =MECHA-KING =GHIDORAH?~FF~}#099#087
+¿Aún queda un=
+enemigo?~F8~~FB~n~F9~=
+¿Un enemigo más=
+poderoso que=
+MECHA-KING=
+GHIDORAH?\         ~FF~#087
+;000328F0{What's that?~FF~}#016#013
+¿Qué es eso?~FF~#013
+;000328FD{It's an in-=credible energy=body.~FF~}#037#034
+Un cuerpo de=
+energía=
+increíble.\ ~FF~#034
+;0003291F{This is our=ultimate weapon,=BAGAN.~FF~}#039#036
+Es nuestra=
+arma definitiva,=
+BAGAN.\~FF~#036
+;00032943{BAGAN?~FF~}#010#007
+¿Qué?\~FF~#007
+;0003294A{You are about to=learn the hard=way just how=powerful BAGAN=is.~FF~}#067#064
+Vas a aprender=
+por las malas=
+cuan poderoso es=
+BAGAN.\          ~FF~#064
+;0003298A{In one instant,~F8~~FB~n~F9~=the city was =destroyed!~FF~}#057#045
+En un instante,~F8~~FB~n~F9~=
+¡la ciudad=
+destruida!\  ~FF~#045
+;000329B7{We hadn't=planned on GOD-=ZILLA becoming=this strong.~FF~}#057#054
+No planeamos que=
+GODZILLA se=
+hiciera tan=
+poderoso.\  ~FF~#054
+;000329ED{But he cannot=defeat BAGAN.~FF~}#031#028
+Pero no vencerá=
+a BAGAN.\  ~FF~#028
+;00032A09{Now we are going=to attack the=Diet where your=battle=headquarters is.=That will be the=end of you!~FF~}#103#100
+Ahora vamos a=
+atacar la Dieta=
+donde está=
+vuestro cuartel=
+general.=
+¡Ese será=
+vuestro final!\        ~FF~#100
+;00032A6D{If you think you=can defeat=BAGAN, you are=welcome to come=try anytime.~FF~}#075#072
+Si crees poder=
+derrotar a=
+BAGAN, puedes=
+venir a probar=
+cuando quieras.\~FF~#072
+;00032AB5{Can we really=battle that=monstrosity with=GODZILLA?~FF~}#056#053
+¿Pelearemos=
+contra esa=
+monstruosidad=
+con GODZILLA?\ ~FF~#053
+;00032AEA{The only way to=defeat BAGAN is=to transform=GODZILLA into=SUPER GODZILLA.~FF~}#078#075
+Para derrotar a=
+BAGAN tenemos=
+que transformar=
+a GODZILLA en=
+SÚPERGODZILLA.~FF~#075
+|1072
+@00032B35-00032F50-FF
+;00032B35{But with our re-=search lab and=supply bases=destroyed, how=are we going to=get him the en-=ergy we'll need?~FF~}#112#109
+Pero con nuestro=
+laboratorio y=
+bases de=
+suministro=
+destruidos,=
+¿cómo=
+conseguiremos la=
+energía=
+necesaria?\   ~FF~#109
+;00032BA2{If we use the=backup Super X=at our base in=Osaka to collect=energy from =resupply bases =all over =Japan .....=Till then, you=have to hold=them off with=GODZILLA.~FF~}#167#164
+Si usamos=
+nuestro Súper X=
+de reserva de la=
+base de Osaka=
+para recoger=
+energía de bases=
+de=
+reabastecimiento=
+de Japón...=
+Hasta eso,=
+debemos=
+contenerlos con=
+GODZILLA.~FF~#164
+;00032C46{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00032C48{But you can see=how the city is=being destroyed.=It is hard for=us to get energy=.....~FF~}#090#087
+Pero puedes ver=
+cómo destruyen=
+la ciudad.=
+Es difícil para=
+nosotros recoger=
+energía...\~FF~#087
+;00032C9F{Don't worry.  We=have just com-=pleted the super=energy bank the=research lab was=developing.~FF~}#097#094
+No te preocupes.=
+Hemos completado=
+el súper banco=
+de energía que=
+el laboratorio=
+desarrollaba.\~FF~#094
+;00032CFD{The super high=energy output=should transform=GODZILLA into=SUPER GODZILLA=right away.~FF~}#090#087
+La producción de=
+energía súper=
+alta debería=
+transformar a=
+GODZILLA en=
+SÚPERGODZILLA.\ ~FF~#087
+;00032D54{SUPER GODZILLA..=.....=SUPER GODZILLA=should be a=match for that=super energy=body BAGAN.~FF~}#093#090
+SÚPERGODZILLA...=
+...=
+SÚPERGODZILLA=
+debería ser=
+rival para ese=
+súper energético=
+BAGAN.\   ~FF~#090
+;00032DAE{Go quickly to=pick up the en-=ergy bank.=The research lab=is in Area 3-B.~FF~}#077#074
+Ve rápido a=
+recoger el banco=
+de energía.=
+El lab está en=
+la Zona 3-B.\    ~FF~#074
+;00032DF8{Thank you for=coming.  Let's=give the super=energy bank to=GODZILLA right=away.~FF~}#083#080
+Gracias por=
+venir. Démosle=
+el súper banco de energía a GODZILLA ahora mismo.\  ~FF~#080
+;00032E48{What,~FB~T what does=this mean?~FF~}#035#029
+¿Qué?~FB~T ¿Qué=
+significa esto?~FF~#029
+;00032E65{Undoubtedly,=SUPER GODZILLA.~FF~}#032#029
+Sin duda,=
+SÚPERGODZILLA.\   ~FF~#029
+;00032E82{We seem to have=succeeded.~F8~~FB~T.~FB~T.~FB~T=~F9~We can't tell=how much power=this SUPER=GODZILLA has,=but he is=certainly much=more powerful=than any monster=until now.~FF~}#176#158
+Parece que=
+tuvimos éxito.~F8~~FB~T.~FB~T.~FB~T=~F9~
+No sabemos=
+cuanto poder=
+tiene este=
+SÚPERGODZILLA,=
+pero mucho más=
+que los=
+monstruos que=
+nos encontramos=
+hasta ahora.\     ~FF~#158
+;00032F20{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00032F22{BAGAN is attack-=ing the Diet=Building.=Hurry.~FF~}#050#047
+BAGAN ataca el=
+Edificio Dieta.=
+Date prisa.\   ~FF~#047
+|1052
+@00032F51-000333B2-FF
+;00032F51{You've come.=Well, you are=brave anyway.~FF~}#044#041
+Has venido.=
+Bueno, eres=
+valiente.\      ~FF~#041
+;00032F7A{Well, well, so=he's SUPER=GODZILLA now.=He's still no=match for BAGAN.~FF~}#074#071
+Vaya, vaya,=
+ahora es=
+SÚPERGODZILLA.=
+Aún no es rival=
+para BAGAN.\      ~FF~#071
+;00032FC1{What?  GODZILLA=seems different.=~F8~~FB~J.~FB~J.~FB~J.~FB~J ~F9~After all=he's still no=match for BAGAN.~FF~}#109#088
+¿Qué? GODZILLA=
+parece=
+diferente.=
+~F8~~FB~J.~FB~J.~FB~J.~FB~J ~F9~Después de=
+todo no es rival=
+para BAGAN.\~FF~#088
+;00033019{Something=changed in the=energy body!~FF~}#041#038
+¡Algo cambió en=
+el cuerpo de=
+energía!~FF~#038
+;0003303F{Look!~FF~}#009#006
+¡Eh!\~FF~#006
+;00033045{From that body, =a monster is =about to come =out ...~FF~}#057#054
+De ese cuerpo,=
+está a punto de=
+salir un=
+monstruo...\ ~FF~#054
+;0003307B{That's right.=We warped to=Earth's ultra-=ancient past and=brought the=monster BAGAN=back here from=the land of=legend.=On top of that,=we added GOD-=ZILLA's and KING=GHIDORAH's cells=to make the=legendary=monster BAGAN=the most power-=ful monster.~FF~}#252#249
+Correcto.=
+Viajamos al=
+pasado ultra=
+antiguo de la=
+Tierra y=
+trajimos al=
+monstruo BAGAN=
+de vuelta aquí=
+de la tierra de=
+leyenda.=
+Además, le=
+añadimos células=
+de GODZILLA y=
+KING GHIDORAH=
+para hacer al=
+monstruo=
+legendario BAGAN=
+el monstruo más=
+poderoso.\ ~FF~#249
+;00033174{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00033176{What?  GOD-=ZILLA's and KING=GHIDORAH's cells?~FF~}#050#047
+¿Qué? ¿Células=
+de GODZILLA y=
+KING GHIDORAH?\  ~FF~#047
+;000331A5{That's right,=Professor.  Just=like you, we=have been quite=interested in=fusing GOD-=ZILLA's and KING=GHIDORAH's =cells.~FF~}#125#122
+Correcto,=
+Profesor. Igual=
+que usted, hemos=
+estado muy=
+interesados en=
+fusionar las=
+células de=
+GODZILLA y=
+KING GHIDORAH.\  ~FF~#122
+;0003321F{Thanks to being=able to use that=same cell fusion=that you tried=out on GOD-=ZILLA's body,=our trump card,=BAGAN, is more=powerful than=ever.~FF~}#145#142
+Gracias usar la=
+misma fusión de=
+células que=
+intentó en el=
+cuerpo de=
+GODZILLA,=
+nuestro as en la=
+manga, BAGAN, es=
+más poderoso que=
+nunca.\     ~FF~#142
+;000332AD{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000332AF{Oh, it's the su-=per X.  Did it=bring the ener-=gy?~FF~}#055#052
+Oh, es el súper=
+X. ¿Ha traído la=
+energía?\         ~FF~#052
+;000332E3{Good, we're on=time.  Good work=hanging in=there.  Let's =give all the =energy to=GODZILLA immedi-=ately.~FF~}#109#106
+Bien, llegamos a=
+tiempo. Buen=
+trabajo=
+aguantando.=
+Vamos a darle=
+toda la energía=
+a GODZILLA de=
+inmediato.\~FF~#106
+;0003334D{~F7~The Year 199X.=mysterious message=suddenly arrives~FB~~5A~~FB~~5A~=announcing a general=attack on all of=Japan.~FD~~FF~}#123#102
+~F7~
+El Año 199X.=
+Un misterioso mensaje=
+llega de repente~FB~~5A~~FB~~5A~=
+anunciando un ataque=
+sobre todo Japón.~FD~\    ~FF~#102
+|1122
+@000333B3-000338C0-FF
+;000333B3{~F7~Then, just as in the=message, first KING=GHIDORAH appears in~FB~~5A~~FB~~5A~=Osaka and starts to=tear the city apart.~FD~~FF~}#129#108
+~F7~
+Entonces, como en el=
+mensaje, primero KING=
+GHIDORAH aparece en~FB~~5A~~FB~~5A~=
+Osaka y empieza a=
+destruir la ciudad.~FD~\~FF~#108
+;0003341F{~F7~Helpless before the=monster, the Self-=Defense Agency turns~FB~~5A~~FB~~5A~=its eyes to GODZILLA,=sleeping at the bot-=tom of the Sea of~FB~~5A~~FB~~5A~=Japan, as its final=weapon.~FD~~FF~}#192#159
+~F7~
+Indefensa ante el=
+monstruo, la Agencia=
+de Autodefensa dirige~FB~~5A~~FB~~5A~=
+su mirada a GODZILLA,=
+que duerme en el=
+fondo del Mar de~FB~~5A~~FB~~5A~=
+Japón, como su arma=
+definitiva.~FD~~FF~#159
+;000334BE{~F7~What they thought of=was to control GOD-=ZILLA with human~FB~~5A~~FB~~5A~=hands and make him=fight the monster.~FD~~FF~}#123#102
+~F7~
+En lo que pensaron=
+fue en controlar a=
+GODZILLA con manos~FB~~5A~~FB~~5A~=
+humanas y que peleara=
+con el monstruo.~FD~~FF~#102
+;00033524{~F7~The plan was executed=immediately.  The op-=eration box developed~FB~~5A~~FB~~5A~=by Professor Ogata=was installed in GOD-=ZILLA's body.~FD~~FF~}#148#127
+~F7~
+El plan fue ejecutado=
+de inmediato. La caja=
+de operaciones~FB~~5A~~FB~~5A~=
+desarrollada por el=
+Profesor Ogata se=
+instaló en GODZILLA.~FD~\  ~FF~#127
+;000335A3{~F7~The strategy suc-=ceeded and GODZILLA=awoke.  But could~FB~~5A~~FB~~5A~=GODZILLA and his=ferocious fighting=spirit really be~FB~~5A~~FB~~5A~=controlled?~FD~~FF~}#164#131
+~F7~
+La estrategia tuvo=
+éxito y GODZILLA=
+despertó.~FB~~5A~~FB~~5A~=
+¿Pero podían GODZILLA=
+y su feroz espíritu=
+de combate ser~FB~~5A~~FB~~5A~=
+controlados?~FD~\    ~FF~#131
+;00033626{~F7~Everything depends on=you who have the con-=troller in your~FB~~5A~~FB~~5A~=hands.~FD~~FF~}#094#073
+~F7~
+Todo depende de ti=
+que tienes el=
+controlador en tus~FB~~5A~~FB~~5A~=
+manos.~FD~\       ~FF~#073
+;0003366F{~F7~The battle ended ...~FD~~FF~}#032#023
+~F7~La batalla acabó...~FD~\~FF~#023
+;00033686{~F7~The aliens who used=monsters to attack=our cities were shot~FB~~5A~~FB~~5A~~FB~~5A~=down by the Super X.~FD~~FF~}#116#089
+~F7~
+Los alienígenas que=
+atacaron nuestras=
+ciudades fueron~FB~~5A~~FB~~5A~~FB~~5A~=
+abatidos por el Súper=
+X.~FD~\ ~FF~#089
+;000336DF{~F7~At the end of his=violent battle with=BAGAN, GODZILLA's~FB~~5A~~FB~~5A~~FB~~5A~=operation box was=destroyed.  After we=lost control over~FB~~5A~~FB~~5A~~FB~~5A~=him, GODZILLA in-=stinctively returned=to the sea.~FD~~FF~}#223#178
+~F7~
+Al final de esta=
+violenta batalla=
+contra BAGAN, la caja~FB~~5A~~FB~~5A~~FB~~5A~=
+de operaciones de=
+GODZILLA fue=
+destruida. Tras~FB~~5A~~FB~~5A~~FB~~5A~=
+perder el control,=
+GODZILLA volvió por=
+instinto al mar.~FD~\    ~FF~#178
+;00033791{~FD~~FF~}#008#002
+~FD~~FF~#002
+;00033793{~F7~Is that the end of it=all?~FD~~FF~}#038#029
+~F7~
+¿Es ese el final de=
+todo?~FD~\~FF~#029
+;000337B0{~F7~The threat from space=is gone.  But when=the most powerful~FB~~5A~~FB~~5A~~FB~~5A~=monster in history,=the monster of the=monsters GODZILLA,~FB~~5A~~FB~~5A~~FB~~5A~=awakes again from his=sleep at the bottom=of the deep sea,~FB~~5A~~FB~~5A~~FB~~5A~=perhaps he will=appear before us next=time as a threat to~FB~~5A~~FB~~5A~~FB~~5A~=humanity....~FD~~FF~}#354#273
+~F7~
+La amenaza espacial=
+se ha ido. Pero=
+cuando el monstruo~FB~~5A~~FB~~5A~~FB~~5A~=
+más poderoso de la=
+historia, monstruo de=
+monstruos GODZILLA,~FB~~5A~~FB~~5A~~FB~~5A~=
+vuelva a despertarse=
+de su sueño en el=
+fondo del mar,~FB~~5A~~FB~~5A~~FB~~5A~=
+quizá aparecerá ante=
+nosotros la próxima=
+vez como amenaza de~FB~~5A~~FB~~5A~~FB~~5A~=
+la humanidad...~FD~~FF~#273
+|1294
+@000338C1-00033CD8-FF
+;000338C1{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000338C3{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000338C5{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000338C7{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000338C9{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000338CB{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000338CD{~FD~~FF~}#008#002
+~FD~~FF~#002
+;000338CF{SUPER GODZILLA?~FF~}#019#016
+¿SÚPERGODZILLA?~FF~#016
+;000338DF{SUPER GODZILLA!~FF~}#019#016
+¡SÚPERGODZILLA!~FF~#016
+;000338EF{What did you=say?~FF~}#021#018
+¿Qué has dicho?\ ~FF~#018
+;00033901{SUPER GODZILLA=does not seem to=be hurt at all=when he crashes=through build-=ings or even=when hit by=enemy missiles.=Let's move for-=ward quickly.~FF~}#152#149
+SÚPERGODZILLA=
+no parece ser=
+herido en=
+absoluto al=
+chocarse con=
+edificios o=
+hasta al ser=
+golpeado por=
+misiles=
+enemigos.=
+Movámonos=
+adelante rápido.\  ~FF~#149
+;00033996{BIOLLANTE's acid=sap attack is=extremely power-=ful.=We should fight=defensively.=Also, there is a=danger of body=strikes just=bouncing back=against us.  Be=careful.~FF~}#169#166
+El ataque de=
+savia ácida de=
+BIOLLANTE es muy=
+poderoso.=
+Lucharemos a la=
+defensiva.=
+Además, existe=
+el peligro de=
+que los golpes=
+de cuerpo nos=
+reboten. Ten=
+cuidado.\   ~FF~#166
+;00033A3C{Since BATTRA is=quite agile, he=can dodge any-=thing but speedy=hyper fire=breath attack.=The key to =winning is=how high we can=raise GODZILLA's=fighting spirit.~FF~}#166#163
+Como BATTRA es=
+muy ágil, puede=
+esquivarlo todo=
+excepto el veloz=
+ataque de híper=
+aliento de=
+fuego. La clave=
+para ganar es=
+elevar el=
+espíritu de=
+lucha de=
+GODZILLA.\~FF~#163
+;00033ADF{When GODZILLA=goes into attack=posture,=MECHA-KING =GHIDORAH detects=this with his =sensors and =unleashes a=special attack.=Once GODZILLA's=attack window is=open, attack as=fast as pos-=sible!~FF~}#197#194
+Cuando GODZILLA=
+entra en=
+posición de=
+ataque,=
+MECHA-KING=
+GHIDORAH lo=
+detecta con sus=
+sensores y=
+desata un ataque=
+especial. Cuando=
+GODZILLA pueda=
+atacar, ¡ataca=
+lo más rápido=
+posible!\           ~FF~#194
+;00033BA1{BIOLLANTE is on=the north side=of the lake in=Area 3-A.~FF~}#059#056
+BIOLLANTE está=
+al norte en el=
+lago de la Zona=
+3-A.\    ~FF~#056
+;00033BD9{There are items=you can use in=battle here, but=you cannot=carry any more.=You can only=carry four items=until the=battle.~FF~}#126#123
+Hay objetos que=
+puedes usar en=
+la batalla, pero=
+no puedes llevar=
+más. Sólo puedes=
+llevar cuatro=
+objetos hasta la=
+batalla.\~FF~#123
+;00033C54{Try releasing=the controller=button after=holding it down=for a while.=That is the=super-punch.~FF~}#099#096
+Intenta soltar=
+el botón del=
+mando tras=
+mantenerlo=
+pulsado durante=
+un rato. Ese es=
+el súperpuño.~FF~#096
+;00033CB4{Nonsense,~FB~n BAGAN=can't be=defeated.~FF~}#043#037
+Es absurdo,~FB~n=
+BAGAN no puede=
+perder.~FF~#037
+|1048
+@00033CD9-00033DB3-FF
+;00033CD9{With one pitched=battle after an-=other, GOD-=ZILLA's control-=ler has been=stretched to its=limit.  Defeat=BAGAN quickly!~FF~}#126#123
+Con una dura=
+batalla tras=
+otra, el=
+controlador de=
+GODZILLA se ha=
+puesto al=
+límite. ¡Derrota=
+a BAGAN=
+rápidamente!\         ~FF~#123
+;00033D54{Weak fire breath=attack will just=bounce back at=you because of=MECHAGODZILLA's=strong barrier.~FF~}#099#096
+Un ataque débil=
+de aliento de=
+fuego rebotará=
+hacia ti por la=
+fuerte barrera=
+de=
+MECHAGODZILLA.\ ~FF~#096
+|219

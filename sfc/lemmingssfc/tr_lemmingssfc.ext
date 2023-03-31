@@ -1,0 +1,1024 @@
+@00006E0A-00006E84-00
+;00006E0A{WALKER?~00~}#011#008
+CAMINA?~00~#008
+;00006E12{JUMPER?~00~}#011#008
+SALTA??~00~#008
+;00006E1A{FALLER?~00~}#011#008
+CAE????~00~#008
+;00006E22{FLOATER~00~}#011#008
+FLOTA??~00~#008
+;00006E2A{CLIMBER~00~}#011#008
+ESCALA?~00~#008
+;00006E32{FLIPPER~00~}#011#008
+ALETEA?~00~#008
+;00006E3A{BLOCKER~00~}#011#008
+BLOQUEA~00~#008
+;00006E42{BUILDER~00~}#011#008
+CREA???~00~#008
+;00006E4A{WAVER??~00~}#011#008
+ONDULA?~00~#008
+;00006E52{BASHER?~00~}#011#008
+GOLPEA?~00~#008
+;00006E5A{MINER??~00~}#011#008
+MINERO?~00~#008
+;00006E62{DIGGER?~00~}#011#008
+ESCAVA?~00~#008
+;00006E6A{BOMBER?~00~}#011#008
+BOMBEA?~00~#008
+;00006E72{ATHLETE~00~}#011#008
+ATLETA?~00~#008
+;00006E7A{??????????~00~}#014#011
+??????????~00~#011
+|123
+@000070B1-000070D8-00
+;000070B1{Fun     Tricky  Taxing  Mayhem  SUNSOFT }#040#040
+Diver   
+Difícil 
+Agotador
+Violento
+SUNSOFT #040
+|40
+@000070EE-0000727B-00
+;000070EE{~14~Lemmings sound test mode~00~}#032#026
+~14~Modo test audio Lemmings~00~#026
+;00007108{~8C~~03~~00~}#012#003
+~8C~~03~~00~#003
+;0000710B{~0C~Music name :~00~}#020#014
+~0C~Música     :~00~#014
+;00007119{~C4~~05~~00~}#012#003
+~C4~~05~~00~#003
+;0000711C{~10~Select button   Music select~00~}#036#030
+~10~Botón select  Elige música  ~00~#030
+;0000713A{~84~~06~~00~}#012#003
+~84~~06~~00~#003
+;0000713D{~10~A,B button      Music start~00~}#035#029
+~10~Botón A,B     Inicia música~00~#029
+;0000715A{D~07~~00~}#009#003
+D~07~~00~#003
+;0000715D{~10~X button        Stereo mode ~00~}#036#030
+~10~Botón X       Modo estéreo  ~00~#030
+;0000717B{~04~~08~~00~}#012#003
+~04~~08~~00~#003
+;0000717E{~10~Y button        Mono mode ~00~}#034#028
+~10~Botón Y       Modo Mono   ~00~#028
+;0000719A{~00~}#004#001
+~00~#001
+;0000719B{~00~}#004#001
+~00~#001
+;0000719C{Opening Demo    Start   Clear   Miss    Ending  Ending2 Lemming1Lemming2Lemming3Tim1    Tim2    Tim3    Tim4    Tim5    Tim6    Tim7    Tim8    Tim9    Tim10   Doggie  MountainTenLem  Cancan  Awesome BeastI  BeastII Menace  }#224#224
+Apertura
+Demo    
+Inicio  
+Acaba   
+Fallo   
+Final   
+Final2  
+Lemming1
+Lemming2
+Lemming3
+Tim1    
+Tim2    
+Tim3    
+Tim4    
+Tim5    
+Tim6    
+Tim7    
+Tim8    
+Tim9    
+Tim10   
+Perrito 
+Montaña 
+TenLem  
+Cancan  
+Genial  
+BestiaI 
+BestiaII
+Amenaza #224
+|398
+@00007326-0000733B-00
+;00007326{Enter the access code~00~}#025#022
+ Entra código acceso ~00~#022
+|22
+@0000739E-000073CF-00
+;0000739E{~1C~Incorrect code~00~}#022#016
+~1C~Código erróneo~00~#016
+;000073AE{~00~}#004#001
+~00~#001
+;000073AF{~00~}#004#001
+~00~#001
+;000073B0{N~04~~00~}#009#003
+N~04~~00~#003
+;000073B3{~1C~Code for level~00~}#022#016
+~1C~Código nivel  ~00~#016
+;000073C3{~D0~~04~~00~}#012#003
+~D0~~04~~00~#003
+;000073C6{~1C~Rating -~00~}#016#010
+~1C~Rango - ~00~#010
+|50
+@00007805-00007DE9-00
+;00007805{Number of Lemmings~00~}#022#019
+Número de Lemmings~00~#019
+;00007818{~14~~05~~00~}#012#003
+~14~~05~~00~#003
+;0000781B{~04~% to be saved~00~}#021#015
+~04~% a salvar   ~00~#015
+;0000782A{~0E~~06~~00~}#012#003
+~0E~~06~~00~#003
+;0000782D{~18~Time    ~23~ minutes~00~}#028#019
+~18~Tpo.    ~23~ minutos~00~#019
+;00007840{~8E~~06~~00~}#012#003
+~8E~~06~~00~#003
+;00007843{~14~Rating~00~}#014#008
+~14~Rango ~00~#008
+;0000784B{~82~~02~~00~}#012#003
+~82~~02~~00~#003
+;0000784E{~0C~Level~00~}#013#007
+~0C~Nivel~00~#007
+;00007855{~8E~~05~~00~}#012#003
+~8E~~05~~00~#003
+;00007858{~1C~Release rate~00~}#020#014
+~1C~Ratio libera~00~#014
+;00007866{D~08~~00~}#009#003
+D~08~~00~#003
+;00007869{~10~Press select or start button~00~}#036#030
+~10~ Pulsa botón select o start ~00~#030
+;00007887{~00~}#004#001
+~00~#001
+;00007888{~00~}#004#001
+~00~#001
+;00007889{~8A~~04~~00~}#012#003
+~8A~~04~~00~#003
+;0000788C{~08~Player 1 has ~23~~23~ lemmings~00~}#038#026
+~08~Jugador1 con ~23~~23~ lemmings~00~#026
+;000078A6{~0A~~05~~00~}#012#003
+~0A~~05~~00~#003
+;000078A9{~04~Player 2 has ~23~~23~ lemmings~00~}#038#026
+~04~Jugador2 con ~23~~23~ lemmings~00~#026
+;000078C3{~00~}#004#001
+~00~#001
+;000078C4{~00~}#004#001
+~00~#001
+;000078C5{F~03~~00~}#009#003
+F~03~~00~#003
+;000078C8{~08~Rating - $$$$$$$$ Level~00~}#031#025
+~08~Rango -  $$$$$$$$ Nivel~00~#025
+;000078E1{~0E~~04~~00~}#012#003
+~0E~~04~~00~#003
+;000078E4{~04~You needed    ~23~~23~~23~%~00~}#035#020
+~04~Necesitabas   ~23~~23~~23~%~00~#020
+;000078F8{~8E~~04~~00~}#012#003
+~8E~~04~~00~#003
+;000078FB{~04~You rescued   ~23~~23~~23~%~00~}#035#020
+~04~Rescataste    ~23~~23~~23~%~00~#020
+;0000790F{~0E~~05~~00~}#012#003
+~0E~~05~~00~#003
+;00007912{~04~Your score  ~23~~23~~23~~23~~23~ pts.~00~}#045#024
+~04~Tu marca    ~23~~23~~23~~23~~23~ pts.~00~#024
+;0000792A{F~02~~00~}#009#003
+F~02~~00~#003
+;0000792D{~14~All lemmings accounted for.~00~}#035#029
+~14~Todos los lemmings contados~00~#029
+;0000794A{N~08~~00~}#009#003
+N~08~~00~#003
+;0000794D{~10~Press start button~00~}#026#020
+~10~Pulsa botón start ~00~#020
+;00007961{~00~}#004#001
+~00~#001
+;00007962{~00~}#004#001
+~00~#001
+;00007963{B~08~~00~}#009#003
+B~08~~00~#003
+;00007966{~10~Press start button to retry 10~00~}#038#032
+~10~Pulsa start para reintentar 10~00~#032
+;00007986{~00~}#004#001
+~00~#001
+;00007987{~00~}#004#001
+~00~#001
+;00007988{D~06~~00~}#009#003
+D~06~~00~#003
+;0000798B{~1C~Access code for next level is~00~}#037#031
+~1C~El siguiente código de acceso~00~#031
+;000079AA{~00~}#004#001
+~00~#001
+;000079AB{~00~}#004#001
+~00~#001
+;000079AC{~02~~01~~03~~04~D~03~~00~}#025#007
+~02~~01~~03~~04~D~03~~00~#007
+;000079B3{~08~Player 1 rescued ~23~~23~~23~ Lemmings~00~}#046#031
+~08~Jugador 1 salvó a ~23~~23~~23~Lemmings~00~#031
+;000079D2{~C4~~03~~00~}#012#003
+~C4~~03~~00~#003
+;000079D5{~04~Player 2 rescued ~23~~23~~23~ Lemmings~00~}#046#031
+~04~Jugador 2 salvó a ~23~~23~~23~Lemmings~00~#031
+;000079F4{~C6~~04~~00~}#012#003
+~C6~~04~~00~#003
+;000079F7{~08~Player 1 has won ~23~~23~ games~00~}#039#027
+~08~El jugador 1 ganó ~23~~23~veces~00~#027
+;00007A12{F~05~~00~}#009#003
+F~05~~00~#003
+;00007A15{~04~Player 2 has won ~23~~23~ games~00~}#039#027
+~04~El jugador 2 ganó ~23~~23~veces~00~#027
+;00007A30{~00~}#004#001
+~00~#001
+;00007A31{~00~}#004#001
+~00~#001
+;00007A32{~8A~~06~~00~}#012#003
+~8A~~06~~00~#003
+;00007A35{~1C~Player 1 wins the game.~00~}#031#025
+~1C~Jugador 1 gana partida.~00~#025
+;00007A4E{~00~}#004#001
+~00~#001
+;00007A4F{~00~}#004#001
+~00~#001
+;00007A50{~8A~~06~~00~}#012#003
+~8A~~06~~00~#003
+;00007A53{~1C~Player 2 wins the game.~00~}#031#025
+~1C~Jugador 2 gana partida.~00~#025
+;00007A6C{~00~}#004#001
+~00~#001
+;00007A6D{~00~}#004#001
+~00~#001
+;00007A6E{~8E~~06~~00~}#012#003
+~8E~~06~~00~#003
+;00007A71{~1C~The game is a draw.~00~}#027#021
+~1C~  Juego empatado.  ~00~#021
+;00007A86{~00~}#004#001
+~00~#001
+;00007A87{~00~}#004#001
+~00~#001
+;00007A88{B~06~~00~}#009#003
+B~06~~00~#003
+;00007A8B{~18~None rescued,the match is over.~00~}#039#033
+~18~Nadie rescatado, fin encuentro.~00~#033
+;00007AAC{~00~}#004#001
+~00~#001
+;00007AAD{~00~}#004#001
+~00~#001
+;00007AAE{~08~~07~~00~}#012#003
+~08~~07~~00~#003
+;00007AB1{~1C~Player 1 wins the match.~00~}#032#026
+~1C~Jugador1 gana encuentro.~00~#026
+;00007ACB{~00~}#004#001
+~00~#001
+;00007ACC{~00~}#004#001
+~00~#001
+;00007ACD{~08~~07~~00~}#012#003
+~08~~07~~00~#003
+;00007AD0{~1C~Player 2 wins the match.~00~}#032#026
+~1C~Jugador2 gana encuentro.~00~#026
+;00007AEA{~00~}#004#001
+~00~#001
+;00007AEB{~00~}#004#001
+~00~#001
+;00007AEC{~0C~~07~~00~}#012#003
+~0C~~07~~00~#003
+;00007AEF{~1C~The match is a draw.~00~}#028#022
+~1C~  Juego empatado.   ~00~#022
+;00007B05{~00~}#004#001
+~00~#001
+;00007B06{~00~}#004#001
+~00~#001
+;00007B07{~19~~FB~c~FB~~AF~~FB~~FD~~FB~U~FC~~9F~~FC~~F3~~FC~?~FD~~94~~FD~~14~~06~~00~}#075#021
+~19~~FB~c~FB~~AF~~FB~~FD~~FB~U~FC~~9F~~FC~~F3~~FC~?~FD~~94~~FD~~14~~06~~00~#021
+;00007B1C{~0C~ROCK BOTTOM!~00~}#020#014
+~0C~  LO PEOR!  ~00~#014
+;00007B2A{~8C~~06~~00~}#012#003
+~8C~~06~~00~#003
+;00007B2D{~0C~I hope for your sake~00~}#028#022
+~0C~ Espero por tu bien ~00~#022
+;00007B43{~06~~07~~00~}#012#003
+~06~~07~~00~#003
+;00007B46{~0C~that you nuked that level~00~}#033#027
+~0C~ que explotaras ese nivel~00~#027
+;00007B61{~00~}#004#001
+~00~#001
+;00007B62{~00~}#004#001
+~00~#001
+;00007B63{~04~~06~~00~}#012#003
+~04~~06~~00~#003
+;00007B66{~0C~Better rethink your strategy~00~}#036#030
+~0C~Mejor repiensa tu estrategia~00~#030
+;00007B84{~92~~06~~00~}#012#003
+~92~~06~~00~#003
+;00007B87{~0C~before you try~00~}#022#016
+~0C~ si vuelves a ~00~#016
+;00007B97{~10~~07~~00~}#012#003
+~10~~07~~00~#003
+;00007B9A{~0C~this level again!~00~}#025#019
+~0C~   intentarlo!   ~00~#019
+;00007BAD{~00~}#004#001
+~00~#001
+;00007BAE{~00~}#004#001
+~00~#001
+;00007BAF{~0A~~06~~00~}#012#003
+~0A~~06~~00~#003
+;00007BB2{~0C~A little more practice~00~}#030#024
+~0C~Practicar un poco más ~00~#024
+;00007BCA{~90~~06~~00~}#012#003
+~90~~06~~00~#003
+;00007BCD{~0C~on this level is~00~}#024#018
+~0C~en este nivel es~00~#018
+;00007BDF{~0A~~07~~00~}#012#003
+~0A~~07~~00~#003
+;00007BE2{~0C~definitely recommended.~00~}#031#025
+~0C~ altamente recomendado.~00~#025
+;00007BFB{~00~}#004#001
+~00~#001
+;00007BFC{~00~}#004#001
+~00~#001
+;00007BFD{~02~~06~~00~}#012#003
+~02~~06~~00~#003
+;00007C00{~0C~You got pretty close that time.~00~}#039#033
+~0C~  Estuviste muy cerca esa vez. ~00~#033
+;00007C21{~8E~~06~~00~}#012#003
+~8E~~06~~00~#003
+;00007C24{~0C~Now try again for~00~}#025#019
+~0C~  Ahora vuelve a ~00~#019
+;00007C37{~0A~~07~~00~}#012#003
+~0A~~07~~00~#003
+;00007C3A{~0C~that few extra percent.~00~}#031#025
+~0C~ probar para sacar más.~00~#025
+;00007C53{~00~}#004#001
+~00~#001
+;00007C54{~00~}#004#001
+~00~#001
+;00007C55{~1A~~06~~00~}#012#003
+~1A~~06~~00~#003
+;00007C58{~0C~OH NO,~00~}#014#008
+~0C~OH NO,~00~#008
+;00007C60{~82~~06~~00~}#012#003
+~82~~06~~00~#003
+;00007C63{~0C~So near and yet so far (teehee)~00~}#039#033
+~0C~Tan cerca y tan lejos (jejeje) ~00~#033
+;00007C84{~10~~07~~00~}#012#003
+~10~~07~~00~#003
+;00007C87{~0C~Maybe this time.....~00~}#028#022
+~0C~ Quizá esta vez...  ~00~#022
+;00007C9D{~00~}#004#001
+~00~#001
+;00007C9E{~00~}#004#001
+~00~#001
+;00007C9F{~0A~~06~~00~}#012#003
+~0A~~06~~00~#003
+;00007CA2{~0C~Right on! You can't get~00~}#031#025
+~0C~  Muy bien! No puedes  ~00~#025
+;00007CBB{~8C~~06~~00~}#012#003
+~8C~~06~~00~#003
+;00007CBE{~0C~much closer than that.~00~}#030#024
+~0C~ acercarte mucho más. ~00~#024
+;00007CD6{~0C~~07~~00~}#012#003
+~0C~~07~~00~#003
+;00007CD9{~0C~Let's try the next....~00~}#030#024
+~0C~ Ahora probaremos...  ~00~#024
+;00007CF1{~00~}#004#001
+~00~#001
+;00007CF2{~00~}#004#001
+~00~#001
+;00007CF3{~0C~~06~~00~}#012#003
+~0C~~06~~00~#003
+;00007CF6{~0C~That level seemed to~00~}#028#022
+~0C~Ese nivel no parecía~00~#022
+;00007D0C{~8A~~06~~00~}#012#003
+~8A~~06~~00~#003
+;00007D0F{~0C~be no problem for you.~00~}#030#024
+~0C~  serte un problema.  ~00~#024
+;00007D27{~12~~07~~00~}#012#003
+~12~~07~~00~#003
+;00007D2A{~0C~Onto the next....~00~}#025#019
+~0C~ Al siguiente... ~00~#019
+;00007D3D{~00~}#004#001
+~00~#001
+;00007D3E{~00~}#004#001
+~00~#001
+;00007D3F{~02~~06~~00~}#012#003
+~02~~06~~00~#003
+;00007D42{~0C~You totally stormed that level!~00~}#039#033
+~0C~ Arrasaste ese nivel del todo! ~00~#033
+;00007D63{~96~~06~~00~}#012#003
+~96~~06~~00~#003
+;00007D66{~0C~Let's see~00~}#017#011
+~0C~Veamos si~00~#011
+;00007D71{~06~~07~~00~}#012#003
+~06~~07~~00~#003
+;00007D74{~0C~if you can storm the next...~00~}#036#030
+~0C~ puedes can arrasar otro... ~00~#030
+;00007D92{~00~}#004#001
+~00~#001
+;00007D93{~00~}#004#001
+~00~#001
+;00007D94{~0C~~06~~00~}#012#003
+~0C~~06~~00~#003
+;00007D97{~0C~Superb! You rescued~00~}#027#021
+~0C~ Soberbio! Salvaste~00~#021
+;00007DAC{~84~~06~~00~}#012#003
+~84~~06~~00~#003
+;00007DAF{~0C~every lemming on that level.~00~}#036#030
+~0C~ a cada lemming del nivel.  ~00~#030
+;00007DCD{~0C~~07~~00~}#012#003
+~0C~~07~~00~#003
+;00007DD0{~0C~Can you do it again....?~00~}#032#026
+~0C~ Puedes repetir eso...? ~00~#026
+|1509
+@0000ED7C-0000F002-FF
+;0000ED7C{~11~                    ~04~DEMO1~04~DEMO2~04~DEMO3~0A~ENDING DEMO~0B~ENDING DEMO2~0C~NEW LEVEL ...~0C~OPENNING DEMO~04~STAFF~0F~GAME PROGRAMMERS~0A~TEQ.S.INABA~09~MINI ATUMI~11~GRAPHICS DESIGNERS~0C~MARU-A-AIKAWA~0D~BOLT-ON MATSUI~07~MURAMOTO~09~M.R.SUZUKI~07~YUKIHIRO~0D~MUSIC COMPOSER~10~TOMOMI HATAKEYAMA~0F~SOUND PROGRAMMER~0D~MASAKI KOMATSU~10~TECHNICAL ADVISER~0A~LUCKY-ASADA~0D~TOOLS ENGINEER~06~GANCHAN~0D~TOTAL DIRECTOR~02~A.T~09~SUPERVISOR~0C~HIGASHIYA SAN~0D~SPECIAL THANKS~07~H.SUZUKI~03~ANDO~04~HAC.F~08~IWATA KUN~02~T.S~03~MINO~02~T.O~0D~PRINTS EDITORS~07~MIHOKO-O~0C~SALES MANAGER~0B~MASATO KAWAI~05~      ~07~PRODUCER~08~K.YOSHIDA~0A~LICENSED BY~10~PSYGNOSIS LIMITED~08~PRESENTED~01~BY~06~SUNSOFT~0A~MASTER MORI~02~T.O~0A~Joe Robbins~0C~Rita Zimmerer~0C~Karen Shadley~0B~Steve Gehrke~0C~Kazuko Harman~FF~}#821#647
+~11~                    ~04~DEMO1~04~DEMO2~04~DEMO3~0A~
+ENDING DEMO~0B~
+ENDING DEMO2~0C~
+NEW LEVEL ...~0C~
+OPENNING DEMO~04~
+GRUPO~0F~
+ PROGRAMA JUEGO ~0A~TEQ.S.INABA~09~MINI ATUMI~11~
+  DISEÑO GRÁFICO  ~0C~MARU-A-AIKAWA~0D~BOLT-ON MATSUI~07~MURAMOTO~09~M.R.SUZUKI~07~YUKIHIRO~0D~
+COMPONE MÚSICA~10~TOMOMI HATAKEYAMA~0F~
+PROGRAMA SONIDO ~0D~MASAKI KOMATSU~10~
+  ASESOR TÉCNICO ~0A~LUCKY-ASADA~0D~
+INGENIERO ÚTIL~06~GANCHAN~0D~
+DIRECTOR TOTAL~02~A.T~09~
+SUPERVISOR~0C~HIGASHIYA SAN~0D~
+MUCHAS GRACIAS~07~H.SUZUKI~03~ANDO~04~HAC.F~08~IWATA KUN~02~T.S~03~MINO~02~T.O~0D~
+EDITOR IMPRES.~07~MIHOKO-O~0C~
+GERENTE VENTA~0B~MASATO KAWAI~05~      ~07~
+PRODUCE ~08~K.YOSHIDA~0A~
+LICENCIA DE~10~PSYGNOSIS LIMITED~08~
+PRESENTA ~01~  ~06~SUNSOFT~0A~MASTER MORI~02~T.O~0A~Joe Robbins~0C~Rita Zimmerer~0C~Karen Shadley~0B~Steve Gehrke~0C~Kazuko Harman~FF~#647
+|647
+@0008C590-0008C5AF-00
+;0008C590{     Just dig!                  }#032#032
+   Solo cava!                   #032
+|32
+@0008C5C0-0008C5DF-00
+;0008C5C0{ Only floaters can survive this }#032#032
+  Solo sobrevivirán flotantes   #032
+|32
+@0008C5F0-0008C60F-00
+;0008C5F0{   Tailor-made for blockers     }#032#032
+   A medida para bloqueadores   #032
+|32
+@0008C620-0008C63F-00
+;0008C620{   Now use miners and climbers  }#032#032
+  Ahora mineros y escaladores   #032
+|32
+@0008C650-0008C66F-00
+;0008C650{   You need bashers this time   }#032#032
+ Necesitas golpeadores esta vez #032
+|32
+@0008C680-0008C69F-00
+;0008C680{ A task for blockers and bombers}#032#032
+  Para bloqueadores y bomberos  #032
+|32
+@0008C6B0-0008C6CF-00
+;0008C6B0{   Builders will help you here  }#032#032
+ Los constructores te ayudarán  #032
+|32
+@0008C6E0-0008C6FF-00
+;0008C6E0{ Not as complicated as it looks }#032#032
+ No tan complicado como parece  #032
+|32
+@0008C710-0008C72F-00
+;0008C710{   As long as you try your best }#032#032
+   Mientras te esfuerces        #032
+|32
+@0008C740-0008C75F-00
+;0008C740{   Smile if you love lemmings   }#032#032
+ Sonríe si amas a los lemmings  #032
+|32
+@0008C770-0008C78F-00
+;0008C770{  Keep your hair on Mr. Lemming }#032#032
+ Mantén tu cabello Sr. Lemming  #032
+|32
+@0008C7A0-0008C7BF-00
+;0008C7A0{     Patience                   }#032#032
+   Paciencia                    #032
+|32
+@0008C7D0-0008C7EF-00
+;0008C7D0{   We all fall down             }#032#032
+   Todos caemos                 #032
+|32
+@0008C800-0008C81F-00
+;0008C800{   Origins and Lemmings         }#032#032
+   Orígenes y Lemmings          #032
+|32
+@0008C830-0008C84F-00
+;0008C830{ Don't let your eyes deceive you}#032#032
+   Que tus ojos no te engañen   #032
+|32
+@0008C860-0008C87F-00
+;0008C860{   Don't do anything too hasty  }#032#032
+ No hagas nada demasiado rápido #032
+|32
+@0008C890-0008C8AF-00
+;0008C890{   Easy when you know how       }#032#032
+   Fácil cuando sabes como      #032
+|32
+@0008C8C0-0008C8DF-00
+;0008C8C0{   Let's block and blow         }#032#032
+  Vamos a bloquear y explotar   #032
+|32
+@0008C8F0-0008C90F-00
+;0008C8F0{  Take good care of my Lemmings }#032#032
+   Cuida bien de mis Lemmings   #032
+|32
+@0008C920-0008C93F-00
+;0008C920{   We are now at LEMCON ONE     }#032#032
+  Ahora estamos en LEMCON UNO   #032
+|32
+@0008C950-0008C96F-00
+;0008C950{   You Live and Lem             }#032#032
+   Vives y Lem                  #032
+|32
+@0008C980-0008C99F-00
+;0008C980{   A Beast of a level           }#032#032
+   Un nivel Bestial             #032
+|32
+@0008C9B0-0008C9CF-00
+;0008C9B0{ I've lost that Lemming feeling }#032#032
+  Perdí el sentimiento Lemming  #032
+|32
+@0008C9E0-0008C9FF-00
+;0008C9E0{   Konbanwa Lemming san         }#032#032
+   Konbanwa Lemming san         #032
+|32
+@0008CA10-0008CA2F-00
+;0008CA10{   Lemmings Lemmings everywhere }#032#032
+   Lemmings por todas partes    #032
+|32
+@0008CA40-0008CA5F-00
+;0008CA40{   Nightmare on Lem street      }#032#032
+   Pesadilla en la calle Lem    #032
+|32
+@0008CA70-0008CA8F-00
+;0008CA70{   Let's be careful out there   }#032#032
+   Tengamos cuidado ahí fuera   #032
+|32
+@0008CAA0-0008CABF-00
+;0008CAA0{   If only they could fly       }#032#032
+   Si solo pudieran volar       #032
+|32
+@0008CAD0-0008CAEF-00
+;0008CAD0{   worra lorra lemmings         }#032#032
+   Menudo montón de Lemmings    #032
+|32
+@0008CB00-0008CB1F-00
+;0008CB00{   Lock up your Lemmings        }#032#032
+   Encierra a tus Lemmings      #032
+|32
+@0008CB30-0008CB4F-00
+;0008CB30{   This should be a doddle!     }#032#032
+  Esto debería ser muy fácil!   #032
+|32
+@0008CB60-0008CB7F-00
+;0008CB60{   We all fall down             }#032#032
+   Todos nos caemos             #032
+|32
+@0008CB90-0008CBAF-00
+;0008CB90{   A ladder would be handy      }#032#032
+   Una escalera sería útil      #032
+|32
+@0008CBC0-0008CBDF-00
+;0008CBC0{  Here's one I prepared earlier }#032#032
+ Aquí hay una que preparé antes #032
+|32
+@0008CBF0-0008CC0F-00
+;0008CBF0{  Careless clicking costs lives }#032#032
+ Un clic imprudente vale vidas  #032
+|32
+@0008CC20-0008CC3F-00
+;0008CC20{   Lemmingology                 }#032#032
+   Lemmingología                #032
+|32
+@0008CC50-0008CC6F-00
+;0008CC50{   Been there, seen it, done it }#032#032
+   Estuve, lo vi, lo hice       #032
+|32
+@0008CC80-0008CC9F-00
+;0008CC80{   Lemming sanctuary in sight   }#032#032
+  Santuario Lemming a la vista  #032
+|32
+@0008CCB0-0008CCCF-00
+;0008CCB0{   They just keep on coming     }#032#032
+   No paran de llegar           #032
+|32
+@0008CCE0-0008CCFF-00
+;0008CCE0{   There's a lot of them about  }#032#032
+   Hay un montón de ellos       #032
+|32
+@0008CD10-0008CD2F-00
+;0008CD10{   Lemmings in the attic        }#032#032
+   Lemmings en el ático         #032
+|32
+@0008CD40-0008CD5F-00
+;0008CD40{   Bitter Lemming               }#032#032
+   Lemming amargo               #032
+|32
+@0008CD70-0008CD8F-00
+;0008CD70{   Lemming Drops                }#032#032
+   Gotas de Lemming             #032
+|32
+@0008CDA0-0008CDBF-00
+;0008CDA0{   MENACING !!                  }#032#032
+   AMENAZANTE!!                 #032
+|32
+@0008CDD0-0008CDEF-00
+;0008CDD0{   Ozone friendly Lemmings      }#032#032
+  Lemmings amistosos con Ozono  #032
+|32
+@0008CE00-0008CE1F-00
+;0008CE00{   Lovely Jubilee               }#032#032
+   Precioso Jubileo             #032
+|32
+@0008CE30-0008CE4F-00
+;0008CE30{   Diet Lemmingaid              }#032#032
+   Dieta de Ayudalemming        #032
+|32
+@0008CE60-0008CE7F-00
+;0008CE60{   It's Lemmingentry Watson     }#032#032
+   Es Elemmingtal Watson        #032
+|32
+@0008CE90-0008CEAF-00
+;0008CE90{   Postcard From Lemmingland    }#032#032
+   Postal Desde Lemmingrado     #032
+|32
+@0008CEC0-0008CEDF-00
+;0008CEC0{   One way digging to freedom   }#032#032
+  Camino cavando a la libertad  #032
+|32
+@0008CEF0-0008CF0F-00
+;0008CEF0{   Ohayo Lemming san!           }#032#032
+   Ohayo Lemming san!           #032
+|32
+@0008CF20-0008CF3F-00
+;0008CF20{   Turn around young lemmings!  }#032#032
+  Voltearos jóvenes lemmings!   #032
+|32
+@0008CF50-0008CF6F-00
+;0008CF50{   From The Boundary Line       }#032#032
+  Desde la Linea Delimitadora   #032
+|32
+@0008CF80-0008CF9F-00
+;0008CF80{   Tightrope City               }#032#032
+   Ciudad Cuerdajustada         #032
+|32
+@0008CFB0-0008CFCF-00
+;0008CFB0{     Cascade                    }#032#032
+   Cascada                      #032
+|32
+@0008CFE0-0008CFFF-00
+;0008CFE0{   I have a cunning plan        }#032#032
+   Tengo un astuto plan         #032
+|32
+@0008D010-0008D02F-00
+;0008D010{ The Island of the Wicker people}#032#032
+   La isla del Mimbre           #032
+|32
+@0008D040-0008D05F-00
+;0008D040{   Exit in the ground           }#032#032
+   Salida en el suelo           #032
+|32
+@0008D070-0008D08F-00
+;0008D070{   Rainbow Island               }#032#032
+   Isla del Arcoíris            #032
+|32
+@0008D0A0-0008D0BF-00
+;0008D0A0{   The Crankshaft               }#032#032
+   El Cigueñal                  #032
+|32
+@0008D0D0-0008D0EF-00
+;0008D0D0{ If at first you don't succeed..}#032#032
+  Si no lo logras al inicio...  #032
+|32
+@0008D100-0008D11F-00
+;0008D100{ Watch out, there's traps about }#032#032
+   Cuidado, hay trampas cerca   #032
+|32
+@0008D130-0008D14F-00
+;0008D130{ Paradise can wait (we hope!!!) }#032#032
+ Paraíso esperará (esperamos!!) #032
+|32
+@0008D160-0008D17F-00
+;0008D160{   Lend a helping hand....      }#032#032
+   Échales una mano...          #032
+|32
+@0008D190-0008D1AF-00
+;0008D190{   The Prison!                  }#032#032
+   La Prisión!                  #032
+|32
+@0008D1C0-0008D1DF-00
+;0008D1C0{   Compression Method 1         }#032#032
+   Método de Compresión 1       #032
+|32
+@0008D1F0-0008D20F-00
+;0008D1F0{   Every Lemming for himself!!! }#032#032
+   Sálvese quien pueda!!!       #032
+|32
+@0008D220-0008D23F-00
+;0008D220{   The Art Gallery              }#032#032
+   La Galería de Arte           #032
+|32
+@0008D250-0008D26F-00
+;0008D250{   Perseverance                 }#032#032
+   Perseverancia                #032
+|32
+@0008D280-0008D29F-00
+;0008D280{ Izzie Wizzie lemmings get busy }#032#032
+ Izzie Wizzie lemmings ocupados #032
+|32
+@0008D2B0-0008D2CF-00
+;0008D2B0{  The ascending pillar scenario }#032#032
+ Escenario del pilar ascendente #032
+|32
+@0008D2E0-0008D2FF-00
+;0008D2E0{   Livin' On The Edge           }#032#032
+   Viviendo En El Filo          #032
+|32
+@0008D310-0008D32F-00
+;0008D310{   Upsidedown World             }#032#032
+   El mundo al revés            #032
+|32
+@0008D340-0008D35F-00
+;0008D340{   Hunt the Nessy....           }#032#032
+   Caza al Nessy...             #032
+|32
+@0008D370-0008D38F-00
+;0008D370{   What an AWESOME level        }#032#032
+   Qué nivel tan INCREÍBLE      #032
+|32
+@0008D3A0-0008D3BF-00
+;0008D3A0{   Umbrella land                }#032#032
+   Tierra de Paraguas           #032
+|32
+@0008D3D0-0008D3EF-00
+;0008D3D0{   X marks the spot             }#032#032
+   La X marca el lugar          #032
+|32
+@0008D400-0008D41F-00
+;0008D400{   Tribute to M.C.Escher        }#032#032
+   Tributo a M.C.Escher         #032
+|32
+@0008D430-0008D44F-00
+;0008D430{   Bomboozal                    }#032#032
+   Bomboozal                    #032
+|32
+@0008D460-0008D47F-00
+;0008D460{   Walk the web rope            }#032#032
+   Camina en la red de cuerda   #032
+|32
+@0008D490-0008D4AF-00
+;0008D490{   Feel the heat!               }#032#032
+   Siente el calor!             #032
+|32
+@0008D4C0-0008D4DF-00
+;0008D4C0{   Come on over to my place     }#032#032
+   Ven a mi casa                #032
+|32
+@0008D4F0-0008D50F-00
+;0008D4F0{   King of the castle           }#032#032
+   El rey del castillo          #032
+|32
+@0008D520-0008D53F-00
+;0008D520{   Take a running jump.....     }#032#032
+   Haz un salto corriendo...    #032
+|32
+@0008D550-0008D56F-00
+;0008D550{   Follow the leader...         }#032#032
+   Sigue al líder...            #032
+|32
+@0008D580-0008D59F-00
+;0008D580{   Triple Trouble               }#032#032
+   Tribulación Triple           #032
+|32
+@0008D5B0-0008D5CF-00
+;0008D5B0{   Call in the bomb squad       }#032#032
+   Llama a los artificieros     #032
+|32
+@0008D5E0-0008D5FF-00
+;0008D5E0{   POOR WEE CREATURES!          }#032#032
+   POBRES CRIATURAS!            #032
+|32
+@0008D610-0008D62F-00
+;0008D610{   How do I dig up the way?     }#032#032
+   Como cavo el camino?         #032
+|32
+@0008D640-0008D65F-00
+;0008D640{   We all fall down             }#032#032
+   Todos nos caemos             #032
+|32
+@0008D670-0008D68F-00
+;0008D670{   Steel Works                  }#032#032
+   Siderurgia                   #032
+|32
+@0008D6A0-0008D6BF-00
+;0008D6A0{   The Boiler Room              }#032#032
+   La Sala de Calderas          #032
+|32
+@0008D6D0-0008D6EF-00
+;0008D6D0{   It's hero time!              }#032#032
+   Es la hora del héroe!        #032
+|32
+@0008D700-0008D71F-00
+;0008D700{   The Crossroads               }#032#032
+   La Encrucijada               #032
+|32
+@0008D730-0008D74F-00
+;0008D730{ Down, along, up. In that order }#032#032
+ Abajo, a lo largo, arriba. Así #032
+|32
+@0008D760-0008D77F-00
+;0008D760{   One way or another           }#032#032
+   De una forma o de otra       #032
+|32
+@0008D790-0008D7AF-00
+;0008D790{   Poles Apart                  }#032#032
+   Polos Separados              #032
+|32
+@0008D7C0-0008D7DF-00
+;0008D7C0{  Last one out is a rotten egg! }#032#032
+ El último es un huevo podrido! #032
+|32
+@0008D7F0-0008D80F-00
+;0008D7F0{   Curse of the Pharaohs        }#032#032
+  La Maldición de los Faraones  #032
+|32
+@0008D820-0008D83F-00
+;0008D820{   Pillars of Hercules          }#032#032
+   Pilares de Hércules          #032
+|32
+@0008D850-0008D86F-00
+;0008D850{   We all fall down             }#032#032
+   Todos nos caemos             #032
+|32
+@0008D880-0008D89F-00
+;0008D880{   The Other Side               }#032#032
+   El Otro Lado                 #032
+|32
+@0008D8B0-0008D8CF-00
+;0008D8B0{   The Great Lemming Caper      }#032#032
+   La Gran Aventura Lemming     #032
+|32
+@0008D8E0-0008D8FF-00
+;0008D8E0{   Pea Soup                     }#032#032
+   Sopa de Guisantes            #032
+|32
+@0008D910-0008D92F-00
+;0008D910{   The Fast Food Kitchen...     }#032#032
+ La Cocina de Comida Rápida...  #032
+|32
+@0008D940-0008D95F-00
+;0008D940{   Just a Minute...             }#032#032
+   Solo un Minuto...            #032
+|32
+@0008D970-0008D98F-00
+;0008D970{   Stepping Stones              }#032#032
+   Peldaños                     #032
+|32
+@0008D9A0-0008D9BF-00
+;0008D9A0{   And then there were four.... }#032#032
+   Y entonces había cuatro...   #032
+|32
+@0008D9D0-0008D9EF-00
+;0008D9D0{   Time to get up!              }#032#032
+   Hora de levantarse!          #032
+|32
+@0008DA00-0008DA1F-00
+;0008DA00{   No added colors or Lemmings  }#032#032
+ Sin colores o Lemmings de más  #032
+|32
+@0008DA30-0008DA4F-00
+;0008DA30{ With a twist of lemming please }#032#032
+ Con un giro de lemming gracias #032
+|32
+@0008DA60-0008DA7F-00
+;0008DA60{   A BeastII of a level         }#032#032
+   Una BestiaII de nivel        #032
+|32
+@0008DA90-0008DAAF-00
+;0008DA90{   Going up.......              }#032#032
+   Subiendo.......              #032
+|32
+@0008DAC0-0008DADF-00
+;0008DAC0{   All or Nothing               }#032#032
+   Todo o Nada                  #032
+|32
+@0008DAF0-0008DB0F-00
+;0008DAF0{   Have a nice day!             }#032#032
+   Ten un buen día!             #032
+|32
+@0008DB20-0008DB3F-00
+;0008DB20{   The Steel Mines of Kessel    }#032#032
+  Las Minas de Acero de Kessel  #032
+|32
+@0008DB50-0008DB6F-00
+;0008DB50{   Just a Minute (Part Two)     }#032#032
+   Solo un Minuto (Parte Dos)   #032
+|32
+@0008DB80-0008DB9F-00
+;0008DB80{   Mind the step.....           }#032#032
+   Cuidado con el escalón...    #032
+|32
+@0008DBB0-0008DBCF-00
+;0008DBB0{     Save Me                    }#032#032
+   Sálvame                      #032
+|32
+@0008DBE0-0008DBFF-00
+;0008DBE0{   Rendezvous at the Mountain   }#032#032
+   Encuentro en la montaña      #032
+|32
+@0008DC10-0008DC2F-00
+;0008DC10{   SUNSOFT SPECIAL 1            }#032#032
+   ESPECIAL SUNSOFT 1           #032
+|32
+@0008DC40-0008DC5F-00
+;0008DC40{   SUNSOFT SPECIAL 2            }#032#032
+   ESPECIAL SUNSOFT 2           #032
+|32
+@0008DC70-0008DC8F-00
+;0008DC70{   SUNSOFT SPECIAL 3            }#032#032
+   ESPECIAL SUNSOFT 3           #032
+|32
+@0008DCA0-0008DCBF-00
+;0008DCA0{   SUNSOFT SPECIAL 4            }#032#032
+   ESPECIAL SUNSOFT 4           #032
+|32
+@0008DCD0-0008DCEF-00
+;0008DCD0{   SUNSOFT SPECIAL 5            }#032#032
+   ESPECIAL SUNSOFT 5           #032
+|32
+@0008DD00-0008DD1F-00
+;0008DD00{   There can be only one        }#032#032
+   Solo puede quedar uno        #032
+|32
+@0008DD30-0008DD4F-00
+;0008DD30{   Still everything to play for }#032#032
+  Aún todo por lo que jugamos   #032
+|32
+@0008DD60-0008DD7F-00
+;0008DD60{   In the thick of the fray     }#032#032
+   En plena refriega            #032
+|32
+@0008DD90-0008DDAF-00
+;0008DD90{  Game on! Choose your tactics. }#032#032
+  A jugar! Elige tus tácticas.  #032
+|32
+@0008DDC0-0008DDDF-00
+;0008DDC0{   Good game! Good game!        }#032#032
+   Buen juego! Buen juego!      #032
+|32
+@0008DDF0-0008DE0F-00
+;0008DDF0{   The Rubbish Dump             }#032#032
+   El Vertedero                 #032
+|32
+@0008DE20-0008DE3F-00
+;0008DE20{   And the winner is.....       }#032#032
+   Y el ganador es...           #032
+|32
+@0008DE50-0008DE6F-00
+;0008DE50{   Any chance of a truce?       }#032#032
+ Alguna posibilidad de tregua?  #032
+|32
+@0008DE80-0008DE9F-00
+;0008DE80{   The Pipe Room...             }#032#032
+   La Sala de Tuberías...       #032
+|32
+@0008DEB0-0008DECF-00
+;0008DEB0{   The Rope Bridge              }#032#032
+   El Puente de Cuerda          #032
+|32
+@0008DEE0-0008DEFF-00
+;0008DEE0{  Just for fun or to your doom? }#032#032
+ Solo diversión o condenación?  #032
+|32
+@0008DF10-0008DF2F-00
+;0008DF10{   The Crystal Cavern Mark II   }#032#032
+   La Cueva de Cristal Mk II    #032
+|32
+@0008DF40-0008DF5F-00
+;0008DF40{   Cross-over Point             }#032#032
+   Punto de Cruce               #032
+|32
+@0008DF70-0008DF8F-00
+;0008DF70{   The Passing Place            }#032#032
+   El Lugar de Paso             #032
+|32
+@0008DFA0-0008DFBF-00
+;0008DFA0{ Take what you can, when you can}#032#032
+ Toma lo que puedas, cuando sea #032
+|32
+@0008DFD0-0008DFEF-00
+;0008DFD0{   The Hammock...               }#032#032
+   La Hamaca...                 #032
+|32
+@0008E000-0008E01F-00
+;0008E000{   Graffiti                     }#032#032
+   Grafiti                      #032
+|32
+@0008E030-0008E04F-00
+;0008E030{   Islands in the Sky           }#032#032
+   Islas en el Cielo            #032
+|32
+@0008E060-0008E07F-00
+;0008E060{   May the craftiest player win }#032#032
+ Que el jugador más hábil gane  #032
+|32
+@0008E090-0008E0AF-00
+;0008E090{   We're in this one together   }#032#032
+   Estamos en esto juntos       #032
+|32

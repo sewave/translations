@@ -1,0 +1,1241 @@
+@0001E95B-0001E967-00
+;0001E95B{Test message~00~}#016#013
+Mensaje Test~00~#013
+|13
+@0005BD50-0005BE81-00
+;0005BD50{I expect a long struggle.~00~}#029#026
+Espero una larga pelea.\ ~00~#026
+;0005BD6A{I've had enough fighting to last me a lifetime. Truce?~00~}#058#055
+He tenido suficiente pelea para una vida. ¿Tregua?\   ~00~#055
+;0005BDA1{Give me your hand, American.~00~}#032#029
+Dame tu mano, Americano.\   ~00~#029
+;0005BDBE{Thanks. Listen Volodnikov, you don't happen to have any socialist vodka to hand? I'm dying of thirst here!~00~}#110#107
+Gracias. Escucha Volodnikov, ¿no tendrás un vodka socialista a mano? ¡Me estoy muriendo de sed!\          ~00~#107
+;0005BE29{Hey, come back! Hey!! Innndddeee!!!~00~}#039#036
+¡Eh, vuelve! ¡¡Eh!! ¡¡Innndddeee!!\~00~#036
+;0005BE4D{ADD~00~}#007#004
+PON~00~#004
+;0005BE51{DEL~00~}#007#004
+BOR~00~#004
+;0005BE55{OK~00~}#006#003
+OK~00~#003
+;0005BE58{QT~00~}#006#003
+SL~00~#003
+;0005BE5B{CODE INCORRECT~00~}#018#015
+CLAVE ERRÓNEA\~00~#015
+;0005BE6A{CONTINUE~00~}#012#009
+CONTINÚA~00~#009
+;0005BE73{QUIT~00~}#008#005
+SALE~00~#005
+;0005BE78{GAME OVER~00~}#013#010
+FIN JUEGO~00~#010
+|306
+@0005CA4A-0005CA6E-00
+;0005CA4A{~06~^~00~}#012#003
+~06~^~00~#003
+;0005CA4D{START GAME~00~}#014#011
+EMPEZAR   ~00~#011
+;0005CA58{~06~~0C~~00~}#012#003
+~06~~0C~~00~#003
+;0005CA5B{OPTIONS~00~}#011#008
+AJUSTES~00~#008
+;0005CA63{~06~~0E~~00~}#012#003
+~06~~0E~~00~#003
+;0005CA66{PASSWORD~00~}#012#009
+CLAVE   ~00~#009
+|37
+@0005CABF-0005CAD8-00
+;0005CABF{~06~~0B~~00~}#012#003
+~06~~0B~~00~#003
+;0005CAC2{MUSIC ON ~00~}#013#010
+MÚSICA SÍ~00~#010
+;0005CACC{~06~~0B~~00~}#012#003
+~06~~0B~~00~#003
+;0005CACF{MUSIC OFF~00~}#013#010
+MÚSICA NO~00~#010
+|26
+@0005CB11-0005CB1C-00
+;0005CB11{~06~^~05~PASSWORD~00~}#024#012
+~06~^~05~ CLAVE  ~00~#012
+|12
+@0005CB39-0005CB41-00
+;0005CB39{~07~~02~~05~SCORE~00~}#021#009
+~07~~02~~05~MARCA~00~#009
+|9
+@0005F30B-0005F9E3-FF
+;0005F30B{Indiana Jones!\~01~\and the\~01~\Infernal Machine~23~\\\\\\\~02~\Designed, Developed\~02~\and Produced by\~02~\HotGen Studios Ltd\\\\\\\\\\\\\~02~\HotGen\\\\\\\\\Director\\\of\\\Development\\\\~03~\Fish\\\\\\\\\Programming\\\\~03~\Brian Pollock\\\\~03~\Anthony Crawley\\\\~03~\Fish\\\\\\\\\Art\\\\~03~\Adam Tween\\\\~03~\Bliz\\\\~03~\Gary Kemp\\\\\\\\\Design\\\\~03~\Will Doyle\\\\~03~\Brian Pollock\\\\\\\\\Assistant Producer\\\\~03~\Jeffery Brutus\\\\\\\\\Music\\\\~03~\Rockett Music\\\\\\\\\\\\Special Thanks to\\\\~03~\Neil Donnel\\\\~03~\Milan Prucha\\\\~03~\Stuart Ryall\\\\~03~\Louis Amore\\\\~03~\Fergus McGovern\\\\~03~\Phil Rodkoff\\\\\\\\\\~02~\THQ\\\\\\\\\Producer\\\\~03~\Nathan Rose\\\\\\\\\Associate Producer\\\\~03~\Curtis Cherrington\\\\\\\\\Assistant Producer\\\\~03~\Ryan Kull\\\\\\\\\Senior Product\\\Manager\\\\~03~\Alison Quirion\\\\\\\\\Associate Product\\\Manager\\\\~03~\Christopher H\~03~\Ziliotto\\\\\\\\\Public Relations\\\\~03~\Kathy Mendoza\\\\\\\\\Director of\\\Creative Services\\\\~03~\Howard Liebeskind\\\\\\\\\Creative Services\\\\~03~\Kirk Somdal\\\\\\\\\QA Director\\\\~03~\Jeremy Barnes\\\\\\\\\Lead Tester\\\\~03~\ Erik van Rooy\\\\\\\\\Senior Tester\\\\~03~\Christian Lee\\\\\\\\\Testers\\\\~03~\Michael Kafity\\\\~03~\Michael Korpi\\\\~03~\Shawn Wharton\\\\~03~\Jason De Heras\\\\~03~\Jason Goddard\\\\~03~\Danny Flores\\\\~03~\Jon Garibay\\\\~03~\Brad\\\\\\\\\Special Thanks to\\\\~03~\Brian Farrell\\\\~03~\Jeff Lapin\\\\~03~\Alison Locke\\\\~03~\Germaine Gioia\\\\~03~\Peter Dille\\\\~03~\Tiffany Ternan\\\\~03~\Scott Krager\\\\~03~\Michael Rubinelli\\\\\\\\\\~02~\LucasArts\\\\\\\\\Original Game\\\Design\\\\~03~\Hal Barwood\\\\\\\\\Director of\\\Production\\\\~03~\Camela Martin\\\\\\\\\Producer\\\\~03~\Dale Geist\\\\\\\\\Lead Tester\\\\~03~\Chane Hollander\\\\\\\\\Additional Testing\\\\~03~\Brent Jay Jalipa\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\~FF~}#1933#1753
+Indiana Jones!\~01~\
+y la\~01~\
+M{á]}quina Infernal~23~\\\\\\\~02~\
+Dise{ñ]}o, Desarrollo y\~02~\
+Producci{ó]}n por\~02~\HotGen Studios Ltd\\\\\\\\\\\\\~02~\HotGen\\\\\\\\\
+Director\\\de\\\Desarrollo\\\\~03~\Fish\\\\\\\\\
+Programaci{ó]}n\\\\~03~\Brian Pollock\\\\~03~\Anthony Crawley\\\\~03~\Fish\\\\\\\\\
+Arte\\\\~03~\Adam Tween\\\\~03~\Bliz\\\\~03~\Gary Kemp\\\\\\\\\
+Dise{ñ]}o\\\\~03~\Will Doyle\\\\~03~\Brian Pollock\\\\\\\\\
+Productor Ayudante\\\\~03~\Jeffery Brutus\\\\\\\\\
+M{ú]}sica\\\\~03~\Rockett Music\\\\\\\\\\\\
+Muchas Gracias A\\\\~03~\Neil Donnel\\\\~03~\Milan Prucha\\\\~03~\Stuart Ryall\\\\~03~\Louis Amore\\\\~03~\Fergus McGovern\\\\~03~\Phil Rodkoff\\\\\\\\\\~02~\THQ\\\\\\\\\
+Productor\\\\~03~\Nathan Rose\\\\\\\\\
+Productor Asociado\\\\~03~\Curtis Cherrington\\\\\\\\\
+Productor Ayudante\\\\~03~\Ryan Kull\\\\\\\\\
+Gerente Senior\\\Producto\\\\~03~\Alison Quirion\\\\\\\\\
+Ayudante Gerente\\\Producto\\\\~03~\Christopher H\~03~\Ziliotto\\\\\\\\\
+Relaciones P{ú]}b\\\\~03~\Kathy Mendoza\\\\\\\\\
+Director\\\Servicios Creativos\\\\~03~\Howard Liebeskind\\\\\\\\\
+Servicios Creativos\\\\~03~\Kirk Somdal\\\\\\\\\
+Director GC\\\\~03~\Jeremy Barnes\\\\\\\\\
+Jefe Prueba\\\\~03~\ Erik van Rooy\\\\\\\\\
+Pruebas Senior\\\\~03~\Christian Lee\\\\\\\\\
+Pruebas\\\\~03~\Michael Kafity\\\\~03~\Michael Korpi\\\\~03~\Shawn Wharton\\\\~03~\Jason De Heras\\\\~03~\Jason Goddard\\\\~03~\Danny Flores\\\\~03~\Jon Garibay\\\\~03~\Brad\\\\\\\\\
+Muchas Gracias A\\\\~03~\Brian Farrell\\\\~03~\Jeff Lapin\\\\~03~\Alison Locke\\\\~03~\Germaine Gioia\\\\~03~\Peter Dille\\\\~03~\Tiffany Ternan\\\\~03~\Scott Krager\\\\~03~\Michael Rubinelli\\\\\\\\\\~02~\LucasArts\\\\\\\\\
+Dise{ñ]}o Juego\\\Origina\\\\~03~\Hal Barwood\\\\\\\\\
+Director de\\\
+Producci{ó]}n\\\\~03~\Camela Martin\\\\\\\\\
+Producto\\\\~03~\Dale Geist\\\\\\\\\
+Jefe Prueba\\\\~03~\Chane Hollander\\\\\\\\\
+Pruebas Adicionales\\\\~03~\Brent Jay Jalipa\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\~FF~#1753
+|1753
+@0005FB7F-0005FCB8-00
+;0005FB7F{CANYONLANDS~00~}#015#012
+;177B7F -> ~17~~7F~~7B~
+TIERRACAÑÓN~00~#012
+;0005FB8B{BABYLON~00~}#011#008
+;177B8B -> ~17~~8B~~7B~
+BABILON~00~#008
+;0005FB93{RUSSIAN BORDER~00~}#018#015
+FRONTERA RUSA\~00~#015
+;0005FBA2{TIAN SHAN RIVER~00~}#019#016
+ RÍO TIAN SHAN\~00~#016
+;0005FBB2{SHAMBALA SANCTUARY~00~}#022#019
+SANTUARIO SHAMBALA~00~#019
+;0005FBC5{PALAWAN LAGOON~00~}#018#015
+ LAGO PALAWAN\~00~#015
+;0005FBD4{PALAWAN VOLCANO~00~}#019#016
+ VOLCÁN PALAWAN~00~#016
+;0005FBE4{TEOTIHUACAN~00~}#015#012
+TEOTIHUACÁN~00~#012
+;0005FBF0{OLMEC VALLEY~00~}#016#013
+VALLE OLMEC ~00~#013
+;0005FBFD{V I PUDOVKIN~00~}#016#013
+V I PUDOVKIN~00~#013
+;0005FC0A{MEROE~00~}#009#006
+MEROE~00~#006
+;0005FC10{KING SOLS MINES~00~}#019#016
+MINAS REY SOLS\~00~#016
+;0005FC20{NUB'S TOMB~00~}#014#011
+TUMBA NUB\~00~#011
+;0005FC2B{INFERNAL MACHINE~00~}#020#017
+MÁQUINA INFERNAL~00~#017
+;0005FC3C{AETHERIUM~00~}#013#010
+AETHERIUM~00~#010
+;0005FC46{RETURN TO PERU~00~}#018#015
+RETORNO A PERÚ~00~#015
+;0005FC55{LEVEL COMPLETE~00~}#018#015
+NIVEL COMPLETO~00~#015
+;0005FC64{  INDIANA JONES!~00~}#020#017
+  INDIANA JONES!~00~#017
+;0005FC75{     AND THE~00~}#016#013
+       Y LA ~00~#013
+;0005FC82{INFERNAL MACHINE~23~~00~}#024#018
+MÁQUINA INFERNAL~23~~00~#018
+;0005FC94{CAN ONLY BE PLAYED~00~}#022#019
+SOLO PUEDE JUGARSE~00~#019
+;0005FCA7{ON GAME BOY COLOR~00~}#021#018
+EN GAME BOY COLOR~00~#018
+|314
+@00097BAF-00097FE3-00
+;00097BAF{Sophia's given me a bronze cogwheel.~00~}#040#037
+Sophia me dio rueda dentada bronce.\~00~#037
+;00097BD4{I've found a clay tablet.~00~}#029#026
+Una tablilla de arcilla.\~00~#026
+;00097BEE{I've found an inflatable raft.~00~}#034#031
+Encontré una balsa hinchable.\~00~#031
+;00097C0D{I've found a ceremonial candle.~00~}#035#032
+Encontré una vela ceremonial.\ ~00~#032
+;00097C2D{I've found a steel cog.~00~}#027#024
+Hallé engranaje acero.\~00~#024
+;00097C45{I've found a ratchet.~00~}#025#022
+Encontré una carraca.~00~#022
+;00097C5B{I've found the crypt key.~00~}#029#026
+Hallé la llave de cripta.~00~#026
+;00097C75{I've found a plant seed.~00~}#028#025
+Hallé semilla de planta.~00~#025
+;00097C8E{The seed has sprouted into a magic flower.~00~}#046#043
+La semilla germinó en una flor mágica.\   ~00~#043
+;00097CB9{I've found a hammer.~00~}#024#021
+Hallé un martillo.\ ~00~#021
+;00097CCE{I've found a spade.~00~}#023#020
+Encontré una pica.\~00~#020
+;00097CE2{I've found an arming device.~00~}#032#029
+Hallé dispositivo apuntar.\ ~00~#029
+;00097CFF{I've found the cabin key.~00~}#029#026
+Hallé llave de cabina.\  ~00~#026
+;00097D19{I've found an iron crank.~00~}#029#026
+Hallé manivela de hierro.~00~#026
+;00097D33{I've broken off a propeller blade.~00~}#038#035
+He roto una pala de la hélice.\   ~00~#035
+;00097D56{I've found the skull key.~00~}#029#026
+Hallé la llave calavera.\~00~#026
+;00097D70{I've found the jailer's key.~00~}#032#029
+Hallé la llave de carcelero.~00~#029
+;00097D8D{I've found a pulley.~00~}#024#021
+Encontré una polea.\~00~#021
+;00097DA2{I've found a pyramid lens.~00~}#030#027
+Hallé lente de pirámide.\ ~00~#027
+;00097DBD{I've found a cartwheel.~00~}#027#024
+Hallé rueda de carro.\ ~00~#024
+;00097DD5{I've found a pocket watch.~00~}#030#027
+Hallé reloj de bolsillo.\ ~00~#027
+;00097DF0{I've found some gasoline.~00~}#029#026
+Hallé algo de gasolina.\ ~00~#026
+;00097E0A{I've found a jewelled eye.~00~}#030#027
+Hallé un ojo enjoyado.\   ~00~#027
+;00097E25{I've found a ruby.~00~}#022#019
+Encontré un rubí.\~00~#019
+;00097E38{I've found a sapphire.~00~}#026#023
+Encontré un zafiro.\  ~00~#023
+;00097E4F{I've found an emerald.~00~}#026#023
+Hallé una esmeralda.\ ~00~#023
+;00097E66{I've found a golden wing.~00~}#029#026
+Hallé un ala dorada.\    ~00~#026
+;00097E80{I've found the Peruvian Idol!~00~}#033#030
+¡Encontré el Ídolo Peruviano!~00~#030
+;00097E9E{I've found Urgon's Part!~00~}#028#025
+¡Hallé Pieza de Urgon!\ ~00~#025
+;00097EB7{I've found Nub's Part!~00~}#026#023
+¡Hallé Pieza de Nub!\ ~00~#023
+;00097ECE{I've found Taklit's Part!~00~}#029#026
+¡Hallé Pieza de Taklit!\ ~00~#026
+;00097EE8{I've found Azerim's Part!~00~}#029#026
+¡Hallé Pieza de Azerim!\ ~00~#026
+;00097F02{I've found a mirror.~00~}#024#021
+Encontré un espejo.\~00~#021
+;00097F17{I've found a strange artefact.~00~}#034#031
+Encontré un extraño artefacto.~00~#031
+;00097F36{I've found a Jaguar Idol.~00~}#029#026
+Hallé un Ídolo Jaguar.\  ~00~#026
+;00097F50{I've found a Fish Idol.~00~}#027#024
+Hallé un Ídolo Pez.\   ~00~#024
+;00097F68{I've found a Bird Idol.~00~}#027#024
+Hallé un Ídolo Pájaro.\~00~#024
+;00097F80{I've found a raft repair kit.~00~}#033#030
+Hallé kit reparación balsa.\ ~00~#030
+;00097F9E{I've found the water key.~00~}#029#026
+Hallé la llave de agua.\ ~00~#026
+;00097FB8{This door is locked.~00~}#024#021
+Puerta cerrada.\    ~00~#021
+;00097FCD{This switch is locked.~00~}#026#023
+Interruptor bloqueado.~00~#023
+|1077
+@000D4E06-000D5213-00
+;000D4E06{This must be the tomb. Let's go to work!~00~}#044#041
+Esto debe ser la tumba. ¡A trabajar!\   ~00~#041
+;000D4E2F{Spooky...~00~}#013#010
+Miedo...\~00~#010
+;000D4E39{What was that music?~00~}#024#021
+¿Qué era esa música?~00~#021
+;000D4E4E{If that bird could fly she'd go round in circles. Something's missing here.~00~}#079#076
+Si ese pájaro pudiera volar iría en círculos. Aquí falta algo.\            ~00~#076
+;000D4E9A{So that's what this thing does: it's a magical sparkplug!~00~}#061#058
+Así que eso es lo que hace esto: ¡es una bujía mágica!\  ~00~#058
+;000D4ED4{Now we're cooking with gas!~00~}#031#028
+¡Estamos progresando!\     ~00~#028
+;000D4EF0{Hey! Come back!~00~}#019#016
+¡Eh! ¡Vuelve!\ ~00~#016
+;000D4F00{A teleporter! The Egyptians were cleverer than I thought!~00~}#061#058
+¡Un teletransporte! ¡Los Egipcios eran muy listos!\      ~00~#058
+;000D4F3A{I'll bet that thing ain't friendly...~00~}#041#038
+Supongo que eso no es amistoso...\   ~00~#038
+;000D4F60{I wonder where on Earth this thing is going to take me now?~00~}#063#060
+Me pregunto a dónde diantres me llevará esta cosa ahora.\  ~00~#060
+;000D4F9C{So this is the Infernal Machine! Impressive stuff!~00~}#054#051
+¡Así que esto es la Máquina Infernal! ¡Increíble!\~00~#051
+;000D4FCF{Don't worry Sophia: I'll get you out of there!~00~}#050#047
+No te preocupes Sophia: ¡Te sacaré de ahí!\   ~00~#047
+;000D4FFE{Turner! Time to pay the fiddler!~00~}#036#033
+¡Turner! ¡Es Hora de pagar!\    ~00~#033
+;000D501F{An inscription reads "Verily Will I Shake The World". Looks like Turner stuck the wrong part in there.~00~}#106#103
+Una inscripción dice "En Verdad Sacudiré El Mundo". Parece que Turner puso la pieza incorrecta aquí.\ ~00~#103
+;000D5086{An inscription reads "The Unseen Will Reveal The Unimagined". Looks like Turner stuck the wrong part in there.~00~}#114#111
+Una inscripción dice "Lo Invisible Revelará Lo Inimaginado". Parece que Turner puso la pieza incorrecta aquí.\~00~#111
+;000D50F5{An inscription reads "Thus Do I Lift Man To New Heights". Looks like Turner stuck the wrong part in there.~00~}#110#107
+Una inscripción dice "Así Subo Al Hombre A Nueva Altura". Parece que Turner puso la pieza incorrecta aquí.~00~#107
+;000D5160{An inscription reads "My Power Will Change The World". Looks like Turner stuck the wrong part in there.~00~}#107#104
+Una inscripción dice "Mi Poder Cambiará El Mundo". Parece que Turner puso la pieza incorrecta aquí.\   ~00~#104
+;000D51C8{This Part seems properly connected.~00~}#039#036
+Esta Pieza parece bien conectada.\ ~00~#036
+;000D51EC{Hmm...a headless horseman. How bizarre.~00~}#043#040
+Hmm... un jinete sin cabeza. Qué raro.\~00~#040
+|1038
+@000D5214-000D5677-00
+;000D5214{Something tells me I'm a long way from home...~00~}#050#047
+Algo me dice que estoy muy lejos de casa...\  ~00~#047
+;000D5243{What have we here? Looks like a Martian egg whisk.~00~}#054#051
+¿Qué tenemos aquí? Parece un batehuevos Marciano.\~00~#051
+;000D5276{Marduk! The God of the Babylonians!~00~}#039#036
+¡Marduk! ¡Dios de los Babilonios!\ ~00~#036
+;000D529A{Marduk used that orb to charge his attacks. Maybe I can do the same...~00~}#074#071
+Marduk usaba ese orbe para cargar sus ataques. Quizá pueda hacerlo...\~00~#071
+;000D52E1{Had enough have you, you ugly, overgrown moth?~00~}#050#047
+¿Tuviste suficiente, polilla fea y crecida?\  ~00~#047
+;000D5310{The whole place is breaking up - time to get out of here!~00~}#061#058
+Todo el lugar se está rompiendo - ¡hora de salir de aquí!~00~#058
+;000D534A{Place feels like home after all I've been through.~00~}#054#051
+Me siento como en casa después de lo que pasé.\   ~00~#051
+;000D537D{There's no way in here. Maybe I should take a look around.~00~}#062#059
+No se puede entrar aquí. Tal vez debería echar un vistazo.~00~#059
+;000D53B8{At last, the Idol! Exactly what I've been looking for!~00~}#058#055
+¡Por fin, el Ídolo! ¡Justo lo que estaba buscando!\   ~00~#055
+;000D53EF{Hmm...this could get messy.~00~}#031#028
+Hmm... podría complicarse.\~00~#028
+;000D540B{1947. Once more the world stands on the brink of war as the march of communism spreads across Europe.^Far away from all this, Dr. Indiana Jones is searching for gold in the ruins of an ancient settlement...~00~}#213#207
+1947. Una vez más, el mundo está al borde de la guerra mientras la marcha del comunismo se extiende por Europa.^
+Lejos de todo esto, el Dr. Indiana Jones busca oro en las ruinas de un antiguo asentamiento...~00~#207
+;000D54DA{Indiana Jones has been hired by the CIA to find out why the Russians are excavating Babylon - using brute force if necessary.^An operative will meet him by his jeep once the job is done.~00~}#193#187
+La CIA ha contratado a Indiana Jones para averiguar por qué los rusos excavan en Babilonia, usando la fuerza si hace falta.^
+Un operativo irá con él en jeep cuando el trabajo esté hecho.\~00~#187
+;000D5595{An inscription found on an ancient tablet leads Jones to the Tian Shan Mountains in Kazakhstan.^According to legend, a Babylonian called Urgon carried one of the Machine Parts here and hid it in the lost Sanctuary of Shambala.~00~}#233#227
+Una inscripción de una tablilla antigua conduce a Jones a las montañas Tian Shan, en Kazajstán.^
+Según la leyenda, el babilonio Urgon llevó una de las Piezas de la Máquina aquí y la escondió en el perdido Santuario de Shambala.~00~#227
+|1124
+@000D5678-000D5AEA-00
+;000D5678{Indy braves the icy waters of the Tian Shan River in search of an entrance to the mythical Shambala Sanctuary.~00~}#114#111
+Indy desafía las aguas heladas del río Tian Shan en busca de una entrada al mítico Santuario de Shambala.\    ~00~#111
+;000D56E7{Indy arrives at the Shambala Sanctuary to find it deserted. The monks, whoever they were, are long gone.^Perhaps, somewhere in the ruins, Indy will uncover the location of the first Machine Part.~00~}#202#196
+Indy llega al Santuario de Shambala y lo encuentra desierto. Los monjes hace tiempo que se han ido.^
+Quizás, por las ruinas, Indy descubra la ubicación de la primera Parte de la Máquina.\         ~00~#196
+;000D57AB{A conversation with a Holy Woman in Kazakhstan leads Indy to the South Pacific island of Palawan.^Supposedly this is where the Babylonian priest Taklit carried the second Machine Part.~00~}#191#185
+Tras hablar con una Mujer Santa en Kazajistán Indy va a la isla del Pacífico Sur Palawan.^
+Supuestamente el sacerdote Babilónico Taklit trajo aquí la segunda Parte de la Máquina.\      ~00~#185
+;000D5864{Indy has uncovered the entrance to a temple in the heart of the volcano.^Now he must find Taklit and search for the mysterious Relic that he took from Babylon...~00~}#168#162
+Indy ha descubierto la entrada a un templo en el corazón del volcán.^
+Ahora debe encontrar a Taklit y buscar la misteriosa Reliquia que se llevó de Babilonia...\ ~00~#162
+;000D5906{Sophia's spy work in the Russian's Palawan Base leads Indy to Mexico, and the Temple of the Sun.^Perhaps here he can pick up the trail of Azerim, third Priest of Marduk.~00~}#176#170
+El trabajo como espía de Sophia en la Base Rusa de Palawan lleva a Indy a México, al Templo del Sol.^
+Quizá pueda seguir el rastro de Azerim, tercer Sacerdote de Marduk.\~00~#170
+;000D59B0{Jones has discovered an uncharted valley hidden deep in the jungle, far from the prying eyes of civilisation.^Perhaps this is the final resting place of Azerim the Babylonian?~00~}#182#176
+Jones ha hallado un valle inexplorado escondido en la selva, lejos de miradas indiscretas de la civilización.^
+¿Quizás sea el lugar de descanso final de Azerim el Babilónico?\ ~00~#176
+;000D5A60{Volodnikov and his goons have captured Indiana Jones and locked him in the bowels of their ship.^Is this the end of the road for our hero?~00~}#145#139
+Volodnikov y sus matones capturaron a Indiana Jones y lo han encerrado en las entrañas de su barco.^
+¿Es el final del camino para el héroe?~00~#139
+|1139
+@000D5AEB-000D5BFA-00
+;000D5AEB{Indy races to Meroe, Egypt, burial place of the Nubian Kings.^If he can penetrate the tomb of King Nub before Volodnikov, all four Parts to the Infernal Machine will be his!~00~}#180#174
+Indy corre a Meroe, Egipto, donde enterraron de los Reyes Nubios.^
+Si llega a la tumba del Rey Nub antes que Volodnikov, las cuatro Partes de la Máquina Infernal serán suyas.~00~#174
+;000D5B99{With Volodnikov close behind, Indy races into the depths of the earth aboard a rickety mine cart.~00~}#101#098
+Con Volodnikov cerca, Indy entra a las profundidades terrestres en un destartalado carro minero.\~00~#098
+|272
+@000D9888-000D9C91-00
+;000D9888{Jones has discovered the lost tomb of King Nub, last of Marduk's four High Priests.^Here is hidden the fourth and final part to the Infernal Machine!~00~}#156#150
+Jones halló la tumba perdida del Rey Nub, último de los cuatro Sumos Sacerdotes de Marduk.^
+Esconde la cuarta y última parte de la Máquina Infernal.\ ~00~#150
+;000D991E{A magical teleporter transports Indiana Jones back to the Tower of Babel: home of the Babylonian God Marduk's Infernal Machine!~00~}#131#128
+Un teletransporte mágico lleva a Indiana Jones a la Torre de Babel: ¡hogar de la Máquina Infernal del dios Babilónico Marduk!\ ~00~#128
+;000D999E{Betrayed by the CIA and with the fate of the world resting on his shoulders, Jones dives into the Aetherium - the dimension ruled by the Dark God Marduk!~00~}#157#154
+Traicionado por la CIA y con el destino del mundo sobre sus hombros, Jones se sumerge en la Aetherium, la dimensión gobernada por el dios oscuro Marduk.\~00~#154
+;000D9A38{His adventure over, Indy returns to the jungles of Peru, and a certain lost tomb...~00~}#087#084
+Su aventura terminó, Indy vuelve a las junglas de Perú, y cierta tumba perdida...\ ~00~#084
+;000D9A8C{Well, if it isn't my old friend Sophia Hapgood!~00~}#051#048
+¡Pero si es mi vieja amiga, Sophia Hapgood!\   ~00~#048
+;000D9ABC{Hello, Dr. Jones. Been a while.~00~}#035#032
+Hola, Dr. Jones. Cuanto tiempo.~00~#032
+;000D9ADC{What brings you here?~00~}#025#022
+¿Qué te trae aquí?\  ~00~#022
+;000D9AF2{The Russians are taking over, Indy. The entire world is in peril.~00~}#069#066
+Los Rusos están ganando, Indy. Todo el mundo está en peligro.\   ~00~#066
+;000D9B34{We're archaeologists not politicians, Sophia. What's this got to do with us?~00~}#080#077
+Somos arqueólogos, no políticos, Sophia. ¿Qué tiene que ver con nosotros?\  ~00~#077
+;000D9B81{The Russians are digging up the ruins of Babylon. We need you to find out why.~00~}#082#079
+Los Rusos están excavando las ruinas de Babilonia. Debes averiguar por qué.\  ~00~#079
+;000D9BD0{What do I care?~00~}#019#016
+¿Me importa?\  ~00~#016
+;000D9BE0{Have a look at this. We found it at the Russian Dig Site.~00~}#061#058
+Mira esto. Lo encontramos en el Sitio de Excavación Ruso.~00~#058
+;000D9C1A{This is part of a steam engine. It can't be more than a century old.~00~}#072#069
+Esto es parte de un motor de vapor. Puede que tenga más de un siglo.~00~#069
+;000D9C5F{We've had it dated. It's more than 2600 years old.~00~}#054#051
+Lo hemos datado. Tiene más de 2600 años.\         ~00~#051
+|1034
+@000D9C92-000DA097-00
+;000D9C92{Now I'm interested. How'd you find it?~00~}#042#039
+Ahora me interesa. ¿Cómo lo hallaste?\~00~#039
+;000D9CB9{I'm with the CIA now Indy...we have spies!~00~}#046#043
+Estoy con la CIA Indy... ¡tenemos espías!\~00~#043
+;000D9CE4{The CIA? So what else did you find?~00~}#039#036
+¿La CIA? ¿Qué más has descubierto?\~00~#036
+;000D9D08{The dig has been organised by Dr. Volodnikov, a Russian Physicist. He believes that the ruins are home to an ancient weapon of some sort.~00~}#141#138
+La excavación ha sido organizada por el Dr. Volodnikov, un Físico Ruso. Cree que las ruinas albergan algún tipo de arma antigua.\        ~00~#138
+;000D9D92{Hmm...I guess if the Babylonians had the technology to make this cog...~00~}#075#072
+Hmm... Si los Babilonios tenían la tecnología para este engranaje...\  ~00~#072
+;000D9DDA{Worth checking out isn't it?~00~}#032#029
+Merece la pena verlo, ¿no?\ ~00~#029
+;000D9DF7{Sure is. When do we leave?~00~}#030#027
+Claro. ¿Cuando nos vamos?\~00~#027
+;000D9E12{Hmm, I think I can decipher this now...~00~}#043#040
+Hmm, creo que ya puedo descrifrarlo...\~00~#040
+;000D9E3A{Welcome Seeker. Know now that this tower houses a Great Engine, built on instructions from Marduk.^When the tower fell the four trusted disciples of Marduk fled, taking the four Relics with them. Only when the four Relics are as one shall the Great Engine breathe.^Should you choose to take the path of knowledge, go east. Urgon fled to the Heavenly Mountains, where Shambala holds a mighty secret.~00~}#408#399
+Bienvenido Buscador. Esta torre alberga un Gran Motor, creado según las instrucciones de Marduk.^
+Tras caer la torre, los cuatro discípulos de confianza de Marduk huyeron, llevándose las cuatro Reliquias. Solo al juntar las cuatro Reliquias, la Gran Máquina respirará.^
+Si tomas el camino del conocimiento, ve al este. Urgon huyó a las Montañas Celestiales, donde Shambala guarda un poderoso secreto.~00~#399
+;000D9FC9{I'll bet Volodnikov thinks he can dig up this "Great Engine" and use it for the Soviet war effort. Well, I've got a head start on him now. Shambala eh?~00~}#155#152
+Apuesto a que Volodnikov cree que puede excavar este "Gran Motor" y usarlo para la guerra Soviética. Bueno, parece que le llevo ventaja. Shambala, ¿eh?~00~#152
+;000DA061{Hello Dr. Jones: Simon Turner, CIA.~00~}#039#036
+Hola Dr. Jones: Simon Turner, CIA.\~00~#036
+;000DA085{It's a pleasure...~00~}#022#019
+Es un placer...\  ~00~#019
+|1030
+@000DA098-000DA45A-00
+;000DA098{Likewise. So, what have you unearthed?~00~}#042#039
+Igualmente. Pues, ¿qué desenterraste?\~00~#039
+;000DA0BF{The Tower of Babel once housed a "Great Engine". When the Babylonians smashed the tower, four priests of Marduk escaped with the Parts that trigger it.~00~}#155#152
+La Torre de Babel tenía un "Gran Motor". Cuando los Babilonios destrozaron la torre, cuatro sacerdotes de Marduk huyeron con las Piezas que la activan.~00~#152
+;000DA157{And the Russians want them back?~00~}#036#033
+¿Y los Rusos las quieren?\      ~00~#033
+;000DA178{They will do when they discover that they can't turn the machine on.~00~}#072#069
+Lo harán cuando descubran que no pueden encender la máquina.\       ~00~#069
+;000DA1BD{And who or what is Marduk?~00~}#030#027
+¿Y quién o qué es Marduk?\~00~#027
+;000DA1D8{A Babylonian God. They used to make human sacrifices to him. I wonder what infernal use this machine of his was made for...~00~}#127#124
+Un Dios Babilónico. Solían hacerle sacrificios humanos. Me pregunto para qué uso infernal se hizo esta máquina suya...\    ~00~#124
+;000DA254{So, where are the Parts?~00~}#028#025
+¿Dónde están las Piezas?~00~#025
+;000DA26D{Not sure. A priest called Urgon headed for the Heavenly Mountains to a place called Shambala.~00~}#097#094
+No estoy seguro. Un sacerdote llamado Urgon fue a las Montañas Celestiales a Shambala.\      ~00~#094
+;000DA2CB{That's not much help.~00~}#025#022
+Eso no ayuda mucho.\ ~00~#022
+;000DA2E1{Might be enough. The Tian Shan range translates as "Heavenly Mountains".~00~}#076#073
+Podría bastar. La sierra Tian Shan se traduce a "Montañas Celestiales".\~00~#073
+;000DA32A{Tian Shan? Last time I looked that was Soviet territory.~00~}#060#057
+¿Tian Shan? La última vez era territorio Soviético.\    ~00~#057
+;000DA363{Maybe I should drop in and say "hello"?~00~}#043#040
+¿Quizá podría caer y decir "hola"?\    ~00~#040
+;000DA38B{Okay buddy, it's your funeral.~00~}#034#031
+Vale amigo, es tu funeral.\   ~00~#031
+;000DA3AA{At last...the ice...is gone! Who...are...you?~00~}#049#046
+Al fin... el hielo... ¡no está! ¿Quién eres?\~00~#046
+;000DA3D8{My name is Indiana Jones. I came here in search of a relic, brought to this sanctuary many years ago by a Babylonian called Urgon.~00~}#134#131
+Me llamo Indiana Jones. Vine en busca de una reliquia, traída a este santuario hace muchos años por un Babilonio llamado Urgon.\  ~00~#131
+|963
+@000E3421-000E3866-00
+;000E3421{I remember...Urgon.~00~}#023#020
+Recuerdo... Urgon.\~00~#020
+;000E3435{You remember? Lady, this was two and a half thousand years ago!~00~}#067#064
+¿Recuerdas? Señora, ¡esto fue hace dos mil quinientos años!\   ~00~#064
+;000E3475{The ice has held me for so long...only the destruction of the demon could break it.~00~}#087#084
+El hielo me ha retenido mucho... solo la destrucción del demonio podría romperlo.\ ~00~#084
+;000E34C9{Well, I guess I shattered that curse. Where did the creature come from anyway?~00~}#082#079
+Bueno, supongo que rompí esa maldición. ¿Pero de dónde vino esa criatura?\    ~00~#079
+;000E3518{It was summoned to defend the relic by Taklit, one of Urgon's companions.~00~}#077#074
+Fue invocada para defender la reliquia por Taklit, un compañero de Urgon.~00~#074
+;000E3562{Another Babylonian?~00~}#023#020
+¿Otro Babilonio?\  ~00~#020
+;000E3576{Yes. He also carried a relic of great evil.~00~}#047#044
+Sí. También llevaba una reliquia malvada.\ ~00~#044
+;000E35A2{Where was he headed?~00~}#024#021
+¿A dónde se dirigía?~00~#021
+;000E35B7{The island of Palawan, far into the Eastern Ocean. I know nothing more.~00~}#075#072
+A la isla de Palawan, lejos en el Océano Oriental. No sé nada más.\    ~00~#072
+;000E35FF{Wait! I need...~00~}#019#016
+¡Espera! Yo...\~00~#016
+;000E360F{Damn. Better get out of here before Volodnikov shows up.~00~}#060#057
+Maldición. Mejor irnos antes de que aparezca Volodnikov.~00~#057
+;000E3648{Innnddeee!!!~00~}#016#013
+¡Innnddeee!\~00~#013
+;000E3655{Welcome to my little hothouse!~00~}#034#031
+¡Bienvenido a mi invernadero!\~00~#031
+;000E3674{Sophia! What are you doing here?~00~}#036#033
+¡Sophia! ¿Qué haces tú aquí?\   ~00~#033
+;000E3695{I followed the Russians. They've set up a base here while Volodnikov finds a way to get past the Lava Guardian and steal Azerim's Part.~00~}#139#136
+Seguí a los rusos. Crearon una base mientras Volodnikov encuentra una forma de pasar el Guardián de la Lava y robar la Pieza de Azerim.~00~#136
+;000E371D{Sophia, we have to get moving.~00~}#034#031
+Sophia, tenemos que irnos.\   ~00~#031
+;000E373C{Thank you Indy, you saved my life.~00~}#038#035
+Gracias Indy, me salvaste la vida.~00~#035
+;000E375F{I'll let you through. Get moving!~00~}#037#034
+Te dejaré pasar. ¡Muévete!\      ~00~#034
+;000E3781{Good luck Indy!~00~}#019#016
+¡Suerte Indy!\ ~00~#016
+;000E3791{About time you showed up Jones. I was getting worried.~00~}#058#055
+Ya era hora de verte Jones. Me estaba preocupando.\   ~00~#055
+;000E37C8{Yeah? Me too...~00~}#019#016
+¿Sí? Y yo...\  ~00~#016
+;000E37D8{Listen, the Russians are leaving Palawan. Apparently Volodnikov got word about ancient machinery hidden in the Temple of the Sun: Teotihuacan.~00~}#146#143
+Escucha, los Rusos se van de Palawan. Al parecer, Volodnikov se enteró de una antigua maquinaria oculta en el Templo del Sol: Teotihuacán.\   ~00~#143
+|1094
+@000E3867-000E3BD9-00
+;000E3867{Mexico?~00~}#011#008
+México.~00~#008
+;000E386F{Yes. Get this: apparently some Babylonian priest called Azerim built it.~00~}#076#073
+Sí. Escucha: parece que un sacerdote Babilonio llamado Azerim lo creó.\ ~00~#073
+;000E38B8{Babylonian? That could be our third guy!~00~}#044#041
+¿Babilonio? ¡Podría ser el tercer tipo!\~00~#041
+;000E38E1{If we leave now we might just get the jump on the Russians. Let's go.~00~}#073#070
+Si nos vamos ahora podríamos adelantarnos a los Rusos. Vámonos.\     ~00~#070
+;000E3927{Oh-oh! I gotta get out of here, fast!~00~}#041#038
+¡Oh-oh! Debo irme de aquí, ¡rápido!\ ~00~#038
+;000E394D{Wait! I can hear them talking!~00~}#034#031
+¡Espera! ¡Les escucho hablar!\~00~#031
+;000E396C{How long till we reach Meroe, Lieutenant? Two days? So soon! In a week all the Parts will be mine. With the meddling Dr.Jones as our prisoner nothing will stop the USSR from harnessing the power of Marduk's Machine!~00~}#219#216
+¿Cuánto falta para llegar a Meroe, teniente? ¿Dos días? ¡Tan pronto! En una semana todas las Partes serán mías. Con el entrometido Dr. Jones como prisionero, nada impedirá que la URSS aproveche la Máquina de Marduk.~00~#216
+;000E3A44{Meroe eh? We'll see who gets there first!~00~}#045#042
+¿Meroe eh? ¡Veremos quién llega antes!\  ~00~#042
+;000E3A6E{Foiled you again, Volodnikov!~00~}#033#030
+¡Otra frustración,Volodnikov!~00~#030
+;000E3A8C{I'm back in Babylon! Looks like someone has been here since I left.~00~}#071#068
+¡Volví a Babilonia! Parece que alguien estuvo aquí desde entonces.\~00~#068
+;000E3AD0{Indy? Is that you?~00~}#022#019
+¿Indy? ¿Eres tú?\ ~00~#019
+;000E3AE3{Sophia! You still digging up this place?~00~}#044#041
+¡Sophia! ¿Aún estás escavando aquí?\    ~00~#041
+;000E3B0C{We need those Parts Indy. We're onto something big here.~00~}#060#057
+Necesitamos esas Piezas Indy. Vamos hacia algo grande.\ ~00~#057
+;000E3B45{We?~00~}#007#004
+¿?\~00~#004
+;000E3B49{Simon Turner?~00~}#017#014
+¿Simon T.?\  ~00~#014
+;000E3B57{Give us the Parts Dr.Jones. In the name of America.~00~}#055#052
+Denos las Piezas Dr.Jones. En nombre de América.\  ~00~#052
+;000E3B8B{...~00~}#007#004
+...~00~#004
+;000E3B8F{What's the matter Indy, don't trust your fellow Americans?~00~}#062#059
+Qué sucede Indy, ¿no confías en tus compañeros Americanos?~00~#059
+;000E3BCA{Dr. Volodnikov!~00~}#019#016
+¡Dr.Volodnikov!~00~#016
+|883
+@000E47B2-000E4BB3-00
+;000E47B2{Looks like I'm expected...~00~}#030#027
+Parece que me esperaban...~00~#027
+;000E47CD{What in the name of biology is that?~00~}#040#037
+¿Qué es? En nombre de la biología.\ ~00~#037
+;000E47F2{A bell ringer statue. Early 13TH Century, by the looks of things.~00~}#069#066
+Una estatua de campanero. De principios del siglo XIII, parece.\ ~00~#066
+;000E4834{This thing has more sprockets than the inside of Dad's old clock.~00~}#069#066
+Esto tiene más piñones que el interior del viejo reloj de Papá.\ ~00~#066
+;000E4876{There's some writing here: "Ring for the Master".~00~}#053#050
+Hay algo escrito aquí: "Anillo para el Maestro".\~00~#050
+;000E48A8{It's an incense burner. The residue smells like flowers.~00~}#060#057
+Es un quemador de incienso. El residuo huele a flores.\ ~00~#057
+;000E48E1{A ceremonial flower vase. Interesting...~00~}#044#041
+Un florero ceremonial. Interesante...\  ~00~#041
+;000E490A{It's in, but I can't sprout a seed without water.~00~}#053#050
+Está dentro, pero no brotará la semilla sin agua.~00~#050
+;000E493C{I need to fill that Cistern with water.~00~}#043#040
+Necesito llenar esa Cisterna con agua.\~00~#040
+;000E4964{Let me guess: the mother of those little ice critters?~00~}#058#055
+Déjame adivinar: ¿la madre de esos bichos de hielo?\  ~00~#055
+;000E499B{I can see something inside! This could be Urgon's tomb, but it's locked tight.~00~}#082#079
+¡Veo algo dentro! Esta podría ser la tumba de Urgon, pero está bien cerrada.\ ~00~#079
+;000E49EA{Urgon's skeleton and a strange device. I wonder what it does?~00~}#065#062
+El esqueleto de Urgon y un extraño dispositivo. Qué hará.\   ~00~#062
+;000E4A28{That'll teach her to mess with Dr. Jones!~00~}#045#042
+¡Así no se meterá más con el Dr. Jones!\ ~00~#042
+;000E4A52{Paradise on earth! I could get used to this place...~00~}#056#053
+¡El paraíso en la tierra! Podría acostumbrarme...\  ~00~#053
+;000E4A87{The lock is rusted shut. I need something to pry it open.~00~}#061#058
+La cerradura está oxidada. Necesito algo para abrirla.\  ~00~#058
+;000E4AC1{That prop blade would make a great crowbar. I'd need a hammer to release it though.~00~}#087#084
+Esa hoja de hélice sería una gran palanca. Necesitaría un martillo para liberarla.\~00~#084
+;000E4B15{A torpedo! And all she's missing is an arming device...~00~}#059#056
+¡Un torpedo! Solo le falta un dispositivo de armado...\~00~#056
+;000E4B4D{I could use this if I had something to crank it up.~00~}#055#052
+Podría usarlo si tuviera algo para encenderlo.\    ~00~#052
+;000E4B81{Kind of warm in here...the volcano must be active!~00~}#054#051
+Aquí hace calor... ¡el volcán debe estar activo!\ ~00~#051
+|1026
+@000E4BB4-000E4F63-00
+;000E4BB4{A dead King and a key. But how do I reach them?~00~}#051#048
+Un rey muerto y una llave. Pero, ¿cómo llego?\ ~00~#048
+;000E4BE4{That guy looks a bit hot under the collar!~00~}#046#043
+¡Ese tipo parece un poco acalorado!\      ~00~#043
+;000E4C0F{There's some writing here: "The Unseen Is Unstoppable".~00~}#059#056
+Hay algo escrito aquí: "Lo que No Se Ve es Imparable".\~00~#056
+;000E4C47{Invisibility! But boy, am I hurting: better not waste time.~00~}#063#060
+¡Invisibilidad! Pero me duele: mejor no perder el tiempo.\ ~00~#060
+;000E4C83{Seems a bit dark for the Temple of the Sun.~00~}#047#044
+Está un poco oscuro para el Templo del Sol.~00~#044
+;000E4CAF{Ouch! My eyes!~00~}#018#015
+¡Ay, mis ojos!~00~#015
+;000E4CBE{Let there be light!~00~}#023#020
+¡Que haya luz!\    ~00~#020
+;000E4CD2{Soviets! This could get messy...~00~}#036#033
+¡Soviéticos! Se complicará...\  ~00~#033
+;000E4CF3{Time to get out of here!~00~}#028#025
+¡Hora de salir de aquí!\~00~#025
+;000E4D0C{It looks like some kind of shrine, with spaces for three idols.~00~}#067#064
+Parece una especie de santuario, con espacios para tres ídolos.~00~#064
+;000E4D4C{Where am I? Uncharted territory, that's for sure.~00~}#053#050
+¿Dónde estoy? En territorio inexplorado, seguro.\~00~#050
+;000E4D7E{I'm not strong enough to push this through.~00~}#047#044
+No tengo fuerza suficiente para empujarlo.\~00~#044
+;000E4DAA{Looks like I'm stuck like a rat in a trap.~00~}#046#043
+Estoy atrapado cual rata en una trampa.\  ~00~#043
+;000E4DD5{Ow! Okay guys, you've got me!~00~}#033#030
+¡Ay! Vale, ¡me pillasteis!\  ~00~#030
+;000E4DF3{I think I hear someone coming!~00~}#034#031
+¡Creo oír venir a alguien!\   ~00~#031
+;000E4E12{Uh-Oh! I'd better get out of here!~00~}#038#035
+¡Uh-Oh! ¡Mejor me voy de aquí!\   ~00~#035
+;000E4E35{Volodnikov thinks Nub was buried here. But where?~00~}#053#050
+Volodnikov cree que enterraron a Nub por aquí.\  ~00~#050
+;000E4E67{I'm sure I can see something up on that ledge!~00~}#050#047
+¡Estoy seguro de que veo algo en esa cornisa!\~00~#047
+;000E4E96{This wall looks damaged~3B~ maybe I can get in here?~00~}#056#050
+Esta pared parece dañada~3B~ ¿tal vez pueda entrar?\~00~#050
+;000E4EC8{That light beam looks very hot...it's as if the EYES can see me!~00~}#068#065
+Ese haz de luz parece caliente... ¡como si los OJOS me vieran!\ ~00~#065
+;000E4F09{Hmm...I think I could probably repair this.~00~}#047#044
+Hmm... Es posible que pueda reparar esto.\ ~00~#044
+;000E4F35{Haven't done anything like this for a while...~00~}#050#047
+No hacía nada como esto desde hace tiempo...\ ~00~#047
+|944
+@000E56EE-000E5AF9-00
+;000E56EE{The Parts will be safer with me Indy. Your friends are gangsters~00~}#068#065
+Las Piezas estarán mejor conmigo, Indy. Tus amigos son mafiosos.~00~#065
+;000E572F{Give me the Parts, Jones! He's a commie!~00~}#044#041
+¡Dame las Piezas, Jones! ¡Es comunista!\~00~#041
+;000E5758{The Parts...or I shoot you dead~00~}#035#032
+Las Piezas... O te disparo.\   ~00~#032
+;000E5778{Guess I don't have a choice then~00~}#036#033
+Supongo que no tengo opción.\   ~00~#033
+;000E5799{Clever boy...~00~}#017#014
+Muy listo...\~00~#014
+;000E57A7{Sorry Indy. And...thanks!~00~}#029#026
+Perdona Indy. ¡Y gracias!~00~#026
+;000E57C1{Perhaps it is for the best Indy. Your friends have the machinery, but they will perish for their treachery.~00~}#111#108
+Tal vez sea lo mejor, Indy. Tus amigos tienen la maquinaria, pero perecerán por su traición.\              ~00~#108
+;000E582D{What do you mean?~00~}#021#018
+¿Y eso por qué?\ ~00~#018
+;000E583F{I have studied the Machine. The God Marduk told his clerics how to build it so that he could cross into our world. The Babylonians stopped them. Now your American friends intend to open that gate...~00~}#202#199
+He estudiado la Máquina. El Dios Marduk dijo a sus clérigos cómo construirla para poder cruzar a nuestro mundo. Los Babilonios los pararon. Ahora tus amigos americanos pretenden abrir esa puerta...\~00~#199
+;000E5906{Using the Parts?~00~}#020#017
+¿Con las Piezas?~00~#017
+;000E5917{Precisely. Think of them as the keys to doomsday.~00~}#053#050
+Precisamente. Como las llaves del juicio final.\ ~00~#050
+;000E5949{Then I have to stop them.~00~}#029#026
+Tengo que detenerlos.\   ~00~#026
+;000E5963{Ha! Good luck...~00~}#020#017
+Buena suerte...\~00~#017
+;000E5974{...you'll need it~00~}#021#018
+...te hará falta.~00~#018
+;000E5986{At last, the New World beckons! We must use the Parts to activate the gate. Then we must send an ambassador through to the Other Side.~00~}#138#135
+¡Por fin, el Nuevo Mundo nos llama! Debemos usar las Piezas para activar la puerta. Luego debemos enviar un embajador al Otro Lado.\  ~00~#135
+;000E5A0D{Don't be a fool! You can't go in there! I sense an evil force waiting to destroy us.~00~}#088#085
+¡No seas tonto! ¡No puedes ir! Siento una fuerza maligna esperando para destruirnos.~00~#085
+;000E5A62{Sophia, that 'evil force' is the only thing that can stop the USSR. And YOU are going to be our ambassador!~00~}#111#108
+Sophia, esa 'fuerza maligna' es lo único que puede detener a la URSS. ¡Y tú vas a ser nuestra embajadora!\ ~00~#108
+;000E5ACE{Aaaahh!!~00~}#012#009
+¡Aaaahh!~00~#009
+;000E5AD7{Don't worry Sophia, I'll save you!~00~}#038#035
+¡Tranquila Sophia, yo te salvaré!\~00~#035
+|1036
+@000E5AFA-000E5E73-00
+;000E5AFA{Who dares disturb my slumber!?~00~}#034#031
+¿Quién osa perturbar mi sueño?~00~#031
+;000E5B19{Uh..I guess that's me.~00~}#026#023
+Eh... supongo que yo.\~00~#023
+;000E5B30{My Lord Marduk desires your attention, Intruder.~00~}#052#049
+Mi Señor Marduk desea tu atención, Intruso.\    ~00~#049
+;000E5B61{Free the lady and I'll do anything he wants.~00~}#048#045
+Libera a la dama y haré lo que él quiera.\  ~00~#045
+;000E5B8E{My master desires a sacrifice.~00~}#034#031
+Mi maestro pide un sacrificio.~00~#031
+;000E5BAD{Jones? H...help me!~00~}#023#020
+¿Jones? A...¡Ayuda!~00~#020
+;000E5BC1{Sophia!!!~00~}#013#010
+¡Sophia!\~00~#010
+;000E5BCB{Marduk is satisfied. The Gate shall open as soon as he is prepared.~00~}#071#068
+Marduk está satisfecho. La Puerta se abrirá cuando esté preparada.\~00~#068
+;000E5C0F{What...what have I done?~00~}#028#025
+Qué... ¿Qué he hecho?\  ~00~#025
+;000E5C28{Aaahhh!!!~00~}#013#010
+¡Aaahhh!\~00~#010
+;000E5C32{Indy...saving my life is getting to be quite a speciality for you.~00~}#070#067
+Indy... salvarme la vida se está volviendo una especialidad tuya.\~00~#067
+;000E5C75{You betrayed me Sophia. Why?~00~}#032#029
+Me traicionaste. ¿Por qué?\ ~00~#029
+;000E5C92{I never lied. I'm a professional, Jones. I was just doing my job.~00~}#069#066
+Nunca mentí. Soy una profesional, Jones. Solo hacía mi trabajo.\ ~00~#066
+;000E5CD4{Maybe you should go back to archaeology.~00~}#044#041
+Quizá deberías volver a la arqueología.\~00~#041
+;000E5CFD{Look...I don't need to take advise on morality from a grave robber like you.~00~}#080#077
+Mira... no necesito lecciones de moralidad de un ladrón de tumbas como tú.\ ~00~#077
+;000E5D4A{Hey, didn't this grave robber just save the World?~00~}#054#051
+Eh, ¿este ladrón no acaba de salvar el Mundo?\    ~00~#051
+;000E5D7D{...I'm sorry Indy, I didn't mean to...look, thanks.~00~}#055#052
+...Lo siento Indy, no quería... mira, gracias.\    ~00~#052
+;000E5DB1{Did you find God, Dr. Jones?~00~}#032#029
+¿Encontró a Dios, Dr. Jones?~00~#029
+;000E5DCE{Volodnikov!~00~}#015#012
+Volodnikov.~00~#012
+;000E5DDA{Marduk is banished, Russian. The Gate is closed.~00~}#052#049
+Marduk desapareció, Ruso. La Puerta se cerró.\  ~00~#049
+;000E5E0B{Then neither of us wins, American. Perhaps that is for the best, eh?~00~}#072#069
+Entonces ninguno gana, Americano. ¿Quizá sea lo mejor, eh?\         ~00~#069
+;000E5E50{And you expect to win the Cold War?~00~}#039#036
+¿Y esperas ganar la Guerra fría?\  ~00~#036
+|890
+@000EA44C-000EA879-00
+;000EA44C{Something's missing here.~00~}#029#026
+Aquí falta alguna cosa.\ ~00~#026
+;000EA466{That seemed to work!~00~}#024#021
+¡Parece funcionar!\ ~00~#021
+;000EA47B{Uh-Oh!~00~}#010#007
+¡Uuhh!~00~#007
+;000EA482{I might be able to whip that.~00~}#033#030
+Podría latiguear eso.\       ~00~#030
+;000EA4A0{With a little sweat I could move this.~00~}#042#039
+Con un poco de sudor podría moverlo.\ ~00~#039
+;000EA4C7{This wall looks ready to crumble...~00~}#039#036
+Este muro parece casi derrumbado...~00~#036
+;000EA4EB{Why am I getting this creepy feeling...~00~}#043#040
+Por qué tengo una sensación rara...\   ~00~#040
+;000EA513{I need something to hold this down.~00~}#039#036
+Necesito algo para aguantar esto.\ ~00~#036
+;000EA537{That didn't work.~00~}#021#018
+Eso no funcionó.\~00~#018
+;000EA549{I feel pretty healthy at the moment.~00~}#040#037
+Me siento bastante bien ahora mismo.~00~#037
+;000EA56E{That ought to hold it!~00~}#026#023
+¡Eso debería aguantar!~00~#023
+;000EA585{This has served its purpose now.~00~}#036#033
+Esto ya ha servido su propósito.~00~#033
+;000EA5A6{This doesn't work...yet.~00~}#028#025
+Esto no funciona... aún.~00~#025
+;000EA5BF{I wonder what that did?~00~}#027#024
+Me pregunto que hizo.\ ~00~#024
+;000EA5D7{The ground looks soft here.~00~}#031#028
+Este suelo parece blando.\ ~00~#028
+;000EA5F3{Level complete~00~}#018#015
+Nivel completo~00~#015
+;000EA602{Exit~00~}#008#005
+Sale~00~#005
+;000EA607{Score~00~}#009#006
+Marca~00~#006
+;000EA60D{Password~00~}#012#009
+Clave\  ~00~#009
+;000EA616{Target~00~}#010#007
+Blanco~00~#007
+;000EA61D{Secret level unlocked~00~}#025#022
+Nivel secreto abierto~00~#022
+;000EA633{Game Over. You have failed at Indiana Jones and the Infernal Machine.~00~}#073#070
+Fin Juego. Has fallado en Indiana Jones y la máquina Infernal.\      ~00~#070
+;000EA679{Congratulations! You have completed Indiana Jones and the Infernal Machine!~00~}#079#076
+¡Felicidades! ¡Has completado Indiana Jones y la Máquina Infernal!\        ~00~#076
+;000EA6C5{Credits~00~}#011#008
+Crédito~00~#008
+;000EA6CD{Restart~00~}#011#008
+Empieza~00~#008
+;000EA6D5{Quit~00~}#008#005
+Sale~00~#005
+;000EA6DA{Time to go to work!~00~}#023#020
+¡Hora de trabajar!\~00~#020
+;000EA6EE{Sounds like company. Better climb back up and see who it is.~00~}#064#061
+Suena a compañía. Mejor volver a escalar y ver quien es.\   ~00~#061
+;000EA72B{Mud and bricks. What do the Russians want from here?~00~}#056#053
+Barro y ladrillos. ¿Qué quieren los Rusos de aquí?\ ~00~#053
+;000EA760{Let me guess: Dr. Gennadi Volodnikov?~00~}#041#038
+Lo adivinaré: ¿Dr.Gennadi Volodnikov?~00~#038
+;000EA786{Something tells me the Reds haven't dug this far yet.~00~}#057#054
+Algo me dice que los Rojos no han escavado tanto aún.~00~#054
+;000EA7BC{What do you know~3B~ Sophia's little wheel has a purpose after all!~00~}#071#065
+Pues vaya~3B~ ¡resulta que la pequeña rueda de Sophia tenía su uso!~00~#065
+;000EA7FD{I can make out some ancient words on the tablet...I need the other fragments!~00~}#081#078
+Puedo descifrar algunas palabras de la tablilla... ¡Necesito más fragmentos!\~00~#078
+;000EA84B{The Russian Border! And it looks well guarded!~00~}#050#047
+¡La Frontera Rusa! ¡Y parece bien vigilada!\  ~00~#047
+|1070
+@000EA87A-000EA972-00
+;000EA87A{Better pray this thing hasn't got any holes!~00~}#048#045
+¡Mejor rezaré para que no tenga agujeros!\  ~00~#045
+;000EA8A7{Watch out for rocks!~00~}#024#021
+¡Alerta a las rocas!~00~#021
+;000EA8BC{Weird: that candle is burning despite the wind.~00~}#051#048
+Raro: esa vela se quema a pesar del viento.\   ~00~#048
+;000EA8EC{Another candle!~00~}#019#016
+¡Otra vela!\   ~00~#016
+;000EA8FC{I guess this must be the place to put candles!~00~}#050#047
+¡Supongo que debe ser el lugar de las velas!\ ~00~#047
+;000EA92B{The gates to Shambala!~00~}#026#023
+¡Puertas a Shambala!\ ~00~#023
+;000EA942{Better get moving. The Sovs can't be far behind!~00~}#052#049
+Mejor irse. ¡Los Sovs no pueden estar muy lejos!~00~#049
+|249
+;3B4A46 -> 3B464A
+@000ECA46-000ECC5F-00
+;000ECA46{Steel Cog~00~}#013#010
+Steel Cog~00~#010
+;000ECA50{Ratchet~00~}#011#008
+Ratchet~00~#008
+;000ECA58{Crypt Key~00~}#013#010
+Crypt Key~00~#010
+;000ECA62{Magic Seed~00~}#014#011
+Magic Seed~00~#011
+;000ECA6D{Magic Flower~00~}#016#013
+Magic Flower~00~#013
+;000ECA7A{Hammer~00~}#010#007
+Hammer~00~#007
+;000ECA81{Spade~00~}#009#006
+Spade~00~#006
+;000ECA87{Arming Device~00~}#017#014
+Arming Device~00~#014
+;000ECA95{Cabin Key~00~}#013#010
+Cabin Key~00~#010
+;000ECA9F{Iron Crank~00~}#014#011
+Iron Crank~00~#011
+;000ECAAA{Propeller Blade~00~}#019#016
+Propeller Blade~00~#016
+;000ECABA{Skull Key~00~}#013#010
+Skull Key~00~#010
+;000ECAC4{Jailer's Key~00~}#016#013
+Jailer's Key~00~#013
+;000ECAD1{Pulley~00~}#010#007
+Pulley~00~#007
+;000ECAD8{Pyramid Lens~00~}#016#013
+Pyramid Lens~00~#013
+;000ECAE5{Cartwheel~00~}#013#010
+Cartwheel~00~#010
+;000ECAEF{Pocket Watch~00~}#016#013
+Pocket Watch~00~#013
+;000ECAFC{Gasoline~00~}#012#009
+Gasoline~00~#009
+;000ECB05{Jewelled Eye~00~}#016#013
+Jewelled Eye~00~#013
+;000ECB12{Ruby~00~}#008#005
+Ruby~00~#005
+;000ECB17{Emerald~00~}#011#008
+Emerald~00~#008
+;000ECB1F{Sapphire~00~}#012#009
+Sapphire~00~#009
+;000ECB28{Golden Wing~00~}#015#012
+Golden Wing~00~#012
+;000ECB34{Peruvian Idol~00~}#017#014
+Peruvian Idol~00~#014
+;000ECB42{Urgon's Part~00~}#016#013
+Urgon's Part~00~#013
+;000ECB4F{Nub's Part~00~}#014#011
+Nub's Part~00~#011
+;000ECB5A{Taklit's Part~00~}#017#014
+Taklit's Part~00~#014
+;000ECB68{Azerim's Part~00~}#017#014
+Azerim's Part~00~#014
+;000ECB76{Mirror~00~}#010#007
+Espejo~00~#007
+;000ECB7D{Tool From Beyond~00~}#020#017
+Tool From Beyond~00~#017
+;000ECB8E{Jaguar Idol~00~}#015#012
+Jaguar Idol~00~#012
+;000ECB9A{Fish Idol~00~}#013#010
+Fish Idol~00~#010
+;000ECBA4{Bird Idol~00~}#013#010
+Bird Idol~00~#010
+;000ECBAE{Raft Repair Kit~00~}#019#016
+Raft Repair Kit~00~#016
+;000ECBBE{Water Key~00~}#013#010
+Water Key~00~#010
+;000ECBC8{I've found my whip!~00~}#023#020
+¡Hallé mi látigo!\ ~00~#020
+;000ECBDC{I've found my pistol!~00~}#025#022
+¡Encontré mi pistola!~00~#022
+;000ECBF2{I've found a health pack.~00~}#029#026
+Encontré un botiquín.\   ~00~#026
+;000ECC0C{I've found a poison kit.~00~}#028#025
+Encontré kit de venenos.~00~#025
+;000ECC25{I've found some medicinal herbs.~00~}#036#033
+Encontré hierbas medicinales.\  ~00~#033
+;000ECC46{I've found some treasure!~00~}#029#026
+¡Encontré un tesoro!\    ~00~#026
+|538
+;3B5053 -> 3B5350
+@000ED053-000ED240-00
+;000ED053{Indiana Jones and the Infernal Machine~00~}#042#039
+Indiana Jones y la Máquina Infernal\  ~00~#039
+;000ED07A{Press Start~00~}#015#012
+Pulsa Start~00~#012
+;000ED086{Start Game~00~}#014#011
+Empezar\  ~00~#011
+;000ED091{Options~00~}#011#008
+Ajustes~00~#008
+;000ED099{Enter Code~00~}#014#011
+Pon Clave\~00~#011
+;000ED0A4{Music Off~00~}#013#010
+Música No~00~#010
+;000ED0AE{Music On~00~}#012#009
+Música S~00~#009
+;000ED0B7{Return~00~}#010#007
+Volver~00~#007
+;000ED0BE{Add~00~}#007#004
+Pon~00~#004
+;000ED0C2{Delete~00~}#010#007
+Borra\~00~#007
+;000ED0C9{English~00~}#011#008
+Inglés\~00~#008
+;000ED0D1{German~00~}#010#007
+Alemán~00~#007
+;000ED0D8{French~00~}#010#007
+Franc\~00~#007
+;000ED0DF{Spanish~00~}#011#008
+Español~00~#008
+;000ED0E7{Italian~00~}#011#008
+Italian~00~#008
+;000ED0EF{Canyonlands~00~}#015#012
+Canyonlands~00~#012
+;000ED0FB{Babylon~00~}#011#008
+Babylon~00~#008
+;000ED103{Russian Border~00~}#018#015
+Russian Border~00~#015
+;000ED112{Tian Shan River~00~}#019#016
+Tian Shan River~00~#016
+;000ED122{Shambala Sanctuary~00~}#022#019
+Shambala Sanctuary~00~#019
+;000ED135{Palawan Lagoon~00~}#018#015
+Palawan Lagoon~00~#015
+;000ED144{Palawan Volcano~00~}#019#016
+Palawan Volcano~00~#016
+;000ED154{Teotihuacan~00~}#015#012
+Teotihuacan~00~#012
+;000ED160{Olmec Valley~00~}#016#013
+Olmec Valley~00~#013
+;000ED16D{V.I. Pudovkin~00~}#017#014
+V.I. Pudovkin~00~#014
+;000ED17B{Meroe~00~}#009#006
+Meroe~00~#006
+;000ED181{King Sol's Mines~00~}#020#017
+King Sol's Mines~00~#017
+;000ED192{Nub's Tomb~00~}#014#011
+Nub's Tomb~00~#011
+;000ED19D{Infernal Machine~00~}#020#017
+Infernal Machine~00~#017
+;000ED1AE{Aetherium~00~}#013#010
+Aetherium~00~#010
+;000ED1B8{Return to Peru~00~}#018#015
+Return to Peru~00~#015
+;000ED1C7{Whip~00~}#008#005
+Whip~00~#005
+;000ED1CC{Pistol~00~}#010#007
+Pistol~00~#007
+;000ED1D3{Health Pack~00~}#015#012
+Health Pack~00~#012
+;000ED1DF{Poison Kit~00~}#014#011
+Poison Kit~00~#011
+;000ED1EA{Medicinal Herbs~00~}#019#016
+Medicinal Herbs~00~#016
+;000ED1FA{Treasure~00~}#012#009
+Treasure~00~#009
+;000ED203{Bronze Cogwheel~00~}#019#016
+Bronze Cogwheel~00~#016
+;000ED213{Clay Tablet~00~}#015#012
+Clay Tablet~00~#012
+;000ED21F{Inflatable Raft~00~}#019#016
+Inflatable Raft~00~#016
+;000ED22F{Ceremonial Candle~00~}#021#018
+Ceremonial Candle~00~#018
+|494
+@00053220-00053315-00
+;00053220{~3B~~53~~50~~3B~~7A~~50~~3B~~86~~50~~3B~~91~~50~~3B~~99~~50~~3B~~A4~~50~~3B~~AE~~50~~3B~~B7~~50~~3B~~BE~~50~~3B~~C2~~50~~3B~~C9~~50~~3B~~D1~~50~~3B~~D8~~50~~3B~~DF~~50~~3B~~E7~~50~~3B~~EF~~50~~3B~~FB~~50~~3B~~03~~51~~3B~~12~~51~~3B~~22~~51~~3B~~35~~51~~3B~~44~~51~~3B~~54~~51~~3B~~60~~51~~3B~~6D~~51~~3B~~7B~~51~~3B~~81~~51~~3B~~92~~51~~3B~~9D~~51~~3B~~AE~~51~~3B~~B8~~51~~3B~~C7~~51~~3B~~CC~~51~~3B~~D3~~51~~3B~~DF~~51~~3B~~EA~~51~~3B~~FA~~51~~3B~~03~~52~~3B~~13~~52~~3B~~1F~~52~~3B~~2F~~52~~3B~~46~~4A~~3B~~50~~4A~~3B~~58~~4A~~3B~~62~~4A~~3B~~6D~~4A~~3B~~7A~~4A~~3B~~81~~4A~~3B~~87~~4A~~3B~~95~~4A~~3B~~9F~~4A~~3B~~AA~~4A~~3B~~BA~~4A~~3B~~C4~~4A~~3B~~D1~~4A~~3B~~D8~~4A~~3B~~E5~~4A~~3B~~EF~~4A~~3B~~FC~~4A~~3B~~05~~4B~~3B~~12~~4B~~3B~~17~~4B~~3B~~1F~~4B~~3B~~28~~4B~~3B~~34~~4B~~3B~~42~~4B~~3B~~4F~~4B~~3B~~5A~~4B~~3B~~68~~4B~~3B~~76~~4B~~3B~~7D~~4B~~3B~~8E~~4B~~3B~~9A~~4B~~3B~~A4~~4B~~3B~~AE~~4B~~3B~~BE~~4B~~3B~~C8~~4B~~3B~~DC~~4B~~3B~~F2~~4B~~3B~~0C~~4C~~3B~~25~~4C~~3B~~46~~4C~}#984#246
+;~3B~~50~~53~ -> 000ED053
+;~3B~~53~~50~
+~3B~~53~~50~
+;~3B~~7A~~50~
+~3B~~7A~~50~
+;~3B~~86~~50~
+~3B~~86~~50~
+;~3B~~91~~50~
+~3B~~91~~50~
+;~3B~~99~~50~
+~3B~~99~~50~
+;~3B~~A4~~50~
+~3B~~A4~~50~
+;~3B~~AE~~50~
+~3B~~AE~~50~
+;~3B~~B7~~50~
+~3B~~B7~~50~
+;~3B~~BE~~50~
+~3B~~BE~~50~
+;~3B~~C2~~50~
+~3B~~C2~~50~
+;~3B~~C9~~50~
+~3B~~C9~~50~
+;~3B~~D1~~50~
+~3B~~D1~~50~
+;~3B~~D8~~50~
+~3B~~D8~~50~
+;~3B~~DF~~50~
+~3B~~DF~~50~
+;~3B~~E7~~50~
+~3B~~E7~~50~
+;~3B~~EF~~50~ Places / Items
+~3F~~00~~4E~
+;~3B~~FB~~50~
+~3F~~20~~4E~
+;~3B~~03~~51~
+~3F~~40~~4E~
+;~3B~~12~~51~
+~3F~~60~~4E~
+;~3B~~22~~51~
+~3F~~80~~4E~
+;~3B~~35~~51~
+~3F~~A0~~4E~
+;~3B~~44~~51~
+~3F~~C0~~4E~
+;~3B~~54~~51~
+~3F~~E0~~4E~
+;~3B~~60~~51~
+~3F~~00~~4F~
+;~3B~~6D~~51~
+~3F~~20~~4F~
+;~3B~~7B~~51~
+~3F~~40~~4F~
+;~3B~~81~~51~
+~3F~~60~~4F~
+;~3B~~92~~51~
+~3F~~80~~4F~
+;~3B~~9D~~51~
+~3F~~A0~~4F~
+;~3B~~AE~~51~
+~3F~~C0~~4F~
+;~3B~~B8~~51~
+~3F~~E0~~4F~
+;~3B~~C7~~51~
+~3F~~00~~50~
+;~3B~~CC~~51~
+~3F~~20~~50~
+;~3B~~D3~~51~
+~3F~~40~~50~
+;~3B~~DF~~51~
+~3F~~60~~50~
+;~3B~~EA~~51~
+~3F~~80~~50~
+;~3B~~FA~~51~
+~3F~~A0~~50~
+;~3B~~03~~52~
+~3F~~C0~~50~
+;~3B~~13~~52~
+~3F~~E0~~50~
+;~3B~~1F~~52~
+~3F~~00~~51~
+;~3B~~2F~~52~
+~3F~~20~~51~
+;~3B~~46~~4A~ -> 000ECA46
+~3F~~A0~~49~
+;~3B~~50~~4A~
+~3F~~C0~~49~
+;~3B~~58~~4A~
+~3F~~E0~~49~
+;~3B~~62~~4A~
+~3F~~00~~4A~
+;~3B~~6D~~4A~
+~3F~~20~~4A~
+;~3B~~7A~~4A~
+~3F~~40~~4A~
+;~3B~~81~~4A~
+~3F~~60~~4A~
+;~3B~~87~~4A~
+~3F~~80~~4A~
+;~3B~~95~~4A~
+~3F~~A0~~4A~
+;~3B~~9F~~4A~
+~3F~~C0~~4A~
+;~3B~~AA~~4A~
+~3F~~E0~~4A~
+;~3B~~BA~~4A~
+~3F~~00~~4B~
+;~3B~~C4~~4A~
+~3F~~20~~4B~
+;~3B~~D1~~4A~
+~3F~~40~~4B~
+;~3B~~D8~~4A~
+~3F~~60~~4B~
+;~3B~~E5~~4A~
+~3F~~80~~4B~
+;~3B~~EF~~4A~
+~3F~~A0~~4B~
+;~3B~~FC~~4A~
+~3F~~C0~~4B~
+;~3B~~05~~4B~
+~3F~~E0~~4B~
+;~3B~~12~~4B~
+~3F~~00~~4C~
+;~3B~~17~~4B~
+~3F~~20~~4C~
+;~3B~~1F~~4B~
+~3F~~40~~4C~
+;~3B~~28~~4B~
+~3F~~60~~4C~
+;~3B~~34~~4B~
+~3F~~80~~4C~
+;~3B~~42~~4B~
+~3F~~A0~~4C~
+;~3B~~4F~~4B~
+~3F~~C0~~4C~
+;~3B~~5A~~4B~
+~3F~~E0~~4C~
+;~3B~~68~~4B~
+~3F~~00~~4D~
+;~3B~~76~~4B~
+~3F~~20~~4D~
+;~3B~~7D~~4B~
+~3F~~40~~4D~
+;~3B~~8E~~4B~
+~3F~~60~~4D~
+;~3B~~9A~~4B~
+~3F~~80~~4D~
+;~3B~~A4~~4B~
+~3F~~A0~~4D~
+;~3B~~AE~~4B~
+~3F~~C0~~4D~
+;~3B~~BE~~4B~
+~3F~~E0~~4D~
+;Items
+;~3B~~C8~~4B~
+~3B~~C8~~4B~
+;~3B~~DC~~4B~
+~3B~~DC~~4B~
+;~3B~~F2~~4B~
+~3B~~F2~~4B~
+;~3B~~0C~~4C~
+~3B~~0C~~4C~
+;~3B~~25~~4C~
+~3B~~25~~4C~
+;~3B~~46~~4C~
+~3B~~46~~4C~
+#246
+|246
+@000FC9A0-000FCD9F-00
+;000FC9A0{}#1024#1024
+;3F49A0 -> ~3F~~A0~~49~
+;000ECA46{Steel Cog~00~}#013#010
+Engranaje de Acero\\\\\\\\\\\\\\
+;000ECA50{Ratchet~00~}#011#008
+Carraca\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ECA58{Crypt Key~00~}#013#010
+Llave de la Cripta\\\\\\\\\\\\\\
+;000ECA62{Magic Seed~00~}#014#011
+Semilla Mágica\\\\\\\\\\\\\\\\\\
+;000ECA6D{Magic Flower~00~}#016#013
+Flor Mágica\\\\\\\\\\\\\\\\\\\\\
+;000ECA7A{Hammer~00~}#010#007
+Martillo\\\\\\\\\\\\\\\\\\\\\\\\
+;000ECA81{Spade~00~}#009#006
+Pica\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ECA87{Arming Device~00~}#017#014
+Dispositivo de Apuntar\\\\\\\\\\
+;000ECA95{Cabin Key~00~}#013#010
+Llave de Cabina\\\\\\\\\\\\\\\\\
+;000ECA9F{Iron Crank~00~}#014#011
+Manivela de Hierro\\\\\\\\\\\\\\
+;000ECAAA{Propeller Blade~00~}#019#016
+Pala de Hélice\\\\\\\\\\\\\\\\\\
+;000ECABA{Skull Key~00~}#013#010
+Llave de Calavera\\\\\\\\\\\\\\\
+;000ECAC4{Jailer's Key~00~}#016#013
+Llave del Carcelero\\\\\\\\\\\\\
+;000ECAD1{Pulley~00~}#010#007
+Polea\\\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ECAD8{Pyramid Lens~00~}#016#013
+Lente de Pirámide\\\\\\\\\\\\\\\
+;000ECAE5{Cartwheel~00~}#013#010
+Rueda de Carro\\\\\\\\\\\\\\\\\\
+;000ECAEF{Pocket Watch~00~}#016#013
+Reloj de Bolsillo\\\\\\\\\\\\\\\
+;000ECAFC{Gasoline~00~}#012#009
+Gasolina\\\\\\\\\\\\\\\\\\\\\\\\
+;000ECB05{Jewelled Eye~00~}#016#013
+Ojo Enjoyado\\\\\\\\\\\\\\\\\\\\
+;000ECB12{Ruby~00~}#008#005
+Rubí\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ECB17{Emerald~00~}#011#008
+Esmeralda\\\\\\\\\\\\\\\\\\\\\\\
+;000ECB1F{Sapphire~00~}#012#009
+Zafiro\\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ECB28{Golden Wing~00~}#015#012
+Ala Dorada\\\\\\\\\\\\\\\\\\\\\\
+;000ECB34{Peruvian Idol~00~}#017#014
+Ídolo Peruviano\\\\\\\\\\\\\\\\\
+;000ECB42{Urgon's Part~00~}#016#013
+Pieza de Urgon\\\\\\\\\\\\\\\\\\
+;000ECB4F{Nub's Part~00~}#014#011
+Pieza de Nub\\\\\\\\\\\\\\\\\\\\
+;000ECB5A{Taklit's Part~00~}#017#014
+Pieza de Taklit\\\\\\\\\\\\\\\\\
+;000ECB68{Azerim's Part~00~}#017#014
+Pieza de Azerim\\\\\\\\\\\\\\\\\
+;000ECB76{Mirror~00~}#010#007
+Espejo\\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ECB7D{Tool From Beyond~00~}#020#017
+Herramienta del Más Allá\\\\\\\\
+;000ECB8E{Jaguar Idol~00~}#015#012
+Ídolo de Jaguar\\\\\\\\\\\\\\\\\
+;000ECB9A{Fish Idol~00~}#013#010
+Ídolo de Pez\\\\\\\\\\\\\\\\\\\\
+#1024
+|1024
+@000FCDA0-000FD19F-00
+;000FCDA0{}#1024#1024
+;3F4DA0 -> 3FA04D
+;000ECBA4{Bird Idol~00~}#013#010
+Ídolo de Pájaro\\\\\\\\\\\\\\\\\
+;000ECBAE{Raft Repair Kit~00~}#019#016
+Kit de Reparación de Balsas\\\\\
+;000ECBBE{Water Key~00~}#013#010
+Llave de Agua\\\\\\\\\\\\\\\\\\\
+;000ED0EF{Canyonlands~00~}#015#012
+Tierra de Cañones\\\\\\\\\\\\\\\
+;000ED0FB{Babylon~00~}#011#008
+Babilonia\\\\\\\\\\\\\\\\\\\\\\\
+;000ED103{Russian Border~00~}#018#015
+Frontera Rusa\\\\\\\\\\\\\\\\\\\
+;000ED112{Tian Shan River~00~}#019#016
+Río Tian Shan\\\\\\\\\\\\\\\\\\\
+;000ED122{Shambala Sanctuary~00~}#022#019
+Santuario de Shambala\\\\\\\\\\\
+;000ED135{Palawan Lagoon~00~}#018#015
+Lago Palawan\\\\\\\\\\\\\\\\\\\\
+;000ED144{Palawan Volcano~00~}#019#016
+Volcán Palawan\\\\\\\\\\\\\\\\\\
+;000ED154{Teotihuacan~00~}#015#012
+Teotihuacán\\\\\\\\\\\\\\\\\\\\\
+;000ED160{Olmec Valley~00~}#016#013
+Valle Olmec\\\\\\\\\\\\\\\\\\\\\
+;000ED16D{V.I. Pudovkin~00~}#017#014
+V.I. Pudovkin\\\\\\\\\\\\\\\\\\\
+;000ED17B{Meroe~00~}#009#006
+Meroe\\\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ED181{King Sol's Mines~00~}#020#017
+Minas del Rey Sol\\\\\\\\\\\\\\\
+;000ED192{Nub's Tomb~00~}#014#011
+Tumba de Nub\\\\\\\\\\\\\\\\\\\\
+;000ED19D{Infernal Machine~00~}#020#017
+Máquina Infernal\\\\\\\\\\\\\\\\
+;000ED1AE{Aetherium~00~}#013#010
+Aetherium\\\\\\\\\\\\\\\\\\\\\\\
+;000ED1B8{Return to Peru~00~}#018#015
+Volver a Perú\\\\\\\\\\\\\\\\\\\
+;000ED1C7{Whip~00~}#008#005
+Látigo\\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ED1CC{Pistol~00~}#010#007
+Pistola\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ED1D3{Health Pack~00~}#015#012
+Botiquín\\\\\\\\\\\\\\\\\\\\\\\\
+;000ED1DF{Poison Kit~00~}#014#011
+Kit de Venenos\\\\\\\\\\\\\\\\\\
+;000ED1EA{Medicinal Herbs~00~}#019#016
+Hierbas Medicinales\\\\\\\\\\\\\
+;000ED1FA{Treasure~00~}#012#009
+Tesoro\\\\\\\\\\\\\\\\\\\\\\\\\\
+;000ED203{Bronze Cogwheel~00~}#019#016
+Rueda Dentada de Bronce\\\\\\\\\
+;000ED213{Clay Tablet~00~}#015#012
+Tablilla de Arcilla\\\\\\\\\\\\\
+;000ED21F{Inflatable Raft~00~}#019#016
+Balsa Hinchable\\\\\\\\\\\\\\\\\
+;000ED22F{Ceremonial Candle~00~}#021#018
+Vela Ceremonial\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+#1024
+|1024
+

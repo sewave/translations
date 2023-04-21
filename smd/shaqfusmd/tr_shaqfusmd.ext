@@ -1,0 +1,1312 @@
+@00000E10-00000E79-00
+;00000E10{~06~DEVELOPED FOR USE ONLY WITH~00~}#035#029
+~06~DESARROLLADO PARA USARSE EN~00~#029
+;00000E2D{~12~&~00~}#009#003
+~12~Y~00~#003
+;00000E30{~0F~SYSTEMS.~00~}#016#010
+~0F~SISTEMA.~00~#010
+;00000E3A{~0C~NTSC MEGA DRIVE~00~}#023#017
+~0C~MEGA DRIVE NTSC~00~#017
+;00000E4B{=NTSC GENESIS~00~}#017#014
+=GENESISN TSC~00~#014
+;00000E59{~04~PAL AND FRENCH SECAM MEGA DRIVE~00~}#039#033
+~04~MEGA DRIVE PAL Y SECAM FRANCESA~00~#033
+|106
+@000019D4-00001A63-00
+;000019D4{Test Model GENESIS/MEGADRIVE by  Delphine Software InternationalModel:JapanesesUSA/Europe,Frequence:60 hz50 hz   This GENESIS version is: ~23~~FC~DSI~00~}#153#144
+Test Model GENESIS/MEGADRIVE de  Delphine Software International
+Model:JapanesasUSA/Europa,Frecuenci:60 hz
+50 hz   
+Este GENESIS es versión: ~23~~FC~DSI~00~#144
+|144
+@0000242B-00002436-00
+;0000242B{BONUS STAGE~00~}#015#012
+ETAPA BONOS~00~#012
+|12
+@00002440-0000244B-00
+;00002440{BONUS FIGHT~00~}#015#012
+PELEA BONOS~00~#012
+|12
+@00002CF5-00002CFA-00
+;00002CF5{PAUSE~00~}#009#006
+PAUSA~00~#006
+|6
+@00003208-0000321D-00
+;00003208{Illegal size of font.~00~}#025#022
+Tamaño fuente ilegal.~00~#022
+|22
+@000034B6-000034EB-FF
+;000034B6{~04~~0B~~03~~07~~00~DUEL~00~~04~~0A~~04~~07~~00~STORY~00~~04~~05~~05~~07~~00~TOURNAMENT~00~~04~~08~~06~~07~~00~OPTIONS~00~P~F9~~00~~FF~}#132#054
+~04~~0B~~03~~07~~00~
+  VS~00~~04~~0A~~04~~07~~00~
+TRAMA~00~~04~~05~~05~~07~~00~
+    TORNEO~00~~04~~08~~06~~07~~00~
+AJUSTES~00~P~F9~~00~~FF~#054
+|54
+@00003A08-00003A0E-00
+;00003A08{ABCXYZ~00~}#010#007
+ABCXYZ~00~#007
+|7
+@00003A32-00003AB7-00
+;00003A32{   NOT~00~}#010#007
+    NO~00~#007
+;00003A39{CONNECTED~00~}#013#010
+CONECTADO~00~#010
+;00003A43{  Move/Taunt~00~}#016#013
+ Mueve/Burla~00~#013
+;00003A50{ Fast Attack~00~}#016#013
+Ataque Raudo~00~#013
+;00003A5D{Power Attack~00~}#016#013
+ Ataque Duro~00~#013
+;00003A6A{       Taunt~00~}#016#013
+       Burla~00~#013
+;00003A77{  Fast Punch~00~}#016#013
+  Puño Raudo~00~#013
+;00003A84{ Power Punch~00~}#016#013
+   Puño Duro~00~#013
+;00003A91{  Move Boost~00~}#016#013
+Impulsa Mov.~00~#013
+;00003A9E{   Fast Kick~00~}#016#013
+Patada Rauda~00~#013
+;00003AAB{  Power Kick~00~}#016#013
+ Patada Dura~00~#013
+|134
+@00003FC8-00004093-00
+;00003FC8{~04~~12~~09~FAST~00~}#020#008
+~04~~12~~09~RÁP.~00~#008
+;00003FD0{~04~~12~~09~NORMAL~00~}#022#010
+~04~~12~~09~NORMAL~00~#010
+;00003FDA{~07~~02~~04~~0A~~01~~06~~01~OPTIONS~07~~01~~04~~03~~0E~CONTROLLER 1~04~~12~~0E~CONTROLLER 2~00~}#092#047
+~07~~02~~04~~0A~~01~~06~~01~AJUSTES~07~~01~~04~~03~~0E~CONTROLADOR1~04~~12~~0E~CONTROLADOR2~00~#047
+;00004009{~04~~0C~~06~LEVEL~00~}#021#009
+~04~~0C~~06~NIVEL~00~#009
+;00004012{~04~~07~~07~MUSIC TEST~00~}#026#014
+~04~~07~~07~   MÚSICAS~00~#014
+;00004020{~04~=~08~TIME~00~}#017#008
+~04~=~08~TMPO~00~#008
+;00004028{~04~~0C~~0A~AUDIO~00~}#021#009
+~04~~0C~~0A~AUDIO~00~#009
+;00004031{~04~~0C~~0C~SOUND~00~}#021#009
+~04~~0C~~0C~EFCTO~00~#009
+;0000403A{~04~~07~~09~GAME SPEED~00~}#026#014
+~04~~07~~09~ VELOCIDAD~00~#014
+;00004048{~04~~07~=VIEW-DEBUG~00~}#023#014
+~04~~07~= VER-DEBUG~00~#014
+;00004056{~04~~0F~~13~EXIT~00~}#020#008
+~04~~0F~~13~SALE~00~#008
+;0000405E{~04~~12~~06~EASY~00~}#020#008
+~04~~12~~06~LEVE~00~#008
+;00004066{~04~~12~~06~NORMAL~00~}#022#010
+~04~~12~~06~NORMAL~00~#010
+;00004070{~04~~12~~06~EXPERT~00~}#022#010
+~04~~12~~06~DURO  ~00~#010
+;0000407A{~04~~12~~0A~OFF~00~}#019#007
+~04~~12~~0A~NO ~00~#007
+;00004081{~04~~12~~0A~ON~00~}#018#006
+~04~~12~~0A~SÍ~00~#006
+;00004087{~04~~12~~0C~OFF~00~}#019#007
+~04~~12~~0C~NO ~00~#007
+;0000408E{~04~~12~~0C~ON~00~}#018#006
+~04~~12~~0C~SÍ~00~#006
+|204
+@0000434E-0000436B-00
+;0000434E{SETT not found in DUEL table.~00~}#033#030
+  SETT no en la tabla DUELO. ~00~#030
+|30
+@0000444E-0000446B-00
+;0000444E{UNKNOW Command in STORY-MODE.~00~}#033#030
+Comando DESCONOCIDO en TRAMA.~00~#030
+|30
+@000055E9-00005621-00
+;000055E9{1 1P                      ~00~}#030#027
+1 J1                      ~00~#027
+;00005604{~04~~05~~01~~05~~00~}#020#005
+~04~~05~~01~~05~~00~#005
+;00005609{~07~~02~~06~~02~TOURNAMENT~04~~09~~03~RESULTS~00~}#046#025
+~07~~02~~06~~02~
+RESULTADOS~04~~09~~03~
+ TORNEO~00~#025
+|57
+@000059DF-000059EF-00
+;000059DF{CONGRATULATIONS~07~~00~}#023#017
+  FELICIDADES  ~07~~00~#017
+|17
+@00005B6C-00005B87-00
+;00005B6C{ne doit pas se produire !!!~00~}#031#028
+No debe producirse!!!\     ~00~#028
+|28
+@00006A22-00006A31-00
+;00006A22{~04~~04~~01~SPECIAL MOVE~00~}#028#016
+~04~~04~~01~MOV ESPECIAL~00~#016
+|16
+@00006B56-00006B7E-00
+;00006B56{UNKNOW Commande in the ANIM-BLOCK table.~00~}#044#041
+Comando DESCONOCIDO en tabla ANIM-BLOCK.~00~#041
+|41
+@00007400-00007432-00
+;00007400{~04~~06~~01~TODAY'S BEST FIGHTERS~00~}#037#025
+~04~~06~~01~
+ LOS MEJORES DEL DÍA ~00~#025
+;00007419{~04~~05~~03~HIGH SCORE FOR PLAYER ~00~}#035#026
+~04~~05~~03~
+MARCA ALTA DE JUGADOR ~00~#026
+|51
+@000078AC-00007957-FF
+;000078AC{CYASKO~00~EMINES~00~3CATWALK~00~EFALLS~00~~23~VAGABOND~00~5TEMPLE~00~CNORTH~00~EGATE~00~CSOUTH~00~EGATE~00~STHE~00~%WASTELAND~00~~13~GARGOYLES'~00~EPEAK~00~CLOST~00~5JUNGLE~00~4THE LAB~00~~00~~00~~23~DRAGON'S~00~EPASS~00~~23~TOMBSTONE~00~5ISLAND~00~Q~F9~~00~~FF~}#262#172
+~43~
+MINAS~00~~45~
+YASKO~00~~33~
+CASCADA~00~~45~
+GATOS~00~~43~
+TEMPLO~00~~35~
+ERRANTE ~00~~43~
+PUERTA~00~~65~
+NO.~00~~43~
+PUERTA~00~~55~
+SUR~00~~63~
+EL ~00~~45~
+YERMO    ~00~~53~
+PICO~00~~35~
+GÁRGOLAS  ~00~~43~
+JUNGLA~00~~55~
+PER.~00~~44~
+EL LAB ~00~~00~~00~~53~
+PASO~00~~45~
+DRAGÓN  ~00~~53~
+ISLA     ~00~~45~
+TUMBA ~00~Q~F9~~00~~FF~#172
+|172
+@00007C2F-00007C36-00
+;00007C2F{THE END~00~}#011#008
+  FIN  ~00~#008
+|8
+@000081ED-000081F8-00
+;000081ED{DEBUG ERROR:}#012#012
+ERROR DEBUG:#012
+|12
+@000084DC-000084F5-00
+;000084DC{FRAME NUMBER:~00~}#017#014
+FRAME NÚMERO:~00~#014
+;000084EA{SPC NUMBER..}#012#012
+SPC NÚMERO..#012
+|26
+@00011C96-00011DCB-00
+;00011C96{"ROUND~00~}#010#007
+"RONDA~00~#007
+;00011C9D{~14~BATTLE~00~}#014#008
+~14~PELEA ~00~#008
+;00011CA5{~13~F I G H T~00~}#017#011
+~13~L U C H A~00~#011
+;00011CB0{~11~BATTLE~00~}#014#008
+~11~PELEA ~00~#008
+;00011CB8{3OVER !~00~}#011#008
+3ACABA!~00~#008
+;00011CC0{TWIN !~00~}#010#007
+DOBLE!~00~#007
+;00011CC7{~14~TIME~00~}#012#006
+~14~TMPO~00~#006
+;00011CCD{~15~LIFE~00~}#012#006
+~15~VIDA~00~#006
+;00011CD3{~07~BONUS~00~}#013#007
+~07~BONOS~00~#007
+;00011CDA{~13~EXTRA~00~}#013#007
+~13~EXTRA~00~#007
+;00011CE1{!PERFECT !!~00~}#015#012
+!PERFECTO!!~00~#012
+;00011CED{"TIME OUT~00~}#013#010
+" TIEMPO ~00~#010
+;00011CF7{$NO BONUS~00~}#013#010
+$SIN BONO~00~#010
+;00011D01{~00~}#004#001
+~00~#001
+;00011D02{~00~}#004#001
+~00~#001
+;00011D03{~03~NO WINNER !!~00~}#017#014
+~03~SIN GANADOR!~00~#014
+;00011D11{$YOU LOSE~00~}#013#010
+$PERDISTE~00~#010
+;00011D1B{2BONUS~00~}#010#007
+2BONOS~00~#007
+;00011D22{~23~STAGE !~00~}#015#009
+~23~ETAPA! ~00~#009
+;00011D2B{2BONUS~00~}#010#007
+2BONOS~00~#007
+;00011D32{~23~FIGHT !~00~}#015#009
+~23~ PELEA!~00~#009
+;00011D3B{%ROUND~00~}#010#007
+%RONDA~00~#007
+;00011D42{~02~DOUBLE KO !!~00~}#020#014
+~02~ KO DOBLE!! ~00~#014
+;00011D50{~04~NO WINNER !!~00~}#020#014
+~04~SIN GANADOR!~00~#014
+;00011D5E{~00~}#004#001
+~00~#001
+;00011D5F{BONUS REPORT~00~}#016#013
+INFORME BONO~00~#013
+;00011D6C{~04~SKELETONS~00~}#017#011
+~04~ESQUELETO~00~#011
+;00011D77{~16~BONUS~00~}#013#007
+~16~BONOS~00~#007
+;00011D7E{!PERFECT!~00~}#013#010
+!PERFECTO~00~#010
+;00011D88{~12~EXTRA CONT.~00~}#019#013
+~12~CONT. EXTRA~00~#013
+;00011D95{"PLAYER~00~}#011#008
+"JUGADR~00~#008
+;00011D9D{DWINS~00~}#009#006
+DGANA~00~#006
+;00011DA3{$YOU WIN~00~}#012#009
+$GANASTE~00~#009
+;00011DAC{4WINS !~00~}#011#008
+4GANA! ~00~#008
+;00011DB4{~12~DEMO MODE~00~}#017#011
+~12~MODO DEMO~00~#011
+;00011DBF{~05~PRESS START~00~}#019#013
+~05~PULSA START~00~#013
+|310
+@00012C5A-00012D49-00
+;00012C5A{SELECT YOUR FIGHTER:~00~}#024#021
+ ELIGE TU LUCHADOR: ~00~#021
+;00012C6F{HANDICAP:~00~}#013#010
+ESTORBO: ~00~#010
+;00012C79{$$$$$$$%$$$$$$$~00~}#019#016
+$$$$$$$%$$$$$$$~00~#016
+;00012C89{&~00~}#005#002
+&~00~#002
+;00012C8B{ PLAYER 2  ~00~}#015#012
+ JUGADOR 2 ~00~#012
+;00012C97{           ~00~}#015#012
+           ~00~#012
+;00012CA3{PRESS START~00~}#015#012
+PULSA START~00~#012
+;00012CAF{           ~00~}#015#012
+           ~00~#012
+;00012CBB{ PLAYER 1  ~00~}#015#012
+ JUGADOR 1 ~00~#012
+;00012CC7{THE DRAGON~00~}#014#011
+  DRAGÓN  ~00~#011
+;00012CD2{THE DESERT~00~}#014#011
+ DESIERTO ~00~#011
+;00012CDD{THE FOREST~00~}#014#011
+  BOSQUE  ~00~#011
+;00012CE8{THE CRYPTE~00~}#014#011
+  CRIPTA  ~00~#011
+;00012CF3{THE CLIFF ~00~}#014#011
+ACANTILADO~00~#011
+;00012CFE{ THE DOOR ~00~}#014#011
+  PUERTA  ~00~#011
+;00012D09{WATERFALL ~00~}#014#011
+ CASCADA  ~00~#011
+;00012D14{THE TEMPLE~00~}#014#011
+  TEMPLO  ~00~#011
+;00012D1F{ THE LABO ~00~}#014#011
+LABORATORI~00~#011
+;00012D2A{ THE CAVE ~00~}#014#011
+  CUEVA   ~00~#011
+;00012D35{ LA CARTE ~00~}#014#011
+ LA CARTA ~00~#011
+;00012D40{         ~00~}#013#010
+         ~00~#010
+|240
+@000131E4-0001322B-00
+;000131E4{PRESS C TO CHOOSE~00~}#021#018
+  C PARA ELEGIR  ~00~#018
+;000131F6{                 ~00~}#021#018
+                 ~00~#018
+;00013208{  START TO PLAY  ~00~}#021#018
+ START PARA JUGAR~00~#018
+;0001321A{                 ~00~}#021#018
+                 ~00~#018
+|72
+@0001323C-00013250-00
+;0001323C{CHOOSE YOUR CHAMPION~00~}#024#021
+ ELIGE A TU CAMPEÓN ~00~#021
+|21
+@00013899-000138A3-00
+;00013899{GAME OVER~05~~00~}#017#011
+FIN JUEGO~05~~00~#011
+|11
+@000138AA-000138B3-00
+;000138AA{CONTINUE~05~~00~}#016#010
+CONTINÚA~05~~00~#010
+|10
+@000138BA-000138C2-00
+;000138BA{CREDITS:~00~}#012#009
+CRÉDITO:~00~#009
+|9
+@002DB11A-002DB165-00
+;002DB11A{Shaq~00~}#008#005
+Shaq~00~#005
+;002DB11F{Mephis~00~}#010#007
+Mephis~00~#007
+;002DB126{Sett~00~}#008#005
+Sett~00~#005
+;002DB12B{Nezu~00~}#008#005
+Nezu~00~#005
+;002DB130{Kaori~00~}#009#006
+Kaori~00~#006
+;002DB136{Beast~00~}#009#006
+Beast~00~#006
+;002DB13C{Auroch~00~}#010#007
+Auroch~00~#007
+;002DB143{Voodoo~00~}#010#007
+Voodoo~00~#007
+;002DB14A{Diesel~00~}#010#007
+Diesel~00~#007
+;002DB151{Leotsu~00~}#010#007
+Leotsu~00~#007
+;002DB158{Rajah~00~}#009#006
+Rajah~00~#006
+;002DB15E{Colonel~00~}#011#008
+Coronel~00~#008
+|76
+@002FBC46-002FC0D7-00
+;002FBC46{ No text...~00~}#015#012
+ Sin texto.~00~#012
+;002FBC52{  Your incredible display of=  fighting proves you are=  ready to conquer the Story.=  Good Luck.~00~}#101#098
+  Tu increíble despliegue de=
+  pelea demuestra que puedes=
+  conquistar la Historia.=
+  Suerte.\   ~00~#098
+;002FBCB4{  After her amazing victory,=  Kaori returns to Cimotha to=  roam the wild. Her freedom=  reclaimed, she keeps a=  fierce guard against=  uninvited guests.~00~}#159#156
+  Tras su increíble victoria,=
+  Kaori vuelve a Cimotha para=
+  deambular. Con su libertad,=
+  mantiene una feroz guardia=
+  contra invitados=
+  inesperados.\  ~00~#156
+;002FBD50{  Liberating himself from the=  evil Sett, Beast returned to=  the Lost Jungle, recruiting=  an army of fearless fighters=  to serve his wild kingdom.~00~}#154#151
+  Liberándose del malvado=
+  Sett, Beast volvió a la=
+  Jungla Perdida, creando un=
+  ejército de guerreros=
+  sin miedo para servir a su=
+  reino salvaje.~00~#151
+;002FBDE7{  His power restored, Sett=  summoned unworldly energies=  to transform his identity.=  He stalks the First World=  incognito, anxious to=  reclaim his throne.~00~}#163#160
+  Con su poder restaurado,=
+  Sett invocó energías de otro=
+  mundo para transformarse.=
+  Acecha en el Primer Mundo,=
+  ansioso por reclamar su=
+  trono.\         ~00~#160
+;002FBE87{  Freed from the evil Sett,=  Nezu prepares himself for=  his rightful throne by=  learning ancient disciplines=  from his grandfather, Leotsu.~00~}#147#144
+  Liberado del malvado Sett,=
+  Nezu se prepara para su=
+  legítimo trono aprendiendo=
+  disciplinas ancestrales de=
+  su abuelo, Leotsu.\         ~00~#144
+;002FBF17{  His eternal enemy destroyed,=  Mephis' marks of death fade.=  His rage left behind, he=  teaches centuries of wisdom=  to his daughter, Voodoo.~00~}#149#146
+  Destruido su eterno enemigo,=
+  las marcas mortales de=
+  Mephis desparecen. Dejando=
+  su rabia, enseña siglos de=
+  sabiduría a su hija, Voodoo.\~00~#146
+;002FBFA9{  Discovering that her real=  father is Mephis, Voodoo=  restored his health with=  ancient elixirs. She now=  studies his vast knowledge=  of magic.~00~}#153#150
+  Tras descubrir que su padre=
+  es Mephis, Voodoo le=
+  devolvió la salud con=
+  elixires ancestrales. Ahora=
+  estudia su basto=
+  conocimiento mágico.\~00~#150
+;002FC03F{  Pleased with his victories,=  Rajah relaxes at his rich=  palace. He practices his=  lethal arts faithfully,=  always ready for the next=  tournament.~00~}#156#153
+  Satisfecho de sus victorias,=
+  Rajah se relaja en su rico=
+  palacio. Practica sus=
+  letales artes fielmente,=
+  siempre listo para el=
+  próximo torneo.~00~#153
+|1170
+@002FC0D8-002FC4E9-00
+;002FC0D8{  After defeating Sett, the=  Colonel leaves the second=  world. He rejoins his=  scientist brother, and they=  plot conquests at the hands=  of his cybernetic might.=~00~}#171#168
+  Tras derrotar a Sett,=
+  el Coronel deja el segundo=
+  mundo. Vuelve a unirse a su=
+  hermano científico, y traman=
+  conquistas a manos de su=
+  fuerza cibernética.\    ~00~#168
+;002FC180{  Tired of busting kneecaps=  and breaking jaws, Diesel=  begins a new life as a=  hermit in the forest of the=  second world.=~00~}#131#128
+  Cansado de romper rótulas y=
+  mandíbulas, Diesel empieza=
+  una nueva vida como ermitaño=
+  en el bosque del segundo=
+  mundo.\ ~00~#128
+;002FC200{  Weary of the dangers that=  almost destroyed Nezu,=  Leotsu becomes the Eternal=  Guardian of the second=  world.=~00~}#120#117
+  Cansado de los peligros que=
+  casi matan a Nezu, Leotsu se=
+  convierte en el Guardián=
+  Eterno del segundo mundo.\~00~#117
+;002FC275{  Auroch earned a small=  fortune fighting for money=  and now devotes himself to=  recruiting warriors for his=  new tournament palace.~00~}#140#137
+  Auroch ganó una pequeña=
+  fortuna peleando por dinero=
+  y ahora se dedica a reclutar=
+  guerreros para su nuevo=
+  palacio de torneos.\ ~00~#137
+;002FC2FE{~05~~00~}#008#002
+~05~~00~#002
+;002FC300{~04~~00~}#008#002
+~04~~00~#002
+;002FC302{~14~~06~~03~~05~~01~  It's downtown Tokyo and I'm=  checkin' out the local=  sights on the day of my=  all star charity game when...~00~}#133#118
+~14~~06~~03~~05~~01~
+  Es el centro de Tokio y=
+  estoy visitando la ciudad en=
+  mi día del partido de las=
+  estrellas cuando me...\  ~00~#118
+;002FC378{~04~~00~}#008#002
+~04~~00~#002
+;002FC37A{~14~~06~~03~~05~~01~  ...I stumbled upon a small=  Kung Fu dojo with an old man=  inside...~00~}#092#077
+~14~~06~~03~~05~~01~
+  ...topo con un pequeño dojo=
+  de Kung Fu con un anciano=
+  dentro...\ ~00~#077
+;002FC3C7{~04~~00~}#008#002
+~04~~00~#002
+;002FC3C9{~14~~06~~03~~05~~00~}#017#005
+~14~~06~~03~~05~~00~#005
+;002FC3CE{  Greetings big warrior. You=  are the one from the stars,=  I presume? I thought I'd=  never live to see the day!~00~}#118#115
+  Saludos gran guerrero.=
+  Eres una de las estrellas,=
+  supongo? Pensaba que no=
+  viviría para ver el día!\       ~00~#115
+;002FC441{~05~~01~~04~~00~}#016#004
+~05~~01~~04~~00~#004
+;002FC445{~14~  I'm an all star if that's=  what you mean? We have a=  game tonight...would you=  like to come? It's going=  to be quite a battle even=  though it's for charity.~00~}#171#165
+~14~
+  Quieres decir si soy un all=
+  star? Esta noche tenemos=
+  partido...=
+  Te gustaría venir?=
+  Va a ser una dura batalla=
+  aunque sea por caridad.\                  ~00~#165
+|1042
+@002FC4EA-002FC76B-00
+;002FC4EA{~04~~00~}#008#002
+~04~~00~#002
+;002FC4EC{~14~~06~~03~~05~~00~}#017#005
+~14~~06~~03~~05~~00~#005
+;002FC4F1{  Oh no, young warrior, I'm too=  old to be fighting! But I=  wish you well...you must=  hurry now if you are to save=  the little boy, Nezu. That=  is, if you really are the=  magic one?~00~}#191#188
+  Oh no, joven guerrero, soy=
+  muy viejo para pelear!=
+  Pero te deseo lo mejor...=
+  Debes darte prisa si quieres=
+  salvar al pequeño Nezu.=
+  Es decir, eres realmente el=
+  mágico?\        ~00~#188
+;002FC5AD{~05~~01~~04~~00~}#016#004
+~05~~01~~04~~00~#004
+;002FC5B1{~14~  I'm not sure what you=  mean? I'm just=  sightseeing before my game.=  What are you talking about?~00~}#108#102
+~14~
+  No entiendo que quieres=
+  decir. Solo hago algo de=
+  turismo antes de mi partido.=
+  De qué hablas?~00~#102
+;002FC617{~04~~00~}#008#002
+~04~~00~#002
+;002FC619{~14~~06~~03~~05~~00~}#017#005
+~14~~06~~03~~05~~00~#005
+;002FC61E{  No time to explain! Go=  through this portal - find=  Nezu - and save him before=  it's too late.~00~}#103#100
+  No hay tiempo! Atraviesa=
+  este portal- Encuentra a=
+  Nezu- Y sálvalo antes de que=
+  sea tarde.= ~00~#100
+;002FC682{~04~~00~}#008#002
+~04~~00~#002
+;002FC684{~16~~05~~00~}#012#003
+~16~~05~~00~#003
+;002FC687{~06~~03~  Thanks Shaq!=  You just saved my life.~00~}#049#043
+~06~~03~
+  Gracias Shaq!=
+  Me salvaste la vida.\ ~00~#043
+;002FC6B2{~04~~00~}#008#002
+~04~~00~#002
+;002FC6B4{~15~~05~~01~~06~~03~  Sorry I'm late, boys!==  Let's just say I had to fight =  some traffic to get here.~00~}#106#091
+~15~~05~~01~~06~~03~
+  Siento llegar tarde,=
+  chicos!==
+  Digamos que había mucho=
+  tráfico para llegar.\  ~00~#091
+;002FC70F{~04~~00~}#008#002
+~04~~00~#002
+;002FC711{~15~~05~~01~~06~~03~  Oh no...not you again!!=  I hope you play hoops better=  than you can fight, Beast.~00~}#106#091
+~15~~05~~01~~06~~03~
+  Oh no... Otra vez tú!!=
+  Espero que encestes mejor=
+  de lo que peleas, Beast.\     ~00~#091
+|642
+@002FC810-002FCCD6-00-03
+;002FC810{  What's up, cat woman? Can=  you tell me about the=  little boy, Nezu?~03~}#075#072
+  Qué pasa, mujer gata?=
+  Puedes decirme algo del=
+  chiquillo, Nezu?^  ~03~#072
+;002FC858{  My name is Kaori and I'm=  gonna do some serious=  damage to your body!~00~}#077#074
+  Me llamo Kaori y voy a=
+  herir tu cuerpo=
+  seriamente!\                ~00~#074
+;002FC8A2{  Be careful, prince. You=  might hurt yourself with=  those swords.~03~}#072#069
+  Ten cuidado, príncipe.=
+  Podrías hacerte daño con=
+  esas espadas.^~03~#069
+;002FC8E7{  My swords will make you=  think twice about that=  comment.~00~}#065#062
+  Mis espadas te harán=
+  pensarte dos veces ese=
+  comentario.~00~#062
+;002FC925{  Tell me where the boy, Nezu,=  is before I beat it out of=  you.~03~}#070#067
+  Dime donde está el chico,=
+  Nezu, antes de que te lo=
+  saque.^  ~03~#067
+;002FC968{  Yeah right, I'll whisper it=  in your ear after I slap=  you silly!~00~}#073#070
+  Sí, claro, te lo susurraré=
+  en la oreja tras=
+  abofetearte, tonto!~00~#070
+;002FC9AE{  Where is Sett Ra? Your=  magic can't hurt me,=  girlfriend!~03~}#065#062
+  Dónde está Sett Ra? Tu magia=
+  no puede herirme, novia!^   ~03~#062
+;002FC9EC{  My magic has never lost=  a match and I'm not your=  girlfriend!~00~}#070#067
+  Mi magia nunca ha perdido un=
+  combate y no soy tu novia!\      ~00~#067
+;002FCA2F{  Are you NEZU?~03~}#019#016
+  Eres NEZU?^  ~03~#016
+;002FCA3F{  There is no Nezu anymore,=  I will fight you to the=  finish!~00~}#067#064
+  Ya no hay ningún Nezu,=
+  pelearé contigo hasta el=
+  final!\  ~00~#064
+;002FCA7F{  You are one ugly creature!=  Who are you?~03~}#047#044
+  Eres una criatura horrible!=
+  Quién eres?~03~#044
+;002FCAAB{  I am Beast, Sett Ra's=  greatest servant. I will=  beat you senseless!~00~}#076#073
+  Soy Beast, el mayor siervo=
+  de Sett Ra. Te dejaré sin=
+  sentido!\    ~00~#073
+;002FCAF4{  Hand over the boy, mummy=  man, or I'll unravel you!~03~}#058#055
+  Entrega al chico, hombre=
+  momia, o te desenrollaré!~03~#055
+;002FCB2B{  I am Sett Ra, you should=  have never come this far.=  After I beat you...I will=  wreak havoc upon the human=  race.~00~}#123#120
+  Soy Sett Ra, nunca debiste=
+  llegar tan lejos. Después de=
+  derrotarte... Causaré=
+  estragos en la raza humana.\     ~00~#120
+;002FCBA3{  What's up with the plastic=  head gear, bra?~03~}#050#047
+  Que pasa con el casco de=
+  plástico, tío?^  ~03~#047
+;002FCBD2{  My bionic equipment will=  overpower you!~00~}#047#044
+  Mi equipo biónico te=
+  sobrepasará!\     ~00~#044
+;002FCBFE{  You call yourself Diesel,=  ha ha ha!~03~}#043#040
+  Te haces llamar Diesel,=
+  ja ja ja!^ ~03~#040
+;002FCC26{  We'll see who has the last=  laugh!~00~}#041#038
+  Veremos quien ríe el último!\      ~00~#038
+;002FCC4C{  I'm gonna rock your chair,=  grandpa.~03~}#043#040
+  Voy a sacudir tu silla,=
+  abuelo.^   ~03~#040
+;002FCC74{  You have much to learn,=  young man!~00~}#042#039
+  Tienes mucho que aprender,=
+  joven!\~00~#039
+;002FCC9B{  Do you know where I can=  find Sett and the boy?~03~}#054#051
+  Sabes dónde puedo encontrar=
+  a Sett y al chico?~03~#051
+;002FCCCE{  GRRRR!~00~}#012#009
+  GRRRR!~00~#009
+|1223
+@002FCCD7-002FD070-00
+;002FCCD7{  At last! I am freed from=  Sett Ra's mind control=  ring. Nezu is being held=  on Tombstone Island=  but you must get by=  Sett Ra's loyal army first.~00~}#156#153
+  Al fin! Estoy liberada del=
+  control mental del anillo de=
+  Sett Ra. Nezu está en la=
+  Isla Tumba pero debes pasar=
+  por el ejército de Sett Ra.\     ~00~#153
+;002FCD70{  You may have gotten past my=  swords but the Colonel will=  teach you a lesson, fool.~00~}#091#088
+  Puede que pasaras de mis=
+  espadas pero el Coronel te=
+  enseñará una lección, tonto.\~00~#088
+;002FCDC8{  I should turn you into a=  little frog but since=  you won honorably, I will=  let you pass!~00~}#098#095
+  Debería transformarte en una=
+  ranita pero como ganaste=
+  honorablemente, te dejaré=
+  pasar!~00~#095
+;002FCE27{  Your courage is praiseworthy!=  Beware the Beast, he is as=  lethal as he is ugly!~00~}#088#085
+  Tu coraje es encomiable!=
+  Cuidado con Beast, es tan=
+  letal como espantoso!\     ~00~#085
+;002FCE7C{  I will travel through time=  to fight you again some day!=  Sett Ra will not let you=  take the boy. You will=  never succeed!~00~}#132#129
+  Viajaré por el tiempo para=
+  pelear contigo otro día!=
+  Sett Ra no te dejará=
+  llevarte al chico. Nunca=
+  tendrás éxito!\     ~00~#129
+;002FCEFD{  You are a man of great power=  but mark my words...I'll be=  back!~00~}#072#069
+  Eres un hombre de gran poder=
+  pero recuerda... Volveré!\         ~00~#069
+;002FCF42{  You were lucky! But you will=  need more than luck to =  challenge Sett.~00~}#078#075
+  Tienes suerte! Pero=
+  necesitarás más que suerte=
+  para desafiar a Sett.~00~#075
+;002FCF8D{  I could have beat you back=  home on the docks!~00~}#053#050
+  Podría haberte derrotado en=
+  los muelles!\    ~00~#050
+;002FCFBF{  You are skilled beyond your=  years. Save my grandson,=  Nezu! But look out - Sett=  hypnotized him and he will=  try to defeat you!=~00~}#139#136
+  Eres más hábil que tu edad.=
+  Salva a mi nieto, Nezu!=
+  Pero cuidado- Sett le ha=
+  hipnotizado e intentará=
+  derrotarte!\           =~00~#136
+;002FD047{  Next time I'll squash you=  like a bug!~00~}#045#042
+  La próxima te aplastaré cual=
+  bicho!\ ~00~#042
+|922
+@002FD071-002FD251-00
+;002FD071{  You have freed me from the=  dark master, Sett! Go now and=  face him while he is still=  weak...=~00~}#104#101
+  Me has liberado del maestro=
+  oscuro, Sett! Ahora ve a=
+  enfrentarte a él mientras=
+  esté débil...~00~#101
+;002FD0D6{~04~~00~}#008#002
+~04~~00~#002
+;002FD0D8{~15~~06~~03~~05~~00~}#017#005
+~15~~06~~03~~05~~00~#005
+;002FD0DD{  Somewhere in the Second=  World, Beast brings his=  skeleton soldiers to life.~00~}#084#081
+  En algún lugar del Segundo=
+  Mundo, Beast resucita a sus=
+  soldados esqueleto.~00~#081
+;002FD12E{~00~}#004#001
+~00~#001
+;002FD12F{ You blew it! Sett will= soon possess the world!~00~}#052#049
+  La pifiaste! Sett pronto=
+  poseerá el mundo!\ ~00~#049
+;002FD160{7'1~00~}#007#004
+216~00~#004
+;002FD164{310~00~}#007#004
+140~00~#004
+;002FD168{22~00~}#006#003
+22~00~#003
+;002FD16B{USA~00~}#007#004
+EUA~00~#004
+;002FD16F{5'3~00~}#007#004
+160~00~#004
+;002FD173{123~00~}#007#004
+56 ~00~#004
+;002FD177{23~00~}#006#003
+23~00~#003
+;002FD17A{Cimotha~00~}#011#008
+Cimotha~00~#008
+;002FD182{6'10~00~}#008#005
+208 ~00~#005
+;002FD187{410~00~}#007#004
+186~00~#004
+;002FD18B{Eternal~00~}#011#008
+Eterno ~00~#008
+;002FD193{Unknown~00~}#011#008
+Ignoto ~00~#008
+;002FD19B{6'10~00~}#008#005
+208 ~00~#005
+;002FD1A0{212~00~}#007#004
+96 ~00~#004
+;002FD1A4{3000~00~}#008#005
+3000~00~#005
+;002FD1A9{Unknown~00~}#011#008
+Ignoto ~00~#008
+;002FD1B1{4'6~00~}#007#004
+137~00~#004
+;002FD1B5{77~00~}#006#003
+35~00~#003
+;002FD1B8{12~00~}#006#003
+12~00~#003
+;002FD1BB{Far East~00~}#012#009
+Oriental~00~#009
+;002FD1C4{5'7~00~}#007#004
+170~00~#004
+;002FD1C8{165~00~}#007#004
+75 ~00~#004
+;002FD1CC{Unknown~00~}#011#008
+Ignoto ~00~#008
+;002FD1D4{Unknown~00~}#011#008
+Ignoto ~00~#008
+;002FD1DC{5'8~00~}#007#004
+173~00~#004
+;002FD1E0{143~00~}#007#004
+65 ~00~#004
+;002FD1E4{27~00~}#006#003
+27~00~#003
+;002FD1E7{Haiti~00~}#009#006
+Haiti~00~#006
+;002FD1ED{5'11~00~}#008#005
+180 ~00~#005
+;002FD1F2{210~00~}#007#004
+95 ~00~#004
+;002FD1F6{38~00~}#006#003
+38~00~#003
+;002FD1F9{2nd World~00~}#013#010
+2do Mundo~00~#010
+;002FD203{6'4~00~}#007#004
+193~00~#004
+;002FD207{357~00~}#007#004
+162~00~#004
+;002FD20B{42~00~}#006#003
+42~00~#003
+;002FD20E{Bio Corp~00~}#012#009
+Bio Corp~00~#009
+;002FD217{6'1~00~}#007#004
+185~00~#004
+;002FD21B{205~00~}#007#004
+93 ~00~#004
+;002FD21F{30~00~}#006#003
+30~00~#003
+;002FD222{USA~00~}#007#004
+EUA~00~#004
+;002FD226{5'4~00~}#007#004
+163~00~#004
+;002FD22A{118~00~}#007#004
+54 ~00~#004
+;002FD22E{500~00~}#007#004
+500~00~#004
+;002FD232{Far East~00~}#012#009
+Oriental~00~#009
+;002FD23B{5'11~00~}#008#005
+180 ~00~#005
+;002FD240{456~00~}#007#004
+206~00~#004
+;002FD244{170~00~}#007#004
+170~00~#004
+;002FD248{2nd World~00~}#013#010
+2do Mundo~00~#010
+|481
+@002FD2E2-002FD6F0-00
+;002FD2E2{  This is a fighter's world,=  sit down!~00~}#044#041
+  Es un mundo de luchadores,=
+  siéntate!~00~#041
+;002FD30B{  Your cat-like quickness=  is slow.~00~}#040#037
+  Tu rapidez felina es lenta.\      ~00~#037
+;002FD330{  Cats can't live in this=  dog world.~00~}#042#039
+  Los gatos no pueden vivir=
+  aquí.\  ~00~#039
+;002FD357{  This beauty beat the Beast!~00~}#033#030
+  La bella ganó a la Bestia!\~00~#030
+;002FD375{  Get up Beast, get up!~00~}#027#024
+  Arriba Beast, arriba!~00~#024
+;002FD38D{  Tell your boss I said 'Hi.' ~00~}#034#031
+  Dile a tu jefe que saludé.\ ~00~#031
+;002FD3AC{  I felt like I was fighting=  curtains.~00~}#044#041
+  Sentí que peleaba contra=
+  cortinas.\ ~00~#041
+;002FD3D5{  See ya later...=  bedspread man!~00~}#038#035
+  Hasta otra...=
+  hombre colcha!\ ~00~#035
+;002FD3F8{  Your wrap is whack, bra!~00~}#030#027
+  Tu rollo apesta, tío!\  ~00~#027
+;002FD413{  I think I hear your mom=  calling you!~00~}#044#041
+  Creo que oí a tu madre=
+  llamándote!\ ~00~#041
+;002FD43C{  Go back one exit, you passed=  Kiddie Land!~00~}#049#046
+  Vuelve atrás te has pasado=
+  Tierra Chico!\~00~#046
+;002FD46A{  Come back when you're 5=  feet tall kid.~00~}#046#043
+  Vuelve cuando midas más de=
+  1,50m.\    ~00~#043
+;002FD495{  I didn't need sticks or=  stones to break your=  bones, fool.~00~}#067#064
+  No necesité palos o piedras=
+  para romper tus huesos,=
+  bobo.~00~#064
+;002FD4D5{  You're nothing but=  toothpicks now, bra!~00~}#047#044
+  Ahora solo eres un palillo,=
+  hermano!\  ~00~#044
+;002FD501{  Go in peace, bra.~00~}#023#020
+  Ve en paz, tío.\ ~00~#020
+;002FD515{  Who voodoo'd who?!~00~}#024#021
+  Quien hizo voodoo?~00~#021
+;002FD52A{  Go play with your dolls!~00~}#030#027
+  A jugar con muñecas!\   ~00~#027
+;002FD545{  Sorry, I didn't mean to hurt=  you.~00~}#041#038
+  Perdona, no quería herirte.\       ~00~#038
+;002FD56B{  Nice mushroom hat for your=  mushroom head.~00~}#049#046
+  Buen sombrero de seta para=
+  tu cabeza.\   ~00~#046
+;002FD599{  Sharpen your blades next time!~00~}#036#033
+  Afila tus hojas la próxima!\  ~00~#033
+;002FD5BA{  Your hypnotic style won't=  work on me.~00~}#045#042
+  Tu estilo hipnótico no=
+  funcionará.\  ~00~#042
+;002FD5E4{  I always recycle plastic!~00~}#031#028
+  Siempre reciclo plástico!~00~#028
+;002FD600{  Should I call an ambulance=  or a repair truck for you?~00~}#061#058
+  Debería llamar a una=
+  ambulancia o a un mecánico?\    ~00~#058
+;002FD63A{  Machines are fragile!~00~}#027#024
+  Frágiles máquinas...\~00~#024
+;002FD652{  Take your sorry act home!~00~}#031#028
+  Menudo acto lamentable!\ ~00~#028
+;002FD66E{  You need to work out, bra!~00~}#032#029
+  Tienes que ejercitar, tío!~00~#029
+;002FD68B{  You call yourself Diesel!=  Ha ha ha !~00~}#044#041
+  Te haces llamar Diesel!=
+  Ja ja ja!\  ~00~#041
+;002FD6B4{  I rocked your chair, Grandpa!~00~}#035#032
+  Sacudí tu silla, Abuelo!\    ~00~#032
+;002FD6D4{  I just schooled you, pops!~00~}#032#029
+  Te dí una lección, viejo!\~00~#029
+|1039
+@002FD6F1-002FD781-00
+;002FD6F1{  I'll let you fight my grandpa=  next time.~00~}#048#045
+  Te dejaré pelear con mi abuelo la próxima.~00~#045
+;002FD71E{  See ya, wouldn't want to=  be ya!~00~}#039#036
+  Adiós, no me gustaría ser=
+  tú!\ ~00~#036
+;002FD742{  You look like a bull pig!~00~}#031#028
+  Pareces un toro cerdo!\ !~00~#028
+;002FD75E{  You just got crushed,=  rockhead!~00~}#039#036
+  Acabas de ser aplastado,=
+  tonto!~00~#036
+|145
+@002FD872-002FDCA1-00
+;002FD872{  Go home...I'll beat you=  one-on-one every time~00~}#053#050
+  Vete a casa...=
+  Te derrotaré cada vez.\       ~00~#050
+;002FD8A4{  I'm the baddest cat around=  here. Don't come back!~00~}#057#054
+  Soy la gata más mala del=
+  lugar. No vuelvas!\     ~00~#054
+;002FD8DA{  I slapped you around like=  a ball of yarn.~00~}#049#046
+  Te abofeteé como a un=
+  ovillo.\           ~00~#046
+;002FD908{  You've got more bruises=  than I have lives.~00~}#050#047
+  Tienes más moratones que yo=
+  vidas.\       ~00~#047
+;002FD937{  I've had mice put up a=  better fight against me!~00~}#055#052
+  He tenido ratones que han=
+  peleado mejor!\      ~00~#052
+;002FD96B{  You've got no skills!=  Go practice!~00~}#042#039
+  No tienes habilidad!=
+  A practicar!\~00~#039
+;002FD992{  My magic is better than=  your magic.~00~}#043#040
+  Mi magia es mejor que tu=
+  magia.\   ~00~#040
+;002FD9BA{  Don't come back or I'll=  use my doll on you.~00~}#051#048
+  No vuelvas o usaré mi muñeco=
+  contigo.\     ~00~#048
+;002FD9EA{  You're lucky I didn't=  turn you into a pig.~00~}#050#047
+  Tienes suerte de que no te=
+  hiciera cerdo.\~00~#047
+;002FDA19{  You are no match for my=  powerful magic.~00~}#047#044
+  No eres rival para mi=
+  poderosa magia.\ ~00~#044
+;002FDA45{  You should take up another=  sport before you get hurt!~00~}#061#058
+  Deberías elegir otro deporte=
+  antes de herirte!\      ~00~#058
+;002FDA7F{  You should retire early,=  buddy!~00~}#039#036
+  Deberías retirarte pronto,=
+  tío!~00~#036
+;002FDAA3{  I'm amused by your fighting=  skills!~00~}#043#040
+  Me divierte tu habilidad=
+  peleando!\~00~#040
+;002FDACB{  Thanks for the good laugh...=  do come again!~00~}#051#048
+  Gracias por las risas...=
+  Vuelve otro día!\ ~00~#048
+;002FDAFB{  I am the greatest=  swordsman ever!~00~}#041#038
+  Soy el mejor espadachín!\          ~00~#038
+;002FDB21{  You should stick with=  hoops!~00~}#036#033
+  Deberías seguir con el aro!\  ~00~#033
+;002FDB42{  I've beat real fighters=  twice your size.~00~}#048#045
+  Vencí a luchadores que eran=
+  dos como tú.~00~#045
+;002FDB6F{  You should stand clear=  when lightning strikes~00~}#053#050
+  Deberías apartarte al=
+  golpear el relámpago.\ ~00~#050
+;002FDBA1{  Try again. Maybe I can beat=  you even faster.~00~}#052#049
+  Vuelve a probar. Quizá pueda=
+  vencerte antes.~00~#049
+;002FDBD2{  You can't dish it out,=  but you sure can take it!~00~}#056#053
+  No puedes repartir=
+  pero si recibir!\            ~00~#053
+;002FDC07{  You can't hang in my=  league, buddy! Go away!~00~}#052#049
+  No puedes jugar en mi liga,=
+  amigo! Vete!\   ~00~#049
+;002FDC38{  I'm the Beast...you can't=  defeat me, wimp!~00~}#050#047
+  Soy Bestia...=
+  No puedes vencerme, débil!\ ~00~#047
+;002FDC67{  Get serious, weakling!=  I will never let you=  beat me!~00~}#062#059
+  Ponte serio, debilucho!=
+  Nunca dejaré que me venzas!\  ~00~#059
+|1072
+@002FDCA2-002FE0AD-00
+;002FDCA2{  Stay down, I am the best=  fighter of all!~00~}#048#045
+  No te levantes, soy el mejor=
+  guerrero!\ ~00~#045
+;002FDCCF{  Next time will be even=  more painful!~00~}#044#041
+  La próxima vez será más=
+  doloroso!\  ~00~#041
+;002FDCF8{  So much for your size, ya'=  big baby~00~}#043#040
+  Mucho para tu tamaño,=
+  gran bebé.\  ~00~#040
+;002FDD20{  The bigger they are, the=  harder they fall.~00~}#050#047
+  Cuanto más grandes, más dura=
+  es la caída.\~00~#047
+;002FDD4F{  I may be small, but=  you just lost big!~00~}#046#043
+  Soy menuda, pero perdiste a=
+  lo grande!~00~#043
+;002FDD7A{  I am much too fast for=  someone like you.~00~}#048#045
+  Soy muy rápida para alguien=
+  como tú.\   ~00~#045
+;002FDDA7{  Try picking on someone your=  own size!~00~}#045#042
+  Métete con alguien de tu=
+  tamaño!     ~00~#042
+;002FDDD1{  My wrap is better than=  your rap.~00~}#040#037
+  Mi rollo es mejor que tu=
+  rap.\  ~00~#037
+;002FDDF6{  I am the center of=  attention around here!~00~}#049#046
+  Soy el centro de atención=
+  por aquí!\     ~00~#046
+;002FDE24{  Go back and train with=  the others!~00~}#042#039
+  Vuelve y entrena con los=
+  otros!\  ~00~#039
+;002FDE4B{  I will always be superior=  to you.~00~}#041#038
+  Siempre seré superior a ti.\       ~00~#038
+;002FDE71{  I can't believe you work=  for me.~00~}#040#037
+  No me creo que trabajes para=
+  mí.~00~#037
+;002FDE96{  You should have blocked my=  shots!~00~}#041#038
+  Debiste bloquear mis=
+  disparos!\  ~00~#038
+;002FDEBC{  I hope you kept your day job!~00~}#035#032
+  Espero que tengas trabajo!\  ~00~#032
+;002FDEDC{  I am not one to be messed=  with!~00~}#039#036
+  No soy alguien con quien=
+  jugar!~00~#036
+;002FDF00{  I'll beat you black and blue=  if you come back!~00~}#054#051
+  Te volveré negro y azul si=
+  vuelves!\          ~00~#051
+;002FDF33{  Think twice before you fight=  me again!~00~}#046#043
+  Piénsatelo dos veces antes=
+  de volver!\~00~#043
+;002FDF5E{  I'll slam on you all day=  long!~00~}#038#035
+  Te golpearé todo el día!\       ~00~#035
+;002FDF81{  I brought you down like a=  glass backboard!~00~}#050#047
+  Te hice caer como un tablero=
+  de vidrio!\  ~00~#047
+;002FDFB0{  What a wimp you turned out=  to be!~00~}#041#038
+  Menudo debilucho resultaste=
+  ser!\~00~#038
+;002FDFD6{  You should run home and cry!~00~}#034#031
+  Deberías ir a llorar a casa!~00~#031
+;002FDFF5{  I didn't even break a sweat!~00~}#034#031
+  Ni siquiera he sudado!\     ~00~#031
+;002FE014{  Would you like my autograph?~00~}#034#031
+  Quieres mi autógrafo?\      ~00~#031
+;002FE033{  A great offense is the best=  defense!~00~}#044#041
+  Un gran ataque es la mejor=
+  defensa!\~00~#041
+;002FE05C{  You ought to get yourself=  some bionics.~00~}#047#044
+  Deberías conseguirte algo=
+  biónico.\    ~00~#044
+;002FE088{  Technology is the key to=  victory.~00~}#041#038
+  La tecnología es la clave.\        ~00~#038
+|1036
+@002FE0AE-002FE1A0-00
+;002FE0AE{  I could have beat you with=  my real arms.~00~}#048#045
+  Podría ganarte con mis=
+  brazos reales.\  ~00~#045
+;002FE0DB{  You fight like a darn rookie!~00~}#035#032
+  Peleas como un debutante!\   ~00~#032
+;002FE0FB{  You can't stick me. Go home!~00~}#034#031
+  No puedes pegarme. A casa!\ ~00~#031
+;002FE11A{  I am too smart for your=  foolish style.~00~}#046#043
+  Soy demasiado listo para tu=
+  estilo.\  ~00~#043
+;002FE145{  Your pain will lessen with=  time, weak one!~00~}#050#047
+  Tu dolor disminuirá con el=
+  tiempo, débil!\~00~#047
+;002FE174{  I will teach you to fight if=  you pay me!~00~}#048#045
+  Te enseñaré a pelear si me=
+  pagas!\      ~00~#045
+|243
+@002FE1A2-002FE8D4-00
+;002FE1A2{   GAME CREDITS FOR SHAQ FU :======~05~ PROJECT MANAGER :==           Paul CUISSET====~05~ DESIGN LEAD :==           Paul CUISSET====~05~ LEAD PROGRAMMER :==        Thierry GAERTHNER====~05~ PROGRAMMER : ==         Arnaud CARRE====~05~ LEAD GRAPHIC ARTIST :==        Thierry LEVASTRE====~05~ GRAPHIC ARTISTS :==        Valerie AMGHAR=       Stephane AUSSEL=        Michele BACQUE=        Thierry BANSRONT=        Gregory BEAL=           Eric CARON=        Michael DOUAUT=        Laurent DRENO=          Serge FIEDOS=          Herve GAERTHNER=           Elie JAMAA=       Frederic MICHEL=     Christophe MOYNE=        Olivier NICOLAS=        Fabrice TETE=         Cecile THOMAS=      Jean-Marc TIMERT=           Paul TUMELAIRE=          Roman VAIDIS====~05~ MUSIC :==        Raphael GESQUA====~05~ ASSISTANT PRODUCERS :==           Jeff BROWN=        William SCHMITT=           John VILANDRE====~05~ TESTING :==           Jeff BROWN=           Ryan ENSLOW=          Chris MCCALL=           Chip PROBST=           Matt VELLA=           John VILANDRE=        Michael YASKO====~05~ EXECUTIVE PRODUCER :==            Don TRAEGER====~05~ PRODUCER :==            Jim RUSHING====~05~ ASSOCIATE PRODUCER :==           Greg SUAREZ====~05~ PRODUCT MANAGER :==           Lisa HIGGINS====~05~ DOCUMENTATION :==        Valerie HANSCOM=        Michael HUMES====~05~ PACKAGE DIRECTION :==          Nancy FONG====~05~ PACKAGE DESIGN :==           13th FLOOR=           Dave PARMELY====~05~ STUNTMEN :==           Remi CANAPLE=        Patrick CAUDERLIER=            Abi ESPANOL=           Marc LE LOEUFF=           Dany ROCCA=           Phil VITT====~05~ SPECIAL THANKS :==        Leonard ARMATO=            Tim BRENGLE=           John BROOKS=           Lori CHRISTENSEN=   Jean Charles MEYRIGNAC=      Shaquille O'NEAL=     Management PLUS=          Sarah SMITH=         Dennis TRACEY=============================~00~}#1900#1843
+   CRÉDITOS DEL JUEGO SHAQ FU: ======~05~
+ JEFE PROYECTO:  ==           Paul CUISSET====~05~
+ JEFE DISEÑO:==           Paul CUISSET====~05~
+ PROGRAMADOR JEFE:==        Thierry GAERTHNER====~05~
+ PROGRAMADOR:==         Arnaud CARRE====~05~
+ JEFE ARTISTA GRÁFICO:==        Thierry LEVASTRE====~05~
+ ARTISTAS GRÁFICOS:==        Valerie AMGHAR=       Stephane AUSSEL=        Michele BACQUE=        Thierry BANSRONT=        Gregory BEAL=           Eric CARON=        Michael DOUAUT=        Laurent DRENO=          Serge FIEDOS=          Herve GAERTHNER=           Elie JAMAA=       Frederic MICHEL=     Christophe MOYNE=        Olivier NICOLAS=        Fabrice TETE=         Cecile THOMAS=      Jean-Marc TIMERT=           Paul TUMELAIRE=          Roman VAIDIS====~05~
+ MÚSICA:==        Raphael GESQUA====~05~
+ PRODUCTORES AYUDANTES:==           Jeff BROWN=        William SCHMITT=           John VILANDRE====~05~
+ PRUEBAS:==           Jeff BROWN=           Ryan ENSLOW=          Chris MCCALL=           Chip PROBST=           Matt VELLA=           John VILANDRE=        Michael YASKO====~05~
+ PRODUCTOR EJECUTIVO:==            Don TRAEGER====~05~
+ PRODUCTOR:==            Jim RUSHING====~05~
+ PRODUCTOR ASOCIADO:==           Greg SUAREZ====~05~
+ JEFE PRODUCTO:   ==           Lisa HIGGINS====~05~
+ DOCUMENTACIÓN:==        Valerie HANSCOM=        Michael HUMES====~05~
+ DIRECCIÓN PAQUETE:==          Nancy FONG====~05~
+ DISEÑO PAQUETE:==           13th FLOOR=           Dave PARMELY====~05~
+ ESPECIALISTAS:==           Remi CANAPLE=        Patrick CAUDERLIER=            Abi ESPANOL=           Marc LE LOEUFF=           Dany ROCCA=           Phil VITT====~05~
+ MUCHAS GRACIAS: ==        Leonard ARMATO=            Tim BRENGLE=           John BROOKS=           Lori CHRISTENSEN=   Jean Charles MEYRIGNAC=      Shaquille O'NEAL=     Management PLUS=          Sarah SMITH=         Dennis TRACEY=============================~00~#1843
+|1843
+@002FE906-002FED0E-00
+;002FE906{~04~~12~~02~SHAQ~07~~00~}#024#009
+~04~~12~~02~SHAQ~07~~00~#009
+;002FE90F{~05~~00~}#008#002
+~05~~00~#002
+;002FE911{~06~~02~~04~~16~~06~7'1~04~~16~~07~301~04~~16~~08~22~04~~16~~09~USA~04~~00~}#075#027
+~06~~02~~04~~16~~06~
+216~04~~16~~07~
+137~04~~16~~08~22~04~~16~~09~
+EUA~04~~00~#027
+;002FE92C{~11~  A dominating force=  on and off the hoops=  court, rookie of the=  year, perennial=  all star and founder=  of Shaqido...an=  extremely lethal=  martial art form.~00~}#172#166
+~11~
+  Una fuerza dominante=
+  dentro y fuera de la=
+  cancha, debutante=
+  del año, perenne=
+  estrella y fundador=
+  del Shaqido...=
+  Un arte marcial=
+  sumamente letal.\   ~00~#166
+;002FE9D2{~04~~12~~02~MEPHIS~07~~00~}#026#011
+~04~~12~~02~MEPHIS~07~~00~#011
+;002FE9DD{~05~~00~}#008#002
+~05~~00~#002
+;002FE9DF{~06~~02~~04~~16~~06~5'7~04~~16~~07~165~04~~16~~08~Unknown~04~~16~~09~Unknown~04~~00~}#084#036
+~06~~02~~04~~16~~06~
+170~04~~16~~07~
+75 ~04~~16~~08~Ignoto ~04~~16~~09~Ignoto ~04~~00~#036
+;002FEA03{~11~  A mighty undead=  sorcerer who was once=  Sett's apprentice=  thousands of years=  ago.~00~}#097#091
+~11~
+  Un poderoso=
+  hechicero muerto=
+  viviente que fue=
+  aprendiz de Sett=
+  hace milenios.\ ~00~#091
+;002FEA5E{~04~~12~~02~SETT~07~~00~}#024#009
+~04~~12~~02~SETT~07~~00~#009
+;002FEA67{~05~~00~}#008#002
+~05~~00~#002
+;002FEA69{~06~~02~~04~~16~~06~6'10~04~~16~~07~212~04~~16~~08~3000~04~~16~~09~Unknown~04~~00~}#082#034
+~06~~02~~04~~16~~06~
+208 ~04~~16~~07~
+96 ~04~~16~~08~3000~04~~16~~09~Ignoto ~04~~00~#034
+;002FEA8B{~11~  An entity of ancient=  evil, Sett was=  defeated and=  entombed in another=  dimension ages ago.=~00~}#107#101
+~11~
+  Una antigua entidad=
+  maligna, fue=
+  derrotado y=
+  sepultado en otra=
+  dimensión hace=
+  siglos.\ ~00~#101
+;002FEAF0{~04~~12~~02~NEZU~07~~00~}#024#009
+~04~~12~~02~NEZU~07~~00~#009
+;002FEAF9{~05~~00~}#008#002
+~05~~00~#002
+;002FEAFB{~06~~02~~04~~16~~06~4'6~04~~16~~07~77~04~~16~~08~12~04~~16~~09~Far East~04~~00~}#079#031
+~06~~02~~04~~16~~06~
+137~04~~16~~07~
+35~04~~16~~08~12~04~~16~~09~Oriental~04~~00~#031
+;002FEB1A{~11~  Kidnapped by Beast to=  free Sett. Nezu is=  uncontrollable when=  angered. Although=  small, Nezu is agile,=  swift, and cunning.~00~}#140#134
+~11~
+  Raptado por Beast=
+  para liberar a Sett.=
+  Es incontrolable=
+  cuando se enfada.=
+  Aunque pequeño, es=
+  ágil, veloz y=
+  astuto.\   ~00~#134
+;002FEBA0{~04~~12~~02~KAORI~07~~00~}#025#010
+~04~~12~~02~KAORI~07~~00~#010
+;002FEBAA{~05~~00~}#008#002
+~05~~00~#002
+;002FEBAC{~06~~02~~04~~16~~06~5'3~04~~16~~07~123~04~~16~~08~23~04~~16~~09~Cimotha~04~~00~}#079#031
+~06~~02~~04~~16~~06~
+160~04~~16~~07~
+56 ~04~~16~~08~23~04~~16~~09~Cimotha~04~~00~#031
+;002FEBCB{~11~  Forced to obey Sett's=  will by the power of=  an enchanted ring,=  Kaori is the martial=  arts champion of an=  alien feline race.~00~}#141#135
+~11~
+  Forzada a obedecer=
+  la voluntad de Sett=
+  por un anillo=
+  encantado. Campeona=
+  de un arte marcial=
+  de alienígenas=
+  felinos.\   ~00~#135
+;002FEC52{~04~~12~~02~BEAST~07~~00~}#025#010
+~04~~12~~02~BEAST~07~~00~#010
+;002FEC5C{~05~~00~}#008#002
+~05~~00~#002
+;002FEC5E{~06~~02~~04~~16~~06~6'10~04~~16~~07~410~04~~16~~08~Eternal~04~~16~~09~Unknown~04~~00~}#085#037
+~06~~02~~04~~16~~06~
+208 ~04~~16~~07~
+186~04~~16~~08~Eternal~04~~16~~09~
+Ignoto ~04~~00~#037
+;002FEC83{~11~  Created by Sett from=  his own shadow, Beast=  is the mightiest of=  of Sett's servants.~00~}#098#092
+~11~
+  Creado por Sett a=
+  partir de su sombra,=
+  Beast es el siervo=
+  de Sett más=
+  poderoso.\~00~#092
+;002FECDF{~04~~12~~02~AUROCH~07~~00~}#026#011
+~04~~12~~02~AUROCH~07~~00~#011
+;002FECEA{~05~~00~}#008#002
+~05~~00~#002
+;002FECEC{~06~~02~~04~~16~~06~5'11~04~~16~~07~456~04~~16~~08~170~04~~16~~09~2nd World~04~~00~}#083#035
+~06~~02~~04~~16~~06~
+180 ~04~~16~~07~
+207~04~~16~~08~170~04~~16~~09~
+2do Mundo~04~~00~#035
+|1033
+@002FED0F-002FF104-00
+;002FED0F{~11~  A simple outlaw=  that fights for=  pleasure. Auroch=  taunts anything that=  crosses his path.~00~}#105#099
+~11~
+  Un simple forajido=
+  que pelea por=
+  placer. Auroch se=
+  burla de todo lo que=
+  se le cruza.\  ~00~#099
+;002FED72{~04~~12~~02~VOODOO~07~~00~}#026#011
+~04~~12~~02~VOODOO~07~~00~#011
+;002FED7D{~05~~00~}#008#002
+~05~~00~#002
+;002FED7F{~06~~02~~04~~16~~06~5'8~04~~16~~07~143~04~~16~~08~27~04~~16~~09~Haiti~04~~00~}#077#029
+~06~~02~~04~~16~~06~
+173~04~~16~~07~
+65 ~04~~16~~08~27~04~~16~~09~Haití~04~~00~#029
+;002FED9C{~11~  Many have fallen prey=  to Voodoo's ancient =  magic. She uses her=  power to hunt Sett's=  enemies.~00~}#110#104
+~11~
+  Muchos han caído=
+  presa de la antigua=
+  magia de Voodoo.=
+  Con ella caza a=
+  enemigos de Sett.\    ~00~#104
+;002FEE04{~04~~10~~02~COLONEL~07~~00~}#027#012
+~04~~10~~02~CORONEL~07~~00~#012
+;002FEE10{~05~~00~}#008#002
+~05~~00~#002
+;002FEE12{~06~~02~~04~~16~~06~6'4~04~~16~~07~357~04~~16~~08~42~04~~16~~09~Bio Corp~04~~00~}#080#032
+~06~~02~~04~~16~~06~
+193~04~~16~~07~
+162~04~~16~~08~42~04~~16~~09~Bio Corp~04~~00~#032
+;002FEE32{~11~  A celestial champion.=  Battered, shattered,=  and almost dead,=  Colonel was found by=  Beast on an obscure=  battlefield, the sole=  survivor of a fierce=  struggle.~00~}#177#171
+~11~
+  Campeón celestial.=
+  Golpeado, destrozado=
+  y casi muerto,=
+  Beast halló al=
+  Coronel en un oscuro=
+  campo de batalla,=
+  único superviviente=
+  de una feroz=
+  batalla.\~00~#171
+;002FEEDD{~00~}#004#001
+~00~#001
+;002FEEDE{~04~~0E~~02~DIESEL~07~~00~}#026#011
+~04~~0E~~02~DIESEL~07~~00~#011
+;002FEEE9{~05~~00~}#008#002
+~05~~00~#002
+;002FEEEB{~06~~02~~04~~16~~06~6'1~04~~16~~07~205~04~~16~~08~30~04~~16~~09~USA~04~~00~}#075#027
+~06~~02~~04~~16~~06~
+185~04~~16~~07~
+93 ~04~~16~~08~30~04~~16~~09~EUA~04~~00~#027
+;002FEF06{~11~  A longshoreman from the=  San Francisco docks,=  he spends more time=  brawling than handling=  cargo.~00~}#112#106
+~11~
+  Un estibador de los=
+  muelles de San=
+  Francisco, pasa más=
+  tiempo peleando que=
+  manejando carga.\  ~00~#106
+;002FEF70{~00~}#004#001
+~00~#001
+;002FEF71{~04~~12~~02~LEOTSU~07~~00~}#026#011
+~04~~12~~02~LEOTSU~07~~00~#011
+;002FEF7C{~05~~00~}#008#002
+~05~~00~#002
+;002FEF7E{~06~~02~~04~~16~~06~5'4~04~~16~~07~118~04~~16~~08~500~04~~16~~09~Far East~04~~00~}#081#033
+~06~~02~~04~~16~~06~
+163~04~~16~~07~
+54 ~04~~16~~08~500~04~~16~~09~
+Oriental~04~~00~#033
+;002FEF9F{~11~  The last grand master=  of an ancient martial=  art, one that remains=  a mystery to the other=  masters.~00~}#115#109
+~11~
+  Último gran maestro=
+  de una antigua arte=
+  marcial, una que es=
+  un misterio para los=
+  otros maestros.\~00~#109
+;002FF00C{~00~}#004#001
+~00~#001
+;002FF00D{~04~~12~~02~RAJAH~07~~00~}#025#010
+~04~~12~~02~RAJAH~07~~00~#010
+;002FF017{~05~~00~}#008#002
+~05~~00~#002
+;002FF019{~06~~02~~04~~16~~06~5'11~04~~16~~07~210~04~~16~~08~38~04~~16~~09~2nd World~04~~00~}#082#034
+~06~~02~~04~~16~~06~
+180 ~04~~16~~07~
+95 ~04~~16~~08~38~04~~16~~09~
+2do Mundo~04~~00~#034
+;002FF03B{~11~  A young mystic and=  skilled swordsman,=  Rajah submitted to=  Sett's sorcery while=  exploring the=  netherplanes with=  his spirit.~00~}#143#137
+~11~
+  Un joven místico y=
+  hábil espadachín,=
+  se sometió a la=
+  hechicería de Sett=
+  explorando los=
+  planos inferiores=
+  con su espíritu.~00~#137
+;002FF0C4{~00~}#004#001
+~00~#001
+;002FF0C5{~07~~00~}#008#002
+~07~~00~#002
+;002FF0C7{~05~~00~}#008#002
+~05~~00~#002
+;002FF0C9{~06~~01~~04~~0F~~06~Height~04~~0F~~07~Weight~04~~0F~~08~Age~04~~0F~~09~Origin~04~~02~~0E~~07~~02~D~04~~04~~0F~~07~~00~}#118#046
+~06~~01~~04~~0F~~06~
+Altura~04~~0F~~07~
+Peso~04~~0F~~08~
+Edad ~04~~0F~~09~
+Origen~04~~02~~0E~~07~~02~D~04~~04~~0F~~07~~00~#046
+;002FF0F7{~05~~01~escription:~00~}#023#014
+~05~~01~escripción:~00~#014
+|1014
+@002FF166-002FF59C-00
+;002FF166{~06~~01~    Shaq-uriken==~06~~02~       FORW BACK FORW + A~00~}#062#047
+~06~~01~  Shaq-uriken==~06~~02~     ADLT ATRS ADLT + A\   ~00~#047
+;002FF195{~06~~01~    Inferno Kick==~06~~02~       DOWN FORW + C ~00~}#059#044
+~06~~01~  Patada Infierno==~06~~02~     ABJO ADLT + C\ ~00~#044
+;002FF1C1{~06~~01~    Lightning Jaws==~06~~02~       DOWN FORW + B~00~}#060#045
+~06~~01~  Fauces Relámpago==~06~~02~     ABJO ADLT + B\ ~00~#045
+;002FF1EE{~06~~01~    Burning Touch==~06~~02~       DOWN BACK + B~00~}#059#044
+~06~~01~  Toque Ardiente==~06~~02~     ABJO ATRS + B\  ~00~#044
+;002FF21A{~06~~01~    Mummy Wrap==~06~~02~       FORW DOWN BACK + B~00~}#061#046
+~06~~01~  Envuelve Momia==~06~~02~     ADLT ABJO ATRS + B~00~#046
+;002FF248{~06~~01~    Cosmic Missle==~06~~02~       DOWN BACK + C~00~}#059#044
+~06~~01~  Misil Cósmico==~06~~02~     ABJO ATRS + C\   ~00~#044
+;002FF274{~06~~01~    Time Vault==~06~~02~       FORW BACK DOWN + A ~00~}#062#047
+~06~~01~  Baúl Temporal==~06~~02~     ADLT ATRS ABJO + A\ ~00~#047
+;002FF2A3{~06~~01~    Eno Blast==~06~~02~       DOWN BACK FORW + C ~00~}#061#046
+~06~~01~  Explosión Eno==~06~~02~     ABJO ATRS ADLT + C\~00~#046
+;002FF2D1{~06~~01~    Cyclone==~06~~02~       DOWN BACK + C~00~}#053#038
+~06~~01~  Ciclón==~06~~02~     ABJO ATRS + C\    ~00~#038
+;002FF2F7{~06~~01~    Cat's Claw==~06~~02~       DOWN BACK + B~00~}#056#041
+~06~~01~  Garra de Gato==~06~~02~     ABJO ATRS + B\~00~#041
+;002FF320{~06~~01~    Spitfire==~06~~02~       DOWN FORW + B~00~}#054#039
+~06~~01~  Escupe Fuego==~06~~02~     ABJO ADLT + B~00~#039
+;002FF347{~06~~01~    Thermal Blast==~06~~02~       DOWN BACK + B~00~}#059#044
+~06~~01~  Explosión Termal==~06~~02~     ABJO ATRS + B\~00~#044
+;002FF373{~06~~01~    Boomerang==~06~~02~       BACK FORW + B ~00~}#056#041
+~06~~01~  Bumerán==~06~~02~     ATRS ADLT + B\      ~00~#041
+;002FF39C{~06~~01~    Ball and Pain==~06~~02~       FORW DOWN BACK + C ~00~}#065#050
+~06~~01~  Bola y Dolor==~06~~02~     ADLT ABJO ATRS + C\     ~00~#050
+;002FF3CE{~06~~01~    Earthquake==~06~~02~       FORW DOWN FORW + A~00~}#061#046
+~06~~01~  Terremoto==~06~~02~     ADLT ABJO ADLT + A\    ~00~#046
+;002FF3FC{~06~~01~    Eagle Claw==~06~~02~       BACK DOWN FORW + B~00~}#061#046
+~06~~01~  Garra Águila==~06~~02~     ATRS ABJO ADLT + B\ ~00~#046
+;002FF42A{~06~~01~    Heavy Metal==~06~~02~       DOWN FORW BACK + B ~00~}#063#048
+~06~~01~  Metal Pesado==~06~~02~     ABJO ADLT ATRS + B\   ~00~#048
+;002FF45A{~06~~01~    Bionic Burst==~06~~02~       DOWN FORW + B ~00~}#059#044
+~06~~01~  Ráfaga Biónica==~06~~02~     ABJO ADLT + B\  ~00~#044
+;002FF486{~06~~01~    Crate Crusher==~06~~02~       BACK DOWN BACK + B ~00~}#065#050
+~06~~01~  Aplastacajas==~06~~02~     ATRS ABJO ATRS + B\     ~00~#050
+;002FF4B8{~06~~01~    Dockside Dagger==~06~~02~       BACK FORW + B~00~}#061#046
+~06~~01~  Daga Portuaria==~06~~02~     ATRS ADLT + B\    ~00~#046
+;002FF4E6{~06~~01~    Blast Kai==~06~~02~       DOWN BACK FORW + B ~00~}#061#046
+~06~~01~  Explosión Kai==~06~~02~     ABJO ATRS ADLT + B\~00~#046
+;002FF514{~06~~01~    Bo Kai==~06~~02~       DOWN FORW + B ~00~}#053#038
+~06~~01~  Bo Kai==~06~~02~     ABJO ADLT + B\    ~00~#038
+;002FF53A{~06~~01~    Thunder Clap==~06~~02~       FORW DOWN FORW + B~00~}#063#048
+~06~~01~  Aplauso Trueno==~06~~02~     ADLT ABJO ADLT + B\ ~00~#048
+;002FF56A{~06~~01~    Sword Shockwave==~06~~02~       BACK DOWN BACK + C~00~}#066#051
+~06~~01~  Onda Choque Espada==~06~~02~     ATRS ABJO ATRS + C\~00~#051
+|1079

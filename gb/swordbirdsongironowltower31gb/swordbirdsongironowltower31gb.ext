@@ -1,0 +1,868 @@
+@00049C29-0004A054-00
+;00049C29{~02~You got a map for=this area!~00~}#036#030
+~02~You got a map for=this area!~00~#030
+;00049C47{~02~ Game saved.~00~}#020#014
+~02~ Game saved.~00~#014
+;00049C55{~02~Need Key to open~00~}#024#018
+~02~Need Key to open~00~#018
+;00049C67{~02~You got a key!~00~}#022#016
+~02~You got a key!~00~#016
+;00049C77{~02~ You are fully= healed.~00~}#031#025
+~02~ You are fully= healed.~00~#025
+;00049C90{~02~a door open=somewhere...~00~}#032#026
+~02~a door open=somewhere...~00~#026
+;00049CAA{~03~Starting a new=game will erase=your data...~00~}#051#045
+~03~Starting a new=game will erase=your data...~00~#045
+;00049CD7{~02~Do you want to=continue?~00~}#032#026
+~02~Do you want to=continue?~00~#026
+;00049CF1{~02~No save data=found...~00~}#029#023
+~02~No save data=found...~00~#023
+;00049D08{~02~IRON OWL TOWER:=NO TRESPASSERS!~00~}#039#033
+~02~IRON OWL TOWER:=NO TRESPASSERS!~00~#033
+;00049D29{~02~Seriously, we will=try to kill you...~00~}#045#039
+~02~Seriously, we will=try to kill you...~00~#039
+;00049D50{~02~You can't go back=now...~00~}#032#026
+~02~You can't go back=now...~00~#026
+;00049D6A{~03~The developer=didn't code this=area...~00~}#046#040
+~03~The developer=didn't code this=area...~00~#040
+;00049D92{~02~A door has opened=somewhere...~00~}#038#032
+~02~A door has opened=somewhere...~00~#032
+;00049DB2{~03~They sing a song=of a bird flying=above a vast ocean~00~}#060#054
+~03~They sing a song=of a bird flying=above a vast ocean~00~#054
+;00049DE8{~03~Faster than wind,=lighter than air,=the bird goes~00~}#057#051
+~03~Faster than wind,=lighter than air,=the bird goes~00~#051
+;00049E1B{~03~But the skies are=good and evil,=friend and foe~00~}#055#049
+~03~But the skies are=good and evil,=friend and foe~00~#049
+;00049E4C{~03~The children=of the sky shall=learn this lesson~00~}#055#049
+~03~The children=of the sky shall=learn this lesson~00~#049
+;00049E7D{~03~To the ground,=heavy as a rock,=the bird falls...~00~}#057#051
+~03~To the ground,=heavy as a rock,=the bird falls...~00~#051
+;00049EB0{~02~Hello, little one!~00~}#026#020
+~02~Hello, little one!~00~#020
+;00049EC4{~03~That was quite a=fall! Are you=alive?~00~}#045#039
+~03~That was quite a=fall! Are you=alive?~00~#039
+;00049EEB{~02~Wake up!~00~}#016#010
+~02~Wake up!~00~#010
+;00049EF5{~02~Oh hoo hoo!=There you are!~00~}#034#028
+~02~Oh hoo hoo!=There you are!~00~#028
+;00049F11{~03~Come closer! =Don't worry. =I don't peck!~00~}#049#043
+~03~Come closer! =Don't worry. =I don't peck!~00~#043
+;00049F3C{~02~Ah... I see.~00~}#020#014
+~02~Ah... I see.~00~#014
+;00049F4A{~03~You were on a=journey to another=place...~00~}#049#043
+~03~You were on a=journey to another=place...~00~#043
+;00049F75{~02~And got hit by a=storm?~00~}#031#025
+~02~And got hit by a=storm?~00~#025
+;00049F8E{~02~Well... that makes=sense...~00~}#035#029
+~02~Well... that makes=sense...~00~#029
+;00049FAB{~02~I guess I have bad=news for you...~00~}#042#036
+~02~I guess I have bad=news for you...~00~#036
+;00049FCF{~02~There there, don't=lose all hope~00~}#040#034
+~02~There there, don't=lose all hope~00~#034
+;00049FF1{~03~There is one way=out, but it won't=be easy...~00~}#053#047
+~03~There is one way=out, but it won't=be easy...~00~#047
+;0004A020{~03~Enter the Iron=Owl Tower, go all=the way to the top~00~}#059#053
+~03~Enter the Iron=Owl Tower, go all=the way to the top~00~#053
+|1068
+@0004A055-0004A469-00
+;0004A055{~03~The tower pierces=through the storm=clouds~00~}#050#044
+~03~The tower pierces=through the storm=clouds~00~#044
+;0004A081{~03~From there, you=can fly away and=escape~00~}#047#041
+~03~From there, you=can fly away and=escape~00~#041
+;0004A0AA{~03~Now listen, The=Iron Owls live in=the tower~00~}#051#045
+~03~Now listen, The=Iron Owls live in=the tower~00~#045
+;0004A0D7{~03~Evil things that=obey the cruel Owl=King.~00~}#049#043
+~03~Evil things that=obey the cruel Owl=King.~00~#043
+;0004A102{~03~The islanders=suffer under their=power~00~}#046#040
+~03~The islanders=suffer under their=power~00~#040
+;0004A12A{~03~If they get you,=the owls will=enslave you!~00~}#051#045
+~03~If they get you,=the owls will=enslave you!~00~#045
+;0004A157{~02~Oh ho hoh! You're=going anyways?!~00~}#041#035
+~02~Oh ho hoh! You're=going anyways?!~00~#035
+;0004A17A{~02~You are a brave=little bird!~00~}#036#030
+~02~You are a brave=little bird!~00~#030
+;0004A198{~02~It is dangerous to=go alone~00~}#035#029
+~02~It is dangerous to=go alone~00~#029
+;0004A1B5{~02~Take this...~00~}#020#014
+~02~Take this...~00~#014
+;0004A1C3{~02~You got a feather=sword!~00~}#032#026
+~02~You got a feather=sword!~00~#026
+;0004A1DD{~02~PRESS START TO=SEE INVENTORY~00~}#036#030
+~02~PRESS START TO=SEE INVENTORY~00~#030
+;0004A1FB{~03~Head north from=here, cross the=bridge~00~}#046#040
+~03~Head north from=here, cross the=bridge~00~#040
+;0004A223{~02~The tower waits=for you...~00~}#034#028
+~02~The tower waits=for you...~00~#028
+;0004A23F{~02~Good luck, little=one!~00~}#030#024
+~02~Good luck, little=one!~00~#024
+;0004A257{~02~MANGO'S HOUSE~00~}#021#015
+~02~MANGO'S HOUSE~00~#015
+;0004A266{~02~It is small but=very cozy~00~}#033#027
+~02~It is small but=very cozy~00~#027
+;0004A281{~02~PRESS SELECT TO=VIEW MAP~00~}#032#026
+~02~PRESS SELECT TO=VIEW MAP~00~#026
+;0004A29B{~03~Hello there...=don't mind me, I'm=just too tired~00~}#056#050
+~03~Hello there...=don't mind me, I'm=just too tired~00~#050
+;0004A2CD{~02~Being a seal is so=hard these days...~00~}#045#039
+~02~Being a seal is so=hard these days...~00~#039
+;0004A2F4{~02~So many taxes to=pay... oh boy~00~}#038#032
+~02~So many taxes to=pay... oh boy~00~#032
+;0004A314{~03~I wish I had time=to get away from=this beach~00~}#053#047
+~03~I wish I had time=to get away from=this beach~00~#047
+;0004A343{~02~Go into the jungle=and explore~00~}#038#032
+~02~Go into the jungle=and explore~00~#032
+;0004A363{~02~So much stuff that=I've never seen...~00~}#045#039
+~02~So much stuff that=I've never seen...~00~#039
+;0004A38A{~02~Have you ever seen=a flower before?~00~}#043#037
+~02~Have you ever seen=a flower before?~00~#037
+;0004A3AF{~02~I've never seen=one in my life!~00~}#039#033
+~02~I've never seen=one in my life!~00~#033
+;0004A3D0{~02~One day... who=knows...~00~}#031#025
+~02~One day... who=knows...~00~#025
+;0004A3E9{~02~But first...=taxes!~00~}#027#021
+~02~But first...=taxes!~00~#021
+;0004A3FE{~03~Wait! Is this a...=FLOWER?! I can't=believe it!~00~}#055#049
+~03~Wait! Is this a...=FLOWER?! I can't=believe it!~00~#049
+;0004A42F{~03~I am seeing=one with my own=eyes!~00~}#041#035
+~03~I am seeing=one with my own=eyes!~00~#035
+;0004A452{~02~Can I have it?=Please!~00~}#030#024
+~02~Can I have it?=Please!~00~#024
+|1045
+@0004A46A-0004A870-00
+;0004A46A{~02~It is so=beautiful!~00~}#027#021
+~02~It is so=beautiful!~00~#021
+;0004A47F{~02~Here! Take this as=my thanks!~00~}#037#031
+~02~Here! Take this as=my thanks!~00~#031
+;0004A49E{~02~You got Sea Star!~00~}#025#019
+~02~You got Sea Star!~00~#019
+;0004A4B1{~02~This Sea Star is=very valuable~00~}#038#032
+~02~This Sea Star is=very valuable~00~#032
+;0004A4D1{~03~Don't forget to=declare it in your=next Tax Return.~00~}#059#053
+~03~Don't forget to=declare it in your=next Tax Return.~00~#053
+;0004A506{~02~I don't wanna go=back to the water~00~}#042#036
+~02~I don't wanna go=back to the water~00~#036
+;0004A52A{~02~It will ruin my=precious flower~00~}#039#033
+~02~It will ruin my=precious flower~00~#033
+;0004A54B{~03~Is this a...=FLOWER?! I can't=believe it!~00~}#049#043
+~03~Is this a...=FLOWER?! I can't=believe it!~00~#043
+;0004A576{~02~Ki kih! I've never=seen you before...~00~}#045#039
+~02~Ki kih! I've never=seen you before...~00~#039
+;0004A59D{~03~Are you the one=who fell from the=sky?~00~}#046#040
+~03~Are you the one=who fell from the=sky?~00~#040
+;0004A5C5{~03~I need to get into=the tower, but=it's too dangerous~00~}#060#054
+~03~I need to get into=the tower, but=it's too dangerous~00~#054
+;0004A5FB{~03~My friend was=taken inside by=the Owls~00~}#046#040
+~03~My friend was=taken inside by=the Owls~00~#040
+;0004A623{~02~He is a slave now!=Ki kih! So sad!~00~}#042#036
+~02~He is a slave now!=Ki kih! So sad!~00~#036
+;0004A647{~03~Please! If you see=my friend, give=this to him!~00~}#055#049
+~03~Please! If you see=my friend, give=this to him!~00~#049
+;0004A678{~02~You got Curry!~00~}#022#016
+~02~You got Curry!~00~#016
+;0004A688{~03~My friend works in=a freezing place=in the tower~00~}#056#050
+~03~My friend works in=a freezing place=in the tower~00~#050
+;0004A6BA{~02~Please hurry! He=must be hungry!~00~}#040#034
+~02~Please hurry! He=must be hungry!~00~#034
+;0004A6DC{~03~Ki kih! I'm so=happy to hear that=my friend is ok!~00~}#058#052
+~03~Ki kih! I'm so=happy to hear that=my friend is ok!~00~#052
+;0004A710{~02~Thank you,=stranger!~00~}#028#022
+~02~Thank you,=stranger!~00~#022
+;0004A726{~02~You're a nice=stranger! Ki kih!~00~}#039#033
+~02~You're a nice=stranger! Ki kih!~00~#033
+;0004A747{~02~Oh! You found me!~00~}#025#019
+~02~Oh! You found me!~00~#019
+;0004A75A{~03~I'll tell you the=secrets of this=area.~00~}#047#041
+~03~I'll tell you the=secrets of this=area.~00~#041
+;0004A783{~02~Hints have been=added to the map~00~}#040#034
+~02~Hints have been=added to the map~00~#034
+;0004A7A5{~02~You don't have a=map, do ya?~00~}#036#030
+~02~You don't have a=map, do ya?~00~#030
+;0004A7C3{~02~Come back to me=when you find one.~00~}#042#036
+~02~Come back to me=when you find one.~00~#036
+;0004A7E7{~02~You got an =energy cell!~00~}#032#026
+~02~You got an =energy cell!~00~#026
+;0004A801{~02~Oy! Who goes=there?!~00~}#028#022
+~02~Oy! Who goes=there?!~00~#022
+;0004A817{~02~Stop! In the name=of the Owl King!~00~}#042#036
+~02~Stop! In the name=of the Owl King!~00~#036
+;0004A83B{~02~First Map Added~00~}#023#017
+~02~First Map Added~00~#017
+;0004A84C{~02~First Map Removed~00~}#025#019
+~02~First Map Removed~00~#019
+;0004A85F{~02~Area Number $09$~00~}#024#018
+~02~Area Number $09$~00~#018
+|1031
+@0004A871-0004AC79-00
+;0004A871{~02~Energy is $06$~00~}#022#016
+~02~Energy is $06$~00~#016
+;0004A881{~02~Key number is $02$~00~}#026#020
+~02~Key number is $02$~00~#020
+;0004A895{~02~Battery Added~00~}#021#015
+~02~Battery Added~00~#015
+;0004A8A4{~02~Battery Removed~00~}#023#017
+~02~Battery Removed~00~#017
+;0004A8B5{~02~Battery Boost is=$17$~00~}#029#023
+~02~Battery Boost is=$17$~00~#023
+;0004A8CC{~02~Sword Boost is=$16$~00~}#027#021
+~02~Sword Boost is=$16$~00~#021
+;0004A8E1{~02~No Trade Item~00~}#021#015
+~02~No Trade Item~00~#015
+;0004A8F0{~02~You now have Curry~00~}#026#020
+~02~You now have Curry~00~#020
+;0004A904{~02~You now have Water~00~}#026#020
+~02~You now have Water~00~#020
+;0004A918{~02~You now have=Flower~00~}#027#021
+~02~You now have=Flower~00~#021
+;0004A92D{~02~You now have Sea=Star~00~}#029#023
+~02~You now have Sea=Star~00~#023
+;0004A944{~02~You now have=Broken Lever~00~}#033#027
+~02~You now have=Broken Lever~00~#027
+;0004A95F{~02~No Master Key~00~}#021#015
+~02~No Master Key~00~#015
+;0004A96E{~02~You now have Steel=Key~00~}#030#024
+~02~You now have Steel=Key~00~#024
+;0004A986{~02~You now have Ice=Key~00~}#028#022
+~02~You now have Ice=Key~00~#022
+;0004A99C{~02~You now have=Leaf Key~00~}#029#023
+~02~You now have=Leaf Key~00~#023
+;0004A9B3{~02~Who am I?~00~}#017#011
+~02~Who am I?~00~#011
+;0004A9BE{~02~I used to be a=traveller like you~00~}#041#035
+~02~I used to be a=traveller like you~00~#035
+;0004A9E1{~02~But now I am just=a friend~00~}#034#028
+~02~But now I am just=a friend~00~#028
+;0004A9FD{~02~What about you,=little one?~00~}#035#029
+~02~What about you,=little one?~00~#029
+;0004AA1A{~03~What brings you =to this remote=island?~00~}#047#041
+~03~What brings you =to this remote=island?~00~#041
+;0004AA43{~04~Can you see that=tower in the=center of this=island?~00~}#060#054
+~04~Can you see that=tower in the=center of this=island?~00~#054
+;0004AA79{~02~It is called the=Iron Owl Tower~00~}#039#033
+~02~It is called the=Iron Owl Tower~00~#033
+;0004AA9A{~02~It is surrounded=by a magic storm~00~}#041#035
+~02~It is surrounded=by a magic storm~00~#035
+;0004AABD{~03~Everyone who gets=too close is=dragged here~00~}#051#045
+~03~Everyone who gets=too close is=dragged here~00~#045
+;0004AAEA{~02~If you try to fly=away from here,~00~}#041#035
+~02~If you try to fly=away from here,~00~#035
+;0004AB0D{~02~The storm will=catch you again!~00~}#039#033
+~02~The storm will=catch you again!~00~#033
+;0004AB2E{~02~You are trapped on=this island now...~00~}#045#039
+~02~You are trapped on=this island now...~00~#039
+;0004AB55{~02~Oh ho hoh! Hello=again little one!~00~}#042#036
+~02~Oh ho hoh! Hello=again little one!~00~#036
+;0004AB79{~02~How did I get=here, you ask?~00~}#036#030
+~02~How did I get=here, you ask?~00~#030
+;0004AB97{~02~I'm very good with=directions! ho ho!~00~}#045#039
+~02~I'm very good with=directions! ho ho!~00~#039
+;0004ABBE{~03~I wouldn't let you=come here alone.=It's too dangerous~00~}#062#056
+~03~I wouldn't let you=come here alone.=It's too dangerous~00~#056
+;0004ABF6{~02~This is the=elevator room~00~}#033#027
+~02~This is the=elevator room~00~#027
+;0004AC11{~03~This platform will=take you to the=top of the tower~00~}#059#053
+~03~This platform will=take you to the=top of the tower~00~#053
+;0004AC46{~02~Go ahead, my=friend! Try it!~00~}#036#030
+~02~Go ahead, my=friend! Try it!~00~#030
+;0004AC64{~02~Now go, =little one!~00~}#028#022
+~02~Now go, =little one!~00~#022
+|1033
+@0004AC7A-0004B08B-00
+;0004AC7A{~02~Step on that=elevator and rise!~00~}#039#033
+~02~Step on that=elevator and rise!~00~#033
+;0004AC9B{~02~Elevator activated~00~}#026#020
+~02~Elevator activated~00~#020
+;0004ACAF{~02~Hmmm... =let me see...~00~}#030#024
+~02~Hmmm... =let me see...~00~#024
+;0004ACC7{~02~This battery is=not only dry~00~}#036#030
+~02~This battery is=not only dry~00~#030
+;0004ACE5{~02~but it's also=broken!~00~}#029#023
+~02~but it's also=broken!~00~#023
+;0004ACFC{~03~You will have to=fix and recharge=it to go up~00~}#053#047
+~03~You will have to=fix and recharge=it to go up~00~#047
+;0004AD2B{~03~Well, it's your=lucky day, my=friend!~00~}#045#039
+~03~Well, it's your=lucky day, my=friend!~00~#039
+;0004AD52{~03~I actually have a=PhD in Battery=Sciences!~00~}#050#044
+~03~I actually have a=PhD in Battery=Sciences!~00~#044
+;0004AD7E{~02~I can help you to=fix it!~00~}#033#027
+~02~I can help you to=fix it!~00~#027
+;0004AD99{~02~These things=always break~00~}#033#027
+~02~These things=always break~00~#027
+;0004ADB4{~03~And the Owls=have the equipment=to fix them!~00~}#052#046
+~03~And the Owls=have the equipment=to fix them!~00~#046
+;0004ADE2{~02~This is how you=fix it...~00~}#033#027
+~02~This is how you=fix it...~00~#027
+;0004ADFD{~02~It's just 3 steps!~00~}#026#020
+~02~It's just 3 steps!~00~#020
+;0004AE11{~02~First, freeze the=battery!~00~}#034#028
+~02~First, freeze the=battery!~00~#028
+;0004AE2D{~03~That area of the=tower is called=Icra~00~}#045#039
+~03~That area of the=tower is called=Icra~00~#039
+;0004AE54{~02~It's freezing cold=in there~00~}#035#029
+~02~It's freezing cold=in there~00~#029
+;0004AE71{~03~Somewhere inside,=you can find a way=to freeze it!~00~}#058#052
+~03~Somewhere inside,=you can find a way=to freeze it!~00~#052
+;0004AEA5{~02~Second, fix the=components!~00~}#035#029
+~02~Second, fix the=components!~00~#029
+;0004AEC2{~03~That area of the=tower is called=Factoria~00~}#049#043
+~03~That area of the=tower is called=Factoria~00~#043
+;0004AEED{~03~It's where the=Owls produce their=equipment~00~}#051#045
+~03~It's where the=Owls produce their=equipment~00~#045
+;0004AF1A{~03~Somewhere inside,=you can find a way=to fix it!~00~}#055#049
+~03~Somewhere inside,=you can find a way=to fix it!~00~#049
+;0004AF4B{~02~Last, recharge the=battery!~00~}#035#029
+~02~Last, recharge the=battery!~00~#029
+;0004AF68{~03~That area of the=tower is called=Gardenia~00~}#049#043
+~03~That area of the=tower is called=Gardenia~00~#043
+;0004AF93{~03~It's where the=energy of this=tower comes from~00~}#054#048
+~03~It's where the=energy of this=tower comes from~00~#048
+;0004AFC3{~03~Somewhere inside,=you can find a way=to recharge it!~00~}#060#054
+~03~Somewhere inside,=you can find a way=to recharge it!~00~#054
+;0004AFF9{~02~Now go, my little=friend!~00~}#033#027
+~02~Now go, my little=friend!~00~#027
+;0004B014{~03~Find your way to=the end of these =3 areas~00~}#050#044
+~03~Find your way to=the end of these =3 areas~00~#044
+;0004B040{~03~Soon you will be=off of this=island!~00~}#044#038
+~03~Soon you will be=off of this=island!~00~#038
+;0004B066{~02~Remember: Freeze,=Fix, and Recharge!~00~}#044#038
+~02~Remember: Freeze,=Fix, and Recharge!~00~#038
+|1042
+@0004B08C-0004B4A3-00
+;0004B08C{~02~The Battery is not=ready yet...~00~}#039#033
+~02~The Battery is not=ready yet...~00~#033
+;0004B0AD{~02~Find your way into=the Icra area~00~}#040#034
+~02~Find your way into=the Icra area~00~#034
+;0004B0CF{~03~You can freeze it=somewhere inside=there.~00~}#049#043
+~03~You can freeze it=somewhere inside=there.~00~#043
+;0004B0FA{~02~Find your way into=the Factoria area~00~}#044#038
+~02~Find your way into=the Factoria area~00~#038
+;0004B120{~03~You can fix it=somewhere inside=there.~00~}#046#040
+~03~You can fix it=somewhere inside=there.~00~#040
+;0004B148{~02~Find your way into=the Gardenia area~00~}#044#038
+~02~Find your way into=the Gardenia area~00~#038
+;0004B16E{~03~You can recharge=it somewhere=inside there.~00~}#051#045
+~03~You can recharge=it somewhere=inside there.~00~#045
+;0004B19B{~02~Oh ho hoh! Good=job little one!~00~}#039#033
+~02~Oh ho hoh! Good=job little one!~00~#033
+;0004B1BC{~02~You fixed the=Battery!~00~}#030#024
+~02~You fixed the=Battery!~00~#024
+;0004B1D4{~02~Go on! Put it back=on the elevator!~00~}#043#037
+~02~Go on! Put it back=on the elevator!~00~#037
+;0004B1F9{~03~You can go to the=top of the tower=now!~00~}#047#041
+~03~You can go to the=top of the tower=now!~00~#041
+;0004B222{~02~Elevator has been=activated~00~}#035#029
+~02~Elevator has been=activated~00~#029
+;0004B23F{~02~ERROR: Battery=depleted...~00~}#034#028
+~02~ERROR: Battery=depleted...~00~#028
+;0004B25B{~03~Oh! I was=suspecting that=this could happen~00~}#051#045
+~03~Oh! I was=suspecting that=this could happen~00~#045
+;0004B288{~02~The elevator's=battery is dry~00~}#037#031
+~02~The elevator's=battery is dry~00~#031
+;0004B2A7{~03~Let me have a look=at it. Bring it to=me please...~00~}#058#052
+~03~Let me have a look=at it. Bring it to=me please...~00~#052
+;0004B2DB{~02~You got a Battery!~00~}#026#020
+~02~You got a Battery!~00~#020
+;0004B2EF{~02~Battery depleted.=No response...~00~}#040#034
+~02~Battery depleted.=No response...~00~#034
+;0004B311{~02~Battery is not=ready yet.~00~}#033#027
+~02~Battery is not=ready yet.~00~#027
+;0004B32C{~02~Battery Inserted~00~}#024#018
+~02~Battery Inserted~00~#018
+;0004B33E{~02~Elevator is now=ready to operate~00~}#040#034
+~02~Elevator is now=ready to operate~00~#034
+;0004B360{~02~It is time=my little friend ~00~}#036#030
+~02~It is time=my little friend ~00~#030
+;0004B37E{~02~There is no=turning back now~00~}#036#030
+~02~There is no=turning back now~00~#030
+;0004B39C{~02~I guess this is a=goodbye...~00~}#036#030
+~02~I guess this is a=goodbye...~00~#030
+;0004B3BA{~02~Oh! What's that?~00~}#024#018
+~02~Oh! What's that?~00~#018
+;0004B3CC{~03~Are you unsure=what's going to=happen with us?~00~}#054#048
+~03~Are you unsure=what's going to=happen with us?~00~#048
+;0004B3FC{~03~Hoh ho ho! That's=very nice of you=little one~00~}#053#047
+~03~Hoh ho ho! That's=very nice of you=little one~00~#047
+;0004B42B{~03~Well, It's your=lucky day, my=friend!~00~}#045#039
+~03~Well, It's your=lucky day, my=friend!~00~#039
+;0004B452{~03~Not that way!=Let's finish this=first, my friend.~00~}#057#051
+~03~Not that way!=Let's finish this=first, my friend.~00~#051
+;0004B485{~02~Get out of here=while you can~00~}#037#031
+~02~Get out of here=while you can~00~#031
+|1048
+@0004B4A4-0004B8AF-00
+;0004B4A4{~02~The Owl King will=get you~00~}#033#027
+~02~The Owl King will=get you~00~#027
+;0004B4BF{~02~And force you to=work here~00~}#034#028
+~02~And force you to=work here~00~#028
+;0004B4DB{~02~As he did with=me...~00~}#028#022
+~02~As he did with=me...~00~#022
+;0004B4F1{~02~It is so cold in=this place~00~}#035#029
+~02~It is so cold in=this place~00~#029
+;0004B50E{~03~A hot meal right=now would help a=lot!~00~}#046#040
+~03~A hot meal right=now would help a=lot!~00~#040
+;0004B536{~03~Oh! You brought=Curry from my=friends?!~00~}#047#041
+~03~Oh! You brought=Curry from my=friends?!~00~#041
+;0004B55F{~02~It smells so good!~00~}#026#020
+~02~It smells so good!~00~#020
+;0004B573{~03~This is delicious=and will keep me=warm!~00~}#048#042
+~03~This is delicious=and will keep me=warm!~00~#042
+;0004B59D{~02~Thank you so much!~00~}#026#020
+~02~Thank you so much!~00~#020
+;0004B5B1{~02~Please, take=this...~00~}#028#022
+~02~Please, take=this...~00~#022
+;0004B5C7{~02~You got Fresh=Water!~00~}#028#022
+~02~You got Fresh=Water!~00~#022
+;0004B5DD{~03~This water comes=straight from=these ice walls~00~}#054#048
+~03~This water comes=straight from=these ice walls~00~#048
+;0004B60D{~02~Plants will love=it! ~00~}#029#023
+~02~Plants will love=it! ~00~#023
+;0004B624{~02~While the Owl King=rules~00~}#032#026
+~02~While the Owl King=rules~00~#026
+;0004B63E{~02~I will be working=here~00~}#030#024
+~02~I will be working=here~00~#024
+;0004B656{~02~I wanna go home...~00~}#026#020
+~02~I wanna go home...~00~#020
+;0004B66A{~02~You got the =Steel Key!~00~}#031#025
+~02~You got the =Steel Key!~00~#025
+;0004B683{~02~Console Activated~00~}#025#019
+~02~Console Activated~00~#019
+;0004B696{~02~COMMAND:=Open Main Gate 3~00~}#033#027
+~02~COMMAND:=Open Main Gate 3~00~#027
+;0004B6B1{~03~This door needs =a special key =to open~00~}#047#041
+~03~This door needs =a special key =to open~00~#041
+;0004B6DA{~02~I apologize,=stranger~00~}#029#023
+~02~I apologize,=stranger~00~#023
+;0004B6F1{~03~But I cannot let=you proceed any=further...~00~}#051#045
+~03~But I cannot let=you proceed any=further...~00~#045
+;0004B71E{~02~I have tried to=ask you nicely~00~}#038#032
+~02~I have tried to=ask you nicely~00~#032
+;0004B73E{~02~But you left me=no other choice~00~}#039#033
+~02~But you left me=no other choice~00~#033
+;0004B75F{~02~Prepare yourself!~00~}#025#019
+~02~Prepare yourself!~00~#019
+;0004B772{~03~Do you want to =escape this=island? ~00~}#044#038
+~03~Do you want to =escape this=island? ~00~#038
+;0004B798{~02~You better get in=the line~00~}#034#028
+~02~You better get in=the line~00~#028
+;0004B7B4{~03~I've been waiting=for this chance=for a long time~00~}#057#051
+~03~I've been waiting=for this chance=for a long time~00~#051
+;0004B7E7{~02~Now give me the=battery!~00~}#032#026
+~02~Now give me the=battery!~00~#026
+;0004B801{~03~ATTENTION:=Do not lick the=ice walls!~00~}#045#039
+~03~ATTENTION:=Do not lick the=ice walls!~00~#039
+;0004B828{~02~If you're thirsty,=look for the~00~}#039#033
+~02~If you're thirsty,=look for the~00~#033
+;0004B849{~02~closest water=station.~00~}#030#024
+~02~closest water=station.~00~#024
+;0004B861{~02~- Message approved=by the Owl King -~00~}#044#038
+~02~- Message approved=by the Owl King -~00~#038
+;0004B887{~03~Must activate=all triggers to=get in...~00~}#047#041
+~03~Must activate=all triggers to=get in...~00~#041
+|1036
+@0004B8B0-0004BCAF-00
+;0004B8B0{~02~The floor is too=slippery here...~00~}#041#035
+~02~The floor is too=slippery here...~00~#035
+;0004B8D3{~02~Trigger activated=in the next room~00~}#042#036
+~02~Trigger activated=in the next room~00~#036
+;0004B8F7{~02~I've tried my best=to make you see...~00~}#045#039
+~02~I've tried my best=to make you see...~00~#039
+;0004B91E{~02~But I can't stop=you...~00~}#031#025
+~02~But I can't stop=you...~00~#025
+;0004B937{~02~Good luck bird=hero!~00~}#028#022
+~02~Good luck bird=hero!~00~#022
+;0004B94D{~02~Battery inserted~00~}#024#018
+~02~Battery inserted~00~#018
+;0004B95F{~02~Initiating=freezing process~00~}#035#029
+~02~Initiating=freezing process~00~#029
+;0004B97C{~02~Process Completed~00~}#025#019
+~02~Process Completed~00~#019
+;0004B98F{~02~The battery is now=frozen!~00~}#034#028
+~02~The battery is now=frozen!~00~#028
+;0004B9AB{~02~Next step is to=fix it!~00~}#031#025
+~02~Next step is to=fix it!~00~#025
+;0004B9C4{~02~COMMAND:=Open East Gate 2~00~}#033#027
+~02~COMMAND:=Open East Gate 2~00~#027
+;0004B9DF{~02~COMMAND:=Open Main Gate 1~00~}#033#027
+~02~COMMAND:=Open Main Gate 1~00~#027
+;0004B9FA{~02~COMMAND:=Open East Gate 1~00~}#033#027
+~02~COMMAND:=Open East Gate 1~00~#027
+;0004BA15{~02~COMMAND:=Open Main Gate 2~00~}#033#027
+~02~COMMAND:=Open Main Gate 2~00~#027
+;0004BA30{~02~COMMAND:=Open West Gate 2~00~}#033#027
+~02~COMMAND:=Open West Gate 2~00~#027
+;0004BA4B{~02~COMMAND:=Open West Gate 1~00~}#033#027
+~02~COMMAND:=Open West Gate 1~00~#027
+;0004BA66{~02~COMMAND:=Open West Gate 3~00~}#033#027
+~02~COMMAND:=Open West Gate 3~00~#027
+;0004BA81{~04~ATTENTION:=Factoria's=consoles are not=toys!~00~}#052#046
+~04~ATTENTION:=Factoria's=consoles are not=toys!~00~#046
+;0004BAAF{~03~If you want to=play with=consoles,~00~}#042#036
+~03~If you want to=play with=consoles,~00~#036
+;0004BAD3{~02~we recommend the=NES or SNES.~00~}#037#031
+~02~we recommend the=NES or SNES.~00~#031
+;0004BAF2{~02~You got the =Sharp Coin!~00~}#032#026
+~02~You got the =Sharp Coin!~00~#026
+;0004BB0C{~02~When attached to=the Feather Sword,~00~}#043#037
+~02~When attached to=the Feather Sword,~00~#037
+;0004BB31{~02~it makes your=sword sharper!~00~}#036#030
+~02~it makes your=sword sharper!~00~#030
+;0004BB4F{~03~The Broken Lever=fits perfectly=here!~00~}#045#039
+~03~The Broken Lever=fits perfectly=here!~00~#039
+;0004BB76{~02~The lever is=fixed!~00~}#027#021
+~02~The lever is=fixed!~00~#021
+;0004BB8B{~02~This should open=this gate~00~}#034#028
+~02~This should open=this gate~00~#028
+;0004BBA7{~02~But the lever is=missing...~00~}#035#029
+~02~But the lever is=missing...~00~#029
+;0004BBC4{~02~Initiating=fixing process~00~}#033#027
+~02~Initiating=fixing process~00~#027
+;0004BBDF{~02~The battery is now=fixed!~00~}#033#027
+~02~The battery is now=fixed!~00~#027
+;0004BBFA{~02~Next step is=to recharge it!~00~}#036#030
+~02~Next step is=to recharge it!~00~#030
+;0004BC18{~02~Battery is not=ready to recharge~00~}#040#034
+~02~Battery is not=ready to recharge~00~#034
+;0004BC3A{~02~Remember: Freeze,=Fix and Recharge!~00~}#043#037
+~02~Remember: Freeze,=Fix and Recharge!~00~#037
+;0004BC5F{~02~Rich! I'm gonna be=filthy rich!~00~}#039#033
+~02~Rich! I'm gonna be=filthy rich!~00~#033
+;0004BC80{~03~I infiltrated this=place looking for=treasures~00~}#054#048
+~03~I infiltrated this=place looking for=treasures~00~#048
+|1024
+@0004BCB0-0004C0C1-00
+;0004BCB0{~02~Just like you did!~00~}#026#020
+~02~Just like you did!~00~#020
+;0004BCC4{~03~You're a big=inspiration to me,=my friend!~00~}#050#044
+~03~You're a big=inspiration to me,=my friend!~00~#044
+;0004BCF0{~03~Hey listen! We're=partners in crime=here, ok?~00~}#053#047
+~03~Hey listen! We're=partners in crime=here, ok?~00~#047
+;0004BD1F{~03~If you find=anything valuable,=share it with me!~00~}#056#050
+~03~If you find=anything valuable,=share it with me!~00~#050
+;0004BD51{~02~Bring me a=treasure!~00~}#028#022
+~02~Bring me a=treasure!~00~#022
+;0004BD67{~03~Like the ones that=pirates hunt in=the seas!~00~}#052#046
+~03~Like the ones that=pirates hunt in=the seas!~00~#046
+;0004BD95{~03~What?! Where did=you find this Sea=Star?!~00~}#049#043
+~03~What?! Where did=you find this Sea=Star?!~00~#043
+;0004BDC0{~03~This must be worth=a fortune! Give it=to me!~00~}#052#046
+~03~This must be worth=a fortune! Give it=to me!~00~#046
+;0004BDEE{~03~I'll trade for =an incredible=treasure~00~}#046#040
+~03~I'll trade for =an incredible=treasure~00~#040
+;0004BE16{~02~You got Broken=Lever!~00~}#029#023
+~02~You got Broken=Lever!~00~#023
+;0004BE2D{~03~Thanks for your=business, my=friend!~00~}#044#038
+~03~Thanks for your=business, my=friend!~00~#038
+;0004BE53{~02~he he he he...~00~}#022#016
+~02~he he he he...~00~#016
+;0004BE63{~03~I'll trade for=an incredible=treasure~00~}#045#039
+~03~I'll trade for=an incredible=treasure~00~#039
+;0004BE8A{~02~We'll meet=again...~00~}#027#021
+~02~We'll meet=again...~00~#021
+;0004BE9F{~02~Bird hero...~00~}#020#014
+~02~Bird hero...~00~#014
+;0004BEAD{~02~You got the =Heavy Coin!~00~}#032#026
+~02~You got the =Heavy Coin!~00~#026
+;0004BEC7{~02~it makes your=sword stronger!~00~}#037#031
+~02~it makes your=sword stronger!~00~#031
+;0004BEE6{~02~Ugh... Who are=you?~00~}#027#021
+~02~Ugh... Who are=you?~00~#021
+;0004BEFB{~03~You're not=supposed to =be here...~00~}#042#036
+~03~You're not=supposed to =be here...~00~#036
+;0004BF1F{~02~No one is supposed=to be here...~00~}#040#034
+~02~No one is supposed=to be here...~00~#034
+;0004BF41{~02~Sorry, I'm not in=a good mood today~00~}#043#037
+~02~Sorry, I'm not in=a good mood today~00~#037
+;0004BF66{~02~My job is to keep=this garden alive~00~}#043#037
+~02~My job is to keep=this garden alive~00~#037
+;0004BF8B{~03~But I ran out of=water for the=plants~00~}#045#039
+~03~But I ran out of=water for the=plants~00~#039
+;0004BFB2{~03~The owls don't let=me go out to get=more... ugh~00~}#055#049
+~03~The owls don't let=me go out to get=more... ugh~00~#049
+;0004BFE3{~02~Just a little...~00~}#024#018
+~02~Just a little...~00~#018
+;0004BFF5{~02~Fight me!~00~}#017#011
+~02~Fight me!~00~#011
+;0004C000{~03~Oh! You DO have=some water with=you?!~00~}#045#039
+~03~Oh! You DO have=some water with=you?!~00~#039
+;0004C027{~03~Impressive... I've=never thought=you'd be useful~00~}#056#050
+~03~Impressive... I've=never thought=you'd be useful~00~#050
+;0004C059{~03~Appreciated. I=like you a little=bit more now~00~}#053#047
+~03~Appreciated. I=like you a little=bit more now~00~#047
+;0004C088{~02~Take this as proof=of my appreciation~00~}#045#039
+~02~Take this as proof=of my appreciation~00~#039
+;0004C0AF{~02~You got a Flower!~00~}#025#019
+~02~You got a Flower!~00~#019
+|1042
+@0004C0C2-0004C4DE-00
+;0004C0C2{~02~You know... people=love flowers~00~}#039#033
+~02~You know... people=love flowers~00~#033
+;0004C0E3{~02~Some idiot will=find this useful~00~}#040#034
+~02~Some idiot will=find this useful~00~#034
+;0004C105{~02~I hope it is =not you~00~}#029#023
+~02~I hope it is =not you~00~#023
+;0004C11C{~02~I ran out of water=for the plants~00~}#041#035
+~02~I ran out of water=for the plants~00~#035
+;0004C13F{~03~Oh! You do have=some water with=you?!~00~}#045#039
+~03~Oh! You do have=some water with=you?!~00~#039
+;0004C166{~02~Now I can water my=plants~00~}#033#027
+~02~Now I can water my=plants~00~#027
+;0004C181{~02~Yay... more work~00~}#024#018
+~02~Yay... more work~00~#018
+;0004C193{~03~Are you after that=badass bird with=the crystal ball?~00~}#061#055
+~03~Are you after that=badass bird with=the crystal ball?~00~#055
+;0004C1CA{~02~They passed by=here not long ago~00~}#040#034
+~02~They passed by=here not long ago~00~#034
+;0004C1EC{~03~I've warned them=that the Green=Maze lies ahead~00~}#055#049
+~03~I've warned them=that the Green=Maze lies ahead~00~#049
+;0004C21D{~02~But they went in=anyways~00~}#032#026
+~02~But they went in=anyways~00~#026
+;0004C237{~02~They must know the=way through...~00~}#041#035
+~02~They must know the=way through...~00~#035
+;0004C25A{~03~If you're going=inside the =Green Maze~00~}#046#040
+~03~If you're going=inside the =Green Maze~00~#040
+;0004C282{~03~Follow the tracks,=and you'll find=the exit~00~}#051#045
+~03~Follow the tracks,=and you'll find=the exit~00~#045
+;0004C2AF{~02~If you can't find=any tracks~00~}#036#030
+~02~If you can't find=any tracks~00~#030
+;0004C2CD{~02~Then follow your=guts! Go north!~00~}#040#034
+~02~Then follow your=guts! Go north!~00~#034
+;0004C2EF{~02~I don't know...~00~}#023#017
+~02~I don't know...~00~#017
+;0004C300{~03~If you're going=inside the Green=Maze~00~}#045#039
+~03~If you're going=inside the Green=Maze~00~#039
+;0004C327{~02~THE GREEN MAZE~00~}#022#016
+~02~THE GREEN MAZE~00~#016
+;0004C337{~03~Feeling lost?=It is ok to ask=for help.~00~}#047#041
+~03~Feeling lost?=It is ok to ask=for help.~00~#041
+;0004C360{~03~Call 777-OWL and=speak with a=counselor today!~00~}#054#048
+~03~Call 777-OWL and=speak with a=counselor today!~00~#048
+;0004C390{~02~You got the =Ice Key!~00~}#029#023
+~02~You got the =Ice Key!~00~#023
+;0004C3A7{~03~So you're trying=to recharge your=battery, huh?~00~}#055#049
+~03~So you're trying=to recharge your=battery, huh?~00~#049
+;0004C3D8{~03~You have enough=energy cells=already! Great!~00~}#052#046
+~03~You have enough=energy cells=already! Great!~00~#046
+;0004C406{~03~But your battery=is not ready to=charge yet!~00~}#052#046
+~03~But your battery=is not ready to=charge yet!~00~#046
+;0004C434{~03~You have to freeze=it and fix its=components~00~}#052#046
+~03~You have to freeze=it and fix its=components~00~#046
+;0004C462{~02~You can do that in=Icra and Factoria~00~}#044#038
+~02~You can do that in=Icra and Factoria~00~#038
+;0004C488{~03~You will need=to collect=energy cells~00~}#045#039
+~03~You will need=to collect=energy cells~00~#039
+;0004C4AF{~03~7 energy cells are=enough to recharge=it fully~00~}#054#048
+~03~7 energy cells are=enough to recharge=it fully~00~#048
+|1053
+@0004C4DF-0004C8E6-00
+;0004C4DF{~02~I guess...~00~}#018#012
+~02~I guess...~00~#012
+;0004C4EB{~03~Try to talk with=the little animals=around~00~}#050#044
+~03~Try to talk with=the little animals=around~00~#044
+;0004C517{~02~Some of them will=tell the secrets ~00~}#043#037
+~02~Some of them will=tell the secrets ~00~#037
+;0004C53C{~02~of the areas where=they live.~00~}#037#031
+~02~of the areas where=they live.~00~#031
+;0004C55B{~03~The secrets will=show in your area=map~00~}#046#040
+~03~The secrets will=show in your area=map~00~#040
+;0004C583{~02~If you have one...~00~}#026#020
+~02~If you have one...~00~#020
+;0004C597{~02~And you fixed=your battery too!~00~}#039#033
+~02~And you fixed=your battery too!~00~#033
+;0004C5B8{~03~You have=everything you=need!~00~}#037#031
+~03~You have=everything you=need!~00~#031
+;0004C5D7{~02~Go ahead! Enter=the chamber!~00~}#036#030
+~02~Go ahead! Enter=the chamber!~00~#030
+;0004C5F5{~02~Your battery is=ready to charge~00~}#039#033
+~02~Your battery is=ready to charge~00~#033
+;0004C616{~03~But you will need=to collect=energy cells~00~}#049#043
+~03~But you will need=to collect=energy cells~00~#043
+;0004C641{~02~of the areas where=they live~00~}#036#030
+~02~of the areas where=they live~00~#030
+;0004C65F{~02~Hey! You fixed it!=Good job!~00~}#036#030
+~02~Hey! You fixed it!=Good job!~00~#030
+;0004C67D{~02~Now you can use=that elevator~00~}#037#031
+~02~Now you can use=that elevator~00~#031
+;0004C69C{~03~I really hope the=Owl King doesn't=hurt you!~00~}#052#046
+~03~I really hope the=Owl King doesn't=hurt you!~00~#046
+;0004C6CA{~02~Be careful up=there, my friend!~00~}#039#033
+~02~Be careful up=there, my friend!~00~#033
+;0004C6EB{~03~Your battery is=ready to charge=but...~00~}#046#040
+~03~Your battery is=ready to charge=but...~00~#040
+;0004C713{~02~Counting energy=cells...~00~}#032#026
+~02~Counting energy=cells...~00~#026
+;0004C72D{~02~You have $06$=energy cells~00~}#034#028
+~02~You have $06$=energy cells~00~#028
+;0004C749{~02~Initiating=charging process~00~}#035#029
+~02~Initiating=charging process~00~#029
+;0004C766{~02~The battery is now=recharged!~00~}#037#031
+~02~The battery is now=recharged!~00~#031
+;0004C785{~02~You can use the=elevator now!~00~}#037#031
+~02~You can use the=elevator now!~00~#031
+;0004C7A4{~02~ERROR: Not enough=energy cells~00~}#038#032
+~02~ERROR: Not enough=energy cells~00~#032
+;0004C7C4{~03~Battery needs 7=energy cells to=recharge fully~00~}#054#048
+~03~Battery needs 7=energy cells to=recharge fully~00~#048
+;0004C7F4{~02~The elevator is=locked...~00~}#033#027
+~02~The elevator is=locked...~00~#027
+;0004C80F{~02~You got the =Leaf Key!~00~}#030#024
+~02~You got the =Leaf Key!~00~#024
+;0004C827{~02~We've met again,=bird hero~00~}#034#028
+~02~We've met again,=bird hero~00~#028
+;0004C843{~02~I'm afraid I can't=let you pass...~00~}#042#036
+~02~I'm afraid I can't=let you pass...~00~#036
+;0004C867{~02~The whole island=will suffer the~00~}#040#034
+~02~The whole island=will suffer the~00~#034
+;0004C889{~02~consequences of=what you're doing!~00~}#042#036
+~02~consequences of=what you're doing!~00~#036
+;0004C8AD{~02~I won't go easy on=you this time...~00~}#043#037
+~02~I won't go easy on=you this time...~00~#037
+;0004C8D2{~02~Ugh! You're=strong!~00~}#027#021
+~02~Ugh! You're=strong!~00~#021
+|1032
+@0004C8E7-0004CD0E-00
+;0004C8E7{~02~But still not=strong enough...~00~}#038#032
+~02~But still not=strong enough...~00~#032
+;0004C907{~02~You won't defeat=the Owl King~00~}#037#031
+~02~You won't defeat=the Owl King~00~#031
+;0004C926{~02~Stop playing the=savior role...~00~}#039#033
+~02~Stop playing the=savior role...~00~#033
+;0004C947{~02~Have you ever been=a slave before?~00~}#042#036
+~02~Have you ever been=a slave before?~00~#036
+;0004C96B{~02~You cannot save=this island~00~}#035#029
+~02~You cannot save=this island~00~#029
+;0004C988{~02~If you don't=understand us!~00~}#035#029
+~02~If you don't=understand us!~00~#029
+;0004C9A5{~02~Now, I will ask=one more time...~00~}#040#034
+~02~Now, I will ask=one more time...~00~#034
+;0004C9C7{~02~Give me the=battery!~00~}#028#022
+~02~Give me the=battery!~00~#022
+;0004C9DD{~02~And stop playing=hero!~00~}#030#024
+~02~And stop playing=hero!~00~#024
+;0004C9F5{~02~You... You're=stronger now...~00~}#037#031
+~02~You... You're=stronger now...~00~#031
+;0004CA14{~02~But still...~00~}#020#014
+~02~But still...~00~#014
+;0004CA22{~02~If you go up the=tower...~00~}#033#027
+~02~If you go up the=tower...~00~#027
+;0004CA3D{~02~This island will=be doomed... ugh!~00~}#042#036
+~02~This island will=be doomed... ugh!~00~#036
+;0004CA61{~03~If the Owl King=falls, we're all=free.~00~}#046#040
+~03~If the Owl King=falls, we're all=free.~00~#040
+;0004CA89{~03~We've never been=so close to=freedom before~00~}#051#045
+~03~We've never been=so close to=freedom before~00~#045
+;0004CAB6{~02~Our hopes are on=you, little one~00~}#040#034
+~02~Our hopes are on=you, little one~00~#034
+;0004CAD8{~02~But if you fail...~00~}#026#020
+~02~But if you fail...~00~#020
+;0004CAEC{~02~I will remain here~00~}#026#020
+~02~I will remain here~00~#020
+;0004CB00{~02~We will keep=surviving~00~}#030#024
+~02~We will keep=surviving~00~#024
+;0004CB18{~02~We will keep=doing it our way~00~}#037#031
+~02~We will keep=doing it our way~00~#031
+;0004CB37{~04~Don't carry=this burden with=you in your final=battle~00~}#061#055
+~04~Don't carry=this burden with=you in your final=battle~00~#055
+;0004CB6E{~02~Rise to the top=little hero!~00~}#036#030
+~02~Rise to the top=little hero!~00~#030
+;0004CB8C{~03~This island=brought you here=for a reason~00~}#049#043
+~03~This island=brought you here=for a reason~00~#043
+;0004CBB7{~03~These dark times=under the Owl=King's rule~00~}#050#044
+~03~These dark times=under the Owl=King's rule~00~#044
+;0004CBE3{~02~are about to end!~00~}#025#019
+~02~are about to end!~00~#019
+;0004CBF6{~02~Farewell...~00~}#019#013
+~02~Farewell...~00~#013
+;0004CC03{~02~My little friend!~00~}#025#019
+~02~My little friend!~00~#019
+;0004CC16{~02~THIS TIME I WON'T=LET MY GUARD DOWN!~00~}#044#038
+~02~THIS TIME I WON'T=LET MY GUARD DOWN!~00~#038
+;0004CC3C{~02~YOU... YOU...~00~}#021#015
+~02~YOU... YOU...~00~#015
+;0004CC4B{~02~BIRD!~00~}#013#007
+~02~BIRD!~00~#007
+;0004CC52{~02~PREPARE TO KNOW~00~}#023#017
+~02~PREPARE TO KNOW~00~#017
+;0004CC63{~02~THE WRATH OF THE=OWL KING!~00~}#034#028
+~02~THE WRATH OF THE=OWL KING!~00~#028
+;0004CC7F{~02~IM-IMPOSSIBLE!~00~}#022#016
+~02~IM-IMPOSSIBLE!~00~#016
+;0004CC8F{~02~Welcome to the=King's Room~00~}#034#028
+~02~Welcome to the=King's Room~00~#028
+;0004CCAB{~02~You foolish=creature...~00~}#031#025
+~02~You foolish=creature...~00~#025
+;0004CCC4{~02~I am a merciful=king, you know?~00~}#039#033
+~02~I am a merciful=king, you know?~00~#033
+;0004CCE5{~03~I'll give you a=fair chance to=defeat me~00~}#048#042
+~03~I'll give you a=fair chance to=defeat me~00~#042
+|1064
+@0004CD0F-0004D009-00
+;0004CD0F{~02~If you survive,=you may live~00~}#036#030
+~02~If you survive,=you may live~00~#030
+;0004CD2D{~02~Perhaps as my=slave!~00~}#028#022
+~02~Perhaps as my=slave!~00~#022
+;0004CD43{~02~He he he he...~00~}#022#016
+~02~He he he he...~00~#016
+;0004CD53{~02~Now! Show me what=you got!~00~}#034#028
+~02~Now! Show me what=you got!~00~#028
+;0004CD6F{~02~Hero...~00~}#015#009
+~02~Hero...~00~#009
+;0004CD78{~02~HOW THE HELL HAVE=YOU DONE THAT?!~00~}#041#035
+~02~HOW THE HELL HAVE=YOU DONE THAT?!~00~#035
+;0004CD9B{~02~AAAARRRRGHHH!~00~}#021#015
+~02~AAAARRRRGHHH!~00~#015
+;0004CDAA{~02~I HATE YOU!!!~00~}#021#015
+~02~I HATE YOU!!!~00~#015
+;0004CDB9{~02~I heard a lot=about you...~00~}#034#028
+~02~I heard a lot=about you...~00~#028
+;0004CDD5{~02~The islanders call=you a hero!~00~}#038#032
+~02~The islanders call=you a hero!~00~#032
+;0004CDF5{~02~Did you come to=destroy me?~00~}#035#029
+~02~Did you come to=destroy me?~00~#029
+;0004CE12{~02~he he he...~00~}#019#013
+~02~he he he...~00~#013
+;0004CE1F{~02~HAHAHAHA!~00~}#017#011
+~02~HAHAHAHA!~00~#011
+;0004CE2A{~02~There is nothing=for you here~00~}#037#031
+~02~There is nothing=for you here~00~#031
+;0004CE49{~02~Only fear...~00~}#020#014
+~02~Only fear...~00~#014
+;0004CE57{~02~Pain...~00~}#015#009
+~02~Pain...~00~#009
+;0004CE60{~02~Oblivion...~00~}#019#013
+~02~Oblivion...~00~#013
+;0004CE6D{~03~DO YOU THINK YOU=CAN JUST COME HERE=~00~}#044#038
+~03~DO YOU THINK YOU=CAN JUST COME HERE=~00~#038
+;0004CE93{~02~AND DESTROY=EVERYTHING?!~00~}#032#026
+~02~AND DESTROY=EVERYTHING?!~00~#026
+;0004CEAD{~02~THIS IS MY=KINGDOM!~00~}#027#021
+~02~THIS IS MY=KINGDOM!~00~#021
+;0004CEC2{~02~I WILL NOT =ALLOW IT!~00~}#029#023
+~02~I WILL NOT =ALLOW IT!~00~#023
+;0004CED9{~02~NEVER!~00~}#014#008
+~02~NEVER!~00~#008
+;0004CEE1{~02~NEVEEEEEEER!~00~}#020#014
+~02~NEVEEEEEEER!~00~#014
+;0004CEEF{~02~The wind...~00~}#019#013
+~02~The wind...~00~#013
+;0004CEFC{~02~The wind is=changing...~00~}#031#025
+~02~The wind is=changing...~00~#025
+;0004CF15{~02~Oh! What is that?!~00~}#026#020
+~02~Oh! What is that?!~00~#020
+;0004CF29{~02~I can see the=tower clearly!~00~}#036#030
+~02~I can see the=tower clearly!~00~#030
+;0004CF47{~02~The storm is gone!~00~}#026#020
+~02~The storm is gone!~00~#020
+;0004CF5B{~03~I wonder if my=little friend is=ok...~00~}#045#039
+~03~I wonder if my=little friend is=ok...~00~#039
+;0004CF82{~02~The Owl King is=nowhere to be seen~00~}#042#036
+~02~The Owl King is=nowhere to be seen~00~#036
+;0004CFA6{~02~But the storm=spell is gone~00~}#035#029
+~02~But the storm=spell is gone~00~#029
+;0004CFC3{~02~The island is=finally free!~00~}#035#029
+~02~The island is=finally free!~00~#029
+;0004CFE0{~02~Continue=New Game~00~}#025#019
+~02~Continue=New Game~00~#019
+;0004CFF3{~02~Yes=No~00~}#014#008
+~02~Yes=No~00~#008
+;0004CFFB{~02~Continue=Quit~00~}#021#015
+~02~Continue=Quit~00~#015
+|763

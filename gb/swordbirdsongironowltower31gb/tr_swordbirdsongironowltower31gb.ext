@@ -1,0 +1,868 @@
+@00049C29-0004A054-00
+;00049BDC{~02~You got a map for=this area!~00~}#036#030
+~02~¡Recibes mapa de=la zona!\  ~00~#030
+;00049BFA{~02~ Game saved.~00~}#020#014
+~02~ Salvado.\  ~00~#014
+;00049C08{~02~Need Key to open~00~}#024#018
+~02~Necesitas llave.~00~#018
+;00049C1A{~02~You got a key!~00~}#022#016
+~02~¡Es una llave!~00~#016
+;00049C2A{~02~ You are fully= healed.~00~}#031#025
+~02~ Estás curado.\        ~00~#025
+;00049C43{~02~a door open=somewhere...~00~}#032#026
+~02~Una puerta se abrió¨\   ~00~#026
+;00049C5D{~03~Starting a new=game will erase=your data...~00~}#051#045
+~03~Empezar una=partida borrará=tus datos¨\    ~00~#045
+;00049C8A{~02~Do you want to=continue?~00~}#032#026
+~02~¿Quieres=continuar?\    ~00~#026
+;00049CA4{~02~No save data=found...~00~}#029#023
+~02~No hay datos¨\       ~00~#023
+;00049CBB{~02~IRON OWL TOWER:=NO TRESPASSERS!~00~}#039#033
+~03~TORRE BÚHO DE=HIERRO:=¡LARGO!\ ~00~#033
+;00049CDC{~02~Seriously, we will=try to kill you...~00~}#045#039
+~03~En serio,=intentaremos=matarte¨\     ~00~#039
+;00049D03{~02~You can't go back=now...~00~}#032#026
+~02~Ya no puedes=volver¨\   ~00~#026
+;00049D1D{~03~The developer=didn't code this=area...~00~}#046#040
+~03~El desarrollador=no creó esta=zona¨\  ~00~#040
+;00049D45{~02~A door has opened=somewhere...~00~}#038#032
+~02~Una puerta se ha=abierto¨\    ~00~#032
+;00049D65{~03~They sing a song=of a bird flying=above a vast ocean~00~}#060#054
+~03~Cantan sobre un=pájaro que=sobrevuela el mar.\      ~00~#054
+;00049D9B{~03~Faster than wind,=lighter than air,=the bird goes~00~}#057#051
+~03~Veloz y ligero,=el pájaro avanza.\               ~00~#051
+;00049DCE{~03~But the skies are=good and evil,=friend and foe~00~}#055#049
+~03~Pero el cielo es=bueno y malo,=amigo y enemigo.~00~#049
+;00049DFF{~03~The children=of the sky shall=learn this lesson~00~}#055#049
+~03~Los niños celestes=deberán aprender=la lección.~00~#049
+;00049E30{~03~To the ground,=heavy as a rock,=the bird falls...~00~}#057#051
+~03~Al suelo,=pesado cual roca,=el pájaro cae¨\      ~00~#051
+;00049E63{~02~Hello, little one!~00~}#026#020
+~02~¡Hola, pequeñín!\ ~00~#020
+;00049E77{~03~That was quite a=fall! Are you=alive?~00~}#045#039
+~02~¡Menuda caída!=¿Estás vivo?\         ~00~#039
+;00049E9E{~02~Wake up!~00~}#016#010
+~02~¡Arriba!~00~#010
+;00049EA8{~02~Oh hoo hoo!=There you are!~00~}#034#028
+~02~¡Oh hoo hoo!=¡Aquí estás!\~00~#028
+;00049EC4{~03~Come closer! =Don't worry. =I don't peck!~00~}#049#043
+~03~¡Acércate más!=Tranquilo.=¡No pico!\     ~00~#043
+;00049EEF{~02~Ah... I see.~00~}#020#014
+~02~Aah¨ Ya veo.~00~#014
+;00049EFD{~03~You were on a=journey to another=place...~00~}#049#043
+~02~Estabas de viaje a=otro lugar¨\          ~00~#043
+;00049F28{~02~And got hit by a=storm?~00~}#031#025
+~02~¿Y hubo una=tormenta?\ ~00~#025
+;00049F41{~02~Well... that makes=sense...~00~}#035#029
+~02~Bueno¨=Tiene sentido¨\     ~00~#029
+;00049F5E{~02~I guess I have bad=news for you...~00~}#042#036
+~02~Creo que tengo=malas noticias¨\   ~00~#036
+;00049F82{~02~There there, don't=lose all hope~00~}#040#034
+~02~Bueno, no pierdas=la esperanza.\~00~#034
+;00049FA4{~03~There is one way=out, but it won't=be easy...~00~}#053#047
+~03~Hay una salida,=pero no será=fácil¨\         ~00~#047
+;00049FD3{~03~Enter the Iron=Owl Tower, go all=the way to the top~00~}#059#053
+~03~Entra en la Torre=Búho de Hierro,=llega a la cima.\~00~#053
+|1068
+@0004A055-0004A469-00
+;0004A008{~03~The tower pierces=through the storm=clouds~00~}#050#044
+~03~La torre atraviesa=las nubes de=tormenta.\~00~#044
+;0004A034{~03~From there, you=can fly away and=escape~00~}#047#041
+~03~Desde ahí, puedes=volar y escapar.\    ~00~#041
+;0004A05D{~03~Now listen, The=Iron Owls live in=the tower~00~}#051#045
+~03~Oye, Los Búhos de=Hierro viven en la=torre.~00~#045
+;0004A08A{~03~Evil things that=obey the cruel Owl=King.~00~}#049#043
+~03~Seres malvados del=cruel Rey Búho.\      ~00~#043
+;0004A0B5{~03~The islanders=suffer under their=power~00~}#046#040
+~02~Los isleños sufren=bajo su poder.\    ~00~#040
+;0004A0DD{~03~If they get you,=the owls will=enslave you!~00~}#051#045
+~03~Si te capturan,=¡los búhos te=esclavizarán!~00~#045
+;0004A10A{~02~Oh ho hoh! You're=going anyways?!~00~}#041#035
+~03~¡Oh ho hoh!=¡¿Irás=igualmente?!\ ~00~#035
+;0004A12D{~02~You are a brave=little bird!~00~}#036#030
+~02~¡Eres un pajarillo=valiente!~00~#030
+;0004A14B{~02~It is dangerous to=go alone~00~}#035#029
+~02~Es peligroso ir=solo.\     ~00~#029
+;0004A168{~02~Take this...~00~}#020#014
+~02~Toma esto¨\ ~00~#014
+;0004A176{~02~You got a feather=sword!~00~}#032#026
+~02~¡Recibes espada=pluma!\ ~00~#026
+;0004A190{~02~PRESS START TO=SEE INVENTORY~00~}#036#030
+~02~START PARA VER=INVENTARIO.\ ~00~#030
+;0004A1AE{~03~Head north from=here, cross the=bridge~00~}#046#040
+~03~Ve al norte de=aquí, cruza el=puente.\~00~#040
+;0004A1D6{~02~The tower waits=for you...~00~}#034#028
+~02~La torre te=espera¨\      ~00~#028
+;0004A1F2{~02~Good luck, little=one!~00~}#030#024
+~02~¡Suerte, pequeñín!\   ~00~#024
+;0004A20A{~02~MANGO'S HOUSE~00~}#021#015
+~02~CASA DE MANGO~00~#015
+;0004A219{~02~It is small but=very cozy~00~}#033#027
+~02~Pequeña pero=acogedora.\ ~00~#027
+;0004A234{~02~PRESS SELECT TO=VIEW MAP~00~}#032#026
+~02~SELECT PARA VER EL=MAPA.~00~#026
+;0004A24E{~03~Hello there...=don't mind me, I'm=just too tired~00~}#056#050
+~03~Hola¨=No me hagas caso,=estoy muy cansada.\     ~00~#050
+;0004A280{~02~Being a seal is so=hard these days...~00~}#045#039
+~02~Ser foca hoy en=día es muy duro¨\    ~00~#039
+;0004A2A7{~02~So many taxes to=pay... oh boy~00~}#038#032
+~02~Tantos impuestos¨=Oh chico,\  ~00~#032
+;0004A2C7{~03~I wish I had time=to get away from=this beach~00~}#053#047
+~03~desearía tener=tiempo para irme=de esta playa~00~#047
+;0004A2F6{~02~Go into the jungle=and explore~00~}#038#032
+~02~e ir a la jungla y=explorar.\ ~00~#032
+;0004A316{~02~So much stuff that=I've never seen...~00~}#045#039
+~03~Tantas cosas que=no he visto=nunca¨\ ~00~#039
+;0004A33D{~02~Have you ever seen=a flower before?~00~}#043#037
+~02~¿Has visto una=flor alguna vez?\   ~00~#037
+;0004A362{~02~I've never seen=one in my life!~00~}#039#033
+~02~¡No he visto una=en mi vida!\  ~00~#033
+;0004A383{~02~One day... who=knows...~00~}#031#025
+~02~Un día¨=Quién sabe¨\   ~00~#025
+;0004A39C{~02~But first...=taxes!~00~}#027#021
+~02~Antes¨=¡impuestos!\~00~#021
+;0004A3B1{~03~Wait! Is this a...=FLOWER?! I can't=believe it!~00~}#055#049
+~03~¡Espera! Es una¨=¡¿FLOR?!=¡No puedo creerlo!\  ~00~#049
+;0004A3E2{~03~I am seeing=one with my own=eyes!~00~}#041#035
+~02~¡Veo una con mis=propios ojos!\  ~00~#035
+;0004A405{~02~Can I have it?=Please!~00~}#030#024
+~02~¿Puedo¨?=¡Por favor!\ ~00~#024
+|1045
+@0004A46A-0004A870-00
+;0004A41D{~02~It is so=beautiful!~00~}#027#021
+~02~¡Es tan hermosa!\  ~00~#021
+;0004A432{~02~Here! Take this as=my thanks!~00~}#037#031
+~02~¡Ten!=¡Como mi gratitud!\    ~00~#031
+;0004A451{~02~You got Sea Star!~00~}#025#019
+~02~¡Estrella de Mar!~00~#019
+;0004A464{~02~This Sea Star is=very valuable~00~}#038#032
+~02~La Estrella de Mar=es valiosa.~00~#032
+;0004A484{~03~Don't forget to=declare it in your=next Tax Return.~00~}#059#053
+~04~No olvides=declararla en tu=próxima=Declaración.\  ~00~#053
+;0004A4B9{~02~I don't wanna go=back to the water~00~}#042#036
+~02~No quiero volver=al agua.\        ~00~#036
+;0004A4DD{~02~It will ruin my=precious flower~00~}#039#033
+~02~Arruinará mi=preciosa flor.\   ~00~#033
+;0004A4FE{~03~Is this a...=FLOWER?! I can't=believe it!~00~}#049#043
+~03~Es una¨=¡¿FLOR?!=¡No puedo creerlo!\     ~00~#043
+;0004A529{~02~Ki kih! I've never=seen you before...~00~}#045#039
+~03~¡Ki kih! No te=había visto=antes¨\   ~00~#039
+;0004A550{~03~Are you the one=who fell from the=sky?~00~}#046#040
+~02~¿Eres el que cayó=del cielo?\         ~00~#040
+;0004A578{~03~I need to get into=the tower, but=it's too dangerous~00~}#060#054
+~03~Necesito entrar en=la torre, pero es=muy peligroso.\~00~#054
+;0004A5AE{~03~My friend was=taken inside by=the Owls~00~}#046#040
+~03~Mi amigo fue=llevado dentro por=Búhos.~00~#040
+;0004A5D6{~02~He is a slave now!=Ki kih! So sad!~00~}#042#036
+~02~¡Es un esclavo!=¡Ki kih! ¡Triste!\~00~#036
+;0004A5FA{~03~Please! If you see=my friend, give=this to him!~00~}#055#049
+~03~¡Por favor!=Si ves a mi amigo,=¡dale esto!\    ~00~#049
+;0004A62B{~02~You got Curry!~00~}#022#016
+~02~¡Es Curry!\   ~00~#016
+;0004A63B{~03~My friend works in=a freezing place=in the tower~00~}#056#050
+~03~Mi amigo trabaja=en un lugar frío=de la torre.\ ~00~#050
+;0004A66D{~02~Please hurry! He=must be hungry!~00~}#040#034
+~02~¡Date prisa!=¡Tendrá hambre!\   ~00~#034
+;0004A68F{~03~Ki kih! I'm so=happy to hear that=my friend is ok!~00~}#058#052
+~03~¡Ki kih! ¡Me=alegra oír que mi=amigo está bien!\  ~00~#052
+;0004A6C3{~02~Thank you,=stranger!~00~}#028#022
+~02~¡Gracias,=forastero!~00~#022
+;0004A6D9{~02~You're a nice=stranger! Ki kih!~00~}#039#033
+~03~¡Eres buen=forastero!=¡Ki kih!\~00~#033
+;0004A6FA{~02~Oh! You found me!~00~}#025#019
+~02~¡Me encontraste!\~00~#019
+;0004A70D{~03~I'll tell you the=secrets of this=area.~00~}#047#041
+~03~Te contaré los=secretos de esta=zona.\ ~00~#041
+;0004A783{~02~Hints have been=added to the map~00~}#040#034
+~02~ Se añadieron= pistas al mapa.\ ~00~#034
+;0004A7A5{~02~You don't have a=map, do ya?~00~}#036#030
+~02~No tienes un mapa,=¿verdad?\~00~#030
+;0004A775{~02~Come back to me=when you find one.~00~}#042#036
+~02~Vuelve cuando=encuentres uno.\    ~00~#036
+;0004A799{~02~You got an =energy cell!~00~}#032#026
+~02~¡Una célula de=energía!\~00~#026
+;0004A7B3{~02~Oy! Who goes=there?!~00~}#028#022
+~02~¡Eh!=¿Quién va ahí?\~00~#022
+;0004A7C9{~02~Stop! In the name=of the Owl King!~00~}#042#036
+~03~¡Detente!=¡En nombre del Rey=Búho!~00~#036
+;0004A7ED{~02~First Map Added~00~}#023#017
+~02~1r Mapa Puesto.~00~#017
+;0004A7FE{~02~First Map Removed~00~}#025#019
+~02~1r Mapa Quitado.\~00~#019
+;0004A811{~02~Area Number $09$~00~}#024#018
+~02~Zona Número $09$~00~#018
+|1031
+@0004A871-0004AC79-00
+;0004A823{~02~Energy is $06$~00~}#022#016
+~02~Energía $06$\ ~00~#016
+;0004A833{~02~Key number is $02$~00~}#026#020
+~02~Número clave $02$\~00~#020
+;0004A847{~02~Battery Added~00~}#021#015
+~02~Con Batería.\~00~#015
+;0004A856{~02~Battery Removed~00~}#023#017
+~02~Sin Batería.\  ~00~#017
+;0004A867{~02~Battery Boost is=$17$~00~}#029#023
+~02~Mejora Batería=$17$\ ~00~#023
+;0004A87E{~02~Sword Boost is=$16$~00~}#027#021
+~02~Mejora Espada=$16$\~00~#021
+;0004A893{~02~No Trade Item~00~}#021#015
+~02~Sin Ítem.\   ~00~#015
+;0004A8A2{~02~You now have Curry~00~}#026#020
+~02~Obtienes Curry.\  ~00~#020
+;0004A8B6{~02~You now have Water~00~}#026#020
+~02~Obtienes Agua.\   ~00~#020
+;0004A8CA{~02~You now have=Flower~00~}#027#021
+~02~Obtienes Flor.\    ~00~#021
+;0004A8DF{~02~You now have Sea=Star~00~}#029#023
+~02~Tienes Estrella=Mar.\~00~#023
+;0004A8F6{~02~You now have=Broken Lever~00~}#033#027
+~02~Obtienes Palanca=Rota.\  ~00~#027
+;0004A911{~02~No Master Key~00~}#021#015
+~02~Sin Llave M.\~00~#015
+;0004A920{~02~You now have Steel=Key~00~}#030#024
+~02~Tienes Llave de=Acero.~00~#024
+;0004A938{~02~You now have Ice=Key~00~}#028#022
+~02~Tienes Llave=Hielo.\~00~#022
+;0004A94E{~02~You now have=Leaf Key~00~}#029#023
+~02~Tienes Llave Hoja.\  ~00~#023
+;0004A965{~02~Who am I?~00~}#017#011
+~02~¿Yo?\    ~00~#011
+;0004A970{~02~I used to be a=traveller like you~00~}#041#035
+~02~Antes era un=viajero como tú.\   ~00~#035
+;0004A993{~02~But now I am just=a friend~00~}#034#028
+~02~Pero ahora solo un=amigo.\~00~#028
+;0004A9AF{~02~What about you,=little one?~00~}#035#029
+~02~¿Qué hay de ti,=pequeñín?\ ~00~#029
+;0004A9CC{~03~What brings you =to this remote=island?~00~}#047#041
+~02~¿Qué te trae a=esta remota isla?\      ~00~#041
+;0004A9F5{~04~Can you see that=tower in the=center of this=island?~00~}#060#054
+~03~¿Puedes ver esa=torre en el centro=de esta isla?\   ~00~#054
+;0004AA2B{~02~It is called the=Iron Owl Tower~00~}#039#033
+~02~Se llama Torre=Búho de Hierro.\~00~#033
+;0004AA4C{~02~It is surrounded=by a magic storm~00~}#041#035
+~02~La rodea una=tormenta mágica.\   ~00~#035
+;0004AA6F{~03~Everyone who gets=too close is=dragged here~00~}#051#045
+~03~Quienes se acercan=demasiado acaban=aquí.\ ~00~#045
+;0004AA9C{~02~If you try to fly=away from here,~00~}#041#035
+~02~Si intentas=escapar volando,\    ~00~#035
+;0004AABF{~02~The storm will=catch you again!~00~}#039#033
+~02~¡La tormenta te=atrapará!\     ~00~#033
+;0004AAE0{~02~You are trapped on=this island now...~00~}#045#039
+~03~Ahora estás=atrapado en esta=isla¨\  ~00~#039
+;0004AB07{~02~Oh ho hoh! Hello=again little one!~00~}#042#036
+~03~¡Hohoho!=¡Hola otra vez,=pequeñín!~00~#036
+;0004AB2B{~02~How did I get=here, you ask?~00~}#036#030
+~02~¿Cómo llegué yo=aquí?\      ~00~#030
+;0004AB49{~02~I'm very good with=directions! ho ho!~00~}#045#039
+~03~¡Soy muy bueno=orientándome!=¡Ho ho!\~00~#039
+;0004AB70{~03~I wouldn't let you=come here alone.=It's too dangerous~00~}#062#056
+~04~No te dejaría=venir aquí solo.=Es demasiado=peligroso.~00~#056
+;0004ABA8{~02~This is the=elevator room~00~}#033#027
+~02~Es la sala del=elevador.\~00~#027
+;0004ABC3{~03~This platform will=take you to the=top of the tower~00~}#059#053
+~03~Esta plataforma te=llevará a la cima=de la torre.\ ~00~#053
+;0004ABF8{~02~Go ahead, my=friend! Try it!~00~}#036#030
+~02~¡Adelante, amigo!=¡Prueba!\ ~00~#030
+;0004AC16{~02~Now go, =little one!~00~}#028#022
+~02~¡Ahora ve,=pequeñín!~00~#022
+|1033
+@0004AC7A-0004B08B-00
+;0004AC2C{~02~Step on that=elevator and rise!~00~}#039#033
+~02~¡Pisa ese elevador=y álzate!\  ~00~#033
+;0004AC4D{~02~Elevator activated~00~}#026#020
+~02~Elevador activado.~00~#020
+;0004AC61{~02~Hmmm... =let me see...~00~}#030#024
+~02~Hmmm¨=Déjame ver¨\    ~00~#024
+;0004ACC7{~02~This battery is=not only dry~00~}#036#030
+~02~Esta batería está=seca¨\    ~00~#030
+;0004ACE5{~02~but it's also=broken!~00~}#029#023
+~02~¡y también rota!\    ~00~#023
+;0004ACFC{~03~You will have to=fix and recharge=it to go up~00~}#053#047
+~03~Deberás arreglarla=y recargarla para=subir.\ ~00~#047
+;0004AD2B{~03~Well, it's your=lucky day, my=friend!~00~}#045#039
+~03~Vaya, ¡es tu día=de suerte, amigo!\  ~00~#039
+;0004AD52{~03~I actually have a=PhD in Battery=Sciences!~00~}#050#044
+~03~¡Tengo un Máster=en Ciencias de=Baterías!\~00~#044
+;0004AD7E{~02~I can help you to=fix it!~00~}#033#027
+~02~¡Te ayudaré a=repararla!\~00~#027
+;0004AD99{~02~These things=always break~00~}#033#027
+~02~Siempre se rompen.\      ~00~#027
+;0004ADB4{~03~And the Owls=have the equipment=to fix them!~00~}#052#046
+~03~¡Y los Búhos=tienen equipo para=arreglarla!\~00~#046
+;0004ADE2{~02~This is how you=fix it...~00~}#033#027
+~02~Así es como se=repara¨\  ~00~#027
+;0004ADFD{~02~It's just 3 steps!~00~}#026#020
+~02~¡En solo 3 pasos!\~00~#020
+;0004AE11{~02~First, freeze the=battery!~00~}#034#028
+~02~¡Primero la=congelas!\    ~00~#028
+;0004AE2D{~03~That area of the=tower is called=Icra~00~}#045#039
+~03~Esa torre de la=zona se llama=Icra.\ ~00~#039
+;0004AE54{~02~It's freezing cold=in there~00~}#035#029
+~02~Ahí hace muchísimo=frío.\  ~00~#029
+;0004AE71{~03~Somewhere inside,=you can find a way=to freeze it!~00~}#058#052
+~04~Dentro,=¡puedes encontrar=una forma de=congelarla!~00~#052
+;0004AEA5{~02~Second, fix the=components!~00~}#035#029
+~02~Segundo,=¡repararla!\      ~00~#029
+;0004AEC2{~03~That area of the=tower is called=Factoria~00~}#049#043
+~03~Esa zona de la=torre se llama=Factoría.\ ~00~#043
+;0004AEED{~03~It's where the=Owls produce their=equipment~00~}#051#045
+~03~Es donde los Búhos=producen su=equipo.\    ~00~#045
+;0004AF1A{~03~Somewhere inside,=you can find a way=to fix it!~00~}#055#049
+~03~Dentro, ¡puedes=hallar una forma=de repararla!\~00~#049
+;0004AF4B{~02~Last, recharge the=battery!~00~}#035#029
+~02~Por último,=¡recárgala!\   ~00~#029
+;0004AF68{~03~That area of the=tower is called=Gardenia~00~}#049#043
+~03~Esa zona de la=torre se llama=Gardenia.\ ~00~#043
+;0004AF93{~03~It's where the=energy of this=tower comes from~00~}#054#048
+~03~Es de donde viene=la energía de esta=torre.\  ~00~#048
+;0004AFC3{~03~Somewhere inside,=you can find a way=to recharge it!~00~}#060#054
+~04~Dentro, ¡puedes=encontrar una=forma de=recargarla!\ ~00~#054
+;0004AFF9{~02~Now go, my little=friend!~00~}#033#027
+~02~¡Ahora ve,=amiguito!\    ~00~#027
+;0004B014{~03~Find your way to=the end of these =3 areas~00~}#050#044
+~02~Llega al final de=esas tres zonas.\       ~00~#044
+;0004B040{~03~Soon you will be=off of this=island!~00~}#044#038
+~03~¡Pronto estarás=fuera de esta=isla!\~00~#038
+;0004B066{~02~Remember: Freeze,=Fix, and Recharge!~00~}#044#038
+~03~Son: ¡Congelar,=Arreglar y=Recargar!~00~#038
+|1042
+@0004B08C-0004B4A3-00
+;0004B08C{~02~The Battery is not=ready yet...~00~}#039#033
+~02~La Batería aún no=está lista¨\ ~00~#033
+;0004B0AD{~02~Find your way into=the Icra area~00~}#040#034
+~02~Ábrete paso hacia=la zona Icra.\~00~#034
+;0004B0CF{~03~You can freeze it=somewhere inside=there.~00~}#049#043
+~03~Puedes congelarla=en algún lugar=dentro.\~00~#043
+;0004B0FA{~02~Find your way into=the Factoria area~00~}#044#038
+~02~Ábrete paso hacia=la zona Factoria.\~00~#038
+;0004B120{~03~You can fix it=somewhere inside=there.~00~}#046#040
+~02~Puedes arreglarla=por allí dentro.\   ~00~#040
+;0004B148{~02~Find your way into=the Gardenia area~00~}#044#038
+~02~Ábrete paso hacia=la zona Gardenia.\~00~#038
+;0004B16E{~03~You can recharge=it somewhere=inside there.~00~}#051#045
+~03~Puedes recargarla=en algún lugar=dentro.\  ~00~#045
+;0004B19B{~02~Oh ho hoh! Good=job little one!~00~}#039#033
+~02~¡OhHoHo! ¡Bien=hecho pequeñín!\~00~#033
+;0004B1BC{~02~You fixed the=Battery!~00~}#030#024
+~02~¡Batería=arreglada!\  ~00~#024
+;0004B1D4{~02~Go on! Put it back=on the elevator!~00~}#043#037
+~02~¡Adelante! ¡Ponla=en el elevador!\ ~00~#037
+;0004B1F9{~03~You can go to the=top of the tower=now!~00~}#047#041
+~03~¡Ahora puedes ir a=la cima de la=torre!~00~#041
+;0004B222{~02~Elevator has been=activated~00~}#035#029
+~02~El elevador fue=activado.\ ~00~#029
+;0004B23F{~02~ERROR: Battery=depleted...~00~}#034#028
+~02~ERROR: Batería=agotada¨\  ~00~#028
+;0004B25B{~03~Oh! I was=suspecting that=this could happen~00~}#051#045
+~03~¡Oh! Sospechaba=que esto podría=pasar.\    ~00~#045
+;0004B288{~02~The elevator's=battery is dry~00~}#037#031
+~02~El elevador no=tiene batería.~00~#031
+;0004B2A7{~03~Let me have a look=at it. Bring it to=me please...~00~}#058#052
+~03~Deja que la mire.=Tráemela,=por favor¨\           ~00~#052
+;0004B2DB{~02~You got a Battery!~00~}#026#020
+~02~¡Recibes Batería!\~00~#020
+;0004B2EF{~02~Battery depleted.=No response...~00~}#040#034
+~02~Batería agotada.=Sin respuesta¨\~00~#034
+;0004B311{~02~Battery is not=ready yet.~00~}#033#027
+~02~La batería no está=lista.~00~#027
+;0004B32C{~02~Battery Inserted~00~}#024#018
+~02~Batería puesta.\~00~#018
+;0004B33E{~02~Elevator is now=ready to operate~00~}#040#034
+~02~Elevador listo=para funcionar.\ ~00~#034
+;0004B360{~02~It is time=my little friend ~00~}#036#030
+~02~Es la hora mi=pequeño amigo.~00~#030
+;0004B37E{~02~There is no=turning back now~00~}#036#030
+~02~Ya no hay vuelta=atrás.\    ~00~#030
+;0004B39C{~02~I guess this is a=goodbye...~00~}#036#030
+~02~Supongo que es un=adiós¨\   ~00~#030
+;0004B3BA{~02~Oh! What's that?~00~}#024#018
+~02~¡Oh! ¿Qué es?\  ~00~#018
+;0004B3CC{~03~Are you unsure=what's going to=happen with us?~00~}#054#048
+~03~¿No estás seguro=de que es lo que=nos pasará?\~00~#048
+;0004B3FC{~03~Hoh ho ho! That's=very nice of you=little one~00~}#053#047
+~03~¡Ho ho ho! Muy=amable por tu=parte, pequeñín.~00~#047
+;0004B42B{~03~Well, It's your=lucky day, my=friend!~00~}#045#039
+~02~Bueno, ¡es tu día=de suerte, amigo!\ ~00~#039
+;0004B452{~03~Not that way!=Let's finish this=first, my friend.~00~}#057#051
+~03~¡Por ahí no!=Vamos a terminar=esto antes, amigo.\~00~#051
+;0004B485{~02~Get out of here=while you can~00~}#037#031
+~02~Sal de aquí=mientras puedas.\~00~#031
+|1048
+@0004B4A4-0004B8AF-00
+;0004B4A4{~02~The Owl King will=get you~00~}#033#027
+~02~El Rey Búho te=atrapará.\~00~#027
+;0004B4BF{~02~And force you to=work here~00~}#034#028
+~02~Y te obligará a=trabajar.\~00~#028
+;0004B4DB{~02~As he did with=me...~00~}#028#022
+~02~Como hizo=conmigo¨\ ~00~#022
+;0004B4F1{~02~It is so cold in=this place~00~}#035#029
+~02~Aquí hace mucho=frío.\     ~00~#029
+;0004B50E{~03~A hot meal right=now would help a=lot!~00~}#046#040
+~03~¡Una comida=caliente ayudaría=mucho!\ ~00~#040
+;0004B536{~03~Oh! You brought=Curry from my=friends?!~00~}#047#041
+~03~¡Oh! ¡¿Trajiste=Curry de mis=amigos?!\ ~00~#041
+;0004B55F{~02~It smells so good!~00~}#026#020
+~02~¡Huele muy bien!\ ~00~#020
+;0004B573{~03~This is delicious=and will keep me=warm!~00~}#048#042
+~02~¡Esto es delicioso=y me calentará!\     ~00~#042
+;0004B59D{~02~Thank you so much!~00~}#026#020
+~02~¡Muchas gracias!\ ~00~#020
+;0004B5B1{~02~Please, take=this...~00~}#028#022
+~02~Por favor, toma¨\   ~00~#022
+;0004B5C7{~02~You got Fresh=Water!~00~}#028#022
+~02~¡Es Agua Fresca!\   ~00~#022
+;0004B5DD{~03~This water comes=straight from=these ice walls~00~}#054#048
+~03~Este agua sale=directa de esos=muros de hielo.~00~#048
+;0004B60D{~02~Plants will love=it! ~00~}#029#023
+~02~¡Las plantas la=aman!~00~#023
+;0004B624{~02~While the Owl King=rules~00~}#032#026
+~02~Si gobierna el Rey=Búho¨~00~#026
+;0004B63E{~02~I will be working=here~00~}#030#024
+~02~Trabajaré aquí¨\      ~00~#024
+;0004B656{~02~I wanna go home...~00~}#026#020
+~02~Quiero ir a casa¨\~00~#020
+;0004B66A{~02~You got the =Steel Key!~00~}#031#025
+~02~¡Recibes Llave=Acero!\ ~00~#025
+;0004B683{~02~Console Activated~00~}#025#019
+~02~Consola Activada.~00~#019
+;0004B696{~02~COMMAND:=Open Main Gate 3~00~}#033#027
+~02~COMANDO:=Abre Prt. Ppal 3~00~#027
+;0004B6B1{~03~This door needs =a special key =to open~00~}#047#041
+~03~La puerta necesita=una llave=especial.\~00~#041
+;0004B6DA{~02~I apologize,=stranger~00~}#029#023
+~02~Lo siento,=forastero.~00~#023
+;0004B6F1{~03~But I cannot let=you proceed any=further...~00~}#051#045
+~03~Pero no puedo=dejar que sigas=adelante¨\   ~00~#045
+;0004B71E{~02~I have tried to=ask you nicely~00~}#038#032
+~02~Intenté pedírtelo=amablemente.~00~#032
+;0004B73E{~02~But you left me=no other choice~00~}#039#033
+~02~Pero no me dejaste=otra opción.~00~#033
+;0004B75F{~02~Prepare yourself!~00~}#025#019
+~02~¡Prepárate!\     ~00~#019
+;0004B772{~03~Do you want to =escape this=island? ~00~}#044#038
+~02~¿Quieres escapar=de esta isla?\     ~00~#038
+;0004B798{~02~You better get in=the line~00~}#034#028
+~02~Mejor ponte a la=cola.\   ~00~#028
+;0004B7B4{~03~I've been waiting=for this chance=for a long time~00~}#057#051
+~03~Estuve esperando=esta oportunidad=mucho tiempo¨\ ~00~#051
+;0004B7E7{~02~Now give me the=battery!~00~}#032#026
+~02~¡Ahora dame la=batería!\~00~#026
+;0004B801{~03~ATTENTION:=Do not lick the=ice walls!~00~}#045#039
+~03~ATENCIÓN:=¡No lamas muros de=hielo!\ ~00~#039
+;0004B828{~02~If you're thirsty,=look for the~00~}#039#033
+~02~Si hay sed,=busca la estación\ ~00~#033
+;0004B849{~02~closest water=station.~00~}#030#024
+~02~de agua más=cercana.\ ~00~#024
+;0004B861{~02~- Message approved=by the Owl King -~00~}#044#038
+~02~- Mensaje aprobado=por el Rey Búho -~00~#038
+;0004B887{~03~Must activate=all triggers to=get in...~00~}#047#041
+~03~Debes activar=todos los=interruptores¨\~00~#041
+|1036
+@0004B8B0-0004BCAF-00
+;0004B8B0{~02~The floor is too=slippery here...~00~}#041#035
+~02~Este suelo resbala=demasiado¨\   ~00~#035
+;0004B8D3{~02~Trigger activated=in the next room~00~}#042#036
+~02~Botón activado en=otra sala.\     ~00~#036
+;0004B858{~02~I've tried my best=to make you see...~00~}#045#039
+~02~He intentado=hacértelo ver¨\         ~00~#039
+;0004B87F{~02~But I can't stop=you...~00~}#031#025
+~02~No puedo=detenerte¨\   ~00~#025
+;0004B898{~02~Good luck bird=hero!~00~}#028#022
+~02~¡Suerte héroe=alado!~00~#022
+;0004B8AE{~02~Battery inserted~00~}#024#018
+~02~Batería puesta.\~00~#018
+;0004B8C0{~02~Initiating=freezing process~00~}#035#029
+~02~Iniciando=congelación.\    ~00~#029
+;0004B8DD{~02~Process Completed~00~}#025#019
+~02~Proceso Acabado.\~00~#019
+;0004B98F{~02~The battery is now=frozen!~00~}#034#028
+~02~¡La batería se=congeló!\  ~00~#028
+;0004B9AB{~02~Next step is to=fix it!~00~}#031#025
+~02~¡Ahora a=arreglarla!\  ~00~#025
+;0004B925{~02~COMMAND:=Open East Gate 2~00~}#033#027
+~02~COMANDO:=Abre Prt. Este 2~00~#027
+;0004B940{~02~COMMAND:=Open Main Gate 1~00~}#033#027
+~02~COMANDO:=Abre Prt. Ppal 1~00~#027
+;0004B95B{~02~COMMAND:=Open East Gate 1~00~}#033#027
+~02~COMANDO:=Abre Prt. Este 1~00~#027
+;0004B976{~02~COMMAND:=Open Main Gate 2~00~}#033#027
+~02~COMANDO:=Abre Prt. Ppal 2~00~#027
+;0004B991{~02~COMMAND:=Open West Gate 2~00~}#033#027
+~02~COMANDO:=Abre Pt. Oeste 2~00~#027
+;0004B9AC{~02~COMMAND:=Open West Gate 1~00~}#033#027
+~02~COMANDO:=Abre Pt. Oeste 1~00~#027
+;0004B9C7{~02~COMMAND:=Open West Gate 3~00~}#033#027
+~02~COMANDO:=Abre Pt. Oeste 3~00~#027
+;0004B9E2{~04~ATTENTION:=Factoria's=consoles are not=toys!~00~}#052#046
+~03~ATENCIÓN:=¡Consolas Factoría=no son juegos!\~00~#046
+;0004BA10{~03~If you want to=play with=consoles,~00~}#042#036
+~02~Si quieres jugar=con consolas,\   ~00~#036
+;0004BA34{~02~we recommend the=NES or SNES.~00~}#037#031
+~02~recomendamos la=NES o SNES.\ ~00~#031
+;0004BA53{~02~You got the =Sharp Coin!~00~}#032#026
+~02~¡Recibes Moneda=Afilada!~00~#026
+;0004BA6D{~02~When attached to=the Feather Sword,~00~}#043#037
+~02~Al unirse con la=Espada Pluma,\    ~00~#037
+;0004BA92{~02~it makes your=sword sharper!~00~}#036#030
+~02~¡afila más tu=espada!\      ~00~#030
+;0004BB4F{~03~The Broken Lever=fits perfectly=here!~00~}#045#039
+~02~¡La Palanca Rota=encaja perfecta!\   ~00~#039
+;0004BB76{~02~The lever is=fixed!~00~}#027#021
+~02~¡Palanca=arreglada!~00~#021
+;0004BB8B{~02~This should open=this gate~00~}#034#028
+~02~Debería abrir la=puerta.\ ~00~#028
+;0004BBA7{~02~But the lever is=missing...~00~}#035#029
+~02~Pero falta la=palanca¨\    ~00~#029
+;0004BBC4{~02~Initiating=fixing process~00~}#033#027
+~02~Iniciando=reparación¨\   ~00~#027
+;0004BBDF{~02~The battery is now=fixed!~00~}#033#027
+~02~¡Batería=arreglada!\     ~00~#027
+;0004BBFA{~02~Next step is=to recharge it!~00~}#036#030
+~02~¡Ahora hay que=recargarla!\ ~00~#030
+;0004BC18{~02~Battery is not=ready to recharge~00~}#040#034
+~02~La batería no=puede recargarse.\~00~#034
+;0004BC3A{~02~Remember: Freeze,=Fix and Recharge!~00~}#043#037
+~02~Recuerda: Congela=Arregla, Recarga.~00~#037
+;0004BC5F{~02~Rich! I'm gonna be=filthy rich!~00~}#039#033
+~02~¡Rico! ¡Seré=enormemente rico!\~00~#033
+;0004BC80{~03~I infiltrated this=place looking for=treasures~00~}#054#048
+~03~Me infiltré en=este lugar=buscando tesoros.\  ~00~#048
+|1024
+@0004BCB0-0004C0C1-00
+;0004BCB0{~02~Just like you did!~00~}#026#020
+~02~¡Igual que tú!\   ~00~#020
+;0004BCC4{~03~You're a big=inspiration to me,=my friend!~00~}#050#044
+~03~¡Eres una gran=inspiración para=mi, amigo!~00~#044
+;0004BCF0{~03~Hey listen! We're=partners in crime=here, ok?~00~}#053#047
+~03~¡Escucha! Somos=compañeros de=crimen, ¿vale?\~00~#047
+;0004BD1F{~03~If you find=anything valuable,=share it with me!~00~}#056#050
+~03~Si hallas algo de=valor, ¡compártelo=conmigo!\  ~00~#050
+;0004BD51{~02~Bring me a=treasure!~00~}#028#022
+~02~¡Tráeme un tesoro!\ ~00~#022
+;0004BD67{~03~Like the ones that=pirates hunt in=the seas!~00~}#052#046
+~03~¡Como los que=buscan los piratas=en el mar!\~00~#046
+;0004BD95{~03~What?! Where did=you find this Sea=Star?!~00~}#049#043
+~03~¿Qué? ¿Dónde=hallaste la=Estrella de Mar?~00~#043
+;0004BDC0{~03~This must be worth=a fortune! Give it=to me!~00~}#052#046
+~02~¡Debe valer una=fortuna! ¡Dámela!\          ~00~#046
+;0004BDEE{~03~I'll trade for =an incredible=treasure~00~}#046#040
+~02~La cambiaré por un=tesoro increíble.\ ~00~#040
+;0004BE16{~02~You got Broken=Lever!~00~}#029#023
+~02~¡Una Palanca Rota!\  ~00~#023
+;0004BE2D{~03~Thanks for your=business, my=friend!~00~}#044#038
+~03~¡Gracias por tu=negocio, amigo=mío!\~00~#038
+;0004BE53{~02~he he he he...~00~}#022#016
+~02~Je je je je¨\ ~00~#016
+;0004BE63{~03~I'll trade for=an incredible=treasure~00~}#045#039
+~02~La cambiaré por un=tesoro increíble.\~00~#039
+;0004BE8A{~02~We'll meet=again...~00~}#027#021
+~02~Hasta la próxima¨\ ~00~#021
+;0004BE9F{~02~Bird hero...~00~}#020#014
+~02~Héroe ave¨\ ~00~#014
+;0004BEAD{~02~You got the =Heavy Coin!~00~}#032#026
+~02~¡Recibes Moneda=Pesada!\~00~#026
+;0004BEC7{~02~it makes your=sword stronger!~00~}#037#031
+~02~¡hace tu espada=más fuerte!\ ~00~#031
+;0004BEE6{~02~Ugh... Who are=you?~00~}#027#021
+~02~Agh¨=¿Quién eres?\ ~00~#021
+;0004BEFB{~03~You're not=supposed to =be here...~00~}#042#036
+~02~No deberías estar=aquí¨\          ~00~#036
+;0004BF1F{~02~No one is supposed=to be here...~00~}#040#034
+~02~Nadie debería=estar aquí¨\      ~00~#034
+;0004BF41{~02~Sorry, I'm not in=a good mood today~00~}#043#037
+~03~Perdón, hoy no=estoy de buen=humor.~00~#037
+;0004BF66{~02~My job is to keep=this garden alive~00~}#043#037
+~02~Mi trabajo es=cuidar el jardín.\   ~00~#037
+;0004BF8B{~03~But I ran out of=water for the=plants~00~}#045#039
+~02~Pero me he quedado=sin agua.\        ~00~#039
+;0004BFB2{~03~The owls don't let=me go out to get=more... ugh~00~}#055#049
+~03~Los búhos no me=dejan salir a por=más¨ Agh¨\   ~00~#049
+;0004BFE3{~02~Just a little...~00~}#024#018
+~02~Sólo un poco¨\  ~00~#018
+;0004BFF5{~02~Fight me!~00~}#017#011
+~02~¡Pelea!\ ~00~#011
+;0004C000{~03~Oh! You DO have=some water with=you?!~00~}#045#039
+~02~¡Oh! ¡¿TIENES un=poco de agua?!\     ~00~#039
+;0004C027{~03~Impressive... I've=never thought=you'd be useful~00~}#056#050
+~03~Impresionante¨=Nunca pensé que=serías útil.\    ~00~#050
+;0004C059{~03~Appreciated. I=like you a little=bit more now~00~}#053#047
+~03~Se agradece. Ahora=me gustas un poco=más.\   ~00~#047
+;0004C088{~02~Take this as proof=of my appreciation~00~}#045#039
+~03~Ten esto como=prueba de mi=aprecio.\ ~00~#039
+;0004C0AF{~02~You got a Flower!~00~}#025#019
+~02~¡Es una Flor!\   ~00~#019
+|1042
+@0004C0C2-0004C4DE-00
+;0004C0C2{~02~You know... people=love flowers~00~}#039#033
+~02~Sabes¨ La gente=ama las flores.~00~#033
+;0004C0E3{~02~Some idiot will=find this useful~00~}#040#034
+~02~Algún idiota lo=encontrará útil.~00~#034
+;0004C105{~02~I hope it is =not you~00~}#029#023
+~02~Espero que no tú.\   ~00~#023
+;0004C11C{~02~I ran out of water=for the plants~00~}#041#035
+~02~Me he quedado sin=agua.\         ~00~#035
+;0004C13F{~03~Oh! You do have=some water with=you?!~00~}#045#039
+~02~¡Oh! ¡¿Tienes un=poco de agua?!\     ~00~#039
+;0004C166{~02~Now I can water my=plants~00~}#033#027
+~02~Puedo regar mis=plantas.\~00~#027
+;0004C181{~02~Yay... more work~00~}#024#018
+~02~Bien¨ Trabajo.\ ~00~#018
+;0004C193{~03~Are you after that=badass bird with=the crystal ball?~00~}#061#055
+~04~¿Vas tras ese=pájaro bravucón=con la bola de=cristal?~00~#055
+;0004C1CA{~02~They passed by=here not long ago~00~}#040#034
+~02~Pasaron por aquí=no hace mucho.\~00~#034
+;0004C1EC{~03~I've warned them=that the Green=Maze lies ahead~00~}#055#049
+~03~Avisé de que el=Laberinto Verde=está delante.\ ~00~#049
+;0004C21D{~02~But they went in=anyways~00~}#032#026
+~02~Aún y así=continuaron.\ ~00~#026
+;0004C237{~02~They must know the=way through...~00~}#041#035
+~02~Deben conocer el=camino¨\        ~00~#035
+;0004C25A{~03~If you're going=inside the =Green Maze~00~}#046#040
+~03~Si vas a entrar en=el Laberinto=Verde,~00~#040
+;0004C282{~03~Follow the tracks,=and you'll find=the exit~00~}#051#045
+~03~sigue el rastro,=y encontrarás la=salida.\ ~00~#045
+;0004C2AF{~02~If you can't find=any tracks~00~}#036#030
+~02~Si no encuentras=rastro,\   ~00~#030
+;0004C2CD{~02~Then follow your=guts! Go north!~00~}#040#034
+~03~¡Sigue tu=instinto!=¡Al norte!\ ~00~#034
+;0004C2EF{~02~I don't know...~00~}#023#017
+~02~No sé¨\        ~00~#017
+;0004C300{~03~If you're going=inside the Green=Maze~00~}#045#039
+~02~Si entras en el=Laberinto Verde,\    ~00~#039
+;0004C327{~02~THE GREEN MAZE~00~}#022#016
+~02~LABERINTO VRD.~00~#016
+;0004C337{~03~Feeling lost?=It is ok to ask=for help.~00~}#047#041
+~03~¿Perdido?=Está bien pedir=ayuda.\      ~00~#041
+;0004C360{~03~Call 777-OWL and=speak with a=counselor today!~00~}#054#048
+~03~¡Llama al 777-BÚHO=y habla con un=asesor hoy!\~00~#048
+;0004C390{~02~You got the =Ice Key!~00~}#029#023
+~02~¡Recibes Llave=Hielo!~00~#023
+;0004C3A7{~03~So you're trying=to recharge your=battery, huh?~00~}#055#049
+~03~Así que intentas=recargar tu=batería, ¿eh?\    ~00~#049
+;0004C3D8{~03~You have enough=energy cells=already! Great!~00~}#052#046
+~04~¡Ya tienes=suficientes=células de=energía!\ ~00~#046
+;0004C406{~03~But your battery=is not ready to=charge yet!~00~}#052#046
+~03~¡Tu batería no=está lista para=ser cargada!\~00~#046
+;0004C434{~03~You have to freeze=it and fix its=components~00~}#052#046
+~03~Debes congelarla y=arreglas sus=componentes.~00~#046
+;0004C462{~02~You can do that in=Icra and Factoria~00~}#044#038
+~03~Puedes hacer eso=en Icra y=Factoría.~00~#038
+;0004C488{~03~You will need=to collect=energy cells~00~}#045#039
+~03~Deberás recoger=células de=energía.\ ~00~#039
+;0004C4AF{~03~7 energy cells are=enough to recharge=it fully~00~}#054#048
+~04~7 células de=energía la=cargarán por=completo.~00~#048
+|1053
+@0004C4DF-0004C8E6-00
+;0004C4DF{~02~I guess...~00~}#018#012
+~02~Supongo...~00~#012
+;0004C4EB{~03~Try to talk with=the little animals=around~00~}#050#044
+~03~Intenta hablar con=los animalitos de=aquí.~00~#044
+;0004C517{~02~Some of them will=tell the secrets ~00~}#043#037
+~03~Algunos te=contarán los=secretos¨\ ~00~#037
+;0004C53C{~02~of the areas where=they live.~00~}#037#031
+~02~de las zonas donde=viven.\   ~00~#031
+;0004C55B{~03~The secrets will=show in your area=map~00~}#046#040
+~03~Los secretos se=mostrarán en ese=mapa.~00~#040
+;0004C583{~02~If you have one...~00~}#026#020
+~02~Si tienes uno¨\   ~00~#020
+;0004C597{~02~And you fixed=your battery too!~00~}#039#033
+~02~¡Y arreglaste tu=batería!\     ~00~#033
+;0004C5B8{~03~You have=everything you=need!~00~}#037#031
+~03~¡Tienes todo lo=necesario!\  ~00~#031
+;0004C5D7{~02~Go ahead! Enter=the chamber!~00~}#036#030
+~02~¡Adelante!=¡A la cámara!\   ~00~#030
+;0004C5F5{~02~Your battery is=ready to charge~00~}#039#033
+~02~Tu batería ya=puede cargarse.\ ~00~#033
+;0004C616{~03~But you will need=to collect=energy cells~00~}#049#043
+~03~Pero deberás=recoger células de=energía¨\~00~#043
+;0004C641{~02~of the areas where=they live~00~}#036#030
+~02~de las zonas donde viven.\  ~00~#030
+;0004C65F{~02~Hey! You fixed it!=Good job!~00~}#036#030
+~03~¡Eh!=¡La arreglaste!=¡Bien!\~00~#030
+;0004C67D{~02~Now you can use=that elevator~00~}#037#031
+~02~Ya puedes usar ese=elevador.\~00~#031
+;0004C69C{~03~I really hope the=Owl King doesn't=hurt you!~00~}#052#046
+~03~¡Espero que el Rey=Búho no te haga=daño!\   ~00~#046
+;0004C6CA{~02~Be careful up=there, my friend!~00~}#039#033
+~02~¡Ten cuidado=arriba, amigo!\   ~00~#033
+;0004C6EB{~03~Your battery is=ready to charge=but...~00~}#046#040
+~03~Tu batería ya=puede cargarse=pero¨\   ~00~#040
+;0004C713{~02~Counting energy=cells...~00~}#032#026
+~02~Contando cél.=energía¨\ ~00~#026
+;0004C72D{~02~You have $06$=energy cells~00~}#034#028
+~02~Tienes $06$=cél. energía.\~00~#028
+;0004C749{~02~Initiating=charging process~00~}#035#029
+~02~Iniciando proceso=de carga.~00~#029
+;0004C766{~02~The battery is now=recharged!~00~}#037#031
+~02~¡La batería está=recargada!\ ~00~#031
+;0004C785{~02~You can use the=elevator now!~00~}#037#031
+~02~¡Ya puedes usar el=elevador!\~00~#031
+;0004C7A4{~02~ERROR: Not enough=energy cells~00~}#038#032
+~02~ERROR: Faltan=células energía.~00~#032
+;0004C7C4{~03~Battery needs 7=energy cells to=recharge fully~00~}#054#048
+~03~La batería=necesita 7 células=de energía.\    ~00~#048
+;0004C7F4{~02~The elevator is=locked...~00~}#033#027
+~02~Elevador=bloqueado¨\     ~00~#027
+;0004C80F{~02~You got the =Leaf Key!~00~}#030#024
+~02~¡Recibes Llave=Hoja!\ ~00~#024
+;0004C827{~02~We've met again,=bird hero~00~}#034#028
+~02~Volvemos a vernos,=héroe.\~00~#028
+;0004C843{~02~I'm afraid I can't=let you pass...~00~}#042#036
+~02~Me temo que no=puedo dejarte ir¨\ ~00~#036
+;0004C867{~02~The whole island=will suffer the~00~}#040#034
+~02~¡Toda la isla=sufrirá las\      ~00~#034
+;0004C889{~02~consequences of=what you're doing!~00~}#042#036
+~02~consecuencias de=lo que haces!\   ~00~#036
+;0004C8AD{~02~I won't go easy on=you this time...~00~}#043#037
+~02~Esta vez no te lo=pondré fácil¨\   ~00~#037
+;0004C8D2{~02~Ugh! You're=strong!~00~}#027#021
+~02~¡Ugh!=¡Eres fuerte!~00~#021
+|1032
+@0004C8E7-0004CD0E-00
+;0004C8E7{~02~But still not=strong enough...~00~}#038#032
+~02~Pero no lo=suficiente¨\       ~00~#032
+;0004C907{~02~You won't defeat=the Owl King~00~}#037#031
+~02~No derrotarás al=Rey Búho.\  ~00~#031
+;0004C926{~02~Stop playing the=savior role...~00~}#039#033
+~02~Deja de hacerte el=salvador¨\  ~00~#033
+;0004C947{~02~Have you ever been=a slave before?~00~}#042#036
+~02~¿Has sido un=esclavo antes?\      ~00~#036
+;0004C96B{~02~You cannot save=this island~00~}#035#029
+~02~No puedes salvar=esta isla¨~00~#029
+;0004C988{~02~If you don't=understand us!~00~}#035#029
+~02~¡Si no nos=entiendes!\     ~00~#029
+;0004C9A5{~02~Now, I will ask=one more time...~00~}#040#034
+~03~Ahora,=lo preguntaré otra=vez¨\ ~00~#034
+;0004C9C7{~02~Give me the=battery!~00~}#028#022
+~02~¡Dame la batería!\  ~00~#022
+;0004C9DD{~02~And stop playing=hero!~00~}#030#024
+~02~¡Deja de ser el=héroe!~00~#024
+;0004C9F5{~02~You... You're=stronger now...~00~}#037#031
+~02~Tú¨ Ahora eres más=fuerte¨\  ~00~#031
+;0004CA14{~02~But still...~00~}#020#014
+~02~Aún y así¨\ ~00~#014
+;0004CA22{~02~If you go up the=tower...~00~}#033#027
+~02~Si subes por la=torre¨\  ~00~#027
+;0004CA3D{~02~This island will=be doomed... ugh!~00~}#042#036
+~02~Esta isla será=condenada¨ ¡Ugh!\  ~00~#036
+;0004CA61{~03~If the Owl King=falls, we're all=free.~00~}#046#040
+~03~Si el Rey Búho=cae, seremos=libres.\  ~00~#040
+;0004CA89{~03~We've never been=so close to=freedom before~00~}#051#045
+~03~Nunca estuvimos=tan cerca de la=libertad.\ ~00~#045
+;0004CAB6{~02~Our hopes are on=you, little one~00~}#040#034
+~03~Eres nuestra=esperanza,=pequeño.~00~#034
+;0004CAD8{~02~But if you fail...~00~}#026#020
+~02~Pero si fracasas¨\~00~#020
+;0004CAEC{~02~I will remain here~00~}#026#020
+~02~Me quedaré aquí.\ ~00~#020
+;0004CB00{~02~We will keep=surviving~00~}#030#024
+~02~Sobreviviremos.\      ~00~#024
+;0004CB18{~02~We will keep=doing it our way~00~}#037#031
+~02~Seguiremos a=nuestra manera.\~00~#031
+;0004CB37{~04~Don't carry=this burden with=you in your final=battle~00~}#061#055
+~03~No te lleves esta=carga a tu batalla=final.\         ~00~#055
+;0004CB6E{~02~Rise to the top=little hero!~00~}#036#030
+~02~¡A la cima pequeño=héroe!\  ~00~#030
+;0004CB8C{~03~This island=brought you here=for a reason~00~}#049#043
+~02~Esta isla te trajo=por una razón.\       ~00~#043
+;0004CBB7{~03~These dark times=under the Owl=King's rule~00~}#050#044
+~03~Estos tiempos=oscuros del Rey=Búho¨\      ~00~#044
+;0004CBE3{~02~are about to end!~00~}#025#019
+~02~¡van a terminar!\~00~#019
+;0004CB56{~02~Farewell...~00~}#019#013
+~02~Adiós¨\    ~00~#013
+;0004CB63{~02~My little friend!~00~}#025#019
+~02~¡Pequeño amigo!\ ~00~#019
+;0004CB76{~02~THIS TIME I WON'T=LET MY GUARD DOWN!~00~}#044#038
+~02~¡ESTA VEZ NO=BAJARÉ LA GUARDIA!\    ~00~#038
+;0004CB9C{~02~YOU... YOU...~00~}#021#015
+~02~TÚ¨ TÚ¨\     ~00~#015
+;0004CBAB{~02~BIRD!~00~}#013#007
+~02~¡AVE!~00~#007
+;0004CBB2{~02~PREPARE TO KNOW~00~}#023#017
+~02~VAS A CONOCER,\~00~#017
+;0004CBC3{~02~THE WRATH OF THE=OWL KING!~00~}#034#028
+~02~¡LA IRA DEL REY=BÚHO!\    ~00~#028
+;0004CBDF{~02~IM-IMPOSSIBLE!~00~}#022#016
+~02~¡IM-IMPOSIBLE!~00~#016
+;0004CC8F{~02~Welcome to the=King's Room~00~}#034#028
+~02~Bienvenido a la=Sala Real.~00~#028
+;0004CCAB{~02~You foolish=creature...~00~}#031#025
+~02~Estúpida=criatura¨\    ~00~#025
+;0004CCC4{~02~I am a merciful=king, you know?~00~}#039#033
+~02~Soy un rey=piadoso, ¿sabes?\   ~00~#033
+;0004CCE5{~03~I'll give you a=fair chance to=defeat me~00~}#048#042
+~03~Te daré una=oportunidad de=derrotarme.\ ~00~#042
+|1064
+@0004CD0F-0004D009-00
+;0004CC6F{~02~If you survive,=you may live~00~}#036#030
+~02~Si sobrevives,=podrías ser¨\~00~#030
+;0004CC8D{~02~Perhaps as my=slave!~00~}#028#022
+~02~¡Quizá mi esclavo!\ ~00~#022
+;0004CCA3{~02~He he he he...~00~}#022#016
+~02~Je je je je¨\ ~00~#016
+;0004CCB3{~02~Now! Show me what=you got!~00~}#034#028
+~02~¡Muéstrame lo que=vales!\ ~00~#028
+;0004CCCF{~02~Hero...~00~}#015#009
+~02~Héroe¨\~00~#009
+;0004CCD8{~02~HOW THE HELL HAVE=YOU DONE THAT?!~00~}#041#035
+~02~¡¿CÓMO DIABLOS=HICISTE ESO?!\    ~00~#035
+;0004CCFB{~02~AAAARRRRGHHH!~00~}#021#015
+~02~¡AAARRRRGHHH!~00~#015
+;0004CD0A{~02~I HATE YOU!!!~00~}#021#015
+~02~¡¡¡TE ODIO!!!~00~#015
+;0004CD19{~02~I heard a lot=about you...~00~}#034#028
+~02~He oído mucho=sobre ti¨\  ~00~#028
+;0004CD35{~02~The islanders call=you a hero!~00~}#038#032
+~02~¡Los isleños te=llaman héroe!\~00~#032
+;0004CD55{~02~Did you come to=destroy me?~00~}#035#029
+~02~¿Has venido a=destruirme?\ ~00~#029
+;0004CD72{~02~he he he...~00~}#019#013
+~02~Je je je¨\ ~00~#013
+;0004CD7F{~02~HAHAHAHA!~00~}#017#011
+~02~¡JAJAJA!\~00~#011
+;0004CD8A{~02~There is nothing=for you here~00~}#037#031
+~02~Aquí no hay nada=para ti.\   ~00~#031
+;0004CDA9{~02~Only fear...~00~}#020#014
+~02~Solo miedo¨\~00~#014
+;0004CDB7{~02~Pain...~00~}#015#009
+~02~Dolor¨\~00~#009
+;0004CDC0{~02~Oblivion...~00~}#019#013
+~02~Olvido¨\   ~00~#013
+;0004CDCD{~03~DO YOU THINK YOU=CAN JUST COME HERE=~00~}#044#038
+~02~CREES QUE PUEDES=VENIR AQUÍ,\       ~00~#038
+;0004CDF3{~02~AND DESTROY=EVERYTHING?!~00~}#032#026
+~02~¡¿Y DESTRUIRLO=TODO?!\  ~00~#026
+;0004CE0D{~02~THIS IS MY=KINGDOM!~00~}#027#021
+~02~¡ESTE ES MI REINO!\~00~#021
+;0004CE22{~02~I WILL NOT =ALLOW IT!~00~}#029#023
+~02~¡NO LO PERMITIRÉ!\   ~00~#023
+;0004CE39{~02~NEVER!~00~}#014#008
+~02~¡NO!\ ~00~#008
+;0004CE41{~02~NEVEEEEEEER!~00~}#020#014
+~02~¡NUNCAAAAAA!~00~#014
+;0004CE4F{~02~The wind...~00~}#019#013
+~02~El aire¨\  ~00~#013
+;0004CE5C{~02~The wind is=changing...~00~}#031#025
+~02~El viento cambia¨\     ~00~#025
+;0004CE75{~02~Oh! What is that?!~00~}#026#020
+~02~¡Oh! ¿Qué es eso?\~00~#020
+;0004CE89{~02~I can see the=tower clearly!~00~}#036#030
+~02~¡Veo la torre=claramente!\  ~00~#030
+;0004CEA7{~02~The storm is gone!~00~}#026#020
+~02~¡No hay tormenta!\~00~#020
+;0004CEBB{~03~I wonder if my=little friend is=ok...~00~}#045#039
+~02~Estará bien mi=pequeño amigo¨\       ~00~#039
+;0004CEE2{~02~The Owl King is=nowhere to be seen~00~}#042#036
+~02~El Rey Búho ha=desaparecido.\     ~00~#036
+;0004CF06{~02~But the storm=spell is gone~00~}#035#029
+~02~Pero la tormenta=no está.\ ~00~#029
+;0004CF23{~02~The island is=finally free!~00~}#035#029
+~02~¡La isla es libre=al fin!\ ~00~#029
+;0004CF40{~02~Continue=New Game~00~}#025#019
+~02~Continúa=Empieza\~00~#019
+;0004CF53{~02~Yes=No~00~}#014#008
+~02~Sí=No\~00~#008
+;0004CF5B{~02~Continue=Quit~00~}#021#015
+~02~Continúa=Sale~00~#015
+|763

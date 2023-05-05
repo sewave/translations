@@ -1,0 +1,933 @@
+@00006052-00006057-00
+;00006052{Sala ~00~}#009#006
+Sala ~00~#006
+|6
+@0000629E-00006308-00
+;0000629E{Strength=Mystic=Character=Allegiance=Last Met~00~}#049#046
+Fuerza  =Místico=Carácter=Lealtad   =Visto en~00~#046
+;000062CC{Quantity=Weight=Total Wgt.=Value=Total Val.=Nutrition=Mystic~00~}#064#061
+Cantidad=Peso =Peso Tot. =Valor=Valor Tot.=Nutrición=Místico~00~#061
+|107
+@00007AEB-00007B0A-00
+;00007AEB{New Game~00~}#012#009
+Empezar ~00~#009
+;00007AF4{Are you sure?~00~}#017#014
+Estás seguro?~00~#014
+;00007B02{Yes.~00~}#008#005
+Sí. ~00~#005
+;00007B07{No.~00~}#007#004
+No.~00~#004
+|32
+@00007B23-00007B62-00
+;00007B23{Options.~00~}#012#009
+Opciones~00~#009
+;00007B2C{Inventory.~00~}#014#011
+Inventario~00~#011
+;00007B37{Sleep.~00~}#010#007
+Dormir~00~#007
+;00007B3E{Save Game.~00~}#014#011
+Salvar    ~00~#011
+;00007B49{New Game.~00~}#013#010
+Empezar  ~00~#010
+;00007B53{Exit This Menu.~00~}#019#016
+Salir Del Menú ~00~#016
+|64
+@0001CAD8-0001CF16-00
+;0001CAD8{         Maze Sections==           Castle ~23~1==           Castle ~23~2==           Castle ~23~3==           Castle ~23~4==         Sound FX Test=~00~}#151#136
+         Secciones La.==
+           Castillo1==
+           Castillo2==
+           Castillo3==
+           Castillo4==
+         PruebaEfectos=~00~#136
+;0001CB60{Start~00~}#009#006
+Nueva~00~#006
+;0001CB66{Load~00~}#008#005
+Crga~00~#005
+;0001CB6B{Developed by Psygnosis Ltd.~00~}#031#028
+  Desarrolla Psygnosis Ltd.~00~#028
+;0001CB87{~40~ 1991,1993 Psygnosis Ltd.~00~}#033#027
+~40~ 1991,1993 Psygnosis Ltd.~00~#027
+;0001CBA2{~40~ 1993 Bullet-Proof Software.~00~}#036#030
+~40~ 1993 Bullet-Proof Software.~00~#030
+;0001CBC0{Licensed by Nintendo.~00~}#025#022
+Licencia de Nintendo.~00~#022
+;0001CBD6{Your time in this land has come to an end.=Your flesh will feed the Carrion Crows.....==         GAME OVER~00~}#110#107
+Tu tiempo en esta tierra ha llegado a su fin.=
+Tu carne alimentará a los Cuervos...=    =
+         FIN JUEGO~00~#107
+;0001CC41{None.~00~}#009#006
+Nada\~00~#006
+;0001CC47{Low.~00~}#008#005
+Bajo~00~#005
+;0001CC4C{High.~00~}#009#006
+Alto\~00~#006
+;0001CC52{Unknown.~00~}#012#009
+Ignoto\ ~00~#009
+;0001CC5B{----------~00~}#014#011
+----------~00~#011
+;0001CC66{Weak.~00~}#009#006
+Débil~00~#006
+;0001CC6C{Low~00~}#007#004
+Bjo~00~#004
+;0001CC70{Un-Known.~00~}#013#010
+Ignoto\  ~00~#010
+;0001CC7A{Strong~00~}#010#007
+Fuerte~00~#007
+;0001CC81{Powerful !~00~}#014#011
+Poderoso !~00~#011
+;0001CC8C{Domakk~00~}#010#007
+Domakk~00~#007
+;0001CC93{Lord Cullen.~00~}#016#013
+Lord Cullen.~00~#013
+;0001CCA0{Lord Burville.~00~}#018#015
+Lord Burville.~00~#015
+;0001CCAF{Lord Blakestone.~00~}#020#017
+Lord Blakestone.~00~#017
+;0001CCC0{Lord Drakehurst.~00~}#020#017
+Lord Drakehurst.~00~#017
+;0001CCD1{None.~00~}#009#006
+Nada\~00~#006
+;0001CCD7{Servant of Zaman~00~}#020#017
+Siervo de Zaman\~00~#017
+;0001CCE8{Queen Genvieve~00~}#018#015
+Reina Genvieve~00~#015
+;0001CCF7{Old King Cullen~00~}#019#016
+ViejoRey Cullen~00~#016
+;0001CD07{Mysterious~00~}#014#011
+Misterioso~00~#011
+;0001CD12{Unyielding~00~}#014#011
+Inflexible~00~#011
+;0001CD1D{Untrustworthy~00~}#017#014
+No confiable\~00~#014
+;0001CD2B{Courageous~00~}#014#011
+Valiente\ ~00~#011
+;0001CD36{Honest~00~}#010#007
+Digno\~00~#007
+;0001CD3D{Brave~00~}#009#006
+Bravo~00~#006
+;0001CD43{Loyal~00~}#009#006
+Leal\~00~#006
+;0001CD49{Partisan~00~}#012#009
+Parcial\~00~#009
+;0001CD52{Trustworthy~00~}#015#012
+Fidedigno\ ~00~#012
+;0001CD5E{Stealthy~00~}#012#009
+Sigiloso~00~#009
+;0001CD67{Vicious~00~}#011#008
+Feroz\ ~00~#008
+;0001CD6F{Treacherous~00~}#015#012
+Traicionero~00~#012
+;0001CD7B{Friendly~00~}#012#009
+Amistoso~00~#009
+;0001CD84{Fiendish~00~}#012#009
+Diabóli.~00~#009
+;0001CD8D{Dangerous~00~}#013#010
+Peligroso~00~#010
+;0001CD97{Amiable~00~}#011#008
+Amable\~00~#008
+;0001CD9F{Astute~00~}#010#007
+Astuto~00~#007
+;0001CDA6{Fearsome~00~}#012#009
+Temible ~00~#009
+;0001CDAF{Fearless~00~}#012#009
+SinMiedo~00~#009
+;0001CDB8{strength=weight=fatigue~00~}#027#024
+fuerza=  peso  =fatiga ~00~#024
+;0001CDD0{time=date~00~}#013#010
+tmp=fecha~00~#010
+;0001CDDA{Quantity=Weight=Total Wgt.=Value=Total Val.=Nutrition=Mystic~00~}#064#061
+Cantidad=Peso =Peso Tot. =Valor=Valor Tot.=Nutrición=Místico~00~#061
+;0001CE17{Strength~00~}#012#009
+Fuerza\ ~00~#009
+;0001CE20{Mystic~00~}#010#007
+Místi.~00~#007
+;0001CE27{Character~00~}#013#010
+Carácter\~00~#010
+;0001CE31{Allegiance~00~}#014#011
+Lealtad\  ~00~#011
+;0001CE3C{What Ho! Can you be young pretender, whose coming was foretold? I am Sir Grumwold, Champion of Lord Drakehurst.~00~}#115#112
+Qué? Puedes ser el joven pretendiente cuya llegada fue anunciada? Soy Sir Grumwold, campeón de Lord Drakehurst.~00~#112
+;0001CEAC{Get thee gone upstart knave. You cannot defeat me. Return when you're more worthy and I shall strike thee.~00~}#110#107
+Lárgate, bribón advenedizo. No puedes vencerme. Vuelve cuando seas más digno y te golpearé.\              ~00~#107
+|1087
+@0001CF17-0001D335-00
+;0001CF17{I will not soil my blade with the likes of thou.=Besides, my Lords bowmen will strike thee well.~00~}#100#097
+No ensuciaré mi espada con gente como tú.=
+Además, mis Señores arqueros te acertarán bien.\      ~00~#097
+;0001CF78{Art thou the one? I am Maladina, thy ally. Long have we awaited thy coming! ~00~}#080#077
+Eres tú? Soy Maladina, tu aliada. Hace tiempo que esperamos tu llegada!\    ~00~#077
+;0001CFC5{Take these keys I hold and use them well. =Northwest to Eldon mine and into Drakehurst castle go.=But beware the fearsome traps.~00~}#132#129
+Toma estas llaves y úsalas bien.=Noroeste a la mina de Eldon y al castillo de Drakehurst ve.=Cuidado con las temibles trampas.\ ~00~#129
+;0001D046{These keys open but half of Drakehursts inner halls. Half again are held by Annore, deep in Eldon. Alas the gate key lies lost in Eldon.~00~}#140#137
+Estas llaves abren la mitad de las salas de Drakehurst. La mitad las tiene Annore, en Eldon. Esa llave de la puerta se perdió en Eldon.\~00~#137
+;0001D0CF{Sleep not, saving that you be guarded by one you trust. Be wary of all. If in doubt, use the ring, but it will tire thee.~00~}#125#122
+No duermas, salvo que te custodie alguien de confianza. Desconfía de todo. Si dudas, usa el anillo, pero te cansará.\    ~00~#122
+;0001D149{Greetings errant one, it is I, Morant, your friend. I will aid thee in what small way I might. When you tire, sleep here in safety. I will guard you.~00~}#153#150
+Saludos errante, soy yo, Morant, tu amigo. Te ayudaré en lo que pueda. Cuando te canses, duerme aquí con seguridad. Yo te protegeré.\                ~00~#150
+;0001D1DF{Great hero, you must be tired. Rest here a while and I will guard you.~00~}#074#071
+Gran héroe, estarás cansado. Descansa aquí un rato y yo te cuidaré.\  ~00~#071
+;0001D226{I hold a parchment - one of many, scattered throughout this land. To find them all is a fruitless task, =best not to bother...~00~}#130#127
+Tengo un pergamino, uno de los muchos repartidos por esta tierra. Hallarlos todos es infructuoso, =mejor no molestarse...\    ~00~#127
+;0001D2A5{You shall not find the spellbound pages. =So go instead and strike Sir Grumwold, who lies about his strength, and then bring his treasure to me.~00~}#148#145
+No encontrarás las páginas hechizadas.=Así que ve en su lugar y golpea a Sir Grumwold, que miente sobre su fuerza, y luego tráeme su tesoro.\   ~00~#145
+|1055
+@0001D336-0001D749-00
+;0001D336{Sir Grumwold guards a precious stone - one of four you must seek, but he is strong. Bide time, for there are more powerful things in Drakehust castle.~00~}#154#151
+Sir Grumwold guarda una piedra preciosa, de las cuatro que debes buscar, pero es fuerte. Aguarda, hay cosas más poderosas en el castillo de Drakehust.~00~#151
+;0001D3CD{No point in leaving FalconWood until Maladina you have met. She holds the keys to Drakehurst's  locks which you must have for passage.~00~}#138#135
+No tiene sentido salir de FalconWood hasta conocer a Maladina. Tiene las llaves de las cerraduras de Drakehurst necesarias para pasar.~00~#135
+;0001D454{You have done great evil. By your hand Maladina has gone. If she did not give you her keys then you can not complete your quest.~00~}#132#129
+Has hecho un gran mal. Por tu mano Maladina se ha ido. Si ella no te dio sus llaves, entonces no puedes completar tu búsqueda.\ ~00~#129
+;0001D4D5{I have a gift with special worth. =Store safe and hold until the time is right, when Zaman recovers his lost and scattered book.~00~}#132#129
+Tengo un regalo con un valor especial. =Guárdalo bien y mantenlo hasta que Zaman recupere su libro perdido y disperso.\         ~00~#129
+;0001D556{Only Zaman can give you the power to defeat Lord Cullen's knight. But I speak of the end of your quest, which has just begun.~00~}#129#126
+Sólo Zaman puede darte el poder para derrotar al caballero de Lord Cullen. Pero es al final de tu búsqueda, que justo empezó.~00~#126
+;0001D5D4{So, my Master has his book once more.=If you have not so done, take the gem I gave you to the Catacombs and place it in it's niche.~00~}#135#132
+Así, mi Maestro tiene su libro una vez más.=Si no lo has hecho, lleva la gema que te di a las Catacumbas y colócala en su nicho.\  ~00~#132
+;0001D658{You have no business along this way... Beyond lie things that are best left un-disturbed.....~00~}#097#094
+No tienes nada que hacer en este camino... Más allá hay cosas que es mejor no molestar...\   ~00~#094
+;0001D6B6{I know you have the missing keys to Burville castle....=There lies within a marked room which you would do well to avoid - at least for a while....~00~}#151#148
+Sé que tienes las llaves perdidas del castillo de Burville...=Hay una habitación marcada que harías bien en evitar - al menos por un tiempo...\    ~00~#148
+|1044
+@0001D74A-0001DB5E-00
+;0001D74A{I have an amulet - more precious than gold itself. Trade me what you will and use in times of danger. ~00~}#106#103
+Tengo un amuleto, más precioso que el oro. Cámbiamelo por lo que quieras y úsalo en época de peligro.\~00~#103
+;0001D7B1{Long time this land awaits you.... =Dare you to enter Burville castle, there you'll find a marked room - The keeper of the books works there. =~00~}#147#144
+Mucho esta tierra te espera...=Osa entrar en el castillo de Burville, allí hallarás una sala marcada - El guardián de los libros trabaja allí.=~00~#144
+;0001D841{His sign is a face, and two hands with six digits each. Trouble him not until you have his book.~00~}#100#097
+Su signo es una cara y dos manos con seis dígitos cada una. No le molestes hasta tener su libro.~00~#097
+;0001D8A2{Welcome hero, I, Grimlock greet you. You look fatigued - rest here a while.=Fear not, I will guard thee!~00~}#108#105
+Bienvenido héroe, yo, Grimlock te saludo. Pareces fatigado, descansa un rato.=No temas, yo te protegeré!~00~#105
+;0001D90B{None have passed this way before,=nor shall you pass right now.=No weapon you may hold has power=over me !~00~}#110#107
+Nadie ha pasado por aquí antes,=ni pasarás tú ahora.=Ningún arma que tengas tiene poder=sobre mí!\        ~00~#107
+;0001D976{The bragging one of RuneWood shall be undone.=Beyond him lies a page enchanted..... =And trust not Grimlock. He lies.~00~}#121#118
+El fanfarrón de RuneWood será deshecho.=Más allá de él yace una página encantada...=Y no confíes en Grimlock. Miente.~00~#118
+;0001D9EC{Cullen castle awaits you traveler...=No mortal, having entered there, lived to see the new day dawning.....~00~}#111#108
+El castillo de Cullen te espera viajero...=Ningún mortal, entró y vivió para ver amanecer el nuevo día...\ ~00~#108
+;0001DA58{Lord Cullen keeps his fortress strong.=But there may be a way in, through its dungeons deep which lie open nearby. ~00~}#119#116
+Lord Cullen mantiene su fortaleza fuerte.=Quizá puedas entrar por sus profundas mazmorras que yacen abiertas cerca.~00~#116
+;0001DACC{Seek out the northern passage in this place and once there, smite the guardian. Beyond him lies the means to the passage where no passage lies... ~00~}#150#147
+Busca el pasaje del norte en este lugar y una vez allí, golpea al guardián. Más allá de él está el camino al pasaje donde no hay pasaje...\       ~00~#147
+|1045
+@0001DB5F-0001DFB4-00
+;0001DB5F{'Neath castle Cullen - dungeons lie. Eastbound hidden, westbound seen - a secret path may be revealed - but waste no time in leaving !~00~}#138#135
+Bajo castillo Cullen - hay mazmorras. Al este ocultas, al oeste vistas - un camino secreto puede revelarse - pero apresúrate en salir!~00~#135
+;0001DBE6{Greetings!  I, Evalak of the Dwarves welcome you to Eldon mine. Beware the cave hounds that roam here - they bite!~00~}#118#115
+Saludos! Yo, el Enano Evalak, os recibo en la mina de Eldon. Cuidado con los sabuesos de las cavernas - muerden!\ ~00~#115
+;0001DC59{Ancient catacombs are said to underlie all four shires. =Find rope to aid your descent......~00~}#096#093
+Dicen que viejas catacumbas subyacen a las cuatro comarcas. =Halla una cuerda para bajar...\~00~#093
+;0001DCB6{Beware the patrolling knights that roam Eldon. Trust not their advice and flee their company.~00~}#097#094
+Cuidado con los caballeros patrulleros por Eldon. No confíes en sus consejos y huye de ellos.~00~#094
+;0001DD14{Conserve your torches for the journey ahead. =Some places desire special light - else in darkness they remain.~00~}#114#111
+Conserva las antorchas para el viaje. =Algunos lugares desean una luz especial, o permanecen en la oscuridad.\~00~#111
+;0001DD83{Now you have the Dwarven key, Burville may be yours.=Back to the tower and on through Fernholt fly, but tread light on stony floors.....~00~}#140#137
+Como tienes la llave enana, Burville puede ser tuya.=Vuelta a la torre y a por Fernholt vuela, pero pisa ligero en suelos pedregosos...\~00~#137
+;0001DE0C{Your progress surprises me, intruder.=None thought you'd make it this far - which now is far enough !~00~}#105#102
+Tu progreso me sorprende, intruso.=Nadie pensaba que llegarías tan lejos - que ahora ya es bastante!\~00~#102
+;0001DE72{I am Leona, friend of Maladina. These =keys will undo Blakestone's inner halls. The entrance lies nearby.~00~}#109#106
+Soy Leona, amiga de Maladina. Estas =llaves abrirán los pasillos interiores de Blakestone. Está cerca.\  ~00~#106
+;0001DEDC{Still, your journey is incomplete.=Though I side with no ruler, I can not let you pass !~00~}#092#089
+Pero tu viaje está incompleto.=Aún sin estar con un gobernante, no puedo dejarte pasar!\~00~#089
+;0001DF35{Beneath lie secret catacombs which traverse the four shires of the land.=A northern passage, a western turn, will =reveal them.~00~}#131#128
+Debajo yacen catacumbas secretas que atraviesan los cuatro condados.=Un pasaje al norte, un giro al oeste, las =revelará.\     ~00~#128
+|1110
+@0001DFB5-0001E3EB-00
+;0001DFB5{Look carefully 'mongst bones here, you might find a valuable asset - the south west zone and RuneWood revealed will be.~00~}#123#120
+Mira bien los huesos de aquí, podrías encontrar un activo valioso - la zona suroeste y RuneWood revelados serán.\      ~00~#120
+;0001E02D{To the Catacombs, you must go - to find a hidden key, without which your quest is fruitless. Ignore Isolde - He's mad! ~00~}#123#120
+A las Catacumbas debes ir - para hallar una llave oculta, sin ella tu búsqueda se detiene. Ignora a Isolde - Está loco!~00~#120
+;0001E0A5{Take with you this gem and show=to no man....  It enables a special light in the lower zone !~00~}#097#094
+Llévate esta joya y no se la enseñes a nadie...  Activa una luz especial en la zona inferior!~00~#094
+;0001E103{Above this place is castle Cullen - a fearsome fortress !=Many precious things are held within, with all manner of foes to guard them.=Tread warily !~00~}#153#150
+Encima está el castillo Cullen - una temible fortaleza!=Contiene muchas cosas preciosas, con todo tipo de enemigos custodiándolas.=Pisa con cuidado!\~00~#150
+;0001E199{You stand within the Cullen dungeons - where all is not as it seems.=A hidden path will be revealed if you possess the Key....~00~}#130#127
+Estás en las mazmorras de los Cullen, donde no todo es lo que parece.=Si posees la Llave se revelará un camino oculto...\     ~00~#127
+;0001E218{Conserve the powder of fire you acquire, for there will come a time of need.=Instead, use arrows on the lighter foes.~00~}#121#118
+Conserva la pólvora de fuego, en cierto momento será necesaria.=En su lugar, usa flechas contra enemigos débiles.\   ~00~#118
+;0001E28E{Bring me the enchanted pages bound and you shall be rewarded with the strongest magic - so powerful as to smite all known things........~00~}#140#137
+Tráeme las páginas encantadas encuadernadas y serás recompensado con la magia más poderosa - tanto como para golpear todo lo conocido...~00~#137
+;0001E317{My pages lost are scattered throughout the land.=Bring them all to me, though you must need defeat all four lords so to do.~00~}#127#124
+Mis páginas perdidas están esparcidas por toda la tierra.=Tráemelas todas, aunque deberás derrotar a los cuatro señores.\  ~00~#124
+;0001E393{I guard the entrance to Drakehurst.=You may not pass - a wasted journey for you I fear !~00~}#092#089
+Vigilo la entrada a Drakehurst.=No puedes pasar - Me temo que será un viaje en vano.\   ~00~#089
+|1079
+@0001E3EC-0001E7F7-00
+;0001E3EC{What would you give for the ultimate prize?=This crown I hold will give you powers un-dreamed of....~00~}#104#101
+Qué darías por el premio final?=Esta corona que tengo te dará poderes insospechados...\             ~00~#101
+;0001E451{You will fall 'neath a brilliant red sky....~00~}#048#045
+Caerás bajo un brillante cielo rojo...\     ~00~#045
+;0001E47E{My liege=Flibble flim ! Bander bott !=Where you are is where you're not.~00~}#076#073
+Mi señor=Cara graciosa! Botador!=Donde estás es donde no estás.\        ~00~#073
+;0001E4C7{It seems that you are bound for Cullen !=these keys may ease your task...~00~}#077#074
+Parece que vas a Cullen.=Estas llaves pueden facilitarte la tarea...\    ~00~#074
+;0001E511{The Book-Keeper might help you on your way.~00~}#047#044
+El Guardián de Libros podría ayudarte.\    ~00~#044
+;0001E53D{Dare not travel to the underworld without a means to see ....~00~}#065#062
+No te atrevas a viajar al inframundo sin un medio para ver...~00~#062
+;0001E57B{Zaman is the key ....~00~}#025#022
+Zaman es la clave...\~00~#022
+;0001E591{Sleep only where a friend stands guard, and never within the castles ~00~}#073#070
+Duerme solo si un amigo hace guardia, y nunca dentro de castillos.\  ~00~#070
+;0001E5D7{A gem placed high above a door will hasten your departure ....~00~}#066#063
+Una gema colocada encima de una puerta acelerará tu partir...\~00~#063
+;0001E616{Far below the tower is the final puzzle piece ...~00~}#053#050
+Bajo la torre está la última pieza de puzle...\  ~00~#050
+;0001E648{No more can I reveal.~00~}#025#022
+No puedo decirte más.~00~#022
+;0001E65E{Some things you must find for yourself!~00~}#043#040
+Algunas cosas debes descubrirlas tú!\  ~00~#040
+;0001E686{Move on and more information may unfold.~00~}#044#041
+Sigue y más información será revelada.\ ~00~#041
+;0001E6AF{You must seek help from others...~00~}#037#034
+Debes buscar ayuda de otros...\  ~00~#034
+;0001E6D1{For me to say more would be foolish...~00~}#042#039
+Que yo diga más sería insensato...\   ~00~#039
+;0001E6F8{The less wise among us might tell more...~00~}#045#042
+El menos sabio podría contarte más...\   ~00~#042
+;0001E722{If you are tired, rest and I will guard you. ~00~}#049#046
+Si estás cansado, descansa y te protegeré.\  ~00~#046
+;0001E750{Ask no more of me - eyes are watching!~00~}#042#039
+No me pidas más- Hay ojos observando!\~00~#039
+;0001E777{What would you trade for my ~00~}#032#029
+Qué me darías por mi \      ~00~#029
+;0001E794{Stand off, intruder!~00~}#024#021
+Aparta, intruso!\   ~00~#021
+;0001E7A9{Pass this way and you shall be smitten!~00~}#043#040
+Pasa por aquí y serás azotado!\        ~00~#040
+;0001E7D1{Your time in this land is nearly done!~00~}#042#039
+Tu tiempo en esta tierra se agota!\   ~00~#039
+|1036
+@0001E7F8-0001EBFA-00
+;0001E7F8{Turn now and flee, else prepare for combat!~00~}#047#044
+Gírate y huye, si no prepárate para pelear.~00~#044
+;0001E824{Depart from this place if you wish to survive!~00~}#050#047
+Abandona este lugar si quieres sobrevivir!\   ~00~#047
+;0001E853{You are not welcome here!~00~}#029#026
+No eres bienvenido aquí!\~00~#026
+;0001E86D{Yield or you shall be smitten!~00~}#034#031
+Ríndete o serás golpeado!\    ~00~#031
+;0001E88C{Make haste whence you came!~00~}#031#028
+Date prisa por la entrada!\~00~#028
+;0001E8A8{You are standing in a=tall stone tower.=Four heavy doors are=set within the walls.=A silver key lies on=the cold stone floor....~00~}#132#129
+Estás delante de una=
+alta torre de piedra.=
+Cuatro pesadas puertas=
+yacen en los muros.=
+Hay una llave de plata=
+en el frío suelo...~00~#129
+;0001E929{You are leaving the=sanctuary of the =tower.==FalconWood lies ahead....~00~}#075#072
+Estás saliendo del=
+santuario de la torre.==
+FalconWood está=
+delante...\ ~00~#072
+;0001E971{The north east door=leads to Fernholt.==You now enter Lord=Burville's shire.~00~}#080#077
+La puerta noreste=
+lleva a Fernholt.==
+Entras en el condado=
+de Lord Burville.\~00~#077
+;0001E9BE{RuneWood awaits you=as the quest continues=into the domain of=Lord Blakestone.~00~}#082#079
+RuneWood te espera=
+mientras la aventura=
+sigue al dominio de=
+Lord Blakestone.\ ~00~#079
+;0001EA0D{Into BinnanWood,=now you travel - =the domain of=Lord Cullen.....~00~}#069#066
+A BinnanWood,=
+ahora viajas -=
+El dominio de Lord=
+Cullen...\       ~00~#066
+;0001EA4F{You have returned=to the tower.=No mortal will bring=you harm whilst you=remain within its=protective walls.~00~}#112#109
+Has vuelto a la torre.=
+Ningún mortal te=
+hará daño mientras=
+permanezcas dentro=
+de sus muros=
+protectores.\    ~00~#109
+;0001EABC{Again the Tower=beckons - again=the journey turns...~00~}#056#053
+De nuevo la Torre=
+llama - De nuevo el=
+viaje gira...\~00~#053
+;0001EAF1{Enough of RuneWood.=Take comfort in=these stony walls.~00~}#058#055
+Basta de RuneWood.=
+Acomódate en estos=
+muros de piedra.~00~#055
+;0001EB28{Through the Tower=all journeys pass.=The safest place to=rest is here....~00~}#077#074
+A través de la Torre=
+todo viaje pasa.=
+El lugar más seguro=
+de descanso...\~00~#074
+;0001EB72{Out from Eldon and=into Falconwood - =all manner of foes=await you.......~00~}#077#074
+Fuera de Eldon y=
+hacia Falconwood -=
+Todo tipo de=
+enemigos te=
+esperan...\ ~00~#074
+;0001EBBC{Downwards you go -=the subterranean=Catacombs are =revealed...~00~}#066#063
+Hacia abajo vas -=
+Las catacumbas=
+subterráneas son=
+reveladas...~00~#063
+|1027
+@0001EBFB-0001F059-00
+;0001EBFB{You have the means=to ascend back into=Eldon - the bones of=lesser men lie below !~00~}#086#083
+Tienes los medios=
+para volver a subir=
+a Eldon - Huesos de=
+hombre menores=
+debajo!\ ~00~#083
+;0001EC4E{Here lies the entrance=to Eldon mine - and =the forgotten=Lower Zone.~00~}#073#070
+Aquí yace la entrada=
+a la mina Eldon -=
+Y a la olvidada Zona=
+Inferior.~00~#070
+;0001EC94{DrakeHurst castle=lies above.=Never before has=it been breached,=nor given up its=secrets......~00~}#099#096
+Ahí yace el castillo=
+DrakeHurst.=
+Nunca ha sido=
+quebrantado, ni ha=
+renunciado a sus=
+secretos...\~00~#096
+;0001ECF4{Through Eldon mine=you need to pass=again to reach the=outside world....~00~}#076#073
+La mina Eldon debes=
+volver a pasar para=
+llegar al mundo=
+exterior...\    ~00~#073
+;0001ED3D{A fortress here lies -=Burville by name.==Closely guarded=treasures lie within.~00~}#083#080
+Aquí yace una=
+fortaleza -=
+Burville.==
+En su interior yacen=
+tesoros protegidos.\ ~00~#080
+;0001ED8D{These steps lead to=Burville castle -=drawing you towards=the light above...~00~}#080#077
+Estos pasos dirigen=
+al castillo=
+Burville -=
+Acercándote a la luz=
+superior...\~00~#077
+;0001EDDA{These steps lead to=dungeons dark - the=banished ones patrol=them....~00~}#073#070
+Esos pasos dirigen a=
+mazmorras oscuras -=
+Los desterrados=
+patrullan...~00~#070
+;0001EE20{The Lower Zone is=waiting - be sure=that you are armed=before you explore...~00~}#080#077
+La Zona Inferior te=
+espera - Asegúrate=
+de estar armado=
+antes de bajar...\   ~00~#077
+;0001EE6D{Paltry choice has he=who must question=himself between the=Burville dungeons=and the catacombs...~00~}#101#098
+Poca elección tiene=
+quien debe debatirse=
+entre las mazmorras=
+de Burville y las=
+catacumbas...\    ~00~#098
+;0001EECF{You are entering=StoneRidge caves -==The dank underlands=of the=low western shire....~00~}#089#086
+Estás entrando en=
+las cuevas=
+StoneRidge -==
+Húmeda tierra baja=
+de la comarca=
+oeste...\~00~#086
+;0001EF25{You are heading=back through=RuneWood.=Proceed with caution=tho' you have passed=this way before.....~00~}#105#102
+Estás volviendo a=
+través de Fernholt.=
+Procede con cautela,=
+aunque ya has pasado=
+por aquí antes...\   ~00~#102
+;0001EF8B{You are heading=back through=Fernholt.=Proceed with caution=tho' you have passed=this way before.....~00~}#105#102
+Estás volviendo a=
+través de Fernholt.=
+Procede con cautela,=
+aunque ya has pasado=
+por aquí antes...\   ~00~#102
+;0001EFF1{You have arrived at=BlakeStone castle, an=imposing stronghold.==Beware the guardians=that lie within....~00~}#108#105
+Llegaste al castillo=
+BlakeStone, una=
+imponente fortaleza.==
+Cuidado con los=
+guardianes de su=
+interior...\~00~#105
+|1119
+@0001F05A-0001F34E-00
+;0001F05A{You re-enter the=underground, your=quest incomplete.==Lower still you need=to go........~00~}#092#089
+Re-entras en el=
+subterráneo, tu=
+aventura incompleta.==
+Aún necesitas bajar=
+más...\       ~00~#089
+;0001F0B3{Below these caves=are the darkened=Catacombs where roam=the banished ones....~00~}#081#078
+Bajo estas cuevas=
+están las Catacumbas=
+oscurecidas donde=
+moran desterrados...~00~#078
+;0001F101{StoneRidge caves=again you enter -=Though friendly they=must seem right now!~00~}#080#077
+En cuevas StoneRidge=
+de nuevo entras -=
+Por muy amistosas=
+que parezcan ahora!~00~#077
+;0001F14E{You have discovered=the hidden entrance=to Cullen dungeons.=Evil beings guard=this place....~00~}#096#093
+Has hallado la=
+entrada oculta a las=
+mazmorras Cullen.=
+Seres malignos=
+protegen este=
+lugar...\~00~#093
+;0001F1AB{He who returns from=Cullen castle nears=the end of his quest.=Seek Zaman, if he still=lives.....~00~}#100#097
+Aquel que vuelve del=
+castillo Cullen se=
+acerca al final.=
+Busca a Zaman,=
+si aún está vivo...\    ~00~#097
+;0001F20C{No mean feat to=reach this place -=you have arrived at=Cullen castle....~00~}#076#073
+No es una hazaña=
+llegar a este=
+lugar -=
+Has llegado al=
+castillo Cullen...~00~#073
+;0001F255{No braver man exists=than he who chooses=to enter the dungeons='neath Cullen.....~00~}#085#082
+No hay hombre más=
+valiente que quien=
+elige entrar en las=
+mazmorras bajo=
+Cullen...~00~#082
+;0001F2A7{Up to the dungeons=from a lower place=still - Cullen is=prepared for your=coming.....~00~}#089#086
+Subes hasta las=
+mazmorras desde=
+abajo pero -=
+Cullen está=
+preparado para tu=
+llegada...~00~#086
+;0001F2FD{This should be=familiar ground=to you by now -=the Lower Zone=links the shires...~00~}#085#082
+Este ya debería=
+serte un terreno=
+familiar -=
+La Zona Inferior=
+enlaza al condado...~00~#082
+|757
+@0001F47A-0001F886-00
+;0001F47A{"United we stand and~00~}#024#021
+"Unidos resistimos y~00~#021
+;0001F48F{divided we fall"~00~}#020#017
+divididos no"   ~00~#017
+;0001F4A0{~00~}#004#001
+~00~#001
+;0001F4A1{~00~}#004#001
+~00~#001
+;0001F4A2{When King Cullen gave~00~}#025#022
+Cuando el Rey Cullen ~00~#022
+;0001F4B8{control of the peaceful~00~}#027#024
+le dio el control de la~00~#024
+;0001F4D0{land of Obitus to his four~00~}#030#027
+pacífica tierra de Obitus ~00~#027
+;0001F4EB{sons, he warned them that~00~}#029#026
+a sus cuatro hijos, les  ~00~#026
+;0001F505{they must be united or the~00~}#030#027
+advirtió de que o se unían~00~#027
+;0001F520{land would fall into evil~00~}#029#026
+o la tierra caería por el~00~#026
+;0001F53A{hands.~00~}#010#007
+mal.  ~00~#007
+;0001F541{~00~}#004#001
+~00~#001
+;0001F542{~00~}#004#001
+~00~#001
+;0001F543{~00~}#004#001
+~00~#001
+;0001F544{~00~}#004#001
+~00~#001
+;0001F545{As a symbol of this unity,~00~}#030#027
+Como símbolo de la unidad,~00~#027
+;0001F560{the king gave to his sons~00~}#029#026
+el rey le dio a sus hijos~00~#026
+;0001F57A{the four Gems of~00~}#020#017
+cuatro Gemas de ~00~#017
+;0001F58B{Tranquillity which, when~00~}#028#025
+Tranquilidad que, cuando~00~#025
+;0001F5A4{joined, protected the land~00~}#030#027
+se unen,protegen la tierra~00~#027
+;0001F5BF{with a mystical force.~00~}#026#023
+con fuerzas místicas. ~00~#023
+;0001F5D6{~00~}#004#001
+~00~#001
+;0001F5D7{~00~}#004#001
+~00~#001
+;0001F5D8{~00~}#004#001
+~00~#001
+;0001F5D9{Some time after this~00~}#024#021
+Un tiempo tras hacer~00~#021
+;0001F5EE{transfer of power took~00~}#026#023
+esta transferencia de ~00~#023
+;0001F605{place, an enchantress~00~}#025#022
+poder, una hechicera ~00~#022
+;0001F61B{named Salome sought to~00~}#026#023
+llamada Salome buscaba~00~#023
+;0001F632{take advantage of the~00~}#025#022
+aprovecharse del     ~00~#022
+;0001F648{princes' fraternal pact.~00~}#028#025
+pacto de los príncipes. ~00~#025
+;0001F661{~00~}#004#001
+~00~#001
+;0001F662{~00~}#004#001
+~00~#001
+;0001F663{~00~}#004#001
+~00~#001
+;0001F664{She told them each in~00~}#025#022
+Les dijo a cada uno  ~00~#022
+;0001F67A{confidence that they must~00~}#029#026
+en privado que debían    ~00~#026
+;0001F694{break from the others in~00~}#028#025
+librarse del resto para ~00~#025
+;0001F6AD{order to obtain personal~00~}#028#025
+poder obtener riqueza y ~00~#025
+;0001F6C6{wealth and power.~00~}#021#018
+poder personal.  ~00~#018
+;0001F6D8{~00~}#004#001
+~00~#001
+;0001F6D9{~00~}#004#001
+~00~#001
+;0001F6DA{The princes took these~00~}#026#023
+Los príncipes tomaron ~00~#023
+;0001F6F1{words to heart and fought~00~}#029#026
+a pecho estas palabras y ~00~#026
+;0001F70B{for control of the kingdom.~00~}#031#028
+pelearon por el reino.     ~00~#028
+;0001F727{~00~}#004#001
+~00~#001
+;0001F728{~00~}#004#001
+~00~#001
+;0001F729{~00~}#004#001
+~00~#001
+;0001F72A{When the battle was over,~00~}#029#026
+Cuando la batalla acabó, ~00~#026
+;0001F744{each prince had one of the~00~}#030#027
+cada príncipe tenía una   ~00~#027
+;0001F75F{Gems and one quarter of~00~}#027#024
+Gema y un cuarto de la ~00~#024
+;0001F777{the land.~00~}#013#010
+tierra.  ~00~#010
+;0001F781{~00~}#004#001
+~00~#001
+;0001F782{~00~}#004#001
+~00~#001
+;0001F783{~00~}#004#001
+~00~#001
+;0001F784{The power of the Gems~00~}#025#022
+El poder de las Gemas~00~#022
+;0001F79A{has been broken. You must~00~}#029#026
+se ha roto. Reúnelas en  ~00~#026
+;0001F7B4{reunite them in the Tower~00~}#029#026
+la Torre Obitus y salva  ~00~#026
+;0001F7CE{Obitus and save the~00~}#023#020
+el reino.          ~00~#020
+;0001F7E2{kingdom.~00~}#012#009
+        ~00~#009
+;0001F7EB{~00~}#004#001
+~00~#001
+;0001F7EC{~00~}#004#001
+~00~#001
+;0001F7ED{~00~}#004#001
+~00~#001
+;0001F7EE{~00~}#004#001
+~00~#001
+;0001F7EF{~00~}#004#001
+~00~#001
+;0001F7F0{~00~}#004#001
+~00~#001
+;0001F7F1{~00~}#004#001
+~00~#001
+;0001F7F2{~00~}#004#001
+~00~#001
+;0001F7F3{~00~}#004#001
+~00~#001
+;0001F7F4{~00~}#004#001
+~00~#001
+;0001F7F5{~00~}#004#001
+~00~#001
+;0001F7F6{~00~}#004#001
+~00~#001
+;0001F7F7{~00~}#004#001
+~00~#001
+;0001F7F8{~00~}#004#001
+~00~#001
+;0001F7F9{~00~}#004#001
+~00~#001
+;0001F7FA{~00~}#004#001
+~00~#001
+;0001F7FB{~FF~   Psygnosis Personnel.~00~}#031#025
+~FF~    Personal Psygnosis.~00~#025
+;0001F814{~00~}#004#001
+~00~#001
+;0001F815{Original Concept,~00~}#021#018
+Concepto Origen, ~00~#018
+;0001F827{       Mike Haigh.~00~}#022#019
+       Mike Haigh.~00~#019
+;0001F83A{       Giulio Zicchi.~00~}#025#022
+       Giulio Zicchi.~00~#022
+;0001F850{~00~}#004#001
+~00~#001
+;0001F851{Programming,~00~}#016#013
+Programador,~00~#013
+;0001F85E{       Bill Allen.~00~}#022#019
+       Bill Allen.~00~#019
+;0001F871{       Tony Stoddart.~00~}#025#022
+       Tony Stoddart.~00~#022
+|1037
+@0001F887-0001FA29-00
+;0001F887{~00~}#004#001
+~00~#001
+;0001F888{Producer,~00~}#013#010
+Produce, ~00~#010
+;0001F892{       Mike Simpson.~00~}#024#021
+       Mike Simpson.~00~#021
+;0001F8A7{~00~}#004#001
+~00~#001
+;0001F8A8{Testing,~00~}#012#009
+Pruebas,~00~#009
+;0001F8B1{       Tony Parkes.~00~}#023#020
+       Tony Parkes.~00~#020
+;0001F8C5{~00~}#004#001
+~00~#001
+;0001F8C6{~00~}#004#001
+~00~#001
+;0001F8C7{      BPS Personnel.~00~}#024#021
+      Personal BPS. ~00~#021
+;0001F8DC{~00~}#004#001
+~00~#001
+;0001F8DD{Project Manager,~00~}#020#017
+Jefe Proyecto,  ~00~#017
+;0001F8EE{       John Knoll.~00~}#022#019
+       John Knoll.~00~#019
+;0001F901{~00~}#004#001
+~00~#001
+;0001F902{~00~}#004#001
+~00~#001
+;0001F903{~00~}#004#001
+~00~#001
+;0001F904{~00~}#004#001
+~00~#001
+;0001F905{~00~}#004#001
+~00~#001
+;0001F906{~00~}#004#001
+~00~#001
+;0001F907{~00~}#004#001
+~00~#001
+;0001F908{~00~}#004#001
+~00~#001
+;0001F909{~00~}#004#001
+~00~#001
+;0001F90A{~00~}#004#001
+~00~#001
+;0001F90B{~00~}#004#001
+~00~#001
+;0001F90C{~00~}#004#001
+~00~#001
+;0001F90D{~00~}#004#001
+~00~#001
+;0001F90E{~00~}#004#001
+~00~#001
+;0001F90F{~FF~Hail master !~00~}#021#015
+~FF~
+Hola maestro!~00~#015
+;0001F91E{Conqueror of evil.~00~}#022#019
+Vencedor del mal. ~00~#019
+;0001F931{Take now your rightful~00~}#026#023
+Toma ahora tu legítimo~00~#023
+;0001F948{place upon the magic~00~}#024#021
+lugar en el trono   ~00~#021
+;0001F95D{throne.~00~}#011#008
+mágico.~00~#008
+;0001F965{~00~}#004#001
+~00~#001
+;0001F966{We, the assembled few,~00~}#026#023
+Nosotros,los reunidos,~00~#023
+;0001F97D{pledge allegiance on~00~}#024#021
+juramos lealtad en  ~00~#021
+;0001F992{behalf of all within the~00~}#028#025
+nombre de los condados  ~00~#025
+;0001F9AB{united shires.~00~}#018#015
+unidos.       ~00~#015
+;0001F9BA{~00~}#004#001
+~00~#001
+;0001F9BB{May you live long and~00~}#025#022
+Vive mucho y gobierna~00~#022
+;0001F9D1{rule wisely.~00~}#016#013
+sabiamente. ~00~#013
+;0001F9DE{~00~}#004#001
+~00~#001
+;0001F9DF{~00~}#004#001
+~00~#001
+;0001F9E0{~00~}#004#001
+~00~#001
+;0001F9E1{~00~}#004#001
+~00~#001
+;0001F9E2{~00~}#004#001
+~00~#001
+;0001F9E3{~00~}#004#001
+~00~#001
+;0001F9E4{~00~}#004#001
+~00~#001
+;0001F9E5{~00~}#004#001
+~00~#001
+;0001F9E6{~FF~          Sound Test=====        Tune Number ==        Fx Number =~00~}#074#068
+~FF~
+          Test Audio=====
+         Melodía N. ==
+        Efecto N. =~00~#068
+|419
+@00021BED-00021C01-FF
+;00021BED{Otto of FalconWood~00~~00~~00~}#030#021
+Otto de FalconWood~00~~00~~00~#021
+|21
+@00021C3A-00021C49-FF
+;00021C3A{The Green Man~00~~00~~00~}#025#016
+Hombre Verde ~00~~00~~00~#016
+|16
+@00021C6E-00021C82-FF
+;00021C6E{Odin of FalconWood~00~~00~~00~}#030#021
+Odin de FalconWood~00~~00~~00~#021
+|21
+@00021CA7-00021CBC-FF
+;00021CA7{Ogard of FalconWood~00~~00~~00~}#031#022
+Ogard de FalconWood~00~~00~~00~#022
+|22
+@00021F8E-00021FA3-FF
+;00021F8E{Galliard the Swifte~00~~00~~00~}#031#022
+Galliard el Raudo\ ~00~~00~~00~#022
+|22
+@00022185-00022191-FF
+;00022185{Prisoner~00~~00~~00~~00~~00~}#028#013
+Preso\  ~00~~00~~00~~00~~00~#013
+|13
+@000222B7-000222C8-FF
+;000222B7{Edric the Brave~00~~00~~00~}#027#018
+Edric el Bravo\~00~~00~~00~#018
+|18
+@000223C1-000223CB-00
+;000223C1{Modred~00~}#010#007
+Modred~00~#007
+;000223C8{~00~}#004#001
+~00~#001
+;000223C9{~00~}#004#001
+~00~#001
+;000223CA{~00~}#004#001
+~00~#001
+;000223CB{~00~}#004#001
+~00~#001
+|11
+@0002322D-00023243-FF
+;0002322D{Zaman, Book-Keeper~00~~00~~00~~00~~00~}#038#023
+Zaman, Contable\  ~00~~00~~00~~00~~00~#023
+|23
+@0002466D-00024699-00
+;0002466D{King's Bowman~00~}#017#014
+Rey Bowman\  ~00~#014
+;0002467B{Armed Guardian~00~}#018#015
+GuardiánArmado~00~#015
+;0002468A{Knight~00~}#010#007
+Cbllro~00~#007
+;00024691{Un-Known~00~}#012#009
+Ignoto\ ~00~#009
+|45
+@000259BA-00025BB3-00
+;000259BA{Apple~00~}#009#006
+Mnzna~00~#006
+;000259C0{Arrow~00~}#009#006
+Flcha~00~#006
+;000259C6{Gold Coin~00~}#013#010
+MonedaOro~00~#010
+;000259D0{Flask~00~}#009#006
+Frsco~00~#006
+;000259D6{Heavy Key~00~}#013#010
+LlavePsda~00~#010
+;000259E0{Silver Key~00~}#014#011
+LlavePlata~00~#011
+;000259EB{Light Key~00~}#013#010
+LlaveLgra~00~#010
+;000259F5{Bread~00~}#009#006
+Pan\ ~00~#006
+;000259FB{Chalice~00~}#011#008
+Cáliz\ ~00~#008
+;00025A03{Gold Bar~00~}#012#009
+BarraOro~00~#009
+;00025A0C{Scroll~00~}#010#007
+Prgmno~00~#007
+;00025A13{Silver Coin~00~}#015#012
+MonedaPlata~00~#012
+;00025A1F{Green Berries~00~}#017#014
+Bayas Verdes\~00~#014
+;00025A2D{Large Gem~00~}#013#010
+Gran Gema~00~#010
+;00025A37{FireBrand~00~}#013#010
+Marca Fgo~00~#010
+;00025A41{Silver Arrow~00~}#016#013
+Flecha Plata~00~#013
+;00025A4E{Eggs~00~}#008#005
+Hvos~00~#005
+;00025A53{Trinket Box~00~}#015#012
+C.Baratijas~00~#012
+;00025A5F{Rope~00~}#008#005
+Crda~00~#005
+;00025A64{Quiver of Arrows~00~}#020#017
+Carcaj Flechas\ ~00~#017
+;00025A75{Silver Bar~00~}#014#011
+BarraPlata~00~#011
+;00025A80{Gold Ring~00~}#013#010
+Anllo Oro~00~#010
+;00025A8A{Ring of Genevieve~00~}#021#018
+Anillo Genevieve\~00~#018
+;00025A9C{Silver Ring~00~}#015#012
+Anllo Plata~00~#012
+;00025AA8{Dagger~00~}#010#007
+Daga\ ~00~#007
+;00025AAF{Knife~00~}#009#006
+Cuch.~00~#006
+;00025AB5{Large Gold Key~00~}#018#015
+Gran Llave Oro~00~#015
+;00025AC4{Small Gold Key~00~}#018#015
+Peq. Llave Oro~00~#015
+;00025AD3{Red Berries~00~}#015#012
+Bayas Rojas~00~#012
+;00025ADF{Green Powder~00~}#016#013
+Polvo Verde\~00~#013
+;00025AEC{Blue Powder~00~}#015#012
+Polvo Azul\~00~#012
+;00025AF8{Powder of Fire~00~}#018#015
+Polvo de Fuego~00~#015
+;00025B07{Red Potion~00~}#014#011
+PociónRoja~00~#011
+;00025B12{Green Potion~00~}#016#013
+Poción Verde~00~#013
+;00025B1F{Blue Potion~00~}#015#012
+Poción Azul~00~#012
+;00025B2B{Large Flask~00~}#015#012
+Frasco Gra.~00~#012
+;00025B37{Amulet~00~}#010#007
+Amule.~00~#007
+;00025B3E{Cherries~00~}#012#009
+Cerezas\~00~#009
+;00025B47{Blue Gem~00~}#012#009
+GemaAzul~00~#009
+;00025B50{Nuts~00~}#008#005
+Nuez~00~#005
+;00025B55{Spell Book~00~}#014#011
+L.Hechizos~00~#011
+;00025B60{Book Page~00~}#013#010
+Pág.Libro~00~#010
+;00025B6A{Magic Weapon~00~}#016#013
+Arma Mágica ~00~#013
+;00025B77{Lantern~00~}#011#008
+Farol\ ~00~#008
+;00025B7F{Lamp~00~}#008#005
+Lám.~00~#005
+;00025B84{Crown~00~}#009#006
+Coro.~00~#006
+;00025B8A{Roll~00~}#008#005
+Rllo~00~#005
+;00025B8F{Red Flask~00~}#013#010
+Frasco R.~00~#010
+;00025B99{Lever~00~}#009#006
+Plnca~00~#006
+;00025B9F{Talisman~00~}#012#009
+Talismán~00~#009
+;00025BA8{Un-Known...~00~}#015#012
+Ignoto...\ ~00~#012
+|506

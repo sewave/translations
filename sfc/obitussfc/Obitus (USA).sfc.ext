@@ -1,0 +1,2396 @@
+@00006052-0000605B-00
+;00006052{Room ~00~}#009#006
+Room ~00~#006
+;00006058{~00~}#004#001
+~00~#001
+;00006059{~02~~04~~06~}#012#003
+~02~~04~~06~#003
+|10
+@00007AEB-00007B0C-00
+;00007AEB{New Game~00~}#012#009
+New Game~00~#009
+;00007AF4{Are you sure?~00~}#017#014
+Are you sure?~00~#014
+;00007B02{Yes.~00~}#008#005
+Yes.~00~#005
+;00007B07{No.~00~}#007#004
+No.~00~#004
+;00007B0B{,~FB~}#005#002
+,~FB~#002
+|34
+@00007B23-00007B64-00
+;00007B23{Options.~00~}#012#009
+Options.~00~#009
+;00007B2C{Inventory.~00~}#014#011
+Inventory.~00~#011
+;00007B37{Sleep.~00~}#010#007
+Sleep.~00~#007
+;00007B3E{Save Game.~00~}#014#011
+Save Game.~00~#011
+;00007B49{New Game.~00~}#013#010
+New Game.~00~#010
+;00007B53{Exit This Menu.~00~}#019#016
+Exit This Menu.~00~#016
+;00007B63{?~F4~}#005#002
+?~F4~#002
+|66
+@0001CAD8-0001CC65-00
+;0001CAD8{         Maze Sections==           Castle ~23~1==           Castle ~23~2==           Castle ~23~3==           Castle ~23~4==         Sound FX Test=~00~}#151#136
+         Maze Sections==           Castle ~23~1==           Castle ~23~2==           Castle ~23~3==           Castle ~23~4==         Sound FX Test=~00~#136
+;0001CB60{Start~00~}#009#006
+Start~00~#006
+;0001CB66{Load~00~}#008#005
+Load~00~#005
+;0001CB6B{Developed by Psygnosis Ltd.~00~}#031#028
+Developed by Psygnosis Ltd.~00~#028
+;0001CB87{~40~ 1991,1993 Psygnosis Ltd.~00~}#033#027
+~40~ 1991,1993 Psygnosis Ltd.~00~#027
+;0001CBA2{~40~ 1993 Bullet-Proof Software.~00~}#036#030
+~40~ 1993 Bullet-Proof Software.~00~#030
+;0001CBC0{Licensed by Nintendo.~00~}#025#022
+Licensed by Nintendo.~00~#022
+;0001CBD6{Your time in this land has come to an end.=Your flesh will feed the Carrion Crows.....==         GAME OVER~00~}#110#107
+Your time in this land has come to an end.=Your flesh will feed the Carrion Crows.....==         GAME OVER~00~#107
+;0001CC41{None.~00~}#009#006
+None.~00~#006
+;0001CC47{Low.~00~}#008#005
+Low.~00~#005
+;0001CC4C{High.~00~}#009#006
+High.~00~#006
+;0001CC52{Unknown.~00~}#012#009
+Unknown.~00~#009
+;0001CC5B{----------~00~}#014#011
+----------~00~#011
+|398
+@0001CC66-0001F352-00
+;0001CC66{Weak.~00~}#009#006
+Weak.~00~#006
+;0001CC6C{Low~00~}#007#004
+Low~00~#004
+;0001CC70{Un-Known.~00~}#013#010
+Un-Known.~00~#010
+;0001CC7A{Strong~00~}#010#007
+Strong~00~#007
+;0001CC81{Powerful !~00~}#014#011
+Powerful !~00~#011
+;0001CC8C{Domakk~00~}#010#007
+Domakk~00~#007
+;0001CC93{Lord Cullen.~00~}#016#013
+Lord Cullen.~00~#013
+;0001CCA0{Lord Burville.~00~}#018#015
+Lord Burville.~00~#015
+;0001CCAF{Lord Blakestone.~00~}#020#017
+Lord Blakestone.~00~#017
+;0001CCC0{Lord Drakehurst.~00~}#020#017
+Lord Drakehurst.~00~#017
+;0001CCD1{None.~00~}#009#006
+None.~00~#006
+;0001CCD7{Servant of Zaman~00~}#020#017
+Servant of Zaman~00~#017
+;0001CCE8{Queen Genvieve~00~}#018#015
+Queen Genvieve~00~#015
+;0001CCF7{Old King Cullen~00~}#019#016
+Old King Cullen~00~#016
+;0001CD07{Mysterious~00~}#014#011
+Mysterious~00~#011
+;0001CD12{Unyielding~00~}#014#011
+Unyielding~00~#011
+;0001CD1D{Untrustworthy~00~}#017#014
+Untrustworthy~00~#014
+;0001CD2B{Courageous~00~}#014#011
+Courageous~00~#011
+;0001CD36{Honest~00~}#010#007
+Honest~00~#007
+;0001CD3D{Brave~00~}#009#006
+Brave~00~#006
+;0001CD43{Loyal~00~}#009#006
+Loyal~00~#006
+;0001CD49{Partisan~00~}#012#009
+Partisan~00~#009
+;0001CD52{Trustworthy~00~}#015#012
+Trustworthy~00~#012
+;0001CD5E{Stealthy~00~}#012#009
+Stealthy~00~#009
+;0001CD67{Vicious~00~}#011#008
+Vicious~00~#008
+;0001CD6F{Treacherous~00~}#015#012
+Treacherous~00~#012
+;0001CD7B{Friendly~00~}#012#009
+Friendly~00~#009
+;0001CD84{Fiendish~00~}#012#009
+Fiendish~00~#009
+;0001CD8D{Dangerous~00~}#013#010
+Dangerous~00~#010
+;0001CD97{Amiable~00~}#011#008
+Amiable~00~#008
+;0001CD9F{Astute~00~}#010#007
+Astute~00~#007
+;0001CDA6{Fearsome~00~}#012#009
+Fearsome~00~#009
+;0001CDAF{Fearless~00~}#012#009
+Fearless~00~#009
+;0001CDB8{strength=weight=fatigue~00~}#027#024
+strength=weight=fatigue~00~#024
+;0001CDD0{time=date~00~}#013#010
+time=date~00~#010
+;0001CDDA{Quantity=Weight=Total Wgt.=Value=Total Val.=Nutrition=Mystic~00~}#064#061
+Quantity=Weight=Total Wgt.=Value=Total Val.=Nutrition=Mystic~00~#061
+;0001CE17{Strength~00~}#012#009
+Strength~00~#009
+;0001CE20{Mystic~00~}#010#007
+Mystic~00~#007
+;0001CE27{Character~00~}#013#010
+Character~00~#010
+;0001CE31{Allegiance~00~}#014#011
+Allegiance~00~#011
+;0001CE3C{What Ho! Can you be young pretender, whose coming was foretold? I am Sir Grumwold, Champion of Lord Drakehurst.~00~}#115#112
+What Ho! Can you be young pretender, whose coming was foretold? I am Sir Grumwold, Champion of Lord Drakehurst.~00~#112
+;0001CEAC{Get thee gone upstart knave. You cannot defeat me. Return when you're more worthy and I shall strike thee.~00~}#110#107
+Get thee gone upstart knave. You cannot defeat me. Return when you're more worthy and I shall strike thee.~00~#107
+;0001CF17{I will not soil my blade with the likes of thou.=Besides, my Lords bowmen will strike thee well.~00~}#100#097
+I will not soil my blade with the likes of thou.=Besides, my Lords bowmen will strike thee well.~00~#097
+;0001CF78{Art thou the one? I am Maladina, thy ally. Long have we awaited thy coming! ~00~}#080#077
+Art thou the one? I am Maladina, thy ally. Long have we awaited thy coming! ~00~#077
+;0001CFC5{Take these keys I hold and use them well. =Northwest to Eldon mine and into Drakehurst castle go.=But beware the fearsome traps.~00~}#132#129
+Take these keys I hold and use them well. =Northwest to Eldon mine and into Drakehurst castle go.=But beware the fearsome traps.~00~#129
+;0001D046{These keys open but half of Drakehursts inner halls. Half again are held by Annore, deep in Eldon. Alas the gate key lies lost in Eldon.~00~}#140#137
+These keys open but half of Drakehursts inner halls. Half again are held by Annore, deep in Eldon. Alas the gate key lies lost in Eldon.~00~#137
+;0001D0CF{Sleep not, saving that you be guarded by one you trust. Be wary of all. If in doubt, use the ring, but it will tire thee.~00~}#125#122
+Sleep not, saving that you be guarded by one you trust. Be wary of all. If in doubt, use the ring, but it will tire thee.~00~#122
+;0001D149{Greetings errant one, it is I, Morant, your friend. I will aid thee in what small way I might. When you tire, sleep here in safety. I will guard you.~00~}#153#150
+Greetings errant one, it is I, Morant, your friend. I will aid thee in what small way I might. When you tire, sleep here in safety. I will guard you.~00~#150
+;0001D1DF{Great hero, you must be tired. Rest here a while and I will guard you.~00~}#074#071
+Great hero, you must be tired. Rest here a while and I will guard you.~00~#071
+;0001D226{I hold a parchment - one of many, scattered throughout this land. To find them all is a fruitless task, =best not to bother...~00~}#130#127
+I hold a parchment - one of many, scattered throughout this land. To find them all is a fruitless task, =best not to bother...~00~#127
+;0001D2A5{You shall not find the spellbound pages. =So go instead and strike Sir Grumwold, who lies about his strength, and then bring his treasure to me.~00~}#148#145
+You shall not find the spellbound pages. =So go instead and strike Sir Grumwold, who lies about his strength, and then bring his treasure to me.~00~#145
+;0001D336{Sir Grumwold guards a precious stone - one of four you must seek, but he is strong. Bide time, for there are more powerful things in Drakehust castle.~00~}#154#151
+Sir Grumwold guards a precious stone - one of four you must seek, but he is strong. Bide time, for there are more powerful things in Drakehust castle.~00~#151
+;0001D3CD{No point in leaving FalconWood until Maladina you have met. She holds the keys to Drakehurst's  locks which you must have for passage.~00~}#138#135
+No point in leaving FalconWood until Maladina you have met. She holds the keys to Drakehurst's  locks which you must have for passage.~00~#135
+;0001D454{You have done great evil. By your hand Maladina has gone. If she did not give you her keys then you can not complete your quest.~00~}#132#129
+You have done great evil. By your hand Maladina has gone. If she did not give you her keys then you can not complete your quest.~00~#129
+;0001D4D5{I have a gift with special worth. =Store safe and hold until the time is right, when Zaman recovers his lost and scattered book.~00~}#132#129
+I have a gift with special worth. =Store safe and hold until the time is right, when Zaman recovers his lost and scattered book.~00~#129
+;0001D556{Only Zaman can give you the power to defeat Lord Cullen's knight. But I speak of the end of your quest, which has just begun.~00~}#129#126
+Only Zaman can give you the power to defeat Lord Cullen's knight. But I speak of the end of your quest, which has just begun.~00~#126
+;0001D5D4{So, my Master has his book once more.=If you have not so done, take the gem I gave you to the Catacombs and place it in it's niche.~00~}#135#132
+So, my Master has his book once more.=If you have not so done, take the gem I gave you to the Catacombs and place it in it's niche.~00~#132
+;0001D658{You have no business along this way... Beyond lie things that are best left un-disturbed.....~00~}#097#094
+You have no business along this way... Beyond lie things that are best left un-disturbed.....~00~#094
+;0001D6B6{I know you have the missing keys to Burville castle....=There lies within a marked room which you would do well to avoid - at least for a while....~00~}#151#148
+I know you have the missing keys to Burville castle....=There lies within a marked room which you would do well to avoid - at least for a while....~00~#148
+;0001D74A{I have an amulet - more precious than gold itself. Trade me what you will and use in times of danger. ~00~}#106#103
+I have an amulet - more precious than gold itself. Trade me what you will and use in times of danger. ~00~#103
+;0001D7B1{Long time this land awaits you.... =Dare you to enter Burville castle, there you'll find a marked room - The keeper of the books works there. =~00~}#147#144
+Long time this land awaits you.... =Dare you to enter Burville castle, there you'll find a marked room - The keeper of the books works there. =~00~#144
+;0001D841{His sign is a face, and two hands with six digits each. Trouble him not until you have his book.~00~}#100#097
+His sign is a face, and two hands with six digits each. Trouble him not until you have his book.~00~#097
+;0001D8A2{Welcome hero, I, Grimlock greet you. You look fatigued - rest here a while.=Fear not, I will guard thee!~00~}#108#105
+Welcome hero, I, Grimlock greet you. You look fatigued - rest here a while.=Fear not, I will guard thee!~00~#105
+;0001D90B{None have passed this way before,=nor shall you pass right now.=No weapon you may hold has power=over me !~00~}#110#107
+None have passed this way before,=nor shall you pass right now.=No weapon you may hold has power=over me !~00~#107
+;0001D976{The bragging one of RuneWood shall be undone.=Beyond him lies a page enchanted..... =And trust not Grimlock. He lies.~00~}#121#118
+The bragging one of RuneWood shall be undone.=Beyond him lies a page enchanted..... =And trust not Grimlock. He lies.~00~#118
+;0001D9EC{Cullen castle awaits you traveler...=No mortal, having entered there, lived to see the new day dawning.....~00~}#111#108
+Cullen castle awaits you traveler...=No mortal, having entered there, lived to see the new day dawning.....~00~#108
+;0001DA58{Lord Cullen keeps his fortress strong.=But there may be a way in, through its dungeons deep which lie open nearby. ~00~}#119#116
+Lord Cullen keeps his fortress strong.=But there may be a way in, through its dungeons deep which lie open nearby. ~00~#116
+;0001DACC{Seek out the northern passage in this place and once there, smite the guardian. Beyond him lies the means to the passage where no passage lies... ~00~}#150#147
+Seek out the northern passage in this place and once there, smite the guardian. Beyond him lies the means to the passage where no passage lies... ~00~#147
+;0001DB5F{'Neath castle Cullen - dungeons lie. Eastbound hidden, westbound seen - a secret path may be revealed - but waste no time in leaving !~00~}#138#135
+'Neath castle Cullen - dungeons lie. Eastbound hidden, westbound seen - a secret path may be revealed - but waste no time in leaving !~00~#135
+;0001DBE6{Greetings!  I, Evalak of the Dwarves welcome you to Eldon mine. Beware the cave hounds that roam here - they bite!~00~}#118#115
+Greetings!  I, Evalak of the Dwarves welcome you to Eldon mine. Beware the cave hounds that roam here - they bite!~00~#115
+;0001DC59{Ancient catacombs are said to underlie all four shires. =Find rope to aid your descent......~00~}#096#093
+Ancient catacombs are said to underlie all four shires. =Find rope to aid your descent......~00~#093
+;0001DCB6{Beware the patrolling knights that roam Eldon. Trust not their advice and flee their company.~00~}#097#094
+Beware the patrolling knights that roam Eldon. Trust not their advice and flee their company.~00~#094
+;0001DD14{Conserve your torches for the journey ahead. =Some places desire special light - else in darkness they remain.~00~}#114#111
+Conserve your torches for the journey ahead. =Some places desire special light - else in darkness they remain.~00~#111
+;0001DD83{Now you have the Dwarven key, Burville may be yours.=Back to the tower and on through Fernholt fly, but tread light on stony floors.....~00~}#140#137
+Now you have the Dwarven key, Burville may be yours.=Back to the tower and on through Fernholt fly, but tread light on stony floors.....~00~#137
+;0001DE0C{Your progress surprises me, intruder.=None thought you'd make it this far - which now is far enough !~00~}#105#102
+Your progress surprises me, intruder.=None thought you'd make it this far - which now is far enough !~00~#102
+;0001DE72{I am Leona, friend of Maladina. These =keys will undo Blakestone's inner halls. The entrance lies nearby.~00~}#109#106
+I am Leona, friend of Maladina. These =keys will undo Blakestone's inner halls. The entrance lies nearby.~00~#106
+;0001DEDC{Still, your journey is incomplete.=Though I side with no ruler, I can not let you pass !~00~}#092#089
+Still, your journey is incomplete.=Though I side with no ruler, I can not let you pass !~00~#089
+;0001DF35{Beneath lie secret catacombs which traverse the four shires of the land.=A northern passage, a western turn, will =reveal them.~00~}#131#128
+Beneath lie secret catacombs which traverse the four shires of the land.=A northern passage, a western turn, will =reveal them.~00~#128
+;0001DFB5{Look carefully 'mongst bones here, you might find a valuable asset - the south west zone and RuneWood revealed will be.~00~}#123#120
+Look carefully 'mongst bones here, you might find a valuable asset - the south west zone and RuneWood revealed will be.~00~#120
+;0001E02D{To the Catacombs, you must go - to find a hidden key, without which your quest is fruitless. Ignore Isolde - He's mad! ~00~}#123#120
+To the Catacombs, you must go - to find a hidden key, without which your quest is fruitless. Ignore Isolde - He's mad! ~00~#120
+;0001E0A5{Take with you this gem and show=to no man....  It enables a special light in the lower zone !~00~}#097#094
+Take with you this gem and show=to no man....  It enables a special light in the lower zone !~00~#094
+;0001E103{Above this place is castle Cullen - a fearsome fortress !=Many precious things are held within, with all manner of foes to guard them.=Tread warily !~00~}#153#150
+Above this place is castle Cullen - a fearsome fortress !=Many precious things are held within, with all manner of foes to guard them.=Tread warily !~00~#150
+;0001E199{You stand within the Cullen dungeons - where all is not as it seems.=A hidden path will be revealed if you possess the Key....~00~}#130#127
+You stand within the Cullen dungeons - where all is not as it seems.=A hidden path will be revealed if you possess the Key....~00~#127
+;0001E218{Conserve the powder of fire you acquire, for there will come a time of need.=Instead, use arrows on the lighter foes.~00~}#121#118
+Conserve the powder of fire you acquire, for there will come a time of need.=Instead, use arrows on the lighter foes.~00~#118
+;0001E28E{Bring me the enchanted pages bound and you shall be rewarded with the strongest magic - so powerful as to smite all known things........~00~}#140#137
+Bring me the enchanted pages bound and you shall be rewarded with the strongest magic - so powerful as to smite all known things........~00~#137
+;0001E317{My pages lost are scattered throughout the land.=Bring them all to me, though you must need defeat all four lords so to do.~00~}#127#124
+My pages lost are scattered throughout the land.=Bring them all to me, though you must need defeat all four lords so to do.~00~#124
+;0001E393{I guard the entrance to Drakehurst.=You may not pass - a wasted journey for you I fear !~00~}#092#089
+I guard the entrance to Drakehurst.=You may not pass - a wasted journey for you I fear !~00~#089
+;0001E3EC{What would you give for the ultimate prize?=This crown I hold will give you powers un-dreamed of....~00~}#104#101
+What would you give for the ultimate prize?=This crown I hold will give you powers un-dreamed of....~00~#101
+;0001E451{You will fall 'neath a brilliant red sky....~00~}#048#045
+You will fall 'neath a brilliant red sky....~00~#045
+;0001E47E{My liege=Flibble flim ! Bander bott !=Where you are is where you're not.~00~}#076#073
+My liege=Flibble flim ! Bander bott !=Where you are is where you're not.~00~#073
+;0001E4C7{It seems that you are bound for Cullen !=these keys may ease your task...~00~}#077#074
+It seems that you are bound for Cullen !=these keys may ease your task...~00~#074
+;0001E511{The Book-Keeper might help you on your way.~00~}#047#044
+The Book-Keeper might help you on your way.~00~#044
+;0001E53D{Dare not travel to the underworld without a means to see ....~00~}#065#062
+Dare not travel to the underworld without a means to see ....~00~#062
+;0001E57B{Zaman is the key ....~00~}#025#022
+Zaman is the key ....~00~#022
+;0001E591{Sleep only where a friend stands guard, and never within the castles ~00~}#073#070
+Sleep only where a friend stands guard, and never within the castles ~00~#070
+;0001E5D7{A gem placed high above a door will hasten your departure ....~00~}#066#063
+A gem placed high above a door will hasten your departure ....~00~#063
+;0001E616{Far below the tower is the final puzzle piece ...~00~}#053#050
+Far below the tower is the final puzzle piece ...~00~#050
+;0001E648{No more can I reveal.~00~}#025#022
+No more can I reveal.~00~#022
+;0001E65E{Some things you must find for yourself!~00~}#043#040
+Some things you must find for yourself!~00~#040
+;0001E686{Move on and more information may unfold.~00~}#044#041
+Move on and more information may unfold.~00~#041
+;0001E6AF{You must seek help from others...~00~}#037#034
+You must seek help from others...~00~#034
+;0001E6D1{For me to say more would be foolish...~00~}#042#039
+For me to say more would be foolish...~00~#039
+;0001E6F8{The less wise among us might tell more...~00~}#045#042
+The less wise among us might tell more...~00~#042
+;0001E722{If you are tired, rest and I will guard you. ~00~}#049#046
+If you are tired, rest and I will guard you. ~00~#046
+;0001E750{Ask no more of me - eyes are watching!~00~}#042#039
+Ask no more of me - eyes are watching!~00~#039
+;0001E777{What would you trade for my ~00~}#032#029
+What would you trade for my ~00~#029
+;0001E794{Stand off, intruder!~00~}#024#021
+Stand off, intruder!~00~#021
+;0001E7A9{Pass this way and you shall be smitten!~00~}#043#040
+Pass this way and you shall be smitten!~00~#040
+;0001E7D1{Your time in this land is nearly done!~00~}#042#039
+Your time in this land is nearly done!~00~#039
+;0001E7F8{Turn now and flee, else prepare for combat!~00~}#047#044
+Turn now and flee, else prepare for combat!~00~#044
+;0001E824{Depart from this place if you wish to survive!~00~}#050#047
+Depart from this place if you wish to survive!~00~#047
+;0001E853{You are not welcome here!~00~}#029#026
+You are not welcome here!~00~#026
+;0001E86D{Yield or you shall be smitten!~00~}#034#031
+Yield or you shall be smitten!~00~#031
+;0001E88C{Make haste whence you came!~00~}#031#028
+Make haste whence you came!~00~#028
+;0001E8A8{You are standing in a=tall stone tower.=Four heavy doors are=set within the walls.=A silver key lies on=the cold stone floor....~00~}#132#129
+You are standing in a=tall stone tower.=Four heavy doors are=set within the walls.=A silver key lies on=the cold stone floor....~00~#129
+;0001E929{You are leaving the=sanctuary of the =tower.==FalconWood lies ahead....~00~}#075#072
+You are leaving the=sanctuary of the =tower.==FalconWood lies ahead....~00~#072
+;0001E971{The north east door=leads to Fernholt.==You now enter Lord=Burville's shire.~00~}#080#077
+The north east door=leads to Fernholt.==You now enter Lord=Burville's shire.~00~#077
+;0001E9BE{RuneWood awaits you=as the quest continues=into the domain of=Lord Blakestone.~00~}#082#079
+RuneWood awaits you=as the quest continues=into the domain of=Lord Blakestone.~00~#079
+;0001EA0D{Into BinnanWood,=now you travel - =the domain of=Lord Cullen.....~00~}#069#066
+Into BinnanWood,=now you travel - =the domain of=Lord Cullen.....~00~#066
+;0001EA4F{You have returned=to the tower.=No mortal will bring=you harm whilst you=remain within its=protective walls.~00~}#112#109
+You have returned=to the tower.=No mortal will bring=you harm whilst you=remain within its=protective walls.~00~#109
+;0001EABC{Again the Tower=beckons - again=the journey turns...~00~}#056#053
+Again the Tower=beckons - again=the journey turns...~00~#053
+;0001EAF1{Enough of RuneWood.=Take comfort in=these stony walls.~00~}#058#055
+Enough of RuneWood.=Take comfort in=these stony walls.~00~#055
+;0001EB28{Through the Tower=all journeys pass.=The safest place to=rest is here....~00~}#077#074
+Through the Tower=all journeys pass.=The safest place to=rest is here....~00~#074
+;0001EB72{Out from Eldon and=into Falconwood - =all manner of foes=await you.......~00~}#077#074
+Out from Eldon and=into Falconwood - =all manner of foes=await you.......~00~#074
+;0001EBBC{Downwards you go -=the subterranean=Catacombs are =revealed...~00~}#066#063
+Downwards you go -=the subterranean=Catacombs are =revealed...~00~#063
+;0001EBFB{You have the means=to ascend back into=Eldon - the bones of=lesser men lie below !~00~}#086#083
+You have the means=to ascend back into=Eldon - the bones of=lesser men lie below !~00~#083
+;0001EC4E{Here lies the entrance=to Eldon mine - and =the forgotten=Lower Zone.~00~}#073#070
+Here lies the entrance=to Eldon mine - and =the forgotten=Lower Zone.~00~#070
+;0001EC94{DrakeHurst castle=lies above.=Never before has=it been breached,=nor given up its=secrets......~00~}#099#096
+DrakeHurst castle=lies above.=Never before has=it been breached,=nor given up its=secrets......~00~#096
+;0001ECF4{Through Eldon mine=you need to pass=again to reach the=outside world....~00~}#076#073
+Through Eldon mine=you need to pass=again to reach the=outside world....~00~#073
+;0001ED3D{A fortress here lies -=Burville by name.==Closely guarded=treasures lie within.~00~}#083#080
+A fortress here lies -=Burville by name.==Closely guarded=treasures lie within.~00~#080
+;0001ED8D{These steps lead to=Burville castle -=drawing you towards=the light above...~00~}#080#077
+These steps lead to=Burville castle -=drawing you towards=the light above...~00~#077
+;0001EDDA{These steps lead to=dungeons dark - the=banished ones patrol=them....~00~}#073#070
+These steps lead to=dungeons dark - the=banished ones patrol=them....~00~#070
+;0001EE20{The Lower Zone is=waiting - be sure=that you are armed=before you explore...~00~}#080#077
+The Lower Zone is=waiting - be sure=that you are armed=before you explore...~00~#077
+;0001EE6D{Paltry choice has he=who must question=himself between the=Burville dungeons=and the catacombs...~00~}#101#098
+Paltry choice has he=who must question=himself between the=Burville dungeons=and the catacombs...~00~#098
+;0001EECF{You are entering=StoneRidge caves -==The dank underlands=of the=low western shire....~00~}#089#086
+You are entering=StoneRidge caves -==The dank underlands=of the=low western shire....~00~#086
+;0001EF25{You are heading=back through=RuneWood.=Proceed with caution=tho' you have passed=this way before.....~00~}#105#102
+You are heading=back through=RuneWood.=Proceed with caution=tho' you have passed=this way before.....~00~#102
+;0001EF8B{You are heading=back through=Fernholt.=Proceed with caution=tho' you have passed=this way before.....~00~}#105#102
+You are heading=back through=Fernholt.=Proceed with caution=tho' you have passed=this way before.....~00~#102
+;0001EFF1{You have arrived at=BlakeStone castle, an=imposing stronghold.==Beware the guardians=that lie within....~00~}#108#105
+You have arrived at=BlakeStone castle, an=imposing stronghold.==Beware the guardians=that lie within....~00~#105
+;0001F05A{You re-enter the=underground, your=quest incomplete.==Lower still you need=to go........~00~}#092#089
+You re-enter the=underground, your=quest incomplete.==Lower still you need=to go........~00~#089
+;0001F0B3{Below these caves=are the darkened=Catacombs where roam=the banished ones....~00~}#081#078
+Below these caves=are the darkened=Catacombs where roam=the banished ones....~00~#078
+;0001F101{StoneRidge caves=again you enter -=Though friendly they=must seem right now!~00~}#080#077
+StoneRidge caves=again you enter -=Though friendly they=must seem right now!~00~#077
+;0001F14E{You have discovered=the hidden entrance=to Cullen dungeons.=Evil beings guard=this place....~00~}#096#093
+You have discovered=the hidden entrance=to Cullen dungeons.=Evil beings guard=this place....~00~#093
+;0001F1AB{He who returns from=Cullen castle nears=the end of his quest.=Seek Zaman, if he still=lives.....~00~}#100#097
+He who returns from=Cullen castle nears=the end of his quest.=Seek Zaman, if he still=lives.....~00~#097
+;0001F20C{No mean feat to=reach this place -=you have arrived at=Cullen castle....~00~}#076#073
+No mean feat to=reach this place -=you have arrived at=Cullen castle....~00~#073
+;0001F255{No braver man exists=than he who chooses=to enter the dungeons='neath Cullen.....~00~}#085#082
+No braver man exists=than he who chooses=to enter the dungeons='neath Cullen.....~00~#082
+;0001F2A7{Up to the dungeons=from a lower place=still - Cullen is=prepared for your=coming.....~00~}#089#086
+Up to the dungeons=from a lower place=still - Cullen is=prepared for your=coming.....~00~#086
+;0001F2FD{This should be=familiar ground=to you by now -=the Lower Zone=links the shires...~00~}#085#082
+This should be=familiar ground=to you by now -=the Lower Zone=links the shires...~00~#082
+;0001F34F{~FF~~00~}#008#002
+~FF~~00~#002
+;0001F351{~FF~~00~}#008#002
+~FF~~00~#002
+|9965
+@0001F475-0001F544-00
+;0001F475{ \_~F9~~00~}#011#005
+ \_~F9~~00~#005
+;0001F47A{"United we stand and~00~}#024#021
+"United we stand and~00~#021
+;0001F48F{divided we fall"~00~}#020#017
+divided we fall"~00~#017
+;0001F4A0{~00~}#004#001
+~00~#001
+;0001F4A1{~00~}#004#001
+~00~#001
+;0001F4A2{When King Cullen gave~00~}#025#022
+When King Cullen gave~00~#022
+;0001F4B8{control of the peaceful~00~}#027#024
+control of the peaceful~00~#024
+;0001F4D0{land of Obitus to his four~00~}#030#027
+land of Obitus to his four~00~#027
+;0001F4EB{sons, he warned them that~00~}#029#026
+sons, he warned them that~00~#026
+;0001F505{they must be united or the~00~}#030#027
+they must be united or the~00~#027
+;0001F520{land would fall into evil~00~}#029#026
+land would fall into evil~00~#026
+;0001F53A{hands.~00~}#010#007
+hands.~00~#007
+;0001F541{~00~}#004#001
+~00~#001
+;0001F542{~00~}#004#001
+~00~#001
+;0001F543{~00~}#004#001
+~00~#001
+;0001F544{~00~}#004#001
+~00~#001
+|208
+@0001F545-0001F7EE-00
+;0001F545{As a symbol of this unity,~00~}#030#027
+As a symbol of this unity,~00~#027
+;0001F560{the king gave to his sons~00~}#029#026
+the king gave to his sons~00~#026
+;0001F57A{the four Gems of~00~}#020#017
+the four Gems of~00~#017
+;0001F58B{Tranquillity which, when~00~}#028#025
+Tranquillity which, when~00~#025
+;0001F5A4{joined, protected the land~00~}#030#027
+joined, protected the land~00~#027
+;0001F5BF{with a mystical force.~00~}#026#023
+with a mystical force.~00~#023
+;0001F5D6{~00~}#004#001
+~00~#001
+;0001F5D7{~00~}#004#001
+~00~#001
+;0001F5D8{~00~}#004#001
+~00~#001
+;0001F5D9{Some time after this~00~}#024#021
+Some time after this~00~#021
+;0001F5EE{transfer of power took~00~}#026#023
+transfer of power took~00~#023
+;0001F605{place, an enchantress~00~}#025#022
+place, an enchantress~00~#022
+;0001F61B{named Salome sought to~00~}#026#023
+named Salome sought to~00~#023
+;0001F632{take advantage of the~00~}#025#022
+take advantage of the~00~#022
+;0001F648{princes' fraternal pact.~00~}#028#025
+princes' fraternal pact.~00~#025
+;0001F661{~00~}#004#001
+~00~#001
+;0001F662{~00~}#004#001
+~00~#001
+;0001F663{~00~}#004#001
+~00~#001
+;0001F664{She told them each in~00~}#025#022
+She told them each in~00~#022
+;0001F67A{confidence that they must~00~}#029#026
+confidence that they must~00~#026
+;0001F694{break from the others in~00~}#028#025
+break from the others in~00~#025
+;0001F6AD{order to obtain personal~00~}#028#025
+order to obtain personal~00~#025
+;0001F6C6{wealth and power.~00~}#021#018
+wealth and power.~00~#018
+;0001F6D8{~00~}#004#001
+~00~#001
+;0001F6D9{~00~}#004#001
+~00~#001
+;0001F6DA{The princes took these~00~}#026#023
+The princes took these~00~#023
+;0001F6F1{words to heart and fought~00~}#029#026
+words to heart and fought~00~#026
+;0001F70B{for control of the kingdom.~00~}#031#028
+for control of the kingdom.~00~#028
+;0001F727{~00~}#004#001
+~00~#001
+;0001F728{~00~}#004#001
+~00~#001
+;0001F729{~00~}#004#001
+~00~#001
+;0001F72A{When the battle was over,~00~}#029#026
+When the battle was over,~00~#026
+;0001F744{each prince had one of the~00~}#030#027
+each prince had one of the~00~#027
+;0001F75F{Gems and one quarter of~00~}#027#024
+Gems and one quarter of~00~#024
+;0001F777{the land.~00~}#013#010
+the land.~00~#010
+;0001F781{~00~}#004#001
+~00~#001
+;0001F782{~00~}#004#001
+~00~#001
+;0001F783{~00~}#004#001
+~00~#001
+;0001F784{The power of the Gems~00~}#025#022
+The power of the Gems~00~#022
+;0001F79A{has been broken. You must~00~}#029#026
+has been broken. You must~00~#026
+;0001F7B4{reunite them in the Tower~00~}#029#026
+reunite them in the Tower~00~#026
+;0001F7CE{Obitus and save the~00~}#023#020
+Obitus and save the~00~#020
+;0001F7E2{kingdom.~00~}#012#009
+kingdom.~00~#009
+;0001F7EB{~00~}#004#001
+~00~#001
+;0001F7EC{~00~}#004#001
+~00~#001
+;0001F7ED{~00~}#004#001
+~00~#001
+;0001F7EE{~00~}#004#001
+~00~#001
+|682
+@0001F7FC-0001F904-00
+;0001F7FC{   Psygnosis Personnel.~00~}#027#024
+   Psygnosis Personnel.~00~#024
+;0001F814{~00~}#004#001
+~00~#001
+;0001F815{Original Concept,~00~}#021#018
+Original Concept,~00~#018
+;0001F827{       Mike Haigh.~00~}#022#019
+       Mike Haigh.~00~#019
+;0001F83A{       Giulio Zicchi.~00~}#025#022
+       Giulio Zicchi.~00~#022
+;0001F850{~00~}#004#001
+~00~#001
+;0001F851{Programming,~00~}#016#013
+Programming,~00~#013
+;0001F85E{       Bill Allen.~00~}#022#019
+       Bill Allen.~00~#019
+;0001F871{       Tony Stoddart.~00~}#025#022
+       Tony Stoddart.~00~#022
+;0001F887{~00~}#004#001
+~00~#001
+;0001F888{Producer,~00~}#013#010
+Producer,~00~#010
+;0001F892{       Mike Simpson.~00~}#024#021
+       Mike Simpson.~00~#021
+;0001F8A7{~00~}#004#001
+~00~#001
+;0001F8A8{Testing,~00~}#012#009
+Testing,~00~#009
+;0001F8B1{       Tony Parkes.~00~}#023#020
+       Tony Parkes.~00~#020
+;0001F8C5{~00~}#004#001
+~00~#001
+;0001F8C6{~00~}#004#001
+~00~#001
+;0001F8C7{      BPS Personnel.~00~}#024#021
+      BPS Personnel.~00~#021
+;0001F8DC{~00~}#004#001
+~00~#001
+;0001F8DD{Project Manager,~00~}#020#017
+Project Manager,~00~#017
+;0001F8EE{       John Knoll.~00~}#022#019
+       John Knoll.~00~#019
+;0001F901{~00~}#004#001
+~00~#001
+;0001F902{~00~}#004#001
+~00~#001
+;0001F903{~00~}#004#001
+~00~#001
+;0001F904{~00~}#004#001
+~00~#001
+|265
+@0001F910-0001F9E1-00
+;0001F910{Hail master !~00~}#017#014
+Hail master !~00~#014
+;0001F91E{Conqueror of evil.~00~}#022#019
+Conqueror of evil.~00~#019
+;0001F931{Take now your rightful~00~}#026#023
+Take now your rightful~00~#023
+;0001F948{place upon the magic~00~}#024#021
+place upon the magic~00~#021
+;0001F95D{throne.~00~}#011#008
+throne.~00~#008
+;0001F965{~00~}#004#001
+~00~#001
+;0001F966{We, the assembled few,~00~}#026#023
+We, the assembled few,~00~#023
+;0001F97D{pledge allegiance on~00~}#024#021
+pledge allegiance on~00~#021
+;0001F992{behalf of all within the~00~}#028#025
+behalf of all within the~00~#025
+;0001F9AB{united shires.~00~}#018#015
+united shires.~00~#015
+;0001F9BA{~00~}#004#001
+~00~#001
+;0001F9BB{May you live long and~00~}#025#022
+May you live long and~00~#022
+;0001F9D1{rule wisely.~00~}#016#013
+rule wisely.~00~#013
+;0001F9DE{~00~}#004#001
+~00~#001
+;0001F9DF{~00~}#004#001
+~00~#001
+;0001F9E0{~00~}#004#001
+~00~#001
+;0001F9E1{~00~}#004#001
+~00~#001
+|210
+@0001F9E7-0001FA2C-00
+;0001F9E7{          Sound Test=====        Tune Number ==        Fx Number =~00~}#070#067
+          Sound Test=====        Tune Number ==        Fx Number =~00~#067
+;0001FA2A{~A9~_~00~}#009#003
+~A9~_~00~#003
+|70
+@00021BED-00021C03-00
+;00021BED{Otto of FalconWood~00~}#022#019
+Otto of FalconWood~00~#019
+;00021C00{~00~}#004#001
+~00~#001
+;00021C01{~00~}#004#001
+~00~#001
+;00021C02{H~1C~}#005#002
+H~1C~#002
+|23
+@00021C3A-00021C4B-00
+;00021C3A{The Green Man~00~}#017#014
+The Green Man~00~#014
+;00021C48{~00~}#004#001
+~00~#001
+;00021C49{~00~}#004#001
+~00~#001
+;00021C4A{~81~~1C~}#008#002
+~81~~1C~#002
+|18
+@00021C6E-00021C84-00
+;00021C6E{Odin of FalconWood~00~}#022#019
+Odin of FalconWood~00~#019
+;00021C81{~00~}#004#001
+~00~#001
+;00021C82{~00~}#004#001
+~00~#001
+;00021C83{~BB~~1C~}#008#002
+~BB~~1C~#002
+|23
+@00021F8E-00021FA5-00
+;00021F8E{Galliard the Swifte~00~}#023#020
+Galliard the Swifte~00~#020
+;00021FA2{~00~}#004#001
+~00~#001
+;00021FA3{~00~}#004#001
+~00~#001
+;00021FA4{~C8~~1F~}#008#002
+~C8~~1F~#002
+|24
+@000220FC-00022106-00
+;000220FC{Isolde~00~}#010#007
+Isolde~00~#007
+;00022103{~00~}#004#001
+~00~#001
+;00022104{~00~}#004#001
+~00~#001
+;00022105{~00~}#004#001
+~00~#001
+;00022106{~00~}#004#001
+~00~#001
+|11
+@00022185-00022191-00
+;00022185{Prisoner~00~}#012#009
+Prisoner~00~#009
+;0002218E{~00~}#004#001
+~00~#001
+;0002218F{~00~}#004#001
+~00~#001
+;00022190{~00~}#004#001
+~00~#001
+;00022191{~00~}#004#001
+~00~#001
+|13
+@000222B7-000222CB-00
+;000222B7{Edric the Brave~00~}#019#016
+Edric the Brave~00~#016
+;000222C7{~00~}#004#001
+~00~#001
+;000222C8{~00~}#004#001
+~00~#001
+;000222C9{~DD~"~D7~}#009#003
+~DD~"~D7~#003
+|21
+@000223C1-000223CB-00
+;000223C1{Modred~00~}#010#007
+Modred~00~#007
+;000223C8{~00~}#004#001
+~00~#001
+;000223C9{~00~}#004#001
+~00~#001
+;000223CA{~00~}#004#001
+~00~#001
+;000223CB{~00~}#004#001
+~00~#001
+|11
+@00022864-0002286E-00
+;00022864{Morgan~00~}#010#007
+Morgan~00~#007
+;0002286B{~00~}#004#001
+~00~#001
+;0002286C{~00~}#004#001
+~00~#001
+;0002286D{~00~}#004#001
+~00~#001
+;0002286E{~00~}#004#001
+~00~#001
+|11
+@00023048-00023052-00
+;00023048{Geryon~00~}#010#007
+Geryon~00~#007
+;0002304F{~00~}#004#001
+~00~#001
+;00023050{~00~}#004#001
+~00~#001
+;00023051{~00~}#004#001
+~00~#001
+;00023052{~00~}#004#001
+~00~#001
+|11
+@0002322D-00023243-00
+;0002322D{Zaman, Book-Keeper~00~}#022#019
+Zaman, Book-Keeper~00~#019
+;00023240{~00~}#004#001
+~00~#001
+;00023241{~00~}#004#001
+~00~#001
+;00023242{~00~}#004#001
+~00~#001
+;00023243{~00~}#004#001
+~00~#001
+|23
+@0002466D-0002469B-00
+;0002466D{King's Bowman~00~}#017#014
+King's Bowman~00~#014
+;0002467B{Armed Guardian~00~}#018#015
+Armed Guardian~00~#015
+;0002468A{Knight~00~}#010#007
+Knight~00~#007
+;00024691{Un-Known~00~}#012#009
+Un-Known~00~#009
+;0002469A{A~05~}#005#002
+A~05~#002
+|47
+@000259A2-00025BB5-00
+;000259A2{G2~CA~~02~G2~E6~~02~IA~02~~03~IA&~03~IAJ~03~IAn~03~Apple~00~}#060#030
+G2~CA~~02~G2~E6~~02~IA~02~~03~IA&~03~IAJ~03~IAn~03~Apple~00~#030
+;000259C0{Arrow~00~}#009#006
+Arrow~00~#006
+;000259C6{Gold Coin~00~}#013#010
+Gold Coin~00~#010
+;000259D0{Flask~00~}#009#006
+Flask~00~#006
+;000259D6{Heavy Key~00~}#013#010
+Heavy Key~00~#010
+;000259E0{Silver Key~00~}#014#011
+Silver Key~00~#011
+;000259EB{Light Key~00~}#013#010
+Light Key~00~#010
+;000259F5{Bread~00~}#009#006
+Bread~00~#006
+;000259FB{Chalice~00~}#011#008
+Chalice~00~#008
+;00025A03{Gold Bar~00~}#012#009
+Gold Bar~00~#009
+;00025A0C{Scroll~00~}#010#007
+Scroll~00~#007
+;00025A13{Silver Coin~00~}#015#012
+Silver Coin~00~#012
+;00025A1F{Green Berries~00~}#017#014
+Green Berries~00~#014
+;00025A2D{Large Gem~00~}#013#010
+Large Gem~00~#010
+;00025A37{FireBrand~00~}#013#010
+FireBrand~00~#010
+;00025A41{Silver Arrow~00~}#016#013
+Silver Arrow~00~#013
+;00025A4E{Eggs~00~}#008#005
+Eggs~00~#005
+;00025A53{Trinket Box~00~}#015#012
+Trinket Box~00~#012
+;00025A5F{Rope~00~}#008#005
+Rope~00~#005
+;00025A64{Quiver of Arrows~00~}#020#017
+Quiver of Arrows~00~#017
+;00025A75{Silver Bar~00~}#014#011
+Silver Bar~00~#011
+;00025A80{Gold Ring~00~}#013#010
+Gold Ring~00~#010
+;00025A8A{Ring of Genevieve~00~}#021#018
+Ring of Genevieve~00~#018
+;00025A9C{Silver Ring~00~}#015#012
+Silver Ring~00~#012
+;00025AA8{Dagger~00~}#010#007
+Dagger~00~#007
+;00025AAF{Knife~00~}#009#006
+Knife~00~#006
+;00025AB5{Large Gold Key~00~}#018#015
+Large Gold Key~00~#015
+;00025AC4{Small Gold Key~00~}#018#015
+Small Gold Key~00~#015
+;00025AD3{Red Berries~00~}#015#012
+Red Berries~00~#012
+;00025ADF{Green Powder~00~}#016#013
+Green Powder~00~#013
+;00025AEC{Blue Powder~00~}#015#012
+Blue Powder~00~#012
+;00025AF8{Powder of Fire~00~}#018#015
+Powder of Fire~00~#015
+;00025B07{Red Potion~00~}#014#011
+Red Potion~00~#011
+;00025B12{Green Potion~00~}#016#013
+Green Potion~00~#013
+;00025B1F{Blue Potion~00~}#015#012
+Blue Potion~00~#012
+;00025B2B{Large Flask~00~}#015#012
+Large Flask~00~#012
+;00025B37{Amulet~00~}#010#007
+Amulet~00~#007
+;00025B3E{Cherries~00~}#012#009
+Cherries~00~#009
+;00025B47{Blue Gem~00~}#012#009
+Blue Gem~00~#009
+;00025B50{Nuts~00~}#008#005
+Nuts~00~#005
+;00025B55{Spell Book~00~}#014#011
+Spell Book~00~#011
+;00025B60{Book Page~00~}#013#010
+Book Page~00~#010
+;00025B6A{Magic Weapon~00~}#016#013
+Magic Weapon~00~#013
+;00025B77{Lantern~00~}#011#008
+Lantern~00~#008
+;00025B7F{Lamp~00~}#008#005
+Lamp~00~#005
+;00025B84{Crown~00~}#009#006
+Crown~00~#006
+;00025B8A{Roll~00~}#008#005
+Roll~00~#005
+;00025B8F{Red Flask~00~}#013#010
+Red Flask~00~#010
+;00025B99{Lever~00~}#009#006
+Lever~00~#006
+;00025B9F{Talisman~00~}#012#009
+Talisman~00~#009
+;00025BA8{Un-Known...~00~}#015#012
+Un-Known...~00~#012
+;00025BB4{ ~DC~}#005#002
+ ~DC~#002
+|532
+@000342EA-000342F3-00
+;000342EA{MOMO~0F~~0F~~07~~07~=~0F~}#025#010
+MOMO~0F~~0F~~07~~07~=~0F~#010
+|10
+@00042FCE-00042FD6-00
+;00042FCE{BOBO~18~~1F~~04~~00~}#020#008
+BOBO~18~~1F~~04~~00~#008
+;00042FD6{~0C~}#004#001
+~0C~#001
+|9
+@0004316E-00043176-00
+;0004316E{BOBO~18~~1F~~04~~00~}#020#008
+BOBO~18~~1F~~04~~00~#008
+;00043176{~0C~}#004#001
+~0C~#001
+|9
+@00059502-0005950E-00
+;00059502{(/HO(/HO~0F~~00~}#016#010
+(/HO(/HO~0F~~00~#010
+;0005950C{~0F~~00~}#008#002
+~0F~~00~#002
+;0005950E{~03~}#004#001
+~03~#001
+|13
+@000708C2-000708D0-00
+;000708C2{IywOG~7F~sOsO~8B~~C7~~8A~~C6~~B4~}#033#015
+IywOG~7F~sOsO~8B~~C7~~8A~~C6~~B4~#015
+|15
+@00073FB0-00073FB8-00
+;00073FB0{ACCA~E7~~00~}#012#006
+ACCA~E7~~00~#006
+;00073FB6{~CF~~00~}#008#002
+~CF~~00~#002
+;00073FB8{~0F~}#004#001
+~0F~#001
+|9
+@00076A70-00076A78-00
+;00076A70{GOgo~1F~~00~}#012#006
+GOgo~1F~~00~#006
+;00076A76{~1F~~00~}#008#002
+~1F~~00~#002
+;00076A78{~11~}#004#001
+~11~#001
+|9
+@000810CA-000810D2-00
+;000810CA{HOHO~16~~18~~8D~~88~~EF~}#024#009
+HOHO~16~~18~~8D~~88~~EF~#009
+|9
+@000AE986-000AE98E-00
+;000AE986{EXIT~00~}#008#005
+EXIT~00~#005
+;000AE98B{~00~}#004#001
+~00~#001
+;000AE98C{~00~}#004#001
+~00~#001
+;000AE98D{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AE996-000AE99E-00
+;000AE996{ROOM~00~}#008#005
+ROOM~00~#005
+;000AE99B{~00~}#004#001
+~00~#001
+;000AE99C{~00~}#004#001
+~00~#001
+;000AE99D{ ~00~}#005#002
+ ~00~#002
+|9
+@000AE9BE-000AE9C6-00
+;000AE9BE{EXIT~00~}#008#005
+EXIT~00~#005
+;000AE9C3{~00~}#004#001
+~00~#001
+;000AE9C4{~00~}#004#001
+~00~#001
+;000AE9C5{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AE9CE-000AE9D6-00
+;000AE9CE{ROOM~00~}#008#005
+ROOM~00~#005
+;000AE9D3{~00~}#004#001
+~00~#001
+;000AE9D4{~00~}#004#001
+~00~#001
+;000AE9D5{$~00~}#005#002
+$~00~#002
+|9
+@000AE9FA-000AEA02-00
+;000AE9FA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AE9FF{~00~}#004#001
+~00~#001
+;000AEA00{~00~}#004#001
+~00~#001
+;000AEA01{~0C~~00~}#008#002
+~0C~~00~#002
+|9
+@000AEA0E-000AEA16-00
+;000AEA0E{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEA14{~00~}#004#001
+~00~#001
+;000AEA15{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEA32-000AEA3A-00
+;000AEA32{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEA37{~00~}#004#001
+~00~#001
+;000AEA38{~00~}#004#001
+~00~#001
+;000AEA39{~08~~01~}#008#002
+~08~~01~#002
+|9
+@000AEA42-000AEA4A-00
+;000AEA42{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEA48{~00~}#004#001
+~00~#001
+;000AEA49{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEA66-000AEA6E-00
+;000AEA66{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEA6B{~00~}#004#001
+~00~#001
+;000AEA6C{~00~}#004#001
+~00~#001
+;000AEA6D{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AEA76-000AEA7E-00
+;000AEA76{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEA7C{~00~}#004#001
+~00~#001
+;000AEA7D{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEA9A-000AEAA2-00
+;000AEA9A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEA9F{~00~}#004#001
+~00~#001
+;000AEAA0{~00~}#004#001
+~00~#001
+;000AEAA1{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AEAAA-000AEAB2-00
+;000AEAAA{ROOM~00~}#008#005
+ROOM~00~#005
+;000AEAAF{~00~}#004#001
+~00~#001
+;000AEAB0{~00~}#004#001
+~00~#001
+;000AEAB1{ ~00~}#005#002
+ ~00~#002
+|9
+@000AEAD2-000AEADA-00
+;000AEAD2{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEAD7{~00~}#004#001
+~00~#001
+;000AEAD8{~00~}#004#001
+~00~#001
+;000AEAD9{~08~~01~}#008#002
+~08~~01~#002
+|9
+@000AEAE2-000AEAEA-00
+;000AEAE2{ROOM~00~}#008#005
+ROOM~00~#005
+;000AEAE7{~00~}#004#001
+~00~#001
+;000AEAE8{~00~}#004#001
+~00~#001
+;000AEAE9{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEB12-000AEB1A-00
+;000AEB12{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEB18{~00~}#004#001
+~00~#001
+;000AEB19{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AEB32-000AEB3A-00
+;000AEB32{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEB37{~00~}#004#001
+~00~#001
+;000AEB38{~00~}#004#001
+~00~#001
+;000AEB39{~08~~01~}#008#002
+~08~~01~#002
+|9
+@000AEB42-000AEB4A-00
+;000AEB42{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEB48{~00~}#004#001
+~00~#001
+;000AEB49{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AEB62-000AEB6A-00
+;000AEB62{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEB67{~00~}#004#001
+~00~#001
+;000AEB68{~00~}#004#001
+~00~#001
+;000AEB69{~08~~01~}#008#002
+~08~~01~#002
+|9
+@000AEB72-000AEB7A-00
+;000AEB72{ROOM~00~}#008#005
+ROOM~00~#005
+;000AEB77{~00~}#004#001
+~00~#001
+;000AEB78{~00~}#004#001
+~00~#001
+;000AEB79{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEB96-000AEB9E-00
+;000AEB96{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEB9B{~00~}#004#001
+~00~#001
+;000AEB9C{~00~}#004#001
+~00~#001
+;000AEB9D{~0C~~01~}#008#002
+~0C~~01~#002
+|9
+@000AEBA9-000AEBB2-00
+;000AEBA9{=ROOM~80~~00~}#013#007
+=ROOM~80~~00~#007
+;000AEBB0{~00~}#004#001
+~00~#001
+;000AEBB1{~14~~00~}#008#002
+~14~~00~#002
+|10
+@000AEBC6-000AEBCE-00
+;000AEBC6{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEBCB{~00~}#004#001
+~00~#001
+;000AEBCC{~00~}#004#001
+~00~#001
+;000AEBCD{~04~~01~}#008#002
+~04~~01~#002
+|9
+@000AEBD2-000AEBDA-00
+;000AEBD2{ROOM~00~}#008#005
+ROOM~00~#005
+;000AEBD7{~00~}#004#001
+~00~#001
+;000AEBD8{~00~}#004#001
+~00~#001
+;000AEBD9{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEBF6-000AEBFE-00
+;000AEBF6{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEBFB{~00~}#004#001
+~00~#001
+;000AEBFC{~00~}#004#001
+~00~#001
+;000AEBFD{~0C~~01~}#008#002
+~0C~~01~#002
+|9
+@000AEC0A-000AEC12-00
+;000AEC0A{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEC10{~00~}#004#001
+~00~#001
+;000AEC11{~14~~00~}#008#002
+~14~~00~#002
+|9
+@000AEC26-000AEC2E-00
+;000AEC26{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEC2B{~00~}#004#001
+~00~#001
+;000AEC2C{~00~}#004#001
+~00~#001
+;000AEC2D{~04~~01~}#008#002
+~04~~01~#002
+|9
+@000AEC32-000AEC3A-00
+;000AEC32{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEC38{~00~}#004#001
+~00~#001
+;000AEC39{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AEC52-000AEC5A-00
+;000AEC52{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEC57{~00~}#004#001
+~00~#001
+;000AEC58{~00~}#004#001
+~00~#001
+;000AEC59{~08~~01~}#008#002
+~08~~01~#002
+|9
+@000AEC62-000AEC6A-00
+;000AEC62{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEC68{~00~}#004#001
+~00~#001
+;000AEC69{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEC86-000AEC8E-00
+;000AEC86{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEC8B{~00~}#004#001
+~00~#001
+;000AEC8C{~00~}#004#001
+~00~#001
+;000AEC8D{~04~~00~}#008#002
+~04~~00~#002
+|9
+@000AEC92-000AEC9A-00
+;000AEC92{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEC98{~00~}#004#001
+~00~#001
+;000AEC99{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AECB6-000AECBE-00
+;000AECB6{EXIT~00~}#008#005
+EXIT~00~#005
+;000AECBB{~00~}#004#001
+~00~#001
+;000AECBC{~00~}#004#001
+~00~#001
+;000AECBD{~08~~02~}#008#002
+~08~~02~#002
+|9
+@000AECC6-000AECCE-00
+;000AECC6{ROOM~00~}#008#005
+ROOM~00~#005
+;000AECCB{~00~}#004#001
+~00~#001
+;000AECCC{~00~}#004#001
+~00~#001
+;000AECCD{$~00~}#005#002
+$~00~#002
+|9
+@000AECF2-000AECFA-00
+;000AECF2{EXIT~00~}#008#005
+EXIT~00~#005
+;000AECF7{~00~}#004#001
+~00~#001
+;000AECF8{~00~}#004#001
+~00~#001
+;000AECF9{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AED02-000AED0A-00
+;000AED02{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AED08{~00~}#004#001
+~00~#001
+;000AED09{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AED26-000AED2E-00
+;000AED26{EXIT~00~}#008#005
+EXIT~00~#005
+;000AED2B{~00~}#004#001
+~00~#001
+;000AED2C{~00~}#004#001
+~00~#001
+;000AED2D{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AED36-000AED3E-00
+;000AED36{ROOM~00~}#008#005
+ROOM~00~#005
+;000AED3B{~00~}#004#001
+~00~#001
+;000AED3C{~00~}#004#001
+~00~#001
+;000AED3D{(~00~}#005#002
+(~00~#002
+|9
+@000AED66-000AED6E-00
+;000AED66{EXIT~00~}#008#005
+EXIT~00~#005
+;000AED6B{~00~}#004#001
+~00~#001
+;000AED6C{~00~}#004#001
+~00~#001
+;000AED6D{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AED76-000AED7E-00
+;000AED76{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AED7C{~00~}#004#001
+~00~#001
+;000AED7D{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AED9A-000AEDA2-00
+;000AED9A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AED9F{~00~}#004#001
+~00~#001
+;000AEDA0{~00~}#004#001
+~00~#001
+;000AEDA1{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AEDAA-000AEDB2-00
+;000AEDAA{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEDB0{~00~}#004#001
+~00~#001
+;000AEDB1{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEDCE-000AEDD6-00
+;000AEDCE{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEDD3{~00~}#004#001
+~00~#001
+;000AEDD4{~00~}#004#001
+~00~#001
+;000AEDD5{~08~~01~}#008#002
+~08~~01~#002
+|9
+@000AEE12-000AEE1A-00
+;000AEE12{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEE17{~00~}#004#001
+~00~#001
+;000AEE18{~00~}#004#001
+~00~#001
+;000AEE19{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AEE22-000AEE2A-00
+;000AEE22{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEE28{~00~}#004#001
+~00~#001
+;000AEE29{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEE46-000AEE4E-00
+;000AEE46{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEE4B{~00~}#004#001
+~00~#001
+;000AEE4C{~00~}#004#001
+~00~#001
+;000AEE4D{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AEE56-000AEE5E-00
+;000AEE56{ROOM~00~}#008#005
+ROOM~00~#005
+;000AEE5B{~00~}#004#001
+~00~#001
+;000AEE5C{~00~}#004#001
+~00~#001
+;000AEE5D{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEE7A-000AEE82-00
+;000AEE7A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEE7F{~00~}#004#001
+~00~#001
+;000AEE80{~00~}#004#001
+~00~#001
+;000AEE81{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AEE8A-000AEE92-00
+;000AEE8A{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEE90{~00~}#004#001
+~00~#001
+;000AEE91{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEEAE-000AEEB6-00
+;000AEEAE{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEEB3{~00~}#004#001
+~00~#001
+;000AEEB4{~00~}#004#001
+~00~#001
+;000AEEB5{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AEEBE-000AEEC6-00
+;000AEEBE{ROOM~00~}#008#005
+ROOM~00~#005
+;000AEEC3{~00~}#004#001
+~00~#001
+;000AEEC4{~00~}#004#001
+~00~#001
+;000AEEC5{$~00~}#005#002
+$~00~#002
+|9
+@000AEEEA-000AEEF2-00
+;000AEEEA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEEEF{~00~}#004#001
+~00~#001
+;000AEEF0{~00~}#004#001
+~00~#001
+;000AEEF1{~0C~~03~}#008#002
+~0C~~03~#002
+|9
+@000AEEFE-000AEF06-00
+;000AEEFE{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEF04{~00~}#004#001
+~00~#001
+;000AEF05{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEF22-000AEF2A-00
+;000AEF22{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEF27{~00~}#004#001
+~00~#001
+;000AEF28{~00~}#004#001
+~00~#001
+;000AEF29{~04~~06~}#008#002
+~04~~06~#002
+|9
+@000AEF2E-000AEF36-00
+;000AEF2E{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEF34{~00~}#004#001
+~00~#001
+;000AEF35{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AEF52-000AEF5A-00
+;000AEF52{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEF57{~00~}#004#001
+~00~#001
+;000AEF58{~00~}#004#001
+~00~#001
+;000AEF59{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AEF62-000AEF6A-00
+;000AEF62{ROOM~00~}#008#005
+ROOM~00~#005
+;000AEF67{~00~}#004#001
+~00~#001
+;000AEF68{~00~}#004#001
+~00~#001
+;000AEF69{,~00~}#005#002
+,~00~#002
+|9
+@000AEFAA-000AEFB2-00
+;000AEFAA{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEFB0{~00~}#004#001
+~00~#001
+;000AEFB1{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AEFCA-000AEFD2-00
+;000AEFCA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEFCF{~00~}#004#001
+~00~#001
+;000AEFD0{~00~}#004#001
+~00~#001
+;000AEFD1{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AEFDA-000AEFE2-00
+;000AEFDA{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AEFE0{~00~}#004#001
+~00~#001
+;000AEFE1{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AEFFA-000AF002-00
+;000AEFFA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AEFFF{~00~}#004#001
+~00~#001
+;000AF000{~00~}#004#001
+~00~#001
+;000AF001{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AF00A-000AF012-00
+;000AF00A{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF010{~00~}#004#001
+~00~#001
+;000AF011{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AF02A-000AF032-00
+;000AF02A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF02F{~00~}#004#001
+~00~#001
+;000AF030{~00~}#004#001
+~00~#001
+;000AF031{~08~~07~}#008#002
+~08~~07~#002
+|9
+@000AF03A-000AF042-00
+;000AF03A{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF040{~00~}#004#001
+~00~#001
+;000AF041{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AF05A-000AF062-00
+;000AF05A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF05F{~00~}#004#001
+~00~#001
+;000AF060{~00~}#004#001
+~00~#001
+;000AF061{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AF06A-000AF072-00
+;000AF06A{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF070{~00~}#004#001
+~00~#001
+;000AF071{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AF08A-000AF092-00
+;000AF08A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF08F{~00~}#004#001
+~00~#001
+;000AF090{~00~}#004#001
+~00~#001
+;000AF091{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AF099-000AF0A2-00
+;000AF099{=ROOM~00~}#009#006
+=ROOM~00~#006
+;000AF09F{~00~}#004#001
+~00~#001
+;000AF0A0{~00~}#004#001
+~00~#001
+;000AF0A1{(~00~}#005#002
+(~00~#002
+|10
+@000AF0CA-000AF0D2-00
+;000AF0CA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF0CF{~00~}#004#001
+~00~#001
+;000AF0D0{~00~}#004#001
+~00~#001
+;000AF0D1{~0C~~00~}#008#002
+~0C~~00~#002
+|9
+@000AF0DE-000AF0E6-00
+;000AF0DE{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF0E4{~00~}#004#001
+~00~#001
+;000AF0E5{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AF0FE-000AF106-00
+;000AF0FE{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF103{~00~}#004#001
+~00~#001
+;000AF104{~00~}#004#001
+~00~#001
+;000AF105{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF10E-000AF116-00
+;000AF10E{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF113{~00~}#004#001
+~00~#001
+;000AF114{~00~}#004#001
+~00~#001
+;000AF115{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF136-000AF13E-00
+;000AF136{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF13B{~00~}#004#001
+~00~#001
+;000AF13C{~00~}#004#001
+~00~#001
+;000AF13D{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF146-000AF14E-00
+;000AF146{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF14B{~00~}#004#001
+~00~#001
+;000AF14C{~00~}#004#001
+~00~#001
+;000AF14D{$~00~}#005#002
+$~00~#002
+|9
+@000AF172-000AF17A-00
+;000AF172{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF177{~00~}#004#001
+~00~#001
+;000AF178{~00~}#004#001
+~00~#001
+;000AF179{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AF182-000AF18A-00
+;000AF182{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF188{~00~}#004#001
+~00~#001
+;000AF189{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF1A6-000AF1AE-00
+;000AF1A6{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF1AB{~00~}#004#001
+~00~#001
+;000AF1AC{~00~}#004#001
+~00~#001
+;000AF1AD{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AF1B6-000AF1BE-00
+;000AF1B6{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF1BC{~00~}#004#001
+~00~#001
+;000AF1BD{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AF1D6-000AF1DE-00
+;000AF1D6{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF1DB{~00~}#004#001
+~00~#001
+;000AF1DC{~00~}#004#001
+~00~#001
+;000AF1DD{~04~~03~}#008#002
+~04~~03~#002
+|9
+@000AF1E1-000AF1EA-00
+;000AF1E1{=ROOM~80~~00~}#013#007
+=ROOM~80~~00~#007
+;000AF1E8{~00~}#004#001
+~00~#001
+;000AF1E9{~1C~~00~}#008#002
+~1C~~00~#002
+|10
+@000AF206-000AF20E-00
+;000AF206{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF20B{~00~}#004#001
+~00~#001
+;000AF20C{~00~}#004#001
+~00~#001
+;000AF20D{~08~~03~}#008#002
+~08~~03~#002
+|9
+@000AF216-000AF21E-00
+;000AF216{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF21C{~00~}#004#001
+~00~#001
+;000AF21D{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF23A-000AF242-00
+;000AF23A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF23F{~00~}#004#001
+~00~#001
+;000AF240{~00~}#004#001
+~00~#001
+;000AF241{~04~~05~}#008#002
+~04~~05~#002
+|9
+@000AF246-000AF256-00
+;000AF246{CSTL~00~}#008#005
+CSTL~00~#005
+;000AF24B{~00~}#004#001
+~00~#001
+;000AF24C{~03~~98~ROOM~00~}#016#007
+~03~~98~ROOM~00~#007
+;000AF253{~00~}#004#001
+~00~#001
+;000AF254{~00~}#004#001
+~00~#001
+;000AF255{ ~00~}#005#002
+ ~00~#002
+|17
+@000AF276-000AF27E-00
+;000AF276{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF27B{~00~}#004#001
+~00~#001
+;000AF27C{~00~}#004#001
+~00~#001
+;000AF27D{~04~~0B~}#008#002
+~04~~0B~#002
+|9
+@000AF282-000AF28A-00
+;000AF282{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF287{~00~}#004#001
+~00~#001
+;000AF288{~00~}#004#001
+~00~#001
+;000AF289{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF2AA-000AF2B2-00
+;000AF2AA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF2AF{~00~}#004#001
+~00~#001
+;000AF2B0{~00~}#004#001
+~00~#001
+;000AF2B1{~0C~~0B~}#008#002
+~0C~~0B~#002
+|9
+@000AF2BE-000AF2C6-00
+;000AF2BE{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF2C4{~00~}#004#001
+~00~#001
+;000AF2C5{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF2E2-000AF2EA-00
+;000AF2E2{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF2E7{~00~}#004#001
+~00~#001
+;000AF2E8{~00~}#004#001
+~00~#001
+;000AF2E9{~08~~08~}#008#002
+~08~~08~#002
+|9
+@000AF2F2-000AF2FA-00
+;000AF2F2{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF2F8{~00~}#004#001
+~00~#001
+;000AF2F9{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF316-000AF31E-00
+;000AF316{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF31B{~00~}#004#001
+~00~#001
+;000AF31C{~00~}#004#001
+~00~#001
+;000AF31D{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF326-000AF32E-00
+;000AF326{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF32B{~00~}#004#001
+~00~#001
+;000AF32C{~00~}#004#001
+~00~#001
+;000AF32D{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF34E-000AF356-00
+;000AF34E{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF353{~00~}#004#001
+~00~#001
+;000AF354{~00~}#004#001
+~00~#001
+;000AF355{~0C~~08~}#008#002
+~0C~~08~#002
+|9
+@000AF362-000AF36A-00
+;000AF362{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF367{~00~}#004#001
+~00~#001
+;000AF368{~00~}#004#001
+~00~#001
+;000AF369{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF38A-000AF392-00
+;000AF38A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF38F{~00~}#004#001
+~00~#001
+;000AF390{~00~}#004#001
+~00~#001
+;000AF391{~04~~0A~}#008#002
+~04~~0A~#002
+|9
+@000AF396-000AF39E-00
+;000AF396{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF39C{~00~}#004#001
+~00~#001
+;000AF39D{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF3BA-000AF3C2-00
+;000AF3BA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF3BF{~00~}#004#001
+~00~#001
+;000AF3C0{~00~}#004#001
+~00~#001
+;000AF3C1{~08~~08~}#008#002
+~08~~08~#002
+|9
+@000AF3CA-000AF3D2-00
+;000AF3CA{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF3D0{~00~}#004#001
+~00~#001
+;000AF3D1{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF3EE-000AF3F6-00
+;000AF3EE{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF3F3{~00~}#004#001
+~00~#001
+;000AF3F4{~00~}#004#001
+~00~#001
+;000AF3F5{~08~~08~}#008#002
+~08~~08~#002
+|9
+@000AF3FE-000AF406-00
+;000AF3FE{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF404{~00~}#004#001
+~00~#001
+;000AF405{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF422-000AF42A-00
+;000AF422{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF427{~00~}#004#001
+~00~#001
+;000AF428{~00~}#004#001
+~00~#001
+;000AF429{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF432-000AF43A-00
+;000AF432{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF438{~00~}#004#001
+~00~#001
+;000AF439{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF456-000AF45E-00
+;000AF456{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF45B{~00~}#004#001
+~00~#001
+;000AF45C{~00~}#004#001
+~00~#001
+;000AF45D{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF466-000AF46E-00
+;000AF466{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF46C{~00~}#004#001
+~00~#001
+;000AF46D{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF48A-000AF492-00
+;000AF48A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF48F{~00~}#004#001
+~00~#001
+;000AF490{~00~}#004#001
+~00~#001
+;000AF491{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF499-000AF4A2-00
+;000AF499{=ROOM~80~~00~}#013#007
+=ROOM~80~~00~#007
+;000AF4A0{~00~}#004#001
+~00~#001
+;000AF4A1{~1C~~00~}#008#002
+~1C~~00~#002
+|10
+@000AF4BE-000AF4C6-00
+;000AF4BE{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF4C3{~00~}#004#001
+~00~#001
+;000AF4C4{~00~}#004#001
+~00~#001
+;000AF4C5{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF4CE-000AF4D6-00
+;000AF4CE{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF4D3{~00~}#004#001
+~00~#001
+;000AF4D4{~00~}#004#001
+~00~#001
+;000AF4D5{$~00~}#005#002
+$~00~#002
+|9
+@000AF4FA-000AF502-00
+;000AF4FA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF4FF{~00~}#004#001
+~00~#001
+;000AF500{~00~}#004#001
+~00~#001
+;000AF501{~04~~0C~}#008#002
+~04~~0C~#002
+|9
+@000AF505-000AF50E-00
+;000AF505{=ROOM~00~}#009#006
+=ROOM~00~#006
+;000AF50B{~00~}#004#001
+~00~#001
+;000AF50C{~00~}#004#001
+~00~#001
+;000AF50D{~1C~~00~}#008#002
+~1C~~00~#002
+|10
+@000AF52A-000AF532-00
+;000AF52A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF52F{~00~}#004#001
+~00~#001
+;000AF530{~00~}#004#001
+~00~#001
+;000AF531{~08~~08~}#008#002
+~08~~08~#002
+|9
+@000AF53A-000AF542-00
+;000AF53A{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF53F{~00~}#004#001
+~00~#001
+;000AF540{~00~}#004#001
+~00~#001
+;000AF541{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF562-000AF56A-00
+;000AF562{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF567{~00~}#004#001
+~00~#001
+;000AF568{~00~}#004#001
+~00~#001
+;000AF569{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF572-000AF57A-00
+;000AF572{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF577{~00~}#004#001
+~00~#001
+;000AF578{~00~}#004#001
+~00~#001
+;000AF579{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF59A-000AF5A2-00
+;000AF59A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF59F{~00~}#004#001
+~00~#001
+;000AF5A0{~00~}#004#001
+~00~#001
+;000AF5A1{~0C~~08~}#008#002
+~0C~~08~#002
+|9
+@000AF5AE-000AF5B6-00
+;000AF5AE{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF5B3{~00~}#004#001
+~00~#001
+;000AF5B4{~00~}#004#001
+~00~#001
+;000AF5B5{$~00~}#005#002
+$~00~#002
+|9
+@000AF61A-000AF623-00
+;000AF61A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF61F{~00~}#004#001
+~00~#001
+;000AF620{~00~}#004#001
+~00~#001
+;000AF621{~08~=~04~}#009#003
+~08~=~04~#003
+|10
+@000AF62A-000AF632-00
+;000AF62A{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF62F{~00~}#004#001
+~00~#001
+;000AF630{~00~}#004#001
+~00~#001
+;000AF631{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF652-000AF65B-00
+;000AF652{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF657{~00~}#004#001
+~00~#001
+;000AF658{~00~}#004#001
+~00~#001
+;000AF659{~04~=~00~}#009#003
+~04~=~00~#003
+|10
+@000AF65E-000AF666-00
+;000AF65E{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF664{~00~}#004#001
+~00~#001
+;000AF665{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AF67E-000AF687-00
+;000AF67E{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF683{~00~}#004#001
+~00~#001
+;000AF684{~00~}#004#001
+~00~#001
+;000AF685{~08~=~00~}#009#003
+~08~=~00~#003
+|10
+@000AF68E-000AF696-00
+;000AF68E{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF693{~00~}#004#001
+~00~#001
+;000AF694{~00~}#004#001
+~00~#001
+;000AF695{$~00~}#005#002
+$~00~#002
+|9
+@000AF6BA-000AF6C3-00
+;000AF6BA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF6BF{~00~}#004#001
+~00~#001
+;000AF6C0{~00~}#004#001
+~00~#001
+;000AF6C1{~08~=~00~}#009#003
+~08~=~00~#003
+|10
+@000AF6CA-000AF6D2-00
+;000AF6CA{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF6D0{~00~}#004#001
+~00~#001
+;000AF6D1{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF6EE-000AF6F7-00
+;000AF6EE{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF6F3{~00~}#004#001
+~00~#001
+;000AF6F4{~00~}#004#001
+~00~#001
+;000AF6F5{~08~=~00~}#009#003
+~08~=~00~#003
+|10
+@000AF6FE-000AF706-00
+;000AF6FE{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF703{~00~}#004#001
+~00~#001
+;000AF704{~00~}#004#001
+~00~#001
+;000AF705{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF73A-000AF742-00
+;000AF73A{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF740{~00~}#004#001
+~00~#001
+;000AF741{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF75E-000AF766-00
+;000AF75E{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF763{~00~}#004#001
+~00~#001
+;000AF764{~00~}#004#001
+~00~#001
+;000AF765{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF76E-000AF776-00
+;000AF76E{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF774{~00~}#004#001
+~00~#001
+;000AF775{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF792-000AF79B-00
+;000AF792{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF797{~00~}#004#001
+~00~#001
+;000AF798{~00~}#004#001
+~00~#001
+;000AF799{~08~=~04~}#009#003
+~08~=~04~#003
+|10
+@000AF7A2-000AF7AA-00
+;000AF7A2{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF7A7{~00~}#004#001
+~00~#001
+;000AF7A8{~00~}#004#001
+~00~#001
+;000AF7A9{$~00~}#005#002
+$~00~#002
+|9
+@000AF7CE-000AF7D7-00
+;000AF7CE{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF7D3{~00~}#004#001
+~00~#001
+;000AF7D4{~00~}#004#001
+~00~#001
+;000AF7D5{~04~=~02~}#009#003
+~04~=~02~#003
+|10
+@000AF7DA-000AF7E2-00
+;000AF7DA{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF7DF{~00~}#004#001
+~00~#001
+;000AF7E0{~00~}#004#001
+~00~#001
+;000AF7E1{(~00~}#005#002
+(~00~#002
+|9
+@000AF80A-000AF812-00
+;000AF80A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF80F{~00~}#004#001
+~00~#001
+;000AF810{~00~}#004#001
+~00~#001
+;000AF811{~04~~00~}#008#002
+~04~~00~#002
+|9
+@000AF816-000AF81E-00
+;000AF816{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF81C{~00~}#004#001
+~00~#001
+;000AF81D{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF83A-000AF842-00
+;000AF83A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF83F{~00~}#004#001
+~00~#001
+;000AF840{~00~}#004#001
+~00~#001
+;000AF841{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF84A-000AF852-00
+;000AF84A{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF84F{~00~}#004#001
+~00~#001
+;000AF850{~00~}#004#001
+~00~#001
+;000AF851{ ~00~}#005#002
+ ~00~#002
+|9
+@000AF872-000AF87A-00
+;000AF872{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF877{~00~}#004#001
+~00~#001
+;000AF878{~00~}#004#001
+~00~#001
+;000AF879{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF882-000AF88A-00
+;000AF882{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF888{~00~}#004#001
+~00~#001
+;000AF889{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF8A6-000AF8AF-00
+;000AF8A6{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF8AB{~00~}#004#001
+~00~#001
+;000AF8AC{~00~}#004#001
+~00~#001
+;000AF8AD{~0C~=~04~}#009#003
+~0C~=~04~#003
+|10
+@000AF8BA-000AF8C2-00
+;000AF8BA{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF8BF{~00~}#004#001
+~00~#001
+;000AF8C0{~00~}#004#001
+~00~#001
+;000AF8C1{$~00~}#005#002
+$~00~#002
+|9
+@000AF8E6-000AF8EF-00
+;000AF8E6{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF8EB{~00~}#004#001
+~00~#001
+;000AF8EC{~00~}#004#001
+~00~#001
+;000AF8ED{~04~=~02~}#009#003
+~04~=~02~#003
+|10
+@000AF8F2-000AF8FA-00
+;000AF8F2{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF8F7{~00~}#004#001
+~00~#001
+;000AF8F8{~00~}#004#001
+~00~#001
+;000AF8F9{(~00~}#005#002
+(~00~#002
+|9
+@000AF922-000AF92A-00
+;000AF922{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF927{~00~}#004#001
+~00~#001
+;000AF928{~00~}#004#001
+~00~#001
+;000AF929{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF932-000AF93A-00
+;000AF932{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF937{~00~}#004#001
+~00~#001
+;000AF938{~00~}#004#001
+~00~#001
+;000AF939{(~00~}#005#002
+(~00~#002
+|9
+@000AF962-000AF96B-00
+;000AF962{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF967{~00~}#004#001
+~00~#001
+;000AF968{~00~}#004#001
+~00~#001
+;000AF969{~0C~=~00~}#009#003
+~0C~=~00~#003
+|10
+@000AF976-000AF97E-00
+;000AF976{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF97C{~00~}#004#001
+~00~#001
+;000AF97D{~18~~00~}#008#002
+~18~~00~#002
+|9
+@000AF996-000AF99F-00
+;000AF996{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF99B{~00~}#004#001
+~00~#001
+;000AF99C{~00~}#004#001
+~00~#001
+;000AF99D{~08~=~04~}#009#003
+~08~=~04~#003
+|10
+@000AF9A6-000AF9AE-00
+;000AF9A6{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AF9AC{~00~}#004#001
+~00~#001
+;000AF9AD{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AF9CA-000AF9D2-00
+;000AF9CA{EXIT~00~}#008#005
+EXIT~00~#005
+;000AF9CF{~00~}#004#001
+~00~#001
+;000AF9D0{~00~}#004#001
+~00~#001
+;000AF9D1{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AF9DA-000AF9E2-00
+;000AF9DA{ROOM~00~}#008#005
+ROOM~00~#005
+;000AF9DF{~00~}#004#001
+~00~#001
+;000AF9E0{~00~}#004#001
+~00~#001
+;000AF9E1{ ~00~}#005#002
+ ~00~#002
+|9
+@000AFA16-000AFA1E-00
+;000AFA16{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AFA1C{~00~}#004#001
+~00~#001
+;000AFA1D{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AFA3A-000AFA43-00
+;000AFA3A{EXIT~00~}#008#005
+EXIT~00~#005
+;000AFA3F{~00~}#004#001
+~00~#001
+;000AFA40{~00~}#004#001
+~00~#001
+;000AFA41{~08~=~04~}#009#003
+~08~=~04~#003
+|10
+@000AFA4A-000AFA52-00
+;000AFA4A{ROOM~80~~00~}#012#006
+ROOM~80~~00~#006
+;000AFA50{~00~}#004#001
+~00~#001
+;000AFA51{~1C~~00~}#008#002
+~1C~~00~#002
+|9
+@000AFA6E-000AFA76-00
+;000AFA6E{EXIT~00~}#008#005
+EXIT~00~#005
+;000AFA73{~00~}#004#001
+~00~#001
+;000AFA74{~00~}#004#001
+~00~#001
+;000AFA75{~08~~00~}#008#002
+~08~~00~#002
+|9
+@000AFA7E-000AFA86-00
+;000AFA7E{ROOM~00~}#008#005
+ROOM~00~#005
+;000AFA83{~00~}#004#001
+~00~#001
+;000AFA84{~00~}#004#001
+~00~#001
+;000AFA85{ ~00~}#005#002
+ ~00~#002
+|9
+@000AFAA6-000AFAAF-00
+;000AFAA6{EXIT~00~}#008#005
+EXIT~00~#005
+;000AFAAB{~00~}#004#001
+~00~#001
+;000AFAAC{~00~}#004#001
+~00~#001
+;000AFAAD{~0C~=~04~}#009#003
+~0C~=~04~#003
+|10
+@000AFABA-000AFAC2-00
+;000AFABA{ROOM~00~}#008#005
+ROOM~00~#005
+;000AFABF{~00~}#004#001
+~00~#001
+;000AFAC0{~00~}#004#001
+~00~#001
+;000AFAC1{ ~00~}#005#002
+ ~00~#002
+|9
+@000AFAE2-000AFAEB-00
+;000AFAE2{EXIT~00~}#008#005
+EXIT~00~#005
+;000AFAE7{~00~}#004#001
+~00~#001
+;000AFAE8{~00~}#004#001
+~00~#001
+;000AFAE9{~04~=~00~}#009#003
+~04~=~00~#003
+|10
+@000AFAEE-000AFAF6-00
+;000AFAEE{ROOM~00~}#008#005
+ROOM~00~#005
+;000AFAF3{~00~}#004#001
+~00~#001
+;000AFAF4{~00~}#004#001
+~00~#001
+;000AFAF5{ ~00~}#005#002
+ ~00~#002
+|9
+@000AFB16-000AFB1F-00
+;000AFB16{EXIT~00~}#008#005
+EXIT~00~#005
+;000AFB1B{~00~}#004#001
+~00~#001
+;000AFB1C{~00~}#004#001
+~00~#001
+;000AFB1D{~04~=~03~}#009#003
+~04~=~03~#003
+|10
+@000F8048-000F8067-00
+;000F8048{Music/FX by Probe Software~00~}#030#027
+Music/FX by Probe Software~00~#027
+;000F8063{~08~~8B~~E2~ ~C2~}#017#005
+~08~~8B~~E2~ ~C2~#005
+|32

@@ -1,0 +1,128 @@
+@00002314-00002413-FF
+;00002314{THE SPACEPORT~FF~}#017#014
+THE SPACEPORT~FF~#014
+;00002322{~03~~08~~07~THE RUINED CITY~FF~}#031#019
+~03~~08~~07~THE RUINED CITY~FF~#019
+;00002335{~03~~07~~07~THE CHARRED FOREST~FF~}#034#022
+~03~~07~~07~THE CHARRED FOREST~FF~#022
+;0000234B{~03~~0C~~07~THE LAKE~FF~}#024#012
+~03~~0C~~07~THE LAKE~FF~#012
+;00002357{~03~~05~~07~THE DRY, ROCKY DESERT~FF~}#037#025
+~03~~05~~07~THE DRY, ROCKY DESERT~FF~#025
+;00002370{~03~~0A~~07~THE COMPOUND~FF~}#028#016
+~03~~0A~~07~THE COMPOUND~FF~#016
+;00002380{~03~~0C~~07~THE ALPS~FF~}#024#012
+~03~~0C~~07~THE ALPS~FF~#012
+;0000238C{~03~~0B~~07~THE CASTLE~FF~}#026#014
+~03~~0B~~07~THE CASTLE~FF~#014
+;0000239A{~03~~07~~07~THE SCRAP CRUSHER~FF~}#033#021
+~03~~07~~07~THE SCRAP CRUSHER~FF~#021
+;000023AF{~03~~0A~~07~THE HIGHWAY~FF~}#027#015
+~03~~0A~~07~THE HIGHWAY~FF~#015
+;000023BE{~03~~05~~07~LAIR OF THE MECHO-KATS~FF~}#038#026
+~03~~05~~07~LAIR OF THE MECHO-KATS~FF~#026
+;000023D8{~03~~09~~07~SECRET TUNNEL~FF~}#029#017
+~03~~09~~07~SECRET TUNNEL~FF~#017
+;000023E9{~03~~09~~07~THE MINEFIELD~FF~}#029#017
+~03~~09~~07~THE MINEFIELD~FF~#017
+;000023FA{~03~~08~~07~THE NERVE CENTRE~FF~}#032#020
+~03~~08~~07~THE NERVE CENTRE~FF~#020
+;0000240E{~00~YO~80~O~A0~}#015#006
+~00~YO~80~O~A0~#006
+|256
+@00002DDA-00002E32-FF
+;00002DDA{Starring~03~~00~~09~1 ~04~FPlay the game===~04~G2 ~04~EDefine the playing keys===~04~G3 ~04~DSelect a joystick~FF~}#114#087
+Starring~03~~00~~09~1 ~04~FPlay the game===~04~G2 ~04~EDefine the playing keys===~04~G3 ~04~DSelect a joystick~FF~#087
+;00002E31{>~00~}#005#002
+>~00~#002
+|89
+@00002E77-00002EF2-FF
+;00002E77{GPresent Controls==1~04~F Left     ==~04~G2~04~F Right    ==~04~G3~04~F Jump     ==~04~G4~04~F Duck     ==~04~G5~04~F Fire     ==~04~G6~04~F Select   ===~04~G0~04~}#163#124
+GPresent Controls==1~04~F Left     ==~04~G2~04~F Right    ==~04~G3~04~F Jump     ==~04~G4~04~F Duck     ==~04~G5~04~F Fire     ==~04~G6~04~F Select   ===~04~G0~04~#124
+|124
+@00002EF3-00002F74-FF
+;00002EF3{C Return to main menu==~04~G Press a number from 1 to 6 to=select the control you want to=change.=Press '0' to return to main menu~FF~}#134#128
+C Return to main menu==~04~G Press a number from 1 to 6 to=select the control you want to=change.=Press '0' to return to main menu~FF~#128
+;00002F73{!~0E~}#005#002
+!~0E~#002
+|130
+@0000306B-000030CC-FF
+;0000306B{GJoystick Selection==1~04~F Keyboard==~04~G2~04~F Kempston==~04~G3~04~F Protek==~04~G4~04~F Sinclair Interface 2~03~~00~~0F~~04~G0~04~}#134#098
+GJoystick Selection==1~04~F Keyboard==~04~G2~04~F Kempston==~04~G3~04~F Protek==~04~G4~04~F Sinclair Interface 2~03~~00~~0F~~04~G0~04~#098
+|98
+@000030CD-000031A4-FF
+;000030CD{C Return to main menu==~04~G Press a number from 1 to 4 to=select the joystick you want. Or=press '0' to return to main menu==~04~DIf a joystick is selected the=bottom 3 rows of the keyboard=act as the select control.~FF~}#221#212
+C Return to main menu==~04~G Press a number from 1 to 4 to=select the joystick you want. Or=press '0' to return to main menu==~04~DIf a joystick is selected the=bottom 3 rows of the keyboard=act as the select control.~FF~#212
+;000031A1{~06~~05~~CD~~0B~}#016#004
+~06~~05~~CD~~0B~#004
+|216
+@00003214-00003238-FF
+;00003214{CPress ~04~GSPACE~04~C to continue~FF~}#038#029
+CPress ~04~GSPACE~04~C to continue~FF~#029
+;00003231{~C9~~CD~`p~CD~~0B~r~FE~}#023#008
+~C9~~CD~`p~CD~~0B~r~FE~#008
+|37
+@00003275-000032A9-FF
+;00003275{sSpace~FF~}#010#007
+sSpace~FF~#007
+;0000327C{~C9~~CD~~E7~sCaps Shift~FF~}#027#015
+~C9~~CD~~E7~sCaps Shift~FF~#015
+;0000328B{~C9~~CD~~E7~sEnter~FF~}#022#010
+~C9~~CD~~E7~sEnter~FF~#010
+;00003295{~C9~~CD~~E7~sSymbol Shift~FF~}#029#017
+~C9~~CD~~E7~sSymbol Shift~FF~#017
+;000032A6{~C9~~FB~~F5~~CD~}#016#004
+~C9~~FB~~F5~~CD~#004
+|53
+@000032C3-000032EF-FF
+;000032C3{FCongratulations you have saved=Earth !=~FF~}#044#041
+FCongratulations you have saved=Earth !=~FF~#041
+;000032EC{~CD~~DA~q~CD~}#013#004
+~CD~~DA~q~CD~#004
+|45
+@000032FD-00003316-FF
+;000032FD{FYou gave up, coward!~FF~}#025#022
+FYou gave up, coward!~FF~#022
+;00003313{~CD~~DA~q~18~}#013#004
+~CD~~DA~q~18~#004
+|26
+@00003320-00003345-FF
+;00003320{FYou have failed in your mission.~FF~}#037#034
+FYou have failed in your mission.~FF~#034
+;00003342{~CD~~DA~q~CD~}#013#004
+~CD~~DA~q~CD~#004
+|38
+@0000338B-000033A5-FF
+;0000338B{G=and scored ~FF~}#017#014
+G=and scored ~FF~#014
+;00003399{*e`~CD~~A0~s*e`~7D~~B4~(~05~}#028#013
+*e`~CD~~A0~s*e`~7D~~B4~(~05~#013
+|27
+@000033AD-000033BA-FF
+;000033AD{s points.~FF~}#013#010
+s points.~FF~#010
+;000033B7{~C9~~E5~~D5~~C5~}#016#004
+~C9~~E5~~D5~~C5~#004
+|14
+@00003745-00003776-FF
+;00003745{Score:        High-Score:       =~04~~0E~Grenades:~FF~}#054#045
+Score:        High-Score:       =~04~~0E~Grenades:~FF~#045
+;00003772{~C9~~CD~~E7~s~03~}#017#005
+~C9~~CD~~E7~s~03~#005
+|50
+@0000377B-00003786-FF
+;0000377B{POWER  ~04~~0A~~1E~~03~~18~}#027#012
+POWER  ~04~~0A~~1E~~03~~18~#012
+|12
+@0000378B-00003797-FF
+;0000378B{  POWER~03~~08~~17~~FF~}#023#011
+  POWER~03~~08~~17~~FF~#011
+;00003796{:~0E~}#005#002
+:~0E~#002
+|13
+@00003BC0-00003BE5-FF
+;00003BC0{EPrepare for the Death Grid~FF~}#031#028
+EPrepare for the Death Grid~FF~#028
+;00003BDC{~FB~~06~Pv~10~~FD~~CD~~E7~s~02~}#031#010
+~FB~~06~Pv~10~~FD~~CD~~E7~s~02~#010
+|38

@@ -1,0 +1,126 @@
+@00002311-0000240D-FF
+;00002311{~03~~09~~07~THE SPACEPORT~FF~}#029#017
+~03~~09~~07~PUERTO ESPAC.~FF~#017
+;00002322{~03~~08~~07~THE RUINED CITY~FF~}#031#019
+~03~~08~~07~ CIUDAD RUINAS ~FF~#019
+;00002335{~03~~07~~07~THE CHARRED FOREST~FF~}#034#022
+~03~~07~~07~BOSQUE CHAMUSCADO ~FF~#022
+;0000234B{~03~~0C~~07~THE LAKE~FF~}#024#012
+~03~~0C~~07~  LAGO  ~FF~#012
+;00002357{~03~~05~~07~THE DRY, ROCKY DESERT~FF~}#037#025
+~03~~05~~07~SECO, ROCOSO DESIERTO~FF~#025
+;00002370{~03~~0A~~07~THE COMPOUND~FF~}#028#016
+~03~~0A~~07~  COMPLEJO  ~FF~#016
+;00002380{~03~~0C~~07~THE ALPS~FF~}#024#012
+~03~~0C~~07~MONTAÑAS~FF~#012
+;0000238C{~03~~0B~~07~THE CASTLE~FF~}#026#014
+~03~~0B~~07~ CASTILLO ~FF~#014
+;0000239A{~03~~07~~07~THE SCRAP CRUSHER~FF~}#033#021
+~03~~07~~07~ TRITURACHATARRA ~FF~#021
+;000023AF{~03~~0A~~07~THE HIGHWAY~FF~}#027#015
+~03~~0A~~07~ AUTOPISTA ~FF~#015
+;000023BE{~03~~05~~07~LAIR OF THE MECHO-KATS~FF~}#038#026
+~03~~05~~07~GUARIDA DE MECHO-KATS ~FF~#026
+;000023D8{~03~~09~~07~SECRET TUNNEL~FF~}#029#017
+~03~~09~~07~TÚNEL SECRETO~FF~#017
+;000023E9{~03~~09~~07~THE MINEFIELD~FF~}#029#017
+~03~~09~~07~ CAMPO MINAS ~FF~#017
+;000023FA{~03~~08~~07~THE NERVE CENTRE~FF~}#032#020
+~03~~08~~07~CENTRO NERVIOSO ~FF~#020
+|253
+@00002DD7-00002E30-FF
+;00002DD7{~03~~0C~~03~Starring~03~~00~~09~1 ~04~FPlay the game===~04~G2 ~04~EDefine the playing keys===~04~G3 ~04~DSelect a joystick~FF~}#126#090
+~03~~0A~~03~
+Protagoniza  ~03~~00~~09~1 ~04~F
+Jugar al juego===~04~G2 ~04~E
+Redefinir teclas===~04~G3 ~04~D
+Elegir un joystick~FF~#090
+|90
+@00002E74-00002F72-FF
+;00002E74{~0F~~00~~04~GPresent Controls==1~04~F Left     ==~04~G2~04~F Right    ==~04~G3~04~F Jump     ==~04~G4~04~F Duck     ==~04~G5~04~F Fire     ==~04~G6~04~F Select   ===~04~G0~04~C Return to main menu==~04~G Press a number from 1 to 6 to=select the control you want to=change.=Press '0' to return to main menu~FF~}#309#255
+~0D~~00~~04~G
+Controles actuales==
+1~04~F Izquierda==~04~G
+2~04~F Derecha  ==~04~G
+3~04~F Saltar   ==~04~G
+4~04~F Agacharse==~04~G
+5~04~F Disparar ==~04~G
+6~04~F Elegir   ===~04~G
+0~04~C Volver           ==~04~G
+ Pulsa un número del 1 al 6 para=
+elegir el control que quieres=
+cambiar.=
+Pulsa '0' para volver.        ~FF~#255
+|255
+@00003068-000031A0-FF
+;00003068{~07~~00~~04~GJoystick Selection==1~04~F Keyboard==~04~G2~04~F Kempston==~04~G3~04~F Protek==~04~G4~04~F Sinclair Interface 2~03~~00~~0F~~04~G0~04~C Return to main menu==~04~G Press a number from 1 to 4 to=select the joystick you want. Or=press '0' to return to main menu==~04~DIf a joystick is selected the=bottom 3 rows of the keyboard=act as the select control.~FF~}#367#313
+~07~~00~~04~G
+Elección Joystick ==
+1~04~F Teclado ==~04~G
+2~04~F Kempston==~04~G
+3~04~F Protek==~04~G
+4~04~F Sinclair Interface 2~03~~00~~0F~~04~G
+0~04~C Volver                 ==~04~G
+ Pulsa un número del 1 al 4 para=
+elegir el joystick que quieras.=
+Pulsa '0' para volver.==~04~D
+Si se elige un joystick las 3=
+filas inferiores del teclado=
+actúan como elección de control.~FF~#313
+|313
+@00003211-00003230-FF
+;00003211{~05~~17~~04~CPress ~04~GSPACE~04~C to continue~FF~}#050#032
+~05~~17~~04~C
+~04~GESPACIO~04~C para continuar ~FF~#032
+|32
+@00003272-000032A5-FF
+;00003272{~23~~CD~~E7~sSpace~FF~}#022#010
+~23~~CD~~E7~sEspa.~FF~#010
+;0000327C{~C9~~CD~~E7~sCaps Shift~FF~}#027#015
+~C9~~CD~~E7~sCaps Shift~FF~#015
+;0000328B{~C9~~CD~~E7~sEnter~FF~}#022#010
+~C9~~CD~~E7~sEnter~FF~#010
+;00003295{~C9~~CD~~E7~sSymbol Shift~FF~}#029#017
+~C9~~CD~~E7~sSymbol Shift~FF~#017
+|52
+@000032C0-000032EB-FF
+;000032C0{~00~~00~~04~FCongratulations you have saved=Earth !=~FF~}#056#044
+~00~~00~~04~F
+¡Felicidades, has salvado la=
+Tierra!  =~FF~#044
+|44
+@000032FA-00003312-FF
+;000032FA{~00~~00~~04~FYou gave up, coward!~FF~}#037#025
+~00~~00~~04~F
+¡Te rendiste, cagón!~FF~#025
+|25
+@0000331D-00003341-FF
+;0000331D{~00~~00~~04~FYou have failed in your mission.~FF~}#049#037
+~00~~00~~04~F
+Has fallado en tu misión.       ~FF~#037
+|37
+@0000338D-00003398-FF
+;0000338D{and scored ~FF~}#015#012
+y puntúas  ~FF~#012
+|12
+@000033AE-000033B6-FF
+;000033AE{ points.~FF~}#012#009
+ puntos.~FF~#009
+|9
+@00003743-00003795-FF
+;00003743{~04~~0F~Score:        High-Score:       =~04~~0E~Grenades:~FF~}#062#047
+~04~~0F~Marca:             Mejor:       =~04~~0E~Granadas:~FF~#047
+;00003772{~C9~~CD~~E7~s~03~~00~~17~~04~~0F~POWER  ~04~~0A~~1E~~03~~18~~17~~04~~0F~~1F~  POWER~03~~08~~17~~FF~}#099#036
+~C9~~CD~~E7~s~03~~00~~17~~04~~0F~PODER  ~04~~0A~~1E~~03~~18~~17~~04~~0F~~1F~  PODER~03~~08~~17~~FF~#036
+|83
+@00003BBD-00003BDB-FF
+;00003BBD{~03~~0C~~04~EPrepare for the Death Grid~FF~}#043#031
+~03~~0C~~04~E
+Prepárate, Rejilla Mortal ~FF~#031
+|31
+@000043BE-000043CF-FF
+;000043BE{s~CD~~E7~s    ~FF~}#018#009
+s~CD~~E7~s    ~FF~#009
+;000043C7{~C9~~CD~~E7~sNone~FF~}#021#009
+~C9~~CD~~E7~sNo  ~FF~#009
+|18

@@ -1,0 +1,684 @@
+@00003D08-00003D15-00
+;00003D08{*PRESENTS~00~}#013#010
+*PRESENTS~00~#010
+;00003D12{~CD~~C4~'~F5~}#013#004
+~CD~~C4~'~F5~#004
+|14
+@00003D2C-00003D3D-00
+;00003D2C{ 1992 Gremlin~00~}#017#014
+ 1992 Gremlin~00~#014
+;00003D3A{~01~~00~}#008#002
+~01~~00~#002
+;00003D3C{~01~~CD~}#008#002
+~01~~CD~#002
+|18
+@00003D3F-00003D56-00
+;00003D3F{*Licensed by Nintendo~00~}#025#022
+*Licensed by Nintendo~00~#022
+;00003D55{>~E4~}#005#002
+>~E4~#002
+|24
+@00003E13-00003E23-00
+;00003E13{X)Enter name~00~}#016#013
+X)Enter name~00~#013
+;00003E20{~0E~~14~~06~~0A~}#016#004
+~0E~~14~~06~~0A~#004
+|17
+@00003E88-00003EA1-00
+;00003E88{X)   Game    Set - up ~00~}#026#023
+X)   Game    Set - up ~00~#023
+;00003E9F{>D~CD~}#006#003
+>D~CD~#003
+|26
+@00003EB9-00003EC8-00
+;00003EB9{*Difficulty~00~}#015#012
+*Difficulty~00~#012
+;00003EC5{~01~~01~~01~~CD~}#016#004
+~01~~01~~01~~CD~#004
+|16
+@00003ECA-00003ED6-00
+;00003ECA{*level..~00~}#012#009
+*level..~00~#009
+;00003ED3{~01~~01~~03~~CD~}#016#004
+~01~~01~~03~~CD~#004
+|13
+@00003ED8-00003EE5-00
+;00003ED8{*Speed...~00~}#013#010
+*Speed...~00~#010
+;00003EE2{~01~~01~~05~~CD~}#016#004
+~01~~01~~05~~CD~#004
+|14
+@00003EE7-00003EF7-00
+;00003EE7{*Steering...~00~}#016#013
+*Steering...~00~#013
+;00003EF4{~01~~01~~07~~CD~}#016#004
+~01~~01~~07~~CD~#004
+|17
+@00003EF9-00003F0A-00
+;00003EF9{*Track map...~00~}#017#014
+*Track map...~00~#014
+;00003F07{~01~~01~~09~~CD~}#016#004
+~01~~01~~09~~CD~#004
+|18
+@00003F0C-00003F1C-00
+;00003F0C{*Chevrons...~00~}#016#013
+*Chevrons...~00~#013
+;00003F19{~01~~01~~0B~~CD~}#016#004
+~01~~01~~0B~~CD~#004
+|17
+@00003F1E-00003F33-00
+;00003F1E{*Position flash..~00~}#021#018
+*Position flash..~00~#018
+;00003F30{~01~~00~}#008#002
+~01~~00~#002
+;00003F32{~06~~C5~}#008#002
+~06~~C5~#002
+|22
+@00004122-0000413A-00
+;00004122{X)  Player    Options~00~}#025#022
+X)  Player    Options~00~#022
+;00004138{>D~CD~}#006#003
+>D~CD~#003
+|25
+@00004152-00004165-00
+;00004152{*No. of players~00~}#019#016
+*No. of players~00~#016
+;00004162{~01~~02~~02~~CD~}#016#004
+~01~~02~~02~~CD~#004
+|20
+@0000417E-00004192-00
+;0000417E{* 1 player game ~00~}#020#017
+* 1 player game ~00~#017
+;0000418F{~01~~00~}#008#002
+~01~~00~#002
+;00004191{~08~~CD~}#008#002
+~08~~CD~#002
+|21
+@00004194-000041AC-00
+;00004194{* 2 player game link ~00~}#025#022
+* 2 player game link ~00~#022
+;000041AA{v>~E4~}#006#003
+v>~E4~#003
+|25
+@00004247-0000425F-00
+;00004247{X)   Head    to  Head~00~}#025#022
+X)   Head    to  Head~00~#022
+;0000425D{>D~CD~}#006#003
+>D~CD~#003
+|25
+@00004350-00004368-00
+;00004350{X)   Game     Options~00~}#025#022
+X)   Game     Options~00~#022
+;00004366{>D~CD~}#006#003
+>D~CD~#003
+|25
+@00004380-0000438D-00
+;00004380{*Practice~00~}#013#010
+*Practice~00~#010
+;0000438A{~01~~04~~04~~CD~}#016#004
+~01~~04~~04~~CD~#004
+|14
+@0000438F-000043A0-00
+;0000438F{*Race  Season~00~}#017#014
+*Race  Season~00~#014
+;0000439D{~01~~03~~05~~CD~}#016#004
+~01~~03~~05~~CD~#004
+|18
+@000043B7-000043C1-00
+;000043B7{*Short~00~}#010#007
+*Short~00~#007
+;000043BE{~01~~04~~09~~CD~}#016#004
+~01~~04~~09~~CD~#004
+|11
+@000043C3-000043D4-00
+;000043C3{*Intermediate~00~}#017#014
+*Intermediate~00~#014
+;000043D1{~01~~04~~0B~~CD~}#016#004
+~01~~04~~0B~~CD~#004
+|18
+@000043D6-000043E6-00
+;000043D6{*Championship~00~}#017#014
+*Championship~00~#014
+;000043E4{v>~E4~}#006#003
+v>~E4~#003
+|17
+@000044F1-00004507-00
+;000044F1{X) Practice   Track~00~}#023#020
+X) Practice   Track~00~#020
+;00004505{>D~CD~}#006#003
+>D~CD~#003
+|23
+@0000461E-0000462F-00
+;0000461E{*Short Season~00~}#017#014
+*Short Season~00~#014
+;0000462C{~01~~03~~02~~CD~}#016#004
+~01~~03~~02~~CD~#004
+|18
+@00004646-00004656-00
+;00004646{*Arch Canyon~00~}#016#013
+*Arch Canyon~00~#013
+;00004653{~01~~03~~05~~CD~}#016#004
+~01~~03~~05~~CD~#004
+|17
+@00004658-0000466C-00
+;00004658{*Maine Mountains~00~}#020#017
+*Maine Mountains~00~#017
+;00004669{~01~~02~~06~~CD~}#016#004
+~01~~02~~06~~CD~#004
+|21
+@0000466E-00004683-00
+;0000466E{*Hole in the Rock~00~}#021#018
+*Hole in the Rock~00~#018
+;00004680{~01~~06~~07~~CD~}#016#004
+~01~~06~~07~~CD~#004
+|22
+@00004685-00004694-00
+;00004685{*Lost Coast~00~}#015#012
+*Lost Coast~00~#012
+;00004691{~01~~03~~08~~CD~}#016#004
+~01~~03~~08~~CD~#004
+|16
+@00004696-000046A9-00
+;00004696{*Cajun Jamboree~00~}#019#016
+*Cajun Jamboree~00~#016
+;000046A6{~C9~~01~~00~}#012#003
+~C9~~01~~00~#003
+;000046A9{~00~}#004#001
+~00~#001
+|20
+@000046AC-000046C5-00
+;000046AC{*Intermediate  Season~00~}#025#022
+*Intermediate  Season~00~#022
+;000046C2{~01~~00~}#008#002
+~01~~00~#002
+;000046C4{~01~~CD~}#008#002
+~01~~CD~#002
+|26
+@000046E2-000046F8-00
+;000046E2{*Adirondack Trails~00~}#022#019
+*Adirondack Trails~00~#019
+;000046F5{~01~~03~~04~~CD~}#016#004
+~01~~03~~04~~CD~#004
+|23
+@000046FA-0000470C-00
+;000046FA{*Rubicon Trail~00~}#018#015
+*Rubicon Trail~00~#015
+;00004709{~01~~02~~05~~CD~}#016#004
+~01~~02~~05~~CD~#004
+|19
+@0000470E-00004723-00
+;0000470E{*Palo Duro Canyon~00~}#021#018
+*Palo Duro Canyon~00~#018
+;00004720{~01~~04~~06~~CD~}#016#004
+~01~~04~~06~~CD~#004
+|22
+@00004725-00004736-00
+;00004725{*Mohawk Trail~00~}#017#014
+*Mohawk Trail~00~#014
+;00004733{~01~~05~~07~~CD~}#016#004
+~01~~05~~07~~CD~#004
+|18
+@00004738-00004747-00
+;00004738{*Pine Ridge~00~}#015#012
+*Pine Ridge~00~#012
+;00004744{~01~~03~~08~~CD~}#016#004
+~01~~03~~08~~CD~#004
+|16
+@00004749-0000475C-00
+;00004749{*Ouray Jamboree~00~}#019#016
+*Ouray Jamboree~00~#016
+;00004759{~01~~05~~09~~CD~}#016#004
+~01~~05~~09~~CD~#004
+|20
+@0000475E-0000476E-00
+;0000475E{*Black Hills~00~}#016#013
+*Black Hills~00~#013
+;0000476B{~C9~~01~~00~}#012#003
+~C9~~01~~00~#003
+;0000476E{~00~}#004#001
+~00~#001
+|17
+@00004771-0000478A-00
+;00004771{*Championship  Season~00~}#025#022
+*Championship  Season~00~#022
+;00004787{~01~~00~}#008#002
+~01~~00~#002
+;00004789{~01~~CD~}#008#002
+~01~~CD~#002
+|26
+@000047A7-000047B7-00
+;000047A7{*French Lick~00~}#016#013
+*French Lick~00~#013
+;000047B4{~01~~02~~03~~CD~}#016#004
+~01~~02~~03~~CD~#004
+|17
+@000047B9-000047CF-00
+;000047B9{*Ouachita Jamboree~00~}#022#019
+*Ouachita Jamboree~00~#019
+;000047CC{~01~~05~~04~~CD~}#016#004
+~01~~05~~04~~CD~#004
+|23
+@000047D1-000047E1-00
+;000047D1{*Great Lakes~00~}#016#013
+*Great Lakes~00~#013
+;000047DE{~01~~05~~05~~CD~}#016#004
+~01~~05~~05~~CD~#004
+|17
+@000047E3-000047F2-00
+;000047E3{*Ghost Town~00~}#015#012
+*Ghost Town~00~#012
+;000047EF{~01~~02~~06~~CD~}#016#004
+~01~~02~~06~~CD~#004
+|16
+@000047F4-0000480A-00
+;000047F4{*D. Boone Jamboree~00~}#022#019
+*D. Boone Jamboree~00~#019
+;00004807{~01~~02~~07~~CD~}#016#004
+~01~~02~~07~~CD~#004
+|23
+@0000480C-00004821-00
+;0000480C{*Canyon de Chelly~00~}#021#018
+*Canyon de Chelly~00~#018
+;0000481E{~01~~03~~08~~CD~}#016#004
+~01~~03~~08~~CD~#004
+|22
+@00004823-00004836-00
+;00004823{*Rocky Mountain~00~}#019#016
+*Rocky Mountain~00~#016
+;00004833{~01~~02~~09~~CD~}#016#004
+~01~~02~~09~~CD~#004
+|20
+@00004838-0000484E-00
+;00004838{*Santa Fe Jamboree~00~}#022#019
+*Santa Fe Jamboree~00~#019
+;0000484B{~01~~01~~0A~~CD~}#016#004
+~01~~01~~0A~~CD~#004
+|23
+@00004850-00004868-00
+;00004850{*Old Smokey Jamboree~00~}#024#021
+*Old Smokey Jamboree~00~#021
+;00004865{~01~~02~~0B~~CD~}#016#004
+~01~~02~~0B~~CD~#004
+|25
+@0000486A-00004880-00
+;0000486A{*Pacific Northwest~00~}#022#019
+*Pacific Northwest~00~#019
+;0000487D{~C9~x<~EA~}#010#004
+~C9~x<~EA~#004
+|23
+@00004BB7-00004BC5-00
+;00004BB7{*Location: ~00~}#015#012
+*Location: ~00~#012
+;00004BC3{!8~C5~}#006#003
+!8~C5~#003
+|15
+@00004BE4-00004BF0-00
+;00004BE4{*Practice~00~}#013#010
+*Practice~00~#010
+;00004BEE{!V~C5~}#006#003
+!V~C5~#003
+|13
+@00004CA6-00004CB5-00
+;00004CA6{Q+or better~00~}#015#012
+Q+or better~00~#012
+;00004CB2{~01~~05~~06~~CD~}#016#004
+~01~~05~~06~~CD~#004
+|16
+@00004CB6-00004CC6-00
+;00004CB6{Q+to qualify~00~}#016#013
+Q+to qualify~00~#013
+;00004CC3{~01~~04~~08~~CD~}#016#004
+~01~~04~~08~~CD~#004
+|17
+@00004CC7-00004CD8-00
+;00004CC7{Q+for next race~00~}#019#016
+Q+for next race~00~#016
+;00004CD7{>~E4~}#005#002
+>~E4~#002
+|18
+@00004D52-00004D6B-00
+;00004D52{X) Practice  Summary  ~00~}#026#023
+X) Practice  Summary  ~00~#023
+;00004D69{>D~CD~}#006#003
+>D~CD~#003
+|26
+@00004D8F-00004DA6-00
+;00004D8F{*Lap  Pos  Lap time~00~}#023#020
+*Lap  Pos  Lap time~00~#020
+;00004DA3{~01~~01~~01~~CD~}#016#004
+~01~~01~~01~~CD~#004
+|24
+@00004FE2-00004FFB-00
+;00004FE2{X)   Race     Result  ~00~}#026#023
+X)   Race     Result  ~00~#023
+;00004FF9{>D~CD~}#006#003
+>D~CD~#003
+|26
+@0000539B-000053AA-00
+;0000539B{Q+Well done~00~}#015#012
+Q+Well done~00~#012
+;000053A7{~01~~05~~03~~CD~}#016#004
+~01~~05~~03~~CD~#004
+|16
+@000053AB-000053BC-00
+;000053AB{Q+you qualify~00~}#017#014
+Q+you qualify~00~#014
+;000053B9{~01~~04~~06~~CD~}#016#004
+~01~~04~~06~~CD~#004
+|18
+@000053BD-000053CE-00
+;000053BD{Q+for next race~00~}#019#016
+Q+for next race~00~#016
+;000053CD{>~E4~}#005#002
+>~E4~#002
+|18
+@000053E6-000053F6-00
+;000053E6{Q+You failed~00~}#016#013
+Q+You failed~00~#013
+;000053F3{~01~~05~~03~~CD~}#016#004
+~01~~05~~03~~CD~#004
+|17
+@000053F7-00005407-00
+;000053F7{Q+to qualify~00~}#016#013
+Q+to qualify~00~#013
+;00005404{~01~~04~~06~~CD~}#016#004
+~01~~04~~06~~CD~#004
+|17
+@00005408-00005419-00
+;00005408{Q+for next race~00~}#019#016
+Q+for next race~00~#016
+;00005418{>~E4~}#005#002
+>~E4~#002
+|18
+@00005468-00005481-00
+;00005468{X)   Final   Positions~00~}#026#023
+X)   Final   Positions~00~#023
+;0000547F{~18~O~CD~}#009#003
+~18~O~CD~#003
+|26
+@00005482-0000549C-00
+;00005482{X)  Current  Positions~00~}#026#023
+X)  Current  Positions~00~#023
+;00005499{~18~5!~10~}#010#004
+~18~5!~10~#004
+|27
+@000054A3-000054D2-00
+;000054A3{X)   Final     Table~00~}#024#021
+X)   Final     Table~00~#021
+;000054B8{~18~~16~~CD~X)  Current    Table~00~}#036#024
+~18~~16~~CD~X)  Current    Table~00~#024
+;000054D0{>D~CD~}#006#003
+>D~CD~#003
+|48
+@000057B0-0000582D-00
+;000057B0{    Short Season    Intermediate  SeasonChampionship  Season  Beginners  Level   Intermediate Level      Pro  Level     >~01~~06~~01~~0E~~07~}#141#126
+    Short Season    Intermediate  SeasonChampionship  Season  Beginners  Level   Intermediate Level      Pro  Level     >~01~~06~~01~~0E~~07~#126
+|126
+@00005876-0000588A-00
+;00005876{*     Program by~00~}#020#017
+*     Program by~00~#017
+;00005887{~01~~00~}#008#002
+~01~~00~#002
+;00005889{~01~~CD~}#008#002
+~01~~CD~#002
+|21
+@000058BE-000058D3-00
+;000058BE{*     Graphics by~00~}#021#018
+*     Graphics by~00~#018
+;000058D0{~01~~00~}#008#002
+~01~~00~#002
+;000058D2{~01~~CD~}#008#002
+~01~~CD~#002
+|22
+@00005904-0000591B-00
+;00005904{*   Music and FX by~00~}#023#020
+*   Music and FX by~00~#020
+;00005918{~01~~00~}#008#002
+~01~~00~#002
+;0000591A{~01~~CD~}#008#002
+~01~~CD~#002
+|24
+@0000591D-00005934-00
+;0000591D{*   Tommy Tallarico~00~}#023#020
+*   Tommy Tallarico~00~#020
+;00005931{~CD~)$~C1~}#010#004
+~CD~)$~C1~#004
+|24
+@00005951-00005969-00
+;00005951{*  Additional Coding~00~}#024#021
+*  Additional Coding~00~#021
+;00005966{~01~~00~}#008#002
+~01~~00~#002
+;00005968{~01~~CD~}#008#002
+~01~~CD~#002
+|25
+@00005A41-00005B37-00
+;00005A41{MD)]T))~19~~09~~11~QZ~19~~D1~~C1~~C9~Aton SendupJames HauntDerek WerekMario TurboBerni      Timo SalmonMarku AlienM. Glossop Carl Sainz Kev BatesonTony DawsonJimmy McRoeEnz DeMagioSean Kelly Nig BamfordAC DavidsonTim May    Siz        J. N-Hearn D.WealleansPLAYER~80~~80~~80~~80~~80~}#283#247
+MD)]T))~19~~09~~11~QZ~19~~D1~~C1~~C9~Aton SendupJames HauntDerek WerekMario TurboBerni      Timo SalmonMarku AlienM. Glossop Carl Sainz Kev BatesonTony DawsonJimmy McRoeEnz DeMagioSean Kelly Nig BamfordAC DavidsonTim May    Siz        J. N-Hearn D.WealleansPLAYER~80~~80~~80~~80~~80~#247
+|247
+@000061A4-000061B1-00
+;000061A4{C" Pause ~00~}#013#010
+C" Pause ~00~#010
+;000061AE{~01~~07~~08~~CD~}#016#004
+~01~~07~~08~~CD~#004
+|14
+@0001801A-000180AF-00
+;0001801A{   Arch     Canyon  San Juan          County, UTAH4 Laps 1.395 Km  Dry desert roads    Fast track with        some hills        and no hazards   ~80~~00~}#153#147
+   Arch     Canyon  San Juan          County, UTAH4 Laps 1.395 Km  Dry desert roads    Fast track with        some hills        and no hazards   ~80~~00~#147
+;000180AD{~00~}#004#001
+~00~#001
+;000180AE{~00~}#004#001
+~00~#001
+;000180AF{~06~}#004#001
+~06~#001
+|150
+@0001819F-00018234-00
+;0001819F{   Maine   MountainsBethel              MAINE     5 Laps 1.147 Km   Good dry roads     with fast corners       few hills        and no hazards   ~80~~00~}#153#147
+   Maine   MountainsBethel              MAINE     5 Laps 1.147 Km   Good dry roads     with fast corners       few hills        and no hazards   ~80~~00~#147
+;00018232{~00~}#004#001
+~00~#001
+;00018233{~00~}#004#001
+~00~#001
+;00018234{~00~}#004#001
+~00~#001
+|150
+@00018327-000183BC-00
+;00018327{ Hole in   the Rock Blanding            UTAH      4 Laps 1.400 Km  Dry Desert roads  with 3 sharp corners      few hills        and no hazards   ~80~~00~}#153#147
+ Hole in   the Rock Blanding            UTAH      4 Laps 1.400 Km  Dry Desert roads  with 3 sharp corners      few hills        and no hazards   ~80~~00~#147
+;000183BA{~00~}#004#001
+~00~#001
+;000183BB{~00~}#004#001
+~00~#001
+;000183BC{~04~}#004#001
+~04~#001
+|150
+@000184C1-00018556-00
+;000184C1{   Lost      Coast  CALIFORNIA Eureka & Fort Bragg5 Laps 1.457 Km   Good dry roads    with rocks in road in one part of trackgentle rolling hills~80~~00~}#153#147
+   Lost      Coast  CALIFORNIA Eureka & Fort Bragg5 Laps 1.457 Km   Good dry roads    with rocks in road in one part of trackgentle rolling hills~80~~00~#147
+;00018554{~00~}#004#001
+~00~#001
+;00018555{~00~}#004#001
+~00~#001
+;00018556{~04~}#004#001
+~04~#001
+|150
+@00018649-000186DE-00
+;00018649{  Cajun    Jamboree LOUISIANA     St. Francisville5 Laps 1.023 Km     Good roads      bumpy track, sharp bends but no hazards    rolling hills   ~80~~00~}#153#147
+  Cajun    Jamboree LOUISIANA     St. Francisville5 Laps 1.023 Km     Good roads      bumpy track, sharp bends but no hazards    rolling hills   ~80~~00~#147
+;000186DC{~00~}#004#001
+~00~#001
+;000186DD{~00~}#004#001
+~00~#001
+;000186DE{~04~}#004#001
+~04~#001
+|150
+@000187B3-00018848-00
+;000187B3{Adirondack  Trails  NEW YORK          Lewis County5 Laps 1.488 Km  Dry desert roads     sharp bends and    rocks in the road   1 very steep hill ~80~~00~}#153#147
+Adirondack  Trails  NEW YORK          Lewis County5 Laps 1.488 Km  Dry desert roads     sharp bends and    rocks in the road   1 very steep hill ~80~~00~#147
+;00018846{~00~}#004#001
+~00~#001
+;00018847{~00~}#004#001
+~00~#001
+;00018848{~04~}#004#001
+~04~#001
+|150
+@00018935-000189CA-00
+;00018935{  Rubicon    Trail  Georgetown          CALIFORNIA6 Laps 1.115 KmBumpy wet road,sharp corner end of main   straight, rolling  hills, lane closed ~80~~00~}#153#147
+  Rubicon    Trail  Georgetown          CALIFORNIA6 Laps 1.115 KmBumpy wet road,sharp corner end of main   straight, rolling  hills, lane closed ~80~~00~#147
+;000189C8{~00~}#004#001
+~00~#001
+;000189C9{~00~}#004#001
+~00~#001
+;000189CA{~04~}#004#001
+~04~#001
+|150
+@00018A9C-00018B31-00
+;00018A9C{ Palo Duro  Canyon  Amarillo            TEXAS     6 Laps 1.188 Km  Dry desert roads     sharp bends and    rocks in the road     no big hills    ~80~~00~}#153#147
+ Palo Duro  Canyon  Amarillo            TEXAS     6 Laps 1.188 Km  Dry desert roads     sharp bends and    rocks in the road     no big hills    ~80~~00~#147
+;00018B2F{~00~}#004#001
+~00~#001
+;00018B30{~00~}#004#001
+~00~#001
+;00018B31{~04~}#004#001
+~04~#001
+|150
+@00018C1B-00018CB0-00
+;00018C1B{  Mohawk    Trail   Charlemont       MASSACHUSETTS7 Laps 1.079 Km  Wet roads with 2    very sharp bends     but no hazards     almost flat track ~80~~00~}#153#147
+  Mohawk    Trail   Charlemont       MASSACHUSETTS7 Laps 1.079 Km  Wet roads with 2    very sharp bends     but no hazards     almost flat track ~80~~00~#147
+;00018CAE{~00~}#004#001
+~00~#001
+;00018CAF{~00~}#004#001
+~00~#001
+;00018CB0{~04~}#004#001
+~04~#001
+|150
+@00018D7F-00018E14-00
+;00018D7F{   Pine      Ridge  CALIFORNIA         Shaver Lake6 Laps 1.160 Km   Good dry roads    sharp bends, bumpy  track, gentle hill     lanes closed    ~80~~00~}#153#147
+   Pine      Ridge  CALIFORNIA         Shaver Lake6 Laps 1.160 Km   Good dry roads    sharp bends, bumpy  track, gentle hill     lanes closed    ~80~~00~#147
+;00018E12{~00~}#004#001
+~00~#001
+;00018E13{~00~}#004#001
+~00~#001
+;00018E14{~04~}#004#001
+~04~#001
+|150
+@00018EF2-00018F87-00
+;00018EF2{  Ouray    Jamboree Ouray               COLORADO  5 Laps 1.128 Km Wet roads, 2 sharp  bends, bumpy track   many small hills       no hazards     ~80~~00~}#153#147
+  Ouray    Jamboree Ouray               COLORADO  5 Laps 1.128 Km Wet roads, 2 sharp  bends, bumpy track   many small hills       no hazards     ~80~~00~#147
+;00018F85{~00~}#004#001
+~00~#001
+;00018F86{~00~}#004#001
+~00~#001
+;00018F87{~04~}#004#001
+~04~#001
+|150
+@00019068-000190FD-00
+;00019068{   Black     Hills  Sturgis           SOUTH DAKOTA6 Laps 1.501 Km      Dry road       sharp bends, bumpy track, many rocks in  road, steep hill  ~80~~00~}#153#147
+   Black     Hills  Sturgis           SOUTH DAKOTA6 Laps 1.501 Km      Dry road       sharp bends, bumpy track, many rocks in  road, steep hill  ~80~~00~#147
+;000190FB{~00~}#004#001
+~00~#001
+;000190FC{~00~}#004#001
+~00~#001
+;000190FD{~04~}#004#001
+~04~#001
+|150
+@00019205-0001929A-00
+;00019205{  French     Lick   INDIANA            French Lick4 Laps 1.274 Km  Dry roads with 2    very sharp bends  gentle rolling hills   but no hazards   ~80~~00~}#153#147
+  French     Lick   INDIANA            French Lick4 Laps 1.274 Km  Dry roads with 2    very sharp bends  gentle rolling hills   but no hazards   ~80~~00~#147
+;00019298{~00~}#004#001
+~00~#001
+;00019299{~00~}#004#001
+~00~#001
+;0001929A{~04~}#004#001
+~04~#001
+|150
+@00019387-0001941C-00
+;00019387{ Ouachita  Jamboree ARKANSAS           Hot Springs5 Laps 1.444 Km  Dry desert roads      bumpy track       many steep hills     but no hazards   ~80~~00~}#153#147
+ Ouachita  Jamboree ARKANSAS           Hot Springs5 Laps 1.444 Km  Dry desert roads      bumpy track       many steep hills     but no hazards   ~80~~00~#147
+;0001941A{~00~}#004#001
+~00~#001
+;0001941B{~00~}#004#001
+~00~#001
+;0001941C{~04~}#004#001
+~04~#001
+|150
+@00019545-000195DA-00
+;00019545{   Great     Lakes  Trout Lake          MICHIGAN  6 Laps 1.433 Km   Wet bumpy roads      no big hills      rocks in road on   one part of track  ~80~~00~}#153#147
+   Great     Lakes  Trout Lake          MICHIGAN  6 Laps 1.433 Km   Wet bumpy roads      no big hills      rocks in road on   one part of track  ~80~~00~#147
+;000195D8{~00~}#004#001
+~00~#001
+;000195D9{~00~}#004#001
+~00~#001
+;000195DA{~04~}#004#001
+~04~#001
+|150
+@000196E2-00019777-00
+;000196E2{   Ghost     Town   Ely                 NEVADA    7 Laps 1.465 Km Dry roads,twisting bumpy track,rocks inmany places on road gentle rolling hills~80~~00~}#153#147
+   Ghost     Town   Ely                 NEVADA    7 Laps 1.465 Km Dry roads,twisting bumpy track,rocks inmany places on road gentle rolling hills~80~~00~#147
+;00019775{~00~}#004#001
+~00~#001
+;00019776{~00~}#004#001
+~00~#001
+;00019777{~04~}#004#001
+~04~#001
+|150
+@00019873-00019908-00
+;00019873{ D. Boone  Jamboree Lexington           KENTUCKY  8 Laps 1.324 Km Dry roads,twisting     bumpy track          few hills         but no hazards   ~80~~00~}#153#147
+ D. Boone  Jamboree Lexington           KENTUCKY  8 Laps 1.324 Km Dry roads,twisting     bumpy track          few hills         but no hazards   ~80~~00~#147
+;00019906{~00~}#004#001
+~00~#001
+;00019907{~00~}#004#001
+~00~#001
+;00019908{~04~}#004#001
+~04~#001
+|150
+@00019A1C-00019AB1-00
+;00019A1C{  Canyon   de ChellyChinle              ARIZONA   8 Laps 1.533 KmDry very bumpy track many sharp corners   no big hills, but   rocks everywhere  ~80~~00~}#153#147
+  Canyon   de ChellyChinle              ARIZONA   8 Laps 1.533 KmDry very bumpy track many sharp corners   no big hills, but   rocks everywhere  ~80~~00~#147
+;00019AAF{~00~}#004#001
+~00~#001
+;00019AB0{~00~}#004#001
+~00~#001
+;00019AB1{~06~}#004#001
+~06~#001
+|150
+@00019BC8-00019C5D-00
+;00019BC8{  Rocky    Mountain Edmonton,      Alberta, CANADA7 Laps 1.643 Km   Dry bumpy roads      sharp corners        steep hill          some rocks     ~80~~00~}#153#147
+  Rocky    Mountain Edmonton,      Alberta, CANADA7 Laps 1.643 Km   Dry bumpy roads      sharp corners        steep hill          some rocks     ~80~~00~#147
+;00019C5B{~00~}#004#001
+~00~#001
+;00019C5C{~00~}#004#001
+~00~#001
+;00019C5D{~04~}#004#001
+~04~#001
+|150
+@00019D8C-00019E21-00
+;00019D8C{ Santa Fe  Jamboree Santa Fe            NEW MEXICO6 Laps 1.581 Km Wet twisting roads 2 very sharp corners   rolling hills       but no hazards   ~80~~00~}#153#147
+ Santa Fe  Jamboree Santa Fe            NEW MEXICO6 Laps 1.581 Km Wet twisting roads 2 very sharp corners   rolling hills       but no hazards   ~80~~00~#147
+;00019E1F{~00~}#004#001
+~00~#001
+;00019E20{~00~}#004#001
+~00~#001
+;00019E21{~04~}#004#001
+~04~#001
+|150
+@00019F44-00019FD9-00
+;00019F44{Old Smokey Jamboree Murphy          NORTH CAROLINA8 Laps 1.417 Km  Dry bumpy roads      sharp corners        many hills        rocks everywhere  ~80~~00~}#153#147
+Old Smokey Jamboree Murphy          NORTH CAROLINA8 Laps 1.417 Km  Dry bumpy roads      sharp corners        many hills        rocks everywhere  ~80~~00~#147
+;00019FD7{~00~}#004#001
+~00~#001
+;00019FD8{~00~}#004#001
+~00~#001
+;00019FD9{~04~}#004#001
+~04~#001
+|150
+@0001A0DE-0001A173-00
+;0001A0DE{  Pacific  NorthwestYakima              WASHINGTON9 Laps 1.668 Km Wet twisting roads  bumpy, hilly track  some rocks in road  very sharp corners ~80~~00~}#153#147
+  Pacific  NorthwestYakima              WASHINGTON9 Laps 1.668 Km Wet twisting roads  bumpy, hilly track  some rocks in road  very sharp corners ~80~~00~#147
+;0001A171{~00~}#004#001
+~00~#001
+;0001A172{~00~}#004#001
+~00~#001
+;0001A173{~04~}#004#001
+~04~#001
+|150

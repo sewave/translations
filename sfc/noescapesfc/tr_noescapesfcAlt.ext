@@ -1,0 +1,811 @@
+@00060538-0006056D-FF-00
+;00060538{ CONFIRM LEVEL SELECTED   ~00~}#030#027
+ CONFIRMA NIVEL ELEGIDO   ~00~#027
+;00060553{                          ~00~}#030#027
+                          ~00~#027
+|54
+@000605DD-000605F7-FF-00
+;000605DD{ NO ENTRY - LIGHT NEEDED! ~00~}#030#027
+ NO ENTRAR- NECESARIA LUZ ~00~#027
+|27
+@00060669-000606EF-FF-00
+;00060669{TREE DWELLERS' JUNGLE     ~00~}#030#027
+SELVA HABITANTES DEL ÁRBOL~00~#027
+;00060684{TECHNO WARRIORS' CAMPS    ~00~}#030#027
+CAMPAMENTO TECNOGUERREROS ~00~#027
+;0006069F{INSIDERS' VILLAGE         ~00~}#030#027
+ALDEA DE LOS INSIDERS     ~00~#027
+;000606BA{MOLE MEN'S TUNNELS        ~00~}#030#027
+TÚNELES HOMBRES TOPO      ~00~#027
+;000606D5{MAREK'S HOTEL             ~00~}#030#027
+HOTEL DE MAREK            ~00~#027
+|135
+@00060716-00060766-FF-00
+;00060716{JUNGLE PERIMETER          ~00~}#030#027
+PERÍMETRO DE LA SELVA     ~00~#027
+;00060731{JUNGLE INTERIOR           ~00~}#030#027
+INTERIOR DE LA SELVA      ~00~#027
+;0006074C{JUNGLE CLEARING           ~00~}#030#027
+CLARO DE LA SELVA         ~00~#027
+|81
+@0006076D-000607BD-FF-00
+;0006076D{CAMP ALPHA                ~00~}#030#027
+CAMPAMENTO ALPHA          ~00~#027
+;00060788{CAMP BETA                 ~00~}#030#027
+CAMPAMENTO BETA           ~00~#027
+;000607A3{CAMP GAMMA                ~00~}#030#027
+CAMPAMENTO GAMMA          ~00~#027
+|81
+@000607C8-0006084E-FF-00
+;000607C8{MOLE MEN'S TUNNELS        ~00~}#030#027
+TÚNELES HOMBRES TOPO      ~00~#027
+;000607E3{TUNNEL TO HOTEL           ~00~}#030#027
+TÚNEL AL HOTEL            ~00~#027
+;000607FE{TUNNEL TO CAMPS           ~00~}#030#027
+TÚNEL A LOS CAMPAMENTOS   ~00~#027
+;00060819{TUNNEL TO JUNGLE          ~00~}#030#027
+TÚNEL A LA SELVA          ~00~#027
+;00060834{TUNNEL TO COAST           ~00~}#030#027
+TÚNEL A LA COSTA          ~00~#027
+|135
+@0006085D-00060919-FF-00
+;0006085D{FATHER                    ~00~}#030#027
+PADRE                     ~00~#027
+;00060878{HAWKINS                   ~00~}#030#027
+HAWKINS                   ~00~#027
+;00060893{DYSART                    ~00~}#030#027
+DYSART                    ~00~#027
+;000608AE{KILLIAN                   ~00~}#030#027
+KILLIAN                   ~00~#027
+;000608C9{STEPHANO                  ~00~}#030#027
+STEPHANO                  ~00~#027
+;000608E4{KING                      ~00~}#030#027
+KING                      ~00~#027
+;000608FF{ROBBINS                   ~00~}#030#027
+ROBBINS                   ~00~#027
+|189
+@00060920-00060970-FF-00
+;00060920{HOTEL EXTERIOR            ~00~}#030#027
+EXTERIOR DEL HOTEL        ~00~#027
+;0006093B{HOTEL INTERIOR            ~00~}#030#027
+INTERIOR DEL HOTEL        ~00~#027
+;00060956{MAREK'S CHAMBERS          ~00~}#030#027
+CÁMARAS DE MAREK          ~00~#027
+|81
+@0006331C-00063337-FF-00
+;0006331C{ 'A' TO ACCEPT THIS RESULT  }#028#028
+ 'A' PARA ACEPTAR RESULTADO #028
+|28
+@001914BB-001934B7-FF-00
+;001914BB{          NO ESCAPE           ~00~}#034#031
+      ESCAPE DE  ABSOLOM      ~00~#031
+;001914DA{                              ~00~}#034#031
+                              ~00~#031
+;001914F9{                              ~00~}#034#031
+                              ~00~#031
+;00191518{                              ~00~}#034#031
+                              ~00~#031
+;00191537{~08~~02~        SONY IMAGESOFT%       ~00~}#042#033
+~08~~02~        SONY IMAGESOFT%       ~00~#033
+;00191558{~08~~00~}#008#002
+~08~~00~#002
+;0019155A{        _______________       ~00~}#034#031
+        _______________       ~00~#031
+;00191579{                              ~00~}#034#031
+                              ~00~#031
+;00191598{~08~~03~      EXECUTIVE PRODUCER      ~00~}#042#033
+~08~~03~     PRODUCTOR  EJECUTIVO     ~00~#033
+;001915B9{~08~~00~}#008#002
+~08~~00~#002
+;001915BB{        RICH  ROBINSON        ~00~}#034#031
+        RICH  ROBINSON        ~00~#031
+;001915DA{                              ~00~}#034#031
+                              ~00~#031
+;001915F9{~08~~03~       SENIOR  PRODUCER       ~00~}#042#033
+~08~~03~       PRODUCTOR SENIOR       ~00~#033
+;0019161A{~08~~00~}#008#002
+~08~~00~#002
+;0019161C{       MARY ANN  NORRIS       ~00~}#034#031
+       MARY ANN  NORRIS       ~00~#031
+;0019163B{                              ~00~}#034#031
+                              ~00~#031
+;0019165A{~08~~03~      ASSOCIATE PRODUCER      ~00~}#042#033
+~08~~03~      PRODUCTOR ASOCIADO      ~00~#033
+;0019167B{~08~~00~}#008#002
+~08~~00~#002
+;0019167D{          DAVID  POE          ~00~}#034#031
+          DAVID  POE          ~00~#031
+;0019169C{                              ~00~}#034#031
+                              ~00~#031
+;001916BB{~08~~03~         TESTING TEAM         ~00~}#042#033
+~08~~03~      EQUIPO DE PRUEBAS       ~00~#033
+;001916DC{~08~~00~}#008#002
+~08~~00~#002
+;001916DE{        BRUCE COCHRANE        ~00~}#034#031
+        BRUCE COCHRANE        ~00~#031
+;001916FD{          C.J.CONNOY          ~00~}#034#031
+          C.J.CONNOY          ~00~#031
+;0019171C{          JOSE  CRUZ          ~00~}#034#031
+          JOSE  CRUZ          ~00~#031
+;0019173B{         JODY  KELSEY         ~00~}#034#031
+         JODY  KELSEY         ~00~#031
+;0019175A{        ANDRE LEIGHTON        ~00~}#034#031
+        ANDRE LEIGHTON        ~00~#031
+;00191779{          SETH LUISI          ~00~}#034#031
+          SETH LUISI          ~00~#031
+;00191798{        TOBIN  RUSSELL        ~00~}#034#031
+        TOBIN  RUSSELL        ~00~#031
+;001917B7{        KURT SCHWENGEL        ~00~}#034#031
+        KURT SCHWENGEL        ~00~#031
+;001917D6{         ANDREW STEIN         ~00~}#034#031
+         ANDREW STEIN         ~00~#031
+;001917F5{                              ~00~}#034#031
+                              ~00~#031
+;00191814{                              ~00~}#034#031
+                              ~00~#031
+;00191833{                              ~00~}#034#031
+                              ~00~#031
+;00191852{~08~~02~         VIDEO SHOOT          ~00~}#042#033
+~08~~02~       SESIÓN  DE VIDEO       ~00~#033
+;00191873{~08~~00~}#008#002
+~08~~00~#002
+;00191875{         ___________          ~00~}#034#031
+       ________________       ~00~#031
+;00191894{                              ~00~}#034#031
+                              ~00~#031
+;001918B3{                              ~00~}#034#031
+                              ~00~#031
+;001918D2{~08~~03~           CASTING            ~00~}#042#033
+~08~~03~           CASTING            ~00~#033
+;001918F3{~08~~00~}#008#002
+~08~~00~#002
+;001918F5{         TAMMY  SMITH         ~00~}#034#031
+         TAMMY  SMITH         ~00~#031
+;00191914{        TERENCE HARRIS        ~00~}#034#031
+        TERENCE HARRIS        ~00~#031
+;00191933{                              ~00~}#034#031
+                              ~00~#031
+;00191952{~08~~03~           MAKE  UP           ~00~}#042#033
+~08~~03~          MAQUILLAJE          ~00~#033
+;00191973{~08~~00~}#008#002
+~08~~00~#002
+;00191975{        ANAIS  BROWSKI        ~00~}#034#031
+        ANAIS  BROWSKI        ~00~#031
+;00191994{         WES  WALFORD         ~00~}#034#031
+         WES  WALFORD         ~00~#031
+;001919B3{                              ~00~}#034#031
+                              ~00~#031
+;001919D2{~08~~03~             HAIR             ~00~}#042#033
+~08~~03~          PELUQUERÍA          ~00~#033
+;001919F3{~08~~00~}#008#002
+~08~~00~#002
+;001919F5{         DIONE TAYLOR         ~00~}#034#031
+         DIONE TAYLOR         ~00~#031
+;00191A14{                              ~00~}#034#031
+                              ~00~#031
+;00191A33{~08~~03~           COSTUMES           ~00~}#042#033
+~08~~03~          VESTUARIO           ~00~#033
+;00191A54{~08~~00~}#008#002
+~08~~00~#002
+;00191A56{       RENEE  DAVENPORT       ~00~}#034#031
+       RENEE  DAVENPORT       ~00~#031
+;00191A75{                              ~00~}#034#031
+                              ~00~#031
+;00191A94{~08~~03~      SCRIPT  SUPERVISOR      ~00~}#042#033
+~08~~03~     SUPERVISOR DEL GUION     ~00~#033
+;00191AB5{~08~~00~}#008#002
+~08~~00~#002
+;00191AB7{          NILI SINAI          ~00~}#034#031
+          NILI SINAI          ~00~#031
+;00191AD6{                              ~00~}#034#031
+                              ~00~#031
+;00191AF5{~08~~03~           PAINTER            ~00~}#042#033
+~08~~03~            PINTOR            ~00~#033
+;00191B16{~08~~00~}#008#002
+~08~~00~#002
+;00191B18{         DAN GINDROZ          ~00~}#034#031
+         DAN GINDROZ          ~00~#031
+;00191B37{                              ~00~}#034#031
+                              ~00~#031
+;00191B56{~08~~03~        LAMP  OPERATOR        ~00~}#042#033
+~08~~03~     OPERADOR  DE LÁMPARA     ~00~#033
+;00191B77{~08~~00~}#008#002
+~08~~00~#002
+;00191B79{         MIKE BARRETT         ~00~}#034#031
+         MIKE BARRETT         ~00~#031
+;00191B98{                              ~00~}#034#031
+                              ~00~#031
+;00191BB7{~08~~03~           KEY GRIP           ~00~}#042#033
+~08~~03~     JEFE DE  MAQUINISTAS     ~00~#033
+;00191BD8{~08~~00~}#008#002
+~08~~00~#002
+;00191BDA{           IRV KATZ           ~00~}#034#031
+           IRV KATZ           ~00~#031
+;00191BF9{                              ~00~}#034#031
+                              ~00~#031
+;00191C18{~08~~03~             GRIP             ~00~}#042#033
+~08~~03~          MAQUINISTA          ~00~#033
+;00191C39{~08~~00~}#008#002
+~08~~00~#002
+;00191C3B{        JESSE  POGOLER        ~00~}#034#031
+        JESSE  POGOLER        ~00~#031
+;00191C5A{                              ~00~}#034#031
+                              ~00~#031
+;00191C79{~08~~03~            GAFFER            ~00~}#042#033
+~08~~03~          ILUMINADOR          ~00~#033
+;00191C9A{~08~~00~}#008#002
+~08~~00~#002
+;00191C9C{        KERRY  MAGNESS        ~00~}#034#031
+        KERRY  MAGNESS        ~00~#031
+;00191CBB{                              ~00~}#034#031
+                              ~00~#031
+;00191CDA{~08~~03~           PROPERTY           ~00~}#042#033
+~08~~03~          PROPIEDAD           ~00~#033
+;00191CFB{~08~~00~}#008#002
+~08~~00~#002
+;00191CFD{          KEVIN HAHN          ~00~}#034#031
+          KEVIN HAHN          ~00~#031
+;00191D1C{                              ~00~}#034#031
+                              ~00~#031
+;00191D3B{~08~~03~        KEY FX  RIGGER        ~00~}#042#033
+~08~~03~JEFE DE ESQUELETOS  DE EFECTOS~00~#033
+;00191D5C{~08~~00~}#008#002
+~08~~00~#002
+;00191D5E{         CHRIS BARKER         ~00~}#034#031
+         CHRIS BARKER         ~00~#031
+;00191D7D{                              ~00~}#034#031
+                              ~00~#031
+;00191D9C{~08~~03~    FX MECHANICAL ENGINEER    ~00~}#042#033
+~08~~03~INGENIERO DE EFECTOS MECÁNICOS~00~#033
+;00191DBD{~08~~00~}#008#002
+~08~~00~#002
+;00191DBF{         BARRY WALTON         ~00~}#034#031
+         BARRY WALTON         ~00~#031
+;00191DDE{                              ~00~}#034#031
+                              ~00~#031
+;00191DFD{~08~~03~     ULTIMATTE TECHNICIAN     ~00~}#042#033
+~08~~03~      TÉCNICO DEFINITIVO      ~00~#033
+;00191E1E{~08~~00~}#008#002
+~08~~00~#002
+;00191E20{         BOB  KERTESZ         ~00~}#034#031
+         BOB  KERTESZ         ~00~#031
+;00191E3F{                              ~00~}#034#031
+                              ~00~#031
+;00191E5E{~08~~03~   DIRECTOR  OF PHOTOGRAPHY   ~00~}#042#033
+~08~~03~    DIRECTOR DE FOTOGRAFÍA    ~00~#033
+;00191E7F{~08~~00~}#008#002
+~08~~00~#002
+;00191E81{         CHUCK BARBEE         ~00~}#034#031
+         CHUCK BARBEE         ~00~#031
+;00191EA0{                              ~00~}#034#031
+                              ~00~#031
+;00191EBF{~08~~03~      ASSISTANT DIRECTOR      ~00~}#042#033
+~08~~03~    AYUDANTE DEL  DIRECTOR    ~00~#033
+;00191EE0{~08~~00~}#008#002
+~08~~00~#002
+;00191EE2{        CAREY DIETRICH        ~00~}#034#031
+        CAREY DIETRICH        ~00~#031
+;00191F01{                              ~00~}#034#031
+                              ~00~#031
+;00191F20{~08~~03~  ASSISTANT TO  THE PRODUCER  ~00~}#042#033
+~08~~03~    AYUDANTE DEL PRODUCTOR    ~00~#033
+;00191F41{~08~~00~}#008#002
+~08~~00~#002
+;00191F43{          NANCY WOLF          ~00~}#034#031
+          NANCY WOLF          ~00~#031
+;00191F62{                              ~00~}#034#031
+                              ~00~#031
+;00191F81{~08~~03~    COORDINATING  PRODUCER    ~00~}#042#033
+~08~~03~  COORDINADOR  DE PRODUCCIÓN  ~00~#033
+;00191FA2{~08~~00~}#008#002
+~08~~00~#002
+;00191FA4{        SUZANNE PASTOR        ~00~}#034#031
+        SUZANNE PASTOR        ~00~#031
+;00191FC3{                              ~00~}#034#031
+                              ~00~#031
+;00191FE2{~08~~03~           PRODUCER           ~00~}#042#033
+~08~~03~          PRODUCTOR           ~00~#033
+;00192003{~08~~00~}#008#002
+~08~~00~#002
+;00192005{         BOB SHEPHERD         ~00~}#034#031
+         BOB SHEPHERD         ~00~#031
+;00192024{                              ~00~}#034#031
+                              ~00~#031
+;00192043{                              ~00~}#034#031
+                              ~00~#031
+;00192062{~08~~02~           THE CAST           ~00~}#042#033
+~08~~02~          EL REPARTO          ~00~#033
+;00192083{~08~~00~}#008#002
+~08~~00~#002
+;00192085{           ________           ~00~}#034#031
+           ________           ~00~#031
+;001920A4{                              ~00~}#034#031
+                              ~00~#031
+;001920C3{                              ~00~}#034#031
+                              ~00~#031
+;001920E2{~08~~03~           ROBBINS            ~00~}#042#033
+~08~~03~           ROBBINS            ~00~#033
+;00192103{~08~~00~}#008#002
+~08~~00~#002
+;00192105{          WIL  BOTTI          ~00~}#034#031
+          WIL  BOTTI          ~00~#031
+;00192124{         CORY  WINICK         ~00~}#034#031
+         CORY  WINICK         ~00~#031
+;00192143{                              ~00~}#034#031
+                              ~00~#031
+;00192162{~08~~03~        RALPH / WARDEN        ~00~}#042#033
+~08~~03~       RALPH /  ALCAIDE       ~00~#033
+;00192183{~08~~00~}#008#002
+~08~~00~#002
+;00192185{        MORRY BROOKLER        ~00~}#034#031
+        MORRY BROOKLER        ~00~#031
+;001921A4{                              ~00~}#034#031
+                              ~00~#031
+;001921C3{~08~~03~            SKULL             ~00~}#042#033
+~08~~03~            SKULL             ~00~#033
+;001921E4{~08~~00~}#008#002
+~08~~00~#002
+;001921E6{        RICHARD  STEIN        ~00~}#034#031
+        RICHARD  STEIN        ~00~#031
+;00192205{                              ~00~}#034#031
+                              ~00~#031
+;00192224{~08~~03~      WARDEN'S  HENCHMEN      ~00~}#042#033
+~08~~03~     SECUACES DEL ALCAIDE     ~00~#033
+;00192245{~08~~00~}#008#002
+~08~~00~#002
+;00192247{         NICK  MEANEY         ~00~}#034#031
+         NICK  MEANEY         ~00~#031
+;00192266{                              ~00~}#034#031
+                              ~00~#031
+;00192285{~08~~03~MAREK/TECHNO WARRIOR/MOTORHEAD~00~}#042#033
+~08~~03~MAREK/TECNOGUERRERO/MOTORHEAD ~00~#033
+;001922A6{TREE DWELLER/MOLE MAN/SKINHEAD~00~}#034#031
+HAB. ÁRBOL/HOMB. TOPO/SKINHEAD~00~#031
+;001922C5{~08~~00~}#008#002
+~08~~00~#002
+;001922C7{          DAVID  POE          ~00~}#034#031
+          DAVID  POE          ~00~#031
+;001922E6{                              ~00~}#034#031
+                              ~00~#031
+;00192305{                              ~00~}#034#031
+                              ~00~#031
+;00192324{                              ~00~}#034#031
+                              ~00~#031
+;00192343{~08~~02~       BITS CORPORATION       ~00~}#042#033
+~08~~02~       BITS CORPORATION       ~00~#033
+;00192364{~08~~00~}#008#002
+~08~~00~#002
+;00192366{       ________________       ~00~}#034#031
+       ________________       ~00~#031
+;00192385{                              ~00~}#034#031
+                              ~00~#031
+;001923A4{                              ~00~}#034#031
+                              ~00~#031
+;001923C3{~08~~01~            DESIGN            ~00~}#042#033
+~08~~01~            DISEÑO            ~00~#033
+;001923E4{                              ~00~}#034#031
+                              ~00~#031
+;00192403{~08~~03~         GAME  DESIGN         ~00~}#042#033
+~08~~03~       DISEÑO  DE JUEGO       ~00~#033
+;00192424{~08~~00~}#008#002
+~08~~00~#002
+;00192426{         DAVE STALKER         ~00~}#034#031
+         DAVE STALKER         ~00~#031
+;00192445{           TIM HULL           ~00~}#034#031
+           TIM HULL           ~00~#031
+;00192464{                              ~00~}#034#031
+                              ~00~#031
+;00192483{~08~~01~       CORE PROGRAMMING       ~00~}#042#033
+~08~~01~   PROGRAMACIÓN  DEL NÚCLEO   ~00~#033
+;001924A4{                              ~00~}#034#031
+                              ~00~#031
+;001924C3{~08~~03~       A.S.I.A LANGUAGE       ~00~}#042#033
+~08~~03~      LENGUAJE  A.S.I.A.      ~00~#033
+;001924E4{~08~~00~}#008#002
+~08~~00~#002
+;001924E6{         ALAN  BARTON         ~00~}#034#031
+         ALAN  BARTON         ~00~#031
+;00192505{         STEVE HOWARD         ~00~}#034#031
+         STEVE HOWARD         ~00~#031
+;00192524{                              ~00~}#034#031
+                              ~00~#031
+;00192543{~08~~03~         GAME  ENGINE         ~00~}#042#033
+~08~~03~       MOTOR DEL  JUEGO       ~00~#033
+;00192564{~08~~00~}#008#002
+~08~~00~#002
+;00192566{         STEVE HOWARD         ~00~}#034#031
+         STEVE HOWARD         ~00~#031
+;00192585{                              ~00~}#034#031
+                              ~00~#031
+;001925A4{~08~~03~       LEAD  PROGRAMMER       ~00~}#042#033
+~08~~03~       PROGRAMADOR JEFE       ~00~#033
+;001925C5{~08~~00~}#008#002
+~08~~00~#002
+;001925C7{       SIMON  KIMBERLEY       ~00~}#034#031
+       SIMON  KIMBERLEY       ~00~#031
+;001925E6{                              ~00~}#034#031
+                              ~00~#031
+;00192605{                              ~00~}#034#031
+                              ~00~#031
+;00192624{~08~~03~     LEVEL AI PROGRAMMING     ~00~}#042#033
+~08~~03~ PROGRAMACIÓN DE IA DEL NIVEL ~00~#033
+;00192645{~08~~00~}#008#002
+~08~~00~#002
+;00192647{        JOHN STEVENSON        ~00~}#034#031
+        JOHN STEVENSON        ~00~#031
+;00192666{         ABDUL  RAHIM         ~00~}#034#031
+         ABDUL  RAHIM         ~00~#031
+;00192685{       SIMON  KIMBERLEY       ~00~}#034#031
+       SIMON  KIMBERLEY       ~00~#031
+;001926A4{         SEAN  CONRAN         ~00~}#034#031
+         SEAN  CONRAN         ~00~#031
+;001926C3{                              ~00~}#034#031
+                              ~00~#031
+;001926E2{~08~~03~      AUDIO  PROGRAMMING      ~00~}#042#033
+~08~~03~    PROGRAMACIÓN  DE AUDIO    ~00~#033
+;00192703{~08~~00~}#008#002
+~08~~00~#002
+;00192705{         SHAHID AHMAD         ~00~}#034#031
+         SHAHID AHMAD         ~00~#031
+;00192724{                              ~00~}#034#031
+                              ~00~#031
+;00192743{~08~~03~   PRESENTATION PROGRAMMING   ~00~}#042#033
+~08~~03~ PROGRAMACIÓN DE PRESENTACIÓN ~00~#033
+;00192764{~08~~00~}#008#002
+~08~~00~#002
+;00192766{        CHRIS BANNOCK         ~00~}#034#031
+        CHRIS BANNOCK         ~00~#031
+;00192785{     STEVE 'BEAVIS' CLARK     ~00~}#034#031
+     STEVE 'BEAVIS' CLARK     ~00~#031
+;001927A4{                              ~00~}#034#031
+                              ~00~#031
+;001927C3{                              ~00~}#034#031
+                              ~00~#031
+;001927E2{~08~~01~              ART             ~00~}#042#033
+~08~~01~             ARTE             ~00~#033
+;00192803{                              ~00~}#034#031
+                              ~00~#031
+;00192822{~08~~03~   LEVEL MAPS AND PAPER ART   ~00~}#042#033
+~08~~03~MAPAS DE NIVEL Y ARTE EN PAPEL~00~#033
+;00192843{~08~~00~}#008#002
+~08~~00~#002
+;00192845{     JACQUELINE M. JOMAIN     ~00~}#034#031
+     JACQUELINE M. JOMAIN     ~00~#031
+;00192864{                              ~00~}#034#031
+                              ~00~#031
+;00192883{~08~~03~    PRESENTATION PAPER ART    ~00~}#042#033
+~08~~03~ARTE EN PAPEL  DE PRESENTACIÓN~00~#033
+;001928A4{~08~~00~}#008#002
+~08~~00~#002
+;001928A6{          RHYS CADLE          ~00~}#034#031
+          RHYS CADLE          ~00~#031
+;001928C5{                              ~00~}#034#031
+                              ~00~#031
+;001928E4{                              ~00~}#034#031
+                              ~00~#031
+;00192903{~08~~01~           GRAPHICS           ~00~}#042#033
+~08~~01~           GRÁFICOS           ~00~#033
+;00192924{                              ~00~}#034#031
+                              ~00~#031
+;00192943{~08~~03~   ROBBINS AND LEVEL BOSSES   ~00~}#042#033
+~08~~03~   ROBBINS Y JEFES DE NIVEL   ~00~#033
+;00192964{~08~~00~}#008#002
+~08~~00~#002
+;00192966{        JOE STEPHENSON        ~00~}#034#031
+        JOE STEPHENSON        ~00~#031
+;00192985{                              ~00~}#034#031
+                              ~00~#031
+;001929A4{~08~~03~      LEAD ENEMY SPRITES      ~00~}#042#033
+~08~~03~ JEFE DE SPRITES  DE ENEMIGOS ~00~#033
+;001929C5{~08~~00~}#008#002
+~08~~00~#002
+;001929C7{        LESLEY ROBERTS        ~00~}#034#031
+        LESLEY ROBERTS        ~00~#031
+;001929E6{                              ~00~}#034#031
+                              ~00~#031
+;00192A05{~08~~03~        ENEMY  SPRITES        ~00~}#042#033
+~08~~03~     SPRITES DE  ENEMIGOS     ~00~#033
+;00192A26{~08~~00~}#008#002
+~08~~00~#002
+;00192A28{         MARK WORTHAM         ~00~}#034#031
+         MARK WORTHAM         ~00~#031
+;00192A47{         BEN  MCGRATH         ~00~}#034#031
+         BEN  MCGRATH         ~00~#031
+;00192A66{                              ~00~}#034#031
+                              ~00~#031
+;00192A85{~08~~03~    LEAD LEVEL BACKGROUNDS    ~00~}#042#033
+~08~~03~JEFE DE FONDOS  DE LOS NIVELES~00~#033
+;00192AA6{~08~~00~}#008#002
+~08~~00~#002
+;00192AA8{         ELENI  PIERI         ~00~}#034#031
+         ELENI  PIERI         ~00~#031
+;00192AC7{                              ~00~}#034#031
+                              ~00~#031
+;00192AE6{~08~~03~      LEVEL  BACKGROUNDS      ~00~}#042#033
+~08~~03~    FONDOS DE  LOS NIVELES    ~00~#033
+;00192B07{~08~~00~}#008#002
+~08~~00~#002
+;00192B09{         CARL CROPLEY         ~00~}#034#031
+         CARL CROPLEY         ~00~#031
+;00192B28{     JACQUELINE M. JOMAIN     ~00~}#034#031
+     JACQUELINE M. JOMAIN     ~00~#031
+;00192B47{                              ~00~}#034#031
+                              ~00~#031
+;00192B66{~08~~03~       IN-GAME  OBJECTS       ~00~}#042#033
+~08~~03~   OBJETOS DENTRO DEL JUEGO   ~00~#033
+;00192B87{~08~~00~}#008#002
+~08~~00~#002
+;00192B89{         DAVE  PINNEL         ~00~}#034#031
+         DAVE  PINNEL         ~00~#031
+;00192BA8{                              ~00~}#034#031
+                              ~00~#031
+;00192BC7{~08~~03~      INTRO PRESENTATION      ~00~}#042#033
+~08~~03~  PRESENTACIÓN  INTRODUCCIÓN  ~00~#033
+;00192BE8{~08~~00~}#008#002
+~08~~00~#002
+;00192BEA{         CHRIS  OWENS         ~00~}#034#031
+         CHRIS  OWENS         ~00~#031
+;00192C09{                              ~00~}#034#031
+                              ~00~#031
+;00192C28{~08~~03~   INTRO/OUTRO PRESENTATION   ~00~}#042#033
+~08~~03~   PRESENTACIÓN INTRO/FINAL   ~00~#033
+;00192C49{~08~~00~}#008#002
+~08~~00~#002
+;00192C4B{        TREVOR  STOREY        ~00~}#034#031
+        TREVOR  STOREY        ~00~#031
+;00192C6A{                              ~00~}#034#031
+                              ~00~#031
+;00192C89{~08~~03~ROTOSCOPE CHARACTER CATALOGING~00~}#042#033
+~08~~03~CATALOGA PERSONAJES ROTOSCOPIA~00~#033
+;00192CAA{~08~~00~}#008#002
+~08~~00~#002
+;00192CAC{       LESLEY  ROBERTS        ~00~}#034#031
+       LESLEY  ROBERTS        ~00~#031
+;00192CCB{                              ~00~}#034#031
+                              ~00~#031
+;00192CEA{                              ~00~}#034#031
+                              ~00~#031
+;00192D09{~08~~01~       SOUND AND  MUSIC       ~00~}#042#033
+~08~~01~       SONIDO Y  MÚSICA       ~00~#033
+;00192D2A{                              ~00~}#034#031
+                              ~00~#031
+;00192D49{~08~~03~        AUDIO PRODUCER        ~00~}#042#033
+~08~~03~      PRODUCTOR DE AUDIO      ~00~#033
+;00192D6A{~08~~00~}#008#002
+~08~~00~#002
+;00192D6C{         SHAHID AHMAD         ~00~}#034#031
+         SHAHID AHMAD         ~00~#031
+;00192D8B{                              ~00~}#034#031
+                              ~00~#031
+;00192DAA{~08~~03~      MUSIC  COMPOSITION      ~00~}#042#033
+~08~~03~     COMPOSICIÓN  MUSICAL     ~00~#033
+;00192DCB{~08~~00~}#008#002
+~08~~00~#002
+;00192DCD{         SHAHID AHMAD         ~00~}#034#031
+         SHAHID AHMAD         ~00~#031
+;00192DEC{         ANDY  TAYLOR         ~00~}#034#031
+         ANDY  TAYLOR         ~00~#031
+;00192E0B{                              ~00~}#034#031
+                              ~00~#031
+;00192E2A{~08~~03~        SOUND  EFFECTS        ~00~}#042#033
+~08~~03~      EFECTOS  DE SONIDO      ~00~#033
+;00192E4B{~08~~00~}#008#002
+~08~~00~#002
+;00192E4D{     DYLAN 'DOGGIE' BEALE     ~00~}#034#031
+     DYLAN 'DOGGIE' BEALE     ~00~#031
+;00192E6C{                              ~00~}#034#031
+                              ~00~#031
+;00192E8B{                              ~00~}#034#031
+                              ~00~#031
+;00192EAA{~08~~01~          PRODUCTION          ~00~}#042#033
+~08~~01~          PRODUCCIÓN          ~00~#033
+;00192ECB{                              ~00~}#034#031
+                              ~00~#031
+;00192EEA{~08~~03~      QUALITY  ASSURANCE      ~00~}#042#033
+~08~~03~     GARANTÍA  DE CALIDAD     ~00~#033
+;00192F0B{~08~~00~}#008#002
+~08~~00~#002
+;00192F0D{          STEVE  COX          ~00~}#034#031
+          STEVE  COX          ~00~#031
+;00192F2C{         JARED TAYLOR         ~00~}#034#031
+         JARED TAYLOR         ~00~#031
+;00192F4B{    BITS CORP TESTING TEAM    ~00~}#034#031
+EQUIPO DE PRUEBAS DE BITS CORP~00~#031
+;00192F6A{                              ~00~}#034#031
+                              ~00~#031
+;00192F89{~08~~03~      TECHNICAL OVERVIEW      ~00~}#042#033
+~08~~03~     SUPERVISIÓN  TÉCNICA     ~00~#033
+;00192FAA{~08~~00~}#008#002
+~08~~00~#002
+;00192FAC{       JAMES 'ROBO' COX       ~00~}#034#031
+       JAMES 'ROBO' COX       ~00~#031
+;00192FCB{                              ~00~}#034#031
+                              ~00~#031
+;00192FEA{~08~~03~           PRODUCER           ~00~}#042#033
+~08~~03~          PRODUCTOR           ~00~#033
+;0019300B{~08~~00~}#008#002
+~08~~00~#002
+;0019300D{           TIM HULL           ~00~}#034#031
+           TIM HULL           ~00~#031
+;0019302C{                              ~00~}#034#031
+                              ~00~#031
+;0019304B{~08~~03~       SENIOR  PRODUCER       ~00~}#042#033
+~08~~03~       PRODUCTOR SENIOR       ~00~#033
+;0019306C{~08~~00~}#008#002
+~08~~00~#002
+;0019306E{        GARY SHEINWALD        ~00~}#034#031
+        GARY SHEINWALD        ~00~#031
+;0019308D{                              ~00~}#034#031
+                              ~00~#031
+;001930AC{~08~~03~      EXECUTIVE PRODUCER      ~00~}#042#033
+~08~~03~     PRODUCTOR  EJECUTIVO     ~00~#033
+;001930CD{~08~~00~}#008#002
+~08~~00~#002
+;001930CF{          FOO  KATAN          ~00~}#034#031
+          FOO  KATAN          ~00~#031
+;001930EE{                              ~00~}#034#031
+                              ~00~#031
+;0019310D{                              ~00~}#034#031
+                              ~00~#031
+;0019312C{                              ~00~}#034#031
+                              ~00~#031
+;0019314B{                              ~00~}#034#031
+                              ~00~#031
+;0019316A{                              ~00~}#034#031
+                              ~00~#031
+;00193189{                              ~00~}#034#031
+                              ~00~#031
+;001931A8{                              ~00~}#034#031
+                              ~00~#031
+;001931C7{                              ~00~}#034#031
+                              ~00~#031
+;001931E6{                              ~00~}#034#031
+                              ~00~#031
+;00193205{                              ~00~}#034#031
+                              ~00~#031
+;00193224{                              ~00~}#034#031
+                              ~00~#031
+;00193243{                              ~00~}#034#031
+                              ~00~#031
+;00193262{                              ~00~}#034#031
+                              ~00~#031
+;00193281{                              ~00~}#034#031
+                              ~00~#031
+;001932A0{~08~~03~          NO ESCAPE           ~00~}#042#033
+~08~~03~      ESCAPE DE  ABSOLOM      ~00~#033
+;001932C1{                              ~00~}#034#031
+                              ~00~#031
+;001932E0{                              ~00~}#034#031
+                              ~00~#031
+;001932FF{    &1994  SONY ELECTRONIC    ~00~}#034#031
+    &1994  SONY ELECTRONIC    ~00~#031
+;0019331E{      PUBLISHING COMPANY      ~00~}#034#031
+      PUBLISHING COMPANY      ~00~#031
+;0019333D{                              ~00~}#034#031
+                              ~00~#031
+;0019335C{                              ~00~}#034#031
+                              ~00~#031
+;0019337B{ &1994 ALLIED FILMMAKERS,N.V. ~00~}#034#031
+ &1994 ALLIED FILMMAKERS,N.V. ~00~#031
+;0019339A{                              ~00~}#034#031
+                              ~00~#031
+;001933B9{     ALL  RIGHTS RESERVED     ~00~}#034#031
+TODOS LOS DERECHOS  RESERVADOS~00~#031
+;001933D8{                              ~00~}#034#031
+                              ~00~#031
+;001933F7{                              ~00~}#034#031
+                              ~00~#031
+;00193416{     LICENSED BY NINTENDO     ~00~}#034#031
+   LICENCIADO  POR NINTENDO   ~00~#031
+;00193435{                              ~00~}#034#031
+                              ~00~#031
+;00193454{~08~~00~}#008#002
+~08~~00~#002
+;00193456{DEVELOPED BY  BITS CORPORATION~00~}#034#031
+DESARROLLO DE BITS CORPORATION~00~#031
+;00193475{______________________________~00~}#034#031
+______________________________~00~#031
+;00193494{~02~~01~~01~ ~00~}#017#005
+~02~~01~~01~ ~00~#005
+;00193499{                              ~00~}#034#031
+                              ~00~#031
+|8189
+@001936CC-00193C58-FF-00
+;001936CC{WITH THE WARDEN AND HIS MEN   DEFEATED, ROBBINS JUMPS INTO  THE REPAIRED INSIDERS'BOAT ANDFLEES BACK TO CIVILIZATION.                                 WITH HIM HE CARRIES THE       FATHER'S JOURNAL AS A RECORD  OF THE OPPRESSION SUFFERED BY THE PRISONERS FORCED TO LIVE  ON ABSOLOM.                   ~00~}#304#301
+CON EL ALCAIDE Y SUS HOMBRES  
+DERROTADOS, ROBBINS SALTA A LA
+BARCA REPARADA DE LOS INSIDERS
+Y HUYE DE VUELTA A LA         
+CIVILIZACIÓN.                 
+                              
+SE LLEVA EL DIARIO DEL PADRE  
+COMO INFORME DE LA OPRESIÓN   
+SUFRIDA POR LOS PRISIONEROS   
+FORZADOS A VIVIR EN ABSOLOM.  
+~00~#301
+;001937F9{~02~~01~~01~~00~}#016#004
+~02~~01~~01~~00~#004
+;001937FD{HOLDING THE WARDEN HOSTAGE,   ROBBINS FORCES THE LEVITICUS  HELICOPTER TO LAND.                                         HE ABANDONS THE WARDEN AND HISMEN TO FEND FOR THEMSELVES    AGAINST THE SAVAGE OUTSIDERS.                               ROBBINS ESCAPES IN THE STOLEN HELICOPTER, BOUND FOR THE     NEAREST MAINLAND CITY.                                      WITH HIM HE CARRIES THE       FATHER'S JOURNAL, A RECORD OF ALL THAT HAS OCCURRED ON      ABSOLOM.                                                    ~00~}#514#511
+CON EL ALCAIDE DE REHÉN,      
+ROBBINS OBLIGA AL             
+HELICÓPTERO DE LEVÍTICO A     
+ATERRIZAR.                    
+                              
+ABANDONA AL ALCAIDE Y SUS     
+HOMBRES PARA QUE SE DEFIENDAN 
+CONTRA LOS SALVAJES OUTSIDERS.
+                              
+ROBBINS ESCAPA EN EL          
+HELICÓPTERO ROBADO, RUMBO A LA
+CIUDAD PENINSULAR MÁS CERCANA.
+                              
+CON ÉL LLEVA EL DIARIO DEL    
+PADRE, UN INFORME DE TODO LO  
+QUE HA OCURRIDO EN ABSOLOM.   
+                              ~00~#511
+;001939FC{~02~~01~~01~~00~}#016#004
+~02~~01~~01~~00~#004
+;00193A00{UPON REACHING THE CITY,       ROBBINS MAKES GOOD HIS PROMISETO THE FATHER, AND DELIVERS   HIS JOURNAL INTO THE HANDS OF THE LOCAL TV NEWS STATION.                                  THE SCANDAL OF THE LEVITICUS  REGIME IS EXPOSED, AS WELL AS THE MILITARY COVER-UP THAT    TRIGGERED THE EVENTS WHICH LEDTO ROBBINS IMPRISONMENT.                                    THE PRISONERS TRAPPED ON      ABSOLOM ARE RESCUED, MANY OF  THE INSIDERS ARE PARDONED,    AND FOR HIS PART IN THE       REVELATIONS, ROBBINS IS ALSO  GRANTED A PARDON. HE FINDS    HIMSELF A FREE MAN ONCE AGAIN.                              ~00~}#604#601
+AL LLEGAR A LA CIUDAD,        
+ROBBINS CUMPLE LA PROMESA AL  
+PADRE, Y ENTREGA EL DIARIO A  
+LAS MANOS DE LA ESTACIÓN DE   
+NOTICIAS DE TELEVISIÓN LOCAL. 
+                              
+EL ESCÁNDALO DEL RÉGIMEN      
+LEVÍTICO ES EXPUESTO, ASÍ COMO
+EL ENCUBRIMIENTO MILITAR QUE  
+DESENCADENÓ LOS EVENTOS QUE   
+ENCARCELARON A ROBBINS.       
+                              
+LOS PRISIONEROS ATRAPADOS EN  
+ABSOLOM SON RESCATADOS, MUCHOS
+DE LOS INSIDERS PERDONADOS, Y 
+POR SU PAPEL EN LAS           
+REVELACIONES, A ROBBINS       
+TAMBIÉN SE LE CONCEDE UN      
+INDULTO. VUELVE A SER UN      
+HOMBRE LIBRE.                 ~00~#601
+|1421
+@001B811F-001B81C5-FF-00
+;001B811F{~E4~`~EB~NO ESCAPE$$$~E6~~9A~v~7E~~7E~y SONY ELECTRONIC~E7~PUBLISHING COMPANY$$~E2~~9A~v~7E~~7E~y ALLIED FILMMAKERS~8C~ N~9C~V~9C~$$~E7~ALL RIGHTS RESERVED$$~E8~DEVELOPED BY BITS~EB~CORPORATION$$~E6~LICENSED BY NINTENDO$~FF~}#224#167
+~E4~`~EB~
+NO ESCAPE$$$~E6~~9A~v~7E~~7E~y SONY ELECTRONIC~E7~PUBLISHING COMPANY$$~E2~~9A~v~7E~~7E~y ALLIED FILMMAKERS~8C~ N~9C~V~9C~$$~E7~
+DERECHOS RESERVADOS$$~E8~
+ DESARROLLA BITS ~EB~CORPORATION$$~E6~
+LICENCIA DE NINTENDO$~FF~#167
+|167
+@001B854A-001B8553-FF-00
+;001B854A{START GAME}#010#010
+ EMPEZAR  #010
+|10
+@001BD4AC-001BD691-FF-00
+;001BD4AC{Now it's time for$Itchy and Scratchy.~FF~}#041#038
+Ahora es hora de $Rasca y Pica.      ~FF~#038
+;001BD4D2{~D3~~E5~ROBBINS$~E5~FIRST DEGREE HOMICIDE$~E5~MAXIMUM SECURITY~FF~}#066#051
+~D3~~E5~
+ROBBINS$~E5~
+HOM{IC}{CI}DIO PRIMER GRADO$~E5~
+M{ÁÁ}XIMA SEGURIDAD~FF~#051
+;001BD505{~D3~ROBBINS, IN AN ATTEMPT TO$CLEAR YOUR OWN CONSCIENCE,$YOU SHOT YOUR COMMANDING$OFFICER. THAT MAKES YOU A WAR$CRIMINAL. BUT WORSE, YOU'RE A$TROUBLEMAKER TOO. I DON'T$LIKE TROUBLEMAKERS. IN FACT,$I SEND THEM TO AN ISLAND$CALLED ABSOLOM. THAT'S WHERE$YOU'RE GOING, ROBBINS, I'M$SENDING YOU TO ABSOLOM WHERE$YOU CAN REST EASY THAT THERE$WILL BE NO ESCAPE!~FF~}#358#352
+~D3~
+ROBBINS, EN UN INTENTO POR$
+LIMPIAR TU PROPIA CONCIENCIA$
+LE DISPARAS A TU OFICIAL AL$
+MANDO. TE HACE UN CRIMINAL$
+DE GUERRA, PERO, PEOR,$
+TAMBI{É]}N ERES UN ALBOROTADOR.$
+NO ME GUSTAN LOS$
+ALBOROTADORES. DE HECHO, LOS$
+ENV{Í]}O A UNA ISLA LLAMADA$
+ABSOLOM. AH{Í]} ES A DONDE VAS,$
+ROBBINS. {¡]}TE ENV{Í]}O A ABSOLOM$
+DONDE PUEDES ESTAR TRANQUILO$
+YA QUE NO HABR{Á]} ESCAPATORIA!\~FF~#352
+;001BD665{~D3~SECTOR :4$$GEOSAT :10^$$ABSOLOM:42'05~E8~37'82~FF~}#054#045
+~D3~
+SECTOR :4$$
+GEOSAT :10^$$
+ABSOLOM:42'05~E8~
+37'82~FF~#045
+|486

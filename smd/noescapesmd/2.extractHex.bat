@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_No Escape (USA).md"
+set SCRIPTNAME="noescapesmd"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 284E4:100,336E0:10,337D0:8,337F8:8,33858:20,532E8:10,533D8:8,53400:8,53460:20,5813E:10,5822E:8,58256:8,582B6:20
+pause

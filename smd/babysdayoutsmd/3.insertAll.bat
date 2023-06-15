@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Baby's Day Out (USA) (Proto) (February, 1995).md"
-set S_FILENAME="Baby's Day Out (USA) (Proto) (February, 1995).md"
+set T_FILENAME="TR_Baby's Day Out (USA) (Proto).md"
+set S_FILENAME="Baby's Day Out (USA) (Proto).md"
 set SCRIPTNAME="babysdayoutsmd"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

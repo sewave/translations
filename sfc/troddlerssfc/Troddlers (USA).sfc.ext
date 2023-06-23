@@ -1,0 +1,260 @@
+@00005D35-00005D68-00
+;00005D35{Play game~00~}#013#010
+Play game~00~#010
+;00005D3F{Choose mode~00~}#015#012
+Choose mode~00~#012
+;00005D4B{Choose level~00~}#016#013
+Choose level~00~#013
+;00005D58{Choose audio~00~}#016#013
+Choose audio~00~#013
+;00005D65{~AE~~12~m~BF~}#013#004
+~AE~~12~m~BF~#004
+|52
+@00005DC0-00005DEB-00
+;00005DC0{SOLO MODE~00~}#013#010
+SOLO MODE~00~#010
+;00005DCA{TEAM MODE~00~}#013#010
+TEAM MODE~00~#010
+;00005DD4{WAR MODE~00~}#012#009
+WAR MODE~00~#009
+;00005DDD{TRAIN MODE~00~}#014#011
+TRAIN MODE~00~#011
+;00005DE8{~AD~~18~m~F0~}#013#004
+~AD~~18~m~F0~#004
+|44
+@00005FF1-00006022-00
+;00005FF1{Mission aborted~00~}#019#016
+Mission aborted~00~#016
+;00006001{Start fresh and have another go~00~}#035#032
+Start fresh and have another go~00~#032
+;00006021{ ~C2~}#005#002
+ ~C2~#002
+|50
+@00006047-00006094-00
+;00006047{Too many men perished~00~}#025#022
+Too many men perished~00~#022
+;0000605D{Too many troddlers perished~00~}#031#028
+Too many troddlers perished~00~#028
+;00006079{Take better care of them!~00~}#029#026
+Take better care of them!~00~#026
+;00006093{ ~C2~}#005#002
+ ~C2~#002
+|78
+@000060AE-000060DF-00
+;000060AE{Too few troddlers remaining~00~}#031#028
+Too few troddlers remaining~00~#028
+;000060CA{Make more red gems!~00~}#023#020
+Make more red gems!~00~#020
+;000060DE{ ~C2~}#005#002
+ ~C2~#002
+|50
+@000060F9-00006128-00
+;000060F9{Too many foes reached the exit~00~}#034#031
+Too many foes reached the exit~00~#031
+;00006118{Show no mercy!~00~}#018#015
+Show no mercy!~00~#015
+;00006127{ ~C2~}#005#002
+ ~C2~#002
+|48
+@00006142-0000616B-00
+;00006142{You ran out of time~00~}#023#020
+You ran out of time~00~#020
+;00006156{Be quicker next go!~00~}#023#020
+Be quicker next go!~00~#020
+;0000616A{ ~C2~}#005#002
+ ~C2~#002
+|42
+@000061AA-00006217-00
+;000061AA{You ran out of energy~00~}#025#022
+You ran out of energy~00~#022
+;000061C0{Player % ran out of energy~00~}#030#027
+Player % ran out of energy~00~#027
+;000061DB{Both players ran out of energy~00~}#034#031
+Both players ran out of energy~00~#031
+;000061FA{Be more cautious next go!~00~}#029#026
+Be more cautious next go!~00~#026
+;00006214{~A9~~14~~00~}#012#003
+~A9~~14~~00~#003
+;00006217{~8D~}#004#001
+~8D~#001
+|110
+@00006220-00006236-00
+;00006220{Mission Failed~00~}#018#015
+Mission Failed~00~#015
+;0000622F{ i~E2~ X~F6~ ~C9~}#017#008
+ i~E2~ X~F6~ ~C9~#008
+|23
+@00006270-00006295-00
+;00006270{Lh~E3~Try Again            Main Menu~00~}#040#034
+Lh~E3~Try Again            Main Menu~00~#034
+;00006292{~A9~~0B~~00~}#012#003
+~A9~~0B~~00~#003
+;00006295{~A0~}#004#001
+~A0~#001
+|38
+@0000629B-000062C0-00
+;0000629B{Lh~E3~Next Mission         Main Menu~00~}#040#034
+Lh~E3~Next Mission         Main Menu~00~#034
+;000062BD{~A9~~0B~~00~}#012#003
+~A9~~0B~~00~#003
+;000062C0{~AC~}#004#001
+~AC~#001
+|38
+@000062E2-0000636B-00
+;000062E2{Lh~E3~Solo Mission           Main Menu~00~}#042#036
+Lh~E3~Solo Mission           Main Menu~00~#036
+;00006306{Team Mission           Main Menu~00~}#036#033
+Team Mission           Main Menu~00~#033
+;00006327{War Mission           Main Menu~00~}#035#032
+War Mission           Main Menu~00~#032
+;00006347{Play Mission           Main Menu~00~}#036#033
+Play Mission           Main Menu~00~#033
+;00006368{~8D~:m~8C~}#010#004
+~8D~:m~8C~#004
+|138
+@000063F2-0000644D-00
+;000063F2{Congratulations!~00~}#020#017
+Congratulations!~00~#017
+;00006403{With your help Hokus and Pokus~00~}#034#031
+With your help Hokus and Pokus~00~#031
+;00006422{have successfully completed~00~}#031#028
+have successfully completed~00~#028
+;0000643E{their mission~00~}#017#014
+their mission~00~#014
+;0000644C{ ~C2~}#005#002
+ ~C2~#002
+|92
+@000064AD-00006503-00
+;000064AD{lL~FC~~EF~Congratulations Player %~00~}#038#029
+lL~FC~~EF~Congratulations Player %~00~#029
+;000064CA{You have won the war!~00~}#025#022
+You have won the war!~00~#022
+;000064E0{Player One won %~00~}#020#017
+Player One won %~00~#017
+;000064F1{Player Two won %~00~}#020#017
+Player Two won %~00~#017
+;00006502{ ~C2~}#005#002
+ ~C2~#002
+|87
+@0000662F-0000677C-00
+;0000662F{lL~FC~~EF~Created by ATOD Design~00~}#036#027
+lL~FC~~EF~Created by ATOD Design~00~#027
+;0000664A{~81~ 1993 The Sales Curve Ltd~00~}#033#027
+~81~ 1993 The Sales Curve Ltd~00~#027
+;00006665{Licensed by Nintendo~00~}#024#021
+Licensed by Nintendo~00~#021
+;0000667A{Programming by John Croudy~00~}#030#027
+Programming by John Croudy~00~#027
+;00006695{Graphics by Dennis Gustafsson~00~}#033#030
+Graphics by Dennis Gustafsson~00~#030
+;000066B3{Additional graphics by Rob Whitaker~00~}#039#036
+Additional graphics by Rob Whitaker~00~#036
+;000066D7{Managed by Jim Loftus~00~}#025#022
+Managed by Jim Loftus~00~#022
+;000066ED{and Rob Henderson~00~}#021#018
+and Rob Henderson~00~#018
+;000066FF{Playtested by Michael Wolliston~00~}#035#032
+Playtested by Michael Wolliston~00~#032
+;0000671F{Jim Loftus and Farid Boulahri~00~}#033#030
+Jim Loftus and Farid Boulahri~00~#030
+;0000673D{Sound and music by Allister Brimble~00~}#039#036
+Sound and music by Allister Brimble~00~#036
+;00006761{and Software Creations~00~}#026#023
+and Software Creations~00~#023
+;00006778{~A9~~A4~~01~ ~F8~}#017#005
+~A9~~A4~~01~ ~F8~#005
+|334
+@00006C43-00006D01-00
+;00006C43{Mission accomplished~00~}#024#021
+Mission accomplished~00~#021
+;00006C58{Well done!~00~}#014#011
+Well done!~00~#011
+;00006C63{Well done Player One!~00~}#025#022
+Well done Player One!~00~#022
+;00006C79{Well done Player Two!~00~}#025#022
+Well done Player Two!~00~#022
+;00006C8F{Player % leads % game% to %~00~}#031#028
+Player % leads % game% to %~00~#028
+;00006CAB{Both players have won % game%~00~}#033#030
+Both players have won % game%~00~#030
+;00006CC9{Get ready for a new challenge~00~}#033#030
+Get ready for a new challenge~00~#030
+;00006CE7{Next level password: %~00~}#026#023
+Next level password: %~00~#023
+;00006CFE{~C9~~0A~~00~}#012#003
+~C9~~0A~~00~#003
+;00006D01{~90~}#004#001
+~90~#001
+|191
+@00006E06-00006E16-00
+;00006E06{Mission %: %~00~}#016#013
+Mission %: %~00~#013
+;00006E13{~9C~~BE~l~AD~}#013#004
+~9C~~BE~l~AD~#004
+|17
+@00006E42-00006E60-00
+;00006E42{`Rescue % men~00~}#017#014
+`Rescue % men~00~#014
+;00006E50{Rescue % man~00~}#016#013
+Rescue % man~00~#013
+;00006E5D{~9C~~BE~l~AD~}#013#004
+~9C~~BE~l~AD~#004
+|31
+@00006E8C-00006EB1-00
+;00006E8C{`Terminate % foes~00~}#021#018
+`Terminate % foes~00~#018
+;00006E9E{Terminate % foe~00~}#019#016
+Terminate % foe~00~#016
+;00006EAE{~A2~~B6~~EE~~AD~}#016#004
+~A2~~B6~~EE~~AD~#004
+|38
+@00006ECE-00006EE5-00
+;00006ECE{-Fetch % green gem%~00~}#023#020
+-Fetch % green gem%~00~#020
+;00006EE2{~A2~~EA~~EE~~AD~}#016#004
+~A2~~EA~~EE~~AD~#004
+|24
+@00006EEA-00006EFF-00
+;00006EEA{Fetch % blue gem%~00~}#021#018
+Fetch % blue gem%~00~#018
+;00006EFC{~9C~~BE~l~9C~}#013#004
+~9C~~BE~l~9C~#004
+|22
+@00006F95-00006FC4-00
+;00006F95{lL~FC~~EF~% foe% (Harmless)~00~}#031#022
+lL~FC~~EF~% foe% (Harmless)~00~#022
+;00006FAB{% foe% (Lethal)~00~}#019#016
+% foe% (Lethal)~00~#016
+;00006FBB{No foes~00~}#011#008
+No foes~00~#008
+;00006FC3{ ~D7~}#005#002
+ ~D7~#002
+|48
+@00007226-0000735D-00
+;00007226{m`_ _ _ _ _ _ _ _ _ _ _ _~00~}#029#026
+m`_ _ _ _ _ _ _ _ _ _ _ _~00~#026
+;00007240{B  C  D  F  G  H  J  K  L ~40~M  N~00~}#038#032
+B  C  D  F  G  H  J  K  L ~40~M  N~00~#032
+;00007260{P  Q  R  S  T  V ~40~W  X  Y  Z ~40~~7B~~00~}#044#032
+P  Q  R  S  T  V ~40~W  X  Y  Z ~40~~7B~~00~#032
+;00007280{~FF~Use arrows to move cursor~FF~~00~}#037#028
+~FF~Use arrows to move cursor~FF~~00~#028
+;0000729C{Y_B to choose letter~00~}#024#021
+Y_B to choose letter~00~#021
+;000072B1{X_A to erase letter~00~}#023#020
+X_A to erase letter~00~#020
+;000072C5{Press START to play~00~}#023#020
+Press START to play~00~#020
+;000072D9{~FF~Use mouse to move cursor~FF~~00~}#036#027
+~FF~Use mouse to move cursor~FF~~00~#027
+;000072F4{Left button to pick letter~00~}#030#027
+Left button to pick letter~00~#027
+;0000730F{Right button to play~00~}#024#021
+Right button to play~00~#021
+;00007324{Both buttons for main menu~00~}#030#027
+Both buttons for main menu~00~#027
+;0000733F{Press SELECT for main menu~00~}#030#027
+Press SELECT for main menu~00~#027
+;0000735A{~AE~~0C~m~BF~}#013#004
+~AE~~0C~m~BF~#004
+|312

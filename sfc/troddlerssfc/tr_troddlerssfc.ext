@@ -1,0 +1,254 @@
+;VWF WIDTHS
+@00007760-0000785F-FF
+;00007760{~00~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~03~~08~~00~~00~~00~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~05~~03~~03~~00~~00~~00~~00~~05~~05~~05~~00~~00~~00~~07~~05~~00~~07~~05~~07~~07~~07~~07~~07~~07~~07~~07~~05~~00~~00~~00~~00~~00~~04~~07~~07~~07~~07~~07~~07~~07~~07~~05~~07~~07~~07~~08~~07~~07~~07~~07~~07~~07~~07~~07~~07~~08~~07~~07~~07~~00~~00~~00~~00~~07~~01~~07~~07~~07~~07~~07~~07~~07~~07~~05~~07~~07~~05~~08~~07~~07~~07~~07~~07~~07~~07~~07~~07~~08~~08~~07~~07~~08~~08~~08~~00~~00~~00~~07~~10~~00~~10~~00~~10~~00~~10~~00~~10~~00~~10~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~03~~03~~00~~00~~00~~00~~00~~00~~05~~05~~00~~00~~00~~00~~02~~00~~06~~05~~06~~06~~06~~06~~06~~06~~06~~06~~03~~00~~00~~00~~00~~00~~00~~06~~06~~06~~06~~06~~06~~06~~06~~03~~06~~07~~06~~08~~07~~06~~06~~06~~06~~06~~07~~06~~07~~08~~07~~07~~07~~00~~00~~00~~00~~00~~00~~06~~06~~06~~06~~06~~06~~06~~06~~03~~06~~06~~03~~08~~06~~06~~06~~06~~06~~06~~05~~06~~07~~08~~07~~06~~07~~00~~00~~00~~00~~00~}#1024#256
+;00 - F1
+~00~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~03~~08~~00~~00~~00~
+;10 - F1
+~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~~08~
+;20 - F1
+~05~~03~~03~~07~~07~~00~~05~~05~~05~~05~~07~~07~~07~~07~~05~~00~
+;30 - F1
+~07~~05~~07~~07~~07~~07~~07~~07~~07~~07~~05~~00~~00~~00~~00~~00~
+;40 - F1
+~04~~07~~07~~07~~07~~07~~07~~07~~07~~05~~07~~07~~07~~08~~07~~07~
+;50 - F1
+~07~~07~~07~~07~~07~~07~~07~~08~~07~~07~~07~~00~~00~~00~~10~~10~
+;60 - F1
+~01~~07~~07~~07~~07~~07~~07~~07~~07~~05~~07~~07~~05~~08~~07~~07~
+;70 - F1
+~07~~07~~07~~07~~07~~07~~07~~08~~08~~07~~07~~08~~08~~08~~00~~00~
+;00 - F2
+~00~~07~~10~~00~~10~~00~~10~~00~~10~~00~~10~~00~~10~~00~~00~~00~
+;10 - F2
+~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~
+;20 - F2
+~03~~03~~03~~06~~06~~00~~04~~00~~05~~05~~06~~06~~06~~00~~02~~00~
+;30 - F2
+~06~~05~~06~~06~~06~~06~~06~~06~~06~~06~~03~~00~~00~~00~~00~~00~
+;40 - F2
+~00~~06~~06~~06~~06~~06~~06~~06~~06~~03~~06~~07~~06~~08~~07~~06~
+;50 - F2
+~06~~06~~06~~06~~07~~06~~07~~08~~07~~07~~07~~00~~00~~00~~00~~00~
+;60 - F2
+~00~~06~~06~~06~~06~~06~~06~~06~~06~~03~~06~~06~~03~~08~~06~~06~
+;70 - F2
+~06~~06~~06~~06~~05~~06~~07~~08~~07~~06~~07~~00~~00~~00~~00~~00~#256
+|256
+@00005D35-00005D64-00
+;00005D35{Play game~00~}#013#010
+Jugar\   ~00~#010
+;00005D3F{Choose mode~00~}#015#012
+Elegir modo~00~#012
+;00005D4B{Choose level~00~}#016#013
+Elegir nivel~00~#013
+;00005D58{Choose audio~00~}#016#013
+Elegir audio~00~#013
+|48
+@00005DC0-00005DE7-00
+;00005DC0{SOLO MODE~00~}#013#010
+MODO SOLO~00~#010
+;00005DCA{TEAM MODE~00~}#013#010
+EQUIPOS\ ~00~#010
+;00005DD4{WAR MODE~00~}#012#009
+GUERRA\ ~00~#009
+;00005DDD{TRAIN MODE~00~}#014#011
+ENTRENAR\ ~00~#011
+|40
+@00005FF1-00006020-00
+;00005FF1{Mission aborted~00~}#019#016
+Misión abortada~00~#016
+;00006001{Start fresh and have another go~00~}#035#032
+Empieza de cero y prueba otra\ ~00~#032
+|48
+@00006047-00006092-00
+;00006047{Too many men perished~00~}#025#022
+Demasiados fallecidos~00~#022
+;0000605D{Too many troddlers perished~00~}#031#028
+Demasiados troddlers mueren~00~#028
+;00006079{Take better care of them!~00~}#029#026
+¡Cuida mejor de ellos!\  ~00~#026
+|76
+@000060AE-000060DD-00
+;000060AE{Too few troddlers remaining~00~}#031#028
+Quedan muy pocos troddlers\~00~#028
+;000060CA{Make more red gems!~00~}#023#020
+¡Más gemas rojas!\ ~00~#020
+|48
+@000060F9-00006126-00
+;000060F9{Too many foes reached the exit~00~}#034#031
+Demasiados enemigos en salida\~00~#031
+;00006118{Show no mercy!~00~}#018#015
+¡Sin piedad!\ ~00~#015
+|46
+@00006142-00006169-00
+;00006142{You ran out of time~00~}#023#020
+Se acabó el tiempo\~00~#020
+;00006156{Be quicker next go!~00~}#023#020
+¡Sé más rápido!\   ~00~#020
+|40
+@000061AA-00006213-00
+;000061AA{You ran out of energy~00~}#025#022
+No te queda energía\ ~00~#022
+;000061C0{Player % ran out of energy~00~}#030#027
+Jugador % sin energía\    ~00~#027
+;000061DB{Both players ran out of energy~00~}#034#031
+Ambos jugadores sin energía\  ~00~#031
+;000061FA{Be more cautious next go!~00~}#029#026
+¡Más cuidado otra vez!\  ~00~#026
+|106
+@00006220-0000622E-00
+;00006220{Mission Failed~00~}#018#015
+Misión fallida~00~#015
+|15
+@00006273-00006291-00
+;00006273{Try Again            Main Menu~00~}#034#031
+Otra vez-            Menú Ppal~00~#031
+|31
+@0000629E-000062BC-00
+;0000629E{Next Mission         Main Menu~00~}#034#031
+Sigu. Misión         Menú Ppal~00~#031
+|31
+@000062E5-00006367-00
+;000062E5{Solo Mission           Main Menu~00~}#036#033
+Misión Solo-           Menú Ppal~00~#033
+;00006306{Team Mission           Main Menu~00~}#036#033
+Misi. Equipo           Menú Ppal~00~#033
+;00006327{War Mission           Main Menu~00~}#035#032
+Mis. Guerra           Menú Ppal~00~#032
+;00006347{Play Mission           Main Menu~00~}#036#033
+Jugar Misión           Menú Ppal~00~#033
+|131
+@000063F2-0000644B-00
+;000063F2{Congratulations!~00~}#020#017
+¡Felicidades!\  ~00~#017
+;00006403{With your help Hokus and Pokus~00~}#034#031
+Con tu ayuda Hokus y Pokus han~00~#031
+;00006422{have successfully completed~00~}#031#028
+completado con éxito su\   ~00~#028
+;0000643E{their mission~00~}#017#014
+misión\      ~00~#014
+|90
+@000064B1-00006501-00
+;000064B1{Congratulations Player %~00~}#028#025
+Felicidades Jugador %\  ~00~#025
+;000064CA{You have won the war!~00~}#025#022
+¡Ganaste la guerra!\ ~00~#022
+;000064E0{Player One won %~00~}#020#017
+Jugador 1 gana %~00~#017
+;000064F1{Player Two won %~00~}#020#017
+Jugador 2 gana %~00~#017
+|81
+@00006633-00006777-00
+;00006633{Created by ATOD Design~00~}#026#023
+Creado por ATOD Design~00~#023
+;0000664A{~81~ 1993 The Sales Curve Ltd~00~}#033#027
+~81~ 1993 The Sales Curve Ltd~00~#027
+;00006665{Licensed by Nintendo~00~}#024#021
+Licencia de Nintendo~00~#021
+;0000667A{Programming by John Croudy~00~}#030#027
+Programado por John Croudy~00~#027
+;00006695{Graphics by Dennis Gustafsson~00~}#033#030
+Gráficos de Dennis Gustafsson~00~#030
+;000066B3{Additional graphics by Rob Whitaker~00~}#039#036
+Gráficos adicionales Rob Whitaker\ ~00~#036
+;000066D7{Managed by Jim Loftus~00~}#025#022
+Gestión de Jim Loftus~00~#022
+;000066ED{and Rob Henderson~00~}#021#018
+y Rob Henderson\ ~00~#018
+;000066FF{Playtested by Michael Wolliston~00~}#035#032
+Probado por Michael Wolliston  ~00~#032
+;0000671F{Jim Loftus and Farid Boulahri~00~}#033#030
+Jim Loftus y Farid Boulahri\ ~00~#030
+;0000673D{Sound and music by Allister Brimble~00~}#039#036
+Sonido y música de Allister Brimble~00~#036
+;00006761{and Software Creations~00~}#026#023
+y Software Creations\ ~00~#023
+|325
+@00006C43-00006CFD-00
+;00006C43{Mission accomplished~00~}#024#021
+Misión completada\  ~00~#021
+;00006C58{Well done!~00~}#014#011
+¡Muy bien!~00~#011
+;00006C63{Well done Player One!~00~}#025#022
+¡Muy bien Jugador 1!\~00~#022
+;00006C79{Well done Player Two!~00~}#025#022
+¡Muy bien Jugador 2!\~00~#022
+;00006C8F{Player % leads % game% to %~00~}#031#028
+Jugador % dirige % jgo% a %~00~#028
+;00006CAB{Both players have won % game%~00~}#033#030
+Ambos jugadores han % ganado%~00~#030
+;00006CC9{Get ready for a new challenge~00~}#033#030
+Prepárate para un reto nuevo\~00~#030
+;00006CE7{Next level password: %~00~}#026#023
+Clave próximo nivel: %~00~#023
+|187
+@00006E06-00006E12-00
+;00006E06{Mission %: %~00~}#016#013
+Misión %: %\~00~#013
+|13
+@00006E43-00006E5C-00
+;00006E43{Rescue % men~00~}#016#013
+Salva % hmbs~00~#013
+;00006E50{Rescue % man~00~}#016#013
+Salva % hmbr~00~#013
+|26
+@00006E8D-00006EAD-00
+;00006E8D{Terminate % foes~00~}#020#017
+Elimina % enmgos~00~#017
+;00006E9E{Terminate % foe~00~}#019#016
+Elimina % enmgo~00~#016
+|33
+@00006EB6-00006EC6-00
+;00006EB6{Fetch % red gem%~00~}#020#017
+Trae % gema rja%~00~#017
+|17
+@00006ECF-00006EE1-00
+;00006ECF{Fetch % green gem%~00~}#022#019
+Trae % gema verde%~00~#019
+|19
+@00006EEA-00006EFB-00
+;00006EEA{Fetch % blue gem%~00~}#021#018
+Trae % gema azul%~00~#018
+|18
+@00006F63-00006F6E-00
+;00006F63{% men~00~}#009#006
+% hms~00~#006
+;00006F69{1 man~00~}#009#006
+1 hmb~00~#006
+|12
+@00006F99-00006FC2-00
+;00006F99{% foe% (Harmless)~00~}#021#018
+% enm% (Pacífico)~00~#018
+;00006FAB{% foe% (Lethal)~00~}#019#016
+% enm% (Letal)\~00~#016
+;00006FBB{No foes~00~}#011#008
+Solo\  ~00~#008
+|42
+@00007228-00007359-00
+;00007228{_ _ _ _ _ _ _ _ _ _ _ _~00~}#027#024
+_ _ _ _ _ _ _ _ _ _ _ _~00~#024
+;00007240{B  C  D  F  G  H  J  K  L ~40~M  N~00~}#038#032
+B  C  D  F  G  H  J  K  L ~40~M  N~00~#032
+;00007260{P  Q  R  S  T  V ~40~W  X  Y  Z ~40~~7B~~00~}#044#032
+P  Q  R  S  T  V ~40~W  X  Y  Z ~40~~7B~~00~#032
+;00007280{~FF~Use arrows to move cursor~FF~~00~}#037#028
+~FF~
+Mueve el cursor con pad\ ~FF~~00~#028
+;0000729C{Y_B to choose letter~00~}#024#021
+Y_B eligen letra\   ~00~#021
+;000072B1{X_A to erase letter~00~}#023#020
+X_A borran letra\  ~00~#020
+;000072C5{Press START to play~00~}#023#020
+START para jugar\  ~00~#020
+;000072D9{~FF~Use mouse to move cursor~FF~~00~}#036#027
+~FF~
+Ratón para mover cursor\~FF~~00~#027
+;000072F4{Left button to pick letter~00~}#030#027
+Botón izquierdo pone letra~00~#027
+;0000730F{Right button to play~00~}#024#021
+Botón derecho jugar\~00~#021
+;00007324{Both buttons for main menu~00~}#030#027
+Ambos botones menú ppal\  ~00~#027
+;0000733F{Press SELECT for main menu~00~}#030#027
+SELECT para menú principal~00~#027
+|306

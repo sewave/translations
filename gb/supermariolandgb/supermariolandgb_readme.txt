@@ -1,47 +1,34 @@
-Super Mario Land
-Traducción al Español v1.0 (30/06/2018)
-(C) 2018 Wave Translations
+Super Mario Land (Game Boy)
+TraducciÃ³n al EspaÃ±ol v2.0 (18/06/2023)
+(C) 2023 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducciÃ³n y hacking es completamente original.
+Si encuentras algÃºn fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
+V2.0:
+-Traducido tÃ­tulo
+-AÃ±adidos Â¡, Ã“, Ã‘, TI
+-Traducido BONUS GAME
+-Traducido THE END
+-Traducido 1UP
 
-1. Sobre Super Mario Land
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. Créditos del Parche
-
------------------
-1. Sobre Super Mario Land
------------------
-Adaptación del clásico a Game Boy.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducción y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche está en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Super Mario Land (W) (V1.1) [!].gb
-65.536 bytes
-CRC32: 2c27ec70
+Super Mario Land (World) (Rev A).gb
 MD5: b259feb41811c7e4e1dc200167985c84
 SHA1: 418203621b887caa090215d97e3f509b79affd3e
+CRC32: 2c27ec70
+65536 bytes
 
-----------------------
-5. Créditos del Parche
-----------------------
-Wave - Hacking y traducción
+--------
+CrÃ©ditos
+--------
+Wave - Hacking, traducciÃ³n y pruebas.
 
--- END OF README --
+-- FIN --

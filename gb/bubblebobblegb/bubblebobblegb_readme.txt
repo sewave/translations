@@ -1,12 +1,12 @@
-Bubble Bobble (Game Boy Color)
-Traducción al Español v1.0 (10/06/2019)
-(C) 2019 Traducciones Wave
+Bubble Bobble (Game Boy)
+TraducciÃ³n al EspaÃ±ol v1.0 (24/06/2023)
+(C) 2023 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducción y hacking es completamente original.
-Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
+Esta traducciÃ³n y hacking es completamente original.
+Si encuentras algÃºn fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
 ------------------------
@@ -14,15 +14,15 @@ Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Bubble Bobble (U) [C][!].gbc
-MD5: 4bc8467ed91a94ba23648706b551cef5
-SHA1: 6e3739c0538467c220750f2e8d474433692bac09
-CRC32: c1b22246
-1048576 bytes
+Bubble Bobble (USA, Europe).gb
+MD5: 11c49d405eef2174d9c14682204bb458
+SHA1: 569881bea21cf5fd542ff3dfc40e1626c6748ceb
+CRC32: d516841d
+131072 bytes
 
 --------
-Créditos
+CrÃ©ditos
 --------
-Wave - Hacking, traducción y pruebas.
+Wave - Hacking, traducciÃ³n y pruebas.
 
 -- FIN --

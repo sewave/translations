@@ -1,0 +1,279 @@
+;Chars table 80-8F
+@0007C0C1-0007C0E0-00
+;0007C0C1{?~00~}#005#002
+Ú~00~#002
+;0007C0C3{?~00~}#005#002
+¡~00~#002
+;0007C0C5{?~00~}#005#002
+¿~00~#002
+;0007C0C7{?~00~}#005#002
+á~00~#002
+;0007C0C9{?~00~}#005#002
+é~00~#002
+;0007C0CB{?~00~}#005#002
+í~00~#002
+;0007C0CD{?~00~}#005#002
+ñ~00~#002
+;0007C0CF{?~00~}#005#002
+ó~00~#002
+;0007C0D1{?~00~}#005#002
+ú~00~#002
+;0007C0D3{?~00~}#005#002
+?~00~#002
+;0007C0D5{?~00~}#005#002
+?~00~#002
+;0007C0D7{?~00~}#005#002
+?~00~#002
+;0007C0D9{?~00~}#005#002
+?~00~#002
+;0007C0DB{?~00~}#005#002
+?~00~#002
+;0007C0DD{?~00~}#005#002
+?~00~#002
+;0007C0DF{?~00~}#005#002
+?~00~#002
+|32
+@0004C4D7-0004C90F-00
+;0004C4D7{    Stars earned: ~08~~B3~~F4~~7E~~02~/24~00~}#045#027
+       Estrellas: ~08~~B3~~F4~~7E~~02~/24~00~#027
+;0004C4F2{Try getting all the stars!==            The End~00~}#051#048
+¡Recupera las estrellas!==
+              Fin\   ~00~#048
+;0004C522{ You are a super player!!==            The End~00~}#050#047
+¡¡Eres un súper jugador!!==
+              Fin\ ~00~#047
+;0004C551{     Additional Program:=        bennysnesdev~00~}#049#046
+     Programa Adicional:=
+        bennysnesdev~00~#046
+;0004C57F{  Initial Design Document,=    Additional Graphics:=         ChronoMoogle~00~}#077#074
+  Primer Documento Diseño,=
+    Gráficos Extra:=
+         ChronoMoogle\    ~00~#074
+;0004C5C9{      Total Score: ~08~~B3~~F4~~7E~~04~~00~}#043#025
+      Marca Total: ~08~~B3~~F4~~7E~~04~~00~#025
+;0004C5E2{          - Credits -~00~}#025#022
+           -Créditos-~00~#022
+;0004C5F8{       Special Thanks:=      Ghost Town Games= Nadia & trashfan, Bubbler~00~}#076#073
+       Muchas Gracias:=      Ghost Town Games= Nadia y trashfan, Bubbler~00~#073
+;0004C641{void80, Romfreak & PacMön=     Charlotte & Benjamin~00~}#058#052
+void80, Romfreak y PacMön=     Charlotte y Benjamin~00~#052
+;0004C675{Program, Game Engine & Tools,=  Graphics, Artwork & Maps,=   Music & Sound Effects:~00~}#087#084
+Programa, Motor y Útiles,=
+  Gráficos, Arte y Mapas,=
+   Música y Efectos:\          ~00~#084
+;0004C6C9{            Goldlocke~00~}#025#022
+            Goldlocke~00~#022
+;0004C6DF{It's only as a team that=you can truly succeed!~00~}#051#048
+¡Solo como equipo podréis=
+tener éxito!\        ~00~#048
+;0004C70F{Delete & New~00~}#016#013
+Delete & New~00~#013
+;0004C71C{Three Players~00~}#017#014
+3 Jugadores\ ~00~#014
+;0004C72A{Ready to serve!~00~}#019#016
+¡Para servirlo!~00~#016
+;0004C73A{Fetch it from the=oven, then add=some cheese.~00~}#049#046
+Sácalo del horno y añádele=
+algo de queso.\   ~00~#046
+;0004C768{Level failed!~00~}#017#014
+¡Nivel falla!~00~#014
+;0004C776{Next, put flour into a=pot on a stove to cook=noodles.~00~}#058#055
+Ahora harina en una olla en=
+un fogón para los fideos.\~00~#055
+;0004C7AD{New Highscore!~00~}#018#015
+New Highscore!~00~#015
+;0004C7BC{save & quit~00~}#015#012
+save & quit~00~#012
+;0004C7C8{Next stage~00~}#014#011
+Sig. etapa~00~#011
+;0004C7D3{Watch out, don't let it=overcook! Hurry up and=put it on a plate!~00~}#069#066
+¡Cuidado, no dejes que se=
+pase! ¡Date prisa y ponlo en=
+un plato!\~00~#066
+;0004C815{Total score: ~08~~B3~~F4~~7E~~03~~00~}#037#019
+Marca total: ~08~~B3~~F4~~7E~~03~~00~#019
+;0004C828{Highscore: ~08~~B3~~F4~~7E~~03~~00~}#035#017
+MarcaAlta: ~08~~B3~~F4~~7E~~03~~00~#017
+;0004C839{To attain the highest=scores, you need to gather=friends and work together.~00~}#079#076
+Para conseguir mejores=
+marcas, necesitas reunir=
+amigos y trabajar juntos.\ ~00~#076
+;0004C885{Pause!~00~}#010#007
+Pause!~00~#007
+;0004C88C{~40~2022 bennysnesdev/=          ChronoMoogle/=          Goldlocke~00~}#070#064
+~40~2022 bennysnesdev/=          ChronoMoogle/=          Goldlocke~00~#064
+;0004C8CC{One Player~00~}#014#011
+1 Jugador\~00~#011
+;0004C8D7{Welcome, younglings!=So you want to become=master chefs?~00~}#060#057
+¡Bienvenidos jóvenes!=
+¿Queréis ser maestros=
+cocineros?\ ~00~#057
+|1081
+@0004C910-0004CD13-00
+;0004C910{Now, deliver the finished=dish to the left to complete=the order and score points.~00~}#086#083
+Ahora, entrega el plato a la=
+izquierda para completar el=
+pedido y puntuar.\       ~00~#083
+;0004C963{and one for meeting=the gold score target.=Try getting them all!~00~}#068#065
+y una por llegar a la marca=
+de oro.=
+¡Intenta conseguir todas!\  ~00~#065
+;0004C9A4{That's it!=Happy cooking!~00~}#029#026
+¡Es todo!=
+¡Feliz cocina!\~00~#026
+;0004C9BE{Four Players~00~}#016#013
+4 Jugadores\~00~#013
+;0004C9CB{Back~00~}#008#005
+Back~00~#005
+;0004C9D0{Very good,=now have at it!~00~}#030#027
+Muy bien,=
+¡ahora adelante!~00~#027
+;0004C9EB{Level complete!~00~}#019#016
+¡Nivel acabado!~00~#016
+;0004C9FB{Next, put the cut salad=and lettuce onto a plate=by pressing A.~00~}#067#064
+Ahora, pon el tomate y la=
+lechuga cortados en un plato=
+con A.\ ~00~#064
+;0004CA3B{In case you mess up a recipe,=throw the sorry remains into=the trash to the lower right.~00~}#092#089
+Si haces mal una receta,=
+tira los tristes restos a la=
+basura de la derecha.\            ~00~#089
+;0004CA94{Time for a sandwich!=First, put some flour=on a plate.~00~}#058#055
+¡Hora de un sándwich!=
+Primero, pon harina en un=
+plato.~00~#055
+;0004CACB{To climb the mountain of=cooking excellence,=beat stages and earn stars!~00~}#076#073
+Para llegar a la élite=
+culinaria, ¡acabad las etapas=
+y ganad estrellas!\~00~#073
+;0004CB14{Two Players~00~}#015#012
+2 Jugadores~00~#012
+;0004CB20{New Game~00~}#012#009
+Empezar\~00~#009
+;0004CB29{Back to worldmap~00~}#020#017
+Volver al mapa\ ~00~#017
+;0004CB3A{Enter stage~00~}#015#012
+Enter stage~00~#012
+;0004CB46{You can earn up to 3 stars=per stage: One for beating it,=one for missing no orders,~00~}#088#085
+Puedes ganar 3 estrellas por=
+etapa: Una por acabar, una=
+por no perder pedidos\      ~00~#085
+;0004CB9B{That's the spirit! Now=complete those orders in=time to finish the stage!~00~}#077#074
+¡Ese es el espíritu!=
+¡Completa estos pedidos para=
+terminar la etapa!\    ~00~#074
+;0004CBE5{A salad has been ordered!=Grab a tomato from the=container by pressing A.~00~}#077#074
+¡Han pedido una ensalada!=
+Agarra un tomate del=
+contenedor pulsando A.\   ~00~#074
+;0004CC2F{back to map~00~}#015#012
+volver mapa~00~#012
+;0004CC3B{And if you're in a hurry,=press B to dash.~00~}#046#043
+Y si tienes prisa,=
+pulsa B para correr.\  ~00~#043
+;0004CC66{Good! Now repeat the same=with a lettuce from=the above container.~00~}#070#067
+¡Bien! Ahora repite lo mismo=
+con una lechuga de ese=
+contenedor.\  ~00~#067
+;0004CCA9{Now, place it onto a cutting=board below with A and=chop it with Y.~00~}#071#068
+Ahora, colócalo en la tabla de=
+cortar de abajo con A y=
+corta con Y.~00~#068
+;0004CCED{Restart stage~00~}#017#014
+Restart stage~00~#014
+;0004CCFB{Gold score target: ~08~~B3~~F4~~7E~~03~~00~}#043#025
+  Objetivo de oro: ~08~~B3~~F4~~7E~~03~~00~#025
+|1028
+@0004CD14-0004CE9A-00
+;0004CD14{Let's make some pasta!=First, put a tomato in a pot=on a stove and let it boil.~00~}#083#080
+¡Hagamos pasta! Primero, pon=
+un tomate en una olla al=
+fuego a hervir.\         ~00~#080
+;0004CD64{Very good! But don't forget=to wash the returned dirty=dishes in the sink!~00~}#078#075
+¡Muy bien! ¡Pero no olvides=
+lavar los platos devueltos en=
+el fregadero!\  ~00~#075
+;0004CDAF{Now, put the plate=into the oven and=let it bake.~00~}#053#050
+Ahora, pon la bandeja en=
+el horno a hornear.\    ~00~#050
+;0004CDE1{Continue~00~}#012#009
+Continue~00~#009
+;0004CDEA{Oh no, it's overcooked!=Empty the sorry remains into=the bin and try again.~00~}#079#076
+Oh no, ¡está recocido!=
+Vacía los tristes restos=
+en la basura y reintenta.\ ~00~#076
+;0004CE36{Press Start to save & continue!~00~}#035#032
+¡Start para salvar y continuar!~00~#032
+;0004CE56{Now put the noodles on the=plate with the sauce=and serve the pasta!~00~}#072#069
+¡Pon los fideos en el plato=
+con la salsa y sirve la pasta!\         ~00~#069
+|391
+@0004E0BE-0004E1C8-00
+;0004E0BE{Ze World!~00~}#013#010
+Ze Mundo!~00~#010
+;0004E0C8{   - Stage 8 -=  Volcano core~00~}#033#030
+   - Etapa 8 -= Núcleo volcán~00~#030
+;0004E0E6{Debug stage~00~}#015#012
+Etapa debug~00~#012
+;0004E0F2{    - Stage 1 -=  Grassy plains~00~}#035#032
+    - Stage 1 -=  Grassy plains~00~#032
+;0004E112{   - Stage 2 -=   Streetfood~00~}#032#029
+   - Stage 2 -=   Streetfood~00~#029
+;0004E12F{   - Stage 3 -=Round and round~00~}#034#031
+   - Etapa 3 -=Vuelta y vuelta~00~#031
+;0004E14E{   - Stage 4 -=Mind the rodents!~00~}#036#033
+   - Etapa 4 -=¡Alerta roedores!~00~#033
+;0004E16F{   - Stage 5 -=   Frozen lake~00~}#033#030
+   - Stage 5 -=   Frozen lake~00~#030
+;0004E18D{   - Stage 6 -=   Icy crevice~00~}#033#030
+   - Stage 6 -=   Icy crevice~00~#030
+;0004E1AB{   - Stage 7 -=   Lava lagoon~00~}#033#030
+   - Etapa 7 -=   Laguna Lava~00~#030
+|267
+@0007E520-0007E91F-00
+;0007E520{}#1024#1024
+;C7E520 => 20E5C7
+;0004C70F{Delete & New~00~}#016#013
+Borrar y Nueva\\
+;C7E530 => 30E5C7
+;0004C7BC{save & quit~00~}#015#012
+salvar y salir\\
+;C7E540 => 40E5C7
+;0004C885{Pause!~00~}#010#007
+¡Pausa!\\\\\\\\\
+;C7E550 => 50E5C7
+;0004C9CB{Back~00~}#008#005
+Atrás\\\\\\\\\\\
+;C7E560 => 60E5C7
+;0004E0F2{    - Stage 1 -=  Grassy plains~00~}#035#032
+    - Etapa 1 -= Llanuras Verdes~00~\\\\\\\\\\\\\\\
+;C7E590 => 90E5C7
+;0004E18D{   - Stage 6 -=   Icy crevice~00~}#033#030
+   - Etapa 6 -=  Grieta helada~00~\\\\\\\\\\\\\\\\\
+;C7E5C0 => C0E5C7
+;0004E112{   - Stage 2 -=   Streetfood~00~}#032#029
+   - Etapa 2 -=Comida callejera~00~\\\\\\\\\\\\\\\\
+;C7E5F0 => F0E5C7
+;0004E16F{   - Stage 5 -=   Frozen lake~00~}#033#030
+   - Etapa 5 -=  Lago Congelado~00~\\\\\\\\\\\\\\\\
+;C7E620 => 20E6C7
+;0004CB3A{Enter stage~00~}#015#012
+Entrar en la etapa~00~\\\\\\\\\\\\\
+;C7E640 => 40E6C7
+;0004CDE1{Continue~00~}#012#009
+Seguir\\\\\\\\\\
+;C7E650 => 50E6C7
+;0004CCED{Restart stage~00~}#017#014
+Reiniciar la etapa\\\\\\\\\\\\\\
+;C7E670 => 70E6C7
+;0004C7C8{Next stage~00~}#014#011
+Siguiente etapa\
+;C7E680 => 80E6C7
+;0004C7AD{New Highscore!~00~}#018#015
+¡Nueva Marca Alta!\\\\\\\\\\\\\\
+;C7E6A0 => A0E6C7
+;0004C9EB{Level complete!~00~}#019#016
+¡Nivel completado!\\\\\\\\\\\\\\
+;C7E6C0 => C0E6C7
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#1024
+|1024

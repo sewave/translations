@@ -1,0 +1,534 @@
+;VFW Widths
+@001A00B4-001A00B4-FF
+;001A00B4{~07~}#004#001
+~06~#001
+|1
+@001A02EB-001A02EB-FF
+;001A02EB{~07~}#004#001
+~04~#001
+|1
+@001A0437-001A0437-FF
+;001A0437{~07~}#004#001
+~06~#001
+|1
+@001A0458-001A0458-FF
+;001A0458{~08~}#004#001
+~06~#001
+|1
+@001A049A-001A049A-FF
+;001A049A{~07~}#004#001
+~03~#001
+|1
+@001A0767-001A0767-FF
+;001A0767{~07~}#004#001
+~06~#001
+|1
+@001A0788-001A0788-FF
+;001A0788{~07~}#004#001
+~06~#001
+|1
+@001A1866-001A1D3B-FF
+;001A1866{~C9~Bwahaha! Fool!==Since this is the first=time $we've $ever met$, I=thought I should make an=awe-inspiring entrance.^My name is Maruyama.==The Emperor has the=utmost confidence in me%=I'm one of his top=henchmen!^Here, let's see=if you can take my=Super Burning Fireball=ramming attack!~FF~}#292#286
+~C9~
+¡Juajuajua! ¡Tonto!==
+Como es la primera vez=
+que $nos vemos,$ pensé$=
+que debía hacer una=
+entrada inspiradora.^
+Me llamo Maruyama.==
+El Emperador tiene total=
+confianza en mí.=
+¡Soy uno de sus mejores=
+hombres!^
+Venga, ¡veamos si puedes=
+resistir mi ataque de=
+embestida Súper Bola de=
+Fuego!\  ~FF~#286
+;001A1984{~C9~Bwahaha! Surprise!==You probably thought=that you beat me last=time.^I was a little bit=unprepared back then...=^...but this time will be=different!^I don't know whose=concert hall this is,=but it will be your=graveyard!==Let's go!~FF~}#239#233
+~C9~
+¡Juajuajua! ¡Sorpresa!==
+Probablemente pensaste=
+que me habías vencido.^
+Estaba poco preparado=
+por entonces...=^
+...¡pero esta vez será=
+diferente!^
+No se de quien es este=
+salón de conciertos,=
+¡pero será tu tumba!===
+¡Vamos allá!\        ~FF~#233
+;001A1A6D{~C9~Who dares to trespass=in my hall!?^Hey, you're that scrap=puppet who escaped...^What in the world could=that good-for-nothing=bounty hunter be doing?^Well, it doesn't matter.==I will capture you and=claim the reward from=the Emperor myself.~FF~}#248#242
+~C9~
+¿¡Quién osa invadir mi=
+salón!?^
+Eh, eres esa marioneta=
+desechada que escapó...^
+¿Qué demonios estará=
+haciendo ese inútil=
+cazarrecompensas?^
+Bueno, no importa.==
+Te capturaré y=
+reclamaré la recompensa=
+del Emperador yo mismo.\                    ~FF~#242
+;001A1B5F{~CA~Hey, is that you, Headdy?==So you escaped and made=it back here, huh?^Hmm?=You have to leave now?==OK, then please allow me=to assist you from here=on out.^You can power up your=head by hitting any of=the items in my box.^~CA~Want to give it a try?=====      Uh-huh.     $$I'll pass.~C8~~10~Good.==Take some items from=this box and try to beat=the enemies that appear.^Since we'll keep going=until you run out of=energy, it's OK to take=as many items as you=want.^Alright then, start!~FF~}#492#477
+~CA~
+Eh, ¿eres tú, Headdy?==
+Así que te escapaste y=
+volviste, ¿eh?^
+¿Mmm?              =
+¿Ahora debes irte? ==
+Vale, entonces deja que=
+te asista a partir de=ahora.        ^
+Puedes mejorar tu=
+cabeza golpeando los=
+objetos de mi caja.^~CA~
+¿Quieres probar?=
+      ====
+      Ajá.        $$   Pasaré.~C8~~10~
+Bien.==
+Recoge algunos objetos=
+de la caja e intenta=
+vencer a los enemigos.^
+Como seguiremos hasta =
+que te quedes sin=
+energía, esta bien=
+recoger tantos objetos=
+como quieras.^
+Entonces, ¡empecemos!\~FF~#477
+|1238
+@001A1D3C-001A2170-FF
+;001A1D3C{~CA~Congratulations!==You beat them all!==Take this secret bonus=point as a present!^You've still got a way to=go, but you can figure=the rest$$out during your=adventure.==See you soon.~FF~}#189#183
+~CA~
+¡Felicidades!==
+¡Venciste a todos!==
+¡Ten este punto de bono=
+secreto de regalo!^
+Aún te queda mucho por=
+hacer, pero podrás=
+descubrir el resto$$=
+durante tu aventura.==
+Nos vemos.\       ~FF~#183
+;001A1DF3{~CA~Umm, that's too bad.==However, I'm sure that=you'll be able to master=this skill soon enough.^You've still got a way to=go, but you can figure=the rest$$out during your=adventure.==See you soon.~FF~}#202#196
+~CA~
+Mmm, es una lástima.==
+Sin embargo, seguro que=
+podrás dominar esta=
+habilidad pronto.^
+Aún te queda mucho=
+camino,=
+pero podrás descubrir el=
+resto $$durante tu=
+aventura.^
+Nos vemos pronto.\           ~FF~#196
+;001A1EB7{~CA~I see.==Well, you can try it out=during your adventure.==Take care.~FF~}#075#069
+~CA~
+Ya veo.==
+Bueno, puedes intentarlo=
+durante tu aventura.==
+Cuídate.\  ~FF~#069
+;001A1EFC{~CA~Give it a try?=====      Uh-huh.     $$I'll pass.~FF~}#057#051
+~CA~
+¿Intentarlo?=====      A-já.       $$   Pasaré.\ ~FF~#051
+;001A1F2F{~CA~Oh, it's Headdy!==So you actually managed=to escape!^WHAT?==Leaving already?==Alright, I'll help you out=too!^At first glance, it may=seem like certain places=are inaccessible, but if=you clamp on to me you=may be able to get there.^Then you will be able to=reach high places, pull=floating objects towards=yourself, and do other=things like that.^~CA~So what do you think?==Give it a try?===      'Course.    $Nope.~C8~~1C~Excellent!==The race will begin when=you start climbing.^If you can make the=climb, then great.==But if you fall, it's going=to be a long way down.^OK, let's go!~FF~}#593#578
+~CA~
+¡Oh, eres Headdy!==
+¡Así que realmente=
+pudiste escapar!^
+¿Qué?==
+¿Ya te marchas?==
+¡Vale, yo también te=ayudaré!^
+A primera vista, puede=
+parecer que ciertas=
+zonas son inaccesibles,=
+pero si te agarras a mí=
+podrías llegar allí.^
+Entonces podrás llegar a=
+sitios altos, atraer=
+objetos flotantes hacia=
+ti y hacer otras cosas=
+como esas.=                      ^~CA~
+¿Qué piensas?     ==
+¿Lo intentamos?===
+      Claro.$        Nop.~C8~~1C~
+¡Perfecto!==
+La carrera comenzará=
+cuando escales.^
+Si puedes hacer la=
+escalada, bien.==
+Pero si fallas, va a ser=
+un largo viaje hacia=
+abajo.^
+¡VALE, vamos!\          ~FF~#578
+|1077
+@001A2171-001A25CA-FF
+;001A2171{~CA~Not bad.==I will now follow you for=the rest of your life!^Here's a secret bonus=point!^If you see me during=your adventure, $be=sure to grab on to me!~FF~}#159#153
+~CA~
+Nada mal.==
+¡Te seguiré durante el=
+resto de tu vida!^
+¡Toma un punto de bono=
+secreto!^
+Si me ves durante tu=
+aventura, $¡asegúrate de=
+agarrarte a mí!\     ~FF~#153
+;001A220A{~CA~That's too bad.==But you'll get better=at it in time.^If you see me during=your adventure, $be=sure to grab on to me!~FF~}#125#119
+~CA~
+Es una lástima.==
+Pero mejorarás con el=
+tiempo.^
+Si me ves durante tu=
+aventura, $¡asegúrate de=
+agarrarte a mí!\        ~FF~#119
+;001A2281{~CA~Oh.==Well, don't forget to=latch on to me during=your adventure.~FF~}#072#066
+~CA~
+Oh.==
+Bueno, no olvides=
+sujetarte a mi durante=
+tu aventura.\     ~FF~#066
+;001A22C3{~CA~Give it a try?=====      'Course.    $Nope.~FF~}#051#045
+~CA~¿Intentarlo?=====      Claro.$$     Nop.\  ~FF~#045
+;001A22F0{Translated by M.I.J.E.T.~CA~Oh! It's Headdy, isn't it?==You got away, huh?^What's that?==You're going to the=Emperor's castle?^I see.==Then I'll lend you a hand=as well.^There are daunting=Key Masters at the end=of some areas.==I will show you their=weak points.^~CA~Do you want to practice?=====      Yes.           $No.~C8~~28~Very well, then I will=test your reflexes.^Quickly strike at the=place that I point to.==Go!~FF~}#425#410
+Traducción de M.I.J.E.T.~CA~
+¡Oh! Eres Headdy,=
+¿verdad?==
+¿Te escapaste, eh?^
+¿Qué dices?==
+¿Vas al castillo del=
+Emperador?^
+Ya veo.==
+Entonces te echaré una=
+mano también.^
+Hay intimidantes=
+Maestros de Llaves al=
+final de algunas zonas.==
+Te mostraré sus puntos=
+débiles. ^~CA~
+¿Quieres practicar?=====
+      Sí.            $  No.~C8~~28~
+Muy bien, entonces   =
+probaré tus reflejos.^
+Rápidamente golpea al=
+lugar al que apunto.==
+¡Vamos!~FF~#410
+;001A248A{~CA~Congratulations!==As a reward from me,=here is a secret bonus=point!=^I'll appear when your=opponent is$a Key Master,=so brace yourself for a=tough battle.~FF~}#163#157
+~CA~
+¡Felicidades!==
+Como recompensa mía,=
+¡ten un punto de bono=
+secreto!=^
+Apareceré cuando tu=
+oponente sea un=
+Maestro de Llaves,=
+prepárate para una=
+dura batalla.~FF~#157
+;001A2527{~CA~That's too bad.==The fact is, I'm trying my=best to point out these=targets!^I'll appear when your=opponent is$a Key Master,=so brace yourself for a=tough battle.~FF~}#170#164
+~CA~
+Es una lástima.==
+El hecho es que, ¡lo hago=
+lo mejor que puedo=
+apuntando!^
+Apareceré cuando tu=
+oponente sea un$=
+Maestro de Llaves,=
+prepárate para una=
+dura batalla.\~FF~#164
+|1114
+@001A25CB-001A2A7C-FF
+;001A25CB{~CA~I see.==Well then, I'll be seeing=you at the end of certain=stages.=Ciao!~FF~}#081#075
+~CA~
+Ya veo.==
+Bueno, nos veremos al=
+final de algunas escenas.=
+¡Ciao!\         ~FF~#075
+;001A2616{~CA~Give it a try?=====      Yes.           $No.~FF~}#052#046
+~CA~
+¿Intentarlo?=====
+      Sí.            $No.\ ~FF~#046
+;001A2644{~C9~Bwahaha!==Now you've really made=me angry!^The time has come to put=an end to your little=adventure.^What a pathetic hero,=to have your story end=backstage like this.^Let's begin the next=scene right now!==It's time for Dynamite=Maruyama's entrance!~FF~}#257#251
+~C9~
+¡Juajua!==
+¡Ahora si que me has=
+enfadado!^
+Ha llegado la hora de=
+poner fin a tu diminuta=
+aventura.^
+Que héroe más patético,=
+que termine tu historia=
+así entre bastidores.^
+¡Empecemos la siguiente=
+escena ya!==
+¡Es hora de la entrada=
+de Dynamite Maruyama!\ ~FF~#251
+;001A273F{~C9~Oh-hohoho!==You're a lively one,=aren't you...^But since you were=being such a show-off,=your story will end here.^I'll let you watch my=magnificent show=beneath$$this starry sky!~FF~}#187#181
+~C9~
+¡Oh-jojojo!==
+Eres muy animado,=no...^
+Pero como estabas=
+siendo un presumido,=
+tu historia acabará aquí.^
+¡Te dejaré ver mi=
+magnífico espectáculo=
+bajo este cielo=
+estrellado!$$\
+       ~FF~#181
+;001A27F4{~C9~Bwahaha!==Drat! Of all the places to=come$$across$$each other...^This tower is way too=tall, so even I find it=to be a little bit scary.^But I'm brave enough=to fight even in a place=like this!~FF~}#201#195
+~C9~
+¡Juajua!==
+¡Rayos! De todos los=
+lugares para=
+cruzarnos...^
+Esta torre es demasiado=
+alta, así que hasta a mí=
+me da un poco de miedo.^
+¡Pero soy valiente como=
+para luchar aunque sea=
+un lugar así!\  ~FF~#195
+;001A28B7{~C9~Well, well!==You must be the famous=Heppy that I've been=hearing about.^It seems that you are=collecting the wind-up=keys, but surely you=don't know how to use=them, do you?^Although it's pointless=unless you can remove=my key as well!~FF~}#243#237
+~C9~
+¡Vaya vaya!==
+Debes ser el famoso=
+Heppy del que he oído=
+hablar.^
+Parece que estás =
+recolectando las llaves=
+de cuerda, ¿pero seguro=
+que no sabes como=
+usarlas, verdad?^
+¡Aunque es inútil a no=
+ser que también puedas=
+sacar mi llave!\         ~FF~#237
+;001A29A4{~C9~You are Headdy, aren't=you.==We are very grateful=for your courageous=actions.^But unfortunately, this=is not the Emperor's=castle.^Please don't put all=those who escaped in=danger.^I implore you...==Please go away.~FF~}#223#217
+~C9~
+Eres Headdy, ¿verdad?===
+Estamos muy=
+agradecidos por tus=
+valientes acciones.^
+Por desgracia, este no=
+es el castillo del=
+Emperador.^
+Por favor no pongas en=
+peligro a los que=
+escaparon.^
+Te lo ruego...==
+Vete por favor.\  ~FF~#217
+|1202
+@001A2A7D-001A2F9B-FF
+;001A2A7D{~CA~Don't do it! It's a trick!==The castle really$$IS here!^We need to stop this=puppet somehow!~FF~}#100#094
+~CA~
+¡No lo hagas!=
+¡Es un truco!==
+¡El castillo está ahí!^
+¡Debemos parar a esa=
+marioneta como sea!~FF~#094
+;001A2ADB{~C9~Wh-What in the world!?==If it's come to this, then=I'll make you leave by=force!~FF~}#088#082
+~C9~
+¿¡Q-Qué demonios!?==
+Si hemos llegado a esto,=
+¡os haré iros por la=
+fuerza!\      ~FF~#082
+;001A2B2D{~CA~As you can see, the keys=were necessary to open=the entrance to the=castle.^I'm sorry if I appeared=to be using you.==Please be careful from=this point on!~FF~}#163#157
+~CA~
+Como puedes ver, las=
+llaves eran necesarias=
+para abrir la entrada al=
+castillo.^
+Siento si parecía que te=
+estaba usando.==
+¡Por favor ten cuidado=
+desde aquí!\~FF~#157
+;001A2BCA{~C9~You know about the=secret entrance to=the castle?==Who are you?=^Well, it doesn't matter=who you are... I cannot=allow you to pass!~FF~}#139#133
+~C9~
+¿Conoces la entrada=
+secreta al castillo?==
+¿Quién eres?^
+Bueno, no importa quien=
+seas...=
+¡No puedo dejarte=
+pasar!\                   ~FF~#133
+;001A2C4F{~C9~So you've finally arrived,=you worthless scrap=puppet.~FF~}#062#056
+~C9~
+Al fin has llegado,=
+inútil marioneta de=
+chatarra.\    ~FF~#056
+;001A2C87{~CA~Smiley!==Get ahold of yourself!^~C9~~C9~Fingy...?==As I suspected,=hypnotizing the Key=Masters was a failure.^~CA~~CA~Yup, they're already=starting to recover.=^Now listen to what I have=to say correctly this=time!==You are...^~C9~~C9~...the greatest puppet in=the world!==I already know that!~FF~}#301#277
+~CA~
+¡Smiley!==
+¡Vuelve en ti mismo! ^~C9~~C9~
+¿Fingy...?==
+Como sospeché,=
+hipnotizar a los=
+Maestros de Llaves falló.^~CA~~CA~
+Sí, ya se empiezan a=
+recuperar.  ^
+¡Ahora escucha bien lo=
+que debo decirte!=                  ==
+Tú eres...   ^~C9~~C9~
+...¡la mejor marioneta del=
+mundo!==
+¡Eso ya lo sé!\        ~FF~#277
+;001A2D9C{~C9~Wh-What?==This body...==That cool one wasn't me?=^It can't be!==I'm the greatest puppet=in the world...^~CA~~CA~Actually, that's who you=are supposed to be=AWARDED to.==You are a badge of=honor!^~C9~~C9~Huh?~FF~}#215#197
+~C9~¿Q-Qué?==
+Este cuerpo...==
+¿Ese tan genial no era=
+yo?^
+¡No puede ser!==
+Soy la mejor marioneta=
+del mundo...^~CA~~CA~
+En realidad, es a quien=
+te han de OTORGAR.==
+¡Eres una medalla de=
+honor!           ^~C9~~C9~
+¿Eh?~FF~#197
+;001A2E61{~CA~You didn't hear the=whole story and mistook=yourself to be the=greatest puppet in the=world.^~C9~~C9~S-So I'm not a puppet...?==Just a badge...?^~CA~~CA~And it is my duty to find=the greatest puppet to=present you to.^~C9~~C9~W-Well$$then where is he?!^~CA~~CA~He's right in front of=you, of course!==The puppet who just=saved the world!~FF~}#345#315
+~CA~
+No escuchaste toda la=
+historia y creíste ser la=
+mejor marioneta del=
+mundo.                  ^~C9~~C9~
+¿No soy una marioneta?==
+¿Solo una medalla? ^~CA~~CA~
+Y es mi deber encontrar=
+a la mejor marioneta=
+para presentártela.^~C9~~C9~
+Bueno, $$¡¿y dónde está?! ^~CA~~CA~
+Está justo delante tuyo,=
+claro!==
+¡La marioneta que acaba=
+de salvar al mundo!~FF~#315
+|1311
+@001A2F9C-001A34E0-FF
+;001A2F9C{~CA~Ah, it's Headdy.==I'd like to talk to you=for a second.^It's strange...==The local Key Master=was here just a moment=ago, but now he's gone.^Maybe he's about to go=somewhere?==Well, I get the impression=that it's$$to his$advantage=to do so.~FF~}#248#242
+~CA~
+Ah, eres Headdy.==
+Quiero hablar contigo un=
+segundo.^
+Es raro...==
+El Maestro de Llaves=
+local estaba hace un=
+momento, pero ya no=
+está.^
+¿Quizá vaya a algún=
+lugar?==
+Bueno, tengo la=
+impresión de que le$$ será=
+ventajoso hacerlo.\                  ~FF~#242
+;001A308E{~C9~Bwahaha!==Drat! Of all the places to=come$$across$$each other...^This tower is way too=tall, so even I find it=to be a little bit scary.^But I'm brave enough=to fight even in a place=like this!~FF~}#201#195
+~C9~
+¡Juajua!==
+¡Rayos! De todos los=
+lugares para=
+cruzarnos...^
+Esta torre es demasiado=
+alta, así que hasta a mí=
+me da un poco de miedo.^
+¡Pero soy valiente como=
+para luchar aunque sea=
+un lugar así!\  ~FF~#195
+;001A3151{~C9~Bwahaha!==Just what I expected of=the Emperor's castle!^To think that such an=awesome body as this=would be abandoned=in a garbage dump!^Well, since it would be=a pity for you to be=defeated so quickly,=I'll play with you for=a little while!~FF~}#249#243
+~C9~
+¡Juajuajua!=
+Justo lo que esperaba=
+del castillo del=
+Emperador.^
+¡Y pensar que un cuerpo=
+tan increíble estaba=
+abandonado en un=
+basurero!^
+Bueno, como sería una=
+pena para ti ser vencido=
+tan rápido,=
+¡jugaré contigo durante=
+un ratito!\             ~FF~#243
+;001A3244{~C9~Intruder discovered!^You did well to make it=this far...==...for a scrap puppet!=^But that's unfortunate=for you...^It is my honor to prevent=you from confronting=the Emperor!^It's the start of the=death race!==Destroy target!==Steady as she goes!~FF~}#255#249
+~C9~
+¡Intruso descubierto!^
+Lo hiciste bien para=
+llegar tan lejos...==
+...¡siendo basura!=^
+Pero es desafortunado=
+para ti...^
+¡Es mi honor evitar que=
+te enfrentes al=
+Emperador!^
+¡Es el inicio de una=
+carrera mortal!==
+¡Destruye al objetivo!==
+¡Allá vamos!\    ~FF~#249
+;001A333D{~C9~Mbwahahahahahahahaha=   hahahahahahahahaha=     hahahahahahahaha=       hahahahahahaha=         hahahahahaha=           hahahahaha!!!!!=^The day of reckoning has=finally arrived, my rival!^I could have finished you=off at any time$% $I$ was=just having a little fun=with you.^It looks like the last=boss in this game will=be Maruyama!^In the afterlife, you will=have all eternity to=regret ever crossing=paths with me!~FF~}#426#420
+~C9~
+¡¡¡¡¡Juajajajajajaja=
+   jajajajajajajajaja=
+     jajajajajajajaja=
+       jajajajajajaja=
+         jajajajajaja=
+           jajajajaja!!!!!=^
+¡El día de ajustar=
+cuentas finalmente llegó,=
+rival!^
+Podría haber terminado=
+contigo en cualquier=
+momento porque solo me=
+divertía.^
+¡Parece que el último=
+jefe de este juego será=
+Maruyama!^
+En la otra vida, ¡tendrás=
+toda la eternidad para=
+arrepentirte de haberte=
+cruzado conmigo!\      ~FF~#420
+|1349
+@001A34E1-001A383B-FF
+;001A34E1{~C9~Gwahaha!==That scene was a huge=success!^Regrettably, we haven't=prepared the next=scenario yet, but it'll be=even more spectacular...^...maybe something like=completely blowing up=the puppet world!!^Headdy, my boy... I'll=have you desperately=fighting for your life=again next time!==Gahaha!~FF~}#300#294
+~C9~
+¡Juajua!==
+¡Esa escena fue un gran=
+triunfo!^
+Lamentablemente, no=
+hemos preparado la=
+siguiente aún, pero será=
+aún más espectacular...^
+...¡¡¡quizá algo como=
+hacer volar todo el=
+mundo de marionetas!!!^
+Headdy, mi chico...=
+¡Te haré luchar=
+desesperadamente por=
+tu vida la siguiente vez!=
+¡Juajuajua!\ ~FF~#294
+;001A3607{~C9~Bwahahaha!==Did you really think that=you'd be safe from me=in the SKY?!^Even though I fell from=such a high place, it=didn't faze me one bit!=^Well, maybe I did cry=a little...^...but you'll be doing a lot=more than just crying=when I'm through with=you!^'Cause you're definitely=a weakling!^Come on!==I'm going to give you a=good thrashing and then=hurl you from this=fortress!~FF~}#387#381
+~C9~
+¡Juajuajua!==
+¡¿Realmente pensaste=
+que estarías a salvo de=
+mí en el CIELO?!^
+Aunque haya caído de un=
+lugar tan alto, ¡no me ha=
+cambiado ni un poco!=^
+Bueno, quizá lloré un=
+poquito... ^
+...¡pero tú vas a hacer=
+mucho más que llorar=
+cuando haya acabado=
+contigo!^
+¡Porque eres sin duda un=
+endeblucho!^
+¡Vamos!==
+¡Voy a darte una buena=
+paliza y entonces te=
+arrojaré de esta=
+fortaleza!\      ~FF~#381
+;001A3784{~C9~Baabuuuuuu!==Who's making a ruckus=in my sky fortress!?^Oh...?==Big brother, could you be=the puppet who escaped?^I know!==If you'll play with me,=I'll pretend that I didn't=see you!~FF~}#190#184
+~C9~
+¡Baabuuu!==
+¿¡Quién monta escándalo=
+en mi fortaleza=
+celestial!?^
+¿Oh...?==
+Hermano mayor, ¿podría=
+ser la marioneta que=
+escapó?^
+¡Ya sé!==
+Si juegas conmigo,=
+¡pretenderé no haberte=
+visto!\~FF~#184
+|859

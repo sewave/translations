@@ -1,0 +1,1428 @@
+@00002814-000028B4-00
+;00000000{ FILMOA~00~}#011#008
+ FILMOA~00~#008
+;00000008{~01~~02~~02~~02~BLOODPOOL~00~}#029#014
+~01~~02~~02~~02~BLOODPOOL~00~#014
+;00000016{~01~~02~~02~~02~~02~~02~~02~~02~CASANDRA~00~}#044#017
+~01~~02~~02~~02~~02~~02~~02~~02~CASANDRA~00~#017
+;00000027{~01~~01~~02~~02~~02~~02~  AITOS~00~}#035#014
+~01~~01~~02~~02~~02~~02~  AITOS~00~#014
+;00000035{~01~~01~~01~~02~~02~~02~~02~ MARANA~00~}#039#015
+~01~~01~~01~~02~~02~~02~~02~ MARANA~00~#015
+;00000044{~01~~01~~01~~02~~02~~02~~02~~02~NORTHWALL~00~}#045#018
+~01~~01~~01~~02~~02~~02~~02~~02~NORTHWALL~00~#018
+;00000056{~01~~01~~01~~01~~02~~02~~02~~02~DEATH HEIM~00~}#046#019
+~01~~01~~01~~01~~02~~02~~02~~02~DEATH HEIM~00~#019
+;00000069{~03~~01~~01~~01~~01~~01~~01~~01~ñ~A8~~91~~A8~~97~~A8~ACT 1~00~}#062#020
+~03~~01~~01~~01~~01~~01~~01~~01~ñ~A8~~91~~A8~~97~~A8~ACTO1~00~#020
+;0000007D{ACT 2~00~}#009#006
+ACTO2~00~#006
+;00000083{~00~}#004#001
+~00~#001
+;00000084{CLEAR~3E~~00~}#013#007
+¡FIN~3E~ ~00~#007
+;0000008B{READY~00~}#009#006
+LISTO~00~#006
+;00000091{TIME UP~3E~~00~}#015#009
+¡TIEMPO~3E~~00~#009
+;0000009A{PAUSE~3E~~00~}#013#007
+PAUSA ~00~#007
+|161
+@0000ED34-0000ED4C-FF
+;00000000{ Please enter God's name.}#025#025
+ Entre el nombre de Dios.#025
+|25
+@0000EE18-0000EE6A-FF
+;00000000{Lord ~06~, until your=level is at least ~08~~02~~00~~FE~~ED~,=it is too dangerous to go=to this area.}#101#083
+Señor ~06~, hasta que=su nivel sea al menos ~08~~02~~00~~FE~~ED~,=es muy peligroso ir a esta=zona.   #083
+|83
+@0000EE93-0000EEFD-00
+;00000000{Fire        = Magic      ~00~}#029#026
+Magia de    = Fuego      ~00~#026
+;0000001A{~26~Shooting    = Star Magic ~00~}#036#027
+~26~Magia de    = Estrellas  ~00~#027
+;00000035{~27~Aura        = Magic      ~00~}#036#027
+~27~Magia de    = Aura       ~00~#027
+;00000050{[Light       = Magic      ~00~}#033#027
+[Magia de    = Luz        ~00~#027
+|107
+@0000EF29-0000F092-00
+;00000000{Source of   = Life       ~00~}#029#026
+Fuente de   = la Vida    ~00~#026
+;0000001A{~07~~3A~Source of   = Magic      ~00~}#040#028
+~07~~3A~Fuente de la= Magia      ~00~#028
+;00000036{~07~~3B~Scrap of    = Bread      ~00~}#040#028
+~07~~3B~Trozo de    = Pan        ~00~#028
+;00000052{~01~>Rice        =            ~00~}#037#028
+~01~>
+Arroz       =            ~00~#028
+;0000006E{~05~<Medicine    =            ~00~}#037#028
+~05~<
+Medicina    =            ~00~#028
+;0000008A{~04~~3E~Bridge      = Technology ~00~}#040#028
+~04~~3E~
+Tecnología  = de Puentes ~00~#028
+;000000A6{~04~?Wonderful   = Music      ~00~}#037#028
+~04~?Música      = Maravillosa~00~#028
+;000000C2{~04~~40~Dragon      = Egg        ~00~}#040#028
+~04~~40~Huevo de    = Dragón     ~00~#028
+;000000DE{~05~AAncient     = Tablet     ~00~}#037#028
+~05~A
+Tableta     = Antigua    ~00~#028
+;000000FA{~05~BSkull of    = Destruction~00~}#037#028
+~05~B
+Cráneo de   = Destrucción~00~#028
+;00000116{~05~CSheepskin   =            ~00~}#037#028
+~05~C
+Piel de     = Oveja      ~00~#028
+;00000132{~04~DWonderful   = Dog        ~00~}#037#028
+~04~D
+Perro       = Maravilloso~00~#028
+;0000014E{~04~EFertilizer  =            ~00~}#037#028
+~04~E
+Fertilizante=            ~00~#028
+|362
+@0000F144-0000F183-00
+;00000000{Shining     = Sphere     ~00~}#032#026
+Esfera      = Brillante  ~00~#026
+;0000001A{~04~GCompass     =            ~00~}#037#028
+~04~G
+Brújula     =            ~00~#028
+;00000036{~04~HAngel  ~00~}#016#010
+~04~H
+Ángel  ~00~#010
+|64
+@0000F1BD-0000F1D6-00
+;00000000{Angel       = Power      ~00~}#032#026
+Poder de    = Ángel      ~00~#026
+|26
+@0000F1E6-0000F22E-00
+;00000000{Fillmore~00~}#012#009
+Fillmore~00~#009
+;00000009{Bloodpool~00~}#013#010
+Bloodpool~00~#010
+;00000013{Cassandra~00~}#013#010
+Cassandra~00~#010
+;0000001D{Aitos~00~}#009#006
+Aitos~00~#006
+;00000023{Marana~00~}#010#007
+Marana~00~#007
+;0000002A{Northwall~00~}#013#010
+Northwall~00~#010
+;00000034{Deathheim~00~}#013#010
+Deathheim~00~#010
+;0000003E{orth~00~}#008#005
+orte~00~#005
+;00000043{´East~00~}#012#006
+´Este~00~#006
+|73
+@0000F278-0000F290-00
+;00000000{North~00~}#009#006
+Norte~00~#006
+;00000006{´East~00~}#012#006
+´Este~00~#006
+;0000000C{-South~00~}#010#007
+-Sur  ~00~#007
+;00000013{/West~00~}#009#006
+/Oste~00~#006
+|25
+@0000F29F-0000F577-00
+;00000000{Make an     = Announcement~00~}#033#027
+Hacer un    = Anuncio     ~00~#027
+;0000001B{Listen to   = the People ~00~}#032#026
+Escuchar a  = la Gente   ~00~#026
+;00000035{Accept an   = Offering   ~00~}#032#026
+Aceptar una = Ofrenda    ~00~#026
+;0000004F{Move        =            ~00~}#032#026
+Mover       =            ~00~#026
+;00000069{Move Heaven =            ~00~}#032#026
+Mover Cielo =            ~00~#026
+;00000083{Observe the = People     ~00~}#032#026
+Observar a  = la Gente   ~00~#026
+;0000009D{Battle      =            ~00~}#032#026
+Batalla     =            ~00~#026
+;000000B7{Fight       = Monsters   ~00~}#032#026
+Pelear con  = Monstruos  ~00~#026
+;000000D1{Choose      = Magic      ~00~}#032#026
+Elegir      = Magia      ~00~#026
+;000000EB{Status      =            ~00~}#032#026
+Estado      =            ~00~#026
+;00000105{Status of   = the Father ~00~}#032#026
+Estado      = del Padre  ~00~#026
+;0000011F{Status of   = your Cities~00~}#032#026
+Estado de   = Ciudades   ~00~#026
+;00000139{Other       =            ~00~}#032#026
+Otros       =            ~00~#026
+;00000153{Record of   = the World  ~00~}#032#026
+Guardado    = del Mundo  ~00~#026
+;0000016D{Text Speed  =            ~00~}#032#026
+Velocidad   = del Texto  ~00~#026
+;00000187{Castle of   = Heaven     ~00~}#032#026
+Castillo    = del Cielo  ~00~#026
+;000001A1{Guide the   = People     ~00~}#032#026
+Guiar a la  = Gente      ~00~#026
+;000001BB{Town        = Direction  ~00~}#032#026
+Dirección   = de Ciudad  ~00~#026
+;000001D5{Listen to   = the People ~00~}#032#026
+Escuchar a  = la Gente   ~00~#026
+;000001EF{Miracles    =            ~00~}#032#026
+Milagros    =            ~00~#026
+;00000209{Lightning   =     Strike ~00~}#032#026
+Relámpago   =            ~00~#026
+;00000223{Send the    = Rains      ~00~}#032#026
+Enviar la   = Lluvia     ~00~#026
+;0000023D{Brilliant   = Sunlight   ~00~}#032#026
+Brillante   = Luz Solar  ~00~#026
+;00000257{Stir up the = Winds      ~00~}#032#026
+Agitar los  = Vientos    ~00~#026
+;00000271{Cause an    = Earthquake ~00~}#032#026
+Causar un   = Terremoto  ~00~#026
+;0000028B{Offerings   =            ~00~}#032#026
+Ofrendas    =            ~00~#026
+;000002A5{Accept an   = Offering   ~00~}#032#026
+Aceptar una = Ofrenda    ~00~#026
+;000002BF{Use an      = Item       ~00~}#032#026
+Usar un     = Objeto     ~00~#026
+|729
+@0000F58F-0000FA1B-00-01
+;0000F58F{Yes===No~00~}#012#009
+Sí ===No~00~#009
+;0000F598{~05~Lord ~06~, there is=nobody in this area.~00~}#048#039
+~05~Señor ~06~, no hay=nadie en esta zona.\ ~00~#039
+;0000F5BF{~05~Lord ~06~,=you cannot descend to=earth here.^Let's move the Castle of=Heaven to a place where=it displays an area name=in the upper-right-hand=box.~00~}#155#146
+~05~Señor ~06~,=no puede descender aquí.^Movamos el Castillo del=Cielo donde se muestre=el nombre de una zona en=la ~2D~caja~2D~ a la derecha.\              ~00~#146
+;0000F651{Lord ~06~, I can't see=any signs of monsters in=this area.~00~}#062#056
+Señor ~06~, no veo=signos de monstruos=en esta zona.\     ~00~#056
+;0000F689{~05~Lord ~06~, you've=already defeated all the=monsters here. Only humans=live in this area now.~00~}#100#091
+~05~Señor ~06~, ya ha=vencido a todos los=monstruos aquí. Ahora solo=viven humanos en la zona.\ ~00~#091
+;0000F6E4{~05~Lord ~06~, if you=defeat the monsters here,=the humans will be able=to begin to live in this=area.^~01~}#107#098
+~05~Señor ~06~, si vence=a los monstruos, los=humanos podrán empezar a=vivir en la zona.^$             ~01~#098
+;0000F746{~05~Lord ~06~, if you=defeat the monsters here,=this area will no longer=tremble under the shadow=of evil.^~01~}#111#102
+~05~Señor ~06~, si vence a=los monstruos, esta zona=ya no temblará bajo la=sombra del mal.^$               ~01~#102
+;0000F7AC{~05~Come, it is time for the=final battle. Once you=win, the monsters will=vanish from the face of=the earth completely.^~01~}#125#119
+~05~Vamos, es hora de la=batalla final.=Cuando gane, los monstruos=desaparecerán de la faz de=la tierra completamente.^$ ~01~#119
+;0000F823{~05~Please be careful!~00~}#026#020
+~05~¡Tenga cuidado!   ~00~#020
+;0000F837{~05~Lord ~06~, are you=ready?~01~}#033#024
+~05~Señor ~06~, ¿está=listo?$~01~#024
+;0000F84F{~05~I see, so you've changed=your mind.~00~}#043#037
+~05~Así que ha cambiado de=idea.\      ~00~#037
+;0000F874{~05~Lord ~06~, I don't=sense any monsters here.~00~}#051#042
+~05~Señor ~06~, no=siento monstruos aquí.\     ~00~#042
+;0000F89E{~05~Lord ~06~, which magic=will you take with you?~01~}#054#045
+~05~Señor ~06~, ¿qué magia=llevará con usted?$    ~01~#045
+;0000F8CB{~05~Lord ~06~, you don't=have any magic!~00~}#044#035
+~05~Señor ~06~, ¡no tiene=ninguna magia!~00~#035
+;0000F8EE{~05~I see, so you've changed=your mind.~00~}#043#037
+~05~Así que ha cambiado de=idea.\      ~00~#037
+;0000F913{~05~So you're going to take=the Fire Magic with you?^That magic shoots fire to=your right and left.=It takes 1 MP to cast.~00~}#126#120
+~05~¿Así que va a llevar la=Magia de Fuego consigo?^Esa magia dispara fuego a=izquierda y derecha.=Cuesta 1 PM de lanzar.\~00~#120
+;0000F98B{~05~So you're going to take=the Shooting Star Magic=with you?^That magic calls countless=falling stars to strike=the ground.=It takes 2 MP to cast.~00~}#151#145
+~05~¿Así que va a llevarse la=Magia de Estrellas con=usted?^Esta magia llama a=estrellas fugaces que=golpean el suelo.=Cuesta 2 PM de lanzar.\     ~00~#145
+|1165
+@0000FA1C-0000FDF2-00-01
+;0000FA1C{~05~So you're going to take=the Aura Magic with you?^That magic summons your=aura into a huge ball of=light which spins around.=It takes 3 MP to cast.~00~}#154#148
+~05~¿Así que va a llevar la=Magia de Aura consigo?^Esa magia invoca su=aura en una gran bola de=luz que da vueltas.=Cuesta 3 PM de lanzar.\           ~00~#148
+;0000FAB0{~05~So you're going to take=the Light Magic with you?^That magic summons a=pillar of light from the=Castle of Heaven to burn=all nearby monsters.^It takes 4 MP to cast.~00~}#172#166
+~05~¿Así que va a llevar la=Magia de Luz consigo?^Esa magia invoca un=pilar de luz desde el=Castillo del Cielo para=quemar a los monstruos.\                            ~00~#166
+;0000FB56{~05~Lord ~06~, what item=will you use?~01~}#042#033
+~05~Señor ~06~, ¿qué=objeto usará?$   ~01~#033
+;0000FB77{~05~Lord ~06~, you're not=carrying anything!~00~}#048#039
+~05~Señor ~06~, ¡no lleva=nada encima!\     ~00~#039
+;0000FB9E{~05~Your magic has changed!~00~}#031#025
+~05~¡Su magia ha cambiado!\~00~#025
+;0000FBB7{~05~Lord ~06~,=what text speed is best?~01~}#043#034
+~05~Señor ~06~,=¿velocidad del texto?$ ~01~#034
+;0000FBD9{ ~1F~ ~01~}#010#004
+ ~1F~ ~01~#004
+;0000FBDD{~12~~0C~ 01234567==Fast~1D~~1C~Slow~01~}#039#024
+~12~~0C~ 01234567==Ráp.~1D~~1C~Len.~01~#024
+;0000FBF5{~05~Like this?~00~}#018#012
+~05~¿Así?\    ~00~#012
+;0000FC01{~05~So, you've changed your=mind.~00~}#037#031
+~05~Así que ha cambiado de=idea.\~00~#031
+;0000FC20{~05~~05~This year there are no=offerings for you, Father.~00~}#061#052
+~05~~05~Este año no hay ofrendas=para vos, Padre.\       ~00~#052
+;0000FC54{~05~This year, these are the=only offerings that we=can present to you,=Father.=Which will you accept?~01~}#106#100
+~05~Este año, estas son las=únicas ofrendas que=podemos ofrecerle, Padre.=¿Cuál acepta?$              ~01~#100
+;0000FCB8{~05~You are carrying too=much, so you cannot take=anything more.~00~}#068#062
+~05~Esta cargando demasiado,=así que no puede coger=nada más.   ~00~#062
+;0000FCF6{~05~Will you accept anything=else?~01~}#038#032
+~05~¿Aceptaría algo más?$         ~01~#032
+;0000FD16{~05~Lord ~06~, it doesn't=seem as if anyone's=here...~00~}#057#048
+~05~Señor ~06~, no parece=que haya nadie aquí...\    ~00~#048
+;0000FD46{=That is all we have to=offer this year. Thank you=very much for accepting=our offerings.~00~}#093#090
+=Eso es todo lo que tenemos=para ofrecer este año.=Gracias por aceptar las=ofrendas.\    ~00~#090
+;0000FDA0{=So, you've changed your=mind.~00~}#034#031
+=Así que ha cambiado de=idea.\~00~#031
+;0000FDBF{~04~~08~Town Under Construction~00~}#035#026
+~04~~08~ Ciudad en Construcción~00~#026
+;0000FDD9{~04~~08~Sealing Monsters' Lair ~00~}#035#026
+~04~~08~  Sellando la Guarida\ ~00~#026
+|983
+@00010E11-00010E15-00
+;00000000{S~04~P~04~~00~}#014#005
+P~04~H~04~~00~#005
+|5
+@00012720-0001278B-00
+;00000000{           CONTINUE==              NEW GAME~00~}#053#044
+           CONTINUAR==              EMPEZAR~00~#044
+;0000002C{~1B~ START~00~}#014#008
+~1B~ NUEVA~00~#008
+;00000034{      ALL RIGHTS RESERVED=  COPYRIGHT 1990 QUINTET/ENIX~00~}#062#056
+      DERECHOS RESERVADOS=  COPYRIGHT 1990 QUINTET/ENIX~00~#056
+|108
+@000127B3-000127BB-00
+;00000000{ SPECIAL~00~}#012#009
+ SPECIAL~00~#009
+|9
+@00013327-000137D6-00-01-03
+;00013327{El Dorado~00~}#013#010
+El Dorado~00~#010
+;00013331{Fillmore~00~}#012#009
+Fillmore~00~#009
+;0001333A{Bloodpool~00~}#013#010
+Bloodpool~00~#010
+;00013344{Cassandra~00~}#013#010
+Cassandra~00~#010
+;0001334E{Aitos~00~}#009#006
+Aitos~00~#006
+;00013354{Marana~00~}#010#007
+Marana~00~#007
+;0001335B{Northwall~00~}#013#010
+Northwall~00~#010
+;00013365{Blue~D0~Dragon~00~}#018#012
+Dragón~D0~Azul~00~#012
+;00013371{Napper~D0~Bat~00~}#017#011
+Murciélago~00~#011
+;0001337C{Red~D0~Devil~00~}#016#010
+Demonio~D0~R~00~#010
+;00013386{Skullhead~00~}#013#010
+Cráneo\  ~00~#010
+;00013390{~05~It appears that there are=~09~~03~}#038#029
+~05~Parece que hay           =~09~~03~#029
+;000133AD{~06~~00~}#008#002
+~06~~00~#002
+;000133AF{ ~08~^~00~}#010#004
+ ~08~^~00~#004
+;000133B3{1~AD~s in this=Monster Lair.~00~}#032#026
+1~AD~ en esta=Guarida.\     ~00~#026
+;000133CD{~05~Lord ~06~, not a=single monster lives=in this Lair.^We must hurry and lead the=people here so they can=seal it!!~00~}#120#111
+~05~Señor ~06~, en=esta Guarida no hay=monstruos.^¡¡Debemos apresurarnos y=guiar a la gente para=sellarla!!\        ~00~#111
+;0001343C{~05~Lord ~06~!=It seems that ~08~/~03~}#038#026
+~05~¡Señor ~06~! =Parece que ~08~/~03~#026
+;00013456{~F1~~AC~'s=Civilization Level has=gone up.~00~}#046#037
+~F1~~AC~ ha=mejorado su Civilización.\    ~00~#037
+;0001347B{~00~}#004#001
+~00~#001
+;0001347C{~05~Lord ~06~!=Just as I had hoped, your=Level has gone up!!^~01~}#065#056
+~05~¡Señor ~06~!=Justo como esperaba,=¡¡su Nivel ha subido!!^~01~#056
+;000134B4{Truly, this is cause for=congratulations!=Now, your Level is ~09~^~90~^,=and your HP has become ~09~^~92~^.^Also, Lord ~06~, the=next time your Level will=go up is when the Total=Population rises to=~09~~04~~96~^ people.~00~}#224#197
+¡Es un motivo de=felicitación!=Ahora su Nivel es ~09~^~90~^,=y sus PV aumentan a ~09~^~92~^.^También, Señor ~06~,=subirá de Nivel de nuevo=cuando la Población Total=ascienda hasta ~09~~04~~96~^=personas.\                ~00~#197
+;00013579{Truly, this is cause for=congratulations!!=Now your Level is ~09~^~90~^,=and your HP has become ~09~^~92~^.^Lord ~06~, I see that=you have regained your=full strength again!~00~}#177#159
+¡Es un motivo de=felicitación!=Ahora su Nivel es ~09~^~90~^,=y sus PV aumentan a ~09~^~92~^.^Señor ~06~, ¡veo que=ha recuperado su fuerza=por completo!\                     ~00~#159
+;00013618{~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears the people here in=~08~/~03~}#095#083
+~05~Señor ~06~, siento   =interrumpirle, pero parece=que la gente de aquí,           =~08~/~03~#083
+;0001366B{~F1~~AC~ have something=they wish to tell you.~00~}#050#041
+~F1~~AC~,=tiene algo que contarle.\           ~00~#041
+;00013694{~05~It seems that the people=have found something in=the Monster Lair!~00~}#074#068
+~05~¡Parece que la gente=encontró algo en la=Guarida de Monstruos!\   ~00~#068
+;000136D8{~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears that the humans=have found a Monster Lair.^However, they are stricken=with terror and will not=approach.^Perhaps we should lead=them to the Lair once the=population has increased a=little more?~00~}#264#255
+~05~Señor ~06~, siento=interrumpirle, pero parece=que los humanos han=encontrado una Guarida de=Monstruos.^Sin embargo, les ha=entrado el pánico y no se=acercarán.^¿Quizá deberíamos guiarles=a la Guarida cuando la=población haya aumentado=un poco más?\        ~00~#255
+|1200
+@000137D7-00013BF1-00-01-03
+;000137D7{~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears the humans have=found a Monster Lair.^Let us watch them for a=minute and see what=happens.~00~}#161#152
+~05~Señor ~06~, siento=interrumpirle, pero parece=que los humanos=encontraron una Guarida de= Monstruos.^Observémoslos un minuto=y veamos que sucede.\       ~00~#152
+;0001386F{~05~Lord ~06~! The humans=have masterfully sealed=the Monster Lair by=themselves!^~01~}#086#077
+~05~¡Señor ~06~!=¡Los humanos sellaron=magistralmente la Guarida=por sí mismos!^  ~01~#077
+;000138BC{~00~}#004#001
+~00~#001
+;000138BD{~05~Lord ~06~!=Let us return posthaste to=Heaven's Castle and=proceed to battle!!~00~}#085#076
+~05~¡Señor ~06~!=¡Volvamos rápido al=Castillo del Cielo y vamos=a la batalla!\   ~00~#076
+;00013909{~05~Lord ~06~!=The town of ~08~/~03~}#036#024
+~05~¡Señor ~06~!=La ciudad ~08~/~03~#024
+;00013921{~F1~~AC~=will be fine on their own=without us watching over=them.^Shall we proceed to=another area and fight=the monsters there?~00~}#132#123
+~F1~~AC~=estará bien por si misma=sin que les estemos=vigilando.^¿Deberíamos ir a otra zona=y luchar con los monstruos=de allí?\~00~#123
+;0001399C{~05~Lord ~06~!=The land of ~08~/~03~}#036#024
+~05~¡Señor ~06~!=La tierra ~08~/~03~#024
+;000139B4{~F1~~AC~ has=has finally become=habitable for humans.^~01~}#058#049
+~F1~~AC~ por=fin es habitable por los=humanos.^$      ~01~#049
+;000139E5{~05~We must now protect the=people and keep their=lives from being disrupted=by monsters.^Lord ~06~, I will go=wherever you command me,=so please direct me to=defeat monsters with my=Angel Arrows.^The thaumaturgic circles=dotting the land are=Monster Lairs.^If you lead the humans=toward these Lairs, they=will surely seal them off=forver.^When all of the Monster=Lairs are sealed, the lead=monster controlling this=area will appear, and once=you defeat it, ~08~/~03~}#467#455
+~05~Ahora debemos proteger a=la gente y mantener sus=vidas a salvo de los=monstruos.     ^Señor ~06~, iré donde=me mande, así que por=favor diríjame para vencer=monstruos con mis Flechas=de Ángel.^Los círculos del suelo son=Guaridas de Monstruos.^Si guía a los humanos=hacia estas Guaridas,=ellos las sellarán para=siempre.                ^Cuando todas las Guaridas=estén selladas, aparecerá=el monstruo jefe que      =controla esta zona, y   =cuando venza, ~08~/~03~#455
+;00013BAC{~F1~~AC~=will be free of monsters,^and become a land for the=humans alone.^~01~}#079#070
+~F1~~AC~=quedará sin monstruos,^y será tierra solo de=humanos.^$           ~01~#070
+|1051
+@00013BF2-00014022-00-01-03
+;00013BF2{~05~Well then, Lord ~06~,=let us work for the sake=of these dear little=humans.~00~}#083#074
+~05~Bueno, Señor ~06~,=trabajemos por el bien de=esos pequeños humanos.\       ~00~#074
+;00013C3C{~05~That lightning bolt=destroyed the large=boulder below the cliff.^From the rubble, we=discovered this Fire=Magic.^All magic was yours=originally, so we are=returning it to you.=Please take it.~00~}#199#193
+~05~Ese rayo destruyó un gran=peñasco debajo del=acantilado.^En los escombros=encontramos la Magia de=Fuego.^Toda la magia era suya=originalmente, así que se=la devolvemos.=Acéptela.\            ~00~#193
+;00013CFD{~05~All magic was yours=originally, so we are=returning it to you.=Please take it.~00~}#086#080
+~05~Toda la magia era suya=originalmente, así que se=la devolvemos.=Acéptela.\    ~00~#080
+;00013D4D{~05~Greetings, Holy Father.=This is a mysterious gem,=isn't it?^Just by looking at it,=I feel power surging=throughout my body.~00~}#131#125
+~05~Saludos, Santo Padre.=Esta es una gema=misteriosa, ¿verdad?^Solo mirándolo, siento un=gran poder creciendo=por mi cuerpo.\ ~00~#125
+;00013DCA{~05~Holy Father, this is the=source of your magic.=Please accept it.~00~}#072#066
+~05~Santo Padre, esta es la=fuente de su magia.=Por favor acéptela.\~00~#066
+;00013E0C{~05~Holy Father, please give=this bread to poor Teddy,=who's out there all alone.~00~}#085#079
+~05~Santo Padre, por favor de=este trozo de pan a Teddy,=que esta ahí fuera solo.~00~#079
+;00013E5B{~05~Holy Father, this crop is=called rice. It can feed=more people than wheat=can.^Please use this to turn=the fields of other hard-=working people into rice=paddies.~00~}#170#164
+~05~Santo Padre, este cultivo=se llama arroz.=Alimentará a más gente que=el trigo.^Por favor utilícelo para=transformar los campos de=otras personas en=arrozales.\   ~00~#164
+;00013EFF{~05~Holy Father, this is=called medicine.^If you boil it in water=and drink it, then it will=cure all sorts of plague=and disease.~00~}#134#128
+~05~Santo Padre, esto se llama=medicina.^Si la hierves en agua y la=bebes, curará todo tipo de=plagas y enfermedades.\            ~00~#128
+;00013F7F{~05~Holy Father, that is the=pride of Fillmore, the=technology to construct=bridges.^With this technology,=people can cross rivers=and build houses on the=other side.~00~}#170#164
+~05~Santo Padre, ese es el=orgullo de Fillmore, la=tecnología de construir=puentes.^Con esta tecnología, la=gente puede cruzar ríos y=construir casas al otro=lado.\  ~00~#164
+|1073
+@00014023-0001442E-00-01-03
+;00014023{~05~Holy Father, that is the=cultural phenomenon born=in Cassandra called music.^People that listen to=music are calmed, and=all thoughts of strife=and anger vanish.~00~}#169#163
+~05~Santo Padre, ese es el=fenómeno cultural nacido=en Cassandra llamado=música.^La gente que escucha=música se calma, y todos=los deseos de pelea e ira=desaparecen.~00~#163
+;000140C6{~05~According to the fortune=teller, this gem emits a=light that will destroy=a Monster Lair.~00~}#097#091
+~05~Según la adivina,=esta gema emite una luz=que destruirá una Guarida=de Monstruos.\       ~00~#091
+;00014121{~05~A description of a bird-=shaped island is written=on this tablet.^If you give this to the=people of an area  with=such an island, they might=be able to tell you=something.~00~}#179#173
+~05~En la tableta hay la=descripción de una isla=con forma de pájaro.^Si se la das a la gente de=una zona con una isla así,=quizá puedan decirte=alguna cosa sobre ella.\      ~00~#173
+;000141CE{~05~According to the fortune=teller, this gem emits a=light that will destroy=a Monster Lair.^Please use it on any=Monster Lair that we=cannot seal ourselves.~00~}#162#156
+~05~Según la adivina,=esta gema emite una luz=que destruirá una Guarida=de Monstruos.^Por favor úsela en una=Guarida que no podamos=sellar nosotros.\         ~00~#156
+;0001426A{~05~Holy Father, this is the=skin of a sheep.^If you make it into=clothing, the people that=wear it will be warm=enough to survive in any=climate, no matter how=cold.~00~}#170#164
+~05~Santo Padre, esta es una=piel de oveja.^Si haces ropa con ella, la=gente que la lleve estará=caliente como para=sobrevivir en cualquier=clima, por frío que sea.\ ~00~#164
+;0001430E{~05~If you hold this up in the=air, it will destroy all=the monsters flying about.~00~}#086#080
+~05~Si alza esto al aire,=destruirá a todos los=monstruos que vuelan=alrededor.\  ~00~#080
+;0001435E{~05~Holy Father, this is=called a compass.^This is a wonderful device=that will tell you the=direction you are=traveling, even when out=on the open seas.^With it, people will be=able to fish out on the=far seas.~00~}#215#209
+~05~Santo Padre, esto se=llama brújula.^Este es un aparato=maravilloso que te dice la=dirección en la que=viajas, hasta cuando estás=en mar abierto.^Con él, la gente podrá=pescar en los mares más=lejanos.\      ~00~#209
+|1036
+@0001442F-000148C5-00-01-03
+;0001442F{~05~This looks like an=Angel Bow.~00~}#037#031
+~05~Parece el Arco de un=Ángel.\ ~00~#031
+;0001444E{Nothing is written yet.~00~}#027#024
+No tiene nada escrito.\~00~#024
+;00014466{~05~Where will you use it?=Please indicate where=you want me to put it.~00~}#075#069
+~05~¿Dónde lo usara?=Por favor indique donde=quiere que lo ponga.\     ~00~#069
+;000144AB{~05~Lord ~06~, you have=gained an extra life=for the next time you=fight with the monsters!~00~}#095#086
+~05~Señor ~06~, ¡ha ganado=una vida extra para la=próxima vez que luche con=los monstruos!\~00~#086
+;00014501{~05~Lord ~06~, you have=gained an extra MP!!~00~}#048#039
+~05~Señor ~06~, ¡¡ha=ganado PM extra!!\     ~00~#039
+;00014528{~05~Lord ~06~, you're=going to give this to=the runaway Teddy, right?=Don't just throw it away=there.~00~}#105#096
+~05~Señor ~06~, ¿va a=darle esto a Teddy el=fugitivo, ¿verdad?=No lo tire por ahí.\                  ~00~#096
+;00014588{~05~I wonder what Teddy will=think once he sees the=bread his mother baked?~00~}#079#073
+~05~Me pregunto que pensará=Teddy cuando vea el trozo=de pan de su madre.\ ~00~#073
+;000145D1{Lord ~06~, when you=gave the rice to the=paddy, you gained another!~00~}#071#065
+Señor ~06~, cuando dio=el arroz al arrozal, ¡ganó=otro más!\       ~00~#065
+;00014612{~05~Lord ~06~, there's no=point in using the rice=anywhere but a field.~00~}#075#066
+~05~Señor ~06~, no tiene=sentido usar el arroz si=no es en un arrozal.\~00~#066
+;00014654{~05~Nothing is written yet.~00~}#031#025
+~05~No tiene nada escrito.\~00~#025
+;0001466D{~05~Lord ~06~, this area=is not stricken with=any plagues.~00~}#062#053
+~05~Señor ~06~, esta zona=no está afectada con=plagas.\   ~00~#053
+;000146A2{~05~Now, the people of this=land will no longer become=infected with plague.~00~}#080#074
+~05~Ahora, la gente de esta=tierra ya no se infectará=con la plaga.\        ~00~#074
+;000146EC{~05~Lord ~06~, there are=no rivers in this land.~00~}#052#043
+~05~Señor ~06~, no hay=ríos en esta tierra.\    ~00~#043
+;00014717{~05~Lord ~06~, this land=already has the technology=to build bridges.~00~}#073#064
+~05~Señor ~06~, la tierra=ya tiene la=tecnología de crear=puentes.\  ~00~#064
+;00014757{~05~Lord ~06~, now this=land will be able to=build bridges.~00~}#063#054
+~05~Señor ~06~, ahora esta=tierra podrá construir=puentes.\~00~#054
+;0001478D{~05~Lord ~06~, I think=that this land will=be able to build=bridges later on.~00~}#081#072
+~05~Señor ~06~, creo que=esta tierra podrá=construir puentes más=adelante.\  ~00~#072
+;000147D5{~05~You can really sense the=feelings of the man who=wrote this song when you=listen to it.^But Lord ~06~, music=puts the hearts of the=people that hear it at=ease.^I think it would be better=if you gave it to people=who are distressed and=angry.~00~}#250#241
+~05~Puedes sentir los=sentimientos del hombre=que escribió la canción al=escucharla.^Pero Señor ~06~, la=música calma los corazones=de quien la escucha.^Pienso que sería mejor si=se lo diera a la gente que=esté angustiada y furiosa.\             ~00~#241
+|1175
+@000148C6-00014E81-00-01-03
+;000148C6{~05~You can really sense the=feelings of the man who=wrote this song when you=listen to it.^Lord ~06~, this should=put the people at ease,=and they will stop=fighting amongst each=other.~00~}#190#181
+~05~Puedes sentir los=sentimientos del hombre=que escribió la canción al=escucharla.^Señor ~06~, esto=debería calmar a la gente,=y pararán de luchar entre=ellos.\                        ~00~#181
+;0001497B{~05~~00~}#008#002
+~05~~00~#002
+;0001497D{~05~Lord ~06~, there isn't=any bird-shaped island=in this land...~00~}#069#060
+~05~Señor ~06~, no hay=isla con forma de pájaro=en esta tierra...~00~#060
+;000149B9{~05~There is indeed a bird-=shaped island in this=land. Let's see what=happens when we give the=people the tablet.~00~}#118#112
+~05~En efecto, aquí hay una=isla con forma de pájaro.=Veamos que pasa si le=damos a la gente la=tableta.\         ~00~#112
+;00014A29{~05~If you don't use this on=top of a Monster Lair,=you won't be able to seal=it.~00~}#085#079
+~05~Si no usa esto encima de=una Guarida de Monstruos,=no podrá sellarla.\       ~00~#079
+;00014A78{~05~Lord ~06~, the Monster=Lair has been sealed!!~00~}#053#044
+~05~Señor ~06~, ¡¡la=Guarida ha sido sellada!!\  ~00~#044
+;00014AA4{~05~Lord ~06~, are you=sure it's such a good=idea to use that there?^I think that you'd better=think a little bit more=carefully about it=first...~00~}#150#141
+~05~Señor ~06~, ¿está=seguro de que es una buena=idea usarlo aquí?^Creo que será mejor que lo=piense un poco más=detenidamente primero...\        ~00~#141
+;00014B31{~05~Now the people of=Northwall will be=able to live without=being frozen.~00~}#078#072
+~05~Ahora la gente de=Northwall será capaz de=vivir sin congelarse.\      ~00~#072
+;00014B79{~05~There's no point in giving=this to a land that isn't=really cold.~00~}#073#067
+~05~No tiene sentido darle=esto a una tierra donde no=hace frío.\    ~00~#067
+;00014BBC{~05~This land already has the=technology to make=compasses.~00~}#063#057
+~05~Esta tierra ya tiene la=tecnología de hacer=brújulas.\ ~00~#057
+;00014BF5{~05~Now this land will be able=to go on deep-sea fishing=expeditions.~00~}#073#067
+~05~Ahora esta tierra será=capaz de ir de pesca en=mar profundo.\    ~00~#067
+;00014C38{~05~There's no point in giving=this to a land that=doesn't fish in the ocean=already.~00~}#089#083
+~05~No tiene sentido darle=esto a una tierra que aún=no pesca en el océano.\         ~00~#083
+;00014C8B{~05~My Angel Arrows have=gotten more powerful.~00~}#050#044
+~05~Mis Flechas de Ángel=son mas poderosas.\  ~00~#044
+;00014CB7{~05~Are you awake, Lord=~06~?^I am the Angel who will=help you, now that you=have lost all of your=power.^The earth is in ruins,=and only monsters roam=the lands.^This is the work of the=Dark Lord Satan, who stole=all of your power, Lord=~06~.^In order for you to regain=your power, you will need=the faith and worship of=the people,^but first you will need to=descend to earth and fight=monsters so that you can=make the land habitable=for humans in the first=place.~00~}#471#459
+~05~¿Está despierto,=~06~?^
+Soy el Ángel que le=ayudará, ahora que ha=perdido todo su poder.^
+La tierra está en ruinas y=solo monstruos vagan en=ella.^
+Esto es obra del Señor=Oscuro Satanás, que robó=todo su poder, Señor=~06~.^
+Para poder recuperar su=poder, necesitará la fe y=adoración de la gente,^
+pero antes necesitará=descender a la tierra y=luchar contra los=monstruos para hacer que=la tierra sea habitable=para los humanos primero.\                               ~00~#459
+|1468
+@00014E82-000152BA-00-01-03
+;00014E82{~05~Welcome back, Lord=~06~. Are you well-=rested and feeling better?^Let's work together to=create a world for you,=my Lord, and the humans.~00~}#145#136
+~05~Bienvenido, Señor=~06~.=¿Está descansado y se=siente mejor?^Trabajemos juntos para=crear un mundo para vos,=mi Señor y los humanos.\     ~00~#136
+;00014F0A{~05~Now you will pick the name=of the Holy Father.^Press B to pick a letter=and Y button to cancel.=Once you are done, press=Start.~00~}#135#129
+~05~Ahora elegirá el nombre=del Santo Padre.^Pulse B para elegir letra=y el botón Y para cancelar.=Cuando termine, Start.\         ~00~#129
+;00014F8B{ter all that work the=people no longer really=need us.~03~}#058#055
+pués de todo el trabajo=la gente ya no nos=necesita.  ~03~#055
+;00014FC2{~03~}#004#001
+~03~#001
+;00014FC3{=Let's go and have a look=at each of the now-=developed towns.~03~}#066#063
+=Vayamos y echemos un=vistazo a cada ciudad=desarrollada.     ~03~#063
+;00015002{~03~}#004#001
+~03~#001
+;00015003{~03~}#004#001
+~03~#001
+;00015004{~03~}#004#001
+~03~#001
+;00015005{~03~}#004#001
+~03~#001
+;00015006{~03~}#004#001
+~03~#001
+;00015007{~01~}#004#001
+~01~#001
+;00015008{~05~~04~This is Fillmore.=The people settled in the=forest and built a large=city.~03~}#086#077
+~05~~04~Esto es Fillmore.=La gente se asentó en el=bosque y creó una gran=ciudad. ~03~#077
+;00015055{~03~}#004#001
+~03~#001
+;00015056{=This place had a man whose=visions foretold the=future, didn't it?=His ability saved Filmoa,=but killed him in the=process.~03~}#128#125
+=Este lugar tenía un hombre=cuyas visiones contaban=el futuro, ¿no?=Su habilidad salvó Filmoa,=pero le mató en el=proceso.  ~03~#125
+;000150D3{~03~}#004#001
+~03~#001
+;000150D4{=Though of course, with his=ability, he probably=already knew that he was=about to die...~03~}#093#090
+=Aunque por supuesto, con=su habilidad, quizá ya=sabía que estaba a punto=de morir...    ~03~#090
+;0001512E{~03~}#004#001
+~03~#001
+;0001512F{=Ever since birth, humans=are bound down by the=threads of fate.~03~}#068#065
+=Desde el nacimiento, están=ligados a los hilos del=destino.    ~03~#065
+;00015170{~03~}#004#001
+~03~#001
+;00015171{=Because they're blissfully=unaware of that fact, they=can live to the fullest=day by day.~03~}#094#091
+=Como son felizmente=desconocedores de ese=hecho, pueden vivir sus=vidas plenas día a día.~03~#091
+;000151CC{~03~}#004#001
+~03~#001
+;000151CD{=Don't you think that man=was a real shining example=of a human being and a=leader, knowing his fate=in advance, yet accepting=it?~03~}#134#131
+=¿No crees que ese hombre=era un gran ejemplo de=humano y líder, que sabía=su destino de antemano, y=aún y así lo aceptaba?       ~03~#131
+;00015250{~03~}#004#001
+~03~#001
+;00015251{~03~}#004#001
+~03~#001
+;00015252{~03~}#004#001
+~03~#001
+;00015253{~01~}#004#001
+~01~#001
+;00015254{~05~~04~This is Bloodpool, though=now that the lake is blue,=it seems kind of=inappropriate to call it=that.~03~}#112#103
+~05~~04~Esto es Bloodpool, aunque =ahora el lago es azul,=parece algo inapropiado=llamarle así.             ~03~#103
+|1081
+@000152BB-000156D7-00-01-03
+;000152BB{~03~}#004#001
+~03~#001
+;000152BC{=That boisterous young boy=Teddy lived here.~03~}#048#045
+=Aquel revoltoso joven,=Teddy, vivía aquí.  ~03~#045
+;000152E9{~03~}#004#001
+~03~#001
+;000152EA{=Though you and I are=supposed to treat all=humans equally,~03~}#063#060
+=Aunque vos y yo deberíamos=tratar a todo humano por=igual,~03~#060
+;00015326{~03~}#004#001
+~03~#001
+;00015327{=when a child stands out=like that, I kind of want=to give him special=attention.~03~}#085#082
+=cuando un chico despunta=de esa forma, quiero darle=a él una atención=especial. ~03~#082
+;00015379{~03~}#004#001
+~03~#001
+;0001537A{=Do you remember how the=people of Bloodpool drew=lots to decide who would=be the sacrifice?~03~}#096#093
+=¿Recuerda cómo la gente de=Bloodpool sorteaba para=decidir quien sería el=sacrificio?      ~03~#093
+;000153D7{~03~}#004#001
+~03~#001
+;000153D8{=Actually, I know something=about that lottery that=nobody else did.~03~}#072#069
+=En realidad, sé algo de=ese sorteo que nadie más=conoce.           ~03~#069
+;0001541D{~03~}#004#001
+~03~#001
+;0001541E{=I was watching, and saw=that Teddy deliberately=set up the lottery so that=he would be chosen as a=sacrifice...~03~}#116#113
+=Estaba observando y vi que=Teddy deliberadamente=amañó el sorteo para ser=elegido como el=sacrificio...        ~03~#113
+;0001548F{~03~}#004#001
+~03~#001
+;00015490{~03~}#004#001
+~03~#001
+;00015491{~03~}#004#001
+~03~#001
+;00015492{~01~}#004#001
+~01~#001
+;00015493{~05~~04~This is the desert town of=Cassandra.=Though there's not really=that much left in the way=of sands or wastes now.~03~}#125#116
+~05~~04~Esta es la ciudad desierto=de Cassandra.=Aunque ahora no queda=mucho en forma de arenas o=residuos.              ~03~#116
+;00015507{~03~}#004#001
+~03~#001
+;00015508{=The people of this town=said that they were=enthralled by the magic of=the pyramid here.~03~}#093#090
+=La gente de esta ciudad=dijo que eran cautivados=por la magia de la=pirámide.           ~03~#090
+;00015562{~03~}#004#001
+~03~#001
+;00015563{=What do you think of this=theory?~03~}#038#035
+=¿Qué piensas de esta=teoría?     ~03~#035
+;00015586{~03~}#004#001
+~03~#001
+;00015587{=The monsters that were in=the period were actually=humans--slaves forced to=build that huge tomb that=were reborn as monsters.~03~}#131#128
+=Los monstruos de la época=eran en realidad humanos =esclavizados forzados a  =construir la tumba donde=nacían como monstruos. ~03~#128
+;00015607{~03~}#004#001
+~03~#001
+;00015608{=The energy left behind=from their memories as=humans was what was=enthralling all the=people...~03~}#100#097
+=La energía dejada atrás de=sus memorias como humanos=fue lo que fascinaba a=toda la gente...   ~03~#097
+;00015669{~03~}#004#001
+~03~#001
+;0001566A{=Now that the pyramid is=sealed, their souls are=saved, and they will=probably be reborn as=humans once more.~03~}#113#110
+=Ahora que la pirámide está=sellada, sus almas están=salvadas, y seguramente=renacerán como humanos de=nuevo.~03~#110
+|1053
+@000156D8-00015B12-00-01-03
+;000156D8{~03~}#004#001
+~03~#001
+;000156D9{~03~}#004#001
+~03~#001
+;000156DA{~03~}#004#001
+~03~#001
+;000156DB{~01~}#004#001
+~01~#001
+;000156DC{~05~~04~This is Aitos, the city at=the foot of a volcano.~03~}#061#052
+~05~~04~Esto es Aitos, la ciudad=al pie de un volcán.    ~03~#052
+;00015710{~03~}#004#001
+~03~#001
+;00015711{=I was really moved by the=people who strived hard to=build houses despite the=constant downpour of lava.~03~}#109#106
+=Me conmovió la gente que=se esforzó tanto para=construir casas a pesar de=la constante lluvia de=lava.  ~03~#106
+;0001577B{~03~}#004#001
+~03~#001
+;0001577C{=One of the leaders here=died while working for=you, and I get the sense=he was giving his all to=let the people know that=you existed.~03~}#139#136
+=Uno de los líderes de aquí=murió mientras trabajaba=para vos, y creo que él lo=daba todo para hacer que=la gente supiera que=existe.  ~03~#136
+;00015804{~03~}#004#001
+~03~#001
+;00015805{=I hope that Aitos develops=into a wonderful, thriving=metropolis for his sake.~03~}#083#080
+=Espero que Aitos acabe=siendo una maravillosa=metrópolis por su bien.         ~03~#080
+;00015855{~03~}#004#001
+~03~#001
+;00015856{~03~}#004#001
+~03~#001
+;00015857{~03~}#004#001
+~03~#001
+;00015858{~01~}#004#001
+~01~#001
+;00015859{~05~~04~This is the jungle of=Marana. It's quite an=accomplishment for the=humans to have built this=many houses in such a=small area!~03~}#138#129
+~05~~04~Esta es la jungla de=Marana. ¡Es un logro para=los humanos haber=construido tantas casas en=una zona tan pequeña como=esta!   ~03~#129
+;000158DA{~03~}#004#001
+~03~#001
+;000158DB{=I was a bit disappointed=when the two leaders of=this town turned to that=evil religion,~03~}#093#090
+=Me decepcionó un poco=cuando los dos líderes se=volvieron de esa religión=maligna,      ~03~#090
+;00015935{~03~}#004#001
+~03~#001
+;00015936{=but when under extreme=duress, people often look=to find the easiest way=out...~03~}#084#081
+=pero bajo coacción=extrema, la gente a menudo=encuentra la salida más=fácil... ~03~#081
+;00015987{~03~}#004#001
+~03~#001
+;00015988{=After seeing the weak side=of humanity, it made me=feel a duty to guide them=to the right path even=more.~03~}#110#107
+=Al ver el lado débil de la=humanidad, me hizo sentir=el deber de guiarlos por  =el buen camino de nuevo. ~03~#107
+;000159F3{~03~}#004#001
+~03~#001
+;000159F4{~03~}#004#001
+~03~#001
+;000159F5{~03~}#004#001
+~03~#001
+;000159F6{~01~}#004#001
+~01~#001
+;000159F7{~05~~04~This is the Northwall, a=town at the far end of the=earth.~03~}#070#061
+~05~~04~Esto es Northwall, una=ciudad hacia el final de=la tierra.~03~#061
+;00015A34{~03~}#004#001
+~03~#001
+;00015A35{=I felt a little sorry=making people live in such=a harsh environment, but=they tamed the land quite=spectacularly in the end.~03~}#130#127
+=Me sentí culpable por =hacer a la gente vivir en=un entorno tan duro, pero=ellos dominaron la tierra=increíblemente al final.~03~#127
+;00015AB4{~03~}#004#001
+~03~#001
+;00015AB5{=When the leaders of this=town saw the initials=carved into the trunk of=the giant tree here,~03~}#097#094
+=Cuando los líderes de la=ciudad vieron las=iniciales grabadas en el=tronco del gran árbol,  ~03~#094
+|1083
+@00015B13-00015F23-00-01-03
+;00015B13{=they said that they were=struck by a nostalgic=feeling that they=`couldn't put into words.´~03~}#099#093
+=dijeron que les golpeó un=sentimiento nostálgico que=`no podían describir con=palabras´.   ~03~#093
+;00015B70{~03~}#004#001
+~03~#001
+;00015B71{=This is just my pet=theory, but I think that=in the ancient past,=those two were lovers that=lived in this area,~03~}#117#114
+=Esta es mi teoría=favorita, creo que en un=pasado antiguo, esos dos=fueron amantes que=vivieron en esta zona,   ~03~#114
+;00015BE3{=and after getting killed=by monsters, their souls=sought each other still,=and were reborn into the=bodies of those two=leaders.~03~}#133#130
+=y después de ser matados=por monstruos, sus almas=se buscaron, y renacieron=en los cuerpos de esos dos=líderes.                 ~03~#130
+;00015C65{~03~}#004#001
+~03~#001
+;00015C66{=If that's true, then it=means that the two lovers=transcended time to come=together again.~03~}#095#092
+=Si es cierto, eso=significa que los dos=amantes trascendieron el=tiempo para estar juntos.~03~#092
+;00015CC2{~03~}#004#001
+~03~#001
+;00015CC3{=Even though they don't=remember anything, I=think that's really=romantic.~03~}#078#075
+=Aunque no recuerdan nada,=creo que es muy romántico.=                    ~03~#075
+;00015D0E{~03~}#004#001
+~03~#001
+;00015D0F{=Looking back, you worked=really hard to get this=far, Lord ~06~, but=the humans worked even=harder than you did.~03~}#117#111
+=Mirando atrás, trabajó muy=duro para llegar tan=lejos, Señor ~06~,=pero los humanos han=trabajado aún más duro. ~03~#111
+;00015D7E{~03~}#004#001
+~03~#001
+;00015D7F{=Lord ~06~, shall we=have a look in the humans'=temple?~03~}#059#053
+=Señor ~06~,=¿deberíamos mirar en el=templo?           ~03~#053
+;00015DB4{~03~}#004#001
+~03~#001
+;00015DB5{~03~}#004#001
+~03~#001
+;00015DB6{~03~}#004#001
+~03~#001
+;00015DB7{~01~}#004#001
+~01~#001
+;00015DB8{~05~~04~~03~}#012#003
+~05~~04~~03~#003
+;00015DBB{.......~03~}#011#008
+.......~03~#008
+;00015DC3{~03~}#004#001
+~03~#001
+;00015DC4{=Nobody's here.~03~}#019#016
+=No hay nadie. ~03~#016
+;00015DD4{~03~}#004#001
+~03~#001
+;00015DD5{=Before there would always=be people here crying out=`Help me, God!´ or=somesuch, so it's quite a=change....~03~}#115#109
+=Antes siempre había aquí=gente llorando...=`¡Ayúdame Padre!´ o=similar, así que es un=gran cambio...       ~03~#109
+;00015E42{~03~}#004#001
+~03~#001
+;00015E43{=I suppose that the larger=the town becomes, the more=and more we become=forgotten...~03~}#089#086
+=Supongo que cuanto más    =crece la ciudad, nos=volvemos más y más=olvidados...     ~03~#086
+;00015E99{~03~}#004#001
+~03~#001
+;00015E9A{=But in a way I think=that's for the best.= I think that humans are=happiest when they no=longer need gods and have=forgotten about them.~03~}#141#138
+=Pero de alguna forma=pienso que es lo mejor.=Pienso que los humanos son=más felices cuando no=necesitan a los dioses y=los olvidan.     ~03~#138
+|1041
+@00015F24-00016335-00-01-03
+;00015F24{~03~}#004#001
+~03~#001
+;00015F25{=Lord ~06~, let us pray=that they will never need=us again!~03~}#063#057
+=Señor ~06~, ¡recemos=para que nunca más nos=necesiten!    ~03~#057
+;00015F5E{~03~}#004#001
+~03~#001
+;00015F5F{~03~}#004#001
+~03~#001
+;00015F60{~03~}#004#001
+~03~#001
+;00015F61{~03~}#004#001
+~03~#001
+;00015F62{~03~}#004#001
+~03~#001
+;00015F63{~03~}#004#001
+~03~#001
+;00015F64{~03~}#004#001
+~03~#001
+;00015F65{~03~}#004#001
+~03~#001
+;00015F66{~03~}#004#001
+~03~#001
+;00015F67{~01~}#004#001
+~01~#001
+;00015F68{~05~Lord ~06~, when you=defeated the last monster,=the island of the Dark=Lord Satan rose out of the=oceans to the northeast.^Satan must be lying in=wait in the bowels of=the earth, for the final=battle between God and=the Devil.^Let's go, Lord ~06~!=To Deathheim>l~FD~l~FD~l~FD~lMmzm~0C~n~5B~n~FF~n~7F~o~23~pvp!q~CE~q~6A~r~0E~s~0E~s~0E~s~5E~s/tNt~05~~04~~03~}#359#299
+~05~Señor ~06~, cuando=venció al último monstruo,=la isla del Señor Oscuro=Satán salió de los=océanos al noreste.            ^Satán debe estar esperando=en las entrañas de la=tierra para la batalla=final de Dios y el=Demonio.    ^¡Vamos, Señor ~06~! =¡A Deathheim>l~FD~l~FD~l~FD~lMmzm~0C~n~5B~n~FF~n~7F~o~23~pvp!q~CE~q~6A~r~0E~s~0E~s~0E~s~5E~s/tNt~05~~04~~03~#299
+;00016093{Lord ~06~, it's been=a long, hard road, but our=job is finally over.~03~}#072#066
+Señor ~06~, ha sido un=largo y difícil camino=pero hemos terminado. ~03~#066
+;000160D5{~03~}#004#001
+~03~#001
+;000160D6{=It's kind of too bad that=after all that work the=people no longer really=need us.~03~}#087#084
+=Es una lástima que después=de todo el trabajo la    =gente ya no nos necesite.=   ~03~#084
+;0001612A{~03~}#004#001
+~03~#001
+;0001612B{=Let's go and have a look=at each of the now-=developed towns.~03~}#066#063
+=Vayamos y echemos un=vistazo a cada ciudad=desarrollada.     ~03~#063
+;0001616A{~03~}#004#001
+~03~#001
+;0001616B{~03~}#004#001
+~03~#001
+;0001616C{~03~}#004#001
+~03~#001
+;0001616D{~03~}#004#001
+~03~#001
+;0001616E{~03~}#004#001
+~03~#001
+;0001616F{~01~}#004#001
+~01~#001
+;00016170{~05~~04~This is Fillmore.=The people settled in the=forest and built a large=city.~03~}#086#077
+~05~~04~Esto es Fillmore.=La gente se asentó en el=bosque y creó una gran=ciudad. ~03~#077
+;000161BD{~03~}#004#001
+~03~#001
+;000161BE{=This place had a man whose=visions foretold the=future, didn't it?=His ability saved=Fillmore, but killed him=in the process.~03~}#130#127
+=Este lugar tenía un hombre=cuyas visiones contaban=el futuro, ¿no?=Su habilidad salvó=Fillmore, pero le mató en=el proceso.  ~03~#127
+;0001623D{~03~}#004#001
+~03~#001
+;0001623E{=Though of course, with his=ability, he probably=already knew that he was=about to die...~03~}#093#090
+=Aunque por supuesto, con=su habilidad, quizá ya=sabía que estaba a punto=de morir...    ~03~#090
+;00016298{~03~}#004#001
+~03~#001
+;00016299{=Ever since birth, humans=are bound down by the=threads of fate.~03~}#068#065
+=Desde el nacimiento, están=ligados a los hilos del=destino.    ~03~#065
+;000162DA{~03~}#004#001
+~03~#001
+;000162DB{=Because they're blissfully=unaware of that fact, they=can live to the fullest=day by day.~03~}#094#091
+=Como son felizmente=desconocedores de ese=hecho, pueden vivir sus=vidas plenas día a día.~03~#091
+|1042
+@00016336-00016770-00-01-03
+;00016336{~03~}#004#001
+~03~#001
+;00016337{=Don't you think that man=was a real shining example=of a human being and a=leader, knowing his fate=in advance, yet accepting=it?~03~}#134#131
+=¿No crees que ese hombre=era un gran ejemplo de=humano y líder, que sabía=su destino de antemano, y=aún y así lo aceptaba?       ~03~#131
+;000163BA{~03~}#004#001
+~03~#001
+;000163BB{~03~}#004#001
+~03~#001
+;000163BC{~03~}#004#001
+~03~#001
+;000163BD{~01~}#004#001
+~01~#001
+;000163BE{~05~~04~This is Bloodpool, though=now that the lake is blue,=it seems kind of=inappropriate to call it=that.~03~}#112#103
+~05~~04~Esto es Bloodpool, aunque =ahora el lago es azul,=parece algo inapropiado=llamarle así.             ~03~#103
+;00016425{~03~}#004#001
+~03~#001
+;00016426{=That boisterous young boy=Teddy lived here.~03~}#048#045
+=Aquel revoltoso joven,=Teddy, vivía aquí.  ~03~#045
+;00016453{~03~}#004#001
+~03~#001
+;00016454{=Though you and I are=supposed to treat all=humans equally,~03~}#063#060
+=Aunque vos y yo deberíamos=tratar a todo humano por=igual,~03~#060
+;00016490{~03~}#004#001
+~03~#001
+;00016491{=when a child stands out=like that, I kind of want=to give him special=attention.~03~}#085#082
+=cuando un chico despunta=de esa forma, quiero darle=a él una atención=especial. ~03~#082
+;000164E3{~03~}#004#001
+~03~#001
+;000164E4{=Do you remember how the=people of Bloodpool drew=lots to decide who would=be the sacrifice?~03~}#096#093
+=¿Recuerda cómo la gente de=Bloodpool sorteaba para=decidir quien sería el=sacrificio?      ~03~#093
+;00016541{~03~}#004#001
+~03~#001
+;00016542{=Actually, I know something=about that lottery that=nobody else did.~03~}#072#069
+=En realidad, sé algo de=ese sorteo que nadie más=conoce.           ~03~#069
+;00016587{~03~}#004#001
+~03~#001
+;00016588{=I was watching, and saw=that Teddy deliberately=set up the lottery so that=he would be chosen as a=sacrifice...~03~}#116#113
+=Estaba observando y vi que=Teddy deliberadamente=amañó el sorteo para ser=elegido como el=sacrificio...        ~03~#113
+;000165F9{~03~}#004#001
+~03~#001
+;000165FA{~03~}#004#001
+~03~#001
+;000165FB{~03~}#004#001
+~03~#001
+;000165FC{~01~}#004#001
+~01~#001
+;000165FD{~05~~04~This is the desert town of=Cassandra.=Though there's not really=that much left in the way=of sands or wastes now.~03~}#125#116
+~05~~04~Esta es la ciudad desierto=de Cassandra.=Aunque ahora no queda=mucho en forma de arenas o=residuos.              ~03~#116
+;00016671{~03~}#004#001
+~03~#001
+;00016672{=The people of this town=said that they were=enthralled by the magic of=the pyramid here.~03~}#093#090
+=La gente de esta ciudad=dijo que eran cautivados=por la magia de la=pirámide.           ~03~#090
+;000166CC{~03~}#004#001
+~03~#001
+;000166CD{=What do you think of this=theory?~03~}#038#035
+=¿Qué piensas de esta=teoría?     ~03~#035
+;000166F0{~03~}#004#001
+~03~#001
+;000166F1{=The monsters that were in=the period were actually=humans--slaves forced to=build that huge tomb that=were reborn as monsters.~03~}#131#128
+=Los monstruos de la época=eran en realidad humanos =esclavizados forzados a  =construir la tumba donde=nacían como monstruos. ~03~#128
+|1083
+@00016771-00016B9D-00-01-03
+;00016771{~03~}#004#001
+~03~#001
+;00016772{=The energy left behind=from their memories as=humans was what was=enthralling all the=people...~03~}#100#097
+=La energía dejada atrás de=sus memorias como humanos=fue lo que fascinaba a=toda la gente...   ~03~#097
+;000167D3{~03~}#004#001
+~03~#001
+;000167D4{=Now that the pyramid is=sealed, their souls are=saved, and they will=probably be reborn as=humans once more.~03~}#113#110
+=Ahora que la pirámide está=sellada, sus almas están=salvadas, y seguramente=renacerán como humanos de=nuevo.~03~#110
+;00016842{~03~}#004#001
+~03~#001
+;00016843{~03~}#004#001
+~03~#001
+;00016844{~03~}#004#001
+~03~#001
+;00016845{~01~}#004#001
+~01~#001
+;00016846{~05~~04~This is Aitos, the city at=the foot of a volcano.~03~}#061#052
+~05~~04~Esto es Aitos, la ciudad=al pie de un volcán.    ~03~#052
+;0001687A{~03~}#004#001
+~03~#001
+;0001687B{=I was really moved by the=people who strived hard to=build houses despite the=constant downpour of lava.~03~}#109#106
+=Me conmovió la gente que=se esforzó tanto para=construir casas a pesar de=la constante lluvia de=lava.  ~03~#106
+;000168E5{~03~}#004#001
+~03~#001
+;000168E6{=One of the leaders here=died while working for=you, and I get the sense=he was giving his all to=let the people know that=you existed.~03~}#139#136
+=Uno de los líderes de aquí=murió mientras trabajaba=para vos, y creo que él lo=daba todo para hacer que=la gente supiera que=existe.  ~03~#136
+;0001696E{~03~}#004#001
+~03~#001
+;0001696F{=I hope that Aitos develops=into a wonderful, thriving=metropolis for his sake.~03~}#083#080
+=Espero que Aitos acabe=siendo una maravillosa=metrópolis por su bien.         ~03~#080
+;000169BF{~03~}#004#001
+~03~#001
+;000169C0{~03~}#004#001
+~03~#001
+;000169C1{~03~}#004#001
+~03~#001
+;000169C2{~01~}#004#001
+~01~#001
+;000169C3{~05~~04~This is the jungle of=Marana. It's quite an=accomplishment for the=humans to have built this=many houses in such a=small area!~03~}#138#129
+~05~~04~Esta es la jungla de=Marana. ¡Es un logro para=los humanos haber=construido tantas casas en=una zona tan pequeña como=esta!   ~03~#129
+;00016A44{~03~}#004#001
+~03~#001
+;00016A45{=I was a bit disappointed=when the two leaders of=this town turned to that=evil religion,~03~}#093#090
+=Me decepcionó un poco=cuando los dos líderes se=volvieron de esa religión=maligna,      ~03~#090
+;00016A9F{~03~}#004#001
+~03~#001
+;00016AA0{=but when under extreme=duress, people often look=to find the easiest way=out...~03~}#084#081
+=pero bajo coacción=extrema, la gente a menudo=encuentra la salida más=fácil... ~03~#081
+;00016AF1{~03~}#004#001
+~03~#001
+;00016AF2{=After seeing the weak side=of humanity, it made me=feel a duty to guide them=to the right path even=more.~03~}#110#107
+=Al ver el lado débil de la=humanidad, me hizo sentir=el deber de guiarlos por  =el buen camino de nuevo. ~03~#107
+;00016B5D{~03~}#004#001
+~03~#001
+;00016B5E{~03~}#004#001
+~03~#001
+;00016B5F{~03~}#004#001
+~03~#001
+;00016B60{~01~}#004#001
+~01~#001
+;00016B61{~05~~04~This is the Northwall, a=town at the far end of the=earth.~03~}#070#061
+~05~~04~Esto es Northwall, una=ciudad hacia el final de=la tierra.~03~#061
+|1069
+@00016B9E-00016FAE-00-01-03
+;00016B9E{~03~}#004#001
+~03~#001
+;00016B9F{=I felt a little sorry=making people live in such=a harsh environment, but=they tamed the land quite=spectacularly in the end.~03~}#130#127
+=Me sentí culpable por =hacer a la gente vivir en=un entorno tan duro, pero=ellos dominaron la tierra=increíblemente al final.~03~#127
+;00016C1E{~03~}#004#001
+~03~#001
+;00016C1F{=When the leaders of this=town saw the initials=carved into the trunk of=the giant tree here,~03~}#097#094
+=Cuando los líderes de la=ciudad vieron las=iniciales grabadas en el=tronco del gran árbol,  ~03~#094
+;00016C7D{=they said that they were=struck by a nostalgic=feeling that they=`couldn't put into words.´~03~}#099#093
+=dijeron que les golpeó un=sentimiento nostálgico que=`no podían describir con=palabras´.   ~03~#093
+;00016CDA{~03~}#004#001
+~03~#001
+;00016CDB{=This is just my pet=theory, but I think that=in the ancient past,=those two were lovers that=lived in this area,~03~}#117#114
+=Esta es mi teoría=favorita, creo que en un=pasado antiguo, esos dos=fueron amantes que=vivieron en esta zona,   ~03~#114
+;00016D4D{=and after getting killed=by monsters, their souls=sought each other still,=and were reborn into the=bodies of those two=leaders.~03~}#133#130
+=y después de ser matados=por monstruos, sus almas=se buscaron, y renacieron=en los cuerpos de esos dos=líderes.                 ~03~#130
+;00016DCF{~03~}#004#001
+~03~#001
+;00016DD0{=If that's true, then it=means that the two lovers=transcended time to come=together again.~03~}#095#092
+=Si es cierto, eso=significa que los dos=amantes trascendieron el=tiempo para estar juntos.~03~#092
+;00016E2C{~03~}#004#001
+~03~#001
+;00016E2D{=Even though they don't=remember anything, I=think that's really=romantic.~03~}#078#075
+=Aunque no recuerdan nada,=creo que es muy romántico.=                    ~03~#075
+;00016E78{~03~}#004#001
+~03~#001
+;00016E79{=Looking back, you worked=really hard to get this=far, Lord ~06~, but=the humans worked even=harder than you did.~03~}#117#111
+=Mirando atrás, trabajó muy=duro para llegar tan=lejos, Señor ~06~,=pero los humanos han=trabajado aún más duro. ~03~#111
+;00016EE8{~03~}#004#001
+~03~#001
+;00016EE9{=Lord ~06~, shall we=have a look in the humans'=temple?~03~}#059#053
+=Señor ~06~,=¿deberíamos mirar en el=templo?           ~03~#053
+;00016F1E{~03~}#004#001
+~03~#001
+;00016F1F{~03~}#004#001
+~03~#001
+;00016F20{~03~}#004#001
+~03~#001
+;00016F21{~01~}#004#001
+~01~#001
+;00016F22{~05~~04~~03~}#012#003
+~05~~04~~03~#003
+;00016F25{.......~03~}#011#008
+.......~03~#008
+;00016F2D{~03~}#004#001
+~03~#001
+;00016F2E{=Nobody's here.~03~}#019#016
+=No hay nadie. ~03~#016
+;00016F3E{~03~}#004#001
+~03~#001
+;00016F3F{=Before there would always=be people here crying out=`Help me, Father!´ or=somesuch, so it's quite a=change....~03~}#118#112
+=Antes siempre había aquí=gente llorando...=`¡Ayúdame Padre!´ o=similar, así que es un=gran cambio...          ~03~#112
+|1041
+@00016FAF-000173BF-00-01-03
+;00016FAF{~03~}#004#001
+~03~#001
+;00016FB0{=I suppose that the larger=the town becomes, the more=and more we become=forgotten...~03~}#089#086
+=Supongo que cuanto más    =crece la ciudad, nos=volvemos más y más=olvidados...     ~03~#086
+;00017006{~03~}#004#001
+~03~#001
+;00017007{=But in a way I think=that's for the best.=I think that humans are=happiest when they no=longer need gods and have=forgotten about them.~03~}#140#137
+=Pero de alguna forma=pienso que es lo mejor.=Pienso que los humanos son=más felices cuando no=necesitan a los dioses y=los olvidan.    ~03~#137
+;00017090{~03~}#004#001
+~03~#001
+;00017091{=Lord ~06~, let us pray=that they will never need=us again!~03~}#063#057
+=Señor ~06~, ¡recemos=para que nunca más nos=necesiten!    ~03~#057
+;000170CA{~03~}#004#001
+~03~#001
+;000170CB{~03~}#004#001
+~03~#001
+;000170CC{~03~}#004#001
+~03~#001
+;000170CD{~03~}#004#001
+~03~#001
+;000170CE{~03~}#004#001
+~03~#001
+;000170CF{~03~}#004#001
+~03~#001
+;000170D0{~03~}#004#001
+~03~#001
+;000170D1{~03~}#004#001
+~03~#001
+;000170D2{~03~}#004#001
+~03~#001
+;000170D3{~01~}#004#001
+~01~#001
+;000170D4{~05~Lord ~06~, when you=defeated the last monster,=the island of the Dark=Lord Satan rose out of the=oceans to the northeast.^Satan must be lying in=wait in the bowels of=the earth, for the final=battle between the Holy=Father and the Devil.^Let's go, Lord ~06~!=To Deathheim, the land=of death and destruction=where Satan awaits!!~00~}#335#323
+~05~Señor ~06~, cuando=venció al último monstruo,=la isla del Señor Oscuro=Satán salió de los=océanos al noreste.^Satán debe estar esperando=en las entrañas de la=tierra, para la batalla=final entre el Sagrado=Padre y el Demonio.^¡Vamos, Señor ~06~!=A Deathheim, ¡¡la tierra=de muerte y destrucción=donde Satán espera!!\           ~00~#323
+;00017217{~05~What a shame.=But you're not the type to=give up, Lord ~06~.^I look forward to seeing=you return from battle=with the monsters,=triumphant!~00~}#147#138
+~05~Qué lástima.=Pero no es de los que se=rinden, Señor ~06~.^Quedo a la espera de verle=volver de pelear con los=monstruos, ¡triunfante!\     ~00~#138
+;000172A1{~05~Lord ~06~, I humbly=apologize for=interrupting, but it=appears there are=problems here in=~08~/~03~}#103#091
+~05~Señor ~06~, me disculpo=por interrumpir, pero=parece que hay           =problemas aquí en=~08~/~03~#091
+;000172FC{~F1~~AC~.^The problems are as=follows... ~01~}#045#036
+~F1~~AC~.^Hay los siguientes=problemas...~01~#036
+;00017320{There's not enough=production.~00~}#034#031
+No hay suficiente=producción.\~00~#031
+;0001733F{There are obstacles in=the way of development.~00~}#050#047
+Hay obstáculos en el=camino del desarrollo.\  ~00~#047
+;0001736E{The people are troubled.~00~}#028#025
+La gente está inquieta.\~00~#025
+;00017387{Fields have dried up.~00~}#025#022
+Los campos se secan.\~00~#022
+;0001739D{There is no space to=build houses.~00~}#038#035
+No hay sitio para=construir casas.~00~#035
+|1041
+@000173C0-000177E0-00-01-03
+;000173C0{The land has been=developed to full=capacity.~00~}#049#046
+La tierra se ha=desarrollado al=máximo.\     ~00~#046
+;000173EE{That's all.~00~}#015#012
+Y nada más.~00~#012
+;000173FA{~05~It appears that the Angel=Power has lost its effect.~00~}#060#054
+~05~Parece que el Poder del=Ángel ha perdido su=efecto.\~00~#054
+;00017430{~05~It would seem the fire=has gone out.^Those humans are always=only thinking of=themselves, starting a=fire themselves, then=having to come to us for=help in putting it out.^But I think the humans'=foolishness is one of=their charming points...=What do you think, Lord=~06~?~00~}#280#271
+~05~Parece que el fuego se=apagó.^Esos humanos siempre están=pensando en ellos mismos,=empiezan un fuego ellos,=entonces vienen a nosotros=pidiendo ayuda para=apagarlo.^Pero creo que la necedad=de los humanos es parte de=su encanto...=¿Usted qué opina, Señor=~06~?\           ~00~#271
+;0001753F{~05~It looks like the fire has=gone out. Still, that was=a somewhat...forceful way=of solving the problem,=wasn't it?^Destroying the settlment=did indeed put out the=fire, but I think there=might have been a better=way to go about doing=it...~00~}#246#240
+~05~Parece que el fuego se ha=apagado. Aún y así, esa=fue una manera...fuerte de=resolver el problema,=¿no?^Destruir el asentamiento=apagó el fuego sin duda,=pero creo que pudo=haber habido una manera=mejor de hacerlo...\                     ~00~#240
+;0001762F{~05~The humans have been=making a fuss about=something ever since=that lightning bolt=struck. Let's hear what=they have to say.~00~}#131#125
+~05~Los humanos han estado=montando alboroto sobre=algo desde que el=relámpago cayó.=Escuchemos lo que tienen=que decir.\      ~00~#125
+;000176AC{~05~Oh! Lord ~06~!=A pyramid has appeared=from beneath the sands=of the desert!!~00~}#084#075
+~05~¡Oh! ¡Señor ~06~!=¡¡Ha aparecido una=pirámide de la arena=del desierto!!\   ~00~#075
+;000176F7{~05~Lord ~06~, look!!=Something's happening to=Bloodpool's lake!~00~}#068#059
+~05~Señor ~06~, ¡¡mire!!=¡Pasa algo en el lago de=Bloodpool!\   ~00~#059
+;00017732{~05~Ah, I see! The Red Devil=Lair must have been where=all the poisonous water=in Bloodpool's lake was=coming from.~00~}#119#113
+~05~¡Ajá! La Guarida=del Demonio Rojo debe ser=de donde salía toda el=agua envenenada del lago=de Bloodpool.\      ~00~#113
+;000177A3{~05~Lord ~06~, look!!=Something's happening to=the northwest beach!~00~}#071#062
+~05~Señor ~06~, ¡Mire!=¡Pasa algo en la playa=al noroeste!\        ~00~#062
+|1057
+@000177E1-000178AE-00-01-03
+;000177E1{~05~Oh! A land bridge to the=northwest island has=formed!!~00~}#062#056
+~05~¡Oh! ¡¡Esta tierra se ha=unido a la isla al=noroeste!!~00~#056
+;00017819{~05~Lord ~06~, I think=that the last Monster=Lair must be on the=northwest island.^I wonder if there's any=way we can connect the=island with the mainland?~00~}#159#150
+~05~Señor ~06~,=la última Guarida de=Monstruos parece estar en=la isla noroeste.^Me pregunto si hay=alguna forma de conectar=la isla con el continente.\   ~00~#150
+|206
+@000E8000-000E8449-00-01
+;000E8000{~05~Holy Father eternal!=Since the final Monster=Lair was sealed, a=remarkable thing has been=happening...^I have been having the=same nightmare again=and again, every night.^In my dream, a monster=called Minotauros came out=of the large hole to the=southeast and killed all=the people with a curse...^Maybe it's because of my=prophetic ability, but I=feel that the monster's=curse has already started=to affect me,^and is eating away at my=very being.^Father, before disaster=strikes, please descend to=the earth to fight and put=an end to Minotauros once=and for all!!~00~}#574#568
+~05~¡Santo Padre eterno!=Desde que la última=guarida fue sellada, ha=ido pasando algo=singular...^
+He estado teniendo la=misma pesadilla una y otra=vez, cada noche.^
+En mi sueño, un monstruo=llamado Minotauro sale de=un gran agujero al=sureste y mata a toda la=gente con una maldición...^
+Puede que sea por mi=habilidad profética, pero=siento que la maldición=del monstruo ya ha=empezado a afectarme,^
+y me está comiendo por=dentro.^
+Padre, antes de que el=desastre ocurra, ¡por=favor descienda para=terminar con el Minotauro=de una vez por todas!\                           ~00~#568
+;000E8238{~05~Praise, Holy Father.=The monsters are finally=gone from Fillmore.^But my husband was=stricken with the=monster's curse, and=passed away just a moment=ago.^In his final breath, he=said that he felt that his=prophetic ability had=finally been of use to the=people of Fillmore...^In any case, the monsters=are now all gone. From now=on, we can do fine on our=own without you.^Please, go to other areas=and make them as peaceful=as this land of Fillmore.~00~}#458#452
+~05~Te alabamos, Santo Padre.=Ya no quedan monstruos en=Fillmore.^
+Pero mi marido fue=afligido por la maldición=del monstruo y murió hace=un momento.^
+Con su último aliento,=dijo que al final su=habilidad profética fue de=utilidad para la gente de=Fillmore...^
+En cualquier caso, ya no=hay ningún monstruo. Desde=ahora, podemos hacerlo=bien sin vos.^
+Por favor, vaya a otras=zonas y hágalas tan=pacíficas como a Fillmore.\                                    ~00~#452
+;000E83FC{Outside of this temple,=the people are singing=their praises to their=Father.~00~}#081#078
+Fuera de este templo,=la gente esta cantando=sus alabanzas a su=Padre.\      ~00~#078
+|1098
+@000E844A-000E88E5-00-01
+;000E844A{~05~Holy Father eternal!=Here in Fillmore, we have=developed a wonderful new=technology!^We have learned to build=bridges over rivers. Now=we can build houses on the=other side of the river.~00~}#194#188
+~05~¡Santo Padre eterno!=Aquí en Fillmore, ¡hemos=desarrollado una nueva=tecnología!^Hemos aprendido a=construir puentes sobre=ríos. Ahora podemos=construir casas al otro=lado del río.\     ~00~#188
+;000E8506{~05~Holy Father eternal!=A fire has broken out in=the settlement to the=north! Please, send rain=to put it out!!~00~}#116#110
+~05~¡Santo Padre eterno!=¡Ha estallado un incendio=en el asentamiento al=norte! Por favor,=¡¡envíe lluvia!!\    ~00~#110
+;000E8574{~05~Holy Father eternal!=We have learned to hunt=animals. Now we have the=ability to fight monsters.^Please lead us to the=Monster Lairs.~00~}#141#135
+~05~¡Santo Padre eterno!=Hemos aprendido a cazar=animales. Ahora podemos=luchar con los monstruos.^Guíenos a las guaridas=de monstruos.\ ~00~#135
+;000E85FB{~05~Holy Father, I sense=sacred power from the=large boulder by the=southeast cliff.^I suspect there may be=something buried there.~00~}#135#129
+~05~Santo Padre, siento poder=sagrado de la gran roca en=el acantilado sureste.^Sospecho que puede haber=algo enterrado ahí.\      ~00~#129
+;000E867C{~05~Holy Father.=I am here to report to you=that we have discovered a=mysterious gem.^We humbly present this gem=to you as an offering, so=please accept it.~00~}#160#154
+~05~Santo Padre.=He venido para decirle=que hemos descubierto=una misteriosa gema.^Humildemente le=presentamos la gema como=ofrenda, acéptela por favor.\   ~00~#154
+;000E8716{~05~Holy Father, hear our=prayer...^I am here to report to you=that we have discovered a=scroll in the eastern=forest.^We humbly present it to=you as an offering, so=please accept it.~00~}#187#181
+~05~Por favor, escuche la=plegaria.^He venido a decirle que=hemos descubierto un=pergamino en el bosque=más al este.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\ ~00~#181
+;000E87CB{~05~Father!=I have been feeling very=strange lately.^I have been seeing strange=visions in my mind that=quite frequently turn out=to come true in the=future.^If this is truly some sort=of power and not just a=coincidence, then I sense=some sort of holy power=from the eastern forest...~00~}#289#283
+~05~¡Padre!=Me he estado sintiendo=raro últimamente.^He estado viendo extrañas=visiones en mi mente que=muy frecuentemente se=vuelven realidad en el=futuro.^Si esto es realmente algún=tipo de poder y no solo=coincidencia, entonces=siento algo de poder en el=bosque más al este...\     ~00~#283
+|1180
+@000E88E6-000E8D87-00-01
+;000E88E6{~05~Holy Father eternal!=We have started deep-sea=fishing here in Fillmore.^In the far-off oceans,=fish are not the only=thing we catch. Sometimes=we discover unusual=artifacts.^If we find anything of=note, I will report to=you.~00~}#232#226
+~05~¡Santo Padre eterno!=Hemos empezado a pescar=profundo aquí en Fillmore.^En los océanos lejanos,=no solo pescamos=peces. A veces descubrimos=artefactos inusuales.^Si encontramos algo=notable, se lo=informaremos.\             ~00~#226
+;000E89C8{~05~Holy Father eternal!=We have discovered a=mysterious gem while=deep-sea fishing.^We humbly present it to=you as an offering, so=please accept it.~00~}#153#147
+~05~¡Santo Padre eterno!=Hemos descubierto una=misteriosa gema mientras=pescábamos.^Humildemente se la=presentamos como ofrenda,=acéptela por favor.\~00~#147
+;000E8A5B{~05~Holy Father eternal!=I am here to report to you=that we have discovered=one of your magic spells=nearby the southeast=cliff.^We humbly present it to=you as an offering, so=please accept it.~00~}#197#191
+~05~¡Santo Padre eterno!=Estoy aquí para decirle=que hemos descubierto uno=de sus hechizos mágicos=cerca del acantilado=sureste.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.~00~#191
+;000E8B1A{~05~Holy Father eternal!=Here in Fillmore, we have=started fishing.^The other day, while=repairing his ship on the=shore, a fisherman found=a scroll.^We humbly present it to=you as an offering, so=please accept it.~00~}#218#212
+~05~¡Santo Padre eterno!=Aquí en Fillmore, hemos=empezado a pescar.^El otro día, cuando=reparaba su barca en la=orilla, un pescador vio=un pergamino.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.~00~#212
+;000E8BEE{~05~Holy Father eternal!=I am here to report to you=that we have discovered a=sculpture in the shape of=a skeleton.^We humbly present it to=you as an offering, so=please accept it.~00~}#184#178
+~05~¡Santo Padre eterno!=Estoy aquí para decirle=que hemos descubierto una=escultura en forma de=esqueleto.^Humildemente se la=presentamos como ofrenda,=acéptela por favor.\       ~00~#178
+;000E8CA0{~05~Holy Father...=Here in Fillmore, there is=a lot of dense foliage=about the landscape,=making it extremely=difficult to build houses.^Please use your lightning=to burn down the trees,=and direct us where you=would like us to build.~00~}#238#232
+~05~Santo Padre...=Aquí en Fillmore, hay un=follaje muy denso en el=paisaje, haciendo=extremadamente difícil=construir casas.^Por favor use su relámpago=para quemar los árboles,=y diríjanos adonde quiera=que construyamos.\            ~00~#232
+|1186
+@000E8D88-000E920F-00-01
+;000E8D88{~05~Holy Father eternal!=I am here to report to you=that we have discovered a=mysterious sculpture.^We humbly present it to=you as an offering, so=please accept it.~00~}#168#162
+~05~¡Santo Padre eterno!=Estoy aquí para decirle=que hemos descubierto una=misteriosa escultura.^Humildemente se lo=presentamos como ofrenda,=acéptela por favor.\  ~00~#162
+;000E8E2A{~05~Holy Father...=I am here to report to you=that we have found a=mysterious bow and arrow.^We humbly present it to=you as an offering, so=please accept it.~00~}#161#155
+~05~Santo Padre...=Estoy aquí para decirle=que descubrimos un arco y=flechas misteriosos.^Humildemente se los=presentamos como ofrenda,=acéptelo por favor.\ ~00~#155
+;000E8EC5{~05~Holy Father...=Something terrible has=happened since we sealed=the last Monster Lair.^Monsters appeared from the=lone castle sitting=alongside the lake,=demanding human sacrifices=from us!^After much hard thought,=we decided to pick three=sacrifices by drawing=lots, and my son, Teddy,=was one of those who was=picked...^Father, I beg of you!=Please head to battle with=the monsters in the=castle!^Please rescue our son,=and all of Bloodpool!~00~}#450#444
+~05~Santo Padre...=Ha pasado algo terrible=desde que sellamos la=última guarida.^Aparecieron monstruos del=castillo solitario cercano=al lago, ¡pidiéndonos=sacrificios humanos!^Después de pensarlo mucho,=decidimos elegir a tres=sacrificios por sorteo, y =mi hijo, Teddy, fue uno de=los que fueron elegidos...^¡Padre, se lo imploro!=¡Vaya a luchar con los=monstruos en el castillo!^¡Salve a nuestro hijo,=y a todo Bloodpool!\                      ~00~#444
+;000E9081{~05~Holy Father...=Thanks to you, the=monsters are now=completely gone from=Bloodpool.^My son Teddy was rather=brash. While at the castle=as a sacrifice, searched=around and found a scroll.^We humbly present it to=you as an offering, so=please accept it.^We no longer need you=watching over us, and can=do fine on our own.^Please, go to other areas=and make them as peaceful=as this land of Bloodpool.~00~}#405#399
+~05~Santo Padre...=Gracias a vos, los=monstruos han sido=erradicados de Bloodpool.^Mi hijo Teddy era un=temerario. Estando en el=castillo como sacrificio,=encontró un pergamino.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.^Ya no necesitamos que nos=vigile, podemos hacerlo=bien solos.^Por favor vaya a otras=zonas y hágalas tan=pacíficas como a=Bloodpool.\                         ~00~#399
+|1160
+@000E9210-000E9616-00-01
+;000E9210{~05~Holy Father...=I believe you already know=that there are many rivers=here in Bloodpool.^We would like to build=houses on the other side=of the river, but we lack=the technology to build=bridges.^Please, teach us how to=build them!~00~}#238#232
+~05~Santo Padre...=Creo que ya sabe que hay=muchos ríos aquí en=Bloodpool.^Nos gustaría construir=casas en el otro lado del=río, pero nos falta la=tecnología para construir=puentes.^¡Por favor, enséñenos a=construirlos!\              ~00~#232
+;000E92F8{~05~Holy Father...=Here in Bloodpool, we have=started fishing in the=lake.^The other day, we found=one of your magic spells=caught up in our nets.^We humbly present it to=you as an offering, so=please accept it.~00~}#215#209
+~05~Santo Padre...=Aquí en Bloodpool, hemos=empezado a pescar en el=lago.^El otro día, encontramos=uno de sus hechizos en=una de las redes.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\      ~00~#209
+;000E93C9{~05~Holy Father...=We have built a road to=Fillmore, the neighboring=town.^We intend to teach the=people of Fillmore how=to cultivate rice.~00~}#143#137
+~05~Santo Padre...=Hemos creado un camino a=Fillmore, la ciudad=vecina.^Pretendemos enseñar a=la gente de Fillmore cómo=cultivar arroz.\   ~00~#137
+;000E9452{~05~Holy Father...=Here in Bloodpool, we have=learned to raise and=cultivate a crop called=rice.^Please share this=technology with other=areas that do not know=how to grow it yet.~00~}#183#177
+~05~Santo Padre...=Aquí en Bloodpool,=aprendimos a criar y=cultivar un cultivo=llamado arroz.^Por favor comparta esta=tecnología con otras=zonas que no saben=cultivarlo aún.\     ~00~#177
+;000E9503{~05~Holy Father...=My son Teddy has run away=from home!^Everyone has searched all=over for him, but in the=end nobody was able to=find him anywhere.^I am sure that wherever he=is, he must be hungry. I=have some bread here.=Father, wherever he is,=please bring this bread=to him.~00~}#282#276
+~05~Santo Padre...=¡Mi hijo Teddy ha huido de=casa!^Todos lo han buscado por=todas partes, pero al=final nadie fue capaz de=encontrarle.^Seguro que esté donde=esté, debe estar=hambriento. Tengo algo de=pan. Padre, por favor=llévele este trozo de pan=donde esté.\                ~00~#276
+|1031
+@000E9617-000E9AE3-00-01
+;000E9617{~05~Holy Father eternal!=Teddy has come home!!=After eating my homecooked=bread, he started to feel=homesick and came back.^It turns out that he did=not run away from home,=but was trying to discover=why the lake is red and=poisonous.^I always thought of him as=a child, but all of a=sudden he's grown up...=It was quite a surprise.^According to Teddy, the=poison in the water is=coming from the Monster=Lair next to the lake.^We offer to you this=bleached skull that he=found in the cave.=Please take it.~00~}#509#503
+~05~¡Santo Padre eterno!=¡¡Teddy ha vuelto a casa!!=Después de comer mi pan=casero, comenzó a sentir=nostalgia y volvió.^Resulta que él no se=escapó de casa, si no que=intentaba descubrir por=que el lago es rojo y=venenoso.^Siempre pensé en él como=un niño, pero de repente=ha crecido tanto...=Fue toda una sorpresa.^Según Teddy, el veneno del=agua viene de la Guarida=de Monstruos al lado del=lago.^Le ofrecemos este cráneo=blanqueado que encontró en=la cueva.=Quédeselo.\                                ~00~#503
+;000E980E{~05~Holy Father...=It is a shameful state of=affairs that this should=be a problem, but you=should know what is going=on.^The people here have=become uncivilized and=savage, and Bloodpool has=become a place of endless=conflict and strife.^I pushed the people of the=town so hard to develop=the city further without=any care for their own=situations that I drove=them over the edge...^Father, do you have any=sort of wonderful miracle=that can calm their=troubled souls?~00~}#473#467
+~05~Santo Padre...=Se trata de una situación=vergonzosa que esto sea un=problema, pero debe saber=lo que está ocurriendo.^La gente aquí se ha vuelto=incivilizada y salvaje,=y Bloodpool se ha vuelto=un lugar de conflictos sin=fin y luchas.^Apreté a la gente de la=ciudad tanto a desarrollar=más la misma sin tener en=cuenta sus propias=situaciones que les llevé=al límite...^Padre, ¿tiene algún tipo=de milagro maravilloso que=pueda calmar sus almas=turbadas?\          ~00~#467
+;000E99E1{~05~Holy Father eternal!=Our fishing industry here=in Bloodpool has proceeded=into the deep seas.^Because one man here=developed a device called=a compass, we can now=navigate the oceans.^We humbly present this=device to you as an=offering, so please accept=it.~00~}#265#259
+~05~¡Santo Padre eterno!=Nuestra industria pesquera=de Bloodpool ha procedido=al océano profundo.^Un hombre de aquí ha=creado un dispositivo=llamado brújula, con él=navegamos los océanos.^Humildemente le damos el=aparato como ofrenda, por=favor, acéptelo.\     ~00~#259
+|1229
+@000E9AE4-000E9EEB-00-01
+;000E9AE4{~05~Holy Father eternal!=We are somewhat troubled=right now.^Our problem is with our=eldest son, Teddy.^Actually...^He's a bit too boisterous,=and because of that, he is=causing a fair number of=problems.^I... never mind, trifles=such as these should not=be of your concern.=I apologize for bothering=you.~00~}#309#303
+~05~¡Santo Padre eterno!=Hay algo que nos tiene=preocupados.^Es nuestro hijo mayor,=Teddy.^En realidad...^Es un poco revoltoso y=está causando un gran=número de problemas.^Yo... no importa, minucias=como estas no deberían=preocuparle. Siento=haberle molestado.\                                            ~00~#303
+;000E9C13{~05~Holy Father...=Here in Bloodpool, there=are many swampy areas=unfit for building houses.^Please use the power of=the sun to dry up the=swampy areas so that we=can expand.~00~}#178#172
+~05~Santo Padre...=Aquí en Bloodpool, hay=zonas pantanosas donde no=podemos construir.^Por favor utilice el poder=del sol para secar esas=zonas y que podamos=construir.\     ~00~#172
+;000E9CBF{~05~Holy Father...=The recent downpour has=flooded the lake.^After the waters receded,=we discovered a mysterious=gem on the shores of the=lake. Please accept it as=an offering.~00~}#181#175
+~05~Santo Padre...=El diluvio reciente ha=inundado el lago.^Cuando las aguas bajaron,=descubrimos una misteriosa=gema en las orillas del=lago. Por favor acéptela=como ofrenda.\ ~00~#175
+;000E9D6E{~05~Holy Father...=We discovered a mysterious=sculpture when we sealed=the Monster Lair.^We humbly present it to=you as an offering, so=please accept it.~00~}#157#151
+~05~Santo Padre...=Descubrimos una misteriosa=escultura cuando sellamos=la Guarida.^Humildemente se la=presentamos como ofrenda,=acéptela por favor.\    ~00~#151
+;000E9E05{~05~Holy Father...=When we sealed the Monster=Lair, Teddy searched=through it and discovered=a bow and arrow.^He is quite skilled at=finding strange and=unusual things.^We humbly present it to=you as an offering, so=please accept it.~00~}#237#231
+~05~Santo Padre...=Cuando sellamos la=Guarida, Teddy buscó en=ella y descubrió un Arco=y Flechas.^Es bastante habilidoso=encontrando cosas extrañas=e inusuales.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\       ~00~#231
+|1032
+@000E9EEC-000EA319-00-01
+;000E9EEC{~05~That pyramid was=bewitching us.^We went to investigate it=several times, but nobody=who ever actually went=inside ever returned.^Once the final Monster=Lair was sealed, the=pyramid showed its true=colors... it is a den of=monsters!^Father, please descend to=earth and seal off that=evil pyramid!~00~}#303#297
+~05~Esa Pirámide nos ha=fascinado.^Fuimos a investigarla=varias veces, pero nadie=que haya estado en el=interior ha vuelto.^Al sellar la última=Guarida, la pirámide=mostró su verdadera=cara... ¡Es un cubil de=monstruos!^Padre, ¡por favor=descienda a la tierra y=selle esa pirámide!\                 ~00~#297
+;000EA015{~05~Holy Father...=Thanks to you, the evil=pyramid has been sealed=off forever.^Now that I think about it,=I wouldn't be surprised=if the man that died after=wandering off into the=desert was drawn by the=power of the pyramid...^We no longer need you=watching over us, and can=do fine on our own.^Please, go to other areas=and make them as peaceful=as this land of Cassandra.~00~}#379#373
+~05~Santo Padre...=Gracias a vos, la maligna=pirámide fue sellada para=siempre.^Ahora que lo pienso, no me=sorprendería que el hombre=que murió después de vagar=por el desierto hubiera=sido atraído por el poder=de la pirámide...^Ya no necesitamos que nos=vigile, podemos hacerlo=bien solos.^Por favor, vaya a otras=zonas y hágalas tan=pacíficas como a=Cassandra.\            ~00~#373
+;000EA18A{~05~Holy Father...=One of us has wandered=into the huge desert and=gotten lost. Please lead=us to him!~00~}#106#100
+~05~Santo Padre...=Uno de nosotros deambuló=en el gran desierto y se=perdió. ¡Por favor guíenos=a él!\~00~#100
+;000EA1EE{~05~Holy Father...=Thank you very much for=leading us to our friend.^However when we reached=the missing man, he was=already dead. We are=thinking of burying him=near your temple.^Also, the dead man was=clutching a mysterious=scroll in his hand when=we found him.^Father, we present this=scroll to you.~00~}#306#300
+~05~Santo Padre...=Muchísimas gracias por=guiarnos a nuestro amigo.^Sin embargo cuando=llegamos a él, ya estaba=muerto. Estamos pensando=en enterrarlo cerca de su=templo.^También, el hombre=agarraba un misterioso=pergamino en su mano al=encontrarle.^Padre, le ofrecemos este=pergamino.\                ~00~#300
+|1070
+@000EA31A-000EA816-00-01
+;000EA31A{~05~Holy Father...=Here in Cassandra, we have=developed a wonderful=technology.^It is called `music,´ and=I invented it the other=day in memory of the man=who so sadly died in the=desert.^Music is a mysterious=thing, and when you listen=to it, it calms your heart=no matter what the=situation.^Father, we offer this=music to you as this=year's offering.~00~}#360#351
+~05~Santo Padre...=Aquí en Cassandra, hemos=desarrollado una nueva=tecnología.^Se llama `música´, y la=inventé el otro día en=memoria del hombre que=tristemente murió en el=desierto.^La música es una cosa=misteriosa, y cuando la=escuchas, calma tu corazón=sin importar la situación.^Padre, le ofrecemos esta=música como ofrenda de=este año.\            ~00~#351
+;000EA479{~00~}#004#001
+~00~#001
+;000EA47A{~05~Holy Father...=I am here to report that=we have discovered a=scroll at the foot of the=mountain to the south.^We humbly present it to=you as an offering, so=please accept it.~00~}#182#176
+~05~Santo Padre...=Estoy aquí para informarle=de que hemos descubierto=un pergamino al pie de la=montaña al sur.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\~00~#176
+;000EA52A{~05~There was a great rain in=the northern desert, and=when the sand was washed=away there was a giant=pyramid beneath it.^We sense an evil presence=from within that pyramid.=In the near future we plan=to investigate it, and=will report to you=anything that we find.~00~}#270#264
+~05~Hubo una gran lluvia en el=desierto al norte, y=cuando la arena se fue=había una pirámide gigante=tras ellas.^Sentimos una presencia=maligna en esa pirámide.=En un futuro cercano=planeamos investigarla, y=le informaremos de lo que=encontremos.\                  ~00~#264
+;000EA632{~05~We have discovered an=ancient tablet beneath a=rock at the geoglyph.^It seems to talk of an=island in a far off place=that is in the same shape=of the geoglyph.^We present this tablet to=you as an offering, so=please accept it.~00~}#235#229
+~05~Descubrimos una antigua=tableta bajo una roca en=el geoglifo.^Parece hablar de una isla=en un lugar lejano que=tiene la misma forma que=el geoglifo.^Le ofrecemos esta tableta,=así que por favor,=acéptela.\                      ~00~#229
+;000EA717{~05~Ruins have an enticing=mystique to them.=One by one, our friends=became obsessed with the=pyramid.^That by itself wouldn't be=a problem, but there's=something really strange=about that pyramid.^Not a single person who=went to investigate it has=returned.~00~}#262#256
+~05~Las ruinas tienen un=atractivo místico. =Uno a uno, nuestros amigos=se obsesionan con la=pirámide.^Eso solo no sería un=problema, pero hay algo=muy raro acerca de esa=pirámide.^Ni una persona de las que=fue a investigarla ha=vuelto.\                     ~00~#256
+|1277
+@000EA817-000EAC78-00-01
+;000EA817{~05~Holy Father...=We are stricken with a=terrible plague, and=people are dying left=and right!^First the disease ravages=the body and creates=terrible suffering before=killing the host.^It is as the lives of the=people are being snuffed=out as easily as candles.^Please, give us some=medicine! Free us from=this torment and give us=peace!~00~}#343#337
+~05~Santo Padre...=Nos ha afectado una=terrible plaga, ¡y la=gente muere a diestro=y siniestro!^Primero la enfermedad=destroza el cuerpo y da=mucho sufrimiento antes de=matar al huésped.^Es como si la vida de la=gente se aspirara tan=fácilmente como una vela.^Por favor, ¡denos=medicina! ¡Libérenos de=este tormento y denos la=paz!\       ~00~#337
+;000EA968{~05~Holy Father...=The land of Cassandra is=in a region of great=desert.^Please summon storms where=you want us to develop,=to turn the pallid desert=green and full of life.~00~}#177#171
+~05~Santo Padre...=La tierra de Cassandra=está en una región=desértica.^Invoque lluvia donde=quiera que vayamos, para=volver el desierto verde y=lleno de vida.\             ~00~#171
+;000EAA13{~05~Here in ~08~/~03~~F1~~AC~,=we are developing=steadily.^It is thanks to you that=we can work in peace.~00~}#109#091
+~05~Aquí en ~08~/~03~~F1~~AC~,=evolucionamos sin parar.^Es gracias a vos que=podemos trabajar en paz.\   ~00~#091
+;000EAA6E{~05~Holy Father... Part of the=outer wall of the pyramid=collapsed with that recent=earthquake.^When we searched the=rubble, we found a=mysterious gem.=Please accept it as an=offering.~00~}#188#182
+~05~Santo Padre... Parte del=muro exterior de la=pirámide cayó con el=último terremoto.^Al buscar en los=escombros, encontramos una=misteriosa gema.=Acéptela como ofrenda.\            ~00~#182
+;000EAB24{~05~Father, please save us!^The dormant volcano has=come to life and erupted,=and the sounds of monsters=moving echoes throughout=the valley...^Aitos does not stand a=chance between an erupting=volcano and an invasion of=monsters.^Please, descend to earth=and fight, for the sake=of the people who risked=their lives sealing the=Monster Lairs!~00~}#347#341
+~05~Padre,=¡sálvenos por favor!^El volcán durmiente ha=vuelto a la vida y=erupcionado, y hay sonidos=de monstruos moviéndose=por el valle...^Aitos no puede hacer nada=con un volcán en erupción=y una invasión de=monstruos.^Por favor, descienda a la=tierra y luche, ¡por el=bien de la gente que=arriesgó sus vidas=sellando Guaridas!\            ~00~#341
+|1122
+@000EAC79-000EB089-00-01
+;000EAC79{~05~Holy Father eternal!=No longer do monsters=plague the land of Aitos.^We no longer need you=watching over us, and can=do fine on our own.^Please, go to other areas=and make them as peaceful=as this land of Aitos.~00~}#219#213
+~05~¡Santo Padre eterno!=Los monstruos ya no=plagan la tierra de Aitos.^Ya no necesitamos que nos=vigile, podemos hacerlo=bien solos.^Por favor vaya a otras=zonas y hágalas tan=pacíficas como a Aitos.\              ~00~#213
+;000EAD4E{~05~Father!=My husband went to seal=the Monster Lair, even=though he was already=injured heavily!^The Lair was sealed=successfully, but at a=price, as my husband was=mortally wounded in the=battle.^With his last ounce of=strength, he is standing=in front of your temple.^The last words he said to=me were `At the end, I=want to rest while being=washed in our Father's=tears...´^Please summon rain upon=him and grant his wish.~00~}#432#423
+~05~¡Padre!=Mi marido fue a sellar la=Guarida de Monstruos,=¡aunque ya estaba=gravemente herido!^La Guarida se selló=exitosamente, pero a un=precio, mi marido fue=herido mortalmente en la=batalla.^Con sus últimas fuerzas,=está en pie delante de su=templo.^Sus últimas palabras=fueron `Al final, quiero=descansar mientras me lavo=en las lágrimas del=padre...´^Por favor invoque lluvia y=conceda su deseo.\                     ~00~#423
+;000EAEF5{~05~Holy Father eternal!=My husband was wounded=badly while sealing the=monster lair.^Until he gets better,=I will direct the=development of Aitos by=myself.~00~}#161#155
+~05~¡Santo Padre eterno!=Mi marido fue herido=gravemente mientras=sellaba la Guarida.^Hasta que se mejore,=dirigiré el desarrollo de=Aitos.\                 ~00~#155
+;000EAF90{~05~Holy Father eternal!=Here in Aitos, we have=developed the technology=of mountain-climbing.^Sometimes we find things=that we've never seen=before on the tops of=mountains.^If we find anything=especially unusual, we=will report it to you=immediately.~00~}#256#250
+~05~¡Santo Padre eterno!=Aquí en Aitos, hemos=desarrollado la tecnología=de escalar montañas.^A veces encontramos cosas=que no hemos visto antes=en la cima de las=montañas.^Si encontramos algo=especialmente inusual,=se lo diremos=inmediatamente.\      ~00~#250
+|1041
+@000EB08A-000EB4B0-00-01
+;000EB08A{~05~Holy Father eternal!=I am here to report to=you that we discovered a=scroll on the mountain to=the northeast.~00~}#117#111
+~05~¡Santo Padre eterno!=Estoy aquí para decirle=que hemos encontrado un=pergamino en la montaña al=noreste.\    ~00~#111
+;000EB0F9{~05~Holy Father eternal!=The wind has died down,=and our windmills do not=operate as we would like.^Could you send the wind=to get them working again?~00~}#154#148
+~05~¡Santo Padre eterno!=El viento ha muerto, y=nuestros molinos no=operan como quisiéramos.^¿Podría mandar viento para=que vuelvan a operar?\        ~00~#148
+;000EB18D{~05~Holy Father eternal!=This year, some people=have started to raise=horses in the pastures.~00~}#097#091
+~05~¡Santo Padre eterno!=Este año, algunas personas=empezaron a criar caballos=en los pastos.~00~#091
+;000EB1E8{~05~Father, we have learned to=create clothes from=sheepskins.^These sheepskins are very=warm, and are very useful=in a cold, high-altitude=area like Aitos.^This year, we would like=to present these=sheepskins to you as an=offering.~00~}#236#230
+~05~Padre, hemos aprendido a=crear ropa de la piel de=oveja.^Estas pieles son muy=cálidas, y son muy útiles=en una zona fría y de alta=altitud como Aitos.^Este año, nos gustaría=presentarle estas pieles=de oveja como ofrenda.\      ~00~#230
+;000EB2CE{~05~My husband just died.=As he was not rained upon,=he must somehow not have=been loyal enough to=you....^At least, that's what he=muttered just as he=died...~00~}#163#157
+~05~Mi marido ha muerto.=Como no fue llovido, no=debió ser lo=suficientemente leal a=vos....^Al final, eso es lo que=murmuró mientras moría...\                ~00~#157
+;000EB36B{~05~My husband looked happy=and at peace, being=enveloped in the tears of=the Father....^Father, thank you for=respecting his wishes.~00~}#137#131
+~05~Mi marido parecía feliz y=en paz, siendo envuelto en=las lágrimas del padre...^Padre, gracias por=respetar sus deseos.\          ~00~#131
+;000EB3EE{~05~Holy Father...=This land of Aitos is a=high plateau, filled with=badlands and boulders.^Please destroy the=boulders and rock=formations with your=lightning, so that the=people can build houses.~00~}#201#195
+~05~Santo Padre...=Esta tierra de Aitos es=un altiplano, lleno de=páramos y peñascos.^Por favor destruya las=formaciones de rocas con=su relámpago,=para que la gente pueda=construir casas.\        ~00~#195
+|1063
+@000EB4B1-000EB902-00-01
+;000EB4B1{~05~Holy Father...=I am here to report to=you that we have found=one of your magic spells.^We humbly present it to=you as an offering, so=please accept it.~00~}#159#153
+~05~Santo Padre...=Estoy aquí para decirle=que encontramos uno de=sus hechizos.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\          ~00~#153
+;000EB54A{~05~.......^Lord ~06~, nobody is=here...^Could it be that even=those two have been lost=to the wiles of that evil=religion?^Lord ~06~, it looks=like the only way to solve=this problem is for you to=fight at that temple=yourself....~00~}#235#223
+~05~...^Señor ~06~, no hay=nadie...^¿Podría ser que hasta esos=dos han caído ante los=engaños de esa maligna=religión?^Señor ~06~,=parece que la única forma=de resolver este problema=es que pelee en ese=templo...\                  ~00~#223
+;000EB629{~05~Building a settlement in=Marana was very hard on=all of us.^No matter how many times=we built new houses, they=would only be destroyed=and their occupants killed=by the monsters.^While trying to figure out=what to do about the=problem, a priest came and=suggested that if we=become servants to=the monsters.^Not only would they stop=killing us, but we could=live a peaceful, enjoyable=life. And we were fooled.^I fully understand just=how weak humankind is=through this experience,=and think that I've become=a better person as a=result.^From now on, we will never=dare to oppose you.^We no longer need you=watching over us, and can=do fine on our own.^Please, go to other areas=and make them as peaceful=as this land of Marana.~00~}#736#730
+~05~Construir un asentamiento=en Marana nos costó mucho.^Sin importar cuantas veces=construyamos casas, son=destruidas y sus ocupantes=asesinados por los=monstruos.^Mientras intentábamos=descifrar que hacer con el=problema, vino un clérigo=que nos sugirió hacernos=siervos de los monstruos.^No solo dejarían de=matarnos, sino que=viviríamos una vida=pacífica y agradable.=Y nos engañaron.^Comprendo completamente=lo débil que es la=humanidad por esta=experiencia, y pienso que=soy una mejor persona como=resultado.^Desde ahora, nunca más nos=opondremos a vos.^Ya no necesitamos que nos=vigile, podemos hacerlo=bien solos.^Por favor vaya a otras=zonas y hágalas tan=pacíficas como a Marana.\                                          ~00~#730
+|1106
+@000EB903-000EBD39-00-01
+;000EB903{~05~Holy Father...=Being a jungle, Marana has=lots of disease carriers.^As a result there are lots=of plagues here, so having=a good stock of medicine=is essential for survival.^This year, we offer to you=some of this medicine as=an offering.^If there is any other land=far away that is suffering=from plague, please use=this medicine to help the=people there.~00~}#364#358
+~05~Padre...=Como jungla, Marana tiene=portadores de=enfermedades.^Como resultado hay muchas=plagas aquí, así que=tener un buen surtido de=medicina es esencial.^Este año, le ofrecemos=algo de esta medicina como=ofrenda.^Si hay alguna otra tierra=lejana que esté sufriendo=de la plaga, por favor use=esta medicina para ayudar=a su gente.\                       ~00~#358
+;000EBA69{~05~An ever-increasing number=of people have started to=oppose you, ~06~, the=eternal Father.^It seems that the nearby=temple is what is causing=people to turn against=you.^This is our problem, so we=will solve it ourselves,=but I thought I should=report it to you=nonetheless.~00~}#281#272
+~05~Un número que incrementa=de gente ha empezado a=oponerse a vos, ~06~,=el Padre eterno.^Parece que el templo=cercano es lo que hace que=la gente se vuelva contra=vos.^Es nuestro problema, así=que lo resolveremos, pero=pensé que debería=decírselo a vos=igualmente.\          ~00~#272
+;000EBB79{~05~Holy Father...=We found an ancient tablet=that fell from the sky.^As the tablet directs, we=will investigate the=nearby bird-shaped island.~00~}#147#141
+~05~Santo Padre...=Hallamos una antigua =tableta que cayó del cielo.^Como dice la tableta,=investigaremos la cercana=isla con forma de pájaro.\~00~#141
+;000EBC06{~05~Holy Father...=Unfortunately we were not=able to discover anything=of note from the northeast=island.^We suspect there's=something there, but there=are so many trees and=thick undergrowth there=that we can't search=easily.^But we will not give up.=We will keep going back=there until we discover=something.~00~}#314#308
+~05~Santo Padre...=Desafortunadamente no=descubrimos nada digno de=mención en la isla al=noreste.^Sospechamos que allí hay=alguna cosa, pero hay=demasiados árboles y=espesa maleza que no nos=deja buscar fácilmente.^Pero no nos rendiremos.=Seguiremos volviendo hasta=que descubramos alguna=cosa.\               ~00~#308
+|1079
+@000EBD3A-000EC1B4-00-01
+;000EBD3A{~05~Holy Father...=We discovered one of your=magic spells from the=northeast island.^We humbly present it to=you as an offering, so=please accept it.~00~}#153#147
+~05~Santo Padre...=Descubrimos uno de sus=hechizos mágicos en la=isla noreste.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\     ~00~#147
+;000EBDCD{~05~Holy Father...=A temple has been built at=one of the edges of=Marana.^The people say that they=have built it to worship=you, but there's something=strange about it.^Unlike all the other=buildings, the monsters=won't attack the temple.^I have a bad feeling about=it, but it may just be my=imagination.~00~}#308#302
+~05~Santo Padre...=Se ha construido un templo=en uno de los bordes de=Marana.^La gente dice que lo han=construido para adorarle,=pero hay algo extraño en=él.^A diferencia del resto de=los edificios, los=monstruos no atacan el=templo.^Tengo un mal=presentimiento, pero quizá=solo sea mi imaginación.\     ~00~#302
+;000EBEFB{~05~Holy Father...=We want to proceed to the=northwest island and=expand the town.^Is there any way you could=create a land bridge over=the channel to it?~00~}#158#152
+~05~Santo Padre...=Queremos proceder a la=isla noroeste y expandir=la ciudad.^¿Hay alguna forma de que=pudiera crear un puente=sobre el canal a ella?\    ~00~#152
+;000EBF93{~05~Holy Father eternal!=While out deep-sea=fishing, some fishermen=discovered a scroll.^We humbly present it to=you as an offering, so=please accept it.~00~}#157#151
+~05~¡Santo Padre eterno!=Pescando profundo, los=pescadores encontraron un=pergamino.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\   ~00~#151
+;000EC02A{~05~Holy Father eternal!=We have started deep-sea=fishing here in Marana.^In the far-off oceans,=fish are not the only=thing we catch. Sometimes=we discover unusual=artifacts.^If we find anything of=note, I will report to=you.~00~}#230#224
+~05~¡Santo Padre eterno!=Hemos comenzado a pescar=profundo en Marana.^En los océanos lejanos,=no solo pescamos=peces. A veces descubrimos=artefactos inusuales.^Si encontramos algo=notable, se lo=informaremos.\                 ~00~#224
+;000EC10A{~05~Holy Father...=The island of Marana is=surrounded by forests,=and is very confined as a=result.^Is there anything you=could do to get rid of=the forests so we can=build?~00~}#177#171
+~05~Santo Padre...=La isla de Marana está=rodeada por bosques, y=está muy confinada como=resultado.^¿Podemos hacer algo para=deshacernos de los bosques=y poder construir?\  ~00~#171
+|1147
+@000EC1B5-000EC5B4-00-01
+;000EC1B5{~05~Holy Father...=Just a little earlier, an=ancient tablet fell from=the skies.~00~}#084#078
+~05~Padre...=Hace un rato, cayó un=antigua tableta de los=cielos.\              ~00~#078
+;000EC203{~05~Holy Father...=I am here to report to you=that we have discovered a=mysterious staff.^We humbly present it to=you as an offering, so=please accept it.~00~}#158#152
+~05~Santo Padre...=Estoy aquí para decirle=que hemos descubierto un=misterioso bastón.^Humildemente se la=presentamos como ofrenda,=acéptela por favor.\  ~00~#152
+;000EC29B{~05~Holy Father...=Monsters have appeared in=the giant tree, the symbol=of Northwall!^When we look at that tree,=we are struck with a=feeling of awe and=nostalgia that we can't=effectively put into=words.^Father, please protect our=tree! Descend to earth=and fight the monsters=attacking it!~00~}#295#289
+~05~Santo Padre...=¡Aparecieron monstruos en=el árbol gigante, símbolo=de Northwall!^Cuando miramos ese árbol,=nos da un sentimiento de=admiración y nostalgia que=no podemos expresar con=palabras.^Padre, ¡por favor proteja=el árbol! ¡Descienda a=tierra y luche contra los=monstruos!\        ~00~#289
+;000EC3BC{~05~Holy Father...=Northwall has been freed=from the shadow of the=monsters!!^We can handle things on=our own now. Thank you=very much for everything.~00~}#154#148
+~05~Santo Padre...=¡¡Northwall ha sido=liberada de la sombra de=los monstruos!!^Ahora podemos hacer las=cosas solos. Muchas=gracias por todo.\        ~00~#148
+;000EC450{~05~Holy Father...=Here in Northwall, we have=learned to build bridges.^Now we can build houses=on the other side of the=river.~00~}#131#125
+~05~Santo Padre...=Aquí en Northwall, hemos=aprendido a crear puentes.^Ahora podemos construir=casas al otro lado del=río.\    ~00~#125
+;000EC4CD{~05~Holy Father...=The lake has finally=showed itself from under=the thick sheet of ice=that was covering it=before.^Now we can start fishing=here in Northwall.^Father, now even this=far-off and harsh=environment has become=habitable.~00~}#238#232
+~05~Santo Padre...=El lago finalmente se ha=mostrado desde debajo de=la gruesa capa de hielo=que lo cubría antes.^Ahora empezaremos a pescar=en Northwall.^Padre, ahora hasta este=lejano y duro entorno se=ha vuelto habitable.\         ~00~#232
+|1024
+@000EC5B5-000ECA3B-00-01
+;000EC5B5{~05~The temperature here is=terribly frigid, such that=normal clothes are not=enough to keep us warm.^Father, can you give us=any raw materials that=we can use to make warm=clothes out of?~00~}#192#186
+~05~La temperatura aquí es=terriblemente fría, tanto=que la ropa normal no=sirve para calentarnos.^Padre, ¿puede darnos algún=material que podamos=utilizar para hacer ropa=con él?\        ~00~#186
+;000EC66F{~05~Holy Father...=Did you know about the=huge tree to the=northeast?^The other day, the two of=us went to the foot of=that tree, and found=something interesting.^There were two sets of=intials carved into the=trunk.^This is surely evidence=that people lived in this=area several thousand=years ago.^Also, at the same time, we=discovered a scroll among=the roots of the tree.=Please accept it.~00~}#397#391
+~05~Santo Padre...=¿Conoce ese árbol tan=grande que hay al noreste?^El otro día, dos de=nosotros fuimos al pie de=ese árbol, y encontramos=algo interesante.^Había dos iniciales=grabadas en su tronco.^Esto es evidencia de que=había gente viviendo en la=zona hace miles de años.^También, entonces,=encontramos un pergamino=en las raíces del árbol.=Por favor acéptelo.\                           ~00~#391
+;000EC7F6{~05~Holy Father...=This far-off land of=Northwall is blanketed=with snow.^Please use the light of=the sun to melt the snow=and show us the green=earth beneath.~00~}#163#157
+~05~Santo Padre...=Esta tierra lejana de=Northwall está llena de=nieve.^Por favor use la luz del=sol para derretir la nieve=y mostrarnos la tierra=verde.\     ~00~#157
+;000EC893{~05~Holy Father...=Please forgive me.=I have been hiding=something from you.^The other day, I found a=mysterious gem, but it was=so beautiful that I did=not offer it to you.^I will never do such a=thing again.^I present this gem to you=as an offering, so please=accept it.~00~}#276#270
+~05~Santo Padre...=Por favor perdóneme.=Le he estado ocultando=algo.^El otro día, encontré una=misteriosa gema, pero era=tan hermosa que no se la=ofrecí.^Nunca más volveré a hacer=algo así.^Le presento esta gema como=ofrenda, por favor=acéptela.\                          ~00~#270
+;000EC9A1{~05~Holy Father...=From the depths of the=cold lake, we have found=one of your magic spells.^We humbly present it to=you as an offering, so=please accept it.~00~}#161#155
+~05~Santo Padre...=En las profundidades del=lago helado, encontramos=uno de sus hechizos.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\  ~00~#155
+|1159
+@000ECA3C-000ECE64-00-01
+;000ECA3C{~00~}#004#001
+~00~#001
+;000ECA3D{~05~So you've decided not to=work a miracle. Very well.~00~}#059#053
+~05~Así que ha decidido no=obrar un milagro. Muy bien.\~00~#053
+;000ECA72{~05~Lord ~06~,=unfortunately nothing=has happened.~00~}#054#045
+~05~Señor ~06~,=lamentablemente no ha=pasado nada.~00~#045
+;000ECA9F{~05~Your lightning can destroy=houses, fields, rocks, and=trees.~00~}#068#062
+~05~Su relámpago puede=destruir casas, campos,=rocas y árboles.\~00~#062
+;000ECADD{=But Lord ~06~, you=need at least 12 SP to=summon a lightning bolt.~00~}#071#065
+=Señor ~06~, necesita=al menos 12 PH para=invocar al Relámpago.\   ~00~#065
+;000ECB1E{=Very well, then please=indicate where you would=like to send the lightning=bolt.~00~}#085#082
+=Muy bien, entonces por=favor indique donde quiere=mandar el relámpago.\         ~00~#082
+;000ECB70{~05~So you've changed your=mind. Very well.~00~}#047#041
+~05~Así que ha cambiado de=idea. Muy bien.\~00~#041
+;000ECB99{~05~Will you use Lightning?~01~}#031#025
+~05~¿Usará el relámpago?   ~01~#025
+;000ECBB2{~05~By sending rain showers,=you can stimulate the=growth of grass and bring=dried-up fields back to=life.~00~}#110#104
+~05~Enviando lluvias, puede=estimular el crecimiento=de la hierba y devolver la=vida a los campos secos.\ ~00~#104
+;000ECC1A{=But Lord ~06~, you=need at least 16 SP to=summon a raincloud.~00~}#066#060
+=Señor ~06~, necesita=al menos 16 PH para=invocar lluvias.\   ~00~#060
+;000ECC56{=Very well, then please=show me where you would=like to summon the=rainclouds.~00~}#082#079
+=Muy bien, entonces por=favor enséñeme donde va a=invocar las nubes de=lluvia.~00~#079
+;000ECCA5{~05~So you've changed your=mind. Very well.~00~}#047#041
+~05~Así que ha cambiado de=idea. Muy bien.\~00~#041
+;000ECCCE{~05~Will you send rain?~01~}#027#021
+~05~¿Enviará lluvia?   ~01~#021
+;000ECCE3{~05~By summoning wind, you can=blow away all the monsters=that fly in the skies.~00~}#084#078
+~05~Invocando al viento, puede=rechazar a los monstruos=que vuelan en el cielo.\~00~#078
+;000ECD31{=But Lord ~06~, you=need at least 24 SP to=summon the winds.~00~}#064#058
+=Señor ~06~, necesita=al menos 24 PH para=invocar al viento.~00~#058
+;000ECD6B{Very well, then the winds=will blow. Is this all=right?~01~}#059#056
+Muy bien, entonces los=vientos soplarán.=¿Correcto?    ~01~#056
+;000ECDA3{~05~So you've changed your=mind. Very well.~00~}#047#041
+~05~Así que ha cambiado de=idea. Muy bien.\~00~#041
+;000ECDCC{~05~Will you create winds?~01~}#030#024
+~05~¿Creará vientos?      ~01~#024
+;000ECDE4{~05~If you summon an=earthquake it might change=the shape of the land.~00~}#074#068
+~05~Si invoca un terremoto=puede cambiar la forma de=la tierra.\      ~00~#068
+;000ECE28{=But Lord ~06~, you=need at least 60 SP to=cause an earthquake.~00~}#067#061
+=Señor ~06~, necesita=al menos 60 PH para=causar un terremoto.\~00~#061
+|1065
+@000ECE65-000ED2AE-00-01
+;000ECE65{=This will probably=destroy a fair number=of houses. Are you sure?~01~}#070#067
+=Esto probablemente=destruya unas cuantas=casas. ¿Está seguro?    ~01~#067
+;000ECEA8{~05~So you've changed your=mind. Very well.~00~}#047#041
+~05~Así que ha cambiado de=idea. Muy bien.\~00~#041
+;000ECED1{~05~Will you cause an=earthquake?~01~}#037#031
+~05~¿Causará un terremoto?=      ~01~#031
+;000ECEF0{~05~The light of the sun will=dry up swamplands and melt=snow.~00~}#066#060
+~05~La luz del sol secará los=pantanos y derretirá la=nieve.\ ~00~#060
+;000ECF2C{=But Lord ~06~, you=need at least 18 SP to=shine the sun.~00~}#061#055
+=Señor ~06~, necesita=al menos 18 PH para=que brille.\   ~00~#055
+;000ECF63{=Then show me where you=want to bring the light=to.~00~}#055#052
+=Enséñeme donde quiere=hacer brillar la luz.=\     ~00~#052
+;000ECF97{~05~So you've changed your=mind. Very well.~00~}#047#041
+~05~Así que ha cambiado de=idea. Muy bien.\~00~#041
+;000ECFC0{~05~Will you shine the light?~01~}#033#027
+~05~¿Hará brillar la luz?    ~01~#027
+;000ECFDB{~05~Lord ~06~, in which=direction will you have=the people develop the=town?~00~}#080#071
+~05~Señor ~06~, ¿en qué=dirección dejará a la=gente desarrollar la=ciudad?\ ~00~#071
+;000ED022{~05~~08~-~03~~5F~~D0~ will now develop=in the direction you have=specified.~00~}#079#061
+~05~~08~-~03~~5F~~D0~ se desarrollará=ahora en la dirección=especificada.\ ~00~#061
+;000ED05F{~6D~~D0~~76~~D0~~80~~D0~ú~D0~~90~~D0~~97~~D0~~A1~~D0~Fillmore~00~}#065#023
+~6D~~D0~~76~~D0~~80~~D0~ú~D0~~90~~D0~~97~~D0~~A1~~D0~Fillmore~00~#023
+;000ED076{Bloodpool~00~}#013#010
+Bloodpool~00~#010
+;000ED080{Cassandra~00~}#013#010
+Cassandra~00~#010
+;000ED08A{Aitos~00~}#009#006
+Aitos~00~#006
+;000ED090{Marana~00~}#010#007
+Marana~00~#007
+;000ED097{Northwall~00~}#013#010
+Northwall~00~#010
+;000ED0A1{Deathheim~00~}#013#010
+Deathheim~00~#010
+;000ED0AB{~05~So, you've changed your=mind.~00~}#037#031
+~05~Así que ha cambiado de=idea.\~00~#031
+;000ED0CA{~05~Holy Father...=We thank you very much=for giving us this=beautiful land.^It is thanks to you=watching over us that we=can work and live like=this.~00~}#154#148
+~05~Santo Padre...=Os agradecemos mucho=habernos dado esta bella=tierra.^Es gracias a que cuida de=nosotros que hemos podido=trabajar y vivir así.\   ~00~#148
+;000ED15E{~05~Holy Father...~08~-~03~~5F~~D0~ is=lacking in production,=so it has become difficult=for the population to=increase.~00~}#124#106
+~05~Santo Padre...~08~-~03~~5F~~D0~=está falta de producción,=así que se ha vuelto=difícil incrementar la=población.\   ~00~#106
+;000ED1C8{~05~Holy Father...=There are some dried-up=fields in town. Please=restore life to them with=your miracles.~00~}#110#104
+~05~Santo Padre...=Hay algunos campos secos=en la ciudad. Por favor=devuélvales la vida con=sus milagros.\~00~#104
+;000ED230{~05~Holy Father...=There is no more space for=us to build houses.^Please guide us to=undeveloped lands so=that we can build more.~00~}#133#127
+~05~Santo Padre...=No hay espacio para=que construyamos casas.^Por favor guíenos a=tierras sin desarrollar=para construir.\      ~00~#127
+|1098
+@000ED2AF-000ED6BD-00-01
+;000ED2AF{~05~Holy Father...=~08~-~03~~5F~~D0~ has become=completely developed, so=there are no more places=to build houses.~00~}#118#100
+~05~Santo Padre...=~08~-~03~~5F~~D0~ está=completamente=desarrollada, no hay sitio=donde construir más casas.\    ~00~#100
+;000ED313{~05~You have worked really=hard. Sleep well, for=tomorrow we will build=a wonderful world.^Oh, that's right.=Don't forget to turn off=the power while holding=down the Reset Button.=~01~}#185#179
+~05~Habéis trabajado muy duro.=Dormid bien, que mañana=construiremos un mundo=maravilloso.^Oh, es verdad.=No olvidéis apagar la=consola mientras pulsáis=el Botón de Reset.=$        ~01~#179
+;000ED3C6{~05~The recording has=completed. Will you=continue to build the=world?~01~}#074#068
+~05~El guardado se ha=completado.=¿Continuará construyendo=el mundo?  ~01~#068
+;000ED40A{~05~Lord ~06~, will you=record the state of the=world?~01~}#058#049
+~05~Señor ~06~, ¿grabará=el estado del mundo?=        ~01~#049
+;000ED43B{~05~Lord ~06~, you=certainly never get=tired, do you?=Let's work together to=create the world!~00~}#098#089
+~05~Señor ~06~, nunca os=cansáis, ¿verdad?=¡Trabajemos juntos para=crear el mundo!\           ~00~#089
+;000ED494{~05~So, you've changed your=mind.~00~}#037#031
+~05~Así que ha cambiado de=idea.\~00~#031
+;000ED4B3{~98~^m~D4~~D8~~D4~~F3~~D4~~0E~~D5~~25~Fire        = Magic      ~00~}#067#037
+~98~^m~D4~~D8~~D4~~F3~~D4~~0E~~D5~~25~Magia de    = Fuego      ~00~#037
+;000ED4D8{~26~Shooting    = Star Magic ~00~}#033#027
+~26~Magia de    = Estrellas  ~00~#027
+;000ED4F3{~27~Aura        = Magic      ~00~}#033#027
+~27~Magia de    = Aura       ~00~#027
+;000ED50E{[Light       = Magic      ~00~}#030#027
+[Magia de    = Luz        ~00~#027
+;000ED529{~A1~^m~D4~~D8~~D4~~F3~~D4~~0E~~D5~S~D5~~6F~~D5~ñ~D5~~A7~~D5~s~D5~~DF~~D5~~FB~~D5~~17~~D6~3~D6~O~D6~~6B~~D6~é~D6~~A3~~D6~o~D6~~DB~~D6~~F7~~D6~9Source of   = Life       ~00~}#171#069
+~A1~^m~D4~~D8~~D4~~F3~~D4~~0E~~D5~S~D5~~6F~~D5~ñ~D5~~A7~~D5~s~D5~~DF~~D5~~FB~~D5~~17~~D6~3~D6~O~D6~~6B~~D6~é~D6~~A3~~D6~o~D6~~DB~~D6~~F7~~D6~9
+Fuente de la= Vida       ~00~#069
+;000ED56E{~07~~3A~Source of   = Magic      ~00~}#037#028
+~07~~3A~Fuente de la= Magia      ~00~#028
+;000ED58A{~07~~3B~Scrap of    = Bread      ~00~}#037#028
+~07~~3B~Trozo de    = Pan        ~00~#028
+;000ED5A6{~01~}#004#001
+~01~#001
+;000ED5A7{>Rice        =            ~00~}#030#027
+>
+Arroz       =            ~00~#027
+;000ED5C2{~05~<Medicine    =            ~00~}#034#028
+~05~<
+Medicina    =            ~00~#028
+;000ED5DE{~04~~3E~Bridge      = Technology ~00~}#037#028
+~04~~3E~Tecnología  = de Puentes ~00~#028
+;000ED5FA{~04~?Wonderful   = Music      ~00~}#034#028
+~04~?Música      = Maravillosa~00~#028
+;000ED616{~04~~40~Dragon      = Egg        ~00~}#037#028
+~04~~40~
+Huevo de    = Dragón     ~00~#028
+;000ED632{~05~AAncient     = Tablet     ~00~}#034#028
+~05~A
+Tableta     = Antigua    ~00~#028
+;000ED64E{~05~BSkull of    = Destruction~00~}#034#028
+~05~B
+Cráneo de   = Destrucción~00~#028
+;000ED66A{~05~CSheepskin   =            ~00~}#034#028
+~05~C
+Piel de     = Oveja      ~00~#028
+;000ED686{~04~DWonderful   = Dog        ~00~}#034#028
+~04~D
+Perro       = Maravilloso~00~#028
+;000ED6A2{~04~EFertilizer  =            ~00~}#034#028
+~04~E
+Fertilizante=            ~00~#028
+|1039
+@000ED6BE-000ED8DC-00-01
+;000ED6BE{~01~}#004#001
+~01~#001
+;000ED6BF{FShining     = Sphere     ~00~}#030#027
+F
+Esfera      = Brillante  ~00~#027
+;000ED6DA{~04~GCompass     =            ~00~}#034#028
+~04~G
+Brújula     =            ~00~#028
+;000ED6F6{~04~HAngel       = Power      ~00~}#034#028
+~04~H
+Poder de    = Ángel      ~00~#028
+;000ED712{~04~~0A~~06~~06~'s= Status==Lv  ~09~^~90~^ HP ~09~^~92~^==SP ~09~~03~~81~^ MP ~09~^~94~^==Next    ~09~~04~~96~^==Total   ~09~~04~~17~^===Magic===Items~00~}#154#094
+~04~~0A~~06~~06~  = Estado==Nv  ~09~^~90~^ PV ~09~^~92~^==PH ~09~~03~~81~^ PM ~09~^~94~^==Próximo ~09~~04~~96~^==Total   ~09~~04~~17~^===Magia===Ítems~00~#094
+;000ED770{~03~~05~                          = Cities   Population ~09~~04~~17~^ ===   Area   ~3A~~3B~  Stat Lv Item==--------------------------==Fillmore  ~09~~03~~1B~^ ~08~~27~^c~D8~  ~09~~01~}#183#138
+~03~~05~                          = Población Ciudades  ~09~~04~~17~^ ===   Zona   ~3A~~3B~  Tipo Nv Ítem==--------------------------==Fillmore  ~09~~03~~1B~^ ~08~~27~^c~D8~  ~09~~01~#138
+;000ED7FA{-^   ~09~~01~}#013#007
+-^   ~09~~01~#007
+;000ED801{9^==Bloodpool ~09~~03~~1D~^ ~08~[^c~D8~  ~09~~01~}#049#028
+9^==Bloodpool ~09~~03~~1D~^ ~08~[^c~D8~  ~09~~01~#028
+;000ED81D{/^   ~09~~01~}#013#007
+/^   ~09~~01~#007
+;000ED824{~3B~^==Cassandra ~09~~03~~1F~^ ~08~'^c~D8~  ~09~~01~}#052#028
+~3B~^==Cassandra ~09~~03~~1F~^ ~08~'^c~D8~  ~09~~01~#028
+;000ED840{1^   ~09~~01~}#013#007
+1^   ~09~~01~#007
+;000ED847{<^==Aitos     ~09~~03~!^ ~08~`^c~D8~  ~09~~01~}#046#028
+<^==Aitos     ~09~~03~!^ ~08~`^c~D8~  ~09~~01~#028
+;000ED863{3^   ~09~~01~}#013#007
+3^   ~09~~01~#007
+;000ED86A{?^==Marana    ~09~~03~~23~^ ~08~´^c~D8~  ~09~~01~}#052#028
+?^==Marana    ~09~~03~~23~^ ~08~´^c~D8~  ~09~~01~#028
+;000ED886{5^   ~09~~01~}#013#007
+5^   ~09~~01~#007
+;000ED88D{A^==Northwall ~09~~03~~25~^ ~08~,^c~D8~  ~09~~01~}#049#028
+A^==Northwall ~09~~03~~25~^ ~08~,^c~D8~  ~09~~01~#028
+;000ED8A9{7^   ~09~~01~}#013#007
+7^   ~09~~01~#007
+;000ED8B0{C^~00~}#006#003
+C^~00~#003
+;000ED8B3{o~D8~t~D8~y~D8~~CE~~D8~~D3~~D8~~D8~~D8~None~00~}#047#017
+o~D8~t~D8~y~D8~~CE~~D8~~D3~~D8~~D8~~D8~Nada~00~#017
+;000ED8C4{Stop~00~}#008#005
+Nulo~00~#005
+;000ED8C9{Slow~00~}#008#005
+Bajo~00~#005
+;000ED8CE{Norm~00~}#008#005
+Norm~00~#005
+;000ED8D3{Fast~00~}#008#005
+Alto~00~#005
+;000ED8D8{Max!~00~}#008#005
+Máx.~00~#005
+|543

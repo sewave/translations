@@ -1,5 +1,5 @@
 Actraiser (Super Nintendo)
-Traducción al Español v2.0 (14/10/2023)
+Traducción al Español v2.1 (17/11/2023)
 (C) 2023 Traducciones Wave
 
 ------------------------
@@ -13,6 +13,10 @@ V2.0:
 -Reajustado todo el guion
 -Correcciones gramaticales
 -Cambios en expresiones y opciones de menú
+
+V2.1:
+-Arreglado bug al poner arroz sobre arrozal
+-Correcciones menores
 
 ------------------------
 Instrucciones de Parcheo
@@ -29,5 +33,6 @@ CRC32: bee9b30c
 Créditos
 --------
 Wave - Hacking, traducción y pruebas.
+Javier CRT - pruebas.
 
 -- FIN --

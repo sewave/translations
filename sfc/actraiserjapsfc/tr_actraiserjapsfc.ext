@@ -394,7 +394,7 @@ Cráneo\  ~00~#010
 ;0001444E{Nothing is written yet.~00~}#027#024
 No tiene nada escrito.\~00~#024
 ;00014466{~05~Where will you use it?=Please indicate where=you want me to put it.~00~}#075#069
-~05~¿Dónde lo usara?=Por favor indique donde=quiere que lo ponga.\     ~00~#069
+~05~¿Dónde lo usará?=Por favor indique donde=quiere que lo ponga.\     ~00~#069
 ;000144AB{~05~Lord ~06~, you have=gained an extra life=for the next time you=fight with the monsters!~00~}#095#086
 ~05~Señor ~06~, ¡ha ganado=una vida extra para la=próxima vez que luche con=los monstruos!\~00~#086
 ;00014501{~05~Lord ~06~, you have=gained an extra MP!!~00~}#048#039
@@ -404,9 +404,9 @@ No tiene nada escrito.\~00~#024
 ;00014588{~05~I wonder what Teddy will=think once he sees the=bread his mother baked?~00~}#079#073
 ~05~Me pregunto que pensará=Teddy cuando vea el trozo=de pan de su madre.\ ~00~#073
 ;000145D1{Lord ~06~, when you=gave the rice to the=paddy, you gained another!~00~}#071#065
-Señor ~06~, cuando dio=el arroz al arrozal, ¡ganó=otro más!\       ~00~#065
+~05~Señor ~06~, cuando dio=el arroz al arrozal,=¡ganó otro más!\      ~00~#065
 ;00014612{~05~Lord ~06~, there's no=point in using the rice=anywhere but a field.~00~}#075#066
-~05~Señor ~06~, no tiene=sentido usar el arroz si=no es en un arrozal.\~00~#066
+~05~Señor ~06~, no tiene=sentido usar el arroz si=no es en un campo.\  ~00~#066
 ;00014654{~05~Nothing is written yet.~00~}#031#025
 ~05~No tiene nada escrito.\~00~#025
 ;0001466D{~05~Lord ~06~, this area=is not stricken with=any plagues.~00~}#062#053
@@ -457,7 +457,7 @@ Soy el Ángel que le=ayudará, ahora que ha=perdido todo su poder.^
 La tierra está en ruinas y=solo monstruos vagan en=ella.^
 Esto es obra del Señor=Oscuro Satanás, que robó=todo su poder, Señor=~06~.^
 Para poder recuperar su=poder, necesitará la fe y=adoración de la gente,^
-pero antes necesitará=descender a la tierra y=luchar contra los=monstruos para hacer que=la tierra sea habitable=para los humanos primero.\                               ~00~#459
+pero primero deberá=descender a la tierra y=luchar contra los=monstruos para hacer que=la tierra sea habitable=para los humanos.\                                         ~00~#459
 |1468
 @00014E82-000152BA-00-01-03
 ;00014E82{~05~Welcome back, Lord=~06~. Are you well-=rested and feeling better?^Let's work together to=create a world for you,=my Lord, and the humans.~00~}#145#136
@@ -503,7 +503,7 @@ pués de todo el trabajo=la gente ya no nos=necesita.  ~03~#055
 ;000151CC{~03~}#004#001
 ~03~#001
 ;000151CD{=Don't you think that man=was a real shining example=of a human being and a=leader, knowing his fate=in advance, yet accepting=it?~03~}#134#131
-=¿No crees que ese hombre=era un gran ejemplo de=humano y líder, que sabía=su destino de antemano, y=aún y así lo aceptaba?       ~03~#131
+=¿No crees que ese hombre  =era un gran ejemplo de =humano y líder, que sabía=su destino de antemano, y=aún así lo aceptaba?      ~03~#131
 ;00015250{~03~}#004#001
 ~03~#001
 ;00015251{~03~}#004#001
@@ -761,7 +761,7 @@ Señor ~06~, ha sido un=largo y difícil camino=pero hemos terminado. ~03~#066
 ;00016336{~03~}#004#001
 ~03~#001
 ;00016337{=Don't you think that man=was a real shining example=of a human being and a=leader, knowing his fate=in advance, yet accepting=it?~03~}#134#131
-=¿No crees que ese hombre=era un gran ejemplo de=humano y líder, que sabía=su destino de antemano, y=aún y así lo aceptaba?       ~03~#131
+=¿No crees que ese hombre  =era un gran ejemplo de =humano y líder, que sabía=su destino de antemano, y=aún así lo aceptaba?      ~03~#131
 ;000163BA{~03~}#004#001
 ~03~#001
 ;000163BB{~03~}#004#001
@@ -1048,7 +1048,7 @@ Fuera de este templo,=la gente esta cantando=sus alabanzas a su=Padre.\      ~00
 ;000E8716{~05~Holy Father, hear our=prayer...^I am here to report to you=that we have discovered a=scroll in the eastern=forest.^We humbly present it to=you as an offering, so=please accept it.~00~}#187#181
 ~05~Por favor, escuche la=plegaria.^He venido a decirle que=hemos descubierto un=pergamino en el bosque=más al este.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\ ~00~#181
 ;000E87CB{~05~Father!=I have been feeling very=strange lately.^I have been seeing strange=visions in my mind that=quite frequently turn out=to come true in the=future.^If this is truly some sort=of power and not just a=coincidence, then I sense=some sort of holy power=from the eastern forest...~00~}#289#283
-~05~¡Padre!=Me he estado sintiendo=raro últimamente.^He estado viendo extrañas=visiones en mi mente que=muy frecuentemente se=vuelven realidad en el=futuro.^Si esto es realmente algún=tipo de poder y no solo=coincidencia, entonces=siento algo de poder en el=bosque más al este...\     ~00~#283
+~05~¡Padre!=Me he estado sintiendo=raro últimamente.^He estado teniendo=extrañas visiones en mi=mente que muy=frecuentemente se vuelven=realidad en el futuro.^Si esto es realmente algún=tipo de poder y no solo=coincidencia, entonces=siento algo de poder en el=bosque más al este...\   ~00~#283
 |1180
 @000E88E6-000E8D87-00-01
 ;000E88E6{~05~Holy Father eternal!=We have started deep-sea=fishing here in Fillmore.^In the far-off oceans,=fish are not the only=thing we catch. Sometimes=we discover unusual=artifacts.^If we find anything of=note, I will report to=you.~00~}#232#226
@@ -1070,7 +1070,7 @@ Fuera de este templo,=la gente esta cantando=sus alabanzas a su=Padre.\      ~00
 ;000E8E2A{~05~Holy Father...=I am here to report to you=that we have found a=mysterious bow and arrow.^We humbly present it to=you as an offering, so=please accept it.~00~}#161#155
 ~05~Santo Padre...=Estoy aquí para decirle=que descubrimos un arco y=flechas misteriosos.^Humildemente se los=presentamos como ofrenda,=acéptelo por favor.\ ~00~#155
 ;000E8EC5{~05~Holy Father...=Something terrible has=happened since we sealed=the last Monster Lair.^Monsters appeared from the=lone castle sitting=alongside the lake,=demanding human sacrifices=from us!^After much hard thought,=we decided to pick three=sacrifices by drawing=lots, and my son, Teddy,=was one of those who was=picked...^Father, I beg of you!=Please head to battle with=the monsters in the=castle!^Please rescue our son,=and all of Bloodpool!~00~}#450#444
-~05~Santo Padre...=Ha pasado algo terrible=desde que sellamos la=última guarida.^Aparecieron monstruos del=castillo solitario cercano=al lago, ¡pidiéndonos=sacrificios humanos!^Después de pensarlo mucho,=decidimos elegir a tres=sacrificios por sorteo, y =mi hijo, Teddy, fue uno de=los que fueron elegidos...^¡Padre, se lo imploro!=¡Vaya a luchar con los=monstruos en el castillo!^¡Salve a nuestro hijo,=y a todo Bloodpool!\                      ~00~#444
+~05~Santo Padre...=Ha pasado algo terrible=desde que sellamos la=última guarida.^Aparecieron monstruos del=castillo solitario cercano=al lago, ¡pidiéndonos=sacrificios humanos!^Después de pensarlo mucho,=decidimos elegir a tres=sacrificios por sorteo, y =mi hijo, Teddy, fue uno de=los que fueron elegidos...^¡Padre, se lo imploro!=¡Vaya a luchar con los=monstruos al castillo!^¡Salve a nuestro hijo,=y a todo Bloodpool!\                         ~00~#444
 ;000E9081{~05~Holy Father...=Thanks to you, the=monsters are now=completely gone from=Bloodpool.^My son Teddy was rather=brash. While at the castle=as a sacrifice, searched=around and found a scroll.^We humbly present it to=you as an offering, so=please accept it.^We no longer need you=watching over us, and can=do fine on our own.^Please, go to other areas=and make them as peaceful=as this land of Bloodpool.~00~}#405#399
 ~05~Santo Padre...=Gracias a vos, los=monstruos han sido=erradicados de Bloodpool.^Mi hijo Teddy era un=temerario. Estando en el=castillo como sacrificio,=encontró un pergamino.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.^Ya no necesitamos que nos=vigile, podemos hacerlo=bien solos.^Por favor vaya a otras=zonas y hágalas tan=pacíficas como a=Bloodpool.\                         ~00~#399
 |1160
@@ -1082,7 +1082,7 @@ Fuera de este templo,=la gente esta cantando=sus alabanzas a su=Padre.\      ~00
 ;000E93C9{~05~Holy Father...=We have built a road to=Fillmore, the neighboring=town.^We intend to teach the=people of Fillmore how=to cultivate rice.~00~}#143#137
 ~05~Santo Padre...=Hemos creado un camino a=Fillmore, la ciudad=vecina.^Pretendemos enseñar a=la gente de Fillmore cómo=cultivar arroz.\   ~00~#137
 ;000E9452{~05~Holy Father...=Here in Bloodpool, we have=learned to raise and=cultivate a crop called=rice.^Please share this=technology with other=areas that do not know=how to grow it yet.~00~}#183#177
-~05~Santo Padre...=Aquí en Bloodpool,=aprendimos a criar y=cultivar un cultivo=llamado arroz.^Por favor comparta esta=tecnología con otras=zonas que no saben=cultivarlo aún.\     ~00~#177
+~05~Santo Padre...=Aquí en Bloodpool,=aprendimos a criar y=plantar un cultivo llamado=arroz.^Por favor comparta esta=tecnología con otras=zonas que no saben=cultivarlo aún.\      ~00~#177
 ;000E9503{~05~Holy Father...=My son Teddy has run away=from home!^Everyone has searched all=over for him, but in the=end nobody was able to=find him anywhere.^I am sure that wherever he=is, he must be hungry. I=have some bread here.=Father, wherever he is,=please bring this bread=to him.~00~}#282#276
 ~05~Santo Padre...=¡Mi hijo Teddy ha huido de=casa!^Todos lo han buscado por=todas partes, pero al=final nadie fue capaz de=encontrarle.^Seguro que esté donde=esté, debe estar=hambriento. Tengo algo de=pan. Padre, por favor=llévele este trozo de pan=donde esté.\                ~00~#276
 |1031
@@ -1090,7 +1090,8 @@ Fuera de este templo,=la gente esta cantando=sus alabanzas a su=Padre.\      ~00
 ;000E9617{~05~Holy Father eternal!=Teddy has come home!!=After eating my homecooked=bread, he started to feel=homesick and came back.^It turns out that he did=not run away from home,=but was trying to discover=why the lake is red and=poisonous.^I always thought of him as=a child, but all of a=sudden he's grown up...=It was quite a surprise.^According to Teddy, the=poison in the water is=coming from the Monster=Lair next to the lake.^We offer to you this=bleached skull that he=found in the cave.=Please take it.~00~}#509#503
 ~05~¡Santo Padre eterno!=¡¡Teddy ha vuelto a casa!!=Después de comer mi pan=casero, comenzó a sentir=nostalgia y volvió.^Resulta que él no se=escapó de casa, si no que=intentaba descubrir por=que el lago es rojo y=venenoso.^Siempre pensé en él como=un niño, pero de repente=ha crecido tanto...=Fue toda una sorpresa.^Según Teddy, el veneno del=agua viene de la Guarida=de Monstruos al lado del=lago.^Le ofrecemos este cráneo=blanqueado que encontró en=la cueva.=Quédeselo.\                                ~00~#503
 ;000E980E{~05~Holy Father...=It is a shameful state of=affairs that this should=be a problem, but you=should know what is going=on.^The people here have=become uncivilized and=savage, and Bloodpool has=become a place of endless=conflict and strife.^I pushed the people of the=town so hard to develop=the city further without=any care for their own=situations that I drove=them over the edge...^Father, do you have any=sort of wonderful miracle=that can calm their=troubled souls?~00~}#473#467
-~05~Santo Padre...=Se trata de una situación=vergonzosa que esto sea un=problema, pero debe saber=lo que está ocurriendo.^La gente aquí se ha vuelto=incivilizada y salvaje,=y Bloodpool se ha vuelto=un lugar de conflictos sin=fin y luchas.^Apreté a la gente de la=ciudad tanto a desarrollar=más la misma sin tener en=cuenta sus propias=situaciones que les llevé=al límite...^Padre, ¿tiene algún tipo=de milagro maravilloso que=pueda calmar sus almas=turbadas?\          ~00~#467
+~05~Santo Padre...=Se trata de una situación=vergonzosa que esto sea un=problema, pero debe saber=lo que está ocurriendo.^La gente aquí se ha vuelto=incivilizada y salvaje,=y Bloodpool se ha vuelto=un lugar de conflictos y=luchas sin fin.^
+Presioné tanto a la gente=de la ciudad para=desarrollarla más sin=tener en cuenta sus=propias situaciones,=que los llevé al límite...^Padre, ¿tiene algún tipo=de milagro maravilloso que=pueda calmar sus almas=turbadas?\           ~00~#467
 ;000E99E1{~05~Holy Father eternal!=Our fishing industry here=in Bloodpool has proceeded=into the deep seas.^Because one man here=developed a device called=a compass, we can now=navigate the oceans.^We humbly present this=device to you as an=offering, so please accept=it.~00~}#265#259
 ~05~¡Santo Padre eterno!=Nuestra industria pesquera=de Bloodpool ha procedido=al océano profundo.^Un hombre de aquí ha=creado un dispositivo=llamado brújula, con él=navegamos los océanos.^Humildemente le damos el=aparato como ofrenda, por=favor, acéptelo.\     ~00~#259
 |1229
@@ -1124,7 +1125,7 @@ Fuera de este templo,=la gente esta cantando=sus alabanzas a su=Padre.\      ~00
 ;000EA47A{~05~Holy Father...=I am here to report that=we have discovered a=scroll at the foot of the=mountain to the south.^We humbly present it to=you as an offering, so=please accept it.~00~}#182#176
 ~05~Santo Padre...=Estoy aquí para informarle=de que hemos descubierto=un pergamino al pie de la=montaña al sur.^Humildemente se lo=presentamos como ofrenda,=acéptelo por favor.\~00~#176
 ;000EA52A{~05~There was a great rain in=the northern desert, and=when the sand was washed=away there was a giant=pyramid beneath it.^We sense an evil presence=from within that pyramid.=In the near future we plan=to investigate it, and=will report to you=anything that we find.~00~}#270#264
-~05~Hubo una gran lluvia en el=desierto al norte, y=cuando la arena se fue=había una pirámide gigante=tras ellas.^Sentimos una presencia=maligna en esa pirámide.=En un futuro cercano=planeamos investigarla, y=le informaremos de lo que=encontremos.\                  ~00~#264
+~05~Hubo una gran lluvia en el=desierto al norte, y=cuando la arena se fue=había una pirámide gigante=tras ella.^Sentimos una presencia=maligna en esa pirámide.=En un futuro cercano=planeamos investigarla, y=le informaremos de lo que=encontremos.\                   ~00~#264
 ;000EA632{~05~We have discovered an=ancient tablet beneath a=rock at the geoglyph.^It seems to talk of an=island in a far off place=that is in the same shape=of the geoglyph.^We present this tablet to=you as an offering, so=please accept it.~00~}#235#229
 ~05~Descubrimos una antigua=tableta bajo una roca en=el geoglifo.^Parece hablar de una isla=en un lugar lejano que=tiene la misma forma que=el geoglifo.^Le ofrecemos esta tableta,=así que por favor,=acéptela.\                      ~00~#229
 ;000EA717{~05~Ruins have an enticing=mystique to them.=One by one, our friends=became obsessed with the=pyramid.^That by itself wouldn't be=a problem, but there's=something really strange=about that pyramid.^Not a single person who=went to investigate it has=returned.~00~}#262#256
@@ -1132,7 +1133,7 @@ Fuera de este templo,=la gente esta cantando=sus alabanzas a su=Padre.\      ~00
 |1277
 @000EA817-000EAC78-00-01
 ;000EA817{~05~Holy Father...=We are stricken with a=terrible plague, and=people are dying left=and right!^First the disease ravages=the body and creates=terrible suffering before=killing the host.^It is as the lives of the=people are being snuffed=out as easily as candles.^Please, give us some=medicine! Free us from=this torment and give us=peace!~00~}#343#337
-~05~Santo Padre...=Nos ha afectado una=terrible plaga, ¡y la=gente muere a diestro=y siniestro!^Primero la enfermedad=destroza el cuerpo y da=mucho sufrimiento antes de=matar al huésped.^Es como si la vida de la=gente se aspirara tan=fácilmente como una vela.^Por favor, ¡denos=medicina! ¡Libérenos de=este tormento y denos la=paz!\       ~00~#337
+~05~Santo Padre...=Nos ha afectado una=terrible plaga, ¡y la=gente muere sin parar!^Primero la enfermedad=destroza el cuerpo y da=mucho sufrimiento antes de=matar al huésped.^Es como si la vida de la=gente se apagara tan=fácilmente como una vela.^Por favor, ¡denos=medicina! ¡Libérenos de=este tormento y denos la=paz!\                    ~00~#337
 ;000EA968{~05~Holy Father...=The land of Cassandra is=in a region of great=desert.^Please summon storms where=you want us to develop,=to turn the pallid desert=green and full of life.~00~}#177#171
 ~05~Santo Padre...=La tierra de Cassandra=está en una región=desértica.^Invoque lluvia donde=quiera que vayamos, para=volver el desierto verde y=lleno de vida.\             ~00~#171
 ;000EAA13{~05~Here in ~08~/~03~~F1~~AC~,=we are developing=steadily.^It is thanks to you that=we can work in peace.~00~}#109#091

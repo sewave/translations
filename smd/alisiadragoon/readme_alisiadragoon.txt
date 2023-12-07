@@ -27,7 +27,7 @@ No está traducida la intro de letras grandes.
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
 Palabra OF en ranking.
-Si encuentras alguno puedes mandar un correo a sewave@gmail.com
+Si encuentras alguno https://traduccioneswave.blogspot.com/
 
 ---------------------------
 4. Instrucciones de Parcheo

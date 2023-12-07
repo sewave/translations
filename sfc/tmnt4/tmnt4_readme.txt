@@ -29,7 +29,7 @@ La pantalla de opciones y time attack se traducen al pasar por encima.
 La pantalla de neon riders tiene algunas letras sin traducir.
 Tampoco está traducida la pequeña intro donde salen las tortugas.
 Ni algunos mensajes como PRESS START.
-Si encuentras alguno puedes mandar un correo a sewave@gmail.com
+Si encuentras alguno https://traduccioneswave.blogspot.com/
 También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------

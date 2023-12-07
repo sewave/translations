@@ -26,7 +26,7 @@ Esta traducción y hacking es completamente original.
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
 El texto del final del juego en realidad es una imagen, así que no está traducido.
-Si encuentras alguno puedes mandar un correo a sewave@gmail.com
+Si encuentras alguno https://traduccioneswave.blogspot.com/
 También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------

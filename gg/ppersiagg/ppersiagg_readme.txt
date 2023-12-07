@@ -26,7 +26,7 @@ Esta traducción y hacking es completamente original.
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
 No todos los emuladores detectan que es un juego en formato GG-SMS, Emulicious por ejemplo lo ejecuta correctamente.
-Si encuentras alguno puedes mandar un correo a sewave@gmail.com
+Si encuentras alguno https://traduccioneswave.blogspot.com/
 También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------

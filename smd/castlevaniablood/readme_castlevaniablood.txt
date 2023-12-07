@@ -26,7 +26,7 @@ Esta traducción y hacking es completamente original.
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
 Los textos que son sprites, la pantalla de seleccion de personaje y alguna parte de la barra de estado no estan traducidos.
-Si encuentras alguno puedes mandar un correo a sewave@gmail.com
+Si encuentras alguno https://traduccioneswave.blogspot.com/
 
 ---------------------------
 4. Instrucciones de Parcheo

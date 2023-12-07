@@ -27,7 +27,7 @@ v1.2: Arreglada ficha de Jay
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-Algunos textos sueltos no los he encontrado (así como menús), si encuentras alguno puedes mandar un correo a sewave@gmail.com
+Algunos textos sueltos no los he encontrado (así como menús), si encuentras alguno https://traduccioneswave.blogspot.com/
 También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------

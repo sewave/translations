@@ -14,7 +14,7 @@ Contenido
 1. Notas y Fallos Conocidos
 ---------------------------
 Esta traducción y hacking es completamente original.
-Si encuentras algún fallo puedes mandar un correo a sewave@gmail.com
+Si encuentras algún fallo https://traduccioneswave.blogspot.com/
 También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------

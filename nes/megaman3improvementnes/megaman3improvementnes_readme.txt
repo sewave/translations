@@ -30,7 +30,7 @@ V1.1: Corregida frase de la intro.
 --------------------------------------------
 El menu de selección de armas no va bien en la primera parte de la pantalla de geminiman con algún emulador.
 Este bug es originario del Improvement hack.
-Si encuentras alguno puedes mandar un correo a sewave@gmail.com
+Si encuentras alguno https://traduccioneswave.blogspot.com/
 También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------

@@ -28,8 +28,7 @@ Esta traducción y hacking es completamente original.
 En el menu de armas, pone S.Choque en vez de E.Choque, esto es porque repite letras de otros lados, no se puede corregir.
 También pone R.Coil, es por el mismo tema, coge la letra de otro lado.
 Lo mismo con la S.Arrow.
-Si encuentras alguno puedes mandar un correo a sewave@gmail.com
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
+Si encuentras alguno puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

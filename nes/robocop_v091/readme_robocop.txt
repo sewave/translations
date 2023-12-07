@@ -28,7 +28,7 @@ v0.91: cambiado nombre de rom a goodnes, correccion de directrices
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
+
 
 ---------------------------
 4. Instrucciones de Parcheo

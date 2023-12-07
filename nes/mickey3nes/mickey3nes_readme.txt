@@ -28,7 +28,7 @@ V1.1: Arreglos menores
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
+
 
 ---------------------------
 4. Instrucciones de Parcheo

@@ -26,7 +26,7 @@ Todo traducido excepto los menus y las frases ingame con letras grandes.
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
+
 
 ---------------------------
 4. Instrucciones de Parcheo

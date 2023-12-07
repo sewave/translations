@@ -15,7 +15,7 @@ TdC
 -----------------
 1. Sobre Dragon Warrior III
 -----------------
-Dragon Warrior III es un jrpg clasico de enix, de batallas por turnos.
+Dragon Warrior III es un jrpg clasico de Enix, de batallas por turnos.
 Este parche lo traduce completamente al español.
 
 ---------------------
@@ -28,7 +28,7 @@ traducidos, espero que para que se entiendan algo mas.
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-Ninguno que yo sepa, si encuentras alguno puedes mandar un correo a sewave@gmail.com
+Ninguno que yo sepa, si encuentras alguno puedes informarme en https://traduccioneswave.blogspot.com/
 
 ---------------------------
 4. Instrucciones de Parcheo

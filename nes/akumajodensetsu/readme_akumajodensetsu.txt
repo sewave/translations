@@ -26,7 +26,8 @@ v1.1: Arreglado final con Sypha.
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
+Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

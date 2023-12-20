@@ -17,7 +17,6 @@ TdC
 -----------------
 Adaptación libre de la recreativa para megadrive.
 
-
 ---------------------
 2. Notas del Proyecto
 ---------------------
@@ -28,8 +27,7 @@ v1.2: Arreglado pausa sin créditos
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
+Puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

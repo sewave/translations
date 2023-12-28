@@ -26,8 +26,7 @@ Incluye el parche para el nivel del caballo de Tony Hedstrom.
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
+Puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

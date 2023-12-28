@@ -15,19 +15,20 @@ TdC
 -----------------
 1. Sobre Desert Strike - Return to the Gulf
 -----------------
-Accion/aventuras sobre un helicoptero que realiza misiones especiales.
+Acción/aventuras sobre un helicóptero que realiza misiones especiales.
 
 ---------------------
 2. Notas del Proyecto
 ---------------------
 Esta traducción y hacking es completamente original.
 1.1:
-Esta version arregla errores en la intro del juego, especialmente con las letras grandes.
+Esta versión arregla errores en la intro del juego, especialmente con las letras grandes.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
+Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

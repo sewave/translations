@@ -1,6 +1,6 @@
 Terminator 2 - Judgment Day (NES)
-Traducción al Español v2.1 (10/07/2022)
-(C) 2022 Traducciones Wave
+Traducción al Español v2.2 (28/12/2023)
+(C) 2023 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -16,6 +16,8 @@ V2.0:
 -Traducidos HOLDING, DEPOSIT, TIMER
 V2.1:
 -Arreglada la segunda adquisición de arma
+V2.2:
+-Arreglado mensaje de misión completada en fundición
 
 ------------------------
 Instrucciones de Parcheo

@@ -15,8 +15,8 @@ TdC
 -----------------
 1. Sobre Stanley - The Search for Dr. Livingston
 -----------------
-Stanley es un juego de exploracion MUY dificil, me recuerda a los clasicos de spectrum.
-Este parche lo traduce completamente al español, añade la Ñ y traduce algunos graficos.
+Stanley es un juego de exploración MUY difícil, me recuerda a los clásicos de spectrum.
+Este parche lo traduce completamente al español, añade la Ñ y traduce algunos gráficos.
 
 ---------------------
 2. Notas del Proyecto
@@ -28,7 +28,8 @@ v1.01 Corregida errata en texto
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
+Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

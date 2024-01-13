@@ -15,18 +15,18 @@ TdC
 -----------------
 1. Sobre Totally Rad
 -----------------
-Simpatico plataformas con varios poderes magicos, algo corto.
+Simpatico plataformas con varios poderes mágicos, algo corto.
 
 ---------------------
 2. Notas del Proyecto
 ---------------------
 Esta traducción y hacking es completamente original.
-Todo esta traducido que yo sepa, se incluyen minusculas y acentos/ñ.
+Todo esta traducido que yo sepa, se incluyen minúsculas y acentos/ñ.
 
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
+Puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

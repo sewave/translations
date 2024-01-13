@@ -19,8 +19,7 @@ Esta traducción y hacking es completamente original.
 --------------------------------------------
 2. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
+Puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 3. Instrucciones de Parcheo

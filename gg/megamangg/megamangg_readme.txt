@@ -26,8 +26,7 @@ V1.1: Traducida la adquisición de armas, arreglada pantalla de selección al elim
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
+Puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

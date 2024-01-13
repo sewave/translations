@@ -1,4 +1,4 @@
-The New Zealand Story (Master SYstem)
+The New Zealand Story (Master System)
 Traducción al Español v1.0 (07/09/2018)
 (C) 2018 Wave Translations
 

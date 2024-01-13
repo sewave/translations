@@ -15,7 +15,7 @@ TdC
 -----------------
 1. Sobre Mercs
 -----------------
-Clasico de sega en version domestica, que a pesar de no tener multijugador añade un modo original muy interesante.
+Clásico de sega en versión domestica, que a pesar de no tener multijugador añade un modo original muy interesante.
 
 ---------------------
 2. Notas del Proyecto
@@ -26,7 +26,8 @@ Todo traducido excepto la barra de estado y el congratulations final del modo or
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
+Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

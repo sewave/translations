@@ -27,7 +27,6 @@ Esta traducción y hacking es completamente original.
 --------------------------------------------
 Las biografías de los personajes no están traducidas.
 Si encuentras alguno https://traduccioneswave.blogspot.com/
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

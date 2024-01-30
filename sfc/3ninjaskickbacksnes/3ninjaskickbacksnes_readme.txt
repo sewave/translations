@@ -15,7 +15,7 @@ TdC
 -----------------
 1. Sobre 3 Ninjas Kick Back
 -----------------
-Adaptacion de la pelicula a plataformas/accion.
+Adaptación de la película a plataformas/acción.
 
 ---------------------
 2. Notas del Proyecto
@@ -25,8 +25,7 @@ Esta traducción y hacking es completamente original.
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
+Puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

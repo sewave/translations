@@ -26,7 +26,8 @@ V1.1: Correcciones menores.
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
+Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

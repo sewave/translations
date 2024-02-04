@@ -15,7 +15,7 @@ TdC
 -----------------
 1. Sobre Time Zone
 -----------------
-Curioso p`lataformas para la 8 bits de nintendo.
+Curioso plataformas para la 8 bits de Nintendo.
 
 ---------------------
 2. Notas del Proyecto
@@ -25,8 +25,7 @@ Esta traducción y hacking esta basado en la traducción al inglés de King Mike.
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
-También puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
+Puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

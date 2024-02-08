@@ -9,10 +9,6 @@ Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
-59FFE - STATUS
-5FD5E - FONT
-102E00 - FREE SPACE
-
 ------------------------
 Instrucciones de Parcheo
 ------------------------

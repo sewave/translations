@@ -1,7 +1,7 @@
 @echo off
-set T_FILENAME="TR_Super Ghouls 'N Ghosts (U) [!].smc"
-set S_FILENAME="Super Ghouls 'N Ghosts (U) [!].smc"
-set SCRIPTNAME="superghoulsghosts"
+set T_FILENAME="TR_Super Ghouls'n Ghosts (USA).sfc"
+set S_FILENAME="Super Ghouls'n Ghosts (USA).sfc"
+set SCRIPTNAME="superghoulsnghostssfc"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%
 java -jar Hextractor.jar -ih %SCRIPTNAME%.hex %T_FILENAME%

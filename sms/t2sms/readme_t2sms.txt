@@ -15,7 +15,7 @@ TdC
 -----------------
 1. Sobre Terminator 2 - Judgment Day
 -----------------
-Version sms del juego basado en la pelicula, identico al de game gear.
+Versión sms del juego basado en la película, idéntico al de Game Gear.
 
 ---------------------
 2. Notas del Proyecto
@@ -25,7 +25,7 @@ Esta traducción y hacking es completamente original.
 --------------------------------------------
 3. Fallos Conocidos (o: Bugs que no son bugs)
 --------------------------------------------
-
+Puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
 
 ---------------------------
 4. Instrucciones de Parcheo

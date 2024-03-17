@@ -1,0 +1,900 @@
+@0002A425-0002A84B-00
+;0002A425{OPTIONS~00~}#011#008
+AJUSTES~00~#008
+;0002A42D{~00~}#004#001
+~00~#001
+;0002A42E{LEVEL: EASY         ~00~}#024#021
+NIVEL: FÁCIL        ~00~#021
+;0002A443{LEVEL: MEDIUM       ~00~}#024#021
+NIVEL: MEDIO        ~00~#021
+;0002A458{LEVEL: DIFFICULT    ~00~}#024#021
+NIVEL: DIFÍCIL      ~00~#021
+;0002A46D{MUSIC: MONO         ~00~}#024#021
+MÚSICA: MONO        ~00~#021
+;0002A482{MUSIC: STEREO       ~00~}#024#021
+MÚSICA: ESTÉREO     ~00~#021
+;0002A497{MUSIC: OFF          ~00~}#024#021
+MÚSICA: APAGADA     ~00~#021
+;0002A4AC{MUSIC: ON           ~00~}#024#021
+MÚSICA: ENCENDIDA   ~00~#021
+;0002A4C1{MUSIC TEST:         ~FE~THEME               ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL TEMA             ~00~#042
+;0002A4EB{MUSIC TEST:         ~FE~INTRODUCTION        ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~INTRODUCCIÓN        ~00~#042
+;0002A515{MUSIC TEST:         ~FE~IN CHINA            ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EN CHINA            ~00~#042
+;0002A53F{MUSIC TEST:         ~FE~THE TRAIN           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL TREN             ~00~#042
+;0002A569{MUSIC TEST:         ~FE~RESCUE              ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~RESCATE             ~00~#042
+;0002A593{MUSIC TEST:         ~FE~ENCOUNTER           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL ENCUENTRO        ~00~#042
+;0002A5BD{MUSIC TEST:         ~FE~THE HOTEL           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL HOTEL            ~00~#042
+;0002A5E7{MUSIC TEST:         ~FE~THE SLEEP           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL SUEÑO            ~00~#042
+;0002A611{MUSIC TEST:         ~FE~THE VISION          ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~LA VISIÓN           ~00~#042
+;0002A63B{MUSIC TEST:         ~FE~WAKE UP             ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL DESPERTAR        ~00~#042
+;0002A665{MUSIC TEST:         ~FE~AT THE MARKET       ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EN EL MERCADO       ~00~#042
+;0002A68F{MUSIC TEST:         ~FE~THUNDERSTORM        ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~LA TORMENTA         ~00~#042
+;0002A6B9{MUSIC TEST:         ~FE~THE GUIDE           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL GUÍA             ~00~#042
+;0002A6E3{MUSIC TEST:         ~FE~MOUNTAINS           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~MONTAÑA             ~00~#042
+;0002A70D{MUSIC TEST:         ~FE~SNOWY'S FALL        ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~CAÍDA DE MILU       ~00~#042
+;0002A737{MUSIC TEST:         ~FE~MOUNTAIN STREAM     ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL RÍO              ~00~#042
+;0002A761{MUSIC TEST:         ~FE~WARNING             ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~AVISO               ~00~#042
+;0002A78B{MUSIC TEST:         ~FE~THE CHORTENS        ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~TSORTENG            ~00~#042
+;0002A7B5{MUSIC TEST:         ~FE~HIGH MOUNTAINS      ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~ALTA MONTAÑA        ~00~#042
+;0002A7DF{~00~}#004#001
+~00~#001
+;0002A7E0{~0D~~00~}#008#002
+~0D~~00~#002
+;0002A7E2{~00~}#004#001
+~00~#001
+;0002A7E3{~B8~~0D~~00~}#012#003
+~B8~~0D~~00~#003
+;0002A7E6{~17~~00~}#008#002
+~17~~00~#002
+;0002A7E8{~03~~00~}#008#002
+~03~~00~#002
+;0002A7EA{~05~~00~}#008#002
+~05~~00~#002
+;0002A7EC{ ~00~}#005#002
+ ~00~#002
+;0002A7EE{~05~~00~}#008#002
+~05~~00~#002
+;0002A7F0{~03~~00~}#008#002
+~03~~00~#002
+;0002A7F2{~05~~00~}#008#002
+~05~~00~#002
+;0002A7F4{MUSIC TEST:         ~FE~ARRIVAL AT THE WRECK~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~ARRIVAL AT THE WRECK~00~#042
+;0002A81E{=~00~}#005#002
+=~00~#002
+;0002A820{~03~~00~}#008#002
+~03~~00~#002
+;0002A822{MUSIC TEST:         ~FE~THE WRECK           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~THE WRECK           ~00~#042
+|1063
+@0002A84C-0002AB37-00
+;0002A84C{~0D~~00~}#008#002
+~0D~~00~#002
+;0002A84E{~00~}#004#001
+~00~#001
+;0002A84F{~B8~~0D~~00~}#012#003
+~B8~~0D~~00~#003
+;0002A852{~16~~00~}#008#002
+~16~~00~#002
+;0002A854{~03~~00~}#008#002
+~03~~00~#002
+;0002A856{=~00~}#005#002
+=~00~#002
+;0002A858{~03~~00~}#008#002
+~03~~00~#002
+;0002A85A{=~00~}#005#002
+=~00~#002
+;0002A85C{~03~~00~}#008#002
+~03~~00~#002
+;0002A85E{=~00~}#005#002
+=~00~#002
+;0002A860{~03~MUSIC TEST:         ~FE~THE CAVE            ~00~}#052#043
+~03~
+PRUEBA DE MÚSICA:   ~FE~LA GRUTA            ~00~#043
+;0002A88B{MUSIC TEST:         ~FE~HOPE                ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~LA ESPERANZA        ~00~#042
+;0002A8B5{MUSIC TEST:         ~FE~THE SCARF           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~LA BUFANDA          ~00~#042
+;0002A8DF{MUSIC TEST:         ~FE~THE CLIFF           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL ACANTILADO       ~00~#042
+;0002A909{MUSIC TEST:         ~FE~SNOWSTORM           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~BORRASCA DE NIEVE   ~00~#042
+;0002A933{MUSIC TEST:         ~FE~RELIEF              ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~EL ALIVIO           ~00~#042
+;0002A95D{MUSIC TEST:         ~FE~LAMA MONASTERY      ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~MONASTERIO DE LAMAS ~00~#042
+;0002A987{MUSIC TEST:         ~FE~CHANG'S RESCUE      ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~SOCORRIENDO A TCHANG~00~#042
+;0002A9B1{~18~~80~~18~~82~~18~~84~~00~}#028#007
+~18~~80~~18~~82~~18~~84~~00~#007
+;0002A9B8{~86~~00~}#008#002
+~86~~00~#002
+;0002A9BA{~88~~00~}#008#002
+~88~~00~#002
+;0002A9BC{~8A~~00~}#008#002
+~8A~~00~#002
+;0002A9BE{~8C~~00~}#008#002
+~8C~~00~#002
+;0002A9C0{~8E~~00~}#008#002
+~8E~~00~#002
+;0002A9C2{~C5~~C2~~C5~~00~}#016#004
+~C5~~C2~~C5~~00~#004
+;0002A9C6{MUSIC TEST:         ~FE~THE YETI'S DEN      ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~LA GUARIDA DEL YETI ~00~#042
+;0002A9F0{~00~}#004#001
+~00~#001
+;0002A9F1{~FC~~08~~00~}#012#003
+~FC~~08~~00~#003
+;0002A9F4{~09~~00~}#008#002
+~09~~00~#002
+;0002A9F6{~0C~~00~}#008#002
+~0C~~00~#002
+;0002A9F8{~0D~~00~}#008#002
+~0D~~00~#002
+;0002A9FA{~0E~~00~}#008#002
+~0E~~00~#002
+;0002A9FC{~0F~~00~}#008#002
+~0F~~00~#002
+;0002A9FE{~0C~~00~}#008#002
+~0C~~00~#002
+;0002AA00{~0D~~00~}#008#002
+~0D~~00~#002
+;0002AA02{~0E~~00~}#008#002
+~0E~~00~#002
+;0002AA04{~0F~MUSIC TEST:         ~FE~GAME OVER           ~00~}#052#043
+~0F~PRUEBA DE MÚSICA:   ~FE~FIN DE LA PARTIDA   ~00~#043
+;0002AA2F{~00~}#004#001
+~00~#001
+;0002AA30{=~08~~01~~00~}#013#004
+=~08~~01~~00~#004
+;0002AA34{=~08~~01~~00~}#013#004
+=~08~~01~~00~#004
+;0002AA38{=~08~~04~~00~}#013#004
+=~08~~04~~00~#004
+;0002AA3C{~1A~~00~}#008#002
+~1A~~00~#002
+;0002AA3E{~1B~~00~}#008#002
+~1B~~00~#002
+;0002AA40{~00~}#004#001
+~00~#001
+;0002AA41{~B8~~08~~00~}#012#003
+~B8~~08~~00~#003
+;0002AA44{MUSIC TEST:         ~FE~THE FINAL           ~00~}#048#042
+PRUEBA DE MÚSICA:   ~FE~FIN                 ~00~#042
+;0002AA6E{PASSWORD            ~00~}#024#021
+CLAVE               ~00~#021
+;0002AA83{RETURN              ~00~}#024#021
+VOLVER              ~00~#021
+;0002AA98{~40~~04~~01~PASSWORD~00~}#024#012
+~40~~04~~01~ CLAVE  ~00~#012
+;0002AAA4{=~04~~1A~~00~}#013#004
+=~04~~1A~~00~#004
+;0002AAA8{~40~~06~~18~PASSWORD: MOUNTAINS~00~}#035#023
+~40~~06~~18~  CLAVE: MONTAÑAS  ~00~#023
+;0002AABF{~00~}#004#001
+~00~#001
+;0002AAC0{~01~~04~~1F~~00~}#016#004
+~01~~04~~1F~~00~#004
+;0002AAC4{~0B~~00~}#008#002
+~0B~~00~#002
+;0002AAC6{~00~}#004#001
+~00~#001
+;0002AAC7{~B8~~10~~00~}#012#003
+~B8~~10~~00~#003
+;0002AACA{~1C~~00~}#008#002
+~1C~~00~#002
+;0002AACC{~01~~40~~06~~18~PASSWORD: THE WRECK~00~}#039#024
+~01~~40~~06~~18~CLAVE: EL SINIESTRO~00~#024
+;0002AAE4{~08~~00~}#008#002
+~08~~00~#002
+;0002AAE6{~40~~06~~18~PASSWORD: SNOWSTORM~00~}#035#023
+~40~~06~~18~ CLAVE: TORMENTA N.~00~#023
+;0002AAFD{~B8~~10~~00~}#012#003
+~B8~~10~~00~#003
+;0002AB00{~11~~00~}#008#002
+~11~~00~#002
+;0002AB02{~40~~03~~01~GAME OVER~00~}#025#013
+~40~~03~~01~FIN JUEGO~00~#013
+;0002AB0F{~40~~09~~1A~%2%% COMPLETED~00~}#030#018
+~40~~09~~1A~%2%% COMPLETO ~00~#018
+;0002AB21{~0C~=~00~}#009#003
+~0C~=~00~#003
+;0002AB24{~06~~04~~04~~00~}#016#004
+~06~~04~~04~~00~#004
+;0002AB28{ ~00~}#005#002
+ ~00~#002
+;0002AB2A{~40~~03~~01~WARNING!!!~00~}#026#014
+~40~~03~~01~!!ALERTA!!~00~#014
+|748
+@0002AB3F-0002ABA0-04
+;0002AB3F{Spending too much=time watching the=screen is not good=     for  you.    ~03~~01~~00~~03~=So take a break...~03~~04~}#116#098
+ Pasar demasiado =
+tiempo mirando la=
+  pantalla no es  =
+  bueno para ti.  ~03~~01~~00~~03~=
+   Descansa...    ~03~~04~#098
+|98
+;2ABB9 (858797, 17784-17786) => 2BB80 (85975E, 17784-17786)
+@00017784-00017786-FF
+~5E~~97~~85~#003
+|3
+@0002BB80-0002BB90-FF
+~40~~05~~17~JUEGO~00~~00~~00~~00~~00~~00~~00~~00~#016
+|16
+@0002ABB9-0002ABD9-00
+;0002ABB9{~40~~05~~17~GAME~00~}#020#008
+~40~~05~~17~GAME~00~#008
+;0002ABC1{~00~}#004#001
+~00~#001
+;0002ABC2{~40~~05~~19~OPTIONS~00~}#023#011
+~40~~05~~19~AJUSTES~00~#011
+;0002ABCD{~00~}#004#001
+~00~#001
+;0002ABCE{~40~~04~~01~TIME OUT~00~}#024#012
+~40~~04~~01~ TIEMPO ~00~#012
+|33
+@0002ABDA-0002AFF8-04-FF
+;0002ABDA{=~00~~06~~00~~01~~01~~00~~00~~00~Let  me tell you the=    whole  story.    ~03~~04~}#083#053
+=~00~~06~~00~~01~~01~~00~~00~~00~
+  Dejadme contaros  =
+  toda la historia.  ~03~~04~#053
+;0002AC0F{~00~=~00~~04~}#013#004
+~00~=~00~~04~#004
+;0002AC13{~04~}#004#001
+~04~#001
+;0002AC14{=~00~~06~~04~}#013#004
+=~00~~06~~04~#004
+;0002AC18{=~00~~04~}#009#003
+=~00~~04~#003
+;0002AC1B{~00~~12~~00~~1B~~00~~00~~B8~~18~~00~~19~~00~=~04~}#049#013
+~00~~12~~00~~1B~~00~~00~~B8~~18~~00~~19~~00~=~04~#013
+;0002AC28{~06~~00~=~03~~01~~00~~01~~00~ I'd  boarded this=    plane  for    =   Katmandu...   ~03~~01~~00~=~00~ ...And  we ran=into  a violent=   storm...    ~03~~01~~00~~01~~00~ ...when  all of a=sudden  there was=a  terrible crash.~03~~04~}#231#177
+~06~~00~=~03~~01~~00~~01~~00~
+ Había cogido el  =
+   avión hacia    =
+   Katmandú...   ~03~~01~~00~=~00~
+...Entramos en =
+ una violenta  =
+ tempestad...  ~03~~01~~00~~01~~00~
+ ...y de repente  =
+ hubo un impacto =
+    terrible.     ~03~~04~#177
+;0002ACD9{~00~~15~~00~~16~~00~~17~~00~~14~~00~~15~~00~~16~~00~~17~~00~~14~~00~~1E~~00~~1B~~00~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~=~01~~00~~03~~00~After this, I was=  lying in the   =     snow...     ~03~~01~~00~~01~~00~   I  looked for  =  shelter.  That's  =when I blacked out~03~~04~}#280#154
+~00~~15~~00~~16~~00~~17~~00~~14~~00~~15~~00~~16~~00~~17~~00~~14~~00~~1E~~00~~1B~~00~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~=~01~~00~~03~~00~
+Tras esto, estaba=
+  volando en la  =
+     nieve...    ~03~~01~~00~~01~~00~
+  Busqué refugio. =
+Fue entonces cuando =
+quedé inconsciente~03~~04~#154
+;0002AD73{~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~01~~01~~00~~00~~00~In the half-light= of  the cave, two=eyes stared at me.~03~~04~}#163#082
+~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~
+~FC~~00~~01~~01~~00~~00~~00~
+En la penumbra de=
+la cueva, dos ojos=
+me miraban fijos. ~03~~04~#082
+;0002ADC5{~00~~7C~~00~~7C~~00~~7C~~00~~03~~01~~00~~03~=The Yeti used to=bring me food...~03~~01~~00~~03~=...I regained my=   strength...   ~03~~01~~00~~03~~00~...I struck upon=  the  idea of  =carving my name=   on  a rock.  ~03~~04~}#223#157
+~00~~7C~~00~~7C~~00~~7C~~00~~03~~01~~00~~03~=
+El Yeti me traía=
+    comida...   ~03~~01~~00~~03~=
+...recuperé mis =
+    fuerzas...   ~03~~01~~00~~03~~00~
+...se me ocurrió=
+   la idea de  =
+grabar mi nombre=
+  en una roca.  ~03~~04~#157
+;0002AE62{~C6~~C6~~00~~C6~~C6~~C6~~C6~~C6~~C6~~00~~00~~C6~~03~~01~~00~~00~~00~ One  morning, the =Yeti picked me up...~03~~01~~00~~00~~00~   ...I  threw my   =scarf into the void...~03~~01~~00~~00~~00~...hoping someone=would  find me.~03~~04~}#232#145
+~C6~~C6~~00~~C6~~C6~~C6~~C6~~C6~~C6~~00~~00~~C6~~03~~01~~00~~00~~00~
+Una mañana, el Yeti=
+me levantó...       ~03~~01~~00~~00~~00~
+...lancé mi bufanda =
+     al vacío...      ~03~~01~~00~~00~~00~
+...esperando que=
+me encontraran. ~03~~04~#145
+;0002AEF3{ ~00~~16~~00~"~00~~00~~00~ ~00~~16~~00~"~00~~00~~E0~~23~~00~~17~~00~%~00~~00~~00~~23~~00~~17~~00~%~00~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~01~~01~~00~~03~~00~So, we could= find you.  ~03~~04~}#215#077
+ ~00~~16~~00~"~00~~00~~00~ ~00~~16~~00~"~00~~00~~E0~~23~~00~~17~~00~%~00~~00~~00~~23~~00~~17~~00~%~00~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~01~~01~~00~~03~~00~
+ Y así, te  =
+encontramos.~03~~04~#077
+;0002AF40{~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~01~~01~~00~~00~~00~ In  China, a train =    follows  the    =      Yangtze.      ~03~~04~}#158#086
+~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~01~~01~~00~~00~~00~
+ En China, un tren  =
+recorre el Yang-Tsé-=
+       Kiang.       ~03~~04~#086
+;0002AF96{1~C3~~00~~A9~=~01~~00~~00~~00~  Tintin  is making =    for  Hou-Kou.   ~03~~01~~00~~00~~00~Suddenly,  the train=  comes  to a stop.  ~03~~04~}#141#099
+1~C3~~00~~A9~=~01~~00~~00~~00~
+Tintín va a Hou-Kou.=
+                    ~03~~01~~00~~00~~00~
+De repente, el tren =
+      se para.       ~03~~04~#099
+|1055
+@0002AFF9-0002B421-04-FF
+;0002AFF9{~89~6~C3~~00~~A1~4~C3~~00~~B3~4~C3~~00~~C5~4~C3~~00~~D7~4~C3~~00~~E9~4~C3~~00~~FB~~04~}#086#026
+~89~6~C3~~00~~A1~4~C3~~00~~B3~4~C3~~00~~C5~4~C3~~00~~D7~4~C3~~00~~E9~4~C3~~00~~FB~~04~#026
+;0002B013{~01~~FF~}#008#002
+~01~~FF~#002
+;0002B015{~FB~~FD~What's the matter?~03~~01~~00~~00~~00~  The river's burst its  =banks. The line's cut off~03~~01~~FF~}#109#079
+~FB~~FD~
+   ¿Qué ocurre?   ~03~~01~~00~~00~~00~
+ El río se ha desbocado. =
+   La vía está cortada.  ~03~~01~~FF~#079
+;0002B064{~FA~~FC~Is it still far to=    Hou-Kou?     ~03~~01~~00~~00~~00~three hours'walk.~03~~04~}#089#062
+~FA~~FC~
+ ¿Queda lejos de  =
+  aquí Hou-Kou?  ~03~~01~~00~~00~~00~
+Tres horas a pie.~03~~04~#062
+;0002B0A2{6~C3~~00~~F5~6~C3~~00~~FF~}#026#008
+6~C3~~00~~F5~6~C3~~00~~FF~#008
+;0002B0AA{6~C3~~00~g5~C3~~00~q~03~~01~~00~~00~~04~}#040#013
+6~C3~~00~g5~C3~~00~q~03~~01~~00~~00~~04~#013
+;0002B0B7{There, feeling=better? What's= your  name...~03~~01~~00~~00~~06~...My name's Tintin.~03~~01~~00~~07~~07~I'm Chang~03~~04~}#121#085
+¿Te encuentras=
+ mejor? ¿Cómo =
+  te llamas?  ~03~~01~~00~~00~~06~
+   ...Soy Tintín.   ~03~~01~~00~~07~~07~
+ Tchang. ~03~~04~#085
+;0002B10C{~00~.~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~`~00~~11~~01~~FF~}#114#030
+~00~.~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~~1A~~00~`~00~~11~~01~~FF~#030
+;0002B12A{~00~~00~ And  that, Captain =is how I met my good=    friend  Chang.   ~03~~01~~00~~00~~00~There's a letter for you =I gave it to the Captain.~03~~01~~FF~}#154#124
+~00~~00~
+ Y así fue Capitán, =
+  como conocí a mi  =
+ buen amigo Tchang.  ~03~~01~~00~~00~~00~
+  Hay una carta para ti. =
+   Se la dí al Capitán.  ~03~~01~~FF~#124
+;0002B1A6{~00~~FB~But this plane! It's=Chang's plane!...Poor=       Chang!       ~03~~01~~FF~}#083#068
+~00~~FB~
+¡Pero este avión es =
+el de Tchang! ¡Pobre =
+      Tchang!       ~03~~01~~FF~#068
+;0002B1EA{~00~~FC~But the plane that=crashed in Nepal...~03~~01~~FF~}#058#043
+~00~~FC~
+Pero el avión que =
+  cayó en Nepal... ~03~~01~~FF~#043
+;0002B215{~00~~FD~...that's Chang's plane!~03~~01~~FF~}#044#029
+~00~~FD~
+  ...¡es el de Tchang!  ~03~~01~~FF~#029
+;0002B232{~00~~FC~   Chang's  dead!  =What terrible news.~03~~01~~FF~}#059#044
+~00~~FC~
+ ¡Tchang ha muerto!=
+Terribles noticias.~03~~01~~FF~#044
+;0002B25E{~00~~FB~I need to be alone for a=while,  I'm going to my=         room.          ~03~~01~~00~~00~~00~  The  DC3 bound for  =Katmandu crashed in the=         Nepal.         ~03~~01~~00~~00~~00~  Rescue  parties have =little hope of finding=    any  survivors.    ~03~~01~~00~=~00~ Champagne  ?=At this hour ?~03~~01~~00~~00~~00~Tintin, I have a letter=for you from Hong-Kong~03~~01~~FF~}#385#313
+~00~~FB~
+ Necesito estar solo un =
+   rato, me voy a mi   =
+      habitación.       ~03~~01~~00~~00~~00~
+  El DC3 con destino a=
+     Katmandú se ha    =
+  estrellado en Nepal.  ~03~~01~~00~~00~~00~
+Los equipos de rescate =
+no esperan encontrar a=
+    supervivientes.    ~03~~01~~00~=~00~
+  ¿Champán?  =
+¿A esta hora? ~03~~01~~00~~00~~00~
+Tintín, tengo una carta=
+ para ti de Hong-Kong.~03~~01~~FF~#313
+;0002B397{~00~~FB~Thank you, Captain...=     It's  Chang!    = What  a coincidence!~03~~01~~00~~00~~00~Yes, of course...~03~~01~~00~~00~~00~...and what does this=    Chong  want?    ~03~~01~~FF~}#184#139
+~00~~FB~
+ Gracias, Capitán... =
+     ¡Es Tchang!     =
+¡Menuda coincidencia!~03~~01~~00~~00~~00~
+   Sí, claro...  ~03~~01~~00~~00~~00~
+...¿y qué quiere este=
+      Tchong?       ~03~~01~~FF~#139
+|1065
+@0002B422-0002B823-04-FF
+;0002B422{~00~~FC~Chang, Captain. He lets= me  know he arrives...~03~~01~~FF~}#067#052
+~00~~FC~
+  Tchang, Capitán. Me  =
+ avisa de su llegada...~03~~01~~FF~#052
+;0002B456{~00~~FC~...after a stop-over in=      Katmandu.      ~03~~01~~FF~}#065#050
+~00~~FC~
+ ...tras una escala en =
+      Katmandú.      ~03~~01~~FF~#050
+;0002B488{~00~~FC~ Chang's  coming!=That's wonderful!~03~~04~}#051#039
+~00~~FC~
+  ¡Tchang viene! =
+ ¡Es maravilloso!~03~~04~#039
+;0002B4AF{ ~00~ ~00~!~00~!~00~!~00~!~00~!~00~!~00~!~00~!~00~!~00~"~00~"~00~"~00~"~00~"~00~"~00~"~00~"~00~"~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~$~00~$~00~$~00~$~00~$~00~$~00~$~00~$~00~$~00~%~00~%~00~%~00~%~00~%~00~%~00~%~00~%~00~%~00~&~00~&~00~~01~~01~~00~~00~~00~       Later...       ~03~~04~}#322#127
+ ~00~ ~00~!~00~!~00~!~00~!~00~!~00~!~00~!~00~!~00~!~00~"~00~"~00~"~00~"~00~"~00~"~00~"~00~"~00~"~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~~23~~00~$~00~$~00~$~00~$~00~$~00~$~00~$~00~$~00~$~00~%~00~%~00~%~00~%~00~%~00~%~00~%~00~%~00~%~00~&~00~&~00~~01~~01~~00~~00~~00~
+     Más tarde...     ~03~~04~#127
+;0002B52E{~01~~01~~00~~00~~00~Chang, Chang's alive!= I'm  off to Nepal. ~03~~04~}#070#049
+~01~~01~~00~~00~~00~
+  ¡Tchang está vivo! =
+  Salgo para Nepal. ~03~~04~#049
+;0002B55F{~11~~00~~11~~00~~11~~00~~11~~00~ ~00~ ~00~ ~00~ ~00~ ~00~!~00~!~00~!~01~~01~~00~~00~~00~  Three  days later, =     Tintin  and    = Haddock  arrive in =     Katmandu.      ~03~~04~}#180#114
+~11~~00~~11~~00~~11~~00~~11~~00~ ~00~ ~00~ ~00~ ~00~ ~00~!~00~!~00~!~01~~01~~00~~00~~00~
+  Tres días después, =
+  Tintín y Haddock  =
+ llegan a Katmandú. =
+                    ~03~~04~#114
+;0002B5D1{~11~~08~~01~~FF~}#016#004
+~11~~08~~01~~FF~#004
+;0002B5D5{~00~~FC~Excuse me, but can you=     direct  me...     ~03~~01~~FF~}#066#051
+~00~~FC~
+   Perdone, ¿podría   =
+   indicarme hacia...  ~03~~01~~FF~#051
+;0002B608{~00~~FC~...to a shop owned by a=      Chinaman?       ~03~~01~~00~~00~~00~My son will show=  you  the way. ~03~~01~~00~~00~~00~You'll find him a=little further on.~03~~01~~FF~}#175#130
+~00~~FC~
+  ...una tienda de un  =
+     hombre chino?    ~03~~01~~00~~00~~00~
+ Mi hijo le va a=
+     guiar.     ~03~~01~~00~~00~~00~
+ Ya lo verá ahora=
+    al salir.     ~03~~01~~FF~#130
+;0002B68A{~00~~FC~Do you know a shop kept=    by  a Chinaman?    ~03~~01~~00~~00~~00~Yes, follow me.~03~~01~~FF~}#102#072
+~00~~FC~
+¿Conoces una tienda que=
+ es de un hombre chino?~03~~01~~00~~00~~00~
+  Sí, sígueme. ~03~~01~~FF~#072
+;0002B6D2{~01~~00~Let's look for Chang's=   relation's  shop.  ~03~~01~~FF~}#065#050
+~01~~00~
+Hallemos la tienda del=
+  pariente de Tchang. ~03~~01~~FF~#050
+;0002B704{~00~~FC~Help me to find the=    potter's  son.   ~03~~04~}#057#045
+~00~~FC~
+Ayúdame a encontrar=
+al hijo del alfarero.~03~~04~#045
+;0002B731{~84~~18~~86~~18~d~98~f~98~h~18~j~18~l~18~n~18~l~98~n~98~~00~~00~~A0~~18~~88~~18~~01~~01~~00~~00~~00~ Hurry  up, there's a=   storm  brewing!  ~03~~04~}#150#075
+~84~~18~~86~~18~d~98~f~98~h~18~j~18~l~18~n~18~l~98~n~98~~00~~00~
+~A0~~18~~88~~18~~01~~01~~00~~00~~00~
+  ¡Date prisa, una  =
+ tormenta se avecina!~03~~04~#075
+;0002B77C{~98~~C4~~98~~10~~01~~FF~}#024#006
+~98~~C4~~98~~10~~01~~FF~#006
+;0002B782{~00~~FD~What are you doing there?~03~~01~~00~~00~~00~I'm frightened, help=  me  to cross over. ~03~~01~~00~~00~~FF~}#115#079
+~00~~FD~
+ ¿Qué estás haciendo ahí?~03~~01~~00~~00~~00~
+Tengo miedo, ayúdame=
+      a cruzar.      ~03~~01~~00~~00~~FF~#079
+;0002B7D1{If you're looking=for Tharkey, he...~03~~01~~00~~00~~FF~}#056#041
+   Si buscas a   =
+    Tharkey...    ~03~~01~~00~~00~~FF~#041
+;0002B7FA{...lives at the end=  of  the street. ~03~~01~~00~~FF~}#054#042
+...vive al final de=
+    la calle.     ~03~~01~~00~~FF~#042
+|1026
+@0002B824-0002BB74-04-FF
+;0002B824{~00~The Chinaman's shop=     is  there.     ~03~~01~~00~~00~~00~Are you looking for me?~03~~01~~FF~}#099#072
+~00~
+La tienda del chino=
+       es esa.      ~03~~01~~00~~00~~00~
+  ¿Me andan buscando?  ~03~~01~~FF~#072
+;0002B86C{~00~~FC~Yes, Sir, I'm a friend=       of  Chang.      ~03~~01~~00~~00~~00~A friend of Chang? Unfortu-=      nately  he died...     ~03~~01~~00~~00~~00~...in a plane crash.~03~~01~~FF~}#183#138
+~00~~FC~
+  Sí, señor. Soy un   =
+   amigo de Tchang.    ~03~~01~~00~~00~~00~
+   ¿Un amigo de Tchang?    =
+  Murió en un accidente...   ~03~~01~~00~~00~~00~
+    ...de avión.    ~03~~01~~FF~#138
+;0002B8F6{~00~~FC~But I believe he=  is  not dead. ~03~~01~~FF~}#053#038
+~00~~FC~
+Pero yo no creo =
+que haya muerto.~03~~01~~FF~#038
+;0002B91C{~00~~FC~Do you know a Sherpa who=      would  agree...     ~03~~01~~FF~}#071#056
+~00~~FC~
+ ¿Conoce a algún sherpa =
+      que quisiera...     ~03~~01~~FF~#056
+;0002B954{~00~~FC~...to search for=     him?     ~03~~01~~00~~00~~00~Why not Tharkey? He's=  the  best Sherpa... ~03~~01~~00~~00~~00~in the district. He lives=at the end of the street.~03~~01~~FF~}#186#141
+~00~~FC~
+ ...salir en su =
+    busca?    ~03~~01~~00~~00~~00~
+  ¿Y Tharkey? Es el  =
+    mejor sherpa...   ~03~~01~~00~~00~~00~
+  del distrito. Vive al  =
+   final de la calle.    ~03~~01~~FF~#141
+;0002B9E1{~00~~FC~Hello, are you=   Tharkey?   ~03~~01~~00~~00~~FF~}#057#036
+~00~~FC~
+  Hola, ¿eres =
+   Tharkey?   ~03~~01~~00~~00~~FF~#036
+;0002BA05{Yes!~03~~04~}#012#006
+¡Sí!~03~~04~#006
+;0002BA0B{~7C~=<~01~<~00~~7C~=<~01~<~00~~7C~=<~01~<~00~~7C~=<~01~<~00~~7C~=<~01~<~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~06~~01~~00~~00~~01~I'm  convinced= Chang  is not=dead. I need...~03~~01~~00~~00~~01~...an experienced=guide to help me=  to  find him. ~03~~01~~00~=~01~Me  been there...=  Me  see plane  =broken...No one...~03~~01~~00~~03~~01~...alive. You too=young  to die as=     well.      ~03~~01~~00~~00~~01~I'm convinced=Chang  is not=    dead.    ~03~~01~~00~~05~~01~All right. Me,= you...Leave  =in three days.~03~~04~}#542#362
+~7C~=<~01~<~00~~7C~=<~01~<~00~~7C~=<~01~<~00~~7C~=<~01~<~00~~7C~=<~01~<~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~~06~~01~~00~~00~~01~
+   Creo que   =
+ Tchang no ha =
+ muerto. Yo... ~03~~01~~00~~00~~01~
+ ...necesito a un=
+  guía experto  =
+ para hallarlo. ~03~~01~~00~=~01~
+ Yo estar ahí... =
+   Yo ver avión  =
+ roto... Nadie... ~03~~01~~00~~03~~01~
+ ...vivo. Tú muy =
+joven para morir=
+    también.    ~03~~01~~00~~00~~01~
+ Estoy seguro=
+de que Tchang=
+no ha muerto.~03~~01~~00~~05~~01~
+ Muy bien. Yo,=
+ tú... Salir en=
+  tres días. ~03~~04~#362
+|849
+@0002BBD7-0002BFEE-04-FF
+;0002BBD7{Fresh grass attracts=     the Yak.      ~03~~04~}#048#042
+  La hierba fresca  =
+ atrae a los Yaks. ~03~~04~#042
+;0002BC01{~00~~7C~=<~01~<~00~~7C~=<~01~=~01~~00~~06~~00~Poor Snowy!~03~~01~~00~~01~~00~He must be feeling=    the  height.   ~03~~04~}#123#072
+~00~~7C~=<~01~<~00~~7C~=<~01~=~01~~00~~06~~00~
+ ¡Ay Milú! ~03~~01~~00~~01~~00~
+ Debe ser cosa de =
+    la altitud.    ~03~~04~#072
+;0002BC49{~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~=~01~~00~~03~~FF~}#053#014
+~00~~FC~~00~~FC~~00~~FC~~00~~FC~~00~=~01~~00~~03~~FF~#014
+;0002BC57{Over the chorten.= Preserved  ashes=of great lamas...~03~~01~~00~~03~~FF~}#073#058
+   En tsorteng.  =
+Guarda cenizas de=
+ grandes lamas...~03~~01~~00~~03~~FF~#058
+;0002BC91{...woe betide you= if you pass on  = the right, pass =  on the left!   ~03~~04~}#079#073
+...pobre de ti si=
+   pasas por la  =
+  derecha, ¡pasa =
+por la izquierda!~03~~04~#073
+;0002BCDA{~0C~~84~,~85~,~A8~(~83~(~83~(~83~~03~~01~~00~~00~~00~Thundering typhoons!~03~~01~~00~~00~~FF~}#093#042
+~0C~~84~,~85~,~A8~(~83~(~83~(~83~~03~~01~~00~~00~~00~
+ ¡Rayos y truenos!  ~03~~01~~00~~00~~FF~#042
+;0002BD04{Go ahead, my young=friend,  I'll catch=   you  up later.  ~03~~01~~00~~00~~00~We  soon arrive at=      wreck.      ~03~~04~}#123#102
+Adelante, mi joven=
+   amigo, yo te    =
+ alcanzaré luego.  ~03~~01~~00~~00~~00~
+Pronto llegaremos =
+    al avión.     ~03~~04~#102
+;0002BD6A{~05~~01~~00~=~00~Can you hear Snowy?=  What's going on?  ~03~~01~~00~~03~~00~A rope's always=    useful.    ~03~~01~~00~~00~~00~Don't go far without=   your  ice-axe.   ~03~~01~~FF~}#181#130
+~05~~01~~00~=~00~
+   ¿Oyes a Milú?   =
+    ¿Qué ocurre?    ~03~~01~~00~~03~~00~
+  Una cuerda   =
+puede ser útil.~03~~01~~00~~00~~00~
+No te alejes sin tu =
+      piolet.       ~03~~01~~FF~#130
+;0002BDEC{~00~~FC~What are you doing here=        Snowy  ?       ~03~~01~~FF~}#067#052
+~00~~FC~
+ ¿Qué haces ahí Milú?  =
+                       ~03~~01~~FF~#052
+;0002BE20{~00~~FC~The entrance to a cave.=Maybe Chang sheltered=        there.         ~03~~04~}#085#073
+~00~~FC~
+La entrada a la gruta. =
+ Quizá Tchang se haya=
+    refugiado ahí.     ~03~~04~#073
+;0002BE69{=~01~~FF~}#009#003
+=~01~~FF~#003
+;0002BE6C{~00~~FD~Signs carved on this rock.~03~~01~~FF~}#046#031
+~00~~FD~
+Hay grabados en esta roca.~03~~01~~FF~#031
+;0002BE8B{~00~~FC~ CHANG  .....Chang=    was  here.    ~03~~04~}#053#041
+~00~~FC~
+ TCHANG... Tchang =
+   estuvo aquí.   ~03~~04~#041
+;0002BEB4{(~96~~08~~92~(~96~~08~~96~~08~~B9~(~A7~~00~~A7~~00~~B0~~00~~B1~~00~~B8~(~96~~08~~B9~~07~~01~~00~=~00~Look at this rock,=  it's  proof...  ~03~~01~~00~=~00~...that  Chang sur-=vived the accident.~03~~01~~00~~00~~00~If Chang alive,=  where  be... ~03~~01~~00~~00~~00~   ...Chang  now.  =We never find him.~03~~01~~00~~01~~00~It's common sense,=  old  lad... we  =should  turn back.~03~~01~~00~=~00~  You're  right.  =Tomorrow, we'll...~03~~01~~00~~04~}#449#296
+(~96~~08~~92~(~96~~08~~96~~08~~B9~(~A7~~00~~A7~~00~~B0~~00~~B1~~00~
+~B8~(~96~~08~~B9~~07~~01~~00~=~00~
+ Miren esta roca, =
+    es prueba...  ~03~~01~~00~=~00~
+  ...de que Tchang =
+  ha sobrevivido.  ~03~~01~~00~~00~~00~
+Si Tchang vive,=
+ ¿dónde está...~03~~01~~00~~00~~00~
+  ...Tchang ahora? =
+ No le hallaremos.~03~~01~~00~~01~~00~
+Es sentido común, =
+  hijo... tenemos =
+  que regresar.   ~03~~01~~00~=~00~
+  Tienes razón.   =
+     Mañana...    ~03~~01~~00~~04~#296
+;0002BFDC{~01~...set off back.~03~~04~}#028#019
+~01~
+ ...volveremos. ~03~~04~#019
+|1048
+@0002C047-0002C657-04-FF
+;0002C047{ And  the following =     morning...      ~03~~04~}#050#044
+   Y a la mañana    =
+     siguiente...    ~03~~04~#044
+;0002C073{~06~~01~~00~~00~~00~Come on, Tintin=are  you coming=   or  what ?   ~03~~01~~00~~01~~01~   Stop...  Wait  =Captain, I can see=something on that=   rock-face...    ~03~~01~~00~~01~~01~   ...Can  you see  = that  yellow scarf =caught on a rock ?...~03~~01~~00~~03~=...That's  proof=  that  Chang  = is  alive !... ~03~~01~~00~==...He himself has=shown us the way= to  find him...~03~~01~~00~~04~}#393#315
+~06~~01~~00~~00~~00~
+ Venga Tintín, =
+ ¿vienes o qué?=
+                ~03~~01~~00~~01~~01~
+   Un momento...  =
+ Espere Capitán,  =
+  veo algo en esa=
+  pared rocosa...  ~03~~01~~00~~01~~01~
+  ¿Puedes ver esa   =
+  bufanda amarilla  =
+enganchada a la roca?~03~~01~~00~~03~=
+ ¡Es una prueba =
+ de que Tchang =
+   está vivo!   ~03~~01~~00~==
+ Nos ha mostrado =
+   la forma de  =
+  encontrarle...~03~~01~~00~~04~#315
+;0002C1AE{~04~}#004#001
+~04~#001
+;0002C1AF{...Let's go !~03~~04~}#021#015
+  ...¡Vamos! ~03~~04~#015
+;0002C1BE{~FF~}#004#001
+~FF~#001
+;0002C1BF{0~00~~90~~01~~00~~00~~F0~~00~~00~~00~~00~~00~~F0~~00~~F0~~01~~80~~00~~05~~01~~00~~00~=  No,  Sahib, me  =  not  go on. Me  =sure Chang is dead.~03~~01~~00~~04~}#159#084
+0~00~~90~~01~~00~~00~~F0~~00~~00~~00~~00~~00~~F0~~00~~F0~~01~~80~~00~~05~~01~~00~~00~=
+  No, Sahib, mi no=
+ continuar. Seguro=
+   Tchang muerto.  ~03~~01~~00~~04~#084
+;0002C213{~03~   But  what  =  about  the,  =scarf Tharkey ?~03~~01~~00~~00~~04~}#070#052
+~03~
+  ¿Pero qué hay=
+ de la bufanda,=
+    Tharkey?  ~03~~01~~00~~00~~04~#052
+;0002C247{No proof Sahib...~03~~01~~00~~08~~05~And you =Captain ?~03~~01~~00~~01~=It's sheer lunacy=  but  I'll go  =   with  you.   ~03~~04~}#131#098
+No basta Sahib...~03~~01~~00~~08~~05~
+ ¿Y tú, =
+Capitán? ~03~~01~~00~~01~=
+ Es una locura,  =
+  pero yo iré   =
+    contigo.    ~03~~04~#098
+;0002C2A9{~00~~00~~00~~01~~E0~~00~~80~~00~`~00~&~00~~FF~}#046#013
+~00~~00~~00~~01~~E0~~00~~80~~00~`~00~&~00~~FF~#013
+;0002C2B6{~FF~}#004#001
+~FF~#001
+;0002C2B7{~FF~}#004#001
+~FF~#001
+;0002C2B8{~FF~}#004#001
+~FF~#001
+;0002C2B9{~80~~00~~A0~=~01~~00~~00~~00~After three days'walk= we  come to a lama =    monastery...     ~03~~01~~00~=~00~...We're saved!~03~~04~}#133#094
+~80~~00~~A0~=~01~~00~~00~~00~
+  Tras caminar tres  =
+ días llegamos a un =
+  monasterio lama... ~03~~01~~00~=~00~
+ ...¡Salvados! ~03~~04~#094
+;0002C317{p~00~ ~00~~90~~01~p~15~~01~~00~~05~~FC~Welcome,  stranger,=listen to the drums.~03~~01~~00~~07~~FC~join us and play=  our  rhythm.  ~03~~01~~00~~08~~FC~Listen again.~03~~01~~00~~0A~~FC~That's it.~03~~01~~00~~03~~FC~    Can  you put these   =signs in the right order ?~03~~01~~00~~03~~FC~ Take  another look at=the signs if you want.~03~~01~~00~~08~~FF~}#352#235
+p~00~ ~00~~90~~01~p~15~~01~~00~~05~~FC~
+  Hola extranjero. =
+ Oye los tambores.  ~03~~01~~00~~07~~FC~
+ Súmate y toca  =
+ nuestro ritmo. ~03~~01~~00~~08~~FC~
+Oye de nuevo.~03~~01~~00~~0A~~FC~
+ Eso es.  ~03~~01~~00~~03~~FC~
+  ¿Puedes colocar estos  =
+signos en orden correcto? ~03~~01~~00~~03~~FC~
+Vuelve a observar los =
+  signos si quieres.  ~03~~01~~00~~08~~FF~#235
+;0002C402{That's exactly right.~03~~01~~00~~03~~FC~Can you help me to sort=     our  library ?    ~03~~01~~FF~}#100#076
+   Eso es correcto.  ~03~~01~~00~~03~~FC~
+  ¿Me ayudas a ordenar =
+  nuestra biblioteca?  ~03~~01~~FF~#076
+;0002C44E{~00~~FB~Of course.~03~~01~~00~~08~~FC~Thank you.~03~~01~~00~~00~~FC~Welcome to the monas-=tery. You have braved= many dangers to...  ~03~~01~~00~~00~~FC~...save your friend, but=now  you must go home.~03~~01~~FF~}#212#152
+~00~~FB~
+  Claro.  ~03~~01~~00~~08~~FC~
+ Gracias. ~03~~01~~00~~00~~FC~
+    Bienvenido al    =
+ monasterio. Pasaste =
+  muchos peligros... ~03~~01~~00~~00~~FC~
+  ...para salvar a tu   =
+amigo pero debes irte.~03~~01~~FF~#152
+;0002C4E6{~00~~FC~Without Chang,=     alas.     ~03~~01~~00~~08~~FC~Listen to the=highest  bell~03~~01~~00~~05~~FC~And here is the lowest.~03~~01~~00~~06~~FC~Find the bell that=produces this note.~03~~01~~00~~06~~FC~That's not the one,= try another one. ~03~~01~~00~~07~~FC~That's the one.~03~~01~~00~~00~~00~You  have forg... I can=see the Horn of the yak~03~~01~~00~~00~~00~     ...a  cave... I see     =a young boy stretched out...~03~~01~~00~~00~~00~ ...Who's  that approach-=ing him ?... THE YETI !~03~~04~}#501#369
+~00~~FC~
+  Sin Tchang, =
+ por desgracia.~03~~01~~00~~08~~FC~
+  La campana =
+  más aguda. ~03~~01~~00~~05~~FC~
+ Y aquí está la grave. ~03~~01~~00~~06~~FC~
+ Halla la campana =
+  con esta nota.   ~03~~01~~00~~06~~FC~
+ No es la correcta,=
+  prueba con otra.~03~~01~~00~~07~~FC~
+Es la correcta.~03~~01~~00~~00~~00~
+  Has olvidad... Puedo =
+ ver el Cuerno del yak.~03~~01~~00~~00~~00~
+   ...una cueva... veo a un  =
+       joven tendido...     ~03~~01~~00~~00~~00~ 
+  ¿Quién se le acerca?  =
+       ¡EL YETI!       ~03~~04~#369
+;0002C657{~FF~}#004#001
+~FF~#001
+|1553
+@0002C690-0002C83D-04-FF
+;0002C690{ He's  seen=Chang, he's=alive. I'm=sure of it.~03~~01~~00~~00~~00~Surely to good-=ness  you don't=   believe...   ~03~~01~~00~~00~~01~...in that flying=     saucer!     ~03~~01~~00~~07~~03~I'm  off=tomorrow.~03~~04~}#215#164
+ Ha visto a=
+Tchang,está=
+vivo. Estoy=
+  seguro. ~03~~01~~00~~00~~00~
+¡No irás a creer=
+ ni una palabra=
+   de lo que...~03~~01~~00~~00~~01~
+   ...diga este  =
+      tipo!      ~03~~01~~00~~07~~03~
+  Saldré=
+ mañana. ~03~~04~#164
+;0002C734{~18~f~18~h~18~j~08~l~08~n~18~~80~~18~~82~~18~~84~~18~~86~~18~~88~~18~~8A~~18~~8C~~18~~8E~~18~~A0~~18~~A0~X~A4~~18~=~01~~00~~00~~00~Three days we've= been  walking,=and look at that=  mountain...   ~03~~01~~00~~00~~00~...This cave must= be  the yeti's. ~03~~04~}#260#146
+~18~f~18~h~18~j~08~l~08~n~18~~80~~18~~82~~18~~84~~18~~86~~18~~88~~18~~8A~
+~18~~8C~~18~~8E~~18~~A0~~18~~A0~X~A4~~18~=~01~~00~~00~~00~
+ Hace tres días =
+ que caminamos,=
+   y mire esa   =
+    montaña...  ~03~~01~~00~~00~~00~
+ ...la cueva debe=
+  ser del yeti.  ~03~~04~#146
+;0002C7C6{~1B~`~1B~N~1B~B~18~~01~~01~~00~~00~~00~I'll go straight to= its  den and res-=    cue  Chang.   ~03~~04~}#104#071
+~1B~`~1B~N~1B~B~18~~01~~01~~00~~00~~00~
+  Iré directo a su =
+ guarida y salvaré=
+     a Tchang.    ~03~~04~#071
+;0002C80D{~C6~f~01~~01~~FF~}#017#005
+~C6~f~01~~01~~FF~#005
+;0002C812{~00~~FC~Chang ! Chang ! It's=   me  ! Tintin!   ~03~~04~}#056#044
+~00~~FC~
+ ¡Tchang! ¡Tchang!  =
+ ¡Soy yo! ¡Tintín! ~03~~04~#044
+|430
+@0002C844-0002CC63-00
+;0002C844{~F8~2             CREDITS          ~00~}#039#033
+~F8~2             CRÉDITOS         ~00~#033
+;0002C865{~F8~3             _______          ~00~}#039#033
+~F8~3             ________         ~00~#033
+;0002C886{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002C8A7{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002C8C8{~F8~2          PROGRAMMED BY       ~00~}#039#033
+~F8~2          PROGRAMADO POR      ~00~#033
+;0002C8E9{~F8~3          _____________       ~00~}#039#033
+~F8~3          ______________      ~00~#033
+;0002C90A{~F8~0          FREDERIC  JAY       ~00~}#039#033
+~F8~0          FREDERIC  JAY       ~00~#033
+;0002C92B{~F8~0         EMMANUEL  REGIS      ~00~}#039#033
+~F8~0         EMMANUEL  REGIS      ~00~#033
+;0002C94C{~F8~0        ALEXANDRE BACQUART    ~00~}#039#033
+~F8~0        ALEXANDRE BACQUART    ~00~#033
+;0002C96D{~F8~0           HUNG HUYNH         ~00~}#039#033
+~F8~0           HUNG HUYNH         ~00~#033
+;0002C98E{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002C9AF{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002C9D0{~F8~2        TOOLS  PROGRAMMERS    ~00~}#039#033
+~F8~2        PROGRAMADOR ÚTILES    ~00~#033
+;0002C9F1{~F8~3        __________________    ~00~}#039#033
+~F8~3        __________________    ~00~#033
+;0002CA12{~F8~0         VINCENT POURIEUX     ~00~}#039#033
+~F8~0         VINCENT POURIEUX     ~00~#033
+;0002CA33{~F8~0          YANNICK  TURBE      ~00~}#039#033
+~F8~0          YANNICK  TURBE      ~00~#033
+;0002CA54{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CA75{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CA96{~F8~2             GRAPHICS         ~00~}#039#033
+~F8~2             GRÁFICOS         ~00~#033
+;0002CAB7{~F8~3             ________         ~00~}#039#033
+~F8~3             ________         ~00~#033
+;0002CAD8{~F8~0        JEAN-MARC TOROELLA    ~00~}#039#033
+~F8~0        JEAN-MARC TOROELLA    ~00~#033
+;0002CAF9{~F8~0      PIERRE-MARIE  DORMENIL  ~00~}#039#033
+~F8~0      PIERRE-MARIE  DORMENIL  ~00~#033
+;0002CB1A{~F8~0        DELPHINE PERSONNAZ    ~00~}#039#033
+~F8~0        DELPHINE PERSONNAZ    ~00~#033
+;0002CB3B{~F8~0          CELINE  BILLON      ~00~}#039#033
+~F8~0          CELINE  BILLON      ~00~#033
+;0002CB5C{~F8~0        NATHALIE JEAN-BART    ~00~}#039#033
+~F8~0        NATHALIE JEAN-BART    ~00~#033
+;0002CB7D{~F8~0         BARRY HUTCHINSON     ~00~}#039#033
+~F8~0         BARRY HUTCHINSON     ~00~#033
+;0002CB9E{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CBBF{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CBE0{~F8~2          SOUND AND MUSIC     ~00~}#039#033
+~F8~2          SONIDO Y MÚSICA     ~00~#033
+;0002CC01{~F8~3          _______________     ~00~}#039#033
+~F8~3          _______________     ~00~#033
+;0002CC22{~F8~0         FABRICE  BOUILLON    ~00~}#039#033
+~F8~0         FABRICE  BOUILLON    ~00~#033
+;0002CC43{~F8~0          EMMANUEL  REGIS     ~00~}#039#033
+~F8~0          EMMANUEL  REGIS     ~00~#033
+|1056
+@0002CC64-0002D083-00
+;0002CC64{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CC85{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CCA6{~F8~2              DESIGN          ~00~}#039#033
+~F8~2              DISEÑO          ~00~#033
+;0002CCC7{~F8~3              ______          ~00~}#039#033
+~F8~3              ______          ~00~#033
+;0002CCE8{~F8~0           XAVIER SCHON       ~00~}#039#033
+~F8~0           XAVIER SCHON       ~00~#033
+;0002CD09{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CD2A{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CD4B{~F8~2        EXECUTIVE PRODUCER    ~00~}#039#033
+~F8~2       PRODUCTOR EJECUTIVO    ~00~#033
+;0002CD6C{~F8~3        __________________    ~00~}#039#033
+~F8~3       ___________________    ~00~#033
+;0002CD8D{~F8~0          EDITH PROTIERE      ~00~}#039#033
+~F8~0          EDITH PROTIERE      ~00~#033
+;0002CDAE{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CDCF{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CDF0{~F8~2            PRODUCTION        ~00~}#039#033
+~F8~2            PRODUCCIÓN        ~00~#033
+;0002CE11{~F8~3            __________        ~00~}#039#033
+~F8~3            __________        ~00~#033
+;0002CE32{~F8~0          BRUNO  BONNELL      ~00~}#039#033
+~F8~0          BRUNO  BONNELL      ~00~#033
+;0002CE53{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CE74{~F8~2                              ~00~}#039#033
+~F8~2                              ~00~#033
+;0002CE95{~F8~2            THANKS  TO        ~00~}#039#033
+~F8~2            GRACIAS  A        ~00~#033
+;0002CEB6{~F8~3            __________        ~00~}#039#033
+~F8~3            __________        ~00~#033
+;0002CED7{~F8~0        FRANCOIS  BOURGAUX    ~00~}#039#033
+~F8~0        FRANCOIS  BOURGAUX    ~00~#033
+;0002CEF8{~F8~0               AND            ~00~}#039#033
+~F8~0                Y             ~00~#033
+;0002CF19{~F8~0          MOULINSART S.A.     ~00~}#039#033
+~F8~0          MOULINSART S.A.     ~00~#033
+;0002CF3A{~F8~0                              ~00~}#039#033
+~F8~0                              ~00~#033
+;0002CF5B{~F8~0          ERIC  ANGELIER      ~00~}#039#033
+~F8~0          ERIC  ANGELIER      ~00~#033
+;0002CF7C{~F8~0          FREDERIC BIBET      ~00~}#039#033
+~F8~0          FREDERIC BIBET      ~00~#033
+;0002CF9D{~F8~0          LIONEL LAISSUS      ~00~}#039#033
+~F8~0          LIONEL LAISSUS      ~00~#033
+;0002CFBE{~F8~0          ARNAUD DEBAYEUX     ~00~}#039#033
+~F8~0          ARNAUD DEBAYEUX     ~00~#033
+;0002CFDF{~F8~0         NICOLAS  POTHIER     ~00~}#039#033
+~F8~0         NICOLAS  POTHIER     ~00~#033
+;0002D000{~F8~0        NADEGE DE BERGEVIN    ~00~}#039#033
+~F8~0        NADEGE DE BERGEVIN    ~00~#033
+;0002D021{~F8~0            ANNE  LENA        ~00~}#039#033
+~F8~0            ANNE  LENA        ~00~#033
+;0002D042{~F8~0         FREDERIC MENTZEN     ~00~}#039#033
+~F8~0         FREDERIC MENTZEN     ~00~#033
+;0002D063{~F8~0                              ~00~}#039#033
+~F8~0                              ~00~#033
+|1056
+@0002D084-0002D1EC-00
+;0002D084{~F8~0         SYLVAIN  BRANCHU     ~00~}#039#033
+~F8~0         SYLVAIN  BRANCHU     ~00~#033
+;0002D0A5{~F8~0          ANTHONY  FIRKA      ~00~}#039#033
+~F8~0          ANTHONY  FIRKA      ~00~#033
+;0002D0C6{~F8~0               AND            ~00~}#039#033
+~F8~0                Y             ~00~#033
+;0002D0E7{~F8~0    ALL THE TESTING DEPARTMENT~00~}#039#033
+~F8~0     DEPARTAMENTO DE PRUEBAS  ~00~#033
+;0002D108{~F8~0                              ~00~}#039#033
+~F8~0                              ~00~#033
+;0002D129{~F8~0           BEATE REITER       ~00~}#039#033
+~F8~0           BEATE REITER       ~00~#033
+;0002D14A{~F8~0               AND            ~00~}#039#033
+~F8~0                Y             ~00~#033
+;0002D16B{~F8~0    THE TRANSLATION DEPARTMENT~00~}#039#033
+~F8~0    DEPARTAMENTO DE TRADUCCIÓN~00~#033
+;0002D18C{~F8~0                              ~00~}#039#033
+~F8~0                              ~00~#033
+;0002D1AD{~F8~0         VINCENT PELISSON     ~00~}#039#033
+~F8~0         VINCENT PELISSON     ~00~#033
+;0002D1CE{                              ~00~}#034#031
+                              ~00~#031
+|361

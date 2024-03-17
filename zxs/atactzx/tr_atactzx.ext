@@ -1,0 +1,124 @@
+@0000013B-0000014C-11
+;0000013B{"Press To Start!!"}#018#018
+"Pulsa Y Empieza!"#018
+|18
+@00004E9F-00004EAB-11
+;00004E9F{Produced By,~11~}#016#013
+Lo Produce, ~11~#013
+|13
+@00004F0F-00004F29-11
+;00004F0F{      1 Kempston Joystick.~11~}#030#027
+      1 Joystick Kempston.~11~#027
+|27
+@00004F3B-00004F55-11
+;00004F3B{      2 Keyboard... QAOPM.~11~}#030#027
+      2 Teclado.... QAOPM.~11~#027
+|27
+@00004F67-00004F81-11
+;00004F67{      3 Pilot Information.~11~}#030#027
+      3 Información Piloto~11~#027
+|27
+@00004F93-00004FAD-11
+;00004F93{      4 Quit playing game.~11~}#030#027
+      4 Dejar de jugar....~11~#027
+|27
+@00005144-00005155-11
+;00005144{AIR TO AIR COMBAT~11~}#021#018
+  COMBATE AÉREO  ~11~#018
+|18
+@0000516C-0000517F-11
+;0000516C{Written by Gad.Shaw~11~}#023#020
+Código por Gad.Shaw~11~#020
+|20
+@00005196-000051A9-11
+;00005196{Present High Score:~11~}#023#020
+Marca Alta Actual: ~11~#020
+|20
+@00005275-00005291-11
+;00005275{Destroy all Enemy Craft then~11~}#032#029
+Destruye las Naves Enemigas ~11~#029
+|29
+@000052A8-000052C4-11
+;000052A8{intercept the enemy supplies~11~}#032#029
+e intercepta sus suministros~11~#029
+|29
+@00005417-00005425-11
+;00005417{Replenish Fuel~11~}#018#015
+Reabastecerse ~11~#015
+|15
+@00005430-0000543A-11
+;00005430{Smart Bomb~11~}#014#011
+Bomba Int.~11~#011
+|11
+@00005445-0000544F-11
+;00005445{Extra Life~11~}#014#011
+Vida Extra~11~#011
+|11
+@0000545A-00005467-11
+;0000545A{Repair Shield~11~}#017#014
+Repara Escudo~11~#014
+|14
+@00005472-0000547C-11
+;00005472{More Enemy~11~}#014#011
+Enemigos  ~11~#011
+|11
+@00005487-00005490-11
+;00005487{More Time~11~}#013#010
+Tiempo   ~11~#010
+|10
+@000054B7-000054D0-11
+;000054B7{  Chopper type: SPIRIT 87~11~}#029#026
+  Helicóptero: SPIRIT 87 ~11~#026
+|26
+@000054E2-000054FD-11
+;000054E2{  Weapon      : Dual Cannon~11~}#031#028
+  Arma       : Cañón Dual  ~11~#028
+|28
+@0000550F-0000552D-11
+;0000550F{  Defence     : Impact Shields~11~}#034#031
+  Defensa    : Escudos Impacto~11~#031
+|31
+@00005545-00005573-11
+;00005545{< Life Left ~7B~~7C~ Beware tornado  =>           ~7D~~7E~~11~}#062#047
+< Vida      ~7B~~7C~ Alerta Tornado  =>           ~7D~~7E~~11~#047
+|47
+@000055FE-00005604-11
+;000055FE{SCORE:~11~}#010#007
+MARCA:~11~#007
+|7
+@0000561B-0000561D-11
+;0000561B{TI~11~}#006#003
+TI~11~#003
+|3
+@00005634-00005636-11
+;00005634{EN~11~}#006#003
+EN~11~#003
+|3
+@0000564D-00005652-11
+;0000564D{FUEL:~11~}#009#006
+COM.:~11~#006
+|6
+@000056B5-000056BC-11
+;000056B5{SHIELD:~11~}#011#008
+ESCUDO:~11~#008
+|8
+@00005732-00005747-11
+;00005732{Quit playing A.T.A.C!~11~}#025#022
+ Dejar jugar A.T.A.C!~11~#022
+|22
+@0000575E-00005775-11
+;0000575E{Are you sure? Yes or No~11~}#027#024
+Estás seguro? Sí No Y N~11~#024
+|24
+@00008489-0000849F-11
+;00008489{MISSION_ACCOMPLISHED!!~11~}#026#023
+_MISIÓN_COMPLETADA!!!_~11~#023
+|23
+@00009506-00009510-11
+;00009506{GAME_OVER!~11~}#014#011
+FIN_JUEGO!~11~#011
+|11
+@00009559-00009567-11
+;00009559{New High_Score~11~}#018#015
+Una Marca_Alta~11~#015
+|15

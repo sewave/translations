@@ -1,0 +1,192 @@
+@0001AD22-0001AD48-FF
+;0001AD22{=Select /~BC~ to=WALK as many=as 5 spaces~FF~}#045#039
+=Select /~BC~ to=WALK as many=as 5 spaces~FF~#039
+|39
+@0001AD52-0001AD7E-FF
+;0001AD52{=After walking,=press /~E0~=to change=direction~FF~}#051#045
+=After walking,=press /~E0~=to change=direction~FF~#045
+|45
+@0001AD81-0001ADA6-FF
+;0001AD81{=To stop at a=location,press=Button A~FF~}#041#038
+=To stop at a=location,press=Button A~FF~#038
+|38
+@0001ADAD-0001ADD1-FF
+;0001ADAD{=To cancel a=movement,press=Button B~FF~}#040#037
+=To cancel a=movement,press=Button B~FF~#037
+|37
+@0001ADE1-0001AE04-FF
+;0001ADE1{=Select /~BC~ to=JUMP at that=location~FF~}#042#036
+=Select /~BC~ to=JUMP at that=location~FF~#036
+|36
+@0001AE06-0001AE24-FF
+;0001AE06{=Roaches nearby=will be scared~FF~}#034#031
+=Roaches nearby=will be scared~FF~#031
+|31
+@0001AE2C-0001AE56-FF
+;0001AE2C{=Good jumps=will scare=Roaches into=a Trap~FF~}#046#043
+=Good jumps=will scare=Roaches into=a Trap~FF~#043
+|43
+@0001AE6A-0001AE97-FF
+;0001AE6A{=Use /~BC~ to=slam a SLIPPER=at a Roach=near you~FF~}#052#046
+=Use /~BC~ to=slam a SLIPPER=at a Roach=near you~FF~#046
+|46
+@0001AE99-0001AEC4-FF
+;0001AE99{=Move next to=a Roach and=hit it!=...Crush!~FF~}#047#044
+=Move next to=a Roach and=hit it!=...Crush!~FF~#044
+|44
+@0001AECE-0001AEFA-FF
+;0001AECE{=Slamming the=slipper will=scare the=Roaches~FF~}#048#045
+=Slamming the=slipper will=scare the=Roaches~FF~#045
+|45
+@0001AF0A-0001AF37-FF
+;0001AF0A{=Smart use of=1 slipper=can destroy=2 Roaches~FF~}#049#046
+=Smart use of=1 slipper=can destroy=2 Roaches~FF~#046
+|46
+@0001AF46-0001AF8E-FF
+;0001AF46{=Select /~BC~ and=use /~E0~ to set=/~E4~ on the=Roach you will=bash with a=BROOM!~FF~}#085#073
+=Select /~BC~ and=use /~E0~ to set=/~E4~ on the=Roach you will=bash with a=BROOM!~FF~#073
+|73
+@0001AF98-0001AFBA-FF
+;0001AF98{=Press Button A=to swing the=broom~FF~}#038#035
+=Press Button A=to swing the=broom~FF~#035
+|35
+@0001AFBC-0001AFE0-FF
+;0001AFBC{=Whack a=location to=see its=effects~FF~}#040#037
+=Whack a=location to=see its=effects~FF~#037
+|37
+@0001AFEA-0001B01D-FF
+;0001AFEA{=A Roach hit=with a broom=will usually=be destroyed~FF~}#055#052
+=A Roach hit=with a broom=will usually=be destroyed~FF~#052
+|52
+@0001B033-0001B066-FF
+;0001B033{=Can hit over=a snack or a=Trap,but not=over a wall~FF~}#055#052
+=Can hit over=a snack or a=Trap,but not=over a wall~FF~#052
+|52
+@0001B091-0001B0CD-FF
+;0001B091{=Select /~BC~=and you may=SPRAY up to 4=Roaches in=front of you~FF~}#067#061
+=Select /~BC~=and you may=SPRAY up to 4=Roaches in=front of you~FF~#061
+|61
+@0001B0CF-0001B0F9-FF
+;0001B0CF{=The effects=can be felt 2=spaces in=front~FF~}#046#043
+=The effects=can be felt 2=spaces in=front~FF~#043
+|43
+@0001B100-0001B13A-FF
+;0001B100{=Spray can=zap Roaches=behind snacks,=Traps,and=even walls~FF~}#062#059
+=Spray can=zap Roaches=behind snacks,=Traps,and=even walls~FF~#059
+|59
+@0001B14D-0001B18B-FF
+;0001B14D{=Select /~BC~ to=end your=command turn=and PASS it=to the Roaches~FF~}#069#063
+=Select /~BC~ to=end your=command turn=and PASS it=to the Roaches~FF~#063
+|63
+@0001B18F-0001B1CA-FF
+;0001B18F{=Roach reaction=is affected by=its distance=from the=action~FF~}#063#060
+=Roach reaction=is affected by=its distance=from the=action~FF~#060
+|60
+@0001B1D0-0001B21E-FF
+;0001B1D0{=Adjacent=Roaches will=move 3 spaces.=Roaches 2=spaces away=will move=2 spaces~FF~}#082#079
+=Adjacent=Roaches will=move 3 spaces.=Roaches 2=spaces away=will move=2 spaces~FF~#079
+|79
+@0001B23B-0001B272-FF
+;0001B23B{=Any snack in=the Roach path=will be eaten!=...Yum Yum!~FF~}#059#056
+=Any snack in=the Roach path=will be eaten!=...Yum Yum!~FF~#056
+|56
+@0001B277-0001B2B0-FF
+;0001B277{=When hitting a=wall,the Roach=will move away=from action~FF~}#061#058
+=When hitting a=wall,the Roach=will move away=from action~FF~#058
+|58
+@0001B2B6-0001B2EF-FF
+;0001B2B6{=It will=usually move=to the right=after hitting=the wall~FF~}#061#058
+=It will=usually move=to the right=after hitting=the wall~FF~#058
+|58
+@0001B2F3-0001B31F-FF
+;0001B2F3{=Why do they=move to the=right~3F~=No one knows~FF~}#051#045
+=Why do they=move to the=right~3F~=No one knows~FF~#045
+|45
+@0001B328-0001B358-FF
+;0001B328{=If no place to=escape to,they=remain...=Gotcha!~FF~}#052#049
+=If no place to=escape to,they=remain...=Gotcha!~FF~#049
+|49
+@0001B35D-0001B38F-FF
+;0001B35D{=Roaches can=spot a snack=as many as=6 spaces=away~FF~}#054#051
+=Roaches can=spot a snack=as many as=6 spaces=away~FF~#051
+|51
+@0001B3A7-0001B3F0-FF
+;0001B3A7{=Discovering=snack,a Roach=will move=towards it...=Can only move=4 spaces~FF~}#077#074
+=Discovering=snack,a Roach=will move=towards it...=Can only move=4 spaces~FF~#074
+|74
+@0001B3FE-0001B43A-FF
+;0001B3FE{=If more than=2 snacks,a=Roach will=move towards=closest=one~FF~}#064#061
+=If more than=2 snacks,a=Roach will=move towards=closest=one~FF~#061
+|61
+@0001B44B-0001B48A-FF
+;0001B44B{=If the same=distance, a=Roach will=go after the=snack it faces~FF~}#067#064
+=If the same=distance, a=Roach will=go after the=snack it faces~FF~#064
+|64
+@0001B4AB-0001B4DC-FF
+;0001B4AB{=Objects can=prevent a=Roach from=finding a=snack~FF~}#053#050
+=Objects can=prevent a=Roach from=finding a=snack~FF~#050
+|50
+@0001B519-0001B569-FF
+;0001B519{=Finding no=snack,a Roach=will move=along wall.=If no wall,it=will move=straight~FF~}#084#081
+=Finding no=snack,a Roach=will move=along wall.=If no wall,it=will move=straight~FF~#081
+|81
+@0001B573-0001B5A9-FF
+;0001B573{=Knowing a=Roach's moves,=you can lead=one into a=Trap~FF~}#058#055
+=Knowing a=Roach's moves,=you can lead=one into a=Trap~FF~#055
+|55
+@0001B5CC-0001B5F8-FF
+;0001B5CC{=5 commands=to destroy=Roaches^You can=Walk,~FF~}#048#045
+=5 commands=to destroy=Roaches^You can=Walk,~FF~#045
+|45
+@0001B5FE-0001B604-FF
+;0001B5FE{=Jump,~FF~}#010#007
+=Jump,~FF~#007
+|7
+@0001B607-0001B620-FF
+;0001B607{=Slam 'em=with a=Slipper,~FF~}#029#026
+=Slam 'em=with a=Slipper,~FF~#026
+|26
+@0001B62F-0001B646-FF
+;0001B62F{=Bash 'em=with a=Broom,~FF~}#027#024
+=Bash 'em=with a=Broom,~FF~#024
+|24
+@0001B64B-0001B661-FF
+;0001B64B{=or Zap 'em=with Spray~FF~}#026#023
+=or Zap 'em=with Spray~FF~#023
+|23
+@0001B66E-0001B6AF-FF
+;0001B66E{=Each level=has its own=items to=use^Snag the=Roaches in=the Trap~FF~}#069#066
+=Each level=has its own=items to=use^Snag the=Roaches in=the Trap~FF~#066
+|66
+@0001B6C0-0001B6E1-FF
+;0001B6C0{=Jump or=use items=in your=attack~FF~}#037#034
+=Jump or=use items=in your=attack~FF~#034
+|34
+@0001B6E4-0001B6FA-FF
+;0001B6E4{=Scare 'em=into a Trap~FF~}#026#023
+=Scare 'em=into a Trap~FF~#023
+|23
+@0001B704-0001B72D-FF
+;0001B704{=Destroy all=Roaches to=reach a=new level~FF~}#045#042
+=Destroy all=Roaches to=reach a=new level~FF~#042
+|42
+@0001B739-0001B766-FF
+;0001B739{=If you fail,=the Roaches=will take the=snack~FF~}#049#046
+=If you fail,=the Roaches=will take the=snack~FF~#046
+|46
+@0001B76C-0001B7B6-FF
+;0001B76C{=When a Roach=appears at the=top of the=screen,^You can't win=in your turn~FF~}#078#075
+=When a Roach=appears at the=top of the=screen,^You can't win=in your turn~FF~#075
+|75
+@0001B7D7-0001B7FD-FF
+;0001B7D7{=Roaches=will move=when your=turn ends~FF~}#042#039
+=Roaches=will move=when your=turn ends~FF~#039
+|39
+@0001B80A-0001B837-FF
+;0001B80A{=Roach which=finds snack=will move=towards it~FF~}#049#046
+=Roach which=finds snack=will move=towards it~FF~#046
+|46
+@0001B844-0001B86D-FF
+;0001B844{=Use strategy=to lead=Roaches into=a Trap~FF~}#045#042
+=Use strategy=to lead=Roaches into=a Trap~FF~#042
+|42

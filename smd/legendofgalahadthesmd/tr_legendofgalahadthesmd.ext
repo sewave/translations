@@ -1,0 +1,499 @@
+@00001483-0000149B-FF
+;00001483{ ~3C~ START   ~3D~ ~3C~ OPTIONS ~3D~ }#037#025
+ ~3C~ EMPEZAR ~3D~ ~3C~ OPCIONES~3D~ #025
+|25
+@000014D3-000017A2-FF
+;000014D3{+~3C~             OPTION MENU              ~3D~~3C~                                      ~3D~~3C~   CONTROLS  -                        ~3D~~3C~                                      ~3D~~3C~      LIVES  -                        ~3D~~3C~                                      ~3D~~3C~ START WORLD -    (    )              ~3D~~3C~                                      ~3D~~3C~     CREDITS -                        ~3D~~3C~                                      ~3D~~3C~  DIFFICULTY -                        ~3D~~3C~                                      ~3D~~3C~  MUSIC TEST -                        ~3D~~3C~                                      ~3D~~3C~    F/X TEST -                        ~3D~~3C~                                      ~3D~~3C~        EXIT                          ~3D~~3C~                                      }#825#720
++~3C~
+             MENÚ OPCIONES            ~3D~~3C~                                      ~3D~~3C~
+  CONTROLES  -                        ~3D~~3C~                                      ~3D~~3C~
+      VIDAS  -                        ~3D~~3C~                                      ~3D~~3C~
+
+    EN MUNDO -    (    )              ~3D~~3C~                                      ~3D~~3C~
+    CRÉDITOS -                        ~3D~~3C~                                      ~3D~~3C~
+  DIFICULTAD -                        ~3D~~3C~                                      ~3D~~3C~
+      MÚSICA -                        ~3D~~3C~                                      ~3D~~3C~
+      EFECTO -                        ~3D~~3C~                                      ~3D~~3C~
+       SALIR                          ~3D~~3C~                                      #720
+|720
+@0000186C-0000190F-FF
+;0000186C{TRAININGNORMAL  HARD    TITLE THEME   WORLD ONE     WORLD TWO     WORLD THREE   GAME COMPLETE LEVEL TASK    INSIDE SHOP   HIGH SCORE    LEVEL FINISHEDCONINUTE GAME }#164#164
+ENTRENAR
+NORMAL  
+DIFÍCIL 
+TEMA TÍTULO   
+MUNDO UNO     
+MUNDO DOS     
+MUNDO TRES    
+JUEGO ACABADO 
+TAREA NIVEL   
+DENTRO TIENDA 
+MEJORES PUNTOS
+NIVEL ACABADO 
+CONTINUAR     #164
+|164
+@000019BA-000019DF-FF
+;000019BA{A FIRE B JUMP C XXXB FIRE C JUMP A XXX}#038#038
+A TIRO B BOTE C XXX
+B TIRO C BOTE A XXX#038
+|38
+@00006716-0000687D-FF
+;00006716{'CONGRATULATIONS. YOU HAVE COMPLETED THE       FIRST PART OF YOUR QUEST.              REMEMBER THE LETTERS 'NEXT''       'THANK YOU FOR PLAYING LEANDER BUT TO   SEE ANY MORE OF THE GAME YOU MUST PLAY  AGAIN ON THE NORMAL DIFFICULTY LEVEL.' 'CONGRATULATIONS. YOU HAVE COMPLETED THE      SECOND PART OF YOUR QUEST.             REMEMBER THE LETTERS 'LVFT''       }#360#360
+    'FELICIDADES. HAS COMPLETADO LA     
+     PRIMERA PARTE DE TU AVENTURA.      
+      RECUERDA LAS LETRAS 'NEXT''       
+  'GRACIAS POR JUGAR LEANDER PERO PARA  
+ VER ALGO MÁS DEL JUEGO DEBES JUGAR DE  
+  NUEVO EN NIVEL DE DIFICULTAD NORMAL'  
+    'FELICIDADES. HAS COMPLETADO LA     
+     SEGUNDA PARTE DE TU AVENTURA.      
+      RECUERDA LAS LETRAS 'LVFT''       #360
+|360
+@00006970-00006B26-3C
+;00006970{    WORLD   LEVEL   COMPLETED        ~3D~~3C~}#045#039
+    MUNDO   NIVEL   COMPLETADO       ~3D~~3C~#039
+;00006997{                                      ~3D~~3C~}#046#040
+                                      ~3D~~3C~#040
+;000069BF{   GOLD COLLECTED BONUS     X 10000   ~3D~~3C~}#046#040
+   BONOS ORO RECOGIDO       X 10000   ~3D~~3C~#040
+;000069E7{   ARMOUR POINT BONUS       X 1000    ~3D~~3C~}#046#040
+   BONOS PUNTOS ARMADURA    X 1000    ~3D~~3C~#040
+;00006A0F{   SWORD STRENGTH BONUS     X 1000    ~3D~~3C~}#046#040
+   BONOS FUERZA ESPADA      X 1000    ~3D~~3C~#040
+;00006A37{   RUNE BOMB BONUS          X 100     ~3D~~3C~}#046#040
+   BONOS BOMBAS RUNA        X 100     ~3D~~3C~#040
+;00006A5F{                                      ~3D~~3C~}#046#040
+                                      ~3D~~3C~#040
+;00006A87{                                      ~3D~~3C~}#046#040
+                                      ~3D~~3C~#040
+;00006AAF{                                      ~3D~~3C~}#046#040
+                                      ~3D~~3C~#040
+;00006AD7{                                      ~3D~~3C~}#046#040
+                                      ~3D~~3C~#040
+;00006AFF{          SCORE                       ~3D~~3C~}#046#040
+          MARCA                       ~3D~~3C~#040
+|439
+@00007AA6-00007E65-FF
+;00007AA6{'GO WEST TO THE CAVE AND COLLECT THE     PORTAL KEY. THEN TRAVEL EAST TO THE                    PORTAL'                 'JUMP LEFT OFF THE EASTERN-MOST CLIFF    TO RECLAIM THE CROWN FROM THE CHEST,    THEN JOURNEY TO THE GATE IN THE CAVE'  'JOURNEY EAST TO THE CAVE AND RETURN     THE SPIDER'S EGG TO THE WESTERN GATE'                                          'AVOID THE ELVES AS YOU TRAVEL EAST      ACROSS THE HIGH BRIDGE TO THE CAVE.     RETRIEVE THE SILVER BOW FROM WITHIN'   'USE THE BOATS TO CROSS THE QUAY AND       DESTROY THE GUARD IN THE CAVE TO                CLAIM HIS RING'              'JUMP ON THE SACKS TO BRIDGE THE GAPS    BETWEEN THE TOWERS AND ENTER THE CAVE    AND RETURN WITH THE DRAGON'S TOOTH'   'DEFEAT THE QUEEN SPIDER AND COLLECT     THE SPHERE OF POWER TO OPEN THE GATE            TO THE NEXT WORLD'             'CLIMB THE ROCK FACE TO THE FAR EAST,    SLAY THE DRAGON TO GAIN ENTRANCE TO     THE TEMPLE AND RETRIEVE THE AMULET'    }#960#960
+  'VE A LA CUEVA AL OESTE Y RECOGE LA   
+  LLAVE DEL PORTAL. ENTONCES VIAJA AL   
+         ESTE HACIA EL PORTAL'          
+  'SALTA A LA IZQUIERDA DEL ACANTILADO  
+  ESTE PARA TOMAR LA CORONA DEL COFRE,  
+  ENTONCES VE A LA PUERTA DE LA CUEVA'  
+ 'AVENTÚRATE A LA CUEVA ESTE Y DEVUELVE 
+  EL HUEVO DE LA ARAÑA A LA PUERTA DEL  
+                 OESTE'                 
+  'EVITA A LOS ELFOS VIAJANDO AL ESTE   
+  POR EL PUENTE ALTO HACIA LA CUEVA Y   
+ RECOBRA EL ARCO DE PLATA DEL INTERIOR' 
+ 'USA LAS BARCAS PARA CRUZAR EL MUELLE  
+ Y DESTRUYE AL GUARDA EN LA CUEVA PARA  
+          RECLAMAR SU ANILLO'           
+   'SALTA EN LOS SACOS PARA PUENTEAR    
+ ENTRE LAS TORRES Y ENTRA EN LA CUEVA Y 
+   VUELVE CON EL COLMILLO DE DRAGÓN'    
+  'VENCE A LA ARAÑA REINA Y RECOGE LA   
+ ESFERA DE PODER PARA ABRIR LA PUERTA   
+          AL SIGUIENTE MUNDO'           
+   'ESCALA LA CARA DE LA ROCA MÁS AL    
+ ESTE, MATA AL DRAGÓN PARA PODER ENTRAR 
+    AL TEMPLO Y RECUPERA EL AMULETO'    #960
+|960
+@00007E66-00008225-FF
+;00007E66{'GO WEST THROUGH THE MAZE TO FIND THE    TEMPLE ENTRANCE. ONCE THERE, LOCATE          THE SCROLL AND RETURN EAST'       'FIND THE HIDDEN ENTRANCE TO THE TEMPLE  ABOVE THE BUILDINGS AND REMOVE THE MASK         FROM THE CHEST WITHIN'         'CROSS THE WATERFALLS TO THE EAST AND    TRAVEL TO THE TEMPLE TO DEFEAT THE      KING SNAKE AND RETURN WITH ITS SKULL'   'THE DAGGER HELD WITHIN THE TEMPLE TO     THE EAST IS A SOURCE OF POWER FOR      THE WIZARD. IT MUST BE RETRIEVED.'    'COLLECT THE STATUE OF THE PHOENIX FROM  THE TEMPLE AND CLIMB THE WATERFALLS.    REMEMBER, SOME ROCKS CAN BE MOVED...'   'DEFEAT THE GIANT OTTER AND COLLECT      THE SPHERE OF POWER TO OPEN THE GATE            TO THE NEXT WORLD'             'JOURNEY WEST TO THE CASTLE ENTRANCE.    RETRIEVE THE SPELL BOOK THUS LIMITING     THE EXTENT OF THE WIZARD'S POWERS'  'SCALE THE CASTLE WALLS AND CROSS THE    RAMPARTS TO LOCATE THE CASTLE ENTRANCE. THEN FIND THE SCEPTRE AND RETURN WEST' }#960#960
+ 'VE AL OESTE POR EL LABERINTO Y HALLA  
+ LA ENTRADA AL TEMPLO. ALLÍ, ENCUENTRA  
+     EL PERGAMINO Y VUELVE AL ESTE'     
+    'ENCUENTRA LA ENTRADA SECRETA AL    
+ TEMPLO ENCIMA DE LOS EDIFICIOS Y QUITA 
+   MÁSCARA DEL COFRE EN EL QUE ESTÁ'    
+  'CRUZA LAS CASCADAS HACIA EL ESTE Y   
+   VIAJA AL TEMPLO PARA VENCER AL REY   
+  SERPIENTE Y VUELVE CON SU CALAVERA'   
+ 'LA DAGA RETENIDA DENTRO DEL TEMPLO AL 
+   ESTE ES LA FUENTE DE PODER PARA EL   
+       MAGO. DEBE SER RECUPERADA'       
+    'RECOGE LA ESTATUA DEL FÉNIX DEL    
+     TEMPLO Y ESCALA LAS CASCADAS.      
+ RECUERDA, ALGUNAS ROCAS SE MUEVEN...'  
+ 'VENCE A LA NUTRIA GIGANTE Y RECOGE LA 
+  ESFERA DE PODER PARA ABRIR LA PUERTA  
+          AL SIGUIENTE MUNDO'           
+  'VE A LA ENTRADA OESTE DEL CASTILLO.  
+     RECUPERA EL LIBRO DE HECHIZOS      
+    LIMITANDO LOS PODERES DEL MAGO'     
+ 'ESCALA LOS MUROS DEL CASTILLO Y CRUZA 
+  LAS MURALLAS PARA HALLAR LA ENTRADA.  
+   ENCUENTRA EL CETRO Y VE AL OESTE'    #960
+|960
+@00008226-000085E5-FF
+;00008226{'USE THE MACHINERY TO CROSS THE PITS,    THEN RECOVER THE CHALICE. THE CAVE IS   WHERE THE WIZARD KEEPS HIS PRISONERS'   'TRAVEL UP ON THE WHEELS TO LOCATE THE   CHEST CONTAINING THE SILVER BRACELET.    ONCE FOUND, RETURN IT TO THE GATE.'    'DEFEAT THE RE-ANIMATED SPIDER QUEEN    AND RETURN TO THE GATE WITH THE HELMET        OF ONE OF ITS VICTIMS.'          'THE WIZARD HAS BROUGHT THE GIANT OTTER  BACK TO LIFE. YOU MUST DEFEAT IT AND             REMOVE ITS HEART.'           'I CAN HELP YOU NO MORE. YOU MUST DEFEAT THE WIZARD TO RESCUE THE PRINCESS AND         DESTROY HIS DOMAIN FOREVER.'         'THANK YOU FOR PLAYING, BUT TO       SEE ANY MORE OF THE GAME YOU MUST PLAY  AGAIN ON THE NORMAL DIFFICULTY LEVEL.' 'CONGRATULATIONS. YOU HAVE COMPLETED THE       FIRST PART OF YOUR QUEST.              REMEMBER THE LETTERS 'ZXSP''      'CONGRATULATIONS. YOU HAVE COMPLETED THE       SECOND PART OF YOUR QUEST.             REMEMBER THE LETTERS 'LVFT''      }#960#960
+   'USA LA MAQUINARIA PARA CRUZAR LOS   
+ FOSOS Y ENTONCES RECUPERA EL CÁLIZ. EN 
+ ESA CUEVA TIENE EL MAGO A SUS REHENES' 
+ 'VIAJA EN LAS RUEDAS PARA LOCALIZAR EL 
+   COFRE QUE CONTIENE EL BRAZALETE DE   
+  PLATA. LUEGO DEVUÉLVELO A LA PUERTA'  
+  'VENCE A LA REINA ARAÑA REANIMADA Y   
+ VUELVE A LA PUERTA CON EL CASCO DE UNA 
+            DE SUS VÍCTIMAS'            
+  'EL MAGO HA DEVUELTO A LA VIDA A LA   
+    NUTRIA GIGANTE. DEBES VENCERLA Y    
+          QUITARLE EL CORAZÓN'          
+  'NO PUEDO AYUDARTE MÁS. DEBES VENCER  
+ AL MAGO PARA RESCATAR A LA PRINCESA Y  
+   DESTRUIR SU DOMINIO PARA SIEMPRE'    
+ 'GRACIAS POR JUGAR, PERO PARA VER MÁS  
+ DEL JUEGO HAS DE JUGAR DE NUEVO EN EL  
+      NIVEL DE DIFICULTAD NORMAL'       
+    'FELICIDADES. HAS COMPLETADO LA     
+     PRIMERA PARTE DE TU AVENTURA.      
+      RECUERDA LAS LETRAS 'ZXSP''       
+    'FELICIDADES. HAS COMPLETADO LA     
+     SEGUNDA PARTE DE TU AVENTURA.      
+      RECUERDA LAS LETRAS 'LVFT''       #960
+|960
+@00009AD4-00009B09-FF
+;00009AD4{                   HIGH SCORES                        }#054#054
+                MEJORES MARCAS                        #054
+|54
+@0000B77A-0000BB79-FF
+;0000B77A{  A TRAINING        SWORD        A SHORT SWORD.                   A LONG SWORD   WITH A DAGGER.   A LONG SWORD   WITH DAGGERS.    THE FORCE         BLADE.        THE TEMPEST       BLADE.         THE LION         BLADE.       SHORT SWORD     -----------      THIS SWORD    INFLICTS 2 HIT   POINT DAMAGE     WHEN USED.                     IT COSTS 200     GOLD COINS                                                      LONG SWORD      ----------    (WITH DAGGER)     THIS SWORD    INFLICT2 2 HIT   POINT DAMAGE     WHEN USED       THE DAGGER    INFLICT 1 HIT    POINT DAMAGE.   THE COST IS    350 GOLD COINS    LONG SWORD      ----------    (WITH DAGGERS)    THIS SWORD    INFLICT2 2 HIT   POINT DAMAGE     WHEN USED       THE DAGGERS   INFLICT 1 HIT    POINT DAMAGE.   THE COST IS    500 GOLD COINS   FORCE BLADE     ----- -----      THIS SWORD    INFLICTS 3 HIT   POINT DAMAGE     WHEN USED.                     IT COSTS 1000    GOLD COINS.                                                   TEMPEST BLADE   ------- -----   }#1024#1024
+UNA ESPADA DE   
+ENTRENAMIENTO   
+ESPADA CORTA.   
+                
+ ESPADA LARGA   
+CON UNA DAGA.   
+ ESPADA LARGA   
+  CON DAGAS.    
+LA HOJA DE LA   
+   FUERZA.      
+LA HOJA DE LA   
+  TEMPESTAD.    
+ LA HOJA DEL    
+    LEÓN.       
+ ESPADA CORTA   
+ ------ -----   
+                
+ ESTA ESPADA    
+HACE 2 PUNTOS   
+DE DAÑO CUANDO  
+   SE USA.      
+                
+  CUESTA 200    
+  MONEDAS DE    
+     ORO.       
+                
+ ESPADA LARGA   
+ ------ -----   
+  (CON DAGA)    
+ ESTA ESPADA    
+HACE 2 PUNTOS   
+DE DAÑO CUANDO  
+   SE USA.      
+   LA DAGA      
+  INFLIGE 1     
+PUNTO DE DAÑO.  
+  CUESTA 350    
+MONEDAS DE ORO. 
+ ESPADA LARGA   
+ ------ -----   
+ (CON DAGAS)    
+ ESTA ESPADA    
+HACE 2 PUNTOS   
+DE DAÑO CUANDO  
+   SE USA.      
+  LAS DAGAS     
+HACEN 1 PUNTO   
+   DE DAÑO.     
+  CUESTA 500    
+MONEDAS DE ORO. 
+ HOJA FUERZA    
+ ---- ------    
+                
+ ESTA ESPADA    
+HACE 3 PUNTOS   
+DE DAÑO CUANDO  
+  CUANDO SE     
+     USA.       
+ CUESTA 1000    
+  MONEDAS DE    
+     ORO.       
+                
+HOJA TEMPESTAD  
+---- ---------  #1024
+|1024
+@0000BB7A-0000BF79-FF
+;0000BB7A{  THIS SWORD    INFLICTS 4 HIT   POINT DAMAGE     WHEN USED.                     IT COSTS 2000    GOLD COINS.                                                     LION BLADE      ---- -----      THIS SWORD    INFLICTS 4 HIT   POINT DAMAGE     WHEN USED.                     IT COSTS 3000    GOLD COINS.                                                    LIGHT ARMOUR    ------------                    THIS ARMOUR     WILL PROTECT     THE WEARER     FROM 1 EXTRA    HIT POINT OF      DAMAGE.                       IS COSTS 200    GOLD COINS.     COMBAT ARMOUR   ------ ------                   THIS ARMOUR     WILL PROTECT     THE WEARER     FROM 2 EXTRA    HIT POINT OF      DAMAGE.                       IS COSTS 250    GOLD COINS.     FIELD ARMOUR    ----- ------                    THIS ARMOUR     WILL PROTECT     THE WEARER     FROM 3 EXTRA    HIT POINT OF      DAMAGE.                       IS COSTS 300    GOLD COINS.     BATTLE ARMOUR   ------ ------                   THIS ARMOUR     WILL PROTECT     THE WEARER    }#1024#1024
+ ESTA ESPADA    
+HACE 4 PUNTOS   
+DE DAÑO CUANDO  
+   SE USA.      
+                
+ CUESTA 2000    
+  MONEDAS DE    
+     ORO.       
+                
+                
+  HOJA LEÓN     
+  ---- ----     
+                
+ ESTA ESPADA    
+INFLIGE 4       
+PUNTOS DE DAÑO  
+CUANDO SE USA.  
+                
+ CUESTA 3000    
+  MONEDAS DE    
+     ORO.       
+                
+ARMADU. LIGERA  
+------  ------  
+                
+ESTA ARMADURA   
+ PROTEGERÁ AL   
+PORTADOR DE 1   
+PUNTO DE DAÑO   
+    EXTRA.      
+                
+  CUESTA 200    
+  MONEDAS DE    
+     ORO.       
+ARMAD. COMBATE  
+------ -------  
+                
+ESTA ARMADURA   
+ PROTEGERÁ AL   
+PORTADOR DE 2   
+ PUNTOS EXTRA   
+   DE DAÑO.     
+                
+  CUESTA 250    
+  MONEDAS DE    
+     ORO.       
+ARMADURA CAMPO  
+-------- -----  
+                
+ESTA ARMADURA   
+ PROTEGERÁ AL   
+PORTADOR DE 3   
+PUNTOS DE DAÑO  
+    EXTRA.      
+                
+  CUESTA 300    
+  MONEDAS DE    
+     ORO.       
+ARMDU. BATALLA  
+------ -------  
+                
+ESTA ARMADURA   
+ PROTEGERÁ AL   
+PORTADOR DE 4   #1024
+|1024
+@0000BF7A-0000C379-FF
+;0000BF7A{ FROM 4 EXTRA    HIT POINT OF      DAMAGE.                       IS COSTS 350    GOLD COINS.     MAGE ARMOUR     ---- ------                     THIS ARMOUR     WILL PROTECT     THE WEARER     FROM 5 EXTRA    HIT POINT OF      DAMAGE.                       IS COSTS 400    GOLD COINS.       RUNE BOMB       ---- ----                       LITTLE IS      KNOWN ABOUT    THE ORIGIN OR    USES OF THIS   ANCIENT, HIGH   POWER WEAPON.                   IT COSTS 250    GOLD COINS.        YOU ARE      WEARING   HIT   POINT ARMOUR.                   YOU ALSO HAVE                                                   YOU HAVE         GOLD COINS.                    RUNE BOMBS      SORRY YOU DO   NOT HAVE ENOUGH GOLD TO BUY THE   SHORT SWORD                                                                                                                                                                                     ITEM BOUGHT                                                                                                   }#1024#1024
+PUNTOS DE DAÑO  
+    EXTRA.      
+                
+  CUESTA 350    
+  MONEDAS DE    
+     ORO.       
+ARMADURA MAGO   
+-------- ----   
+                
+ESTA ARMADURA   
+PROTEGERÁ A SU  
+PORTADOR DE 5   
+PUNTOS DE DAÑO  
+    EXTRA.      
+                
+  CUESTA 400    
+  MONEDAS DE    
+     ORO.       
+  BOMBA RUNA    
+  ----- ----    
+                
+ SE SABE POCO   
+   SOBRE EL     
+ ORIGEN O LOS   
+ USOS DE ESTA   
+  ANTIGUA Y     
+POTENTE ARMA.   
+  CUESTA 250    
+  MONEDAS DE    
+     ORO.       
+LLEVAS PUESTA   
+ARMADURA        
+PUNTOS DE DAÑO. 
+                
+TAMBIÉN TIENES  
+                
+                
+                
+TIENES          
+MONEDAS DE ORO. 
+                
+BOMBAS RUNA     
+ PERDONA PERO   
+  NO TIENES     
+SUFICIENTE ORO  
+ PARA COMPRAR   
+ ESE OBJETO.    
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+    OBJETO      
+  COMPRADO.     
+                
+                
+                
+                
+                #1024
+|1024
+@0000C37A-0000C459-FF
+;0000C37A{                                                  YOU ALREADY   HAVE THIS ITEM                  YOU CANNOT BUY    IT TWICE!                                                                                                     }#224#224
+                
+                
+                
+YA TIENES ESTE  
+   OBJETO.      
+                
+ NO SE PUEDE    
+ COMPRAR DOS    
+    VECES.      
+                
+                
+                
+                
+                #224
+|224
+@00021380-0002159F-FF
+;00021380{  CONGRATULATIONS                         YOU HAVE RID THE                       LAND OF THE EVIL OF                       THE EVIL WIZARD                                                                                                                          HIS DOMAIN HAS BEEN                      DESTROYED AND YOU                       CAN BEGIN THE TASK                      OF REBUILDING THE                      WASTELAND CREATED BY                        THE WIZARD                                                                      }#544#544
+    FELICIDADES     
+                      HAS LIBRADO A LA  
+                     TIERRA DEL MAL DEL 
+                        MALVADO MAGO    
+                                        
+                                        
+                    
+                     SU DOMINIO HA SIDO 
+                     DESTRUIDO Y PUEDES 
+                    EMPEZAR LA TAREA DE 
+                    RECONSTRUIR EL YERMO
+                     CREADO POR EL MAGO 
+                                        
+                                        
+                        #544
+|544
+@00021710-00022167-FF
+;00021710{              CREDITS                                               PROGRAMMING:               DAVID DOOTSON                                        SOURCE CODE:                  JON BURTON                                        GRAPHICS:                    ANDY INGRAM                                        MUSIC:                 KRISALIS SOFTWARE                                        SOUNDFX:               KRISALIS SOFTWARE                                        MAP DESIGNS:                 ANDY INGRAM   GRAHAME WATKINSON        JOANNE LYNCH                                        CREATURE ATTRIBUTES:          JON BURTON                                        DOCUMENTATION:               PHIL MCNAIR                                        PROJECT MANAGEMENT:         STEVE RIDING                                        PROJECT DIRECTION:      IAN HETHERINGTON          JOHN WHITE                                        ADDITIONAL DESIGN   SKETCHES:                    SIMON JAMES                                        RAIN GRAPHICS:                JON BURTON                                        MOVEQ.L ~23~0,D0:               ANDY INGRAM                                        INITIAL MEETING     ARRANGED BY:               STUART MCNAIR                                        EQUIPMENT SUPPLIED  BY:                            PSYGNOSIS    CENTRAL EXCHANGE                                        PLAYTESTING BY:                     GREG                NICK               CHRIS         CHAZ WATERS         CHAZ MCNAIR        JOHN CLINTON         ANDY INGRAM       GRA WATKINSON        DAVE DOOTSON          JON BURTON                                        CODE CONCEPTS BY:             JON BURTON     CHRIS STANFORTH        DAVE DOOTSON                                        ART DIRECTION:               ANDY INGRAM                                        KEY GRIP:                          WHAT?                                        THANKS TO:                    DMA DESIGN        RAISING HELL                                        SPINNING CHIP BY:          NEIL AND MIKE                                        DECRUNCH CODE BY:   CHRIS (BIG M.) WYLIE                                                                                                                                                                                                                                                      THE END                                                                                                                                                                                                                                   }#2651#2648
+              CRÉDITOS      
+                                        
+PROGRAMACIÓN:              DAVID DOOTSON
+                                        
+CÓDIGO FUENTE:                JON BURTON
+                                        
+GRÁFICOS:                    ANDY INGRAM
+                                        
+MÚSICA:                KRISALIS SOFTWARE
+                                        
+EFECTOS:               KRISALIS SOFTWARE
+                                        
+DISEÑO DE MAPAS:             ANDY INGRAM
+   GRAHAME WATKINSON        JOANNE LYNCH
+                                        
+ATRIBUTOS CRIATURAS:          JON BURTON
+                                        
+DOCUMENTACIÓN:               PHIL MCNAIR
+                                        
+GESTIÓN DE PROYECTO:        STEVE RIDING
+                                        
+DIRECCIÓN PROYECTO:     IAN HETHERINGTON
+          JOHN WHITE                    
+                    DISEÑO ADICIONAL    
+BOCETOS:                     SIMON JAMES
+                                        
+GRÁFICOS RAIN:                JON BURTON
+                                        
+MOVEQ.L ~23~0,D0:               ANDY INGRAM
+                                        
+REUNIÓN INICIAL     
+ORGANIZADA POR:     
+       STUART MCNAIR                    
+                    EQUIPO SUMINISTRADO 
+POR:                           PSYGNOSIS
+    CENTRAL EXCHANGE                    
+                    PRUEBAS DE JUEGO:   
+                GREG                NICK
+               CHRIS         CHAZ WATERS
+         CHAZ MCNAIR        JOHN CLINTON
+         ANDY INGRAM       GRA WATKINSON
+        DAVE DOOTSON          JON BURTON
+                                        
+CONCEPTOS CLAVE POR:          JON BURTON
+     CHRIS STANFORTH        DAVE DOOTSON
+                                        
+DIRECCIÓN DE ARTE:           ANDY INGRAM
+                                        
+AGARRE CLAVE:                      WHAT 
+                                        
+GRACIAS A:                    DMA DESIGN
+        RAISING HELL                    
+                    CHIP GIRATORIO:     
+        NEIL Y MIKE                     
+                    CÓDIGO DESCOMPRIMIR:
+CHRIS (BIG M.) WYLIE                    
+                                        
+                                        
+                                        
+                                        
+                                        
+                            FIN         
+                                        
+                                        
+                                        
+                                        
+                                        
+                    #2648
+|2648
+@0002D02A-0002D47C-00
+;0002D02A{PRESS START TO BEGIN PLAY~00~}#029#026
+PULSA START PARA EMPEZAR ~00~#026
+;0002D044{                                           LICENSED BY SEGA ENTERPRISES LTD.                                             CREATED BY JON BURTON AND ANDY INGRAM.     COPYRIGHT 1992 TRAVELLERS TALES.              AND PSYGNOSIS LTD.                  PROGRAMMING BY DAVID DOOTSON.           SOURCE CODE FROM JON BURTON.      GRAPHICS BY WILL THOMPSON,ANDREW INGRAM.     AUDIO BY KRISALIS SOFTWARE LTD.             MUSIC BY MATT FURNISS.             MUSIC DRIVER BY S. HOLLINGWORTH.                                                  ADDITIONAL CREATURE DESIGNS                    BY SIMON JAMES               INITIAL MAP DESIGN BY GRA WATKINSON       FINAL MAP DESIGN BY ANDY INGRAM        CREATURE ATTRIBUTES BY JON BURTON                                              THANKS TO CHRIS WYLIE FOR THE CRUNCH                  ROUTINES.                          SPECIAL THANKS TO               IAN HEATHERINGTON, JOHN WHITE AND                  STEVE RIDING              A BIG THANKS GOES TO DAVID JONES FOR THEUSE OF LEMMINGS AND TO MARTYN R. CHUDLEYFOR THE USE OF THE KILLING GAME SHOW GFX~00~}#1084#1081
+                                        
+  LICENCIADO POR SEGA ENTERPRISES LTD.  
+                                        
+  CREADO POR JON BURTON Y ANDY INGRAM.  
+    COPYRIGHT 1992 TRAVELLERS TALES.    
+            Y PSYGNOSIS LTD.            
+      PROGRAMACIÓN DAVID DOOTSON.       
+      CÓDIGO FUENTE DE JON BURTON.      
+GRÁFICOS DE WILL THOMPSON,ANDREW INGRAM.
+    AUDIO DE KRISALIS SOFTWARE LTD.     
+        MÚSICA POR MATT FURNISS.        
+   DRIVER DE MÚSICA S. HOLLINGWORTH.    
+                                        
+     DISEÑO ADICIONAL DE CRIATURAS      
+             DE SIMON JAMES             
+  DISEÑO DE MAPA INICIAL GRA WATKINSON  
+  DISEÑO DE MAPA FINAL POR ANDY INGRAM  
+ ATRIBUTOS DE CRIATURAS POR JON BURTON  
+                                        
+ GRACIAS A CHRIS WYLIE POR LAS RUTINAS  
+             DE COMPRESIÓN.             
+          GRACIAS ESPECIALES A          
+    IAN HEATHERINGTON, JOHN WHITE Y     
+            STEVE RIDING                
+  MUCHAS GRACIAS A DAVID JONES POR EL   
+ USO DE LEMMINGS Y A MARTYN R. CHUDLEY  
+ POR EL USO DE GFX DE KILLING GAME SHOW ~00~#1081
+|1107

@@ -1,28 +1,34 @@
 Double Dragon II - The Revenge (NES)
-TraducciÛn al EspaÒol v1.0 (17/08/2018)
-(C) 2018 Wave Translations
+Traducci√≥n al Espa√±ol v1.0 (04/05/2024)
+(C) 2024 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducciÛn y hacking es completamente original.
-Si encuentras alg˙n fallo puedes contactar conmigo y ver mis traducciones en
+Esta traducci√≥n y hacking es completamente original.
+Si encuentras alg√∫n fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+V2.0:
+-Reescrito todo el guion
+-A√±adidos caracteres espa√±oles
+-Traducida barra de estado
+-Traducido gr√°fico DANGER!
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Double Dragon II - The Revenge (U) (PRG1) [!].nes
-262.160 bytes
+Double Dragon II - The Revenge (USA) (Rev A).nes
 MD5: b94be0bf2e861bca19339920cd786f53
 SHA1: e4fbbe69b3b539b198ae0e037fdc2558074a283f
 CRC32: a0f7027d
+262160 bytes
 
 --------
-CrÈditos
+Cr√©ditos
 --------
-Wave - Hacking, traducciÛn y pruebas.
+Wave - Hacking, traducci√≥n y pruebas.
 
 -- FIN --

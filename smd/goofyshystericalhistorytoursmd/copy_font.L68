@@ -1,0 +1,59 @@
+00000000 Starting Address
+Assembler used: EASy68K Editor/Assembler v5.16.01
+Created On: 02/02/2024 19:51:53
+
+00000000                             1      ORG    $00000000 ;This code needs no special org
+00000000                             2  
+00000000                             3  * Put variables and constants here
+00000000  =00C00004                  4  VDP_CONTROL EQU $C00004
+00000000  =000FD600                  5  DMA_SOURCE EQU $000FD600
+00000000  =0000BC00                  6  DMA_DEST EQU $BC00
+00000000  =00000100                  7  DMA_SIZE EQU $0100
+00000000                             8      
+00000000                             9  START:
+00000000                            10       ;Push all registers
+00000000  48E7 FFFE                 11       MOVEM.l A6-A0/D7-D0, -(SP)
+00000004                            12  
+00000004  41F9 00C00004             13       lea VDP_CONTROL, A0
+0000000A                            14       
+0000000A                            15       ;Wait for DMAs
+0000000A                            16  .wait_dma
+0000000A  3010                      17       move.w (A0), D0
+0000000C  0200 0002                 18       andi.b #$02, D0
+00000010  66F8                      19       bne .wait_dma
+00000012                            20       
+00000012                            21       ;Activate DMA
+00000012  30BC 8F02                 22       move.w #$8F02, (A0)  ; VDP Register #15, Increment by 2
+00000016  30BC 8174                 23       move.w #$8174, (A0)  ; VDP Register #1, Enable DMA
+0000001A                            24       
+0000001A                            25       ;Size high and low
+0000001A  30BC 9380                 26       move.w #$9300+((DMA_SIZE>>1)&$FF),(A0)
+0000001E  30BC 9400                 27       move.w #$9400+(((DMA_SIZE>>1)&$FF00)>>8),(A0)
+00000022                            28       
+00000022                            29       ;Source 3 bytes
+00000022  30BC 96EB                 30       move.w #$9600+(((DMA_SOURCE>>1)&$FF00)>>8),(A0)
+00000026  30BC 9500                 31       move.w #$9500+((DMA_SOURCE>>1)&$FF),(A0)
+0000002A  30BC 9707                 32       move.w #$9700+((((DMA_SOURCE>>1)&$FF0000)>>16)&$7F),(A0)
+0000002E                            33       
+0000002E                            34       ;Destination 2 bytes
+0000002E  20BC 7C000082             35       move.l #$40000080+((DMA_DEST&$3FFF)<<16)+((DMA_DEST&$C000)>>14),(A0)
+00000034                            36       
+00000034                            37      ;Restore all registers
+00000034  4CDF 7FFF                 38       MOVEM.l (SP)+, D0-D7/A0-A6
+00000038                            39       
+00000038  4E75                      40       rts
+0000003A                            41      END    START        ; last line of source
+
+No errors detected
+No warnings generated
+
+
+SYMBOL TABLE INFORMATION
+Symbol-name         Value
+-------------------------
+DMA_DEST            BC00
+DMA_SIZE            100
+DMA_SOURCE          FD600
+START               0
+START:WAIT_DMA      A
+VDP_CONTROL         C00004

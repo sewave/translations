@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Unl).nes"
+set SCRIPTNAME="lightguntoughcopsupertoughcopnes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 11440:10,114E0:10,12240:70,15440:10,154E0:10,19440:10,194E0:10,1B440:10,1B4E0:10,1D440:10,1D4E0:10,1F440:10,1F4E0:10,17A10:50,16BD0:10,18BD0:10,1ABD0:10,1CBD0:10,1EBD0:10,10F70:10,14F70:10,171F0:20,17280:30,17340:40,173D0:50,
+pause

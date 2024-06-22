@@ -1,0 +1,122 @@
+;Traducciones Wave 2024
+54 72 61 64 75 63 63 69 6F 6E 65 73 20 57 61 76 65 20 32 30 32 34@0001FFE0:0001FFF5
+
+;Fix ending cleaning routine for upper chars
+;171E [171E]  01 20 00       LD BC, $0020
+01 40 00@0000171E:00001720
+
+;Letter hat substitution
+;7F3A [7F3A]  CF             RST 08H
+;7F3B [7F3B]  2A 38 C0       LD HL, ($C038)
+;7F3E [7F3E]  7E             LD A, (HL)
+; =>
+;NOP
+;NOP
+;CALL $7FB4
+00 00 CD B4 7F@00007F3A:00007F3E
+
+;170A [170A]  CD 59 01       CALL $0159
+;Change to new ending routine
+;CALL $7F7C
+CD 7C 7F@0000170A:0000170C
+
+;;7F80 letter hat routine
+;;DE contains VDP address
+;  LD   HL, ($C038)
+;  PUSH HL
+;  LD   A, (HL)
+;;A has character
+;  CP   $B0
+;  JR   NC, regularPrint ;B0-EF are normal characters
+;;Now we print the hat at VDP address - $0040
+;  SUB  $A0 ;A0-AF are TTE
+;  SLA  A
+;  PUSH AF ;A = (HEX - A0) * 2
+;  PUSH DE ;Mantain previous DE
+;  EX   DE, HL
+;  LD   DE, $0040
+;  AND  A ;Clear carry
+;  SBC  HL, DE
+;  EX   DE, HL
+;  RST  08H ;VDP now points to upper tile
+;  POP  DE ;Previous DE, pointer to lower tile
+;  POP  AF
+;  LD   HL, $7FE0
+;  AND  A ;Clear carry
+;  ADC  A, L
+;  LD   L, A
+;  LD   A, (HL) ; A = (HL + TTE)
+;  OUT  (VDP_DATA_BE), A
+;  LD   A, $10
+;  OUT  (VDP_DATA_BE), A 
+;  INC  HL
+;regularPrint:
+;  RST  08H ;VDP now points to lower tile
+;  LD   A, (HL)
+;  POP  HL
+;  RET
+2A 38 C0 E5 7E FE B0 30 1F D6 A0 CB 27 F5 D5 EB 11 40 00 A7 ED 52 EB CF D1 F1 21 E0 7F A7 8D 6F 7E D3 BE 3E 10 D3 BE 23 CF 7E E1 C9@00007FB4:00007FDF
+
+;Free 116 bytes, Table 16 bytes, 100 bytes, Routine 1 44 bytes, Routine 2 Left 56 Bytes
+
+;CALLS TO COPY BYTES
+;04B3 [04B3]  CD 59 01       CALL $0159
+;170A [170A]  CD 59 01       CALL $0159 ;TEXTS COPY ROUTINE
+;2398 [2398]  CD 59 01       CALL $0159
+;6DEA [6DEA]  CD 59 01       CALL $0159
+;6DF5 [6DF5]  CD 59 01       CALL $0159
+;6E72 [6E72]  CD 59 01       CALL $0159
+
+;;ON ENTERING
+;;DE = VDP ADDRESS TARGET
+;;HL = CPU ADDRESS SOURCE
+;;B  = BYTES TO COPY
+;copyChar:
+;LD   A, (HL)
+;PUSH AF
+;CP   $B0
+;JR   NC, regularPrint ;B0-EF are normal characters
+;;-----------------copyUpper---------------------
+;;Calculate and set lower tile VDP address
+;PUSH HL
+;PUSH DE
+;EX   DE, HL    ;HL = DE
+;LD   DE, $0040 ;DE = $0040
+;AND  A         ;Clear carry
+;SBC  HL, DE    ;HL = HL - DE
+;EX   DE, HL    ;DE = HL (DE - $0040)
+;RST  08H ;VDP now points to upper tile, uses A
+;POP  DE ;Previous DE, pointer to lower tile
+;POP  HL
+;
+;;Calculate TTE address
+;POP  AF  ;Get original char
+;PUSH HL
+;SUB  $A0 ;A0-AF are TTE Carry = 0
+;SLA  A ;A = (HEX - A0) * 2
+;ADD  A, $E0
+;LD   L, A
+;LD   H, $7F
+;LD   A, (HL) ; A = ($7FC0 + offset)
+;;---------------Write upper char
+;OUT  (VDP_DATA_BE), A
+;XOR  A ;Set A to second tile byte
+;OUT  (VDP_DATA_BE), A
+;;Load lower char
+;INC  HL
+;LD   A, (HL) ;A should point to lower char
+;POP  HL      ;HL Now points to original text
+;PUSH AF      ;Pushes lower char
+;
+;regularPrint:
+;RST  08H ;Set VDP ADDRESS to lower char, uses A
+;POP  AF  ;Retrieve lower char
+;OUT  (VDP_DATA_BE), A
+;XOR  A ;Set A to second tile byte
+;OUT  (VDP_DATA_BE), A
+;INC  HL
+;INC  DE
+;INC  DE
+;DJNZ copyChar
+;RET
+7E F5 FE B0 30 22 E5 D5 EB 11 40 00 A7 ED 52 EB CF D1 E1 F1 E5 D6 A0 CB 27 C6 E0 6F 26 7F 7E D3 BE AF D3 BE 23 7E E1 F5 CF F1 D3 BE AF D3 BE 23 13 13 10 CC C9 @00007F7C:00007FB0

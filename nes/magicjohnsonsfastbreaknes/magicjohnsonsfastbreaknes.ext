@@ -1,0 +1,128 @@
+@0000051D-000005A4-FF
+;0000051D{~8D~~22~FOUL!~FF~}#017#008
+~8D~~22~FOUL!~FF~#008
+;00000525{~85~~22~Back court violation!~FF~}#033#024
+~85~~22~Back court violation!~FF~#024
+;0000053D{~86~~22~5 second violation!~FF~}#031#022
+~86~~22~5 second violation!~FF~#022
+;00000553{~86~~22~10 second violation!~FF~}#032#023
+~86~~22~10 second violation!~FF~#023
+;0000056A{~86~~22~24 second violation!~FF~}#032#023
+~86~~22~24 second violation!~FF~#023
+;00000581{~88~~22~Offensive foul!~FF~}#027#018
+~88~~22~Offensive foul!~FF~#018
+;00000593{~88~~22~Defensive foul!~FF~}#027#018
+~88~~22~Defensive foul!~FF~#018
+|136
+@00000870-000008F3-FF
+;00000870{Game Over=~06~~16~Great game=~07~~18~You're the champ~FF~}#057#042
+Game Over=~06~~16~Great game=~07~~18~You're the champ~FF~#042
+;0000089A{=~11~~16~Player ~06~~FF~}#024#012
+=~11~~16~Player ~06~~FF~#012
+;000008A6{=~12~~16~Team ~06~~FF~}#022#010
+=~12~~16~Team ~06~~FF~#010
+;000008B0{Game Over=~06~~16~Your opponents  won=.~18~Better luck next time=~0B~~1A~Player ~06~1~FF~}#089#068
+Game Over=~06~~16~Your opponents  won=.~18~Better luck next time=~0B~~1A~Player ~06~1~FF~#068
+|132
+@00000EDB-00000EE6-FF
+;00000EDB{GAME PAUSED~FF~}#015#012
+GAME PAUSED~FF~#012
+|12
+@0000CE7B-0000CE8A-FF
+;0000CE7B{Player ~06~~FF~}#015#009
+Player ~06~~FF~#009
+;0000CE84{Team ~06~~FF~}#013#007
+Team ~06~~FF~#007
+|16
+@0000CE93-0000CEEB-FF
+;0000CE93{~83~~22~Hey, you're playing good!~FF~}#037#028
+~83~~22~Hey, you're playing good!~FF~#028
+;0000CEAF{~88~~22~Great playing!~FF~}#026#017
+~88~~22~Great playing!~FF~#017
+;0000CEC0{~8A~~22~Keep it up!~FF~}#023#014
+~8A~~22~Keep it up!~FF~#014
+;0000CECE{~82~~22~Great effort, don't let up!~FF~}#039#030
+~82~~22~Great effort, don't let up!~FF~#030
+|89
+@0000CEFC-0000CFBA-FF
+;0000CEFC{~E7~~22~Go to the boards~FF~}#028#019
+~E7~~22~Go to the boards~FF~#019
+;0000CF0F{~E5~~22~Defensively, go after~FE~~2B~~23~the steal~FF~}#054#036
+~E5~~22~Defensively, go after~FE~~2B~~23~the steal~FF~#036
+;0000CF33{~E6~~22~Play better defense~FF~}#031#022
+~E6~~22~Play better defense~FF~#022
+;0000CF49{~E6~~22~Make better passes~FF~}#030#021
+~E6~~22~Make better passes~FF~#021
+;0000CF5E{~E7~~22~Better team play~FF~}#028#019
+~E7~~22~Better team play~FF~#019
+;0000CF71{~E2~~22~Go for the three point shot~FF~}#039#030
+~E2~~22~Go for the three point shot~FF~#030
+;0000CF8F{~E4~~22~Look for the fast break~FF~}#035#026
+~E4~~22~Look for the fast break~FF~#026
+;0000CFA9{~E8~~22~Go for the dunk~FF~}#027#018
+~E8~~22~Go for the dunk~FF~#018
+|191
+@0000CFFD-0000D02F-FF
+;0000CFFD{~8A~~22~Great bomb!~FF~}#023#014
+~8A~~22~Great bomb!~FF~#014
+;0000D00B{~8A~~22~Nice shot!~FF~}#022#013
+~8A~~22~Nice shot!~FF~#013
+;0000D018{~8A~~22~Keep it up!~FF~}#023#014
+~8A~~22~Keep it up!~FF~#014
+;0000D026{~8C~~22~THREE !~FF~}#019#010
+~8C~~22~THREE !~FF~#010
+|51
+@0000D0E7-0000D131-FF
+;0000D0E7{Born~F9~~0E~August 14 1959~FC~)Position~F9~~17~Guard~FC~)Height~F9~~12~6 ft 9 ins~FC~)Weight~F9~~15~220 lbs~FF~}#111#075
+Born~F9~~0E~August 14 1959~FC~)Position~F9~~17~Guard~FC~)Height~F9~~12~6 ft 9 ins~FC~)Weight~F9~~15~220 lbs~FF~#075
+|75
+@0000D4B8-0000D50C-FF
+;0000D4B8{Program by Kevin Edwards~F8~~F8~~FC~,Graphics by  Mark Wilson~F8~~F8~~FC~,Music by      Tim Follin~F8~~F8~~FC~,~FF~}#115#085
+Program by Kevin Edwards~F8~~F8~~FC~,Graphics by  Mark Wilson~F8~~F8~~FC~,Music by      Tim Follin~F8~~F8~~FC~,~FF~#085
+|85
+@0000D5DF-0000D660-FF
+;0000D5DF{~80~~D7~Team ~06~1 your new salary is~F8~~FC~~09~$~FF~}#054#033
+~80~~D7~Team ~06~1 your new salary is~F8~~FC~~09~$~FF~#033
+;0000D600{Team ~06~2 your new salary is~F8~~FC~~09~$~FF~}#046#031
+Team ~06~2 your new salary is~F8~~FC~~09~$~FF~#031
+;0000D61F{Player ~06~1 your new salary is~F8~~FC~~09~$~FF~}#048#033
+Player ~06~1 your new salary is~F8~~FC~~09~$~FF~#033
+;0000D640{Player ~06~2 your new salary is~F8~~FC~~09~$~FF~}#048#033
+Player ~06~2 your new salary is~F8~~FC~~09~$~FF~#033
+|130
+@0000D933-0000D96A-FF
+;0000D933{Enter your initials Player ~06~~FF~}#035#029
+Enter your initials Player ~06~~FF~#029
+;0000D950{Enter your initials Team ~06~~FF~}#033#027
+Enter your initials Team ~06~~FF~#027
+|56
+@0000DA78-0000DA8E-FF
+;0000DA78{Fast Break big earners~FF~}#026#023
+Fast Break big earners~FF~#023
+|23
+@0000DB80-0000DBE8-FF
+;0000DB80{Select skill level=~09~'A Rookie~F8~~FC~~09~B Average~F8~~FC~~09~C Advanced~F8~~FC~~09~D Expert~F8~~FC~~09~E Professional=~06~~1A~Press START to play~FF~}#153#105
+Select skill level=~09~'A Rookie~F8~~FC~~09~B Average~F8~~FC~~09~C Advanced~F8~~FC~~09~D Expert~F8~~FC~~09~E Professional=~06~~1A~Press START to play~FF~#105
+|105
+@0000DCD7-0000DDAE-FF
+;0000DCD7{End of XXXX quarter    Teams~F8~~FC~~16~~06~1    ~06~2~F8~~FC~$Score~FC~$Field goals att~FC~$Field goals made~FC~$Field goals pct~FC~$Free throws att~FC~$Free throws made~FC~$Free throws pct~FC~$Three points made~FC~$Rebounds~FC~$Steals~FC~$=.~1A~Press FIRE to continue~FF~}#273#216
+End of XXXX quarter    Teams~F8~~FC~~16~~06~1    ~06~2~F8~~FC~$Score~FC~$Field goals att~FC~$Field goals made~FC~$Field goals pct~FC~$Free throws att~FC~$Free throws made~FC~$Free throws pct~FC~$Three points made~FC~$Rebounds~FC~$Steals~FC~$=.~1A~Press FIRE to continue~FF~#216
+|216
+@0000DF4D-0000DF54-FF
+;0000DF4D{tsnrhtdd}#008#008
+tsnrhtdd#008
+|8
+@0000DF62-0000DF84-FF
+;0000DF62{Start of ~FF~}#013#010
+Start of ~FF~#010
+;0000DF6C{ quarter~FF~}#012#009
+ quarter~FF~#009
+;0000DF75{Good luck, kid!~FF~}#019#016
+Good luck, kid!~FF~#016
+|35
+@0000E0CA-0000E1E8-FF
+;0000E0CA{One  player game=~08~~13~Two  player game=~08~~15~Four player game=~06~~1A~Press START to play~FF~}#098#077
+One  player game=~08~~13~Two  player game=~08~~15~Four player game=~06~~1A~Press START to play~FF~#077
+;0000E117{~07~ Mastertronic, Inc.  1989=)~10~Licensed to Tradewest 1989=~0A~~12~Licensed by=,~13~NINTENDO of America Inc.=~09~~15~Conversion by=,~16~Software Creations  Ltd.=,~18~Pepsi~FD~$~FE~Cola and Pepsi are~FC~~06~registered trademarks~FC~~08~of PepsiCo. Inc.~FF~}#258#210
+~07~ Mastertronic, Inc.  1989=)~10~Licensed to Tradewest 1989=~0A~~12~Licensed by=,~13~NINTENDO of America Inc.=~09~~15~Conversion by=,~16~Software Creations  Ltd.=,~18~Pepsi~FD~$~FE~Cola and Pepsi are~FC~~06~registered trademarks~FC~~08~of PepsiCo. Inc.~FF~#210
+|287

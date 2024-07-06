@@ -1,0 +1,176 @@
+@0000051F-000005A8-FF
+;0000051F{FOUL!~FF~}#009#006
+FOUL!~FF~#006
+;00000525{~85~~22~Back court violation!~FF~}#033#024
+~85~~22~Back court violation!~FF~#024
+;0000053D{~86~~22~5 second violation!~FF~}#031#022
+~86~~22~5 second violation!~FF~#022
+;00000553{~86~~22~10 second violation!~FF~}#032#023
+~86~~22~10 second violation!~FF~#023
+;0000056A{~86~~22~24 second violation!~FF~}#032#023
+~86~~22~24 second violation!~FF~#023
+;00000581{~88~~22~Offensive foul!~FF~}#027#018
+~88~~22~Offensive foul!~FF~#018
+;00000593{~88~~22~Defensive foul!~FF~}#027#018
+~88~~22~Defensive foul!~FF~#018
+;000005A5{~FD~ !~FD~}#010#004
+~FD~ !~FD~#004
+|138
+@0000086D-0000089B-FF
+;0000086D{>.`Game Over={(n)}~16~Great game=c~18~You're the champ~FF~}#058#045
+>.`Game Over={(n)}~16~Great game=c~18~You're the champ~FF~#045
+;0000089A{=~11~}#005#002
+=~11~#002
+|47
+@0000089D-000008A7-FF
+;0000089D{Player {(n)}~FF~}#016#009
+Player {(n)}~FF~#009
+;000008A6{=~12~}#005#002
+=~12~#002
+|11
+@000008A9-000008F7-FF
+;000008A9{Team {(n)}~FF~}#014#007
+Team {(n)}~FF~#007
+;000008B0{Game Over={(n)}~16~Your opponents  won=.~18~Better luck next time={(r)}~1A~Player {(n)}1~FF~}#092#068
+Game Over={(n)}~16~Your opponents  won=.~18~Better luck next time={(r)}~1A~Player {(n)}1~FF~#068
+;000008F4{~FD~ !~FD~}#010#004
+~FD~ !~FD~#004
+|79
+@00000ED9-00000EEC-FF
+;00000ED9{,`GAME PAUSED~FF~}#017#014
+,`GAME PAUSED~FF~#014
+;00000EE7{~2C~~12~.0{(r)}~A5~}#019#006
+~2C~~12~.0{(r)}~A5~#006
+|20
+@0000CE7B-0000CE8E-FF
+;0000CE7B{Player {(n)}~FF~}#016#009
+Player {(n)}~FF~#009
+;0000CE84{Team {(n)}~FF~}#014#007
+Team {(n)}~FF~#007
+;0000CE8B{~83~~9F~~B0~~BE~}#016#004
+~83~~9F~~B0~~BE~#004
+|20
+@0000CE95-0000CEF6-FF
+;0000CE95{Hey, you're playing good!~FF~}#029#026
+Hey, you're playing good!~FF~#026
+;0000CEAF{~88~~22~Great playing!~FF~}#026#017
+~88~~22~Great playing!~FF~#017
+;0000CEC0{~8A~~22~Keep it up!~FF~}#023#014
+~8A~~22~Keep it up!~FF~#014
+;0000CECE{~82~~22~Great effort, don't let up!~FF~}#039#030
+~82~~22~Great effort, don't let up!~FF~#030
+;0000CEEC{~EC~~FF~}#008#002
+~EC~~FF~#002
+;0000CEEE{~23~9Na~7F~~99~~CE~~CE~~CF~}#027#009
+~23~9Na~7F~~99~~CE~~CE~~CF~#009
+|98
+@0000CEFE-0000CFBD-FF
+;0000CEFE{Go to the boards~FF~}#020#017
+Go to the boards~FF~#017
+;0000CF0F{~E5~~22~Defensively, go after~FE~~2B~~23~the steal~FF~}#054#036
+~E5~~22~Defensively, go after~FE~~2B~~23~the steal~FF~#036
+;0000CF33{~E6~~22~Play better defense~FF~}#031#022
+~E6~~22~Play better defense~FF~#022
+;0000CF49{~E6~~22~Make better passes~FF~}#030#021
+~E6~~22~Make better passes~FF~#021
+;0000CF5E{~E7~~22~Better team play~FF~}#028#019
+~E7~~22~Better team play~FF~#019
+;0000CF71{~E2~~22~Go for the three point shot~FF~}#039#030
+~E2~~22~Go for the three point shot~FF~#030
+;0000CF8F{~E4~~22~Look for the fast break~FF~}#035#026
+~E4~~22~Look for the fast break~FF~#026
+;0000CFA9{~E8~~22~Go for the dunk~FF~}#027#018
+~E8~~22~Go for the dunk~FF~#018
+;0000CFBB{~85~!~84~}#009#003
+~85~!~84~#003
+|192
+@0000CFFF-0000D032-FF
+;0000CFFF{Great bomb!~FF~}#015#012
+Great bomb!~FF~#012
+;0000D00B{~8A~~22~Nice shot!~FF~}#022#013
+~8A~~22~Nice shot!~FF~#013
+;0000D018{~8A~~22~Keep it up!~FF~}#023#014
+~8A~~22~Keep it up!~FF~#014
+;0000D026{~8C~~22~THREE !~FF~}#019#010
+~8C~~22~THREE !~FF~#010
+;0000D030{  ~C2~}#006#003
+  ~C2~#003
+|52
+@0000D0E6-0000D138-FF
+;0000D0E6{`Born~F9~~0E~August 14 1959~FC~)Position~F9~~17~Guard~FC~)Height~F9~~12~6 ft 9 ins~FC~)Weight~F9~~15~220 lbs~FF~}#112#076
+`Born~F9~~0E~August 14 1959~FC~)Position~F9~~17~Guard~FC~)Height~F9~~12~6 ft 9 ins~FC~)Weight~F9~~15~220 lbs~FF~#076
+;0000D132{~FD~ U~FF~}#010#004
+~FD~ U~FF~#004
+;0000D136{~8A~H~98~}#009#003
+~8A~H~98~#003
+|83
+@0000D4AA-0000D50C-FF
+;0000D4AA{{m]}~29~~DF~{m]}~18~~85~{m]}~A2~~E6~~A0~~E1~Lu~C4~Program by Kevin Edwards~F8~~F8~~FC~,Graphics by  Mark Wilson~F8~~F8~~FC~,Music by      Tim Follin~F8~~F8~~FC~,~FF~}#165#099
+{m]}~29~~DF~{m]}~18~~85~{m]}~A2~~E6~~A0~~E1~Lu~C4~Program by Kevin Edwards~F8~~F8~~FC~,Graphics by  Mark Wilson~F8~~F8~~FC~,Music by      Tim Follin~F8~~F8~~FC~,~FF~#099
+|99
+@0000D5D2-0000D664-FF
+;0000D5D2{{(n)} ~80~~D7~h0$`~A2~~2D~~A0~{(n)}L~80~~D7~Team {(n)}1 your new salary is~F8~~FC~{m]}$~FF~}#091#046
+{(n)} ~80~~D7~h0$`~A2~~2D~~A0~{(n)}L~80~~D7~Team {(n)}1 your new salary is~F8~~FC~{m]}$~FF~#046
+;0000D600{Team {(n)}2 your new salary is~F8~~FC~{m]}$~FF~}#047#031
+Team {(n)}2 your new salary is~F8~~FC~{m]}$~FF~#031
+;0000D61F{Player {(n)}1 your new salary is~F8~~FC~{m]}$~FF~}#049#033
+Player {(n)}1 your new salary is~F8~~FC~{m]}$~FF~#033
+;0000D640{Player {(n)}2 your new salary is~F8~~FC~{m]}$~FF~}#049#033
+Player {(n)}2 your new salary is~F8~~FC~{m]}$~FF~#033
+;0000D661{~FD~~18~U~FD~}#013#004
+~FD~~18~U~FD~#004
+|147
+@0000D931-0000D96D-FF
+;0000D931{{(n)}`Enter your initials Player {(n)}~FF~}#042#031
+{(n)}`Enter your initials Player {(n)}~FF~#031
+;0000D950{Enter your initials Team {(n)}~FF~}#034#027
+Enter your initials Team {(n)}~FF~#027
+;0000D96B{~A0~!~A6~}#009#003
+~A0~!~A6~#003
+|61
+@0000DA6E-0000DA92-FF
+;0000DA6E{c ~8D~c `~E8~~D0~~B8~`Fast Break big earners~FF~}#048#033
+c ~8D~c `~E8~~D0~~B8~`Fast Break big earners~FF~#033
+;0000DA8F{~FD~~10~U~FD~}#013#004
+~FD~~10~U~FD~#004
+|37
+@0000DB7D-0000DBEC-FF
+;0000DB7D{)(`Select skill level={m]}'A Rookie~F8~~FC~{m]}B Average~F8~~FC~{m]}C Advanced~F8~~FC~{m]}D Expert~F8~~FC~{m]}E Professional={(n)}~1A~Press START to play~FF~}#157#108
+)(`Select skill level={m]}'A Rookie~F8~~FC~{m]}B Average~F8~~FC~{m]}C Advanced~F8~~FC~{m]}D Expert~F8~~FC~{m]}E Professional={(n)}~1A~Press START to play~FF~#108
+;0000DBE9{~FD~~10~!~FD~}#013#004
+~FD~~10~!~FD~#004
+|112
+@0000DCD6-0000DD97-FF
+;0000DCD6{`End of XXXX quarter    Teams~F8~~FC~~16~{(n)}1    {(n)}2~F8~~FC~$Score~FC~$Field goals att~FC~$Field goals made~FC~$Field goals pct~FC~$Free throws att~FC~$Free throws made~FC~$Free throws pct~FC~$Three points made~FC~$Rebounds~FC~$Steals~FC~$=.~1A~}#250#194
+`End of XXXX quarter    Teams~F8~~FC~~16~{(n)}1    {(n)}2~F8~~FC~$Score~FC~$Field goals att~FC~$Field goals made~FC~$Field goals pct~FC~$Free throws att~FC~$Free throws made~FC~$Free throws pct~FC~$Three points made~FC~$Rebounds~FC~$Steals~FC~$=.~1A~#194
+|194
+@0000DD98-0000DDB2-FF
+;0000DD98{Press FIRE to continue~FF~}#026#023
+Press FIRE to continue~FF~#023
+;0000DDAF{~FD~~10~U~FD~}#013#004
+~FD~~10~U~FD~#004
+|27
+@0000DF62-0000DF87-FF
+;0000DF62{Start of ~FF~}#013#010
+Start of ~FF~#010
+;0000DF6C{ quarter~FF~}#012#009
+ quarter~FF~#009
+;0000DF75{Good luck, kid!~FF~}#019#016
+Good luck, kid!~FF~#016
+;0000DF85{~86~)~A9~}#009#003
+~86~)~A9~#003
+|38
+@0000E0C7-0000E1AC-FF
+;0000E0C7{c `One  player game={[t}~13~Two  player game={[t}~15~Four player game={(n)}~1A~Press START to play~FF~}#102#080
+c `One  player game={[t}~13~Two  player game={[t}~15~Four player game={(n)}~1A~Press START to play~FF~#080
+;0000E117{c Mastertronic, Inc.  1989=)~10~Licensed to Tradewest 1989={(R)}~12~Licensed by=,~13~NINTENDO of America Inc.={m]}~15~Conversion by=,~16~Software Creations  Ltd.=,~18~Pepsi~FD~$~FE~}#181#150
+c Mastertronic, Inc.  1989=)~10~Licensed to Tradewest 1989={(R)}~12~Licensed by=,~13~NINTENDO of America Inc.={m]}~15~Conversion by=,~16~Software Creations  Ltd.=,~18~Pepsi~FD~$~FE~#150
+|230
+@0000E1AD-0000E1EC-FF
+;0000E1AD{Cola and Pepsi are~FC~{(n)}registered trademarks~FC~{[t}of PepsiCo. Inc.~FF~}#076#060
+Cola and Pepsi are~FC~{(n)}registered trademarks~FC~{[t}of PepsiCo. Inc.~FF~#060
+;0000E1E9{~FD~~10~~FF~}#012#003
+~FD~~10~~FF~#003
+;0000E1EC{~FD~}#004#001
+~FD~#001
+|64

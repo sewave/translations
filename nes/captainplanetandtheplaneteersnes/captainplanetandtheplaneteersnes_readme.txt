@@ -1,47 +1,36 @@
-Captain Planet and The Planeteers
-TraducciÛn al EspaÒol v1.0 (30/06/2018)
-(C) 2018 Wave Translations
+Captain Planet and the Planeteers (NES)
+Traducci√≥n al Espa√±ol v2.0 (13/07/2024)
+(C) 2024 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducci√≥n y hacking es completamente original.
+Si encuentras alg√∫n fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
+V2.0:
+-Traducido subt√≠tulo de la pantalla de t√≠tulo
+-Traducida licencia y cr√©ditos iniciales
+-A√±adidos caracteres espa√±oles y guion revisado
+-Cambiado PASSWORD por CLAVE
+-Traducido SCORE en men√∫ de pausa
+-Traducidos gr√°ficos ELEPHANT RESERVE
+-Traducidos poderes al invocar al Capit√°n Planeta
 
-1. Sobre Captain Planet and The Planeteers
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. CrÈditos del Parche
-
------------------
-1. Sobre Captain Planet and The Planeteers
------------------
-AdaptaciÛn de los dibujos para la NES.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducciÛn y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-
-TambiÈn puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche est· en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Captain Planet and The Planeteers (U) [!].nes
-262.160	bytes
-CRC32: 21d34187
+Captain Planet and the Planeteers (USA).nes
 MD5: f16f442f364331e8019bdbc292c0aca8
 SHA1: 8b399632ccbb98104864ef5163f7cffdea99d802
+CRC32: 21d34187
+262160 bytes
 
-----------------------
-5. CrÈditos del Parche
-----------------------
-Wave - Hacking y traducciÛn
+--------
+Cr√©ditos
+--------
+Wave - Hacking, traducci√≥n y pruebas.
 
--- END OF README --
+-- FIN --

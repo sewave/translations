@@ -1,0 +1,3032 @@
+@0000044F-000004BF-FF
+;0000044F{DEVELOPED FOR USE ONLY WITH=~12~&=~0F~SYSTEMS.=~0C~NTSC MEGA DRIVE=~0D~NTSC GENESIS=~04~PAL AND FRENCH SECAM MEGA DRIVE=========}#128#113
+DESARROLLADO PARA USARSE EN=~12~Y=~0F~SISTEMA.=~0C~
+MEGA DRIVE NTSC=~0D~
+GENESIS NTSC=~04~
+MEGA DRIVE PAL Y SECAM FRANCESA=========#113
+|113
+@0000F68A-0000F697-FF
+;0000F68A{Danger Zone!=~FF~}#017#014
+Zona Alerta!=~FF~#014
+|14
+@0007C87F-0007CD9C-FF
+;0007C87F{~1D~~08~1=~01~~09~~0A~HAWAI =~FF~}#033#015
+~1D~~08~1=~01~~09~~0A~HAWAI =~FF~#015
+;0007C88E{=~1D~~08~2=~01~~09~~0A~BAJA OIL RIGS=~FF~}#041#023
+=~1D~~08~2=~01~~09~~0A~PLATAFORMAS B=~FF~#023
+;0007C8A5{=~1D~~08~3=~01~~09~~0A~MAIN RIG=~FF~}#036#018
+=~1D~~08~3=~01~~09~~0A~PLAT.PPL=~FF~#018
+;0007C8B7{=~1D~~08~4=~01~~09~~0A~MEXICO=~FF~}#034#016
+=~1D~~08~4=~01~~09~~0A~MÉXICO=~FF~#016
+;0007C8C7{=~1D~~08~5=~01~~09~~0A~SAN FRANCISCO=~FF~}#041#023
+=~1D~~08~5=~01~~09~~0A~SAN FRANCISCO=~FF~#023
+;0007C8DE{=~1D~~08~6=~01~~09~~0A~ALCATRAZ=~FF~}#036#018
+=~1D~~08~6=~01~~09~~0A~ALCATRAZ=~FF~#018
+;0007C8F0{=~1D~~08~7=~01~~09~~0A~NEW YORK=~FF~}#036#018
+=~1D~~08~7=~01~~09~~0A~NEW YORK=~FF~#018
+;0007C902{=~1D~~08~8=~01~~09~~0A~LAS VEGAS=~FF~}#037#019
+=~1D~~08~8=~01~~09~~0A~LAS VEGAS=~FF~#019
+;0007C915{=~1D~~08~9=~01~~09~~0A~CASINO=~FF~}#034#016
+=~1D~~08~9=~01~~09~~0A~CASINO=~FF~#016
+;0007C925{=~1D~~08~10=~01~~09~~0A~UNDERGROUND=~FF~}#040#022
+=~1D~~08~10=~01~~09~~0A~BAJO TIERRA=~FF~#022
+;0007C93B{=~1D~~08~11=~01~~09~~0A~WIN SCREEN=~FF~}#039#021
+=~1D~~08~11=~01~~09~~0A~FINAL     =~FF~#021
+;0007C950{=~07~~C8~~7E~=~07~~C8~~8E~=~07~~C8~~A5~=~07~~C8~~B7~=~07~~C8~~C7~=~07~~C8~~DE~=~07~~C8~~F0~=~07~~C9~~02~=~07~~C9~~15~=~07~~C9~%=~07~~C9~~3B~Mission = completed=Warning! Low Armor!=Warning! Low Fuel!=Weapons armed=Weapons disarmed=Return to base!=Need a copilot!=Sorry, no more room=Intelligence info, check status!=~FF~}#319#220
+=~07~~C8~~7E~=~07~~C8~~8E~=~07~~C8~~A5~=~07~~C8~~B7~=~07~~C8~~C7~=~07~~C8~~DE~=~07~~C8~~F0~=~07~~C9~~02~=~07~~C9~~15~=~07~~C9~%=~07~~C9~~3B~
+ Misión = completa =
+Alerta! Poca Armd.!=
+Alerta! Poco Com.!=
+Armas armadas=
+Armas desarmadas=
+Vuelve a base! =
+Nece. copiloto!=
+Perdona,sin espacio=
+Info inteligencia, mira estado! =~FF~#220
+;0007CA2C{~02~~08~~04~URBAN STRIKE=~02~~08~~06~_______________________==~05~~08~A:==~09~~08~CAMPAIGN ~23~==~05~~0D~B:==~09~~0D~COPILOT==~05~~12~C:==~09~~12~OPTIONS=~FF~}#158#098
+~02~~08~~04~
+URBAN STRIKE=~02~~08~~06~_______________________==~05~~08~A:==~09~~08~
+CAMPANA~23~==~05~~0D~B:==~09~~0D~
+COPILOTO==~05~~12~C:==~09~~12~
+OPCIONES=~FF~#098
+;0007CA8E{~01~~0A~~18~Press Start To Play=~FF~}#036#024
+~01~~0A~~18~
+  Start para Jugar =~FF~#024
+;0007CAA6{=~07~~04~CAMPAIGN MENU==~07~~06~__________________________=~03~~06~~0A~ENTER PASSWORD=~FF~}#090#066
+=~07~~04~
+MENÚ CAMPANA ==~07~~06~__________________________=~03~~06~~0A~
+ENTRA TU CLAVE=~FF~#066
+;0007CAE8{~01~~0A~~18~Press Start To Exit=~FF~}#036#024
+~01~~0A~~18~
+  Start Para Salir =~FF~#024
+;0007CB00{~02~~0D~~03~OPTIONS=~02~~0D~~05~_____________=~FF~}#050#029
+~02~~0D~~03~
+OPCIONES=~02~~0F~~05~
+____________=~FF~#029
+;0007CB1D{~FF~}#004#001
+~FF~#001
+;0007CB1E{=~02~=~05~~07~BUTTONS:==~01~^=   A    B    C=~01~^=   A    B    C=~01~^=   A    B    C=~FF~}#091#070
+=~02~=~05~~07~BOTONES:==~01~^=   A    B    C=~01~^=   A    B    C=~01~^=   A    B    C=~FF~#070
+;0007CB64{=~05~~0E~CONTROL:==~01~b=NO MOMENTUM  =~01~b=WITH MOMENTUM=~FF~}#063#048
+=~05~~0E~CONTROL:==~01~b=SIN MOMENTO  =~01~b=CON MOMENTO  =~FF~#048
+;0007CB94{=~05~~12~JOYSTICK:==~03~b=3 BUTTON=~03~b=6 BUTTON=~FF~}#054#039
+=~05~~12~PAD:     ==~03~b=3BOTONES=~03~b=6BOTONES=~FF~#039
+;0007CBBB{=~05~~17~SOUND:=~01~~03~~F4~=~FF~}#033#015
+=~05~~17~AUDIO:=~01~~03~~F4~=~FF~#015
+;0007CBCA{=~05~~1A~MOVIE:==~03~~F6~=NONE =~03~~F6~=TITLE=~03~~F6~=INTRO    =~03~~F6~=BRF DEMO=~03~~F6~=BRIEF 1      =~03~~F6~=BRIEF 2      =~03~~F6~=BRIEF 3      =~03~~F6~=BRIEF 4      =~03~~F6~=BRIEF 5      =~03~~F6~=BRIEF 6      =~03~~F6~=BRIEF 7      =~03~~F6~=BRIEF 8      =~03~~F6~=BRIEF 9      =~03~~F6~=BRIEF 10     =~03~~F6~=INTERLUDE 1  =~03~~F6~=INTERLUDE 2  =~03~~F6~=INTERLUDE 3  =~03~~F6~=INTERLUDE 4  =~03~~F6~=INTERLUDE 5  =~03~~F6~=INTERLUDE 6  =~03~~F6~=INTERLUDE 7  =~03~~F6~=INTERLUDE 8  =~03~~F6~=INTERLUDE 9  =~03~~F6~=INTERLUDE 10 =~03~~F6~=DEBRIEF WIN   =~03~~F6~=DEBRIEF LOSE  =~03~~F6~=PANELS/POPUPS =~03~~F6~=WIN THE GAME  =~FF~}#644#467
+=~05~~1A~
+PELI: ==~03~~F6~=
+NADA =~03~~F6~=
+TÍTU.=~03~~F6~=
+INTRO    =~03~~F6~=
+DEMO CRT=~03~~F6~=
+SUMARIO 1    =~03~~F6~=
+SUMARIO 2    =~03~~F6~=
+SUMARIO 3    =~03~~F6~=
+SUMARIO 4    =~03~~F6~=
+SUMARIO 5    =~03~~F6~=
+SUMARIO 6    =~03~~F6~=
+SUMARIO 7    =~03~~F6~=
+SUMARIO 8    =~03~~F6~=
+SUMARIO 9    =~03~~F6~=
+SUMARIO 10   =~03~~F6~=
+INTERLUDIO 1 =~03~~F6~=
+INTERLUDIO 2 =~03~~F6~=
+INTERLUDIO 3 =~03~~F6~=
+INTERLUDIO 4 =~03~~F6~=
+INTERLUDIO 5 =~03~~F6~=
+INTERLUDIO 6 =~03~~F6~=
+INTERLUDIO 7 =~03~~F6~=
+INTERLUDIO 8 =~03~~F6~=
+INTERLUDIO 9 =~03~~F6~=
+INTERLUDIO 10=~03~~F6~=
+SUMARIO GANA  =~03~~F6~=
+SUMARIO PIERDE=~03~~F6~=
+PANELES/SURGIR=~03~~F6~=
+GANA EL JUEGO =~FF~#467
+|1310
+@0007CD9D-0007D1A3-FF
+;0007CD9D{~02~~06~~0B~Hellfires  Hydras     Guns   =~02~~06~~0C~ and Jink                    =~FF~}#088#067
+~02~~06~~0B~
+Hellfires  Hydras     Balas  =~02~~06~~0C~
+y Bandazo                    =~FF~#067
+;0007CDE0{~02~~06~~0B~  Guns    Hellfires  Hydras  =~02~~06~~0C~           and Jink          =~FF~}#088#067
+~02~~06~~0B~
+  Balas   Hellfires  Hydras  =~02~~06~~0C~
+          y Bandazo          =~FF~#067
+;0007CE23{~02~~06~~0B~ Hydras     Guns    Hellfires=~02~~06~~0C~                     and Jink=~FF~}#088#067
+~02~~06~~0B~
+ Hydras     Balas   Hellfires=~02~~06~~0C~
+                    y Bandazo=~FF~#067
+;0007CE66{=~07~~CD~~9D~=~07~~CD~~E0~=~07~~CE~~23~=~0A~===~14~=~0A~=~14~=~14~=====~05~=~0A~=~05~=~0A~=~0A~=~14~===~14~=~01~=~01~=~01~=~02~=======~02~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~~03~~09~~01~Willy Aguillar: Bravo          =~03~~09~~02~ORIGIN: NICARAGUA              =~03~~09~~04~A freedom fighter, he can put  =~03~~09~~05~a clip of bullets into the     =~03~~09~~06~air & sign his name with them. =~03~~09~~07~                               =~03~~09~~08~                               =~FF~}#530#338
+=~07~~CD~~9D~=~07~~CD~~E0~=~07~~CE~~23~=~0A~===~14~=~0A~=~14~=~14~=====~05~=~0A~=~05~=~0A~=~0A~=~14~===~14~=~01~=~01~=~01~=~02~=======~02~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~=~01~=~0C~~03~~09~~01~
+Willy Aguillar: Bravo          =~03~~09~~02~
+ORIGEN: NICARAGUA              =~03~~09~~04~
+Un luchador por la libertad,   =~03~~09~~05~
+puede tirar un cargador al     =~03~~09~~06~
+aire y firmar su nombre con    =~03~~09~~07~
+él.                            =~03~~09~~08~                               =~FF~#338
+;0007CFB8{~03~~09~~01~JILL FISHBEIN: LEGAL           =~03~~09~~02~ORIGIN: ISRAEL                 =~03~~09~~04~Aircraft weapons are her life. =~03~~09~~05~Makes good pilots look great & =~03~~09~~06~leaves bad guys full of holes. =~03~~09~~07~                               =~03~~09~~08~                               =~FF~}#312#246
+~03~~09~~01~
+JILL FISHBEIN: LEGAL           =~03~~09~~02~
+ORIGEN: ISRAEL                 =~03~~09~~04~
+Las aeronaves son su vida.     =~03~~09~~05~
+Hace geniales a los buenos     =~03~~09~~06~
+pilotos y agujerea al enemigo. =~03~~09~~07~
+                               =~03~~09~~08~
+                               =~FF~#246
+;0007D0AE{~03~~09~~01~PETER DEMETRI: COSSACK         =~03~~09~~02~ORIGIN: RUSSIA                 =~03~~09~~04~Too many action films for him. =~03~~09~~05~Fast on the draw & strong as   =~03~~09~~06~an ox, but lacks concentration.=~03~~09~~07~                               =~03~~09~~08~                               =~FF~}#312#246
+~03~~09~~01~
+PETER DEMETRI: COSACO          =~03~~09~~02~
+ORIGEN: RUSIA                  =~03~~09~~04~
+Ha visto demasiadas películas  =~03~~09~~05~
+de acción. Dispara rápido y es =~03~~09~~06~
+fuerte como un buey, pero le   =~03~~09~~07~
+falta concentración.           =~03~~09~~08~
+                               =~FF~#246
+|1031
+@0007D1A4-0007D671-FF
+;0007D1A4{~03~~09~~01~MARK DOUGLAS: LONG-HAUL        =~03~~09~~02~ORIGIN: UNITED STATES          =~03~~09~~04~When the going gets tough,     =~03~~09~~05~the smart look up Mark. Jack   =~03~~09~~06~of all trades, he's great.     =~03~~09~~07~                               =~03~~09~~08~                               =~FF~}#312#246
+~03~~09~~01~
+MARK DOUGLAS: DISTANCIA        =~03~~09~~02~
+ORIGEN: ESTADOS UNIDOS         =~03~~09~~04~
+Cuando la cosa se pone dura,   =~03~~09~~05~
+los listos buscan a Mark.      =~03~~09~~06~
+Hace de todo, es genial.       =~03~~09~~07~                               =~03~~09~~08~                               =~FF~#246
+;0007D29A{~03~~09~~01~ERICH NEWHAUSER: NEWGUY        =~03~~09~~02~ORIGIN: GERMANY                =~03~~09~~04~New to the team & untested.    =~03~~09~~05~Partnered with an experienced  =~03~~09~~06~pilot, I think he'll do fine.  =~03~~09~~07~                               =~03~~09~~08~                               =~FF~}#312#246
+~03~~09~~01~
+ERICH NEWHAUSER: NUEVO         =~03~~09~~02~
+ORIGEN: ALEMANIA               =~03~~09~~04~
+Nuevo en el equipo y sin       =~03~~09~~05~
+probar. Emparejado con un      =~03~~09~~06~
+piloto con experiencia, creo   =~03~~09~~07~
+que lo hará bien.              =~03~~09~~08~
+                               =~FF~#246
+;0007D390{~03~~09~~01~JIM FLAHERTY: OUTBACK          =~03~~09~~02~ORIGIN: AUSTRALIA              =~03~~09~~04~Gambles on horses, never with  =~03~~09~~05~his pals' lives. I know who    =~03~~09~~06~I would want at the Winch.     =~03~~09~~07~                               =~03~~09~~08~                               =~FF~}#312#246
+~03~~09~~01~
+JIM FLAHERTY: AFUERA           =~03~~09~~02~
+ORIGEN: AUSTRALIA              =~03~~09~~04~
+Apuesta a los caballos, nunca  =~03~~09~~05~
+con las vidas de sus amigos.   =~03~~09~~06~
+Se a quien querría en el       =~03~~09~~07~
+Cabestrante.                   =~03~~09~~08~
+                               =~FF~#246
+;0007D486{~03~~09~~01~SIMON FREEMAN: FREEPERSON      =~03~~09~~02~ORIGIN: UNITED KINGDOM         =~03~~09~~04~An eagle-eyed sharpshooter &   =~03~~09~~05~loves his craft. Everything    =~03~~09~~06~else takes 2nd place to him.   =~03~~09~~07~                               =~03~~09~~08~                               =~FF~}#312#246
+~03~~09~~01~
+SIMON FREEMAN: EL LIBRE        =~03~~09~~02~
+ORIGEN: REINO UNIDO            =~03~~09~~04~
+Un tirador con ojo de águila y =~03~~09~~05~
+que ama su nave. El resto está =~03~~09~~06~
+en segundo lugar para él.      =~03~~09~~07~
+                               =~03~~09~~08~
+                               =~FF~#246
+;0007D57C{~03~~09~~01~ATSUKO MATSUMOTO: STINGER      =~03~~09~~02~ORIGIN: JAPAN                  =~03~~09~~04~An ex-smuggler with a 6th      =~03~~09~~05~sense. She can winch and shoot =~03~~09~~06~bad guys at the same time.     =~03~~09~~07~                               =~03~~09~~08~                               =~FF~}#312#246
+~03~~09~~01~
+ATSUKO MATSUMOTO: AGUIJÓN      =~03~~09~~02~
+ORIGEN: JAPÓN                  =~03~~09~~04~
+Una ex-contrabandista con un   =~03~~09~~05~
+6to sentido.Usa el cabrestante =~03~~09~~06~
+y dispara a la vez.            =~03~~09~~07~
+                               =~03~~09~~08~
+                               =~FF~#246
+|1230
+@0007D672-0007D6D1-FF
+;0007D672{~03~~09~~0F~BRAVO=~FF~}#022#010
+~03~~09~~0F~BRAVO=~FF~#010
+;0007D67C{~03~~09~~0F~LEGAL=~FF~}#022#010
+~03~~09~~0F~LEGAL=~FF~#010
+;0007D686{~03~~09~~0F~COSSACK=~FF~}#024#012
+~03~~09~~0F~COSACO=\~FF~#012
+;0007D692{~03~~09~~0F~LONG-HAUL=~FF~}#026#014
+~03~~09~~0F~DISTANCIA=~FF~#014
+;0007D6A0{~03~~09~~0F~NEWGUY=~FF~}#023#011
+~03~~09~~0F~NUEVO=\~FF~#011
+;0007D6AB{~03~~09~~0F~OUTBACK=~FF~}#024#012
+~03~~09~~0F~AFUERA=\~FF~#012
+;0007D6B7{~03~~09~~0F~FREEPERSON=~FF~}#027#015
+~03~~09~~0F~EL LIBRE=\ ~FF~#015
+;0007D6C6{~03~~09~~0F~STINGER=~FF~}#024#012
+~03~~09~~0F~AGUIJÓN=~FF~#012
+|96
+@0007D754-0007D77A-FF
+;0007D754{=~1A~~17~GUN:=~01~~03~=~04~~FF~}#031#013
+=~1A~~17~BLS:=~01~~03~=~04~~FF~#013
+;0007D761{=~12~~17~HYD:=~01~~03~=~02~~FF~}#031#013
+=~12~~17~HYD:=~01~~03~=~02~~FF~#013
+;0007D76E{=~0A~~17~HEL:=~01~~03~=~02~~FF~}#031#013
+=~0A~~17~HEL:=~01~~03~=~02~~FF~#013
+|39
+@0007D858-0007D8B9-FF
+;0007D858{~03~~0A~~03~  CAMPAIGN MISSIONS=~03~~0A~~04~  _________________=~03~~09~~12~ RETURN TO BASE WHEN=~03~~09~~13~ MISSIONS ARE COMPLETED=~FF~}#137#098
+~03~~0A~~03~
+  MISIONES CAMPAÑA =~03~~0A~~04~
+  ________________ =~03~~09~~12~
+ VUELVE A BASE CUANDO=~03~~09~~13~
+ COMPLETES MISIONES   =~FF~#098
+|98
+@00090A74-000911B9-FF
+;00090A74{=~03~~18~  COPYRIGHT 1994 ELECTRONIC ARTS =~FF~}#047#038
+=~03~~18~  COPYRIGHT 1994 ELECTRONIC ARTS =~FF~#038
+;00090A9A{=~03~~19~     AND GRANITE BAY SOFTWARE    =~C0~=~03~~18~           LICENSED BY           =~FF~}#094#076
+=~03~~19~
+      Y GRANITE BAY SOFTWARE     =~C0~=~03~~18~
+          LICENCIADO POR         =~FF~#076
+;00090AE6{=~03~~19~       SEGA ENTERPRISES, LTD.    =~C0~=~03~~18~            PROGRAMMING          =~FF~}#094#076
+=~03~~19~       SEGA ENTERPRISES, LTD.    =~C0~=~03~~18~
+           PROGRAMACIÓN          =~FF~#076
+;00090B32{=~03~~19~            MIKE POSEHN          =~C0~=~03~~18~            GAME DESIGN          =~FF~}#094#076
+=~03~~19~            MIKE POSEHN          =~C0~=~03~~18~
+          DISEÑO DE JUEGO        =~FF~#076
+;00090B7E{=~03~~19~    JOHN MANLEY AND TONY BARNES  =~C0~=~03~~18~           ART DIRECTOR          =~FF~}#094#076
+=~03~~19~
+     JOHN MANLEY Y TONY BARNES   =~C0~=~03~~18~
+         DIRECTOR DE ARTE        =~FF~#076
+;00090BCA{=~03~~19~           JULIE CRESSA          =~C0~=~03~~18~          IMPLEMENTATION         =~FF~}#094#076
+=~03~~19~           JULIE CRESSA          =~C0~=~03~~18~
+          IMPLEMENTACIÓN         =~FF~#076
+;00090C16{=~03~~19~   ROSS WENTWORTH AND ERICH HORN =~C0~=~03~~18~                ART              =~FF~}#094#076
+=~03~~19~
+    ROSS WENTWORTH Y ERICH HORN  =~C0~=~03~~18~
+               ARTE              =~FF~#076
+;00090C62{=~03~~19~    VICTOR FRENCH, TOM LISOWSKI  =~C0~=~03~~18~                ART              =~FF~}#094#076
+=~03~~19~
+    VICTOR FRENCH, TOM LISOWSKI  =~C0~=~03~~18~
+               ARTE              =~FF~#076
+;00090CAE{=~03~~19~     TONY GASCON, RON SACDALAN   =~C0~=~03~~18~                ART              =~FF~}#094#076
+=~03~~19~
+     TONY GASCON, RON SACDALAN   =~C0~=~03~~18~
+               ARTE              =~FF~#076
+;00090CFA{=~03~~19~    WALTER IANNEO, JEFF FENNEL   =~C0~=~03~~18~            3-D MODELS           =~FF~}#094#076
+=~03~~19~    WALTER IANNEO, JEFF FENNEL   =~C0~=~03~~18~
+           MODELOS 3-D           =~FF~#076
+;00090D46{=~03~~19~    TIM CALVIN, TERRY FALLS      =~C0~=~03~~18~            3-D MODELS           =~FF~}#094#076
+=~03~~19~    TIM CALVIN, TERRY FALLS      =~C0~=~03~~18~
+           MODELOS 3-D           =~FF~#076
+;00090D92{=~03~~19~  LANCE ARMSTRONG, PETER TRAUGOT =~C0~=~03~~18~          ADDITIONAL ART         =~FF~}#094#076
+=~03~~19~  LANCE ARMSTRONG, PETER TRAUGOT =~C0~=~03~~18~
+          ARTE ADICIONAL         =~FF~#076
+;00090DDE{=~03~~19~  KENDRA LAMMAS, MICHAEL SHIRLEY =~C0~=~03~~18~          ADDITIONAL ART         =~FF~}#094#076
+=~03~~19~  KENDRA LAMMAS, MICHAEL SHIRLEY =~C0~=~03~~18~
+          ARTE ADICIONAL         =~FF~#076
+;00090E2A{=~03~~19~   SUSAN MANLEY, KEITH BULLEN    =~C0~=~03~~18~          SOUND AND MUSIC        =~FF~}#094#076
+=~03~~19~   SUSAN MANLEY, KEITH BULLEN    =~C0~=~03~~18~
+          MÚSICA Y SONIDO        =~FF~#076
+;00090E76{=~03~~19~             DON VECA            =~C0~=~03~~18~        TECHNICAL DIRECTOR       =~FF~}#094#076
+=~03~~19~             DON VECA            =~C0~=~03~~18~
+         DIRECTOR TÉCNICO        =~FF~#076
+;00090EC2{=~03~~19~           TIM BRENGLE           =~C0~=~03~~18~          PRODUCT MANAGER        =~FF~}#094#076
+=~03~~19~           TIM BRENGLE           =~C0~=~03~~18~
+        GERENTE DE PRODUCTO      =~FF~#076
+;00090F0E{=~03~~19~             DAVID SZE           =~C0~=~03~~18~        ASSISTANT PRODUCER       =~FF~}#094#076
+=~03~~19~             DAVID SZE           =~C0~=~03~~18~
+      AYUDANTE DE PRODUCCIÓN     =~FF~#076
+;00090F5A{=~03~~19~         MICHAEL LUBUGUIN        =~C0~=~03~~18~      FOLEY HI-TECH PRODUCER     =~FF~}#094#076
+=~03~~19~         MICHAEL LUBUGUIN        =~C0~=~03~~18~
+    FOLEY DE PRODUCTOR HI-TECH   =~FF~#076
+;00090FA6{=~03~~19~           DAVID FOLEY           =~C0~=~03~~18~         PROJECT  MANAGER        =~FF~}#094#076
+=~03~~19~           DAVID FOLEY           =~C0~=~03~~18~
+         JEFE DE PROYECTO        =~FF~#076
+;00090FF2{=~03~~19~           SUSAN MANLEY          =~C0~=~03~~18~        ASSISTANT DIRECTOR       =~FF~}#094#076
+=~03~~19~           SUSAN MANLEY          =~C0~=~03~~18~
+        DIRECTOR AYUDANTE        =~FF~#076
+;0009103E{=~03~~19~          ANTONIO BARNES         =~C0~=~03~~18~           PRODUCED BY           =~FF~}#094#076
+=~03~~19~          ANTONIO BARNES         =~C0~=~03~~18~
+          PRODUCIDO POR          =~FF~#076
+;0009108A{=~03~~19~          SCOTT BERFIELD         =~C0~=~03~~18~            DIRECTED BY          =~FF~}#094#076
+=~03~~19~          SCOTT BERFIELD         =~C0~=~03~~18~
+           DIRIGIDO POR          =~FF~#076
+;000910D6{=~03~~19~            JOHN MANLEY          =~B2~~FF~}#051#039
+=~03~~19~            JOHN MANLEY          =~B2~~FF~#039
+;000910FD{~FF~}#004#001
+~FF~#001
+;000910FE{==~1C~========~0E~===~B4~===~07~~D9~l==========~FF~}#051#033
+==~1C~========~0E~===~B4~===~07~~D9~l==========~FF~#033
+;0009111F{~FF~}#004#001
+~FF~#001
+;00091120{==~1C~=======~FF~}#017#011
+==~1C~=======~FF~#011
+;0009112B{~FF~}#004#001
+~FF~#001
+;0009112C{===~B4~===~07~~E5~~0A~==========~FF~}#036#021
+===~B4~===~07~~E5~~0A~==========~FF~#021
+;00091141{~FF~}#004#001
+~FF~#001
+;00091142{==~1C~=======~FF~}#017#011
+==~1C~=======~FF~#011
+;0009114D{~FF~}#004#001
+~FF~#001
+;0009114E{===~B4~===~07~~ED~&==========~FF~}#033#021
+===~B4~===~07~~ED~&==========~FF~#021
+;00091163{~FF~}#004#001
+~FF~#001
+;00091164{=~09~~10~~FE~=~09~~11~ =~09~~11~B=====~03~~0E~  COPYRIGHT 1994 ELECTRONIC ARTS=~08~~03~~0F~     AND GRANITE BAY SOFTWARE=~FF~}#125#086
+=~09~~10~~FE~=~09~~11~ =~09~~11~B=====~03~~0E~
+  COPYRIGHT 1994 ELECTRONIC ARTS=~08~~03~~0F~
+      Y GRANITE BAY SOFTWARE =~FF~#086
+|1862
+@000AB2C4-000AB2F3-00
+;000AB2C4{=~0B~~0A~USA: 2001=~FF~==~1C~========~0F~=<=~B4~===========~0A~~B2~~C4~==~FF~~FF~}#081#048
+=~0B~~0A~EUA: 2001=~FF~==~1C~========~0F~=<=~B4~===========~0A~~B2~~C4~==~FF~~FF~#048
+|48
+@000AB2F4-000AB473-00
+;000AB2F4{~03~~02~~17~Friends...it is time to take back=~FF~~03~~02~~18~America!=~B5~~03~~02~~17~With our Volunteer Angel Patrols,=~FF~~03~~02~~18~we'll rid the streets of=~FF~~03~~02~~19~criminal scum!=~B5~~03~~02~~17~Together, we will channel our    =~FF~~03~~02~~18~energies into showing our so-called=~FF~~03~~02~~19~leaders how America ought to be run!=~A6~~02~~02~~17~                             =~FF~~02~~02~~18~ Malone ... Malone ... Malone ... !=~FF~~02~~02~~19~                                    =~BF~~FF~==~08~=======~FF~~FF~}#528#384
+~03~~02~~17~
+Amigos... Es hora de recuperar=~FF~~03~~02~~18~
+América!=~B5~~03~~02~~17~
+Con las Patrullas Ángel Voluntarias,=~FF~~03~~02~~18~
+limpiaremos las calles de escoria=~FF~~03~~02~~19~
+criminal!=~B5~~03~~02~~17~
+Juntos, canalizaremos la energía    =~FF~~03~~02~~18~
+para mostrarle a los llamados    =~FF~~03~~02~~19~
+líderes cómo dirigir América!=~A6~~02~~02~~17~
+                                    =~FF~~02~~02~~18~
+ Malone ... Malone ... Malone ... !=~FF~~02~~02~~19~
+                               =~BF~~FF~==~08~=======~FF~~FF~#384
+|384
+@000AB4D6-000AB9BB-00
+;000AB4D6{~03~~0A~~02~Great show tonight, Mr.Malone.=~FF~~03~~0A~~03~You sent for me?=~B5~~03~~0A~~02~                              =~FF~~03~~0A~~03~                =~FF~~02~~02~~17~We're running into some static at=~FF~~02~~02~~18~our Hawaii station and I want you=~FF~~02~~02~~19~to check it out.=~A6~~02~~02~~17~                                 =~FF~~02~~02~~18~                                 =~FF~~02~~02~~19~                =~FF~~03~~0A~~02~What seems to be the problem?=~D8~~03~~0A~~02~                             =~FF~~02~~02~~17~The United Special Forces Team=~FF~~02~~02~~18~has discovered our plan.=~B5~~02~~02~~17~I suspect someone in our      =~FF~~02~~02~~18~organization is broadcasting=~FF~~02~~02~~19~information to the Strike C.O.R.E.=~A6~~02~~02~~17~                        =~FF~~02~~02~~18~                            =~FF~~02~~02~~19~                                  =~FF~~03~~0A~~02~What do you need me to do?=~D8~~03~~0A~~02~                          =~FF~~02~~02~~17~I want you to fly to Hawaii and=~FF~~02~~02~~18~oversee the operation.=~C4~~02~~02~~17~We must deal with this Strike Force=~FF~~02~~02~~18~or our plans for the Super Weapon=~FF~~02~~02~~19~may fail.=~A6~~02~~02~~17~                                   =~FF~~02~~02~~18~                                 =~FF~~02~~02~~19~         =~FF~~03~~0B~~02~I'll handle it. I know how=~FF~~03~~0B~~03~these guys operate.=~B5~~03~~0B~~02~                          =~FF~~03~~0B~~03~                   =~FF~~02~~02~~17~So I've learned...=~EC~~02~~02~~18~My son will drive you to the=~FF~~02~~02~~19~airport in my private limousine.=~B5~~02~~02~~18~                            =~FF~~02~~02~~19~                                =~FF~~02~~02~~17~Enjoy your flight...=~E2~~FF~}#1737#1254
+~03~~0A~~02~
+Buen espectáculo hoy,=~FF~~03~~0A~~03~
+Sr.Malone. Me llamó?   =~B5~~03~~0A~~02~
+                        =~FF~~03~~0A~~03~
+                    =~FF~~02~~02~~17~
+Tenemos algo de estática en nuestra=~FF~~02~~02~~18~
+estación de Hawaii y quiero que lo=~FF~~02~~02~~19~
+compruebes.=~A6~~02~~02~~17~
+                                   =~FF~~02~~02~~18~
+                                  =~FF~~02~~02~~19~
+           =~FF~~03~~0A~~02~
+Cual parece ser el problema?=~D8~~03~~0A~~02~
+                            =~FF~~02~~02~~17~
+El Equipo de Fuerzas Especiales=~FF~~02~~02~~18~
+Unidas ha descubierto el plan.=~B5~~02~~02~~17~
+Sospecho que alguien de nuestra=~FF~~02~~02~~18~
+organización está transmitiendo=~FF~~02~~02~~19~
+información al Strike C.O.R.E.=~A6~~02~~02~~17~
+                               =~FF~~02~~02~~18~
+                               =~FF~~02~~02~~19~
+                              =~FF~~03~~0A~~02~
+Qué necesitas que haga?=~D8~~03~~0A~~02~
+                       =~FF~~02~~02~~17~
+Quiero que vueles a Hawaii y=~FF~~02~~02~~18~
+supervises la operación.=~C4~~02~~02~~17~
+Debemos encargarnos de la Fuerza=~FF~~02~~02~~18~
+Strike o los planes de la Súper Arma=~FF~~02~~02~~19~
+podrían fallar.=~A6~~02~~02~~17~
+                                =~FF~~02~~02~~18~
+                                    =~FF~~02~~02~~19~
+               =~FF~~03~~0B~~02~
+Yo me encargaré. Sé como=~FF~~03~~0B~~03~
+operan estos tipos.=~B5~~03~~0B~~02~
+                        =~FF~~03~~0B~~03~
+                   =~FF~~02~~02~~17~
+Eso me han dicho...   =~EC~~02~~02~~18~
+Mi hijo te llevará al aeropuerto en=~FF~~02~~02~~19~
+mi limusina privada.  =~B5~~02~~02~~18~
+                                   =~FF~~02~~02~~19~
+                    =~FF~~02~~02~~17~
+Disfruta tu vuelo...=~E2~~FF~#1254
+|1254
+@000AB9FC-000ABCA1-00
+;000AB9FC{~03~~02~~16~Ivory Tower ... Come in Ivory Tower.=~FF~~03~~02~~17~This is Agent Ego ...=~C4~~03~~02~~16~                                    =~FF~~03~~02~~17~                     =~FF~~01~~10~~03~We read you, Ego ...=~D8~~01~~10~~03~                    =~FF~~03~~02~~16~I've infiltrated=~FF~~03~~02~~17~Malone's lair ...=~EC~~03~~02~~18~but I think he's on to me.=~B5~~03~~02~~16~He's building a deadly super weapon,=~FF~~03~~02~~17~and the first component is in=~FF~~03~~02~~18~Hawaii.                   =~A6~~03~~02~~16~I've seen blueprints, and this      =~FF~~03~~02~~17~thing could take out a skyscraper=~FF~~03~~02~~18~in a single blast!=~A6~~03~~02~~16~                              =~FF~~03~~02~~17~                                 =~FF~~03~~02~~18~                  =~FF~~03~~02~~16~It's powered by a huge ...=~E2~~03~~02~~17~I've got to go ...=~E2~~03~~02~~18~I'll tell you the rest=~FF~~03~~02~~19~from the limo ... Ego out ...=~A6~~FF~}#945#678
+~03~~02~~16~
+Torre de Marfil... Adelante Torre.=~FF~~03~~02~~17~
+Aquí el Agente Ego...=~C4~~03~~02~~16~
+                                  =~FF~~03~~02~~17~
+                     =~FF~~01~~10~~03~
+Te leemos, Ego...=~D8~~01~~10~~03~
+                 =~FF~~03~~02~~16~
+Me he infiltrado en la guarida...=~FF~~03~~02~~17~
+pero creo que va a por mi.=~EC~~03~~02~~18~
+         =~B5~~03~~02~~16~
+Construye una mortal súper arma, =~FF~~03~~02~~17~
+y el primer componente está en=~FF~~03~~02~~18~
+Hawaii.=~A6~~03~~02~~16~
+He visto los planos, y esta cosa=~FF~~03~~02~~17~
+podría derribar un rascacielos de=~FF~~03~~02~~18~
+una sola explosión!=~A6~~03~~02~~16~
+                                =~FF~~03~~02~~17~
+                                 =~FF~~03~~02~~18~
+                   =~FF~~03~~02~~16~
+Lo alimenta un gran...              =~E2~~03~~02~~17~
+Tengo que irme...          =~E2~~03~~02~~18~
+Te contaré el resto desde la=~FF~~03~~02~~19~
+limusina... Ego fuera...  =~A6~~FF~#678
+|678
+@000ABD32-000ABE17-00
+;000ABD32{~02~~02~~17~There's our lead story on tonight's=~FF~~02~~02~~18~news: 'Crime bosses assassinate son=~FF~~02~~02~~19~of crusading media leader'...=~88~~02~~02~~19~                             =~FF~~02~~02~~17~Real story is: Switch channels on  =~FF~~02~~02~~18~Malone and you'll get cancelled.   =~92~~FF~~FF~}#308#230
+~02~~02~~17~
+La historia de las noticias:=~FF~~02~~02~~18~
+Jefes del crimen asesinan al hijo de=~FF~~02~~02~~19~
+líder mediático en cruzada...=~88~~02~~02~~19~
+                                 =~FF~~02~~02~~17~
+La historia real: Cambia el canal de=~FF~~02~~02~~18~
+Malone y serás cancelado.           =~92~~FF~~FF~#230
+|230
+@000ABE5C-000AC101-00
+;000ABE5C{~03~~02~~15~Hello?=~E7~~03~~02~~15~      =~FF~~02~~02~~04~Commander, it looks like your=~FF~~02~~02~~05~vacation is going to be cut short.=~C4~~02~~02~~04~                             =~FF~~02~~02~~05~                                  =~FF~~03~~02~~15~I knew I shouldn't have brought this=~FF~~03~~02~~16~phone.=~C4~~03~~02~~15~                                    =~FF~~03~~02~~16~      =~FF~~02~~02~~04~Our friend H.R. Malone is up to his=~FF~~02~~02~~05~old tricks again.=~C4~~02~~02~~04~                                   =~FF~~02~~02~~05~                 =~FF~~03~~02~~15~So what's the plan?=~C4~~03~~02~~15~                   =~FF~~02~~02~~04~Lucky for you the disturbance is   =~FF~~02~~02~~05~right there in Hawaii.=~C4~~02~~02~~04~Meet us at our Mobile Command   =~FF~~02~~02~~05~Post on Oahu in 30 minutes.=~C4~~02~~02~~04~                             =~FF~~02~~02~~05~                           =~FF~~03~~02~~15~Aloha.  Fruit drinks away!=~C4~~FF~}#957#678
+~03~~02~~15~
+Hola?=~E7~~03~~02~~15~
+     =~FF~~02~~02~~04~
+Comandante, parece que sus=~FF~~02~~02~~05~
+vacaciones van a ser acortadas.=~C4~~02~~02~~04~
+                          =~FF~~02~~02~~05~
+                               =~FF~~03~~02~~15~
+Sabía que no debía haberme traído=~FF~~03~~02~~16~
+este teléfono.=~C4~~03~~02~~15~
+                                 =~FF~~03~~02~~16~
+              =~FF~~02~~02~~04~
+Nuestro amigo H.R. Malone ha vuelto=~FF~~02~~02~~05~
+a hacer de las suyas.=~C4~~02~~02~~04~
+                                   =~FF~~02~~02~~05~
+                     =~FF~~03~~02~~15~
+Y cual es el plan?=~C4~~03~~02~~15~
+                  =~FF~~02~~02~~04~
+Por suerte para ti la molestia está=~FF~~02~~02~~05~
+justo ahí, en Hawaii.=~C4~~02~~02~~04~
+Nos vemos en nuestro Puesto de Mando=~FF~~02~~02~~05~
+de Oahu en 30 minutos.=~C4~~02~~02~~04~
+                                    =~FF~~02~~02~~05~
+                      =~FF~~03~~02~~15~
+Aloha. Sin cócteles!    =~C4~~FF~#678
+|678
+@000AC178-000AC1C5-00
+;000AC178{~02~~03~~02~                                      =~FF~BONUS= TOTAL=~02~~09~~18~0=~FF~~02~~19~~18~xxxxxxxxxxx=~FF~}#114#078
+~02~~03~~02~                                      =~FF~
+BONO = TOTAL=~02~~09~~18~0=~FF~~02~~19~~18~xxxxxxxxxxx=~FF~#078
+|78
+@000AC200-000AC23B-00
+;000AC200{~01~~02~~02~You didn't finish all of=~FF~~01~~02~~03~the missions!  Try again.=~9C~~FF~}#087#060
+~01~~02~~02~
+No terminaste todas las misiones!=~FF~~01~~02~~03~
+Reinténtalo.    =~9C~~FF~#060
+|60
+@000B4316-000B4DEB-00
+;000B4316{~01~~02~~02~Welcome back, Commander.=~EC~~01~~02~~03~Our target this time=~FF~~01~~02~~04~is H.R. Malone.=~C4~~01~~02~~02~Not only is Malone one of the=~FF~~01~~02~~03~richest men in the world, but=~FF~~01~~02~~04~he's recruited . . .=~C4~~01~~02~~02~millions of fanatic followers ever=~FF~~01~~02~~03~since he lost that presidential=~FF~~01~~02~~04~election a few years ago.=~A6~~01~~02~~02~                                  =~FF~~01~~02~~03~                               =~FF~~01~~02~~04~                         =~FF~~03~~0B~~18~Yeah, the dude could sell=~FF~~03~~0B~~19~invisible ink to a=~FF~~03~~0B~~1A~counterfeiter.=~C4~~03~~0B~~18~                         =~FF~~03~~0B~~19~                  =~FF~~03~~0B~~1A~              =~FF~~01~~02~~02~He's been buying up choice real   =~FF~~01~~02~~03~estate in all 50 states and Mexico=~FF~~01~~02~~04~to use as training camps . . .=~A6~~01~~02~~02~for his paramilitary organization.=~FF~~01~~02~~03~And he's hired renegade weapons   =~FF~~01~~02~~04~experts and former generals . . .=~A6~~01~~02~~02~who became mercenaries in the wake=~FF~~01~~02~~03~of military cutbacks.             =~FF~~01~~02~~04~                                 =~C4~~01~~02~~02~                                  =~FF~~01~~02~~03~                     =~FF~~03~~0B~~18~Did we send in someone=~FF~~03~~0B~~19~to get his plans?=~C4~~03~~0B~~18~                      =~FF~~03~~0B~~19~                 =~FF~~01~~02~~02~Yes. Agent Ego.                   =~E2~~01~~02~~03~But he won't be coming back...=~C4~~01~~02~~02~               =~FF~~01~~02~~03~                              =~FF~~03~~0B~~18~That makes it personal.=~D3~~03~~0B~~18~Ego was my buddy. We   =~FF~~03~~0B~~19~flew together in the=~FF~~03~~0B~~1A~Jungle Campaigns.=~C4~~03~~0B~~18~What happened?      =~FF~~03~~0B~~19~                    =~FF~~03~~0B~~1A~                 =~E2~~03~~0B~~18~              =~FF~~01~~02~~02~Malone penetrated his cover and=~FF~~01~~02~~03~shut him up with a car bomb . . .=~C4~~01~~02~~02~But not before Ego uncovered   =~FF~~01~~02~~03~Malone's plan to build some sort =~FF~~01~~02~~04~of Super Weapon.=~C4~~01~~02~~02~Malone has an attack squad right=~FF~~01~~02~~03~here in Hawaii implementing      =~FF~~01~~02~~04~Phase One.      =~A6~~01~~02~~02~That's where you come in.       =~FF~~01~~02~~03~                           =~FF~~01~~02~~04~          =~E2~~03~~0B~~18~I was wondering why you=~FF~~03~~0B~~19~pay me the big bucks.=~D3~~03~~0B~~18~                       =~FF~~03~~0B~~19~                     =~FF~~01~~02~~02~We need to investigate his attacks=~FF~~01~~02~~03~on four observatories.     =~C4~~01~~02~~02~He's stealing their 30-foot mirrors,=~FF~~01~~02~~03~but we don't have a clue what=~FF~~01~~02~~04~he wants them for.=~C4~~03~~0B~~18~Sounds like he's got a=~FF~~03~~0B~~19~personal hygiene problem...=~D3~~03~~0B~~18~                      =~FF~~03~~0B~~19~                           =~FF~~01~~02~~02~We also think he's not the real      =~FF~~01~~02~~03~H.R. Malone. We got a tip from=~FF~~01~~02~~04~a plastic surgeon who says . . .=~C4~~01~~02~~02~he can tell us the true identity=~FF~~01~~02~~03~of our Madman.                =~FF~~01~~02~~04~                                =~C4~~01~~02~~02~The surgeon fears for his life  =~FF~~01~~02~~03~and is hiding on the islands.=~C4~~01~~02~~02~Locate the surgeon and we'll know=~FF~~01~~02~~03~who this evil genius is.     =~C4~~03~~0B~~18~Great, another=~FF~~03~~0B~~19~evil genius.=~C4~~03~~0B~~18~Why can't I ever=~FF~~03~~0B~~19~fight an evil idiot?=~C4~~03~~0B~~18~                =~FF~~03~~0B~~19~                    =~FF~~01~~02~~02~We've got the new Mohican Attack =~FF~~01~~02~~03~Chopper waiting for you outside.=~C4~~01~~02~~02~Download the missions to your Wrist=~FF~~01~~02~~03~Communicator and prepare for flight.=~E2~~01~~02~~04~Good luck, Commander.=~A6~~FF~~FF~}#3860#2774
+~01~~02~~02~
+Bienvenido de vuelta.=~EC~~01~~02~~03~
+Nuestro objetivo esta vez es H.R.=~FF~~01~~02~~04~
+Malone.=~C4~~01~~02~~02~
+No solo es uno de los hombres más=~FF~~01~~02~~03~
+ricos del mundo, también ha      =~FF~~01~~02~~04~
+reclutado...=~C4~~01~~02~~02~
+A millones de seguidores fanáticos=~FF~~01~~02~~03~
+desde que perdió las elecciones=~FF~~01~~02~~04~
+presidenciales hace años.=~A6~~01~~02~~02~
+                                  =~FF~~01~~02~~03~
+                               =~FF~~01~~02~~04~
+                         =~FF~~03~~0B~~18~
+Sí, el tío podría venderle=~FF~~03~~0B~~19~
+tinta invisible a un=~FF~~03~~0B~~1A~
+falsificador.=~C4~~03~~0B~~18~
+                          =~FF~~03~~0B~~19~
+                    =~FF~~03~~0B~~1A~
+             =~FF~~01~~02~~02~
+Ha estado comprando inmuebles en los=~FF~~01~~02~~03~
+50 estados y México para usarlos=~FF~~01~~02~~04~
+como campos de entrenamiento...=~A6~~01~~02~~02~
+para su organización paramilitar.   =~FF~~01~~02~~03~
+Y ha contratado a expertos en armas=~FF~~01~~02~~04~
+rebeldes y antiguos generales...=~A6~~01~~02~~02~
+que se han vuelto mercenarios tras=~FF~~01~~02~~03~
+los recortes militares.            =~FF~~01~~02~~04~
+                                  =~C4~~01~~02~~02~
+                                  =~FF~~01~~02~~03~
+                       =~FF~~03~~0B~~18~
+Enviamos a alguien a=~FF~~03~~0B~~19~
+conseguir sus planes?=~C4~~03~~0B~~18~
+                    =~FF~~03~~0B~~19~
+                     =~FF~~01~~02~~02~
+Sí. Al Agente Ego.=~E2~~01~~02~~03~
+Pero no volverá...=~C4~~01~~02~~02~
+                  =~FF~~01~~02~~03~
+                  =~FF~~03~~0B~~18~
+Eso lo hace personal.=~D3~~03~~0B~~18~
+Ego era mi colega. Volamos=~FF~~03~~0B~~19~
+juntos en las Campañas de=~FF~~03~~0B~~1A~
+la Jungla.=~C4~~03~~0B~~18~
+Qué sucedió?              =~FF~~03~~0B~~19~
+                         =~FF~~03~~0B~~1A~
+          =~E2~~03~~0B~~18~
+            =~FF~~01~~02~~02~
+Malone descubrió su tapadera y le=~FF~~01~~02~~03~
+calló con un coche bomba...=~C4~~01~~02~~02~
+Pero no antes de que Ego destapara=~FF~~01~~02~~03~
+el plan de Malone de construir algún=~FF~~01~~02~~04~
+tipo de Súper Arma.=~C4~~01~~02~~02~
+Malone tiene un escuadrón de ataque=~FF~~01~~02~~03~
+aquí en Hawaii implementando la Fase=~FF~~01~~02~~04~
+Uno.               =~A6~~01~~02~~02~
+Ahí es donde entras tú.            =~FF~~01~~02~~03~
+                                    =~FF~~01~~02~~04~
+    =~E2~~03~~0B~~18~
+Me preguntaba por qué me=~FF~~03~~0B~~19~
+pagabas tanto.=~D3~~03~~0B~~18~
+                        =~FF~~03~~0B~~19~
+              =~FF~~01~~02~~02~
+Necesitamos investigar sus ataques a=~FF~~01~~02~~03~
+cuatro observatorios.=~C4~~01~~02~~02~
+Está robando sus espejos de 9m,     =~FF~~01~~02~~03~
+pero no tenemos ninguna pista de=~FF~~01~~02~~04~
+para que los quiere.   =~C4~~03~~0B~~18~
+Parece que tiene un problema=~FF~~03~~0B~~19~
+de higiene personal...=~D3~~03~~0B~~18~
+                            =~FF~~03~~0B~~19~
+                      =~FF~~01~~02~~02~
+También pensamos que no es el H.R.=~FF~~01~~02~~03~
+Malone real. Recibimos una pista de=~FF~~01~~02~~04~
+un cirujano plástico que dice...=~C4~~01~~02~~02~
+que puede decirnos la identidad   =~FF~~01~~02~~03~
+real de nuestro Lunático.          =~FF~~01~~02~~04~
+                                =~C4~~01~~02~~02~
+El cirujano teme por su vida y se=~FF~~01~~02~~03~
+está ocultando en las islas.=~C4~~01~~02~~02~
+Localiza al cirujano y sabremos  =~FF~~01~~02~~03~
+quién es el genio malvado.  =~C4~~03~~0B~~18~
+Genial, otro genio malvado.=~C4~~03~~0B~~18~
+Por qué nunca peleo contra =~FF~~03~~0B~~19~
+uno tonto?=~C4~~03~~0B~~18~
+                          =~FF~~03~~0B~~19~
+          =~FF~~01~~02~~02~
+Tenemos el nuevo Chopper de Ataque=~FF~~01~~02~~03~
+Mohican esperándote fuera.=~C4~~01~~02~~02~
+Descarga las misiones en tu       =~FF~~01~~02~~03~
+Comunicador de muñeca y prepárate.=~E2~~01~~02~~04~
+Buena suerte, Comandante.   =~A6~~FF~~FF~#2774
+|2774
+@000B739B-000B77B8-FF
+;000B739B{~02~~03~~03~           URBAN STRIKE            =~FF~}#052#040
+~02~~03~~03~           URBAN STRIKE            =~FF~#040
+;000B73C3{~03~~03~!  THE SEQUEL TO JUNGLE STRIKE     =~C0~~03~~03~       A GAME FROM THE EDGE,       =~FF~}#096#078
+~03~~03~!    LA SECUELA DE JUNGLE STRIKE   =~C0~~03~~03~       UN JUEGO DE THE EDGE,       =~FF~#078
+;000B7411{~03~~03~!  MIKE POSEHN & FOLEY HI-TECH     =~C0~~03~~03~   COPYRIGHT 1994 ELECTRONIC ARTS  =~FF~}#096#078
+~03~~03~!  MIKE POSEHN Y FOLEY HI-TECH     =~C0~~03~~03~   COPYRIGHT 1994 ELECTRONIC ARTS  =~FF~#078
+;000B745F{~03~~03~!     AND GRANITE BAY SOFTWARE     =~C0~~03~~03~            GAME DESIGN            =~FF~}#096#078
+~03~~03~!      Y GRANITE BAY SOFTWARE      =~C0~~03~~03~          DISEÑO DEL JUEGO         =~FF~#078
+;000B74AD{~03~~03~!   JOHN MANLEY AND TONY BARNES    =~C0~~03~~03~            PROGRAMMING            =~FF~}#096#078
+~03~~03~!    JOHN MANLEY Y TONY BARNES     =~C0~~03~~03~            PROGRAMACIÓN           =~FF~#078
+;000B74FB{~03~~03~!           MIKE POSEHN            =~C0~~03~~03~            ART DIRECTOR           =~FF~}#096#078
+~03~~03~!           MIKE POSEHN            =~C0~~03~~03~          DIRECTOR DE ARTE         =~FF~#078
+;000B7549{~03~~03~!           JULIE CRESSA           =~C0~~03~~03~          SOUND AND MUSIC          =~FF~}#096#078
+~03~~03~!           JULIE CRESSA           =~C0~~03~~03~           MÚSICA Y SONIDO         =~FF~#078
+;000B7597{~03~~03~!             DON VECA             =~C0~~03~~03~           IMPLEMENTATION          =~FF~}#096#078
+~03~~03~!             DON VECA             =~C0~~03~~03~           IMPLEMENTACIÓN          =~FF~#078
+;000B75E5{~03~~03~!   ROSS WENTWORTH AND ERICH HORN  =~C0~~03~~03~                 ART               =~FF~}#096#078
+~03~~03~!    ROSS WENTWORTH Y ERICH HORN   =~C0~~03~~03~                ARTE               =~FF~#078
+;000B7633{~03~~03~!    VICTOR FRENCH, TOM LISOWSKI   =~C0~~03~~03~                 ART               =~FF~}#096#078
+~03~~03~!    VICTOR FRENCH, TOM LISOWSKI   =~C0~~03~~03~                ARTE               =~FF~#078
+;000B7681{~03~~03~!     TONY GASCON, RON SACDALAN    =~C0~~03~~03~                ART                =~FF~}#096#078
+~03~~03~!     TONY GASCON, RON SACDALAN    =~C0~~03~~03~                ARTE               =~FF~#078
+;000B76CF{~03~~03~!   WALTER IANNEO, JEFF FENNEL     =~C0~~03~~03~             3-D MODELS            =~FF~}#096#078
+~03~~03~!   WALTER IANNEO, JEFF FENNEL     =~C0~~03~~03~            MODELOS 3-D            =~FF~#078
+;000B771D{~03~~03~!            TIM CALVIN            =~C0~~03~~03~             3-D MODELS            =~FF~}#096#078
+~03~~03~!            TIM CALVIN            =~C0~~03~~03~            MODELOS 3-D            =~FF~#078
+;000B776B{~03~~03~!   LANCE ARMSTRONG, TERRY FALLS   =~C0~~03~~03~           ADDITIONAL ART          =~FF~}#096#078
+~03~~03~!   LANCE ARMSTRONG, TERRY FALLS   =~C0~~03~~03~           ARTE ADICIONAL          =~FF~#078
+|1054
+@000B77B9-000B7BFC-FF
+;000B77B9{~03~~03~!  KENDRA LAMMAS, MICHAEL SHIRLEY  =~C0~~03~~03~           ADDITIONAL ART          =~FF~}#096#078
+~03~~03~!  KENDRA LAMMAS, MICHAEL SHIRLEY  =~C0~~03~~03~           ARTE ADICIONAL          =~FF~#078
+;000B7807{~03~~03~!   SUSAN MANLEY, PETER TRAUGOT    =~C0~~03~~03~           ADDITIONAL ART          =~FF~}#096#078
+~03~~03~!   SUSAN MANLEY, PETER TRAUGOT    =~C0~~03~~03~           ARTE ADICIONAL          =~FF~#078
+;000B7855{~03~~03~!     TONY BARNES, LYNNE GURA      =~C0~~03~~03~         INTERIOR DESIGN           =~FF~}#096#078
+~03~~03~!     TONY BARNES, LYNNE GURA      =~C0~~03~~03~        DISEÑO DE INTERIORES       =~FF~#078
+;000B78A3{~03~~03~!    KEITH BULLEN, TONY BARNES     =~C0~~03~~03~              WRITER               =~FF~}#096#078
+~03~~03~!    KEITH BULLEN, TONY BARNES     =~C0~~03~~03~              ESCRITOR             =~FF~#078
+;000B78F1{~03~~03~!          MICHAEL HUMES           =~C0~~03~~03~        TECHNICAL DIRECTOR         =~FF~}#096#078
+~03~~03~!          MICHAEL HUMES           =~C0~~03~~03~          DIRECTOR TÉCNICO         =~FF~#078
+;000B793F{~03~~03~!          TIM BRENGLE             =~C0~~03~~03~        TOOLS PROGRAMMING          =~FF~}#096#078
+~03~~03~!          TIM BRENGLE             =~C0~~03~~03~    PROGRAMACIÓN DE HERRAMIENTAS   =~FF~#078
+;000B798D{~03~~03~!    BURT SLOANE, BILL KIRTLEY     =~C0~~03~~03~         SOFTWARE TESTING          =~FF~}#096#078
+~03~~03~!    BURT SLOANE, BILL KIRTLEY     =~C0~~03~~03~        PRUEBAS DEL SOFTWARE       =~FF~#078
+;000B79DB{~03~~03~!    JEFF HASSON, BRIAN LOKE       =~C0~~03~~03~         SOFTWARE TESTING          =~FF~}#096#078
+~03~~03~!    JEFF HASSON, BRIAN LOKE       =~C0~~03~~03~        PRUEBAS DEL SOFTWARE       =~FF~#078
+;000B7A29{~03~~03~!    JOANNA PATAKI, DAVID COSTA    =~C0~~03~~03~         SOFTWARE TESTING          =~FF~}#096#078
+~03~~03~!    JOANNA PATAKI, DAVID COSTA    =~C0~~03~~03~        PRUEBAS DEL SOFTWARE       =~FF~#078
+;000B7A77{~03~~03~!    AARON MCCLAY, JIM FLAHARTY    =~C0~~03~~03~         ASSISTANT PRODUCER        =~FF~}#096#078
+~03~~03~!    AARON MCCLAY, JIM FLAHARTY    =~C0~~03~~03~       AYUDANTE DE PRODUCCIÓN      =~FF~#078
+;000B7AC5{~03~~03~!         MICHAEL LUBUGUIN         =~C0~~03~~03~      FOLEY HI-TECH PRODUCER       =~FF~}#096#078
+~03~~03~!         MICHAEL LUBUGUIN         =~C0~~03~~03~     FOLEY PRODUCTOR DE HI-TECH    =~FF~#078
+;000B7B13{~03~~03~!          DAVID FOLEY             =~C0~~03~~03~          PROJECT MANAGER          =~FF~}#096#078
+~03~~03~!          DAVID FOLEY             =~C0~~03~~03~          JEFE DE PROYECTO         =~FF~#078
+;000B7B61{~03~~03~!          SUSAN MANLEY            =~C0~~03~~03~           PRODUCED BY             =~FF~}#096#078
+~03~~03~!          SUSAN MANLEY            =~C0~~03~~03~           PRODUCIDO POR           =~FF~#078
+;000B7BAF{~03~~03~!         SCOTT BERFIELD           =~C0~~03~~03~           DIRECTED BY             =~FF~}#096#078
+~03~~03~!         SCOTT BERFIELD           =~C0~~03~~03~            DIRIGIDO POR           =~FF~#078
+|1092
+@000B7BFD-000B8040-FF
+;000B7BFD{~03~~03~!          JOHN MANLEY             =~C0~~03~~03~              CAST:                =~FF~}#096#078
+~03~~03~!          JOHN MANLEY             =~C0~~03~~03~              ELENCO:              =~FF~#078
+;000B7C4B{~03~~03~!                                  =~C0~~03~~03~           JAMIE POOLOS            =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~           JAMIE POOLOS            =~FF~#078
+;000B7C99{~03~~03~!    H.R.MALONE-CARLOS ORTEGA      =~C0~~03~~03~           TONY BARNES             =~FF~}#096#078
+~03~~03~!    H.R.MALONE-CARLOS ORTEGA      =~C0~~03~~03~           TONY BARNES             =~FF~#078
+;000B7CE7{~03~~03~!       SPECIAL AGENT EGO          =~C0~~03~~03~            MARK WEST              =~FF~}#096#078
+~03~~03~!        AGENTE ESPECIAL EGO       =~C0~~03~~03~            MARK WEST              =~FF~#078
+;000B7D35{~03~~03~!         THE COMMANDER            =~C0~~03~~03~          WILLY AGUILLAR           =~FF~}#096#078
+~03~~03~!           EL COMANDANTE          =~C0~~03~~03~          WILLY AGUILLAR           =~FF~#078
+;000B7D83{~03~~03~!             BRAVO                =~C0~~03~~03~         JILL FISHBEIN             =~FF~}#096#078
+~03~~03~!               BRAVO              =~C0~~03~~03~         JILL FISHBEIN             =~FF~#078
+;000B7DD1{~03~~03~!             LEGAL                =~C0~~03~~03~           MARK DOUGLAS            =~FF~}#096#078
+~03~~03~!               LEGAL              =~C0~~03~~03~           MARK DOUGLAS            =~FF~#078
+;000B7E1F{~03~~03~!           LONG-HAUL              =~C0~~03~~03~         ATSUKO MATSUMOTO          =~FF~}#096#078
+~03~~03~!             DISTANCIA            =~C0~~03~~03~         ATSUKO MATSUMOTO          =~FF~#078
+;000B7E6D{~03~~03~!            STINGER               =~C0~~03~~03~          SIMON FREEMAN            =~FF~}#096#078
+~03~~03~!              AGUIJÓN             =~C0~~03~~03~          SIMON FREEMAN            =~FF~#078
+;000B7EBB{~03~~03~!           FREEPERSON             =~C0~~03~~03~          PETER DIMARIA            =~FF~}#096#078
+~03~~03~!             EL LIBRE             =~C0~~03~~03~          PETER DIMARIA            =~FF~#078
+;000B7F09{~03~~03~!           COSSACK                =~C0~~03~~03~          ERIC NEWHOUSE            =~FF~}#096#078
+~03~~03~!              COSACO              =~C0~~03~~03~          ERIC NEWHOUSE            =~FF~#078
+;000B7F57{~03~~03~!            NEWGUY                =~C0~~03~~03~         AND JIM FLAHARTY          =~FF~}#096#078
+~03~~03~!               NUEVO              =~C0~~03~~03~          Y JIM FLAHARTY           =~FF~#078
+;000B7FA5{~03~~03~!           AS OUTBACK             =~C0~~03~~03~      BUT WAIT, THERE'S MORE...    =~FF~}#096#078
+~03~~03~!            COMO AFUERA           =~C0~~03~~03~    PERO ESPERA, AÚN HAY MÁS...    =~FF~#078
+;000B7FF3{~03~~03~!                                  =~C0~~03~~03~         DAVID NEUBECKER           =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~         DAVID NEUBECKER           =~FF~#078
+|1092
+@000B8041-000B8484-FF
+;000B8041{~03~~03~!        GENERIC COPILOT           =~C0~~03~~03~           DAVID SZE               =~FF~}#096#078
+~03~~03~!         COPILOTO GENÉRICO        =~C0~~03~~03~           DAVID SZE               =~FF~#078
+;000B808F{~03~~03~!       THE HIGH-5 PILOT           =~C0~~03~~03~        SPECIAL THANKS TO:         =~FF~}#096#078
+~03~~03~!    EL PILOTO QUE CHOCA LA MANO   =~C0~~03~~03~      GRACIAS ESPECIALES PARA:     =~FF~#078
+;000B80DD{~03~~03~!                                  =~C0~~03~~03~           MATT CRESSA             =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~           MATT CRESSA             =~FF~#078
+;000B812B{~03~~03~!                                  =~C0~~03~~03~           CINDY POSEHN            =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~           CINDY POSEHN            =~FF~#078
+;000B8179{~03~~03~!                                  =~C0~~03~~03~      ALAN AND WILLIAM BARNES      =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~       ALAN Y WILLIAM BARNES       =~FF~#078
+;000B81C7{~03~~03~!                                  =~C0~~03~~03~       DIZZY, ELWOOD & JAKE        =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~       DIZZY, ELWOOD Y JAKE        =~FF~#078
+;000B8215{~03~~03~!                                  =~C0~~03~~03~       JOHN & MARGRET MANLEY       =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~       JOHN Y MARGRET MANLEY       =~FF~#078
+;000B8263{~03~~03~!                                  =~C0~~03~~03~           DEAN SITTON             =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~           DEAN SITTON             =~FF~#078
+;000B82B1{~03~~03~!                                  =~C0~~03~~03~           KATHY SMITH             =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~           KATHY SMITH             =~FF~#078
+;000B82FF{~03~~03~!                                  =~C0~~03~~03~           JEFF FOLEY              =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~           JEFF FOLEY              =~FF~#078
+;000B834D{~03~~03~!                                  =~C0~~03~~03~  SEAL,DANNY ELFMAN,JAMES CAMERON  =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~  SEAL,DANNY ELFMAN,JAMES CAMERON  =~FF~#078
+;000B839B{~03~~03~!  STEWART COPELAND,WILLIAM ORBIT  =~C0~~03~~03~ ANY SIMILARITIES TO PERSONS LIVING=~FF~}#096#078
+~03~~03~!  STEWART COPELAND,WILLIAM ORBIT  =~C0~~03~~03~  CUALQUIER SIMILITUD CON PERSONAS =~FF~#078
+;000B83E9{~03~~03~! OR DEAD ARE PURELY COINCIDENTAL. =~C0~~03~~03~            THE END...?            =~FF~}#096#078
+~03~~03~! VIVAS O MUERTAS ES COINCIDENCIA. =~C0~~03~~03~              FIN...?              =~FF~#078
+;000B8437{~03~~03~!                                  =~C0~~03~~03~           ...YOU DECIDE           =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~          ...LO DECIDES TÚ         =~FF~#078
+|1092
+@000B8485-000B84FA-FF
+;000B8485{~03~~03~!                                  =~C0~~03~~03~                                   =~FF~}#096#078
+~03~~03~!                                  =~C0~~03~~03~                                   =~FF~#078
+;000B84D3{~03~~03~!                                  =~C0~~FF~}#052#040
+~03~~03~!                                  =~C0~~FF~#040
+|118
+@000B8540-000B898D-00
+;000B8540{~02~~02~~02~When I met malone, He wasn't=~FF~~02~~02~~03~Malone. I met a man who had=~FF~~02~~02~~04~no recognizable Features.=~A6~~02~~02~~02~Fire had destroyed him and I needed=~FF~~02~~02~~03~to rebuild his face.       =~FF~~02~~02~~04~                         =~B5~~02~~02~~02~I asked him for a Photo and he gave=~FF~~02~~02~~03~me the photo on the left.=~FF~~02~~02~~04~Later...=~A6~~02~~02~~02~Right before surgery, he showed up =~FF~~02~~02~~03~with the photo of malone on the=~FF~~02~~02~~04~right and insisted I use it.=~A6~~02~~02~~02~It was not until years later       =~FF~~02~~02~~03~that I realized this guy was   =~FF~~02~~02~~04~actually Drug Lord Carlos Ortega!=~A6~~03~~02~~02~                            =~FF~~03~~02~~03~                            =~FF~~03~~02~~04~                                 =~FF~~03~~0A~~18~So that's what happened=~FF~~03~~0A~~19~to the other half of=~FF~~03~~0A~~1A~the Ugly club!=~A6~~03~~0A~~18~I wondered why Ortega's body=~FF~~03~~0A~~19~was never found in the bus=~FF~~03~~0A~~1A~after the Jungle campaign.=~A6~~03~~0A~~1A~                          =~FF~~03~~0A~~18~Then again, there wasn't     =~FF~~03~~0A~~19~much bus left either...   =~A6~~03~~0A~~18~                        =~FF~~03~~0A~~19~                       =~FF~~02~~02~~02~Ortega fully assumed Malone's=~FF~~02~~02~~03~identity and sent assassins=~FF~~02~~02~~04~to eliminate me!=~A6~~02~~02~~02~I have been hiding on the    =~FF~~02~~02~~03~islands ever since.        =~FF~~02~~02~~04~                =~A6~~FF~}#1525#1102
+~02~~02~~02~
+Cuando conocí a Malone, no era=~FF~~02~~02~~03~
+Malone. Conocí a un hombre sin=~FF~~02~~02~~04~
+rasgos Reconocibles.=~A6~~02~~02~~02~
+El fuego le había destruido y tenía=~FF~~02~~02~~03~
+que reconstruir su cara.      =~FF~~02~~02~~04~
+                    =~B5~~02~~02~~02~
+Le pedí una foto y me dio la foto de=~FF~~02~~02~~03~
+la izquierda.           =~FF~~02~~02~~04~
+Más tarde...=~A6~~02~~02~~02~
+Antes de la cirugía, apareció con la=~FF~~02~~02~~03~
+foto de Malone de la derecha e=~FF~~02~~02~~04~
+insistió en que la usara.=~A6~~02~~02~~02~
+No fue hasta años más tarde que me  =~FF~~02~~02~~03~
+di cuenta de que este tipo era el=~FF~~02~~02~~04~
+Señor de la Droga Carlos Ortega!=~A6~~03~~02~~02~
+                                  =~FF~~03~~02~~03~
+                                 =~FF~~03~~02~~04~
+                                =~FF~~03~~0A~~18~
+Así que eso le pasó a la=~FF~~03~~0A~~19~
+otra mitad del club feo!=~A6~~03~~0A~~18~
+Me preguntaba por qué no=~FF~~03~~0A~~19~
+hallaron a Ortega en el bus=~FF~~03~~0A~~1A~
+de la campaña Jungla.=~A6~~03~~0A~~1A~
+                     =~FF~~03~~0A~~18~
+Por otra parte, tampoco =~FF~~03~~0A~~19~
+quedaba mucho autobús...   =~A6~~03~~0A~~18~
+                       =~FF~~03~~0A~~19~
+                        =~FF~~02~~02~~02~
+Ortega asumió plenamente la=~FF~~02~~02~~03~
+identidad de Malone y envió asesinos=~FF~~02~~02~~04~
+a eliminarme!=~A6~~02~~02~~02~
+Me he estado ocultando en las islas=~FF~~02~~02~~03~
+desde entonces.                     =~FF~~02~~02~~04~
+                 =~A6~~FF~#1102
+|1102
+@000B89DA-000B8AC5-FF
+;000B89DA{=~09~~06~2 RADAR SITES:==~02~~01~=ACTIVE=~03~~01~=DISABLED=~FF~}#063#042
+=~09~~06~2 SITIOS RAD.:==~02~~01~=ACTIVO=~03~~01~=INACTIVO=~FF~#042
+;000B8A04{=~09~~08~2 MIRRORS    :==~02~~01~=STOLEN=~03~~01~=RECOVERED=~FF~}#064#043
+=~09~~08~2 ESPEJOS    :==~02~~01~=ROBADO=~03~~01~=RECOBRADO=~FF~#043
+;000B8A2F{=~09~~0A~STEALTH SHIPS:=~02~~02~~01~=~08~~FF~}#045#024
+=~09~~0A~AVIÓN STEALTH:=~02~~02~~01~=~08~~FF~#024
+;000B8A47{=~09~~0C~PLAS.SURGEON :==~02~~01~=HIDING=~03~~01~=FOUND=~FF~}#060#039
+=~09~~0C~CIRUJANO PLÁ.:==~02~~01~=OCULTO=~03~~01~=HALL.=~FF~#039
+;000B8A6E{=~09~~0E~ENEMY BRIDGE :==~02~~01~=INTACT=~03~~01~=DESTROYED=~FF~}#064#043
+=~09~~0E~PUENTE ENEMI.:==~02~~01~=INTAC.=~03~~01~=DESTRUIDO=~FF~#043
+;000B8A99{=~09~~10~GREEN BERETS :==~02~~01~=UNDER FIRE=~03~~01~=RESCUED=~FF~}#066#045
+=~09~~10~BOINAS VERDES:==~02~~01~=BAJO FUEGO=~03~~01~=RESCATE=~FF~#045
+|236
+@000B8AC6-000B8C0A-00
+;000B8AC6{~01~~02~~02~The Green Berets you rescued have=~FF~~01~~02~~03~learned that Malone's plans include=~FF~~01~~02~~04~launching the stolen mirrors . . .=~A6~~01~~02~~02~into space on a satellite        =~FF~~01~~02~~03~reflecting device to use           =~FF~~01~~02~~04~with his laser weapon.            =~A6~~01~~02~~04~                      =~FF~~01~~02~~02~We are still searching for the=~FF~~01~~02~~03~location of the laser.  =~C4~}#433#325
+~01~~02~~02~
+Los Boinas Verdes rescatados han=~FF~~01~~02~~03~
+descubierto que los planes de Malone=~FF~~01~~02~~04~
+incluyen lanzar los espejos...=~A6~~01~~02~~02~
+al espacio en un dispositivo    =~FF~~01~~02~~03~
+reflectante para usarlo con su arma =~FF~~01~~02~~04~
+láser.                        =~A6~~01~~02~~04~
+                =~FF~~01~~02~~02~
+Aún estamos buscando la ubicación=~FF~~01~~02~~03~
+del láser.                         =~C4~#325
+|325
+@000B8C0B-000B8F89-00
+;000B8C0B{~01~~02~~02~OUR OWN SATELLITES HAVE SPOTTED A=~FF~~01~~02~~03~DESTROYER VISITING 3 RETROFITTED=~FF~~01~~02~~04~OIL RIGS OFF THE BAJA COAST. =~A6~~01~~02~~02~WE BELIEVE MALONE IS STOCKPILING =~FF~~01~~02~~03~JETS. YOUR MISSION IS TO CLEAR THE=~FF~~01~~02~~04~RIGS OF ENEMY WEAPONS AND PERSONNEL.=~A6~~01~~02~~04~                                    =~FF~~01~~02~~02~BE PREPARED FOR ENEMY CONTACTS AND=~FF~~01~~02~~03~FOR POSSIBLE RESCUE MISSIONS AT SEA.=~C4~~01~~02~~02~WE HAVE NOT CLEARED THE AREA OF   =~FF~~01~~02~~03~CIVILIANS YET TO AVOID ALERTING     =~FF~~01~~02~~04~THEM TO OUR PRESENCE.=~A6~~01~~02~~04~                     =~FF~~01~~02~~02~IF NEEDED FOR RESCUES, RECAPTURE=~FF~~01~~02~~03~OUR STOLEN TRANSPORT CHOPPER.   =~A6~~01~~02~~02~FINALLY, DENY ENEMY FIGHTERS    =~FF~~01~~02~~03~AIR SPACE AND DESTROY THEM BEFORE=~FF~~01~~02~~04~THEY LAUNCH A STRIKE ON THE COAST.=~A6~~01~~02~~02~PREPARE THE LARGEST RIG FOR A=~FF~~01~~02~~03~GROUND ATTACK. YOUR NEW MR9 ASSAULT=~FF~~01~~02~~04~RIFLE WILL AID YOU ONCE INSIDE.   =~A6~~01~~02~~02~THE MR9 IS A COMBINATION WEAPON,=~FF~~01~~02~~03~ACCEPTING BOTH 200 ROUNDS OF       =~FF~~01~~02~~04~CASELESS AMMO AND 9 ROCKETS.   =~9C~~FF~}#1186#895
+~01~~02~~02~
+NUESTROS SATÉLITES HAN AVISTADO UN=~FF~~01~~02~~03~
+DESTRUCTOR VISITANDO 3 PLATAFORMAS=~FF~~01~~02~~04~
+PETROLÍFERAS DE LA COSTA BAJA.=~A6~~01~~02~~02~
+CREEMOS QUE MALONE ALMACENA JETS. =~FF~~01~~02~~03~
+TU MISIÓN ES LIMPIAR LAS PLATAFORMAS=~FF~~01~~02~~04~
+DE ARMAS ENEMIGAS Y PERSONAL. =~A6~~01~~02~~04~
+                              =~FF~~01~~02~~02~
+PREPÁRATE PARA CONTACTOS ENEMIGOS Y =~FF~~01~~02~~03~
+PARA POSIBLES RESCATES EN EL MAR.   =~C4~~01~~02~~02~
+NO HEMOS LIMPIADO LA ZONA DE CIVILES=~FF~~01~~02~~03~
+AÚN PARA EVITAR ALERTARLES DE       =~FF~~01~~02~~04~
+NUESTRA PRESENCIA.=~A6~~01~~02~~04~
+                  =~FF~~01~~02~~02~
+SI NECESITAS RESCATES, RECAPTURA EL =~FF~~01~~02~~03~
+CHOPPER DE TRANSPORTE ROBADO.   =~A6~~01~~02~~02~
+FINALMENTE, DENIEGA EL ESPACIO AÉREO=~FF~~01~~02~~03~
+A LOS CAZAS ENEMIGOS Y DESTRÚYELOS=~FF~~01~~02~~04~
+ANTES DE QUE ATAQUEN LA COSTA.=~A6~~01~~02~~02~
+PREPARA LA MAYOR PETROLERA PARA UN  =~FF~~01~~02~~03~
+ATAQUE TERRESTRE. TU NUEVO RIFLE DE=~FF~~01~~02~~04~
+ASALTO MR9 AYUDARÁ DENTRO.    =~A6~~01~~02~~02~
+EL MR9 ES UN ARMA COMBINADA,      =~FF~~01~~02~~03~
+ACEPTANDO TANTO 200 BALAS SIN      =~FF~~01~~02~~04~
+DEPÓSITO COMO 9 COHETES.    =~9C~~FF~#895
+|895
+@000B8FF4-000B91D9-FF
+;000B8FF4{=~09~~05~RADAR STATION:==~02~~01~=ACTIVE=~03~~01~=DESTROYED=~FF~}#064#043
+=~09~~05~ESTACI. RADAR:==~02~~01~=ACTIVA=~03~~01~=DESTRUIDA=~FF~#043
+;000B901F{=~09~~07~SMALL OILRIGS:==~02~~01~=HOSTILE=~03~~01~=SECURED=~FF~}#063#042
+=~09~~07~POZOS PET. P.:==~02~~01~=HOSTIL =~03~~01~=SEGURO =~FF~#042
+;000B9049{=~09~~09~15 PASSENGERS:=~02~~02~~01~=~05~~FF~}#045#024
+=~09~~09~15 PASAJEROS :=~02~~02~~01~=~05~~FF~#024
+;000B9061{=~09~~0B~DESTROYER    :==~02~~01~=ATTACKING=~03~~01~=SUNK=~FF~}#062#041
+=~09~~0B~DESTRUCTOR   :==~02~~01~=ATACANDO =~03~~01~=HUN.=~FF~#041
+;000B908A{=~09~~0C~RUSSIAN SUB  :==~02~~01~=DISABLED=~03~~01~=RESCUED=~FF~}#064#043
+=~09~~0C~SUB RUSO     :==~02~~01~=INACTIVO=~03~~01~=SALVADO=~FF~#043
+;000B90B5{=~09~~0E~7 ENEMY JETS :==~02~~01~=ACTIVE=~03~~01~=DESTROYED=~FF~}#064#043
+=~09~~0E~7 JETS ENEMI.:==~02~~01~=ACTIVO=~03~~01~=DESTRUIDO=~FF~#043
+;000B90E0{=~09~~10~MAIN RIG     :==~02~~01~=INTACT=~03~~01~=BREACHED=~FF~}#063#042
+=~09~~10~POZO PRINCIP.:==~02~~01~=INTAC.=~03~~01~=VIOLADO =~FF~#042
+;000B910A{======~10~========~0A~=~1E~=<=~01~=~1E~~DC~~96~=~1F~~16~z======~FF~}#067#037
+======~10~========~0A~=~1E~=<=~01~=~1E~~DC~~96~=~1F~~16~z======~FF~#037
+;000B912F{~FF~}#004#001
+~FF~#001
+;000B9130{=~0B~~91~~0E~=====~03~=~09~~06~CAMERAS     :==~02~~01~=ACTIVE=~03~~01~=DEACTIVATED=~FF~}#087#054
+=~0B~~91~~0E~=====~03~=~09~~06~
+CÁMARAS     :==~02~~01~=ACTIVA=~03~~01~=DESACTIVADA=~FF~#054
+;000B9166{=~09~~08~ENEMY PLANES:==~02~~01~=ACTIVE=~03~~01~=DEACTIVATED=~FF~}#065#044
+=~09~~08~AVIONES ENE.:==~02~~01~=ACTIVO=~03~~01~=DESACTIVADO=~FF~#044
+;000B9192{=~09~~0A~MAVERICK    :==~02~~01~=LOST=~03~~01~=FOUND=~FF~}#057#036
+=~09~~0A~MAVERICK    :==~02~~01~=PER.=~03~~01~=ENC. =~FF~#036
+;000B91B6{=~09~~0C~AIR STRIKE  :==~02~~01~=READY=~03~~01~=SET!=~FF~}#057#036
+=~09~~0C~ATAQUE AÉREO:==~02~~01~=LISTO=~03~~01~=YA! =~FF~#036
+|486
+@000B9260-000B9317-00
+;000B9260{~02~~03~~14~Air Strike Beacon Set improperly!=~02~~03~~16~You now have 3 seconds to get out!=~FF~~FF~L6==~06~~FF~L2==~0B~~93~&==~1A~======~01~=~1F~F~F6~==~0A~=~02~~03~~14~Air Strike Beacon Set!            =~02~~03~~16~You have 120 seconds to get out!=~FF~~FF~}#259#184
+~02~~03~~14~
+Balista de Ataque Aéreo Errónea! =~02~~03~~16~
+Ahora tienes 3 segundos para irte!=~FF~
+~FF~L6==~06~~FF~L2==~0B~~93~&==~1A~======~01~=~1F~F~F6~==~0A~=~02~~03~~14~
+Baliza de Ataque Aéreo Colocada!  =~02~~03~~16~
+Tienes 120 segundos para salir! =~FF~~FF~#184
+|184
+@000B9328-000B935F-00
+;000B9328{~03~~03~~14~TELL OUR BOMBERS YOUR LOCATION=~03~~0A~~16~PRESS A, B or C.=~FF~~FF~}#080#056
+~03~~03~~14~
+DI TU UBICACIÓN A BOMBARDEROS =~03~~0A~~16~
+PULSA A, B o C. =~FF~~FF~#056
+|56
+@000B9360-000B957D-00
+;000B9360{~01~~02~~02~Malone has been manufacturing =~FF~~01~~02~~03~powerful ground assault vehicles=~FF~~01~~02~~04~in an old auto plant in mexico.=~A6~~01~~02~~02~he has hired out-of-work weapons &=~FF~~01~~02~~03~game designers & they have been =~FF~~01~~02~~04~designing prototype G.A.V.s.   =~A6~~01~~02~~02~We believe the blueprints for these =~FF~~01~~02~~03~are housed in the modern business=~FF~~01~~02~~04~buildings. They're easy to spot.=~A6~~01~~02~~02~He is also holding Strike C.O.R.E.  =~FF~~01~~02~~03~pilots prisoner in a P.O.W. camp =~FF~~01~~02~~04~nearby.                         =~A6~~01~~02~~02~Get our people out of there!      =~FF~~01~~02~~03~You know what to do. Good Luck! =~FF~~01~~02~~04~       =~BA~~FF~~FF~}#728#542
+~01~~02~~02~
+Malone ha estado manufacturando=~FF~~01~~02~~03~
+poderosos vehículos terrestres de=~FF~~01~~02~~04~
+asalto en una planta de México.=~A6~~01~~02~~02~
+Ha contratado a diseñadores de =~FF~~01~~02~~03~
+juegos y armas en paro y han     =~FF~~01~~02~~04~
+diseñado G.A.V.s. prototipos.  =~A6~~01~~02~~02~
+Creemos que los planos están  =~FF~~01~~02~~03~
+guardados en modernos edificios de=~FF~~01~~02~~04~
+negocios. Son fáciles de ver.=~A6~~01~~02~~02~
+También retiene a pilotos de Strike=~FF~~01~~02~~03~
+C.O.R.E en un campo de prisioneros.=~FF~~01~~02~~04~
+                             =~A6~~01~~02~~02~
+Saca a nuestra gente de ahí!       =~FF~~01~~02~~03~
+Ya sabes lo que hacer. Buena Suerte!=~FF~~01~~02~~04~
+            =~BA~~FF~~FF~#542
+|542
+@000B95D6-000B969D-00
+;000B95D6{~02~~02~~17~Idiots!=~EC~~02~~02~~17~If one pilot could take those=~FF~~02~~02~~18~troops out, I didn't want them=~FF~~02~~02~~19~anyway!=~A6~~02~~02~~17~That well designed weaponry is=~FF~~02~~02~~18~the only thing I will miss.   =~FF~~02~~02~~19~Of course, I still have more...=~A6~~FF~}#287#200
+~02~~02~~17~
+Idiotas!=~EC~~02~~02~~17~
+Si un piloto pudiera eliminar esas=~FF~~02~~02~~18~
+tropas, ya no las querría!=~FF~~02~~02~~19~
+=~A6~~02~~02~~17~
+Ese bien diseñado armamento es lo =~FF~~02~~02~~18~
+único que echaré en falta.     =~FF~~02~~02~~19~
+Por supuesto, aún tengo más... =~A6~~FF~#200
+|200
+@000B96E6-000B97DF-FF
+;000B96E6{=~09~~06~SCOUT TEAM  :==~02~~01~=CAPTIVE=~03~~01~=RESCUED=~FF~}#062#041
+=~09~~06~EQUIPO EXPL.:==~02~~01~=CAUTIVO=~03~~01~=SALVADO=~FF~#041
+;000B970F{=~09~~08~ENEMY CAMP  :==~02~~01~=INTACT=~03~~01~=DESTROYED=~FF~}#063#042
+=~09~~08~CAM. ENEMIGO:==~02~~01~=INTAC.=~03~~01~=DESTRUIDO=~FF~#042
+;000B9739{=~09~~0A~CONTRACTORS :==~02~~01~=HELD=~03~~01~=RESCUED=~FF~}#059#038
+=~09~~0A~CONTRATISTAS:==~02~~01~=RET.=~03~~01~=SALVADO=~FF~#038
+;000B975F{=~09~~0C~GAV PLANS   :==~02~~01~=HIDDEN=~03~~01~=CAPTURED=~FF~}#062#041
+=~09~~0C~PLANOS VAT  :==~02~~01~=OCULTO=~03~~01~=CAPTURA =~FF~#041
+;000B9788{=~09~~0E~GAVS        :==~02~~01~=ACTIVE=~03~~01~= DESTROYED=~FF~}#064#043
+=~09~~0E~VATS        :==~02~~01~=ACTIVO=~03~~01~= DESTRUIDO=~FF~#043
+;000B97B3{=~09~~10~FACTORY     :==~02~~01~=OPERATING=~03~~01~=DESTROYED=~FF~}#066#045
+=~09~~10~FÁBRICA     :==~02~~01~=OPERATIVA=~03~~01~=DESTRUIDA=~FF~#045
+|250
+@000B9866-000B993B-00
+;000B9866{~03~~15~~14~incorrect fuse!=~03~~15~~16~GAV self-destruct=~03~~15~~17~sequence engaged!=~FF~~FF~L6==~07~~FF~L2==~0B~~98~~F6~==~1A~======~01~=~1F~2~84~==~0A~=~03~~16~~14~Ground Assault=~03~~16~~15~Vehicle Hot wired!=~FF~~FF~~FF~~88~2==~0B~~98~~F6~~FF~~FF~~01~~16~~03~To access the=~01~~16~~04~Ground Assault=~01~~16~~05~Vehicle=~01~~16~~07~Press A, B or C.=~FF~~FF~}#364#214
+~03~~15~~14~
+Fusible erróneo!=~03~~15~~16~
+Destrucción VAT  =~03~~15~~17~
+iniciada!       =~FF~~FF~L6==~07~~FF~L2==~0B~~98~~F6~==~1A~======~01~=~1F~2~84~==~0A~=~03~~16~~14~
+Vehículo Asalto=~03~~16~~15~
+Terr. Puenteado! =~FF~~FF~~FF~~88~2==~0B~~98~~F6~~FF~~FF~~01~~16~~03~
+Para acceder al=~01~~16~~04~
+Vehículo Terr.=~01~~16~~05~
+Asalto=~01~~16~~07~
+Pulsa A, B o C.=~FF~~FF~#214
+|214
+@000B993C-000B9E93-00
+;000B993C{~01~~02~~02~MALONE'S PURCHASE OF ALCATRAZ AND=~FF~~01~~02~~03~THE PRESIDIO MILITARY BASE IN THE=~FF~~01~~02~~04~LATE 90'S. . .=~A6~~01~~02~~04~              =~FF~~01~~02~~02~PUT HIS ARMY IN A PRIME POSITION =~FF~~01~~02~~03~TO TAKE OUT SAN FRANCISCO.       =~C4~~01~~02~~02~STRATEGY TELLS US HE PLANS TO CUT=~FF~~01~~02~~03~OFF THE CITY BY DESTROYING THE   =~FF~~01~~02~~04~BAY & GOLDEN GATE BRIDGES.=~A6~~01~~02~~04~                          =~FF~~01~~02~~02~CHECK THEM FOR BOMBS AND         =~FF~~01~~02~~03~NEUTRALIZE ASAP.                 =~C4~~01~~02~~02~INFORMANTS HAVE TOLD US HE IS=~FF~~01~~02~~03~COMPLETING WORK ON A NEW LASER =~FF~~01~~02~~04~WEAPON IN HIS HI-TECH LABS.=~A6~~01~~02~~02~BLAST THESE LABS IN GOLDEN GATE=~FF~~01~~02~~03~PARK AND DESTROY THE LASER WEAPON=~FF~~01~~02~~04~PROTOTYPES INSIDE.         =~A6~~01~~02~~02~THEN DESTROY MALONE'S COMMUNICATION=~FF~~01~~02~~03~CENTER, WEST COAST CORPORATE      =~FF~~01~~02~~04~OFFICES AND TANK DEPOT.=~A6~~01~~02~~02~INTELLIGENCE NOTES THAT ONE OF     =~FF~~01~~02~~03~MALONE'S GENERALS IS ON SITE.=~FF~~01~~02~~04~NEUTRALIZE HIM BEFORE GOING ON.=~A6~~01~~02~~02~FINALLY, SECURE A ATERRIZAJE  =~FF~~01~~02~~03~ON ALCATRAZ, LAND AND         =~FF~~01~~02~~04~ENTER THE PRISON.              =~A6~~01~~02~~02~ONE OF OUR TOP PILOTS,'LONG-HAUL',=~FF~~01~~02~~03~HAS BEEN CAPTURED AND IS BEING HELD=~FF~~01~~02~~04~PRISONER IN A MAXIMUM SECURITY CELL.=~A6~~01~~02~~02~GET PAST MALONE'S PRISON GUARDS   =~FF~~01~~02~~03~AND SECURITY SYSTEM AND BREAK      =~FF~~01~~02~~04~'LONG-HAUL' OUT OF THERE!           =~A6~~01~~02~~02~                               =~FF~~01~~02~~03~                             =~FF~~01~~02~~04~                         =~FF~~03~~0C~~18~BOY, WITH A LAUNDRY=~FF~~03~~0C~~19~LIST LIKE THIS...=~C4~~03~~0C~~18~AM I GLAD YOU GOT  =~FF~~03~~0C~~19~ME THIS WATCHCOM!=~C4~~FF~}#1851#1368
+~01~~02~~02~
+LA COMPRA DE MALONE DE ALCATRAZ Y DE=~FF~~01~~02~~03~
+LA BASE PRESIDIARIA MILITAR EN LOS=~FF~~01~~02~~04~
+90S...=~A6~~01~~02~~04~
+      =~FF~~01~~02~~02~
+PUSO A SU EJÉRCITO EN BUENA POSICIÓN=~FF~~01~~02~~03~
+PARA TOMAR SAN FRANCISCO.         =~C4~~01~~02~~02~
+ESTRATEGIA DICE QUE PLANEA CORTAR EL=~FF~~01~~02~~03~
+ACCESO A LA CIUDAD DESTRUYENDO LOS=~FF~~01~~02~~04~
+PUENTES DE BAHÍA Y GOLDEN GATE.=~A6~~01~~02~~04~
+                               =~FF~~01~~02~~02~
+BUSCA BOMBAS Y NEUTRALÍZALAS.       =~FF~~01~~02~~03~
+                                  =~C4~~01~~02~~02~
+INFORMANTES NOS CONTARON QUE ESTÁ=~FF~~01~~02~~03~
+TERMINANDO UNA NUEVA ARMA LÁSER EN=~FF~~01~~02~~04~
+SUS LABS PUNTEROS.=~A6~~01~~02~~02~
+VUELA LOS LABS DEL PARQUE GOLDEN =~FF~~01~~02~~03~
+GATE Y DESTRUYE LOS PROTOTIPOS DE =~FF~~01~~02~~04~
+ARMAS LÁSER.      =~A6~~01~~02~~02~
+LUEGO DESTRUYE EL CENTRO DE     =~FF~~01~~02~~03~
+COMUNICACIONES DE MALONE, OFICINAS Y=~FF~~01~~02~~04~
+DEPÓSITO DE TANQUES.=~A6~~01~~02~~02~
+INTELIGENCIA INDICA QUE UNO DE LOS=~FF~~01~~02~~03~
+GENERALES DE MALONE ESTÁ AHÍ.       =~FF~~01~~02~~04~
+ANÚLALO ANTES DE SEGUIR.     =~A6~~01~~02~~02~
+FINALMENTE, ASEGURA UN ATERRIZAJE =~FF~~01~~02~~03~
+EN ALCATRAZ, ATERRIZA Y ENTRA EN LA=~FF~~01~~02~~04~
+PRISIÓN.                    =~A6~~01~~02~~02~
+UNO DE LOS MEJORES, DISTANCIA, HA  =~FF~~01~~02~~03~
+SIDO CAPTURADO Y ESTÁ ENCARCELADO EN=~FF~~01~~02~~04~
+UNA CELDA DE MÁXIMA SEGURIDAD.=~A6~~01~~02~~02~
+PASA POR LOS GUARDIAS DE PRISIÓN DE=~FF~~01~~02~~03~
+MALONE Y SU SISTEMA DE SEGURIDAD Y  =~FF~~01~~02~~04~
+SÁCALE DE AHÍ!                =~A6~~01~~02~~02~
+                                   =~FF~~01~~02~~03~
+                                  =~FF~~01~~02~~04~
+                     =~FF~~03~~0C~~18~
+CHICO, CON TAL LISTA=~FF~~03~~0C~~19~
+DE TAREAS...=~C4~~03~~0C~~18~
+ME ALEGRA TENER ESTE=~FF~~03~~0C~~19~
+RELOJCOM!   =~C4~~FF~#1368
+|1368
+@000B9EF2-000BA0E5-FF
+;000B9EF2{=~09~~05~GG&BAYBRIDGE:==~02~~01~=TIMEBOMB=~03~~01~=SAVED=~FF~}#061#040
+=~09~~05~PUENTE GG   :==~02~~01~=BOMBA   =~03~~01~=SALVO=~FF~#040
+;000B9F1A{=~09~~07~RADIO TOWER :==~02~~01~=ON AIR=~03~~01~=DESTROYED=~FF~}#063#042
+=~09~~07~TORRE RADIO :==~02~~01~=OPERA =~03~~01~=DESTRUIDA=~FF~#042
+;000B9F44{=~09~~09~CORP HQ WEST:==~02~~01~=OPERATING=~03~~01~~05~DESTROYED=~FF~}#069#045
+=~09~~09~CORP CG OES.:==~02~~01~=OPERATIVA=~03~~01~~05~DESTRUIDA=~FF~#045
+;000B9F71{=~09~~0B~ARMY BASE   :==~02~~01~=ON GUARD=~03~~01~~05~DESTROYED=~FF~}#068#044
+=~09~~0B~BASE EJÉRCI.:==~02~~01~=GUARDIA =~03~~01~~05~DESTRUIDA=~FF~#044
+;000B9F9D{=~09~~0C~MICRON LABS :==~02~~01~=INTACT=~03~~01~~05~DESTROYED=~FF~}#066#042
+=~09~~0C~LAB MICRON  :==~02~~01~=INTAC.=~03~~01~~05~DESTRUIDO=~FF~#042
+;000B9FC7{=~09~~0D~HOMEBASE    :==~02~~01~=ATTACKED=~03~~01~~07~SAFE=~FF~}#063#039
+=~09~~0D~BASE OPERAC.:==~02~~01~=ATACADA =~03~~01~~07~SLVO=~FF~#039
+;000B9FEE{=~09~~0F~HENCHMAN    :==~02~~01~=AT LARGE=~03~~01~~01~CAPTURED=~FF~}#067#043
+=~09~~0F~ESBIRRO     :==~02~~01~=SUELTO  =~03~~01~~01~CAPTURA =~FF~#043
+;000BA019{=~09~~10~ALCATRAZ    :==~02~~01~=DEFENDED=~03~~01~~16~BREACHED=~FF~}#067#043
+=~09~~10~ALCATRAZ    :==~02~~01~=DEFIENDE=~03~~01~~16~VIOLADA =~FF~#043
+;000BA044{=========~03~=~09~~06~SENSOR/LOCKS:==~02~~01~=ACTIVE=~03~~01~=DEACTIVATED=~FF~}#078#054
+=========~03~
+=~09~~06~SENSOR/CIER.:==~02~~01~=ACTIVO=~03~~01~=DESACTIVADO=~FF~#054
+;000BA07A{=~09~~08~BLUEPRINTS  :==~02~~01~=MISSING=~03~~01~=CAPTURED=~FF~}#063#042
+=~09~~08~PLANOS      :==~02~~01~=PERDIDO=~03~~01~=CAPTURA =~FF~#042
+;000BA0A4{=~09~~0A~M16-X       :=~02~~02~~01~=~07~~FF~}#044#023
+=~09~~0A~M16-X       :=~02~~02~~01~=~07~~FF~#023
+;000BA0BB{=~09~~0C~LONG-HAUL   :==~02~~01~=CAPTURED=~03~~01~=RELEASED=~FF~}#064#043
+=~09~~0C~DISTANCIA   :==~02~~01~=CAUTIVO =~03~~01~=LIBERADO=~FF~#043
+|500
+@000BA108-000BA50F-00
+;000BA108{~01~~02~~02~MALONE HAS CHANGED HIS TACTICS.=~D3~~01~~02~~02~HE IS USING A FULL FORCE AIR STRIKE=~FF~~01~~02~~03~AND ATTACKING CIVILIAN TARGETS=~FF~~01~~02~~04~IN NEW YORK CITY.=~A6~~01~~02~~02~THIS HAS CAUSED WIDESPREAD PANIC ON=~FF~~01~~02~~03~THE GROUND. FLEEING CIVILIANS HAVE=~FF~~01~~02~~04~PINNED DOWN OUR GROUND TROOPS.=~A6~~01~~02~~02~WE NEED YOU TO AIRLIFT IN THERE AND=~FF~~01~~02~~03~TAKE OUT THE MALONE BUILDING COMMAND=~FF~~01~~02~~04~CENTER.                       =~A6~~01~~02~~02~CIVILIANS ARE TRAPPED IN UPPER     =~FF~~01~~02~~03~STORIES OF BURNING SKYSCRAPERS. HIS =~FF~~01~~02~~04~TROOPS ARE KEEPING RESCUE AWAY.=~A6~~01~~02~~02~TAKE OUT AS MANY OF THE ENEMY =~FF~~01~~02~~03~AIRCRAFT AS YOU CAN FIND.           =~FF~~01~~02~~04~THIS WILL SLOW THE ATTACK.     =~A6~~01~~02~~02~THEN FIGURE OUT WHAT YOU CAN DO TO    =~FF~~01~~02~~03~RESCUE THOSE CIVILIANS & MOVE THEM=~FF~~01~~02~~04~TO A SECURE AREA. SPECIAL INFO. . .=~A6~~01~~02~~02~JUST ARRIVED STATES THAT THE NAFTA =~FF~~01~~02~~03~LEADERS ARE MEETING IN THE WORLD  =~FF~~01~~02~~04~TRADE CENTER WHICH HAS BEEN IN. . .=~A6~~01~~02~~02~THE CENTER OF THIS CONFUSION.     =~FF~~01~~02~~03~WE BELIEVE THEY ARE BEING HELD  =~FF~~01~~02~~04~HOSTAGE.                           =~A6~~01~~02~~02~BE ON YOUR TOES. GOOD LUCK.  =~FF~~01~~02~~03~                              =~FF~~01~~02~~04~        =~A6~~FF~}#1371#1032
+~01~~02~~02~
+MALONE HA CAMBIADO SUS TÁCTICAS.=~D3~~01~~02~~02~
+USA UN ATAQUE AÉREO TOTAL Y ESTÁ=~FF~~01~~02~~03~
+ATACANDO OBJETIVOS CIVILES EN NEW=~FF~~01~~02~~04~
+YORK.=~A6~~01~~02~~02~
+ESTO HA PROVOCADO UN PÁNICO GENERAL=~FF~~01~~02~~03~
+EN TIERRA. LOS CIVILES HAN       =~FF~~01~~02~~04~
+INMOVILIZADO A LAS TROPAS DE TIERRA.=~A6~~01~~02~~02~
+NECESITAMOS QUE VUELES PARA ALLÁ Y =~FF~~01~~02~~03~
+DERRIBES EL EDIFICIO CENTRO DE MANDO=~FF~~01~~02~~04~
+DE MALONE.                          =~A6~~01~~02~~02~
+HAY CIVILES ATRAPADOS EN LAS PLANTAS=~FF~~01~~02~~03~
+ALTAS DE LOS RASCACIELOS EN LLAMAS. =~FF~~01~~02~~04~
+LAS TROPAS IMPIDEN EL RESCATE.=~A6~~01~~02~~02~
+ELIMINA A TANTAS NAVES ENEMIGAS COMO=~FF~~01~~02~~03~
+PUEDAS ENCONTRAR.                  =~FF~~01~~02~~04~
+RALENTIZARÁ EL ATAQUE.        =~A6~~01~~02~~02~
+ENTONCES AVERIGUA QUÉ PUEDES HACER    =~FF~~01~~02~~03~
+PARA RESCATAR A LOS CIVILES Y =~FF~~01~~02~~04~
+LLÉVALOS A ZONA SEGURA. INFO. . .  =~A6~~01~~02~~02~
+ACABA DE LLEGAR QUE LOS LÍDERES DE =~FF~~01~~02~~03~
+LA NAFTA SE REÚNEN EN EL WORLD TRADE=~FF~~01~~02~~04~
+CENTER QUE HA SIDO. . .           =~A6~~01~~02~~02~
+EL CENTRO DE ESTA CONFUSIÓN.      =~FF~~01~~02~~03~
+CREEMOS QUE ESTÁN SIENDO RETENIDOS. =~FF~~01~~02~~04~
+                       =~A6~~01~~02~~02~
+ESTATE ATENTO. BUENA SUERTE.=~FF~~01~~02~~03~
+                                   =~FF~~01~~02~~04~
+           =~A6~~FF~#1032
+|1032
+@000BA56C-000BA71B-00
+;000BA56C{~02~~02~~17~My best plans lie in ruins!=~FF~~02~~02~~18~I can't believe he tore =~FF~~02~~02~~19~through my airforce!=~A6~~02~~02~~18~                         =~FF~~02~~02~~19~                    =~FF~~02~~02~~17~Who is this pilot anyway?! =~D8~~02~~02~~17~Blasting New York City was=~FF~~02~~02~~18~just a test of my laser's=~FF~~02~~02~~19~true powers.=~C4~~02~~02~~17~                          =~FF~~02~~02~~18~                         =~FF~~02~~02~~19~            =~FF~~02~~02~~17~Let's see how well he operates=~FF~~02~~02~~18~when I take out their top=~FF~~02~~02~~19~military and political leaders!=~A6~~FF~~FF~}#618#432
+~02~~02~~17~
+Mis planes arruinados!=~FF~~02~~02~~18~
+No me creo que destrozara mi fuerza=~FF~~02~~02~~19~
+aérea!=~A6~~02~~02~~18~
+                                   =~FF~~02~~02~~19~
+      =~FF~~02~~02~~17~
+Pero quién es este piloto?!=~D8~~02~~02~~17~
+Explotar Nueva York solo era una=~FF~~02~~02~~18~
+prueba del poder de mi láser.=~FF~~02~~02~~19~
+             =~C4~~02~~02~~17~
+                                =~FF~~02~~02~~18~
+                             =~FF~~02~~02~~19~
+=~FF~~02~~02~~17~
+Veamos cuan bien maneja cuando=~FF~~02~~02~~18~
+elimine a sus líderes líderes=~FF~~02~~02~~19~
+militares y políticos!        =~A6~~FF~~FF~#432
+|432
+@000BA764-000BA818-FF
+;000BA764{=~09~~06~FINANCIAL HQ   :==~02~~01~=WORKING=~03~~01~=SMASHED=~FF~}#065#044
+=~09~~06~CG FINANZAS    :==~02~~01~=TRABAJA=~03~~01~=APLASTA=~FF~#044
+;000BA790{=~09~~08~20 CIVILIANS   :=~02~~02~~01~=~05~~FF~}#047#026
+=~09~~08~20 CIVILES     :=~02~~02~~01~=~05~~FF~#026
+;000BA7AA{=~09~~0A~ENEMY CHOPPERS :=~02~~02~~01~=~0A~~FF~}#047#026
+=~09~~0A~CHOPPERS ENEMI.:=~02~~02~~01~=~0A~~FF~#026
+;000BA7C4{=~09~~0C~16 NAFTA MEMB. :==~02~~01~=AT RISK=~03~~01~=RESCUED=~FF~}#065#044
+=~09~~0C~16 MIEMB. NAFTA:==~02~~01~=RIESGO =~03~~01~=SALVADO=~FF~#044
+;000BA7F0{=~09~~0E~TRADE CENTER   :==~02~~01~=BOMB=~03~~01~=DEFUSED=~FF~}#062#041
+=~09~~0E~TRADE CENTER   :==~02~~01~=BOM.=~03~~01~=DESACT.=~FF~#041
+|181
+@000BA8B4-000BAE07-00
+;000BA8B4{~01~~04~~18~Select the correct wire to cut.=~01~~04~~19~Press A, B or C.=~FF~~01~~02~~02~LAS VEGAS IS UNDER SIEGE!=~D8~~01~~02~~02~MALONE'S FORCES HAVE SEALED OFF THE=~FF~~01~~02~~03~CITY AND ARE PATROLLING THE MAIN=~FF~~01~~02~~04~VEGAS STRIP.=~A6~~01~~02~~02~MALONE'S HEADQUARTERS ARE HEAVILY   =~FF~~01~~02~~03~DEFENDED.                       =~FF~~01~~02~~04~            =~A6~~01~~02~~02~YOU WILL NEED TO TAKE BACK       =~FF~~01~~02~~03~THE CITY BEFORE ATTEMPTING=~FF~~01~~02~~04~AN ASSAULT ON HIS FORTRESS.=~A6~~01~~02~~02~FURTHER ATTACKS OF MALONE'S LASER ON=~FF~~01~~02~~03~NORAD & AIRFORCE ONE HAVE ALLOWED=~FF~~01~~02~~04~US TO ZERO IN ON ITS LOCATION.=~A6~~01~~02~~02~                                    =~FF~~01~~02~~03~                                 =~FF~~01~~02~~04~                              =~FF~~03~~0D~~18~YES! NOW I CAN HURT HIM=~FF~~03~~0D~~19~WHERE IT COUNTS . . .=~C4~~03~~0D~~18~AND PAY HIM BACK FOR EGO!=~FF~~03~~0D~~19~                     =~C4~~03~~0D~~18~                          =~FF~~01~~02~~02~TRIANGULATING THE BEAMS INDICATES  =~FF~~01~~02~~03~THAT MALONE HAS THE SUPER WEAPON  =~FF~~01~~02~~04~IN A HIDDEN BASE NEAR LAS VEGAS.=~A6~~01~~02~~02~IN ORDER TO SECURE THE CITY,     =~FF~~01~~02~~03~NEUTRALIZE ALL ENEMY RADAR      =~FF~~01~~02~~04~AND WEAPONRY.                   =~A6~~01~~02~~02~ONCE THE CITY IS SECURED, CLEAR A=~FF~~01~~02~~04~ATERRIZAJE   AT MALONE'S CASINO =~FF~~01~~02~~04~AND LAND FOR A GROUND ASSAULT.  =~A6~~01~~02~~02~                                 =~FF~~01~~02~~03~                                =~FF~~01~~02~~04~                                =~FF~~03~~0D~~18~TELL INTELLIGENCE=~FF~~03~~0D~~19~THEY OUTDID...=~C4~~03~~0D~~18~THEMSELVES       =~FF~~03~~0D~~19~ON THIS ONE...=~C4~~03~~0D~~18~MAYBE I WILL=~FF~~03~~0D~~19~FINALLY GET TO...=~C4~~03~~0D~~18~MEET THIS SCUMBAG=~FF~~03~~0D~~19~FACE TO FIST!    =~C4~~FF~~FF~}#1883#1364
+~01~~04~~18~
+Elige el cable a cortar.       =~01~~04~~19~
+Pulsa A, B o C. =~FF~~01~~02~~02~
+LAS VEGAS BAJO ASEDIO!   =~D8~~01~~02~~02~
+LAS FUERZAS DE MALONE HAN SITIADO=~FF~~01~~02~~03~
+LA CIUDAD Y PATRULLAN LA FRANJA DE=~FF~~01~~02~~04~
+LAS VEGAS.=~A6~~01~~02~~02~
+EL CUARTEL DE MALONE ESTÁ        =~FF~~01~~02~~03~
+FUERTEMENTE DEFENDIDO.            =~FF~~01~~02~~04~
+          =~A6~~01~~02~~02~
+NECESITARÁS RECUPERAR LA CIUDAD=~FF~~01~~02~~03~
+ANTES DE INTENTAR UN ASALTO A SU=~FF~~01~~02~~04~
+FORTALEZA.=~A6~~01~~02~~02~
+NUEVOS ATAQUES DEL LÁSER DE MALONE A=~FF~~01~~02~~03~
+LA NORAD Y LA FUERZA AÉREA NOS HAN=~FF~~01~~02~~04~
+PERMITIDO CALCULAR SU POSICIÓN.=~A6~~01~~02~~02~
+                                    =~FF~~01~~02~~03~
+                                  =~FF~~01~~02~~04~
+                               =~FF~~03~~0D~~18~
+SÍ! AHORA PUEDO HERIRLE=~FF~~03~~0D~~19~
+DONDE DUELE...       =~C4~~03~~0D~~18~
+Y DEVOLVERLE LO DE EGO!=~FF~~03~~0D~~19~
+                            =~C4~~03~~0D~~18~
+                       =~FF~~01~~02~~02~
+LA TRIANGULACIÓN DE LOS RAYOS INDICA=~FF~~01~~02~~03~
+QUE MALONE TIENE LA SÚPER ARMA EN=~FF~~01~~02~~04~
+UNA BASE OCULTA CERCA.=~A6~~01~~02~~02~
+PARA ASEGURAR LA CIUDAD,            =~FF~~01~~02~~03~
+NEUTRALIZA TODOS LOS RADARES     =~FF~~01~~02~~04~
+ENEMIGOS Y SU ARMAMENTO.=~A6~~01~~02~~02~
+UNA VEZ LA CIUDAD ESTÉ SEGURA,=~FF~~01~~02~~03~
+DESPEJA EL ATERRIZAJE DEL CASINO DE=~FF~~01~~02~~04~
+MALONE Y ATERRIZA PARA ASALTARLO.  =~A6~~01~~02~~02~
+                              =~FF~~01~~02~~03~
+                                   =~FF~~01~~02~~04~
+                                 =~FF~~03~~0D~~18~
+DILES A INTELIGENCIA QUE=~FF~~03~~0D~~19~
+ESTA VEZ...=~C4~~03~~0D~~18~
+SE HAN SUPERADO...      =~FF~~03~~0D~~19~
+                         =~C4~~03~~0D~~18~
+QUIZÁ AL FINAL PUEDA=~FF~~03~~0D~~19~
+CONOCER...=~C4~~03~~0D~~18~
+A ESTE MIERDA CARA A=~FF~~03~~0D~~19~
+PUÑO!        =~C4~~FF~~FF~#1364
+|1364
+@000BAE72-000BAF62-FF
+;000BAE72{=~09~~06~RADAR CMNDR :==~02~~01~=AT LARGE=~03~~01~=CAPTURED=~FF~}#064#043
+=~09~~06~CMNDT RADAR :==~02~~01~=SUELTO  =~03~~01~=CAPTURA =~FF~#043
+;000BAE9D{=~09~~07~RADAR UNITS :=~02~~02~~01~=~0A~~FF~}#044#023
+=~09~~07~UNID. RADAR :=~02~~02~~01~=~0A~~FF~#023
+;000BAEB4{=~09~~08~ROAD BLOCKS :=~02~~02~~01~=~04~~FF~}#044#023
+=~09~~08~BARRICADAS  :=~02~~02~~01~=~04~~FF~#023
+;000BAECB{=~09~~09~SAMS-MGVS   :=~02~~02~~01~=~0F~~FF~}#044#023
+=~09~~09~SAMS-MGVS   :=~02~~02~~01~=~0F~~FF~#023
+;000BAEE2{=~09~~0A~POWER GRID  :==~02~~01~=OPERATING=~03~~01~=DESTROYED=~FF~}#066#045
+=~09~~0A~RED ELÉCTRI.:==~02~~01~=OPERATIVA=~03~~01~=DESTRUIDA=~FF~#045
+;000BAF0F{=~09~~0B~CASINO      :==~02~~01~=GUARDED=~03~~01~=CLEARED=~FF~}#062#041
+=~09~~0B~CASINO      :==~02~~01~=PROTEG.=~03~~01~=LIMPIO =~FF~#041
+;000BAF38{=~09~~0C~LANDING PAD :==~02~~01~=INFESTED=~03~~01~=CAPTURED=~FF~}#064#043
+=~09~~0C~ATERRIZAJE  :==~02~~01~=INFESTA.=~03~~01~=CAPTURA =~FF~#043
+|241
+@000BAFAC-000BB1C5-FF
+;000BAFAC{=~09~~06~PIT BOSSES  :==~02~~01~=IN COMMAND=~03~~01~=NEUTRALIZED=~FF~}#069#048
+=~09~~06~JEFES SALA  :==~02~~01~=AL MANDO  =~03~~01~=NEUTRALIZA =~FF~#048
+;000BAFDC{=~09~~08~CASHIER     :==~02~~01~=INTACT=~03~~01~=DESTROYED=~FF~}#063#042
+=~09~~08~CAJERO      :==~02~~01~=INTAC.=~03~~01~=DESTRUIDO=~FF~#042
+;000BB006{=~09~~0A~V.I.P.      :==~02~~01~=CAPTIVE=~03~~01~=RELEASED=~FF~}#063#042
+=~09~~0A~V.I.P.      :==~02~~01~=CAUTIVO=~03~~01~=LIBERADO=~FF~#042
+;000BB030{=~09~~0C~MACHINE GUNS:==~02~~01~=OPERATING=~03~~01~=DESTROYED=~FF~}#066#045
+=~09~~0C~METRALLETAS :==~02~~01~=OPERATIVA=~03~~01~=DESTRUIDA=~FF~#045
+;000BB05D{=~09~~0E~SHUTTLE CAR :==~02~~01~=OFF=~03~~01~=READY=~FF~}#056#035
+=~09~~0E~LANZADERA   :==~02~~01~=NO =~03~~01~=LISTO=~FF~#035
+;000BB080{=========~07~=~09~~07~HEAVY WEAPONS:=~02~~02~~01~=~0C~~FF~}#058#034
+=========~07~=~09~~07~
+ARMAS PESADAS:=~02~~02~~01~=~0C~~FF~#034
+;000BB0A2{=~09~~08~BARRACKS     :=~02~~02~~01~=~02~~FF~}#045#024
+=~09~~08~CUARTELES    :=~02~~02~~01~=~02~~FF~#024
+;000BB0BA{=~09~~09~CNTL STATION :==~02~~01~=OPERATING=~03~~01~=DESTROYED=~FF~}#067#046
+=~09~~09~ESTACIÓN CTRL:==~02~~01~=OPERATIVA=~03~~01~=DESTRUIDA=~FF~#046
+;000BB0E8{=~09~~0A~LASER CONTROL:==~02~~01~=OPERATING=~03~~01~=DESTROYED=~FF~}#067#046
+=~09~~0A~CONTROL LÁSER:==~02~~01~=OPERATIVA=~03~~01~=DESTRUIDO=~FF~#046
+;000BB116{=~09~~0B~LASER HOUSING:==~02~~01~=INTACT=~03~~01~=DESTROYED=~FF~}#064#043
+=~09~~0B~CARCASA LÁSER:==~02~~01~=INTAC.=~03~~01~=DESTRUIDA=~FF~#043
+;000BB141{=~09~~0C~MALONES QTRS :==~02~~01~=STANDING=~03~~01~=DESTROYED=~FF~}#066#045
+=~09~~0C~CUARTO MALONE:==~02~~01~=ERGUIDO =~03~~01~=DESTRUIDO=~FF~#045
+;000BB16E{=~09~~0D~MALONE       :==~02~~01~=AT LARGE=~03~~01~=CAPTURED=~FF~}#065#044
+=~09~~0D~MALONE       :==~02~~01~=SUELTO  =~03~~01~=CAPTURA =~FF~#044
+;000BB19A{=~09~~0E~LASER UNIT   :==~02~~01~=DAMAGED=~03~~01~=DESTROYED=~FF~}#065#044
+=~09~~0E~UNIDAD LÁSER :==~02~~01~=DAÑADA =~03~~01~=DESTRUIDA=~FF~#044
+|538
+@000BBD8E-000BC210-FF
+;000BBD8E{ Destroyed=~FF~}#015#012
+ Destruido=~FF~#012
+;000BBD9A{ Protected=~FF~}#015#012
+ Protegido=~FF~#012
+;000BBDA6{ Set=~FF~}#009#006
+ Pst=~FF~#006
+;000BBDAC{ Captured=~FF~}#014#011
+ Captura=\~FF~#011
+;000BBDB7{ Escaped=~FF~}#013#010
+ Escapa=\~FF~#010
+;000BBDC1{ Detonated=~FF~}#015#012
+ Detonado=\~FF~#012
+;000BBDCD{ Recovered=~FF~}#015#012
+ Recupera=\~FF~#012
+;000BBDD9{ Rescued=~FF~}#013#010
+ Rescata=~FF~#010
+;000BBDE3{ Abandoned=~FF~}#015#012
+ Abandona=\~FF~#012
+;000BBDEF{ Blasted=~FF~}#013#010
+ Volado=\~FF~#010
+;000BBDF9{ Opened=~FF~}#012#009
+ Abre=\ ~FF~#009
+;000BBE02{ Killed=~FF~}#012#009
+ Matado=~FF~#009
+;000BBE0B{ Drowned=~FF~}#013#010
+ Ahogado=~FF~#010
+;000BBE15{ Sighted=~FF~}#013#010
+ Visto=\ ~FF~#010
+;000BBE1F{ Eliminated=~FF~}#016#013
+ Eliminado=\~FF~#013
+;000BBE2C{ Retrieved=~FF~}#015#012
+ Recupera.=~FF~#012
+;000BBE38{ Confiscated=~FF~}#017#014
+ Confiscado=\~FF~#014
+;000BBE46{ acquired=~FF~}#014#011
+ adquiere=~FF~#011
+;000BBE51{ Escorted=~FF~}#014#011
+ Escolta=\~FF~#011
+;000BBE5C{ Lost=~FF~}#010#007
+ Prdo=~FF~#007
+;000BBE63{ Found=~FF~}#011#008
+ Encdo=~FF~#008
+;000BBE6B{ Nuked=~FF~}#011#008
+ Dstdo=~FF~#008
+;000BBE73{ Knocked Out=~FF~}#017#014
+ Noqueado=\  ~FF~#014
+;000BBE81{ BOMB!=~FF~}#011#008
+ BOMBA=~FF~#008
+;000BBE89{ENEMY WEAPONS=~FF~}#018#015
+ARMAS ENEMIG.=~FF~#015
+;000BBE98{MOHICAN TECHNOLOGY=~FF~}#023#020
+TECNOLOGÍA MOHICAN=~FF~#020
+;000BBEAC{AMMO CRATE=~FF~}#015#012
+MUNICIÓN=\ ~FF~#012
+;000BBEB8{REPARA ARMD.=~FF~}#017#014
+REPARA ARMD.=~FF~#014
+;000BBEC6{AIRSTRIKE BEACON=~FF~}#021#018
+BALIZA AT. AÉREO=~FF~#018
+;000BBED8{ENEMY BUILDING=~FF~}#019#016
+EDIFICIO ENEM.=~FF~#016
+;000BBEE8{ENEMY TROOPS=~FF~}#017#014
+TROPAS ENEM.=~FF~#014
+;000BBEF6{CIVILIAN BLDG=~FF~}#018#015
+EDIFIC. CIVIL=~FF~#015
+;000BBF05{SMART BOMB=~FF~}#015#012
+BOM. LISTA=~FF~#012
+;000BBF11{BRIDGE BOMB=~FF~}#016#013
+BOM. PUENTE=~FF~#013
+;000BBF1E{BLUE PRINTS=~FF~}#016#013
+PLANOS=\    ~FF~#013
+;000BBF2B{BAY BRIDGE=~FF~}#015#012
+PUE. BAHÍA=~FF~#012
+;000BBF37{CASINO=~FF~}#011#008
+CASINO=~FF~#008
+;000BBF3F{CIVILIAN=~FF~}#013#010
+CIVIL=\  ~FF~#010
+;000BBF49{CIVILIAN VEHICLE=~FF~}#021#018
+VEHÍCULO CIVIL=\ ~FF~#018
+;000BBF5B{CELL DOOR=~FF~}#014#011
+PU. CELDA=~FF~#011
+;000BBF66{COPILOT=~FF~}#012#009
+ESCOLTA=~FF~#009
+;000BBF6F{ENEMY COMMANDER=~FF~}#020#017
+COMANDANTE ENE.=~FF~#017
+;000BBF80{FRIENDLY TROOPS=~FF~}#020#017
+TROPAS AMISTOS.=~FF~#017
+;000BBF91{ENEMY CHOPPER=~FF~}#018#015
+CHOPPER ENEM.=~FF~#015
+;000BBFA0{THE KING=~FF~}#013#010
+EL REY=\ ~FF~#010
+;000BBFAA{IMPERSONATOR=~FF~}#017#014
+IMITADOR=\   ~FF~#014
+;000BBFB8{ENEMY EQUIPMENT=~FF~}#020#017
+EQUIPO ENEMIGO=\~FF~#017
+;000BBFC9{ENTRANCE=~FF~}#013#010
+ENTRADA=\~FF~#010
+;000BBFD3{ERADICATION BOMB=~FF~}#021#018
+BO. ERRADICACIÓN=~FF~#018
+;000BBFE5{ENEMY VEHICLE=~FF~}#018#015
+VEHÍCULO ENE.=~FF~#015
+;000BBFF4{BIDONES   =~FF~}#015#012
+BIDONES=\  ~FF~#012
+;000BC000{FRIENDLY TROOPS=~FF~}#020#017
+TROPAS AMISTOS.=~FF~#017
+;000BC011{VIP=~FF~}#008#005
+VIP=~FF~#005
+;000BC016{GAS STATION=~FF~}#016#013
+GASOLINERA=\~FF~#013
+;000BC023{ =~FF~}#006#003
+ =~FF~#003
+;000BC026{ =~FF~}#006#003
+ =~FF~#003
+;000BC029{ =~FF~}#006#003
+ =~FF~#003
+;000BC02C{ =~FF~}#006#003
+ =~FF~#003
+;000BC02F{ =~FF~}#006#003
+ =~FF~#003
+;000BC032{ =~FF~}#006#003
+ =~FF~#003
+;000BC035{ =~FF~}#006#003
+ =~FF~#003
+;000BC038{GREEN BERET=~FF~}#016#013
+BOINA VERDE=~FF~#013
+;000BC045{M16X=~FF~}#009#006
+M16X=~FF~#006
+;000BC04B{CIVILIAN HOME=~FF~}#018#015
+CASA CIVIL=\  ~FF~#015
+;000BC05A{LASER=~FF~}#010#007
+LÁSER=~FF~#007
+;000BC061{QUICK LADDER=~FF~}#017#014
+ESCALERA RÁ.=~FF~#014
+;000BC06F{EXTRA LIFE=~FF~}#015#012
+VIDA EXTRA=~FF~#012
+;000BC07B{ATERRIZAJE  =~FF~}#017#014
+ATERRIZAJE=\ ~FF~#014
+;000BC089{ATERRIZAJE  =~FF~}#017#014
+ATERRIZAJE=\ ~FF~#014
+;000BC097{SCORPION CHOPPER=~FF~}#021#018
+CHOPPER SCORPION=~FF~#018
+;000BC0A9{MASH=~FF~}#009#006
+MASH=~FF~#006
+;000BC0AF{MISSING COPILOT=~FF~}#020#017
+ESCOLTA PERDIDO=~FF~#017
+;000BC0C0{MIRROR=~FF~}#011#008
+ESPEJO=~FF~#008
+;000BC0C8{PARATROOPER=~FF~}#016#013
+PARACAIDIS.=~FF~#013
+;000BC0D5{COPILOT=~FF~}#012#009
+ESCOLTA=~FF~#009
+;000BC0DE{EQUIPMENT PLANS=~FF~}#020#017
+PLANES EQUIPO=\ ~FF~#017
+;000BC0EF{PLASTIC SURGEON=~FF~}#020#017
+CIRUJANO PLÁST.=~FF~#017
+;000BC100{POLICE CARS=~FF~}#016#013
+CO. POLICÍA=~FF~#013
+;000BC10D{SPECIAL FORCES=~FF~}#019#016
+FUERZAS ESPEC.=~FF~#016
+;000BC11D{PRISONERS=~FF~}#014#011
+PRESOS=\  ~FF~#011
+;000BC128{POWER STATION=~FF~}#018#015
+CENTRAL ELÉC.=~FF~#015
+;000BC137{RADAR SITES=~FF~}#016#013
+SITIO RADAR=~FF~#013
+;000BC144{CARGO=~FF~}#010#007
+CARGO=~FF~#007
+;000BC14B{MALONE=~FF~}#011#008
+MALONE=~FF~#008
+;000BC153{MALONE HQ=~FF~}#014#011
+CG MALONE=~FF~#011
+;000BC15E{BAZOOKA=~FF~}#012#009
+BAZUCA=\~FF~#009
+;000BC167{ =~FF~}#006#003
+ =~FF~#003
+;000BC16A{TERRORIST SNIPER=~FF~}#021#018
+FRANCOTIRADOR T.=~FF~#018
+;000BC17C{ENEMY SPEEDBOAT=~FF~}#020#017
+LANCHA ENEMIGA=\~FF~#017
+;000BC18D{SECRET AGENT=~FF~}#017#014
+AGENTE SECR.=~FF~#014
+;000BC19B{HE HAS A=~FF~}#013#010
+TIENE UN=~FF~#010
+;000BC1A5{SWIMMER=~FF~}#012#009
+NADADOR=~FF~#009
+;000BC1AE{TERRORIST=~FF~}#014#011
+TERRORIS.=~FF~#011
+;000BC1B9{MALONE=~FF~}#011#008
+MALONE=~FF~#008
+;000BC1C1{TERRORIST LEADER=~FF~}#021#018
+LÍDER TERRORISTA=~FF~#018
+;000BC1D3{TRUCKS=~FF~}#011#008
+CAMIÓ.=~FF~#008
+;000BC1DB{U.N. FLAG=~FF~}#014#011
+BAND. ONU=~FF~#011
+;000BC1E6{VEHICLE=~FF~}#012#009
+VEHÍCU.=~FF~#009
+;000BC1EF{FRIENDLY VIP=~FF~}#017#014
+VIP AMISTOSO=~FF~#014
+;000BC1FD{WORLD TRADE CENTER=~FF~}#023#020
+WORLD TRADE CENTER=~FF~#020
+|1155
+@000BC7C9-000BCBF4-80
+;000BC7C9{~01~~02~~02~You took out the doctor! Your=~FF~~01~~02~~03~career is going to need some =~FF~~01~~02~~04~reconstructive surgery!=~80~}#132#096
+~01~~02~~02~
+Mataste al doctor! Tu carrera va a=~FF~~01~~02~~03~
+necesitar un poco de cirugía=~FF~~01~~02~~04~
+reconstructiva!    =~80~#096
+;000BC829{~FF~~01~~02~~02~Smart thinking! Without a landing=~FF~~01~~02~~03~zone you can have a full load of=~FF~~01~~02~~04~passengers and no place to go!=~80~}#150#111
+~FF~~01~~02~~02~
+Bien pensado! Sin una zona de    =~FF~~01~~02~~03~
+aterrizaje puedes tener muchos  =~FF~~01~~02~~04~
+pasajeros y no a dónde ir!    =~80~#111
+;000BC898{~FF~~01~~02~~02~You broke the mirrors! That's=~FF~~01~~02~~03~some serious bad luck! This will=~FF~~01~~02~~04~reflect badly on your record!=~80~}#145#106
+~FF~~01~~02~~02~
+Rompiste los espejos! Eso es mucha =~FF~~01~~02~~03~
+mala suerte! Esto se verá muy mal en=~FF~~01~~02~~04~
+tu expediente!     =~80~#106
+;000BC902{~FF~~01~~02~~02~Who's side are you on?=~FF~~01~~02~~03~Next time don't shoot the=~FF~~01~~02~~04~Special Forces members!=~80~}#125#086
+~FF~~01~~02~~02~
+De qué lado estás?=~FF~~01~~02~~03~
+La próxima vez no dispares a las=~FF~~01~~02~~04~
+Fuerzas Especiales! =~80~#086
+;000BC958{~FF~~01~~02~~02~Well, that threw a wrench=~FF~~01~~02~~03~in it! You destroyed=~FF~~01~~02~~04~your own chopper!=~80~}#117#078
+~FF~~01~~02~~02~
+Bueno, tiraste un cabestrante!    =~FF~~01~~02~~03~
+Destruiste tu propio helicóptero!=~80~#078
+;000BC9A6{~FF~~01~~02~~02~Bad delivery!=~FF~~01~~02~~03~Maybe you should be working=~FF~~01~~02~~04~for the postal service!=~80~}#118#079
+~FF~~01~~02~~02~
+Mala entrega!=~FF~~01~~02~~03~
+Quizá deberías trabajar para el=~FF~~01~~02~~04~
+servicio postal!   =~80~#079
+;000BC9F5{~FF~~01~~02~~02~That mission is a wash!=~FF~~01~~02~~03~There goes your guest appearance on=~FF~~01~~02~~04~Love Boat!=~80~}#123#084
+~FF~~01~~02~~02~
+Qué fracaso!=~FF~~01~~02~~03~
+Ahí va tu aparición especial en=~FF~~01~~02~~04~
+Vacaciones en el Mar!    =~80~#084
+;000BCA49{~FF~~01~~02~~02~That mission is a wash!=~FF~~01~~02~~03~There goes your guest appearance on=~FF~~01~~02~~04~Love Boat!=~80~}#123#084
+~FF~~01~~02~~02~
+Qué fracaso!=~FF~~01~~02~~03~
+Ahí va tu aparición especial en=~FF~~01~~02~~04~
+Vacaciones en el Mar!    =~80~#084
+;000BCA9D{~FF~~01~~02~~02~You really sunk up the place with=~FF~~01~~02~~03~with that one. That was 'sub'=~FF~~01~~02~~04~standard performance!=~80~}#138#099
+~FF~~01~~02~~02~
+Realmente hundiste el lugar con ese.=~FF~~01~~02~~03~
+Ese fue un rendimiento sub-normal!  =~FF~~01~~02~~04~
+           =~80~#099
+;000BCB00{~FF~~01~~02~~02~Bad delivery!=~FF~~01~~02~~03~Maybe you should be working for the=~FF~~01~~02~~04~postal service!=~80~}#118#079
+~FF~~01~~02~~02~
+Mala entrega!=~FF~~01~~02~~03~
+Quizá deberías trabajar para el=~FF~~01~~02~~04~
+servicio postal!   =~80~#079
+;000BCB4F{~FF~~01~~02~~02~Well, that threw a wrench in it! You=~FF~~01~~02~~03~destroyed your own chopper!=~80~}#101#074
+~FF~~01~~02~~02~
+Bueno, tiraste un cabestrante!=~FF~~01~~02~~03~
+Destruiste tu propio helicóptero!=~80~#074
+;000BCB99{~FF~~02~~02~~02~Quit the sight seeing.=~FF~~02~~02~~03~Next time try getting out before=~FF~~02~~02~~04~the bombers get there!=~80~}#131#092
+~FF~~02~~02~~02~
+Deja de observar.  =~FF~~02~~02~~03~
+La próxima vez intenta que los=~FF~~02~~02~~04~
+bombarderos no lleguen ahí!=~80~#092
+|1068
+@000BCBF5-000BD028-80
+;000BCBF5{~FF~~01~~02~~02~You chose poorly.=~FF~~01~~02~~03~The GAV's the only thing powerful=~FF~~01~~02~~04~enough to destroy another GAV!=~80~}#135#096
+~FF~~01~~02~~02~
+Elegiste mal.    =~FF~~01~~02~~03~
+El VAT es lo único con potencia para=~FF~~01~~02~~04~
+destruir a otro VAT!       =~80~#096
+;000BCC55{~FF~~01~~02~~02~Did you get your brains by mail?=~FF~~01~~02~~03~Where do you expect to place our=~FF~~01~~02~~04~wounded men?=~80~}#131#092
+~FF~~01~~02~~02~
+Recibiste el cerebro por correo?=~FF~~01~~02~~03~
+Dónde pensabas a dejar a los hombres=~FF~~01~~02~~04~
+heridos?=~80~#092
+;000BCCB1{~FF~~01~~02~~02~This isn't a game, commander! You've=~FF~~01~~02~~03~been playing too much 'Shockwave'=~FF~~01~~02~~04~and it's cost us some very good men! =~80~}#161#122
+~FF~~01~~02~~02~
+No es un juego, comandante! Has   =~FF~~01~~02~~03~
+estado jugando mucho a Shockwave y  =~FF~~01~~02~~04~
+nos costó la vida de buenos hombres!=~80~#122
+;000BCD2B{~FF~~01~~02~~02~The contractors perished! That=~FF~~01~~02~~03~wasn't in their contract! Good=~FF~~01~~02~~04~thing Legal wasn't flying with you!=~80~}#150#111
+~FF~~01~~02~~02~
+Los contratistas murieron! Eso no=~FF~~01~~02~~03~
+estaba en su contrato! Menos mal=~FF~~01~~02~~04~
+que Legal no volaba contigo!  =~80~#111
+;000BCD9A{~FF~~01~~02~~02~We needed those Blueprints!=~FF~~01~~02~~03~Without them we we don't know=~FF~~01~~02~~04~how to hot wire the new GAVs!=~80~}#140#101
+~FF~~01~~02~~02~
+Necesitábamos esos Planos! =~FF~~01~~02~~03~
+Sin ello no sabemos donde cablear=~FF~~01~~02~~04~
+los nuevos VATs!         =~80~#101
+;000BCDFF{~FF~~01~~02~~02~Oops! You managed to destroy=~FF~~01~~02~~03~the only bomb big enough to=~FF~~01~~02~~04~destroy the factory!=~80~}#130#091
+~FF~~01~~02~~02~
+Oops! Lograste destruir la única=~FF~~01~~02~~03~
+bomba con potencia para destruir la=~FF~~01~~02~~04~
+fábrica!=~80~#091
+;000BCE5A{~FF~~01~~02~~02~Oops! You managed to destroy=~FF~~01~~02~~03~the only bomb big enough to=~FF~~01~~02~~04~destroy the factory!=~80~}#130#091
+~FF~~01~~02~~02~
+Oops! Lograste destruir la única=~FF~~01~~02~~03~
+bomba con potencia para destruir la=~FF~~01~~02~~04~
+fábrica!=~80~#091
+;000BCEB5{~FF~~02~~02~~02~You sizzled your copilot!=~FF~~02~~02~~03~Without him, how are you going to=~FF~~02~~02~~04~bring your troops home?=~80~}#136#097
+~FF~~02~~02~~02~
+Chamuscaste a tu copiloto!=~FF~~02~~02~~03~
+Sin él, cómo vas a traer a tus=~FF~~02~~02~~04~
+tropas a casa?           =~80~#097
+;000BCF16{~FF~~01~~02~~02~The good news is: The traffic on=~FF~~01~~02~~03~the bridge is all cleared up. The=~FF~~01~~02~~04~bad news: so is everything else!=~80~}#152#113
+~FF~~01~~02~~02~
+La buena noticia: Ya no hay tráfico=~FF~~01~~02~~03~
+en el puente. La mala noticia:=~FF~~01~~02~~04~
+Todo lo demás!                  =~80~#113
+;000BCF87{~FF~~01~~02~~02~Hey slowpoke!=~FF~~01~~02~~03~You let the enemy commander escape=~FF~~01~~02~~04~to Alcatraz!=~80~}#114#075
+~FF~~01~~02~~02~
+Eh lento!=~FF~~01~~02~~03~
+Dejaste escapar al comandante=~FF~~01~~02~~04~
+enemigo a Alcatraz!  =~80~#075
+;000BCFD2{~FF~~02~~02~~02~Without those plans we'll never=~FF~~02~~02~~03~figure out how to stop his secret=~FF~~02~~02~~04~weapon!=~80~}#126#087
+~FF~~02~~02~~02~
+Sin los planos nunca averiguaremos=~FF~~02~~02~~03~
+como detener su arma secreta! =~FF~~02~~02~~04~
+       =~80~#087
+|1076
+@000BD029-000BD2A0-80
+;000BD029{~FF~~01~~02~~02~You blew it!=~FF~~01~~02~~03~There were too many civilian=~FF~~01~~02~~04~casualties!=~80~}#106#067
+~FF~~01~~02~~02~
+La fastidiaste!      =~FF~~01~~02~~03~
+Hubo demasiadas bajas civiles!     =~80~#067
+;000BD06C{~FF~~01~~02~~02~The idea was to SAVE the World=~FF~~01~~02~~03~Trade Center! Don't get so wired=~FF~~01~~02~~04~next time.=~80~}#127#088
+~FF~~01~~02~~02~
+La idea era SALVAR el World Trade=~FF~~01~~02~~03~
+Center! No te pongas así la próxima=~FF~~01~~02~~04~
+vez.=~80~#088
+;000BD0C4{~FF~~01~~02~~02~Nice shooting Tex!=~FF~~01~~02~~03~Now the Radar Commander is dancing =~FF~~01~~02~~04~with Elvis!=~80~}#119#080
+~FF~~01~~02~~02~
+Buen tiroteo Tex!=~FF~~01~~02~~03~
+Ahora el Comandante de Radar baila=~FF~~01~~02~~04~
+con Elvis!   =~80~#080
+;000BD114{~FF~~01~~02~~02~You Idiot! I have to inform you=~FF~~01~~02~~03~that V.I.P. does not stand for=~FF~~01~~02~~04~Vaporized Into Particles!=~80~}#141#102
+~FF~~01~~02~~02~
+Idiota! Tengo que informarte de que=~FF~~01~~02~~03~
+V.I.P. no significa Vaporizado En=~FF~~01~~02~~04~
+Partículas!       =~80~#102
+;000BD17A{~FF~~01~~02~~02~Bad luck! You caused one of the=~FF~~01~~02~~03~hostages to cash in his chips!=~FF~~01~~02~~04~You'll pay for this!=~80~}#136#097
+~FF~~01~~02~~02~
+Mala suerte! Hiciste que uno de los=~FF~~01~~02~~03~
+rehenes cobrara sus fichas!  =~FF~~01~~02~~04~
+Pagarás por esto!=~80~#097
+;000BD1DB{~FF~~02~~02~~02~You dope on a rope!=~FF~~02~~02~~03~You should have dropped Malone on=~FF~~02~~02~~04~the laser to destroy them both!=~80~}#138#099
+~FF~~02~~02~~02~
+Tonto de cuerda! Deberías haber=~FF~~02~~02~~03~
+dejado a Malone en el láser para=~FF~~02~~02~~04~
+destruirlos a ambos!=~80~#099
+;000BD23E{~FF~~02~~02~~02~You dope on a rope!=~FF~~02~~02~~03~You should have dropped Malone on=~FF~~02~~02~~04~the laser to destroy them both!=~80~}#138#099
+~FF~~02~~02~~02~
+Tonto de cuerda! Deberías haber=~FF~~02~~02~~03~
+dejado a Malone en el láser para=~FF~~02~~02~~04~
+destruirlos a ambos!=~80~#099
+|632
+@000BD362-000BD3D6-FF
+;000BD362{~04~~11~~06~Hey, 'Legal!'=~04~~11~~08~Beach party get a=~04~~11~~0A~little out of hand?=~04~~11~~0C~Wanna give them=~04~~11~~0E~something to=~04~~11~~10~remember you by?=~FF~}#174#117
+;LINE LENGTH 19
+~04~~11~~06~
+Eh, Legal! La=~04~~11~~08~
+fiesta en la playa =~04~~11~~0A~
+se descontroló?    =~04~~11~~0C~
+Quieres darles algo=~04~~11~~0E~
+por lo que=~04~~11~~10~
+recordarte? =~FF~#117
+|117
+@000BD4B8-000BD52F-FF
+;000BD4B8{~04~~11~~06~A cruise ship was=~04~~11~~08~just attacked and=~04~~11~~0A~is sinking! You=~04~~11~~0C~have less than=~04~~11~~0E~3 minutes to save=~04~~11~~10~the passengers!=~FF~}#177#120
+;LINE LENGTH 19
+~04~~11~~06~
+Un crucero acaba de=~04~~11~~08~
+ser atacado y se=~04~~11~~0A~
+hunde! Tienes menos=~04~~11~~0C~
+de 3 minutos para=~04~~11~~0E~
+salvar a los=~04~~11~~10~
+pasajeros!  =~FF~#120
+|120
+@000BD552-000BD5E4-FF
+;000BD552{~04~~11~~06~Hey, 'Stinger!'=~04~~11~~08~I'll bet when you=~04~~11~~0A~used to smuggle=~04~~11~~0C~cargo, you never=~04~~11~~0E~thought you'd get=~04~~11~~10~to 'be' cargo. Glad=~04~~11~~12~to have you aboard!=~FF~}#213#147
+;LINE LENGTH 19
+~04~~11~~06~
+Eh, Stinger!   =~04~~11~~08~
+Apuesto a que    =~04~~11~~0A~
+cuando eras un =~04~~11~~0C~
+contrabandista, =~04~~11~~0E~
+no pensaste que  =~04~~11~~10~
+serías la carga.   =~04~~11~~12~
+Nos alegra tenerte!=~FF~#147
+|147
+@000BD646-000BD6DF-FF
+;000BD646{~04~~10~~06~I'm sure glad you=~04~~10~~07~showed up!=~04~~10~~09~Set the A-button on=~04~~10~~0A~the airstrike beacon=~04~~10~~0B~and then get out!=~04~~10~~0D~Don't worry about=~04~~10~~0E~me. I know my way=~04~~10~~0F~out.=~FF~}#229#154
+;LINE LENGTH 20
+~04~~10~~06~
+Me alegra que hayas=~04~~10~~07~
+aparecido!=~04~~10~~09~
+Coloca el Botón-A=~04~~10~~0A~
+en la baliza del  =~04~~10~~0B~
+ataque aéreo y sal!=~04~~10~~0D~
+No te preocupes por=~04~~10~~0E~
+mi. Sé cómo salir.=~04~~10~~0F~
+ =~FF~#154
+|154
+@000BD814-000BD896-FF
+;000BD814{~04~~10~~06~My buddy's inside=~04~~10~~07~the armored barrack!=~04~~10~~09~He's been tortured!=~04~~10~~0A~You'll have to land=~04~~10~~0B~and get him out=~04~~10~~0C~before it blows!=~FF~}#188#131
+;LINE LENGTH 20
+~04~~10~~06~
+Mi amigo está en el=~04~~10~~07~
+cuartel blindado! =~04~~10~~09~
+Ha sido torturado! =~04~~10~~0A~
+Tendrás que  =~04~~10~~0B~
+aterrizar y sacarle=~04~~10~~0C~
+antes de explotar!=~FF~#131
+|131
+@000BD8BA-000BD952-FF
+;000BD8BA{~04~~10~~06~We have the plans!=~04~~10~~08~At 5000 points of=~04~~10~~0A~armor, It looks like=~04~~10~~0C~the GAVs are best=~04~~10~~0E~destroyed by another=~04~~10~~10~GAV! To hot wire it,=~04~~10~~12~blow fuse c.=~FF~}#219#153
+;LINE LENGTH 20
+~04~~10~~06~
+Tenemos los planos!=~04~~10~~08~
+Con 5000 puntos de=~04~~10~~0A~
+armadura, parece que=~04~~10~~0C~
+los VATs es mejor=~04~~10~~0E~
+destruirlos con=~04~~10~~10~
+otro! Para cablear,=~04~~10~~12~
+quita fusible c.=~FF~#153
+|153
+@000BDA0E-000BDA69-FF
+;000BDA0E{~04~~11~~06~Thanks for busting=~04~~11~~08~me out of there.=~04~~11~~0A~If you can cover=~04~~11~~0C~me, I'll lead you=~04~~11~~0E~out!=~FF~}#140#092
+;LINE LENGTH 19
+~04~~11~~06~
+Gracias por       =~04~~11~~08~
+sacarme de ahí. =~04~~11~~0A~
+Si puedes=~04~~11~~0C~
+cubrirme, te llevo=~04~~11~~0E~
+fuera!    =~FF~#092
+|92
+@000BDAD6-000BDB37-FF
+;000BDAD6{~04~~11~~06~I heard those guys=~04~~11~~08~inside say that=~04~~11~~0A~you should not=~04~~11~~0C~cut the green wire=~04~~11~~0E~on the bomb.=~FF~}#146#098
+;LINE LENGTH 19
+~04~~11~~06~
+He escuchado que no=~04~~11~~08~
+deberías cortar el =~04~~11~~0A~
+cable de color    =~04~~11~~0C~
+verde de la bomba.=~04~~11~~0E~
+   =~FF~#098
+|98
+@000BDB5D-000BDBB2-FF
+;000BDB5D{Whatever you do,=~04~~12~~09~don't cut the=~04~~12~~0B~Red wire!=~04~~12~~0D~I heard that would=~04~~12~~0F~be bad...=~FF~}#122#083
+;LINE LENGTH 18
+Hagas lo que hagas=~04~~12~~09~
+no cortes el cable=~04~~12~~0B~
+Rojo!=~04~~12~~0D~
+Oí que sería algo=~04~~12~~0F~
+malo...=~FF~#083
+;000BDBB0{=K=}#003#003
+=K=#003
+|86
+@000BDC08-000BDC6F-FF
+;000BDC08{~04~~12~~07~With some 'urging'=~04~~12~~09~I think we can get=~04~~12~~0B~him to tell us=~04~~12~~0D~where the radar=~04~~12~~0F~units are located.=~FF~}#152#104
+;LINE LENGTH 18
+~04~~12~~07~
+Insistiendo, creo =~04~~12~~09~
+que podemos hacer =~04~~12~~0B~
+que nos diga donde=~04~~12~~0D~
+están las unidades=~04~~12~~0F~
+de radar.  =~FF~#104
+|104
+@000BDCDC-000BDD73-FF
+;000BDCDC{~04~~11~~06~Malone's hideout is=~04~~11~~08~a warroom built=~04~~11~~0A~under a crater in=~04~~11~~0C~the Nevada desert.=~04~~11~~0E~There's a shuttle =~04~~11~~10~car under one of=~04~~11~~12~these change booths.=~FF~}#218#152
+;LINE LENGTH 19
+~04~~11~~06~
+El escondite de =~04~~11~~08~
+Malone es una sala=~04~~11~~0A~
+de guerra bajo un=~04~~11~~0C~
+cráter en Nevada. =~04~~11~~0E~
+Hay un coche    =~04~~11~~10~
+lanzadera bajo una=~04~~11~~12~
+de esas cabinas.    =~FF~#152
+|152
+@000BDEA4-000BE331-FF
+;000BDEA4{~02~~14~~03~SMART BOMB=~02~~14~~04~POWER: 1000=~03~~09~~0D~Pick this up and then=~03~~09~~0E~drop it in the middle=~03~~09~~0F~of a group of enemies.=~03~~09~~10~Then get out of the way.=~FF~}#191#134
+~02~~14~~03~
+BOMBA LISTA=~02~~14~~04~
+PODER:1000=~03~~0A~~0D~
+Recoge esto y entonces=~03~~0A~~0E~
+suéltala en medio de un=~03~~0A~~0F~
+grupo de enemigos. =~03~~0A~~10~
+Entonces apártate.      =~FF~#134
+;000BDF2A{~02~~02~=~19~~DE~~EE~=~19~~DC~~D2~~02~~14~~03~SMART BOMB=~02~~14~~04~POWER: 1000=~03~~09~~0D~Pick this up and then=~03~~09~~0E~drop it in the middle=~03~~09~~0F~of a group of enemies.=~03~~09~~10~Then get out of the way.=~FF~}#225#144
+~02~~02~=~19~~DE~~EE~=~19~~DC~~D2~~02~~14~~03~
+BOMBA LISTA=~02~~14~~04~
+PODER:1000=~03~~0A~~0D~
+Recoge esto y entonces=~03~~0A~~0E~
+suéltala en medio de un=~03~~0A~~0F~
+grupo de enemigos. =~03~~0A~~10~
+Entonces apártate.      =~FF~#144
+;000BDFBA{~03~~02~=~19~~DE~~EE~=~19~~DD~$~02~~14~~03~SMART BOMB=~02~~14~~04~POWER: 1000=~03~~09~~0D~Pick this up and then=~03~~09~~0E~drop it in the middle=~03~~09~~0F~of a group of enemies.=~03~~09~~10~Then get out of the way.=~FF~}#222#144
+~03~~02~=~19~~DE~~EE~=~19~~DD~$~02~~14~~03~
+BOMBA LISTA=~02~~14~~04~
+PODER:1000=~03~~0A~~0D~
+Recoge esto y entonces=~03~~0A~~0E~
+suéltala en medio de un=~03~~0A~~0F~
+grupo de enemigos. =~03~~0A~~10~
+Entonces apártate.      =~FF~#144
+;000BE04A{~04~~02~=~19~~DE~~EE~=~19~~DD~v~02~~14~~03~SMART BOMB=~02~~14~~04~POWER: 1000=~03~~09~~0D~Pick this up and then=~03~~09~~0E~drop it in the middle=~03~~09~~0F~of a group of enemies.=~03~~09~~10~Then get out of the way.=~FF~}#222#144
+~04~~02~=~19~~DE~~EE~=~19~~DD~v~02~~14~~03~
+BOMBA LISTA=~02~~14~~04~
+PODER:1000=~03~~0A~~0D~
+Recoge esto y entonces=~03~~0A~~0E~
+suéltala en medio de un=~03~~0A~~0F~
+grupo de enemigos. =~03~~0A~~10~
+Entonces apártate.      =~FF~#144
+;000BE0DA{~05~~02~=~19~~E3~P=~19~~F6~~8A~~02~~14~~03~HOME BASE=~03~~09~~0D~Return here when your=~03~~09~~0E~mission is completed.=~FF~}#125#074
+~05~~02~=~19~~E3~P=~19~~F6~~8A~~02~~14~~03~
+BASE HOGAR=~03~~09~~0D~
+Vuelve aquí cuando   =~03~~09~~0E~
+completes la misión.=~FF~#074
+;000BE124{~06~~01~=~19~~E3~~D4~=~1D~V~FE~~02~~14~~03~AMMO CRATE=~02~~14~~04~CONTAINS=~02~~14~~05~A FULL=~02~~14~~06~RELOAD=~02~~14~~07~OF FIREARMS=~03~~09~~0D~ Pick up ammo crates to=~03~~09~~0E~ reload your weapons.=~03~~09~~0F~ You cannot carry more=~03~~09~~10~ than a full load.=~FF~}#277#172
+~06~~01~=~19~~E3~~D4~=~1D~V~FE~~02~~14~~03~
+CAJA=~02~~14~~04~
+CONTIENE UNA=~02~~14~~05~
+RECARGA=~02~~14~~06~
+COMPLETA DE=~02~~14~~07~
+MUNICIÓN=~03~~0A~~0D~
+Recoge las cajas para=~03~~0A~~0E~
+recargar tus armas.=~03~~0A~~0F~
+No puedes cargar más de=~03~~0A~~10~
+una carga completa.=\~FF~#172
+;000BE1D0{~07~~01~=~19~~E3~~D4~=~1D~V~FE~~02~~14~~03~AMMO CRATE=~02~~14~~04~CONTAINS=~02~~14~~05~A FULL=~02~~14~~06~RELOAD=~02~~14~~07~OF FIREARMS=~03~~09~~0D~ Pick up ammo crates to=~03~~09~~0E~ reload your weapons.=~03~~09~~0F~ You cannot carry more=~03~~09~~10~ than a full load.=~FF~}#277#172
+~07~~01~=~19~~E3~~D4~=~1D~V~FE~~02~~14~~03~
+CAJA=~02~~14~~04~
+CONTIENE UNA=~02~~14~~05~
+RECARGA=~02~~14~~06~
+COMPLETA DE=~02~~14~~07~
+MUNICIÓN=~03~~0A~~0D~
+Recoge las cajas para=~03~~0A~~0E~
+recargar tus armas.=~03~~0A~~0F~
+No puedes cargar más de=~03~~0A~~10~
+una carga completa.=\~FF~#172
+;000BE27C{~08~~01~=~19~~E4~~16~=~1D~U~14~~02~~14~~03~FUEL DRUM=~02~~14~~04~CONTAINS:=~02~~14~~05~100 UNITS=~02~~14~~06~OF FUEL=~03~~09~~0D~ Pick up Fuel Drums when=~03~~09~~0E~ you are low on fuel.=~03~~09~~0F~ Your vehicle cannot=~03~~09~~10~ hold more than a full=~03~~09~~11~ tank of fuel.=~FF~}#287#182
+~08~~01~=~19~~E4~~16~=~1D~U~14~~02~~14~~03~
+BIDÓN DE=~02~~14~~04~
+COMBUSTIBLE=~02~~14~~05~
+CONTIENE:=~02~~14~~06~
+100 UNIDADES=~03~~0A~~0D~
+Recoge estos Bidones=~03~~0A~~0E~
+cuando lo necesites.=~03~~0A~~0F~
+Tu vehículo no puede=~03~~0A~~10~
+cargar más de un tanque=~03~~0A~~11~
+lleno.=\     ~FF~#182
+|1166
+@000BE332-000BE799-FF
+;000BE332{~09~~01~=~19~~DE~~EE~=~1D~U~88~~02~~14~~03~REPARA ARMD.=~02~~14~~04~TOOLBOX=~03~~09~~0D~ When you pick up an=~03~~09~~0E~ armor repair box=~03~~09~~0F~ your armor is restored=~03~~09~~10~ to full strength.=~FF~}#210#132
+~09~~01~=~19~~DE~~EE~=~1D~U~88~~02~~14~~03~
+CAJA REPARA-=~02~~14~~04~
+ARMADURAS=~03~~0A~~0D~
+Cuando recoges una caja=~03~~0A~~0E~
+de reparar armadura tu=~03~~0A~~0F~
+armadura es restaurada=~03~~0A~~10~
+del todo.=~FF~#132
+;000BE3B6{~0A~~01~=~19~~DE~~EE~=~1D~U~88~~02~~14~~03~REPARA ARMD.=~02~~14~~04~TOOLBOX=~03~~09~~0D~ When you pick up an=~03~~09~~0E~ armor repair box=~03~~09~~0F~ your armor is restored=~03~~09~~10~ to full strength=~FF~}#209#131
+~0A~~01~=~19~~DE~~EE~=~1D~U~88~~02~~14~~03~
+CAJA REPARA-=~02~~14~~04~
+ARMADURAS=~03~~0A~~0D~
+Cuando recoges una caja=~03~~0A~~0E~
+de reparar armadura tu=~03~~0A~~0F~
+armadura es restaurada.=~03~~0A~~10~
+       =~FF~#131
+;000BE439{~FF~}#004#001
+~FF~#001
+;000BE43A{~0B~~02~=~19~~E4~~16~=~19~~E7~~B2~~02~~14~~03~BAG 'O MONEY=~03~~09~~0D~ When you pick up a=~03~~09~~0E~ bag 'o money your=~03~~09~~0F~ armor is increased=~03~~09~~10~ a little bit.=~FF~}#185#113
+~0B~~02~=~19~~E4~~16~=~19~~E7~~B2~~02~~14~~03~
+BOLSA DE=~02~~14~~04~
+DINERO=~03~~0A~~0D~
+Cuando recojas una=~03~~0A~~0E~
+bolsa de dinero tu=~03~~0A~~0F~
+armadura subirá un=~03~~0A~~10~
+poco.     =~FF~#113
+;000BE4AB{~FF~}#004#001
+~FF~#001
+;000BE4AC{~0C~~02~=~19~~DE~~EE~=~19~~E7~~F4~~02~~14~~03~QUICK LADDER=~02~~14~~04~=~02~~14~~05~INCREASES=~02~~14~~06~=~02~~14~~07~LADDER=~02~~14~~08~=~02~~14~~09~SPEED=~03~~09~~0D~ When you pick up a=~03~~09~~0E~ Quick Ladder winch=~03~~09~~0F~ your Commanche's=~03~~09~~10~ ladder speed is=~03~~09~~11~ doubled.=~FF~}#306#171
+~0C~~02~=~19~~DE~~EE~=~19~~E7~~F4~~02~~14~~03~
+ESCALERA=~02~~14~~04~
+RÁPIDA=~02~~14~~05~
+SUBE LA=~02~~14~~06~
+VELOCIDAD DE=~02~~14~~07~
+LA ESCALERA =~03~~0A~~0D~
+Al recoger un=~03~~0A~~0E~
+Cabrestante de Escalera=~03~~0A~~0F~
+Rápida la velocidad de=~03~~0A~~10~
+tu escalera se dobla.=~FF~#171
+;000BE557{~FF~}#004#001
+~FF~#001
+;000BE558{~0D~~01~=~19~~E3~P=~1D~Vd~02~~14~~04~ATERRIZAJE  =~03~~09~~0D~ These are safe drop off=~03~~09~~0E~ points for MIAs and=~03~~09~~0F~ POWs. Your vehicles=~03~~09~~10~ Armor is increased for=~03~~09~~11~ each person.=~FF~}#219#147
+~0D~~01~=~19~~E3~P=~1D~Vd~02~~14~~04~
+ATERRIZAJE  =~03~~0A~~0D~
+Estos helipuertos son=~03~~0A~~0E~
+puntos seguros para=~03~~0A~~0F~
+DECs y PDGs. Tu=~03~~0A~~10~
+Armadura mejora por    =~03~~0A~~11~
+cada persona soltada. =~FF~#147
+;000BE5EB{~FF~}#004#001
+~FF~#001
+;000BE5EC{~0E~~02~=~19~~E3~P=~19~~F7~~0E~~02~~14~~03~TRANSFER=~02~~14~~04~ZONE=~03~~09~~0D~This pad is used to=~03~~09~~0E~transfer to an=~03~~09~~0F~alternate vehicle.=~FF~}#163#094
+~0E~~02~=~19~~E3~P=~19~~F7~~0E~~02~~14~~03~
+ZONA DE   =~02~~14~~04~
+TRANSFERENCIA=~03~~0A~~0D~
+Usado para moverse a un=~03~~0A~~0E~
+vehículo alternativo.=~FF~#094
+;000BE64A{~0F~~01~=~19~~E3~P=~1D~Vd~02~~14~~04~ATERRIZAJE  =~03~~09~~0D~These pads are safe drop=~03~~09~~0E~off points for MIA's and=~03~~09~~0F~POW's. Your vehicle's=~03~~09~~10~Armor is increased for=~03~~09~~11~each person you drop off=~03~~09~~12~here.=~FF~}#252#171
+~0F~~01~=~19~~E3~P=~1D~Vd~02~~14~~04~
+ATERRIZAJE  =~03~~0A~~0D~
+Esos helipuertos son=~03~~0A~~0E~
+puntos seguros para=~03~~0A~~0F~
+DECs y PDGs. La=~03~~0A~~10~
+armadura de tu vehículo=~03~~0A~~11~
+es incrementada por=~03~~0A~~12~
+cada persona que dejes. =~FF~#171
+;000BE6F5{~FF~}#004#001
+~FF~#001
+;000BE6F6{~10~~02~=~19~~E3~~D4~=~19~~F8~~EC~~02~~14~~03~COVERED=~02~~14~~04~TRUCK=~02~~14~~05~CONTAINS=~02~~14~~06~ONE AMMO=~02~~14~~07~CRATE=~02~~14~~08~ARMOR: 35=~03~~09~~0D~These covered trucks=~03~~09~~0E~will drive around=~03~~09~~0F~Washington to supply=~03~~09~~10~you with ammo.=~FF~}#281#164
+~10~~02~=~19~~E3~~D4~=~19~~F8~~EC~~02~~14~~03~
+CAMIÓN=~02~~14~~04~
+CUBIERTO=~02~~14~~05~
+CONTIENE=~02~~14~~06~
+UNA CAJA DE=~02~~14~~07~
+MUNICIÓN=~02~~14~~08~
+ARMADURA:35=~03~~0A~~0D~
+Estos camiones=~03~~0A~~0E~
+conducirán por=~03~~0A~~0F~
+Washington para=~03~~0A~~10~
+darte munición.   =~FF~#164
+|1128
+@000BE79A-000BEC03-FF
+;000BE79A{~11~~02~=~19~~E3~~D4~=~19~~FE~~A6~~02~~14~~03~TRAM=~02~~14~~04~WITH=~02~~14~~05~IMPORTANT=~02~~14~~06~LOOKING=~02~~14~~07~EQUIPMENT=~02~~14~~08~ARMOR: 35=~03~~09~~0D~These trams have=~03~~09~~0E~important looking=~03~~09~~0F~equipment on them.=~FF~}#248#140
+~11~~02~=~19~~E3~~D4~=~19~~FE~~A6~~02~~14~~03~
+TRAM CON=~02~~14~~04~
+EQUIPO AL=~02~~14~~05~
+PARECER=~02~~14~~06~
+IMPORTANTE=~02~~14~~07~
+ARMADURA:35=~03~~0A~~0D~
+Estos trams al llevan=~03~~0A~~0E~
+un equipo importante.=~03~~0A~~0F~
+          =~FF~#140
+;000BE826{~12~~01~=~19~~E3~P=~1D~X~04~~02~~14~~03~STRIKE=~02~~14~~04~C.O.R.E.=~02~~14~~05~BARGE=~02~~14~~06~=~02~~14~~07~READY=~02~~14~~08~FOR DROP-OFF=~02~~14~~09~OF MIRRORS=~03~~09~~0D~ Our barge is in the=~03~~09~~0E~ North-East corner of the=~03~~09~~0F~ area. Landing personnel=~03~~09~~10~ will assist you in=~03~~09~~11~ unloading the cargo.=~FF~}#343#214
+~12~~01~=~19~~E3~P=~1D~X~04~~02~~14~~03~
+BARCA STRIKE=~02~~14~~04~
+C.O.R.E.=~02~~14~~06~
+LISTA PARA=~02~~14~~07~
+ENTREGAR LOS=~02~~14~~08~
+ESPEJOS=~03~~0A~~0D~
+Nuestra barca está en=~03~~0A~~0E~
+la esquina Nordeste de=~03~~0A~~0F~
+la zona. El personal de=~03~~0A~~10~
+aterrizaje te ayudará a=~03~~0A~~11~
+descargar la carga.=\     ~FF~#214
+;000BE8FC{~13~~02~=~19~~E2~H=~1A~~0F~~AA~~02~~14~~03~GROUND=~02~~14~~04~ASSAULT=~02~~14~~05~VEHICLE=~02~~14~~06~ARMOR: 2000=~02~~14~~07~POWER: 25=~03~~09~~0D~Use their own weapons=~03~~09~~0E~against them. Note:=~03~~09~~0F~short circuit wiring to=~03~~09~~10~destroy from inside.=~FF~}#275#170
+~13~~02~=~19~~E2~H=~1A~~0F~~AA~~02~~14~~03~
+VEHÍCULO DE=~02~~14~~04~
+ASALTO=~02~~14~~05~
+TERRESTRE=~02~~14~~06~
+ARMADURA:2000=~02~~14~~07~
+PODER:25=~03~~0A~~0D~
+Usa sus armas contra=~03~~0A~~0E~
+ellos. Nota:=~03~~0A~~0F~
+cortocircuitalos para=~03~~0A~~10~
+destruirlos.           =~FF~#170
+;000BE9A6{~14~~02~=~19~~DE~~EE~=~1A~~10~~10~~02~~14~~03~ Aphid=~02~~14~~04~ SAM=~02~~14~~05~ARMOR: 25=~02~~14~~06~POWER: 50=~03~~09~~0D~ Shoulder fired missile=~03~~09~~0E~ of Russian manufacture.=~FF~}#191#110
+~14~~02~=~19~~DE~~EE~=~1A~~10~~10~~02~~14~~03~
+SAM Aphid=~02~~14~~04~
+ARMADURA:25=~02~~14~~05~
+PODER:50=~03~~0A~~0D~
+Misiles disparados con=~03~~0A~~0E~
+el hombro hechos en=~03~~0A~~0F~
+Rusia.=~FF~#110
+;000BEA14{~15~~02~=~19~~DE~~EE~=~1A~~10~~10~~02~~14~~03~ Aphid=~02~~14~~04~ SAM=~02~~14~~05~ARMOR: 25=~02~~14~~06~POWER: 50=~03~~09~~0D~ Shoulder fired missile=~03~~09~~0E~ of Russian manufacture.=~FF~}#191#110
+~15~~02~=~19~~DE~~EE~=~1A~~10~~10~~02~~14~~03~
+SAM Aphid=~02~~14~~04~
+ARMADURA:25=~02~~14~~05~
+PODER:50=~03~~0A~~0D~
+Misiles disparados con=~03~~0A~~0E~
+el hombro hechos en=~03~~0A~~0F~
+Rusia.=~FF~#110
+;000BEA82{~16~~02~=~19~~DE~~EE~=~1A~~11~`~02~~14~~03~X9 SEA SNAKE=~02~~14~~04~GUNBOAT=~02~~14~~05~ARMOR: 150=~02~~14~~06~POWER: 30=~03~~09~~0D~ Highly maneuverable=~03~~09~~0E~ gunboat with speed=~03~~09~~0F~ & ultra-quiet engines.=~03~~09~~10~ Silent as a serpent,=~03~~09~~11~ with a deadly bite.=~FF~}#293#188
+~16~~02~=~19~~DE~~EE~=~1A~~11~`~02~~14~~03~
+CAÑONERA=~02~~14~~04~
+X9 SEA SNAKE=~02~~14~~05~
+ARMADURA:150=~02~~14~~06~
+PODER:30=~03~~0A~~0D~
+Cañonera muy manejable=~03~~0A~~0E~
+con motor de velocidad=~03~~0A~~0F~
+y de silencio.   =~03~~0A~~10~
+Silenciosa serpiente=~03~~0A~~11~
+con mordisco mortal.=~FF~#188
+;000BEB3E{~17~~02~=~19~~DE~~EE~=~1A~~11~~BE~~02~~14~~03~ZX4 GATOR=~02~~14~~04~GUNBOAT=~02~~14~~05~ARMOR: 150=~02~~14~~06~POWER: 5=~03~~09~~0D~ Computer designed=~03~~09~~0E~ For optimum aquatic=~03~~09~~0F~ camouflage. They=~03~~09~~10~ seem to form from=~03~~09~~11~ the surface scum &=~03~~09~~12~ vanish back into it.=~FF~}#315#198
+~17~~02~=~19~~DE~~EE~=~1A~~11~~BE~~02~~14~~03~
+CAÑONERA=~02~~14~~04~
+GATOR ZX4=~02~~14~~05~
+ARMADURA:150=~02~~14~~06~
+PODER:5=~03~~0A~~0D~
+Diseñada por computador=~03~~0A~~0E~
+para camuflaje acuático=~03~~0A~~0F~
+óptimo. Parecen=~03~~0A~~10~
+aparecer de la suciedad=~03~~0A~~11~
+superficial y=~03~~0A~~12~
+desvanecerse.=\~FF~#198
+|1130
+@000BEC04-000BF0B7-FF
+;000BEC04{~18~~02~=~19~~E4~~16~=~18~X~F8~~02~~14~~03~ENEMY=~02~~14~~04~TRANSPORT=~02~~14~~05~TRUCK=~02~~14~~06~ARMOR: 300=~03~~09~~0D~ Used to Transport=~03~~09~~0E~ the stolen mirrors=~03~~09~~0F~ to the stealth ships=~03~~09~~10~ on the coast.=~FF~}#240#144
+~18~~02~=~19~~E4~~16~=~18~X~F8~~02~~14~~03~
+CAMIÓN DE=~02~~14~~04~
+TRANSPORTE=~02~~14~~05~
+ENEMIGO=~02~~14~~06~
+ARMADURA:300=~03~~0A~~0D~
+Transportan los espejos=~03~~0A~~0E~
+robados a las naves=~03~~0A~~0F~
+stealth de la costa.=~03~~0A~~10~
+ =~FF~#144
+;000BEC94{~19~~02~=~19~~DE~~EE~=~1A~~14~b~02~~14~~03~AAA M=~02~~14~~04~FLAK CANNON=~02~~14~~05~ARMOR: 100=~02~~14~~06~POWER: 25=~03~~09~~0D~ Low power popgun.=~03~~09~~0E~ Barks like a guard=~03~~09~~0F~ dog, bites like a=~03~~09~~10~ flea. You have bigger=~03~~09~~11~ worries.=~FF~}#273#168
+~19~~02~=~19~~DE~~EE~=~1A~~14~b~02~~14~~03~
+CAÑÓN=~02~~14~~04~
+FLAK AAA M=~02~~14~~05~
+ARMADURA:100=~02~~14~~06~
+PODER:25=~03~~0A~~0D~
+Arma de baja potencia.=~03~~0A~~0E~
+Ladra como un perro   =~03~~0A~~0F~
+guardián, pica como una=~03~~0A~~10~
+pulga. No te preocupes.=~FF~#168
+;000BED3C{~1A~~02~=~19~~E3~~D4~=~1A~~16~,~02~~14~~03~SCORPION=~02~~14~~04~ATTACK=~02~~14~~05~CHOPPER=~02~~14~~06~ARMOR: 300=~02~~14~~07~POWER: 50=~03~~09~~0D~ Your evil 'Twin'.=~03~~09~~0E~ An Anti-helicopter=~03~~09~~0F~ chopper with a dual=~03~~09~~10~ cockpit and 2 chin=~03~~09~~11~ turrets.=~FF~}#290#176
+~1A~~02~=~19~~E3~~D4~=~1A~~16~,~02~~14~~03~
+HELICÓPTERO DE=~02~~14~~04~
+ATAQUE=~02~~14~~05~
+SCORPION=~02~~14~~06~
+ARMADURA:300=~02~~14~~07~
+PODER:50=~03~~0A~~0D~
+Tu gemelo malvado.=~03~~0A~~0E~
+Anti-helicópteros con=~03~~0A~~0F~
+cabina dual y dos=~03~~0A~~10~
+torretas de mentón.=~03~~0A~~11~
+  =~FF~#176
+;000BEDEC{~1B~~02~=~19~~E3~~D4~=~1A~~16~,~02~~14~~03~AF 487=~02~~14~~04~HOVER =~02~~14~~05~CHOPPER=~02~~14~~06~ARMOR: 200=~02~~14~~07~POWER: 10=~03~~09~~0D~ Uses a Transom-mounted=~03~~09~~0E~ propeller & Steers=~03~~09~~0F~ like a dream. An ideal=~03~~09~~10~ sub-sonic urban air=~03~~09~~11~ vehicle recently =~03~~09~~12~ designed by a little=~03~~09~~13~ old terrorist.=~FF~}#368#236
+~1B~~02~=~19~~E3~~D4~=~1A~~16~,~02~~14~~03~
+HELICÓPTERO=~02~~14~~04~
+LEVITADOR=~02~~14~~05~
+AF 487=~02~~14~~06~
+ARMADURA:200=~02~~14~~07~
+PODER:10=~03~~0A~~0D~
+Usa una hélice en el =~03~~0A~~0E~
+espejo de popa y se=~03~~0A~~0F~
+maneja fenomenal.=~03~~0A~~10~
+Un vehículo aéreo=~03~~0A~~11~
+suburbano ideal=~03~~0A~~12~
+diseñado por un viejo=~03~~0A~~13~
+pequeño terrorista.  =~FF~#236
+;000BEED8{~1C~~02~=~19~~DE~~EE~=~1A~~16~~F4~~02~~14~~03~ENEMY=~02~~14~~04~ZODIAC=~02~~14~~05~ARMOR: 150=~02~~14~~06~POWER: 25=~03~~09~~0D~Stop them before they=~03~~09~~0E~shoot you.=~FF~}#177#096
+~1C~~02~=~19~~DE~~EE~=~1A~~16~~F4~~02~~14~~03~
+ZODIAC=~02~~14~~04~
+ENEMIGA=~02~~14~~05~
+ARMADURA:150=~02~~14~~06~
+PODER:25=~03~~0A~~0D~
+Deténlas antes de que=~03~~0A~~0E~
+tiren. =~FF~#096
+;000BEF38{~1D~~02~=~19~~DE~~EE~=~1A~~17~F~02~~14~~03~GATLING=~02~~14~~04~GUN=~02~~14~~05~IMMOBILE=~02~~14~~06~BUT DEADLY=~02~~14~~07~ARMOR: 150=~02~~14~~08~POWER: 10=~03~~09~~0D~ Gatling Guns are=~03~~09~~0E~ deadly even standing=~03~~09~~0F~ still. Bullets lack bite=~03~~09~~10~ but fire rate is=~03~~09~~11~ unbelievably fast.=~FF~}#324#201
+~1D~~02~=~19~~DE~~EE~=~1A~~17~F~02~~14~~03~
+ARMA=~02~~14~~04~
+GATLING=~02~~14~~05~
+INMÓVIL PERO=~02~~14~~06~
+MORTAL=~02~~14~~07~
+ARMADURA:150=~02~~14~~08~
+PODER:10=~03~~0A~~0D~
+Las Gatling son =~03~~0A~~0E~
+mortíferas aún=~03~~0A~~0F~
+inmóviles. Las balas no=~03~~0A~~10~
+penetran mucho pero la=~03~~09~~11~
+cadencia es increíble.=~FF~#201
+;000BF001{~FF~}#004#001
+~FF~#001
+;000BF002{~1E~~02~=~19~~DE~~EE~=~1A~~19~$~02~~14~~03~AAA MXL=~02~~14~~04~FLAK =~02~~14~~05~CANNON=~02~~14~~06~ARMOR: 150=~02~~14~~07~POWER: 20=~03~~09~~0D~ Large, freestanding=~03~~09~~0E~ rapid-fire weapon.=~03~~09~~0F~ Big Bark, Big Bite,=~03~~09~~10~ Big Funeral if you=~03~~09~~11~ aren't careful.=~FF~}#296#182
+~1E~~02~=~19~~DE~~EE~=~1A~~19~$~02~~14~~03~
+CAÑÓN=~02~~14~~04~
+FLAK AAA MXL=~02~~14~~05~
+ARMADURA:150=~02~~14~~06~
+PODER:20    =~03~~0A~~0D~
+Gran arma autónoma de=~03~~0A~~0E~
+fuego rápido. =~03~~0A~~0F~
+Ladra Mucho, Muerde=~03~~0A~~10~
+Mucho, Buen funeral si=~03~~0A~~11~
+no tienes cuidado.=~FF~#182
+|1204
+@000BF0B8-000BF573-FF
+;000BF0B8{~1F~~02~=~19~~DE~~EE~=~1A~~1B~~02~~02~~14~~03~ANTI-=~02~~14~~04~AIRCRAFT=~02~~14~~05~BUNKER=~02~~14~~06~ARMOR: 75=~02~~14~~07~POWER: 2=~03~~09~~0D~ Just a noisemaker.=~03~~09~~0E~ Might hurt your=~03~~09~~0F~ ears but not your=~03~~09~~10~ fuselage. The last=~03~~09~~11~ thing to take out=~03~~09~~12~ in a fire fight.=~FF~}#324#198
+~1F~~02~=~19~~DE~~EE~=~1A~~1B~~02~~02~~14~~03~
+BÚNKER=~02~~14~~04~
+ANTIAÉREO=~02~~14~~06~
+ARMADURA:75=~02~~14~~07~
+PODER:2=~03~~0A~~0D~
+Sólo es ruidoso.=~03~~0A~~0E~
+Puede herir tus orejas=~03~~0A~~0F~
+pero no tu fuselaje.=~03~~0A~~10~
+La última cosa a=~03~~0A~~11~
+eliminar en un tiroteo.=\                    ~FF~#198
+;000BF17E{ ~02~=~19~~DE~~EE~=~1A~~1C~~E0~~02~~14~~03~ARMORED =~02~~14~~04~ANTIAIRCRAFT=~02~~14~~05~BUNKER=~02~~14~~06~ARMOR: 150=~02~~14~~07~POWER: 25=~03~~09~~0D~ Steel Walls make this=~03~~09~~0E~ snug little boom box=~03~~09~~0F~ hard to damage.=~03~~09~~10~ Rapid fire gun can=~03~~09~~11~ swiss cheese you=~03~~09~~12~ if you're a step=~03~~09~~13~ too slow.=~FF~}#358#226
+ ~02~=~19~~DE~~EE~=~1A~~1C~~E0~~02~~14~~03~
+BÚNKER=~02~~14~~04~
+BLINDADO AFT=~02~~14~~05~
+ANTIAÉREO=~02~~14~~06~
+ARMADURA:150=~02~~14~~07~
+PODER:25=~03~~0A~~0D~
+Muros de acero hacen =~03~~0A~~0E~
+difícil dañar esta  =~03~~0A~~0F~
+caja de bombas.=~03~~0A~~10~
+El arma de disparo =~03~~0A~~11~
+rápido puede=~03~~0A~~12~
+agujerearte si eres un=~03~~0A~~13~
+poco lento.=~FF~#226
+;000BF260{!~02~=~19~~DE~~EE~=~1A~~1D~~90~~02~~14~~03~PITBULL=~02~~14~~04~ANTIAIRCRAFT=~02~~14~~05~CANNONS=~02~~14~~06~ARMOR: 200=~02~~14~~07~POWER: 25=~03~~09~~0D~ Sharpshooting ship-=~03~~09~~0E~ mounted antiaircraft=~03~~09~~0F~ gun. Short range but=~03~~09~~10~ accurate & agressive.=~03~~09~~11~ Lives up to its name.=~FF~}#316#202
+!~02~=~19~~DE~~EE~=~1A~~1D~~90~~02~~14~~03~
+CAÑONES=~02~~14~~04~
+PITBULL=~02~~14~~05~
+ANTIAÉREOS=~02~~14~~06~
+ARMADURA:200=~02~~14~~07~
+PODER:25=~03~~0A~~0D~
+Arma antiaérea de=~03~~0A~~0E~
+precisión montada en=~03~~0A~~0F~
+barco. Corto alcance=~03~~0A~~10~
+pero precisa y=~03~~0A~~11~
+agresiva.=~03~~0A~~12~
+Hace honor a su nombre.=~FF~#202
+;000BF32A{"~02~=~19~~E3~~D4~=~1A~~1F~b~02~~14~~03~HMF=~02~~14~~04~ARMADILLO=~02~~14~~05~TANK=~02~~14~~06~ARMOR: 250=~02~~14~~07~POWER: 50=~03~~09~~0D~ Armored like a manhole=~03~~09~~0E~ cover so bring your=~03~~09~~0F~ can opener. Carries =~03~~09~~10~ surface-to-air=~03~~09~~11~ missiles.=~FF~}#286#175
+"~02~=~19~~E3~~D4~=~1A~~1F~b~02~~14~~03~
+TANQUE=~02~~14~~04~
+ARMADILLO HMF=~02~~14~~05~
+ARMADURA:250=~02~~14~~06~
+PODER:50=~03~~0A~~0D~
+Blindado como una tapa=~03~~0A~~0E~
+de alcantarilla así que=~03~~0A~~0F~
+trae abrelatas. Tiene=~03~~0A~~10~
+misiles tierra-aire.=~03~~0A~~11~
+   =~FF~#175
+;000BF3D9{~FF~}#004#001
+~FF~#001
+;000BF3DA{~23~~02~=~19~~E3~~D4~=~1A~!~40~~02~~14~~03~X-RAID=~02~~14~~04~WOLVERINE=~02~~14~~05~TANK=~02~~14~~06~ARMOR: 250=~02~~14~~07~POWER: 25=~03~~09~~0D~ Incredibly accurate=~03~~09~~0E~ sonic triangulation=~03~~09~~0F~ sighting & targeting=~03~~09~~10~ weapons system. It=~03~~09~~11~ shoots faster than=~03~~09~~12~ your rotor can beat.=~FF~}#336#213
+~23~~02~=~19~~E3~~D4~=~1A~!~40~~02~~14~~03~
+TANQUE=~02~~14~~04~
+WOLVERINE=~02~~14~~05~
+X-RAID=~02~~14~~06~
+ARMADURA:250=~02~~14~~07~
+PODER:x25=~03~~0A~~0D~
+Sistema de armas de=~03~~0A~~0E~
+puntería y =~03~~0A~~0F~
+triangulación sónica =~03~~0A~~10~
+increíblemente preciso.=~03~~0A~~11~
+Dispara más rápido de=~03~~0A~~12~
+lo que gira tu rotor.=~FF~#213
+;000BF4AF{~FF~}#004#001
+~FF~#001
+;000BF4B0{$~02~=~19~~DE~~EE~=~1A~!~9E~~02~~14~~03~XP3 BULLDOG=~02~~14~~04~HUMV=~02~~14~~05~ARMOR: 100=~02~~14~~06~POWER: 5=~03~~09~~0D~ This tracked, highly=~03~~09~~0E~ maneuverable ground=~03~~09~~0F~ vehicle takes=~03~~09~~10~ perimeter patrol=~03~~09~~11~ duties in difficult=~03~~09~~12~ terrain situations.=~FF~}#307#196
+$~02~=~19~~DE~~EE~=~1A~!~9E~~02~~14~~03~
+HUMV=~02~~14~~04~
+BULLDOG XP3=~02~~14~~05~
+ARMADURA:100=~02~~14~~06~
+PODER:5=~03~~0A~~0D~
+Este vehículo terrestre=~03~~0A~~0E~
+con orugas fácilmente=~03~~0A~~0F~
+maniobrable, asume=~03~~0A~~10~
+funciones de patrulla=~03~~0A~~11~
+en terrenos=~03~~0A~~12~
+complicados.=\    ~FF~#196
+|1212
+@000BF574-000BF9F9-FF
+;000BF574{%~02~=~19~~DE~~EE~=~1A~~23~~7C~~02~~14~~03~GROUND=~02~~14~~04~ASSAULT=~02~~14~~05~VEHICLE=~02~~14~~06~ARMOR: 5000=~02~~14~~07~POWER: 100=~03~~09~~0D~ New technology=~03~~09~~0E~ makes these a=~03~~09~~0F~ real threat to=~03~~09~~10~ national security.=~03~~09~~11~ Darn good armor,=~03~~09~~12~ damage, and=~03~~09~~13~ fire rate, too.=~FF~}#340#208
+%~02~=~19~~DE~~EE~=~1A~~23~~7C~~02~~14~~03~
+VEHÍCULO DE=~02~~14~~04~
+ASALTO=~02~~14~~05~
+TERRESTRE=~02~~14~~06~
+ARMADURA:5000=~02~~14~~07~
+PODER:100=~03~~0A~~0D~
+La nueva tecnología hace=~03~~0A~~0E~
+que esto sea una amenaza=~03~~0A~~0F~
+para la seguridad=~03~~0A~~10~
+nacional.=~03~~0A~~11~
+Buena armadura, daño y=~03~~0A~~12~
+cadencia.=~FF~#208
+;000BF644{&~02~=~19~~E3~~D4~=~1A~'n~02~~14~~03~LAND SHARK=~02~~14~~04~ARM V=~02~~14~~05~TANK=~02~~14~~06~ARMOR: 300=~02~~14~~07~POWER: 40=~03~~09~~0D~ Street smart urban=~03~~09~~0E~ assault tank. Low-=~03~~09~~0F~ slung and well-=~03~~09~~10~ armored. Hard to=~03~~09~~11~ hit. Harder to hurt.=~FF~}#289#181
+&~02~=~19~~E3~~D4~=~1A~'n~02~~14~~03~
+TANQUE LAND=~02~~14~~04~
+SHARK ARM V=~02~~14~~05~
+ARMADURA:300=~02~~14~~06~
+PODER:40=~03~~0A~~0D~
+Tanque de asalto urbano=~03~~0A~~0E~
+callejero. Bajo y bien=~03~~0A~~0F~
+blindado. Difícil de=~03~~0A~~10~
+acertar. Más de dañar.=\        ~FF~#181
+;000BF6F9{~FF~}#004#001
+~FF~#001
+;000BF6FA{'~02~=~19~~E3~~D4~=~1A~'~CC~~02~~14~~03~PHALANX=~02~~14~~04~MX=~02~~14~~05~ARMOR: 150=~02~~14~~06~POWER: 30=~03~~09~~0D~ Gyroscopic tracking=~03~~09~~0E~ & auto motion-targeting=~03~~09~~0F~ systems. Capable of =~03~~09~~10~ creating a literal wall =~03~~09~~11~ of projectiles. Deadly.=~FF~}#291#189
+'~02~=~19~~E3~~D4~=~1A~'~CC~~02~~14~~03~
+PHALANX MX=~02~~14~~04~
+ARMADURA:150=~02~~14~~05~
+PODER:30=~03~~0A~~0D~
+Sistemas de rastreo=~03~~0A~~0E~
+giroscópico y apuntado=~03~~0A~~0F~
+automático. Capaz de=~03~~0A~~10~
+crear literalmente un=~03~~0A~~11~
+muro de proyectiles.=~03~~0A~~12~
+Letal.=\   ~FF~#189
+;000BF7B7{~FF~}#004#001
+~FF~#001
+;000BF7B8{(~02~=~19~~E4~X=~1A~=~DE~~02~~14~~03~TWO=~02~~14~~04~RADAR=~02~~14~~05~SITES=~02~~14~~06~MOUNTED ON=~02~~14~~07~VISITORS=~02~~14~~08~CENTER=~02~~14~~09~BUILDINGS=~03~~09~~0D~1.Malone's men have taken=~03~~09~~0E~  over 2 of the visitors=~03~~09~~0F~  center buildings and=~03~~09~~10~  are covering the north=~03~~09~~11~  side of the island with=~03~~09~~12~  an alert zone. Knock=~03~~09~~13~  out the radar sites.=~FF~}#421#277
+(~02~=~19~~E4~X=~1A~=~DE~~02~~14~~03~
+DOS SITIOS DE=~02~~14~~04~
+RADAR MONTADOS=~02~~14~~05~
+EN EDIFICIOS=~02~~14~~06~
+DE CENTROS DE=~02~~14~~07~
+VISITANTES=~03~~09~~0D~
+1.Los hombres de Malone=~03~~0B~~0E~
+tomaron dos edificios=~03~~0B~~0F~
+de centros de=~03~~0B~~10~
+visitantes cubriendo la=~03~~0B~~11~
+zona norte de la isla=~03~~0B~~12~
+con una zona de alerta.=~03~~0B~~13~
+Derriba los radares.=\           ~FF~#277
+;000BF8CD{~FF~}#004#001
+~FF~#001
+;000BF8CE{)~01~=~19~~E4~~16~=~1D~tJ~02~~14~~03~RECOVER FOUR=~02~~14~~04~TELESCOPE=~02~~14~~05~MIRRORS.=~02~~14~~06~TAKE TO BARGE=~02~~14~~07~IN NORTH-EAST=~02~~14~~08~CORNER.=~02~~14~~09~DON'T DROP EM=~03~~09~~0D~2.Track down the enemy=~03~~09~~0E~  armored trucks stealing=~03~~09~~0F~  the mirrors and blast=~03~~09~~10~  them. Airlift the cargo=~03~~09~~11~  to the barge and hover=~03~~09~~12~  over the landing pad=~03~~09~~13~  to auto-unload.=~FF~}#444#300
+)~01~=~19~~E4~~16~=~1D~tJ~02~~14~~03~
+RECUPERAR=~02~~14~~04~
+CUATRO ESPEJOS=~02~~14~~05~
+DE TELESCOPIO.=~02~~14~~06~
+LLEVAR A BARCA=~02~~14~~07~
+DE LA ESQUINA=~02~~14~~08~
+NORESTE.=~02~~14~~09~
+NO LOS SUELTES=~03~~09~~0D~
+2.Localiza los camiones=~03~~0B~~0E~
+enemigos blindados que=~03~~0B~~0F~
+roban los espejos y=~03~~0B~~10~
+vuélalos. Lleva la=~03~~0B~~11~
+carga a la barca y pasa=~03~~0B~~12~
+por el aterrizaje para=~03~~0B~~13~
+auto-descargar.=\    ~FF~#300
+|1158
+@000BF9FA-000BFE69-FF
+;000BF9FA{*~01~=~19~~E5~`=~1D~sv~02~~14~~03~STEALTH=~02~~14~~04~SHIPS=~02~~14~~05~CODENAME:=~02~~14~~06~SHADOW=~03~~09~~0D~3.Eliminate the enemy=~03~~09~~0E~  stealth ships. Stop=~03~~09~~0F~  them before they escape=~03~~09~~10~  with the stolen=~03~~09~~11~  mirrors.=~FF~}#264#168
+*~01~=~19~~E5~`=~1D~sv~02~~14~~03~
+AVIONES=~02~~14~~04~
+STEALTH=~02~~14~~05~
+ALIAS:=~02~~14~~06~
+SHADOW=~03~~09~~0D~
+3.Elimina las naves=~03~~0B~~0E~
+stealth enemigas.=~03~~0B~~0F~
+Detenles antes de que=~03~~0B~~10~
+escapen con los espejos=~03~~0B~~11~
+robados.=\      ~FF~#168
+;000BFAA2{+~01~=~19~~E4~~16~=~1D~r~A2~~02~~14~~03~RESCUE=~02~~14~~04~THE=~02~~14~~05~PLASTIC=~02~~14~~06~SURGEON=~03~~09~~0D~4.Rescue the Plastic=~03~~09~~0E~  Surgeon in the jungle.=~03~~09~~0F~  He can tell us the true=~03~~09~~10~  identity of Malone.=~03~~09~~11~  Get him out alive!=~FF~}#282#180
++~01~=~19~~E4~~16~=~1D~r~A2~~02~~14~~03~
+RESCATA AL=~02~~14~~04~
+CIRUJANO=~02~~14~~05~
+PLÁSTICO=~03~~09~~0D~
+4.Rescata al Cirujano=~03~~0B~~0E~
+Plástico en la jungla.=~03~~0B~~0F~
+Puede decirnos la=~03~~0B~~10~
+identidad real de=~03~~0B~~11~
+Malone.=~03~~0B~~12~
+Sácale con vida!=\      ~FF~#180
+;000BFB56{,~01~=~19~~E2~H=~1D~u~DE~~02~~14~~03~BLOW UP=~02~~14~~04~ENEMY=~02~~14~~05~BRIDGE=~03~~09~~0D~5.Transfer into the=~03~~09~~0E~  Blackhawke chopper &=~03~~09~~0F~  destroy the bridge &=~03~~09~~10~  vehicles protecting the=~03~~09~~11~  small island. This will=~03~~09~~12~  secure the island from=~03~~09~~13~  further attacks.=~FF~}#332#224
+,~01~=~19~~E2~H=~1D~u~DE~~02~~14~~03~
+VUELA EL=~02~~14~~04~
+PUENTE ENEMIGO=~03~~09~~0D~
+5.Monta en el chopper=~03~~0B~~0E~
+Blackhawke y destruye=~03~~0B~~0F~
+el puente y los=~03~~0B~~10~
+vehículos que protegen=~03~~0B~~11~
+la isla pequeña. Esto=~03~~0B~~12~
+protegerá la isla de=~03~~0B~~13~
+nuevos ataques.=\                   ~FF~#224
+;000BFC36{-~01~=~19~~E2~H=~1D~u~1E~~02~~14~~03~GREEN BERETS=~02~~14~~04~HIDING IN THE=~02~~14~~05~JUNGLE:=~02~~14~~06~LOOK FOR PURPLE=~02~~14~~07~SMOKE SIGNAL.=~02~~14~~08~BOMB ON=~02~~14~~09~SOUTH ISLAND=~03~~09~~0D~6.Hover & auto-unload an=~03~~09~~0E~  Eradication bomb onto =~03~~09~~0F~  the smoke flare in the=~03~~09~~10~  SW jungle to blast a=~03~~09~~11~  clearing. Then get our=~03~~09~~12~  troops out. Snipers may=~03~~09~~13~  fire on the clearing.=~FF~}#456#312
+-~01~=~19~~E2~H=~1D~u~1E~~02~~14~~03~
+BOINAS VERDES=~02~~14~~04~
+OCULTOS EN LA=~02~~14~~05~
+JUNGLA:=~02~~14~~06~
+BUSCA LA SEÑAL=~02~~14~~07~
+DE HUMO LILA.=~02~~14~~08~
+BOMBA EN LA=~02~~14~~09~
+ISLA DEL SUR=~03~~09~~0D~
+6.Sobrevuela y auto-=~03~~0B~~0E~
+descarga una bomba de=~03~~0B~~0F~
+Erradicación en la=~03~~0B~~10~
+bengala de la jungla=~03~~0B~~11~
+para abrir un claro.=~03~~0B~~12~
+Saca a nuestras tropas.=~03~~0B~~13~
+Hay francotiradores.=\                   ~FF~#312
+;000BFD6E{.~01~=~19~~E4~~9A~=~1D~~A9~P~02~~14~~03~RADAR AT=~02~~14~~04~PUMPING=~02~~14~~05~STATION=~02~~14~~06~AND OIL=~02~~14~~07~FIELDS=~03~~09~~0D~1.Destroy the pumping=~03~~09~~0E~  station and enemy oil=~03~~09~~0F~  fields on the coastal=~03~~09~~10~  cliffs. Blasting these=~03~~09~~11~  monitoring stations=~03~~09~~12~  will keep them from=~03~~09~~13~  tracking your location.=~FF~}#381#252
+.~01~=~19~~E4~~9A~=~1D~~A9~P~02~~14~~03~
+RADAR EN=~02~~14~~04~
+ESTACIÓN DE=~02~~14~~05~
+BOMBEO Y=~02~~14~~06~
+CAMPOS=~02~~14~~07~
+PETROLÍFEROS=~03~~09~~0D~
+1.Destruye la estación=~03~~0B~~0E~
+de bombeo y los campos=~03~~0B~~0F~
+petrolíferos de los=~03~~0B~~10~
+acantilados costeros.=~03~~0B~~11~
+Volar estas estaciones=~03~~0B~~12~
+de monitoreo evitará=~03~~0B~~13~
+que te localicen.=\    ~FF~#252
+|1136
+@000BFE6A-000C028C-FF
+;000BFE6A{/~01~=~19~~E3~~D4~=~1D~~93~~DA~~02~~14~~03~SECURE=~02~~14~~04~SMALLER=~02~~14~~05~OIL RIGS=~02~~14~~06~=~02~~14~~07~PROTECTED BY=~02~~14~~08~PHALANX=~02~~14~~09~WEAPONS=~03~~09~~0D~2.Destroy the two smaller=~03~~09~~0E~  oil drilling platforms.=~03~~09~~0F~  Take out the enemy=~03~~09~~10~  weapons guarding the=~03~~09~~11~  rigs to reclaim the=~03~~09~~12~  Transport Chopper and=~03~~09~~13~  landing zone.=~FF~}#415#265
+/~01~=~19~~E3~~D4~=~1D~~93~~DA~~02~~14~~03~
+ASEGURA LAS=~02~~14~~04~
+PLATAFORMAS    =~02~~14~~05~
+PEQUEÑAS   =~02~~14~~07~
+PROTEGIDAS POR=~02~~14~~08~
+ARMAS PHALANX=~03~~09~~0D~
+2.Destruye las dos=~03~~0B~~0E~
+plataformas petroleras=~03~~0B~~0F~
+pequeñas. Elimina las=~03~~0B~~10~
+armas enemigas que las=~03~~0B~~11~
+protegen para reclamar=~03~~0B~~12~
+el Transporte y la zona=~03~~0B~~13~
+de aterrizaje.=~FF~#265
+;000BFF73{~FF~}#004#001
+~FF~#001
+;000BFF74{0~01~=~19~~E4~~16~=~1D~~AA~~E0~~02~~14~~03~SINKING=~02~~14~~04~CRUISE SHIP=~02~~14~~05~ATTACKED BY=~02~~14~~06~ENEMY=~02~~14~~07~WARSHIPS=~03~~09~~0D~3.Save the 20 known=~03~~09~~0E~  survivors of a cruise=~03~~09~~0F~  ship blasted by the=~03~~09~~10~  enemy. Fly them to=~03~~09~~11~  safety at the small rig=~03~~09~~12~  nearby before their=~03~~09~~13~  ship sinks or explodes.=~FF~}#387#255
+0~01~=~19~~E4~~16~=~1D~~AA~~E0~~02~~14~~03~
+CRUCERO=~02~~14~~04~
+HUNDIÉNDOSE=~02~~14~~05~
+SIENDO=~02~~14~~06~
+ATACADO POR=~02~~14~~07~
+BUQUES DE=~02~~14~~08~
+GUERRA=~03~~09~~0D~
+3.Salva a los veinte=~03~~0B~~0E~
+supervivientes de un=~03~~0B~~0F~
+crucero atacado por el=~03~~0B~~10~
+enemigo. Llévalos a=~03~~0B~~11~
+lugar seguro en las=~03~~0B~~12~
+plataformas cercanas=~03~~0B~~13~
+antes de que se hunda.=~FF~#255
+;000C0073{~FF~}#004#001
+~FF~#001
+;000C0074{1~01~=~19~~E1~~40~=~1D~~AA~$~02~~14~~03~INTERCEPT=~02~~14~~04~ENEMY=~02~~14~~05~DESTROYER=~02~~14~~06~=~02~~14~~07~COVERS LARGE=~02~~14~~08~OIL RIG WITH=~02~~14~~09~ALERT ZONE=~03~~09~~0D~4.Intercept Malone's=~03~~09~~0E~  Destroyer. It has=~03~~09~~0F~  already disabled one of=~03~~09~~10~  our friendly Russian=~03~~09~~11~  Boomers & could attack=~03~~09~~12~  the coast if not=~03~~09~~13~  stopped.=~FF~}#409#262
+1~01~=~19~~E1~~40~=~1D~~AA~$~02~~14~~03~
+INTERCEPTA AL=~02~~14~~04~
+DESTRUCTOR=~02~~14~~05~
+ENEMIGO=~02~~14~~06~=~02~~14~~07~
+CUBRE ZONA DE=~02~~14~~08~
+ALERTA DE  =~02~~14~~09~
+PLATAFORMAS  =~03~~09~~0D~
+4.Intercepta el=~03~~0B~~0E~
+Destructor de Malone.=~03~~0B~~0F~
+Ya ha inutilizado un=~03~~0B~~10~
+Boomer de nuestros=~03~~0B~~11~
+amigos rusos y podría=~03~~0B~~12~
+atacar la costa si no=~03~~0B~~13~
+es detenido.=~FF~#262
+;000C017A{2~01~=~19~~E4~~16~=~1D~~A8~~92~~02~~14~~03~RUSSIAN=~02~~14~~04~NUCLEAR=~02~~14~~05~SUBMARINE=~02~~14~~06~DISABLED BY=~02~~14~~07~MALONE'S=~02~~14~~08~DESTROYER=~03~~09~~0D~5.Airlift the crew of the=~03~~09~~0E~  Russian boomer to=~03~~09~~0F~  safety. Then skyhook a=~03~~09~~10~  repair cargo from the=~03~~09~~11~  awaiting tugboat to=~03~~09~~12~  their engineers before=~03~~09~~13~  the reactor melts down.=~FF~}#416#275
+2~01~=~19~~E4~~16~=~1D~~A8~~92~~02~~14~~03~
+SUBMARINO=~02~~14~~04~
+NUCLEAR RUSO=~02~~14~~05~
+INHABILITADO=~02~~14~~06~
+POR EL=~02~~14~~07~
+DESTRUCTOR DE=~02~~14~~08~
+MALONE=~03~~09~~0D~
+5.Lleva a la tripulación=~03~~0B~~0E~
+del boomer Ruso a lugar=~03~~0B~~0F~
+seguro. Luego lleva una=~03~~0B~~10~
+carga de reparación del=~03~~0B~~11~
+remolcador a sus=~03~~0B~~12~
+ingenieros antes de que=~03~~0B~~13~
+el reactor se fusione.=~FF~#275
+|1059
+@000C028D-000C071A-FF
+;000C028D{~FF~}#004#001
+~FF~#001
+;000C028E{3~01~=~19~~E2~~8A~=~1D~T~40~~02~~14~~03~BLAST=~02~~14~~04~ENEMY=~02~~14~~05~FIGHTERS=~02~~14~~06~BEFORE=~02~~14~~07~TAKE-OFF=~03~~09~~0D~6.Destroy enemy planes=~03~~09~~0E~  on the large oil rig.=~03~~09~~0F~  Blast the jets before=~03~~09~~10~  they take off. Watch =~03~~09~~11~  for jets on the=~03~~09~~12~  aircraft elevators.=~FF~}#336#216
+3~01~=~19~~E2~~8A~=~1D~T~40~~02~~14~~03~
+DERRIBA LOS=~02~~14~~04~
+CAZAS ENEMIGOS=~02~~14~~05~
+ANTES DE QUE=~02~~14~~06~
+DESPEGUEN=~03~~09~~0D~
+6.Destruye los cazas de=~03~~0B~~0E~
+la plataforma grande.=~03~~0B~~0F~
+Derriba sus cazas antes=~03~~0B~~10~
+de despegar. Cuidado =~03~~0B~~11~
+con los cazas de los=~03~~0B~~12~
+elevadores.=~FF~#216
+;000C0366{4~01~=~19~~E3~~D4~=~1D~~A7~~C0~~02~~14~~03~ELIMINATE=~02~~14~~04~ALL ENEMY=~02~~14~~05~WEAPONS THEN=~02~~14~~06~BLAST OPS=~02~~14~~07~BUILDING TO=~02~~14~~08~SECURE LARGE=~02~~14~~09~OIL RIG=~03~~09~~0D~7.Secure the large rig=~03~~09~~0E~  then land your chopper=~03~~09~~0F~  nearby and go inside.=~03~~09~~10~  We believe that copilot=~03~~09~~11~  'Stinger' is being held=~03~~09~~12~  captive in one of the=~03~~09~~13~  outside rig buildings.=~FF~}#452#302
+4~01~=~19~~E3~~D4~=~1D~~A7~~C0~~02~~14~~03~
+ELIMINA LAS=~02~~14~~04~
+ARMAS ENEMIGAS=~02~~14~~05~
+Y EXPLOTA EL=~02~~14~~06~
+EDIFICIO DE=~02~~14~~07~
+OPERACIONES=~02~~14~~08~
+PARA ASEGURAR=~02~~14~~09~
+LA PLATAFORMA=~03~~09~~0D~
+7.Asegura la plataforma=~03~~0B~~0E~
+grande y aterriza cerca=~03~~0B~~0F~
+y entra. Creemos que el=~03~~0B~~10~
+copiloto Stinger está=~03~~0B~~11~
+cautivo en uno de los=~03~~0B~~12~
+edificios del exterior=~03~~0B~~13~
+de la plataforma.=~FF~#302
+;000C0494{5~02~=~19~~E4~X=~1A~~14~~C0~~02~~14~~03~SURVEILLANCE=~02~~14~~04~GUN-CAMS=~03~~09~~0D~1.Knock out the 4 machine=~03~~09~~0E~  gun/surveillance camera=~03~~09~~0F~  installations. These=~03~~09~~10~  cameras not only alert=~03~~09~~11~  the area of your=~03~~09~~12~  presence, but they are=~03~~09~~13~  also deadly!=~FF~}#321#219
+5~02~=~19~~E4~X=~1A~~14~~C0~~02~~14~~03~
+CÁMARAS DE=~02~~14~~04~
+VIGILANCIA=~02~~14~~05~
+ARMADAS=~03~~09~~0D~
+1.Derriba las cuatro     =~03~~0B~~0E~
+cámaras de vigilancia.=~03~~0B~~0F~
+Estas cámaras no solo=~03~~0B~~10~
+alertan a la zona de tu=~03~~0B~~11~
+presencia, si no que=~03~~0B~~12~
+también son mortales!=~03~~0B~~13~
+         =~FF~#219
+;000C056F{~FF~}#004#001
+~FF~#001
+;000C0570{6~01~=~19~~E2~~8A~=~1D~T~40~~02~~14~~03~DESTROY=~02~~14~~04~ENEMY JET=~02~~14~~05~FIGHTERS=~03~~09~~0D~2.Destroy the planes=~03~~09~~0E~  getting ready for take-=~03~~09~~0F~  off. They must be=~03~~09~~10~  stopped before they can=~03~~09~~11~  begin an off-shore=~03~~09~~12~  attack run.=~FF~}#295#193
+6~01~=~19~~E2~~8A~=~1D~T~40~~02~~14~~03~
+DESTRUYE LOS=~02~~14~~04~
+CAZAS ENEMIGOS=~02~~14~~05~
+    =~03~~09~~0D~
+2.Destruye los aviones=~03~~0B~~0E~
+preparándose para=~03~~0B~~0F~
+despegar. Deben ser=~03~~0B~~10~
+detenidos antes de que   =~03~~0B~~11~
+inicien una carrera en=~03~~0B~~12~
+alta mar.  =~FF~#193
+;000C0631{~FF~}#004#001
+~FF~#001
+;000C0632{7~01~=~19~~E2~H=~1D~~AB~~D2~~02~~14~~03~KEITH MICHAELS=~02~~14~~04~CODENAME:=~02~~14~~05~MAVERICK=~03~~09~~0D~3.Find Agent Maverick. He=~03~~09~~0E~  was wounded setting the=~03~~09~~0F~  Air Strike Beacon & is=~03~~09~~10~  lost somewhere in the=~03~~09~~11~  rig. Locate him to get=~03~~09~~12~  the code to arm the=~03~~09~~13~  beacon.=~FF~}#344#233
+7~01~=~19~~E2~H=~1D~~AB~~D2~~02~~14~~03~
+KEITH MICHAELS=~02~~14~~04~
+ALIAS:=~02~~14~~05~
+MAVERICK=~03~~09~~0D~
+3.Encuentra al Agente=~03~~0B~~0E~
+Maverick. Fue herido=~03~~0B~~0F~
+colocando la Baliza del   =~03~~0B~~10~
+Ataque Aéreo y le=~03~~0B~~11~
+perdimos. Encuéntralo   =~03~~0B~~12~
+para conseguir el     =~03~~0B~~13~
+código de la baliza.    =~FF~#233
+|1166
+@000C071B-000C0C02-FF
+;000C071B{~FF~}#004#001
+~FF~#001
+;000C071C{8~01~=~19~~DF~~B4~=~1D~~B8~~A0~~02~~14~~03~SET=~02~~14~~04~AIR STRIKE=~02~~14~~05~BEACON.=~03~~09~~0D~4.Reach the far corner of=~03~~09~~0E~  the rig & activate the=~03~~09~~0F~  Air Strike Beacon.=~03~~09~~10~  Enter the correct=~03~~09~~11~  activation code to=~03~~09~~12~  begin broadcasting the=~03~~09~~13~  signal.Then escape!=~FF~}#338#224
+8~01~=~19~~DF~~B4~=~1D~~B8~~A0~~02~~14~~03~
+COLOCA BALIZA=~02~~14~~04~
+DE ATAQUE=~02~~14~~05~
+AÉREO.=~03~~09~~0D~
+4.Llega a la esquina de=~03~~0B~~0E~
+la plataforma y activa=~03~~0B~~0F~
+la Baliza.=~03~~0B~~10~
+Introduce el código de=~03~~0B~~11~
+activación correcto    =~03~~0B~~12~
+para emitir la señal.   =~03~~0B~~13~
+Entonces escapa!     =~FF~#224
+;000C07FC{9~01~=~19~~E4~~9A~=~1D~~92~~D4~~02~~14~~03~RESCUE OUR=~02~~14~~04~SCOUT TEAM=~02~~14~~05~=~02~~14~~06~KNOCK OUT=~02~~14~~07~TOWERS=~02~~14~~08~FIRST=~03~~09~~0D~1.Shut down early warning=~03~~09~~0E~  towers protecting the=~03~~09~~0F~  area around the POW=~03~~09~~10~  camp. Then bust our=~03~~09~~11~  Strike scout team out=~03~~09~~12~  of their prisons.=~FF~}#363#231
+9~01~=~19~~E4~~9A~=~1D~~92~~D4~~02~~14~~03~
+RESCATA AL=~02~~14~~04~
+EQUIPO DE=~02~~14~~05~
+EXPLORADORES=~02~~14~~07~
+ELIMINA LAS=~02~~14~~08~
+TORRES ANTES=~03~~09~~0D~
+1.Apaga las torres de    =~03~~0B~~0E~
+alerta temprana que  =~03~~0B~~0F~
+protegen la zona de los=~03~~0B~~10~
+PGGS. Entonces saca a=~03~~0B~~11~
+nuestro equipo de sus=~03~~0B~~12~
+prisiones. =~FF~#231
+;000C08E3{~FF~}#004#001
+~FF~#001
+;000C08E4{:~01~=~19~~E3~~D4~=~1D~~92~~D4~~02~~14~~03~DESTROY=~02~~14~~04~ENEMY=~02~~14~~05~BATTLE CAMP=~03~~09~~0D~2.Destroy the enemy's=~03~~09~~0E~  battle camp. This will=~03~~09~~0F~  keep reinforcements=~03~~09~~10~  from attacking our=~03~~09~~11~  landing zone.=~FF~}#263#167
+:~01~=~19~~E3~~D4~=~1D~~92~~D4~~02~~14~~03~
+DESTRUYE EL=~02~~14~~04~
+CAMPAMENTO=~02~~14~~05~
+ENEMIGO=~03~~09~~0D~
+2.Destruye el campamento=~03~~0B~~0E~
+de combate enemigo.=~03~~0B~~0F~
+Así los refuerzos no=~03~~0B~~10~
+atacarán la zona de=~03~~0B~~11~
+aterrizaje.   =~FF~#167
+;000C098B{~FF~}#004#001
+~FF~#001
+;000C098C{~3B~~01~=~19~~E2~H=~1D~~3D~p~02~~14~~03~RESCUE=~02~~14~~04~DEFENSE=~02~~14~~05~CONTRACTORS=~03~~09~~0D~3.Rescue the imprisoned=~03~~09~~0E~  defense contractors.=~03~~09~~0F~  Paratroopers are=~03~~09~~10~  dropping in to execute=~03~~09~~11~  them at any moment.=~FF~}#268#175
+~3B~~01~=~19~~E2~H=~1D~~3D~p~02~~14~~03~
+RESCATA A LOS=~02~~14~~04~
+CONTRATISTAS=~02~~14~~05~
+DE DEFENSA=~03~~09~~0D~
+3.Rescata a los=~03~~0B~~0E~
+contratistas de=~03~~0B~~0F~
+prisión.=~03~~0B~~10~
+En cualquier momento=~03~~0B~~11~
+saldrán paracaidistas a=~03~~0B~~12~
+ejecutarlos.=~FF~#175
+;000C0A3B{~FF~}#004#001
+~FF~#001
+;000C0A3C{<~01~=~19~~DF~~B4~=~1D~Sl~02~~14~~03~STEAL GAV=~02~~14~~04~PLANS=~03~~09~~0D~4.The plans for Malone's=~03~~09~~0E~  Ground assault vehicle=~03~~09~~0F~  are being held in his=~03~~09~~10~  design & drafting=~03~~09~~11~  buildings. Steal the=~03~~09~~12~  super weapon plans=~03~~09~~13~  from these buildings.=~FF~}#315#216
+<~01~=~19~~DF~~B4~=~1D~Sl~02~~14~~03~
+ROBA LOS=~02~~14~~04~
+PLANOS DE LOS=~02~~14~~05~
+VATS=~03~~09~~0D~
+4.Los planos de los VATs=~03~~0B~~0E~
+de Malone están en los=~03~~0B~~0F~
+edificios de diseño y=~03~~0B~~10~
+bocetaje. Roba los=~03~~0B~~11~
+planos de la súper arma=~03~~0B~~12~
+de estos edificios.  =~03~~0B~~13~
+           =~FF~#216
+;000C0B14{~3D~~01~=~19~~E3~~D4~=~1D~v~D0~~02~~14~~03~DESTROY=~02~~14~~04~GAVS=~02~~14~~05~ARMOR:=~02~~14~~06~5000=~03~~09~~0D~5.Knock out the GAV guard=~03~~09~~0E~  then take command of an=~03~~09~~0F~  enemy GAV to destroy=~03~~09~~10~  the other GAVs. The=~03~~09~~11~  thick skin of a GAV is=~03~~09~~12~  too heavily armored for=~03~~09~~13~  the Mohican's guns.=~FF~}#362#239
+~3D~~01~=~19~~E3~~D4~=~1D~v~D0~~02~~14~~03~
+DESTRUYE LA=~02~~14~~04~
+ARMADURA DE=~02~~14~~05~
+LOS VATS:=~02~~14~~06~
+5000=~03~~09~~0D~
+5.Derriba al guardián VAT=~03~~0B~~0E~
+y toma el mando de un=~03~~0B~~0F~
+VAT enemigo y destruye=~03~~0B~~10~
+al resto. La gruesa=~03~~0B~~11~
+piel del VAT está=~03~~0B~~12~
+demasiado blindada para=~03~~0B~~13~
+las armas del Mohican.=~FF~#239
+|1256
+@000C0C03-000C10F2-FF
+;000C0C03{~FF~}#004#001
+~FF~#001
+;000C0C04{>~01~=~19~~E4~~16~=~1D~~91~,~02~~14~~03~BLAST TNT=~02~~14~~04~SHACK &=~02~~14~~05~EXPOSE=~02~~14~~06~SMART BOMB=~03~~09~~0D~6.Blast open the shack=~03~~09~~0E~  containing the smart=~03~~09~~0F~  bomb powerful enough to=~03~~09~~10~  close malone's factory=~03~~09~~11~  for good! Carry it to=~03~~09~~12~  the factory and drop it=~03~~09~~13~  on his front doorstep!=~FF~}#372#252
+>~01~=~19~~E4~~16~=~1D~~91~,~02~~14~~03~
+EXPLOTA CABAÑA=~02~~14~~04~
+TNT Y EXPÓN LA=~02~~14~~05~
+BOMBA LISTA =~03~~09~~0D~
+6.Explota la cabaña que=~03~~0B~~0E~
+contiene la bomba lista=~03~~0B~~0F~
+con potencia para      =~03~~0B~~10~
+cerrar la fábrica de   =~03~~0B~~11~
+Malone! Llévala a la   =~03~~0B~~12~
+fábrica y suéltala en  =~03~~0B~~13~
+la puerta de su casa!  =~FF~#252
+;000C0D00{?~01~=~19~~E2~H=~1D~~D8~~C4~~02~~14~~03~DESTROY=~02~~14~~04~BOMBS ON=~02~~14~~05~BAY &=~02~~14~~06~GOLDEN GATE=~02~~14~~07~BRIDGES=~03~~09~~0D~1.Protect the Bay &=~03~~09~~0E~  Golden Gate bridges=~03~~09~~0F~  from time bombs.=~03~~09~~10~  Shoot the bombs to=~03~~09~~11~  dislodge them.=~FF~}#294#183
+?~01~=~19~~E2~H=~1D~~D8~~C4~~02~~14~~03~
+DESTRUYE LAS=~02~~14~~04~
+BOMBAS DEL  =~02~~14~~05~
+PUENTE GOLDEN=~02~~14~~06~
+GATE=~03~~09~~0D~
+1.Protege la Bahía y el=~03~~0B~~0E~
+puente de las bombas de=~03~~0B~~0F~
+tiempo.=~03~~0B~~10~
+Dispara a las bombas =~03~~0B~~11~
+para soltarlas.      =~FF~#183
+;000C0DB7{~FF~}#004#001
+~FF~#001
+;000C0DB8{~40~~01~=~19~~E4~X=~1D~~D6~H~02~~14~~03~DESTROY=~02~~14~~04~MALONE'S=~02~~14~~05~RADIO=~02~~14~~06~TOWER=~03~~09~~0D~2.Destroy Malone's radio=~03~~09~~0E~  tower to stop the=~03~~09~~0F~  transmission of your=~03~~09~~10~  location.=~FF~}#237#144
+~40~~01~=~19~~E4~X=~1D~~D6~H~02~~14~~03~
+DESTRUYE LA=~02~~14~~04~
+TORRE DE RADIO=~02~~14~~05~
+DE MALONE=~03~~09~~0D~
+2.Destruye la torre de=~03~~0B~~0E~
+radio de Malone para=~03~~0B~~0F~
+que no transmita tu=~03~~0B~~10~
+posición. =~FF~#144
+;000C0E48{A~01~=~19~~DE~~EE~=~1D~~D9~~98~~02~~14~~03~DESTORY=~02~~14~~04~MALONE'S=~02~~14~~05~WEST COAST=~02~~14~~06~CORPORATE=~02~~14~~07~HQ=~03~~09~~0D~3.Destroy Malone's five=~03~~09~~0E~  Corporate HQ buildings.=~03~~09~~0F~  This will affect his=~03~~09~~10~  ability to command his=~03~~09~~11~  armies in the city.=~FF~}#316#202
+A~01~=~19~~DE~~EE~=~1D~~D9~~98~~02~~14~~03~
+DESTRUYE EL=~02~~14~~04~
+CG CORPORATIVO=~02~~14~~05~
+DE LA COSTA=~02~~14~~06~
+OESTE DE=~02~~14~~07~
+MALONE=~03~~09~~0D~
+3.Destruye los cinco=~03~~0B~~0E~
+edificios de Malone.=~03~~0B~~0F~
+Afectará a su capacidad=~03~~0B~~10~
+de comandar sus=~03~~0B~~11~
+ejércitos en la ciudad.=~FF~#202
+;000C0F12{B~01~=~19~~DE~~EE~=~1D~~D7~~1C~~02~~14~~03~WIPE OUT=~02~~14~~04~PRESIDIO=~02~~14~~05~TANK=~02~~14~~06~DEPOT=~03~~09~~0D~4.Destroy the Presidio=~03~~09~~0E~  Tank Depot. Blast all=~03~~09~~0F~  of the tanks and=~03~~09~~10~  buildings. Be on the=~03~~09~~11~  lookout for advanced =~03~~09~~12~  smart bomb weapons=~03~~09~~13~  you can use.=~FF~}#345#222
+B~01~=~19~~DE~~EE~=~1D~~D7~~1C~~02~~14~~03~
+ELIMINA EL=~02~~14~~04~
+DEPÓSITO DE=~02~~14~~05~
+TANQUES=~02~~14~~06~
+PRESIDIO=~03~~09~~0D~
+4.Destruye el depósito de=~03~~0B~~0E~
+tanques. Explota todos=~03~~0B~~0F~
+los tanques y los=~03~~0B~~10~
+edificios. Atento a las=~03~~0B~~11~
+armas avanzadas de=~03~~0B~~12~
+bombas listas usables.=~03~~0B~~13~
+    =~FF~#222
+;000C0FF0{C~01~=~19~~DE~~EE~=~1D~~B9~~A6~~02~~14~~03~MICRONICS=~02~~14~~04~HIGH-TECH=~02~~14~~05~RESEARCH=~02~~14~~06~CENTER=~02~~14~~07~IN GOLDEN=~02~~14~~08~GATE PARK=~03~~09~~0D~5.Destroy Malone's=~03~~09~~0E~  research center where=~03~~09~~0F~  he is completing work=~03~~09~~10~  on his laser weapon.=~03~~09~~11~  Blast the labs and=~03~~09~~12~  destroy any weapon=~03~~09~~13~  prototypes inside.=~FF~}#400#259
+C~01~=~19~~DE~~EE~=~1D~~B9~~A6~~02~~14~~03~
+CENTRO DE=~02~~14~~04~
+INVESTIGACIÓN=~02~~14~~05~
+MICRONICS EN=~02~~14~~06~
+EL PARQUE=~02~~14~~07~
+GOLDEN GATE=~03~~09~~0D~
+5.Destruye el centro de=~03~~0B~~0E~
+investigación de Malone=~03~~0B~~0F~
+donde intenta completar=~03~~0B~~10~
+su arma láser.=~03~~0B~~11~
+Explota los          =~03~~0B~~12~
+laboratorios y los   =~03~~0B~~13~
+prototipos dentro.   =~FF~#259
+|1264
+@000C10F3-000C1528-FF
+;000C10F3{~FF~}#004#001
+~FF~#001
+;000C10F4{D~02~=~19~~DE~~EE~=~19~~F7~~D4~~02~~14~~03~HOME BASE=~02~~14~~04~BEING=~02~~14~~05~ATTACKED=~03~~09~~0D~6.Your Landing Zone is=~03~~09~~0E~  under attack!! Secure=~03~~09~~0F~  the LZ building by=~03~~09~~10~  clearing it of all=~03~~09~~11~  enemy forces.=~FF~}#261#165
+D~02~=~19~~DE~~EE~=~19~~F7~~D4~~02~~14~~03~
+BASE SIENDO=~02~~14~~04~
+ATACADA=~03~~09~~0D~
+6.Tu Zona de Aterrizaje=~03~~0B~~0E~
+está siendo atacada!!=~03~~0B~~0F~
+Asegura el edificio LZ=~03~~0B~~10~
+despejándolo de toda=~03~~0B~~11~
+fuerza enemiga.       =~FF~#165
+;000C1199{~FF~}#004#001
+~FF~#001
+;000C119A{E~01~=~19~~E3~~D4~=~1D~~D7~~F0~~02~~14~~03~STOP=~02~~14~~04~MALONE'S=~02~~14~~05~RIGHT-HAND=~02~~14~~06~MAN FROM=~02~~14~~07~ESCAPING=~03~~09~~0D~7.Silence Malone's=~03~~09~~0E~  Henchman: He will try =~03~~09~~0F~  to run for it. Take=~03~~09~~10~  him out before he can=~03~~09~~11~  escape to warn the=~03~~09~~12~  other cult leaders.=~FF~}#343#220
+E~01~=~19~~E3~~D4~=~1D~~D7~~F0~~02~~14~~03~
+EVITA LA HUIDA=~02~~14~~04~
+DEL SEGUNDO AL=~02~~14~~05~
+MANDO DE=~02~~14~~06~
+MALONE=~03~~09~~0D~
+7.Silencia al Esbirro de=~03~~0B~~0E~
+Malone: Intentará huir.=~03~~0B~~0F~
+Elimínalo antes de que=~03~~0B~~10~
+pueda escapar para=~03~~0B~~11~
+avisar al resto de=~03~~0B~~12~
+líderes del culto.    =~FF~#220
+;000C1276{F~01~=~19~~E3~P=~1D~~DA~H~02~~14~~03~TAKE=~02~~14~~04~OVER=~02~~14~~05~ALCATRAZ=~03~~09~~0D~8.Secure the Landing Zone=~03~~09~~0E~  & land at Alcatraz. =~03~~09~~0F~  Clear the guard towers=~03~~09~~10~  then enter the prison.=~FF~}#231#150
+F~01~=~19~~E3~P=~1D~~DA~H~02~~14~~03~
+CONTROLA=~02~~14~~04~
+ALCATRAZ=~03~~09~~0D~
+8.Asegura la Zona de=~03~~0B~~0E~
+Aterrizaje y aterriza.=~03~~0B~~0F~
+Despeja las torres de=~03~~0B~~10~
+vigilancia y entra en=~03~~0B~~11~
+la prisión.=~FF~#150
+;000C130C{G~02~=~19~~E4~X=~1A~%~9C~~02~~14~~03~BLAST=~02~~14~~04~MOTION=~02~~14~~05~SENSORS=~03~~09~~0D~1.These motion sensors=~03~~09~~0E~  alert the region ahead=~03~~09~~0F~  of your presence.=~03~~09~~10~  They also unlock locked=~03~~09~~11~  gates. Destroy them to=~03~~09~~12~  proceed.=~FF~}#288#189
+G~02~=~19~~E4~X=~1A~%~9C~~02~~14~~03~
+DESTRUYE LOS=~02~~14~~04~
+SENSORES DE=~02~~14~~05~
+MOVIMIENTO=~03~~09~~0D~
+1.Estos sensores alertan=~03~~0B~~0E~
+de tu presencia.=~03~~0B~~0F~
+También desbloquean=~03~~0B~~10~
+puertas bloqueadas.=~03~~0B~~11~
+Destrúyelos para=~03~~0B~~12~
+continuar.     =~FF~#189
+;000C13C9{~FF~}#004#001
+~FF~#001
+;000C13CA{H~01~=~19~~DF~~B4~=~1D~Sl~02~~14~~03~WEAPON=~02~~14~~04~BLUEPRINTS=~03~~09~~0D~2.Take out the 6=~03~~09~~0E~  commanders guarding=~03~~09~~0F~  the blueprints of=~03~~09~~10~  Malone's secret weapon=~03~~09~~11~  & grab the plans.=~FF~}#235#154
+H~01~=~19~~DF~~B4~=~1D~Sl~02~~14~~03~
+PLANOS DEL=~02~~14~~04~
+ARMA=~03~~09~~0D~
+2.Deshazte de los 6=~03~~0B~~0E~
+comandantes que=~03~~0B~~0F~
+protegen los planos del=~03~~0B~~10~
+arma secreta de Malone=~03~~0B~~11~
+y agarra los planos.  =~FF~#154
+;000C1464{I~01~=~19~~E0~~FE~=~1D~~E3~~1E~~02~~14~~03~DESTROY=~02~~14~~04~WEAPONS=~02~~14~~05~STOCKPILE=~03~~09~~0D~3.Locate & destroy the=~03~~09~~0E~  M-16X weapons that=~03~~09~~0F~  Malone is stockpiling=~03~~09~~10~  for his army.=~03~~09~~11~  Blast open the crates=~03~~09~~12~  and grab the contents.=~FF~}#302#197
+I~01~=~19~~E0~~FE~=~1D~~E3~~1E~~02~~14~~03~
+DESTRUYE EL=~02~~14~~04~
+ARSENAL DE=~02~~14~~05~
+ARMAS=~03~~09~~0D~
+3.Ubica y destruye las=~03~~0B~~0E~
+armas M-16X que Malone=~03~~0B~~0F~
+está almacenando para=~03~~0B~~10~
+su ejército.    =~03~~0B~~11~
+Abre las cajas y recoge=~03~~0B~~12~
+su contenido.       =~FF~#197
+|1078
+@000C1529-000C19A4-FF
+;000C1529{~FF~}#004#001
+~FF~#001
+;000C152A{J~01~=~19~~E4~~16~=~1D~~DB~N~02~~14~~03~FIND AGENT=~02~~14~~04~LONG-HAUL=~03~~09~~0D~4.Locate the jail cell=~03~~09~~0E~  holding Long-Haul and=~03~~09~~0F~  blast it open to free=~03~~09~~10~  him. He'll show you=~03~~09~~11~  the way to the exit.=~FF~}#253#169
+J~01~=~19~~E4~~16~=~1D~~DB~N~02~~14~~03~
+HALLA AL=~02~~14~~04~
+AGENTE=~02~~14~~05~
+DISTANCIA=~03~~09~~0D~
+4.Ubica la celda que=~03~~0B~~0E~
+tiene a Distancia y=~03~~0B~~0F~
+ábrela para liberarlo.=~03~~0B~~10~
+Te mostrará el camino a=~03~~0B~~11~
+la salida.         =~FF~#169
+;000C15D3{~FF~}#004#001
+~FF~#001
+;000C15D4{K~01~=~19~~E3~~92~=~1D~~E4~ ~02~~14~~03~MALONE'S=~02~~14~~04~FINANCIAL=~02~~14~~05~HEADQUARTERS=~02~~14~~06~=~02~~14~~07~ALERTED=~02~~14~~08~BY TWO RADAR=~02~~14~~09~BUILDINGS=~03~~09~~0D~1.Take out Malone's HQ to=~03~~09~~0E~  blind his monitoring of=~03~~09~~0F~  the attack on NYC. Take=~03~~09~~10~  out the two buildings=~03~~09~~11~  south of his HQ first=~03~~09~~12~  to shut down the alert=~03~~09~~13~  zone on the area.=~FF~}#435#288
+K~01~=~19~~E3~~92~=~1D~~E4~ ~02~~14~~03~
+CUARTEL=~02~~14~~04~
+GENERAL=~02~~14~~05~
+FINANCIERO DE=~02~~14~~06~
+MALONE  =~02~~14~~07~
+=~02~~14~~08~
+ALERTADO POR=~02~~14~~09~
+DOS RADARES=~03~~09~~0D~
+1.Derriba el CG de Malone=~03~~0B~~0E~
+para cegar su monitoreo=~03~~0B~~0F~
+del ataque a NYC.      =~03~~0B~~10~
+Derriba los dos        =~03~~0B~~11~
+edificios al sur del CG=~03~~0B~~12~
+antes para apagar su   =~03~~0B~~13~
+zona de alerta.        =~FF~#288
+;000C16F4{L~01~=~19~~DE~~EE~=~1D~~FC~J~02~~14~~03~RESCUE=~02~~14~~04~CIVILIANS=~02~~14~~05~FROM=~02~~14~~06~BURNING=~02~~14~~07~BUILDINGS=~03~~09~~0D~2.Save the 27 civilians=~03~~09~~0E~  from the burning=~03~~09~~0F~  buildings. Get them=~03~~09~~10~  to safety before the=~03~~09~~11~  roofs begin to=~03~~09~~12~  collapse.=~FF~}#321#201
+L~01~=~19~~DE~~EE~=~1D~~FC~J~02~~14~~03~
+RESCATA A LOS=~02~~14~~04~
+CIVILES DE=~02~~14~~05~
+EDIFICIOS EN=~02~~14~~06~
+LLAMAS=~03~~09~~0D~
+2.Salva a los 27 civiles=~03~~0B~~0E~
+de los edificios en=~03~~0B~~0F~
+llamas. Llévalos a=~03~~0B~~10~
+lugar seguro antes de=~03~~0B~~11~
+que los tejados se=~03~~0B~~12~
+caigan.  =~FF~#201
+;000C17BD{~FF~}#004#001
+~FF~#001
+;000C17BE{M~01~=~19~~E3~~D4~=~1D~~FA~~A2~~02~~14~~03~DISPOSE OF=~02~~14~~04~ENEMY=~02~~14~~05~CHOPPERS=~02~~14~~06~ON ROOFTOPS=~02~~14~~07~PROTECTED BY=~02~~14~~08~ONE RADAR=~02~~14~~09~BUILDING=~03~~09~~0D~3.Dispose of Malone's=~03~~09~~0E~  enemy choppers located=~03~~09~~0F~  in a rooftop depot on=~03~~09~~10~  the east side of town.=~FF~}#333#210
+M~01~=~19~~E3~~D4~=~1D~~FA~~A2~~02~~14~~03~
+DESHAZTE DE=~02~~14~~04~
+HELICÓPTEROS=~02~~14~~05~
+ENEMIGOS EN=~02~~14~~06~
+TEJADOS=~02~~14~~07~
+PROTEGIDOS POR=~02~~14~~08~
+UN EDIFICIO DE=~02~~14~~09~
+RADAR   =~03~~09~~0D~
+3.Deshazte de los=~03~~0B~~0E~
+helicópteros de un=~03~~0B~~0F~
+almacén de un tejado al=~03~~0B~~10~
+este de la ciudad.  =~FF~#210
+;000C1890{N~01~=~19~~E4~~16~=~1D~~FB~v~02~~14~~03~RESCUE=~02~~14~~04~NAFTA=~02~~14~~05~LEADERS=~02~~14~~06~FROM=~02~~14~~07~DAMAGED=~02~~14~~08~WORLD TRADE=~02~~14~~09~CENTER=~03~~09~~0D~4.Fly to the Trade Center=~03~~09~~0E~  and save the 20 NAFTA=~03~~09~~0F~  Business Leaders before=~03~~09~~10~  the Trade Center=~03~~09~~11~  suffers further damage.=~03~~09~~12~  Hit the radar building=~03~~09~~13~  East of the WTC first.=~FF~}#424#277
+N~01~=~19~~E4~~16~=~1D~~FB~v~02~~14~~03~
+RESCATA A LOS=~02~~14~~04~
+LÍDERES DE LA=~02~~14~~05~
+NAFTA DEL=~02~~14~~06~
+EDIFICIO=~02~~14~~07~
+DAÑADO DEL=~02~~14~~08~
+WORLD TRADE=~02~~14~~09~
+CENTER=~03~~09~~0D~
+4.Vuela al WTC y salva a=~03~~0B~~0E~
+los 20 Líderes de=~03~~0B~~0F~
+Negocios NAFTA antes de=~03~~0B~~10~
+que el edificio sufra=~03~~0B~~11~
+más daños. Dispara=~03~~0B~~12~
+primero al edificio de=~03~~0B~~13~
+radar al este. =~FF~#277
+|1148
+@000C19A5-000C1DD9-FF
+;000C19A5{~FF~}#004#001
+~FF~#001
+;000C19A6{O~01~=~19~~DE~~EE~=~1D~~F9~~F2~~02~~14~~03~TIME BOMB=~02~~14~~04~IN WTC=~02~~14~~05~=~02~~14~~06~C4=~02~~14~~07~PLASTIQUE=~02~~14~~08~EXPLOSIVES=~03~~09~~0D~5.Disarm the time bomb in=~03~~09~~0E~  the World Trade Center.=~03~~09~~0F~  Land on the pad next to=~03~~09~~10~  the buildings and send=~03~~09~~11~  your copilot inside to=~03~~09~~12~  cut the correct wire.=~FF~}#373#241
+O~01~=~19~~DE~~EE~=~1D~~F9~~F2~~02~~14~~03~
+BOMBA DE=~02~~14~~04~
+TIEMPO EN EL=~02~~14~~05~
+WTC     =~02~~14~~06~
+=~02~~14~~07~
+EXPLOSIVOS=~02~~14~~08~
+PLÁSTICOS C4=~03~~09~~0D~
+5.Desarma la bomba del=~03~~0B~~0E~
+WTC. Aterriza en el=~03~~0B~~0F~
+helipuerto cercano a=~03~~0B~~10~
+los edificios y envía a=~03~~0B~~11~
+tu copiloto dentro a=~03~~0B~~12~
+cortar el cable=~03~~0B~~13~
+correcto.=~FF~#241
+;000C1A97{~FF~}#004#001
+~FF~#001
+;000C1A98{P~01~=~19~~DE~~EE~=~1E~~0D~2~02~~14~~03~CAPTURE=~02~~14~~04~RADAR=~02~~14~~05~COMMANDER=~03~~09~~0D~1.Find the radar command=~03~~09~~0E~  vehicle & capture the=~03~~09~~0F~  commander. He will tell=~03~~09~~10~  you the locations of=~03~~09~~11~  the hidden radar sites.=~FF~}#276#183
+P~01~=~19~~DE~~EE~=~1E~~0D~2~02~~14~~03~
+CAPTURA AL=~02~~14~~04~
+COMANDANTE DE=~02~~14~~05~
+RADAR     =~03~~09~~0D~
+1.Halla el vehículo de=~03~~0B~~0E~
+mando del radar y=~03~~0B~~0F~
+captura al comandante.=~03~~0B~~10~
+Te dirá las ubicaciones=~03~~0B~~11~
+de los sitios de radar.=~FF~#183
+;000C1B4F{~FF~}#004#001
+~FF~#001
+;000C1B50{Q~02~=~19~~E4~X=~1A~=~DE~~02~~14~~03~DESTROY=~02~~14~~04~HIDDEN=~02~~14~~05~RADAR=~02~~14~~06~UNITS=~03~~09~~0D~2.Find & destroy the=~03~~09~~0E~  early warning radar=~03~~09~~0F~  units hidden on=~03~~09~~10~  civilian structures &=~03~~09~~11~  landmarks around the=~03~~09~~12~  city. Look for the=~03~~09~~13~  rotating dishes.=~FF~}#336#219
+Q~02~=~19~~E4~X=~1A~=~DE~~02~~14~~03~
+DESTRUYE LAS=~02~~14~~04~
+UNIDADES DE=~02~~14~~05~
+RADAR OCULTAS=~03~~09~~0D~
+2.Halla y destruye las=~03~~0B~~0E~
+unidades ocultas de=~03~~0B~~0F~
+detección temprana por=~03~~0B~~10~
+radar en estructuras=~03~~0B~~11~
+civiles y monumentos.=~03~~0B~~12~
+Busca discos=~03~~0B~~13~
+giratorios.     =~FF~#219
+;000C1C2B{~FF~}#004#001
+~FF~#001
+;000C1C2C{R~01~=~19~~DE~~EE~=~1E~~0C~^~02~~14~~03~CLEAR=~02~~14~~04~ROAD=~02~~14~~05~BLOCKS=~03~~09~~0D~3.Malone's henchmen have=~03~~09~~0E~  put up roadblocks &=~03~~09~~0F~  are attacking civilians=~03~~09~~10~  fleeing the area.=~03~~09~~11~  Open the roads with a=~03~~09~~12~  few rockets before any=~03~~09~~13~  vacationers are lost.=~FF~}#336#225
+R~01~=~19~~DE~~EE~=~1E~~0C~^~02~~14~~03~
+DESPEJA LOS=~02~~14~~04~
+BARRICADAS DE=~02~~14~~05~
+CARRETERA=~03~~09~~0D~
+3.Los secuaces de Malone=~03~~0B~~0E~
+colocaron barricadas y=~03~~0B~~0F~
+atacan a los civiles=~03~~0B~~10~
+que huyen.=~03~~0B~~11~
+Abre las carreteras con=~03~~0B~~12~
+cohetes antes de que=~03~~0B~~13~
+perdamos veraneantes. =~FF~#225
+;000C1D0D{~FF~}#004#001
+~FF~#001
+;000C1D0E{S~02~=~19~~E3~~D4~=~1A~'n~02~~14~~03~CLEAR=~02~~14~~04~STRIP OF=~02~~14~~05~ENEMY=~02~~14~~06~WEAPONS=~03~~09~~0D~4.Destroy the enemy=~03~~09~~0E~  weapons that have the=~03~~09~~0F~  city under siege. Clear=~03~~09~~10~  the famous strip of=~03~~09~~11~  enemy SAMs & Ground=~03~~09~~12~  Assault Vehicles.=~FF~}#312#204
+S~02~=~19~~E3~~D4~=~1A~'n~02~~14~~03~
+DESPEJA LA=~02~~14~~04~
+TIRA DE ARMAS=~02~~14~~05~
+ENEMIGAS=~03~~09~~0D~
+4.Destruye las armas=~03~~0B~~0E~
+enemigas que tienen a=~03~~0B~~0F~
+la ciudad bajo asedio.=~03~~0B~~10~
+Limpia la famosa tira=~03~~0B~~11~
+de SAMs y Vehículos de=~03~~0B~~12~
+Asalto enemigos.    =~FF~#204
+|1077
+@000C1DDA-000C2236-FF
+;000C1DDA{T~01~=~19~~E4~~16~=~1E~~0B~~AE~~02~~14~~03~KNOCK OUT=~02~~14~~04~POWER=~02~~14~~05~GRID=~03~~09~~0D~5.Knock out the power=~03~~09~~0E~  relay station on the=~03~~09~~0F~  edge of town. When it=~03~~09~~10~  is destroyed the enemy=~03~~09~~11~  defenses will weaken &=~03~~09~~12~  their targeting systems=~03~~09~~13~  systems will fail.=~FF~}#342#228
+T~01~=~19~~E4~~16~=~1E~~0B~~AE~~02~~14~~03~
+DERRIBA LA=~02~~14~~04~
+CENTRAL=~02~~14~~05~
+ELÉCTRICA   =~03~~09~~0D~
+5.Derriba la estación de=~03~~0B~~0E~
+distribución en las=~03~~0B~~0F~
+afueras de la ciudad.=~03~~0B~~10~
+Cuando sea destruida=~03~~0B~~11~
+las defensas enemigas=~03~~0B~~12~
+se debilitarán y sus=~03~~0B~~13~
+localizadores fallarán.=~FF~#228
+;000C1EBE{U~02~=~19~~E3~~D4~=~1A~~14~b~02~~14~~03~CAPTURE=~02~~14~~04~MALONE'S=~02~~14~~05~CASINO=~03~~09~~0D~6.Clear Malone's casino=~03~~09~~0E~  HQ of hostiles. Blast=~03~~09~~0F~  the AAA guns protecting=~03~~09~~10~  the landing zone on the=~03~~09~~11~  lighted cement parking=~03~~09~~12~  lot in front.=~FF~}#305#203
+U~02~=~19~~E3~~D4~=~1A~~14~b~02~~14~~03~
+CAPTURA EL=~02~~14~~04~
+CASINO DE=~02~~14~~05~
+MALONE=~03~~09~~0D~
+6.Limpia el casino CG de=~03~~0B~~0E~
+Malone de hostilidades.=~03~~0B~~0F~
+Explota las AAA que=~03~~0B~~10~
+protegen el aterrizaje=~03~~0B~~11~
+en el aparcamiento    =~03~~0B~~12~
+iluminado de delante.=~FF~#203
+;000C1F89{~FF~}#004#001
+~FF~#001
+;000C1F8A{V~01~=~19~~E3~~92~=~1D~~FD~P~02~~14~~03~LAND AND=~02~~14~~04~ENTER=~02~~14~~05~CASINO=~03~~09~~0D~7.Set your attack=~03~~09~~0E~  chopper down on the=~03~~09~~0F~  landing zone &=~03~~09~~10~  enter Malone's casino=~03~~09~~11~  on foot.=~FF~}#242#149
+V~01~=~19~~E3~~92~=~1D~~FD~P~02~~14~~03~
+ATERRIZA Y=~02~~14~~04~
+ENTRA AL=~02~~14~~05~
+CASINO=~03~~09~~0D~
+7.Baja tu helicóptero a=~03~~0B~~0E~
+la zona de aterrizaje y=~03~~0B~~0F~
+entra al casino de=~03~~0B~~10~
+Malone a pie.         =~FF~#149
+;000C201F{~FF~}#004#001
+~FF~#001
+;000C2020{W~01~=~19~~DE~~EE~=~1E~"~C2~~02~~14~~03~CASINO=~02~~14~~04~PIT BOSSES:=~02~~14~~05~THEY ALERT=~02~~14~~06~CASINO GUARDS=~02~~14~~07~TO YOUR=~02~~14~~08~LOCATION=~03~~09~~0D~1.Take out Malone's pit=~03~~09~~0E~  bosses and roving=~03~~09~~0F~  spies stationed near=~03~~09~~10~  the back of the casino.=~03~~09~~11~  Eliminating them will=~03~~09~~12~  make it safer to move=~03~~09~~13~  around the area.=~FF~}#409#271
+W~01~=~19~~DE~~EE~=~1E~"~C2~~02~~14~~03~
+JEFES DE SALA=~02~~14~~04~
+DEL CASINO:=~02~~14~~05~
+ALERTARÁN A=~02~~14~~06~
+LOS GUARDIAS=~02~~14~~07~
+DEL CASINO DE=~02~~14~~08~
+TU UBICACIÓN=~03~~09~~0D~
+1.Deshazte de los jefes=~03~~0B~~0E~
+de sala y espías=~03~~0B~~0F~
+errantes cerca de la=~03~~0B~~10~
+parte trasera del=~03~~0B~~11~
+casino. Hará que sea=~03~~0B~~12~
+sea más seguro moverse=~03~~0B~~13~
+por la zona.      =~FF~#271
+;000C212F{~FF~}#004#001
+~FF~#001
+;000C2130{X~01~=~19~~E0~8=~1E~~23~~96~~02~~14~~03~CASHIER=~02~~14~~04~BOOTH:=~02~~14~~05~HOSTAGES=~02~~14~~06~TRAPPED=~02~~14~~07~INSIDE=~03~~09~~0D~2.Blast the Cashier Booth=~03~~09~~0E~  and rescue the hostages=~03~~09~~0F~  held inside. WARNING:=~03~~09~~10~  The booth is invincible=~03~~09~~11~  when it has a red light=~03~~09~~12~  on top. Bust it open=~03~~09~~13~  when the light is gone.=~FF~}#392#263
+X~01~=~19~~E0~8=~1E~~23~~96~~02~~14~~03~
+CABINAS DE=~02~~14~~04~
+CAJEROS:=~02~~14~~05~
+REHENES=~02~~14~~06~
+ATRAPADOS=~02~~14~~07~
+DENTRO      =~03~~09~~0D~
+2.Vuela las Cabinas de =~03~~0B~~0E~
+cajeros y rescata a los=~03~~0B~~0F~
+rehenes de su interior.=~03~~0B~~10~
+ALERTA: la cabina es   =~03~~0B~~11~
+invencible cuando hay  =~03~~0B~~12~
+una luz roja encima.=~03~~0B~~13~
+Vuélala cuando no esté.=~FF~#263
+|1117
+@000C2237-000C2667-FF
+;000C2237{~FF~}#004#001
+~FF~#001
+;000C2238{Y~01~=~19~~E0~8=~1E~!~EE~~02~~14~~03~V.I.P.=~02~~14~~04~HIGH ROLLER:=~02~~14~~05~SHE KNOWS=~02~~14~~06~LOCATION OF=~02~~14~~07~MALONE'S=~02~~14~~08~HIDEOUT=~03~~09~~0D~3.Malone has a high-=~03~~09~~0E~  roller locked in a=~03~~09~~0F~  back room. Free her=~03~~09~~10~  from captivity: It is=~03~~09~~11~  believed that she knows=~03~~09~~12~  the secret entrance to=~03~~09~~13~  Malone's hideout.=~FF~}#403#268
+Y~01~=~19~~E0~8=~1E~!~EE~~02~~14~~03~
+GRAN=~02~~14~~04~
+APOSTADORA=~02~~14~~05~
+V.I.P.:=~02~~14~~06~
+SABE LA=~02~~14~~07~
+UBICACIÓN DEL=~02~~14~~08~
+ESCONDITE DE=~02~~14~~09~
+MALONE=~03~~09~~0D~
+3.Malone tiene a una gran=~03~~0B~~0E~
+apostadora encerrada en=~03~~0B~~0F~
+una sala de atrás.=~03~~0B~~10~
+Libérala: Se cree que=~03~~0B~~11~
+conoce la entrada=~03~~0B~~12~
+secreta al escondite de=~03~~0B~~13~
+Malone.        =~FF~#268
+;000C2344{Z~01~=~19~~E0~~BC~=~1E~~23~~96~~02~~14~~03~DESTROY=~02~~14~~04~CHANGE=~02~~14~~05~BOOTH=~02~~14~~06~GUN SITES=~03~~09~~0D~4.Knock off the machine=~03~~09~~0E~  gun sites in the change=~03~~09~~0F~  booths around the=~03~~09~~10~  casino. WARNING: These=~03~~09~~11~  booths are invincible=~03~~09~~12~  when they have a red=~03~~09~~13~  light on top.=~FF~}#356#233
+Z~01~=~19~~E0~~BC~=~1E~~23~~96~~02~~14~~03~
+DESTRUYE LOS=~02~~14~~04~
+SITIOS DE=~02~~14~~05~
+ARMAS DE=~02~~14~~06~
+CABINAS   =~03~~09~~0D~
+4.Derriba los sitios de=~03~~0B~~0E~
+armas en las cabinas de=~03~~0B~~0F~
+cambio por el casino.=~03~~0B~~10~
+ALERTA: Estas cabinas=~03~~0B~~11~
+son invencibles cuando=~03~~0B~~12~
+tienen una luz roja=~03~~0B~~13~
+encima.   =~FF~#233
+;000C242D{~FF~}#004#001
+~FF~#001
+;000C242E{[~01~=~19~~E3~P=~1E~~0E~8~02~~14~~03~RIDE=~02~~14~~04~THE SHUTTLE=~02~~14~~05~TO MALONE'S=~02~~14~~06~UNDERGROUND=~02~~14~~07~HIDEOUT=~03~~09~~0D~5.Move to the transfer=~03~~09~~0E~  zone at the secret=~03~~09~~0F~  entrance & climb into=~03~~09~~10~  the shuttle car. This=~03~~09~~11~  will take you to=~03~~09~~12~  Malone's secret=~03~~09~~13~  underground hideout.=~FF~}#374#248
+[~01~=~19~~E3~P=~1E~~0E~8~02~~14~~03~
+MONTA EN LA=~02~~14~~04~
+LANZADERA AL=~02~~14~~05~
+ESCONDITE=~02~~14~~06~
+SUBTERRÁNEO DE=~02~~14~~07~
+MALONE=~03~~09~~0D~
+5.Ve a la zona de=~03~~0B~~0E~
+transferencia en la=~03~~0B~~0F~
+entrada secreta y monta=~03~~0B~~10~
+en el coche lanzadera.=~03~~0B~~11~
+Te llevará al escondite=~03~~0B~~12~
+secreto subterráneo de=~03~~0B~~13~
+Malone.    =~FF~#248
+;000C2526{\~02~=~19~~DE~~EE~=~1A~~14~b~02~~14~~03~CLEAR=~02~~14~~04~ENEMY=~02~~14~~05~WEAPONS=~03~~09~~0D~1.Clear the area of enemy=~03~~09~~0E~  weaponry to make your=~03~~09~~0F~  assault easier. Look=~03~~09~~10~  for fixed AAA weapons=~03~~09~~11~  and mobile tank weapons=~03~~09~~12~  currently on the move.=~FF~}#308#206
+\~02~=~19~~DE~~EE~=~1A~~14~b~02~~14~~03~
+DESTRUYE LAS=~02~~14~~04~
+ARMAS ENEMIGAS=~03~~09~~0D~
+1.Despeja la zona de=~03~~0B~~0E~
+armamento enemigo para=~03~~0B~~0F~
+facilitar tu asalto.=~03~~0B~~10~
+Busca AAA fijas y=~03~~0B~~11~
+tanques móviles=~03~~0B~~12~
+actualmente en     =~03~~0B~~13~
+movimiento.         =~FF~#206
+;000C25F4{]~01~=~19~~DF~0=~1E~~3D~~D4~~02~~14~~03~BLOW UP=~02~~14~~04~ENEMY=~02~~14~~05~BARRACKS=~03~~09~~0D~2.Neutralize the enemy=~03~~09~~0E~  troops by blowing up=~03~~09~~0F~  their barracks.=~FF~}#191#116
+]~01~=~19~~DF~0=~1E~~3D~~D4~~02~~14~~03~
+EXPLOTA=~02~~14~~04~
+BARRACONES=~02~~14~~05~
+ENEMIGOS=~03~~09~~0D~
+2.Neutraliza a las tropas=~03~~0B~~0E~
+enemigas volando sus=~03~~0B~~0F~
+barracones.=~FF~#116
+|1073
+@000C2668-000C2AD5-FF
+;000C2668{^~01~=~19~~E4~~16~=~1E~<,~02~~14~~03~TAKE OUT=~02~~14~~04~CENTRAL=~02~~14~~05~CONTROL=~03~~09~~0D~3.Blow away the laser=~03~~09~~0E~  control center. Clear=~03~~09~~0F~  the area of enemy=~03~~09~~10~  weapons & take out the=~03~~09~~11~  banks of controls=~03~~09~~12~  before another blast=~03~~09~~13~  can be fired.=~FF~}#324#216
+^~01~=~19~~E4~~16~=~1E~<,~02~~14~~03~
+ELIMINA EL=~02~~14~~04~
+CONTROL=~02~~14~~05~
+CENTRAL=~03~~09~~0D~
+3.Elimina el centro de=~03~~0B~~0E~
+control del láser.=~03~~0B~~0F~
+Limpia la zona de armas=~03~~0B~~10~
+enemigas y elimina los=~03~~0B~~11~
+bancos de controles=~03~~0B~~12~
+antes de que disparen=~03~~0B~~13~
+otra carga.     =~FF~#216
+;000C2740{_~01~=~19~~E4~~16~=~1E~:~CA~~02~~14~~03~DESTROY=~02~~14~~04~LASER=~02~~14~~05~CONTROL=~02~~14~~06~UNIT=~03~~09~~0D~4.Destroy the Laser=~03~~09~~0E~  Control Box attached=~03~~09~~0F~  to the base of the=~03~~09~~10~  laser weapon. Without=~03~~09~~11~  it, the laser won't be=~03~~09~~12~  able to target its=~03~~09~~13~  blasts.=~FF~}#335#215
+_~01~=~19~~E4~~16~=~1E~:~CA~~02~~14~~03~
+DESTRUYE LA=~02~~14~~04~
+UNIDAD DE=~02~~14~~05~
+CONTROL DEL=~02~~14~~06~
+LÁSER=~03~~09~~0D~
+4.Destruye la Caja de=~03~~0B~~0E~
+Control del Láser=~03~~0B~~0F~
+adjunta a la base del=~03~~0B~~10~
+arma láser. Sin ella,=~0B~~0B~~11~
+el láser no podrá=~0B~~0B~~12~
+apuntar con sus =~03~~0B~~13~
+disparos.  =~FF~#215
+;000C2817{~FF~}#004#001
+~FF~#001
+;000C2818{`~01~=~19~~E3~~0E~=~1E~$~9C~~02~~14~~03~DESTROY=~02~~14~~04~LASER=~02~~14~~05~HOUSING=~03~~09~~0D~5.Blast open the steel-=~03~~09~~0E~  reinforced room that=~03~~09~~0F~  houses the laser weapon.=~FF~}#200#125
+`~01~=~19~~E3~~0E~=~1E~$~9C~~02~~14~~03~
+DESTRUYE EL=~02~~14~~04~
+RECUBRIMIENTO=~02~~14~~05~
+DEL LÁSER=~03~~09~~0D~
+5.Abre la sala reforzada=~03~~0B~~0E~
+de acero que aloja el=~03~~0B~~0F~
+arma láser. =~FF~#125
+;000C2895{~FF~}#004#001
+~FF~#001
+;000C2896{a~01~=~19~~DF~0=~1E~~3D~~D4~~02~~14~~03~DESTROY=~02~~14~~04~MALONE'S=~02~~14~~05~QUARTERS=~03~~09~~0D~6.Knock a hole in=~03~~09~~0E~  Malone's fortified=~03~~09~~0F~  private ready room. It=~03~~09~~10~  is heavily defended=~03~~09~~11~  outside & Malone may=~03~~09~~12~  have armed bodyguards=~03~~09~~13~  inside with him.=~FF~}#330#219
+a~01~=~19~~DF~0=~1E~~3D~~D4~~02~~14~~03~
+DESTRUYE EL=~02~~14~~04~
+CAMAROTE DE=~02~~14~~05~
+MALONE  =~03~~09~~0D~
+6.Haz un agujero en el=~03~~0B~~0E~
+camarote privado de=~03~~0B~~0F~
+Malone. Está=~03~~0B~~10~
+fuertemente defendido=~03~~0B~~11~
+fuera y Malone puede=~03~~0B~~12~
+tener a guardaespaldas=~03~~0B~~13~
+armados dentro con él.=~FF~#219
+;000C2971{~FF~}#004#001
+~FF~#001
+;000C2972{b~01~=~19~~DE~~EE~=~1E~~3D~=~02~~14~~03~CAPTURE=~02~~14~~04~MALONE=~03~~09~~0D~7.Capture Malone as he=~03~~09~~0E~  tries to make a break=~03~~09~~0F~  from his command post.=~03~~09~~10~  Pick him up with your=~03~~09~~11~  skyhook: he must not be=~03~~09~~12~  allowed to escape!=~FF~}#286#193
+b~01~=~19~~DE~~EE~=~1E~~3D~=~02~~14~~03~
+CAPTURA A=~02~~14~~04~
+MALONE=~03~~09~~0D~
+7.Captura a Malone    =~03~~0B~~0E~
+mientras intenta huir=~03~~0B~~0F~
+de su puesto de mando.  =~03~~0B~~10~
+Recógelo con tu gancho =~03~~0B~~11~
+celeste: No se le debe   =~03~~0B~~12~
+permitir escapar!   =~FF~#193
+;000C2A33{~FF~}#004#001
+~FF~#001
+;000C2A34{c~01~=~19~~E3~~0E~=~1E~~3B~h~02~~14~~03~DESTROY=~02~~14~~04~LASER=~02~~14~~05~WEAPON=~03~~09~~0D~8.Transport Malone to the=~03~~09~~0E~  laser weapon & drop=~03~~09~~0F~  him on the gun before=~03~~09~~10~  his explosive vest=~03~~09~~11~  detonates.=~FF~}#255#162
+c~01~=~19~~E3~~0E~=~1E~~3B~h~02~~14~~03~
+DESTRUYE EL=~02~~14~~04~
+ARMA LÁSER=~03~~09~~0D~
+8.Transporta a Malone al=~03~~0B~~0E~
+arma láser y déjale en=~03~~0B~~0F~
+el cañón antes de que=~03~~0B~~10~
+su chaleco de=~03~~0B~~11~
+explosivos detone.=\   ~FF~#162
+|1134
+@000C2AD6-000C2B9E-FF
+;000C2AD6{=1.VISITORS CENTER==2.TELESCOPE MIRRORS=~01~3.STEALTH SHIPS==4.PLASTIC SURGEON=~02~5.ENEMY BRIDGE=~02~6.GREEN BERETS=~06~BARGE=~06~GATOR=~03~XP3 BULLDOG=~04~AAA BUNKER=~05~BIDONES   =~05~MUNICIÓN   =~03~REPARA ARMD.=~04~ATERRIZAJE  ==}#234#201
+=
+1.CENTRO VISITAN.==
+2.ESPEJOS TELESCOP.=~01~
+3.NAVES STEALTH==
+4.CIRUJANO PLÁST.=~02~
+5.PUENTE ENEM.=~02~
+6.BOINA VERDE =~06~
+BARCA=~06~
+GATOR=~03~
+BULLDOG XP3=~04~
+BÚNKER AAA=~05~
+BIDONES   =~05~
+MUNICIÓN   =~03~
+REPARA ARMD.=~04~
+ATERRIZAJE  ==#201
+|201
+@000C2C49-000C2D51-FF
+;000C2C49{1.RADAR STATION=~01~2.SMALL OILRIGS=~03~3.PASSENGERS=~03~4.DESTROYER=~02~5.RUSSIAN SUB=~02~6.JET FIGHTERS=~02~7.MAIN OILRIG=~05~SCORPION=~04~PHALANX MX=~03~X9 SEA SNAKE==AAAMXL FLACK CANNON==ARMORED AA BUNKER=~03~GUI PITBULL=~02~RESCUE CHOPPER=~04~ATERRIZAJE  =~05~BIDONES   =~05~MUNICIÓN   =~03~REPARA ARMD.=~FF~}#313#265
+1.ESTACI. RADAR=~01~
+2.P. POZOS PET.=~03~
+3.PASAJEROS =~03~
+4.DESTRUCT.=~04~
+5.SUB RUSO   =~03~
+6.CAZAS JET   =~02~
+7.POZO P. PR.=~05~
+SCORPION=~04~
+PHALANX MX=~03~
+SEA SNAKE X9==
+CAÑÓN AAAMXL FLAK  ==
+BÚNKER BLINDA. AA=~03~
+PITBULL GUI=~02~
+HELIC. RESCATE=~04~
+ATERRIZAJE  =~05~
+BIDONES   =~05~
+MUNICIÓN   =~03~
+REPARA ARMD.=~FF~#265
+|265
+@000C2E2D-000C2E73-FF
+;000C2E2D{1.GUN CAMS=~03~2.ENEMY F29=~05~3.AGENT=~05~4.BEACON=~05~MUNICIÓN   =~03~REPARA ARMD.=~FF~}#089#071
+1.CÁMARAS =~03~
+2.F29 ENEM.=~05~
+3.AGEN.=~05~
+4.BALIZA=~05~
+MUNICIÓN   =~03~
+REPARA ARMD.=~FF~#071
+|71
+@000C2EBF-000C2F4D-FF
+;000C2EBF{1.SCOUT TEAM=~03~2.ENEMY CAMP=~02~3.CONTRACTORS=~03~4.GAV PLANS=~06~5.GAVS=~04~6.FACTORY=~04~WOLVERINE=~01~AAAM FLAK CANNON=~04~ATERRIZAJE  =~05~BIDONES   =~05~MUNICIÓN   =~FF~}#176#143
+1.EQUIPO EX.=~03~
+2.CAMP. ENE.=~02~
+3.CONTRATISTA=~03~
+4.PLANOS V.=~06~
+5.VATS=~04~
+6.FÁBRICA=~04~
+WOLVERINE=~01~
+CAÑÓN FLAK AAA M=~04~
+ATERRIZAJE  =~05~
+BIDONES   =~05~
+MUNICIÓN   =~FF~#143
+|143
+@000C2FD5-000C30B7-FF
+;000C2FD5{1.GGATE & BAYBRIDGE=~02~2.RADIO TOWER=~02~3.CORP HQ WEST=~03~4.ARMY BASE=~02~5.MICRON LABS=~04~6.HOMEBASE=~04~7.HENCHMAN=~04~8.ALCATRAZ==AF487 HOVER CHOPPER=~01~LAND SHARK ARM V=~02~HMF ARMADILLO==AAAM FLACK CANNON=~04~SMART BOMB=~05~BIDONES   =~05~MUNICIÓN   ==~0F~}#266#227
+1.PUENTE GOLDENGATE=~02~
+2.TORRE RADIO=~02~
+3.CORP CG OES.=~03~
+4.BASE EJÉ.=~02~
+5.LABS MICRON=~04~
+6.BASE    =~04~
+7.ESBIRRO =~04~
+8.ALCATRAZ==
+HELICÓPTERO L.AF487=~01~
+LAND SHARK ARM V=~02~
+ARMADILLO HMF=~01~
+CAÑÓN FLAK AAA M =~04~
+BOMBA LIS.=~05~
+BIDONES   =~05~
+MUNICIÓN   ==~0F~#227
+|227
+@000C316D-000C31B9-FF
+;000C316D{1.SENSORS=~03~2.BLUEPRINTS=~04~3.WEAPONS=~03~4.LONG HAUL=~05~MUNICIÓN   =~03~REPARA ARMD.==~06~}#095#077
+1.SENSOR =~05~
+2.PLANOS    =~05~
+3.ARMAS  =~03~
+4.LONG HAUL=~05~
+MUNICIÓN   =~03~
+REPARA ARMD.==~06~#077
+|77
+@000C3203-000C328C-FF
+;000C3203{1.FINANCIAL HQ=~03~2.CIVILIANS=~04~3.CHOPPERS=~01~4.NAFTA MEMBERS=~02~5.TRADE CENTER=~05~SCORPION==AAAMXL FLACK CANNON=~01~UNLOAD CIVILIANS=~07~AMMO=~07~FUEL=~FF~}#162#135
+1.CG FINANZAS =~03~
+2.CIVILES  =~04~
+3.CHOPPERS=~01~
+4.MIEMBR. NAFTA=~02~
+5.TRADE CENTER=~05~
+SCORPION==
+CAÑÓN FLAK AAAMXL  =~01~
+DESCARGA CIVILES=~07~
+MNC.=~07~
+CMB.=~FF~#135
+;000C328A{=~0A~=}#006#003
+=~0A~=#003
+|138
+@000C3305-000C33A9-FF
+;000C3305{1.COMMANDER=~05~2.RADAR=~03~3.ROADBLOCKS=~05~4.STRIP=~03~5.POWERGRID=~05~6.CASINO=~05~7.CASINO=~01~LAND SHARK ARM V=~01~XP3 BULLDOG HUMV=~04~WOLVERINE=~05~BIDONES   =~05~MUNICIÓN   =~03~REPARA ARMD.==~0D~}#204#165
+1.COMANDAN.=~05~
+2.RADAR=~03~
+3.BARRICADAS=~05~
+4.PISTA=~03~
+5.RED ELÉC.=~05~
+6.CASINO=~05~
+7.CASINO=~01~
+LAND SHARK ARM V=~01~
+HUMV BULLDOG XP3=~04~
+WOLVERINE=~05~
+BIDONES   =~05~
+MUNICIÓN   =~03~
+REPARA ARMD.==~0D~#165
+|165
+@000C3447-000C3497-FF
+;000C3447{1.PIT BOSSES=~01~2.CASHIER BOOTH=~05~3.V.I.P.=~02~4.MACHINE GUNS=~04~5.SHUTTLE=~05~MUNICIÓN   =~FF~}#099#081
+1.JEFES SALA=~05~
+2.CAJERO       =~05~
+3.V.I.P.=~02~
+4.METRALLETAS =~04~
+5.LANZAD.=~05~
+MUNICIÓN   =~FF~#081
+|81
+@000C34E3-000C3593-FF
+;000C34E3{1.ENEMY WEAPONRY==2.ENEMY BARRACKS ==3.CENTRAL CONTROL==4.LASER CONTROL  =~02~5.EXPOSE LASER==6.MALONE'S QUARTERS=~01~7.CAPTURE MALONE=~01~8.DESTROY LASER=~05~BIDONES   =~01~MUNICIÓN        =~FF~}#195#177
+1.ARMAS ENEMIGAS=~00~
+2.CUARTELES ENEM.=~00~
+3.CONTROL CENTRAL=~01~
+4.CONTROL LÁSER  =~02~
+5.EXPÓN LÁSER =~00~
+6.CUARTO DE MALONE =~01~
+7.CAPTURA MALONE=~01~
+8.DESTRU. LÁSER=~05~
+BIDONES   =~05~
+MUNICIÓN        =~FF~#177
+|177
+@001A32AE-001A334F-FF
+;001A32AE{SMARTBOMB==~FF~}#015#012
+BOMBALIST==~FF~#012
+;001A32BA{=~FF~}#005#002
+=~FF~#002
+;001A32BC{O =~01~=~01~~03~~E8~=~01~=~0A~=~0A~==~FF~}#041#017
+O =~01~=~01~~03~~E8~=~01~=~0A~=~0A~==~FF~#017
+;001A32CD{~FF~}#004#001
+~FF~#001
+;001A32CE{~07~~04~=====~1A~1P=~1A~1P=~01~~11~`SMARTBOMB==~FF~}#051#030
+~07~~04~=====~1A~1P=~1A~1P=~01~~11~`BOMBALIST==~FF~#030
+;001A32EC{=~FF~}#005#002
+=~FF~#002
+;001A32EE{O =~01~=~01~~03~~E8~=~01~=~0A~=~0A~==~FF~}#041#017
+O =~01~=~01~~03~~E8~=~01~=~0A~=~0A~==~FF~#017
+;001A32FF{~FF~}#004#001
+~FF~#001
+;001A3300{~07~~04~=====~1A~1j=~1A~1j=~01~~11~`SMARTBOMB==~FF~}#051#030
+~07~~04~=====~1A~1j=~1A~1j=~01~~11~`BOMBALIST==~FF~#030
+;001A331E{=~FF~}#005#002
+=~FF~#002
+;001A3320{O =~01~=~01~~03~~E8~=~01~=~0A~=~0A~==~FF~}#041#017
+O =~01~=~01~~03~~E8~=~01~=~0A~=~0A~==~FF~#017
+;001A3331{~FF~}#004#001
+~FF~#001
+;001A3332{~07~~04~=====~1A~1~84~=~1A~1~84~=~01~~11~`SMARTBOMB==~FF~}#057#030
+~07~~04~=====~1A~1~84~=~1A~1~84~=~01~~11~`BOMBALIST==~FF~#030
+|162
+@001A380E-001A3A4E-FF
+;001A380E{HYD:===~FF~}#011#008
+HYD:===~FF~#008
+;001A3816{O =~0C~~03~~E8~=~05~=~0B~=~C8~=~0A~===[~07~D=====~1A~,~A4~=~1A~,~BE~====GUN:===~FF~}#083#044
+O =~0C~~03~~E8~=~05~=~0B~=~C8~=~0A~===[~07~D=====~1A~,~A4~=~1A~,~BE~====BLS:===~FF~#044
+;001A3842{O =~0C~~03~~E8~=~0A~=~0B~=~C8~=~0A~===[~07~D=====~1A~,~A4~=~1A~,~BE~====GUN:===~FF~}#083#044
+O =~0C~~03~~E8~=~0A~=~0B~=~C8~=~0A~===[~07~D=====~1A~,~A4~=~1A~,~BE~====BLS:===~FF~#044
+;001A386E{O0=~18~=P=~19~=~0B~=~C8~=~11~=~10~=Q~23~~C4~=====~1A~-~A8~=~1A~-~A8~====RKT:===~FF~}#083#044
+O0=~18~=P=~19~=~0B~=~C8~=~11~=~10~=Q~23~~C4~=====~1A~-~A8~=~1A~-~A8~====CHT:===~FF~#044
+;001A389A{O0=~18~=<=~19~=~0B~=~C8~=~11~=~10~=Q~23~~C4~=====~1A~-~A8~=~1A~-~A8~====RKT:===~FF~}#083#044
+O0=~18~=<=~19~=~0B~=~C8~=~11~=~10~=Q~23~~C4~=====~1A~-~A8~=~1A~-~A8~====CHT:===~FF~#044
+;001A38C6{O(=~19~=~09~=d=~0B~=~C8~=~14~=~10~=P~23~D=====~1A~-~C2~=~1A~-~C2~=~01~~11~0MSL:===~FF~}#086#044
+O(=~19~=~09~=d=~0B~=~C8~=~14~=~10~=P~23~D=====~1A~-~C2~=~1A~-~C2~=~01~~11~0MSL:===~FF~#044
+;001A38F2{O =~0C~~04~~9A~=~19~=~0B~=~C8~=~0A~=~10~=[~07~~C4~=====~1A~,~A4~=~1A~,~BE~=~01~~11~~0C~GUN:===~FF~}#098#044
+O =~0C~~04~~9A~=~19~=~0B~=~C8~=~0A~=~10~=[~07~~C4~=====~1A~,~A4~=~1A~,~BE~=~01~~11~~0C~BLS:===~FF~#044
+;001A391E{O0=~18~'~10~=d=~0B~=~C8~=~10~===V~23~~84~=====~1A~-~A8~=~1A~-~A8~=~01~~11~0HYD:===~FF~}#086#044
+O0=~18~'~10~=d=~0B~=~C8~=~10~===V~23~~84~=====~1A~-~A8~=~1A~-~A8~=~01~~11~0HYD:===~FF~#044
+;001A394A{O =~0C~~03~~E8~=~19~=~0B~~01~,=~0A~=~04~=[~07~~84~=====~1A~,~A4~=~1A~,~BE~=~01~~11~~0C~GUN:===~FF~}#098#044
+O =~0C~~03~~E8~=~19~=~0B~~01~,=~0A~=~04~=[~07~~84~=====~1A~,~A4~=~1A~,~BE~=~01~~11~~0C~BLS:===~FF~#044
+;001A3976{O0=~18~~01~,=~C8~=~0B~~01~,=~10~===Q~23~~84~=====~1A~-~A8~=~1A~-~A8~=~01~~11~0HYD:===~FF~}#089#044
+O0=~18~~01~,=~C8~=~0B~~01~,=~10~===Q~23~~84~=====~1A~-~A8~=~1A~-~A8~=~01~~11~0HYD:===~FF~#044
+;001A39A2{O`="=~C8~=~0A~=~0B~=~C8~=~11~===[~23~~84~=~0B~~BD~~06~=~1A~,~A4~=~1A~,~BE~=~01~~11~~9A~MR9:===~FF~}#098#044
+O`="=~C8~=~0A~=~0B~=~C8~=~11~===[~23~~84~=~0B~~BD~~06~=~1A~,~A4~=~1A~,~BE~=~01~~11~~9A~MR9:===~FF~#044
+;001A39CE{O(=~19~=~09~=d=~0B~=~C8~=~14~=~10~=V~23~D=====~1A~-~C2~=~1A~-~C2~=~01~~11~0MSL:===~FF~}#086#044
+O(=~19~=~09~=d=~0B~=~C8~=~14~=~10~=V~23~D=====~1A~-~C2~=~1A~-~C2~=~01~~11~0MSL:===~FF~#044
+;001A39FA{O`="=d=~05~=~0A~=~96~=~11~===N~23~~04~=~0B~~BD~~06~=~1A~,~A4~=~1A~,~BE~=~01~~11~~9A~15===~FF~}#093#042
+O`="=d=~05~=~0A~=~96~=~11~===N~23~~04~=~0B~~BD~~06~=~1A~,~A4~=~1A~,~BE~=~01~~11~~9A~15===~FF~#042
+;001A3A24{O =~01~=~01~'~10~=~01~======~FF~}#032#017
+O =~01~=~01~'~10~=~01~======~FF~#017
+;001A3A35{~FF~}#004#001
+~FF~#001
+;001A3A36{~07~~04~=====~1A~2n=~1A~2n=~01~~11~`RJONES=}#043#025
+~07~~04~=====~1A~2n=~1A~2n=~01~~11~`RJONES=#025
+|577

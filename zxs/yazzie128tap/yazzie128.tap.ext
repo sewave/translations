@@ -1,0 +1,64 @@
+@00000004-00000013-FF
+;00000004{LOADER     ~00~~0A~~00~ ~00~}#028#016
+LOADER     ~00~~0A~~00~ ~00~#016
+|16
+@0000003D-0000004B-FF
+;0000003D{loader    ~92~~00~~00~^~00~}#027#015
+loader    ~92~~00~~00~^~00~#015
+|15
+@0000801B-00008023-FF
+;0000801B{ land~00~~E7~q~00~}#018#009
+ land~00~~E7~q~00~#009
+|9
+@000080BF-000080C8-FF
+;000080BF{ gold~00~~EE~~92~~01~~00~}#025#010
+ gold~00~~EE~~92~~01~~00~#010
+|10
+@000080DC-000080E8-FF
+;000080DC{ pickaxe~00~~EC~~8A~~00~~00~}#028#013
+ pickaxe~00~~EC~~8A~~00~~00~#013
+|13
+@000080EA-000080F3-FF
+;000080EA{ most~00~~EA~~14~~01~~00~}#025#010
+ most~00~~EA~~14~~01~~00~#010
+|10
+@00008111-00008118-FF
+;00008111{ mine~00~m~F0~}#014#008
+ mine~00~m~F0~#008
+|8
+@0000DA50-0000DC21-FF
+;0000DA50{GLEVEL: XX PICKAXE: 00 GOLD: 00~FF~}#035#032
+GLEVEL: XX PICKAXE: 00 GOLD: 00~FF~#032
+;0000DA70{~12~~07~GPRESS FIRE TO START~FF~}#032#023
+~12~~07~GPRESS FIRE TO START~FF~#023
+;0000DA87{~16~~07~Fwww.retrosouls.net~FF~}#031#022
+~16~~07~Fwww.retrosouls.net~FF~#022
+;0000DA9D{~15~~05~DFrom Siberia with LOVE~FF~}#035#026
+~15~~05~DFrom Siberia with LOVE~FF~#026
+;0000DAB7{~11~~03~G    THANKS FOR PLAYING    ~FF~}#039#030
+~11~~03~G    THANKS FOR PLAYING    ~FF~#030
+;0000DAD5{~11~~03~G                          ~FF~}#039#030
+~11~~03~G                          ~FF~#030
+;0000DAF3{~11~~03~G       GAME CREDITS       ~FF~}#039#030
+~11~~03~G       GAME CREDITS       ~FF~#030
+;0000DB11{~11~~03~G                          ~FF~}#039#030
+~11~~03~G                          ~FF~#030
+;0000DB2F{~11~~03~G   Game:  Denis Grachev   ~FF~}#039#030
+~11~~03~G   Game:  Denis Grachev   ~FF~#030
+;0000DB4D{~11~~03~G                          ~FF~}#039#030
+~11~~03~G                          ~FF~#030
+;0000DB6B{~11~~03~G   Music:  Oleg Nikitin   ~FF~}#039#030
+~11~~03~G   Music:  Oleg Nikitin   ~FF~#030
+;0000DB89{~11~~03~G                          ~FF~}#039#030
+~11~~03~G                          ~FF~#030
+;0000DBA7{~11~~03~G  Screen$: Ivan Seleznev  ~FF~}#039#030
+~11~~03~G  Screen$: Ivan Seleznev  ~FF~#030
+;0000DBC5{~11~~03~G                          ~FF~}#039#030
+~11~~03~G                          ~FF~#030
+;0000DBE3{~11~~03~G   Keep da speccy alive   ~FF~}#039#030
+~11~~03~G   Keep da speccy alive   ~FF~#030
+;0000DC01{~11~~03~G                          ~FF~}#039#030
+~11~~03~G                          ~FF~#030
+;0000DC1F{~FE~>~00~}#009#003
+~FE~>~00~#003
+|466

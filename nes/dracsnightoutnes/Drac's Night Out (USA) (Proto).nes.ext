@@ -1,0 +1,352 @@
+@0001042E-00010470-00
+;0001042E{Floor:~00~}#010#007
+Floor:~00~#007
+;00010435{~16~~06~Items:~00~}#018#009
+~16~~06~Items:~00~#009
+;0001043E{~06~~08~Game Over  ~00~}#023#014
+~06~~08~Game Over  ~00~#014
+;0001044C{~06~~08~Round Complete~00~}#026#017
+~06~~08~Round Complete~00~#017
+;0001045D{~06~~08~Game Complete~00~}#025#016
+~06~~08~Game Complete~00~#016
+;0001046D{~0E~~12~~16~~01~}#016#004
+~0E~~12~~16~~01~#004
+|67
+@000107F9-000128F9-00
+;000107F9{  Dracula awakes from=his coffin.  It is=midnight.  He must=exit his castle and=go to the nearby=village.  There, he=must find the lovely=girl Mina before the=clock strikes 6.~00~}#179#176
+  Dracula awakes from=his coffin.  It is=midnight.  He must=exit his castle and=go to the nearby=village.  There, he=must find the lovely=girl Mina before the=clock strikes 6.~00~#176
+;000108A9{~0A~~06~  Dracula departs=his castle and=races towards town=in his carriage.~00~}#080#071
+~0A~~06~  Dracula departs=his castle and=races towards town=in his carriage.~00~#071
+;000108F0{~0A~~06~  Dracula enters=the town and begins=his search for the=lovely Mina.~00~}#080#071
+~0A~~06~  Dracula enters=the town and begins=his search for the=lovely Mina.~00~#071
+;00010937{~06~~06~  Game Status===Score:=Time:=Blood:=Count:=Round:~00~}#061#052
+~06~~06~  Game Status===Score:=Time:=Blood:=Count:=Round:~00~#052
+;0001096B{~0C~~06~  Master, I will lead=you towards the house=where the girl lives.~00~}#077#068
+~0C~~06~  Master, I will lead=you towards the house=where the girl lives.~00~#068
+;000109AF{~09~~06~  Congratulations!==You have found the=girl whom you seek.=Your quest is finished.~00~}#094#085
+~09~~06~  Congratulations!==You have found the=girl whom you seek.=Your quest is finished.~00~#085
+;00010A04{~08~~06~  Master, I will lead=you through a=secret underground=passageway.  This=will take you closer=to the girl.~00~}#118#109
+~08~~06~  Master, I will lead=you through a=secret underground=passageway.  This=will take you closer=to the girl.~00~#109
+;00010A71{~0A~~06~  Dracula departs=his castle via=a secret window=and races towards=town in his carriage.~00~}#100#091
+~0A~~06~  Dracula departs=his castle via=a secret window=and races towards=town in his carriage.~00~#091
+;00010ACC{~06~~06~Select round of play==  1  Blue tower=  2  Violet tower=  3  Grey tower=  4  Green tower=  5  Red tower==Select round and=press a button~00~}#148#139
+~06~~06~Select round of play==  1  Blue tower=  2  Violet tower=  3  Grey tower=  4  Green tower=  5  Red tower==Select round and=press a button~00~#139
+;00010B57{~08~~08~Continue game?==  Continue=  Start Over~00~}#051#042
+~08~~08~Continue game?==  Continue=  Start Over~00~#042
+;00010B81{~0A~~06~  The clock strikes 1.=When dawn arrives=at 6 AM, the=sunlight will end=Dracula's life.~00~}#099#090
+~0A~~06~  The clock strikes 1.=When dawn arrives=at 6 AM, the=sunlight will end=Dracula's life.~00~#090
+;00010BDB{~0A~~06~  The clock strikes 2.=Dracula must find=his beloved by=6 AM in order=to avoid the dawn.~00~}#100#091
+~0A~~06~  The clock strikes 2.=Dracula must find=his beloved by=6 AM in order=to avoid the dawn.~00~#091
+;00010C36{~0A~~06~  The clock strikes 3.=The night is half=over, and Dracula=has much work to do.~00~}#091#082
+~0A~~06~  The clock strikes 3.=The night is half=over, and Dracula=has much work to do.~00~#082
+;00010C88{~0A~~06~  The clock strikes 4.=Two hours remain=before dawn.=Dracula must hurry.~00~}#084#075
+~0A~~06~  The clock strikes 4.=Two hours remain=before dawn.=Dracula must hurry.~00~#075
+;00010CD3{~0A~~06~  The clock strikes 5.=Only one precious=hour remains before=the dawn takes away=Dracula's life.==    Hurry!~00~}#120#111
+~0A~~06~  The clock strikes 5.=Only one precious=hour remains before=the dawn takes away=Dracula's life.==    Hurry!~00~#111
+;00010D42{~0A~~06~  The clock strikes 6.=The dawn arrives,=bringing an end to=Dracula's night out.~00~}#092#083
+~0A~~06~  The clock strikes 6.=The dawn arrives,=bringing an end to=Dracula's night out.~00~#083
+;00010D95{~0A~~06~  Dracula opens the=door, and finds a=bonus of 100 points=inside!~00~}#077#068
+~0A~~06~  Dracula opens the=door, and finds a=bonus of 100 points=inside!~00~#068
+;00010DD9{~0A~~06~  Dracula opens the=door, and finds a=pint of blood inside!~00~}#071#062
+~0A~~06~  Dracula opens the=door, and finds a=pint of blood inside!~00~#062
+;00010E17{~0A~~06~  Dracula opens the=door, but loses a=pint of blood in=doing so!~00~}#076#067
+~0A~~06~  Dracula opens the=door, but loses a=pint of blood in=doing so!~00~#067
+;00010E5A{~0A~~06~  You can't try any=more secret doors=for now.~00~}#058#049
+~0A~~06~  You can't try any=more secret doors=for now.~00~#049
+;00010E8B{~0A~~06~  You can't open=this barrier without=a lucky four-leaf=clover.~00~}#075#066
+~0A~~06~  You can't open=this barrier without=a lucky four-leaf=clover.~00~#066
+;00010ECD{~0A~~06~  You can't open=this trapdoor without=a magic lamp.~00~}#064#055
+~0A~~06~  You can't open=this trapdoor without=a magic lamp.~00~#055
+;00010F04{~0C~~06~You have a map=which may be useful.~00~}#047#038
+~0C~~06~You have a map=which may be useful.~00~#038
+;00010F2A{~0C~~06~I do not have=anything to give you,=but a friend of=mine does.~00~}#074#065
+~0C~~06~I do not have=anything to give you,=but a friend of=mine does.~00~#065
+;00010F6B{~0C~~06~I am giving=you a map which=you can use=later.~00~}#058#049
+~0C~~06~I am giving=you a map which=you can use=later.~00~#049
+;00010F9C{~0A~~07~  You must travel=North to find the=girl.~00~}#053#044
+~0A~~07~  You must travel=North to find the=girl.~00~#044
+;00010FC8{~0A~~07~  You must travel=East to find the=girl.~00~}#052#043
+~0A~~07~  You must travel=East to find the=girl.~00~#043
+;00010FF3{~0A~~07~  You must travel=South to find the=girl.~00~}#053#044
+~0A~~07~  You must travel=South to find the=girl.~00~#044
+;0001101F{~0A~~07~  You must travel=West to find the=girl.~00~}#052#043
+~0A~~07~  You must travel=West to find the=girl.~00~#043
+;0001104A{~0A~~06~  You are very near=to the house where=the girl lives.~00~}#066#057
+~0A~~06~  You are very near=to the house where=the girl lives.~00~#057
+;00011083{~0A~~06~  You are near to=the house where the=girl lives.~00~}#061#052
+~0A~~06~  You are near to=the house where the=girl lives.~00~#052
+;000110B7{~0A~~06~  You are far from=the house where the=girl lives.~00~}#062#053
+~0A~~06~  You are far from=the house where the=girl lives.~00~#053
+;000110EC{~0A~~06~  You are very far=from the house where=the girl lives.~00~}#067#058
+~0A~~06~  You are very far=from the house where=the girl lives.~00~#058
+;00011126{~0C~~06~There is a school=just west of the=girl.~00~}#052#043
+~0C~~06~There is a school=just west of the=girl.~00~#043
+;00011151{~0C~~06~There is a school=just east of the=girl.~00~}#052#043
+~0C~~06~There is a school=just east of the=girl.~00~#043
+;0001117C{~0C~~06~There is a school=just north of the=girl.~00~}#053#044
+~0C~~06~There is a school=just north of the=girl.~00~#044
+;000111A8{~0C~~06~There is a school=just south of the=girl.~00~}#053#044
+~0C~~06~There is a school=just south of the=girl.~00~#044
+;000111D4{~0C~~06~There is a bakery=just west of the=girl.~00~}#052#043
+~0C~~06~There is a bakery=just west of the=girl.~00~#043
+;000111FF{~0C~~06~There is a bakery=just east of the=girl.~00~}#052#043
+~0C~~06~There is a bakery=just east of the=girl.~00~#043
+;0001122A{~0C~~06~There is a bakery=just north of the=girl.~00~}#053#044
+~0C~~06~There is a bakery=just north of the=girl.~00~#044
+;00011256{~0C~~06~There is a bakery=just south of the=girl.~00~}#053#044
+~0C~~06~There is a bakery=just south of the=girl.~00~#044
+;00011282{~0C~~06~There is a cafe=just west of the=girl.~00~}#050#041
+~0C~~06~There is a cafe=just west of the=girl.~00~#041
+;000112AB{~0C~~06~There is a cafe=just east of the=girl.~00~}#050#041
+~0C~~06~There is a cafe=just east of the=girl.~00~#041
+;000112D4{~0C~~06~There is a cafe=just north of the=girl.~00~}#051#042
+~0C~~06~There is a cafe=just north of the=girl.~00~#042
+;000112FE{~0C~~06~There is a cafe=just south of the=girl.~00~}#051#042
+~0C~~06~There is a cafe=just south of the=girl.~00~#042
+;00011328{~0C~~06~There is a fountain=just west of the=girl.~00~}#054#045
+~0C~~06~There is a fountain=just west of the=girl.~00~#045
+;00011355{~0C~~06~There is a fountain=just east of the=girl.~00~}#054#045
+~0C~~06~There is a fountain=just east of the=girl.~00~#045
+;00011382{~0C~~06~There is a fountain=just north of the=girl.~00~}#055#046
+~0C~~06~There is a fountain=just north of the=girl.~00~#046
+;000113B0{~0C~~06~There is a fountain=just south of the=girl.~00~}#055#046
+~0C~~06~There is a fountain=just south of the=girl.~00~#046
+;000113DE{~0C~~06~There is a horse=very near the girl.~00~}#048#039
+~0C~~06~There is a horse=very near the girl.~00~#039
+;00011405{~0C~~06~There is a horse=just west of the=girl.~00~}#051#042
+~0C~~06~There is a horse=just west of the=girl.~00~#042
+;0001142F{~0C~~06~There is a horse=just east of the=girl.~00~}#051#042
+~0C~~06~There is a horse=just east of the=girl.~00~#042
+;00011459{~0C~~06~There is a horse=just north of the=girl.~00~}#052#043
+~0C~~06~There is a horse=just north of the=girl.~00~#043
+;00011484{~0C~~06~There is a horse=just south of the=girl.~00~}#052#043
+~0C~~06~There is a horse=just south of the=girl.~00~#043
+;000114AF{~0C~~06~There is a sheep=very near the girl.~00~}#048#039
+~0C~~06~There is a sheep=very near the girl.~00~#039
+;000114D6{~0C~~06~There is a sheep=just west of the=girl.~00~}#051#042
+~0C~~06~There is a sheep=just west of the=girl.~00~#042
+;00011500{~0C~~06~There is a sheep=just east of the=girl.~00~}#051#042
+~0C~~06~There is a sheep=just east of the=girl.~00~#042
+;0001152A{~0C~~06~There is a sheep=just north of the=girl.~00~}#052#043
+~0C~~06~There is a sheep=just north of the=girl.~00~#043
+;00011555{~0C~~06~There is a sheep=just south of the=girl.~00~}#052#043
+~0C~~06~There is a sheep=just south of the=girl.~00~#043
+;00011580{~0C~~06~There is a fire=very near the girl.~00~}#047#038
+~0C~~06~There is a fire=very near the girl.~00~#038
+;000115A6{~0C~~06~There is a fire=just west of the=girl.~00~}#050#041
+~0C~~06~There is a fire=just west of the=girl.~00~#041
+;000115CF{~0C~~06~There is a fire=just east of the=girl.~00~}#050#041
+~0C~~06~There is a fire=just east of the=girl.~00~#041
+;000115F8{~0C~~06~There is a fire=just north of the=girl.~00~}#051#042
+~0C~~06~There is a fire=just north of the=girl.~00~#042
+;00011622{~0C~~06~There is a fire=just south of the=girl.~00~}#051#042
+~0C~~06~There is a fire=just south of the=girl.~00~#042
+;0001164C{~0C~~06~There is a manhole=very near the girl.~00~}#050#041
+~0C~~06~There is a manhole=very near the girl.~00~#041
+;00011675{~0C~~06~There is a manhole=just west of the=girl.~00~}#053#044
+~0C~~06~There is a manhole=just west of the=girl.~00~#044
+;000116A1{~0C~~06~There is a manhole=just east of the=girl.~00~}#053#044
+~0C~~06~There is a manhole=just east of the=girl.~00~#044
+;000116CD{~0C~~06~There is a manhole=just north of the=girl.~00~}#054#045
+~0C~~06~There is a manhole=just north of the=girl.~00~#045
+;000116FA{~0C~~06~There is a manhole=just south of the=girl.~00~}#054#045
+~0C~~06~There is a manhole=just south of the=girl.~00~#045
+;00011727{~0C~~06~There is a lamppost=very near the girl.~00~}#051#042
+~0C~~06~There is a lamppost=very near the girl.~00~#042
+;00011751{~0C~~06~There is a lamppost=just west of the=girl.~00~}#054#045
+~0C~~06~There is a lamppost=just west of the=girl.~00~#045
+;0001177E{~0C~~06~There is a lamppost=just east of the=girl.~00~}#054#045
+~0C~~06~There is a lamppost=just east of the=girl.~00~#045
+;000117AB{~0C~~06~There is a lamppost=just north of the=girl.~00~}#055#046
+~0C~~06~There is a lamppost=just north of the=girl.~00~#046
+;000117D9{~0C~~06~There is a lamppost=just south of the=girl.~00~}#055#046
+~0C~~06~There is a lamppost=just south of the=girl.~00~#046
+;00011807{~0C~~06~There is a signpost=very near the girl.~00~}#051#042
+~0C~~06~There is a signpost=very near the girl.~00~#042
+;00011831{~0C~~06~There is a signpost=just west of the girl.~00~}#054#045
+~0C~~06~There is a signpost=just west of the girl.~00~#045
+;0001185E{~0C~~06~There is a signpost=just east of the=girl.~00~}#054#045
+~0C~~06~There is a signpost=just east of the=girl.~00~#045
+;0001188B{~0C~~06~There is a signpost=just north of the=girl.~00~}#055#046
+~0C~~06~There is a signpost=just north of the=girl.~00~#046
+;000118B9{~0C~~06~There is a signpost=just south of the=girl.~00~}#055#046
+~0C~~06~There is a signpost=just south of the=girl.~00~#046
+;000118E7{~0C~~06~There is a man=pushing a cart=very near the girl.~00~}#061#052
+~0C~~06~There is a man=pushing a cart=very near the girl.~00~#052
+;0001191B{~0C~~06~There is a man=pushing a cart=just west of the=girl.~00~}#064#055
+~0C~~06~There is a man=pushing a cart=just west of the=girl.~00~#055
+;00011952{~0C~~06~There is a man=pushing a cart=just east of the=girl.~00~}#064#055
+~0C~~06~There is a man=pushing a cart=just east of the=girl.~00~#055
+;00011989{~0C~~06~There is a man=pushing a cart=just north of the=girl.~00~}#065#056
+~0C~~06~There is a man=pushing a cart=just north of the=girl.~00~#056
+;000119C1{~0C~~06~There is a man=pushing a cart=just south of the=girl.~00~}#065#056
+~0C~~06~There is a man=pushing a cart=just south of the=girl.~00~#056
+;000119F9{~0C~~06~There is a big barrel=very near the girl.~00~}#053#044
+~0C~~06~There is a big barrel=very near the girl.~00~#044
+;00011A25{~0C~~06~There is a big barrel=just west of the=girl.~00~}#056#047
+~0C~~06~There is a big barrel=just west of the=girl.~00~#047
+;00011A54{~0C~~06~There is a big barrel=just east of the=girl.~00~}#056#047
+~0C~~06~There is a big barrel=just east of the=girl.~00~#047
+;00011A83{~0C~~06~There is a big barrel=just north of the=girl.~00~}#057#048
+~0C~~06~There is a big barrel=just north of the=girl.~00~#048
+;00011AB3{~0C~~06~There is a big barrel=just south of the=girl.~00~}#057#048
+~0C~~06~There is a big barrel=just south of the=girl.~00~#048
+;00011AE3{~0C~~06~She hears bells=ringing in the west.~00~}#048#039
+~0C~~06~She hears bells=ringing in the west.~00~#039
+;00011B0A{~0C~~06~Children gather=where the girl lives.~00~}#049#040
+~0C~~06~Children gather=where the girl lives.~00~#040
+;00011B32{~0C~~06~Where they learn=the girl you will=earn.~00~}#052#043
+~0C~~06~Where they learn=the girl you will=earn.~00~#043
+;00011B5D{~0C~~06~Where they teach=the girl you will=reach.~00~}#053#044
+~0C~~06~Where they teach=the girl you will=reach.~00~#044
+;00011B89{~0C~~06~The girl goes west=to eat the best.~00~}#047#038
+~0C~~06~The girl goes west=to eat the best.~00~#038
+;00011BAF{~0C~~06~The girl sees dough=rise with the=sunrise.~00~}#054#045
+~0C~~06~The girl sees dough=rise with the=sunrise.~00~#045
+;00011BDC{~0C~~06~The girl goes north=to buy her cakes.~00~}#049#040
+~0C~~06~The girl goes north=to buy her cakes.~00~#040
+;00011C04{~0C~~06~The hungry girl=goes south.~00~}#039#030
+~0C~~06~The hungry girl=goes south.~00~#030
+;00011C22{~0C~~06~The girl reclines=near where you dine.~00~}#050#041
+~0C~~06~The girl reclines=near where you dine.~00~#041
+;00011C4B{~0C~~06~The girl sees tables=in the street.~00~}#047#038
+~0C~~06~The girl sees tables=in the street.~00~#038
+;00011C71{~0C~~06~Near her are groups=that gather for soup.~00~}#053#044
+~0C~~06~Near her are groups=that gather for soup.~00~#044
+;00011C9D{~0C~~06~The coffee is good=in her neighborhood.~00~}#051#042
+~0C~~06~The coffee is good=in her neighborhood.~00~#042
+;00011CC7{~0C~~06~Near her kids play=on a very hot day.~00~}#049#040
+~0C~~06~Near her kids play=on a very hot day.~00~#040
+;00011CEF{~0C~~06~The girl sees water=...in the sky.~00~}#046#037
+~0C~~06~The girl sees water=...in the sky.~00~#037
+;00011D14{~0C~~06~Where water up slides=the girl resides.~00~}#051#042
+~0C~~06~Where water up slides=the girl resides.~00~#042
+;00011D3E{~0C~~06~Water and stone,=the girl is alone.~00~}#047#038
+~0C~~06~Water and stone,=the girl is alone.~00~#038
+;00011D64{~0C~~06~She sees what comes=before the cart.~00~}#048#039
+~0C~~06~She sees what comes=before the cart.~00~#039
+;00011D8B{~0C~~06~Four legs west=will pass the test.~00~}#046#037
+~0C~~06~Four legs west=will pass the test.~00~#037
+;00011DB0{~0C~~06~She mounts a beast=just to the east.~00~}#048#039
+~0C~~06~She mounts a beast=just to the east.~00~#039
+;00011DD7{~0C~~06~The girl carries=hay to the north.~00~}#046#037
+~0C~~06~The girl carries=hay to the north.~00~#037
+;00011DFC{~0C~~06~Follow the pony=if it goes north.~00~}#045#036
+~0C~~06~Follow the pony=if it goes north.~00~#036
+;00011E20{~0C~~06~What she counts=by night, she sees=by day.~00~}#054#045
+~0C~~06~What she counts=by night, she sees=by day.~00~#045
+;00011E4D{~0C~~06~They pass the girl=with coats of white.~00~}#051#042
+~0C~~06~They pass the girl=with coats of white.~00~#042
+;00011E77{~0C~~06~Coats of wool in=her neighborhood.~00~}#046#037
+~0C~~06~Coats of wool in=her neighborhood.~00~#037
+;00011E9C{~0C~~06~Follow the follower=north of the girl.~00~}#050#041
+~0C~~06~Follow the follower=north of the girl.~00~#041
+;00011EC5{~0C~~06~Little Bo Peep=is near the girl.~00~}#044#035
+~0C~~06~Little Bo Peep=is near the girl.~00~#035
+;00011EE8{~0C~~06~Warm in the street=where the girl=sleeps.~00~}#053#044
+~0C~~06~Warm in the street=where the girl=sleeps.~00~#044
+;00011F14{~0C~~06~Eastward turn where=wood will burn.~00~}#047#038
+~0C~~06~Eastward turn where=wood will burn.~00~#038
+;00011F3A{~0C~~06~Near the pyre to=the girl aspire.~00~}#045#036
+~0C~~06~Near the pyre to=the girl aspire.~00~#036
+;00011F5E{~0C~~06~From the north=the girl sees smoke.~00~}#047#038
+~0C~~06~From the north=the girl sees smoke.~00~#038
+;00011F84{~0C~~06~Where wood will end=the girl you tend.~00~}#050#041
+~0C~~06~Where wood will end=the girl you tend.~00~#041
+;00011FAD{~0C~~06~The girl sees men=climb underground.~00~}#048#039
+~0C~~06~The girl sees men=climb underground.~00~#039
+;00011FD4{~0C~~06~A hole with a cover=you will discover.~00~}#050#041
+~0C~~06~A hole with a cover=you will discover.~00~#041
+;00011FFD{~0C~~06~Men work just east=of the girl.~00~}#043#034
+~0C~~06~Men work just east=of the girl.~00~#034
+;0001201F{~0C~~06~Near a hole in the=street the quest=complete.~00~}#057#048
+~0C~~06~Near a hole in the=street the quest=complete.~00~#048
+;0001204F{~0C~~06~The girl may surface=where men descend.~00~}#051#042
+~0C~~06~The girl may surface=where men descend.~00~#042
+;00012079{~0C~~06~The girl sees a=light in the night.~00~}#047#038
+~0C~~06~The girl sees a=light in the night.~00~#038
+;0001209F{~0C~~06~West of the girl=it is bright at=night.~00~}#051#042
+~0C~~06~West of the girl=it is bright at=night.~00~#042
+;000120C9{~0C~~06~Where the sun rises=another light shines.~00~}#053#044
+~0C~~06~Where the sun rises=another light shines.~00~#044
+;000120F5{~0C~~06~The girl sees no=stars to the north.~00~}#048#039
+~0C~~06~The girl sees no=stars to the north.~00~#039
+;0001211C{~0C~~06~A very bright light=burns at night.~00~}#047#038
+~0C~~06~A very bright light=burns at night.~00~#038
+;00012142{~0C~~06~There is something=to read near the=girl.~00~}#053#044
+~0C~~06~There is something=to read near the=girl.~00~#044
+;0001216E{~0C~~06~The girl sees=travelers stop and=read.~00~}#050#041
+~0C~~06~The girl sees=travelers stop and=read.~00~#041
+;00012197{~0C~~06~The girl sees=travelers stop and=read.~00~}#050#041
+~0C~~06~The girl sees=travelers stop and=read.~00~#041
+;000121C0{~0C~~06~The girl sees=travelers stop and=read.~00~}#050#041
+~0C~~06~The girl sees=travelers stop and=read.~00~#041
+;000121E9{~0C~~06~The girl sees=travelers stop and=read.~00~}#050#041
+~0C~~06~The girl sees=travelers stop and=read.~00~#041
+;00012212{~0C~~06~The girl hears=wheels in the=street.~00~}#048#039
+~0C~~06~The girl hears=wheels in the=street.~00~#039
+;00012239{~0C~~06~If he pushed his=load east, the=girl he would meet.~00~}#063#054
+~0C~~06~If he pushed his=load east, the=girl he would meet.~00~#054
+;0001226F{~0C~~06~The girl hears=vendors in the=street.~00~}#049#040
+~0C~~06~The girl hears=vendors in the=street.~00~#040
+;00012297{~0C~~06~Follow the man when=he pushes south.~00~}#048#039
+~0C~~06~Follow the man when=he pushes south.~00~#039
+;000122BE{~0C~~06~The men push their=load near the=special abode.~00~}#059#050
+~0C~~06~The men push their=load near the=special abode.~00~#050
+;000122F0{~0C~~06~What is near to her=is large and round.~00~}#051#042
+~0C~~06~What is near to her=is large and round.~00~#042
+;0001231A{~0C~~06~What is near to her=is large and round.~00~}#051#042
+~0C~~06~What is near to her=is large and round.~00~#042
+;00012344{~0C~~06~What is near to her=is large and round.~00~}#051#042
+~0C~~06~What is near to her=is large and round.~00~#042
+;0001236E{~0C~~06~What is near to her=is large and round.~00~}#051#042
+~0C~~06~What is near to her=is large and round.~00~#042
+;00012398{~0C~~06~What is near to her=is large and round.~00~}#051#042
+~0C~~06~What is near to her=is large and round.~00~#042
+;000123C2{~0C~~06~On your map I=will show you all=the TRAP DOORS=in town.~00~}#067#058
+~0C~~06~On your map I=will show you all=the TRAP DOORS=in town.~00~#058
+;000123FC{~0C~~06~On your map I=will show you where=this TUNNEL leads.~00~}#064#055
+~0C~~06~On your map I=will show you where=this TUNNEL leads.~00~#055
+;00012433{~0C~~06~On your map I=will show you=the SCHOOLS=closest to the girl.~00~}#072#063
+~0C~~06~On your map I=will show you=the SCHOOLS=closest to the girl.~00~#063
+;00012472{~0C~~06~On your map I=will show you=FOUNTAINS=closest to the girl.~00~}#070#061
+~0C~~06~On your map I=will show you=FOUNTAINS=closest to the girl.~00~#061
+;000124AF{~0C~~06~On your map I=will show you=the STATUES=closest to the girl.~00~}#072#063
+~0C~~06~On your map I=will show you=the STATUES=closest to the girl.~00~#063
+;000124EE{~0C~~06~On your map I=will show you=the CAFES=closest to the girl.~00~}#070#061
+~0C~~06~On your map I=will show you=the CAFES=closest to the girl.~00~#061
+;0001252B{~0C~~06~On your map I=will show you=the BAKERIES=closest to the girl.~00~}#073#064
+~0C~~06~On your map I=will show you=the BAKERIES=closest to the girl.~00~#064
+;0001256B{~0C~~06~On your map I=will show you=the BRIDGES in town.~00~}#060#051
+~0C~~06~On your map I=will show you=the BRIDGES in town.~00~#051
+;0001259E{~0C~~06~A street vendor=has a map for you.=Get that map and=I'll give you a clue!~00~}#085#076
+~0C~~06~A street vendor=has a map for you.=Get that map and=I'll give you a clue!~00~#076
+;000125EA{~0C~~06~A street vendor=EAST of here=has a map for you.~00~}#059#050
+~0C~~06~A street vendor=EAST of here=has a map for you.~00~#050
+;0001261C{~0C~~06~A street vendor=WEST of here=has a map for you.~00~}#059#050
+~0C~~06~A street vendor=WEST of here=has a map for you.~00~#050
+;0001264E{~0C~~06~A street vendor=SOUTH of here=has a map for you.~00~}#060#051
+~0C~~06~A street vendor=SOUTH of here=has a map for you.~00~#051
+;00012681{~0C~~06~A street vendor=NORTH of here=has a map for you.~00~}#060#051
+~0C~~06~A street vendor=NORTH of here=has a map for you.~00~#051
+;000126B4{~0C~~06~On your map I=will show you=the STREET LAMPS=closest to the girl.~00~}#077#068
+~0C~~06~On your map I=will show you=the STREET LAMPS=closest to the girl.~00~#068
+;000126F8{~0C~~06~On your map I=will show you=the MANHOLES=closest to the girl.~00~}#073#064
+~0C~~06~On your map I=will show you=the MANHOLES=closest to the girl.~00~#064
+;00012738{~0C~~06~On your map I=will show you=the FIRES=closest to the girl.~00~}#070#061
+~0C~~06~On your map I=will show you=the FIRES=closest to the girl.~00~#061
+;00012775{~0C~~06~On your map I=will show you=the STREET SIGNS=closest to the girl.~00~}#077#068
+~0C~~06~On your map I=will show you=the STREET SIGNS=closest to the girl.~00~#068
+;000127B9{~0C~~06~On your map I=will show you=the ALLIGATORS=closest to the girl.~00~}#075#066
+~0C~~06~On your map I=will show you=the ALLIGATORS=closest to the girl.~00~#066
+;000127FB{~0C~~06~On your map I=will show you=the HAY PILES=closest to the girl.~00~}#074#065
+~0C~~06~On your map I=will show you=the HAY PILES=closest to the girl.~00~#065
+;0001283C{~0C~~06~On your map I=will show you=the VENDORS=closest to the girl.~00~}#072#063
+~0C~~06~On your map I=will show you=the VENDORS=closest to the girl.~00~#063
+;0001287B{~0C~~06~On your map I=will show you=the SHEEP=closest to the girl.~00~}#070#061
+~0C~~06~On your map I=will show you=the SHEEP=closest to the girl.~00~#061
+;000128B8{~0C~~06~On your map I=will show you=the HORSES=closest to the girl.~00~}#071#062
+~0C~~06~On your map I=will show you=the HORSES=closest to the girl.~00~#062
+;000128F6{~CC~~A9~~D2~~A9~}#016#004
+~CC~~A9~~D2~~A9~#004
+|8449

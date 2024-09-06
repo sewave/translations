@@ -1,6 +1,6 @@
 Kouryuu Densetsu Villgust Gaiden (NES)
-Traducción al Español v1.1 (29/01/2022)
-(C) 2022 Traducciones Wave
+Traducción al Español v1.2 (31/08/2024)
+(C) 2024 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -8,10 +8,14 @@ Notas y Fallos Conocidos
 Esta traducción y hacking esta basado en el de LIPEMCO! Translations.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
 V1.1:
 - Corregido "Anitmal" por "Antimal"
 - Expandida "HachaMano"
 - Expandida "EspinillerasAntimal"
+
+V1.2:
+- Aplicadas correcciones informadas por signatux
 
 ------------------------
 Instrucciones de Parcheo
@@ -28,5 +32,6 @@ CRC32: 5a8bfdf5
 Créditos
 --------
 Wave - Hacking, traducción y pruebas.
+signatux - Pruebas.
 
 -- FIN --

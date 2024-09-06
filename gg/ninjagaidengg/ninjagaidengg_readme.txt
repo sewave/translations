@@ -1,6 +1,6 @@
 Ninja Gaiden (Game Gear)
-Traducción al Español v2.0 (29/04/2022)
-(C) 2022 Traducciones Wave
+Traducción al Español v2.1 (31/08/2024)
+(C) 2024 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -10,8 +10,11 @@ Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
 V2.0:
--Añadidos caracteres especiales
--Revisión de guion
+- Añadidos caracteres especiales
+- Revisión de guion
+
+V2.1:
+- Aplicadas correcciones informadas por signatux
 
 ------------------------
 Instrucciones de Parcheo
@@ -28,5 +31,6 @@ CRC32: c578756b
 Créditos
 --------
 Wave - Hacking, traducción y pruebas.
+signatux - Pruebas.
 
 -- FIN --

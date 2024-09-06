@@ -107,7 +107,7 @@ innecesarios.\ ~00~#067
 ;00020545{^Energy returned to=~40~´s body.~00~}#036#030
 ^La energía vuelve a=~40~.\     ~00~#030
 ;00020563{Whose weapon shall I=enhance?~00~}#033#030
-¿Mejoro el arma de=quien?\   ~00~#030
+¿Mejoro el arma de=quién?\   ~00~#030
 ;00020581{^Nothing I can do for=that.~00~}#031#028
 ^No puedo hacer nada=ahí.\ ~00~#028
 ;0002059D{^That can´t be enhanced=any further.~00~}#040#037
@@ -119,13 +119,13 @@ innecesarios.\ ~00~#067
 ;0002060A{What do you need?~00~}#021#018
 ¿Qué necesitas?\ ~00~#018
 ;0002061C{^Who are you buying=for?~00~}#028#025
-^¿Para quien comprarás?\~00~#025
+^¿Para quién comprarás?\~00~#025
 ;00020635{You´re already=wearing the same=thing...~00~}#044#041
 Ya llevas puesta la=misma cosa...\      ~00~#041
 ;0002065E{You´re already=wearing something=better...~00~}#046#043
 Ya llevas puesto=algo mejor...\           ~00~#043
 ;00020689{This will be ~41~0G.=¿Está bien?  ~00~}#038#032
-Eso serán ~41~0O.=¿Está bien?\    ~00~#032
+Eso serán ~41~0 O.=¿Está bien?\   ~00~#032
 ;000206A9{^Thank you for your=patronage.~00~}#034#031
 ^Gracias por tu=patrocinio.\  ~00~#031
 ;000206C8{What do you need?~00~}#021#018
@@ -150,9 +150,9 @@ noche.$^=
 ;00020782{~49~~48~~47~~40~=is poisoned.~00~}#033#018
 ~49~~48~~47~~40~=envenenado.\~00~#018
 ;00020794{EEEEK! M-My hand...=has turned into=wood...!$~00~}#052#046
-¡AAAY! M-Mi mano...=¡se ha vuelto=madera...!$~00~#046
+¡AAAY! M-Mi mano...=¡se volvió de=madera...!$~00~#046
 ;000207C2{Rita: There! I´ve=made a work of art!$=^Murobo: I´ll never=understand art.$=^Bostov: This is NOT=what we need!$~00~}#124#112
-Rita: ¡Toma! ¡Creé una=obra de arte!$=^
+Rita: ¡Toma! ¡Creé=una obra de arte!$=^
 Murobo: Nunca=entenderé el arte.$=^
 Bostov: ¡Esto NO es lo=que necesito!$~00~#112
 ;00020832{Remi: I´ve made a=bed.$=^Ryuquir: It´s sooo=comfy! *purrr*$=^Who will sleep on the=bed?~00~}#097#088
@@ -278,7 +278,7 @@ Hash: ¿A qué estás=esperando? ¡¡Ve!!$~00~#038
 ;0002123C{~48~~47~Your progress has been=saved.~00~}#041#032
 ~48~~47~Tu progreso ha sido=salvado.\~00~#032
 ;0002125C{Wise Man: Halting the=currents is not=enough. Only someone=pure of heart may$^=enter the World of the=Gods!$~45~~00~}#122#110
-Sabio: Parar las=corrientes no basta.=Solo alguien de=corazón puro puede$^entrar en el Mundo de=los Dioses!$~45~~00~#110
+Sabio: Parar las=corrientes no basta.=¡Solo alguien de=corazón puro puede$^entrar en el Mundo Divino!$~45~\     ~00~#110
 ;000212CA{Wise Man: There is a=certain item capable=of making all of your=hearts alike: the$^=Duplication Mirror.$~00~}#114#105
 Sabio: Hay cierto=objeto capaz de hacer=que vuestros corazones=se parezcan: el$^=Espejo Duplicación.$\  ~00~#105
 ;00021333{This ROM is Ver. ~41~.$^~00~}#031#022
@@ -335,7 +335,7 @@ Alcalde: Pelear es=fácil si tienes buenos=camaradas, *miau*.$~00~#062
 ;000223CB{Mayor: I´ve heard of=that sorcerer. He´s=researching how to=achieve eternal life$^=using the power of the=Evil God, *miau*!$~00~}#134#125
 Alcalde: He oído=hablar de ese mago.=¡Investiga como lograr=la vida eterna usando$^el poder del Dios=Malvado, *miau*!$\     ~00~#125
 ;00022448{Mayor: I hope peace=will return to our=world soon, *miau*.$~00~}#066#060
-Alcalde: Espero que la paz vuelva pronto al mundo, *miau*.$~00~#060
+Alcalde: Espero que la=paz vuelva pronto al=mundo, *miau*.$~00~#060
 ;00022484{Sylviee: This is=Ryuquir´s house,=*miau*. Please leave=if you have no reason$^=to be here.$~00~}#101#092
 Sylviee: Esta es la=casa de Ryuquir,=*miau*. Por favor,=vete si no tienes nada$^que hacer.$~00~#092
 |1040
@@ -345,7 +345,7 @@ Sylviee: Si estás=buscando a Ryuquir,=está paseando en el=bosque hacia el este
 ;00022542{It´s easy to get lost,=so I´ll take you=there, *miau*.$^~00~}#063#057
 Es fácil perderse, así=que te llevaré allí,=*miau*.$^\  ~00~#057
 ;0002257B{Ryuquir: *miau*?=What´s up, Sylviee?$~45~~00~}#048#039
-Ryuquir: *miau*?=¿Qué pasa, Sylviee?$~45~~00~#039
+Ryuquir: ¿*miau*?=¿Qué pasa Sylviee?$~45~~00~#039
 ;000225A2{Sylviee: This guy was=looking for you,=*miau*. $~45~~00~}#059#050
 Sylviee: Este chico te=estaba buscando,=*miau*.$~45~~00~#050
 ;000225D4{Ryuquir: Do I know=you, old-timer?$~45~~00~}#046#037
@@ -361,9 +361,9 @@ Ryuquir: Te llevaré=allí. ¡Sígueme,=*miau*!$\    ~00~#050
 ;00022781{Sorcerer: Who are=you?! If you get in my=way, I will kill you!$~00~}#070#064
 Mago: ¡¿Quién eres?!=¡Si te metes en mi=camino, te mataré!$\   ~00~#064
 ;000227C1{Disciple: What?! Stop!=You´ll ruin the ritual=-- Ah!$~00~}#060#054
-Discípulo: ¡¿Qué?!=¡Para! Arruinarás el=ritual--¡Ah!$~00~#054
+Discípulo: ¡¿Qué?!=¡Parad! El ritual--=¡Ah!$\        ~00~#054
 ;000227F7{^Sorcerer: Curse you!=I´ve been brought back=as a ghost! You´ll pay=for this!!$~00~}#086#080
-^Mago: ¡Maldito seas!=¡He vuelto como=fantasma! ¡¡Pagarás=por esto!!$\         ~00~#080
+^Mago: ¡Malditos seáis!=¡He vuelto como=fantasma! ¡¡Pagaréis=por esto!!$\      ~00~#080
 ;00022847{Goddess: Your journey=in this region is=over...$~00~}#055#049
 Diosa: Tu viaje en=esta región ha=terminado...$\~00~#049
 ;00022878{Linda: Thank you.$~00~}#025#019
@@ -371,7 +371,7 @@ Linda: Gracias.$\ ~00~#019
 ;0002288B{Young Man: I wouldn´t=be here if not for=you. Thank you.$~00~}#064#058
 Hombre Joven: No=estaría aquí de no ser=por ti. Gracias.$~00~#058
 ;000228C5{Linda: No... This=can´t be happening...=I can´t live without=him...!$~00~}#076#070
-Linda: No... Esto no=puede pasar...=¡No puedo vivir sin=él...!$\     ~00~#070
+Linda: No... No puede=estar pasando...=¡No puedo vivir sin=él...!$\  ~00~#070
 |1067
 @0002290B-00022D24-00
 ;0002290B{Linda: I only want him=to be well... I don´t=need anything else...$~00~}#074#068
@@ -417,7 +417,7 @@ Hombre Joven: Volveré=con vida. ¡Se lo debo=a mi novia!$\      ~00~#064
 ;00022EA9{Leader: Well done!=Let´s go further=inside. Onwards!$~00~}#060#054
 Líder: ¡Bien hecho!=Vayamos más adentro.=¡Adelante!$\~00~#054
 ;00022EDF{Leader: Here they=come! CHAAARGE!!$~00~}#042#036
-Líder: ¡Aquí vienen!=¡¡CARGAAAAA!!$~00~#036
+Líder: ¡Aquí vienen!=¡¡CARGAAAAD!!$~00~#036
 ;00022F03{Leader: Ah, finally!=I´ve been waiting for=you.$~00~}#055#049
 Líder: ¡Al fin!=He estado esperándoos.$\        ~00~#049
 ;00022F34{Remi: Wow, not bad!$~00~}#027#021
@@ -461,7 +461,7 @@ Jefe de la Aldea: Ese=jarrón se transmitió=en nuestra aldea=durante generacion
 ;0002339C{What I know is that=its value as an=antique is incredibly=high.$~00~}#071#065
 Lo que sé es que su=valor como reliquia es=increíblemente alto.$~00~#065
 ;000233DD{Rich Man: Everyone=knows Bostov is a=thief, so he must be=the culprit! Please,$^=bring back our prized=vase!$~00~}#119#110
-Hombre Rico: Todos=saben que Bostov es un=ladrón, ¡será el=sospechoso!$^¡Por favor,=devolvednos el jarrón!$\ ~00~#110
+Hombre Rico: Todos=saben que Bostov es un=ladrón, ¡será el=culpable!$^¡Por favor,=devolvednos el jarrón!$\   ~00~#110
 ;0002344B{Bostov: W-What the=heck is this?!$~00~}#041#035
 Bostov: ¡¿Qué diablos=es esto?!$\ ~00~#035
 ;0002346E{Rich Man: I´m sorry,=Bostov... The truth=is, it was me all=along. I stole the$^=vase... Can you ever=forgive me?$~45~~00~}#127#115
@@ -581,11 +581,11 @@ Ax, Siervo del Dios=Malvado:=¡Jajajajaja!$~45~\~00~#045
 ;000265F6{Rita: What have you=done?!$~45~~00~}#038#029
 Rita: ¡¿Qué has=hecho?!$~45~\  ~00~#029
 ;00026613{Sylviee: Turn them=back, *hiss*!$~45~~00~}#044#035
-Sylviee: ¡Cámbiales de=nuevo!$~45~\  ~00~#035
+Sylviee: ¡Cámbialos de=nuevo!$~45~\  ~00~#035
 ;00026636{Ax, Servant of the=Evil God: Next, I will=turn YOUR village to=stone.$~00~}#077#071
 Ax, Siervo del Dios=Malvado: Ahora,=petrificaré VUESTRA=aldea.$\      ~00~#071
 ;0002667D{Ax, Servant of the=Evil God: And with=this little side show=out of the way...$^=Prepare to die!$~00~}#106#097
-Ax, Siervo del Dios=Malvado: Y con el=peq{ue}ño espectáculo=terminado...$^=¡Prepararos para=morir!$~00~#097
+Ax, Siervo del Dios=Malvado: Y con el=pequeño espectáculo=terminado...$^=¡Preparaos para=morir!$~00~#097
 ;000266DE{Ax, Servant of the=Evil God: Y-You have=defeated me... but=even if I die, the$^=Curse of Stone I have=cast will hold=forever...$~00~}#138#129
 Ax, Siervo del Dios=Malvado: M-Me habéis=derrotado... pero=aunque muera, la$^=Maldición de Piedra=aguantará para=siempre...$\   ~00~#129
 ;0002675F{Princess Rita is truly=strong.$~00~}#038#032
@@ -595,13 +595,13 @@ Rey: Debéis ser los=elegidos de la=diosa... Tengo una=petición.$~45~\~00~#067
 ;000267C2{I want you to destroy=the tower that has=recently been built=west of our town.$~45~~00~}#090#081
 Quiero que destruyáis=la torre que se ha=construido hace poco=al oeste.$~45~\      ~00~#081
 ;00026813{Murobo: Very well. We=shall do as you ask,=for the sake of our=Goddess.$~00~}#079#073
-Murobo: Muy b{ie}n.=Haremos lo que nos=pide, por el bien de=nuestra Diosa.$~00~#073
+Murobo: Muy b{ie}n.=Haremos lo que nos=pide, en nombre de=nuestra Diosa.$\ ~00~#073
 ;0002685C{King: I´m counting on=you, brave ones!$~00~}#046#040
 Rey: ¡Cuento con=vosotros, valientes!$\~00~#040
 ;00026884{Murobo: Your Majesty,=the tower has been=destroyed. There is=nothing left of it.$~45~~00~}#092#083
 Murobo: Su majestad,=la torre ha sido=destruida. No queda=nada de ella.$~45~\        ~00~#083
 ;000268D7{King: Well done, brave=ones! Please, feel=free to rest for a=while in our town.$~00~}#087#081
-Rey: ¡Bien hecho,=valientes! Sentiros=libres de descansar un=poco en la ciudad.$~00~#081
+Rey: ¡Bien hecho,=valientes! Sentíos=libres de descansar un=poco en la ciudad.$\~00~#081
 |1053
 @00026928-00026D59-00
 ;00026928{King: It seems that=Martin, the martial=artist, wishes to=speak with you. Please$^=meet him at once.$~00~}#111#102
@@ -611,7 +611,7 @@ Rey: ¡Gracias,=valientes!$\  ~00~#030
 ;000269AC{Murobo: Your Majesty,=I know I said the=tower was destroyed...=But that was a lie.$~45~~00~}#094#085
 Murobo: Su majestad,=sé que dije que la=torre fue destruida...=Pero era mentira.$~45~\ ~00~#085
 ;00026A01{The truth is, it was=transported to the=world of the Gods soon=after we struck down$^=the servant of the=Evil God inside of it.$~45~~00~}#142#130
-La verdad es, que fue=trasportada al mundo=de los Dioses justo=antes de que$^derribáramos al siervo=del Dios del Malvado.$~45~\     ~00~#130
+La verdad es que fue=trasportada al mundo=de los Dioses justo=antes de que$^derribáramos al siervo=del Dios Malvado de=dentro.$~45~\~00~#130
 ;00026A83{We have not given up=on our task.$^We shall head there=and destroy the tower=once and for all.$~45~~00~}#109#097
 No nos rendimos en=nuestra tarea.$^Nos dirigiremos allí y=destruiremos la torre=de una vez.$~45~\  ~00~#097
 ;00026AE4{Rita: Father, I wish=to travel with them as=well.$~45~~00~}#061#052
@@ -649,13 +649,13 @@ A este ritmo, no podré=invocar al Héroe de=otro mundo.=Dirigíos al castillo,$
 ;00026F34{Murobo: Forgive me,=Goddess. We couldn´t=destroy the tower.$~45~~00~}#071#062
 Murobo: Perdóneme,=Diosa. No pudimos=destruir la torre.$~45~\   ~00~#062
 ;00026F72{Goddess: No need to=apologize. However, I=must ask you to keep=trying until you$^=succeed.$~45~~00~}#105#093
-Diosa: No debéis=disculparos. Pero debo=pediros seguir=intentándolo hasta$^tener éxito.$~45~\  ~00~#093
+Diosa: No debes=disculparte. Pero debo=pediros seguir=intentándolo hasta$^tener éxito.$~45~\   ~00~#093
 ;00026FCF{The tower has already=reached the world of=the Gods... Take this=charm. It will allow$^=you to enter it as=well.$~45~~00~}#127#115
 La torre ya ha llegado=al mundo de los=Dioses... Tomad este=amuleto. Os permitirá$^entrar también.$~45~\             ~00~#115
 ;00027042{^The party has obtained=the Goddess Charm.$~00~}#050#044
 ^El grupo obtuvo el=Amuleto de la Diosa.$\ ~00~#044
 ;0002706E{Murobo: O Goddess,=please combine your=power with this flower=and bring everyone$^=back to normal.$~45~~00~}#113#101
-Murobo: Oh, Diosa,=por favor combine su=poder con esta flor y=devuelva a todos a la$^normalidad.$~45~\ ~00~#101
+Murobo: Oh, Diosa,=por favor, combine su=poder con esta flor y=devuelva a todos a la$^normalidad.$~45~\~00~#101
 ;000270D3{Goddess: It shall be=done.$~00~}#034#028
 Diosa: Así se hará.$\      ~00~#028
 ;000270EF{Murobo: Thank you, my=Goddess.$~00~}#038#032
@@ -733,7 +733,7 @@ Mercader: Bajo control=o no, aún y así hice=algo mal. Tengo cosas=que enmendar
 |1056
 @000279E1-00027A80-00
 ;000279E1{F-Forget about me,=*miau*... Please, save=my child...$~00~}#061#055
-O-Olvidaros de mi,=*miau*... Por favor,=mi hija...$\  ~00~#055
+O-Olvidaos de mí,=*miau*... Por favor,=mi hija...$\   ~00~#055
 ;00027A18{M-Mommy... It hurts,=*miau*...$~00~}#038#032
 M-Mami... Duele,=*miau*...$\   ~00~#032
 ;00027A38{Ever since I drank=that weird medicine=the merchant gave me=-- Urgh...!$~00~}#079#073
@@ -767,7 +767,7 @@ Mercader: Ahora me=despido.=Adiós.$\           ~00~#048
 ;00028377{Murobo: You´re behind=this, aren´t you?=You´ve been spreading=some weird medicine$^=around that turns=people into plants.$~45~~00~}#136#124
 Murobo: Estás detrás=de esto, ¿verdad? Has=estado distribuyendo=una rara medicina que$^transforma a la gente=en plantas.$~45~\~00~#124
 ;000283F3{Flower Ghost: Indeed!=I was brought to life=by the grudge of every=plant that has been$^=destroyed for the=benefit of you fleshy=creatures.$~45~~00~}#154#142
-Flor Fantasma: ¡Claro!=Me dio vida el rencor=de todas las plantas=que fueron destruidas$^por el beneficio de=las criaturas de=carne.$~45~\      ~00~#142
+Flor Fantasma: ¡Claro!=Me dio vida el rencor=de todas las plantas=que fueron destruidas$^en vuestro beneficio,=criaturas carnosas.$~45~\        ~00~#142
 ;00028481{And now, with the=power of the Evil God,=I can get my revenge!$~45~~00~}#074#065
 Y ahora, con el poder=del Dios Malvado,=¡podré vengarme!$~45~\     ~00~#065
 ;000284C2{Remi: ...I do=sympathize, but why=side with the Evil=God? There must be a$^=better way.$~45~~00~}#102#090
@@ -789,7 +789,7 @@ Si tomáis la salida=este, encontraréis el=Santuario del Dios=Malvado.$~00~#071
 ;00028690{Move it, you jerks!=You´re ruining our=date!$~00~}#052#046
 ¡Moveos, tontos!=¡Arruináis nuestra=cita!$\  ~00~#046
 ;000286BE{Ahh! Why did you talk=to me?! Oh man, I got=it all over my foot...$~00~}#074#068
-¡Ahh! ¡¿Por qué me=habláis?! Oh tío, me=lo he tirado por el=pie...$~00~#068
+¡Ahh! ¡¿Por qué me=habláis?! Oh, tío, me=lo tiré por el pie...$\   ~00~#068
 ;00028702{The Evil God protects=us from monsters.$~00~}#047#041
 El Dios Malvado repele=a los monstruos.$~00~#041
 ;0002872B{Mayor: There is a=shrine dedicated to=the Evil God east of=our village. You$^=should go there and=pay your respects.$~00~}#127#118
@@ -799,7 +799,7 @@ Alcalde: Hay un=Santuario dedicado al=Dios Malvado al este=de nuestra aldea.$^=D
 ;000287F9{This is the town of=Camus. The Goddess=watches over us.$~00~}#063#057
 Esta es la ciudad de=Camus. La Diosa nos=protege.$\     ~00~#057
 ;00028832{I had no idea you were=the Goddess´s chosen=ones...$~00~}#059#053
-NO sabía que erais los=elegidos de la=Diosa...$\    ~00~#053
+No sabía que erais los=elegidos de la=Diosa...$\    ~00~#053
 ;00028867{I don´t like the Evil=God anymore. Now I=worship the Goddess.$~00~}#069#063
 Ya no me gusta el Dios=Malvado. Ahora adoro a=la Diosa.$\     ~00~#063
 ;000288A6{You were able to=dispatch the founder=of the Sect of the=Evil God... You$^=champions of the=Goddess are really=formidable...$~00~}#135#126
@@ -809,7 +809,7 @@ Pudisteis despachar al=fundador de la Secta=del Dios Malvado...=Los campeones de
 ;00028924{Mayor: We´ve decided=to entrust our future=to the Goddess.$~00~}#066#060
 Alcalde: Decidimos=confiarle nuestro=futuro a la Diosa.$\  ~00~#060
 ;00028960{LEAVE! I do not want=to see you ever=again!!$~00~}#052#046
-¡IROS! ¡¡No qu{ie}ro=volver a veros nunca=más!!$~00~#046
+¡IDOS! ¡¡No qu{ie}ro=volver a veros nunca=más!!$~00~#046
 ;0002898E{Butler: Welcome to our=humble temple. Allow=me to show you our=hospitality.$~00~}#083#077
 Criado: B{ie}nvenidos a=nuestro humilde=templo. Mostraré=nuestra hospitalidad.$~00~#077
 ;000289DB{You came at the=perfect time. We have=just received a=magician´s robe of the$^=highest quality. Would=you accept this gift?$~45~~00~}#138#126
@@ -841,7 +841,7 @@ Aquí es donde=reclutamos soldados.=Antes de uniros,=debemos probar$^vuestras le
 ;00028D27{See this sculpture of=the Goddess on the=floor? You must=trample all over it.$~45~~00~}#089#080
 ¿Veis esta escultura=de la Diosa en el=suelo? Debéis=pisotearla.$~45~\            ~00~#080
 ;00028D77{Bostov: Oh man...=Could you really do=something like that,=Murobo...?$~45~~00~}#081#072
-Bostov: Oh tío...=¿Podrías hacer una=cosa así, Murobo...?$~45~\           ~00~#072
+Bostov: Oh, tío...=¿Podrías hacer una=cosa así, Murobo...?$~45~\          ~00~#072
 ;00028DBF{Murobo: Urgh...$~00~}#023#017
 Murobo: Aghh...$~00~#017
 ;00028DD0{Examiner: What´s the=holdup?$~45~~00~}#040#031
@@ -873,7 +873,7 @@ Murobo: ...Lo=entiendo.$\  ~00~#028
 ;000290D2{Well?$~00~}#013#007
 ¿Y?$\ ~00~#007
 ;000290D9{Evil Priest: What have=we here? The Goddess´s=chosen ones, snooping=around like rats?$~45~~00~}#097#088
-Cura Malvado: ¿Qué=tenemos aquí? ¿Los=elegidos de la Diosa,=fisgoneando como$^ratas?$~45~\~00~#088
+Cura Malvado: ¿Qué=tenemos aquí? ¿Los=elegidos de la Diosa=fisgoneando como$^ratas?$~45~\ ~00~#088
 |1034
 @00029131-00029566-00
 ;00029131{Murobo: ...So you=knew.$~45~~00~}#035#026
@@ -907,7 +907,7 @@ Murobo: Quizá. ¿Por=qué no te conviertes=en uno de sus=campeones y lo$^averig
 ;000293D2{Hash: No can do,=Murobo. Fighting for=justice or whatever=just ain´t my thing.$~45~~00~}#090#081
 Hash: No puedo,=Murobo. Pelear por la=justicia o lo que sea=no es lo mío.$~45~\    ~00~#081
 ;00029423{Murobo: I see. At=least promise me not=to work for the Evil=God again.$~45~~00~}#082#073
-Murobo: Ya veo. Al=menos prometeme no=trabajar para el Dios=Malvado.$~45~\ ~00~#073
+Murobo: Ya veo. Al=menos prométeme no=trabajar para el Dios=Malvado.$~45~\ ~00~#073
 ;0002946C{Hash: That I can do.=I´d REALLY rather not=have to fight you=again.$~45~~00~}#079#070
 Hash: Eso sí.=REALMENTE preferiría=no tener q{ue} pelear con=vosotros.$~45~~00~#070
 ;000294B2{By the way... Bostov,=was it? You must=really like that Remi=girl, huh?$~45~~00~}#083#074
@@ -931,7 +931,7 @@ Ryuq{ui}r: ¡Remi también=se puso roja, *miau*!$~45~~00~#046
 ;00029652{Remi: R-Ryuquir!!$~00~}#025#019
 Remi: ¡R-Ryuquir!$~00~#019
 ;00029665{Hash: See ya, Murobo!=Don´t you die on me,=you hear?$~45~~00~}#064#055
-Hash: ¡Adiós, Murobo!=No te mueras por mí,=¿me oyes?$~45~~00~#055
+Hash: ¡Adiós, Murobo!=No te me mueras,=¿me oyes?$~45~\   ~00~#055
 ;0002969C{Murobo: Right back at=you!$~00~}#034#028
 Murobo: ¡Por supuesto!$\   ~00~#028
 ;000296B8{I heard the ships in=Nartha are built with=some kind of extraor-=dinary wood.$~00~}#085#079
@@ -939,7 +939,7 @@ Oí que los barcos de=Nartha se construyen=con un tipo de madera=excepcional.$\~
 ;00029707{Village Head: If you=need a ship, you=should go to Nartha.$~00~}#066#060
 Jefe de la Aldea: Si=necesitáis un barco,=id a Nartha.$\   ~00~#060
 ;00029743{Are you going to=Nartha? Just head=southward from our=village.$~00~}#070#064
-¿Vais a Nartha? Solo=dirigiros al sur de=nuestra aldea.$\      ~00~#064
+¿Vais a Nartha? Solo=dirigíos al sur de=nuestra aldea.$\       ~00~#064
 ;00029783{Welcome to Luverio! As=you can see, it´s a=quiet and peaceful=village.$~00~}#078#072
 ¡Bienvenidos a=Luverio! Como veis, es=una tranquila y=pacífica aldea.$\~00~#072
 ;000297CB{If you cross the sea=northwest, you´ll=reach a mountain with=the entrance to the$^=World of the Gods.$~00~}#112#103
@@ -947,7 +947,7 @@ Si cruzáis el mar del=norte, llegaréis a una=montaña con la entrada=al Mundo 
 ;00029832{There is a certain=town called Camus deep=in the mountains.=Apparently, they$^=worship the Evil God=there...$~00~}#119#110
 Hay cierta ciudad=llamada Camus dentro=de las montañas.=Aparentemente, allí$^adoran al Dios=Malvado...$\     ~00~#110
 ;000298A0{It seems the people of=Camus stopped=worshiping the Evil=God. I wonder what$^=happened?$~00~}#098#089
-Parece que la gente de=Camus dejó de adorar=al Dios Malvado. Me=pregunto que sucedió.$\ ~00~#089
+Parece que la gente de=Camus dejó de adorar=al Dios Malvado. Me=pregunto qué sucedió.$\ ~00~#089
 ;000298F9{Mayor: Sorry, my ship=is too damaged to=sail.$~00~}#053#047
 Alcalde: Perdonad, mi=barco está muy dañado.$\~00~#047
 ;00029928{Mayor: My ship is too=damaged to sail right=now, but there is a=way to fix it.$~45~~00~}#090#081
@@ -959,7 +959,7 @@ Necesitamos madera del=Árbol Creciente que=crece cerca de la casa=del mago en l
 ;00029A1D{Murobo: Is this the=wood you´re looking=for, Mr. Mayor?$~45~~00~}#067#058
 Murobo: ¿Es esta la=madera que buscaba,=Sr. Alcalde?$~45~\  ~00~#058
 ;00029A57{Mayor: It is! We´ll=get started right=away.$~00~}#051#045
-Mayor: ¡Lo es!=Empezaremos ahora=mismo.$\   ~00~#045
+Alcalde: ¡Lo es!=Empezaremos ahora=mismo.$\ ~00~#045
 |267
 @0002A0B2-0002A4CD-00
 ;0002A0B2{Mayor: The ship has=been repaired.$~00~}#042#036
@@ -983,7 +983,7 @@ Oí historias sobre=cierto mago que dejó a=un gólem a cargo de=alimentar a un 
 ;0002A26A{My husband is a=fisherman.$^I´m always worried he=might be attacked by=monsters...$~00~}#093#084
 Mi marido es un=pescador.$^Siempre me preocupa=que puedan atacarle=monstruos...$\  ~00~#084
 ;0002A2BE{Across the sea, there=is a small island with=a very wise old man=who looks a lot like$^=me. If you´re ever in=need of knowledge, you=should pay him a=visit.$~00~}#167#158
-Al otro lado del mar,=hay una pequeña isla=con un anciano muy=sabio que se parece$^mucho a mi. Si alguna=vez necesitáis=conocimiento,=deberíais visitarlo.$\ ~00~#158
+Al otro lado del mar,=hay una pequeña isla=con un anciano muy=sabio que se parece$^mucho a mí. Si alguna=vez necesitáis=conocimiento,=deberíais visitarlo.$\ ~00~#158
 ;0002A35C{Ghost: I am the=daughter of the=magician from the=stories... I beg of$^=you... Bring some fish=to our cat...$~00~}#119#110
 Fantasma: Soy la hija=del mago de las=historias... Os lo=ruego...$^Traedle algo de=pescado a nuestro=gato...$~00~#110
 ;0002A3CA{Golem: ......$~00~}#021#015
@@ -1065,11 +1065,11 @@ Te deseo suerte.      $^~00~#085
 ;0002AB56{Murobo: You´re pretty=good.$^=Ryuquir: Of course we=are! We Catfolk are=all warriors, *miau*!$~45~^~00~}#109#097
 Murobo: Eres=bastante buena.$^=Ryuquir: ¡Pues claro!=¡La gente Gato somos=guerreros, *miau*!$~45~^\~00~#097
 ;0002ABB7{Murobo: Together we=will bring peace back=to our world, for the=sake of our Goddess!$~45~^~00~}#097#088
-Murobo: ¡Juntos=devolveremos la paz a=nuestro mundo, por el=bien de nuestra Diosa!$~45~^\ ~00~#088
+Murobo: ¡Juntos=devolveremos la paz a=nuestro mundo, en=nombre de nuestra$^Diosa!$~45~^\  ~00~#088
 ;0002AC0F{Ryuquir: Are you=coming too, Sylviee?$^=Sylviee: Yup. I´ll tag=along since you´re=going, *miau*.$~00~}#107#098
 Ryuquir: ¿Tú también=vienes, Sylviee?$^=Sylviee: Sí. Os=acompañaré ya que tú=vas, *miau*.$\      ~00~#098
 ;0002AC71{Murobo: You are=clearly talented,=Remi. Would you like=to join us in our$^=quest? We are fighting=for the sake of our=Goddess in order to=save Villgust.$~45~^~00~}#168#156
-Murobo: Claramente=tienes talento,Remi.=¿Te gustaría unirte=a nuestra aventura?$^Luchamos por el bien=de nuestra Diosa para=poder salvar Villgust.$~45~\      ~00~#156
+Murobo: Claramente=tienes talento, Remi.=¿Te gustaría unirte=a nuestra aventura?$^Luchamos en nombre de=nuestra Diosa para=poder salvar Villgust.$~45~\       ~00~#156
 |1068
 @0002AD0D-0002B118-00
 ;0002AD0D{Remi: Actually, it was=Her voice that guided=me here. She must have=wanted me to meet you.$~45~^~00~}#103#094
@@ -1099,7 +1099,7 @@ Bostov: ¡Yo también=voy! ¡Ahora es una=cuestión de honor!$=Remi: Sí, seguro
 ;0002B09A{Murobo: At any rate,=we´re going back to=the village. Let´s go,=Bostov!$~45~^~00~}#084#075
 Murobo: En cualquier=caso, vamos a volver a=la aldea. ¡Vamos,=Bostov!$~45~^\ ~00~#075
 ;0002B0E5{Bostov: We can use the=shortcut behind me.=C´mon!$^~00~}#058#052
-Bostov: Podemos usar=el atajo de detrás=mío. ¡Ya!$^~00~#052
+Bostov: Podemos usar=este atajo de aquí.=¡Vamos!$^\~00~#052
 |1036
 @0002B119-0002B592-00
 ;0002B119{Ax, Servant of the=Evil God: O Evil God!=Grant me the power to=turn Pespa and its$^=people to stone!$~00~}#111#102
@@ -1119,17 +1119,17 @@ Murobo: ¿Dónde=estamos?$^¡Arriba todos!=¡Estamos varados en=una isla desiert
 ;0002B2FF{Murobo: This must be=the tower´s true=essence! Once we=defeat it, the tower$^=shall fall with it!$~45~~00~}#112#100
 Murobo: ¡Esta debe ser=la esencia verdadera=de la torre! ¡Cuando=la derrotemos la torre$^caerá!$~45~\ ~00~#100
 ;0002B363{Bostov: I hear you!$=Remi: Got it!$=Ryuquir: This big=lizard´s got nothing=on us, *hiss*!$~45~~00~}#107#092
-Bostov: ¡Te oigo!$=Remi: ¡Recibido!$=Ryuquir: ¡Este gran=lagarto no nos=vencerá, *fiuu*!$~45~\~00~#092
+Bostov: ¡Os oigo!$=Remi: ¡Recibido!$=Ryuquir: ¡Este gran=lagarto no nos=vencerá, *fiuu*!$~45~\~00~#092
 ;0002B3BF{Rita: Once we defeat=this monster, the Hero=will finally come to=save our world!$~45~~00~}#092#083
-Rita: Tras vencer a=este monstruo, ¡el=héroe podrá al venir a=salvar el mundo!$~45~\ ~00~#083
+Rita: Tras vencer a=este monstruo, ¡el=Héroe podrá venir a=salvar el mundo!$~45~\    ~00~#083
 ;0002B412{Murobo: To arms, my=friends!!$~00~}#037#031
-Murobo: ¡¡Armaros,=amigos!!$\ ~00~#031
+Murobo: ¡¡Armaos,=amigos!!$\  ~00~#031
 ;0002B431{Goddess: You have done=well to make it this=far, my chosen ones.$~45~~00~}#076#067
 Diosa: Lo hicisteis=bien para llegar tan=lejos, mis elegidos.$~45~\  ~00~#067
 ;0002B474{Murobo: Goddess, I=thought your powers=couldn´t pierce this=evil tower?$~45~~00~}#083#074
 Murobo: Diosa, pensaba=que tu poder no=atravesaba esta=malvada torre.$~45~\ ~00~#074
 ;0002B4BE{Goddess: That is true.=I am able to speak=only through the charm=I have given you.$~45~~00~}#094#085
-Diosa: Eso es cierto.=Solo puedo hablar a=través del amuleto que=te he dado.$~45~\     ~00~#085
+Diosa: Eso es cierto.=Solo puedo hablar a=través del amuleto que=os he dado.$~45~\     ~00~#085
 ;0002B513{Goddess: I will not be=able to lend you my=power in the battle to=come. However, I can$^=at the very least heal=your injuries.$~00~}#137#128
 Diosa: No podré=prestaros mi poder en=la batalla venidera.=Sin embargo, al menos$^puedo curar vuestras=heridas.$\              ~00~#128
 |1146

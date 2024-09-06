@@ -18,7 +18,7 @@
 ;000000AC{*=  SAKASA BAMBI= HAMAMURA HAMAO=~FF~}#037#034
 *=  SAKASA BAMBI= HAMAMURA HAMAO=~FF~#034
 ;000000CE{*^~52~ MUSIC==^~52~  GON=~FF~}#029#020
-*^~52~MUSICA==^~52~  GON=~FF~#020
+*^~52~SONIDO==^~52~  GON=~FF~#020
 ;000000E2{*^~52~SC.NARIO==^~52~dPROBIT=^~52~HATCHAN=~FF~}#046#034
 *^~52~.SC.NARI==^~52~dPROBIT=^~52~HATCHAN=~FF~#034
 ;00000104{* SP.CIAL THANKS==  ARTHUR KING=~FF~}#036#033
@@ -109,7 +109,7 @@ Hay un patio =ahí.  /~FF~#022
 ;00000527{A ^~54~/Takash~2D~= I discovered= something/ terrible!= I lockedel= diary ^m hid=elkey i-/Oh no! Elmost=important part=is torn!/~FF~}#180#123
 ^~54~  /Takash~2D~= ¡He descubierto= algo terrible!/
  Cerré el diario= y oculté la= llave- /
-¡Oh no! =¡Falta lo más  =importante!/~FF~#123
+¡Oh, no!=¡Falta lo más  =importante!/~FF~#123
 ;000005A2{Elfloores=sticky! Eww!/~FF~}#039#024
 ¡El suelo pega!=¡Eww! /~FF~#024
 ;000005BA{Whoa! /~FF~}#014#008
@@ -201,7 +201,8 @@ Escúchame¨/Debes darte=prisa¨=Halla camino¨/Al sótano¨ =Ugh¨/~FF~#062
 ;00000B6E{~F1~DpAre you okay?=Better keep=looking!  /~FF~}#056#041
 ~F1~Dp¿Estás bien?=¡Mejor seguir=buscando?/~FF~#041
 ;00000B97{You ^g/We have to find=them./~FF~}#045#030 TODO
-You ^g/Debemos=hallarles.   /~FF~#030
+¡Ya ^g/
+Debemos=hallarles.   /~FF~#030
 ;00000BB5{ ma~42~e~EE~H~9C~Turn back now!/~FF~}#039#024
 mazo.~EE~H~9C~¡Vete ahora!  /~FF~#024
 ;00000BCD{!/~FF~}#009#003
@@ -213,7 +214,8 @@ Llama azul¨  /~FF~#015
 ;00000BF0{~FF~}#004#001
 ~FF~#001
 ;00000BF1{~F8~!!=You ^g/~FF~}#027#012 TODO
-~F8~!!=You ^g/~FF~#012
+~F8~!!=
+¡Ya ^g/~FF~#012
 ;00000BFD{=Ií a}#008#005
 =Soy #005
 |3074
@@ -223,7 +225,7 @@ mecánico #009
 |9
 @00031D1D-00032728-FF
 ;00000000{=fromeltown./Iée been trapped=in this house=^w some time./Jus~EE~*~99~ Sheá making= life he~42~ ^w= me!=/~EE~~DE~~94~hin./Luckily I ^~64~=a~EE~~B7~~9C~-=N.W TRANSLATION=TH. SI.G. Q JMN=~FF~}#246#156
-en=la ciudad. /He estado=atrapado en esta=casa un tiempo./Cóm~EE~*~99~
+en=la ciudad. /He estado=atrapado en esta=casa un tiempo./Com~EE~*~99~
  ¡Me hace la= vida= insufrible!/
 ~EE~~DE~~94~=fino.   =Usaré mi ~EE~~B7~~9C~-=
 N.W TRANSLATION=TH. SI.G. Q JMN=~FF~#156
@@ -480,7 +482,7 @@ Cogieron a=~F7~!/~FF~#015
 8-2=Usa 4 objeto~EE~?~9F~
 Etsuko¨/~FF~#081
 ;0000030D{Takashi went on=his own¨/Stop him be^we=~EE~~DB~~B6~Yamamura¨ I=fa~58~ed¨/Amulet¨=Photo¨/Diary¨=Coffin¨=In that order¨/Pray¨=Your timinges=important¨/~FF~}#199#139
-Takashi fue=solo¨/¡Pararle antes=de que ~EE~~DB~~B6~
+Takashi fue=solo¨/¡Paradlo antes=de que ~EE~~DB~~B6~
 Yamamura¨  =Fallé¨/
 Amuleto¨=Foto¨/Diario¨=Ataúd¨=En ese orden¨/
 Reza¨=Es importante=el momento¨/~FF~#139
@@ -518,7 +520,8 @@ Bien hecho¨/
 Ahora id a su=sala por la=puerta abajo/derecha.=
 ¡Suerte!=¡Id ya!/~FF~#078
 ;000005DA{A cold air=awaits¨/Whoesthat up=ahead?/~FF~}#058#040
-Espera un viento=frío¨/¿Qué es eso?   /~FF~#040
+Espera,un viento=frío¨/
+¿Qué es eso?   /~FF~#040
 ;00000602{head?!/~FF~}#014#008 TODO
 ¿seso?/~FF~#008
 ;0000060A{We didnñ disturb=^Gmemorial!/Leave us be!/~FF~}#058#043
@@ -540,7 +543,7 @@ esto!/~FF~#007
 ;0000069F{Donñ worry!=I wi~42~ figure out=a way to get=past this./If I donñ come=back,remember=this¨/Elpower within=tú wi~42~l surely=stop her./So long¨/~FF~}#186#138
 ¡No os=preocupéis!/Averiguaré como =superar esto.   /
 Si no vuelvo,=recordad esto¨/
-El poder de=vuestro interior=le parará. /
+El poder de=vuestro interior=la parará. /
 Adiós¨       /~FF~#138
 ;00000729{long¨  /~FF~}#015#009
 Adiós¨ /~FF~#009
@@ -560,7 +563,7 @@ s tienen=tram~EE~~A2~~9F~
 ;000007B3{den./~FF~}#012#006
 .   /~FF~#006
 ;000007B9{Okay ^~66~=^C!=Be at peace!/~FF~}#047#026
-¡Vale ^~66~=^C!=¡Ve en paz!/~FF~#026
+¡Vale,^~66~=^C!=¡Ve en paz!/~FF~#026
 ;000007D3{f!/~FF~}#010#004 TODO
 f!/~FF~#004
 ;000007D7{GURRAAAAH!!!=    /~FF~}#028#019
@@ -584,7 +587,7 @@ Hice¨ lo que=pude¨/¡Date prisa!=Para la/maldición¨/~FF~#052
 ;00000953{*How sad,yet=noble¨~FF~}#029#020
 *Triste, y noble¨= ~FF~#020
 ;00000967{*Yes,Yamamura=was always=troubled ^m=felt responsible=^w h~EE~R~B6~*What!?=Doe~EE~~94~~9F~*Come!=Please h~EE~G~B1~A ^a¨ /But how to=preserve it?/~FF~}#194#125
-*Si, Yamamura se=preocupaba y se=sentía  =responsable    =~EE~R~B6~
+*Sí, Yamamura se=preocupaba y se=sentía  =responsable    =~EE~R~B6~
 *¿Qué? =Eso~EE~~94~~9F~
 *¡Vamos!=¡Rápid~EE~G~B1~
 Un ^a¨/¿Pero cómo=preservarlo?/~FF~#125
@@ -662,7 +665,7 @@ El memorial¨/\~A6~
 ;000002EB{---No more=suffering!/~FF~}#032#023
 ---¡No más sufrir!=  /~FF~#023
 ;00000302{-Elch~58~des=dead!/~FF~}#035#017
--¡El murió!    /~FF~#017
+-¡Ya murió!    /~FF~#017
 ;00000313{Rest in peace!/~FF~}#022#016
 ¡Descansa!    /~FF~#016
 ;00000323{-I wi~42~ make tú=suffer!/~FF~}#039#024
@@ -718,7 +721,7 @@ La ~41~Oro abre=cuat~EE~t~B6~ Takash~2D~=fuera¨ =Pulsa estatua¨/~FF~#053
 ;00000023{A ^~54~/Takash~2D~= If oneescau~59~~5A~= in battle,pray!/~FF~}#079#046
 ^~54~ /Takash~2D~= Si os cogen en= bata~42~a, ¡rezad!/~FF~#046
 ;00000051{Kenj~2D~/If túr friends=are about to fa~42~,/team w~4F~h them to=help them to get=bac~EE~p~98~---A ^~54~/Kenj~2D~=I found this=diary page:/Elch~58~d fe~42~=intoel=^~5E~ator./Insane,^~66~=^C didel=same to other=kids fromel=neighborhood./~FF~}#318#204
-Kenj~2D~/Si tus amigos =van a caer, /únete a ellos=para ayudarles a=levantarse.~EE~p~98~---^~54~/Kenj~2D~  =Encontré esta=página: /El niño cayó en=el ^~5E~ador./Que locura, ^~66~=^C le hizo=eso a otros=niños del=vecindario./~FF~#204
+Kenj~2D~/Si tus amigos =van a caer, /únete a ellos=para ayudarles a=levantarse.~EE~p~98~---^~54~/Kenj~2D~  =Encontré esta=página: /El niño cayó en=el ^~5E~ador./Qué locura, ^~66~=^C le hizo=eso a otros=niños del=vecindario./~FF~#204
 ;0000011D{Elcruelty¨/~FF~}#021#012
 Crueldad¨ /~FF~#012
 ;00000129{-A ch~58~dá ^Z¨/~FF~}#026#014
@@ -784,7 +787,7 @@ nomb.?~FF~#007
 ;0000005C{ it~FF~}#007#004
  it~FF~#004
 ;00000060{CA-!!~FF~}#009#006
-CA-!!~FF~#006
+voy! ~FF~#006
 ;00000066{ the ~FF~}#009#006
  el  ~FF~#006
 ;0000006C{can~FF~}#007#004
@@ -806,7 +809,7 @@ adie ~FF~#006
 ;00000095{for~FF~}#007#004
 por~FF~#004
 ;00000099{!! ~FF~}#007#004
-!! ~FF~#004
+¨  ~FF~#004
 ;0000009D{othing~FF~}#010#007
 ada   ~FF~#007
 ;000000A4{you ~FF~}#008#005
@@ -1177,7 +1180,7 @@ J#001
 |32
 @000306D1-00030B57-FF
 ;00000000{Are you ^g=/Come on,take my=hand!/~FF~}#053#035 TODO
-Tu eres ^g=/Vamos, ¡coge mi=mano!/~FF~#035
+¿Llamabas?=/Vamos, ¡coge mi=mano!/~FF~#035
 ;00000023{           /~FF~}#019#013
            /~FF~#013
 ;00000030{~F5~A~F7~~86~~D2~~85~~F9~GTeqvBe careful./~FF~}#049#025 TODO
@@ -1227,7 +1230,9 @@ Habla¨    /~FF~#012
 ;0000021B{*Weúe a~42~ set.=Getelcamera=prepared.~FF~}#054#036
 *Estamos listos.=Prepara la=cámara.~FF~#036
 ;0000023F{*Somewhere in=this mansion^U=^Glost=^aes,search¨//~EE~~5E~~AD~*Hey sexy,are ^,=okay?~FF~}#124#076
-*En esta mansión=están los=^as perdidos,=buscad¨//~EE~~5E~~AD~*Eh sexy, ¿estás=bien?~FF~#076
+*En esta mansión=están los=^as perdidos,=buscad¨//~EE~~5E~~AD~*
+Eh,sexy,=
+¿estás bien?~FF~#076
 ;0000028B{*^W~FF~}#013#004 TODO
 *^W~FF~#004
 ;0000028F{*Whatá come over=me?~FF~}#030#021
@@ -1235,7 +1240,7 @@ Habla¨    /~FF~#012
 ;000002A4{*How dare tú=trepass?=This wi~42~ be túr=tomb!~FF~}#068#044
 *¿Cómo osáis=entrar?=¡Será vuestra  =tumba!~FF~#044
 ;000002D0{------------*Daddy,Ií scared!~FF~}#036#030
-------------*¡Papi que miedo!~FF~#030
+------------*¡Papi,qué miedo!~FF~#030
 ;000002EE{roughel=wa~42~¨/~FF~}#029#014
 por el=muro¨/~FF~#014
 ;000002FC{-*Elsurvivor =erected a=memorial¨~FF~}#049#034
@@ -1287,13 +1292,14 @@ por el=muro¨/~FF~#014
 ;000000AE{~F5~AG~8C~k~8C~Okay.   /~FF~}#031#016
 ~F5~AG~8C~k~8C~Vale.   /~FF~#016
 ;000000BE{~F1~DLYou ^g/~FF~}#023#011 TODO
-~F1~DLYou ^g/~FF~#011
+~F1~DL
+¡Ya ^g/~FF~#011
 ;000000C9{You ^g /~FF~}#018#009
-Tu ^g  /~FF~#009
+¡Ya ^g /~FF~#009
 ;000000D2{~EC~DS~F7~=Help quick!/~FF~}#033#018
-~EC~DS~F7~=¡Ayudadme! /~FF~#018
+~EC~DS~F7~=¡Ayúdame!  /~FF~#018
 ;000000E4{~F7~=Help quick!/~FF~}#027#015
-~F7~=¡Ayudadme! /~FF~#015
+~F7~=¡Ayúdame!  /~FF~#015
 ;000000F3{A do~42~!/~FF~}#017#008
 Muñeca/~FF~#008
 ;000000FB{Welcome¨/~FF~}#016#010

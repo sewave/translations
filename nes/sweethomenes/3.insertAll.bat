@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Sweet Home (J) [T+Eng_Siege].nes"
-set S_FILENAME="Sweet Home (J) [T+Eng_Siege].nes"
+set T_FILENAME="TR_Sweet Home (Japan) [T+ENG].nes"
+set S_FILENAME="Sweet Home (Japan) [T+ENG].nes"
 set SCRIPTNAME="sweethomenes"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

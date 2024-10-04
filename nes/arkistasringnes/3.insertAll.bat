@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Arkista's Ring (U) [!].nes"
-set S_FILENAME="Arkista's Ring (U) [!].nes"
+set T_FILENAME="TR_Arkista's Ring (USA).nes"
+set S_FILENAME="Arkista's Ring (USA).nes"
 set SCRIPTNAME="arkistasringnes"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

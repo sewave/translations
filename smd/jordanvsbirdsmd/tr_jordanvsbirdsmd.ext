@@ -1,0 +1,911 @@
+@00000962-00000965-FF
+;00000962{~00~~00~~AE~~16~}#016#004
+~00~~07~~B9~~40~#004
+|4
+@0000ACFC-0000ACFF-FF
+;0000ACFC{~00~~00~~AE~~28~}#016#004
+~00~~07~~B9~~30~#004
+|4
+@0000AD44-0000AD47-FF
+;0000AD44{~00~~00~~AE~~74~}#016#004
+~00~~07~~B9~~50~#004
+|4
+@0000ADA6-0000ADA9-FF
+;0000ADA6{~00~~00~~AE~~74~}#016#004
+~00~~07~~B9~~50~#004
+|4
+@0000ADCC-0000ADCF-FF
+;0000ADCC{~00~~00~~AE~~74~}#016#004
+~00~~07~~B9~~50~#004
+|4
+@0000ADF2-0000ADF5-FF
+;0000ADF2{~00~~00~~AE~~74~}#016#004
+~00~~07~~B9~~50~#004
+|4
+@0000AD5E-0000AD61-FF
+;0000AD5E{~00~~00~~AE~~28~}#016#004
+~00~~07~~B9~~30~#004
+|4
+@0000ADC0-0000ADC3-FF
+;0000ADC0{~00~~00~~AE~~28~}#016#004
+~00~~07~~B9~~30~#004
+|4
+@0000ADE6-0000ADE9-FF
+;0000ADE6{~00~~00~~AE~~28~}#016#004
+~00~~07~~B9~~30~#004
+|4
+@000062E4-00006306-00
+;000062E4{STATISTICS          JORDAN    BIRD~00~}#038#035
+ESTADÍSTICAS        JORDAN    BIRD~00~#035
+|35
+@0000632A-00006385-00
+;0000632A{SCORE=FOULS=BLOCKS=STEALS=REBOUNDS=1 POINTERS=2 POINTERS=SHOT ACCURACY           <        <~00~}#095#092
+MARCA=
+FALTAS=
+BLOQUEOS=
+ROBOS=
+REBOTES=
+1 PUNTO    =
+2 PUNTOS=
+PRECISIÓN DE TIROS      <        <~00~#092
+|92
+@0000ADFE-0000AE83-00
+;0000ADFE{PRESS START TO CONTINUE~00~}#027#024
+PULSA START PARA SEGUIR~00~#024
+;0000AE16{OPTIONS~00~}#011#008
+OPTIONS~00~#008
+;0000AE1E{GAME TYPE~00~}#013#010
+TIPO\    ~00~#010
+;0000AE28{PLAYERS~00~}#011#008
+PLAYERS~00~#008
+;0000AE30{PLAY LEVEL~00~}#014#011
+DIFICULTAD~00~#011
+;0000AE3B{NPOSSESSION~00~}#015#012
+N
+POSESIÓN\ ~00~#012
+;0000AE47{NPERIOD LENGTH~00~}#018#015
+N
+TIEMPO PARTE\~00~#015
+;0000AE56{PLAY TO      ~00~}#017#014
+JUGAR HASTA  ~00~#014
+;0000AE64{INSTANT REPLAY~00~}#018#015
+REPETICIÓN\   ~00~#015
+;0000AE73{NMUSIC~00~}#010#007
+N
+MUSIC~00~#007
+;0000AE7A{PLAY MODE~00~}#013#010
+MODALIDAD~00~#010
+|134
+@0000AE9A-0000AEFD-00
+;0000AE9A{ONE ON ONE ~3D~TIMED  ~00~}#026#020
+MANO A MANO ~3D~TIEMPO~00~#020
+;0000AEAE{ONE ON ONE ~3D~SCORED ~00~}#026#020
+MANO A MANO ~3D~PUNTOS~00~#020
+;0000AEC2{THREE POINT CONTEST~00~}#023#020
+CONCURSO 3 PUNTOS  ~00~#020
+;0000AED6{SLAM DUNK CONTEST  ~00~}#023#020
+CONCURSO DE MATES  ~00~#020
+;0000AEEA{DEMO               ~00~}#023#020
+DEMO               ~00~#020
+|100
+@0000AF0B-0000AF41-00
+;0000AF0B{01 PLAYER  ~3D~JORDAN~00~}#025#019
+01 JUGADOR ~3D~JORDAN~00~#019
+;0000AF1E{1 PLAYER  ~3D~BIRD  ~00~}#024#018
+1 JUGADOR ~3D~BIRD  ~00~#018
+;0000AF30{2 PLAYERS        ~00~}#021#018
+2 JUGADORES      ~00~#018
+|55
+@0000AF54-0000AF8A-00
+;0000AF54{RECREATIONAL~00~}#016#013
+RECREATIVO  ~00~#013
+;0000AF61{NVARSITY     ~00~}#017#014
+N
+ESCUELA     ~00~#014
+;0000AF6F{NCOLLEGE     ~00~}#017#014
+N
+UNIVERSIDAD ~00~#014
+;0000AF7D{NPROFESSIONAL~00~}#017#014
+N
+PROFESIONAL ~00~#014
+|55
+@0000AF8E-0000AF95-FF
+;0000AF8E{~00~~00~~AF~~96~~00~~00~~AF~~A4~}#032#008
+
+~00~~07~~B9~~60~
+~00~~07~~B9~~80~#008
+|8
+@0000AF96-0000AFB1-00
+;0000AF96{LOSER~3B~S OUTS ~00~}#020#014
+LOSER~3B~S OUTS ~00~#014
+;0000AFA4{WINNER~3B~S OUTS~00~}#020#014
+WINNER~3B~S OUTS~00~#014
+|28
+@0000AFC4-0000AFF2-00
+;0000AFC4{2 MINUTES ~00~}#014#011
+2 MINUTOS ~00~#011
+;0000AFCF{N5 MINUTES ~00~}#015#012
+N5 MINUTOS ~00~#012
+;0000AFDB{N8 MINUTES ~00~}#015#012
+N8 MINUTOS ~00~#012
+;0000AFE7{N12 MINUTES~00~}#015#012
+N12 MINUTOS~00~#012
+|47
+@0000B002-0000B024-00
+;0000B002{11 POINTS ~00~}#014#011
+11 PUNTOS ~00~#011
+;0000B00D{N15 POINTS ~00~}#015#012
+N15 PUNTOS ~00~#012
+;0000B019{N21 POINTS ~00~}#015#012
+N21 PUNTOS ~00~#012
+|35
+@0000B030-0000B03E-00
+;0000B030{MANUAL~00~}#010#007
+MANUAL~00~#007
+;0000B037{NAUTO  ~00~}#011#008
+NAUTO  ~00~#008
+|15
+@0000B04A-0000B051-00
+;0000B04A{OFF~00~}#007#004
+NO ~00~#004
+;0000B04E{ON ~00~}#007#004
+SÍ ~00~#004
+|8
+@0000B05C-0000B072-00
+;0000B05C{ARCADE    ~00~}#014#011
+ARCADE    ~00~#011
+;0000B067{NSIMULATION~00~}#015#012
+N
+SIMULACIÓN~00~#012
+|23
+@0000B076-0000B085-FF
+;0000B076{~00~~00~~B0~~86~~00~~00~~B0~~90~~00~~00~~B0~~9A~~00~~00~~B0~~A4~}#064#016
+~00~~07~~B9~~A0~
+~00~~07~~B9~~B0~
+~00~~07~~B9~~C0~
+~00~~07~~B9~~D0~#016
+|16
+@0000B086-0000B0AD-00
+;0000B086{1 PLAYER ~00~}#013#010
+1 PLAYER ~00~#010
+;0000B090{2 PLAYERS~00~}#013#010
+2 PLAYERS~00~#010
+;0000B09A{3 PLAYERS~00~}#013#010
+3 PLAYERS~00~#010
+;0000B0A4{4 PLAYERS~00~}#013#010
+4 PLAYERS~00~#010
+|40
+@0000B0C2-0000B203-00
+;0000B0C2{ =     Copyright 1992  Michael Abbot~00~}#040#037
+ =     Copyright 1992  Michael Abbot~00~#037
+;0000B0E7{N =          PRESS START TO BEGIN~00~}#037#034
+N =          START PARA COMENZAR ~00~#034
+;0000B109{N       Game Design and Programming=                   by=              Michael Abbot~00~}#089#086
+N
+      Diseño Juego y Programación =
+                  por=
+              Michael Abbot~00~#086
+;0000B15F{N        Game Design and Graphics=                   by=             Jay Zimmermann~00~}#087#084
+N
+        Diseño Juego y Gráficos =
+                  por=             Jay Zimmermann~00~#084
+;0000B1B3{N             Music and Sound=                   by=             Michael Bartlow~00~}#084#081
+N
+             Música y Sonido=
+                  por=             Michael Bartlow~00~#081
+|322
+@00010374-0001048D-00
+;00010374{~04~zOFFENSIVE=__FOUL___~00~}#028#022
+~04~z
+__FALTA__=
+OFENSIVA_~00~#022
+;0001038A{B~3D~_PLAY__=C~3D~_REPLAY~00~}#029#020
+B~3D~
+MOSTRAR=C~3D~
+_REPE__~00~#020
+;0001039E{_TIMEOUT_=_JORDAN__~00~}#023#020
+TIEMPO_M_=
+_JORDAN__~00~#020
+;000103B2{_TIMEOUT_=__BIRD___~00~}#023#020
+TIEMPO_M_=
+__BIRD___~00~#020
+;000103C6{_OUT_OF__=_BOUNDS__~00~}#023#020
+FUERA_DE_=
+__BANDA__~00~#020
+;000103DA{_REACHING=___IN____~00~}#023#020
+__ALCAN__=
+__ZANDO__~00~#020
+;000103EE{_________=TRAVELING~00~}#023#020
+_________=
+__PASOS__~00~#020
+;00010402{_BALL_NOT=_CLEARED_~00~}#023#020
+_BOLA_NO_=
+LIBERADA_~00~#020
+;00010416{_INSTANT_=_REPLAY__~00~}#023#020
+_REPETI__=
+__CIÓN___~00~#020
+;0001042A{24_SECOND=__CLOCK__~00~}#023#020
+___24____=
+SEGUNDOS_~00~#020
+;0001043E{__END_OF_=__PERIOD_~00~}#023#020
+__FIN_DE_=
+_PERIODO_~00~#020
+;00010452{__END_OF_=___GAME__~00~}#023#020
+__FIN_DE_=
+_PARTIDO_~00~#020
+;00010466{_DELAY_OF=___GAME__~00~}#023#020
+_RETRASO_=
+DE_JUEGO_~00~#020
+;0001047A{__LET~3B~S__=PLAY_BALL~00~}#026#020
+JUGUEMOS_=
+_LA_BOLA_~00~#020
+|282
+@000104FC-0001090E-00
+;000104FC{Welcome to EASN's coverage of the=classic battle of pro basketball's=finest talent.  I'm your host,=Bing Gordon, and with me courtside=is EASN's resident roundball pro,=K.C. Darty...~00~}#186#183
+Bienvenidos a la cobertura de la=
+EASN de la clásica batalla del=
+mejor talento. Soy el presentador=
+Bing Gordon y en el campo está el=
+profesional de roundball de la=
+EASN, K.C. Darty...~00~#183
+;000105B3{NAnd what a matchup it is, Bing.=Two extremely talented players=with two very different styles of=play.  It'll be Larry Bird's=awesome outside shooting versus=the tremendous inside game of =Michael Jordan...~00~}#211#208
+N
+Y menudo encuentro es, Bing.=
+Dos jugadores extremadamente=
+talentosos con dos estilos de=
+juego muy diferentes. El increíble=
+tiro exterior de Larry Bird contra=
+el tremendo juego interior de=
+Michael Jordan...\~00~#208
+;00010683{NLet's not waste a minute, K.C..=It's showtime!~00~}#051#048
+N
+No perdamos un minuto, K.C..=
+Hora del show!\  ~00~#048
+;000106B3{NA great performance=by Larry Bird nets him=a win, K.C.!~00~}#060#057
+N
+Una gran exhibición de=
+Larry Bird le hace=
+ganar, K.C.!\~00~#057
+;000106EC{That's right, Bing.=Larry's $N~00~}#034#031
+Correcto, Bing.  =
+Larry con $N~00~#031
+;0001070B{~FF~Wz point(s),=with $N~00~}#028#022
+~FF~Wz punto(s), =con $N~00~#022
+;00010721{~FF~W~C2~ two-pointer(s)=puts him over the top.~00~}#051#042
+~FF~W~C2~ dos-puntos(s)=
+le pone por encima.\   ~00~#042
+;0001074B{NBingo, K.C.!  I'm sure=Michael Jordan is=fired up to continue=this contest...~00~}#082#079
+N
+Bingo, K.C.! Seguro=
+que Michael Jordan=
+arde por continuar=
+este concurso...\  ~00~#079
+;0001079A{Larry Bird wins big=this time, K.C.!~00~}#040#037
+Larry Bird gana bien=
+esta vez, K.C.!~00~#037
+;000107BF{NQuite a show, Bing.=It's Bird with $~00~}#041#038
+N
+Menudo show, Bing.=
+Es Bird con $\   ~00~#038
+;000107E5{~FF~W~BE~=rebound(s) and $N~00~}#031#022
+~FF~W~BE~  =rebotes(s) y $N~00~#022
+;000107FB{~FF~W~C2~=two-pointer(s) for a=total of $~00~}#045#036
+~FF~W~C2~=dos-punto(s) por un =total de $~00~#036
+;0001081F{~FF~Wz, to=Jordan's $N~00~}#026#020
+~FF~Wz, a   =Jordan $N~00~#020
+;00010833{~FF~V~DA~ point(s).~00~}#023#014
+~FF~V~DA~ punto(s).~00~#014
+;00010841{NBingo, K.C.!  I'm sure=Michael Jordan is=fired up to continue=this contest...~00~}#082#079
+N
+Bingo, K.C.! Seguro=
+que Michael Jordan=
+arde por continuar=
+este concurso...\  ~00~#079
+;00010890{What a game!  Jordan=wins with another=stellar performance.~00~}#063#060
+Qué partido! Jordan=
+gana con otra=
+actuación estelar.\      ~00~#060
+;000108CC{Michael nabbed $~00~}#020#017
+Michael atrapó $~00~#017
+;000108DD{~FF~W~1E~=rebound(s), had $~00~}#031#022
+~FF~W~1E~=rebote(s), hizo $~00~#022
+;000108F3{~FF~W~1C~=steal(s) and blocked $N~00~}#037#028
+~FF~W~1C~   =robo(s) y bloqueó $N~00~#028
+|1043
+@0001090F-00010C58-00
+;0001090F{~FF~W~1A~=of Larry's shots on=the road to victory!=Great game, Bing.~00~}#072#063
+~FF~W~1A~=
+tiros de Larry hacia=
+la victoria!=
+Gran partido, Bing.\    ~00~#063
+;0001094E{Over time, the rivalry=has grown as much as=respect for each other.=Larry looks eager for=another shot at=Michael.~00~}#118#115
+Con el tiempo, su=
+rivalidad ha crecido=
+tanto como su respeto.=
+Larry parece ansioso=
+de otro tiro con=
+Michael.\     ~00~#115
+;000109C1{NIt's Michael Jordan=for the win! How do=his stats look, K.C.?~00~}#066#063
+N
+Michael Jordan gana!=
+Qué tal están las=
+estadísticas, K.C.?\  ~00~#063
+;00010A00{Michael had $N~00~}#018#015
+Michael con $N~00~#015
+;00010A0F{~FF~W~1C~ steal(s),=$~00~}#025#016
+~FF~W~1C~ robo(s), =$~00~#016
+;00010A1F{~FF~W~1E~ rebound(s), and=blocked $~00~}#039#030
+~FF~W~1E~ rebote(s), y   =bloqueó $~00~#030
+;00010A3D{~FF~W~1A~ shot(s) to=help him top Larry=this time.  Amazing!~00~}#064#055
+~FF~W~1A~ tiro(s)=
+para ayudarle a=
+ganar a Larry.=
+Increíble!\~00~#055
+;00010A74{Another out-of-this-=world Jordan showpiece.=Time for more action!~00~}#070#067
+Otro espectáculo de=
+Jordan de otro mundo.=
+Hora de más acción!\    ~00~#067
+;00010AB7{NUnbelievable! Jordan=and Bird come up with=a tied game. K.C....~00~}#068#065
+N
+Increíble! Jordan y=
+Bird acaban con un=
+empate. K.C....\        ~00~#065
+;00010AF8{Competition level is=high as we move into=half time. Jordan with=$~00~}#070#067
+Con un gran nivel=
+competitivo llegamos=
+al descanso.  =
+Jordan con $~00~#067
+;00010B3B{~FF~V~DA~ points and Bird=scoring $~00~}#039#030
+~FF~V~DA~ puntos=
+y Bird puntuando $~00~#030
+;00010B59{~FF~Wz up to now,=but it's not over.~00~}#040#034
+~FF~Wz,=
+pero no ha acabado.\        ~00~#034
+;00010B7B{NThat's right, Bing.=There's still a good=chance for either of=them to make a push=and dominate the rest=of the game.~00~}#121#118
+N
+Eso es cierto, Bing.=
+Aún hay muchas=
+probabilidades para=
+que ambos presionen y=
+dominen el resto del=
+partido.\        ~00~#118
+;00010BF1{NWell, it's back to=courtside action as=we head into the next=half of this exciting=one on one contest.~00~}#107#104
+N
+Bueno, la acción=
+vuelve al campo=
+mientras vamos a la=
+siguiente mitad de=
+este excitante uno=
+contra uno.~00~#104
+|842
+@00011258-00011297-00
+;00011258{  YOU MADE=   OUT OF 30=  POINTS~00~}#036#033
+  LOGRASTE=
+     DE   30=
+  PUNTOS~00~#033
+;00011279{   PLAY AGAIN?=A ~3D~ YES  B ~3D~ NO~00~}#040#031
+    OTRA VEZ?=
+A ~3D~ SÍ  B ~3D~ NO\ ~00~#031
+|64
+@000112B8-00011381-00
+;000112B8{YOU SUCK~00~}#012#009
+APESTAS\~00~#009
+;000112C1{NHEY GRANNY~00~}#015#012
+N
+EH ABUELA\~00~#012
+;000112CD{NPOTENTIAL~00~}#014#011
+N
+POTENCIAL~00~#011
+;000112D8{BETTER~00~}#010#007
+MEJOR\~00~#007
+;000112DF{NNICE JOB~00~}#013#010
+N
+MUY BIEN~00~#010
+;000112E9{NALL MOST THERE~00~}#019#016
+N
+CASI LO TIENES~00~#016
+;000112F9{NPERFECT~00~}#012#009
+N
+GENIAL\~00~#009
+;00011302{RAN OUT OF TIME~00~}#019#016
+TIEMPO ACABADO\~00~#016
+;00011312{THREE POINT RESULTS~00~}#023#020
+RESULTADOS 3 PUNTOS~00~#020
+;00011326{BIRD~00~}#008#005
+BIRD~00~#005
+;0001132B{NBIN 1=BIN 2=BIN 3=BIN 4=BIN 5~00~}#034#031
+NBIN 1=BIN 2=BIN 3=BIN 4=BIN 5~00~#031
+;0001134A{POINTS=POINTS=POINTS=POINTS=POINTS= =POINTS~00~}#047#044
+PUNTOS=PUNTOS=PUNTOS=PUNTOS=PUNTOS= =PUNTOS~00~#044
+;00011376{GRAND TOTAL~00~}#015#012
+GRAN TOTAL\~00~#012
+|202
+@00011402-0001182D-00
+;00011402{The three-point shoot-out demands=speed, accuracy, and finesse,=K.C....~00~}#075#072
+El concurso de triples requiere=
+velocidad, precisión y finura,=
+K.C....\~00~#072
+;0001144A{That's right, Bing.  You've got 60=seconds to pop as many as you can,=but don't forget the last ball on=each rack is the "money" ball.=It counts double.~00~}#156#153
+Eso es verdad, Bing. Tienes 60=
+segundos para meter tantos como=
+puedas, pero no olvides la última=
+bola de cada estante es la bola=
+"dinero".=
+Cuenta doble.~00~#153
+;000114E3{NRight, K.C.  A lot of contests=have been won or lost on that=account.  Let's get to it!~00~}#092#089
+N
+Bien, K.C. Muchos concursos se han=
+ganado o perdido por eso.=
+Vamos a ello!\            ~00~#089
+;0001153C{Bird gathered up $~00~}#022#019
+Bird ha reunido  $~00~#019
+;0001154F{~FF~M~B2~=points, getting $~00~}#031#022
+~FF~M~B2~ =puntos, recibe $~00~#022
+;00011565{~FF~M~B4~=money balls along the=way. He owns the=jumpshot, K.C....~00~}#070#061
+~FF~M~B4~=
+bolas dinero de paso.=
+Domina el tiro con=
+salto, K.C....\~00~#061
+;000115A2{Nobody does it better,=Bing. The man is a=sharp shooter.~00~}#060#057
+Nadie lo hace mejor,=
+Bing. El tipo es un=
+francotirador.\~00~#057
+;000115DB{NYou can say that=again. Let's get back=to the action.~00~}#058#055
+N
+Y que lo digas.=
+Volvamos a la acción.\               ~00~#055
+;00011612{Another display of=precision and power,=K.C.. $N~00~}#052#049
+Otra muestra de    =
+precisión y fuerza,=
+K.C.. $N~00~#049
+;00011643{~FF~M~B2~ points and=Bird isn't even=sweating. Awesome!~00~}#059#050
+~FF~M~B2~ puntos y=
+Bird no está ni=
+sudando. Increíble!\~00~#050
+;00011675{NWhen he's hot, nobody=can touch him. He=nearly ripped out the=net with some of those=long bombs.~00~}#101#098
+N
+Cuando está caliente,=
+nadie puede tocarle.=
+Casi arrancó la red=
+con alguna de esas=
+bombas largas.~00~#098
+;000116D7{NBird is the ultimate=three pointer shooter.=Unbelievable!~00~}#062#059
+N
+Bird es el tirador de=
+triples definitivo.=
+Extraordinario!~00~#059
+;00011712{5 bins, $N~00~}#014#011
+5 tiros,$N~00~#011
+;0001171D{~FF~M~B2~ points.=Bird didn't waste any=time. Once he gets=rolling, nothing=stands in his way.~00~}#098#089
+~FF~M~B2~ puntos.=
+Bird no perdió el=
+tiempo. Cuando se=
+pone, nada se=
+interpone en su=
+camino.\  ~00~#089
+;00011776{Right you are, Bing.=Larry is the ace of=3-point arc.~00~}#057#054
+Razón tienes, Bing.=
+Larry es el as de los=
+3 puntos.\ ~00~#054
+;000117AC{Incredible! I can't=wait to see him in=action again.~00~}#056#053
+Increíble! Estoy=
+impaciente por verle=
+en acción.\   ~00~#053
+;000117E1{NLarry seems to be=having some difficulty=hitting the buckets=today, K.C....~00~}#080#077
+N
+Larry parece estar=
+teniendo dificultades=
+para encestar hoy,=
+K.C....\       ~00~#077
+|1068
+@0001182E-00011C71-00
+;0001182E{His timing is suffer-=ing and it's breaking=the flow of his shots.=It's very unusual for=Bird.~00~}#098#095
+Su ritmo sufre y está=
+rompiendo el fluir de=
+sus lanzamientos.=
+Es muy inusual para=
+Bird.\      ~00~#095
+;0001188D{NHe scored a disap-=pointing $N~00~}#035#032
+N
+Puntuó unos =
+decepcionantes $N~00~#032
+;000118AD{~FF~M~B2~ points this=round. Hope to see=him back up to speed=soon.~00~}#071#062
+~FF~M~B2~=
+puntos esta ronda.=
+Esperamos que vuelva a=
+su velocidad.\ ~00~#062
+;000118EB{NHe's right on the=money all the way=through! Bird hit the=bullseye on every=shot!~00~}#086#083
+N
+Acierta la bola del=
+dinero todas las=
+veces! Bird golpea el=
+blanco en cada tiro!\ ~00~#083
+;0001193E{He sure did, Bing. And=it's a perfect 30 pts.=for Larry Bird, the=3-pointer legend.~00~}#087#084
+Y tanto, Bing. Unos=
+perfectos 30 pts. para=
+Larry Bird, la leyenda=
+de los triples.\ ~00~#084
+;00011992{5 bins, 25 buckets,=and all 5 money balls.=Now that's the way the=game is played, K.C..~00~}#091#088
+5 cestas, 25 cubos, y=
+las 5 bolas dinero.=
+Así es como se juega a=
+este juego, K.C..\    ~00~#088
+;000119EA{Competitive one-upman-=ship seems to be the=catch-phrase for to-=day's three point=contest, K.C....~00~}#103#100
+La competitividad=
+parece ser el lema del=
+concurso de triples de=
+hoy, K.C....\                      ~00~#100
+;00011A4E{True, Bing... extra-=ordinary skill and=finesse have been=demonstrated by all=competitors.~00~}#094#091
+Cierto, Bing... todos=
+los competidores han=
+demostrado una gran=
+habilidad y finura.\       ~00~#091
+;00011AA9{NIt's unfortunate, but=player $~00~}#035#032
+N
+Es una pena, pero el=
+jugador $~00~#032
+;00011AC9{~FF~Sf has been=eliminated with a=score of $~00~}#048#042
+~FF~Sf ha sido=
+eliminado con una =
+marca de $~00~#042
+;00011AF3{~FF~Sh. More=long-throw action=coming up next!~00~}#050#044
+~FF~Sh. Más=
+tiros largos a=
+continuación!\     ~00~#044
+;00011B1F{NA blue-ribbon finish=to an exciting three=point competition,=with player $~00~}#079#076
+N
+Un acabado excepcional=
+para la competición de=
+triples, con el   =
+jugador $~00~#076
+;00011B6B{~FF~Sj taking=top honors.~00~}#029#023
+~FF~Sj siendo=
+vencedor.\ ~00~#023
+;00011B82{That's right, what a=stunner! A disappoint-=ing upset for player $~00~}#070#067
+Es verdad, menuda=
+maravilla! Una gran=
+decepción para el =
+jugador $~00~#067
+;00011BC5{~FF~Sf =who just didn't have=the edge today, Bing.~00~}#054#048
+~FF~Sf quién hoy no=
+tuvo el día, Bing.\           ~00~#048
+;00011BF5{NSo there you have it.=player $~00~}#035#032
+N
+Y aquí lo tienes. El=
+jugador $~00~#032
+;00011C15{~FF~Sj, taking it=all the way with his=pin-point shot accu-=racy for a well de-=served victory.~00~}#099#093
+~FF~Sj, llevándolo=
+hasta el final con=
+precisión absoluta se=
+lleva una victoria=
+bien merecida.\ ~00~#093
+|1092
+@00011C72-00011DC6-00
+;00011C72{It's a three point=contest full of sur-=prises, K.C.!  We've=got a tied score on=our hands.~00~}#095#092
+Es un concurso de tres=
+puntos lleno de=
+sorpresas, K.C.!=
+Tenemos un empate en=
+las manos.\   ~00~#092
+;00011CCE{Bing... This contest=won't be determined=until we eliminate a=player, and that is=going to be tough=with this close play.~00~}#125#122
+Bing... Este concurso=
+no se decidirá hasta=
+que eliminemos a=
+jugador, y eso va a=
+ser duro con este=
+juego cercano.\        ~00~#122
+;00011D48{We'll go to a rematch,=for this round. Once=again it's anybody's=game. Let's see who=pushes the limits and=becomes the winner.~00~}#130#127
+Haremos una revancha,=
+por esta ronda. De=
+nuevo no ha ganado=
+nadie. Veamos quien=
+superas lo límites y=
+se vuelve el ganador.\   ~00~#127
+|341
+@0001211A-0001218A-00
+;0001211A{STRETCH AIR~00~}#015#012
+ESTIRA AIRE~00~#012
+;00012126{HELICOPTER~00~}#014#011
+AERONAVE  ~00~#011
+;00012131{NLEAPFROG~00~}#013#010
+N
+RANABOTE~00~#010
+;0001213B{NHOLE IN ONE~00~}#016#013
+N
+HOYO EN UNO~00~#013
+;00012148{REVERSE JAM~00~}#015#012
+INVERTIDO  ~00~#012
+;00012154{SWITCH~3D~A~3D~ROO~00~}#022#013
+CAMBIADOR   ~00~#013
+;00012161{NALLSTAR SLAM~00~}#017#014
+N
+MATE MAESTRO~00~#014
+;0001216F{NHULA LOOP~00~}#014#011
+N
+HULA LAZO~00~#011
+;0001217A{PUMPER~00~}#010#007
+BOMBEA~00~#007
+;00012181{NFLY SWAT~00~}#013#010
+N
+MATAMOSC~00~#010
+|113
+@000121B3-000122CE-00
+;000121B3{(?STRETCH?AIR~00~}#017#014
+(
+?ESTIRA?AIRE~00~#014
+;000121C1{N?HELICOPTER~00~}#016#013
+N
+??AERONAVE?~00~#013
+;000121CE{??LEAPFROG~00~}#014#011
+??RANABOTE~00~#011
+;000121D9{N?HOLE?IN?ONE~00~}#017#014
+N
+?HOYO?EN?UNO~00~#014
+;000121E7{N?REVERSE?JAM~00~}#017#014
+N
+??INVERTIDO?~00~#014
+;000121F5{NSWITCH~3D~A~3D~ROO~00~}#023#014
+N
+??CAMBIADOR?~00~#014
+;00012203{NALLSTAR?SLAM~00~}#017#014
+N
+MATE?MAESTRO~00~#014
+;00012211{N??HULA?LOOP~00~}#016#013
+N
+??HULA?LAZO~00~#013
+;0001221E{???PUMPER~00~}#013#010
+???BOMBEA~00~#010
+;00012228{??FLY?SWAT~00~}#014#011
+?MATAMOSCA~00~#011
+;00012233{NPTS~00~}#008#005
+NPTS~00~#005
+;00012238{CHAMPION~00~}#012#009
+CAMPEÓN\~00~#009
+;00012241{NJORDAN~00~}#011#008
+NJORDAN~00~#008
+;00012249{NSLAM DUNK RESULTS~00~}#022#019
+N
+RESULTADO MATES\ ~00~#019
+;0001225C{POINTS= =POINTS= =POINTS= = =POINTS~00~}#039#036
+PUNTOS= =PUNTOS= =PUNTOS= = =PUNTOS~00~#036
+;00012280{GRAND TOTAL~00~}#015#012
+GRAN TOTAL\~00~#012
+;0001228C{~00~}#004#001
+~00~#001
+;0001228D{="~9C~~00~}#010#004
+="~9C~~00~#004
+;00012291{="~A6~~00~}#010#004
+="~A6~~00~#004
+;00012295{="~B0~~00~}#010#004
+="~B0~~00~#004
+;00012299{="~BA~PLAYER 1~00~}#018#012
+="~BA~
+JUGADOR1~00~#012
+;000122A5{NPLAYER 2~00~}#013#010
+N
+JUGADOR2~00~#010
+;000122AF{NPLAYER 3~00~}#013#010
+N
+JUGADOR3~00~#010
+;000122B9{NPLAYER 4~00~}#013#010
+N
+JUGADOR4~00~#010
+;000122C3{NELIMINATED~00~}#015#012
+N
+ELIMINADO\~00~#012
+|284
+@000123CC-000127F3-00
+;000123CC{Michael Jordan is world famous=for the variety of slams he=performs, K.C....~00~}#080#077
+Michael Jordan es famoso=
+mundialmente por la variedad de=
+sus mates, K.C....\~00~#077
+;00012419{NNot just quantity, but quality=slams, Bing.  This should be=really exciting to watch.~00~}#090#087
+N
+No solo la cantidad, si no la=
+calidad, Bing. Este debería ser un=
+encuentro excitante.~00~#087
+;00012470{Let's get to it, K.C.  It's=high-flying, slammin', jammin'=time!~00~}#068#065
+Vamos a ello, K.C. Es=
+hora de altos vuelos,=
+mates, improvisar!\ ~00~#065
+;000124B1{NHe's untouchable!  I=think one of those=scraped the roof, K.C.=Jordan continues to=amaze me.~00~}#097#094
+N
+Es intocable! Creo que=
+uno de esos rascó el=
+techo, K.C.=
+Jordan no deja de=
+sorprenderme.\    ~00~#094
+;0001250F{NThose three dunks are=worth $N~00~}#035#032
+N
+Esos tres mates      =
+valen $N~00~#032
+;0001252F{~FF~S~1E~ points and=a round of applause.=Bing.....~00~}#055#046
+~FF~S~1E~ puntos y=
+unos aplausos.=
+Bing...\         ~00~#046
+;0001255D{NAnother dazzling per-=formance from one of=the brightest stars=in the league.~00~}#082#079
+N
+Otra actuación=
+deslumbrante de una de=
+las estrellas más=
+brillantes.\         ~00~#079
+;000125AC{If he wanted, Jordan=could dunk the moon.~00~}#045#042
+Si quisiera, Jordan=
+haría un mate lunar.\~00~#042
+;000125D6{He is a roundball=magician, Bing. Jordan=makes it look easy.~00~}#064#061
+Es un mago del balón,=
+Bing. Jordan hace que=
+parezca fácil.\ ~00~#061
+;00012613{NAnother demonstration=of basketball bril-=liance worth $~00~}#061#058
+N
+Otra demostración de=
+brillantez =
+baloncestística anota=
+$~00~#058
+;0001264D{~FF~S~1E~ =points.~00~}#022#013
+~FF~S~1E~ puntos.\~00~#013
+;0001265A{Tally up the points,=K.C..~00~}#030#027
+Recuenta los puntos,=
+K.C..~00~#027
+;00012675{NBing, score $N~00~}#019#016
+N
+Bing, anota $N~00~#016
+;00012685{~FF~S~1E~ points=for Jordan. Simply=unbelievable.~00~}#053#044
+~FF~S~1E~ puntos=
+de Jordan. Simplemente=
+brutal.\ ~00~#044
+;000126B1{NThe man defies=gravity. Chalk up=another legendary=performance.~00~}#068#065
+N
+Desafía la gravedad.=
+Sin duda otra=
+actuación legendaria.\      ~00~#065
+;000126F2{Tally up the points,=K.C..~00~}#030#027
+Recuenta los puntos,=
+K.C..~00~#027
+;0001270D{NBing, score $N~00~}#019#016
+N
+Bing, anota $N~00~#016
+;0001271D{~FF~S~1E~ points=for Jordan.~00~}#032#023
+~FF~S~1E~ puntos=
+de Jordan.\~00~#023
+;00012734{Michael seems a little=off in his game play.=But I'm sure he'll be=back with a vengeance.~00~}#093#090
+Michael parece un poco=
+apagado en su juego.=
+Pero estoy seguro que=
+volverá con fuerza.\   ~00~#090
+;0001278E{Amazing! Jordan scores=a perfect 150! The=crowd sure is getting=their money's worth=with this show...~00~}#105#102
+Increíble! Jordan=
+anota un 150 perfecto!=
+El público está=
+teniendo lo que merece=
+por su dinero...\    ~00~#102
+|1064
+@000127F4-00012C05-00
+;000127F4{Definitely! These=judges are no push-=overs either, Bing,=but his creativity put=him over the top.~00~}#102#099
+Sin duda! Estos jueces=
+no son fáciles de=
+convencer, Bing, pero=
+su creatividad le pone=
+por encima.\~00~#099
+;00012857{NWell, K.C.... it's=been another spectac-=ular showing from=basketball's premier=airman, Michael Jordan.~00~}#108#105
+N
+Bueno, K.C.... ha sido=
+otra espectacular=
+demostración del mejor=
+aviador del=
+baloncesto, Michael=
+Jordan.~00~#105
+;000128C0{Competitive one-upman-=ship seems to be the=catch-phrase for to-=day's slam dunk=contest, K.C....~00~}#101#098
+La competitividad=
+parece ser el lema del=
+concurso de mates de=
+hoy, K.C....\                      ~00~#098
+;00012922{True, Bing... extra-=ordinary skill and=finesse have been=demonstrated by all=competitors.~00~}#094#091
+Cierto, Bing... todos=
+los competidores han=
+demostrado una gran=
+habilidad y finura.\       ~00~#091
+;0001297D{NIt's unfortunate, but=player $~00~}#035#032
+N
+Es una pena, pero el=
+jugador $~00~#032
+;0001299D{~FF~Sf has been=eliminated with a=score of $~00~}#048#042
+~FF~Sf ha sido=
+eliminado con una =
+marca de $~00~#042
+;000129C7{~FF~Sh. More=slammin' action coming=up next!~00~}#048#042
+~FF~Sh. Más=
+acción de mates a=
+continuación!\~00~#042
+;000129F1{NA blue-ribbon finish=to an exciting slam=dunk competition, with=player $~00~}#077#074
+N
+Un acabado excepcional=
+para la competición de =
+mates, con el jugador  =
+$~00~#074
+;00012A3B{~FF~Sj taking top=honors.~00~}#029#023
+~FF~Sj siendo vencedor.\ ~00~#023
+;00012A52{That's right, what a=stunner! A disappoint-=ing upset for player $~00~}#070#067
+Es verdad, menuda=
+maravilla! Una gran=
+decepción para el =
+jugador $~00~#067
+;00012A95{~FF~Sf =who just didn't have=the edge today, Bing.~00~}#054#048
+~FF~Sf quién hoy no=
+tuvo el día, Bing.\           ~00~#048
+;00012AC5{NSo there you have it.=player $~00~}#035#032
+N
+Y aquí lo tienes. El=
+jugador $~00~#032
+;00012AE5{~FF~Sj, slamming it=all the way home to a=well deserved cham-=pionship victory.~00~}#083#077
+~FF~Sj, haciendo=
+mates hasta casa para=
+una merecida victoria=
+del campeonato.\  ~00~#077
+;00012B32{It's a slam dunk=contest full of sur-=prises, K.C.!  We've=got a tied score on=our hands.~00~}#093#090
+Es un concurso de=
+mates lleno de=
+sorpresas, K.C.!=
+Tenemos un marcador=
+empatado.\         ~00~#090
+;00012B8C{Bing... This contest=won't be determined=until we eliminate a=player, and that is=going to be tough=with this close play.~00~}#125#122
+Bing... Este concurso=
+no se terminará hasta=
+que eliminemos a=
+jugador, y va a ser=
+difícil con su juego=
+cercano.\          ~00~#122
+|1042
+@00012C06-00012C84-00
+;00012C06{We'll go to a rematch,=for this round. Once=again it's anybody's=game. Let's see who=pushes the limits and=becomes the winner.~00~}#130#127
+Haremos una revancha,=
+por esta ronda. De=
+nuevo no ha ganado=
+nadie. Veamos quien=
+superas lo límites y=
+se vuelve el ganador.\   ~00~#127
+|127
+@0007B930-0007BB2F-FF
+;0007B930{}#512#512
+;0007B930
+;0000AE28{PLAYERS~00~}#011#008
+JUGADORES\\\\\\\
+;0007B940
+;0000AE16{OPTIONS~00~}#011#008
+OPCIONES\\\\\\\\
+;0007B950
+;0000AE73{NMUSIC~00~}#010#007
+MÚSICA\\\\\\\\\\
+;0007B960
+;0000AF96{LOSER~3B~S OUTS ~00~}#020#014
+EL PERDEDOR SIGUE\\\\\\\\\\\\\\\
+;0007B980
+;0000AFA4{WINNER~3B~S OUTS~00~}#020#014
+EL GANADOR SIGUE \\\\\\\\\\\\\\\
+;0007B9A0
+;0000B086{1 PLAYER ~00~}#013#010
+1 JUGADOR  \\\\\
+;0007B9B0
+;0000B090{2 PLAYERS~00~}#013#010
+2 JUGADORES\\\\\
+;0007B9C0
+;0000B09A{3 PLAYERS~00~}#013#010
+3 JUGADORES\\\\\
+;0007B9D0
+;0000B0A4{4 PLAYERS~00~}#013#010
+4 JUGADORES\\\\\
+;0007B9E0
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#512
+|512
+@0007BB30-0007BD2F-FF
+;0007BB30{}#512#512
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#512
+|512
+@0007BD30-0007BF2F-FF
+;0007BD30{}#512#512
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#512
+|512
+@0007BF30-0007C12F-FF
+;0007BF30{}#512#512
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#512
+|512

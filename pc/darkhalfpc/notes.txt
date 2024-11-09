@@ -1,0 +1,58 @@
+Solo para EXTRAER TXTs:
+01=Ü
+01=ü
+02=É
+02=é
+20=Á
+20=á
+Esta se pueden insertar en diálogos, solo usaremos la Ñ al no haber otros acentos:
+21=Í
+21=í
+24=Ñ
+24=ñ
+í usada 8 veces en todo el script
+ñ usada 1 vez (y mal) en todo el script
+
+Traducido/revisado (todos los ficheros tienen retoques):
+El nombre de los objetos en el inventario. (DH.EXE)
+El nombre de los objetos en el escenario. (DH.EXE)
+Varias cadenas de la interfaz. (DH.EXE)
+Los objetos cuando se miran en el escenario. (HOTSPOT.TXT)
+Revisados textos de arrestos. (ARREST.TXT)
+Interacciones. (RESPONSE.TXT)
+Revisados textos de interrogatorios. (INTERR.TXT)
+Revisados diálogos misceláneos 2. (MISC2.TXT)
+Revisados diálogos misceláneos 1. (MISC.TXT)
+
+Fuente:
+BIT5X7.GFT (Igual en ambas versiones)
+https://github.com/robhagemans/monobit
+
+Imágenes:
+https://moddingwiki.shikadi.net/wiki/PCX_Library#GX_Library_format
+https://gist.github.com/koitsu/119b97532a50a1bb6e227d614bb991a7#file-loremaster-md
+KEA00.GXL: GAMEOVER.PCX por traducir
+KEA01.GXL: THEEND.PCX por traducir
+KFA00.GXL: KEYBDN.PCX, PAPER1.PCX, PAPER2.PCX, PAPER3.PCX por traducir
+KOA00.GXL: Muchos PCX traducidos
+KOA02.GXL: PCX de intro traducidos
+KOA03.GXL: PCX de intro traducidos
+KOA04.GXL: TEXT.PCX
+KRA01.GXL: TEXT.PCX
+KRA10.GXL: NOWMORN.PCX por traducir
+KRA15.GXL: NOWMORN.PCX por traducir
+KUA00.GXL: Comandos UI traducidos
+KUA03.GXL: Localizaciones por traducir
+KUA04.GXL: Notas y fotos por traducir
+
+Modificados, son iguales en ambas versiones
+KEA00.GXL
+KEA01.GXL
+KFA00.GXL
+KOA04.GXL
+KRA01.GXL
+KRA10.GXL
+KRA15.GXL
+KUA00.GXL
+KUA03.GXL
+KUA04.GXL

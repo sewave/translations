@@ -1,0 +1,44 @@
+@0000FFA1-0000FFAE-FF
+;0000FFA1{O P T I O N S }#014#014
+O P T I O N S #014
+|14
+@000277AB-00027836-FF
+;000277AB{1 P       V S       C O M P 1 P       V S       2 P 1 P 2 P   V S       C O M P 1 P       T O U R N A M E N T 1 P 2 P   T O U R N A M E N T }#140#140
+1 P       V S       C O M P 1 P       V S       2 P 1 P 2 P   V S       C O M P 1 P       T O U R N A M E N T 1 P 2 P   T O U R N A M E N T #140
+|140
+@00027ACE-00027B59-FF
+;00027ACE{O P T I O N S T I M E         2 : 0 0 T I M E         4 : 0 0 T I M E         6 : 0 0 L E V E L       1 L E V E L       2 L E V E L       3 }#140#140
+O P T I O N S T I M E         2 : 0 0 T I M E         4 : 0 0 T I M E         6 : 0 0 L E V E L       1 L E V E L       2 L E V E L       3 #140
+|140
+@00027B5A-00027F91-FF
+;00027B5A{C O N T R O L   1                                                                 S H O T / A T T A C K     X   O R   Y P A S S                   A   O R   B                                           D I V I N G   S A V E     A   A N D   X     O R       B   A N D   Y C O N T R O L   2                                                                 S H O T / A T T A C K     X   O R   A P A S S                   Y   O R   B                                           D I V I N G   S A V E     A   A N D   B     O R       X   A N D   Y C O N T R O L   3                                                                 S H O T / A T T A C K     A   O R   B P A S S                   X   O R   Y                                           D I V I N G   S A V E     A   A N D   X     O R       B   A N D   Y C O N T R O L   4                                                                 S H O T / A T T A C K     Y   O R   B P A S S                   X   O R   A                                           D I V I N G   S A V E     A   A N D   B     O R       X   A N D   Y E X I T }#1080#1080
+C O N T R O L   1                                                                 S H O T / A T T A C K     X   O R   Y P A S S                   A   O R   B                                           D I V I N G   S A V E     A   A N D   X     O R       B   A N D   Y C O N T R O L   2                                                                 S H O T / A T T A C K     X   O R   A P A S S                   Y   O R   B                                           D I V I N G   S A V E     A   A N D   B     O R       X   A N D   Y C O N T R O L   3                                                                 S H O T / A T T A C K     A   O R   B P A S S                   X   O R   Y                                           D I V I N G   S A V E     A   A N D   X     O R       B   A N D   Y C O N T R O L   4                                                                 S H O T / A T T A C K     Y   O R   B P A S S                   X   O R   A                                           D I V I N G   S A V E     A   A N D   B     O R       X   A N D   Y E X I T #1080
+|1080
+@00027FE8-00027FFB-FF
+;00027FE8{T I M E C R E D I T }#020#020
+T I M E C R E D I T #020
+|20
+@0003FF80-0003FFE1-FF
+;0003FF80{P U S H   S T A R T   B U T T O N ! G O A L S   A G A I N S T S H O T S   O N   G O A L S A V E % }#098#098
+P U S H   S T A R T   B U T T O N ! G O A L S   A G A I N S T S H O T S   O N   G O A L S A V E % #098
+|98
+@00066081-000663E0-FF
+;00066081{P=H=I=L= = = = = = = = = =B=U=N=K=E=R= = = = = =[=D=I=C=K=Y=]= = = = = = =F=O=N=T=A=I=N=E= = = =[=B=A=T=T=L=E=S=H=I=P=]= =B=O=Y=D= = = = = = = =D=A=V=I=D= = = = = = = = =V=O=L=E=K= = = = = = =I=V=A=N= = = = = = = = = =Y=A=K=A=S=H=E=V= = = =W=I=L=L=Y= = = = = = = = =L=I=N=D=B=E=R=G= = = =A=L= = = = = = = = = = = =G=I=G=L=I=A=N=O= = = =W=A=Y=N=E= = = = = = = = =G=R=E=A=T=M=A=N= = = =[=B=O=]= = = = = = = = = =C=L=E=V=E=L=A=N=D= = =M=I=K=E= = = = = = = = = =B=A=R=R= = = = = = = =R=E=G=G=I=E= = = = = = = =M=A=R=S=H= = = = = = =J=O=H=N=N=Y= = = = = = = =N=O=V=A=K= = = = = = =[=G=U=N=N=E=R=]= = = = = =H=A=L=L= = = = = = = =P=I=E=R=R=E= = = = = = = =B=O=U=D=O=I=R= = = = =T=O=M= = = = = = = = = = =H=O=R=Y=N=A= = = = = =[=H=A=P=P=Y=]= = = = = = =G=O=L=E=C=K= = = = = =B=O=B= = = = = = = = = = =D=O=V=E=R= = = = = = =P=E=T=E=R= = = = = = = = =K=I=D=D= = = = = = = =}#864#864
+P=H=I=L= = = = = = = = = =B=U=N=K=E=R= = = = = =[=D=I=C=K=Y=]= = = = = = =F=O=N=T=A=I=N=E= = = =[=B=A=T=T=L=E=S=H=I=P=]= =B=O=Y=D= = = = = = = =D=A=V=I=D= = = = = = = = =V=O=L=E=K= = = = = = =I=V=A=N= = = = = = = = = =Y=A=K=A=S=H=E=V= = = =W=I=L=L=Y= = = = = = = = =L=I=N=D=B=E=R=G= = = =A=L= = = = = = = = = = = =G=I=G=L=I=A=N=O= = = =W=A=Y=N=E= = = = = = = = =G=R=E=A=T=M=A=N= = = =[=B=O=]= = = = = = = = = =C=L=E=V=E=L=A=N=D= = =M=I=K=E= = = = = = = = = =B=A=R=R= = = = = = = =R=E=G=G=I=E= = = = = = = =M=A=R=S=H= = = = = = =J=O=H=N=N=Y= = = = = = = =N=O=V=A=K= = = = = = =[=G=U=N=N=E=R=]= = = = = =H=A=L=L= = = = = = = =P=I=E=R=R=E= = = = = = = =B=O=U=D=O=I=R= = = = =T=O=M= = = = = = = = = = =H=O=R=Y=N=A= = = = = =[=H=A=P=P=Y=]= = = = = = =G=O=L=E=C=K= = = = = =B=O=B= = = = = = = = = = =D=O=V=E=R= = = = = = =P=E=T=E=R= = = = = = = = =K=I=D=D= = = = = = = =#864
+|864
+@0006666D-0006696A-FF
+;0006666D{T H E   C R E D I T S E X E C U T I V E   P R O D U C E R S E I Z O U   M A T S U T A K A P R O D U C E R T A K E O   S H I R A S A K A P R O G R A M M E R S K . I N . M C H A R A C T E R   D E S I G N E R S H I T O S H I   S A S A K I D A I G O   W A T A N A B E K E I I C H I   O N O D A Y . S S . Y M U S I C   C O M P O S E R T O N O S O U N D   E D I T O R N O R I H I R O   F U R U K A W A Z U N T A T A S P E C I A L   T H A N K S   T O O N I J U S T Y U J I   K O G A T . M M A S A T O S H I   K O N D O U H A R U O   S U Z U K I P L A N N E R J U T T O K U   Y O S H I D A S A T O S H I   Y O S H I D A c   T A I T O   1 9 9 3 c 1 9 9 0   L I C E N S E D   F R O M W I L L I A M S   E L E C T R O N I C S   G A M E S L I C E N S E D   B Y   N I N T E N D O }#766#766
+T H E   C R E D I T S E X E C U T I V E   P R O D U C E R S E I Z O U   M A T S U T A K A P R O D U C E R T A K E O   S H I R A S A K A P R O G R A M M E R S K . I N . M C H A R A C T E R   D E S I G N E R S H I T O S H I   S A S A K I D A I G O   W A T A N A B E K E I I C H I   O N O D A Y . S S . Y M U S I C   C O M P O S E R T O N O S O U N D   E D I T O R N O R I H I R O   F U R U K A W A Z U N T A T A S P E C I A L   T H A N K S   T O O N I J U S T Y U J I   K O G A T . M M A S A T O S H I   K O N D O U H A R U O   S U Z U K I P L A N N E R J U T T O K U   Y O S H I D A S A T O S H I   Y O S H I D A c   T A I T O   1 9 9 3 c 1 9 9 0   L I C E N S E D   F R O M W I L L I A M S   E L E C T R O N I C S   G A M E S L I C E N S E D   B Y   N I N T E N D O #766
+|766
+@0007F417-0007F45C-FF
+;0007F417{R E D S B L U E S W H I T E S G R E E N S Y E L L O W S O R A N G E S }#070#070
+R E D S B L U E S W H I T E S G R E E N S Y E L L O W S O R A N G E S #070
+|70
+@0007FF03-0007FF18-FF
+;0007FF03{F I N A L   S C O R E }#022#022
+F I N A L   S C O R E #022
+|22
+@0007FFC1-0007FFF6-FF
+;0007FFC1{G O A L S     S H O T S     A S S I S T S S C O R E % }#054#054
+G O A L S     S H O T S     A S S I S T S S C O R E % #054
+|54

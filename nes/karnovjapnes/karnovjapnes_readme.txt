@@ -1,6 +1,6 @@
 Karnov (NES)
-Traducción al Español v2.0 (25/02/2022)
-(C) 2022 Traducciones Wave
+Traducción al Español v2.1 (16/11/2024)
+(C) 2024 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -8,13 +8,15 @@ Notas y Fallos Conocidos
 Esta traducción y hacking está basado en el de 	Eien Ni Hen / Vice Translations.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
--V2.0:
+V2.0:
 -Traducido GAME OVER
 -Retraducción del script
 -Traducida pantalla de "STAGE"
 -Traducido PAUSE
 -Traducido READY
 -Traducido THE END
+V2.1:
+-Arreglada cabecera manualmente para mejorar compatibilidad con algunos emuladores.
 
 ------------------------
 Instrucciones de Parcheo

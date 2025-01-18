@@ -1,0 +1,8 @@
+@00016F02-00016F38-FF
+;00016F02{          CHANGE          ~EA~~EA~                          ~EA~}#064#055
+          CHANGE          ~EA~~EA~                          ~EA~#055
+|55
+@00016F3A-00016F70-FF
+;00016F3A{          SEARCH          ~EA~~EA~                          ~EA~}#064#055
+          SEARCH          ~EA~~EA~                          ~EA~#055
+|55

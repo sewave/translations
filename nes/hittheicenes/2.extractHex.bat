@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Hit the Ice (USA) (Proto 2).nes"
+set SCRIPTNAME="hittheicenes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 20F70:20,20FF0:20,24030:30,240A0:30,333C0:40,335C0:50,33BC0:40,33DC0:50,33040:10,33840:10,331C0:10,339C0:10,225D0:40,22660:40,305B0:20
+pause

@@ -1,0 +1,438 @@
+@000000C3-000000D3-00
+;000000C3{PUSH START BUTTON}#017#017
+PUSH START BUTTON#017
+|17
+@00000367-00000396-00
+;00000367{PLAYER 1PLAYER 2PLAYER 3PLAYER 4 ENTER YOUR NAME}#048#048
+PLAYER 1PLAYER 2PLAYER 3PLAYER 4 ENTER YOUR NAME#048
+|48
+@0000215E-000021C2-00
+;0000215E{f PLAYER 1 SELECT TEAM~00~}#026#023
+f PLAYER 1 SELECT TEAM~00~#023
+;00002175{f PLAYER 2 SELECT TEAM~00~}#026#023
+f PLAYER 2 SELECT TEAM~00~#023
+;0000218C{f PLAYER 3 SELECT TEAM~00~}#026#023
+f PLAYER 3 SELECT TEAM~00~#023
+;000021A3{b PLAYER 1 SELECT COMPUTER TEAM~00~}#035#032
+b PLAYER 1 SELECT COMPUTER TEAM~00~#032
+|101
+@00002603-00002612-00
+;00002603{"PASSWORD ERROR"}#016#016
+"PASSWORD ERROR"#016
+|16
+@00002C1E-00002C73-00
+;00002C1E{!~86~~0E~GOALS  ASSISTS"~06~~0D~SHOTS  SCORE~25~"~86~~04~KO'S<~AC~L~AC~~5C~~AC~!~86~~0D~GOALS AGAINST"~06~~0D~SHOTS ON GOAL"~86~~05~SAVE~25~}#140#086
+!~86~~0E~GOALS  ASSISTS"~06~~0D~SHOTS  SCORE~25~"~86~~04~KO'S<~AC~L~AC~~5C~~AC~!~86~~0D~GOALS AGAINST"~06~~0D~SHOTS ON GOAL"~86~~05~SAVE~25~#086
+|86
+@000038C7-000038C8-00
+;000038C7{~A9~P}#005#002
+~A9~P#002
+|2
+@000038D0-000038D1-00
+;000038D0{~A9~C}#005#002
+~A9~C#002
+|2
+@00003A6F-00003B53-00
+;00003A6F{c ~19~PLAYER 1 SELECT GAME MODE~EC~ ~08~1P QUESTJ!~0E~1P   VS  COMP.~AA~!~0C~1P   VS   2P~09~"~0F~1P2P  VS  COMP.i"~0E~1P2P  VS  3P4P~EA~"~0B~GAME OPTION~00~}#157#121
+c ~19~PLAYER 1 SELECT GAME MODE~EC~ ~08~1P QUESTJ!~0E~1P   VS  COMP.~AA~!~0C~1P   VS   2P~09~"~0F~1P2P  VS  COMP.i"~0E~1P2P  VS  3P4P~EA~"~0B~GAME OPTION~00~#121
+;00003AE8{k ~0B~GAME OPTION~06~!~05~TEAM1&!~14~LEVEL  1   2   3   4~A6~!~05~TEAM2~C6~!~14~LEVEL  1   2   3   4f"~15~TIME   2:00 4:00 6:00~0E~~23~~04~EXIT~00~}#147#108
+k ~0B~GAME OPTION~06~!~05~TEAM1&!~14~LEVEL  1   2   3   4~A6~!~05~TEAM2~C6~!~14~LEVEL  1   2   3   4f"~15~TIME   2:00 4:00 6:00~0E~~23~~04~EXIT~00~#108
+|229
+@00003BB5-00003BFD-00
+;00003BB5{~C9~ ~0E~BEST 5 PLAYERS~25~!~16~RANK NAME GOALS SCORE~25~~86~!~03~1ST~C6~!~03~2ND~06~"~03~3RDF"~03~4TH~86~"~03~5TH~00~}#118#073
+~C9~ ~0E~BEST 5 PLAYERS~25~!~16~RANK NAME GOALS SCORE~25~~86~!~03~1ST~C6~!~03~2ND~06~"~03~3RDF"~03~4TH~86~"~03~5TH~00~#073
+|73
+@00003C90-00003DDC-00
+;00003C90{~EC~ ~08~1P QUESTl!~08~NEW GAME~CC~!~08~PASSWORD~00~}#052#034
+~EC~ ~08~1P QUESTl!~08~NEW GAME~CC~!~08~PASSWORD~00~#034
+;00003CB2{~8C~ ~08~PASSWORD~E9~ ~0E~PLEASE TYPE IND!~17~_____ _____ _____ _____~C4~!~17~B C D F G H J K L M N P~04~"~17~Q R S T V W X Z b c d fD"~17~h j k m n p q r t v w x~84~"~17~z 0 1 2 3 4 5 6 7 8 9 !~C4~"~17~" ~23~ ~24~ ~25~ & * - : < ~3D~ > ?~04~~23~~07~~5C~ ~83~ [ ]~00~}#267#195
+~8C~ ~08~PASSWORD~E9~ ~0E~PLEASE TYPE IND!~17~_____ _____ _____ _____~C4~!~17~B C D F G H J K L M N P~04~"~17~Q R S T V W X Z b c d fD"~17~h j k m n p q r t v w x~84~"~17~z 0 1 2 3 4 5 6 7 8 9 !~C4~"~17~" ~23~ ~24~ ~25~ & * - : < ~3D~ > ?~04~~23~~07~~5C~ ~83~ [ ]~00~#195
+;00003D75{~8B~"~0B~HIT THE ICE~AB~"~0B~~40~TAITO 1993~C6~"~14~~40~ 1990 LICENSED FROM~E3~"~1A~WILLIAMS ELECTRONICS GAMES~06~~23~~14~LICENSED BY NINTENDO~00~}#146#104
+~8B~"~0B~HIT THE ICE~AB~"~0B~~40~TAITO 1993~C6~"~14~~40~ 1990 LICENSED FROM~E3~"~1A~WILLIAMS ELECTRONICS GAMES~06~~23~~14~LICENSED BY NINTENDO~00~#104
+|333
+@00003E96-00003F71-00
+;00003E96{h ~10~CHARACTER STATUS~E9~ ~12~EXP          SPEED~09~!~12~S-ACTION     POWER~89~!~12~EXP          SPEED~A9~!~12~S-ACTION     POWER)"~12~EXP          SPEEDI"~12~S-ACTION     POWER~C9~"~12~EXP          SPEED~E9~"~12~S-ACTION     POWER~24~~23~~06~APPLESD~23~~14~P-DRINK         GOLD~00~}#283#220
+h ~10~CHARACTER STATUS~E9~ ~12~EXP          SPEED~09~!~12~S-ACTION     POWER~89~!~12~EXP          SPEED~A9~!~12~S-ACTION     POWER)"~12~EXP          SPEEDI"~12~S-ACTION     POWER~C9~"~12~EXP          SPEED~E9~"~12~S-ACTION     POWER~24~~23~~06~APPLESD~23~~14~P-DRINK         GOLD~00~#220
+|220
+@00015A20-00015B35-FE
+;00015A20{a hamburger~FE~}#015#012
+a hamburger~FE~#012
+;00015A2C{an apple~FE~}#012#009
+an apple~FE~#009
+;00015A35{a P-drink~FE~}#013#010
+a P-drink~FE~#010
+;00015A3F{5G~FE~}#006#003
+5G~FE~#003
+;00015A42{80G~FE~}#007#004
+80G~FE~#004
+;00015A46{80G~FE~}#007#004
+80G~FE~#004
+;00015A4A{100G~FE~}#008#005
+100G~FE~#005
+;00015A4F{200G~FE~}#008#005
+200G~FE~#005
+;00015A54{1~FE~}#005#002
+1~FE~#002
+;00015A56{2~FE~}#005#002
+2~FE~#002
+;00015A58{3~FE~}#005#002
+3~FE~#002
+;00015A5A{4~FE~}#005#002
+4~FE~#002
+;00015A5C{5~FE~}#005#002
+5~FE~#002
+;00015A5E{6~FE~}#005#002
+6~FE~#002
+;00015A60{7~FE~}#005#002
+7~FE~#002
+;00015A62{8~FE~}#005#002
+8~FE~#002
+;00015A64{9~FE~}#005#002
+9~FE~#002
+;00015A66{80~FE~}#006#003
+80~FE~#003
+;00015A69{120~FE~}#007#004
+120~FE~#004
+;00015A6D{200~FE~}#007#004
+200~FE~#004
+;00015A71{300~FE~}#007#004
+300~FE~#004
+;00015A75{REDS~FE~}#008#005
+REDS~FE~#005
+;00015A7A{BLUES~FE~}#009#006
+BLUES~FE~#006
+;00015A80{YELLOWS~FE~}#011#008
+YELLOWS~FE~#008
+;00015A88{GREENS~FE~}#010#007
+GREENS~FE~#007
+;00015A8F{WHITES~FE~}#010#007
+WHITES~FE~#007
+;00015A96{BLACKS~FE~}#010#007
+BLACKS~FE~#007
+;00015A9D{BROWNS~FE~}#010#007
+BROWNS~FE~#007
+;00015AA4{LIGHT BLUES~FE~}#015#012
+LIGHT BLUES~FE~#012
+;00015AB0{ORANGES~FE~}#011#008
+ORANGES~FE~#008
+;00015AB8{LIGHT GREENS~FE~}#016#013
+LIGHT GREENS~FE~#013
+;00015AC5{GRAYS~FE~}#009#006
+GRAYS~FE~#006
+;00015ACB{PURPLES~FE~}#011#008
+PURPLES~FE~#008
+;00015AD3{80~FE~}#006#003
+80~FE~#003
+;00015AD6{120~FE~}#007#004
+120~FE~#004
+;00015ADA{160~FE~}#007#004
+160~FE~#004
+;00015ADE{200~FE~}#007#004
+200~FE~#004
+;00015AE2{240~FE~}#007#004
+240~FE~#004
+;00015AE6{10~FE~}#006#003
+10~FE~#003
+;00015AE9{11~FE~}#006#003
+11~FE~#003
+;00015AEC{12~FE~}#006#003
+12~FE~#003
+;00015AEF{13~FE~}#006#003
+13~FE~#003
+;00015AF2{14~FE~}#006#003
+14~FE~#003
+;00015AF5{15~FE~}#006#003
+15~FE~#003
+;00015AF8{16~FE~}#006#003
+16~FE~#003
+;00015AFB{17~FE~}#006#003
+17~FE~#003
+;00015AFE{18~FE~}#006#003
+18~FE~#003
+;00015B01{19~FE~}#006#003
+19~FE~#003
+;00015B04{20~FE~}#006#003
+20~FE~#003
+;00015B07{has increased levels.~FE~}#025#022
+has increased levels.~FE~#022
+;00015B1D{4~FE~}#005#002
+4~FE~#002
+;00015B1F{8~FE~}#005#002
+8~FE~#002
+;00015B21{12~FE~}#006#003
+12~FE~#003
+;00015B24{16~FE~}#006#003
+16~FE~#003
+;00015B27{ type ~FE~}#010#007
+ type ~FE~#007
+;00015B2E{ types ~FE~}#011#008
+ types ~FE~#008
+|278
+@0001E9CD-0001EA17-FE
+;0001E9CD{SELECT CHARACTERREPLACEMENTPLAYER 1PLAYER 2PLAYER 3PLAYER 4COMPUTERGOALIE  }#075#075
+SELECT CHARACTERREPLACEMENTPLAYER 1PLAYER 2PLAYER 3PLAYER 4COMPUTERGOALIE  #075
+|75
+@0001EABC-0001EC4A-00
+;0001EABC{PHIL BUNKER~00~}#015#012
+PHIL BUNKER~00~#012
+;0001EAC8{ANTHONY PROPP~00~}#017#014
+ANTHONY PROPP~00~#014
+;0001EAD6{STEPHANE LEETCH~00~}#019#016
+STEPHANE LEETCH~00~#016
+;0001EAE6{JOE HOUSLEY~00~}#015#012
+JOE HOUSLEY~00~#012
+;0001EAF2{NED CORSON~00~}#014#011
+NED CORSON~00~#011
+;0001EAFD{"BO" CLEVELAND~00~}#018#015
+"BO" CLEVELAND~00~#015
+;0001EB0C{JOHNNY NOVAK~00~}#016#013
+JOHNNY NOVAK~00~#013
+;0001EB19{ERIC VERNON~00~}#015#012
+ERIC VERNON~00~#012
+;0001EB25{AL GIGLIANO~00~}#015#012
+AL GIGLIANO~00~#012
+;0001EB31{MIKE WILSON~00~}#015#012
+MIKE WILSON~00~#012
+;0001EB3D{TOM BURNS~00~}#013#010
+TOM BURNS~00~#010
+;0001EB47{"IRON" BOB~00~}#014#011
+"IRON" BOB~00~#011
+;0001EB52{IVAN YAKASHEV~00~}#017#014
+IVAN YAKASHEV~00~#014
+;0001EB60{REGGIE MARSH~00~}#016#013
+REGGIE MARSH~00~#013
+;0001EB6D{TERRY SMAIL~00~}#015#012
+TERRY SMAIL~00~#012
+;0001EB79{PAT FRANCIS~00~}#015#012
+PAT FRANCIS~00~#012
+;0001EB85{"BATTLESHIP" BOYD~00~}#021#018
+"BATTLESHIP" BOYD~00~#018
+;0001EB97{"DICKY" FONTAINE~00~}#020#017
+"DICKY" FONTAINE~00~#017
+;0001EBA8{RICK MULLER~00~}#015#012
+RICK MULLER~00~#012
+;0001EBB4{DAVE GARTNER~00~}#016#013
+DAVE GARTNER~00~#013
+;0001EBC1{"GREAT" NAKADA~00~}#018#015
+"GREAT" NAKADA~00~#015
+;0001EBD0{"SHOCKER" ED~00~}#016#013
+"SHOCKER" ED~00~#013
+;0001EBDD{GEORGE ITOH~00~}#015#012
+GEORGE ITOH~00~#012
+;0001EBE9{KEVIN NICHOLLS~00~}#018#015
+KEVIN NICHOLLS~00~#015
+;0001EBF8{BOB DOVER~00~}#013#010
+BOB DOVER~00~#010
+;0001EC02{"HAPPY" GOLECKI~00~}#019#016
+"HAPPY" GOLECKI~00~#016
+;0001EC12{"GUNNER" HALL~00~}#017#014
+"GUNNER" HALL~00~#014
+;0001EC20{CHRIS CAVALLINI~00~}#019#016
+CHRIS CAVALLINI~00~#016
+;0001EC30{PIERRE BOUDOIR~00~}#018#015
+PIERRE BOUDOIR~00~#015
+;0001EC3F{BRIAN MILES~00~}#015#012
+BRIAN MILES~00~#012
+|399
+@0001ECFF-0001ED4B-00
+;0001ECFF{PLAYER 1PLAYER 2PLAYER 3PLAYER 4COMPUTERGOALIE   SELECT CHARACTER SELECT TEAM}#077#077
+PLAYER 1PLAYER 2PLAYER 3PLAYER 4COMPUTERGOALIE   SELECT CHARACTER SELECT TEAM#077
+|77
+@0001FB10-0001FB2E-00
+;0001FB10{~06~!~08~BGM CODEF!~09~S.E. CODE~86~!~04~EXIT~00~}#049#031
+~06~!~08~BGM CODEF!~09~S.E. CODE~86~!~04~EXIT~00~#031
+|31
+@000310BA-000314E1-FE
+;000310BA{It would make me proud to=see you do your absolute=best for the team.^Of course, it keeps the=spectators happy too.=My dream is to win the VHL=League Championship.^To reach this goal, the first=step is to strengthen our=position by challenging=various teams in a match.^Then, we must compete=against VHL teams in the=stadium and win.^And don't forget to eat=those hamburgers with=special beef to fortify=your body.^So come on, let's give it=our best shot and win the=League Championship.~FE~}#491#488
+It would make me proud to=see you do your absolute=best for the team.^Of course, it keeps the=spectators happy too.=My dream is to win the VHL=League Championship.^To reach this goal, the first=step is to strengthen our=position by challenging=various teams in a match.^Then, we must compete=against VHL teams in the=stadium and win.^And don't forget to eat=those hamburgers with=special beef to fortify=your body.^So come on, let's give it=our best shot and win the=League Championship.~FE~#488
+;000312A2{You have searched very=carefully.~FE~}#037#034
+You have searched very=carefully.~FE~#034
+;000312C4{To your amazement, you=have found %.~FE~}#040#037
+To your amazement, you=have found %.~FE~#037
+;000312E9{But you couldn't find=anything. Pity!~FE~}#041#038
+But you couldn't find=anything. Pity!~FE~#038
+;0003130F{Are you going to eat the=hamburger?~FE~}#039#036
+Are you going to eat the=hamburger?~FE~#036
+;00031333{You have eaten the=hamburger.~FE~}#033#030
+You have eaten the=hamburger.~FE~#030
+;00031351{But the hamburger was=stale and you now have=a sour stomach.~FE~}#064#061
+But the hamburger was=stale and you now have=a sour stomach.~FE~#061
+;0003138E{You have recovered and=feel much better.=EXP has increased by %.~FE~}#068#065
+You have recovered and=feel much better.=EXP has increased by %.~FE~#065
+;000313CF{You have thrown the=hamburger away.~FE~}#039#036
+You have thrown the=hamburger away.~FE~#036
+;000313F3{But you have decided to=give it up because you=already had 5 apples.~FE~}#072#069
+But you have decided to=give it up because you=already had 5 apples.~FE~#069
+;00031438{You have picked up %.~FE~}#025#022
+You have picked up %.~FE~#022
+;0003144E{But you have decided to=give it up because you=already had 3 P-drinks.~FE~}#074#071
+But you have decided to=give it up because you=already had 3 P-drinks.~FE~#071
+;00031495{As the level increases you=can start to make use of=various special actions.~FE~}#080#077
+As the level increases you=can start to make use of=various special actions.~FE~#077
+|1064
+@000314E2-000318E4-FE
+;000314E2{Be careful not to slip where=it's iced over.~FE~}#048#045
+Be careful not to slip where=it's iced over.~FE~#045
+;0003150F{If you eat the left-overs=from the hamburger, you=might get a sour stomach.~FE~}#079#076
+If you eat the left-overs=from the hamburger, you=might get a sour stomach.~FE~#076
+;0003155B{If only you had a=life-saving inner-tube=you could go into=the sea...~FE~}#073#070
+If only you had a=life-saving inner-tube=you could go into=the sea...~FE~#070
+;000315A1{While the level is low you'd=better battle it out on the=plains.~FE~}#068#065
+While the level is low you'd=better battle it out on the=plains.~FE~#065
+;000315E2{As power increases, more and=more special actions appear.~FE~}#061#058
+As power increases, more and=more special actions appear.~FE~#058
+;0003161C{Try using "SEARCH" here and=there. I'm sure you'll find=something.~FE~}#070#067
+Try using "SEARCH" here and=there. I'm sure you'll find=something.~FE~#067
+;0003165F{They say the old man, who=loves to eat apples, has=a life-saving inner-tube.~FE~}#080#077
+They say the old man, who=loves to eat apples, has=a life-saving inner-tube.~FE~#077
+;000316AC{I'm one of your biggest fans.~FE~}#033#030
+I'm one of your biggest fans.~FE~#030
+;000316CA{You have been given %G.~FE~}#027#024
+You have been given %G.~FE~#024
+;000316E2{I love to eat apples.~FE~}#025#022
+I love to eat apples.~FE~#022
+;000316F8{Hey! Looks like you have=some pretty tasty apples=there.~FE~}#060#057
+Hey! Looks like you have=some pretty tasty apples=there.~FE~#057
+;00031731{Could I have them?~FE~}#022#019
+Could I have them?~FE~#019
+;00031744{Thank you. Munch munch yum=yum... This really tastes=good.~FE~}#062#059
+Thank you. Munch munch yum=yum... This really tastes=good.~FE~#059
+;0003177F{Oh well. Never mind.~FE~}#024#021
+Oh well. Never mind.~FE~#021
+;00031794{I'm full now.=Let me give you this=life-saving inner-tube=in return.~FE~}#072#069
+I'm full now.=Let me give you this=life-saving inner-tube=in return.~FE~#069
+;000317D9{You have been given=a life-saving inner-tube.~FE~}#049#046
+You have been given=a life-saving inner-tube.~FE~#046
+;00031807{You can't just barge in here=whenever you feel like it!=You're going to have to pay=a fine.~FE~}#095#092
+You can't just barge in here=whenever you feel like it!=You're going to have to pay=a fine.~FE~#092
+;00031863{You have had 20 G taken away.~FE~}#033#030
+You have had 20 G taken away.~FE~#030
+;00031881{Nobody was there.~FE~}#021#018
+Nobody was there.~FE~#018
+;00031893{Hello there. What can I do=for you?~FE~}#039#036
+Hello there. What can I do=for you?~FE~#036
+;000318B7{Thank you very much.~FE~}#024#021
+Thank you very much.~FE~#021
+;000318CC{The % team=has appeared.~FE~}#028#025
+The % team=has appeared.~FE~#025
+|1027
+@000318E5-00031CFB-FE
+;000318E5{Your team has won the match.=You have been given EXP % =and $ in prize money.~FE~}#081#078
+Your team has won the match.=You have been given EXP % =and $ in prize money.~FE~#078
+;00031933{Your team has lost the match.~FE~}#033#030
+Your team has lost the match.~FE~#030
+;00031951{It's my dream to win the VHL=League Championship. So come=on, make a real big effort=and do your best for me.^By the way, your password is=~FA~.=Do it for me!~FE~}#162#156
+It's my dream to win the VHL=League Championship. So come=on, make a real big effort=and do your best for me.^By the way, your password is=~FA~.=Do it for me!~FE~#156
+;000319ED{Hey! What do you think=you're doing? You've got to=try harder than that!^So come on, make a real big=effort and do your best for=me.^By the way, your password is=~FA~.=Do it for me!~FE~}#185#179
+Hey! What do you think=you're doing? You've got to=try harder than that!^So come on, make a real big=effort and do your best for=me.^By the way, your password is=~FA~.=Do it for me!~FE~#179
+;00031AA0{Congratulations! Your team=has won the Video Hockey=League Championship in=celebrated style.^We hope you will continue=to please your fans with=your superb playing.~FE~}#168#165
+Congratulations! Your team=has won the Video Hockey=League Championship in=celebrated style.^We hope you will continue=to please your fans with=your superb playing.~FE~#165
+;00031B45{You don't have enough money=for it.~FE~}#039#036
+You don't have enough money=for it.~FE~#036
+;00031B69{GOLD $G=      HAMBURGER      80G=      P-DRINK        40G=      APPLE          30G~FE~}#086#083
+GOLD $G=      HAMBURGER      80G=      P-DRINK        40G=      APPLE          30G~FE~#083
+;00031BBC{GOLD $G=      P-DRINK        30G=      APPLE          20G~FE~}#061#058
+GOLD $G=      P-DRINK        30G=      APPLE          20G~FE~#058
+;00031BF6{GOLD $G=      SPECIAL BEEF  200G=      HAMBURGER      80G~FE~}#061#058
+GOLD $G=      SPECIAL BEEF  200G=      HAMBURGER      80G~FE~#058
+;00031C30{GOLD $G=      SPECIAL BEEF  100G=      P-DRINK        20G~FE~}#061#058
+GOLD $G=      SPECIAL BEEF  100G=      P-DRINK        20G~FE~#058
+;00031C6A{           YES=           NO~FE~}#032#029
+           YES=           NO~FE~#029
+;00031C87{EXP has decreased by 4.~FE~}#027#024
+EXP has decreased by 4.~FE~#024
+;00031C9F{You eaten the special beef.~FE~}#031#028
+You eaten the special beef.~FE~#028
+;00031CBB{I'm full now.~FE~}#017#014
+I'm full now.~FE~#014
+;00031CC9{The game has been drawn.~FE~}#028#025
+The game has been drawn.~FE~#025
+;00031CE2{Power has increased by ~F9~.~FE~}#032#026
+Power has increased by ~F9~.~FE~#026
+|1047
+@00031CFC-00031FBF-FE
+;00031CFC{Speed has increased by ~F8~.~FE~}#032#026
+Speed has increased by ~F8~.~FE~#026
+;00031D16{Power has increased by ~F9~.=Speed has increased by ~F8~.~FE~}#061#052
+Power has increased by ~F9~.=Speed has increased by ~F8~.~FE~#052
+;00031D4A{~F7~ of S-Action have=been added.~FE~}#037#031
+~F7~ of S-Action have=been added.~FE~#031
+;00031D69{Power has increased by ~F9~.=~F7~ of S-Action have=been added.~FE~}#066#057
+Power has increased by ~F9~.=~F7~ of S-Action have=been added.~FE~#057
+;00031DA2{Speed has increased by ~F8~.=~F7~ of S-Action have=been added.~FE~}#066#057
+Speed has increased by ~F8~.=~F7~ of S-Action have=been added.~FE~#057
+;00031DDB{Power has increased by ~F9~.=Speed has increased by ~F8~.=~F7~ of S-Action have=been added.~FE~}#095#083
+Power has increased by ~F9~.=Speed has increased by ~F8~.=~F7~ of S-Action have=been added.~FE~#083
+;00031E2E{PHIL BUNKER=%~FE~}#017#014
+PHIL BUNKER=%~FE~#014
+;00031E3C{ANTHONY PROPP=%~FE~}#019#016
+ANTHONY PROPP=%~FE~#016
+;00031E4C{STEPHANE LEETCH=%~FE~}#021#018
+STEPHANE LEETCH=%~FE~#018
+;00031E5E{JOE HOUSLEY=%~FE~}#017#014
+JOE HOUSLEY=%~FE~#014
+;00031E6C{NED CORSON=%~FE~}#016#013
+NED CORSON=%~FE~#013
+;00031E79{"BO" CLEVELAND=%~FE~}#020#017
+"BO" CLEVELAND=%~FE~#017
+;00031E8A{JOHNNY NOVAK=%~FE~}#018#015
+JOHNNY NOVAK=%~FE~#015
+;00031E99{ERIC VERNON=%~FE~}#017#014
+ERIC VERNON=%~FE~#014
+;00031EA7{AL GIGLIANO=%~FE~}#017#014
+AL GIGLIANO=%~FE~#014
+;00031EB5{MIKE WILSON=%~FE~}#017#014
+MIKE WILSON=%~FE~#014
+;00031EC3{TOM BURNS=%~FE~}#015#012
+TOM BURNS=%~FE~#012
+;00031ECF{"IRON" BOB=%~FE~}#016#013
+"IRON" BOB=%~FE~#013
+;00031EDC{IVAN YAKASHEV=%~FE~}#019#016
+IVAN YAKASHEV=%~FE~#016
+;00031EEC{REGGIE MARSH=%~FE~}#018#015
+REGGIE MARSH=%~FE~#015
+;00031EFB{TERRY SMAIL=%~FE~}#017#014
+TERRY SMAIL=%~FE~#014
+;00031F09{PAT FRANCIS=%~FE~}#017#014
+PAT FRANCIS=%~FE~#014
+;00031F17{"BATTLESHIP" BOYD=%~FE~}#023#020
+"BATTLESHIP" BOYD=%~FE~#020
+;00031F2B{"DICKY" FONTAINE=%~FE~}#022#019
+"DICKY" FONTAINE=%~FE~#019
+;00031F3E{RICK MULLER=%~FE~}#017#014
+RICK MULLER=%~FE~#014
+;00031F4C{DAVE GARTNER=%~FE~}#018#015
+DAVE GARTNER=%~FE~#015
+;00031F5B{"GREAT" NAKADA=%~FE~}#020#017
+"GREAT" NAKADA=%~FE~#017
+;00031F6C{"SHOCKER" ED=%~FE~}#018#015
+"SHOCKER" ED=%~FE~#015
+;00031F7B{GEORGE ITOH=%~FE~}#017#014
+GEORGE ITOH=%~FE~#014
+;00031F89{KEVIN NICHOLLS=%~FE~}#020#017
+KEVIN NICHOLLS=%~FE~#017
+;00031F9A{You have had 20 G taken away.~FE~}#033#030
+You have had 20 G taken away.~FE~#030
+;00031FB8{om=him.~FE~}#011#008
+om=him.~FE~#008
+|708
+@0003C4D6-0003C4E4-FF
+;0003C4D6{PLAYER~00~ANM~00~~00~~00~~00~~00~}#033#015
+PLAYER~00~ANM~00~~00~~00~~00~~00~#015
+|15
+@0003C516-0003C524-FF
+;0003C516{GOALIE~00~ANM~00~~00~~00~~00~~00~}#033#015
+GOALIE~00~ANM~00~~00~~00~~00~~00~#015
+|15
+@0003C556-0003C564-FE
+;0003C556{BGM~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#051#015
+BGM~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#015
+|15
+@0003C596-0003C5A4-FE
+;0003C596{SE~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#054#015
+SE~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#015
+|15
+@0003C5D6-0003C5E4-FE
+;0003C5D6{EXIT~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~}#048#015
+EXIT~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~~00~#015
+|15

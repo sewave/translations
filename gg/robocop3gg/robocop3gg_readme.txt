@@ -1,47 +1,32 @@
-Robocop 3
-TraducciÛn al EspaÒol v1.0 (29/05/2017)
-(C) 2017 Wave Translations
+RoboCop 3 (Game Gear)
+Traducci√≥n al Espa√±ol v2.0 (01/02/2025)
+(C) 2025 Traducciones Wave
 
----
-TdC
----
+------------------------
+Notas y Fallos Conocidos
+------------------------
+Esta traducci√≥n y hacking es completamente original.
+Si encuentras alg√∫n fallo puedes contactar conmigo y ver mis traducciones en
+traduccioneswave.blogspot.com
+V2.0:
+-Guion retraducido
+-A√±adidos √Å y √ì
+-Traducido GAME OVER
 
-1. Sobre Robocop 3
-2. Notas del Proyecto
-3. Fallos Conocidos (o: Bugs que no son bugs)
-4. Instrucciones de Parcheo
-5. CrÈditos del Parche
-
------------------
-1. Sobre Robocop 3
------------------
-Version de game gear de la pelicula.
-
----------------------
-2. Notas del Proyecto
----------------------
-Esta traducciÛn y hacking es completamente original.
-
---------------------------------------------
-3. Fallos Conocidos (o: Bugs que no son bugs)
---------------------------------------------
-
-TambiÈn puedes contactar conmigo y ver mis traducciones en traduccioneswave.blogspot.com
-
----------------------------
-4. Instrucciones de Parcheo
----------------------------
-El parche est· en formato IPS, recomiendo usar LunarIPS.
+------------------------
+Instrucciones de Parcheo
+------------------------
+En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Robocop 3 (U) [!].gg
-262.144	bytes
-CRC32: 069a0704
+RoboCop 3 (World).gg
 MD5: ae7121e6ce2831e1b700515b6060acaf
 SHA1: 8de7c9ac95b734af9e3fbe5700ac4c6599799702
+CRC32: 069a0704
+262144 bytes
 
-----------------------
-5. CrÈditos del Parche
-----------------------
-Wave - Hacking y traducciÛn
+--------
+Cr√©ditos
+--------
+Wave - Hacking, traducci√≥n y pruebas.
 
--- END OF README --
+-- FIN --

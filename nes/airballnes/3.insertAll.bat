@@ -1,6 +1,6 @@
 @echo off
-set T_FILENAME="TR_Airball (Unknown) (Proto 2).nes"
-set S_FILENAME="Airball (Unknown) (Proto 2).nes"
+set T_FILENAME="TR_Airball (USA) (Aftermarket) (Unl).nes"
+set S_FILENAME="Airball (USA) (Aftermarket) (Unl).nes"
 set SCRIPTNAME="airballnes"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%

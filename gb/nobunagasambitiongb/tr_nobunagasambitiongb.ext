@@ -1,0 +1,804 @@
+@00001723-00001B35-FF
+;00001723{'1Please wait         ~FF~}#026#023
+'1Espera por favor    ~FF~#023
+;0000173A{0Press Any Button!~FF~}#022#019
+0 ¡Pulsa Un Botón!~FF~#019
+;0000174D{                 ~FF~}#021#018
+                 ~FF~#018
+;0000175F{20-1Which daimyo would~FF~}#026#023
+20-1¿Qué daimyo te    ~FF~#023
+;00001776{20.1you like to be?~FF~}#023#020
+20.1gustaría ser?  ~FF~#020
+;0000178A{20'01Please try again~FF~}#025#022
+20'01Vuelve a probar.~FF~#022
+;000017A0{01Is this OK?~FF~}#017#014
+01¿Correcto? ~FF~#014
+;000017AE{01Damage in your~FF~}#020#017
+01Daños en tu   ~FF~#017
+;000017BF{20'1territory¨~FF~}#018#015
+20'1región¨   ~FF~#015
+;000017CE{01An epidemic~FF~}#017#014
+01¡Epidemia  ~FF~#014
+;000017DC{20'1has struck!~FF~}#019#016
+20'1te asola!  ~FF~#016
+;000017EC{01A typhoon is~FF~}#018#015
+01Se acerca un~FF~#015
+;000017FB{20'1coming.~FF~}#015#012
+20'1tifón. ~FF~#012
+;00001807{01The harvest~FF~}#017#014
+01La cosecha ~FF~#014
+;00001815{20'1increased.~FF~}#018#015
+20'1ha subido.~FF~#015
+;00001824{020.1The people ~FF~}#020#017
+020.1La gente se~FF~#017
+;00001835{20'1will rejoice.~FF~}#021#018
+20'1regocijará.  ~FF~#018
+;00001847{01We had an~FF~}#015#012
+01¡Tuvimos ~FF~#012
+;00001853{20?1abundant~FF~}#016#013
+20?1una gran~FF~#013
+;00001860{20'1harvest!~FF~}#016#013
+20'1cosecha!~FF~#013
+;0000186D{01Fall has~FF~}#014#011
+01¡Otoño  ~FF~#011
+;00001878{20?1brought~FF~}#015#012
+20?1trajo  ~FF~#012
+;00001884{20'1famine!~FF~}#015#012
+20'1hambre!~FF~#012
+;00001890{01Uprising!~FF~}#015#012
+01¡Alzados!~FF~#012
+;0000189C{020-1People are rebelling~FF~}#029#026
+020-1La gente se rebela. ~FF~#026
+;000018B6{20.1Quell them?~FF~}#019#016
+20.1¿Pararlos? ~FF~#016
+;000018C6{01Quelled!~FF~}#014#011
+01¡Parado!~FF~#011
+;000018D1{01Success!~FF~}#014#011
+01¡Bien!  ~FF~#011
+;000018DC{01Uprising!~FF~}#015#012
+01¡Alzados!~FF~#012
+;000018E8{0F20?1has requested an~FF~}#026#023
+0F20?1solicitó una    ~FF~#023
+;000018FF{20'1audience with you.~FF~}#026#023
+20'1audiencia contigo.~FF~#023
+;00001916{020-1Accept him into~FF~}#024#021
+020-1¿Aceptarlo a tu~FF~#021
+;0000192B{20.1your service?~FF~}#021#018
+20.1servicio?    ~FF~#018
+;0000193D{0F20?1has joined~FF~}#020#017
+0F20?1se unió a ~FF~#017
+;0000194E{20'1your forces.~FF~}#020#017
+20'1tus fuerzas.~FF~#017
+;0000195F{0F20'1has left.~FF~}#019#016
+0F20'1se fue.  ~FF~#016
+;0000196F{01View which fief?~FF~}#022#019
+01¿Ver qué feudo? ~FF~#019
+;00001982{20'01Whom will you~FF~}#022#019
+20'01¿A quién     ~FF~#019
+;00001995{20'1appoint?~FF~}#016#013
+20'1designa?~FF~#013
+;000019A2{01He failed.~FF~}#016#013
+01Falló.    ~FF~#013
+;000019AF{01Someone searching~FF~}#023#020
+01Alguien busca en ~FF~#020
+;000019C3{20'1in your fief.~FF~}#021#018
+20'1tu feudo.    ~FF~#018
+;000019D5{01View which samurai?~FF~}#025#022
+01¿Ver qué samurai?  ~FF~#022
+;000019EB{01Attack which fief?~FF~}#024#021
+01¿Atacar qué feudo?~FF~#021
+;00001A00{20'01How many soldiers?~FF~}#027#024
+20'01¿Cuantos soldados?~FF~#024
+;00001A18{20'1(1-~FF~}#011#008
+20'1(1-~FF~#008
+;00001A20{71)?~FF~}#008#005
+71)?~FF~#005
+;00001A25{01How much food~FF~}#019#016
+01¿Qué cantidad~FF~#016
+;00001A35{20'1(1-~FF~}#011#008
+20'1(1-~FF~#008
+;00001A3D{71)?~FF~}#008#005
+71)?~FF~#005
+;00001A42{01Send whom to battle?~FF~}#026#023
+01¿Mandar a batalla a?~FF~#023
+;00001A59{20'1(START-Continue)~FF~}#024#021
+20'1(START-Seguir)  ~FF~#021
+;00001A6E{01How many soldiers~FF~}#023#020
+01¿Cuantos soldados~FF~#020
+;00001A82{20'1(1-~FF~}#011#008
+20'1(1-~FF~#008
+;00001A8A{71)?~FF~}#008#005
+71)?~FF~#005
+;00001A8F{020-1The skill level~FF~}#024#021
+020-1El nivel hábil ~FF~#021
+;00001AA4{20.1is now ~FF~}#015#012
+20.1es de  ~FF~#012
+;00001AB0{720'1Who shall train?~FF~}#025#022
+720'1¿Quién entrena? ~FF~#022
+;00001AC6{020-1Send ninja to which~FF~}#028#025
+020-1¿Enviar ninja a qué~FF~#025
+;00001ADF{20.1daimyo's fief?~FF~}#022#019
+20.1feudo daimyo? ~FF~#019
+;00001AF2{20'01Send whom?~FF~}#019#016
+20'01¿A quién? ~FF~#016
+;00001B02{01There are no~FF~}#018#015
+01No hay ni un~FF~#015
+;00001B11{20'1merchants.~FF~}#018#015
+20'1mercader. ~FF~#015
+;00001B20{01Sell how much rice?~FF~}#025#022
+01¿Cuanto arroz?     ~FF~#022
+|1043
+@00001B36-00001F3B-FF
+;00001B36{20'1(1-~FF~}#011#008
+20'1(1-~FF~#008
+;00001B3E{71)?~FF~}#008#005
+71)?~FF~#005
+;00001B43{01Buy how much rice?~FF~}#024#021
+01¿Cuanto arroz?    ~FF~#021
+;00001B58{20'1(1-~FF~}#011#008
+20'1(1-~FF~#008
+;00001B60{71)?~FF~}#008#005
+71)?~FF~#005
+;00001B65{020-1Arms%~FF~}#014#011
+020-1Arma%~FF~#011
+;00001B70{720.1Buy how many arms?~FF~}#027#024
+720.1¿Cuantas armas?   ~FF~#024
+;00001B88{20'1(1-~FF~}#011#008
+20'1(1-~FF~#008
+;00001B90{71)?~FF~}#008#005
+71)?~FF~#005
+;00001B95{01Borrow how much gold~FF~}#026#023
+01¿Sacar cuanto oro   ~FF~#023
+;00001BAC{20'1(1-~FF~}#011#008
+20'1(1-~FF~#008
+;00001BB4{71)?~FF~}#008#005
+71)?~FF~#005
+;00001BB9{01Whom will you~FF~}#019#016
+01¿A quién     ~FF~#016
+;00001BC9{20'1appoint?~FF~}#016#013
+20'1designa?~FF~#013
+;00001BD6{01Which daimyo?~FF~}#019#016
+01¿Qué daimyo? ~FF~#016
+;00001BE6{20'020'1proposes a marriage.~FF~}#032#029
+20'020'1propone matrimonio. ~FF~#029
+;00001C03{01Accept?~FF~}#013#010
+01¿Bien? ~FF~#010
+;00001C0D{020'1proposes an alliance.~FF~}#030#027
+020'1propone una alianza. ~FF~#027
+;00001C28{01Which samurai do you~FF~}#026#023
+01¿Qué samurai quiere ~FF~#023
+;00001C3F{20'1want to hire?~FF~}#021#018
+20'1contratar?   ~FF~#018
+;00001C51{01Which samurai will~FF~}#024#021
+01¿A qué samurai va ~FF~#021
+;00001C66{20'1you dismiss?~FF~}#020#017
+20'1a destituir?~FF~#017
+;00001C77{0F20'1was dismissed.~FF~}#024#021
+0F20'1destituido.   ~FF~#021
+;00001C8C{01You won the battle!~FF~}#025#022
+01¡Ganas la batalla! ~FF~#022
+;00001CA2{01You have been~FF~}#019#016
+01Has sido     ~FF~#016
+;00001CB2{20'1defeated.~FF~}#017#014
+20'1vencido. ~FF~#014
+;00001CC0{0H~C0~1 is the~FF~}#018#012
+0H~C0~1 ahora ~FF~#012
+;00001CCC{20'1new daimyo.~FF~}#019#016
+20'1es daimyo. ~FF~#016
+;00001CDC{01Oda Nobunaga died~FF~}#023#020
+01Oda Nobunaga cae ~FF~#020
+;00001CF0{20'1at Honnouji Temple.~FF~}#027#024
+20'1en Templo Honnouji.~FF~#024
+;00001D08{020-1Be Hashiba Hideyoshi~FF~}#029#026
+020-1¿Quieres ser Hashiba~FF~#026
+;00001D22{20.1and avenge~FF~}#018#015
+20.1Hideyoshi ~FF~#015
+;00001D31{20?1Nobunaga's defeat?~FF~}#026#023
+20?1y vengarlo?       ~FF~#023
+;00001D48{0H~C0~1 won.~FF~}#016#010
+0H~C0~1 gana~FF~#010
+;00001D52{0V,2121In ~FF~}#014#011
+0V,2121En ~FF~#011
+;00001D5D{ 1,~FF~}#007#004
+ 1,~FF~#004
+;00001D61{214F1's~FF~}#011#008
+214F1  ~FF~#008
+;00001D69{2161name was~FF~}#016#013
+2161name was~FF~#013
+;00001D76{2181revered throughout~FF~}#026#023
+2181revered throughout~FF~#023
+;00001D8D{21!1the land.~FF~}#017#014
+21!1tierra.  ~FF~#014
+;00001D9B{0V,2161In ~FF~}#014#011
+0V,2161En ~FF~#011
+;00001DA6{ 1,~FF~}#007#004
+ 1,~FF~#004
+;00001DAA{2181the ~FF~}#012#009
+2181el  ~FF~#009
+;00001DB3{H~C0~1 clan~FF~}#015#009
+H~C0~1 clan~FF~#009
+;00001DBC{21!1was destroyed.~FF~}#022#019
+21!1fue destruido.~FF~#019
+;00001DCF{0V,2141In ~FF~}#014#011
+0V,2141En ~FF~#011
+;00001DDA{ 1,~FF~}#007#004
+ 1,~FF~#004
+;00001DDE{2161you defeated~FF~}#020#017
+2161derrotaste a~FF~#017
+;00001DEF{218F1.~FF~}#010#007
+218F1.~FF~#007
+;00001DF6{0V,2141In ~FF~}#014#011
+0V,2141En ~FF~#011
+;00001E01{ 1,~FF~}#007#004
+ 1,~FF~#004
+;00001E05{216F2181died.~FF~}#017#014
+216F2181cayó.~FF~#014
+;00001E13{01Daimyo ~FF~}#013#010
+01Daimyo ~FF~#010
+;00001E1D{H~C0~1 has~FF~}#014#008
+H~C0~1    ~FF~#008
+;00001E25{20'1died.~FF~}#013#010
+20'1cae. ~FF~#010
+;00001E2F{0F20'1died of illness.~FF~}#026#023
+0F20'1muere enfermo.  ~FF~#023
+;00001E46{01Other daimyo's~FF~}#020#017
+01Tácticas otros~FF~#017
+;00001E57{20'1tactics~FF~}#015#012
+20'1daimyo.~FF~#012
+;00001E63{01There are no samurai~FF~}#026#023
+01No hay samurais.    ~FF~#023
+;00001E7A{01You have no men.~FF~}#022#019
+01Sin hombres.    ~FF~#019
+;00001E8D{01You don't have~FF~}#020#017
+01No tienes oro ~FF~#017
+;00001E9E{20'1enough gold.~FF~}#020#017
+20'1suficiente. ~FF~#017
+;00001EAF{01You don't have~FF~}#020#017
+01Sin suficiente~FF~#017
+;00001EC0{20'1enough rice.~FF~}#020#017
+20'1arroz.      ~FF~#017
+;00001ED1{01You cannot attack.~FF~}#024#021
+01No puedes atacar. ~FF~#021
+;00001EE6{01You are allied with~FF~}#025#022
+01Estás aliado con   ~FF~#022
+;00001EFC{20'1him.~FF~}#012#009
+20'1él. ~FF~#009
+;00001F05{01You are allied by~FF~}#023#020
+01Estás aliado por ~FF~#020
+;00001F19{20'1marriage.~FF~}#017#014
+20'1enlace.  ~FF~#014
+;00001F27{01You cannot do more~FF~}#024#021
+01No puedes hacer   ~FF~#021
+|1030
+@00001F3C-00001FCA-FF
+;00001F3C{20'1than this.~FF~}#018#015
+20'1más.      ~FF~#015
+;00001F4B{01There are no ronin.~FF~}#025#022
+01No hay ronins.     ~FF~#022
+;00001F61{01There are no samurai.~FF~}#027#024
+01No hay samurais.     ~FF~#024
+;00001F79{01There are no samurai.~FF~}#027#024
+01No hay samurais.     ~FF~#024
+;00001F91{01He doesn't have~FF~}#021#018
+01No tiene       ~FF~#018
+;00001FA3{20'1any princesses.~FF~}#023#020
+20'1princesas.     ~FF~#020
+;00001FB7{01There is no fief.~FF~}#023#020
+01No hay feudo.    ~FF~#020
+|143
+@000024E3-000024EA-FF
+;000024E3{Address~FF~}#011#008
+Direcc.~FF~#008
+|8
+@00002526-00002533-FF
+;00002526{'?1Yes~FF~}#010#007
+'?1Sí ~FF~#007
+;0000252D{2''1No~FF~}#010#007
+2''1No~FF~#007
+|14
+@00002543-0000254E-FF
+;00002543{'1Yes~FF~}#009#006
+'1Sí ~FF~#006
+;00002549{26'1No}#006#006
+26'1No#006
+|12
+@000026E7-00002787-FF
+;000026E7{01Who shall be the~FF~}#022#019
+01¿Quién será el  ~FF~#019
+;000026FA{20'1successor?~FF~}#018#015
+20'1sucessor? ~FF~#015
+;00002709{0F20?1Is this OK?~FF~}#021#018
+0F20?1¿Correcto? ~FF~#018
+;0000271B{0H~C0~1 was~FF~}#015#009
+0H~C0~1 fue~FF~#009
+;00002724{20?1succeeded by~FF~}#020#017
+20?1sucedido por~FF~#017
+;00002735{20'F1.~FF~}#010#007
+20'F1.~FF~#007
+;0000273C{01The princess has~FF~}#022#019
+01La princesa     ~FF~#019
+;0000274F{20'1died in ~FF~}#016#013
+20'1murió en~FF~#013
+;0000275C{H~C0~1.~FF~}#011#005
+H~C0~1.~FF~#005
+;00002761{01The princess from~FF~}#023#020
+01La princesa de   ~FF~#020
+;00002775{20'H~C0~1 has arrived~FF~}#025#019
+20'H~C0~1 ha llegado.~FF~#019
+|161
+@00002854-00002883-FF
+;00002854{20?1has come of age and~FF~}#027#024
+20?1es mayor de edad y ~FF~#024
+;0000286C{20'1joined your forces.~FF~}#027#024
+20'1se une a tu fuerza.~FF~#024
+|48
+@00002D81-00002DA7-FF
+;00002D81{1The ~FF~}#009#006
+1El  ~FF~#006
+;00002D87{H~C0~1 clan~FF~}#015#009
+H~C0~1 clan~FF~#009
+;00002D90{20'1has been destroyed.~FF~}#027#024
+20'1ha sido destruido. ~FF~#024
+|39
+@000037B6-00003818-FF
+;000037B6{8~98~Age     -~FF~}#018#012
+8~98~Edad    -~FF~#012
+;000037C2{y~98~Health  -~FF~}#018#012
+y~98~Salud   -~FF~#012
+;000037CE{~88~~98~IQ      -~FF~}#021#012
+~88~~98~CI      -~FF~#012
+;000037DA{~C8~~98~War     -~FF~}#021#012
+~C8~~98~Guerra  -~FF~#012
+;000037E6{8~99~Charisma-~FF~}#018#012
+8~99~Carisma -~FF~#012
+;000037F2{y~99~Ambition-~FF~}#018#012
+y~99~Ambición-~FF~#012
+;000037FE{~88~~99~Luck    -~FF~}#021#012
+~88~~99~Suerte  -~FF~#012
+;0000380A{Daimyo~FF~}#010#007
+Daimyo~FF~#007
+;00003811{Samurai~FF~}#011#008
+Samurai~FF~#008
+|99
+@00003B81-00003BC2-FF
+;00003B81{~C3~~6A~9Press Start Button~FF~}#031#022
+~C3~~6A~9Pulsa Botón Start ~FF~#022
+;00003B97{                  ~FF~}#022#019
+                  ~FF~#019
+;00003BAA{~A1~~99~Play again?~FF~}#023#014
+~A1~~99~¿Otra vez? ~FF~#014
+;00003BB8{~E4~~99~Yes~FF~}#015#006
+~E4~~99~Sí ~FF~#006
+;00003BBE{~ED~~99~No~FF~}#014#005
+~ED~~99~No~FF~#005
+|66
+@00003C6C-00003C90-FF
+;00003C6C{1Let's begin¨~FF~}#017#014
+1Empecemos¨  ~FF~#014
+;00003C7A{01(Command)~FF~}#015#012
+01(Comando)~FF~#012
+;00003C86{01(Battle)~FF~}#014#011
+01(Pelear)~FF~#011
+|37
+@0000483B-0000484A-FF
+;0000483B{~5B~y~61~y~6B~y~72~y~7B~y~86~y~91~y~98~y}#040#016
+~5B~~48~
+~61~~48~
+~6A~~48~
+~72~~48~
+~7B~~48~
+~86~~48~
+~91~~48~
+~98~~48~#016
+|16
+;0000485B{ View~FF~}#009#006
+;00004861{ Military~FF~}#013#010
+;0000486B{ Trade~FF~}#010#007
+;00004872{ Develop~FF~}#012#009
+;0000487B{ Diplomacy~FF~}#014#011
+;00004886{ Personnel~FF~}#014#011
+;00004891{ Other~FF~}#010#007
+;00004898{ Rest~FF~}#009#006
+@0000485B-0000489D-FF
+;0000485B{ View\ Military\ Trade\ Develop\ Diplomacy\ Personnel\ Other\ Rest\}#067#067
+ Mira\
+ Militar\
+ Cambia\
+ Crea   \
+ Diplomac.\
+ Personal \
+ Otros\
+ Desc\#067
+|67
+@00004A6A-00004A73-FF
+;00004A6A{~7A~~4A~~80~~4A~~89~~4A~~8F~~4A~~9A~~4A~}#040#010
+~7A~~4A~
+~81~~4A~
+~8A~~4A~
+~91~~4A~
+~9A~~4A~#010
+|10
+;00004A7A{ Fief~FF~}#009#006
+;00004A80{ Samurai~FF~}#012#009
+;00004A89{ Ally~FF~}#009#006
+;00004A8F{ Marriage~FF~}#013#010
+@00004A7A-00004A98-FF
+;00004A7A{ Fief\ Samurai\ Ally\ Marriage\}#031#031
+ Feudo\
+ Samurai\
+ Aliar\
+ Enlace\#031
+|31
+@00004BB5-00004BC5-FF
+;00004BB5{ Daimyo~FF~}#011#008
+ Daimyo~FF~#008
+;00004BBD{ Samurai~FF~}#012#009
+ Samurai~FF~#009
+|17
+@00004CB0-00004CCB-FF
+;00004CB0{ War~FF~}#008#005
+ Gu.~FF~#005
+;00004CB5{ Recruit~FF~}#012#009
+ Recluta~FF~#009
+;00004CBE{ Train~FF~}#010#007
+ Entr.~FF~#007
+;00004CC5{ Ninja~FF~}#010#007
+ Ninja~FF~#007
+|28
+@00004FBE-00004FDA-FF
+;00004FBE{1The skill level~FF~}#020#017
+1El nivel hábil ~FF~#017
+;00004FCF{20'1is now ~FF~}#015#012
+20'1es de  ~FF~#012
+|29
+@000050D3-000050F7-FF
+;000050D3{ Sell rice~FF~}#014#011
+ V. arroz ~FF~#011
+;000050DE{ Buy rice~FF~}#013#010
+ C. arroz~FF~#010
+;000050E8{ Buy arms~FF~}#013#010
+ C. armas~FF~#010
+;000050F2{ Loan~FF~}#009#006
+ Prst~FF~#006
+|37
+@00005333-0000534A-FF
+;00005333{1Arms level is~FF~}#018#015
+1Nivel armas  ~FF~#015
+;00005342{20'1now ~FF~}#012#009
+20'1es  ~FF~#009
+|24
+@00005473-00005493-FF
+;00005473{ Land~FF~}#009#006
+ Tie.~FF~#006
+;00005479{ Flood~FF~}#010#007
+ Inun.~FF~#007
+;00005480{ Town~FF~}#009#006
+ Ciu.~FF~#006
+;00005486{ Castle~FF~}#011#008
+ Casti.~FF~#008
+;0000548E{ Give~FF~}#009#006
+ Dar ~FF~#006
+|33
+@00005575-00005580-FF
+;00005575{ Gold~FF~}#009#006
+ Oro ~FF~#006
+;0000557B{ Rice~FF~}#009#006
+ ~53~~54~~55~ ~FF~#006
+|12
+@00005695-000056A4-FF
+;00005695{ Marriage~FF~}#013#010
+ Enlace  ~FF~#010
+;0000569F{ Ally~FF~}#009#006
+ Alía~FF~#006
+|16
+@00005913-0000592D-FF
+;00005913{1's lord~FF~}#012#009
+1 señor ~FF~#009
+;0000591C{20?F0H~C0~1's vassal~FF~}#024#018
+20?F0H~C0~1 vasallo ~FF~#018
+|27
+@0000594D-0000595B-FF
+;0000594D{ Hire~FF~}#009#006
+ Cntr~FF~#006
+;00005953{ Dismiss~FF~}#012#009
+ Despide~FF~#009
+|15
+@00005AE3-00005B07-FF
+;00005AE3{ Wait~FF~}#009#006
+ Esp.~FF~#006
+;00005AE9{ Sound~FF~}#010#007
+ Audio~FF~#007
+;00005AF0{ Animation~FF~}#014#011
+ Animación~FF~#011
+;00005AFB{ Save game~FF~}#014#011
+ Salvar   ~FF~#011
+;00005B06{0~FA~}#005#002
+0~FA~#002
+|37
+@00005B6D-00005BAE-FF
+;00005B6D{20-1Message display time~FF~}#028#025
+20-1Tiempo de mensaje   ~FF~#025
+;00005B86{20.1set at ~FF~}#015#012
+20.1en     ~FF~#012
+;00005B92{81d~FF~}#007#004
+81d~FF~#004
+;00005B96{20'1 1 2 3 4 5 6~FF~}#020#017
+20'1 1 2 3 4 5 6~FF~#017
+;00005BA7{0Lv~5C~~CD~~C0~N~FA~}#020#008
+0Lv~5C~~CD~~C0~N~FA~#008
+|66
+@00005C44-00005C4F-FF
+;00005C44{~C9~1Sound is ~FF~}#018#012
+~C9~1Audio es ~FF~#012
+|12
+@00005CB5-00005CC4-FF
+;00005CB5{~C9~1Animation is ~FF~}#022#016
+~C9~1Animación es ~FF~#016
+|16
+@00005D74-00005DF7-FF
+;00005D74{1Save to what number?~FF~}#025#022
+1¿Salvar a al número?~FF~#022
+;00005D8A{21?11.    2.    3.~FF~}#022#019
+21?11.    2.    3.~FF~#019
+;00005D9D{03'1----~FF~}#012#009
+03'1----~FF~#009
+;00005DA6{03' 01Is this OK?~FF~}#021#018
+03' 01¿Correcto? ~FF~#018
+;00005DB8{01Game is saved.~FF~}#020#017
+01Juego salvado.~FF~#017
+;00005DC9{03?1~4B~~FF~}#012#006
+03?1~4B~~FF~#006
+;00005DCF{03?1 ~FF~}#009#006
+03?1 ~FF~#006
+;00005DD5{020'1 ON   OFF~FF~}#018#015
+020'1 Sí   No ~FF~#015
+;00005DE4{03'1~4B~~FF~}#012#006
+03'1~4B~~FF~#006
+;00005DEA{03'1 ~FF~}#009#006
+03'1 ~FF~#006
+;00005DF0{0ON~FF~}#007#004
+0Sí~FF~#004
+;00005DF4{OFF~FF~}#007#004
+No ~FF~#004
+|132
+@0000625E-00006367-FF
+;0000625E{01Civil war has~FF~}#019#016
+01Surge guerra ~FF~#016
+;0000626E{20?1broken out~FF~}#018#015
+20?1civil     ~FF~#015
+;0000627D{20'1in ~FF~}#011#008
+20'1en ~FF~#008
+;00006285{H~C0~1's.~FF~}#013#007
+H~C0~1.  ~FF~#007
+;0000628C{020-Q20.R20?1has led~FF~}#024#021
+020-Q20.R20?1dirige ~FF~#021
+;000062A1{20'1a rebellion.~FF~}#020#017
+20'1rebelión.   ~FF~#017
+;000062B2{01Your ally ~FF~}#016#013
+01Tu aliado ~FF~#013
+;000062BF{H~C0~20'1has captured it.~FF~}#029#023
+H~C0~20'1lo ha capturado.~FF~#023
+;000062D6{01Will you fight?~FF~}#021#018
+01¿Vas a pelear? ~FF~#018
+;000062E8{01Break the alliance?~FF~}#025#022
+01¿Romper la alianza?~FF~#022
+;000062FE{0H~C0~1 is~FF~}#014#008
+0H~C0~1   ~FF~#008
+;00006306{20'1attacking ~FF~}#018#015
+20'1ataca a   ~FF~#015
+;00006315{H~C8~1!~FF~}#011#005
+H~C8~1!~FF~#005
+;0000631A{0H~C0~1 is~FF~}#014#008
+0H~C0~1   ~FF~#008
+;00006322{20'1attacking you!~FF~}#022#019
+20'1te ataca!     ~FF~#019
+;00006335{020-1Your marriage ally~FF~}#027#024
+020-1Aliado matrimonial~FF~#024
+;0000634D{20?H~C0~1 has~FF~}#017#011
+20?H~C0~1 lo ~FF~#011
+;00006358{20'1captured it.}#016#016
+20'1capturó.    #016
+|266
+@0000654F-00006561-FF
+;0000654F{1Who will command?~FF~}#022#019
+1¿Quién dirigirá? ~FF~#019
+|19
+@0000675E-0000679F-FF
+;0000675E{20?1has chosen~FF~}#018#015
+20?1ha elegido~FF~#015
+;0000676D{20'1death over shame.~FF~}#025#022
+20'1morir a deshonra.~FF~#022
+;00006783{0H~C0~1 surrendered~FF~}#023#017
+0H~C0~1 se rindió  ~FF~#017
+;00006794{20'1to you.~FF~}#015#012
+20'1a ti.  ~FF~#012
+|66
+@000069ED-00006AC8-FF
+;000069ED{1What do you wish to~FF~}#024#021
+1¿Qué quieres hacer ~FF~#021
+;00006A02{20?1do with our prisoner~FF~}#028#025
+20?1con tu prisionero   ~FF~#025
+;00006A1B{20'F1?~FF~}#010#007
+20'F1?~FF~#007
+;00006A22{01 Behead  Hire  Free~FF~}#025#022
+01 Mata    Une   Deja~FF~#022
+;00006A38{03.1~4B~~FF~}#012#006
+03.1~4B~~FF~#006
+;00006A3E{03.1 ~FF~}#009#006
+03.1 ~FF~#006
+;00006A44{0F20'1refused to join you.~FF~}#030#027
+0F20'1rehusó unírsete.    ~FF~#027
+;00006A5F{0F20'1surrendered to you.~FF~}#029#026
+0F20'1se rindió a ti.    ~FF~#026
+;00006A79{0F20?1has joined~FF~}#020#017
+0F20?1se unió a ~FF~#017
+;00006A8A{20'1your forces.~FF~}#020#017
+20'1tus fuerzas.~FF~#017
+;00006A9B{0F20'1died in battle.~FF~}#025#022
+0F20'1murió peleando.~FF~#022
+;00006AB1{0F20'1was freed by you.~FF~}#027#024
+0F20'1ha sido liberado.~FF~#024
+|220
+@00006D31-00006D72-FF
+;00006D31{1Who will command?~FF~}#022#019
+1¿Quién dirigirá? ~FF~#019
+;00006D44{20'1(~FF~}#009#006
+20'1(~FF~#006
+;00006D4A{01Who will command~FF~}#022#019
+01¿Quién dirige la~FF~#019
+;00006D5D{20'1unit~FF~}#012#009
+20'1ud. ~FF~#009
+;00006D66{81(~FF~}#007#004
+81(~FF~#004
+;00006D6A{01)~FF~}#007#004
+01)~FF~#004
+;00006D6E{01)?~FF~}#008#005
+01)?~FF~#005
+|66
+@00006D7A-00006D90-FF
+;00006D7A{Infantry~FF~}#012#009
+Milicia ~FF~#009
+;00006D83{Cavalry~FF~}#011#008
+Caballo~FF~#008
+;00006D8B{Rifle~FF~}#009#006
+Rifle~FF~#006
+|23
+@00007259-0000726B-FF
+;00007259{2)E1Flee~FF~}#012#009
+2)E1
+Huir~FF~#009
+;00007262{2)G1Bribe~FF~}#013#010
+2)G1
+Pagar~FF~#010
+|19
+@000073B7-000073E2-FF
+;000073B7{02-F1Mor~FF~}#012#009
+02-F1Mor~FF~#009
+;000073C0{!2-G1Men~FF~}#012#009
+!2-G1Hmb~FF~#009
+;000073C9{!2 GP02 E1Which~FF~}#019#016
+!2 GP02 E1¿Qué ~FF~#016
+;000073D9{2 G1unit?~FF~}#013#010
+2 G1ud.? ~FF~#010
+|44
+@00007466-00007477-FF
+;00007466{u~9B~~59~~5A~~5B~~FF~}#021#006
+u~9B~Oro~FF~#006
+;0000746C{~64~~9B~~53~~54~~55~~FF~}#024#006
+~64~~9B~~53~~54~~55~~FF~#006
+;00007472{~84~~9B~Men~FF~}#015#006
+~84~~9B~Hmb~FF~#006
+|18
+@000074BE-000074E4-FF
+;000074BE{1Is this~FF~}#012#009
+1¿Es    ~FF~#009
+;000074C7{2 D1all right?~FF~}#018#015
+2 D1correcto? ~FF~#015
+;000074D6{2)F1Yes~FF~}#011#008
+2)F1Sí ~FF~#008
+;000074DE{2)G1No~FF~}#010#007
+2)G1No~FF~#007
+|39
+@00007667-0000768E-FF
+;00007667{M2-D1Mor~FF~}#012#009
+M2-D1Mor~FF~#009
+;00007670{!2-E1Men~FF~}#012#009
+!2-E1Hmb~FF~#009
+;00007679{!2 EP2-F1Mor~FF~}#016#013
+!2 EP2-F1Mor~FF~#013
+;00007686{!2-G1Men~FF~}#012#009
+!2-G1Hmb~FF~#009
+|40
+@00007A14-00007A30-FF
+;00007A14{~C9~M2 E1Failure~FF~}#020#014
+~C9~M2 E1
+Fracaso~FF~#014
+;00007A22{0M2 E1Success!~FF~}#018#015
+0M2 E1
+¡Bien!  ~FF~#015
+|29
+@000192EF-000192F9-FF
+;000192EF{~C2~~99~New Game~FF~}#020#011
+~C2~~99~
+Empezar ~FF~#011
+|11
+@000193F6-00019482-FF
+;000193F6{N(24-1Game Level?~FF~}#021#018
+N(24-1¿Qué Nivel?~FF~#018
+;00019408{26?11   2   3~FF~}#017#014
+26?11   2   3~FF~#014
+;00019416{24'1(Low    High)~FF~}#021#018
+24'1(Bajo   Alto)~FF~#018
+;00019428{0(25-1War mode?~FF~}#019#016
+0(25-1¿Guerra? ~FF~#016
+;00019438{24?1Manual Auto~FF~}#019#016
+24?1Manual Auto~FF~#016
+;00019448{0(23-1Player  ~FF~}#018#015
+0(23-1Jugador ~FF~#015
+;00019457{823.1Level   ~FF~}#017#014
+823.1Nivel   ~FF~#014
+;00019465{823?1War     ~FF~}#017#014
+823?1Guerra  ~FF~#014
+;00019473{01Manual~FF~}#012#009
+01Manual~FF~#009
+;0001947C{01Auto~FF~}#010#007
+01Auto~FF~#007
+|141
+@000195A7-000195EC-FF
+;000195A7{2821Health  -~FF~}#017#014
+2821Salud   -~FF~#014
+;000195B5{2841IQ      -~FF~}#017#014
+2841CI      -~FF~#014
+;000195C3{2861War     -~FF~}#017#014
+2861Guerra  -~FF~#014
+;000195D1{2881Charisma-~FF~}#017#014
+2881Carisma -~FF~#014
+;000195DF{28!1Ambition-~FF~}#017#014
+28!1Ambición-~FF~#014
+|70
+@00019C50-00019C60-FF
+;00019C50{ ~50~~51~~52~ ~53~~54~~55~ Men ~56~~57~~58~~FF~}#047#017
+ ~50~~51~~52~ ~53~~54~~55~ Hmb ~56~~57~~58~~FF~#017
+|17
+@00019F91-00019FCB-FF
+;00019F91{0Uprising~FF~}#013#010
+0Rebelión~FF~#010
+;00019F9B{0Famine~FF~}#011#008
+0Hambre~FF~#008
+;00019FA3{0Epidemic~FF~}#013#010
+0Epidemia~FF~#010
+;00019FAD{0Good crop~FF~}#014#011
+0Cosechas ~FF~#011
+;00019FB8{0Typhoon~FF~}#012#009
+0Tifón  ~FF~#009
+;00019FC1{0Civil war~FF~}#014#011
+0G. Civil ~FF~#011
+|59
+@0001A007-0001A01E-FF
+;0001A007{~C9~Spng~FF~}#012#006
+~C9~Pmvr~FF~#006
+;0001A00D{0Smmr~FF~}#009#006
+0Vrno~FF~#006
+;0001A013{0Atmn~FF~}#009#006
+0Otño~FF~#006
+;0001A019{0Wntr~FF~}#009#006
+0Invn~FF~#006
+|24
+@0001A481-0001A4FB-FF
+;0001A481{~83~~99~KOEI PRESENTS~FF~}#025#016
+~83~~99~KOEI PRESENTA~FF~#016
+;0001A491{~C2~~98~HISTORY~FF~}#019#010
+~C2~~98~JUEGO  ~FF~#010
+;0001A49B{~E2~~98~SIMULATION GAME~FF~}#027#018
+~E2~~98~SIMU. HISTóRICA~FF~#018
+;0001A4AD{z~99~A~FF~}#010#004
+z~99~ ~FF~#004
+;0001A4B1{~83~~99~KOU SHIBUSAWA~FF~}#025#016
+~83~~99~KOU SHIBUSAWA~FF~#016
+;0001A4C1{~C5~~99~PRODUCTION~FF~}#022#013
+~C5~~99~ PRODUCE  ~FF~#013
+;0001A4CE{~C0~~99~   1 Play  2 Play   ~FF~}#032#023
+~C0~~99~   1 Jgdr  2 Jgdrs  ~FF~#023
+;0001A4E5{~C0~~99~LICENSED BY NINTENDO~FF~}#032#023
+~C0~~99~LICENCIA DE NINTENDO~FF~#023
+|123

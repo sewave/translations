@@ -1,0 +1,200 @@
+@00001723-00001B35-FF
+;00001723{'1Please wait         \0Press Any Button!\                 \20-1Which daimyo would\20.1you like to be?\20'01Please try again\01Is this OK?\01Damage in your\20'1territory¨\01An epidemic\20'1has struck!\01A typhoon is\20'1coming.\01The harvest\20'1increased.\020.1The people \20'1will rejoice.\01We had an\20?1abundant\20'1harvest!\01Fall has\20?1brought\20'1famine!\01Uprising!\020-1People are rebelling\20.1Quell them?\01Quelled!\01Success!\01Uprising!\0F20?1has requested an\20'1audience with you.\020-1Accept him into\20.1your service?\0F20?1has joined\20'1your forces.\0F20'1has left.\01View which fief?\20'01Whom will you\20'1appoint?\01He failed.\01Someone searching\20'1in your fief.\01View which samurai?\01Attack which fief?\20'01How many soldiers?\20'1(1-\71)?\01How much food\20'1(1-\71)?\01Send whom to battle?\20'1(START-Continue)\01How many soldiers\20'1(1-\71)?\020-1The skill level\20.1is now \720'1Who shall train?\020-1Send ninja to which\20.1daimyo's fief?\20'01Send whom?\01There are no\20'1merchants.\01Sell how much rice?\}#1043#1043
+'1Please wait         \0Press Any Button!\                 \20-1Which daimyo would\20.1you like to be?\20'01Please try again\01Is this OK?\01Damage in your\20'1territory¨\01An epidemic\20'1has struck!\01A typhoon is\20'1coming.\01The harvest\20'1increased.\020.1The people \20'1will rejoice.\01We had an\20?1abundant\20'1harvest!\01Fall has\20?1brought\20'1famine!\01Uprising!\020-1People are rebelling\20.1Quell them?\01Quelled!\01Success!\01Uprising!\0F20?1has requested an\20'1audience with you.\020-1Accept him into\20.1your service?\0F20?1has joined\20'1your forces.\0F20'1has left.\01View which fief?\20'01Whom will you\20'1appoint?\01He failed.\01Someone searching\20'1in your fief.\01View which samurai?\01Attack which fief?\20'01How many soldiers?\20'1(1-\71)?\01How much food\20'1(1-\71)?\01Send whom to battle?\20'1(START-Continue)\01How many soldiers\20'1(1-\71)?\020-1The skill level\20.1is now \720'1Who shall train?\020-1Send ninja to which\20.1daimyo's fief?\20'01Send whom?\01There are no\20'1merchants.\01Sell how much rice?\#1043
+|1043
+@00001B36-00001F3B-FF
+;00001B36{20'1(1-\71)?\01Buy how much rice?\20'1(1-\71)?\020-1Arms%\720.1Buy how many arms?\20'1(1-\71)?\01Borrow how much gold\20'1(1-\71)?\01Whom will you\20'1appoint?\01Which daimyo?\20'020'1proposes a marriage.\01Accept?\020'1proposes an alliance.\01Which samurai do you\20'1want to hire?\01Which samurai will\20'1you dismiss?\0F20'1was dismissed.\01You won the battle!\01You have been\20'1defeated.\0H~C0~1 is the\20'1new daimyo.\01Oda Nobunaga died\20'1at Honnouji Temple.\020-1Be Hashiba Hideyoshi\20.1and avenge\20?1Nobunaga's defeat?\0H~C0~1 won.\0V,2121In \ 1,\214F1's\2161name was\2181revered throughout\21!1the land.\0V,2161In \ 1,\2181the \H~C0~1 clan\21!1was destroyed.\0V,2141In \ 1,\2161you defeated\218F1.\0V,2141In \ 1,\216F2181died.\01Daimyo \H~C0~1 has\20'1died.\0F20'1died of illness.\01Other daimyo's\20'1tactics\01There are no samurai\01You have no men.\01You don't have\20'1enough gold.\01You don't have\20'1enough rice.\01You cannot attack.\01You are allied with\20'1him.\01You are allied by\20'1marriage.\01You cannot do more\}#1042#1030
+20'1(1-\71)?\01Buy how much rice?\20'1(1-\71)?\020-1Arms%\720.1Buy how many arms?\20'1(1-\71)?\01Borrow how much gold\20'1(1-\71)?\01Whom will you\20'1appoint?\01Which daimyo?\20'020'1proposes a marriage.\01Accept?\020'1proposes an alliance.\01Which samurai do you\20'1want to hire?\01Which samurai will\20'1you dismiss?\0F20'1was dismissed.\01You won the battle!\01You have been\20'1defeated.\0H~C0~1 is the\20'1new daimyo.\01Oda Nobunaga died\20'1at Honnouji Temple.\020-1Be Hashiba Hideyoshi\20.1and avenge\20?1Nobunaga's defeat?\0H~C0~1 won.\0V,2121In \ 1,\214F1's\2161name was\2181revered throughout\21!1the land.\0V,2161In \ 1,\2181the \H~C0~1 clan\21!1was destroyed.\0V,2141In \ 1,\2161you defeated\218F1.\0V,2141In \ 1,\216F2181died.\01Daimyo \H~C0~1 has\20'1died.\0F20'1died of illness.\01Other daimyo's\20'1tactics\01There are no samurai\01You have no men.\01You don't have\20'1enough gold.\01You don't have\20'1enough rice.\01You cannot attack.\01You are allied with\20'1him.\01You are allied by\20'1marriage.\01You cannot do more\#1030
+|1030
+@00001F3C-00001FCA-FF
+;00001F3C{20'1than this.\01There are no ronin.\01There are no samurai.\01There are no samurai.\01He doesn't have\20'1any princesses.\01There is no fief.\}#143#143
+20'1than this.\01There are no ronin.\01There are no samurai.\01There are no samurai.\01He doesn't have\20'1any princesses.\01There is no fief.\#143
+|143
+@000024E3-000024EA-FF
+;000024E3{Address\}#008#008
+Address\#008
+|8
+@00002526-00002533-FF
+;00002526{'?1Yes\2''1No\}#014#014
+'?1Yes\2''1No\#014
+|14
+@00002543-0000254E-FF
+;00002543{'1Yes\26'1No}#012#012
+'1Yes\26'1No#012
+|12
+@000026E7-00002787-FF
+;000026E7{01Who shall be the\20'1successor?\0F20?1Is this OK?\0H~C0~1 was\20?1succeeded by\20'F1.\01The princess has\20'1died in \H~C0~1.\01The princess from\20'H~C0~1 has arrived\}#170#161
+01Who shall be the\20'1successor?\0F20?1Is this OK?\0H~C0~1 was\20?1succeeded by\20'F1.\01The princess has\20'1died in \H~C0~1.\01The princess from\20'H~C0~1 has arrived\#161
+|161
+@00002854-00002883-FF
+;00002854{20?1has come of age and\20'1joined your forces.\}#048#048
+20?1has come of age and\20'1joined your forces.\#048
+|48
+@00002D81-00002DA7-FF
+;00002D81{1The \H~C0~1 clan\20'1has been destroyed.\}#042#039
+1The \H~C0~1 clan\20'1has been destroyed.\#039
+|39
+@000037B6-00003818-FF
+;000037B6{8~98~Age     -\y~98~Health  -\~88~~98~IQ      -\~C8~~98~War     -\8~99~Charisma-\y~99~Ambition-\~88~~99~Luck    -\Daimyo\Samurai\}#129#099
+8~98~Age     -\y~98~Health  -\~88~~98~IQ      -\~C8~~98~War     -\8~99~Charisma-\y~99~Ambition-\~88~~99~Luck    -\Daimyo\Samurai\#099
+|99
+@00003B81-00003BC2-FF
+;00003B81{~C3~~6A~9Press Start Button\                  \~A1~~99~Play again?\~E4~~99~Yes\~ED~~99~No\}#090#066
+~C3~~6A~9Press Start Button\                  \~A1~~99~Play again?\~E4~~99~Yes\~ED~~99~No\#066
+|66
+@00003C6C-00003C90-FF
+;00003C6C{1Let's begin¨\01(Command)\01(Battle)\}#037#037
+1Let's begin¨\01(Command)\01(Battle)\#037
+|37
+@0000483B-0000484A-FF
+;0000483B{~5B~y~61~y~6B~y~72~y~7B~y~86~y~91~y~98~y}#040#016
+~5B~y~61~y~6B~y~72~y~7B~y~86~y~91~y~98~y#016
+|16
+@0000485B-0000489D-FF
+;0000485B{ View\ Military\ Trade\ Develop\ Diplomacy\ Personnel\ Other\ Rest\}#067#067
+ View\ Military\ Trade\ Develop\ Diplomacy\ Personnel\ Other\ Rest\#067
+|67
+@00004A6A-00004A73-FF
+;00004A6A{~7A~~4A~~80~~4A~~89~~4A~~8F~~4A~~9A~~4A~}#040#010
+~7A~~4A~~80~~4A~~89~~4A~~8F~~4A~~9A~~4A~#010
+|10
+@00004A7A-00004A98-FF
+;00004A7A{ Fief\ Samurai\ Ally\ Marriage\}#031#031
+ Fief\ Samurai\ Ally\ Marriage\#031
+|31
+@00004BB5-00004BC5-FF
+;00004BB5{ Daimyo\ Samurai\}#017#017
+ Daimyo\ Samurai\#017
+|17
+@00004CB0-00004CCB-FF
+;00004CB0{ War\ Recruit\ Train\ Ninja\}#028#028
+ War\ Recruit\ Train\ Ninja\#028
+|28
+@00004FBE-00004FDA-FF
+;00004FBE{1The skill level\20'1is now \}#029#029
+1The skill level\20'1is now \#029
+|29
+@000050D3-000050F7-FF
+;000050D3{ Sell rice\ Buy rice\ Buy arms\ Loan\}#037#037
+ Sell rice\ Buy rice\ Buy arms\ Loan\#037
+|37
+@00005333-0000534A-FF
+;00005333{1Arms level is\20'1now \}#024#024
+1Arms level is\20'1now \#024
+|24
+@00005473-00005493-FF
+;00005473{ Land\ Flood\ Town\ Castle\ Give\}#033#033
+ Land\ Flood\ Town\ Castle\ Give\#033
+|33
+@00005575-00005580-FF
+;00005575{ Gold\ Rice\}#012#012
+ Gold\ Rice\#012
+|12
+@00005695-000056A4-FF
+;00005695{ Marriage\ Ally\}#016#016
+ Marriage\ Ally\#016
+|16
+@00005913-0000592D-FF
+;00005913{1's lord\20?F0H~C0~1's vassal\}#030#027
+1's lord\20?F0H~C0~1's vassal\#027
+|27
+@0000594D-0000595B-FF
+;0000594D{ Hire\ Dismiss\}#015#015
+ Hire\ Dismiss\#015
+|15
+@00005AE3-00005B07-FF
+;00005AE3{ Wait\ Sound\ Animation\ Save game\0~FA~}#040#037
+ Wait\ Sound\ Animation\ Save game\0~FA~#037
+|37
+@00005B6D-00005BAE-FF
+;00005B6D{20-1Message display time\20.1set at \81d\20'1 1 2 3 4 5 6\0Lv~5C~~CD~~C0~N~FA~}#078#066
+20-1Message display time\20.1set at \81d\20'1 1 2 3 4 5 6\0Lv~5C~~CD~~C0~N~FA~#066
+|66
+@00005C44-00005C4F-FF
+;00005C44{~C9~1Sound is \}#015#012
+~C9~1Sound is \#012
+|12
+@00005CB5-00005CC4-FF
+;00005CB5{~C9~1Animation is \}#019#016
+~C9~1Animation is \#016
+|16
+@00005D74-00005DF7-FF
+;00005D74{1Save to what number?\21?11.    2.    3.\03'1----\03' 01Is this OK?\01Game is saved.\03?1~4B~\03?1 \020'1 ON   OFF\03'1~4B~\03'1 \0ON\OFF\}#138#132
+1Save to what number?\21?11.    2.    3.\03'1----\03' 01Is this OK?\01Game is saved.\03?1~4B~\03?1 \020'1 ON   OFF\03'1~4B~\03'1 \0ON\OFF\#132
+|132
+@0000625E-00006367-FF
+;0000625E{01Civil war has\20?1broken out\20'1in \H~C0~1's.\020-Q20.R20?1has led\20'1a rebellion.\01Your ally \H~C0~20'1has captured it.\01Will you fight?\01Break the alliance?\0H~C0~1 is\20'1attacking \H~C8~1!\0H~C0~1 is\20'1attacking you!\020-1Your marriage ally\20?H~C0~1 has\20'1captured it.}#284#266
+01Civil war has\20?1broken out\20'1in \H~C0~1's.\020-Q20.R20?1has led\20'1a rebellion.\01Your ally \H~C0~20'1has captured it.\01Will you fight?\01Break the alliance?\0H~C0~1 is\20'1attacking \H~C8~1!\0H~C0~1 is\20'1attacking you!\020-1Your marriage ally\20?H~C0~1 has\20'1captured it.#266
+|266
+@0000654F-00006561-FF
+;0000654F{1Who will command?\}#019#019
+1Who will command?\#019
+|19
+@0000675E-0000679F-FF
+;0000675E{20?1has chosen\20'1death over shame.\0H~C0~1 surrendered\20'1to you.\}#069#066
+20?1has chosen\20'1death over shame.\0H~C0~1 surrendered\20'1to you.\#066
+|66
+@000069ED-00006AC8-FF
+;000069ED{1What do you wish to\20?1do with our prisoner\20'F1?\01 Behead  Hire  Free\03.1~4B~\03.1 \0F20'1refused to join you.\0F20'1surrendered to you.\0F20?1has joined\20'1your forces.\0F20'1died in battle.\0F20'1was freed by you.\}#223#220
+1What do you wish to\20?1do with our prisoner\20'F1?\01 Behead  Hire  Free\03.1~4B~\03.1 \0F20'1refused to join you.\0F20'1surrendered to you.\0F20?1has joined\20'1your forces.\0F20'1died in battle.\0F20'1was freed by you.\#220
+|220
+@00006D31-00006D72-FF
+;00006D31{1Who will command?\20'1(\01Who will command\20'1unit\81(\01)\01)?\}#066#066
+1Who will command?\20'1(\01Who will command\20'1unit\81(\01)\01)?\#066
+|66
+@00006D7A-00006D90-FF
+;00006D7A{Infantry\Cavalry\Rifle\}#023#023
+Infantry\Cavalry\Rifle\#023
+|23
+@00007259-0000726B-FF
+;00007259{2)E1Flee\2)G1Bribe\}#019#019
+2)E1Flee\2)G1Bribe\#019
+|19
+@000073B7-000073E2-FF
+;000073B7{02-F1Mor\!2-G1Men\!2 GP02 E1Which\2 G1unit?\}#044#044
+02-F1Mor\!2-G1Men\!2 GP02 E1Which\2 G1unit?\#044
+|44
+@00007466-00007477-FF
+;00007466{u~9B~~59~~5A~~5B~\~64~~9B~~53~~54~~55~\~84~~9B~Men\}#051#018
+u~9B~~59~~5A~~5B~\~64~~9B~~53~~54~~55~\~84~~9B~Men\#018
+|18
+@000074BE-000074E4-FF
+;000074BE{1Is this\2 D1all right?\2)F1Yes\2)G1No\}#039#039
+1Is this\2 D1all right?\2)F1Yes\2)G1No\#039
+|39
+@00007667-0000768E-FF
+;00007667{M2-D1Mor\!2-E1Men\!2 EP2-F1Mor\!2-G1Men\}#040#040
+M2-D1Mor\!2-E1Men\!2 EP2-F1Mor\!2-G1Men\#040
+|40
+@00007A14-00007A30-FF
+;00007A14{~C9~M2 E1Failure\0M2 E1Success!\}#032#029
+~C9~M2 E1Failure\0M2 E1Success!\#029
+|29
+@000192EF-000192F9-FF
+;000192EF{~C2~~99~New Game\}#017#011
+~C2~~99~New Game\#011
+|11
+@000193F6-00019482-FF
+;000193F6{N(24-1Game Level?\26?11   2   3\24'1(Low    High)\0(25-1War mode?\24?1Manual Auto\0(23-1Player  \823.1Level   \823?1War     \01Manual\01Auto\}#141#141
+N(24-1Game Level?\26?11   2   3\24'1(Low    High)\0(25-1War mode?\24?1Manual Auto\0(23-1Player  \823.1Level   \823?1War     \01Manual\01Auto\#141
+|141
+@000195A7-000195EC-FF
+;000195A7{2821Health  -\2841IQ      -\2861War     -\2881Charisma-\28!1Ambition-\}#070#070
+2821Health  -\2841IQ      -\2861War     -\2881Charisma-\28!1Ambition-\#070
+|70
+@00019C50-00019C60-FF
+;00019C50{ ~50~~51~~52~ ~53~~54~~55~ Men ~56~~57~~58~\}#044#017
+ ~50~~51~~52~ ~53~~54~~55~ Men ~56~~57~~58~\#017
+|17
+@00019F91-00019FCB-FF
+;00019F91{0Uprising\0Famine\0Epidemic\0Good crop\0Typhoon\0Civil war\}#059#059
+0Uprising\0Famine\0Epidemic\0Good crop\0Typhoon\0Civil war\#059
+|59
+@0001A007-0001A01E-FF
+;0001A007{~C9~Spng\0Smmr\0Atmn\0Wntr\}#027#024
+~C9~Spng\0Smmr\0Atmn\0Wntr\#024
+|24
+@0001A481-0001A4FB-FF
+;0001A481{~83~~99~KOEI PRESENTS\~C2~~98~HISTORY\~E2~~98~SIMULATION GAME\z~99~A\~83~~99~KOU SHIBUSAWA\~C5~~99~PRODUCTION\~C0~~99~   1 Play  2 Play   \~C0~~99~LICENSED BY NINTENDO\}#168#123
+~83~~99~KOEI PRESENTS\~C2~~98~HISTORY\~E2~~98~SIMULATION GAME\z~99~A\~83~~99~KOU SHIBUSAWA\~C5~~99~PRODUCTION\~C0~~99~   1 Play  2 Play   \~C0~~99~LICENSED BY NINTENDO\#123
+|123

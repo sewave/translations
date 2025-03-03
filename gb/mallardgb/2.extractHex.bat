@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Sam Mallard - The Case of the Missing Swan (World) (SGB Enhanced) (Aftermarket) (Unl).gb"
+set SCRIPTNAME="mallardgb"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex DF98:10,DFC8:10,E118:60,E318:60,E518:30,48A78:280,48EA8:20,48F38:20,48FA8:20,48E58:10,477B0:20,478F0:20,47A70:50,47BB0:50,451E0:90,45320:90,45460:100,455F0:90,45730:90,45810:40,45950:50,45500:50,45640:50
+pause

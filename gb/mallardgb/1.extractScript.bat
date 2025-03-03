@@ -1,0 +1,28 @@
+@echo off
+set T_FILENAME="Sam Mallard - The Case of the Missing Swan (World) (SGB Enhanced) (Aftermarket) (Unl).gb"
+set SCRIPTNAME="mallardgb"
+HexString.exe -d -2b %T_FILENAME% 0x28002 0x30 0x24000 0xFF %SCRIPTNAME%.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x1C000 0x1EE 0x18000 0xFF %SCRIPTNAME%Alt.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x4C000 0x84 0x48000 0xFF %SCRIPTNAME%Alt2.ext %SCRIPTNAME%.tbl
+java -jar Hextractor.jar -a %SCRIPTNAME%.tbl %T_FILENAME% %SCRIPTNAME%Alt3.ext %SCRIPTNAME%Alt3.off
+java -jar Hextractor.jar -a %SCRIPTNAME%Alt4.tbl %T_FILENAME% %SCRIPTNAME%Alt4.ext %SCRIPTNAME%Alt4.off
+HexString.exe -d -2b %T_FILENAME% 0x24000 0x14 0x20000 0xFF %SCRIPTNAME%Room01.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x240D7 0x0A 0x20000 0xFF %SCRIPTNAME%Room02.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x24131 0x0C 0x20000 0xFF %SCRIPTNAME%Room03.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x241A0 0x0A 0x20000 0xFF %SCRIPTNAME%Room04.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x2420F 0x10 0x20000 0xFF %SCRIPTNAME%Room05.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x242C5 0x0A 0x20000 0xFF %SCRIPTNAME%Room06.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x24336 0x08 0x20000 0xFF %SCRIPTNAME%Room07.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x243AC 0x16 0x20000 0xFF %SCRIPTNAME%Room08.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x244C0 0x02 0x20000 0xFF %SCRIPTNAME%Room09.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x244FD 0x04 0x20000 0xFF %SCRIPTNAME%Room10.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x24543 0x0A 0x20000 0xFF %SCRIPTNAME%Room11.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x245C5 0x06 0x20000 0xFF %SCRIPTNAME%Room12.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x2462B 0x0C 0x20000 0xFF %SCRIPTNAME%Room13.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x246B9 0x0E 0x20000 0xFF %SCRIPTNAME%Room14.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x2474D 0x10 0x20000 0xFF %SCRIPTNAME%Room15.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x24813 0x0A 0x20000 0xFF %SCRIPTNAME%Room16.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x24897 0x04 0x20000 0xFF %SCRIPTNAME%Room17.ext %SCRIPTNAME%.tbl
+HexString.exe -d -2b %T_FILENAME% 0x248F3 0x02 0x20000 0xFF %SCRIPTNAME%Room18.ext %SCRIPTNAME%.tbl
+
+pause

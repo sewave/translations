@@ -1,0 +1,1644 @@
+@00006426-00006443-00
+;00006426{  Game ~00~}#011#008
+ Juego ~00~#008
+;0000642E{: ~00~}#006#003
+: ~00~#003
+;00006431{ ~00~}#005#002
+ ~00~#002
+;00006433{Unused Slot     ~00~}#020#017
+Ranura Sin Uso  ~00~#017
+|30
+@0000E1AC-0000E1BA-00
+;0000E1AC{Game Paused...~00~}#018#015
+ En Pausa...\\~00~#015
+|15
+@0000E302-0000E362-00
+;0000E302{This game is not for the SEGA~00~}#033#030
+Este juego no es para la SEGA~00~#030
+;0000E320{ Megadrive distributed in Europe.~00~}#037#034
+ Megadrive distribuida en Europa.~00~#034
+;0000E342{ Megadrive distributed in Japan.~00~}#036#033
+ Megadrive distribuida en Japón.~00~#033
+|97
+@000122E8-000122F3-00
+;000122E8{Play sound ~00~}#015#012
+Toca audio ~00~#012
+|12
+@00013C06-00013C3D-00
+;00013C06{  Game ~00~}#011#008
+ Juego ~00~#008
+;00013C0E{: ~00~}#006#003
+: ~00~#003
+;00013C11{ ~00~}#005#002
+ ~00~#002
+;00013C13{Unused Slot     ~00~}#020#017
+Ranura Sin Uso  ~00~#017
+;00013C24{=~00~}#005#002
+=~00~#002
+;00013C26{  Exit without loading.~00~}#027#024
+  Salir sin cargar.\   ~00~#024
+|56
+@000156BA-000156BC-00
+;000156BA{'s~00~}#006#003
+\\~00~#003
+|3
+@00016862-00016864-00
+;00016862{'s~00~}#006#003
+\\~00~#003
+|3
+@000436AF-00043AD9-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;000436AF{Bus Error\Address Error\Divide Error\Program Counter ~3D~ \\\~01~}#065#059
+Error Bus\
+Error Direcc.\
+Error Divide\
+Conta. Programa ~3D~ \\\~01~#059
+;000436EA{  Maps=\\~02~}#013#010
+ Mapas=\\~02~#010
+;000436F4{  Visit the governor=\  Divide up the plunder=\\\~10~}#053#050
+  Visitar al gobernador=\
+  Dividir el botín=\\\\\~10~#050
+;00043726{Montalban\Delgado\Vasquez\La Mancha\Fielding\Moodyford\Holcroft\Thatcher\Raynale\de Coligny\le Crozat\Galoise\vaan Ryhn\Ruyters\Tromper\de Vranck\\~10~}#151#148
+Montalbán\Delgado\Vázquez\La Mancha\Fielding\Moodyford\Holcroft\Thatcher\Raynale\de Coligny\le Crozat\Galoise\vaan Ryhn\Ruyters\Tromper\de Vranck\\~10~#148
+;000437BA{de Silva\Almagro\Delgado\Orgonez\Culliford\Parks\Alexander\Gilford\Carriere\Ribault\le Grand\Olonais\de Graff\Brugmans\van Hudde\Haakles\\\~10~}#143#140
+de Silva\Almagro\Delgado\Orgoñez\Culliford\Parks\Alexander\Gilford\Carriere\Ribault\le Grand\Olonais\de Graff\Brugmans\van Hudde\Haakles\\\~10~#140
+;00043846{de Loyola\de Nieva\Alvarado\Bazzell\Repasy\Howards\Randolph\Murphy\Desmaret\de Lavale\du Clarion\la Salle\der Wee\van Neck\Trzepacz\de Vries\\\~10~}#147#144
+de Loyola\de Nieva\Alvarado\Bazzell\Repasy\Howards\Randolph\Murphy\Desmaret\de Lavale\du Clarion\la Salle\der Wee\van Neck\Trzepacz\de Vries\\\~10~#144
+;000438D6{de Toledo\Valdez\Mendoza\Enriquez\Clinton\Wilsons\O'Teasley\Thornbill\Fenelon\du Tertre\de Ville\Roberval\Hellesen\de Witt\Bruegel\van Rapp\\~0C~}#145#142
+de Toledo\Valdés\Mendoza\Enriquez\Clinton\Wilsons\O'Teasley\Thornbill\Fenelon\du Tertre\de Ville\Roberval\Hellesen\de Witt\Bruegel\van Rapp\\~0C~#142
+;00043964{Jan\Feb\Mar\Apr\May\Jun\Jul\Aug\Sep\Oct\Nov\Dec\\~0C~}#053#050
+Ene\Feb\Mar\Abr\May\Jun\Jul\Ago\Sep\Oct\Nov\Dic\\~0C~#050
+;00043996{January\February\March\April\May\June\July\August\September\October\November\December\\~0B~}#091#088
+Enero\
+Febrero\
+Marzo\
+Abril\
+Mayo\
+Junio\
+Julio\
+Agosto\
+Setiembre\
+Octubre\
+Noviembre\
+Diciem.\\~0B~#088
+;000439EE{Pinnace\Sloop\Barque\Cargo Fluyt\Merchantman\Frigate\War Galleon\Galleon\Fast Galleon\Fort\ (damaged)\\~04~}#107#104
+Pinaza\
+Balandra\
+Barcaza\
+Filibote\
+Mercante\
+Fragata\
+Gal. Guerra\
+Galeón\
+Gal. Raudo\
+Fuerte \
+ (dañado)    \\~04~#104
+;00043A56{Struggling\Surviving\Prospering\Wealthy\\~0C~}#045#042
+En aprietos\
+Sobreviviendo\
+Próspero\
+Rico\\~0C~#042
+;00043A80{Price\Gold\Food\Goods\Cannon\Space in hold: \ Gold pieces plundered!\\Pcs\Tons\Days\Men\\~09~}#093#090
+Precio\
+Oro\
+Comida\
+Bienes\
+Cañón\
+Espacio bodega:\
+ ¡Oro saqueado!\\
+Pcs\
+Tnds\
+Días\
+Hombres\\\\~09~#090
+|1067
+@00043ADA-00043C7A-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;00043ADA{a pinnace\a sloop\a barque\a cargo fluyt\a merchantman\a frigate\a war galleon\a galleon\a fast galleon\\~03~}#109#106
+una Pinaza\
+una Balandra\
+una Barcaza\
+un Filibote\
+un Mercante\
+una Fragata\
+un G.Guer.\
+un Galeón\
+un G.Raudo\\~03~#106
+;00043B44{light\medium\strong\\~10~}#025#022
+ligero\
+medio\
+fuerte\\~10~#022
+;00043B5A{S\SSW\SW\WSW\W\WNW\NW\NNW\N\NNE\NE\ENE\E\ESE\SE\SSE\\~03~}#057#054
+S\SSO\SW\OSO\O\ONO\OW\NNO\N\NNE\NE\ENE\E\ESE\SE\SSE\\~03~#054
+;00043B90{Sail Damage \Lost a Mast \Hull Leaking\\\~03~}#045#042
+Daño Velas\
+Mástil Perdido\
+Casco Pierde\\\~03~#042
+;00043BBA{Little\Some\Most\\\~04~}#023#020
+Poco\
+Algo\
+Todo\\ \\~04~#020
+;00043BCE{citizens\patrons\travellers\crewmen\\~05~}#041#038
+ciudadanos\
+patrones\
+viajeros\
+tripu.\\~05~#038
+;00043BF4{Merchant\Overboard\Leave behind\Town\Main party\\\\\Ship's News:=\  (no entries)=\\~04~}#087#084
+Mercante\
+Abandona\
+Deja atrás \
+Ciudad\
+Grupo ppal\\\\\
+Noticias:   =\
+  (sin entrar)=\\~04~#084
+;00043C48{  Search\  Save Game\  Divide Party\  Join Party\\\}#051#051
+  Buscar  \
+  Salvar\
+  Dividir Grupo\
+  Unir Grupo\\\#051
+|417
+@00043C7B-00044089-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;00043C7B{%%s %2d: %s=\Visited %s.\Titled as %s %s.\Plundered %s.\Captured %s %s.\Sank %s %s.\Engaged %s %s.\Found the lost Inca treasure!\Found buried treasure!\%s in %s.\%s offers pirate amnesty!\Indians attack %s.\New gold mine at %s.\Malaria strikes %s.\New governor in %s.\Pirates plunder %s.\%s at war with %s.\%s and %s make peace.\%s allies with %s.\%s captures %s.\Treasure Fleet in %s.\Silver Train in %s.\Captured %s for %s.\Failed to capture %s.\Captured the Treasure Fleet!\Captured the Silver Train!\Rescued my %s.\\Accepted letter for %s.\Accepted papers for %s.\Pirate %n off %s.\Accepted rescue mission to %s.\Delivered letter to %s.\Delivered papers to %s.\Captured the pirate %n.\Rescued prisoner from %s.\Governor displeased by failure.\\~04~}#752#749
+%
+%s %2d: %s=\
+Visitas %s.\
+Titulado %s %s.\
+Saqueas %s.\
+Capturas %s %s.\
+Hundes %s %s.\
+Enlace %s %s.\
+¡Hallas tesoro Inca perdido!\
+¡Hallas tesoro enterrado!\
+%s en %s.\
+¡%s ofrece amnistía pirata!\
+Indios atacan %s.\
+Nueva mina de oro %s.\
+Malaria golpea %s.\
+Nuevo gobernador en %s.\
+Piratas saquean %s.\
+%s en guerra con %s.\
+%s y %s hacen paces.  \
+%s se alía con %s.\
+%s captura %s.\
+Flota Tesoro en %s.\
+Tren Plateado en %s.\
+Capturado %s por %s.\
+No capturas a %s.\
+¡Capturada Flota del Tesoro!\
+¡Capturado Tren Plateado!\
+Rescatado mi %s.\\
+Aceptada carta %s.\
+Aceptados papeles %s.\
+Pirata %n va hacia %s.\
+Aceptada misión rescate a %s.\
+Entregada carta a %s.\
+Entregados papeles a %s.\
+Capturado al pirata %n.\
+Rescatado prisionero de %s.\
+Fracaso disgusta gobernador.\\\~04~#749
+;00043F68{Letter of Marque\No Title\Wary\Hostile\\\~04~}#045#042
+Patente de Corso\
+Nada\
+Cauteloso\
+Hostil\\\~04~#042
+;00043F92{  Prisoners   =\  %n (Hunter)=\  %n (Pirate)=\Ships:=\\~05~}#059#056
+ Prisioneros=\
+  %n (Cazador)=\
+  %n (Pirata)=\
+Barcos:=\\~05~#056
+;00043FCA{===%s= (%s)= %s=%s= %d soldiers= %d citizens=%s\%s= (no info)=\ %s fort%s\ %u,000 gold\Recent events in %s have made your information obsolete.=\\\~03~}#151#148
+===%s= (%s)= %s=%s= %d soldados= %d ciudadanos=%s\
+%s= (sin info)=\
+ %s fuerte%s\
+ %u.000 oro \
+Recientes eventos en %s             tu información.=\\\~03~#148
+;0004405E{City Information\Select a City:\Continue\\\~09~}#047#044
+Información Ciudad\
+Elige Ciudad:\
+Seguir\\\\~09~#044
+|1039
+@0004408A-000441F2-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;0004408A{"My dear %s %s\, we are allied with the \, %swe are at war with the \%s\%s and the %s\%s, the %s, and the %s\. I charge you to seek out and destroy our enemy's ships and towns!"\and \."=\\\~03~}#193#190
+"Querido %s %s\
+, estamos aliados con los \
+, %sestamos en guerra con los \%s\
+%s y los %s\
+%s, los %s, y los %s\
+. ¡Te encargo buscar y destruir nuestras ciudades y barcos enemigos!"\
+y \."=\\\\~03~#190
+;00044148{After dinner, you visit your %s. "I've made note of the latest news and gossip at the governor's house" she says. "Look..."\informant\wife\\\~03~}#145#142
+Tras cenar, visitas a tu %s. "He hecho una nota con las noticias y cotilleos de la casa del gobernador" dice. "Mira..."\
+informante\
+mujer\\\\\~03~#142
+;000441D6{The %s is in %s.\Spain\Peru\\}#029#029
+El %s en %s.\
+España\
+Perú\\\\\#029
+|361
+@000441F3-000444B9-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;000441F3{=$1Would you care to sell any ships?$0=\$1Would you like any ships repaired?$0=\  No, Thanks=\  %s%s: %g0 gold=\  %s (no damage)=\  Ship sold  =\  Ship repaired  =\Bring ye ships into port first!\Ye not be needin' my services today!\Would you like to sell any cannon?\Space  %d tons   \Pirate %s\Shipwright\\~0A~}#312#309
+=$1
+¿Quieres vender algún barco?$0=\$1
+¿Quieres reparar algún barco?$0=\
+  No, Gracias=\
+  %s%s: %g0 oro=\
+  %s (sin daños)=\
+  Barco vendido=\
+  Barco reparado=\
+¡Trae tus barcos a puerto antes!\
+¡Hoy no vas a necesitar mis servicios!\
+¿Te gustaría vender algún cañón?\
+Espacio %d tnds\
+Pirata %s\
+Astillero\\\\\\\\\\\\\~0A~#309
+;00044328{One fort guards the harbor entrance.\%s forts guard the harbor entrance.\The Treasure Fleet is in the harbor!\The Silver Train is in town!\Sail into Town\March into Town\inland village\seaside town\One fort guards the approach to the town.\%s forts guard the approach to the town.\\\~0B~}#287#284
+Un fuerte protege el puerto.\
+%s fuertes protegen el puerto.\
+¡La Flota del Tesoro está en el puerto!\
+¡Tren Plateado en la ciudad!\
+Navegar\
+Marchar\
+aldea interior\
+ciudad costera\
+Un fuerte protege el acceso a la ciudad.\
+%s fuertes protegen el acceso a la ciudad.\\                      \~0B~#284
+;00044444{Reloading\Guns Loaded\Battle\Full  \Raise \Lower \No Damage\the enemy captain\%s winds\from the %s\   guns     men\\\~05~}#121#118
+Recarga\
+Armas Cgds\
+Pelea \
+Toda  \
+Sube  \
+Baja  \
+Sin Daños\
+el capitán enemigo\
+%s vientos\
+del %s\
+   arma     hbs\\\     ~05~#118
+|711
+@000444BA-00044997-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;000444BA{Pirate treasure map\Map to lost %s\Map to lost Inca treasure\Missing\=Somewhere near %s\\~0A~}#093#090
+Mapa de tesoro pirata\
+Mapa a ignoto %s\
+Mapa al tesoro Inca Perdido\
+Perdido\
+=
+Cerca de %s\\~0A~#090
+;00044514{Clear\Cover\Swamp\Water\\    Men     Guns\Party\Defenders\Terrain:\Morale:\\\~1B~}#081#078
+Claro\
+Cubre\
+Fango\
+Agua\\
+    Hbs     Armas\
+Grupo\
+Defensores\
+Terreno:\
+Moral:\\\~1B~#078
+;00044562{your promising plans\your recent visit to %s\your promotion to %s %s\your gleeful men as they plundered %s\your bold capture of %s %s\your masterful sinking of %s %s\your heroic engagement of %s %s\your discovery of the lost Inca treasure\your discovery of buried treasure\\\\\\\\\\\\\\your capture of %s for the %s crown\your failed attack on %s\your daring capture of the Treasure Fleet\your daring capture of the Silver Train\the thrilling rescue of your %s\\\~06~}#467#464
+tus prometedores planes\
+tu reciente visita a %s\
+tu promoción a %s %s\
+tus alegres hombres saqueando%s\
+tu audaz captura de %s %s\
+tu magistral hundimiento de %s %s\
+tu heroico enfrentamiento a %s %s\
+tu descubrimiento del tesoro Inca perdido\
+tu descubrimiento de un tesoro enterrado\\\\\\\\\\\\\\
+tu captura de %s para la corona %s\
+tu fallido ataque a %s\
+tu audaz captura de la Flota del Tesoro\
+tu audaz captura del Tren Plateado\
+el emocionante rescate de tu %s\\\\\\\\~06~#464
+;00044732{cowardly\promising\well known\famous\notorious\infamous\\~05~}#061#058
+cobarde \
+prometedor\
+muy conocido\
+famoso\
+notorio\
+infame\\\~05~#058
+;0004476C{apprentice\journeyman\adventurer\swashbuckler\apprentice\\\~04~}#063#060
+aprendiz\
+oficial\
+aventurero\
+espadachín\
+aprendiz\\       \\\~04~#060
+;000447A8{fine\good\fair\poor\\~04~}#025#022
+bien\
+ok\
+justo\
+pobre\\~04~#022
+;000447BE{sister\father\mother\uncle\\\~0C~}#033#030
+hermana\
+padre\
+madre\
+tío\\\\\\~0C~#030
+;000447DC{You failed to achieve a rank\You achieved the title of \%s %s\ and %s %s\an undistinguished\a little-known\an average\a creditable\a well respected\a greatly admired\a very important\an extremely important\\~09~}#211#208
+No has conseguido el rango\
+Conseguiste el título de \
+%s %s\
+ y %s %s\
+un poco distinguido\
+un poco conocido\
+un corriente\
+un loable\
+un muy respetado\
+un gran admirado \
+un muy importante\
+un muy muy importante\\\\\~09~#208
+;000448AC{You accumulated %g0 gold pieces %sduring your career, making you %s.\and %u acres of land \a penniless pauper\a very poor man\a man of average wealth\a somewhat prosperous man\a wealthy man\a very wealthy man\an extremely wealthy man\\~09~}#239#236
+Acumulaste %g0 piezas de oro %s durante tu carrera, haciéndote %s.\
+y %u acres de tierra\
+un indigente\
+un hombre muy pobre\
+un hombre de riqueza media\
+un hombre algo próspero\
+un hombre rico\
+un hombre muy rico\
+un hombre de gran riqueza\\\\~09~#236
+|1246
+@00044998-00044DA3-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;00044998{Your exploits on the high seas give you a reputation as %s captain.\Your share of the expedition's plunder is %g0 gold pieces. Your performance in this voyage gives you a reputation as %s captain.\a cowardly\a cautious\an active\a daring\a bold\a fearless\a bold and fearless\\~06~}#281#278
+Tus hazañas en alta mar te dan reputación de capitán %s.\
+Tu parte del botín de la expedición son %g0 piezas de oro. Tu desempeño en este viaje te da la reputación de capitán %s.\
+cobarde\
+prudente\
+activo\
+osado\
+audaz\
+intrépido\
+audaz e intrépido\\                                  ~06~#278
+;00044AAE{You were unable to find a bride.=\Your wife is %s.=\a shrewish creature\an attractive wench\a lovely and cheerful girl\an exciting and beautiful woman\\\~07~}#157#154
+Fuiste incapaz de encontrar esposa.=\
+Tu esposa es una %s.=\
+arpía\
+atractiva moza\
+chica encantadora y alegre\
+mujer hermosa y excitante\\                  \~07~#154
+;00044B48{In the course of your travels, you have become %s.=\a bitter man\a lonely man\a satisfied man\a contented man\a cheerful man\a happy man\\\~18~}#143#140
+En el transcurso de tus viajes, te conviertes en un hombre %s.=\
+amargado\
+solitario\
+satisfecho\
+contento\
+alegre\
+feliz\\                     \~18~#140
+;00044BD4{King's Advisor\Governor\Lt. Governor\Fleet Admiral\Rich Banker\Plantation Owner\Wealthy Merchant\General\Sugar Planter\Merchant Captain\Council Member\Colonel\Shop Owner\Major\Tavernkeeper\Sailing Master\Sergeant\Bartender\Sailor\Farm Hand\Rogue\Scoundrel\Pauper\Beggar\\~05~}#275#272
+Asesor del Rey\
+Gobernador\
+Vicegobernador\
+Almirante\
+Banquero Rico\
+Propietario Plantación\
+Mercader Rico\
+General\
+Azucarero\
+Capitán Mercader\
+Miembro Consejo\
+Coronel\
+Tendero\
+Mayor\
+Tabernero\
+Patrón de Vela\
+Sargento\
+Barista\
+Marinero\
+Granjero\
+Pícaro\
+Canalla\
+Indigente\
+Mendigo\\  ~05~#272
+;00044CE4{Baron\Count\Marquis\Duke\Prince\\~03~}#037#034
+Barón\
+Conde\
+Marqués\
+Duque\
+Prín.\\~03~#034
+;00044D06{you issue Letters of Marque to young privateers.\you report to the king on rival colonies.\you represent your king in trade agreements with other colonies.\\~03~}#161#158
+emites Patentes de Corso a jóvenes corsarios.\
+informas al rey sobre colonias rivales.\
+representas a tu rey en acuerdos comerciales con otras colonias.\\  \\\~03~#158
+|1036
+@00044DA4-000451A7-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;00044DA4{you advise the Governor on matters of state.\the merchants vie for your favor.\you are a shrewd and cunning politician.\\~03~}#125#122
+asesoras al Gobernador en asuntos de estado.\
+los comerciantes compiten por tu favor.\
+eres un político astuto y sagaz.\\  ~03~#122
+;00044E1E{His Majesty's navy is under your command.\you command a flotilla of mighty warships.\you grin as you recall the "fleet"you captained in the Caribbean.\\\~03~}#157#154
+la flota de su Majestad está bajo tu mando.\
+comandas una flotilla de buques de guerra.\
+sonríes al recordar la "flota" que capitaneabas en el Caribe.\\  \~03~#154
+;00044EB8{pirate treasure bankrolls your business.\little is known of your days as a bloodthirsty pirate.\you bankroll those seeking fortune in the New World.\\\~03~}#155#152
+el tesoro pirata financia tu negocio.\
+se sabe poco de tus días como pirata sediento de sangre.\
+financias a los que buscan fortuna en el Nuevo Mundo.\\\~03~#152
+;00044F50{you grow fat and rich on your plantation in %s.\pubs sell goods from your plantation in %s.\ladies wear fine garments made of cotton from your plantation in %s.\\\~03~}#167#164
+te vuelves gordo y rico en tu plantación en %s.\
+los bares venden mercancía de tu plantación en %s.\
+las damas llevan prendas de algodón de tu plantación en %s.\\  \~03~#164
+;00044FF4{your export business makes you rich.\your merchant fleet plies the world's oceans.\ladies covet invitations to your social engagements.\\~03~}#141#138
+tu negocio de exportación te enriquece.\
+tu flota mercante surca todos los océanos.\
+las damas codician invitaciones a tus compromisos.\\  ~03~#138
+;0004507E{the King makes you commander of all the armies.\you advise the King on military affairs.\you lead campaigns against your country's enemies.\\~03~}#145#142
+el Rey te hace comandante de todos sus ejércitos.\
+asesoras al Rey en asuntos militares.\
+diriges campañas contra los enemigos de tu país.\\   ~03~#142
+;0004510C{you grow rich selling crops to local merchants.\the tropical sunshine and warm rain nourish your crops.\your molasses is famous throughout the New World.\\~03~}#159#156
+te haces rico vendiendo cosechas a mercaderes locales.\
+el sol tropical y la cálida lluvia nutren tu cosecha.\
+tu melaza es famosa en todo el Nuevo Mundo.\\ ~03~#156
+|1028
+@000451A8-000455C9-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;000451A8{the women of the town eagerly await your next landfall.\you bring expensive gifts from Europe for the ladies.\there's always a handsome profit to be made.\\\~03~}#161#158
+las mujeres de la ciudad esperan ansiosas tu próximo desembarco.\
+traes regalos caros de Europa para las damas.\
+siempre hay un buen beneficio que obtener.\\\ ~03~#158
+;00045246{you advise the Governor on matters of commerce.\you discuss problems of taxation in the colonies.\the other councilmen envy your exploits as a privateer.\\~03~}#159#156
+asesoras al Gobernador en materia de comercio.\
+discutes problemas de impuestos en las colonias.\
+los otros concejales envidian tus hazañas como corsario.\\ ~03~#156
+;000452E2{you command the soldiers protecting the town.\your splendid uniform impresses the ladies.\you command the Governor's honor guard.\\~03~}#135#132
+comandas a los soldados que protegen la ciudad.\
+tu espléndido uniforme impresiona a las damas.\
+comandas la guardia de honor.\\     ~03~#132
+;00045366{you sell household goods to the women of the town.\you deal in luxuries imported from Spain.\you trade in spices from the Far East.\\~03~}#137#134
+vendes artículos para el hogar a mujeres de la ciudad.\
+comercias con lujos importados de España.\
+comercias con especias de Oriente.\\~03~#134
+;000453EC{your former exploits have made you famous.\you lead the local militia against foreign invaders.\the Governor consults you about military affairs.\\~03~}#151#148
+tus antiguas hazañas te han hecho famoso.\
+lideras la milicia local contra invasores extranjeros.\
+el Gobernador te consulta sobre temas militares.\\~03~#148
+;00045480{captains recruit crewmen from the scalawags in your tavern.\travelers come to learn the latest gossip.\shady characters sell treasure maps to the gullible sea-captains who frequent your pub.\\\~03~}#197#194
+los capitanes reclutan bribones de tu taberna.\
+los viajeros vienen a enterarse de los últimos cotilleos.\
+personajes turbios venden mapas del tesoro a crédulos capitanes en tu bar.\\\           ~03~#194
+;00045542{you keep the crew and ship trim.\your years at sea command respect from the crew.\the captain values your knowledge of the Caribbean.\\~03~}#139#136
+mantienes la tripulación y barco.\
+tus años en la mar imponen respeto a la tripulación.\
+el capitán valora tu conocimiento del Caribe.\\ ~03~#136
+|1058
+@000455CA-00045A43-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;000455CA{you train the citizens to defend their town.\your skill with the cutlass is greatly admired.\you protect the citizens from evil pirates.\\\~03~}#143#140
+entrenas a ciudadanos para defender la ciudad.\
+tu habilidad con el alfanje es muy admirada.\
+proteges a los ciudadanos de los piratas.\\\   ~03~#140
+;00045656{you pretend to listen with interest to other adventurers' exciting exploits.\you serve travelers from all over the West Indies.\you listen as the townspeople cry their tales of woe.\\~03~}#187#184
+pretendes escuchar con interés las emocionantes hazañas de otros aventureros.\
+sirves a viajeros de todas las Indias Occidentales.\
+escuchas a la gente del pueblo contar sus penas.\\   ~03~#184
+;0004570E{your meager skills put food in your gullet.\you're taking orders instead of giving them.\you amuse the youngsters with lies about your adventures.\\\~03~}#153#150
+tu escasa habilidad pone comida en tu gaznate.\
+recibes órdenes en lugar de darlas.\
+diviertes a los jóvenes con mentiras sobre tus aventuras.\\\      ~03~#150
+;000457A4{your strength and determination are valued.\your strong arms serve your master's table.\you dream of what might have been.\\\~03~}#129#126
+tu fuerza y determinación son valoradas.\
+tus fuertes brazos sirven a tu maestro.\
+sueñas con lo que podría haber sido.\\\     ~03~#126
+;00045822{your few skills keep you barely alive.\you lie and cheat just to survive.\you trudge from one menial job to the next.\\~03~}#123#120
+tu poca habilidad apenas te mantiene vivo.\
+mientes y engañas para sobrevivir.\
+vas de un trabajo servil a otro.\\       ~03~#120
+;0004589A{you pick pockets and get by on a pittance.\you become a notorious "captain turned thief."\you live a brutal and pathetic life of crime.\\~03~}#141#138
+robas bolsillos y te las apañas con poco.\
+te vuelves un notorio "capitán vuelto ladrón."\
+vives una brutal y patética vida de crimen.\\   ~03~#138
+;00045924{you eke out a frugal existence selling fish.\ever-increasing debt drags you into despair.\you sleep on the streets of the marketplace.\\\~03~}#141#138
+te ganas la vida frugalmente vendiendo pescado.\
+una deuda cada vez mayor deja desesperado.\
+duermes en las calles del mercado.\\\         ~03~#138
+;000459AE{you pinch money from your betters.\you dream of the riches that should have been yours.\the townfolk sneer at you as they go about their business.\\\~05~}#153#150
+pellizcas dinero de tus superiores.\
+sueñas con las riquezas que deberían haber sido tuyas.\
+los ciudadanos se burlan de ti y sigue con sus vidas.\\\  ~05~#150
+|1146
+@00045A44-00045F51-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-16-17-18-19-1A-1B-1C-1D-1E-1F
+;00045A44{a Spanish\an English\a French\a Dutch\a Pirate\\\~06~}#053#050
+un Español\
+un Ing.\
+un Francés\
+un Ho.\
+un Pirata\\\~06~#050
+;00045A76{Panic\Shaken\Angry\Firm\Strong\Wild\\~03~}#041#038
+Pánico\
+Movido\
+Ira\
+Firme\
+Fuerte\
+Loco\\~03~#038
+;00045A9C{Rapier\Longsword\Cutlass\\\~06~}#031#028
+Ropera\
+Esp.Larga\
+Alfanje\\\~06~#028
+;00045AB8{Spanish\English\French\Dutch\Pirate\unknown\\~04~}#049#046
+Español\
+Inglés\
+Francés\
+Holan.\
+Pirata\
+ignoto\\~04~#046
+;00045AE6{angry\unhappy\pleased\happy\\~05~}#033#030
+furiosa\
+infeliz\
+bien\
+feliz\\\~05~#030
+;00045B04{an apprentice\a journeyman\an adventurer\a swashbuckler\an apprentice\\~05~}#075#072
+un aprendiz\
+un oficial\
+un aventurero\
+un espadachín\
+un aprendiz\\     \\~05~#072
+;00045B4C{Guard\Suitor\Mutineer\Enemy Captain\Captain\\~04~}#049#046
+Guarda\
+Galán\
+Amotinado\
+Capitán Ene.\
+Capitán\\~04~#046
+;00045B7A{north\south\east\west\\~0C~}#027#024
+norte\
+sur\
+este\
+oeste\\\~0C~#024
+;00045B92{"January"\"February"\"March"\"April"\"May"\"June"\"July"\"August"\"September"\"October"\"November"\"December"\\~06~}#115#112
+"Enero"\
+"Febrero"\
+"Marzo"\
+"Abril"\
+"Mayo"\
+"Junio"\
+"Julio"\
+"Agosto"\
+"Setiembre"\
+"Octubre"\
+"Noviembre"\
+"Diciem."\\~06~#112
+;00045C02{%s%s vs. %s\Force:\Morale:\     men\the ship\Weapon:\\\~0A~}#059#056
+%s%s vs. %s\
+Fuerza:\
+Moral:\
+     Hbs\
+el barco\
+Arma:\\\\\~0A~#056
+;00045C3A{Mr.\Ensign\Captain\Major\Colonel\Admiral\Baron\Count\Marquis\Duke\\~0C~}#071#068
+Sr.\
+Alférez\
+Capitán\
+Mayor\
+Coronel\
+Almi.\
+Barón\
+Conde\
+Marqués\
+Duque\\~0C~#068
+;00045C7E{s\One\Two\Three\Four\Five\Six\Seven\Eight\Nine\All ten\None\\~03~}#065#062
+s\
+Uno\
+Dos\
+Tres\
+Cuatro\
+Cinco\
+Seis\
+Siete\
+Ocho\
+Nueve\
+Diez\
+Nada\\~03~#062
+;00045CBC{once\twice\%s times\\~04~}#025#022
+una\
+dos\
+%s veces\\\\\~04~#022
+;00045CD2{Spain\England\France\Holland\\\~10~}#035#032
+España\
+Ingl.\
+Francia\
+Holanda\\\~10~#032
+;00045CF2{South\SSW\SouthWest\WSW\West\WNW\NorthWest\NNW\North\NNE\NorthEast\ENE\East\ESE\SouthEast\SSE\\~0A~}#099#096
+Sur\SSO\
+SurOeste\
+OSO\
+Oeste\
+ONO\
+NortOeste\
+NNO\
+Norte\
+NNE\
+NortEste\
+ENE\
+Este\
+ESE\
+SudEste\
+SSE\\   \\~0A~#096
+;00045D52{first\second\third\fourth\fifth\sixth\seventh\eighth\ninth\tenth\\\~0A~}#071#068
+1ro\
+2do\
+3ro\
+4to\
+5to\
+6to\
+7mo\
+8vo\
+9no\
+10mo\\                      \\\~0A~#068
+;00045D96{Captured Pirate\Rescued Sister\Rescued Father\Rescued Mother\Rescued Uncle\Got Married\Silver Train\Treasure Fleet\Incan Treasure\Title of Nobility\\~06~}#153#150
+Capturado Pirata\
+Salvada Hermana\
+Salvado Padre\
+Salvada Madre\
+Salvado Tío\
+Te casaste\
+Tren Plateado\
+Flota del Tesoro\
+Tesoro Inca\
+Título Nobiliario\\\\\~06~#150
+;00045E2C{The Ten Great Pirate Quests\Can you complete the Ten Pirate Quests and become the Greatest Pirate Who Ever Lived?\You have completed the %s Pirate Quest!\You have completed all ten Quests! You are the Greatest Pirate Who Ever Lived!\You completed %s of the Pirate Quests.\Your story begins...\\}#294#294
+Las Diez Grandes Aventuras Pirata\
+¿Puedes completar las Diez Aventuras y convertirte en el Mejor Pirata de la Historia?\
+¡Has completado la %s Aventura Pirata!\
+¡Has completado las diez Aventuras! ¡Eres el Mejor Pirata de la Historia!\
+Has completado %s Aventuras Pirata.\
+Tu historia comienza...\\#294
+|1294
+@00045F54-00045F68-00
+;00045F54{English Seahawk\\\\\\}#021#021
+Gavilán Inglés\\\\\\\#021
+|21
+@00045FA6-00045FBA-00
+;00045FA6{French Corsair\\\\\\\}#021#021
+Corsario Francés\\\\\#021
+|21
+@00045FF8-0004600C-00
+;00045FF8{Dutch Privateer\\\\\\}#021#021
+Soldado Holandés\\\\#021
+|21
+@0004604A-0004605E-00
+;0004604A{English Explorer\\\\\}#021#021
+Explorador Inglés\\\\#021
+|21
+@0004609C-000460B0-00
+;0004609C{French Adventurer\\\\}#021#021
+Aventurero Francés\\\#021
+|21
+@000460EE-00046102-00
+;000460EE{Dutch Trader\\\\\\\\\}#021#021
+Comerciante Holandés\#021
+|21
+@00046140-00046154-00
+;00046140{Spanish Renegade\\\\\}#021#021
+Renegado Español\\\\\#021
+|21
+@00046192-000461A6-00
+;00046192{English Adventurer\\\}#021#021
+Aventurero Inglés\\\\#021
+|21
+@000461E4-000461F7-00
+;000461E4{French Huguenot\\\\\}#020#020
+Hugonote Francés\\\\#020
+|20
+@00046236-0004624A-00
+;00046236{French Privateer\\\\\}#021#021
+Soldado Francés\\\\\\#021
+|21
+@00046288-0004629C-00
+;00046288{Dutch Adventurer\\\\\}#021#021
+Aventurero Holandés\\#021
+|21
+@000462DA-000462EE-00
+;000462DA{English Buccaneer\\\\}#021#021
+Bucanero Inglés\\\\\\#021
+|21
+@0004632C-00046340-00
+;0004632C{French Buccaneer\\\\\}#021#021
+Bucanero Francés\\\\\#021
+|21
+@0004637E-00046392-00
+;0004637E{Dutch Adventurer\\\\\}#021#021
+Aventurero Holandés\\#021
+|21
+@000463D0-000463E4-00
+;000463D0{English Pirate\\\\\\\}#021#021
+Pirata Inglés\\\\\\\\#021
+|21
+@00046422-00046436-00
+;00046422{Spanish Costa Garda\\}#021#021
+Costa Garda Español\\#021
+|21
+@00046474-00046487-00
+;00046474{John Hawkins\\\\\\\\}#020#020
+John Hawkins\\\\\\\\#020
+|20
+@000464C6-000464DA-00
+;000464C6{Francis Drake\\\\\\\\}#021#021
+Francis Drake\\\\\\\\#021
+|21
+@00046518-0004652B-00
+;00046518{Piet Heyn\\\\\\\\\\\}#020#020
+Piet Heyn\\\\\\\\\\\#020
+|20
+@0004656A-0004657D-00
+;0004656A{L'Ollonais\\\\\\\\\\}#020#020
+L'Ollonais\\\\\\\\\\#020
+|20
+@000465BC-000465CF-00
+;000465BC{Henry Morgan\\\\\\\\}#020#020
+Henry Morgan\\\\\\\\#020
+|20
+@0004660E-00046621-00
+;0004660E{De Pointis\\\\\\\\\\}#020#020
+De Pointis\\\\\\\\\\#020
+|20
+@0003D57C-0003D58B-00
+;0003D57C{Borburata\\\\\\\}#016#016
+Borburata\\\\\\\#016
+|16
+@0003D598-0003D5A8-00
+;0003D598{Campeche\\\\\\\\\}#017#017
+Campeche\\\\\\\\\#017
+|17
+@0003D5B4-0003D5C4-00
+;0003D5B4{Cartagena\\\\\\\\}#017#017
+Cartagena\\\\\\\\#017
+|17
+@0003D5D0-0003D5DF-00
+;0003D5D0{Coro\\\\\\\\\\\\}#016#016
+Coro\\\\\\\\\\\\#016
+|16
+@0003D5EC-0003D5FB-00
+;0003D5EC{Cumaná\\\\\\\\\\}#016#016
+Cumaná\\\\\\\\\\#016
+|16
+@0003D608-0003D617-00
+;0003D608{Eleuthera\\\\\\\}#016#016
+Eleuthera\\\\\\\#016
+|16
+@0003D624-0003D633-00
+;0003D624{Florida Keys\\\\}#016#016
+Cayos Florida\\\#016
+|16
+@0003D640-0003D64F-00
+;0003D640{Gibraltar\\\\\\\}#016#016
+Gibraltar\\\\\\\#016
+|16
+@0003D65C-0003D66B-00
+;0003D65C{Gran Granada\\\\}#016#016
+Gran Granada\\\\#016
+|16
+@0003D678-0003D687-00
+;0003D678{Gran Bahama\\\\\}#016#016
+Gran Bahama\\\\\#016
+|16
+@0003D694-0003D6A3-00
+;0003D694{Habana\\\\\\\\\\}#016#016
+Habana\\\\\\\\\\#016
+|16
+@0003D6B0-0003D6BC-00
+;0003D6B0{Isabela\\\\\\}#013#013
+Isabela\\\\\\#013
+|13
+@0003D6CC-0003D6DC-00
+;0003D6CC{Maracaibo\\\\\\\\}#017#017
+Maracaibo\\\\\\\\#017
+|17
+@0003D6E8-0003D6F7-00
+;0003D6E8{Margarita\\\\\\\}#016#016
+Margarita\\\\\\\#016
+|16
+@0003D704-0003D713-00
+;0003D704{Nasáu\\\\\\\\\\\}#016#016
+Nasáu\\\\\\\\\\\#016
+|16
+@0003D720-0003D72F-00
+;0003D720{Nombre de Dios\\}#016#016
+Nombre de Dios\\#016
+|16
+@0003D73C-0003D74B-00
+;0003D73C{Panamá\\\\\\\\\\}#016#016
+Panamá\\\\\\\\\\#016
+|16
+@0003D758-0003D767-00
+;0003D758{Puerto Cabello\\}#016#016
+Puerto Cabello\\#016
+|16
+@0003D774-0003D784-00
+;0003D774{Puerto Príncipe\\}#017#017
+Puerto Príncipe\\#017
+|17
+@0003D790-0003D79F-00
+;0003D790{Río de la Hacha\}#016#016
+Río de la Hacha\#016
+|16
+@0003D7AC-0003D7BB-00
+;0003D7AC{San Juan\\\\\\\\}#016#016
+San Juan\\\\\\\\#016
+|16
+@0003D7C8-0003D7D7-00
+;0003D7C8{Santo Domingo\\\}#016#016
+Santo Domingo\\\#016
+|16
+@0003D7E4-0003D7F3-00
+;0003D7E4{Santiago\\\\\\\\}#016#016
+Santiago\\\\\\\\#016
+|16
+@0003D800-0003D80F-00
+;0003D800{Santiago Vega\\\}#016#016
+Santiago Vega\\\#016
+|16
+@0003D81C-0003D82B-00
+;0003D81C{Santa Marta\\\\\}#016#016
+Santa Marta\\\\\#016
+|16
+@0003D838-0003D847-00
+;0003D838{San Agustín\\\\\}#016#016
+San Agustín\\\\\#016
+|16
+@0003D854-0003D860-00
+;0003D854{Trinidad\\\\\}#013#013
+Trinidad\\\\\#013
+|13
+@0003D870-0003D87F-00
+;0003D870{Vera Cruz\\\\\\\}#016#016
+Vera Cruz\\\\\\\#016
+|16
+@0003D88C-0003D89B-00
+;0003D88C{Villa Hermosa\\\}#016#016
+Villa Hermosa\\\#016
+|16
+@0003D8A8-0003D8B8-00
+;0003D8A8{Yaguana\\\\\\\\\\}#017#017
+Yaguana\\\\\\\\\\#017
+|17
+@0003D8C4-0003D8D4-00
+;0003D8C4{Canal Florida\\\\}#017#017
+Canal Florida\\\\#017
+|17
+@0003D8E0-0003D8EF-00
+;0003D8E0{Canal Florida\\\}#016#016
+Canal Florida\\\#016
+|16
+@0003D920-0003D92F-00
+;0003D920{Campeche\\\\\\\\}#016#016
+Campeche\\\\\\\\#016
+|16
+@0003D93C-0003D94C-00
+;0003D93C{Caracas\\\\\\\\\\}#017#017
+Caracas\\\\\\\\\\#017
+|17
+@0003D958-0003D967-00
+;0003D958{Cartagena\\\\\\\}#016#016
+Cartagena\\\\\\\#016
+|16
+@0003D974-0003D983-00
+;0003D974{Coro\\\\\\\\\\\\}#016#016
+Coro\\\\\\\\\\\\#016
+|16
+@0003D990-0003D99F-00
+;0003D990{Cumaná\\\\\\\\\\}#016#016
+Cumaná\\\\\\\\\\#016
+|16
+@0003D9AC-0003D9BB-00
+;0003D9AC{Eleuthera\\\\\\\}#016#016
+Eleuthera\\\\\\\#016
+|16
+@0003D9C8-0003D9D8-00
+;0003D9C8{Gibraltar\\\\\\\P}#017#017
+Gibraltar\\\\\\\P#017
+|17
+@0003D9E4-0003D9F3-00
+;0003D9E4{Gran Granada\\\\}#016#016
+Gran Granada\\\\#016
+|16
+@0003DA00-0003DA0F-00
+;0003DA00{Gran Bahama\\\\\}#016#016
+Gran Bahama\\\\\#016
+|16
+@0003DA1C-0003DA2B-00
+;0003DA1C{Grenada\\\\\\\\\}#016#016
+Granada\\\\\\\\\#016
+|16
+@0003DA38-0003DA47-00
+;0003DA38{Habana\\\\\\\\\\}#016#016
+Habana\\\\\\\\\\#016
+|16
+@0003DA54-0003DA63-00
+;0003DA54{La Vega\\\\\\\\\}#016#016
+La Vega\\\\\\\\\#016
+|16
+@0003DA70-0003DA80-00
+;0003DA70{Maracaibo\\\\\\\\}#017#017
+Maracaibo\\\\\\\\#017
+|17
+@0003DA8C-0003DA9B-00
+;0003DA8C{Margarita\\\\\\\}#016#016
+Margarita\\\\\\\#016
+|16
+@0003DAA8-0003DAB8-00
+;0003DAA8{Panamá\\\\\\\\\\\}#017#017
+Panamá\\\\\\\\\\\#017
+|17
+@0003DAC4-0003DAD3-00
+;0003DAC4{Puerto Bello\\\\}#016#016
+Puerto Bello\\\\#016
+|16
+@0003DAE0-0003DAEF-00
+;0003DAE0{Puerto Cabello\\}#016#016
+Puerto Cabello\\#016
+|16
+@0003DAFC-0003DB0B-00
+;0003DAFC{Puerto Príncipe\}#016#016
+Puerto Príncipe\#016
+|16
+@0003DB18-0003DB27-00
+;0003DB18{Río de la Hacha\}#016#016
+Río de la Hacha\#016
+|16
+@0003DB34-0003DB43-00
+;0003DB34{San Juan\\\\\\\\}#016#016
+San Juan\\\\\\\\#016
+|16
+@0003DB50-0003DB5F-00
+;0003DB50{Santa Marta\\\\\}#016#016
+Santa Marta\\\\\#016
+|16
+@0003DB6C-0003DB7B-00
+;0003DB6C{Santiago\\\\\\\\}#016#016
+Santiago\\\\\\\\#016
+|16
+@0003DB88-0003DB97-00
+;0003DB88{Santiago Vega\\\}#016#016
+Santiago Vega\\\#016
+|16
+@0003DBA4-0003DBB3-00
+;0003DBA4{Santo Domingo\\\}#016#016
+Santo Domingo\\\#016
+|16
+@0003DBC0-0003DBCF-00
+;0003DBC0{San Agustín\\\\\}#016#016
+San Agustín\\\\\#016
+|16
+@0003DBDC-0003DBEB-00
+;0003DBDC{St. Lucia\\\\\\\}#016#016
+St. Lucia\\\\\\\#016
+|16
+@0003DBF8-0003DC07-00
+;0003DBF8{St. Thome\\\\\\\}#016#016
+Santo Tomás\\\\\#016
+|16
+@0003DC14-0003DC23-00
+;0003DC14{Trinidad\\\\\\\\}#016#016
+Trinidad\\\\\\\\#016
+|16
+@0003DC30-0003DC3F-00
+;0003DC30{Vera Cruz\\\\\\\}#016#016
+Vera Cruz\\\\\\\#016
+|16
+@0003DC4C-0003DC5C-00
+;0003DC4C{Villa Hermosa\\\\}#017#017
+Villa Hermosa\\\\#017
+|17
+@0003DC68-0003DC78-00
+;0003DC68{Canal Florida\\\\}#017#017
+Canal Florida\\\\#017
+|17
+@0003DC84-0003DC93-00
+;0003DC84{Canal Florida\\\}#016#016
+Canal Florida\\\#016
+|16
+@0003DCC4-0003DCD3-00
+;0003DCC4{Barbados\\\\\\\\}#016#016
+Barbados\\\\\\\\#016
+|16
+@0003DCE0-0003DCEF-00
+;0003DCE0{Campeche\\\\\\\\}#016#016
+Campeche\\\\\\\\#016
+|16
+@0003DCFC-0003DD0B-00
+;0003DCFC{Caracas\\\\\\\\\}#016#016
+Caracas\\\\\\\\\#016
+|16
+@0003DD18-0003DD27-00
+;0003DD18{Cartagena\\\\\\\}#016#016
+Cartagena\\\\\\\#016
+|16
+@0003DD34-0003DD43-00
+;0003DD34{Coro\\\\\\\\\\\\}#016#016
+Coro\\\\\\\\\\\\#016
+|16
+@0003DD50-0003DD5F-00
+;0003DD50{Cumaná\\\\\\\\\\}#016#016
+Cumaná\\\\\\\\\\#016
+|16
+@0003DD6C-0003DD7C-00
+;0003DD6C{Curaçao\\\\\\\\\\}#017#017
+Curaçao\\\\\\\\\\#017
+|17
+@0003DD88-0003DD97-00
+;0003DD88{Eleuthera\\\\\\\}#016#016
+Eleuthera\\\\\\\#016
+|16
+@0003DDA4-0003DDB3-00
+;0003DDA4{Florida Keys\\\\}#016#016
+Cayos Florida\\\#016
+|16
+@0003DDC0-0003DDCF-00
+;0003DDC0{Gran Granada\\\\}#016#016
+Gran Granada\\\\#016
+|16
+@0003DDDC-0003DDEB-00
+;0003DDDC{Gran Bahama\\\\\}#016#016
+Gran Bahama\\\\\#016
+|16
+@0003DDF8-0003DE07-00
+;0003DDF8{Gibraltar\\\\\\\}#016#016
+Gibraltar\\\\\\\#016
+|16
+@0003DE14-0003DE23-00
+;0003DE14{Habana\\\\\\\\\\}#016#016
+Habana\\\\\\\\\\#016
+|16
+@0003DE30-0003DE3F-00
+;0003DE30{La Vega\\\\\\\\\}#016#016
+La Vega\\\\\\\\\#016
+|16
+@0003DE4C-0003DE5C-00
+;0003DE4C{Maracaibo\\\\\\\\}#017#017
+Maracaibo\\\\\\\\#017
+|17
+@0003DE68-0003DE78-00
+;0003DE68{Margarita\\\\\\\\}#017#017
+Margarita\\\\\\\\#017
+|17
+@0003DE84-0003DE93-00
+;0003DE84{Nieves\\\\\\\\\\}#016#016
+Nieves\\\\\\\\\\#016
+|16
+@0003DEA0-0003DEB0-00
+;0003DEA0{Panamá\\\\\\\\\\\}#017#017
+Panamá\\\\\\\\\\\#017
+|17
+@0003DEBC-0003DECC-00
+;0003DEBC{Petit-Goâve\\\\\\}#017#017
+Petit-Goâve\\\\\\#017
+|17
+@0003DED8-0003DEE7-00
+;0003DED8{Providencia\\\\\}#016#016
+Providencia\\\\\#016
+|16
+@0003DEF4-0003DF03-00
+;0003DEF4{Puerto Bello\\\\}#016#016
+Puerto Bello\\\\#016
+|16
+@0003DF10-0003DF1F-00
+;0003DF10{Puerto Cabello\\}#016#016
+Puerto Cabello\\#016
+|16
+@0003DF2C-0003DF3B-00
+;0003DF2C{Puerto Príncipe\}#016#016
+Puerto Príncipe\#016
+|16
+@0003DF48-0003DF57-00
+;0003DF48{Río de la Hacha\}#016#016
+Río de la Hacha\#016
+|16
+@0003DF64-0003DF73-00
+;0003DF64{San Juan\\\\\\\\}#016#016
+San Juan\\\\\\\\#016
+|16
+@0003DF80-0003DF8F-00
+;0003DF80{Santo Domingo\\\}#016#016
+Santo Domingo\\\#016
+|16
+@0003DF9C-0003DFAB-00
+;0003DF9C{Santa Marta\\\\\}#016#016
+Santa Marta\\\\\#016
+|16
+@0003DFB8-0003DFC7-00
+;0003DFB8{Santiago\\\\\\\\}#016#016
+Santiago\\\\\\\\#016
+|16
+@0003DFD4-0003DFE3-00
+;0003DFD4{Santiago Vega\\\}#016#016
+Santiago Vega\\\#016
+|16
+@0003DFF0-0003E000-00
+;0003DFF0{San Agustín\\\\\\}#017#017
+San Agustín\\\\\\#017
+|17
+@0003E00C-0003E01B-00
+;0003E00C{St. Christophe\\}#016#016
+St. Christophe\\#016
+|16
+@0003E028-0003E038-00
+;0003E028{Santo Tomás\\\\\\}#017#017
+Santo Tomás\\\\\\#017
+|17
+@0003E044-0003E053-00
+;0003E044{Tortuga\\\\\\\\\}#016#016
+Tortuga\\\\\\\\\#016
+|16
+@0003E060-0003E06F-00
+;0003E060{Trinidad\\\\\\\\}#016#016
+Trinidad\\\\\\\\#016
+|16
+@0003E07C-0003E08B-00
+;0003E07C{Vera Cruz\\\\\\\}#016#016
+Vera Cruz\\\\\\\#016
+|16
+@0003E098-0003E0A8-00
+;0003E098{Villa Hermosa\\\\}#017#017
+Villa Hermosa\\\\#017
+|17
+@0003E0B4-0003E0C4-00
+;0003E0B4{Canal Florida\\\\}#017#017
+Canal Florida\\\\#017
+|17
+@0003E0D0-0003E0DF-00
+;0003E0D0{Canal Florida\\\}#016#016
+Canal Florida\\\#016
+|16
+@0003E110-0003E11F-00
+;0003E110{Antigua\\\\\\\\\}#016#016
+Antigua\\\\\\\\\#016
+|16
+@0003E12C-0003E13B-00
+;0003E12C{Barbados\\\\\\\\}#016#016
+Barbados\\\\\\\\#016
+|16
+@0003E148-0003E157-00
+;0003E148{Bermuda\\\\\\\\\}#016#016
+Bermuda\\\\\\\\\#016
+|16
+@0003E164-0003E173-00
+;0003E164{Campeche\\\\\\\\}#016#016
+Campeche\\\\\\\\#016
+|16
+@0003E180-0003E18F-00
+;0003E180{Caracas\\\\\\\\\}#016#016
+Caracas\\\\\\\\\#016
+|16
+@0003E19C-0003E1AB-00
+;0003E19C{Cartagena\\\\\\\}#016#016
+Cartagena\\\\\\\#016
+|16
+@0003E1B8-0003E1C8-00
+;0003E1B8{Curaçao\\\\\\\\\\}#017#017
+Curaçao\\\\\\\\\\#017
+|17
+@0003E1D4-0003E1E4-00
+;0003E1D4{Cumaná\\\\\\\\\\\}#017#017
+Cumaná\\\\\\\\\\\#017
+|17
+@0003E1F0-0003E1FF-00
+;0003E1F0{Eleuthera\\\\\\\}#016#016
+Eleuthera\\\\\\\#016
+|16
+@0003E20C-0003E21B-00
+;0003E20C{Florida Keys\\\\}#016#016
+Cayos Florida\\\#016
+|16
+@0003E228-0003E237-00
+;0003E228{Gran Granada\\\\}#016#016
+Gran Granada\\\\#016
+|16
+@0003E244-0003E253-00
+;0003E244{Guadalupe\\\\\\\}#016#016
+Guadalupe\\\\\\\#016
+|16
+@0003E260-0003E26F-00
+;0003E260{Gibraltar\\\\\\\}#016#016
+Gibraltar\\\\\\\#016
+|16
+@0003E27C-0003E28B-00
+;0003E27C{Habana\\\\\\\\\\}#016#016
+Habana\\\\\\\\\\#016
+|16
+@0003E298-0003E2A7-00
+;0003E298{La Vega\\\\\\\\\}#016#016
+La Vega\\\\\\\\\#016
+|16
+@0003E2B4-0003E2C4-00
+;0003E2B4{Maracaibo\\\\\\\\}#017#017
+Maracaibo\\\\\\\\#017
+|17
+@0003E2D0-0003E2DF-00
+;0003E2D0{Margarita\\\\\\\}#016#016
+Margarita\\\\\\\#016
+|16
+@0003E2EC-0003E2FC-00
+;0003E2EC{Martinica\\\\\\\\}#017#017
+Martinica\\\\\\\\#017
+|17
+@0003E308-0003E318-00
+;0003E308{Montserrat\\\\\\\}#017#017
+Montserrat\\\\\\\#017
+|17
+@0003E324-0003E333-00
+;0003E324{Nieves\\\\\\\\\\}#016#016
+Nieves\\\\\\\\\\#016
+|16
+@0003E340-0003E350-00
+;0003E340{Panamá\\\\\\\\\\\}#017#017
+Panamá\\\\\\\\\\\#017
+|17
+@0003E35C-0003E36B-00
+;0003E35C{Petit-Goâve\\\\\}#016#016
+Petit-Goâve\\\\\#016
+|16
+@0003E378-0003E387-00
+;0003E378{Puerto Bello\\\\}#016#016
+Puerto Bello\\\\#016
+|16
+@0003E394-0003E3A3-00
+;0003E394{Puerto Príncipe\}#016#016
+Puerto Príncipe\#016
+|16
+@0003E3B0-0003E3BF-00
+;0003E3B0{Río de la Hacha\}#016#016
+Río de la Hacha\#016
+|16
+@0003E3CC-0003E3DC-00
+;0003E3CC{San Juan\\\\\\\\\}#017#017
+San Juan\\\\\\\\\#017
+|17
+@0003E3E8-0003E3F7-00
+;0003E3E8{Santa Catalina\\}#016#016
+Santa Catalina\\#016
+|16
+@0003E404-0003E413-00
+;0003E404{Santa Marta\\\\\}#016#016
+Santa Marta\\\\\#016
+|16
+@0003E420-0003E42F-00
+;0003E420{Santiago\\\\\\\\}#016#016
+Santiago\\\\\\\\#016
+|16
+@0003E43C-0003E44B-00
+;0003E43C{Santiago Vega\\\}#016#016
+Santiago Vega\\\#016
+|16
+@0003E458-0003E468-00
+;0003E458{Santo Domingo\\\\}#017#017
+Santo Domingo\\\\#017
+|17
+@0003E474-0003E483-00
+;0003E474{San Agustín\\\\\}#016#016
+San Agustín\\\\\#016
+|16
+@0003E490-0003E49F-00
+;0003E490{San Eustaquio\\\}#016#016
+San Eustaquio\\\#016
+|16
+@0003E4AC-0003E4BC-00
+;0003E4AC{San Cristobal\\\\}#017#017
+San Cristobal\\\\#017
+|17
+@0003E4C8-0003E4D8-00
+;0003E4C8{San Martín\\\\\\\}#017#017
+San Martín\\\\\\\#017
+|17
+@0003E4E4-0003E4F4-00
+;0003E4E4{Tortuga\\\\\\\\\\}#017#017
+Tortuga\\\\\\\\\\#017
+|17
+@0003E500-0003E50F-00
+;0003E500{Trinidad\\\\\\\\}#016#016
+Trinidad\\\\\\\\#016
+|16
+@0003E51C-0003E52B-00
+;0003E51C{Vera Cruz\\\\\\\}#016#016
+Vera Cruz\\\\\\\#016
+|16
+@0003E538-0003E548-00
+;0003E538{Villa Hermosa\\\\}#017#017
+Villa Hermosa\\\\#017
+|17
+@0003E554-0003E564-00
+;0003E554{Canal Florida\\\\}#017#017
+Canal Florida\\\\#017
+|17
+@0003E570-0003E57F-00
+;0003E570{Canal Florida\\\}#016#016
+Canal Florida\\\#016
+|16
+@0003E5B0-0003E5BF-00
+;0003E5B0{Antigua\\\\\\\\\}#016#016
+Antigua\\\\\\\\\#016
+|16
+@0003E5CC-0003E5DB-00
+;0003E5CC{Barbados\\\\\\\\}#016#016
+Barbados\\\\\\\\#016
+|16
+@0003E5E8-0003E5F7-00
+;0003E5E8{Bermuda\\\\\\\\\}#016#016
+Bermuda\\\\\\\\\#016
+|16
+@0003E604-0003E613-00
+;0003E604{Campeche\\\\\\\\}#016#016
+Campeche\\\\\\\\#016
+|16
+@0003E620-0003E62F-00
+;0003E620{Caracas\\\\\\\\\}#016#016
+Caracas\\\\\\\\\#016
+|16
+@0003E63C-0003E64B-00
+;0003E63C{Cartagena\\\\\\\}#016#016
+Cartagena\\\\\\\#016
+|16
+@0003E658-0003E668-00
+;0003E658{Cumaná\\\\\\\\\\\}#017#017
+Cumaná\\\\\\\\\\\#017
+|17
+@0003E674-0003E683-00
+;0003E674{Curaçao\\\\\\\\\}#016#016
+Curaçao\\\\\\\\\#016
+|16
+@0003E690-0003E69F-00
+;0003E690{Eleuthera\\\\\\\}#016#016
+Eleuthera\\\\\\\#016
+|16
+@0003E6AC-0003E6BB-00
+;0003E6AC{Gran Granada\\\\}#016#016
+Gran Granada\\\\#016
+|16
+@0003E6C8-0003E6D7-00
+;0003E6C8{Gibraltar\\\\\\\}#016#016
+Gibraltar\\\\\\\#016
+|16
+@0003E6E4-0003E6F3-00
+;0003E6E4{Guadalupe\\\\\\\}#016#016
+Guadalupe\\\\\\\#016
+|16
+@0003E700-0003E710-00
+;0003E700{Habana\\\\\\\\\\\}#017#017
+Habana\\\\\\\\\\\#017
+|17
+@0003E71C-0003E72B-00
+;0003E71C{Léogâne\\\\\\\\\}#016#016
+Léogâne\\\\\\\\\#016
+|16
+@0003E738-0003E748-00
+;0003E738{Maracaibo\\\\\\\\}#017#017
+Maracaibo\\\\\\\\#017
+|17
+@0003E754-0003E763-00
+;0003E754{Margarita\\\\\\\}#016#016
+Margarita\\\\\\\#016
+|16
+@0003E770-0003E780-00
+;0003E770{Martinica\\\\\\\\}#017#017
+Martinica\\\\\\\\#017
+|17
+@0003E78C-0003E79C-00
+;0003E78C{Montserrat\\\\\\\}#017#017
+Montserrat\\\\\\\#017
+|17
+@0003E7A8-0003E7B7-00
+;0003E7A8{Nieves\\\\\\\\\\}#016#016
+Nieves\\\\\\\\\\#016
+|16
+@0003E7C4-0003E7D4-00
+;0003E7C4{Panamá\\\\\\\\\\\}#017#017
+Panamá\\\\\\\\\\\#017
+|17
+@0003E7E0-0003E7EF-00
+;0003E7E0{Petit-Goâve\\\\\}#016#016
+Petit-Goâve\\\\\#016
+|16
+@0003E7FC-0003E80C-00
+;0003E7FC{Port-de-Paix\\\\\}#017#017
+Port-de-Paix\\\\\#017
+|17
+@0003E818-0003E827-00
+;0003E818{Port Royale\\\\\}#016#016
+Port Royale\\\\\#016
+|16
+@0003E834-0003E843-00
+;0003E834{Puerto Bello\\\\}#016#016
+Puerto Bello\\\\#016
+|16
+@0003E850-0003E85F-00
+;0003E850{Puerto Príncipe\}#016#016
+Puerto Príncipe\#016
+|16
+@0003E86C-0003E87B-00
+;0003E86C{Río de la Hacha\}#016#016
+Río de la Hacha\#016
+|16
+@0003E888-0003E897-00
+;0003E888{San Juan\\\\\\\\}#016#016
+San Juan\\\\\\\\#016
+|16
+@0003E8A4-0003E8B3-00
+;0003E8A4{Santa Catalina\\}#016#016
+Santa Catalina\\#016
+|16
+@0003E8C0-0003E8CF-00
+;0003E8C0{Santa Marta\\\\\}#016#016
+Santa Marta\\\\\#016
+|16
+@0003E8DC-0003E8EB-00
+;0003E8DC{Santiago\\\\\\\\}#016#016
+Santiago\\\\\\\\#016
+|16
+@0003E8F8-0003E907-00
+;0003E8F8{Santo Domingo\\\}#016#016
+Santo Domingo\\\#016
+|16
+@0003E914-0003E923-00
+;0003E914{San Agustín\\\\\}#016#016
+San Agustín\\\\\#016
+|16
+@0003E930-0003E93F-00
+;0003E930{San Eustaquio\\\}#016#016
+San Eustaquio\\\#016
+|16
+@0003E94C-0003E95C-00
+;0003E94C{San Cristobal\\\\}#017#017
+San Cristobal\\\\#017
+|17
+@0003E968-0003E978-00
+;0003E968{San Martín\\\\\\\}#017#017
+San Martín\\\\\\\#017
+|17
+@0003E984-0003E994-00
+;0003E984{Tortuga\\\\\\\\\\}#017#017
+Tortuga\\\\\\\\\\#017
+|17
+@0003E9A0-0003E9AF-00
+;0003E9A0{Trinidad\\\\\\\\}#016#016
+Trinidad\\\\\\\\#016
+|16
+@0003E9BC-0003E9CB-00
+;0003E9BC{Vera Cruz\\\\\\\}#016#016
+Vera Cruz\\\\\\\#016
+|16
+@0003E9D8-0003E9E8-00
+;0003E9D8{Villa Hermosa\\\\}#017#017
+Villa Hermosa\\\\#017
+|17
+@0003E9F4-0003EA04-00
+;0003E9F4{Canal Florida\\\\}#017#017
+Canal Florida\\\\#017
+|17
+@0003EA10-0003EA1F-00
+;0003EA10{Canal Florida\\\}#016#016
+Canal Florida\\\#016
+|16
+@0003EA50-0003EA5F-00
+;0003EA50{Antigua\\\\\\\\\}#016#016
+Antigua\\\\\\\\\#016
+|16
+@0003EA6C-0003EA7C-00
+;0003EA6C{Barbados\\\\\\\\\}#017#017
+Barbados\\\\\\\\\#017
+|17
+@0003EA88-0003EA98-00
+;0003EA88{Belize\\\\\\\\\\\}#017#017
+Belice\\\\\\\\\\\#017
+|17
+@0003EAA4-0003EAB3-00
+;0003EAA4{Bermuda\\\\\\\\\}#016#016
+Bermuda\\\\\\\\\#016
+|16
+@0003EAC0-0003EACF-00
+;0003EAC0{Campeche\\\\\\\\}#016#016
+Campeche\\\\\\\\#016
+|16
+@0003EADC-0003EAEB-00
+;0003EADC{Caracas\\\\\\\\\}#016#016
+Caracas\\\\\\\\\#016
+|16
+@0003EAF8-0003EB08-00
+;0003EAF8{Cartagena\\\\\\\\}#017#017
+Cartagena\\\\\\\\#017
+|17
+@0003EB14-0003EB23-00
+;0003EB14{Cumaná\\\\\\\\\\}#016#016
+Cumaná\\\\\\\\\\#016
+|16
+@0003EB30-0003EB40-00
+;0003EB30{Curaçao\\\\\\\\\\}#017#017
+Curaçao\\\\\\\\\\#017
+|17
+@0003EB4C-0003EB5B-00
+;0003EB4C{Eleuthera\\\\\\\}#016#016
+Eleuthera\\\\\\\#016
+|16
+@0003EB68-0003EB77-00
+;0003EB68{Gran Granada\\\\}#016#016
+Gran Granada\\\\#016
+|16
+@0003EB84-0003EB94-00
+;0003EB84{Guadalupe\\\\\\\\}#017#017
+Guadalupe\\\\\\\\#017
+|17
+@0003EBA0-0003EBAF-00
+;0003EBA0{Léogâne\\\\\\\\\}#016#016
+Léogâne\\\\\\\\\#016
+|16
+@0003EBBC-0003EBCB-00
+;0003EBBC{Habana\\\\\\\\\\}#016#016
+Habana\\\\\\\\\\#016
+|16
+@0003EBD8-0003EBE8-00
+;0003EBD8{Maracaibo\\\\\\\\}#017#017
+Maracaibo\\\\\\\\#017
+|17
+@0003EBF4-0003EC03-00
+;0003EBF4{Margarita\\\\\\\}#016#016
+Margarita\\\\\\\#016
+|16
+@0003EC10-0003EC20-00
+;0003EC10{Martinica\\\\\\\\}#017#017
+Martinica\\\\\\\\#017
+|17
+@0003EC2C-0003EC3C-00
+;0003EC2C{Montserrat\\\\\\\}#017#017
+Montserrat\\\\\\\#017
+|17
+@0003EC48-0003EC57-00
+;0003EC48{Nasáu\\\\\\\\\\\}#016#016
+Nasáu\\\\\\\\\\\#016
+|16
+@0003EC64-0003EC73-00
+;0003EC64{Nieves\\\\\\\\\\}#016#016
+Nieves\\\\\\\\\\#016
+|16
+@0003EC80-0003EC90-00
+;0003EC80{Panamá\\\\\\\\\\\}#017#017
+Panamá\\\\\\\\\\\#017
+|17
+@0003EC9C-0003ECAB-00
+;0003EC9C{Petit-Goâve\\\\\}#016#016
+Petit-Goâve\\\\\#016
+|16
+@0003ECB8-0003ECC8-00
+;0003ECB8{Port-de-Paix\\\\\}#017#017
+Port-de-Paix\\\\\#017
+|17
+@0003ECD4-0003ECE3-00
+;0003ECD4{Port Royale\\\\\}#016#016
+Port Royale\\\\\#016
+|16
+@0003ECF0-0003ECFF-00
+;0003ECF0{Puerto Bello\\\\}#016#016
+Puerto Bello\\\\#016
+|16
+@0003ED0C-0003ED1C-00
+;0003ED0C{Puerto Príncipe\\}#017#017
+Puerto Príncipe\\#017
+|17
+@0003ED28-0003ED38-00
+;0003ED28{Río de la Hacha\\}#017#017
+Río de la Hacha\\#017
+|17
+@0003ED44-0003ED53-00
+;0003ED44{San Juan\\\\\\\\}#016#016
+San Juan\\\\\\\\#016
+|16
+@0003ED60-0003ED70-00
+;0003ED60{Santa Marta\\\\\\}#017#017
+Santa Marta\\\\\\#017
+|17
+@0003ED7C-0003ED8C-00
+;0003ED7C{Santiago\\\\\\\\\}#017#017
+Santiago\\\\\\\\\#017
+|17
+@0003ED98-0003EDA7-00
+;0003ED98{Santo Domingo\\\}#016#016
+Santo Domingo\\\#016
+|16
+@0003EDB4-0003EDC3-00
+;0003EDB4{San Agustín\\\\\}#016#016
+San Agustín\\\\\#016
+|16
+@0003EDD0-0003EDDF-00
+;0003EDD0{San Eustaquio\\\}#016#016
+San Eustaquio\\\#016
+|16
+@0003EDEC-0003EDFC-00
+;0003EDEC{San Cristobal\\\\}#017#017
+San Cristobal\\\\#017
+|17
+@0003EE08-0003EE18-00
+;0003EE08{San Martín\\\\\\\}#017#017
+San Martín\\\\\\\#017
+|17
+@0003EE24-0003EE34-00
+;0003EE24{Tortuga\\\\\\\\\\}#017#017
+Tortuga\\\\\\\\\\#017
+|17
+@0003EE40-0003EE4F-00
+;0003EE40{Trinidad\\\\\\\\}#016#016
+Trinidad\\\\\\\\#016
+|16
+@0003EE5C-0003EE6B-00
+;0003EE5C{Vera Cruz\\\\\\\}#016#016
+Vera Cruz\\\\\\\#016
+|16
+@0003EE78-0003EE88-00
+;0003EE78{Villa Hermosa\\\\}#017#017
+Villa Hermosa\\\\#017
+|17
+@0003EE94-0003EEA4-00
+;0003EE94{Canal Florida\\\\}#017#017
+Canal Florida\\\\#017
+|17
+@0003EEB0-0003EEC0-00
+;0003EEB0{Canal Florida\\\\}#017#017
+Canal Florida\\\\#017
+|17

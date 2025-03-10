@@ -1,4 +1,4 @@
-Pac-Mania (MSX)
+Pac-Mania (MSX 2)
 Traducción al Español v1.0 (12/11/2019)
 (C) 2019 Traducciones Wave
 

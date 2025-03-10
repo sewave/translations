@@ -1,4 +1,4 @@
-Super Runner (MSX)
+Super Runner (MSX 2)
 Traducción al Español v1.0 (05/12/2019)
 (C) 2019 Traducciones Wave
 

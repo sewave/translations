@@ -1,6 +1,6 @@
 QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (Mega Drive)
-Traducción al Español v1.1 (20/10/2022)
-(C) 2022 Traducciones Wave
+Traducción al Español v1.2 (08/03/2025)
+(C) 2025 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
@@ -9,7 +9,12 @@ Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
 
-V1.1: Reajustados punteros de la introducción para corregir un puntero erróneo en la rom original y dar más espacio a una frase.
+V1.1:
+-Reajustados punteros de la introducción para corregir un
+puntero erróneo en la rom original y dar más espacio a una
+frase.
+V1.2:
+-Arreglada errata de traducción de NIETOS a SOBRINOS.
 
 ------------------------
 Instrucciones de Parcheo

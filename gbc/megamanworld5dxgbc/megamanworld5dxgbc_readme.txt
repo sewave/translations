@@ -1,5 +1,5 @@
-Mega Man World 4 DX (Game Boy Color)
-Traducción al Español v1.0 (15/02/2025)
+Mega Man World 5 DX (Game Boy Color)
+Traducción al Español v1.0 (12/04/2025)
 (C) 2025 Traducciones Wave
 
 ------------------------
@@ -14,10 +14,10 @@ Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Mega Man IV (USA).gb
-MD5: 8a00f627b8902c92327435901c249e19
-SHA1: 6f0901db2b5dcaace0215c0abdc21a914fa21b65
-CRC32: abcea00d
+Mega Man V (USA) (SGB Enhanced).gb
+MD5: ceb17d831b410d91aa41bf2819cbed82
+SHA1: 9a7da0e4d3f49e4a0b94e85cd64e28a687d81260
+CRC32: 72e6d21d
 524288 bytes
 
 --------

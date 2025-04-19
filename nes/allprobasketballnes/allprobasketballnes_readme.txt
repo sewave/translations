@@ -1,24 +1,27 @@
-Mega Man World 4 DX (Game Boy Color)
-Traducción al Español v1.0 (15/02/2025)
+All-Pro Basketball (NES)
+Traducción al Español v1.1 (13/04/2025)
 (C) 2025 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducción y hacking está basado en el de marc_max.
+Esta traducción y hacking es completamente original.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+V1.1:
+-Arreglada pantalla de título
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Mega Man IV (USA).gb
-MD5: 8a00f627b8902c92327435901c249e19
-SHA1: 6f0901db2b5dcaace0215c0abdc21a914fa21b65
-CRC32: abcea00d
-524288 bytes
+All-Pro Basketball (USA).nes
+MD5: dcf7b3220ddcece3a04c4f6f6b8db45e
+SHA1: 832944a78e94851d7c8520c3eabe58d53b22ec01
+CRC32: fefe9064
+262160 bytes
 
 --------
 Créditos

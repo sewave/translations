@@ -1,0 +1,64 @@
+@00000899-00000A46-FF
+;00000899{~06~~0B~ <~B7~~AC~~D7~~B8~~C0~>    (~B7~-)              ~00~~06~~0C~                              ~00~~06~~0D~~81~~92~----~B1~~C5~~C0~  (Space,Trigger)..~B3~~C2~~00~~06~~0E~                              ~00~~06~~0F~~82~~93~-----~CB~~D2~  (Cursor,Stick).~B3~~BA~~DE~~B8~~00~~06~~10~                              ~00~~06~~11~~83~~94~-----~D1~~BC~  (SELECT)...~BC~~C0~~B2~~A6~ ~B9~~BD~,~00~~06~~12~                              ~00~~06~~13~~84~~95~----~BC~~C0~~B2~   ...~CF~~C0~~CA~ ~BD~~C4~~AF~~CA~~DF~-~A6~ ~C0~~DE~~BD~~00~~06~~14~                              ~00~~06~~15~~85~ --~CC~~DE~~DB~~AF~~B8~  ~DF~S .......~BE~~C2~~D2~~B2~~A6~ ~D0~~D9~~A1~~00~~06~~16~                              ~00~~06~~17~~86~~96~-~BD~~C4~~AF~~CA~~DF~-  ~DF~Space,Trigger.~B9~~DE~-~D1~~00~~FF~}#772#430
+~06~~0B~
+<Personaje> (Controles)       ~00~~06~~0C~
+                              ~00~~06~~0D~
+~81~~92~------Tú  Espacio: Disparar.~00~~06~~0E~
+                              ~00~~06~~0F~
+~82~~93~Princesa  Cursor: Moverse.  ~00~~06~~10~
+                              ~00~~06~~11~
+~83~~94~---Bicho  Select: Mata bicho~00~~06~~12~
+                              ~00~~06~~13~
+~84~~95~-Cadáver  o pone tapón.     ~00~~06~~14~
+                              ~00~~06~~15~
+~85~ --Bloque  Espacio jugar, S  ~00~~06~~16~
+                              ~00~~06~~17~
+~86~~96~---Tapón  instrucciones.    ~00~~FF~#430
+|430
+@00000A47-00000BF4-FF
+;00000A47{~06~~0B~ ~D1~~BC~~CA~ ~B1~~C5~~C0~ ~CF~~C0~~CA~ ~CB~~D2~~A6~ ~C8~~D7~~AF~~C3~ ~B3~~AF~~C3~ ~B7~~CF~~BD~~A1~~00~~06~~0C~~B1~~C5~~C0~~CA~ ~D1~~BC~~C4~~B5~~C5~~BC~~DE~ Gun~A6~ ~D3~~AF~~C3~ ~C0~~C0~~B6~~B2~~CF~~BD~~B6~~DE~~00~~06~~0D~~B6~~D6~~DC~~B2~ ~B5~~CB~~D2~~BB~~CF~~CA~ ~B1~~C5~~C0~~B6~~DE~ ~CF~~D3~~AF~~C3~ ~D4~~D7~~C5~~B9~~DA~~CA~~DE~~00~~06~~0E~~C5~~D8~~CF~~BE~~DD~~A1~   ~D1~~BC~~C9~ ~BA~-~B9~~DE~~B7~~B6~~D7~ ~D0~~A6~ ~CF~~D3~~D9~~C0~~D2~~C6~~00~~06~~0F~~CC~~DE~~DB~~AF~~B8~, ~BD~~C4~~AF~~CA~~DF~- ,~D1~~BC~~C9~~BC~~C0~~B2~ ~C5~~C4~~DE~~A6~ ~D8~~D6~~B3~~00~~06~~10~~C3~~DE~~B7~~CF~~BD~~A1~ ~BF~~DA~~D7~~C9~ ~C4~~B8~~C1~~AE~-~CA~ ~BB~~CF~~BB~~DE~~CF~ ~C3~~DE~~BD~~B6~~DE~~00~~06~~11~~C0~~C4~~B4~~CA~~DE~,   ~CC~~DE~~DB~~AF~~B8~~CA~ ~B3~~C0~~DA~~D9~~C4~ ~B5~~BC~~D4~~D7~~DA~~D9~~B6~~DE~~00~~06~~12~~D1~~BA~-~B6~~DE~~DC~~C6~ ~BD~~C4~~AF~~CA~~DF~-~B6~~DE~ ~B1~~DA~~CA~~DE~ ~B3~~BA~~DE~~B6~~C5~~B2~ ~C4~~00~~06~~13~~B2~~B3~~D6~~B3~~C5~ ~D3~~C9~~C3~~DE~, ~B3~~CF~~B8~~D4~~D9~~C4~ ~B6~~DD~~BE~~DE~~DD~~C5~ ~CF~~D3~~D8~~A6~~00~~06~~14~~C2~~B8~~D9~~BA~~C4~~D3~ ~C3~~DE~~B7~~CF~~BD~~A1~ ~BA~~DA~~D7~~C9~ ~BE~~B2~~BC~~C2~~CA~ ~B9~~DE~-~D1~~A6~~00~~06~~15~~D4~~D8~~C5~~B6~~DE~~D7~ ~B5~~CE~~DE~~B4~~C3~ ~B2~~AF~~C3~ ~B8~~C0~~DE~~BB~~B2~~A1~       ~00~~06~~16~~B5~~CB~~D2~~BB~~CF~~CA~ ~B1~~D9~~C4~~B8~~C3~~DD~~A6~ ~BA~~B4~~D9~~C4~ ~C3~~DE~~C3~~B7~~CF~~BD~~A1~   ~00~~06~~17~-------- Push 'R'-key --------~00~~FF~}#1405#430
+~06~~0B~
+Eres un insecto que debe      ~00~~06~~0C~
+proteger a la dulce princesa. ~00~~06~~0D~
+                              ~00~~06~~0E~
+Ampárate de los ataques con   ~00~~06~~0F~
+bloques, tapones y hasta      ~00~~06~~10~
+cadáveres. Puedes empujar más ~00~~06~~11~
+bloques con tu arma. Los      ~00~~06~~12~
+tapones evitan que los bloques~00~~06~~13~
+se muevan.                    ~00~~06~~14~
+La princesa llegará en la     ~00~~06~~15~
+primera bonificación.         ~00~~06~~16~
+                              ~00~~06~~17~
+------Pulsa la tecla 'R'------~00~~FF~#430
+|430
+@00000BF5-00000C33-00
+;00000BF5{~02~~01~pico-~1D~~1D~~1F~pico~00~}#033#015
+~02~~01~Pico-~1D~~1D~~1F~Pico~00~#015
+;00000C04{~02~~05~High-~1D~~1D~~1D~~1F~score~00~}#038#017
+~02~~05~Mejor~1D~~1D~~1D~~1F~marca~00~#017
+;00000C15{~04~~0A~Score~00~}#017#008
+~04~~0A~Marca~00~#008
+;00000C1D{~0B~~18~Micro-Cabin presents~00~}#032#023
+~0B~~18~Micro-Cabin presenta~00~#023
+|63
+@000013B1-000013C4-00
+;000013B1{~11~~05~GIVE UP~00~}#019#010
+~11~~05~RENDIDO~00~#010
+;000013BB{~11~~07~YOU WIN~00~}#019#010
+~11~~07~GANASTE~00~#010
+|20
+@00001634-00001683-00
+;00001634{~02~~0E~    ~1D~~1F~    ~00~}#028#013
+~02~~0E~    ~1D~~1F~    ~00~#013
+;00001641{~02~~11~    ~1D~~1D~~1D~~1F~cont.~1D~~1D~~1D~~1D~~1D~~1F~     ~00~}#066#027
+~02~~11~    ~1D~~1D~~1D~~1F~cont.~1D~~1D~~1D~~1D~~1D~~1F~     ~00~#027
+;0000165C{~02~~0E~Game~1D~~1F~over~00~}#028#013
+~02~~0E~Fin~1D~~1F~Juego~00~#013
+;00001669{~02~~11~Push~1D~~1D~~1D~~1F~Trig.~1D~~1D~~1D~~1D~~1D~~1F~Space~00~}#066#027
+~02~~11~Toca~1D~~1D~~1D~~1F~Disp.~1D~~1D~~1D~~1D~~1D~~1F~Espa.~00~#027
+|80
+@000017DD-000017E2-00
+;000017DD{~05~~0F~Out~00~}#015#006
+~05~~0F~Aay~00~#006
+|6

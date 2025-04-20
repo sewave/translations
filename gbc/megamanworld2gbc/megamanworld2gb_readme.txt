@@ -1,5 +1,5 @@
 Mega Man World II GBC (Game Boy Color)
-Traducción al Español v1.0 (18/01/2025)
+Traducción al Español v1.1 (20/04/2025)
 (C) 2025 Traducciones Wave
 
 ------------------------
@@ -8,6 +8,8 @@ Notas y Fallos Conocidos
 Esta traducción y hacking está basado en el de Specialagentape.
 Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+V1.1: Arreglado error en clave y game over.
 
 ------------------------
 Instrucciones de Parcheo

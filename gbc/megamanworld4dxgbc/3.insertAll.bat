@@ -1,7 +1,7 @@
 @echo off
-set T_FILENAME="TR_Mega Man World 4 DX.gb"
-set S_FILENAME="Mega Man World 4 DX.gb"
-set SCRIPTNAME="megamanworld4dxgb"
+set T_FILENAME="TR_Mega Man World 4 DX.gbc"
+set S_FILENAME="Mega Man World 4 DX.gbc"
+set SCRIPTNAME="megamanworld4dxgbc"
 del %T_FILENAME%
 copy %S_FILENAME% %T_FILENAME%
 java -jar Hextractor.jar -ih %SCRIPTNAME%.hex %T_FILENAME%

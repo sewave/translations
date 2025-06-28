@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Dodge Boy (Japan).gb"
+set SCRIPTNAME="dodgeboygb"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 67D5:30,127D5:30,1F6D7:30,68C5:100,6F45:100,1520D:20,10F65:20,67B5:10,10AD5:10,127B5:10,1F6B7:10,1E907:C0,4EC5:40,4FC5:40
+pause

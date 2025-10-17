@@ -1,0 +1,38 @@
+@00000011-0000001F-FF
+;00000011{wriggler  ~11~~01~~00~~00~~FE~}#030#015
+wriggler  ~11~~01~~00~~00~~FE~#015
+|15
+@00000076-0000008B-FF
+;00000076{RANDOMIZE USR 639~10~~07~":~EF~}#031#022
+RANDOMIZE USR 639~10~~07~":~EF~#022
+|22
+@000000DE-000000F3-FF
+;000000DE{RANDOMIZE USR 639~10~~07~":~EF~}#031#022
+RANDOMIZE USR 639~10~~07~":~EF~#022
+|22
+@0000028B-0000029C-FF
+;0000028B{"code"~AF~25000~0E~~00~~00~~A8~a~00~}#036#018
+"code"~AF~25000~0E~~00~~00~~A8~a~00~#018
+|18
+@000026CF-000026DF-FF
+;000026CF{M4~D3~M4~D3~M5U~3D~URUS~95~I~23~}#032#017
+M4~D3~M4~D3~M5U~3D~URUS~95~I~23~#017
+|17
+@0000953C-0000957B-FF
+;0000953C{     Well done, You finished              in ... place=~11~~14~~00~~AF~2 ~CF~!~8C~}#082#064
+     Well done, You finished              in ... place=~11~~14~~00~~AF~2 ~CF~!~8C~#064
+|64
+@0000A870-0000A945-FF
+;0000A870{             Cup of tea  Cup of tea    Bottle     Cherries     Apple     Milk shake   Iced bun   Cornflakes   Ice cream   Door key    Parachute   Money bag Skeleton key  Ant spray  Grave stone Extra life >02~F1~[2~09~~D6~>~40~}#226#214
+             Cup of tea  Cup of tea    Bottle     Cherries     Apple     Milk shake   Iced bun   Cornflakes   Ice cream   Door key    Parachute   Money bag Skeleton key  Ant spray  Grave stone Extra life >02~F1~[2~09~~D6~>~40~#214
+|214
+@0000C52E-0000C618-FF
+;0000C52E{Wriggler==1 ..... Keyboard 'Q M K W L'=2 ..... Keyboard 'O A Q P M'=3 ..... Keyboard 'Q E R W T'=4 ..... Keyboard '5 6 7 8 0'=5 ..... Sinclair Interface 2=6 ..... Micro power ADD ON=7 ..... Kempston Interface====0 ..... Start game=~FF~}#235#232
+Wriggler==1 ..... Keyboard 'Q M K W L'=2 ..... Keyboard 'O A Q P M'=3 ..... Keyboard 'Q E R W T'=4 ..... Keyboard '5 6 7 8 0'=5 ..... Sinclair Interface 2=6 ..... Micro power ADD ON=7 ..... Kempston Interface====0 ..... Start game=~FF~#232
+;0000C616{:w~C5~}#006#003
+:w~C5~#003
+|235
+@0000C81E-0000C826-FF
+;0000C81E{+-e3~F0~\~ED~~10~~EE~}#021#009
++-e3~F0~\~ED~~10~~EE~#009
+|9

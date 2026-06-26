@@ -1,30 +1,36 @@
 Punch-Out!! (NES)
-Traducción al Español v1.2 (04/06/2019)
-(C) 2019 Traducciones Wave
+TraducciÃ³n al EspaÃ±ol v1.3 (20/06/2026)
+(C) 2026 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducción y hacking es completamente original.
-Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
+Esta traducciÃ³n y hacking es completamente original.
+Si encuentras algÃºn fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
-v1.1: Arreglado título, algunos textos, cambiado ¡Lucha! por ¡Pelea! y añadidos ¡ y ¿.
-V1.2: Arreglos menores para alinearlo con Myke Tyson Punch Out.
+
+v1.1: Arreglado tÃ­tulo, algunos textos, cambiado Â¡Lucha! por Â¡Pelea! y aÃ±adidos Â¡ y Â¿.
+v1.2: Arreglos menores para alinearlo con Myke Tyson Punch Out.
+v1.3:	-Cambiado lucha por pelea
+		-ESTANBUL => ESTAMBUL
+		-Arreglado texto descentrado de "EN INDIA"
+		-Arreglos varios de script
+		-Juntado texto "ARR IBA"
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Punch-Out!! (U) [!].nes
-MD5: 3e4af91097aece830b3039af3f2c0802
-SHA1: 025faf9059c06d6706409b66fb0cb2ee17deb548
-CRC32: a827ff1b
+Punch-Out!! (USA).nes
+MD5: 207d7d37d0af3525f3bb2d90e280b339
+SHA1: 0dbc137e7ba18dea3006d028c09227cd636e349b
+CRC32: 390d15b3
 262160 bytes
 
 --------
-Créditos
+CrÃ©ditos
 --------
-Wave - Hacking, traducción y pruebas.
+Wave - Hacking, traducciÃ³n y pruebas.
 
 -- FIN --

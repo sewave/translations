@@ -1,0 +1,204 @@
+@00000419-0000045E-00
+;00000419{TIME OVER~00~}#013#010
+TIME OVER~00~#010
+;00000423{GAME OVER~00~}#013#010
+GAME OVER~00~#010
+;0000042D{YOU HAVE 1O SECONDS TO COMPLY=~08~~0A~~17~CONTINUE 1O~00~}#057#045
+YOU HAVE 1O SECONDS TO COMPLY=~08~~0A~~17~CONTINUE 1O~00~#045
+;0000045A{~04~~0B~~0C~=~0E~}#017#005
+~04~~0B~~0C~=~0E~#005
+|70
+@00001B4E-00001B62-00
+;00001B4E{START=~09~=OPTIONS~00~}#022#016
+START=~09~=OPTIONS~00~#016
+;00001B5E{~3A~~00~}#008#002
+~3A~~00~#002
+;00001B60{ =~09~}#006#003
+ =~09~#003
+|21
+@00001B68-00001BB8-00
+;00001B68{LIVES====~09~~1A~CONTINUES====~09~~1A~TUNE====~09~~1A~SOUND EFFECT====~09~~1A~PRESS START=~09~~1A~TO EXIT~00~}#109#076
+LIVES====~09~~1A~CONTINUES====~09~~1A~TUNE====~09~~1A~SOUND EFFECT====~09~~1A~PRESS START=~09~~1A~TO EXIT~00~#076
+;00001BB4{~DB~~DC~~E6~O~EE~}#017#005
+~DB~~DC~~E6~O~EE~#005
+|81
+@00001FA2-00001FF8-00
+;00001FA2{WEAPON BONUS=    5 X===  TIME BONUS=   1O X=== LEVEL BONUS=  1OO X===       SCORE=~00~}#086#083
+WEAPON BONUS=    5 X===  TIME BONUS=   1O X=== LEVEL BONUS=  1OO X===       SCORE=~00~#083
+;00001FF5{~81~~92~~00~}#012#003
+~81~~92~~00~#003
+;00001FF8{~80~}#004#001
+~80~#001
+|87
+@000177F3-000178C2-00
+;000177F3{====         COPYRIGHT 1993=   ACCLAIM ENTERTAINMENT INC.=== FLYING EDGE IS A TRADE MARK OF=   ACCLAIM ENTERTAINMENT INC.===       ALL RIGHTS RESERVED===           LICENSED BY=      SEGA ENTERPRISES LTD.~00~}#207#204
+====         COPYRIGHT 1993=   ACCLAIM ENTERTAINMENT INC.=== FLYING EDGE IS A TRADE MARK OF=   ACCLAIM ENTERTAINMENT INC.===       ALL RIGHTS RESERVED===           LICENSED BY=      SEGA ENTERPRISES LTD.~00~#204
+;000178BF{~00~}#004#001
+~00~#001
+;000178C0{~3F~~3F~~3E~}#012#003
+~3F~~3F~~3E~#003
+|208
+@0003DB07-0003DB46-00
+;0003DB07{CONGRATULATIONS                ~00~}#035#032
+CONGRATULATIONS                ~00~#032
+;0003DB27{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DB47-0003DB86-00
+;0003DB47{ROBOCOP HAS SUCCEEDED IN       ~00~}#035#032
+ROBOCOP HAS SUCCEEDED IN       ~00~#032
+;0003DB67{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DB87-0003DBC6-00
+;0003DB87{DEFEATING THE TWO KANEMITSU    ~00~}#035#032
+DEFEATING THE TWO KANEMITSU    ~00~#032
+;0003DBA7{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DBC7-0003DC06-00
+;0003DBC7{NINJA ROBOTS AND HAS RESCUED   ~00~}#035#032
+NINJA ROBOTS AND HAS RESCUED   ~00~#032
+;0003DBE7{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DC07-0003DC46-00
+;0003DC07{NIKKO AND MARIE FROM THE       ~00~}#035#032
+NIKKO AND MARIE FROM THE       ~00~#032
+;0003DC27{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DC47-0003DC86-00
+;0003DC47{CLUTCHES OF MCGAGGET           ~00~}#035#032
+CLUTCHES OF MCGAGGET           ~00~#032
+;0003DC67{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DC87-0003DCC6-00
+;0003DC87{THEY FLY OFF TO SAFETY         ~00~}#035#032
+THEY FLY OFF TO SAFETY         ~00~#032
+;0003DCA7{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DCC7-0003DD06-00
+;0003DCC7{SILHOUETTED BY THE DAZZLING    ~00~}#035#032
+SILHOUETTED BY THE DAZZLING    ~00~#032
+;0003DCE7{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DD07-0003DD46-00
+;0003DD07{EXPLOSION ON THE 96TH FLOOR OF ~00~}#035#032
+EXPLOSION ON THE 96TH FLOOR OF ~00~#032
+;0003DD27{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DD47-0003DD86-00
+;0003DD47{THE ONCE SPECTACULAR OCP       ~00~}#035#032
+THE ONCE SPECTACULAR OCP       ~00~#032
+;0003DD67{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DD87-0003DDC6-00
+;0003DD87{BUILDING                       ~00~}#035#032
+BUILDING                       ~00~#032
+;0003DDA7{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DDC7-0003DE06-00
+;0003DDC7{THE KANEMITSU TAKEOVER IS      ~00~}#035#032
+THE KANEMITSU TAKEOVER IS      ~00~#032
+;0003DDE7{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DE07-0003DE46-00
+;0003DE07{FINALLY AT AN END              ~00~}#035#032
+FINALLY AT AN END              ~00~#032
+;0003DE27{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003DE47-0003DE86-00
+;0003DE47{THANK YOU                      ~00~}#035#032
+THANK YOU                      ~00~#032
+;0003DE67{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E207-0003E246-00
+;0003E207{      DEVELOPED AND PRODUCED BY~00~}#035#032
+      DEVELOPED AND PRODUCED BY~00~#032
+;0003E227{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E267-0003E2A6-00
+;0003E267{EDEN ENTERTAINMENT SOFTWARE LTD~00~}#035#032
+EDEN ENTERTAINMENT SOFTWARE LTD~00~#032
+;0003E287{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E327-0003E366-00
+;0003E327{                     WRITTEN BY~00~}#035#032
+                     WRITTEN BY~00~#032
+;0003E347{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E367-0003E3A6-00
+;0003E367{               STUART MIDDLETON~00~}#035#032
+               STUART MIDDLETON~00~#032
+;0003E387{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E427-0003E466-00
+;0003E427{                    GRAPHICS BY~00~}#035#032
+                    GRAPHICS BY~00~#032
+;0003E447{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E467-0003E506-00
+;0003E467{                RICHARD CARLESS~00~}#035#032
+                RICHARD CARLESS~00~#032
+;0003E487{                    TERRY BAKER~00~}#035#032
+                    TERRY BAKER~00~#032
+;0003E4A7{                      TIM ROUND~00~}#035#032
+                      TIM ROUND~00~#032
+;0003E4C7{               STUART MIDDLETON~00~}#035#032
+               STUART MIDDLETON~00~#032
+;0003E4E7{                               ~00~}#035#032
+                               ~00~#032
+|160
+@0003E587-0003E5C6-00
+;0003E587{        MUSIC AND SOUND EFFECTS~00~}#035#032
+        MUSIC AND SOUND EFFECTS~00~#032
+;0003E5A7{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E5C7-0003E606-00
+;0003E5C7{                   MATT FURNISS~00~}#035#032
+                   MATT FURNISS~00~#032
+;0003E5E7{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E627-0003E666-00
+;0003E627{                   SOUND DRIVER~00~}#035#032
+                   SOUND DRIVER~00~#032
+;0003E647{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E747-0003E786-00
+;0003E747{              TECHNICAL SUPPORT~00~}#035#032
+              TECHNICAL SUPPORT~00~#032
+;0003E767{                               ~00~}#035#032
+                               ~00~#032
+|64
+@0003E787-0003E7E6-00
+;0003E787{               STUART MIDDLETON~00~}#035#032
+               STUART MIDDLETON~00~#032
+;0003E7A7{                      TIM ROUND~00~}#035#032
+                      TIM ROUND~00~#032
+;0003E7C7{                               ~00~}#035#032
+                               ~00~#032
+|96
+@0003E887-0003E8C6-00
+;0003E887{              PLEASE PLAY AGAIN~00~}#035#032
+              PLEASE PLAY AGAIN~00~#032
+;0003E8A7{                               ~00~}#035#032
+                               ~00~#032
+|64

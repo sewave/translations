@@ -1,28 +1,34 @@
 Mike Tyson's Punch-Out!! (NES)
-Traducción al Español v1.0 (06/06/2019)
-(C) 2019 Traducciones Wave
+TraducciÃ³n al EspaÃ±ol v1.1 (20/06/2026)
+(C) 2026 Traducciones Wave
 
 ------------------------
 Notas y Fallos Conocidos
 ------------------------
-Esta traducción y hacking es completamente original.
-Si encuentras algún fallo puedes contactar conmigo y ver mis traducciones en
+Esta traducciÃ³n y hacking es completamente original.
+Si encuentras algÃºn fallo puedes contactar conmigo y ver mis traducciones en
 traduccioneswave.blogspot.com
+
+v1.1:	-Cambiado lucha por pelea
+		-ESTANBUL => ESTAMBUL
+		-Arreglado texto descentrado de "EN INDIA"
+		-Arreglos varios de script
+		-Juntado texto "ARR IBA"
 
 ------------------------
 Instrucciones de Parcheo
 ------------------------
 En formato IPS, puedes usar LunarIPS o Floating IPS.
 Archivo utilizado:
-Mike Tyson's Punch-Out!! (U) (PRG1) [!].nes
-MD5: c119a5a9b0e2959ad5d11562f9f4ce55
-SHA1: 0f0c2c2e294ff8ce255a618964728c935fd8963b
-CRC32: 3df8e170
+Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1).nes
+MD5: 2e3d646eecbcdb6e7da3d0a6edfb325b
+SHA1: 61c3a89eef9dd09790d22a897ae876ceeec944a3
+CRC32: acd20bd8
 262160 bytes
 
 --------
-Créditos
+CrÃ©ditos
 --------
-Wave - Hacking, traducción y pruebas.
+Wave - Hacking, traducciÃ³n y pruebas.
 
 -- FIN --

@@ -37,6 +37,7 @@
  / / / / / / / / / / / / /
  / / / / / / / / / / / / /#936
 |936
+;GOALS COUNTRY NAMES - Sprites
 @00018BF7-00018C29-FF
 ;00018BF7{GERARGITABRAHOLENGCMRROMIRLFRAUSAJPNCOLYUGURUBELNIN}#051#051
 ALE
@@ -54,9 +55,60 @@ JPN
 COL
 YUG
 URU
-BEL
+B{É]}L
 NIN#051
 |51
+@00018D2D-00018D54-FF
+;00018D2D{~3E~~6E~8G~3E~~6E~{0]}g~3E~~76~8O~3E~~76~{0]}o~3E~!8A~3E~!{0]}a~3E~~86~8L~3E~~86~{0]}l~3E~~8E~8)~3E~~8E~{0]}(}#109#040
+~3E~~6E~~49~
+(~BE~~6E~~51~
+)~BE~~76~8
+G~3E~~76~{0]}
+g~3E~!8
+O~3E~!{0]}
+o~3E~~86~8
+L~3E~~86~{0]}
+l~3E~~8E~8
+)~3E~~8E~{0]}
+(#040
+|40
+@00018D55-00018D7C-FF
+;00018D55{~3E~~6A~8O~3E~~6A~{0]}o~3E~~72~8H~3E~~72~{0]}h~3E~~80~8N~3E~~80~{0]}n~3E~~88~8O~3E~~88~{0]}o~3E~~90~8)~3E~~90~{0]}(}#115#040
+~3E~~6E~~49~
+(~BE~~6E~~51~
+)~BE~~76~8
+N~3E~~76~{0]}
+n~3E~~7E~8
+O~3E~~7E~{0]}
+o~3E~~86~8
+O~3E~~86~{0]}
+o~3E~~8E~8
+)~3E~~8E~{0]}
+(#040
+|40
+@00018D7D-00018DC4-FF
+;00018D7D{~3E~{8]}8H_{8]}{0]}h_~60~8A_~60~{0]}a_~68~8T_~68~{0]}t_~78~8T_~78~{0]}t_~80~8R_~80~{0]}r_~88~8I_~88~{0]}i_~90~8C_~90~{0]}c_~98~8K_~98~{0]}k_~A0~8)_~A0~{0]}(}#156#072
+~3E~~60~8
+T_~60~{0]}
+t_~68~8
+R_~68~{0]}
+r_~70~8
+I_~70~{0]}
+i_~78~8
+P_~78~{0]}
+p_~80~8
+L_~80~{0]}
+l_~88~8
+E_~88~{0]}
+e_~90~8
+T_~90~{0]}
+t_~98~8
+E_~98~{0]}
+e_~A0~8
+ _~A0~{0]}
+ #072
+|72
+;
 @0001E3F7-0001E45C-FF
 ;0001E3F7{GERgerARGargITAitaBRAbraHOLholENGengCMRcmrROMromIRLirlFRAfraUSAusaJPNjpnCOLcolYUGyugURUuruBELbelNINnin}#102#102
 ALEale
@@ -74,7 +126,7 @@ JPNjpn
 COLcol
 YUGyug
 URUuru
-BELbel
+B{É[}Lbel
 NINnin#102
 |102
 @0001D711-0001D782-FF
@@ -85,8 +137,8 @@ J1 VS J2
 j{1]} vs j{2]}CM
 J1 J2 VS CON
 j{1]} j{2]} vs conCN
- ALINEACIÓN  
- alineación  CL
+  ALINEACIÓN 
+  alineación CL
 ELIGE MODO 
 elige modo #114
 |114
@@ -124,9 +176,9 @@ elige portero#150
 |150
 @0001DC6E-0001DD10-FF
 ;0001DC6E{1ST{1]}stICD2ND{2]}ndICD3RD{3]}rdICD4TH{4]}thICD5TH{5]}thICD6TH{6]}thICD7TH{7]}thICD8TH{8]}thICD9TH{9]}thKCE10TH{1]}{0]}thKCE11TH{1]}{1]}thKCE12TH{1]}{2]}thKCE13TH{1]}{3]}thKCE14TH{1]}{4]}thMCFFINALfinalaCHSPECIALspecial}#220#163
-1RO{1]}roICD
+1ER{1]}erICD
 2DO{2]}doICD
-3RD{3]}roICD
+3ER{3]}erICD
 4TO{4]}toICD
 5TO{5]}toICD
 6TO{6]}toICD
@@ -139,11 +191,11 @@ elige portero#150
 13RO{1]}{3]}thKCE
 14TO{1]}{4]}thMCF
 FINALfinalaCH
-ESPECIAespecia#163
+EXTRA  extra  #163
 |163
 @0001DD23-0001DD2A-FF
 ;0001DD23{GAMEgame}#008#008
-PARTpart#008
+PRTDprtd#008
 |8
 @0001DDED-0001DE2C-FF
 ;0001DDED{ATKatkDEFdefRUNrunCLSINGLE GAMEsingle gameCK SHOOTOUT  shootout }#064#064

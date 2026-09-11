@@ -1,0 +1,371 @@
+{
+  "schema": 1,
+  "comment": "Traduccion ES de High Seas Havoc (USA). Fuente de verdad unica.",
+  "blocks": {
+    "intro": {
+      "rom_address": "0x0A2681",
+      "method": "story",
+      "note": "LZ intro (16 strings, 0x80=LF, 0xFF=end)",
+      "messages": {
+        "0": {
+          "rom_offset": "0x04CC",
+          "original": "EMERALDA...A LEGENDARY GEM WITH       [LF]  MAGICAL POWERS, STRONG ENOUGH TO      [LF]  CONQUER ARMIES AND TOPPLE KINGDOMS.   [LF]                                        [END]",
+          "translated": ""
+        },
+        "1": {
+          "rom_offset": "0x0570",
+          "original": "  IT WAS THE EVIL PIRATE SCOUNDREL      [LF]  BERNARDO WHO FIRST RECOGNIZED         [LF]  EMERALDA'S MAGIC.                     [LF]                                        [END]",
+          "translated": ""
+        },
+        "2": {
+          "rom_offset": "0x0614",
+          "original": "  AND HE SET OUT TO FIND THE SECRET     [LF]  MAP THAT LED TO EMERALDA'S            [LF]  WHEREABOUTS.                          [LF]                                        [END]",
+          "translated": ""
+        },
+        "3": {
+          "rom_offset": "0x06B8",
+          "original": "  MEANWHILE, OUR HERO HAVOC WAS         [LF]  LIVING IN PEACE AND ROAMING THE SEAS  [LF]  WITH HIS SIDEKICK, TIDE, UNAWARE OF   [LF]  BERNARDO'S EVIL SCHEME.               [END]",
+          "translated": ""
+        },
+        "4": {
+          "rom_offset": "0x075C",
+          "original": "  ONE DAY, THE TWO CAME ACROSS A YOUNG  [LF]  MAIDEN WASHED UP ON THE SHORE...      [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "5": {
+          "rom_offset": "0x0800",
+          "original": "  \"MA'AM, ARE YOU O.K.?\"                [LF]                                        [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "6": {
+          "rom_offset": "0x08A4",
+          "original": "  AFTER A WHILE, THE GIRL OPENED HER    [LF]  EYES.                                 [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "7": {
+          "rom_offset": "0x0948",
+          "original": "  \"UH...OOH...MY NAME IS BRIDGET.\"      [LF]  \"THIS MAP IS VERY IMPORTANT.\"         [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "8": {
+          "rom_offset": "0x09EC",
+          "original": "  \"YOU MUST PROTECT IT AND KEEP IT      [LF]  FROM BERNARDO. PLEASE HELP ME.\"       [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "9": {
+          "rom_offset": "0x0A90",
+          "original": "  \"DON'T WORRY. YOU CAN COUNT ON US,    [LF]  MA'AM!\"                               [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "10": {
+          "rom_offset": "0x0B34",
+          "original": "  THE TWO TOOK THE MAP AND HID IT IN A  [LF]  CAVE HIGH IN THE CLIFFS.              [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "11": {
+          "rom_offset": "0x0BD8",
+          "original": "  AS THE DAYS WENT BY, BRIDGET          [LF]  SLOWLY RECOVERED, AND THE THREE       [LF]  BECAME FAST FRIENDS.                  [LF]                                        [END]",
+          "translated": ""
+        },
+        "12": {
+          "rom_offset": "0x0C7C",
+          "original": "  ...THAT IS, UNTIL ONE OF BERNARDO'S   [LF]  HENCHMEN DISCOVERED THEM.             [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "13": {
+          "rom_offset": "0x0D20",
+          "original": "  UNDER THE COVER OF NIGHT, HE          [LF]  KIDNAPPED BRIDGET AND TIDE, AND       [LF]  TOOK THEM AWAY TO BERNARDO'S          [LF]  HIDEAWAY.                             [END]",
+          "translated": ""
+        },
+        "14": {
+          "rom_offset": "0x0DC4",
+          "original": "  IT'S UP TO HAVOC TO SAVE THEM.        [LF]                                        [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        },
+        "15": {
+          "rom_offset": "0x0E68",
+          "original": "  HAVOC TO THE RESCUE!                  [LF]                                        [LF]                                        [LF]                                        [END]",
+          "translated": ""
+        }
+      }
+    },
+    "stage": {
+      "rom_address": "0x002E7A",
+      "method": "flat_ff",
+      "note": "ASCII, sep 0xFF, end 0x00",
+      "messages": {
+        "0": {
+          "rom_offset": "0x0000",
+          "original": "STAGE 1-1",
+          "translated": ""
+        },
+        "1": {
+          "rom_offset": "0x000A",
+          "original": "STAGE 1-2",
+          "translated": ""
+        },
+        "2": {
+          "rom_offset": "0x0014",
+          "original": "STAGE 2-1",
+          "translated": ""
+        },
+        "3": {
+          "rom_offset": "0x001E",
+          "original": "STAGE 2-2",
+          "translated": ""
+        },
+        "4": {
+          "rom_offset": "0x0028",
+          "original": "STAGE 3-1",
+          "translated": ""
+        },
+        "5": {
+          "rom_offset": "0x0032",
+          "original": "STAGE 3-2",
+          "translated": ""
+        },
+        "6": {
+          "rom_offset": "0x003C",
+          "original": "STAGE 4-1",
+          "translated": ""
+        },
+        "7": {
+          "rom_offset": "0x0046",
+          "original": "STAGE 4-2",
+          "translated": ""
+        },
+        "8": {
+          "rom_offset": "0x0050",
+          "original": "STAGE 5-1",
+          "translated": ""
+        },
+        "9": {
+          "rom_offset": "0x005A",
+          "original": "STAGE 5-2",
+          "translated": ""
+        },
+        "10": {
+          "rom_offset": "0x0064",
+          "original": "STAGE 6-1",
+          "translated": ""
+        },
+        "11": {
+          "rom_offset": "0x006E",
+          "original": "STAGE 6-2",
+          "translated": ""
+        },
+        "12": {
+          "rom_offset": "0x0078",
+          "original": "STAGE 7",
+          "translated": ""
+        },
+        "13": {
+          "rom_offset": "0x0080",
+          "original": "ENDING",
+          "translated": ""
+        }
+      }
+    },
+    "menu": {
+      "rom_address": "0x019996",
+      "method": "merged",
+      "note": "'Nu' + fixed strings",
+      "messages": {
+        "0": {
+          "rom_offset": "0x0002",
+          "original": "PRESS START BUTTON",
+          "translated": ""
+        },
+        "1": {
+          "rom_offset": "0x0014",
+          "original": "GAME START",
+          "translated": ""
+        },
+        "2": {
+          "rom_offset": "0x001E",
+          "original": "ORCHESTRA",
+          "translated": ""
+        },
+        "3": {
+          "rom_offset": "0x0027",
+          "original": "@ 1993 DATA EAST CORPORATION.",
+          "translated": ""
+        },
+        "4": {
+          "rom_offset": "0x0044",
+          "original": "LICENSED BY SEGA ENTERPRISES LTD.",
+          "translated": ""
+        },
+        "5": {
+          "rom_offset": "0x0065",
+          "original": "OPTIONS",
+          "translated": ""
+        }
+      }
+    },
+    "songs": {
+      "rom_address": "0x03CDBA",
+      "method": "flat_fixed",
+      "note": "29 slots x 0x1C (tabla de 29 punteros @0x03CD46)",
+      "messages": {
+        "0": {
+          "rom_offset": "0x0000",
+          "original": "          PRELUDE",
+          "translated": ""
+        },
+        "1": {
+          "rom_offset": "0x001C",
+          "original": "       HAVOC'S THEME",
+          "translated": ""
+        },
+        "2": {
+          "rom_offset": "0x0038",
+          "original": "    GOING ON AN ADVENTURE",
+          "translated": ""
+        },
+        "3": {
+          "rom_offset": "0x0054",
+          "original": "      THE DECK BATTLE",
+          "translated": ""
+        },
+        "4": {
+          "rom_offset": "0x0070",
+          "original": "      HUGE PIRATE BOSS",
+          "translated": ""
+        },
+        "5": {
+          "rom_offset": "0x008C",
+          "original": "    OTARUCEAN'S MUSIC BOX",
+          "translated": ""
+        },
+        "6": {
+          "rom_offset": "0x00A8",
+          "original": "     SEA OF DEEP SORROW",
+          "translated": ""
+        },
+        "7": {
+          "rom_offset": "0x00C4",
+          "original": "   WATCH OUT FOR THE GIANT",
+          "translated": ""
+        },
+        "8": {
+          "rom_offset": "0x00E0",
+          "original": "         THE CHASE",
+          "translated": ""
+        },
+        "9": {
+          "rom_offset": "0x00FC",
+          "original": "       LONELY JOURNEY",
+          "translated": ""
+        },
+        "10": {
+          "rom_offset": "0x0118",
+          "original": "       BOMBING ATTACK",
+          "translated": ""
+        },
+        "11": {
+          "rom_offset": "0x0134",
+          "original": "      AIM FOR THE PEAK",
+          "translated": ""
+        },
+        "12": {
+          "rom_offset": "0x0150",
+          "original": "     SOMETIME SOMEWHERE",
+          "translated": ""
+        },
+        "13": {
+          "rom_offset": "0x016C",
+          "original": "        LIKE A GALE",
+          "translated": ""
+        },
+        "14": {
+          "rom_offset": "0x0188",
+          "original": "       COLD PARADISE",
+          "translated": ""
+        },
+        "15": {
+          "rom_offset": "0x01A4",
+          "original": "         CHEER UP !",
+          "translated": ""
+        },
+        "16": {
+          "rom_offset": "0x01C0",
+          "original": "      LIGHTNING SPEED",
+          "translated": ""
+        },
+        "17": {
+          "rom_offset": "0x01DC",
+          "original": "    PERPLEXING DUNGEONS",
+          "translated": ""
+        },
+        "18": {
+          "rom_offset": "0x01F8",
+          "original": "           CRISIS",
+          "translated": ""
+        },
+        "19": {
+          "rom_offset": "0x0214",
+          "original": "        WHITE FRENZY",
+          "translated": ""
+        },
+        "20": {
+          "rom_offset": "0x0230",
+          "original": "    PIRATE FLEET MENACE",
+          "translated": ""
+        },
+        "21": {
+          "rom_offset": "0x024C",
+          "original": "   FINAL CONFRONTATION !",
+          "translated": ""
+        },
+        "22": {
+          "rom_offset": "0x0268",
+          "original": "        THE ADMIRER",
+          "translated": ""
+        },
+        "23": {
+          "rom_offset": "0x0284",
+          "original": "       THE BEGINNING",
+          "translated": ""
+        },
+        "24": {
+          "rom_offset": "0x02A0",
+          "original": "   FAREWELL - END THEME -",
+          "translated": ""
+        },
+        "25": {
+          "rom_offset": "0x02BC",
+          "original": "       HAVOC IS DOWN",
+          "translated": ""
+        },
+        "26": {
+          "rom_offset": "0x02D8",
+          "original": "        COUNT DOWN !",
+          "translated": ""
+        },
+        "27": {
+          "rom_offset": "0x02F4",
+          "original": "           OVERDO",
+          "translated": ""
+        },
+        "28": {
+          "rom_offset": "0x0310",
+          "original": "          PROLOGUE",
+          "translated": ""
+        }
+      }
+    },
+    "gameover": {
+      "rom_address": "0x0070FC",
+      "method": "merged",
+      "note": "'Nu' + fixed strings",
+      "messages": {
+        "0": {
+          "rom_offset": "0x0002",
+          "original": "CONTINUEEND",
+          "translated": ""
+        }
+      }
+    }
+  }
+}

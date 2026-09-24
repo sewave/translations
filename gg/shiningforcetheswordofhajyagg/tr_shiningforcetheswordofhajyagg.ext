@@ -1,0 +1,602 @@
+@000044FF-0000450B-00
+;000044FF{No one there~00~}#016#013
+No hay nadie~00~#013
+|13
+@00004560-00004568-00
+;00004560{No magic~00~}#012#009
+No tiene~00~#009
+|9
+@00004593-000045A0-00
+;00004593{Not enough MP~00~}#017#014
+  Faltan PM  ~00~#014
+|14
+@00004623-0000462A-00
+;00004623{No item~00~}#011#008
+No ítem~00~#008
+|8
+@00004668-00004671-00
+;00004668{No effect~00~}#013#010
+No afecta~00~#010
+|10
+@000046F0-000046FC-00
+;000046F0{No equipment~00~}#016#013
+ Sin equipo ~00~#013
+|13
+@00004725-00004734-00
+;00004725{Curse hold item~00~}#019#016
+Maldecir objeto~00~#016
+|16
+@00004765-00004775-00
+;00004765{Cursed equipment~00~}#020#017
+ Equipo maldito ~00~#017
+|17
+@00004906-00004915-00
+;00004906{You are kidding~00~}#019#016
+Estás bromeando~00~#016
+|16
+@00004C02-00004C17-00
+;00004C02{BATT.~00~}#009#006
+ATACA~00~#006
+;00004C08{MAGIC~00~}#009#006
+MAGIA~00~#006
+;00004C0E{ITEM~00~}#008#005
+ÍTEM~00~#005
+;00004C13{STAY~00~}#008#005
+PARA~00~#005
+|22
+@00004C21-00004C37-00
+;00004C21{BATT.~00~}#009#006
+ATACA~00~#006
+;00004C27{MAGIC~00~}#009#006
+MAGIA~00~#006
+;00004C2D{ITEM~00~}#008#005
+ÍTEM~00~#005
+;00004C32{CHECK~00~}#009#006
+MIRA\~00~#006
+|23
+@00004C41-00004C54-00
+;00004C41{USE~00~}#007#004
+USA~00~#004
+;00004C45{GIVE~00~}#008#005
+DA\ ~00~#005
+;00004C4A{EQUIP~00~}#009#006
+PONE\~00~#006
+;00004C50{DROP~00~}#008#005
+DEJA~00~#005
+|20
+@00004F0A-00004F0E-00
+;00004F0A{L.E.~00~}#008#005
+E.T.~00~#005
+|5
+@00005071-00005087-00
+;00005071{STATS~00~}#009#006
+ESTA.~00~#006
+;00005077{SPEED~00~}#009#006
+VELO.~00~#006
+;0000507D{MESS.~00~}#009#006
+MNSJ.~00~#006
+;00005083{QUIT~00~}#008#005
+SALE~00~#005
+|23
+@00008759-0000876B-00
+;00008759{BUY~00~}#007#004
+CMP~00~#004
+;0000875D{SELL~00~}#008#005
+VNDE~00~#005
+;00008762{DEALS~00~}#009#006
+OFRTS~00~#006
+;00008768{FIX~00~}#007#004
+RPA~00~#004
+|19
+@00009247-0000925B-00
+;00009247{HELP~00~}#008#005
+AYDA~00~#005
+;0000924C{CHANG~00~}#009#006
+CMBIA~00~#006
+;00009252{ITEM~00~}#008#005
+ÍTEM~00~#005
+;00009257{SAVE~00~}#008#005
+SLVA~00~#005
+|21
+@00009265-0000927B-00
+;00009265{RAISE~00~}#009#006
+REVIV~00~#006
+;0000926B{CURE~00~}#008#005
+CURA~00~#005
+;00009270{PROM.~00~}#009#006
+PROM.~00~#006
+;00009276{STATS~00~}#009#006
+ESTA.~00~#006
+|23
+@00009285-00009298-00
+;00009285{USE~00~}#007#004
+USA~00~#004
+;00009289{GIVE~00~}#008#005
+DA\ ~00~#005
+;0000928E{EQUIP~00~}#009#006
+PONE\~00~#006
+;00009294{DROP~00~}#008#005
+DEJA~00~#005
+|20
+@0000A11B-0000A11D-00
+;0000A11B{MP~00~}#006#003
+PM~00~#003
+|3
+@0000A609-0000A610-00
+;0000A609{YES  NO~00~}#011#008
+SÍ   NO~00~#008
+|8
+@0000A78E-0000A792-00
+;0000A78E{NAME~00~}#008#005
+{NO}{OM}{BR}{RE}~00~#005
+|5
+@0000A812-0000A81A-00
+;0000A812{CLASS LV~00~}#012#009
+NV CLASE~00~#009
+|9
+@0000A892-0000A89A-00
+;0000A892{HP MP EX~00~}#012#009
+PV PM EX~00~#009
+|9
+@0000A9AC-0000A9B6-00
+;0000A9AC{EQUIP ITEM~00~}#014#011
+EQUIPACIÓN~00~#011
+|11
+@0000AB74-0000AB83-00
+;0000AB74{ATT~00~}#007#004
+ATA~00~#004
+;0000AB78{DEF~00~}#007#004
+DEF~00~#004
+;0000AB7C{AGI~00~}#007#004
+AGI~00~#004
+;0000AB80{MOV~00~}#007#004
+MOV~00~#004
+|16
+@0000AB8A-0000AB8D-00
+;0000AB8A{EXP~00~}#007#004
+EXP~00~#004
+|4
+@0000ABF0-0000AC00-00
+;0000ABF0{--ITEM--~00~}#012#009
+--ÍTEM--~00~#009
+;0000ABF9{Nothing~00~}#011#008
+Nada\  ~00~#008
+|17
+@0000AC3A-0000AC42-00
+;0000AC3A{-MAGIC-L~00~}#012#009
+-MAGIA-N~00~#009
+|9
+@0000B25A-0000B269-00
+;0000B25A{-----STATUS----~00~}#019#016
+-----ESTADO----~00~#016
+|16
+@0000B2D6-0000B2E5-00
+;0000B2D6{------ITEM-----~00~}#019#016
+------ÍTEM-----~00~#016
+|16
+@0000B371-0000B391-00
+;0000B371{BATLE MESSAGE~00~}#017#014
+ MSJ BATALLA ~00~#014
+;0000B37F{DISPLAY~00~}#011#008
+MOSTRAR~00~#008
+;0000B387{NO DISPLAY~00~}#014#011
+NO MOSTRAR~00~#011
+|33
+@0000B400-0000B427-00
+;0000B400{MESSAGE SPEED~00~}#017#014
+ VLZ MENSAJES~00~#014
+;0000B40E{1  2  3  4  ~00~}#016#013
+1  2  3  4  ~00~#013
+;0000B41B{SLOW----FAST~00~}#016#013
+LENTO-RÁPIDO~00~#013
+|40
+@0000B5D0-0000B5D4-00
+;0000B5D0{GOLD~00~}#008#005
+ORO\~00~#005
+|5
+@0000B607-0000B61B-00
+;0000B607{CAMP~00~}#008#005
+CAM.~00~#005
+;0000B60C{~00~}#004#001
+~00~#001
+;0000B60D{~00~}#004#001
+~00~#001
+;0000B60E{~00~}#004#001
+~00~#001
+;0000B60F{EXIT~00~}#008#005
+SALE~00~#005
+;0000B614{~00~}#004#001
+~00~#001
+;0000B615{~00~}#004#001
+~00~#001
+;0000B616{~00~}#004#001
+~00~#001
+;0000B617{SHOP~00~}#008#005
+TNDA~00~#005
+|21
+@0000B6D0-0000B6E5-00
+;0000B6D0{START~00~}#009#006
+NUEVA~00~#006
+;0000B6D6{CONT.~00~}#009#006
+SIGUE~00~#006
+;0000B6DC{DEL.~00~}#008#005
+BOR.~00~#005
+;0000B6E1{COPY~00~}#008#005
+COP.~00~#005
+|22
+@0000B7BD-0000B7C0-00
+;0000B7BD{BTL~00~}#007#004
+BTL~00~#004
+|4
+@0000B834-0000B843-00
+;0000B834{ ???????? BTL ?~00~}#019#016
+ ???????? BTL ?~00~#016
+|16
+@0000B927-0000B932-00
+;0000B927{  DEL   END~00~}#015#012
+  BOR   FIN~00~#012
+|12
+@0000D9C0-0000DA97-00
+;0000D9C0{                    The kingdoms                        Gardiana and                       Cypress joined                       their armies                          to battle                         the evil Iom.   }#216#216
+                  
+  Los reinos de   
+                  
+Gardiana y Cypress
+                  
+   unieron sus    
+                  
+  ejércitos para  
+                  
+   combatir al    
+                  
+   malvado Iom.   #216
+|216
+@0007DEC9-0007DF4A-00
+;0007DEC9{2SDMN2HERO2KNTE2PLDN2WARR2GLDR2MAGE2WIZD2HEAL2SBRN2ACHR2SNIP2BDMN2SKYW2MONK2MSMK2WRBR2BSKR2RANG2BWKN2NINJ2NINJ2SMRI2SMRI2PRNC2PRNC}#130#130
+2ESPD
+2HÉRO
+2CABA
+2PLDN
+2GUER
+2GLDR
+2MAGO
+2HECH
+2CURA
+2SNDR
+2ARQR
+2FRCT
+2HPÁJ
+2GCEL
+2MONJ
+2MJMA
+2TRGR
+2BSKR
+2CZDR
+2CBAR
+2NINJ
+2NINJ
+2SMRI
+2SMRI
+2PRNC
+2PRNC#130
+|130
+@0007DF4B-0007E25B-00
+;0007DF4B{BMedical= HerbBHealing= Seed6AntidoteBHealing= Rain9Angel= WingAPower= WaterBProtect= MilkCQuick= ChickenERunning= PimentoDCheerful= Bread9Power= RingBProtect= Ring9Quick= RingBRunning= Ring9White= Ring9Black= Ring8Evil= RingCLeather= GloveAPower= GloveAThorn= Glove8Iron= Claw8Evil= Claw7Evil= Axe8Short= Axe9Bronze= Rod7Iron= Rod9Iron= Arrow9Great= Shot8Great= AxeAShort= SwordBMiddle= Sword9Long= SwordASteel= SwordABroad= SwordDCritical= Sword4KatanaARobin= Arrow9Dark= SwordCShining= SwordDSword of= HajyaBBronze= LanceASteel= LanceBChrome= Lance9Evil= Lance5Halberd3SpearAPower= Spear6Valkyrie6Hand Axe9Middle= Axe9Battle= Axe6Heat Axe8Atlas= Axe9Wooden= RodDGuardian= Staff9Holy= StaffAPower= Stick8Demon= Rod3FlailBWooden= ArrowASteel= ArrowCAssault= ShellABuster= Shot5Nothing}#785#785
+~0E~
+Hierba= Médica
+~10~
+Semilla= de Cura
+~08~
+Antídoto
+~0F~
+Lluvia= de Cura
+~0D~
+Ala= de Ángel
+~0E~
+Agua de= Poder
+~0E~
+Leche= Protec.
+~0D~
+Pollo= Rápido
+~10~
+Pimiento= Correr
+~0B~
+Pan= Alegre
+~0B~
+{Anillo} de= Poder
+~0D~
+{Anillo} de= Defensa
+~0B~
+{Anillo} de= Prisa
+~0C~
+{Anillo} de= Correr
+~08~
+{Anillo} Blanco
+~07~
+{Anillo} Negro
+~0A~
+{Anillo}= Maligno
+~0B~
+{Guantes} de= Cuero
+~0B~
+{Guantes} de= Poder
+~0D~
+{Guantes} de= Espinas
+~0C~
+{Garras} de= Hierro
+~0A~
+{Garras} del= Mal
+~0A~
+{Hacha}= Maligna
+~07~
+{Hacha} Corta
+~0F~
+Vara de= Bronce
+~0F~
+Vara de= Hierro
+~0C~
+{Flecha} de= Hierro
+~0A~
+Gran= Tiro
+~07~
+Gran= {Hacha}
+~07~
+{Espada} Corta
+~07~
+{Espada} Media
+~07~
+{Espada} Larga
+~0B~
+{Espada} de= Acero
+~07~
+{Espada} Ancha
+~0A~
+{Espada}= Crítica
+~06~
+Catana
+~0B~
+{Flecha} de= Robin
+~08~
+{Espada} Oscura
+~09~
+{Espada}= Brillo
+~0B~
+{Espada} de= Hajya
+~0C~
+{Lanza} de= Bronce
+~0B~
+{Lanza} de= Acero
+~0B~
+{Lanza} de= Cromo
+~0A~
+{Lanza} del= Mal
+~08~
+Alabarda
+~05~
+Lanza
+~0B~
+{Lanza} de= Poder
+~08~
+Valq{ui}ria
+~0A~
+{Hacha} de= Mano
+~0A~
+{Hacha}= Mediana
+~0D~
+{Hacha} de= Batalla
+~0B~
+{Hacha} de= Calor
+~0B~
+{Hacha} de= Atlas
+~0F~
+Vara de= Madera
+~0F~
+Bastón= Guardia
+~0F~
+Bastón= Sagrado
+~0E~
+Palo de= Poder
+~0D~
+Vara= Demonio
+~05~
+Mayal
+~0C~
+{Flecha} de= Madera
+~0B~
+{Flecha} de= Acero
+~0F~
+Bala de= Asalto
+~0B~
+Tiro= Atroz
+~04~
+Nada
+                           #785
+|785
+@0007E25C-0007E2C3-00
+;0007E25C{2HEAL2AURA3DETOX3QUICK2SLOW3BOOST4DISPEL4MUDDLE4DESOUL3SLEEP4EGRESS3BLAZE4FREEZE2BOLT3BLAST3KATON4RAIJIN}#104#104
+2
+CURA2
+AURA3
+DETOX3
+RAUDO2
+LNTO3
+MEJRA4
+ANULAR4
+CONFSN4
+DESALM3
+SUEÑO4
+VOLVER3
+LLAMA4
+HELADA2
+RAYO3
+RÁFGA3
+KATON4
+RAIJIN#104
+|104
+@0007E2C4-0007E330-00
+;0007E2C4{4DEANNA5NATASHA2JAHA2ERIC2DAWN2LUKE3SLADE4GRAHAM5CHESTER1MAY3SARAH5RANDOLF4CLAUDE3ROHDE2RUSH4HIGINS2GYAN2NICK}#109#109
+4DEANNA5NATASHA2JAHA2ERIC2DAWN2LUKE3SLADE4GRAHAM5CHESTER1MAY3SARAH5RANDOLF4CLAUDE3ROHDE2RUSH4HIGINS2GYAN2NICK#109
+|109
+@0007E331-0007E666-00
+;0007E331{4Goblin4Scaben9Drago= Newt3Dwarf4Ratman9Iom= KnightBDark= Soldier4Zombie6SkeletonAArch= Knight9Lizard= man2Worm3Ghoul3Wight6Minotaur6Cerberos3Golem6Dullahan3Taros6Sentinel9ExecutionerBSkull= Knight5Big Bat5Incubus5RatwingDPegasus= Knight6Gargoyle9Evil= Pixie5Hawkman4Belial4Wyvern5ChimeraBDeath= ArcherBBrass= RorderADark= SniperADark= RangerBBrass= Gunner6AssassinCDeath= Balloon8Dark= MageAMaster= Mage6SorcererBDemon= Master8Dark= MonkADark= BishopAEvil= ClericAEvil= Bishop9Drago= Newt3Dwarf9Iom= KnightBDeath= Archer8Dark= MageBDark= SoldierADark= Sniper4GordonAMaster= MageAArch= KnightADark= Bishop6Sorcerer9Lizard= man6Sorcerer3Wight5Hawkman3Ghoul2Solo6MinotaurBDemon= Master5BarbaraCDeath= Walldol6Warderer1Iom1Iom1Iom6Iom dollCStatue= of Iom5Ratwing8Bow= Rider6Sorcerer4GRAHAM4ZombieADark= SniperDPegasus= Knight}#822#822
+~06~
+Trasgo
+~06~
+Ratero
+~0C~
+Cría= Dragón
+~05~
+Enano
+~06~
+H.Rata
+~08~
+Cab. Iom
+~0C~
+Soldado= Os.
+~05~
+Zombi
+~08~
+Esqu{el}eto
+~0D~
+Cab.= Super{io}r
+~0B~
+H.= Lagarto
+~06~
+Gusano
+~03~
+Gul
+~05~
+Ánima
+~08~
+M{in}otauro
+~07~
+Cerbero
+~05~
+Gólem
+~08~
+Dullahan
+~05~
+Taros
+~08~
+Cent{in}ela
+~08~
+Ejecutor
+~0D~
+Cab.= C{al}avera
+~08~
+Gr.Murc.
+~06~
+Íncubo
+~07~
+R.Alada
+~0C~
+Cab.= Pegaso
+~07~
+Gárgola
+~0E~
+Pixie= Malvada
+~08~
+H.Halcón
+~06~
+Belial
+~08~
+Guiverno
+~07~
+Quimera
+~0B~
+Ar.= Mortal
+~0D~
+Jinete= Latón
+~0C~
+Tirador= Os.
+~0C~
+Cazador= Os.
+~0E~
+Tirador= Latón
+~07~
+Asesino
+~0D~
+Globo= Mortal
+~08~
+Mago Os.
+~0D~
+Mago= Maestro
+~08~
+Hec{hi}cero
+~10~
+Demonio= Maestro
+~0A~
+Monje= Os.
+~0B~
+Obispo= Os.
+~10~
+Clérigo= Maligno
+~0F~
+Obispo= Maligno
+~0C~
+Cría= Dragón
+~05~
+Enano
+~07~
+Cab.Iom
+~0B~
+Ar.= Mortal
+~08~
+Mago Os.
+~0C~
+Soldado= Os.
+~0C~
+Tirador= Os.
+~06~
+Gordon
+~0D~
+Mago= Maestro
+~0D~
+Cab.= Super{io}r
+~0B~
+Obispo= Os.
+~08~
+Hec{hi}cero
+~0B~
+H.= Lagarto
+~08~
+Hec{hi}cero
+~05~
+Ánima
+~08~
+H.Halcón
+~03~
+Gul
+~04~
+Solo
+~08~
+M{in}otauro
+~10~
+Demonio= Maestro
+~07~
+Barbara
+~0E~
+Woldol= Muerto
+~08~
+Warderer
+1Iom1Iom1Iom
+~0B~
+Muñeco= Iom
+~0C~
+Estatua= Iom
+~07~
+R.Alada
+~0F~
+Jinete= Arquero
+~08~
+Hec{hi}cero
+~06~
+Graham
+~05~
+Zombi
+~0C~
+Tirador= Os.
+~0C~
+Cab.= Pegaso
+   #822
+|822

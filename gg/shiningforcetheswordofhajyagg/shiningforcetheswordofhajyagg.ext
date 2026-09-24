@@ -1,0 +1,176 @@
+@000044FF-0000450B-00
+;000044FF{No one there\}#013#013
+No one there\#013
+|13
+@00004560-00004568-00
+;00004560{No magic\}#009#009
+No magic\#009
+|9
+@00004593-000045A0-00
+;00004593{Not enough MP\}#014#014
+Not enough MP\#014
+|14
+@00004623-0000462A-00
+;00004623{No item\}#008#008
+No item\#008
+|8
+@00004668-00004671-00
+;00004668{No effect\}#010#010
+No effect\#010
+|10
+@000046F0-000046FC-00
+;000046F0{No equipment\}#013#013
+No equipment\#013
+|13
+@00004725-00004734-00
+;00004725{Curse hold item\}#016#016
+Curse hold item\#016
+|16
+@00004765-00004775-00
+;00004765{Cursed equipment\}#017#017
+Cursed equipment\#017
+|17
+@00004906-00004915-00
+;00004906{You are kidding\}#016#016
+You are kidding\#016
+|16
+@00004C02-00004C17-00
+;00004C02{BATT.\MAGIC\ITEM\STAY\}#022#022
+BATT.\MAGIC\ITEM\STAY\#022
+|22
+@00004C21-00004C37-00
+;00004C21{BATT.\MAGIC\ITEM\CHECK\}#023#023
+BATT.\MAGIC\ITEM\CHECK\#023
+|23
+@00004C41-00004C54-00
+;00004C41{USE\GIVE\EQUIP\DROP\}#020#020
+USE\GIVE\EQUIP\DROP\#020
+|20
+@00004F0A-00004F0E-00
+;00004F0A{L.E.\}#005#005
+L.E.\#005
+|5
+@00005071-00005087-00
+;00005071{STATS\SPEED\MESS.\QUIT\}#023#023
+STATS\SPEED\MESS.\QUIT\#023
+|23
+@00008759-0000876B-00
+;00008759{BUY\SELL\DEALS\FIX\}#019#019
+BUY\SELL\DEALS\FIX\#019
+|19
+@00009247-0000925B-00
+;00009247{HELP\CHANG\ITEM\SAVE\}#021#021
+HELP\CHANG\ITEM\SAVE\#021
+|21
+@00009265-0000927B-00
+;00009265{RAISE\CURE\PROM.\STATS\}#023#023
+RAISE\CURE\PROM.\STATS\#023
+|23
+@00009285-00009298-00
+;00009285{USE\GIVE\EQUIP\DROP\}#020#020
+USE\GIVE\EQUIP\DROP\#020
+|20
+@0000A11B-0000A11D-00
+;0000A11B{MP\}#003#003
+MP\#003
+|3
+@0000A609-0000A610-00
+;0000A609{YES  NO\}#008#008
+YES  NO\#008
+|8
+@0000A78E-0000A792-00
+;0000A78E{NAME\}#005#005
+NAME\#005
+|5
+@0000A812-0000A81A-00
+;0000A812{CLASS LV\}#009#009
+CLASS LV\#009
+|9
+@0000A892-0000A89A-00
+;0000A892{HP MP EX\}#009#009
+HP MP EX\#009
+|9
+@0000A9AC-0000A9B6-00
+;0000A9AC{EQUIP ITEM\}#011#011
+EQUIP ITEM\#011
+|11
+@0000AB74-0000AB83-00
+;0000AB74{ATT\DEF\AGI\MOV\}#016#016
+ATT\DEF\AGI\MOV\#016
+|16
+@0000AB8A-0000AB8D-00
+;0000AB8A{EXP\}#004#004
+EXP\#004
+|4
+@0000ABF0-0000AC00-00
+;0000ABF0{--ITEM--\Nothing\}#017#017
+--ITEM--\Nothing\#017
+|17
+@0000AC3A-0000AC42-00
+;0000AC3A{-MAGIC-L\}#009#009
+-MAGIC-L\#009
+|9
+@0000B25A-0000B269-00
+;0000B25A{-----STATUS----\}#016#016
+-----STATUS----\#016
+|16
+@0000B2D6-0000B2E5-00
+;0000B2D6{------ITEM-----\}#016#016
+------ITEM-----\#016
+|16
+@0000B371-0000B391-00
+;0000B371{BATLE MESSAGE\DISPLAY\NO DISPLAY\}#033#033
+BATLE MESSAGE\DISPLAY\NO DISPLAY\#033
+|33
+@0000B400-0000B427-00
+;0000B400{MESSAGE SPEED\1  2  3  4  \SLOW----FAST\}#040#040
+MESSAGE SPEED\1  2  3  4  \SLOW----FAST\#040
+|40
+@0000B5D0-0000B5D4-00
+;0000B5D0{GOLD\}#005#005
+GOLD\#005
+|5
+@0000B607-0000B61B-00
+;0000B607{CAMP\\\\EXIT\\\\SHOP\}#021#021
+CAMP\\\\EXIT\\\\SHOP\#021
+|21
+@0000B6D0-0000B6E5-00
+;0000B6D0{START\CONT.\DEL.\COPY\}#022#022
+START\CONT.\DEL.\COPY\#022
+|22
+@0000B7BD-0000B7C0-00
+;0000B7BD{BTL\}#004#004
+BTL\#004
+|4
+@0000B834-0000B843-00
+;0000B834{ ???????? BTL ?\}#016#016
+ ???????? BTL ?\#016
+|16
+@0000B927-0000B932-00
+;0000B927{  DEL   END\}#012#012
+  DEL   END\#012
+|12
+@0000D9C0-0000DA97-00
+;0000D9C0{                    The kingdoms                        Gardiana and                       Cypress joined                       their armies                          to battle                         the evil Iom.   }#216#216
+                    The kingdoms                        Gardiana and                       Cypress joined                       their armies                          to battle                         the evil Iom.   #216
+|216
+@0007DEC9-0007DF4A-00
+;0007DEC9{2SDMN2HERO2KNTE2PLDN2WARR2GLDR2MAGE2WIZD2HEAL2SBRN2ACHR2SNIP2BDMN2SKYW2MONK2MSMK2WRBR2BSKR2RANG2BWKN2NINJ2NINJ2SMRI2SMRI2PRNC2PRNC}#130#130
+2SDMN2HERO2KNTE2PLDN2WARR2GLDR2MAGE2WIZD2HEAL2SBRN2ACHR2SNIP2BDMN2SKYW2MONK2MSMK2WRBR2BSKR2RANG2BWKN2NINJ2NINJ2SMRI2SMRI2PRNC2PRNC#130
+|130
+@0007DF4B-0007E25B-00
+;0007DF4B{BMedical= HerbBHealing= Seed6AntidoteBHealing= Rain9Angel= WingAPower= WaterBProtect= MilkCQuick= ChickenERunning= PimentoDCheerful= Bread9Power= RingBProtect= Ring9Quick= RingBRunning= Ring9White= Ring9Black= Ring8Evil= RingCLeather= GloveAPower= GloveAThorn= Glove8Iron= Claw8Evil= Claw7Evil= Axe8Short= Axe9Bronze= Rod7Iron= Rod9Iron= Arrow9Great= Shot8Great= AxeAShort= SwordBMiddle= Sword9Long= SwordASteel= SwordABroad= SwordDCritical= Sword4KatanaARobin= Arrow9Dark= SwordCShining= SwordDSword of= HajyaBBronze= LanceASteel= LanceBChrome= Lance9Evil= Lance5Halberd3SpearAPower= Spear6Valkyrie6Hand Axe9Middle= Axe9Battle= Axe6Heat Axe8Atlas= Axe9Wooden= RodDGuardian= Staff9Holy= StaffAPower= Stick8Demon= Rod3FlailBWooden= ArrowASteel= ArrowCAssault= ShellABuster= Shot5Nothing}#785#785
+BMedical= HerbBHealing= Seed6AntidoteBHealing= Rain9Angel= WingAPower= WaterBProtect= MilkCQuick= ChickenERunning= PimentoDCheerful= Bread9Power= RingBProtect= Ring9Quick= RingBRunning= Ring9White= Ring9Black= Ring8Evil= RingCLeather= GloveAPower= GloveAThorn= Glove8Iron= Claw8Evil= Claw7Evil= Axe8Short= Axe9Bronze= Rod7Iron= Rod9Iron= Arrow9Great= Shot8Great= AxeAShort= SwordBMiddle= Sword9Long= SwordASteel= SwordABroad= SwordDCritical= Sword4KatanaARobin= Arrow9Dark= SwordCShining= SwordDSword of= HajyaBBronze= LanceASteel= LanceBChrome= Lance9Evil= Lance5Halberd3SpearAPower= Spear6Valkyrie6Hand Axe9Middle= Axe9Battle= Axe6Heat Axe8Atlas= Axe9Wooden= RodDGuardian= Staff9Holy= StaffAPower= Stick8Demon= Rod3FlailBWooden= ArrowASteel= ArrowCAssault= ShellABuster= Shot5Nothing#785
+|785
+@0007E25C-0007E2C3-00
+;0007E25C{2HEAL2AURA3DETOX3QUICK2SLOW3BOOST4DISPEL4MUDDLE4DESOUL3SLEEP4EGRESS3BLAZE4FREEZE2BOLT3BLAST3KATON4RAIJIN}#104#104
+2HEAL2AURA3DETOX3QUICK2SLOW3BOOST4DISPEL4MUDDLE4DESOUL3SLEEP4EGRESS3BLAZE4FREEZE2BOLT3BLAST3KATON4RAIJIN#104
+|104
+@0007E2C4-0007E330-00
+;0007E2C4{4DEANNA5NATASHA2JAHA2ERIC2DAWN2LUKE3SLADE4GRAHAM5CHESTER1MAY3SARAH5RANDOLF4CLAUDE3ROHDE2RUSH4HIGINS2GYAN2NICK}#109#109
+4DEANNA5NATASHA2JAHA2ERIC2DAWN2LUKE3SLADE4GRAHAM5CHESTER1MAY3SARAH5RANDOLF4CLAUDE3ROHDE2RUSH4HIGINS2GYAN2NICK#109
+|109
+@0007E331-0007E666-00
+;0007E331{4Goblin4Scaben9Drago= Newt3Dwarf4Ratman9Iom= KnightBDark= Soldier4Zombie6SkeletonAArch= Knight9Lizard= man2Worm3Ghoul3Wight6Minotaur6Cerberos3Golem6Dullahan3Taros6Sentinel9ExecutionerBSkull= Knight5Big Bat5Incubus5RatwingDPegasus= Knight6Gargoyle9Evil= Pixie5Hawkman4Belial4Wyvern5ChimeraBDeath= ArcherBBrass= RorderADark= SniperADark= RangerBBrass= Gunner6AssassinCDeath= Balloon8Dark= MageAMaster= Mage6SorcererBDemon= Master8Dark= MonkADark= BishopAEvil= ClericAEvil= Bishop9Drago= Newt3Dwarf9Iom= KnightBDeath= Archer8Dark= MageBDark= SoldierADark= Sniper4GordonAMaster= MageAArch= KnightADark= Bishop6Sorcerer9Lizard= man6Sorcerer3Wight5Hawkman3Ghoul2Solo6MinotaurBDemon= Master5BarbaraCDeath= Walldol6Warderer1Iom1Iom1Iom6Iom dollCStatue= of Iom5Ratwing8Bow= Rider6Sorcerer4GRAHAM4ZombieADark= SniperDPegasus= Knight}#822#822
+4Goblin4Scaben9Drago= Newt3Dwarf4Ratman9Iom= KnightBDark= Soldier4Zombie6SkeletonAArch= Knight9Lizard= man2Worm3Ghoul3Wight6Minotaur6Cerberos3Golem6Dullahan3Taros6Sentinel9ExecutionerBSkull= Knight5Big Bat5Incubus5RatwingDPegasus= Knight6Gargoyle9Evil= Pixie5Hawkman4Belial4Wyvern5ChimeraBDeath= ArcherBBrass= RorderADark= SniperADark= RangerBBrass= Gunner6AssassinCDeath= Balloon8Dark= MageAMaster= Mage6SorcererBDemon= Master8Dark= MonkADark= BishopAEvil= ClericAEvil= Bishop9Drago= Newt3Dwarf9Iom= KnightBDeath= Archer8Dark= MageBDark= SoldierADark= Sniper4GordonAMaster= MageAArch= KnightADark= Bishop6Sorcerer9Lizard= man6Sorcerer3Wight5Hawkman3Ghoul2Solo6MinotaurBDemon= Master5BarbaraCDeath= Walldol6Warderer1Iom1Iom1Iom6Iom dollCStatue= of Iom5Ratwing8Bow= Rider6Sorcerer4GRAHAM4ZombieADark= SniperDPegasus= Knight#822
+|822

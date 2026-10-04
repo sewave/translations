@@ -1,0 +1,2682 @@
+{
+  "schema": 1,
+  "comment": "Legend of the Ghost Lion (USA) text extraction. Encoding: E1F9 bit-coded, E230 glyph map.",
+  "blocks": {
+    "bank4_9000": {
+      "text_address": "0x9000(b4)",
+      "pointer_address": "0x9000",
+      "method": "e1f9_huffman",
+      "note": "battle/dialogue messages, bank4 table at $9000",
+      "messages": {
+        "0": {
+          "text_offset": "0x9326",
+          "pointer_offset": "0x9000",
+          "original": "YOU WANT ME TO[nl]RETURN THE[nl]STARDUST?[page]IF YOU REALLY WANTIT, STEAL IT FROM[nl]MY TREASURE BOX![end]"
+        },
+        "1": {
+          "text_offset": "0x935A",
+          "pointer_offset": "0x9002",
+          "original": "WHAT?[nl]IF YOU OPPOSE ME,[nl]I WILL NOT PARDON[nl]YOU.[end]"
+        },
+        "2": {
+          "text_offset": "0x9377",
+          "pointer_offset": "0x9004",
+          "original": "WHAT?[nl]YOU NEED MY HELP[nl]TO DEFEAT THE[nl]SNAKE?[page]DON[8C]T BE FOOLISH![end]"
+        },
+        "3": {
+          "text_offset": "0x939D",
+          "pointer_offset": "0x9006",
+          "original": "FINALLY, I WILL[nl]EAT AGAIN.[page]BUT, THIS HUMAN ISHARDLY EVEN A BITEFOR ME.[page]OH WELL, I[8C]LL EAT[nl]IT ANYWAY.[end]"
+        },
+        "4": {
+          "text_offset": "0x93D9",
+          "pointer_offset": "0x9008",
+          "original": "WE ARE GOING TO[nl]PUT AN EVIL ELIXIRIN THE KLEIN JUG[page]AND USE IT IN OUR[nl]CEREMONY.[page]WE WILL NOT GIVE[nl]IT TO YOU.[end]"
+        },
+        "5": {
+          "text_offset": "0x9418",
+          "pointer_offset": "0x900A",
+          "original": "YOU HAVE FINALLY[nl]MADE IT HERE,[page]BUT DO YOU THINK[nl]YOU CAN WITHSTAND[nl]THE FINAL TRIAL?[end]"
+        },
+        "6": {
+          "text_offset": "0x9449",
+          "pointer_offset": "0x900C",
+          "original": "THE CROWN IS MY[nl]TREASURE, SO I[nl]WILL NOT GIVE IT[nl]TO YOU.[page]DO YOU THINK YOU[nl]CAN STEAL IT FROM[nl]ME?[end]"
+        },
+        "7": {
+          "text_offset": "0x9481",
+          "pointer_offset": "0x900E",
+          "original": "[name]{2C:05} IS[nl]PROTECTING ONLY[nl]MARIA.[end]"
+        },
+        "8": {
+          "text_offset": "0x9494",
+          "pointer_offset": "0x9010",
+          "original": "I AM THE WOLF[nl]KING![page]WHY DO YOU DISTURBMY SLEEP?[page]I WON[8C]T STAND FOR[nl]IT![end]"
+        },
+        "9": {
+          "text_offset": "0x94C0",
+          "pointer_offset": "0x9012",
+          "original": "WE WEREWOLVES[nl]PROTECT THIS[nl]CASTLE.[page]IF YOU DEFEAT US,[nl]THE TREASURE IS[nl]YOURS.[end]"
+        },
+        "10": {
+          "text_offset": "0x94ED",
+          "pointer_offset": "0x9014",
+          "original": "WITH THE STATUE INHAND, TWANA FOUGHTTHE DRAGON.[end]"
+        },
+        "11": {
+          "text_offset": "0x9509",
+          "pointer_offset": "0x9016",
+          "original": "AT THE SAME TIME[nl]YOU WERE USING THESTATUE,[page]TWANA APPEARED[nl]FROM THE LAMP,[nl]TOOK THE STATUE,[page]AND FOUGHT THE[nl]DRAGON.[end]"
+        },
+        "12": {
+          "text_offset": "0x954B",
+          "pointer_offset": "0x9018",
+          "original": "YOU DEFEATED[nl][name]{2D:05}.[end]"
+        },
+        "13": {
+          "text_offset": "0x9558",
+          "pointer_offset": "0x901A",
+          "original": "YOU OBTAINED[nl][name]{28:05}.[end]"
+        },
+        "14": {
+          "text_offset": "0x9565",
+          "pointer_offset": "0x901C",
+          "original": "YOU CAN[8C]T HOLD[nl]MORE THINGS THAN[nl]YOU HAVE NOW.[page]SO YOU DISCARDED[nl][name]{37:05}, AND[nl]OBTAINED [name]{28:05}.[end]"
+        },
+        "15": {
+          "text_offset": "0x959B",
+          "pointer_offset": "0x901E",
+          "original": "YOU DEFEATED A[nl]DEMON.[end]"
+        },
+        "16": {
+          "text_offset": "0x95A8",
+          "pointer_offset": "0x9020",
+          "original": "[name]{31:04} APPEARED.[end2]"
+        },
+        "17": {
+          "text_offset": "0x95B2",
+          "pointer_offset": "0x9022",
+          "original": "WHAT ARE YOU GOINGTO DO?[end2]"
+        },
+        "18": {
+          "text_offset": "0x95C1",
+          "pointer_offset": "0x9024",
+          "original": "MANY DEMONS[nl]APPEARED.[end2]"
+        },
+        "19": {
+          "text_offset": "0x95CF",
+          "pointer_offset": "0x9026",
+          "original": "[name]{2C:05} RAN AWAY.[end2]"
+        },
+        "20": {
+          "text_offset": "0x95D9",
+          "pointer_offset": "0x9028",
+          "original": "MARIA GOT [05:C0 74][nl]RUBIES.[end2]"
+        },
+        "21": {
+          "text_offset": "0x95E8",
+          "pointer_offset": "0x902A",
+          "original": "[name]{2C:05} ATTACKS.[end]"
+        },
+        "22": {
+          "text_offset": "0x95F2",
+          "pointer_offset": "0x902C",
+          "original": "[04:2E 05] COURAGE[nl]POINTS ARE TAKEN[nl]AWAY FROM[nl][name]{2D:05}.[end]"
+        },
+        "23": {
+          "text_offset": "0x9610",
+          "pointer_offset": "0x902E",
+          "original": "[name]{2D:05} IS GIVEN[nl][04:2E 05] DAMAGE[nl]POINTS.[end]"
+        },
+        "24": {
+          "text_offset": "0x9627",
+          "pointer_offset": "0x9030",
+          "original": "[name]{2C:05} CHANTED[nl][name]{2F:05}[8C]S MAGIC.[end]"
+        },
+        "25": {
+          "text_offset": "0x9639",
+          "pointer_offset": "0x9032",
+          "original": "MARIA USED THE[nl][name]{28:05}.[end]"
+        },
+        "26": {
+          "text_offset": "0x9646",
+          "pointer_offset": "0x9034",
+          "original": "[name]{2D:05} DODGED[nl]SUCCESSFULLY.[end]"
+        },
+        "27": {
+          "text_offset": "0x9657",
+          "pointer_offset": "0x9036",
+          "original": "[name]{2C:05}[8C]S ATTACK[nl]DID NOTHING.[end]"
+        },
+        "28": {
+          "text_offset": "0x9668",
+          "pointer_offset": "0x9038",
+          "original": "[name]{31:05} LOST THE[nl]POWER AND[nl]VANISHED.[end]"
+        },
+        "29": {
+          "text_offset": "0x967D",
+          "pointer_offset": "0x903A",
+          "original": "YOU DEFEATED[nl][name]{2D:05}.[end2]"
+        },
+        "30": {
+          "text_offset": "0x968A",
+          "pointer_offset": "0x903C",
+          "original": "[name]{2D:05} IS[nl]ENTANGLED WITH THEMYSTICAL ROPE.[end]"
+        },
+        "31": {
+          "text_offset": "0x96A3",
+          "pointer_offset": "0x903E",
+          "original": "[name]{2D:05} GOT OUT[nl]OF THE MYSTICAL[nl]ROPE.[end]"
+        },
+        "32": {
+          "text_offset": "0x96B8",
+          "pointer_offset": "0x9040",
+          "original": "MARIA LOST ALL OF[nl]HER COURAGE.[end2]"
+        },
+        "33": {
+          "text_offset": "0x96CA",
+          "pointer_offset": "0x9042",
+          "original": "HOWEVER, [name]{2B:05}[nl]HAS ALREADY[nl]APPEARED.[end]"
+        },
+        "34": {
+          "text_offset": "0x96E1",
+          "pointer_offset": "0x9044",
+          "original": "THE HERO [name]{2B:05},[nl]THE SPEAR[8C]S[nl]SPIRIT, APPEARED.[end]"
+        },
+        "35": {
+          "text_offset": "0x96FD",
+          "pointer_offset": "0x9046",
+          "original": "THE LAMP[8C]S SPIRIT,THE WHITE-HAIRED[nl]OLD MAN [name]{2B:05},[nl]APPEARED.[end]"
+        },
+        "36": {
+          "text_offset": "0x9721",
+          "pointer_offset": "0x9048",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE RED[nl]RING, APPEARED.[end]"
+        },
+        "37": {
+          "text_offset": "0x973C",
+          "pointer_offset": "0x904A",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]RAPIER, APPEARED.[end]"
+        },
+        "38": {
+          "text_offset": "0x9755",
+          "pointer_offset": "0x904C",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]ROCK WING,[nl]APPEARED.[end]"
+        },
+        "39": {
+          "text_offset": "0x9771",
+          "pointer_offset": "0x904E",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]MAGIC AXE,[nl]APPEARED.[end]"
+        },
+        "40": {
+          "text_offset": "0x978D",
+          "pointer_offset": "0x9050",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]SILVER CUP,[nl]APPEARED.[end]"
+        },
+        "41": {
+          "text_offset": "0x97A9",
+          "pointer_offset": "0x9052",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]GOLD ROCK,[nl]APPEARED.[end]"
+        },
+        "42": {
+          "text_offset": "0x97C5",
+          "pointer_offset": "0x9054",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]CRYSTAL, APPEARED.[end]"
+        },
+        "43": {
+          "text_offset": "0x97DF",
+          "pointer_offset": "0x9056",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]SLUG, APPEARED.[end]"
+        },
+        "44": {
+          "text_offset": "0x97F8",
+          "pointer_offset": "0x9058",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]FROG, APPEARED.[end]"
+        },
+        "45": {
+          "text_offset": "0x9811",
+          "pointer_offset": "0x905A",
+          "original": "THE BOMB EXPLODED.[end]"
+        },
+        "46": {
+          "text_offset": "0x981D",
+          "pointer_offset": "0x905C",
+          "original": "BRIGHT LIGHT[nl]RADIATED FROM THE[nl]TIP OF THE DAGGER.[end]"
+        },
+        "47": {
+          "text_offset": "0x983A",
+          "pointer_offset": "0x905E",
+          "original": "YOU SWUNG THE CLUBDOWN IN A GIANT[nl]SWATH.[end]"
+        },
+        "48": {
+          "text_offset": "0x9853",
+          "pointer_offset": "0x9060",
+          "original": "YOU THRUST THE[nl]DAGGER.[end]"
+        },
+        "49": {
+          "text_offset": "0x9861",
+          "pointer_offset": "0x9062",
+          "original": "YOU THRUST THE[nl]S-SWORD.[end]"
+        },
+        "50": {
+          "text_offset": "0x9870",
+          "pointer_offset": "0x9064",
+          "original": "THE WHIP SWINGS[nl]DOWN WITH WAVE[nl]LIKE MOTIONS.[end]"
+        },
+        "51": {
+          "text_offset": "0x988B",
+          "pointer_offset": "0x9066",
+          "original": "YOU THRUST THE[nl]L-SWORD.[end]"
+        },
+        "52": {
+          "text_offset": "0x989A",
+          "pointer_offset": "0x9068",
+          "original": "YOU CRACK THE[nl]LIGHTNING WHIP.[end]"
+        },
+        "53": {
+          "text_offset": "0x98AC",
+          "pointer_offset": "0x906A",
+          "original": "YOU SWUNG DOWN THESWORD OF LIGHT.[end]"
+        },
+        "54": {
+          "text_offset": "0x98C1",
+          "pointer_offset": "0x906C",
+          "original": "YOU ARE PROTECTED[nl]BY THE BLUE-LIGHT[nl]SHIELD.[end]"
+        },
+        "55": {
+          "text_offset": "0x98DB",
+          "pointer_offset": "0x906E",
+          "original": "YOU ARE PROTECTED[nl]BY THE AURORA[nl]LIGHT.[end]"
+        },
+        "56": {
+          "text_offset": "0x98F1",
+          "pointer_offset": "0x9070",
+          "original": "YOU SHOT THE[nl]ARROW.[end]"
+        },
+        "57": {
+          "text_offset": "0x98FD",
+          "pointer_offset": "0x9072",
+          "original": "THREW THE MYSTICALROPE TO [name]{2D:05}.[end]"
+        },
+        "58": {
+          "text_offset": "0x9911",
+          "pointer_offset": "0x9074",
+          "original": "[name]{2C:05} IS[nl]SLEEPING.[end]"
+        },
+        "59": {
+          "text_offset": "0x991D",
+          "pointer_offset": "0x9076",
+          "original": "[name]{2C:05} CAN[8C]T[nl]MOVE.[end]"
+        },
+        "60": {
+          "text_offset": "0x9929",
+          "pointer_offset": "0x9078",
+          "original": "[name]{2C:05} IS BOUND[nl]BY THE MYSTICAL[nl]ROPE AND CAN[8C]T[nl]MOVE.[end]"
+        },
+        "61": {
+          "text_offset": "0x9949",
+          "pointer_offset": "0x907A",
+          "original": "WHAT HAPPENED?[nl]A MYSTERIOUS BLUE[nl]LIGHT ENVELOPED[nl]THE DRAGON.[end]"
+        },
+        "62": {
+          "text_offset": "0x99A1",
+          "pointer_offset": "0x907C",
+          "original": "HOWEVER, THE MAGICDIDN[8C]T AFFECT[nl][name]{2D:05}.[end]"
+        },
+        "63": {
+          "text_offset": "0x996D",
+          "pointer_offset": "0x907E",
+          "original": "THE DRAGON[nl]DISAPPEARED[nl]INSTANTLY.[page]AND AT THE SAME[nl]TIME, TWANA[nl]DISAPPEARED WITH[nl]THE STATUE.[end]"
+        },
+        "64": {
+          "text_offset": "0x99BA",
+          "pointer_offset": "0x9080",
+          "original": "HYDRA COULD NOT[nl]MOVE BECAUSE THE[nl]HUGE SLUG WAS[nl]STARING AT HER.[end]"
+        },
+        "65": {
+          "text_offset": "0x99DF",
+          "pointer_offset": "0x9082",
+          "original": "THREATENED BY[nl]HYDRA[8C]S GLARE,[nl]THE HUGE FROG[nl]VANISHED.[end]"
+        },
+        "66": {
+          "text_offset": "0x99FF",
+          "pointer_offset": "0x9084",
+          "original": "THE HUGE FROG[nl]GLARED AT THE HUGESLUG.[page]THE HUGE SLUG[nl]GLARED AT HYDRA.[page]HYDRA GLARED AT[nl]THE HUGE FROG.[page]THE HUGE FROG,[nl]THE HUGE SLUG,[nl]AND HYDRA ARE[nl]DEADLOCKED.[end]"
+        },
+        "67": {
+          "text_offset": "0x9A5A",
+          "pointer_offset": "0x9086",
+          "original": "THE HUGE SLUG[nl]GLARED AT HYDRA.[end]"
+        },
+        "68": {
+          "text_offset": "0x9A6C",
+          "pointer_offset": "0x9088",
+          "original": "GLARED AT BY THE[nl]HUGE SLUG, HYDRA[nl]CAN[8C]T MOVE.[end]"
+        },
+        "69": {
+          "text_offset": "0x9A88",
+          "pointer_offset": "0x908A",
+          "original": "THE HUGE FROG,[nl]HUGE SLUG, AND[nl]HYDRA ARE GLARING[nl]AT EACH OTHER.[end]"
+        },
+        "70": {
+          "text_offset": "0x9AAD",
+          "pointer_offset": "0x908C",
+          "original": "[name]{31:05}[nl]PROTECTED MARIA.[end]"
+        },
+        "71": {
+          "text_offset": "0x9222",
+          "pointer_offset": "0x908E",
+          "original": "IN AN INSTANT, THEWHITE LION[8C]S[nl]FIGURE CHANGED[nl]INTO TWANA,[page]THE SPIRIT OF THE[nl]LAMP.[end]"
+        },
+        "72": {
+          "text_offset": "0x9ABB",
+          "pointer_offset": "0x9090",
+          "original": "[04:35 05] POINTS[nl]OF POWER ARE TAKENAWAY FROM[nl][name]{2D:05}.[end]"
+        },
+        "73": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x9092",
+          "original": "MARIA REPULSED THEATTACK.[end]"
+        },
+        "74": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x9094",
+          "original": "MARIA REPULSED THEATTACK.[end]"
+        },
+        "75": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x9096",
+          "original": "MARIA REPULSED THEATTACK.[end]"
+        },
+        "76": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x9098",
+          "original": "MARIA REPULSED THEATTACK.[end]"
+        },
+        "77": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x909A",
+          "original": "MARIA REPULSED THEATTACK.[end]"
+        },
+        "78": {
+          "text_offset": "0x9AE8",
+          "pointer_offset": "0x909C",
+          "original": "THE MYSTICAL ROPE[nl]IS WRAPPING AROUNDTHE DEMON.[end]"
+        },
+        "79": {
+          "text_offset": "0x9B04",
+          "pointer_offset": "0x909E",
+          "original": "[name]{2C:05} REPULSED[nl]THE ATTACK.[end]"
+        },
+        "80": {
+          "text_offset": "0x9B14",
+          "pointer_offset": "0x90A0",
+          "original": "[name]{2C:05} WOKE UP.[end]"
+        },
+        "81": {
+          "text_offset": "0x9B1E",
+          "pointer_offset": "0x90A2",
+          "original": "[name]{2D:05} LOST[nl]THEIR VISION.[end]"
+        },
+        "82": {
+          "text_offset": "0x9B2D",
+          "pointer_offset": "0x90A4",
+          "original": "THE SMALL NEEDLE[nl]PRICKED [name]{2D:05}.[end]"
+        },
+        "83": {
+          "text_offset": "0x9B1E",
+          "pointer_offset": "0x90A6",
+          "original": "[name]{2D:05} LOST[nl]THEIR VISION.[end]"
+        },
+        "84": {
+          "text_offset": "0x9B41",
+          "pointer_offset": "0x90A8",
+          "original": "A SMALL BOMB BLEW[nl]UP IN FRONT OF[nl][name]{2D:05}.[end]"
+        },
+        "85": {
+          "text_offset": "0x9B5A",
+          "pointer_offset": "0x90AA",
+          "original": "A SMALL PLANE OF[nl]LIGHT APPEARED ANDPROTECTED YOU.[end]"
+        },
+        "86": {
+          "text_offset": "0x9BAE",
+          "pointer_offset": "0x90AC",
+          "original": "[name]{2D:05} FELL[nl]ASLEEP.[end]"
+        },
+        "87": {
+          "text_offset": "0x9BBA",
+          "pointer_offset": "0x90AE",
+          "original": "THE POISON NEEDLE[nl]PRICKED [name]{2D:05}.[end]"
+        },
+        "88": {
+          "text_offset": "0x9B77",
+          "pointer_offset": "0x90B0",
+          "original": "A BIG PLANE OF[nl]LIGHT APPEARED ANDPROTECTED YOU.[end]"
+        },
+        "89": {
+          "text_offset": "0x9BCE",
+          "pointer_offset": "0x90B2",
+          "original": "THE DEMON WAS[nl]WIPED OUT BY A[nl]GUST OF WIND.[end]"
+        },
+        "90": {
+          "text_offset": "0x9BE8",
+          "pointer_offset": "0x90B4",
+          "original": "[name]{2D:05} IS[nl]SURROUNDED BY[nl]FLAMES.[end]"
+        },
+        "91": {
+          "text_offset": "0x9BFB",
+          "pointer_offset": "0x90B6",
+          "original": "YOUR BODY IS[nl]SURROUNDED BY[nl]LIGHT.[end]"
+        },
+        "92": {
+          "text_offset": "0x9C10",
+          "pointer_offset": "0x90B8",
+          "original": "[name]{2D:05} IS BOUND[nl]HAND AND FOOT, ANDCAN[8C]T MOVE.[end]"
+        },
+        "93": {
+          "text_offset": "0x9C2C",
+          "pointer_offset": "0x90BA",
+          "original": "[name]{2D:05} IS[nl]CAUGHT IN A[nl]TORNADO.[end]"
+        },
+        "94": {
+          "text_offset": "0x9C3E",
+          "pointer_offset": "0x90BC",
+          "original": "TOO MANY[nl]ILLUSIONS![page][name]{2D:05} CAN[8C]T[nl]TELL WHICH IS THE[nl]REAL ONE.[end]"
+        },
+        "95": {
+          "text_offset": "0x9C61",
+          "pointer_offset": "0x90BE",
+          "original": "[name]{2D:05} IS HURT[nl]BY A GIANT[nl]INVISIBLE HAND.[end]"
+        },
+        "96": {
+          "text_offset": "0x9B77",
+          "pointer_offset": "0x90C0",
+          "original": "A BIG PLANE OF[nl]LIGHT APPEARED ANDPROTECTED YOU.[end]"
+        },
+        "97": {
+          "text_offset": "0x9C7A",
+          "pointer_offset": "0x90C2",
+          "original": "A WHIRLPOOL OF[nl]FLAMES ATTACKED[nl][name]{2D:05}.[end]"
+        },
+        "98": {
+          "text_offset": "0x9B93",
+          "pointer_offset": "0x90C4",
+          "original": "A PLANE OF MAGIC[nl]APPEARED AND[nl]PROTECTED YOU.[end]"
+        },
+        "99": {
+          "text_offset": "0x9C91",
+          "pointer_offset": "0x90C6",
+          "original": "AN INVISIBLE WALL[nl]AROSE.[end]"
+        },
+        "100": {
+          "text_offset": "0x9CA0",
+          "pointer_offset": "0x90C8",
+          "original": "A SHARP PAIN[nl]RAN THROUGH[nl][name]{2D:05}[8C]S BODY.[end]"
+        },
+        "101": {
+          "text_offset": "0x9CB7",
+          "pointer_offset": "0x90CA",
+          "original": "AURORA LIGHT[nl]PROTECTED THE[nl]WHOLE BODY.[end]"
+        },
+        "102": {
+          "text_offset": "0x9CCE",
+          "pointer_offset": "0x90CC",
+          "original": "THUNDER STRUCK[nl][name]{2D:05}.[end]"
+        },
+        "103": {
+          "text_offset": "0x9CDC",
+          "pointer_offset": "0x90CE",
+          "original": "[name]{2D:05}[8C]S BODY[nl]WAS BURNT BY THE[nl]STRONG FLAMES.[end]"
+        },
+        "104": {
+          "text_offset": "0x9CF8",
+          "pointer_offset": "0x90D0",
+          "original": "[name]{2D:05} FAINTED[nl]DUE TO THE STRONG[nl]FORCE.[end]"
+        },
+        "105": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90D2",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "106": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90D4",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "107": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90D6",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "108": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90D8",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "109": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90DA",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "110": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90DC",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "111": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90DE",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "112": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E0",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "113": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E2",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "114": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E4",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "115": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E6",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "116": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E8",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "117": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90EA",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "118": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90EC",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "119": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90EE",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "120": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90F0",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "121": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90F2",
+          "original": "DON[8C]T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]"
+        },
+        "122": {
+          "text_offset": "0x9D27",
+          "pointer_offset": "0x90F4",
+          "original": "HE USED TO TAKE[nl]THE FORM OF A[nl]FIERCE,[page]WILD ANIMAL IN[nl]ORDER TO COMBAT[nl]HUMAN FRAILTIES.[page]THE ANIMAL[nl]DESTROYED A HUMAN[nl]CIVILIZATION AND[page]IS STILL FEARED[nl]BY MAN.[end]"
+        },
+        "123": {
+          "text_offset": "0x9D82",
+          "pointer_offset": "0x90F6",
+          "original": "IF HUMANS HAD NOT[nl]STARTED WARS,[page]THE WHITE LION[nl]WOULD NOT HAVE[nl]ATTACKED THEM.[end]"
+        },
+        "124": {
+          "text_offset": "0x9200",
+          "pointer_offset": "0x90F8",
+          "original": "YOU FOUGHT WITH[nl]ALL YOUR MIGHT ANDDEFEATED THE[nl]WHITE LION.[end2]"
+        },
+        "125": {
+          "text_offset": "0x9252",
+          "pointer_offset": "0x90FA",
+          "original": "\"MARIA! MARIA![nl]WAKE UP!\"[end]"
+        },
+        "126": {
+          "text_offset": "0x9263",
+          "pointer_offset": "0x90FC",
+          "original": "MARIA WAS AWAKENEDBY HER MOTHER[8C]S[nl]VOICE.[end]"
+        },
+        "127": {
+          "text_offset": "0x927C",
+          "pointer_offset": "0x90FE",
+          "original": "\"YOU ALMOST[nl]DROWNED IN THE[nl]RIVER.[page]WHY DIDN[8C]T YOU[nl]WAIT FOR US?\"[page]\"I DECIDED TO LOOKFOR YOU, AND I[nl]FOUGHT AGAINST THEWHITE LION.\"[page]\"WHAT? WHITE LION?THAT[8C]S IN A[nl]LEGEND.[page]THE GATE OF EVIL[nl]ONLY EXISTS IN THELEGEND AS WELL.[page]BUT, A PENDANT[nl]GIVEN TO MARIA BY[nl]TWANA, WAS SHININGON MARIA[8C]S CHEST.[end]"
+        }
+      }
+    },
+    "bank4_9100": {
+      "text_address": "0x9100(b4)",
+      "pointer_address": "0x9100",
+      "method": "e1f9_huffman",
+      "note": "battle/dialogue messages, bank4 table at $9100 (msg id = 0x80+i)",
+      "messages": {
+        "0": {
+          "text_offset": "0x9DAF",
+          "pointer_offset": "0x9100",
+          "original": "YOU DON[8C]T HAVE[nl]ANYTHING.[end]"
+        },
+        "1": {
+          "text_offset": "0x9DBE",
+          "pointer_offset": "0x9102",
+          "original": "THERE IS NO ONE[nl]THERE.[end]"
+        },
+        "2": {
+          "text_offset": "0x9DCB",
+          "pointer_offset": "0x9104",
+          "original": "BUT THERE WAS[nl]NOTHING.[end]"
+        },
+        "3": {
+          "text_offset": "0x9DD9",
+          "pointer_offset": "0x9106",
+          "original": "YOU CAN[8C]T THROW ITAWAY.[end]"
+        },
+        "4": {
+          "text_offset": "0x9DE7",
+          "pointer_offset": "0x9108",
+          "original": "YOU THREW[nl][name]{28:05} AWAY.[end]"
+        },
+        "5": {
+          "text_offset": "0x9DF5",
+          "pointer_offset": "0x910A",
+          "original": "MARIA ESCAPED.[end]"
+        },
+        "6": {
+          "text_offset": "0x9DFE",
+          "pointer_offset": "0x910C",
+          "original": "HOWEVER, THE ENEMYCHASED YOU.[end]"
+        },
+        "7": {
+          "text_offset": "0x9E10",
+          "pointer_offset": "0x910E",
+          "original": "WELCOME! WELCOME![nl]WHAT DO YOU WANT[nl]TO BUY?[end2]"
+        },
+        "8": {
+          "text_offset": "0x9E2C",
+          "pointer_offset": "0x9110",
+          "original": "YOU WOULD LIKE TO[nl]BUY [name]{28:05}. IS[nl]THAT RIGHT?[end2]"
+        },
+        "9": {
+          "text_offset": "0x9E47",
+          "pointer_offset": "0x9112",
+          "original": "I[8C]M SORRY, BUT YOUDON[8C]T HAVE ENOUGH[nl]MONEY.[page]PLEASE COME BACK[nl]AGAIN.[end]"
+        },
+        "10": {
+          "text_offset": "0x9E70",
+          "pointer_offset": "0x9114",
+          "original": "THANK YOU VERY[nl]MUCH. PLEASE COME[nl]AGAIN.[end]"
+        },
+        "11": {
+          "text_offset": "0x9E88",
+          "pointer_offset": "0x9116",
+          "original": "EXCUSE ME. YOU[nl]HAVE TOO MANY[nl]THINGS.[page]PLEASE COME AGAIN[nl]AFTER USING UP OR[nl]THROWING AWAY SOMEOF YOUR THINGS.[end]"
+        },
+        "12": {
+          "text_offset": "0x9EC7",
+          "pointer_offset": "0x9118",
+          "original": "PLEASE COME BACK[nl]AGAIN.[end]"
+        },
+        "13": {
+          "text_offset": "0x9ED6",
+          "pointer_offset": "0x911A",
+          "original": "BUT NOTHING[nl]HAPPENED.[end]"
+        },
+        "14": {
+          "text_offset": "0x9EE4",
+          "pointer_offset": "0x911C",
+          "original": "MARIA USED THE[nl][name]{28:05}.[end]"
+        },
+        "15": {
+          "text_offset": "0x9EF1",
+          "pointer_offset": "0x911E",
+          "original": "YOU SEARCHED[nl]AROUND YOUR FEET.[end]"
+        },
+        "16": {
+          "text_offset": "0x9F03",
+          "pointer_offset": "0x9120",
+          "original": "YOU FOUND[nl][name]{28:05}.[end]"
+        },
+        "17": {
+          "text_offset": "0x9F0E",
+          "pointer_offset": "0x9122",
+          "original": "YOU RECEIVED[nl][name]{28:05}.[end]"
+        },
+        "18": {
+          "text_offset": "0x9F1B",
+          "pointer_offset": "0x9124",
+          "original": "YOU RECEIVED A[nl]FRAGMENT OF HOPE.[page]HOPE IS NOW[nl][04:A0 04].[page]COURAGE IS NOW[nl][05:A1 04].[page]DREAMS ARE NOW[nl][05:A3 04].[end]"
+        },
+        "19": {
+          "text_offset": "0x9F57",
+          "pointer_offset": "0x9126",
+          "original": "THERE WERE TOO[nl]MANY THINGS TO[nl]CARRY,[page]SO YOU BURIED THEMIN THEIR ORIGINAL[nl]PLACE.[end]"
+        },
+        "20": {
+          "text_offset": "0x9F85",
+          "pointer_offset": "0x9128",
+          "original": "YOU OPENED THE[nl]DOOR WITH A[nl][name]{28:05}.[end]"
+        },
+        "21": {
+          "text_offset": "0x9F99",
+          "pointer_offset": "0x912A",
+          "original": "WHEN THE STARDUST[nl]WAS RESTORED TO[nl]THE DAIS,[page]THE ENTIRE CAVE[nl]WAS FILLED WITH[nl]LIGHT,[page]AND THE GIANT[8C]S[nl]STATUE BEGAN TO[nl]SPEAK:[page]\"YOU WHO LIT THE[nl]FIRE ON THE DAIS[page]SHOULD WALK DOWN[nl]THE PATH WHICH HASOPENED.[page]I WILL PROTECT THETOWN FROM EVIL[nl]ONCE AGAIN.\"[end]"
+        },
+        "22": {
+          "text_offset": "0xA028",
+          "pointer_offset": "0x912C",
+          "original": "THE LAKE WATER HASREACHED THE SKY[nl]AND BECOME[nl]ENCHANTED WATER.[page]I GOT THE[nl]ENCHANTED WATER.[end]"
+        },
+        "23": {
+          "text_offset": "0xA05B",
+          "pointer_offset": "0x912E",
+          "original": "YOU FOUND THE[nl]LAMP, THE GOLD[nl]KEY, AND THE[nl]DAGGER.[end]"
+        },
+        "24": {
+          "text_offset": "0xA079",
+          "pointer_offset": "0x9130",
+          "original": "YOU HAD TOO MANY[nl]THINGS TO CARRY,[page]SO YOU CLOSED[nl]THE BOX WITHOUT[nl]TAKING THE[nl]TREASURE.[end]"
+        },
+        "25": {
+          "text_offset": "0xA0AB",
+          "pointer_offset": "0x9132",
+          "original": "YOU GOT [05:29 05][nl]RUBIES.[end]"
+        },
+        "26": {
+          "text_offset": "0xA0B9",
+          "pointer_offset": "0x9134",
+          "original": "THE DOG BEGAN TO[nl]SPEAK.[page]\"OH! I[8C]VE AWOKEN[nl]FROM A 300 YEAR[nl]SLEEP.[page]NOW, LET[8C]S BREAK[nl]THE CURSE OF THE[nl]WEREWOLVES.[page]YOU MUST GO ON.[page]USE THE HORN AS[nl]YOUR WEAPON TO[nl]BREAK THE CURSE[nl]IN THE ROCKS.[end]"
+        },
+        "27": {
+          "text_offset": "0xA12A",
+          "pointer_offset": "0x9136",
+          "original": "WITH A GREAT[nl]TREMOR,[page]THE WATER FROM[nl]THE LAKE FLOWED[nl]UNDERGROUND.[end]"
+        },
+        "28": {
+          "text_offset": "0xA18A",
+          "pointer_offset": "0x9138",
+          "original": "THE SOUND OF THE[nl]HORN RESOUNDED IN[nl]THE AREA AS IF[nl]IT CAME FROM THE[page]GROUND. THE CURSE[nl]WAS BROKEN, AND[nl]THE GIANT ROCK[nl]TURNED INTO SAND.[end]"
+        },
+        "29": {
+          "text_offset": "0xA1D7",
+          "pointer_offset": "0x913A",
+          "original": "LET[8C]S GIVE COURAGEAND DREAMS.[page]COURAGE IS NOW[nl][05:A1 04].[page]DREAMS ARE NOW[nl][05:A3 04].[page]DO YOU WANT TO[nl]WRITE DOWN THE[nl]EVENTS OF THE[nl]JOURNEY?[end2]"
+        },
+        "30": {
+          "text_offset": "0xA224",
+          "pointer_offset": "0x913C",
+          "original": "SUDDENLY, THE[nl]EARTH BEGAN TO[nl]TREMBLE, THE[nl]BRIDGE SHOOK,[page]AND MARIA FELL[nl]INTO THE RIVER.[end]"
+        },
+        "31": {
+          "text_offset": "0xA257",
+          "pointer_offset": "0x913E",
+          "original": "YOU DON[8C]T HAVE[nl]ENOUGH MONEY.[page]COME BACK WITH THECORRECT AMOUNT.[end]"
+        },
+        "32": {
+          "text_offset": "0xA27D",
+          "pointer_offset": "0x9140",
+          "original": "PLEASE COME AGAIN![end]"
+        },
+        "33": {
+          "text_offset": "0xA289",
+          "pointer_offset": "0x9142",
+          "original": "OK, I[8C]LL KEEP A[nl]RECORD OF THIS[nl]JOURNEY.[end]"
+        },
+        "34": {
+          "text_offset": "0xA2A2",
+          "pointer_offset": "0x9144",
+          "original": "PLEASE BE SURE[nl]TO COME HERE[nl]BEFORE SLEEPING.[end]"
+        },
+        "35": {
+          "text_offset": "0xA2BD",
+          "pointer_offset": "0x9146",
+          "original": "YOU ATE THE BREAD.YOU HAVE REGAINED[nl]YOUR COURAGE.[page]YOUR COURAGE IS[nl]NOW [05:A1 04].[end]"
+        },
+        "36": {
+          "text_offset": "0xA2EB",
+          "pointer_offset": "0x9148",
+          "original": "YOU USED TEARS.[nl]YOU HAVE RECOVEREDYOUR DREAMS.[page]YOUR DREAMS ARE[nl]NOW [05:A3 04].[end]"
+        },
+        "37": {
+          "text_offset": "0xA317",
+          "pointer_offset": "0x914A",
+          "original": "MARIA RECEIVED[nl][05:29 05] RUBIES[nl]AND A BROOM.[end]"
+        },
+        "38": {
+          "text_offset": "0xA330",
+          "pointer_offset": "0x914C",
+          "original": "GO FORWARD BRAVELYAND DON[8C]T GIVE IN[nl]TO THE MANY[nl]DIFFICULTIES[page]WHICH LIE AHEAD.[nl]COME TO SEE ME[nl]BEFORE SLEEPING.[end]"
+        },
+        "39": {
+          "text_offset": "0xA371",
+          "pointer_offset": "0x914E",
+          "original": "DON[8C]T GIVE UP[nl]BECAUSE OF SUCH[nl]THINGS.[page]GO FORWARD BRAVELYAND TRY YOUR[nl]HARDEST.[end]"
+        },
+        "40": {
+          "text_offset": "0xA3A0",
+          "pointer_offset": "0x9150",
+          "original": "YOU DON[8C]T HAVE[nl]ENOUGH DREAMS, SO[nl]YOU CAN[8C]T APPEAR.[end]"
+        },
+        "41": {
+          "text_offset": "0xA3BF",
+          "pointer_offset": "0x9152",
+          "original": "THE MYSTICAL ROPE[nl]IS ALREADY BEING[nl]USED.[end]"
+        },
+        "42": {
+          "text_offset": "0xA3D7",
+          "pointer_offset": "0x9154",
+          "original": "[name]{2C:05} DOESN[8C]T[nl]HAVE ENOUGH POWER.[end]"
+        },
+        "43": {
+          "text_offset": "0xA150",
+          "pointer_offset": "0x9156",
+          "original": "THE KLEIN JUG[nl]VIGOROUSLY DREW[nl]UP ALL THE WATER[nl]FROM THE LAKE[page]WITH A MYSTERIOUS,INVISIBLE POWER.[end]"
+        },
+        "44": {
+          "text_offset": "0xA3EB",
+          "pointer_offset": "0x9158",
+          "original": "MARIA CALLED UPON[nl][name]{28:05}.[end]"
+        },
+        "45": {
+          "text_offset": "0xA3FB",
+          "pointer_offset": "0x915A",
+          "original": "ARE YOU CONSCIOUS?[page]IF WE HAD FOUND[nl]YOU ANY LATER, YOUWOULD HAVE[nl]DROWNED.[page]IF YOU ARE GOING[nl]ON A JOURNEY,[page]PLEASE SEARCH FOR[nl]THIS KIND OF[nl]SPRING.[page]OUR FRIENDS WILL[nl]INCREASE OUR[nl]COURAGE AND[page]MAGNIFY OUR[nl]DREAMS.[end]"
+        },
+        "46": {
+          "text_offset": "0xA3FB",
+          "pointer_offset": "0x915C",
+          "original": "ARE YOU CONSCIOUS?[page]IF WE HAD FOUND[nl]YOU ANY LATER, YOUWOULD HAVE[nl]DROWNED.[page]IF YOU ARE GOING[nl]ON A JOURNEY,[page]PLEASE SEARCH FOR[nl]THIS KIND OF[nl]SPRING.[page]OUR FRIENDS WILL[nl]INCREASE OUR[nl]COURAGE AND[page]MAGNIFY OUR[nl]DREAMS.[end]"
+        },
+        "47": {
+          "text_offset": "0xA3FB",
+          "pointer_offset": "0x915E",
+          "original": "ARE YOU CONSCIOUS?[page]IF WE HAD FOUND[nl]YOU ANY LATER, YOUWOULD HAVE[nl]DROWNED.[page]IF YOU ARE GOING[nl]ON A JOURNEY,[page]PLEASE SEARCH FOR[nl]THIS KIND OF[nl]SPRING.[page]OUR FRIENDS WILL[nl]INCREASE OUR[nl]COURAGE AND[page]MAGNIFY OUR[nl]DREAMS.[end]"
+        },
+        "48": {
+          "text_offset": "0xA3FB",
+          "pointer_offset": "0x9160",
+          "original": "ARE YOU CONSCIOUS?[page]IF WE HAD FOUND[nl]YOU ANY LATER, YOUWOULD HAVE[nl]DROWNED.[page]IF YOU ARE GOING[nl]ON A JOURNEY,[page]PLEASE SEARCH FOR[nl]THIS KIND OF[nl]SPRING.[page]OUR FRIENDS WILL[nl]INCREASE OUR[nl]COURAGE AND[page]MAGNIFY OUR[nl]DREAMS.[end]"
+        },
+        "49": {
+          "text_offset": "0xA475",
+          "pointer_offset": "0x9162",
+          "original": "PLEASE WRITE ABOUTYOUR JOURNEY AT[nl]EACH SITE.[page]WHEN YOU ENTER THEWORLD OF DARKNESS,YOUR LAST RECORD[nl]WILL HELP YOU.[page]ALSO, GATHER UP[nl]HOPE. YOUR DREAMS[nl]AND COURAGE WILL[nl]GROW.[page]WHEN YOU LOSE YOURCOURAGE, YOU WILL[nl]BECOME PART OF THEDARKNESS.[page]IF YOU HAVE[nl]DREAMS, MANY[nl]SPIRITS WILL[nl]HELP YOU.[end]"
+        },
+        "50": {
+          "text_offset": "0xA51B",
+          "pointer_offset": "0x9164",
+          "original": "MIGHT YOU BE[nl]SOMEONE FROM THE[nl]WORLD OF HUMANS?[page]IF SO, BE WARNED.[page]THIS IS THE WORLD[nl]OF DREAMS.[page]YOU CAN NO LONGER[nl]RETURN TO THE[nl]ORDINARY WORLD.[end]"
+        },
+        "51": {
+          "text_offset": "0xA56E",
+          "pointer_offset": "0x9166",
+          "original": "THANKS TO YOU, WE[nl]ARE ABLE TO GO[nl]THROUGH NOW.[page]LET[8C]S GO TO[nl]DAVIS![end]"
+        },
+        "52": {
+          "text_offset": "0xA595",
+          "pointer_offset": "0x9168",
+          "original": "KEEP GOING ON.[page]THERE WILL BE[nl]SOMETHING TO BREAKTHE CURSE OF THE[nl]WEREWOLVES.[end]"
+        },
+        "53": {
+          "text_offset": "0xA5C2",
+          "pointer_offset": "0x916A",
+          "original": "YOU[8C]D BETTER[nl]HURRY.[end]"
+        },
+        "54": {
+          "text_offset": "0xA5CE",
+          "pointer_offset": "0x916C",
+          "original": "NOW IT IS TIME FORYOUR FINAL TRIAL.[page]CONTINUE ONWARD[nl]WITH HOPE.[end]"
+        },
+        "55": {
+          "text_offset": "0xA5F2",
+          "pointer_offset": "0x916E",
+          "original": "SWEPT AWAY BY THE[nl]VIOLENT CURRENT,[nl]MARIA LOST[nl]CONSCIOUSNESS.[end]"
+        },
+        "56": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9170",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "57": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9172",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "58": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9174",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "59": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9176",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "60": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9178",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "61": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x917A",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "62": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x917C",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "63": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x917E",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        }
+      }
+    },
+    "bank3_A000": {
+      "text_address": "0xA000(b3)",
+      "pointer_address": "0xA000",
+      "method": "e1f9_huffman",
+      "note": "story/NPC dialogue, bank3 table at $A000",
+      "messages": {
+        "0": {
+          "text_offset": "0xA100",
+          "pointer_offset": "0xA000",
+          "original": "MARIA[8C]S PARENTS[nl]TOLD HER THE[nl]LEGEND OF THE[nl]WHITE LION.[page]\"ONCE UPON A TIME,A GREAT WHITE LIONATTACKED OUR[nl]VILLAGE.[page]MANY SOLDIERS[nl]TRIED TO SUBDUE[nl]IT, BUT TO NO[nl]AVAIL.[page]BUT ONE YOUNG[nl]SOLDIER SUMMONED[nl]ALL HIS COURAGE,[page]AND THREW HIS[nl]SPEAR AT THE LION.THE WHITE LION[nl]DISAPPEARED INTO[page]A CAVE AT THE EDGEOF THE VILLAGE,[nl]NEVER TO BE SEEN[nl]AGAIN.\"[page]\"WE ARE ABOUT TO[nl]EMBARK ON A[nl]JOURNEY TO SOLVE[nl]THIS MYSTERY,\"[page]SAID MARIA[8C]S[nl]PARENTS.[end]"
+        },
+        "1": {
+          "text_offset": "0xA4F0",
+          "pointer_offset": "0xA002",
+          "original": "THE GATE OF EVIL[nl]IS FAR AWAY,[page]BUT YOU[8C]LL REACH[nl]IT IF YOU TRAVEL[nl]WITH COURAGE AND[nl]DETERMINATION.[end]"
+        },
+        "2": {
+          "text_offset": "0xA528",
+          "pointer_offset": "0xA004",
+          "original": "DURING YOUR[nl]JOURNEY THERE ARE[nl]SOME THINGS YOU[page]WILL NEED TO[nl]PROTECT YOURSELF.[end]"
+        },
+        "3": {
+          "text_offset": "0xA555",
+          "pointer_offset": "0xA006",
+          "original": "ONLY THE TRULY[nl]BRAVE ARE GIVEN[nl]THE SPEAR OF[nl]COURAGE.[end]"
+        },
+        "4": {
+          "text_offset": "0xA574",
+          "pointer_offset": "0xA008",
+          "original": "IN THIS VILLAGE,[nl]THERE IS AN[nl]UNDERGROUND PATH.[page]ONLY THE HOLDER OFTHE SPEAR OF[nl]COURAGE CAN TAKE[nl]THIS PATH.[end]"
+        },
+        "5": {
+          "text_offset": "0xA5B1",
+          "pointer_offset": "0xA00A",
+          "original": "YOU WENT IN SEARCHOF THE WHITE LION?THAT WAS[nl]FOOLHARDY![end]"
+        },
+        "6": {
+          "text_offset": "0xA5D2",
+          "pointer_offset": "0xA00C",
+          "original": "THE LEGEND TELLS[nl]OF A WHITE LION[nl]THAT ATTACKED THISVILLAGE.[page]A TOTAL OF THREE[nl]HUNDRED SOLDIERS[nl]TRIED IN VAIN[page]TO VANQUISH THE[nl]LION. THE WHOLE[nl]VILLAGE WAS[nl]TERRIFIED,[page]FROZEN IN THEIR[nl]FOOTSTEPS BY ITS[nl]THUNDEROUS ROAR.[page]BUT, THE YOUNGEST[nl]SOLDIER[nl]COURAGEOUSLY[nl]FACED THE LION.[page]HE STRUCK THE LIONWITH THE SPEAR.[nl]THE LION SUDDENLY[nl]DISAPPEARED...[page]YES, THE REASON[nl]WAS NOT THE SPEAR,BUT THE SOLDIER[8C]S[nl]BRAVERY.[page]SINCE THEN, THE[nl]SPEAR HAS BEEN[nl]PROTECTING THIS[nl]VILLAGE.[end]"
+        },
+        "7": {
+          "text_offset": "0xA6D8",
+          "pointer_offset": "0xA00E",
+          "original": "EVERYONE WHO TRIEDTO DEFEAT THE LIONFAILED.[page]BUT, IF YOU FIND[nl]THE WHITE LION, DONOT HARM IT.[end]"
+        },
+        "8": {
+          "text_offset": "0xA70D",
+          "pointer_offset": "0xA010",
+          "original": "ARE YOU GOING TO[nl]THE GATE OF EVIL?[page]ARE YOU SURE YOU[nl]WANT TO GO?[page]YOU MAY SEE MANY[nl]FIERCE ANIMALS.[end2]"
+        },
+        "9": {
+          "text_offset": "0xA746",
+          "pointer_offset": "0xA012",
+          "original": "OH REALLY...?[end]"
+        },
+        "10": {
+          "text_offset": "0xA74F",
+          "pointer_offset": "0xA014",
+          "original": "ALRIGHT, BUT YOUR[nl]PARENTS MAY BE[nl]LOST FOREVER.[page]EVEN IF THEY ARE[nl]STILL ALIVE,[page]THERE IS NO[nl]GUARANTEE THAT YOUCAN HELP THEM.[page]ARE YOU SURE YOU[nl]WANT TO GO?[end2]"
+        },
+        "11": {
+          "text_offset": "0xA7A7",
+          "pointer_offset": "0xA016",
+          "original": "ALL RIGHT. THEN,[nl]TAKE THE SPEAR OF[nl]COURAGE.[page]THIS SPEAR HOLDS[nl]THE SPIRIT OF THE[nl]YOUNG SOLDIER.[page]YOU MUST ALWAYS[nl]TREASURE IT AND[nl]NEVER LOSE IT.[end]"
+        },
+        "12": {
+          "text_offset": "0xA7F8",
+          "pointer_offset": "0xA018",
+          "original": "ALWAYS HAVE HOPE![end]"
+        },
+        "13": {
+          "text_offset": "0xA803",
+          "pointer_offset": "0xA01A",
+          "original": "DO YOU HAVE THE[nl]SPEAR OF COURAGE?[end2]"
+        },
+        "14": {
+          "text_offset": "0xA818",
+          "pointer_offset": "0xA01C",
+          "original": "TAKE THIS KEY.[nl]UNDERGROUND, THEREIS A LAMP WHICH[nl]CAN PROTECT YOU.[page]FIND THE LAMP AND[nl]BE CAREFUL.[end]"
+        },
+        "15": {
+          "text_offset": "0xA851",
+          "pointer_offset": "0xA01E",
+          "original": "YOU CAN[8C]T ENTER[nl]WITHOUT THE SPEAR.[end]"
+        },
+        "16": {
+          "text_offset": "0xA865",
+          "pointer_offset": "0xA020",
+          "original": "WHY ARE YOU[nl]HESITATING? YOU[8C]D[nl]BETTER GO.[end]"
+        },
+        "17": {
+          "text_offset": "0xA87E",
+          "pointer_offset": "0xA022",
+          "original": "IT[8C]S FOOLISH TO GOTO THE GATE OF[nl]EVIL![end]"
+        },
+        "18": {
+          "text_offset": "0xA895",
+          "pointer_offset": "0xA024",
+          "original": "ARE YOU GOING TO[nl]THE GATE OF EVIL?[nl]THAT[8C]S DANGEROUS.[end]"
+        },
+        "19": {
+          "text_offset": "0xA8B4",
+          "pointer_offset": "0xA026",
+          "original": "IF YOU GO TO THE[nl]GATE OF EVIL,[nl]VISIT THE ELDERS.[end]"
+        },
+        "20": {
+          "text_offset": "0xA8D1",
+          "pointer_offset": "0xA028",
+          "original": "THERE SHOULD BE A[nl]FORTUNE TELLER[8C]S[nl]HOUSE AHEAD.[end]"
+        },
+        "21": {
+          "text_offset": "0xA8ED",
+          "pointer_offset": "0xA02A",
+          "original": "YES, THE VILLAGE[nl]ELDER[8C]S HOUSE IS[nl]AHEAD.[end]"
+        },
+        "22": {
+          "text_offset": "0xA905",
+          "pointer_offset": "0xA02C",
+          "original": "YES, A COUPLE[nl]LOOKING FOR THE[nl]WHITE LION WERE ONTHIS BOAT.[end]"
+        },
+        "23": {
+          "text_offset": "0xA927",
+          "pointer_offset": "0xA02E",
+          "original": "I WANT TO GIVE YOUTHIS..., BUT YOU[nl]SEEM TO HAVE MANY[nl]THINGS.[page]PLEASE COME BACK[nl]AGAIN WHEN YOU[nl]HAVE DISCARDED OR[page]USED UP SOME OF[nl]YOUR THINGS.[end]"
+        },
+        "24": {
+          "text_offset": "0xA97A",
+          "pointer_offset": "0xA030",
+          "original": "WHEN THE STARDUST[nl]IS RETURNED TO THEDAIS, A CLOSED[nl]PATH WILL OPEN.[end]"
+        },
+        "25": {
+          "text_offset": "0xA9A0",
+          "pointer_offset": "0xA032",
+          "original": "THE GIANT[8C]S STATUEWARDS OFF EVIL.[page]BUT, A GOBLIN TOOKTHE STARDUST FROM[nl]THE DAIS IN THE[nl]CAVE.[page]SINCE THEN, THE[nl]CAVE HAS BEEN[nl]CLOSED.[end]"
+        },
+        "26": {
+          "text_offset": "0xA9ED",
+          "pointer_offset": "0xA034",
+          "original": "THIS IS THE LAKE[nl]OF PARADISE.[page]BUT, IF YOU DO NOTUSE THE WATER JUG[nl]TO DRAW THE WATER,[page]THE WATER WILL[nl]BECOME A CLOUD ANDINSTANTLY FLOAT UPINTO THE SKY.[end]"
+        },
+        "27": {
+          "text_offset": "0xA1F4",
+          "pointer_offset": "0xA036",
+          "original": "\"IT MAY BE A VERY[nl]DANGEROUS AND[nl]DIFFICULT JOURNEY.[page]PLEASE WAIT FOR USUNTIL WE RETURN.[page]IF YOU HAVE ANY[nl]PROBLEMS, GO AND[nl]SEE THE VILLAGE[nl]ELDERS.\"[page]WITH THAT, THE[nl]PARENTS LEFT.[page]BUT, THEY WERE[nl]NEVER HEARD FROM[nl]AGAIN.[end]"
+        },
+        "28": {
+          "text_offset": "0xAA44",
+          "pointer_offset": "0xA038",
+          "original": "WATER![nl]THIS IS WHAT I[nl]HAVE BEEN LOOKING[nl]FOR![page]THANK YOU.[nl]NOW I CAN GO BACK[nl]HOME.[page]I WILL MAKE A[nl]RAINBOW AS A TOKENOF MY THANKS.[page]WITH THIS, THE[nl]RAINBOW CHILD[nl]DISAPPEARED.[end]"
+        },
+        "29": {
+          "text_offset": "0xAAA9",
+          "pointer_offset": "0xA03A",
+          "original": "OH, NO![nl]THERE IS NO WATER.[page]I CAN NOT GO BACK[nl]IF I DO NOT HAVE[nl]IT![end]"
+        },
+        "30": {
+          "text_offset": "0xAAD0",
+          "pointer_offset": "0xA03C",
+          "original": "OH![nl]THAT[8C]S THE CROWN[nl]WHICH I HAVE BEEN[nl]LOOKING FOR.[page]IS THAT FOR ME,[nl]SOMEONE WHO ONCE[nl]COMMITTED EVIL[nl]ACTS?[page]WELL![nl]KEEP ON TRYING TO[nl]FULFILL YOUR[nl]HOPES.[page]SO LONG.[end]"
+        },
+        "31": {
+          "text_offset": "0xAB30",
+          "pointer_offset": "0xA03E",
+          "original": "I USED TO BE THE[nl]KING OF BATOTH.[page]BATOTH IS NOW[nl]CALLED THE ISLAND[nl]OF EVIL.[page]HUMANS USED TO[nl]LIVE ON THE[nl]ISLAND.[page]BUT, DECEIVED BY[nl]EVIL FORCES[page]I TRIED TO TAKE[nl]CONTROL OF THE[nl]WORLD.[page]HOWEVER, I FELL[nl]ILL AND FINALLY[nl]CAME TO REST UPON[nl]THIS LAND.[page]I WAS FOOLISH, BUTPLEASE RESTORE MY[nl]CROWN.[page]PLEASE BRING THE[nl]CROWN HERE.[end2]"
+        },
+        "32": {
+          "text_offset": "0xABE6",
+          "pointer_offset": "0xA040",
+          "original": "THIS IS THE CAVE[nl]TO THE GATE OF[nl]EVIL.[page]YOU HAVE FINALLY[nl]MADE IT HERE.[page]IF YOU KNEEL IN[nl]FRONT OF THE[nl]DAIS, THE WATER[nl]IN THE LAKE WILL[page]DISAPPEAR AND A[nl]PATH TO A WHITE[nl]PYRAMID WILL[nl]APPEAR.[end]"
+        },
+        "33": {
+          "text_offset": "0xAC50",
+          "pointer_offset": "0xA042",
+          "original": "THIS IS THE CAVE[nl]TO THE GATE OF[nl]EVIL.[page]YOU HAVE FINALLY[nl]MADE IT HERE.[page]THE KLEIN JUG IS[nl]INFINITE.[page]IT CAN EASILY DRY[nl]UP A LAKE.[end]"
+        },
+        "34": {
+          "text_offset": "0xAC99",
+          "pointer_offset": "0xA044",
+          "original": "THANK YOU FOR[nl]HELPING ME![page]I WILL GIVE YOU[nl]THIS BOX AS A[nl]TOKEN OF MY[nl]THANKS.[page]THE PIXIE WENT[nl]AWAY WITH THE[nl]LIGHT.[end]"
+        },
+        "35": {
+          "text_offset": "0xACDC",
+          "pointer_offset": "0xA046",
+          "original": "IT IS SAID THAT[nl]THERE IS A HORN[page]WHICH CAN BREAK[nl]THE ROCK BEHIND[nl]THE STATUE OF THE[nl]DOG.[page]NOW, PUT THE DOG[8C]SEYE BACK IN THE[nl]STATUE.[end]"
+        },
+        "36": {
+          "text_offset": "0xAD27",
+          "pointer_offset": "0xA048",
+          "original": "THE WAY WILL BE[nl]OPENED WHEN THE[nl]LIGHT RETURNS TO[nl]THE DOG[8C]S EYE.[end]"
+        },
+        "37": {
+          "text_offset": "0xA38B",
+          "pointer_offset": "0xA04A",
+          "original": "\"MARIA... BY YOUR[nl]COURAGE, HOPE AND[nl]THE STRENGTH OF[nl]YOUR DREAMS,[page]YOU OVERCAME THE[nl]TRIALS WHICH I PUTBEFORE YOU.[page]HOPE IS THE[nl]GUIDEPOST OF LIFE.[page]NEVER LOSE SIGHT[nl]OF IT.[page]COURAGE IS THE[nl]SOURCE OF[nl]STRENGTH.[page]NEVER GIVE UP.[page]DREAMS ARE THE[nl]FOUNTAIN OF LIFE.[page]YOUR LIFE WILL BE[nl]FULL IF YOU DARE[nl]TO DREAM.[page]IF YOU DON[8C]T LOSE[nl]HOPE AND FACE YOURPROBLEMS WITH[nl]COURAGE,[page]ALL YOUR DREAMS[nl]WILL COME TRUE.[page]YOU[8C]LL LEARN THIS[nl]FROM THE TRIALS[nl]WHICH AWAIT YOU.[page]I[8C]LL GIVE YOU[nl]THIS PENDANT TO[nl]HELP YOU.[page]IF YOU GET[nl]DISCOURAGED, LOOK[nl]AT THIS PENDANT.\"[end]"
+        },
+        "38": {
+          "text_offset": "0xAD4C",
+          "pointer_offset": "0xA04C",
+          "original": "THIS IS THE TOWN[nl]OF BREAD.[end]"
+        },
+        "39": {
+          "text_offset": "0xAD5C",
+          "pointer_offset": "0xA04E",
+          "original": "THERE IS AN EVIL[nl]GOBLIN IN A CAVE[nl]NEAR HERE.[page]THE GOBLIN STOLE[nl]THE STARDUST.[page]IF I DON[8C]T GET IT,I WON[8C]T SEE MY[nl]FAMILY IN DAVIS![end]"
+        },
+        "40": {
+          "text_offset": "0xADA6",
+          "pointer_offset": "0xA050",
+          "original": "IF YOU GIVE ME A[nl]RUBY, I[8C]LL LET YOURIDE ON MY SHIP![page]HOW ABOUT IT?[end2]"
+        },
+        "41": {
+          "text_offset": "0xADCF",
+          "pointer_offset": "0xA052",
+          "original": "SO, WHERE DO YOU[nl]WANT TO GO?[end2]"
+        },
+        "42": {
+          "text_offset": "0xADE1",
+          "pointer_offset": "0xA054",
+          "original": "COME ON AND RIDE[nl]ON MY SHIP![end]"
+        },
+        "43": {
+          "text_offset": "0xADF3",
+          "pointer_offset": "0xA056",
+          "original": "MY GRANDFATHER[nl]TOLD ME THAT TEARSCAN MAKE YOUR[nl]DREAMS GREATER.[end]"
+        },
+        "44": {
+          "text_offset": "0xAE17",
+          "pointer_offset": "0xA058",
+          "original": "THIS IS MERRY[nl]PIXIE.[page]NOW, THE VILLAGE[nl]IS CHEERFUL[nl]AGAIN.[end]"
+        },
+        "45": {
+          "text_offset": "0xBC67",
+          "pointer_offset": "0xA05A",
+          "original": "IN RETURN, I[nl]WILL GIVE YOU[nl]SOME VALUABLE[nl]INFORMATION.[page]I HAVE HEARD THAT[nl]THERE IS AN OLD[nl]CROWN ON THE[page]NORTHERN ISLAND.[nl]YOU CAN GET THERE[nl]BY SHIP FROM[nl]BREAD.[page]AS THE PIXIE SAID[nl]THIS, SHE[nl]DISAPPEARED.[end]"
+        },
+        "46": {
+          "text_offset": "0xA272",
+          "pointer_offset": "0xA05C",
+          "original": "MARIA DECIDED TO[nl]SEARCH FOR HER[nl]PARENTS AND[page]VISITED THE[nl]VILLAGE ELDERS.[page]\"YOU FINALLY[nl]DECIDED TO START[nl]ON A JOURNEY.[page]THIS SPEAR HOLDS[nl]THE SPIRIT OF THE[nl]YOUNG SOLDIER.[page]IF YOU CALL UPON[nl]THE SPIRIT, HE[nl]WILL APPEAR AND[nl]HELP YOU.\"[page]\"FIRST, YOU SHOULDSEARCH FOR A[nl]SPECIAL LAMP.[page]IT WILL PROTECT[nl]YOU.\"[page]THE VILLAGE ELDERSGAVE MARIA THE[nl]SPEAR AND THE WOODKEY.[page]\"THERE IS A RUMOR[nl]THAT THE WHITE[nl]LION IS AT THE[nl]GATE OF EVIL.[page]BE CAREFUL MARIA.\"[page]MARIA LEFT THE[nl]VILLAGE ELDERS[nl]AND WENT INTO THE[nl]CAVE.[end]"
+        },
+        "47": {
+          "text_offset": "0xAE39",
+          "pointer_offset": "0xA05E",
+          "original": "IF THE STARDUST INTHE GOBLIN[8C]S CAVE[nl]IS RETURNED TO ITSDAIS,[page]I[8C]LL BE ABLE TO[nl]PASS THROUGH THE[nl]CAVE.[end]"
+        },
+        "48": {
+          "text_offset": "0xAE73",
+          "pointer_offset": "0xA060",
+          "original": "AFTER PASSING[nl]THROUGH THE CAVE[nl]OF THE GIANTS[page]AT THE SOUTHERN[nl]PART OF THE[nl]ISLAND[page]AND REACHING THE[nl]WEREWOLVES[8C][nl]TERRITORY,[page]DROP BY DAVIS,[nl]WHICH HAS[nl]MUSHROOMS.[end]"
+        },
+        "49": {
+          "text_offset": "0xAECE",
+          "pointer_offset": "0xA062",
+          "original": "THE WEREWOLVE[8C]S[nl]TERRITORY BEGINS[nl]HERE.[page]IF YOU WALK INTO[nl]THE CASTLE[nl]CARELESSLY,[page]TERRIBLE THINGS[nl]WILL HAPPEN.[end]"
+        },
+        "50": {
+          "text_offset": "0xAF0E",
+          "pointer_offset": "0xA064",
+          "original": "THE RED RING IS ATFON[8C]S CAVE IN THE[nl]SOUTH.[page]THE SPIRIT OF THE[nl]RING WILL BE SURE[nl]TO HELP YOU.[end]"
+        },
+        "51": {
+          "text_offset": "0xAF43",
+          "pointer_offset": "0xA066",
+          "original": "BESIDES THE RED[nl]RING, I HAVE ALSO[nl]HEARD THAT THERE[page]IS A RAPIER WHICH[nl]HOUSES AN ELF[8C]S[nl]SPIRIT.[end]"
+        },
+        "52": {
+          "text_offset": "0xAF78",
+          "pointer_offset": "0xA068",
+          "original": "THIS IS DAVIS.[page]IT WAS CLOSED TO[nl]THE OUTSIDE BY THEWEREWOLVES AND HASBECOME LONELY.[end]"
+        },
+        "53": {
+          "text_offset": "0xAFA9",
+          "pointer_offset": "0xA06A",
+          "original": "THE HUGE ROCK TO[nl]THE WEST WAS PUT[nl]IN PLACE BY A[page]CURSE OF THE WOLF[nl]KING.[page]TO BREAK THE[nl]CURSE, THE POWER[nl]OF THE HORN IS[nl]NEEDED.[end]"
+        },
+        "54": {
+          "text_offset": "0xAFF2",
+          "pointer_offset": "0xA06C",
+          "original": "PIXIE, ON THE[nl]OTHER SIDE OF THE[nl]HUGE ROCK, USED TOBE A MERRY PLACE.[page]WE[8C]LL PROBABLY[nl]NEVER SEE IT[nl]AGAIN.[end]"
+        },
+        "55": {
+          "text_offset": "0xB02F",
+          "pointer_offset": "0xA06E",
+          "original": "THE PERSON WHO[nl]SEES THE SHINING[page]DOG[8C]S EYE WILL BE[nl]ABLE TO OBTAIN THEHORN.[end]"
+        },
+        "56": {
+          "text_offset": "0xB05A",
+          "pointer_offset": "0xA070",
+          "original": "DON[8C]T FORGET.[page]ONLY CREATURES[nl]LIKE HUMAN BEINGS[nl]CAN HAVE DREAMS[nl]AND HOPES.[end]"
+        },
+        "57": {
+          "text_offset": "0xB086",
+          "pointer_offset": "0xA072",
+          "original": "THIS IS PIXIE, BUTNOW EVERYONE IS[nl]AFRAID OF THE HUGESLUG.[end]"
+        },
+        "58": {
+          "text_offset": "0xB0A9",
+          "pointer_offset": "0xA074",
+          "original": "A BRAVE PIXIE WENTINTO THE CAVE WITHA MYSTICAL ROPE[page]TO DESTROY THE[nl]HUGE SLUG.[nl]I HOPE HE WILL[nl]COME BACK SAFELY.[end]"
+        },
+        "59": {
+          "text_offset": "0xB0EA",
+          "pointer_offset": "0xA076",
+          "original": "THERE IS A JAR[nl]CALLED THE WATER[nl]JUG[page]AT THE TOWER OF[nl]RANYA IN THE[nl]NORTH.[end]"
+        },
+        "60": {
+          "text_offset": "0xB113",
+          "pointer_offset": "0xA078",
+          "original": "THE SPRITES LOOK[nl]LIKE US PIXIES,[nl]BUT BE CAREFUL.[nl]THEY ARE EVIL.[end]"
+        },
+        "61": {
+          "text_offset": "0xB13A",
+          "pointer_offset": "0xA07A",
+          "original": "I HAVE HEARD THAT[nl]THERE IS A RED[nl]PYRAMID AT ALKO[page]IN THE SOUTH OF[nl]THE ISLAND.[end]"
+        },
+        "62": {
+          "text_offset": "0xB165",
+          "pointer_offset": "0xA07C",
+          "original": "WEREWOLF CASTLE[nl]LIES IN RUINS.[page]A MONSTER IS[nl]LIVING IN THIS[nl]CASTLE,[page]WHICH WAS ONCE[nl]INHABITED BY[nl]HUMANS.[page]WEREWOLVES WERE[nl]GREEDY, BUT SO AREHUMANS.[end]"
+        },
+        "63": {
+          "text_offset": "0xB1BC",
+          "pointer_offset": "0xA07E",
+          "original": "THIS IS THE TOWN[nl]OF THE RANYA[nl]TOWER.[end]"
+        }
+      }
+    },
+    "bank3_A080": {
+      "text_address": "0xA080(b3)",
+      "pointer_address": "0xA080",
+      "method": "e1f9_huffman",
+      "note": "bank3 secondary tables: villager info, table at $A080 (28 msgs)",
+      "messages": {
+        "0": {
+          "text_offset": "0xB1D1",
+          "pointer_offset": "0xA080",
+          "original": "IN THE NORTH CAVE,A RAINBOW CHILD ISIN TROUBLE.[page]IT CAN[8C]T RETURN[nl]HOME.[end]"
+        },
+        "1": {
+          "text_offset": "0xB1FA",
+          "pointer_offset": "0xA082",
+          "original": "THERE IS A BROOM[nl]THAT IS KEPT BY A[nl]WITCH IN THE WITCHFOREST.[page]IF I COULD GET IT,I COULD FLY FROM[nl]VILLAGE TO[nl]VILLAGE.[end]"
+        },
+        "2": {
+          "text_offset": "0xB23E",
+          "pointer_offset": "0xA084",
+          "original": "THERE[8C]S A TOWN TO[nl]THE NORTH WITH A[nl]TOWER CALLED[nl]KAPI[8C]S TOWER.[page]YOU WILL FIND IT[nl]SOON.[page]I WANT TO GO THERETOO![end]"
+        },
+        "3": {
+          "text_offset": "0xB27C",
+          "pointer_offset": "0xA086",
+          "original": "I HAVE HEARD THAT[nl]THERE IS A[nl]MYSTERIOUS LAKE[page]CALLED THE LAKE OFPARADISE![end]"
+        },
+        "4": {
+          "text_offset": "0xB2A6",
+          "pointer_offset": "0xA088",
+          "original": "WELCOME TO THE[nl]TOWN OF KAPI[8C]S[nl]TOWER.[end]"
+        },
+        "5": {
+          "text_offset": "0xB2BC",
+          "pointer_offset": "0xA08A",
+          "original": "I HAVE HEARD THAT[nl]THERE IS A[nl]TREASURE CALLED[page]THE ROCK WING AT[nl]HOWLING CAVE IN[nl]THE WEST.[end]"
+        },
+        "6": {
+          "text_offset": "0xB2EE",
+          "pointer_offset": "0xA08C",
+          "original": "THE ROCK WING[nl]HOUSES A SPIRIT.[nl]IT WILL HELP YOU.[end]"
+        },
+        "7": {
+          "text_offset": "0xB30B",
+          "pointer_offset": "0xA08E",
+          "original": "IT IS SAID THAT ONTHE ISLAND OF[nl]EVIL,[page]ALL THAT IS LEFT[nl]ON THE ROYAL[nl]THRONE IS A CROWN.[page]I HAVE HEARD THAT[nl]A MONSTER[page]WHICH LOOKS LIKE AGOBLIN COVETS THE[nl]CROWN.[end]"
+        },
+        "8": {
+          "text_offset": "0xB366",
+          "pointer_offset": "0xA090",
+          "original": "I HAVE HEARD THAT[nl]HUMANS USED TO[nl]LIVE ON THE ISLANDOF EVIL.[page]BUT, BECAUSE OF[nl]THEIR GREED,[page]PEOPLE REPEATEDLY[nl]DESTROYED EACH[nl]OTHER.[page]STILL OTHERS WERE[nl]DESTROYED BY A[nl]GIANT LION.[page]SINCE THEN, THE[nl]LION PLACED A[nl]CURSE ON THE[nl]ISLAND[page]AND NO ONE COULD[nl]LIVE OUTSIDE OF[nl]THE TOWER.[end]"
+        },
+        "9": {
+          "text_offset": "0xB401",
+          "pointer_offset": "0xA092",
+          "original": "THIS IS A TOWN OF[nl]HOPE - THE TOWN OFSPIRIT[8C]S TOWER.[end]"
+        },
+        "10": {
+          "text_offset": "0xB41F",
+          "pointer_offset": "0xA094",
+          "original": "I LOST MY DOLL.[nl]PLEASE LOOK FOR[nl]IT![end]"
+        },
+        "11": {
+          "text_offset": "0xB435",
+          "pointer_offset": "0xA096",
+          "original": "THERE ARE A LOT OFMUSHROOMS IN[nl]ORANGE MOON.[end]"
+        },
+        "12": {
+          "text_offset": "0xB44E",
+          "pointer_offset": "0xA098",
+          "original": "IT[8C]S VERY[nl]DIFFICULT TO[nl]DEFEAT THE DRAGON[nl]IN THE VALLEY.[page]BUT IT CAN BE DONEIF WE HAVE THE[nl]RIGHT STATUE.[end]"
+        },
+        "13": {
+          "text_offset": "0xB48A",
+          "pointer_offset": "0xA09A",
+          "original": "I HAVE HEARD THAT[nl]THERE ARE PLACES[nl]IMPOSSIBLE TO[page]CROSS WITHOUT[nl]SPECIAL SHOES.[end]"
+        },
+        "14": {
+          "text_offset": "0xB4B7",
+          "pointer_offset": "0xA09C",
+          "original": "THE CREATURE[nl]ENCLOSED IN THE[nl]SILVER CUP HAS THEUPPER BODY OF[page]A HUMAN AND THE[nl]LOWER BODY OF A[nl]HORSE.[page]THE CREATURE IS A[nl]CENTAUR.[page]HE WILL PROTECT[nl]YOU.[end]"
+        },
+        "15": {
+          "text_offset": "0xB50C",
+          "pointer_offset": "0xA09E",
+          "original": "THERE IS A SILVER[nl]SHINING STONE DEEPWITHIN THE CAVE.[page]THE STONE[8C]S STRONGPOWER WILL[nl]CERTAINLY DEFEAT[nl]THE ENEMY.[end]"
+        },
+        "16": {
+          "text_offset": "0xB54B",
+          "pointer_offset": "0xA0A0",
+          "original": "I HEARD THAT IN[nl]THE EASTERN LAKE,[nl]THERE IS A FROG[nl]MONSTER.[page]THE PERSON WHO[nl]DEFEATS THIS[nl]MONSTER WILL WIN[nl]THE ALLEGIANCE[page]OF THE FROG AND BEABLE TO USE IT AS[nl]HE WISHES.[end]"
+        },
+        "17": {
+          "text_offset": "0xB5A9",
+          "pointer_offset": "0xA0A2",
+          "original": "ORANGE MOON IS NOWVERY RUN DOWN.[page]BUT IT USED TO BE[nl]VERY MERRY.[end]"
+        },
+        "18": {
+          "text_offset": "0xA4BF",
+          "pointer_offset": "0xA0A4",
+          "original": "MARIA FELT FAINT,[nl]AS IF SHE WAS[nl]ENGULFED[page]BY THE PENDANT[8C]S[nl]DAZZLING[nl]BRILLIANCE.[end]"
+        },
+        "19": {
+          "text_offset": "0xB5CF",
+          "pointer_offset": "0xA0A6",
+          "original": "THERE IS A[nl]TREASURE CALLED[nl]THE KLEIN JUG[page]WHICH CAN SUCK IN[nl]ALL THE WATER OF[nl]THE LAKE.[page]A TWO-HEADED SNAKEIS KEEPING IT.[end]"
+        },
+        "20": {
+          "text_offset": "0xB615",
+          "pointer_offset": "0xA0A8",
+          "original": "THE SLUG IS WEAKERTHAN THE FROG,[page]AND THE FROG[nl]TREMBLES AT THE[nl]SIGHT OF THE[nl]SNAKE.[page]HOWEVER, THE SNAKECAN[8C]T MOVE AT THE[nl]SIGHT OF THE SLUG.[page]THIS IS WHAT IS[nl]CALLED A[nl]THREE-CORNERED[nl]DEADLOCK.[page]THEY ARE ALL BOUNDHAND AND FOOT, ANDCAN[8C]T MOVE AT ALL.[end]"
+        },
+        "21": {
+          "text_offset": "0xB6A3",
+          "pointer_offset": "0xA0AA",
+          "original": "WHAT ARE YOU DOINGIN BATASA[8C]S[nl]FOREST?[end]"
+        },
+        "22": {
+          "text_offset": "0xB6BA",
+          "pointer_offset": "0xA0AC",
+          "original": "THE STATUE IS A[nl]MAGICAL STATUTE.[page]A PERSON WHO DOES[nl]NOT HAVE MAGIC[nl]CAN[8C]T USE IT.[end]"
+        },
+        "23": {
+          "text_offset": "0xB6E8",
+          "pointer_offset": "0xA0AE",
+          "original": "BATASA DOES NOT[nl]BARGAIN.[page]HE IS STUBBORN.[end]"
+        },
+        "24": {
+          "text_offset": "0xB701",
+          "pointer_offset": "0xA0B0",
+          "original": "THERE IS A CRYSTALHOUSING THE[nl]GIANT[8C]S SPIRIT[page]IN MOD[8C]S ISLAND[nl]NEAR HERE.[end]"
+        },
+        "25": {
+          "text_offset": "0xB72B",
+          "pointer_offset": "0xA0B2",
+          "original": "THIS IS THE[nl]WITCH[8C]S FOREST.[page]OH! YOU HAVE THE[nl]HORN.[page]LET[8C]S EXCHANGE THEHORN FOR MY BROOM.[end2]"
+        },
+        "26": {
+          "text_offset": "0xB75F",
+          "pointer_offset": "0xA0B4",
+          "original": "YOU CAN[8C]T USE[nl]THAT WITHIN CLOSEDPLACES OR IN THE[nl]MIDST OF BATTLES.[page]BE CAREFUL.[end]"
+        },
+        "27": {
+          "text_offset": "0xB78E",
+          "pointer_offset": "0xA0B6",
+          "original": "OH, THAT REALLY ISTOO BAD.[page]I[8C]LL GIVE YOU 20[nl]RUBIES, THOUGH.[page]THIS ISN[8C]T BAD,[nl]EH?[end2]"
+        }
+      }
+    },
+    "bank3_A0B8": {
+      "text_address": "0xA0B8(b3)",
+      "pointer_address": "0xA0B8",
+      "method": "e1f9_huffman",
+      "note": "bank3 secondary tables: villager events, table at $A0B8 (36 msgs)",
+      "messages": {
+        "0": {
+          "text_offset": "0xB7C0",
+          "pointer_offset": "0xA0B8",
+          "original": "IF THAT[8C]S THE[nl]CASE, I[8C]LL ABANDONTHIS DEAL.[nl]GO HOME.[end]"
+        },
+        "1": {
+          "text_offset": "0xB7DF",
+          "pointer_offset": "0xA0BA",
+          "original": "WHAT IS THIS?[nl]I NO LONGER HAVE[nl]TO DEAL WITH YOU.[end]"
+        },
+        "2": {
+          "text_offset": "0xB7FB",
+          "pointer_offset": "0xA0BC",
+          "original": "OH! THANK YOU![page]ELHALIA AND[nl]KUNASHIRIA WILL[nl]BE CONNECTED[nl]AGAIN.[end]"
+        },
+        "3": {
+          "text_offset": "0xB821",
+          "pointer_offset": "0xA0BE",
+          "original": "ALL RIGHT.[page]I[8C]LL BECOME AN[nl]EVIL SPIRIT AGAIN[nl]AND WILL CONTROL[nl]EVERYTHING.[page]HEY, LITTLE GIRL,[nl]GO WHEREVER YOU[nl]WANT![page]I[8C]LL ALWAYS[nl]DISRUPT YOUR[nl]DREAMS.[end]"
+        },
+        "4": {
+          "text_offset": "0xB879",
+          "pointer_offset": "0xA0C0",
+          "original": "OH! THANK YOU FOR[nl]THIS DOLL.[page]I[8C]LL GIVE YOU THE[nl]F-SWORD AS A[nl]TOKEN OF MY[nl]THANKS.[page]MY FATHER GAVE IT[nl]TO ME.[end]"
+        },
+        "5": {
+          "text_offset": "0xB8B8",
+          "pointer_offset": "0xA0C2",
+          "original": "I HAVE HEARD THAT[nl]A BOY FROM ORANGE[nl]MOON BURIED[page]THE DOLL IN THE[nl]MIDDLE OF PALM[nl]TREE ROAD.[end]"
+        },
+        "6": {
+          "text_offset": "0xB8EC",
+          "pointer_offset": "0xA0C4",
+          "original": "YES, I[8C]M THE ONE[nl]WHO TOOK THE DOLL[nl]FROM A GIRL[page]IN THE TOWN OF[nl]SPIRIT[8C]S TOWER[nl]AND BURIED IT IN[nl]THE GROUND.[page]LET[8C]S SEE NOW,[nl]WHERE DID I BURY[nl]IT?[end]"
+        },
+        "7": {
+          "text_offset": "0xB93F",
+          "pointer_offset": "0xA0C6",
+          "original": "THANK YOU VERY[nl]MUCH! PLEASE TAKE[nl]CARE.[end]"
+        },
+        "8": {
+          "text_offset": "0xB957",
+          "pointer_offset": "0xA0C8",
+          "original": "I HAVE NOT EATEN[nl]ANYTHING FOR THREEDAYS.[page]COULD YOU GIVE ME[nl]SOME OF THE BREAD[nl]THAT MAKES ONE[nl]BRAVE?[end2]"
+        },
+        "9": {
+          "text_offset": "0xB991",
+          "pointer_offset": "0xA0CA",
+          "original": "AH.. IT WAS VERY[nl]GOOD.[nl]BUT, I AM STILL[nl]HUNGRY.[page]COULD YOU GIVE[nl]ANOTHER PIECE OF[nl]BREAD?[end2]"
+        },
+        "10": {
+          "text_offset": "0xB9C5",
+          "pointer_offset": "0xA0CC",
+          "original": "THIS IS VERY GOOD.I FEEL REVIVED.[page]I[8C]M SORRY, BUT CANYOU GIVE ME ONE[nl]MORE PIECE?[end2]"
+        },
+        "11": {
+          "text_offset": "0xB9F6",
+          "pointer_offset": "0xA0CE",
+          "original": "HO-HO-HO.[nl]I HAD NO IDEA THATSUCH KINDNESS AND[page]GENEROSITY STILL[nl]EXISTED.[page]KIND GIRL, PLEASE[nl]DELIVER THIS[nl]LETTER TO MY SON[nl]IN DAVIS.[end]"
+        },
+        "12": {
+          "text_offset": "0xBA43",
+          "pointer_offset": "0xA0D0",
+          "original": "YOU GAVE BREAD TO[nl]AN OLD LADY.[end]"
+        },
+        "13": {
+          "text_offset": "0xBA56",
+          "pointer_offset": "0xA0D2",
+          "original": "ARE YOU GOING TO[nl]ABANDON ME, AN[nl]OLD WOMAN?[page]IT[8C]S THE END OF[nl]THE WORLD![end]"
+        },
+        "14": {
+          "text_offset": "0xBA80",
+          "pointer_offset": "0xA0D4",
+          "original": "I AM THE SON OF A[nl]WOMAN IN BREAD.[page]THANK YOU FOR[nl]TAKING CARE OF MY[nl]MOTHER.[page]I[8C]LL GIVE YOU THISB-DAGGER.[nl]THANK YOU VERY[nl]MUCH.[end]"
+        },
+        "15": {
+          "text_offset": "0xBACA",
+          "pointer_offset": "0xA0D6",
+          "original": "TAKE CARE.[end]"
+        },
+        "16": {
+          "text_offset": "0xBAD1",
+          "pointer_offset": "0xA0D8",
+          "original": "DO YOU HAVE A[nl]LETTER TO ME FROM[nl]MY MOTHER IN[nl]BREAD?[end]"
+        },
+        "17": {
+          "text_offset": "0xBAEF",
+          "pointer_offset": "0xA0DA",
+          "original": "YOU DON[8C]T HAVE ANYBREAD TO GIVE TO[nl]ME?[page]PLEASE BUY SOME.[end]"
+        },
+        "18": {
+          "text_offset": "0xBB11",
+          "pointer_offset": "0xA0DC",
+          "original": "THANK YOU VERY[nl]MUCH.[end]"
+        },
+        "19": {
+          "text_offset": "0xBB1E",
+          "pointer_offset": "0xA0DE",
+          "original": "I AM SORRY, BUT[nl]COULD YOU DELIVER[nl]THIS TO MY SON[page]AS QUICKLY AS[nl]POSSIBLE?[end]"
+        },
+        "20": {
+          "text_offset": "0xBB4B",
+          "pointer_offset": "0xA0E0",
+          "original": "THANK YOU FOR[nl]DEFEATING THE[nl]SLUG![end]"
+        },
+        "21": {
+          "text_offset": "0xBB60",
+          "pointer_offset": "0xA0E2",
+          "original": "A WITCH TOOK MY[nl]PIXIE WINGS.[page]I CAN NOT FLY[nl]WITHOUT THEM.[page]WHAT SHALL I DO?[end]"
+        },
+        "22": {
+          "text_offset": "0xBB8D",
+          "pointer_offset": "0xA0E4",
+          "original": "IT[8C]S A PIXIE![page]I HEARD THAT THE[nl]PIXIE HAD HER[nl]WINGS STOLEN.[page]THE WITCH TOOK THEWINGS TO KAPI[8C]S[nl]TOWER.[end]"
+        },
+        "23": {
+          "text_offset": "0xBBC8",
+          "pointer_offset": "0xA0E6",
+          "original": "ARE YOU SEARCHING[nl]FOR THE PIXIE[nl]WINGS?[page]WELL, YOU HAVE[nl]COME TO THE RIGHT[nl]PLACE.[page]I[8C]M BORED WITH[nl]THEIR WINGS.[page]I[8C]LL GIVE THEM TO[nl]YOU.[end]"
+        },
+        "24": {
+          "text_offset": "0xBC16",
+          "pointer_offset": "0xA0E8",
+          "original": "WHO ARE YOU?[page]I HAVE NEVER SEEN[nl]YOU BEFORE.[page]WHERE ARE YOU[nl]FROM?[end]"
+        },
+        "25": {
+          "text_offset": "0xBC3C",
+          "pointer_offset": "0xA0EA",
+          "original": "OH! THOSE ARE MY[nl]WINGS.[nl]THANK YOU VERY[nl]MUCH.[page]NOW I CAN RETURN[nl]TO PIXIE.[end]"
+        },
+        "26": {
+          "text_offset": "0xBCD9",
+          "pointer_offset": "0xA0EC",
+          "original": "THANK YOU FOR[nl]FINDING MY PIXIE[nl]WINGS.[page]THERE IS A KING[nl]IN A CAVE NEAR[nl]HERE[page]WHO IS SEARCHING[nl]FOR THE CROWN.[end]"
+        },
+        "27": {
+          "text_offset": "0xBD18",
+          "pointer_offset": "0xA0EE",
+          "original": "HAVE YOU GONE TO[nl]THE ISLAND OF[nl]EVIL, TO THE[nl]NORTH?[end]"
+        },
+        "28": {
+          "text_offset": "0xBD36",
+          "pointer_offset": "0xA0F0",
+          "original": "I BURIED THE MUSICBOX IN THE WITCH[8C]SFOREST.[page]I REMEMBER THAT I[nl]BURIED IT UNDER A[nl]TREE,[page]BUT I DON[8C]T[nl]REMEMBER WHICH[nl]TREE.[end]"
+        },
+        "29": {
+          "text_offset": "0xBD7C",
+          "pointer_offset": "0xA0F2",
+          "original": "WOW! THAT[8C]S MY[nl]MUSIC BOX![nl]THANK YOU![page]I[8C]LL TELL YOU[nl]A SECRET THAT MY[nl]MOTHER TOLD ME.[page]YOU CAN DRAW[nl]MYSTERIOUS WATER[nl]WITH THE WATER[nl]JUG.[end]"
+        },
+        "30": {
+          "text_offset": "0xBDCD",
+          "pointer_offset": "0xA0F4",
+          "original": "MY MOTHER TOLD ME[nl]THE ENTRANCE TO[nl]THE LAKE IS TO THENORTH.[end]"
+        },
+        "31": {
+          "text_offset": "0xBDEE",
+          "pointer_offset": "0xA0F6",
+          "original": "WHO ARE YOU?[nl]I MAY HAVE SEEN[nl]YOU BEFORE.[page]ANYWAY, I LEFT MY[nl]GLASSES AT A[nl]FRIEND[8C]S PLACE[nl]IN BASATA.[page]CAN YOU GO AND[nl]BRING THEM TO ME?[end]"
+        },
+        "32": {
+          "text_offset": "0xBE3C",
+          "pointer_offset": "0xA0F8",
+          "original": "MY FRIEND LEFT THEGLASSES HERE.[page]CAN YOU DELIVER[nl]THEM TO HER?[end2]"
+        },
+        "33": {
+          "text_offset": "0xBE60",
+          "pointer_offset": "0xA0FA",
+          "original": "OH! I SEE.[nl]THE WITCH WENT TO[nl]THE CAVE CALLED[page]\"SILVER MOUNTAIN\"[nl]TO LOOK FOR A[nl]TREASURE.[page]SHE MUST BE HAVINGA HARD TIME[nl]WITHOUT HER[nl]GLASSES.[page]THANK YOU FOR[nl]HELPING TO DELIVERTHE GLASSES TO[nl]HER.[end]"
+        },
+        "34": {
+          "text_offset": "0xBECF",
+          "pointer_offset": "0xA0FC",
+          "original": "OH! THOSE ARE MY[nl]GLASSES![page]NOW I CAN LOOK FORTHE TREASURE.[page]I DESIRE THE[nl]TREASURE, BUT I[nl]WANT THE KLEIN[nl]JUG EVEN MORE.[page]A SNAKE CALLED[nl]HYDRA IS KEEPING[nl]IT.[page]IF I USE THE JUG[nl]AT THE CAVE[nl]LEADING TO THE[nl]GATE OF EVIL,[page]I CAN GET TO THE[nl]WHITE LION. BUT, INEED TWO STATUES.[page]BUT, WHERE HAS THEWITCH GONE?[end]"
+        },
+        "35": {
+          "text_offset": "0xBF7B",
+          "pointer_offset": "0xA0FE",
+          "original": "DID YOU DELIVER[nl]THE GLASSES TO[nl]HER?[end]"
+        }
+      }
+    },
+    "bank4_9180": {
+      "text_address": "0x9180(b4)",
+      "pointer_address": "0x9180",
+      "method": "e1f9_huffman",
+      "note": "field/battle menus, bank4 table at $9180 (msg id = 0xC0+i)",
+      "messages": {
+        "0": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9180",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "1": {
+          "text_offset": "0xA667",
+          "pointer_offset": "0x9182",
+          "original": "[22:03 0F][27:08 02][22:03 0E]RUBY[22:06 10][02:A5 04][end]"
+        },
+        "2": {
+          "text_offset": "0xA67B",
+          "pointer_offset": "0x9184",
+          "original": "[22:09 03][27:04 04][22:0A 04]YES[nl]NO[end]"
+        },
+        "3": {
+          "text_offset": "0xA689",
+          "pointer_offset": "0x9186",
+          "original": "[22:11 05][27:06 04][22:12 06]USE[nl]LEAVE[end]"
+        },
+        "4": {
+          "text_offset": "0xA699",
+          "pointer_offset": "0x9188",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{60:05}[nl][name]{62:05}[nl][name]{64:05}[nl][name]{66:05}[22:14 14][name]{61:05}[nl][name]{63:05}[nl][name]{65:05}[nl][name]{67:05}[end]"
+        },
+        "5": {
+          "text_offset": "0xA6CB",
+          "pointer_offset": "0x918A",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{68:05}[nl][name]{6A:05}[nl][name]{6C:05}[nl][name]{6E:05}[22:14 14][name]{69:05}[nl][name]{6B:05}[nl][name]{6D:05}[nl][name]{6F:05}[end]"
+        },
+        "6": {
+          "text_offset": "0xA6FD",
+          "pointer_offset": "0x918C",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{70:05}[nl][name]{72:05}[nl][name]{74:05}[nl][name]{76:05}[22:14 14][name]{71:05}[nl][name]{73:05}[nl][name]{75:05}[nl][name]{77:05}[end]"
+        },
+        "7": {
+          "text_offset": "0xA72F",
+          "pointer_offset": "0x918E",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{78:05}[nl][name]{7A:05}[nl][name]{7C:05}[nl][name]{7E:05}[22:14 14][name]{79:05}[nl][name]{7B:05}[nl][name]{7D:05}[nl][name]{7F:05}[end]"
+        },
+        "8": {
+          "text_offset": "0xA761",
+          "pointer_offset": "0x9190",
+          "original": "[22:09 13][27:14 08][22:0A 14][name]{60:05}[nl][name]{62:05}[nl][name]{64:05}[nl][name]{66:05}[22:14 14][name]{61:05}[nl][name]{63:05}[nl][name]{65:05}[nl][name]{67:05}[end]"
+        },
+        "9": {
+          "text_offset": "0xA78C",
+          "pointer_offset": "0x9192",
+          "original": "[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "10": {
+          "text_offset": "0xA7BB",
+          "pointer_offset": "0x9194",
+          "original": "[22:03 07][27:0C 0C][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][nl][01:42 05][nl][01:43 05][end]"
+        },
+        "11": {
+          "text_offset": "0xA800",
+          "pointer_offset": "0x9196",
+          "original": "[22:03 07][27:0C 0A][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][nl][01:42 05][end]"
+        },
+        "12": {
+          "text_offset": "0xA83D",
+          "pointer_offset": "0x9198",
+          "original": "[22:03 07][27:0C 08][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][end]"
+        },
+        "13": {
+          "text_offset": "0xA872",
+          "pointer_offset": "0x919A",
+          "original": "[22:03 07][27:0C 06][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][end]"
+        },
+        "14": {
+          "text_offset": "0xA89F",
+          "pointer_offset": "0x919C",
+          "original": "[22:03 07][27:0C 04][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[22:0C 08][01:3E 05][nl][01:3F 05][end]"
+        },
+        "15": {
+          "text_offset": "0xA8C4",
+          "pointer_offset": "0x919E",
+          "original": "[22:03 07][27:0C 02][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[22:0C 08][01:3E 05][end]"
+        },
+        "16": {
+          "text_offset": "0xA8E1",
+          "pointer_offset": "0x91A0",
+          "original": "[22:03 13][27:06 04][22:03 12]MARIA[22:04 14]FIGHT[nl]RUN[end]"
+        },
+        "17": {
+          "text_offset": "0xA8F7",
+          "pointer_offset": "0x91A2",
+          "original": "[22:03 09][27:08 04][22:03 08][k2]POWER[k1][22:03 0A][name]{31:05}[22:08 0C][01:32 05][end]"
+        },
+        "18": {
+          "text_offset": "0xA912",
+          "pointer_offset": "0x91A4",
+          "original": "[22:03 13][27:08 04][22:03 12][k2][name]{31:05}[k1][22:04 14]DEFEND[nl]FIGHT[end]"
+        },
+        "19": {
+          "text_offset": "0xA92B",
+          "pointer_offset": "0x91A6",
+          "original": "[22:03 0B][27:0C 08][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "20": {
+          "text_offset": "0xA94D",
+          "pointer_offset": "0x91A8",
+          "original": "[22:03 0B][27:0C 06][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "21": {
+          "text_offset": "0xA96B",
+          "pointer_offset": "0x91AA",
+          "original": "[22:13 15][27:0A 06][22:13 14] ENEMY [22:14 16][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "22": {
+          "text_offset": "0xA987",
+          "pointer_offset": "0x91AC",
+          "original": "[22:13 15][27:0A 04][22:13 14] ENEMY [22:14 16][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "23": {
+          "text_offset": "0xA99F",
+          "pointer_offset": "0x91AE",
+          "original": "[22:13 15][27:0A 02][22:13 14] ENEMY [22:14 16][name]{30:05}[end]"
+        },
+        "24": {
+          "text_offset": "0xA9B3",
+          "pointer_offset": "0x91B0",
+          "original": "[22:03 0B][27:0C 0A][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]"
+        },
+        "25": {
+          "text_offset": "0xA9D9",
+          "pointer_offset": "0x91B2",
+          "original": "[22:03 13][27:0A 04][22:03 12][k2][name]{31:05}[k1][22:04 14]FIGHT[nl]DEFEND[end]"
+        },
+        "26": {
+          "text_offset": "0xA9F2",
+          "pointer_offset": "0x91B4",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{38:05}[nl][name]{3A:05}[nl][name]{3C:05}[nl][name]{3E:05}[22:14 14][name]{39:05}[nl][name]{3B:05}[nl][name]{3D:05}[nl][name]{3F:05}[end]"
+        },
+        "27": {
+          "text_offset": "0xAA24",
+          "pointer_offset": "0x91B6",
+          "original": "[22:09 13][27:14 08][22:0A 14][name]{38:05}[nl][name]{3A:05}[nl][name]{3C:05}[nl][name]{3E:05}[22:14 14][name]{39:05}[nl][name]{3B:05}[nl][name]{3D:05}[nl][name]{3F:05}[end]"
+        },
+        "28": {
+          "text_offset": "0xAA4F",
+          "pointer_offset": "0x91B8",
+          "original": "[22:03 13][27:04 01][k2][22:04 13]TWANA[end]"
+        },
+        "29": {
+          "text_offset": "0xAA5D",
+          "pointer_offset": "0x91BA",
+          "original": "[22:11 07][27:0C 04][k2][22:11 06] DEFENSE [k1][22:11 08][name]{38:05}[nl][name]{39:05}[22:1A 08][01:3E 05][nl][01:3F 05][end]"
+        },
+        "30": {
+          "text_offset": "0xAA82",
+          "pointer_offset": "0x91BC",
+          "original": "[22:11 07][27:0C 02][k2][22:11 06] DEFENSE [k1][22:11 08][name]{38:05}[22:1A 08][01:3E 05][end]"
+        },
+        "31": {
+          "text_offset": "0xAA9F",
+          "pointer_offset": "0x91BE",
+          "original": "[22:03 0B][27:0C 0E][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[nl][name]{35:05}[end]"
+        },
+        "32": {
+          "text_offset": "0xAACD",
+          "pointer_offset": "0x91C0",
+          "original": "[22:03 0B][27:0C 0C][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[end]"
+        },
+        "33": {
+          "text_offset": "0xAAF7",
+          "pointer_offset": "0x91C2",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] TWANA [k1][22:0A 14][name]{38:05}[nl][name]{3A:05}[nl][name]{3C:05}[nl][name]{3E:05}[22:14 14][name]{39:05}[nl][name]{3B:05}[nl][name]{3D:05}[nl][name]{3F:05}[end]"
+        },
+        "34": {
+          "text_offset": "0xAB2B",
+          "pointer_offset": "0x91C4",
+          "original": "[22:03 03][27:1A 02][k2][22:03 02] HOPE [22:06 04][01:A0 04][22:0A 02] COURAGE [22:09 04][02:A1 04][22:0E 04][slash][22:0F 04][05:38 05][22:14 02] DREAM [22:12 04][02:A3 04][22:17 04][slash][22:18 04][05:3A 05][end]"
+        },
+        "35": {
+          "text_offset": "0xAB75",
+          "pointer_offset": "0x91C6",
+          "original": "[22:0F 03][27:0E 0A][22:10 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[22:18 04][02:3E 05][nl][02:40 05][nl][02:42 05][nl][02:44 05][nl][02:46 05][end]"
+        },
+        "36": {
+          "text_offset": "0xABA9",
+          "pointer_offset": "0x91C8",
+          "original": "[22:13 03][27:0A 02][22:14 04][name]{38:05}[end]"
+        },
+        "37": {
+          "text_offset": "0xABB6",
+          "pointer_offset": "0x91CA",
+          "original": "[22:13 03][27:0A 04][22:14 04][name]{38:05}[nl][name]{39:05}[end]"
+        },
+        "38": {
+          "text_offset": "0xABC7",
+          "pointer_offset": "0x91CC",
+          "original": "[22:13 03][27:0A 06][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[end]"
+        },
+        "39": {
+          "text_offset": "0xABDC",
+          "pointer_offset": "0x91CE",
+          "original": "[22:13 03][27:0A 08][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[end]"
+        },
+        "40": {
+          "text_offset": "0xABF5",
+          "pointer_offset": "0x91D0",
+          "original": "[22:13 03][27:0A 0A][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[end]"
+        },
+        "41": {
+          "text_offset": "0xAC12",
+          "pointer_offset": "0x91D2",
+          "original": "[22:13 03][27:0A 0C][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[end]"
+        },
+        "42": {
+          "text_offset": "0xAC33",
+          "pointer_offset": "0x91D4",
+          "original": "[22:13 03][27:0A 0E][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[nl][name]{3E:05}[end]"
+        },
+        "43": {
+          "text_offset": "0xAC58",
+          "pointer_offset": "0x91D6",
+          "original": "[22:13 03][27:0A 10][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[nl][name]{3E:05}[nl][name]{3F:05}[end]"
+        },
+        "44": {
+          "text_offset": "0xAC81",
+          "pointer_offset": "0x91D8",
+          "original": "[22:0F 03][27:0E 06][22:10 04]EVIL KING 300[nl]ALKO     1000[nl]MODS     1700[end]"
+        },
+        "45": {
+          "text_offset": "0xACAA",
+          "pointer_offset": "0x91DA",
+          "original": "[22:15 09][27:08 06][22:15 08][k2] ENEMY [k1][22:15 0A][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "46": {
+          "text_offset": "0xACC8",
+          "pointer_offset": "0x91DC",
+          "original": "[22:15 09][27:08 04][22:15 08][k2] ENEMY [k1][22:15 0A][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "47": {
+          "text_offset": "0xACE2",
+          "pointer_offset": "0x91DE",
+          "original": "[22:15 09][27:08 02][22:15 08][k2] ENEMY [k1][22:15 0A][name]{30:05}[end]"
+        },
+        "48": {
+          "text_offset": "0xACF8",
+          "pointer_offset": "0x91E0",
+          "original": "[22:0C 12][27:0A 0A][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[end]"
+        },
+        "49": {
+          "text_offset": "0xAD1E",
+          "pointer_offset": "0x91E2",
+          "original": "[22:0C 12][27:0A 08][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]"
+        },
+        "50": {
+          "text_offset": "0xAD40",
+          "pointer_offset": "0x91E4",
+          "original": "[22:0C 12][27:0A 06][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "51": {
+          "text_offset": "0xAD5E",
+          "pointer_offset": "0x91E6",
+          "original": "[22:0C 12][27:0A 04][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "52": {
+          "text_offset": "0xAD78",
+          "pointer_offset": "0x91E8",
+          "original": "[22:0C 12][27:0A 02][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[end]"
+        },
+        "53": {
+          "text_offset": "0xAD8E",
+          "pointer_offset": "0x91EA",
+          "original": "[22:03 0B][27:0C 04][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[end]"
+        },
+        "54": {
+          "text_offset": "0xADA8",
+          "pointer_offset": "0x91EC",
+          "original": "[22:03 0F][27:0C 0E][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[nl][name]{35:05}[end]"
+        },
+        "55": {
+          "text_offset": "0xADD7",
+          "pointer_offset": "0x91EE",
+          "original": "[22:03 0F][27:0C 0C][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[end]"
+        },
+        "56": {
+          "text_offset": "0xAE02",
+          "pointer_offset": "0x91F0",
+          "original": "[22:03 0F][27:0C 0A][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]"
+        },
+        "57": {
+          "text_offset": "0xAE29",
+          "pointer_offset": "0x91F2",
+          "original": "[22:03 0F][27:0C 08][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "58": {
+          "text_offset": "0xAE4C",
+          "pointer_offset": "0x91F4",
+          "original": "[22:03 0F][27:0C 06][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "59": {
+          "text_offset": "0xAE6B",
+          "pointer_offset": "0x91F6",
+          "original": "[22:03 0F][27:0C 04][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[end]"
+        },
+        "60": {
+          "text_offset": "0xAE86",
+          "pointer_offset": "0x91F8",
+          "original": "[22:09 12][27:14 0A][22:09 11][k2]SPIRIT[k1][22:0A 13][name]{60:05}[nl][name]{62:05}[nl][name]{64:05}[nl][name]{66:05}[nl][name]{68:05}[22:14 13][name]{61:05}[nl][name]{63:05}[nl][name]{65:05}[nl][name]{67:05}[nl][name]{69:05}[end]"
+        },
+        "61": {
+          "text_offset": "0xAEC2",
+          "pointer_offset": "0x91FA",
+          "original": "[22:05 17][27:06 04][22:05 16]GOODS[22:06 18]TOOLS[nl]CALL[end]"
+        },
+        "62": {
+          "text_offset": "0xAED8",
+          "pointer_offset": "0x91FC",
+          "original": "[22:03 13][27:08 04][22:03 12][k2][name]{31:05}[k1][22:04 14]MAGIC[nl]DEFEND[end]"
+        },
+        "63": {
+          "text_offset": "0xAEF2",
+          "pointer_offset": "0x91FE",
+          "original": "[end]"
+        }
+      }
+    },
+    "bank4_B800": {
+      "text_address": "0xB800(b4)",
+      "pointer_address": "0xB800",
+      "method": "plain_glyphs_8byte",
+      "note": "item (0x00-0x2B) / enemy (0x31-0x58) / spell (0x59-0x70) / character-race (0x80-0x8B) names, bank4 fixed 8-byte slots (name id = slot index, addr = id*8+$B800, max 8 glyphs). Slots 0x8C-0xFF are binary data (not text) and are NOT extracted.",
+      "messages": {
+        "0": {
+          "text_offset": "0xB800",
+          "pointer_offset": "0xB800",
+          "original": ""
+        },
+        "1": {
+          "text_offset": "0xB808",
+          "pointer_offset": "0xB808",
+          "original": "LAMP"
+        },
+        "2": {
+          "text_offset": "0xB810",
+          "pointer_offset": "0xB810",
+          "original": "SPEAR"
+        },
+        "3": {
+          "text_offset": "0xB818",
+          "pointer_offset": "0xB818",
+          "original": "RAPIER"
+        },
+        "4": {
+          "text_offset": "0xB820",
+          "pointer_offset": "0xB820",
+          "original": "MAGICAXE"
+        },
+        "5": {
+          "text_offset": "0xB828",
+          "pointer_offset": "0xB828",
+          "original": "S. CUP"
+        },
+        "6": {
+          "text_offset": "0xB830",
+          "pointer_offset": "0xB830",
+          "original": "GOLDROCK"
+        },
+        "7": {
+          "text_offset": "0xB838",
+          "pointer_offset": "0xB838",
+          "original": "BROOMS"
+        },
+        "8": {
+          "text_offset": "0xB840",
+          "pointer_offset": "0xB840",
+          "original": "ROCKWING"
+        },
+        "9": {
+          "text_offset": "0xB848",
+          "pointer_offset": "0xB848",
+          "original": "P-WINGS"
+        },
+        "10": {
+          "text_offset": "0xB850",
+          "pointer_offset": "0xB850",
+          "original": "CRYSTAL"
+        },
+        "11": {
+          "text_offset": "0xB858",
+          "pointer_offset": "0xB858",
+          "original": "RED RING"
+        },
+        "12": {
+          "text_offset": "0xB860",
+          "pointer_offset": "0xB860",
+          "original": "SLUG"
+        },
+        "13": {
+          "text_offset": "0xB868",
+          "pointer_offset": "0xB868",
+          "original": "FROG"
+        },
+        "14": {
+          "text_offset": "0xB870",
+          "pointer_offset": "0xB870",
+          "original": "GLASSES"
+        },
+        "15": {
+          "text_offset": "0xB878",
+          "pointer_offset": "0xB878",
+          "original": "MUSICBOX"
+        },
+        "16": {
+          "text_offset": "0xB880",
+          "pointer_offset": "0xB880",
+          "original": "WOOD KEY"
+        },
+        "17": {
+          "text_offset": "0xB888",
+          "pointer_offset": "0xB888",
+          "original": "GOLD KEY"
+        },
+        "18": {
+          "text_offset": "0xB890",
+          "pointer_offset": "0xB890",
+          "original": "STARDUST"
+        },
+        "19": {
+          "text_offset": "0xB898",
+          "pointer_offset": "0xB898",
+          "original": "DOG[8C]SEYE"
+        },
+        "20": {
+          "text_offset": "0xB8A0",
+          "pointer_offset": "0xB8A0",
+          "original": "HORN"
+        },
+        "21": {
+          "text_offset": "0xB8A8",
+          "pointer_offset": "0xB8A8",
+          "original": "WATERJUG"
+        },
+        "22": {
+          "text_offset": "0xB8B0",
+          "pointer_offset": "0xB8B0",
+          "original": "WATER"
+        },
+        "23": {
+          "text_offset": "0xB8B8",
+          "pointer_offset": "0xB8B8",
+          "original": "OLDCROWN"
+        },
+        "24": {
+          "text_offset": "0xB8C0",
+          "pointer_offset": "0xB8C0",
+          "original": "ICESHOES"
+        },
+        "25": {
+          "text_offset": "0xB8C8",
+          "pointer_offset": "0xB8C8",
+          "original": "KLEINJUG"
+        },
+        "26": {
+          "text_offset": "0xB8D0",
+          "pointer_offset": "0xB8D0",
+          "original": "ARROW"
+        },
+        "27": {
+          "text_offset": "0xB8D8",
+          "pointer_offset": "0xB8D8",
+          "original": "ROPE"
+        },
+        "28": {
+          "text_offset": "0xB8E0",
+          "pointer_offset": "0xB8E0",
+          "original": "STATUE"
+        },
+        "29": {
+          "text_offset": "0xB8E8",
+          "pointer_offset": "0xB8E8",
+          "original": "B-DAGGER"
+        },
+        "30": {
+          "text_offset": "0xB8F0",
+          "pointer_offset": "0xB8F0",
+          "original": "DOLL"
+        },
+        "31": {
+          "text_offset": "0xB8F8",
+          "pointer_offset": "0xB8F8",
+          "original": "LETTER"
+        },
+        "32": {
+          "text_offset": "0xB900",
+          "pointer_offset": "0xB900",
+          "original": "BREAD"
+        },
+        "33": {
+          "text_offset": "0xB908",
+          "pointer_offset": "0xB908",
+          "original": "TEAR"
+        },
+        "34": {
+          "text_offset": "0xB910",
+          "pointer_offset": "0xB910",
+          "original": "BOMB"
+        },
+        "35": {
+          "text_offset": "0xB918",
+          "pointer_offset": "0xB918",
+          "original": "BLUERING"
+        },
+        "36": {
+          "text_offset": "0xB920",
+          "pointer_offset": "0xB920",
+          "original": "CLUB"
+        },
+        "37": {
+          "text_offset": "0xB928",
+          "pointer_offset": "0xB928",
+          "original": "DAGGER"
+        },
+        "38": {
+          "text_offset": "0xB930",
+          "pointer_offset": "0xB930",
+          "original": "S-SWORD"
+        },
+        "39": {
+          "text_offset": "0xB938",
+          "pointer_offset": "0xB938",
+          "original": "WHIP"
+        },
+        "40": {
+          "text_offset": "0xB940",
+          "pointer_offset": "0xB940",
+          "original": "L-SWORD"
+        },
+        "41": {
+          "text_offset": "0xB948",
+          "pointer_offset": "0xB948",
+          "original": "AURORA"
+        },
+        "42": {
+          "text_offset": "0xB950",
+          "pointer_offset": "0xB950",
+          "original": "WHIP"
+        },
+        "43": {
+          "text_offset": "0xB958",
+          "pointer_offset": "0xB958",
+          "original": "F-SWORD"
+        },
+        "44": {
+          "text_offset": "0xB960",
+          "pointer_offset": "0xB960",
+          "original": ""
+        },
+        "45": {
+          "text_offset": "0xB968",
+          "pointer_offset": "0xB968",
+          "original": ""
+        },
+        "46": {
+          "text_offset": "0xB970",
+          "pointer_offset": "0xB970",
+          "original": ""
+        },
+        "47": {
+          "text_offset": "0xB978",
+          "pointer_offset": "0xB978",
+          "original": ""
+        },
+        "48": {
+          "text_offset": "0xB980",
+          "pointer_offset": "0xB980",
+          "original": ""
+        },
+        "49": {
+          "text_offset": "0xB988",
+          "pointer_offset": "0xB988",
+          "original": "W. LION"
+        },
+        "50": {
+          "text_offset": "0xB990",
+          "pointer_offset": "0xB990",
+          "original": "GOBLIN"
+        },
+        "51": {
+          "text_offset": "0xB998",
+          "pointer_offset": "0xB998",
+          "original": "HUGESLUG"
+        },
+        "52": {
+          "text_offset": "0xB9A0",
+          "pointer_offset": "0xB9A0",
+          "original": "DRAGON"
+        },
+        "53": {
+          "text_offset": "0xB9A8",
+          "pointer_offset": "0xB9A8",
+          "original": "HYDRA"
+        },
+        "54": {
+          "text_offset": "0xB9B0",
+          "pointer_offset": "0xB9B0",
+          "original": "HUGEFROG"
+        },
+        "55": {
+          "text_offset": "0xB9B8",
+          "pointer_offset": "0xB9B8",
+          "original": "ZOMBIE"
+        },
+        "56": {
+          "text_offset": "0xB9C0",
+          "pointer_offset": "0xB9C0",
+          "original": "GOLEM"
+        },
+        "57": {
+          "text_offset": "0xB9C8",
+          "pointer_offset": "0xB9C8",
+          "original": "KOBOLD"
+        },
+        "58": {
+          "text_offset": "0xB9D0",
+          "pointer_offset": "0xB9D0",
+          "original": "SKELETON"
+        },
+        "59": {
+          "text_offset": "0xB9D8",
+          "pointer_offset": "0xB9D8",
+          "original": "ORC"
+        },
+        "60": {
+          "text_offset": "0xB9E0",
+          "pointer_offset": "0xB9E0",
+          "original": "WEREWOLF"
+        },
+        "61": {
+          "text_offset": "0xB9E8",
+          "pointer_offset": "0xB9E8",
+          "original": "KINGWOLF"
+        },
+        "62": {
+          "text_offset": "0xB9F0",
+          "pointer_offset": "0xB9F0",
+          "original": "PIXIE"
+        },
+        "63": {
+          "text_offset": "0xB9F8",
+          "pointer_offset": "0xB9F8",
+          "original": "SPRITE"
+        },
+        "64": {
+          "text_offset": "0xBA00",
+          "pointer_offset": "0xBA00",
+          "original": "HILTROLL"
+        },
+        "65": {
+          "text_offset": "0xBA08",
+          "pointer_offset": "0xBA08",
+          "original": "GHOUL"
+        },
+        "66": {
+          "text_offset": "0xBA10",
+          "pointer_offset": "0xBA10",
+          "original": "HOB"
+        },
+        "67": {
+          "text_offset": "0xBA18",
+          "pointer_offset": "0xBA18",
+          "original": "CLAY"
+        },
+        "68": {
+          "text_offset": "0xBA20",
+          "pointer_offset": "0xBA20",
+          "original": "GHOST"
+        },
+        "69": {
+          "text_offset": "0xBA28",
+          "pointer_offset": "0xBA28",
+          "original": "SPIRIT"
+        },
+        "70": {
+          "text_offset": "0xBA30",
+          "pointer_offset": "0xBA30",
+          "original": "TROLL"
+        },
+        "71": {
+          "text_offset": "0xBA38",
+          "pointer_offset": "0xBA38",
+          "original": "ROCK"
+        },
+        "72": {
+          "text_offset": "0xBA40",
+          "pointer_offset": "0xBA40",
+          "original": "GEIST"
+        },
+        "73": {
+          "text_offset": "0xBA48",
+          "pointer_offset": "0xBA48",
+          "original": "DRUZE"
+        },
+        "74": {
+          "text_offset": "0xBA50",
+          "pointer_offset": "0xBA50",
+          "original": "MANTICOA"
+        },
+        "75": {
+          "text_offset": "0xBA58",
+          "pointer_offset": "0xBA58",
+          "original": "IFLEET"
+        },
+        "76": {
+          "text_offset": "0xBA60",
+          "pointer_offset": "0xBA60",
+          "original": "IRON"
+        },
+        "77": {
+          "text_offset": "0xBA68",
+          "pointer_offset": "0xBA68",
+          "original": "SPECTER"
+        },
+        "78": {
+          "text_offset": "0xBA70",
+          "pointer_offset": "0xBA70",
+          "original": "ODICK"
+        },
+        "79": {
+          "text_offset": "0xBA78",
+          "pointer_offset": "0xBA78",
+          "original": "WIGHT"
+        },
+        "80": {
+          "text_offset": "0xBA80",
+          "pointer_offset": "0xBA80",
+          "original": "DAVIS"
+        },
+        "81": {
+          "text_offset": "0xBA88",
+          "pointer_offset": "0xBA88",
+          "original": "PIXIE"
+        },
+        "82": {
+          "text_offset": "0xBA90",
+          "pointer_offset": "0xBA90",
+          "original": "BATH"
+        },
+        "83": {
+          "text_offset": "0xBA98",
+          "pointer_offset": "0xBA98",
+          "original": "FAIRY"
+        },
+        "84": {
+          "text_offset": "0xBAA0",
+          "pointer_offset": "0xBAA0",
+          "original": "MIA"
+        },
+        "85": {
+          "text_offset": "0xBAA8",
+          "pointer_offset": "0xBAA8",
+          "original": "RATAL"
+        },
+        "86": {
+          "text_offset": "0xBAB0",
+          "pointer_offset": "0xBAB0",
+          "original": "TANYA"
+        },
+        "87": {
+          "text_offset": "0xBAB8",
+          "pointer_offset": "0xBAB8",
+          "original": "THEA"
+        },
+        "88": {
+          "text_offset": "0xBAC0",
+          "pointer_offset": "0xBAC0",
+          "original": ""
+        },
+        "89": {
+          "text_offset": "0xBAC8",
+          "pointer_offset": "0xBAC8",
+          "original": "FLASH"
+        },
+        "90": {
+          "text_offset": "0xBAD0",
+          "pointer_offset": "0xBAD0",
+          "original": "NEEDLE"
+        },
+        "91": {
+          "text_offset": "0xBAD8",
+          "pointer_offset": "0xBAD8",
+          "original": "DARK"
+        },
+        "92": {
+          "text_offset": "0xBAE0",
+          "pointer_offset": "0xBAE0",
+          "original": "BOMB"
+        },
+        "93": {
+          "text_offset": "0xBAE8",
+          "pointer_offset": "0xBAE8",
+          "original": "S-PLATE"
+        },
+        "94": {
+          "text_offset": "0xBAF0",
+          "pointer_offset": "0xBAF0",
+          "original": "SLEEP"
+        },
+        "95": {
+          "text_offset": "0xBAF8",
+          "pointer_offset": "0xBAF8",
+          "original": "POISON"
+        },
+        "96": {
+          "text_offset": "0xBB00",
+          "pointer_offset": "0xBB00",
+          "original": "L-PLATE"
+        },
+        "97": {
+          "text_offset": "0xBB08",
+          "pointer_offset": "0xBB08",
+          "original": "WING"
+        },
+        "98": {
+          "text_offset": "0xBB10",
+          "pointer_offset": "0xBB10",
+          "original": "FLARE"
+        },
+        "99": {
+          "text_offset": "0xBB18",
+          "pointer_offset": "0xBB18",
+          "original": "PROOF"
+        },
+        "100": {
+          "text_offset": "0xBB20",
+          "pointer_offset": "0xBB20",
+          "original": "HOLD"
+        },
+        "101": {
+          "text_offset": "0xBB28",
+          "pointer_offset": "0xBB28",
+          "original": "STORM"
+        },
+        "102": {
+          "text_offset": "0xBB30",
+          "pointer_offset": "0xBB30",
+          "original": "SHADOW"
+        },
+        "103": {
+          "text_offset": "0xBB38",
+          "pointer_offset": "0xBB38",
+          "original": "CRUSH"
+        },
+        "104": {
+          "text_offset": "0xBB40",
+          "pointer_offset": "0xBB40",
+          "original": "S-PLATE"
+        },
+        "105": {
+          "text_offset": "0xBB48",
+          "pointer_offset": "0xBB48",
+          "original": "H-STORM"
+        },
+        "106": {
+          "text_offset": "0xBB50",
+          "pointer_offset": "0xBB50",
+          "original": "M-PLATE"
+        },
+        "107": {
+          "text_offset": "0xBB58",
+          "pointer_offset": "0xBB58",
+          "original": "RETURN"
+        },
+        "108": {
+          "text_offset": "0xBB60",
+          "pointer_offset": "0xBB60",
+          "original": "DESTROY"
+        },
+        "109": {
+          "text_offset": "0xBB68",
+          "pointer_offset": "0xBB68",
+          "original": "BARRIER"
+        },
+        "110": {
+          "text_offset": "0xBB70",
+          "pointer_offset": "0xBB70",
+          "original": "THUNDER"
+        },
+        "111": {
+          "text_offset": "0xBB78",
+          "pointer_offset": "0xBB78",
+          "original": "ASH"
+        },
+        "112": {
+          "text_offset": "0xBB80",
+          "pointer_offset": "0xBB80",
+          "original": "SHOUT"
+        },
+        "113": {
+          "text_offset": "0xBB88",
+          "pointer_offset": "0xBB88",
+          "original": ""
+        },
+        "114": {
+          "text_offset": "0xBB90",
+          "pointer_offset": "0xBB90",
+          "original": ""
+        },
+        "115": {
+          "text_offset": "0xBB98",
+          "pointer_offset": "0xBB98",
+          "original": ""
+        },
+        "116": {
+          "text_offset": "0xBBA0",
+          "pointer_offset": "0xBBA0",
+          "original": ""
+        },
+        "117": {
+          "text_offset": "0xBBA8",
+          "pointer_offset": "0xBBA8",
+          "original": ""
+        },
+        "118": {
+          "text_offset": "0xBBB0",
+          "pointer_offset": "0xBBB0",
+          "original": ""
+        },
+        "119": {
+          "text_offset": "0xBBB8",
+          "pointer_offset": "0xBBB8",
+          "original": ""
+        },
+        "120": {
+          "text_offset": "0xBBC0",
+          "pointer_offset": "0xBBC0",
+          "original": ""
+        },
+        "121": {
+          "text_offset": "0xBBC8",
+          "pointer_offset": "0xBBC8",
+          "original": ""
+        },
+        "122": {
+          "text_offset": "0xBBD0",
+          "pointer_offset": "0xBBD0",
+          "original": ""
+        },
+        "123": {
+          "text_offset": "0xBBD8",
+          "pointer_offset": "0xBBD8",
+          "original": ""
+        },
+        "124": {
+          "text_offset": "0xBBE0",
+          "pointer_offset": "0xBBE0",
+          "original": ""
+        },
+        "125": {
+          "text_offset": "0xBBE8",
+          "pointer_offset": "0xBBE8",
+          "original": ""
+        },
+        "126": {
+          "text_offset": "0xBBF0",
+          "pointer_offset": "0xBBF0",
+          "original": ""
+        },
+        "127": {
+          "text_offset": "0xBBF8",
+          "pointer_offset": "0xBBF8",
+          "original": ""
+        },
+        "128": {
+          "text_offset": "0xBC00",
+          "pointer_offset": "0xBC00",
+          "original": "MARIA"
+        },
+        "129": {
+          "text_offset": "0xBC08",
+          "pointer_offset": "0xBC08",
+          "original": "MOJA"
+        },
+        "130": {
+          "text_offset": "0xBC10",
+          "pointer_offset": "0xBC10",
+          "original": "TWANA"
+        },
+        "131": {
+          "text_offset": "0xBC18",
+          "pointer_offset": "0xBC18",
+          "original": "HALFLING"
+        },
+        "132": {
+          "text_offset": "0xBC20",
+          "pointer_offset": "0xBC20",
+          "original": "ELF"
+        },
+        "133": {
+          "text_offset": "0xBC28",
+          "pointer_offset": "0xBC28",
+          "original": "WING MAN"
+        },
+        "134": {
+          "text_offset": "0xBC30",
+          "pointer_offset": "0xBC30",
+          "original": "DWARF"
+        },
+        "135": {
+          "text_offset": "0xBC38",
+          "pointer_offset": "0xBC38",
+          "original": "CENTAUR"
+        },
+        "136": {
+          "text_offset": "0xBC40",
+          "pointer_offset": "0xBC40",
+          "original": "GNOME"
+        },
+        "137": {
+          "text_offset": "0xBC48",
+          "pointer_offset": "0xBC48",
+          "original": "GIANT"
+        },
+        "138": {
+          "text_offset": "0xBC50",
+          "pointer_offset": "0xBC50",
+          "original": "HUGESLUG"
+        },
+        "139": {
+          "text_offset": "0xBC58",
+          "pointer_offset": "0xBC58",
+          "original": "HUGEFROG"
+        }
+      }
+    }
+  }
+}

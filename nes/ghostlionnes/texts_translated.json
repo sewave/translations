@@ -1,0 +1,3165 @@
+{
+  "schema": 1,
+  "comment": "Legend of the Ghost Lion (USA) text extraction. Encoding: E1F9 bit-coded, E230 glyph map.",
+  "blocks": {
+    "bank4_9000": {
+      "text_address": "0x9000(b4)",
+      "pointer_address": "0x9000",
+      "method": "e1f9_huffman",
+      "note": "battle/dialogue messages, bank4 table at $9000",
+      "messages": {
+        "0": {
+          "text_offset": "0x9326",
+          "pointer_offset": "0x9000",
+          "original": "YOU WANT ME TO[nl]RETURN THE[nl]STARDUST?[page]IF YOU REALLY WANTIT, STEAL IT FROM[nl]MY TREASURE BOX![end]",
+          "translated": "¿QUIERES QUE TE[nl]DEVUELVA EL POLVO[nl]ESTELAR?[page]¡SÍ DE VERDAD LO[nl]QUIERES, RÓBALO[nl]DE MI COFRE DEL[nl]TESORO![end]"
+        },
+        "1": {
+          "text_offset": "0x935A",
+          "pointer_offset": "0x9002",
+          "original": "WHAT?[nl]IF YOU OPPOSE ME,[nl]I WILL NOT PARDON[nl]YOU.[end]",
+          "translated": "¿QUÉ?[nl]SÍ TE OPONES A MÍ,[nlm]NO TE PERDONARÉ.[end]"
+        },
+        "2": {
+          "text_offset": "0x9377",
+          "pointer_offset": "0x9004",
+          "original": "WHAT?[nl]YOU NEED MY HELP[nl]TO DEFEAT THE[nl]SNAKE?[page]DON'T BE FOOLISH![end]",
+          "translated": "¿QUÉ?[nl]¿NECESITAS MI[nl]AYUDA PARA VENCER[nl]A LA SERPIENTE?[page]¡NO SEAS TONTA![end]"
+        },
+        "3": {
+          "text_offset": "0x939D",
+          "pointer_offset": "0x9006",
+          "original": "FINALLY, I WILL[nl]EAT AGAIN.[page]BUT, THIS HUMAN ISHARDLY EVEN A BITEFOR ME.[page]OH WELL, I'LL EAT[nl]IT ANYWAY.[end]",
+          "translated": "AL FIN,[nl]VOLVERÉ A COMER.[page]PERO ESTE HUMANO[nl]APENAS ES UN[nl]BOCADO PARA MÍ.[page]BUENO,[nl]ME LO COMERÉ[nl]IGUAL.[end]"
+        },
+        "4": {
+          "text_offset": "0x93D9",
+          "pointer_offset": "0x9008",
+          "original": "WE ARE GOING TO[nl]PUT AN EVIL ELIXIRIN THE KLEIN JUG[page]AND USE IT IN OUR[nl]CEREMONY.[page]WE WILL NOT GIVE[nl]IT TO YOU.[end]",
+          "translated": "VAMOS A ECHAR UN[nl]ELIXIR MALIGNO EN[nl]LA JARRA DE KLEIN[nl]Y A USARLA EN[page]NUESTRA CEREMONIA.[nlm]NO TE LA DAREMOS.[end]"
+        },
+        "5": {
+          "text_offset": "0x9418",
+          "pointer_offset": "0x900A",
+          "original": "YOU HAVE FINALLY[nl]MADE IT HERE,[page]BUT DO YOU THINK[nl]YOU CAN WITHSTAND[nl]THE FINAL TRIAL?[end]",
+          "translated": "POR FIN HAS[nl]LLEGADO AQUÍ,[page]PERO ¿CREES QUE[nl]PUEDES SOPORTAR LA[nlm]PRUEBA FINAL?[end]"
+        },
+        "6": {
+          "text_offset": "0x9449",
+          "pointer_offset": "0x900C",
+          "original": "THE CROWN IS MY[nl]TREASURE, SO I[nl]WILL NOT GIVE IT[nl]TO YOU.[page]DO YOU THINK YOU[nl]CAN STEAL IT FROM[nl]ME?[end]",
+          "translated": "LA CORONA ES MI[nl]TESORO, ASÍ QUE NO[nlm]TE LA DARÉ.[page]¿CREES QUE PUEDES[nl]ROBÁRMELA?[end]"
+        },
+        "7": {
+          "text_offset": "0x9481",
+          "pointer_offset": "0x900E",
+          "original": "[name]{2C:05} IS[nl]PROTECTING ONLY[nl]MARIA.[end]",
+          "translated": "[name]{2C:05} SÓLO[nl]PROTEGE A MARIA.[end]"
+        },
+        "8": {
+          "text_offset": "0x9494",
+          "pointer_offset": "0x9010",
+          "original": "I AM THE WOLF[nl]KING![page]WHY DO YOU DISTURBMY SLEEP?[page]I WON'T STAND FOR[nl]IT![end]",
+          "translated": "¡SOY EL REY LOBO![nl]¿POR QUÉ PERTURBAS[nlm]MI SUEÑO?[page]¡NO LO TOLERARÉ![end]"
+        },
+        "9": {
+          "text_offset": "0x94C0",
+          "pointer_offset": "0x9012",
+          "original": "WE WEREWOLVES[nl]PROTECT THIS[nl]CASTLE.[page]IF YOU DEFEAT US,[nl]THE TREASURE IS[nl]YOURS.[end]",
+          "translated": "NOSOTROS, LOS[nl]HOMBRES LOBO,[nl]PROTEGEMOS ESTE[nl]CASTILLO.[page]SI NOS VENCES, EL[nl]TESORO SERÁ TUYO.[end]"
+        },
+        "10": {
+          "text_offset": "0x94ED",
+          "pointer_offset": "0x9014",
+          "original": "WITH THE STATUE INHAND, TWANA FOUGHTTHE DRAGON.[end]",
+          "translated": "CON LA ESTATUA EN[nl]LA MANO, TWANA[nl]LUCHÓ CONTRA EL[nl]DRAGÓN.[end]"
+        },
+        "11": {
+          "text_offset": "0x9509",
+          "pointer_offset": "0x9016",
+          "original": "AT THE SAME TIME[nl]YOU WERE USING THESTATUE,[page]TWANA APPEARED[nl]FROM THE LAMP,[nl]TOOK THE STATUE,[page]AND FOUGHT THE[nl]DRAGON.[end]",
+          "translated": "AL MISMO TIEMPO[nl]QUE USABAS LA[nl]ESTATUA,[page]TWANA SALIÓ DE LA[nl]LÁMPARA, TOMÓ LA[nl]ESTATUA Y LUCHÓ[nl]CONTRA EL DRAGÓN.[end]"
+        },
+        "12": {
+          "text_offset": "0x954B",
+          "pointer_offset": "0x9018",
+          "original": "YOU DEFEATED[nl][name]{2D:05}.[end]",
+          "translated": "VENCISTE A[nl][name]{2D:05}.[end]"
+        },
+        "13": {
+          "text_offset": "0x9558",
+          "pointer_offset": "0x901A",
+          "original": "YOU OBTAINED[nl][name]{28:05}.[end]",
+          "translated": "CONSEGUISTE[nl][name]{28:05}.[end]"
+        },
+        "14": {
+          "text_offset": "0x9565",
+          "pointer_offset": "0x901C",
+          "original": "YOU CAN'T HOLD[nl]MORE THINGS THAN[nl]YOU HAVE NOW.[page]SO YOU DISCARDED[nl][name]{37:05}, AND[nl]OBTAINED [name]{28:05}.[end]",
+          "translated": "NO PUEDES LLEVAR[nl]MÁS COSAS DE LAS[nl]QUE YA TIENES.[page]ASÍ QUE TIRASTE[nl][name]{37:05} Y[nl]OBTUVISTE[nl][name]{28:05}.[end]"
+        },
+        "15": {
+          "text_offset": "0x959B",
+          "pointer_offset": "0x901E",
+          "original": "YOU DEFEATED A[nl]DEMON.[end]",
+          "translated": "VENCISTE A UN[nl]DEMONIO.[end]"
+        },
+        "16": {
+          "text_offset": "0x95A8",
+          "pointer_offset": "0x9020",
+          "original": "[name]{31:04} APPEARED.[end2]",
+          "translated": "APARECIÓ [name]{31:04}.[end2]"
+        },
+        "17": {
+          "text_offset": "0x95B2",
+          "pointer_offset": "0x9022",
+          "original": "WHAT ARE YOU GOINGTO DO?[end2]",
+          "translated": "¿QUÉ VAS A HACER?[end2]"
+        },
+        "18": {
+          "text_offset": "0x95C1",
+          "pointer_offset": "0x9024",
+          "original": "MANY DEMONS[nl]APPEARED.[end2]",
+          "translated": "APARECIERON MUCHOS[nlm]DEMONIOS.[end2]"
+        },
+        "19": {
+          "text_offset": "0x95CF",
+          "pointer_offset": "0x9026",
+          "original": "[name]{2C:05} RAN AWAY.[end2]",
+          "translated": "[name]{2C:05} HUYÓ.[end2]"
+        },
+        "20": {
+          "text_offset": "0x95D9",
+          "pointer_offset": "0x9028",
+          "original": "MARIA GOT [05:C0 74][nl]RUBIES.[end2]",
+          "translated": "MARIA CONSIGUIÓ[nl][05:C0 74] RUBÍS.[end2]"
+        },
+        "21": {
+          "text_offset": "0x95E8",
+          "pointer_offset": "0x902A",
+          "original": "[name]{2C:05} ATTACKS.[end]",
+          "translated": "[name]{2C:05} ATACA.[end]"
+        },
+        "22": {
+          "text_offset": "0x95F2",
+          "pointer_offset": "0x902C",
+          "original": "[04:2E 05] COURAGE[nl]POINTS ARE TAKEN[nl]AWAY FROM[nl][name]{2D:05}.[end]",
+          "translated": "[name]{2D:05} HA PERDIDO[nl][04:2E 05] PUNTOS DE[nl]CORAJE.[end]"
+        },
+        "23": {
+          "text_offset": "0x9610",
+          "pointer_offset": "0x902E",
+          "original": "[name]{2D:05} IS GIVEN[nl][04:2E 05] DAMAGE[nl]POINTS.[end]",
+          "translated": "[name]{2D:05} RECIBE[nl][04:2E 05] PUNTOS DE[nl]DAÑO.[end]"
+        },
+        "24": {
+          "text_offset": "0x9627",
+          "pointer_offset": "0x9030",
+          "original": "[name]{2C:05} CHANTED[nl][name]{2F:05}'S MAGIC.[end]",
+          "translated": "[name]{2C:05} CANTÓ LA[nl]MAGIA DE [name]{2F:05}.[end]"
+        },
+        "25": {
+          "text_offset": "0x9639",
+          "pointer_offset": "0x9032",
+          "original": "MARIA USED THE[nl][name]{28:05}.[end]",
+          "translated": "MARIA HA USADO[nl][name]{28:05}.[end]"
+        },
+        "26": {
+          "text_offset": "0x9646",
+          "pointer_offset": "0x9034",
+          "original": "[name]{2D:05} DODGED[nl]SUCCESSFULLY.[end]",
+          "translated": "[name]{2D:05} ESQUIVÓ[nl]CON ÉXITO.[end]"
+        },
+        "27": {
+          "text_offset": "0x9657",
+          "pointer_offset": "0x9036",
+          "original": "[name]{2C:05}'S ATTACK[nl]DID NOTHING.[end]",
+          "translated": "EL ATAQUE DE[nl][name]{2C:05} NO HIZO[nl]NADA.[end]"
+        },
+        "28": {
+          "text_offset": "0x9668",
+          "pointer_offset": "0x9038",
+          "original": "[name]{31:05} LOST THE[nl]POWER AND[nl]VANISHED.[end]",
+          "translated": "[name]{31:05} PERDIÓ EL[nlm]PODER Y[nl]DESAPARECIÓ.[end]"
+        },
+        "29": {
+          "text_offset": "0x967D",
+          "pointer_offset": "0x903A",
+          "original": "YOU DEFEATED[nl][name]{2D:05}.[end2]",
+          "translated": "VENCISTE A[nl][name]{2D:05}.[end2]"
+        },
+        "30": {
+          "text_offset": "0x968A",
+          "pointer_offset": "0x903C",
+          "original": "[name]{2D:05} IS[nl]ENTANGLED WITH THEMYSTICAL ROPE.[end]",
+          "translated": "[name]{2D:05} ESTÁ[nl]ENREDADO CON LA[nl]CUERDA MÍSTICA.[end]"
+        },
+        "31": {
+          "text_offset": "0x96A3",
+          "pointer_offset": "0x903E",
+          "original": "[name]{2D:05} GOT OUT[nl]OF THE MYSTICAL[nl]ROPE.[end]",
+          "translated": "[name]{2D:05} SE LIBRÓ[nl]DE LA CUERDA[nl]MÍSTICA.[end]"
+        },
+        "32": {
+          "text_offset": "0x96B8",
+          "pointer_offset": "0x9040",
+          "original": "MARIA LOST ALL OF[nl]HER COURAGE.[end2]",
+          "translated": "MARIA PERDIÓ TODO[nl]SU CORAJE.[end2]"
+        },
+        "33": {
+          "text_offset": "0x96CA",
+          "pointer_offset": "0x9042",
+          "original": "HOWEVER, [name]{2B:05}[nl]HAS ALREADY[nl]APPEARED.[end]",
+          "translated": "SIN EMBARGO,[nl][name]{2B:05} YA HA[nl]APARECIDO.[end]"
+        },
+        "34": {
+          "text_offset": "0x96E1",
+          "pointer_offset": "0x9044",
+          "original": "THE HERO [name]{2B:05},[nl]THE SPEAR'S[nl]SPIRIT, APPEARED.[end]",
+          "translated": "EL HÉROE [name]{2B:05},[nl]EL ESPÍRITU DE LA[nl]LANZA, APARECIÓ.[end]"
+        },
+        "35": {
+          "text_offset": "0x96FD",
+          "pointer_offset": "0x9046",
+          "original": "THE LAMP'S SPIRIT,THE WHITE-HAIRED[nl]OLD MAN [name]{2B:05},[nl]APPEARED.[end]",
+          "translated": "EL ESPÍRITU DE LA[nl]LÁMPARA, EL[nl]ANCIANO DE CABELLO[nlm]BLANCO [name]{2B:05},[page]APARECIÓ.[end]"
+        },
+        "36": {
+          "text_offset": "0x9721",
+          "pointer_offset": "0x9048",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE RED[nl]RING, APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DEL[nl]ANILLO ROJO,[nl]APARECIÓ.[end]"
+        },
+        "37": {
+          "text_offset": "0x973C",
+          "pointer_offset": "0x904A",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]RAPIER, APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DEL[nl]ESTOQUE, APARECIÓ.[end]"
+        },
+        "38": {
+          "text_offset": "0x9755",
+          "pointer_offset": "0x904C",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]ROCK WING,[nl]APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DEL ALA[nl]DE ROCA, APARECIÓ.[end]"
+        },
+        "39": {
+          "text_offset": "0x9771",
+          "pointer_offset": "0x904E",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]MAGIC AXE,[nl]APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DEL HACHA[nlm]MÁGICA, APARECIÓ.[end]"
+        },
+        "40": {
+          "text_offset": "0x978D",
+          "pointer_offset": "0x9050",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]SILVER CUP,[nl]APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DE LA[nl]COPA DE PLATA,[nl]APARECIÓ.[end]"
+        },
+        "41": {
+          "text_offset": "0x97A9",
+          "pointer_offset": "0x9052",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]GOLD ROCK,[nl]APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DE LA[nl]ROCA DE ORO,[nl]APARECIÓ.[end]"
+        },
+        "42": {
+          "text_offset": "0x97C5",
+          "pointer_offset": "0x9054",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]CRYSTAL, APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DEL[nl]CRISTAL, APARECIÓ.[end]"
+        },
+        "43": {
+          "text_offset": "0x97DF",
+          "pointer_offset": "0x9056",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]SLUG, APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DE LA[nl]BABOSA, APARECIÓ.[end]"
+        },
+        "44": {
+          "text_offset": "0x97F8",
+          "pointer_offset": "0x9058",
+          "original": "[name]{2B:05}, THE[nl]SPIRIT OF THE[nl]FROG, APPEARED.[end]",
+          "translated": "[name]{2B:05}, EL[nl]ESPÍRITU DE LA[nl]RANA, APARECIÓ.[end]"
+        },
+        "45": {
+          "text_offset": "0x9811",
+          "pointer_offset": "0x905A",
+          "original": "THE BOMB EXPLODED.[end]",
+          "translated": "LA BOMBA EXPLOTÓ.[end]"
+        },
+        "46": {
+          "text_offset": "0x981D",
+          "pointer_offset": "0x905C",
+          "original": "BRIGHT LIGHT[nl]RADIATED FROM THE[nl]TIP OF THE DAGGER.[end]",
+          "translated": "UNA LUZ BRILLANTE[nl]SALIÓ DE LA PUNTA[nl]DE LA DAGA.[end]"
+        },
+        "47": {
+          "text_offset": "0x983A",
+          "pointer_offset": "0x905E",
+          "original": "YOU SWUNG THE CLUBDOWN IN A GIANT[nl]SWATH.[end]",
+          "translated": "BALANCEASTE LA[nl]MAZA EN UN AMPLIO[nl]GOLPE.[end]"
+        },
+        "48": {
+          "text_offset": "0x9853",
+          "pointer_offset": "0x9060",
+          "original": "YOU THRUST THE[nl]DAGGER.[end]",
+          "translated": "CLAVAS LA DAGA.[end]"
+        },
+        "49": {
+          "text_offset": "0x9861",
+          "pointer_offset": "0x9062",
+          "original": "YOU THRUST THE[nl]S-SWORD.[end]",
+          "translated": "CLAVASTE LA ESPADA[nlm]CORTA.[end]"
+        },
+        "50": {
+          "text_offset": "0x9870",
+          "pointer_offset": "0x9064",
+          "original": "THE WHIP SWINGS[nl]DOWN WITH WAVE[nl]LIKE MOTIONS.[end]",
+          "translated": "EL LÁTIGO GOLPEA[nl]CON MOVIMIENTOS DE[nlm]OLA.[end]"
+        },
+        "51": {
+          "text_offset": "0x988B",
+          "pointer_offset": "0x9066",
+          "original": "YOU THRUST THE[nl]L-SWORD.[end]",
+          "translated": "CLAVASTE LA ESPADA[nlm]LARGA.[end]"
+        },
+        "52": {
+          "text_offset": "0x989A",
+          "pointer_offset": "0x9068",
+          "original": "YOU CRACK THE[nl]LIGHTNING WHIP.[end]",
+          "translated": "CHASQUEAS EL[nl]LÁTIGO DE RAYOS.[end]"
+        },
+        "53": {
+          "text_offset": "0x98AC",
+          "pointer_offset": "0x906A",
+          "original": "YOU SWUNG DOWN THESWORD OF LIGHT.[end]",
+          "translated": "BLANDISTE LA[nl]ESPADA DE LUZ.[end]"
+        },
+        "54": {
+          "text_offset": "0x98C1",
+          "pointer_offset": "0x906C",
+          "original": "YOU ARE PROTECTED[nl]BY THE BLUE-LIGHT[nl]SHIELD.[end]",
+          "translated": "ESTÁS PROTEGIDA[nl]POR EL ESCUDO DE[nl]LUZ AZUL.[end]"
+        },
+        "55": {
+          "text_offset": "0x98DB",
+          "pointer_offset": "0x906E",
+          "original": "YOU ARE PROTECTED[nl]BY THE AURORA[nl]LIGHT.[end]",
+          "translated": "ESTÁS PROTEGIDA[nl]POR LA LUZ DE LA[nl]AURORA.[end]"
+        },
+        "56": {
+          "text_offset": "0x98F1",
+          "pointer_offset": "0x9070",
+          "original": "YOU SHOT THE[nl]ARROW.[end]",
+          "translated": "DISPARASTE LA[nl]FLECHA.[end]"
+        },
+        "57": {
+          "text_offset": "0x98FD",
+          "pointer_offset": "0x9072",
+          "original": "THREW THE MYSTICALROPE TO [name]{2D:05}.[end]",
+          "translated": "LANZASTE LA CUERDA[nlm]MÍSTICA A[nl][name]{2D:05}.[end]"
+        },
+        "58": {
+          "text_offset": "0x9911",
+          "pointer_offset": "0x9074",
+          "original": "[name]{2C:05} IS[nl]SLEEPING.[end]",
+          "translated": "[name]{2C:05} ESTÁ[nl]DURMIENDO.[end]"
+        },
+        "59": {
+          "text_offset": "0x991D",
+          "pointer_offset": "0x9076",
+          "original": "[name]{2C:05} CAN'T[nl]MOVE.[end]",
+          "translated": "[name]{2C:05} NO PUEDE[nl]MOVERSE.[end]"
+        },
+        "60": {
+          "text_offset": "0x9929",
+          "pointer_offset": "0x9078",
+          "original": "[name]{2C:05} IS BOUND[nl]BY THE MYSTICAL[nl]ROPE AND CAN'T[nl]MOVE.[end]",
+          "translated": "[name]{2C:05} ESTÁ[nl]ATADO POR LA[nl]CUERDA MÍSTICA Y[nl]NO PUEDE MOVERTE.[end]"
+        },
+        "61": {
+          "text_offset": "0x9949",
+          "pointer_offset": "0x907A",
+          "original": "WHAT HAPPENED?[nl]A MYSTERIOUS BLUE[nl]LIGHT ENVELOPED[nl]THE DRAGON.[end]",
+          "translated": "¿QUÉ PASÓ?[nl]UNA MISTERIOSA LUZ[nlm]AZUL ENVOLVIÓ AL[nl]DRAGÓN.[end]"
+        },
+        "62": {
+          "text_offset": "0x99A1",
+          "pointer_offset": "0x907C",
+          "original": "HOWEVER, THE MAGICDIDN'T AFFECT[nl][name]{2D:05}.[end]",
+          "translated": "PERO LA MAGIA NO[nl]AFECTÓ A [name]{2D:05}.[end]"
+        },
+        "63": {
+          "text_offset": "0x996D",
+          "pointer_offset": "0x907E",
+          "original": "THE DRAGON[nl]DISAPPEARED[nl]INSTANTLY.[page]AND AT THE SAME[nl]TIME, TWANA[nl]DISAPPEARED WITH[nl]THE STATUE.[end]",
+          "translated": "EL DRAGÓN[nl]DESAPARECIÓ AL[nl]INSTANTE.[page]Y AL MISMO TIEMPO,[nlm]TWANA DESAPARECIÓ[nl]CON LA ESTATUA.[end]"
+        },
+        "64": {
+          "text_offset": "0x99BA",
+          "pointer_offset": "0x9080",
+          "original": "HYDRA COULD NOT[nl]MOVE BECAUSE THE[nl]HUGE SLUG WAS[nl]STARING AT HER.[end]",
+          "translated": "HIDRA NO PODÍA[nl]MOVERSE PORQUE LA[nl]GRAN BABOSA LA[nl]MIRABA FIJAMENTE.[end]"
+        },
+        "65": {
+          "text_offset": "0x99DF",
+          "pointer_offset": "0x9082",
+          "original": "THREATENED BY[nl]HYDRA'S GLARE,[nl]THE HUGE FROG[nl]VANISHED.[end]",
+          "translated": "AMENAZADA POR LA[nl]MIRADA DE HIDRA,[nl]LA GRAN RANA[nl]DESAPARECIÓ.[end]"
+        },
+        "66": {
+          "text_offset": "0x99FF",
+          "pointer_offset": "0x9084",
+          "original": "THE HUGE FROG[nl]GLARED AT THE HUGESLUG.[page]THE HUGE SLUG[nl]GLARED AT HYDRA.[page]HYDRA GLARED AT[nl]THE HUGE FROG.[page]THE HUGE FROG,[nl]THE HUGE SLUG,[nl]AND HYDRA ARE[nl]DEADLOCKED.[end]",
+          "translated": "LA GRAN RANA MIRÓ[nl]A LA GRAN BABOSA.[nl]LA GRAN BABOSA[nl]MIRÓ A HIDRA.[page]HIDRA MIRÓ A LA[nl]GRAN RANA. LA GRAN[nlm]RANA,[page]LA GRAN BABOSA E[nl]HIDRA SE ENFRENTAN[nlm]SIN AVANZAR.[end]"
+        },
+        "67": {
+          "text_offset": "0x9A5A",
+          "pointer_offset": "0x9086",
+          "original": "THE HUGE SLUG[nl]GLARED AT HYDRA.[end]",
+          "translated": "LA GRAN BABOSA[nl]MIRÓ A HIDRA.[end]"
+        },
+        "68": {
+          "text_offset": "0x9A6C",
+          "pointer_offset": "0x9088",
+          "original": "GLARED AT BY THE[nl]HUGE SLUG, HYDRA[nl]CAN'T MOVE.[end]",
+          "translated": "MIRADA POR LA GRAN[nlm]BABOSA, HIDRA NO[nl]PUEDE MOVERSE.[end]"
+        },
+        "69": {
+          "text_offset": "0x9A88",
+          "pointer_offset": "0x908A",
+          "original": "THE HUGE FROG,[nl]HUGE SLUG, AND[nl]HYDRA ARE GLARING[nl]AT EACH OTHER.[end]",
+          "translated": "LA GRAN RANA,[nl]LA GRAN BABOSA Y[nl]HIDRA SE MIRAN[nl]ENTRE SÍ.[end]"
+        },
+        "70": {
+          "text_offset": "0x9AAD",
+          "pointer_offset": "0x908C",
+          "original": "[name]{31:05}[nl]PROTECTED MARIA.[end]",
+          "translated": "[name]{31:05} PROTEGIÓ[nl]A MARIA.[end]"
+        },
+        "71": {
+          "text_offset": "0x9222",
+          "pointer_offset": "0x908E",
+          "original": "IN AN INSTANT, THEWHITE LION'S[nl]FIGURE CHANGED[nl]INTO TWANA,[page]THE SPIRIT OF THE[nl]LAMP.[end]",
+          "translated": "EN UN INSTANTE,[page]LA FIGURA DEL LEÓN[nlm]BLANCO SE[nl]CONVIRTIÓ EN[nl]TWANA,[page]EL ESPÍRITU DE LA[nl]LÁMPARA.[end]"
+        },
+        "72": {
+          "text_offset": "0x9ABB",
+          "pointer_offset": "0x9090",
+          "original": "[04:35 05] POINTS[nl]OF POWER ARE TAKENAWAY FROM[nl][name]{2D:05}.[end]",
+          "translated": "ARREBATARON [04:35 05][nl]PUNTOS DE PODER DE[nlm][name]{2D:05}.[0F]"
+        },
+        "73": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x9092",
+          "original": "MARIA REPULSED THEATTACK.[end]",
+          "translated": "MARIA REPELIÓ EL[nl]ATAQUE.[end]"
+        },
+        "74": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x9094",
+          "original": "MARIA REPULSED THEATTACK.[end]",
+          "translated": "MARIA REPELIÓ EL[nl]ATAQUE.[end]"
+        },
+        "75": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x9096",
+          "original": "MARIA REPULSED THEATTACK.[end]",
+          "translated": "MARIA REPELIÓ EL[nl]ATAQUE.[end]"
+        },
+        "76": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x9098",
+          "original": "MARIA REPULSED THEATTACK.[end]",
+          "translated": "MARIA REPELIÓ EL[nl]ATAQUE.[end]"
+        },
+        "77": {
+          "text_offset": "0x9AD9",
+          "pointer_offset": "0x909A",
+          "original": "MARIA REPULSED THEATTACK.[end]",
+          "translated": "MARIA REPELIÓ EL[nl]ATAQUE.[end]"
+        },
+        "78": {
+          "text_offset": "0x9AE8",
+          "pointer_offset": "0x909C",
+          "original": "THE MYSTICAL ROPE[nl]IS WRAPPING AROUNDTHE DEMON.[end]",
+          "translated": "LA CUERDA MÍSTICA[nl]SE ENROLLA[nl]ALREDEDOR DEL[nl]DEMONIO.[end]"
+        },
+        "79": {
+          "text_offset": "0x9B04",
+          "pointer_offset": "0x909E",
+          "original": "[name]{2C:05} REPULSED[nl]THE ATTACK.[end]",
+          "translated": "[name]{2C:05} REPELIÓ[nl]EL ATAQUE.[end]"
+        },
+        "80": {
+          "text_offset": "0x9B14",
+          "pointer_offset": "0x90A0",
+          "original": "[name]{2C:05} WOKE UP.[end]",
+          "translated": "[name]{2C:05} SE[nl]DESPERTÓ.[end]"
+        },
+        "81": {
+          "text_offset": "0x9B1E",
+          "pointer_offset": "0x90A2",
+          "original": "[name]{2D:05} LOST[nl]THEIR VISION.[end]",
+          "translated": "[name]{2D:05} PERDIÓ[nl]LA VISIÓN.[end]"
+        },
+        "82": {
+          "text_offset": "0x9B2D",
+          "pointer_offset": "0x90A4",
+          "original": "THE SMALL NEEDLE[nl]PRICKED [name]{2D:05}.[end]",
+          "translated": "LA PEQUEÑA AGUJA[nl]PINCHÓ A [name]{2D:05}.[end]"
+        },
+        "83": {
+          "text_offset": "0x9B1E",
+          "pointer_offset": "0x90A6",
+          "original": "[name]{2D:05} LOST[nl]THEIR VISION.[end]",
+          "translated": "[name]{2D:05} PERDIÓ LA[nlm]VISIÓN.[end]"
+        },
+        "84": {
+          "text_offset": "0x9B41",
+          "pointer_offset": "0x90A8",
+          "original": "A SMALL BOMB BLEW[nl]UP IN FRONT OF[nl][name]{2D:05}.[end]",
+          "translated": "UNA PEQUEÑA BOMBA[nl]EXPLOTÓ FRENTE A[nl][name]{2D:05}.[end]"
+        },
+        "85": {
+          "text_offset": "0x9B5A",
+          "pointer_offset": "0x90AA",
+          "original": "A SMALL PLANE OF[nl]LIGHT APPEARED ANDPROTECTED YOU.[end]",
+          "translated": "APARECIÓ UN PLANO[nl]DE LUZ Y TE[nl]PROTEGIÓ.[end]"
+        },
+        "86": {
+          "text_offset": "0x9BAE",
+          "pointer_offset": "0x90AC",
+          "original": "[name]{2D:05} FELL[nl]ASLEEP.[end]",
+          "translated": "[name]{2D:05} SE[nl]DURMIÓ.[end]"
+        },
+        "87": {
+          "text_offset": "0x9BBA",
+          "pointer_offset": "0x90AE",
+          "original": "THE POISON NEEDLE[nl]PRICKED [name]{2D:05}.[end]",
+          "translated": "LA AGUJA VENENOSA[nl]PINCHÓ A [name]{2D:05}.[end]"
+        },
+        "88": {
+          "text_offset": "0x9B77",
+          "pointer_offset": "0x90B0",
+          "original": "A BIG PLANE OF[nl]LIGHT APPEARED ANDPROTECTED YOU.[end]",
+          "translated": "APARECIÓ UN GRAN[nl]PLANO DE LUZ Y TE[nl]PROTEGIÓ.[end]"
+        },
+        "89": {
+          "text_offset": "0x9BCE",
+          "pointer_offset": "0x90B2",
+          "original": "THE DEMON WAS[nl]WIPED OUT BY A[nl]GUST OF WIND.[end]",
+          "translated": "EL DEMONIO FUE[nl]BARRIDO POR UNA[nl]RÁFAGA DE VIENTO.[end]"
+        },
+        "90": {
+          "text_offset": "0x9BE8",
+          "pointer_offset": "0x90B4",
+          "original": "[name]{2D:05} IS[nl]SURROUNDED BY[nl]FLAMES.[end]",
+          "translated": "[name]{2D:05} ESTÁ[nl]RODEADO DE LLAMAS.[end]"
+        },
+        "91": {
+          "text_offset": "0x9BFB",
+          "pointer_offset": "0x90B6",
+          "original": "YOUR BODY IS[nl]SURROUNDED BY[nl]LIGHT.[end]",
+          "translated": "TU CUERPO ESTÁ[nl]RODEADO DE LUZ.[end]"
+        },
+        "92": {
+          "text_offset": "0x9C10",
+          "pointer_offset": "0x90B8",
+          "original": "[name]{2D:05} IS BOUND[nl]HAND AND FOOT, ANDCAN'T MOVE.[end]",
+          "translated": "[name]{2D:05} ESTÁ[nl]ATADO DE PIES Y[nl]MANOS, Y NO PUEDE[nl]MOVERSE.[end]"
+        },
+        "93": {
+          "text_offset": "0x9C2C",
+          "pointer_offset": "0x90BA",
+          "original": "[name]{2D:05} IS[nl]CAUGHT IN A[nl]TORNADO.[end]",
+          "translated": "[name]{2D:05} ESTÁ[nl]ATRAPADO EN UN[nl]TORNADO.[end]"
+        },
+        "94": {
+          "text_offset": "0x9C3E",
+          "pointer_offset": "0x90BC",
+          "original": "TOO MANY[nl]ILLUSIONS![page][name]{2D:05} CAN'T[nl]TELL WHICH IS THE[nl]REAL ONE.[end]",
+          "translated": "¡DEMASIADAS[nl]ILUSIONES![page][name]{2D:05} NO PUEDE[nl]SABER CUÁL ES LA[nl]VERDADERA.[end]"
+        },
+        "95": {
+          "text_offset": "0x9C61",
+          "pointer_offset": "0x90BE",
+          "original": "[name]{2D:05} IS HURT[nl]BY A GIANT[nl]INVISIBLE HAND.[end]",
+          "translated": "[name]{2D:05} HERIDO[nl]POR UNA MANO[nl]GIGANTE INVISIBLE.[end]"
+        },
+        "96": {
+          "text_offset": "0x9B77",
+          "pointer_offset": "0x90C0",
+          "original": "A BIG PLANE OF[nl]LIGHT APPEARED ANDPROTECTED YOU.[end]",
+          "translated": "APARECIÓ UN GRAN[nl]PLANO DE LUZ Y TE[nl]PROTEGIÓ.[end]"
+        },
+        "97": {
+          "text_offset": "0x9C7A",
+          "pointer_offset": "0x90C2",
+          "original": "A WHIRLPOOL OF[nl]FLAMES ATTACKED[nl][name]{2D:05}.[end]",
+          "translated": "UN REMOLINO DE[nl]LLAMAS ATACÓ A[nl][name]{2D:05}.[end]"
+        },
+        "98": {
+          "text_offset": "0x9B93",
+          "pointer_offset": "0x90C4",
+          "original": "A PLANE OF MAGIC[nl]APPEARED AND[nl]PROTECTED YOU.[end]",
+          "translated": "APARECIÓ UN PLANO[nl]DE MAGIA Y TE[nl]PROTEGIÓ.[end]"
+        },
+        "99": {
+          "text_offset": "0x9C91",
+          "pointer_offset": "0x90C6",
+          "original": "AN INVISIBLE WALL[nl]AROSE.[end]",
+          "translated": "SE LEVANTÓ UN MURO[nlm]INVISIBLE.[end]"
+        },
+        "100": {
+          "text_offset": "0x9CA0",
+          "pointer_offset": "0x90C8",
+          "original": "A SHARP PAIN[nl]RAN THROUGH[nl][name]{2D:05}'S BODY.[end]",
+          "translated": "UN DOLOR AGUDO[nl]RECORRIÓ EL CUERPO[nlm]DE [name]{2D:05}.[end]"
+        },
+        "101": {
+          "text_offset": "0x9CB7",
+          "pointer_offset": "0x90CA",
+          "original": "AURORA LIGHT[nl]PROTECTED THE[nl]WHOLE BODY.[end]",
+          "translated": "LA LUZ DE LA[nl]AURORA PROTEGIÓ[nl]TODO EL CUERPO.[end]"
+        },
+        "102": {
+          "text_offset": "0x9CCE",
+          "pointer_offset": "0x90CC",
+          "original": "THUNDER STRUCK[nl][name]{2D:05}.[end]",
+          "translated": "EL TRUENO GOLPEÓ A[nlm][name]{2D:05}.[end]"
+        },
+        "103": {
+          "text_offset": "0x9CDC",
+          "pointer_offset": "0x90CE",
+          "original": "[name]{2D:05}'S BODY[nl]WAS BURNT BY THE[nl]STRONG FLAMES.[end]",
+          "translated": "EL CUERPO DE[nl][name]{2D:05} SE QUEMÓ[nl]CON LAS FUERTES[nl]LLAMAS.[end]"
+        },
+        "104": {
+          "text_offset": "0x9CF8",
+          "pointer_offset": "0x90D0",
+          "original": "[name]{2D:05} FAINTED[nl]DUE TO THE STRONG[nl]FORCE.[end]",
+          "translated": "[name]{2D:05} SE[nl]DESMAYÓ POR LA[nl]FUERTE FUERZA.[end]"
+        },
+        "105": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90D2",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "106": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90D4",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "107": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90D6",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "108": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90D8",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "109": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90DA",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "110": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90DC",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "111": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90DE",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "112": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E0",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "113": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E2",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "114": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E4",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "115": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E6",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "116": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90E8",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "117": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90EA",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "118": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90EC",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "119": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90EE",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "120": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90F0",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "121": {
+          "text_offset": "0x9D0F",
+          "pointer_offset": "0x90F2",
+          "original": "DON'T YOU KNOW THEOLD MAN NAMED[nl]TWANA?[end2]",
+          "translated": "¿NO CONOCES AL[nl]ANCIANO LLAMADO[nl]TWANA?[end2]"
+        },
+        "122": {
+          "text_offset": "0x9D27",
+          "pointer_offset": "0x90F4",
+          "original": "HE USED TO TAKE[nl]THE FORM OF A[nl]FIERCE,[page]WILD ANIMAL IN[nl]ORDER TO COMBAT[nl]HUMAN FRAILTIES.[page]THE ANIMAL[nl]DESTROYED A HUMAN[nl]CIVILIZATION AND[page]IS STILL FEARED[nl]BY MAN.[end]",
+          "translated": "SOLÍA TOMAR LA[nl]FORMA DE UN ANIMAL[nlm]SALVAJE Y FIERO[nl]PARA COMBATIR LAS[page]DEBILIDADES[nl]HUMANAS.[page]EL ANIMAL DESTRUYÓ[nlm]UNA CIVILIZACIÓN Y[nlm]AÚN ES TEMIDO POR[nl]EL HOMBRE.[end]"
+        },
+        "123": {
+          "text_offset": "0x9D82",
+          "pointer_offset": "0x90F6",
+          "original": "IF HUMANS HAD NOT[nl]STARTED WARS,[page]THE WHITE LION[nl]WOULD NOT HAVE[nl]ATTACKED THEM.[end]",
+          "translated": "SÍ LOS HUMANOS NO[nl]HUBIERAN EMPEZADO[nl]GUERRAS,[page]EL LEÓN BLANCO NO[nl]LOS HABRÍA[nl]ATACADO.[end]"
+        },
+        "124": {
+          "text_offset": "0x9200",
+          "pointer_offset": "0x90F8",
+          "original": "YOU FOUGHT WITH[nl]ALL YOUR MIGHT ANDDEFEATED THE[nl]WHITE LION.[end2]",
+          "translated": "PELEASTE CON TODAS[nlm]TUS FUERZAS Y[nl]VENCISTE AL LEÓN[nl]BLANCO.[end2]"
+        },
+        "125": {
+          "text_offset": "0x9252",
+          "pointer_offset": "0x90FA",
+          "original": "\"MARIA! MARIA![nl]WAKE UP!\"[end]",
+          "translated": "\"!MARIA! ¡MARIA![nl]¡DESPIERTA!\"[end]"
+        },
+        "126": {
+          "text_offset": "0x9263",
+          "pointer_offset": "0x90FC",
+          "original": "MARIA WAS AWAKENEDBY HER MOTHER'S[nl]VOICE.[end]",
+          "translated": "LA VOZ DE SU MADRE[nlm]DESPERTÓ A MARIA.[end]"
+        },
+        "127": {
+          "text_offset": "0x927C",
+          "pointer_offset": "0x90FE",
+          "original": "\"YOU ALMOST[nl]DROWNED IN THE[nl]RIVER.[page]WHY DIDN'T YOU[nl]WAIT FOR US?\"[page]\"I DECIDED TO LOOKFOR YOU, AND I[nl]FOUGHT AGAINST THEWHITE LION.\"[page]\"WHAT? WHITE LION?THAT'S IN A[nl]LEGEND.[page]THE GATE OF EVIL[nl]ONLY EXISTS IN THELEGEND AS WELL.[page]BUT, A PENDANT[nl]GIVEN TO MARIA BY[nl]TWANA, WAS SHININGON MARIA'S CHEST.[end]",
+          "translated": "\"CASI TE AHOGAS EN[nlm]EL RÍO.[page]¿POR QUÉ NO NOS[nl]ESPERASTE?\"[page]\"DECIDÍ BUSCAROS,[nl]Y PELEÉ CONTRA EL[nl]LEÓN BLANCO.\"[page]\"¿QUÉ?[nl]¿LEÓN BLANCO?[nl]ESO ES DE UNA[nl]LEYENDA.\"[page]LA PUERTA DEL MAL[nl]TAMBIÉN EXISTE[nl]SÓLO EN LA[nl]LEYENDA.[page]PERO UN COLGANTE[nl]QUE TWANA LE DIO A[nlm]MARIA BRILLABA EN[nl]EL PECHO DE[page]MARIA.[end]"
+        }
+      }
+    },
+    "bank4_9100": {
+      "text_address": "0x9100(b4)",
+      "pointer_address": "0x9100",
+      "method": "e1f9_huffman",
+      "note": "battle/dialogue messages, bank4 table at $9100 (msg id = 0x80+i)",
+      "messages": {
+        "0": {
+          "text_offset": "0x9DAF",
+          "pointer_offset": "0x9100",
+          "original": "YOU DON'T HAVE[nl]ANYTHING.[end]",
+          "translated": "NO TIENES NADA.[end]"
+        },
+        "1": {
+          "text_offset": "0x9DBE",
+          "pointer_offset": "0x9102",
+          "original": "THERE IS NO ONE[nl]THERE.[end]",
+          "translated": "NO HAY NADIE AHÍ.[end]"
+        },
+        "2": {
+          "text_offset": "0x9DCB",
+          "pointer_offset": "0x9104",
+          "original": "BUT THERE WAS[nl]NOTHING.[end]",
+          "translated": "PERO NO HABÍA[nl]NADA.[end]"
+        },
+        "3": {
+          "text_offset": "0x9DD9",
+          "pointer_offset": "0x9106",
+          "original": "YOU CAN'T THROW ITAWAY.[end]",
+          "translated": "NO PUEDES TIRARLO.[end]"
+        },
+        "4": {
+          "text_offset": "0x9DE7",
+          "pointer_offset": "0x9108",
+          "original": "YOU THREW[nl][name]{28:05} AWAY.[end]",
+          "translated": "TIRASTE [name]{28:05}.[end]"
+        },
+        "5": {
+          "text_offset": "0x9DF5",
+          "pointer_offset": "0x910A",
+          "original": "MARIA ESCAPED.[end]",
+          "translated": "MARIA ESCAPÓ.[end]"
+        },
+        "6": {
+          "text_offset": "0x9DFE",
+          "pointer_offset": "0x910C",
+          "original": "HOWEVER, THE ENEMYCHASED YOU.[end]",
+          "translated": "PERO EL ENEMIGO TE[nlm]PERSIGUIÓ.[end]"
+        },
+        "7": {
+          "text_offset": "0x9E10",
+          "pointer_offset": "0x910E",
+          "original": "WELCOME! WELCOME![nl]WHAT DO YOU WANT[nl]TO BUY?[end2]",
+          "translated": "¡BIENVENIDA![nl]¡BIENVENIDA![nl]¿QUÉ QUIERES[nl]COMPRAR?[end2]"
+        },
+        "8": {
+          "text_offset": "0x9E2C",
+          "pointer_offset": "0x9110",
+          "original": "YOU WOULD LIKE TO[nl]BUY [name]{28:05}. IS[nl]THAT RIGHT?[end2]",
+          "translated": "¿QUIERES COMPRAR[nl][name]{28:05}?[nl]¿ES CORRECTO?[end2]"
+        },
+        "9": {
+          "text_offset": "0x9E47",
+          "pointer_offset": "0x9112",
+          "original": "I'M SORRY, BUT YOUDON'T HAVE ENOUGH[nl]MONEY.[page]PLEASE COME BACK[nl]AGAIN.[end]",
+          "translated": "LO SIENTO, PERO NO[nlm]TIENES SUFICIENTE[nl]DINERO. POR FAVOR,[nlm]VUELVE OTRA VEZ.[end]"
+        },
+        "10": {
+          "text_offset": "0x9E70",
+          "pointer_offset": "0x9114",
+          "original": "THANK YOU VERY[nl]MUCH. PLEASE COME[nl]AGAIN.[end]",
+          "translated": "MUCHAS GRACIAS.[nl]POR FAVOR, VUELVE[nl]OTRA VEZ.[end]"
+        },
+        "11": {
+          "text_offset": "0x9E88",
+          "pointer_offset": "0x9116",
+          "original": "EXCUSE ME. YOU[nl]HAVE TOO MANY[nl]THINGS.[page]PLEASE COME AGAIN[nl]AFTER USING UP OR[nl]THROWING AWAY SOMEOF YOUR THINGS.[end]",
+          "translated": "PERDONA. TIENES[nl]DEMASIADAS COSAS.[page]VUELVE DESPUÉS DE[nl]USAR O TIRAR[nl]ALGUNAS DE TUS[nl]COSAS.[end]"
+        },
+        "12": {
+          "text_offset": "0x9EC7",
+          "pointer_offset": "0x9118",
+          "original": "PLEASE COME BACK[nl]AGAIN.[end]",
+          "translated": "POR FAVOR, VUELVE[nl]OTRA VEZ.[end]"
+        },
+        "13": {
+          "text_offset": "0x9ED6",
+          "pointer_offset": "0x911A",
+          "original": "BUT NOTHING[nl]HAPPENED.[end]",
+          "translated": "PERO NO PASÓ NADA.[end]"
+        },
+        "14": {
+          "text_offset": "0x9EE4",
+          "pointer_offset": "0x911C",
+          "original": "MARIA USED THE[nl][name]{28:05}.[end]",
+          "translated": "MARIA HA USADO[nl][name]{28:05}.[end]"
+        },
+        "15": {
+          "text_offset": "0x9EF1",
+          "pointer_offset": "0x911E",
+          "original": "YOU SEARCHED[nl]AROUND YOUR FEET.[end]",
+          "translated": "BUSCASTE A TU[nl]ALREDEDOR.[end]"
+        },
+        "16": {
+          "text_offset": "0x9F03",
+          "pointer_offset": "0x9120",
+          "original": "YOU FOUND[nl][name]{28:05}.[end]",
+          "translated": "ENCONTRASTE[nl][name]{28:05}.[end]"
+        },
+        "17": {
+          "text_offset": "0x9F0E",
+          "pointer_offset": "0x9122",
+          "original": "YOU RECEIVED[nl][name]{28:05}.[end]",
+          "translated": "RECIBISTE[nl][name]{28:05}.[end]"
+        },
+        "18": {
+          "text_offset": "0x9F1B",
+          "pointer_offset": "0x9124",
+          "original": "YOU RECEIVED A[nl]FRAGMENT OF HOPE.[page]HOPE IS NOW[nl][04:A0 04].[page]COURAGE IS NOW[nl][05:A1 04].[page]DREAMS ARE NOW[nl][05:A3 04].[end]",
+          "translated": "RECIBISTE UN[nl]FRAGMENTO DE ALMA.[page]EL ALMA ES AHORA[nl][04:A0 04].[nl]EL CORAJE ES AHORA[nlm][05:A1 04].[page]EL SUEÑO ES AHORA[nl][05:A3 04].[0F]"
+        },
+        "19": {
+          "text_offset": "0x9F57",
+          "pointer_offset": "0x9126",
+          "original": "THERE WERE TOO[nl]MANY THINGS TO[nl]CARRY,[page]SO YOU BURIED THEMIN THEIR ORIGINAL[nl]PLACE.[end]",
+          "translated": "HABÍA DEMASIADAS[nl]COSAS PARA LLEVAR,[page]ASÍ QUE LAS[nl]ENTERRASTE EN SU[nl]LUGAR ORIGINAL.[end]"
+        },
+        "20": {
+          "text_offset": "0x9F85",
+          "pointer_offset": "0x9128",
+          "original": "YOU OPENED THE[nl]DOOR WITH A[nl][name]{28:05}.[end]",
+          "translated": "ABRISTE LA PUERTA[nl]CON [name]{28:05}.[end]"
+        },
+        "21": {
+          "text_offset": "0x9F99",
+          "pointer_offset": "0x912A",
+          "original": "WHEN THE STARDUST[nl]WAS RESTORED TO[nl]THE DAIS,[page]THE ENTIRE CAVE[nl]WAS FILLED WITH[nl]LIGHT,[page]AND THE GIANT'S[nl]STATUE BEGAN TO[nl]SPEAK:[page]\"YOU WHO LIT THE[nl]FIRE ON THE DAIS[page]SHOULD WALK DOWN[nl]THE PATH WHICH HASOPENED.[page]I WILL PROTECT THETOWN FROM EVIL[nl]ONCE AGAIN.\"[end]",
+          "translated": "\"CUANDO EL POLVO[nl]ESTELAR VOLVIÓ AL[nl]ALTAR,[page]TODA LA CUEVA SE[nl]LLENÓ DE LUZ,[page]Y LA ESTATUA DEL[nl]GIGANTE EMPEZÓ A[nl]HABLAR:[page]\"EL QUE ENCENDIÓ[nl]EL FUEGO EN EL[nl]ALTAR DEBE CAMINAR[nlm]POR EL CAMINO QUE[page]SE HA ABIERTO. YO[nl]PROTEGERÉ AL[nl]PUEBLO DEL MAL UNA[nlm]VEZ MÁS.\"[end]"
+        },
+        "22": {
+          "text_offset": "0xA028",
+          "pointer_offset": "0x912C",
+          "original": "THE LAKE WATER HASREACHED THE SKY[nl]AND BECOME[nl]ENCHANTED WATER.[page]I GOT THE[nl]ENCHANTED WATER.[end]",
+          "translated": "EL AGUA DEL LAGO[nl]LLEGÓ AL CIELO Y[nl]SE CONVIRTIÓ EN[nl]AGUA ENCANTADA.[page]CONSEGUÍ EL AGUA[nl]ENCANTADA.[end]"
+        },
+        "23": {
+          "text_offset": "0xA05B",
+          "pointer_offset": "0x912E",
+          "original": "YOU FOUND THE[nl]LAMP, THE GOLD[nl]KEY, AND THE[nl]DAGGER.[end]",
+          "translated": "ENCONTRASTE LA[nl]LÁMPARA, LA LLAVE[nl]DE ORO Y LA DAGA.[end]"
+        },
+        "24": {
+          "text_offset": "0xA079",
+          "pointer_offset": "0x9130",
+          "original": "YOU HAD TOO MANY[nl]THINGS TO CARRY,[page]SO YOU CLOSED[nl]THE BOX WITHOUT[nl]TAKING THE[nl]TREASURE.[end]",
+          "translated": "TENÍAS DEMASIADAS[nl]COSAS ENCIMA,[page]ASÍ QUE CERRASTE[nl]LA CAJA SIN COGER[nl]EL TESORO.[end]"
+        },
+        "25": {
+          "text_offset": "0xA0AB",
+          "pointer_offset": "0x9132",
+          "original": "YOU GOT [05:29 05][nl]RUBIES.[end]",
+          "translated": "CONSEGUISTE [05:29 05][nl]RUBÍS.[0F]"
+        },
+        "26": {
+          "text_offset": "0xA0B9",
+          "pointer_offset": "0x9134",
+          "original": "THE DOG BEGAN TO[nl]SPEAK.[page]\"OH! I'VE AWOKEN[nl]FROM A 300 YEAR[nl]SLEEP.[page]NOW, LET'S BREAK[nl]THE CURSE OF THE[nl]WEREWOLVES.[page]YOU MUST GO ON.[page]USE THE HORN AS[nl]YOUR WEAPON TO[nl]BREAK THE CURSE[nl]IN THE ROCKS.[end]",
+          "translated": "EL PERRO EMPEZÓ A[nl]HABLAR.[page]\"¡OH! ME HE[nl]DESPERTADO DE UN[nl]SUEÑO DE 300 AÑOS.[page]AHORA, ROMPAMOS LA[nlm]MALDICIÓN DE LOS[nl]HOMBRES LOBO.[page]DEBES CONTINUAR.[page]USA EL CUERNO COMO[nlm]ARMA PARA ROMPER[nl]LA MALDICIÓN EN[nl]LAS ROCAS.\"[end]"
+        },
+        "27": {
+          "text_offset": "0xA12A",
+          "pointer_offset": "0x9136",
+          "original": "WITH A GREAT[nl]TREMOR,[page]THE WATER FROM[nl]THE LAKE FLOWED[nl]UNDERGROUND.[end]",
+          "translated": "CON UN GRAN[nl]TEMBLOR,[page]EL AGUA DEL LAGO[nl]FLUYÓ HACIA EL[nl]SUBSUELO.[end]"
+        },
+        "28": {
+          "text_offset": "0xA18A",
+          "pointer_offset": "0x9138",
+          "original": "THE SOUND OF THE[nl]HORN RESOUNDED IN[nl]THE AREA AS IF[nl]IT CAME FROM THE[page]GROUND. THE CURSE[nl]WAS BROKEN, AND[nl]THE GIANT ROCK[nl]TURNED INTO SAND.[end]",
+          "translated": "EL SONIDO DEL[nl]CUERNO RESONÓ EN[nl]LA ZONA COMO SÍ[nl]VINIESE DEL[page]SUELO. LA[nl]MALDICIÓN SE[nl]ROMPIÓ, Y LA GRAN[nl]ROCA SE CONVIRTIÓ[page]EN ARENA.[end]"
+        },
+        "29": {
+          "text_offset": "0xA1D7",
+          "pointer_offset": "0x913A",
+          "original": "LET'S GIVE COURAGEAND DREAMS.[page]COURAGE IS NOW[nl][05:A1 04].[page]DREAMS ARE NOW[nl][05:A3 04].[page]DO YOU WANT TO[nl]WRITE DOWN THE[nl]EVENTS OF THE[nl]JOURNEY?[end2]",
+          "translated": "DEMOS CORAJE Y[nl]SUEÑOS.[page]TU CORAJE ES AHORA[nlm][05:A1 04].[page]TU SUEÑO ES AHORA[nl][05:A3 04].[page]¿QUIERES ANOTAR[nl]LOS SUCESOS[nl]DEL VIAJE?[end2]"
+        },
+        "30": {
+          "text_offset": "0xA224",
+          "pointer_offset": "0x913C",
+          "original": "SUDDENLY, THE[nl]EARTH BEGAN TO[nl]TREMBLE, THE[nl]BRIDGE SHOOK,[page]AND MARIA FELL[nl]INTO THE RIVER.[end]",
+          "translated": "DE REPENTE, LA[nl]TIERRA EMPEZÓ A[nl]TEMBLAR,[page]EL PUENTE SE[nl]SACUDIÓ Y MARIA[nl]CAYÓ AL RÍO.[end]"
+        },
+        "31": {
+          "text_offset": "0xA257",
+          "pointer_offset": "0x913E",
+          "original": "YOU DON'T HAVE[nl]ENOUGH MONEY.[page]COME BACK WITH THECORRECT AMOUNT.[end]",
+          "translated": "NO TIENES[nl]SUFICIENTE DINERO.[nlm]VUELVE CON[nl]SUFICIENTE.[end]"
+        },
+        "32": {
+          "text_offset": "0xA27D",
+          "pointer_offset": "0x9140",
+          "original": "PLEASE COME AGAIN![end]",
+          "translated": "¡VUELVE OTRA VEZ![end]"
+        },
+        "33": {
+          "text_offset": "0xA289",
+          "pointer_offset": "0x9142",
+          "original": "OK, I'LL KEEP A[nl]RECORD OF THIS[nl]JOURNEY.[end]",
+          "translated": "BIEN, ANOTARÉ EL[nl]REGISTRO DE ESTE[nl]VIAJE.[end]"
+        },
+        "34": {
+          "text_offset": "0xA2A2",
+          "pointer_offset": "0x9144",
+          "original": "PLEASE BE SURE[nl]TO COME HERE[nl]BEFORE SLEEPING.[end]",
+          "translated": "POR FAVOR, VEN[nl]AQUÍ ANTES DE[nl]DORMIR.[end]"
+        },
+        "35": {
+          "text_offset": "0xA2BD",
+          "pointer_offset": "0x9146",
+          "original": "YOU ATE THE BREAD.YOU HAVE REGAINED[nl]YOUR COURAGE.[page]YOUR COURAGE IS[nl]NOW [05:A1 04].[end]",
+          "translated": "COMISTE EL PAN.[nl]RECUPERASTE TU[nl]CORAJE.[page]TU CORAJE ES AHORA[nlm][05:A1 04].[0F]"
+        },
+        "36": {
+          "text_offset": "0xA2EB",
+          "pointer_offset": "0x9148",
+          "original": "YOU USED TEARS.[nl]YOU HAVE RECOVEREDYOUR DREAMS.[page]YOUR DREAMS ARE[nl]NOW [05:A3 04].[end]",
+          "translated": "USASTE LÁGRIMAS.[nl]RECUPERASTE TUS[nl]SUEÑOS.[page]TU SUEÑO ES AHORA[nl][05:A3 04].[0F]"
+        },
+        "37": {
+          "text_offset": "0xA317",
+          "pointer_offset": "0x914A",
+          "original": "MARIA RECEIVED[nl][05:29 05] RUBIES[nl]AND A BROOM.[end]",
+          "translated": "MARIA RECIBIÓ[nl][05][29][05] RUBÍS[nl]Y UNA ESCOBA.[0F]"
+        },
+        "38": {
+          "text_offset": "0xA330",
+          "pointer_offset": "0x914C",
+          "original": "GO FORWARD BRAVELYAND DON'T GIVE IN[nl]TO THE MANY[nl]DIFFICULTIES[page]WHICH LIE AHEAD.[nl]COME TO SEE ME[nl]BEFORE SLEEPING.[end]",
+          "translated": "AVANZA CON VALOR Y[nlm]NO TE RINDAS ANTE[nl]LAS MUCHAS[nl]DIFICULTADES QUE[page]TE ESPERAN. VEN A[nl]VERME ANTES DE[nl]DORMIR.[end]"
+        },
+        "39": {
+          "text_offset": "0xA371",
+          "pointer_offset": "0x914E",
+          "original": "DON'T GIVE UP[nl]BECAUSE OF SUCH[nl]THINGS.[page]GO FORWARD BRAVELYAND TRY YOUR[nl]HARDEST.[end]",
+          "translated": "NO TE RINDAS POR[nl]COSAS COMO ÉSAS.[page]AVANZA CON VALOR Y[nlm]ESFUÉRZATE AL[nl]MÁXIMO.[end]"
+        },
+        "40": {
+          "text_offset": "0xA3A0",
+          "pointer_offset": "0x9150",
+          "original": "YOU DON'T HAVE[nl]ENOUGH DREAMS, SO[nl]YOU CAN'T APPEAR.[end]",
+          "translated": "NO TIENES[nl]SUFICIENTE[nl]SUEÑO, ASÍ QUE NO[nl]PUEDES APARECER.[end]"
+        },
+        "41": {
+          "text_offset": "0xA3BF",
+          "pointer_offset": "0x9152",
+          "original": "THE MYSTICAL ROPE[nl]IS ALREADY BEING[nl]USED.[end]",
+          "translated": "LA CUERDA MÍSTICA[nl]YA SE ESTÁ USANDO.[end]"
+        },
+        "42": {
+          "text_offset": "0xA3D7",
+          "pointer_offset": "0x9154",
+          "original": "[name]{2C:05} DOESN'T[nl]HAVE ENOUGH POWER.[end]",
+          "translated": "[name]{2C:05} NO TIENE[nl]SUFICIENTE PODER.[end]"
+        },
+        "43": {
+          "text_offset": "0xA150",
+          "pointer_offset": "0x9156",
+          "original": "THE KLEIN JUG[nl]VIGOROUSLY DREW[nl]UP ALL THE WATER[nl]FROM THE LAKE[page]WITH A MYSTERIOUS,INVISIBLE POWER.[end]",
+          "translated": "LA JARRA DE KLEIN[nl]ABSORBIÓ TODA EL[nl]AGUA DEL LAGO CON[nl]UN PODER[page]MISTERIOSO E[nl]INVISIBLE.[end]"
+        },
+        "44": {
+          "text_offset": "0xA3EB",
+          "pointer_offset": "0x9158",
+          "original": "MARIA CALLED UPON[nl][name]{28:05}.[end]",
+          "translated": "MARIA INVOCÓ A[nl][name]{28:05}.[end]"
+        },
+        "45": {
+          "text_offset": "0xA3FB",
+          "pointer_offset": "0x915A",
+          "original": "ARE YOU CONSCIOUS?[page]IF WE HAD FOUND[nl]YOU ANY LATER, YOUWOULD HAVE[nl]DROWNED.[page]IF YOU ARE GOING[nl]ON A JOURNEY,[page]PLEASE SEARCH FOR[nl]THIS KIND OF[nl]SPRING.[page]OUR FRIENDS WILL[nl]INCREASE OUR[nl]COURAGE AND[page]MAGNIFY OUR[nl]DREAMS.[end]",
+          "translated": "¿ESTÁS CONSCIENTE?[nlm]SÍ TE HUBIÉRAMOS[nl]ENCONTRADO MÁS[nl]TARDE,[page]TE HABRÍAS[nl]AHOGADO. SÍ VAS A[nl]HACER UN VIAJE,[page]BUSCA ESTE TIPO DE[nlm]MANANTIAL.[page]NUESTROS AMIGOS[nl]AUMENTARÁN NUESTRO[nlm]CORAJE Y[nlm]MAGNIFICAN[page]NUESTROS SUEÑOS.[end]"
+        },
+        "46": {
+          "text_offset": "0xA3FB",
+          "pointer_offset": "0x915C",
+          "original": "ARE YOU CONSCIOUS?[page]IF WE HAD FOUND[nl]YOU ANY LATER, YOUWOULD HAVE[nl]DROWNED.[page]IF YOU ARE GOING[nl]ON A JOURNEY,[page]PLEASE SEARCH FOR[nl]THIS KIND OF[nl]SPRING.[page]OUR FRIENDS WILL[nl]INCREASE OUR[nl]COURAGE AND[page]MAGNIFY OUR[nl]DREAMS.[end]",
+          "translated": "¿ESTÁS CONSCIENTE?[nlm]SÍ TE HUBIÉRAMOS[nl]ENCONTRADO MÁS[nl]TARDE,[page]TE HABRÍAS[nl]AHOGADO. SÍ VAS A[nl]HACER UN VIAJE,[page]BUSCA ESTE TIPO DE[nlm]MANANTIAL.[page]NUESTROS AMIGOS[nl]AUMENTARÁN NUESTRO[nlm]CORAJE Y[nlm]MAGNIFICAN[page]NUESTROS SUEÑOS.[end]"
+        },
+        "47": {
+          "text_offset": "0xA3FB",
+          "pointer_offset": "0x915E",
+          "original": "ARE YOU CONSCIOUS?[page]IF WE HAD FOUND[nl]YOU ANY LATER, YOUWOULD HAVE[nl]DROWNED.[page]IF YOU ARE GOING[nl]ON A JOURNEY,[page]PLEASE SEARCH FOR[nl]THIS KIND OF[nl]SPRING.[page]OUR FRIENDS WILL[nl]INCREASE OUR[nl]COURAGE AND[page]MAGNIFY OUR[nl]DREAMS.[end]",
+          "translated": "¿ESTÁS CONSCIENTE?[nlm]SÍ TE HUBIÉRAMOS[nl]ENCONTRADO MÁS[nl]TARDE,[page]TE HABRÍAS[nl]AHOGADO. SÍ VAS A[nl]HACER UN VIAJE,[page]BUSCA ESTE TIPO DE[nlm]MANANTIAL.[page]NUESTROS AMIGOS[nl]AUMENTARÁN NUESTRO[nlm]CORAJE Y[nlm]MAGNIFICAN[page]NUESTROS SUEÑOS.[end]"
+        },
+        "48": {
+          "text_offset": "0xA3FB",
+          "pointer_offset": "0x9160",
+          "original": "ARE YOU CONSCIOUS?[page]IF WE HAD FOUND[nl]YOU ANY LATER, YOUWOULD HAVE[nl]DROWNED.[page]IF YOU ARE GOING[nl]ON A JOURNEY,[page]PLEASE SEARCH FOR[nl]THIS KIND OF[nl]SPRING.[page]OUR FRIENDS WILL[nl]INCREASE OUR[nl]COURAGE AND[page]MAGNIFY OUR[nl]DREAMS.[end]",
+          "translated": "¿ESTÁS CONSCIENTE?[nlm]SÍ TE HUBIÉRAMOS[nl]ENCONTRADO MÁS[nl]TARDE,[page]TE HABRÍAS[nl]AHOGADO. SÍ VAS A[nl]HACER UN VIAJE,[page]BUSCA ESTE TIPO DE[nlm]MANANTIAL.[page]NUESTROS AMIGOS[nl]AUMENTARÁN NUESTRO[nlm]CORAJE Y[nlm]MAGNIFICAN[page]NUESTROS SUEÑOS.[end]"
+        },
+        "49": {
+          "text_offset": "0xA475",
+          "pointer_offset": "0x9162",
+          "original": "PLEASE WRITE ABOUTYOUR JOURNEY AT[nl]EACH SITE.[page]WHEN YOU ENTER THEWORLD OF DARKNESS,YOUR LAST RECORD[nl]WILL HELP YOU.[page]ALSO, GATHER UP[nl]HOPE. YOUR DREAMS[nl]AND COURAGE WILL[nl]GROW.[page]WHEN YOU LOSE YOURCOURAGE, YOU WILL[nl]BECOME PART OF THEDARKNESS.[page]IF YOU HAVE[nl]DREAMS, MANY[nl]SPIRITS WILL[nl]HELP YOU.[end]",
+          "translated": "POR FAVOR, ESCRIBE[nlm]SOBRE TU VIAJE EN[nl]CADA LUGAR.[page]CUANDO ENTRES EN[nl]EL MUNDO DE LA[nl]OSCURIDAD,[page]TU ÚLTIMO REGISTRO[nlm]TE AYUDARÁ.[nl]TAMBIÉN, REÚNE[nl]ALMA.[page]TUS SUEÑOS Y TU[nl]CORAJE CRECERÁN.[nl]CUANDO PIERDAS TU[nl]CORAJE,[page]TE VOLVERÁS PARTE[nl]DE LA OSCURIDAD.[nl]SÍ TIENES SUEÑOS,[page]MUCHOS ESPÍRITUS[nl]TE AYUDARÁN.[end]"
+        },
+        "50": {
+          "text_offset": "0xA51B",
+          "pointer_offset": "0x9164",
+          "original": "MIGHT YOU BE[nl]SOMEONE FROM THE[nl]WORLD OF HUMANS?[page]IF SO, BE WARNED.[page]THIS IS THE WORLD[nl]OF DREAMS.[page]YOU CAN NO LONGER[nl]RETURN TO THE[nl]ORDINARY WORLD.[end]",
+          "translated": "¿PODRÍAS SER[nl]ALGUIEN DEL MUNDO[nl]DE LOS HUMANOS?[page]SÍ ES ASÍ,[nl]TEN CUIDADO.[page]ESTE ES EL MUNDO[nl]DE LOS SUEÑOS.[page]YA NO PUEDES[nl]VOLVER AL MUNDO[nl]NORMAL.[end]"
+        },
+        "51": {
+          "text_offset": "0xA56E",
+          "pointer_offset": "0x9166",
+          "original": "THANKS TO YOU, WE[nl]ARE ABLE TO GO[nl]THROUGH NOW.[page]LET'S GO TO[nl]DAVIS![end]",
+          "translated": "GRACIAS A TI, YA[nl]PODEMOS PASAR.[nl]¡VAMOS A DAVIS![end]"
+        },
+        "52": {
+          "text_offset": "0xA595",
+          "pointer_offset": "0x9168",
+          "original": "KEEP GOING ON.[page]THERE WILL BE[nl]SOMETHING TO BREAKTHE CURSE OF THE[nl]WEREWOLVES.[end]",
+          "translated": "SIGUE ADELANTE.[page]HABRÁ ALGO PARA[nl]ROMPER LA[nl]MALDICIÓN DE LOS[nl]HOMBRES LOBO.[end]"
+        },
+        "53": {
+          "text_offset": "0xA5C2",
+          "pointer_offset": "0x916A",
+          "original": "YOU'D BETTER[nl]HURRY.[end]",
+          "translated": "MÁS VALE QUE TE[nl]DES PRISA.[end]"
+        },
+        "54": {
+          "text_offset": "0xA5CE",
+          "pointer_offset": "0x916C",
+          "original": "NOW IT IS TIME FORYOUR FINAL TRIAL.[page]CONTINUE ONWARD[nl]WITH HOPE.[end]",
+          "translated": "HA LLEGADO EL[nl]MOMENTO DE TU[nl]PRUEBA FINAL.[page]CONTINÚA CON[nl]ESPERANZA.[end]"
+        },
+        "55": {
+          "text_offset": "0xA5F2",
+          "pointer_offset": "0x916E",
+          "original": "SWEPT AWAY BY THE[nl]VIOLENT CURRENT,[nl]MARIA LOST[nl]CONSCIOUSNESS.[end]",
+          "translated": "ARRASADA POR LA[nl]VIOLENTA[nl]CORRIENTE,[page]MARIA PERDIÓ EL[nl]CONOCIMIENTO.[end]"
+        },
+        "56": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9170",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22][03][05][27][07][08][26][22][03][04]COMANDO[25][22][04][06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22][05][19][27][14][02][26][22][06][18]ALMA[22][0B][18]CORAJE[22][13][18]SUEÑO[22][07][1A][01][A0][04][22][nl][1A][02][A1][04][22][13][1A][02][A3][04][0F]"
+        },
+        "57": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9172",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22][03][05][27][07][08][26][22][03][04]COMANDO[25][22][04][06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22][05][19][27][14][02][26][22][06][18]ALMA[22][0B][18]CORAJE[22][13][18]SUEÑO[22][07][1A][01][A0][04][22][nl][1A][02][A1][04][22][13][1A][02][A3][04][0F]"
+        },
+        "58": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9174",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22][03][05][27][07][08][26][22][03][04]COMANDO[25][22][04][06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22][05][19][27][14][02][26][22][06][18]ALMA[22][0B][18]CORAJE[22][13][18]SUEÑO[22][07][1A][01][A0][04][22][nl][1A][02][A1][04][22][13][1A][02][A3][04][0F]"
+        },
+        "59": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9176",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22][03][05][27][07][08][26][22][03][04]COMANDO[25][22][04][06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22][05][19][27][14][02][26][22][06][18]ALMA[22][0B][18]CORAJE[22][13][18]SUEÑO[22][07][1A][01][A0][04][22][nl][1A][02][A1][04][22][13][1A][02][A3][04][0F]"
+        },
+        "60": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9178",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22][03][05][27][07][08][26][22][03][04]COMANDO[25][22][04][06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22][05][19][27][14][02][26][22][06][18]ALMA[22][0B][18]CORAJE[22][13][18]SUEÑO[22][07][1A][01][A0][04][22][nl][1A][02][A1][04][22][13][1A][02][A3][04][0F]"
+        },
+        "61": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x917A",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22][03][05][27][07][08][26][22][03][04]COMANDO[25][22][04][06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22][05][19][27][14][02][26][22][06][18]ALMA[22][0B][18]CORAJE[22][13][18]SUEÑO[22][07][1A][01][A0][04][22][nl][1A][02][A1][04][22][13][1A][02][A3][04][0F]"
+        },
+        "62": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x917C",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22][03][05][27][07][08][26][22][03][04]COMANDO[25][22][04][06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22][05][19][27][14][02][26][22][06][18]ALMA[22][0B][18]CORAJE[22][13][18]SUEÑO[22][07][1A][01][A0][04][22][nl][1A][02][A1][04][22][13][1A][02][A3][04][0F]"
+        },
+        "63": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x917E",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22][03][05][27][07][08][26][22][03][04]COMANDO[25][22][04][06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22][05][19][27][14][02][26][22][06][18]ALMA[22][0B][18]CORAJE[22][13][18]SUEÑO[22][07][1A][01][A0][04][22][nl][1A][02][A1][04][22][13][1A][02][A3][04][0F]"
+        }
+      }
+    },
+    "bank3_A000": {
+      "text_address": "0xA000(b3)",
+      "pointer_address": "0xA000",
+      "method": "e1f9_huffman",
+      "note": "story/NPC dialogue, bank3 table at $A000",
+      "messages": {
+        "0": {
+          "text_offset": "0xA100",
+          "pointer_offset": "0xA000",
+          "original": "MARIA'S PARENTS[nl]TOLD HER THE[nl]LEGEND OF THE[nl]WHITE LION.[page]\"ONCE UPON A TIME,A GREAT WHITE LIONATTACKED OUR[nl]VILLAGE.[page]MANY SOLDIERS[nl]TRIED TO SUBDUE[nl]IT, BUT TO NO[nl]AVAIL.[page]BUT ONE YOUNG[nl]SOLDIER SUMMONED[nl]ALL HIS COURAGE,[page]AND THREW HIS[nl]SPEAR AT THE LION.THE WHITE LION[nl]DISAPPEARED INTO[page]A CAVE AT THE EDGEOF THE VILLAGE,[nl]NEVER TO BE SEEN[nl]AGAIN.\"[page]\"WE ARE ABOUT TO[nl]EMBARK ON A[nl]JOURNEY TO SOLVE[nl]THIS MYSTERY,\"[page]SAID MARIA'S[nl]PARENTS.[end]",
+          "translated": "\"LOS PADRES DE[nl]MARIA LE CONTARON[nl]LA LEYENDA DEL[nl]LEÓN BLANCO.[page]\"ÉRASE UNA VEZ, UN[nlm]GRAN LEÓN BLANCO[nl]ATACÓ NUESTRO[nl]PUEBLO.[page]MUCHOS SOLDADOS[nl]INTENTARON[nl]DOMINARLO, PERO[nl]FUE EN VANO.[page]PERO UN JOVEN[nl]SOLDADO REUNIÓ[nl]TODO SU VALOR Y[nl]LANZÓ SU LANZA AL[page]LEÓN. EL LEÓN[nl]BLANCO DESAPARECIÓ[nlm]EN UNA CUEVA AL[nl]BORDE DEL PUEBLO,[page]PARA NUNCA MÁS[nl]VOLVER A SER[nl]VISTO.\"[page]\"ESTAMOS A PUNTO[nl]DE EMPRENDER UN[nl]VIAJE PARA[nl]RESOLVER ESTE[page]MISTERIO,\"[page]DIJERON LOS PADRES[nlm]DE MARIA.[end]"
+        },
+        "1": {
+          "text_offset": "0xA4F0",
+          "pointer_offset": "0xA002",
+          "original": "THE GATE OF EVIL[nl]IS FAR AWAY,[page]BUT YOU'LL REACH[nl]IT IF YOU TRAVEL[nl]WITH COURAGE AND[nl]DETERMINATION.[end]",
+          "translated": "LA PUERTA DEL MAL[nl]ESTÁ LEJOS,[page]PERO LA ALCANZARÁS[nlm]SI VIAJAS CON[nl]VALOR Y[nl]DETERMINACIÓN.[end]"
+        },
+        "2": {
+          "text_offset": "0xA528",
+          "pointer_offset": "0xA004",
+          "original": "DURING YOUR[nl]JOURNEY THERE ARE[nl]SOME THINGS YOU[page]WILL NEED TO[nl]PROTECT YOURSELF.[end]",
+          "translated": "DURANTE TU VIAJE[nl]NECESITARÁS[nl]ALGUNAS COSAS PARA[nlm]PROTEGERTE.[end]"
+        },
+        "3": {
+          "text_offset": "0xA555",
+          "pointer_offset": "0xA006",
+          "original": "ONLY THE TRULY[nl]BRAVE ARE GIVEN[nl]THE SPEAR OF[nl]COURAGE.[end]",
+          "translated": "SÓLO A LOS MÁS[nl]VALIENTES SE LES[nl]DA LA LANZA DEL[nl]VALOR.[end]"
+        },
+        "4": {
+          "text_offset": "0xA574",
+          "pointer_offset": "0xA008",
+          "original": "IN THIS VILLAGE,[nl]THERE IS AN[nl]UNDERGROUND PATH.[page]ONLY THE HOLDER OFTHE SPEAR OF[nl]COURAGE CAN TAKE[nl]THIS PATH.[end]",
+          "translated": "EN ESTE PUEBLO HAY[nlm]UN CAMINO[nl]SUBTERRÁNEO.[page]SOLO PUEDE IRSE[nl]CON LA LANZA DEL[nl]VALOR.[end]"
+        },
+        "5": {
+          "text_offset": "0xA5B1",
+          "pointer_offset": "0xA00A",
+          "original": "YOU WENT IN SEARCHOF THE WHITE LION?THAT WAS[nl]FOOLHARDY![end]",
+          "translated": "¿FUISTE A BUSCAR[nl]AL LEÓN BLANCO?[nl]¡FUE UNA[nl]TEMERIDAD![end]"
+        },
+        "6": {
+          "text_offset": "0xA5D2",
+          "pointer_offset": "0xA00C",
+          "original": "THE LEGEND TELLS[nl]OF A WHITE LION[nl]THAT ATTACKED THISVILLAGE.[page]A TOTAL OF THREE[nl]HUNDRED SOLDIERS[nl]TRIED IN VAIN[page]TO VANQUISH THE[nl]LION. THE WHOLE[nl]VILLAGE WAS[nl]TERRIFIED,[page]FROZEN IN THEIR[nl]FOOTSTEPS BY ITS[nl]THUNDEROUS ROAR.[page]BUT, THE YOUNGEST[nl]SOLDIER[nl]COURAGEOUSLY[nl]FACED THE LION.[page]HE STRUCK THE LIONWITH THE SPEAR.[nl]THE LION SUDDENLY[nl]DISAPPEARED...[page]YES, THE REASON[nl]WAS NOT THE SPEAR,BUT THE SOLDIER'S[nl]BRAVERY.[page]SINCE THEN, THE[nl]SPEAR HAS BEEN[nl]PROTECTING THIS[nl]VILLAGE.[end]",
+          "translated": "LA LEYENDA HABLA[nl]DE UN LEÓN BLANCO[nl]QUE ATACÓ ESTE[nl]PUEBLO.[page]UN TOTAL DE[nl]TRESCIENTOS[nl]SOLDADOS[nl]INTENTARON EN VANO[page]VENCER AL LEÓN.[nl]TODO EL PUEBLO[nl]ESTABA ATERRADO,[page]INMOVILIZADO POR[nl]SU RUGIDO[nl]ATURDIDOR.[page]PERO, EL SOLDADO[nl]MÁS JOVEN SE[nl]ENFRENTÓ AL LEÓN[nl]CON VALOR.[page]GOLPEÓ AL LEÓN CON[nlm]LA LANZA. EL LEÓN[nl]DESAPARECIÓ DE[nl]REPENTE...[page]SÍ, LA RAZÓN NO[nl]FUE LA LANZA, SI[nl]NO EL VALOR DEL[nl]SOLDADO.[page]DESDE ENTONCES,[nl]LA LANZA HA ESTADO[nlm]PROTEGIENDO ESTE[nl]PUEBLO.[end]"
+        },
+        "7": {
+          "text_offset": "0xA6D8",
+          "pointer_offset": "0xA00E",
+          "original": "EVERYONE WHO TRIEDTO DEFEAT THE LIONFAILED.[page]BUT, IF YOU FIND[nl]THE WHITE LION, DONOT HARM IT.[end]",
+          "translated": "QUIENES INTENTARON[nlm]VENCER AL LEÓN[nl]FRACASARON.[page]PERO,[nl]SI ENCUENTRAS AL[nl]LEÓN BLANCO,[nl]NO LE HAGAS DAÑO.[end]"
+        },
+        "8": {
+          "text_offset": "0xA70D",
+          "pointer_offset": "0xA010",
+          "original": "ARE YOU GOING TO[nl]THE GATE OF EVIL?[page]ARE YOU SURE YOU[nl]WANT TO GO?[page]YOU MAY SEE MANY[nl]FIERCE ANIMALS.[end2]",
+          "translated": "¿VAS A IR A LA[nl]PUERTA DEL MAL?[page]¿ESTÁS SEGURA?[page]PUEDES VER MUCHOS[nl]ANIMALES FEROCES.[end2]"
+        },
+        "9": {
+          "text_offset": "0xA746",
+          "pointer_offset": "0xA012",
+          "original": "OH REALLY...?[end]",
+          "translated": "¿DE VERDAD...?[end]"
+        },
+        "10": {
+          "text_offset": "0xA74F",
+          "pointer_offset": "0xA014",
+          "original": "ALRIGHT, BUT YOUR[nl]PARENTS MAY BE[nl]LOST FOREVER.[page]EVEN IF THEY ARE[nl]STILL ALIVE,[page]THERE IS NO[nl]GUARANTEE THAT YOUCAN HELP THEM.[page]ARE YOU SURE YOU[nl]WANT TO GO?[end2]",
+          "translated": "ESTÁ BIEN, PERO[nl]TUS PADRES PODRÍAN[nlm]PERDERSE PARA[nl]SIEMPRE.[page]INCLUSO SI SIGUEN[nl]CON VIDA, NO HAY[nl]GARANTÍA DE QUE[nl]PUEDAS AYUDARLOS.[page]¿SEGURO QUE[nl]QUIERES IR?[end2]"
+        },
+        "11": {
+          "text_offset": "0xA7A7",
+          "pointer_offset": "0xA016",
+          "original": "ALL RIGHT. THEN,[nl]TAKE THE SPEAR OF[nl]COURAGE.[page]THIS SPEAR HOLDS[nl]THE SPIRIT OF THE[nl]YOUNG SOLDIER.[page]YOU MUST ALWAYS[nl]TREASURE IT AND[nl]NEVER LOSE IT.[end]",
+          "translated": "MUY BIEN.[nl]ENTONCES, TOMA LA[nl]LANZA DEL VALOR.[page]ESTA LANZA[nl]CONTIENE EL[nl]ESPÍRITU DEL JOVEN[nlm]SOLDADO.[page]DEBES CUIDARLA Y[nl]NO PERDERLA.[end]"
+        },
+        "12": {
+          "text_offset": "0xA7F8",
+          "pointer_offset": "0xA018",
+          "original": "ALWAYS HAVE HOPE![end]",
+          "translated": "¡CONSERVA LA[nl]ESPERANZA![end]"
+        },
+        "13": {
+          "text_offset": "0xA803",
+          "pointer_offset": "0xA01A",
+          "original": "DO YOU HAVE THE[nl]SPEAR OF COURAGE?[end2]",
+          "translated": "¿TIENES LA LANZA[nl]DEL VALOR?[end2]"
+        },
+        "14": {
+          "text_offset": "0xA818",
+          "pointer_offset": "0xA01C",
+          "original": "TAKE THIS KEY.[nl]UNDERGROUND, THEREIS A LAMP WHICH[nl]CAN PROTECT YOU.[page]FIND THE LAMP AND[nl]BE CAREFUL.[end]",
+          "translated": "TOMA ESTA LLAVE.[nl]BAJO TIERRA HAY[nl]UNA LÁMPARA QUE[nl]PUEDE PROTEGERTE.[page]ENCUENTRA LA[nl]LÁMPARA Y TEN[nl]CUIDADO.[end]"
+        },
+        "15": {
+          "text_offset": "0xA851",
+          "pointer_offset": "0xA01E",
+          "original": "YOU CAN'T ENTER[nl]WITHOUT THE SPEAR.[end]",
+          "translated": "NO PUEDES ENTRAR[nl]SIN LA LANZA.[end]"
+        },
+        "16": {
+          "text_offset": "0xA865",
+          "pointer_offset": "0xA020",
+          "original": "WHY ARE YOU[nl]HESITATING? YOU'D[nl]BETTER GO.[end]",
+          "translated": "¿VACILAS?[nl]MEJOR VETE.[end]"
+        },
+        "17": {
+          "text_offset": "0xA87E",
+          "pointer_offset": "0xA022",
+          "original": "IT'S FOOLISH TO GOTO THE GATE OF[nl]EVIL![end]",
+          "translated": "¡ES TONTO IR A LA[nl]PUERTA DEL MAL![end]"
+        },
+        "18": {
+          "text_offset": "0xA895",
+          "pointer_offset": "0xA024",
+          "original": "ARE YOU GOING TO[nl]THE GATE OF EVIL?[nl]THAT'S DANGEROUS.[end]",
+          "translated": "¿IRÁS A LA PUERTA[nl]DEL MAL?[nl]ES PELIGROSO.[end]"
+        },
+        "19": {
+          "text_offset": "0xA8B4",
+          "pointer_offset": "0xA026",
+          "original": "IF YOU GO TO THE[nl]GATE OF EVIL,[nl]VISIT THE ELDERS.[end]",
+          "translated": "SI VAS A LA PUERTA[nlm]DEL MAL, VISITA A[nl]LOS ANCIANOS.[end]"
+        },
+        "20": {
+          "text_offset": "0xA8D1",
+          "pointer_offset": "0xA028",
+          "original": "THERE SHOULD BE A[nl]FORTUNE TELLER'S[nl]HOUSE AHEAD.[end]",
+          "translated": "DEBERÍA HABER UNA[nl]CASA DE ADIVINOS[nl]MÁS ADELANTE.[end]"
+        },
+        "21": {
+          "text_offset": "0xA8ED",
+          "pointer_offset": "0xA02A",
+          "original": "YES, THE VILLAGE[nl]ELDER'S HOUSE IS[nl]AHEAD.[end]",
+          "translated": "SÍ, LA CASA DEL[nl]ANCIANO DEL PUEBLO[nlm]ESTÁ MÁS ADELANTE.[end]"
+        },
+        "22": {
+          "text_offset": "0xA905",
+          "pointer_offset": "0xA02C",
+          "original": "YES, A COUPLE[nl]LOOKING FOR THE[nl]WHITE LION WERE ONTHIS BOAT.[end]",
+          "translated": "SÍ, UNA PAREJA QUE[nlm]BUSCABA AL LEÓN[nl]BLANCO IBA EN ESTE[nlm]BARCO.[end]"
+        },
+        "23": {
+          "text_offset": "0xA927",
+          "pointer_offset": "0xA02E",
+          "original": "I WANT TO GIVE YOUTHIS..., BUT YOU[nl]SEEM TO HAVE MANY[nl]THINGS.[page]PLEASE COME BACK[nl]AGAIN WHEN YOU[nl]HAVE DISCARDED OR[page]USED UP SOME OF[nl]YOUR THINGS.[end]",
+          "translated": "QUIERO DARTE ESTO,[nlm]PERO PARECE QUE[nl]TIENES MUCHAS[nl]COSAS. POR FAVOR,[page]VUELVE CUANDO[nl]HAYAS TIRADO O[nl]USADO ALGO.[end]"
+        },
+        "24": {
+          "text_offset": "0xA97A",
+          "pointer_offset": "0xA030",
+          "original": "WHEN THE STARDUST[nl]IS RETURNED TO THEDAIS, A CLOSED[nl]PATH WILL OPEN.[end]",
+          "translated": "CUANDO EL POLVO[nl]ESTELAR VUELVA AL[nl]ALTAR, SE ABRIRÁ[page]UN CAMINO CERRADO.[end]"
+        },
+        "25": {
+          "text_offset": "0xA9A0",
+          "pointer_offset": "0xA032",
+          "original": "THE GIANT'S STATUEWARDS OFF EVIL.[page]BUT, A GOBLIN TOOKTHE STARDUST FROM[nl]THE DAIS IN THE[nl]CAVE.[page]SINCE THEN, THE[nl]CAVE HAS BEEN[nl]CLOSED.[end]",
+          "translated": "LA ESTATUA DEL[nl]GIGANTE AHUYENTA[nl]EL MAL.[page]PERO, UN TRASGO LE[nlm]QUITÓ EL POLVO[nl]ESTELAR AL ALTAR[nl]DE LA CUEVA.[page]DESDE ENTONCES, LA[nlm]CUEVA ESTÁ[nl]CERRADA.[end]"
+        },
+        "26": {
+          "text_offset": "0xA9ED",
+          "pointer_offset": "0xA034",
+          "original": "THIS IS THE LAKE[nl]OF PARADISE.[page]BUT, IF YOU DO NOTUSE THE WATER JUG[nl]TO DRAW THE WATER,[page]THE WATER WILL[nl]BECOME A CLOUD ANDINSTANTLY FLOAT UPINTO THE SKY.[end]",
+          "translated": "ESTE ES EL LAGO[nl]DEL PARAÍSO.[page]PERO, SI NO USAS[nl]LA JARRA DE AGUA[nl]PARA VACIARLO,[page]EL AGUA SE VOLVERÁ[nlm]UNA NUBE Y FLOTARÁ[nlm]AL CIELO AL[nl]INSTANTE.[end]"
+        },
+        "27": {
+          "text_offset": "0xA1F4",
+          "pointer_offset": "0xA036",
+          "original": "\"IT MAY BE A VERY[nl]DANGEROUS AND[nl]DIFFICULT JOURNEY.[page]PLEASE WAIT FOR USUNTIL WE RETURN.[page]IF YOU HAVE ANY[nl]PROBLEMS, GO AND[nl]SEE THE VILLAGE[nl]ELDERS.\"[page]WITH THAT, THE[nl]PARENTS LEFT.[page]BUT, THEY WERE[nl]NEVER HEARD FROM[nl]AGAIN.[end]",
+          "translated": "\"PODRÍA SER UN[nl]VIAJE MUY[nl]PELIGROSO Y[nl]DIFÍCIL.[page]POR FAVOR,[nl]ESPÉRANOS HASTA[nl]QUE VOLVAMOS. SI[nl]TIENES PROBLEMAS,[page]VE A VER A LOS[nl]ANCIANOS DEL[nl]PUEBLO.\"[page]DICHO ESO, LOS[nl]PADRES SE FUERON.[nl]PERO NUNCA MÁS SE[nl]SUPO DE ELLOS.[end]"
+        },
+        "28": {
+          "text_offset": "0xAA44",
+          "pointer_offset": "0xA038",
+          "original": "WATER![nl]THIS IS WHAT I[nl]HAVE BEEN LOOKING[nl]FOR![page]THANK YOU.[nl]NOW I CAN GO BACK[nl]HOME.[page]I WILL MAKE A[nl]RAINBOW AS A TOKENOF MY THANKS.[page]WITH THIS, THE[nl]RAINBOW CHILD[nl]DISAPPEARED.[end]",
+          "translated": "¡AGUA! ¡ESTO ES LO[nlm]QUE ESTABA[nl]BUSCANDO![page]GRACIAS.[nl]AHORA PUEDO VOLVER[nlm]A CASA.[page]HARÉ UN ARCOÍRIS[nl]COMO MUESTRA DE MI[nlm]AGRADECIMIENTO.[page]CON ESTO, EL NIÑO[nl]DEL ARCOÍRIS[nl]DESAPARECIÓ.[end]"
+        },
+        "29": {
+          "text_offset": "0xAAA9",
+          "pointer_offset": "0xA03A",
+          "original": "OH, NO![nl]THERE IS NO WATER.[page]I CAN NOT GO BACK[nl]IF I DO NOT HAVE[nl]IT![end]",
+          "translated": "¡OH, NO![nl]NO HAY AGUA.[page]¡NO PUEDO VOLVER[nl]SIN ELLA![end]"
+        },
+        "30": {
+          "text_offset": "0xAAD0",
+          "pointer_offset": "0xA03C",
+          "original": "OH![nl]THAT'S THE CROWN[nl]WHICH I HAVE BEEN[nl]LOOKING FOR.[page]IS THAT FOR ME,[nl]SOMEONE WHO ONCE[nl]COMMITTED EVIL[nl]ACTS?[page]WELL![nl]KEEP ON TRYING TO[nl]FULFILL YOUR[nl]HOPES.[page]SO LONG.[end]",
+          "translated": "¡OH! ESA ES LA[nl]CORONA QUE ESTABA[nl]BUSCANDO.[page]¿ES PARA MÍ,[nl]ALGUIEN QUE UNA[nl]VEZ COMETIÓ ACTOS[nl]MALVADOS?[page]¡BIEN![nl]SIGUE TRATANDO DE[nl]CUMPLIR TUS[nl]ESPERANZAS.[page]HASTA LUEGO.[end]"
+        },
+        "31": {
+          "text_offset": "0xAB30",
+          "pointer_offset": "0xA03E",
+          "original": "I USED TO BE THE[nl]KING OF BATOTH.[page]BATOTH IS NOW[nl]CALLED THE ISLAND[nl]OF EVIL.[page]HUMANS USED TO[nl]LIVE ON THE[nl]ISLAND.[page]BUT, DECEIVED BY[nl]EVIL FORCES[page]I TRIED TO TAKE[nl]CONTROL OF THE[nl]WORLD.[page]HOWEVER, I FELL[nl]ILL AND FINALLY[nl]CAME TO REST UPON[nl]THIS LAND.[page]I WAS FOOLISH, BUTPLEASE RESTORE MY[nl]CROWN.[page]PLEASE BRING THE[nl]CROWN HERE.[end2]",
+          "translated": "ANTES ERA EL REY[nl]DE BATOTH. BATOTH[nl]AHORA SE LLAMA LA[nl]ISLA DEL MAL.[page]LOS HUMANOS VIVÍAN[nlm]EN LA ISLA.[page]PERO, ENGAÑADO POR[nlm]LAS FUERZAS[nl]MALIGNAS,[page]INTENTÉ TOMAR EL[nl]CONTROL DEL[nl]MUNDO.[page]SIN EMBARGO,[nl]ENFERMÉ Y[nl]FINALMENTE VINE A[nl]REPOSAR A ESTA[page]TIERRA.[page]FUI UN TONTO, PERO[nlm]POR FAVOR,[nl]RESTAURA MI[nl]CORONA.[page]POR FAVOR, TRAE LA[nlm]CORONA AQUÍ.[end2]"
+        },
+        "32": {
+          "text_offset": "0xABE6",
+          "pointer_offset": "0xA040",
+          "original": "THIS IS THE CAVE[nl]TO THE GATE OF[nl]EVIL.[page]YOU HAVE FINALLY[nl]MADE IT HERE.[page]IF YOU KNEEL IN[nl]FRONT OF THE[nl]DAIS, THE WATER[nl]IN THE LAKE WILL[page]DISAPPEAR AND A[nl]PATH TO A WHITE[nl]PYRAMID WILL[nl]APPEAR.[end]",
+          "translated": "ESTA ES LA CUEVA[nl]QUE LLEGA A LA[nl]PUERTA DEL MAL.[page]POR FIN HAS[nl]LLEGADO AQUÍ.[nl]SI TE ARRODILLAS[nl]FRENTE AL ALTAR,[page]EL AGUA DEL LAGO[nl]DESAPARECERÁ Y SE[nl]ABRIRÁ UN CAMINO[nl]HACIA UNA[page]PIRÁMIDE BLANCA.[end]"
+        },
+        "33": {
+          "text_offset": "0xAC50",
+          "pointer_offset": "0xA042",
+          "original": "THIS IS THE CAVE[nl]TO THE GATE OF[nl]EVIL.[page]YOU HAVE FINALLY[nl]MADE IT HERE.[page]THE KLEIN JUG IS[nl]INFINITE.[page]IT CAN EASILY DRY[nl]UP A LAKE.[end]",
+          "translated": "ESTA ES LA CUEVA[nl]QUE LLEGA A LA[nl]PUERTA DEL MAL.[page]POR FIN HAS[nl]LLEGADO AQUÍ.[page]LA JARRA DE KLEIN[nl]ES INFINITA.[page]PUEDE SECAR UN[nl]LAGO CON[nl]FACILIDAD.[end]"
+        },
+        "34": {
+          "text_offset": "0xAC99",
+          "pointer_offset": "0xA044",
+          "original": "THANK YOU FOR[nl]HELPING ME![page]I WILL GIVE YOU[nl]THIS BOX AS A[nl]TOKEN OF MY[nl]THANKS.[page]THE PIXIE WENT[nl]AWAY WITH THE[nl]LIGHT.[end]",
+          "translated": "¡GRACIAS POR[nl]AYUDARME![page]TE DARÉ ESTA CAJA[nl]COMO MUESTRA DE MI[nlm]AGRADECIMIENTO.[page]EL PIXIE SE FUE[nl]CON LA LUZ.[end]"
+        },
+        "35": {
+          "text_offset": "0xACDC",
+          "pointer_offset": "0xA046",
+          "original": "IT IS SAID THAT[nl]THERE IS A HORN[page]WHICH CAN BREAK[nl]THE ROCK BEHIND[nl]THE STATUE OF THE[nl]DOG.[page]NOW, PUT THE DOG'SEYE BACK IN THE[nl]STATUE.[end]",
+          "translated": "SE DICE QUE HAY UN[nlm]CUERNO QUE PUEDE[nl]ROMPER LA ROCA QUE[nlm]ESTÁ DETRÁS DE LA[page]ESTATUA DEL PERRO.[nlm]AHORA, DEVUELVE EL[nlm]OJO DEL PERRO A LA[nlm]ESTATUA.[end]"
+        },
+        "36": {
+          "text_offset": "0xAD27",
+          "pointer_offset": "0xA048",
+          "original": "THE WAY WILL BE[nl]OPENED WHEN THE[nl]LIGHT RETURNS TO[nl]THE DOG'S EYE.[end]",
+          "translated": "EL CAMINO SE[nl]ABRIRÁ CUANDO LA[nl]LUZ VUELVA AL OJO[nl]DEL PERRO.[end]"
+        },
+        "37": {
+          "text_offset": "0xA38B",
+          "pointer_offset": "0xA04A",
+          "original": "\"MARIA... BY YOUR[nl]COURAGE, HOPE AND[nl]THE STRENGTH OF[nl]YOUR DREAMS,[page]YOU OVERCAME THE[nl]TRIALS WHICH I PUTBEFORE YOU.[page]HOPE IS THE[nl]GUIDEPOST OF LIFE.[page]NEVER LOSE SIGHT[nl]OF IT.[page]COURAGE IS THE[nl]SOURCE OF[nl]STRENGTH.[page]NEVER GIVE UP.[page]DREAMS ARE THE[nl]FOUNTAIN OF LIFE.[page]YOUR LIFE WILL BE[nl]FULL IF YOU DARE[nl]TO DREAM.[page]IF YOU DON'T LOSE[nl]HOPE AND FACE YOURPROBLEMS WITH[nl]COURAGE,[page]ALL YOUR DREAMS[nl]WILL COME TRUE.[page]YOU'LL LEARN THIS[nl]FROM THE TRIALS[nl]WHICH AWAIT YOU.[page]I'LL GIVE YOU[nl]THIS PENDANT TO[nl]HELP YOU.[page]IF YOU GET[nl]DISCOURAGED, LOOK[nl]AT THIS PENDANT.\"[end]",
+          "translated": "\"MARIA... CON TU[nl]VALOR, ESPERANZA Y[nlm]LA FUERZA DE TUS[nl]SUEÑOS,[page]SUPERASTE LAS[nl]PRUEBAS QUE TE[nl]PUSE.[page]LA ESPERANZA ES LA[nlm]GUÍA DE LA VIDA.[nl]NUNCA LA PIERDAS[nl]DE VISTA.[page]EL VALOR ES LA[nl]FUENTE DE LA[nl]FUERZA. NUNCA TE[nl]RINDAS.[page]LOS SUEÑOS SON LA[nl]FUENTE DE LA VIDA.[page]TU VIDA SERÁ PLENA[nlm]SI TE ATREVES A[nl]SOÑAR.[page]SI NO PIERDES LA[nl]ESPERANZA Y[nl]ENFRENTAS TUS[nl]PROBLEMAS CON[page]VALOR, TODOS TUS[nl]SUEÑOS SE HARÁN[nl]REALIDAD.[page]LO APRENDERÁS DE[nl]LAS PRUEBAS QUE TE[nlm]ESPERAN.[page]TE DARÉ ESTE[nl]COLGANTE PARA[nl]AYUDARTE. SI TE[nl]DESANIMAS,[page]MIRA ESTE[nl]COLGANTE.\"[end]"
+        },
+        "38": {
+          "text_offset": "0xAD4C",
+          "pointer_offset": "0xA04C",
+          "original": "THIS IS THE TOWN[nl]OF BREAD.[end]",
+          "translated": "ESTE ES EL PUEBLO[nl]DEL PAN.[end]"
+        },
+        "39": {
+          "text_offset": "0xAD5C",
+          "pointer_offset": "0xA04E",
+          "original": "THERE IS AN EVIL[nl]GOBLIN IN A CAVE[nl]NEAR HERE.[page]THE GOBLIN STOLE[nl]THE STARDUST.[page]IF I DON'T GET IT,I WON'T SEE MY[nl]FAMILY IN DAVIS![end]",
+          "translated": "HAY UN TRASGO[nl]MALVADO EN UNA[nl]CUEVA CERCA DE[nl]AQUÍ.[page]ROBÓ EL POLVO[nl]ESTELAR. SI NO LO[nl]CONSIGO,[page]NO VERÉ A MI[nl]FAMILIA EN DAVIS.[end]"
+        },
+        "40": {
+          "text_offset": "0xADA6",
+          "pointer_offset": "0xA050",
+          "original": "IF YOU GIVE ME A[nl]RUBY, I'LL LET YOURIDE ON MY SHIP![page]HOW ABOUT IT?[end2]",
+          "translated": "SI ME DAS RUBÍS,[nl]¡TE LLEVARÉ EN MI[nl]BARCO![nl]¿QUÉ TE PARECE?[end2]"
+        },
+        "41": {
+          "text_offset": "0xADCF",
+          "pointer_offset": "0xA052",
+          "original": "SO, WHERE DO YOU[nl]WANT TO GO?[end2]",
+          "translated": "ENTONCES,[nl]¿A DÓNDE QUIERES[nl]IR?[end2]"
+        },
+        "42": {
+          "text_offset": "0xADE1",
+          "pointer_offset": "0xA054",
+          "original": "COME ON AND RIDE[nl]ON MY SHIP![end]",
+          "translated": "¡VEN Y MONTA EN MI[nlm]BARCO![end]"
+        },
+        "43": {
+          "text_offset": "0xADF3",
+          "pointer_offset": "0xA056",
+          "original": "MY GRANDFATHER[nl]TOLD ME THAT TEARSCAN MAKE YOUR[nl]DREAMS GREATER.[end]",
+          "translated": "MI ABUELO ME DIJO[nl]QUE LAS LÁGRIMAS[nl]PUEDEN AGRANDAR[nl]TUS SUEÑOS.[end]"
+        },
+        "44": {
+          "text_offset": "0xAE17",
+          "pointer_offset": "0xA058",
+          "original": "THIS IS MERRY[nl]PIXIE.[page]NOW, THE VILLAGE[nl]IS CHEERFUL[nl]AGAIN.[end]",
+          "translated": "ESTE ES EL PIXIE[nl]ALEGRE.[page]AHORA, EL PUEBLO[nl]ESTÁ ALEGRE OTRA[nl]VEZ.[end]"
+        },
+        "45": {
+          "text_offset": "0xBC67",
+          "pointer_offset": "0xA05A",
+          "original": "IN RETURN, I[nl]WILL GIVE YOU[nl]SOME VALUABLE[nl]INFORMATION.[page]I HAVE HEARD THAT[nl]THERE IS AN OLD[nl]CROWN ON THE[page]NORTHERN ISLAND.[nl]YOU CAN GET THERE[nl]BY SHIP FROM[nl]BREAD.[page]AS THE PIXIE SAID[nl]THIS, SHE[nl]DISAPPEARED.[end]",
+          "translated": "A CAMBIO, TE DARÉ[nl]INFORMACIÓN[nl]VALIOSA.[page]HE OÍDO QUE HAY[nl]UNA CORONA ANTIGUA[nlm]EN LA ISLA DEL[nl]NORTE.[page]PUEDES LLEGAR EN[nl]BARCO DESDE PAN.[page]CUANDO EL PIXIE[nl]DIJO ESTO,[nl]DESAPARECIÓ.[end]"
+        },
+        "46": {
+          "text_offset": "0xA272",
+          "pointer_offset": "0xA05C",
+          "original": "MARIA DECIDED TO[nl]SEARCH FOR HER[nl]PARENTS AND[page]VISITED THE[nl]VILLAGE ELDERS.[page]\"YOU FINALLY[nl]DECIDED TO START[nl]ON A JOURNEY.[page]THIS SPEAR HOLDS[nl]THE SPIRIT OF THE[nl]YOUNG SOLDIER.[page]IF YOU CALL UPON[nl]THE SPIRIT, HE[nl]WILL APPEAR AND[nl]HELP YOU.\"[page]\"FIRST, YOU SHOULDSEARCH FOR A[nl]SPECIAL LAMP.[page]IT WILL PROTECT[nl]YOU.\"[page]THE VILLAGE ELDERSGAVE MARIA THE[nl]SPEAR AND THE WOODKEY.[page]\"THERE IS A RUMOR[nl]THAT THE WHITE[nl]LION IS AT THE[nl]GATE OF EVIL.[page]BE CAREFUL MARIA.\"[page]MARIA LEFT THE[nl]VILLAGE ELDERS[nl]AND WENT INTO THE[nl]CAVE.[end]",
+          "translated": "\"MARIA DECIDIÓ[nl]BUSCAR A SUS[nl]PADRES Y VISITÓ A[nl]LOS ANCIANOS DEL[page]PUEBLO.[page]\"POR FIN DECIDISTE[nlm]EMPEZAR UN VIAJE.[page]ESTA LANZA[nl]CONTIENE EL[nl]ESPÍRITU DEL JOVEN[nlm]SOLDADO.[page]SI INVOCAS AL[nl]ESPÍRITU,[nl]APARECERÁ Y TE[nl]AYUDARÁ.\"[page]\"PRIMERO, DEBERÍAS[nlm]BUSCAR UNA LÁMPARA[nlm]ESPECIAL. TE[nl]PROTEGERÁ.\"[page]LOS ANCIANOS LE[nl]DIERON A MARIA LA[nl]LANZA Y LA LLAVE[nl]DE MADERA.[page]\"HAY UN RUMOR DE[nl]QUE EL LEÓN BLANCO[nlm]ESTÁ EN LA PUERTA[nl]DEL MAL.[page]TEN CUIDADO,[nl]MARIA.\"[page]MARIA DEJÓ A LOS[nl]ANCIANOS Y ENTRÓ[nl]EN LA CUEVA.[end]"
+        },
+        "47": {
+          "text_offset": "0xAE39",
+          "pointer_offset": "0xA05E",
+          "original": "IF THE STARDUST INTHE GOBLIN'S CAVE[nl]IS RETURNED TO ITSDAIS,[page]I'LL BE ABLE TO[nl]PASS THROUGH THE[nl]CAVE.[end]",
+          "translated": "SI EL POLVO[nl]ESTELAR DE LA[nl]CUEVA DEL TRASGO[nl]VUELVE A SU[page]ALTAR, PODRÉ[nl]ATRAVESAR LA[nl]CUEVA.[end]"
+        },
+        "48": {
+          "text_offset": "0xAE73",
+          "pointer_offset": "0xA060",
+          "original": "AFTER PASSING[nl]THROUGH THE CAVE[nl]OF THE GIANTS[page]AT THE SOUTHERN[nl]PART OF THE[nl]ISLAND[page]AND REACHING THE[nl]WEREWOLVES'[nl]TERRITORY,[page]DROP BY DAVIS,[nl]WHICH HAS[nl]MUSHROOMS.[end]",
+          "translated": "TRAS ATRAVESAR LA[nl]CUEVA DE LOS[nl]GIGANTES,[page]EN LA PARTE SUR DE[nlm]LA ISLA,[page]Y DE LLEGAR AL[nl]TERRITORIO DE LOS[nl]HOMBRES LOBO,[page]PASA POR DAVIS,[nl]QUE TIENE SETAS.[end]"
+        },
+        "49": {
+          "text_offset": "0xAECE",
+          "pointer_offset": "0xA062",
+          "original": "THE WEREWOLVE'S[nl]TERRITORY BEGINS[nl]HERE.[page]IF YOU WALK INTO[nl]THE CASTLE[nl]CARELESSLY,[page]TERRIBLE THINGS[nl]WILL HAPPEN.[end]",
+          "translated": "EL TERRITORIO DE[nl]LOS HOMBRES LOBO[nl]EMPIEZA AQUÍ.[page]SI ENTRAS EN EL[nl]CASTILLO SIN[nl]CUIDADO, PASARÁN[nl]COSAS TERRIBLES.[end]"
+        },
+        "50": {
+          "text_offset": "0xAF0E",
+          "pointer_offset": "0xA064",
+          "original": "THE RED RING IS ATFON'S CAVE IN THE[nl]SOUTH.[page]THE SPIRIT OF THE[nl]RING WILL BE SURE[nl]TO HELP YOU.[end]",
+          "translated": "EL ANILLO ROJO[nl]ESTÁ EN LA CUEVA[nl]DE FON, AL SUR.[page]EL ESPÍRITU DEL[nl]ANILLO TE AYUDARÁ[nl]SEGURO.[end]"
+        },
+        "51": {
+          "text_offset": "0xAF43",
+          "pointer_offset": "0xA066",
+          "original": "BESIDES THE RED[nl]RING, I HAVE ALSO[nl]HEARD THAT THERE[page]IS A RAPIER WHICH[nl]HOUSES AN ELF'S[nl]SPIRIT.[end]",
+          "translated": "ADEMÁS DEL ANILLO[nl]ROJO, HE OÍDO QUE[nl]HAY UN ESTOQUE QUE[nlm]CONTIENE EL[page]ESPÍRITU DE UN[nl]ELFO.[end]"
+        },
+        "52": {
+          "text_offset": "0xAF78",
+          "pointer_offset": "0xA068",
+          "original": "THIS IS DAVIS.[page]IT WAS CLOSED TO[nl]THE OUTSIDE BY THEWEREWOLVES AND HASBECOME LONELY.[end]",
+          "translated": "ESTO ES DAVIS.[page]LOS HOMBRES LOBO[nl]LO AISLARON DEL[nl]EXTERIOR Y SE HA[nl]VUELTO SOLITARIO.[end]"
+        },
+        "53": {
+          "text_offset": "0xAFA9",
+          "pointer_offset": "0xA06A",
+          "original": "THE HUGE ROCK TO[nl]THE WEST WAS PUT[nl]IN PLACE BY A[page]CURSE OF THE WOLF[nl]KING.[page]TO BREAK THE[nl]CURSE, THE POWER[nl]OF THE HORN IS[nl]NEEDED.[end]",
+          "translated": "LA GRAN ROCA DEL[nl]OESTE FUE COLOCADA[nlm]POR UNA MALDICIÓN[nl]DEL REY LOBO.[page]PARA ROMPER LA[nl]MALDICIÓN, SE[nl]NECESITA EL PODER[nl]DEL CUERNO.[end]"
+        },
+        "54": {
+          "text_offset": "0xAFF2",
+          "pointer_offset": "0xA06C",
+          "original": "PIXIE, ON THE[nl]OTHER SIDE OF THE[nl]HUGE ROCK, USED TOBE A MERRY PLACE.[page]WE'LL PROBABLY[nl]NEVER SEE IT[nl]AGAIN.[end]",
+          "translated": "PIXIE, AL OTRO[nl]LADO DE LA GRAN[nl]ROCA, SOLÍA SER UN[nlm]LUGAR ALEGRE.[page]PROBABLEMENTE[nl]NUNCA LO[nl]VOLVEREMOS A VER.[end]"
+        },
+        "55": {
+          "text_offset": "0xB02F",
+          "pointer_offset": "0xA06E",
+          "original": "THE PERSON WHO[nl]SEES THE SHINING[page]DOG'S EYE WILL BE[nl]ABLE TO OBTAIN THEHORN.[end]",
+          "translated": "LA PERSONA QUE VEA[nlm]EL OJO DEL PERRO[nl]BRILLANDO PODRÁ[nl]CONSEGUIR EL[page]CUERNO.[end]"
+        },
+        "56": {
+          "text_offset": "0xB05A",
+          "pointer_offset": "0xA070",
+          "original": "DON'T FORGET.[page]ONLY CREATURES[nl]LIKE HUMAN BEINGS[nl]CAN HAVE DREAMS[nl]AND HOPES.[end]",
+          "translated": "NO LO OLVIDES.[page]SÓLO LAS CRIATURAS[nlm]COMO LOS HUMANOS[nl]PUEDEN TENER[nl]SUEÑOS Y[page]ESPERANZAS.[end]"
+        },
+        "57": {
+          "text_offset": "0xB086",
+          "pointer_offset": "0xA072",
+          "original": "THIS IS PIXIE, BUTNOW EVERYONE IS[nl]AFRAID OF THE HUGESLUG.[end]",
+          "translated": "ESTO ES PIXIE,[nl]PERO AHORA TODOS[nl]LE TEMEN A LA GRAN[nlm]BABOSA.[end]"
+        },
+        "58": {
+          "text_offset": "0xB0A9",
+          "pointer_offset": "0xA074",
+          "original": "A BRAVE PIXIE WENTINTO THE CAVE WITHA MYSTICAL ROPE[page]TO DESTROY THE[nl]HUGE SLUG.[nl]I HOPE HE WILL[nl]COME BACK SAFELY.[end]",
+          "translated": "UN PIXIE VALIENTE[nl]ENTRÓ EN LA CUEVA[nl]CON UNA CUERDA[nl]MÍSTICA PARA[page]DESTRUIR A LA GRAN[nlm]BABOSA.[nl]ESPERO QUE VUELVA[nl]A SALVO.[end]"
+        },
+        "59": {
+          "text_offset": "0xB0EA",
+          "pointer_offset": "0xA076",
+          "original": "THERE IS A JAR[nl]CALLED THE WATER[nl]JUG[page]AT THE TOWER OF[nl]RANYA IN THE[nl]NORTH.[end]",
+          "translated": "HAY UNA JARRA DE[nl]AGUA EN LA TORRE[nl]DE RANYA,[nl]AL NORTE.[end]"
+        },
+        "60": {
+          "text_offset": "0xB113",
+          "pointer_offset": "0xA078",
+          "original": "THE SPRITES LOOK[nl]LIKE US PIXIES,[nl]BUT BE CAREFUL.[nl]THEY ARE EVIL.[end]",
+          "translated": "LOS DUENDES SE[nl]PARECEN A[nl]NOSOTROS, LOS[nl]PIXIES,[page]PERO CUIDADO.[nl]SON MALVADOS.[end]"
+        },
+        "61": {
+          "text_offset": "0xB13A",
+          "pointer_offset": "0xA07A",
+          "original": "I HAVE HEARD THAT[nl]THERE IS A RED[nl]PYRAMID AT ALKO[page]IN THE SOUTH OF[nl]THE ISLAND.[end]",
+          "translated": "HE OÍDO QUE HAY[nl]UNA PIRÁMIDE ROJA[nl]EN ALKO, AL SUR DE[nlm]LA ISLA.[end]"
+        },
+        "62": {
+          "text_offset": "0xB165",
+          "pointer_offset": "0xA07C",
+          "original": "WEREWOLF CASTLE[nl]LIES IN RUINS.[page]A MONSTER IS[nl]LIVING IN THIS[nl]CASTLE,[page]WHICH WAS ONCE[nl]INHABITED BY[nl]HUMANS.[page]WEREWOLVES WERE[nl]GREEDY, BUT SO AREHUMANS.[end]",
+          "translated": "EL CASTILLO DE LOS[nlm]HOMBRES LOBO ESTÁ[nl]EN RUINAS.[page]UN MONSTRUO VIVE[nl]EN ESTE CASTILLO,[page]QUE ANTES FUE[nl]HABITADO POR[nl]HUMANOS.[page]LOS HOMBRES LOBO[nl]ERAN AVARICIOSOS,[nl]PERO LOS HUMANOS[nl]TAMBIÉN.[end]"
+        },
+        "63": {
+          "text_offset": "0xB1BC",
+          "pointer_offset": "0xA07E",
+          "original": "THIS IS THE TOWN[nl]OF THE RANYA[nl]TOWER.[end]",
+          "translated": "ESTE ES EL PUEBLO[nl]DE LA TORRE DE[nl]RANYA.[end]"
+        }
+      }
+    },
+    "bank3_A080": {
+      "text_address": "0xA080(b3)",
+      "pointer_address": "0xA080",
+      "method": "e1f9_huffman",
+      "note": "bank3 secondary tables: villager info, table at $A080 (28 msgs)",
+      "messages": {
+        "0": {
+          "text_offset": "0xB1D1",
+          "pointer_offset": "0xA080",
+          "original": "IN THE NORTH CAVE,A RAINBOW CHILD ISIN TROUBLE.[page]IT CAN'T RETURN[nl]HOME.[end]",
+          "translated": "EN LA CUEVA DEL[nl]NORTE, UN NIÑO DEL[nlm]ARCO IRIS ESTÁ EN[nl]APUROS.[page]NO PUEDE VOLVER A[nl]CASA.[end]"
+        },
+        "1": {
+          "text_offset": "0xB1FA",
+          "pointer_offset": "0xA082",
+          "original": "THERE IS A BROOM[nl]THAT IS KEPT BY A[nl]WITCH IN THE WITCHFOREST.[page]IF I COULD GET IT,I COULD FLY FROM[nl]VILLAGE TO[nl]VILLAGE.[end]",
+          "translated": "HAY UNA ESCOBA[nl]GUARDADA POR UNA[nl]BRUJA EN EL BOSQUE[nlm]DE LA BRUJA.[page]SI PUDIERA[nl]CONSEGUIRLA,[nl]VOLARÍA DE PUEBLO[nl]EN PUEBLO.[end]"
+        },
+        "2": {
+          "text_offset": "0xB23E",
+          "pointer_offset": "0xA084",
+          "original": "THERE'S A TOWN TO[nl]THE NORTH WITH A[nl]TOWER CALLED[nl]KAPI'S TOWER.[page]YOU WILL FIND IT[nl]SOON.[page]I WANT TO GO THERETOO![end]",
+          "translated": "HAY UN PUEBLO AL[nl]NORTE CON UNA[nl]TORRE LLAMADA LA[nl]TORRE DE KAPI.[page]LO ENCONTRARÁS[nl]PRONTO.[page]¡YO TAMBIÉN QUIERO[nlm]IR![end]"
+        },
+        "3": {
+          "text_offset": "0xB27C",
+          "pointer_offset": "0xA086",
+          "original": "I HAVE HEARD THAT[nl]THERE IS A[nl]MYSTERIOUS LAKE[page]CALLED THE LAKE OFPARADISE![end]",
+          "translated": "¡HE OÍDO QUE HAY[nl]UN LAGO MISTERIOSO[nlm]LLAMADO EL LAGO[nl]DEL PARAÍSO![end]"
+        },
+        "4": {
+          "text_offset": "0xB2A6",
+          "pointer_offset": "0xA088",
+          "original": "WELCOME TO THE[nl]TOWN OF KAPI'S[nl]TOWER.[end]",
+          "translated": "BIENVENIDO AL[nl]PUEBLO DE LA TORRE[nlm]DE KAPI.[end]"
+        },
+        "5": {
+          "text_offset": "0xB2BC",
+          "pointer_offset": "0xA08A",
+          "original": "I HAVE HEARD THAT[nl]THERE IS A[nl]TREASURE CALLED[page]THE ROCK WING AT[nl]HOWLING CAVE IN[nl]THE WEST.[end]",
+          "translated": "OÍ QUE HAY UN[nl]TESORO LLAMADO EL[nl]ALA DE ROCA EN LA[nl]CUEVA DE LOS[page]AULLIDOS,[nl]AL OESTE.[end]"
+        },
+        "6": {
+          "text_offset": "0xB2EE",
+          "pointer_offset": "0xA08C",
+          "original": "THE ROCK WING[nl]HOUSES A SPIRIT.[nl]IT WILL HELP YOU.[end]",
+          "translated": "EL ALA DE ROCA[nl]ALBERGA UN[nl]ESPÍRITU.[nl]TE AYUDARÁ.[end]"
+        },
+        "7": {
+          "text_offset": "0xB30B",
+          "pointer_offset": "0xA08E",
+          "original": "IT IS SAID THAT ONTHE ISLAND OF[nl]EVIL,[page]ALL THAT IS LEFT[nl]ON THE ROYAL[nl]THRONE IS A CROWN.[page]I HAVE HEARD THAT[nl]A MONSTER[page]WHICH LOOKS LIKE AGOBLIN COVETS THE[nl]CROWN.[end]",
+          "translated": "SE DICE QUE EN LA[nl]ISLA DEL MAL,[page]SOLO QUEDA UNA[nl]CORONA EN EL TRONO[nlm]REAL.[page]OÍ QUE UN MONSTRUO[nlm]QUE PARECE UN[nl]TRASGO CODICIA LA[nl]CORONA.[end]"
+        },
+        "8": {
+          "text_offset": "0xB366",
+          "pointer_offset": "0xA090",
+          "original": "I HAVE HEARD THAT[nl]HUMANS USED TO[nl]LIVE ON THE ISLANDOF EVIL.[page]BUT, BECAUSE OF[nl]THEIR GREED,[page]PEOPLE REPEATEDLY[nl]DESTROYED EACH[nl]OTHER.[page]STILL OTHERS WERE[nl]DESTROYED BY A[nl]GIANT LION.[page]SINCE THEN, THE[nl]LION PLACED A[nl]CURSE ON THE[nl]ISLAND[page]AND NO ONE COULD[nl]LIVE OUTSIDE OF[nl]THE TOWER.[end]",
+          "translated": "HE OÍDO QUE LOS[nl]HUMANOS SOLÍAN[nl]VIVIR EN LA ISLA[nl]DEL MAL.[page]PERO, POR SU[nl]CODICIA,[page]SE DESTRUYERON[nl]UNOS A OTROS.[page]OTROS FUERON[nl]DESTRUIDOS POR UN[nl]LEÓN GIGANTE.[page]DESDE ENTONCES, EL[nlm]LEÓN PUSO UNA[nl]MALDICIÓN EN LA[nl]ISLA[page]Y NADIE PODÍA[nl]VIVIR FUERA DE LA[nl]TORRE.[end]"
+        },
+        "9": {
+          "text_offset": "0xB401",
+          "pointer_offset": "0xA092",
+          "original": "THIS IS A TOWN OF[nl]HOPE - THE TOWN OFSPIRIT'S TOWER.[end]",
+          "translated": "ESTE ES UN PUEBLO[nl]DE ESPERANZA: EL[nl]PUEBLO DE LA TORRE[nlm]DEL ESPÍRITU.[end]"
+        },
+        "10": {
+          "text_offset": "0xB41F",
+          "pointer_offset": "0xA094",
+          "original": "I LOST MY DOLL.[nl]PLEASE LOOK FOR[nl]IT![end]",
+          "translated": "PERDÍ MI MUÑECA.[nl]¡POR FAVOR,[nl]BÚSCALA![end]"
+        },
+        "11": {
+          "text_offset": "0xB435",
+          "pointer_offset": "0xA096",
+          "original": "THERE ARE A LOT OFMUSHROOMS IN[nl]ORANGE MOON.[end]",
+          "translated": "HAY MUCHAS SETAS[nl]EN ORANGE MOON.[end]"
+        },
+        "12": {
+          "text_offset": "0xB44E",
+          "pointer_offset": "0xA098",
+          "original": "IT'S VERY[nl]DIFFICULT TO[nl]DEFEAT THE DRAGON[nl]IN THE VALLEY.[page]BUT IT CAN BE DONEIF WE HAVE THE[nl]RIGHT STATUE.[end]",
+          "translated": "ES MUY DIFÍCIL[nl]VENCER AL DRAGÓN[nl]DEL VALLE.[page]PERO SE PUEDE CON[nl]LA ESTATUA[nl]ADECUADA.[end]"
+        },
+        "13": {
+          "text_offset": "0xB48A",
+          "pointer_offset": "0xA09A",
+          "original": "I HAVE HEARD THAT[nl]THERE ARE PLACES[nl]IMPOSSIBLE TO[page]CROSS WITHOUT[nl]SPECIAL SHOES.[end]",
+          "translated": "OÍ QUE HAY LUGARES[nlm]IMPOSIBLES DE[nl]CRUZAR SIN ZAPATOS[nlm]ESPECIALES.[end]"
+        },
+        "14": {
+          "text_offset": "0xB4B7",
+          "pointer_offset": "0xA09C",
+          "original": "THE CREATURE[nl]ENCLOSED IN THE[nl]SILVER CUP HAS THEUPPER BODY OF[page]A HUMAN AND THE[nl]LOWER BODY OF A[nl]HORSE.[page]THE CREATURE IS A[nl]CENTAUR.[page]HE WILL PROTECT[nl]YOU.[end]",
+          "translated": "LA CRIATURA[nl]ENCERRADA EN LA[nl]COPA DE PLATA[nl]TIENE EL CUERPO[page]DE ARRIBA DE UN[nl]HUMANO Y EL DE[nl]ABAJO DE UN[nl]CABALLO.[page]ES UN CENTAURO.[nl]TE PROTEGERÁ.[end]"
+        },
+        "15": {
+          "text_offset": "0xB50C",
+          "pointer_offset": "0xA09E",
+          "original": "THERE IS A SILVER[nl]SHINING STONE DEEPWITHIN THE CAVE.[page]THE STONE'S STRONGPOWER WILL[nl]CERTAINLY DEFEAT[nl]THE ENEMY.[end]",
+          "translated": "HAY UNA PIEDRA DE[nl]PLATA QUE BRILLA[nl]EN LO PROFUNDO DE[nl]LA CUEVA.[page]EL GRAN PODER DE[nl]LA PIEDRA SIN DUDA[nlm]VENCERÁ AL[nl]ENEMIGO.[end]"
+        },
+        "16": {
+          "text_offset": "0xB54B",
+          "pointer_offset": "0xA0A0",
+          "original": "I HEARD THAT IN[nl]THE EASTERN LAKE,[nl]THERE IS A FROG[nl]MONSTER.[page]THE PERSON WHO[nl]DEFEATS THIS[nl]MONSTER WILL WIN[nl]THE ALLEGIANCE[page]OF THE FROG AND BEABLE TO USE IT AS[nl]HE WISHES.[end]",
+          "translated": "OÍ QUE EN EL LAGO[nl]DEL ESTE HAY UNA[nl]RANA MONSTRUO.[page]QUIEN VENZA A ESTE[nlm]MONSTRUO GANARÁ LA[nlm]LEALTAD DE LA[nl]RANA Y PODRÁ[page]USARLA COMO DESEE.[end]"
+        },
+        "17": {
+          "text_offset": "0xB5A9",
+          "pointer_offset": "0xA0A2",
+          "original": "ORANGE MOON IS NOWVERY RUN DOWN.[page]BUT IT USED TO BE[nl]VERY MERRY.[end]",
+          "translated": "ORANGE MOON ESTÁ[nl]MUY DECAÍDA.[page]PERO SOLÍA SER MUY[nlm]ALEGRE.[end]"
+        },
+        "18": {
+          "text_offset": "0xA4BF",
+          "pointer_offset": "0xA0A4",
+          "original": "MARIA FELT FAINT,[nl]AS IF SHE WAS[nl]ENGULFED[page]BY THE PENDANT'S[nl]DAZZLING[nl]BRILLIANCE.[end]",
+          "translated": "MARIA SE SINTIÓ[nl]DESMAYADA, COMO SI[nlm]ESTUVIERA ENVUELTA[page]POR EL[nl]DESLUMBRANTE[nl]BRILLO DEL[nl]COLGANTE.[end]"
+        },
+        "19": {
+          "text_offset": "0xB5CF",
+          "pointer_offset": "0xA0A6",
+          "original": "THERE IS A[nl]TREASURE CALLED[nl]THE KLEIN JUG[page]WHICH CAN SUCK IN[nl]ALL THE WATER OF[nl]THE LAKE.[page]A TWO-HEADED SNAKEIS KEEPING IT.[end]",
+          "translated": "HAY UN TESORO[nl]LLAMADO EL JARRO[nl]DE KLEIN QUE PUEDE[nlm]ABSORBER TODA EL[page]AGUA DEL LAGO.[page]UNA SERPIENTE DE[nl]DOS CABEZAS LO[nl]GUARDA.[end]"
+        },
+        "20": {
+          "text_offset": "0xB615",
+          "pointer_offset": "0xA0A8",
+          "original": "THE SLUG IS WEAKERTHAN THE FROG,[page]AND THE FROG[nl]TREMBLES AT THE[nl]SIGHT OF THE[nl]SNAKE.[page]HOWEVER, THE SNAKECAN'T MOVE AT THE[nl]SIGHT OF THE SLUG.[page]THIS IS WHAT IS[nl]CALLED A[nl]THREE-CORNERED[nl]DEADLOCK.[page]THEY ARE ALL BOUNDHAND AND FOOT, ANDCAN'T MOVE AT ALL.[end]",
+          "translated": "LA BABOSA ES MÁS[nl]DÉBIL QUE LA RANA,[page]Y LA RANA TIEMBLA[nl]ANTE LA SERPIENTE.[page]PERO LA SERPIENTE[nl]NO PUEDE MOVERSE[nl]ANTE LA BABOSA.[page]A ESTO SE LE LLAMA[nlm]UN PUNTO MUERTO[nl]TRIANGULAR.[page]ESTÁN TODAS ATADAS[nlm]DE PIES Y MANOS, Y[nlm]NO PUEDEN MOVERSE[nl]EN ABSOLUTO.[end]"
+        },
+        "21": {
+          "text_offset": "0xB6A3",
+          "pointer_offset": "0xA0AA",
+          "original": "WHAT ARE YOU DOINGIN BATASA'S[nl]FOREST?[end]",
+          "translated": "¿QUÉ HACES EN EL[nl]BOSQUE DE BATASA?[end]"
+        },
+        "22": {
+          "text_offset": "0xB6BA",
+          "pointer_offset": "0xA0AC",
+          "original": "THE STATUE IS A[nl]MAGICAL STATUTE.[page]A PERSON WHO DOES[nl]NOT HAVE MAGIC[nl]CAN'T USE IT.[end]",
+          "translated": "LA ESTATUA ES[nl]MÁGICA.[page]QUIEN NO TENGA[nl]MAGIA NO PUEDE[nl]USARLA.[end]"
+        },
+        "23": {
+          "text_offset": "0xB6E8",
+          "pointer_offset": "0xA0AE",
+          "original": "BATASA DOES NOT[nl]BARGAIN.[page]HE IS STUBBORN.[end]",
+          "translated": "BATASA NO[nl]REGATEA.[page]ES TERCO.[end]"
+        },
+        "24": {
+          "text_offset": "0xB701",
+          "pointer_offset": "0xA0B0",
+          "original": "THERE IS A CRYSTALHOUSING THE[nl]GIANT'S SPIRIT[page]IN MOD'S ISLAND[nl]NEAR HERE.[end]",
+          "translated": "HAY UN CRISTAL QUE[nlm]ALBERGA EL[nl]ESPÍRITU DEL[nl]GIGANTE EN LA[page]ISLA DE MOD,[nl]CERCA DE AQUÍ.[end]"
+        },
+        "25": {
+          "text_offset": "0xB72B",
+          "pointer_offset": "0xA0B2",
+          "original": "THIS IS THE[nl]WITCH'S FOREST.[page]OH! YOU HAVE THE[nl]HORN.[page]LET'S EXCHANGE THEHORN FOR MY BROOM.[end2]",
+          "translated": "ESTE ES EL BOSQUE[nl]DE LA BRUJA.[page]¡OH! TIENES EL[nl]CUERNO.[page]CAMBIEMOS EL[nl]CUERNO POR MI[nl]ESCOBA.[end2]"
+        },
+        "26": {
+          "text_offset": "0xB75F",
+          "pointer_offset": "0xA0B4",
+          "original": "YOU CAN'T USE[nl]THAT WITHIN CLOSEDPLACES OR IN THE[nl]MIDST OF BATTLES.[page]BE CAREFUL.[end]",
+          "translated": "NO PUEDES USARLO[nl]EN SITIOS CERRADOS[nlm]NI EN BATALLA.[page]TEN CUIDADO.[end]"
+        },
+        "27": {
+          "text_offset": "0xB78E",
+          "pointer_offset": "0xA0B6",
+          "original": "OH, THAT REALLY ISTOO BAD.[page]I'LL GIVE YOU 20[nl]RUBIES, THOUGH.[page]THIS ISN'T BAD,[nl]EH?[end2]",
+          "translated": "¡OH, ESO ES UNA[nl]LÁSTIMA.[page]AUN ASÍ, TE DARÉ[nl]20 RUBÍS.[page]NO ESTÁ MAL,[nl]¿VERDAD?[end2]"
+        }
+      }
+    },
+    "bank3_A0B8": {
+      "text_address": "0xA0B8(b3)",
+      "pointer_address": "0xA0B8",
+      "method": "e1f9_huffman",
+      "note": "bank3 secondary tables: villager events, table at $A0B8 (36 msgs)",
+      "messages": {
+        "0": {
+          "text_offset": "0xB7C0",
+          "pointer_offset": "0xA0B8",
+          "original": "IF THAT'S THE[nl]CASE, I'LL ABANDONTHIS DEAL.[nl]GO HOME.[end]",
+          "translated": "ENTONCES,[nl]DEJO ESTE TRATO.[nl]VETE A CASA.[end]"
+        },
+        "1": {
+          "text_offset": "0xB7DF",
+          "pointer_offset": "0xA0BA",
+          "original": "WHAT IS THIS?[nl]I NO LONGER HAVE[nl]TO DEAL WITH YOU.[end]",
+          "translated": "¿QUÉ? YA NO TENGO[nl]ASUNTOS CONTIGO.[end]"
+        },
+        "2": {
+          "text_offset": "0xB7FB",
+          "pointer_offset": "0xA0BC",
+          "original": "OH! THANK YOU![page]ELHALIA AND[nl]KUNASHIRIA WILL[nl]BE CONNECTED[nl]AGAIN.[end]",
+          "translated": "¡OH! ¡GRACIAS![page]ELHALIA Y[nl]KUNASHIRIA[nl]VOLVERÁN A ESTAR[nl]CONECTADAS.[end]"
+        },
+        "3": {
+          "text_offset": "0xB821",
+          "pointer_offset": "0xA0BE",
+          "original": "ALL RIGHT.[page]I'LL BECOME AN[nl]EVIL SPIRIT AGAIN[nl]AND WILL CONTROL[nl]EVERYTHING.[page]HEY, LITTLE GIRL,[nl]GO WHEREVER YOU[nl]WANT![page]I'LL ALWAYS[nl]DISRUPT YOUR[nl]DREAMS.[end]",
+          "translated": "BIEN.[page]VOLVERÉ A SER UN[nl]ESPÍRITU MALIGNO Y[nlm]CONTROLARÉ TODO.[page]¡OYE, NIÑA, VE[nl]DONDE QUIERAS![page]SIEMPRE PERTURBARÉ[nlm]TUS SUEÑOS.[end]"
+        },
+        "4": {
+          "text_offset": "0xB879",
+          "pointer_offset": "0xA0C0",
+          "original": "OH! THANK YOU FOR[nl]THIS DOLL.[page]I'LL GIVE YOU THE[nl]F-SWORD AS A[nl]TOKEN OF MY[nl]THANKS.[page]MY FATHER GAVE IT[nl]TO ME.[end]",
+          "translated": "¡OH! ¡GRACIAS POR[nl]ESTA MUÑECA![page]TE DARÉ LA ESPADA[nl]BRILLO COMO[nl]AGRADECIMIENTO.[page]MI PADRE ME LA[nl]DIO.[end]"
+        },
+        "5": {
+          "text_offset": "0xB8B8",
+          "pointer_offset": "0xA0C2",
+          "original": "I HAVE HEARD THAT[nl]A BOY FROM ORANGE[nl]MOON BURIED[page]THE DOLL IN THE[nl]MIDDLE OF PALM[nl]TREE ROAD.[end]",
+          "translated": "OÍ QUE UN CHICO DE[nlm]ORANGE MOON[nl]ENTERRÓ LA MUÑECA[nl]EN MEDIO DE LA[page]CALLE DE LAS[nl]PALMERAS.[end]"
+        },
+        "6": {
+          "text_offset": "0xB8EC",
+          "pointer_offset": "0xA0C4",
+          "original": "YES, I'M THE ONE[nl]WHO TOOK THE DOLL[nl]FROM A GIRL[page]IN THE TOWN OF[nl]SPIRIT'S TOWER[nl]AND BURIED IT IN[nl]THE GROUND.[page]LET'S SEE NOW,[nl]WHERE DID I BURY[nl]IT?[end]",
+          "translated": "SÍ, SOY QUIEN LE[nl]QUITÓ LA MUÑECA A[nl]UNA NIÑA DEL[nl]PUEBLO DE LA[page]TORRE DEL ESPÍRITU[nlm]Y LA ENTERRÓ EN EL[nlm]SUELO.[page]A VER... ¿DÓNDE LA[nlm]ENTERRÉ?[end]"
+        },
+        "7": {
+          "text_offset": "0xB93F",
+          "pointer_offset": "0xA0C6",
+          "original": "THANK YOU VERY[nl]MUCH! PLEASE TAKE[nl]CARE.[end]",
+          "translated": "¡MUCHAS GRACIAS![nl]¡CUÍDATE![end]"
+        },
+        "8": {
+          "text_offset": "0xB957",
+          "pointer_offset": "0xA0C8",
+          "original": "I HAVE NOT EATEN[nl]ANYTHING FOR THREEDAYS.[page]COULD YOU GIVE ME[nl]SOME OF THE BREAD[nl]THAT MAKES ONE[nl]BRAVE?[end2]",
+          "translated": "NO HE COMIDO NADA[nl]EN TRES DÍAS.[page]¿PODRÍAS DARME UN[nl]POCO DE ESE PAN[nl]QUE TE HACE SER[nl]VALIENTE?[end2]"
+        },
+        "9": {
+          "text_offset": "0xB991",
+          "pointer_offset": "0xA0CA",
+          "original": "AH.. IT WAS VERY[nl]GOOD.[nl]BUT, I AM STILL[nl]HUNGRY.[page]COULD YOU GIVE[nl]ANOTHER PIECE OF[nl]BREAD?[end2]",
+          "translated": "AH... ESTABA MUY[nl]BUENO. PERO SIGO[nl]CON HAMBRE.[page]¿PODRÍAS DARME[nl]OTRO TROZO?[end2]"
+        },
+        "10": {
+          "text_offset": "0xB9C5",
+          "pointer_offset": "0xA0CC",
+          "original": "THIS IS VERY GOOD.I FEEL REVIVED.[page]I'M SORRY, BUT CANYOU GIVE ME ONE[nl]MORE PIECE?[end2]",
+          "translated": "ESTÁ MUY BUENO. ME[nlm]SIENTO REVIVIDA.[page]LO SIENTO, PERO[nl]¿PUEDES DARME UN[nl]POCO MÁS?[end2]"
+        },
+        "11": {
+          "text_offset": "0xB9F6",
+          "pointer_offset": "0xA0CE",
+          "original": "HO-HO-HO.[nl]I HAD NO IDEA THATSUCH KINDNESS AND[page]GENEROSITY STILL[nl]EXISTED.[page]KIND GIRL, PLEASE[nl]DELIVER THIS[nl]LETTER TO MY SON[nl]IN DAVIS.[end]",
+          "translated": "JO-JO-JO. NO SABÍA[nlm]QUE ESA CLASE DE[nl]BONDAD Y[page]GENEROSIDAD[nl]TODAVÍA[nl]EXISTIERAN.[page]BUENA NIÑA, POR[nl]FAVOR LLEVA ESTA[nl]CARTA A MI HIJO EN[nlm]DAVIS.[end]"
+        },
+        "12": {
+          "text_offset": "0xBA43",
+          "pointer_offset": "0xA0D0",
+          "original": "YOU GAVE BREAD TO[nl]AN OLD LADY.[end]",
+          "translated": "LE DISTE PAN A UNA[nlm]ANCIANA.[end]"
+        },
+        "13": {
+          "text_offset": "0xBA56",
+          "pointer_offset": "0xA0D2",
+          "original": "ARE YOU GOING TO[nl]ABANDON ME, AN[nl]OLD WOMAN?[page]IT'S THE END OF[nl]THE WORLD![end]",
+          "translated": "¿VAS A[nl]ABANDONARME, A UNA[nlm]ANCIANA?[page]¡ES EL FIN DEL[nl]MUNDO![end]"
+        },
+        "14": {
+          "text_offset": "0xBA80",
+          "pointer_offset": "0xA0D4",
+          "original": "I AM THE SON OF A[nl]WOMAN IN BREAD.[page]THANK YOU FOR[nl]TAKING CARE OF MY[nl]MOTHER.[page]I'LL GIVE YOU THISB-DAGGER.[nl]THANK YOU VERY[nl]MUCH.[end]",
+          "translated": "SOY EL HIJO DE UNA[nlm]MUJER DE PAN.[page]GRACIAS POR CUIDAR[nlm]DE MI MADRE.[page]TE DARÉ ESTA DAGA[nl]BRILLANTE. COMO[nl]MUESTRA DE[nl]AGRADECIMIENTO.[end]"
+        },
+        "15": {
+          "text_offset": "0xBACA",
+          "pointer_offset": "0xA0D6",
+          "original": "TAKE CARE.[end]",
+          "translated": "CUÍDATE.[end]"
+        },
+        "16": {
+          "text_offset": "0xBAD1",
+          "pointer_offset": "0xA0D8",
+          "original": "DO YOU HAVE A[nl]LETTER TO ME FROM[nl]MY MOTHER IN[nl]BREAD?[end]",
+          "translated": "¿TIENES UNA CARTA[nl]PARA MÍ DE MI[nl]MADRE EN PAN?[end]"
+        },
+        "17": {
+          "text_offset": "0xBAEF",
+          "pointer_offset": "0xA0DA",
+          "original": "YOU DON'T HAVE ANYBREAD TO GIVE TO[nl]ME?[page]PLEASE BUY SOME.[end]",
+          "translated": "¿TIENES PAN PARA[nl]DARME?[page]POR FAVOR, COMPRA[nl]UN POCO.[end]"
+        },
+        "18": {
+          "text_offset": "0xBB11",
+          "pointer_offset": "0xA0DC",
+          "original": "THANK YOU VERY[nl]MUCH.[end]",
+          "translated": "MUCHAS GRACIAS.[end]"
+        },
+        "19": {
+          "text_offset": "0xBB1E",
+          "pointer_offset": "0xA0DE",
+          "original": "I AM SORRY, BUT[nl]COULD YOU DELIVER[nl]THIS TO MY SON[page]AS QUICKLY AS[nl]POSSIBLE?[end]",
+          "translated": "LO SIENTO, ¿PERO[nl]PODRÍAS LLEVARLE[nl]ESTO A MI HIJO LO[nl]MÁS RÁPIDO[page]POSIBLE?[end]"
+        },
+        "20": {
+          "text_offset": "0xBB4B",
+          "pointer_offset": "0xA0E0",
+          "original": "THANK YOU FOR[nl]DEFEATING THE[nl]SLUG![end]",
+          "translated": "¡GRACIAS POR[nl]VENCER A LA[nl]BABOSA![end]"
+        },
+        "21": {
+          "text_offset": "0xBB60",
+          "pointer_offset": "0xA0E2",
+          "original": "A WITCH TOOK MY[nl]PIXIE WINGS.[page]I CAN NOT FLY[nl]WITHOUT THEM.[page]WHAT SHALL I DO?[end]",
+          "translated": "UNA BRUJA ME QUITÓ[nlm]MIS ALAS DE[nl]PIXIE.[page]NO PUEDO VOLAR SIN[nlm]ELLAS.[end]"
+        },
+        "22": {
+          "text_offset": "0xBB8D",
+          "pointer_offset": "0xA0E4",
+          "original": "IT'S A PIXIE![page]I HEARD THAT THE[nl]PIXIE HAD HER[nl]WINGS STOLEN.[page]THE WITCH TOOK THEWINGS TO KAPI'S[nl]TOWER.[end]",
+          "translated": "¡ES UN PIXIE![page]OÍ QUE A UN PIXIE[nl]LE ROBARON LAS[nl]ALAS.[page]LA BRUJA LLEVÓ LAS[nlm]ALAS A LA TORRE DE[nlm]KAPI.[end]"
+        },
+        "23": {
+          "text_offset": "0xBBC8",
+          "pointer_offset": "0xA0E6",
+          "original": "ARE YOU SEARCHING[nl]FOR THE PIXIE[nl]WINGS?[page]WELL, YOU HAVE[nl]COME TO THE RIGHT[nl]PLACE.[page]I'M BORED WITH[nl]THEIR WINGS.[page]I'LL GIVE THEM TO[nl]YOU.[end]",
+          "translated": "¿BUSCAS LAS ALAS[nl]DEL PIXIE?[page]PUES HAS VENIDO AL[nlm]LUGAR ADECUADO.[page]ME HE ABURRIDO DE[nl]SUS ALAS.[page]TE LAS DARÉ.[end]"
+        },
+        "24": {
+          "text_offset": "0xBC16",
+          "pointer_offset": "0xA0E8",
+          "original": "WHO ARE YOU?[page]I HAVE NEVER SEEN[nl]YOU BEFORE.[page]WHERE ARE YOU[nl]FROM?[end]",
+          "translated": "¿QUIÉN ERES?[page]NO TE HABÍA[nl]VISTO ANTES.[page]¿DE DÓNDE ERES?[end]"
+        },
+        "25": {
+          "text_offset": "0xBC3C",
+          "pointer_offset": "0xA0EA",
+          "original": "OH! THOSE ARE MY[nl]WINGS.[nl]THANK YOU VERY[nl]MUCH.[page]NOW I CAN RETURN[nl]TO PIXIE.[end]",
+          "translated": "¡OH! ESAS SON MIS[nl]ALAS.[nl]MUCHAS GRACIAS.[page]AHORA PUEDO VOLVER[nlm]A PIXIE.[end]"
+        },
+        "26": {
+          "text_offset": "0xBCD9",
+          "pointer_offset": "0xA0EC",
+          "original": "THANK YOU FOR[nl]FINDING MY PIXIE[nl]WINGS.[page]THERE IS A KING[nl]IN A CAVE NEAR[nl]HERE[page]WHO IS SEARCHING[nl]FOR THE CROWN.[end]",
+          "translated": "GRACIAS POR[nl]ENCONTRAR MIS ALAS[nlm]DE PIXIE.[page]HAY UN REY EN UNA[nl]CUEVA CERCANA QUE[nl]ESTÁ BUSCANDO LA[nl]CORONA.[end]"
+        },
+        "27": {
+          "text_offset": "0xBD18",
+          "pointer_offset": "0xA0EE",
+          "original": "HAVE YOU GONE TO[nl]THE ISLAND OF[nl]EVIL, TO THE[nl]NORTH?[end]",
+          "translated": "¿FUISTE A LA ISLA[nl]DEL MAL,[nl]AL NORTE?[end]"
+        },
+        "28": {
+          "text_offset": "0xBD36",
+          "pointer_offset": "0xA0F0",
+          "original": "I BURIED THE MUSICBOX IN THE WITCH'SFOREST.[page]I REMEMBER THAT I[nl]BURIED IT UNDER A[nl]TREE,[page]BUT I DON'T[nl]REMEMBER WHICH[nl]TREE.[end]",
+          "translated": "ENTERRÉ LA CAJA DE[nlm]MÚSICA EN EL[nl]BOSQUE DE LA[nl]BRUJA.[page]RECUERDO QUE LO[nl]HICE CERCA DE UN[nl]ÁRBOL.[end]"
+        },
+        "29": {
+          "text_offset": "0xBD7C",
+          "pointer_offset": "0xA0F2",
+          "original": "WOW! THAT'S MY[nl]MUSIC BOX![nl]THANK YOU![page]I'LL TELL YOU[nl]A SECRET THAT MY[nl]MOTHER TOLD ME.[page]YOU CAN DRAW[nl]MYSTERIOUS WATER[nl]WITH THE WATER[nl]JUG.[end]",
+          "translated": "¡GUAU! ¡ES MI CAJA[nlm]DE MÚSICA![nl]¡GRACIAS![page]TE CONTARÉ UN[nl]SECRETO QUEME CONTÓ MI MADREE[page]PUEDES SACAR UN[nl]AGUA MISTERIOSA[nl]CON LA JARRA DE[nl]AGUA.[end]"
+        },
+        "30": {
+          "text_offset": "0xBDCD",
+          "pointer_offset": "0xA0F4",
+          "original": "MY MOTHER TOLD ME[nl]THE ENTRANCE TO[nl]THE LAKE IS TO THENORTH.[end]",
+          "translated": "MI MADRE ME DIJO[nl]QUE LA ENTRADA AL[nl]LAGO ESTÁ AL[nl]NORTE.[end]"
+        },
+        "31": {
+          "text_offset": "0xBDEE",
+          "pointer_offset": "0xA0F6",
+          "original": "WHO ARE YOU?[nl]I MAY HAVE SEEN[nl]YOU BEFORE.[page]ANYWAY, I LEFT MY[nl]GLASSES AT A[nl]FRIEND'S PLACE[nl]IN BATASA.[page]CAN YOU GO AND[nl]BRING THEM TO ME?[end]",
+          "translated": "¿QUIÉN ERES?[nl]QUIZÁ TE HAYA[nl]VISTO ANTES.[page]EN FIN, ME DEJÉ[nl]LAS GAFAS EN CASA[nl]DE UN AMIGO EN[nl]BATASA.[page]¿PODRÍAS[nl]TRAÉRMELAS?[end]"
+        },
+        "32": {
+          "text_offset": "0xBE3C",
+          "pointer_offset": "0xA0F8",
+          "original": "MY FRIEND LEFT THEGLASSES HERE.[page]CAN YOU DELIVER[nl]THEM TO HER?[end2]",
+          "translated": "MI AMIGA DEJÓ LAS[nl]GAFAS AQUÍ.[page]¿PUEDES[nl]LLEVÁRSELAS?[end2]"
+        },
+        "33": {
+          "text_offset": "0xBE60",
+          "pointer_offset": "0xA0FA",
+          "original": "OH! I SEE.[nl]THE WITCH WENT TO[nl]THE CAVE CALLED[page]\"SILVER MOUNTAIN\"[nl]TO LOOK FOR A[nl]TREASURE.[page]SHE MUST BE HAVINGA HARD TIME[nl]WITHOUT HER[nl]GLASSES.[page]THANK YOU FOR[nl]HELPING TO DELIVERTHE GLASSES TO[nl]HER.[end]",
+          "translated": "¡OH! YA VEO. LA[nl]BRUJA FUE A LA[nl]CUEVA LA \"MONTAÑA[nl]DE PLATA\" A[page]BUSCAR UN TESORO.[nl]LE COSTARÁ SIN[nl]GAFAS.[page]GRACIAS POR AYUDAR[nlm]A ENTREGARLAS.[end]"
+        },
+        "34": {
+          "text_offset": "0xBECF",
+          "pointer_offset": "0xA0FC",
+          "original": "OH! THOSE ARE MY[nl]GLASSES![page]NOW I CAN LOOK FORTHE TREASURE.[page]I DESIRE THE[nl]TREASURE, BUT I[nl]WANT THE KLEIN[nl]JUG EVEN MORE.[page]A SNAKE CALLED[nl]HYDRA IS KEEPING[nl]IT.[page]IF I USE THE JUG[nl]AT THE CAVE[nl]LEADING TO THE[nl]GATE OF EVIL,[page]I CAN GET TO THE[nl]WHITE LION. BUT, INEED TWO STATUES.[page]BUT, WHERE HAS THEWITCH GONE?[end]",
+          "translated": "¡OH! ¡MIS GAFAS![page]YA PUEDO BUSCAR EL[nlm]TESORO.[page]LO DESEO,[nl]PERO QUIERO LA[nl]JARRA KLEIN AÚN[nl]MÁS.[page]UNA SERPIENTE[nl]LLAMADA HIDRA LA[nl]TIENE.[page]SI USO LA JARRA EN[nlm]LA CUEVA QUE LLEVA[nlm]A LA PUERTA DEL[nl]MAL, PUEDO LLEGAR[page]AL LEÓN BLANCO.[nl]PERO, NECESITO DOS[nlm]ESTATUAS.[page]PERO,[nl]¿DÓNDE HA IDO LA[nl]BRUJA?[end]"
+        },
+        "35": {
+          "text_offset": "0xBF7B",
+          "pointer_offset": "0xA0FE",
+          "original": "DID YOU DELIVER[nl]THE GLASSES TO[nl]HER?[end]",
+          "translated": "¿LE ENTREGASTE LAS[nlm]GAFAS?[end]"
+        }
+      }
+    },
+    "bank4_9180": {
+      "text_address": "0x9180(b4)",
+      "pointer_address": "0x9180",
+      "method": "e1f9_huffman",
+      "note": "field/battle menus, bank4 table at $9180 (msg id = 0xC0+i)",
+      "messages": {
+        "0": {
+          "text_offset": "0xA617",
+          "pointer_offset": "0x9180",
+          "original": "[22:03 05][27:07 08][k2][22:03 04]COMMAND[k1][22:04 06]SPEAK[nl]GOODS[nl]LOOK[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22:03 05][27:07 08][k2][22:03 04]COMANDO[k1][22:04 06]HABLA[nl]ÍTEMS[nl]MIRA[nl]VIGOR[22:05 19][27:14 02][k2][22:06 18]ALMA[22:0B 18]CORAJE[22:13 18]SUEÑO[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "1": {
+          "text_offset": "0xA667",
+          "pointer_offset": "0x9182",
+          "original": "[22:03 0F][27:08 02][22:03 0E]RUBY[22:06 10][02:A5 04][end]",
+          "translated": "[22:03 0F][27:08 02][22:03 0E]RUBÍS[22:06 10][02:A5 04][end]"
+        },
+        "2": {
+          "text_offset": "0xA67B",
+          "pointer_offset": "0x9184",
+          "original": "[22:09 03][27:04 04][22:0A 04]YES[nl]NO[end]",
+          "translated": "[22:09 03][27:04 04][22:0A 04]SÍ[nl]NO[end]"
+        },
+        "3": {
+          "text_offset": "0xA689",
+          "pointer_offset": "0x9186",
+          "original": "[22:11 05][27:06 04][22:12 06]USE[nl]LEAVE[end]",
+          "translated": "[22:11 05][27:06 04][22:12 06]USA[nl]DEJA[end]"
+        },
+        "4": {
+          "text_offset": "0xA699",
+          "pointer_offset": "0x9188",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{60:05}[nl][name]{62:05}[nl][name]{64:05}[nl][name]{66:05}[22:14 14][name]{61:05}[nl][name]{63:05}[nl][name]{65:05}[nl][name]{67:05}[end]"
+        },
+        "5": {
+          "text_offset": "0xA6CB",
+          "pointer_offset": "0x918A",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{68:05}[nl][name]{6A:05}[nl][name]{6C:05}[nl][name]{6E:05}[22:14 14][name]{69:05}[nl][name]{6B:05}[nl][name]{6D:05}[nl][name]{6F:05}[end]"
+        },
+        "6": {
+          "text_offset": "0xA6FD",
+          "pointer_offset": "0x918C",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{70:05}[nl][name]{72:05}[nl][name]{74:05}[nl][name]{76:05}[22:14 14][name]{71:05}[nl][name]{73:05}[nl][name]{75:05}[nl][name]{77:05}[end]"
+        },
+        "7": {
+          "text_offset": "0xA72F",
+          "pointer_offset": "0x918E",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{78:05}[nl][name]{7A:05}[nl][name]{7C:05}[nl][name]{7E:05}[22:14 14][name]{79:05}[nl][name]{7B:05}[nl][name]{7D:05}[nl][name]{7F:05}[end]"
+        },
+        "8": {
+          "text_offset": "0xA761",
+          "pointer_offset": "0x9190",
+          "original": "[22:09 13][27:14 08][22:0A 14][name]{60:05}[nl][name]{62:05}[nl][name]{64:05}[nl][name]{66:05}[22:14 14][name]{61:05}[nl][name]{63:05}[nl][name]{65:05}[nl][name]{67:05}[end]"
+        },
+        "9": {
+          "text_offset": "0xA78C",
+          "pointer_offset": "0x9192",
+          "original": "[22:05 19][27:14 02][k2][22:06 18]HOPE[22:0B 18]COURAGE[22:13 18]DREAM[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]",
+          "translated": "[22:05 19][27:14 02][k2][22:06 18]ALMA[22:0B 18]CORAJE[22:13 18]SUEÑO[22:07 1A][01:A0 04][22:0D 1A][02:A1 04][22:13 1A][02:A3 04][end]"
+        },
+        "10": {
+          "text_offset": "0xA7BB",
+          "pointer_offset": "0x9194",
+          "original": "[22:03 07][27:0C 0C][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][nl][01:42 05][nl][01:43 05][end]",
+          "translated": "[22:03 07][27:0C 0C][22:03 06][k2] ATACAR [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][nl][01:42 05][nl][01:43 05][end]"
+        },
+        "11": {
+          "text_offset": "0xA800",
+          "pointer_offset": "0x9196",
+          "original": "[22:03 07][27:0C 0A][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][nl][01:42 05][end]",
+          "translated": "[22:03 07][27:0C 0A][22:03 06][k2] ATACAR [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][nl][01:42 05][end]"
+        },
+        "12": {
+          "text_offset": "0xA83D",
+          "pointer_offset": "0x9198",
+          "original": "[22:03 07][27:0C 08][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][end]",
+          "translated": "[22:03 07][27:0C 08][22:03 06][k2] ATACAR [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][nl][01:41 05][end]"
+        },
+        "13": {
+          "text_offset": "0xA872",
+          "pointer_offset": "0x919A",
+          "original": "[22:03 07][27:0C 06][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][end]",
+          "translated": "[22:03 07][27:0C 06][22:03 06][k2] ATACAR [k1][22:03 08][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[22:0C 08][01:3E 05][nl][01:3F 05][nl][01:40 05][end]"
+        },
+        "14": {
+          "text_offset": "0xA89F",
+          "pointer_offset": "0x919C",
+          "original": "[22:03 07][27:0C 04][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[nl][name]{39:05}[22:0C 08][01:3E 05][nl][01:3F 05][end]",
+          "translated": "[22:03 07][27:0C 04][22:03 06][k2] ATACAR [k1][22:03 08][name]{38:05}[nl][name]{39:05}[22:0C 08][01:3E 05][nl][01:3F 05][end]"
+        },
+        "15": {
+          "text_offset": "0xA8C4",
+          "pointer_offset": "0x919E",
+          "original": "[22:03 07][27:0C 02][22:03 06][k2] ATTACK [k1][22:03 08][name]{38:05}[22:0C 08][01:3E 05][end]",
+          "translated": "[22:03 07][27:0C 02][22:03 06][k2] ATAQUE [k1][22:03 08][name]{38:05}[22:0C 08][01:3E 05][end]"
+        },
+        "16": {
+          "text_offset": "0xA8E1",
+          "pointer_offset": "0x91A0",
+          "original": "[22:03 13][27:06 04][22:03 12]MARIA[22:04 14]FIGHT[nl]RUN[end]",
+          "translated": "[22:03 13][27:06 04][22:03 12]MARIA[22:04 14]PELEA[nl]HUYE[end]"
+        },
+        "17": {
+          "text_offset": "0xA8F7",
+          "pointer_offset": "0x91A2",
+          "original": "[22:03 09][27:08 04][22:03 08][k2]POWER[k1][22:03 0A][name]{31:05}[22:08 0C][01:32 05][end]",
+          "translated": "[22:03 09][27:08 04][22:03 08][k2]PODER[k1][22:03 0A][name]{31:05}[22:08 0C][01:32 05][end]"
+        },
+        "18": {
+          "text_offset": "0xA912",
+          "pointer_offset": "0x91A4",
+          "original": "[22:03 13][27:08 04][22:03 12][k2][name]{31:05}[k1][22:04 14]DEFEND[nl]FIGHT[end]",
+          "translated": "[22:03 13][27:08 04][22:03 12][k2][name]{31:05}[k1][22:04 14]DEFIE.[nl]PELEA[end]"
+        },
+        "19": {
+          "text_offset": "0xA92B",
+          "pointer_offset": "0x91A6",
+          "original": "[22:03 0B][27:0C 08][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]",
+          "translated": "[22:03 0B][27:0C 08][22:03 0A] MAGIA [22:03 0C]ELFO[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "20": {
+          "text_offset": "0xA94D",
+          "pointer_offset": "0x91A8",
+          "original": "[22:03 0B][27:0C 06][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[end]",
+          "translated": "[22:03 0B][27:0C 06][22:03 0A] MAGIA [22:03 0C]ELFO[22:07 0E][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "21": {
+          "text_offset": "0xA96B",
+          "pointer_offset": "0x91AA",
+          "original": "[22:13 15][27:0A 06][22:13 14] ENEMY [22:14 16][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]",
+          "translated": "[22:13 15][27:0A 06][22:13 14]ENEMIGO[22:14 16][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "22": {
+          "text_offset": "0xA987",
+          "pointer_offset": "0x91AC",
+          "original": "[22:13 15][27:0A 04][22:13 14] ENEMY [22:14 16][name]{30:05}[nl][name]{31:05}[end]",
+          "translated": "[22:13 15][27:0A 04][22:13 14]ENEMIGO[22:14 16][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "23": {
+          "text_offset": "0xA99F",
+          "pointer_offset": "0x91AE",
+          "original": "[22:13 15][27:0A 02][22:13 14] ENEMY [22:14 16][name]{30:05}[end]",
+          "translated": "[22:13 15][27:0A 02][22:13 14]ENEMIGO[22:14 16][name]{30:05}[end]"
+        },
+        "24": {
+          "text_offset": "0xA9B3",
+          "pointer_offset": "0x91B0",
+          "original": "[22:03 0B][27:0C 0A][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]",
+          "translated": "[22:03 0B][27:0C 0A][22:03 0A] MAGIA [22:03 0C]ELFO[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]"
+        },
+        "25": {
+          "text_offset": "0xA9D9",
+          "pointer_offset": "0x91B2",
+          "original": "[22:03 13][27:0A 04][22:03 12][k2][name]{31:05}[k1][22:04 14]FIGHT[nl]DEFEND[end]",
+          "translated": "[22:03 13][27:0A 04][22:03 12][k2][name]{31:05}[k1][22:04 14]PELEA[nl]DEFIENDE[end]"
+        },
+        "26": {
+          "text_offset": "0xA9F2",
+          "pointer_offset": "0x91B4",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] [cross] [k1][22:0A 14][name]{38:05}[nl][name]{3A:05}[nl][name]{3C:05}[nl][name]{3E:05}[22:14 14][name]{39:05}[nl][name]{3B:05}[nl][name]{3D:05}[nl][name]{3F:05}[end]"
+        },
+        "27": {
+          "text_offset": "0xAA24",
+          "pointer_offset": "0x91B6",
+          "original": "[22:09 13][27:14 08][22:0A 14][name]{38:05}[nl][name]{3A:05}[nl][name]{3C:05}[nl][name]{3E:05}[22:14 14][name]{39:05}[nl][name]{3B:05}[nl][name]{3D:05}[nl][name]{3F:05}[end]"
+        },
+        "28": {
+          "text_offset": "0xAA4F",
+          "pointer_offset": "0x91B8",
+          "original": "[22:03 13][27:04 01][k2][22:04 13]TWANA[end]"
+        },
+        "29": {
+          "text_offset": "0xAA5D",
+          "pointer_offset": "0x91BA",
+          "original": "[22:11 07][27:0C 04][k2][22:11 06] DEFENSE [k1][22:11 08][name]{38:05}[nl][name]{39:05}[22:1A 08][01:3E 05][nl][01:3F 05][end]",
+          "translated": "[22:11 07][27:0C 04][k2][22:11 06] DEFENSA [k1][22:11 08][name]{38:05}[nl][name]{39:05}[22:1A 08][01:3E 05][nl][01:3F 05][end]"
+        },
+        "30": {
+          "text_offset": "0xAA82",
+          "pointer_offset": "0x91BC",
+          "original": "[22:11 07][27:0C 02][k2][22:11 06] DEFENSE [k1][22:11 08][name]{38:05}[22:1A 08][01:3E 05][end]",
+          "translated": "[22:11 07][27:0C 02][k2][22:11 06] DEFENSA [k1][22:11 08][name]{38:05}[22:1A 08][01:3E 05][end]"
+        },
+        "31": {
+          "text_offset": "0xAA9F",
+          "pointer_offset": "0x91BE",
+          "original": "[22:03 0B][27:0C 0E][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[nl][name]{35:05}[end]",
+          "translated": "[22:03 0B][27:0C 0E][22:03 0A] MAGIA [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[nl][name]{35:05}[end]"
+        },
+        "32": {
+          "text_offset": "0xAACD",
+          "pointer_offset": "0x91C0",
+          "original": "[22:03 0B][27:0C 0C][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]",
+          "translated": "[22:03 0B][27:0C 0C][22:03 0A] MAGIA [22:03 0C]ELF[22:07 0E][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]"
+        },
+        "33": {
+          "text_offset": "0xAAF7",
+          "pointer_offset": "0x91C2",
+          "original": "[22:09 13][27:14 08][22:09 12][k2] TWANA [k1][22:0A 14][name]{38:05}[nl][name]{3A:05}[nl][name]{3C:05}[nl][name]{3E:05}[22:14 14][name]{39:05}[nl][name]{3B:05}[nl][name]{3D:05}[nl][name]{3F:05}[end]"
+        },
+        "34": {
+          "text_offset": "0xAB2B",
+          "pointer_offset": "0x91C4",
+          "original": "[22:03 03][27:1A 02][k2][22:03 02] HOPE [22:06 04][01:A0 04][22:0A 02] COURAGE [22:09 04][02:A1 04][22:0E 04][slash][22:0F 04][05:38 05][22:14 02] DREAM [22:12 04][02:A3 04][22:17 04][slash][22:18 04][05:3A 05][end]",
+          "translated": "[22:03 03][27:1A 02][k2][22:03 02] ALMA [22:06 04][01:A0 04][22:0A 02] CORAJE [22:09 04][02:A1 04][22:0E 04][slash][22:0F 04][05:38 05][22:14 02] SUEÑO [22:12 04][02:A3 04][22:17 04][slash][22:18 04][05:3A 05][end]"
+        },
+        "35": {
+          "text_offset": "0xAB75",
+          "pointer_offset": "0x91C6",
+          "original": "[22:0F 03][27:0E 0A][22:10 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[22:18 04][02:3E 05][nl][02:40 05][nl][02:42 05][nl][02:44 05][nl][02:46 05][end]"
+        },
+        "36": {
+          "text_offset": "0xABA9",
+          "pointer_offset": "0x91C8",
+          "original": "[22:13 03][27:0A 02][22:14 04][name]{38:05}[end]"
+        },
+        "37": {
+          "text_offset": "0xABB6",
+          "pointer_offset": "0x91CA",
+          "original": "[22:13 03][27:0A 04][22:14 04][name]{38:05}[nl][name]{39:05}[end]"
+        },
+        "38": {
+          "text_offset": "0xABC7",
+          "pointer_offset": "0x91CC",
+          "original": "[22:13 03][27:0A 06][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[end]"
+        },
+        "39": {
+          "text_offset": "0xABDC",
+          "pointer_offset": "0x91CE",
+          "original": "[22:13 03][27:0A 08][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[end]"
+        },
+        "40": {
+          "text_offset": "0xABF5",
+          "pointer_offset": "0x91D0",
+          "original": "[22:13 03][27:0A 0A][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[end]"
+        },
+        "41": {
+          "text_offset": "0xAC12",
+          "pointer_offset": "0x91D2",
+          "original": "[22:13 03][27:0A 0C][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[end]"
+        },
+        "42": {
+          "text_offset": "0xAC33",
+          "pointer_offset": "0x91D4",
+          "original": "[22:13 03][27:0A 0E][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[nl][name]{3E:05}[end]"
+        },
+        "43": {
+          "text_offset": "0xAC58",
+          "pointer_offset": "0x91D6",
+          "original": "[22:13 03][27:0A 10][22:14 04][name]{38:05}[nl][name]{39:05}[nl][name]{3A:05}[nl][name]{3B:05}[nl][name]{3C:05}[nl][name]{3D:05}[nl][name]{3E:05}[nl][name]{3F:05}[end]"
+        },
+        "44": {
+          "text_offset": "0xAC81",
+          "pointer_offset": "0x91D8",
+          "original": "[22:0F 03][27:0E 06][22:10 04]EVIL KING 300[nl]ALKO     1000[nl]MODS     1700[end]",
+          "translated": "[22][end][03][27:0E 06][22:10 04]REY MAL   300[nl]ALKO     1000[nl]MODS     1700[end]"
+        },
+        "45": {
+          "text_offset": "0xACAA",
+          "pointer_offset": "0x91DA",
+          "original": "[22:15 09][27:08 06][22:15 08][k2] ENEMY [k1][22:15 0A][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]",
+          "translated": "[22:15 09][27:08 06][22:15 08][k2]ENEMIGO[k1][22:15 0A][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "46": {
+          "text_offset": "0xACC8",
+          "pointer_offset": "0x91DC",
+          "original": "[22:15 09][27:08 04][22:15 08][k2] ENEMY [k1][22:15 0A][name]{30:05}[nl][name]{31:05}[end]",
+          "translated": "[22:15 09][27:08 04][22:15 08][k2]ENEMIGO[k1][22:15 0A][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "47": {
+          "text_offset": "0xACE2",
+          "pointer_offset": "0x91DE",
+          "original": "[22:15 09][27:08 02][22:15 08][k2] ENEMY [k1][22:15 0A][name]{30:05}[end]",
+          "translated": "[22:15 09][27:08 02][22:15 08][k2]ENEMIGO[k1][22:15 0A][name]{30:05}[end]"
+        },
+        "48": {
+          "text_offset": "0xACF8",
+          "pointer_offset": "0x91E0",
+          "original": "[22:0C 12][27:0A 0A][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[end]",
+          "translated": "[22:0C 12][27:0A 0A][22:0C 11][k2]MAGIA[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[end]"
+        },
+        "49": {
+          "text_offset": "0xAD1E",
+          "pointer_offset": "0x91E2",
+          "original": "[22:0C 12][27:0A 08][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]",
+          "translated": "[22:0C 12][27:0A 08][22:0C 11][k2]MAGIA[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]"
+        },
+        "50": {
+          "text_offset": "0xAD40",
+          "pointer_offset": "0x91E4",
+          "original": "[22:0C 12][27:0A 06][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]",
+          "translated": "[22:0C 12][27:0A 06][22:0C 11][k2]MAGIA[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "51": {
+          "text_offset": "0xAD5E",
+          "pointer_offset": "0x91E6",
+          "original": "[22:0C 12][27:0A 04][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[end]",
+          "translated": "[22:0C 12][27:0A 04][22:0C 11][k2]MAGIA[k1][22:0D 13][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "52": {
+          "text_offset": "0xAD78",
+          "pointer_offset": "0x91E8",
+          "original": "[22:0C 12][27:0A 02][22:0C 11][k2]MAGIC[k1][22:0D 13][name]{30:05}[end]",
+          "translated": "[22:0C 12][27:0A 02][22:0C 11][k2]MAGIA[k1][22:0D 13][name]{30:05}[end]"
+        },
+        "53": {
+          "text_offset": "0xAD8E",
+          "pointer_offset": "0x91EA",
+          "original": "[22:03 0B][27:0C 04][22:03 0A] MAGIC [22:03 0C]ELF[22:07 0E][name]{30:05}[end]",
+          "translated": "[22:03 0B][27:0C 04][22:03 0A] MAGIA [22:03 0C]ELF[22:07 0E][name]{30:05}[end]"
+        },
+        "54": {
+          "text_offset": "0xADA8",
+          "pointer_offset": "0x91EC",
+          "original": "[22:03 0F][27:0C 0E][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[nl][name]{35:05}[end]",
+          "translated": "[22:03 0F][27:0C 0E][22:03 0E] MAGIA [22:03 10]GNOMO[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[nl][name]{35:05}[end]"
+        },
+        "55": {
+          "text_offset": "0xADD7",
+          "pointer_offset": "0x91EE",
+          "original": "[22:03 0F][27:0C 0C][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]",
+          "translated": "[22:03 0F][27:0C 0C][22:03 0E] MAGIA [22:03 10]GNOMO[22:07 12][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[nl][name]{34:05}[end]"
+        },
+        "56": {
+          "text_offset": "0xAE02",
+          "pointer_offset": "0x91F0",
+          "original": "[22:03 0F][27:0C 0A][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]",
+          "translated": "[22:03 0F][27:0C 0A][22:03 0E] MAGIA [22:03 10]GNOMO[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[nl][name]{33:05}[end]"
+        },
+        "57": {
+          "text_offset": "0xAE29",
+          "pointer_offset": "0x91F2",
+          "original": "[22:03 0F][27:0C 08][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]",
+          "translated": "[22:03 0F][27:0C 08][22:03 0E] MAGIA [22:03 10]GNOMO[22:07 12][name]{30:05}[nl][name]{31:05}[nl][name]{32:05}[end]"
+        },
+        "58": {
+          "text_offset": "0xAE4C",
+          "pointer_offset": "0x91F4",
+          "original": "[22:03 0F][27:0C 06][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[nl][name]{31:05}[end]",
+          "translated": "[22:03 0F][27:0C 06][22:03 0E] MAGIA [22:03 10]GNOMO[22:07 12][name]{30:05}[nl][name]{31:05}[end]"
+        },
+        "59": {
+          "text_offset": "0xAE6B",
+          "pointer_offset": "0x91F6",
+          "original": "[22:03 0F][27:0C 04][22:03 0E] MAGIC [22:03 10]GNOME[22:07 12][name]{30:05}[end]",
+          "translated": "[22:03 0F][27:0C 04][22:03 0E] MAGIA [22:03 10]GNOMO[22:07 12][name]{30:05}[end]"
+        },
+        "60": {
+          "text_offset": "0xAE86",
+          "pointer_offset": "0x91F8",
+          "original": "[22:09 12][27:14 0A][22:09 11][k2]SPIRIT[k1][22:0A 13][name]{60:05}[nl][name]{62:05}[nl][name]{64:05}[nl][name]{66:05}[nl][name]{68:05}[22:14 13][name]{61:05}[nl][name]{63:05}[nl][name]{65:05}[nl][name]{67:05}[nl][name]{69:05}[end]",
+          "translated": "[22:09 12][27:14 0A][22:09 11][k2]ESPÍRITU[k1][22:0A 13][name]{60:05}[nl][name]{62:05}[nl][name]{64:05}[nl][name]{66:05}[nl][name]{68:05}[22:14 13][name]{61:05}[nl][name]{63:05}[nl][name]{65:05}[nl][name]{67:05}[nl][name]{69:05}[end]"
+        },
+        "61": {
+          "text_offset": "0xAEC2",
+          "pointer_offset": "0x91FA",
+          "original": "[22:05 17][27:06 04][22:05 16]GOODS[22:06 18]TOOLS[nl]CALL[end]",
+          "translated": "[22:05 17][27:06 04][22:05 16]ÍTEMS[22:06 18]ÚTIL[nl]LLAMA[end]"
+        },
+        "62": {
+          "text_offset": "0xAED8",
+          "pointer_offset": "0x91FC",
+          "original": "[22:03 13][27:08 04][22:03 12][k2][name]{31:05}[k1][22:04 14]MAGIC[nl]DEFEND[end]",
+          "translated": "[22:03 13][27:08 04][22:03 12][k2][name]{31:05}[k1][22:04 14]MAGIA[nl]DEFIE.[end]"
+        },
+        "63": {
+          "text_offset": "0xAEF2",
+          "pointer_offset": "0x91FE",
+          "original": "[end]"
+        }
+      }
+    },
+    "bank4_B800": {
+      "text_address": "0xB800(b4)",
+      "pointer_address": "0xB800",
+      "method": "plain_glyphs_8byte",
+      "note": "item (0x00-0x2B) / enemy (0x31-0x58) / spell (0x59-0x70) / character-race (0x80-0x8B) names, bank4 fixed 8-byte slots (name id = slot index, addr = id*8+$B800, max 8 glyphs). Slots 0x8C-0xFF are binary data (not text) and are NOT extracted.",
+      "messages": {
+        "0": {
+          "text_offset": "0xB800",
+          "pointer_offset": "0xB800",
+          "original": ""
+        },
+        "1": {
+          "text_offset": "0xB808",
+          "pointer_offset": "0xB808",
+          "original": "LAMP",
+          "translated": "LÁMPARA"
+        },
+        "2": {
+          "text_offset": "0xB810",
+          "pointer_offset": "0xB810",
+          "original": "SPEAR",
+          "translated": "LANZA"
+        },
+        "3": {
+          "text_offset": "0xB818",
+          "pointer_offset": "0xB818",
+          "original": "RAPIER",
+          "translated": "ESTOQUE"
+        },
+        "4": {
+          "text_offset": "0xB820",
+          "pointer_offset": "0xB820",
+          "original": "MAGICAXE",
+          "translated": "HACHA M."
+        },
+        "5": {
+          "text_offset": "0xB828",
+          "pointer_offset": "0xB828",
+          "original": "S. CUP",
+          "translated": "COPA PL."
+        },
+        "6": {
+          "text_offset": "0xB830",
+          "pointer_offset": "0xB830",
+          "original": "GOLDROCK",
+          "translated": "ROCA ORO"
+        },
+        "7": {
+          "text_offset": "0xB838",
+          "pointer_offset": "0xB838",
+          "original": "BROOMS",
+          "translated": "ESCOBA"
+        },
+        "8": {
+          "text_offset": "0xB840",
+          "pointer_offset": "0xB840",
+          "original": "ROCKWING",
+          "translated": "ALA ROCA"
+        },
+        "9": {
+          "text_offset": "0xB848",
+          "pointer_offset": "0xB848",
+          "original": "P-WINGS",
+          "translated": "ALAS PI."
+        },
+        "10": {
+          "text_offset": "0xB850",
+          "pointer_offset": "0xB850",
+          "original": "CRYSTAL",
+          "translated": "CRISTAL"
+        },
+        "11": {
+          "text_offset": "0xB858",
+          "pointer_offset": "0xB858",
+          "original": "RED RING",
+          "translated": "ANI.ROJO"
+        },
+        "12": {
+          "text_offset": "0xB860",
+          "pointer_offset": "0xB860",
+          "original": "SLUG",
+          "translated": "BABOSA"
+        },
+        "13": {
+          "text_offset": "0xB868",
+          "pointer_offset": "0xB868",
+          "original": "FROG",
+          "translated": "RANA"
+        },
+        "14": {
+          "text_offset": "0xB870",
+          "pointer_offset": "0xB870",
+          "original": "GLASSES",
+          "translated": "GAFAS"
+        },
+        "15": {
+          "text_offset": "0xB878",
+          "pointer_offset": "0xB878",
+          "original": "MUSICBOX",
+          "translated": "CAJA MÚ."
+        },
+        "16": {
+          "text_offset": "0xB880",
+          "pointer_offset": "0xB880",
+          "original": "WOOD KEY",
+          "translated": "L.MADERA"
+        },
+        "17": {
+          "text_offset": "0xB888",
+          "pointer_offset": "0xB888",
+          "original": "GOLD KEY",
+          "translated": "L.ORO"
+        },
+        "18": {
+          "text_offset": "0xB890",
+          "pointer_offset": "0xB890",
+          "original": "STARDUST",
+          "translated": "POLVO E."
+        },
+        "19": {
+          "text_offset": "0xB898",
+          "pointer_offset": "0xB898",
+          "original": "DOG'SEYE",
+          "translated": "OJOPERRO"
+        },
+        "20": {
+          "text_offset": "0xB8A0",
+          "pointer_offset": "0xB8A0",
+          "original": "HORN",
+          "translated": "CUERNO"
+        },
+        "21": {
+          "text_offset": "0xB8A8",
+          "pointer_offset": "0xB8A8",
+          "original": "WATERJUG",
+          "translated": "JAR.AGUA"
+        },
+        "22": {
+          "text_offset": "0xB8B0",
+          "pointer_offset": "0xB8B0",
+          "original": "WATER",
+          "translated": "AGUA"
+        },
+        "23": {
+          "text_offset": "0xB8B8",
+          "pointer_offset": "0xB8B8",
+          "original": "OLDCROWN",
+          "translated": "V.CORONA"
+        },
+        "24": {
+          "text_offset": "0xB8C0",
+          "pointer_offset": "0xB8C0",
+          "original": "ICESHOES",
+          "translated": "BOTAS H."
+        },
+        "25": {
+          "text_offset": "0xB8C8",
+          "pointer_offset": "0xB8C8",
+          "original": "KLEINJUG",
+          "translated": "JA.KLEIN"
+        },
+        "26": {
+          "text_offset": "0xB8D0",
+          "pointer_offset": "0xB8D0",
+          "original": "ARROW",
+          "translated": "FLECHA"
+        },
+        "27": {
+          "text_offset": "0xB8D8",
+          "pointer_offset": "0xB8D8",
+          "original": "ROPE",
+          "translated": "CUERDA"
+        },
+        "28": {
+          "text_offset": "0xB8E0",
+          "pointer_offset": "0xB8E0",
+          "original": "STATUE",
+          "translated": "ESTATUA"
+        },
+        "29": {
+          "text_offset": "0xB8E8",
+          "pointer_offset": "0xB8E8",
+          "original": "B-DAGGER",
+          "translated": "DAGA BR."
+        },
+        "30": {
+          "text_offset": "0xB8F0",
+          "pointer_offset": "0xB8F0",
+          "original": "DOLL",
+          "translated": "MUÑECA"
+        },
+        "31": {
+          "text_offset": "0xB8F8",
+          "pointer_offset": "0xB8F8",
+          "original": "LETTER",
+          "translated": "CARTA"
+        },
+        "32": {
+          "text_offset": "0xB900",
+          "pointer_offset": "0xB900",
+          "original": "BREAD",
+          "translated": "PAN"
+        },
+        "33": {
+          "text_offset": "0xB908",
+          "pointer_offset": "0xB908",
+          "original": "TEAR",
+          "translated": "LÁGRIMA"
+        },
+        "34": {
+          "text_offset": "0xB910",
+          "pointer_offset": "0xB910",
+          "original": "BOMB",
+          "translated": "BOMBA"
+        },
+        "35": {
+          "text_offset": "0xB918",
+          "pointer_offset": "0xB918",
+          "original": "BLUERING",
+          "translated": "ANI.AZUL"
+        },
+        "36": {
+          "text_offset": "0xB920",
+          "pointer_offset": "0xB920",
+          "original": "CLUB",
+          "translated": "MAZA"
+        },
+        "37": {
+          "text_offset": "0xB928",
+          "pointer_offset": "0xB928",
+          "original": "DAGGER",
+          "translated": "DAGA"
+        },
+        "38": {
+          "text_offset": "0xB930",
+          "pointer_offset": "0xB930",
+          "original": "S-SWORD",
+          "translated": "ES.CORTA"
+        },
+        "39": {
+          "text_offset": "0xB938",
+          "pointer_offset": "0xB938",
+          "original": "WHIP",
+          "translated": "LÁTIGO"
+        },
+        "40": {
+          "text_offset": "0xB940",
+          "pointer_offset": "0xB940",
+          "original": "L-SWORD",
+          "translated": "ES.LARGA"
+        },
+        "41": {
+          "text_offset": "0xB948",
+          "pointer_offset": "0xB948",
+          "original": "AURORA",
+          "translated": "AURORA"
+        },
+        "42": {
+          "text_offset": "0xB950",
+          "pointer_offset": "0xB950",
+          "original": "WHIP",
+          "translated": "LÁTIGO"
+        },
+        "43": {
+          "text_offset": "0xB958",
+          "pointer_offset": "0xB958",
+          "original": "F-SWORD",
+          "translated": "E.BRILLO"
+        },
+        "44": {
+          "text_offset": "0xB960",
+          "pointer_offset": "0xB960",
+          "original": ""
+        },
+        "45": {
+          "text_offset": "0xB968",
+          "pointer_offset": "0xB968",
+          "original": ""
+        },
+        "46": {
+          "text_offset": "0xB970",
+          "pointer_offset": "0xB970",
+          "original": ""
+        },
+        "47": {
+          "text_offset": "0xB978",
+          "pointer_offset": "0xB978",
+          "original": ""
+        },
+        "48": {
+          "text_offset": "0xB980",
+          "pointer_offset": "0xB980",
+          "original": ""
+        },
+        "49": {
+          "text_offset": "0xB988",
+          "pointer_offset": "0xB988",
+          "original": "W. LION",
+          "translated": "LEÓN BL."
+        },
+        "50": {
+          "text_offset": "0xB990",
+          "pointer_offset": "0xB990",
+          "original": "GOBLIN",
+          "translated": "TRASGO"
+        },
+        "51": {
+          "text_offset": "0xB998",
+          "pointer_offset": "0xB998",
+          "original": "HUGESLUG",
+          "translated": "G.BABOSA"
+        },
+        "52": {
+          "text_offset": "0xB9A0",
+          "pointer_offset": "0xB9A0",
+          "original": "DRAGON",
+          "translated": "DRAGÓN"
+        },
+        "53": {
+          "text_offset": "0xB9A8",
+          "pointer_offset": "0xB9A8",
+          "original": "HYDRA",
+          "translated": "HIDRA"
+        },
+        "54": {
+          "text_offset": "0xB9B0",
+          "pointer_offset": "0xB9B0",
+          "original": "HUGEFROG",
+          "translated": "GRA.RANA"
+        },
+        "55": {
+          "text_offset": "0xB9B8",
+          "pointer_offset": "0xB9B8",
+          "original": "ZOMBIE",
+          "translated": "ZOMBI"
+        },
+        "56": {
+          "text_offset": "0xB9C0",
+          "pointer_offset": "0xB9C0",
+          "original": "GOLEM",
+          "translated": "GÓLEM"
+        },
+        "57": {
+          "text_offset": "0xB9C8",
+          "pointer_offset": "0xB9C8",
+          "original": "KOBOLD",
+          "translated": "KOBOLD"
+        },
+        "58": {
+          "text_offset": "0xB9D0",
+          "pointer_offset": "0xB9D0",
+          "original": "SKELETON",
+          "translated": "ESQUELE."
+        },
+        "59": {
+          "text_offset": "0xB9D8",
+          "pointer_offset": "0xB9D8",
+          "original": "ORC",
+          "translated": "ORCO"
+        },
+        "60": {
+          "text_offset": "0xB9E0",
+          "pointer_offset": "0xB9E0",
+          "original": "WEREWOLF",
+          "translated": "HOM.LOBO"
+        },
+        "61": {
+          "text_offset": "0xB9E8",
+          "pointer_offset": "0xB9E8",
+          "original": "KINGWOLF",
+          "translated": "REY LOBO"
+        },
+        "62": {
+          "text_offset": "0xB9F0",
+          "pointer_offset": "0xB9F0",
+          "original": "PIXIE",
+          "translated": "PIXIE"
+        },
+        "63": {
+          "text_offset": "0xB9F8",
+          "pointer_offset": "0xB9F8",
+          "original": "SPRITE",
+          "translated": "DUENDE"
+        },
+        "64": {
+          "text_offset": "0xBA00",
+          "pointer_offset": "0xBA00",
+          "original": "HILTROLL",
+          "translated": "TROL CO."
+        },
+        "65": {
+          "text_offset": "0xBA08",
+          "pointer_offset": "0xBA08",
+          "original": "GHOUL",
+          "translated": "GUL"
+        },
+        "66": {
+          "text_offset": "0xBA10",
+          "pointer_offset": "0xBA10",
+          "original": "HOB",
+          "translated": "PÍCARO"
+        },
+        "67": {
+          "text_offset": "0xBA18",
+          "pointer_offset": "0xBA18",
+          "original": "CLAY",
+          "translated": "ARCILLA"
+        },
+        "68": {
+          "text_offset": "0xBA20",
+          "pointer_offset": "0xBA20",
+          "original": "GHOST",
+          "translated": "FANTASMA"
+        },
+        "69": {
+          "text_offset": "0xBA28",
+          "pointer_offset": "0xBA28",
+          "original": "SPIRIT",
+          "translated": "ESPÍRITU"
+        },
+        "70": {
+          "text_offset": "0xBA30",
+          "pointer_offset": "0xBA30",
+          "original": "TROLL",
+          "translated": "TROL"
+        },
+        "71": {
+          "text_offset": "0xBA38",
+          "pointer_offset": "0xBA38",
+          "original": "ROCK",
+          "translated": "ROCA"
+        },
+        "72": {
+          "text_offset": "0xBA40",
+          "pointer_offset": "0xBA40",
+          "original": "GEIST",
+          "translated": "ÁNIMA"
+        },
+        "73": {
+          "text_offset": "0xBA48",
+          "pointer_offset": "0xBA48",
+          "original": "DRUZE",
+          "translated": "DRUSO"
+        },
+        "74": {
+          "text_offset": "0xBA50",
+          "pointer_offset": "0xBA50",
+          "original": "MANTICOA",
+          "translated": "MANTÍC."
+        },
+        "75": {
+          "text_offset": "0xBA58",
+          "pointer_offset": "0xBA58",
+          "original": "IFLEET",
+          "translated": "ÍFRIT"
+        },
+        "76": {
+          "text_offset": "0xBA60",
+          "pointer_offset": "0xBA60",
+          "original": "IRON",
+          "translated": "HIERRO"
+        },
+        "77": {
+          "text_offset": "0xBA68",
+          "pointer_offset": "0xBA68",
+          "original": "SPECTER",
+          "translated": "ESPECTRO"
+        },
+        "78": {
+          "text_offset": "0xBA70",
+          "pointer_offset": "0xBA70",
+          "original": "ODICK",
+          "translated": "ODICK"
+        },
+        "79": {
+          "text_offset": "0xBA78",
+          "pointer_offset": "0xBA78",
+          "original": "WIGHT",
+          "translated": "TUMULAR."
+        },
+        "80": {
+          "text_offset": "0xBA80",
+          "pointer_offset": "0xBA80",
+          "original": "DAVIS",
+          "translated": "DAVIS"
+        },
+        "81": {
+          "text_offset": "0xBA88",
+          "pointer_offset": "0xBA88",
+          "original": "PIXIE",
+          "translated": "PIXIE"
+        },
+        "82": {
+          "text_offset": "0xBA90",
+          "pointer_offset": "0xBA90",
+          "original": "BATH",
+          "translated": "BATH"
+        },
+        "83": {
+          "text_offset": "0xBA98",
+          "pointer_offset": "0xBA98",
+          "original": "FAIRY",
+          "translated": "HADA"
+        },
+        "84": {
+          "text_offset": "0xBAA0",
+          "pointer_offset": "0xBAA0",
+          "original": "MIA",
+          "translated": "MIA"
+        },
+        "85": {
+          "text_offset": "0xBAA8",
+          "pointer_offset": "0xBAA8",
+          "original": "RATAL",
+          "translated": "RATAL"
+        },
+        "86": {
+          "text_offset": "0xBAB0",
+          "pointer_offset": "0xBAB0",
+          "original": "TANYA",
+          "translated": "TANYA"
+        },
+        "87": {
+          "text_offset": "0xBAB8",
+          "pointer_offset": "0xBAB8",
+          "original": "THEA",
+          "translated": "THEA"
+        },
+        "88": {
+          "text_offset": "0xBAC0",
+          "pointer_offset": "0xBAC0",
+          "original": ""
+        },
+        "89": {
+          "text_offset": "0xBAC8",
+          "pointer_offset": "0xBAC8",
+          "original": "FLASH",
+          "translated": "DESTELLO"
+        },
+        "90": {
+          "text_offset": "0xBAD0",
+          "pointer_offset": "0xBAD0",
+          "original": "NEEDLE",
+          "translated": "AGUJA"
+        },
+        "91": {
+          "text_offset": "0xBAD8",
+          "pointer_offset": "0xBAD8",
+          "original": "DARK",
+          "translated": "OSCURO"
+        },
+        "92": {
+          "text_offset": "0xBAE0",
+          "pointer_offset": "0xBAE0",
+          "original": "BOMB",
+          "translated": "BOMBA"
+        },
+        "93": {
+          "text_offset": "0xBAE8",
+          "pointer_offset": "0xBAE8",
+          "original": "S-PLATE",
+          "translated": "PLACA P."
+        },
+        "94": {
+          "text_offset": "0xBAF0",
+          "pointer_offset": "0xBAF0",
+          "original": "SLEEP",
+          "translated": "DORMIR"
+        },
+        "95": {
+          "text_offset": "0xBAF8",
+          "pointer_offset": "0xBAF8",
+          "original": "POISON",
+          "translated": "VENENO"
+        },
+        "96": {
+          "text_offset": "0xBB00",
+          "pointer_offset": "0xBB00",
+          "original": "L-PLATE",
+          "translated": "PLACA G."
+        },
+        "97": {
+          "text_offset": "0xBB08",
+          "pointer_offset": "0xBB08",
+          "original": "WING",
+          "translated": "ALA"
+        },
+        "98": {
+          "text_offset": "0xBB10",
+          "pointer_offset": "0xBB10",
+          "original": "FLARE",
+          "translated": "FULGOR"
+        },
+        "99": {
+          "text_offset": "0xBB18",
+          "pointer_offset": "0xBB18",
+          "original": "PROOF",
+          "translated": "ESCUDO"
+        },
+        "100": {
+          "text_offset": "0xBB20",
+          "pointer_offset": "0xBB20",
+          "original": "HOLD",
+          "translated": "AGARRE"
+        },
+        "101": {
+          "text_offset": "0xBB28",
+          "pointer_offset": "0xBB28",
+          "original": "STORM",
+          "translated": "TORMENTA"
+        },
+        "102": {
+          "text_offset": "0xBB30",
+          "pointer_offset": "0xBB30",
+          "original": "SHADOW",
+          "translated": "SOMBRA"
+        },
+        "103": {
+          "text_offset": "0xBB38",
+          "pointer_offset": "0xBB38",
+          "original": "CRUSH",
+          "translated": "APLASTAR"
+        },
+        "104": {
+          "text_offset": "0xBB40",
+          "pointer_offset": "0xBB40",
+          "original": "S-PLATE",
+          "translated": "PLACA P."
+        },
+        "105": {
+          "text_offset": "0xBB48",
+          "pointer_offset": "0xBB48",
+          "original": "H-STORM",
+          "translated": "TO.ÍGNEA"
+        },
+        "106": {
+          "text_offset": "0xBB50",
+          "pointer_offset": "0xBB50",
+          "original": "M-PLATE",
+          "translated": "PLACA M."
+        },
+        "107": {
+          "text_offset": "0xBB58",
+          "pointer_offset": "0xBB58",
+          "original": "RETURN",
+          "translated": "VOLVER"
+        },
+        "108": {
+          "text_offset": "0xBB60",
+          "pointer_offset": "0xBB60",
+          "original": "DESTROY",
+          "translated": "DESTRUIR"
+        },
+        "109": {
+          "text_offset": "0xBB68",
+          "pointer_offset": "0xBB68",
+          "original": "BARRIER",
+          "translated": "BARRERA"
+        },
+        "110": {
+          "text_offset": "0xBB70",
+          "pointer_offset": "0xBB70",
+          "original": "THUNDER",
+          "translated": "TRUENO"
+        },
+        "111": {
+          "text_offset": "0xBB78",
+          "pointer_offset": "0xBB78",
+          "original": "ASH",
+          "translated": "CENIZA"
+        },
+        "112": {
+          "text_offset": "0xBB80",
+          "pointer_offset": "0xBB80",
+          "original": "SHOUT",
+          "translated": "GRITO"
+        },
+        "113": {
+          "text_offset": "0xBB88",
+          "pointer_offset": "0xBB88",
+          "original": ""
+        },
+        "114": {
+          "text_offset": "0xBB90",
+          "pointer_offset": "0xBB90",
+          "original": ""
+        },
+        "115": {
+          "text_offset": "0xBB98",
+          "pointer_offset": "0xBB98",
+          "original": ""
+        },
+        "116": {
+          "text_offset": "0xBBA0",
+          "pointer_offset": "0xBBA0",
+          "original": ""
+        },
+        "117": {
+          "text_offset": "0xBBA8",
+          "pointer_offset": "0xBBA8",
+          "original": ""
+        },
+        "118": {
+          "text_offset": "0xBBB0",
+          "pointer_offset": "0xBBB0",
+          "original": ""
+        },
+        "119": {
+          "text_offset": "0xBBB8",
+          "pointer_offset": "0xBBB8",
+          "original": ""
+        },
+        "120": {
+          "text_offset": "0xBBC0",
+          "pointer_offset": "0xBBC0",
+          "original": ""
+        },
+        "121": {
+          "text_offset": "0xBBC8",
+          "pointer_offset": "0xBBC8",
+          "original": ""
+        },
+        "122": {
+          "text_offset": "0xBBD0",
+          "pointer_offset": "0xBBD0",
+          "original": ""
+        },
+        "123": {
+          "text_offset": "0xBBD8",
+          "pointer_offset": "0xBBD8",
+          "original": ""
+        },
+        "124": {
+          "text_offset": "0xBBE0",
+          "pointer_offset": "0xBBE0",
+          "original": ""
+        },
+        "125": {
+          "text_offset": "0xBBE8",
+          "pointer_offset": "0xBBE8",
+          "original": ""
+        },
+        "126": {
+          "text_offset": "0xBBF0",
+          "pointer_offset": "0xBBF0",
+          "original": ""
+        },
+        "127": {
+          "text_offset": "0xBBF8",
+          "pointer_offset": "0xBBF8",
+          "original": ""
+        },
+        "128": {
+          "text_offset": "0xBC00",
+          "pointer_offset": "0xBC00",
+          "original": "MARIA",
+          "translated": "MARIA"
+        },
+        "129": {
+          "text_offset": "0xBC08",
+          "pointer_offset": "0xBC08",
+          "original": "MOJA",
+          "translated": "MOJA"
+        },
+        "130": {
+          "text_offset": "0xBC10",
+          "pointer_offset": "0xBC10",
+          "original": "TWANA",
+          "translated": "TWANA"
+        },
+        "131": {
+          "text_offset": "0xBC18",
+          "pointer_offset": "0xBC18",
+          "original": "HALFLING",
+          "translated": "MEDIANO"
+        },
+        "132": {
+          "text_offset": "0xBC20",
+          "pointer_offset": "0xBC20",
+          "original": "ELF",
+          "translated": "ELFO"
+        },
+        "133": {
+          "text_offset": "0xBC28",
+          "pointer_offset": "0xBC28",
+          "original": "WING MAN",
+          "translated": "H.ALADO"
+        },
+        "134": {
+          "text_offset": "0xBC30",
+          "pointer_offset": "0xBC30",
+          "original": "DWARF",
+          "translated": "ENANO"
+        },
+        "135": {
+          "text_offset": "0xBC38",
+          "pointer_offset": "0xBC38",
+          "original": "CENTAUR",
+          "translated": "CENTAURO"
+        },
+        "136": {
+          "text_offset": "0xBC40",
+          "pointer_offset": "0xBC40",
+          "original": "GNOME",
+          "translated": "GNOMO"
+        },
+        "137": {
+          "text_offset": "0xBC48",
+          "pointer_offset": "0xBC48",
+          "original": "GIANT",
+          "translated": "GIGANTE"
+        },
+        "138": {
+          "text_offset": "0xBC50",
+          "pointer_offset": "0xBC50",
+          "original": "HUGESLUG",
+          "translated": "G.BABOSA"
+        },
+        "139": {
+          "text_offset": "0xBC58",
+          "pointer_offset": "0xBC58",
+          "original": "HUGEFROG",
+          "translated": "RANA GI."
+        }
+      }
+    }
+  }
+}

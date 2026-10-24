@@ -1,0 +1,451 @@
+{
+  "schema": 1,
+  "comment": "Creditos finales (STAFF) y pantalla de resultados (TOTAL POWER STARS) con su fuente 4bpp propia (LZ 0x064509). Se decodifica con credits_extract.tbl. El texto es una name table cruda; cada mensaje respeta la longitud exacta del campo original (los subrangos se copian con LDIR).",
+  "blocks": {
+    "results_pool": {
+      "text_address": "0x064767",
+      "pointer_address": "0x000000",
+      "bank": "0x19",
+      "method": "raw_patch",
+      "table": "credits",
+      "note": "Name table cruda (glifo + atributo). No tocar el byte de atributo ni los marcos [02]. Los campos de longitud fija se rellenan con espacios si la traduccion es mas corta.",
+      "entry_size": 2,
+      "attribute": "0x00",
+      "cells": 17,
+      "messages": {
+        "0": {
+          "text_offset": "0x064767",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064767",
+          "cells": 17,
+          "original": "TOTAL POWER STARS"
+        },
+        "1": {
+          "text_offset": "0x064789",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064767",
+          "cells": 8,
+          "original": "NO BONUS"
+        },
+        "2": {
+          "text_offset": "0x064799",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064767",
+          "cells": 11,
+          "original": "TRIES BONUS"
+        },
+        "3": {
+          "text_offset": "0x0647AF",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064767",
+          "cells": 11,
+          "original": " YOUR SCORE"
+        },
+        "4": {
+          "text_offset": "0x0647C5",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064767",
+          "cells": 11,
+          "original": "   HI-SCORE"
+        }
+      }
+    },
+    "cast_staff": {
+      "text_address": "0x064843",
+      "pointer_address": "0x000000",
+      "bank": "0x19",
+      "method": "raw_patch",
+      "table": "credits",
+      "note": "Name table cruda (glifo + atributo). No tocar el byte de atributo ni los marcos [02]. Los campos de longitud fija se rellenan con espacios si la traduccion es mas corta.",
+      "entry_size": 2,
+      "attribute": "0x00",
+      "cells": 24,
+      "messages": {
+        "0": {
+          "text_offset": "0x064844",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "          LAND          "
+        },
+        "1": {
+          "text_offset": "0x064876",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "           OF           "
+        },
+        "2": {
+          "text_offset": "0x0648A8",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "        ILLUSION        "
+        },
+        "3": {
+          "text_offset": "0x0648E5",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "          CAST          "
+        },
+        "4": {
+          "text_offset": "0x064919",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "      MICKEY MOUSE      "
+        },
+        "5": {
+          "text_offset": "0x06494C",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "      MINNIE MOUSE      "
+        },
+        "6": {
+          "text_offset": "0x06497F",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "      DONALD DUCK       "
+        },
+        "7": {
+          "text_offset": "0x0649B2",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "       DAISY DUCK       "
+        },
+        "8": {
+          "text_offset": "0x0649E5",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "         GOOFY          "
+        },
+        "9": {
+          "text_offset": "0x064A18",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "   HORACE HORSECOLLAR   "
+        },
+        "10": {
+          "text_offset": "0x064A59",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "         STAFF          "
+        },
+        "11": {
+          "text_offset": "0x064A92",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "     MAIN PROGRAMER     "
+        },
+        "12": {
+          "text_offset": "0x064AC5",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "       TAKU SHOJI       "
+        },
+        "13": {
+          "text_offset": "0x064AFC",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "    OBJECT PROGRAMER    "
+        },
+        "14": {
+          "text_offset": "0x064B2F",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "       JUNJY SIVA       "
+        },
+        "15": {
+          "text_offset": "0x064B66",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "MESSAGE SCREEN PROGRAMER"
+        },
+        "16": {
+          "text_offset": "0x064B99",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "        Y.HIRAI         "
+        },
+        "17": {
+          "text_offset": "0x064BD0",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "         ARTIST         "
+        },
+        "18": {
+          "text_offset": "0x064C03",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "     CHOKO KAWAGUCHI    "
+        },
+        "19": {
+          "text_offset": "0x064C3A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "   BACKGROUND ARTIST    "
+        },
+        "20": {
+          "text_offset": "0x064C6D",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "       GEN ADACHI       "
+        },
+        "21": {
+          "text_offset": "0x064C9F",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "     CHOKO KAWAGUCHI    "
+        },
+        "22": {
+          "text_offset": "0x064CD1",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "      IHSAKAT EMUK      "
+        },
+        "23": {
+          "text_offset": "0x064D08",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "    SOUND PROGRAMER     "
+        },
+        "24": {
+          "text_offset": "0x064D3B",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "        T.SAWADA        "
+        },
+        "25": {
+          "text_offset": "0x064D72",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "    SOUND COMPOSERS     "
+        },
+        "26": {
+          "text_offset": "0x064DA5",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "        T.SAWADA        "
+        },
+        "27": {
+          "text_offset": "0x064DD7",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "        P.CHUNG         "
+        },
+        "28": {
+          "text_offset": "0x064E09",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "          IPPO          "
+        },
+        "29": {
+          "text_offset": "0x064E40",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "     GAME DESIGNERS     "
+        },
+        "30": {
+          "text_offset": "0x064E73",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "     YOSHIO YOSHIDA     "
+        },
+        "31": {
+          "text_offset": "0x064EA5",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "        GO SUGAI        "
+        },
+        "32": {
+          "text_offset": "0x064EDC",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "        DIRECTOR        "
+        },
+        "33": {
+          "text_offset": "0x064F0F",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "     YOSHIO YOSHIDA     "
+        },
+        "34": {
+          "text_offset": "0x064F46",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "  WALT DISNEY PRODUCER  "
+        },
+        "35": {
+          "text_offset": "0x064F79",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "    PATRICK GILMORE     "
+        },
+        "36": {
+          "text_offset": "0x064FB0",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "   SPECIAL THANKS TO    "
+        },
+        "37": {
+          "text_offset": "0x064FE3",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "          LLG           "
+        },
+        "38": {
+          "text_offset": "0x065015",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "         M.WAKA         "
+        },
+        "39": {
+          "text_offset": "0x065047",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "         YUICHIM        "
+        },
+        "40": {
+          "text_offset": "0x065079",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "         RAIZOU         "
+        },
+        "41": {
+          "text_offset": "0x0650AB",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "         F.MIKE         "
+        },
+        "42": {
+          "text_offset": "0x0650DD",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "          REI           "
+        },
+        "43": {
+          "text_offset": "0x06510F",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "          BERT          "
+        },
+        "44": {
+          "text_offset": "0x065141",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "     MICHAEL SPAHN      "
+        },
+        "45": {
+          "text_offset": "0x065173",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "          RAIHI         "
+        },
+        "46": {
+          "text_offset": "0x0651A5",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "      NICE GAISU---     "
+        },
+        "47": {
+          "text_offset": "0x0651D7",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064843",
+          "cells": 24,
+          "original": "       YOSIRA SAMA      "
+        }
+      }
+    },
+    "ending_results": {
+      "text_address": "0x06521E",
+      "pointer_address": "0x000000",
+      "bank": "0x19",
+      "method": "raw_patch",
+      "table": "credits",
+      "note": "Name table cruda (glifo + atributo). No tocar el byte de atributo ni los marcos [02]. Los campos de longitud fija se rellenan con espacios si la traduccion es mas corta.",
+      "entry_size": 2,
+      "attribute": "0x00",
+      "cells": 24,
+      "messages": {
+        "0": {
+          "text_offset": "0x06521F",
+          "pointer_offset": "0x0000",
+          "block_address": "0x06521E",
+          "cells": 24,
+          "original": "   TORTAL POWER STARS   "
+        },
+        "1": {
+          "text_offset": "0x065257",
+          "pointer_offset": "0x0000",
+          "block_address": "0x06521E",
+          "cells": 24,
+          "original": "        NO BONUS        "
+        },
+        "2": {
+          "text_offset": "0x06528C",
+          "pointer_offset": "0x0000",
+          "block_address": "0x06521E",
+          "cells": 24,
+          "original": "       TRIES BONUS      "
+        },
+        "3": {
+          "text_offset": "0x0652FB",
+          "pointer_offset": "0x0000",
+          "block_address": "0x06521E",
+          "cells": 24,
+          "original": "       YOUR SCORE       "
+        },
+        "4": {
+          "text_offset": "0x065362",
+          "pointer_offset": "0x0000",
+          "block_address": "0x06521E",
+          "cells": 24,
+          "original": "        HI-SCORE        "
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "schema": 1,
+  "comment": "Textos del juego con la tabla principal (main_extract.tbl). Cada celda es un codigo de caracter (el atributo no se traduce).",
+  "blocks": {
+    "stage_names": {
+      "text_address": "0x07184A",
+      "pointer_address": "0x07182A",
+      "method": "lz_nametable",
+      "note": "2 filas x 18 celdas.",
+      "entry_size": 2,
+      "attribute": "0x08",
+      "cells": 36,
+      "messages": {
+        "0": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0000",
+          "block_address": "0x07184A",
+          "cells": 36,
+          "original": "                                    "
+        },
+        "1": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0002",
+          "block_address": "0x071857",
+          "cells": 36,
+          "original": "                      FOREST STAGE  "
+        },
+        "2": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0004",
+          "block_address": "0x07187A",
+          "cells": 36,
+          "original": "                       LAKE STAGE   "
+        },
+        "3": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0006",
+          "block_address": "0x07189A",
+          "cells": 36,
+          "original": "    BLACKSMITH'S      CASTLE STAGE  "
+        },
+        "4": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0008",
+          "block_address": "0x0718D5",
+          "cells": 36,
+          "original": "    CASTLE RUINS          STAGE     "
+        },
+        "5": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000A",
+          "block_address": "0x071902",
+          "cells": 36,
+          "original": "     TINY CAVERN          STAGE     "
+        },
+        "6": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000C",
+          "block_address": "0x07192E",
+          "cells": 36,
+          "original": "    FLOWER FIELD          STAGE     "
+        },
+        "7": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000E",
+          "block_address": "0x07195A",
+          "cells": 36,
+          "original": "    TOY WORKSHOP          STAGE     "
+        },
+        "8": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0010",
+          "block_address": "0x071986",
+          "cells": 36,
+          "original": "    PALACE RUINS          STAGE     "
+        },
+        "9": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0012",
+          "block_address": "0x0719B3",
+          "cells": 36,
+          "original": "    CRAGGY CLIFF          STAGE     "
+        },
+        "10": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0014",
+          "block_address": "0x0719DC",
+          "cells": 36,
+          "original": "                      DESERT STAGE  "
+        },
+        "11": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0016",
+          "block_address": "0x0719FF",
+          "cells": 36,
+          "original": "   GOOD PRINCESS'S    CASTLE STAGE  "
+        },
+        "12": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0018",
+          "block_address": "0x071A3C",
+          "cells": 36,
+          "original": "     SAND CASTLE          STAGE     "
+        },
+        "13": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x001A",
+          "block_address": "0x071A64",
+          "cells": 36,
+          "original": "                      ISLAND STAGE  "
+        },
+        "14": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x001C",
+          "block_address": "0x071A89",
+          "cells": 36,
+          "original": "      PHANTOM'S       CASTLE STAGE  "
+        }
+      }
+    },
+    "intro_story": {
+      "text_address": "0x06AC39",
+      "pointer_address": "0x000000",
+      "bank": "0x1A",
+      "method": "lz_nametable_fixed",
+      "note": "5 filas x 28 celdas; texto en las filas 0, 2 y 4.",
+      "entry_size": 2,
+      "attribute": "0x00",
+      "cells": 140,
+      "rows": 5,
+      "cols": 28,
+      "messages": {
+        "0": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000000",
+          "block_address": "0x06AC39",
+          "logical_address": "0xAC39",
+          "loader_address": "0x00142A",
+          "max_size": "0x000082",
+          "cells": 140,
+          "original": "  ONE EVENING, MICKEY FELL                               ASLEEP WHILE READING A BOOK                                   OF FAIRY TALES.      "
+        },
+        "1": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000000",
+          "block_address": "0x06ACBB",
+          "logical_address": "0xACBB",
+          "loader_address": "0x00148F",
+          "max_size": "0x000082",
+          "cells": 140,
+          "original": " WHEN HE WOKE UP, HE WAS NO                             LONGER IN HIS HOME, BUT IN A                             STRANGE AND GLOOMY VILLAGE."
+        }
+      }
+    },
+    "dialogues": {
+      "text_address": "0x070000",
+      "pointer_address": "0x0727F9",
+      "bank": "0x1C",
+      "method": "lz_text",
+      "note": "24 caracteres por linea. [FF] salto de linea, [FE] salto grande, [FD] espera tecla, [FC] fin, [F9] normal, [FA] resaltado, [FB][HH] activa el objeto HH.",
+      "entry_size": 4,
+      "attributes": "0 (normal) / 8 (resaltado) via [F9]/[FA]",
+      "messages": {
+        "0": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0004",
+          "block_address": "0x072811",
+          "logical_address": "0xA811",
+          "bytes": 588,
+          "original": "[F9][FB][1D]GOSH, IT [FB][1E]SURE[FB][1D] SEEMS [FB][1D]CREEPY[FF]AR[FB][1E]OUND [FB][0A]HERE.[FE][FD][FB][07][FA]AN EVIL PHANTOM HAS STOLEN[FF][FB][08]THE MAGIC CRYSTAL THAT[FE]PROTECTED EVERYONE IN THE[FD][FB][07]VILLAGE. WITH THE CRYSTAL[FF]GONE, THE GOOD MAGIC IN THIS[FE]VALLEY HAS DISAPPEARED.[FD][FB][07]IN ITS PLACE, BAD MAGIC[FF]HAS CHANGED EVERYTHING. NOW,[FE]RATHER THAN BEING A PLACE OF[FD][FB][07]HAPPINESS, THE VALLEY IS[FF]FULL OF GLOOM. [FB][09]CAN YOU HELP[FE]US?[FD][FF] [F9][FB][1D]UH, DID [FB][1E]YOU [FB][1D]SAY...PH[FB][0A]ANTOM?[FE][FD][FB][07][FA]YES, AN EVIL PHANTOM[FF]WHO LIVES IN A CASTLE IN THE[FE]CLOUDS![FD][FB][07][FB][08]A GOOD PRINCESS IN THE NORTH[FF]MOUNTAINS CAN TELL YOU THE [FE]BEST WAY TO GET THERE.[FD][FF]   [F9][FB][0B][FB][0D][FB][0E][FB][1D]SWELL! I[FB][1E]'LL DO[FB][0A] MY BEST.[FE][FA][FC]"
+        },
+        "1": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0006",
+          "block_address": "0x072A12",
+          "logical_address": "0xAA12",
+          "bytes": 108,
+          "original": "[FB][07]A GOOD PRINCESS IN THE NORTH[FF]MOUNTAINS CAN TELL YOU HOW[FE]TO GET TO THE PHANTOM'S[FD][FF][FB][07]CASTLE IN THE CLOUDS.[FE][FC]"
+        },
+        "2": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0008",
+          "block_address": "0x072EBD",
+          "logical_address": "0xAEBD",
+          "bytes": 584,
+          "original": "[FB][04]IF YOU PLANT THESE BEANS[FF]BENEATH THE PHANTOM'S CLOUD[FE]CASTLE, A BEANSTALK WILL GROW[FD][FB][04]INTO THE CLOUDS, CARRYING[FF]YOU WITH IT. THE CLOUDS HAVE[FE]MOVED OUT TO SEA, SO YOU[FD][FB][04]MUST PLANT THE SEEDS ON AN[FF]ISLAND IN THE OCEAN SO THAT[FE]THE BEANSTALK WILL GROW IN[FD][FB][04]THE RIGHT PLACE. THERE IS A[FF]STONE PYRAMID IN THE DESERT.[FE]THERE YOU WILL FIND THE MAGIC[FD][FB][04]CLOUD SHOES WHICH WILL HELP[FF]YOU WALK ON CLOUD VAPOR[FE]WITHOUT FALLING THROUGH.[FD][FB][04]YOU MAY NOT SEE AN ENTRANCE[FF]AT FIRST, BUT IF YOU TRY[FE]HARD AND USE YOUR HEAD, I'M[FD][FB][04][FB][05]SURE YOU WILL FIND IT.[FF]IF YOU SUCCEED, I PROMISE TO[FE][FB][06]REWARD YOU WITH A KISS.[FC]"
+        },
+        "3": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000A",
+          "block_address": "0x073087",
+          "logical_address": "0xB087",
+          "bytes": 316,
+          "original": "[FB][04]THERE IS A STONE PYRAMID IN[FF]THE DESERT. THERE YOU WILL[FE]FIND THE MAGIC CLOUD SHOES[FD][FB][04]WHICH WILL HELP YOU WALK ON[FF]CLOUD VAPOR WITHOUT FALLING[FE]THROUGH.[FD][FB][04]YOU MAY NOT SEE AN ENTRANCE[FF]AT FIRST, BUT IF YOU TRY[FE]HARD AND USE YOUR HEAD, I'M[FD][FB][04][FB][05]SURE YOU WILL FIND IT.[FF]IF YOU SUCCEED, I PROMISE TO[FE][FB][06]REWARD YOU WITH A KISS.[FC]"
+        },
+        "4": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000C",
+          "block_address": "0x0731A8",
+          "logical_address": "0xB1A8",
+          "bytes": 180,
+          "original": "[FB][00]THIS FORTRESS GUARDS THE[FF]HARBOR, BUT THE BAD MAGIC[FE]HAD TURNED IT TO SAND.[FD][FF][FB][00]THANKS FOR RESCUING ME![FE][FD][FB][00][FB][01][FB][02][FB][03]LET ME GIVE YOU A SHIP FROM[FF]MY HARBOR TO HELP YOU REACH[FE]THE ISLAND.[FC]"
+        },
+        "5": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000E",
+          "block_address": "0x073257",
+          "logical_address": "0xB257",
+          "bytes": 76,
+          "original": "[FB][00]LET ME GIVE YOU A SHIP FROM[FF][FB][01][FB][02]MY [FB][03]HARBOR TO HELP YOU REACH[FE]THE ISLAND.[FC]"
+        },
+        "6": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0010",
+          "block_address": "0x072A82",
+          "logical_address": "0xAA82",
+          "bytes": 489,
+          "original": "THE BAD MAGIC HAD ME TRAPPED[FF]IN MY OWN CASTLE![FE]THANKS FOR SETTIN' ME FREE.[FD]YOUR PATH LIES THROUGH A[FF]TINY CAVERN UP AHEAD, BUT,[FE]IN ORDER TO ENTER IT[FD]YOU HAVE TO SHRINK IN SIZE![FF]THERE'S A SHRINKING POTION[FE]IN THE CASTLE RUINS.[FD]NOW THAT THE FIRE IN MY[FF]CASTLE HAS WEAKENED, THE[FE]WATER IN THE LAKE HAS RISEN.[FD]YOU SHOULD BE ABLE TO FIND A[FF]PASSAGE TO THE RUINS FROM[FE]THE LAKE.[FD][FB][11][FB][12]PLEASE ACCEPT [FB][13][FB][14][FB][16][FB][17]THIS MAGIC[FF]FLUTE. USE IT, AND IT WILL[FE]TAKE YOU BACK TO ANY PLACE[FD][FB][15][FF]YOU HAVE TRAVELLED BEFORE.[FE][FC]"
+        },
+        "7": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0012",
+          "block_address": "0x072C36",
+          "logical_address": "0xAC36",
+          "bytes": 292,
+          "original": "YOUR PATH LIES THROUGH A[FF]TINY CAVERN UP AHEAD, BUT,[FE]IN ORDER TO ENTER IT[FD]YOU HAVE TO SHRINK IN SIZE![FF]THERE'S A SHRINKING POTION[FE]IN THE CASTLE RUINS.[FD]NOW THAT THE FIRE IN MY[FF]CASTLE HAS WEAKENED, THE[FE]WATER IN THE LAKE HAS RISEN.[FD]YOU SHOULD BE ABLE TO FIND A[FF]PASSAGE TO THE RUINS FROM[FE]THE LAKE.[FC]"
+        },
+        "8": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0014",
+          "block_address": "0x072D3B",
+          "logical_address": "0xAD3B",
+          "bytes": 289,
+          "original": "[FB][18]GAWRSH! I COULDN'T GET AWAY[FF]FROM MY OWN TOYS! THANK YOU[FE]FOR RELEASING ME, MICKEY.[FD][FB][18]YOU'LL SEE A CLIFF UP AHEAD.[FF]IF YOU WANNA CLIMB IT,[FE]YOU'LL NEED THE ROPE IN THE[FD][FB][18]PALACE RUINS. JUST TO SAY[FF][FB][19][FB][1A]THANKS, I'LL SHOOT OFF[FE]THIS HERE TOY CANNON TO[FD][FB][18]DESTROY THE BOULDERS[FF]BLOCKIN' YOUR PATH![FE][FC]"
+        },
+        "9": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0016",
+          "block_address": "0x072E58",
+          "logical_address": "0xAE58",
+          "bytes": 100,
+          "original": "[FB][18]YOU'LL SEE A CLIFF UP AHEAD.[FF]IF YOU WANNA CLIMB IT,[FE]YOU'LL NEED THE ROPE IN THE[FD][FF][FB][18]PALACE RUINS.[FE][FC]"
+        }
+      }
+    },
+    "status_screen": {
+      "text_address": "0x070358",
+      "pointer_address": "0x000000",
+      "bank": "0x1C",
+      "method": "lz_patch",
+      "note": "No tocar los tiles del marco [20]/[22].",
+      "entry_size": 2,
+      "attribute": "0x08",
+      "preserve_attrs": true,
+      "cells": 896,
+      "loader_address": "0x005353",
+      "messages": {
+        "0": {
+          "text_offset": "0x0024",
+          "pointer_offset": "0x0000",
+          "block_address": "0x070358",
+          "row": 0,
+          "col": 18,
+          "cells": 12,
+          "original": "[20]---ITEM---[20]"
+        },
+        "1": {
+          "text_offset": "0x0602",
+          "pointer_offset": "0x0000",
+          "block_address": "0x070358",
+          "row": 24,
+          "col": 1,
+          "cells": 31,
+          "original": "[20]---POWER--[22]TRIES[22]-SCORE-[22]TIME[20]"
+        }
+      }
+    },
+    "intro_cast": {
+      "text_address": "0x064228",
+      "pointer_address": "0x000000",
+      "method": "raw_nametable",
+      "note": "Cada nombre en su columna.",
+      "entry_size": 2,
+      "attribute": "0x08",
+      "cells": 195,
+      "messages": {
+        "0": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064228",
+          "cells": 195,
+          "original": "  LAND             OF           ILLUSION                                          CAST  MICKEY       MOUSEDAISY      DUCKMINNIE       MOUSEDONALD       DUCK   HORACE              HORSECOLLARGOOFY"
+        }
+      }
+    }
+  }
+}

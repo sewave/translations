@@ -1,0 +1,70 @@
+; alt_insert.tbl - tabla de codificacion (caracter -> byte) para la INSERCION
+; de los bloques "alt" de Land of Illusion (Game Gear).
+;
+; Formato: caracter=HH
+;   - El caracter es todo lo que hay antes del ULTIMO '='.
+;   - HH es el byte hexadecimal a insertar.
+;   - La linea " =00" define el byte para el espacio.
+;   - Los codigos [HH] del JSON se insertan como el byte literal HH.
+;
+; Esta tabla es la INVERSA de alt_extract.tbl. El atributo de cada celda lo
+; recalcula insert_all.py: 0x18 para los codigos de la PAGINA EXTENDIDA
+; (V=1E, X=1F, Z=20 y la puntuacion; rango `small_codes` 0x1D..0x24, del que
+; solo se usa 0x1E..0x24) y 0x19 para el resto (lo controla `small_codes`/`small_attr`).
+;
+; LAS LETRAS V, X y Z SI EXISTEN en la fuente alt, en la PAGINA EXTENDIDA
+; (atributo 0x18); J, K y Q estan en la pagina base (atributo 0x19).
+; Tampoco hay glifos para vocales acentuadas ni N con virgulilla, ni signos de
+; apertura: se codifican con el byte de su letra/signo base (ver el final).
+; El marcador de opcion 0xBA se escribe en el JSON como [BA].
+;
+; --- pagina BASE (atributo 0x19) ---
+ =00
+O=9E
+A=A8
+B=A9
+C=AA
+D=AB
+E=AC
+F=AD
+G=AE
+H=AF
+I=B0
+L=B1
+M=B2
+N=B3
+P=B4
+S=B5
+T=B6
+U=B7
+Y=B8
+?=B9
+J=BB
+K=BC
+Q=BD
+R=BE
+W=BF
+; --- pagina EXTENDIDA (atributo 0x18) ---
+V=1E
+X=1F
+Z=20
+.=21
+,=22
+!=23
+-=24
+;
+; --- caracteres del espanol: reemplazos (EDITABLE POR EL USUARIO) ---
+; La fuente alt NO tiene glifos para vocales acentuadas, N con virgulilla ni
+; signos de apertura: se insertan con el byte de su letra/signo base.
+;   A-aguda=A8  E-aguda=AC  I-aguda=B0  O-aguda=9E  U-aguda/U-dieresis=B7
+;   N-tilde=B3  interrogacion invertida=B9 (mismo glifo que '?')
+;   exclamacion invertida=23 (mismo glifo que '!')
+Á=B9
+É=AC
+Í=BB
+Ó=BF
+Ú=B7
+Ü=B7
+Ñ=B3
+¿=B9
+¡=1F

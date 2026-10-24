@@ -1,0 +1,65 @@
+; main_extract.tbl - tabla de codificacion (byte -> caracter) para la extraccion
+; Land of Illusion Starring Mickey Mouse (SMS)
+;
+; Formato: HH=caracter   (todo lo que sigue al primer '=' es el caracter)
+; Los bytes no listados aqui se extraen como [HH].
+;
+; El juego usa una "name table" de 2 bytes por celda: (codigo, atributo=0x08).
+; El codigo de caracter es el byte bajo; el atributo 0x08 se conserva y no se extrae.
+;
+; El codigo es el indice de tile de la fuente concatenada:
+;   - fuente principal: codigos 00-27 (letras A-Z incompletas + digitos)
+;   - fuente secundaria: codigos 28-36 (las letras y signos que faltan en la
+;     principal). Los signos de 28-36 se han identificado dibujando los glifos
+;     de la fuente 0x22108 y comprobando su uso en los textos:
+;       31='.'  32="'"  33='-'  34=','  35='!'  36=';'
+;     (0x31..0x34 confirmados por uso real: "TALES.", "BLACKSMITH'S",
+;      "EVENING,", "WOKE UP,". 0x33/0x35/0x36 solo por el dibujo del glifo.)
+00= 
+01=A
+02=B
+03=C
+04=D
+05=E
+06=F
+07=I
+08=L
+09=M
+0A=N
+0B=P
+0C=R
+0D=S
+0E=T
+0F=U
+10=W
+11=?
+12=O
+13=1
+14=2
+15=3
+16=4
+17=5
+18=6
+19=7
+1A=8
+1B=9
+1C=0
+1D=#
+1E=*
+1F=-
+; --- fuente secundaria (letras que faltan en la principal) ---
+28=G
+29=H
+2A=J
+2B=K
+2C=Q
+2D=V
+2E=X
+2F=Y
+30=Z
+31=.
+32='
+33=-
+34=,
+35=!
+36=;

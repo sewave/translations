@@ -1,0 +1,50 @@
+; main_extract.tbl - tabla de codificacion (byte -> caracter) para la extraccion
+; Land of Illusion Starring Mickey Mouse (Game Gear)
+;
+; Formato: HH=caracter   (todo lo que sigue al primer '=' es el caracter)
+; Los bytes no listados aqui se extraen como [HH].
+;
+; El juego (GG) usa un unico orden de fuente, practicamente alfabetico:
+;   A..N en 01..0E, P..Z en 0F..19 (falta la O), O en 20, signos en 1A..1E.
+; Se ha confirmado decodificando los dialogos y los nombres de fase (texto legible).
+;
+; El texto de "pantalla" (nombres de fase, estado, creditos) es una name table:
+;   2 bytes por celda = (codigo_de_caracter, atributo). El byte bajo es el
+;   caracter; el atributo no forma parte del texto.
+;
+; Los dialogos (lz_text) son un flujo de 1 byte por caracter con codigos de
+;   control 0xF8..0xFF. Dichos codigos NO se listan aqui: se extraen como [HH]
+;   y se insertan como el byte literal correspondiente.
+00= 
+01=A
+02=B
+03=C
+04=D
+05=E
+06=F
+07=G
+08=H
+09=I
+0A=J
+0B=K
+0C=L
+0D=M
+0E=N
+0F=P
+10=Q
+11=R
+12=S
+13=T
+14=U
+15=V
+16=W
+17=X
+18=Y
+19=Z
+1A=.
+1B='
+1C=,
+1D=?
+1E=!
+20=O
+2A=-

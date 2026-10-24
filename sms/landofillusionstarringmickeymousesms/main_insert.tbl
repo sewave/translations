@@ -1,0 +1,86 @@
+; main_insert.tbl - tabla de codificacion (caracter -> byte) para la insercion
+; Land of Illusion Starring Mickey Mouse (SMS)
+;
+; Formato: caracter=HH
+;   - El caracter es todo lo que hay antes del ULTIMO '='.
+;   - HH es el byte hexadecimal a insertar.
+;   - La linea " =00" define el byte para el espacio.
+;
+; Reglas (tr_rules.md):
+;   - insert_all.py NO modifica esta tabla ni convierte nada fuera de ella.
+;   - Los codigos [HH] en texts_translated.json insertan el byte literal HH.
+;
+; IMPORTANTE:
+;   La fuente del juego NO contiene vocales acentuadas ni N con virgulilla, ni
+;   "!" / "?" de apertura. La traduccion usa el espanol completo y, en ESTA
+;   tabla, cada uno de esos caracteres tiene como byte de reemplazo el de su
+;   letra/signo base (seccion "REEMPLAZOS DEL ESPANOL" de abajo, ya rellena).
+;   Si anades caracteres nuevos, insert_all.py fallara con un mensaje claro
+;   mientras no esten definidos aqui.
+ =00
+A=01
+B=02
+C=03
+D=04
+E=05
+F=06
+I=07
+L=08
+M=09
+N=0A
+P=0B
+R=0C
+S=0D
+T=0E
+U=0F
+W=10
+?=11
+O=12
+1=13
+2=14
+3=15
+4=16
+5=17
+6=18
+7=19
+8=1A
+9=1B
+0=1C
+#=1D
+*=1E
+-=1F
+G=28
+H=29
+J=2A
+K=2B
+Q=2C
+V=2D
+X=2E
+Y=2F
+Z=30
+.=31
+'=32
+,=34
+!=35
+;=36
+; '-' tambien existe en la fuente principal (1F); se conserva 1F para no
+; cambiar los bytes ya usados por los textos existentes.
+
+; --- REEMPLAZOS DEL ESPANOL (definidos por el USUARIO) ---
+; La fuente del juego NO tiene glifos para vocales acentuadas, N con virgulilla
+; ni signos de apertura. Los reemplazos de abajo hacen que cada uno de esos
+; caracteres se inserte con el byte de su letra/signo base, de modo que se lee
+; correctamente aunque el acento no se dibuje.
+;   A-acute=01  E-acute=05  I-acute=07  O-acute=12  U-acute=0F
+;   N-tilde=0A  U-dieresis=0F
+;   exclamacion invertida=35 (mismo glifo que '!')
+;   interrogacion invertida=11 (mismo glifo que '?')
+Á=11
+É=05
+Í=32
+Ó=10
+Ú=0F
+Ü=0F
+Ñ=0A
+¡=36
+¿=11

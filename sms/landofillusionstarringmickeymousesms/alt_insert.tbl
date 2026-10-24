@@ -1,0 +1,77 @@
+; alt_insert.tbl - tabla de codificacion alternativa (caracter -> byte)
+; Land of Illusion Starring Mickey Mouse (SMS)
+;
+; Formato: caracter=HH
+;   - El caracter es todo lo que hay antes del ULTIMO '='.
+;   - HH es el byte hexadecimal a insertar.
+;   - La linea " =00" define el byte para el espacio.
+;
+; Es el inverso de alt_extract.tbl y la usan los bloques del banco 0x08 que
+; van en texts_alt.json / texts_translated_alt.json (cajas de pausa, barra de
+; estado del mapa y pantallas de consejo).
+;
+; Igual que en alt_extract.tbl, los codigos [HH] insertan el byte literal HH
+; (asi se conservan los tiles del marco/remates: [B7], [B8], [BA]...).
+;
+; NOTA sobre las letras ausentes (G H J K Q V X Y Z) y la puntuacion
+; (. ' - , ! ;): abajo se dan los bytes de la VARIANTE DE CONSEJOS
+; (0xE0-0xEE). insert_all.py los reasigna automaticamente a la variante de
+; cajas/barra (0x1E-0x26) cuando el bloque lo indica en su campo
+; `small_codes`, de modo que la misma tabla sirve para todos los bloques.
+;
+; Los acentos y signos de apertura no existen en la fuente: se codifican con
+; el byte de su letra/signo base (seccion REEMPLAZOS DEL ESPANOL), igual que en
+; main_insert.tbl. Asi se puede traducir con espanol completo.
+; ---------------------------------------------------------------------------
+ =00
+A=99
+B=9A
+C=9B
+D=9C
+E=9D
+F=9E
+I=9F
+L=A0
+M=A1
+N=A2
+P=A3
+R=A4
+S=A5
+T=A6
+U=A7
+W=A8
+?=A9
+O=AA
+1=AB
+; --- letras ausentes en la fuente principal (variante consejos) ---
+G=E0
+H=E1
+J=E2
+K=E3
+Q=E4
+V=A8
+X=E6
+Y=E7
+Z=E8
+; --- puntuacion de la variante consejos ---
+.=E9
+'=EA
+-=EB
+,=EC
+!=ED
+;=EE
+
+; --- REEMPLAZOS DEL ESPANOL (se insertan como su letra/signo base) ---
+;   A-acute=99  E-acute=9D  I-acute=9F  O-acute=AA  U-acute/U-dieresis=A7
+;   N-tilde=A2  interrogacion invertida=A9 (mismo glifo que '?')
+;   exclamacion invertida=ED (mismo glifo que '!'; en las cajas se reasigna
+;   a 0x2B, su byte en la variante de cajas/barra)
+Á=E5
+É=9D
+Í=E2
+Ó=E6
+Ú=A7
+Ü=A7
+Ñ=A2
+¿=EA
+¡=EE

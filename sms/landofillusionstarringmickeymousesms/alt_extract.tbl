@@ -1,0 +1,87 @@
+; alt_extract.tbl - tabla de codificacion alternativa (byte -> caracter)
+; Land of Illusion Starring Mickey Mouse (SMS)
+;
+; Formato: HH=caracter   (todo lo que sigue al primer '=' es el caracter)
+; Los bytes no listados aqui se extraen como [HH].
+;
+; La usan los bloques del banco 0x08 que NO se dibujan con la fuente principal
+; sino con una fuente alternativa (cajas de pausa, barra de estado del mapa y
+; pantallas de consejo). Sin esta tabla sus codigos salian como [HH]
+; (p. ej. [A3][99][A7][A5][99][00]); con ella se leen directamente.
+;
+; Las celdas siguen siendo name table de 2 bytes (codigo, atributo). El
+; atributo que hay que usar depende del GLIFO y de la variante de fuente (lo
+; calcula insert_all con `letter_attr`/`small_attr`/`small_codes`), asi que
+; aqui solo se traduce el byte del codigo.
+;
+; ---------------------------------------------------------------------------
+; LETRAS COMPARTIDAS (tiles 0x100+codigo; las usan TODAS las variantes)
+; ---------------------------------------------------------------------------
+00= 
+99=A
+9A=B
+9B=C
+9C=D
+9D=E
+9E=F
+9F=I
+A0=L
+A1=M
+A2=N
+A3=P
+A4=R
+A5=S
+A6=T
+A7=U
+A8=W
+A9=?
+AA=O
+AB=1
+;
+; ---------------------------------------------------------------------------
+; LETRAS AUSENTES EN LA FUENTE PRINCIPAL (G H J K Q V X Y Z) Y PUNTUACION
+; Todas salen del MISMO bloque de fuente (0x22108, la "SMALL": primero las 9
+; letras y luego la puntuacion), pero el juego lo carga en una direccion de
+; tile distinta segun la pantalla; por eso hay dos juegos de bytes (separados
+; 0xC2) y ambos son validos en su pantalla:
+;
+;   * cajas de pausa y barra de estado -> tile base 0x1E  (lo carga 0x002B08)
+;   * pantallas de consejo             -> tile base 0xE0
+;
+; En la variante de cajas/barra 0x1E=G, 0x1F=H, etc. (con la tabla principal
+; esos bytes salian como '*' y '-'; por eso esas cajas se veian mal).
+1E=G
+1F=H
+20=J
+21=K
+22=Q
+23=V
+24=X
+25=Y
+26=Z
+27=.
+28='
+29=-
+2A=,
+2B=!
+2C=;
+;
+; ---------------------------------------------------------------------------
+; VARIANTE DE PANTALLAS DE CONSEJO (tile base 0xE0)
+; Mismas letras y puntuacion. Al insertar, alt_insert.tbl usa estos bytes como
+; "canonicos" y insert_all los reasigna a la variante que pida cada bloque.
+E0=G
+E1=H
+E2=J
+E3=K
+E4=Q
+E5=V
+E6=X
+E7=Y
+E8=Z
+E9=.
+EA='
+EB=-
+EC=,
+ED=!
+EE=;

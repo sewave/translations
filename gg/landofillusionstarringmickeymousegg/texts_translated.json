@@ -1,0 +1,394 @@
+{
+  "schema": 1,
+  "comment": "Textos de Land of Illusion (GG). Ver main_extract.tbl.",
+  "blocks": {
+    "stage_names": {
+      "text_address": "0x0714B9",
+      "pointer_address": "0x071499",
+      "bank": "0x1C",
+      "method": "raw_nametable",
+      "entry_size": 2,
+      "attribute": "0x00",
+      "cells": 19,
+      "messages": {
+        "0": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0000",
+          "block_address": "0x0714B9",
+          "logical_address": "0x94B9",
+          "cells": 19,
+          "original": "                   ",
+          "translated": "                   "
+        },
+        "1": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0002",
+          "block_address": "0x0714DF",
+          "logical_address": "0x94DF",
+          "cells": 19,
+          "original": "      FOREST       ",
+          "translated": "      BOSQUE       "
+        },
+        "2": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0004",
+          "block_address": "0x071505",
+          "logical_address": "0x9505",
+          "cells": 19,
+          "original": "       LAKE        ",
+          "translated": "       LAGO        "
+        },
+        "3": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0006",
+          "block_address": "0x07152B",
+          "logical_address": "0x952B",
+          "cells": 19,
+          "original": "BLACKSMITH'S CASTLE",
+          "translated": " CASTILLO HERRERO  "
+        },
+        "4": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0008",
+          "block_address": "0x071551",
+          "logical_address": "0x9551",
+          "cells": 19,
+          "original": "   CASTLE RUINS    ",
+          "translated": "RUINAS DEL CASTILLO"
+        },
+        "5": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000A",
+          "block_address": "0x071577",
+          "logical_address": "0x9577",
+          "cells": 19,
+          "original": "    TINY CAVERN    ",
+          "translated": "   CAVERNA ENANA   "
+        },
+        "6": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000C",
+          "block_address": "0x07159D",
+          "logical_address": "0x959D",
+          "cells": 19,
+          "original": "   FLOWER FIELD    ",
+          "translated": "  CAMPO DE FLORES  "
+        },
+        "7": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000E",
+          "block_address": "0x0715C3",
+          "logical_address": "0x95C3",
+          "cells": 19,
+          "original": "   TOY WORKSHOP    ",
+          "translated": "TALLER DE JUGUETES "
+        },
+        "8": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0010",
+          "block_address": "0x0715E9",
+          "logical_address": "0x95E9",
+          "cells": 19,
+          "original": "   PALACE RUINS    ",
+          "translated": "RUINAS DEL PALACIO "
+        },
+        "9": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0012",
+          "block_address": "0x07160F",
+          "logical_address": "0x960F",
+          "cells": 19,
+          "original": "   CRAGGY CLIFF    ",
+          "translated": "    ACANTILADO     "
+        },
+        "10": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0014",
+          "block_address": "0x071635",
+          "logical_address": "0x9635",
+          "cells": 19,
+          "original": "      DESERT       ",
+          "translated": "     DESIERTO      "
+        },
+        "11": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0016",
+          "block_address": "0x07165B",
+          "logical_address": "0x965B",
+          "cells": 19,
+          "original": " PRINCESS'S CASTLE ",
+          "translated": " CASTILLO PRINCESA "
+        },
+        "12": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0018",
+          "block_address": "0x071681",
+          "logical_address": "0x9681",
+          "cells": 19,
+          "original": "    SAND CASTLE    ",
+          "translated": " CASTILLO DE ARENA "
+        },
+        "13": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x001A",
+          "block_address": "0x0716A7",
+          "logical_address": "0x96A7",
+          "cells": 19,
+          "original": "      ISLAND       ",
+          "translated": "       ISLA        "
+        },
+        "14": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x001C",
+          "block_address": "0x0716CD",
+          "logical_address": "0x96CD",
+          "cells": 19,
+          "original": " PHANTOM'S CASTLE  ",
+          "translated": " CASTILLO FANTASMA "
+        }
+      }
+    },
+    "intro_story": {
+      "text_address": "0x06A16B",
+      "pointer_address": "0x000000",
+      "bank": "0x1A",
+      "method": "raw_text_rows",
+      "entry_size": 1,
+      "note": "5 filas; 1 byte/caracter (0x00=espacio); texto centrado por filas.",
+      "messages": {
+        "0": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000000",
+          "block_address": "0x06A16B",
+          "logical_address": "0xA16B",
+          "loader_address": "0x001405",
+          "rows": 5,
+          "cols": 18,
+          "cells": 90,
+          "original": "   ONE EVENING,   MICKEY FELL ASLEEP  WHILE READING A    BOOK OF FAIRY        TALES.      ",
+          "translated": "    UNA NOCHE,     MICKEY SE DUERME  LEYENDO UN LIBRO   DE CUENTOS DE         HADAS.      "
+        },
+        "1": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000000",
+          "block_address": "0x06A1C5",
+          "logical_address": "0xA1C5",
+          "loader_address": "0x001463",
+          "rows": 5,
+          "cols": 19,
+          "cells": 95,
+          "original": " WHEN HE WOKE UP,   HE WAS NO LONGER      IN HIS HOME,    BUT IN A STRANGE  AND GLOOMY VILLAGE.",
+          "translated": " AL DESPERTARSE,    YA NO ESTABA EN    SU CASA, SINO EN   UNA ALDEA RARA Y       OSCURA.       "
+        }
+      }
+    },
+    "dialogues": {
+      "text_address": "0x070000",
+      "pointer_address": "0x072697",
+      "bank": "0x1C",
+      "method": "lz_text",
+      "entry_size": 2,
+      "attributes": "0 (normal) / 8 (resaltado) via [F9]/[FA]",
+      "messages": {
+        "0": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0000",
+          "block_address": "0x0726AB",
+          "logical_address": "0xA6AB",
+          "bytes": 630,
+          "original": "[F9][FB][1D]GOSH,[FB][25] IT [FB][1E]SURE[FF][FB][1D]SEEMS [FB][25][FB][1D]CREEPY[FE]AR[FB][1E]OUND [FB][0A]HERE.[F8][FD][FB][07][FA][FB][25]AN EVIL PHANTOM[FF]HAS STOLEN[FB][08] THE[FE]MAGIC [FB][25]CRYSTAL THAT[F8][FB][25]PROTECTED EVERYONE[FD][FB][07]IN THE VILLAGE.[FF][FB][25]WITH THE CRYSTAL[FE]GONE, THE GOOD[F8][FB][25]MAGIC IN THIS[FD][FB][07][FB][25]VALLEY HAS[FF]DISAPPEARED.[FE]IN [FB][25]ITS PLACE, BAD[F8]MAGIC HAS CHANGED[FD][FB][07]EVERYTHING.[FF][FB][25]NOW, RATHER THAN[FE]BEING A PLACE OF[F8]HAPPIN[FB][25]ESS, THE[FD][FB][07]VALLEY IS FULL OF[FF][FB][25]GLOOM.[FE][FB][09]CAN YOU HELP US?[F8][FD][FB][25][FF][F9][FB][1D]UH, DID [FB][1E]YOU [FB][1D]SAY...[FE]PH[FB][0A]ANTOM?[F8][FD][FB][07][FA][FB][25]YES, AN EVIL[FF]PHANTOM WHO LIVES[FE][FB][25]IN A CASTLE IN THE[F8]CLOUDS![FD][FB][07][FB][08]A GOOD [FB][25]PRINCESS[FF]IN THE NORTH[FE][FB][25]MOUNTAINS CAN TELL[F8]YOU THE BEST WAY[FD][FB][07][FF]TO GET THERE.[FE][F8][FD][FF][F9][FB][0B][FB][0D][FB][0E][FB][1D]SW[FB][26]ELL! I[FB][1E]'LL DO[FB][0A] MY[FE][FB][26]BEST.[F8][FA][FC]",
+          "translated": "[F9][FB][1D][FB][25][FB][1E]VAYA, TODO ESTO ES[FF][FB][1D][FB][25][FB][1D]MUY SINIESTRO.[FE][FB][1E][FB][0A] [F8][FD][FB][07][FA][FB][25]UN FANTASMA[FF][FB][08]MALVADO HA ROBADO[FE][FB][25]EL CRISTAL MÁGICO[F8][FB][25]QUE PROTEGÍA A[FD][FB][07]TODO EL PUEBLO.[FF][FB][25]SIN EL CRISTAL,[FE]LA MAGIA BUENA DE[F8][FB][25]ESTE VALLE HA[FD][FB][07][FB][25]DESAPARECIDO.[FF]AHORA TODO HA[FE][FB][25]CAMBIADO CON LA[F8]MAGIA MALVADA.[FD][FB][07]YA NO ES UN LUGAR[FF][FB][25]ALEGRE, EL VALLE[FE]ESTÁ LLENO DE[F8][FB][25]PENUMBRA.[FD][FB][07]SI NOS AYUDAS...[FF][FB][25][FE][FB][09][F8][FD][FB][25][FF][F9][FB][1D][FB][1E][FB][1D]EH, HAS DICHO[FE][FB][0A]FAN...TASMA...[F8][FD][FB][07][FA][FB][25]SÍ, ¡UN FANTASMA[FF]MALVADO QUE VIVE[FE][FB][25]EN UN CASTILLO EN[F8]LAS NUBES![FD][FB][07][FB][08][FB][25]UNA PRINCESA BUENA[FF]DEL NORTE PUEDE[FE][FB][25]DECIRTE CUÁL ES LA[F8]MEJOR FORMA DE[FD][FB][07][FF]LLEGAR.[FE][F8][FD][FF][F9][FB][0B][FB][0D][FB][0E][FB][1D][FB][26][FB][1E][FB][0A]¡GENIAL! VOY A[FE][FB][26]ENCARGARME.[F8][FA][FC]"
+        },
+        "1": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0002",
+          "block_address": "0x0728DC",
+          "logical_address": "0xA8DC",
+          "bytes": 117,
+          "original": "[FB][07]A GOOD [FB][25]PRINCESS[FF]IN THE NORTH[FE]MOUNTAINS CAN [FB][25]TELL[F8]YOU HOW TO GET TO[FD][FB][07][FB][25]THE PHANTOM'S[FB][25][FF]CASTLE IN THE[FE][FB][25]CLOUDS.[F8][FC]",
+          "translated": "[FB][07][FB][25]UNA PRINCESA[FF]BUENA DEL NORTE[FE][FB][25]PUEDE DECIRTE EL[F8]CAMINO AL[FD][FB][07][FB][25][FB][25]CASTILLO EN LAS[FF]NUBES DEL[FE][FB][25]FANTASMA.[F8][FC]"
+        },
+        "2": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0004",
+          "block_address": "0x072E63",
+          "logical_address": "0xAE63",
+          "bytes": 620,
+          "original": "[FB][04]IF YOU[FB][25] PLANT THESE[FF]BEANS BENEATH THE[FE][FB][25]PHANTOM'S CLOUD[F8][FB][25]CASTLE, A BEANSTALK[FD][FB][04]WILL[FB][25] GROW INTO THE[FF]CLOUDS, CARRYING[FE]YOU WITH IT. THE[F8][FB][25]CLOUDS HAVE MOVED[FD][FB][04][FB][25]OUT TO SEA, SO YOU[FF]MUST PLANT THE[FE][FB][25]SEEDS ON AN ISLAND[F8]IN THE OCEAN SO[FD][FB][04][FB][25]THAT THE BEANSTALK[FF]WILL GROW IN THE[FE]RIGHT [FB][25]PLACE. THERE[F8]IS A STONE PYRAMID[FD][FB][04]IN [FB][25]THE DESERT.[FF]THERE YOU WILL FIND[FE]THE [FB][25]MAGIC CLOUD[F8]SHOES WHICH WILL[FD][FB][04]HELP[FB][25] YOU WALK ON[FF]CLOUD VAPOR WITHOUT[FE]FALLING[FB][25] THROUGH.[F8]YOU MAY NOT SEE AN[FD][FB][04]ENTRANCE[FB][25] AT FIRST,[FF][FB][25]BUT IF YOU TRY HARD[FE]AND USE YOUR HEAD,[F8]I'M [FB][25]SURE YOU WILL[FD][FB][04][FB][05][FB][25]FIND IT.[FF]IF YOU SUCCEED, I[FE]PROMISE TO [FB][06]REWARD[F8]YOU WITH A KISS.[FC]",
+          "translated": "[FB][04][FB][25]SI PLANTAS ESTAS[FF]JUDÍAS BAJO EL[FE][FB][25]CASTILLO DE LAS[F8][FB][25]NUBES, CRECERÁ[FD][FB][04][FB][25]UNA PLANTA GIGANTE[FF]HASTA LAS NUBES[FE]QUE TE LLEVARÁ.[F8][FB][25][FD][FB][04][FB][25]LAS NUBES SE HAN[FF]MOVIDO MAR[FE][FB][25]ADENTRO, ASÍ QUE[F8]DEBES PLANTAR LAS[FD][FB][04][FB][25]SEMILLAS EN UNA[FF]ISLA PARA QUE LA[FE][FB][25]PLANTA CREZCA EN[F8]EL SITIO CORRECTO.[FD][FB][04][FB][25]HAY UNA PIRÁMIDE[FF]DE PIEDRA EN EL[FE][FB][25]DESIERTO. ALLÍ[F8]ESTÁN LOS ZAPATOS[FD][FB][04][FB][25]MÁGICOS DE NUBES[FF]PARA CAMINAR SOBRE[FE][FB][25]EL VAPOR SIN[F8]CAERTE.[FD][FB][04][FB][25]PUEDE QUE AL[FF][FB][25]PRINCIPIO NO VEAS[FE]LA ENTRADA, PERO[F8][FB][25]SI TE ESFUERZAS,[FD][FB][04][FB][05][FB][25]SEGURO QUE LA[FF]ENCUENTRAS. SI LO[FE][FB][06]CONSIGUES, TE[F8]PROMETO UN BESO.[FC]"
+        },
+        "3": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0006",
+          "block_address": "0x073063",
+          "logical_address": "0xB063",
+          "bytes": 342,
+          "original": "[FB][04]THERE[FB][25] IS A STONE[FF]PYRAMID IN THE[FE]DESERT. [FB][25]THERE YOU[F8]WILL FIND [FB][25]THE MAGIC[FD][FB][04][FB][25]CLOUD SHOES WHICH[FF]WILL HELP YOU WALK[FE][FB][25]ON CLOUD VAPOR[F8]WITHOUT FALLING[FD][FB][04][FB][25]THROUGH.[FF]YOU MAY[FB][25] NOT SEE AN[FE]ENTRANCE AT FIRST,[F8][FB][25]BUT IF YOU TRY HARD[FD][FB][04][FB][25]AND USE YOUR HEAD,[FF][FB][05]I'M[FB][25] SURE YOU WILL[FE]FIND IT. IF YOU[F8]SUCCEED,[FB][25] I PROMISE[FD][FB][04][FB][06]TO REWARD YOU WITH[FF]A KISS.[FE][F8][FC]",
+          "translated": "[FB][04][FB][25]HAY UNA PIRÁMIDE[FF]DE PIEDRA EN EL[FE][FB][25]DESIERTO. ALLÍ[F8][FB][25]ESTÁN LOS ZAPATOS[FD][FB][04][FB][25]DE LAS NUBES.[FF]TE PERMITEN[FE][FB][25]CAMINAR SOBRE EL[F8]VAPOR SIN CAERTE.[FD][FB][04][FB][25]PUEDE QUE AL[FF][FB][25]PRINCIPIO NO VEAS[FE]LA ENTRADA, PERO[F8][FB][25]SI TE ESFUERZAS Y[FD][FB][04][FB][25]USAS LA CABEZA,[FF][FB][05][FB][25]SEGURO QUE LA[FE]ENCUENTRAS. SI LO[F8][FB][25]CONSIGUES,[FD][FB][04][FB][06]TE PROMETO UN[FF]BESO.[FE][F8][FC]"
+        },
+        "4": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0008",
+          "block_address": "0x07319C",
+          "logical_address": "0xB19C",
+          "bytes": 188,
+          "original": "[FB][00]THIS[FB][25] FORTRESS[FF]GUARDS[FB][25] THE HARBOR,[FE]BUT THE BAD MAGIC[F8]HAD[FB][25] TURNED IT TO[FD][FB][00]SAND[FB][25]. THANKS FOR[FF]RESCUING ME![FE][FB][01][FB][02][FB][03]LET ME GIVE YOU A[F8]SHIP FROM MY HARBOR[FD][FB][00]TO HELP YOU REACH[FF]THE ISLAND.[FE][F8][FC]",
+          "translated": "[FB][00][FB][25]ESTA FORTALEZA[FF][FB][25]PROTEGE EL PUERTO,[FE]PERO LA MAGIA[F8][FB][25]MALVADA LO HIZO DE[FD][FB][00][FB][25]ARENA. ¡GRACIAS[FF]POR RESCATARME![FE][FB][01][FB][02][FB][03]TE DOY UN BARCO EN[F8]MI PUERTO PARA QUE[FD][FB][00]LLEGUES A LA ISLA.[FF][FE][F8][FC]"
+        },
+        "5": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000A",
+          "block_address": "0x073253",
+          "logical_address": "0xB253",
+          "bytes": 78,
+          "original": "[FB][00]LET [FB][25]ME GIVE YOU A[FF]SHIP FROM [FB][01][FB][02]MY [FB][03]HARBOR[FE]TO HELP YOU REACH[F8]THE ISLAND.[FC]",
+          "translated": "[FB][00][FB][25]TE DOY UN BARCO EN[FF][FB][01][FB][02][FB][03]MI PUERTO PARA QUE[FE]LLEGUES A LA ISLA.[FC]"
+        },
+        "6": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000C",
+          "block_address": "0x072959",
+          "logical_address": "0xA959",
+          "bytes": 577,
+          "original": "[FB][28]THE BAD [FB][29]MAGIC HAD[FF]ME [FB][28][FB][29]TRAPPED IN MY[FE][FB][28]OWN [FB][29]CASTLE![F8][FD]THANKS [FB][29]FOR SETTIN[FB][28]'[FF]ME FREE.[FB][28][FB][29] YOUR PATH[FE]LIES THROUGH[FB][29] A TINY[F8][FB][28]CAVERN UP AHEAD,[FD][FB][28]BUT,[FB][29] IN ORDER TO[FF][FB][28]ENTER IT[FB][29] YOU HAVE[FE][FB][29]TO SHRINK IN[FB][28] SIZE![F8][FD]THERE[FB][28]'S A SHRINKING[FB][29][FF][FB][28]POTION IN[FB][29] THE[FE]CASTLE[FB][28] RUINS.[F8][FB][29]NOW THAT THE FIRE[FD]IN[FB][29] MY [FB][28]CASTLE HAS[FF]WEAKENED[FB][28], THE WATER[FE]IN[FB][29] THE LAKE[FB][28] HAS[F8]RISEN.[FD]YOU[FB][28] SHOULD BE[FB][29] ABLE[FF]TO [FB][28]FIND A[FB][29] PASSAGE[FE]TO[FB][29] THE RUINS[FB][28] FROM[F8]THE[FB][28] LAKE.[FD][FB][11][FB][12]PLEASE[FB][13][FB][14][FB][16][FB][17] ACCEPT THIS[FB][27][FF]MAGIC[FB][29] FLUTE.[FE]USE [FB][27]IT, AND[FB][29] IT WILL[F8]TAKE [FB][29]YOU BACK TO[FD]ANY PLACE[FB][15] YOU [FB][28]HAVE[FF]TRAVELLED[FB][29] BEFORE.[FE][F8][FC]",
+          "translated": "[FB][28][FB][29]¡LA MAGIA MALVADA[FF][FB][28][FB][29]ME TENÍA ATRAPADO[FE][FB][28][FB][29]EN MI CASTILLO![F8][FD][FB][29][FB][28]GRACIAS POR[FF][FB][28][FB][29]LIBERARME. TU[FE][FB][29]CAMINO PASA POR[F8][FB][28]UNA CAVERNA ENANA,[FD][FB][28][FB][29]¡PERO PARA[FF][FB][28][FB][29]ENTRAR TIENES QUE[FE][FB][29][FB][28]ENCOGERTE![F8][FD][FB][28][FB][29]HAY UN BREBAJE[FF][FB][28][FB][29]MÁGICO EN LAS[FE][FB][28]RUINAS DEL[F8][FB][29]CASTILLO. AHORA[FD][FB][29][FB][28]QUE EL FUEGO DE MI[FF][FB][28]CASTILLO ESTÁ[FE][FB][29][FB][28]DEBILITADO, EL[F8]AGUA DEL LAGO HA[FD][FB][28][FB][29]SUBIDO. DEBERÍAS[FF][FB][28][FB][29]ENCONTRAR UN PASO[FE][FB][29][FB][28]A LAS RUINAS DESDE[F8][FB][28]EL LAGO. ACEPTA[FD][FB][11][FB][12][FB][13][FB][14][FB][16][FB][17][FB][27]POR FAVOR ESTA[FF][FB][29]FLAUTA MÁGICA. SI[FE][FB][27][FB][29]LA USAS TE SACARÁ[F8][FB][29]DE CUALQUIER SITIO[FD][FB][15][FB][28]DONDE HAYAS[FF][FB][29]ESTADO.[FE][F8][FC]"
+        },
+        "7": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x000E",
+          "block_address": "0x072B66",
+          "logical_address": "0xAB66",
+          "bytes": 350,
+          "original": "YOUR[FB][28] PATH[FB][29] LIES[FF]THROUGH[FB][28] A TINY[FE][FB][29]CAVERN UP [FB][28]AHEAD,[F8][FB][29]BUT, [FB][28]IN ORDER TO[FD]ENTER[FB][28] IT [FB][29]YOU HAVE[FF]TO SHRINK[FB][29] IN SIZE![FB][28][FE]THERE'S A[FB][28] SHRINKING[FB][29][F8][FB][28]POTION IN THE[FD]CASTLE[FB][29] RUINS.[FF][FB][28]NOW THAT[FB][29] THE FIRE[FE][FB][28]IN MY CASTLE HAS[FB][29][F8][FB][28]WEAKENED, THE WATER[FD]IN [FB][28]THE [FB][29]LAKE HAS[FF]RISEN[FB][28]. [FB][29]YOU SHOULD[FE]BE ABLE[FB][29] TO FIND A[F8]PASSAGE[FB][28] TO THE[FD]RUINS [FB][29]FROM THE[FF][FB][28]LAKE.[FE][F8][FC]",
+          "translated": "[FB][28][FB][29]TU CAMINO PASA POR[FF][FB][28]UNA CAVERNA ENANA,[FE][FB][29][FB][28]¡PERO PARA PODER[F8][FB][29][FB][28]ENTRAR TIENES QUE[FD][FB][28][FB][29]ENCOGERTE! HAY UN[FF][FB][29][FB][28]BREBAJE MÁGICO EN[FE][FB][28][FB][29]LAS RUINAS DEL[F8][FB][28]CASTILLO. AHORA[FD][FB][29]QUE EL FUEGO DE MI[FF][FB][28][FB][29]CASTILLO ESTÁ[FE][FB][28][FB][29]DEBILITADO, EL[F8][FB][28]AGUA DEL LAGO HA[FD][FB][28][FB][29]SUBIDO. DEBERÍAS[FF][FB][28][FB][29]PODER ENCONTRAR[FE][FB][29]UN PASO A LAS[F8][FB][28]RUINAS DESDE EL[FD][FB][29]LAGO.[FF][FB][28][FE][F8][FC]"
+        },
+        "8": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0010",
+          "block_address": "0x072CA7",
+          "logical_address": "0xACA7",
+          "bytes": 332,
+          "original": "[FB][18][FB][2A]GAWRSH! [FB][28]I COULDN'T[FF]GET AWAY FROM[FB][2A] MY[FB][28][FE]OWN TOYS! THANK YOU[F8]FOR [FB][2A][FB][28]RELEASING ME,[FD][FB][18]MICKEY[FB][2A]. YOU[FB][28]'LL SEE[FF]A CLIFF UP AHEAD.[FB][2A][FE]IF[FB][28] YOU WANNA CLIMB[FB][2A][F8]IT[FB][28], YOU'LL NEED THE[FD][FB][18]ROPE[FB][2A] [FB][28]IN THE PALACE[FF]RUINS. [FB][28]JUST TO SAY[FB][2A][FE][FB][19][FB][1A]THANKS, I'LL SHOOT[F8][FB][2A]OFF [FB][28]THIS HERE[FD][FB][18]TOY [FB][28]CANNON TO[FF]DESTROY[FB][2A] THE[FE]BOULDERS[FB][28] BLOCKIN'[F8][FB][2A]YOUR PATH![FC]",
+          "translated": "[FB][18][FB][2A][FB][28]¡CARAMBA! ¡NO[FF][FB][2A][FB][28]PODÍA ESCAPAR DE[FE]MIS JUGUETES![F8][FB][2A][FB][28]¡GRACIAS POR[FD][FB][18][FB][2A][FB][28]LIBERARME, MICKEY![FF][FB][2A]VERÁS UN[FE][FB][28][FB][2A]ACANTILADO[F8][FB][28]DELANTE. PARA[FD][FB][18][FB][2A][FB][28]SUBIRLO NECESITAS[FF][FB][28][FB][2A]LA CUERDA DE LAS[FE][FB][19][FB][1A]RUINAS.[F8][FB][2A][FB][28]Y YA QUE ESTOY,[FD][FB][18][FB][28]¡VOY A DISPARAR[FF][FB][2A]ESTE ARMA PARA[FE][FB][28]DESTRUIR LAS ROCAS[F8][FB][2A]DEL CAMINO![FC]"
+        },
+        "9": {
+          "text_offset": "0x000000",
+          "pointer_offset": "0x0012",
+          "block_address": "0x072DEB",
+          "logical_address": "0xADEB",
+          "bytes": 114,
+          "original": "[FB][18]YOU[FB][28]'LL SEE [FB][2A]A CLIFF[FF]UP AHEAD.[FB][28] IF YOU[FE]WANNA CLIMB[FB][2A] IT,[F8]YOU'LL[FB][28] NEED THE[FD][FB][18]ROPE IN[FB][2A] THE PALACE[FB][28][FF]RUINS.[FE][F8][FC]",
+          "translated": "[FB][18][FB][28][FB][2A]VERÁS UN[FF][FB][28]ACANTILADO[FE][FB][2A]DELANTE. PARA[F8][FB][28]SUBIRLO NECESITAS[FD][FB][18][FB][2A][FB][28]LA CUERDA DE LAS[FF]RUINAS.[FE][F8][FC]"
+        }
+      }
+    },
+    "credits_status": {
+      "text_address": "0x064A40",
+      "pointer_address": "0x000000",
+      "bank": "0x19",
+      "method": "raw_nametable_runs",
+      "entry_size": 2,
+      "preserve_attrs": true,
+      "messages": {
+        "2": {
+          "text_offset": "0x0000AC",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064AEC",
+          "cells": 17,
+          "original": "TOTAL POWER STARS",
+          "translated": "ESTRELLAS TOTALES"
+        },
+        "3": {
+          "text_offset": "0x0000CE",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064B0E",
+          "cells": 8,
+          "original": "NO BONUS",
+          "translated": "SIN BONO"
+        },
+        "4": {
+          "text_offset": "0x0000DE",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064B1E",
+          "cells": 11,
+          "original": "TRIES BONUS",
+          "translated": "  INTENTOS"
+        },
+        "5": {
+          "text_offset": "0x0000F4",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064B34",
+          "cells": 10,
+          "original": "YOUR SCORE",
+          "translated": "  TU MARCA"
+        },
+        "6": {
+          "text_offset": "0x000108",
+          "pointer_offset": "0x0000",
+          "block_address": "0x064B48",
+          "cells": 8,
+          "original": "HI-SCORE",
+          "translated": "   MEJOR"
+        }
+      }
+    },
+    "map_pause": {
+      "text_address": "0x077971",
+      "pointer_address": "0x000000",
+      "bank": "0x1D",
+      "method": "raw_nametable_runs",
+      "entry_size": 2,
+      "preserve_attrs": true,
+      "width": 20,
+      "height": 18,
+      "loader_address": "0x00636E",
+      "messages": {
+        "0": {
+          "text_offset": "0x0054",
+          "pointer_offset": "0x0000",
+          "block_address": "0x0779C5",
+          "cell": 42,
+          "cells": 8,
+          "original": "HI-SCORE",
+          "translated": "  MEJOR "
+        },
+        "1": {
+          "text_offset": "0x00A8",
+          "pointer_offset": "0x0000",
+          "block_address": "0x077A19",
+          "cell": 84,
+          "cells": 5,
+          "original": "SCORE",
+          "translated": "MARCA"
+        },
+        "2": {
+          "text_offset": "0x00FA",
+          "pointer_offset": "0x0000",
+          "block_address": "0x077A6B",
+          "cell": 125,
+          "cells": 4,
+          "original": "ITEM",
+          "translated": "ÍTEM"
+        },
+        "3": {
+          "text_offset": "0x010C",
+          "pointer_offset": "0x0000",
+          "block_address": "0x077A7D",
+          "cell": 134,
+          "cells": 5,
+          "original": "TRIES",
+          "translated": "VIDAS"
+        },
+        "4": {
+          "text_offset": "0x01BC",
+          "pointer_offset": "0x0000",
+          "block_address": "0x077B2D",
+          "cell": 222,
+          "cells": 17,
+          "original": "TOTAL POWER STARS",
+          "translated": "ESTRELLAS TOTALES"
+        }
+      }
+    }
+  }
+}

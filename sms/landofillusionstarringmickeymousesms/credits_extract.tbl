@@ -1,0 +1,62 @@
+; credits_extract.tbl - tabla de codificacion (byte -> caracter) para las
+; pantallas de CREDITOS finales (STAFF) y de RESULTADOS (TOTAL POWER STARS).
+; Land of Illusion Starring Mickey Mouse (SMS)
+;
+; Formato: HH=caracter   (todo lo que sigue al primer '=' es el caracter)
+; Los bytes no listados aqui se extraen como [HH].
+;
+; FUENTE: la cuarta fuente del juego, LZ 0x088D en ROM 0x064509 (banco 0x19),
+; que descomprime a 1536 bytes = 48 tiles 4bpp (32 B/tile). Los glifos de texto
+; son los tiles 0x11..0x3C y el orden (verificado renderizando los tiles) es:
+;   0x11 = espacio, 0x12 = 'O' (y el 0), 0x13..0x1B = '1'..'9',
+;   0x1C..0x34 = 'A'..'Z' (sin la Ñ; 25 letras: falta la Ñ, que no existe),
+;   0x35..0x3C = '*' '.' ',' '-' ''' '!' ';' ':'
+; El texto es una name table cruda de celdas de 2 bytes (glifo + atributo); el
+; atributo (0x00 texto / 0x02 marco) NO se traduce.
+;
+; La fuente NO tiene vocales acentuadas, Ñ, ni signos de apertura: los
+; reemplazos se definen en credits_insert.tbl (los pone el usuario).
+11= 
+12=O
+13=1
+14=2
+15=3
+16=4
+17=5
+18=6
+19=7
+1A=8
+1B=9
+1C=A
+1D=B
+1E=C
+1F=D
+20=E
+21=F
+22=G
+23=H
+24=I
+25=J
+26=K
+27=L
+28=M
+29=N
+2A=P
+2B=Q
+2C=R
+2D=S
+2E=T
+2F=U
+30=V
+31=W
+32=X
+33=Y
+34=Z
+35=*
+36=.
+37=,
+38=-
+39='
+3A=!
+3B=;
+3C=:

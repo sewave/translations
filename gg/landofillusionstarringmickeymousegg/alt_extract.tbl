@@ -1,0 +1,68 @@
+; alt_extract.tbl - tabla de codificacion (byte -> caracter) para la EXTRACCION
+; de los bloques "alt" de Land of Illusion (Game Gear).
+;
+; Formato: HH=caracter   (todo lo que sigue al primer '=' es el caracter)
+; Los bytes no listados aqui se extraen como [HH].
+;
+; QUE SON LOS BLOQUES "ALT":
+;   Son name tables LZ del banco 0x08 (rutina LZ 0x0884) que NO usan la fuente
+;   principal del juego, sino una SEGUNDA fuente (los overlays: cajas de pausa,
+;   "TIME UP", el prompt de la flauta magica y las 4 pantallas de consejo).
+;   En la version SMS esta familia se extraia con codigos tipo
+;   [A3][99][A7][A5][99][00] ("PAUSA"); en Game Gear los codigos son otros.
+;
+; FORMATO:
+;   Igual que el texto de pantalla normal: name table, 2 bytes por celda
+;   (codigo_de_caracter, atributo). El byte bajo es el caracter. El atributo
+;   distingue la "pagina" de tiles (ver abajo).
+;
+; FUENTE ALT DESCIFRADA (cruzando los textos en claro de la version SMS):
+;   La fuente alt esta partida en dos paginas de tiles. El orden de las letras
+;   NO es alfabetico (son indices de tile). Se ha descifrado leyendo los textos
+;   (p.ej. "YOU FOUND THE CLOUD WALKING SHOES. NOW YOU CAN WALK ON CLOUDS.").
+;
+;   La puntuacion se ha fijado comparando cada frase con su equivalente SMS:
+;     21 = . (punto)      22 = , (coma)      23 = ! (exclamacion)
+;     B9 = ? (interrogacion)
+;
+;   DOS PAGINAS DE TILES. La pagina BASE (atributo 0x19) tiene O, A..Y (sin V/X),
+;   J, K, Q, R, W y '?'. La pagina EXTENDIDA (atributo 0x18) tiene el resto:
+;     V=1E   X=1F   Z=20   y la puntuacion   . =21   , =22   ! =23   - =24
+;   (0x1D no lo usa ningun texto). Asi que las letras que "faltaban" (V, X, Z) SI existen,
+;   solo que en la pagina extendida; J, K y Q ya estaban en la base.
+;
+; NOTA sobre 0x00: es el espacio (y tambien el relleno de las celdas vacias).
+00= 
+9E=O
+A8=A
+A9=B
+AA=C
+AB=D
+AC=E
+AD=F
+AE=G
+AF=H
+B0=I
+B1=L
+B2=M
+B3=N
+B4=P
+B5=S
+B6=T
+B7=U
+B8=Y
+; --- pagina BASE (atributo 0x19) ---
+B9=?
+BB=J
+BC=K
+BD=Q
+BE=R
+BF=W
+; --- pagina EXTENDIDA (atributo 0x18) ---
+1E=V
+1F=X
+20=Z
+21=.
+22=,
+23=!
+24=-

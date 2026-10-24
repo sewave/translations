@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "comment": "Overlays de fuente alternativa (GG). Ver alt_extract.tbl.",
+  "table": "alt_extract.tbl",
+  "blocks": {
+    "pause_box": {
+      "text_address": "0x0221D8",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1D-0x24",
+      "preserve_attrs": true,
+      "region_start": 0,
+      "region_cells": 32,
+      "cells": 32,
+      "text_span": [
+        13,
+        19
+      ],
+      "messages": {
+        "0": {
+          "text_offset": "0x0000",
+          "cell": 0,
+          "cells": 32,
+          "original": "             PAUSED             "
+        }
+      }
+    },
+    "time_up_box": {
+      "text_address": "0x0221F2",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1D-0x24",
+      "preserve_attrs": true,
+      "region_start": 0,
+      "region_cells": 32,
+      "cells": 32,
+      "text_span": [
+        13,
+        20
+      ],
+      "messages": {
+        "0": {
+          "text_offset": "0x0000",
+          "cell": 0,
+          "cells": 32,
+          "original": "             TIME UP            "
+        }
+      }
+    },
+    "flute_prompt": {
+      "text_address": "0x02220D",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1D-0x24",
+      "preserve_attrs": true,
+      "region_start": 0,
+      "region_cells": 126,
+      "cells": 126,
+      "text_span": [
+        20,
+        102
+      ],
+      "messages": {
+        "0": {
+          "text_offset": "0x0000",
+          "cell": 0,
+          "cells": 126,
+          "original": "                    CAN THE MAGIC                       FLUTE BE USED?                         YES [BA]NO                        "
+        }
+      }
+    },
+    "hint_potion": {
+      "text_address": "0x022485",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1D-0x24",
+      "preserve_attrs": true,
+      "region_start": 0,
+      "region_cells": 252,
+      "cells": 252,
+      "text_span": [
+        20,
+        214
+      ],
+      "messages": {
+        "0": {
+          "text_offset": "0x0000",
+          "cell": 0,
+          "cells": 252,
+          "original": "                    YOU FOUND THE     MAGIC POTION!    WHILE CROUCHING,    PRESS BUTTON                                                           [9F] TO SHRINK IN   SIZE. YOU RETURN   TO NORMAL SIZE     THE SAME WAY.                                      "
+        }
+      }
+    },
+    "hint_rope": {
+      "text_address": "0x022550",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1D-0x24",
+      "preserve_attrs": true,
+      "region_start": 0,
+      "region_cells": 252,
+      "cells": 252,
+      "text_span": [
+        20,
+        215
+      ],
+      "messages": {
+        "0": {
+          "text_offset": "0x0000",
+          "cell": 0,
+          "cells": 252,
+          "original": "                    YOU FOUND THE         ROPE!         YOU CAN CLIMB    WALLS BY SIMPLY       RUNNING                                                             TOWARDS THEM AND      PRESSING      THE D BUTTON UP.                                     "
+        }
+      }
+    },
+    "hint_enemies": {
+      "text_address": "0x022602",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1D-0x24",
+      "preserve_attrs": true,
+      "region_start": 0,
+      "region_cells": 252,
+      "cells": 252,
+      "text_span": [
+        21,
+        211
+      ],
+      "messages": {
+        "0": {
+          "text_offset": "0x0000",
+          "cell": 0,
+          "cells": 252,
+          "original": "                     ALL KINDS OF        ENEMIES       WILL TRY TO STOP    YOU, MICKEY.                                                                               PLEASE, BY       ALL MEANS BE        CAREFUL.                                         "
+        }
+      }
+    },
+    "hint_shoes": {
+      "text_address": "0x0226A7",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1D-0x24",
+      "preserve_attrs": true,
+      "region_start": 0,
+      "region_cells": 126,
+      "cells": 126,
+      "text_span": [
+        20,
+        107
+      ],
+      "messages": {
+        "0": {
+          "text_offset": "0x0000",
+          "cell": 0,
+          "cells": 126,
+          "original": "                    YOU FOUND THE     CLOUD WALKING         SHOES!         NOW YOU CAN      WALK ON CLOUDS.                   "
+        }
+      }
+    },
+    "flute_overlay": {
+      "text_address": "0x022265",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "raw_alt",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1D-0x24",
+      "preserve_attrs": true,
+      "cells": 24,
+      "note": "Name table cruda (sin comprimir): copias de 'YES' que se redibujan al mover el cursor. El marcador [BA] y el marco no se tocan.",
+      "messages": {
+        "0": {
+          "text_offset": "0x022273",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022265",
+          "cell": 7,
+          "cells": 3,
+          "original": "YES"
+        },
+        "1": {
+          "text_offset": "0x022287",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022265",
+          "cell": 17,
+          "cells": 3,
+          "original": "YES"
+        }
+      }
+    }
+  }
+}

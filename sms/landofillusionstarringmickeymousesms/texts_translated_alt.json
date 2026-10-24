@@ -1,0 +1,462 @@
+{
+  "schema": 1,
+  "comment": "Textos con fuente alternativa del banco 0x08 (cajas de pausa, barra de estado y consejos). Tabla: alt_extract.tbl.",
+  "blocks": {
+    "pause_box": {
+      "text_address": "0x0222F2",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "Caja de 32x4 celdas; no tocar el marco.",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "preserve_attrs": true,
+      "letter_attr": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1E-0x26",
+      "cells": 128,
+      "loader_address": "0x002B38",
+      "messages": {
+        "0": {
+          "text_offset": "0x009A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x0222F2",
+          "cell": 77,
+          "cells": 6,
+          "original": "PAUSED",
+          "translated": "PAUSA "
+        }
+      }
+    },
+    "time_up_box": {
+      "text_address": "0x0223B3",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "Caja de 32x4 celdas; no tocar el marco.",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "preserve_attrs": true,
+      "letter_attr": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1E-0x26",
+      "cells": 128,
+      "loader_address": "0x002D97",
+      "messages": {
+        "0": {
+          "text_offset": "0x0096",
+          "pointer_offset": "0x0000",
+          "block_address": "0x0223B3",
+          "cell": 75,
+          "cells": 8,
+          "original": " TIME UP",
+          "translated": " TIEMPO "
+        }
+      }
+    },
+    "flute_prompt": {
+      "text_address": "0x02233D",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "Caja de 32x4 celdas; la respuesta (SI/NO) va en la fila inferior. No tocar el marco.",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "preserve_attrs": true,
+      "letter_attr": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1E-0x28",
+      "cells": 128,
+      "loader_address": "0x002B33",
+      "messages": {
+        "0": {
+          "text_offset": "0x0044",
+          "pointer_offset": "0x0000",
+          "block_address": "0x02233D",
+          "cell": 34,
+          "cells": 29,
+          "original": " CAN THE MAGIC FLUTE BE USED?",
+          "translated": "  ¿QUIERES USAR LA FLAUTA?   "
+        },
+        "1": {
+          "text_offset": "0x009A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x02233D",
+          "cell": 77,
+          "cells": 4,
+          "original": "YES ",
+          "translated": "SÍ  "
+        },
+        "2": {
+          "text_offset": "0x00A2",
+          "pointer_offset": "0x0000",
+          "block_address": "0x02233D",
+          "cell": 81,
+          "cells": 4,
+          "original": "[B4]NO ",
+          "translated": "[B4]NO "
+        }
+      }
+    },
+    "flute_overlay": {
+      "text_address": "0x0223FF",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "raw_patch",
+      "table": "alt",
+      "note": "Name table cruda (sin comprimir). Las dos copias de 'YES' se redibujan al mover el cursor; el [B4] y el marco (0xBC-0xBF) no se tocan.",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "preserve_attrs": true,
+      "letter_attr": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1E-0x26",
+      "cells": 134,
+      "loader_address": "0x002BCD",
+      "messages": {
+        "0": {
+          "text_offset": "0x022405",
+          "pointer_offset": "0x0000",
+          "block_address": "0x0223FF",
+          "cell": 3,
+          "cells": 3,
+          "original": "YES",
+          "translated": "SÍ "
+        },
+        "1": {
+          "text_offset": "0x022411",
+          "pointer_offset": "0x0000",
+          "block_address": "0x0223FF",
+          "cell": 9,
+          "cells": 3,
+          "original": "YES",
+          "translated": "SÍ "
+        }
+      }
+    },
+    "map_statusbar": {
+      "text_address": "0x022249",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "No tocar los tiles [B7]/[B8]/[BA] (marco y remates girados).",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "preserve_attrs": true,
+      "letter_attr": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1E-0x26",
+      "cells": 128,
+      "width": 32,
+      "loader_address": "0x002290",
+      "messages": {
+        "0": {
+          "text_offset": "0x0002",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022249",
+          "cell": 1,
+          "cells": 31,
+          "original": "[B8][B7][B7][B7]POWER[B7][B7][BA]TRIES[BA][B7]SCORE[B7][BA]TIME[B8]",
+          "translated": "[B8][B7][B7][B7]PODER[B7][B7][BA]VIDAS[BA][B7]MARCA[B7][BA]TMPO[B8]"
+        }
+      }
+    },
+    "air_box": {
+      "text_address": "0x0222DA",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "No tocar los tiles [B7]/[B8]/[BA] (marco y remates girados).",
+      "entry_size": 2,
+      "attribute": "0x19",
+      "preserve_attrs": true,
+      "letter_attr": "0x19",
+      "small_attr": "0x18",
+      "small_codes": "0x1E-0x26",
+      "cells": 21,
+      "width": 21,
+      "loader_address": "0x00229F",
+      "messages": {
+        "0": {
+          "text_offset": "0x0000",
+          "pointer_offset": "0x0000",
+          "block_address": "0x0222DA",
+          "cell": 0,
+          "cells": 21,
+          "original": "[B7][B7]AIR[B7][B7]       [B5][B5][B5][B5][B5][B5][B5]",
+          "translated": "[B7][B7]AIRE[B7]       [B5][B5][B5][B5][B5][B5][B5]"
+        }
+      }
+    },
+    "hint_rope": {
+      "text_address": "0x022931",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "Lineas de 24 caracteres; no cambiar el numero de lineas.",
+      "entry_size": 2,
+      "attribute": "0x09",
+      "preserve_attrs": true,
+      "letter_attr": "0x09",
+      "small_attr": "0x08",
+      "small_codes": "0xE0-0xEE",
+      "cells": 468,
+      "width": 26,
+      "loader_address": "0x0226DB",
+      "messages": {
+        "0": {
+          "text_offset": "0x006A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022931",
+          "cell": 53,
+          "cells": 24,
+          "original": " YOU FOUND THE ROPE!    ",
+          "translated": " ¡HALLASTE LA CUERDA!   "
+        },
+        "1": {
+          "text_offset": "0x00D2",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022931",
+          "cell": 105,
+          "cells": 24,
+          "original": " YOU CAN CLIMB WALLS BY ",
+          "translated": " PUEDES ESCALAR MUROS   "
+        },
+        "2": {
+          "text_offset": "0x013A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022931",
+          "cell": 157,
+          "cells": 24,
+          "original": " SIMPLY RUNNING TOWARDS ",
+          "translated": " SIMPLEMENTE CORRIENDO  "
+        },
+        "3": {
+          "text_offset": "0x023E",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022931",
+          "cell": 287,
+          "cells": 24,
+          "original": " THEM AND PRESSING THE  ",
+          "translated": " HACIA ELLOS Y PULSANDO "
+        },
+        "4": {
+          "text_offset": "0x02A6",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022931",
+          "cell": 339,
+          "cells": 24,
+          "original": " D BUTTON UP.           ",
+          "translated": " ARRIBA EN EL MANDO.    "
+        },
+        "5": {
+          "text_offset": "0x030E",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022931",
+          "cell": 391,
+          "cells": 24,
+          "original": "                        ",
+          "translated": "                        "
+        }
+      }
+    },
+    "hint_potion": {
+      "text_address": "0x022823",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "Lineas de 24 caracteres; no cambiar el numero de lineas.",
+      "entry_size": 2,
+      "attribute": "0x09",
+      "preserve_attrs": true,
+      "letter_attr": "0x09",
+      "small_attr": "0x08",
+      "small_codes": "0xE0-0xEE",
+      "cells": 468,
+      "width": 26,
+      "loader_address": "0x0226DD",
+      "messages": {
+        "0": {
+          "text_offset": "0x006A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022823",
+          "cell": 53,
+          "cells": 24,
+          "original": " YOU FOUND THE MAGIC    ",
+          "translated": " ¡HALLASTE LA POCIÓN    "
+        },
+        "1": {
+          "text_offset": "0x00D2",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022823",
+          "cell": 105,
+          "cells": 24,
+          "original": " POTION! WHILE          ",
+          "translated": " MÁGICA! ESTANDO        "
+        },
+        "2": {
+          "text_offset": "0x013A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022823",
+          "cell": 157,
+          "cells": 24,
+          "original": " CROUCHING, PRESS BUTTON",
+          "translated": " AGACHADO, PULSA 1 PARA "
+        },
+        "3": {
+          "text_offset": "0x023E",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022823",
+          "cell": 287,
+          "cells": 24,
+          "original": " 1 TO SHRINK IN SIZE.   ",
+          "translated": " ENCOGER. PARA VOLVER A "
+        },
+        "4": {
+          "text_offset": "0x02A6",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022823",
+          "cell": 339,
+          "cells": 24,
+          "original": " YOU RETURN TO NORMAL   ",
+          "translated": " LA NORMALIDAD, VUELVE  "
+        },
+        "5": {
+          "text_offset": "0x030E",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022823",
+          "cell": 391,
+          "cells": 24,
+          "original": " SIZE THE SAME WAY.     ",
+          "translated": " A HACER LO MISMO.      "
+        }
+      }
+    },
+    "hint_shoes": {
+      "text_address": "0x022B1C",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "Lineas de 24 caracteres; no cambiar el numero de lineas.",
+      "entry_size": 2,
+      "attribute": "0x09",
+      "preserve_attrs": true,
+      "letter_attr": "0x09",
+      "small_attr": "0x08",
+      "small_codes": "0xE0-0xEE",
+      "cells": 234,
+      "width": 26,
+      "loader_address": "0x0226DF",
+      "messages": {
+        "0": {
+          "text_offset": "0x006A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022B1C",
+          "cell": 53,
+          "cells": 24,
+          "original": " YOU FOUND THE CLOUD    ",
+          "translated": " ¡HALLASTE LOS ZAPATOS  "
+        },
+        "1": {
+          "text_offset": "0x00D2",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022B1C",
+          "cell": 105,
+          "cells": 24,
+          "original": " WALKING SHOES! NOW YOU ",
+          "translated": " DE LAS NUBES! AHORA    "
+        },
+        "2": {
+          "text_offset": "0x013A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022B1C",
+          "cell": 157,
+          "cells": 24,
+          "original": " CAN WALK ON CLOUDS.    ",
+          "translated": " PUEDES ANDAR EN NUBES. "
+        }
+      }
+    },
+    "hint_enemies": {
+      "text_address": "0x022A2B",
+      "pointer_address": "0x000000",
+      "bank": "0x08",
+      "method": "lz_patch",
+      "table": "alt",
+      "note": "Lineas de 24 caracteres; no cambiar el numero de lineas.",
+      "entry_size": 2,
+      "attribute": "0x09",
+      "preserve_attrs": true,
+      "letter_attr": "0x09",
+      "small_attr": "0x08",
+      "small_codes": "0xE0-0xEE",
+      "cells": 468,
+      "width": 26,
+      "loader_address": "0x0226E1",
+      "messages": {
+        "0": {
+          "text_offset": "0x006A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022A2B",
+          "cell": 53,
+          "cells": 24,
+          "original": " ALL KINDS OF ENEMIES   ",
+          "translated": " TODO TIPO DE ENEMIGOS  "
+        },
+        "1": {
+          "text_offset": "0x00D2",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022A2B",
+          "cell": 105,
+          "cells": 24,
+          "original": " WILL TRY TO STOP YOU,  ",
+          "translated": " VAN A TRATAR DE        "
+        },
+        "2": {
+          "text_offset": "0x013A",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022A2B",
+          "cell": 157,
+          "cells": 24,
+          "original": " MICKEY.                ",
+          "translated": " DETENERTE, MICKEY.     "
+        },
+        "3": {
+          "text_offset": "0x023E",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022A2B",
+          "cell": 287,
+          "cells": 24,
+          "original": " PLEASE,BY ALL MEANS BE ",
+          "translated": " POR FAVOR, TEN MUCHO   "
+        },
+        "4": {
+          "text_offset": "0x02A6",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022A2B",
+          "cell": 339,
+          "cells": 24,
+          "original": " CAREFUL.               ",
+          "translated": " CUIDADO.               "
+        },
+        "5": {
+          "text_offset": "0x030E",
+          "pointer_offset": "0x0000",
+          "block_address": "0x022A2B",
+          "cell": 391,
+          "cells": 24,
+          "original": "                        ",
+          "translated": "                        "
+        }
+      }
+    }
+  }
+}

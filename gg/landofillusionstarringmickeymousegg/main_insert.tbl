@@ -1,0 +1,62 @@
+; main_insert.tbl - tabla de codificacion (caracter -> byte) para la INSERCION
+; Land of Illusion Starring Mickey Mouse (Game Gear)
+;
+; Formato: caracter=HH
+;   - El caracter es todo lo que hay antes del ULTIMO '='.
+;   - HH es el byte hexadecimal a insertar.
+;   - La linea " =00" define el byte para el espacio.
+;   - Los codigos [HH] del JSON se insertan como el byte literal HH.
+;   - La fuente del juego NO contiene glifos para vocales acentuadas, N con
+;     virgulilla, ni signos de apertura invertidos. Se sustituyen aqui por su
+;     caracter base (el texto queda legible aunque sin acento).
+;
+; LA FUENTE NO TIENE esos glifos: el USUARIO puede reasignar estos reemplazos
+; (columna de la derecha) si decide anadir glifos nuevos a la fuente.
+;
+; --- base (identica a main_extract.tbl) ---
+ =00
+A=01
+B=02
+C=03
+D=04
+E=05
+F=06
+G=07
+H=08
+I=09
+J=0A
+K=0B
+L=0C
+M=0D
+N=0E
+P=0F
+Q=10
+R=11
+S=12
+T=13
+U=14
+V=15
+W=16
+X=17
+Y=18
+Z=19
+.=1A
+'=1B
+,=1C
+?=1D
+!=1E
+O=20
+-=2A
+;
+; --- caracteres del espanol: reemplazos (EDITABLE POR EL USUARIO) ---
+; El lado izquierdo es el caracter que se escribe en la traduccion; el derecho,
+; el byte de la fuente que se dibuja en su lugar.
+Á=17
+É=05
+Í=1B
+Ó=20
+Ú=14
+Ü=14
+Ñ=0E
+¿=1D
+¡=1D

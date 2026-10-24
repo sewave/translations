@@ -1,0 +1,80 @@
+; credits_insert.tbl - tabla de codificacion (caracter -> byte) para las
+; pantallas de CREDITOS finales (STAFF) y de RESULTADOS (TOTAL POWER STARS).
+; Land of Illusion Starring Mickey Mouse (SMS)
+;
+; Formato: caracter=HH
+;   - El caracter es todo lo que hay antes del ULTIMO '='.
+;   - HH es el byte hexadecimal a insertar.
+;   - La linea " =11" define el byte para el espacio.
+; Los codigos [HH] en texts_translated_credits.json insertan el byte literal HH.
+;
+; FUENTE: cuarta fuente del juego (LZ 0x064509, 48 tiles 4bpp). Orden inverso de
+; credits_extract.tbl:
+;   0x11 espacio, 0x12 O, 0x13..0x1B 1..9, 0x1C..0x34 A..Z (sin la N),
+;   0x35..0x3C * . , - ' ! ; :
+; La fuente no tiene vocales acentuadas, N con virgulilla ni signos de apertura:
+; abajo se definen sus reemplazos (los crea el usuario).
+ =11
+A=1C
+B=1D
+C=1E
+D=1F
+E=20
+F=21
+G=22
+H=23
+I=24
+J=25
+K=26
+L=27
+M=28
+N=29
+O=12
+P=2A
+Q=2B
+R=2C
+S=2D
+T=2E
+U=2F
+V=30
+W=31
+X=32
+Y=33
+Z=34
+0=12
+1=13
+2=14
+3=15
+4=16
+5=17
+6=18
+7=19
+8=1A
+9=1B
+*=35
+.=36
+,=37
+-=38
+'=39
+!=3A
+;=3B
+:=3C
+
+; --- REEMPLAZOS DEL ESPANOL (definidos por el USUARIO) ---
+; La fuente de los creditos no tiene glifos para vocales acentuadas, N con
+; virgulilla ni signos de apertura. Cada uno se inserta con el byte de su
+; letra/signo base para que se lea correctamente aunque el acento no se dibuje.
+;   A-aguda=1C  E-aguda=20  I-aguda=24  O-aguda=12  U-aguda=2F
+;   U-dieresis=2F  N-tilde=29
+;   exclamacion invertida=3A (mismo glifo que '!')
+;   interrogacion invertida=11 (mismo glifo que '?'; aqui '?' no existe,
+;   se usa el espacio como reemplazo mas neutro)
+Á=1C
+É=20
+Í=24
+Ó=12
+Ú=2F
+Ü=2F
+Ñ=37
+¡=3A
+¿=11

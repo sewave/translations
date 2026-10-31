@@ -1,0 +1,42 @@
+# Tabla de insercion 3 - Bloque crawl (intro y final) del banco 5.
+# Formato: caracter=HH  (HH = byte de caracter dentro de una entrada de bigrama).
+# El espacio es =FF. Los bytes que no esten aqui se escriben con [HH].
+# El diccionario de bigramas se reconstruye al insertar (ver insert_all.py).
+ =FF
+A=00
+B=01
+C=02
+D=03
+E=04
+F=05
+G=06
+H=07
+I=08
+J=09
+K=0A
+L=0B
+M=0C
+N=0D
+O=0E
+P=0F
+Q=10
+R=11
+S=12
+T=13
+U=14
+V=15
+W=16
+X=17
+Y=18
+Z=19
+.=1A
+,=1B
+!=1C
+¡=1D
+# --- reemplazos pendientes de definir por el usuario ---
+# La traduccion del crawl usa estos caracteres; define aqui su byte de reemplazo
+# dentro de la entrada del bigrama (p. ej. "Á=00" = el glifo de la A).
+Á=00
+Ñ=0D
+Ó=0E
+Ú=14

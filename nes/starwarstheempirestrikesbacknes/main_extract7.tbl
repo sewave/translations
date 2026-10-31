@@ -1,0 +1,24 @@
+# Tabla de extraccion 7 - pantallas 17-19: titulo (JVC PRESENTS / A / PRODUCTION) y menu CONTINUES:
+# Fuente propia en el banco CHR de 2 KB 8 (b7=$10); los codigos son
+# los de la nametable (>= $80 = segundo banco de 2 KB de la pantalla).
+# Formato: HH=caracter. El espacio es 00.
+# Letras sin glifo en esta fuente: B F G H K L M Q W X Z
+# (la CHR no tiene hueco libre: no se pueden anadir glifos).
+
+00= 
+0B=Y
+0C=N
+0D=J
+0E=V
+0F=C
+10=P
+11=R
+12=E
+13=S
+14=T
+15=A
+94=O
+95=D
+96=U
+97=I
+9B=:

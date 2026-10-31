@@ -1,0 +1,30 @@
+# Tabla de extraccion 4 - pantalla 8 (mensajes: COMMANDER SKYWALKER / WALKERS ARE APPROACHING...)
+# Fuente propia en el banco CHR de 2 KB 7 (b7=$0C); los codigos son
+# los de la nametable (>= $80 = segundo banco de 2 KB de la pantalla).
+# Formato: HH=caracter. El espacio es 00.
+# Letras sin glifo en esta fuente: B J Q V X Z
+# (la CHR no tiene hueco libre: no se pueden anadir glifos).
+
+00= 
+E6=C
+E7=O
+E8=M
+E9=A
+EA=N
+EB=D
+EC=E
+ED=R
+EE=S
+EF=K
+F0=Y
+F1=W
+F2=L
+F3=,
+F4=I
+F5=P
+F6=H
+F7=G
+F8=.
+F9=T
+FA=U
+FB=F

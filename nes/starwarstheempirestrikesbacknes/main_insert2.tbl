@@ -1,0 +1,41 @@
+# Tabla de insercion 2 - Bloque de introduccion / crawl (banco 5)
+# Formato: caracter=HH  (HH = byte destino). El espacio es =00.
+# Los bytes que no esten aqui se escriben con [HH] en el texto.
+# Para usar acentos u otros caracteres: anade aqui su byte (p.ej. "A'=XX").
+ =00
+T=01
+H=02
+E=03
+M=04
+P=05
+I=06
+R=07
+S=08
+K=09
+B=0A
+A=0B
+C=0C
+U=0D
+L=0E
+D=0F
+Y=10
+J=11
+V=12
+N=13
+G=15
+O=16
+F=17
+W=18
+X=23
+.=14
+,=22
+# --- reemplazos pendientes de definir por el usuario ---
+# Las pantallas (bloque 'screens') solo pueden usar glifos que ya existan en la
+# fuente: un caracter sin glifo se mapea aqui a su letra/glifo de reemplazo
+# (p. ej. "Á=A" si se prefiere sin acento).
+Á=0B
+É=03
+Í=06
+Ó=16
+Ú=0D
+Ñ=13

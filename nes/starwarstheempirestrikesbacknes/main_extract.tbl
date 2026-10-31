@@ -1,0 +1,37 @@
+# Tabla de extraccion - Star Wars: The Empire Strikes Back (NES)
+# Formato: HH=caracter   (HH = byte en hexadecimal)
+# Los bytes que no aparezcan aqui se extraen como [HH].
+# 0x00 (salto de linea, representado como <nl>) y 0xFF (fin de bloque)
+# los gestiona el script.
+# Base del renderer: tile = byte + 0xA4 (fuente en CHR bank 21).
+3D=.
+3E=,
+3F=!
+40='
+41=A
+42=B
+43=C
+44=D
+45=E
+46=F
+47=G
+48=H
+49=I
+4A=J
+4B=K
+4C=L
+4D=M
+4E=N
+4F=O
+50=P
+51=Q
+52=R
+53=S
+54=T
+55=U
+56=V
+57=W
+58=X
+59=Y
+5A=Z
+5B= 

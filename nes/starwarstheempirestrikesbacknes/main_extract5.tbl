@@ -1,0 +1,30 @@
+# Tabla de extraccion 5 - pantallas 11 y 12 (mensajes de Yoda)
+# Fuente propia en el banco CHR de 2 KB 11 (b7=$14); los codigos son
+# los de la nametable (>= $80 = segundo banco de 2 KB de la pantalla).
+# Formato: HH=caracter. El espacio es 00.
+# Letras sin glifo en esta fuente: B J K P Q Z
+# (la CHR no tiene hueco libre: no se pueden anadir glifos).
+
+00= 
+AF=N
+B0=O
+B1=W
+B2=A
+B3=L
+B4=I
+B5=H
+B6=V
+B7=E
+B8=T
+B9=D
+BA=S
+BB=F
+BC=Y
+BD=,
+BE=R
+BF=X
+C0=.
+F3=G
+F4=M
+F5=U
+F6=C

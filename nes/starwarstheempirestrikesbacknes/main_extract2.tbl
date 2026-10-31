@@ -1,0 +1,33 @@
+# Tabla de extraccion 2 - Bloque de introduccion / crawl (banco 5)
+# Fuente: CHR0. Las letras NO estan en orden alfabetico, sino por frecuencia.
+# 0x00 = espacio. Los bytes que no aparezcan aqui se extraen como [HH]
+# (asi los codigos de control de la intro quedan como [HH]).
+# Se usa tambien para el texto de las pantallas comprimidas (bloque 'screens').
+# Puntuacion de las pantallas:
+00= 
+01=T
+02=H
+03=E
+04=M
+05=P
+06=I
+07=R
+08=S
+09=K
+0A=B
+0B=A
+0C=C
+0D=U
+0E=L
+0F=D
+10=Y
+11=J
+12=V
+13=N
+15=G
+16=O
+17=F
+18=W
+23=X
+14=.
+22=,

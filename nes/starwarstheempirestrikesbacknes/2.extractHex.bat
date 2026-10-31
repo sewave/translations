@@ -1,0 +1,5 @@
+@echo off
+set T_FILENAME="TR_Star Wars - The Empire Strikes Back (USA).nes"
+set SCRIPTNAME="starwarstheempirestrikesbacknes"
+java -jar Hextractor.jar -eh %T_FILENAME% %SCRIPTNAME%.ext.hex 45B20:10,46DE0:10,46F00:10,43F70:20,4EE40:20,4F640:20,68640:20,68E40:20,69640:20,69E40:20,6A640:20,6AE40:20,6CE40:20,6DE40:20,6EE40:20,70E40:20,71E40:20,401D0:20,601E0:10
+pause

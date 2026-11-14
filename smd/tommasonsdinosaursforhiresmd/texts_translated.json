@@ -1,0 +1,1089 @@
+{
+  "schema": 1,
+  "comment": "Traduccion al espanol (es-ES) generada con work/translate.py. Los caracteres acentuados se insertan con su letra sin acento segun main_insert.tbl, a la espera de los glifos nuevos.",
+  "rom": "Tom Mason's Dinosaurs for Hire (USA).md",
+  "insert_table": "main_insert.tbl",
+  "blocks": {
+    "title": {
+      "text_address": "0x177F8",
+      "pointer_address": "0x1763C",
+      "method": "ascii_z",
+      "note": "Cartel del título (menú principal).",
+      "messages": {
+        "0": {
+          "text_offset": "0x177F8",
+          "pointer_offset": "0x1763C",
+          "pointer_offsets": [
+            "0x1763C"
+          ],
+          "original": "Press Start",
+          "translated": "Pulsa Start"
+        },
+        "1": {
+          "text_offset": "0x17804",
+          "pointer_offset": "0x177B8",
+          "pointer_offsets": [
+            "0x177B8"
+          ],
+          "original": "One Player ",
+          "translated": "Un Jugador "
+        },
+        "2": {
+          "text_offset": "0x17810",
+          "pointer_offset": "0x177D2",
+          "pointer_offsets": [
+            "0x177D2"
+          ],
+          "original": "Two Players",
+          "translated": "Dos Jugadores"
+        },
+        "3": {
+          "text_offset": "0x1781C",
+          "pointer_offset": "0x177EC",
+          "pointer_offsets": [
+            "0x177EC"
+          ],
+          "original": "Options",
+          "translated": "Opciones"
+        },
+        "4": {
+          "text_offset": "0x17824",
+          "pointer_offset": "0x1761E",
+          "pointer_offsets": [
+            "0x1761E"
+          ],
+          "original": "(C) 1993 SEGA",
+          "translated": "(C) 1993 SEGA"
+        }
+      }
+    },
+    "press_start": {
+      "text_address": "0x17F72",
+      "pointer_address": "0x17F3A",
+      "method": "ascii_z",
+      "note": "Aviso 'PRESS START' de la pantalla del título.",
+      "messages": {
+        "0": {
+          "text_offset": "0x17F72",
+          "pointer_offset": "0x17F3A",
+          "pointer_offsets": [
+            "0x17F3A"
+          ],
+          "original": "PRESS START",
+          "translated": "PULSA START"
+        }
+      }
+    },
+    "hud": {
+      "text_address": "0xA0E6",
+      "pointer_address": "0x9F7C",
+      "method": "ascii_z",
+      "note": "Etiqueta de jugador del HUD.",
+      "messages": {
+        "0": {
+          "text_offset": "0xA0E6",
+          "pointer_offset": "0x9F7C",
+          "pointer_offsets": [
+            "0x9F7C"
+          ],
+          "original": "PLAYER",
+          "translated": "JUGADOR"
+        },
+        "1": {
+          "text_offset": "0xA0EE",
+          "pointer_offset": "0x9FC2",
+          "pointer_offsets": [
+            "0x9FC2"
+          ],
+          "original": "1",
+          "translated": "1"
+        },
+        "2": {
+          "text_offset": "0xA0F0",
+          "pointer_offset": "0x9FD0",
+          "pointer_offsets": [
+            "0x9FD0"
+          ],
+          "original": "2",
+          "translated": "2"
+        }
+      }
+    },
+    "game_over": {
+      "text_address": "0xA370",
+      "pointer_address": "0xA24A",
+      "method": "ascii_z",
+      "note": "Pantalla de fin de partida / continuar.",
+      "messages": {
+        "0": {
+          "text_offset": "0xA370",
+          "pointer_offset": "0xA24A",
+          "pointer_offsets": [
+            "0xA24A"
+          ],
+          "original": "Game  Over",
+          "translated": "¡Se acabó!"
+        },
+        "1": {
+          "text_offset": "0xA37C",
+          "pointer_offset": "0xA2BC",
+          "pointer_offsets": [
+            "0xA2BC"
+          ],
+          "original": "Continue?",
+          "translated": " ¿Seguir?"
+        },
+        "2": {
+          "text_offset": "0xA386",
+          "pointer_offset": "0xA230",
+          "pointer_offsets": [
+            "0xA230"
+          ],
+          "original": "Try Again?",
+          "translated": "¿Otra vez?"
+        },
+        "3": {
+          "text_offset": "0xA392",
+          "pointer_offset": "0xA262",
+          "pointer_offsets": [
+            "0xA262"
+          ],
+          "original": "Continue ",
+          "translated": "Continuar"
+        }
+      }
+    },
+    "level_end": {
+      "text_address": "0xA432",
+      "pointer_address": "0xA3F4",
+      "method": "ascii_z",
+      "note": "Aviso de fin de nivel.",
+      "messages": {
+        "0": {
+          "text_offset": "0xA432",
+          "pointer_offset": "0xA3F4",
+          "pointer_offsets": [
+            "0xA3F4"
+          ],
+          "original": "Level Completed!",
+          "translated": "¡Nivel Superado!"
+        }
+      }
+    },
+    "ready": {
+      "text_address": "0x96FE",
+      "pointer_address": "0x9690",
+      "method": "ascii_z",
+      "note": "Aviso de comienzo de fase.",
+      "messages": {
+        "0": {
+          "text_offset": "0x96FE",
+          "pointer_offset": "0x9690",
+          "pointer_offsets": [
+            "0x9690"
+          ],
+          "original": "Get Ready!",
+          "translated": "¡Prepárate!"
+        }
+      }
+    },
+    "config_menu": {
+      "text_address": "0x14E46",
+      "pointer_address": "0x14592",
+      "method": "ascii_z",
+      "note": "Menú de configuración del juego.",
+      "messages": {
+        "0": {
+          "text_offset": "0x14E46",
+          "pointer_offset": "0x14592",
+          "pointer_offsets": [
+            "0x14592"
+          ],
+          "original": "Dinos' Configuration Menu",
+          "translated": "Menú Configuración Dinos"
+        },
+        "1": {
+          "text_offset": "0x14E60",
+          "pointer_offset": "0x14CA2",
+          "pointer_offsets": [
+            "0x14CA2"
+          ],
+          "original": "Difficulty",
+          "translated": "Dificultad"
+        },
+        "2": {
+          "text_offset": "0x14E6C",
+          "pointer_offset": "0x1498A",
+          "pointer_offsets": [
+            "0x1498A"
+          ],
+          "original": "Easy  ",
+          "translated": "Fácil  "
+        },
+        "3": {
+          "text_offset": "0x14E74",
+          "pointer_offset": "0x14998",
+          "pointer_offsets": [
+            "0x14998"
+          ],
+          "original": "Normal",
+          "translated": "Normal "
+        },
+        "4": {
+          "text_offset": "0x14E7C",
+          "pointer_offset": "0x14D46",
+          "pointer_offsets": [
+            "0x14D46"
+          ],
+          "original": "EXIT  ",
+          "translated": "SALIR "
+        },
+        "5": {
+          "text_offset": "0x14E84",
+          "pointer_offset": "0x149A0",
+          "pointer_offsets": [
+            "0x149A0"
+          ],
+          "original": "Hard  ",
+          "translated": "Difícil"
+        },
+        "6": {
+          "text_offset": "0x14E8C",
+          "pointer_offset": "0x14CBC",
+          "pointer_offsets": [
+            "0x14CBC"
+          ],
+          "original": "Continues",
+          "translated": "Continuar"
+        },
+        "7": {
+          "text_offset": "0x14E96",
+          "pointer_offset": "0x14CD6",
+          "pointer_offsets": [
+            "0x14CD6"
+          ],
+          "original": "Music",
+          "translated": "Música"
+        },
+        "8": {
+          "text_offset": "0x14E9C",
+          "pointer_offset": "0x14CF0",
+          "pointer_offsets": [
+            "0x14CF0"
+          ],
+          "original": "Sound FX",
+          "translated": "Efectos"
+        },
+        "9": {
+          "text_offset": "0x14EA6",
+          "pointer_offset": "0x14D0A",
+          "pointer_offsets": [
+            "0x14D0A"
+          ],
+          "original": "Joystick 1",
+          "translated": "Joystick 1"
+        },
+        "10": {
+          "text_offset": "0x14EB2",
+          "pointer_offset": "0x14654",
+          "pointer_offsets": [
+            "0x14654",
+            "0x14D2C"
+          ],
+          "original": "Joystick 2",
+          "translated": "Joystick 2"
+        },
+        "11": {
+          "text_offset": "0x14EBE",
+          "pointer_offset": "0x145E0",
+          "pointer_offsets": [
+            "0x145E0",
+            "0x1476E"
+          ],
+          "original": "A :",
+          "translated": "A :"
+        },
+        "12": {
+          "text_offset": "0x14EC2",
+          "pointer_offset": "0x145F8",
+          "pointer_offsets": [
+            "0x145F8",
+            "0x14786"
+          ],
+          "original": "B :",
+          "translated": "B :"
+        },
+        "13": {
+          "text_offset": "0x14EC6",
+          "pointer_offset": "0x14610",
+          "pointer_offsets": [
+            "0x14610",
+            "0x1479E"
+          ],
+          "original": "C :",
+          "translated": "C :"
+        },
+        "14": {
+          "text_offset": "0x14ECA",
+          "pointer_offset": "0x14D74",
+          "pointer_offsets": [
+            "0x14D74",
+            "0x14DC6",
+            "0x14E18"
+          ],
+          "original": "Close-up",
+          "translated": "De cerca"
+        },
+        "15": {
+          "text_offset": "0x14ED4",
+          "pointer_offset": "0x14D88",
+          "pointer_offsets": [
+            "0x14D88",
+            "0x14DDA",
+            "0x14E2C"
+          ],
+          "original": "Fire Gun",
+          "translated": "Disparar"
+        },
+        "16": {
+          "text_offset": "0x14EDE",
+          "pointer_offset": "0x14D96",
+          "pointer_offsets": [
+            "0x14D96",
+            "0x14DE8",
+            "0x14E3A"
+          ],
+          "original": "Jump    ",
+          "translated": "Saltar  "
+        },
+        "17": {
+          "text_offset": "0x14EE8",
+          "pointer_offset": "0x1466C",
+          "pointer_offsets": [
+            "0x1466C"
+          ],
+          "original": "Not Connected",
+          "translated": "No conectado "
+        },
+        "18": {
+          "text_offset": "0x14EF6",
+          "pointer_offset": "0x14756",
+          "pointer_offsets": [
+            "0x14756"
+          ],
+          "original": "             ",
+          "translated": "             "
+        }
+      }
+    },
+    "dev_level": {
+      "text_address": "0xE1EE",
+      "pointer_address": "0xE1C0",
+      "method": "ascii_z",
+      "note": "Menú de depuración de selección de fase.",
+      "messages": {
+        "0": {
+          "text_offset": "0xE1EE",
+          "pointer_offset": "0xE1C0",
+          "pointer_offsets": [
+            "0xE1C0"
+          ],
+          "original": "Play Level:",
+          "translated": "Nivel:"
+        }
+      }
+    },
+    "dev_debug": {
+      "text_address": "0x15276",
+      "pointer_address": "0x1532C",
+      "method": "ascii_z",
+      "note": "Texto de depuración (coordenadas/tipo).",
+      "messages": {
+        "0": {
+          "text_offset": "0x15276",
+          "pointer_offset": "0x1532C",
+          "pointer_offsets": [
+            "0x1532C"
+          ],
+          "original": "X=0000    TYPE=00   SET=00    GROUP=00",
+          "translated": "X=0000    TIPO=00   SET=00    GRUPO=00"
+        },
+        "1": {
+          "text_offset": "0x1529D",
+          "pointer_offset": "0x15344",
+          "pointer_offsets": [
+            "0x15344"
+          ],
+          "original": "Y=0000    PANE=00    ID=00            ",
+          "translated": "Y=0000    PANE=00    ID=00            "
+        }
+      }
+    },
+    "stage_names": {
+      "text_address": "0x976A",
+      "pointer_address": "0x970A",
+      "method": "ascii_z_table",
+      "note": "Nombres de fase mostrados en el juego (tabla de punteros de $970A).",
+      "table_address": "0x970A",
+      "table_entries": 24,
+      "messages": {
+        "0": {
+          "text_offset": "0x976A",
+          "pointer_offset": "0x970A",
+          "pointer_offsets": [
+            "0x970A"
+          ],
+          "original": "    Tenement House",
+          "translated": "  Bloque de Viviendas"
+        },
+        "1": {
+          "text_offset": "0x977E",
+          "pointer_offset": "0x970E",
+          "pointer_offsets": [
+            "0x970E"
+          ],
+          "original": "    Subway Part A",
+          "translated": "     Metro Parte A"
+        },
+        "2": {
+          "text_offset": "0x9790",
+          "pointer_offset": "0x9712",
+          "pointer_offsets": [
+            "0x9712"
+          ],
+          "original": "Empire State Building",
+          "translated": " Edificio Empire State"
+        },
+        "3": {
+          "text_offset": "0x97A6",
+          "pointer_offset": "0x9716",
+          "pointer_offsets": [
+            "0x9716"
+          ],
+          "original": "        Cavern",
+          "translated": "        Caverna"
+        },
+        "4": {
+          "text_offset": "0x97B6",
+          "pointer_offset": "0x971A",
+          "pointer_offsets": [
+            "0x971A"
+          ],
+          "original": "    Mega Minotaur",
+          "translated": "    Mega Minotauro"
+        },
+        "5": {
+          "text_offset": "0x97C8",
+          "pointer_offset": "0x971E",
+          "pointer_offsets": [
+            "0x971E"
+          ],
+          "original": " ",
+          "translated": " "
+        },
+        "6": {
+          "text_offset": "0x97CA",
+          "pointer_offset": "0x9722",
+          "pointer_offsets": [
+            "0x9722"
+          ],
+          "original": "  Beneath Hoover Dam",
+          "translated": "  Bajo la Presa Hoover"
+        },
+        "7": {
+          "text_offset": "0x97E0",
+          "pointer_offset": "0x9726",
+          "pointer_offsets": [
+            "0x9726"
+          ],
+          "original": "     Toy Factory",
+          "translated": "  Fábrica de Juguetes"
+        },
+        "8": {
+          "text_offset": "0x97F2",
+          "pointer_offset": "0x972A",
+          "pointer_offsets": [
+            "0x972A"
+          ],
+          "original": "  Jet Ski Adventure",
+          "translated": "    Esquí Acuático"
+        },
+        "9": {
+          "text_offset": "0x9806",
+          "pointer_offset": "0x972E",
+          "pointer_offsets": [
+            "0x972E"
+          ],
+          "original": "Toy Factory Mid-Boss",
+          "translated": " Subjefe de la Fábrica"
+        },
+        "10": {
+          "text_offset": "0x981C",
+          "pointer_offset": "0x9732",
+          "pointer_offsets": [
+            "0x9732"
+          ],
+          "original": "      Hollywood",
+          "translated": "       Hollywood"
+        },
+        "11": {
+          "text_offset": "0x982C",
+          "pointer_offset": "0x9736",
+          "pointer_offsets": [
+            "0x9736"
+          ],
+          "original": "   Hoover Dam Boss",
+          "translated": "   Jefe de la Presa"
+        },
+        "12": {
+          "text_offset": "0x9840",
+          "pointer_offset": "0x973A",
+          "pointer_offsets": [
+            "0x973A"
+          ],
+          "original": "        Japan",
+          "translated": "         Japón"
+        },
+        "13": {
+          "text_offset": "0x984E",
+          "pointer_offset": "0x973E",
+          "pointer_offsets": [
+            "0x973E"
+          ],
+          "original": " ",
+          "translated": " "
+        },
+        "14": {
+          "text_offset": "0x9850",
+          "pointer_offset": "0x9742",
+          "pointer_offsets": [
+            "0x9742"
+          ],
+          "original": "  Japan's Dino Boss",
+          "translated": " Jefe Dino del Japón"
+        },
+        "15": {
+          "text_offset": "0x9864",
+          "pointer_offset": "0x9746",
+          "pointer_offsets": [
+            "0x9746"
+          ],
+          "original": "   Blue Line Train",
+          "translated": "    Tren Línea Azul"
+        },
+        "16": {
+          "text_offset": "0x9878",
+          "pointer_offset": "0x974A",
+          "pointer_offsets": [
+            "0x974A"
+          ],
+          "original": "    Subway Part B",
+          "translated": "     Metro Parte B"
+        },
+        "17": {
+          "text_offset": "0x988A",
+          "pointer_offset": "0x974E",
+          "pointer_offsets": [
+            "0x974E"
+          ],
+          "original": "   Subway Mid-Boss",
+          "translated": "   Subjefe del Metro"
+        },
+        "18": {
+          "text_offset": "0x989E",
+          "pointer_offset": "0x9752",
+          "pointer_offsets": [
+            "0x9752"
+          ],
+          "original": " ",
+          "translated": " "
+        },
+        "19": {
+          "text_offset": "0x98A0",
+          "pointer_offset": "0x9756",
+          "pointer_offsets": [
+            "0x9756"
+          ],
+          "original": " ",
+          "translated": " "
+        },
+        "20": {
+          "text_offset": "0x98A2",
+          "pointer_offset": "0x975A",
+          "pointer_offsets": [
+            "0x975A"
+          ],
+          "original": " ",
+          "translated": " "
+        },
+        "21": {
+          "text_offset": "0x98A4",
+          "pointer_offset": "0x975E",
+          "pointer_offsets": [
+            "0x975E"
+          ],
+          "original": "       The Base",
+          "translated": "        La Base"
+        },
+        "22": {
+          "text_offset": "0x98B4",
+          "pointer_offset": "0x9762",
+          "pointer_offsets": [
+            "0x9762"
+          ],
+          "original": " ",
+          "translated": " "
+        },
+        "23": {
+          "text_offset": "0x98B6",
+          "pointer_offset": "0x9766",
+          "pointer_offsets": [
+            "0x9766"
+          ],
+          "original": "      Final Boss",
+          "translated": "      Jefe Final"
+        }
+      }
+    },
+    "dev_stages": {
+      "text_address": "0xE246",
+      "pointer_address": "0xE1FA",
+      "method": "ascii_z_table",
+      "note": "Lista de fases del menú de depuración. Cada entrada ocupa una ranura fija de 20 bytes: la traducción debe caber en 18 caracteres.",
+      "table_address": "0xE1FA",
+      "table_entries": 19,
+      "messages": {
+        "0": {
+          "text_offset": "0xE246",
+          "pointer_offset": "0xE1FA",
+          "pointer_offsets": [
+            "0xE1FA"
+          ],
+          "original": " 0-Dam Boss Demo  ",
+          "translated": " 0-Demo Jefe Presa"
+        },
+        "1": {
+          "text_offset": "0xE25A",
+          "pointer_offset": "0xE1FE",
+          "pointer_offsets": [
+            "0xE1FE"
+          ],
+          "original": " 1-Tenement House ",
+          "translated": " 1-Bloque de Vivi."
+        },
+        "2": {
+          "text_offset": "0xE26E",
+          "pointer_offset": "0xE202",
+          "pointer_offsets": [
+            "0xE202"
+          ],
+          "original": " 2-Subway Part 1  ",
+          "translated": " 2-Metro Parte 1  "
+        },
+        "3": {
+          "text_offset": "0xE282",
+          "pointer_offset": "0xE206",
+          "pointer_offsets": [
+            "0xE206"
+          ],
+          "original": " 3-Subway Part 2  ",
+          "translated": " 3-Metro Parte 2  "
+        },
+        "4": {
+          "text_offset": "0xE296",
+          "pointer_offset": "0xE20A",
+          "pointer_offsets": [
+            "0xE20A"
+          ],
+          "original": " 4-Subway Mid-Boss",
+          "translated": " 4-Subjefe Metro  "
+        },
+        "5": {
+          "text_offset": "0xE2AA",
+          "pointer_offset": "0xE20E",
+          "pointer_offsets": [
+            "0xE20E"
+          ],
+          "original": " 5-Empire State   ",
+          "translated": " 5-Empire State   "
+        },
+        "6": {
+          "text_offset": "0xE2BE",
+          "pointer_offset": "0xE212",
+          "pointer_offsets": [
+            "0xE212"
+          ],
+          "original": " 6-Mega Minotaur  ",
+          "translated": " 6-Mega Minotauro "
+        },
+        "7": {
+          "text_offset": "0xE2D2",
+          "pointer_offset": "0xE216",
+          "pointer_offsets": [
+            "0xE216"
+          ],
+          "original": " 7-Cavern         ",
+          "translated": " 7-Caverna        "
+        },
+        "8": {
+          "text_offset": "0xE2E6",
+          "pointer_offset": "0xE21A",
+          "pointer_offsets": [
+            "0xE21A"
+          ],
+          "original": " 8-Hoover Dam     ",
+          "translated": " 8-Presa Hoover   "
+        },
+        "9": {
+          "text_offset": "0xE2FA",
+          "pointer_offset": "0xE21E",
+          "pointer_offsets": [
+            "0xE21E"
+          ],
+          "original": " 9-Big Dam Boss   ",
+          "translated": " 9-Jefe de Presa  "
+        },
+        "10": {
+          "text_offset": "0xE30E",
+          "pointer_offset": "0xE222",
+          "pointer_offsets": [
+            "0xE222"
+          ],
+          "original": "10-Jet Ski Adv.   ",
+          "translated": "10-Esquí Acuático "
+        },
+        "11": {
+          "text_offset": "0xE322",
+          "pointer_offset": "0xE226",
+          "pointer_offsets": [
+            "0xE226"
+          ],
+          "original": "11-Hollywood Stage",
+          "translated": "11-Etapa Hollywood"
+        },
+        "12": {
+          "text_offset": "0xE336",
+          "pointer_offset": "0xE22A",
+          "pointer_offsets": [
+            "0xE22A"
+          ],
+          "original": "12-Blueline Train ",
+          "translated": "12-Tren Línea Azul"
+        },
+        "13": {
+          "text_offset": "0xE34A",
+          "pointer_offset": "0xE22E",
+          "pointer_offsets": [
+            "0xE22E"
+          ],
+          "original": "13-Toy Factory    ",
+          "translated": "13-Fábri. Juguetes"
+        },
+        "14": {
+          "text_offset": "0xE35E",
+          "pointer_offset": "0xE232",
+          "pointer_offsets": [
+            "0xE232"
+          ],
+          "original": "14-Toy Mid-Boss   ",
+          "translated": "14-Subjefe Fábrica"
+        },
+        "15": {
+          "text_offset": "0xE372",
+          "pointer_offset": "0xE236",
+          "pointer_offsets": [
+            "0xE236"
+          ],
+          "original": "15-Japan          ",
+          "translated": "15-Japón          "
+        },
+        "16": {
+          "text_offset": "0xE386",
+          "pointer_offset": "0xE23A",
+          "pointer_offsets": [
+            "0xE23A"
+          ],
+          "original": "16-Japan Boss     ",
+          "translated": "16-Jefe de Japón  "
+        },
+        "17": {
+          "text_offset": "0xE39A",
+          "pointer_offset": "0xE23E",
+          "pointer_offsets": [
+            "0xE23E"
+          ],
+          "original": "17-Base           ",
+          "translated": "17-La Base        "
+        },
+        "18": {
+          "text_offset": "0xE3AE",
+          "pointer_offset": "0xE242",
+          "pointer_offsets": [
+            "0xE242"
+          ],
+          "original": "18-Final Boss     ",
+          "translated": "18-Jefe Final     "
+        }
+      }
+    },
+    "bios": {
+      "text_address": "0x160A2",
+      "pointer_address": "0x15D34",
+      "method": "lz_sections",
+      "note": "Fichas ('Dino Files') de Archi, Lorenzo y Reese.",
+      "source_offset": "0x160A2",
+      "source_length": "0x83B",
+      "abs32_sites": [
+        "0x15D34"
+      ],
+      "pc_lea_sites": [],
+      "alloc_sites": [
+        "0x15D1C"
+      ],
+      "alloc_size": "0xD48",
+      "decompressed_size": "0xC2C",
+      "structure": {
+        "prefix": "<nl><nl><nl>[FF] <nl>",
+        "prefix_raw": [
+          0,
+          0,
+          0,
+          255,
+          32,
+          0
+        ],
+        "between": [
+          "[FF]<nl><nl><nl>[FF] <nl>",
+          "[FF][FF] <nl>"
+        ],
+        "suffix": "[FF]",
+        "separators_raw": [
+          [
+            255,
+            0,
+            0,
+            0,
+            255,
+            32,
+            0
+          ],
+          [
+            255,
+            255,
+            32,
+            0
+          ]
+        ],
+        "suffix_raw": [
+          255
+        ]
+      },
+      "messages": {
+        "0": {
+          "text_offset": "0x6",
+          "pointer_offset": "0x15D34",
+          "original": "<c3>ARCHIE<nl><c1> <nl><c4>As the tough-talkin` no-nonsense<nl><c4>leader of DINOSAURS FOR HIRE, this<nl><c4>Tyrannosaurus Rex embodies the very<nl><c4>spirit of the group - seek out<nl><c4>trouble and eliminate it.<nl><c1> <nl><c3>Species-<nl><c4>Tyrannosaurus Rex<nl><c1> <nl><c3>Blood Type-<nl><c4>A, Cold<nl><c1> <nl><c3>Height-<nl><c4>7 Ft., 6 Inches<nl><c1> <nl><c3>Weight-<nl><c4>1400 lbs.<nl><c1> <nl><c3>Shoe Size-<nl><c4>22EEE (Air Dinos)<nl><c1> <nl><c3>Birthdate-<nl><c4>Unknown<nl><c1> <nl><c3>Birthplace<nl><c4>Unknown<nl><c1> <nl><c3>Ambitions-<nl><c4>Wrestle Shadow Yamoto<nl><c1> <nl><c3>Likes-<nl><c4>Comic books, fast food<nl><c1> <nl><c3>Dislikes-<nl><c4>Palaeontologists, network executives<nl><c1> <nl><c3>Favorite Food-<nl><c4>Just put it in front of him, he`ll<nl><c4>eat it<nl><c1> <nl><c3>Dress Code-<nl><c4>Leather Jacket<nl><c1> <nl><c3>Favorite Saying-<nl><c4>Don`t shoot until you want to!<nl><c1> <nl><c3>Favorite Saying, Part II-<nl><c4>Is it cold in here, or is it just me?<nl><c1> <nl><c3>Favorite Song-<nl><c4>California Girls<nl><c1> <nl><c3>Favorite TV Show-<nl><c4>Face the Nation<nl><c1> <nl><c3>Favorite Movie-<nl><c4>King Kong<nl><c1> <nl><c3>Favorite Sport-<nl><c4>Miniature golf<nl><c1> <nl><c3>Last book read-<nl><c4>Jurassic Park by Michael Crichton<nl><c1> <nl><c3>Weakness-<nl><c4>You`ve gotta be kidding!<nl>",
+          "translated": "<c3>ARCHIE<nl><c1> <nl><c4>Como el rudo y directo líder de<nl><c4>DINOSAURS FOR HIRE, este Tiranosaurio<nl><c4>Rex es el espíritu del grupo: buscar<nl><c4>problemas y eliminarlos.<nl><c1> <nl><c3>Especie-<nl><c4>Tiranosaurio Rex<nl><c1> <nl><c3>Grupo sanguíneo-<nl><c4>A, fría<nl><c1> <nl><c3>Altura-<nl><c4>2,28 m (7 pies 6 pulg.)<nl><c1> <nl><c3>Peso-<nl><c4>1400 libras (635 kg)<nl><c1> <nl><c3>Talla de zapato-<nl><c4>22EEE (Air Dinos)<nl><c1> <nl><c3>Nacimiento-<nl><c4>Desconocido<nl><c1> <nl><c3>Lugar de nacimiento-<nl><c4>Desconocido<nl><c1> <nl><c3>Ambiciones-<nl><c4>Luchar con Shadow Yamoto<nl><c1> <nl><c3>Aficiones-<nl><c4>Cómics, comida basura<nl><c1> <nl><c3>Manías-<nl><c4>Paleontólogos, ejecutivos<nl><c1> <nl><c3>Comida favorita-<nl><c4>Ponle algo delante y se lo comerá<nl><c1> <nl><c3>Vestimenta-<nl><c4>Chaqueta de cuero<nl><c1> <nl><c3>Su frase favorita-<nl><c4>¡No dispares hasta que quieras!<nl><c1> <nl><c3>Su frase favorita II-<nl><c4>¿Hace frío aquí o soy yo?<nl><c1> <nl><c3>Canción favorita-<nl><c4>California Girls<nl><c1> <nl><c3>Serie favorita-<nl><c4>Face the Nation<nl><c1> <nl><c3>Película favorita-<nl><c4>King Kong<nl><c1> <nl><c3>Deporte favorito-<nl><c4>Minigolf<nl><c1> <nl><c3>Último libro leído-<nl><c4>Parque Jurásico, de M. Crichton<nl><c1> <nl><c3>Punto débil-<nl><c4>¡Tienes que estar de broma!<nl>"
+        },
+        "1": {
+          "text_offset": "0x3C1",
+          "pointer_offset": "0x15D34",
+          "original": "<c3>LORENZO<nl><c1> <nl><c4>Lorenzo, a triceratops, is the<nl><c4>group`s snob: a lover of fine food,<nl><c4>fine wine and fine clothing.  An<nl><c4>endless supply of hand-tailored<nl><c4>Hawaiian shirts keeps him from having<nl><c4>to wear the same one twice.  Does<nl><c4>anybody know how to get bloodstains<nl><c4>out of silk?<nl><c4> <nl><c3>Species-<nl><c4>Triceratops<nl><c4> <nl><c3>Blood Type-<nl><c4>AB, Cold<nl><c4> <nl><c3>Height-<nl><c4>6 Ft., 11 Inches<nl><c4> <nl><c3>Weight-<nl><c4>1375 lbs (give or take a cheeseburger)<nl><c4> <nl><c3>Shoe Size-<nl><c4>19EEE (Air Dinos)<nl><c4> <nl><c3>Birthdate-<nl><c4>Unknown<nl><c4> <nl><c3>Birthplace-<nl><c4>Unknown<nl><c4> <nl><c3>Ambitions-<nl><c4>A perfectly stocked wine cellar,<nl><c4>Chinese silk robe, hand-crafted<nl><c4>action figures<nl><c4> <nl><c3>Likes-<nl><c4>Chun-Li, video games, Ex-Mutants<nl><c4>comic books<nl><c4> <nl><c3>Dislikes-<nl><c4>Ken, Ryu, lawyers<nl><c4> <nl><c3>Favorite Food-<nl><c4>Chili, Velveeta, Pez<nl><c4> <nl><c3>Dress Code-<nl><c4>Hawaiian Shirt (no polyester)<nl><c4> <nl><c3>Favorite Saying-<nl><c4>Can we stop along the way?  I'm<nl><c4>hungry!<nl><c4> <nl><c3>Favorite Saying, Part II-<nl><c4>It`s my favorite wine--the one with<nl><c4>Elvis` picture on the label!<nl><c4> <nl><c3>Favorite TV Show-<nl><c4>Face the Nation<nl><c4> <nl><c3>Favorite Movie-<nl><c4>The Sound of Music (He likes to shoot<nl><c4>at the screen)<nl><c4> <nl><c3>Favorite Sport-<nl><c4>Boxing<nl><c4> <nl><c3>Weakness-<nl><c4>Girls, fast cars<nl>",
+          "translated": "<c3>LORENZO<nl><c1> <nl><c4>Lorenzo, un triceratops, es el esnob<nl><c4>del grupo: amante de la buena comida,<nl><c4>el buen vino y la ropa fina.<nl><c4>Con un caudal inagotable de camisas<nl><c4>hawaianas a medida y nunca lleva la<nl><c4>misma dos veces.<nl><c4>¿Alguien sabe cómo quitar las manchas<nl><c4>de sangre de la seda?<nl><c4> <nl><c3>Especie-<nl><c4>Triceratops<nl><c4> <nl><c3>Grupo sanguíneo-<nl><c4>AB, fría<nl><c4> <nl><c3>Altura-<nl><c4>2,11 m (6 pies 11 pulg.)<nl><c4> <nl><c3>Peso-<nl><c4>1375 libras (o algo más)<nl><c4> <nl><c3>Talla de zapato-<nl><c4>19EEE (Air Dinos)<nl><c4> <nl><c3>Nacimiento-<nl><c4>Desconocido<nl><c4> <nl><c3>Lugar de nacimiento-<nl><c4>Desconocido<nl><c4> <nl><c3>Ambiciones-<nl><c4>Una bodega bien surtida, una túnica de<nl><c4>seda china y unas figuras de acción<nl><c4>artesanales<nl><c4> <nl><c3>Aficiones-<nl><c4>Chun-Li, videojuegos, los cómics de<nl><c4>Ex-Mutants<nl><c4> <nl><c3>Manías-<nl><c4>Ken, Ryu, los abogados<nl><c4> <nl><c3>Comida favorita-<nl><c4>Chili, Velveeta, Pez<nl><c4> <nl><c3>Vestimenta-<nl><c4>Camisa hawaiana (sin poliéster)<nl><c4> <nl><c3>Su frase favorita-<nl><c4>¿Podemos parar por el camino?<nl><c4>¡Tengo hambre!<nl><c4> <nl><c3>Su frase favorita II-<nl><c4>Es mi vino favorito: ¡el de la<nl><c4>etiqueta con la cara de Elvis!<nl><c4> <nl><c3>Serie favorita-<nl><c4>Face the Nation<nl><c4> <nl><c3>Película favorita-<nl><c4>Sonrisas y lágrimas (le gusta disparar<nl><c4>a la pantalla)<nl><c4> <nl><c3>Deporte favorito-<nl><c4>Boxeo<nl><c4> <nl><c3>Punto débil-<nl><c4>Las chicas, los coches rápidos<nl>"
+        },
+        "2": {
+          "text_offset": "0x812",
+          "pointer_offset": "0x15D34",
+          "original": "<c3>REESE<nl><c4> <nl><c4>Reese, the one-eyed Stegosaurus, is a <nl><c4>wild card.  Uncontrollable to the<nl><c4>point of hysteria, there`s no telling<nl><c4>what he`ll do next.  Not one for<nl><c4>efficiency, he`ll use a cannon to<nl><c4>swat a fly.<nl><c4> <nl><c3>Species-<nl><c4>Stegosaurus<nl><c4> <nl><c3>Blood Type-<nl><c4>O, Cold<nl><c4> <nl><c3>Height-<nl><c4>7 ft., 2 inches<nl><c4> <nl><c3>Weight-<nl><c4>1500 lbs<nl><c4> <nl><c3>Shoe Size-<nl><c4>26EEEE+ (Air Dinos)<nl><c4> <nl><c3>Brain-<nl><c4>Size of Walnut<nl><c4> <nl><c3>Birthdate-<nl><c4>Unknown<nl><c4> <nl><c3>Birthplace-<nl><c4>Unknown<nl><c4> <nl><c3>Ambitions-<nl><c4>Keep head down, fire as often as<nl><c4>possible<nl><c4> <nl><c3>Likes-<nl><c4>Clint Eastwood, Kojak, flashpoints<nl><c4> <nl><c3>Dislikes-<nl><c4>World Peace, reloading<nl><c4> <nl><c3>Favorite Food-<nl><c4>Cheeseburgers<nl><c4> <nl><c3>Dress Code-<nl><c4>Eyepatch, gloves<nl><c4> <nl><c3>Favorite Saying-<nl><c4>We`re going to need bigger guns!<nl><c4> <nl><c3>Favorite saying, Part II-<nl><c4>More ammo!<nl><c4> <nl><c3>Favorite Saying, Part III-<nl><c4>I`m the strongest dino in the world!<nl><c4> <nl><c3>Favorite Song-<nl><c4>Eve of Destruction<nl><c4> <nl><c3>Favorite TV Show-<nl><c4>Charlie`s Angels<nl><c4> <nl><c3>Favorite Movie-<nl><c4>Terminator, Terminator II, Terminator<nl><c4>III (he`s hoping)<nl><c4> <nl><c3>Favorite Sport-<nl><c4>Hockey<nl><c4> <nl><c3>Last Book Read-<nl><c4>TV Guide<nl><c4> <nl><c3>Weakness-<nl><c4>Itchy trigger finger<nl>",
+          "translated": "<c3>REESE<nl><c4> <nl><c4>Reese, el estegosaurio tuerto, es una<nl><c4>incógnita. Incontrolable hasta la<nl><c4>histeria, nunca se sabe qué hará<nl><c4>después. No es dado a la eficiencia:<nl><c4>usará un cañón para matar una mosca.<nl><c4> <nl><c3>Especie-<nl><c4>Estegosaurio<nl><c4> <nl><c3>Grupo sanguíneo-<nl><c4>O, fría<nl><c4> <nl><c3>Altura-<nl><c4>2,18 m (7 pies 2 pulg.)<nl><c4> <nl><c3>Peso-<nl><c4>1500 libras (680 kg)<nl><c4> <nl><c3>Talla de zapato-<nl><c4>26EEEE+ (Air Dinos)<nl><c4> <nl><c3>Cerebro-<nl><c4>Del tamaño de una nuez<nl><c4> <nl><c3>Nacimiento-<nl><c4>Desconocido<nl><c4> <nl><c3>Lugar de nacimiento-<nl><c4>Desconocido<nl><c4> <nl><c3>Ambiciones-<nl><c4>Mantener la cabeza agachada y disparar<nl><c4>todo lo posible<nl><c4> <nl><c3>Aficiones-<nl><c4>Clint Eastwood, Kojak, el fuego<nl><c4> <nl><c3>Manías-<nl><c4>La paz mundial, recargar<nl><c4> <nl><c3>Comida favorita-<nl><c4>Hamburguesas con queso<nl><c4> <nl><c3>Vestimenta-<nl><c4>Parche en el ojo, guantes<nl><c4> <nl><c3>Su frase favorita-<nl><c4>¡Necesitaremos armas más grandes!<nl><c4> <nl><c3>Su frase favorita II-<nl><c4>¡Más munición!<nl><c4> <nl><c3>Su frase favorita III-<nl><c4>¡Soy el dino más fuerte del mundo!<nl><c4> <nl><c3>Canción favorita-<nl><c4>Eve of Destruction<nl><c4> <nl><c3>Serie favorita-<nl><c4>Los ángeles de Charlie<nl><c4> <nl><c3>Película favorita-<nl><c4>Terminator, Terminator II,<nl><c4>Terminator III (tiene esperanza)<nl><c4> <nl><c3>Deporte favorito-<nl><c4>Hockey<nl><c4> <nl><c3>Último libro leído-<nl><c4>Guía de TV<nl><c4> <nl><c3>Punto débil-<nl><c4>Dedo fácil en el gatillo<nl>"
+        }
+      },
+      "section_pointer_sites": [
+        "0x15D5A",
+        "0x15D62"
+      ],
+      "raw": true,
+      "copy_calls": [
+        [
+          "0x15D3A",
+          "0x15D3E"
+        ]
+      ]
+    },
+    "story": {
+      "text_address": "0x17F7E",
+      "pointer_address": "0x17DA4",
+      "method": "lz_scenes",
+      "note": "Guion de la intro y avisos entre fases (6 escenas).",
+      "source_offset": "0x17F7E",
+      "source_length": "0x570",
+      "abs32_sites": [
+        "0x17DA4"
+      ],
+      "pc_lea_sites": [],
+      "alloc_sites": [
+        "0x17D8C"
+      ],
+      "alloc_size": "0x6D2",
+      "decompressed_size": "0x6D2",
+      "structure": {
+        "scene_headers": [
+          [
+            0,
+            2,
+            0,
+            6
+          ],
+          [
+            0,
+            2,
+            0,
+            24
+          ],
+          [
+            0,
+            2,
+            0,
+            7
+          ],
+          [
+            0,
+            2,
+            0,
+            3
+          ],
+          [
+            0,
+            2,
+            0,
+            7
+          ],
+          [
+            0,
+            2,
+            0,
+            3
+          ]
+        ],
+        "scene_gaps": [
+          [
+            255
+          ],
+          [
+            255,
+            0
+          ],
+          [
+            255,
+            0
+          ],
+          [
+            255
+          ],
+          [
+            255
+          ],
+          [
+            255
+          ]
+        ],
+        "scene_pointer_sites": {
+          "1": "0x17E4E",
+          "2": "0x17E60",
+          "3": "0x17E72",
+          "4": "0x17E86",
+          "5": "0x17E3C"
+        }
+      },
+      "messages": {
+        "0": {
+          "text_offset": "0x4",
+          "pointer_offset": "0x17DA4",
+          "original": "Whoa!  Slight problem<nl>with your Genesis'<nl>Blast Processing Unit!<nl>Psych!!!<nl><nl>Anyways, the REAL game starts here.<nl><nl>Good luck!<nl><nl>You`ll need it...<nl>",
+          "translated": "¡Uy! ¡Un pequeño problema<nl>con tu Unidad de<nl>Procesamiento de Alta<nl>Velocidad de tu Mega Drive!<nl><nl>En fin, aquí empieza el juego.<nl><nl>¡Buena suerte!<nl><nl>La vas a necesitar...<nl>"
+        },
+        "1": {
+          "text_offset": "0x96",
+          "pointer_offset": "0x17DA4",
+          "original": "Hope you enjoyed that<nl>little ride up here...<nl>Next time fly - it`s<nl>faster!<nl><nl>Alas, the terrible beast known only<nl>as Mega Minotaur (Hoyt, to his buds)<nl>has taken control of the Cable TV<nl>receiver on top of the Empire State<nl>Building!  Millions of subscribers<nl>are really peeved!!!<nl><nl>Try knocking off his hands before<nl>you go for the head.<nl><nl>Good luck!<nl>",
+          "translated": "Espero que hayas<nl>disfrutado del paseo<nl>hasta aquí...<nl>La próxima vez, ¡vuela!<nl>Es más rápido.<nl><nl>¡Ay! La terrible bestia que sólo<nl>conocemos como Mega Minotauro (Hoyt,<nl>para los amigos), ¡ha tomado el<nl>control del receptor de cable del<nl>Empire State! ¡¡¡Y millones de<nl>abonados están furiosos!!!<nl><nl>Intenta arrancarle las manos antes<nl>de ir a por la cabeza.<nl><nl>¡Buena suerte!<nl>"
+        },
+        "2": {
+          "text_offset": "0x1F2",
+          "pointer_offset": "0x17DA4",
+          "original": "Great goin` so far!  I<nl>didn`t think you'd get<nl>past that nasty Tesla<nl>Machine!<nl><nl>But you`re not out of the water yet!<nl>The evil Mega Monster is trying to<nl>destroy Hoover Dam!  You need to<nl>stop him at all costs!  The tourists<nl>are depending on you!!!<nl><nl>I suggest that you shoot off both of<nl>his hands before going for the head.<nl><nl>Oh yeah, I almost forgot!  Smart<nl>Bombs won`t help you against this<nl>malignant beast!!!<nl>",
+          "translated": "¡Buen trabajo hasta<nl>ahora! ¡No creía que<nl>pasaras esa máquina<nl>Tesla!<nl><nl>¡Pero no estás fuera de peligro!<nl>El malvado Mega Monstruo intenta<nl>destruir la presa Hoover. ¡Debes<nl>pararle cueste lo que cueste!<nl>¡Los turistas dependen de ti!<nl><nl>Te sugiero que le dispares a las dos<nl>manos antes de ir a por la cabeza.<nl><nl>Ah, ¡casi lo olvido! ¡¡¡Las bombas<nl>inteligentes no te servirán contra<nl>esta bestia maligna!!!<nl>"
+        },
+        "3": {
+          "text_offset": "0x38E",
+          "pointer_offset": "0x17DA4",
+          "original": "Good job!  It looks<nl>like you`ve made it<nl>down here in one<nl>piece!<nl><nl>The hideous Mega Lizard is frozen<nl>down here!  You'll need to freeze up<nl>this Jurassic nightmare once again.<nl><nl>Only a true Dino sharpshooter can<nl>hit the re-freeze button on the<nl>cryogenic regulator.<nl><nl>Oh yeah, I almost forgot!  Smart<nl>Bombs won`t help you against this<nl>malignant beast!!!<nl><nl>Good luck!!!<nl>",
+          "translated": "¡Buen trabajo!<nl>¡Parece que has llegado<nl>de una pieza!<nl><nl><nl>¡El horrible Mega Lagarto está aquí<nl>congelado! Tendrás que congelar de<nl>nuevo esta pesadilla jurásica.<nl><nl>Sólo un auténtico tirador Dino puede<nl>pulsar el botón de recongelación del<nl>regulador criogénico.<nl><nl>Ah, ¡casi lo olvido! ¡¡¡Las bombas<nl>inteligentes no te servirán contra<nl>esta bestia maligna!!!<nl><nl>¡Buena suerte!<nl>"
+        },
+        "4": {
+          "text_offset": "0x4FC",
+          "pointer_offset": "0x17DA4",
+          "original": "Well Done!!!  Game`s<nl>over...  Thanks for<nl>playing...<nl><nl>NOT!!!<nl><nl>This Final Boss is a mystery.  No one<nl>has ever made it this far before...<nl><nl>Rumor has it that you need to shoot<nl>the clone creators on the vat rim...<nl>then things`ll really start to spin!<nl><nl>What happens next is anyone's guess.<nl><nl>Oh yeah, I almost forgot!  Using<nl>Smart Bombs on this level would be<nl>bad...  So don`t use `em!!!<nl>",
+          "translated": "¡¡¡Bien hecho!!! El<nl>juego ha terminado...<nl>Gracias por jugar...<nl><nl>¡¡¡NO!!!<nl><nl>Este Jefe Final es un misterio.<nl>Nadie ha llegado nunca tan lejos...<nl><nl>Se rumorea que hay que disparar a<nl>los clones del borde de la cubeta...<nl>¡y todo empezará a girar de verdad!<nl><nl>Lo que pase después... quién sabe.<nl><nl>Ah, ¡casi lo olvido! Usar bombas<nl>inteligentes en este nivel sería<nl>malo... ¡¡¡no las uses!!!<nl>"
+        },
+        "5": {
+          "text_offset": "0x67E",
+          "pointer_offset": "0x17DA4",
+          "original": "Thanks for playing<nl>Dinosaurs for Hire!<nl><nl>Next time, try a<nl>harder difficulty<nl>level...",
+          "translated": "¡Gracias por jugar a<nl>Dinosaurs for Hire!<nl><nl>La próxima vez, prueba<nl>una dificultad más<nl>alta..."
+        }
+      },
+      "raw": true,
+      "copy_calls": [
+        [
+          "0x17DAA",
+          "0x17DAE"
+        ]
+      ]
+    },
+    "credits": {
+      "text_address": "0x25DD8",
+      "pointer_address": "0x25AA2",
+      "method": "lz_lines",
+      "note": "Créditos finales (dos pantallas usan el mismo texto).",
+      "source_offset": "0x25DD8",
+      "source_length": "0x46F",
+      "abs32_sites": [
+        "0x25AA2"
+      ],
+      "pc_lea_sites": [
+        "0x27A4A"
+      ],
+      "alloc_sites": [
+        "0x25A8A",
+        "0x27A34"
+      ],
+      "alloc_size": "0x550",
+      "decompressed_size": "0x550",
+      "structure": {
+        "suffix_raw": [
+          255
+        ]
+      },
+      "messages": {
+        "0": {
+          "text_offset": "0x0",
+          "pointer_offset": "0x25AA2",
+          "original": "<c1>Tom Mason`s<nl><c1>Dinosaurs For Hire<nl><nl><nl><nl><nl><c1>Developed By<nl><c3>SEGA Interactive Development Division<nl><nl><nl><nl><nl><c1>Programmers<nl><c3>John `Buck` Kuwaye<nl><c3>Steven `Ski Master` Lashower<nl><c3>Jack `Le Saboteur` Loh<nl><c3>David `Mac Man` Chaplin<nl><c3>Mike `Mr. H-Blank` Terlecki<nl><nl><nl><nl><nl><c1>LOBSTER Engine Programming<nl><c3>Christopher `Engine Meister` Warner<nl><c3>Robert `Elvis is King` Morgan<nl><nl><nl><nl><nl><c1>Artists<nl><c3>Dave `The Sprite Master` Russ<nl><c3>Art `The Background God` Wong<nl><c3>Albert `Char Master` Co<nl><c3>Todd `Blood Worm` Tomlinson<nl><c3>Doug `Dig Dug` Nishimura<nl><c3>Barbara Meyers<nl><nl><nl><nl><nl><c1>Technical Support<nl><c3>Ala `Harbinger of Doom` Diaz<nl><nl><nl><nl><nl><c1>Project Manager<nl><c3>Mark `Design-on-the-Fly` Nausha<nl><nl><nl><nl><nl><c1>Music<nl><c3>Paul `Moto` Gadbois<nl><c3>Dave `Chick-a-Baugh` Delia<nl><nl><nl><nl><nl><c1>Lead Tester<nl><c3>Terry `Tex-T-Bone` Banks<nl><nl><nl><nl><nl><c1>Testers<nl><c3>Rey `Multitasker` Alferez<nl><c3>Bill `Dr. Mastermind` Person<nl><c3>Kurt `Tindle-Fly` Tindle<nl><c3>Crisi Albertson<nl><c3>Heather Meigs<nl><c3>Lisa Stuart<nl><c3>Maria Tuzzo<nl><c3>Greg Becksted<nl><c3>Joe Cain<nl><c3>Harry Chavez<nl><c3>Marc Dawson<nl><c3>Dave Forster<nl><c3>Roman Greco<nl><c3>Keith Higashihara<nl><c3>Jason Kuo<nl><c3>Tony Lynch<nl><c3>John Russell<nl><c3>Siegie Stangenberg<nl><c3>Paul Walker<nl><c3>Jeff Todd<nl><c3>Blair Bullock<nl><c3>Richie Hideshima<nl><c3>William Emery<nl><c3>Atom Ellis<nl><c3>Glen Cureton<nl><c3>Ivan Fong<nl><c3>Vasily Lewis<nl><c3>Srini Chandra<nl><c3>Tim Spengler<nl><c3>Wesley Gittens<nl><nl><nl><nl><nl><c1>Dinosaurs for Hire Created By<nl><c3>Tom Mason<nl><nl><nl><nl><nl><c1>Producer<nl><c3>Stu Kosoy<nl><nl><nl><nl><nl><c1>Product Manager<nl><c3>Jamie Wojick<nl><nl><nl><nl><nl><c1>Program Code/Design (C) 1993 SEGA<nl><c1>All Rights Reserved<nl>",
+          "translated": "<c1>Tom Mason`s<nl><c1>Dinosaurs For Hire<nl><nl><nl><nl><nl><c1>Desarrollado por<nl><c3>SEGA Interactive Development Division<nl><nl><nl><nl><nl><c1>Programadores<nl><c3>John `Buck` Kuwaye<nl><c3>Steven `Ski Master` Lashower<nl><c3>Jack `Le Saboteur` Loh<nl><c3>David `Mac Man` Chaplin<nl><c3>Mike `Mr. H-Blank` Terlecki<nl><nl><nl><nl><nl><c1>Programación del motor LOBSTER<nl><c3>Christopher `Engine Meister` Warner<nl><c3>Robert `Elvis is King` Morgan<nl><nl><nl><nl><nl><c1>Artistas<nl><c3>Dave `The Sprite Master` Russ<nl><c3>Art `The Background God` Wong<nl><c3>Albert `Char Master` Co<nl><c3>Todd `Blood Worm` Tomlinson<nl><c3>Doug `Dig Dug` Nishimura<nl><c3>Barbara Meyers<nl><nl><nl><nl><nl><c1>Soporte técnico<nl><c3>Ala `Harbinger of Doom` Diaz<nl><nl><nl><nl><nl><c1>Jefe de proyecto<nl><c3>Mark `Design-on-the-Fly` Nausha<nl><nl><nl><nl><nl><c1>Música<nl><c3>Paul `Moto` Gadbois<nl><c3>Dave `Chick-a-Baugh` Delia<nl><nl><nl><nl><nl><c1>Probador jefe<nl><c3>Terry `Tex-T-Bone` Banks<nl><nl><nl><nl><nl><c1>Probadores<nl><c3>Rey `Multitasker` Alferez<nl><c3>Bill `Dr. Mastermind` Person<nl><c3>Kurt `Tindle-Fly` Tindle<nl><c3>Crisi Albertson<nl><c3>Heather Meigs<nl><c3>Lisa Stuart<nl><c3>Maria Tuzzo<nl><c3>Greg Becksted<nl><c3>Joe Cain<nl><c3>Harry Chavez<nl><c3>Marc Dawson<nl><c3>Dave Forster<nl><c3>Roman Greco<nl><c3>Keith Higashihara<nl><c3>Jason Kuo<nl><c3>Tony Lynch<nl><c3>John Russell<nl><c3>Siegie Stangenberg<nl><c3>Paul Walker<nl><c3>Jeff Todd<nl><c3>Blair Bullock<nl><c3>Richie Hideshima<nl><c3>William Emery<nl><c3>Atom Ellis<nl><c3>Glen Cureton<nl><c3>Ivan Fong<nl><c3>Vasily Lewis<nl><c3>Srini Chandra<nl><c3>Tim Spengler<nl><c3>Wesley Gittens<nl><nl><nl><nl><nl><c1>Dinosaurs for Hire creado por<nl><c3>Tom Mason<nl><nl><nl><nl><nl><c1>Productor<nl><c3>Stu Kosoy<nl><nl><nl><nl><nl><c1>Jefe de producto<nl><c3>Jamie Wojick<nl><nl><nl><nl><nl><c1>Código y diseño (C) 1993 SEGA<nl><c1>Todos los derechos reservados<nl>"
+        }
+      },
+      "raw": true,
+      "copy_calls": [
+        [
+          "0x25AA8",
+          "0x25AAC"
+        ],
+        [
+          null,
+          "0x27A54"
+        ]
+      ]
+    }
+  }
+}
